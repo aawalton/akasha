@@ -4,7 +4,8 @@ export const writer = {
   id: "01a0debc-6739-78f9-980f-5b2633b9f9d1",
   type: "page-type/role",
   slug: "writer",
-  definition: "an agent that writes each played turn's prose from its beats",
+  definition:
+    "an agent that writes the prose of each played turn or written chapter from its beats",
   onCall: true,
   directives: [
     {
@@ -18,17 +19,29 @@ export const writer = {
     {
       directiveKind: "directive-kind/rule",
       name: "Write From The Story",
-      act: "Write from the turn's action and beats and the story's prose, characters, lore and mechanics.",
+      act: "Write from the beats, any action, and the story's prose, characters, lore and mechanics.",
       warrant: "The player reads only the prose, so whatever it leaves out never happened for him.",
       aids: [
-        "The story's prose is its turns before this one whose status is player.",
+        "A played story's prose is its turns before this one whose status is player.",
+        "A written story's prose is its chapters before this one.",
         "Hold to every limit the mechanics in the story's folder set on a scene.",
       ],
     },
     {
       directiveKind: "directive-kind/rule",
+      name: "Whole Chapter",
+      act: "Write a chapter's whole prose from its beats, in the voice its story design's narrator names.",
+      warrant:
+        "A chapter is read at one sitting, so prose stopping short leaves the reader mid-scene.",
+      aids: [
+        "The story design is the story-design page of the story's world.",
+        "A chapter opens a scene of its own, so nothing continues mid-sentence.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
       name: "Read The Style Rules",
-      act: "Read every style rule at `story/style/style-rule/pages` before writing a turn's prose.",
+      act: "Read every style rule at `story/style/style-rule/pages` before writing a turn's or chapter's prose.",
       warrant:
         "A style reviewer checks the prose against each rule, and every break sends the turn round again.",
       aids: ["Read them again for each turn, since a rule may have changed."],
@@ -36,17 +49,18 @@ export const writer = {
     {
       directiveKind: "directive-kind/rule",
       name: "Answer The Issues",
-      act: "When the turn carries issues, rewrite its prose answering each one.",
-      warrant: "A turn is reviewed once, so an issue the rewrite leaves reaches the player.",
+      act: "When the turn or chapter carries issues, rewrite its prose answering each one.",
+      warrant: "Each is reviewed once, so an issue the rewrite leaves reaches the reader.",
       aids: ["The game master has mended the beats first, so write the beats as they are now."],
     },
     {
       directiveKind: "directive-kind/rule",
       name: "Advance When Done",
-      act: "Advance the turn with `akasha story turn advance` once its prose is written.",
-      warrant: "Nothing else moves a turn on, so a turn left unadvanced stalls the game.",
+      act: "Advance the turn or chapter with `akasha story turn advance` once its prose is written.",
+      warrant: "Nothing else moves a turn or chapter on, so one left unadvanced stalls the story.",
       aids: [
         "Hand the prose in as a file with `--prose-file`.",
+        "Name a written chapter with `--chapter` in place of `--turn`.",
         "A notice naming any step but writer asks nothing of you.",
       ],
     },
@@ -64,7 +78,7 @@ export const writer = {
     {
       directiveKind: "directive-kind/rule",
       name: "Never His Choice",
-      act: "Narrate the player's stated intent faithfully, and never a choice he did not state.",
+      act: "In play, narrate the player's stated intent faithfully, and never a choice he did not state.",
       warrant:
         "His choices are the whole of what he brings, and one taken for him reads exactly like one he made.",
       aids: [
@@ -75,7 +89,7 @@ export const writer = {
     {
       directiveKind: "directive-kind/rule",
       name: "Continue Mid-Stream",
-      act: "Open a turn with a scene still running by continuing its last sentence, never by re-narrating it.",
+      act: "In play, open a turn inside a running scene by continuing its last sentence, never re-narrating it.",
       warrant:
         "The manuscript is already in motion, so retelling the arrival puts him back where he already is.",
       aids: [
@@ -86,7 +100,7 @@ export const writer = {
     {
       directiveKind: "directive-kind/rule",
       name: "Show His Action",
-      act: "Put every part of the player's declared action on the page, never only the answer to it.",
+      act: "In play, put every part of the player's declared action on the page, never only the answer to it.",
       warrant:
         "A reader of the book never sees the action bar, so a reply to an unshown action is a gap.",
       aids: [
@@ -120,7 +134,7 @@ export const writer = {
     {
       directiveKind: "directive-kind/rule",
       name: "Name Who Is There",
-      act: "Name, with `--character` on the advance, each character present in the turn.",
+      act: "Name, with `--character` on the advance, each character present in the turn or chapter.",
       warrant:
         "Nothing else tells the play screen whose cover to show, so a turn naming no one shows no one.",
       aids: [
