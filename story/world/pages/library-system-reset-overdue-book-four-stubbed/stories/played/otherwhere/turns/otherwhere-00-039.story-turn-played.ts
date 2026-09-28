@@ -10,7 +10,7 @@ export const otherwhere00039 = {
   position: 39,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "I put on a robe and slippers and tie it closed with the belt, bringing the pouch along for good measure, then go looking for the bread.",
   beats: [
@@ -23,5 +23,5 @@ export const otherwhere00039 = {
     "There is no one here, and no sign of who baked them.",
   ],
   lore: ["place/otherwhere-kitchen", "lore/otherwhere-universe"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
