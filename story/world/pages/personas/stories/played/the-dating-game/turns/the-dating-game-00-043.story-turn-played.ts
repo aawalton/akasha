@@ -10,7 +10,7 @@ export const theDatingGame00043 = {
   position: 43,
   prose: "txt",
   characters: ["character-other/the-dating-game-aelwyn", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action: "I join her for the stretches.",
   beats: [
     "He sits down on the grass a little way from her and joins her stretches.",
@@ -24,5 +24,5 @@ export const theDatingGame00043 = {
     "Afterward she flops back in the grass with her arms flung out, squinting up through the pines.",
     "\"Oh, heads up. You're in today's video. It goes up tonight. You're gonna be internet famous.\"",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
