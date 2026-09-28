@@ -318,6 +318,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/properties/tower-skill-level.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/ranks/properties/tower-skill-rank-width.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/properties/appearance-count.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/stories/played/chapters/properties/last-turn-position.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/champion-point/temper-champion-star/properties/eso-champion-skill-id.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/companion/armor-weight/properties/armor-type.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/companion/armor-weight/properties/ttc-category-id.number-property.ts","typed":true,"deferred":false}

@@ -8,7 +8,11 @@ export const storyChapterPlayed = {
   pluralSlug: "chapters",
   extends: ["page-type/chapter"],
   runsTabooCheck: false,
-  parts: ["record-property/chapter-turn-covers"],
+  parts: [
+    "record-property/chapter-turn-covers",
+    "text-property/last-turn",
+    "number-property/last-turn-position",
+  ],
   properties: [
     {
       pageProperty: "record-property/chapter-turn-covers",
@@ -16,6 +20,8 @@ export const storyChapterPlayed = {
       many: true,
       maxCount: null,
     },
+    { pageProperty: "text-property/last-turn", required: false, many: false },
+    { pageProperty: "number-property/last-turn-position", required: false, many: false },
   ],
   detailConfig: {
     frame: {

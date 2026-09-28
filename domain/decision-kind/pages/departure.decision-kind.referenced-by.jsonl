@@ -3845,6 +3845,8 @@
 {"propertySlug":"decision-kind","path":"story/world/properties/reading-mechanic.relation-property.ts","id":"01a063ce-6216-7007-b529-a31661f9223d"}
 {"propertySlug":"decision-kind","path":"story/world/properties/reading-slug.text-property.ts","id":"01a063ce-6216-7003-82e9-30fd6cf9ebfc"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/chapters/properties/chapter-turn-covers.record-property.ts","id":"01a0e5cc-d3bc-7308-be9d-19011bb2e2f4"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/chapters/properties/last-turn-position.number-property.ts","id":"01a0e5d3-d337-7dbd-bb65-0131d5ddf66a"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/chapters/properties/last-turn.text-property.ts","id":"01a0e5d3-d337-7946-9983-82bda3d41a93"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/chapters/story-chapter-played.page-type.ts","id":"01a064b4-46c9-7489-9817-d9dae65e7936"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.ts","id":"01a0d48a-8a47-745b-8d92-693cc1ecc076"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/action-bar-state/action-bar-state.module.ts","id":"01a0d48a-0758-724f-85b2-9b2412f0754f"}

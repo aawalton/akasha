@@ -61,6 +61,7 @@
 {"propertySlug":"name-format","path":"story/world/mechanics/properties/reference-event.text-property.ts","id":"01a06558-a991-7b74-a9b8-26a430ce7964"}
 {"propertySlug":"name-format","path":"story/world/mechanics/properties/reference-kind.text-property.ts","id":"01a06558-a991-7715-82b3-ff639c990933"}
 {"propertySlug":"name-format","path":"story/world/mechanics/properties/to-slug.text-property.ts","id":"01a06558-a991-7784-9188-82a587ffd4bd"}
+{"propertySlug":"name-format","path":"story/world/stories/played/chapters/properties/last-turn.text-property.ts","id":"01a0e5d3-d337-7946-9983-82bda3d41a93"}
 {"propertySlug":"name-format","path":"temper/catalog/champion-point/temper-champion-star/properties/champion-constellation.text-property.ts","id":"01a0e135-d98c-7a82-88f8-947f5438cf2c"}
 {"propertySlug":"name-format","path":"temper/catalog/companion/base-role/properties/default-main-hand.text-property.ts","id":"01a0df69-212d-7d4c-91ac-573c71b6859b"}
 {"propertySlug":"name-format","path":"temper/catalog/companion/base-role/properties/default-off-hand.text-property.ts","id":"01a0df69-212e-7648-81b2-68a1167a5ce3"}
