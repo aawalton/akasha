@@ -123,6 +123,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "No match means a self-pay chart, a note for the social worker, and no questions from police.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A birth date of January 22, 2016 makes a patient twenty-one, nine days past her birthday.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
