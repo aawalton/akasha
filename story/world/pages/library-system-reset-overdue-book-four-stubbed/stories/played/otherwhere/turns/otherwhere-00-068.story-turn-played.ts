@@ -23,4 +23,5 @@ export const otherwhere00068 = {
     "It is slow, careful work; the first book is still rising while the second golem stoops.",
   ],
   lore: ["lore/otherwhere-golems"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
