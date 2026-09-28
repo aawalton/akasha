@@ -7,5 +7,5 @@ export const otherwhereVStatus = {
   title: "Status",
   world: "world/ends-of-magic",
   aliases: ["status box", "status sheet", "status screen"],
-  description: "The Davrar box listing a person's Talents, classes, levels, resources and skills.",
+  description: "A box of a person's Talents, classes, levels, resources and skills.",
 } as const satisfies WorldMechanic

@@ -7,5 +7,5 @@ export const otherwhereVTalents = {
   title: "Talents",
   world: "world/ends-of-magic",
   aliases: ["Talent", "Permanent Talent", "Pending Talent"],
-  description: "A personal power Davrar grants a person, ranked by use.",
+  description: "A ranked personal power.",
 } as const satisfies WorldMechanic

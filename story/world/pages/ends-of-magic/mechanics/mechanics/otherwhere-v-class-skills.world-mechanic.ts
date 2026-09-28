@@ -7,5 +7,5 @@ export const otherwhereVClassSkills = {
   title: "Class Skills",
   world: "world/ends-of-magic",
   aliases: ["class skill", "New Class skill"],
-  description: "A skill a class grants its holder on the theme of that class.",
+  description: "A skill belonging to a class.",
 } as const satisfies WorldMechanic

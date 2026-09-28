@@ -7,5 +7,5 @@ export const otherwhereVUtilitySkills = {
   title: "Utility Skills",
   world: "world/ends-of-magic",
   aliases: ["utility skill", "Pending utility skill"],
-  description: "A ranked skill Davrar grants a person apart from any class.",
+  description: "A ranked skill belonging to no class.",
 } as const satisfies WorldMechanic

@@ -7,5 +7,5 @@ export const otherwhereVLevels = {
   title: "Levels",
   world: "world/ends-of-magic",
   aliases: ["level"],
-  description: "A number Davrar gives each class, rising as its holder overcomes challenges.",
+  description: "The number measuring a class's growth.",
 } as const satisfies WorldMechanic

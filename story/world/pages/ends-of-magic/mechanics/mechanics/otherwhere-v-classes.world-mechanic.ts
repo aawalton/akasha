@@ -7,6 +7,5 @@ export const otherwhereVClasses = {
   title: "Classes",
   world: "world/ends-of-magic",
   aliases: ["class"],
-  description:
-    "A calling a person chooses from Davrar's offers, which carries levels and class skills.",
+  description: "A person's leveled calling.",
 } as const satisfies WorldMechanic

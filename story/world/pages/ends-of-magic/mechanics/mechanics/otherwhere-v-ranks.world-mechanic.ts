@@ -7,5 +7,5 @@ export const otherwhereVRanks = {
   title: "Ranks",
   world: "world/ends-of-magic",
   aliases: ["rank"],
-  description: "The number after a Talent or utility skill, showing how far it has grown.",
+  description: "The number after a Talent or utility skill.",
 } as const satisfies WorldMechanic

@@ -7,5 +7,5 @@ export const otherwhereVRecognition = {
   title: "Arrival and Recognition",
   world: "world/ends-of-magic",
   aliases: ["Welcome to Davrar", "Davrar has recognized you"],
-  description: "The boxes Davrar shows a newcomer on arrival and when it recognizes them.",
+  description: "A newcomer's first boxes of welcome and recognition.",
 } as const satisfies WorldMechanic
