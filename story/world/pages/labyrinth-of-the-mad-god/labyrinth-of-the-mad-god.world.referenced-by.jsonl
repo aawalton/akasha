@@ -21,9 +21,14 @@
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/checks/otherwhere-harm.world-check.ts","id":"01a0e996-0a34-7c37-ac8e-10400ca3107b"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/checks/otherwhere-needs.world-check.ts","id":"01a0e993-be67-7db9-998f-26e3ccb4f5f9"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/checks/otherwhere-time-passing.world-check.ts","id":"01a0e992-4350-774a-964f-a8e84e8dd4dc"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/classes/otherwhere-survivor.world-class.ts","id":"01a0e99e-1edc-7727-af5c-f78ea5c837a2"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/mechanics/otherwhere-injury.world-mechanic.ts","id":"01a0e996-0a35-7660-827c-1a73230d81ca"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/mechanics/otherwhere-resolution.world-mechanic.ts","id":"01a0e993-be67-726e-a6b3-7575d680346a"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/mechanics/otherwhere-survival.world-mechanic.ts","id":"01a0e993-be67-78fd-b947-638337818566"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/mechanics/otherwhere-time.world-mechanic.ts","id":"01a0e992-4351-7f72-ac68-f04396e7b3bf"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/traits/otherwhere-awakened-to-magic.world-trait.ts","id":"01a0e99e-1edd-7214-bf8b-9c7ddbf7bcf5"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/traits/otherwhere-gift-of-tongues.world-trait.ts","id":"01a0e99e-1edd-7484-ab0c-3a44608a1c04"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/traits/otherwhere-survivor-trait.world-trait.ts","id":"01a0e99e-1edd-778b-be0a-4acab6fee0a2"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/traits/otherwhere-versatile.world-trait.ts","id":"01a0e99e-1edd-7e36-9c63-7dd5f06b6f6f"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/otherwhere.story-played.ts","id":"01a0e982-da6b-7326-b333-04aae803aae9"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/read/labyrinth-of-the-mad-god/labyrinth-of-the-mad-god.story-read.ts","id":"01a0657d-ada3-7df0-af01-1d499717e474"}
