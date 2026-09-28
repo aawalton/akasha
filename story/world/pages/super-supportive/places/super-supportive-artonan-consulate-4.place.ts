@@ -27,6 +27,10 @@ export const superSupportiveArtonanConsulate4 = {
       fact: "Three poles out front fly multicolored streamers, the Artonans' planetary flags.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The lobby has pale terrazzo floors and a dark wood ceiling of LEDs mapping Artonan stars.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   within: "place/otherwhere-iii-chicago",
   secrets: "jsonl",
