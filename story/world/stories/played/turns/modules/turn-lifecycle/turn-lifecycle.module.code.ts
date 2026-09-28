@@ -201,10 +201,11 @@ function linesRefused(one: string, lines: readonly string[], noun: Noun): string
   if (lines.length > MOST_LINES) {
     return `a ${noun} holds at most ${MOST_LINES} ${what}, and this makes ${lines.length}`
   }
-  const at = lines.findIndex((line) => line.length > LONGEST_LINE)
-  if (at < 0) return null
-  const long = lines[at]?.length ?? 0
-  return `each of a ${noun}'s ${what} is at most ${LONGEST_LINE} characters, and ${one} ${at + 1} of ${lines.length} runs to ${long}`
+  const long = lines.flatMap((line, at) =>
+    line.length > LONGEST_LINE ? [`${one} ${at + 1} runs to ${line.length}`] : []
+  )
+  if (long.length === 0) return null
+  return `each of a ${noun}'s ${what} is at most ${LONGEST_LINE} characters, and ${long.join(", ")}`
 }
 
 function unaddressed(what: string, addresses: readonly string[]): string | null {

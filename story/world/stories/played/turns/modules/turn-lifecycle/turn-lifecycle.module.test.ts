@@ -261,9 +261,9 @@ test("a turn at the player advances no further", () => {
 })
 
 test("beats past a hundred characters, or no beats, are refused", () => {
-  const long = { kind: "beats", beats: ["Mara opens the gate", "x".repeat(101)] } as const
-  const said = refusalOf(advanced(heldAt("game-master"), MASTER, long, TWO))
-  expect(said).toContain("beat 2 of 2 runs to 101")
+  const beats = ["x".repeat(102), "Mara opens the gate", "x".repeat(101)]
+  const said = refusalOf(advanced(heldAt("game-master"), MASTER, { kind: "beats", beats }, TWO))
+  expect(said).toContain("beat 1 runs to 102, beat 3 runs to 101")
   expect(said).not.toContain("x".repeat(101))
   const none = { kind: "beats", beats: [] } as const
   expect(refusalOf(advanced(heldAt("game-master"), MASTER, none, TWO))).toContain("none")
