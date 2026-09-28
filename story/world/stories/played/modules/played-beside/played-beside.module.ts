@@ -18,6 +18,10 @@ export const playedBeside = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A read that is refused or throws is reported as well as drawn.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The seat a story played names as its coordinator agent is read with its external id.",
     },
