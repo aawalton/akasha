@@ -11,4 +11,5 @@ export const otherwhereIii00008 = {
   action:
     '"Sorry, I meant 2016." I say with a laugh. "\'86 was my mom\'s birth year. I guess I filled that out in one too many forms last year when she passed. My brain isn\'t braining too well after all that cold."',
   lore: ["place/otherwhere-iii-uptown-memorial-er"],
+  endsAt: "2037-01-31T05:14:00.000Z",
 } as const satisfies StoryTurnPlayed
