@@ -6,5 +6,5 @@ export const otherwhereVBlightmind = {
   slug: "otherwhere-v-blightmind",
   title: "Blightmind",
   world: "world/ends-of-magic",
-  description: "A vast living mass of death magic at the heart of a blight.",
+  description: "A vast living mass of death magic.",
 } as const satisfies WorldSpecies

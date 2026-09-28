@@ -6,5 +6,5 @@ export const otherwhereVEclipsemaw = {
   slug: "otherwhere-v-eclipsemaw",
   title: "Eclipsemaw",
   world: "world/ends-of-magic",
-  description: "A huge monster that lurks under the sea.",
+  description: "A huge sea monster.",
 } as const satisfies WorldSpecies

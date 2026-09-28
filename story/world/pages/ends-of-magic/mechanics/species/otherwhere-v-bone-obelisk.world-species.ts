@@ -6,5 +6,5 @@ export const otherwhereVBoneObelisk = {
   slug: "otherwhere-v-bone-obelisk",
   title: "Bone Obelisk",
   world: "world/ends-of-magic",
-  description: "An obelisk of bone found in undead blights.",
+  description: "An obelisk of bone.",
 } as const satisfies WorldSpecies

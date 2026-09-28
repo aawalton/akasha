@@ -6,5 +6,5 @@ export const otherwhereVLivingShadow = {
   slug: "otherwhere-v-living-shadow",
   title: "Living Shadow",
   world: "world/ends-of-magic",
-  description: "A flat black shadow creature made of death magic.",
+  description: "A flat black shadow creature of death magic.",
 } as const satisfies WorldSpecies

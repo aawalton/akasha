@@ -6,5 +6,5 @@ export const otherwhereVFlyingFish = {
   slug: "otherwhere-v-flying-fish",
   title: "Flying Fish",
   world: "world/ends-of-magic",
-  description: "A fish that leaps from the sea and blasts heat.",
+  description: "A heat-blasting flying fish.",
 } as const satisfies WorldSpecies

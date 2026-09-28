@@ -6,5 +6,5 @@ export const otherwhereVLeviathan = {
   slug: "otherwhere-v-leviathan",
   title: "Leviathan",
   world: "world/ends-of-magic",
-  description: "A vast sea beast of the deep ocean.",
+  description: "A vast deep-sea beast.",
 } as const satisfies WorldSpecies

@@ -6,5 +6,5 @@ export const otherwhereVZombie = {
   slug: "otherwhere-v-zombie",
   title: "Zombie",
   world: "world/ends-of-magic",
-  description: "A walking corpse raised by death magic.",
+  description: "A walking corpse.",
 } as const satisfies WorldSpecies

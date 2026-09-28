@@ -6,5 +6,5 @@ export const otherwhereVFleshTyrant = {
   slug: "otherwhere-v-flesh-tyrant",
   title: "Flesh Tyrant",
   world: "world/ends-of-magic",
-  description: "A dreaded horror of the undead blights.",
+  description: "A dreaded undead horror.",
 } as const satisfies WorldSpecies

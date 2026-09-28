@@ -6,5 +6,5 @@ export const otherwhereVRedeye = {
   slug: "otherwhere-v-redeye",
   title: "Redeye",
   world: "world/ends-of-magic",
-  description: "A dangerous sea beast of the open ocean.",
+  description: "A dangerous sea beast.",
 } as const satisfies WorldSpecies
