@@ -6,6 +6,23 @@ export const otherwhereVFernHollow = {
   slug: "otherwhere-v-fern-hollow",
   title: "Fern Hollow",
   world: "world/ends-of-magic",
+  within: "place/otherwhere-v-greyscale-wood",
+  exits: [
+    {
+      to: "place/otherwhere-v-woodcutters-track",
+      way: "Down along the brook a mile and a half to a log bridge on the track; an hour barefoot.",
+      direction: "south",
+    },
+    {
+      to: "place/otherwhere-v-greyscale-ridge",
+      way: "Up the steep, root-stepped slope a quarter mile to the ridge; fifteen minutes.",
+      direction: "up",
+    },
+    {
+      to: "place/otherwhere-v-greyscale-wood",
+      way: "Out through the trees in any other direction, into trackless scalebark forest.",
+    },
+  ],
   facts: [
     {
       fact: "Fern Hollow is a bowl-shaped clearing in an old forest, floored with moss and ferns.",
