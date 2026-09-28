@@ -4,6 +4,7 @@ export const otherwhereV00002 = {
   id: "01a0e9f3-9f0f-7c47-ada5-1a3b4c957f2c",
   type: "page-type/story-turn-played",
   slug: "otherwhere-v-00-002",
+  cover: "image/image-a24fce681acae75e",
   ownLength: 558,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-v"],
@@ -64,5 +65,5 @@ export const otherwhereV00002 = {
   ],
   lore: ["lore/otherwhere-v-nala", "place/otherwhere-v-fern-hollow", "lore/otherwhere-v-gloamcat"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
