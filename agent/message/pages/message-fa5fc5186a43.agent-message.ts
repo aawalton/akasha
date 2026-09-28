@@ -1,0 +1,11 @@
+import type { AgentMessage } from "akasha/agent/message/agent-message.page-type.types.ts"
+
+export const messageFa5fc5186a43 = {
+  id: "01a0ea2d-047e-7000-ac8a-fa5fc5186a43",
+  type: "page-type/agent-message",
+  slug: "message-fa5fc5186a43",
+  to: "seat/iris-game-master-otherwhere-iv",
+  from: "story-step",
+  warrant: "announce",
+  body: "The turn `story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/turns/otherwhere-iv-00-005.story-turn-played.ts` is at game-master.\n\nThese lore pages have changed since you last read them:\n- `story/world/pages/beware-of-chicken/lore/otherwhere-iv-hidden-spring-sect.lore.ts`\n- `story/world/pages/beware-of-chicken/lore/otherwhere-iv-three-stones-folk.lore.ts`\n",
+} as const satisfies AgentMessage
