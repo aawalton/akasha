@@ -139,7 +139,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "Marcus swaps her wet socks for dry treaded ones and wraps her in a blanket from a warmer.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Then she is sent to the chairs with a paper bracelet to wait her turn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
-  secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
 } as const satisfies Place
