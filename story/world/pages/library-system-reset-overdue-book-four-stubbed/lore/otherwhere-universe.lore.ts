@@ -168,14 +168,7 @@ export const otherwhereUniverse = {
         "character-other/otherwhere-links",
       ],
     },
-    {
-      fact: "The Library's doors reopen to patrons only once the Check-in Counter fully works.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
+
     {
       fact: "The Library feeds and shelters anyone who comes to it in need.",
       knowers: [
@@ -288,14 +281,7 @@ export const otherwhereUniverse = {
         "character-other/otherwhere-links",
       ],
     },
-    {
-      fact: "At 50 power the Library's golems wake, and shelving golems among them.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
+
     {
       fact: "The Library has had no Library Assistants for centuries; its Librarian is the whole staff.",
       knowers: [
@@ -365,7 +351,7 @@ export const otherwhereUniverse = {
       ],
     },
     {
-      fact: "Nala's third sync brings her to connection 3, and her interface then shows the Library's tasks.",
+      fact: "Since her third sync, Nala's interface shows the Library's tasks.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-alan",
@@ -373,20 +359,16 @@ export const otherwhereUniverse = {
       ],
     },
     {
-      fact: "Nala's third sync brings a vision of the Counter long ago, busy with patrons of many kinds.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
+      fact: "Nala's fourth sync brings her to connection 4; her interface gains a map of the Library.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
     },
     {
-      fact: "The Check-in Counter is restored, the Library's second task done.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-links",
-        "character-player/otherwhere-alan",
-      ],
+      fact: "The map shows the Library's rooms with power lit, and the rest, the hospital wing among them, dark.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "Nala's fourth sync shows the hall's books thrown down in one night long ago, by no hand she sees.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
     },
     {
       fact: "At 100 power the interface shows Library Power: 100 / 100, Stores Full.",
