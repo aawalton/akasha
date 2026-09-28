@@ -139,5 +139,9 @@ export const theDatingGameRockCanyon = {
       fact: "Most hikers turn back down by the creek, short of the pine clearing high up Rock Canyon.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "Above the pine clearing the trail climbs through pines and aspens, gold in late September.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
