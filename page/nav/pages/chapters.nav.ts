@@ -8,5 +8,4 @@ export const chapters = {
   icon: "BookOpen",
   navPlace: 5,
   app: "web-app/alanwalton-web",
-  navParent: "nav/images",
 } as const satisfies Nav
