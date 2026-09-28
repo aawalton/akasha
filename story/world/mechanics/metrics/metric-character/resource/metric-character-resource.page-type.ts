@@ -18,6 +18,8 @@ export const metricCharacterResource = {
     "page-type/otherwhere-the-library-power",
     "page-type/otherwhere-the-library-funds",
     "page-type/otherwhere-health",
+    "page-type/otherwhere-stamina",
+    "page-type/otherwhere-mana",
   ],
 
   types: "ts",
