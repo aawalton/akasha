@@ -177,6 +177,16 @@ test("a fact the page does not hold is refused", () => {
   expect(typeof toldIn({ told: [], secrets: ["one"] }, "none", [])).toBe("string")
 })
 
+test("a secret longer than a fact may run is refused rather than told", () => {
+  const long = "x".repeat(101)
+  const said = toldIn({ told: [], secrets: [long] }, long, [])
+  expect(typeof said).toBe("string")
+  expect(String(said)).toContain("at most 100")
+  expect(typeof toldIn({ told: [], secrets: ["x".repeat(100)] }, "x".repeat(100), [])).toBe(
+    "object"
+  )
+})
+
 test("the page's last secret told takes its secrets key away and states its facts", () => {
   const body = bodyTelling("grove.lore.ts", BODY, {
     told: [{ fact: "two", knowers: [GAME_MASTER] }],

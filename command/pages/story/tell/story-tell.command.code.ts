@@ -57,6 +57,7 @@ import type { Value } from "akasha/page/modules/value-reading/page-value-reading
 import { lore } from "akasha/story/lore/lore.page-type.ts"
 import { place } from "akasha/story/lore/place/place.page-type.ts"
 import { loreAbout } from "akasha/story/lore/properties/lore-about.relation-property.ts"
+import { loreFact } from "akasha/story/lore/properties/lore-fact.text-property.ts"
 import { loreFacts } from "akasha/story/lore/properties/lore-facts.record-property.ts"
 import { loreKnowers } from "akasha/story/lore/properties/lore-knowers.multi-relation-property.ts"
 import { loreSecrets } from "akasha/story/lore/properties/lore-secrets.file-property.ts"
@@ -156,6 +157,9 @@ export function toldIn(telling: Telling, fact: string, named: readonly string[])
   }
   const held = telling.secrets.indexOf(fact)
   if (held < 0) return `no fact on the page reads \`${fact}\` word for word`
+  if (fact.length > loreFact.maxLength) {
+    return `\`${fact}\` runs to ${fact.length} characters, and a told fact holds at most ${loreFact.maxLength}, so the world builder rewords that secret to fit before it is told`
+  }
   return {
     told: [...telling.told, { fact, knowers }],
     secrets: telling.secrets.filter((_one, each) => each !== held),

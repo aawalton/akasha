@@ -27,6 +27,11 @@ export const storyTell = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A secret longer than a fact may run is refused rather than told, and is reworded first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page whose last secret is told keeps no secrets file.",
     },
     {
