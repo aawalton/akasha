@@ -3957,6 +3957,9 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/tower-of-nimue/stories/written/tower-of-nimue/mechanics/metrics/attributes/tower-of-nimue-attribute.page-type.ts","id":"01a0dee9-5494-73ec-b731-6b43baa9beea"}
 {"propertySlug":"decision-kind","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/stories/played/otherwhere-vi/mechanics/checks/otherwhere-vi-action-check.world-check.ts","id":"01a0ea3a-2834-7bec-a31b-ec3ea446cfa7"}
 {"propertySlug":"decision-kind","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/stories/played/otherwhere-vi/mechanics/checks/otherwhere-vi-time-passing.world-check.ts","id":"01a0ea3b-5124-746e-82d6-e12afa654850"}
+{"propertySlug":"decision-kind","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/stories/played/otherwhere-vi/mechanics/metrics/resources/hp/otherwhere-vi-hp.page-type.ts","id":"01a0ea3d-ca8e-7d79-90cd-3499cdb8dfbf"}
+{"propertySlug":"decision-kind","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/stories/played/otherwhere-vi/mechanics/metrics/resources/mp/otherwhere-vi-mp.page-type.ts","id":"01a0ea3d-ca8f-7e7d-b381-ec85f26b807f"}
+{"propertySlug":"decision-kind","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/stories/played/otherwhere-vi/mechanics/metrics/resources/sp/otherwhere-vi-sp.page-type.ts","id":"01a0ea3d-ca8f-7b92-b15e-8f0b6ddafb10"}
 {"propertySlug":"decision-kind","path":"story/world/properties/character-readings.page-property-entry.ts","id":"01a063ce-6216-7001-b3f6-26b45c0bef56"}
 {"propertySlug":"decision-kind","path":"story/world/properties/mechanic-readings.page-property-entry.ts","id":"01a063ce-6216-7002-a04b-18f373a5a1d3"}
 {"propertySlug":"decision-kind","path":"story/world/properties/reading-character.relation-property.ts","id":"01a0d3cb-ae43-75ef-bbd5-cfe20827da69"}

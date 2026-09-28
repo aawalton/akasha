@@ -1870,6 +1870,9 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/elements/modules/affinity-element/affinity-element.module.ts","id":"01a0c504-b68b-7a91-9eef-eb74770de901"}
 {"propertySlug":"decision-kind","path":"story/world/pages/the-beholder/mechanics/ranks/tier/the-beholder-tier.page-type.ts","id":"01a0deed-aa86-70a1-94ba-361ba920f093"}
 {"propertySlug":"decision-kind","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/stories/played/otherwhere-vi/mechanics/checks/otherwhere-vi-action-check.world-check.ts","id":"01a0ea3a-2834-7bec-a31b-ec3ea446cfa7"}
+{"propertySlug":"decision-kind","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/stories/played/otherwhere-vi/mechanics/metrics/resources/hp/otherwhere-vi-hp.page-type.ts","id":"01a0ea3d-ca8e-7d79-90cd-3499cdb8dfbf"}
+{"propertySlug":"decision-kind","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/stories/played/otherwhere-vi/mechanics/metrics/resources/mp/otherwhere-vi-mp.page-type.ts","id":"01a0ea3d-ca8f-7e7d-b381-ec85f26b807f"}
+{"propertySlug":"decision-kind","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/stories/played/otherwhere-vi/mechanics/metrics/resources/sp/otherwhere-vi-sp.page-type.ts","id":"01a0ea3d-ca8f-7b92-b15e-8f0b6ddafb10"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-asking/played-asking.module.ts","id":"01a0e86a-1d93-7fc7-8864-8aa95de2706c"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-beside/played-beside.module.ts","id":"01a0a160-1d33-7b41-8c07-5f9a2e6b3d18"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-channel/played-channel.module.ts","id":"01a0a162-9b05-7d36-a284-71c3ef40b6d7"}
