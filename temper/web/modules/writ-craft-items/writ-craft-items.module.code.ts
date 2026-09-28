@@ -17,7 +17,7 @@ import type { CharacterAutomationToggles } from "akasha/temper/player/character/
 import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import { useMemo } from "react"
 
-export type WritCraftItem = BadgeToggleGroupItem & { value: keyof CharacterAutomationToggles }
+type WritCraftItem = BadgeToggleGroupItem & { value: keyof CharacterAutomationToggles }
 
 interface CraftToggle {
   readonly value: keyof CharacterAutomationToggles
