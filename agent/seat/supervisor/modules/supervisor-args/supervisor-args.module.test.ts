@@ -1,4 +1,6 @@
 import { expect, test } from "bun:test"
+import { mkdtempSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
 import {
   buildReExecArgv,
   decideBootResume,
@@ -75,5 +77,37 @@ test("a re-exec line injects before the prompt rather than after it", () => {
     "--resume",
     "carry",
     "on",
+  ])
+})
+
+test("a prompt file is read whole as the prompt, however long", () => {
+  const file = join(mkdtempSync("/var/tmp/supervisor-args-"), "prompt.txt")
+  const long = `go 'on' "now"\n${"x".repeat(200_000)}`
+  writeFileSync(file, long)
+  const held = parseArgs(["--headless", "--prompt-file", file])
+  expect(held.headless).toBe(true)
+  expect(held.prompt).toBe(long)
+})
+
+test("a prompt file that is gone gives no prompt rather than failing the boot", () => {
+  expect(parseArgs(["--prompt-file", "/nonexistent/prompt.txt"]).prompt).toBe("")
+})
+
+test("a re-exec line keeps the prompt file beside its flag", () => {
+  const held = buildReExecArgv({
+    originalArgv: ["-a", "aawalton", "--prompt-file", "/p.txt"],
+    agentId: "new",
+    sessionId: "fresh",
+  })
+  expect(held).toEqual([
+    "-a",
+    "aawalton",
+    "--prompt-file",
+    "/p.txt",
+    "--agent-id",
+    "new",
+    "--session-id",
+    "fresh",
+    "--resume",
   ])
 })

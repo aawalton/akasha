@@ -3,12 +3,15 @@ import {
   ptyProxyRel,
   supervisorRel,
 } from "akasha/agent/seat/launching/modules/seat-entry-paths/seat-entry-paths.module.code.ts"
-import type {
-  SeatLaunch,
-  Spawning,
+import {
+  promptFileAt,
+  type SeatLaunch,
+  type Spawning,
 } from "akasha/agent/seat/launching/seat-launching.module.code.ts"
 
 export const ROOT = "/repos/akasha"
+
+export const HOME = "/home/me"
 
 export const START_DIR = "/repos"
 
@@ -56,6 +59,7 @@ export function fake(answers: (cmd: readonly string[]) => Answer, held: readonly
       now += ms
       return Promise.resolve()
     },
+    kept: (agentId, prompt, at) => (prompt === "" ? null : promptFileAt(HOME, agentId, at)),
   }
   return { how, calls }
 }

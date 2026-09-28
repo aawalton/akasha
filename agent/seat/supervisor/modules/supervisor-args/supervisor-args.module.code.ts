@@ -1,3 +1,4 @@
+import { readFileSync } from "node:fs"
 import { HEADLESS_FLAG } from "akasha/agent/seat/launching/modules/seat-modes/seat-modes.module.code.ts"
 import type { SeatResumeDriver } from "akasha/agent/seat/reviving/modules/seat-resume-driver/seat-resume-driver.module.code.ts"
 
@@ -32,9 +33,22 @@ export function decideBootResume(opts: {
   return { resume: true, driver: opts.headless ? "awaiting-inbound" : "operator-prompt" }
 }
 
+const PROMPT_FILE_FLAG = "--prompt-file"
+
+function promptIn(file: string): string {
+  try {
+    return readFileSync(file, "utf8")
+  } catch (cause) {
+    const why = cause instanceof Error ? cause.message : String(cause)
+    process.stderr.write(`the prompt file '${file}' was not read, so no prompt is given: ${why}\n`)
+    return ""
+  }
+}
+
 export function parseArgs(argv: readonly string[]): ParsedArgs {
   const args = [...argv]
 
+  let promptFile: string | undefined
   let resume = false
   let account = ""
   let sessionId: string | undefined
@@ -79,12 +93,15 @@ export function parseArgs(argv: readonly string[]): ParsedArgs {
     } else if (head === "--anthropic-auth-token") {
       args.shift()
       anthropicAuthToken = args.shift()
+    } else if (head === PROMPT_FILE_FLAG) {
+      args.shift()
+      promptFile = args.shift()
     } else {
       break
     }
   }
 
-  const prompt = args.join(" ")
+  const prompt = promptFile !== undefined ? promptIn(promptFile) : args.join(" ")
   return {
     prompt,
     resume,
@@ -134,7 +151,8 @@ export function buildReExecArgv(opts: {
       a === "--account" ||
       a === "--model" ||
       a === "--anthropic-base-url" ||
-      a === "--anthropic-auth-token"
+      a === "--anthropic-auth-token" ||
+      a === PROMPT_FILE_FLAG
     ) {
       skipNextStripped = true
     }

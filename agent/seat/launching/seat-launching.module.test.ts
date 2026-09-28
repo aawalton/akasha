@@ -189,7 +189,7 @@ test("only a headless launch carries the headless flag", () => {
 })
 
 test("a supervisor command line carries the agent id and the account", () => {
-  expect(supervisorArgv(ROOT, asked())).toEqual([
+  expect(supervisorArgv(ROOT, asked(), null)).toEqual([
     "bash",
     "-c",
     SECRETS_LINE,
@@ -209,23 +209,19 @@ test("a supervisor command line carries the agent id and the account", () => {
 })
 
 test("a headless seat carries the headless flag before its agent id", () => {
-  const argv = supervisorArgv(ROOT, asked({ mode: "headless" }))
+  const argv = supervisorArgv(ROOT, asked({ mode: "headless" }), null)
   expect(argv.indexOf("--headless")).toBe(11)
   expect(argv.indexOf("--agent-id")).toBe(12)
 })
 
 test("every flag a seat is launched with reaches the supervisor rather than the shell", () => {
-  const argv = supervisorArgv(ROOT, asked({ mode: "headless" }))
+  const argv = supervisorArgv(ROOT, asked({ mode: "headless" }), null)
   expect(argv.indexOf("--headless")).toBeGreaterThan(argv.indexOf(SECRETS_LINE))
   expect(argv[argv.indexOf(SECRETS_LINE) + 1]).toBe("seat-supervisor")
 })
 
 test("an empty prompt is left off rather than given as an empty word", () => {
-  expect(supervisorArgv(ROOT, asked()).at(-1)).toBe("aawalton")
-})
-
-test("a prompt that was given is the last word of the command line", () => {
-  expect(supervisorArgv(ROOT, asked({ prompt: "read the page" })).at(-1)).toBe("read the page")
+  expect(supervisorArgv(ROOT, asked(), null).at(-1)).toBe("aawalton")
 })
 
 test("the overrides follow the account in the order they are declared", () => {
@@ -235,7 +231,8 @@ test("the overrides follow the account in the order they are declared", () => {
       modelOverride: "opus",
       anthropicBaseUrl: "http://here",
       anthropicAuthToken: "tok",
-    })
+    }),
+    null
   )
   expect(argv.slice(argv.indexOf("aawalton") + 1)).toEqual([
     "--model",
@@ -248,8 +245,8 @@ test("the overrides follow the account in the order they are declared", () => {
 })
 
 test("a resumed seat names its session and asks to resume", () => {
-  const argv = supervisorArgv(ROOT, asked({ resumeSessionId: "sess-1", prompt: "go" }))
-  expect(argv.slice(-4)).toEqual(["--session-id", "sess-1", "--resume", "go"])
+  const argv = supervisorArgv(ROOT, asked({ resumeSessionId: "sess-1", prompt: "go" }), "/p.txt")
+  expect(argv.slice(-5)).toEqual(["--session-id", "sess-1", "--resume", "--prompt-file", "/p.txt"])
 })
 
 test("a session is started detached under the seat's name in the start directory", () => {
@@ -306,6 +303,7 @@ test("the whole launch is composed from the seat alone", () => {
       startDir: START_DIR,
       scopeUnit: null,
       paneUnit: "tmux-pane-athena-7",
+      promptFile: null,
     })
   ).toEqual([
     "tmux",

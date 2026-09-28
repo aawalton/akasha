@@ -1,15 +1,10 @@
 import { resolve } from "node:path"
 import { paneCapped } from "akasha/agent/seat/launching/modules/pane-capping/pane-capping.module.code.ts"
-import { SEAT_MODE_HEADLESS } from "akasha/agent/seat/launching/modules/seat-modes/seat-modes.module.code.ts"
 import {
   launching,
-  launchModeFlags,
-  paneArgv,
-  paneScopeUnitFor,
   pidIn,
+  respawnPaneLine,
   SPAWNING,
-  shellQuoted,
-  supervisorEntryArgv,
 } from "akasha/agent/seat/launching/seat-launching.module.code.ts"
 import { removeSubagentPagesOf } from "akasha/agent/subagent/modules/page/subagent-page.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
@@ -42,27 +37,6 @@ interface TmuxCall {
 
 function seatStartDir(): string {
   return resolve(akashaRoot(), "..")
-}
-
-function buildSupervisorCmd(root: string, opts: LaunchSeatOpts): readonly string[] {
-  const overrides = [
-    ...(opts.modelOverride != null ? ["--model", opts.modelOverride] : []),
-    ...(opts.anthropicBaseUrl != null ? ["--anthropic-base-url", opts.anthropicBaseUrl] : []),
-    ...(opts.anthropicAuthToken != null ? ["--anthropic-auth-token", opts.anthropicAuthToken] : []),
-  ]
-  const resume =
-    opts.resumeSessionId != null ? ["--session-id", opts.resumeSessionId, "--resume"] : []
-  return [
-    ...supervisorEntryArgv(root),
-    ...launchModeFlags(opts.mode === SEAT_MODE_HEADLESS),
-    "--agent-id",
-    opts.agentId,
-    "-a",
-    opts.account,
-    ...overrides,
-    ...resume,
-    ...(opts.prompt !== "" ? [opts.prompt] : []),
-  ]
 }
 
 async function runBounded(cmd: readonly string[]): Promise<TmuxCall> {
@@ -158,8 +132,8 @@ export async function respawnSeatUnderTmux(opts: LaunchSeatOpts): Promise<boolea
   if (pane === null) return false
   await sweepSubagentPagesOf(opts.agentId)
 
-  const cmd = buildSupervisorCmd(akashaRoot(), opts)
-  const line = shellQuoted(paneArgv(paneScopeUnitFor(name, Date.now()), opts.agentId, cmd))
+  const at = Date.now()
+  const line = respawnPaneLine(akashaRoot(), opts, at, SPAWNING.kept(opts.agentId, opts.prompt, at))
   const spawned = await tmux(["respawn-pane", "-k", "-t", pane, "-c", seatStartDir(), line])
   if (spawned.code !== 0) {
     throw new Error(

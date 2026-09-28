@@ -31,5 +31,17 @@ export const supervisorArgs = {
       statement:
         "The headless flag is taken from where the modes are spelled rather than spelled here.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A prompt file is read whole as the prompt.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A prompt file gone by the time it is read gives no prompt rather than no boot.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A re-exec line has the prompt file the earlier line had.",
+    },
   ],
 } as const satisfies Module

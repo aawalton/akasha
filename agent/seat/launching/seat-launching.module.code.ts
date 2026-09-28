@@ -1,4 +1,6 @@
-import { resolve } from "node:path"
+import { mkdirSync, rmSync, writeFileSync } from "node:fs"
+import { homedir } from "node:os"
+import { dirname, resolve } from "node:path"
 import { aawalton } from "akasha/agent/model/account/pages/aawalton/aawalton.model-account.ts"
 import {
   type Answer,
@@ -27,6 +29,10 @@ export const DEFAULT_ACCOUNT: string = aawalton.slug
 const AGENT_ID_ENV = "AGENT_ID"
 
 const HEADLESS_FLAG = "--headless"
+
+const PROMPT_FILE_FLAG = "--prompt-file"
+
+const PROMPTS_AT = ".local/state/akasha/seat-prompts"
 
 const SCOPE_COMMAND = "systemd-run"
 
@@ -172,7 +178,29 @@ export function shellQuoted(argv: readonly string[]): string {
   return argv.map((one) => `'${one.replaceAll("'", "'\\''")}'`).join(" ")
 }
 
-export function supervisorArgv(root: string, asked: SeatLaunch): readonly string[] {
+export function promptFileAt(home: string, agentId: string, at: number): string {
+  return `${home}/${PROMPTS_AT}/${agentId}/${String(at)}.txt`
+}
+
+export function keptPrompt(
+  home: string,
+  agentId: string,
+  prompt: string,
+  at: number
+): string | null {
+  if (prompt === "") return null
+  const file = promptFileAt(home, agentId, at)
+  rmSync(dirname(file), { recursive: true, force: true })
+  mkdirSync(dirname(file), { recursive: true, mode: 0o700 })
+  writeFileSync(file, prompt, { mode: 0o600 })
+  return file
+}
+
+export function supervisorArgv(
+  root: string,
+  asked: SeatLaunch,
+  promptFile: string | null
+): readonly string[] {
   return [
     ...supervisorEntryArgv(root),
     ...launchModeFlags(asked.mode === SEAT_MODE_HEADLESS),
@@ -186,8 +214,23 @@ export function supervisorArgv(root: string, asked: SeatLaunch): readonly string
       ? ["--anthropic-auth-token", asked.anthropicAuthToken]
       : []),
     ...(asked.resumeSessionId != null ? ["--session-id", asked.resumeSessionId, "--resume"] : []),
-    ...(asked.prompt !== "" ? [asked.prompt] : []),
+    ...(promptFile !== null ? [PROMPT_FILE_FLAG, promptFile] : []),
   ]
+}
+
+export function respawnPaneLine(
+  root: string,
+  asked: SeatLaunch,
+  at: number,
+  promptFile: string | null
+): string {
+  return shellQuoted(
+    paneArgv(
+      paneScopeUnitFor(asked.name, at),
+      asked.agentId,
+      supervisorArgv(root, asked, promptFile)
+    )
+  )
 }
 
 export function newSessionArgv(
@@ -222,13 +265,14 @@ export function launchArgv(input: {
   readonly startDir: string
   readonly scopeUnit: string | null
   readonly paneUnit: string
+  readonly promptFile: string | null
 }): readonly string[] {
   return underScope(
     newSessionArgv(
       input.asked,
       input.startDir,
       input.paneUnit,
-      supervisorArgv(input.root, input.asked)
+      supervisorArgv(input.root, input.asked, input.promptFile)
     ),
     input.scopeUnit
   )
@@ -261,6 +305,7 @@ export type Spawning = {
   readonly held: (name: string) => Promise<boolean>
   readonly at: () => number
   readonly settle: (ms: number) => Promise<void>
+  readonly kept: (agentId: string, prompt: string, at: number) => string | null
 }
 
 export const SPAWNING: Spawning = {
@@ -268,6 +313,7 @@ export const SPAWNING: Spawning = {
   held: sessionHeld,
   at: () => Date.now(),
   settle: (ms) => Bun.sleep(ms),
+  kept: (agentId, prompt, at) => keptPrompt(homedir(), agentId, prompt, at),
 }
 
 async function serverUp(how: Spawning): Promise<boolean> {
@@ -310,7 +356,10 @@ export async function launching(
   const scopeUnit = (await serverUp(how)) ? null : scopeUnitFor(name, at)
   const paneUnit = paneScopeUnitFor(name, at)
   const startDir = seatStartDir(root)
-  const started = await how.ran(launchArgv({ asked, root, startDir, scopeUnit, paneUnit }))
+  const promptFile = how.kept(asked.agentId, asked.prompt, at)
+  const started = await how.ran(
+    launchArgv({ asked, root, startDir, scopeUnit, paneUnit, promptFile })
+  )
   if (started.code !== 0) {
     return {
       refused:
