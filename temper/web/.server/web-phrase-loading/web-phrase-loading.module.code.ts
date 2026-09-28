@@ -1,9 +1,9 @@
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { temperWebPhrase } from "akasha/temper/web/phrase/temper-web-phrase.page-type.ts"
 
-export type LoadedPhrases = Readonly<Record<string, string>>
+type LoadedPhrases = Readonly<Record<string, string>>
 
-export type Fills = Readonly<Record<string, string | number>>
+type Fills = Readonly<Record<string, string | number>>
 
 function unphrased(slug: string): Error {
   return new Error(`web-phrase-loading: no temper-web-phrase page is \`${slug}\``)
