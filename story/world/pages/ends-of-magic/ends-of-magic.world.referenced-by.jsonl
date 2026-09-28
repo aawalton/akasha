@@ -89,6 +89,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-enchanting.lore.ts","id":"01a0e9f6-5821-7069-9edb-069651a47e7a"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-esebus.lore.ts","id":"01a0e9f8-bd21-7e9c-9d34-446a31de2ee7"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-fey.lore.ts","id":"01a0e9f4-fc81-750a-8142-745eb9ab1b78"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-focus.lore.ts","id":"01a0e9f9-efb3-77e5-b3d9-577d7103ab70"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-foxfolk.lore.ts","id":"01a0e9f4-0047-7744-94f4-6835adf682b9"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-gemore.lore.ts","id":"01a0e9f5-4cc9-7093-96b4-2df7632fd825"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-ghoul.lore.ts","id":"01a0e9f9-9dd7-77fc-a5b3-7aaf76077f21"}
@@ -132,6 +133,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-spellcasting.lore.ts","id":"01a0e9f2-d738-7550-a9d0-9f426c066099"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-spells.lore.ts","id":"01a0e9f3-d4cf-7ba1-bb18-9fabf7e1ea3f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-stalker.lore.ts","id":"01a0e9f8-f7c7-74c0-afa8-47e078f6bc7a"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-stamina.lore.ts","id":"01a0e9f9-efb4-723d-97f5-444562f1fc38"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-status.lore.ts","id":"01a0e9f2-c28a-78e7-9ef1-4138eaf3cb30"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-stella.lore.ts","id":"01a0e9f8-7a18-793f-88f3-48cc448f3376"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-suse.lore.ts","id":"01a0e9f9-91ed-7b6c-b1f0-d659d675b48c"}
@@ -163,6 +165,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-earth-born-bodies.world-mechanic.ts","id":"01a0e9f9-19f6-7e95-83ff-005c3b729b9c"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-edicts.world-mechanic.ts","id":"01a0e9f4-c9f8-7c27-b143-eab51f422edd"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-enchanting.world-mechanic.ts","id":"01a0e9f6-5822-75da-b38b-3df12678db92"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-focus.world-mechanic.ts","id":"01a0e9f9-efb4-7fbb-bb64-1110d8851500"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-golems.world-mechanic.ts","id":"01a0e9f6-a23b-75ba-870a-527fc9ea0488"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-insight.world-mechanic.ts","id":"01a0e9f8-2dc5-7ae4-b5bd-0d68c62ade3e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-levels.world-mechanic.ts","id":"01a0e9f5-a5d7-7ce0-a37c-2d433bb134b3"}
@@ -174,6 +177,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-spell-tiers.world-mechanic.ts","id":"01a0e9f3-1a10-7b12-9cc2-eb30939b9dec"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-spellcasting.world-mechanic.ts","id":"01a0e9f2-d739-7a80-a12b-5e79ad1de335"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-spells.world-mechanic.ts","id":"01a0e9f3-d4d0-7d07-a995-fd935dfdbb79"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-stamina.world-mechanic.ts","id":"01a0e9f9-efb5-7b93-a8b5-8ef4ccbd672e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-status.world-mechanic.ts","id":"01a0e9f2-c28b-70d4-a7d0-eef9cc222d10"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-talents.world-mechanic.ts","id":"01a0e9f3-e3e8-74ab-9121-65d11936e83a"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-utility-skills.world-mechanic.ts","id":"01a0e9f7-46bc-78df-901a-9d478b580c1c"}
