@@ -42,6 +42,10 @@ export const sheetPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A panel drawing this sheet says whether it shows the stats and the bonds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A part of the sheet already opened says it holds none yet rather than going away.",
     },

@@ -116,6 +116,7 @@ export function PlayerCharacterPanel({ player, showsCover, sheet }: PlayerPanelP
           game={sheet.game}
           workings={sheet.workings}
           showsStats={sheet.showsStats}
+          showsBonds={sheet.showsBonds}
         />
       )}
     </SurfaceProvider>

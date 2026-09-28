@@ -155,7 +155,7 @@ function StatsTab({
   )
 }
 
-function SkillsTab({ sheet }: { sheet: ClientSheet }) {
+function SkillsTab({ sheet, showsBonds }: { sheet: ClientSheet; showsBonds: boolean }) {
   const skills = sheet.skills ?? []
   const titles = sheet.titles ?? []
   return (
@@ -202,7 +202,7 @@ function SkillsTab({ sheet }: { sheet: ClientSheet }) {
         </Section>
       ) : null}
       <CountedRows title="Affinities" held={sheet.affinities ?? []} />
-      <CountedRows title="Bonds" held={sheet.bonds ?? []} />
+      {showsBonds ? <CountedRows title="Bonds" held={sheet.bonds ?? []} /> : null}
     </div>
   )
 }
@@ -252,6 +252,7 @@ export type SheetShown = {
   readonly game?: string | undefined
   readonly workings?: readonly Working[] | undefined
   readonly showsStats?: boolean | undefined
+  readonly showsBonds?: boolean | undefined
 }
 
 export function SheetTabs({
@@ -259,6 +260,7 @@ export function SheetTabs({
   game,
   workings,
   showsStats = true,
+  showsBonds = true,
 }: SheetShown & { readonly sheet: ClientSheet }) {
   return (
     <Tabs defaultValue={showsStats ? "stats" : "skills"} className="gap-3">
@@ -273,7 +275,7 @@ export function SheetTabs({
         </TabsContent>
       ) : null}
       <TabsContent value="skills">
-        <SkillsTab sheet={sheet} />
+        <SkillsTab sheet={sheet} showsBonds={showsBonds} />
       </TabsContent>
       <TabsContent value="items">
         <ItemsTab sheet={sheet} />
