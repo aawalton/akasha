@@ -26,4 +26,5 @@ export const otherwhere00047 = {
     "It rears over her, mouth wide, the sack lying between them.",
   ],
   lore: ["place/otherwhere-kitchen", "place/otherwhere-hall-back"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
