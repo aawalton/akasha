@@ -55,6 +55,14 @@ export const otherwhereIvHeavensAndDao = {
       fact: "Torture Empress Wu Zetian tortured millions in a Blood Arts purge hunting demons.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The world is a round world turning under its sun, as Earth is, though mortals here do not know it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A few Imperial Realm cultivators who have flown high enough have seen the world's curve.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
