@@ -7,4 +7,7 @@ const { panelBy } =
     "akasha/story/ui/played-panel/modules/panel-showing/panel-showing.module.code.tsx"
   ]
 
-export const Panel = panelBy(OtherCharactersPanel, ({ run }) => ({ turns: run.turns }))
+export const Panel = panelBy(OtherCharactersPanel, ({ run }) => ({
+  turns: run.turns,
+  pageTypeSlug: run.turnsPageTypeSlug,
+}))

@@ -34,6 +34,11 @@ export const panelDrawing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A panel is handed the page type of the turns it is handed where those are not turns played.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A panel is handed the story's character player, or nothing where it has none.",
     },
     {

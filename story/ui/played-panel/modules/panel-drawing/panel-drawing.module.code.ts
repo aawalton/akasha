@@ -20,6 +20,7 @@ export type PanelRun = {
   readonly clock: string | null
   readonly upcoming: readonly PanelAppointment[]
   readonly turns: readonly ClientStoryTurn[]
+  readonly turnsPageTypeSlug?: string | undefined
   readonly turnCovers: readonly PlayedTurnCover[]
   readonly player: string
   readonly beats: readonly ClientBeat[] | null | undefined

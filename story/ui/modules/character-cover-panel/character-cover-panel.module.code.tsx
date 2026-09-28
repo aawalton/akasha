@@ -121,21 +121,27 @@ export function othersOf(named: readonly Character[]): readonly Character[] {
   return named.filter((one) => one.pageTypeSlug === characterOther.slug)
 }
 
-export function OtherCharactersPanel({ turns }: { readonly turns: readonly ClientStoryTurn[] }) {
+export function OtherCharactersPanel({
+  turns,
+  pageTypeSlug = storyTurnPlayed.slug,
+}: {
+  readonly turns: readonly ClientStoryTurn[]
+  readonly pageTypeSlug?: string | undefined
+}) {
   const turnId = latestTurnId(turns)
   if (turnId === null) return null
-  return <TurnCharacters turnId={turnId} />
+  return <TurnCharacters turnId={turnId} pageTypeSlug={pageTypeSlug} />
 }
 
-function TurnCharacters({ turnId }: { turnId: string }) {
+function TurnCharacters({ turnId, pageTypeSlug }: { turnId: string; pageTypeSlug: string }) {
   const turnOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
-      pageTypeSlug: storyTurnPlayed.slug,
+      pageTypeSlug,
       where: [{ key: ID_KEY, in: [turnId] }],
       limit: ONE,
-      shape: shapeNamed(storyTurnPlayed.slug, ID_KEY, [turnId]),
+      shape: shapeNamed(pageTypeSlug, ID_KEY, [turnId]),
     }),
-    [turnId]
+    [turnId, pageTypeSlug]
   )
   const rows = usePages(turnOptions).rows
   const turn = rows.find((row) => row[ID_KEY] === turnId)

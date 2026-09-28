@@ -14,6 +14,11 @@ export const characterCoverPanel = {
         "The characters drawn are the latest turn's characters other than the player's, in its order.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The latest turn is read as the page type the run names, and as a turn played where it names none.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "The player's character is not drawn here, but in the player-character panel.",
     },
