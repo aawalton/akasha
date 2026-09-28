@@ -136,6 +136,10 @@ export const otherwhereIiiNala = {
         "character-other/otherwhere-iii-denise-pruitt",
       ],
     },
+    {
+      fact: "Nala's face and body pass for about twenty-five; no one would take her for fifty-one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
