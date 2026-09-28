@@ -181,6 +181,46 @@ export const otherwhereViHollowStream = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The sow is level 5 with 38 HP; her tusks are short, but her charge knocks a grown man down.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her four young are level 1, 12 HP each, striped still, and squeal for her at any fright.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The sow smells poorly upwind but hears well; she warns with a huff and a clack of teeth first.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her first rush is a bluff that stops short; one who backs away is let go.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "One who comes within twenty paces of the young, or holds ground after the bluff, is charged.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The wallow fills the valley floor; the bank path runs straight through its trampled mud.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A way round climbs the west slope through pines and drops back below it in a quarter hour.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Above the wallow a gravel ford crosses the stream, knee-deep and numbing, to an open east bank.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Below the wallow the stream runs some four hours more through pines to meet the Carrow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "On a south wind, the charcoal camp's smoke can be smelled an hour up the stream from the Carrow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Dead pine in the drift snaps short and brittle; old dry alder there is light but sound.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
