@@ -8,6 +8,8 @@
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-barrier-device.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-birthdirt-potion.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-bound-wand.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-chain-link.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-chainer-ledger.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-crystal-trading-table.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-detector-flashlight.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-drudgery-chest.world-item.ts","typed":true,"deferred":false}
@@ -32,11 +34,14 @@
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-mutable-haft.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-nesicard.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-nine-edged-son.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-opposite-stone.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-pezyva.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-post-drop.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-promise-stick.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-quick-embroidery.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-scratchart-card.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-sensory-gum.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-senva-seed.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-spell-ring.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-squishboot.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-study-aid.world-item.ts","typed":true,"deferred":false}
