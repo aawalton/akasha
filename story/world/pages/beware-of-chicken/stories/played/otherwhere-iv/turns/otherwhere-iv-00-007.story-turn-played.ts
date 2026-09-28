@@ -10,7 +10,7 @@ export const otherwhereIv00007 = {
   position: 7,
   prose: "txt",
   characters: ["character-player/otherwhere-iv-nala", "character-other/otherwhere-iv-zhao-jun"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     '"Of course. As a spirit of knowledge, I am always happy for honest questions, and answering them is the least I can do for the hospitality you have already given."',
   beats: [
@@ -42,6 +42,6 @@ export const otherwhereIv00007 = {
     "lore/otherwhere-iv-nala",
     "lore/otherwhere-iv-calendar",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T08:34:00.000Z",
 } as const satisfies StoryTurnPlayed
