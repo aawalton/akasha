@@ -4,10 +4,13 @@ export const otherwhere00046 = {
   id: "01a0e58e-7c63-7e09-9c63-e11698269515",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-046",
+  ownLength: 103,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 46,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
+  turnStatus: "turn-status/reviewers",
   action:
     "“Not enough, eh? I guess I’m sleeping here tonight, try again in the morning.” I close my eyes and fall asleep.",
   beats: [
