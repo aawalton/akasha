@@ -10,6 +10,6 @@ export const otherwhereX00001 = {
   unit: "unit/words",
   prose: "txt",
   characters: ["character-player/otherwhere-x-nala"],
-  stepStatus: "step-status/player",
+  stepStatus: "step-status/recorders",
   lore: ["lore/otherwhere-x-nala", "place/otherwhere-x-harrow-mile"],
 } as const satisfies StoryTurnPlayed
