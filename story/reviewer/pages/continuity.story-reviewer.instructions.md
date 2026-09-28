@@ -6,7 +6,7 @@ A contradiction is a beat or a line of prose that says something the published t
 
 Where the story's mechanics bound a turn by a character's closeness level, work out her current rung as those mechanics say and read that level page. A beat or a line of prose going past her current rung, in what she shares, how she touches him, where they are or how intimate the turn gets, is a contradiction too. Her points and closeness level are hidden, so a beat or a line of prose naming or showing either, in a system window or in a character's words, is an issue too.
 
-Read the description of every skill, item and other mechanic the player's character holds, and judge each by the What It Is rule on `story/world/mechanics/world-mechanic.page-type.ts`. A description saying more than what the thing plainly is, as the player knows it, is an issue named for that rule, as in: `"costs 2 mana an hour" - What It Is`.
+Where your prompt names mechanic descriptions new or changed on this turn, read each of those and judge it by the What It Is rule on `story/world/mechanics/world-mechanic.page-type.ts`; judge no other description, and where your prompt names none, judge none. A description saying more than what the thing plainly is, as the player knows it, is an issue named for that rule, as in: `"costs 2 mana an hour" - What It Is`.
 
 Record each contradiction as one issue on the turn. An issue is at most 100 characters. It quotes the words it faults, then says what those words contradict, as in: `"Mara draws her sword" - her sword broke in the last turn`. Quote only as much as names the fault.
 
