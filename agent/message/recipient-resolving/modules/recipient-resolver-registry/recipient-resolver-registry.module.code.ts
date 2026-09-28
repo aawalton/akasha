@@ -14,12 +14,16 @@ import {
   personHandlerSpec,
   standingPersonaSpec,
 } from "akasha/agent/seat/observation/seat-turn/modules/wake-armed-specs/wake-armed-specs.module.code.ts"
-import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  readingIn,
+  valuesOfType,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { kindsUnder } from "akasha/page/type/modules/descent/page-type-descent.module.code.ts"
 import {
   ACTION_BAR_PLAYER,
   ACTION_BAR_SENDER,
@@ -28,7 +32,7 @@ import { TURN_SENDER } from "akasha/story/world/stories/played/turns/modules/tur
 
 const ROOT = rootFor(resolveRoots(), AKASHA)
 
-const GAME = "story-played"
+const STORY = "story"
 
 const GAME_MASTER = "game-master"
 
@@ -62,7 +66,8 @@ function personaOf(master: string, game: string, root: string): string | null {
 
 export function gameSeatsIn(root: string): readonly GameSeats[] {
   const found: GameSeats[] = []
-  for (const { value } of valuesOfType(root, GAME)) {
+  const kinds = [...kindsUnder(STORY, readingIn(root))].sort()
+  for (const { value } of kinds.flatMap((kind) => valuesOfType(root, kind))) {
     const game = value["slug"]
     const master = value["coordinatorAgent"]
     if (typeof game !== "string" || typeof master !== "string" || master === "") continue

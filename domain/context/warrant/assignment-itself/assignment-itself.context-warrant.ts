@@ -41,7 +41,7 @@ export const assignmentItself = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat stating a game warrants the domain that game names.",
+      statement: "A seat stating a story of any kind warrants the domain that story names.",
     },
     {
       decisionKind: "decision-kind/absence",

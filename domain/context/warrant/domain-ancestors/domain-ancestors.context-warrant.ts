@@ -34,7 +34,7 @@ export const domainAncestors = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat stating a game walks from the domain that game names.",
+      statement: "A seat stating a story of any kind walks from the domain that story names.",
     },
     {
       decisionKind: "decision-kind/departure",

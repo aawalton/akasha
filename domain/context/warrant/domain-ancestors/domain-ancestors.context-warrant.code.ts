@@ -18,6 +18,7 @@ import {
 import { addressedIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { kindsUnder } from "akasha/page/type/modules/descent/page-type-descent.module.code.ts"
 
 export const ABOVE =
   "A seat answers for one domain, and every domain that one is a part of is read before the seat is changed."
@@ -26,7 +27,7 @@ const DOMAIN_TYPE = "domain"
 
 const INITIATIVE_TYPE = "initiative"
 
-const GAME_TYPE = "story-played"
+const STORY_TYPE = "story"
 
 const KEY = "assignmentSlug"
 
@@ -48,7 +49,7 @@ function answeredFor(root: string, path: string): Listed | undefined {
   const held = listedAt(root, stated, slug)[0]
   if (held === undefined) return undefined
   if (stated === INITIATIVE_TYPE) return domainOf(root, held.path)
-  if (stated === GAME_TYPE) return domainOf(root, held.path) ?? held
+  if (kindsUnder(STORY_TYPE, readingIn(root)).has(stated)) return domainOf(root, held.path) ?? held
   return held
 }
 

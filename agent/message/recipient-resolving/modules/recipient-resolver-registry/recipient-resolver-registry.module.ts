@@ -10,7 +10,7 @@ export const recipientResolverRegistry = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A game naming its game master seat declares a spec for that seat.",
+      statement: "A story of any kind naming the seat that runs it declares a spec for that seat.",
     },
     {
       decisionKind: "decision-kind/departure",

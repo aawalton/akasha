@@ -6,10 +6,15 @@ import {
   blobAt,
   type Warrant,
 } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
-import { listedAt, listedFor } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  listedAt,
+  listedFor,
+  readingIn,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { addressedIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { textUnder } from "akasha/page/modules/value/page-value.module.code.ts"
+import { kindsUnder } from "akasha/page/type/modules/descent/page-type-descent.module.code.ts"
 
 export const ASSIGNMENT =
   "A seat answers for the assignment it states, and that assignment is read before the seat is changed."
@@ -24,13 +29,13 @@ export const VOICE =
   "A seat assigned an initiative works for the persona that initiative states, and that persona is read before the seat is changed."
 
 export const GAME =
-  "A seat assigned a game answers for the domain that game names, and that domain is read before the seat is changed."
+  "A seat assigned a story answers for the domain that story names, and that domain is read before the seat is changed."
 
 const DOMAIN_TYPE = "domain"
 
 const INITIATIVE_TYPE = "initiative"
 
-const GAME_TYPE = "story-played"
+const STORY_TYPE = "story"
 
 const PAGE_TYPE = "page-type"
 
@@ -81,6 +86,8 @@ export function assignmentItself(root: string, path: string): readonly Warrant[]
   if (listed === undefined) return []
   return [
     ...warrantAt(root, listed.path, ASSIGNMENT),
-    ...(stated === GAME_TYPE ? namedUnder(root, listed.path, DOMAIN_KEY, GAME) : []),
+    ...(kindsUnder(STORY_TYPE, readingIn(root)).has(stated)
+      ? namedUnder(root, listed.path, DOMAIN_KEY, GAME)
+      : []),
   ]
 }

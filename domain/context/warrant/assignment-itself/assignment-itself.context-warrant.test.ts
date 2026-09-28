@@ -9,6 +9,7 @@ import {
   pathsOf,
   personaListed,
   seatListed,
+  storyKindListed,
   typedListed,
   warrantsSeeded,
 } from "akasha/domain/context/modules/warranting/warranting.module.test-fixtures.ts"
@@ -178,6 +179,7 @@ test("an initiative naming no domain warrants no domain", () => {
 
 test("a seat stating a game warrants the domain that game names", () => {
   const root = scratch.rootFor("akasha-assignment-itself-")
+  storyKindListed(root, "story-played")
   const domain = domainListed(root, "game-play")
   const game = typedListed(root, "story-played", "one-game", `domain: "domain/game-play"`)
   const at = seatListed(root, "one", `assignmentSlug: "story-played/one-game"`)
@@ -186,8 +188,18 @@ test("a seat stating a game warrants the domain that game names", () => {
   expect(said[1]?.owed).toBe(GAME)
 })
 
+test("a seat stating a story written warrants the domain that story names", () => {
+  const root = scratch.rootFor("akasha-assignment-itself-")
+  storyKindListed(root, "story-written")
+  const domain = domainListed(root, "prose-work")
+  const story = typedListed(root, "story-written", "one-story", `domain: "domain/prose-work"`)
+  const at = seatListed(root, "one", `assignmentSlug: "story-written/one-story"`)
+  expect(pathsOf(assignmentItself(root, at))).toEqual([story.path, domain.path])
+})
+
 test("a game naming no domain warrants no domain", () => {
   const root = scratch.rootFor("akasha-assignment-itself-")
+  storyKindListed(root, "story-played")
   domainListed(root, "game-play")
   const game = typedListed(root, "story-played", "one-game")
   const at = seatListed(root, "one", `assignmentSlug: "story-played/one-game"`)

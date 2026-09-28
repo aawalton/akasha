@@ -9,6 +9,7 @@ import {
   namesPart,
   pathsOf,
   seatListed,
+  storyKindListed,
   typedListed,
   warrantsSeeded,
 } from "akasha/domain/context/modules/warranting/warranting.module.test-fixtures.ts"
@@ -154,8 +155,20 @@ test("an initiative whose page cannot be found warrants none", () => {
   expect(pathsOf(domainAncestors(root, at))).toEqual([])
 })
 
+test("a seat stating a story written walks from the domain that story names", () => {
+  const root = rootFor()
+  storyKindListed(root, "story-written")
+  const top = domainListed(root, "akasha-system")
+  const mid = domainListed(root, "prose-work")
+  namesPart(root, top, mid)
+  typedListed(root, "story-written", "one-story", `domain: "domain/prose-work"`)
+  const at = seatListed(root, "one", `assignmentSlug: "story-written/one-story"`)
+  expect(pathsOf(domainAncestors(root, at))).toEqual([top.path])
+})
+
 test("a seat stating a game walks from the domain that game names", () => {
   const root = rootFor()
+  storyKindListed(root, "story-played")
   const top = domainListed(root, "akasha-system")
   const mid = domainListed(root, "game-play")
   namesPart(root, top, mid)
@@ -166,6 +179,7 @@ test("a seat stating a game walks from the domain that game names", () => {
 
 test("a game naming no domain walks from the game itself", () => {
   const root = rootFor()
+  storyKindListed(root, "story-played")
   const top = domainListed(root, "akasha-system")
   const game = typedListed(root, "story-played", "one-game")
   namesPart(root, top, game)

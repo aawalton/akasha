@@ -304,6 +304,19 @@ export function pageTypeListed(root: string, slug: string, above: readonly strin
   return path
 }
 
+const STORY = "story"
+
+export function storyKindListed(root: string, kind: string): undefined {
+  const above = `akasha/${STORY}/${STORY}.page-type.ts`
+  if (!existsSync(join(root, above))) pageTypeListed(root, STORY, [])
+  const at = pageTypeListed(root, kind, [STORY])
+  const aboveId = mintedId(`type-${STORY}`)
+  const id = mintedId(`type-${kind}`)
+  idFiled(root, aboveId, [{ path: above, id: aboveId }])
+  idFiled(root, id, [{ path: at, id }])
+  relationFiled(root, aboveId, "extends-type", id, [{ path: at }])
+}
+
 export function seatListed(root: string, slug: string, stated: string): string {
   const path = `seat-system/seat/seat/${slug}.seat.ts`
   writing(root, path, `export const ${exportedAs(slug)} = { ${stated} }\n`)
