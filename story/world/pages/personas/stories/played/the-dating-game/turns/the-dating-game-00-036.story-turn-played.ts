@@ -10,7 +10,7 @@ export const theDatingGame00036 = {
   position: 36,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "“Not at the very end. The room was small and his kids were there. I saw him about a week before though. I guess most would consider a few weeks ago to be recent. It feels no different than forty years ago or forty seconds ago to me.”",
   beats: [
@@ -24,5 +24,5 @@ export const theDatingGame00036 = {
     '"Then I\'ll stop calling it close," she says gently. "It\'s just when it is, for you."',
     'The corner of her red mouth lifts. "Nothing\'s ever far away, for you. I think I like that."',
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
