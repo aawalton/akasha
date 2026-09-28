@@ -8,9 +8,9 @@ export const haremHotel0001 = {
   unit: "unit/words",
   title: "Chapter 1",
   story: "story-written/harem-hotel",
-  ownLength: 0,
+  ownLength: 4146,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "You wake dressed on a velvet chaise in a grand old hotel lobby, with no memory of arriving.",
     "The lobby is dark wood, brass and oxblood velvet, lit by a chandelier and green-shaded lamps.",
@@ -81,4 +81,9 @@ export const haremHotel0001 = {
     "You step through the brass gate and climb the stairs toward the next floor.",
   ],
   lore: ["place/harem-hotel-floor-1"],
+  characters: [
+    "character-player/harem-hotel-alan",
+    "character-other/harem-hotel-odile",
+    "character-other/harem-hotel-wren",
+  ],
 } as const satisfies StoryChapterWritten
