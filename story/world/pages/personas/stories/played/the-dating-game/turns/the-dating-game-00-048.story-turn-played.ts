@@ -10,7 +10,7 @@ export const theDatingGame00048 = {
   position: 48,
   prose: "txt",
   characters: ["character-other/the-dating-game-aelwyn", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action: "I try to follow her instructions, sneaking towards her.",
   beats: [
     "He tries it, short steps and soft knees, sneaking across the grass toward her.",
@@ -24,5 +24,5 @@ export const theDatingGame00048 = {
     '"Provo River Trail, at the mouth of the canyon. Bring water and your quiet feet."',
   ],
   lore: ["lore/the-dating-game-aelwyn"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
