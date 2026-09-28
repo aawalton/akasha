@@ -6,6 +6,6 @@ export const chapters = {
   slug: "chapters",
   title: "Chapters",
   icon: "BookOpen",
-  navPlace: 5,
+  navPlace: 0,
   app: "web-app/alanwalton-web",
 } as const satisfies Nav
