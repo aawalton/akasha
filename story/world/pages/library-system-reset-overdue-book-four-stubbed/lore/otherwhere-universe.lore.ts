@@ -178,7 +178,11 @@ export const otherwhereUniverse = {
     },
     {
       fact: "The Check-in Counter comes fully back at 75 power.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "The Library feeds and shelters anyone who comes to it in need.",
