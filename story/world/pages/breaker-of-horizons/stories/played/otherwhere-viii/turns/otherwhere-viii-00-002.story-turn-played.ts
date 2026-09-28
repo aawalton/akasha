@@ -4,13 +4,14 @@ export const otherwhereViii00002 = {
   id: "01a0ea23-8b7b-7be5-a8c1-00c4f13bdb6b",
   type: "page-type/story-turn-played",
   slug: "otherwhere-viii-00-002",
+  cover: "image/image-8b697efa306eb1f7",
   ownLength: 420,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-viii"],
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-viii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     '"Oh, yes sir." I say respectfully getting up. "Could you help me get oriented? I\'m not sure how I ended up here. Where am I exactly?"',
   beats: [
@@ -40,6 +41,6 @@ export const otherwhereViii00002 = {
   issues: ['"The iron tip of the stick rests in the gravel by his boot." - No Prompt'],
   lore: ["place/otherwhere-viii-carrowgate", "place/otherwhere-viii-weir-gardens"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T05:45:00.000Z",
 } as const satisfies StoryTurnPlayed

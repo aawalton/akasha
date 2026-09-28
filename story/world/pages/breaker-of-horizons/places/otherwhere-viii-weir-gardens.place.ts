@@ -10,7 +10,7 @@ export const otherwhereViiiWeirGardens = {
   facts: [
     {
       fact: "Weir Gardens is in Low Bank, a riverside district of the city of Carrowgate.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
     {
       fact: "The river at the weir is the Carrow, which runs south through the city.",
@@ -22,11 +22,11 @@ export const otherwhereViiiWeirGardens = {
     },
     {
       fact: "Maddox takes a barefoot, underdressed stranger for someone robbed or out on a bad night.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
     {
       fact: "Maddox points the lost to the Weir Street police post, or the Tanners Row charity kitchen.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
     {
       fact: "Weir Gardens is a small public park of lawns, plane trees and iron benches beside a river weir.",
@@ -66,6 +66,22 @@ export const otherwhereViiiWeirGardens = {
     },
     {
       fact: "The few lit windows in the buildings past the park show the lamps' same steady white light.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
+    {
+      fact: "Maddox is the Weir Gardens warden and has walked its paths at first light for twenty years.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
+    {
+      fact: "The river at Weir Gardens is the Carrow, loud and white over the weir.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
+    {
+      fact: "The park gate's iron arch spells its name in raised letters of an angular, curling script.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
+    {
+      fact: "The plane trees of Weir Gardens are in new, pale leaf.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
   ],

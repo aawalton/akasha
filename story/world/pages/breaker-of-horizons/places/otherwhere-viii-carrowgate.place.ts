@@ -99,6 +99,14 @@ export const otherwhereViiiCarrowgate = {
       fact: "Police have walked in pairs since the winter attacks and stop strangers at the station.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A police post stands at the north end of Weir Street, five minutes' walk from Weir Gardens.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
+    {
+      fact: "A kitchen on Tanners Row feeds whoever queues at dawn.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
