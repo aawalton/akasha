@@ -11,4 +11,5 @@ export const mariReviewerTheDatingGameFlex1 = {
   startMode: "seat-mode/headless",
   onCall: false,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "c1247db2-1110-4718-8b94-10d3f9502417",
 } as const satisfies Seat
