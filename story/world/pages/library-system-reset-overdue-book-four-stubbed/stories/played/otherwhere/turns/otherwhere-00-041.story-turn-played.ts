@@ -10,13 +10,13 @@ export const otherwhere00041 = {
   position: 41,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "I finish eating the loaf, then bring a full jar of honey and three bags of salt back to the entrance to the room with the bookworms. I then strip and set aside the belt, pouch, robe, and slippers and cover myself from head to toe in honey, then in salt, armoring myself against the last bookworm. I then take an entire bag with me and get as close to the worm as I can without being detected, then rush it towards it, keeping the bag of salt between me and its mouth, hoping to get the entire thing stuck inside.",
   beats: [
     "Nala finishes the loaf, then hauls a jar of honey and three salt sacks to the hall's back.",
     "A sack at a time is easy; two is a stagger, so it takes her several trips.",
-    "At the edge of the gloom she strips, folding robe, belt, pouch and slippers aside.",
+    "At the edge of the gloom she strips, setting robe, belt, pouch and slippers by the sacks.",
     "She slathers herself in honey from scalp to toes, then rolls and pats salt on until she is crusted.",
     "The honey holds the salt thick and close, far better than her bloody shirt did.",
     "Hugging a whole sack to her chest, she creeps back toward the steps as quietly as she can.",
@@ -28,7 +28,6 @@ export const otherwhere00041 = {
     "The worm bucks, choking, salt burning in its gullet, and thrashes its whole bloated length.",
     "Its body slams into her hard and flings her across the floor; she lands winded and badly hurt.",
     "The worm writhes a few yards off, the sack lodged in its throat, far from finished.",
-    "Behind her, at the edge of the gloom, sit the honey jar and two more sacks.",
   ],
   issues: [
     '"Behind you, at the edge of the gloom, sit the honey jar and two more sacks." - No Prompt',
