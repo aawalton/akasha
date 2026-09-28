@@ -48,5 +48,9 @@ export const playedLayout = {
       decisionKind: "decision-kind/departure",
       statement: "Turning back to the text returns to where the reader was in it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Under a title bar held on a wide screen, the panels stay below that bar.",
+    },
   ],
 } as const satisfies Module

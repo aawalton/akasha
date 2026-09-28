@@ -94,6 +94,7 @@ export function ChapterPanels({ pageTypeSlug, id, children }: ChapterPanelsProps
       head={null}
       panelsAbove={null}
       runDrawn={<div className={PROSE_COLUMN}>{children}</div>}
+      underHeader
       panelsAside={<ChapterAside pageTypeSlug={pageTypeSlug} id={id} />}
     />
   )

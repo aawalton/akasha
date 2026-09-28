@@ -22,9 +22,13 @@ const RUN_TEXT = "flex min-w-0 flex-col gap-6"
 
 const RUN_TEXT_SET_ASIDE = "hidden min-w-0 flex-col gap-6 min-[584px]:flex"
 
-const PANELS_ASIDE = "hidden flex-col gap-4 lg:sticky lg:top-6 lg:self-start min-[584px]:flex"
+const PANELS_ASIDE = "hidden flex-col gap-4 lg:sticky lg:self-start min-[584px]:flex"
 
-const PANELS_SHOWN = "flex flex-col gap-4 max-[583px]:order-first lg:sticky lg:top-6 lg:self-start"
+const PANELS_SHOWN = "flex flex-col gap-4 max-[583px]:order-first lg:sticky lg:self-start"
+
+const STUCK_AT_TOP = "lg:top-6"
+
+const STUCK_UNDER_HEADER = "lg:top-[calc(var(--safe-area-top)+4.5rem)]"
 
 const PANELS_FLAT =
   "max-[583px]:**:data-[surface=1]:rounded-none max-[583px]:**:data-[surface=1]:bg-transparent max-[583px]:**:data-[surface=1]:px-0 max-[583px]:**:data-[surface=1]:shadow-none"
@@ -50,9 +54,10 @@ function useDrawsAnything(): readonly [RefCallback<HTMLElement>, boolean] {
   return [setAt, draws]
 }
 
-function asideClass(wide: boolean, showing: boolean): string {
+function asideClass(wide: boolean, showing: boolean, underHeader: boolean): string {
   if (!wide) return ASIDE_UNDRAWN
-  return `${showing ? PANELS_SHOWN : PANELS_ASIDE} ${PANELS_FLAT}`
+  const stuck = underHeader ? STUCK_UNDER_HEADER : STUCK_AT_TOP
+  return `${showing ? PANELS_SHOWN : PANELS_ASIDE} ${stuck} ${PANELS_FLAT}`
 }
 
 export function PlayedLayout({
@@ -61,12 +66,14 @@ export function PlayedLayout({
   runDrawn,
   bar,
   panelsAside,
+  underHeader = false,
 }: {
   head: ReactNode
   panelsAbove: ReactNode
   runDrawn: ReactNode
   bar?: ReactNode
   panelsAside: ReactNode | null
+  underHeader?: boolean
 }) {
   const [asideAt, asideDraws] = useDrawsAnything()
   const [panelsChosen, setPanelsChosen] = useState(false)
@@ -119,7 +126,7 @@ export function PlayedLayout({
           {bar}
         </div>
         {panelsAside === null ? null : (
-          <aside ref={asideAt} className={asideClass(wide, showing)}>
+          <aside ref={asideAt} className={asideClass(wide, showing, underHeader)}>
             {panelsAside}
           </aside>
         )}
