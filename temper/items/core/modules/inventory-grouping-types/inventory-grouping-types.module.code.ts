@@ -60,7 +60,7 @@ export const INVENTORY_TYPE_CATEGORY_ORDER: InventoryTypeCategory[] = [
 
 const INVENTORY_TYPE_CATEGORY_SET = new Set<string>(INVENTORY_TYPE_CATEGORY_ORDER)
 
-export function isInventoryTypeCategory(value: unknown): value is InventoryTypeCategory {
+function isInventoryTypeCategory(value: unknown): value is InventoryTypeCategory {
   return typeof value === "string" && INVENTORY_TYPE_CATEGORY_SET.has(value)
 }
 
