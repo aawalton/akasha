@@ -11,4 +11,5 @@ export const otherwhereVi00005 = {
   action:
     "I keep moving, but watch for a sturdy branch I can turn into a walking stick and defensive staff, to make myself less of an easy target. Until I find one, I pick up a fist sized rock from the riverbank.",
   lore: ["place/otherwhere-vi-hollow-stream"],
+  endsAt: "2026-09-28T22:05:00.000Z",
 } as const satisfies StoryTurnPlayed
