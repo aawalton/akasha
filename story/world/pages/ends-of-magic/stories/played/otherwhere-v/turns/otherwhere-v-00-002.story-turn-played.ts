@@ -7,7 +7,8 @@ export const otherwhereV00002 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-v"],
   position: 2,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Okay…isekai protocol. System? Status? Davrar? Davrar…I remember that name. Nathan, have you merged with the system yet? If so, could you send me some help? I know you can and wouldn’t want me to go through what you did.”",
+  lore: ["lore/otherwhere-v-nala", "place/otherwhere-v-fern-hollow", "lore/otherwhere-v-gloamcat"],
 } as const satisfies StoryTurnPlayed
