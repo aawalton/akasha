@@ -4,13 +4,14 @@ export const otherwhereIii00003 = {
   id: "01a0e9ee-e6ac-73f1-859c-b24892c89f29",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-003",
+  cover: "image/image-ae65c577b5f0cd7c",
   ownLength: 552,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
   position: 3,
   prose: "txt",
   characters: ["character-player/otherwhere-iii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I hit the warmth button again and stand up, getting ready to get on the train",
   beats: [
     "Nala presses PUSH FOR HEAT again; the lamps hum and glow orange over her.",
@@ -33,6 +34,6 @@ export const otherwhereIii00003 = {
   ],
   lore: ["place/otherwhere-iii-red-line-car"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2037-01-31T04:54:00.000Z",
 } as const satisfies StoryTurnPlayed

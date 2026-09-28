@@ -33,19 +33,31 @@ export const otherwhereIiiRedLineCar = {
     },
     {
       fact: "A screen by the doors runs ads and news: the hero Skiff chased an earth-shaper under Lake Michigan.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "The heat in the car makes numb feet burn and prickle as feeling comes back.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "Riders glance at a barefoot woman in a sleep shirt and mostly look away.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "The nurse is kind but tired, and would ask a shoeless woman if she needs help.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
+      fact: "The cars are ribbed steel with bright windows, and warm air blows low along the floor.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
+      fact: "A calm recorded man's voice names the train Howard-bound and calls each next stop.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
+      fact: "This car holds a man asleep in a work jacket, a student in earbuds and a nurse in blue scrubs.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
   ],
   within: "place/otherwhere-iii-chicago",
