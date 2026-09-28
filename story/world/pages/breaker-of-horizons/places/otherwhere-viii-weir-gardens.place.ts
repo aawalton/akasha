@@ -84,5 +84,29 @@ export const otherwhereViiiWeirGardens = {
       fact: "The plane trees of Weir Gardens are in new, pale leaf.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
+    {
+      fact: "To Maddox 'the Academy' is the Imperial Academy, two days north past Geldor by train and bus.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Maddox knows Academy students only from the news, where the Chosen One is said to study.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "An Academy student barefoot in Low Bank strikes Maddox as a knock on the head, or a joke.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Carrowgate's own school of the Art is the Institute of Artifice, up the hill in Guildhall.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Maddox would guess a confused girl means the Institute, and say it is a half-hour walk uphill.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "For the real Academy, Maddox would send her to the police post, whose booth can reach anywhere.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
