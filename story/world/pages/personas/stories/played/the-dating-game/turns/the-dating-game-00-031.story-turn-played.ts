@@ -10,7 +10,7 @@ export const theDatingGame00031 = {
   position: 31,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action:
     "“Already gone”, I say with a sad smile. “But this has been a good batch at least. I mean, I can’t complain about spending time in the dark with a kind and beautiful woman.”",
   beats: [
@@ -25,5 +25,8 @@ export const theDatingGame00031 = {
     "She turns down the next row, holding the lantern low so its light lies across the path.",
     'She glances back over her shoulder. "The next one\'s welcome to walk with me too."',
   ],
-  reviewedBy: ["story-reviewer/style"],
+  issues: [
+    '"Full dark has come down over the cemetery now" - 030 ends 7:29 PM, minutes past sunset',
+  ],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
