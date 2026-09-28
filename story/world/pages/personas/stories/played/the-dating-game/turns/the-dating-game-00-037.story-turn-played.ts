@@ -23,4 +23,5 @@ export const theDatingGame00037 = {
     "She glances at the watch on her wrist, and a small regret crosses her face.",
     "\"I'm due at a bedside at eight. I'll have to go soon.\"",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
