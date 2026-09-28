@@ -4,5 +4,6 @@
 {"propertySlug":"import","fileName":"writer.role.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"writer.role.ts","path":"story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
+{"propertySlug":"role","path":"agent/seat/pages/iris-writer-otherwhere-iii/iris-writer-otherwhere-iii.seat.ts","id":"01a0e9d5-5dae-7000-a9e9-ddcdf35e7fc7"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-writer-otherwhere/iris-writer-otherwhere.seat.ts","id":"01a0e985-f561-7000-9c77-de217d7ea50f"}
 {"propertySlug":"role","path":"agent/seat/pages/mari-writer-harem-hotel/mari-writer-harem-hotel.seat.ts","id":"01a0e98c-0583-7000-aa64-2259aebbe753"}
