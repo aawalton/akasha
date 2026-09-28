@@ -33,6 +33,6 @@ export const otherwhereV00005 = {
   issues: ['"heavier than you are" - a gloamcat is lynx-sized, lighter than Nala even petite'],
   lore: ["lore/otherwhere-v-gloamcat"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-28T19:02:00.000Z",
 } as const satisfies StoryTurnPlayed
