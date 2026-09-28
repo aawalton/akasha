@@ -4,13 +4,14 @@ export const otherwhere00050 = {
   id: "01a0e5da-22bc-701a-a095-1208d77e2e33",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-050",
+  cover: "image/image-293abe62037caf83",
   ownLength: 126,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 50,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "I pick up the worm, take it back to the break room, and put it in the cooler with the others. As I walk back to my room, I think to Links, **Can we afford hot water now? I really need a hot shower**",
   beats: [
@@ -24,5 +25,5 @@ export const otherwhere00050 = {
   ],
   lore: ["place/otherwhere-hall-back", "place/otherwhere-main-hall"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
