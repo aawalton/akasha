@@ -184,6 +184,14 @@ export const otherwhereIiiNala = {
       fact: "In the ER, Nala offered the Earth Contract her silence for a deal; again nothing answered.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
+    {
+      fact: "Nala turned down Denise's phone, saying she is on her own now and her boyfriend is gone.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-denise-pruitt",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

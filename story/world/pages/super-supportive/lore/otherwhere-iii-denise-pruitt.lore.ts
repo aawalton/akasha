@@ -122,7 +122,11 @@ export const otherwhereIiiDenisePruitt = {
     },
     {
       fact: "Denise takes no for an answer about calling home, and does not ask twice.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-denise-pruitt",
+      ],
     },
     {
       fact: "Before she clocks in, Denise writes her cell number on a paper towel for Nala.",
@@ -130,11 +134,27 @@ export const otherwhereIiiDenisePruitt = {
     },
     {
       fact: "Denise asks Marcus to have the social worker see Nala when she comes on at eight.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-denise-pruitt",
+      ],
     },
     {
       fact: "Denise's first break comes around nine, and she means to check on Nala then.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-denise-pruitt",
+      ],
+    },
+    {
+      fact: "Denise gave Nala a paper towel reading DENISE and a phone number, to call at any hour.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-denise-pruitt",
+      ],
     },
   ],
 } as const satisfies Lore
