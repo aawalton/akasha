@@ -53,6 +53,7 @@ export const worldCheck = {
     "world-check/otherwhere-viii-harm",
     "world-check/otherwhere-viii-needs",
     "world-check/otherwhere-viii-standing",
+    "world-check/otherwhere-viii-arcana",
     "world-check/otherwhere-vi-action-check",
     "world-check/otherwhere-vi-time-passing",
   ],
