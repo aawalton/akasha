@@ -172,6 +172,18 @@ export const otherwhereIiiNala = {
       fact: "Nala now wears thin blue hospital socks; Denise's wet wool socks are knotted in a plastic bag.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
+    {
+      fact: "Denise lent Nala worn black clogs and a grey fleece jacket from her locker.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-denise-pruitt",
+      ],
+    },
+    {
+      fact: "In the ER, Nala offered the Earth Contract her silence for a deal; again nothing answered.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

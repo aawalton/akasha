@@ -26,7 +26,11 @@ export const otherwhereIiiDenisePruitt = {
     },
     {
       fact: "In her locker at work she keeps an old pair of clogs and a fleece jacket.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-denise-pruitt",
+      ],
     },
     {
       fact: "She hears a man leaving a woman stranded as abuse, and takes it seriously.",
@@ -94,7 +98,11 @@ export const otherwhereIiiDenisePruitt = {
     },
     {
       fact: "At the ER Denise will offer Nala the desk phone to call someone back home.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-denise-pruitt",
+      ],
     },
     {
       fact: "Denise clocks in at 5:30 and told Nala she will come find her on her break.",

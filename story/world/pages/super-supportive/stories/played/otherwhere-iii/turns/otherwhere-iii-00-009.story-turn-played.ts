@@ -4,6 +4,7 @@ export const otherwhereIii00009 = {
   id: "01a0ea3e-e735-7eee-bac0-427b4108de18",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-009",
+  cover: "image/image-062217e8db104ea9",
   ownLength: 473,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
@@ -13,7 +14,7 @@ export const otherwhereIii00009 = {
     "character-player/otherwhere-iii-nala",
     "character-other/otherwhere-iii-denise-pruitt",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I find a seat in a quiet corner where I can rest and talk to myself a bit without being overheard. \"Earth Contract, if you can't hear me you're really not doing your job. I'm afraid I'm in possession of some unbound sensitive information and I'd like to make a deal for my silence. For example, I know the layout of the island off Anesidora where you work withe Avowed to kill demons as training and to relieve pressure. I know you forcibly affix humans who are at risk of absorbing chaos and becoming demons. I know some of the skills have much more potential than others, such as \"Let Me Handle Your Luggage\" as you so helpfully translate it. It really is in your best interest to make a deal with me now before I come into contact with any of the people who I could disclose this information to in ways that would be very inconvenient for you.\"",
   beats: [
@@ -38,6 +39,6 @@ export const otherwhereIii00009 = {
   issues: ['"She has changed into navy scrubs" - Denise already wore blue scrubs on the train'],
   lore: ["place/otherwhere-iii-uptown-memorial-er", "lore/otherwhere-iii-the-system"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2037-01-31T05:25:00.000Z",
 } as const satisfies StoryTurnPlayed

@@ -153,7 +153,7 @@ export const otherwhereIiiUptownMemorialEr = {
     },
     {
       fact: "Near that corner only the man asleep across three chairs sits, and he sleeps on.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "A woman muttering in a corner is common in an ER before dawn, and no one looks twice.",
