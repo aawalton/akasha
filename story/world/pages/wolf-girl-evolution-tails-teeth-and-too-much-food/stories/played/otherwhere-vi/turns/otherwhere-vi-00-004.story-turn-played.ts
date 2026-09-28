@@ -41,6 +41,6 @@ export const otherwhereVi00004 = {
   issues: ['"The other stays where it is, head low, its eyes on you." - No Prompt'],
   lore: ["place/otherwhere-vi-hollow-stream"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-28T21:30:00.000Z",
 } as const satisfies StoryTurnPlayed

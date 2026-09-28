@@ -86,15 +86,15 @@ export const otherwhereViHollowStream = {
     },
     {
       fact: "The rim trail runs a few hundred paces west of the ravine, out of sight of the water.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "The fall's roar carries along the rim trail, so the water can be followed by ear.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "The rim trail forks at a split boulder: the left fork drops down a gully to the stream.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "The right fork climbs on west, away from the water, toward the Sallow Mire.",
@@ -102,15 +102,35 @@ export const otherwhereViHollowStream = {
     },
     {
       fact: "The gully is steep and stony, but dry; it meets the stream below the fall in a quarter hour.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "A doe and her yearling bed down tonight on the rim trail, and bolt crashing if come upon.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "The two young wolves are working toward the rim trail from the west, following the deer.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The rim trail's right fork at the split boulder climbs on west, away from the water.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "Below the fall the stream runs wider and slower, with alders leaning out over it.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "A smell of churned mud and animal musk hangs over the water downstream of the fall.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "The stream above the fall is ice-cold and tastes of nothing but stone.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "Tonight two lean, silent wolves watch from the gully's lip; one vanished into a boulder's shadow.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
   ],
   exits: [
