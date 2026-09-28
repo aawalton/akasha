@@ -19,6 +19,10 @@ export const superSupportiveArtonanConsulate4 = {
       fact: "On a Saturday the lobby opens at nine with no classes, and Gorgon is at the desk as always.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "It is a blocky gray concrete-and-glass cube behind a security fence with a gate on tracks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   within: "place/otherwhere-iii-chicago",
   secrets: "jsonl",
