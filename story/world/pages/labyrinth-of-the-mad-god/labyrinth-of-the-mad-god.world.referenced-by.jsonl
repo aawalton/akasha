@@ -24,6 +24,7 @@
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-creatures.lore.ts","id":"01a0e9a5-b2a2-71b2-ba8d-b054010e2d2b"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-crimson-beetles.lore.ts","id":"01a0e9c3-c617-75f1-b31c-8075c5705eb8"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-crimson-blight.lore.ts","id":"01a0e9c1-484c-75cf-aa81-94366a7bbe70"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-crystal-assistants.lore.ts","id":"01a0e9d2-c08c-7aaf-8caf-e598e75c3f3c"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-death.lore.ts","id":"01a0e9a5-b2a2-7e08-9921-f012b89fc3fb"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-desert-rose.lore.ts","id":"01a0e9cb-9156-7842-9d86-7783231d283c"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-devin.lore.ts","id":"01a0e9c9-1a4b-7762-9a42-a637caf91649"}
@@ -37,7 +38,9 @@
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-elixir-of-restoration.lore.ts","id":"01a0e9d1-a3d9-71d9-bc0f-9b279ce44edf"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-elizabeth-duval.lore.ts","id":"01a0e9ca-01e9-74dd-8f05-ff220f63ed9f"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ella-dimkey.lore.ts","id":"01a0e9ca-01ea-765a-b71e-ec7aec58a7c5"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-event-horizon.lore.ts","id":"01a0e9d2-c08d-797e-aca1-67c6d66239b2"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-fallen-beasts.lore.ts","id":"01a0e9c2-fe15-7e5b-825b-a840633aecce"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-fang-of-the-lava-lord.lore.ts","id":"01a0e9d2-c08d-73b5-abf1-a3fdb3b126fa"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-fennier.lore.ts","id":"01a0e9cf-bd36-77b6-a22c-47cebf910c9e"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-finren.lore.ts","id":"01a0e9ce-117f-7c83-8f95-59975e275d4b"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-floatstone.lore.ts","id":"01a0e9d1-a3d9-764b-b6fa-653128baafb2"}
@@ -80,7 +83,9 @@
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-nala.lore.ts","id":"01a0e984-b971-79a8-998f-39e5a793839c"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-nicholas-henry.lore.ts","id":"01a0e9c9-1a4c-738c-b3b6-3f633ff3550c"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-nightsong.lore.ts","id":"01a0e9cc-700a-7fdd-9276-352b9d5a889f"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-notable-armor.lore.ts","id":"01a0e9d2-c08d-785f-a84b-75d11134e1fc"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-notable-safe-rooms.lore.ts","id":"01a0e9bb-b06d-7282-90fd-0c8dc2678956"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-notable-weapons.lore.ts","id":"01a0e9d2-c08d-76a4-a637-c8ac664d4530"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-other-contestants.lore.ts","id":"01a0e9cb-9157-7a11-a5ee-a86627f5be4a"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-paul.lore.ts","id":"01a0e9ca-c7c4-7a12-a2a1-cad28e78f539"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-pax.lore.ts","id":"01a0e9ce-df77-74e0-94ef-97cbb01013b5"}
