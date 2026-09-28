@@ -6,9 +6,9 @@ export const collectibles = {
   slug: "collectibles",
   title: "Collectibles",
   icon: "file-text",
-  apiVersion: "eso.live.12.0.8.3288357",
-  manifestApiVersion: 101050,
-  capturedAt: "2026-09-27T20:22:54.119Z",
+  apiVersion: "eso.live.12.1.5.3303624",
+  manifestApiVersion: 101051,
+  capturedAt: "2026-09-28T14:58:34.708Z",
   generatorRanForVersion: "eso.live.12.0.6.3274791",
   generatorRanForManifestApiVersion: 101050,
 } as const satisfies TemperCatalogDomain
