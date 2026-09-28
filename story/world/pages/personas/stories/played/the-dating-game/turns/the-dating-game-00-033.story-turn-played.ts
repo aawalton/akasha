@@ -10,7 +10,7 @@ export const theDatingGame00033 = {
   position: 33,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "I tear up. “That’s good work. Heavy. My father and grandfather both went through hospice in the past few years. I know exactly how much a good hospice nurse matters. I can tell you’re a good one.”",
   beats: [
@@ -24,5 +24,5 @@ export const theDatingGame00033 = {
     "She is quiet a moment, and the evening settles around them among the stones.",
     '"Your father, and your grandfather," she says gently. "Tell me about them, if you want to."',
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
