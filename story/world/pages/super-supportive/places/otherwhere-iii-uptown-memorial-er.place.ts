@@ -59,6 +59,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "The Uptown Memorial ER is one block from the Lawrence stop.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
+    {
+      fact: "The triage nurse tonight is Marcus Bell, a big, calm man in his thirties and Denise's friend.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
