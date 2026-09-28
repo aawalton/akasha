@@ -40,13 +40,13 @@ export const worldBuilder = {
     },
     {
       directiveKind: "directive-kind/rule",
-      name: "Sole Describer",
-      act: "Write every mechanic's description yourself, as the What It Is rule on world-mechanic says.",
+      name: "Sole Definer",
+      act: "Define every mechanic yourself, its description written to world-mechanic's What It Is rule.",
       warrant:
-        "The player reads a mechanic by its description, and only you know what it may say unspoiled.",
+        "A mechanic nobody defined does not exist in the world, and only you know what it may say unspoiled.",
       aids: [
-        "At your step, describe each mechanic page of your story that states no description yet.",
-        "A game master or recorder filing a mechanic page leaves its description to you.",
+        "File a skill, an item or any mechanic kind before any turn holds or grants it.",
+        "Define a mechanic the game master asks for, or one the last turn's prose reached undefined.",
         "Rewrite a description the game master sends a reviewer's issue on, and land it before answering.",
       ],
     },

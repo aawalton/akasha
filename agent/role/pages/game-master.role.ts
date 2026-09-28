@@ -167,7 +167,7 @@ export const gameMaster = {
         "A metric page takes its new value, and its history a line of the turn's number and that value.",
         "Add a history line with the `append-lines` change; a history is never written over.",
         "A skill the turn advanced takes its new rank, level and demonstrations on its holding page.",
-        "A mechanic page filed states no description, since the world builder writes every one.",
+        "Define no mechanic; ask the world builder for one the turn needs, and hold only what is defined.",
       ],
     },
     {
