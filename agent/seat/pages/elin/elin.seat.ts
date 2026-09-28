@@ -9,7 +9,7 @@ export const elin = {
   role: "role/definer",
   person: "person/alan",
   startMode: "seat-mode/interactive",
-  onCall: false,
+  onCall: true,
   registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "20dacdc1-b3c3-4474-b958-673402a1975c",
 } as const satisfies Seat
