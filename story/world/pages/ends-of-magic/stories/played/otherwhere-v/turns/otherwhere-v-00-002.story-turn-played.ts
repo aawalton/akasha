@@ -10,7 +10,7 @@ export const otherwhereV00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-v-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Okay…isekai protocol. System? Status? Davrar? Davrar…I remember that name. Nathan, have you merged with the system yet? If so, could you send me some help? I know you can and wouldn’t want me to go through what you did.”",
   beats: [
@@ -58,7 +58,10 @@ export const otherwhereV00002 = {
   ],
   issues: [
     '"Around it the dusk is coming on, and the forest is full of callers you cannot see." - Leave It Open',
+    '"once granted by the gods" - What It Is',
+    '"that hunts at dusk and by night" - What It Is',
+    '"which Davrar counts and rewards" - What It Is',
   ],
   lore: ["lore/otherwhere-v-nala", "place/otherwhere-v-fern-hollow", "lore/otherwhere-v-gloamcat"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
