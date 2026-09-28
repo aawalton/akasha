@@ -28,4 +28,5 @@ export const otherwhere00006 = {
   issues: ['"The forest\'s noise closes over the place where it was." - Leave It Open'],
   lore: ["lore/otherwhere-copperbacks"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
