@@ -298,7 +298,11 @@ export const otherwhereMainHall = {
 
     {
       fact: "Nala reshelved all the heaps beside the counter, the hall's gold light edging brighter.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "The quarters' taps now run hot.",
