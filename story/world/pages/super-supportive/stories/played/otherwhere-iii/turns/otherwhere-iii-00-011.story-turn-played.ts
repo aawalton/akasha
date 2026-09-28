@@ -4,13 +4,14 @@ export const otherwhereIii00011 = {
   id: "01a0ea55-7830-7903-88bd-aac75c2cf41a",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-011",
+  cover: "image/image-a440f215142e60d2",
   ownLength: 602,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
   position: 11,
   prose: "txt",
   characters: ["character-player/otherwhere-iii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I watch the TV screen quietly, gathering information to help me get oriented and blend into this new world.",
   beats: [
@@ -37,6 +38,6 @@ export const otherwhereIii00011 = {
   ],
   lore: ["place/otherwhere-iii-uptown-memorial-er"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2037-01-31T07:05:00.000Z",
 } as const satisfies StoryTurnPlayed
