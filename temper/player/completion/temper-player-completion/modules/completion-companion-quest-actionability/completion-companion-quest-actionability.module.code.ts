@@ -43,7 +43,7 @@ export function hasCompanionQuestLeft(
   return group.quests.some((quest) => !completedIds.has(quest.questId))
 }
 
-export type DefIdOf = (this: void, companionId: string) => number | undefined
+type DefIdOf = (this: void, companionId: string) => number | undefined
 
 export function pickFirstActionableCompanionQuest(
   completedIds: ReadonlySet<number>,
