@@ -24,4 +24,5 @@ export const theDatingGame00043 = {
     "Afterward she flops back in the grass with her arms flung out, squinting up through the pines.",
     "\"Oh, heads up. You're in today's video. It goes up tonight. You're gonna be internet famous.\"",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
