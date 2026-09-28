@@ -11,7 +11,7 @@ export type Written = {
   readonly said: readonly string[]
 }
 
-export type SlugUnion = {
+type SlugUnion = {
   readonly name: string
   readonly holds: (page: Readonly<Record<string, unknown>>) => boolean
   readonly pageTypeSlug?: string
@@ -62,7 +62,7 @@ export function keepingTurns(keeping: Keeping, change: Change): boolean {
   )
 }
 
-export type KeptPage = {
+type KeptPage = {
   readonly pageType: string | null
   readonly value: Readonly<Record<string, unknown>>
 }
