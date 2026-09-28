@@ -48,6 +48,7 @@ export const command = {
     "module/draft-parsing",
     "module/during-call",
     "module/edits-landing",
+    "module/edits-repointing",
     "module/fault-saying",
     "module/file-arguing",
     "module/folder-clearing",

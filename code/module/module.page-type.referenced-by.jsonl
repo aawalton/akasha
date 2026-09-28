@@ -1270,6 +1270,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/draft-parsing/draft-parsing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/during-call/during-call.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/edits-landing/edits-landing.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/edits-repointing/edits-repointing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/failing/command-failing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/fault-saying/fault-saying.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/file-arguing/file-arguing.module.ts","typed":true,"deferred":false}

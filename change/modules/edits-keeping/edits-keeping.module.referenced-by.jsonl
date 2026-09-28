@@ -20,6 +20,8 @@
 {"propertySlug":"import","fileName":"edits-keeping.module.code.ts","path":"command/modules/draft-keeping/draft-keeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"edits-keeping.module.code.ts","path":"command/modules/draft-keeping/draft-keeping.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"edits-keeping.module.code.ts","path":"command/modules/edits-landing/edits-landing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"edits-keeping.module.code.ts","path":"command/modules/edits-repointing/edits-repointing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"edits-keeping.module.code.ts","path":"command/modules/edits-repointing/edits-repointing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"edits-keeping.module.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"edits-keeping.module.code.ts","path":"command/pages/change/apply/change-apply.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"edits-keeping.module.code.ts","path":"command/pages/change/apply/change-apply.command.test.ts","typed":false,"deferred":false}

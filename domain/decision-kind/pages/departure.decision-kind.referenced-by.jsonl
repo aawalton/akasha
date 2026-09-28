@@ -2120,6 +2120,7 @@
 {"propertySlug":"decision-kind","path":"command/modules/draft-parsing/draft-parsing.module.ts","id":"01a0e404-187e-7a49-9de8-47bb3176205d"}
 {"propertySlug":"decision-kind","path":"command/modules/during-call/during-call.module.ts","id":"01a05cb3-7cca-7613-8b60-5d8a19e74370"}
 {"propertySlug":"decision-kind","path":"command/modules/edits-landing/edits-landing.module.ts","id":"01a08132-ea7c-7ba6-972a-e1a6c95b5b76"}
+{"propertySlug":"decision-kind","path":"command/modules/edits-repointing/edits-repointing.module.ts","id":"01a0e9a9-6ec4-77d0-b53c-03c3ae20a98a"}
 {"propertySlug":"decision-kind","path":"command/modules/failing/command-failing.module.ts","id":"01a069da-b9b3-70b0-a181-941ada376275"}
 {"propertySlug":"decision-kind","path":"command/modules/fault-saying/fault-saying.module.ts","id":"01a04fea-ace5-7d39-9830-e4793edb0b2c"}
 {"propertySlug":"decision-kind","path":"command/modules/file-arguing/file-arguing.module.ts","id":"01a07bd4-e969-7d84-be28-cfc9777fb405"}

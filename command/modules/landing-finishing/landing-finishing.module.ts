@@ -55,5 +55,9 @@ export const landingFinishing = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a body the change carries.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Drafted edits naming a path the landing moved are pointed where that path went.",
+    },
   ],
 } as const satisfies Module

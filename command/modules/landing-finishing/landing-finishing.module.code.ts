@@ -1,3 +1,4 @@
+import { editsRepointed } from "akasha/command/modules/edits-repointing/edits-repointing.module.code.ts"
 import {
   type Linking,
   linkedOver,
@@ -27,6 +28,7 @@ export function finishedOver(
   moves: readonly FileMove[],
   home: string
 ): Finished {
+  for (const one of editsRepointed(root, moves)) process.stderr.write(`${one}\n`)
   const elsewhere = ranElsewhere(root, home)
   if (elsewhere !== null) {
     return { cleared, linked: NOTHING_LINKED, placed: { said: [elsewhere], wrong: [] } }
