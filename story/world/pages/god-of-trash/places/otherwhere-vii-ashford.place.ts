@@ -32,11 +32,11 @@ export const otherwhereViiAshford = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "No one in Ashford has awakened to mana; its folk have only seen cultivators pass on the road.",
+      fact: "No one in Ashford has awakened to mana; its folk have only seen mages fly over the road.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Ashford folk bow low to any cultivator and keep their children indoors while one passes.",
+      fact: "Ashford folk bow low to any mage and keep their children indoors while one passes.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -49,6 +49,38 @@ export const otherwhereViiAshford = {
     },
     {
       fact: "The Crooked Ford's alewife, Marta, lets travellers sleep in the loft over her brewhouse.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Marta is a broad, sharp-tongued widow who hears all the gossip and charges three pennies a night.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "This week Ashford is turning stubble and threshing, and pays a hand a meal and ten pennies a day.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Gleaners may pick the barley stubble after the carts, by old custom, for free.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The smith, Garrick, is a big quiet man with a limp who needs a helper at the bellows.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The miller's wife, Hild, is Ashford's healer and midwife, and knows common herbs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ashford lies inside the Snowdrop school's lands by a mile, and folk believe that keeps them safe.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ashford folk go to Bramwick market, and a few go west to the mountain town for the tournament.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Headman Aldo Reeve will turn out a stranger who looks like trouble, or a runaway someone wants.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
