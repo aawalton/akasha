@@ -4,6 +4,7 @@ export const otherwhere00004 = {
   id: "01a0e9c2-63e9-793d-ab41-e87c388cc7ea",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-004",
+  cover: "image/image-775a0c7961c1b856",
   ownLength: 545,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
@@ -43,5 +44,5 @@ export const otherwhere00004 = {
     "lore/otherwhere-cinder-isle-plants",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
