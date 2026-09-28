@@ -4,7 +4,8 @@ export const storyRecorder = {
   id: "01a0e054-324d-793a-8ecd-433ed00e9de5",
   type: "page-type/page-type",
   slug: "story-recorder",
-  definition: "one thing a played turn's recorders write into pages once its prose is written",
+  definition:
+    "one thing the recorders of a turn or chapter write into pages once its prose is written",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "story recorder" },
     { partOfSpeech: "part-of-speech/noun", spelling: "story recorders" },
