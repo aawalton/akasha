@@ -303,7 +303,7 @@ export const otherwhereHallBack = {
     },
     {
       fact: "Salt crust pressed to the big bookworm's cracked hide burns deep, and it rolls to scrape it off.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Clinging just behind its head keeps a body past the big bookworm's mouth, unless it curls round.",
@@ -311,7 +311,19 @@ export const otherwhereHallBack = {
     },
     {
       fact: "A roll of the big bookworm's bulk can pin and crush whoever clings to it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Nala caught the big bookworm mid-body; it rolled on her and crushed her senseless.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Links dragged the senseless Nala clear to the edge of the gloom, at a cost of the Library's power.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "Once a salt crust scrapes off, the honey beneath draws the big bookworm's teeth to it.",
