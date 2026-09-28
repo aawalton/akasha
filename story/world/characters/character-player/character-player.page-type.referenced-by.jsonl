@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/ui/modules/character-cover-panel/character-cover-panel.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/ui/modules/player-character-panel/player-character-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/ui/modules/player-character-panel/player-character-panel.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere/mechanics/rooms/properties/otherwhere-room-exits.computed-property.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/world/stories/played/modules/played-shell/played-shell.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/world/stories/played/modules/player-beside/player-beside.module.code.ts","typed":false,"deferred":false}

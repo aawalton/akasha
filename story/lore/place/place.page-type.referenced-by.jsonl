@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"place.page-type.ts","path":"story/lore-disclosure/modules/lore-rereading/lore-rereading.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.ts","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere/mechanics/rooms/properties/otherwhere-room-exits.computed-property.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/cornerstone/places/cornerstone-the-founding-camp-the-bound-ground.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/harem-hotel/places/harem-hotel-floor-1.place.ts","typed":true,"deferred":false}
@@ -13,6 +14,7 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/places/otherwhere-kitchen.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/places/otherwhere-main-hall.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/places/otherwhere-quarters.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere/mechanics/rooms/properties/otherwhere-room-exits.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/personas/places/date-night-free-play-full-combo.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/personas/places/dragons-and-dungeons-caer-arianrhod.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/personas/places/dragons-and-dungeons-the-chancel.place.ts","typed":true,"deferred":false}
