@@ -13,8 +13,20 @@ export const royalRoadSyncing = {
       statement: "A chapter filed here states its id and link as one record of royal road.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "No story page is created here.",
+      decisionKind: "decision-kind/departure",
+      statement: "A followed fiction with no story page has one made on the run that finds it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The chapters of a story made on a run are filed on that same run.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story made on a run counts as a page that run created.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run over one story makes no story.",
     },
     {
       decisionKind: "decision-kind/departure",

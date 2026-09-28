@@ -4,7 +4,7 @@ export const royalRoadStories = {
   id: "01a0e98e-6a22-7780-b98d-486a37054265",
   type: "page-type/module",
   slug: "royal-road-stories",
-  definition: "the story pages the Royal Road sync reads and restates",
+  definition: "the story pages the Royal Road sync reads, restates and makes",
   code: "ts",
   test: "ts",
   decisions: [
@@ -40,6 +40,34 @@ export const royalRoadStories = {
       decisionKind: "decision-kind/departure",
       statement:
         "A story's status is restated only where royal road says ongoing or completed or hiatus.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story made here is named by the slug royal road gives its fiction.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story made here states its title, author, tags and status as royal road does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story made here holds the description royal road gives as its text.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story made here states it is following.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story made here is under the world of the same name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That world is made where no world has that name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A slug a story page already holds makes no story.",
     },
   ],
 } as const satisfies Module

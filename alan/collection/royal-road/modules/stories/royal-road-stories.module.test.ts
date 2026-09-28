@@ -2,7 +2,10 @@ import { expect, test } from "bun:test"
 import {
   restatementFor,
   type Story,
+  storyValues,
 } from "akasha/alan/collection/royal-road/modules/stories/royal-road-stories.module.code.ts"
+import { words } from "akasha/alan/collection/unit/pages/words.unit.ts"
+import { unit } from "akasha/alan/collection/unit/unit.page-type.ts"
 
 const STORY: Story = {
   slug: "the-primal-hunter",
@@ -42,4 +45,41 @@ test("tags royal road gives in a new order are restated", () => {
   expect(restatementFor(STORY, "ONGOING", ["Magic", "LitRPG"], true)).toEqual({
     externalTags: ["Magic", "LitRPG"],
   })
+})
+
+const FOLLOWED = { fictionId: "57861", fictionSlug: "the-bookstore", lastReadChapterId: null }
+
+const META = {
+  title: "The Bookstore",
+  author: "An Author",
+  status: "ONGOING",
+  description: "A shop.",
+  tags: ["Fantasy"],
+}
+
+test("a story made states its fiction's id, link, title, author, tags and status", () => {
+  expect(storyValues(FOLLOWED, META, "world/the-bookstore")).toEqual({
+    title: "The Bookstore",
+    world: "world/the-bookstore",
+    externalIdentity: [
+      {
+        source: "royal-road",
+        externalId: "57861",
+        externalLink: "https://www.royalroad.com/fiction/57861/the-bookstore",
+      },
+    ],
+    following: true,
+    unit: `${unit.slug}/${words.slug}`,
+    author: "An Author",
+    externalTags: ["Fantasy"],
+    publicationStatus: "ongoing",
+    prose: "txt",
+  })
+})
+
+test("a story made from a fiction saying little states only what it says", () => {
+  const bare = { title: null, author: null, status: "STUBBED", description: null, tags: [] }
+  const values = storyValues(FOLLOWED, bare, "world/the-bookstore")
+  expect(values["title"]).toBe("the-bookstore")
+  expect(Object.keys(values)).toEqual(["title", "world", "externalIdentity", "following", "unit"])
 })

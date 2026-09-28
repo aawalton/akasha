@@ -26,6 +26,7 @@ import {
   restatedStory,
   restatementFor,
   type Story,
+  storyCreated,
 } from "akasha/alan/collection/royal-road/modules/stories/royal-road-stories.module.code.ts"
 import { words } from "akasha/alan/collection/unit/pages/words.unit.ts"
 import { unit } from "akasha/alan/collection/unit/unit.page-type.ts"
@@ -284,7 +285,22 @@ async function syncRoyalRoad(argv: readonly string[]): Promise<RunCounts> {
   }))
   if (filing.length > 0) console.log(`  ${filing.length} second copies of a chapter to take away`)
 
-  for (const story of stories) {
+  const known = new Set(stories.map((one) => one.externalId))
+  const created: Story[] = []
+  for (const one of only === undefined ? follows.values() : []) {
+    if (known.has(one.fictionId)) continue
+    try {
+      const made = await storyCreated(ROOT, one)
+      filing.push(made)
+      created.push(made.story)
+      console.log(`  + ${made.named}`)
+    } catch (error) {
+      console.log(`  ${one.fictionSlug}: no story made — ${String(error)}`)
+      counts.failed += 1
+    }
+  }
+
+  for (const story of [...stories, ...created]) {
     try {
       await syncStory(story, follows, held, taken, counts, budget, filing)
     } catch (error) {
@@ -304,12 +320,13 @@ async function syncRoyalRoad(argv: readonly string[]): Promise<RunCounts> {
   }
 
   console.log(
-    `composed ${counts.composed} chapter(s), restated ${counts.restated} story page(s), ` +
+    `made ${created.length} story page(s), composed ${counts.composed} chapter(s), ` +
+      `restated ${counts.restated} story page(s), ` +
       `read ${counts.progressed} chapter(s), skipped ${counts.skipped} over budget, ` +
       `${counts.failed} failed, ${counts.refused} refused, ${counts.unworlded} unrestated for no world`
   )
   return {
-    created: counts.composed,
+    created: counts.composed + created.length,
     updated: counts.restated + counts.progressed,
     skipped: counts.skipped,
     failed: counts.failed + counts.refused + counts.unworlded,

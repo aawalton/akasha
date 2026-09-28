@@ -57,6 +57,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/collection/modules/sync-run-recording/sync-run-recording.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/collection/royal-road/modules/follows/royal-road-follows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/collection/royal-road/modules/held/royal-road-held.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/collection/royal-road/modules/stories/royal-road-stories.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/harness/alan-readout/modules/workstation-load-sampling/workstation-load-sampling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/command-tree-assemble/command-tree-assemble.module.code.ts","typed":false,"deferred":false}

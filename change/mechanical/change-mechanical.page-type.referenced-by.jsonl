@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"agent/subagent/modules/stale-taking/subagent-stale-taking.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"alan/collection/royal-road/modules/stories/royal-road-stories.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"alan/track/modules/landing/track-landing.module.code.ts","typed":false,"deferred":false}
