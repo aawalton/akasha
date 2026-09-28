@@ -4,6 +4,8 @@ export const image1b8fa7b4b426c613 = {
   id: "01a0e9eb-8a6f-7f5f-88bb-684520e906a4",
   type: "page-type/image",
   slug: "image-1b8fa7b4b426c613",
+  title: "Platinum Buzz Under the Sprinkler",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
