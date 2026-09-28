@@ -41,5 +41,5 @@ export const otherwhere00007 = {
     "place/otherwhere-lowland-wood",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
