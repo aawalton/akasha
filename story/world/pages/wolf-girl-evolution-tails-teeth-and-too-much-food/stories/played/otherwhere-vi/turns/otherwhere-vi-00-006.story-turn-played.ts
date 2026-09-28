@@ -31,6 +31,10 @@ export const otherwhereVi00006 = {
     "She stops short a few lengths off, head down, blowing hard through her snout.",
     "Her small eyes catch the moonlight; she clacks her teeth again and stands there.",
   ],
+  issues: [
+    '"She clacks her teeth" - Nala has only seen "the big one"; its being a sow is not hers to know',
+  ],
   lore: ["place/otherwhere-vi-hollow-stream"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T22:17:00.000Z",
 } as const satisfies StoryTurnPlayed
