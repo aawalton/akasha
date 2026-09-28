@@ -8,6 +8,7 @@ import {
   type ReadFilters,
   readViewFilters,
   relatedFilterOf,
+  withRelatedKept,
 } from "akasha/page/core/view/modules/read-view-filters/read-view-filters.module.code.ts"
 
 const TALE = "tale"
@@ -147,4 +148,26 @@ test("a view narrow matching the page's narrow is kept once the page's copy is l
 
 test("a page's narrow the view never read leaves the view's narrows whole", () => {
   expect(besideNarrows([GRADED], [IN_THE_ALBUM])).toEqual([GRADED])
+})
+
+const FOLLOWED = { propertyId: "tale.following", operator: "equals", value: "true" }
+
+const UNREAD = { propertyId: "ownRemaining", operator: "gte", value: "1" }
+
+test("a view written back from the narrows it shows keeps the related narrow it never showed", () => {
+  const stated = [FOLLOWED, UNREAD]
+  const read = readViewFilters(stated, PART, definitionsOf)
+  const shown = "own" in read ? read.own : []
+  expect(withRelatedKept(shown, stated, PART)).toEqual([
+    { propertyId: "ownRemaining", operator: "gte", value: 1 },
+    FOLLOWED,
+  ])
+})
+
+test("a related narrow already written back is kept once", () => {
+  expect(withRelatedKept([FOLLOWED], [FOLLOWED], PART)).toEqual([FOLLOWED])
+})
+
+test("an own narrow taken off the view is not put back", () => {
+  expect(withRelatedKept([], [UNREAD], PART)).toEqual([])
 })

@@ -6,4 +6,11 @@ export const useViewConfigHandlers = {
   slug: "use-view-config-handlers",
   definition: "what a view calls when its config changes",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A change made on a view keeps the related narrows the view states and never shows.",
+    },
+  ],
 } as const satisfies Module

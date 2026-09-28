@@ -3549,6 +3549,7 @@
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/use-descendant-pages/use-descendant-pages.module.ts","id":"01a05cce-25ec-7573-afac-aed8bece2063"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/use-page-default-content/use-page-default-content.module.ts","id":"01a06205-4f3c-7008-8e50-44c6018074e7"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/use-pages-filtered-query/use-pages-filtered-query.module.ts","id":"01a06205-4f3c-7009-9a49-b56f7fa2267f"}
+{"propertySlug":"decision-kind","path":"page/ui/component/modules/use-view-config-handlers/use-view-config-handlers.module.ts","id":"01a05cba-9cbc-7530-9776-64407deb6bbc"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/view-page-content/view-page-content.module.ts","id":"01a06259-518d-7b02-91ff-6612d1ce5b85"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/view-tab-content/view-tab-content.module.ts","id":"01a06259-518e-7c69-81c7-ad0fa6c5847a"}
 {"propertySlug":"decision-kind","path":"page/ui/component/view-engine/modules/build-page-resolver/build-page-resolver.module.ts","id":"01a06158-0a79-7000-a2b2-4fa802b18c2d"}

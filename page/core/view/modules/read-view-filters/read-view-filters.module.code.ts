@@ -124,6 +124,23 @@ function sameFilter(one: ViewFilter, other: ViewFilter): boolean {
   )
 }
 
+function reachesThrough(filter: ViewFilter, definitions: readonly PropertyDefinition[]): boolean {
+  const segments = segmentsOf(filter.propertyId)
+  const head = definitions.find((one) => one.id === segments[0])
+  return segments.length > 1 && head !== undefined && RELATIONS.has(head.type)
+}
+
+export function withRelatedKept(
+  written: readonly ViewFilter[],
+  stated: readonly ViewFilter[],
+  definitions: readonly PropertyDefinition[]
+): readonly ViewFilter[] {
+  const kept = stated.filter(
+    (one) => reachesThrough(one, definitions) && !written.some((held) => sameFilter(held, one))
+  )
+  return [...written, ...kept]
+}
+
 export function narrowedBy(config: ViewDataJSON, narrows: readonly ViewFilter[]): ViewDataJSON {
   if (narrows.length === 0) return config
   return { ...config, filters: [...(config.filters ?? []), ...narrows] }

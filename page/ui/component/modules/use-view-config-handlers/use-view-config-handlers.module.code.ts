@@ -1,19 +1,26 @@
+import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import {
   type ViewConfig,
   type ViewDataJSON,
+  type ViewFilter,
   type ViewLayout,
   type VisibilityChange,
   viewConfigToData,
 } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import type { GalleryCardSize } from "akasha/page/core/view/modules/gallery/gallery.module.code.ts"
+import { withRelatedKept } from "akasha/page/core/view/modules/read-view-filters/read-view-filters.module.code.ts"
 import { reorderVisibleProperties } from "akasha/page/ui/component/modules/page-table-column-dnd-helpers/page-table-column-dnd-helpers.module.code.ts"
 import { useCallback } from "react"
+
+const NO_FILTERS: readonly ViewFilter[] = []
 
 interface UseViewConfigHandlersArgs {
   onUpdateView: (id: string, updates: Partial<ViewDataJSON>) => void
   viewId: string
   viewConfigPageTypeId?: string
   visibleProperties?: readonly string[]
+  statedFilters?: readonly ViewFilter[]
+  definitions: readonly PropertyDefinition[]
 }
 
 export function useViewConfigHandlers({
@@ -21,12 +28,19 @@ export function useViewConfigHandlers({
   viewId,
   viewConfigPageTypeId,
   visibleProperties,
+  statedFilters = NO_FILTERS,
+  definitions,
 }: UseViewConfigHandlersArgs) {
   const handleConfigChange = useCallback(
     (config: ViewConfig) => {
-      onUpdateView(viewId, { pageTypeId: viewConfigPageTypeId, ...viewConfigToData(config) })
+      const data = viewConfigToData(config)
+      const filters =
+        data.filters === undefined
+          ? undefined
+          : [...withRelatedKept(data.filters, statedFilters, definitions)]
+      onUpdateView(viewId, { pageTypeId: viewConfigPageTypeId, ...data, filters })
     },
-    [onUpdateView, viewId, viewConfigPageTypeId]
+    [onUpdateView, viewId, viewConfigPageTypeId, statedFilters, definitions]
   )
 
   const handleVisibilityChange = useCallback(

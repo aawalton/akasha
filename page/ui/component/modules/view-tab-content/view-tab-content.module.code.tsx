@@ -129,6 +129,8 @@ export function ViewTabContent({
     viewId,
     viewConfigPageTypeId: viewConfig?.pageTypeId,
     visibleProperties,
+    statedFilters: viewConfig?.filters,
+    definitions: properties,
   })
 
   const { onReorderCards } = useReorderViewWiring({

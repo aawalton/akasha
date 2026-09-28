@@ -41,5 +41,10 @@ export const readViewFilters = {
       decisionKind: "decision-kind/departure",
       statement: "The narrows a view shows leave out the narrows of the page drawing it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A view written back from the narrows it shows keeps every related narrow it states.",
+    },
   ],
 } as const satisfies Module
