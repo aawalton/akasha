@@ -4,10 +4,13 @@ export const theDatingGame00040 = {
   id: "01a0e7b9-81ef-7e20-847e-57e3989ad7e5",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-040",
+  ownLength: 148,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 40,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: ["character-player/the-dating-game-alan"],
+  turnStatus: "turn-status/reviewers",
   action:
     "In the morning, I wake up and go through my normal routine, then decide to go to the Provo Rec Center to work out.",
   beats: [
