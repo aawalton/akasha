@@ -29,7 +29,12 @@ export const haremHotelFloor1 = {
     },
     {
       fact: "The brass gate opens only once floor 1's task is met.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-odile",
+        "character-other/harem-hotel-wren",
+      ],
     },
     {
       fact: "The lift beside the staircase has no buttons, and its doors never open.",
@@ -45,7 +50,12 @@ export const haremHotelFloor1 = {
     },
     {
       fact: "An open leather guest book on the desk holds one line: Alan's name, in the concierge's hand.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-odile",
+        "character-other/harem-hotel-wren",
+      ],
     },
     {
       fact: "The lobby holds a leather sofa, the chaise, a brass luggage cart, and a rug before a cold hearth.",
@@ -57,15 +67,34 @@ export const haremHotelFloor1 = {
     },
     {
       fact: "Floor 1's task: make the concierge and the bellhop both come, then come inside one of them.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-odile",
+        "character-other/harem-hotel-wren",
+      ],
     },
     {
       fact: "The concierge states the task to Alan plainly, as his check-in, once he is on his feet.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-odile",
+        "character-other/harem-hotel-wren",
+      ],
     },
     {
       fact: "The women of the tower know their own floor's task and nothing of the floors above.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Alan is expected at the hotel, and is its only guest.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-odile",
+        "character-other/harem-hotel-wren",
+      ],
     },
   ],
 } as const satisfies Place

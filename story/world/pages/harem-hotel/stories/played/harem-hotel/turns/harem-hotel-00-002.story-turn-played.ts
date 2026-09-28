@@ -4,6 +4,7 @@ export const haremHotel00002 = {
   id: "01a0e843-4f81-7572-9f9b-63017adca42f",
   type: "page-type/story-turn-played",
   slug: "harem-hotel-00-002",
+  cover: "image/image-238dd5b97ecf70db",
   ownLength: 481,
   unit: "unit/words",
   partOfCollections: ["story-played/harem-hotel"],
@@ -14,7 +15,7 @@ export const haremHotel00002 = {
     "character-other/harem-hotel-odile",
     "character-other/harem-hotel-wren",
   ],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: '"Okay..." I stand up. "I\'m on my feet, check me in?"',
   beats: [
     'Alan says "Okay...", swings his feet down and stands up off the chaise.',
@@ -39,5 +40,5 @@ export const haremHotel00002 = {
   ],
   lore: ["lore/harem-hotel-odile"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
