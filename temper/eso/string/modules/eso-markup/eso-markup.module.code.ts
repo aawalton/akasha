@@ -1,4 +1,4 @@
-export type MarkupPiece =
+type MarkupPiece =
   | { readonly kind: "text"; readonly text: string; readonly color: string | undefined }
   | { readonly kind: "icon"; readonly icon: string; readonly color: string | undefined }
 
@@ -36,10 +36,4 @@ export function markupPieces(text: string): readonly MarkupPiece[] {
   }
   said(plain.slice(from))
   return pieces
-}
-
-export function markupText(text: string): string {
-  return markupPieces(text)
-    .map((piece) => (piece.kind === "text" ? piece.text : ""))
-    .join("")
 }

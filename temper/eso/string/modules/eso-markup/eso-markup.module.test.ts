@@ -1,8 +1,5 @@
 import { expect, test } from "bun:test"
-import {
-  markupPieces,
-  markupText,
-} from "akasha/temper/eso/string/modules/eso-markup/eso-markup.module.code.ts"
+import { markupPieces } from "akasha/temper/eso/string/modules/eso-markup/eso-markup.module.code.ts"
 
 test("a colored run is a piece in that color between plain pieces", () => {
   expect(markupPieces("Deals |cffffff0|r Physical Damage")).toEqual([
@@ -38,10 +35,4 @@ test("an icon is a piece of its own, and a link or underline keeps only its word
     { kind: "icon", icon: "32:32:art/gold.dds", color: undefined },
     { kind: "text", text: " Sword x", color: undefined },
   ])
-})
-
-test("the plain text is the words with every marker gone", () => {
-  expect(markupText("Adds |cffffff1234|r Max |t16:16:x.dds|tStamina|r")).toBe(
-    "Adds 1234 Max Stamina"
-  )
 })
