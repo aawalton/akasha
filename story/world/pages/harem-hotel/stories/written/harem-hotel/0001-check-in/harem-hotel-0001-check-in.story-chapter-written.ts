@@ -4,6 +4,7 @@ export const haremHotel0001CheckIn = {
   id: "01a0e98b-69e6-7b24-921b-0d0c330bba59",
   type: "page-type/story-chapter-written",
   slug: "harem-hotel-0001-check-in",
+  ownProgress: 548,
   position: 1,
   unit: "unit/words",
   title: "Check-In",
