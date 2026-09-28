@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   configOf,
+  imagesUnder,
   inferenceEdit,
   refsIn,
 } from "akasha/command/pages/inference/edit/inference-edit.command.code.ts"
@@ -17,6 +18,22 @@ const GIVEN: Given = {
 test("a comma list of references is parted and trimmed", () => {
   expect(refsIn(" a.png , b.png ,, ")).toEqual(["a.png", "b.png"])
   expect(refsIn(undefined)).toEqual([])
+})
+
+test("an image said from the repository root is read there, and an absolute one as it is", () => {
+  expect(imagesUnder("/repo", ["image/a.png", "/elsewhere/b.png"])).toEqual([
+    "/repo/image/a.png",
+    "/elsewhere/b.png",
+  ])
+})
+
+test("a subject said from the root that will not read is refused at its full path", async () => {
+  const said = await inferenceEdit(
+    ["--engine", "qwen", "--image", "missing.png", "--prompt", "x"],
+    GIVEN
+  )
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("`/nowhere/missing.png`, which will not read")
 })
 
 test("a config nothing narrowed is left off the call", () => {

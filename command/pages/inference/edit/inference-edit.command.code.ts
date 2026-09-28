@@ -23,6 +23,7 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { filing, filledIn } from "akasha/command/modules/filling/command-filling.module.code.ts"
+import { pathUnder } from "akasha/command/modules/said-pathing/said-pathing.module.code.ts"
 import { inferenceEdit as page } from "akasha/command/pages/inference/edit/inference-edit.command.ts"
 import {
   fetchImage,
@@ -93,6 +94,10 @@ export function refsIn(csv: string | undefined): readonly string[] {
     .split(",")
     .map((one) => one.trim())
     .filter((one) => one.length > 0)
+}
+
+export function imagesUnder(root: string, said: readonly string[]): readonly string[] {
+  return said.map((one) => pathUnder(root, one))
 }
 
 export function configOf(
@@ -176,7 +181,7 @@ export async function inferenceEdit(argv: readonly string[], given: Given): Prom
     return refusedBy([`nothing holds \`${KEY}\`, so the engine cannot be reached`])
   }
 
-  const images = taken.image
+  const images = imagesUnder(given.root, taken.image)
   const subject = images[0]
   if (subject === undefined) {
     return refusedBy([`\`${imageArgument.said}\` names the image edited, and nothing said one`])
@@ -186,7 +191,7 @@ export async function inferenceEdit(argv: readonly string[], given: Given): Prom
   const timeout = taken.timeout ?? DEFAULT_TIMEOUT_SEC
   const aspectRatio = taken.aspectRatio
   const imageSize = taken.size
-  const references = [...images.slice(1), ...refsIn(taken.refs)]
+  const references = [...images.slice(1), ...imagesUnder(given.root, refsIn(taken.refs))]
 
   return await answering(async (done) => {
     let subjectBytes: Uint8Array

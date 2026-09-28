@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"said-pathing.module.code.ts","path":"command/modules/said-pathing/said-pathing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-pathing.module.code.ts","path":"command/pages/change/show/change-show.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-pathing.module.code.ts","path":"command/pages/git/restore/git-restore.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"said-pathing.module.code.ts","path":"command/pages/inference/edit/inference-edit.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-pathing.module.code.ts","path":"command/pages/inference/wan/frame/inference-wan-frame.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-pathing.module.code.ts","path":"command/pages/inference/wan/frame/inference-wan-frame.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-pathing.module.code.ts","path":"command/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.code.ts","typed":false,"deferred":false}
