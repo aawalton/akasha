@@ -97,7 +97,7 @@ async function nameOverPages(write: StyleNameWrite): Promise<unknown> {
   })
 }
 
-export interface StyleNameDeps {
+interface StyleNameDeps {
   readonly stylePages?: () => Promise<readonly StylePage[]>
   readonly name?: (write: StyleNameWrite) => Promise<unknown>
   readonly report?: (message: string) => void
