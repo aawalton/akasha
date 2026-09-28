@@ -34,6 +34,11 @@
 {"propertySlug":"world","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/checks/otherwhere-vii-needs.world-check.ts","id":"01a0ea33-111b-7d25-a863-e4f62d338133"}
 {"propertySlug":"world","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/checks/otherwhere-vii-standing.world-check.ts","id":"01a0ea34-528c-7b89-8ecb-f9309d3f483d"}
 {"propertySlug":"world","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/checks/otherwhere-vii-time-passing.world-check.ts","id":"01a0ea2a-3b22-76b6-859b-9431d8201e01"}
+{"propertySlug":"world","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/conditions/otherwhere-vii-clogged-passages.world-condition.ts","id":"01a0ea41-c76a-70f2-9ae0-0184ab00fb79"}
+{"propertySlug":"world","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/conditions/otherwhere-vii-cracked-core.world-condition.ts","id":"01a0ea41-c76a-7161-9032-30aabdd252f6"}
+{"propertySlug":"world","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/conditions/otherwhere-vii-flux.world-condition.ts","id":"01a0ea41-c76b-772d-aa6a-0f49c31f994f"}
+{"propertySlug":"world","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/conditions/otherwhere-vii-lasting-injury.world-condition.ts","id":"01a0ea41-c76b-7054-8b39-2ae10428baa7"}
+{"propertySlug":"world","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/conditions/otherwhere-vii-mana-sickness.world-condition.ts","id":"01a0ea41-c76b-74a5-ac0c-64265ff0b2f4"}
 {"propertySlug":"world","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/items/otherwhere-vii-black-tights.world-item.ts","id":"01a0ea38-335b-77c6-90b7-9555a8ce6542"}
 {"propertySlug":"world","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/items/otherwhere-vii-grey-shirt.world-item.ts","id":"01a0ea38-335c-7eff-9ddf-bd653ff04caf"}
 {"propertySlug":"world","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/mechanics/otherwhere-vii-cultivation.world-mechanic.ts","id":"01a0ea36-990a-7fe1-beb4-428473d032bc"}
