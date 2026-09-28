@@ -11,4 +11,5 @@ export const echo = {
   startMode: "seat-mode/interactive",
   onCall: false,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "98ae42f6-3def-4205-ae6f-c416440a5bc8",
 } as const satisfies Seat
