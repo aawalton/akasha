@@ -28,5 +28,7 @@ export const otherwhere00070 = {
     "Behind her, the two shelvers keep up their slow stooping, lifting and reaching.",
     "Counter Keeping is a few steps from the Counter; Courtesies is high on the west gallery.",
   ],
+  issues: ['"Counter Keeping sits on its low shelf a few steps from the Counter." - Leave It Open'],
   lore: ["place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
