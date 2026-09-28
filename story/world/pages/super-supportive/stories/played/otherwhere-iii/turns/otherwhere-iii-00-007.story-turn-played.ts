@@ -7,7 +7,8 @@ export const otherwhereIii00007 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
   position: 7,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     '"Nala Arthur, January 22, 1986, 1350 Apple Ave Provo, Utah" I recite smoothly. "No local address"',
+  lore: ["place/otherwhere-iii-uptown-memorial-er", "lore/otherwhere-iii-nala"],
 } as const satisfies StoryTurnPlayed
