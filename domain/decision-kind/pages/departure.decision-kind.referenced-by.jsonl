@@ -2118,6 +2118,7 @@
 {"propertySlug":"decision-kind","path":"command/modules/draft-keeping/draft-keeping.module.ts","id":"01a094e0-4979-7d5e-af22-aa331354d3bf"}
 {"propertySlug":"decision-kind","path":"command/modules/draft-length/draft-length.module.ts","id":"01a0e942-1946-725e-ac18-354c2dbc492c"}
 {"propertySlug":"decision-kind","path":"command/modules/draft-parsing/draft-parsing.module.ts","id":"01a0e404-187e-7a49-9de8-47bb3176205d"}
+{"propertySlug":"decision-kind","path":"command/modules/draft-typing/draft-typing.module.ts","id":"01a0e9bb-da84-78ea-b5fa-9b712b7a6a50"}
 {"propertySlug":"decision-kind","path":"command/modules/during-call/during-call.module.ts","id":"01a05cb3-7cca-7613-8b60-5d8a19e74370"}
 {"propertySlug":"decision-kind","path":"command/modules/edits-landing/edits-landing.module.ts","id":"01a08132-ea7c-7ba6-972a-e1a6c95b5b76"}
 {"propertySlug":"decision-kind","path":"command/modules/edits-repointing/edits-repointing.module.ts","id":"01a0e9a9-6ec4-77d0-b53c-03c3ae20a98a"}

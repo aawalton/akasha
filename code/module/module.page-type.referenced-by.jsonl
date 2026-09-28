@@ -1268,6 +1268,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/draft-keeping/draft-keeping.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/draft-length/draft-length.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/draft-parsing/draft-parsing.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/draft-typing/draft-typing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/during-call/during-call.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/edits-landing/edits-landing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/edits-repointing/edits-repointing.module.ts","typed":true,"deferred":false}

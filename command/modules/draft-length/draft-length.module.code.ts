@@ -9,6 +9,10 @@ import {
   reasonsIn,
 } from "akasha/check/code/pages/file-length/file-length.check-code.decision.code.ts"
 import { unparsedAfter } from "akasha/command/modules/draft-parsing/draft-parsing.module.code.ts"
+import {
+  judgeOver,
+  mistypedAfter,
+} from "akasha/command/modules/draft-typing/draft-typing.module.code.ts"
 import { definingRefused } from "akasha/command/modules/mechanic-defining/mechanic-defining.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 
@@ -38,6 +42,7 @@ export function overLongAfter(
 }
 
 export function draftFaults(
+  root: string,
   bodyOf: BodyOf,
   index: Answering,
   rows: readonly FileChange[],
@@ -45,9 +50,11 @@ export function draftFaults(
   page: string
 ): readonly string[] {
   const paged = { index, pageOf: () => null }
+  const unparsed = unparsedAfter(bodyOf, rows, asked)
   return [
-    ...unparsedAfter(bodyOf, rows, asked),
+    ...unparsed,
     ...overLongAfter(bodyOf, rows, asked, (path) => exemptIn(path, paged)),
+    ...(unparsed.length > 0 ? [] : mistypedAfter(bodyOf, rows, asked, judgeOver(root, index))),
     ...definingRefused(index, bodyOf, page, asked),
   ]
 }

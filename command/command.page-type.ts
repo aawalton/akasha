@@ -46,6 +46,7 @@ export const command = {
     "module/draft-keeping",
     "module/draft-length",
     "module/draft-parsing",
+    "module/draft-typing",
     "module/during-call",
     "module/edits-landing",
     "module/edits-repointing",

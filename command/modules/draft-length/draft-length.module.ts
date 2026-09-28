@@ -35,5 +35,9 @@ export const draftLength = {
       decisionKind: "decision-kind/departure",
       statement: "A drafting run asks here whether its caller may define the mechanics it adds.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A drafting run asks here whether each page it changes still matches its type.",
+    },
   ],
 } as const satisfies Module

@@ -315,7 +315,7 @@ export async function appending(
     }
     const rows = [...had, ...said.edits]
     const unread = [
-      ...draftFaults(bodyIn(root), world.index, rows, said.edits, page),
+      ...draftFaults(root, bodyIn(root), world.index, rows, said.edits, page),
       ...(owing ? unwarrantedFor(root, agentId, rows, said.edits) : []),
     ]
     if (unread.length > 0) {
