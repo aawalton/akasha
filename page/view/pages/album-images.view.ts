@@ -8,5 +8,11 @@ export const albumImages = {
   pageType: "page-type/image",
   embeddedBy: "page-type/image-album",
   layout: "gallery",
+  narrows: [],
+  viewSorts: [],
+  groupSorts: [],
+  pageSize: 50,
+  itemPageSize: 12,
+  groupPageSize: 6,
   galleryCardSize: "large",
 } as const satisfies View
