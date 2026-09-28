@@ -219,7 +219,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "The clerk knows the consulate as the Desk Demon place downtown, straight south on the Red Line.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A no-ID woman asking for the consulate strikes the clerk as odd, but she lets it go.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
-  secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
 } as const satisfies Place
