@@ -63,8 +63,12 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-splitting-acid-raptor.world-species.ts","id":"01a0ea34-b3d5-75d3-be87-ea8e6a0a5920"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-trimander.world-species.ts","id":"01a0ea36-2465-7d85-b38a-ac33e4b7271b"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-glassgrass-flats.place.ts","id":"01a0ea1f-36ba-7f08-b107-707abcfaf72c"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/stories/played/otherwhere-ix/mechanics/checks/otherwhere-ix-action-check.world-check.ts","id":"01a0ea36-2cb0-7d7d-856c-681c348fb745"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/stories/played/otherwhere-ix/mechanics/checks/otherwhere-ix-harm.world-check.ts","id":"01a0ea36-2cb1-7781-8ac1-17ee37959927"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/stories/played/otherwhere-ix/mechanics/checks/otherwhere-ix-needs.world-check.ts","id":"01a0ea2c-1598-78b9-a3de-f8b98acd35fa"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/stories/played/otherwhere-ix/mechanics/checks/otherwhere-ix-time-passing.world-check.ts","id":"01a0ea29-4972-7f7a-9fea-bd6ab985780f"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/stories/played/otherwhere-ix/mechanics/mechanics/otherwhere-ix-injury.world-mechanic.ts","id":"01a0ea36-2cb1-74f6-b7b0-40d24a84ff9e"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/stories/played/otherwhere-ix/mechanics/mechanics/otherwhere-ix-resolution.world-mechanic.ts","id":"01a0ea36-2cb3-73ef-8020-b8cf195e949b"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/stories/played/otherwhere-ix/mechanics/mechanics/otherwhere-ix-survival.world-mechanic.ts","id":"01a0ea2c-1598-7e22-880b-5228ba0eb576"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/stories/played/otherwhere-ix/mechanics/mechanics/otherwhere-ix-time.world-mechanic.ts","id":"01a0ea29-4974-7439-8ee9-3eabf4fa1a52"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/stories/played/otherwhere-ix/otherwhere-ix.story-played.ts","id":"01a0ea1b-c037-7e88-bfb2-f66823290eca"}
