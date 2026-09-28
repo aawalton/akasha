@@ -32,6 +32,10 @@ export const otherwhereIiiPriyaRaman = {
       fact: "An Illinois ID needs a birth certificate or other proof Nala cannot give; it is a long road.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She refers women leaving a partner to a domestic-violence hotline and to free legal aid.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
