@@ -54,11 +54,11 @@ export const otherwhereHallBack = {
     },
     {
       fact: "An engorged bookworm at the back steps is six or seven feet long and waist high.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "The big engorged bookworm is bloated and matte grey, its colored mouth rings blotched.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "One of the engorged bookworms has grown bigger than the rest.",
@@ -247,7 +247,7 @@ export const otherwhereHallBack = {
     },
     {
       fact: "The big bookworm's round mouth gapes wide enough to take a sack of salt whole.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Salt in a bookworm's mouth and gullet burns it far worse than salt on its hide.",
@@ -255,7 +255,11 @@ export const otherwhereHallBack = {
     },
     {
       fact: "A bookworm choking on salt thrashes wildly, and the big one's thrashing can crush.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Nala rammed a whole sack of salt into the big bookworm's mouth; its thrash flung her hard.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Salt ground into an open bite burns fiercely but does it no further harm.",

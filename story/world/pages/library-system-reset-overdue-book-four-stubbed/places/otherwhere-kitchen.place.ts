@@ -49,7 +49,7 @@ export const otherwhereKitchen = {
     },
     {
       fact: "Nala can carry one sack of salt easily, or two at a stagger; more takes extra trips.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "The Library's honey carries a faint magic, and a bookworm is drawn to its smell.",
@@ -57,7 +57,7 @@ export const otherwhereKitchen = {
     },
     {
       fact: "Honey holds a thick crust of salt that clings through a tussle better than damp cloth does.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "The pantry also keeps jars of honey and bins of roots and vegetables.",
