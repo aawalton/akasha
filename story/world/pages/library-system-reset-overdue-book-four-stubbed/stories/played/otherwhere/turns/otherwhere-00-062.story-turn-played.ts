@@ -11,7 +11,7 @@ export const otherwhere00062 = {
   position: 62,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "**What about dress and appearance, any specific expectations around librarians I need to comply with?**",
   beats: [
@@ -23,5 +23,6 @@ export const otherwhere00062 = {
   ],
   lore: ["lore/otherwhere-universe"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
+  endsAt: "2026-09-28T13:45:00.000Z",
 } as const satisfies StoryTurnPlayed
