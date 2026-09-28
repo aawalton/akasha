@@ -56,6 +56,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-body-drainer.lore.ts","id":"01a0e9f0-6c7c-7a57-9aa0-5bc23d259467"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-boe.lore.ts","id":"01a0e9f0-6c7c-7f8c-9e48-4b2bb898b3be"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-bokabv.lore.ts","id":"01a0ea32-c612-7be7-b828-cc7812af90d2"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-bolstering.lore.ts","id":"01a0ea3d-9963-75f3-a0e6-ec16d8cc5bc5"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-bound-wand.lore.ts","id":"01a0ea3a-462f-7bc6-85d8-ee3b7a1ab66e"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-break-plates.lore.ts","id":"01a0ea36-9984-7c24-be0a-64525413cc54"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-brodie.lore.ts","id":"01a0e9ff-8f63-73d4-af43-e5943c3ad98f"}
@@ -131,6 +132,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-evacuation-kit.lore.ts","id":"01a0ea23-d44b-7c71-8365-f8d68990a7eb"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-event-benjamin-velras-birthday-party.lore.ts","id":"01a0ea20-cae4-7ddf-88a1-db41437da407"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-event-body-drainer-attack.lore.ts","id":"01a0e9fc-7b32-7f1b-bccd-0adc95972d9c"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-event-breaking-of-the-bor-wand.lore.ts","id":"01a0ea3d-9967-7b7b-b67d-2915280b85ff"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-event-death-of-manon-barre.lore.ts","id":"01a0ea20-cae5-71e6-853e-2e3c8262e86b"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-event-hannahs-funeral.lore.ts","id":"01a0e9fc-7b32-7ce1-8e4c-6edba0a8079a"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-event-jacobs-escape.lore.ts","id":"01a0ea20-cae5-73bc-bce9-5266a0a5a2e1"}
@@ -141,9 +143,12 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-everly-kim.lore.ts","id":"01a0ea09-46bc-715d-88fb-361d82dfe081"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-evul-arth.lore.ts","id":"01a0e9ff-8f64-7556-a140-4ca71d1b15be"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-ewtwee.lore.ts","id":"01a0ea15-fcf1-7894-8fd7-550e69f61f68"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-executioner.lore.ts","id":"01a0ea3d-9968-73e2-b2c3-977109dd0d07"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-executioners-ring.lore.ts","id":"01a0ea3d-996e-7f23-9951-2f8e6d0c0895"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-family-stone.lore.ts","id":"01a0ea3a-4630-705a-a806-0488cc7c8444"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-feathers-touch.lore.ts","id":"01a0ea15-fcf1-72ed-98b7-d190246b6de5"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-febri.lore.ts","id":"01a0ea13-df93-74b4-9dd1-49a0688db427"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-fetuna.lore.ts","id":"01a0ea3d-9972-7161-a3ee-652355e95ce0"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-figurinist.lore.ts","id":"01a0ea19-d968-7480-bcb5-271a37d33024"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-finlay.lore.ts","id":"01a0ea06-099b-759b-b2eb-d71163e45b1b"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-first-binding.lore.ts","id":"01a0ea2e-05e8-7e0a-99fa-fe9485815363"}
@@ -152,6 +157,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-flight-license.lore.ts","id":"01a0ea2a-2f15-73d3-b515-fcb4844f0ff0"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-focusing-tool.lore.ts","id":"01a0ea0b-ea12-796f-b78c-d59232e8024c"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-force-of-the-body.lore.ts","id":"01a0ea20-cae6-754a-92da-6a6a2bb35c33"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-forgetful-travelers-bag.lore.ts","id":"01a0ea3d-9972-7fa8-becd-a27d5cbc86c1"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-formation.lore.ts","id":"01a0ea1c-a2da-774e-a4be-9c674b25e723"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-foundational-enhancements.lore.ts","id":"01a0ea06-4083-739e-bca4-50dab798b6ca"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-foxbolt.lore.ts","id":"01a0ea0a-3667-77b1-9ff5-25a734fa024b"}
@@ -194,6 +200,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-history-the-elders-croak.lore.ts","id":"01a0ea30-51e5-749b-ae38-fb3e914469cc"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-history-the-primarys-campaign.lore.ts","id":"01a0ea32-c612-7d8c-bb19-23e647f900c1"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-history-world.lore.ts","id":"01a0e9fc-7b33-7ca9-b068-cb401bdbd526"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-home-ritual.lore.ts","id":"01a0ea3d-9973-7eb9-9a2e-0c5ef9700a47"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-honor-guard.lore.ts","id":"01a0ea03-1b0f-77eb-8d06-75372964908d"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-horatio.lore.ts","id":"01a0ea10-f3f7-7150-90ad-61587be4196b"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-hot-lab-coat.lore.ts","id":"01a0ea06-4083-74e9-817f-58dd255c8dbe"}
@@ -449,12 +456,14 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-tuyet.lore.ts","id":"01a0ea06-099c-7f14-aee9-2243312802f3"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-u-type.lore.ts","id":"01a0e9fb-58a0-7293-b87a-62782badcadc"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-unbound-authority.lore.ts","id":"01a0ea09-7b77-77e6-bbe5-00f67b6dcc70"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-unsaying.lore.ts","id":"01a0ea3d-9973-7baa-9752-1ffe0893f2ce"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-uro-bor.lore.ts","id":"01a0ea34-5c49-7b81-a9cf-5a0428414157"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-vandy-carisson.lore.ts","id":"01a0ea09-46bc-721b-8d8c-6c6203717f1b"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-veln.lore.ts","id":"01a0ea2b-b1f6-7071-b300-e0d1a71f15dd"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-velra-family.lore.ts","id":"01a0ea03-1b0f-77a7-8673-50323cd7373d"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-victor.lore.ts","id":"01a0e9f2-0ab0-71f3-8953-c8bfdb6932d5"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-vill-ma.lore.ts","id":"01a0ea36-36a5-7490-bcb3-4a8ab4ec2d7f"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-village-master.lore.ts","id":"01a0ea3d-9975-779a-b507-a0a4f5737c49"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-votary.lore.ts","id":"01a0ea2a-2f15-70d7-9eb5-21efa849f729"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-voting-power.lore.ts","id":"01a0ea39-cb7f-7074-9b07-48a5f02957d6"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-wardrobe.lore.ts","id":"01a0ea02-1747-7782-9f42-3a98bbd70572"}

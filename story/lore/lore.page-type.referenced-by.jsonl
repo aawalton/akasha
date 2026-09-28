@@ -876,6 +876,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-body-drainer.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-boe.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-bokabv.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-bolstering.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-bound-wand.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-break-plates.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-brodie.lore.ts","typed":true,"deferred":false}
@@ -951,6 +952,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-evacuation-kit.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-event-benjamin-velras-birthday-party.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-event-body-drainer-attack.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-event-breaking-of-the-bor-wand.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-event-death-of-manon-barre.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-event-hannahs-funeral.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-event-jacobs-escape.lore.ts","typed":true,"deferred":false}
@@ -961,9 +963,12 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-everly-kim.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-evul-arth.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-ewtwee.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-executioner.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-executioners-ring.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-family-stone.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-feathers-touch.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-febri.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-fetuna.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-figurinist.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-finlay.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-first-binding.lore.ts","typed":true,"deferred":false}
@@ -972,6 +977,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-flight-license.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-focusing-tool.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-force-of-the-body.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-forgetful-travelers-bag.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-formation.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-foundational-enhancements.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-foxbolt.lore.ts","typed":true,"deferred":false}
@@ -1014,6 +1020,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-history-the-elders-croak.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-history-the-primarys-campaign.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-history-world.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-home-ritual.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-honor-guard.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-horatio.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-hot-lab-coat.lore.ts","typed":true,"deferred":false}
@@ -1269,12 +1276,14 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-tuyet.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-u-type.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-unbound-authority.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-unsaying.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-uro-bor.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-vandy-carisson.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-veln.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-velra-family.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-victor.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-vill-ma.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-village-master.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-votary.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-voting-power.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-wardrobe.lore.ts","typed":true,"deferred":false}
