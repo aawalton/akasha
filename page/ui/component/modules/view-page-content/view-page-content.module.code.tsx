@@ -13,6 +13,7 @@ import { parseNavConfig } from "akasha/page/core/schema/modules/nav-config/nav-c
 import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import type { ViewDataJSON } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import type { LockedFacet } from "akasha/page/core/schema/modules/view-data-locked/view-data-locked.module.code.ts"
+import { updateViewConfig } from "akasha/page/core/view-state/modules/reducers/reducers.module.code.ts"
 import { useAppEditing } from "akasha/page/ui/component/modules/app-editing/app-editing.module.code.tsx"
 import { EditableTitle } from "akasha/page/ui/component/modules/editable-title/editable-title.module.code.tsx"
 import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
@@ -28,6 +29,7 @@ import {
   usePageByIdSuffix,
   useViewsForNavItem,
 } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
+import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import { usePageTypeDirectory } from "akasha/page/ui/supabase/modules/use-page-type-directory/use-page-type-directory.module.code.ts"
 import { useSetPropertyOptimistic } from "akasha/page/ui/supabase/modules/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
 import { useSupabaseViewCallbacks } from "akasha/page/ui/supabase/modules/use-view-callbacks/use-view-callbacks.module.code.ts"
@@ -41,6 +43,39 @@ const PAGE_TYPE_SLUG = "page-type"
 const NAV_SLUG = toPageTypeSlug("nav")
 
 const SYSTEM_PAGE_TYPES: ReadonlySet<string> = new Set(["view", PAGE_TYPE_SLUG, NAV_SLUG])
+
+type Unsaved = ReadonlyMap<string, Readonly<Record<string, unknown>>>
+
+const NOTHING_UNSAVED: Unsaved = new Map()
+
+function withUnsaved(
+  views: readonly PageWithProperties[],
+  unsaved: Unsaved
+): readonly PageWithProperties[] {
+  if (unsaved.size === 0) return views
+  return views.map((view) => {
+    const held = unsaved.get(view._id)
+    return held === undefined ? view : { ...view, properties: { ...view.properties, ...held } }
+  })
+}
+
+function keptUnsaved(
+  unsaved: Unsaved,
+  views: readonly PageWithProperties[],
+  id: string,
+  updates: Partial<ViewDataJSON>
+): Unsaved {
+  const effects = updateViewConfig(views, { id, updates }, { newPageId: "", ownerNavSlug: "" })
+  if (effects.length === 0) return unsaved
+  const next = new Map(unsaved)
+  for (const effect of effects) {
+    if (effect.kind !== "bulkSetProperties") continue
+    const held: Record<string, unknown> = { ...next.get(effect.pageId) }
+    for (const write of effect.properties) held[write.propertyId] = write.value
+    next.set(effect.pageId, held)
+  }
+  return next
+}
 
 function nameOf(properties: Readonly<Record<string, unknown>> | undefined): string {
   const title = properties?.title
@@ -71,7 +106,9 @@ export function ViewPageContent({ navItemIdParam }: ViewPageContentProps) {
     [navItemPage]
   )
 
-  const { views: viewPages, isLoading: viewsLoading } = useViewsForNavItem({ navItemSlug })
+  const { views: savedViews, isLoading: viewsLoading } = useViewsForNavItem({ navItemSlug })
+  const [unsaved, setUnsaved] = useState<Unsaved>(NOTHING_UNSAVED)
+  const viewPages = useMemo(() => withUnsaved(savedViews, unsaved), [savedViews, unsaved])
 
   const fromFiles = usePageTypeDirectory()
   const pageTypeIdBySlug = useMemo(() => {
@@ -112,8 +149,16 @@ export function ViewPageContent({ navItemIdParam }: ViewPageContentProps) {
   const viewCallbacks = useSupabaseViewCallbacks({
     userId: userId ?? "",
     ownerNavSlug: navItemSlug ?? "",
-    views: viewPages,
+    views: savedViews,
   })
+
+  const keepUnsaved = useCallback(
+    (id: string, updates: Partial<ViewDataJSON>) => {
+      setUnsaved((held) => keptUnsaved(held, savedViews, id, updates))
+    },
+    [savedViews]
+  )
+  const onUpdateView = userId == null ? keepUnsaved : viewCallbacks.onUpdateView
 
   const setProperty = useSetPropertyOptimistic()
 
@@ -251,7 +296,7 @@ export function ViewPageContent({ navItemIdParam }: ViewPageContentProps) {
               viewId={viewTab.id}
               viewPages={viewPages}
               pageTypes={pageTypes}
-              onUpdateView={viewCallbacks.onUpdateView}
+              onUpdateView={onUpdateView}
               pageTypeOptions={pageTypeOptions}
             />
           </TabsContent>

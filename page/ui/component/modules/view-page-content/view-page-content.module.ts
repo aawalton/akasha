@@ -19,5 +19,10 @@ export const viewPageContent = {
       decisionKind: "decision-kind/departure",
       statement: "What the page says when it has no view is read live from web phrases.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A view's settings changed by nobody signed in are kept in the browser and not written.",
+    },
   ],
 } as const satisfies Module

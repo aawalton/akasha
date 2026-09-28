@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"page-with-properties.module.code.ts","path":"page/ui/component/modules/use-pages-filtered-query/use-pages-filtered-query.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-with-properties.module.code.ts","path":"page/ui/component/modules/use-reader-progress-writer/use-reader-progress-writer.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-with-properties.module.code.ts","path":"page/ui/component/modules/use-view-tab-content-data/use-view-tab-content-data.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-with-properties.module.code.ts","path":"page/ui/component/modules/view-page-content/view-page-content.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-with-properties.module.code.ts","path":"page/ui/component/modules/view-tab-content-href/view-tab-content-href.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-with-properties.module.code.ts","path":"page/ui/component/modules/view-tab-content-results/view-tab-content-results.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-with-properties.module.code.ts","path":"page/ui/component/modules/view-tab-content/view-tab-content.module.code.tsx","typed":true,"deferred":false}
