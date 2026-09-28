@@ -10,11 +10,11 @@ export const theVioletHourNatalie = {
   facts: [
     {
       fact: "Natalie, Amy and Zadi share a supper once a month, and take turns hosting it.",
-      knowers: ["lore-disclosure/game-master", "character-player/the-violet-hour-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Natalie hosted the first of those suppers, with Amy and Zadi as her guests.",
-      knowers: ["lore-disclosure/game-master", "character-player/the-violet-hour-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
 } as const satisfies Lore
