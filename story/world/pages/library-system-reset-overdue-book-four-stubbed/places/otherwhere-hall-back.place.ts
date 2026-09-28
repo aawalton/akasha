@@ -253,7 +253,7 @@ export const otherwhereHallBack = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "Nala is crusted in salt over honey from scalp to toes, her clothes set aside.",
+      fact: "Overnight Nala's salt crust wore patchy, the honey beneath showing through, her clothes set aside.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
