@@ -320,10 +320,7 @@ export const otherwhereHallBack = {
       fact: "By morning the big bookworm is chewing again, far back in the gloom.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "Nala's fourth sack glanced off the big bookworm's teeth and fell whole; its bite missed her.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "Nala's fourth sack of salt lies whole on the floor between her and the big bookworm.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
