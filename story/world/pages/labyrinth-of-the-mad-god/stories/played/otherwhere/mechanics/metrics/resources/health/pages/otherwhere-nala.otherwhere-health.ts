@@ -1,0 +1,12 @@
+import type { OtherwhereHealth } from "akasha/story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/metrics/resources/health/otherwhere-health.page-type.types.ts"
+
+export const otherwhereNala = {
+  id: "01a0e999-2dfe-72f5-95b0-c09aed082b1f",
+  type: "page-type/otherwhere-health",
+  slug: "otherwhere-nala",
+  character: "character-player/otherwhere-nala",
+  value: 18,
+  minValue: 0,
+  maxValue: 18,
+  history: "jsonl",
+} as const satisfies OtherwhereHealth

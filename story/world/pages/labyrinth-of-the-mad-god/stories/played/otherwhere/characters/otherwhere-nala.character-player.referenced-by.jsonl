@@ -3,3 +3,6 @@
 {"propertySlug":"lore-about","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-nala.lore.ts","id":"01a0e984-b971-79a8-998f-39e5a793839c"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-nala.lore.ts","id":"01a0e984-b971-79a8-998f-39e5a793839c"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-black-shore.place.ts","id":"01a0e984-b973-745d-b2f3-58c4e8c5e363"}
+{"propertySlug":"metric-of-character","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/metrics/resources/health/pages/otherwhere-nala.otherwhere-health.ts","id":"01a0e999-2dfe-72f5-95b0-c09aed082b1f"}
+{"propertySlug":"metric-of-character","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/metrics/resources/mana/pages/otherwhere-nala.otherwhere-mana.ts","id":"01a0e999-2dff-7a05-a845-ee20ebbfd902"}
+{"propertySlug":"metric-of-character","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/metrics/resources/stamina/pages/otherwhere-nala.otherwhere-stamina.ts","id":"01a0e999-2dff-78d8-a604-4bd6d2d01b7f"}
