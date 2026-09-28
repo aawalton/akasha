@@ -19,10 +19,12 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-giantsrest-dominion.lore.ts","id":"01a0e9f3-5ca4-7d93-8500-cd4dc58f4e4b"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-human.lore.ts","id":"01a0e9f2-ad9d-7f6c-9f4f-7b22d446e18a"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-knuld.lore.ts","id":"01a0e9f4-0047-7c65-bc2b-b122456fb6cd"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-levels.lore.ts","id":"01a0e9f5-a5d5-793c-bc32-493bc44b9eea"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-mana.lore.ts","id":"01a0e9f1-9e7b-73c8-94a8-373d7d681b6f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-nala.lore.ts","id":"01a0e9e4-7069-7863-a130-ce85a67a3cf7"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-nathan-lark.lore.ts","id":"01a0e9f5-00f9-72b4-ae7f-2dc66815e952"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-orc.lore.ts","id":"01a0e9f2-e897-7a09-9d1e-b5092fc98016"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-ranks.lore.ts","id":"01a0e9f5-a5d6-7c9e-991f-48643d63340f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-recognition.lore.ts","id":"01a0e9f2-0287-70eb-a91d-b85d7384a3c7"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-spell-tiers.lore.ts","id":"01a0e9f3-4d9a-7db8-90f9-b3a6e3962cd2"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-spellcasting.lore.ts","id":"01a0e9f2-d738-7550-a9d0-9f426c066099"}
@@ -38,7 +40,9 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-classes.world-mechanic.ts","id":"01a0e9f4-b58b-76b0-96e5-32ad38b6c219"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-divinity.world-mechanic.ts","id":"01a0e9f5-6823-7501-9e2c-53a3f7d54e97"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-edicts.world-mechanic.ts","id":"01a0e9f4-c9f8-7c27-b143-eab51f422edd"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-levels.world-mechanic.ts","id":"01a0e9f5-a5d7-7ce0-a37c-2d433bb134b3"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-mana.world-mechanic.ts","id":"01a0e9f1-9e7c-76a5-9ea4-b57cfe527aad"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-ranks.world-mechanic.ts","id":"01a0e9f5-a5d7-7328-a028-7300ae370972"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-recognition.world-mechanic.ts","id":"01a0e9f2-0288-779d-b904-1f8ce57346d9"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-spell-tiers.world-mechanic.ts","id":"01a0e9f3-1a10-7b12-9cc2-eb30939b9dec"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-spellcasting.world-mechanic.ts","id":"01a0e9f2-d739-7a80-a12b-5e79ad1de335"}
