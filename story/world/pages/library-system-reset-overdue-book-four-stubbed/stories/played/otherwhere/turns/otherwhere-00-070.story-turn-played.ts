@@ -5,7 +5,7 @@ export const otherwhere00070 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-070",
   cover: "image/image-2e4d7972995b6b40",
-  ownLength: 168,
+  ownLength: 170,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 70,
