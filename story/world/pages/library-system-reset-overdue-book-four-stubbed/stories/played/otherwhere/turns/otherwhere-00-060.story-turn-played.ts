@@ -10,7 +10,7 @@ export const otherwhere00060 = {
   position: 60,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action: "I go down the basement and put my hands on the core again",
   beats: [
     "Nala winds down the spiral staircase into the round chamber, lit its dim blue-green.",
@@ -20,7 +20,7 @@ export const otherwhere00060 = {
     "She sees the Check-in Counter long ago, bright and busy, patrons of every kind lined up before it.",
     "Scaled and feathered and furred, tall and tiny, all waiting their turn at the carved desk.",
     "The vision thins, and she is back at the trunk, arms tingling, breathing hard, unhurt.",
-    "A window opens: Synchronization Complete. Librarian Link: Connection 3.",
+    "A window opens: Synchronization Complete.",
     "A second window unfolds beneath it, one she has never seen: Tasks.",
     "Current Task: Restore the Check-in Counter. Library Power: 72 / 75.",
   ],
