@@ -4,6 +4,7 @@ export const otherwhere00042 = {
   id: "01a0e571-917d-7c47-aa1f-ced68c5db433",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-042",
+  cover: "image/image-24ada3aadeb6578e",
   ownLength: 144,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
@@ -25,5 +26,5 @@ export const otherwhere00042 = {
   issues: ['"But it is still alive." - Leave It Open'],
   lore: ["place/otherwhere-hall-back"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
