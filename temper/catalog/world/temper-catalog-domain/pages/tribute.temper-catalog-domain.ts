@@ -8,7 +8,7 @@ export const tribute = {
   icon: "file-text",
   apiVersion: "eso.live.12.1.5.3303624",
   manifestApiVersion: 101051,
-  capturedAt: "2026-09-28T19:28:00.668Z",
+  capturedAt: "2026-09-28T19:32:44.043Z",
   generatorRanForVersion: "eso.live.12.0.6.3274791",
   generatorRanForManifestApiVersion: 101050,
 } as const satisfies TemperCatalogDomain
