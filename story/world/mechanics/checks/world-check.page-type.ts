@@ -74,6 +74,7 @@ export const worldCheck = {
     "world-check/otherwhere-xi-standing",
     "world-check/otherwhere-x-harm",
     "world-check/otherwhere-x-needs",
+    "world-check/otherwhere-x-suspicion",
   ],
   properties: [{ pageProperty: "module-property-group/settling", required: true, many: false }],
   decisions: [
