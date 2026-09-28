@@ -76,7 +76,7 @@ export const otherwhereMainHall = {
       ],
     },
     {
-      fact: "The quarters have a deep stone tub but no shower.",
+      fact: "The quarters have a deep stone tub but no shower; thick linen towels hang beside it.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-alan",
