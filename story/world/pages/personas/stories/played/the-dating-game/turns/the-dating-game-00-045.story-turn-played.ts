@@ -25,4 +25,5 @@ export const theDatingGame00045 = {
     "\"Step one's easy. When we walk down, you just notice how your feet land. That's the step.\"",
   ],
   lore: ["lore/the-dating-game-aelwyn"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
