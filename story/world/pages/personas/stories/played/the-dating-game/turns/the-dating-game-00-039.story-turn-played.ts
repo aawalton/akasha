@@ -4,13 +4,14 @@ export const theDatingGame00039 = {
   id: "01a0e59b-5001-754e-9cf5-132d763fb236",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-039",
+  cover: "image/image-e68da31ffe69db8f",
   ownLength: 116,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 39,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: "“Good night, Grace.” I watch her go, then head home and go to sleep.",
   beats: [
     'Alan: "Good night, Grace."',
@@ -23,6 +24,6 @@ export const theDatingGame00039 = {
     "He goes to bed, and the long day lets go of him; sleep comes easily.",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-27T08:00:00.000Z",
 } as const satisfies StoryTurnPlayed
