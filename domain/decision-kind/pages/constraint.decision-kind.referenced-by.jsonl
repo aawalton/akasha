@@ -106,6 +106,7 @@
 {"propertySlug":"decision-kind","path":"agent/tool/agent-tool.domain.ts","id":"01a0c9c6-00a0-70ba-b6e7-287a93b83d07"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/modules/location-capture-client/location-capture-client.module.ts","id":"01a06582-6b30-7bd3-9a85-c6ccf0abc52e"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/routes/atlas-api-places-add/atlas-api-places-add.route.ts","id":"01a0883b-b4dd-7183-8f6a-4afc210a6fc8"}
+{"propertySlug":"decision-kind","path":"alan/collection/royal-road/modules/reading/royal-road-reading.module.ts","id":"01a0e98b-04bc-714d-81d9-07c7ec2edde1"}
 {"propertySlug":"decision-kind","path":"alan/harness/agent/alan-harness-agent.domain.ts","id":"01a0658a-e55d-7426-897d-78820e337523"}
 {"propertySlug":"decision-kind","path":"alan/harness/agent/annoyance/alan-harness-agent-annoyance.domain.ts","id":"01a0658a-e55d-7c76-83d2-3bedf4c9011c"}
 {"propertySlug":"decision-kind","path":"alan/harness/alan-harness.domain.ts","id":"01a05381-69f8-77f7-afef-d8329db98385"}

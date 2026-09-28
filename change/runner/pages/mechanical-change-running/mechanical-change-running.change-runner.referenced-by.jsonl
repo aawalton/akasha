@@ -14,6 +14,7 @@
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"agent/subagent/modules/stale-taking/subagent-stale-taking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"alan/collection/modules/sync-run-recording/sync-run-recording.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"alan/collection/royal-road/modules/reading/royal-road-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"alan/harness/mobile-cli/modules/cut-fingerprint/cut-fingerprint.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"alan/harness/monarch/modules/land-files/monarch-land-files.module.code.ts","typed":false,"deferred":false}

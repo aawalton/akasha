@@ -31,5 +31,14 @@ export const royalRoadHeld = {
       decisionKind: "decision-kind/departure",
       statement: "An empty answer about the chapters held refuses the run.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A chapter held is gathered under the story it names with its length, progress and day.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A second copy is gathered under no story.",
+    },
   ],
 } as const satisfies Module

@@ -42,7 +42,15 @@ export const royalRoadSyncing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A chapter already held is left as it is and fetched no second time.",
+      statement: "A chapter already held is fetched no second time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chapter at or before Alan's last chapter read is filed read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chapter read here counts as a page the run updated.",
     },
     {
       decisionKind: "decision-kind/departure",

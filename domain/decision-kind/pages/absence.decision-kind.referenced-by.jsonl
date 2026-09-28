@@ -257,6 +257,7 @@
 {"propertySlug":"decision-kind","path":"alan/collection/reading/book/properties/page-count.number-property.ts","id":"01a06741-dd0f-7005-b740-1e4345152777"}
 {"propertySlug":"decision-kind","path":"alan/collection/reading/gbww-reading/gbww-reading.page-type.ts","id":"01a0659f-93da-7019-b3d4-198e7acfbd4c"}
 {"propertySlug":"decision-kind","path":"alan/collection/reading/modules/shapes/reading-shapes.module.ts","id":"01a0657b-06a7-7ae0-baf9-5cce272d89ba"}
+{"propertySlug":"decision-kind","path":"alan/collection/royal-road/modules/reading/royal-road-reading.module.ts","id":"01a0e98b-04bc-714d-81d9-07c7ec2edde1"}
 {"propertySlug":"decision-kind","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.ts","id":"01a0686a-7a57-7b85-b362-7a71277ca88c"}
 {"propertySlug":"decision-kind","path":"alan/collection/sync/sync.page-type.ts","id":"01a06835-e289-7ad6-8588-3a59938a1140"}
 {"propertySlug":"decision-kind","path":"alan/google/drive/google-drive.domain.ts","id":"01a05bec-fc09-7a61-8e09-909bc24a66c2"}

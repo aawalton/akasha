@@ -12,6 +12,7 @@ export const royalRoad = {
     "service-workstation/royal-road-sync",
     "module/royal-road-held",
     "module/royal-road-follows",
+    "module/royal-road-reading",
   ],
   decisions: [
     {

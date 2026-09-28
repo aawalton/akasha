@@ -16,12 +16,30 @@ const IDENTITY = "externalIdentity"
 const PAGE_ID = "id"
 const SLUG = "slug"
 const LENGTH = "ownLength"
+const PROGRESS = "ownProgress"
+const STORY = "story"
+const PUBLISHED = "publishedAt"
 const CHAPTER_AT = /\/chapter\/(\d+)/
+
+export interface HeldChapter {
+  readonly pageId: string
+  readonly slug: string
+  readonly chapterId: string
+  readonly ownLength: number
+  readonly ownProgress: number
+  readonly publishedAt: string | null
+}
 
 export interface Held {
   readonly ids: ReadonlySet<string>
   readonly slugs: ReadonlySet<string>
   readonly extras: readonly string[]
+  readonly byStory: ReadonlyMap<string, readonly HeldChapter[]>
+}
+
+function numberAt(row: Row, key: string): number {
+  const held = row[key]
+  return typeof held === "number" ? held : 0
 }
 
 interface Copy {
@@ -44,7 +62,7 @@ function keptFirst(one: Copy, two: Copy): number {
 export function heldChapters(root: string): Held {
   const asked = asking(root, {
     pageTypeSlug: CHAPTER_PAGE_TYPE,
-    keys: [PAGE_ID, SLUG, IDENTITY, LENGTH],
+    keys: [PAGE_ID, SLUG, IDENTITY, LENGTH, PROGRESS, STORY, PUBLISHED],
   })
   if ("refused" in asked) {
     throw new Error(
@@ -60,12 +78,26 @@ export function heldChapters(root: string): Held {
   }
   const slugs = new Set<string>()
   const copies = new Map<string, Copy[]>()
+  const byStory = new Map<string, HeldChapter[]>()
   for (const row of asked.rows) {
     const slug = textAt(row, SLUG)
     if (slug !== null) slugs.add(slug)
     const id = chapterIdIn(row)
     const pageId = textAt(row, PAGE_ID)
     if (id === null || pageId === null) continue
+    const story = textAt(row, STORY)
+    if (story !== null && slug !== null) {
+      const chapters = byStory.get(story) ?? []
+      chapters.push({
+        pageId,
+        slug,
+        chapterId: id,
+        ownLength: numberAt(row, LENGTH),
+        ownProgress: numberAt(row, PROGRESS),
+        publishedAt: textAt(row, PUBLISHED),
+      })
+      byStory.set(story, chapters)
+    }
     const length = row[LENGTH]
     const held = copies.get(id) ?? []
     held.push({ pageId, worded: typeof length === "number" && length > 0 })
@@ -80,7 +112,14 @@ export function heldChapters(root: string): Held {
         .map((one) => one.pageId)
     )
   }
-  return { ids: new Set(copies.keys()), slugs, extras }
+  const going = new Set(extras)
+  const kept = new Map(
+    [...byStory].map(([story, chapters]) => [
+      story,
+      chapters.filter((one) => !going.has(one.pageId)),
+    ])
+  )
+  return { ids: new Set(copies.keys()), slugs, extras, byStory: kept }
 }
 
 export function extraPaths(root: string, held: Held): readonly string[] {

@@ -505,6 +505,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/royal-road/modules/follows/royal-road-follows.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/royal-road/modules/held/royal-road-held.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/royal-road/modules/pages/royal-road-pages.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/royal-road/modules/reading/royal-road-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/eso/wallpaper/modules/crop/eso-wallpaper-crop.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/eso/wallpaper/modules/download/eso-wallpaper-download.module.ts","typed":true,"deferred":false}

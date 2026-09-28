@@ -21,6 +21,7 @@ import {
   parseFictionPage,
   royalRoadUrl,
 } from "akasha/alan/collection/royal-road/modules/pages/royal-road-pages.module.code.ts"
+import { readUpTo } from "akasha/alan/collection/royal-road/modules/reading/royal-road-reading.module.code.ts"
 import { words } from "akasha/alan/collection/unit/pages/words.unit.ts"
 import { unit } from "akasha/alan/collection/unit/unit.page-type.ts"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
@@ -60,6 +61,7 @@ const WORDS = `${unit.slug}/${words.slug}` as const
 const STORY = "story"
 const IDENTITY = "externalIdentity"
 const FOLLOWING = "following"
+const PROGRESS = "ownProgress"
 const POSITION_DIGITS = 4
 const BATCH_CEILING = 50
 const COMMIT = "--commit"
@@ -162,7 +164,8 @@ export function filedChapter(
   chapter: RawChapter,
   text: string,
   wordCount: number,
-  taken: Set<string>
+  taken: Set<string>,
+  read: boolean
 ): Filed {
   const position = chapter.order + 1
   const stem = chapterPageSlug(story.slug, position, chapter.title, chapter.id, 0)
@@ -184,6 +187,7 @@ export function filedChapter(
     ],
     prose: TXT,
   }
+  if (read) values[PROGRESS] = wordCount
   const day = chapter.date.slice(0, 10)
   if (DAY.test(day)) values["publishedAt"] = day
   const named = `${CHAPTER_PAGE_TYPE}/${slug}`
@@ -243,6 +247,7 @@ export function restatedStory(story: Story, values: Value): Filed {
 
 interface Counts {
   composed: number
+  progressed: number
   skipped: number
   failed: number
   restated: number
@@ -263,6 +268,8 @@ async function syncStory(
   const fiction = parseFictionPage(await fetchHtml(fictionUrl))
   await betweenRequests()
 
+  const lastReadId = follows.get(story.externalId)?.lastReadChapterId ?? null
+  const lastRead = fiction.chapters.find((one) => one.id === lastReadId)
   const pending = fiction.chapters.filter(
     (one) => one.visible && one.isUnlocked && !held.ids.has(one.id)
   )
@@ -286,7 +293,8 @@ async function syncStory(
         counts.failed += 1
         continue
       }
-      const filed = filedChapter(story, chapter, prose.text, prose.wordCount, taken)
+      const read = lastRead !== undefined && chapter.order <= lastRead.order
+      const filed = filedChapter(story, chapter, prose.text, prose.wordCount, taken, read)
       filing.push(filed)
       console.log(`    + ${filed.named} (${prose.wordCount} words)`)
       counts.composed += 1
@@ -295,6 +303,11 @@ async function syncStory(
       counts.failed += 1
     }
   }
+
+  const chapters = held.byStory.get(`${OPENS_WITH}${story.slug}`) ?? []
+  const raised = readUpTo(ROOT, chapters, fiction.chapters, lastReadId)
+  filing.push(...raised)
+  counts.progressed += raised.length
 
   const wanted = restatementFor(
     story,
@@ -349,6 +362,7 @@ async function syncRoyalRoad(argv: readonly string[]): Promise<RunCounts> {
   console.log(`royal road sync: ${stories.length} stor${stories.length === 1 ? "y" : "ies"}`)
   const counts: Counts = {
     composed: 0,
+    progressed: 0,
     skipped: 0,
     failed: 0,
     restated: 0,
@@ -383,12 +397,12 @@ async function syncRoyalRoad(argv: readonly string[]): Promise<RunCounts> {
 
   console.log(
     `composed ${counts.composed} chapter(s), restated ${counts.restated} story page(s), ` +
-      `skipped ${counts.skipped} over budget, ${counts.failed} failed, ${counts.refused} refused, ` +
-      `${counts.unworlded} unrestated for no world`
+      `read ${counts.progressed} chapter(s), skipped ${counts.skipped} over budget, ` +
+      `${counts.failed} failed, ${counts.refused} refused, ${counts.unworlded} unrestated for no world`
   )
   return {
     created: counts.composed,
-    updated: counts.restated,
+    updated: counts.restated + counts.progressed,
     skipped: counts.skipped,
     failed: counts.failed + counts.refused + counts.unworlded,
   }
