@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
 import { bookSection } from "akasha/alan/collection/reading/book-section/book-section.page-type.ts"
+import { image } from "akasha/infrastructure/inference/generation/image/image.page-type.ts"
+import { image0d953de65e55acaf } from "akasha/infrastructure/inference/generation/image/pages/image-0d953de65e55acaf.image.ts"
 import {
+  imageSourceOf,
   MarkdownRenderer,
   pageNamedIn,
   readingHrefOf,
@@ -146,4 +149,26 @@ test("a scoped page link is never drawn at its address either", () => {
   const document = drawn(`[the channel](${SECTION_AT})`)
   expect(document.querySelector("a")).toBe(null)
   expect(document.body.textContent).toContain("the channel")
+})
+
+const IMAGE_AT = `${image.slug}/${image0d953de65e55acaf.slug}`
+
+const IMAGE_BYTES = `/api/page-file/${image.slug}/${image0d953de65e55acaf.slug}/bytes?w=1280`
+
+test("an image whose address names an image page is drawn from that page's bytes", () => {
+  expect(imageSourceOf(IMAGE_AT)).toBe(IMAGE_BYTES)
+  const element = drawn(`![a dragon](${IMAGE_AT})`).querySelector("img")
+  expect(element?.getAttribute("src")).toBe(IMAGE_BYTES)
+  expect(element?.getAttribute("alt")).toBe("a dragon")
+})
+
+test("an image at a web address is drawn from that address", () => {
+  expect(imageSourceOf("https://example.com/a.png")).toBe("https://example.com/a.png")
+})
+
+test("an image whose address names a page that is no image is drawn as its words alone", () => {
+  expect(imageSourceOf(LEVEL_AT)).toBe(null)
+  const document = drawn(`![the levels](${LEVEL_AT})`)
+  expect(document.querySelector("img")).toBe(null)
+  expect(document.body.textContent).toContain("the levels")
 })

@@ -20,5 +20,15 @@ export const markdownRenderer = {
       decisionKind: "decision-kind/departure",
       statement: "A link finds its page by the address the page resolver keys that page by.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An image whose address names an image page is drawn inline from that page's bytes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An image whose address names a page that is no image is drawn as its words alone.",
+    },
   ],
 } as const satisfies Module

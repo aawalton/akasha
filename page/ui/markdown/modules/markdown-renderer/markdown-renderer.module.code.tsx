@@ -13,6 +13,8 @@ import {
   useAcquireShapes,
   usePipelineLive,
 } from "akasha/page/ui/cache/modules/tanstack-live/tanstack-live.module.code.ts"
+import { DegradingImage } from "akasha/page/ui/component/modules/degrading-image/degrading-image.module.code.tsx"
+import { coverSource } from "akasha/page/ui/component/modules/page-cover/page-cover.module.code.tsx"
 import { buildPageTypeSlugMaps } from "akasha/page/ui/component/modules/view-tab-content-href/view-tab-content-href.module.code.ts"
 import {
   addressOf,
@@ -150,6 +152,33 @@ function MarkdownLink({ children, href }: { children?: ReactNode; href?: string 
   )
 }
 
+const IMAGE_PAGE_TYPE = "image"
+
+const IMAGE_WIDTH = 1280
+
+export function imageSourceOf(src: unknown): string | null {
+  const address = stringIn(src)
+  if (address === null) return null
+  const named = pageNamedIn(address)
+  if (named === null) return address
+  if (named.pageTypeSlug !== IMAGE_PAGE_TYPE || named.scope !== null) return null
+  return coverSource(`${IMAGE_PAGE_TYPE}/${named.slug}`, IMAGE_WIDTH)
+}
+
+function MarkdownImage({ src, alt }: { src?: unknown; alt?: string }) {
+  const words = alt ?? ""
+  const source = imageSourceOf(src)
+  if (source === null) return <>{words}</>
+  return (
+    <DegradingImage
+      src={source}
+      alt={words}
+      className="my-2 block h-auto max-w-full rounded-md"
+      fallback={words}
+    />
+  )
+}
+
 const DEFAULT_COMPONENTS: Components = {
   section: ({ children, className, ...rest }) => {
     const restRecord: Readonly<Record<string, unknown>> = rest
@@ -175,6 +204,7 @@ const DEFAULT_COMPONENTS: Components = {
     </blockquote>
   ),
   a: MarkdownLink,
+  img: MarkdownImage,
   table: ({ children }) => (
     <div className="overflow-x-auto">
       <table className="w-full text-sm">{children}</table>
