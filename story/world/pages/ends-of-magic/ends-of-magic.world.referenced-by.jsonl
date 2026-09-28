@@ -226,6 +226,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-nierna.lore.ts","id":"01a0e9fc-d638-7981-993d-8f894f2d99c6"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-nol-dho-chokiz.lore.ts","id":"01a0e9f9-115f-7f8a-9e37-9ce57e071521"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-notifications.lore.ts","id":"01a0e9fc-f7cd-76cf-acfa-b4b013ddb25f"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-nuclear-magic.lore.ts","id":"01a0ea01-3007-731a-9ec8-f41f5fa50564"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-odrin.lore.ts","id":"01a0e9fd-9171-7f90-9e89-b90e89b6d2e9"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-ogarius.lore.ts","id":"01a0e9f7-96f1-7c74-a61d-29e93130e5a8"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-olita.lore.ts","id":"01a0e9fa-ee0d-714e-a91d-f4b3fd640ea4"}
@@ -348,6 +349,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-mana.world-mechanic.ts","id":"01a0e9f1-9e7c-76a5-9ea4-b57cfe527aad"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-mental-magic.world-mechanic.ts","id":"01a0e9f9-e5ca-7fda-990d-cc6bf1c43666"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-notifications.world-mechanic.ts","id":"01a0e9fc-f7ce-725d-80c2-326ca59efd43"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-nuclear-magic.world-mechanic.ts","id":"01a0ea01-3008-7f98-90ef-cb0bd33c2625"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-paths.world-mechanic.ts","id":"01a0ea00-21ae-778d-8c6a-a926f99b1f7a"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-polite-war.world-mechanic.ts","id":"01a0e9fe-b556-7ad4-b69c-7c4b12851eeb"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-questor-link.world-mechanic.ts","id":"01a0ea00-7f5b-754d-94b6-6961764cfccf"}
