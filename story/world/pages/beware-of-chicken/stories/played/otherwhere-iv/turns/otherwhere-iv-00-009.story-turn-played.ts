@@ -41,5 +41,6 @@ export const otherwhereIv00009 = {
     '"If the honored spirit will not, this old man cannot promise what they will say."',
   ],
   lore: ["lore/otherwhere-iv-gu-household", "lore/otherwhere-iv-calendar"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T08:50:00.000Z",
 } as const satisfies StoryTurnPlayed
