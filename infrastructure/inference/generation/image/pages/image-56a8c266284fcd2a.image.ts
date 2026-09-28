@@ -4,6 +4,8 @@ export const image56a8c266284fcd2a = {
   id: "01a0e9f1-2711-7248-98fa-cfcc59327ec8",
   type: "page-type/image",
   slug: "image-56a8c266284fcd2a",
+  title: "Looking Up from Her Book at Golden Hour",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
