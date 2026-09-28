@@ -6,6 +6,7 @@ export const otherwhereXHarrowMile = {
   slug: "otherwhere-x-harrow-mile",
   title: "Harrow Mile",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
+  within: "place/otherwhere-x-harrow-vale",
   facts: [
     {
       fact: "Harrow Mile is a stretch of rutted cart road between harvested barley fields.",
@@ -50,6 +51,41 @@ export const otherwhereXHarrowMile = {
     {
       fact: "The road runs east and west; westward it slopes down toward a line of trees.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "The hawthorn berries are ripe, mealy and safe to eat, though they fill no one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The rutted road is hard-packed earth with flints in it; bare feet feel every stone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The line of trees to the west is the alder fringe along the Tarrant, hours off by foot.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Brackwood's dark edge shows a mile north across the stubble.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At dusk on day one, horned rabbits come out along the Brackwood edge into the fields.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A thin ditch of still rainwater runs along the road's north side, brackish but drinkable.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The stubble where Nala woke is flattened in a ring some ten paces across, stalks laid outward.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
+  exits: [
+    {
+      to: "place/otherwhere-x-harrow",
+      way: "east along the king's road, two miles over the low rise",
+      direction: "east",
     },
   ],
 } as const satisfies Place
