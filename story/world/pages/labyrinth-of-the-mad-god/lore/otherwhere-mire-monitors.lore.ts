@@ -1,0 +1,47 @@
+import type { Lore } from "akasha/story/lore/lore.page-type.types.ts"
+
+export const otherwhereMireMonitors = {
+  id: "01a0e98e-a9b7-7f57-b9e0-258856271076",
+  type: "page-type/lore",
+  slug: "otherwhere-mire-monitors",
+  title: "Mire Monitors",
+  world: "world/labyrinth-of-the-mad-god",
+  facts: [
+    {
+      fact: "Mire monitors are lizards seven feet long, mud-brown with a purple sheen in sunlight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A mire monitor has rows of hooked teeth, black claws and a tail half its length.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Mire monitors hunt in twos and threes: one shows itself and herds prey to the others.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Mire monitors lie up by water in the heat and hunt most at dawn and dusk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A mire monitor's bite festers; it tracks bleeding prey by smell until it drops.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Mire monitors are quick in a short rush but tire fast, and climb poorly.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A mire monitor hisses and gapes before it charges.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A mire monitor is level 4 or 5, far past an untrained person in a straight fight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Mire monitor meat is tough but good cooked, and dries well.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
+} as const satisfies Lore
