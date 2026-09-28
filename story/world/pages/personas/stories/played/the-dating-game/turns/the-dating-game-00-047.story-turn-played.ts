@@ -10,7 +10,7 @@ export const theDatingGame00047 = {
   position: 47,
   prose: "txt",
   characters: ["character-other/the-dating-game-aelwyn", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action: '"Great! How do I fix that?"',
   beats: [
     'He asks, "Great! How do I fix that?"',
@@ -21,5 +21,5 @@ export const theDatingGame00047 = {
     "She pads a few steps across the grass toward him, and her feet make no sound at all.",
   ],
   lore: ["lore/the-dating-game-aelwyn"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
