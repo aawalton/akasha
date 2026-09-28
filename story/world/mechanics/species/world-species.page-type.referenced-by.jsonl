@@ -68,6 +68,7 @@
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-cyclops.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-demon.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-eldrae.world-species.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-evolving-creature.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-fae.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-fire-salamander.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-fire-worm.world-species.ts","typed":true,"deferred":false}
@@ -83,6 +84,7 @@
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-octopod.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-ogre.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-orc.world-species.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-rasko.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-shardback.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-small-folk.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-splitting-acid-raptor.world-species.ts","typed":true,"deferred":false}
