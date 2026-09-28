@@ -3858,6 +3858,7 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/cornerstone/stories/written/cornerstone/mechanics/metrics/attributes/cornerstone-faculty.page-type.ts","id":"01a0dee4-467b-76be-b386-8f81567faec4"}
 {"propertySlug":"decision-kind","path":"story/world/pages/harem-hotel/stories/written/harem-hotel/mechanics/floors/harem-hotel-floor.page-type.ts","id":"01a0e822-39b3-7bc0-be8e-4a7093388b67"}
 {"propertySlug":"decision-kind","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/checks/otherwhere-action-check.world-check.ts","id":"01a0e990-b58d-79aa-a179-1b7000226703"}
+{"propertySlug":"decision-kind","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/checks/otherwhere-needs.world-check.ts","id":"01a0e993-be67-7db9-998f-26e3ccb4f5f9"}
 {"propertySlug":"decision-kind","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/checks/otherwhere-time-passing.world-check.ts","id":"01a0e992-4350-774a-964f-a8e84e8dd4dc"}
 {"propertySlug":"decision-kind","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/checks/otherwhere-the-library-action-check.world-check.ts","id":"01a0e35d-c37f-706b-b681-d6e791bc2b7a"}
 {"propertySlug":"decision-kind","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/checks/otherwhere-the-library-harm.world-check.ts","id":"01a0e363-de4d-707a-b798-b425b58c417a"}
