@@ -274,7 +274,11 @@ export const otherwhereUniverse = {
     },
     {
       fact: "The shelving golems come fully awake and up to the main hall by the next morning.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
   ],
   secrets: "jsonl",
