@@ -198,7 +198,11 @@ export const otherwhereUniverse = {
     },
     {
       fact: "Links cannot sense where a lost book lies among the heaps; the Library only knows it is there.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "At 50 power the Library's golems wake, and shelving golems among them.",
