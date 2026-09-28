@@ -11,4 +11,5 @@ export const otherwhereIx00004 = {
   action:
     "As it gets close, I jump up into the air as high as I can, then try to land on top of it with all of my weight.",
   lore: ["lore/otherwhere-ix-shardback", "lore/otherwhere-ix-nala"],
+  endsAt: "2026-09-28T15:35:00.000Z",
 } as const satisfies StoryTurnPlayed
