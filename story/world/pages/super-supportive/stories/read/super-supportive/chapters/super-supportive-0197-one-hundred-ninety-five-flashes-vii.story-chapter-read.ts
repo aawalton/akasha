@@ -4,6 +4,7 @@ export const superSupportive0197OneHundredNinetyFiveFlashesVii = {
   id: "01a06730-4ee9-7e6f-89fc-31339acda38d",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0197-one-hundred-ninety-five-flashes-vii",
+  ownProgress: 5610,
   title: "ONE HUNDRED NINETY-FIVE: Flashes VII",
   story: "story-read/super-supportive",
   position: 197,

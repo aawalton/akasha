@@ -4,6 +4,7 @@ export const superSupportive0208TwoHundredSixHerdcreaturesIv = {
   id: "01a06730-4ef2-7b3c-ac18-4700fd1f22d8",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0208-two-hundred-six-herdcreatures-iv",
+  ownProgress: 5797,
   title: "TWO HUNDRED SIX: Herdcreatures IV",
   story: "story-read/super-supportive",
   position: 208,

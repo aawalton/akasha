@@ -4,6 +4,7 @@ export const superSupportive0212TwoHundredTenSun = {
   id: "01a06730-4ef4-7b68-a1fa-7339ceda6bff",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0212-two-hundred-ten-sun",
+  ownProgress: 3834,
   title: "TWO HUNDRED TEN:  Sun",
   story: "story-read/super-supportive",
   position: 212,

@@ -4,6 +4,7 @@ export const superSupportive0222TwoHundredTwentyARarePairing = {
   id: "01a06730-4efe-744e-b4be-4c8ad9c14536",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0222-two-hundred-twenty-a-rare-pairing",
+  ownProgress: 3831,
   title: "TWO HUNDRED TWENTY: A Rare Pairing",
   story: "story-read/super-supportive",
   position: 222,

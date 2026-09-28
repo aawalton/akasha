@@ -4,6 +4,7 @@ export const superSupportive0203TwoHundredOneAWeirdPlace = {
   id: "01a06730-4eed-7e1c-9d24-89de2c8f9591",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0203-two-hundred-one-a-weird-place",
+  ownProgress: 4025,
   title: "TWO HUNDRED ONE: A Weird Place",
   story: "story-read/super-supportive",
   position: 203,

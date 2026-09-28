@@ -4,6 +4,7 @@ export const superSupportive0204TwoHundredTwoShoes = {
   id: "01a06730-4eee-71ca-9a8f-aa7f2097c07d",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0204-two-hundred-two-shoes",
+  ownProgress: 5630,
   title: "TWO HUNDRED TWO: Shoes",
   story: "story-read/super-supportive",
   position: 204,

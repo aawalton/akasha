@@ -4,6 +4,7 @@ export const superSupportive0200OneHundredNinetyEightUnited = {
   id: "01a06730-4eeb-7cd1-83cb-db85e56dc8e0",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0200-one-hundred-ninety-eight-united",
+  ownProgress: 4044,
   title: "ONE HUNDRED NINETY-EIGHT: United",
   story: "story-read/super-supportive",
   position: 200,

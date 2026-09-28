@@ -4,6 +4,7 @@ export const superSupportive0217TwoHundredFifteenTacos = {
   id: "01a06730-4ef8-7014-bb92-160f765631a6",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0217-two-hundred-fifteen-tacos",
+  ownProgress: 4249,
   title: "TWO HUNDRED FIFTEEN: Tacos",
   story: "story-read/super-supportive",
   position: 217,

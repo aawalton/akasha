@@ -4,6 +4,7 @@ export const superSupportive0220TwoHundredEighteenPower = {
   id: "01a06730-4efc-7d85-bacd-d0339679a1d1",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0220-two-hundred-eighteen-power",
+  ownProgress: 4080,
   title: "TWO HUNDRED EIGHTEEN: Power",
   story: "story-read/super-supportive",
   position: 220,

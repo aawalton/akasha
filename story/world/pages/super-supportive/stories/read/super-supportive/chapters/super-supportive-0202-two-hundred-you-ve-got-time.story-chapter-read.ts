@@ -4,6 +4,7 @@ export const superSupportive0202TwoHundredYouVeGotTime = {
   id: "01a06730-4eec-7278-865f-d8533257b082",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0202-two-hundred-you-ve-got-time",
+  ownProgress: 2664,
   title: "TWO HUNDRED: You've Got Time",
   story: "story-read/super-supportive",
   position: 202,

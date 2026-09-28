@@ -4,6 +4,7 @@ export const superSupportive0201OneHundredNinetyNineHappyAvowedDays = {
   id: "01a06730-4eec-7ebe-871f-1fa4d546faac",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0201-one-hundred-ninety-nine-happy-avowed-days",
+  ownProgress: 3881,
   title: "ONE HUNDRED NINETY-NINE: Happy Avowed Days",
   story: "story-read/super-supportive",
   position: 201,

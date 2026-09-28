@@ -4,6 +4,7 @@ export const superSupportive0228TwoHundredTwentySixHereToThereVi = {
   id: "01a06730-4f01-76b5-9c1c-b2d5e42ead0a",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0228-two-hundred-twenty-six-here-to-there-vi",
+  ownProgress: 3377,
   title: "TWO HUNDRED TWENTY-SIX: Here-to-There VI",
   story: "story-read/super-supportive",
   position: 228,
