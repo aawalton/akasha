@@ -52,7 +52,15 @@ export const haremHotelFloor1 = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Floor 1 holds two women: the concierge at the front desk and the bellhop by the luggage cart.",
+      fact: "Floor 1 holds two women: Odile as the concierge at the front desk, and Wren as the bellhop.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The bellhop waits by the luggage cart, and the concierge gives her orders across the lobby.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The concierge wears a fitted black tailcoat and waistcoat over a white shirt, and a black skirt.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
