@@ -4,6 +4,7 @@ export const chrysalis0472Chapter1818TungstantSBadDay = {
   id: "01a0672c-eb6b-7019-91e2-5bfa3f20a994",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0472-chapter-1818-tungstant-s-bad-day",
+  ownProgress: 1100,
   title: "Chapter 1818 - Tungstant's Bad Day",
   story: "story-read/chrysalis",
   position: 472,

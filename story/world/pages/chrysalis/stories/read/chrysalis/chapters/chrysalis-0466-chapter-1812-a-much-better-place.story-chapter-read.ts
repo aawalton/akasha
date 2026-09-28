@@ -4,6 +4,7 @@ export const chrysalis0466Chapter1812AMuchBetterPlace = {
   id: "01a0672c-eb6b-7013-b880-fba2eeffcab1",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0466-chapter-1812-a-much-better-place",
+  ownProgress: 973,
   title: "Chapter 1812 - A Much Better Place",
   story: "story-read/chrysalis",
   position: 466,

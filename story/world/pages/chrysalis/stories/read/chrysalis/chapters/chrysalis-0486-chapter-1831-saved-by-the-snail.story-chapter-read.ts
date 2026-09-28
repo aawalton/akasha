@@ -4,6 +4,7 @@ export const chrysalis0486Chapter1831SavedByTheSnail = {
   id: "01a0672c-eb6c-7007-a9af-85aa0f376c77",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0486-chapter-1831-saved-by-the-snail",
+  ownProgress: 909,
   title: "Chapter 1831 -  Saved By the Snail",
   story: "story-read/chrysalis",
   position: 486,

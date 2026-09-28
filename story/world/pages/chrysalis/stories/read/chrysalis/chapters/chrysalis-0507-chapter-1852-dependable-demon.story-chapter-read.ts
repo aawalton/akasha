@@ -4,6 +4,7 @@ export const chrysalis0507Chapter1852DependableDemon = {
   id: "01a0672c-eb6c-701c-be11-306880f4d959",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0507-chapter-1852-dependable-demon",
+  ownProgress: 1270,
   title: "Chapter 1852 - Dependable Demon",
   story: "story-read/chrysalis",
   position: 507,

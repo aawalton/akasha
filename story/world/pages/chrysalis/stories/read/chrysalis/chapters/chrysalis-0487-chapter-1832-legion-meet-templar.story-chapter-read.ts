@@ -4,6 +4,7 @@ export const chrysalis0487Chapter1832LegionMeetTemplar = {
   id: "01a0672c-eb6c-7008-9248-4f19dbac26ce",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0487-chapter-1832-legion-meet-templar",
+  ownProgress: 1124,
   title: "Chapter 1832 -  Legion, Meet Templar",
   story: "story-read/chrysalis",
   position: 487,

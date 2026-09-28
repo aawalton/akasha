@@ -4,6 +4,7 @@ export const chrysalis0488Chapter1833PressureMakesDiamonds = {
   id: "01a0672c-eb6c-7009-938f-99a38b20a473",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0488-chapter-1833-pressure-makes-diamonds",
+  ownProgress: 893,
   title: "Chapter 1833 -  Pressure Makes Diamonds",
   story: "story-read/chrysalis",
   position: 488,

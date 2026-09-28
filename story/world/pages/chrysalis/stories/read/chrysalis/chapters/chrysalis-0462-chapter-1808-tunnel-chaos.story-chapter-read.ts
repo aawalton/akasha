@@ -4,6 +4,7 @@ export const chrysalis0462Chapter1808TunnelChaos = {
   id: "01a0672c-eb6b-700f-935a-7c8d81f6b639",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0462-chapter-1808-tunnel-chaos",
+  ownProgress: 793,
   title: "Chapter 1808 - Tunnel Chaos",
   story: "story-read/chrysalis",
   position: 462,

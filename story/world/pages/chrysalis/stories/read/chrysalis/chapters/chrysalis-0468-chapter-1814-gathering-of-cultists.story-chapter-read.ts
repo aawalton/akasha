@@ -4,6 +4,7 @@ export const chrysalis0468Chapter1814GatheringOfCultists = {
   id: "01a0672c-eb6b-7015-9282-28bed920aaba",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0468-chapter-1814-gathering-of-cultists",
+  ownProgress: 1338,
   title: "Chapter 1814 - Gathering of Cultists",
   story: "story-read/chrysalis",
   position: 468,

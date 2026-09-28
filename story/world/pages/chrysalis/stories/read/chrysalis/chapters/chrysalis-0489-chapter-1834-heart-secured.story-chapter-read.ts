@@ -4,6 +4,7 @@ export const chrysalis0489Chapter1834HeartSecured = {
   id: "01a0672c-eb6c-700a-a6e0-868c91f0ce41",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0489-chapter-1834-heart-secured",
+  ownProgress: 922,
   title: "Chapter 1834 - Heart Secured",
   story: "story-read/chrysalis",
   position: 489,

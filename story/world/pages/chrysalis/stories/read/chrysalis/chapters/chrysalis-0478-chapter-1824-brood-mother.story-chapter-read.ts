@@ -4,6 +4,7 @@ export const chrysalis0478Chapter1824BroodMother = {
   id: "01a0672c-eb6b-701f-8892-3c6d296fb9f5",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0478-chapter-1824-brood-mother",
+  ownProgress: 991,
   title: "Chapter 1824 -  Brood Mother",
   story: "story-read/chrysalis",
   position: 478,

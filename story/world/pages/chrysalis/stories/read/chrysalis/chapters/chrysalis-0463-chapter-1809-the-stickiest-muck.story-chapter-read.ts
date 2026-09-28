@@ -4,6 +4,7 @@ export const chrysalis0463Chapter1809TheStickiestMuck = {
   id: "01a0672c-eb6b-7010-92fa-3b3f27dc1bf4",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0463-chapter-1809-the-stickiest-muck",
+  ownProgress: 1004,
   title: "Chapter 1809 - The Stickiest Muck",
   story: "story-read/chrysalis",
   position: 463,

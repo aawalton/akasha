@@ -4,6 +4,7 @@ export const chrysalis0465Chapter1811CracklingWithPossibility = {
   id: "01a0672c-eb6b-7012-88f8-33d221ce1d66",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0465-chapter-1811-crackling-with-possibility",
+  ownProgress: 1255,
   title: "Chapter 1811 - Crackling with Possibility",
   story: "story-read/chrysalis",
   position: 465,

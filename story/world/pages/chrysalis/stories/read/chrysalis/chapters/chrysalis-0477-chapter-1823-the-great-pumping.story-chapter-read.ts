@@ -4,6 +4,7 @@ export const chrysalis0477Chapter1823TheGreatPumping = {
   id: "01a0672c-eb6b-701e-bc5a-cf13e3f0f17c",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0477-chapter-1823-the-great-pumping",
+  ownProgress: 1038,
   title: "Chapter 1823 - The Great Pumping",
   story: "story-read/chrysalis",
   position: 477,

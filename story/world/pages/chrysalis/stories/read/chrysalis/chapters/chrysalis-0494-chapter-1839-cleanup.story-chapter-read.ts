@@ -4,6 +4,7 @@ export const chrysalis0494Chapter1839Cleanup = {
   id: "01a0672c-eb6c-700f-821b-351253be9401",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0494-chapter-1839-cleanup",
+  ownProgress: 935,
   title: "Chapter 1839 -  Cleanup",
   story: "story-read/chrysalis",
   position: 494,

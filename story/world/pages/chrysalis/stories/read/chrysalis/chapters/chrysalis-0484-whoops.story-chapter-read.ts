@@ -4,6 +4,7 @@ export const chrysalis0484Whoops = {
   id: "01a0672c-eb6c-7005-bef4-6087927cb40a",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0484-whoops",
+  ownProgress: 65,
   title: "Whoops!",
   story: "story-read/chrysalis",
   position: 484,

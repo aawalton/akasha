@@ -4,6 +4,7 @@ export const chrysalis0510Chapter1855GrubOutOfMind = {
   id: "01a0672c-eb6d-7002-affa-58699a9345df",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0510-chapter-1855-grub-out-of-mind",
+  ownProgress: 1128,
   title: "Chapter 1855 - Grub Out of Mind",
   story: "story-read/chrysalis",
   position: 510,

@@ -4,6 +4,7 @@ export const chrysalis0492Chapter1837UnfathomableWealth = {
   id: "01a0672c-eb6c-700d-a7ca-ca51994b3ad3",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0492-chapter-1837-unfathomable-wealth",
+  ownProgress: 1355,
   title: "Chapter 1837 -  Unfathomable Wealth",
   story: "story-read/chrysalis",
   position: 492,

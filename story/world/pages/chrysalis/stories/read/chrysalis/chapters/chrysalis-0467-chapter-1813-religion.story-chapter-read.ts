@@ -4,6 +4,7 @@ export const chrysalis0467Chapter1813Religion = {
   id: "01a0672c-eb6b-7014-825a-a4165faea368",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0467-chapter-1813-religion",
+  ownProgress: 854,
   title: "Chapter 1813 - Religion",
   story: "story-read/chrysalis",
   position: 467,

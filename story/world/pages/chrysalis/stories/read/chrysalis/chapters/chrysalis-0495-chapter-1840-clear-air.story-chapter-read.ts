@@ -4,6 +4,7 @@ export const chrysalis0495Chapter1840ClearAir = {
   id: "01a0672c-eb6c-7010-b955-1c63ca60ded6",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0495-chapter-1840-clear-air",
+  ownProgress: 1072,
   title: "Chapter 1840 -  Clear Air",
   story: "story-read/chrysalis",
   position: 495,
