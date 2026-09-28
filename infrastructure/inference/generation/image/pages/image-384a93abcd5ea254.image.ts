@@ -4,6 +4,8 @@ export const image384a93abcd5ea254 = {
   id: "01a0e9ea-27f9-7613-b97a-97188cdbc5e6",
   type: "page-type/image",
   slug: "image-384a93abcd5ea254",
+  title: "Windblown Ginger Curls on the Tartan",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
