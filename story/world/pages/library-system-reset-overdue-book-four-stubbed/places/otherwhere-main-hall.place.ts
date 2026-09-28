@@ -100,60 +100,12 @@ export const otherwhereMainHall = {
       knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
     },
     {
-      fact: "The Librarian's quarters open off the hall behind the Check-in Counter, for a synced Librarian.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
-    {
-      fact: "The Librarian's quarters hold a wide bed, a wardrobe, and a bathroom with a deep stone tub.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
-    {
-      fact: "The quarters have a deep stone tub but no shower; thick linen towels hang beside it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
-    {
-      fact: "A short passage behind the Counter leads to the quarters, a snug wood-panelled room.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "Under a dust sheet the Librarian's bed is clean, soft and wide.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
       fact: "At night the Library dims its lights to a low amber, and brightens them again for morning.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "Nala slept her first night in the quarters, and woke to the smell of fresh bread.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Awake again, the kitchen bakes a little on its own, and fresh bread is ready by morning.",
       knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "The wardrobe's robes are deep blue wool, whole and unmothed, smelling of cedar; two hang there.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "The wardrobe holds a past Librarian's plain robes, long on Nala but wearable.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
     },
     {
       fact: "The failed information packet can be resent only through the Check-in Counter, once it works.",
@@ -299,18 +251,7 @@ export const otherwhereMainHall = {
       fact: "As the first bookworm dried still, the hall's gold light brightened a shade.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "The wardrobe's felt slippers are soft on Nala, and a little big.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "Links heated Nala's filled tub for a point of the Library's power.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
+
     {
       fact: "Nala picked up Shelf Sight, a slim plain-bound book, sorting the heaps beside the counter.",
       knowers: [
@@ -331,14 +272,7 @@ export const otherwhereMainHall = {
         "character-other/otherwhere-links",
       ],
     },
-    {
-      fact: "The quarters' taps now run hot.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
+
     {
       fact: "When the Library asked Nala to sync again, a low hum rose through the hall from the core.",
       knowers: [

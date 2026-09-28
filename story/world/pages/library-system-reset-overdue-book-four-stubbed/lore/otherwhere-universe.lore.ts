@@ -313,14 +313,6 @@ export const otherwhereUniverse = {
         "character-other/otherwhere-links",
       ],
     },
-    {
-      fact: "The Library's hospital wing stays shut and dark until the Library has more power to open it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
 
     {
       fact: "Since her third sync, Nala's interface shows the Library's tasks.",
