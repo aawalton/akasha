@@ -6,6 +6,7 @@ export const otherwhereShelfSight = {
   slug: "otherwhere-shelf-sight",
   title: "Shelf Sight",
   world: "world/library-system-reset-overdue-book-four-stubbed",
-  description:
-    "Nala's Shelf Sight, learned from the Library's book of that name: opening it costs 1 mana, and for an hour after, one glance at a book shows her the shelf it belongs on. With it open, sorting a section at a time, she reshelves some thirty books an hour.",
+  description: "A glance at a book shows which shelf it belongs on.",
+  manaCost: 1,
+  durationMinutes: 60,
 } as const satisfies WorldSkill
