@@ -11,4 +11,5 @@ export const irisGameMasterOtherwhereIv = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "aa60d550-1494-48e5-86ae-d6b59dc3bf80",
 } as const satisfies Seat
