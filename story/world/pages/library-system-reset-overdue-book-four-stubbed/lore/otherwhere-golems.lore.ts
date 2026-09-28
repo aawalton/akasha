@@ -44,16 +44,12 @@ export const otherwhereGolems = {
       ],
     },
     {
-      fact: "The two shelving golems stand silent beside the Counter, waiting on her word.",
+      fact: "The two shelving golems are shelving the main hall's loose books, working out from the Counter.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-other/otherwhere-links",
         "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
       ],
-    },
-    {
-      fact: "The two shelving golems are shelving the main hall's loose books, working out from the Counter.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],
 } as const satisfies Lore
