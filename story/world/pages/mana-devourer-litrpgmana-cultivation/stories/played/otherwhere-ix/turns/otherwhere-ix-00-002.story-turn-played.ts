@@ -10,7 +10,7 @@ export const otherwhereIx00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     '"Hello?" I say confidently, then I stand up tall and put my arms on my hips to make me look bigger. "Can you understand me?"',
   beats: [
@@ -40,6 +40,6 @@ export const otherwhereIx00002 = {
     '"Far off to the east, the dark line lies along the edge of the world." - Leave It Open',
   ],
   lore: ["lore/otherwhere-ix-shardback", "place/otherwhere-ix-glassgrass-flats"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T15:32:00.000Z",
 } as const satisfies StoryTurnPlayed
