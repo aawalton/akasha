@@ -4,6 +4,7 @@ export const superSupportive0033ThirtyThreeFalling = {
   id: "01a06730-4dfe-7909-bda8-6cdc3049340a",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0033-thirty-three-falling",
+  ownProgress: 3343,
   title: "THIRTY-THREE: Falling",
   story: "story-read/super-supportive",
   position: 33,

@@ -4,6 +4,7 @@ export const superSupportive0015FifteenClassTraderPartTwo = {
   id: "01a06730-4dea-73b2-946a-21e92a26aa79",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0015-fifteen-class-trader-part-two",
+  ownProgress: 4401,
   title: "FIFTEEN: Class Trader, Part Two",
   story: "story-read/super-supportive",
   position: 15,

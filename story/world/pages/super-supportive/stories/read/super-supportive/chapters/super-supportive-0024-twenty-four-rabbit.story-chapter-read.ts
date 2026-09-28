@@ -4,6 +4,7 @@ export const superSupportive0024TwentyFourRabbit = {
   id: "01a06730-4df3-7ca9-8059-bacc3880ca91",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0024-twenty-four-rabbit",
+  ownProgress: 5658,
   title: "TWENTY-FOUR: Rabbit",
   story: "story-read/super-supportive",
   position: 24,

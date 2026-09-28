@@ -4,6 +4,7 @@ export const superSupportive0019NineteenTeleport = {
   id: "01a06730-4ded-74e1-a8d9-e51255fd10a1",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0019-nineteen-teleport",
+  ownProgress: 3965,
   title: "NINETEEN: Teleport",
   story: "story-read/super-supportive",
   position: 19,

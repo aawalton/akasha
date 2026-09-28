@@ -4,6 +4,7 @@ export const superSupportive0025TwentyFiveWardrobe = {
   id: "01a06730-4df4-78a6-8be2-4d2551c29ffe",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0025-twenty-five-wardrobe",
+  ownProgress: 4262,
   title: "TWENTY-FIVE: Wardrobe",
   story: "story-read/super-supportive",
   position: 25,

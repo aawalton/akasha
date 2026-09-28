@@ -4,6 +4,7 @@ export const superSupportive0010TenSideEffects = {
   id: "01a06730-4de8-7226-8e53-632185f080a8",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0010-ten-side-effects",
+  ownProgress: 2669,
   title: "TEN: Side Effects",
   story: "story-read/super-supportive",
   position: 10,

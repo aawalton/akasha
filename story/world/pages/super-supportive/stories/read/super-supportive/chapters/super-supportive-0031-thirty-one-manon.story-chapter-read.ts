@@ -4,6 +4,7 @@ export const superSupportive0031ThirtyOneManon = {
   id: "01a06730-4dfc-79ff-819e-77ee773c1efa",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0031-thirty-one-manon",
+  ownProgress: 4135,
   title: "THIRTY-ONE: Manon",
   story: "story-read/super-supportive",
   position: 31,

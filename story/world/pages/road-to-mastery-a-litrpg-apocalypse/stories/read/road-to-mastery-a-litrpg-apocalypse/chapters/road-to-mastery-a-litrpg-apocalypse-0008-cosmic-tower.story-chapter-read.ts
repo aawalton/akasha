@@ -4,6 +4,7 @@ export const roadToMasteryALitrpgApocalypse0008CosmicTower = {
   id: "01a0672f-8c2c-7f02-9fad-699b7032387a",
   type: "page-type/story-chapter-read",
   slug: "road-to-mastery-a-litrpg-apocalypse-0008-cosmic-tower",
+  ownProgress: 252,
   title: "Cosmic Tower!?",
   story: "story-read/road-to-mastery-a-litrpg-apocalypse",
   position: 8,

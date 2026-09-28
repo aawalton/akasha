@@ -4,6 +4,7 @@ export const superSupportive0004FourAvowedCommunications = {
   id: "01a06730-4de6-7c10-b65c-26b39a3dbef6",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0004-four-avowed-communications",
+  ownProgress: 3023,
   title: "FOUR: Avowed Communications",
   story: "story-read/super-supportive",
   position: 4,

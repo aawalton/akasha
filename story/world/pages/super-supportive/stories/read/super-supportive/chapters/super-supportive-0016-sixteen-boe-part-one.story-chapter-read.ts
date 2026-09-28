@@ -4,6 +4,7 @@ export const superSupportive0016SixteenBoePartOne = {
   id: "01a06730-4dea-7a71-a672-e50e84ca8d29",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0016-sixteen-boe-part-one",
+  ownProgress: 2057,
   title: "SIXTEEN: Boe, Part One",
   story: "story-read/super-supportive",
   position: 16,

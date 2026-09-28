@@ -4,6 +4,7 @@ export const superSupportive0011ElevenLastAndLeast = {
   id: "01a06730-4de8-72ba-bfcf-5edbc37f7855",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0011-eleven-last-and-least",
+  ownProgress: 2380,
   title: "ELEVEN: Last and Least",
   story: "story-read/super-supportive",
   position: 11,

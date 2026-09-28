@@ -4,6 +4,7 @@ export const superSupportive0038ThirtyEightHedonistic = {
   id: "01a06730-4e08-7f5a-b40c-22f655894634",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0038-thirty-eight-hedonistic",
+  ownProgress: 7760,
   title: "THIRTY-EIGHT: Hedonistic",
   story: "story-read/super-supportive",
   position: 38,

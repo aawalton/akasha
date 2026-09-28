@@ -14,6 +14,7 @@ export const speedrunningTheMultiverseComplete = {
     },
   ],
   author: "adastra339",
+  following: true,
   grade: "B",
   externalTags: [
     "LitRPG",

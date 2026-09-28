@@ -4,6 +4,7 @@ export const superSupportive0022TwentyTwoUneven = {
   id: "01a06730-4def-76af-9f3d-84f68467b8d4",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0022-twenty-two-uneven",
+  ownProgress: 4751,
   title: "TWENTY-TWO: Uneven",
   story: "story-read/super-supportive",
   position: 22,

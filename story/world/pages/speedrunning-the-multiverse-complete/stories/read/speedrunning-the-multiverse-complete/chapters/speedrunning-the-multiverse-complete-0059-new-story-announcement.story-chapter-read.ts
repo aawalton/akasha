@@ -18,6 +18,6 @@ export const speedrunningTheMultiverseComplete0059NewStoryAnnouncement = {
     },
   ],
   publishedAt: "2023-12-03",
-  ownProgress: 8,
+  ownProgress: 224,
   prose: "txt",
 } as const satisfies StoryChapterRead

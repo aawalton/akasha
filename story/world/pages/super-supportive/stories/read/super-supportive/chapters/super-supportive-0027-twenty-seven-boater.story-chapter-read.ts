@@ -4,6 +4,7 @@ export const superSupportive0027TwentySevenBoater = {
   id: "01a06730-4df7-7d89-a950-5e16bc8d4e44",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0027-twenty-seven-boater",
+  ownProgress: 4611,
   title: "TWENTY-SEVEN: Boater",
   story: "story-read/super-supportive",
   position: 27,

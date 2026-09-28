@@ -4,6 +4,7 @@ export const roadToMasteryALitrpgApocalypse0006Chapter6TheHighGoblins = {
   id: "01a0672f-8c2c-73e5-aff6-ca7fda88df96",
   type: "page-type/story-chapter-read",
   slug: "road-to-mastery-a-litrpg-apocalypse-0006-chapter-6-the-high-goblins",
+  ownProgress: 2119,
   title: "Chapter 6: The High Goblins",
   story: "story-read/road-to-mastery-a-litrpg-apocalypse",
   position: 6,

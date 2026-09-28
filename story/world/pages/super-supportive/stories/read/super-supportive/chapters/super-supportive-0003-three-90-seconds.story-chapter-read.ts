@@ -4,6 +4,7 @@ export const superSupportive0003Three90Seconds = {
   id: "01a06730-4de5-719e-857a-f33deffd5b60",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0003-three-90-seconds",
+  ownProgress: 2752,
   title: "THREE: 90 seconds",
   story: "story-read/super-supportive",
   position: 3,

@@ -4,6 +4,7 @@ export const superSupportive0032ThirtyTwoChaining = {
   id: "01a06730-4dfd-7f81-9f9b-115a9ae6c41f",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0032-thirty-two-chaining",
+  ownProgress: 4034,
   title: "THIRTY-TWO: Chaining ",
   story: "story-read/super-supportive",
   position: 32,

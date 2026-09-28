@@ -14,6 +14,7 @@ export const rockFallsEveryoneDies = {
     },
   ],
   author: "zechamp",
+  following: true,
   grade: "C",
   publicationStatus: "completed",
   externalTags: [

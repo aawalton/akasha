@@ -4,6 +4,7 @@ export const superSupportive0007SevenALittleDelusional = {
   id: "01a06730-4de7-7930-8ad3-291921c99d0f",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0007-seven-a-little-delusional",
+  ownProgress: 2984,
   title: "SEVEN: A Little Delusional",
   story: "story-read/super-supportive",
   position: 7,

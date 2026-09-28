@@ -4,6 +4,7 @@ export const superSupportive0008EightTigerShorts = {
   id: "01a06730-4de7-7001-963b-0991e338c1d5",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0008-eight-tiger-shorts",
+  ownProgress: 1847,
   title: "EIGHT: Tiger Shorts",
   story: "story-read/super-supportive",
   position: 8,

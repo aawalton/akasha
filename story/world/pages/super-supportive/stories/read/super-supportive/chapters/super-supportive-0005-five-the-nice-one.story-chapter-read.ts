@@ -4,6 +4,7 @@ export const superSupportive0005FiveTheNiceOne = {
   id: "01a06730-4de6-79f8-869a-843bd621a5c7",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0005-five-the-nice-one",
+  ownProgress: 2525,
   title: "FIVE: The Nice One",
   story: "story-read/super-supportive",
   position: 5,

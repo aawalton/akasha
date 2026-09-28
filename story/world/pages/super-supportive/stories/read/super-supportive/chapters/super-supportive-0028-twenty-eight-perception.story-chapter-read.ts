@@ -4,6 +4,7 @@ export const superSupportive0028TwentyEightPerception = {
   id: "01a06730-4dfa-778e-81c5-e1bbaa335b2b",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0028-twenty-eight-perception",
+  ownProgress: 7182,
   title: "TWENTY-EIGHT: Perception",
   story: "story-read/super-supportive",
   position: 28,

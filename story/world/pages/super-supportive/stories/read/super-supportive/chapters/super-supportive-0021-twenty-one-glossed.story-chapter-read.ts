@@ -4,6 +4,7 @@ export const superSupportive0021TwentyOneGlossed = {
   id: "01a06730-4ded-77f7-98ce-d97c46495859",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0021-twenty-one-glossed",
+  ownProgress: 2519,
   title: "TWENTY-ONE: Glossed",
   story: "story-read/super-supportive",
   position: 21,

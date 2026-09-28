@@ -4,6 +4,7 @@ export const superSupportive0020TwentyAnOrdinaryMailbox = {
   id: "01a06730-4ded-7430-bf00-eb278ff5cefc",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0020-twenty-an-ordinary-mailbox",
+  ownProgress: 1520,
   title: "TWENTY: An Ordinary Mailbox",
   story: "story-read/super-supportive",
   position: 20,

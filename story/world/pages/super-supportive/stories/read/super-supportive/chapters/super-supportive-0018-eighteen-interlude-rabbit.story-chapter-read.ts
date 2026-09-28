@@ -4,6 +4,7 @@ export const superSupportive0018EighteenInterludeRabbit = {
   id: "01a06730-4deb-7d23-9e29-643b5cd60f73",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0018-eighteen-interlude-rabbit",
+  ownProgress: 1638,
   title: "EIGHTEEN: Interlude - Rabbit",
   story: "story-read/super-supportive",
   position: 18,
