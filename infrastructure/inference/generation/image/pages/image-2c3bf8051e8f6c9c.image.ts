@@ -8,6 +8,9 @@ export const image2c3bf8051e8f6c9c = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-070d57a5af44b12c",
+  title: "Vera Weaving Gold in the Meadow",
+  persona: "persona/vera",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",
