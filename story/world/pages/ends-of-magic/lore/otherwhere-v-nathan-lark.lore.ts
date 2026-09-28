@@ -17,11 +17,11 @@ export const otherwhereVNathanLark = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "In the arrival season, Nathan is in the pine hills near Taeol's tower, west of Giantsrest.",
+      fact: "On Nala's first evening, Nathan lies newly summoned in Taeol's tower, west of Giantsrest.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "In the arrival season he is fleeing Taeol with Gemore's scouts, far from Elothia.",
+      fact: "Taeol's tower is on another continent, far across the sea from Elothia.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
