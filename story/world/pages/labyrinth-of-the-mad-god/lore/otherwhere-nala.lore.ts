@@ -104,6 +104,22 @@ export const otherwhereNala = {
       fact: "A mire monitor's hooked teeth tore Nala's left forearm, and it bleeds.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
     },
+    {
+      fact: "Nala's torn left forearm no longer lets her left hand close or grip.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+    },
+    {
+      fact: "A mire monitor's hooked teeth took Nala in the side, under the ribs, and flung her into the mud.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+    },
+    {
+      fact: "Nala lost her glass shard in the grey mud as the two mire monitors closed over her.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+    },
+    {
+      fact: "Nala died at the Glassrun mouth at 15:10 on day one, killed by the pair of mire monitors.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
