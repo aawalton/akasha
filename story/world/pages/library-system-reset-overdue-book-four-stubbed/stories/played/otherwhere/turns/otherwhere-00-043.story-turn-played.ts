@@ -28,4 +28,5 @@ export const otherwhere00043 = {
     'Links, above her, fur bristling: "That cost me power I can\'t spare twice."',
   ],
   lore: ["place/otherwhere-hall-back"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
