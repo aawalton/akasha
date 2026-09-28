@@ -10,7 +10,7 @@ export const theDatingGame00051 = {
   position: 51,
   prose: "txt",
   characters: ["character-other/the-dating-game-talia", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action: "I'm feeling social, so I keep an eye out for people to talk to while I walk.",
   beats: [
     "Feeling social, he walks on, keeping an eye out for someone to talk to.",
@@ -24,5 +24,5 @@ export const theDatingGame00051 = {
     '"Good afternoon," she says, low and unhurried, marking her place with one finger.',
   ],
   lore: ["place/the-dating-game-apple-avenue", "lore/the-dating-game-talia"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
