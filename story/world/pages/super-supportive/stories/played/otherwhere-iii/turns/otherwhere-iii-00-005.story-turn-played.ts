@@ -13,7 +13,7 @@ export const otherwhereIii00005 = {
     "character-player/otherwhere-iii-nala",
     "character-other/otherwhere-iii-denise-pruitt",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Out West, small town in the mountains. Lots of nature but less in the way of opportunities.”",
   beats: [
@@ -29,6 +29,6 @@ export const otherwhereIii00005 = {
     '"This is us, honey. It\'s one block to the ER. You coming?"',
   ],
   lore: ["lore/otherwhere-iii-denise-pruitt", "place/otherwhere-iii-uptown-memorial-er"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2037-01-31T05:01:00.000Z",
 } as const satisfies StoryTurnPlayed
