@@ -1,4 +1,4 @@
-export interface SlotItem {
+interface SlotItem {
   lnk: string
   uid: string | undefined
 }
