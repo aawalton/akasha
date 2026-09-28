@@ -6,6 +6,7 @@ export const otherwhereIvThreeStonesVillage = {
   slug: "otherwhere-iv-three-stones-village",
   title: "Three Stones Village",
   world: "world/beware-of-chicken",
+  within: "place/otherwhere-iv-azure-hills",
   exits: [
     {
       to: "place/otherwhere-iv-ox-back-ridge",

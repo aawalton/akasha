@@ -6,6 +6,7 @@ export const otherwhereIvWillowBend = {
   slug: "otherwhere-iv-willow-bend",
   title: "Willow Bend",
   world: "world/beware-of-chicken",
+  within: "place/otherwhere-iv-azure-hills",
   exits: [
     {
       to: "place/otherwhere-iv-upstream-woods",

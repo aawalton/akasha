@@ -6,6 +6,7 @@ export const otherwhereIvLanqiao = {
   slug: "otherwhere-iv-lanqiao",
   title: "Lanqiao",
   world: "world/beware-of-chicken",
+  within: "place/otherwhere-iv-azure-hills",
   exits: [
     {
       to: "place/otherwhere-iv-ox-back-ridge",

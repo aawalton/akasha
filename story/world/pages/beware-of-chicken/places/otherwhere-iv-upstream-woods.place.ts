@@ -6,6 +6,7 @@ export const otherwhereIvUpstreamWoods = {
   slug: "otherwhere-iv-upstream-woods",
   title: "The Woods Above the Bend",
   world: "world/beware-of-chicken",
+  within: "place/otherwhere-iv-azure-hills",
   exits: [
     {
       to: "place/otherwhere-iv-willow-bend",
