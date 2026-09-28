@@ -15,7 +15,7 @@ import type { Value } from "akasha/page/modules/value-reading/page-value-reading
 
 export type Kept = readonly FileChange[] | { readonly refused: string }
 
-export type Lifted = { readonly values: Value; readonly rest: readonly FileChange[] }
+type Lifted = { readonly values: Value; readonly rest: readonly FileChange[] }
 
 type Paged = { readonly at: string; readonly value: Value }
 
