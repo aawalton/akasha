@@ -23,6 +23,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "At half past five on a Saturday it is quiet: a few people waiting, one man asleep, a cough.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A guard sits by the sliding doors beside a walk-through metal detector.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
