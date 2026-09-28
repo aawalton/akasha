@@ -28,6 +28,10 @@ export const otherwhereIiiPriyaRaman = {
       fact: "She can give her a transit card loaded with twenty dollars and a bag from the clothing closet.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "An Illinois ID needs a birth certificate or other proof Nala cannot give; it is a long road.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
