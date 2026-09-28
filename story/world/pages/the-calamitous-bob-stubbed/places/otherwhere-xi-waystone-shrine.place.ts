@@ -39,5 +39,9 @@ export const otherwhereXiWaystoneShrine = {
       fact: "The hill country here is far from Param and its wars.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The ring's standing stones are grey and lichen-spotted, each taller than a man.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
+    },
   ],
 } as const satisfies Place

@@ -12,5 +12,5 @@ export const otherwhereXi00001 = {
   characters: ["character-player/otherwhere-xi-nala"],
   stepStatus: "step-status/recorders",
   lore: ["lore/otherwhere-xi-nala", "place/otherwhere-xi-waystone-shrine"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
 } as const satisfies StoryTurnPlayed

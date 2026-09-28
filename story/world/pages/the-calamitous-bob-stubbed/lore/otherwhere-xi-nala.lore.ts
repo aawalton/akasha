@@ -62,7 +62,15 @@ export const otherwhereXiNala = {
     },
     {
       fact: "Nala woke inside the Waystone Shrine's ring at dawn on day one.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
+    },
+    {
+      fact: "Her new body answers her a half second late, as if still learning how.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
+    },
+    {
+      fact: "Her hands are small and pale, with a few freckles across the backs, and her feet are small.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
     },
   ],
 } as const satisfies Lore
