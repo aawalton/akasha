@@ -1,7 +1,10 @@
 {"propertySlug":"import","fileName":"world-spell.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/spells/super-supportive-antitargeting-spell.world-spell.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-spell.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/spells/super-supportive-breeze-bearing-leaf.world-spell.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-spell.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/spells/super-supportive-bubble-of-patient-waiting.world-spell.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-spell.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/spells/super-supportive-burrow-of-the-stormtail.world-spell.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-spell.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/spells/super-supportive-crushing-spell.world-spell.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-spell.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/spells/super-supportive-cushioning-spell.world-spell.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-spell.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/spells/super-supportive-fan-spell.world-spell.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-spell.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/spells/super-supportive-feathers-touch.world-spell.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-spell.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/spells/super-supportive-finger-chime.world-spell.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-spell.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/spells/super-supportive-flash-freezing-spell.world-spell.ts","typed":true,"deferred":false}
@@ -24,6 +27,7 @@
 {"propertySlug":"import","fileName":"world-spell.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/spells/super-supportive-light-candle.world-spell.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-spell.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/spells/super-supportive-lighting-picket.world-spell.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-spell.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/spells/super-supportive-luck-trade-wordchain.world-spell.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-spell.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/spells/super-supportive-missing-knight-search.world-spell.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-spell.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/spells/super-supportive-peace-of-mind.world-spell.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-spell.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/spells/super-supportive-purposefulness.world-spell.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-spell.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/spells/super-supportive-revert-to-reading.world-spell.ts","typed":true,"deferred":false}
@@ -40,6 +44,7 @@
 {"propertySlug":"import","fileName":"world-spell.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/spells/super-supportive-spell-of-old-wounds.world-spell.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-spell.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/spells/super-supportive-spell-trace-search.world-spell.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-spell.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/spells/super-supportive-striking-spell.world-spell.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-spell.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/spells/super-supportive-subtlety-spell.world-spell.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-spell.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/spells/super-supportive-summoning-spell.world-spell.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-spell.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/spells/super-supportive-sunlight-spell.world-spell.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-spell.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/spells/super-supportive-surface-extension.world-spell.ts","typed":true,"deferred":false}
