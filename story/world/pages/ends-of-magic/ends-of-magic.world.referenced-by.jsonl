@@ -83,6 +83,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-beatred.lore.ts","id":"01a0e9f8-0f1b-75ab-a3a2-61dbaf073bce"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-binga.lore.ts","id":"01a0e9f8-0f1b-7cea-98e6-bc3e75f1192c"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-birdfolk.lore.ts","id":"01a0e9f3-7322-7b79-aafb-70403eb47d0e"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-bone-obelisk.lore.ts","id":"01a0e9fc-3f03-7081-a89d-69baf751b9ae"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-brox.lore.ts","id":"01a0e9f8-a115-781f-9d47-a549f6ac6723"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-cala-dha-drex.lore.ts","id":"01a0e9f8-a115-7312-9fb0-0ceb82e0901b"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-castlebear.lore.ts","id":"01a0e9f9-9dd6-73ba-9f72-4b08eaf3a6cc"}
@@ -125,6 +126,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-exea-dha-humal.lore.ts","id":"01a0e9fb-2816-7400-a16d-79efb9b83cdf"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-faline.lore.ts","id":"01a0e9fb-2816-76fe-9d56-35d219d261f9"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-fey.lore.ts","id":"01a0e9f4-fc81-750a-8142-745eb9ab1b78"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-flesh-tyrant.lore.ts","id":"01a0e9fc-3f04-7357-a6d6-0f1657dee4f0"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-flying-fish.lore.ts","id":"01a0e9fa-9425-7331-b972-f378b88148ab"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-focus.lore.ts","id":"01a0e9f9-efb3-77e5-b3d9-577d7103ab70"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-foxfolk.lore.ts","id":"01a0e9f4-0047-7744-94f4-6835adf682b9"}
@@ -158,6 +160,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-lich.lore.ts","id":"01a0e9fb-c05e-76dc-bda7-5864850cb0b4"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-liren-vail.lore.ts","id":"01a0e9fb-fb54-7acd-9e5f-5b5a60b21a64"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-litcliff.lore.ts","id":"01a0e9f6-77eb-7452-b057-c789bab5650c"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-living-shadow.lore.ts","id":"01a0e9fc-3f05-7fc7-9015-e94660578d37"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-magic-resistance.lore.ts","id":"01a0e9f7-bb0c-7015-871e-63a818ff0a0f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-magic-resistant-ingredients.lore.ts","id":"01a0e9f9-8feb-76c1-9eab-f235b8a597e8"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-mana.lore.ts","id":"01a0e9f1-9e7b-73c8-94a8-373d7d681b6f"}
@@ -284,6 +287,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-siblings-of-itonia.world-organization.ts","id":"01a0e9f7-12e9-76c5-8fd6-0511a2d76591"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-the-nails.world-organization.ts","id":"01a0e9f4-5851-7b0a-9b2f-f797d786c8fd"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-birdfolk.world-species.ts","id":"01a0e9f3-7323-7d89-88bb-272ffe812118"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-bone-obelisk.world-species.ts","id":"01a0e9fc-3f05-7ff3-bb23-90ccf3cb715c"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-castlebear.world-species.ts","id":"01a0e9f9-9dd8-7046-ad40-1eabf89d0ce9"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-dracolizard.world-species.ts","id":"01a0e9f8-965f-73a7-8a98-e998cbdf9e74"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-dragon.world-species.ts","id":"01a0e9f8-f7c7-713d-82cf-6bdff78309ff"}
@@ -293,6 +297,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-elemental-folk.world-species.ts","id":"01a0e9f4-fc81-7e40-bedd-087cd300061f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-elk-centaur.world-species.ts","id":"01a0e9f4-0048-7a87-818b-ee022b6add5c"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-fey.world-species.ts","id":"01a0e9f4-fc82-74c1-a31a-62ec3d97061a"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-flesh-tyrant.world-species.ts","id":"01a0e9fc-3f05-7584-8397-1b0cff94f4d3"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-flying-fish.world-species.ts","id":"01a0e9fa-9426-78f6-9328-daa185ec11d8"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-foxfolk.world-species.ts","id":"01a0e9f4-0048-7cd7-a813-3a0dd27e6bf2"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-ghoul.world-species.ts","id":"01a0e9f9-9dd8-71b9-b46f-47757f6084cd"}
@@ -307,6 +312,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-knuld.world-species.ts","id":"01a0e9f4-0048-730a-9889-ee95faaf3f46"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-leviathan.world-species.ts","id":"01a0e9fa-0d16-7ba4-92ec-09bdf67d1341"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-lich.world-species.ts","id":"01a0e9fb-c05f-73c3-a08e-906ecd9f7f7f"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-living-shadow.world-species.ts","id":"01a0e9fc-3f05-7cff-9e51-f5324d2fb6f8"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-monster.world-species.ts","id":"01a0e9f8-36f3-7f38-ae84-18bd7bdc7a5d"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-mortal.world-species.ts","id":"01a0e9f6-6b01-79ac-8272-ea841f217da6"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-muckgrabber.world-species.ts","id":"01a0e9f9-9dd8-73e6-9da8-03f7fad5ee22"}
