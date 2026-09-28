@@ -19,7 +19,7 @@ import { temperJewelryType } from "akasha/temper/catalog/gear/temper-jewelry-typ
 import { temperWeaponTrait } from "akasha/temper/catalog/gear/temper-weapon-trait/temper-weapon-trait.page-type.ts"
 import type { MetricEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 
-export type TraitFamily = "armor" | "weapon" | "jewelry"
+type TraitFamily = "armor" | "weapon" | "jewelry"
 
 export interface TraitTemplate<Id extends string = string> {
   readonly id: Id
