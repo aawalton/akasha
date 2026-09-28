@@ -10,7 +10,7 @@ export const theDatingGame00050 = {
   position: 50,
   prose: "txt",
   characters: ["character-other/the-dating-game-aelwyn", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     '"Sounds great. Bye Aelwyn!" I walk back home and get myself some lunch, then go for a walk around my neighborhood again.',
   beats: [
@@ -23,5 +23,5 @@ export const theDatingGame00050 = {
     "Where the street crests, the whole valley opens out below, Utah Lake shining at its far edge.",
   ],
   lore: ["place/the-dating-game-apple-avenue"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
