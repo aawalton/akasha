@@ -93,11 +93,7 @@ export function phraseIn(phrases: WebPhrases | null, slug: string, fills: Fills 
   return filled(wordedIn(phrases, slug).title, fills)
 }
 
-export function phraseDescriptionIn(
-  phrases: WebPhrases | null,
-  slug: string,
-  fills: Fills = {}
-): string {
+function phraseDescriptionIn(phrases: WebPhrases | null, slug: string, fills: Fills = {}): string {
   if (phrases === null) return ""
   const description = wordedIn(phrases, slug).description
   if (description === null) {
