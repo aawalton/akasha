@@ -8,7 +8,7 @@ export const otherwhereViiAshfordRoad = {
   world: "world/god-of-trash",
   facts: [
     {
-      fact: "The Ashford road is a rutted cart road running east from Bramwick west toward the mountain.",
+      fact: "The Ashford road is a rutted cart road running west from Bramwick past Ashford to the mountain.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
