@@ -10,7 +10,7 @@ export const otherwhere00005 = {
   position: 5,
   prose: "txt",
   characters: ["character-player/otherwhere-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "I break the nut in half and offer half to the ape while eating the other half",
   beats: [
     "Nala sits in the palm shade with the nut between her knees to break it open.",
@@ -29,7 +29,6 @@ export const otherwhere00005 = {
     "She holds the other half out toward the ape.",
     "It comes to the edge of the fronds nearest her, but not to her hand; it sits just out of reach.",
     "It shifts its weight forward, reaches halfway, then pulls its hand back to its chest.",
-    "It stays a few feet off, chittering softly, its eyes never leaving the nut.",
   ],
   issues: [
     '"It stays there, a few feet off, chittering softly, its eyes on the nut." - No Prompt',
