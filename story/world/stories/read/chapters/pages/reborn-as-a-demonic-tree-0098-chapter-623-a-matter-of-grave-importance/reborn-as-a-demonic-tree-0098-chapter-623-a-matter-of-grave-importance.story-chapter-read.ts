@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0098Chapter623AMatterOfGraveImportance = {
   id: "01a0e9b3-72b4-7f38-a763-6e262ecec461",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0098-chapter-623-a-matter-of-grave-importance",
+  ownProgress: 2762,
   position: 98,
   publishedAt: "2026-09-28",
   unit: "unit/words",

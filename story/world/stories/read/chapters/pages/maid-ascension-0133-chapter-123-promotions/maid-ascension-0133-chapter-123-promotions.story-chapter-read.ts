@@ -4,6 +4,7 @@ export const maidAscension0133Chapter123Promotions = {
   id: "01a0e9b3-ff97-7049-b8d9-075bdbc50a94",
   type: "page-type/story-chapter-read",
   slug: "maid-ascension-0133-chapter-123-promotions",
+  ownProgress: 1691,
   position: 133,
   publishedAt: "2026-09-28",
   unit: "unit/words",
