@@ -4,6 +4,7 @@ export const justAddMana0158155Book3Chapter54Endings = {
   id: "01a06731-ae66-7000-a46e-3dc6e7a0d326",
   type: "page-type/story-chapter-read",
   slug: "just-add-mana-0158-155-book-3-chapter-54-endings",
+  ownProgress: 4149,
   title: "155 — Book 3, Chapter 54 — Endings",
   story: "story-read/just-add-mana",
   position: 158,

@@ -4,6 +4,7 @@ export const justAddMana0167162Book4Chapter6DivineDomain = {
   id: "01a06731-ae70-7000-b41f-20d6eaf47d92",
   type: "page-type/story-chapter-read",
   slug: "just-add-mana-0167-162-book-4-chapter-6-divine-domain",
+  ownProgress: 3629,
   title: "162 — Book 4, Chapter 6 — Divine Domain",
   story: "story-read/just-add-mana",
   position: 167,

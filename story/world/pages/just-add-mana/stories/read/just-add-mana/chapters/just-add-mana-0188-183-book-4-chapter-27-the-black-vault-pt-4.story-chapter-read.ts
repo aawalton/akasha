@@ -4,6 +4,7 @@ export const justAddMana0188183Book4Chapter27TheBlackVaultPt4 = {
   id: "01a081aa-8086-7a09-8f2a-1c60d3985b74",
   type: "page-type/story-chapter-read",
   slug: "just-add-mana-0188-183-book-4-chapter-27-the-black-vault-pt-4",
+  ownProgress: 3143,
   story: "story-read/just-add-mana",
   position: 188,
   publishedAt: "2026-09-08",

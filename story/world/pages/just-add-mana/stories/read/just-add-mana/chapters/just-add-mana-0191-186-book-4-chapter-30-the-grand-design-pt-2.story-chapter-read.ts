@@ -4,6 +4,7 @@ export const justAddMana0191186Book4Chapter30TheGrandDesignPt2 = {
   id: "01a0a598-d44d-7874-a9c2-0ece03a9870b",
   type: "page-type/story-chapter-read",
   slug: "just-add-mana-0191-186-book-4-chapter-30-the-grand-design-pt-2",
+  ownProgress: 2790,
   position: 191,
   publishedAt: "2026-09-15",
   unit: "unit/words",

@@ -4,6 +4,7 @@ export const justAddMana0155152Book3Chapter51DragonstormPt10 = {
   id: "01a06731-ae61-7000-a3f1-b8b4b1bf017c",
   type: "page-type/story-chapter-read",
   slug: "just-add-mana-0155-152-book-3-chapter-51-dragonstorm-pt-10",
+  ownProgress: 4104,
   title: "152 — Book 3, Chapter 51 — Dragonstorm, Pt 10",
   story: "story-read/just-add-mana",
   position: 155,

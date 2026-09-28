@@ -4,6 +4,7 @@ export const justAddMana0166161Book4Chapter5OverpoweredMagicDuelPt5 = {
   id: "01a06731-ae6f-7000-903e-85024c287891",
   type: "page-type/story-chapter-read",
   slug: "just-add-mana-0166-161-book-4-chapter-5-overpowered-magic-duel-pt-5",
+  ownProgress: 3857,
   title: "161 — Book 4, Chapter 5 — Overpowered Magic Duel, Pt 5",
   story: "story-read/just-add-mana",
   position: 166,

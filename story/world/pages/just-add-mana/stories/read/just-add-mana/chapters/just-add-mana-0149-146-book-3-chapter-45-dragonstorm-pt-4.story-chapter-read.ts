@@ -4,6 +4,7 @@ export const justAddMana0149146Book3Chapter45DragonstormPt4 = {
   id: "01a06731-ae57-7000-8294-610ba31c8ed7",
   type: "page-type/story-chapter-read",
   slug: "just-add-mana-0149-146-book-3-chapter-45-dragonstorm-pt-4",
+  ownProgress: 3138,
   title: "146 — Book 3, Chapter 45 — Dragonstorm, Pt 4",
   story: "story-read/just-add-mana",
   position: 149,

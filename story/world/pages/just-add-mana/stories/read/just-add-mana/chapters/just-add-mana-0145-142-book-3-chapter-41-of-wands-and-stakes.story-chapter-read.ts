@@ -4,6 +4,7 @@ export const justAddMana0145142Book3Chapter41OfWandsAndStakes = {
   id: "01a06731-ae51-7000-a711-719a59b5f9c6",
   type: "page-type/story-chapter-read",
   slug: "just-add-mana-0145-142-book-3-chapter-41-of-wands-and-stakes",
+  ownProgress: 2887,
   title: "142 — Book 3, Chapter 41 — Of Wands and Stakes",
   story: "story-read/just-add-mana",
   position: 145,

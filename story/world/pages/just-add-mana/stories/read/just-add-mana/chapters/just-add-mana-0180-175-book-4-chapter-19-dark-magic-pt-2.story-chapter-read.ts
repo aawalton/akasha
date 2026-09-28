@@ -4,6 +4,7 @@ export const justAddMana0180175Book4Chapter19DarkMagicPt2 = {
   id: "01a06731-ae85-7000-a403-8ac8aee60b4c",
   type: "page-type/story-chapter-read",
   slug: "just-add-mana-0180-175-book-4-chapter-19-dark-magic-pt-2",
+  ownProgress: 2863,
   title: "175 — Book 4, Chapter 19 — Dark Magic, Pt 2",
   story: "story-read/just-add-mana",
   position: 180,

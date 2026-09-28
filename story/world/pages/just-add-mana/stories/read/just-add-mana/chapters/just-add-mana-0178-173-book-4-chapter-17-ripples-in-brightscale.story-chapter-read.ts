@@ -4,6 +4,7 @@ export const justAddMana0178173Book4Chapter17RipplesInBrightscale = {
   id: "01a06731-ae83-7000-b27e-459fa3cc6847",
   type: "page-type/story-chapter-read",
   slug: "just-add-mana-0178-173-book-4-chapter-17-ripples-in-brightscale",
+  ownProgress: 4020,
   title: "173 — Book 4, Chapter 17 — Ripples in Brightscale",
   story: "story-read/just-add-mana",
   position: 178,

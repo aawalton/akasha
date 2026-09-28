@@ -4,6 +4,7 @@ export const justAddMana0160Book3DeletedSceneMagicalFoci = {
   id: "01a06731-ae68-7001-98db-61fc94d9e411",
   type: "page-type/story-chapter-read",
   slug: "just-add-mana-0160-book-3-deleted-scene-magical-foci",
+  ownProgress: 1839,
   title: "Book 3 Deleted Scene — Magical Foci",
   story: "story-read/just-add-mana",
   position: 160,

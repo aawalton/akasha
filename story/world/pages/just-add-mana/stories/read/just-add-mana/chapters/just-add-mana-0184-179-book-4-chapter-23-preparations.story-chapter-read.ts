@@ -4,6 +4,7 @@ export const justAddMana0184179Book4Chapter23Preparations = {
   id: "01a06731-ae8e-7001-b4e4-df1ac1884d1f",
   type: "page-type/story-chapter-read",
   slug: "just-add-mana-0184-179-book-4-chapter-23-preparations",
+  ownProgress: 3664,
   title: "179 — Book 4, Chapter 23 — Preparations",
   story: "story-read/just-add-mana",
   position: 184,

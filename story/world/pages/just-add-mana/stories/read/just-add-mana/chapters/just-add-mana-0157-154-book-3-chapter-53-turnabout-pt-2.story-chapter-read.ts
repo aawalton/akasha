@@ -4,6 +4,7 @@ export const justAddMana0157154Book3Chapter53TurnaboutPt2 = {
   id: "01a06731-ae65-7000-973a-7e1b4cdb9967",
   type: "page-type/story-chapter-read",
   slug: "just-add-mana-0157-154-book-3-chapter-53-turnabout-pt-2",
+  ownProgress: 3366,
   title: "154 — Book 3, Chapter 53 — Turnabout, Pt 2",
   story: "story-read/just-add-mana",
   position: 157,
