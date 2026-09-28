@@ -9,6 +9,10 @@ export const otherwhereVUndead = {
   about: "world-species/otherwhere-v-undead",
   facts: [
     {
+      fact: "Undead are corpses and dead beasts animated by death magic.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "In the Ending of Undeath every corpse rose moments after death; liches rose later.",
       knowers: ["lore-disclosure/game-master"],
     },

@@ -6,5 +6,5 @@ export const otherwhereVHarpy = {
   slug: "otherwhere-v-harpy",
   title: "Harpy",
   world: "world/ends-of-magic",
-  description: "A monster of common curses.",
+  description: "A monster known across Davrar.",
 } as const satisfies WorldSpecies
