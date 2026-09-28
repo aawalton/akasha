@@ -38,6 +38,8 @@ export const storyPlayed = {
     "text-property/chapter-break",
     "text-property/coordinator-agent",
     "instant-property/story-opens-at",
+    "relation-property/cover-reroll",
+    "text-property/cover-reroll-refused",
   ],
   decisions: [
     {
@@ -93,5 +95,17 @@ export const storyPlayed = {
     { pageProperty: "text-property/chapter-break", required: false, many: false },
     { pageProperty: "instant-property/story-opens-at", required: false, many: false },
     { pageProperty: "relation-property/page-domain", required: false, many: false },
+    {
+      pageProperty: "relation-property/cover-reroll",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    {
+      pageProperty: "text-property/cover-reroll-refused",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
   ],
 } as const satisfies PageType

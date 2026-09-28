@@ -3,6 +3,8 @@ import type { PageDomain } from "akasha/domain/properties/page-domain.relation-p
 import type { Story } from "akasha/story/story.page-type.types.ts"
 import type { ChapterBreak } from "akasha/story/world/stories/played/properties/chapter-break.text-property.types.ts"
 import type { CoordinatorAgent } from "akasha/story/world/stories/played/properties/coordinator-agent.text-property.types.ts"
+import type { CoverReroll } from "akasha/story/world/stories/played/properties/cover-reroll.relation-property.types.ts"
+import type { CoverRerollRefused } from "akasha/story/world/stories/played/properties/cover-reroll-refused.text-property.types.ts"
 import type { Panels } from "akasha/story/world/stories/played/properties/panels.multi-relation-property.types.ts"
 import type { StoryOpensAt } from "akasha/story/world/stories/played/properties/story-opens-at.instant-property.types.ts"
 
@@ -13,4 +15,6 @@ export type StoryPlayed = Story & {
   chapterBreak?: ChapterBreak
   opensAt?: StoryOpensAt
   domain?: PageDomain
+  coverReroll?: CoverReroll
+  coverRerollRefused?: CoverRerollRefused
 }

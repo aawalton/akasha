@@ -1,0 +1,1 @@
+export type CoverRerollRefused = string
