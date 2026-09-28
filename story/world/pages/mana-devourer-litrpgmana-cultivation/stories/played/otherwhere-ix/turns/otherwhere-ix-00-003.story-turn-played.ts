@@ -10,7 +10,7 @@ export const otherwhereIx00003 = {
   position: 3,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I don't make any sudden movements, but turn slowly to stay facing it as it circles.",
   beats: [
     "Nala keeps still in her upper body and turns slowly, following the beast round.",
@@ -27,6 +27,6 @@ export const otherwhereIx00003 = {
     "Its blunt head is down and its mouth is open, going for her ankles.",
   ],
   lore: ["lore/otherwhere-ix-shardback", "place/otherwhere-ix-glassgrass-flats"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T15:34:00.000Z",
 } as const satisfies StoryTurnPlayed
