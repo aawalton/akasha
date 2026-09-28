@@ -10,9 +10,11 @@ import {
   metaFor,
   SITE_DOCUMENT,
 } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
+import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { MarkdownRenderer } from "akasha/page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx"
 import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
+import { INNWORLD_APP } from "akasha/product/wandering-inn-wiki/web/modules/innworld-app-id/innworld-app-id.module.code.ts"
 import type { ShownType } from "akasha/product/wandering-inn-wiki/web/modules/innworld-reading/innworld-reading.module.code.ts"
 import {
   type Shelved,
@@ -23,14 +25,50 @@ import { Link, useRouteLoaderData } from "react-router"
 
 const FRAME = "routes/_app-layout"
 
-const READ = [SITE_DOCUMENT]
+const NAV = "nav"
+
+const VIEW = "view"
+
+const READ = [SITE_DOCUMENT, VIEW]
+
+const VIEWS_AT_ONCE = 500
+
+type Row = Readonly<Record<string, unknown>>
 
 type FrameData = {
   readonly shownTypes: readonly ShownType[]
-  readonly navItems: readonly Readonly<Record<string, unknown>>[]
+  readonly navItems: readonly Row[]
 }
 
-export const loader = loaderAt(namedAs("web-app", innworldWeb.slug, null), "")
+type HomeData = DocumentData & { readonly views: readonly Row[] }
+
+const documentRead = loaderAt(namedAs("web-app", innworldWeb.slug, null), "")
+
+async function viewsOfNavs(): Promise<readonly Row[]> {
+  const navs = await getPages({
+    pageTypeSlug: NAV,
+    where: [{ key: "app", eq: INNWORLD_APP }],
+    select: ["slug"],
+    limit: VIEWS_AT_ONCE,
+  })
+  const named: string[] = []
+  for (const nav of navs.rows) {
+    if (typeof nav["slug"] === "string") named.push(namedAs(NAV, nav["slug"], null))
+  }
+  if (named.length === 0) return []
+  const views = await getPages({
+    pageTypeSlug: VIEW,
+    where: [{ key: NAV, in: named }],
+    select: ["nav", "pageType", "viewPlace"],
+    limit: VIEWS_AT_ONCE,
+  })
+  return views.rows
+}
+
+export async function loader(): Promise<HomeData> {
+  const [site, views] = await Promise.all([documentRead(), viewsOfNavs()])
+  return { ...site, views }
+}
 
 export const meta = metaFor(null)
 
@@ -50,12 +88,16 @@ function Entry({ one }: { one: Shelved }) {
   )
 }
 
-export default function InnworldHome({ loaderData: { document } }: { loaderData: DocumentData }) {
+export default function InnworldHome({
+  loaderData: { document, views },
+}: {
+  loaderData: HomeData
+}) {
   useLoaderFollowing(READ)
   const loaderData = useRouteLoaderData<FrameData>(FRAME)
   const shelves = useMemo(
-    () => shelvesOf(loaderData?.navItems ?? [], loaderData?.shownTypes ?? []),
-    [loaderData]
+    () => shelvesOf(loaderData?.navItems ?? [], loaderData?.shownTypes ?? [], views),
+    [loaderData, views]
   )
   return (
     <PageLayout>

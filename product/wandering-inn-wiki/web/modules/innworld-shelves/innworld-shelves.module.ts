@@ -28,5 +28,10 @@ export const innworldShelves = {
       decisionKind: "decision-kind/departure",
       statement: "An entry states the definition of the page type its link reaches.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An item leading nowhere of its own links its nav page and reaches the type its first view lists.",
+    },
   ],
 } as const satisfies Module

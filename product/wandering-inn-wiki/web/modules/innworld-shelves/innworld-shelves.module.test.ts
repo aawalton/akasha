@@ -5,6 +5,8 @@ import { innworldMiracles as MIRACLES } from "akasha/page/nav/pages/innworld-mir
 import { innworldPowers as POWERS } from "akasha/page/nav/pages/innworld-powers.nav.ts"
 import { innworldSongs as SONGS } from "akasha/page/nav/pages/innworld-songs.nav.ts"
 import { innworldSpells as SPELLS } from "akasha/page/nav/pages/innworld-spells.nav.ts"
+import { charactersAlphabetical as CHARACTERS_ALPHABETICAL } from "akasha/page/view/pages/characters-alphabetical.view.ts"
+import { charactersMostSeen as CHARACTERS_MOST_SEEN } from "akasha/page/view/pages/characters-most-seen.view.ts"
 import { shelvesOf } from "akasha/product/wandering-inn-wiki/web/modules/innworld-shelves/innworld-shelves.module.code.ts"
 
 const EMPTY = {
@@ -20,29 +22,46 @@ const TYPES = [
   { slug: "world-song", definition: null },
 ]
 
+const VIEWED = {
+  id: CHARACTERS.id,
+  slug: CHARACTERS.slug,
+  title: CHARACTERS.title,
+  icon: CHARACTERS.icon,
+  navPlace: CHARACTERS.navPlace,
+}
+
+const VIEWS = [CHARACTERS_ALPHABETICAL, CHARACTERS_MOST_SEEN]
+
 test("the loose items come first in their places, and Home is left off", () => {
-  const [loose] = shelvesOf([SPELLS, HOME, CHARACTERS], TYPES)
+  const [loose] = shelvesOf([SPELLS, HOME, CHARACTERS], TYPES, [])
   expect(loose?.heading).toBeNull()
   expect(loose?.under.map((one) => one.label)).toEqual(["Characters", "Spells"])
 })
 
 test("each section is a shelf holding the items under it in their places", () => {
-  const shelves = shelvesOf([SONGS, POWERS, MIRACLES, CHARACTERS], TYPES)
+  const shelves = shelvesOf([SONGS, POWERS, MIRACLES, CHARACTERS], TYPES, [])
   expect(shelves.map((shelf) => shelf.heading)).toEqual([null, "Powers"])
-  expect(shelves[1]?.under.map((one) => one.href)).toEqual(["/world-miracle", "/world-song"])
+  expect(shelves[1]?.under.map((one) => one.label)).toEqual(["Miracles", "Songs"])
 })
 
 test("an entry carries its icon and the definition of the type its link reaches", () => {
-  const [loose] = shelvesOf([CHARACTERS, SPELLS], TYPES)
+  const [loose] = shelvesOf([CHARACTERS, SPELLS], TYPES, [])
+  expect(loose?.under[0]?.label).toBe("Characters")
+  expect(loose?.under[0]?.icon).toBe("users")
+  expect(loose?.under[0]?.definition).toBe("a person in the story")
+  expect(loose?.under[1]?.definition).toBeNull()
+})
+
+test("an item leading nowhere of its own links its nav page and defines the type its first view lists", () => {
+  const [loose] = shelvesOf([VIEWED], TYPES, VIEWS)
   expect(loose?.under[0]).toEqual({
-    href: "/world-character",
+    href: "/nav/innworld-characters-d167257b",
     label: "Characters",
     icon: "users",
     definition: "a person in the story",
   })
-  expect(loose?.under[1]?.definition).toBeNull()
 })
 
 test("a section holding nothing sets out no shelf", () => {
-  expect(shelvesOf([EMPTY, CHARACTERS], TYPES).map((shelf) => shelf.heading)).toEqual([null])
+  expect(shelvesOf([EMPTY, CHARACTERS], TYPES, []).map((shelf) => shelf.heading)).toEqual([null])
 })

@@ -24,6 +24,7 @@
 {"propertySlug":"import","fileName":"page-href.module.code.ts","path":"page/ui/component/modules/view-page-content/view-page-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-href.module.code.ts","path":"page/ui/component/modules/view-tab-content-href/view-tab-content-href.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-href.module.code.ts","path":"page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-href.module.code.ts","path":"product/wandering-inn-wiki/web/modules/innworld-shelves/innworld-shelves.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-href.module.code.ts","path":"product/wandering-inn-wiki/web/routes/innworld-nav-view/innworld-nav-view.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-href.module.code.ts","path":"product/wandering-inn-wiki/web/routes/innworld-page-detail/innworld-page-detail.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-href.module.code.ts","path":"story/ui/modules/client-session/client-session.module.code.ts","typed":false,"deferred":false}
