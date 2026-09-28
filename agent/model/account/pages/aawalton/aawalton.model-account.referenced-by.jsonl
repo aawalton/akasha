@@ -2,5 +2,4 @@
 {"propertySlug":"import","fileName":"aawalton.model-account.ts","path":"agent/seat/launching/seat-launching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"aawalton.model-account.ts","path":"agent/seat/modules/akasha-read/seat-akasha-read.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"aawalton.model-account.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.test.ts","typed":false,"deferred":false}
-{"propertySlug":"registration-account","path":"agent/seat/pages/mari-writer-the-dating-game/mari-writer-the-dating-game.seat.ts","id":"01a0e30c-45d3-7000-bb99-87931d138c61"}
 {"propertySlug":"registration-account","path":"agent/seat/pages/nimue/nimue.seat.ts","id":"01a0de5b-9a31-7000-a974-c87dda1d5a73"}
