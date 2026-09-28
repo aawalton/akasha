@@ -68,12 +68,12 @@ export const otherwhereMainHall = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "The Check-in Counter shows as Check-in Counter, Administrator Access Only, 20% Operational.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "At 75 power the Counter's carved trees glow, and its desk lights for the Librarian's hand.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      fact: "The Counter's carved trees glow gold, and a hand-shaped patch of light waits on its desk.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "Restored, the Counter shows as Check-in Counter, Operational, Administrator: Nala.",
