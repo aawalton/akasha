@@ -34,4 +34,5 @@ export const theDatingGame00030 = {
     "She lifts the lantern a little, so its light falls warm across his face.",
     '"This one," she says gently. "Right now. How is he?"',
   ],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
