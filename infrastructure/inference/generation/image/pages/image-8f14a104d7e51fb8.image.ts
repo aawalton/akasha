@@ -4,6 +4,8 @@ export const image8f14a104d7e51fb8 = {
   id: "01a0e9ec-2645-795b-85e2-6a907ce58e79",
   type: "page-type/image",
   slug: "image-8f14a104d7e51fb8",
+  title: "Daisies Woven Through Her Braid",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
