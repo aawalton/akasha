@@ -97,4 +97,5 @@ export const otherwhereViNala = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
   ],
+  secrets: "jsonl",
 } as const satisfies Lore
