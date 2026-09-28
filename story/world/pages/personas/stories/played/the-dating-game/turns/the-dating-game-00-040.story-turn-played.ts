@@ -29,4 +29,5 @@ export const theDatingGame00040 = {
     "She lifts the phone off the tripod and turns it around on him, still recording.",
   ],
   lore: ["lore/the-dating-game-aelwyn", "place/the-dating-game-rock-canyon"],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
