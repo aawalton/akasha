@@ -5,7 +5,7 @@ export const storyRecorderInstructions = {
   type: "page-type/file-property",
   slug: "story-recorder-instructions",
   propertySlug: "instructions",
-  definition: "what a story recorder's agent does with a turn's prose",
+  definition: "what a story recorder's agent does with the prose of a turn or chapter",
   extensions: ["md"],
   decisions: [
     {
