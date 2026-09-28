@@ -122,6 +122,15 @@ test("a line naming the withheld page's path, or none of its prose, is kept", ()
   expect(heldIn("the ferryman crossed the river at dawn", scrubber)).toBe(false)
 })
 
+test("a file path lends no words, so a told page's path sharing withheld prose is kept", () => {
+  const scrubber = scrubberOf(sealedWorld())
+  const at = "story/world/pages/held/places/held-the-drowned-bell-tolls.place.ts"
+  expect(heldIn(`${at} — the whole file follows, 12 lines`, scrubber)).toBe(false)
+  expect(heldIn(`  ${at}`, scrubber)).toBe(false)
+  expect(heldIn(`at ${at}: the drowned bell tolls`, scrubber)).toBe(true)
+  expect(heldIn('place: "place/the-drowned-bell-tolls"', scrubber)).toBe(true)
+})
+
 const OPEN_AT = "story/world/pages/held/lore/open.lore.ts"
 
 const TOLD = "The ferryman remembers every crossing he has made"

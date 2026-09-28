@@ -60,6 +60,10 @@ export const loreScrubbing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A file path on a line lends no words to be judged.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A call that left a line out says how many, and names nothing from the page.",
     },
     {

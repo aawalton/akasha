@@ -58,6 +58,8 @@ const SPACED = /\s/
 
 const APART = /[^\p{L}\p{N}]+/u
 
+const FILE_PATH = /(?:[\w.@~-]+\/)+[\w.@~-]*\.[\p{L}\p{N}]+/gu
+
 const NEWLINE = "\n"
 
 const SIGNALS: readonly NodeJS.Signals[] = ["SIGINT", "SIGTERM", "SIGHUP"]
@@ -167,7 +169,7 @@ export function scrubberFor(root: string, agentId: string | null): Scrubber | nu
 }
 
 export function heldIn(line: string, scrubber: Scrubber): boolean {
-  const words = wordsOf(line)
+  const words = wordsOf(line.replace(FILE_PATH, " "))
   for (const [length, held] of scrubber.runs) {
     for (let at = 0; at + length <= words.length; at++) {
       if (held.has(words.slice(at, at + length).join(" "))) return true
