@@ -19,6 +19,7 @@ import { width } from "akasha/command/argument/pages/width.argument.ts"
 import { refusedBy, told } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { browserScreenshot as page } from "akasha/command/pages/browser/screenshot/browser-screenshot.command.ts"
+import { parsePageHrefParam } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import type { Request } from "playwright-core"
 
 const TAKES = [
@@ -41,6 +42,8 @@ const URL_SAID = url.said
 const PATH_SAID = pathArgument.said
 
 const SHAPED_ORIGIN = "`https://alanwalton.com`"
+
+const NOT_FOUND = 404
 
 const LOCAL = /^https?:\/\/localhost|^https?:\/\/127\.0\.0\.1/
 
@@ -130,7 +133,7 @@ type Settling = {
   readonly timeout: number
 }
 
-async function settled(tab: Session["page"], at: string, wanted: Settling): Promise<undefined> {
+async function settled(tab: Session["page"], at: string, wanted: Settling): Promise<number> {
   const timeout = wanted.timeout
   const traffic = await watched(tab)
   let ranOut = false
@@ -173,7 +176,14 @@ async function settled(tab: Session["page"], at: string, wanted: Settling): Prom
       .catch(() => undefined)
   }
   if (!ranOut) await quieted(tab, traffic, timeout)
-  return undefined
+  return status
+}
+
+function unsuffixed(path: string): string | null {
+  const parts = (path.split(/[?#]/)[0] ?? "").split("/").filter((one) => one !== "")
+  const last = parts[1]
+  if (parts.length !== 2 || last === undefined) return null
+  return parsePageHrefParam(last) === null ? last : null
 }
 
 function waited(ms: number): Promise<undefined> {
@@ -249,12 +259,20 @@ export async function browserScreenshot(argv: readonly string[], given: Given): 
   try {
     await mkdir(dirname(written), { recursive: true })
     await session.page.setViewportSize({ width: taken.width, height: taken.height })
-    await settled(session.page, at, {
+    const status = await settled(session.page, at, {
       rootSelector: taken.rootSelector,
       hydrationSelector: taken.hydrationSelector,
       signInPath: taken.signInPath,
       timeout: taken.timeoutMs,
     })
+    const bare = status === NOT_FOUND ? unsuffixed(taken.path) : null
+    if (bare !== null) {
+      return refusedBy([
+        `\`${taken.path}\` answered ${NOT_FOUND}: a page's path is ` +
+          "`/<page type>/<slug>-<last 8 of the page's id>`, as " +
+          `\`/story-played/otherwhere-dc918f7d\` is, and \`${bare}\` ends in no id`,
+      ])
+    }
     if (taken.expandPanels) await opened(session.page)
     await session.page.screenshot({ path: written, fullPage: taken.fullPage })
     return told([written])

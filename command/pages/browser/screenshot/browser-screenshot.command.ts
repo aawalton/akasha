@@ -23,6 +23,14 @@ export const browserScreenshot = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A page's path is `/<page type>/<slug>-<last 8 of the page's id>`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page's path answering 404 with no id at its end is refused rather than shot.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The shot is taken once the render has settled rather than on the first paint.",
     },
     {
