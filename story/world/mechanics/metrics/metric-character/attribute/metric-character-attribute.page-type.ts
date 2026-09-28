@@ -38,6 +38,7 @@ export const metricCharacterAttribute = {
     "page-type/otherwhere-viii-control",
     "page-type/otherwhere-viii-glyph-fluency",
     "page-type/otherwhere-viii-fluency",
+    "page-type/otherwhere-viii-notice",
     "page-type/otherwhere-vi-stat",
   ],
 
