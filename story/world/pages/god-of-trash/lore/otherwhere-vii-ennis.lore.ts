@@ -161,6 +161,10 @@ export const otherwhereViiEnnis = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Ennis would point her to Aldo Reeve's barn, but won't vouch for a stranger he met an hour ago.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The carter offered Nala bread, cheese and the ride to Ashford, no coin, to sort one sack clean.",
       knowers: [
         "lore-disclosure/game-master",
