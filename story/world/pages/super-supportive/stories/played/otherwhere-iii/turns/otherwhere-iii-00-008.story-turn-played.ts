@@ -10,7 +10,7 @@ export const otherwhereIii00008 = {
   position: 8,
   prose: "txt",
   characters: ["character-player/otherwhere-iii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     '"Sorry, I meant 2016." I say with a laugh. "\'86 was my mom\'s birth year. I guess I filled that out in one too many forms last year when she passed. My brain isn\'t braining too well after all that cold."',
   beats: [
@@ -31,6 +31,6 @@ export const otherwhereIii00008 = {
     "A man sleeps across three chairs; somewhere down the row, someone coughs.",
   ],
   lore: ["place/otherwhere-iii-uptown-memorial-er"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2037-01-31T05:14:00.000Z",
 } as const satisfies StoryTurnPlayed
