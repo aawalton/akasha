@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"dice-reading.module.code.ts","path":"story/world/mechanics/modules/dice-reading/dice-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"dice-reading.module.code.ts","path":"story/world/mechanics/modules/dice-throwing/dice-throwing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"dice-reading.module.code.ts","path":"story/world/mechanics/modules/strike-resolution/strike-resolution.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"dice-reading.module.code.ts","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-action-check.world-check.settling.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"dice-reading.module.code.ts","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/checks/otherwhere-action-check.world-check.settling.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"dice-reading.module.code.ts","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/checks/otherwhere-action-check.world-check.settling.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"dice-reading.module.code.ts","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/checks/otherwhere-harm.world-check.settling.code.ts","typed":true,"deferred":false}
