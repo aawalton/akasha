@@ -10,7 +10,7 @@ export const otherwhereIv00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "A start walking toward the village, keeping my eyes and ears open for signs of danger",
   beats: [
     "Nala sets off barefoot down the cart track on the river's left bank, eyes and ears open.",
@@ -42,11 +42,15 @@ export const otherwhereIv00002 = {
     "The hoe comes down to his side.",
     '"Heavens and earth," he says. "What are you?"',
   ],
+  issues: [
+    '"nobody in the hills has seen" - What It Is',
+    '"long enough on her to reach mid-thigh" - What It Is',
+  ],
   lore: [
     "place/otherwhere-iv-three-stones-village",
     "lore/otherwhere-iv-three-stones-folk",
     "place/otherwhere-iv-willow-bend",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T06:42:00.000Z",
 } as const satisfies StoryTurnPlayed
