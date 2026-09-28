@@ -10,7 +10,7 @@ export const otherwhereV00003 = {
   position: 3,
   prose: "txt",
   characters: ["character-player/otherwhere-v-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "**Okay, no help yet, but if I survive, l get something. Spring gives fresh water as good a place to start as any. Spiral search pattern outward, learn what is near by, eyes peeled for danger. Pay close attention to everything, maybe I can get an inspect skill.** Plan in place, I put it into motion, slowly circling outward from the spring to find opportunities or threats in the immediate area.",
   beats: [
@@ -45,8 +45,11 @@ export const otherwhereV00003 = {
     "It swerves off a stride short of her with a hiss, and is gone into the black.",
     "The ferns where it vanished shiver, then are still.",
   ],
-  issues: ['"The ferns where it went shiver, then go still." - Leave It Open'],
+  issues: [
+    '"The ferns where it went shiver, then go still." - Leave It Open',
+    '"The ticking goes on in the ferns around you" - it hushes in a patch around the circling gloamcat',
+  ],
   lore: ["place/otherwhere-v-fern-hollow", "lore/otherwhere-v-gloamcat"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T18:58:00.000Z",
 } as const satisfies StoryTurnPlayed
