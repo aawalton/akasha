@@ -38,7 +38,7 @@ export const otherwhereVFernHollow = {
     },
     {
       fact: "Faint green lights drift under the canopy at dusk, and the ferns glow where they touch.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: "The brook runs down toward a woodcutters' track and, beyond it, a river valley.",
@@ -91,6 +91,14 @@ export const otherwhereVFernHollow = {
     {
       fact: "The hollow is warm by day in early autumn and falls near freezing before dawn.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The ticking in the hollow's ferns falls quiet at a voice, then starts up again after a while.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+    },
+    {
+      fact: "Three rising whistled notes sound far off around the hollow toward dusk, and are answered.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
   ],
 } as const satisfies Place

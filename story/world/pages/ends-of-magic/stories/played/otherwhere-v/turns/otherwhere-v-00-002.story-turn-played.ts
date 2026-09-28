@@ -11,7 +11,7 @@ export const otherwhereV00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-v-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Okay…isekai protocol. System? Status? Davrar? Davrar…I remember that name. Nathan, have you merged with the system yet? If so, could you send me some help? I know you can and wouldn’t want me to go through what you did.”",
   beats: [
@@ -65,5 +65,5 @@ export const otherwhereV00002 = {
   ],
   lore: ["lore/otherwhere-v-nala", "place/otherwhere-v-fern-hollow", "lore/otherwhere-v-gloamcat"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture", "story-recorder/memory"],
 } as const satisfies StoryTurnPlayed

@@ -102,79 +102,79 @@ export const otherwhereVNala = {
     },
     {
       fact: 'It opens: "Davrar has recognized you, Nala."',
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: 'Next: "You have become fully integrated into Davrar, and are ready to begin!"',
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: 'Next: "As you have no Talents, classes or skills despite being of mature age,',
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: '...Davrar has deemed you to be at a Disadvantage."',
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: 'Next: "Therefore, Davrar will provide more explanations than usual, and your class,',
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: "...Talent and skill gain and progression will be accelerated until you are",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: '...no longer at a Disadvantage."',
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: 'Next: "Davrar is here to help you survive and prosper. It will offer you Talents',
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: "...and utility skills according to your innate talents and abilities,",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: '...and allow you to choose a class to suit your deeds."',
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: 'Next: "Talents and utility skills can develop every 10 ranks, but require Insight to do so."',
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: 'Next: "Each class will grant different and unique class skills according to the theme',
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: '...of the class."',
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: 'Next: "To unlock classes, reach level 9 and choose from the presented list.',
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: "...Classes develop at levels 27, 81, 243 and so on. There are ways to acquire more",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: '...than one class; good luck discovering them!"',
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: 'Next: "To level up, overcome challenges. The more dire the challenge, the more you',
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: '...will be rewarded."',
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: 'It closes: "Davrar hopes you will survive and prosper."',
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: "Each line of a Davrar box is its own paragraph.",
@@ -216,10 +216,7 @@ export const otherwhereVNala = {
       fact: "...less effect on you, and weaker magical items degrade when in prolonged contact",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: '...with you" (it ends with no full stop).',
-      knowers: ["lore-disclosure/game-master"],
-    },
+    { fact: '...with you" (it ends with no full stop).', knowers: ["lore-disclosure/game-master"] },
     {
       fact: "A pending Talent waits for her to accept or refuse it, with no time pressure.",
       knowers: ["lore-disclosure/game-master"],
