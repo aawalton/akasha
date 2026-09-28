@@ -4,13 +4,14 @@ export const otherwhere00052 = {
   id: "01a0e5eb-3e3c-7f6a-941c-d758ad281f0b",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-052",
+  cover: "image/image-d72ab21d539547d7",
   ownLength: 150,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 52,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "I relax into the hot water and let the stress of almost dying multiple times melt away. Once I feel relaxed, I clean myself thoroughly, making sure the salt and honey are washed out of all of the hard to reach places. Once I’m clean, I finally have the time and space to be curious. I’ve never been a girl before after all, so I experiment, touching myself in different ways, masturbating until I reach a climax.",
   beats: [
@@ -27,5 +28,5 @@ export const otherwhere00052 = {
   issues: ['"Afterward you lie boneless in water gone lukewarm" - Leave It Open'],
   lore: ["lore/otherwhere-links"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
