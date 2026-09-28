@@ -17,9 +17,9 @@ const PASSIVE = `${temperSkillType.slug}/${passive.slug}`
 
 const ULTIMATE = `${temperSkillType.slug}/${ultimate.slug}`
 
-export type PlayerSkillLine = SkillLinePage
+type PlayerSkillLine = SkillLinePage
 
-export type MorphableDetail = {
+type MorphableDetail = {
   baseName: string
   morph1Name: string
   morph2Name: string
@@ -29,7 +29,7 @@ export type MorphableDetail = {
 
 type Group = MorphableDetail & { line: string; hasBase: boolean; order: number }
 
-export type DetailsByLine = { [esoSkillLineId: number]: readonly MorphableDetail[] | undefined }
+type DetailsByLine = { [esoSkillLineId: number]: readonly MorphableDetail[] | undefined }
 
 type Places = { [esoSkillLineId: number]: number | undefined }
 
