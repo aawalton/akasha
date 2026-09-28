@@ -36,6 +36,26 @@ export const otherwhereIxGlassgrassFlats = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The stunted black-barked trees of the Flats are tinleaf; their leaves glint like tin.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tinleaf grows only where water lies near the surface; a hand's depth of digging finds seep.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Glassgrass rings with every wind, so anything moving against the wind shows by its sound.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Shardbacks are the commonest beast of the Flats by day.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Days on the Flats are warm and dry in this season; nights turn cold fast under the clear sky.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Stunted black-barked trees with leaves glinting like metal stand alone here and there on the Flats.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
