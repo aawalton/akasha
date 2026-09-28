@@ -23,4 +23,5 @@ export const otherwhere00046 = {
     "Far back in the gloom, the worm is chewing again.",
   ],
   lore: ["place/otherwhere-hall-back"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
