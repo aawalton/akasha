@@ -3962,6 +3962,7 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/super-supportive/stories/played/otherwhere-iii/mechanics/checks/otherwhere-iii-time-passing.world-check.ts","id":"01a0e9e1-aa60-7dc6-98ef-ea0fbbd0edaa"}
 {"propertySlug":"decision-kind","path":"story/world/pages/the-beholder/mechanics/ranks/tier/the-beholder-tier.page-type.ts","id":"01a0deed-aa86-70a1-94ba-361ba920f093"}
 {"propertySlug":"decision-kind","path":"story/world/pages/the-beholder/stories/written/the-beholder/mechanics/metrics/attributes/the-beholder-attribute.page-type.ts","id":"01a0deec-7455-7d2c-a9a6-9fa1a5ad06e0"}
+{"propertySlug":"decision-kind","path":"story/world/pages/the-calamitous-bob-stubbed/stories/played/otherwhere-xi/mechanics/checks/otherwhere-xi-needs.world-check.ts","id":"01a0ea6c-e6a7-7e95-8c3b-933b7870992d"}
 {"propertySlug":"decision-kind","path":"story/world/pages/the-calamitous-bob-stubbed/stories/played/otherwhere-xi/mechanics/checks/otherwhere-xi-time-passing.world-check.ts","id":"01a0ea6b-815f-7fff-aab6-0c2e2daf9d12"}
 {"propertySlug":"decision-kind","path":"story/world/pages/tower-of-nimue/stories/written/tower-of-nimue/mechanics/metrics/attributes/tower-of-nimue-attribute.page-type.ts","id":"01a0dee9-5494-73ec-b731-6b43baa9beea"}
 {"propertySlug":"decision-kind","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/checks/otherwhere-x-action-check.world-check.ts","id":"01a0ea68-7f39-750d-ae02-962ac3d67336"}
