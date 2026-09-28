@@ -338,7 +338,11 @@ export const otherwhereMainHall = {
     },
     {
       fact: "When the Library asked Nala to sync again, a low hum rose through the hall from the core.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
   ],
   secrets: "jsonl",

@@ -49,7 +49,7 @@ export const otherwhereUniverse = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The Library is in Emergency Power Mode and will vanish if its power runs out.",
+      fact: "The Library will vanish if its power runs out.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -282,7 +282,11 @@ export const otherwhereUniverse = {
     },
     {
       fact: "Nala's third sync brings her to connection 3, and her interface then shows the Library's tasks.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "Nala's third sync brings a vision of the Counter long ago, busy with patrons of many kinds.",
@@ -295,10 +299,6 @@ export const otherwhereUniverse = {
     {
       fact: "With the Counter restored, the Library sets its next task: Reopen the Library, serve a patron.",
       knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
-    },
-    {
-      fact: "Nala's next sync will show her what the Library wants of her next, as tasks in its words.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],
   secrets: "jsonl",
