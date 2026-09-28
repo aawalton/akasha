@@ -21,6 +21,7 @@ export const storyPlayed = {
     "module/action-bar",
     "module/action-bar-sending",
     "module/action-bar-state",
+    "module/cover-rerolling",
     "module/played-beside",
     "module/played-layout",
     "module/player-beside",

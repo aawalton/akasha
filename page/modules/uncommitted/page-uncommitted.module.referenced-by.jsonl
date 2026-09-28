@@ -54,5 +54,6 @@
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"persona/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"persona/modules/reading/persona-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"persona/point/modules/persona-points-keeping/persona-points-keeping.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"story/world/stories/played/modules/cover-rerolling/cover-rerolling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-uncommitted.module.test-fixtures.ts","path":"page/modules/uncommitted/page-uncommitted.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

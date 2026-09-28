@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"image-making.module.code.ts","path":"command/pages/inference/zimage/inference-zimage.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"image-making.module.code.ts","path":"infrastructure/inference/generation/image/modules/making/image-making.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"image-making.module.code.ts","path":"infrastructure/inference/run/modules/persist-image/persist-image.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"image-making.module.code.ts","path":"story/world/stories/played/modules/cover-rerolling/cover-rerolling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/inference/generation/image/image.page-type.ts","id":"019f14c3-27e4-7b72-bc0c-6e12bbd8577a"}
