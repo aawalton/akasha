@@ -290,11 +290,13 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-yipalck-research-facility.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/tower-of-nimue/places/tower-of-nimue-floor-1-the-charnel-den.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/tower-of-nimue/places/tower-of-nimue-the-tower.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/places/otherwhere-vi-brackenford.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/places/otherwhere-vi-greypine-weald.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/places/otherwhere-vi-howling-stones.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/places/otherwhere-vi-kestrel-tower.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/places/otherwhere-vi-moss-hollow.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/places/otherwhere-vi-sallow-mire.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/places/otherwhere-vi-wenmarch.place.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/lore/lore.page-type.ts","id":"01a0d41b-785e-7bb8-b6fd-3c32ff5a377a"}
 {"propertySlug":"target-page-type","path":"story/lore/place/properties/place-exit-to.relation-property.ts","id":"01a0d42f-0d04-7c2f-89be-4acc677086c6"}
 {"propertySlug":"target-page-type","path":"story/lore/place/properties/place-within.relation-property.ts","id":"01a0d42e-f4fd-7cd3-9844-8ecb11ed1377"}
