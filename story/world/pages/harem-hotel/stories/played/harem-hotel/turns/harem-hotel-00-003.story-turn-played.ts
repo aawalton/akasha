@@ -42,4 +42,5 @@ export const haremHotel00003 = {
     '"Then do it."',
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
