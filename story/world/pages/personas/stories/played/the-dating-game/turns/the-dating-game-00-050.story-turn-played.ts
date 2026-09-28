@@ -4,13 +4,14 @@ export const theDatingGame00050 = {
   id: "01a0e841-9406-73cd-9d79-6e1229b96c3c",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-050",
+  cover: "image/image-89f197ad07ee4cd2",
   ownLength: 90,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 50,
   prose: "txt",
   characters: ["character-other/the-dating-game-aelwyn", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     '"Sounds great. Bye Aelwyn!" I walk back home and get myself some lunch, then go for a walk around my neighborhood again.',
   beats: [
@@ -24,6 +25,6 @@ export const theDatingGame00050 = {
   ],
   lore: ["place/the-dating-game-apple-avenue"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-27T13:35:00.000Z",
 } as const satisfies StoryTurnPlayed

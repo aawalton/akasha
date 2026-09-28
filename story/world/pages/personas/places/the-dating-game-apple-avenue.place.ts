@@ -19,5 +19,9 @@ export const theDatingGameAppleAvenue = {
       fact: "On Sunday afternoons families in church clothes walk home along the streets near Apple.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "Where the streets near Apple crest, the whole valley opens below, Utah Lake at its far edge.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
 } as const satisfies Place
