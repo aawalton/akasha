@@ -10,7 +10,7 @@ export const otherwhere00069 = {
   position: 69,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action: "**Links, how long until the main floor is cleared at this rate?**",
   beats: [
     "Nala asks Links, silently, how long the golems will take to clear the main level at this pace.",
@@ -20,5 +20,5 @@ export const otherwhere00069 = {
     "By the Counter, the first golem's arm folds back down, empty, and it stoops for the next book.",
   ],
   lore: ["lore/otherwhere-golems"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
