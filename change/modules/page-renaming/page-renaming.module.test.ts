@@ -58,3 +58,22 @@ test("a folder is named against the one page above it, whatever else sits beside
   expect(said.refused).toBe(null)
   expect(movesOf(said)).toEqual([[PART_PAGE, "akasha/sets/page/rename/sets-page-rename.module.ts"]])
 })
+
+const LONE_PAGE = "akasha/kinds/modules/kinds-0001.module.ts"
+
+test("a lone page in the folder named for its type's plural slug keeps that folder", () => {
+  const root = indexedRepo({
+    "akasha/kinds/module.page-type.ts": pageOf({
+      id: rungId("6"),
+      type: `${pageType.slug}/${pageType.slug}`,
+      slug: module.slug,
+      pluralSlug: module.pluralSlug,
+    }),
+    [LONE_PAGE]: pageOf({ id: rungId("7"), type: MODULE_AT, slug: "kinds-0001" }),
+  })
+
+  const said = pageRenamed(ledgerAt(root, textIn(root)), { at: LONE_PAGE, to: "kinds-0001-named" })
+
+  expect(said.refused).toBe(null)
+  expect(movesOf(said)).toEqual([[LONE_PAGE, "akasha/kinds/modules/kinds-0001-named.module.ts"]])
+})

@@ -163,9 +163,20 @@ function namesFolder(world: World, held: Held, folder: string): boolean {
   return strippedOf(held.slug, above) === basename(folder)
 }
 
+const PLURAL_SLUG = "pluralSlug"
+
+function pluralIn(world: World, held: Held): string | null {
+  const address = { pageTypeSlug: PAGE_TYPE, propertySlug: SLUG, value: held.pageTypeSlug }
+  const typeAt = world.index.knownIn().filed(address)[0]?.path
+  const typing = typeAt === undefined ? null : pageIn(world, typeAt)
+  const plural = typing?.[PLURAL_SLUG]
+  return typeof plural === "string" ? plural : null
+}
+
 function landingIn(world: World, held: Held, given: Asked): string {
   const name = `${given.to}.${held.pageTypeSlug}${TYPED}`
   const folder = dirname(given.at)
+  if (basename(folder) === pluralIn(world, held)) return join(folder, name)
   const owns = ownsIn(listingIn(world)(folder), held) || namesFolder(world, held, folder)
   if (!owns) return join(folder, name)
   return join(dirname(folder), foldedAs(world, held, given, folder), name)

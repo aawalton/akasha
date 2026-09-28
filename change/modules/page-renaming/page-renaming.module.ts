@@ -55,6 +55,11 @@ export const pageRenaming = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A folder named for its page type's plural slug holds that type's pages and is no page's own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A folder named what a page in it calls its folder is that page's folder too.",
     },
     {
