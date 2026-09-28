@@ -45,7 +45,7 @@ export const otherwhereCopperbacks = {
     },
     {
       fact: "Copperbacks chase a fleeing intruder with barks and missiles, but not past the treeline.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
     },
     {
       fact: "A copperback that bluffs slaps branches and bares its teeth; one that means it goes silent.",
