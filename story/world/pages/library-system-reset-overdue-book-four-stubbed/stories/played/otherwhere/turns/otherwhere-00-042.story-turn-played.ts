@@ -10,7 +10,7 @@ export const otherwhere00042 = {
   position: 42,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action: "I run back to the entrance and get another bag and repeat the process.",
   beats: [
     "Nala drags herself up, aching, and runs back to the edge of the gloom for another sack.",
@@ -20,7 +20,7 @@ export const otherwhere00042 = {
     "This time she lets go at once and springs back, and the thrash only clips her on the way.",
     "Even a clip from that bulk jars her whole body; she stumbles, hurting badly now.",
     "The worm convulses, the salt burning deep in its gullet; its grey hide puckers and cracks.",
-    "Its thrashing slows and its huge length sags, but it is still alive.",
+    "Its thrashing slows; it swings its salt-rimmed mouth back toward her and heaves forward.",
   ],
   issues: ['"But it is still alive." - Leave It Open'],
   lore: ["place/otherwhere-hall-back"],
