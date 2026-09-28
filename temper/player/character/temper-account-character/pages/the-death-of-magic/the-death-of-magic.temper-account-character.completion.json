@@ -2164,10 +2164,10 @@
             "name": "Razor Caltrops",
             "rank": 1
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "abilityIndex": 5,
           "isUltimate": false,
-          "atMorph": false
+          "atMorph": true
         },
         "38566": {
           "base": {
@@ -4297,7 +4297,7 @@
         "unlocked": true
       },
       "46": {
-        "name": "Savagery and Prophecy",
+        "name": "Savagery",
         "slot": 3,
         "unlocked": true
       },
@@ -4327,7 +4327,7 @@
         "unlocked": true
       },
       "52": {
-        "name": "Brutality and Sorcery",
+        "name": "Brutality",
         "slot": 3,
         "unlocked": true
       },
@@ -4425,7 +4425,7 @@
   },
   "skillPoints": {
     "total": 364,
-    "unassigned": 62,
+    "unassigned": 61,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 1,
@@ -12136,7 +12136,8 @@
       58,
       59,
       60,
-      61
+      61,
+      62
     ],
     "117": [
       1,
@@ -12395,7 +12396,8 @@
       59,
       60,
       61,
-      62
+      62,
+      63
     ],
     "383": [
       1,
@@ -13114,11 +13116,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-09-27",
+    "date": "2026-09-28",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-09-27",
+    "date": "2026-09-28",
     "seen": [
       5,
       3,
@@ -13133,13 +13135,13 @@
       6,
       2,
       7,
-      4,
       3,
+      4,
       5
     ]
   },
   "inventoryCheck": {
-    "date": "2026-09-27",
-    "misplaced": 11
+    "date": "2026-09-28",
+    "misplaced": 19
   }
 }
