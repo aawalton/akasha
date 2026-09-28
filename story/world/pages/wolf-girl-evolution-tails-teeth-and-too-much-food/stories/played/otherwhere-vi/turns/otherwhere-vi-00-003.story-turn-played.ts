@@ -40,5 +40,5 @@ export const otherwhereVi00003 = {
     "lore/otherwhere-vi-beasts",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
