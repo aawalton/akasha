@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/world/stories/played/modules/played-shell/played-shell.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/world/stories/played/modules/player-beside/player-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/characters/otherwhere-iv-nala.character-player.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/harem-hotel/stories/written/harem-hotel/characters/harem-hotel-alan.character-player.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/characters/otherwhere-nala.character-player.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/characters/otherwhere-alan.character-player.ts","typed":true,"deferred":false}

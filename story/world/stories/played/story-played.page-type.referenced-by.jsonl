@@ -15,6 +15,7 @@
 {"propertySlug":"import","fileName":"story-played.page-type.ts","path":"story/world/stories/played/modules/player-beside/player-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-played.page-type.ts","path":"story/world/stories/played/modules/player-beside/player-beside.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-played.page-type.ts","path":"story/world/stories/played/turns/modules/turn-making/turn-making.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"story-played.page-type.types.ts","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/otherwhere-iv.story-played.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-played.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/otherwhere.story-played.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-played.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/otherwhere-the-library.story-played.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-played.page-type.types.ts","path":"story/world/pages/personas/stories/played/dragons-and-dungeons/dragons-and-dungeons.story-played.ts","typed":true,"deferred":false}
