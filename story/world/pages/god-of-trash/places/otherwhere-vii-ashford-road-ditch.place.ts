@@ -28,7 +28,7 @@ export const otherwhereViiAshfordRoadDitch = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "A cart comes along the road from Ashford most mornings, bound for the market town.",
+      fact: "Carts on the road run between Ashford and Bramwick market, which lies behind the ditch.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
