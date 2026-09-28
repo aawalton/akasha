@@ -143,6 +143,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-colborn.lore.ts","id":"01a0e9f9-005c-719b-ae62-4a3c60b06c73"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-conclave-rules.lore.ts","id":"01a0e9fb-f2e3-7d08-8f2f-98e30aaa554c"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-continuance-council.lore.ts","id":"01a0ea01-0e95-778c-9858-6aa444a4934a"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-cordnettle.lore.ts","id":"01a0ea09-85c6-7d0d-9951-9084ef946be1"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-corvel-anthe.lore.ts","id":"01a0ea05-96c9-76b4-a662-35cbf9fa1b41"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-council-of-eighty-nine.lore.ts","id":"01a0ea01-0e96-73da-bc89-b64b8f9d902e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-customs.lore.ts","id":"01a0ea05-739a-7a87-aa6c-d812dedaaf15"}
@@ -224,6 +225,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-hibril.lore.ts","id":"01a0e9fb-eb72-75cc-a0f4-88bc3b038bd3"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-hillboar.lore.ts","id":"01a0e9f8-965f-7495-958d-f6c01ecc3a04"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-hollis-dunne.lore.ts","id":"01a0ea04-6a58-7976-97a2-0f808dd3266d"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-hollowbell.lore.ts","id":"01a0ea09-85c7-7e0f-bf98-7e67a018ca19"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-horned-bat.lore.ts","id":"01a0e9fc-aa25-754d-9685-ddf82461c58f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-human.lore.ts","id":"01a0e9f2-ad9d-7f6c-9f4f-7b22d446e18a"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-hydra-eel.lore.ts","id":"01a0e9fa-9425-7680-b155-4315af64218f"}
@@ -382,6 +384,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-arena-crystal.world-item.ts","id":"01a0ea04-ac69-7dc4-b3de-2b00050fcb63"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-armatures.world-item.ts","id":"01a0e9f7-1df0-7f0b-9df1-215879eac4c8"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-brookberry.world-item.ts","id":"01a0ea09-2b1f-7a1f-b17a-81122818158a"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-cordnettle.world-item.ts","id":"01a0ea09-85c7-72c9-9c22-546531a08227"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-diplomats-friend.world-item.ts","id":"01a0e9f9-8feb-71d7-8538-2c764af15c39"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-dungeon-cores.world-item.ts","id":"01a0e9fb-c0e7-7a92-b9b6-de78a69ea8ee"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-flesh-tree.world-item.ts","id":"01a0e9ff-cb81-7fbb-a1a7-6c1fdcee017e"}
@@ -389,6 +392,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-gloamberry.world-item.ts","id":"01a0ea09-2b1f-72dd-97bd-c4ca26115580"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-glowfern.world-item.ts","id":"01a0ea08-ddd4-7661-ae17-4d4636212273"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-golem-cores.world-item.ts","id":"01a0e9fa-7a12-719c-9c7a-89bd29abda09"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-hollowbell.world-item.ts","id":"01a0ea09-85c7-7339-8d0e-5b21900483ca"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-last-arrows-of-olita.world-item.ts","id":"01a0ea04-4cd3-70ad-95af-b2fb6c0555f6"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-magic-resistant-ingredients.world-item.ts","id":"01a0e9f9-8feb-7ae0-8f69-b86a6b31798e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-mithril.world-item.ts","id":"01a0ea03-09a4-7da3-9b36-f3dfc1b170e4"}
