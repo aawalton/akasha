@@ -11,8 +11,6 @@ const PAGES_IN = "infrastructure/inference/generation/image/pages"
 
 const ENDINGS = ["png", "jpg"] as const
 
-const SITE = "https://alanwalton.com"
-
 const OPEN = "vscode.open"
 
 export interface ImageLink {
@@ -48,10 +46,6 @@ export function bytesPathOf(
   return undefined
 }
 
-export function bytesUrlOf(slug: string): string {
-  return `${SITE}/api/page-file/image/${slug}/bytes`
-}
-
 export async function openImage(
   editor: Editor,
   slug: string,
@@ -59,8 +53,8 @@ export async function openImage(
 ): Promise<undefined> {
   const at = bytesPathOf(akashaRoot(), slug, fs.existsSync)
   if (at === undefined) {
-    say(`[image-link] ${slug} has no bytes here, so it opens on the site`)
-    await editor.env.openExternal(editor.Uri.parse(bytesUrlOf(slug)))
+    say(`[image-link] ${slug} has no bytes on this workstation`)
+    void editor.window.showWarningMessage(`${slug} has no picture on this workstation.`)
     return undefined
   }
   await editor.commands.executeCommand(OPEN, editor.Uri.file(at), {

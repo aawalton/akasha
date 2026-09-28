@@ -24,7 +24,11 @@ export const terminalImageLink = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An image whose bytes are not on this workstation opens on the site.",
+      statement: "An image whose bytes are not on this workstation is said to have none.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A click never opens the browser.",
     },
     {
       decisionKind: "decision-kind/absence",

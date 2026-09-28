@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import {
   bytesPathOf,
-  bytesUrlOf,
   imageLinksIn,
 } from "akasha/code/editor/extension/modules/terminal-image-link/terminal-image-link.module.code.ts"
 
@@ -34,8 +33,4 @@ test("the bytes are found under whichever ending they were landed with", () => {
 
 test("bytes on no ending answer nothing", () => {
   expect(bytesPathOf("/root", SLUG, () => false)).toBe(undefined)
-})
-
-test("the site serves the bytes by the image's slug", () => {
-  expect(bytesUrlOf(SLUG)).toBe(`https://alanwalton.com/api/page-file/image/${SLUG}/bytes`)
 })
