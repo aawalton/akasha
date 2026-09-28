@@ -10,7 +10,7 @@ import { useMemo } from "react"
 
 const EVERY = 100
 
-export type RuleGoalTitles = ReadonlyMap<string, string>
+type RuleGoalTitles = ReadonlyMap<string, string>
 
 let held: RuleGoalTitles | null = null
 
