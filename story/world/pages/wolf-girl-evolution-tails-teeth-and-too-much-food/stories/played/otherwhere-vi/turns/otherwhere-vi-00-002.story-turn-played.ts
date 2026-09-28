@@ -4,10 +4,13 @@ export const otherwhereVi00002 = {
   id: "01a0ea1f-d870-755a-a4ff-7417b35658e0",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vi-00-002",
+  ownLength: 292,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],
   position: 2,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-vi-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     '"Okay" I say quietly to myself. "This is definitely not Earth. Isekai protocol. System? Status? Character Sheet? Menu?" I focus on myself and see if anything comes up.',
   beats: [
