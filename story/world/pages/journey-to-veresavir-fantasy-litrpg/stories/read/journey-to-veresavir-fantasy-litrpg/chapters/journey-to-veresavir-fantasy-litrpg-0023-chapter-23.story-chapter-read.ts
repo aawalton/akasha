@@ -4,6 +4,7 @@ export const journeyToVeresavirFantasyLitrpg0023Chapter23 = {
   id: "01a06731-ae30-7000-98d5-ebafbec77675",
   type: "page-type/story-chapter-read",
   slug: "journey-to-veresavir-fantasy-litrpg-0023-chapter-23",
+  ownProgress: 3710,
   title: "Chapter 23",
   story: "story-read/journey-to-veresavir-fantasy-litrpg",
   position: 23,
