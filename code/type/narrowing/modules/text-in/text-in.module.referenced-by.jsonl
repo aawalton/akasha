@@ -15,6 +15,7 @@
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/web/modules/tab-icon/tab-icon.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/web/routes/alan-web-api-handover-exchange/alan-web-api-handover-exchange.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/web/routes/alan-web-api-seat-message/alan-web-api-seat-message.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/web/routes/alan-web-page-detail/alan-web-page-detail.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"code/editor/extension/modules/subagent-core/subagent-core.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"code/type/narrowing/modules/text-at/text-at.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"code/type/narrowing/modules/text-in/text-in.module.test.ts","typed":false,"deferred":false}

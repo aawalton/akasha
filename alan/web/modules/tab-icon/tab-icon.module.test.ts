@@ -35,6 +35,15 @@ test("an icon name is carried in the address as one segment", () => {
   )
 })
 
+test("an icon shown live names the tab icon over what any route loaded", () => {
+  expect(tabIconHref([ROOT, STORY], { icon: "swords" })).toBe("/api/icon/swords")
+})
+
+test("a page shown live with no icon shows the site's icon", () => {
+  expect(tabIconHref([ROOT, STORY], { icon: null })).toBe(SITE_ICON)
+  expect(tabIconHref([ROOT, STORY], { icon: "" })).toBe(SITE_ICON)
+})
+
 test("the deepest route naming an icon names the tab icon", () => {
   const outer = { data: { tabIcon: "House" } }
   expect(tabIconHref([ROOT, outer, STORY])).toBe("/api/icon/gamepad-2")

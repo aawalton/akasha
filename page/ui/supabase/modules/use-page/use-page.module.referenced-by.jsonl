@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"use-page.module.code.ts","path":"alan/chess/game/chess-game.page-type.page-component.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-page.module.code.ts","path":"alan/web/modules/use-mark-read-on-end/use-mark-read-on-end.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-page.module.code.ts","path":"alan/web/routes/alan-web-page-detail/alan-web-page-detail.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-page.module.code.ts","path":"infrastructure/inference/generation/image/review/review.page-type.page-component.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-page.module.code.ts","path":"page/ui/component/modules/embedded-view-content/embedded-view-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-page.module.code.ts","path":"page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx","typed":false,"deferred":false}

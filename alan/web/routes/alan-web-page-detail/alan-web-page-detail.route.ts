@@ -32,7 +32,11 @@ export const alanWebPageDetail = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A page whose loader reads nothing beyond it follows that page alone rather than its page type.",
+        "A page whose loader reads nothing beyond it runs no loader again when that page changes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such a page keeps its title and tab icon live from the page store instead.",
     },
     {
       decisionKind: "decision-kind/departure",

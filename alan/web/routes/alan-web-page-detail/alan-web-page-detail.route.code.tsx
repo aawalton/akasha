@@ -1,18 +1,22 @@
 import { loader as pageDetailLoader } from "akasha/alan/web/.server/page-detail-loading/page-detail-loading.module.code.ts"
 import { PageDetailErrorBoundary } from "akasha/alan/web/modules/page-detail-error-boundary/page-detail-error-boundary.module.code.tsx"
 import { PageDetailWithReadMark } from "akasha/alan/web/modules/page-detail-with-read-mark/page-detail-with-read-mark.module.code.tsx"
+import { showTabIcon } from "akasha/alan/web/modules/tab-icon/tab-icon.module.code.tsx"
+import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { siteNamedIn } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
 import { ViewPageContent } from "akasha/page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"
 import {
   type Followed,
   useLoaderFollowing,
 } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
+import { usePage } from "akasha/page/ui/supabase/modules/use-page/use-page.module.code.ts"
 import { seedPagesStore } from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
 import {
   DISPLAY_PARAM,
   parseDisplayMode,
 } from "akasha/page/url/modules/page-display-mode/page-display-mode.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
+import { useEffect } from "react"
 import {
   type MetaDescriptor,
   type ShouldRevalidateFunctionArgs,
@@ -50,13 +54,36 @@ const READING_STORY = "reading-story"
 
 const NAV_READ: readonly string[] = ["nav"]
 
+const NOTHING_READ: readonly Followed[] = []
+
 function followedBy(read: {
   readonly pageTypeSlug: string
   readonly id: string
   readonly followsType: boolean
 }): readonly Followed[] {
-  const page = { pageTypeSlug: read.pageTypeSlug, id: read.id }
-  return read.followsType ? [page, read.pageTypeSlug, READING_STORY] : [page]
+  if (!read.followsType) return NOTHING_READ
+  return [{ pageTypeSlug: read.pageTypeSlug, id: read.id }, read.pageTypeSlug, READING_STORY]
+}
+
+function nameIn(row: Readonly<Record<string, unknown>>): string | null {
+  const title = textIn(row.title)
+  return title ?? textIn(row.slug)
+}
+
+function useLiveHead(pageTypeSlug: string, id: string | undefined, typeIcon: string | null) {
+  const { page } = usePage({ pageTypeSlug: toPageTypeSlug(pageTypeSlug), id })
+  const row = page?.properties
+  const title = row === undefined ? null : nameIn(row)
+  const icon = row === undefined ? undefined : (textIn(row.icon) ?? typeIcon)
+  useEffect(() => {
+    if (title !== null) document.title = title
+  }, [title])
+  useEffect(() => {
+    if (icon === undefined) return undefined
+    showTabIcon({ icon })
+    return () => showTabIcon(null)
+  }, [icon])
+  return undefined
 }
 
 const seeded = new WeakSet<object>()
@@ -102,6 +129,11 @@ export default function PageDetailRoute({ loaderData }: { loaderData: PageDetail
   const [searchParams] = useSearchParams()
   const displayMode = parseDisplayMode(searchParams.get(DISPLAY_PARAM))
   useLoaderFollowing(loaderData.kind === "nav" ? NAV_READ : followedBy(loaderData))
+  useLiveHead(
+    loaderData.pageTypeSlug,
+    loaderData.kind === "nav" ? undefined : loaderData.id,
+    loaderData.kind === "nav" ? null : loaderData.typeIcon
+  )
 
   if (loaderData.kind === "nav") {
     return <ViewPageContent navItemIdParam={loaderData.pageHrefParam} />

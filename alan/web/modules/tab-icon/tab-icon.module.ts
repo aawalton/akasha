@@ -33,5 +33,9 @@ export const tabIcon = {
       decisionKind: "decision-kind/departure",
       statement: "The deepest route naming an icon names the tab icon.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An icon a drawn page shows live names the tab icon over what any route loaded.",
+    },
   ],
 } as const satisfies Module
