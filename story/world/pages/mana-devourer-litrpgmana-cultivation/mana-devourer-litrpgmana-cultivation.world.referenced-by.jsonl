@@ -98,6 +98,7 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-ember.lore.ts","id":"01a0ea3a-98a8-7829-9636-8d1b0e2ddfdb"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-enchanting.lore.ts","id":"01a0ea3c-7579-737f-b601-fe914bb93ff2"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-essence-stones.lore.ts","id":"01a0ea40-2bae-7dff-9bed-8af22aad02f6"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-ethereal-chains.lore.ts","id":"01a0ea42-1abe-7c07-be3d-4abb145aafa7"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-evolutions.lore.ts","id":"01a0ea40-337e-7df1-a83e-89ce630f86a3"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-evolving-creature.lore.ts","id":"01a0ea37-d781-7962-abab-d04bce52d5c5"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-fae.lore.ts","id":"01a0ea34-d6f3-7b2f-a5fc-5e402d35177b"}
@@ -148,6 +149,7 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-malari-lords.lore.ts","id":"01a0ea3d-e44f-7653-8d93-1163b3fa06a3"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-malichor.lore.ts","id":"01a0ea40-2bb0-7ede-853d-9043f9e7909b"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-mana-absorption.lore.ts","id":"01a0ea3a-9934-72b9-8379-174a8d79b49d"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-mana-cannon.lore.ts","id":"01a0ea42-1ac0-7b0d-8acd-59ae100bd9a9"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-mana-capacity.lore.ts","id":"01a0ea36-0397-7f52-ab73-344ceb87d75f"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-mana-cycling.lore.ts","id":"01a0ea36-0398-7adb-8eea-6a982d8b46ee"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-mana-manipulators.lore.ts","id":"01a0ea3a-9935-75a2-aab4-2845782f3967"}
@@ -173,6 +175,7 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-overgrown-rat.lore.ts","id":"01a0ea39-fd42-734b-9279-4690c9208dd4"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-pantheon-of-eleva.lore.ts","id":"01a0ea3d-2b4a-71d6-a8a5-58a2cf09d0c7"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-paths.lore.ts","id":"01a0ea3d-ff8a-7656-9e87-52b63cc6c2ea"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-portal-amulet.lore.ts","id":"01a0ea42-1ac1-7d76-9389-b9112dfe1679"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-prince-salthor.lore.ts","id":"01a0ea40-95f3-77d8-b3d0-f05e328fefd0"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-randall.lore.ts","id":"01a0ea32-f51d-748b-9eb7-11740ad59e12"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-rarity.lore.ts","id":"01a0ea41-22a2-7cf1-bb8c-cc30bb824ccc"}
@@ -231,10 +234,13 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-cleansing-powders.world-item.ts","id":"01a0ea40-bcb6-7033-88d9-b89ec5e71f3e"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-elundite.world-item.ts","id":"01a0ea40-bcb6-7f5f-b979-f3d549f12118"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-essence-stones.world-item.ts","id":"01a0ea40-2bb0-792f-bf59-f7169053107a"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-ethereal-chains.world-item.ts","id":"01a0ea42-1ac1-7e54-9ad8-9d785948d366"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-fischor.world-item.ts","id":"01a0ea40-bcb6-7e5f-9360-e3b8e060d030"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-healing-potion.world-item.ts","id":"01a0ea3f-fe99-7a60-979a-6d3eb4866ac2"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-kraken-meat.world-item.ts","id":"01a0ea41-7fd7-7ecc-bac9-f13f81c996b0"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-malichor.world-item.ts","id":"01a0ea40-2bb0-7e3c-9383-e9bba24e0440"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-mana-cannon.world-item.ts","id":"01a0ea42-1ac1-7a3e-afbc-7366dbdbd3ee"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-portal-amulet.world-item.ts","id":"01a0ea42-1ac1-74f9-918e-c5a976570222"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-ring-of-control.world-item.ts","id":"01a0ea41-7fd7-7c6d-bcea-328b94482a26"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-selsor-crystal.world-item.ts","id":"01a0ea3f-fe99-7f59-b3c4-d203b0031e21"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-talisman.world-item.ts","id":"01a0ea40-bcb6-7a83-a311-592fc59b6c53"}
