@@ -28,5 +28,6 @@ export const otherwhereIx00005 = {
     "Her arms are running with blood, her grip is slipping, and it is still hanging on.",
   ],
   lore: ["lore/otherwhere-ix-shardback"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T15:36:00.000Z",
 } as const satisfies StoryTurnPlayed
