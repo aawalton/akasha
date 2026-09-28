@@ -13,6 +13,8 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-binga.world-character.ts","id":"01a0e9f8-0f1a-7296-971b-9dd445730a9d"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-brox.world-character.ts","id":"01a0e9f8-a114-7183-bc9a-a01c7e8585f0"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-cala-dha-drex.world-character.ts","id":"01a0e9f8-a115-7915-bf7a-d8f85086e8e3"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-colborn.world-character.ts","id":"01a0e9f9-005b-7ae7-be86-857e6945621e"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-dalo.world-character.ts","id":"01a0e9f9-005c-7175-acfa-d1476b6f4217"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-nathan-lark.world-character.ts","id":"01a0e9f5-00f8-7d2d-9a68-889656e360ef"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-ogarius.world-character.ts","id":"01a0e9f7-96f0-7fbd-bbd3-3e62202b2113"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-sarah.world-character.ts","id":"01a0e9f8-7a17-7fcf-b601-4b52e9e6e30e"}
@@ -48,6 +50,8 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-cala-dha-drex.lore.ts","id":"01a0e9f8-a115-7312-9fb0-0ceb82e0901b"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-class-skills.lore.ts","id":"01a0e9f7-46bb-74ca-a6a6-3df3e9d7ca57"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-classes.lore.ts","id":"01a0e9f4-b58a-7309-818e-f14eaa1497bd"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-colborn.lore.ts","id":"01a0e9f9-005c-719b-ae62-4a3c60b06c73"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-dalo.lore.ts","id":"01a0e9f9-005c-7b7e-9343-b59dc67045fe"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-davrar.lore.ts","id":"01a0e9e8-d642-7142-965b-86465a26f55b"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-disadvantage.lore.ts","id":"01a0e9f8-2dc4-7ed1-bb2d-afa5064c96df"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-divinity.lore.ts","id":"01a0e9f5-6821-700d-a7eb-2c1701adb00d"}
