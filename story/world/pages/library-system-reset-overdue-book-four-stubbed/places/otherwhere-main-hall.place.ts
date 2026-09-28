@@ -20,12 +20,8 @@ export const otherwhereMainHall = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "Some three thousand scattered books lie across the main hall, waiting to be reshelved.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
+      fact: "Some 2,880 loose books still lie across the main hall, waiting to be reshelved.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
     },
     {
       fact: "The shelving book, Returns and Reshelving, lies under a broken desk halfway back on the left.",
