@@ -64,12 +64,7 @@ export function seatOf(agentId: string): string {
   return at < 0 ? agentId : agentId.slice(0, at)
 }
 
-export const HELD_ROLES: readonly string[] = [
-  gameMaster.id,
-  reviewer.id,
-  writer.id,
-  storyRecorder.id,
-]
+const HELD_ROLES: readonly string[] = [gameMaster.id, reviewer.id, writer.id, storyRecorder.id]
 
 export function gameMasterIn(root: string, agentId: string | null): boolean {
   if (agentId === null || agentId === "") return false
