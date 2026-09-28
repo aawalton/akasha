@@ -4,6 +4,8 @@ export const image679439c074228b52 = {
   id: "01a0e9d2-2363-76a3-b973-53d6a9ef05db",
   type: "page-type/image",
   slug: "image-679439c074228b52",
+  title: "Freckled Redhead Reading Under the Willow",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
