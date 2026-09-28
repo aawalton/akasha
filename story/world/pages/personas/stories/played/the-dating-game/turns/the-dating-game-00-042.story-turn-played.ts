@@ -10,7 +10,7 @@ export const theDatingGame00042 = {
   position: 42,
   prose: "txt",
   characters: ["character-other/the-dating-game-aelwyn", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action: '"Mind if I join you Aelwyn? Trail\'s always better with company."',
   beats: [
     'He asks, "Mind if I join you, Aelwyn? Trail\'s always better with company."',
@@ -25,5 +25,5 @@ export const theDatingGame00042 = {
     "She drops her pack there and sinks into a long, easy stretch, humming to herself.",
   ],
   lore: ["place/the-dating-game-rock-canyon"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
