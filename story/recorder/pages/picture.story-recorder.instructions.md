@@ -4,13 +4,13 @@ The story is the page beside the folder holding the turn. Its design is the stor
 
 Read the turn's prose, the page of each character the turn names, and the image each character's `cover` names. Read the cover of the turn before, where it has one. Its prompt is the last picture of this story.
 
-Pick the one moment of the turn's prose that shows most, often where the turn ends. Write a prompt for it of 200 to 300 words, one paragraph of plain description:
+Pick the one moment of the turn's prose that shows most, often where the turn ends, and the one subject in it that shows most: one figure, one creature, one thing or one place. The picture is of that subject alone. Any other figure is left out of frame, since a picture holding two subjects renders neither well. Write a prompt for it of 200 to 300 words, one paragraph of plain description:
 
 - the design's visual style, opening the prompt
-- who is in frame, each looking as their cover's prompt describes them, and wearing what the prose shows
-- each figure's pose, expression and where they look
-- the place, the light and the time of day
-- the camera: framing, lens and depth of field
+- the subject, looking as its cover's prompt describes it where it has a cover, and wearing what the prose shows
+- a figure's pose, expression and where she looks, or what a thing is doing
+- the place behind the subject, the light and the time of day
+- the camera: framing, lens and depth of field, close enough that the subject fills the frame
 
 Keep what this turn shares with the turn before as the last prompt put it. Show only what the prose shows the player. A system window in the picture is a glowing glyph, never a spelled word, and nothing in the picture is lettered. Leave double quotes, backticks and dollar signs out of the prompt.
 
