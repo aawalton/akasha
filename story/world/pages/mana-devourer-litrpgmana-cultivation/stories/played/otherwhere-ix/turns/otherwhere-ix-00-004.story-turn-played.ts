@@ -38,5 +38,6 @@ export const otherwhereIx00004 = {
   issues: ['"The words hang there, calm and patient" - No Prompt'],
   lore: ["lore/otherwhere-ix-shardback", "lore/otherwhere-ix-nala"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2026-09-28T15:35:00.000Z",
 } as const satisfies StoryTurnPlayed
