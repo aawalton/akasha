@@ -23,4 +23,5 @@ export const otherwhere00050 = {
     '"Taps run hot once I reach fifty. Till then I can heat you one tubful, for a point of power."',
   ],
   lore: ["place/otherwhere-hall-back", "place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
