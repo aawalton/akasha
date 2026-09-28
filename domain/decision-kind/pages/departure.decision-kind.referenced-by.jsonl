@@ -3775,6 +3775,7 @@
 {"propertySlug":"decision-kind","path":"story/narrative-production/narrative-production.domain.ts","id":"01a0673a-bc3a-7002-900d-98d54a36587e"}
 {"propertySlug":"decision-kind","path":"story/properties/chapter-break.text-property.ts","id":"01a0d4e1-a12d-7dcc-9da9-a8637b4b4192"}
 {"propertySlug":"decision-kind","path":"story/properties/coordinator-agent.text-property.ts","id":"01a0673c-8e0e-7001-a960-de2ffa854884"}
+{"propertySlug":"decision-kind","path":"story/properties/panels.multi-relation-property.ts","id":"01a0de26-1951-7113-998f-3eb408acf2e1"}
 {"propertySlug":"decision-kind","path":"story/properties/phase-timings.file-property.ts","id":"01a0e952-1ea6-79fa-b4d7-28dd0ee05374"}
 {"propertySlug":"decision-kind","path":"story/recorder/properties/story-recorder-instructions.file-property.ts","id":"01a0e054-324c-7c5f-8cf2-aad1564badaa"}
 {"propertySlug":"decision-kind","path":"story/recorder/story-recorder.page-type.ts","id":"01a0e054-324d-793a-8ecd-433ed00e9de5"}
@@ -3923,7 +3924,6 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/prose-beside/prose-beside.module.ts","id":"01a0a161-77ae-7c52-b1d4-6e0f8a35c92b"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/cover-reroll-refused.text-property.ts","id":"01a0e84e-3f8e-7738-bb8e-6205aa186cfb"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/cover-reroll.relation-property.ts","id":"01a0e84e-3f8e-74cf-b543-8711abba573e"}
-{"propertySlug":"decision-kind","path":"story/world/stories/played/properties/panels.multi-relation-property.ts","id":"01a0de26-1951-7113-998f-3eb408acf2e1"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/prose.file-property.ts","id":"01a06424-329c-73d2-a881-67d728085a28"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/story-opens-at.instant-property.ts","id":"01a0e7f1-002b-75c8-9a58-6c3cc0e9ca4a"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/service-workstations/cover-rerolling/cover-rerolling.service-workstation.ts","id":"01a0e853-50d7-72fe-a224-748adb47cde2"}

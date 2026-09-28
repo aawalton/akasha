@@ -44,11 +44,11 @@
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/chapter/properties/step-recorded-by.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/chapter/properties/step-reviewed-by.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/lore/properties/lore-knowers.multi-relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/properties/panels.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/world/characters/properties/characters.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/world/mechanics/properties/evolves-from-slugs.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/world/mechanics/properties/evolves-to-slugs.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/properties/otherwhere-the-library-room-shown-to.multi-relation-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/world/stories/played/properties/panels.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"temper/addon/properties/eso-interfaces.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"temper/addon/properties/lua-modules.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"temper/catalog/gear/temper-motif-style/properties/drop-sources.multi-relation-property.ts","typed":true,"deferred":false}

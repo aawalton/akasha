@@ -28,6 +28,7 @@ export const story = {
     "text-property/chapter-break",
     "text-property/coordinator-agent",
     "file-property/phase-timings",
+    "multi-relation-property/panels",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -36,6 +37,7 @@ export const story = {
     { pageProperty: "text-property/chapter-break", required: false, many: false },
     { pageProperty: "text-property/coordinator-agent", required: false, many: false },
     { pageProperty: "relation-property/page-domain", required: false, many: false },
+    { pageProperty: "multi-relation-property/panels", required: false, many: true, maxCount: null },
     {
       pageProperty: "file-property/phase-timings",
       required: false,

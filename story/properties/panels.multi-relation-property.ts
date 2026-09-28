@@ -5,17 +5,16 @@ export const panels = {
   type: "page-type/multi-relation-property",
   slug: "panels",
   propertySlug: "panels",
-  definition: "the panels a story played shows on its play screen",
+  definition: "the panels a story shows beside its prose",
   targetPageType: "page-type/played-panel",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A story played naming no panel is drawn as its run of prose and nothing beside it.",
+      statement: "A story naming no panel is drawn as its prose and nothing beside it.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Two stories played name the same panel where both are drawn with it.",
+      statement: "Two stories name the same panel where both are drawn with it.",
     },
     {
       decisionKind: "decision-kind/departure",

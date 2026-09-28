@@ -36,7 +36,6 @@ export const storyPlayed = {
     "page-type/story-chapter-played",
     "page-type/story-turn-played",
     "relation-property/world",
-    "multi-relation-property/panels",
     "instant-property/story-opens-at",
     "relation-property/cover-reroll",
     "text-property/cover-reroll-refused",
@@ -85,7 +84,6 @@ export const storyPlayed = {
   types: "ts",
   schema: "jsonl",
   properties: [
-    { pageProperty: "multi-relation-property/panels", required: false, many: true, maxCount: null },
     { pageProperty: "text-property/external-id", required: false, many: false },
     { pageProperty: "instant-property/story-opens-at", required: false, many: false },
     {
