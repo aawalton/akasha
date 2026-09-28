@@ -3,9 +3,9 @@
 {"propertySlug":"import","fileName":"page-domain.relation-property.types.ts","path":"agent/properties/assignment-slug.one-of-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-domain.relation-property.types.ts","path":"domain/finding/finding.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-domain.relation-property.types.ts","path":"domain/initiative/initiative.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-domain.relation-property.types.ts","path":"story/world/stories/played/story-played.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-domain.relation-property.types.ts","path":"story/story.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"members","path":"agent/properties/assignment-slug.one-of-property.ts","id":"01a053a2-d0e7-7948-a966-74efed3c62f0"}
 {"propertySlug":"page-property","path":"domain/finding/finding.page-type.ts","id":"01a04bc5-f8c3-758c-b460-da70df03bb96"}
 {"propertySlug":"page-property","path":"domain/initiative/initiative.page-type.ts","id":"01a04e58-5735-72b4-b945-56366461c776"}
-{"propertySlug":"page-property","path":"story/world/stories/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}
+{"propertySlug":"page-property","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
 {"propertySlug":"parts","path":"domain/domain.page-type.ts","id":"01a049c8-3ead-7c52-9ab6-88767954ed5f"}

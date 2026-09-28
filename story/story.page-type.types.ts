@@ -1,4 +1,5 @@
 import type { Collection } from "akasha/alan/collection/collection.page-type.types.ts"
+import type { PageDomain } from "akasha/domain/properties/page-domain.relation-property.types.ts"
 import type { Title } from "akasha/page/properties/title.text-property.types.ts"
 import type { ChapterBreak } from "akasha/story/properties/chapter-break.text-property.types.ts"
 import type { CoordinatorAgent } from "akasha/story/properties/coordinator-agent.text-property.types.ts"
@@ -11,4 +12,5 @@ export type Story = Collection & {
   prose?: Prose
   chapterBreak?: ChapterBreak
   coordinatorAgent?: CoordinatorAgent
+  domain?: PageDomain
 }

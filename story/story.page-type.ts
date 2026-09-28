@@ -34,6 +34,7 @@ export const story = {
     { pageProperty: "file-property/prose", required: false, many: false },
     { pageProperty: "text-property/chapter-break", required: false, many: false },
     { pageProperty: "text-property/coordinator-agent", required: false, many: false },
+    { pageProperty: "relation-property/page-domain", required: false, many: false },
   ],
   decisions: [
     {
@@ -106,6 +107,10 @@ export const story = {
     {
       decisionKind: "decision-kind/departure",
       statement: "Every kind of story is a page type extending this one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story may name a domain, which every seat assigned the story reads with it.",
     },
   ],
   types: "ts",

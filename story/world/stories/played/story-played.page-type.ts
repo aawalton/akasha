@@ -81,11 +81,6 @@ export const storyPlayed = {
       decisionKind: "decision-kind/departure",
       statement: "A game master asks a mechanic for a number rather than working that number out.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A story played may name a domain, which every seat of its game reads with its game.",
-    },
   ],
   types: "ts",
   schema: "jsonl",
@@ -93,7 +88,6 @@ export const storyPlayed = {
     { pageProperty: "multi-relation-property/panels", required: false, many: true, maxCount: null },
     { pageProperty: "text-property/external-id", required: false, many: false },
     { pageProperty: "instant-property/story-opens-at", required: false, many: false },
-    { pageProperty: "relation-property/page-domain", required: false, many: false },
     {
       pageProperty: "relation-property/cover-reroll",
       required: false,
