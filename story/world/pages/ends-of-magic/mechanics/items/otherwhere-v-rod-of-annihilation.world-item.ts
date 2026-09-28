@@ -7,5 +7,5 @@ export const otherwhereVRodOfAnnihilation = {
   title: "Rod of Annihilation",
   world: "world/ends-of-magic",
   aliases: ["rods of annihilation"],
-  description: "A magical rod of contained antimatter.",
+  description: "A dreaded magical doomsday rod.",
 } as const satisfies WorldItem

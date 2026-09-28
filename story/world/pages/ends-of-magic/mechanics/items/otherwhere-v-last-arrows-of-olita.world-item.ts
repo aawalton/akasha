@@ -7,5 +7,5 @@ export const otherwhereVLastArrowsOfOlita = {
   title: "Last Arrows of Olita",
   world: "world/ends-of-magic",
   aliases: ["Last Arrow of Olita", "Arrow of Olita"],
-  description: "A divine relic spell of a past Ending.",
+  description: "A divine relic spell.",
 } as const satisfies WorldItem

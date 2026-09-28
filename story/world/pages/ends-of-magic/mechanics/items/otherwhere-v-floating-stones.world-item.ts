@@ -7,5 +7,5 @@ export const otherwhereVFloatingStones = {
   title: "Floating Stones",
   world: "world/ends-of-magic",
   aliases: ["floating rocks", "driftboat anchors"],
-  description: "Rocks of Ostren that float in the air.",
+  description: "Rocks that float in the air.",
 } as const satisfies WorldItem

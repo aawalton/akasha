@@ -6,5 +6,5 @@ export const otherwhereVMithril = {
   slug: "otherwhere-v-mithril",
   title: "Mithril",
   world: "world/ends-of-magic",
-  description: "A magically forged precious metal.",
+  description: "A precious magical metal.",
 } as const satisfies WorldItem
