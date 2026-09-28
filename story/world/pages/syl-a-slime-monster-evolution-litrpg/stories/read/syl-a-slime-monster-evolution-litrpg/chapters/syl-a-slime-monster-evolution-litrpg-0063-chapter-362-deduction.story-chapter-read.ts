@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0063Chapter362Deduction = {
   id: "01a06730-4e1c-7ab1-837b-6426de2e13ed",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0063-chapter-362-deduction",
+  ownProgress: 2400,
   title: "Chapter 362 : Deduction",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 63,

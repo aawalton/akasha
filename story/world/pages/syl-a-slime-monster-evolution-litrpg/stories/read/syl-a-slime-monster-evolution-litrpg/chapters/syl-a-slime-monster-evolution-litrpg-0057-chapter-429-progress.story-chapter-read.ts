@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0057Chapter429Progress = {
   id: "01a0b354-82b2-7551-96c9-03f4ddaff075",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0057-chapter-429-progress",
+  ownProgress: 2322,
   position: 57,
   publishedAt: "2026-09-18",
   unit: "unit/words",

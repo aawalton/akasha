@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0075Chapter373Guardians = {
   id: "01a06730-4e1f-7daf-8173-6a3b53305111",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0075-chapter-373-guardians",
+  ownProgress: 2342,
   title: "Chapter 373 : Guardians",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 75,

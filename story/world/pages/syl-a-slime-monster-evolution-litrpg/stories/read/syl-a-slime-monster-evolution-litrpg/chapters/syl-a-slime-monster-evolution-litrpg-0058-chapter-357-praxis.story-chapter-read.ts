@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0058Chapter357Praxis = {
   id: "01a06730-4e1c-78c1-993c-c0f8e7c37ba7",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0058-chapter-357-praxis",
+  ownProgress: 2487,
   title: "Chapter 357 : Praxis",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 58,

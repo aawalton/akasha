@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0056Chapter428RemovingStains = {
   id: "01a0a907-594d-7ba9-941f-21b6b48bb662",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0056-chapter-428-removing-stains",
+  ownProgress: 2137,
   position: 56,
   publishedAt: "2026-09-16",
   unit: "unit/words",

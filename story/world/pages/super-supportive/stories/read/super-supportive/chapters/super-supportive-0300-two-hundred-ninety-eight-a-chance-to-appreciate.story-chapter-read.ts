@@ -4,6 +4,7 @@ export const superSupportive0300TwoHundredNinetyEightAChanceToAppreciate = {
   id: "01a06730-4f31-7169-872a-49b55f620cf2",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0300-two-hundred-ninety-eight-a-chance-to-appreciate",
+  ownProgress: 5415,
   title: "TWO HUNDRED NINETY-EIGHT: A Chance to Appreciate",
   story: "story-read/super-supportive",
   position: 300,

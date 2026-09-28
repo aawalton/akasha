@@ -4,6 +4,7 @@ export const superSupportive0304ThreeHundredTwoContractsAndContracts = {
   id: "01a06730-4f33-7669-b54b-10ca6ee0986e",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0304-three-hundred-two-contracts-and-contracts",
+  ownProgress: 4734,
   title: "THREE HUNDRED TWO: contracts and Contracts",
   story: "story-read/super-supportive",
   position: 304,

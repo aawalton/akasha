@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0073Chapter371Scratch = {
   id: "01a06730-4e1f-75e8-b303-8cac684c8363",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0073-chapter-371-scratch",
+  ownProgress: 2354,
   title: "Chapter 371 : Scratch",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 73,

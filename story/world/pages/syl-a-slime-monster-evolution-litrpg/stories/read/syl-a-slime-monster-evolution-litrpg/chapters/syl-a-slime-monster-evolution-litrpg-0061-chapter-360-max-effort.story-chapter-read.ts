@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0061Chapter360MaxEffort = {
   id: "01a06730-4e1c-7d6f-8b42-1a97032c8b5f",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0061-chapter-360-max-effort",
+  ownProgress: 2116,
   title: "Chapter 360 : Max Effort",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 61,

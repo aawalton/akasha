@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0071Chapter369Invasion = {
   id: "01a06730-4e1f-7ae3-a8ba-74c822920784",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0071-chapter-369-invasion",
+  ownProgress: 2174,
   title: "Chapter 369 : Invasion",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 71,

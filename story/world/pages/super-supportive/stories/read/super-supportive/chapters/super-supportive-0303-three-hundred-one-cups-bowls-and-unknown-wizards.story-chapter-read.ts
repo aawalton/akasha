@@ -4,6 +4,7 @@ export const superSupportive0303ThreeHundredOneCupsBowlsAndUnknownWizards = {
   id: "01a06730-4f32-7f67-8e1b-28928ff75566",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0303-three-hundred-one-cups-bowls-and-unknown-wizards",
+  ownProgress: 3143,
   title: "THREE HUNDRED ONE:  Cups, Bowls, and Unknown Wizards",
   story: "story-read/super-supportive",
   position: 303,

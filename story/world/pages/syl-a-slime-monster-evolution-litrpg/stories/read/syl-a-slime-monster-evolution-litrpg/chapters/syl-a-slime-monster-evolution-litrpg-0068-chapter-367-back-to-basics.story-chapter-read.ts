@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0068Chapter367BackToBasics = {
   id: "01a06730-4e1d-72b6-8217-276e68d20a00",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0068-chapter-367-back-to-basics",
+  ownProgress: 2411,
   title: "Chapter 367 : Back to Basics",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 68,

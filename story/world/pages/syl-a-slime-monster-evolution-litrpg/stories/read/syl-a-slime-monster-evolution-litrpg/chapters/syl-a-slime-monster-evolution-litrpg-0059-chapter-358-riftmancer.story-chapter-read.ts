@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0059Chapter358Riftmancer = {
   id: "01a06730-4e1c-79f6-a26e-d658222100ff",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0059-chapter-358-riftmancer",
+  ownProgress: 2445,
   title: "Chapter 358 : Riftmancer",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 59,

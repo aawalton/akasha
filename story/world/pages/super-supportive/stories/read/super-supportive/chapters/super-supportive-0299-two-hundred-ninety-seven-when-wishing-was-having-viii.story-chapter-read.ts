@@ -4,6 +4,7 @@ export const superSupportive0299TwoHundredNinetySevenWhenWishingWasHavingViii = 
   id: "01a06730-4f30-71da-8781-43017be5f007",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0299-two-hundred-ninety-seven-when-wishing-was-having-viii",
+  ownProgress: 3237,
   title: "TWO HUNDRED NINETY-SEVEN: When Wishing Was Having VIII",
   story: "story-read/super-supportive",
   position: 299,

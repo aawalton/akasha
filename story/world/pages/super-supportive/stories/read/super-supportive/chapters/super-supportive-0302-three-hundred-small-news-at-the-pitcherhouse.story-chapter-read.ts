@@ -4,6 +4,7 @@ export const superSupportive0302ThreeHundredSmallNewsAtThePitcherhouse = {
   id: "01a06730-4f32-7874-94ed-e9d5a7615f5f",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0302-three-hundred-small-news-at-the-pitcherhouse",
+  ownProgress: 4649,
   title: "THREE HUNDRED: Small News at the Pitcherhouse",
   story: "story-read/super-supportive",
   position: 302,

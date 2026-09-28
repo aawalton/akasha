@@ -4,6 +4,7 @@ export const superSupportive0301TwoHundredNinetyNineBonusPointsForTheStraightfor
   id: "01a06730-4f31-763a-a187-39fb4e857b72",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0301-two-hundred-ninety-nine-bonus-points-for-the-straightforward",
+  ownProgress: 4367,
   title: "TWO HUNDRED NINETY-NINE: Bonus Points for the Straightforward",
   story: "story-read/super-supportive",
   position: 301,

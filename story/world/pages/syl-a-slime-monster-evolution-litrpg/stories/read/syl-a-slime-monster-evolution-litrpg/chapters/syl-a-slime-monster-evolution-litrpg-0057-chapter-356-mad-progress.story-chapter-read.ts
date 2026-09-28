@@ -18,6 +18,6 @@ export const sylASlimeMonsterEvolutionLitrpg0057Chapter356MadProgress = {
     },
   ],
   publishedAt: "2026-03-04",
-  ownProgress: 931,
+  ownProgress: 2246,
   prose: "txt",
 } as const satisfies StoryChapterRead

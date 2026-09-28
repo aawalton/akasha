@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0069ChapterIvIRAprilFools = {
   id: "01a06730-4e1f-7ece-b520-4ca6389725b1",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0069-chapter-iv-i-r-april-fools",
+  ownProgress: 12018,
   title: "Chapter IV - I - R [April Fools]",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 69,

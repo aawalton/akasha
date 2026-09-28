@@ -4,6 +4,7 @@ export const superSupportive0309ThreeHundredSevenObserve = {
   id: "01a0b6c3-6048-7fce-b679-76027188bf26",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0309-three-hundred-seven-observe",
+  ownProgress: 4794,
   position: 309,
   publishedAt: "2026-09-18",
   unit: "unit/words",

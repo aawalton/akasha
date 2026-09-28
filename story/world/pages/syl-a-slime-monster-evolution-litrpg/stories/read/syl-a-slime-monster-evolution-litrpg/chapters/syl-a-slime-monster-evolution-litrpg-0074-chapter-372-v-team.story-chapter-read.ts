@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0074Chapter372VTeam = {
   id: "01a06730-4e1f-738d-ae65-4136a396555f",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0074-chapter-372-v-team",
+  ownProgress: 2373,
   title: "Chapter 372 : V-Team",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 74,

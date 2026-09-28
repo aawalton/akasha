@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0064Chapter363Gamble = {
   id: "01a06730-4e1c-7754-a190-7eca13cc5086",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0064-chapter-363-gamble",
+  ownProgress: 2296,
   title: "Chapter 363 : Gamble",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 64,

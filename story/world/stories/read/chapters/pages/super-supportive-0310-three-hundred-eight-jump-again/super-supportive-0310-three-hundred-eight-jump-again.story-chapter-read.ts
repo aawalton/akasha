@@ -4,6 +4,7 @@ export const superSupportive0310ThreeHundredEightJumpAgain = {
   id: "01a0da98-5b5b-772e-bf41-adc81c61e75d",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0310-three-hundred-eight-jump-again",
+  ownProgress: 5335,
   position: 310,
   publishedAt: "2026-09-25",
   unit: "unit/words",
