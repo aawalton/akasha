@@ -5,7 +5,7 @@ export const haremHotel00002 = {
   type: "page-type/story-turn-played",
   slug: "harem-hotel-00-002",
   cover: "image/image-238dd5b97ecf70db",
-  ownLength: 481,
+  ownLength: 480,
   unit: "unit/words",
   partOfCollections: ["story-played/harem-hotel"],
   position: 2,
@@ -32,7 +32,7 @@ export const haremHotel00002 = {
     "She tells Alan the concierge must have rehearsed that speech on the service bell.",
     "The concierge says dryly that the bellhop is on the staff, and the staff do not heckle the guests.",
     "The bellhop pushes off the cart, grinning with the gap in her teeth, and steps close to Alan.",
-    "She thumbs open the top brass button of her red jacket; the next one strains under her tits.",
+    "She thumbs open two brass buttons of her red jacket; it falls open over small, perky, bare tits.",
     '"Don\'t let her make it sound like paperwork," she tells him. "So. Which of us are you starting on?"',
   ],
   issues: [
