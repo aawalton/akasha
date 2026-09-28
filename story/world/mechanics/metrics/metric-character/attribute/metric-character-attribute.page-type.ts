@@ -10,9 +10,6 @@ export const metricCharacterAttribute = {
   parts: [
     "page-type/tower-attribute",
     "page-type/tower-level",
-    "page-type/partners-ii-level",
-    "page-type/partners-ii-experience",
-    "page-type/partners-ii-attribute",
     "page-type/harem-hotel-attribute",
     "page-type/harem-hotel-level",
     "page-type/cornerstone-faculty",

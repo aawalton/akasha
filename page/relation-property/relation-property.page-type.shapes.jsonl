@@ -155,8 +155,6 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"value","unique":null,"uniquePropertySlug":null,"slug":"page-value","propertySlug":"value","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"identity-statement","unique":null,"uniquePropertySlug":null,"slug":"parent-statement","propertySlug":"parent-statement","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"part-of-speech","unique":null,"uniquePropertySlug":null,"slug":"part-of-speech","propertySlug":"part-of-speech","fileName":null,"folderName":null}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"partners-ii-skill-character","propertySlug":"character","fileName":null,"folderName":null}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-skill","unique":null,"uniquePropertySlug":null,"slug":"partners-ii-skill-skill","propertySlug":"skill","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"person","unique":null,"uniquePropertySlug":null,"slug":"person","propertySlug":"person","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"access-kind","unique":null,"uniquePropertySlug":null,"slug":"person-access-kind","propertySlug":"access-kind","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"person","unique":null,"uniquePropertySlug":null,"slug":"person-access-person","propertySlug":"person","fileName":null,"folderName":null}
@@ -229,7 +227,6 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-metric","unique":null,"uniquePropertySlug":null,"slug":"source-effect-metric","propertySlug":"metric","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-special-effect-type","unique":null,"uniquePropertySlug":null,"slug":"special-effect","propertySlug":"special-effect","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,"slug":"spelling-scope","propertySlug":"scope","fileName":null,"folderName":null}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"partners-ii-bond-stage","unique":null,"uniquePropertySlug":null,"slug":"stage-of-partners-ii-bond","propertySlug":"stage","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"seat-mode","unique":null,"uniquePropertySlug":null,"slug":"start-mode","propertySlug":"start-mode","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"phrase-kind","unique":null,"uniquePropertySlug":null,"slug":"start-symbol","propertySlug":"start-symbol","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"color","unique":null,"uniquePropertySlug":null,"slug":"stylesheet-color","propertySlug":"color","fileName":null,"folderName":null}

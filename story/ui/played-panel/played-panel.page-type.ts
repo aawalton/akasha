@@ -14,7 +14,6 @@ export const playedPanel = {
     "played-panel/character-sheet",
     "played-panel/quest-list",
     "played-panel/story-so-far",
-    "played-panel/aravel-hud",
     "played-panel/tower-sheet",
     "played-panel/hotel-sheet",
     "played-panel/otherwhere-sheet",

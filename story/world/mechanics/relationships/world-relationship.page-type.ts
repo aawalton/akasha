@@ -8,11 +8,7 @@ export const worldRelationship = {
   pluralSlug: "relationships",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
-  parts: [
-    "number-property/relationship-points",
-    "computed-property/world-relationship-level",
-    "page-type/partners-ii-bond",
-  ],
+  parts: ["number-property/relationship-points", "computed-property/world-relationship-level"],
   properties: [
     {
       pageProperty: "multi-relation-property/characters",
