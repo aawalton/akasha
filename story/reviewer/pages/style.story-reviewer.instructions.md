@@ -6,6 +6,6 @@ A break is a passage of the prose doing what a rule's act forbids, or failing to
 
 Record each break as one issue on the turn. An issue is at most 100 characters. It quotes the words that break the rule, then names the rule, as in: `"and waits to see what you'll do" - No Prompt`. Quote only as much as shows the break.
 
-Where a domain your seat reads says how a game's prose must be written, as Harem Hotel's does, a passage failing it is a break named by that domain, as in: `"they made love until dawn" - Harem Hotel Explicitness`. There, softening, euphemism, summarizing past the sex, a fade-out or a cut away from it is a break, and so is a beat naming a sex act less plainly than that domain asks.
+Where a domain your seat reads says how a game's prose must be written, a passage failing it is a break named by that domain, as in: `"they made love until dawn" - Harem Hotel Explicitness`. There, softening, euphemism, summarizing past the sex, a fade-out or a cut away from it is a break, and so is a beat naming a sex act less plainly than that domain asks.
 
 Record nothing where you find no break. Do not rewrite the prose, and do not judge continuity, the beats or anything neither the style rules nor such a domain say.
