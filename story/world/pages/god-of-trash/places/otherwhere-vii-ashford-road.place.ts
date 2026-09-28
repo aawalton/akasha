@@ -51,5 +51,13 @@ export const otherwhereViiAshfordRoad = {
       fact: "Hobb's Wood lies a mile north of the road above Ashford, and Sallow Mere two miles south.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At a mule's walk the mile from the ditch to Ashford takes about twenty minutes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Between the ditch and Ashford the road runs past stubble fields, one farmstead and the waystone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
