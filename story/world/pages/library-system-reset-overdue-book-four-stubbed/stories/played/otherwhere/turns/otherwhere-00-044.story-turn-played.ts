@@ -18,4 +18,5 @@ export const otherwhere00044 = {
     '"One more sack, deep in its gullet, and it dries out," he says. "On its hide, far more than that."',
   ],
   lore: ["place/otherwhere-hall-back"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
