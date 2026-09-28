@@ -4,6 +4,8 @@ export const image063b18c960e3422d = {
   id: "01a0e9ea-cd13-797d-83d3-8a6ff28f6818",
   type: "page-type/image",
   slug: "image-063b18c960e3422d",
+  title: "Cucumber Slices by the Rose Garden",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
