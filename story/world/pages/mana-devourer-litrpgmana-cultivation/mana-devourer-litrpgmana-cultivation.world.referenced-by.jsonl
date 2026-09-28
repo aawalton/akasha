@@ -4,6 +4,7 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-rika.world-character.ts","id":"01a0ea33-2f40-74d7-9103-d621221eca63"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/designs/otherwhere-ix.story-design.ts","id":"01a0ea1a-1aaa-713c-b9dd-409e4024e03d"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-bengai.lore.ts","id":"01a0ea33-1efc-77e2-ab3e-297c85b9acf7"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-human.lore.ts","id":"01a0ea34-9f86-733b-8176-a7a4ac160b0d"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-maesha.lore.ts","id":"01a0ea34-5d79-7f8c-bd89-766bd552a5a9"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-maxen.lore.ts","id":"01a0ea33-b96d-7224-aaee-eb9c8c118d13"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-money.lore.ts","id":"01a0ea34-1643-7aca-895a-c5af7ac6de70"}
@@ -13,6 +14,7 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-shardback.lore.ts","id":"01a0ea33-808e-7ef8-ad13-5f3a6c7c64f4"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/mechanics/otherwhere-ix-money.world-mechanic.ts","id":"01a0ea34-1645-7333-9f6a-62adb3ff6fa5"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-bengai.world-species.ts","id":"01a0ea33-1f00-7970-a17e-4199dce6da37"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-human.world-species.ts","id":"01a0ea34-9f87-7fbe-8b70-29340d60fecc"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-shardback.world-species.ts","id":"01a0ea33-808f-745d-9ad8-cb2751ca54a0"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-glassgrass-flats.place.ts","id":"01a0ea1f-36ba-7f08-b107-707abcfaf72c"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/stories/played/otherwhere-ix/mechanics/checks/otherwhere-ix-needs.world-check.ts","id":"01a0ea2c-1598-78b9-a3de-f8b98acd35fa"}
