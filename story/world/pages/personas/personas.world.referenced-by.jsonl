@@ -215,8 +215,6 @@
 {"propertySlug":"world","path":"story/world/pages/personas/places/the-tower-the-long-gallery.place.ts","id":"01a0d440-fcad-79ca-ae66-dac83ca47d4d"}
 {"propertySlug":"world","path":"story/world/pages/personas/places/the-tower-threshold-landing.place.ts","id":"01a0d43f-f987-7401-9e0e-70173b90feaa"}
 {"propertySlug":"world","path":"story/world/pages/personas/stories/played/coffee-shop-date/coffee-shop-date.story-played.ts","id":"01a0682a-3e1b-7ac4-be68-6d4f2586b70c"}
-{"propertySlug":"world","path":"story/world/pages/personas/stories/played/date-night-free-play/date-night-free-play.story-played.ts","id":"01a06425-4433-7092-b28c-302ea31cb896"}
-{"propertySlug":"world","path":"story/world/pages/personas/stories/played/date-night-free-play/mechanics/relationships/date-night-free-play-awen-and-aura.world-relationship.ts","id":"01a0decf-4151-798a-986b-43a65950811d"}
 {"propertySlug":"world","path":"story/world/pages/personas/stories/played/date-night-the-reading-room/date-night-the-reading-room.story-played.ts","id":"01a06425-4433-7d9d-9e93-330d36ad90d4"}
 {"propertySlug":"world","path":"story/world/pages/personas/stories/played/date-night-the-reading-room/mechanics/relationships/date-night-the-reading-room-the-triad.world-relationship.ts","id":"01a0decf-4151-7e05-b88f-4b0b24569c92"}
 {"propertySlug":"world","path":"story/world/pages/personas/stories/played/dragons-and-dungeons/dragons-and-dungeons.story-played.ts","id":"01a06425-4433-7ef5-b909-fc3115093731"}
@@ -236,4 +234,6 @@
 {"propertySlug":"world","path":"story/world/pages/personas/stories/played/the-tower/the-tower.story-played.ts","id":"01a06425-4433-7452-bd78-2410fa95fb44"}
 {"propertySlug":"world","path":"story/world/pages/personas/stories/written/anthology/anthology.story-written.ts","id":"01a06585-da9a-79e2-9904-3842ab34d2ab"}
 {"propertySlug":"world","path":"story/world/pages/personas/stories/written/come-here/come-here.story-written.ts","id":"01a06585-da9a-7b5a-8188-3addd04a2fd6"}
+{"propertySlug":"world","path":"story/world/pages/personas/stories/written/date-night-free-play/date-night-free-play.story-written.ts","id":"01a06425-4433-7092-b28c-302ea31cb896"}
+{"propertySlug":"world","path":"story/world/pages/personas/stories/written/date-night-free-play/mechanics/relationships/date-night-free-play-awen-and-aura.world-relationship.ts","id":"01a0decf-4151-798a-986b-43a65950811d"}
 {"propertySlug":"world","path":"story/world/pages/personas/stories/written/the-violet-hour/the-violet-hour.story-written.ts","id":"01a06425-4433-7dbe-8a10-b6a603b54acf"}
