@@ -8,6 +8,9 @@ export const image5100410b80b2dac8 = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-ec69b5a855800bb8",
+  title: "Lali Napping Under Her Novel",
+  persona: "persona/lali",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",
