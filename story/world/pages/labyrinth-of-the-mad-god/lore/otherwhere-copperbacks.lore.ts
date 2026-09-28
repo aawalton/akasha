@@ -43,6 +43,18 @@ export const otherwhereCopperbacks = {
       fact: "A copperback is level 2 to 4; the troop's leader is level 6.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Copperbacks chase a fleeing intruder with barks and missiles, but not past the treeline.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A copperback that bluffs slaps branches and bares its teeth; one that means it goes silent.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Copperbacks shun the open sand by day, and come down to the shore only at low tide.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
