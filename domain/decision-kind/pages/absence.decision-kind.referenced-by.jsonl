@@ -1838,6 +1838,7 @@
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/strike-resolution/strike-resolution.module.ts","id":"01a0de82-ec49-7228-a137-9e9f1a4de0d8"}
 {"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-action-check.world-check.ts","id":"01a0e9eb-69c8-7f7c-82e0-e80dc64f4722"}
 {"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-needs.world-check.ts","id":"01a0e9f1-97bd-70ba-b847-4b5b04c1bc0a"}
+{"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-standing.world-check.ts","id":"01a0e9f4-7487-71e7-be4a-57eb862b8b70"}
 {"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/metrics/attributes/skill/otherwhere-iv-skill.page-type.ts","id":"01a0e9f2-33a2-7aea-8e04-8f2eb5b5bf1e"}
 {"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/metrics/resources/purse/otherwhere-iv-purse.page-type.ts","id":"01a0e9f3-1922-78de-a215-d8c14dc07dbd"}
 {"propertySlug":"decision-kind","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/checks/otherwhere-v-action-check.world-check.ts","id":"01a0e9f3-a87d-73ab-82ab-1f72b581e333"}
