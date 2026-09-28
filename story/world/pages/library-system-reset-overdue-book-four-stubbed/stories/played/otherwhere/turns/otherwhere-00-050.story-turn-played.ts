@@ -10,7 +10,7 @@ export const otherwhere00050 = {
   position: 50,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "I pick up the worm, take it back to the break room, and put it in the cooler with the others. As I walk back to my room, I think to Links, **Can we afford hot water now? I really need a hot shower**",
   beats: [
@@ -23,5 +23,5 @@ export const otherwhere00050 = {
     '"Taps run hot once I reach fifty. Till then I can heat you one tubful, for a point of power."',
   ],
   lore: ["place/otherwhere-hall-back", "place/otherwhere-main-hall"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
