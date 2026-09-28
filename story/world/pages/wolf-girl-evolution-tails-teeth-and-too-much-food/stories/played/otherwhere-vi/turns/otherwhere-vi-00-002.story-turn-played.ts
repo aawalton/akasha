@@ -33,4 +33,5 @@ export const otherwhereVi00002 = {
     "She stands in a wet, freezing hollow with a status and nothing else; it is her move.",
   ],
   lore: ["lore/otherwhere-vi-system", "lore/otherwhere-vi-nala"],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
