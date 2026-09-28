@@ -10,4 +10,5 @@ export const otherwhereVi00006 = {
   stepStatus: "step-status/game-master",
   action: "I circle wide around the boars and continue downstream",
   lore: ["place/otherwhere-vi-hollow-stream"],
+  endsAt: "2026-09-28T22:17:00.000Z",
 } as const satisfies StoryTurnPlayed
