@@ -60,6 +60,18 @@ export const otherwhereMainHall = {
       ],
     },
     {
+      fact: "The quarters' taps run hot once the Library reaches 50 power.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Before then, Links can heat one tubful of water for 1 power.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The quarters have a deep stone tub but no shower.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "A short passage behind the Counter leads to the quarters, a snug wood-panelled room.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },

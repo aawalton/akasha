@@ -142,6 +142,14 @@ export const otherwhereHallBack = {
       ],
     },
     {
+      fact: "The big bookworm's dried coil is cartwheel-wide and some sixty pounds; it rolls, but won't carry.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The big coil is too wide for the cooler, but the dry break room keeps it safe beside it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The honey jar sits at the gloom's edge.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
