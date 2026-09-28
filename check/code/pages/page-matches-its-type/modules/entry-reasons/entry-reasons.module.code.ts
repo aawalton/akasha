@@ -258,19 +258,44 @@ export function fieldsOf(
   return said
 }
 
-function entryShapingFor(
-  one: Carried,
-  paged: Paged,
-  pageFor: (each: Carried) => Value | null,
-  formatting: Formatting,
-  fieldsIn: Fielding
-): Shaping | null {
+type PageFor = (one: Carried) => Value | null
+
+type Reading = {
+  readonly pageFor: PageFor
+  readonly fieldsIn: Fielding
+  readonly shaped: WeakMap<Carried, Shaping | null>
+}
+
+const READ = new WeakMap<Paged, Reading>()
+
+export function readingOf(paged: Paged): Reading {
+  const found = READ.get(paged)
+  if (found !== undefined) return found
+  const pageFor = (one: Carried): Value | null =>
+    paged.index.pageAt(one.pageTypeSlug, one.pagePropertySlug)
+  const shaped = new WeakMap<Carried, Shaping | null>()
+  const made: Reading = { pageFor, fieldsIn: fieldsReading(paged, pageFor), shaped }
+  READ.set(paged, made)
+  return made
+}
+
+function shapingMade(one: Carried, paged: Paged, formatting: Formatting): Shaping | null {
+  const { pageFor, fieldsIn } = readingOf(paged)
   const page = pageFor(one)
   if (page === null) return null
   const slug = one.pagePropertySlug
   const fields = fieldsFor(page, paged, slug)
   if (fields.size === 0) return null
   return { fields, slug, pageFor, formatting, fieldsIn }
+}
+
+function entryShapingFor(one: Carried, paged: Paged, formatting: Formatting): Shaping | null {
+  const { shaped } = readingOf(paged)
+  const found = shaped.get(one)
+  if (found !== undefined && (found === null || found.formatting === formatting)) return found
+  const made = shapingMade(one, paged, formatting)
+  shaped.set(one, made)
+  return made
 }
 
 function rowsJudged(rows: readonly Value[], shaping: Shaping, said: string[]): undefined {
@@ -292,15 +317,12 @@ export function entryReasonsIn(
   formatting: Formatting
 ): readonly string[] {
   const said: string[] = []
-  const pageFor = (one: Carried): Value | null =>
-    paged.index.pageAt(one.pageTypeSlug, one.pagePropertySlug)
-  const fieldsIn = fieldsReading(paged, pageFor)
   const entried = entriedIn(paged)
   for (const one of declared) {
     if (!entried.has(one.pageTypeSlug)) continue
     const held = value[one.key]
     if (typeof held !== "string") continue
-    const shaping = entryShapingFor(one, paged, pageFor, formatting, fieldsIn)
+    const shaping = entryShapingFor(one, paged, formatting)
     const found: string[] = []
     let refused: string | null = null
     for (const [at, text] of partsReading(path, one.propertySlug, held, beside)) {

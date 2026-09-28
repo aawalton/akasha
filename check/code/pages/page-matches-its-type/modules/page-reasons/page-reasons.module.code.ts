@@ -1,7 +1,6 @@
 import {
   COMPUTED,
   fieldsOf,
-  fieldsReading,
   fittingIn,
   formatOf,
   groupedFor,
@@ -9,6 +8,7 @@ import {
   noRecordIn,
   offFormat,
   overLength,
+  readingOf,
   type Shaping,
   twiceIn,
 } from "akasha/check/code/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts"
@@ -49,9 +49,7 @@ export function reasonsIn(
 ): readonly string[] {
   const said: string[] = []
   const byKey = new Map(declared.map((one): readonly [string, Carried] => [one.key, one]))
-  const pageFor = (one: Carried): Value | null =>
-    paged.index.pageAt(one.pageTypeSlug, one.pagePropertySlug)
-  const fieldsIn = fieldsReading(paged, pageFor)
+  const { pageFor, fieldsIn } = readingOf(paged)
   for (const one of declared) {
     if (!one.required || one.uncommitted || one.secret || one.fixed !== undefined) continue
     if (one.pageTypeSlug === COMPUTED) continue
