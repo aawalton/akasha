@@ -10,7 +10,7 @@ Dress a figure in everything the lore says she still wears, down to what is unde
 
 **A subject with a cover** is drawn by editing that cover, so the face and body stay the cover's. The cover's picture is the file beside its image page named `<cover slug>.image.bytes.uncommitted.png`. Write an edit prompt of 150 to 250 words, one paragraph of plain description:
 
-- opening by keeping the cover's subject exact, as `Keep this exact woman: same face, freckles, eyes, lips, skin and hair.` does for a woman, then `Change the scene around her into a <visual style> photograph.`
+- opening by keeping the cover's subject exact, as `Keep this exact woman: same face, freckles, eyes, lips, skin and hair.` does for a woman, then `Change the scene around her.` and the design's visual style
 - what the subject wears, piece by piece, as above
 - the pose, expression and where the subject looks, stated plainly and exactly, since an edit drifts from a pose said loosely
 - the place behind the subject, the light and the time of day
