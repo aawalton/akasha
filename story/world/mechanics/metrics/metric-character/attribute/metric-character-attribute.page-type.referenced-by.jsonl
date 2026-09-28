@@ -1,3 +1,4 @@
+{"propertySlug":"extends-type","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/metrics/attributes/skill/otherwhere-iv-skill.page-type.ts","id":"01a0e9f2-33a2-7aea-8e04-8f2eb5b5bf1e"}
 {"propertySlug":"extends-type","path":"story/world/pages/cornerstone/stories/written/cornerstone/mechanics/metrics/attributes/cornerstone-faculty.page-type.ts","id":"01a0dee4-467b-76be-b386-8f81567faec4"}
 {"propertySlug":"extends-type","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/metrics/attributes/ability/otherwhere-ability.page-type.ts","id":"01a0e9a0-abb2-71b3-a68c-d5d670d3aeaa"}
 {"propertySlug":"extends-type","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/metrics/attributes/charisma/otherwhere-charisma.page-type.ts","id":"01a0e998-6521-7fdb-9a5f-dfa9e55ce111"}
@@ -18,6 +19,7 @@
 {"propertySlug":"extends-type","path":"story/world/pages/tower-of-nimue/stories/written/tower-of-nimue/mechanics/metrics/level/tower-of-nimue-level.page-type.ts","id":"01a0dee9-5494-7564-ab27-80bb2b1ac27b"}
 {"propertySlug":"import","fileName":"metric-character-attribute.page-type.ts","path":"story/world/mechanics/derived/modules/derived-beside/derived-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"metric-character-attribute.page-type.ts","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"metric-character-attribute.page-type.types.ts","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/metrics/attributes/skill/otherwhere-iv-skill.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"metric-character-attribute.page-type.types.ts","path":"story/world/pages/cornerstone/stories/written/cornerstone/mechanics/metrics/attributes/cornerstone-faculty.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"metric-character-attribute.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/metrics/attributes/ability/otherwhere-ability.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"metric-character-attribute.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/metrics/attributes/charisma/otherwhere-charisma.page-type.types.ts","typed":true,"deferred":false}
