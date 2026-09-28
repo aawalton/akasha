@@ -8,6 +8,8 @@
 {"propertySlug":"import","fileName":"unit.page-type.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"unit.page-type.ts","path":"story/world/stories/played/turns/modules/turn-making/turn-making.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"unit.page-type.ts","path":"story/world/stories/read/wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"unit.page-type.ts","path":"story/world/stories/written/chapters/modules/chapter-making/chapter-making.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"unit.page-type.ts","path":"story/world/stories/written/chapters/modules/chapter-making/chapter-making.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"unit.page-type.types.ts","path":"alan/collection/unit/pages/hours.unit.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"unit.page-type.types.ts","path":"alan/collection/unit/pages/minutes.unit.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"unit.page-type.types.ts","path":"alan/collection/unit/pages/moments.unit.ts","typed":true,"deferred":false}

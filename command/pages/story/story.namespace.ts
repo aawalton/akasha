@@ -8,6 +8,7 @@ export const story = {
   parts: [
     "command/story-character-file",
     "command/story-chapter-close",
+    "command/story-chapter-write",
     "command/story-settle",
     "namespace/story-turn",
     "command/story-tell",

@@ -2414,6 +2414,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/sms/acting-account/sms-acting-account.command.ts","id":"01a0685f-c8ed-7007-a130-cda36891535f"}
 {"propertySlug":"decision-kind","path":"command/pages/sms/send/sms-send.command.ts","id":"01a0685f-c8ed-7008-b892-0bc284782555"}
 {"propertySlug":"decision-kind","path":"command/pages/story/chapter-close/story-chapter-close.command.ts","id":"01a0d4e4-a424-7f86-8eaa-79660d7af676"}
+{"propertySlug":"decision-kind","path":"command/pages/story/chapter-write/story-chapter-write.command.ts","id":"01a0e96e-2932-74ae-9bb2-77118ec08e86"}
 {"propertySlug":"decision-kind","path":"command/pages/story/character-file/story-character-file.command.ts","id":"01a0b700-39f3-76fc-b703-ad293459d8ed"}
 {"propertySlug":"decision-kind","path":"command/pages/story/settle/story-settle.command.ts","id":"01a0de28-48fb-7823-9024-31f713cc562f"}
 {"propertySlug":"decision-kind","path":"command/pages/story/tell/story-tell.command.ts","id":"01a0def0-8330-79a7-a268-bf9d923a71cc"}
@@ -3926,6 +3927,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/read/wandering-inn/modules/chapter/chapter.module.ts","id":"01a06578-5721-7001-b6e6-cb205ab28c07"}
 {"propertySlug":"decision-kind","path":"story/world/stories/read/wandering-inn/modules/site/site.module.ts","id":"01a06578-5721-7002-bdf0-39ef7ab35f68"}
 {"propertySlug":"decision-kind","path":"story/world/stories/read/wandering-inn/modules/syncing/syncing.module.ts","id":"01a0686a-7a57-76d6-a2df-a5aa6fbe7d58"}
+{"propertySlug":"decision-kind","path":"story/world/stories/written/chapters/modules/chapter-making/chapter-making.module.ts","id":"01a0e96e-2932-7927-bb2d-8c23a95bf20f"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/chapters/story-chapter-written.page-type.ts","id":"01a06554-d8bd-712b-86b4-ade0001027ee"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/story-written.page-type.ts","id":"01a06554-d8bd-7502-a414-fd4fd32eba45"}
 {"propertySlug":"decision-kind","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}

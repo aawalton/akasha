@@ -202,6 +202,7 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/sms/acting-account/sms-acting-account.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/sms/send/sms-send.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/story/chapter-close/story-chapter-close.command.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/story/chapter-write/story-chapter-write.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/story/character-file/story-character-file.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/story/settle/story-settle.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/story/tell/story-tell.command.ts","typed":true,"deferred":false}

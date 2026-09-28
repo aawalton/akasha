@@ -8,6 +8,7 @@ export const storyChapterWritten = {
   pluralSlug: "chapters",
   extends: ["page-type/chapter"],
   runsTabooCheck: false,
+  parts: ["module/chapter-making"],
   detailConfig: {
     frame: {
       edgeToEdge: true,
@@ -31,6 +32,19 @@ export const storyChapterWritten = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A chapter's text from before a rewrite is kept in git rather than in a page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A chapter moves as a turn does: world-builder, game-master, writer, reviewers, recorders, player.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chapter at player is published.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No player's action makes a chapter.",
     },
   ],
   types: "ts",
