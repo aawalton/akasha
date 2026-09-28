@@ -242,7 +242,7 @@ export const otherwhereHallBack = {
       ],
     },
     {
-      fact: "One sack of salt and a jar of honey sit at the edge of the gloom behind Nala.",
+      fact: "Nala's last sack burst short in its mouth; only the honey jar is left at the gloom's edge.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
@@ -315,15 +315,15 @@ export const otherwhereHallBack = {
     },
     {
       fact: "Hurt as Nala is, she can rise and stagger with one sack, but can't run.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Drawn by her honey, the big bookworm bites a senseless crusted Nala; the salt burns its mouth.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "A mouthful of salt crust is a salt act on the big bookworm; it lets go and drags back to the gloom.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "If the big bookworm dries out, the hall's back falls quiet and the gold light brightens again.",
