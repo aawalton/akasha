@@ -111,5 +111,21 @@ export const otherwhereIvGuHousehold = {
       fact: "Gu is a careful man who keeps secrets; a secret shared by a spirit would flatter and bind him.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Gu has long seen that the moon's bright side always faces the sun, and never knew why.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "An answer that explains a thing he has seen himself persuades Gu more than any wonder.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Once persuaded, Gu would lodge an honored guest in his own east room, the best in the village.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Gu would tell the county nothing of the guest until he knows what she wants of the village.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
