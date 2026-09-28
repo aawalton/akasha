@@ -206,7 +206,11 @@ export const otherwhereUniverse = {
     },
     {
       fact: "At 50 power the Library's golems wake, and shelving golems among them.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "The Library has two shelving golems, each reshelving some twenty books a day.",
