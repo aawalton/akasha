@@ -92,10 +92,7 @@ export const otherwhereHallBack = {
       fact: "Roused bookworms stir and listen, but leave their heaps only for a Librarian within twenty feet.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "A small engorged bookworm moves at a slow walk, but lunges a few feet fast to bite.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "Links can rake a bookworm with his claws in lynx form, at a cost in power.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -144,10 +141,7 @@ export const otherwhereHallBack = {
       fact: "A bookworm dragged onto a salt line is burned by it, and its thrashing scuffs a gap in the line.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "A small bookworm can squeeze through a gap a hand wide in a salt line, scraped raw as it goes.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "A broom's bristles sweep salt onto a bookworm from past the reach of its lunge.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -326,6 +320,18 @@ export const otherwhereHallBack = {
     },
     {
       fact: "If the big bookworm dries out, the hall's back falls quiet and the gold light brightens again.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Salt from the burst sack lies scattered round Nala, and the burned big bookworm keeps clear of it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The honey keeps the big bookworm restless all night, roaring now and then from the gloom.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Overnight the big bookworm gags off its salt and heals half the harm it has taken.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
