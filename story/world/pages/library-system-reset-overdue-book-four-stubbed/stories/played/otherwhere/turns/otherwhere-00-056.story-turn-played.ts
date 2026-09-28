@@ -24,4 +24,5 @@ export const otherwhere00056 = {
     'Links: "Read it, and one glance at any spine tells you where it goes. No more squinting at marks."',
   ],
   lore: ["lore/otherwhere-universe", "place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
