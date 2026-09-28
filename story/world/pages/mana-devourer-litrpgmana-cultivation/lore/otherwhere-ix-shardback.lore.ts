@@ -14,7 +14,7 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "A shardback is low and broad like a badger, with a grey-green hide and a blunt snout.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "Its back bristles with glassy quills grown from the glassgrass it chews.",
@@ -71,6 +71,14 @@ export const otherwhereIxShardback = {
     {
       fact: "Shardback meat is tough and gamey but good; Flats folk knap its quills into arrowheads.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A shardback is about knee-high, its back packed with pale glassy quills that look like glassgrass.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "A shardback rattles its quills with a dry sound like glass beads shaken hard in a cup.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
   ],
 } as const satisfies Lore

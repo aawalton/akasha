@@ -63,5 +63,13 @@ export const otherwhereIxGlassgrassFlats = {
       fact: "Something low, hidden in the glassgrass, crept toward Nala, stopped close by, and sniffed.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
+    {
+      fact: "When Nala called out, the hidden beast stopped, rattled, and began circling toward her back.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "The circling beast's snout followed Nala's bleeding hand; it went still when she faced it.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
   ],
 } as const satisfies Place
