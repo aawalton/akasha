@@ -10,7 +10,7 @@ export const otherwhere00066 = {
   position: 66,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "**Okay, time for bed.** I go back to my room, take off the robe and slippers, lie down on the bed naked, and go to sleep.",
   beats: [
@@ -22,5 +22,5 @@ export const otherwhere00066 = {
     "From the hall beyond the passage comes a sound new to her here: a slow creak of wood and brass.",
   ],
   lore: ["lore/otherwhere-golems", "lore/otherwhere-universe"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
