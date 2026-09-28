@@ -10,7 +10,7 @@ export const otherwhere00057 = {
   position: 57,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action: "I pause to read the book, then continue with the project",
   beats: [
     "Nala sits on the step of the counter's platform with Shelf Sight open on her knees and reads.",
@@ -25,5 +25,5 @@ export const otherwhere00057 = {
     'Links: "Fifty. Your taps run hot now. And my golems are stirring, shelvers among them."',
   ],
   lore: ["place/otherwhere-main-hall", "lore/otherwhere-universe"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
