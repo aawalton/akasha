@@ -25,4 +25,5 @@ export const theDatingGame00031 = {
     "She turns down the next row, holding the lantern low so its light lies across the path.",
     'She glances back over her shoulder. "The next one\'s welcome to walk with me too."',
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
