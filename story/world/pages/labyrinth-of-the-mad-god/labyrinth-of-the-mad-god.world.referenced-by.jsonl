@@ -12,5 +12,7 @@
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-lowland-wood.place.ts","id":"01a0e98e-a9b8-760c-b499-173eb506ff12"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-old-strangler.place.ts","id":"01a0e98e-a9b8-7fd2-a6e1-075142639c90"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/checks/otherwhere-action-check.world-check.ts","id":"01a0e990-b58d-79aa-a179-1b7000226703"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/checks/otherwhere-time-passing.world-check.ts","id":"01a0e992-4350-774a-964f-a8e84e8dd4dc"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/mechanics/otherwhere-time.world-mechanic.ts","id":"01a0e992-4351-7f72-ac68-f04396e7b3bf"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/otherwhere.story-played.ts","id":"01a0e982-da6b-7326-b333-04aae803aae9"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/read/labyrinth-of-the-mad-god/labyrinth-of-the-mad-god.story-read.ts","id":"01a0657d-ada3-7df0-af01-1d499717e474"}
