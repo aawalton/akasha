@@ -246,7 +246,8 @@ test("a change is pushed down the stream following it and no other change is", a
   following.changed({ pageTypeSlug: "seat", slug: "ember" })
   following.changed({ pageTypeSlug: "persona", slug: "athena" })
   following.changed({ pageTypeSlug: "seat", slug: "athena" })
-  const [pushed] = await eventsFrom(reader, 1)
+  const [marked, pushed] = await eventsFrom(reader, 2)
+  expect(marked?.startsWith("event: mark\n")).toBe(true)
   expect(pushed).toBe(
     eventSaid("page", {
       pageTypeSlug: "seat",
@@ -310,7 +311,7 @@ test("a stream opened again with the mark it had is sent the changes it missed, 
     await following.followed({ stream: second.stream, follows, since }).json()
   )
   expect(again).toMatchObject({ epoch: taken.epoch, mark: taken.mark + 2, caughtUp: true })
-  const [missed] = await eventsFrom(second.reader, 1)
+  const [missed, caught] = await eventsFrom(second.reader, 2)
   expect(missed).toBe(
     eventSaid("page", {
       pageTypeSlug: "seat",
@@ -319,6 +320,7 @@ test("a stream opened again with the mark it had is sent the changes it missed, 
       mark: taken.mark + 2,
     }).trimEnd()
   )
+  expect(caught).toBe(eventSaid("mark", { epoch: taken.epoch, mark: taken.mark + 2 }).trimEnd())
   const other = { epoch: "another-run", mark: 0 }
   const lost = await following.followed({ stream: second.stream, follows, since: other }).json()
   expect(FOLLOW_SAID.parse(lost).caughtUp).toBe(false)

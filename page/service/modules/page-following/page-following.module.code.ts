@@ -74,6 +74,7 @@ type Changed = {
 type Stream = {
   readonly send: (text: string) => boolean
   helds: readonly Held[]
+  taken: boolean
 }
 
 export type Sent = {
@@ -393,12 +394,13 @@ export function followingFor(
           } catch {}
           return undefined
         }
-        streams.set(id, { send: put, helds: [] })
+        const held: Stream = { send: put, helds: [], taken: false }
+        streams.set(id, held)
         put(eventSaid("stream", { stream: id }))
         beat = setInterval(() => {
           if (unpulled >= UNREAD_BEATS) return unread()
           unpulled += 1
-          put(": beat\n\n")
+          put(held.taken ? eventSaid("mark", { epoch, mark }) : ": beat\n\n")
         }, beatMs)
         request.signal.addEventListener("abort", () => {
           closed()
@@ -439,6 +441,8 @@ export function followingFor(
       const keys = keysFor(loose, one.one)
       if (keys.length > 0) stream.send(eventSaid("page", pushedOf(one, keys)))
     }
+    stream.taken = true
+    stream.send(eventSaid("mark", { epoch, mark }))
     const following = stream.helds.map((one) => one.key)
     return said({ following, epoch, mark, caughtUp: replay !== null }, 200)
   }

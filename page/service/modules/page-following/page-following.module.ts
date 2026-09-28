@@ -58,6 +58,14 @@ export const pageFollowing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A stream followed is sent that mark after each follow, and on every beat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A mark on a stream says every change up to it that stream follows came before.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A follow naming a mark of this run is sent the last change to each page since it.",
     },
