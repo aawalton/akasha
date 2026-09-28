@@ -11,4 +11,5 @@ export const ember = {
   startMode: "seat-mode/interactive",
   onCall: false,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "f1ef08ac-064e-4821-a555-79abcecf524d",
 } as const satisfies Seat
