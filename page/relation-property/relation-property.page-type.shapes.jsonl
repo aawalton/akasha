@@ -146,6 +146,8 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-poison-effect","unique":null,"uniquePropertySlug":null,"slug":"opposite","propertySlug":"opposite","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"origin-kind","unique":null,"uniquePropertySlug":null,"slug":"origin","propertySlug":"origin","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-buff-other","unique":null,"uniquePropertySlug":null,"slug":"other-buff","propertySlug":"other-buff","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"otherwhere-skill-character","propertySlug":"character","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-skill","unique":null,"uniquePropertySlug":null,"slug":"otherwhere-skill-skill","propertySlug":"skill","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-property","unique":null,"uniquePropertySlug":null,"slug":"owner","propertySlug":"owner","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,"slug":"page-domain","propertySlug":"domain","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"page-page-type","propertySlug":"type","fileName":null,"folderName":null}

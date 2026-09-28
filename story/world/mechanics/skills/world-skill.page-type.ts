@@ -12,6 +12,7 @@ export const worldSkill = {
     "page-type/partners-skill",
     "page-type/partners-ii-skill",
     "page-type/harem-hotel-skill",
+    "page-type/otherwhere-skill",
   ],
   runsTabooCheck: false,
   types: "ts",
