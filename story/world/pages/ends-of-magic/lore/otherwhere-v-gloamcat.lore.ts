@@ -52,5 +52,21 @@ export const otherwhereVGloamcat = {
       fact: "Woodcutters of the valley carry a torch or a horn after dark because of gloamcats.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Drawn by Nala's call, the ridge gloamcat reaches Fern Hollow's upslope rim at 18:40, day one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "It watches her from the rim, still and downwind, until full dark, then begins to circle.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The click-lizards fall silent in a patch that moves with the gloamcat as it goes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A still gloamcat in dusk shadow is very hard to see; the moving hush is plainer.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

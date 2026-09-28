@@ -100,5 +100,61 @@ export const otherwhereVFernHollow = {
       fact: "Three rising whistled notes sound far off around the hollow toward dusk, and are answered.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
+    {
+      fact: "A slow careful circuit reaches about a hundred yards from the spring by the end of dusk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Forty yards east of the spring lies a fallen scalebark, its root end hollow, dry and crawlable.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The fallen trunk's rotted core holds dry, shreddable punk and fibre that would take a spark.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dead branches lie everywhere under the trees; the ones off the ground are dry.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Shed bark scales are hand-sized, hard as horn, with edges sharp enough to cut cord or skin.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The brook bed is rounded grey stones; eighty yards down, a bank shows dark glassy flint.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Flint struck on flint throws weak sparks; struck on the grey brook stones it throws none.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Brookberry canes line the brook sixty yards below the spring, hung with ripe dark-red berries.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Brookberries are tart and safe; a double handful eases hunger a little.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Gloamberries grow in the hollow's shade: sweet, blue-black, and they bring cramps and vomiting.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A leaphare run crosses the hollow's south rim, marked by pellets and nibbled fern.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "On the upslope rim, a trunk is scored by deep claw marks at head height, the bark shredded.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The clawed trunk smells of musk, and scat with grey fur and bone bits lies near its roots.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The canopy closes over the hollow; no view of the land beyond can be had from it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
