@@ -8,7 +8,7 @@ export const otherwhere0001ALibrarianForTheLibrary = {
   unit: "unit/words",
   title: "A Librarian for the Library",
   story: "story-played/otherwhere",
-  ownLength: 10631,
+  ownLength: 10625,
   prose: "txt",
   turnCovers: [
     { position: 1, cover: "image/image-473e7826a72e198b" },

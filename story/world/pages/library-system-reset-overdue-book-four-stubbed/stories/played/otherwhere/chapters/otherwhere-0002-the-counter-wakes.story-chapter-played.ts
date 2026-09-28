@@ -8,7 +8,7 @@ export const otherwhere0002TheCounterWakes = {
   unit: "unit/words",
   title: "The Counter Wakes",
   story: "story-played/otherwhere",
-  ownLength: 1865,
+  ownLength: 1861,
   prose: "txt",
   turnCovers: [
     { position: 50, cover: "image/image-293abe62037caf83" },
