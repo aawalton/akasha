@@ -24,4 +24,5 @@ export const otherwhere00058 = {
   ],
   lore: ["lore/otherwhere-universe", "place/otherwhere-main-hall"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
