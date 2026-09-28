@@ -398,7 +398,11 @@ export const otherwhereUniverse = {
     },
     {
       fact: "Full, the Library pours what more it gains out along the ley lines, and Links feels it go.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "The Library's lights begin to sink toward evening amber as a long afternoon's work ends.",
@@ -418,11 +422,11 @@ export const otherwhereUniverse = {
     },
     {
       fact: "Links told Nala the Library's stores are full for the first time in centuries.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "Links told Nala that, the stores full, more shelving pours out along the ley lines.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
   ],
   secrets: "jsonl",

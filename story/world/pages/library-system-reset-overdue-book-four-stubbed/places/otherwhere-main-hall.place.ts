@@ -345,7 +345,11 @@ export const otherwhereMainHall = {
     },
     {
       fact: "Through an afternoon of Shelf Sight, Nala shrank the stacks of books by the hall's columns.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
   ],
   secrets: "jsonl",
