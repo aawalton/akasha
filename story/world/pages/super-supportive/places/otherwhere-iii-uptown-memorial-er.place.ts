@@ -43,6 +43,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "Police come only if a patient asks for them or a crime is reported.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The social worker comes on at eight; overnight the charge nurse calls one on call.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
