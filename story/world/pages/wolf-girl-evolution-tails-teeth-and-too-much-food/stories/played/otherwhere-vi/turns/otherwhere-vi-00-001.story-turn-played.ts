@@ -12,4 +12,5 @@ export const otherwhereVi00001 = {
   characters: ["character-player/otherwhere-vi-nala"],
   stepStatus: "step-status/recorders",
   lore: ["lore/otherwhere-vi-nala", "place/otherwhere-vi-moss-hollow"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
