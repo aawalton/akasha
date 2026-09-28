@@ -10,7 +10,7 @@ export const otherwhereIx00005 = {
   position: 5,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     '"Well, you might want to hurry up then Firrelia!" I grunt as I try to tackle the beast and choke it.',
   beats: [
@@ -28,6 +28,6 @@ export const otherwhereIx00005 = {
     "Her arms are running with blood, her grip is slipping, and it is still hanging on.",
   ],
   lore: ["lore/otherwhere-ix-shardback"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T15:36:00.000Z",
 } as const satisfies StoryTurnPlayed
