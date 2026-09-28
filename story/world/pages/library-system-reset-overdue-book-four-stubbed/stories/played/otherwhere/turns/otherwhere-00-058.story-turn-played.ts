@@ -4,6 +4,7 @@ export const otherwhere00058 = {
   id: "01a0e7df-7f2c-7e3a-a6b4-7dbae48c3685",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-058",
+  cover: "image/image-bd50eeb674c54a50",
   ownLength: 130,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
@@ -24,5 +25,5 @@ export const otherwhere00058 = {
   ],
   lore: ["lore/otherwhere-universe", "place/otherwhere-main-hall"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
