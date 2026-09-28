@@ -4,6 +4,7 @@ export const otherwhereIii00005 = {
   id: "01a0ea0b-fb0b-7ace-a141-8f881a1ac7a2",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-005",
+  cover: "image/image-7a944f0d501504a5",
   ownLength: 220,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
@@ -30,6 +31,6 @@ export const otherwhereIii00005 = {
   ],
   lore: ["lore/otherwhere-iii-denise-pruitt", "place/otherwhere-iii-uptown-memorial-er"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2037-01-31T05:01:00.000Z",
 } as const satisfies StoryTurnPlayed
