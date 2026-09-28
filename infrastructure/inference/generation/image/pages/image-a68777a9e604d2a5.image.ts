@@ -8,6 +8,9 @@ export const imageA68777a9e604d2a5 = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-252ed27a3e5ff748",
+  title: "Nova Watching the Clouds Roll Over",
+  persona: "persona/nova",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",
