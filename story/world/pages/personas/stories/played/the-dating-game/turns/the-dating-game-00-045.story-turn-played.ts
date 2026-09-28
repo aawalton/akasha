@@ -4,10 +4,13 @@ export const theDatingGame00045 = {
   id: "01a0e821-5526-7db4-81e3-279525dd6096",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-045",
+  ownLength: 139,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 45,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: ["character-other/the-dating-game-aelwyn", "character-player/the-dating-game-alan"],
+  turnStatus: "turn-status/reviewers",
   action:
     "I take one. \"Thank you. That's really cool. Are you open to new clients? I've been wanting to get in better shape, but I definitely need some personalization for the process.\"",
   beats: [
