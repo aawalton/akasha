@@ -11,8 +11,6 @@ export const metricItem = {
     "page-type/tower-item-attack",
     "page-type/tower-item-defence",
     "page-type/tower-item-damage",
-    "page-type/harem-hotel-item-attack",
-    "page-type/harem-hotel-item-defence",
   ],
   properties: [{ pageProperty: "relation-property/metric-of-item", required: true, many: false }],
   types: "ts",

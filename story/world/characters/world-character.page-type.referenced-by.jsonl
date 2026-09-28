@@ -1894,9 +1894,6 @@
 {"propertySlug":"target-page-type","path":"story/world/mechanics/metrics/metric-character/properties/metric-of-character.relation-property.ts","id":"01a0ca08-086e-72a3-99d9-49b538d216cd"}
 {"propertySlug":"target-page-type","path":"story/world/mechanics/traits/character-trait/properties/trait-character.relation-property.ts","id":"01a0ca5d-b332-7057-9c07-e79aaa1dd975"}
 {"propertySlug":"target-page-type","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere/mechanics/skills/properties/otherwhere-skill-character.relation-property.ts","id":"01a0e7f8-cd1e-7017-8dea-a4acd8b9fd5e"}
-{"propertySlug":"target-page-type","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/classes/properties/harem-hotel-class-character.relation-property.ts","id":"01a0de51-b973-7659-84a8-11fc6f621041"}
-{"propertySlug":"target-page-type","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/quests/properties/harem-hotel-quest-character.relation-property.ts","id":"01a0de28-77bc-77de-abdb-4fd2f0a1bacb"}
-{"propertySlug":"target-page-type","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/skills/properties/harem-hotel-skill-character.relation-property.ts","id":"01a0de53-340a-7c56-8fa3-47cb544df23a"}
 {"propertySlug":"target-page-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/properties/tower-skill-character.relation-property.ts","id":"01a0de38-6904-7c2d-8fa4-cddabf2b88c3"}
 {"propertySlug":"target-page-type","path":"story/world/properties/reading-character.relation-property.ts","id":"01a0d3cb-ae43-75ef-bbd5-cfe20827da69"}
 {"propertySlug":"view-page-type","path":"page/view/pages/characters-alphabetical.view.ts","id":"01a0c940-f015-75f6-8db4-7ac9450de7f7"}

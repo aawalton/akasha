@@ -237,9 +237,9 @@ describe("playedUpcomingOf", () => {
 describe("playedHrefsOf", () => {
   test("reaches a turn by its slug and the tail of its id", () => {
     const hrefs = playedHrefsOf("story-turn-played", [
-      turnPage({ id: "0000000000abcdef", slug: "harem-hotel-01-001", position: 1 }),
+      turnPage({ id: "0000000000abcdef", slug: "the-tower-01-001", position: 1 }),
     ])
-    expect(hrefs.get("0000000000abcdef")).toBe("/story-turn-played/harem-hotel-01-001-00abcdef")
+    expect(hrefs.get("0000000000abcdef")).toBe("/story-turn-played/the-tower-01-001-00abcdef")
   })
 })
 
@@ -257,12 +257,12 @@ describe("playedChaptersOf", () => {
 describe("playedEnvelope", () => {
   test("names the story and carries every turn as prose", () => {
     const envelope = playedEnvelope({
-      title: "Harem Hotel",
+      title: "The Tower",
       turns: playedTurnsOf(turnsNumbering(3), NO_PROSE),
       chapters: [],
       state: null,
     })
-    expect(envelope.title).toBe("Harem Hotel")
+    expect(envelope.title).toBe("The Tower")
     expect(envelope.chapterProse?.map((turn) => turn.id)).toEqual(["id-0", "id-1", "id-2"])
   })
 
@@ -278,7 +278,7 @@ describe("playedEnvelope", () => {
 
   test("holds every section a panel reads, and no beat log or action box", () => {
     const envelope = playedEnvelope({
-      title: "Partners",
+      title: "Coffee Shop Date",
       turns: [],
       chapters: [],
       state: null,

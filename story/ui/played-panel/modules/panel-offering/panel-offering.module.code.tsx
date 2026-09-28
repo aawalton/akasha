@@ -12,7 +12,6 @@ import {
   metricLabel,
   poolPanelBy,
 } from "akasha/story/ui/played-panel/modules/pool-panel/pool-panel.module.code.tsx"
-import { HAREM_HOTEL_WORKINGS } from "akasha/story/world/pages/personas/stories/played/harem-hotel/mechanics/metrics/attributes/modules/harem-hotel-derived-beside/harem-hotel-derived-beside.module.code.ts"
 import { TOWER_WORKINGS } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-derived-beside/tower-derived-beside.module.code.ts"
 import { towerAttributePoint } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/resources/tower-attribute-point/tower-attribute-point.page-type.ts"
 import { towerHealth } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/resources/tower-health/tower-health.page-type.ts"
@@ -38,8 +37,6 @@ const OFFERED: Readonly<Record<string, Readonly<Record<string, unknown>>>> = {
   "akasha/story/ui/modules/sheet-panel/sheet-panel.module.code.tsx": { SheetPanel },
   "akasha/story/ui/modules/story-so-far/story-so-far.module.code.tsx": { StorySoFar },
   "akasha/story/ui/modules/time-panel/time-panel.module.code.tsx": { TimePanel },
-  "akasha/story/world/pages/personas/stories/played/harem-hotel/mechanics/metrics/attributes/modules/harem-hotel-derived-beside/harem-hotel-derived-beside.module.code.ts":
-    { HAREM_HOTEL_WORKINGS },
   "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-derived-beside/tower-derived-beside.module.code.ts":
     { TOWER_WORKINGS },
   "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/resources/tower-attribute-point/tower-attribute-point.page-type.ts":

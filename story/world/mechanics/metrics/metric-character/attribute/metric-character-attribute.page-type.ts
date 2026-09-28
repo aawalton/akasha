@@ -10,8 +10,6 @@ export const metricCharacterAttribute = {
   parts: [
     "page-type/tower-attribute",
     "page-type/tower-level",
-    "page-type/harem-hotel-attribute",
-    "page-type/harem-hotel-level",
     "page-type/cornerstone-faculty",
     "page-type/tower-of-nimue-attribute",
     "page-type/tower-of-nimue-level",

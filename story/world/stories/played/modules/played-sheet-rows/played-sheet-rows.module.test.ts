@@ -40,10 +40,10 @@ const QUEST_ROW = {
 
 test("the level is the metric whose type ends in level, and the rest are named without its opening", () => {
   const rows = [
-    { values: { type: "harem-hotel-might", value: 12 } },
-    { values: { type: "harem-hotel-level", value: 2 } },
-    { values: { type: "harem-hotel-finesse", value: 15 } },
-    { values: { type: "harem-hotel-luck", value: "11" } },
+    { values: { type: "tower-might", value: 12 } },
+    { values: { type: "tower-level", value: 2 } },
+    { values: { type: "tower-finesse", value: 15 } },
+    { values: { type: "tower-luck", value: "11" } },
   ]
   expect(scoresIn(rows)).toEqual({ level: 2, attributes: { FINESSE: 15, MIGHT: 12 } })
 })

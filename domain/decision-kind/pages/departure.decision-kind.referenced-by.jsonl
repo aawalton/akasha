@@ -3818,13 +3818,6 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere/mechanics/checks/otherwhere-harm.world-check.ts","id":"01a0e363-de4d-707a-b798-b425b58c417a"}
 {"propertySlug":"decision-kind","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere/mechanics/checks/otherwhere-standing.world-check.ts","id":"01a0e365-14b9-7ffb-bde4-00f1f3dbfa23"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/dragons-and-dungeons/mechanics/checks/dragons-and-dungeons-check.world-check.ts","id":"01a0e3a2-2fca-74ba-add3-c6d38b930e0b"}
-{"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/checks/harem-hotel-attack-resolution.world-check.ts","id":"01a0de4f-b413-77b3-9c4c-10de6f313ef8"}
-{"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/classes/harem-hotel-class.page-type.ts","id":"01a0de51-b972-7e50-a28d-49e039320ff6"}
-{"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/derived/harem-hotel-leveling.world-derived-metric.ts","id":"01a0de4e-cf62-7069-8c91-a842c9cabc81"}
-{"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/derived/harem-hotel-physical-attack.world-derived-metric.ts","id":"01a0de4e-cf62-715f-baa9-c6b519a033bc"}
-{"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/metrics/attributes/modules/harem-hotel-derived-beside/harem-hotel-derived-beside.module.ts","id":"01a0de74-5fb3-7e65-8670-7ee66796c341"}
-{"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/skills/harem-hotel-skill.page-type.ts","id":"01a0de53-3409-79d9-8457-9d788aab3b6b"}
-{"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/skills/ranks/harem-hotel-skill-rank.page-type.ts","id":"01a0de53-340a-7c6a-a890-09e16471cc50"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-dating-game/mechanics/checks/the-dating-game-closeness-scoring.world-check.ts","id":"01a0dee4-f4b7-70af-bd38-a35274387d8c"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attack-resolution.world-check.ts","id":"01a0de1c-e954-742b-969b-e66eaf0b328e"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attribute-check.world-check.ts","id":"01a0de1d-a3b3-7566-8cf0-d6c0a70d3ade"}

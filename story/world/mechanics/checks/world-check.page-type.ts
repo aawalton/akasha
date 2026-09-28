@@ -12,7 +12,6 @@ export const worldCheck = {
     "world-check/tower-attack-resolution",
     "world-check/tower-attribute-check",
     "world-check/tower-essence-absorption",
-    "world-check/harem-hotel-attack-resolution",
     "world-check/the-dating-game-closeness-scoring",
     "world-check/otherwhere-action-check",
     "world-check/otherwhere-harm",
