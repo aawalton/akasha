@@ -36,4 +36,6 @@ export const otherwhere00005 = {
   ],
   lore: ["lore/otherwhere-cinder-isle-plants", "lore/otherwhere-copperbacks"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
+  endsAt: "2026-09-28T13:37:00.000Z",
 } as const satisfies StoryTurnPlayed
