@@ -10,7 +10,7 @@ export const otherwhere00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I start walking towards the mountain, taking care to move quietly and observe carefully, especially for any signs of danger.",
   beats: [
@@ -57,5 +57,5 @@ export const otherwhere00002 = {
     "lore/otherwhere-ashback",
     "lore/otherwhere-cinder-isle-plants",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
