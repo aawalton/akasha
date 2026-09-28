@@ -1,9 +1,9 @@
 import type { WorldCheck } from "akasha/story/world/mechanics/checks/world-check.page-type.types.ts"
 
-export const otherwhereTheLibraryStanding = {
+export const otherwhereIStanding = {
   id: "01a0e365-14b9-7ffb-bde4-00f1f3dbfa23",
   type: "page-type/world-check",
-  slug: "otherwhere-the-library-standing",
+  slug: "otherwhere-i-standing",
   title: "Standing",
   definition: "the standing one turn with a character in Otherwhere earns or costs",
   settling: {},

@@ -1,9 +1,9 @@
 import type { WorldCheck } from "akasha/story/world/mechanics/checks/world-check.page-type.types.ts"
 
-export const otherwhereTheLibraryActionCheck = {
+export const otherwhereIActionCheck = {
   id: "01a0e35d-c37f-706b-b681-d6e791bc2b7a",
   type: "page-type/world-check",
-  slug: "otherwhere-the-library-action-check",
+  slug: "otherwhere-i-action-check",
   title: "Action Check",
   definition: "whether a declared act in Otherwhere comes off, and how well",
   settling: {},

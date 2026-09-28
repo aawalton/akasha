@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { settled } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/checks/otherwhere-the-library-standing.world-check.settling.code.ts"
+import { settled } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/checks/otherwhere-i-standing.world-check.settling.code.ts"
 
 const AT = {
   character: "him",

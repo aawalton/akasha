@@ -1,9 +1,9 @@
 import type { WorldCheck } from "akasha/story/world/mechanics/checks/world-check.page-type.types.ts"
 
-export const otherwhereTheLibraryHarm = {
+export const otherwhereIHarm = {
   id: "01a0e363-de4d-707a-b798-b425b58c417a",
   type: "page-type/world-check",
-  slug: "otherwhere-the-library-harm",
+  slug: "otherwhere-i-harm",
   title: "Harm",
   definition: "how much harm a blow that landed in Otherwhere deals",
   settling: {},
