@@ -171,6 +171,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "Skiff, a Chicago hero, looks strained and soaked in the footage, talking to reporters on a pier.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A segment marks six months since the hero Hannah Elber left on a System summons and never came back.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
