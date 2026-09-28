@@ -31,8 +31,10 @@
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-stalker.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-tigerman.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-treeborn.world-species.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-undead.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-wolfman.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-wyvern.world-species.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-zombie.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/species/super-supportive-artonan.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/species/super-supportive-balkon.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/species/super-supportive-bokabv.world-species.ts","typed":true,"deferred":false}
