@@ -57,6 +57,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-cnh-hero-admissions.lore.ts","id":"01a0ea11-25f1-7c15-91b5-e289c5b978c5"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-colibri.lore.ts","id":"01a0ea03-c8e5-76a2-9e55-68aa6fecce17"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-contract-of-service.lore.ts","id":"01a0ea01-2f63-7bda-8d5d-4e5d1c3dd2d4"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-contract-refuser.lore.ts","id":"01a0ea15-fcf0-7ec5-b517-b4ea7590db68"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-contract-tattoo.lore.ts","id":"01a0ea06-4082-7444-945d-853f30315846"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-contract-verified-profile.lore.ts","id":"01a0ea0f-e345-7eb8-b536-18d5560416a8"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-cook-of-the-moment.lore.ts","id":"01a0ea11-25f2-7607-8518-a616d3979745"}
@@ -85,6 +86,8 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-event-thegund-corruption-incident.lore.ts","id":"01a0ea0b-ea11-7146-96ec-9a583acf8741"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-everly-kim.lore.ts","id":"01a0ea09-46bc-715d-88fb-361d82dfe081"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-evul-arth.lore.ts","id":"01a0e9ff-8f64-7556-a140-4ca71d1b15be"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-ewtwee.lore.ts","id":"01a0ea15-fcf1-7894-8fd7-550e69f61f68"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-feathers-touch.lore.ts","id":"01a0ea15-fcf1-72ed-98b7-d190246b6de5"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-febri.lore.ts","id":"01a0ea13-df93-74b4-9dd1-49a0688db427"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-finlay.lore.ts","id":"01a0ea06-099b-759b-b2eb-d71163e45b1b"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-flickerer.lore.ts","id":"01a0ea11-25f2-7af2-b071-6865b104d3ba"}
@@ -208,12 +211,14 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-post-drop.lore.ts","id":"01a0ea03-1b0f-7b3a-a6a9-a67d29c8a858"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-pre-affixation-trade.lore.ts","id":"01a0e9fa-71c2-737f-999f-588ffc564454"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-privileges.lore.ts","id":"01a0ea0f-e346-7b5f-b5e4-f4117c3161ce"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-purposefulness.lore.ts","id":"01a0ea15-fcf1-7576-9234-4624860a9f32"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-quest.lore.ts","id":"01a0e9fc-7b33-7caa-904e-ac7ee84e857c"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-rabbit.lore.ts","id":"01a0e9fb-589f-7d5b-a1aa-1613357115e7"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-rahul.lore.ts","id":"01a0ea0a-3669-72d1-a316-5251f183084b"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-rank-a.lore.ts","id":"01a0ea01-2f64-7901-bdb2-84d20b796123"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-rank-b.lore.ts","id":"01a0ea01-2f64-7ab5-80ca-5db01816f857"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-rank-c.lore.ts","id":"01a0e9fb-589f-7ea1-ac79-b1eb6cb2aa44"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-rank-clubs.lore.ts","id":"01a0ea15-fcf1-740e-bb17-5c661874511c"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-rank-d.lore.ts","id":"01a0e9fb-589f-778c-b768-1b5e91a5d7d5"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-rank-s.lore.ts","id":"01a0e9fb-589f-726e-9bac-9ea014e0f7b1"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-rare-class.lore.ts","id":"01a0ea02-1747-7247-b472-5c227007509d"}
