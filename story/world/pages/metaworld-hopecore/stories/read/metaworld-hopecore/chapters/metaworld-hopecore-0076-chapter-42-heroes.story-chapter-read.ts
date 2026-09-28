@@ -4,6 +4,7 @@ export const metaworldHopecore0076Chapter42Heroes = {
   id: "01a06731-aeeb-7003-8b61-b52550a44d47",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0076-chapter-42-heroes",
+  ownProgress: 2267,
   title: "Chapter 42 - Heroes",
   story: "story-read/metaworld-hopecore",
   position: 76,

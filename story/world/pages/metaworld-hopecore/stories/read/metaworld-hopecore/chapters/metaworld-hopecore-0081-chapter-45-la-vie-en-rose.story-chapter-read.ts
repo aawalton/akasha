@@ -4,6 +4,7 @@ export const metaworldHopecore0081Chapter45LaVieEnRose = {
   id: "01a06731-aeee-7000-b900-b9d25baae82b",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0081-chapter-45-la-vie-en-rose",
+  ownProgress: 3737,
   title: "CHAPTER 45 - La Vie en Rose",
   story: "story-read/metaworld-hopecore",
   position: 81,

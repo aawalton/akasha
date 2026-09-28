@@ -4,6 +4,7 @@ export const metaworldHopecore0065Chapter35OurHouse2 = {
   id: "01a06731-aee8-7003-9302-32a02cc246ba",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0065-chapter-35-our-house-2",
+  ownProgress: 2276,
   title: "Chapter 35 — Our House (2) ",
   story: "story-read/metaworld-hopecore",
   position: 65,

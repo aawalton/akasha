@@ -4,6 +4,7 @@ export const metaworldHopecore0046Chapter24TheActor2 = {
   id: "01a06731-aee0-7003-b578-516168d64486",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0046-chapter-24-the-actor-2",
+  ownProgress: 1557,
   title: "CHAPTER 24 - The Actor (2) ",
   story: "story-read/metaworld-hopecore",
   position: 46,

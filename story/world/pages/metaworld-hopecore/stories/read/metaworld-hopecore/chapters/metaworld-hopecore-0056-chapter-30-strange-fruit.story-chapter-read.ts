@@ -4,6 +4,7 @@ export const metaworldHopecore0056Chapter30StrangeFruit = {
   id: "01a06731-aee4-7001-9003-36b4e1aba9e6",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0056-chapter-30-strange-fruit",
+  ownProgress: 3375,
   title: "Chapter 30 - Strange Fruit",
   story: "story-read/metaworld-hopecore",
   position: 56,

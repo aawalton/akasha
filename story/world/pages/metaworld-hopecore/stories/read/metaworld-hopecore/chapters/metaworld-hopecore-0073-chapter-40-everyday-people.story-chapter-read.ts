@@ -4,6 +4,7 @@ export const metaworldHopecore0073Chapter40EverydayPeople = {
   id: "01a06731-aeeb-7000-874e-3b6eb1d074b1",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0073-chapter-40-everyday-people",
+  ownProgress: 2482,
   title: "Chapter 40 - Everyday People",
   story: "story-read/metaworld-hopecore",
   position: 73,

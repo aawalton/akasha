@@ -4,6 +4,7 @@ export const metaworldHopecore0044Chapter23KarmaPolice2 = {
   id: "01a06731-aee0-7001-9862-26cbf8723fe9",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0044-chapter-23-karma-police-2",
+  ownProgress: 1531,
   title: "CHAPTER 23 - Karma Police (2) ",
   story: "story-read/metaworld-hopecore",
   position: 44,

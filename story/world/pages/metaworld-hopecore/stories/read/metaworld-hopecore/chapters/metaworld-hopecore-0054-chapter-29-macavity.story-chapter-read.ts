@@ -4,6 +4,7 @@ export const metaworldHopecore0054Chapter29Macavity = {
   id: "01a06731-aee3-7002-968b-cdbc6dc1ff6d",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0054-chapter-29-macavity",
+  ownProgress: 2912,
   title: "Chapter 29 - Macavity",
   story: "story-read/metaworld-hopecore",
   position: 54,

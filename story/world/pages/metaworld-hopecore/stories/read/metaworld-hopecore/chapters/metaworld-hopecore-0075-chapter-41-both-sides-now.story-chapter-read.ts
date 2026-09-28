@@ -4,6 +4,7 @@ export const metaworldHopecore0075Chapter41BothSidesNow = {
   id: "01a06731-aeeb-7002-be30-1778e131b0ce",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0075-chapter-41-both-sides-now",
+  ownProgress: 2415,
   title: "Chapter 41 - Both Sides Now ",
   story: "story-read/metaworld-hopecore",
   position: 75,

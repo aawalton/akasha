@@ -4,6 +4,7 @@ export const metaworldHopecore0058Chapter31IKnowThingsNow2 = {
   id: "01a06731-aee7-7000-ba30-e6749c4f3939",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0058-chapter-31-i-know-things-now-2",
+  ownProgress: 2513,
   title: "Chapter 31 - I Know Things Now (2) ",
   story: "story-read/metaworld-hopecore",
   position: 58,

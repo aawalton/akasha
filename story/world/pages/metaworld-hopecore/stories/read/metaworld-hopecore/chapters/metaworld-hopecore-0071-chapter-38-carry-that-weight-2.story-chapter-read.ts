@@ -4,6 +4,7 @@ export const metaworldHopecore0071Chapter38CarryThatWeight2 = {
   id: "01a06731-aeea-7001-8f46-804d96f14f76",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0071-chapter-38-carry-that-weight-2",
+  ownProgress: 1698,
   title: "Chapter 38 - Carry that Weight (2) ",
   story: "story-read/metaworld-hopecore",
   position: 71,

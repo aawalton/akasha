@@ -4,6 +4,7 @@ export const metaworldHopecore0040Chapter21FakePlasticTrees2 = {
   id: "01a06731-aedd-7000-84de-8574638bfe46",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0040-chapter-21-fake-plastic-trees-2",
+  ownProgress: 2236,
   title: "CHAPTER 21 - Fake Plastic Trees (2) ",
   story: "story-read/metaworld-hopecore",
   position: 40,

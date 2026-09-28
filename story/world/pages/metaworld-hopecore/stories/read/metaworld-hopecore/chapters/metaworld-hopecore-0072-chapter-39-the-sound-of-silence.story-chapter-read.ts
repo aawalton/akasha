@@ -4,6 +4,7 @@ export const metaworldHopecore0072Chapter39TheSoundOfSilence = {
   id: "01a06731-aeea-7002-be17-61edfc7f82b8",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0072-chapter-39-the-sound-of-silence",
+  ownProgress: 2820,
   title: "Chapter 39 - The Sound of Silence",
   story: "story-read/metaworld-hopecore",
   position: 72,

@@ -4,6 +4,7 @@ export const metaworldHopecore0033Chapter18TheGiftOfGiving = {
   id: "01a06731-aed9-7000-ad37-9fae446acdca",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0033-chapter-18-the-gift-of-giving",
+  ownProgress: 2789,
   title: "CHAPTER 18 - The Gift of Giving",
   story: "story-read/metaworld-hopecore",
   position: 33,

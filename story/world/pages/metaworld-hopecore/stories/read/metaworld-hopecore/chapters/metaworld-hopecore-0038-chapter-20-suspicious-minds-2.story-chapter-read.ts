@@ -4,6 +4,7 @@ export const metaworldHopecore0038Chapter20SuspiciousMinds2 = {
   id: "01a06731-aedc-7000-84a2-f5b174b8418a",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0038-chapter-20-suspicious-minds-2",
+  ownProgress: 2090,
   title: "CHAPTER 20 - Suspicious Minds (2)",
   story: "story-read/metaworld-hopecore",
   position: 38,

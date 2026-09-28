@@ -4,6 +4,7 @@ export const metaworldHopecore0041Chapter22KillingInTheName = {
   id: "01a06731-aedd-7001-ae06-c2be7b07adae",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0041-chapter-22-killing-in-the-name",
+  ownProgress: 2349,
   title: "CHAPTER 22 - Killing in the Name",
   story: "story-read/metaworld-hopecore",
   position: 41,

@@ -4,6 +4,7 @@ export const metaworldHopecore0061Chapter33UnderMyThumb = {
   id: "01a06731-aee7-7003-a3a8-88f7dfa7393f",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0061-chapter-33-under-my-thumb",
+  ownProgress: 2795,
   title: "Chapter 33 — Under My Thumb",
   story: "story-read/metaworld-hopecore",
   position: 61,

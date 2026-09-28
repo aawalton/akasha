@@ -4,6 +4,7 @@ export const metaworldHopecore0066Chapter36StandByMe = {
   id: "01a06731-aee8-7004-b279-66fa2176caa1",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0066-chapter-36-stand-by-me",
+  ownProgress: 1832,
   title: "Chapter 36 - Stand By Me",
   story: "story-read/metaworld-hopecore",
   position: 66,

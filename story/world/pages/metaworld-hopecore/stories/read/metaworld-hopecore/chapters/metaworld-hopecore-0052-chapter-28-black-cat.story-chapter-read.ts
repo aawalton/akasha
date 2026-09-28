@@ -4,6 +4,7 @@ export const metaworldHopecore0052Chapter28BlackCat = {
   id: "01a06731-aee3-7000-a1dd-d832ab7e3430",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0052-chapter-28-black-cat",
+  ownProgress: 2118,
   title: "Chapter 28 - Black Cat",
   story: "story-read/metaworld-hopecore",
   position: 52,

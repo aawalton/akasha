@@ -4,6 +4,7 @@ export const metaworldHopecore0049Chapter26TheManComesAround = {
   id: "01a06731-aee0-7006-af09-5304c71cdbf6",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0049-chapter-26-the-man-comes-around",
+  ownProgress: 2343,
   title: "Chapter 26 - The Man Comes Around",
   story: "story-read/metaworld-hopecore",
   position: 49,
