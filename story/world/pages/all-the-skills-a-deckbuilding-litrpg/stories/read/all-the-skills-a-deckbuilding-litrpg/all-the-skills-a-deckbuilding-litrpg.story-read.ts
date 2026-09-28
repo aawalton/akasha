@@ -15,7 +15,7 @@ export const allTheSkillsADeckbuildingLitrpg = {
   ],
   author: "HonourRae",
   grade: "B",
-  following: true,
+  following: false,
   externalTags: [
     "LitRPG",
     "Progression",
