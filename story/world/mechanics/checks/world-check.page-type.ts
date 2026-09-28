@@ -28,6 +28,7 @@ export const worldCheck = {
     "world-check/otherwhere-v-action-check",
     "world-check/otherwhere-v-harm",
     "world-check/otherwhere-v-needs",
+    "world-check/otherwhere-v-standing",
     "world-check/otherwhere-needs",
     "world-check/otherwhere-harm",
     "world-check/otherwhere-experience",
