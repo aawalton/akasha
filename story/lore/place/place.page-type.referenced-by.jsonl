@@ -208,6 +208,7 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-celena-north-high.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-celena-north-university.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-chicago-house-of-healing.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-connies-apartment.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-dakota-avowed-seclusion-zone.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-elepta-agricultural-community.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-f-city.place.ts","typed":true,"deferred":false}
@@ -227,6 +228,7 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-matadero.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-moon-thegund.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-narcissus-house.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-new-sybaris.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-nilama-marina.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-nilama-paragon-academy.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-north-of-north.place.ts","typed":true,"deferred":false}
