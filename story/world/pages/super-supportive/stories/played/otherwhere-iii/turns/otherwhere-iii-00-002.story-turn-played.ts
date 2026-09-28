@@ -4,13 +4,14 @@ export const otherwhereIii00002 = {
   id: "01a0e9e2-0d21-7baa-a1ca-9cbdcbe28bac",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-002",
+  cover: "image/image-9852dcc86a2b6003",
   ownLength: 340,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-iii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Anesidora?” I say softly to myself. “I know that name. Earth Contract, are you listening? I think you’ll want to pay attention to me. I wasn’t in your world a moment ago.”",
   beats: [
@@ -28,6 +29,6 @@ export const otherwhereIii00002 = {
   issues: ['"talking to nobody" - Plain Negation'],
   lore: ["lore/otherwhere-iii-the-system"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2037-01-31T04:47:00.000Z",
 } as const satisfies StoryTurnPlayed

@@ -52,6 +52,10 @@ export const otherwhereIiiBelmontPlatform = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The man in the puffy coat has seen Nala barefoot in a sleep shirt, talking to the air.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
       fact: "Bare feet on the snowy stairs or street go numb within minutes and risk frostbite within the hour.",
       knowers: ["lore-disclosure/game-master"],
     },

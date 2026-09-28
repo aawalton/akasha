@@ -96,6 +96,14 @@ export const otherwhereIiiNala = {
       fact: "No record of her exists in this world: no birth, no name, no prints, no face on file.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala knows the name Anesidora from somewhere outside this world.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
+      fact: "Nala called aloud on the Earth Contract, and no voice, box or light answered her.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
