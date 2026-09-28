@@ -6,5 +6,6 @@ export const superSupportiveMoonThegund = {
   slug: "super-supportive-moon-thegund",
   title: "Moon Thegund",
   world: "world/super-supportive",
+  within: "place/super-supportive-kimnor",
   secrets: "jsonl",
 } as const satisfies Place
