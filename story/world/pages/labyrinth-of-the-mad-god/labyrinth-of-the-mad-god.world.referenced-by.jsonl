@@ -6,10 +6,12 @@
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ashback.lore.ts","id":"01a0e98e-a9b5-7291-b479-31106638ee6b"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-astra.lore.ts","id":"01a0e9a5-b2a1-7fe0-b06a-c2bdd5633267"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-attributes.lore.ts","id":"01a0e9a2-c7ce-7fb5-b146-47d8a533f254"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-bag-of-molding.lore.ts","id":"01a0e9d1-a3d8-7a40-b03a-963f0f644dd0"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ban-li.lore.ts","id":"01a0e9cf-bd36-755a-a67f-e0b1e9c5b225"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-bandit.lore.ts","id":"01a0e9cc-7009-72ef-a193-2039e0e5d19f"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-basilisk.lore.ts","id":"01a0e9c4-861d-7f99-ab5a-905b017b42f8"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-blight-core.lore.ts","id":"01a0e9d0-bfd5-7455-95cd-7d18af527fe1"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-blightbane.lore.ts","id":"01a0e9d1-a3d9-723f-bba1-ab39a5f92d77"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-bonecrunchers.lore.ts","id":"01a0e9c0-87b2-7dea-b149-93bd925ccbff"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-bret.lore.ts","id":"01a0e9ca-c7c3-7652-9583-7c60b02e8526"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-challenge-constructs.lore.ts","id":"01a0e9c4-861d-725b-ba6a-8cfefbdcb85b"}
@@ -32,11 +34,13 @@
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-dungeons.lore.ts","id":"01a0e9a4-b08a-78fd-8a22-0a6677ded52b"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-earth-after-the-tutorials.lore.ts","id":"01a0e9c7-9b39-73bf-9d62-4a546b358bbd"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-earth-beasts.lore.ts","id":"01a0e9c3-c617-7a5e-b60b-802016359049"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-elixir-of-restoration.lore.ts","id":"01a0e9d1-a3d9-71d9-bc0f-9b279ce44edf"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-elizabeth-duval.lore.ts","id":"01a0e9ca-01e9-74dd-8f05-ff220f63ed9f"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ella-dimkey.lore.ts","id":"01a0e9ca-01ea-765a-b71e-ec7aec58a7c5"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-fallen-beasts.lore.ts","id":"01a0e9c2-fe15-7e5b-825b-a840633aecce"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-fennier.lore.ts","id":"01a0e9cf-bd36-77b6-a22c-47cebf910c9e"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-finren.lore.ts","id":"01a0e9ce-117f-7c83-8f95-59975e275d4b"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-floatstone.lore.ts","id":"01a0e9d1-a3d9-764b-b6fa-653128baafb2"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-fritz.lore.ts","id":"01a0e9cc-700a-7853-a1ce-bd8044c63146"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-frostfury-wasps.lore.ts","id":"01a0e9c2-1a5a-73be-9344-9a0423fbca3c"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-gaia.lore.ts","id":"01a0e9c7-1b29-7aef-96a1-10fe78cae4d7"}
@@ -119,6 +123,7 @@
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-vital-energies.lore.ts","id":"01a0e9a3-9f55-7fe3-b786-f54ba314e6e1"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-voidbears.lore.ts","id":"01a0e9c2-fe15-7281-b6e4-aa254c9f6cac"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-voidspawn.lore.ts","id":"01a0e9c2-fe15-7fe0-b54e-e38abb541e81"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-wand-of-force.lore.ts","id":"01a0e9d1-a3d9-7f65-9ce4-78f1c30eb177"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-xuthu.lore.ts","id":"01a0e9cf-bd37-7280-9cb8-55077f78438e"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-yarren.lore.ts","id":"01a0e9ce-df77-7141-8cf8-67d9c348b70f"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-yoro.lore.ts","id":"01a0e9cd-42e7-73cc-9e9f-c306b3e59bdf"}
