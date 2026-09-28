@@ -7,8 +7,15 @@ export const otherwhere00062 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 62,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "**What about dress and appearance, any specific expectations around librarians I need to comply with?**",
+  beats: [
+    "Nala asks Links whether a Librarian has to dress or look any particular way.",
+    'Links: "The Library doesn\'t dress you. Wear what you like."',
+    'Links: "But that blue robe of yours? Many peoples out there know it on sight. It says Librarian."',
+    'Links: "Skin\'s trickier. Every people draws its own line on how much should show."',
+    'Links: "Covered and neat offends almost nobody. Your robe\'s both. Mostly."',
+  ],
   lore: ["lore/otherwhere-universe"],
 } as const satisfies StoryTurnPlayed
