@@ -4,6 +4,7 @@ export const theDatingGame00045 = {
   id: "01a0e821-5526-7db4-81e3-279525dd6096",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-045",
+  cover: "image/image-adef2b977d25618c",
   ownLength: 139,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
@@ -26,6 +27,6 @@ export const theDatingGame00045 = {
   ],
   lore: ["lore/the-dating-game-aelwyn"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-27T10:41:00.000Z",
 } as const satisfies StoryTurnPlayed
