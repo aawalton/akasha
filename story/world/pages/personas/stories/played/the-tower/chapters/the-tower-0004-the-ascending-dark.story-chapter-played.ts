@@ -10,4 +10,6 @@ export const theTower0004TheAscendingDark = {
   story: "story-played/the-tower",
   ownLength: 6036,
   prose: "txt",
+  lastTurn: "the-tower-00-069",
+  lastTurnPosition: 69,
 } as const satisfies StoryChapterPlayed
