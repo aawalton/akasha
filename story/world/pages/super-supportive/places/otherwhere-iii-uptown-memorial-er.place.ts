@@ -167,6 +167,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "A caption dates the broadcast Saturday, January 31, 2037.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Skiff, a Chicago hero, looks strained and soaked in the footage, talking to reporters on a pier.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
