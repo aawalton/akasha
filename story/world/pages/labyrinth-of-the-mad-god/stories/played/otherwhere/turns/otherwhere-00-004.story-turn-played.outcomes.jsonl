@@ -1,1 +1,2 @@
 {"check":"world-check/otherwhere-action-check","reading":{"band":"standard","attribute":10,"bonuses":[{"from":"a throbbing, bleeding head wound","by":-1}]},"dice":{"said":"1d20","sides":20,"faces":[19]},"seed":"75cf2f39ea11c9afd2f14b92f4f0e2ac2c9a8568b01e384beacd9332ffd29761","answered":{"succeeded":true,"outcome":"strong","total":20,"target":12,"margin":8}}
+{"check":"world-check/otherwhere-time-passing","reading":{"from":"2026-09-28T11:27:00.000Z","minutes":75},"answered":{"endsAt":"2026-09-28T12:42:00.000Z","day":1,"light":"day"}}
