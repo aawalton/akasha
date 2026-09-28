@@ -7,7 +7,8 @@ export const otherwhere00061 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 61,
-  turnStatus: "turn-status/world-builder",
+  turnStatus: "turn-status/game-master",
   action:
     "**Okay Links, what do I need to do the restore the check-in counter? Also, are there any global taboos I need to know about? From seeing the past patrons, I'm assuming the cultures here are more diverse than what I'm use to.**",
+  lore: ["lore/otherwhere-universe"],
 } as const satisfies StoryTurnPlayed
