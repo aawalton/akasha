@@ -35,6 +35,8 @@ export const otherwhereIii00009 = {
     'She glances back toward the desk. "I\'ve got five minutes before I clock in."',
     '"Is there anybody back home I can let you call? The desk phone\'s free."',
   ],
+  issues: ['"She has changed into navy scrubs" - Denise already wore blue scrubs on the train'],
   lore: ["place/otherwhere-iii-uptown-memorial-er", "lore/otherwhere-iii-the-system"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2037-01-31T05:25:00.000Z",
 } as const satisfies StoryTurnPlayed
