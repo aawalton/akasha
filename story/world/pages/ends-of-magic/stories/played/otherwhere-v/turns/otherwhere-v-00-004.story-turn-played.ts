@@ -10,7 +10,7 @@ export const otherwhereV00004 = {
   position: 4,
   prose: "txt",
   characters: ["character-player/otherwhere-v-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I quietly make my way back to the hollow trunk and crawl inside, hoping the narrow passage and smell of decay will hide me from threats.",
   beats: [
@@ -28,6 +28,6 @@ export const otherwhereV00004 = {
     "Ahead, the log's mouth is still some forty yards off in the dark.",
   ],
   lore: ["place/otherwhere-v-fern-hollow", "lore/otherwhere-v-gloamcat"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T19:01:00.000Z",
 } as const satisfies StoryTurnPlayed
