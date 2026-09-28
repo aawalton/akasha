@@ -51,7 +51,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "The hospital keeps a closet of donated coats, shoes, sweatpants and underwear.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Heroes and Avowed injuries go to the House of Healing, not here; this ER sees ordinary cases.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
-  secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
 } as const satisfies Place
