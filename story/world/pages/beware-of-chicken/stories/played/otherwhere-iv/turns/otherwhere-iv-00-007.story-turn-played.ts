@@ -4,13 +4,14 @@ export const otherwhereIv00007 = {
   id: "01a0ea46-a941-741a-8981-afa0e7bdcd50",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-007",
+  cover: "image/image-43ce32baa5f53748",
   ownLength: 391,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],
   position: 7,
   prose: "txt",
   characters: ["character-player/otherwhere-iv-nala", "character-other/otherwhere-iv-zhao-jun"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     '"Of course. As a spirit of knowledge, I am always happy for honest questions, and answering them is the least I can do for the hospitality you have already given."',
   beats: [
@@ -43,6 +44,6 @@ export const otherwhereIv00007 = {
     "lore/otherwhere-iv-calendar",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T08:34:00.000Z",
 } as const satisfies StoryTurnPlayed
