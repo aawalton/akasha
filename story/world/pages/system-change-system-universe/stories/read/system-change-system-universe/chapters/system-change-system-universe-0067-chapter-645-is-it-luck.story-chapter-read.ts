@@ -4,6 +4,7 @@ export const systemChangeSystemUniverse0067Chapter645IsItLuck = {
   id: "01a06730-4fbc-79b9-a2e2-722383b9dfb1",
   type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0067-chapter-645-is-it-luck",
+  ownProgress: 2942,
   title: "Chapter 645: Is it Luck?",
   story: "story-read/system-change-system-universe",
   position: 67,

@@ -4,6 +4,7 @@ export const systemChangeSystemUniverse0102Chapter680DraconicVoidFlameVsChicken 
   id: "01a06730-4fbd-7d53-8d93-9b50a54c68e3",
   type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0102-chapter-680-draconic-void-flame-vs-chicken",
+  ownProgress: 2039,
   title: "Chapter 680: Draconic Void Flame VS. Chicken",
   story: "story-read/system-change-system-universe",
   position: 102,

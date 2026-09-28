@@ -4,6 +4,7 @@ export const systemChangeSystemUniverse0073Chapter651SoYouAgree = {
   id: "01a06730-4fbc-7c08-b093-423d5d81dd09",
   type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0073-chapter-651-so-you-agree",
+  ownProgress: 2213,
   title: "Chapter 651: So... You Agree?",
   story: "story-read/system-change-system-universe",
   position: 73,

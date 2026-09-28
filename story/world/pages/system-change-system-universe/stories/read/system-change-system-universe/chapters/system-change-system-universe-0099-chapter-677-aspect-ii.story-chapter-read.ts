@@ -4,6 +4,7 @@ export const systemChangeSystemUniverse0099Chapter677AspectIi = {
   id: "01a06730-4fbd-7018-bfd3-f1b08971bd15",
   type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0099-chapter-677-aspect-ii",
+  ownProgress: 2476,
   title: "Chapter 677: Aspect II",
   story: "story-read/system-change-system-universe",
   position: 99,

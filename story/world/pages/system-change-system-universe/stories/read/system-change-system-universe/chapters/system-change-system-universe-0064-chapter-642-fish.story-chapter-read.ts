@@ -4,6 +4,7 @@ export const systemChangeSystemUniverse0064Chapter642Fish = {
   id: "01a06730-4fbb-7df3-b267-628f4948e6be",
   type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0064-chapter-642-fish",
+  ownProgress: 2073,
   title: "Chapter 642: Fish...",
   story: "story-read/system-change-system-universe",
   position: 64,

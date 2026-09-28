@@ -4,6 +4,7 @@ export const systemChangeSystemUniverse0076Chapter654GreatBattle = {
   id: "01a06730-4fbc-7d4a-b4c8-b30d491046dc",
   type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0076-chapter-654-great-battle",
+  ownProgress: 2089,
   title: "Chapter 654: Great Battle!",
   story: "story-read/system-change-system-universe",
   position: 76,

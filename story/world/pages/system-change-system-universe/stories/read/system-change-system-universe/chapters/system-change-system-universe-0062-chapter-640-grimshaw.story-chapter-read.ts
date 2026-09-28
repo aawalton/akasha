@@ -4,6 +4,7 @@ export const systemChangeSystemUniverse0062Chapter640Grimshaw = {
   id: "01a06730-4fbb-7259-a5a6-9291d734a8e5",
   type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0062-chapter-640-grimshaw",
+  ownProgress: 2316,
   title: "Chapter 640: Grimshaw",
   story: "story-read/system-change-system-universe",
   position: 62,

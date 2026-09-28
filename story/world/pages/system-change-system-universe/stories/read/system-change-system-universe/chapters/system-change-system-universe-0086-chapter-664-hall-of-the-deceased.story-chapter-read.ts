@@ -4,6 +4,7 @@ export const systemChangeSystemUniverse0086Chapter664HallOfTheDeceased = {
   id: "01a06730-4fbc-7238-85b6-91cdc71a87f2",
   type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0086-chapter-664-hall-of-the-deceased",
+  ownProgress: 2015,
   title: "Chapter 664: Hall of the Deceased",
   story: "story-read/system-change-system-universe",
   position: 86,

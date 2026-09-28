@@ -4,6 +4,7 @@ export const systemChangeSystemUniverse0101Chapter679PrimalFoundations = {
   id: "01a06730-4fbd-7ee4-bda1-6f7638de018f",
   type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0101-chapter-679-primal-foundations",
+  ownProgress: 2162,
   title: "Chapter 679: Primal Foundations",
   story: "story-read/system-change-system-universe",
   position: 101,

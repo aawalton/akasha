@@ -4,6 +4,7 @@ export const systemChangeSystemUniverse0091Chapter669BranchHeir = {
   id: "01a06730-4fbc-75b2-bf81-2c29ba48374b",
   type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0091-chapter-669-branch-heir",
+  ownProgress: 2038,
   title: "Chapter 669: Branch Heir",
   story: "story-read/system-change-system-universe",
   position: 91,

@@ -4,6 +4,7 @@ export const systemChangeSystemUniverse0083Chapter661EpiloguePrologue = {
   id: "01a06730-4fbc-7c44-b77f-78806bd6a58d",
   type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0083-chapter-661-epilogue-prologue",
+  ownProgress: 2512,
   title: "Chapter 661: Epilogue/Prologue",
   story: "story-read/system-change-system-universe",
   position: 83,

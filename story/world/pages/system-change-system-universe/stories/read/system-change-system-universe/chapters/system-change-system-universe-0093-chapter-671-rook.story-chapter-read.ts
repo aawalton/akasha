@@ -4,6 +4,7 @@ export const systemChangeSystemUniverse0093Chapter671Rook = {
   id: "01a06730-4fbd-7b78-a251-9936c85754ad",
   type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0093-chapter-671-rook",
+  ownProgress: 2106,
   title: "Chapter 671: Rook",
   story: "story-read/system-change-system-universe",
   position: 93,

@@ -4,6 +4,7 @@ export const systemChangeSystemUniverse0096Chapter674GainsAndPlans = {
   id: "01a06730-4fbd-7402-8337-d5a695aee05a",
   type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0096-chapter-674-gains-and-plans",
+  ownProgress: 2175,
   title: "Chapter 674: Gains and Plans",
   story: "story-read/system-change-system-universe",
   position: 96,

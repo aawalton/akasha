@@ -4,6 +4,7 @@ export const systemChangeSystemUniverse0097Chapter675OriginUpgrades101 = {
   id: "01a06730-4fbd-78db-86d5-9b729770da03",
   type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0097-chapter-675-origin-upgrades-101",
+  ownProgress: 2111,
   title: "Chapter 675: Origin Upgrades 101",
   story: "story-read/system-change-system-universe",
   position: 97,

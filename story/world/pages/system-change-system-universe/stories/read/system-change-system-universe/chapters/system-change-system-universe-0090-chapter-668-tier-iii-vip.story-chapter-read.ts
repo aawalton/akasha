@@ -4,6 +4,7 @@ export const systemChangeSystemUniverse0090Chapter668TierIiiVip = {
   id: "01a06730-4fbc-7f7a-a428-0061731019ce",
   type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0090-chapter-668-tier-iii-vip",
+  ownProgress: 2206,
   title: "Chapter 668: Tier III VIP",
   story: "story-read/system-change-system-universe",
   position: 90,

@@ -4,6 +4,7 @@ export const systemChangeSystemUniverse0077Chapter655SkillRequirements = {
   id: "01a06730-4fbc-77ec-872c-fd5ce33c338b",
   type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0077-chapter-655-skill-requirements",
+  ownProgress: 2114,
   title: "Chapter 655: Skill Requirements",
   story: "story-read/system-change-system-universe",
   position: 77,

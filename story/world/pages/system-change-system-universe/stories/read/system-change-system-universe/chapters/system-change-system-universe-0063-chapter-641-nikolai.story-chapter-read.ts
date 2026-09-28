@@ -4,6 +4,7 @@ export const systemChangeSystemUniverse0063Chapter641Nikolai = {
   id: "01a06730-4fbb-7a33-9601-7f88555fef26",
   type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0063-chapter-641-nikolai",
+  ownProgress: 2142,
   title: "Chapter 641: Nikolai",
   story: "story-read/system-change-system-universe",
   position: 63,

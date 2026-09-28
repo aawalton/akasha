@@ -4,6 +4,7 @@ export const systemChangeSystemUniverse0084Chapter662Hawthorne = {
   id: "01a06730-4fbc-7072-aec4-3527f732f1bd",
   type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0084-chapter-662-hawthorne",
+  ownProgress: 2032,
   title: "Chapter 662: Hawthorne",
   story: "story-read/system-change-system-universe",
   position: 84,

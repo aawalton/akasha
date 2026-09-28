@@ -4,6 +4,7 @@ export const systemChangeSystemUniverse0075Chapter653MuchMore = {
   id: "01a06730-4fbc-71ed-8e8a-a9138e6fa177",
   type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0075-chapter-653-much-more",
+  ownProgress: 2034,
   title: "Chapter 653: Much More",
   story: "story-read/system-change-system-universe",
   position: 75,

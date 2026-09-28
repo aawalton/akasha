@@ -4,6 +4,7 @@ export const systemChangeSystemUniverse0068Chapter646HePointedIShot = {
   id: "01a06730-4fbc-7411-9156-d6547f9ec2f1",
   type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0068-chapter-646-he-pointed-i-shot",
+  ownProgress: 2126,
   title: "Chapter 646: He Pointed. I Shot.",
   story: "story-read/system-change-system-universe",
   position: 68,
