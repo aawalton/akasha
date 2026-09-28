@@ -35,4 +35,5 @@ export const haremHotel00002 = {
     '"Don\'t let her make it sound like paperwork," she tells him. "So. Which of us are you starting on?"',
   ],
   lore: ["lore/harem-hotel-odile"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
