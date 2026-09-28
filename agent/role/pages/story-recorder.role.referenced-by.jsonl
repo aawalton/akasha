@@ -4,7 +4,6 @@
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
-{"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-otherwhere-flex-2/iris-story-recorder-otherwhere-flex-2.seat.ts","id":"01a0e846-e6da-7000-8b57-3b57c1cac468"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-otherwhere-flex-3/iris-story-recorder-otherwhere-flex-3.seat.ts","id":"01a0e846-f608-7000-8a9f-da613e199df1"}
 {"propertySlug":"role","path":"agent/seat/pages/mari-story-recorder-harem-hotel-flex-2/mari-story-recorder-harem-hotel-flex-2.seat.ts","id":"01a0e847-32f3-7000-8f7a-941c4cdbd8aa"}
 {"propertySlug":"role","path":"agent/seat/pages/mari-story-recorder-harem-hotel-flex-3/mari-story-recorder-harem-hotel-flex-3.seat.ts","id":"01a0e847-4395-7000-ad62-c052fafb1a14"}
