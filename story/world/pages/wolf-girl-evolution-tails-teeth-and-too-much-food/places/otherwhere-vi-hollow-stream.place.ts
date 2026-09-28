@@ -222,11 +222,11 @@ export const otherwhereViHollowStream = {
     },
     {
       fact: "The west slope round the wallow is steep, root-laced and black under the pines.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "Halfway round, a wind-thrown pine lies across the slope, chest-high, its root plate a wall.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "One who keeps forty paces or more upslope draws a huff from the sow, but no rush.",
@@ -286,6 +286,18 @@ export const otherwhereViHollowStream = {
         "lore-disclosure/game-master",
         "character-player/otherwhere-vi-nala",
         "character-other/otherwhere-vi-lip-wolf",
+      ],
+    },
+    {
+      fact: "When she fell near the mud, the four small beasts squealed and scrambled in behind the big one.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "The big beast huffed, clacked its teeth, rushed at her through the mud, and stopped short of her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-wallow-sow",
       ],
     },
   ],
