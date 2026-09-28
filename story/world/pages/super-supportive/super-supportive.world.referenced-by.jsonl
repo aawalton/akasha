@@ -748,6 +748,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-forthright-building.place.ts","id":"01a0e9ff-6f87-7f3b-be0a-386e15df7733"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-franklin-high.place.ts","id":"01a0e9fd-811b-794f-8617-f12a6fdd4cee"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-garden-hall.place.ts","id":"01a0ea01-a003-797d-adf9-86342a161fa4"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-grove-of-the-thoughtful.place.ts","id":"01a0ea08-e449-76f5-988f-549142c3d4bb"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-healing-hospital.place.ts","id":"01a0ea04-78ca-724d-8b07-99c0aec1eaa0"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-hot-lab-7.place.ts","id":"01a0e9fa-cb23-73d4-8fe5-d634ce992074"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-intake-complex.place.ts","id":"01a0e9fd-811c-7ce2-91b0-fc523adf43f8"}
@@ -761,6 +762,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-matadero.place.ts","id":"01a0ea01-a004-75a1-ad30-df0018d23384"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-moon-thegund.place.ts","id":"01a0e9fa-cb23-7ca5-93d7-3e3559995b0a"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-narcissus-house.place.ts","id":"01a0ea03-98a6-759c-b741-345e89dd0bdc"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-needle-and-wheedle.place.ts","id":"01a0ea08-e44a-7ca4-bb65-18b5f9b868cf"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-new-sybaris.place.ts","id":"01a0ea06-6478-7a73-ad4f-f423cacfd3e8"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-nilama-marina.place.ts","id":"01a0ea01-a004-7703-bad5-2efb986312ca"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-nilama-paragon-academy.place.ts","id":"01a0ea03-98a7-735b-a9b2-ae6e3da89958"}
@@ -769,11 +771,14 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-palace-of-unbreaking.place.ts","id":"01a0ea02-a67c-7a4a-b3b6-6c414b1b07cc"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-punta-de-la-luna.place.ts","id":"01a0ea05-7a5b-7589-8a9a-5156d7de53ac"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-rosa-grove-mall.place.ts","id":"01a0ea05-7a5b-7b16-84a7-8479d097de72"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-sanjiao-beach.place.ts","id":"01a0ea08-e44a-76a1-b184-3f5b717f3d6c"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-sdyelis-branch.place.ts","id":"01a0ea08-e44a-742e-89a1-e204aa6f7d38"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-summonarium.place.ts","id":"01a0e9fa-cb23-7213-9cc6-fafde03c3458"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-the-span.place.ts","id":"01a0e9f9-7c06-79d1-8a50-7266bed54f7b"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-thorn-family-apartment.place.ts","id":"01a0e9f9-7c06-7901-8f03-e524307b5134"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-travel-dome.place.ts","id":"01a0e9ff-6f89-71ba-a9ca-88ea2c224e22"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-triplanets.place.ts","id":"01a0e9fa-cb23-751c-a6fb-b2c6a223168f"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-vethedya.place.ts","id":"01a0ea08-e44a-7d6e-9e0e-50a3d4fda644"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-wrightwares.place.ts","id":"01a0ea04-78ca-7a3b-ae07-d0760a057ed2"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-yipalck-research-facility.place.ts","id":"01a0e9fa-cb24-707b-9d00-ffa873edbf5c"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/stories/played/otherwhere-iii/characters/otherwhere-iii-denise-pruitt.character-other.ts","id":"01a0e9fc-9ac2-7375-954e-17261f12076a"}

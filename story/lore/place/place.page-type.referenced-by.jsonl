@@ -215,6 +215,7 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-forthright-building.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-franklin-high.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-garden-hall.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-grove-of-the-thoughtful.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-healing-hospital.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-hot-lab-7.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-intake-complex.place.ts","typed":true,"deferred":false}
@@ -228,6 +229,7 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-matadero.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-moon-thegund.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-narcissus-house.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-needle-and-wheedle.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-new-sybaris.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-nilama-marina.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-nilama-paragon-academy.place.ts","typed":true,"deferred":false}
@@ -236,11 +238,14 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-palace-of-unbreaking.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-punta-de-la-luna.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-rosa-grove-mall.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-sanjiao-beach.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-sdyelis-branch.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-summonarium.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-the-span.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-thorn-family-apartment.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-travel-dome.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-triplanets.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-vethedya.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-wrightwares.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-yipalck-research-facility.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/tower-of-nimue/places/tower-of-nimue-floor-1-the-charnel-den.place.ts","typed":true,"deferred":false}
