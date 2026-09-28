@@ -34,5 +34,17 @@
 {"propertySlug":"world","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/checks/otherwhere-viii-notice.world-check.ts","id":"01a0ea40-05a4-7018-a63d-078b96c8a59c"}
 {"propertySlug":"world","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/checks/otherwhere-viii-standing.world-check.ts","id":"01a0ea3b-ec94-759a-8127-689daa86ed5d"}
 {"propertySlug":"world","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/checks/otherwhere-viii-time-passing.world-check.ts","id":"01a0ea2d-403e-71a7-9e77-4ebda9f59429"}
+{"propertySlug":"world","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/mechanics/otherwhere-viii-arcana.world-mechanic.ts","id":"01a0ea47-9c2b-7bc9-8330-42284682f35b"}
+{"propertySlug":"world","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/mechanics/otherwhere-viii-injury.world-mechanic.ts","id":"01a0ea47-9c2c-7588-bf12-03d553958caa"}
+{"propertySlug":"world","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/mechanics/otherwhere-viii-language.world-mechanic.ts","id":"01a0ea47-9c2c-71c0-bc57-bc1778e2b103"}
+{"propertySlug":"world","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/mechanics/otherwhere-viii-learning.world-mechanic.ts","id":"01a0ea47-9c2c-7a8f-9930-21bc235f1f56"}
+{"propertySlug":"world","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/mechanics/otherwhere-viii-money.world-mechanic.ts","id":"01a0ea47-9c2c-74c7-8c21-412b4d15e568"}
+{"propertySlug":"world","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/mechanics/otherwhere-viii-notice.world-mechanic.ts","id":"01a0ea47-9c2c-7beb-abd0-f4ac9284bf6c"}
+{"propertySlug":"world","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/mechanics/otherwhere-viii-overdraw.world-mechanic.ts","id":"01a0ea47-9c2c-735c-a391-94ae6cf0d0bd"}
+{"propertySlug":"world","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/mechanics/otherwhere-viii-papers.world-mechanic.ts","id":"01a0ea47-9c2c-7848-9f25-14e831419f21"}
+{"propertySlug":"world","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/mechanics/otherwhere-viii-resolution.world-mechanic.ts","id":"01a0ea47-9c2c-7a50-acbd-b7658c490fa4"}
+{"propertySlug":"world","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/mechanics/otherwhere-viii-standing.world-mechanic.ts","id":"01a0ea47-9c2c-7de3-8186-7fcb92d23c32"}
+{"propertySlug":"world","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/mechanics/otherwhere-viii-survival.world-mechanic.ts","id":"01a0ea47-9c2c-75ff-8905-96a9c85ee3d4"}
+{"propertySlug":"world","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/mechanics/otherwhere-viii-time.world-mechanic.ts","id":"01a0ea47-9c2c-7cc2-a207-867a2a933e89"}
 {"propertySlug":"world","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/otherwhere-viii.story-played.ts","id":"01a0ea1b-77b0-7488-98e5-fea62542e488"}
 {"propertySlug":"world","path":"story/world/pages/breaker-of-horizons/stories/read/breaker-of-horizons/breaker-of-horizons.story-read.ts","id":"01a0657d-ada1-7ece-af7f-194b059371d8"}
