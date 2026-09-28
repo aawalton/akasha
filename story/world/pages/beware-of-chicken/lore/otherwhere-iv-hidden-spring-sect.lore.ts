@@ -35,6 +35,10 @@ export const otherwhereIvHiddenSpringSect = {
       fact: "The road north from Lanqiao to the sect takes about four days on foot, through lonely hills.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Hidden Spring Sect pays silver for spirit herbs, and for the hides and cores of spirit beasts.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
