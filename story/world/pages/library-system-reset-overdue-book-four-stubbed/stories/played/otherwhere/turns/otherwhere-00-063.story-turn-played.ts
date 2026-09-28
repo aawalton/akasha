@@ -10,11 +10,12 @@ export const otherwhere00063 = {
   position: 63,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action: "**Good enough, where can I find some more books to shelve?**",
   beats: [
     "Nala asks Links where she can find more books to shelve.",
     'Links: "Where can\'t you? Pick a heap. Nearly three thousand of them left."',
+    "She climbs the spiral staircase from the core chamber back up into the main hall.",
     "The nearest heap sprawls at the foot of the first carved column past the counter.",
     "She crouches, turns the first book to find its faint spine mark, and matches it to a low shelf.",
     "The second goes two shelves up; the third, a fat volume, to a shelf at her shoulder.",
