@@ -5,6 +5,7 @@ import { memory } from "akasha/story/recorder/pages/memory.story-recorder.ts"
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
 import { continuity } from "akasha/story/reviewer/pages/continuity.story-reviewer.ts"
 import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
+import type { Character } from "akasha/story/world/stories/played/turns/modules/turn-cast/turn-cast.module.code.ts"
 import {
   type Advanced,
   advanced as advancedOver,
@@ -73,9 +74,10 @@ export function advanced(
   caller: Caller,
   handed: Handed,
   reviewers: readonly string[],
-  recorders: readonly string[] = RECORDING
+  recorders: readonly string[] = RECORDING,
+  cast: readonly Character[] = []
 ): Advanced {
-  return advancedOver(held, caller, handed, reviewers, recorders)
+  return advancedOver(held, caller, handed, reviewers, recorders, cast)
 }
 
 export function movedOf(said: Advanced): Moved {

@@ -10,6 +10,7 @@ export const storyTurnPlayed = {
   runsTabooCheck: false,
   parts: [
     "file-property/outcomes",
+    "module/turn-cast",
     "module/turn-lifecycle",
     "module/turn-making",
     "module/turn-notice",

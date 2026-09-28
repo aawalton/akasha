@@ -276,6 +276,17 @@ test("empty prose, and a character named by no address, are refused", () => {
   expect(refusalOf(advanced(heldAt("writer"), WRITER, bare, TWO))).toContain("mara")
 })
 
+test("prose naming a character of the story its advance leaves out is refused, turn or chapter", () => {
+  const cast = [{ address: "character-other/ceri", title: "Ceri", aliasOf: null }]
+  const named = { ...PROSE, prose: "Mara meets Ceri.", characters: ["character-player/mara"] }
+  const chapter = heldAt("writer", { noun: "chapter" })
+  for (const held of [heldAt("writer"), chapter]) {
+    const said = refusalOf(advanced(held, WRITER, named, TWO, undefined, cast))
+    expect(said).toContain("character-other/ceri")
+    expect(movedOf(advanced(held, WRITER, PROSE, TWO, undefined, cast)).status).toBe("reviewers")
+  }
+})
+
 const LATEST: Latest = {
   slug: "the-saga-00-002",
   position: 2,

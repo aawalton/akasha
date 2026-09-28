@@ -5,6 +5,7 @@ import type { Landing } from "akasha/change/runner/pages/mechanical-change-runni
 import { DATA } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
+  type Casting,
   storyTurnAdvance,
   type Timed,
   type Timing,
@@ -301,7 +302,8 @@ export async function advancedBy(
   reach: Reach,
   landing: Landing = async () => LANDED,
   timed: Timed = () => undefined,
-  timing: Timing = () => null
+  timing: Timing = () => null,
+  casting: Casting = () => []
 ) {
   return await storyTurnAdvance(
     ["--turn", `story-turn-played/${SLUG}`, ...argv],
@@ -309,7 +311,8 @@ export async function advancedBy(
     landing,
     reach,
     timed,
-    timing
+    timing,
+    casting
   )
 }
 

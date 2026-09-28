@@ -60,6 +60,10 @@ import {
 } from "akasha/story/engine/modules/phase-timing/phase-timing.module.code.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import {
+  type Character,
+  castIndexed,
+} from "akasha/story/world/stories/played/turns/modules/turn-cast/turn-cast.module.code.ts"
+import {
   advanced,
   bareOf,
   type Caller,
@@ -166,7 +170,9 @@ function typeOf(read: Taken): string {
 
 export type Timing = (root: string, game: string) => string | null
 
-type Reaching = Reach & { readonly timeCheckOf: Timing }
+export type Casting = (root: string, game: string) => readonly Character[]
+
+type Reaching = Reach & { readonly timeCheckOf: Timing; readonly castOf: Casting }
 
 function untimedOn(reach: Reaching, root: string, read: Taken, held: Held, turn: Turn) {
   if (read.chapter || held.status !== GAME_MASTER) return null
@@ -278,7 +284,8 @@ async function heldOn(
   const recorders = reach.recordersIn(given.root)
   const slugs = reviewers.map((one) => one.slug)
   const recorded = recorders.map((one) => one.slug)
-  const said = advanced(held, caller, read.handed, slugs, recorded)
+  const cast = read.handed.kind === "prose" ? reach.castOf(given.root, held.game) : []
+  const said = advanced(held, caller, read.handed, slugs, recorded, cast)
   if ("refused" in said) return refused(said.refused, DATA)
   const untimed = untimedOn(reach, given.root, read, held, turn)
   if (untimed !== null) return refused(untimed, DATA)
@@ -372,9 +379,10 @@ export async function storyTurnAdvance(
   landing: Landing = runMechanicalChange,
   reach: Reach = REACHED,
   timed: Timed = phaseTimed,
-  timing: Timing = timeCheckIndexed
+  timing: Timing = timeCheckIndexed,
+  casting: Casting = castIndexed
 ): Promise<Answer> {
-  const reaching: Reaching = { ...reach, timeCheckOf: timing }
+  const reaching: Reaching = { ...reach, timeCheckOf: timing, castOf: casting }
   return await answering(
     async (done) => await advancedOn(done, argv, given, landing, reaching, timed)
   )

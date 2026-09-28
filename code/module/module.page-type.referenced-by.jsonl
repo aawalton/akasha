@@ -2690,6 +2690,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/modules/player-beside/player-beside.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/modules/prose-beside/prose-beside.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/turns/modules/turn-cast/turn-cast.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/turns/modules/turn-making/turn-making.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/turns/modules/turn-notice/turn-notice.module.ts","typed":true,"deferred":false}
