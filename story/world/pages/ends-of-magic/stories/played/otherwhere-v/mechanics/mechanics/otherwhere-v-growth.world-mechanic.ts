@@ -6,5 +6,5 @@ export const otherwhereVGrowth = {
   slug: "otherwhere-v-growth",
   title: "Growth",
   world: "world/ends-of-magic",
-  description: "Getting stronger and more skilled by overcoming hard things.",
+  description: "Getting stronger and more skilled.",
 } as const satisfies WorldMechanic
