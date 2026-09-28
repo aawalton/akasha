@@ -44,10 +44,14 @@
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/checks/otherwhere-needs.world-check.ts","id":"01a0e993-be67-7db9-998f-26e3ccb4f5f9"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/checks/otherwhere-time-passing.world-check.ts","id":"01a0e992-4350-774a-964f-a8e84e8dd4dc"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/classes/otherwhere-survivor.world-class.ts","id":"01a0e99e-1edc-7727-af5c-f78ea5c837a2"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/mechanics/otherwhere-chests.world-mechanic.ts","id":"01a0e9a6-b35d-780f-980a-6a582bfe20c0"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/mechanics/otherwhere-injury.world-mechanic.ts","id":"01a0e996-0a35-7660-827c-1a73230d81ca"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/mechanics/otherwhere-kiosk.world-mechanic.ts","id":"01a0e9a6-b35e-7b51-87fe-2c4fd348e0dc"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/mechanics/otherwhere-knowledge-points.world-mechanic.ts","id":"01a0e9a6-b35e-7217-bb85-d90dcb419513"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/mechanics/otherwhere-resolution.world-mechanic.ts","id":"01a0e993-be67-726e-a6b3-7575d680346a"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/mechanics/otherwhere-survival.world-mechanic.ts","id":"01a0e993-be67-78fd-b947-638337818566"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/mechanics/otherwhere-time.world-mechanic.ts","id":"01a0e992-4351-7f72-ac68-f04396e7b3bf"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/mechanics/otherwhere-tutorial-phases.world-mechanic.ts","id":"01a0e9a6-b35e-74a8-90e9-5473be603bf9"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/skills/otherwhere-mana-dart.world-skill.ts","id":"01a0e9a0-abb3-7a48-86aa-7eab30153f61"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/skills/otherwhere-mend.world-skill.ts","id":"01a0e9a0-abb4-7b51-8169-f209daa33052"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/traits/otherwhere-awakened-to-magic.world-trait.ts","id":"01a0e99e-1edd-7214-bf8b-9c7ddbf7bcf5"}
