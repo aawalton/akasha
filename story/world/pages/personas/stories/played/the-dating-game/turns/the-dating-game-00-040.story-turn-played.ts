@@ -10,7 +10,7 @@ export const theDatingGame00040 = {
   position: 40,
   prose: "txt",
   characters: ["character-other/the-dating-game-aelwyn", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     'I get up for the day, dress is slacks and my "adventurer shirt" that I wear to ren faires, and then hike up Rock Canyon to the clearing I recognized from my dream.',
   beats: [
@@ -29,5 +29,5 @@ export const theDatingGame00040 = {
     "She lifts the phone off the tripod and turns it around on him, still recording.",
   ],
   lore: ["lore/the-dating-game-aelwyn", "place/the-dating-game-rock-canyon"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
