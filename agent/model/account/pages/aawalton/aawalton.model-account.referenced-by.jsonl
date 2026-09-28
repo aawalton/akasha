@@ -4,3 +4,4 @@
 {"propertySlug":"import","fileName":"aawalton.model-account.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"registration-account","path":"agent/seat/pages/alan/alan.seat.ts","id":"01a0d3f2-4967-7000-827c-676b6015676c"}
 {"propertySlug":"registration-account","path":"agent/seat/pages/ember/ember.seat.ts","id":"01a0e882-accb-7000-a6dc-cdb03fdb06e9"}
+{"propertySlug":"registration-account","path":"agent/seat/pages/mari/mari.seat.ts","id":"01a0e916-ccb7-7000-a93a-e8216f968e2a"}
