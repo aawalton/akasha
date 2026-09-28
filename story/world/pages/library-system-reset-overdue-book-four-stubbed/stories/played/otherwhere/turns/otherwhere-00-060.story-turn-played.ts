@@ -4,13 +4,14 @@ export const otherwhere00060 = {
   id: "01a0e7f5-58d9-78e3-8af8-a685ad675808",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-060",
+  cover: "image/image-f7d67eb9e0f6db84",
   ownLength: 138,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 60,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: "I go down the basement and put my hands on the core again",
   beats: [
     "Nala winds down the spiral staircase into the round chamber, lit its dim blue-green.",
@@ -28,6 +29,6 @@ export const otherwhere00060 = {
     '"Librarian Link: Connection 3" - Library states connection only when a task asks for it',
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T13:38:00.000Z",
 } as const satisfies StoryTurnPlayed
