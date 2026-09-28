@@ -4,6 +4,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0364B5Chapter53 = {
   id: "01a0a188-9e4a-7436-8884-7ffc0bd47c32",
   type: "page-type/story-chapter-read",
   slug: "crimson-eternal-an-immortal-death-mage-litrpg-0364-b5-chapter-53",
+  ownProgress: 1445,
   position: 364,
   publishedAt: "2026-09-14",
   unit: "unit/words",

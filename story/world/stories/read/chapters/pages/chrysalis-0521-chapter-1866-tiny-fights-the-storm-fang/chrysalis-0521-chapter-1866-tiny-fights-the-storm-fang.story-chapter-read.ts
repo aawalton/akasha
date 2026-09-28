@@ -4,6 +4,7 @@ export const chrysalis0521Chapter1866TinyFightsTheStormFang = {
   id: "01a0c6da-79f7-746e-8194-63e151148749",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0521-chapter-1866-tiny-fights-the-storm-fang",
+  ownProgress: 1011,
   position: 521,
   publishedAt: "2026-09-22",
   unit: "unit/words",

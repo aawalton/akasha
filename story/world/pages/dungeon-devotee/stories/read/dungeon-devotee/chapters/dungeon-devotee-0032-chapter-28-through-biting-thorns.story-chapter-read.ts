@@ -8,7 +8,7 @@ export const dungeonDevotee0032Chapter28ThroughBitingThorns = {
   story: "story-read/dungeon-devotee",
   position: 32,
   ownLength: 8708,
-  ownProgress: 8625,
+  ownProgress: 8708,
   unit: "unit/words",
   publishedAt: "2024-01-02",
   externalIdentity: [

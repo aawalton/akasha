@@ -4,6 +4,7 @@ export const chrysalis0519Chapter1864CultWrangling = {
   id: "01a0b241-3a19-7119-a3c4-c3bcf4d05711",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0519-chapter-1864-cult-wrangling",
+  ownProgress: 980,
   position: 519,
   publishedAt: "2026-09-18",
   unit: "unit/words",

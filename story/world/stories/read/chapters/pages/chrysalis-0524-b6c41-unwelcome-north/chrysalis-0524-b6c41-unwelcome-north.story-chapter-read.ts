@@ -4,6 +4,7 @@ export const chrysalis0524B6c41UnwelcomeNorth = {
   id: "01a0d37a-30c6-7b11-b407-dc913c4fd738",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0524-b6c41-unwelcome-north",
+  ownProgress: 2365,
   position: 524,
   publishedAt: "2026-09-24",
   unit: "unit/words",

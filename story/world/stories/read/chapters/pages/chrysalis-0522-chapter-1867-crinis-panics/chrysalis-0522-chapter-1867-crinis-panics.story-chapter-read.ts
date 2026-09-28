@@ -4,6 +4,7 @@ export const chrysalis0522Chapter1867CrinisPanics = {
   id: "01a0cc05-7da9-7003-8102-95dfc1dce3cb",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0522-chapter-1867-crinis-panics",
+  ownProgress: 992,
   position: 522,
   publishedAt: "2026-09-23",
   unit: "unit/words",

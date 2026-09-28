@@ -4,6 +4,7 @@ export const chrysalis0520Chapter1865TimePasses = {
   id: "01a0c225-7086-74c0-99e1-1c8c9bdd11ce",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0520-chapter-1865-time-passes",
+  ownProgress: 1011,
   position: 520,
   publishedAt: "2026-09-21",
   unit: "unit/words",

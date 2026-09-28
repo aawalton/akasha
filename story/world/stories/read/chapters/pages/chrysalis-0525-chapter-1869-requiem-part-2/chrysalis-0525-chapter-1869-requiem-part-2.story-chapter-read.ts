@@ -4,6 +4,7 @@ export const chrysalis0525Chapter1869RequiemPart2 = {
   id: "01a0d64e-5f85-787e-8c37-969295052e40",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0525-chapter-1869-requiem-part-2",
+  ownProgress: 1034,
   position: 525,
   publishedAt: "2026-09-25",
   unit: "unit/words",

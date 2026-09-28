@@ -4,6 +4,7 @@ export const chrysalis0512Chapter1857GunsAkimbo = {
   id: "01a0672c-eb6d-7004-802c-44881c2cd151",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0512-chapter-1857-guns-akimbo",
+  ownProgress: 881,
   title: "Chapter 1857 - Guns Akimbo",
   story: "story-read/chrysalis",
   position: 512,

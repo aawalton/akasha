@@ -15,6 +15,7 @@ export const dungeonDiverStealingAMonstersPower = {
     },
   ],
   author: "KaeNovels",
+  following: true,
   grade: "C",
   publicationStatus: "completed",
   externalTags: [

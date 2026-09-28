@@ -4,6 +4,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0355NewStoryReleaseToPrepare
   id: "01a0672c-ec7e-7007-b95b-9918ba238f7e",
   type: "page-type/story-chapter-read",
   slug: "crimson-eternal-an-immortal-death-mage-litrpg-0355-new-story-release-to-prepare-for-reaper-s",
+  ownProgress: 308,
   title: "New Story Release to prepare for Reaper's Resurgence Completing",
   story: "story-read/crimson-eternal-an-immortal-death-mage-litrpg",
   position: 355,

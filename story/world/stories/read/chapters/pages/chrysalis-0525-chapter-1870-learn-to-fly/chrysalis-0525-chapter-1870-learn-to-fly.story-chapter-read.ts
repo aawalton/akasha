@@ -4,6 +4,7 @@ export const chrysalis0525Chapter1870LearnToFly = {
   id: "01a0e5c1-5326-7801-820f-84e6fd24068e",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0525-chapter-1870-learn-to-fly",
+  ownProgress: 946,
   position: 525,
   publishedAt: "2026-09-28",
   unit: "unit/words",

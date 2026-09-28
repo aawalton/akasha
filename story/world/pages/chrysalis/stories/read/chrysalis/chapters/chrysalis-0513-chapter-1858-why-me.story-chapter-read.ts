@@ -4,6 +4,7 @@ export const chrysalis0513Chapter1858WhyMe = {
   id: "01a0672c-eb6d-7005-bb85-1e15f5088c6f",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0513-chapter-1858-why-me",
+  ownProgress: 1063,
   title: "Chapter 1858 - Why Me?",
   story: "story-read/chrysalis",
   position: 513,

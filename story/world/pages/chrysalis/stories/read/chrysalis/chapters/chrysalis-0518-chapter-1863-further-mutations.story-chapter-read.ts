@@ -4,6 +4,7 @@ export const chrysalis0518Chapter1863FurtherMutations = {
   id: "01a0ad1d-5068-741d-a885-3a907ee0ac12",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0518-chapter-1863-further-mutations",
+  ownProgress: 965,
   position: 518,
   publishedAt: "2026-09-17",
   unit: "unit/words",

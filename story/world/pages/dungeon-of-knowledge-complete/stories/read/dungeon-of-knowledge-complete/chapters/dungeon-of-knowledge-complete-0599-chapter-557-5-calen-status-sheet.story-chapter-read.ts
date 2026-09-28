@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0599Chapter5575CalenStatusSheet = {
   story: "story-read/dungeon-of-knowledge-complete",
   position: 599,
   ownLength: 1584,
-  ownProgress: 460,
+  ownProgress: 1584,
   unit: "unit/words",
   publishedAt: "2026-03-06",
   externalIdentity: [

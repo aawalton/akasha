@@ -4,6 +4,7 @@ export const chrysalis0517Chapter1862AnthonysStatus = {
   id: "01a0a7f8-c774-77cd-8335-77108eb5b289",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0517-chapter-1862-anthonys-status",
+  ownProgress: 1195,
   position: 517,
   publishedAt: "2026-09-16",
   unit: "unit/words",
