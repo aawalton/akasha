@@ -226,7 +226,11 @@ export const otherwhereUniverse = {
     },
     {
       fact: "Links knows a lost book the moment a linked Librarian lays a hand on it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "By hand, matching spine marks to shelves, a Librarian reshelves some ten books an hour.",
