@@ -10,4 +10,5 @@ export const otherwhereV00005 = {
   stepStatus: "step-status/game-master",
   action: "I break into a run, getting into the log as quickly as possible",
   lore: ["lore/otherwhere-v-gloamcat"],
+  endsAt: "2026-09-28T19:02:00.000Z",
 } as const satisfies StoryTurnPlayed
