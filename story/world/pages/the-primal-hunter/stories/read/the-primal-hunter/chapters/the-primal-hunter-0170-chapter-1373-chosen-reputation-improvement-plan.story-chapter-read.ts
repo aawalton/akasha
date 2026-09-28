@@ -4,6 +4,7 @@ export const thePrimalHunter0170Chapter1373ChosenReputationImprovementPlan = {
   id: "01a06730-4e20-7a44-893e-2dd3b31e6c76",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0170-chapter-1373-chosen-reputation-improvement-plan",
+  ownProgress: 2887,
   title: "Chapter 1373 - Chosen Reputation Improvement Plan",
   story: "story-read/the-primal-hunter",
   position: 170,

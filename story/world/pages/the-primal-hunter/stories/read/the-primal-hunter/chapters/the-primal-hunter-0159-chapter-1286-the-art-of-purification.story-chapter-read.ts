@@ -4,6 +4,7 @@ export const thePrimalHunter0159Chapter1286TheArtOfPurification = {
   id: "01a06730-4e17-7044-b03b-1840bf0bfbe0",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0159-chapter-1286-the-art-of-purification",
+  ownProgress: 2935,
   title: "Chapter 1286 - The Art of Purification",
   story: "story-read/the-primal-hunter",
   position: 159,

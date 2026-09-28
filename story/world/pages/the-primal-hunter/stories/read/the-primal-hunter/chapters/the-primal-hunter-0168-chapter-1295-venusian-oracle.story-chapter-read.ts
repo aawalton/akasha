@@ -4,6 +4,7 @@ export const thePrimalHunter0168Chapter1295VenusianOracle = {
   id: "01a06730-4e1f-782b-8438-1eedb40307dc",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0168-chapter-1295-venusian-oracle",
+  ownProgress: 2747,
   title: "Chapter 1295 - Venusian Oracle",
   story: "story-read/the-primal-hunter",
   position: 168,

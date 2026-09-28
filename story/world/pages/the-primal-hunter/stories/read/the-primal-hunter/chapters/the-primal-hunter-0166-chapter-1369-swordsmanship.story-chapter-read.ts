@@ -4,6 +4,7 @@ export const thePrimalHunter0166Chapter1369Swordsmanship = {
   id: "01a06730-4e1e-7e17-aa8a-a714a2d0c9fe",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0166-chapter-1369-swordsmanship",
+  ownProgress: 2816,
   title: "Chapter 1369 - Swordsmanship",
   story: "story-read/the-primal-hunter",
   position: 166,

@@ -18,6 +18,6 @@ export const thePrimalHunter0152Chapter1279Technically = {
     },
   ],
   publishedAt: "2026-03-25",
-  ownProgress: 1579,
+  ownProgress: 2909,
   prose: "txt",
 } as const satisfies StoryChapterRead

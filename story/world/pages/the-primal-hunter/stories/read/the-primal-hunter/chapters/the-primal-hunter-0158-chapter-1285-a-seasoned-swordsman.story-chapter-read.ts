@@ -4,6 +4,7 @@ export const thePrimalHunter0158Chapter1285ASeasonedSwordsman = {
   id: "01a06730-4e17-7607-b164-a18ba9249f76",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0158-chapter-1285-a-seasoned-swordsman",
+  ownProgress: 2634,
   title: "Chapter 1285 - A Seasoned Swordsman",
   story: "story-read/the-primal-hunter",
   position: 158,

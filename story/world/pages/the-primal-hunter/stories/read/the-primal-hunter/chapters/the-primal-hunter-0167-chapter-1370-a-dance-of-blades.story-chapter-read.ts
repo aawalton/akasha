@@ -4,6 +4,7 @@ export const thePrimalHunter0167Chapter1370ADanceOfBlades = {
   id: "01a06730-4e1e-7165-8a20-b262386398dd",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0167-chapter-1370-a-dance-of-blades",
+  ownProgress: 2894,
   title: "Chapter 1370 - A Dance of Blades",
   story: "story-read/the-primal-hunter",
   position: 167,

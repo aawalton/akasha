@@ -4,6 +4,7 @@ export const thePrimalHunter0163Chapter1366ALazyEncounter = {
   id: "01a06730-4e1c-7fd3-83ce-32d8e072544a",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0163-chapter-1366-a-lazy-encounter",
+  ownProgress: 2915,
   title: "Chapter 1366 - A Lazy Encounter",
   story: "story-read/the-primal-hunter",
   position: 163,

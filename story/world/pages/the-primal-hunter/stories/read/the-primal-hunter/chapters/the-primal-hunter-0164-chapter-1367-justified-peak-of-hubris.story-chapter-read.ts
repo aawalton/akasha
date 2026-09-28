@@ -4,6 +4,7 @@ export const thePrimalHunter0164Chapter1367JustifiedPeakOfHubris = {
   id: "01a06730-4e1c-7df9-b85d-cdccc880c1f4",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0164-chapter-1367-justified-peak-of-hubris",
+  ownProgress: 2736,
   title: "Chapter 1367 - Justified Peak of Hubris",
   story: "story-read/the-primal-hunter",
   position: 164,

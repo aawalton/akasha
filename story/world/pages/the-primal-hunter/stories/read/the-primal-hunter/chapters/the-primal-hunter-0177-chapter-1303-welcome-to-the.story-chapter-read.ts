@@ -4,6 +4,7 @@ export const thePrimalHunter0177Chapter1303WelcomeToThe = {
   id: "01a06730-4e25-7210-8892-932f629de169",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0177-chapter-1303-welcome-to-the",
+  ownProgress: 2856,
   title: "Chapter 1303 - Welcome to the...",
   story: "story-read/the-primal-hunter",
   position: 177,

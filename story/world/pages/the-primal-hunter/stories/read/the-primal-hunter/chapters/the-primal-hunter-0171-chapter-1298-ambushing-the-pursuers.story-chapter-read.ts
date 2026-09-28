@@ -4,6 +4,7 @@ export const thePrimalHunter0171Chapter1298AmbushingThePursuers = {
   id: "01a06730-4e21-7dd9-a524-8846bd9568e9",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0171-chapter-1298-ambushing-the-pursuers",
+  ownProgress: 2977,
   title: "Chapter 1298 - Ambushing The Pursuers",
   story: "story-read/the-primal-hunter",
   position: 171,

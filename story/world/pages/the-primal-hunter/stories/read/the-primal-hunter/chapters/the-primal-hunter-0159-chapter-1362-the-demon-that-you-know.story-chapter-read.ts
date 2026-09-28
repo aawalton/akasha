@@ -4,6 +4,7 @@ export const thePrimalHunter0159Chapter1362TheDemonThatYouKnow = {
   id: "01a06730-4e19-7989-84af-b4c4dd104e11",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0159-chapter-1362-the-demon-that-you-know",
+  ownProgress: 2826,
   title: "Chapter 1362 - The Demon That You Know...",
   story: "story-read/the-primal-hunter",
   position: 159,

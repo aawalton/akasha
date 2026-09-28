@@ -4,6 +4,7 @@ export const thePrimalHunter0177Chapter1380ADeviouslyDeliciousPlan = {
   id: "01a09138-0ecd-78fb-9015-1cde6c277aa2",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0177-chapter-1380-a-deviously-delicious-plan",
+  ownProgress: 2874,
   position: 177,
   publishedAt: "2026-09-11",
   unit: "unit/words",

@@ -4,6 +4,7 @@ export const thePrimalHunter0164Chapter1291Venus = {
   id: "01a06730-4e1c-76f3-be35-4614982c792e",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0164-chapter-1291-venus",
+  ownProgress: 2786,
   title: "Chapter 1291 - Venus(?)",
   story: "story-read/the-primal-hunter",
   position: 164,

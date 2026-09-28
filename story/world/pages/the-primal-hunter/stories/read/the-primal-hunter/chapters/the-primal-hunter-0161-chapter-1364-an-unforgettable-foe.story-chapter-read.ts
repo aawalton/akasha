@@ -4,6 +4,7 @@ export const thePrimalHunter0161Chapter1364AnUnforgettableFoe = {
   id: "01a06730-4e1a-7c44-abf5-474565a569b2",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0161-chapter-1364-an-unforgettable-foe",
+  ownProgress: 2791,
   title: "Chapter 1364 - An Unforgettable(?) Foe",
   story: "story-read/the-primal-hunter",
   position: 161,

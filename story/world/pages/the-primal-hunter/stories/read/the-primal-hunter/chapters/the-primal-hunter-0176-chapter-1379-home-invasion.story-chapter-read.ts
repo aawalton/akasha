@@ -4,6 +4,7 @@ export const thePrimalHunter0176Chapter1379HomeInvasion = {
   id: "01a08c13-7aba-7699-af21-529b674a8fba",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0176-chapter-1379-home-invasion",
+  ownProgress: 2594,
   position: 176,
   publishedAt: "2026-09-10",
   unit: "unit/words",
