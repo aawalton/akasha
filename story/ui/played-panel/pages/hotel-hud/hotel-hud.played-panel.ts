@@ -8,5 +8,5 @@ export const hotelHud = {
   code: "tsx",
   drawn: "js",
   place: "panel-place/aside",
-  position: 41,
+  position: 51,
 } as const satisfies PlayedPanel

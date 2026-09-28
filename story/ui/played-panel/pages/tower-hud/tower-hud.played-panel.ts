@@ -8,5 +8,5 @@ export const towerHud = {
   code: "tsx",
   drawn: "js",
   place: "panel-place/aside",
-  position: 40,
+  position: 50,
 } as const satisfies PlayedPanel

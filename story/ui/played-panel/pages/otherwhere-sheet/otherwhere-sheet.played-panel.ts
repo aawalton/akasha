@@ -8,5 +8,5 @@ export const otherwhereSheet = {
   code: "tsx",
   drawn: "js",
   place: "panel-place/aside",
-  position: 53,
+  position: 11,
 } as const satisfies PlayedPanel

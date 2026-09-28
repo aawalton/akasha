@@ -8,5 +8,5 @@ export const time = {
   code: "tsx",
   drawn: "js",
   place: "panel-place/aside",
-  position: 30,
+  position: 40,
 } as const satisfies PlayedPanel

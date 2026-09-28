@@ -8,5 +8,5 @@ export const sceneCover = {
   code: "tsx",
   drawn: "js",
   place: "panel-place/aside",
-  position: 20,
+  position: 30,
 } as const satisfies PlayedPanel
