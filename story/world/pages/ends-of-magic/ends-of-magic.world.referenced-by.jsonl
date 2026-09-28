@@ -124,6 +124,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-delric.lore.ts","id":"01a0e9f9-65e0-7aa8-ae04-b5bb19890ad2"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-dennar.lore.ts","id":"01a0e9f9-d8c4-77cf-9d22-060569df67e7"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-development.lore.ts","id":"01a0e9f9-22e7-7552-a16d-e40d7fcb6d91"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-dimensional-magic.lore.ts","id":"01a0e9fe-e84a-763e-8f04-9f9cf949db35"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-diplomats-friend.lore.ts","id":"01a0e9f9-8feb-7e96-a709-40c17fd31e55"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-disadvantage.lore.ts","id":"01a0e9f8-2dc4-7ed1-bb2d-afa5064c96df"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-divinity.lore.ts","id":"01a0e9f5-6821-700d-a7eb-2c1701adb00d"}
@@ -299,6 +300,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-classes.world-mechanic.ts","id":"01a0e9f4-b58b-76b0-96e5-32ad38b6c219"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-conclave-rules.world-mechanic.ts","id":"01a0e9fb-f2e3-7714-9d1c-ea2aa6d1b74f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-development.world-mechanic.ts","id":"01a0e9f9-22e8-7704-98c9-70dc0191d3f9"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-dimensional-magic.world-mechanic.ts","id":"01a0e9fe-e84b-7d47-bc0f-9af352ac487b"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-disadvantage.world-mechanic.ts","id":"01a0e9f8-2dc5-7fde-9692-2083432d174f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-divinity.world-mechanic.ts","id":"01a0e9f5-6823-7501-9e2c-53a3f7d54e97"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-dungeons.world-mechanic.ts","id":"01a0e9fb-325a-7f2a-bb99-3e35fe7e8c57"}
