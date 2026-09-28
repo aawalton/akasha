@@ -39,4 +39,5 @@ export const otherwhereVi00003 = {
     "place/otherwhere-vi-greypine-weald",
     "lore/otherwhere-vi-beasts",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
