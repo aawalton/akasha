@@ -96,6 +96,14 @@ export const otherwhereViNala = {
       fact: "Nala's status letters move with her gaze and fade when she stops holding them in mind.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
+    {
+      fact: "Nala carries an alder staff a head taller than her and a fist-sized river stone.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "Nala's bare soles are bruised by the stones, and she shakes with cold in her wet tights.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

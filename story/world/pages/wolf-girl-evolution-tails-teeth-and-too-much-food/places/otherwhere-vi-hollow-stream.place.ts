@@ -134,11 +134,11 @@ export const otherwhereViHollowStream = {
     },
     {
       fact: "Below the fall the bank is cobble and gravel, with loose stones of every size at the water.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "Spring floods pile driftwood against the alders: dead limbs of alder and pine, some sound.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "Dead pine snaps brittle; green alder bends and will not break; old dry alder is light but sound.",
@@ -146,11 +146,11 @@ export const otherwhereViHollowStream = {
     },
     {
       fact: "Some ten minutes down, a drift pile holds a dry alder limb, wrist-thick and taller than her.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "The drift pile limb is wedged; working it free takes a few minutes' tugging, not great strength.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "The wolf on the lip is a young male, level 4, 28 HP, bolder, and will trail her along the bank.",
@@ -179,6 +179,34 @@ export const otherwhereViHollowStream = {
     {
       fact: "The young wolves fear the sow and will turn back from the wallow rather than pass near her.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dead pine in the drift snaps short and brittle; old dry alder there is light but sound.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "The bolder lip wolf trails her down the bank beyond a stone's throw, stopping when she stops.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-lip-wolf",
+      ],
+    },
+    {
+      fact: "Downstream, trampled mud and shallows under alders hold one big bristled beast and four smaller.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-lip-wolf",
+      ],
+    },
+    {
+      fact: "At the edge of that mud the trailing wolf stopped, looked toward it, and trotted back upstream.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-lip-wolf",
+      ],
     },
   ],
   exits: [
