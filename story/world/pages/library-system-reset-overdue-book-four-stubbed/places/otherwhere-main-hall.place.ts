@@ -40,6 +40,18 @@ export const otherwhereMainHall = {
       ],
     },
     {
+      fact: "Shelf Sight is a working text of the Library's own magic, some hour's quiet reading.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Opening Shelf Sight costs 1 mana, and the sight then holds for an hour.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "With Shelf Sight open, sorting a section at a time, a Librarian reshelves some thirty an hour.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The main hall is dimly lit, brighter once a Librarian syncs, and gloomy beyond the entrance.",
       knowers: ["lore-disclosure/game-master"],
     },
