@@ -9,5 +9,6 @@ export const haremHotel = {
   premise: "md",
   genre: "explicit erotic fantasy",
   visualStyle: "fantasy photorealistic",
+  narrator: 'Second person, present tense: the reader is "you", Alan as himself.',
   imageSeed: 724518093,
 } as const satisfies StoryDesign
