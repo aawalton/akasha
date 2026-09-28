@@ -15,4 +15,5 @@ export const otherwhere00009 = {
     "place/otherwhere-glassrun",
     "place/otherwhere-black-shore",
   ],
+  endsAt: "2026-09-28T15:08:00.000Z",
 } as const satisfies StoryTurnPlayed
