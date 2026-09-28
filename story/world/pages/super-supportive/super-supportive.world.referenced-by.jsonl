@@ -86,6 +86,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-device-identification.lore.ts","id":"01a0ea1c-a2da-747a-b3ac-ffcf80f8f75d"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-divergence-rank.lore.ts","id":"01a0ea01-2f64-73d9-bc1e-be0fbf1ee8fb"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-dragon-rabbit.lore.ts","id":"01a0e9ff-8f64-73ed-b257-db2222bca847"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-drusi-otta.lore.ts","id":"01a0ea1e-ff70-7e1a-a2eb-6b89d047fd28"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-ekaterina-roberts.lore.ts","id":"01a0ea1b-ad76-7a2b-af39-e30e59e1125a"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-electric-yo-yo.lore.ts","id":"01a0e9f2-0aaf-79d2-8328-4a6e431e65a6"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-elias.lore.ts","id":"01a0ea18-6ffb-73eb-8046-6c36bd2df7f9"}
@@ -316,6 +317,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-throughblow.lore.ts","id":"01a0ea19-d969-7e6e-9077-d18af7bdb9a3"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-thwart-hog.lore.ts","id":"01a0e9f8-a508-7796-a6c4-a23bbcbe7795"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-tina-long.lore.ts","id":"01a0ea19-99a6-77ea-b8aa-d0144ff2ce80"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-tiny-snake.lore.ts","id":"01a0ea1e-ff70-7484-95bb-731b2b9c8e0b"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-torsten-klein.lore.ts","id":"01a0ea02-5f39-75f9-b509-eacaddb1da66"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-trading-platform.lore.ts","id":"01a0ea01-2f65-7d34-8221-89695ddba2e7"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-triforming.lore.ts","id":"01a0ea0d-e14c-7be4-9c39-5d938cc8e0d2"}
@@ -986,6 +988,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/stories/read/super-supportive/characters/super-supportive-declan-gao.character-other.ts","id":"01a0ea10-f3f8-7827-b4f7-d0e46ce0cb18"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/stories/read/super-supportive/characters/super-supportive-dee.character-other.ts","id":"01a0ea19-99a6-7d09-ac7f-ed267681f09d"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/stories/read/super-supportive/characters/super-supportive-dragon-rabbit.character-other.ts","id":"01a0e9ff-8f65-7f6e-ada1-4a66e2e9cd23"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/stories/read/super-supportive/characters/super-supportive-drusi-otta.character-other.ts","id":"01a0ea1e-ff71-7787-90ef-103fb72a36c9"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/stories/read/super-supportive/characters/super-supportive-ekaterina-roberts.character-other.ts","id":"01a0ea1b-ad76-71e5-ac24-8a71696667ab"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/stories/read/super-supportive/characters/super-supportive-electric-yo-yo.character-other.ts","id":"01a0e9f2-0ab0-77ca-a3c3-124305047312"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/stories/read/super-supportive/characters/super-supportive-elias.character-other.ts","id":"01a0ea18-6ffc-752c-beb0-447bcabeb6a5"}
@@ -1094,6 +1097,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/stories/read/super-supportive/characters/super-supportive-thenn-ar.character-other.ts","id":"01a0e9f8-a508-741c-9b54-1b5bd8a569e8"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/stories/read/super-supportive/characters/super-supportive-thwart-hog.character-other.ts","id":"01a0e9f8-a508-7469-bc64-bffd2983c709"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/stories/read/super-supportive/characters/super-supportive-tina-long.character-other.ts","id":"01a0ea19-99a7-72d9-8f52-8c7142821636"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/stories/read/super-supportive/characters/super-supportive-tiny-snake.character-other.ts","id":"01a0ea1e-ff71-72f2-80e2-b918cb6e352b"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/stories/read/super-supportive/characters/super-supportive-torsten-klein.character-other.ts","id":"01a0ea02-5f39-71c2-9b04-7384f0b1067f"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/stories/read/super-supportive/characters/super-supportive-tuyet.character-other.ts","id":"01a0ea06-099c-7f6a-9d15-2372758f2f97"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/stories/read/super-supportive/characters/super-supportive-vandy-carisson.character-other.ts","id":"01a0ea09-46bd-7d4a-9573-46d0ec16553b"}
