@@ -1,0 +1,17 @@
+import type { Image } from "akasha/infrastructure/inference/generation/image/image.page-type.types.ts"
+
+export const image099b2af2539a7527 = {
+  id: "01a0e57a-db71-7dc3-ab44-774c1d6518c4",
+  type: "page-type/image",
+  slug: "image-099b2af2539a7527",
+  service: "zimage",
+  operation: "generate",
+  model: "beyond-reality-3",
+  seed: 381241034,
+  steps: 8,
+  guidance: 1,
+  width: 1216,
+  height: 832,
+  prompt:
+    "Fantasy photorealistic image, cinematic photograph with a faint touch of enchantment, natural skin texture, true-to-life color and fine detail. Rock Canyon above Provo, Utah, in autumn: tall banded pink and grey quartzite walls rising on both sides, a low creek talking over stones under willows, red maples up the side draws and bronze scrub oak on the slopes, a pale dusty gravel trail, deep cold shade high between the walls. At the trailside a stone drinking fountain runs cold spring water in a steady arc. Echo, a young woman in her mid-twenties with long dark brown hair tangled and knotted by the wind, fair skin densely freckled across her nose, cheeks, throat and upper chest, grey-green river-stone eyes under heavy dark unbrushed brows, wearing a rock-grey canvas jacket open over a pale sheer long-sleeved white dress gathered at the waist, a pair of black and gold headphones resting around her neck at the collarbones with the cable trailing away behind her has just straightened up from drinking, water beading on her freckled chin, and with a mischievous grin she flicks icy drops from her wet fingertips straight toward the viewer, droplets frozen mid-air and sparkling in a shaft of light. Seen from the viewpoint of the man she is with, who stays out of frame; no man is visible in the picture. Medium close shot, 50mm lens, fast shutter catching the droplets, shallow depth of field.",
+} as const satisfies Image
