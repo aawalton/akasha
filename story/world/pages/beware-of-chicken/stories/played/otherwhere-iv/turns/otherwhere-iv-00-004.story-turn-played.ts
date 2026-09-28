@@ -11,4 +11,5 @@ export const otherwhereIv00004 = {
   action:
     '"I do not have all knowledge, but I might still be able to help. Let us talk while we walk. What possibilities have you considered? What have you eliminated and how?"',
   lore: ["lore/otherwhere-iv-three-stones-folk"],
+  endsAt: "2026-09-28T07:10:00.000Z",
 } as const satisfies StoryTurnPlayed
