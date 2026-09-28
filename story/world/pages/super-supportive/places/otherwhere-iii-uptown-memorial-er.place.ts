@@ -135,6 +135,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "Vitals come next: a thermometer, a cuff, a clip on a finger; her temperature reads 96.1.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Marcus swaps her wet socks for dry treaded ones and wraps her in a blanket from a warmer.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
