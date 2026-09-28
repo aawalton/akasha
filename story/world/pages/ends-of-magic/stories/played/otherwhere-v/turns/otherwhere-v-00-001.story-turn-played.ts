@@ -10,7 +10,7 @@ export const otherwhereV00001 = {
   unit: "unit/words",
   prose: "txt",
   characters: ["character-player/otherwhere-v-nala"],
-  stepStatus: "step-status/player",
+  stepStatus: "step-status/recorders",
   lore: ["lore/otherwhere-v-nala", "place/otherwhere-v-fern-hollow"],
   endsAt: "2026-09-28T17:20:00.000Z",
 } as const satisfies StoryTurnPlayed
