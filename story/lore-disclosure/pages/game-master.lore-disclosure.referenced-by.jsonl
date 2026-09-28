@@ -29,6 +29,7 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-birdfolk.lore.ts","id":"01a0e9f3-7322-7b79-aafb-70403eb47d0e"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-brox.lore.ts","id":"01a0e9f8-a115-781f-9d47-a549f6ac6723"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-cala-dha-drex.lore.ts","id":"01a0e9f8-a115-7312-9fb0-0ceb82e0901b"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-castlebear.lore.ts","id":"01a0e9f9-9dd6-73ba-9f72-4b08eaf3a6cc"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-class-skills.lore.ts","id":"01a0e9f7-46bb-74ca-a6a6-3df3e9d7ca57"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-classes.lore.ts","id":"01a0e9f4-b58a-7309-818e-f14eaa1497bd"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-colborn.lore.ts","id":"01a0e9f9-005c-719b-ae62-4a3c60b06c73"}
@@ -54,12 +55,14 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-fey.lore.ts","id":"01a0e9f4-fc81-750a-8142-745eb9ab1b78"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-foxfolk.lore.ts","id":"01a0e9f4-0047-7744-94f4-6835adf682b9"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-gemore.lore.ts","id":"01a0e9f5-4cc9-7093-96b4-2df7632fd825"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-ghoul.lore.ts","id":"01a0e9f9-9dd7-77fc-a5b3-7aaf76077f21"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-giant.lore.ts","id":"01a0e9f4-fc81-7f9c-b43d-6ecd90372988"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-giantsrest-dominion.lore.ts","id":"01a0e9f3-5ca4-7d93-8500-cd4dc58f4e4b"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-gloamcat.lore.ts","id":"01a0e9f6-9c3e-772d-8755-88a819d85a1c"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-god.lore.ts","id":"01a0e9f7-bd90-796b-bf05-d0cac1d2a588"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-golems.lore.ts","id":"01a0e9f6-a23a-7499-bb38-79a468157a84"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-guardians-of-esebus.lore.ts","id":"01a0e9f8-bd22-760b-8cb2-3ff715a5ccc1"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-harpy.lore.ts","id":"01a0e9f9-9dd7-7906-82ec-823825ec0b49"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-hillboar.lore.ts","id":"01a0e9f8-965f-7495-958d-f6c01ecc3a04"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-human.lore.ts","id":"01a0e9f2-ad9d-7f6c-9f4f-7b22d446e18a"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-insight.lore.ts","id":"01a0e9f8-2dc5-7c21-bf26-bbf2c58c3fd3"}
@@ -71,6 +74,7 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-mana.lore.ts","id":"01a0e9f1-9e7b-73c8-94a8-373d7d681b6f"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-monster.lore.ts","id":"01a0e9f8-36f3-7de0-a972-f2f9fbdc839f"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-mortal.lore.ts","id":"01a0e9f6-6b00-73b2-8290-602a85fa08d5"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-muckgrabber.lore.ts","id":"01a0e9f9-9dd8-73b9-80cc-717e61ca7ae7"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-nala.lore.ts","id":"01a0e9e4-7069-7863-a130-ce85a67a3cf7"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-nathan-lark.lore.ts","id":"01a0e9f5-00f9-72b4-ae7f-2dc66815e952"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-nol-dho-chokiz.lore.ts","id":"01a0e9f9-115f-7f8a-9e37-9ce57e071521"}
