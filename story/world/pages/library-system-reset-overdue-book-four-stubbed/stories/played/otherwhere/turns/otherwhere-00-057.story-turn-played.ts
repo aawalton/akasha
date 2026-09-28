@@ -25,4 +25,5 @@ export const otherwhere00057 = {
     'Links: "Fifty. Your taps run hot now. And my golems are stirring, shelvers among them."',
   ],
   lore: ["place/otherwhere-main-hall", "lore/otherwhere-universe"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
