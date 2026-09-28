@@ -1,2 +1,5 @@
 {"propertySlug":"world","path":"story/world/pages/harem-hotel/designs/harem-hotel.story-design.ts","id":"01a0e820-8352-7af8-8ee8-2c82d3544c25"}
 {"propertySlug":"world","path":"story/world/pages/harem-hotel/stories/played/harem-hotel/harem-hotel.story-played.ts","id":"01a0e821-409c-74fe-bc03-72077ca039cb"}
+{"propertySlug":"world","path":"story/world/pages/harem-hotel/stories/played/harem-hotel/mechanics/mechanics/harem-hotel-cast.world-mechanic.ts","id":"01a0e823-0b06-70a6-ba85-d2bd1a8e2c39"}
+{"propertySlug":"world","path":"story/world/pages/harem-hotel/stories/played/harem-hotel/mechanics/mechanics/harem-hotel-explicitness.world-mechanic.ts","id":"01a0e823-0b06-719c-9c85-25952d70f673"}
+{"propertySlug":"world","path":"story/world/pages/harem-hotel/stories/played/harem-hotel/mechanics/mechanics/harem-hotel-floors.world-mechanic.ts","id":"01a0e823-0b06-77c0-9c33-6b1cb0e67934"}
