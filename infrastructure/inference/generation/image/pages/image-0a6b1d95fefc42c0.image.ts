@@ -8,6 +8,9 @@ export const image0a6b1d95fefc42c0 = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-40fcb658abfc5567",
+  title: "Rhia Singing to Her Lap Harp",
+  persona: "persona/rhia",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",
