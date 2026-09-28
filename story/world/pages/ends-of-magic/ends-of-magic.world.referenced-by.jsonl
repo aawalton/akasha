@@ -181,6 +181,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-flesh-tyrant.lore.ts","id":"01a0e9fc-3f04-7357-a6d6-0f1657dee4f0"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-flying-fish.lore.ts","id":"01a0e9fa-9425-7331-b972-f378b88148ab"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-focus.lore.ts","id":"01a0e9f9-efb3-77e5-b3d9-577d7103ab70"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-food.lore.ts","id":"01a0ea04-c280-77e7-a591-5f04c3a68a8e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-foresight.lore.ts","id":"01a0ea00-60ac-76ca-b86a-fa35e8516f53"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-foxfolk.lore.ts","id":"01a0e9f4-0047-7744-94f4-6835adf682b9"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-gargoyle.lore.ts","id":"01a0e9ff-2b3d-7265-82a2-8419e8e2a2b4"}
@@ -239,6 +240,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-mental-magic.lore.ts","id":"01a0e9f9-e5c9-7517-b142-3d61aaeaaeb8"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-mirus.lore.ts","id":"01a0e9fc-d638-7679-8df7-4ef541312977"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-mithril.lore.ts","id":"01a0ea03-09a3-7aee-b54f-0b669633ab5e"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-money.lore.ts","id":"01a0ea04-c281-7f27-b1ca-ec589416109e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-monster.lore.ts","id":"01a0e9f8-36f3-7de0-a972-f2f9fbdc839f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-mortal.lore.ts","id":"01a0e9f6-6b00-73b2-8290-602a85fa08d5"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-muckgrabber.lore.ts","id":"01a0e9f9-9dd8-73b9-80cc-717e61ca7ae7"}
@@ -325,6 +327,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-tigerman.lore.ts","id":"01a0e9f3-7322-7b74-a55e-8f463df581ac"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-tirien.lore.ts","id":"01a0e9fb-6916-753f-9478-0004361b448a"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-tobin-ashe.lore.ts","id":"01a0ea04-05ee-79b3-91ce-bf304b4a66b0"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-trade.lore.ts","id":"01a0ea04-c282-78bf-baff-141d7571c291"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-travel.lore.ts","id":"01a0e9fd-4951-7ead-9e45-126354162898"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-treeborn.lore.ts","id":"01a0e9f4-0047-7739-8ee3-fcdfe6281646"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-true-power.lore.ts","id":"01a0e9ff-67f6-7c64-8ffe-50de28fe7f72"}
@@ -378,6 +381,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-enchanting.world-mechanic.ts","id":"01a0e9f6-5822-75da-b38b-3df12678db92"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-endings.world-mechanic.ts","id":"01a0e9fb-666b-79e0-9afd-73dce250be43"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-focus.world-mechanic.ts","id":"01a0e9f9-efb4-7fbb-bb64-1110d8851500"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-food.world-mechanic.ts","id":"01a0ea04-c282-713c-ae32-639a721c7209"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-foresight.world-mechanic.ts","id":"01a0ea00-60ad-7fd5-9485-1fc9de3be932"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-golems.world-mechanic.ts","id":"01a0e9f6-a23b-75ba-870a-527fc9ea0488"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-grand-dungeons.world-mechanic.ts","id":"01a0e9fb-c0e7-7311-a8ec-d9247ca6c8b6"}
@@ -388,6 +392,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-magic-resistance.world-mechanic.ts","id":"01a0e9f7-bb0d-7767-9c8d-feb2ec3caf11"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-mana.world-mechanic.ts","id":"01a0e9f1-9e7c-76a5-9ea4-b57cfe527aad"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-mental-magic.world-mechanic.ts","id":"01a0e9f9-e5ca-7fda-990d-cc6bf1c43666"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-money.world-mechanic.ts","id":"01a0ea04-c282-73b7-b12e-a7fd68722f9b"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-notifications.world-mechanic.ts","id":"01a0e9fc-f7ce-725d-80c2-326ca59efd43"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-nuclear-magic.world-mechanic.ts","id":"01a0ea01-3008-7f98-90ef-cb0bd33c2625"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-paths.world-mechanic.ts","id":"01a0ea00-21ae-778d-8c6a-a926f99b1f7a"}
@@ -408,6 +413,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-summoning.world-mechanic.ts","id":"01a0e9ff-7e04-7700-b7aa-ab19063f3b66"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-talents.world-mechanic.ts","id":"01a0e9f3-e3e8-74ab-9121-65d11936e83a"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-teleportation.world-mechanic.ts","id":"01a0e9fc-e55e-75bd-a25e-eb64e19188dc"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-trade.world-mechanic.ts","id":"01a0ea04-c282-7bb0-a28d-664c89574aa9"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-travel.world-mechanic.ts","id":"01a0e9fc-7949-7841-a745-5b1f465aff57"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-true-power.world-mechanic.ts","id":"01a0e9ff-67f6-7985-be5c-1e8f67a42150"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-underworld-magic.world-mechanic.ts","id":"01a0ea01-fcc6-734c-b20f-7ef5d99f9275"}
