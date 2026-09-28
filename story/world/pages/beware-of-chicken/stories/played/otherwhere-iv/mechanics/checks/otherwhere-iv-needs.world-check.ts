@@ -26,6 +26,11 @@ export const otherwhereIvNeeds = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "When Nala came to, she was nine hours from a drink, twelve from a meal, and none awake.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Each need reaches a stage, and each stage costs a bonus on every act.",
     },
     {
