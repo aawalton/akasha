@@ -70,6 +70,22 @@ test("a skill is named by the skill page's title and ranked by the rank page's t
   ])
 })
 
+test("a skill's note is its skill page's description, over the note its holding names", () => {
+  const titles = new Map([
+    [SMITHING, theTowerSmithing.title],
+    [EMBER_WAVE, theTowerEmberWave.title],
+  ])
+  const descriptions = new Map([[SMITHING, "shapes metal"]])
+  const rows = [
+    { values: { skill: SMITHING, level: 1, axis: "the form" } },
+    { values: { skill: EMBER_WAVE, level: 3, axis: "the form" } },
+  ]
+  expect(skillsIn(rows, titles, descriptions)).toEqual([
+    { name: theTowerEmberWave.title, score: 3, note: "the form" },
+    { name: theTowerSmithing.title, score: 1, note: "shapes metal" },
+  ])
+})
+
 test("a skill whose rank is a number is scored by that rank", () => {
   const titles = new Map([[SMITHING, theTowerSmithing.title]])
   expect(skillsIn([{ values: { skill: SMITHING, rank: 2 } }], titles)).toEqual([

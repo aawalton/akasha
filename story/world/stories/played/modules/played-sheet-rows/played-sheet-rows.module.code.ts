@@ -115,14 +115,18 @@ export function scoresIn(rows: readonly QueryRow[]): Scores {
   }
 }
 
-export function skillsIn(rows: readonly QueryRow[], titles: Titles): readonly Skill[] {
+export function skillsIn(
+  rows: readonly QueryRow[],
+  titles: Titles,
+  descriptions: Titles = new Map()
+): readonly Skill[] {
   const skills: Skill[] = []
   for (const row of rows) {
     const name = titleAt(row.values[SKILL_KEY], titles)
     if (name === undefined) continue
     const rank = titleAt(row.values[RANK_KEY], titles)
     const score = parseNumber(row.values[LEVEL_KEY]) ?? parseNumber(row.values[RANK_KEY])
-    const note = textIn(row.values[AXIS_KEY])
+    const note = titleAt(row.values[SKILL_KEY], descriptions) ?? textIn(row.values[AXIS_KEY])
     skills.push({
       name,
       ...(rank === undefined ? {} : { rank }),

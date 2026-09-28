@@ -27,6 +27,11 @@ export const playedSheetRows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A skill's note is its skill page's description, or its holding's own note where that page has none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A quest is keyed by its page's slug.",
     },
     {
