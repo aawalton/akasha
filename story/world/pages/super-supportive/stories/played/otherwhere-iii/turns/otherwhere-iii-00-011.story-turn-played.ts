@@ -10,7 +10,7 @@ export const otherwhereIii00011 = {
   position: 11,
   prose: "txt",
   characters: ["character-player/otherwhere-iii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I watch the TV screen quietly, gathering information to help me get oriented and blend into this new world.",
   beats: [
@@ -36,6 +36,6 @@ export const otherwhereIii00011 = {
     '"Do you have a Social Security number I can try? Or any ID at all?"',
   ],
   lore: ["place/otherwhere-iii-uptown-memorial-er"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2037-01-31T07:05:00.000Z",
 } as const satisfies StoryTurnPlayed
