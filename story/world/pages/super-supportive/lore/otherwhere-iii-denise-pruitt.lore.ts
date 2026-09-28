@@ -80,6 +80,10 @@ export const otherwhereIiiDenisePruitt = {
         "character-other/otherwhere-iii-denise-pruitt",
       ],
     },
+    {
+      fact: "Denise believes the stranded story and takes Nala for a woman in trouble, not a liar.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
