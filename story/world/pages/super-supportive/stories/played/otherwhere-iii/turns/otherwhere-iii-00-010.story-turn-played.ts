@@ -7,7 +7,8 @@ export const otherwhereIii00010 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
   position: 10,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "\"Thank you, but I'm on my own for now. Yesterday I would have had you call my boyfriend, but that ship has sunk. Thank you for your kindness, you've really been a lifesaver today.\"",
+  lore: ["lore/otherwhere-iii-denise-pruitt"],
 } as const satisfies StoryTurnPlayed
