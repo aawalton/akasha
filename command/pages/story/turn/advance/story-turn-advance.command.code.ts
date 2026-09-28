@@ -30,6 +30,10 @@ import {
   taken,
   titledOf,
 } from "akasha/command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts"
+import {
+  timeCheckIndexed,
+  untimedRefused,
+} from "akasha/command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.code.ts"
 import { liftedFrom } from "akasha/command/pages/story/turn/modules/turn-keeping/turn-keeping.module.code.ts"
 import {
   type Prompting,
@@ -60,6 +64,7 @@ import {
   bareOf,
   type Caller,
   CHAPTER,
+  GAME_MASTER,
   type Held,
   type Start,
   stepIn,
@@ -159,6 +164,15 @@ function typeOf(read: Taken): string {
   return read.chapter ? storyChapterWritten.slug : storyTurnPlayed.slug
 }
 
+export type Timing = (root: string, game: string) => string | null
+
+type Reaching = Reach & { readonly timeCheckOf: Timing }
+
+function untimedOn(reach: Reaching, root: string, read: Taken, held: Held, turn: Turn) {
+  if (read.chapter || held.status !== GAME_MASTER) return null
+  return untimedRefused(reach.timeCheckOf(root, held.game), held.game, turn.slug, turn.value)
+}
+
 export type Context = {
   readonly game: string
   readonly story: Story | null
@@ -233,7 +247,7 @@ async function advancedOn(
   argv: readonly string[],
   given: Given,
   landing: Landing,
-  reach: Reach,
+  reach: Reaching,
   timed: Timed
 ): Promise<Answer> {
   const read = taken(argv, given.calledAs, given.root)
@@ -251,7 +265,7 @@ async function heldOn(
   slug: string,
   given: Given,
   landing: Landing,
-  reach: Reach,
+  reach: Reaching,
   timed: Timed
 ): Promise<Answer> {
   const turn = stepAt(reach, given.root, read, slug)
@@ -266,6 +280,8 @@ async function heldOn(
   const recorded = recorders.map((one) => one.slug)
   const said = advanced(held, caller, read.handed, slugs, recorded)
   if ("refused" in said) return refused(said.refused, DATA)
+  const untimed = untimedOn(reach, given.root, read, held, turn)
+  if (untimed !== null) return refused(untimed, DATA)
   const recording = read.handed.kind === "record"
   const moved = recording ? reach.keep(given.root, given.agentId, turn.at) : []
   if ("refused" in moved) return refused(moved.refused, DATA)
@@ -355,7 +371,11 @@ export async function storyTurnAdvance(
   given: Given,
   landing: Landing = runMechanicalChange,
   reach: Reach = REACHED,
-  timed: Timed = phaseTimed
+  timed: Timed = phaseTimed,
+  timing: Timing = timeCheckIndexed
 ): Promise<Answer> {
-  return await answering(async (done) => await advancedOn(done, argv, given, landing, reach, timed))
+  const reaching: Reaching = { ...reach, timeCheckOf: timing }
+  return await answering(
+    async (done) => await advancedOn(done, argv, given, landing, reaching, timed)
+  )
 }

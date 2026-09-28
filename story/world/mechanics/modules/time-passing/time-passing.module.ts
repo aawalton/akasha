@@ -29,5 +29,9 @@ export const timePassing = {
       statement:
         "Every check settling time this way imports this rule rather than stating it again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The game master settles a turn's `endsAt` before advancing that turn.",
+    },
   ],
 } as const satisfies Module

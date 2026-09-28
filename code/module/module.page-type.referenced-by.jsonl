@@ -54,6 +54,7 @@
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"code/editor/extension/modules/command-server/command-server.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"command/modules/landing-entangling/landing-entangling.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"command/modules/orphaning/orphaning.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.ts","path":"command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"domain/modules/rows/domain-rows.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"infrastructure/service/akasha-service/modules/deploy-looping/deploy-looping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/run-composing/run-composing.module.test-fixtures.ts","typed":false,"deferred":false}
@@ -1374,6 +1375,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/settle/modules/settle-asking/settle-asking.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/turn/advance/modules/turn-described/turn-described.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/turn/modules/turn-keeping/turn-keeping.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/turn/modules/turn-lore-in-play/turn-lore-in-play.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/turn/modules/turn-prompting/turn-prompting.module.ts","typed":true,"deferred":false}

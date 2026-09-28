@@ -9,7 +9,7 @@ export const storyTurnAdvance = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  parts: ["module/turn-described", "module/turn-handing"],
+  parts: ["module/turn-described", "module/turn-handing", "module/turn-timing"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

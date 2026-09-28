@@ -7,6 +7,7 @@ import type { Given } from "akasha/command/modules/calling/calling.module.code.t
 import {
   storyTurnAdvance,
   type Timed,
+  type Timing,
 } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.code.ts"
 import { loreLine } from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
 import type {
@@ -277,14 +278,16 @@ export async function advancedBy(
   argv: readonly string[],
   reach: Reach,
   landing: Landing = async () => LANDED,
-  timed: Timed = () => undefined
+  timed: Timed = () => undefined,
+  timing: Timing = () => null
 ) {
   return await storyTurnAdvance(
     ["--turn", `story-turn-played/${SLUG}`, ...argv],
     GIVEN,
     landing,
     reach,
-    timed
+    timed,
+    timing
   )
 }
 

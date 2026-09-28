@@ -70,6 +70,7 @@ export const gameMaster = {
       aids: [
         "Hand the beats in as a file, one beat per line, with `--beats-file`.",
         "Name a written chapter with `--chapter` in place of `--turn`.",
+        "Settle your story's time-passing check first, so the turn states its `endsAt`.",
       ],
     },
     {
