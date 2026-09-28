@@ -21,4 +21,5 @@ export const otherwhere00067 = {
     "Neither moves toward her; both are turned to the Counter, still, as if waiting on a word.",
     "One tilts its blank head toward the passage with a slow creak of wood and brass.",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
