@@ -15,7 +15,11 @@ export const otherwhereIvLanqiao = {
   ],
   facts: [
     {
-      fact: "Lanqiao is a walled mortal market town thirty li down the river from Three Stones.",
+      fact: "Lanqiao is the market town thirty li down the river from Three Stones.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Lanqiao is a walled mortal town.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
