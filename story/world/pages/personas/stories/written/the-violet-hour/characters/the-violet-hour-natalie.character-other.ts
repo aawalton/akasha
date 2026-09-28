@@ -1,9 +1,9 @@
 import type { CharacterOther } from "akasha/story/world/characters/character-other/character-other.page-type.types.ts"
 
-export const theVioletHourAmy = {
-  id: "01a0de41-350f-7370-874d-572b2477a385",
+export const theVioletHourNatalie = {
+  id: "01a0de41-350f-79cb-9e15-68757b1d7ee9",
   type: "page-type/character-other",
-  slug: "the-violet-hour-amy",
-  title: "Amy",
-  story: "story-played/the-violet-hour",
+  slug: "the-violet-hour-natalie",
+  title: "Natalie",
+  story: "story-written/the-violet-hour",
 } as const satisfies CharacterOther

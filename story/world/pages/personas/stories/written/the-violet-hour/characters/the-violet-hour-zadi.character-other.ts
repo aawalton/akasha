@@ -5,5 +5,5 @@ export const theVioletHourZadi = {
   type: "page-type/character-other",
   slug: "the-violet-hour-zadi",
   title: "Zadi",
-  story: "story-played/the-violet-hour",
+  story: "story-written/the-violet-hour",
 } as const satisfies CharacterOther
