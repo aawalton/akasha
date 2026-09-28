@@ -4,10 +4,16 @@ export const otherwhereIii00007 = {
   id: "01a0ea1d-d0e4-74bf-a865-72128ee4cbfe",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-007",
+  ownLength: 169,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
   position: 7,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/otherwhere-iii-nala",
+    "character-other/otherwhere-iii-denise-pruitt",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     '"Nala Arthur, January 22, 1986, 1350 Apple Ave Provo, Utah" I recite smoothly. "No local address"',
   beats: [
