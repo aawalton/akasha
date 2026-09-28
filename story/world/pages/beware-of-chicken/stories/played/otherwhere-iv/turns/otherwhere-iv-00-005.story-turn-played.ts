@@ -15,4 +15,5 @@ export const otherwhereIv00005 = {
     "lore/otherwhere-iv-hidden-spring-sect",
     "place/otherwhere-iv-upstream-woods",
   ],
+  endsAt: "2026-09-28T07:17:00.000Z",
 } as const satisfies StoryTurnPlayed
