@@ -9,4 +9,7 @@ export const otherwherePlayerCharacter = {
   drawn: "js",
   place: "panel-place/aside",
   position: 11,
+  decisions: [
+    { decisionKind: "decision-kind/departure", statement: "Clicking the cover opens it whole." },
+  ],
 } as const satisfies PlayedPanel

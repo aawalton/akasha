@@ -10,4 +10,7 @@ export const towerPlayerCharacter = {
   drawn: "js",
   place: "panel-place/aside",
   position: 12,
+  decisions: [
+    { decisionKind: "decision-kind/departure", statement: "Clicking the cover opens it whole." },
+  ],
 } as const satisfies PlayedPanel

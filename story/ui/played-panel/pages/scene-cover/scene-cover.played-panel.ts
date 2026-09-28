@@ -9,4 +9,10 @@ export const sceneCover = {
   drawn: "js",
   place: "panel-place/aside",
   position: 30,
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Clicking the picture opens it whole, with its reroll over it.",
+    },
+  ],
 } as const satisfies PlayedPanel

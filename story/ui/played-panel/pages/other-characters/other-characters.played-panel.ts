@@ -9,4 +9,7 @@ export const otherCharacters = {
   drawn: "js",
   place: "panel-place/aside",
   position: 20,
+  decisions: [
+    { decisionKind: "decision-kind/departure", statement: "Clicking a picture opens it whole." },
+  ],
 } as const satisfies PlayedPanel
