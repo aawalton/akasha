@@ -80,5 +80,9 @@ export const otherwhereIvNala = {
       fact: "Nala came to at Willow Bend a little after dawn on day one, in late spring.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Her hands are small and narrow, with thin fingers, and freckled on the back.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore
