@@ -9,7 +9,7 @@ export const storyTurnAdvance = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  parts: ["module/turn-handing"],
+  parts: ["module/turn-described", "module/turn-handing"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -104,6 +104,11 @@ export const storyTurnAdvance = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A written chapter reaching player pushes Alan nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reviewer of a played turn is named the mechanic descriptions the turn made new or changed.",
     },
   ],
   name: "advance",

@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"page-type-descent.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/data-watching/data-watching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-descent.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/service-tree-assemble/service-tree-assemble.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-descent.module.code.ts","path":"command/pages/domain/modules/drawing/domain-drawing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-type-descent.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-described/turn-described.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-descent.module.code.ts","path":"domain/context/warrant/assignment-itself/assignment-itself.context-warrant.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-descent.module.code.ts","path":"domain/context/warrant/domain-ancestors/domain-ancestors.context-warrant.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-descent.module.code.ts","path":"domain/modules/reading/domain-reading.module.code.ts","typed":false,"deferred":false}

@@ -21,6 +21,11 @@ export const turnPrompting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A reviewer's prompt names the mechanic descriptions the turn made new or changed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A prompt names the exact advance the seat calls when it is done.",
     },
     {

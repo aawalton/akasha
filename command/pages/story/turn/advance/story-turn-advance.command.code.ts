@@ -19,6 +19,7 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { describedIndexed } from "akasha/command/pages/story/turn/advance/modules/turn-described/turn-described.module.code.ts"
 import {
   type Taken,
   taken,
@@ -303,6 +304,7 @@ async function heldOn(
         stringsIn(said.values[CHARACTERS] ?? turn.value[CHARACTERS])
       ),
       written: reach.writtenOn(given.root, turn),
+      ...(read.chapter ? {} : { described: describedIndexed(given.root, turn) }),
     },
   }
   const moving = `${slug}\t${held.status}\t${said.status}`

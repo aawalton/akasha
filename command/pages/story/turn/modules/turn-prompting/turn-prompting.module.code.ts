@@ -25,6 +25,7 @@ export type Prompting = {
   readonly calledAs: string
   readonly lore: readonly string[]
   readonly written: readonly string[]
+  readonly described?: readonly string[]
   readonly noun?: "turn" | "chapter"
 }
 
@@ -50,6 +51,15 @@ function writtenSaid(written: readonly string[], noun: string): readonly string[
   return written.length === 0 ? [] : ["", writtenLine(written, noun)]
 }
 
+export function describedLine(described: readonly string[]): string {
+  const named = described.map((one) => `\`${one}\``).join(", ")
+  return `The mechanic descriptions new or changed on this turn are on ${named}. Judge those, and no other.`
+}
+
+function describedSaid(described: readonly string[] | undefined): readonly string[] {
+  return described === undefined || described.length === 0 ? [] : ["", describedLine(described)]
+}
+
 const DRAFTING = "akasha change apply --draft"
 
 function advancing(asked: Prompting): string {
@@ -64,6 +74,7 @@ export function reviewerPrompt(asked: Prompting, reviewer: Reviewer): string {
     "",
     `The ${noun} is \`${asked.turnAt}\`, with its prose beside it. Your instructions are \`${reviewer.instructionsAt}\`, beside the story reviewer page \`${reviewer.at}\`.`,
     ...loreSaid(asked.lore, noun),
+    ...describedSaid(asked.described),
     "",
     `Read your instructions, then the ${noun} and its prose, and do what the instructions say. When you are done, write the issues you found to a file, one issue to a line, and advance the ${noun} once:`,
     "",
