@@ -24,4 +24,18 @@ export const otherwhereRoom = {
   ],
   types: "ts",
   schema: "jsonl",
+  parts: [
+    "boolean-property/otherwhere-room-lit",
+    "multi-relation-property/otherwhere-room-shown-to",
+  ],
+  properties: [
+    { pageProperty: "text-property/title", required: true, many: false },
+    { pageProperty: "boolean-property/otherwhere-room-lit", required: true, many: false },
+    {
+      pageProperty: "multi-relation-property/otherwhere-room-shown-to",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+  ],
 } as const satisfies PageType

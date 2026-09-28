@@ -43,6 +43,7 @@
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/world/characters/properties/characters.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/world/mechanics/properties/evolves-from-slugs.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/world/mechanics/properties/evolves-to-slugs.multi-relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere/mechanics/rooms/properties/otherwhere-room-shown-to.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/world/stories/played/properties/panels.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/world/stories/played/turns/properties/turn-lore.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/world/stories/played/turns/properties/turn-recorded-by.multi-relation-property.ts","typed":true,"deferred":false}
