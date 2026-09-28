@@ -183,6 +183,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "Captions say her memorial is set for February 13 on Anesidora Island if she has not returned.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A crawl runs hero sightings and a reminder that all Avowed must register with the government.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
