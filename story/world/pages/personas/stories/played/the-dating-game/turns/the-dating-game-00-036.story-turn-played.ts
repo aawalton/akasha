@@ -4,10 +4,13 @@ export const theDatingGame00036 = {
   id: "01a0e58a-4776-7960-a688-ad0ad2f46093",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-036",
+  ownLength: 137,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 36,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
+  turnStatus: "turn-status/reviewers",
   action:
     "“Not at the very end. The room was small and his kids were there. I saw him about a week before though. I guess most would consider a few weeks ago to be recent. It feels no different than forty years ago or forty seconds ago to me.”",
   beats: [
