@@ -4,6 +4,7 @@ export const heWhoFightsWithMonsters0089Chapter1019BlatantlyIgnoringLaws = {
   id: "01a06731-ae00-7001-8ddf-1e90b240ad5d",
   type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0089-chapter-1019-blatantly-ignoring-laws",
+  ownProgress: 2258,
   title: "Chapter 1019: Blatantly Ignoring Laws",
   story: "story-read/he-who-fights-with-monsters",
   position: 89,

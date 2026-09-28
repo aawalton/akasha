@@ -4,6 +4,7 @@ export const gamerGirlEvolution005756TheDoorWhichShouldNotHaveOpened = {
   id: "01a06731-b0df-7006-b4cf-6796a9b0534f",
   type: "page-type/story-chapter-read",
   slug: "gamer-girl-evolution-0057-56-the-door-which-should-not-have-opened",
+  ownProgress: 1879,
   title: "56 - The Door Which Should Not Have Opened ",
   story: "story-read/gamer-girl-evolution",
   position: 57,

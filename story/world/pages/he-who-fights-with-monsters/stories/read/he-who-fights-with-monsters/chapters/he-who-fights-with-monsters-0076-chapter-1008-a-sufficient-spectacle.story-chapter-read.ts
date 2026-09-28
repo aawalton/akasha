@@ -4,6 +4,7 @@ export const heWhoFightsWithMonsters0076Chapter1008ASufficientSpectacle = {
   id: "01a06731-adf3-7000-aa5f-6bf6e82a7a2a",
   type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0076-chapter-1008-a-sufficient-spectacle",
+  ownProgress: 2976,
   title: "Chapter 1008: A Sufficient Spectacle",
   story: "story-read/he-who-fights-with-monsters",
   position: 76,

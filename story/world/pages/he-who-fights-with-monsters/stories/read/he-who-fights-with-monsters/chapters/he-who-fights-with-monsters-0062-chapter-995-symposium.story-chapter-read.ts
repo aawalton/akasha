@@ -4,6 +4,7 @@ export const heWhoFightsWithMonsters0062Chapter995Symposium = {
   id: "01a06731-ade5-7000-b907-5bd443da593a",
   type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0062-chapter-995-symposium",
+  ownProgress: 3000,
   title: "Chapter 995: Symposium",
   story: "story-read/he-who-fights-with-monsters",
   position: 62,

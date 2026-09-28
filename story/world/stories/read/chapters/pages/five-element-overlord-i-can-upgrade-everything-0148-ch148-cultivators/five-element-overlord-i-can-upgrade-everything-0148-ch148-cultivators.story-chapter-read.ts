@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0148Ch148Cultivators = {
   id: "01a0d37a-3299-7703-badd-aaa5e27ac3f3",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0148-ch148-cultivators",
+  ownProgress: 2428,
   position: 148,
   publishedAt: "2026-09-23",
   unit: "unit/words",

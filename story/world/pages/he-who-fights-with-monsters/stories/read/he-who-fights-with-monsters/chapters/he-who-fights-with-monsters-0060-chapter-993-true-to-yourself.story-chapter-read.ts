@@ -4,6 +4,7 @@ export const heWhoFightsWithMonsters0060Chapter993TrueToYourself = {
   id: "01a06731-ade4-7002-b66a-2011ef5cbcdd",
   type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0060-chapter-993-true-to-yourself",
+  ownProgress: 2325,
   title: "Chapter 993: True to Yourself",
   story: "story-read/he-who-fights-with-monsters",
   position: 60,

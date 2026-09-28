@@ -4,6 +4,7 @@ export const heWhoFightsWithMonsters0079Chapter1010DangerouslyExposingMyself = {
   id: "01a06731-adf4-7002-b74a-f7a132569948",
   type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0079-chapter-1010-dangerously-exposing-myself",
+  ownProgress: 2710,
   title: "Chapter 1010: Dangerously Exposing Myself",
   story: "story-read/he-who-fights-with-monsters",
   position: 79,

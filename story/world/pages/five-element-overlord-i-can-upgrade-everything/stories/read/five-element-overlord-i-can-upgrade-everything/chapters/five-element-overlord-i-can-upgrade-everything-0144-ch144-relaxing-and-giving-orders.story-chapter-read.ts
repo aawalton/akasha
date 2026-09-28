@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0144Ch144RelaxingAndGivingO
   id: "01a0b19d-1637-7a64-bf6b-95a532a9f28f",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0144-ch144-relaxing-and-giving-orders",
+  ownProgress: 2580,
   position: 144,
   publishedAt: "2026-09-17",
   unit: "unit/words",

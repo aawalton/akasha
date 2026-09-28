@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0150Ch150BeingFollowed = {
   id: "01a0dad0-f7c4-7a61-88da-b88545e19cb0",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0150-ch150-being-followed",
+  ownProgress: 1618,
   position: 150,
   publishedAt: "2026-09-25",
   unit: "unit/words",

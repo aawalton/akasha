@@ -4,6 +4,7 @@ export const heWhoFightsWithMonsters0081Chapter1012WeHaveToKillClive = {
   id: "01a06731-adf5-7001-850d-a70742471a02",
   type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0081-chapter-1012-we-have-to-kill-clive",
+  ownProgress: 2615,
   title: "Chapter 1012: We Have to Kill Clive",
   story: "story-read/he-who-fights-with-monsters",
   position: 81,

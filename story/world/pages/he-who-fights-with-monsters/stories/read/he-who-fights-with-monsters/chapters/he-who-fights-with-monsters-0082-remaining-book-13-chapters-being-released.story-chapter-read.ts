@@ -4,6 +4,7 @@ export const heWhoFightsWithMonsters0082RemainingBook13ChaptersBeingReleased = {
   id: "01a06731-adf5-7002-a27a-2fd9dd5a5679",
   type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0082-remaining-book-13-chapters-being-released",
+  ownProgress: 313,
   title: "Remaining book 13 chapters being released September 2nd",
   story: "story-read/he-who-fights-with-monsters",
   position: 82,

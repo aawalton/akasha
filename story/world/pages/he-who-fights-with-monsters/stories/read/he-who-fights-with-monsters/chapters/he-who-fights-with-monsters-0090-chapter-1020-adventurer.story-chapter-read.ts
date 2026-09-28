@@ -4,6 +4,7 @@ export const heWhoFightsWithMonsters0090Chapter1020Adventurer = {
   id: "01a06731-ae00-7002-8940-86f4f66b8490",
   type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0090-chapter-1020-adventurer",
+  ownProgress: 2641,
   title: "Chapter 1020: Adventurer",
   story: "story-read/he-who-fights-with-monsters",
   position: 90,

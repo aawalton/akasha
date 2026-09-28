@@ -4,6 +4,7 @@ export const heWhoFightsWithMonsters0067Chapter1000CosmicTyrantWarlordCultLeader
   id: "01a06731-ade9-7001-aaac-bce55bdc8155",
   type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0067-chapter-1000-cosmic-tyrant-warlord-cult-leader",
+  ownProgress: 2766,
   title: "Chapter 1000: Cosmic Tyrant Warlord Cult Leader",
   story: "story-read/he-who-fights-with-monsters",
   position: 67,

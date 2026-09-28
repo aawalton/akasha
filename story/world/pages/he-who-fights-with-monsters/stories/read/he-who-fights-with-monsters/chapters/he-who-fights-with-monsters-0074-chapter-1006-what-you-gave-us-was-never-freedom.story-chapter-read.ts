@@ -4,6 +4,7 @@ export const heWhoFightsWithMonsters0074Chapter1006WhatYouGaveUsWasNeverFreedom 
   id: "01a06731-adf2-7000-9b20-e7a5b0baa3ec",
   type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0074-chapter-1006-what-you-gave-us-was-never-freedom",
+  ownProgress: 2306,
   title: "Chapter 1006: What You Gave Us Was Never Freedom",
   story: "story-read/he-who-fights-with-monsters",
   position: 74,

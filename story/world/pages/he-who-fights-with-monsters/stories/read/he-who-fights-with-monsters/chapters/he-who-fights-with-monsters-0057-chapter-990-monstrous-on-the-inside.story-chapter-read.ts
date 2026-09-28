@@ -8,7 +8,7 @@ export const heWhoFightsWithMonsters0057Chapter990MonstrousOnTheInside = {
   story: "story-read/he-who-fights-with-monsters",
   position: 57,
   ownLength: 2099,
-  ownProgress: 269,
+  ownProgress: 2099,
   unit: "unit/words",
   publishedAt: "2026-03-06",
   externalIdentity: [

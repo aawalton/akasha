@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0147Ch147BloodSoulDagger = 
   id: "01a0cb5d-920c-75ae-9439-5ba70614ac7a",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0147-ch147-blood-soul-dagger",
+  ownProgress: 2545,
   position: 147,
   publishedAt: "2026-09-22",
   unit: "unit/words",

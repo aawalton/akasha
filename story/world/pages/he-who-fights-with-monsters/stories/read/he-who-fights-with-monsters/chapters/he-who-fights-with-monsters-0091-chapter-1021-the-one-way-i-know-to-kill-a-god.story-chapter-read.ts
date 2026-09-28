@@ -4,6 +4,7 @@ export const heWhoFightsWithMonsters0091Chapter1021TheOneWayIKnowToKillAGod = {
   id: "01a06731-ae01-7000-91c0-a16b7fd7f221",
   type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0091-chapter-1021-the-one-way-i-know-to-kill-a-god",
+  ownProgress: 2897,
   title: "Chapter 1021: The One Way I Know to Kill a God",
   story: "story-read/he-who-fights-with-monsters",
   position: 91,

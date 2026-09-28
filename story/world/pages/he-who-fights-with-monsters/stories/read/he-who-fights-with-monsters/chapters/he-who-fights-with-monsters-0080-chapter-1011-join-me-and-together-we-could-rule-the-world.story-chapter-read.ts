@@ -4,6 +4,7 @@ export const heWhoFightsWithMonsters0080Chapter1011JoinMeAndTogetherWeCouldRuleT
   id: "01a06731-adf5-7000-8966-b8b7923492ba",
   type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0080-chapter-1011-join-me-and-together-we-could-rule-the-world",
+  ownProgress: 2537,
   title: "Chapter 1011: Join Me, and Together We Could Rule the World!",
   story: "story-read/he-who-fights-with-monsters",
   position: 80,

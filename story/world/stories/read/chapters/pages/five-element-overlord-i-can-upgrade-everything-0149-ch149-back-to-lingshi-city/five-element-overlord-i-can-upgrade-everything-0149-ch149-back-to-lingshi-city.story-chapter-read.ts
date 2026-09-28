@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0149Ch149BackToLingshiCity 
   id: "01a0d5aa-1d23-76cc-a02a-99031dd2a3d3",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0149-ch149-back-to-lingshi-city",
+  ownProgress: 2816,
   position: 149,
   publishedAt: "2026-09-24",
   unit: "unit/words",

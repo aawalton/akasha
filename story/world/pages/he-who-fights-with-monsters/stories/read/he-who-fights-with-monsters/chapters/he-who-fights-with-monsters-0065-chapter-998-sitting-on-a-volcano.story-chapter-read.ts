@@ -4,6 +4,7 @@ export const heWhoFightsWithMonsters0065Chapter998SittingOnAVolcano = {
   id: "01a06731-ade8-7000-94db-b9719e223ac1",
   type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0065-chapter-998-sitting-on-a-volcano",
+  ownProgress: 2582,
   title: "Chapter 998: Sitting on a Volcano",
   story: "story-read/he-who-fights-with-monsters",
   position: 65,

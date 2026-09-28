@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0146Ch1466thLevelQiRefiner 
   id: "01a0c639-d20c-7a00-a986-5f84e39bbb25",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0146-ch146-6th-level-qi-refiner",
+  ownProgress: 1713,
   position: 146,
   publishedAt: "2026-09-21",
   unit: "unit/words",

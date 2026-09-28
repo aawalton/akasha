@@ -8,7 +8,7 @@ export const gamerGirlEvolution005453WithinTheCastleWalls = {
   story: "story-read/gamer-girl-evolution",
   position: 54,
   ownLength: 1984,
-  ownProgress: 765,
+  ownProgress: 1984,
   unit: "unit/words",
   publishedAt: "2026-04-07",
   externalIdentity: [

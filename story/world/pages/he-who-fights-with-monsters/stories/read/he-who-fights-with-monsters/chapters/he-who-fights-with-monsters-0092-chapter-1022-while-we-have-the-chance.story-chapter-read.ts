@@ -4,6 +4,7 @@ export const heWhoFightsWithMonsters0092Chapter1022WhileWeHaveTheChance = {
   id: "01a06731-ae03-7000-b212-9b5bfc1b45b1",
   type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0092-chapter-1022-while-we-have-the-chance",
+  ownProgress: 2867,
   title: "Chapter 1022: While We Have the Chance",
   story: "story-read/he-who-fights-with-monsters",
   position: 92,

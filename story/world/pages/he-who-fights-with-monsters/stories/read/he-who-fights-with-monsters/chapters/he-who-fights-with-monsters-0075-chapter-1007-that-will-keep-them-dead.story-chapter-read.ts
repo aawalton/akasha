@@ -4,6 +4,7 @@ export const heWhoFightsWithMonsters0075Chapter1007ThatWillKeepThemDead = {
   id: "01a06731-adf2-7001-87bc-6e4a925d6110",
   type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0075-chapter-1007-that-will-keep-them-dead",
+  ownProgress: 2622,
   title: "Chapter 1007: That Will Keep Them Dead",
   story: "story-read/he-who-fights-with-monsters",
   position: 75,

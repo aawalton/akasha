@@ -4,6 +4,7 @@ export const heWhoFightsWithMonsters0066Chapter999AnInterestingMessage = {
   id: "01a06731-ade9-7000-b822-f78e5050b05e",
   type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0066-chapter-999-an-interesting-message",
+  ownProgress: 2367,
   title: "Chapter 999: An Interesting Message",
   story: "story-read/he-who-fights-with-monsters",
   position: 66,

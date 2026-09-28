@@ -4,6 +4,7 @@ export const heWhoFightsWithMonsters0068Announcement = {
   id: "01a06731-adec-7000-b01d-6cf55808630d",
   type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0068-announcement",
+  ownProgress: 43,
   title: "Announcement",
   story: "story-read/he-who-fights-with-monsters",
   position: 68,

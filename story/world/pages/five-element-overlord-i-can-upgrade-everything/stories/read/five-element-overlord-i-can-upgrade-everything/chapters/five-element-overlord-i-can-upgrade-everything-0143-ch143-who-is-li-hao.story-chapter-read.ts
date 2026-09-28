@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0143Ch143WhoIsLiHao = {
   id: "01a0ac77-fa2b-78d5-b7fa-617833988d2d",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0143-ch143-who-is-li-hao",
+  ownProgress: 2781,
   position: 143,
   publishedAt: "2026-09-16",
   unit: "unit/words",
