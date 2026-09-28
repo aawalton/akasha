@@ -296,5 +296,17 @@ export const theDatingGameAlan = {
       fact: "Alan feels he looks at time from outside, from the side, all but the present moment.",
       knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
     },
+    {
+      fact: "Alan told Aelwyn his name.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-aelwyn"],
+    },
+    {
+      fact: "Aelwyn noticed Alan's laced shirt and asked if it was from a faire.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/the-dating-game-aelwyn",
+        "character-player/the-dating-game-alan",
+      ],
+    },
   ],
 } as const satisfies Lore

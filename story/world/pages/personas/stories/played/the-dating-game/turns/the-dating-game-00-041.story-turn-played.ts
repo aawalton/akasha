@@ -11,7 +11,7 @@ export const theDatingGame00041 = {
   position: 41,
   prose: "txt",
   characters: ["character-other/the-dating-game-aelwyn", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: "\"Hi there! I'm Alan, isn't this a great place to get some exercise and fresh air?\"",
   beats: [
     "He says, \"Hi there! I'm Alan. Isn't this a great place to get some exercise and fresh air?\"",
@@ -26,6 +26,6 @@ export const theDatingGame00041 = {
     'She starts folding the tripod. "I\'m doing my cooldown up the trail a ways before I head down."',
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture", "story-recorder/memory"],
   endsAt: "2026-09-27T10:12:00.000Z",
 } as const satisfies StoryTurnPlayed
