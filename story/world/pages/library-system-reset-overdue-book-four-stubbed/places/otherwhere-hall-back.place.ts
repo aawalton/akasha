@@ -169,10 +169,7 @@ export const otherwhereHallBack = {
       fact: "Nala's robe, belt, pouch and slippers lie by the honey jar at the edge of the gloom.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "Overnight Nala's salt crust wore patchy, the honey beneath showing through, her clothes set aside.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "Salt from burst sacks lies scattered short of the gloom.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
