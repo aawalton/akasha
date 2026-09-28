@@ -10,7 +10,7 @@ export const otherwhere00070 = {
   position: 70,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "**Okay, let the work, I'd like you to identify books we've found that I should read to prepare for the opening**",
   beats: [
@@ -27,5 +27,5 @@ export const otherwhere00070 = {
     "Links: so for now a patron who comes in hurt gets food and shelter, nothing more.",
   ],
   lore: ["place/otherwhere-main-hall"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
