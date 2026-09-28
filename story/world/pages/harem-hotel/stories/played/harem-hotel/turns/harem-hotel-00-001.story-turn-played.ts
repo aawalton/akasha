@@ -14,7 +14,7 @@ export const haremHotel00001 = {
     "character-other/harem-hotel-wren",
   ],
   unit: "unit/words",
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   beats: [
     "Alan wakes on his back on a velvet chaise longue, fully dressed, in the middle of a hotel lobby.",
     "He has no memory of arriving anywhere.",
@@ -45,7 +45,8 @@ export const haremHotel00001 = {
   issues: [
     '"Brick behind every window. The gate locked at the foot of the stairs." - Leave It Open',
     '"the woman standing behind it, hands folded beside the bell" - No Prompt',
+    '"she calls across the lobby" - she leans on the cart, which stands near him beside the sofa',
   ],
   lore: ["place/harem-hotel-floor-1", "lore/harem-hotel-odile", "lore/harem-hotel-wren"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
