@@ -7,7 +7,8 @@ export const otherwhereV00004 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-v"],
   position: 4,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I quietly make my way back to the hollow trunk and crawl inside, hoping the narrow passage and smell of decay will hide me from threats.",
+  lore: ["place/otherwhere-v-fern-hollow", "lore/otherwhere-v-gloamcat"],
 } as const satisfies StoryTurnPlayed
