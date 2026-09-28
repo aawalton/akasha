@@ -132,6 +132,54 @@ export const otherwhereViHollowStream = {
       fact: "Tonight two lean, silent wolves watch from the gully's lip; one vanished into a boulder's shadow.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
+    {
+      fact: "Below the fall the bank is cobble and gravel, with loose stones of every size at the water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Spring floods pile driftwood against the alders: dead limbs of alder and pine, some sound.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dead pine snaps brittle; green alder bends and will not break; old dry alder is light but sound.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Some ten minutes down, a drift pile holds a dry alder limb, wrist-thick and taller than her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The drift pile limb is wedged; working it free takes a few minutes' tugging, not great strength.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The wolf on the lip is a young male, level 4, 28 HP, bolder, and will trail her along the bank.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The wolf in the shadow is his sister, level 5, 32 HP, warier, able to step from shadow to shadow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The young wolves keep beyond a stone's throw, stop when she stops, and never cross open water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A raised stick or a thrown stone makes them give ground; a wolf struck snarls, circles, then goes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "They will not close on her unless she falls, bleeds freely, or corners one of them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The boar wallow lies half an hour downstream; the sow and four young root there now.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The young wolves fear the sow and will turn back from the wallow rather than pass near her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   exits: [
     {
