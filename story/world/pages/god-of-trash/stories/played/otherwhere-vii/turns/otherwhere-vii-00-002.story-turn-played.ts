@@ -34,10 +34,14 @@ export const otherwhereVii00002 = {
     'He says, "Robbed, are you? Or run off from somebody?"',
     "He waits, reins in hand, and does not get down.",
   ],
+  issues: [
+    '"hauls herself the last of the way out of the ditch" - she climbed out onto the road last turn',
+  ],
   lore: [
     "lore/otherwhere-vii-ennis",
     "place/otherwhere-vii-bramwick",
     "place/otherwhere-vii-ashford-road-ditch",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T06:16:00.000Z",
 } as const satisfies StoryTurnPlayed
