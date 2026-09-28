@@ -290,7 +290,10 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-troll.world-species.ts","id":"01a0ea37-83f9-76c3-b521-d72570058990"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-vampire.world-species.ts","id":"01a0ea37-3f81-7793-875d-6e03d957705e"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-wall-parasite.world-species.ts","id":"01a0ea38-0a09-752d-b960-7644be89ce22"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-brass-road.place.ts","id":"01a0ea3e-eaae-7ecc-8ef5-f219f00c4b8c"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-glassgrass-flats.place.ts","id":"01a0ea1f-36ba-7f08-b107-707abcfaf72c"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-kessen-zone.place.ts","id":"01a0ea3e-eaaf-7dd9-a169-944d1eb033d2"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-kessenhold.place.ts","id":"01a0ea3e-eab0-7390-ab20-480a1ce10fbe"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/stories/played/otherwhere-ix/mechanics/checks/otherwhere-ix-action-check.world-check.ts","id":"01a0ea36-2cb0-7d7d-856c-681c348fb745"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/stories/played/otherwhere-ix/mechanics/checks/otherwhere-ix-harm.world-check.ts","id":"01a0ea36-2cb1-7781-8ac1-17ee37959927"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/stories/played/otherwhere-ix/mechanics/checks/otherwhere-ix-needs.world-check.ts","id":"01a0ea2c-1598-78b9-a3de-f8b98acd35fa"}
