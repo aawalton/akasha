@@ -11,4 +11,5 @@ export const otherwhereIx00002 = {
   action:
     '"Hello?" I say confidently, then I stand up tall and put my arms on my hips to make me look bigger. "Can you understand me?"',
   lore: ["lore/otherwhere-ix-shardback", "place/otherwhere-ix-glassgrass-flats"],
+  endsAt: "2026-09-28T15:32:00.000Z",
 } as const satisfies StoryTurnPlayed
