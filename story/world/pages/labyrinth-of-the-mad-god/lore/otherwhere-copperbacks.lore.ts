@@ -75,6 +75,14 @@ export const otherwhereCopperbacks = {
       fact: "A copperback fed more than once by the same person begins to trail and beg from them.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Copperbacks hear a low, soft voice as calm, and a sharp or loud one as a threat.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A young copperback that takes food from someone snatches it and retreats a few paces to eat.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
