@@ -11,4 +11,5 @@ export const otherwhereIii00004 = {
   action:
     "“Yes, please.” I say quietly. “My stupid EX-boyfriend left me here with nothing and I’m a thousand miles from home. I mean, I don’t usually mind the cold, but this is a little much for bare feet.”",
   lore: ["lore/otherwhere-iii-denise-pruitt", "lore/otherwhere-iii-nala"],
+  endsAt: "2037-01-31T04:57:00.000Z",
 } as const satisfies StoryTurnPlayed
