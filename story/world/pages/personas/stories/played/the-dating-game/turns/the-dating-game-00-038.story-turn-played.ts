@@ -4,6 +4,7 @@ export const theDatingGame00038 = {
   id: "01a0e595-41ae-73c5-8732-c19e5aa98e86",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-038",
+  cover: "image/image-08ce8ed97c9476bf",
   ownLength: 64,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
@@ -24,5 +25,5 @@ export const theDatingGame00038 = {
     '"She touches his arm lightly in goodbye" - at level 1 touch goes no further than a greeting',
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
