@@ -4,6 +4,8 @@ export const image220a9fb16c93f05d = {
   id: "01a0e9f0-7206-72e4-be11-3751ccb0d408",
   type: "page-type/image",
   slug: "image-220a9fb16c93f05d",
+  title: "Asleep on the Striped Blanket Below the Cypresses",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
