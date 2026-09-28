@@ -27,6 +27,7 @@ export type Prompting = {
   readonly written: readonly string[]
   readonly described?: readonly string[]
   readonly noun?: "turn" | "chapter"
+  readonly master?: string | null
 }
 
 const PATH = "<path>"
@@ -60,6 +61,14 @@ function describedSaid(described: readonly string[] | undefined): readonly strin
   return described === undefined || described.length === 0 ? [] : ["", describedLine(described)]
 }
 
+export function stuckLine(master: string): string {
+  return `Where a draft or the advance is refused and you cannot mend it yourself, never end on it: send the game master the refusal word for word and what you were doing, with \`akasha seat send --to ${master} --body "<what refused and what you were doing>"\`, then end your turn. Its answer comes as your next message; do what it says, then advance.`
+}
+
+function stuckSaid(master: string | null | undefined): readonly string[] {
+  return master === null || master === undefined ? [] : ["", stuckLine(master)]
+}
+
 const DRAFTING = "akasha change apply --draft"
 
 function advancing(asked: Prompting): string {
@@ -81,6 +90,7 @@ export function reviewerPrompt(asked: Prompting, reviewer: Reviewer): string {
     `${advancing(asked)} ${reviewerArgument.said} ${reviewer.slug} ${issuesFile.said} ${PATH}`,
     "",
     `Where you found no issue, leave out \`${issuesFile.said}\`. The advance ends this seat, so make it last.`,
+    ...stuckSaid(asked.master),
   ].join("\n")
 }
 
@@ -97,5 +107,6 @@ export function recorderPrompt(asked: Prompting, recorder: Recorder): string {
     `${advancing(asked)} ${recorderArgument.said} ${recorder.slug}`,
     "",
     "The advance ends this seat, so make it last.",
+    ...stuckSaid(asked.master),
   ].join("\n")
 }

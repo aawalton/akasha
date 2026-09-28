@@ -51,6 +51,18 @@ export const gameMaster = {
     },
     {
       directiveKind: "directive-kind/rule",
+      name: "Unstick The Seat",
+      act: "Answer a reviewer or recorder that sends you a refusal it cannot mend, so its advance lands.",
+      warrant: "That seat waits on your answer, and the turn waits on that seat.",
+      aids: [
+        "Mend it yourself where you can, then tell the seat to advance.",
+        "Ask the world builder for a mechanic the seat met undefined.",
+        "Otherwise tell the seat to record nothing for that part and advance.",
+        "Answer with `akasha seat send --to <that seat>`.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
       name: "Advance When Done",
       act: "Advance the turn or chapter with `akasha story turn advance` once your step is done.",
       warrant:

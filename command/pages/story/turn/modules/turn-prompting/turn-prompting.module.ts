@@ -38,6 +38,11 @@ export const turnPrompting = {
         "A recorder's prompt names every page the game master already wrote the turn onto.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A prompt sends a refusal the seat cannot mend to the story's game master seat, never to a stop.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A prompt carries no directive, since the seat's role and persona hold those.",
     },

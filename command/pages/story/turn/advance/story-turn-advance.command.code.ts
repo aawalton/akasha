@@ -178,7 +178,8 @@ function recorderStarting(recorder: string, persona: string, at: Context): Start
   return { persona, role: storyRecorderRole.slug, game: at.game, flex, prompt }
 }
 
-function startingOf(start: Start, persona: string, at: Context): Starting | string {
+function startingOf(start: Start, persona: string, over: Context): Starting | string {
+  const at = { ...over, prompting: { ...over.prompting, master: over.story?.master ?? null } }
   if (start.kind === "recorder") return recorderStarting(start.recorder, persona, at)
   const found = at.reviewers.find((one) => one.slug === start.reviewer)
   if (found === undefined) return `\`${start.reviewer}\` is no story reviewer page`
