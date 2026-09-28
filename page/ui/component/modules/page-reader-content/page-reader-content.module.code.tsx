@@ -41,6 +41,8 @@ const FILE_AT = "/api/page-file"
 
 const FILE_PROPERTY = "file-property"
 
+const READER_COLUMN = "mx-auto w-full max-w-[68ch]! px-6"
+
 function useFileBody(href: string | null): string | null {
   const [held, setHeld] = useState<{ href: string; text: string } | null>(null)
   useEffect(() => {
@@ -186,6 +188,7 @@ export function PageReaderContent({
               title: expandDateMentions(title),
               titleHref: storyHref ?? null,
               showBack: true,
+              columnClassName: READER_COLUMN,
               menu: (
                 <ReaderHeaderMenu
                   pageTypeSlug={pageTypeSlug}
@@ -202,7 +205,7 @@ export function PageReaderContent({
         {page ? (
           <>
             {detailConfig?.showReadingProgress === true && <ReadingProgressBar />}
-            <PageLayout.Content className="max-w-[68ch]!">
+            <PageLayout.Content className={READER_COLUMN}>
               <div className="flex flex-col gap-8 py-6">
                 {(readerPrev != null || readerNext != null) && (
                   <ReaderPager prev={readerPrev ?? null} next={readerNext ?? null} position="top" />

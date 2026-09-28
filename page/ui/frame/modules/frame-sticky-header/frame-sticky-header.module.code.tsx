@@ -21,6 +21,7 @@ export interface FrameHeader {
   readonly title?: string
   readonly titleHref?: string | null
   readonly titleClassName?: string | null
+  readonly columnClassName?: string | null
   readonly showBack?: boolean
   readonly mobileOnly?: boolean
   readonly menu?: ReactNode
@@ -89,7 +90,12 @@ export function FrameStickyHeader({
       </div>
       {}
       {header.mobileOnly === true ? null : (
-        <div className="hidden h-12 items-center justify-between gap-2 px-4 min-[584px]:flex">
+        <div
+          className={cn(
+            "hidden h-12 items-center justify-between gap-2 px-4 min-[584px]:flex",
+            header.columnClassName
+          )}
+        >
           <h1
             className={cn(
               "min-w-0 font-display font-semibold text-lg text-primary",
