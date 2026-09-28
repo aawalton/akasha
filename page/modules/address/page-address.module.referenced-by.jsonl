@@ -124,6 +124,7 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"domain/context/warrant/domain-ancestors/domain-ancestors.context-warrant.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"domain/context/warrant/initiative-ancestors/initiative-ancestors.context-warrant.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"domain/plain-language/standard-agent-english/modules/grammar-reading/grammar-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"infrastructure/inference/generation/image/album/image-album.page-type.page-component.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"infrastructure/service/akasha-service/service-inference/modules/inference-reading/inference-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/run-composing/run-composing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts","typed":false,"deferred":false}
