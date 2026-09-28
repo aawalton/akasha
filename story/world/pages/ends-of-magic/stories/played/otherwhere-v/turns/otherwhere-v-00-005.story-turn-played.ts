@@ -7,6 +7,7 @@ export const otherwhereV00005 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-v"],
   position: 5,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action: "I break into a run, getting into the log as quickly as possible",
+  lore: ["lore/otherwhere-v-gloamcat"],
 } as const satisfies StoryTurnPlayed
