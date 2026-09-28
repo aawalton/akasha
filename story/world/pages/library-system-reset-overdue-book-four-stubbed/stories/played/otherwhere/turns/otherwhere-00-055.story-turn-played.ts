@@ -10,7 +10,7 @@ export const otherwhere00055 = {
   position: 55,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "**Three thousand is a lot. Is there any magic available to make this faster? Telekineses? Divination? …Bookmancy? Even a library assistant?**",
   beats: [
@@ -23,5 +23,5 @@ export const otherwhere00055 = {
     'Links: "At fifty power my golems wake, and there are shelving golems among them."',
   ],
   lore: ["lore/otherwhere-universe", "place/otherwhere-main-hall"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
