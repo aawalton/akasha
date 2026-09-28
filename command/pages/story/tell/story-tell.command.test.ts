@@ -88,7 +88,51 @@ test("a tell drafts the page as the landing's formatter lays it out", () => {
   const reading = { ...readingOf(bodies, []), shaped: (_path: string, _text: string) => "laid\n" }
   const asked = askedFor(tellOf("one"), reading)
   if (typeof asked === "string") throw new Error(asked)
-  expect(Reflect.get(asked[0]?.given ?? {}, "new")).toBe("laid\n")
+  const given = asked[0]?.given ?? {}
+  const old = String(Reflect.get(given, "old"))
+  expect(BODY.replace(old, () => String(Reflect.get(given, "new")))).toBe("laid\n")
+})
+
+const LISTED = [
+  'import type { Lore } from "akasha/story/lore/lore.page-type.types.ts"',
+  "",
+  "export const grove = {",
+  '  slug: "grove",',
+  '  world: "world/held",',
+  "  facts: [",
+  `    { fact: "one", knowers: ["${GAME_MASTER}"] },`,
+  `    { fact: "two", knowers: ["${GAME_MASTER}"] },`,
+  "  ],",
+  "} as const satisfies Lore",
+  "",
+].join("\n")
+
+function laidOut(_path: string, text: string): string {
+  return text.replace(/facts: \[(.*)\],/, (_all, inner: string) => {
+    const records = inner.split(/(?<=\}), /).map((one) => `    ${one},\n`)
+    return `facts: [\n${records.join("")}  ],`
+  })
+}
+
+test("a new fact's edit replaces only the lines it changes, so a later change elsewhere leaves it fitting", () => {
+  const facts = [
+    { fact: "one", knowers: [GAME_MASTER] },
+    { fact: "two", knowers: [GAME_MASTER] },
+  ]
+  const reading = { ...readingOf(new Map([[AT, LISTED]]), facts), shaped: laidOut }
+  const asked = askedFor(tellOf("three", [], true), reading)
+  if (typeof asked === "string") throw new Error(asked)
+  const given = asked[0]?.given ?? {}
+  const old = String(Reflect.get(given, "old"))
+  expect(old).not.toContain("two")
+  const changed = LISTED.replace('"two"', '"two, since changed"').replace(
+    "  facts: [\n",
+    `  facts: [\n    { fact: "zero", knowers: ["${GAME_MASTER}"] },\n`
+  )
+  const landed = changed.replace(old, () => String(Reflect.get(given, "new")))
+  expect(landed).toContain('"two, since changed"')
+  expect(landed).toContain('"zero"')
+  expect(landed.indexOf('"three"')).toBeGreaterThan(landed.indexOf('"two, since changed"'))
 })
 
 function tellOf(fact: string, knowers: readonly string[] = [HER], adds = false): Taken {
@@ -127,7 +171,7 @@ test("a tell reads the page and its secrets through the reading it is given", ()
   expect(typeof asked).not.toBe("string")
   const said = JSON.stringify(asked)
   expect(said).toContain(`fact: \\"two\\", knowers: [\\"${GAME_MASTER}\\", \\"${HER}\\"]`)
-  expect(said).toContain('\\"one\\"\\n')
+  expect(said).toContain('"old":"\\"two\\"\\n","new":""')
 })
 
 test("a second tell over a reading holding the first keeps both facts told", () => {

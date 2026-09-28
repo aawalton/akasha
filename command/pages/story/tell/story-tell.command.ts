@@ -76,6 +76,16 @@ export const storyTell = {
       statement:
         "A telling writes the page as the formatter lays it out, so a later draft finds it so.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A telling's edit replaces only the lines the telling changes, never the whole page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A drafted telling still fits its page after another change lands elsewhere on that page.",
+    },
   ],
   name: "tell",
   arguments: [

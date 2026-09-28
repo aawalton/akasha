@@ -4,7 +4,11 @@ import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mecha
 import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
 import { changeFileContent } from "akasha/change/mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.ts"
 import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
-import type { Splice } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import {
+  type Splice,
+  spliced as splicedEdits,
+  splicedTo,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { editsAt } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
   without,
@@ -289,8 +293,10 @@ export const REPLACE = `${changeMechanicalFileContent.slug}/${changeFileContent.
 
 export const REMOVE_FILE = `${changeMechanicalFile.slug}/${removeFile.slug}` as const
 
-function replacing(at: string, was: string, now: string): Asking {
-  return { at: REPLACE, given: { at, old: was, new: now } }
+export function replacing(at: string, was: string, now: string): Asking {
+  const one = splicedEdits(at, was, splicedTo(was, now))[0]
+  if (one?.kind !== "replace") return { at: REPLACE, given: { at, old: was, new: now } }
+  return { at: REPLACE, given: { at, old: one.contentFrom, new: one.contentTo } }
 }
 
 function toldLines(held: Taken): readonly string[] {
