@@ -13,7 +13,7 @@ export const otherwhereIii00006 = {
     "character-player/otherwhere-iii-nala",
     "character-other/otherwhere-iii-denise-pruitt",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: '"Definitely. Thank you."',
   beats: [
     'Nala says, "Definitely. Thank you," and steps off after Denise; the doors chime shut behind them.',
@@ -31,6 +31,6 @@ export const otherwhereIii00006 = {
     "\"First, what's your name, hon? Birth date, and an address if you've got one.\"",
   ],
   lore: ["place/otherwhere-iii-lawrence-stop", "place/otherwhere-iii-uptown-memorial-er"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2037-01-31T05:07:00.000Z",
 } as const satisfies StoryTurnPlayed
