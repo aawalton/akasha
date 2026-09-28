@@ -31,5 +31,6 @@ export const otherwhereIii00008 = {
     "A man sleeps across three chairs; somewhere down the row, someone coughs.",
   ],
   lore: ["place/otherwhere-iii-uptown-memorial-er"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2037-01-31T05:14:00.000Z",
 } as const satisfies StoryTurnPlayed
