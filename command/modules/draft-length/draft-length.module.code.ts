@@ -10,6 +10,7 @@ import {
 } from "akasha/check/code/pages/file-length/file-length.check-code.decision.code.ts"
 import { unparsedAfter } from "akasha/command/modules/draft-parsing/draft-parsing.module.code.ts"
 import {
+  type Judge,
   judgeOver,
   mistypedAfter,
 } from "akasha/command/modules/draft-typing/draft-typing.module.code.ts"
@@ -41,6 +42,27 @@ export function overLongAfter(
   return found
 }
 
+export type Judges = { readonly letOff: LetOff; readonly judge: Judge }
+
+export function judgesOver(root: string, index: Answering): Judges {
+  const paged = { index, pageOf: () => null }
+  return { letOff: (path) => exemptIn(path, paged), judge: judgeOver(root, index) }
+}
+
+export function bodyFaults(
+  bodyOf: BodyOf,
+  rows: readonly FileChange[],
+  asked: readonly FileChange[],
+  judges: Judges
+): readonly string[] {
+  const unparsed = unparsedAfter(bodyOf, rows, asked)
+  return [
+    ...unparsed,
+    ...overLongAfter(bodyOf, rows, asked, judges.letOff),
+    ...(unparsed.length > 0 ? [] : mistypedAfter(bodyOf, rows, asked, judges.judge)),
+  ]
+}
+
 export function draftFaults(
   root: string,
   bodyOf: BodyOf,
@@ -49,12 +71,8 @@ export function draftFaults(
   asked: readonly FileChange[],
   page: string
 ): readonly string[] {
-  const paged = { index, pageOf: () => null }
-  const unparsed = unparsedAfter(bodyOf, rows, asked)
   return [
-    ...unparsed,
-    ...overLongAfter(bodyOf, rows, asked, (path) => exemptIn(path, paged)),
-    ...(unparsed.length > 0 ? [] : mistypedAfter(bodyOf, rows, asked, judgeOver(root, index))),
+    ...bodyFaults(bodyOf, rows, asked, judgesOver(root, index)),
     ...definingRefused(index, bodyOf, page, asked),
   ]
 }

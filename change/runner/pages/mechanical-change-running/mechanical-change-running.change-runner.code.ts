@@ -25,6 +25,10 @@ import {
   type Running,
   runningOf,
 } from "akasha/command/modules/change-kind-running/change-kind-running.module.code.ts"
+import {
+  bodyFaults,
+  judgesOver,
+} from "akasha/command/modules/draft-length/draft-length.module.code.ts"
 import { landingFrom } from "akasha/command/modules/edits-landing/edits-landing.module.code.ts"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import {
@@ -107,10 +111,15 @@ export async function runMechanicalChange(
 ): Promise<Applied | Refused> {
   if (asked.length === 0) return { refusals: [NOTHING_ASKED], code: INPUT }
   const kept = writing.kept ?? []
-  const said = await phased("compose", () =>
-    keptFolded(ledgerAt(root, bodyIn(root), runAt), kept, asked)
-  )
+  const bodyOf = bodyIn(root)
+  const world = ledgerAt(root, bodyOf, runAt)
+  const said = await phased("compose", () => keptFolded(world, kept, asked))
   if (said.refused !== null) return { refusals: [said.refused], code: DATA }
+  const faults =
+    kept.length === 0
+      ? bodyFaults(bodyOf, said.edits, said.edits, judgesOver(root, world.index))
+      : []
+  if (faults.length > 0) return { refusals: [...faults], code: DATA }
   if (said.edits.length === 0) {
     return {
       base: baseOf(root),

@@ -75,7 +75,15 @@ export const mechanicalChangeRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A mechanical change runs no check.",
+      statement: "A mechanical change runs none of the checks an apply runs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A mechanical change is refused where a body it leaves would refuse a draft.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No landing admits a body that a later landing refuses for its page type.",
     },
     {
       decisionKind: "decision-kind/departure",

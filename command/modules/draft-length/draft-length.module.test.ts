@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import { overLongAfter } from "akasha/command/modules/draft-length/draft-length.module.code.ts"
+import {
+  bodyFaults,
+  type Judges,
+  overLongAfter,
+} from "akasha/command/modules/draft-length/draft-length.module.code.ts"
 
 const AT = "lore/hall.lore.ts"
 
@@ -50,4 +54,41 @@ test("a path the landing's check lets off is not measured", () => {
 test("a body the new edits do not touch is not measured", () => {
   const other: FileChange = { kind: "add", path: "lore/other.lore.ts", content: "export {}\n" }
   expect(overLongAfter(bodyOf, [HUGE, other], [other], none)).toEqual([])
+})
+
+const MARK = "unfit"
+
+const JUDGES: Judges = {
+  letOff: none,
+  judge: (paths, read) =>
+    paths
+      .filter((path) => read(path)?.includes(MARK) === true)
+      .map((path) => ({ path, reason: "the mark is unfit" })),
+}
+
+test("a body that fits its type and its ceiling has no fault", () => {
+  expect(bodyFaults(bodyOf, [SMALL], [SMALL], JUDGES)).toEqual([])
+})
+
+test("a body its type refuses is named with the reason its type gives", () => {
+  const unfit: FileChange = {
+    kind: "replace",
+    path: AT,
+    contentFrom: "[]",
+    contentTo: `["${MARK}"]`,
+  }
+  const said = bodyFaults(bodyOf, [unfit], [unfit], JUDGES)
+  expect(said).toEqual([`\`${AT}\` would not match its page type — the mark is unfit`])
+})
+
+test("a body that will not parse is named, and its type is not judged", () => {
+  const broken: FileChange = {
+    kind: "replace",
+    path: AT,
+    contentFrom: "[]",
+    contentTo: `["${MARK}"`,
+  }
+  const said = bodyFaults(bodyOf, [broken], [broken], JUDGES)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("would no longer parse")
 })

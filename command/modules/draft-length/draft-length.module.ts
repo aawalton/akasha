@@ -39,5 +39,9 @@ export const draftLength = {
       decisionKind: "decision-kind/departure",
       statement: "A drafting run asks here whether each page it changes still matches its type.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A mechanical landing asks here for every fault of its bodies but no role's.",
+    },
   ],
 } as const satisfies Module
