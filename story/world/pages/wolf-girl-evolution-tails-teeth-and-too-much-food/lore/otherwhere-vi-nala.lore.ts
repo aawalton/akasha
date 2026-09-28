@@ -97,7 +97,19 @@ export const otherwhereViNala = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
-      fact: "Nala carries an alder staff a head taller than her and a fist-sized river stone.",
+      fact: "Nala carries an alder staff a head taller than her; her river stone was lost in her fall.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "Her fall on the west slope wrenched her left hip; she limps, and it will stiffen by morning.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "The wrenched hip makes running, climbing and kicking one band harder for a week.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The fall also left a bruised elbow and a long, shallow scrape down her right shin.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
