@@ -24,5 +24,10 @@ export const turnMaking = {
       decisionKind: "decision-kind/departure",
       statement: "A turn copies the story and the unit the latest turn states.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A story left with no open turn makes its next turn after its last chapter's last turn.",
+    },
   ],
 } as const satisfies Module
