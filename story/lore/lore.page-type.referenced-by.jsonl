@@ -705,6 +705,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-imp.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-imre-dask.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-integration.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-inventory.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-king-magul.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-kraken-meat.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-kraken.lore.ts","typed":true,"deferred":false}
@@ -750,6 +751,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-paths.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-portal-amulet.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-prince-salthor.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-quests.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-randall.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-rarity.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-rasko.lore.ts","typed":true,"deferred":false}
