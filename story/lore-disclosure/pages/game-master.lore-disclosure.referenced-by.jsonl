@@ -979,6 +979,7 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-elasar-auction-chamber.place.ts","id":"01a0ea41-5400-7eef-8121-1182eb2de236"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-entrerea.place.ts","id":"01a0ea3f-4543-7e97-adb1-06fe2179e118"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-fanata.place.ts","id":"01a0ea3f-4543-7fbf-a527-f9b6e5f09187"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-gilded-harbour-city.place.ts","id":"01a0ea42-fcbf-7f7c-8eb6-1539e97d9d53"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-glassgrass-flats.place.ts","id":"01a0ea1f-36ba-7f08-b107-707abcfaf72c"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-grand-library.place.ts","id":"01a0ea41-cb07-74c2-b840-e7178782f7e1"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-kessen-zone.place.ts","id":"01a0ea3e-eaaf-7dd9-a169-944d1eb033d2"}
@@ -987,9 +988,13 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-malar-zone.place.ts","id":"01a0ea3f-4544-7613-b677-d716f89bd32c"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-malari.place.ts","id":"01a0ea3f-b660-70e3-ba53-30d4a868a301"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-materia.place.ts","id":"01a0ea3f-4544-748a-94a0-eb834af0e3f0"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-maxen-brothel.place.ts","id":"01a0ea42-fcc0-7194-8ee5-829043d4d8c8"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-randall-palace.place.ts","id":"01a0ea42-fcc1-7069-a926-499b325129de"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-serena-garden.place.ts","id":"01a0ea42-fcc1-7617-957d-9a9b1facfacb"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-stillstones.place.ts","id":"01a0ea42-0b6b-7f10-b5c3-e4670fa20c00"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-summoning-chamber.place.ts","id":"01a0ea42-4006-74e9-9e10-794fe16f507e"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-sun-city-arena.place.ts","id":"01a0ea40-bece-72ec-8d4b-9be50375a327"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-sun-city-rooftop.place.ts","id":"01a0ea42-fcc1-7b9c-b8f2-ba9cb9c65fb1"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-sun-city.place.ts","id":"01a0ea40-becf-73ad-b70a-d55068ef870a"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-tinleaf-seep.place.ts","id":"01a0ea42-0b6d-737a-8fed-55c3ada0a8d9"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-tollmere.place.ts","id":"01a0ea40-2b20-7399-b3df-072507c3b057"}
