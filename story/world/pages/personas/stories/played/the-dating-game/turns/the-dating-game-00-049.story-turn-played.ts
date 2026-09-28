@@ -21,4 +21,5 @@ export const theDatingGame00049 = {
     '"I\'m editing you in tonight. You look very heroic in that shirt. The comments are gonna love you."',
   ],
   lore: ["lore/the-dating-game-aelwyn", "place/the-dating-game-provo-river-trail"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
