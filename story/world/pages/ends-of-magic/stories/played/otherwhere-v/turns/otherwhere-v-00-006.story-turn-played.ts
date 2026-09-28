@@ -27,5 +27,6 @@ export const otherwhereV00006 = {
     "Nala dies there in the ferns above the hollow, on her first night in Davrar.",
   ],
   lore: ["lore/otherwhere-v-gloamcat", "lore/otherwhere-v-injury"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T19:10:00.000Z",
 } as const satisfies StoryTurnPlayed
