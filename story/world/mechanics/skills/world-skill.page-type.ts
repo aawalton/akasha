@@ -7,8 +7,17 @@ export const worldSkill = {
   definition: "an ability a character works from the magic within them",
   pluralSlug: "skills",
   extends: ["page-type/world-mechanic"],
-  parts: ["page-type/tower-skill", "page-type/otherwhere-skill"],
+  parts: [
+    "page-type/tower-skill",
+    "page-type/otherwhere-skill",
+    "number-property/skill-mana-cost",
+    "number-property/skill-duration-minutes",
+  ],
   runsTabooCheck: false,
   types: "ts",
   schema: "jsonl",
+  properties: [
+    { pageProperty: "number-property/skill-mana-cost", required: false, many: false },
+    { pageProperty: "number-property/skill-duration-minutes", required: false, many: false },
+  ],
 } as const satisfies PageType

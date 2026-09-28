@@ -303,6 +303,8 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/mechanics/properties/reference-level.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/mechanics/ranks/properties/world-rank-place.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/mechanics/relationships/properties/relationship-points.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/mechanics/skills/properties/skill-duration-minutes.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/mechanics/skills/properties/skill-mana-cost.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/named-events/properties/event-first-chapter.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/named-events/properties/event-last-chapter.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/named-events/properties/evidence-beat.number-property.ts","typed":true,"deferred":false}
