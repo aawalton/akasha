@@ -2,7 +2,7 @@ import { gradeProperty } from "akasha/page/grade-property/grade-property.page-ty
 
 export type Grade = (typeof gradeProperty.values)[number]
 
-export type GradeKey = { readonly digit: string; readonly grade: Grade }
+type GradeKey = { readonly digit: string; readonly grade: Grade }
 
 export const GRADE_KEYS: readonly GradeKey[] = [
   { digit: "7", grade: "S-" },
@@ -31,7 +31,7 @@ export function gradeColor(grade: Grade): string | null {
 
 export type Queued = { readonly id: string; readonly slug: string }
 
-export type Done = { readonly one: Queued; readonly grade: Grade }
+type Done = { readonly one: Queued; readonly grade: Grade }
 
 export type Review = {
   readonly base: number
@@ -41,13 +41,13 @@ export type Review = {
   readonly done: readonly Done[]
 }
 
-export type Place = "first" | "last" | "kept"
+type Place = "first" | "last" | "kept"
 
 export type Asking = { readonly base: number; readonly limit: number; readonly place: Place }
 
 export type Stepped = { readonly review: Review; readonly asking: Asking | null }
 
-export type Answer = {
+type Answer = {
   readonly base: number
   readonly rows: readonly Queued[]
   readonly total: number
