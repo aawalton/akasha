@@ -28,4 +28,5 @@ export const theDatingGame00029 = {
     '"[Grace, Closeness Level 1: ...]" - her closeness level is hidden, never shown in a window',
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
