@@ -187,6 +187,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "A crawl runs hero sightings and a reminder that all Avowed must register with the government.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Weather: snow tapering by noon, a high of nineteen, colder tonight, more snow Monday.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
