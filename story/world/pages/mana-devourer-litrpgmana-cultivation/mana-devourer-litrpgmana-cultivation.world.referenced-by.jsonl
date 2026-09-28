@@ -11,6 +11,7 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-elasar.world-character.ts","id":"01a0ea37-9de2-7eed-bf07-9555cceec18c"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-ember.world-character.ts","id":"01a0ea3a-98a7-77ba-95ff-92d17de0767f"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-farros.world-character.ts","id":"01a0ea35-dfa6-7c6c-9b38-e713ffe8ee3b"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-halvard.world-character.ts","id":"01a0ea3e-2065-7f79-9b0a-98c6afa23848"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-ignoa.world-character.ts","id":"01a0ea36-42da-7cc9-a510-d2513b8dfad5"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-lexi.world-character.ts","id":"01a0ea38-4872-7f0e-87be-1ba0f282d053"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-maesha.world-character.ts","id":"01a0ea34-5d6e-7dfb-bda2-072bc3644592"}
@@ -84,6 +85,7 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-grades.lore.ts","id":"01a0ea37-28a7-7763-8487-d3faa92b01df"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-grassrunner.lore.ts","id":"01a0ea3d-5213-77bf-b01d-0748b541d479"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-growth.lore.ts","id":"01a0ea3b-0bcd-7e29-8a61-875a1c56a20b"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-halvard.lore.ts","id":"01a0ea3e-2066-7ea7-b94e-460d17c7a37a"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-hellborn.lore.ts","id":"01a0ea36-4dd2-7419-87df-e83c53ef3b69"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-hellhound.lore.ts","id":"01a0ea35-7f0b-7d7b-8bb7-82e8aa414ba9"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-hollowmane.lore.ts","id":"01a0ea3d-5213-7dd4-87ab-412508889ee8"}
@@ -120,6 +122,7 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-octopod.lore.ts","id":"01a0ea37-3f7f-7855-8f41-dfdd60181684"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-ogre.lore.ts","id":"01a0ea36-4160-7e5f-9c3a-32b5796707a3"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-orc.lore.ts","id":"01a0ea36-ce8c-7d30-b0f2-07575a89c875"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-orrow-trading-house.lore.ts","id":"01a0ea3e-2066-7132-bc0d-4fd33700b5d4"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-otherworlders.lore.ts","id":"01a0ea36-661f-72d3-8e68-6808e725debc"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-overcharge.lore.ts","id":"01a0ea37-28a8-7bd8-b8ed-7877f15df43b"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-overgrown-rat.lore.ts","id":"01a0ea39-fd42-734b-9279-4690c9208dd4"}
@@ -223,6 +226,7 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/organizations/otherwhere-ix-firrelian-pantheon.world-organization.ts","id":"01a0ea3d-2b4b-79f0-a762-3b0bda7aa44d"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/organizations/otherwhere-ix-magul-empire.world-organization.ts","id":"01a0ea3d-e450-7190-9918-17848a1f2af6"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/organizations/otherwhere-ix-malari-lords.world-organization.ts","id":"01a0ea3d-e450-7254-b08a-f49ce58f1a7b"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/organizations/otherwhere-ix-orrow-trading-house.world-organization.ts","id":"01a0ea3e-2067-775b-a394-4213a586ec74"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/organizations/otherwhere-ix-pantheon-of-eleva.world-organization.ts","id":"01a0ea3d-2b4c-7d0f-9e5d-227e223d071e"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-abominable-bulleater.world-species.ts","id":"01a0ea34-d32c-7912-bef5-085536f61816"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-altok.world-species.ts","id":"01a0ea37-83f9-7bb8-8bec-c0a5c9f4dceb"}
