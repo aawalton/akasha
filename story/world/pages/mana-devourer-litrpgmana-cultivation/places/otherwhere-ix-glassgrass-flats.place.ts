@@ -71,5 +71,66 @@ export const otherwhereIxGlassgrassFlats = {
       fact: "The circling beast's snout followed Nala's bleeding hand; it went still when she faced it.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
+    {
+      fact: "The Glassgrass Flats fill the west of the Kessen Zone, from the yellow barrier to Tollmere.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Flats run some sixty miles north to south and forty east to west.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Flats have no streams; water is at tinleaf seeps, the Stillstones spring and Tollmere's well.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Away from tinleaf, a walker on the Flats finds no water at all.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Glass storms blow up in high wind, shattering dead glassgrass into flying shards.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A glass storm cuts bare skin to ribbons; Flats folk lie flat under hides until it passes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Glass storms are worst in the hours before rain; low-flying kites warn of one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Rain is rare on the Flats in this season, a few storms a month.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Flats nights fall near freezing; a body with no fire or cover shivers through them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dry glassgrass stems and tinleaf wood burn; tinleaf burns hot and slow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "By day the Flats hold shardbacks, grassrunners, glasswing kites and rattle adders.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At dusk and by night hollowmane packs hunt the Flats.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A bengai hunting band, the Ashfur, roams the Flats and camps at the Stillstones.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Catchers ride the Flats' eastern and southern edges looking for the unclaimed.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "From Tollmere's side the Brass Road skirts the Flats' south edge west to the barrier gate.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
+  secrets: "jsonl",
 } as const satisfies Place
