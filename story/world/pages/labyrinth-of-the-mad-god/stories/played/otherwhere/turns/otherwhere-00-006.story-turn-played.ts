@@ -27,5 +27,7 @@ export const otherwhere00006 = {
     "The branches it went through sway, then go still.",
     "The forest's noise closes over the place where it was.",
   ],
+  issues: ['"The forest\'s noise closes over the place where it was." - Leave It Open'],
   lore: ["lore/otherwhere-copperbacks"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
