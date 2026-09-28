@@ -10,6 +10,7 @@ export const otherwhereKitchen = {
     {
       to: "place/otherwhere-main-hall",
       way: "Back along the short corridor and through the arched door into the main hall.",
+      direction: "east",
     },
     { way: "Through the wide door onto the staff dining hall." },
     { way: "Through the pantry's low door at the far end, beside the great oven." },

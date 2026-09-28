@@ -16,13 +16,16 @@ export const otherwhereMainHall = {
     {
       to: "place/otherwhere-quarters",
       way: "Through the short passage behind the Check-in Counter.",
+      direction: "north",
     },
     {
       to: "place/otherwhere-kitchen",
       way: "Through the arched door on the hall's right side, and down a short corridor.",
+      direction: "west",
     },
     {
       way: "Through the plain wooden door off the hall's left side, partway back along the columns, into the break room.",
+      direction: "east",
     },
   ],
   facts: [

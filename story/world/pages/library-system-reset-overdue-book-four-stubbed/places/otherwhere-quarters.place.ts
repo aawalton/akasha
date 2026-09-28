@@ -10,6 +10,7 @@ export const otherwhereQuarters = {
     {
       to: "place/otherwhere-main-hall",
       way: "Along the short passage to the hall, behind the Check-in Counter.",
+      direction: "south",
     },
   ],
   facts: [
