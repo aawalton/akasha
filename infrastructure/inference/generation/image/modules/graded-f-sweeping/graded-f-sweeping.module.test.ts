@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
 import {
+  asksRemoval,
   decideImage,
   GRACE_MS,
   type GradedF,
   gradedAtIn,
   namersIn,
   removalFor,
-  sweepGradedF,
 } from "akasha/infrastructure/inference/generation/image/modules/graded-f-sweeping/graded-f-sweeping.module.code.ts"
 
 const NOW = Date.parse("2026-09-26T12:00:00Z")
@@ -69,6 +69,8 @@ test("The removal states the commit the checkout was at before its images were r
   expect(asked.message).toContain("image-0123456789abcdef")
 })
 
-test("Nothing is deleted unless the sweep is asked to.", async () => {
-  expect(await sweepGradedF([])).toBe(0)
+test("Nothing is deleted unless the sweep is asked to.", () => {
+  expect(asksRemoval([])).toBe(false)
+  expect(asksRemoval(["--dry"])).toBe(false)
+  expect(asksRemoval(["--remove"])).toBe(true)
 })

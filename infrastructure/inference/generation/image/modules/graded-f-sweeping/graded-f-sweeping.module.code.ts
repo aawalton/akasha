@@ -116,6 +116,10 @@ export function removalFor(relPaths: readonly string[], read: string): Writing {
   }
 }
 
+export function asksRemoval(argv: readonly string[]): boolean {
+  return argv.includes(REMOVE)
+}
+
 function heldSaid(one: GradedF, decided: Decided): string | null {
   if (decided === "named")
     return `${one.slug} stays graded F, since ${one.namedBy.join(", ")} names it`
@@ -145,7 +149,7 @@ export async function sweepGradedF(
     process.stdout.write(`${one.slug}\t${new Date(one.gradedAtMs ?? nowMs).toISOString()}\n`)
   }
 
-  if (!argv.includes(REMOVE)) {
+  if (!asksRemoval(argv)) {
     process.stderr.write(
       `read ${every.length} image(s) graded F, ${doomed.length} graded fifteen minutes ago or more` +
         ` and named by no page — nothing deleted without ${REMOVE}\n`
