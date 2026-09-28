@@ -10,4 +10,5 @@ export const otherwhere00010 = {
   stepStatus: "step-status/game-master",
   action: "I charge it again, trying to get an arm around its neck and the shard in its eye",
   lore: ["lore/otherwhere-mire-monitors", "lore/otherwhere-death"],
+  endsAt: "2026-09-28T15:10:00.000Z",
 } as const satisfies StoryTurnPlayed
