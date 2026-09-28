@@ -4,6 +4,7 @@ export const otherwhere00005 = {
   id: "01a0e9cb-c436-7e7d-996a-313ced3b05a5",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-005",
+  cover: "image/image-3ff14aaaf64b84eb",
   ownLength: 431,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
@@ -36,6 +37,6 @@ export const otherwhere00005 = {
   ],
   lore: ["lore/otherwhere-cinder-isle-plants", "lore/otherwhere-copperbacks"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T13:37:00.000Z",
 } as const satisfies StoryTurnPlayed
