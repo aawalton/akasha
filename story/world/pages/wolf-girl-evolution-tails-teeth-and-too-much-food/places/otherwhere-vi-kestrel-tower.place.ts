@@ -29,4 +29,5 @@ export const otherwhereViKestrelTower = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  secrets: "jsonl",
 } as const satisfies Place
