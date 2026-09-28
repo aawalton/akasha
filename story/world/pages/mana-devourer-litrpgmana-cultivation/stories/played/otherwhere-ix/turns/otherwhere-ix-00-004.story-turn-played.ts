@@ -36,5 +36,6 @@ export const otherwhereIx00004 = {
     "The words hang there, calm and patient, over the beast still twisting at her leg.",
   ],
   lore: ["lore/otherwhere-ix-shardback", "lore/otherwhere-ix-nala"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T15:35:00.000Z",
 } as const satisfies StoryTurnPlayed
