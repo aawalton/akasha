@@ -4,6 +4,7 @@ export const justAddMana0139136Book3Chapter35Reconstitution = {
   id: "01a06731-ae46-7001-86a6-06ad58843915",
   type: "page-type/story-chapter-read",
   slug: "just-add-mana-0139-136-book-3-chapter-35-reconstitution",
+  ownProgress: 2965,
   title: "136 — Book 3, Chapter 35 — Reconstitution",
   story: "story-read/just-add-mana",
   position: 139,

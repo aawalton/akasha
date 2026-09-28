@@ -4,6 +4,7 @@ export const justAddMana0125122Book3Chapter21BitterFocusPt1 = {
   id: "01a06731-ae2e-7000-8003-87901ae17857",
   type: "page-type/story-chapter-read",
   slug: "just-add-mana-0125-122-book-3-chapter-21-bitter-focus-pt-1",
+  ownProgress: 2986,
   title: "122 — Book 3, Chapter 21 — Bitter Focus, Pt 1",
   story: "story-read/just-add-mana",
   position: 125,

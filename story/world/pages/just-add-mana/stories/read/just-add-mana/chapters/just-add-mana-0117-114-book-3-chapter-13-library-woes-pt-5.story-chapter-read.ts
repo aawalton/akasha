@@ -4,6 +4,7 @@ export const justAddMana0117114Book3Chapter13LibraryWoesPt5 = {
   id: "01a06731-ae24-7000-b9f4-bf10b68ca55e",
   type: "page-type/story-chapter-read",
   slug: "just-add-mana-0117-114-book-3-chapter-13-library-woes-pt-5",
+  ownProgress: 3051,
   title: "114 — Book 3, Chapter 13— Library Woes, Pt 5",
   story: "story-read/just-add-mana",
   position: 117,

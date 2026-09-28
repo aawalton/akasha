@@ -4,6 +4,7 @@ export const justAddMana0111108Book3Chapter7DivineStudiesPt4 = {
   id: "01a06731-ae1d-7000-bfbe-2ac8606cf4a8",
   type: "page-type/story-chapter-read",
   slug: "just-add-mana-0111-108-book-3-chapter-7-divine-studies-pt-4",
+  ownProgress: 3654,
   title: "108 — Book 3, Chapter 7 — Divine Studies, Pt 4",
   story: "story-read/just-add-mana",
   position: 111,

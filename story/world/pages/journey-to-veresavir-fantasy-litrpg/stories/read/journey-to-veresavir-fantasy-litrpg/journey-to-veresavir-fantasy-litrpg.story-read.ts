@@ -14,6 +14,7 @@ export const journeyToVeresavirFantasyLitrpg = {
     },
   ],
   author: "Rhaegar",
+  following: true,
   publicationStatus: "ongoing",
   externalTags: [
     "LitRPG",

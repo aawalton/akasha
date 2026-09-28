@@ -4,6 +4,7 @@ export const justAddMana0136133Book3Chapter32NewClassesPt2 = {
   id: "01a06731-ae43-7000-8afe-c84dbdfea4e4",
   type: "page-type/story-chapter-read",
   slug: "just-add-mana-0136-133-book-3-chapter-32-new-classes-pt-2",
+  ownProgress: 3255,
   title: "133 — Book 3, Chapter 32 — New Classes, Pt 2",
   story: "story-read/just-add-mana",
   position: 136,

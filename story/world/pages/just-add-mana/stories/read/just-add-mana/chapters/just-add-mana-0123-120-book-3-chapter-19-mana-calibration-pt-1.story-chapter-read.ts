@@ -4,6 +4,7 @@ export const justAddMana0123120Book3Chapter19ManaCalibrationPt1 = {
   id: "01a06731-ae2b-7000-bdc8-59a011c1cb39",
   type: "page-type/story-chapter-read",
   slug: "just-add-mana-0123-120-book-3-chapter-19-mana-calibration-pt-1",
+  ownProgress: 3316,
   title: "120 — Book 3, Chapter 19 — Mana Calibration, Pt 1",
   story: "story-read/just-add-mana",
   position: 123,
