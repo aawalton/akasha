@@ -60,5 +60,9 @@ export const otherwhereViiiWeirGardens = {
       fact: "At dawn a man in heavy boots walks the paths, telling sleepers to get up and move on.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
+    {
+      fact: "Cars on the street past the railings are low and rounded, and run silent but for a soft hum.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
   ],
 } as const satisfies Place
