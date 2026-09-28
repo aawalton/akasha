@@ -18,6 +18,15 @@ export const otherwhereVSerrinford = {
       way: "Out the River Gate and down the landing to the ford, the boats and the river road.",
       direction: "south",
     },
+    {
+      to: "place/otherwhere-v-hillboar-oaks",
+      way: "Out the River Gate, over the ford's gravel line, then a mile of meadow to the oaks; forty minutes.",
+      direction: "south",
+    },
+    {
+      to: "place/otherwhere-v-serrinford-green",
+      way: "Along the lanes inside the palisade to the green at the village's heart.",
+    },
   ],
   facts: [
     {
