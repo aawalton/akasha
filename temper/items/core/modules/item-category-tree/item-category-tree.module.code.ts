@@ -53,16 +53,3 @@ export function heldItemCategories(): ItemCategories | null {
 export function heldCategoryTitle(id: string): string {
   return held === null ? id : categoryTitleOf(held, id)
 }
-
-function itemCategories(): ItemCategories {
-  if (held === null) throw new ItemCategoryTreeUnread()
-  return held
-}
-
-export function itemCategoryRoots(): ItemCategoryRoots {
-  return itemCategories().roots
-}
-
-export function itemCategoryTree(): ItemCategoriesKeyed {
-  return itemCategories().keyed
-}
