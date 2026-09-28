@@ -10,7 +10,7 @@ export const otherwhere00067 = {
   position: 67,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action: "I yawn and stretch, then get out of bed and open the door",
   beats: [
     "Nala yawns and stretches under the covers, then climbs out of the wide bed, naked.",
@@ -21,5 +21,5 @@ export const otherwhere00067 = {
     "Neither moves toward her; both are turned to the Counter, still, as if waiting on a word.",
     "One tilts its blank head toward the passage with a slow creak of wood and brass.",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
