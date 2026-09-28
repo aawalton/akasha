@@ -28,5 +28,6 @@ export const otherwhereIii00002 = {
   issues: ['"talking to nobody" - Plain Negation'],
   lore: ["lore/otherwhere-iii-the-system"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2037-01-31T04:47:00.000Z",
 } as const satisfies StoryTurnPlayed
