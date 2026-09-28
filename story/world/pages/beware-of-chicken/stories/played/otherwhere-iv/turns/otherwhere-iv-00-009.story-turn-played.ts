@@ -10,7 +10,7 @@ export const otherwhereIv00009 = {
   position: 9,
   prose: "txt",
   characters: ["character-player/otherwhere-iv-nala", "character-other/otherwhere-iv-zhao-jun"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“That answer merits the lesser knowledge, which should not put you at risk. The light of the moon is a reflection of the light of the sun, but the sun and the moon do not circle at quite the same rate and the sun is farther away. When they are aligned, the moon is dark, as the reflected light does not reach us. When they are opposed, the moon is bright with reflected sunlight. Waxing and waning moons are the transitions between.”",
   beats: [
@@ -41,6 +41,6 @@ export const otherwhereIv00009 = {
     '"If the honored spirit will not, this old man cannot promise what they will say."',
   ],
   lore: ["lore/otherwhere-iv-gu-household", "lore/otherwhere-iv-calendar"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T08:50:00.000Z",
 } as const satisfies StoryTurnPlayed
