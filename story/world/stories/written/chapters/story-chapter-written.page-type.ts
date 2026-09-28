@@ -20,6 +20,7 @@ export const storyChapterWritten = {
     bodyPropertyId: "prose",
     fullBleed: true,
     showReadingProgress: true,
+    markReadOnEnd: true,
     progressPropertyId: "ownProgress",
     lengthPropertyId: "ownLength",
   },
