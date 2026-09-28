@@ -7,7 +7,8 @@ export const otherwhere00008 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 8,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Okay, isekai protocol. System? Status? Character sheet? If you left me here with truly nothing, I might as well fucking die now, and then I won’t be any entertainment for anyone.”",
+  lore: ["lore/otherwhere-interface", "lore/otherwhere-mire-monitors"],
 } as const satisfies StoryTurnPlayed
