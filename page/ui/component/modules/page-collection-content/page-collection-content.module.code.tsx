@@ -113,7 +113,7 @@ export function PageCollectionContent({
     <>
       {data.title != null && <title>{expandDateMentions(title)}</title>}
       {header != null && page != null && (
-        <div className="mx-auto flex w-full max-w-[710px] flex-col gap-4 px-6 pt-6">
+        <PageLayout.Header className="flex flex-col gap-4">
           {showCover && coverUrl != null && (
             <DegradingImage
               src={coverUrl}
@@ -144,18 +144,17 @@ export function PageCollectionContent({
               ))}
             </div>
           )}
-        </div>
+        </PageLayout.Header>
       )}
       {nextUnreadHref != null && nextUnreadHref.length > 0 && (
-        <div className="mx-auto flex w-full max-w-[710px] px-6 pt-4">
-          {}
+        <PageLayout.Header className="flex pt-4">
           <PagesUILink
             href={nextUnreadHref}
             className={cn(buttonVariants({ variant: "accent", size: "sm" }))}
           >
             Jump to next unread chapter
           </PagesUILink>
-        </div>
+        </PageLayout.Header>
       )}
       {children}
       {childCollection != null && (
