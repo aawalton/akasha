@@ -163,6 +163,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-orc.lore.ts","id":"01a0e9f2-e897-7a09-9d1e-b5092fc98016"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-othryx.lore.ts","id":"01a0e9fb-6916-707e-b602-47c522d6a678"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-quenfi.lore.ts","id":"01a0e9fa-ee0d-764d-a532-e3d184b317ba"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-questor-grids.lore.ts","id":"01a0e9fb-e180-791f-9968-d2c2ab99d2bc"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-questor.lore.ts","id":"01a0e9f6-13bd-7b2a-a28c-6e493420d732"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-quilbor.lore.ts","id":"01a0e9fa-e2ae-756d-ab3a-389d8b1ab046"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-raf.lore.ts","id":"01a0e9f9-91ed-7fee-804f-6bedba25a5db"}
@@ -261,6 +262,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-itonia.world-organization.ts","id":"01a0e9f7-12e8-7507-afbe-ea00ff423668"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-keihonia.world-organization.ts","id":"01a0e9fa-527c-750d-a2e6-e5d0c31506a2"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-litcliff.world-organization.ts","id":"01a0e9f6-77ec-7beb-a73a-ba37606d0eef"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-questor-grids.world-organization.ts","id":"01a0e9fb-e182-799f-a2f7-0fa28967e72e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-quilbor.world-organization.ts","id":"01a0e9fa-e2af-7a9e-91ed-8fd3d507d919"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-sago.world-organization.ts","id":"01a0e9fa-e2af-742f-8f6a-42ed470d5378"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-sangrad.world-organization.ts","id":"01a0e9fa-527c-77cf-ac76-73f2bfab1723"}
