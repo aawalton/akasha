@@ -31,6 +31,8 @@
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/story/chapter-close/story-chapter-close.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/story/turn/advance/story-turn-advance.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/story/turn/advance/story-turn-advance.command.test-fixtures.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/story/turn/cancel/story-turn-cancel.command.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/story/turn/cancel/story-turn-cancel.command.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/story/turn/rewind/story-turn-rewind.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/story/turn/rewind/story-turn-rewind.command.test.ts","typed":true,"deferred":false}

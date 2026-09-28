@@ -1380,6 +1380,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/sms/acting-account/sms-acting-account.command.ts","id":"01a0685f-c8ed-7007-a130-cda36891535f"}
 {"propertySlug":"decision-kind","path":"command/pages/sms/send/sms-send.command.ts","id":"01a0685f-c8ed-7008-b892-0bc284782555"}
 {"propertySlug":"decision-kind","path":"command/pages/story/settle/story-settle.command.ts","id":"01a0de28-48fb-7823-9024-31f713cc562f"}
+{"propertySlug":"decision-kind","path":"command/pages/story/turn/cancel/story-turn-cancel.command.ts","id":"01a0e7d8-5f60-71ff-af7a-8f3d30913009"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-prompting/turn-prompting.module.ts","id":"01a0deca-7611-7c9f-94b0-89aa26759a71"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-reaching/turn-reaching.module.ts","id":"01a0deca-7611-7847-a6a4-5c79cbbc8739"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-written/turn-written.module.ts","id":"01a0e578-bd91-705f-b288-1755136c1268"}

@@ -7,6 +7,7 @@ export const storyTurn = {
   definition: "the turns of a played story and how each is made",
   parts: [
     "command/story-turn-advance",
+    "command/story-turn-cancel",
     "command/story-turn-rewind",
     "module/turn-keeping",
     "module/turn-prompting",

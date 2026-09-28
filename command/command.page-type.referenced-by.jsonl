@@ -205,6 +205,7 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/story/settle/story-settle.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/story/tell/story-tell.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/story/turn/advance/story-turn-advance.command.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/story/turn/cancel/story-turn-cancel.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/story/turn/rewind/story-turn-rewind.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/talos/apply/talos-apply.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/talos/bootstrap/talos-bootstrap.command.ts","typed":true,"deferred":false}

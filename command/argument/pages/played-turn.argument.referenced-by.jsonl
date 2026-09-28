@@ -1,7 +1,9 @@
 {"propertySlug":"argument","path":"command/pages/story/settle/story-settle.command.ts","id":"01a0de28-48fb-7823-9024-31f713cc562f"}
 {"propertySlug":"argument","path":"command/pages/story/turn/advance/story-turn-advance.command.ts","id":"01a0deca-7611-72a6-9435-385ed7dedb72"}
+{"propertySlug":"argument","path":"command/pages/story/turn/cancel/story-turn-cancel.command.ts","id":"01a0e7d8-5f60-71ff-af7a-8f3d30913009"}
 {"propertySlug":"argument","path":"command/pages/story/turn/rewind/story-turn-rewind.command.ts","id":"01a0def9-1803-7531-bfb1-9a23ccb84b63"}
 {"propertySlug":"import","fileName":"played-turn.argument.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"played-turn.argument.ts","path":"command/pages/story/turn/advance/story-turn-advance.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"played-turn.argument.ts","path":"command/pages/story/turn/cancel/story-turn-cancel.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"played-turn.argument.ts","path":"command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"played-turn.argument.ts","path":"command/pages/story/turn/rewind/story-turn-rewind.command.code.ts","typed":false,"deferred":false}

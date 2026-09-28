@@ -1,5 +1,7 @@
 {"propertySlug":"import","fileName":"page-putting.module.code.ts","path":"command/pages/chess/modules/page-writing/chess-page-writing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-putting.module.code.ts","path":"command/pages/story/chapter-close/story-chapter-close.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-putting.module.code.ts","path":"command/pages/story/turn/cancel/story-turn-cancel.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-putting.module.code.ts","path":"command/pages/story/turn/cancel/story-turn-cancel.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-putting.module.code.ts","path":"command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-putting.module.code.ts","path":"command/pages/story/turn/rewind/story-turn-rewind.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-putting.module.code.ts","path":"command/pages/story/turn/rewind/story-turn-rewind.command.test.ts","typed":false,"deferred":false}

@@ -122,7 +122,7 @@ function alreadyRewound(
   return held.every((key) => JSON.stringify(turn.value[key]) === JSON.stringify(values[key]))
 }
 
-function besideTurn(reach: Rewinding, root: string, turn: Turn): readonly string[] {
+export function besideTurn(reach: Rewinding, root: string, turn: Turn): readonly string[] {
   const prose = besideAt(turn.at, PROSE, textAt(turn.value, PROSE) ?? PROSE_HELD)
   return [prose, outcomesAt(turn.at)].filter(
     (one): one is string => one !== null && reach.present(root, one)
@@ -155,7 +155,7 @@ async function addedIn(
   return added
 }
 
-async function undoneOf(
+export async function undoneOf(
   reach: Rewinding,
   root: string,
   turn: Turn,
@@ -203,7 +203,7 @@ function latestRefused(reach: Rewinding, root: string, slug: string, game: strin
   return `\`${slug}\` is not the latest turn of \`${game}\`${instead}, so the turns after it would follow a turn made again`
 }
 
-function seatsStopped(reach: Rewinding, root: string, game: string, after: Told) {
+export function seatsStopped(reach: Rewinding, root: string, game: string, after: Told) {
   for (const seat of reach.seatsIn()) {
     if (seat.game !== game || seat.role === null || !STOPPED.includes(seat.role)) continue
     reach.stop(root, seat.name)
