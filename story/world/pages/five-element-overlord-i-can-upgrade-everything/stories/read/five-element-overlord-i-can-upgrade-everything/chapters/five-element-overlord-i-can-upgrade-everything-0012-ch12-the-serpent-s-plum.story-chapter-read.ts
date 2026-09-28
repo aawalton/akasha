@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0012Ch12TheSerpentSPlum = {
   id: "01a06731-adb4-7000-9501-8efe9470b7ca",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0012-ch12-the-serpent-s-plum",
+  ownProgress: 1160,
   title: "Ch12 The Serpent’s Plum",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 12,

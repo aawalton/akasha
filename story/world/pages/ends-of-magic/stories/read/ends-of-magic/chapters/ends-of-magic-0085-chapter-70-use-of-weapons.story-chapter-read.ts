@@ -4,6 +4,7 @@ export const endsOfMagic0085Chapter70UseOfWeapons = {
   id: "01a06731-ae10-7001-9062-3778f2b63561",
   type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0085-chapter-70-use-of-weapons",
+  ownProgress: 2916,
   title: "Chapter 70: Use of Weapons",
   story: "story-read/ends-of-magic",
   position: 85,

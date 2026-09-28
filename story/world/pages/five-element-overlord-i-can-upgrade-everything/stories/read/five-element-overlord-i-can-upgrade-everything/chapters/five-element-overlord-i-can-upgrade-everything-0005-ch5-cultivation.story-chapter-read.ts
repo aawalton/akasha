@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0005Ch5Cultivation = {
   id: "01a06731-adb3-7007-9b94-3ae7ef0cfeb8",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0005-ch5-cultivation",
+  ownProgress: 1278,
   title: "Ch5 Cultivation",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 5,

@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0034Ch343rdLevelQiRefiner =
   id: "01a06731-adb4-7016-9a44-1d57630c9d92",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0034-ch34-3rd-level-qi-refiner",
+  ownProgress: 1710,
   title: "Ch34 3rd Level Qi Refiner",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 34,

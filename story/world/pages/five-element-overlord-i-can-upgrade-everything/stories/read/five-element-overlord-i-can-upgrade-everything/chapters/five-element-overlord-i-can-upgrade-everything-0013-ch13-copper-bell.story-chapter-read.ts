@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0013Ch13CopperBell = {
   id: "01a06731-adb4-7001-8ca9-5d368b6053f7",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0013-ch13-copper-bell",
+  ownProgress: 2045,
   title: "Ch13 Copper Bell",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 13,

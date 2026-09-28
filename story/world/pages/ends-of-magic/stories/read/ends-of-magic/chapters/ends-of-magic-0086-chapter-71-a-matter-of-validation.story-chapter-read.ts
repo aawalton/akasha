@@ -4,6 +4,7 @@ export const endsOfMagic0086Chapter71AMatterOfValidation = {
   id: "01a06731-ae11-7000-9af1-5c533aa2e0ea",
   type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0086-chapter-71-a-matter-of-validation",
+  ownProgress: 2749,
   title: "Chapter 71: A Matter of Validation",
   story: "story-read/ends-of-magic",
   position: 86,

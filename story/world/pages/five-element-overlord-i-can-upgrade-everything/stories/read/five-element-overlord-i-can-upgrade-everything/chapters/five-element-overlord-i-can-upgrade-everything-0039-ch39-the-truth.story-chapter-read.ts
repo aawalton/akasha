@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0039Ch39TheTruth = {
   id: "01a06731-adb5-7004-b54f-b42fce290f5c",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0039-ch39-the-truth",
+  ownProgress: 1401,
   title: "Ch39 The Truth",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 39,

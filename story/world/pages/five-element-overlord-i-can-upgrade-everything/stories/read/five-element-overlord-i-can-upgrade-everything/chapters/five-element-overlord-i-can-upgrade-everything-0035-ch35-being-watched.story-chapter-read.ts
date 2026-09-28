@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0035Ch35BeingWatched = {
   id: "01a06731-adb5-7000-aeda-ca878f41964c",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0035-ch35-being-watched",
+  ownProgress: 1768,
   title: "Ch35 Being Watched",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 35,

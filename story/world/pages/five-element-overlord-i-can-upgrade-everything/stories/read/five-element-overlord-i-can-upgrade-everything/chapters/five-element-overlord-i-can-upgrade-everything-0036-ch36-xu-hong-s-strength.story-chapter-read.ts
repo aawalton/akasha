@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0036Ch36XuHongSStrength = {
   id: "01a06731-adb5-7001-b493-61a938c8c916",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0036-ch36-xu-hong-s-strength",
+  ownProgress: 2056,
   title: "Ch36 Xu Hong’s Strength",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 36,

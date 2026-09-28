@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0032Ch32TensionRising = {
   id: "01a06731-adb4-7014-b0c4-5d23f1ad91f5",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0032-ch32-tension-rising",
+  ownProgress: 834,
   title: "Ch32 Tension Rising",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 32,

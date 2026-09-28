@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0022Ch22BloodSwordSect = {
   id: "01a06731-adb4-700a-bade-18c606e2766a",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0022-ch22-blood-sword-sect",
+  ownProgress: 1490,
   title: "Ch22 Blood Sword Sect",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 22,

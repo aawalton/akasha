@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0028Ch28MundaneStewardSLife
   id: "01a06731-adb4-7010-9dc5-da7a0707e72c",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0028-ch28-mundane-steward-s-life",
+  ownProgress: 1693,
   title: "Ch28 Mundane Steward’s Life",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 28,

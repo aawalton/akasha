@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0038Ch38AzureLightning = {
   id: "01a06731-adb5-7003-9f5f-4b29dffaf278",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0038-ch38-azure-lightning",
+  ownProgress: 1330,
   title: "Ch38 Azure Lightning",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 38,

@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0029Ch29AnOpportunity = {
   id: "01a06731-adb4-7011-a285-4b6e7aa69e6d",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0029-ch29-an-opportunity",
+  ownProgress: 1178,
   title: "Ch29 An Opportunity",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 29,

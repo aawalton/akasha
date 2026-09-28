@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0042Ch42StringOfFate = {
   id: "01a06731-adb5-7007-8224-e84e3df0ff63",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0042-ch42-string-of-fate",
+  ownProgress: 1692,
   title: "Ch42 String of Fate",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 42,

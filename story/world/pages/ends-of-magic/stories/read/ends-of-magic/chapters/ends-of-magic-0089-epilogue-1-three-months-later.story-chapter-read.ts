@@ -4,6 +4,7 @@ export const endsOfMagic0089Epilogue1ThreeMonthsLater = {
   id: "01a06731-ae14-7000-8100-628cedf204bb",
   type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0089-epilogue-1-three-months-later",
+  ownProgress: 4289,
   title: "Epilogue 1: Three Months Later",
   story: "story-read/ends-of-magic",
   position: 89,

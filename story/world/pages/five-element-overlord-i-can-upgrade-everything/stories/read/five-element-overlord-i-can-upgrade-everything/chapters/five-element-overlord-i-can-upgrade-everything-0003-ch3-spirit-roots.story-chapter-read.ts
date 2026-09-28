@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0003Ch3SpiritRoots = {
   id: "01a06731-adb3-7005-9b80-b241440b88ab",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0003-ch3-spirit-roots",
+  ownProgress: 1291,
   title: "Ch3 Spirit Roots",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 3,

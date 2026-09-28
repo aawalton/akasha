@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0024Ch24DemonicTechnique = 
   id: "01a06731-adb4-700c-a9dc-f82db251b3cb",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0024-ch24-demonic-technique",
+  ownProgress: 1374,
   title: "Ch24 Demonic Technique",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 24,
