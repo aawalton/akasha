@@ -32,5 +32,6 @@ export const otherwhereViii00003 = {
     "He waits for her answer: the Institute or the Academy, and did she hit her head.",
   ],
   lore: ["place/otherwhere-viii-weir-gardens", "place/otherwhere-viii-low-bank"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T05:50:00.000Z",
 } as const satisfies StoryTurnPlayed
