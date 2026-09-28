@@ -626,6 +626,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-chameleon-potion.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-champions.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-ciphelos.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-compound-skills.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-contracts.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-cursed-giant.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-customs.lore.ts","typed":true,"deferred":false}
@@ -646,6 +647,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-ember.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-enchanting.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-essence-stones.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-evolutions.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-evolving-creature.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-fae.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-failed-summon.lore.ts","typed":true,"deferred":false}
@@ -730,6 +732,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-small-folk.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-smiths-son.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-soul-contracts.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-specialisations.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-spellcasting.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-splitting-acid-raptor.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-stat-points.lore.ts","typed":true,"deferred":false}
