@@ -10,8 +10,12 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-recognition.world-mechanic.ts","id":"01a0e9f2-0288-779d-b904-1f8ce57346d9"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/places/otherwhere-v-fern-hollow.place.ts","id":"01a0e9e4-706a-77ea-88bf-f538189767cf"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/checks/otherwhere-v-time-passing.world-check.ts","id":"01a0e9eb-fbd8-7e4e-95d0-27d199455ab6"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/mechanics/otherwhere-v-bargaining.world-mechanic.ts","id":"01a0e9f2-4104-7d9f-99ed-a64c5911191d"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/mechanics/otherwhere-v-growth.world-mechanic.ts","id":"01a0e9f2-4105-75ff-b2cb-c3c23085542c"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/mechanics/otherwhere-v-injury.world-mechanic.ts","id":"01a0e9f1-fcd3-71a6-bf05-012e5a2faac4"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/mechanics/otherwhere-v-language-learning.world-mechanic.ts","id":"01a0e9f2-4105-75db-8df5-b97948105ae7"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/mechanics/otherwhere-v-resolution.world-mechanic.ts","id":"01a0e9f1-fcd4-7a97-8a0f-000089328e47"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/mechanics/otherwhere-v-standing.world-mechanic.ts","id":"01a0e9f2-4106-7de6-a5d9-546c51a47bf6"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/mechanics/otherwhere-v-survival.world-mechanic.ts","id":"01a0e9f1-fcd4-7dfc-94e0-874ccf06a11e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/mechanics/otherwhere-v-time.world-mechanic.ts","id":"01a0e9f1-fcd4-7ebd-af34-73fc6fbcdb06"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/otherwhere-v.story-played.ts","id":"01a0e9e4-0883-7904-99a8-d7541a2e1f89"}
