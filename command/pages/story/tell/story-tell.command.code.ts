@@ -79,9 +79,9 @@ const QUALIFIED = "qualified"
 
 export const GAME_MASTER = `${loreDisclosure.slug}/${gameMaster.slug}`
 
-export type Told = { readonly fact: string; readonly knowers: readonly string[] }
+type Told = { readonly fact: string; readonly knowers: readonly string[] }
 
-export type Telling = { readonly told: readonly Told[]; readonly secrets: readonly string[] }
+type Telling = { readonly told: readonly Told[]; readonly secrets: readonly string[] }
 
 export type Taken = {
   readonly page: string
@@ -116,7 +116,7 @@ function shapedUnder(root: string): (path: string, text: string) => string {
     new TextDecoder().decode(formattedBody(root, path, new TextEncoder().encode(text)).body)
 }
 
-export function rootReading(root: string): Reading {
+function rootReading(root: string): Reading {
   return {
     listedAt: (pageTypeSlug, slug) => listedAt(root, pageTypeSlug, slug),
     valueAt: (path) => valueByPath(root, path),
@@ -128,7 +128,7 @@ export function rootReading(root: string): Reading {
   }
 }
 
-export function worldReading(world: World): Reading {
+function worldReading(world: World): Reading {
   return {
     listedAt: (pageTypeSlug, slug) => world.index.listedAt(pageTypeSlug, slug),
     valueAt: (path) => world.index.valueAt(path),
@@ -162,7 +162,7 @@ export function toldIn(telling: Telling, fact: string, named: readonly string[])
   }
 }
 
-export function factsSpelled(facts: readonly Told[]): string {
+function factsSpelled(facts: readonly Told[]): string {
   const records = facts.map(
     (one) =>
       `{ ${FACT}: ${JSON.stringify(one.fact)}, ${loreKnowers.propertySlug}: [${one.knowers.map((each) => JSON.stringify(each)).join(", ")}] }`
@@ -273,7 +273,7 @@ export const REPLACE = `${changeMechanicalFileContent.slug}/${changeFileContent.
 
 export const REMOVE_FILE = `${changeMechanicalFile.slug}/${removeFile.slug}` as const
 
-export function replacing(at: string, was: string, now: string): Asking {
+function replacing(at: string, was: string, now: string): Asking {
   return { at: REPLACE, given: { at, old: was, new: now } }
 }
 
