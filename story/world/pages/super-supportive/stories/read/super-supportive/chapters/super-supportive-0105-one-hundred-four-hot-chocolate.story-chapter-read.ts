@@ -4,6 +4,7 @@ export const superSupportive0105OneHundredFourHotChocolate = {
   id: "01a06730-4e6b-716f-8e9a-8a4dcfa4ef63",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0105-one-hundred-four-hot-chocolate",
+  ownProgress: 7182,
   title: "ONE HUNDRED FOUR: Hot Chocolate",
   story: "story-read/super-supportive",
   position: 105,

@@ -4,6 +4,7 @@ export const superSupportive0130OneHundredTwentyNineTheyFeasted = {
   id: "01a06730-4ea6-77c7-955c-eef191e378fe",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0130-one-hundred-twenty-nine-they-feasted",
+  ownProgress: 5484,
   title: "ONE HUNDRED TWENTY-NINE: They Feasted",
   story: "story-read/super-supportive",
   position: 130,

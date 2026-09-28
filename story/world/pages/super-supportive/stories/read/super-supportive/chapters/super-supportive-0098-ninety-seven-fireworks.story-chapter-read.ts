@@ -4,6 +4,7 @@ export const superSupportive0098NinetySevenFireworks = {
   id: "01a06730-4e5a-717e-9a01-34283e495eb6",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0098-ninety-seven-fireworks",
+  ownProgress: 6437,
   title: "NINETY-SEVEN: Fireworks",
   story: "story-read/super-supportive",
   position: 98,

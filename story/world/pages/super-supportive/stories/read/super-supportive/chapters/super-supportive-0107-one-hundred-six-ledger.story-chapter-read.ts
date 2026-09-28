@@ -4,6 +4,7 @@ export const superSupportive0107OneHundredSixLedger = {
   id: "01a06730-4e70-798b-9305-0cf7207f6f0b",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0107-one-hundred-six-ledger",
+  ownProgress: 6721,
   title: "ONE HUNDRED SIX: Ledger",
   story: "story-read/super-supportive",
   position: 107,

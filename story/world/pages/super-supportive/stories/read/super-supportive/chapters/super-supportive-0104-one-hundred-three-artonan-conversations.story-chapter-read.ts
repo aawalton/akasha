@@ -4,6 +4,7 @@ export const superSupportive0104OneHundredThreeArtonanConversations = {
   id: "01a06730-4e69-7869-b313-23d49a3ba7f5",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0104-one-hundred-three-artonan-conversations",
+  ownProgress: 9571,
   title: "ONE HUNDRED THREE: Artonan Conversations",
   story: "story-read/super-supportive",
   position: 104,

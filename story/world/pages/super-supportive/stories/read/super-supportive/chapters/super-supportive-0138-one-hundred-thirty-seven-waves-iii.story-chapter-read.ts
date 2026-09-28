@@ -4,6 +4,7 @@ export const superSupportive0138OneHundredThirtySevenWavesIii = {
   id: "01a06730-4eb0-7181-8b38-304142ed47a6",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0138-one-hundred-thirty-seven-waves-iii",
+  ownProgress: 4533,
   title: "ONE HUNDRED THIRTY-SEVEN: Waves III",
   story: "story-read/super-supportive",
   position: 138,

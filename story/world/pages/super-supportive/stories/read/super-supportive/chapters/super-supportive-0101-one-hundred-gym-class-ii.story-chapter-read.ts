@@ -4,6 +4,7 @@ export const superSupportive0101OneHundredGymClassIi = {
   id: "01a06730-4e61-74a5-8086-1384dbde3cbb",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0101-one-hundred-gym-class-ii",
+  ownProgress: 6516,
   title: "ONE HUNDRED: Gym Class, II",
   story: "story-read/super-supportive",
   position: 101,

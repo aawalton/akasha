@@ -4,6 +4,7 @@ export const superSupportive0093NinetyTwoAllNighter = {
   id: "01a06730-4e4c-7782-900d-745b075bcd24",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0093-ninety-two-all-nighter",
+  ownProgress: 5323,
   title: "NINETY-TWO: All Nighter",
   story: "story-read/super-supportive",
   position: 93,

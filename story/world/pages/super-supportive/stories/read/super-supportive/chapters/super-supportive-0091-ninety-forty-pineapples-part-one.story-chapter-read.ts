@@ -4,6 +4,7 @@ export const superSupportive0091NinetyFortyPineapplesPartOne = {
   id: "01a06730-4e48-70a4-88da-d3675558026e",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0091-ninety-forty-pineapples-part-one",
+  ownProgress: 8136,
   title: "NINETY: Forty Pineapples, part one",
   story: "story-read/super-supportive",
   position: 91,

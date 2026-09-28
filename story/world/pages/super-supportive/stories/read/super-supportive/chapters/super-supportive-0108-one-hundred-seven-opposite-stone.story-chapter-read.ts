@@ -4,6 +4,7 @@ export const superSupportive0108OneHundredSevenOppositeStone = {
   id: "01a06730-4e71-7396-95e4-bf8345a8a55e",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0108-one-hundred-seven-opposite-stone",
+  ownProgress: 5231,
   title: "ONE HUNDRED SEVEN: Opposite Stone",
   story: "story-read/super-supportive",
   position: 108,

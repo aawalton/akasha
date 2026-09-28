@@ -4,6 +4,7 @@ export const superSupportive0129OneHundredTwentyEightBetterWatchOut = {
   id: "01a06730-4ea5-7e40-9ff7-4afaa72cf65e",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0129-one-hundred-twenty-eight-better-watch-out",
+  ownProgress: 6943,
   title: "ONE HUNDRED TWENTY-EIGHT: Better Watch Out ",
   story: "story-read/super-supportive",
   position: 129,

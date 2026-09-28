@@ -4,6 +4,7 @@ export const superSupportive0109OneHundredEightCanoe = {
   id: "01a06730-4e72-75aa-989a-c9f7a0b766d2",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0109-one-hundred-eight-canoe",
+  ownProgress: 3654,
   title: "ONE HUNDRED EIGHT: Canoe",
   story: "story-read/super-supportive",
   position: 109,

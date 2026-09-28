@@ -4,6 +4,7 @@ export const superSupportive0122OneHundredTwentyOneAvalanche = {
   id: "01a06730-4e93-7918-abf3-b7d7fe9d135b",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0122-one-hundred-twenty-one-avalanche",
+  ownProgress: 8154,
   title: "ONE HUNDRED TWENTY-ONE: Avalanche",
   story: "story-read/super-supportive",
   position: 122,

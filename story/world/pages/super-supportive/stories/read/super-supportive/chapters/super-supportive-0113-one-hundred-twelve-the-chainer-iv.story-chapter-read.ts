@@ -4,6 +4,7 @@ export const superSupportive0113OneHundredTwelveTheChainerIv = {
   id: "01a06730-4e80-73bd-8f1b-2496e4917d16",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0113-one-hundred-twelve-the-chainer-iv",
+  ownProgress: 8132,
   title: "ONE HUNDRED TWELVE: The Chainer, IV",
   story: "story-read/super-supportive",
   position: 113,

@@ -4,6 +4,7 @@ export const superSupportive0135OneHundredThirtyFourRipplesV = {
   id: "01a06730-4ead-7fa8-bfa0-2ca11b74d510",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0135-one-hundred-thirty-four-ripples-v",
+  ownProgress: 6122,
   title: "ONE HUNDRED THIRTY-FOUR: Ripples V",
   story: "story-read/super-supportive",
   position: 135,

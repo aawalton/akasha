@@ -4,6 +4,7 @@ export const superSupportive0124OneHundredTwentyThreeMeeting = {
   id: "01a06730-4e99-7099-8060-cc36d8e385af",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0124-one-hundred-twenty-three-meeting",
+  ownProgress: 4948,
   title: "ONE HUNDRED TWENTY-THREE: Meeting",
   story: "story-read/super-supportive",
   position: 124,

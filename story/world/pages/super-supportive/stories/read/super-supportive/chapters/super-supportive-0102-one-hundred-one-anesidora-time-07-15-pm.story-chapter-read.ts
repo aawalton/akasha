@@ -4,6 +4,7 @@ export const superSupportive0102OneHundredOneAnesidoraTime0715Pm = {
   id: "01a06730-4e62-709b-8986-6cc2c47e48fd",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0102-one-hundred-one-anesidora-time-07-15-pm",
+  ownProgress: 5289,
   title: "ONE HUNDRED ONE: Anesidora Time, 07:15 PM",
   story: "story-read/super-supportive",
   position: 102,

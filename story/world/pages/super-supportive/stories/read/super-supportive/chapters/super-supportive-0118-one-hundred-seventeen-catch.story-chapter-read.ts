@@ -4,6 +4,7 @@ export const superSupportive0118OneHundredSeventeenCatch = {
   id: "01a06730-4e8f-7e47-9415-7e0cd7ab2eeb",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0118-one-hundred-seventeen-catch",
+  ownProgress: 7098,
   title: "ONE HUNDRED SEVENTEEN: Catch",
   story: "story-read/super-supportive",
   position: 118,

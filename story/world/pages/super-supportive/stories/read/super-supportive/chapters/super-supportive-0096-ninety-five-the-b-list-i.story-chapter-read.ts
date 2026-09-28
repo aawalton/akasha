@@ -4,6 +4,7 @@ export const superSupportive0096NinetyFiveTheBListI = {
   id: "01a06730-4e55-7b25-933b-d06e3ae02a9a",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0096-ninety-five-the-b-list-i",
+  ownProgress: 4911,
   title: "NINETY-FIVE: The B-list, I",
   story: "story-read/super-supportive",
   position: 96,

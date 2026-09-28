@@ -4,6 +4,7 @@ export const superSupportive0116OneHundredFifteenLazySunday = {
   id: "01a06730-4e8a-73ad-aed1-b6035d81d516",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0116-one-hundred-fifteen-lazy-sunday",
+  ownProgress: 5131,
   title: "ONE HUNDRED FIFTEEN: Lazy Sunday",
   story: "story-read/super-supportive",
   position: 116,
