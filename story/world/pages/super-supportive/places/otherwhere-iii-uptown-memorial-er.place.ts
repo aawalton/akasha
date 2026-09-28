@@ -27,6 +27,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "A guard sits by the sliding doors beside a walk-through metal detector.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Triage asks name, birth date and address; a patient may give none and still be seen.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
