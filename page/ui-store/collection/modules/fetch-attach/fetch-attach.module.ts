@@ -31,6 +31,19 @@ export const fetchAttach = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A push naming pages reads those pages alone, within whatever the shape names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A pushed page the shape no longer answers leaves the shape, and no other page does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shape naming pages by id reads nothing for a push naming none of those ids.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A row one shape no longer answers stays while another shape still holds it.",
     },
     {

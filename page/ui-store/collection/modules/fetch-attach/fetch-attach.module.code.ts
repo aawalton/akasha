@@ -49,7 +49,8 @@ interface FetchPlan {
 export function filePagesPath(
   pageTypeSlug: string,
   carry: readonly string[] = [],
-  named: NamedPages | undefined = undefined
+  named: NamedPages | undefined = undefined,
+  ids: readonly string[] = []
 ): string {
   const at = `/api/pages/${encodeURIComponent(pageTypeSlug)}`
   const asked: string[] = []
@@ -57,6 +58,7 @@ export function filePagesPath(
   if (named !== undefined) {
     asked.push(`${namedParam(named)}=${encodeURIComponent(named.values.join(","))}`)
   }
+  if (ids.length > 0) asked.push(`id=${encodeURIComponent(ids.join(","))}`)
   return asked.length === 0 ? at : `${at}?${asked.join("&")}`
 }
 
@@ -65,17 +67,33 @@ type Asking = {
   readonly only: ReadonlySet<string> | null
 }
 
+function askingFor(
+  pageTypeSlug: string,
+  carry: readonly string[],
+  named: NamedPages,
+  ids: readonly string[]
+): Asking {
+  return { at: filePagesPath(pageTypeSlug, carry, named), only: new Set(ids) }
+}
+
 export function askingAgain(
   pageTypeSlug: string,
   carry: readonly string[],
   named: NamedPages | undefined,
   ids: readonly string[] | undefined
-): Asking {
-  if (named !== undefined || ids === undefined || ids.length === 0) {
+): Asking | null {
+  if (ids === undefined || ids.length === 0) {
     return { at: filePagesPath(pageTypeSlug, carry, named), only: null }
   }
-  const only = new Set(ids)
-  return { at: filePagesPath(pageTypeSlug, carry, { by: "id", values: [...only] }), only }
+  const pushed = [...new Set(ids)]
+  if (named === undefined)
+    return askingFor(pageTypeSlug, carry, { by: "id", values: pushed }, pushed)
+  if (named.by !== "id") {
+    return { at: filePagesPath(pageTypeSlug, carry, named, pushed), only: new Set(pushed) }
+  }
+  const within = pushed.filter((id) => named.values.includes(id))
+  if (within.length === 0) return null
+  return askingFor(pageTypeSlug, carry, { by: "id", values: within }, within)
 }
 
 export function deliveredWithin(
@@ -129,7 +147,7 @@ function overHeld(row: PageRow, held: PageRow, pageTypeSlug: string): PageRow {
   return asPageRow({ ...row, attributes: { ...attributesOf(held), ...attributesOf(row) } })
 }
 
-function planFetchedRows(
+export function planFetchedRows(
   fetched: readonly PageRow[],
   delivered: ReadonlySet<string>,
   getRow: (id: string) => PageRow | undefined,
@@ -223,7 +241,9 @@ export function attachFetch(
   }
 
   const poll = async (ids?: readonly string[]): Promise<boolean> => {
-    const { at, only } = askingAgain(pageTypeSlug, carry, named, ids)
+    const asking = askingAgain(pageTypeSlug, carry, named, ids)
+    if (asking === null) return false
+    const { at, only } = asking
     let response: Response
     try {
       response = await deps.fetchImpl(at, {
