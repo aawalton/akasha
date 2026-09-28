@@ -11,4 +11,5 @@ export const otherwhere00008 = {
   action:
     "“Okay, isekai protocol. System? Status? Character sheet? If you left me here with truly nothing, I might as well fucking die now, and then I won’t be any entertainment for anyone.”",
   lore: ["lore/otherwhere-interface", "lore/otherwhere-mire-monitors"],
+  endsAt: "2026-09-28T15:05:00.000Z",
 } as const satisfies StoryTurnPlayed
