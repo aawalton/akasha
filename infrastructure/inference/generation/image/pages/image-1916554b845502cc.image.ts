@@ -4,6 +4,8 @@ export const image1916554b845502cc = {
   id: "01a0e9de-e737-7ec8-9aa7-afaf8182e350",
   type: "page-type/image",
   slug: "image-1916554b845502cc",
+  title: "Deckchair, Black Hat and Nothing Else",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
