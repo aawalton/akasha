@@ -318,7 +318,7 @@ export const otherwhereHallBack = {
     },
 
     {
-      fact: "Nala's fourth sack of salt lies whole on the floor between her and the big bookworm.",
+      fact: "Nala's fourth sack of salt lies whole on the floor where it fell, out from the gloom's edge.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
