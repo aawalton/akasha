@@ -10,7 +10,7 @@ export const otherwhereV00005 = {
   position: 5,
   prose: "txt",
   characters: ["character-player/otherwhere-v-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "I break into a run, getting into the log as quickly as possible",
   beats: [
     "Nala breaks into a run for the log, straight through the waist-high ferns in the black.",
