@@ -30,7 +30,11 @@
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-device-identification.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-diagnosis.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-divide-from-whole.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-doubtful-footing.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-driftseed.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-faithful-guardian.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-flickerer.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-guardian-of-gates.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-i-need-a-break-from-people.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-instant-corners.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-kitty-moon-barrier.world-skill.ts","typed":true,"deferred":false}
@@ -43,6 +47,7 @@
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-outfitter.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-peace-of-mind-skill.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-reader-of-records.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-returning-guardblade.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-safe-object-relocation-sensing.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-sensitivity.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-sink-and-surface.world-skill.ts","typed":true,"deferred":false}
@@ -50,7 +55,11 @@
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-the-ensnarer-of-minds.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-the-leading-knife.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-the-maker-of-narrow-ways.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-the-recaller-of-storms.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-the-vatha-lantern.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-throughblow.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-transformer-of-life-to-water.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-whisperer-of-refuge.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/skills/a-bottle-a-day-ink.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/skills/a-bullet-a-day-armor-piercing-round.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/skills/a-crack-in-morality.world-skill.ts","typed":true,"deferred":false}

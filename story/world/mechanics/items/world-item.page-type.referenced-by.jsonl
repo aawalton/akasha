@@ -17,7 +17,9 @@
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-drudgery-chest.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-escape-flyer.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-evacuation-kit.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-executioners-ring.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-eye-rings.world-item.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-family-stone.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-five-leaf-fan.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-fragile-atmosphere.world-item.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-item.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/items/super-supportive-garments-for-housekeeper.world-item.ts","typed":true,"deferred":false}
