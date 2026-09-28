@@ -1,5 +1,6 @@
 import { mkdirSync, rmSync, statSync, writeFileSync } from "node:fs"
 import { pause } from "akasha/code/modules/thread-pause/thread-pause.module.code.ts"
+import { errnoCodeOf } from "akasha/code/process/modules/pid-signal/pid-signal.module.code.ts"
 import {
   alive,
   holderOf,
@@ -14,6 +15,8 @@ const WAIT_MS = 20_000
 const STALE_MS = 10_000
 
 const HOLDER = "held-by"
+
+const HELD_ALREADY = "EEXIST"
 
 function agedOut(lock: string): boolean {
   try {
@@ -44,8 +47,13 @@ function broke(lock: string, gone: string | null): boolean {
 function took(lock: string, file: string, mine: string): boolean {
   try {
     mkdirSync(lock)
-  } catch {
-    return false
+  } catch (failed) {
+    if (errnoCodeOf(failed) === HELD_ALREADY) return false
+    throw new Error(
+      `${lock} could not be made, and no holder has it, so waiting would not help: ` +
+        String(failed),
+      { cause: failed }
+    )
   }
   try {
     writeFileSync(file, mine, "utf8")

@@ -6,6 +6,7 @@ export const exclusive = {
   slug: "exclusive",
   definition: "the turn a process takes over a path while it acts on it",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -14,6 +15,11 @@ export const exclusive = {
     {
       decisionKind: "decision-kind/departure",
       statement: "Making the turn is one act that fails where that turn already exists.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A turn not made for any reason but already existing is refused at once rather than waited on.",
     },
     {
       decisionKind: "decision-kind/departure",

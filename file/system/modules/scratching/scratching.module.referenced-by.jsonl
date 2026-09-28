@@ -252,6 +252,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"domain/modules/rows/domain-rows.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"domain/modules/work-initiatives/work-initiatives.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"domain/plain-language/modules/parse-cache/parse-cache.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"file/modules/exclusive/exclusive.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"file/modules/lock-holder/lock-holder.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"file/system/modules/atomic-write/atomic-write.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"file/system/modules/scratching/scratching.module.test.ts","typed":false,"deferred":false}
