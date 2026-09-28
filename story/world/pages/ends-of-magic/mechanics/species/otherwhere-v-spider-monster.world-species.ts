@@ -6,5 +6,5 @@ export const otherwhereVSpiderMonster = {
   slug: "otherwhere-v-spider-monster",
   title: "Spider Monster",
   world: "world/ends-of-magic",
-  description: "A spider-like monster mutated from a person.",
+  description: "A spider-like mutant monster.",
 } as const satisfies WorldSpecies
