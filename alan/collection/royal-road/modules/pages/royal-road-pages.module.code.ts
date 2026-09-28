@@ -4,7 +4,7 @@ import { z } from "zod"
 
 const ROYAL_ROAD_ORIGIN = "https://www.royalroad.com"
 
-const USER_AGENT =
+export const USER_AGENT =
   "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
 
 const REQUEST_DELAY_MS = 1500

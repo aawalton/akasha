@@ -6,10 +6,11 @@ export const royalRoadSyncing = {
   slug: "royal-road-syncing",
   definition: "every chapter royal road lists for a story read and filed under that story",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A story is followed by the royal road id the story states.",
+      statement: "A story is synced by the royal road id the story states.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -17,7 +18,19 @@ export const royalRoadSyncing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A story stating no such record is not followed.",
+      statement: "A story stating no such record is left as it is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story whose fiction is on Alan's follow list states it is following.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story whose fiction is not on that list states it is not following.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story stating no following already reads as not following.",
     },
     {
       decisionKind: "decision-kind/departure",

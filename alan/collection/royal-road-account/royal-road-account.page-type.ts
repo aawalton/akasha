@@ -33,7 +33,7 @@ export const royalRoadAccount = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The sync signs in as no account and reads only the pages open to anyone.",
+      statement: "The sync signs in as an account only to read that account's follow list.",
     },
   ],
   types: "ts",

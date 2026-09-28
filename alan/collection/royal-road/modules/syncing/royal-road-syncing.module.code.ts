@@ -4,6 +4,11 @@ import {
   recordingRun,
 } from "akasha/alan/collection/modules/sync-run-recording/sync-run-recording.module.code.ts"
 import {
+  type Followed,
+  readFollows,
+  signedIn,
+} from "akasha/alan/collection/royal-road/modules/follows/royal-road-follows.module.code.ts"
+import {
   extraPaths,
   type Held,
   heldChapters,
@@ -54,6 +59,7 @@ const TXT = "txt"
 const WORDS = `${unit.slug}/${words.slug}` as const
 const STORY = "story"
 const IDENTITY = "externalIdentity"
+const FOLLOWING = "following"
 const POSITION_DIGITS = 4
 const BATCH_CEILING = 50
 const COMMIT = "--commit"
@@ -103,6 +109,7 @@ export interface Story {
   readonly world: string | null
   readonly status: string | null
   readonly tags: readonly string[]
+  readonly following: boolean
 }
 
 export function royalRoadIdIn(row: Row): string | null {
@@ -112,7 +119,7 @@ export function royalRoadIdIn(row: Row): string | null {
 export function readStories(only: string | undefined): readonly Story[] {
   const asked = asking(ROOT, {
     pageTypeSlug: STORY_PAGE_TYPE,
-    keys: ["slug", IDENTITY, "world", "publicationStatus", "externalTags"],
+    keys: ["slug", IDENTITY, "world", "publicationStatus", "externalTags", FOLLOWING],
   })
   if ("refused" in asked)
     throw new SyncRefused(`the stories to follow went unread: ${asked.refused}`)
@@ -131,6 +138,7 @@ export function readStories(only: string | undefined): readonly Story[] {
       world: textAt(row, "world"),
       status: textAt(row, "publicationStatus"),
       tags: listIn(row, "externalTags"),
+      following: row[FOLLOWING] === true,
     })
   }
   if (found === 0) {
@@ -201,9 +209,11 @@ export function filedChapter(
 export function restatementFor(
   story: Story,
   status: string | null,
-  tags: readonly string[]
+  tags: readonly string[],
+  following: boolean
 ): Value | null {
   const values: Value = {}
+  if (following !== story.following) values[FOLLOWING] = following
   const wanted = status === null ? null : status.toLowerCase()
   if (wanted !== null && STATUS_KEPT.has(wanted) && wanted !== story.status) {
     values["publicationStatus"] = wanted
@@ -242,6 +252,7 @@ interface Counts {
 
 async function syncStory(
   story: Story,
+  follows: ReadonlyMap<string, Followed>,
   held: Held,
   taken: Set<string>,
   counts: Counts,
@@ -285,7 +296,12 @@ async function syncStory(
     }
   }
 
-  const wanted = restatementFor(story, fiction.meta.status, fiction.meta.tags)
+  const wanted = restatementFor(
+    story,
+    fiction.meta.status,
+    fiction.meta.tags,
+    follows.has(story.externalId)
+  )
   if (wanted === null) return
   if (story.world === null) {
     console.log(
@@ -326,6 +342,10 @@ async function syncRoyalRoad(argv: readonly string[]): Promise<RunCounts> {
 
   const stories = readStories(only)
   const held = heldChapters(ROOT)
+  const follows = new Map(
+    (await readFollows(await signedIn(ROOT))).map((one) => [one.fictionId, one])
+  )
+  console.log(`royal road follow list: ${follows.size} fiction(s)`)
   console.log(`royal road sync: ${stories.length} stor${stories.length === 1 ? "y" : "ies"}`)
   const counts: Counts = {
     composed: 0,
@@ -344,7 +364,7 @@ async function syncRoyalRoad(argv: readonly string[]): Promise<RunCounts> {
 
   for (const story of stories) {
     try {
-      await syncStory(story, held, taken, counts, budget, filing)
+      await syncStory(story, follows, held, taken, counts, budget, filing)
     } catch (error) {
       console.log(`  ${story.slug}: failed — ${String(error)}`)
       counts.failed += 1
