@@ -27,14 +27,21 @@ import {
 } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import { useMemo } from "react"
 
-const RELATION = "relation"
+const RELATIONS: ReadonlySet<string> = new Set(["relation", "multi-relation"])
 
 function textsOf(values: readonly unknown[]): readonly string[] | null {
   const texts = values.filter((one): one is string => typeof one === "string")
   return texts.length === values.length && texts.length > 0 ? texts : null
 }
 
-function relationShapeOf(
+function valuesNamedIn(condition: PageCondition): readonly string[] | null {
+  if ("eq" in condition) return textsOf([condition.eq])
+  if ("in" in condition) return textsOf(condition.in)
+  if ("includes" in condition) return textsOf([condition.includes])
+  return null
+}
+
+export function relationShapeOf(
   pageTypeSlug: string | undefined,
   filters: PageWhere | undefined,
   properties: readonly PropertyDefinition[] | undefined
@@ -42,8 +49,9 @@ function relationShapeOf(
   if (pageTypeSlug === undefined || filters === undefined) return undefined
   for (const one of filters) {
     if (!("key" in one)) continue
-    if (properties?.find((p) => p.id === one.key)?.type !== RELATION) continue
-    const values = "eq" in one ? textsOf([one.eq]) : "in" in one ? textsOf(one.in) : null
+    const type = properties?.find((p) => p.id === one.key)?.type
+    if (type === undefined || !RELATIONS.has(type)) continue
+    const values = valuesNamedIn(one)
     if (values !== null) {
       return namedShapeDescriptor(pageTypeSlug, { by: "where", key: one.key, values })
     }

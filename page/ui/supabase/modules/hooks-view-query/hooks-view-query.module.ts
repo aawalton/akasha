@@ -7,10 +7,15 @@ export const hooksViewQuery = {
   definition:
     "The rows a view asks for, read from the store and narrowed by the view's own filters.",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement: "A view filtering on a relation's values asks only for the pages naming them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A relation holding many values narrows a view as a relation holding one does.",
     },
   ],
 } as const satisfies Module
