@@ -8,6 +8,9 @@ export const image5ea5707431b05fd6 = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-8f525ca4ec992468",
+  title: "Natalie Laying Out a Southern Picnic",
+  persona: "persona/natalie",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",
