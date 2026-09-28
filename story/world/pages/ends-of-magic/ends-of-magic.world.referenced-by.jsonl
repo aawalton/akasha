@@ -38,6 +38,8 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-jaus.world-character.ts","id":"01a0e9fc-4337-75e0-93f4-ea76835f7531"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-jenice.world-character.ts","id":"01a0e9fc-9997-7984-98d3-eb92193f7b9f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-kaelis.world-character.ts","id":"01a0e9fc-9998-76d6-93a5-13cca7f6212a"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-kamus.world-character.ts","id":"01a0e9fc-f509-7f59-9f01-af514f872d15"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-khachi.world-character.ts","id":"01a0e9fc-f50a-79fd-9d5c-b3d37f4ae1a6"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-liren-vail.world-character.ts","id":"01a0e9fb-fb52-77a8-b3a7-8afc3bb7252f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-mirus.world-character.ts","id":"01a0e9fc-d637-7942-8fe1-ceed1d935aff"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-myrla.world-character.ts","id":"01a0e9fa-2b5e-7643-94a4-00f8d89801e5"}
@@ -170,7 +172,9 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-jaus.lore.ts","id":"01a0e9fc-4337-7a7d-842f-65e809c1a495"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-jenice.lore.ts","id":"01a0e9fc-9998-7ff7-bdfb-7a0660d09a7e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-kaelis.lore.ts","id":"01a0e9fc-9998-72d2-8f6d-d9197d38eff9"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-kamus.lore.ts","id":"01a0e9fc-f50a-7b52-b74a-0c0d5c5a3f1a"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-keihonia.lore.ts","id":"01a0e9fa-5276-7922-8358-318e5a6c1ee1"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-khachi.lore.ts","id":"01a0e9fc-f50b-7a37-9883-0d1da1373078"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-knuld.lore.ts","id":"01a0e9f4-0047-7c65-bc2b-b122456fb6cd"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-levels.lore.ts","id":"01a0e9f5-a5d5-793c-bc32-493bc44b9eea"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-leviathan.lore.ts","id":"01a0e9fa-0d15-7d08-acac-eb60bf12a931"}
