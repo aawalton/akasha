@@ -10,6 +10,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-bathilde.world-character.ts","id":"01a0e9f7-b02d-78d0-b234-ea7c0a889796"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-bazan-dho-humal.world-character.ts","id":"01a0e9f8-0f1a-76ee-a2ca-44efb133c01f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-beatred.world-character.ts","id":"01a0e9f8-0f1a-781d-b7d7-d0c8a67d5e3b"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-bera-klenn.world-character.ts","id":"01a0ea04-05ed-7859-aeab-8cd5b1ddfd85"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-binga.world-character.ts","id":"01a0e9f8-0f1a-7296-971b-9dd445730a9d"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-brannoc-tull.world-character.ts","id":"01a0ea03-9afd-7440-b9c7-834d4d9760ca"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-brox.world-character.ts","id":"01a0e9f8-a114-7183-bc9a-a01c7e8585f0"}
@@ -80,6 +81,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-the-maestro.world-character.ts","id":"01a0e9fe-3d0f-79fc-8afc-c10c4bb9e169"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-thia.world-character.ts","id":"01a0e9fa-2b5f-7f75-b70a-921e3e5b12e8"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-tirien.world-character.ts","id":"01a0e9fb-6916-716f-be36-be1f656f2641"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-tobin-ashe.world-character.ts","id":"01a0ea04-05ed-7df9-97f0-518481f9e7eb"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-ushia.world-character.ts","id":"01a0e9f6-e50a-7fdc-b0f0-028d9d27bb01"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-vesh.world-character.ts","id":"01a0e9fd-9171-79f5-9814-de9ce3e337e0"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-vhala.world-character.ts","id":"01a0e9f5-cfae-7b09-8dad-912f07aa3222"}
@@ -111,6 +113,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-bathilde.lore.ts","id":"01a0e9f7-b02d-7569-878b-b35de7b7aab1"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-bazan-dho-humal.lore.ts","id":"01a0e9f8-0f1b-7f21-a670-2fafc16d0e68"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-beatred.lore.ts","id":"01a0e9f8-0f1b-75ab-a3a2-61dbaf073bce"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-bera-klenn.lore.ts","id":"01a0ea04-05ee-7817-8581-107660c81e2c"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-binga.lore.ts","id":"01a0e9f8-0f1b-7cea-98e6-bc3e75f1192c"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-birdfolk.lore.ts","id":"01a0e9f3-7322-7b79-aafb-70403eb47d0e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-blightmind.lore.ts","id":"01a0e9fc-aa24-79c8-b15c-d7b35b5601d1"}
@@ -314,6 +317,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-three-headed-centipede.lore.ts","id":"01a0e9ff-2b3d-75ff-997b-dab7f693fdbb"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-tigerman.lore.ts","id":"01a0e9f3-7322-7b74-a55e-8f463df581ac"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-tirien.lore.ts","id":"01a0e9fb-6916-753f-9478-0004361b448a"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-tobin-ashe.lore.ts","id":"01a0ea04-05ee-79b3-91ce-bf304b4a66b0"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-travel.lore.ts","id":"01a0e9fd-4951-7ead-9e45-126354162898"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-treeborn.lore.ts","id":"01a0e9f4-0047-7739-8ee3-fcdfe6281646"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-true-power.lore.ts","id":"01a0e9ff-67f6-7c64-8ffe-50de28fe7f72"}
