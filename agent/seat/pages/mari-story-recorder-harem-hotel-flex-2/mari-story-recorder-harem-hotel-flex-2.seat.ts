@@ -11,4 +11,5 @@ export const mariStoryRecorderHaremHotelFlex2 = {
   startMode: "seat-mode/headless",
   onCall: false,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "cb8dd9aa-7c66-484b-88fe-eed929cacbb8",
 } as const satisfies Seat
