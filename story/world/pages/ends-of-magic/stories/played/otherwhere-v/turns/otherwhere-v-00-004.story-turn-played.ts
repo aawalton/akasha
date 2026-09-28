@@ -11,4 +11,5 @@ export const otherwhereV00004 = {
   action:
     "I quietly make my way back to the hollow trunk and crawl inside, hoping the narrow passage and smell of decay will hide me from threats.",
   lore: ["place/otherwhere-v-fern-hollow", "lore/otherwhere-v-gloamcat"],
+  endsAt: "2026-09-28T19:01:00.000Z",
 } as const satisfies StoryTurnPlayed
