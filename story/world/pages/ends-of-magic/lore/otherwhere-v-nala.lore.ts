@@ -72,5 +72,9 @@ export const otherwhereVNala = {
       fact: "Nala landed in Fern Hollow in the late afternoon of day one.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A deep booming voice in no tongue Alan knew spoke inside his head, and then the chair was gone.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+    },
   ],
 } as const satisfies Lore

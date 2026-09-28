@@ -9,11 +9,11 @@ export const otherwhereVFernHollow = {
   facts: [
     {
       fact: "Fern Hollow is a bowl-shaped clearing in an old forest, floored with moss and ferns.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: "The hollow's trees are huge and straight, with bark like grey scales and bluish leaves.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: "A spring rises in the hollow's low side and runs off as a clear, cold brook.",
@@ -26,6 +26,18 @@ export const otherwhereVFernHollow = {
     {
       fact: "The brook runs down toward a woodcutters' track and, beyond it, a river valley.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A spring wells up between two roots on the hollow's low side and runs downhill as a clear brook.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+    },
+    {
+      fact: "Faint green lights drift under the canopy over the hollow as the light goes golden toward dusk.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+    },
+    {
+      fact: "Something unseen in the hollow's ferns ticks and clicks like a clock with too many hands.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
   ],
 } as const satisfies Place
