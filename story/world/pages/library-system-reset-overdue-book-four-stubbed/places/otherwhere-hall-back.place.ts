@@ -293,7 +293,7 @@ export const otherwhereHallBack = {
       ],
     },
     {
-      fact: "One sack of salt and a jar of honey sit at the edge of the gloom behind Nala.",
+      fact: "A jar of honey sits at the edge of the gloom behind Nala; no salt sacks are left there.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
@@ -309,19 +309,16 @@ export const otherwhereHallBack = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "Nala's robe, belt, pouch and slippers lie by the salt sacks at the edge of the gloom.",
+      fact: "Nala's robe, belt, pouch and slippers lie by the honey jar at the edge of the gloom.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "The big bookworm writhes with a whole salt sack lodged in its throat, far from finished.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "Nala is crusted in salt over honey from scalp to toes, her clothes set aside.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "The big bookworm's thrash left Nala winded on the hall floor, hurt deep and bad.",
+      fact: "Twice struck by the big bookworm's thrash, Nala aches all over and is hurting badly.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],
