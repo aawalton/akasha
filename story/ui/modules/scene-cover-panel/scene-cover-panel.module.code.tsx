@@ -18,7 +18,7 @@ import {
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import type { PlayedTurnCover } from "akasha/story/ui/played-panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import { ChevronLeft, ChevronRight, ChevronsLeft, ChevronsRight } from "lucide-react"
-import { type ReactNode, useState } from "react"
+import { type ReactNode, useEffect, useRef, useState } from "react"
 
 const ONE = 1
 
@@ -92,6 +92,18 @@ export function SceneCoverPanel({ turns, turnCovers }: ScenePanelProps) {
   const turnId = latestTurnId(turns)
   const [paged, setPaged] = useState<Paged | null>(null)
   const [viewing, setViewing] = useState(false)
+  const stepping = useRef<(step: Step) => void>(() => undefined)
+  useEffect(() => {
+    if (!viewing) return
+    const onKey = (event: KeyboardEvent) => {
+      const step = keyStep(event.key)
+      if (step === null) return
+      event.preventDefault()
+      stepping.current(step)
+    }
+    window.addEventListener("keydown", onKey, true)
+    return () => window.removeEventListener("keydown", onKey, true)
+  }, [viewing])
   const covers = turnCoversOf(turnCovers)
   if (turnId === null || covers.length === 0) return null
   const at = pagedAt(covers, pickedFor(paged, turnId))
@@ -118,6 +130,7 @@ export function SceneCoverPanel({ turns, turnCovers }: ScenePanelProps) {
     const to = steppedTo(covers, at, step)
     if (to !== undefined) setPaged({ from: turnId, to: to.id })
   }
+  stepping.current = goTo
   return (
     <SurfaceProvider level={1} className="flex flex-col gap-3 rounded-xl p-4 shadow-sm">
       <Dialog open={viewing} onOpenChange={setViewing}>
@@ -125,12 +138,6 @@ export function SceneCoverPanel({ turns, turnCovers }: ScenePanelProps) {
           variant="bare"
           showCloseButton
           className="max-h-[95vh] items-center sm:max-w-[95vw] [&>[data-slot=dialog-close]]:rounded-full [&>[data-slot=dialog-close]]:bg-black/60 [&>[data-slot=dialog-close]]:p-2 [&>[data-slot=dialog-close]]:text-white"
-          onKeyDown={(event) => {
-            const step = keyStep(event.key)
-            if (step === null) return
-            event.preventDefault()
-            goTo(step)
-          }}
         >
           <DialogTitle className="sr-only">Turn {shown.number}</DialogTitle>
           <img
