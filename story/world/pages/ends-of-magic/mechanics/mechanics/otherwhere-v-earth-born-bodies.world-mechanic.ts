@@ -6,5 +6,5 @@ export const otherwhereVEarthBornBodies = {
   slug: "otherwhere-v-earth-born-bodies",
   title: "Earth-Born Bodies",
   world: "world/ends-of-magic",
-  description: "How the body of someone born on Earth meets the magic of Davrar.",
+  description: "The bodies of people born on Earth.",
 } as const satisfies WorldMechanic

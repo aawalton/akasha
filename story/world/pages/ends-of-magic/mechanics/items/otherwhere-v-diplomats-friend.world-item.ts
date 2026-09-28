@@ -6,5 +6,5 @@ export const otherwhereVDiplomatsFriend = {
   slug: "otherwhere-v-diplomats-friend",
   title: "Diplomat's Friend",
   world: "world/ends-of-magic",
-  description: "A small vial of reagent used to test a drink for poison.",
+  description: "A small vial of poison-testing reagent.",
 } as const satisfies WorldItem

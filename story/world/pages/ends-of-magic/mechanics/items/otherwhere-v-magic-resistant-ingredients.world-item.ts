@@ -6,5 +6,5 @@ export const otherwhereVMagicResistantIngredients = {
   slug: "otherwhere-v-magic-resistant-ingredients",
   title: "Magic-Resistant Alchemical Ingredients",
   world: "world/ends-of-magic",
-  description: "Alchemical substances that make whatever they permeate hard for magic to affect.",
+  description: "Magic-resistant alchemical substances.",
 } as const satisfies WorldItem

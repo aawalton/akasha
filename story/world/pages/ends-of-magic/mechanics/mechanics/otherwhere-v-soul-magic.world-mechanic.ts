@@ -6,5 +6,5 @@ export const otherwhereVSoulMagic = {
   slug: "otherwhere-v-soul-magic",
   title: "Soul Magic",
   world: "world/ends-of-magic",
-  description: "Magic that works on a person's soul itself.",
+  description: "Magic of the soul.",
 } as const satisfies WorldMechanic

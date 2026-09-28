@@ -7,5 +7,5 @@ export const otherwhereVMentalMagic = {
   title: "Mental Magic",
   world: "world/ends-of-magic",
   aliases: ["mind magic", "mind control", "mental skills"],
-  description: "Magic that reads, changes or commands the mind.",
+  description: "Magic of the mind.",
 } as const satisfies WorldMechanic

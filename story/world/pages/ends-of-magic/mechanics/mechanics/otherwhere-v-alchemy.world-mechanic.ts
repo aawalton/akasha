@@ -7,5 +7,5 @@ export const otherwhereVAlchemy = {
   title: "Alchemy",
   world: "world/ends-of-magic",
   aliases: ["potions", "reagents"],
-  description: "The making of potions and magical reagents from prepared ingredients.",
+  description: "The craft of potions and magical reagents.",
 } as const satisfies WorldMechanic
