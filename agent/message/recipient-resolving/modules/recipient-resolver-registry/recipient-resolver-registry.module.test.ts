@@ -80,3 +80,14 @@ test("the text handlers' specs sit beside the game seats", async () => {
   expect(names).toContain(handlerSeatName("ki", ROOT))
   expect(names).toContain(handlerSeatName("jenny", ROOT))
 })
+
+test("a written story's game master is started by a notice, never by the action bar", () => {
+  const master = "mari-game-master-a-book"
+  const [spec] = gameSeatSpecs([
+    { game: "a-book", master, persona: "mari", builder: null, writer: null, played: false },
+  ])
+  const hears = (sender: string) =>
+    spec?.wakeSources.some((rule) => ruleMatches(rule, { sender, content: "" })) ?? false
+  expect(hears(`agent:${STEP_SENDER}`)).toBe(true)
+  expect(hears(`agent:${ACTION_BAR_SENDER}`)).toBe(false)
+})

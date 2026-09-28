@@ -34,6 +34,8 @@ const ROOT = rootFor(resolveRoots(), AKASHA)
 
 const STORY = "story"
 
+const STORY_PLAYED = "story-played"
+
 const GAME_MASTER = "game-master"
 
 const WORLD_BUILDER = "world-builder"
@@ -48,6 +50,7 @@ interface GameSeats {
   readonly persona: string | null
   readonly builder: string | null
   readonly writer: string | null
+  readonly played?: boolean
 }
 
 function seatOf(persona: string, role: string, game: string, root: string): string | null {
@@ -66,15 +69,19 @@ function personaOf(master: string, game: string, root: string): string | null {
 
 export function gameSeatsIn(root: string): readonly GameSeats[] {
   const found: GameSeats[] = []
-  const kinds = [...kindsUnder(STORY, readingIn(root))].sort()
-  for (const { value } of kinds.flatMap((kind) => valuesOfType(root, kind))) {
-    const game = value["slug"]
-    const master = value["coordinatorAgent"]
-    if (typeof game !== "string" || typeof master !== "string" || master === "") continue
-    const persona = personaOf(master, game, root)
-    const builder = persona === null ? null : seatOf(persona, WORLD_BUILDER, game, root)
-    const writer = persona === null ? null : seatOf(persona, WRITER, game, root)
-    found.push({ game, master, persona, builder, writer })
+  const reading = readingIn(root)
+  const kinds = [...kindsUnder(STORY, reading)].sort()
+  const playedKinds = kindsUnder(STORY_PLAYED, reading)
+  for (const kind of kinds) {
+    for (const { value } of valuesOfType(root, kind)) {
+      const game = value["slug"]
+      const master = value["coordinatorAgent"]
+      if (typeof game !== "string" || typeof master !== "string" || master === "") continue
+      const persona = personaOf(master, game, root)
+      const builder = persona === null ? null : seatOf(persona, WORLD_BUILDER, game, root)
+      const writer = persona === null ? null : seatOf(persona, WRITER, game, root)
+      found.push({ game, master, persona, builder, writer, played: playedKinds.has(kind) })
+    }
   }
   return found
 }
@@ -106,18 +113,18 @@ function gameSeatSpec(
 }
 
 export function gameSeatSpecs(seats: readonly GameSeats[]): readonly OnDemandAgentSpec[] {
-  return seats.flatMap(({ game, master, persona, builder, writer }) => {
+  return seats.flatMap(({ game, master, persona, builder, writer, played }) => {
     const startAs = (role: string): FirstStart | null =>
       persona === null ? null : { persona, role, domain: game, principal: ACTION_BAR_PLAYER }
-    const bar = heardFrom(master, ACTION_BAR_SENDER, "action-bar")
+    const bar = played === false ? [] : [heardFrom(master, ACTION_BAR_SENDER, "action-bar")]
     const noticed = heardFrom(master, STEP_SENDER, STEP_SENDER)
     const specs = [
       gameSeatSpec(
         master,
         game,
         builder === null
-          ? [bar, noticed]
-          : [bar, noticed, heardFrom(master, builder, WORLD_BUILDER)],
+          ? [...bar, noticed]
+          : [...bar, noticed, heardFrom(master, builder, WORLD_BUILDER)],
         startAs(GAME_MASTER)
       ),
     ]

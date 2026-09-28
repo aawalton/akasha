@@ -18,6 +18,10 @@ export const recipientResolverRegistry = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Only a played story's game master is started by the action bar.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A world builder seat is started by its game's game master.",
     },
     {
