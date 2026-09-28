@@ -61,6 +61,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-dracolizard.lore.ts","id":"01a0e9f8-965e-7052-9329-b2fc13974c65"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-dragon.lore.ts","id":"01a0e9f8-f7c6-711c-838b-63ee27eebf5f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-dragonwolf.lore.ts","id":"01a0e9f8-965f-79b1-a734-775d07cac990"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-earth-born-bodies.lore.ts","id":"01a0e9f9-19f5-7504-a9e2-47d60483f680"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-earth-born.lore.ts","id":"01a0e9f6-d213-7854-95cf-fd845269d68c"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-edicts.lore.ts","id":"01a0e9f4-c9f7-76cb-87ef-1e2091c3743b"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-elemental-folk.lore.ts","id":"01a0e9f4-fc80-7f28-b389-0e2387029ba8"}
@@ -128,6 +129,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-classes.world-mechanic.ts","id":"01a0e9f4-b58b-76b0-96e5-32ad38b6c219"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-disadvantage.world-mechanic.ts","id":"01a0e9f8-2dc5-7fde-9692-2083432d174f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-divinity.world-mechanic.ts","id":"01a0e9f5-6823-7501-9e2c-53a3f7d54e97"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-earth-born-bodies.world-mechanic.ts","id":"01a0e9f9-19f6-7e95-83ff-005c3b729b9c"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-edicts.world-mechanic.ts","id":"01a0e9f4-c9f8-7c27-b143-eab51f422edd"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-enchanting.world-mechanic.ts","id":"01a0e9f6-5822-75da-b38b-3df12678db92"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-golems.world-mechanic.ts","id":"01a0e9f6-a23b-75ba-870a-527fc9ea0488"}
