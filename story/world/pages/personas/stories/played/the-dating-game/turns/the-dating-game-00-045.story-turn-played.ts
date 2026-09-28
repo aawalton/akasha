@@ -11,7 +11,7 @@ export const theDatingGame00045 = {
   position: 45,
   prose: "txt",
   characters: ["character-other/the-dating-game-aelwyn", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "I take one. \"Thank you. That's really cool. Are you open to new clients? I've been wanting to get in better shape, but I definitely need some personalization for the process.\"",
   beats: [
@@ -27,6 +27,6 @@ export const theDatingGame00045 = {
   ],
   lore: ["lore/the-dating-game-aelwyn"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture", "story-recorder/memory"],
   endsAt: "2026-09-27T10:41:00.000Z",
 } as const satisfies StoryTurnPlayed

@@ -93,5 +93,45 @@ export const theDatingGameAelwyn = {
       fact: "Provo takes Aelwyn's long elven ears for a good prosthetic, and she never corrects it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Alan asked Aelwyn to coach him into better shape, and she took him on as a client.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-aelwyn",
+      ],
+    },
+    {
+      fact: "Aelwyn coaches only with personalized plans: everybody's quest is different.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-aelwyn",
+      ],
+    },
+    {
+      fact: "Aelwyn coaches one step at a time, giving the next only once the last is got.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-aelwyn",
+      ],
+    },
+    {
+      fact: "Alan has Aelwyn's card: AELWYN, COACHING FOR HEROES, a phone number and a small inked leaf.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-aelwyn",
+      ],
+    },
+    {
+      fact: "Aelwyn set Alan's step one: on the walk down, notice how his feet land.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-aelwyn",
+      ],
+    },
   ],
 } as const satisfies Lore
