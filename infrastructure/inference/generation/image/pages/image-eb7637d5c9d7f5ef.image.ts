@@ -4,6 +4,8 @@ export const imageEb7637d5c9d7f5ef = {
   id: "01a0e9e2-d4f0-7cb6-a97c-e656d0371daf",
   type: "page-type/image",
   slug: "image-eb7637d5c9d7f5ef",
+  title: "Lavender Hair, Cherries and an E-Reader",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
