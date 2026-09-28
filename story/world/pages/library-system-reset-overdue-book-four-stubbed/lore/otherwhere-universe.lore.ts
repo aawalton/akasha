@@ -237,6 +237,10 @@ export const otherwhereUniverse = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Gathering and sorting a section at a time, as a practiced shelver does, doubles that pace.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The Library's kitchen stores sacks of salt.",
       knowers: [
         "lore-disclosure/game-master",
