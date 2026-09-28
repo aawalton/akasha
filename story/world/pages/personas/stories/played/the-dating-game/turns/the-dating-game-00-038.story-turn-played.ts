@@ -21,4 +21,6 @@ export const theDatingGame00038 = {
     "She turns toward the far gate, the lantern swinging low at her side.",
     "Its small gold light moves off between the dark rows of stones, under the pines.",
   ],
+  issues: ['"Its small gold light moves off between the dark rows of stones" - Leave It Open'],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
