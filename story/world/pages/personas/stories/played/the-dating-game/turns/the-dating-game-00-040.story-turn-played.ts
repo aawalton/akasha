@@ -25,5 +25,6 @@ export const theDatingGame00040 = {
   issues: ['"the lobby lies dim and still, the whole building shut for the day" - Leave It Open'],
   lore: ["place/the-dating-game-provo-recreation-center"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  endsAt: "2026-09-27T09:15:00.000Z",
 } as const satisfies StoryTurnPlayed
