@@ -5,5 +5,5 @@ export const whatLiftsTheLowFeelingModifier = {
   type: "page-type/all-about-alan-question",
   slug: "what-lifts-the-low-feeling-modifier",
   topic: "all-about-alan-topic/the-low-feeling-that-costs-me-a-level",
-  ask: "Reading my record returns the fact of what I did and not the experience, and no other counter has been named. What actually lifts the modifier?",
+  ask: "Reading my record returns the fact of what I did and not the experience, and naming the weight helps some. What else actually lifts the modifier?",
 } as const satisfies AllAboutAlanQuestion
