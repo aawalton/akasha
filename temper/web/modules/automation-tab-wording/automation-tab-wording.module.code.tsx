@@ -80,7 +80,7 @@ export function SubHeading({ children }: { children: React.ReactNode }) {
 }
 
 export type CharToggleItem = BadgeToggleGroupItem & { value: keyof CharacterAutomationToggles }
-export type CompToggleItem = BadgeToggleGroupItem & { value: keyof CompanionAutomationToggles }
+type CompToggleItem = BadgeToggleGroupItem & { value: keyof CompanionAutomationToggles }
 
 export const CONSUMABLE_SLUGS: CharToggleItem[] = [
   { value: "food", label: automationTabFood.slug },
