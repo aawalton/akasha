@@ -19,6 +19,26 @@ export const otherwhereVElothia = {
       fact: "Hillboars are among the bigger game of Elothia.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Elothia's settled rim is a thin belt of river villages and towns at the edge of vast forest.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Beyond the settled rim, Elothia's forests hold dungeons and monsters no one has counted.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The folk of the settled rim speak Elothian and pay in copper, silver and rare gold coin.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Serrin Vale is one river valley on Elothia's settled rim, far from any great power.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Elothian Rangers keep lodges in the rim's villages and clear the dungeons near them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
