@@ -20,6 +20,10 @@ export const otherwhereMainHall = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
+      fact: "Some three thousand scattered books lie across the main hall, waiting to be reshelved.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The main hall is dimly lit, brighter once a Librarian syncs, and gloomy beyond the entrance.",
       knowers: ["lore-disclosure/game-master"],
     },

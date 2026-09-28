@@ -161,6 +161,18 @@ export const otherwhereUniverse = {
       ],
     },
     {
+      fact: "Each patron the Library serves, once its doors reopen, gives it a little power.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Library's doors reopen to patrons only once the Check-in Counter fully works.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Check-in Counter comes fully back at 75 power.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The Library's kitchen stores sacks of salt.",
       knowers: [
         "lore-disclosure/game-master",
