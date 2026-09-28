@@ -296,6 +296,10 @@ export const otherwhereUniverse = {
       fact: "With the Counter restored, the Library sets its next task: Reopen the Library, serve a patron.",
       knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
     },
+    {
+      fact: "Nala's next sync will show her what the Library wants of her next, as tasks in its words.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

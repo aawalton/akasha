@@ -177,7 +177,7 @@ export const otherwhereCoreChamber = {
     },
     {
       fact: "When the Library has grown enough, a window in her vision asks her to come to the core and sync.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "With emergency protocols ended, the walk to the trunk is an ordinary walk across the floor.",
@@ -265,6 +265,14 @@ export const otherwhereCoreChamber = {
     },
     {
       fact: "The panel read: Synchronization Complete",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "A window read: Synchronization Requested. Proceed to the core.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "A Librarian who ignores the Library's request to sync is asked again and again.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],
