@@ -120,5 +120,58 @@ export const otherwhereSystem = {
       fact: "Chests in a tutorial are graded by color and hold rewards such as a first ability.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The System is a vast impersonal intelligence that integrates worlds and their living species.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The System prizes strength through conflict and rewards effort in proportion to the danger faced.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "System script is runic, all sharp points and curves, yet every contestant can read it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Every integrated person is called a contestant and is tracked on a contestant profile.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The System speaks with dry, sometimes playful humour, growing more colourful over time.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A contestant can address the System aloud to confirm choices, spend points or redeem vouchers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hidden objectives and secret rewards reward those who look closer than everyone else.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The best prizes the System offers are usually paired with the greatest danger.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The System names places literally, as clues to their chief hazard.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Worlds have levels, and the System pays out planetary experience for great deeds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Earth took 4.543 billion years to refine enough cosmic energy to reach level one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The System found no higher lifeform on Earth and took humans as its dominant species.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The System rejuvenated survivors over fifty, and set fifty as the oldest any would be.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
+  secrets: "jsonl",
 } as const satisfies Lore
