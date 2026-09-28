@@ -324,11 +324,11 @@ export const otherwhereHallBack = {
     },
     {
       fact: "Salt from the burst sack lies scattered round Nala, and the burned big bookworm keeps clear of it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "The honey keeps the big bookworm restless all night, roaring now and then from the gloom.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Overnight the big bookworm gags off its salt and heals half the harm it has taken.",
