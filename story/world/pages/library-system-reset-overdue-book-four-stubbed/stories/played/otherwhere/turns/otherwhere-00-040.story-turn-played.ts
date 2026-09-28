@@ -7,7 +7,15 @@ export const otherwhere00040 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 40,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action: "I take a loaf, and then eat chunks of it while I walk around to explore.",
+  beats: [
+    "Nala takes a loaf and tears off a chunk: the bread is dense and nutty, its crust glazed in honey.",
+    "Eating as she goes, she wanders the kitchen under the hanging copper pots.",
+    "A wide door opens onto a long staff dining hall, dim, its tables under dust sheets.",
+    "At the kitchen's far end, beside the great oven, is a low door; she ducks through it.",
+    "It is a pantry: jars of honey on the shelves, bins of roots and vegetables along the wall.",
+    "Stacked in the corner are a dozen sacks of coarse salt, each about twenty pounds.",
+  ],
   lore: ["place/otherwhere-kitchen"],
 } as const satisfies StoryTurnPlayed
