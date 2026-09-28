@@ -159,6 +159,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "A woman muttering in a corner is common in an ER before dawn, and no one looks twice.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The waiting-room TV runs a Chicago morning channel on mute, captioned: news, weather and ads.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
