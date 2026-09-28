@@ -27,4 +27,5 @@ export const otherwhere00052 = {
   issues: ['"Afterward you lie boneless in water gone lukewarm" - Leave It Open'],
   lore: ["lore/otherwhere-links"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
