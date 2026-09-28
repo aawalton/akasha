@@ -10,7 +10,7 @@ export const theDatingGame00040 = {
   position: 40,
   prose: "txt",
   characters: ["character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action:
     "In the morning, I wake up and go through my normal routine, then decide to go to the Provo Rec Center to work out.",
   beats: [
@@ -23,6 +23,7 @@ export const theDatingGame00040 = {
     "A sign on the glass gives the hours: Monday to Saturday, 5 AM to 10 PM. Closed Sundays.",
     "Beyond the glass the lobby lies dim and still, the whole building shut for the day.",
   ],
+  issues: ['"the lobby lies dim and still, the whole building shut for the day" - Leave It Open'],
   lore: ["place/the-dating-game-provo-recreation-center"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
