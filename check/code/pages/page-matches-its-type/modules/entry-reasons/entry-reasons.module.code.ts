@@ -156,13 +156,21 @@ export function noMemberIn(slug: string): string {
 
 export function fieldsReading(paged: Paged, pageFor: (one: Carried) => Value | null): Fielding {
   const entried = entriedIn(paged)
-  return (one) => {
+  const held = new WeakMap<Carried, Opened>()
+  const opened = (one: Carried): Opened => {
     if (entried.has(one.pageTypeSlug)) return NOTHING_OPENED
     const page = pageFor(one)
     if (page === null) return NOTHING_OPENED
     if (one.pageTypeSlug === ONE_OF) return openedAmong(page, paged)
     const fields = fieldsFor(page, paged, one.pagePropertySlug)
     return fields.size === 0 ? NOTHING_OPENED : { among: [], fields, plain: false }
+  }
+  return (one) => {
+    const found = held.get(one)
+    if (found !== undefined) return found
+    const made = opened(one)
+    held.set(one, made)
+    return made
   }
 }
 
