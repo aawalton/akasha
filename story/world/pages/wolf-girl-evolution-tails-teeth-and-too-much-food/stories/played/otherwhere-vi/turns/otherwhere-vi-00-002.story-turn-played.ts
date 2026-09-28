@@ -34,5 +34,5 @@ export const otherwhereVi00002 = {
   issues: ['"You are in a wet, freezing hollow, with a status and nothing else." - Leave It Open'],
   lore: ["lore/otherwhere-vi-system", "lore/otherwhere-vi-nala"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
