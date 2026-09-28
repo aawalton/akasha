@@ -4,10 +4,13 @@ export const otherwhereViii00003 = {
   id: "01a0ea59-b1a3-71bb-9d2e-d2886a26adf4",
   type: "page-type/story-turn-played",
   slug: "otherwhere-viii-00-003",
+  ownLength: 239,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-viii"],
   position: 3,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-viii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "\"Just a hard night I think. The gardens are lovely, but I don't think I've been here before. Would you point me the way back to the Academy?\"",
   beats: [
