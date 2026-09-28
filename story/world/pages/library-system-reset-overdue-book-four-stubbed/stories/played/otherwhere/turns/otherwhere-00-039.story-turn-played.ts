@@ -4,13 +4,14 @@ export const otherwhere00039 = {
   id: "01a0e559-09a7-7c41-a232-2aa0086de381",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-039",
+  cover: "image/image-b123de6b4cc59c57",
   ownLength: 125,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 39,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "I put on a robe and slippers and tie it closed with the belt, bringing the pouch along for good measure, then go looking for the bread.",
   beats: [
@@ -24,5 +25,5 @@ export const otherwhere00039 = {
   ],
   lore: ["place/otherwhere-kitchen", "lore/otherwhere-universe"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed

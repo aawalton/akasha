@@ -242,6 +242,10 @@ export const otherwhereMainHall = {
       fact: "As the first bookworm dried still, the hall's gold light brightened a shade.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
+    {
+      fact: "The wardrobe's felt slippers are soft on Nala, and a little big.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
