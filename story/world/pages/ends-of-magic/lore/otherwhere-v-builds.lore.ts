@@ -29,6 +29,10 @@ export const otherwhereVBuilds = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "A mental protection skill fed with Focus can block an inspection; the probe feels a scratch.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "An antimagic build was long thought a short path, soon outmatched by wizardry.",
       knowers: ["lore-disclosure/game-master"],
     },

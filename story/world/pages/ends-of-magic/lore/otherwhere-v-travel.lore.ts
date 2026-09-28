@@ -153,6 +153,14 @@ export const otherwhereVTravel = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Since Travel, fewer Questors are true mages; they once needed magic to cross Davrar.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Without Travel, Questors could not hold so many Seals across Davrar.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "A killed Questor respawns elsewhere, possibly on a distant continent.",
       knowers: ["lore-disclosure/game-master"],
     },
