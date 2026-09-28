@@ -80,6 +80,10 @@ export const otherwhereNala = {
       fact: "She has no shoes.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
     },
+    {
+      fact: "Nala came to on the Black Shore at twenty to ten in the morning of day one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
