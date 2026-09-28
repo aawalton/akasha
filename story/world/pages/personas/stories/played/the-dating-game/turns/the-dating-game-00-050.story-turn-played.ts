@@ -23,4 +23,5 @@ export const theDatingGame00050 = {
     "Where the street crests, the whole valley opens out below, Utah Lake shining at its far edge.",
   ],
   lore: ["place/the-dating-game-apple-avenue"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
