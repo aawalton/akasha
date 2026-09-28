@@ -18,6 +18,7 @@ export const worldMechanic = {
     "module/dice-throwing",
     "module/linear-stat",
     "module/strike-resolution",
+    "module/time-passing",
     "module/banded-roll",
     "number-property/paragraph",
     "number-property/reference-level",
