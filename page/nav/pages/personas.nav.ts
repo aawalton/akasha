@@ -6,6 +6,6 @@ export const personas = {
   slug: "personas",
   title: "Personas",
   icon: "UsersRound",
-  navPlace: 0,
+  navPlace: 1,
   app: "web-app/alanwalton-web",
 } as const satisfies Nav
