@@ -158,3 +158,4 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
 {"propertySlug":"target-page-type","path":"story/world/stories/played/properties/world.relation-property.ts","id":"01a06424-329c-7149-a41a-d7dec22745d0"}
+{"propertySlug":"view-embedded-by","path":"page/view/pages/world-stories.view.ts","id":"01a0e9c6-3fbc-7b4f-b27d-44dd84d29b65"}

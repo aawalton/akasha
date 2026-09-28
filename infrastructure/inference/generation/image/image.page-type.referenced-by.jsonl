@@ -9023,5 +9023,6 @@
 {"propertySlug":"target-page-type","path":"persona/properties/mobile-wallpaper.relation-property.ts","id":"01a0c61d-f8be-7dee-97dc-2a9bb1313d4f"}
 {"propertySlug":"target-page-type","path":"persona/properties/wallpaper-images.multi-relation-property.ts","id":"01a0c5ea-7c84-7389-9d04-e2eab5c35196"}
 {"propertySlug":"target-page-type","path":"story/world/stories/played/properties/cover-reroll.relation-property.ts","id":"01a0e84e-3f8e-74cf-b543-8711abba573e"}
+{"propertySlug":"view-page-type","path":"page/view/pages/album-images.view.ts","id":"01a0e9c6-3fbb-7211-9f22-8ba1fee24599"}
 {"propertySlug":"view-page-type","path":"page/view/pages/images-all.view.ts","id":"01a0e48f-7bc2-7f56-b6b4-270084dafdeb"}
 {"propertySlug":"view-page-type","path":"page/view/pages/images-best.view.ts","id":"01a0e48f-7bc2-7899-a9f5-ed8ff631102a"}

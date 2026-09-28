@@ -12,3 +12,4 @@
 {"propertySlug":"target-page-type","path":"story/world/characters/properties/character-story.relation-property.ts","id":"01a0c9f1-197c-735b-a3bb-c0c588585617"}
 {"propertySlug":"target-page-type","path":"story/world/mechanics/items/story-item/properties/item-story.relation-property.ts","id":"01a0ca51-ab29-7dac-baca-b90af4d97847"}
 {"propertySlug":"target-page-type","path":"story/world/mechanics/traits/properties/trait-story.relation-property.ts","id":"01a0ca5d-386f-769b-ae6d-140a51fa8fe8"}
+{"propertySlug":"view-page-type","path":"page/view/pages/world-stories.view.ts","id":"01a0e9c6-3fbc-7b4f-b27d-44dd84d29b65"}

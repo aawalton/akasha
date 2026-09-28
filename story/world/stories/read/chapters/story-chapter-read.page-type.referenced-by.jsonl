@@ -19550,3 +19550,4 @@
 {"propertySlug":"import","fileName":"story-chapter-read.page-type.types.ts","path":"story/world/stories/read/chapters/pages/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0091-091-prodigy/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0091-091-prodigy.story-chapter-read.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/stories/read/story-read.page-type.ts","id":"01a06554-d8bd-7235-9a9d-e26d4823e6d0"}
 {"propertySlug":"view-page-type","path":"page/view/pages/chapters-unread.view.ts","id":"01a0e996-9366-76d4-aa46-5033bbb97da0"}
+{"propertySlug":"view-page-type","path":"page/view/pages/story-read-chapters.view.ts","id":"01a0e9c6-3fbb-7c1a-bd82-1dec2dd7777d"}

@@ -19,4 +19,5 @@
 {"propertySlug":"import","fileName":"story-written.page-type.types.ts","path":"story/world/pages/tower-and-the-star/stories/written/tower-and-the-star/tower-and-the-star.story-written.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-written.page-type.types.ts","path":"story/world/pages/tower-of-nimue/stories/written/tower-of-nimue/tower-of-nimue.story-written.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
+{"propertySlug":"view-embedded-by","path":"page/view/pages/story-written-chapters.view.ts","id":"01a0e9c6-3fbc-7ea1-aef6-35af31e72063"}
 {"propertySlug":"view-page-type","path":"page/view/pages/stories-written.view.ts","id":"01a0e4a3-d9bb-7aae-9b58-d54bbc864314"}

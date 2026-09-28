@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"image-album.page-type.types.ts","path":"infrastructure/inference/generation/image/album/pages/persona-sunbathing.image-album.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/inference/generation/image/image.page-type.ts","id":"019f14c3-27e4-7b72-bc0c-6e12bbd8577a"}
 {"propertySlug":"target-page-type","path":"infrastructure/inference/generation/image/properties/image-albums.multi-relation-property.ts","id":"01a0e947-5ee0-7880-974f-e21317180c28"}
+{"propertySlug":"view-embedded-by","path":"page/view/pages/album-images.view.ts","id":"01a0e9c6-3fbb-7211-9f22-8ba1fee24599"}
 {"propertySlug":"view-page-type","path":"page/view/pages/albums-all.view.ts","id":"01a0e95e-5b53-7050-a10a-c8d61e4a294e"}

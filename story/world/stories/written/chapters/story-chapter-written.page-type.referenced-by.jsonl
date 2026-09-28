@@ -127,3 +127,4 @@
 {"propertySlug":"import","fileName":"story-chapter-written.page-type.types.ts","path":"story/world/pages/tower-of-nimue/stories/written/tower-of-nimue/chapters/tower-of-nimue-001-the-first-hour.story-chapter-written.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-chapter-written.page-type.types.ts","path":"story/world/pages/tower-of-nimue/stories/written/tower-of-nimue/chapters/tower-of-nimue-002-the-open-eye.story-chapter-written.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/stories/written/story-written.page-type.ts","id":"01a06554-d8bd-7502-a414-fd4fd32eba45"}
+{"propertySlug":"view-page-type","path":"page/view/pages/story-written-chapters.view.ts","id":"01a0e9c6-3fbc-7ea1-aef6-35af31e72063"}

@@ -148,4 +148,5 @@
 {"propertySlug":"import","fileName":"story-read.page-type.types.ts","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/stories/read/wolf-girl-evolution-tails-teeth-and-too-much-food/wolf-girl-evolution-tails-teeth-and-too-much-food.story-read.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-read.page-type.types.ts","path":"story/world/pages/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/stories/read/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg.story-read.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
+{"propertySlug":"view-embedded-by","path":"page/view/pages/story-read-chapters.view.ts","id":"01a0e9c6-3fbb-7c1a-bd82-1dec2dd7777d"}
 {"propertySlug":"view-page-type","path":"page/view/pages/stories-read.view.ts","id":"01a0e4a3-fd80-71ee-8f9b-20a086f6a0ee"}
