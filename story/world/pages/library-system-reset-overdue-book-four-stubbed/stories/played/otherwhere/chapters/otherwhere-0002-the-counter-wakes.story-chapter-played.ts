@@ -1,0 +1,32 @@
+import type { StoryChapterPlayed } from "akasha/story/world/stories/played/chapters/story-chapter-played.page-type.types.ts"
+
+export const otherwhere0002TheCounterWakes = {
+  id: "01a0e811-e0b3-731a-aec7-c4f246e84df5",
+  type: "page-type/story-chapter-played",
+  slug: "otherwhere-0002-the-counter-wakes",
+  position: 2,
+  unit: "unit/words",
+  title: "The Counter Wakes",
+  story: "story-played/otherwhere",
+  ownLength: 1865,
+  prose: "txt",
+  turnCovers: [
+    { position: 50, cover: "image/image-293abe62037caf83" },
+    { position: 51, cover: "image/image-fd5da9c6f28f5ed0" },
+    { position: 52, cover: "image/image-e6f42c41d2022e19" },
+    { position: 53, cover: "image/image-1535cf5af0e34249" },
+    { position: 54, cover: "image/image-a8bd2711c809a3ee" },
+    { position: 55, cover: "image/image-b8fb620bedcb8adb" },
+    { position: 56, cover: "image/image-ae6097f648a7e8e6" },
+    { position: 57, cover: "image/image-17ff1f904527c729" },
+    { position: 58, cover: "image/image-bd50eeb674c54a50" },
+    { position: 59, cover: "image/image-e70c43c6c7c408fd" },
+    { position: 60, cover: "image/image-f7d67eb9e0f6db84" },
+    { position: 61, cover: "image/image-916ccb5f2f1ae20e" },
+    { position: 62, cover: "image/image-7c73e14f7686968c" },
+    { position: 63, cover: "image/image-0334724495d82782" },
+  ],
+  lastTurn: "otherwhere-00-063",
+  lastTurnPosition: 63,
+  endsAt: "2026-09-28T13:52:00.000Z",
+} as const satisfies StoryChapterPlayed
