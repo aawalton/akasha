@@ -4,13 +4,14 @@ export const otherwhereVii00004 = {
   id: "01a0ea51-412d-7b89-ac19-0a6ce200afd7",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vii-00-004",
+  cover: "image/image-0a0d11b731f4a469",
   ownLength: 470,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vii"],
   position: 4,
   prose: "txt",
   characters: ["character-player/otherwhere-vii-nala", "character-other/otherwhere-vii-ennis"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: '"I\'ll take the ride, but keep the shirt, thanks."',
   beats: [
     "Nala tells the carter she'll take the ride, but keep the shirt, thanks.",
@@ -45,6 +46,6 @@ export const otherwhereVii00004 = {
     "place/otherwhere-vii-ashford",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T07:00:00.000Z",
 } as const satisfies StoryTurnPlayed
