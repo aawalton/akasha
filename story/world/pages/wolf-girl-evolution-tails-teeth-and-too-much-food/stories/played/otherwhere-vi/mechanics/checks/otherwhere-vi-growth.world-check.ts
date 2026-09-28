@@ -74,5 +74,50 @@ export const otherwhereViGrowth = {
       decisionKind: "decision-kind/departure",
       statement: "Her level and progress are written on their pages before the turn moves on.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A monster's core eaten counts as a meal of that beast, and never twice for one beast.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A slime's core burns the mouth as a light blow; a corrupted core poisons as a solid one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A leyline crystal eaten gives back five MP and nothing more.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Plain food, weak beasts' meat and plants feed hunger only, and give no growth.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A person has no Beast Constitution, so spice and cooked food never poison her.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A person's first Class is offered from level 5, after a week spent at one pursuit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The System offers two or three Classes fitted to that pursuit, and she picks or waits.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A Class gives one skill fitted to it, and sends her level's points to its stats.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "At the cap a person asks the System to advance her Class, somewhere safe, as a beast evolves.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Advancing lifts her Tier and cap, resets her level to one, and keeps her race.",
+    },
   ],
 } as const satisfies WorldCheck
