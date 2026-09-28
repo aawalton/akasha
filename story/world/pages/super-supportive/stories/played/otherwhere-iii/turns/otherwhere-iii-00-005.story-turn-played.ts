@@ -7,7 +7,8 @@ export const otherwhereIii00005 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
   position: 5,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Out West, small town in the mountains. Lots of nature but less in the way of opportunities.”",
+  lore: ["lore/otherwhere-iii-denise-pruitt", "place/otherwhere-iii-uptown-memorial-er"],
 } as const satisfies StoryTurnPlayed
