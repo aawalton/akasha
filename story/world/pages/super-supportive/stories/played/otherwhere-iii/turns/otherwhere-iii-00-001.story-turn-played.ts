@@ -16,6 +16,6 @@ export const otherwhereIii00001 = {
     "place/otherwhere-iii-chicago",
     "place/otherwhere-iii-belmont-platform",
   ],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2037-01-31T04:45:00.000Z",
 } as const satisfies StoryTurnPlayed
