@@ -75,6 +75,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "A patient with no last name or birth date is logged as a Doe until she gives them.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Frostnip waits behind worse cases: an hour or two in the chairs, then ten minutes with a doctor.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
