@@ -4,10 +4,17 @@ export const otherwhereIii00013 = {
   id: "01a0ea72-ee11-784d-b3ea-32ae63610dff",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-013",
+  ownLength: 324,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
   position: 13,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/otherwhere-iii-nala",
+    "character-other/otherwhere-iii-priya-raman",
+    "character-other/otherwhere-iii-denise-pruitt",
+  ],
+  stepStatus: "step-status/reviewers",
   action: "I continue watching the screen, waiting for the social worker.",
   beats: [
     "Nala keeps watching the muted screen as the show loops again.",
