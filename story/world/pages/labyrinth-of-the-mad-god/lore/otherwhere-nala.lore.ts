@@ -100,6 +100,10 @@ export const otherwhereNala = {
       fact: "Nala's mind is sharp and her memory near perfect, but she cannot picture things at all.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A mire monitor's hooked teeth tore Nala's left forearm, and it bleeds.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

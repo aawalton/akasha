@@ -83,5 +83,13 @@ export const otherwhereMireMonitors = {
       fact: "Nala's voice turned the nearer mire monitor's head; its eyes opened and fixed on her.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
     },
+    {
+      fact: "A mire monitor's teeth are hooked; they hold, and tear flesh pulled free of them.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+    },
+    {
+      fact: "As Nala fought the nearer mire monitor, the second came through the reeds at her side.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+    },
   ],
 } as const satisfies Lore

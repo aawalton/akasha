@@ -38,7 +38,7 @@ export const otherwhereGlassrun = {
     },
     {
       fact: "Reeds and deep mud line the lower banks; above the Stillpool the banks are rock.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
     },
     {
       fact: "The Glassrun's water is clean to drink raw.",

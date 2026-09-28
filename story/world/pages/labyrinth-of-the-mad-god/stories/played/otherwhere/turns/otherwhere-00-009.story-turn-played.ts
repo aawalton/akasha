@@ -4,13 +4,14 @@ export const otherwhere00009 = {
   id: "01a0ea08-ac0e-7e18-82e7-cb1da886c775",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-009",
+  cover: "image/image-aaea1c7dad9c164a",
   ownLength: 378,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 9,
   prose: "txt",
   characters: ["character-player/otherwhere-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I hold the glass in my hand and in one last desperate rush, I circle and tackle the lizard, gripping it around the neck and trying to stab into its eye with the glass.",
   beats: [
@@ -38,6 +39,6 @@ export const otherwhere00009 = {
     "place/otherwhere-black-shore",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T15:08:00.000Z",
 } as const satisfies StoryTurnPlayed
