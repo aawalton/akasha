@@ -3771,8 +3771,6 @@
 {"propertySlug":"decision-kind","path":"story/world/characters/properties/alias-of.relation-property.ts","id":"01a0b718-64c3-7c6a-abd0-02f96fe6b3b9"}
 {"propertySlug":"decision-kind","path":"story/world/characters/properties/character-claims.page-property-entry.ts","id":"01a0b6f7-9c68-7aa7-9196-01fd02ca2707"}
 {"propertySlug":"decision-kind","path":"story/world/characters/properties/characters.multi-relation-property.ts","id":"01a0de40-70c2-72d8-976d-f94658f84984"}
-{"propertySlug":"decision-kind","path":"story/world/characters/properties/coffee-shop-date-knowing.text-property.ts","id":"01a0deed-a4cc-789a-84ee-70d4b124c267"}
-{"propertySlug":"decision-kind","path":"story/world/characters/properties/coffee-shop-date-turn-states.file-property.ts","id":"01a0deed-a4cc-700b-860d-056b3c2e4b79"}
 {"propertySlug":"decision-kind","path":"story/world/characters/properties/first-chapter.number-property.ts","id":"01a0657a-9ccd-73d3-80f7-ae7f84d136d4"}
 {"propertySlug":"decision-kind","path":"story/world/characters/properties/last-chapter.number-property.ts","id":"01a0657a-9ccd-7629-800d-515631354a44"}
 {"propertySlug":"decision-kind","path":"story/world/characters/properties/max-level.computed-property.ts","id":"01a0657a-9ccc-799d-b3da-5f74e280345a"}

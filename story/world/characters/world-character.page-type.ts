@@ -31,12 +31,6 @@ export const worldCharacter = {
     "text-property/claimed-by",
     "text-property/epistemic",
     "text-property/source-chapter",
-    "text-property/coffee-shop-date-perceiving",
-    "text-property/coffee-shop-date-knowing",
-    "text-property/coffee-shop-date-feeling",
-    "text-property/coffee-shop-date-wanting",
-    "text-property/coffee-shop-date-doing",
-    "file-property/coffee-shop-date-turn-states",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },

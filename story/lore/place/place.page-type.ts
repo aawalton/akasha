@@ -18,7 +18,6 @@ export const place = {
     { pageProperty: "relation-property/place-within", required: false, many: false },
     { pageProperty: "number-property/place-depth", required: false, many: false },
     { pageProperty: "record-property/place-exits", required: false, many: true, maxCount: null },
-    { pageProperty: "file-property/coffee-shop-date-turn-states", required: false, many: false },
   ],
   decisions: [
     {

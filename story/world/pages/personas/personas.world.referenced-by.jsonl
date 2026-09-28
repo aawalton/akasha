@@ -104,7 +104,6 @@
 {"propertySlug":"world","path":"story/world/pages/personas/mechanics/skills/the-tower-ember-wave.world-skill.ts","id":"01a0de36-e68d-762a-98c3-df9002abe690"}
 {"propertySlug":"world","path":"story/world/pages/personas/mechanics/skills/the-tower-essence-infusion.world-skill.ts","id":"01a0de36-e68e-7a7f-bc36-d144729e5b82"}
 {"propertySlug":"world","path":"story/world/pages/personas/mechanics/skills/the-tower-smithing.world-skill.ts","id":"01a0de36-e68e-7c6d-a5d0-8ec2fa187d10"}
-{"propertySlug":"world","path":"story/world/pages/personas/places/coffee-shop-date-coffee-shop.place.ts","id":"01a0682a-d9b6-740b-aafd-f024df0bfe74"}
 {"propertySlug":"world","path":"story/world/pages/personas/places/date-night-free-play-full-combo.place.ts","id":"01a0dec2-d48d-7c68-af8a-9c02c2cc0f2d"}
 {"propertySlug":"world","path":"story/world/pages/personas/places/dragons-and-dungeons-caer-arianrhod.place.ts","id":"01a0e396-9d94-76c7-802f-b55d2ac1e849"}
 {"propertySlug":"world","path":"story/world/pages/personas/places/dragons-and-dungeons-the-chancel.place.ts","id":"01a0e396-9d94-78b7-b347-69fc775c4e4a"}
@@ -138,7 +137,6 @@
 {"propertySlug":"world","path":"story/world/pages/personas/places/the-tower-the-hosts-seat.place.ts","id":"01a0d441-195c-765e-a0f6-044c8eecff68"}
 {"propertySlug":"world","path":"story/world/pages/personas/places/the-tower-the-long-gallery.place.ts","id":"01a0d440-fcad-79ca-ae66-dac83ca47d4d"}
 {"propertySlug":"world","path":"story/world/pages/personas/places/the-tower-threshold-landing.place.ts","id":"01a0d43f-f987-7401-9e0e-70173b90feaa"}
-{"propertySlug":"world","path":"story/world/pages/personas/stories/played/coffee-shop-date/coffee-shop-date.story-played.ts","id":"01a0682a-3e1b-7ac4-be68-6d4f2586b70c"}
 {"propertySlug":"world","path":"story/world/pages/personas/stories/played/dragons-and-dungeons/dragons-and-dungeons.story-played.ts","id":"01a06425-4433-7ef5-b909-fc3115093731"}
 {"propertySlug":"world","path":"story/world/pages/personas/stories/played/dragons-and-dungeons/mechanics/checks/dragons-and-dungeons-check.world-check.ts","id":"01a0e3a2-2fca-74ba-add3-c6d38b930e0b"}
 {"propertySlug":"world","path":"story/world/pages/personas/stories/played/dragons-and-dungeons/mechanics/mechanics/dragons-and-dungeons-resolution.world-mechanic.ts","id":"01a0e3a2-2fca-774e-b4a9-d382a5cd6feb"}
