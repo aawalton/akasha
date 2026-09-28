@@ -7,8 +7,17 @@ export const otherwhere00039 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 39,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "I put on a robe and slippers and tie it closed with the belt, bringing the pouch along for good measure, then go looking for the bread.",
+  beats: [
+    "Nala pulls on a blue wool robe; it pools at her feet until she hitches it up and cinches the belt.",
+    "The pouch hangs at her hip; the felt slippers are soft and a little big.",
+    "She follows the smell of bread out past the Check-in Counter into the main hall.",
+    "It leads her to an arched door on the hall's right side and down a short corridor.",
+    "The corridor opens on a long, warm kitchen: hanging copper pots, a great stone oven, an oak table.",
+    "On the oak table, fresh loaves are cooling, golden and still warm.",
+    "There is no one here, and no sign of who baked them.",
+  ],
   lore: ["place/otherwhere-kitchen", "lore/otherwhere-universe"],
 } as const satisfies StoryTurnPlayed
