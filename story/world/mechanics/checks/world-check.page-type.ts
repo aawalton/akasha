@@ -45,6 +45,7 @@ export const worldCheck = {
     "world-check/otherwhere-ix-growth",
     "world-check/otherwhere-ix-language",
     "world-check/otherwhere-ix-trade",
+    "world-check/otherwhere-ix-mana-flow",
     "world-check/otherwhere-vii-time-passing",
     "world-check/otherwhere-vii-action-check",
     "world-check/otherwhere-vii-harm",
