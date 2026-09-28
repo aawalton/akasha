@@ -13,6 +13,11 @@ export const chapter = {
     "relation-property/chapter-story",
     "page-type/step-status",
     "relation-property/step-status",
+    "text-property/step-beats",
+    "text-property/step-issues",
+    "multi-relation-property/step-lore",
+    "multi-relation-property/step-reviewed-by",
+    "multi-relation-property/step-recorded-by",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -20,6 +25,32 @@ export const chapter = {
     { pageProperty: "number-property/own-length", required: true, many: false },
     { pageProperty: "file-property/prose", required: true, many: false },
     { pageProperty: "relation-property/step-status", required: false, many: false },
+    { pageProperty: "text-property/step-beats", required: false, many: true, maxCount: 100 },
+    { pageProperty: "text-property/step-issues", required: false, many: true, maxCount: 100 },
+    {
+      pageProperty: "multi-relation-property/step-lore",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    {
+      pageProperty: "multi-relation-property/characters",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    {
+      pageProperty: "multi-relation-property/step-reviewed-by",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    {
+      pageProperty: "multi-relation-property/step-recorded-by",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   decisions: [
     {

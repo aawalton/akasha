@@ -16,11 +16,7 @@ export const storyTurnPlayed = {
     "module/turn-seats",
 
     "text-property/turn-action",
-    "text-property/turn-beats",
-    "text-property/turn-issues",
-    "multi-relation-property/turn-lore",
-    "multi-relation-property/turn-recorded-by",
-    "multi-relation-property/turn-reviewed-by",
+
     "instant-property/turn-ends-at",
   ],
   properties: [
@@ -33,22 +29,22 @@ export const storyTurnPlayed = {
     },
     { pageProperty: "relation-property/step-status", required: true, many: false },
     { pageProperty: "text-property/turn-action", required: false, many: false },
-    { pageProperty: "text-property/turn-beats", required: false, many: true, maxCount: 100 },
-    { pageProperty: "text-property/turn-issues", required: false, many: true, maxCount: 100 },
+    { pageProperty: "text-property/step-beats", required: false, many: true, maxCount: 100 },
+    { pageProperty: "text-property/step-issues", required: false, many: true, maxCount: 100 },
     {
-      pageProperty: "multi-relation-property/turn-lore",
+      pageProperty: "multi-relation-property/step-lore",
       required: false,
       many: true,
       maxCount: null,
     },
     {
-      pageProperty: "multi-relation-property/turn-reviewed-by",
+      pageProperty: "multi-relation-property/step-reviewed-by",
       required: false,
       many: true,
       maxCount: null,
     },
     {
-      pageProperty: "multi-relation-property/turn-recorded-by",
+      pageProperty: "multi-relation-property/step-recorded-by",
       required: false,
       many: true,
       maxCount: null,

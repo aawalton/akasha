@@ -9,6 +9,7 @@ import {
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { stepBeats } from "akasha/story/chapter/properties/step-beats.text-property.ts"
 import { lore } from "akasha/story/lore/lore.page-type.ts"
 import { place } from "akasha/story/lore/place/place.page-type.ts"
 import { loreFact } from "akasha/story/lore/properties/lore-fact.text-property.ts"
@@ -23,7 +24,6 @@ import {
 import { gameMaster } from "akasha/story/lore-disclosure/pages/game-master.lore-disclosure.ts"
 import { prose } from "akasha/story/world/stories/played/properties/prose.file-property.ts"
 import { turnAction } from "akasha/story/world/stories/played/turns/properties/turn-action.text-property.ts"
-import { turnBeats } from "akasha/story/world/stories/played/turns/properties/turn-beats.text-property.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 
 export const LEFT_OUT = "[a line of lore the world builder holds was left out here]"
@@ -119,7 +119,7 @@ function playedIn(root: string): readonly string[] {
     if (typeof action === "string") found.push(action)
     const written = proseOf(root, path, value)
     if (written !== null) found.push(written)
-    const beats = value[turnBeats.propertySlug]
+    const beats = value[stepBeats.propertySlug]
     if (!Array.isArray(beats)) continue
     for (const one of beats) if (typeof one === "string") found.push(one)
   }

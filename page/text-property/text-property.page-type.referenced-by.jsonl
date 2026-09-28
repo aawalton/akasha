@@ -413,6 +413,8 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"product/kofi/contributor/properties/stripe-charge-id.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"product/kofi/feature-request/properties/feature-request-ask.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"properties/install-path.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/chapter/properties/step-beats.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/chapter/properties/step-issues.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/lore/place/properties/place-exit-way.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/lore/properties/lore-fact.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/properties/chapter-break.text-property.ts","typed":true,"deferred":false}
@@ -474,8 +476,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/played/chapters/properties/last-turn.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/played/properties/cover-reroll-refused.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/played/turns/properties/turn-action.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/played/turns/properties/turn-beats.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/played/turns/properties/turn-issues.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/read/properties/external-tags.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/champion-point/temper-champion-star/properties/champion-constellation.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/companion/base-role/properties/abbreviation.text-property.ts","typed":true,"deferred":false}

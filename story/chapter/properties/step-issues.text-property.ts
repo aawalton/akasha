@@ -1,11 +1,11 @@
 import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
 
-export const turnIssues = {
+export const stepIssues = {
   id: "01a0deae-dc22-73b5-85a8-01a1ce5215d7",
   type: "page-type/text-property",
-  slug: "turn-issues",
+  slug: "step-issues",
   propertySlug: "issues",
-  definition: "one fault a reviewer found in a played turn's beats",
+  definition: "one fault a reviewer found in the beats of a turn or a written chapter",
   maxLength: 100,
   nameFormat: null,
   decisions: [

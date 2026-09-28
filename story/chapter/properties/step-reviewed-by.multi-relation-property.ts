@@ -1,11 +1,11 @@
 import type { MultiRelationProperty } from "akasha/page/multi-relation-property/multi-relation-property.page-type.types.ts"
 
-export const turnReviewedBy = {
+export const stepReviewedBy = {
   id: "01a0deb0-cf67-7a1e-bb3d-6859e1f25fce",
   type: "page-type/multi-relation-property",
-  slug: "turn-reviewed-by",
+  slug: "step-reviewed-by",
   propertySlug: "reviewed-by",
-  definition: "the story reviewers that have checked a played turn's beats and prose",
+  definition: "the story reviewers that have checked the beats and prose of a turn or a chapter",
   targetPageType: "page-type/story-reviewer",
   decisions: [
     {

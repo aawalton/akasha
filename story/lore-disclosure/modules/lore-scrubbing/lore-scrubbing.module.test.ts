@@ -3,6 +3,7 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { stepBeats } from "akasha/story/chapter/properties/step-beats.text-property.ts"
 import { lore } from "akasha/story/lore/lore.page-type.ts"
 import { loreFact } from "akasha/story/lore/properties/lore-fact.text-property.ts"
 import { loreFacts } from "akasha/story/lore/properties/lore-facts.record-property.ts"
@@ -32,7 +33,6 @@ import {
 import { gameMaster } from "akasha/story/lore-disclosure/pages/game-master.lore-disclosure.ts"
 import { prose } from "akasha/story/world/stories/played/properties/prose.file-property.ts"
 import { turnAction } from "akasha/story/world/stories/played/turns/properties/turn-action.text-property.ts"
-import { turnBeats } from "akasha/story/world/stories/played/turns/properties/turn-beats.text-property.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 
 const scratch = scratchWorld()
@@ -178,7 +178,7 @@ function playedWorld(): string {
         type: `page-type/${storyTurnPlayed.slug}`,
         slug: "held-00-001",
         [turnAction.propertySlug]: ACTION,
-        [turnBeats.propertySlug]: [QUOTING, OWN],
+        [stepBeats.propertySlug]: [QUOTING, OWN],
         [prose.propertySlug]: "txt",
       },
     },

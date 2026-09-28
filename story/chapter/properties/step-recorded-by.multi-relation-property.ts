@@ -1,11 +1,11 @@
 import type { MultiRelationProperty } from "akasha/page/multi-relation-property/multi-relation-property.page-type.types.ts"
 
-export const turnRecordedBy = {
+export const stepRecordedBy = {
   id: "01a0e058-679f-70f6-baaf-b82f0c8a4690",
   type: "page-type/multi-relation-property",
-  slug: "turn-recorded-by",
+  slug: "step-recorded-by",
   propertySlug: "recorded-by",
-  definition: "the story recorders that have drafted what a played turn changed",
+  definition: "the story recorders that have drafted what a turn or a written chapter changed",
   targetPageType: "page-type/story-recorder",
   decisions: [
     {
