@@ -148,5 +148,29 @@ export const otherwhereIxMoney = {
       fact: "A god can conjure heaps of gold and gems, as Randall did to tempt a fighter.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Twenty copper make a silver, and twenty silver make a gold.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "In the Kessen Zone a hot bowl of stew costs three copper, and a bed for the night a silver.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "In the Kessen Zone a waterskin costs four silver, and sandals or rough boots six.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "In the Kessen Zone a plain knife costs eight silver, a spear a gold, a wool cloak twelve silver.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "In the Kessen Zone a day's dried food costs five copper, and a red healing draught two gold.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A hand's day of labour pays a silver or two; a hunter's beater earns three.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
