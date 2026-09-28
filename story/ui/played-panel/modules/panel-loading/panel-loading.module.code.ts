@@ -60,6 +60,8 @@ async function drawnFrom(body: string): Promise<Drawn | null> {
     const held = (await import(at)) as Record<string, unknown>
     const shown = held[SHOWN]
     return typeof shown === "function" ? (shown as Drawn) : null
+  } catch {
+    return null
   } finally {
     URL.revokeObjectURL(at)
   }

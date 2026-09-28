@@ -26,6 +26,11 @@ export const panelLoading = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A panel whose code reaches something this build does not offer is left out, and the rest are drawn.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The panels come back in the order of their positions, not the order the game names.",
     },
     {
