@@ -103,6 +103,10 @@ export const otherwhereIiiUptownMemorialEr = {
         "character-other/otherwhere-iii-denise-pruitt",
       ],
     },
+    {
+      fact: "It is 2037, so a birth date of January 22, 1986 makes a patient fifty-one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
