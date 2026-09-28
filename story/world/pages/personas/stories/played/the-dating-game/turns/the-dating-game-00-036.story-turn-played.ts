@@ -24,4 +24,5 @@ export const theDatingGame00036 = {
     '"Then I\'ll stop calling it close," she says gently. "It\'s just when it is, for you."',
     'The corner of her red mouth lifts. "Nothing\'s ever far away, for you. I think I like that."',
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
