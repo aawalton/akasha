@@ -7,6 +7,7 @@ export const day20260928 = {
   title: "@date:2026-09-28",
   date: "2026-09-28",
   version: "3.0",
+  wisdomWords: 0,
   inboxTasks: 17,
   inboxTasksClearedToday: false,
   inboxTemperTasks: 11,
