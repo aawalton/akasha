@@ -10,7 +10,7 @@ export const otherwhereIv00006 = {
   position: 6,
   prose: "txt",
   characters: ["character-player/otherwhere-iv-nala", "character-other/otherwhere-iv-zhao-jun"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: '"Gladly"',
   beats: [
     '"Gladly," Nala says.',
@@ -49,6 +49,6 @@ export const otherwhereIv00006 = {
     '"Would you permit this old man a question or two, before we speak of anything else?"',
   ],
   lore: ["lore/otherwhere-iv-three-stones-folk"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T08:22:00.000Z",
 } as const satisfies StoryTurnPlayed
