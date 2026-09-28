@@ -22,10 +22,8 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { heldAt } from "akasha/command/modules/filling/command-filling.module.code.ts"
-import {
-  type Added,
-  outcomesAt,
-} from "akasha/command/pages/story/settle/story-settle.command.code.ts"
+import type { Added } from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
+import { outcomesAt } from "akasha/command/pages/story/settle/story-settle.command.code.ts"
 import { heldOf } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.code.ts"
 import {
   noticesSent,

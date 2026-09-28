@@ -10,8 +10,10 @@ import type { FileChange } from "akasha/change/modules/answer/change-answer.modu
 import { sweptAll } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
-  ADDED,
   type Adding,
+  addingAt,
+} from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
+import {
   type Turn as Placed,
   settlingIndexed,
   turnsIndexed,
@@ -391,10 +393,7 @@ function seatsStated(): readonly Seated[] {
 
 async function addingIndexed(root: string, check: string): Promise<Adding | null> {
   const at = settlingIndexed(root, check)
-  if (at === null) return null
-  const held = (await import(join(root, at))) as Record<string, unknown>
-  const adding = held[ADDED]
-  return typeof adding === "function" ? (adding as Adding) : () => []
+  return at === null ? null : await addingAt(join(root, at))
 }
 
 function pageIndexed(root: string, page: string): Paged | null {

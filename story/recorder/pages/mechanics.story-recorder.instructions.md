@@ -14,7 +14,7 @@ Settle each check the turn calls for on this turn, naming no dice where the chec
 
 `akasha story settle --story <story> --turn <this turn> --check <check> --reading <json> --draft`
 
-A settling refused because the check is settled on this turn already means the turn is recorded already, so change nothing that settling would have changed. After each settling, draft onto the page keeping it every number the answer changes, with `akasha change apply --draft`. Where the mechanics say to file such a tracking page that is not there yet, draft it. Where a mechanic calls for a value on the turn's own page, draft it onto the turn's page, with `add-property-to-pages` for a key the turn does not state yet; it lands folded into your advance.
+A settling refused because the check is settled on this turn already means the turn is recorded already, so change nothing that settling would have changed. A settling adds every number its check's code names as added itself, so draft that number nowhere. After each settling, draft onto the page keeping it every other number the answer changes, with `akasha change apply --draft`. Where the mechanics say to file such a tracking page that is not there yet, draft it. Where a mechanic calls for a value on the turn's own page, draft it onto the turn's page, with `add-property-to-pages` for a key the turn does not state yet; it lands folded into your advance.
 
 Every edit you make is drafted, and you land nothing. Your own advance lands your edits.
 

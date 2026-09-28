@@ -1,5 +1,5 @@
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
-import type { Added } from "akasha/command/pages/story/settle/story-settle.command.code.ts"
+import type { Added } from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
 
 const HERE =
   "story/world/pages/personas/stories/played/the-dating-game/mechanics/checks/the-dating-game-closeness-scoring"

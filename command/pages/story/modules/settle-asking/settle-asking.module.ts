@@ -4,7 +4,7 @@ export const settleAsking = {
   id: "01a0e9ee-b5f2-7312-a0d8-7655c24d47a2",
   type: "page-type/module",
   slug: "settle-asking",
-  definition: "the changes a settled roll asks of the turn the roll is settled on",
+  definition: "the changes a settled roll asks of its turn and of the pages its answer adds to",
   code: "ts",
   test: "ts",
   decisions: [
@@ -23,6 +23,15 @@ export const settleAsking = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A turn stating that instant already is asked nothing more.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "What an answer adds to one number on a page is summed, and that number restated once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page stating no such number gains what is added as that key.",
     },
   ],
 } as const satisfies Module

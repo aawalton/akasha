@@ -4,11 +4,11 @@ import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { settledBefore } from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
 import {
   outcomesAt,
   type Reach,
   type Roll,
-  settledBefore,
   storySettle,
   type Turn,
   taken,
@@ -52,10 +52,18 @@ writeFileSync(
   'export function settled() {\n  return { answered: { endsAt: "2026-09-28T11:27:00.000Z" } }\n}\n'
 )
 
+writeFileSync(
+  join(ROOT, "checks", "scoring.code.ts"),
+  'export function settled() {\n  return { answered: { change: 3 } }\n}\nexport function added(reading, answered) {\n  return [{ page: `world-relationship/${reading.character}`, key: "relationshipPoints", by: answered.change }]\n}\n'
+)
+
+const HER_AT = "pages/her.world-relationship.ts"
+
 function reachOver(turns: readonly Turn[]): Reach {
   return {
     turnsOf: (_root, story) => (story === "the-saga" ? turns : []),
     settlingAt: (_root, check) => (check === "nothing" ? null : `checks/${check}.code.ts`),
+    pageAt: (_root, page) => (page === "world-relationship/her" ? HER_AT : null),
   }
 }
 
@@ -221,6 +229,24 @@ test("a check answering endsAt states that instant on the turn it settles on", a
   expect(appended[1] as unknown).toEqual(stated)
 })
 
+function scoringArgv(whose: string): readonly string[] {
+  return ["--story", "the-saga", "--check", "scoring", "--reading", `{"character":"${whose}"}`]
+}
+
+test("what a check's answer adds is added to its page in the same landing", async () => {
+  mkdirSync(join(ROOT, "pages"), { recursive: true })
+  writeFileSync(join(ROOT, HER_AT), "  relationshipPoints: 2,\n")
+  const appended = await settledBy("scoring", reachOver([LATEST]), scoringArgv("her"))
+  rmSync(join(ROOT, HER_AT))
+  const summed = { at: HER_AT, key: "relationshipPoints", to: "5", holds: "number" }
+  expect(appended).toHaveLength(2)
+  expect(appended[1] as unknown).toEqual(summed)
+})
+
+test("a check adding to a page that is not here appends nothing", async () => {
+  expect(await settledBy("scoring", reachOver([LATEST]), scoringArgv("nobody"))).toEqual([])
+})
+
 test("a check that refuses its reading appends nothing", async () => {
   expect(await settledBy("refusing", reachOver([LATEST]))).toEqual([])
 })
@@ -271,5 +297,5 @@ test("a roll with dice is never refused as settled before", () => {
   }
   const kept = `${JSON.stringify({ check: "world-check/answering", reading: {} })}\n`
   expect(settledBefore(kept, roll)).toBe(false)
-  expect(settledBefore(kept, { check: roll.check, reading: {}, answered: {} })).toBe(true)
+  expect(settledBefore(kept, { check: roll.check, reading: {} })).toBe(true)
 })
