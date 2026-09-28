@@ -1,12 +1,12 @@
 import type { OtherwhereIHealth } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/metrics/resources/health/otherwhere-i-health.page-type.types.ts"
 
-export const otherwhereEngorgedBookworm01 = {
-  id: "01a0e365-80ba-7ad9-a877-2bfcc894388a",
+export const otherwhereIAlan = {
+  id: "01a0e363-036f-742d-80d8-7671ecb20c8a",
   type: "page-type/otherwhere-i-health",
-  slug: "otherwhere-engorged-bookworm-01",
-  character: "character-other/otherwhere-i-engorged-bookworm-01",
-  value: 0,
+  slug: "otherwhere-i-alan",
+  character: "character-player/otherwhere-i-alan",
+  value: 20,
   minValue: 0,
-  maxValue: 30,
+  maxValue: 20,
   history: "jsonl",
 } as const satisfies OtherwhereIHealth
