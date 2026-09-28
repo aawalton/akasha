@@ -25,4 +25,5 @@ export const otherwhere00061 = {
     "Links: \"The translator's in your link, so you'll follow them all. It chokes on idioms. Talk plain.\"",
   ],
   lore: ["lore/otherwhere-universe"],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
