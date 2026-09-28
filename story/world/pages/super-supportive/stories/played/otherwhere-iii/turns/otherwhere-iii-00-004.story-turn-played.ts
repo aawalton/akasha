@@ -33,5 +33,6 @@ export const otherwhereIii00004 = {
     "She studies Nala's face a beat longer. \"A thousand miles, huh? Where's home?\"",
   ],
   lore: ["lore/otherwhere-iii-denise-pruitt", "lore/otherwhere-iii-nala"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2037-01-31T04:57:00.000Z",
 } as const satisfies StoryTurnPlayed
