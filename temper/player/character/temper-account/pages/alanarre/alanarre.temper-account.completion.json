@@ -90709,7 +90709,7 @@
             "name": "Reaper's Mark",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "abilityIndex": 5,
           "isUltimate": false,
           "atMorph": true
@@ -92143,7 +92143,7 @@
             "name": "The Languid Eye",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "abilityIndex": 1,
           "isUltimate": true,
           "atMorph": true
