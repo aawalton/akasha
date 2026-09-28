@@ -4,6 +4,8 @@ export const image5af6a03d7e6c4723 = {
   id: "01a0e9d3-0c25-77c0-889d-bcc9ab24eaca",
   type: "page-type/image",
   slug: "image-5af6a03d7e6c4723",
+  title: "Laughing in Linen Among the Marigolds",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
