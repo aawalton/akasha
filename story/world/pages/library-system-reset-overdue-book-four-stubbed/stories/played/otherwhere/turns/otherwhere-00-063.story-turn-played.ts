@@ -29,5 +29,6 @@ export const otherwhere00063 = {
     '"The nearest heap sprawls at the foot of the first carved column" - Nala was last in the core below',
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  endsAt: "2026-09-28T13:52:00.000Z",
 } as const satisfies StoryTurnPlayed
