@@ -7,7 +7,8 @@ export const haremHotel00004 = {
   unit: "unit/words",
   partOfCollections: ["story-played/harem-hotel"],
   position: 4,
-  turnStatus: "turn-status/world-builder",
+  turnStatus: "turn-status/game-master",
   action:
     '"Now its your turn, kiss each other while I work on warming you up." I reach one hand down each of their skirts and start fingering them, first slowly, then accelerating, adding one finger at a time and curling them inside.',
+  lore: ["lore/harem-hotel-wren"],
 } as const satisfies StoryTurnPlayed
