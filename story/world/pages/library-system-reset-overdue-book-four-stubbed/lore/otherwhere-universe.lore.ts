@@ -162,7 +162,11 @@ export const otherwhereUniverse = {
     },
     {
       fact: "Each patron the Library serves, once its doors reopen, gives it a little power.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "The Library's doors reopen to patrons only once the Check-in Counter fully works.",
