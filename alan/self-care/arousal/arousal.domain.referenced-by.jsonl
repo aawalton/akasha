@@ -1,4 +1,5 @@
 {"propertySlug":"assignment-slug","path":"agent/seat/pages/mari/mari.seat.ts","id":"01a0e916-ccb7-7000-a93a-e8216f968e2a"}
+{"propertySlug":"assignment-slug","path":"agent/subagent/pages/mari-a42d7b5b54b0f637a/mari-a42d7b5b54b0f637a.subagent.ts","id":"01a0e9d0-939a-7cf0-909d-6958b9b1e2db"}
 {"propertySlug":"championed-domain","path":"persona/pages/mari/mari.persona.ts","id":"019ef06e-4e9f-7e1c-8225-bf9113a422ed"}
 {"propertySlug":"import","fileName":"arousal.domain.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/self-care/self-care.domain.ts","id":"01a065a0-140a-779c-ab0a-02df7977f480"}
