@@ -10,7 +10,7 @@ export const otherwhere00059 = {
   position: 59,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action: "**Okay, that pile is done, what's next?**",
   beats: [
     "Nala aims a thought at Links: that pile's done; what's next?",
@@ -21,5 +21,5 @@ export const otherwhere00059 = {
     'Links: "Or ignore it and keep shelving. It will keep asking."',
   ],
   lore: ["lore/otherwhere-universe", "place/otherwhere-main-hall"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
