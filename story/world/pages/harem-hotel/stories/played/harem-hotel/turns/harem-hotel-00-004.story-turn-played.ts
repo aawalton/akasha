@@ -44,4 +44,5 @@ export const haremHotel00004 = {
   ],
   lore: ["lore/harem-hotel-wren"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
