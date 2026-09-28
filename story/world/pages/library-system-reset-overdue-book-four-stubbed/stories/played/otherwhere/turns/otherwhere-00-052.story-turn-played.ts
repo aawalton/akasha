@@ -24,5 +24,7 @@ export const otherwhere00052 = {
     "She keeps on, building until she climaxes, gasping, water sloshing over the tub's rim.",
     "Afterward she lies boneless in water gone lukewarm, her eyelids heavy.",
   ],
+  issues: ['"Afterward you lie boneless in water gone lukewarm" - Leave It Open'],
   lore: ["lore/otherwhere-links"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
