@@ -7,5 +7,5 @@ export const otherwhereVMagicResistance = {
   title: "Magic Resistance",
   world: "world/ends-of-magic",
   aliases: ["resisting magic"],
-  description: "A person's power to shrug off or fight free of spells cast on them.",
+  description: "A person's resistance to spells.",
 } as const satisfies WorldMechanic

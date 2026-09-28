@@ -7,5 +7,5 @@ export const otherwhereVAntimagic = {
   title: "Antimagic",
   world: "world/ends-of-magic",
   aliases: ["antimage", "antimages"],
-  description: "The power of denying, draining and breaking magic.",
+  description: "Power opposed to magic itself.",
 } as const satisfies WorldMechanic

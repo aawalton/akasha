@@ -7,5 +7,5 @@ export const otherwhereVEnchanting = {
   title: "Enchanting",
   world: "world/ends-of-magic",
   aliases: ["enchantments", "enchanted items", "artifice", "wards"],
-  description: "The craft of binding lasting magic into objects and places.",
+  description: "The craft of lasting magic in objects and places.",
 } as const satisfies WorldMechanic

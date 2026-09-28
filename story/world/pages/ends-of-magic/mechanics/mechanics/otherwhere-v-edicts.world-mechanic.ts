@@ -7,5 +7,5 @@ export const otherwhereVEdicts = {
   title: "Edicts",
   world: "world/ends-of-magic",
   aliases: ["Edict"],
-  description: "Spoken laws that a great caster imposes on reality.",
+  description: "Spoken laws upon reality.",
 } as const satisfies WorldMechanic
