@@ -28,5 +28,6 @@ export const otherwhereV00006 = {
   ],
   lore: ["lore/otherwhere-v-gloamcat", "lore/otherwhere-v-injury"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2026-09-28T19:10:00.000Z",
 } as const satisfies StoryTurnPlayed
