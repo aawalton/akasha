@@ -37,5 +37,37 @@ export const otherwhereBlackShore = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
     },
     { fact: "No fresh water runs on the open beach.", knowers: ["lore-disclosure/game-master"] },
+    {
+      fact: "The wet sand below the tide line stays cool underfoot even at midday.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A wrack line of dried weed, shells and bleached driftwood runs along the top of the wet sand.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Shards of black volcanic glass lie in the wrack, keen-edged enough to saw through cord.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hand-sized crabs scuttle in the wash; they pinch hard and are good to eat cooked.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Under the fanpalms lie fallen nuts, most split or dry, perhaps one in a dozen still whole.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Northward the beach runs straight and open to a black headland, far off.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Southward, some two miles on, taller double rows of palms break the line of the trees.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nothing large comes onto the open sand by day but gulls, crabs and, at low tide, copperbacks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
