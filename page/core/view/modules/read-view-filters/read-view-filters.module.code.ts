@@ -3,7 +3,10 @@ import { segmentsOf } from "akasha/page/core/filter/modules/property-path/proper
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { readTargetPageTypeSlug } from "akasha/page/core/property-type/modules/relation/relation.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
-import type { ViewFilter } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
+import type {
+  ViewDataJSON,
+  ViewFilter,
+} from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import {
   applyFilters,
   type FilterableRow,
@@ -111,6 +114,37 @@ export function readViewFilters(
     own.push(read.filter)
   }
   return { own, related }
+}
+
+function sameFilter(one: ViewFilter, other: ViewFilter): boolean {
+  return (
+    one.propertyId === other.propertyId &&
+    one.operator === other.operator &&
+    JSON.stringify(one.value) === JSON.stringify(other.value)
+  )
+}
+
+export function narrowedBy(config: ViewDataJSON, narrows: readonly ViewFilter[]): ViewDataJSON {
+  if (narrows.length === 0) return config
+  return { ...config, filters: [...(config.filters ?? []), ...narrows] }
+}
+
+export function besideNarrows(
+  filters: readonly ViewFilter[],
+  narrows: readonly ViewFilter[]
+): readonly ViewFilter[] {
+  const kept = [...filters]
+  for (let at = narrows.length - 1; at >= 0; at--) {
+    const narrow = narrows[at]
+    if (narrow === undefined) continue
+    for (let one = kept.length - 1; one >= 0; one--) {
+      const held = kept[one]
+      if (held === undefined || !sameFilter(held, narrow)) continue
+      kept.splice(one, 1)
+      break
+    }
+  }
+  return kept
 }
 
 function nameOf(row: FilterableRow): string | null {

@@ -11,5 +11,9 @@ export const viewTabContent = {
       decisionKind: "decision-kind/departure",
       statement: "A tab's rows are named as a listing of their page type is named.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tab drawn beneath a page lists the rows that page narrows its view to.",
+    },
   ],
 } as const satisfies Module

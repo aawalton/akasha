@@ -2,7 +2,9 @@ import { expect, test } from "bun:test"
 import { NEVER_MATCH_VALUE } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import {
+  besideNarrows,
   type DefinitionsOf,
+  narrowedBy,
   type ReadFilters,
   readViewFilters,
   relatedFilterOf,
@@ -110,4 +112,39 @@ test("a related narrow no related page passes lets no page through", () => {
     definitions: TALE_DEFINED,
   }
   expect(relatedFilterOf(related, TALES, TALE_KINDS).value).toEqual([NEVER_MATCH_VALUE])
+})
+
+const IN_THE_ALBUM = { propertyId: "albums", operator: "equals", value: "image-album/dusk" }
+
+const GRADED = { propertyId: "grade", operator: "includes", value: ["A", "S"] }
+
+test("a page's narrow is applied on top of the view's own narrows", () => {
+  expect(narrowedBy({ version: 1, filters: [GRADED] }, [IN_THE_ALBUM]).filters).toEqual([
+    GRADED,
+    IN_THE_ALBUM,
+  ])
+})
+
+test("a page's narrow narrows a view stating no narrow of its own", () => {
+  expect(narrowedBy({ version: 1 }, [IN_THE_ALBUM]).filters).toEqual([IN_THE_ALBUM])
+})
+
+test("no narrow from the page leaves the view as it was", () => {
+  const config = { version: 1 as const, filters: [GRADED] }
+  expect(narrowedBy(config, [])).toBe(config)
+})
+
+test("the narrows a view shows leave out the page's narrow", () => {
+  expect(besideNarrows([GRADED, IN_THE_ALBUM], [IN_THE_ALBUM])).toEqual([GRADED])
+})
+
+test("a view narrow matching the page's narrow is kept once the page's copy is left out", () => {
+  expect(besideNarrows([IN_THE_ALBUM, GRADED, IN_THE_ALBUM], [IN_THE_ALBUM])).toEqual([
+    IN_THE_ALBUM,
+    GRADED,
+  ])
+})
+
+test("a page's narrow the view never read leaves the view's narrows whole", () => {
+  expect(besideNarrows([GRADED], [IN_THE_ALBUM])).toEqual([GRADED])
 })

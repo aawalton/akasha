@@ -7,6 +7,7 @@ import {
   isLocked,
   isPageTypeLocked,
   type ViewDataJSON,
+  type ViewFilter,
 } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import type { LockedFacet } from "akasha/page/core/schema/modules/view-data-locked/view-data-locked.module.code.ts"
 import { useAppEditing } from "akasha/page/ui/component/modules/app-editing/app-editing.module.code.tsx"
@@ -46,6 +47,7 @@ export function ViewTabContent({
   onUpdateView,
   pageTypeOptions,
   embedded,
+  narrows,
 }: {
   parentPageTypeId: string
   parentLocked?: LockedFacet
@@ -55,6 +57,7 @@ export function ViewTabContent({
   onUpdateView: (id: string, updates: Partial<ViewDataJSON>) => void
   pageTypeOptions?: readonly PageTypeOption[]
   embedded?: boolean
+  narrows?: readonly ViewFilter[]
 }) {
   const {
     viewConfig,
@@ -83,6 +86,7 @@ export function ViewTabContent({
     viewPages,
     pageTypes,
     pageTypeOptions,
+    narrows,
   })
 
   const phrase = usePhrase()

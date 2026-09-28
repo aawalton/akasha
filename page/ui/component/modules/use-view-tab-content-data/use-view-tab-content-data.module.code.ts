@@ -14,6 +14,10 @@ import {
   type LockedFacet,
   mergeLockedFacets,
 } from "akasha/page/core/schema/modules/view-data-locked/view-data-locked.module.code.ts"
+import {
+  besideNarrows,
+  narrowedBy,
+} from "akasha/page/core/view/modules/read-view-filters/read-view-filters.module.code.ts"
 import { buildServerGroupedSections } from "akasha/page/ui/component/modules/build-server-grouped-sections/build-server-grouped-sections.module.code.ts"
 import { toPageDataRecord } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import type { ServerGroupedSection } from "akasha/page/ui/component/modules/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"
@@ -41,6 +45,8 @@ import {
   toPageTypeSlug,
 } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useCallback, useMemo } from "react"
+
+const NO_NARROWS: readonly ViewFilter[] = []
 
 interface ViewTabContentData {
   viewConfig: ViewDataJSON | undefined
@@ -72,6 +78,7 @@ export function useViewTabContentData({
   viewPages,
   pageTypes,
   pageTypeOptions,
+  narrows = NO_NARROWS,
 }: {
   parentPageTypeId: string
   parentLocked?: LockedFacet
@@ -79,6 +86,7 @@ export function useViewTabContentData({
   viewPages: readonly PageWithProperties[]
   pageTypes: readonly PageWithProperties[]
   pageTypeOptions?: readonly PageTypeOption[]
+  narrows?: readonly ViewFilter[]
 }): ViewTabContentData {
   const view = useMemo(() => viewPages.find((v) => v._id === viewId), [viewId, viewPages])
   const pageTypeIdBySlug = useMemo(() => {
@@ -92,6 +100,10 @@ export function useViewTabContentData({
   const viewConfig: ViewDataJSON | undefined = useMemo(
     () => viewDataOfPage(view?.properties, pageTypeIdBySlug),
     [view, pageTypeIdBySlug]
+  )
+  const askedConfig: ViewDataJSON | undefined = useMemo(
+    () => (viewConfig === undefined ? undefined : narrowedBy(viewConfig, narrows)),
+    [viewConfig, narrows]
   )
   const effectiveConfig: ViewDataJSON | undefined = useMemo(() => {
     const effectiveLocked = mergeLockedFacets(parentLocked, viewConfig?.locked)
@@ -129,8 +141,13 @@ export function useViewTabContentData({
       const slug = pt.properties?.slug
       slugByTypeId.set(pt._id, typeof slug === "string" ? slug : undefined)
     }
-    return deriveViewTargetSlugs(effectiveConfig, effectivePageTypeId, defsByTypeId, slugByTypeId)
-  }, [pageTypes, effectiveConfig, effectivePageTypeId])
+    return deriveViewTargetSlugs(
+      narrowedBy(effectiveConfig, narrows),
+      effectivePageTypeId,
+      defsByTypeId,
+      slugByTypeId
+    )
+  }, [pageTypes, effectiveConfig, effectivePageTypeId, narrows])
 
   const groupByRaw = viewConfig?.group_by
   const groupByPropertyId = groupByRaw != null && groupByRaw.length > 0 ? groupByRaw : undefined
@@ -147,9 +164,13 @@ export function useViewTabContentData({
     return parsePageTypeData(effectivePageType.properties).propertyDefinitions
   }, [effectivePageType])
 
-  const read = useReadViewConfig(viewConfig, rowProperties, pageTypes)
+  const read = useReadViewConfig(askedConfig, rowProperties, pageTypes)
   const readConfig = read.viewConfig
   const held = read.pending || read.error !== null
+  const shownFilters = useMemo(
+    () => (read.ownFilters === undefined ? undefined : besideNarrows(read.ownFilters, narrows)),
+    [read.ownFilters, narrows]
+  )
 
   const viewFilters = useMemo(() => {
     if (readConfig?.filters == null || readConfig.filters.length === 0) return undefined
@@ -315,7 +336,7 @@ export function useViewTabContentData({
 
   return {
     viewConfig,
-    localFilters: read.ownFilters,
+    localFilters: shownFilters,
     effectiveConfig,
     effectivePageTypeId,
     effectivePageType,
