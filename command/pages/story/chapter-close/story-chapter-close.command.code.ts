@@ -54,6 +54,7 @@ const COLLECTIONS = "partOfCollections"
 const STORY = "story"
 const POSITION = "position"
 const COVER = "cover"
+const SLUG = "slug"
 
 const A_NOT_SLUG = /[^a-z0-9]+/g
 const AN_EDGE_DASH = /^-|-$/g
@@ -62,9 +63,16 @@ type Taken = { readonly story: string; readonly through: number; readonly title:
 
 type Read = Taken | { readonly refused: string }
 
-type Turn = { readonly at: string; readonly position: number; readonly cover?: string }
+type Turn = {
+  readonly at: string
+  readonly slug: string
+  readonly position: number
+  readonly cover?: string
+}
 
 type TurnCover = { readonly position: number; readonly cover: string }
+
+type LastTurn = { readonly lastTurn: string; readonly lastTurnPosition: number }
 
 export function taken(argv: readonly string[], calledAs: string): Read {
   const read = takenFor(argv, calledAs, page, NAMED)
@@ -107,6 +115,12 @@ export function turnCoversOf(turns: readonly Turn[]): readonly TurnCover[] {
   return held
 }
 
+export function lastTurnOf(turns: readonly Turn[]): LastTurn | null {
+  let last: Turn | null = null
+  for (const one of turns) if (last === null || one.position > last.position) last = one
+  return last === null ? null : { lastTurn: last.slug, lastTurnPosition: last.position }
+}
+
 function storyOf(slug: string): string {
   const parted = slug.lastIndexOf(PARTED)
   return parted < 0 ? slug : slug.slice(parted + 1)
@@ -117,11 +131,13 @@ function turnsOf(root: string, named: string): readonly Turn[] {
   for (const one of valuesOfType(root, storyTurnPlayed.slug)) {
     const within = one.value[COLLECTIONS]
     const position = one.value[POSITION]
+    const slug = one.value[SLUG]
     if (!Array.isArray(within) || !within.includes(named)) continue
-    if (typeof position !== "number") continue
+    if (typeof position !== "number" || typeof slug !== "string") continue
     const cover = one.value[COVER]
     found.push({
       at: one.path,
+      slug,
       position,
       ...(typeof cover === "string" && cover !== "" ? { cover } : {}),
     })
@@ -186,6 +202,7 @@ async function closed(
       unit: WORDS,
       prose: HELD,
       ...(turnCovers.length === 0 ? {} : { turnCovers }),
+      ...lastTurnOf(turns),
     },
     bodies: { prose },
   }

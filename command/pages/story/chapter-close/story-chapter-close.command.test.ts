@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   chapterSlugOf,
+  lastTurnOf,
   openThrough,
   proseOf,
   taken,
@@ -34,19 +35,28 @@ test("a chapter's prose heads the turns with its title and keeps each window blo
 
 test("a chapter takes the open turns through the one named, in order", () => {
   const turns = [
-    { at: "c", position: 58 },
-    { at: "a", position: 56 },
-    { at: "d", position: 70 },
-    { at: "b", position: 57 },
+    { at: "c", slug: "t-00-058", position: 58 },
+    { at: "a", slug: "t-00-056", position: 56 },
+    { at: "d", slug: "t-00-070", position: 70 },
+    { at: "b", slug: "t-00-057", position: 57 },
   ]
   expect(openThrough(turns, 58).map((one) => one.at)).toEqual(["a", "b", "c"])
 })
 
+test("a chapter says the slug and position of the last turn it takes", () => {
+  const turns = [
+    { at: "b", slug: "otherwhere-00-049", position: 49 },
+    { at: "a", slug: "otherwhere-00-048", position: 48 },
+  ]
+  expect(lastTurnOf(turns)).toEqual({ lastTurn: "otherwhere-00-049", lastTurnPosition: 49 })
+  expect(lastTurnOf([])).toBeNull()
+})
+
 test("a chapter keeps the cover of each turn it takes that has one, under the turn's number", () => {
   const turns = [
-    { at: "a", position: 1, cover: "image/image-one" },
-    { at: "b", position: 2 },
-    { at: "c", position: 3, cover: "image/image-three" },
+    { at: "a", slug: "t-00-001", position: 1, cover: "image/image-one" },
+    { at: "b", slug: "t-00-002", position: 2 },
+    { at: "c", slug: "t-00-003", position: 3, cover: "image/image-three" },
   ]
   expect(turnCoversOf(turns)).toEqual([
     { position: 1, cover: "image/image-one" },
