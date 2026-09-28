@@ -28,6 +28,10 @@ export const otherwhereIiiDenisePruitt = {
       fact: "In her locker at work she keeps an old pair of clogs and a fleece jacket.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She hears a man leaving a woman stranded as abuse, and takes it seriously.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
