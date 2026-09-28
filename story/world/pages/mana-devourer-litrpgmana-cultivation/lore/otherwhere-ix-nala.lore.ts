@@ -124,7 +124,6 @@ export const otherwhereIxNala = {
       fact: "Her status lists Strength, Agility, Arcana, Constitution, Spirit, and a greyed [???: 0].",
       knowers: ["lore-disclosure/game-master"],
     },
-
     {
       fact: "Nala is G Grade; her mana core, low in her belly, makes G Grade Spirit Mana.",
       knowers: ["lore-disclosure/game-master"],
@@ -152,6 +151,10 @@ export const otherwhereIxNala = {
     {
       fact: "An unclaimed otherworlder is worth a hundred gold or more to a buyer for an arena.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala's legs are shorter and her weight sits lower and wider in her hips than Alan's did.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
   ],
   secrets: "jsonl",

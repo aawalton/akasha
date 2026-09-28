@@ -140,6 +140,18 @@ export const otherwhereIxGlassgrassFlats = {
       fact: "Pivoting bare feet on fresh glassgrass slices the soles; stepping straight down does not.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Each time Nala came square to the circling beast it stopped, quills up, watching, then slid on.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "Glassgrass crunches and rings loudly under bare feet with every step.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "Nala stumbled and looked down; the rattle stopped and the beast rushed silently at her ankles.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
