@@ -10,7 +10,7 @@ export const otherwhere00006 = {
   position: 6,
   prose: "txt",
   characters: ["character-player/otherwhere-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“You might as well take it. I’m clearly going to die without help anyways.” I say, while offering it again",
   beats: [
@@ -24,8 +24,6 @@ export const otherwhere00006 = {
     "The bark comes again, harder, from somewhere far back under the canopy.",
     "The ape looks at her one more time, then at the nut.",
     "It turns and goes, bounding up the nearest trunk and away into the green, fast, without a sound.",
-    "The branches it went through sway, then go still.",
-    "The forest's noise closes over the place where it was.",
   ],
   issues: ['"The forest\'s noise closes over the place where it was." - Leave It Open'],
   lore: ["lore/otherwhere-copperbacks"],
