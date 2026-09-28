@@ -47,6 +47,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "The social worker comes on at eight; overnight the charge nurse calls one on call.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The hospital keeps a closet of donated coats, shoes, sweatpants and underwear.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
