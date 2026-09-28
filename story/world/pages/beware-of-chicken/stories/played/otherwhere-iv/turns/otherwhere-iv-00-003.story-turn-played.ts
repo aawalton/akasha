@@ -4,6 +4,7 @@ export const otherwhereIv00003 = {
   id: "01a0ea0e-2e28-7129-8f99-d24fefb062ea",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-003",
+  cover: "image/image-10300e673590a3d1",
   ownLength: 321,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],
@@ -35,5 +36,6 @@ export const otherwhereIv00003 = {
   ],
   lore: ["lore/otherwhere-iv-three-stones-folk", "lore/otherwhere-iv-hidden-spring-sect"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/picture"],
   endsAt: "2026-09-28T06:48:00.000Z",
 } as const satisfies StoryTurnPlayed
