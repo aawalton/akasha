@@ -109,6 +109,10 @@ export const otherwhereVEsebus = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Esebus has soldiers but no Adventurers; its soldiers do the work Adventurers do elsewhere.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Golem-drawn cargo carriages move goods in long processions along Esebus's trade arteries.",
       knowers: ["lore-disclosure/game-master"],
     },
