@@ -40,6 +40,7 @@ export const worldCheck = {
     "world-check/otherwhere-ix-time-passing",
     "world-check/otherwhere-ix-needs",
     "world-check/otherwhere-vii-time-passing",
+    "world-check/otherwhere-viii-time-passing",
   ],
   properties: [{ pageProperty: "module-property-group/settling", required: true, many: false }],
   decisions: [
