@@ -51,5 +51,53 @@ export const otherwhereIvThreeStonesFolk = {
       fact: "A day's hired work in the paddies pays some twenty copper coins and a midday meal.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Zhao Jun farms the top terraces nearest the bend, a lean, hot-tempered man of about forty-five.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Zhao Jun is fair once his temper cools, and owes the headman money after last year's poor crop.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Zhao Jun lost a terrace wall to something in the night three nights ago, and fears for his rice.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Zhao Jun has never left the county and has never seen a cultivator with his own eyes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Zhao Jun's wife is Xu Hong, and his eldest daughter, Zhao Mei, is fourteen.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Villagers call cultivators immortals, and speak of them with awe and fear.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Villagers believe in spirits of rivers, trees and hills, and leave offerings to keep them kind.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tales of fox-spirits in human shape are common, and a strange beauty from nowhere fits them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "To a villager a spirit is an honor to serve and a danger to cross, whatever it asks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "By custom, one who spoils a paddy owes its farmer the lost rice, settled before the headman.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The only sect the villagers can name is the Hidden Spring Sect, somewhere north of Lanqiao.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "No one in Three Stones has been to a sect, and none knows the way past Lanqiao.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
