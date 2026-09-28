@@ -10,7 +10,7 @@ export const theDatingGame00044 = {
   position: 44,
   prose: "txt",
   characters: ["character-other/the-dating-game-aelwyn", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action: '"Hah, that\'s fine. So this is what you do? Workout videos in the mountains?"',
   beats: [
     'He says, "Hah, that\'s fine. So this is what you do? Workout videos in the mountains?"',
@@ -24,5 +24,5 @@ export const theDatingGame00044 = {
     "She pulls a bag of snap peas from her pack, eats one with a happy crunch, and holds the bag out.",
   ],
   lore: ["lore/the-dating-game-aelwyn"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
