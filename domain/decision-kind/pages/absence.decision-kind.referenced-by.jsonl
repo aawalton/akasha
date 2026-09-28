@@ -1863,6 +1863,7 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/metrics/resources/purse/otherwhere-vii-purse.page-type.ts","id":"01a0ea34-e453-75f3-b6bf-b3b7ba2f47a9"}
 {"propertySlug":"decision-kind","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/checks/otherwhere-the-library-standing.world-check.ts","id":"01a0e365-14b9-7ffb-bde4-00f1f3dbfa23"}
 {"propertySlug":"decision-kind","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/stories/played/otherwhere-ix/mechanics/checks/otherwhere-ix-action-check.world-check.ts","id":"01a0ea36-2cb0-7d7d-856c-681c348fb745"}
+{"propertySlug":"decision-kind","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/stories/played/otherwhere-ix/mechanics/checks/otherwhere-ix-growth.world-check.ts","id":"01a0ea3f-584b-769a-913c-035d23cbeac0"}
 {"propertySlug":"decision-kind","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/stories/played/otherwhere-ix/mechanics/checks/otherwhere-ix-harm.world-check.ts","id":"01a0ea36-2cb1-7781-8ac1-17ee37959927"}
 {"propertySlug":"decision-kind","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/stories/played/otherwhere-ix/mechanics/checks/otherwhere-ix-standing.world-check.ts","id":"01a0ea3c-de85-749b-a999-e6149225be47"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-dating-game/mechanics/checks/the-dating-game-closeness-scoring.world-check.ts","id":"01a0dee4-f4b7-70af-bd38-a35274387d8c"}
