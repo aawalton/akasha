@@ -10,4 +10,5 @@ export const otherwhereIv00006 = {
   stepStatus: "step-status/game-master",
   action: '"Gladly"',
   lore: ["lore/otherwhere-iv-three-stones-folk"],
+  endsAt: "2026-09-28T08:22:00.000Z",
 } as const satisfies StoryTurnPlayed
