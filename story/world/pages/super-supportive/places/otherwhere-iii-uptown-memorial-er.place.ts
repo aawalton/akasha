@@ -175,6 +175,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "A segment marks six months since the hero Hannah Elber left on a System summons and never came back.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Hannah Elber was an A-rank Adjuster, once battlefield support to the Chicago hero Arjun Thomas.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
