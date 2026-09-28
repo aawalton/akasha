@@ -2,3 +2,4 @@
 {"propertySlug":"import","fileName":"general-purpose.subagent-kind.ts","path":"agent/subagent/modules/compose-subagent/compose-subagent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/subagent/kind/subagent-kind.page-type.ts","id":"01a06838-7a9d-7394-97ff-d069ea588410"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/iris-world-builder-otherwhere-aec0a3db18a6efe5b/iris-world-builder-otherwhere-aec0a3db18a6efe5b.subagent.ts","id":"01a0e9b8-4263-7aa4-93a0-c27f9d1fe76a"}
+{"propertySlug":"subagent-kind","path":"agent/subagent/pages/iris-world-builder-otherwhere-iii-a42885ae64368a3c1/iris-world-builder-otherwhere-iii-a42885ae64368a3c1.subagent.ts","id":"01a0e9d7-cf75-796b-be3c-9337f491b93f"}
