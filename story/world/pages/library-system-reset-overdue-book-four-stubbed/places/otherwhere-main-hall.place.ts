@@ -81,6 +81,14 @@ export const otherwhereMainHall = {
     },
 
     {
+      fact: "The wardrobe's three robes are deep blue wool, whole and unmothed, smelling of cedar.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Soft felt slippers and a leather belt with a drawstring pouch lie at the wardrobe's foot.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The wardrobe holds a past Librarian's plain robes, long on Nala but wearable.",
       knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
     },
