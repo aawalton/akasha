@@ -10,7 +10,7 @@ export const otherwhere00047 = {
   position: 47,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "I go back to the kitchen and bring over three more bags of salt, one at a time, then take another attempt and jamming one down the worms throat",
   beats: [
@@ -26,5 +26,5 @@ export const otherwhere00047 = {
     "It rears over her, mouth wide, the sack lying between them.",
   ],
   lore: ["place/otherwhere-kitchen", "place/otherwhere-hall-back"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
