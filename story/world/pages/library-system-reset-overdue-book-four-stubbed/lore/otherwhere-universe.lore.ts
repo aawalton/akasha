@@ -225,6 +225,14 @@ export const otherwhereUniverse = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Links knows a lost book the moment a linked Librarian lays a hand on it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "By hand, matching spine marks to shelves, a Librarian reshelves some ten books an hour.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The Library's kitchen stores sacks of salt.",
       knowers: [
         "lore-disclosure/game-master",
