@@ -12,7 +12,6 @@ export const playedPanel = {
     "module/pool-panel",
     "played-panel/quest-list",
     "played-panel/story-so-far",
-    "played-panel/tower-sheet",
     "played-panel/otherwhere-sheet",
     "module/panel-turning",
     "file-property/drawn",
@@ -25,6 +24,7 @@ export const playedPanel = {
     "played-panel/character-cover",
     "played-panel/scene-cover",
     "played-panel/time",
+    "played-panel/tower-player-character",
     "number-property/panel-position",
   ],
   decisions: [

@@ -13,7 +13,7 @@ export const theTower = {
   panels: [
     "played-panel/time",
     "played-panel/tower-hud",
-    "played-panel/tower-sheet",
+    "played-panel/tower-player-character",
     "played-panel/story-so-far",
   ],
 } as const satisfies StoryPlayed

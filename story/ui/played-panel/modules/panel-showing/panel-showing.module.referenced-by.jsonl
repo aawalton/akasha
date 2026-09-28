@@ -5,5 +5,5 @@
 {"propertySlug":"import","fileName":"panel-showing.module.code.tsx","path":"story/ui/played-panel/pages/scene-cover/scene-cover.played-panel.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"panel-showing.module.code.tsx","path":"story/ui/played-panel/pages/story-so-far/story-so-far.played-panel.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"panel-showing.module.code.tsx","path":"story/ui/played-panel/pages/time/time.played-panel.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"panel-showing.module.code.tsx","path":"story/ui/played-panel/pages/tower-sheet/tower-sheet.played-panel.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"panel-showing.module.code.tsx","path":"story/ui/played-panel/pages/tower-player-character/tower-player-character.played-panel.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"story/ui/played-panel/played-panel.page-type.ts","id":"01a0c49e-6107-758a-9dfe-efd394605239"}
