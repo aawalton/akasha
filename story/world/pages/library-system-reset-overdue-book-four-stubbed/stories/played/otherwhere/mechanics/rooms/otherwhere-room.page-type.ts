@@ -1,0 +1,27 @@
+import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
+
+export const otherwhereRoom = {
+  id: "01a0e834-91e0-78f1-ba2a-bdbdabf299fd",
+  type: "page-type/page-type",
+  slug: "otherwhere-room",
+  definition: "a room of the Library in Otherwhere, lit where it has power",
+  pluralSlug: "rooms",
+  extends: ["page-type/world-mechanic"],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A room's title is the name the story has told the player for that room.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A room is drawn on Nala's map only once the story has shown her that room there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A room the game master knows but has not shown on the map is still kept lit or dark.",
+    },
+  ],
+  types: "ts",
+  schema: "jsonl",
+} as const satisfies PageType

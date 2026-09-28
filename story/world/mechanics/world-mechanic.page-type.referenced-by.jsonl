@@ -27,6 +27,7 @@
 {"propertySlug":"extends-type","path":"story/world/mechanics/spells/world-spell.page-type.ts","id":"01a06558-a991-7470-be3c-3b147e9922f7"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/titles/world-title.page-type.ts","id":"01a06558-a991-7a45-b681-fed7723c95e3"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/traits/world-trait.page-type.ts","id":"01a0ca5d-0f58-748c-a396-b0062affcee6"}
+{"propertySlug":"extends-type","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere/mechanics/rooms/otherwhere-room.page-type.ts","id":"01a0e834-91e0-78f1-ba2a-bdbdabf299fd"}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/appointments/world-appointment.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/aspects/world-aspect.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/attunements/world-attunement.page-type.types.ts","typed":true,"deferred":false}
@@ -75,6 +76,7 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere/mechanics/mechanics/otherwhere-resolution.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere/mechanics/mechanics/otherwhere-standing.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere/mechanics/mechanics/otherwhere-time.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere/mechanics/rooms/otherwhere-room.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/dragons-and-dungeons/mechanics/mechanics/dragons-and-dungeons-resolution.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-dating-game/mechanics/mechanics/the-dating-game-appointments.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-dating-game/mechanics/mechanics/the-dating-game-closeness.world-mechanic.ts","typed":true,"deferred":false}
