@@ -6,7 +6,11 @@ import {
   missing,
   refusing,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import { readFor, targetsIn } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
+import {
+  holdsIn,
+  readFor,
+  targetsIn,
+} from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
 import { manyIn } from "akasha/change/modules/page-literal/page-literal.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
@@ -46,7 +50,9 @@ export async function changePageProperty(
   if (targetsIn(read.known, read.value, given.key).length > 0) {
     return (await reach(world, CHANGE_PAGE_PROPERTY_RELATION, given)).said
   }
-  return (await reach(world, CHANGE_PAGE_PROPERTY, given)).said
+  const holds = holdsIn(world, read.value, given.key)
+  const asked = holds === null ? given : { ...given, holds }
+  return (await reach(world, CHANGE_PAGE_PROPERTY, asked)).said
 }
 
 export type Asked = Readonly<Record<string, string>>

@@ -26,6 +26,11 @@ export const changePagePageProperty = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A key the page's type declares a number or a boolean is handed on told it holds that kind.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A path the world names no page at is refused.",
     },
     {
