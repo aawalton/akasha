@@ -16,11 +16,11 @@ const SCRIPT = "shell-script"
 
 const SHELL = "shell"
 
-export type Ran = { readonly code: number; readonly lines: readonly string[] }
+type Ran = { readonly code: number; readonly lines: readonly string[] }
 
 export type Running = (argv: readonly string[]) => Promise<Ran>
 
-export function scriptAt(root: string): string {
+function scriptAt(root: string): string {
   return resolve(root, fileOf(root, valuedAt(root, SCRIPT, zimageUp.slug), SCRIPT, SHELL))
 }
 
