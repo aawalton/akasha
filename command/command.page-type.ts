@@ -44,6 +44,7 @@ export const command = {
     "module/commit-author",
     "module/complexity-rowing",
     "module/draft-keeping",
+    "module/draft-length",
     "module/draft-parsing",
     "module/during-call",
     "module/edits-landing",

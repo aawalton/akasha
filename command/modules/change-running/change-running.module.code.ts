@@ -27,6 +27,7 @@ import {
   runAt,
   takesSaid,
 } from "akasha/change/runner/modules/change-loading/change-loading.module.code.ts"
+
 import { costRecorded, opening } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import { decodeUtf8 } from "akasha/code/body/modules/utf8-body/utf8-body.module.code.ts"
 import {
@@ -49,7 +50,7 @@ import {
 } from "akasha/command/modules/change-acting/change-acting.module.code.ts"
 import { underIts } from "akasha/command/modules/change-ceiling/change-ceiling.module.code.ts"
 import { commandPageAt } from "akasha/command/modules/change-costing/change-costing.module.code.ts"
-import { unparsedAfter } from "akasha/command/modules/draft-parsing/draft-parsing.module.code.ts"
+import { draftFaults } from "akasha/command/modules/draft-length/draft-length.module.code.ts"
 import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts"
 import { readStamped } from "akasha/command/modules/read-stamping/read-stamping.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
@@ -300,8 +301,10 @@ export async function appending(
       return had
     }
     let said: Said
+    let world: World
     try {
-      said = await over(worldFor(root, had, before))
+      world = worldFor(root, had, before)
+      said = await over(world)
     } catch (thrown) {
       answer = stalling(root, had, thrown)
       return had
@@ -312,7 +315,7 @@ export async function appending(
     }
     const rows = [...had, ...said.edits]
     const unread = [
-      ...unparsedAfter(bodyIn(root), rows, said.edits),
+      ...draftFaults(bodyIn(root), world.index, rows, said.edits),
       ...(owing ? unwarrantedFor(root, agentId, rows, said.edits) : []),
     ]
     if (unread.length > 0) {
