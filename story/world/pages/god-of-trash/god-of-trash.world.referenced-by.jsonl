@@ -13,6 +13,14 @@
 {"propertySlug":"world","path":"story/world/pages/god-of-trash/lore/otherwhere-vii-potions-and-alchemy.lore.ts","id":"01a0ea2d-e07f-72b2-9772-2891ecf56b11"}
 {"propertySlug":"world","path":"story/world/pages/god-of-trash/lore/otherwhere-vii-schools-and-powers.lore.ts","id":"01a0ea3c-1ba2-7551-a405-d5aa402e6512"}
 {"propertySlug":"world","path":"story/world/pages/god-of-trash/lore/otherwhere-vii-skills.lore.ts","id":"01a0ea40-a960-760b-929e-444e121f621f"}
+{"propertySlug":"world","path":"story/world/pages/god-of-trash/mechanics/skills/otherwhere-vii-aura-hiding.world-skill.ts","id":"01a0ea42-eb9b-7b37-87ad-0038e67e0f55"}
+{"propertySlug":"world","path":"story/world/pages/god-of-trash/mechanics/skills/otherwhere-vii-fireball.world-skill.ts","id":"01a0ea42-eb9c-736a-9982-c7758879a9fa"}
+{"propertySlug":"world","path":"story/world/pages/god-of-trash/mechanics/skills/otherwhere-vii-haze.world-skill.ts","id":"01a0ea42-eb9c-7b5f-a04a-cdd5de865351"}
+{"propertySlug":"world","path":"story/world/pages/god-of-trash/mechanics/skills/otherwhere-vii-ignition.world-skill.ts","id":"01a0ea42-eb9c-7a30-8cb3-028a2d008446"}
+{"propertySlug":"world","path":"story/world/pages/god-of-trash/mechanics/skills/otherwhere-vii-message-sparrow.world-skill.ts","id":"01a0ea42-eb9c-77b3-86ca-ad23c7c3f9f9"}
+{"propertySlug":"world","path":"story/world/pages/god-of-trash/mechanics/skills/otherwhere-vii-minor-healing.world-skill.ts","id":"01a0ea42-eb9c-7a3e-b219-137ab5cef843"}
+{"propertySlug":"world","path":"story/world/pages/god-of-trash/mechanics/skills/otherwhere-vii-silence-barrier.world-skill.ts","id":"01a0ea42-eb9c-722b-b2c7-a33f525e28b7"}
+{"propertySlug":"world","path":"story/world/pages/god-of-trash/mechanics/skills/otherwhere-vii-weapon-intent.world-skill.ts","id":"01a0ea42-eb9c-76c2-8388-ead40c57b63a"}
 {"propertySlug":"world","path":"story/world/pages/god-of-trash/places/otherwhere-vii-alliance-capital.place.ts","id":"01a0ea41-4b61-7bdc-b9f3-7a66ab85c54e"}
 {"propertySlug":"world","path":"story/world/pages/god-of-trash/places/otherwhere-vii-ashford-road-ditch.place.ts","id":"01a0ea1d-8142-7835-8057-10159ee5a233"}
 {"propertySlug":"world","path":"story/world/pages/god-of-trash/places/otherwhere-vii-ashford-road.place.ts","id":"01a0ea3e-8160-736a-b535-dd10918f0afe"}

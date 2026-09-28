@@ -6,6 +6,14 @@
 {"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/utility-skills/otherwhere-v-utility-skill.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/god-of-trash/mechanics/skills/otherwhere-vii-aura-hiding.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/god-of-trash/mechanics/skills/otherwhere-vii-fireball.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/god-of-trash/mechanics/skills/otherwhere-vii-haze.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/god-of-trash/mechanics/skills/otherwhere-vii-ignition.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/god-of-trash/mechanics/skills/otherwhere-vii-message-sparrow.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/god-of-trash/mechanics/skills/otherwhere-vii-minor-healing.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/god-of-trash/mechanics/skills/otherwhere-vii-silence-barrier.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/god-of-trash/mechanics/skills/otherwhere-vii-weapon-intent.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/techniques/otherwhere-vii-technique.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere-ii/mechanics/skills/otherwhere-ii-mana-dart.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere-ii/mechanics/skills/otherwhere-ii-mend.world-skill.ts","typed":true,"deferred":false}
