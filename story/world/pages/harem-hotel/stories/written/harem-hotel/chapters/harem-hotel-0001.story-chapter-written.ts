@@ -10,7 +10,7 @@ export const haremHotel0001 = {
   story: "story-written/harem-hotel",
   ownLength: 4146,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "You wake dressed on a velvet chaise in a grand old hotel lobby, with no memory of arriving.",
     "The lobby is dark wood, brass and oxblood velvet, lit by a chandelier and green-shaded lamps.",
@@ -80,12 +80,15 @@ export const haremHotel0001 = {
     "Wren hands you your coat and says she would carry your bags if you had any.",
     "You step through the brass gate and climb the stairs toward the next floor.",
   ],
-  issues: ['"and start to climb toward the next floor" - Leave It Open'],
+  issues: [
+    '"and start to climb toward the next floor" - Leave It Open',
+    '"she draws your coat off you, down your arms" - the coat is still buttoned; nobody unbuttons it',
+  ],
   lore: ["place/harem-hotel-floor-1"],
   characters: [
     "character-player/harem-hotel-alan",
     "character-other/harem-hotel-odile",
     "character-other/harem-hotel-wren",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
