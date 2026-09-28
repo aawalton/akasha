@@ -6,5 +6,5 @@ export const otherwhereIvBlackTights = {
   slug: "otherwhere-iv-black-tights",
   title: "Black Tights",
   world: "world/beware-of-chicken",
-  description: "Snug black leggings of a smooth, stretching cloth nobody in the hills has seen.",
+  description: "Snug black leggings of a smooth, stretching cloth.",
 } as const satisfies WorldItem
