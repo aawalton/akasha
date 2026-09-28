@@ -157,6 +157,21 @@ export const worldMechanic = {
       statement: "A mechanic's appearances are how many chapters that mechanic is referenced in.",
     },
   ],
+  directives: [
+    {
+      directiveKind: "directive-kind/rule",
+      name: "What It Is",
+      act: "Write in a mechanic's description only what it plainly is, as the player knows it.",
+      warrant:
+        "A description is read at a glance, so anything else in it is read as part of the thing.",
+      aids: [
+        "How it is used, and what using it costs, belongs to the mechanic that uses it.",
+        "What it has been through belongs to git.",
+        "Who holds it, and what it was made from or taken from, is not what it is.",
+        "A mechanic it supersedes or pairs with is that other mechanic's business.",
+      ],
+    },
+  ],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType
