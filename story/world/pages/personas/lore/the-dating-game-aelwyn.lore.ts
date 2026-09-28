@@ -81,5 +81,9 @@ export const theDatingGameAelwyn = {
       fact: "Alan is in Aelwyn's Sunday workout video, which she posts that same night.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "Aelwyn is a seasonal forest ranger in Provo Canyon and knows every tree along the river.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
