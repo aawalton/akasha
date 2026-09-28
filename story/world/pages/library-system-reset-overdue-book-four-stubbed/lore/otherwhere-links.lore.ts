@@ -120,6 +120,10 @@ export const otherwhereLinks = {
         "character-other/otherwhere-links",
       ],
     },
+    {
+      fact: "Links told Nala the Library is hers now, and when to open it is her call.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

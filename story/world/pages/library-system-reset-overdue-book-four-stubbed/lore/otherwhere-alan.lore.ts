@@ -162,6 +162,14 @@ export const otherwhereAlan = {
         "character-other/otherwhere-links",
       ],
     },
+    {
+      fact: "Nala will not open the Library's doors to patrons until the hall's shelves are clean.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "Reaching again for Shelf Sight at once, Nala's sight sputtered out and stung behind her eyes.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
