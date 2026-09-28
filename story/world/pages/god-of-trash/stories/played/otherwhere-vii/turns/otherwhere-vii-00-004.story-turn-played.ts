@@ -10,7 +10,7 @@ export const otherwhereVii00004 = {
   position: 4,
   prose: "txt",
   characters: ["character-player/otherwhere-vii-nala", "character-other/otherwhere-vii-ennis"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: '"I\'ll take the ride, but keep the shirt, thanks."',
   beats: [
     "Nala tells the carter she'll take the ride, but keep the shirt, thanks.",
@@ -28,7 +28,7 @@ export const otherwhereVii00004 = {
     "The carter doesn't look at it. He doesn't look at her either, and says nothing for a while.",
     "At a bend stands a knee-high stone, mossy, carved on its face with a small drooping flower.",
     "Past the stone the road runs down to the village: thatched houses strung along it, smoke rising.",
-    "The road ends at a slow brown river, where the ruts go straight down into a ford.",
+    "The road runs down into a ford across a slow, clear river, and climbs out again beyond it.",
     "Beside the ford is a green, with a stone well, a pen of rough rails and a post stuck with notices.",
     "Women kneel at the river's edge, beating linen on flat stones.",
     "One of them looks up at the cart, then at Nala's legs in the black tights, and nudges the next.",
