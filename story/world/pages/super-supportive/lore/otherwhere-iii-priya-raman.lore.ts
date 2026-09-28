@@ -20,6 +20,10 @@ export const otherwhereIiiPriyaRaman = {
       fact: "She can place Nala tonight at a women's shelter in Uptown with a bed, meals and a locker.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Shelter beds open at five in the evening; the day must be spent elsewhere.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
