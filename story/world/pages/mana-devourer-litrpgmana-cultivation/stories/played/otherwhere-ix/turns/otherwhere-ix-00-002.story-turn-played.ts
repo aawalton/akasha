@@ -34,6 +34,12 @@ export const otherwhereIx00002 = {
     "The dark line lies far off to the east.",
     "The nearest black-barked tree stands alone some thirty paces away.",
   ],
+  issues: [
+    '"Your hands are empty." - No Prompt',
+    '"The nearest of the black-barked trees stands alone, some thirty paces away." - No Prompt',
+    '"Far off to the east, the dark line lies along the edge of the world." - Leave It Open',
+  ],
   lore: ["lore/otherwhere-ix-shardback", "place/otherwhere-ix-glassgrass-flats"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T15:32:00.000Z",
 } as const satisfies StoryTurnPlayed
