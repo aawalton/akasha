@@ -28,5 +28,6 @@ export const otherwhereV00004 = {
     "Ahead, the log's mouth is still some forty yards off in the dark.",
   ],
   lore: ["place/otherwhere-v-fern-hollow", "lore/otherwhere-v-gloamcat"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T19:01:00.000Z",
 } as const satisfies StoryTurnPlayed
