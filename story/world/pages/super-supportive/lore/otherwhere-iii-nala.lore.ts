@@ -104,6 +104,10 @@ export const otherwhereIiiNala = {
       fact: "Nala called aloud on the Earth Contract, and no voice, box or light answered her.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
+    {
+      fact: "Nala's feet are frostnipped, not frostbitten; kept warm and dry, they heal within a day.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
