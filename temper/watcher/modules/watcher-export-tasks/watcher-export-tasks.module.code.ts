@@ -4,7 +4,7 @@ import { collectPages } from "akasha/page/access/modules/iterate/iterate.module.
 import { patchPageById } from "akasha/page/access/modules/patch/patch.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import {
-  completionShapeOf,
+  completionShapeAlong,
   readsAsDone,
 } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -111,7 +111,7 @@ function cardIdOf(named: string | null): string | null {
 }
 
 function stillToDo(row: Page): boolean {
-  const shape = completionShapeOf(TASK_PAGE_TYPE_SLUG)
+  const shape = completionShapeAlong([TASK_PAGE_TYPE_SLUG])
   if (shape === null) return true
   return !readsAsDone(shape, row)
 }

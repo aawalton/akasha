@@ -4,7 +4,7 @@ export const taskLifecycle = {
   id: "01a05b92-a9c7-7218-a6a2-fd22347d97b9",
   type: "page-type/module",
   slug: "task-lifecycle",
-  definition: "what a task has once it is marked done",
+  definition: "what a page has once it is marked done",
   code: "ts",
   test: "ts",
   decisions: [
@@ -43,11 +43,42 @@ export const taskLifecycle = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every page type here has a key saying the task is done.",
+      statement: "A task reads as done where the task has the key saying so.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The keys a completion touches are read from the page type marked.",
+      statement:
+        "A completion shape is declared for a page type rather than for each type below it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page type takes the completion shape of the nearest page type it extends that has one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A to-do, a temper task and a collection each have a completion shape.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A collection reads as done where its own progress reaches its own length.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A collection with no length of its own reads as done where it has a completion instant.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Marking a collection done carries its own progress to its own length.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Marking a collection done gives it the instant of the marking as its completion.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Taking a collection's completion back puts its own progress back at nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -55,7 +86,7 @@ export const taskLifecycle = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Taking a completion back clears every key that completion set.",
+      statement: "Taking a task's completion back clears every key that completion set.",
     },
     {
       decisionKind: "decision-kind/absence",

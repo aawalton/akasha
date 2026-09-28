@@ -5,7 +5,9 @@
 {"propertySlug":"import","fileName":"page-type-inheritance.module.code.ts","path":"page/ui/component/modules/page-card/page-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-inheritance.module.code.ts","path":"page/ui/component/modules/page-detail-content/page-detail-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-inheritance.module.code.ts","path":"page/ui/component/modules/page-row-cells/page-row-cells.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-type-inheritance.module.code.ts","path":"page/ui/component/modules/pages-by-relation-content/pages-by-relation-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-inheritance.module.code.ts","path":"page/ui/component/modules/use-descendant-pages/use-descendant-pages.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-type-inheritance.module.code.ts","path":"page/ui/component/modules/view-tab-content/view-tab-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-inheritance.module.code.ts","path":"page/ui/supabase/modules/hooks/hooks.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-inheritance.module.code.ts","path":"page/ui/supabase/modules/page-resolver-provider/page-resolver-provider.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-inheritance.module.code.ts","path":"page/ui/supabase/modules/relation-picker/relation-picker.module.code.ts","typed":false,"deferred":false}

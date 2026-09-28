@@ -1,8 +1,8 @@
 {"propertySlug":"import","fileName":"task-lifecycle.module.code.ts","path":"page/core/modules/task-lifecycle/task-lifecycle.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"task-lifecycle.module.code.ts","path":"page/page.page-type.page-card-component.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"task-lifecycle.module.code.ts","path":"page/page.page-type.page-row-component.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"task-lifecycle.module.code.ts","path":"page/ui/component/modules/bare-listing-card/bare-listing-card.module.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"task-lifecycle.module.code.ts","path":"page/ui/component/modules/page-card-renderer/page-card-renderer.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"task-lifecycle.module.code.ts","path":"page/ui/component/modules/bare-listing-card/bare-listing-card.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"task-lifecycle.module.code.ts","path":"page/ui/component/modules/page-card-renderer/page-card-renderer.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"task-lifecycle.module.code.ts","path":"page/ui/component/modules/page-card/page-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"task-lifecycle.module.code.ts","path":"page/ui/component/modules/page-row-cells/page-row-cells.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"task-lifecycle.module.code.ts","path":"page/ui/component/modules/pages-by-relation-content/pages-by-relation-content.module.code.tsx","typed":false,"deferred":false}

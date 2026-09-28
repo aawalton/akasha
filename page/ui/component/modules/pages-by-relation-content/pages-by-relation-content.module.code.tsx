@@ -1,7 +1,7 @@
 "use client"
 
-import { completionShapeOf } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
-
+import { completionShapeAlong } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
+import { pageTypeChain } from "akasha/page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.code.ts"
 import type { ViewConfig } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import { useAppEditing } from "akasha/page/ui/component/modules/app-editing/app-editing.module.code.tsx"
 import { RenderBareListingCard } from "akasha/page/ui/component/modules/bare-listing-card/bare-listing-card.module.code.tsx"
@@ -140,7 +140,10 @@ export function PagesFilteredContent({
   const { notesProperty, notesPropertyOptions } = useNotesViewProps(effectiveConfig, properties)
 
   const completePage = useCompletePageOptimistic()
-  const completion = completionShapeOf(pageTypeSlug)
+  const completion = useMemo(
+    () => completionShapeAlong(pageTypeChain(pageTypes, pageTypeSlug)),
+    [pageTypes, pageTypeSlug]
+  )
 
   const handleComplete = useCallback(
     (page: PageRow, atMs: number | null) => {
@@ -235,6 +238,7 @@ export function PagesFilteredContent({
                 alwaysShowPropertyIds: effectiveConfig.always_show_properties ?? [],
                 notesProperty,
                 pageTypeIconName,
+                completion,
                 buildRowHref,
                 pageHrefById,
                 makeRelationHref,

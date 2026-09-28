@@ -2,7 +2,8 @@
 
 import { usePhrase } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/reading/web-phrase-reading.module.code.tsx"
 import { viewFailedToLoad } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/view-failed-to-load.web-phrase.ts"
-import { completionShapeOf } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
+import { completionShapeAlong } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
+import { pageTypeChain } from "akasha/page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.code.ts"
 import {
   isLocked,
   isPageTypeLocked,
@@ -150,7 +151,8 @@ export function ViewTabContent({
     rowPageTypeSlug ?? toPageTypeSlug("page")
   )
 
-  const completion = rowPageTypeSlug == null ? null : completionShapeOf(rowPageTypeSlug)
+  const completion =
+    rowPageTypeSlug == null ? null : completionShapeAlong(pageTypeChain(pageTypes, rowPageTypeSlug))
 
   const handleComplete = (page: PageRow, atMs: number | null) => {
     if (completion === null || rowPageTypeSlug == null) return
@@ -252,6 +254,7 @@ export function ViewTabContent({
             pageTypeIconName={pageTypeIconName}
             pageHrefById={pageHrefById}
             pageTypeSlugById={pageTypeSlugById}
+            completion={completion}
             onIconChange={
               !editing || isLocked(effectiveConfig, "editRowIcon") ? undefined : handleIconChange
             }

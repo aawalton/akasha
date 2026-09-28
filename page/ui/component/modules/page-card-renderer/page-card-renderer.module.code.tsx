@@ -2,7 +2,7 @@
 
 import type { IconName } from "akasha/page/core/generated/modules/icon-search-index/icon-search-index.module.code.ts"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
-import { completionShapeOf } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
+import type { CompletionShape } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
 import {
   type GalleryCardSize,
   resolveGalleryCoverUrl,
@@ -31,6 +31,7 @@ interface PageCardRendererProps {
   pageTypeIconName: string | null
   pageHrefById: (id: string, opts?: { targetPageTypeId?: string }) => string
   pageTypeSlugById?: ReadonlyMap<string, PageTypeSlug>
+  completion: CompletionShape | null
   onIconChange?: (pageId: string, icon: IconName) => void
   onPropertyChange?: (
     pageId: string,
@@ -57,6 +58,7 @@ export function PageCardRenderer({
   pageTypeIconName,
   pageHrefById,
   pageTypeSlugById,
+  completion,
   onIconChange,
   onPropertyChange,
   onComplete,
@@ -68,7 +70,6 @@ export function PageCardRenderer({
   coverMaskGlyph,
   onCoverClick,
 }: PageCardRendererProps) {
-  const completion = rowPageTypeSlug == null ? null : completionShapeOf(rowPageTypeSlug)
   const viewRowHref = buildRowHref(rowPageTypeSlug, page)
   const rowHref = viewRowHref !== "" ? viewRowHref : pageHrefById(page._id)
   const ownPicture = ownCover(rowPageTypeSlug, page.slug)

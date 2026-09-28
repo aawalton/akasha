@@ -175,6 +175,10 @@ export const collection = {
       decisionKind: "decision-kind/departure",
       statement: "A collection's own progress never runs past that collection's own length.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A collection is marked done and taken back from its card and its row.",
+    },
   ],
   types: "ts",
   schema: "jsonl",

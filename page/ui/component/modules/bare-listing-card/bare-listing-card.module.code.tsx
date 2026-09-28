@@ -2,7 +2,7 @@
 
 import type { IconName } from "akasha/page/core/generated/modules/icon-search-index/icon-search-index.module.code.ts"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
-import { completionShapeOf } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
+import type { CompletionShape } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
 import type { GalleryCardSize } from "akasha/page/core/view/modules/gallery/gallery.module.code.ts"
 import { PageCard } from "akasha/page/ui/component/modules/page-card/page-card.module.code.tsx"
 import { PageCardNotes } from "akasha/page/ui/component/modules/page-card-notes/page-card-notes.module.code.tsx"
@@ -24,6 +24,7 @@ interface BareListingCardContext {
   readonly alwaysShowPropertyIds: readonly string[]
   readonly notesProperty?: PropertyDefinition
   readonly pageTypeIconName: string | null
+  readonly completion: CompletionShape | null
   readonly buildRowHref: (row: PageRow) => string
   readonly pageHrefById: (id: string, opts?: { targetPageTypeId?: string }) => string
   readonly makeRelationHref: (rowId: string, rowHref: string) => (propertyId: string) => string
@@ -36,7 +37,6 @@ interface BareListingCardContext {
 }
 
 export function RenderBareListingCard(page: PageRow, ctx: BareListingCardContext): ReactElement {
-  const completion = completionShapeOf(ctx.pageTypeSlug)
   const rowHref = ctx.buildRowHref(page)
   const { _id: id, ...rest } = page
   const pageData = pageRowToPageDataJSON(rest)
@@ -82,7 +82,7 @@ export function RenderBareListingCard(page: PageRow, ctx: BareListingCardContext
       }
       pageHref={ctx.pageHrefById}
       relationHref={ctx.makeRelationHref(id, rowHref)}
-      completion={completion}
+      completion={ctx.completion}
       onComplete={ctx.onComplete != null ? (value) => ctx.onComplete?.(page, value) : undefined}
       onDelete={ctx.onDelete === undefined ? undefined : () => ctx.onDelete?.(id)}
       onToggleFavorite={

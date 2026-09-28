@@ -1,11 +1,11 @@
 import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import {
-  type CompletionShape,
-  completionShapeOf,
-  completionValues,
+  completionShapeAlong,
   nextDueFor,
   readsAsDone,
+  type TaskShape,
+  taskCompletionValues,
   uncompletionValues,
 } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
 import { instantToMillis } from "akasha/page/core/property-type/modules/instant/instant.module.code.ts"
@@ -86,10 +86,10 @@ export function seamsReady(seams: ImportTasksSeams = {}): ReadySeams {
   }
 }
 
-function taskCompletionShape(): CompletionShape {
-  const shape = completionShapeOf(TASK_PAGE_TYPE_SLUG)
-  if (shape === null) {
-    throw new Error(`no completion shape names \`${TASK_PAGE_TYPE_SLUG}\``)
+function taskCompletionShape(): TaskShape {
+  const shape = completionShapeAlong([TASK_PAGE_TYPE_SLUG])
+  if (shape?.kind !== "task") {
+    throw new Error(`no task completion shape names \`${TASK_PAGE_TYPE_SLUG}\``)
   }
   return shape
 }
@@ -125,7 +125,7 @@ export function isCompleteForever(task: TaskPage): boolean {
   return total > 0 && current >= total
 }
 
-function markedDone(shape: CompletionShape, atMs: number): Readonly<Record<string, string>> {
+function markedDone(shape: TaskShape, atMs: number): Readonly<Record<string, string>> {
   const stamp = new Date(atMs).toISOString()
   return { [shape.stampKey]: stamp, [shape.doneKey]: stamp }
 }
@@ -137,7 +137,7 @@ export function completionSet(
 ): Readonly<Record<string, string>> {
   const shape = taskCompletionShape()
   if (isCompleteForever(task)) return markedDone(shape, completedAtMs)
-  return completionValues(shape, task, completedAtMs, at.getTime())
+  return taskCompletionValues(shape, task, completedAtMs, at.getTime())
 }
 
 function completedOnThatDay(task: TaskPage, completedAtMs: number): boolean {

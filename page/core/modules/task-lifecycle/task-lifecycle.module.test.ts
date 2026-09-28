@@ -1,24 +1,71 @@
 import { expect, test } from "bun:test"
 import {
   anchorFor,
-  type CompletionShape,
+  COLLECTION_SHAPE,
   completedOnTheDayOf,
-  completionShapeOf,
+  completionShapeAlong,
   completionValues,
   readsAsDone,
+  type TaskShape,
   uncompletionValues,
 } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
 
 const AT = Date.parse("2026-09-06T22:00:00.000Z")
 
-function shapeFor(pageTypeSlug: string): CompletionShape {
-  const one = completionShapeOf(pageTypeSlug)
-  if (one === null) throw new Error(`no completion shape names \`${pageTypeSlug}\``)
+function shapeFor(pageTypeSlug: string): TaskShape {
+  const one = completionShapeAlong([pageTypeSlug])
+  if (one?.kind !== "task") throw new Error(`no task completion shape names \`${pageTypeSlug}\``)
   return one
 }
 
 test("a page type nothing is declared for carries no completion shape", () => {
-  expect(completionShapeOf("nav")).toBeNull()
+  expect(completionShapeAlong(["nav", "page"])).toBeNull()
+})
+
+test("a page type extending a collection takes the collection's completion shape", () => {
+  const chain = ["story-chapter-read", "chapter", "collection", "collection-external", "page"]
+  expect(completionShapeAlong(chain)).toBe(COLLECTION_SHAPE)
+})
+
+test("the nearest page type declaring a completion shape answers for the chain", () => {
+  expect(completionShapeAlong(["to-do", "collection", "page"])?.kind).toBe("task")
+})
+
+test("checking a collection carries its own progress to its own length and stamps it", () => {
+  const said = completionValues(COLLECTION_SHAPE, { ownLength: 4200, ownProgress: 300 }, AT)
+  expect(said).toEqual({ completedAt: "2026-09-06T22:00:00.000Z", ownProgress: 4200 })
+})
+
+test("checking a collection stating no length of its own stamps it alone", () => {
+  const said = completionValues(COLLECTION_SHAPE, { ownProgress: 3 }, AT)
+  expect(said).toEqual({ completedAt: "2026-09-06T22:00:00.000Z" })
+})
+
+test("unchecking a collection clears its stamp and its own progress", () => {
+  expect(uncompletionValues(COLLECTION_SHAPE)).toEqual({ completedAt: null, ownProgress: 0 })
+})
+
+test("a collection reads as done where its own progress reaches its own length", () => {
+  expect(readsAsDone(COLLECTION_SHAPE, { ownLength: 4200, ownProgress: 4200 })).toBe(true)
+  expect(readsAsDone(COLLECTION_SHAPE, { ownLength: 4200, ownProgress: 4199 })).toBe(false)
+})
+
+test("a collection stamped done but short of its own length reads as not done", () => {
+  const held = { ownLength: 4200, ownProgress: 10, completedAt: "2026-09-06T22:00:00.000Z" }
+  expect(readsAsDone(COLLECTION_SHAPE, held)).toBe(false)
+})
+
+test("a collection stating no length of its own reads as done where it is stamped", () => {
+  expect(readsAsDone(COLLECTION_SHAPE, { completedAt: "2026-09-06T22:00:00.000Z" })).toBe(true)
+  expect(readsAsDone(COLLECTION_SHAPE, {})).toBe(false)
+})
+
+test("a checked collection reads as done and an unchecked one reads as not done", () => {
+  const held = { ownLength: 12, ownProgress: 5 }
+  const checked = { ...held, ...completionValues(COLLECTION_SHAPE, held, AT) }
+  expect(readsAsDone(COLLECTION_SHAPE, checked)).toBe(true)
+  const unchecked = { ...checked, ...uncompletionValues(COLLECTION_SHAPE) }
+  expect(readsAsDone(COLLECTION_SHAPE, unchecked)).toBe(false)
 })
 
 test("a to-do holding no rule reads as done from the instant it was marked", () => {
