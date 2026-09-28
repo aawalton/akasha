@@ -11,6 +11,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "Uptown Memorial is a mid-sized hospital a block east of the Lawrence L stop, in Uptown.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "From the Lawrence platform it is a stair down, then one snowy block east to the ER doors.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
