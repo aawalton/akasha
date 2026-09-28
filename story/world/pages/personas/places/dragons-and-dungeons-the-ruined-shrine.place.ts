@@ -7,8 +7,14 @@ export const dragonsAndDungeonsTheRuinedShrine = {
   title: "The Ruined Shrine",
   world: "world/personas",
   exits: [
-    { way: "Up the rubble slope in one corner and out through the broken ceiling." },
-    { way: "Down the narrow servants' passage behind the altar, into the dark." },
+    {
+      way: "Up the rubble slope in one corner and out through the broken ceiling.",
+      direction: "up",
+    },
+    {
+      way: "Down the narrow servants' passage behind the altar, into the dark.",
+      direction: "down",
+    },
   ],
   facts: [
     {

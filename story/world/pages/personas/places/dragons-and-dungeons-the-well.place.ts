@@ -12,6 +12,7 @@ export const dragonsAndDungeonsTheWell = {
     {
       to: "place/dragons-and-dungeons-the-chancel",
       way: "Up the flooded spiral ramp; long and dark, and it goes up.",
+      direction: "up",
     },
   ],
   facts: [

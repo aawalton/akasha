@@ -14,6 +14,7 @@ export const dragonsAndDungeonsTheStillwater = {
     {
       to: "place/dragons-and-dungeons-the-drowned-hall",
       way: "Up the broken stair off the far end of the quay.",
+      direction: "up",
     },
   ],
   facts: [

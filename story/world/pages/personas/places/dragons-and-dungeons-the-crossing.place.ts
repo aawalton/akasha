@@ -10,6 +10,7 @@ export const dragonsAndDungeonsTheCrossing = {
     {
       to: "place/dragons-and-dungeons-the-kin-fire-ring",
       way: "North on foot, up into the high cold country.",
+      direction: "north",
     },
     {
       to: "place/dragons-and-dungeons-the-stillwater",

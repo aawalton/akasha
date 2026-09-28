@@ -10,6 +10,7 @@ export const dragonsAndDungeonsTheKinFireRing = {
     {
       to: "place/dragons-and-dungeons-the-crossing",
       way: "South on foot, down out of the high cold country into greener, wetter land.",
+      direction: "south",
     },
   ],
   facts: [
