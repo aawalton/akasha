@@ -4,10 +4,13 @@ export const theDatingGame00031 = {
   id: "01a0e565-d397-7bdd-8e8f-8235d4248bb9",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-031",
+  ownLength: 142,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 31,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
+  turnStatus: "turn-status/reviewers",
   action:
     "“Already gone”, I say with a sad smile. “But this has been a good batch at least. I mean, I can’t complain about spending time in the dark with a kind and beautiful woman.”",
   beats: [
