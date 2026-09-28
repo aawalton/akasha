@@ -149,6 +149,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-sarah.lore.ts","id":"01a0e9f8-7a17-7d21-9ef7-5cc105b5edd0"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-sarya.lore.ts","id":"01a0e9f6-e50a-7ce2-b976-0be135f4c73c"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-sea-monster.lore.ts","id":"01a0e9fa-0d15-710b-85ad-539d048efd51"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-seals.lore.ts","id":"01a0e9fa-d593-792d-9d3b-c192b7bc7c40"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-seers-of-itonia.lore.ts","id":"01a0e9f7-12e8-7e2f-8fe2-72f4bad18614"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-shai.lore.ts","id":"01a0e9f9-91ed-7a79-b34d-a28a0233e1e5"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-shong.lore.ts","id":"01a0e9fa-2b5f-7c6d-bcbb-20b8a9693441"}
@@ -202,6 +203,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-mental-magic.world-mechanic.ts","id":"01a0e9f9-e5ca-7fda-990d-cc6bf1c43666"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-ranks.world-mechanic.ts","id":"01a0e9f5-a5d7-7328-a028-7300ae370972"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-recognition.world-mechanic.ts","id":"01a0e9f2-0288-779d-b904-1f8ce57346d9"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-seals.world-mechanic.ts","id":"01a0e9fa-d594-73c0-8008-c2356474a93b"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-soul-magic.world-mechanic.ts","id":"01a0e9fa-7a13-7d12-b0ce-089e179bc720"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-spell-tiers.world-mechanic.ts","id":"01a0e9f3-1a10-7b12-9cc2-eb30939b9dec"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-spellcasting.world-mechanic.ts","id":"01a0e9f2-d739-7a80-a12b-5e79ad1de335"}
