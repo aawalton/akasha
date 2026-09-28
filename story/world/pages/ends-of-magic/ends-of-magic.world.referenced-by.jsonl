@@ -49,12 +49,15 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/places/otherwhere-v-drozahn.place.ts","id":"01a0e9f3-448b-7c9e-96ed-f13cbd91cb57"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/places/otherwhere-v-fern-hollow.place.ts","id":"01a0e9e4-706a-77ea-88bf-f538189767cf"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/places/otherwhere-v-fireface-pass.place.ts","id":"01a0e9f3-cc54-7cf2-9233-c90c6a30f49f"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/places/otherwhere-v-gemore-adventurers-guild.place.ts","id":"01a0e9f4-7b7e-7559-85ef-6e720a9ecd34"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/places/otherwhere-v-gemore-mountains.place.ts","id":"01a0e9f3-cc55-70b0-bbe4-8f0f61fe6b92"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/places/otherwhere-v-gemore.place.ts","id":"01a0e9f4-7b7f-7225-8963-e12162efe420"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/places/otherwhere-v-giantsrest-continent.place.ts","id":"01a0e9f2-9014-7779-be14-dbb5a1e37590"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/places/otherwhere-v-giantsrest.place.ts","id":"01a0e9f2-cf72-79d5-87c5-1d1355b7b694"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/places/otherwhere-v-halsmet.place.ts","id":"01a0e9f3-cc55-7f92-a0df-4fd710f37f02"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/places/otherwhere-v-old-gemore.place.ts","id":"01a0e9f4-06cc-7fbf-af12-bff1a59e2e03"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/places/otherwhere-v-taeols-tower.place.ts","id":"01a0e9f3-cc56-7fb7-9545-ceff8a0eab1e"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/places/otherwhere-v-tomb-of-sklias.place.ts","id":"01a0e9f4-7b7f-703f-894d-b024045caae9"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/checks/otherwhere-v-action-check.world-check.ts","id":"01a0e9f3-a87d-73ab-82ab-1f72b581e333"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/checks/otherwhere-v-time-passing.world-check.ts","id":"01a0e9eb-fbd8-7e4e-95d0-27d199455ab6"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/mechanics/otherwhere-v-bargaining.world-mechanic.ts","id":"01a0e9f2-4104-7d9f-99ed-a64c5911191d"}
