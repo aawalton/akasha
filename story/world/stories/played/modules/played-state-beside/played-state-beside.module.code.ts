@@ -60,8 +60,6 @@ const AXIS_KEY = "axis"
 
 const OBJECTIVE_KEY = "objective"
 
-const REWARD_KEY = "reward"
-
 const STATUS_KEY = "status"
 
 const POINTS_KEY = "relationshipPoints"
@@ -199,7 +197,7 @@ async function readFiled(character: string, turn: number): Promise<Filed> {
     askComposed({
       "page-type": worldQuest.slug,
       where: { character: { is: character } },
-      keys: [CHARACTER_KEY, SLUG_KEY, TITLE_KEY, OBJECTIVE_KEY, REWARD_KEY, STATUS_KEY],
+      keys: [CHARACTER_KEY, SLUG_KEY, TITLE_KEY, OBJECTIVE_KEY, STATUS_KEY],
     }),
     askComposed({
       "page-type": worldRelationship.slug,
