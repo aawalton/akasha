@@ -150,6 +150,10 @@ export const otherwhereAlan = {
       fact: "Nala scrubbed the honey and salt off herself under the quarters' cold tap.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
+    {
+      fact: "Nala soaked clean in the hot tub, then brought herself to climax there.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
