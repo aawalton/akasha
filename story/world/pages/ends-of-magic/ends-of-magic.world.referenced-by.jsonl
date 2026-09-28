@@ -199,6 +199,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-jaus.lore.ts","id":"01a0e9fc-4337-7a7d-842f-65e809c1a495"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-jenice.lore.ts","id":"01a0e9fc-9998-7ff7-bdfb-7a0660d09a7e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-kaelis.lore.ts","id":"01a0e9fc-9998-72d2-8f6d-d9197d38eff9"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-kalis-empire.lore.ts","id":"01a0ea01-dc60-7e7e-aeb1-0a2addc9c65f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-kamus.lore.ts","id":"01a0e9fc-f50a-7b52-b74a-0c0d5c5a3f1a"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-keihonia.lore.ts","id":"01a0e9fa-5276-7922-8358-318e5a6c1ee1"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-khachi.lore.ts","id":"01a0e9fc-f50b-7a37-9883-0d1da1373078"}
@@ -291,6 +292,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-taeol-dho-droxol.lore.ts","id":"01a0e9f5-cfaf-7860-a095-51e28a58fc13"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-talents.lore.ts","id":"01a0e9f3-e3e7-7d56-afda-4aef05c7aeac"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-teleportation.lore.ts","id":"01a0e9fc-e55c-7e65-87ce-9a75396a08ec"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-the-heirs.lore.ts","id":"01a0ea01-dc60-7543-8c07-bed03111aa66"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-the-maelstrom.lore.ts","id":"01a0e9ff-dc73-703d-853e-fcf0ea8af39a"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-the-maestro.lore.ts","id":"01a0e9fe-3d10-7e86-bb3d-7a57d53148f0"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-the-nails.lore.ts","id":"01a0e9f4-5850-7313-a982-9e6d1dc02fe5"}
@@ -392,6 +394,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-guardians-of-esebus.world-organization.ts","id":"01a0e9f8-bd22-7985-80f1-620339ec9750"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-helmaris.world-organization.ts","id":"01a0e9fa-e2af-7b6f-b743-b86804ba2503"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-itonia.world-organization.ts","id":"01a0e9f7-12e8-7507-afbe-ea00ff423668"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-kalis-empire.world-organization.ts","id":"01a0ea01-dc61-7dc5-a8f2-11283580e3f7"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-keihonia.world-organization.ts","id":"01a0e9fa-527c-750d-a2e6-e5d0c31506a2"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-litcliff.world-organization.ts","id":"01a0e9f6-77ec-7beb-a73a-ba37606d0eef"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-questor-grids.world-organization.ts","id":"01a0e9fb-e182-799f-a2f7-0fa28967e72e"}
@@ -403,6 +406,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-seminary-of-assassins.world-organization.ts","id":"01a0e9fc-7097-70ae-b9a8-85f410ffca34"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-severance-bloc.world-organization.ts","id":"01a0ea01-0e97-75f7-b91c-060386977e4b"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-siblings-of-itonia.world-organization.ts","id":"01a0e9f7-12e9-76c5-8fd6-0511a2d76591"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-the-heirs.world-organization.ts","id":"01a0ea01-dc61-7f93-80be-e939d32d00b5"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-the-maelstrom.world-organization.ts","id":"01a0e9ff-dc74-7c8b-ad7e-963b658d7f45"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-the-nails.world-organization.ts","id":"01a0e9f4-5851-7b0a-9b2f-f797d786c8fd"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-birdfolk.world-species.ts","id":"01a0e9f3-7323-7d89-88bb-272ffe812118"}

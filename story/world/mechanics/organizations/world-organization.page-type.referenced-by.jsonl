@@ -15,6 +15,7 @@
 {"propertySlug":"import","fileName":"world-organization.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-guardians-of-esebus.world-organization.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-organization.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-helmaris.world-organization.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-organization.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-itonia.world-organization.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-organization.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-kalis-empire.world-organization.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-organization.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-keihonia.world-organization.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-organization.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-litcliff.world-organization.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-organization.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-questor-grids.world-organization.ts","typed":true,"deferred":false}
@@ -26,6 +27,7 @@
 {"propertySlug":"import","fileName":"world-organization.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-seminary-of-assassins.world-organization.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-organization.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-severance-bloc.world-organization.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-organization.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-siblings-of-itonia.world-organization.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-organization.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-the-heirs.world-organization.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-organization.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-the-maelstrom.world-organization.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-organization.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-the-nails.world-organization.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-organization.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/organizations/super-supportive-allied-heroes-of-earth.world-organization.ts","typed":true,"deferred":false}
