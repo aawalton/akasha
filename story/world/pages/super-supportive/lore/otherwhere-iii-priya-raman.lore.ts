@@ -24,6 +24,10 @@ export const otherwhereIiiPriyaRaman = {
       fact: "Shelter beds open at five in the evening; the day must be spent elsewhere.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She can give her a transit card loaded with twenty dollars and a bag from the clothing closet.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
