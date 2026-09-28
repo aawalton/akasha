@@ -36,5 +36,6 @@ export const otherwhereIii00011 = {
     '"Do you have a Social Security number I can try? Or any ID at all?"',
   ],
   lore: ["place/otherwhere-iii-uptown-memorial-er"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2037-01-31T07:05:00.000Z",
 } as const satisfies StoryTurnPlayed
