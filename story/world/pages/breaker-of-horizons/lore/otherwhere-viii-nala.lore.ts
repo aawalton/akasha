@@ -66,7 +66,7 @@ export const otherwhereViiiNala = {
     },
     {
       fact: "Nala woke on a bench in Weir Gardens just before dawn on day one.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
   ],
   secrets: "jsonl",
