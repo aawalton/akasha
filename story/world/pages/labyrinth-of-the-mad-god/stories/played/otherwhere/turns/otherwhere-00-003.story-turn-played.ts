@@ -44,4 +44,5 @@ export const otherwhere00003 = {
     "place/otherwhere-lowland-wood",
     "place/otherwhere-black-shore",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
