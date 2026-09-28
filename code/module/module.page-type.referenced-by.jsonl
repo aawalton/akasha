@@ -1863,6 +1863,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/inference/generation/wan/modules/extend-graph/wan-extend-graph.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/inference/generation/wan/modules/i2v-graph/wan-i2v-graph.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/inference/generation/wan/modules/size/wan-size.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/inference/generation/zimage/modules/edit-graph/zimage-edit-graph.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/inference/generation/zimage/modules/explore-batch/zimage-explore-batch.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/inference/generation/zimage/modules/explore-worker/zimage-explore-worker.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/inference/generation/zimage/modules/graph/zimage-graph.module.ts","typed":true,"deferred":false}

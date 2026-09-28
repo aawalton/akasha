@@ -2888,6 +2888,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/upscale/upscale.domain.ts","id":"01a06815-9efd-7040-a13c-1048a109ba86"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/wan/modules/size/wan-size.module.ts","id":"01a067f1-4e2c-7000-b3a1-6c2f9d4a8e10"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/wan/wan.domain.ts","id":"01a06815-9efd-7028-bfc6-b3c3933ac08c"}
+{"propertySlug":"decision-kind","path":"infrastructure/inference/generation/zimage/modules/edit-graph/zimage-edit-graph.module.ts","id":"01a0e923-bb2b-7486-96a4-d2b4252f8f56"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/zimage/modules/explore-batch/zimage-explore-batch.module.ts","id":"01a06815-9efd-702b-918e-4790e2c76682"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/zimage/modules/explore-worker/zimage-explore-worker.module.ts","id":"01a06815-9efd-702c-97c4-1d8fa5c36f48"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/zimage/zimage.domain.ts","id":"01a06815-9efd-7032-89aa-a2f0ea5e1881"}
