@@ -65,5 +65,21 @@ export const theDatingGameAelwyn = {
         "character-other/the-dating-game-aelwyn",
       ],
     },
+    {
+      fact: "Aelwyn leads her stretches aloud like a class: hamstrings, then hips, then calves.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Aelwyn coached Alan's hamstring stretch: back flat, hinge from the hips, not the shoulders.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-aelwyn",
+      ],
+    },
+    {
+      fact: "Alan is in Aelwyn's Sunday workout video, which she posts that same night.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
 } as const satisfies Lore

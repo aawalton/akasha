@@ -4,13 +4,14 @@ export const theDatingGame00043 = {
   id: "01a0e815-225f-7d34-9b15-ce15b713720f",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-043",
+  cover: "image/image-5cc7f1df2c05c2c1",
   ownLength: 137,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 43,
   prose: "txt",
   characters: ["character-other/the-dating-game-aelwyn", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: "I join her for the stretches.",
   beats: [
     "He sits down on the grass a little way from her and joins her stretches.",
@@ -25,6 +26,6 @@ export const theDatingGame00043 = {
     "\"Oh, heads up. You're in today's video. It goes up tonight. You're gonna be internet famous.\"",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-27T10:37:00.000Z",
 } as const satisfies StoryTurnPlayed
