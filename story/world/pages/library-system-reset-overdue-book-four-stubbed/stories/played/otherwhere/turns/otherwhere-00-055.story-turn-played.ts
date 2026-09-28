@@ -23,4 +23,5 @@ export const otherwhere00055 = {
     'Links: "At fifty power my golems wake, and there are shelving golems among them."',
   ],
   lore: ["lore/otherwhere-universe", "place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
