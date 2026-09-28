@@ -1847,6 +1847,7 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/metrics/resources/purse/otherwhere-iv-purse.page-type.ts","id":"01a0e9f3-1922-78de-a215-d8c14dc07dbd"}
 {"propertySlug":"decision-kind","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/checks/otherwhere-viii-action-check.world-check.ts","id":"01a0ea38-49e6-7de7-95e5-1a8b84fca941"}
 {"propertySlug":"decision-kind","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/checks/otherwhere-viii-harm.world-check.ts","id":"01a0ea39-8ec3-7e39-afa7-037e617fa830"}
+{"propertySlug":"decision-kind","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/checks/otherwhere-viii-learning.world-check.ts","id":"01a0ea3e-acd0-79dd-979b-6435ce3d4ab8"}
 {"propertySlug":"decision-kind","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/checks/otherwhere-viii-standing.world-check.ts","id":"01a0ea3b-ec94-759a-8127-689daa86ed5d"}
 {"propertySlug":"decision-kind","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/checks/otherwhere-v-action-check.world-check.ts","id":"01a0e9f3-a87d-73ab-82ab-1f72b581e333"}
 {"propertySlug":"decision-kind","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/checks/otherwhere-v-growth.world-check.ts","id":"01a0e9fb-9dd9-74f4-8bd3-3f56468eeb8d"}
