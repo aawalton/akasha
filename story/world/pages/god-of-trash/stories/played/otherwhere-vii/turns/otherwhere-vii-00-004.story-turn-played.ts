@@ -10,7 +10,7 @@ export const otherwhereVii00004 = {
   position: 4,
   prose: "txt",
   characters: ["character-player/otherwhere-vii-nala", "character-other/otherwhere-vii-ennis"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: '"I\'ll take the ride, but keep the shirt, thanks."',
   beats: [
     "Nala tells the carter she'll take the ride, but keep the shirt, thanks.",
@@ -36,11 +36,14 @@ export const otherwhereVii00004 = {
     'He looks at her sideways for the first time since the stone. "So. What is it you mean to do?"',
     "\"They're taking on hands for threshing this week, if you've the arms for it.\"",
   ],
+  issues: [
+    '"The road ends at a slow brown river" - the Ashford road runs on west past Ashford to the mountain',
+  ],
   lore: [
     "place/otherwhere-vii-ashford-road",
     "lore/otherwhere-vii-ennis",
     "place/otherwhere-vii-ashford",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T07:00:00.000Z",
 } as const satisfies StoryTurnPlayed
