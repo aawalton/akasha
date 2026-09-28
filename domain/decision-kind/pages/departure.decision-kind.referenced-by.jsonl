@@ -3859,6 +3859,7 @@
 {"propertySlug":"decision-kind","path":"story/world/mechanics/relationships/properties/world-relationship-level.computed-property.ts","id":"01a0de40-70c2-7965-8757-30658bc2f9ba"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
 {"propertySlug":"decision-kind","path":"story/world/named-events/named-event.page-type.ts","id":"01a0658b-9f41-7cc1-93d8-f47f7aa3b771"}
+{"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-time-passing.world-check.ts","id":"01a0e9ea-7b35-7738-9044-313555b4f9d4"}
 {"propertySlug":"decision-kind","path":"story/world/pages/cornerstone/mechanics/derived/cornerstone-wakefulness.world-derived-metric.ts","id":"01a0dee7-ba7b-7084-b6fd-e83123684331"}
 {"propertySlug":"decision-kind","path":"story/world/pages/cornerstone/mechanics/ranks/depth/cornerstone-depth.page-type.ts","id":"01a0dee6-492c-728a-b2ed-cf137b64fbd8"}
 {"propertySlug":"decision-kind","path":"story/world/pages/cornerstone/mechanics/ranks/wakefulness-tier/cornerstone-wakefulness-tier.page-type.ts","id":"01a0dee6-492e-7912-9c50-5b25d4ebb420"}
