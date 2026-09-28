@@ -8,7 +8,7 @@ import type {
   Asked,
   QueryRow,
 } from "akasha/page/query/modules/store-questioning/store-questioning.module.code.ts"
-import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
+
 import type { Quest } from "akasha/story/engine/core/modules/quest-schema/quest-schema.module.code.ts"
 import type { RevealedSheet } from "akasha/story/engine/core/modules/revealed/revealed.module.code.ts"
 import type { GameState } from "akasha/story/engine/core/modules/state-schema/state-schema.module.code.ts"
@@ -22,6 +22,10 @@ import { metricCharacterResource } from "akasha/story/world/mechanics/metrics/me
 import { worldQuest } from "akasha/story/world/mechanics/quests/world-quest.page-type.ts"
 import { worldRelationship } from "akasha/story/world/mechanics/relationships/world-relationship.page-type.ts"
 import { worldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.ts"
+import {
+  askedLoudly,
+  reportThrown,
+} from "akasha/story/world/stories/played/modules/played-asking/played-asking.module.code.ts"
 import {
   attunementsIn,
   bondsIn,
@@ -156,7 +160,7 @@ async function titlesOf(
   const titles = new Map<string, string>()
   await Promise.all(
     [...named].map(async ([type, slugs]) => {
-      const asked = await askComposed({
+      const asked = await askedLoudly({
         "page-type": type,
         where: { slug: { in: [...slugs] } },
         keys: [SLUG_KEY, TITLE_KEY],
@@ -178,33 +182,33 @@ function rowsOf(asked: Asked): readonly QueryRow[] {
 
 async function readFiled(character: string, turn: number): Promise<Filed> {
   const [resources, scores, holdings, quests, bonds, attunements, had] = await Promise.all([
-    askComposed({
+    askedLoudly({
       "page-type": metricCharacterResource.slug,
       where: { character: { is: character } },
       keys: [TYPE_KEY, CHARACTER_KEY, VALUE_KEY, MAX_VALUE_KEY, HISTORY_KEY],
       files: [HISTORY_KEY],
     }),
-    askComposed({
+    askedLoudly({
       "page-type": metricCharacterAttribute.slug,
       where: { character: { is: character } },
       keys: [TYPE_KEY, CHARACTER_KEY, VALUE_KEY],
     }),
-    askComposed({
+    askedLoudly({
       "page-type": worldSkill.slug,
       where: { character: { is: character } },
       keys: [CHARACTER_KEY, SKILL_KEY, RANK_KEY, LEVEL_KEY, AXIS_KEY],
     }),
-    askComposed({
+    askedLoudly({
       "page-type": worldQuest.slug,
       where: { character: { is: character } },
       keys: [CHARACTER_KEY, SLUG_KEY, TITLE_KEY, OBJECTIVE_KEY, STATUS_KEY],
     }),
-    askComposed({
+    askedLoudly({
       "page-type": worldRelationship.slug,
       where: { characters: { has: character } },
       keys: [CHARACTERS_KEY, POINTS_KEY],
     }),
-    askComposed({
+    askedLoudly({
       "page-type": worldAttunement.slug,
       where: { character: { is: character } },
       keys: [CHARACTER_KEY, ELEMENT_KEY, RANK_KEY, COUNTER_KEY],
@@ -290,7 +294,10 @@ export function usePlayedState(character: string, turn: number | null): Filed | 
     }
     let alive = true
     void (async () => {
-      const held = await readFiled(character, turn).catch(() => NOTHING_FILED)
+      const held = await readFiled(character, turn).catch((thrown: unknown) => {
+        reportThrown(`reading the sheet of ${character}`, thrown)
+        return NOTHING_FILED
+      })
       if (alive) setFiled(held)
     })()
     return () => {

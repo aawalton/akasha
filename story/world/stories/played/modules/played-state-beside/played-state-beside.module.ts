@@ -57,6 +57,11 @@ export const playedStateBeside = {
       statement: "A read is asked again as the story's last turn changes.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A part the store refuses is reported and drawn as nothing, and the other parts are drawn.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a page.",
     },
