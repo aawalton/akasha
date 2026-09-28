@@ -13,6 +13,7 @@ import {
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 import { worldCharacter } from "akasha/story/world/characters/world-character.page-type.ts"
+import { worldRelationship } from "akasha/story/world/mechanics/relationships/world-relationship.page-type.ts"
 import { worldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.ts"
 
 function roleNamed(slug: string): Value {
@@ -30,6 +31,8 @@ const PAGES: Record<string, Value> = {
   "subagent/rec-sub": { principalSeatName: "seat/rec" },
   "relation-property/holding-skill": targeting(worldSkill.slug),
   "relation-property/holding-character": targeting(worldCharacter.slug),
+  "multi-relation-property/between-characters": targeting(worldCharacter.slug),
+  "multi-relation-property/some-skills": targeting(worldSkill.slug),
 }
 
 const KINDS: ReadonlySet<string> = new Set([
@@ -38,11 +41,16 @@ const KINDS: ReadonlySet<string> = new Set([
   "held-skill",
   "world-item",
   "mana-meter",
+  worldRelationship.slug,
+  "skill-set",
+  "guild",
 ])
 
 const CHARACTERS: ReadonlySet<string> = new Set([worldCharacter.slug])
 
 const RELATION = "relation-property"
+
+const MULTI = "multi-relation-property"
 
 const DECLARED: Record<string, ReturnType<Knowing["declarationsOf"]>> = {
   "held-skill": [
@@ -50,6 +58,11 @@ const DECLARED: Record<string, ReturnType<Knowing["declarationsOf"]>> = {
     { required: true, pageTypeSlug: RELATION, pagePropertySlug: "holding-skill" },
   ],
   "mana-meter": [{ required: true, pageTypeSlug: RELATION, pagePropertySlug: "holding-character" }],
+  [worldRelationship.slug]: [
+    { required: true, pageTypeSlug: MULTI, pagePropertySlug: "between-characters" },
+  ],
+  "skill-set": [{ required: true, pageTypeSlug: MULTI, pagePropertySlug: "some-skills" }],
+  guild: [{ required: false, pageTypeSlug: MULTI, pagePropertySlug: "between-characters" }],
 }
 
 const INDEX: Knowing = {
@@ -90,6 +103,19 @@ test("a page tracking a character already defined brings no new lore, and define
   const meter = added("story/metrics/nala.mana-meter.ts")
   expect(definedIn(INDEX, bodyOf, [meter])).toEqual([])
   expect(definingRefused(INDEX, bodyOf, GM, [meter])).toEqual([])
+})
+
+test("a relationship between characters already defined is kept by a recorder, and defines nothing", () => {
+  const at = `story/mechanics/relationships/nala-maro.${worldRelationship.slug}.ts`
+  const rec = "agent/seat/pages/rec/rec.seat.ts"
+  const set = added("story/mechanics/sets/nala.skill-set.ts")
+  expect(definedIn(INDEX, bodyOf, [added(at), set])).toEqual([])
+  expect(definingRefused(INDEX, bodyOf, rec, [added(at)])).toEqual([])
+})
+
+test("a kind naming characters only where it may is still a definition", () => {
+  const at = "story/mechanics/guilds/weavers.guild.ts"
+  expect(definedIn(INDEX, bodyOf, [added(at)])).toEqual([at])
 })
 
 test("a page already there is changed rather than defined", () => {

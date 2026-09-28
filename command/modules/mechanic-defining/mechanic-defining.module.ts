@@ -24,6 +24,10 @@ export const mechanicDefining = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A relation naming many pages counts as a relation naming one does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A page tracking what is defined already brings no new lore, so it defines nothing.",
     },

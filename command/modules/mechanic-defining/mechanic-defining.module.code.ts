@@ -19,7 +19,7 @@ const MECHANIC = "world-mechanic"
 
 const CHARACTER = "world-character"
 
-const RELATION = "relation-property"
+const RELATIONS: ReadonlySet<string> = new Set(["relation-property", "multi-relation-property"])
 
 const TARGET = "targetPageType"
 
@@ -58,8 +58,8 @@ export function roleOf(index: Knowing, page: string): string | null {
 
 function holding(index: Knowing, pageType: string, kinds: ReadonlySet<string>): boolean {
   return index.declarationsOf(pageType).some((one) => {
-    if (!one.required || one.pageTypeSlug !== RELATION) return false
-    const property = index.pageAt(RELATION, one.pagePropertySlug)
+    if (!one.required || !RELATIONS.has(one.pageTypeSlug)) return false
+    const property = index.pageAt(one.pageTypeSlug, one.pagePropertySlug)
     const target = property === null ? null : slugAt(property, TARGET)
     return target !== null && kinds.has(target)
   })
