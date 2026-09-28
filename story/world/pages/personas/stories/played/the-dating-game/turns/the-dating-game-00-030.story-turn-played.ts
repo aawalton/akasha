@@ -35,5 +35,5 @@ export const theDatingGame00030 = {
     '"This one," she says gently. "Right now. How is he?"',
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/picture"],
+  recordedBy: ["story-recorder/picture", "story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
