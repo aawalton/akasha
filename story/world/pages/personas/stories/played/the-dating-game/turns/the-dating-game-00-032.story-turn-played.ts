@@ -23,5 +23,9 @@ export const theDatingGame00032 = {
     '"This walk is how I get ready. It\'s quiet here, and a lantern fits right in."',
     "The lantern swings low between them, and the gravel of the path crunches softly under their feet.",
   ],
+  issues: [
+    '"The lantern swings low between you, and the gravel of the path crunches" - Leave It Open',
+  ],
   lore: ["lore/the-dating-game-grace"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
