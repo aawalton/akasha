@@ -35,5 +35,9 @@ export const otherwhereViiAshfordRoadDitch = {
       fact: "The ditch water is foul and unsafe to drink; a clean well sits at Ashford's green.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "On day one, wheels and hooves came up the road toward the ditch from away from the village.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+    },
   ],
 } as const satisfies Place
