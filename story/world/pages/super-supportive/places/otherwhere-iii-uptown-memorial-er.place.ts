@@ -6,6 +6,12 @@ export const otherwhereIiiUptownMemorialEr = {
   slug: "otherwhere-iii-uptown-memorial-er",
   title: "The Uptown Memorial ER",
   world: "world/super-supportive",
+  facts: [
+    {
+      fact: "Uptown Memorial is a mid-sized hospital a block east of the Lawrence L stop, in Uptown.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
 } as const satisfies Place
