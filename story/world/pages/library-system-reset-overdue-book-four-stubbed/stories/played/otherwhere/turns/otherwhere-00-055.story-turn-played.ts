@@ -4,10 +4,13 @@ export const otherwhere00055 = {
   id: "01a0e7c8-3ddc-7c98-909a-b38afe1105fd",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-055",
+  ownLength: 117,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 55,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
+  turnStatus: "turn-status/reviewers",
   action:
     "**Three thousand is a lot. Is there any magic available to make this faster? Telekineses? Divination? …Bookmancy? Even a library assistant?**",
   beats: [
