@@ -8,6 +8,9 @@ export const imageEf750c9b439aef4e = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-f758222b5b2a91ab",
+  title: "Sophia Writing Beneath the Rose Arbor",
+  persona: "persona/sophia",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",
