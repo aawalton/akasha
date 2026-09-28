@@ -12,5 +12,6 @@ export const otherwhereV00001 = {
   characters: ["character-player/otherwhere-v-nala"],
   stepStatus: "step-status/recorders",
   lore: ["lore/otherwhere-v-nala", "place/otherwhere-v-fern-hollow"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2026-09-28T17:20:00.000Z",
 } as const satisfies StoryTurnPlayed
