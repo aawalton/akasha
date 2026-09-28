@@ -4,10 +4,13 @@ export const theDatingGame00046 = {
   id: "01a0e828-d5f3-740f-a947-4c0188cfcf9e",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-046",
+  ownLength: 179,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 46,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: ["character-other/the-dating-game-aelwyn", "character-player/the-dating-game-alan"],
+  turnStatus: "turn-status/reviewers",
   action:
     "\"Sounds great! I'm excited, I think you'll be really good for me. I hope I can be a good fit for you too.\"",
   beats: [
