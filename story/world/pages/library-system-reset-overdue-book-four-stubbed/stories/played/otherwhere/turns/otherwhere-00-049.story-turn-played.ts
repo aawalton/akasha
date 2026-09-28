@@ -10,7 +10,7 @@ export const otherwhere00049 = {
   position: 49,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action: "I grab the last sack and shove it as deep as I can get",
   beats: [
     "Nala snatches up the last fresh sack while the worm still gags and spits salt.",
@@ -24,5 +24,5 @@ export const otherwhere00049 = {
     "Overhead, the hall's gold light brightens another shade.",
   ],
   lore: ["place/otherwhere-hall-back"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
