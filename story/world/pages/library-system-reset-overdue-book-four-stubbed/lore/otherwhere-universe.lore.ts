@@ -161,7 +161,7 @@ export const otherwhereUniverse = {
       ],
     },
     {
-      fact: "The Library's kitchen stores sacks of salt, but the kitchen sleeps until the Library has more power.",
+      fact: "The Library's kitchen stores sacks of salt.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-alan",
