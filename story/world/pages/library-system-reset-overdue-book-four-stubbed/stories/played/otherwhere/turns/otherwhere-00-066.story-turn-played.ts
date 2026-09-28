@@ -4,10 +4,13 @@ export const otherwhere00066 = {
   id: "01a0e82b-7ba1-79db-b222-22e4fff95f64",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-066",
+  ownLength: 118,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 66,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
+  turnStatus: "turn-status/reviewers",
   action:
     "**Okay, time for bed.** I go back to my room, take off the robe and slippers, lie down on the bed naked, and go to sleep.",
   beats: [
