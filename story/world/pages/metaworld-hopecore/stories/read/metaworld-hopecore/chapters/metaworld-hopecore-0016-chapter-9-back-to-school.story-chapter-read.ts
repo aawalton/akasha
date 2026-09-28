@@ -4,6 +4,7 @@ export const metaworldHopecore0016Chapter9BackToSchool = {
   id: "01a06731-aed1-7000-a6f8-764aec8491a1",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0016-chapter-9-back-to-school",
+  ownProgress: 2430,
   title: "CHAPTER 9 - Back to School ",
   story: "story-read/metaworld-hopecore",
   position: 16,

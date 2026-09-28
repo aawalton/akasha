@@ -4,6 +4,7 @@ export const melodyOfMana0319Epilogue4 = {
   id: "01a06731-ad89-700b-89e5-d41038ecd43f",
   type: "page-type/story-chapter-read",
   slug: "melody-of-mana-0319-epilogue-4",
+  ownProgress: 1360,
   title: "Epilogue 4",
   story: "story-read/melody-of-mana",
   position: 319,

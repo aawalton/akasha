@@ -4,6 +4,7 @@ export const metaworldHopecore0018Chapter10Changes = {
   id: "01a06731-aed1-7002-9be4-791230e4a9e0",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0018-chapter-10-changes",
+  ownProgress: 3023,
   title: "CHAPTER 10 - Changes",
   story: "story-read/metaworld-hopecore",
   position: 18,

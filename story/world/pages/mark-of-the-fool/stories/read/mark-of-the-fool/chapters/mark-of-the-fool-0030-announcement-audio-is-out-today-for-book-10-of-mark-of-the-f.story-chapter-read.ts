@@ -4,6 +4,7 @@ export const markOfTheFool0030AnnouncementAudioIsOutTodayForBook10OfMarkOfTheF =
   id: "01a06731-ae97-7016-8065-b3bb55753ec3",
   type: "page-type/story-chapter-read",
   slug: "mark-of-the-fool-0030-announcement-audio-is-out-today-for-book-10-of-mark-of-the-f",
+  ownProgress: 130,
   title: "Announcement: AUDIO IS OUT TODAY FOR BOOK 10 OF MARK OF THE FOOL!!!! (And Webtoon news!)",
   story: "story-read/mark-of-the-fool",
   position: 30,

@@ -4,6 +4,7 @@ export const metaworldHopecore0030Chapter16LeadBelly = {
   id: "01a06731-aed7-7005-999b-82ddf8b48676",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0030-chapter-16-lead-belly",
+  ownProgress: 2116,
   title: "CHAPTER 16 - Lead Belly",
   story: "story-read/metaworld-hopecore",
   position: 30,

@@ -4,6 +4,7 @@ export const metaworldHopecore0023Chapter12ADayInTheLife2 = {
   id: "01a06731-aed6-7000-b696-564da36b59d3",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0023-chapter-12-a-day-in-the-life-2",
+  ownProgress: 2058,
   title: "CHAPTER 12 - A Day in the Life (2) ",
   story: "story-read/metaworld-hopecore",
   position: 23,

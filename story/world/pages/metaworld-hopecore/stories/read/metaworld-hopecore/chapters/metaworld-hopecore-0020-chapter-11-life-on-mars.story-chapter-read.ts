@@ -4,6 +4,7 @@ export const metaworldHopecore0020Chapter11LifeOnMars = {
   id: "01a06731-aed2-7001-b95b-73bbeedfb83d",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0020-chapter-11-life-on-mars",
+  ownProgress: 2292,
   title: "CHAPTER 11 - Life on Mars",
   story: "story-read/metaworld-hopecore",
   position: 20,

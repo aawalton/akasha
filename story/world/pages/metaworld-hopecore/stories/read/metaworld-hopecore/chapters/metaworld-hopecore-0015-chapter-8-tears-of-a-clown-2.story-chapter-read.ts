@@ -4,6 +4,7 @@ export const metaworldHopecore0015Chapter8TearsOfAClown2 = {
   id: "01a06731-aed0-7005-bf9b-8573e9a7d7e4",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0015-chapter-8-tears-of-a-clown-2",
+  ownProgress: 2790,
   title: "CHAPTER 8 - Tears of a Clown (2) ",
   story: "story-read/metaworld-hopecore",
   position: 15,

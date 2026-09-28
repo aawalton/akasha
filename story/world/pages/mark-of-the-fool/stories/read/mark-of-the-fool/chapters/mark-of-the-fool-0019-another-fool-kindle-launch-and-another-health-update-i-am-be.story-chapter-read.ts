@@ -4,6 +4,7 @@ export const markOfTheFool0019AnotherFoolKindleLaunchAndAnotherHealthUpdateIAmBe
   id: "01a06731-ae97-700b-b612-0065cea60775",
   type: "page-type/story-chapter-read",
   slug: "mark-of-the-fool-0019-another-fool-kindle-launch-and-another-health-update-i-am-be",
+  ownProgress: 398,
   title:
     "Another Fool Kindle Launch and Another Health Update + I Am Become Death Update + Comic Update!",
   story: "story-read/mark-of-the-fool",

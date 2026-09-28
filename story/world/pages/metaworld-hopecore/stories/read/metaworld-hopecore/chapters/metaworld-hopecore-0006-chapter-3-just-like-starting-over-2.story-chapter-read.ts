@@ -4,6 +4,7 @@ export const metaworldHopecore0006Chapter3JustLikeStartingOver2 = {
   id: "01a06731-aecc-7000-9f73-7f6cb21c4f12",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0006-chapter-3-just-like-starting-over-2",
+  ownProgress: 3582,
   title: "Chapter 3 - (Just Like) Starting Over (2)",
   story: "story-read/metaworld-hopecore",
   position: 6,

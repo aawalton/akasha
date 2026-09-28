@@ -4,6 +4,7 @@ export const metaworldHopecore0001PrologueIcarus = {
   id: "01a06743-b3b1-7000-a760-1a7b4a1805e6",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0001-prologue-icarus",
+  ownProgress: 362,
   title: "PROLOGUE - Icarus",
   story: "story-read/metaworld-hopecore",
   position: 1,

@@ -4,6 +4,7 @@ export const metaworldHopecore0011Chapter6NewYorkNewYork2 = {
   id: "01a06731-aed0-7001-b579-e2cfff227cbb",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0011-chapter-6-new-york-new-york-2",
+  ownProgress: 2102,
   title: "CHAPTER 6 - New York, New York (2) ",
   story: "story-read/metaworld-hopecore",
   position: 11,

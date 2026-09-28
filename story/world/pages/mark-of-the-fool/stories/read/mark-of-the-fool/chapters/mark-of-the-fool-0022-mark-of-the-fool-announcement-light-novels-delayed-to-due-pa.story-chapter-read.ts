@@ -4,6 +4,7 @@ export const markOfTheFool0022MarkOfTheFoolAnnouncementLightNovelsDelayedToDuePa
   id: "01a06731-ae97-700e-a755-6810724635d9",
   type: "page-type/story-chapter-read",
   slug: "mark-of-the-fool-0022-mark-of-the-fool-announcement-light-novels-delayed-to-due-pa",
+  ownProgress: 85,
   title: "Mark of the Fool Announcement: Light Novels Delayed to Due Paper Shortage",
   story: "story-read/mark-of-the-fool",
   position: 22,

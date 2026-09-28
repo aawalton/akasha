@@ -4,6 +4,7 @@ export const metaworldHopecore0012Chapter7WorkinForALivin = {
   id: "01a06731-aed0-7002-b039-92cf354392de",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0012-chapter-7-workin-for-a-livin",
+  ownProgress: 1785,
   title: "CHAPTER 7 - Workin’ for a Livin’",
   story: "story-read/metaworld-hopecore",
   position: 12,

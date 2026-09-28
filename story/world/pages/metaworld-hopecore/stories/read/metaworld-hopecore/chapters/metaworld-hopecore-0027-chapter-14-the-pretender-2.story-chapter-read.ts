@@ -4,6 +4,7 @@ export const metaworldHopecore0027Chapter14ThePretender2 = {
   id: "01a06731-aed7-7002-8737-681ea27db856",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0027-chapter-14-the-pretender-2",
+  ownProgress: 2148,
   title: "Chapter 14 - The Pretender (2) ",
   story: "story-read/metaworld-hopecore",
   position: 27,

@@ -4,6 +4,7 @@ export const markOfTheFool0025MarkOfTheFool10EBookLaunchFinalOne = {
   id: "01a06731-ae97-7011-9bb1-f9102c3b3ae0",
   type: "page-type/story-chapter-read",
   slug: "mark-of-the-fool-0025-mark-of-the-fool-10-e-book-launch-final-one",
+  ownProgress: 82,
   title: "Mark of the Fool 10 e-book launch! (Final one)",
   story: "story-read/mark-of-the-fool",
   position: 25,

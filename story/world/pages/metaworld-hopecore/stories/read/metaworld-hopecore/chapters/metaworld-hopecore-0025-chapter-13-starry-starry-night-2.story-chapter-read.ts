@@ -4,6 +4,7 @@ export const metaworldHopecore0025Chapter13StarryStarryNight2 = {
   id: "01a06731-aed7-7000-9729-65a71bb07f3b",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0025-chapter-13-starry-starry-night-2",
+  ownProgress: 1577,
   title: "CHAPTER 13 - Starry Starry Night (2) ",
   story: "story-read/metaworld-hopecore",
   position: 25,

@@ -4,6 +4,7 @@ export const metaworldHopecore0002Chapter0Forewords = {
   id: "01a06743-b3b1-7001-9721-2a996523d9d3",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0002-chapter-0-forewords",
+  ownProgress: 661,
   title: "Chapter 0 - Forewords",
   story: "story-read/metaworld-hopecore",
   position: 2,

@@ -4,6 +4,7 @@ export const metaworldHopecore0008Chapter5ThreeWoodenCrosses = {
   id: "01a06731-aece-7000-8e20-661089ca4769",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0008-chapter-5-three-wooden-crosses",
+  ownProgress: 1711,
   title: "CHAPTER 5 - Three Wooden Crosses",
   story: "story-read/metaworld-hopecore",
   position: 8,

@@ -14,6 +14,7 @@ export const melodyOfMana = {
     },
   ],
   author: "Wandering Agent",
+  following: true,
   grade: "C",
   publicationStatus: "completed",
   externalTags: [
