@@ -4,13 +4,14 @@ export const otherwhere00070 = {
   id: "01a0e930-9268-7437-8b3f-8e03e2500a0c",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-070",
+  cover: "image/image-2e4d7972995b6b40",
   ownLength: 168,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 70,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "**Okay, let the work, I'd like you to identify books we've found that I should read to prepare for the opening**",
   beats: [
@@ -28,6 +29,6 @@ export const otherwhere00070 = {
   ],
   lore: ["place/otherwhere-main-hall"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T06:39:00.000Z",
 } as const satisfies StoryTurnPlayed

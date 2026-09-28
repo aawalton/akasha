@@ -292,7 +292,11 @@ export const otherwhereMainHall = {
     },
     {
       fact: "Links knows every book shelved in the Library, and can search them by what they teach.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-links",
+        "character-player/otherwhere-alan",
+      ],
     },
     {
       fact: "Counter Keeping is a working text of the Library's own magic, teaching the Counter's lending.",
@@ -344,6 +348,14 @@ export const otherwhereMainHall = {
     },
     {
       fact: "No book yet shelved in the main hall teaches a healing power.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-links",
+        "character-player/otherwhere-alan",
+      ],
+    },
+    {
+      fact: "Until a healing book is shelved, a patron who comes in hurt gets only food and shelter.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/otherwhere-links",
