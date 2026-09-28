@@ -14,6 +14,7 @@
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/select/select.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/schema/modules/pages/pages.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/view/modules/apply-filters/apply-filters.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/view/modules/apply-filters/apply-filters.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/view/modules/apply-grouping-shared/apply-grouping-shared.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/view/modules/apply-grouping-sort/apply-grouping-sort.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/view/modules/apply-grouping/apply-grouping.module.code.ts","typed":true,"deferred":false}

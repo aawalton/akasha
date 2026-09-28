@@ -6,4 +6,15 @@ export const applyFilters = {
   slug: "apply-filters",
   definition: "whether a page row matches a view's filters",
   code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A filter this module cannot read is refused rather than passed over.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "Pages are left whole while the properties of their page type are unread.",
+    },
+  ],
 } as const satisfies Module
