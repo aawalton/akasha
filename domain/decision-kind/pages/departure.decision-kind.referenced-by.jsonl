@@ -3859,6 +3859,7 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/cornerstone/stories/written/cornerstone/mechanics/metrics/attributes/cornerstone-faculty.page-type.ts","id":"01a0dee4-467b-76be-b386-8f81567faec4"}
 {"propertySlug":"decision-kind","path":"story/world/pages/harem-hotel/stories/written/harem-hotel/mechanics/floors/harem-hotel-floor.page-type.ts","id":"01a0e822-39b3-7bc0-be8e-4a7093388b67"}
 {"propertySlug":"decision-kind","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/checks/otherwhere-action-check.world-check.ts","id":"01a0e990-b58d-79aa-a179-1b7000226703"}
+{"propertySlug":"decision-kind","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/checks/otherwhere-conditioning.world-check.ts","id":"01a0e9a6-56d0-74e7-ace2-8c4d2cec3a93"}
 {"propertySlug":"decision-kind","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/checks/otherwhere-experience.world-check.ts","id":"01a0e99f-283d-725a-9fa5-2fddec431c0f"}
 {"propertySlug":"decision-kind","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/checks/otherwhere-harm.world-check.ts","id":"01a0e996-0a34-7c37-ac8e-10400ca3107b"}
 {"propertySlug":"decision-kind","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/checks/otherwhere-needs.world-check.ts","id":"01a0e993-be67-7db9-998f-26e3ccb4f5f9"}
