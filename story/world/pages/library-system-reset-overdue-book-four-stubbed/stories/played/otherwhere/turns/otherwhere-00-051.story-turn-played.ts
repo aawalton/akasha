@@ -10,7 +10,7 @@ export const otherwhere00051 = {
   position: 51,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "**Do it, just let me wash off the worst of the mess first **. I go to the tub and wash off the honey and salt, then fill the tub with water. **Ready**",
   beats: [
@@ -19,7 +19,7 @@ export const otherwhere00051 = {
     "The honey comes off in sticky sheets; the salt stings every scrape and scar.",
     "She fills the deep stone tub with cold water and thinks at Links: ready.",
     "The water stirs; warmth spreads out from the bottom of the tub, and steam curls up off the surface.",
-    "In moments the tub is steaming hot.",
+    "Steam fogs the little bathroom, and hot water laps at the stone rim by her cold, bare knees.",
   ],
   issues: ['"In moments the tub is steaming hot." - Leave It Open'],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
