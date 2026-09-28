@@ -12,6 +12,10 @@ export const otherwhereIiiPriyaRaman = {
       fact: "The ER social worker is Priya Raman, thirty-four, quick, practical and hard to shock.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She comes on at eight and reaches the waiting room by about a quarter past.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
