@@ -45,6 +45,9 @@ export const haremHotelOdile = {
       fact: "Odile gives her name only when Alan asks for it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Odile kept the lobby alone for longer than she can remember, and Alan is the first guest she has ever checked in.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
-  secrets: "jsonl",
 } as const satisfies Lore
