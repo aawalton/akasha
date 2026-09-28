@@ -15,4 +15,5 @@ export const otherwhereVii00002 = {
     "place/otherwhere-vii-bramwick",
     "place/otherwhere-vii-ashford-road-ditch",
   ],
+  endsAt: "2026-09-28T06:16:00.000Z",
 } as const satisfies StoryTurnPlayed
