@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"alanwalton-web.web-app.ts","path":"alan/web/routes/alan-web-sms/alan-web-sms.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alanwalton-web.web-app.ts","path":"alan/web/routes/alan-web-terms/alan-web-terms.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alanwalton-web.web-app.ts","path":"page/ui-store/collection/modules/fetch-attach/fetch-attach.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"nav-app","path":"page/nav/pages/albums.nav.ts","id":"01a0e95e-5b52-77c6-b215-9423dbb46b60"}
 {"propertySlug":"nav-app","path":"page/nav/pages/archive-of-worlds.nav.ts","id":"01a0d8fd-ef82-7b2f-b208-92e255ba619f"}
 {"propertySlug":"nav-app","path":"page/nav/pages/audhd-alan.nav.ts","id":"01a0d8fd-ef83-7f8b-8ee7-e53153c8de07"}
 {"propertySlug":"nav-app","path":"page/nav/pages/content.nav.ts","id":"01a0d8fd-ef83-7987-b1b4-505755628fae"}

@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"view.page-type.ts","path":"page/view/modules/key-naming/key-naming.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/albums-all.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/anime-and-shows-all-by-status.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/anime-and-shows-completed.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/anime-and-shows-to-watch.view.ts","typed":true,"deferred":false}
