@@ -20,7 +20,12 @@ export const turnDescribed = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Only the pages under the turn's world folder are looked at.",
+      statement: "Only the pages under the turn's story folder are looked at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A world's own mechanics are filed apart from any turn, so no change to one is named.",
     },
     {
       decisionKind: "decision-kind/departure",

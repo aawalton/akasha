@@ -1,3 +1,4 @@
+import { dirname } from "node:path"
 import { told } from "akasha/git/modules/running/git-running.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueAt, valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
@@ -55,12 +56,16 @@ function openedAt(root: string, at: string): string | null {
   return commit === "" ? null : commit
 }
 
+export function storyFolderOf(turnAt: string): string | null {
+  return turnAt.includes(STORIES) ? dirname(dirname(turnAt)) : null
+}
+
 export function describedIndexed(root: string, turn: { readonly at: string }): readonly string[] {
-  const world = turn.at.split(STORIES)[0]
-  if (world === undefined || world === turn.at) return []
+  const story = storyFolderOf(turn.at)
+  if (story === null) return []
   const base = openedAt(root, turn.at)
   if (base === null) return []
-  const changed = told(root, ["diff", "--name-only", base, "HEAD", "--", world])
+  const changed = told(root, ["diff", "--name-only", base, "HEAD", "--", story])
   if (changed === null) return []
   const paths = changed.split("\n").filter((one) => one !== "")
   return describedIn(paths, kindsUnder(MECHANIC, root), (path) => {

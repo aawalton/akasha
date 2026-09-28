@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   type Describing,
   describedIn,
+  storyFolderOf,
 } from "akasha/command/pages/story/turn/advance/modules/turn-described/turn-described.module.code.ts"
 
 const KINDS: ReadonlySet<string> = new Set(["world-mechanic", "world-skill", "world-item"])
@@ -33,4 +34,14 @@ test("a mechanic changed elsewhere than its description is not named", () => {
 
 test("a page of no mechanic kind is not named", () => {
   expect(describedIn([LORE], KINDS, describing)).toEqual([])
+})
+
+test("a turn is looked at under its own story's folder, never its world's", () => {
+  expect(storyFolderOf("w/stories/played/game/turns/game-00-004.story-turn-played.ts")).toBe(
+    "w/stories/played/game"
+  )
+})
+
+test("a page under no story has no story folder", () => {
+  expect(storyFolderOf("w/mechanics/items/coin.world-item.ts")).toBeNull()
 })
