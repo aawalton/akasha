@@ -6,7 +6,7 @@ export const otherwhereLabyrinthRifts = {
   slug: "otherwhere-labyrinth-rifts",
   title: "Earth's Gates to the Labyrinth",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-earth",
+  within: "place/otherwhere-ii-earth",
   facts: [
     {
       fact: "Earth has four entrances to the Labyrinth, sealed during the protection year.",

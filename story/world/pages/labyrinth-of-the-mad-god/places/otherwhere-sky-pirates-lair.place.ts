@@ -6,7 +6,7 @@ export const otherwhereSkyPiratesLair = {
   slug: "otherwhere-sky-pirates-lair",
   title: "Sky-Pirates' Lair",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-tower-of-rizzen",
+  within: "place/otherwhere-ii-tower-of-rizzen",
   facts: [
     {
       fact: "The Sky-Pirates' Lair is a hollow level the size of a small country and miles high.",

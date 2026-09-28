@@ -6,7 +6,7 @@ export const otherwhereLemurVillage = {
   slug: "otherwhere-lemur-village",
   title: "The Lemur Village",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-earth",
+  within: "place/otherwhere-ii-earth",
   facts: [
     {
       fact: "The lemurs' stone village sits in misty jungle, with homes in the treetops.",

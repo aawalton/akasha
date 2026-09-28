@@ -6,7 +6,7 @@ export const otherwhereLowlandWood = {
   slug: "otherwhere-lowland-wood",
   title: "The Lowland Wood",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-cinder-isle",
+  within: "place/otherwhere-ii-cinder-isle",
   facts: [
     {
       fact: "The Lowland Wood is thick, humid forest running from the Black Shore's trees to the foothills.",

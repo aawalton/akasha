@@ -6,7 +6,7 @@ export const otherwhereTowerBasement = {
   slug: "otherwhere-tower-basement",
   title: "The Basement Waste Level",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-tower-of-rizzen",
+  within: "place/otherwhere-ii-tower-of-rizzen",
   facts: [
     {
       fact: "The basement is a secret bonus level with second-level danger and a third-level reward.",

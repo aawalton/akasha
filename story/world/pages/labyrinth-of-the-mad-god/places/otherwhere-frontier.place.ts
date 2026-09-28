@@ -6,7 +6,7 @@ export const otherwhereFrontier = {
   slug: "otherwhere-frontier",
   title: "The Frontier",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-earth",
+  within: "place/otherwhere-ii-earth",
   facts: [
     {
       fact: "The Frontier is land where the System spawns quests, dungeons, events and challenges.",

@@ -4,7 +4,7 @@ export const otherwhereGlassrunMonitorNear = {
   id: "01a0ea09-f404-791e-acd0-cdac2c0394c5",
   type: "page-type/otherwhere-ii-health",
   slug: "otherwhere-glassrun-monitor-near",
-  character: "character-other/otherwhere-glassrun-monitor-near",
+  character: "character-other/otherwhere-ii-glassrun-monitor-near",
   value: 28,
   minValue: 0,
   maxValue: 28,

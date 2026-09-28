@@ -6,7 +6,7 @@ export const otherwhereGlassrun = {
   slug: "otherwhere-glassrun",
   title: "The Glassrun",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-cinder-isle",
+  within: "place/otherwhere-ii-cinder-isle",
   facts: [
     {
       fact: "The Glassrun is a clear stream running west from the foothills to the sea.",

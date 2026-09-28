@@ -6,7 +6,7 @@ export const otherwhereTheVeil = {
   slug: "otherwhere-the-veil",
   title: "The Veil",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-earth",
+  within: "place/otherwhere-ii-earth",
   facts: [
     {
       fact: "The Veil is the codex's name for the inky darkness draped over regions of Earth.",

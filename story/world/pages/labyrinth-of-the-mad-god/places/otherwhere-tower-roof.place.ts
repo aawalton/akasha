@@ -6,7 +6,7 @@ export const otherwhereTowerRoof = {
   slug: "otherwhere-tower-roof",
   title: "The Roof of the Tower",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-tower-of-rizzen",
+  within: "place/otherwhere-ii-tower-of-rizzen",
   facts: [
     {
       fact: "The roof is a flat stone circle half a mile across under a starry sky without atmosphere.",

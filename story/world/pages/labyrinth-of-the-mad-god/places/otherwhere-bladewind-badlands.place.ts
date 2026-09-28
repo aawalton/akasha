@@ -6,7 +6,7 @@ export const otherwhereBladewindBadlands = {
   slug: "otherwhere-bladewind-badlands",
   title: "The Bladewind Badlands",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-earth",
+  within: "place/otherwhere-ii-earth",
   facts: [
     {
       fact: "The Bladewind Badlands are arid badlands on new land west of North America's old coast.",

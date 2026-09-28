@@ -6,7 +6,7 @@ export const otherwhereSewersOfKastilla = {
   slug: "otherwhere-sewers-of-kastilla",
   title: "The Sewers of Kastilla",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-kastilla",
+  within: "place/otherwhere-ii-kastilla",
   facts: [
     {
       fact: "The Sewers of Kastilla are a dungeon of brick tunnels lit by old magitech lamps.",

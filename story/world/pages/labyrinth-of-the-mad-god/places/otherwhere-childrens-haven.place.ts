@@ -6,7 +6,7 @@ export const otherwhereChildrensHaven = {
   slug: "otherwhere-childrens-haven",
   title: "The Children's Haven",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-earth",
+  within: "place/otherwhere-ii-earth",
   facts: [
     {
       fact: "A real old-Earth hotel of concrete and glass hides in a savanna beside the badlands.",

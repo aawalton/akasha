@@ -6,7 +6,7 @@ export const otherwhereObeliskPoint = {
   slug: "otherwhere-obelisk-point",
   title: "Obelisk Point",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-cinder-isle",
+  within: "place/otherwhere-ii-cinder-isle",
   facts: [
     {
       fact: "Obelisk Point is the black rock headland closing the Black Shore to the north.",

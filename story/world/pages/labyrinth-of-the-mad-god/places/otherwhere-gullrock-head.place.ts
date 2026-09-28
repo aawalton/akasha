@@ -6,7 +6,7 @@ export const otherwhereGullrockHead = {
   slug: "otherwhere-gullrock-head",
   title: "Gullrock Head",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-cinder-isle",
+  within: "place/otherwhere-ii-cinder-isle",
   facts: [
     {
       fact: "Gullrock Head is the black rock headland closing the Black Shore to the south.",

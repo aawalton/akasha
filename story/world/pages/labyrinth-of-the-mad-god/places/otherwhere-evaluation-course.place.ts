@@ -6,7 +6,7 @@ export const otherwhereEvaluationCourse = {
   slug: "otherwhere-evaluation-course",
   title: "Level Seventeen, the Species-Evaluation Course",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-tower-of-rizzen",
+  within: "place/otherwhere-ii-tower-of-rizzen",
   facts: [
     {
       fact: "Level seventeen is a mile-wide white dome built for a famous species evaluation.",

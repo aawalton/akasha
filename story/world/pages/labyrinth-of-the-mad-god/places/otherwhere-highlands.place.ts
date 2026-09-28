@@ -6,7 +6,7 @@ export const otherwhereHighlands = {
   slug: "otherwhere-highlands",
   title: "The Highlands",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-cinder-isle",
+  within: "place/otherwhere-ii-cinder-isle",
   facts: [
     {
       fact: "The Highlands ring the peak above the Lowland Wood: scrub, tall grass and old lava fields.",

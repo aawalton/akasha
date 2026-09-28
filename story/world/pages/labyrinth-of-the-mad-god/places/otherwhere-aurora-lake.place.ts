@@ -6,7 +6,7 @@ export const otherwhereAuroraLake = {
   slug: "otherwhere-aurora-lake",
   title: "Aurora's Lake and the Shrine of the Faceless Gods",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-aurora",
+  within: "place/otherwhere-ii-aurora",
   facts: [
     {
       fact: "Aurora's lake is azure, at least five miles wide and thousands of feet deep.",

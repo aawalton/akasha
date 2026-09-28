@@ -6,7 +6,7 @@ export const otherwhereBlackShore = {
   slug: "otherwhere-black-shore",
   title: "The Black Shore",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-cinder-isle",
+  within: "place/otherwhere-ii-cinder-isle",
   facts: [
     {
       fact: "The Black Shore is a long beach of fine black sand on the west of Nala's tutorial island.",

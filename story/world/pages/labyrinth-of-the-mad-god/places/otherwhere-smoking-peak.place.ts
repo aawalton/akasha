@@ -6,7 +6,7 @@ export const otherwhereSmokingPeak = {
   slug: "otherwhere-smoking-peak",
   title: "The Smoking Peak",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-cinder-isle",
+  within: "place/otherwhere-ii-cinder-isle",
   facts: [
     {
       fact: "The Smoking Peak is the isle's volcano, some six thousand feet, bare above the Highlands.",

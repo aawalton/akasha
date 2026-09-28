@@ -6,7 +6,7 @@ export const otherwherePartitionSwamp = {
   slug: "otherwhere-partition-swamp",
   title: "The Partitioned Swamp",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-tower-of-rizzen",
+  within: "place/otherwhere-ii-tower-of-rizzen",
   facts: [
     {
       fact: "The swamp level is one vast terrarium under an emerald sky full of harmless insects.",
