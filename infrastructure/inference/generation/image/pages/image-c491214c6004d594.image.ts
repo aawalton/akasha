@@ -4,6 +4,8 @@ export const imageC491214c6004d594 = {
   id: "01a0e9da-160f-71c9-a05a-13a0b8869d42",
   type: "page-type/image",
   slug: "image-c491214c6004d594",
+  title: "Platinum Braid Shading Her Eyes Under the Oak",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
