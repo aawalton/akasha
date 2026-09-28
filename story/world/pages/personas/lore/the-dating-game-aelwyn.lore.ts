@@ -133,5 +133,21 @@ export const theDatingGameAelwyn = {
         "character-other/the-dating-game-aelwyn",
       ],
     },
+    {
+      fact: "Aelwyn set Alan's step two: stop landing on his heels like he's mad at the ground.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-aelwyn",
+      ],
+    },
+    {
+      fact: "Hikers on Rock Canyon know Aelwyn from her channel, and she gladly poses for selfies.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-aelwyn",
+      ],
+    },
   ],
 } as const satisfies Lore
