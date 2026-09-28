@@ -19,5 +19,13 @@ export const followAsking = {
       decisionKind: "decision-kind/departure",
       statement: "One follow that is none of those refuses the whole ask.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An ask may name the epoch and mark it has every change up to, as `since`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A `since` that is no such pair is passed over rather than refusing the ask.",
+    },
   ],
 } as const satisfies Module

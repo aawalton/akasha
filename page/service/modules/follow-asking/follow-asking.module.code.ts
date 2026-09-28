@@ -44,9 +44,19 @@ function followIn(held: unknown): Follow | null {
   }
 }
 
+export type Since = { readonly epoch: string; readonly mark: number }
+
 type Asked =
-  | { readonly stream: string; readonly follows: readonly Follow[] }
+  | { readonly stream: string; readonly follows: readonly Follow[]; readonly since?: Since }
   | { readonly refused: string }
+
+function sinceIn(held: unknown): Since | null {
+  if (held === null || typeof held !== "object" || Array.isArray(held)) return null
+  const one = held as Readonly<Record<string, unknown>>
+  if (typeof one.epoch !== "string" || one.epoch === "") return null
+  if (typeof one.mark !== "number" || !Number.isInteger(one.mark) || one.mark < 0) return null
+  return { epoch: one.epoch, mark: one.mark }
+}
 
 export function askedIn(given: unknown): Asked {
   if (given === null || typeof given !== "object" || Array.isArray(given)) {
@@ -70,5 +80,6 @@ export function askedIn(given: unknown): Asked {
     }
     follows.push(follow)
   }
-  return { stream: held.stream, follows }
+  const since = sinceIn(held.since)
+  return since === null ? { stream: held.stream, follows } : { stream: held.stream, follows, since }
 }

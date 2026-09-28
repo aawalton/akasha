@@ -49,6 +49,36 @@ export const pageFollowing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Each change pushed carries a mark counted up through the run, named by its epoch.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A follow is answered with the epoch and the mark the run has reached.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A follow naming a mark of this run is sent the last change to each page since it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such a follow is answered as caught up, so the browser reads nothing whole.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What is sent then passes over any where, so a page leaving a narrow is told.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The changes of the last ten minutes, at most fifty thousand, are kept for that.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A mark older than those, or of another run, is answered as not caught up.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Any file named for a page is a change to that page.",
     },
     {

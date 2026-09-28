@@ -20,6 +20,8 @@ import {
   followingFor,
   keysFor,
   nameHeard,
+  replayOf,
+  type Sent,
 } from "akasha/page/service/modules/page-following/page-following.module.code.ts"
 import { readersFor } from "akasha/page/service/modules/reads-keeping/reads-keeping.module.code.ts"
 import { z } from "zod"
@@ -246,7 +248,79 @@ test("a change is pushed down the stream following it and no other change is", a
   following.changed({ pageTypeSlug: "seat", slug: "athena" })
   const [pushed] = await eventsFrom(reader, 1)
   expect(pushed).toBe(
-    eventSaid("page", { pageTypeSlug: "seat", slug: "athena", keys: ["athena-page"] }).trimEnd()
+    eventSaid("page", {
+      pageTypeSlug: "seat",
+      slug: "athena",
+      keys: ["athena-page"],
+      mark: 3,
+    }).trimEnd()
   )
   aborting.abort()
+})
+
+function sentAt(mark: number, slug: string): Sent {
+  return { mark, at: 0, one: { pageTypeSlug: "seat", slug } }
+}
+
+test("a mark this run holds every change after is answered with the last change to each page since", () => {
+  const recent = [sentAt(3, "a"), sentAt(4, "b"), sentAt(5, "a")]
+  expect(replayOf(recent, { epoch: "e", mark: 2 }, "e", 5)).toEqual([
+    sentAt(5, "a"),
+    sentAt(4, "b"),
+  ])
+  expect(replayOf(recent, { epoch: "e", mark: 4 }, "e", 5)).toEqual([sentAt(5, "a")])
+  expect(replayOf(recent, { epoch: "e", mark: 5 }, "e", 5)).toEqual([])
+})
+
+test("a mark from another run, from the future, or older than what is held is answered with nothing", () => {
+  const recent = [sentAt(3, "a"), sentAt(4, "b")]
+  expect(replayOf(recent, { epoch: "other", mark: 3 }, "e", 4)).toBeNull()
+  expect(replayOf(recent, { epoch: "e", mark: 9 }, "e", 4)).toBeNull()
+  expect(replayOf(recent, { epoch: "e", mark: 1 }, "e", 4)).toBeNull()
+  expect(replayOf([], { epoch: "e", mark: 1 }, "e", 4)).toBeNull()
+  expect(replayOf([], { epoch: "e", mark: 4 }, "e", 4)).toEqual([])
+})
+
+const FOLLOW_SAID = z.looseObject({ epoch: z.string(), mark: z.number(), caughtUp: z.boolean() })
+
+async function streamOf(following: ReturnType<typeof followingFor>) {
+  const aborting = new AbortController()
+  const opened = following.opened(new Request("http://here/events", { signal: aborting.signal }))
+  const reader = (opened.body as ReadableStream<Uint8Array>).getReader()
+  const [first] = await eventsFrom(reader, 1)
+  const { stream } = STREAM_SAID.parse(JSON.parse((first ?? "").split("data: ")[1] ?? "{}"))
+  return { reader, stream, aborting }
+}
+
+test("a stream opened again with the mark it had is sent the changes it missed, and none it had", async () => {
+  const following = followingFor(NOWHERE)
+  const follows = [{ key: "seats", pageTypeSlug: "seat", by: "slug", values: ["athena", "ember"] }]
+  const first = await streamOf(following)
+  const taken = FOLLOW_SAID.parse(
+    await following.followed({ stream: first.stream, follows }).json()
+  )
+  expect(taken.caughtUp).toBe(false)
+  following.changed({ pageTypeSlug: "seat", slug: "athena" })
+  await eventsFrom(first.reader, 1)
+  first.aborting.abort()
+  following.changed({ pageTypeSlug: "seat", slug: "ember" })
+  const second = await streamOf(following)
+  const since = { epoch: taken.epoch, mark: taken.mark + 1 }
+  const again = FOLLOW_SAID.parse(
+    await following.followed({ stream: second.stream, follows, since }).json()
+  )
+  expect(again).toMatchObject({ epoch: taken.epoch, mark: taken.mark + 2, caughtUp: true })
+  const [missed] = await eventsFrom(second.reader, 1)
+  expect(missed).toBe(
+    eventSaid("page", {
+      pageTypeSlug: "seat",
+      slug: "ember",
+      keys: ["seats"],
+      mark: taken.mark + 2,
+    }).trimEnd()
+  )
+  const other = { epoch: "another-run", mark: 0 }
+  const lost = await following.followed({ stream: second.stream, follows, since: other }).json()
+  expect(FOLLOW_SAID.parse(lost).caughtUp).toBe(false)
+  second.aborting.abort()
 })

@@ -11,6 +11,7 @@ import type { Value } from "akasha/page/modules/value-reading/page-value-reading
 import {
   askedIn,
   type Follow,
+  type Since,
 } from "akasha/page/service/modules/follow-asking/follow-asking.module.code.ts"
 import {
   narrowedOver,
@@ -53,6 +54,10 @@ const MB = 1024 * 1024
 
 const SLOW_MS = 1_000
 
+const RECENT_MS = 600_000
+
+const RECENT_MOST = 50_000
+
 function timedAs<T>(named: () => string, act: () => T): T {
   const started = performance.now()
   const done = marked(named(), act)
@@ -69,6 +74,32 @@ type Changed = {
 type Stream = {
   readonly send: (text: string) => boolean
   helds: readonly Held[]
+}
+
+export type Sent = {
+  readonly mark: number
+  readonly at: number
+  readonly one: Changed
+  readonly id?: string
+}
+
+export function replayOf(
+  recent: readonly Sent[],
+  since: Since,
+  epoch: string,
+  mark: number
+): readonly Sent[] | null {
+  if (since.epoch !== epoch || since.mark > mark) return null
+  if (since.mark + 1 < (recent[0]?.mark ?? mark + 1)) return null
+  const last = new Map<string, Sent>()
+  for (const one of recent) {
+    if (one.mark > since.mark) last.set(`${one.one.pageTypeSlug}/${one.one.slug ?? ""}`, one)
+  }
+  return [...last.values()]
+}
+
+function pushedOf(one: Sent, keys: readonly string[]): unknown {
+  return { ...one.one, ...(one.id === undefined ? {} : { id: one.id }), keys, mark: one.mark }
 }
 
 export type Following = {
@@ -189,8 +220,18 @@ export function followingFor(
   let hearing = new Map<string, readonly ((name: string) => undefined)[]>()
   let planning: ReturnType<typeof setTimeout> | null = null
   const counted = { plans: 0, heard: 0, pushed: 0 }
+  const epoch = crypto.randomUUID()
+  let mark = 0
+  let recent: Sent[] = []
+
+  const trimmed = (now: number): undefined => {
+    const kept = recent.findIndex((one) => one.at >= now - RECENT_MS)
+    recent = recent.slice(kept === -1 ? recent.length : kept).slice(-RECENT_MOST)
+    return undefined
+  }
 
   setInterval(() => {
+    trimmed(Date.now())
     const memory = process.memoryUsage()
     const helds = [...streams.values()].reduce((sum, one) => sum + one.helds.length, 0)
     const beside = besideSaid()
@@ -213,12 +254,16 @@ export function followingFor(
 
   const sent = (one: Changed): undefined => {
     const id = idOf(root, one)
+    mark += 1
+    const made: Sent = { mark, at: Date.now(), one, ...(id === undefined ? {} : { id }) }
+    recent.push(made)
+    if (recent.length > RECENT_MOST * 2) trimmed(made.at)
     const valued = valuedOnce(root, one.pageTypeSlug, one.slug)
     for (const stream of streams.values()) {
       const keys = keysFor(stream.helds, one, valued)
       if (keys.length === 0) continue
       counted.pushed += 1
-      stream.send(eventSaid("page", { ...one, ...(id === undefined ? {} : { id }), keys }))
+      stream.send(eventSaid("page", pushedOf(made, keys)))
     }
     return undefined
   }
@@ -388,7 +433,14 @@ export function followingFor(
     }
     stream.helds = asked.follows.map((one) => heldFor(root, one))
     plan()
-    return said({ following: stream.helds.map((one) => one.key) }, 200)
+    const replay = asked.since === undefined ? null : replayOf(recent, asked.since, epoch, mark)
+    const loose = stream.helds.map((one) => ({ key: one.key, kinds: one.kinds, slugs: one.slugs }))
+    for (const one of replay ?? []) {
+      const keys = keysFor(loose, one.one)
+      if (keys.length > 0) stream.send(eventSaid("page", pushedOf(one, keys)))
+    }
+    const following = stream.helds.map((one) => one.key)
+    return said({ following, epoch, mark, caughtUp: replay !== null }, 200)
   }
 
   return { opened, followed, changed, kept: readers.kept }
