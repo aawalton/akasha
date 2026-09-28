@@ -9,22 +9,22 @@ export const otherwhereIMainHall = {
   depth: 0,
   exits: [
     {
-      to: "place/otherwhere-the-library-core-chamber",
+      to: "place/otherwhere-i-core-chamber",
       way: "Down the spiral staircase, two or three stories round and round with no landing.",
       direction: "down",
     },
     {
-      to: "place/otherwhere-the-library-quarters",
+      to: "place/otherwhere-i-quarters",
       way: "Through the short passage behind the Check-in Counter.",
       direction: "north",
     },
     {
-      to: "place/otherwhere-the-library-kitchen",
+      to: "place/otherwhere-i-kitchen",
       way: "Through the arched door on the hall's right side, and down a short corridor.",
       direction: "west",
     },
     {
-      to: "place/otherwhere-the-library-break-room",
+      to: "place/otherwhere-i-break-room",
       way: "Through the plain wooden door off the hall's left side, partway back along the columns, into the break room.",
       direction: "east",
     },

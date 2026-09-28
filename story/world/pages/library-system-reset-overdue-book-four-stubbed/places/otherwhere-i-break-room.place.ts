@@ -1,9 +1,9 @@
 import type { Place } from "akasha/story/lore/place/place.page-type.types.ts"
 
-export const otherwhereTheLibraryBreakRoom = {
+export const otherwhereIBreakRoom = {
   id: "01a0e93b-e4cb-7bb1-8051-9c5839907f58",
   type: "page-type/place",
-  slug: "otherwhere-the-library-break-room",
+  slug: "otherwhere-i-break-room",
   title: "The Break Room",
   world: "world/library-system-reset-overdue-book-four-stubbed",
   depth: 0,

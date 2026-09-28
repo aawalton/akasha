@@ -1,9 +1,9 @@
 import type { Place } from "akasha/story/lore/place/place.page-type.types.ts"
 
-export const otherwhereTheLibraryCoreChamber = {
+export const otherwhereICoreChamber = {
   id: "01a0e352-2864-7c4b-a01b-dd4e52d91ced",
   type: "page-type/place",
-  slug: "otherwhere-the-library-core-chamber",
+  slug: "otherwhere-i-core-chamber",
   title: "The Round Wooden Chamber",
   world: "world/library-system-reset-overdue-book-four-stubbed",
   depth: -1,

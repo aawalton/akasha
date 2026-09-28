@@ -1,9 +1,9 @@
 import type { WorldMechanic } from "akasha/story/world/mechanics/world-mechanic.page-type.types.ts"
 
-export const otherwhereTheLibraryEconomy = {
+export const otherwhereIEconomy = {
   id: "01a0e366-a244-73b7-806b-171e0521d8dc",
   type: "page-type/world-mechanic",
-  slug: "otherwhere-the-library-economy",
+  slug: "otherwhere-i-economy",
   title: "Money, Resources and Crafting",
   world: "world/library-system-reset-overdue-book-four-stubbed",
   description:

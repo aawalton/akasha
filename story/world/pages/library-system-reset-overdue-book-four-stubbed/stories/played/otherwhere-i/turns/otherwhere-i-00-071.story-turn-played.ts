@@ -1,9 +1,9 @@
 import type { StoryTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.types.ts"
 
-export const otherwhereTheLibrary00071 = {
+export const otherwhereI00071 = {
   id: "01a0e948-cd15-78cb-b953-8e9dc8bc0d1f",
   type: "page-type/story-turn-played",
-  slug: "otherwhere-the-library-00-071",
+  slug: "otherwhere-i-00-071",
   cover: "image/image-7de060c86d9588e0",
   ownLength: 382,
   unit: "unit/words",

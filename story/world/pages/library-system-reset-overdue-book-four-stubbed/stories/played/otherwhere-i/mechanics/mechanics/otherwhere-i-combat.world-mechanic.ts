@@ -1,9 +1,9 @@
 import type { WorldMechanic } from "akasha/story/world/mechanics/world-mechanic.page-type.types.ts"
 
-export const otherwhereTheLibraryCombat = {
+export const otherwhereICombat = {
   id: "01a0e365-d081-70b9-9f54-c09cd671e350",
   type: "page-type/world-mechanic",
-  slug: "otherwhere-the-library-combat",
+  slug: "otherwhere-i-combat",
   title: "Combat and Injury",
   world: "world/library-system-reset-overdue-book-four-stubbed",
   description:
