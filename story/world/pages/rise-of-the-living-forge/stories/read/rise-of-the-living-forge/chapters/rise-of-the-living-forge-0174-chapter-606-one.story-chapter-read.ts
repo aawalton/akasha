@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0174Chapter606One = {
   id: "01a06730-4e12-7d20-bc4b-e7bf7fbe802c",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0174-chapter-606-one",
+  ownProgress: 1897,
   title: "Chapter 606: One",
   story: "story-read/rise-of-the-living-forge",
   position: 174,

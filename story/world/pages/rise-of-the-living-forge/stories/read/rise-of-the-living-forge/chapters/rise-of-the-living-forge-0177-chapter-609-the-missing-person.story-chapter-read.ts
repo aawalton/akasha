@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0177Chapter609TheMissingPerson = {
   id: "01a06730-4e12-78ca-a6f0-32eac0b0ff78",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0177-chapter-609-the-missing-person",
+  ownProgress: 1717,
   title: "Chapter 609: The missing person",
   story: "story-read/rise-of-the-living-forge",
   position: 177,

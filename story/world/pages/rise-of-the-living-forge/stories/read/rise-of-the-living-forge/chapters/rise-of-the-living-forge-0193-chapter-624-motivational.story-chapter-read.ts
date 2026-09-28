@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0193Chapter624Motivational = {
   id: "01a06730-4e13-7321-b779-b0c5f9a49416",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0193-chapter-624-motivational",
+  ownProgress: 1775,
   title: "Chapter 624: Motivational",
   story: "story-read/rise-of-the-living-forge",
   position: 193,

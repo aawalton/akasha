@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0172Chapter604Scrap = {
   id: "01a06730-4e12-7e9b-964f-910f27512dd0",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0172-chapter-604-scrap",
+  ownProgress: 1834,
   title: "Chapter 604: Scrap",
   story: "story-read/rise-of-the-living-forge",
   position: 172,

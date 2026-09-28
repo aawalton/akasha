@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0156Chapter588CloserThanExpected = {
   id: "01a06730-4e11-7a2b-9912-a73ef34a508d",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0156-chapter-588-closer-than-expected",
+  ownProgress: 1778,
   title: "Chapter 588: Closer than expected",
   story: "story-read/rise-of-the-living-forge",
   position: 156,

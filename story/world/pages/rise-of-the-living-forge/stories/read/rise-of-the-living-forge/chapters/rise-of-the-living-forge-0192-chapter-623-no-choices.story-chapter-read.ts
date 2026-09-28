@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0192Chapter623NoChoices = {
   id: "01a06730-4e13-764e-92c3-0ec3655b7fc8",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0192-chapter-623-no-choices",
+  ownProgress: 1919,
   title: "Chapter 623: No Choices",
   story: "story-read/rise-of-the-living-forge",
   position: 192,

@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0170Chapter602TheTrueCorruption = {
   id: "01a06730-4e11-737c-b328-275e201c79af",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0170-chapter-602-the-true-corruption",
+  ownProgress: 1640,
   title: "Chapter 602: The True Corruption",
   story: "story-read/rise-of-the-living-forge",
   position: 170,

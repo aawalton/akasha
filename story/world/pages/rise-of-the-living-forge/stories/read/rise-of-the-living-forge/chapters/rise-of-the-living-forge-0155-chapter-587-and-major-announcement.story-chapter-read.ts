@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0155Chapter587AndMajorAnnouncement = {
   id: "01a06730-4e11-7122-bb4f-bad04b7a4aab",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0155-chapter-587-and-major-announcement",
+  ownProgress: 1708,
   title: "Chapter 587 & MAJOR ANNOUNCEMENT",
   story: "story-read/rise-of-the-living-forge",
   position: 155,

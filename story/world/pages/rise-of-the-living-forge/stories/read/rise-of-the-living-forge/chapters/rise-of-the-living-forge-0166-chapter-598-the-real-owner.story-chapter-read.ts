@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0166Chapter598TheRealOwner = {
   id: "01a06730-4e11-7102-bc77-9ae40fb8d057",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0166-chapter-598-the-real-owner",
+  ownProgress: 1717,
   title: "Chapter 598: The real owner",
   story: "story-read/rise-of-the-living-forge",
   position: 166,

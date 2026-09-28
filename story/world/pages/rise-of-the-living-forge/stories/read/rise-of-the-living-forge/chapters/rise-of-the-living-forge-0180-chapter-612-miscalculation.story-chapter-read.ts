@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0180Chapter612Miscalculation = {
   id: "01a06730-4e12-74ee-9872-976ff90510f3",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0180-chapter-612-miscalculation",
+  ownProgress: 1519,
   title: "Chapter 612: Miscalculation",
   story: "story-read/rise-of-the-living-forge",
   position: 180,

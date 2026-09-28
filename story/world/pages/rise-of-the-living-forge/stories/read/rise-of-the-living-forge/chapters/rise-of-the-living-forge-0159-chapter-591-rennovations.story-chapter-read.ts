@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0159Chapter591Rennovations = {
   id: "01a06730-4e11-7d29-b8a9-499a87f8d619",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0159-chapter-591-rennovations",
+  ownProgress: 1669,
   title: "Chapter 591: Rennovations",
   story: "story-read/rise-of-the-living-forge",
   position: 159,

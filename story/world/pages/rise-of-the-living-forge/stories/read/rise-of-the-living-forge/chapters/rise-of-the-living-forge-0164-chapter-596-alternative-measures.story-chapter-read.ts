@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0164Chapter596AlternativeMeasures = {
   id: "01a06730-4e11-73e6-8cc7-319f377a2b5c",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0164-chapter-596-alternative-measures",
+  ownProgress: 1753,
   title: "Chapter 596: Alternative Measures",
   story: "story-read/rise-of-the-living-forge",
   position: 164,

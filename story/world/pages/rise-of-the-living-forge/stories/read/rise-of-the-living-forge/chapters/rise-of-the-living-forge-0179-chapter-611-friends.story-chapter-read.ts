@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0179Chapter611Friends = {
   id: "01a06730-4e12-7083-aeb0-1a6da9a52eb9",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0179-chapter-611-friends",
+  ownProgress: 2076,
   title: "Chapter 611: Friends!",
   story: "story-read/rise-of-the-living-forge",
   position: 179,

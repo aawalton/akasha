@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0190Chapter621OneProblem = {
   id: "01a06730-4e13-7a01-bb92-85a6e7ea8799",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0190-chapter-621-one-problem",
+  ownProgress: 1902,
   title: "Chapter 621: One Problem",
   story: "story-read/rise-of-the-living-forge",
   position: 190,

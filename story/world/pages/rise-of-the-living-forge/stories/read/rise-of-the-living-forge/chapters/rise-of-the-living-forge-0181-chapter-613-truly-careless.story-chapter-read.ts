@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0181Chapter613TrulyCareless = {
   id: "01a06730-4e12-74de-94d4-3ed6acb3a4e0",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0181-chapter-613-truly-careless",
+  ownProgress: 2100,
   title: "Chapter 613: Truly Careless",
   story: "story-read/rise-of-the-living-forge",
   position: 181,
