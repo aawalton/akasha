@@ -21,4 +21,5 @@ export const theDatingGame00047 = {
     "She pads a few steps across the grass toward him, and her feet make no sound at all.",
   ],
   lore: ["lore/the-dating-game-aelwyn"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
