@@ -11,4 +11,5 @@ export const otherwhereIii00011 = {
   action:
     "I watch the TV screen quietly, gathering information to help me get oriented and blend into this new world.",
   lore: ["place/otherwhere-iii-uptown-memorial-er"],
+  endsAt: "2037-01-31T07:05:00.000Z",
 } as const satisfies StoryTurnPlayed
