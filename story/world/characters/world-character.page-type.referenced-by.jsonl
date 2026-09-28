@@ -1893,6 +1893,7 @@
 {"propertySlug":"target-page-type","path":"story/world/mechanics/items/story-item/properties/item-character.relation-property.ts","id":"01a0ca42-28bb-7be1-bce7-8ad4a3e0e4ef"}
 {"propertySlug":"target-page-type","path":"story/world/mechanics/metrics/metric-character/properties/metric-of-character.relation-property.ts","id":"01a0ca08-086e-72a3-99d9-49b538d216cd"}
 {"propertySlug":"target-page-type","path":"story/world/mechanics/traits/character-trait/properties/trait-character.relation-property.ts","id":"01a0ca5d-b332-7057-9c07-e79aaa1dd975"}
+{"propertySlug":"target-page-type","path":"story/world/pages/harem-hotel/stories/played/harem-hotel/mechanics/floors/properties/harem-hotel-floor-character.relation-property.ts","id":"01a0e822-39b4-7464-bee4-28d89d0777ae"}
 {"propertySlug":"target-page-type","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere/mechanics/skills/properties/otherwhere-skill-character.relation-property.ts","id":"01a0e7f8-cd1e-7017-8dea-a4acd8b9fd5e"}
 {"propertySlug":"target-page-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/properties/tower-skill-character.relation-property.ts","id":"01a0de38-6904-7c2d-8fa4-cddabf2b88c3"}
 {"propertySlug":"target-page-type","path":"story/world/properties/reading-character.relation-property.ts","id":"01a0d3cb-ae43-75ef-bbd5-cfe20827da69"}
