@@ -1,35 +1,26 @@
 import { expect, test } from "bun:test"
 import {
-  restatementFor,
-  type Story,
+  chapterPageSlug,
+  slugify,
 } from "akasha/alan/collection/royal-road/modules/syncing/royal-road-syncing.module.code.ts"
 
-const STORY: Story = {
-  slug: "the-primal-hunter",
-  externalId: "36049",
-  world: null,
-  status: "ongoing",
-  tags: ["LitRPG"],
-  following: true,
-}
-
-test("a story royal road says nothing new of is not restated", () => {
-  expect(restatementFor(STORY, "ONGOING", ["LitRPG"], true)).toBeNull()
+test("a title is turned into lower words joined by hyphens", () => {
+  expect(slugify("Chapter 1391 - Two Swords, One Bow")).toBe("chapter-1391-two-swords-one-bow")
 })
 
-test("a story followed that stated no following is restated as following", () => {
-  expect(restatementFor({ ...STORY, following: false }, "ONGOING", ["LitRPG"], true)).toEqual({
-    following: true,
-  })
+test("a chapter's name opens with its story and its position padded to four digits", () => {
+  expect(chapterPageSlug("the-primal-hunter", 7, "Big Pig", "557051", 0)).toBe(
+    "the-primal-hunter-0007-big-pig"
+  )
 })
 
-test("a story no longer on the follow list is restated as not following", () => {
-  expect(restatementFor(STORY, "ONGOING", ["LitRPG"], false)).toEqual({ following: false })
+test("a title yielding no word is named by the fallback handed in", () => {
+  expect(chapterPageSlug("the-primal-hunter", 7, "???", "557051", 0)).toBe(
+    "the-primal-hunter-0007-557051"
+  )
 })
 
-test("following is restated beside a status that changed", () => {
-  expect(restatementFor(STORY, "COMPLETED", ["LitRPG"], false)).toEqual({
-    following: false,
-    publicationStatus: "completed",
-  })
+test("a name never runs past a slug's hundred characters with the room kept", () => {
+  const long = "a very long title ".repeat(10)
+  expect(chapterPageSlug("s".repeat(60), 1, long, "1", 8).length).toBeLessThanOrEqual(92)
 })

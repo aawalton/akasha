@@ -1,4 +1,3 @@
-import { idFrom } from "akasha/alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"
 import {
   type RunCounts,
   recordingRun,
@@ -22,6 +21,12 @@ import {
   royalRoadUrl,
 } from "akasha/alan/collection/royal-road/modules/pages/royal-road-pages.module.code.ts"
 import { readUpTo } from "akasha/alan/collection/royal-road/modules/reading/royal-road-reading.module.code.ts"
+import {
+  readStories,
+  restatedStory,
+  restatementFor,
+  type Story,
+} from "akasha/alan/collection/royal-road/modules/stories/royal-road-stories.module.code.ts"
 import { words } from "akasha/alan/collection/unit/pages/words.unit.ts"
 import { unit } from "akasha/alan/collection/unit/unit.page-type.ts"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
@@ -35,16 +40,11 @@ import {
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 
 import { shortenedToWords } from "akasha/code/type/narrowing/modules/shortened-to-words/shortened-to-words.module.code.ts"
-import { textAt } from "akasha/code/type/narrowing/modules/text-at/text-at.module.code.ts"
 import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import {
-  asking,
-  type Row,
-} from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import { composedFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 
 const ROOT = akashaRoot()
@@ -59,8 +59,6 @@ const PROSE = "prose"
 const TXT = "txt"
 const WORDS = `${unit.slug}/${words.slug}` as const
 const STORY = "story"
-const IDENTITY = "externalIdentity"
-const FOLLOWING = "following"
 const PROGRESS = "ownProgress"
 const POSITION_DIGITS = 4
 const BATCH_CEILING = 50
@@ -72,8 +70,6 @@ const TITLE_CEILING = 50
 const SLUG_HOLDS = 100
 
 const DAY = /^\d{4}-\d{2}-\d{2}$/
-
-const STATUS_KEPT = new Set(["ongoing", "completed", "hiatus"])
 
 export class SyncRefused extends Error {}
 
@@ -97,59 +93,6 @@ export function chapterPageSlug(
   const said = slugify(title)
   const ceiling = Math.min(TITLE_CEILING, SLUG_HOLDS - opening.length - room)
   return `${opening}${shortenedToWords(said === "" ? fallback : said, ceiling)}`
-}
-
-function listIn(row: Row, key: string): readonly string[] {
-  const held = row[key]
-  if (!Array.isArray(held)) return []
-  return held.filter((one): one is string => typeof one === "string")
-}
-
-export interface Story {
-  readonly slug: string
-  readonly externalId: string
-  readonly world: string | null
-  readonly status: string | null
-  readonly tags: readonly string[]
-  readonly following: boolean
-}
-
-export function royalRoadIdIn(row: Row): string | null {
-  return idFrom(row[IDENTITY], SOURCE)
-}
-
-export function readStories(only: string | undefined): readonly Story[] {
-  const asked = asking(ROOT, {
-    pageTypeSlug: STORY_PAGE_TYPE,
-    keys: ["slug", IDENTITY, "world", "publicationStatus", "externalTags", FOLLOWING],
-  })
-  if ("refused" in asked)
-    throw new SyncRefused(`the stories to follow went unread: ${asked.refused}`)
-  const out: Story[] = []
-  let found = 0
-  for (const row of asked.rows) {
-    const externalId = royalRoadIdIn(row)
-    if (externalId === null) continue
-    found += 1
-    const slug = textAt(row, "slug")
-    if (slug === null) continue
-    if (only !== undefined && slug !== only) continue
-    out.push({
-      slug,
-      externalId,
-      world: textAt(row, "world"),
-      status: textAt(row, "publicationStatus"),
-      tags: listIn(row, "externalTags"),
-      following: row[FOLLOWING] === true,
-    })
-  }
-  if (found === 0) {
-    throw new SyncRefused(
-      `${STORY_PAGE_TYPE} answered with no story read from ${SOURCE}. An empty answer is a ` +
-        `broken read rather than an empty shelf.`
-    )
-  }
-  return out
 }
 
 const OPENS_WITH = `${STORY_PAGE_TYPE}/`
@@ -207,41 +150,6 @@ export function filedChapter(
       { at: PUT, given: { at: composed.put.path, body: composed.put.content } },
       { at: PUT, given: { at: beside, body: text } },
     ],
-  }
-}
-
-export function restatementFor(
-  story: Story,
-  status: string | null,
-  tags: readonly string[],
-  following: boolean
-): Value | null {
-  const values: Value = {}
-  if (following !== story.following) values[FOLLOWING] = following
-  const wanted = status === null ? null : status.toLowerCase()
-  if (wanted !== null && STATUS_KEPT.has(wanted) && wanted !== story.status) {
-    values["publicationStatus"] = wanted
-  }
-  const sameTags =
-    tags.length === story.tags.length && tags.every((tag, i) => tag === story.tags[i])
-  if (tags.length > 0 && !sameTags) values["externalTags"] = [...tags]
-  return Object.keys(values).length === 0 ? null : values
-}
-
-export function restatedStory(story: Story, values: Value): Filed {
-  const named = `${STORY_PAGE_TYPE}/${story.slug}`
-  const composed = composedFor(ROOT, {
-    pageTypeSlug: STORY_PAGE_TYPE,
-    slug: story.slug,
-    values: { ...values, slug: story.slug },
-    merge: true,
-  })
-  if ("refused" in composed) {
-    throw new SyncRefused(`${named} was composed by nothing: ${composed.refused}`)
-  }
-  return {
-    named,
-    changes: [{ at: RESTATE, given: { at: composed.put.path, body: composed.put.content } }],
   }
 }
 
@@ -324,7 +232,7 @@ async function syncStory(
     counts.unworlded += 1
     return
   }
-  filing.push(restatedStory(story, wanted))
+  filing.push(restatedStory(ROOT, story, wanted))
   console.log(`    restated ${STORY_PAGE_TYPE}/${story.slug}`)
   counts.restated += 1
 }
@@ -353,7 +261,7 @@ async function syncRoyalRoad(argv: readonly string[]): Promise<RunCounts> {
   const limitRaw = argv.includes("--limit") ? argv[argv.indexOf("--limit") + 1] : undefined
   const budget = { left: limitRaw === undefined ? Number.MAX_SAFE_INTEGER : Number(limitRaw) }
 
-  const stories = readStories(only)
+  const stories = readStories(ROOT, only)
   const held = heldChapters(ROOT)
   const follows = new Map(
     (await readFollows(await signedIn(ROOT))).map((one) => [one.fictionId, one])

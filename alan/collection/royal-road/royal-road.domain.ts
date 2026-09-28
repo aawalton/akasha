@@ -13,6 +13,7 @@ export const royalRoad = {
     "module/royal-road-held",
     "module/royal-road-follows",
     "module/royal-road-reading",
+    "module/royal-road-stories",
   ],
   decisions: [
     {
