@@ -6,6 +6,14 @@ export const otherwhereCoreChamber = {
   slug: "otherwhere-core-chamber",
   title: "The Round Wooden Chamber",
   world: "world/library-system-reset-overdue-book-four-stubbed",
+  depth: -1,
+  exits: [
+    {
+      to: "place/otherwhere-main-hall",
+      way: "Up the spiral staircase from the dark gap where the far wall meets the floor, two or three stories with no landing.",
+      direction: "up",
+    },
+  ],
   facts: [
     {
       fact: "The chamber is round and vast, walled in dark wood whose grain all sweeps one way.",

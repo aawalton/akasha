@@ -6,6 +6,12 @@ export const otherwhereQuarters = {
   slug: "otherwhere-quarters",
   title: "The Librarian's Quarters",
   world: "world/library-system-reset-overdue-book-four-stubbed",
+  exits: [
+    {
+      to: "place/otherwhere-main-hall",
+      way: "Along the short passage to the hall, behind the Check-in Counter.",
+    },
+  ],
   facts: [
     {
       fact: "The Librarian's quarters open off the hall behind the Check-in Counter, for a synced Librarian.",

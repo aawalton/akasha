@@ -7,6 +7,7 @@ export const otherwhereHallBack = {
   title: "The Back of the Main Hall",
   world: "world/library-system-reset-overdue-book-four-stubbed",
   within: "place/otherwhere-main-hall",
+  depth: 0,
   facts: [
     {
       fact: "Bookworms are grey worms a few inches long with rings of color at each end, and cute.",

@@ -6,6 +6,14 @@ export const otherwhereKitchen = {
   slug: "otherwhere-kitchen",
   title: "The Kitchen",
   world: "world/library-system-reset-overdue-book-four-stubbed",
+  exits: [
+    {
+      to: "place/otherwhere-main-hall",
+      way: "Back along the short corridor and through the arched door into the main hall.",
+    },
+    { way: "Through the wide door onto the staff dining hall." },
+    { way: "Through the pantry's low door at the far end, beside the great oven." },
+  ],
   facts: [
     {
       fact: "The kitchen lies through an arched door on the main hall's right side, down a short corridor.",

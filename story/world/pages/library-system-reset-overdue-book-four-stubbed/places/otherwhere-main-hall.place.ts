@@ -6,6 +6,25 @@ export const otherwhereMainHall = {
   slug: "otherwhere-main-hall",
   title: "The Main Hall",
   world: "world/library-system-reset-overdue-book-four-stubbed",
+  depth: 0,
+  exits: [
+    {
+      to: "place/otherwhere-core-chamber",
+      way: "Down the spiral staircase, two or three stories round and round with no landing.",
+      direction: "down",
+    },
+    {
+      to: "place/otherwhere-quarters",
+      way: "Through the short passage behind the Check-in Counter.",
+    },
+    {
+      to: "place/otherwhere-kitchen",
+      way: "Through the arched door on the hall's right side, and down a short corridor.",
+    },
+    {
+      way: "Through the plain wooden door off the hall's left side, partway back along the columns, into the break room.",
+    },
+  ],
   facts: [
     {
       fact: "The main hall is at the top of the spiral staircase from the core chamber.",
