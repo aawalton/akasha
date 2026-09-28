@@ -23,7 +23,6 @@ const runOf = (turns: readonly ClientStoryTurn[]): PanelRun => ({
   turnCovers: [],
   player: "",
   beats: undefined,
-  hrefById: new Map(),
   earlier: 0,
   titles: "hidden",
   pastTurns: undefined,

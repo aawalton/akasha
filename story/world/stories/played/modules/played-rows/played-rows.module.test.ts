@@ -6,7 +6,6 @@ import {
   playedClockOf,
   playedCoversOf,
   playedEnvelope,
-  playedHrefsOf,
   playedMaking,
   playedReady,
   playedTail,
@@ -231,15 +230,6 @@ describe("playedUpcomingOf", () => {
   test("lists nothing where the turns carry no time", () => {
     const rows = [meeting("soon", "2026-10-03T11:00:00.000Z")]
     expect(playedUpcomingOf(rows, [turnPage({ id: "t", position: 1 })])).toEqual([])
-  })
-})
-
-describe("playedHrefsOf", () => {
-  test("reaches a turn by its slug and the tail of its id", () => {
-    const hrefs = playedHrefsOf("story-turn-played", [
-      turnPage({ id: "0000000000abcdef", slug: "the-tower-01-001", position: 1 }),
-    ])
-    expect(hrefs.get("0000000000abcdef")).toBe("/story-turn-played/the-tower-01-001-00abcdef")
   })
 })
 

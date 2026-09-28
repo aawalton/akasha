@@ -54,7 +54,6 @@ import {
   playedClockOf,
   playedCoversOf,
   playedEnvelope,
-  playedHrefsOf,
   playedListsOf,
   playedMaking,
   playedReady,
@@ -208,10 +207,6 @@ function PlayedStory({
       ),
     [tail, prose]
   )
-  const hrefById = useMemo(
-    () => playedHrefsOf(runPageTypeSlug, tail.drawn),
-    [runPageTypeSlug, tail]
-  )
   const storyChapters = useMemo(
     () => (runIsTurns ? playedChaptersOf(chapters.rows) : []),
     [runIsTurns, chapters.rows]
@@ -230,25 +225,13 @@ function PlayedStory({
       turnCovers,
       player,
       beats: undefined,
-      hrefById,
       earlier: tail.earlier,
       titles: runIsTurns ? TURN_TITLES : undefined,
       pastTurns: undefined,
       gameExternalId: externalId,
       submitPlayerAction: coordinatorAgent === undefined ? undefined : sendAction,
     }),
-    [
-      clock,
-      upcoming,
-      envelope,
-      turnCovers,
-      player,
-      hrefById,
-      tail,
-      externalId,
-      runIsTurns,
-      coordinatorAgent,
-    ]
+    [clock, upcoming, envelope, turnCovers, player, tail, externalId, runIsTurns, coordinatorAgent]
   )
 
   if (chapters.isLoading || turns.isLoading) return null

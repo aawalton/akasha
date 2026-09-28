@@ -230,13 +230,6 @@ function playedHref(pageTypeSlug: string, row: Page): string {
   })
 }
 
-export function playedHrefsOf(
-  pageTypeSlug: string,
-  rows: readonly Page[]
-): ReadonlyMap<string, string> {
-  return new Map(rows.map((row) => [row.id, playedHref(pageTypeSlug, row)]))
-}
-
 export function playedTurnsOf(
   rows: readonly Page[],
   prose: ReadonlyMap<string, string>
