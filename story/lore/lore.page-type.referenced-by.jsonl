@@ -189,6 +189,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-olita.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-olive.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-orc.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-oswy-brand.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-othryx.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-parasite.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-paths.lore.ts","typed":true,"deferred":false}
@@ -273,6 +274,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-vhala.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-vira-lann.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-vortex-magic.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-wenna-pell.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-wiam.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-wizardry.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-wolfman.lore.ts","typed":true,"deferred":false}
