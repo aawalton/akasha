@@ -234,7 +234,6 @@ export const otherwhereMainHall = {
       fact: "As the first bookworm dried still, the hall's gold light brightened a shade.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "Nala picked up Shelf Sight, a slim plain-bound book, sorting the heaps beside the counter.",
       knowers: [
@@ -255,7 +254,6 @@ export const otherwhereMainHall = {
         "character-other/otherwhere-links",
       ],
     },
-
     {
       fact: "When the Library asked Nala to sync again, a low hum rose through the hall from the core.",
       knowers: [
@@ -298,31 +296,59 @@ export const otherwhereMainHall = {
     },
     {
       fact: "Counter Keeping is a working text of the Library's own magic, teaching the Counter's lending.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-links",
+        "character-player/otherwhere-alan",
+      ],
     },
     {
       fact: "Counter Keeping takes some three hours' quiet reading; without its power the Counter lends no book.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-links",
+        "character-player/otherwhere-alan",
+      ],
     },
     {
       fact: "Nala shelved Counter Keeping herself, from the heaps by the columns, low down near the Counter.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-links",
+        "character-player/otherwhere-alan",
+      ],
     },
     {
       fact: "Courtesies of the Many Peoples is a thick, plain guide to patrons' customs, holding no power.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-links",
+        "character-player/otherwhere-alan",
+      ],
     },
     {
       fact: "Courtesies takes days to read whole; its first part, on the commonest peoples, takes an afternoon.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-links",
+        "character-player/otherwhere-alan",
+      ],
     },
     {
       fact: "A golem shelved Courtesies of the Many Peoples this morning, high on the west gallery.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-links",
+        "character-player/otherwhere-alan",
+      ],
     },
     {
       fact: "No book yet shelved in the main hall teaches a healing power.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-links",
+        "character-player/otherwhere-alan",
+      ],
     },
   ],
   secrets: "jsonl",
