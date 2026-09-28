@@ -25,11 +25,13 @@ export const story = {
     "domain/story-style",
     "page-type/story-reviewer",
     "page-type/story-recorder",
+    "text-property/chapter-break",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/world", required: false, many: false },
     { pageProperty: "file-property/prose", required: false, many: false },
+    { pageProperty: "text-property/chapter-break", required: false, many: false },
   ],
   decisions: [
     {

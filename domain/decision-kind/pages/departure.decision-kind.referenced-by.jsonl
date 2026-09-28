@@ -3742,6 +3742,7 @@
 {"propertySlug":"decision-kind","path":"story/lore/properties/lore-knowers.multi-relation-property.ts","id":"01a0deeb-9c4e-7015-a498-0a4f0584de69"}
 {"propertySlug":"decision-kind","path":"story/lore/properties/lore-secrets.file-property.ts","id":"01a0deeb-9c4e-792c-b6e8-bb426527d31e"}
 {"propertySlug":"decision-kind","path":"story/narrative-production/narrative-production.domain.ts","id":"01a0673a-bc3a-7002-900d-98d54a36587e"}
+{"propertySlug":"decision-kind","path":"story/properties/chapter-break.text-property.ts","id":"01a0d4e1-a12d-7dcc-9da9-a8637b4b4192"}
 {"propertySlug":"decision-kind","path":"story/recorder/properties/story-recorder-instructions.file-property.ts","id":"01a0e054-324c-7c5f-8cf2-aad1564badaa"}
 {"propertySlug":"decision-kind","path":"story/recorder/story-recorder.page-type.ts","id":"01a0e054-324d-793a-8ecd-433ed00e9de5"}
 {"propertySlug":"decision-kind","path":"story/reviewer/properties/story-reviewer-instructions.file-property.ts","id":"01a0deb0-2f41-7307-af9c-97908d4ce246"}
@@ -3872,7 +3873,6 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.ts","id":"01a0de4c-3554-7639-96b1-340c959aae40"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/player-beside/player-beside.module.ts","id":"01a0ca9e-ea64-779b-b65f-7f138ba63302"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/prose-beside/prose-beside.module.ts","id":"01a0a161-77ae-7c52-b1d4-6e0f8a35c92b"}
-{"propertySlug":"decision-kind","path":"story/world/stories/played/properties/chapter-break.text-property.ts","id":"01a0d4e1-a12d-7dcc-9da9-a8637b4b4192"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/coordinator-agent.text-property.ts","id":"01a0673c-8e0e-7001-a960-de2ffa854884"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/cover-reroll-refused.text-property.ts","id":"01a0e84e-3f8e-7738-bb8e-6205aa186cfb"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/cover-reroll.relation-property.ts","id":"01a0e84e-3f8e-74cf-b543-8711abba573e"}
