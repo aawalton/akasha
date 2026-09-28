@@ -32,6 +32,10 @@ export const otherwhereMainHall = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Shelf Sight, a book whose power shows a glanced book's shelf, lies in a heap near the counter.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The main hall is dimly lit, brighter once a Librarian syncs, and gloomy beyond the entrance.",
       knowers: ["lore-disclosure/game-master"],
     },
