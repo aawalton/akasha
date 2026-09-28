@@ -6,5 +6,6 @@
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
+{"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-otherwhere-ix-flex-1/iris-story-recorder-otherwhere-ix-flex-1.seat.ts","id":"01a0ea5f-00a5-7000-9ec7-5356e43a6b02"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-otherwhere-vi-flex-2/iris-story-recorder-otherwhere-vi-flex-2.seat.ts","id":"01a0ea5d-3b05-7000-adee-95a4c9374f50"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-otherwhere-vi-flex-3/iris-story-recorder-otherwhere-vi-flex-3.seat.ts","id":"01a0ea5d-4dbd-7000-82d3-83d7f4a58c44"}
