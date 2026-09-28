@@ -10,7 +10,7 @@ export const otherwhere00051 = {
   position: 51,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action:
     "**Do it, just let me wash off the worst of the mess first **. I go to the tub and wash off the honey and salt, then fill the tub with water. **Ready**",
   beats: [
@@ -22,5 +22,5 @@ export const otherwhere00051 = {
     "In moments the tub is steaming hot.",
   ],
   issues: ['"In moments the tub is steaming hot." - Leave It Open'],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
