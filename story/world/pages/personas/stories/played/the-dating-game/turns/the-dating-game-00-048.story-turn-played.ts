@@ -24,4 +24,5 @@ export const theDatingGame00048 = {
     '"Provo River Trail, at the mouth of the canyon. Bring water and your quiet feet."',
   ],
   lore: ["lore/the-dating-game-aelwyn"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
