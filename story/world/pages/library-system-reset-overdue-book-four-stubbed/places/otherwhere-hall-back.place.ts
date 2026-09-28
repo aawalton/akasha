@@ -330,6 +330,10 @@ export const otherwhereHallBack = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
+      fact: "While it gags and spits salt, the big bookworm's mouth hangs open and it is slow to jerk away.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Nala's fifth sack burst short in its mouth as it jerked away; its answering lunge missed.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
