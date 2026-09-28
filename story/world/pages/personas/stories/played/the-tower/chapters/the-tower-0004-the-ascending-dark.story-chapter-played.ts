@@ -8,7 +8,7 @@ export const theTower0004TheAscendingDark = {
   unit: "unit/words",
   title: "The Ascending Dark",
   story: "story-played/the-tower",
-  ownLength: 6036,
+  ownLength: 6032,
   prose: "txt",
   lastTurn: "the-tower-00-069",
   lastTurnPosition: 69,

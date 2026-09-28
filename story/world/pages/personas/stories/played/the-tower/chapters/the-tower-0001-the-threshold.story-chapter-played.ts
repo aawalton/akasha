@@ -7,7 +7,7 @@ export const theTower0001TheThreshold = {
   title: "The Threshold",
   story: "story-played/the-tower",
   position: 1,
-  ownLength: 1833,
+  ownLength: 1830,
   unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed
