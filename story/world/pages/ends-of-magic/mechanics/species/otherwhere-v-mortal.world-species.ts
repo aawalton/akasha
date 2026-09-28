@@ -6,5 +6,5 @@ export const otherwhereVMortal = {
   slug: "otherwhere-v-mortal",
   title: "Mortal",
   world: "world/ends-of-magic",
-  description: "Any thinking being of Davrar who dies for good.",
+  description: "A thinking being without immortality.",
 } as const satisfies WorldSpecies

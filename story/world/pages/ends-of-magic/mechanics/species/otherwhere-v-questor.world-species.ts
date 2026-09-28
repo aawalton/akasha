@@ -6,5 +6,5 @@ export const otherwhereVQuestor = {
   slug: "otherwhere-v-questor",
   title: "Questor",
   world: "world/ends-of-magic",
-  description: "An immortal being who comes back after death.",
+  description: "An immortal being.",
 } as const satisfies WorldSpecies

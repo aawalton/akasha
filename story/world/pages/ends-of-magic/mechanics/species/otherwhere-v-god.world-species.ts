@@ -6,5 +6,5 @@ export const otherwhereVGod = {
   slug: "otherwhere-v-god",
   title: "God",
   world: "world/ends-of-magic",
-  description: "A divine being of past ages, now dead.",
+  description: "A dead divine being.",
 } as const satisfies WorldSpecies

@@ -6,5 +6,5 @@ export const otherwhereVEarthBorn = {
   slug: "otherwhere-v-earth-born",
   title: "Earth-Born",
   world: "world/ends-of-magic",
-  description: "A human from Earth who has come to Davrar.",
+  description: "A human from Earth.",
 } as const satisfies WorldSpecies

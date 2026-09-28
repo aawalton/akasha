@@ -6,5 +6,5 @@ export const otherwhereVSeaMonster = {
   slug: "otherwhere-v-sea-monster",
   title: "Sea Monster",
   world: "world/ends-of-magic",
-  description: "Any of the monsters that hunt Davrar's oceans.",
+  description: "Any ocean monster.",
 } as const satisfies WorldSpecies

@@ -6,5 +6,5 @@ export const otherwhereVTreeborn = {
   slug: "otherwhere-v-treeborn",
   title: "Treeborn",
   world: "world/ends-of-magic",
-  description: "A thinking people who live in tribes on the plains.",
+  description: "A tribal thinking people.",
 } as const satisfies WorldSpecies

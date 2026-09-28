@@ -6,5 +6,5 @@ export const otherwhereVWolfman = {
   slug: "otherwhere-v-wolfman",
   title: "Wolfman",
   world: "world/ends-of-magic",
-  description: "A furred, wolf-like people who walk upright.",
+  description: "A furred, upright, wolf-like people.",
 } as const satisfies WorldSpecies

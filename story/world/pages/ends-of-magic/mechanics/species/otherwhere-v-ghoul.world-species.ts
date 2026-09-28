@@ -6,5 +6,5 @@ export const otherwhereVGhoul = {
   slug: "otherwhere-v-ghoul",
   title: "Ghoul",
   world: "world/ends-of-magic",
-  description: "A dreaded monster named in sayings of doom.",
+  description: "A dreaded monster.",
 } as const satisfies WorldSpecies

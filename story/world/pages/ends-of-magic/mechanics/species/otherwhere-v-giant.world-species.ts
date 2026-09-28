@@ -6,5 +6,5 @@ export const otherwhereVGiant = {
   slug: "otherwhere-v-giant",
   title: "Giant",
   world: "world/ends-of-magic",
-  description: "A huge people of the past, now gone.",
+  description: "A huge ancient people.",
 } as const satisfies WorldSpecies
