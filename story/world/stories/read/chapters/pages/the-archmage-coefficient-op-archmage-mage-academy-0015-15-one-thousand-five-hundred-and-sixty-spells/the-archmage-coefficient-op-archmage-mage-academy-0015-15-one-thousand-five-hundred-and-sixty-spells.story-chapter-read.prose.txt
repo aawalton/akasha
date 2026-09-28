@@ -1,0 +1,519 @@
+The spells in the codex were organized in terms of difficulty. A handy table at the very front explained the difference in tiers:
+
+Tier
+
+* Complexity
+
+Typical Magnitude
+
+Essence/Isotopes Used
+
+Examples
+
+1 - Lower Initiate
+
+Simple, Single Stage
+
+1
+
+2 (common isotopes)
+
+[Wind Gust], [Minor Illumination]
+
+2 - Upper Initiate
+
+Simple, Single Stage
+
+1-2
+
+2-3 (may be less common isotopes)
+
+[Flashblind]
+
+[Minor Geokinesis]
+
+3 - Lower Apprentice
+
+Moderate, Single Stage
+
+2-3
+
+3 (less common isotopes) - 4 (more common isotopes)
+
+*[Root Bind], [Minor Phytogenesis]
+
+4 - Upper Apprentice
+
+Moderate,
+
+Double stage
+
+3-4
+
+2 (less common isotopes) - 3 (more common isotopes)
+
+[Minor Rapid Healing], [Rock Shield]
+
+5 - Lower Adept
+
+Multi-stage
+
+4-5
+
+2 (any isotopes) - 5 (any isotopes)
+
+[Double Blind], [Flame Shield]
+
+6 - Upper Adept
+
+Multi-stage and parallel effects
+
+5 - 6
+
+3 (any isotopes) - 6 (any isotopes)
+
+[Flame Shield Reverse Attack], [Creature Control]
+
+7 - Lower Master
+
+Multi-stage and parallel/ multi-effects
+
+6-8
+
+3 (any isotopes) - 7 (any isotopes)
+
+[Summoner Minor]
+
+[Single Person Teleportation]
+
+8 - Upper Master
+
+Multi-stage and parallel/ multi-effects
+
+8-10
+
+3-8 (any isotopes)
+
+[Seismic Pulse],
+
+*** [Multi-person Teleport]
+
+9 - Lower Archmage
+
+HIgh Magnitude, Feedback Spells
+
+10-15
+
+Any isotopes
+
+Storm Call,
+
+Adaptive Regeneration
+
+10 - Upper Archmage
+
+High Magnitude, Feedback Spells, Perfected Signature Spells
+
+10-50
+
+Any isotopes
+
+Signature spells, Wide-scale summoning .
+
+11 - Legendary
+
+Extremely High Magnitude, Perfected Signature Spells
+
+50 - 100
+
+Any isotopes
+
+-
+
+12 Mythical
+
+World-Changing Magnitude, Perfected Signature Spells
+
+100 +
+
+Any isotopes
+
+-
+
+Notes:
+
+*Complexity doesn’t just depend on magnitude. Multi-effect and feedback mechanisms can make even moderate-magnitude spells risky. The reverse also applies.
+
+**Rootbind requires contact with the earth
+
+***Multi-person teleportation requires runes. The farther away it is, the more runes required. Minor risk of escaped shadow wraiths. Don’t overuse.
+
+Ari figured the beginner spells were Tier 1 and 2, and to some extent Tier 3 and 4. They were listed on the very next page, further organized according to their most dominant essences. Ari would have preferred alphabetical order, but no one had consulted her when arranging things.
+
+Underneath each spell, it listed the balanced equation, which told roughly how many essences were involved.
+
+For [Wind Gust], for example, the balanced equation was 2(Calor𝞪+2) + 4(Massa𝞪-1).
+
+So there were, at minimum, six essences used, increased by a factor of n for a stronger effect.
+
+Name: Wind Gust
+
+Tier: 2-3
+
+Primary Essence Theme: Calor + Massa
+
+Essence Equation (with stages): 2(Calor𝞪+2) + 4(Massa𝞪-1).
+
+(single stage.
+
+Visual/Physical Effect: Releases a mild gust of wind
+
+Common Risks (reaction imbalances)
+
+Low risk of backlash.
+
+Usage Notes / Variants
+
+Spell can be scaled up by a factor of n for a stronger gust of wind. Limit at magnitude of 4.
+
+Following that, Ari analyzed the spell script which was largely linked to the function of the spell. She also read a brief passage, describing what the spell script signified.
+
+Function and structure are inherently interdependent within spellcraft. A clear understanding of a spell’s intended effect provides a foundational basis for determining the corresponding configuration and form of its script.
+
+Here are the most common shapes and what they indicate in the spell function:
+
+Calor straight chain - Directional force
+
+Calor zig-zag - Heat
+
+Luxa star - Illumination
+
+Luxa circle + small arrow - Identification
+
+Vitae Tree - Growth
+
+Vitae Helix - Healing
+
+Massa cube - Reconstruction
+
+Massa ring - Binding
+
+Vacu Wave - Destabilization
+
+Vacu Swirl: -Reduction
+
+Note: Student will learn more about spell script shapes when studying spell craft.
+
+Ari immediately wanted to flip the pages to the crafting section. Spell crafting seemed a lot more interesting than spell casting right now, but she held herself back. She knew how she could get.
+
+Even just reading about crafting, she would become engrossed and completely immersed in the information so much that she would lose track of time and forget about everything else. She could not afford to do that right now. She needed to study her spells, and then maybe, if she had time afterward, she would go into spell crafting.
+
+She took out her wand and performed [Wind Gust] in two seconds, remembering the spell form by heart. Her system instantly alerted her.
+
+NEW SPELL DETECTED.
+
+Name: [WIND GUST].
+
+Tier: Initiate
+
+Experience Points: 1
+
+Would you like to incorporate it into your Grimoire?
+
+Ari contemplated it. Elric had told her not to bother saving any of the more common spells in her Grimoire.
+
+However, he’d also told her that she needed to fake a normal leveling. What was normal?
+
+She reached for her beginner manual, opening to a page which gave her this leveling chart:
+
+Initiate: Level 1 - Level 20
+
+Apprentice - Level 20 - Level 100
+
+Adept - Level 100 - Level 200
+
+Master - Level 200 - Level 500
+
+Archmage - Level 500 - Level 1000
+
+*Arch-Arch-Mage - Level 1000 - Level 2000
+
+Legendary Archmage - Level 2000 - Level 6000
+
+Mythical Archmage - Level 6000+
+
+NOTE:
+
+*(Arch-Arch-Mage not in colloquial use).
+
+Ari was a Level 50, which was firmly in the apprentice tier, and she had about fifty more levels before she entered the adept tier. Each point was 1/1000th of a level, so she would need a thousand points to go up one level.
+
+That was about five hundred beginner spells.
+
+Hmmm.
+
+Typically, mages remained apprentices for their first and second years. Skilled mages could become adepts in their second year, but it was rare.
+
+However, Ari had already been marked as an exceptionally talented candidate, so it would be entirely plausible for her to reach the adept tier as a Cohort 2 student.
+
+To do that, she needed to restrict herself to climbing only fifty levels in the next half a year or so. Eight to nine levels a month. That was eight thousand points, which was about four thousand Tier 1-4 spells.
+
+And that was just for learning the spell.
+
+So, in essence, she needed to be frugal with the number of spells she added to her grimoire today. She would only add about a quarter or less, and she would not incorporate the points she got from using the spells subsequently. That would help her keep to her limits and not cross into adept tier prematurely.
+
+With that, Ari waved away the [Wind Gust] spell. She decided that she would only add interesting spells to her Grimoire.
+
+She moved onto the next spell [Small Spark].
+
+Calor 𝞫 + 2(Massa 𝞪)
+
+She did that with ease, setting fire to the tip of her wand.
+
+NEW SPELL DETECTED.
+
+Name: [SMALL SPARK].
+
+Tier: Initiate
+
+Experience Points: 1
+
+Would you like to incorporate it into your Grimoire?
+
+She decided to incorporate it simply because she liked the way the fire danced.
+
+Then Ari kept going until she saw another spell she liked.
+
+[Minor Telekinesis]
+
+2 (Luxa 𝞫) + 4(Massa 𝞪) + Calor 𝞪
+
+It was a lower apprentice spell, fairly useful, so she decided to incorporate it into her Grimoire.
+
+Next spell [Minor Magnet]
+
+Unincorporated.
+
+Next Spell [Wind Sound]
+
+Unincorporated.
+
+Next Spell [Water Sound]
+
+Incorporated for its calming effect.
+
+Ari didn't feel time pass. She got into the zone of performing each spell in seconds, without consciously thinking about it. It became very much an automatic process, a flow state, even as the world around her turned darker and messier. Whenever she needed a target for a spell, she would always use her box, so now, her clothes were strewn all over the floor. When she was done with the first ten pages, she paused and looked around her. She faintly heard a bell ring, but it barely occurred to her that it might be dinner time.
+
+Not that she would go out for dinner anyway. She wasn’t hungry, and she would rather spend that time completing spells.
+
+She continued until the system alerted her.
+
+INTERNAL LATTICE STRESS IS NOW ABOVE 20%
+
+MICROFRACTURE RISK IS NOW MODERATE.
+
+PLEASE TAKE A THIRTY-MINUTE BREAK FROM SPELLWORK TO PREVENT FRACTURE.
+
+Oh. A thirty-minute break? That was a long time, and she hadn't even done that many spells.
+
+Wait. How many spells had she done?
+
+Her finger hovered over spell number 152.
+
+Not even a quarter of the total number, and now she had to take a break.
+
+That was frustrating, but there was nothing she could do about it. She got up and stretched, walking to the window.
+
+Ari finally acknowledged how nervous she was about tomorrow.
+
+She recognized where she was lacking. Theory. Most of the other students had grown up in the world of the ascendant. They knew implicitly things that Ari would have to learn on her own. Not to mention the other first years had been here for several months and had classes that covered a variety of topics that Ari now needed to cram in record time.
+
+But Ari had always done well in school, especially with memorization.
+
+She'd never started from behind before and she'd never been surrounded by other driven students, nobles who likely had several tutors helping them. But she simply refused to be beaten even if she had to do it all on her own.
+
+Well, except that she had Elric.
+
+Should she send him a letter now? Was it too soon?
+
+He said he had to work, so would messaging him now be a bother? Probably. She would give it a few more hours first.
+
+She returned to her desk after stretching, noting that the sky was nearly all dark and only a minute of her break had passed.
+
+Well, she might as well spend it doing something pleasant.
+
+She finally let herself turn the page to spell craft.
+
+Spell-crafting is defined as the combined art and science of bringing magical constructs into functional existence. The process is systematic and requires both conceptual clarity and technical precision. It begins with the formulation of intent, wherein the practitioner determines the specific purpose and desired outcome of the spell.
+
+Once intent has been established, the practitioner then proceeds through the following stages:
+
+Ari went through each step, pausing on the idea of isotopes. She'd never thought about it before, but how did she manage to differentiate the isotopes each time she did a spell? So far, it had seemed to be almost an automatic thing. Her cores always managed to draw the right ones the spell demanded without even thinking about it, even though the isotopes of one essence looked very similar to each other.
+
+It was strange.
+
+The spellbook noted that the isotope identification and core connection were the hardest part of spell casting and the limiting step of the process. How had she bypassed that?
+
+She hadn't really done anything except talk to the essences and meditate. Why were they so willing to help her? And how was she so attuned to them? It wasn't just her essence-sight. The isotopes weren't visually that different, but somehow her core recognized them anyway.
+
+Interesting.
+
+Some other mechanism had to be at play there. Did they feel subtly different in a way only her subconscious knew? How did she then make that subconscious conscious?
+
+She would ask Elric when she spoke to him later.
+
+She moved on to the subtopic of spell scripts, which was the second most complex part of creating a spell.
+
+Even with knowing the common essence shapes, they could combine in unique ways that added different flavors to the spell.
+
+Spacing also mattered because the orbs had to be linked to enough oppositely charged essences to counteract their charge. Every single essence had to be accounted for and balanced, and typically, the larger the shape, the more complex the diagram.
+
+This was the part that fascinated Ari the most. She was drawn to the thought of using her brain creatively, forming different flavors of the same spell...
+
+Almost like a Phasewalker.
+
+Excitement echoed in her brain.
+
+Before she turned the page, a stray thought hit her.
+
+So far, she'd utilized every other essence except Vacu.
+
+Most of the spells contained Calor, Massa, and Luxa, and some of them contained Vitae, although there were very few Vitae-dominant beginner spells.
+
+However, she hadn't worked with Vacu once.
+
+She decided to do that the second her break was over.
+
+After all, Lyra had advised not to just focus on her lean essences but to also work on her weaker cores. Ari didn't technically have weaker cores, but given her lean, she needed to be working on calor-dominant, vacu-dominant, and Vitae-dominant spells.
+
+She flipped to the back pages of the beginner spells, and found that there were only forty that were vacu-dominant. Forty out of a thousand five hundred and sixty spells.
+
+That was a ridiculously low amount.
+
+In fact, flipping through showed her that not only was Vacu the least used dominant spell, it was also the least used stabilizer as well. Which didn't make any sense.
+
+Vacu had a charge of -2
+
+Massa had a charge of -1.
+
+That meant that you would need two Massa essences to provide the same balance as one Vacu essence. Using Massa instead of Vacu then seemed wasteful.
+
+Perhaps their function played a role in the discrepancy, but it still felt like a giant burden had been placed on Massa because there were not enough Vacu spells.
+
+She selected one that was a Tier 3.
+
+Name: Bound Mute
+
+Tier: 3
+
+Primary Essence Theme: Vacu + Luxa
+
+Essence Equation (with stages): Vacu 𝞪 + 3(Luxa 𝞓) + Massa 𝞪 (single stage)
+
+Visual/Physical Effect: Removes sound within the bound region
+
+Common Risks (reaction imbalances)
+
+Moderate risk of backlash.
+
+Usage Notes / Variants
+
+Scale up by a factor of n to increase the bound region. Limit at magnitude of 3.
+
+The spell script was primarily Vacu essences orbiting around a Luxa 𝞓 shape that looked like an three-dimensional S with a small arrow.
+
+Ari learned that represented sound identification.
+
+She pulled out her wand, beginning to drag the essences over.
+
+She understood shortly why Vacu wasn't used as a support more often.
+
+It was because Vacu wasn't great at balancing.
+
+It was the lightest of the elements when it came to weight, and it constantly tried to escape her hold. But not in a hyperactive way like calor. Here, it simply felt like Vacu didn't want to exist, like it wanted to retreat to where it came from.
+
+Shy.
+
+"That's okay," Ari murmured to her as she coaxed it into its shape. "I won't hurt you."
+
+Vacu wasn't convinced, still darting away, flickering in and out of existence.
+
+As the six-second limit for spells to take shape elapsed, Ari felt the essences start to dissipate. But she held them with her wand, and the escaped Vacu essences in her hand, stopping the blowback in its tracks.
+
+"I get shy too," Ari told Vacu. "And a lot of times I want to hide, but I can't. Because Father says that if I hide whenever I'm afraid, then I might never stop hiding. I might never come out again. And I would miss out on life and everything it has to offer."
+
+One Vacu orb broke away from her, but Ari trapped it again, drawing it closer, encircling it in Luxa's serenity.
+
+"Your friends will help you," she said. "They will protect you, and so will I."
+
+Finally, perhaps something about Luxa's proximity or Ari's words convinced it. It began moving hesitantly but slightly more smoothly into place.
+
+The spell completed, and a burst of light spread across the room.
+
+Then nothing. Not a single sound.
+
+The room had been quiet before, but now Ari's immediate surroundings were more than just quiet. It was...void.
+
+Ari had almost drowned once. When she was about five years old, she’d been playing with a swamp rabbit, and she’d fallen into a bog.
+
+The water was too thick for her to swim back up quickly, and the bog weeds wrapped around her body, weighing her down even more. Algae covered the surface of the water, blocking out the sun, and the more she struggled, the faster she sank.
+
+For a moment, she panicked, fighting to breathe under the pressure.
+
+Then after some time, she’d just accepted it. She’d accepted she was going to die. No one knew she was here. No one would save her.
+
+She couldn’t escape death, so she might as well just surrender.
+
+There was peace to be had with the acceptance. Since she already knew the destination, she could make herself somewhat enjoy the journey.
+
+Apart from the pain in her chest, it wasn’t actually unpleasant. The sensation of slowly sinking almost felt nice. And so did the silence, the emptiness so heavy it made her feel weightless.
+
+It blocked out sound and thought. It blocked out worry, too.
+
+Finally, for the first time, she wasn't uncomfortable in her skin and hyperaware of her surroundings.
+
+She wasn't annoyed or irritated by all the petty things no one else cared about.
+
+She could just exist.
+
+She still had her eyes closed when hands reached in and pulled her out of the water. She was still holding her breath and longing for the silence even as her brother pumped her chest and screamed for help.
+
+When she woke up, she was happy to be alive.
+
+But she missed the silence of the bog anyway.
+
+Regardless, her brother made her promise she would never go near it again, which was difficult considering how close they lived to it.
+
+She'd kept her promise.
+
+After the spell's effect died, Ari opened his eyes and exhaled. She didn't know when she'd closed her eyes, or when she'd held her breath.
+
+Only that she felt much better now.
+
+She decided to incorporate the spell into her Grimoire.
+
+After she did, she received two notifications.
+
+CONGRATULATIONS! [BOUND MUTE] IS NOW IN YOUR GRIMOIRE. +1 XP
+
+TOTAL SPELLS EXECUTED: [BOUND MUTE] +1XP
+
+CURRENT POINTS ACHIEVED: +2XP
+
+TOTAL POINTS ACHIEVED: +20XP
+
+When she thought it would end there, she received more alerts:
+
+CONGRATULATIONS! YOU HAVE LEVELED UP. LEVEL 50 > LEVEL 51. DISTRIBUTE LEVELLING POINTS NOW.
+
+She gaped. How did she level up? She hadn't even done that many spells yet!
+
+What followed was equally distressing news.
+
+YOU HAVE EXHAUSTED WEEKLY MASSA ESSENCE ALLOWANCE.
+
+EQUALIZE ESSENCE UTILIZATION FOR CORE HARMONY.
+
+ESSENCES REMAINING: CALOR (6%), LUXA (10%), VITAE (17%) VACU (19%).
+
+IF UNABLE TO CONTINUE SPELL WORK WITH AVAILABLE ESSENCES, PLEASE SEEK REFILL FROM ADMINISTRATOR.
