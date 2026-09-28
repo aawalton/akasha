@@ -27,7 +27,7 @@ export function setCatalogOf(rows: readonly SetTemplate[]): SetCatalog {
 const UNREAD =
   "the set catalogue is read from pages, and nothing has read it yet — await `loadSetCatalog()` where the work starts, or gate the screen on `SetCatalogGate`"
 
-export class SetCatalogUnread extends Error {
+class SetCatalogUnread extends Error {
   constructor() {
     super(UNREAD)
     this.name = "SetCatalogUnread"
