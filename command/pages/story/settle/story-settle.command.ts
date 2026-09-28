@@ -19,7 +19,21 @@ export const storySettle = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A roll is seeded by the hash of the roll before it on the story's open turns.",
+      statement:
+        "A roll is seeded by the hash of the line before it, its turn and its place on that turn.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The line before a roll is the last outcome on the latest turn at or before its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The step a turn is at does not change which outcomes a roll is chained from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No two rolls of one story are seeded alike.",
     },
     {
       decisionKind: "decision-kind/departure",

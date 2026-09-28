@@ -177,38 +177,39 @@ export function outcomesAt(turn: string): string | null {
   return besideAt(turn, outcomes.propertySlug, JSONL)
 }
 
-function lastLineAt(root: string, turn: string): string | null {
+type Reading = (path: string) => string | null
+
+function linesAt(read: Reading, turn: string): readonly string[] {
   const at = outcomesAt(turn)
-  if (at === null) return null
-  const path = join(root, at)
-  if (statSync(path, { throwIfNoEntry: false }) === undefined) return null
-  const lines = readFileSync(path, UTF8)
-    .split(BREAK)
-    .filter((one) => one.trim() !== "")
-  return lines.at(-1) ?? null
+  const kept = at === null ? null : read(at)
+  if (kept === null) return []
+  return kept.split(BREAK).filter((one) => one.trim() !== "")
 }
 
-function rollBefore(root: string, turns: readonly Turn[]): string | null {
+function rollBefore(read: Reading, turns: readonly Turn[]): string | null {
   for (const one of turns.toSorted((a, b) => b.position - a.position)) {
-    const line = lastLineAt(root, one.at)
-    if (line !== null) return line
+    const line = linesAt(read, one.at).at(-1)
+    if (line !== undefined) return line
   }
   return null
 }
 
-function seedAfter(before: string | null, turn: string): string {
-  return before === null ? turn : createHash(DIGEST).update(before).digest(HEX)
+function seedAfter(before: string | null, turn: string, place: number): string {
+  if (before === null) return turn
+  return createHash(DIGEST)
+    .update([before, turn, String(place)].join(BREAK))
+    .digest(HEX)
 }
 
 function castFor(
-  root: string,
+  read: Reading,
   turns: readonly Turn[],
   on: Turn,
   dice: string | null
 ): Held<Cast | null> {
   if (dice === null) return { answered: null }
   const before = turns.filter((one) => one.position <= on.position)
-  const seed = seedAfter(rollBefore(root, before), on.slug)
+  const seed = seedAfter(rollBefore(read, before), on.slug, linesAt(read, on.at).length)
   const thrown = thrownFrom(seed, dice)
   if ("refused" in thrown) return thrown
   return { answered: { ...thrown.answered, seed } }
@@ -301,7 +302,7 @@ async function rollMade(
   placed: Placed,
   keptAt: (path: string) => string | null
 ): Promise<{ readonly roll: Roll } | Refusing> {
-  const cast = castFor(root, placed.turns, placed.on, held.dice)
+  const cast = castFor(keptAt, placed.turns, placed.on, held.dice)
   if ("refused" in cast) return { refused: cast.refused, by: INPUT }
   const thrown = cast.answered
   const said = await settledAt(join(root, placed.code), held.reading, thrown?.roll ?? null)

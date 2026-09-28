@@ -175,14 +175,42 @@ test("the first roll on the open turns is seeded by the turn it is settled on", 
   expect(roll.dice?.faces).toEqual(shown.answered.faces)
 })
 
-test("a roll is seeded by the hash of the roll before it on an earlier open turn", async () => {
+test("a roll is seeded by the hash of the line before it, its turn and its place there", async () => {
   const before = '{"check":"world-check/answering","seed":"earlier"}'
   const at = outcomesAt(FIRST.at)
   if (at === null) throw new Error("a turn page has outcomes beside it")
   writeFileSync(join(ROOT, at), `${before}\n`)
   const roll = rollIn((await settledBy("answering", reachOver([FIRST, LATEST])))[0] as Appended)
-  expect(roll.seed).toBe(createHash("sha256").update(before).digest("hex"))
+  const hashed = createHash("sha256").update(`${before}\n${LATEST.slug}\n0`)
+  expect(roll.seed).toBe(hashed.digest("hex"))
   rmSync(join(ROOT, at))
+})
+
+const THIRD: Turn = {
+  at: "turns/the-saga-00-003.story-turn-played.ts",
+  slug: "the-saga-00-003",
+  position: 3,
+}
+
+const GROWN = '{"check":"world-check/growth","reading":{"level":1},"answered":{"level":1}}'
+
+function onTurn(turn: Turn): readonly string[] {
+  return [...argvFor("answering"), "--turn", turn.slug]
+}
+
+test("rolls after closed turns ending in the same line are seeded apart", async () => {
+  const first = outcomesAt(FIRST.at)
+  const latest = outcomesAt(LATEST.at)
+  if (first === null || latest === null) throw new Error("a turn page has outcomes beside it")
+  const turns = reachOver([FIRST, LATEST, THIRD])
+  writeFileSync(join(ROOT, first), `${GROWN}\n`)
+  const earlier = (await settledBy("answering", turns, onTurn(LATEST)))[0] as Appended
+  writeFileSync(join(ROOT, latest), `${earlier.content}${GROWN}\n`)
+  const later = rollIn((await settledBy("answering", turns, onTurn(THIRD)))[0] as Appended)
+  rmSync(join(ROOT, first))
+  rmSync(join(ROOT, latest))
+  expect(later.seed).toBeDefined()
+  expect(later.seed).not.toBe(rollIn(earlier).seed)
 })
 
 test("a check answering endsAt states that instant on the turn it settles on", async () => {
