@@ -84,6 +84,34 @@ export const otherwhereViHollowStream = {
       fact: "An owl calls along the stream at night, and the pines creak high overhead in the wind.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
+    {
+      fact: "The rim trail runs a few hundred paces west of the ravine, out of sight of the water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The fall's roar carries along the rim trail, so the water can be followed by ear.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The rim trail forks at a split boulder: the left fork drops down a gully to the stream.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The right fork climbs on west, away from the water, toward the Sallow Mire.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The gully is steep and stony, but dry; it meets the stream below the fall in a quarter hour.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A doe and her yearling bed down tonight on the rim trail, and bolt crashing if come upon.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The two young wolves are working toward the rim trail from the west, following the deer.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   exits: [
     {
