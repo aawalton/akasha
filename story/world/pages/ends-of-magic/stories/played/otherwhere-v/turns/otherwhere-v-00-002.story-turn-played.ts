@@ -56,5 +56,9 @@ export const otherwhereV00002 = {
     "Dusk is coming on in a forest full of unseen callers.",
     "She is barefoot, with nothing in her hands, and the brook runs away downhill from the spring.",
   ],
+  issues: [
+    '"Around it the dusk is coming on, and the forest is full of callers you cannot see." - Leave It Open',
+  ],
   lore: ["lore/otherwhere-v-nala", "place/otherwhere-v-fern-hollow", "lore/otherwhere-v-gloamcat"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
