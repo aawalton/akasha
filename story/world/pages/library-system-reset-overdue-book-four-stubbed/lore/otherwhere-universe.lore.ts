@@ -288,10 +288,7 @@ export const otherwhereUniverse = {
         "character-other/otherwhere-links",
       ],
     },
-    {
-      fact: "The Library has two shelving golems, each reshelving some twenty books a day.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "Links knows a lost book the moment a linked Librarian lays a hand on it.",
       knowers: [
@@ -324,30 +321,7 @@ export const otherwhereUniverse = {
         "character-other/otherwhere-links",
       ],
     },
-    {
-      fact: "The Library's golems are stirring now, grinding deep inside, shelvers among them.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
-    {
-      fact: "A woken golem takes up work only at a Librarian's spoken command.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
-    {
-      fact: "The shelving golems come fully awake and up to the main hall by the next morning.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
+
     {
       fact: "Since her third sync, Nala's interface shows the Library's tasks.",
       knowers: [
