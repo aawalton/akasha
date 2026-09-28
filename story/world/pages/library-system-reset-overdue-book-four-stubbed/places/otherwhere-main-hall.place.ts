@@ -69,7 +69,11 @@ export const otherwhereMainHall = {
     },
     {
       fact: "Before then, Links can heat one tubful of water for 1 power.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "The quarters have a deep stone tub but no shower.",
