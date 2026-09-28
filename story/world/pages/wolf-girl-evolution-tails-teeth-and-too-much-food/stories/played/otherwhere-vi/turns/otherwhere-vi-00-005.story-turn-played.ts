@@ -10,7 +10,7 @@ export const otherwhereVi00005 = {
   position: 5,
   prose: "txt",
   characters: ["character-player/otherwhere-vi-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I keep moving, but watch for a sturdy branch I can turn into a walking stick and defensive staff, to make myself less of an easy target. Until I find one, I pick up a fist sized rock from the riverbank.",
   beats: [
@@ -40,6 +40,6 @@ export const otherwhereVi00005 = {
     "Behind her the wolf stops, looks past her toward the mud, then turns and trots back upstream.",
   ],
   lore: ["place/otherwhere-vi-hollow-stream"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T22:05:00.000Z",
 } as const satisfies StoryTurnPlayed
