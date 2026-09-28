@@ -1,4 +1,5 @@
 import { readFile, writeFile } from "node:fs/promises"
+import { extname } from "node:path"
 import { sha256Hex } from "akasha/code/body/modules/sha256-hex/sha256-hex.module.code.ts"
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import {
@@ -23,6 +24,10 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { filing, filledIn } from "akasha/command/modules/filling/command-filling.module.code.ts"
 import { inferenceEdit as page } from "akasha/command/pages/inference/edit/inference-edit.command.ts"
+import {
+  fetchImage,
+  runComfyGraph,
+} from "akasha/infrastructure/inference/client/modules/comfy-client/comfy-client.module.code.ts"
 import type { GeminiImageConfig } from "akasha/infrastructure/inference/client/modules/gemini-image-client/gemini-image-client.module.code.ts"
 import {
   imageFormatForPath,
@@ -33,7 +38,12 @@ import {
   ensureOutputDir,
   resolveOutputPath,
 } from "akasha/infrastructure/inference/client/modules/inference-output-path/inference-output-path.module.code.ts"
+import { drawSeed } from "akasha/infrastructure/inference/client/modules/inference-seed/inference-seed.module.code.ts"
 import { wroteTo } from "akasha/infrastructure/inference/command/modules/inference-answering/inference-answering.module.code.ts"
+import {
+  buildEditGraph,
+  EDIT_MODEL,
+} from "akasha/infrastructure/inference/generation/zimage/modules/edit-graph/zimage-edit-graph.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/infrastructure/inference/run/modules/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/infrastructure/inference/run/modules/store/inference-run-store.module.code.ts"
 
@@ -54,11 +64,21 @@ type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
 
 const PROMPT = filing(renderPrompt.said)
 
-const ENGINES = ["nano-banana"]
+const QWEN = "qwen"
+
+const ENGINES = [QWEN, "nano-banana"]
 
 const MODEL = "gemini-3-pro-image"
 
 const HOST = "google"
+
+const QWEN_HOST = "workstation"
+
+const QWEN_PORT = "8678"
+
+const SECOND_MS = 1000
+
+const UPLOAD_DIGEST = 16
 
 const KEY = "GEMINI_API_KEY"
 
@@ -95,12 +115,48 @@ function noneOf(
   return [`\`${said}\` takes one of ${every.join(", ")}, and \`${held}\` is none of them`]
 }
 
+function qwenTakesNone(taken: Taken): readonly string[] {
+  if (taken.engine !== QWEN) return []
+  const said: string[] = []
+  if (taken.aspectRatio !== undefined) said.push(aspectRatioArgument.said)
+  if (taken.size !== undefined) said.push(sizeArgument.said)
+  if (taken.image.length > 1 || refsIn(taken.refs).length > 0) {
+    said.push(`${refs.said} or a second ${imageArgument.said}`)
+  }
+  return said.map((one) => `the ${QWEN} engine takes no \`${one}\``)
+}
+
 function wrongIn(taken: Taken): readonly string[] {
   return [
     ...noneOf(aspectRatioArgument.said, taken.aspectRatio, RATIOS),
     ...noneOf(sizeArgument.said, taken.size, SIZES),
     ...noneOf(engineArgument.said, taken.engine, ENGINES),
+    ...qwenTakesNone(taken),
   ]
+}
+
+async function qwenEdit(
+  bytes: Uint8Array,
+  subject: string,
+  prompt: string,
+  timeoutSec: number,
+  done: string[]
+): Promise<Uint8Array> {
+  const baseUrl = `http://127.0.0.1:${optionalEnv("ZIMAGE_PORT") ?? QWEN_PORT}`
+  const seed = drawSeed()
+  const name = `edit-${sha256Hex(bytes).slice(0, UPLOAD_DIGEST)}${extname(subject) || ".png"}`
+  const run = await runComfyGraph({
+    baseUrl,
+    upload: { bytes, name },
+    buildGraph: (stored) => buildEditGraph(stored ?? name, prompt, seed),
+    pollDeadlineMs: timeoutSec * SECOND_MS,
+    onProgress: (one: string) => {
+      done.push(one)
+      return undefined
+    },
+  })
+  done.push(`the edit is drawn at seed ${seed}`)
+  return await fetchImage(baseUrl, run.image)
 }
 
 export async function inferenceEdit(argv: readonly string[], given: Given): Promise<Answer> {
@@ -114,8 +170,9 @@ export async function inferenceEdit(argv: readonly string[], given: Given): Prom
   const asked = filledIn(given.root, taken.renderPrompt, taken.promptFile, PROMPT)
   if ("refused" in asked) return refusedBy(asked.refused)
 
+  const local = taken.engine === QWEN
   const key = optionalEnv(KEY)
-  if (key === undefined) {
+  if (!local && key === undefined) {
     return refusedBy([`nothing holds \`${KEY}\`, so the engine cannot be reached`])
   }
 
@@ -151,10 +208,10 @@ export async function inferenceEdit(argv: readonly string[], given: Given): Prom
     const outputPath = resolveOutputPath("edit", taken.output, nowMs)
     const hasRefs = references.length > 0
     const record = buildInferenceRunRecord({
-      service: "image-edit-nano-banana",
+      service: local ? "image-edit-qwen" : "image-edit-nano-banana",
       operation: "edit",
-      model: MODEL,
-      host: HOST,
+      model: local ? EDIT_MODEL : MODEL,
+      host: local ? QWEN_HOST : HOST,
       commandLine: given.calledWhole ?? given.calledAs,
       startedAt: new Date(nowMs).toISOString(),
       prompt,
@@ -169,15 +226,18 @@ export async function inferenceEdit(argv: readonly string[], given: Given): Prom
     await recordInferenceRun(
       record,
       async () => {
-        const raw = await runGeminiEdit({
-          apiKey: key,
-          model: MODEL,
-          imagePath: subject,
-          prompt,
-          timeoutSec: timeout,
-          ...(hasRefs ? { referenceImagePaths: references } : {}),
-          ...(imageConfig === undefined ? {} : { imageConfig }),
-        })
+        const raw =
+          local || key === undefined
+            ? await qwenEdit(subjectBytes, subject, prompt, timeout, done)
+            : await runGeminiEdit({
+                apiKey: key,
+                model: MODEL,
+                imagePath: subject,
+                prompt,
+                timeoutSec: timeout,
+                ...(hasRefs ? { referenceImagePaths: references } : {}),
+                ...(imageConfig === undefined ? {} : { imageConfig }),
+              })
         const image = await transcodeImage(raw, imageFormatForPath(outputPath))
         await ensureOutputDir(outputPath)
         await writeFile(outputPath, image)

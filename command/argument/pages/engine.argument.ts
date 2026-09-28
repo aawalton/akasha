@@ -8,5 +8,5 @@ export const engine = {
   takes: "the engine the edit goes through",
   value: "text",
   placeholder: "name",
-  default: "nano-banana",
+  default: "qwen",
 } as const satisfies Argument

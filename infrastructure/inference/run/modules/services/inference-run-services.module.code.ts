@@ -3,6 +3,7 @@ import { z } from "zod"
 export const INFERENCE_SERVICES = [
   "image-gen",
   "image-edit-nano-banana",
+  "image-edit-qwen",
   "seedvr2-upscale",
   "qwen3-tts",
   "voxcpm2",
@@ -59,6 +60,12 @@ type ServiceVersions = z.infer<typeof ServiceVersionsSchema>
 export const SERVICE_VERSIONS: Record<InferenceService, ServiceVersions> = {
   "image-gen": { mlxOpenaiServer: "1.8.1", mlx: "0.31.0", mlxMetal: "0.31.0", quantize: 8 },
   "image-edit-nano-banana": {},
+  "image-edit-qwen": {
+    torch: "2.9.1",
+    torchVision: "0.24.1",
+    torchAudio: "2.9.1",
+    comfyui: "28a40fb2b2b30a6fcd45ff824cc6f1093e26ee90",
+  },
   "seedvr2-upscale": {
     torch: "2.9.1",
     torchVision: "0.24.1",

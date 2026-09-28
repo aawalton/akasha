@@ -18,7 +18,16 @@ export const inferenceEdit = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The engine is reached with the key `GEMINI_API_KEY` holds.",
+      statement:
+        "The `qwen` engine edits on the workstation's Z-Image ComfyUI unless another is named.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The `qwen` engine takes no reference, ratio or size.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The `nano-banana` engine is reached with the key `GEMINI_API_KEY` holds.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -38,7 +47,7 @@ export const inferenceEdit = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "No key set refuses the call rather than reaching the engine.",
+      statement: "No key set refuses a `nano-banana` call rather than reaching the engine.",
     },
   ],
   name: "edit",

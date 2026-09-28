@@ -63,6 +63,49 @@ test("an engine this does not go through is refused", async () => {
   expect(said.refusals[0]).toContain("`other` is none of them")
 })
 
+test("the qwen engine refuses a reference, a ratio and a size", async () => {
+  const said = await inferenceEdit(
+    [
+      "--image",
+      "a.png",
+      "--image",
+      "b.png",
+      "--prompt",
+      "x",
+      "--size",
+      "2K",
+      "--aspect-ratio",
+      "1:1",
+    ],
+    GIVEN
+  )
+  expect(said.code).toBe(1)
+  expect(said.refusals).toEqual([
+    "the qwen engine takes no `--aspect-ratio`",
+    "the qwen engine takes no `--size`",
+    "the qwen engine takes no `--refs or a second --image`",
+  ])
+})
+
+test("the nano-banana engine takes a reference, a ratio and a size", async () => {
+  const said = await inferenceEdit(
+    [
+      "--engine",
+      "nano-banana",
+      "--image",
+      "a.png",
+      "--image",
+      "b.png",
+      "--prompt",
+      "x",
+      "--size",
+      "2K",
+    ],
+    GIVEN
+  )
+  expect(said.refusals.join(" ")).not.toContain("takes no")
+})
+
 test("a flag this takes none of is refused, and the flags it takes are named", async () => {
   const said = await inferenceEdit(["--nonsense"], GIVEN)
   expect(said.code).toBe(1)
