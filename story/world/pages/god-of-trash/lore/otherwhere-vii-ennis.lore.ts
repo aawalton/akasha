@@ -136,6 +136,22 @@ export const otherwhereViiEnnis = {
       fact: "Ennis heads back to Bramwick at mid-afternoon, to be inside the gate before dusk.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ennis's sacks hold a patched wool smock and a rope belt he'd throw in to close a shirt deal.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ennis would add bread and cheese to the shirt price if pushed, sooner than more coin.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ennis would carry her back to Bramwick for a second sack sorted clean at Ashford.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ennis gives his name only when asked, and asks hers back.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
