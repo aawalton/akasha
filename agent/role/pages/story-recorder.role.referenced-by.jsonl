@@ -4,6 +4,5 @@
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
-{"propertySlug":"role","path":"agent/seat/pages/mari-story-recorder-the-dating-game-flex-1/mari-story-recorder-the-dating-game-flex-1.seat.ts","id":"01a0e59d-63f0-7000-9c4e-2851782d319f"}
 {"propertySlug":"role","path":"agent/seat/pages/mari-story-recorder-the-dating-game-flex-2/mari-story-recorder-the-dating-game-flex-2.seat.ts","id":"01a0e59d-7179-7000-9985-2c6ec804910e"}
 {"propertySlug":"role","path":"agent/seat/pages/mari-story-recorder-the-dating-game-flex-3/mari-story-recorder-the-dating-game-flex-3.seat.ts","id":"01a0e59d-7eec-7000-929d-1a3b1c9202b9"}
