@@ -7,7 +7,8 @@ export const otherwhereIii00002 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
   position: 2,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Anesidora?” I say softly to myself. “I know that name. Earth Contract, are you listening? I think you’ll want to pay attention to me. I wasn’t in your world a moment ago.”",
+  lore: ["lore/otherwhere-iii-the-system"],
 } as const satisfies StoryTurnPlayed
