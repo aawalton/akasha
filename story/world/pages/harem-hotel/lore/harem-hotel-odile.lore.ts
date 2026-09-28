@@ -46,7 +46,7 @@ export const haremHotelOdile = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Odile kept the lobby alone for longer than she can remember, and Alan is the first guest she has ever checked in.",
+      fact: "Odile kept the lobby alone longer than she can remember; Alan is the first guest she has checked in.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
