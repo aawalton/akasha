@@ -5,7 +5,7 @@ export const otherwhereLinks = {
   type: "page-type/otherwhere-power",
   slug: "otherwhere-links",
   character: "character-other/otherwhere-links",
-  value: 43,
+  value: 42,
   minValue: 0,
   maxValue: 100,
   history: "jsonl",

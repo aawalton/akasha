@@ -267,6 +267,14 @@ export const otherwhereMainHall = {
       fact: "The wardrobe's felt slippers are soft on Nala, and a little big.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
+    {
+      fact: "Links heated Nala's filled tub for a point of the Library's power.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
