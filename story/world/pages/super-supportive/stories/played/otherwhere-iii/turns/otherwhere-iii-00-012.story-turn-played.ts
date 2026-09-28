@@ -27,5 +27,6 @@ export const otherwhereIii00012 = {
     "The clerk stands, tucks the tablet under her arm and walks back toward the desk.",
   ],
   lore: ["place/otherwhere-iii-uptown-memorial-er", "place/super-supportive-artonan-consulate-4"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2037-01-31T07:09:00.000Z",
 } as const satisfies StoryTurnPlayed
