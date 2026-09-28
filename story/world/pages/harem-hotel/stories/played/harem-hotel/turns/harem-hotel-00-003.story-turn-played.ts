@@ -7,7 +7,7 @@ export const haremHotel00003 = {
   unit: "unit/words",
   partOfCollections: ["story-played/harem-hotel"],
   position: 3,
-  turnStatus: "turn-status/world-builder",
+  turnStatus: "turn-status/game-master",
   action:
     '"Why waste time? Come over here and I\'ll work on both of you together." I step towards Odile and pull her into a passionate kiss, then turn to Wren as she approaches and kiss her just as deeply.',
 } as const satisfies StoryTurnPlayed
