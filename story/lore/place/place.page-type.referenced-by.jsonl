@@ -12,14 +12,17 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-ardglass.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-ascendant-academy.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-ashen-accord-campus.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-ashen-accord-estate.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-azamar.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-blight-city.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-blight-colosseum.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-blighted-continent.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-blinded-mountain-temple.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-blinded-mountain.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-broken-continent.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-cave-of-the-seers.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-chokiz-estate.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-crater-of-fallen-gods.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-driftmere.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-drozahn.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-elothia.place.ts","typed":true,"deferred":false}
@@ -36,6 +39,7 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-gemore.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-giantsrest-continent.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-giantsrest.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-godsfall.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-halsmet.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-helmaris.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-itonia.place.ts","typed":true,"deferred":false}
