@@ -1,6 +1,7 @@
 {"propertySlug":"extends-type","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/utility-skills/otherwhere-v-utility-skill.page-type.ts","id":"01a0ea01-5719-755d-94fd-72e8bfea55a6"}
 {"propertySlug":"extends-type","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/techniques/otherwhere-vii-technique.page-type.ts","id":"01a0ea42-574f-7ae4-a171-8beea7d4ce9a"}
 {"propertySlug":"extends-type","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/skills/otherwhere-i-skill.page-type.ts","id":"01a0e7f8-cd1e-7c5f-99ea-3fcf5cc7205a"}
+{"propertySlug":"extends-type","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/stories/played/otherwhere-ix/mechanics/system-skills/otherwhere-ix-skill.page-type.ts","id":"01a0ea43-35ef-7576-9797-2bb3dece222a"}
 {"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/tower-skill.page-type.ts","id":"01a0de18-0b70-753b-98c7-6ffd7532c175"}
 {"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"command/modules/mechanic-defining/mechanic-defining.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.test.ts","typed":false,"deferred":false}
@@ -19,6 +20,7 @@
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere-ii/mechanics/skills/otherwhere-ii-mend.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/mechanics/skills/otherwhere-i-shelf-sight.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/skills/otherwhere-i-skill.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/stories/played/otherwhere-ix/mechanics/system-skills/otherwhere-ix-skill.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/personas/mechanics/skills/the-tower-chain-whip.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/personas/mechanics/skills/the-tower-ember-burst.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/personas/mechanics/skills/the-tower-ember-channel.world-skill.ts","typed":true,"deferred":false}

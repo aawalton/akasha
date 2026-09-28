@@ -143,6 +143,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-poison-effect","unique":null,"uniquePropertySlug":null,"slug":"opposite","propertySlug":"opposite","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"origin-kind","unique":null,"uniquePropertySlug":null,"slug":"origin","propertySlug":"origin","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-buff-other","unique":null,"uniquePropertySlug":null,"slug":"other-buff","propertySlug":"other-buff","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"otherwhere-ix-skill-character","propertySlug":"character","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"otherwhere-i-room","unique":null,"uniquePropertySlug":null,"slug":"otherwhere-the-library-room-exit-to","propertySlug":"to","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"place","unique":null,"uniquePropertySlug":null,"slug":"otherwhere-the-library-room-place","propertySlug":"place","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"otherwhere-the-library-skill-character","propertySlug":"character","fileName":null,"folderName":null}
