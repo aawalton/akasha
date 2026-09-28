@@ -4,13 +4,14 @@ export const otherwhere00002 = {
   id: "01a0e988-3891-7a73-840e-807fe03e944c",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-002",
+  cover: "image/image-2a38b74c97352627",
   ownLength: 819,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I start walking towards the mountain, taking care to move quietly and observe carefully, especially for any signs of danger.",
   beats: [
@@ -57,6 +58,6 @@ export const otherwhere00002 = {
     "lore/otherwhere-cinder-isle-plants",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T11:15:00.000Z",
 } as const satisfies StoryTurnPlayed

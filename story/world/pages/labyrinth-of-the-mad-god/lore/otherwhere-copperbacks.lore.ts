@@ -9,7 +9,7 @@ export const otherwhereCopperbacks = {
   facts: [
     {
       fact: "Copperbacks are long-armed tree apes the size of a big dog, brown with copper-banded tails.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
     },
     {
       fact: "Copperbacks live in a troop of some forty, led by an old grey-muzzled female.",

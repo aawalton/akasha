@@ -9,7 +9,7 @@ export const otherwhereCinderIslePlants = {
   facts: [
     {
       fact: "Fanpalms line the shores: palm-like trees whose broad fronds grow downward in a skirt.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
     },
     {
       fact: "A fanpalm nut is a hard green husk the size of a head, holding a cup of sweet water.",
