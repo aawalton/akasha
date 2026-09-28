@@ -215,6 +215,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "A no-match patient is marked self-pay and flagged for the social worker; none is turned away.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The clerk knows the consulate as the Desk Demon place downtown, straight south on the Red Line.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
