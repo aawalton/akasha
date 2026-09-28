@@ -4,6 +4,7 @@ export const bewareOfChicken0336V7c83HeavenBeforeHell = {
   id: "01a06731-adec-7008-958b-d9f6b6377516",
   type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0336-v7c83-heaven-before-hell",
+  ownProgress: 3723,
   title: "v7c83: Heaven Before Hell",
   story: "story-read/beware-of-chicken",
   position: 336,

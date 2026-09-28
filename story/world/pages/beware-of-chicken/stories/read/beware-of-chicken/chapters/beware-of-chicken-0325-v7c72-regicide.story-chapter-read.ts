@@ -4,6 +4,7 @@ export const bewareOfChicken0325V7c72Regicide = {
   id: "01a06731-adea-7001-bb33-d2d68b20f003",
   type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0325-v7c72-regicide",
+  ownProgress: 2185,
   title: "v7c72: Regicide",
   story: "story-read/beware-of-chicken",
   position: 325,

@@ -4,6 +4,7 @@ export const bewareOfChicken0324V7c71Pressure = {
   id: "01a06731-adea-7000-85de-ad6ff92b5b66",
   type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0324-v7c71-pressure",
+  ownProgress: 1856,
   title: "v7c71: Pressure",
   story: "story-read/beware-of-chicken",
   position: 324,

@@ -4,6 +4,7 @@ export const bunnyGirlEvolution0028216EliseHasAGoodIdea = {
   id: "01a06743-b392-7000-9b10-596f1553daa2",
   type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0028-216-elise-has-a-good-idea",
+  ownProgress: 2284,
   title: "216 - Elise Has a Good Idea",
   story: "story-read/bunny-girl-evolution",
   position: 28,

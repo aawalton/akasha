@@ -4,6 +4,7 @@ export const bunnyGirlEvolution0046179InTheDungeonSDepths = {
   id: "01a06731-ae51-7000-9e92-85f2d9780ae8",
   type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0046-179-in-the-dungeon-s-depths",
+  ownProgress: 3754,
   title: "179 - In the Dungeon's Depths",
   story: "story-read/bunny-girl-evolution",
   position: 46,

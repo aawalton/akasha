@@ -4,6 +4,7 @@ export const bunnyGirlEvolution0034222TourGuideElisesCavernTour = {
   id: "01a07fd8-7b74-79fa-b7ce-5857436a6ab4",
   type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0034-222-tour-guide-elises-cavern-tour",
+  ownProgress: 2524,
   story: "story-read/bunny-girl-evolution",
   position: 34,
   publishedAt: "2026-09-08",

@@ -4,6 +4,7 @@ export const bunnyGirlEvolution0035223TheProdigalBunnyPrincessReturns = {
   id: "01a094a6-4ea2-7052-91cd-4ae70e9d7fa1",
   type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0035-223-the-prodigal-bunny-princess-returns",
+  ownProgress: 3007,
   position: 35,
   publishedAt: "2026-09-12",
   unit: "unit/words",

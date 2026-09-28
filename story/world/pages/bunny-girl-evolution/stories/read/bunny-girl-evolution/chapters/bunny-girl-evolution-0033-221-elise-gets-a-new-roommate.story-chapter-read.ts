@@ -4,6 +4,7 @@ export const bunnyGirlEvolution0033221EliseGetsANewRoommate = {
   id: "01a07252-32ea-73e2-b491-e146386430dd",
   type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0033-221-elise-gets-a-new-roommate",
+  ownProgress: 3256,
   story: "story-read/bunny-girl-evolution",
   position: 33,
   publishedAt: "2026-09-05",

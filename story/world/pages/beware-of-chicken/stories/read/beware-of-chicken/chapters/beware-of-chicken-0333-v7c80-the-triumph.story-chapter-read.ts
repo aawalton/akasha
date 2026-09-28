@@ -4,6 +4,7 @@ export const bewareOfChicken0333V7c80TheTriumph = {
   id: "01a06731-adec-7005-9365-252aabeeabb0",
   type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0333-v7c80-the-triumph",
+  ownProgress: 2570,
   title: "v7c80: The Triumph",
   story: "story-read/beware-of-chicken",
   position: 333,

@@ -4,6 +4,7 @@ export const bunnyGirlEvolution0056188AVeryCloseDuel = {
   id: "01a06731-ae5a-7000-8f2e-0b4a29580c75",
   type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0056-188-a-very-close-duel",
+  ownProgress: 3151,
   title: "188 - A Very Close Duel",
   story: "story-read/bunny-girl-evolution",
   position: 56,

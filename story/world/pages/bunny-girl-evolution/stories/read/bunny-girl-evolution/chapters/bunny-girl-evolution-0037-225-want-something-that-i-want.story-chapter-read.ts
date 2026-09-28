@@ -4,6 +4,7 @@ export const bunnyGirlEvolution0037225WantSomethingThatIWant = {
   id: "01a0b80f-b0de-7bbd-8f9e-2ee44d276e0b",
   type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0037-225-want-something-that-i-want",
+  ownProgress: 3727,
   position: 37,
   publishedAt: "2026-09-19",
   unit: "unit/words",

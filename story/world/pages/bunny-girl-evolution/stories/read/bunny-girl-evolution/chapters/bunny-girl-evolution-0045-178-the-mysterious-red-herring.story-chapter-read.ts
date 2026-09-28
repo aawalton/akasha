@@ -4,6 +4,7 @@ export const bunnyGirlEvolution0045178TheMysteriousRedHerring = {
   id: "01a06731-ae50-7001-b064-3c594372d4b8",
   type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0045-178-the-mysterious-red-herring",
+  ownProgress: 3538,
   title: "178 - The Mysterious Red Herring",
   story: "story-read/bunny-girl-evolution",
   position: 45,

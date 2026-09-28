@@ -4,6 +4,7 @@ export const bewareOfChicken0327V7c74DustAndRebirth = {
   id: "01a06731-adea-7003-88ed-683c5b51a748",
   type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0327-v7c74-dust-and-rebirth",
+  ownProgress: 2733,
   title: "v7c74: Dust and Rebirth",
   story: "story-read/beware-of-chicken",
   position: 327,

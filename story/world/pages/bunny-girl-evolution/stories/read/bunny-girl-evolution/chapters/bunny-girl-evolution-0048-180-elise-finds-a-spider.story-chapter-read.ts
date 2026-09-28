@@ -4,6 +4,7 @@ export const bunnyGirlEvolution0048180EliseFindsASpider = {
   id: "01a06731-ae52-7001-8a5c-ec1c804136eb",
   type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0048-180-elise-finds-a-spider",
+  ownProgress: 4401,
   title: "180 - Elise Finds a Spider",
   story: "story-read/bunny-girl-evolution",
   position: 48,

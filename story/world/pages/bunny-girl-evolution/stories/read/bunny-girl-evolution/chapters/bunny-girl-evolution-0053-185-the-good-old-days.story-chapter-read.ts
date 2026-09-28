@@ -4,6 +4,7 @@ export const bunnyGirlEvolution0053185TheGoodOldDays = {
   id: "01a06731-ae57-7000-ab75-31827ba3b1d0",
   type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0053-185-the-good-old-days",
+  ownProgress: 3095,
   title: "185 - The Good Old Days",
   story: "story-read/bunny-girl-evolution",
   position: 53,

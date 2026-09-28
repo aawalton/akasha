@@ -4,6 +4,7 @@ export const bunnyGirlEvolution0047NotAChapterTemporaryScheduleShift = {
   id: "01a06731-ae52-7000-b2be-02ba5263c03b",
   type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0047-not-a-chapter-temporary-schedule-shift",
+  ownProgress: 462,
   title: "NOT A CHAPTER - Temporary schedule shift",
   story: "story-read/bunny-girl-evolution",
   position: 47,

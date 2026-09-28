@@ -4,6 +4,7 @@ export const bewareOfChicken0331V7v78QueenBee = {
   id: "01a06731-adec-7003-8eef-c36736efa00a",
   type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0331-v7v78-queen-bee",
+  ownProgress: 2153,
   title: "v7v78: Queen Bee",
   story: "story-read/beware-of-chicken",
   position: 331,

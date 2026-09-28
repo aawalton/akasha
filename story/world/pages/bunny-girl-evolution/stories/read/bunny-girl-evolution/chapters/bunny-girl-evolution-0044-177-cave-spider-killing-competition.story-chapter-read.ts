@@ -8,7 +8,7 @@ export const bunnyGirlEvolution0044177CaveSpiderKillingCompetition = {
   story: "story-read/bunny-girl-evolution",
   position: 44,
   ownLength: 3244,
-  ownProgress: 419,
+  ownProgress: 3244,
   unit: "unit/words",
   publishedAt: "2026-03-03",
   externalIdentity: [
