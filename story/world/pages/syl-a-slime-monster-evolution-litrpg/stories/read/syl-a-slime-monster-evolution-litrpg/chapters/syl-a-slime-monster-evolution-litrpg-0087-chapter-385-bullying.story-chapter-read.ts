@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0087Chapter385Bullying = {
   id: "01a06730-4e21-73d4-9326-1a9081d612df",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0087-chapter-385-bullying",
+  ownProgress: 2540,
   title: "Chapter 385 : Bullying",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 87,

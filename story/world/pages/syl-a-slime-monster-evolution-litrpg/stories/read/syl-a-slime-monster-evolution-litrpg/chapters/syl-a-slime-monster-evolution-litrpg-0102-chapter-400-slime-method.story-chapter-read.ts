@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0102Chapter400SlimeMethod = {
   id: "01a06730-4e22-79fd-aff8-60a05d83b58c",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0102-chapter-400-slime-method",
+  ownProgress: 2492,
   title: "Chapter 400 : Slime Method",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 102,

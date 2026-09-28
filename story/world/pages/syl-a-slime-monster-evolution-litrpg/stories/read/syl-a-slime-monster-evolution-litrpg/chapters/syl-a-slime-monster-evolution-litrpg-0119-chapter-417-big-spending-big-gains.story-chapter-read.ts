@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0119Chapter417BigSpendingBigGains = 
   id: "01a06730-4e29-7b97-8c8b-62fc99c99d95",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0119-chapter-417-big-spending-big-gains",
+  ownProgress: 2416,
   title: "Chapter 417 : Big Spending, Big Gains",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 119,

@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0086Chapter384TheArtOfBruteForce = {
   id: "01a06730-4e21-786f-badb-73d0ed5d2028",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0086-chapter-384-the-art-of-brute-force",
+  ownProgress: 2522,
   title: "Chapter 384 : The Art of Brute Force",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 86,

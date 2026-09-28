@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0059Chapter431Brainstorming = {
   id: "01a0cd15-3486-7c25-ac03-f429151e6242",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0059-chapter-431-brainstorming",
+  ownProgress: 2768,
   position: 59,
   publishedAt: "2026-09-23",
   unit: "unit/words",

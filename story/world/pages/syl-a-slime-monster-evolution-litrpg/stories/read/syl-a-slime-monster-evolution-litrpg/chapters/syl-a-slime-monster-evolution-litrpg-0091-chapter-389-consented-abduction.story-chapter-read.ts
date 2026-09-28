@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0091Chapter389ConsentedAbduction = {
   id: "01a06730-4e21-7799-8805-5cf4bb497292",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0091-chapter-389-consented-abduction",
+  ownProgress: 2216,
   title: "Chapter 389 : Consented Abduction",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 91,

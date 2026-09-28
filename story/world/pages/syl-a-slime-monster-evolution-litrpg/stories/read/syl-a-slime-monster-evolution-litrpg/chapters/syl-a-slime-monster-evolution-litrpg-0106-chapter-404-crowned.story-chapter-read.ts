@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0106Chapter404Crowned = {
   id: "01a06730-4e22-7911-a799-594545dacab1",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0106-chapter-404-crowned",
+  ownProgress: 2232,
   title: "Chapter 404 : Crowned",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 106,

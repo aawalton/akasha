@@ -18,6 +18,6 @@ export const systemChangeSystemUniverse0055Chapter633FavoritePastime = {
     },
   ],
   publishedAt: "2026-03-04",
-  ownProgress: 375,
+  ownProgress: 2148,
   prose: "txt",
 } as const satisfies StoryChapterRead

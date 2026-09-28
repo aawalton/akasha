@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0118Chapter416HatTrick = {
   id: "01a06730-4e29-76d4-80cc-d07ba90d2d6b",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0118-chapter-416-hat-trick",
+  ownProgress: 2225,
   title: "Chapter 416 : Hat Trick",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 118,

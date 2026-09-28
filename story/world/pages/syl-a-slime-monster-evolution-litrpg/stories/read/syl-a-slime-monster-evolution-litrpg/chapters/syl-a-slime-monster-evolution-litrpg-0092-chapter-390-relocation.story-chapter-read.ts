@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0092Chapter390Relocation = {
   id: "01a06730-4e21-7f25-9f62-631a69aca1e3",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0092-chapter-390-relocation",
+  ownProgress: 2317,
   title: "Chapter 390 : Relocation",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 92,

@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0101Chapter399EnchantingOffer = {
   id: "01a06730-4e22-7f1e-8725-536089ee01b8",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0101-chapter-399-enchanting-offer",
+  ownProgress: 2391,
   title: "Chapter 399 : Enchanting Offer",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 101,

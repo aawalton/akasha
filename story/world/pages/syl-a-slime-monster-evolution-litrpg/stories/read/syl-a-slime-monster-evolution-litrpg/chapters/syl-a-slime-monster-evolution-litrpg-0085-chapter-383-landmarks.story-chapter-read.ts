@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0085Chapter383Landmarks = {
   id: "01a06730-4e21-7026-a4a1-c61d20736065",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0085-chapter-383-landmarks",
+  ownProgress: 2357,
   title: "Chapter 383 : Landmarks",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 85,

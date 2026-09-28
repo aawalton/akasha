@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0110Chapter408TaintedDepths = {
   id: "01a06730-4e24-7713-9dc9-cf7470d4b610",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0110-chapter-408-tainted-depths",
+  ownProgress: 2335,
   title: "Chapter 408 : Tainted Depths",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 110,

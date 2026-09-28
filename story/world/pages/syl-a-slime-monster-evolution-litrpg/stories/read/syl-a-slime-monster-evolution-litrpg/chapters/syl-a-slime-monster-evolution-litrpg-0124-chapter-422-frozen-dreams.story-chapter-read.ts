@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0124Chapter422FrozenDreams = {
   id: "01a06730-4e2a-72c2-a4ab-07a2abe1a027",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0124-chapter-422-frozen-dreams",
+  ownProgress: 2299,
   title: "Chapter 422 : Frozen Dreams",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 124,

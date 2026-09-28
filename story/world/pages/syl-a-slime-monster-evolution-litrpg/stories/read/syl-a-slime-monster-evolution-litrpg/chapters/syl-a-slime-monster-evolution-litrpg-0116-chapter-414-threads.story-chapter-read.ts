@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0116Chapter414Threads = {
   id: "01a06730-4e29-7102-a818-0aa3059cafd0",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0116-chapter-414-threads",
+  ownProgress: 2176,
   title: "Chapter 414 : Threads",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 116,

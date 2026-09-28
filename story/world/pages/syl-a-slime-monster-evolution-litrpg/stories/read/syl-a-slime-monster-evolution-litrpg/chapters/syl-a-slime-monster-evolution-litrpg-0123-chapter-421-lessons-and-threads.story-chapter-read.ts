@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0123Chapter421LessonsAndThreads = {
   id: "01a06730-4e2a-7730-b292-d3844e2b0e39",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0123-chapter-421-lessons-and-threads",
+  ownProgress: 2324,
   title: "Chapter 421 : Lessons and Threads",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 123,

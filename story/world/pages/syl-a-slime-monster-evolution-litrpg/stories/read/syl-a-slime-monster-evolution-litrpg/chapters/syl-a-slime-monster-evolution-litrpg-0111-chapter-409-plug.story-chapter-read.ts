@@ -4,6 +4,7 @@ export const sylASlimeMonsterEvolutionLitrpg0111Chapter409Plug = {
   id: "01a06730-4e24-76ee-9041-cd8a6f4e6858",
   type: "page-type/story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0111-chapter-409-plug",
+  ownProgress: 2611,
   title: "Chapter 409 : Plug",
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 111,
