@@ -26,6 +26,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-aunt-connie.lore.ts","id":"01a0e9f0-6c7c-7936-8c66-2c293fa2cda9"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-auriad.lore.ts","id":"01a0ea0d-e14b-7602-a6a7-1a453340bc5d"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-authority-control.lore.ts","id":"01a0ea0b-ea10-76d8-9cd9-630bb5eb10f8"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-authority-greeting.lore.ts","id":"01a0ea1e-9d89-7baa-b835-d87f9da76181"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-authority.lore.ts","id":"01a0ea09-7b76-7bc1-bdb8-647337dc63a1"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-authorized-witness.lore.ts","id":"01a0ea01-2f63-7e6e-acf6-499d8c498c68"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-autotrade.lore.ts","id":"01a0ea01-2f63-749f-b53c-0d59c8e8fce1"}
@@ -222,8 +223,10 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-natalie-choir.lore.ts","id":"01a0e9ff-8f65-75d6-947d-56a975c88073"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-naya.lore.ts","id":"01a0e9f5-5085-70f3-9a96-11be90a5814f"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-neha.lore.ts","id":"01a0e9ff-8f65-7d16-a9b7-98dec7038a65"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-neighborhood-watcher.lore.ts","id":"01a0ea1e-9d89-7436-a537-601bdc7176c2"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-nesicard.lore.ts","id":"01a0ea03-1b0f-7794-b05e-487f6c61c156"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-njeri.lore.ts","id":"01a0ea0d-258f-71da-8c25-ab29dc955a1d"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-number-one.lore.ts","id":"01a0ea1e-9d89-74d9-ac07-4ba00f765307"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-nuray.lore.ts","id":"01a0e9f2-0ab0-7fe7-b62a-a924417cd314"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-object-shaper.lore.ts","id":"01a0e9fb-589f-75c8-b6df-5e46aa6c30d1"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-offered-food-rule.lore.ts","id":"01a0e9fa-71c2-7e6d-8fda-cfbab27fc2ec"}
@@ -304,6 +307,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-techno-tarek.lore.ts","id":"01a0ea03-c8e6-730e-adbe-f0778903186e"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-teleport.lore.ts","id":"01a0e9fa-71c2-76cf-87fe-1c7d724e01c8"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-temper-sphere.lore.ts","id":"01a0ea13-8856-7ce9-a38c-ec1026abc5bf"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-the-eye-of-a-thousand-instants.lore.ts","id":"01a0ea1e-9d8a-7d6a-94fa-11521fbf3762"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-the-gloom.lore.ts","id":"01a0e9f5-5085-735f-9aaa-fb7030408caa"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-the-gloss.lore.ts","id":"01a0ea06-4083-78e2-8151-40c662bbf3fe"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-the-primary.lore.ts","id":"01a0e9f8-a508-7d9b-92ec-29844179ab9c"}
