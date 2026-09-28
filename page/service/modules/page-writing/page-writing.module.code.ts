@@ -259,7 +259,7 @@ export function batchIn<T extends Held>(
   return { batch: waiting.slice(0, taken), rest: waiting.slice(taken) }
 }
 
-export function landingNamed(batch: readonly Asked[]): string {
+function landingNamed(batch: readonly Asked[]): string {
   const writers = [...new Set(batch.map((one) => one.writer.split(" <")[0] ?? one.writer))]
   const writes = batch.length === 1 ? "1 write" : `${batch.length} writes`
   return `landing ${writes} by ${writers.join(", ")}`
