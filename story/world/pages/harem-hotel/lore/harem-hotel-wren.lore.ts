@@ -34,7 +34,12 @@ export const haremHotelWren = {
     },
     {
       fact: "Wren gets louder and dirtier-mouthed the more she is touched.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-odile",
+      ],
     },
     {
       fact: "Wren gives her name the moment Alan speaks to her.",
@@ -58,8 +63,31 @@ export const haremHotelWren = {
         "lore-disclosure/game-master",
         "character-player/harem-hotel-alan",
         "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-odile",
       ],
     },
     { fact: "Wren squirts when she comes hard.", knowers: ["lore-disclosure/game-master"] },
+    {
+      fact: "Wren wears nothing under her short red skirt.",
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
+    },
+    {
+      fact: "Wren has wanted to kiss Odile all night, and waited for leave to do it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-odile",
+      ],
+    },
+    {
+      fact: "Wren begs Alan for leave before she lets herself come.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-odile",
+      ],
+    },
   ],
 } as const satisfies Lore

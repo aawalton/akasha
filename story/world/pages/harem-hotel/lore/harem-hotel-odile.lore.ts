@@ -70,5 +70,30 @@ export const haremHotelOdile = {
         "character-other/harem-hotel-wren",
       ],
     },
+    {
+      fact: "Odile wears silk knickers under her black skirt.",
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
+    },
+    {
+      fact: "Odile is wetter than anything in her face or voice lets on.",
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
+    },
+    {
+      fact: "Odile goes utterly still at a new touch, then yields to it by a fraction.",
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
+    },
+    {
+      fact: "Odile gives orders in sex, and loses the end of them under Alan's hand.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-odile",
+        "character-other/harem-hotel-wren",
+      ],
+    },
+    {
+      fact: "Odile tries to swallow the sounds she makes in sex, and fails.",
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
+    },
   ],
 } as const satisfies Lore

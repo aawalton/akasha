@@ -15,7 +15,7 @@ export const haremHotel00004 = {
     "character-other/harem-hotel-odile",
     "character-other/harem-hotel-wren",
   ],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     '"Now its your turn, kiss each other while I work on warming you up." I reach one hand down each of their skirts and start fingering them, first slowly, then accelerating, adding one finger at a time and curling them inside.',
   beats: [
@@ -45,5 +45,5 @@ export const haremHotel00004 = {
   ],
   lore: ["lore/harem-hotel-wren"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture", "story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
