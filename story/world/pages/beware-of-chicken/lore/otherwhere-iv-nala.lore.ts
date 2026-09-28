@@ -104,5 +104,13 @@ export const otherwhereIvNala = {
         "character-other/otherwhere-iv-zhao-jun",
       ],
     },
+    {
+      fact: "Nala's gift of the tongue and script brought no knowledge of local rites, calendar or almanac.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She knows only the words for such things, as a foreigner might, and none of their content.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
