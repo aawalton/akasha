@@ -23,7 +23,10 @@ export const otherwhereIiiLawrenceStop = {
       fact: "Wool socks on slush soak through in a few steps and go icy, but one block is only minutes.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "From the train doors to the ER's sliding doors is about four minutes at Denise's brisk pace.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
-  secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
 } as const satisfies Place
