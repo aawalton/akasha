@@ -29,7 +29,7 @@ export type SkillTable<Template extends SkillTemplate> = DataFile<
   SkillTemplate["subcategoryId"]
 >
 
-export type ScriptTable<Id extends string, Slot extends string> = DataFile<
+type ScriptTable<Id extends string, Slot extends string> = DataFile<
   Id,
   ScriptTemplate & { readonly id: Id; readonly slotType: Slot }
 >
