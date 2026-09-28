@@ -27,5 +27,6 @@ export const theDatingGame00035 = {
     'She looks over at him, gentle. "Were you with him, at the end?"',
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  endsAt: "2026-09-26T19:38:00.000Z",
 } as const satisfies StoryTurnPlayed
