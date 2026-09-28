@@ -4,6 +4,8 @@ export const image2b060e819343325a = {
   id: "01a0e9ec-c34f-7c95-b572-92e710ad239f",
   type: "page-type/image",
   slug: "image-2b060e819343325a",
+  title: "Teal Bikini Stretch on the Yoga Mat",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
