@@ -12,6 +12,10 @@ export const useMarkReadOnEnd = {
       statement: "The native shell marks a chapter read exactly as the browser does.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Reading a chapter to its end marks it done exactly as its card's circle does.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A completion made with no network is not kept.",
     },

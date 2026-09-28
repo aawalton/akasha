@@ -2,42 +2,28 @@
 
 import { isCompletionAlreadySet } from "akasha/alan/web/modules/read-completion/read-completion.module.code.ts"
 import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
-import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
-import { usePageTypeNamed } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
+import {
+  COLLECTION_SHAPE,
+  completionValues,
+} from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
 import { usePage } from "akasha/page/ui/supabase/modules/use-page/use-page.module.code.ts"
 import { useOptimisticPatchPage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useCallback } from "react"
 
-const COMPLETED_AT_PROPERTY_ID = "completedAt"
-
-function toFiniteNumber(value: unknown): number | undefined {
-  return typeof value === "number" && Number.isFinite(value) ? value : undefined
-}
-
 export function useMarkReadOnEnd(args: { pageTypeSlug: PageTypeSlug; id: string }): () => void {
   const { pageTypeSlug, id } = args
   const patch = useOptimisticPatchPage((patchArgs) => patchPage(patchArgs))
   const { page } = usePage({ pageTypeSlug, id })
-  const currentCompletedAt = page?.properties?.[COMPLETED_AT_PROPERTY_ID]
-
-  const { pageType } = usePageTypeNamed(pageTypeSlug)
-  const detailConfig = parsePageTypeData(pageType?.properties).detailConfig
-  const progressPropertyId = detailConfig?.progressPropertyId
-  const lengthPropertyId = detailConfig?.lengthPropertyId
-  const size = toFiniteNumber(
-    lengthPropertyId != null ? page?.properties?.[lengthPropertyId] : undefined
-  )
+  const values = page?.properties
 
   return useCallback(() => {
-    if (isCompletionAlreadySet(currentCompletedAt)) return
-    if (size == null) return
-    const iso = new Date(Date.now()).toISOString()
-    if (progressPropertyId == null) return
+    if (values == null) return
+    if (isCompletionAlreadySet(values[COLLECTION_SHAPE.doneKey])) return
     void patch({
       pageTypeSlug,
       where: [{ key: "id", eq: id }],
-      set: { [COMPLETED_AT_PROPERTY_ID]: iso, [progressPropertyId]: size },
+      set: completionValues(COLLECTION_SHAPE, values, Date.now()),
     })
-  }, [pageTypeSlug, id, currentCompletedAt, size, progressPropertyId, patch])
+  }, [pageTypeSlug, id, values, patch])
 }
