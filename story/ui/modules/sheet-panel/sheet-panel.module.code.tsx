@@ -272,10 +272,12 @@ export function SheetPanel({
   sheet,
   game,
   workings,
+  showsStats = true,
 }: {
   sheet: ClientSheet | null
   game?: string
   workings?: readonly Working[]
+  showsStats?: boolean
 }) {
   if (sheet === null) {
     return (
@@ -290,15 +292,17 @@ export function SheetPanel({
   return (
     <SurfaceProvider level={1} className="flex flex-col gap-3 rounded-xl p-4 shadow-sm">
       <SheetHeader sheet={sheet} />
-      <Tabs defaultValue="stats" className="gap-3">
+      <Tabs defaultValue={showsStats ? "stats" : "skills"} className="gap-3">
         <TabsList>
-          <TabsTrigger value="stats">Stats</TabsTrigger>
+          {showsStats ? <TabsTrigger value="stats">Stats</TabsTrigger> : null}
           <TabsTrigger value="skills">Skills</TabsTrigger>
           <TabsTrigger value="items">Items</TabsTrigger>
         </TabsList>
-        <TabsContent value="stats">
-          <StatsTab sheet={sheet} game={game} workings={workings} />
-        </TabsContent>
+        {showsStats ? (
+          <TabsContent value="stats">
+            <StatsTab sheet={sheet} game={game} workings={workings} />
+          </TabsContent>
+        ) : null}
         <TabsContent value="skills">
           <SkillsTab sheet={sheet} />
         </TabsContent>
