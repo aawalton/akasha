@@ -7,5 +7,5 @@ export const otherwhereVInsight = {
   title: "Insight",
   world: "world/ends-of-magic",
   aliases: ["Insights", "Grand Insight"],
-  description: "A true understanding of how something works, which Davrar counts and rewards.",
+  description: "A true understanding of how something works.",
 } as const satisfies WorldMechanic

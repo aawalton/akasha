@@ -6,5 +6,5 @@ export const otherwhereVGloamcat = {
   slug: "otherwhere-v-gloamcat",
   title: "Gloamcat",
   world: "world/ends-of-magic",
-  description: "A lynx-sized forest cat that hunts at dusk and by night.",
+  description: "A lynx-sized grey forest cat.",
 } as const satisfies WorldSpecies
