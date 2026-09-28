@@ -13,11 +13,19 @@ export const otherwhereIiiUptownMemorialEr = {
     },
     {
       fact: "From the Lawrence platform it is a stair down, then one snowy block east to the ER doors.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-denise-pruitt",
+      ],
     },
     {
       fact: "The ER waiting room is warm and bright, with rows of chairs, a muted TV and a triage window.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-denise-pruitt",
+      ],
     },
     {
       fact: "At half past five on a Saturday it is quiet: a few people waiting, one man asleep, a cough.",
@@ -25,7 +33,11 @@ export const otherwhereIiiUptownMemorialEr = {
     },
     {
       fact: "A guard sits by the sliding doors beside a walk-through metal detector.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-denise-pruitt",
+      ],
     },
     {
       fact: "Triage asks name, birth date and address; a patient may give none and still be seen.",
@@ -82,6 +94,14 @@ export const otherwhereIiiUptownMemorialEr = {
     {
       fact: "A doctor sees her feet, finds frostnip only, and asks nothing about papers.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The triage nurse is Marcus, a big, calm man in his thirties with a shaved head.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-denise-pruitt",
+      ],
     },
   ],
   within: "place/otherwhere-iii-chicago",

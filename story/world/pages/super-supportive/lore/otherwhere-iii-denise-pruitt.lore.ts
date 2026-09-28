@@ -96,5 +96,13 @@ export const otherwhereIiiDenisePruitt = {
       fact: "At the ER Denise will offer Nala the desk phone to call someone back home.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Denise clocks in at 5:30 and told Nala she will come find her on her break.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-denise-pruitt",
+      ],
+    },
   ],
 } as const satisfies Lore

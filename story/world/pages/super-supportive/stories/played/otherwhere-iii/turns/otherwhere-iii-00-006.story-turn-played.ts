@@ -4,6 +4,7 @@ export const otherwhereIii00006 = {
   id: "01a0ea14-9066-789e-b1d2-32a69ef0debb",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-006",
+  cover: "image/image-e008cd6ddb33fe30",
   ownLength: 435,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
@@ -13,7 +14,7 @@ export const otherwhereIii00006 = {
     "character-player/otherwhere-iii-nala",
     "character-other/otherwhere-iii-denise-pruitt",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: '"Definitely. Thank you."',
   beats: [
     'Nala says, "Definitely. Thank you," and steps off after Denise; the doors chime shut behind them.',
@@ -32,6 +33,6 @@ export const otherwhereIii00006 = {
   ],
   lore: ["place/otherwhere-iii-lawrence-stop", "place/otherwhere-iii-uptown-memorial-er"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2037-01-31T05:07:00.000Z",
 } as const satisfies StoryTurnPlayed
