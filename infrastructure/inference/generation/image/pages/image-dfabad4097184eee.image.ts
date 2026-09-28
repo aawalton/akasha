@@ -4,6 +4,8 @@ export const imageDfabad4097184eee = {
   id: "01a0e9e5-60b6-72e3-b506-66e81c30108c",
   type: "page-type/image",
   slug: "image-dfabad4097184eee",
+  title: "A Ripe Fig on the Kilim",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
