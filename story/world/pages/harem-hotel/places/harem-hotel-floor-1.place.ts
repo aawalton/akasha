@@ -9,23 +9,23 @@ export const haremHotelFloor1 = {
   facts: [
     {
       fact: "Floor 1 is the lobby of a grand old hotel, all dark wood, brass and oxblood velvet.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
     },
     {
       fact: "A crystal chandelier and green-shaded lamps light the lobby.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
     },
     {
       fact: "Alan wakes dressed on a velvet chaise longue mid-lobby, with no memory of arriving.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
     },
     {
       fact: "The revolving front doors turn onto bare brick, and every window shows brick behind the glass.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
     },
     {
       fact: "A grand staircase rises at the back of the lobby behind a locked brass gate.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
     },
     {
       fact: "The brass gate opens only once floor 1's task is met.",
@@ -37,11 +37,11 @@ export const haremHotelFloor1 = {
     },
     {
       fact: "The front desk is a long counter of black marble with a brass service bell.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
     },
     {
       fact: "Behind the front desk is a wall of empty key pigeonholes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
     },
     {
       fact: "An open leather guest book on the desk holds one line: Alan's name, in the concierge's hand.",
@@ -49,11 +49,11 @@ export const haremHotelFloor1 = {
     },
     {
       fact: "The lobby holds a leather sofa, the chaise, a brass luggage cart, and a rug before a cold hearth.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
     },
     {
       fact: "Floor 1 holds two women: the concierge at the front desk and the bellhop by the luggage cart.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
     },
     {
       fact: "Floor 1's task: make the concierge and the bellhop both come, then come inside one of them.",

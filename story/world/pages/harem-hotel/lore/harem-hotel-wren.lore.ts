@@ -14,19 +14,19 @@ export const haremHotelWren = {
     },
     {
       fact: "Wren is short and soft, green-eyed, with a gap between her front teeth.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
     },
     {
       fact: "Wren wears her copper-red hair in a bob under a red pillbox cap.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
     },
     {
       fact: "Wren is freckled all over, with wide hips and a thick ass.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
     },
     {
       fact: "Wren's heavy tits strain the brass buttons of her short red jacket.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
     },
     {
       fact: "Wren is cheeky and loud-laughing, a brat who pushes until she is caught and handled.",

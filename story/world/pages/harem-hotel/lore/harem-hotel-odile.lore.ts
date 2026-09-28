@@ -18,7 +18,7 @@ export const haremHotelOdile = {
     },
     {
       fact: "Odile wears her black hair pinned in a sleek chignon.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
     },
     {
       fact: "Odile has small high tits with dark nipples and a trimmed black bush over her cunt.",
@@ -26,7 +26,12 @@ export const haremHotelOdile = {
     },
     {
       fact: "Odile is composed and formal, calls Alan sir, and has a dry wit that rarely smiles.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-odile",
+        "character-other/harem-hotel-wren",
+      ],
     },
     {
       fact: "Odile likes to give orders in sex, and likes even more being made to lose the thread of them.",
