@@ -33,6 +33,9 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-herdin.world-character.ts","id":"01a0e9fb-eb71-7bf0-85bf-7328cfce1dc0"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-hibor.world-character.ts","id":"01a0e9fb-eb71-7f5b-99fd-422cfe240523"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-hibril.world-character.ts","id":"01a0e9fb-eb72-723d-8a08-999d6d23d47b"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-isera.world-character.ts","id":"01a0e9fc-4336-7a64-bde0-460a02fea4c9"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-jadya.world-character.ts","id":"01a0e9fc-4337-71af-b9eb-d3535a751aff"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-jaus.world-character.ts","id":"01a0e9fc-4337-75e0-93f4-ea76835f7531"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-liren-vail.world-character.ts","id":"01a0e9fb-fb52-77a8-b3a7-8afc3bb7252f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-myrla.world-character.ts","id":"01a0e9fa-2b5e-7643-94a4-00f8d89801e5"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-nathan-lark.world-character.ts","id":"01a0e9f5-00f8-7d2d-9a68-889656e360ef"}
@@ -152,7 +155,10 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-human.lore.ts","id":"01a0e9f2-ad9d-7f6c-9f4f-7b22d446e18a"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-hydra-eel.lore.ts","id":"01a0e9fa-9425-7680-b155-4315af64218f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-insight.lore.ts","id":"01a0e9f8-2dc5-7c21-bf26-bbf2c58c3fd3"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-isera.lore.ts","id":"01a0e9fc-4337-7f5b-aa78-860eb75a3c04"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-itonia.lore.ts","id":"01a0e9f7-12e8-79bc-9a3a-674e06223dd7"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-jadya.lore.ts","id":"01a0e9fc-4337-704f-83d9-fb53168fdd6d"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-jaus.lore.ts","id":"01a0e9fc-4337-7a7d-842f-65e809c1a495"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-keihonia.lore.ts","id":"01a0e9fa-5276-7922-8358-318e5a6c1ee1"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-knuld.lore.ts","id":"01a0e9f4-0047-7c65-bc2b-b122456fb6cd"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-levels.lore.ts","id":"01a0e9f5-a5d5-793c-bc32-493bc44b9eea"}
