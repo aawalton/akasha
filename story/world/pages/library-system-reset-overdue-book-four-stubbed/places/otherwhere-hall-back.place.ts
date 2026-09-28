@@ -28,22 +28,7 @@ export const otherwhereHallBack = {
       fact: "Engorged bookworms drain the Library's remaining energy as they devour its books.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "Five small engorged bookworms and one big one infest the back of the main hall.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
-    {
-      fact: "Since the sync, the bookworms' feeding costs the Library 1 power for each day they are left.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Each day the engorged bookworms are left costs the Library power.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "The back of the hall is about sixty feet across between its outer columns.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -68,34 +53,7 @@ export const otherwhereHallBack = {
       fact: "Engorged bookworms bite, and their teeth are nothing to laugh at.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "Engorged bookworms go on feeding until a Librarian comes within about twenty feet.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "The big engorged bookworm senses a Librarian from about forty feet, and roars from there.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
-    {
-      fact: "An engorged bookworm rears up and roars a squelching challenge when it senses a Librarian.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "Bookworms sense a Librarian's magic rather than her noise, so going quietly does not hide her.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Roused bookworms stir and listen, but leave their heaps only for a Librarian within twenty feet.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Links can rake a bookworm with his claws in lynx form, at a cost in power.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "Salt dries a bookworm out and leaves it helpless, but the biggest are too big to pick up.",
       knowers: [
@@ -132,34 +90,12 @@ export const otherwhereHallBack = {
       fact: "The big engorged bookworm is heavy enough to plough through a salt line, burned as it goes.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "A bookworm's lunge stops at a salt line, but its head can stretch about a foot over it to bite.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "A bookworm dragged onto a salt line is burned by it, and its thrashing scuffs a gap in the line.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "A broom's bristles sweep salt onto a bookworm from past the reach of its lunge.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "A bookworm pressed into heaped salt keeps drying for as long as it is held there.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "Salted bookworm skin goes dry and rough, easy to grip, though the mouth end still bites.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "The broom's bristles are worn short and splayed, and skip over salt as much as push it.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "A much deeper, bigger roar rolled out between the columns from far back in the dark.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "A small engorged bookworm weighs twenty-odd pounds.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -176,48 +112,13 @@ export const otherwhereHallBack = {
         "character-other/otherwhere-links",
       ],
     },
-    {
-      fact: "The big bookworm's round mouth gapes wide enough to take a sack of salt whole.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "Salt in a bookworm's mouth and gullet burns it far worse than salt on its hide.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "A bookworm choking on salt thrashes wildly, and the big one's thrashing can crush.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "Nala rammed a whole sack of salt into the big bookworm's mouth; its thrash flung her hard.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "Within a minute the big bookworm's teeth split the lodged sack; it gapes and gags up salt.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "Nala rammed a second sack into the gagging mouth and sprang back; its thrash only clipped her.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "Salt ground into an open bite burns fiercely but does it no further harm.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Salt clings in a crust to blood-damp cloth, and flakes off with every hard tussle.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "A bookworm biting salt-crusted cloth is salted and lets go, but its teeth sink in first.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "The chewed broom still sweeps, its bristles bitten ragged down one side.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "All five small bookworms are dried into hard grey coils; only the big one remains.",
+      fact: "All five small bookworms are dried into hard grey coils.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-alan",
@@ -225,7 +126,7 @@ export const otherwhereHallBack = {
       ],
     },
     {
-      fact: "Salt still burns the big bookworm, though it ploughs through a line anyway.",
+      fact: "Nala's last sack went deep down the big bookworm's gullet, and it dried out, alive but still.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-alan",
@@ -233,19 +134,15 @@ export const otherwhereHallBack = {
       ],
     },
     {
-      fact: "One fresh salt sack and the honey jar sit at the gloom's edge.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      fact: "With the big bookworm dried, the hall's back fell quiet and its gold light brightened again.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
-      fact: "The big engorged bookworm bites far harder than the small ones do.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "The big engorged bookworm is far too big to hold down in heaped salt.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "As the last small bookworm dried still, the hall's gold light brightened another shade.",
+      fact: "The honey jar sits at the gloom's edge.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
@@ -257,84 +154,12 @@ export const otherwhereHallBack = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "Nala slept in the salt short of the gloom and woke whole, her newest bite knitted to a scar.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
-    {
-      fact: "Salt burning in its gullet, the big bookworm convulsed; its grey hide puckered and cracked.",
+      fact: "Salt from burst sacks lies scattered short of the gloom.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "Salt crust pressed to the big bookworm's cracked hide burns deep, and it rolls to scrape it off.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "Clinging just behind its head keeps a body past the big bookworm's mouth, unless it curls round.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "A roll of the big bookworm's bulk can pin and crush whoever clings to it.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "Once a salt crust scrapes off, the honey beneath draws the big bookworm's teeth to it.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "One more sack of salt deep in its gullet would dry the big bookworm out; on its hide, far more.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
-    {
-      fact: "Left alone, the big bookworm scrapes and gags off its salt and slowly recovers.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Drawn by her honey, the big bookworm bites a senseless crusted Nala; the salt burns its mouth.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "A mouthful of salt crust is a salt act on the big bookworm; it lets go and drags back to the gloom.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "If the big bookworm dries out, the hall's back falls quiet and the gold light brightens again.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "The burst sack's salt lies scattered short of the gloom, and the big bookworm keeps clear of it.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "Overnight the big bookworm gags off its salt and heals half the harm it has taken.",
-      knowers: ["lore-disclosure/game-master"],
     },
 
     {
       fact: "Nala's fourth sack of salt lies whole on the floor where it fell, out from the gloom's edge.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "Burned three times, the big bookworm jerks its mouth away from a sack thrust straight at it.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "The big bookworm follows a fleeing Librarian's honey smell, slower than she can run.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "While it gags and spits salt, the big bookworm's mouth hangs open and it is slow to jerk away.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Nala's fifth sack burst short in its mouth as it jerked away; its answering lunge missed.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],
