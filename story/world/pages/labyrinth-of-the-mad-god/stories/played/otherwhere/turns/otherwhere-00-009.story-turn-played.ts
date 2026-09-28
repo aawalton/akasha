@@ -28,10 +28,12 @@ export const otherwhere00009 = {
     "She is on her knees in the mud, the shard in her right hand, her left arm bleeding.",
     "Off to her side, the second lizard is coming through the reeds at her.",
   ],
+  issues: ['"your hand closes on nothing" - Plain Negation'],
   lore: [
     "lore/otherwhere-mire-monitors",
     "place/otherwhere-glassrun",
     "place/otherwhere-black-shore",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T15:08:00.000Z",
 } as const satisfies StoryTurnPlayed
