@@ -27,6 +27,7 @@ export const metricCharacterAttribute = {
     "page-type/otherwhere-skill",
     "page-type/otherwhere-ability",
     "page-type/otherwhere-iv-skill",
+    "page-type/otherwhere-iv-cultivation-stage",
   ],
 
   types: "ts",
