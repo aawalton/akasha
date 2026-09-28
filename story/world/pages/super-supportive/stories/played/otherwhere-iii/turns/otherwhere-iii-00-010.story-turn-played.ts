@@ -4,7 +4,7 @@ export const otherwhereIii00010 = {
   id: "01a0ea4b-630b-7b8e-8ea5-7c537a0967ab",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-010",
-  ownLength: 297,
+  ownLength: 272,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
   position: 10,
@@ -13,7 +13,7 @@ export const otherwhereIii00010 = {
     "character-player/otherwhere-iii-nala",
     "character-other/otherwhere-iii-denise-pruitt",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "\"Thank you, but I'm on my own for now. Yesterday I would have had you call my boyfriend, but that ship has sunk. Thank you for your kindness, you've really been a lifesaver today.\"",
   beats: [
