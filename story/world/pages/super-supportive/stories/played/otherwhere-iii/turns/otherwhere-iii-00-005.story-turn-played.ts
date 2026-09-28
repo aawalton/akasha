@@ -11,4 +11,5 @@ export const otherwhereIii00005 = {
   action:
     "“Out West, small town in the mountains. Lots of nature but less in the way of opportunities.”",
   lore: ["lore/otherwhere-iii-denise-pruitt", "place/otherwhere-iii-uptown-memorial-er"],
+  endsAt: "2037-01-31T05:01:00.000Z",
 } as const satisfies StoryTurnPlayed
