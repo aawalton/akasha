@@ -69,5 +69,53 @@ export const otherwhereVGloamcat = {
       fact: "A heavy grey beast burst from the ferns at Nala at full dark, day one, and swerved off hissing.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
+    {
+      fact: "A gloamcat reads prey that goes quietly away after its feint, back turned, as fleeing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Such prey it strikes from behind within minutes, at the throat, as the prey moves off.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Stalking Nala's retreat, it strikes about halfway to the log, forty yards short of its mouth.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Before the strike, the ferns' ticking hushes in a patch closing in behind the prey.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A strike met face-on with noise or a raised weapon breaks off into another feint.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Met face-on but silent, it swipes with its claws instead of going for the throat.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "After a bite lands, it lets go and backs off if the prey fights loudly; if not, it bites again.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "It hunts by sight and hearing, and the smell of rot hides nothing from it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A gloamcat can push only its head and shoulders into a two-foot hole, about three feet.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "From there its paw reaches about two feet more; prey six feet or deeper in is beyond it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Denied prey in a hole, it paws and hisses at the mouth, then watches nearby until first light.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At first light a gloamcat goes back to its den to sleep.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

@@ -168,5 +168,33 @@ export const otherwhereVFernHollow = {
       fact: "A small trail through ferns on the hollow's south rim is marked by pellets and nibbled fern.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
+    {
+      fact: "The clawed trunk is ninety yards upslope of the spring, eighty yards from the log's mouth.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Between them is a fern slope, waist-high, over moss, roots and scattered bark scales.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Feeling her way barefoot in full dark, crossing those eighty yards takes about five minutes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The log's mouth is a two-foot gap between torn roots; the hollow runs twelve feet in.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The hollow narrows from two feet at the mouth to a foot and a half, then ends in solid wood.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Inside the log it is dry, smells of rot and earth, and holds woodlice, beetles and a web.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Curled in the log's dry punk, cold comes on at half the rate it does on open ground.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
