@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"game-master.role.ts","path":"story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-game-master-otherwhere-iii/iris-game-master-otherwhere-iii.seat.ts","id":"01a0e9d5-499d-7000-b9b1-926d4c9efc13"}
+{"propertySlug":"role","path":"agent/seat/pages/iris-game-master-otherwhere-iv/iris-game-master-otherwhere-iv.seat.ts","id":"01a0e9e2-7c23-7000-accc-0c22c619bb97"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-game-master-otherwhere/iris-game-master-otherwhere.seat.ts","id":"01a0e985-de19-7000-a721-2021ebefdff0"}
 {"propertySlug":"role","path":"agent/seat/pages/mari-game-master-harem-hotel/mari-game-master-harem-hotel.seat.ts","id":"01a0e98b-a156-7000-b3ef-4900f445183a"}
 {"propertySlug":"role","path":"persona/pages/aria/aria.persona.ts","id":"019ef03a-4924-7a7b-9ee2-e34556947658"}
