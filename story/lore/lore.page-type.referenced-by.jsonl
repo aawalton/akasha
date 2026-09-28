@@ -79,6 +79,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-eril.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-esebus.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-fey.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-flying-fish.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-focus.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-foxfolk.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-gemore.lore.ts","typed":true,"deferred":false}
@@ -93,6 +94,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-harpy.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-hillboar.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-human.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-hydra-eel.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-insight.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-itonia.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-keihonia.lore.ts","typed":true,"deferred":false}
@@ -117,6 +119,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-raf.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-ranks.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-recognition.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-redeye.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-roni.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-sangrad.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-sarah.lore.ts","typed":true,"deferred":false}
@@ -126,6 +129,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-shai.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-shong.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-siblings-of-itonia.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-slickfish.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-soul-magic.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-spell-tiers.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-spellcasting.lore.ts","typed":true,"deferred":false}
