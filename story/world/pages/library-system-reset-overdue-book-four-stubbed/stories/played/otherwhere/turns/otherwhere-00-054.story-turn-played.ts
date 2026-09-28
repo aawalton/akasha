@@ -24,4 +24,5 @@ export const otherwhere00054 = {
     'Links: "Eight books and your taps run hot. Patrons pay a point each too, once the counter works."',
   ],
   lore: ["lore/otherwhere-universe", "place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
