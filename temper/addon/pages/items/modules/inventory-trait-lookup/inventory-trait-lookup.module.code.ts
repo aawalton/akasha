@@ -23,7 +23,7 @@ type ByKey = { [key: string]: string | undefined }
 
 type Numbers = { [traitId: string]: number[] | undefined }
 
-export type TraitOption = { readonly value: string; readonly label: string }
+type TraitOption = { readonly value: string; readonly label: string }
 
 type TraitTables = {
   readonly player: ByKey
