@@ -19,12 +19,14 @@
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-cinder-isle-small-life.lore.ts","id":"01a0e99c-0532-74e1-a8b8-97ffcb0cb429"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-classes.lore.ts","id":"01a0e9a2-c7cf-702e-925d-52aa06c3f987"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-conduit-crayfish.lore.ts","id":"01a0e9c2-fe14-7893-8510-53df94ff9d57"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-consumables.lore.ts","id":"01a0e9d3-bf2d-7cfa-a2ff-c408db8f3d9b"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-copperbacks.lore.ts","id":"01a0e98e-a9b7-7a81-92ea-4edc292ed81c"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-coyotes.lore.ts","id":"01a0e9c3-c616-7d18-b318-9776a4f73101"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-creatures.lore.ts","id":"01a0e9a5-b2a2-71b2-ba8d-b054010e2d2b"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-crimson-beetles.lore.ts","id":"01a0e9c3-c617-75f1-b31c-8075c5705eb8"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-crimson-blight.lore.ts","id":"01a0e9c1-484c-75cf-aa81-94366a7bbe70"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-crystal-assistants.lore.ts","id":"01a0e9d2-c08c-7aaf-8caf-e598e75c3f3c"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-currencies-and-trade.lore.ts","id":"01a0e9d3-bf2e-7a43-b5c1-5fa194ff590b"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-death.lore.ts","id":"01a0e9a5-b2a2-7e08-9921-f012b89fc3fb"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-desert-rose.lore.ts","id":"01a0e9cb-9156-7842-9d86-7783231d283c"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-devin.lore.ts","id":"01a0e9c9-1a4b-7762-9a42-a637caf91649"}
@@ -91,6 +93,7 @@
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-pax.lore.ts","id":"01a0e9ce-df77-74e0-94ef-97cbb01013b5"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-pellia.lore.ts","id":"01a0e9cd-42e6-72e0-9f3e-721e12b28273"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-planetary-quest-chain.lore.ts","id":"01a0e9c7-9b3a-7abe-bd48-a612fc98fcf5"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-potions-and-elixirs.lore.ts","id":"01a0e9d3-bf2f-78ff-b224-11a935ff8f4a"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-preservation.lore.ts","id":"01a0e9c6-337e-723c-bbb7-0d02e07668f8"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-promethean-coalition.lore.ts","id":"01a0e9c5-5f89-7c6c-91ea-e4e1a0145d7f"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-quest-bosses.lore.ts","id":"01a0e9c4-861d-7548-9eea-e6a3730786ad"}
@@ -114,6 +117,7 @@
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-spear-tongue-frogs.lore.ts","id":"01a0e9c1-484d-7192-84a2-90e0caa601fc"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-spectacle.lore.ts","id":"01a0e9c6-337f-7397-bbc4-2b1ab795f854"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-splendor.lore.ts","id":"01a0e9c6-337f-713d-8cc1-c37957e5f731"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-storage.lore.ts","id":"01a0e9d3-bf30-760b-881b-d0b060b28521"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-suffering.lore.ts","id":"01a0e9c6-337f-7159-a2b4-cf21a7ec8dc4"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-system.lore.ts","id":"01a0e984-b973-7cd9-8d66-f84d0f54e4ba"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-taltos.lore.ts","id":"01a0e9a5-b2a3-7e93-9f2a-a49fa8cca3f7"}
@@ -128,6 +132,7 @@
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-vital-energies.lore.ts","id":"01a0e9a3-9f55-7fe3-b786-f54ba314e6e1"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-voidbears.lore.ts","id":"01a0e9c2-fe15-7281-b6e4-aa254c9f6cac"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-voidspawn.lore.ts","id":"01a0e9c2-fe15-7fe0-b54e-e38abb541e81"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-vouchers-and-tokens.lore.ts","id":"01a0e9d3-bf30-787a-b13d-dbf7b45ba7a0"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-wand-of-force.lore.ts","id":"01a0e9d1-a3d9-7f65-9ce4-78f1c30eb177"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-xuthu.lore.ts","id":"01a0e9cf-bd37-7280-9cb8-55077f78438e"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-yarren.lore.ts","id":"01a0e9ce-df77-7141-8cf8-67d9c348b70f"}
