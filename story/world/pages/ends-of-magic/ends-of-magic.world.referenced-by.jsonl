@@ -28,6 +28,8 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-evesor.world-character.ts","id":"01a0e9fa-adf3-7d14-9203-4b1f8711120e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-exea-dha-humal.world-character.ts","id":"01a0e9fb-2815-730a-aa07-d4d9ce9f95eb"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-faline.world-character.ts","id":"01a0e9fb-2816-72c0-8b44-286cfadc4916"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-garna.world-character.ts","id":"01a0e9fb-8738-75fa-b534-3fd9f00db918"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-henrish.world-character.ts","id":"01a0e9fb-8739-79db-a013-1c6baf4fb241"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-myrla.world-character.ts","id":"01a0e9fa-2b5e-7643-94a4-00f8d89801e5"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-nathan-lark.world-character.ts","id":"01a0e9f5-00f8-7d2d-9a68-889656e360ef"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-nol-dho-chokiz.world-character.ts","id":"01a0e9f9-115e-7d3e-8bfe-6ef5eda7860d"}
@@ -118,6 +120,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-flying-fish.lore.ts","id":"01a0e9fa-9425-7331-b972-f378b88148ab"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-focus.lore.ts","id":"01a0e9f9-efb3-77e5-b3d9-577d7103ab70"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-foxfolk.lore.ts","id":"01a0e9f4-0047-7744-94f4-6835adf682b9"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-garna.lore.ts","id":"01a0e9fb-8739-75a6-81c2-9c3a17784bfa"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-gemore.lore.ts","id":"01a0e9f5-4cc9-7093-96b4-2df7632fd825"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-ghoul.lore.ts","id":"01a0e9f9-9dd7-77fc-a5b3-7aaf76077f21"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-giant.lore.ts","id":"01a0e9f4-fc81-7f9c-b43d-6ecd90372988"}
@@ -129,6 +132,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-guardians-of-esebus.lore.ts","id":"01a0e9f8-bd22-760b-8cb2-3ff715a5ccc1"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-harpy.lore.ts","id":"01a0e9f9-9dd7-7906-82ec-823825ec0b49"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-helmaris.lore.ts","id":"01a0e9fa-e2ad-72b2-afeb-72b9696eb752"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-henrish.lore.ts","id":"01a0e9fb-8739-76e4-b4e2-a3e860df5b73"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-hillboar.lore.ts","id":"01a0e9f8-965f-7495-958d-f6c01ecc3a04"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-human.lore.ts","id":"01a0e9f2-ad9d-7f6c-9f4f-7b22d446e18a"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-hydra-eel.lore.ts","id":"01a0e9fa-9425-7680-b155-4315af64218f"}
