@@ -10,7 +10,7 @@ export const otherwhereIx00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     '"Hello?" I say confidently, then I stand up tall and put my arms on my hips to make me look bigger. "Can you understand me?"',
   beats: [
@@ -30,9 +30,7 @@ export const otherwhereIx00002 = {
     "Each time her hand moves, the snout dips after it.",
     "When she turns her head to follow it, it stops and rattles again.",
     "When she faces it square, it goes still and only watches.",
-    "It is patient, working its way round behind her, and there is nothing in her hands.",
-    "The dark line lies far off to the east.",
-    "The nearest black-barked tree stands alone some thirty paces away.",
+    "Then it moves on again, patient, sliding out of the edge of her sight toward her back.",
   ],
   issues: [
     '"Your hands are empty." - No Prompt',
