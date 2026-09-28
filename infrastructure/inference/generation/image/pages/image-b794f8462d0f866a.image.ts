@@ -4,6 +4,8 @@ export const imageB794f8462d0f866a = {
   id: "01a0e9e9-73bd-7793-8109-284efb61fcc0",
   type: "page-type/image",
   slug: "image-b794f8462d0f866a",
+  title: "Reading Beneath the Wisteria Pergola",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
