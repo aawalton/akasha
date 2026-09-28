@@ -27,5 +27,6 @@ export const theDatingGame00032 = {
   ],
   lore: ["lore/the-dating-game-grace"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/picture"],
+  recordedBy: ["story-recorder/picture", "story-recorder/mechanics"],
+  endsAt: "2026-09-26T19:33:00.000Z",
 } as const satisfies StoryTurnPlayed
