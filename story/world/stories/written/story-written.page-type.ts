@@ -9,6 +9,12 @@ export const storyWritten = {
   pluralSlug: "stories",
   extends: ["page-type/story"],
   runsTabooCheck: false,
+  detailConfig: {
+    header: {
+      showCover: true,
+      fields: [],
+    },
+  },
   parts: ["page-type/story-chapter-written"],
   decisions: [
     {
