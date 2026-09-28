@@ -120,6 +120,10 @@ export const otherwhereIiiDenisePruitt = {
         "character-other/otherwhere-iii-denise-pruitt",
       ],
     },
+    {
+      fact: "Denise takes no for an answer about calling home, and does not ask twice.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
