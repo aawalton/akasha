@@ -7,9 +7,22 @@ export const otherwhere00008 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 8,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Okay, isekai protocol. System? Status? Character sheet? If you left me here with truly nothing, I might as well fucking die now, and then I won’t be any entertainment for anyone.”",
+  beats: [
+    "Nala stands at the stream mouth, the salt still on her tongue, and speaks to the empty air.",
+    '"Okay, isekai protocol. System? Status? Character sheet?"',
+    "Nothing appears: no window, no voice, no text, no change in the light.",
+    "She waits; the surf breaks behind her, gulls cry, the stream runs over the sand.",
+    '"If you left me here with truly nothing, I might as well fucking die now," she says.',
+    '"And then I won\'t be any entertainment for anyone."',
+    "Still nothing; no answer comes from anywhere, and the air in front of her stays empty.",
+    "Her voice carries up the stream between the reeds.",
+    "Twenty paces upstream, the nearer lizard's head lifts off the mud and turns toward her.",
+    "Its half-closed eyes open fully and fix on her.",
+    "Its tongue slides out, forked and dark, and tastes the air in her direction.",
+  ],
   lore: ["lore/otherwhere-interface", "lore/otherwhere-mire-monitors"],
   endsAt: "2026-09-28T15:05:00.000Z",
 } as const satisfies StoryTurnPlayed
