@@ -8,6 +8,9 @@ export const image8ac78803ac20a5f0 = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-e5d67823c7d0d8fd",
+  title: "Selah at Prayer in the Golden Grass",
+  persona: "persona/selah",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",
