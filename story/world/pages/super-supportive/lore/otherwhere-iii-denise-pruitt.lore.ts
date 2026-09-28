@@ -7,5 +7,11 @@ export const otherwhereIiiDenisePruitt = {
   title: "Denise Pruitt",
   world: "world/super-supportive",
   about: "character-other/otherwhere-iii-denise-pruitt",
+  facts: [
+    {
+      fact: "The nurse is Denise Pruitt, forty-six, an emergency-room nurse.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
