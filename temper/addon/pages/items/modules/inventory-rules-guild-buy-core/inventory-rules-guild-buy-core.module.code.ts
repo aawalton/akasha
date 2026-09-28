@@ -8,9 +8,9 @@ export interface GuildListing<Id> {
   readonly maxPrice: number | undefined
 }
 
-export type GuildMiss = "none-listed" | "no-price" | "over-price" | "over-shortfall" | "over-gold"
+type GuildMiss = "none-listed" | "no-price" | "over-price" | "over-shortfall" | "over-gold"
 
-export interface GuildPicks<Id> {
+interface GuildPicks<Id> {
   readonly picks: readonly GuildListing<Id>[]
   readonly miss: GuildMiss | undefined
 }
