@@ -288,5 +288,9 @@ export const theDatingGameAlan = {
       fact: "To Alan, a few weeks ago feels no different than forty years or forty seconds ago.",
       knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
     },
+    {
+      fact: "Alan feels he looks at time from outside, from the side, all but the present moment.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
+    },
   ],
 } as const satisfies Lore

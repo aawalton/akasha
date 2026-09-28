@@ -4,13 +4,14 @@ export const theDatingGame00037 = {
   id: "01a0e58f-c615-750f-a220-4668d84aa41c",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-037",
+  cover: "image/image-29164bb10e68d06c",
   ownLength: 102,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 37,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "“Nothing ever close or far. It just is. Almost like standing outside of time and looking at it from the side, other than this one moment I’m experiencing now.”",
   beats: [
@@ -24,6 +25,6 @@ export const theDatingGame00037 = {
     "\"I'm due at a bedside at eight. I'll have to go soon.\"",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-26T19:42:00.000Z",
 } as const satisfies StoryTurnPlayed

@@ -64,6 +64,18 @@ export const theDatingGameGrace = {
       fact: "Grace has watched, over and over, that the dying know who came to see them.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "Grace wears a watch on her wrist.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Grace told Alan she's glad to be in this moment with him.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Grace told Alan she is due at a bedside at eight, so she must leave soon.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
