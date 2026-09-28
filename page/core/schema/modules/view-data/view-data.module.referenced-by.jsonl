@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/core/schema/modules/listing-config/listing-config.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/core/schema/modules/listing-config/listing-config.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/core/view-state/modules/reducers/reducers.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/core/view-state/modules/reducers/reducers.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/core/view-state/modules/view-state-change/view-state-change.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/core/view/modules/apply-filters/apply-filters.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/core/view/modules/apply-filters/apply-filters.module.test.ts","typed":true,"deferred":false}

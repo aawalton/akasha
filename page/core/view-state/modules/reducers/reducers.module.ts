@@ -6,7 +6,28 @@ export const reducers = {
   slug: "reducers",
   definition: "the effects a view-editing command produces",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A view's settings are written as the view properties a view page is read by.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A filter on today is written as a narrow on the day or on the day after it.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A filter no narrow can say is left unwritten.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A setting the view page type declares no property for is left unwritten.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "A view's page type is written only where the update names its slug.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "Two nav items may each have a view of the same name.",
