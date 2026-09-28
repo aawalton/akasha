@@ -14,7 +14,7 @@ export const haremHotel00004 = {
     "character-other/harem-hotel-odile",
     "character-other/harem-hotel-wren",
   ],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     '"Now its your turn, kiss each other while I work on warming you up." I reach one hand down each of their skirts and start fingering them, first slowly, then accelerating, adding one finger at a time and curling them inside.',
   beats: [
@@ -43,5 +43,5 @@ export const haremHotel00004 = {
     'The concierge, eyes shut, says through her teeth, "Not yet, sir, not—" and doesn\'t finish.',
   ],
   lore: ["lore/harem-hotel-wren"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
