@@ -1,3 +1,5 @@
 {"propertySlug":"import","fileName":"edits.file-property.types.ts","path":"agent/agent.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"edits.file-property.types.ts","path":"story/world/stories/written/chapters/story-chapter-written.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}
+{"propertySlug":"page-property","path":"story/world/stories/written/chapters/story-chapter-written.page-type.ts","id":"01a06554-d8bd-712b-86b4-ade0001027ee"}
 {"propertySlug":"parts","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}

@@ -8,6 +8,15 @@ export const storyChapterWritten = {
   pluralSlug: "chapters",
   extends: ["page-type/chapter"],
   runsTabooCheck: false,
+  properties: [
+    {
+      pageProperty: "file-property/edits",
+      required: false,
+      many: false,
+      uncommitted: true,
+      default: "jsonl",
+    },
+  ],
   parts: ["module/chapter-making", "module/chapter-panels"],
   detailConfig: {
     frame: {
@@ -42,6 +51,10 @@ export const storyChapterWritten = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A chapter at player is published.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The recorders' drafted edits wait beside the chapter until its last recorder.",
     },
     {
       decisionKind: "decision-kind/absence",
