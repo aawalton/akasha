@@ -4,6 +4,8 @@ export const imageE49df5e74e38ebc8 = {
   id: "01a0e9e8-38b1-777b-b73a-479d6f56360f",
   type: "page-type/image",
   slug: "image-e49df5e74e38ebc8",
+  title: "Red Lips and Postcards by the Boxwood",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
