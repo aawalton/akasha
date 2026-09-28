@@ -31,6 +31,10 @@ export const superSupportiveArtonanConsulate4 = {
       fact: "The lobby has pale terrazzo floors and a dark wood ceiling of LEDs mapping Artonan stars.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Tourists photograph Gorgon as the 'Desk Demon'; crickets live in the lobby plants.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   within: "place/otherwhere-iii-chicago",
   secrets: "jsonl",
