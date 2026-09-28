@@ -1,10 +1,12 @@
 {"propertySlug":"extends-type","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/utility-skills/otherwhere-v-utility-skill.page-type.ts","id":"01a0ea01-5719-755d-94fd-72e8bfea55a6"}
+{"propertySlug":"extends-type","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/techniques/otherwhere-vii-technique.page-type.ts","id":"01a0ea42-574f-7ae4-a171-8beea7d4ce9a"}
 {"propertySlug":"extends-type","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/skills/otherwhere-i-skill.page-type.ts","id":"01a0e7f8-cd1e-7c5f-99ea-3fcf5cc7205a"}
 {"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/tower-skill.page-type.ts","id":"01a0de18-0b70-753b-98c7-6ffd7532c175"}
 {"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"command/modules/mechanic-defining/mechanic-defining.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/utility-skills/otherwhere-v-utility-skill.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/techniques/otherwhere-vii-technique.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere-ii/mechanics/skills/otherwhere-ii-mana-dart.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere-ii/mechanics/skills/otherwhere-ii-mend.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/mechanics/skills/otherwhere-i-shelf-sight.world-skill.ts","typed":true,"deferred":false}
@@ -4608,6 +4610,7 @@
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/skills/zone-of-interception-fire.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/skills/zweihander-chop.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
+{"propertySlug":"target-page-type","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/techniques/properties/otherwhere-vii-technique-skill.relation-property.ts","id":"01a0ea42-5750-7b6a-b202-2e2bf40eda5f"}
 {"propertySlug":"target-page-type","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/skills/properties/otherwhere-the-library-skill-skill.relation-property.ts","id":"01a0e7f8-cd1e-76ba-b198-8d20f32bce13"}
 {"propertySlug":"target-page-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/properties/tower-skill-skill.relation-property.ts","id":"01a0de38-6904-7a1f-9e70-06ff4082bec7"}
 {"propertySlug":"view-page-type","path":"page/view/pages/skills-alphabetical.view.ts","id":"01a0c954-1289-70ab-9473-94b0ce50f4b5"}
