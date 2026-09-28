@@ -174,7 +174,7 @@ export const otherwhereVFernHollow = {
     },
     {
       fact: "Between them is a fern slope, waist-high, over moss, roots and scattered bark scales.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: "Feeling her way barefoot in full dark, crossing those eighty yards takes about five minutes.",
@@ -195,6 +195,18 @@ export const otherwhereVFernHollow = {
     {
       fact: "Curled in the log's dry punk, cold comes on at half the rate it does on open ground.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The fallen log's mouth lies eighty yards downslope of the clawed trunk, across the hollow.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+    },
+    {
+      fact: "The ferns' ticking falls quiet right around anyone walking through, then resumes behind them.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+    },
+    {
+      fact: "In full dark the drifting green lights light nothing; they are only points to steer between.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
   ],
 } as const satisfies Place

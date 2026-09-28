@@ -4,13 +4,14 @@ export const otherwhereV00004 = {
   id: "01a0ea12-2400-791a-86c2-adbfe667b19c",
   type: "page-type/story-turn-played",
   slug: "otherwhere-v-00-004",
+  cover: "image/image-6e25baffd6a1f965",
   ownLength: 291,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-v"],
   position: 4,
   prose: "txt",
   characters: ["character-player/otherwhere-v-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I quietly make my way back to the hollow trunk and crawl inside, hoping the narrow passage and smell of decay will hide me from threats.",
   beats: [
@@ -29,6 +30,6 @@ export const otherwhereV00004 = {
   ],
   lore: ["place/otherwhere-v-fern-hollow", "lore/otherwhere-v-gloamcat"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T19:01:00.000Z",
 } as const satisfies StoryTurnPlayed

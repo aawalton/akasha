@@ -117,5 +117,9 @@ export const otherwhereVGloamcat = {
       fact: "At first light a gloamcat goes back to its den to sleep.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Night, day one: something large moved under the ferns toward Nala's back as she crept to the log.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+    },
   ],
 } as const satisfies Lore
