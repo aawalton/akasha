@@ -24,4 +24,5 @@ export const theDatingGame00038 = {
     '"She touches his arm lightly in goodbye" - at level 1 touch goes no further than a greeting',
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
