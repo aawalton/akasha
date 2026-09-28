@@ -4,6 +4,8 @@ export const image6966d58d195260e3 = {
   id: "01a0e9d9-7be9-7bd6-b061-967b3da626fe",
   type: "page-type/image",
   slug: "image-6966d58d195260e3",
+  title: "Yellow Strings by the Lily Pond",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
