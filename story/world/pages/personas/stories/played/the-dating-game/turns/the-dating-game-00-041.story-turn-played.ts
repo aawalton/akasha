@@ -4,6 +4,7 @@ export const theDatingGame00041 = {
   id: "01a0e807-ac72-7edc-9d3f-e9476f896a1a",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-041",
+  cover: "image/image-5943a09d3d51384c",
   ownLength: 147,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
@@ -25,6 +26,6 @@ export const theDatingGame00041 = {
     'She starts folding the tripod. "I\'m doing my cooldown up the trail a ways before I head down."',
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-27T10:12:00.000Z",
 } as const satisfies StoryTurnPlayed
