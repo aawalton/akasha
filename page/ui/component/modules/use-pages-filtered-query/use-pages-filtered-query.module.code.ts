@@ -28,6 +28,7 @@ import {
 } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { usePageViewQuery } from "akasha/page/ui/supabase/modules/hooks-view-query/hooks-view-query.module.code.ts"
 import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
+import { useReadViewConfig } from "akasha/page/ui/supabase/modules/use-read-view-config/use-read-view-config.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useMemo } from "react"
 
@@ -119,28 +120,33 @@ export function usePagesFilteredQuery(args: {
   const rawDirection = primarySort ? String(primarySort.direction ?? "desc") : undefined
   const sortDirection: "asc" | "desc" | undefined =
     rawDirection === "asc" || rawDirection === "desc" ? rawDirection : undefined
+  const read = useReadViewConfig(effectiveConfig, properties, pageTypes)
+  const readConfig = read.viewConfig
   const viewFilters = useMemo(() => {
-    if (effectiveConfig?.filters == null || effectiveConfig.filters.length === 0) return undefined
-    return effectiveConfig.filters.map((f) => ({
+    if (readConfig?.filters == null || readConfig.filters.length === 0) return undefined
+    return readConfig.filters.map((f) => ({
       propertyId: f.propertyId,
       operator: f.operator,
       value: f.value,
     }))
-  }, [effectiveConfig?.filters])
+  }, [readConfig?.filters])
 
   const flatResult = usePageViewQuery(
-    buildFlatQueryArgs({
-      groupByPropertyId,
-      spanDescendants,
-      targetPageTypeId,
-      pageTypeSlug,
-      effectiveConfig,
-      properties,
-    }) ?? { pageTypeId: NEVER_MATCH_VALUE, viewConfig: undefined }
+    (readConfig === undefined
+      ? undefined
+      : buildFlatQueryArgs({
+          groupByPropertyId,
+          spanDescendants,
+          targetPageTypeId,
+          pageTypeSlug,
+          effectiveConfig: readConfig,
+          properties,
+        })) ?? { pageTypeId: NEVER_MATCH_VALUE, viewConfig: undefined }
   )
 
   const groupedResult = useGroupByPaginatedQuery({
-    pageTypeSlug: groupedSlugOf(groupByPropertyId, pageTypeSlug),
+    pageTypeSlug:
+      readConfig === undefined ? NEVER_MATCH_SLUG : groupedSlugOf(groupByPropertyId, pageTypeSlug),
     groupPropertyId: groupByPropertyId ?? "",
     sortPropertyId:
       sortPropertyId != null && sortPropertyId.length > 0 ? sortPropertyId : undefined,
@@ -159,9 +165,7 @@ export function usePagesFilteredQuery(args: {
   const canLoadMore = spanDescendants || groupByPropertyId != null ? false : flatResult.hasMore
   const isLoading = spanDescendants
     ? descendantIsLoading
-    : groupByPropertyId != null
-      ? groupedResult.isLoading
-      : flatResult.isLoading
+    : read.pending || (groupByPropertyId != null ? groupedResult.isLoading : flatResult.isLoading)
   const totalCount: number | null = spanDescendants
     ? descendantPages.length
     : groupByPropertyId != null
@@ -225,6 +229,8 @@ export function usePagesFilteredQuery(args: {
     pageTypeName,
     baseFilters,
     effectiveConfig,
+    localFilters: read.ownFilters,
+    error: read.error ?? flatResult.error,
     loadMore,
     canLoadMore,
     isLoading,

@@ -81,6 +81,8 @@ export function PagesFilteredContent({
     pageTypeName,
     baseFilters,
     effectiveConfig,
+    localFilters,
+    error,
     loadMore,
     canLoadMore,
     isLoading,
@@ -187,6 +189,14 @@ export function PagesFilteredContent({
                 }
           }
         >
+          {error !== null ? (
+            <div
+              role="alert"
+              className="rounded-md border border-red/40 bg-red/10 p-3 text-red text-sm"
+            >
+              {error.message}
+            </div>
+          ) : null}
           <PageSystemTabContent
             key={shownView}
             items={pageRows}
@@ -194,7 +204,7 @@ export function PagesFilteredContent({
             properties={properties}
             storagePrefix={`pages-filtered-${pageTypeSlug}`}
             totalCount={totalCount}
-            defaultFilters={effectiveConfig.filters}
+            defaultFilters={localFilters}
             defaultSorts={effectiveConfig.sorts}
             defaultGroupBy={effectiveConfig.group_by}
             defaultGroupSorts={effectiveConfig.group_sorts}
