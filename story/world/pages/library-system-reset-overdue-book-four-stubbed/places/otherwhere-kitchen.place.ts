@@ -8,7 +8,7 @@ export const otherwhereKitchen = {
   world: "world/library-system-reset-overdue-book-four-stubbed",
   exits: [
     {
-      to: "place/otherwhere-main-hall",
+      to: "place/otherwhere-the-library-main-hall",
       way: "Back along the short corridor and through the arched door into the main hall.",
       direction: "east",
     },

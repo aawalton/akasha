@@ -45,7 +45,7 @@ export const otherwhereTheLibrary00071 = {
     "lore/otherwhere-the-library-universe",
     "lore/otherwhere-the-library-peoples",
     "lore/otherwhere-the-library-alan",
-    "place/otherwhere-main-hall",
+    "place/otherwhere-the-library-main-hall",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],

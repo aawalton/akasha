@@ -9,7 +9,7 @@ export const otherwhereBreakRoom = {
   depth: 0,
   exits: [
     {
-      to: "place/otherwhere-main-hall",
+      to: "place/otherwhere-the-library-main-hall",
       way: "Through the plain wooden door onto the main hall's left side, partway back along the columns.",
       direction: "west",
     },
