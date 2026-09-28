@@ -7,5 +7,6 @@ export const haremHotel00001 = {
   partOfCollections: ["story-played/harem-hotel"],
   position: 1,
   unit: "unit/words",
-  turnStatus: "turn-status/world-builder",
+  turnStatus: "turn-status/game-master",
+  lore: ["place/harem-hotel-floor-1", "lore/harem-hotel-odile", "lore/harem-hotel-wren"],
 } as const satisfies StoryTurnPlayed
