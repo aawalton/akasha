@@ -10,6 +10,7 @@ import {
 } from "akasha/alan/collection/royal-road/modules/held/royal-road-held.module.code.ts"
 import type { RawChapter } from "akasha/alan/collection/royal-road/modules/pages/royal-road-pages.module.code.ts"
 import {
+  betweenRequests,
   fetchHtml,
   parseChapterProse,
   parseFictionPage,
@@ -53,7 +54,6 @@ const TXT = "txt"
 const WORDS = `${unit.slug}/${words.slug}` as const
 const STORY = "story"
 const IDENTITY = "externalIdentity"
-const REQUEST_DELAY_MS = 1500
 const POSITION_DIGITS = 4
 const BATCH_CEILING = 50
 const COMMIT = "--commit"
@@ -68,10 +68,6 @@ const DAY = /^\d{4}-\d{2}-\d{2}$/
 const STATUS_KEPT = new Set(["ongoing", "completed", "hiatus"])
 
 export class SyncRefused extends Error {}
-
-function delay(ms: number): Promise<void> {
-  return new Promise((resolve) => setTimeout(resolve, ms))
-}
 
 export function slugify(title: string): string {
   return title
@@ -254,7 +250,7 @@ async function syncStory(
 ): Promise<void> {
   const fictionUrl = royalRoadUrl(`/fiction/${story.externalId}/${story.slug}`)
   const fiction = parseFictionPage(await fetchHtml(fictionUrl))
-  await delay(REQUEST_DELAY_MS)
+  await betweenRequests()
 
   const pending = fiction.chapters.filter(
     (one) => one.visible && one.isUnlocked && !held.ids.has(one.id)
@@ -273,7 +269,7 @@ async function syncStory(
     budget.left -= 1
     try {
       const prose = parseChapterProse(await fetchHtml(royalRoadUrl(chapter.url)))
-      await delay(REQUEST_DELAY_MS)
+      await betweenRequests()
       if (!prose.ok) {
         console.log(`    no prose: ${royalRoadUrl(chapter.url)} — ${prose.why}`)
         counts.failed += 1

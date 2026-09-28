@@ -7,6 +7,12 @@ const ROYAL_ROAD_ORIGIN = "https://www.royalroad.com"
 const USER_AGENT =
   "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
 
+const REQUEST_DELAY_MS = 1500
+
+export function betweenRequests(): Promise<void> {
+  return new Promise((resolve) => setTimeout(resolve, REQUEST_DELAY_MS))
+}
+
 export function royalRoadUrl(path: string): string {
   return path.startsWith("http") ? path : `${ROYAL_ROAD_ORIGIN}${path}`
 }
@@ -227,9 +233,13 @@ export function parseChapterProse(html: string): ProseRead {
   return { ok: true, text, wordCount: countChapterWords(text) }
 }
 
-export async function fetchHtml(url: string): Promise<string> {
+export async function fetchHtml(url: string, cookie?: string): Promise<string> {
   const response = await fetch(url, {
-    headers: { "user-agent": USER_AGENT, accept: "text/html,application/xhtml+xml" },
+    headers: {
+      "user-agent": USER_AGENT,
+      accept: "text/html,application/xhtml+xml",
+      ...(cookie === undefined ? {} : { cookie }),
+    },
     signal: AbortSignal.timeout(45_000),
   })
   if (!response.ok) throw new Error(`${response.status} ${response.statusText} for ${url}`)
