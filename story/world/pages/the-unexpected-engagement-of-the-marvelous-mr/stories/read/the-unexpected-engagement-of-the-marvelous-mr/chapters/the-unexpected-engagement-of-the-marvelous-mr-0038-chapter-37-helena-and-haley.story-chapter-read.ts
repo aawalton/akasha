@@ -4,6 +4,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0038Chapter37HelenaAndHaley 
   id: "01a06730-4e42-7b51-b32f-a5060e5c759b",
   type: "page-type/story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0038-chapter-37-helena-and-haley",
+  ownProgress: 3024,
   title: "Chapter 37 - Helena and Haley",
   story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 38,

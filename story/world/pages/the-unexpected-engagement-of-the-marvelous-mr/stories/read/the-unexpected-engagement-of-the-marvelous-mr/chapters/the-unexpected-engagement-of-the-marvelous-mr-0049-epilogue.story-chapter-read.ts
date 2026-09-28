@@ -4,6 +4,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0049Epilogue = {
   id: "01a06730-4e48-78f0-84cf-c48fe1196dd0",
   type: "page-type/story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0049-epilogue",
+  ownProgress: 1309,
   title: "Epilogue",
   story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 49,

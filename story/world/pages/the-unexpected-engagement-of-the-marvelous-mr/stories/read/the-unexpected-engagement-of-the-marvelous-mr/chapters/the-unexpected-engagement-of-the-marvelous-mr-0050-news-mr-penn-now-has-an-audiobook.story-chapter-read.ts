@@ -4,6 +4,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0050NewsMrPennNowHasAnAudiob
   id: "01a06730-4e48-7de7-b124-9609760942ba",
   type: "page-type/story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0050-news-mr-penn-now-has-an-audiobook",
+  ownProgress: 151,
   title: "News! - Mr. Penn now has an audiobook!",
   story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 50,

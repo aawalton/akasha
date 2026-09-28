@@ -18,6 +18,6 @@ export const ultimateLevel1LitrpgBook11Stubs3100006LifeUpdateSinceSoManyHaveAske
     },
   ],
   publishedAt: "2026-01-09",
-  ownProgress: 257,
+  ownProgress: 366,
   prose: "txt",
 } as const satisfies StoryChapterRead

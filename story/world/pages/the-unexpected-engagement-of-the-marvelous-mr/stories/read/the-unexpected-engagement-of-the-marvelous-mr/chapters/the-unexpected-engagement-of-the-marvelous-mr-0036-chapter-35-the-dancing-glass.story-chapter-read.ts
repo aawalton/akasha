@@ -4,6 +4,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0036Chapter35TheDancingGlass
   id: "01a06730-4e41-7649-9b15-31636dfe3020",
   type: "page-type/story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0036-chapter-35-the-dancing-glass",
+  ownProgress: 2555,
   title: "Chapter 35 - The Dancing Glass",
   story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 36,

@@ -4,6 +4,7 @@ export const ultimateLevel1LitrpgBook11Stubs3100007Book11Stubs310AlsoOtherStuffI
   id: "01a06730-50ac-7e33-8088-2d5b326dc06e",
   type: "page-type/story-chapter-read",
   slug: "ultimate-level-1-litrpg-book-11-stubs-310-0007-book-11-stubs-3-10-also-other-stuff-inside",
+  ownProgress: 110,
   title: "Book 11 Stubs 3/10! Also other stuff inside",
   story: "story-read/ultimate-level-1-litrpg-book-11-stubs-310",
   position: 7,

@@ -4,6 +4,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0035Chapter34HaleyAndFitzmon
   id: "01a06730-4e41-7b73-8510-de7a117eaee0",
   type: "page-type/story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0035-chapter-34-haley-and-fitzmon",
+  ownProgress: 3390,
   title: "Chapter 34 - Haley and Fitzmon",
   story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 35,
