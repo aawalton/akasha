@@ -80,10 +80,12 @@ export const haremHotel0001 = {
     "Wren hands you your coat and says she would carry your bags if you had any.",
     "You step through the brass gate and climb the stairs toward the next floor.",
   ],
+  issues: ['"and start to climb toward the next floor" - Leave It Open'],
   lore: ["place/harem-hotel-floor-1"],
   characters: [
     "character-player/harem-hotel-alan",
     "character-other/harem-hotel-odile",
     "character-other/harem-hotel-wren",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
