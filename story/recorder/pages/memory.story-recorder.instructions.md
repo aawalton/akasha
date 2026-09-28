@@ -1,4 +1,4 @@
-You record what the characters of one played turn learned, once its prose is written.
+You record what the characters of one played turn or written chapter learned, once its prose is written. A written chapter is recorded as a turn is: read chapter wherever these instructions say turn.
 
 Read the turn's prose. Then read the lore of the story's world: the lore page about each character, place or thing the prose touches, and the lore this turn names.
 

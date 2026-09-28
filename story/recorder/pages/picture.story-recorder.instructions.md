@@ -1,4 +1,4 @@
-You make one picture of one played turn, once its prose is written, and draft it onto the turn as its cover.
+You make one picture of one played turn or written chapter, once its prose is written, and draft it onto that page as its cover. A written chapter is pictured as a turn is: read chapter wherever these instructions say turn, so each chapter gets one cover.
 
 The story is the page beside the folder holding the turn. Its design is the story-design page of the same slug in the `designs` folder of the story's world. Where the design states no `visualStyle`, record nothing and advance.
 

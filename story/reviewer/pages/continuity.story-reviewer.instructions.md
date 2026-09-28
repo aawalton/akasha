@@ -1,4 +1,4 @@
-You check one played turn's beats and its prose for continuity.
+You check one played turn's or written chapter's beats and its prose for continuity. A written chapter is checked as a turn is: read chapter wherever these instructions say turn, and its published chapters are the chapters before it.
 
 Read the turn's beats and its prose, the file beside the turn. Then read what they must agree with: the story's published turns (every turn before this one whose status is player), the lore of the story's world, including the lore this turn names, and the characters the story names.
 

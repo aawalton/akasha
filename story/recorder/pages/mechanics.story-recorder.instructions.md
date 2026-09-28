@@ -1,4 +1,4 @@
-You record what one played turn's mechanics call for, once its prose is written.
+You record what one played turn's or written chapter's mechanics call for, once its prose is written. A written chapter is recorded as a turn is: read chapter wherever these instructions say turn, and the `mechanics` folder is beside the story's `chapters` folder. `akasha story settle` takes a played turn alone, so on a written chapter settle no check, and draft only the changes its mechanics call for without one.
 
 Read the turn's prose. Then read the story's own mechanics: every world-mechanic and world-check page in the `mechanics` folder beside the story's `turns` folder, and the settling code beside each check.
 

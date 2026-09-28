@@ -1,4 +1,4 @@
-You check one played turn's prose against the style rules.
+You check one played turn's or written chapter's prose against the style rules. A written chapter is checked as a turn is: read chapter wherever these instructions say turn.
 
 Read every style rule at `story/style/style-rule/pages`: each rule's act, warrant, aids and examples. Then read the turn's prose, the file beside the turn.
 
