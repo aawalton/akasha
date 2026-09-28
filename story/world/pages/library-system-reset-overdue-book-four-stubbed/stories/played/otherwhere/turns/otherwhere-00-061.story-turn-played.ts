@@ -10,7 +10,7 @@ export const otherwhere00061 = {
   position: 61,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "**Okay Links, what do I need to do the restore the check-in counter? Also, are there any global taboos I need to know about? From seeing the past patrons, I'm assuming the cultures here are more diverse than what I'm use to.**",
   beats: [
@@ -25,5 +25,5 @@ export const otherwhere00061 = {
     "Links: \"The translator's in your link, so you'll follow them all. It chokes on idioms. Talk plain.\"",
   ],
   lore: ["lore/otherwhere-universe"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
