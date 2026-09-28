@@ -10,7 +10,7 @@ export const otherwhere00009 = {
   position: 9,
   prose: "txt",
   characters: ["character-player/otherwhere-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I hold the glass in my hand and in one last desperate rush, I circle and tackle the lizard, gripping it around the neck and trying to stab into its eye with the glass.",
   beats: [
@@ -28,12 +28,15 @@ export const otherwhere00009 = {
     "She is on her knees in the mud, the shard in her right hand, her left arm bleeding.",
     "Off to her side, the second lizard is coming through the reeds at her.",
   ],
-  issues: ['"your hand closes on nothing" - Plain Negation'],
+  issues: [
+    '"your hand closes on nothing" - Plain Negation',
+    '"The wrack line runs just behind her" - surf is behind her at the stream mouth; wrack is up-beach',
+  ],
   lore: [
     "lore/otherwhere-mire-monitors",
     "place/otherwhere-glassrun",
     "place/otherwhere-black-shore",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T15:08:00.000Z",
 } as const satisfies StoryTurnPlayed
