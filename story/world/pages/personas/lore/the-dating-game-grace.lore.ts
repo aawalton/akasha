@@ -60,6 +60,10 @@ export const theDatingGameGrace = {
       fact: "Grace walks the cemetery most evenings to get ready for her night shift.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "Grace has watched, over and over, that the dying know who came to see them.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

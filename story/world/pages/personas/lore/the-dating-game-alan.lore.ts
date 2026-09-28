@@ -276,5 +276,17 @@ export const theDatingGameAlan = {
       fact: "Alan's grandfather didn't want to live his last ten years, but made peace with it in the end.",
       knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
     },
+    {
+      fact: "Alan wasn't at his grandfather's death; the room was small and the old man's kids were there.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
+    },
+    {
+      fact: "Alan saw his grandfather about a week before he died.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
+    },
+    {
+      fact: "To Alan, a few weeks ago feels no different than forty years or forty seconds ago.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
+    },
   ],
 } as const satisfies Lore
