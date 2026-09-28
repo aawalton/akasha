@@ -1,12 +1,10 @@
 import type { OtherwhereTheLibraryRoom } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/otherwhere-the-library-room.page-type.types.ts"
 
-export const otherwhereQuarters = {
-  id: "01a0e836-4c63-7f9e-8a3f-6394e66ba43f",
+export const otherwhereTheLibraryBreakRoom = {
+  id: "01a0e836-4c62-7b91-b337-85281cc6f171",
   type: "page-type/otherwhere-the-library-room",
-  slug: "otherwhere-quarters",
-  title: "The Librarian's Quarters",
+  slug: "otherwhere-the-library-break-room",
+  title: "The Break Room",
   world: "world/library-system-reset-overdue-book-four-stubbed",
-  lit: true,
-  place: "place/otherwhere-the-library-quarters",
-  shownTo: ["character-player/otherwhere-alan"],
+  lit: false,
 } as const satisfies OtherwhereTheLibraryRoom

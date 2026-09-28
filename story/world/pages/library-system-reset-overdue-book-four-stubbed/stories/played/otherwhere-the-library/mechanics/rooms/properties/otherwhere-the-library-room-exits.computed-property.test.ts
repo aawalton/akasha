@@ -9,10 +9,10 @@ import { otherwhereTheLibraryMainHall as hallPlace } from "akasha/story/world/pa
 import { otherwhereAlan } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/characters/otherwhere-alan.character-player.ts"
 import { otherwhereTheLibraryRoom } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/otherwhere-the-library-room.page-type.ts"
 import type { OtherwhereTheLibraryRoom } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/otherwhere-the-library-room.page-type.types.ts"
-import { otherwhereBreakRoom } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/pages/otherwhere-break-room.otherwhere-the-library-room.ts"
-import { otherwhereCoreChamber } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/pages/otherwhere-core-chamber.otherwhere-the-library-room.ts"
-import { otherwhereKitchen } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/pages/otherwhere-kitchen.otherwhere-the-library-room.ts"
-import { otherwhereMainHall } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/pages/otherwhere-main-hall.otherwhere-the-library-room.ts"
+import { otherwhereTheLibraryBreakRoom } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/pages/otherwhere-the-library-break-room.otherwhere-the-library-room.ts"
+import { otherwhereTheLibraryCoreChamber } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/pages/otherwhere-the-library-core-chamber.otherwhere-the-library-room.ts"
+import { otherwhereTheLibraryKitchen } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/pages/otherwhere-the-library-kitchen.otherwhere-the-library-room.ts"
+import { otherwhereTheLibraryMainHall } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/pages/otherwhere-the-library-main-hall.otherwhere-the-library-room.ts"
 import {
   ROOMS,
   work,
@@ -26,16 +26,20 @@ const CORE_PLACE = namedAs(place.slug, corePlace.slug, null)
 
 const KITCHEN_PLACE = namedAs(place.slug, kitchenPlace.slug, null)
 
-const HALL: OtherwhereTheLibraryRoom = { ...otherwhereMainHall, place: HALL_PLACE, shownTo: [NALA] }
+const HALL: OtherwhereTheLibraryRoom = {
+  ...otherwhereTheLibraryMainHall,
+  place: HALL_PLACE,
+  shownTo: [NALA],
+}
 
 const CORE: OtherwhereTheLibraryRoom = {
-  ...otherwhereCoreChamber,
+  ...otherwhereTheLibraryCoreChamber,
   place: CORE_PLACE,
   shownTo: [NALA],
 }
 
 const KITCHEN: OtherwhereTheLibraryRoom = {
-  ...otherwhereKitchen,
+  ...otherwhereTheLibraryKitchen,
   place: KITCHEN_PLACE,
   shownTo: [NALA],
 }
@@ -77,7 +81,7 @@ test("an exit to a room not shown to the player is left out", () => {
 })
 
 test("a room with no place has no exits", () => {
-  const placeless: OtherwhereTheLibraryRoom = { ...otherwhereBreakRoom, shownTo: [NALA] }
+  const placeless: OtherwhereTheLibraryRoom = { ...otherwhereTheLibraryBreakRoom, shownTo: [NALA] }
   expect(work(placeless, reaching([placeless, CORE, KITCHEN]))).toBeNull()
 })
 

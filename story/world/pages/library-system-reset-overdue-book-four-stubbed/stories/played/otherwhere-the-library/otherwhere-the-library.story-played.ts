@@ -4,11 +4,11 @@ export const otherwhereTheLibrary = {
   id: "01a0e34e-a7be-7410-8c88-eac3dc918f7d",
   type: "page-type/story-played",
   slug: "otherwhere-the-library",
-  title: "Otherwhere",
+  title: "Otherwhere: The Library",
   world: "world/library-system-reset-overdue-book-four-stubbed",
   unit: "unit/words",
   externalId: "otherwhere-the-library",
-  coordinatorAgent: "iris-game-master-otherwhere",
+  coordinatorAgent: "iris-game-master-otherwhere-the-library",
   chapterBreak: "A task the Library set is done.",
   opensAt: "2026-09-26T00:00:00.000Z",
   panels: [
