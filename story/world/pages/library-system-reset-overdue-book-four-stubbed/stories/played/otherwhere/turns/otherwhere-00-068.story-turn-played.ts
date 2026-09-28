@@ -4,13 +4,14 @@ export const otherwhere00068 = {
   id: "01a0e83e-83fb-7207-a6b4-37df704c314c",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-068",
+  cover: "image/image-cd1f3abd1a73fbe1",
   ownLength: 112,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 68,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     '"You must be the shelving helpers. Go ahead and work on shelving all the unshelved books on the main floor, starting from the counter."',
   beats: [
@@ -24,6 +25,6 @@ export const otherwhere00068 = {
   ],
   lore: ["lore/otherwhere-golems"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T06:34:00.000Z",
 } as const satisfies StoryTurnPlayed
