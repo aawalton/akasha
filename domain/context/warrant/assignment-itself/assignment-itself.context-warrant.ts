@@ -40,6 +40,10 @@ export const assignmentItself = {
       statement: "A seat stating an initiative warrants the persona that initiative states.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat stating a game warrants the domain that game names.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A subagent warrants no persona here.",
     },

@@ -23,9 +23,14 @@ export const KIND =
 export const VOICE =
   "A seat assigned an initiative works for the persona that initiative states, and that persona is read before the seat is changed."
 
+export const GAME =
+  "A seat assigned a game answers for the domain that game names, and that domain is read before the seat is changed."
+
 const DOMAIN_TYPE = "domain"
 
 const INITIATIVE_TYPE = "initiative"
+
+const GAME_TYPE = "story-played"
 
 const PAGE_TYPE = "page-type"
 
@@ -73,5 +78,9 @@ export function assignmentItself(root: string, path: string): readonly Warrant[]
   const stated = typeStated(root, path, KEY) ?? DOMAIN_TYPE
   if (stated === INITIATIVE_TYPE) return initiativeOf(root, slug, partedIn(path)?.pageType === SEAT)
   const listed = listedAt(root, stated, slug)[0]
-  return listed === undefined ? [] : warrantAt(root, listed.path, ASSIGNMENT)
+  if (listed === undefined) return []
+  return [
+    ...warrantAt(root, listed.path, ASSIGNMENT),
+    ...(stated === GAME_TYPE ? namedUnder(root, listed.path, DOMAIN_KEY, GAME) : []),
+  ]
 }

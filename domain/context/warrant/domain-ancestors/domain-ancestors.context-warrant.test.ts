@@ -154,6 +154,25 @@ test("an initiative whose page cannot be found warrants none", () => {
   expect(pathsOf(domainAncestors(root, at))).toEqual([])
 })
 
+test("a seat stating a game walks from the domain that game names", () => {
+  const root = rootFor()
+  const top = domainListed(root, "akasha-system")
+  const mid = domainListed(root, "game-play")
+  namesPart(root, top, mid)
+  typedListed(root, "story-played", "one-game", `domain: "domain/game-play"`)
+  const at = seatListed(root, "one", `assignmentSlug: "story-played/one-game"`)
+  expect(pathsOf(domainAncestors(root, at))).toEqual([top.path])
+})
+
+test("a game naming no domain walks from the game itself", () => {
+  const root = rootFor()
+  const top = domainListed(root, "akasha-system")
+  const game = typedListed(root, "story-played", "one-game")
+  namesPart(root, top, game)
+  const at = seatListed(root, "one", `assignmentSlug: "story-played/one-game"`)
+  expect(pathsOf(domainAncestors(root, at))).toEqual([top.path])
+})
+
 test("a warrant carries the body above, and why it is owed", () => {
   const root = rootFor()
   const top = domainListed(root, "akasha-system")

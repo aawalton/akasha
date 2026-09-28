@@ -6,6 +6,7 @@ export const haremHotel = {
   slug: "harem-hotel",
   title: "Harem Hotel",
   world: "world/harem-hotel",
+  domain: "domain/harem-hotel-explicitness",
   unit: "unit/words",
   externalId: "harem-hotel",
   coordinatorAgent: "mari-game-master-harem-hotel",

@@ -26,6 +26,8 @@ const DOMAIN_TYPE = "domain"
 
 const INITIATIVE_TYPE = "initiative"
 
+const GAME_TYPE = "story-played"
+
 const KEY = "assignmentSlug"
 
 const DOMAIN_KEY = "domain"
@@ -43,9 +45,11 @@ function answeredFor(root: string, path: string): Listed | undefined {
   const slug = slugStated(root, path, KEY)
   if (slug === null) return undefined
   const stated = typeStated(root, path, KEY) ?? DOMAIN_TYPE
-  if (stated !== INITIATIVE_TYPE) return listedAt(root, stated, slug)[0]
-  const held = listedAt(root, INITIATIVE_TYPE, slug)[0]
-  return held === undefined ? undefined : domainOf(root, held.path)
+  const held = listedAt(root, stated, slug)[0]
+  if (held === undefined) return undefined
+  if (stated === INITIATIVE_TYPE) return domainOf(root, held.path)
+  if (stated === GAME_TYPE) return domainOf(root, held.path) ?? held
+  return held
 }
 
 export function domainAncestors(root: string, path: string): readonly Warrant[] {

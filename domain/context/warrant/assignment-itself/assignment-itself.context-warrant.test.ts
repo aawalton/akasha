@@ -15,6 +15,7 @@ import {
 import {
   ASSIGNMENT,
   assignmentItself,
+  GAME,
   KIND,
   VOICE,
   WITHIN,
@@ -173,6 +174,24 @@ test("an initiative naming no domain warrants no domain", () => {
   const work = initiativeListed(root, "one-work")
   const at = seatListed(root, "one", `assignmentSlug: "initiative/one-work"`)
   expect(pathsOf(assignmentItself(root, at))).toEqual([work.path, KIND_AT])
+})
+
+test("a seat stating a game warrants the domain that game names", () => {
+  const root = scratch.rootFor("akasha-assignment-itself-")
+  const domain = domainListed(root, "game-play")
+  const game = typedListed(root, "story-played", "one-game", `domain: "domain/game-play"`)
+  const at = seatListed(root, "one", `assignmentSlug: "story-played/one-game"`)
+  const said = assignmentItself(root, at)
+  expect(pathsOf(said)).toEqual([game.path, domain.path])
+  expect(said[1]?.owed).toBe(GAME)
+})
+
+test("a game naming no domain warrants no domain", () => {
+  const root = scratch.rootFor("akasha-assignment-itself-")
+  domainListed(root, "game-play")
+  const game = typedListed(root, "story-played", "one-game")
+  const at = seatListed(root, "one", `assignmentSlug: "story-played/one-game"`)
+  expect(pathsOf(assignmentItself(root, at))).toEqual([game.path])
 })
 
 test("an assignment not read is refused, and the refusal says why it is owed", () => {
