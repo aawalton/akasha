@@ -20,6 +20,7 @@ export const metricCharacterResource = {
     "page-type/otherwhere-health",
     "page-type/otherwhere-stamina",
     "page-type/otherwhere-mana",
+    "page-type/otherwhere-experience-points",
   ],
 
   types: "ts",
