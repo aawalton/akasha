@@ -10,16 +10,14 @@ export const theDatingGame00038 = {
   position: 38,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action: "“Mind if I join you again another night?”",
   beats: [
     'Alan: "Mind if I join you again another night?"',
     "Grace's smile comes slow and warm, all the way up into her gold eyes.",
     '"I\'d like that," she says. "Most evenings, about this hour. You know which step is mine."',
-    "She touches his arm lightly in goodbye, just once, and lets go.",
+    "She lifts the lantern a little in farewell, its light warm across them both.",
     '"Good night, Alan. Take care of this one for me."',
-    "She turns toward the far gate, the lantern swinging low at her side.",
-    "Its small gold light moves off between the dark rows of stones, under the pines.",
   ],
   issues: [
     '"Its small gold light moves off between the dark rows of stones" - Leave It Open',
