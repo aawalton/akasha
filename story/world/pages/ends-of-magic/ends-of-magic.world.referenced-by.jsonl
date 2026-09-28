@@ -17,6 +17,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-edicts.lore.ts","id":"01a0e9f4-c9f7-76cb-87ef-1e2091c3743b"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-elemental-folk.lore.ts","id":"01a0e9f4-fc80-7f28-b389-0e2387029ba8"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-elk-centaur.lore.ts","id":"01a0e9f4-0046-79c1-900f-9444ea5f32d6"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-enchanting.lore.ts","id":"01a0e9f6-5821-7069-9edb-069651a47e7a"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-fey.lore.ts","id":"01a0e9f4-fc81-750a-8142-745eb9ab1b78"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-foxfolk.lore.ts","id":"01a0e9f4-0047-7744-94f4-6835adf682b9"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-gemore.lore.ts","id":"01a0e9f5-4cc9-7093-96b4-2df7632fd825"}
@@ -49,6 +50,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-classes.world-mechanic.ts","id":"01a0e9f4-b58b-76b0-96e5-32ad38b6c219"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-divinity.world-mechanic.ts","id":"01a0e9f5-6823-7501-9e2c-53a3f7d54e97"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-edicts.world-mechanic.ts","id":"01a0e9f4-c9f8-7c27-b143-eab51f422edd"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-enchanting.world-mechanic.ts","id":"01a0e9f6-5822-75da-b38b-3df12678db92"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-levels.world-mechanic.ts","id":"01a0e9f5-a5d7-7ce0-a37c-2d433bb134b3"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-mana.world-mechanic.ts","id":"01a0e9f1-9e7c-76a5-9ea4-b57cfe527aad"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-ranks.world-mechanic.ts","id":"01a0e9f5-a5d7-7328-a028-7300ae370972"}
