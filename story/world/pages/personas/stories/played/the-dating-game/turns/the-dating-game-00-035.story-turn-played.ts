@@ -26,4 +26,5 @@ export const theDatingGame00035 = {
     '"Not everyone gets there. He did."',
     'She looks over at him, gentle. "Were you with him, at the end?"',
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
