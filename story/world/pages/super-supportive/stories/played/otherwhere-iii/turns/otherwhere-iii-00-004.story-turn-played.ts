@@ -13,7 +13,7 @@ export const otherwhereIii00004 = {
     "character-player/otherwhere-iii-nala",
     "character-other/otherwhere-iii-denise-pruitt",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "“Yes, please.” I say quietly. “My stupid EX-boyfriend left me here with nothing and I’m a thousand miles from home. I mean, I don’t usually mind the cold, but this is a little much for bare feet.”",
   beats: [
