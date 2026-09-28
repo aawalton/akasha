@@ -39,5 +39,13 @@ export const otherwhereIvHeadmanGu = {
         "character-other/otherwhere-iv-zhao-jun",
       ],
     },
+    {
+      fact: "Headman Gu sent the crowd from his gate, and his servant boy shut it and barred it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
+    },
   ],
 } as const satisfies Lore

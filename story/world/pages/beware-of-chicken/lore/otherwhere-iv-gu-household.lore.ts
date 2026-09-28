@@ -85,11 +85,19 @@ export const otherwhereIvGuHousehold = {
     },
     {
       fact: "He believes the sun is carried across Heaven each day, rising from the eastern sea.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
     {
       fact: "He believes the sun goes beneath the Earth by night and returns to the east by dawn.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
     {
       fact: "To Gu the sun moving is plain sight; saying the Earth moves would sound like madness.",

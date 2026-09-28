@@ -122,5 +122,13 @@ export const otherwhereIvThreeStonesVillage = {
         "character-other/otherwhere-iv-zhao-jun",
       ],
     },
+    {
+      fact: "Word runs down the lane that Nala is a spirit holding a secret men have died for.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
+    },
   ],
 } as const satisfies Place
