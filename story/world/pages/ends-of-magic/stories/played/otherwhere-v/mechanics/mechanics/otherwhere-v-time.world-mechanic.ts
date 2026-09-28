@@ -6,5 +6,5 @@ export const otherwhereVTime = {
   slug: "otherwhere-v-time",
   title: "Time",
   world: "world/ends-of-magic",
-  description: "The day and hour it is where Nala is, counted in days from the evening she landed.",
+  description: "The day and hour it is where Nala is.",
 } as const satisfies WorldMechanic

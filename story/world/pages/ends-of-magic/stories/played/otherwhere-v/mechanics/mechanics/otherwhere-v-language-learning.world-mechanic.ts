@@ -6,5 +6,5 @@ export const otherwhereVLanguageLearning = {
   slug: "otherwhere-v-language-learning",
   title: "Language Learning",
   world: "world/ends-of-magic",
-  description: "Coming to understand and speak a tongue by hearing it and using it.",
+  description: "Coming to understand and speak a tongue.",
 } as const satisfies WorldMechanic
