@@ -7,7 +7,8 @@ export const otherwhereVi00002 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],
   position: 2,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     '"Okay" I say quietly to myself. "This is definitely not Earth. Isekai protocol. System? Status? Character Sheet? Menu?" I focus on myself and see if anything comes up.',
+  lore: ["lore/otherwhere-vi-system", "lore/otherwhere-vi-nala"],
 } as const satisfies StoryTurnPlayed
