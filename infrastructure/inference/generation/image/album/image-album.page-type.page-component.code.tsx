@@ -26,7 +26,7 @@ export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
   const named = typeof slug === "string" && slug !== "" ? namedAs(pageTypeSlug, slug, null) : null
   const searchParams = useMemo(() => (named === null ? null : { [ALBUMS]: named }), [named])
   return (
-    <PageDefaultContent pageTypeSlug={pageTypeSlug} id={id}>
+    <PageDefaultContent pageTypeSlug={pageTypeSlug} id={id} titleOnly>
       {searchParams !== null && (
         <PagesFilteredContent
           embedded

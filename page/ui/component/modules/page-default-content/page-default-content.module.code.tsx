@@ -45,10 +45,12 @@ export function PageDefaultContent({
   pageTypeSlug,
   id,
   children,
+  titleOnly = false,
 }: {
   pageTypeSlug: PageTypeSlug
   id: string
   children?: ReactNode
+  titleOnly?: boolean
 }) {
   const {
     page,
@@ -86,7 +88,7 @@ export function PageDefaultContent({
           relatedPages={relatedPages}
           pickerPageTypeSlug={targetSlug}
         >
-          <PageLayout.Content className="max-w-[710px]!">
+          <PageLayout.Content className={titleOnly ? "pb-0!" : "max-w-[710px]!"}>
             <div className="flex flex-col gap-4">
               <PageCover coverUrl={coverUrl} />
               <div className="flex items-center gap-2">
@@ -122,117 +124,129 @@ export function PageDefaultContent({
                 )}
               </div>
 
-              <PageDetailProperties
-                definitions={propertyListDefs}
-                data={data}
-                pageId={id}
-                pageTypeSlug={targetSlug ?? undefined}
-                editable={editing}
-                onPropertyChange={editing ? handlePropertyChange : undefined}
-                onPageNavigate={handlePageNavigate}
-              />
+              {!titleOnly && (
+                <>
+                  <PageDetailProperties
+                    definitions={propertyListDefs}
+                    data={data}
+                    pageId={id}
+                    pageTypeSlug={targetSlug ?? undefined}
+                    editable={editing}
+                    onPropertyChange={editing ? handlePropertyChange : undefined}
+                    onPageNavigate={handlePageNavigate}
+                  />
 
-              {editing &&
-                targetSlug != null &&
-                richDocumentDefs.map((def) => {
-                  const body = data[def.id]
-                  const blocks = isRecord(body) && Array.isArray(body.blocks) ? body.blocks : []
-                  return (
-                    <ToggleSection
-                      key={def.id}
-                      label={def.title}
-                      defaultOpen
-                      hasContent={blocks.length > 0}
-                    >
-                      <BlockEditor
-                        pageTypeSlug={targetSlug}
-                        id={id}
-                        propertyId={def.id}
-                        value={body}
-                      />
-                    </ToggleSection>
-                  )
-                })}
+                  {editing &&
+                    targetSlug != null &&
+                    richDocumentDefs.map((def) => {
+                      const body = data[def.id]
+                      const blocks = isRecord(body) && Array.isArray(body.blocks) ? body.blocks : []
+                      return (
+                        <ToggleSection
+                          key={def.id}
+                          label={def.title}
+                          defaultOpen
+                          hasContent={blocks.length > 0}
+                        >
+                          <BlockEditor
+                            pageTypeSlug={targetSlug}
+                            id={id}
+                            propertyId={def.id}
+                            value={body}
+                          />
+                        </ToggleSection>
+                      )
+                    })}
 
-              {multiRelationDefs
-                .filter((def) => editing || hasValue(data[def.id]))
-                .map((def) => (
-                  <ToggleSection key={def.id} label={def.title} hasContent={hasValue(data[def.id])}>
-                    <BadgeLayoutProvider
-                      truncate="fluid"
-                      popoverAlign="start"
-                      display={def.display}
-                    >
-                      <MultiRelationPropertyBadge
-                        property={def}
-                        value={data[def.id] ?? null}
-                        context="detail"
-                        editable={editing}
-                        onPropertyChange={editing ? handlePropertyChange : undefined}
-                        onPageNavigate={handlePageNavigate}
-                      />
-                    </BadgeLayoutProvider>
-                  </ToggleSection>
-                ))}
-
-              {markdownDefs
-                .filter((def) => editing || hasValue(data[def.id]))
-                .map((def) => {
-                  const val = data[def.id]
-                  const str = val != null && typeof val !== "object" ? String(val) : null
-                  return (
-                    <ToggleSection
-                      key={def.id}
-                      label={def.title}
-                      hasContent={str != null && str.length > 0}
-                    >
-                      {str != null ? (
-                        <MarkdownRenderer content={str} />
-                      ) : (
-                        <span className="text-sm text-tertiary">Empty</span>
-                      )}
-                    </ToggleSection>
-                  )
-                })}
-
-              {jsonDefs
-                .filter((def) => editing || hasValue(data[def.id]))
-                .map((def) => (
-                  <ToggleSection key={def.id} label={def.title} hasContent={hasValue(data[def.id])}>
-                    {(def.fields ?? []).length === 0 ? (
-                      <JsonSectionRenderer value={data[def.id]} />
-                    ) : (
-                      <BadgeLayoutProvider
-                        truncate="fluid"
-                        popoverAlign="start"
-                        display={def.display}
+                  {multiRelationDefs
+                    .filter((def) => editing || hasValue(data[def.id]))
+                    .map((def) => (
+                      <ToggleSection
+                        key={def.id}
+                        label={def.title}
+                        hasContent={hasValue(data[def.id])}
                       >
-                        <RecordPropertyBadge
-                          property={def}
-                          value={data[def.id] ?? null}
-                          context="detail"
-                          editable={false}
-                        />
-                      </BadgeLayoutProvider>
-                    )}
-                  </ToggleSection>
-                ))}
+                        <BadgeLayoutProvider
+                          truncate="fluid"
+                          popoverAlign="start"
+                          display={def.display}
+                        >
+                          <MultiRelationPropertyBadge
+                            property={def}
+                            value={data[def.id] ?? null}
+                            context="detail"
+                            editable={editing}
+                            onPropertyChange={editing ? handlePropertyChange : undefined}
+                            onPageNavigate={handlePageNavigate}
+                          />
+                        </BadgeLayoutProvider>
+                      </ToggleSection>
+                    ))}
 
-              <PageDetailReferrers
-                pageId={id}
-                pageTypeId={pageTypeId}
-                pageTypePropertiesMap={pageTypePropertiesMap}
-                pageTypeSlugById={pageTypeSlugById}
-              />
+                  {markdownDefs
+                    .filter((def) => editing || hasValue(data[def.id]))
+                    .map((def) => {
+                      const val = data[def.id]
+                      const str = val != null && typeof val !== "object" ? String(val) : null
+                      return (
+                        <ToggleSection
+                          key={def.id}
+                          label={def.title}
+                          hasContent={str != null && str.length > 0}
+                        >
+                          {str != null ? (
+                            <MarkdownRenderer content={str} />
+                          ) : (
+                            <span className="text-sm text-tertiary">Empty</span>
+                          )}
+                        </ToggleSection>
+                      )
+                    })}
 
-              <PageDetailSubpages
-                pageId={id}
-                pageTypeId={pageTypeId}
-                pageTypeSlug={targetSlug ?? pageTypeSlug}
-                pageTypePropertiesMap={pageTypePropertiesMap}
-                pageTypeSlugById={pageTypeSlugById}
-                definitions={allDefinitions}
-              />
+                  {jsonDefs
+                    .filter((def) => editing || hasValue(data[def.id]))
+                    .map((def) => (
+                      <ToggleSection
+                        key={def.id}
+                        label={def.title}
+                        hasContent={hasValue(data[def.id])}
+                      >
+                        {(def.fields ?? []).length === 0 ? (
+                          <JsonSectionRenderer value={data[def.id]} />
+                        ) : (
+                          <BadgeLayoutProvider
+                            truncate="fluid"
+                            popoverAlign="start"
+                            display={def.display}
+                          >
+                            <RecordPropertyBadge
+                              property={def}
+                              value={data[def.id] ?? null}
+                              context="detail"
+                              editable={false}
+                            />
+                          </BadgeLayoutProvider>
+                        )}
+                      </ToggleSection>
+                    ))}
+
+                  <PageDetailReferrers
+                    pageId={id}
+                    pageTypeId={pageTypeId}
+                    pageTypePropertiesMap={pageTypePropertiesMap}
+                    pageTypeSlugById={pageTypeSlugById}
+                  />
+
+                  <PageDetailSubpages
+                    pageId={id}
+                    pageTypeId={pageTypeId}
+                    pageTypeSlug={targetSlug ?? pageTypeSlug}
+                    pageTypePropertiesMap={pageTypePropertiesMap}
+                    pageTypeSlugById={pageTypeSlugById}
+                    definitions={allDefinitions}
+                  />
+                </>
+              )}
             </div>
           </PageLayout.Content>
           {children}

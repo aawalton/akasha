@@ -36,5 +36,10 @@ export const pageDefaultContent = {
       decisionKind: "decision-kind/departure",
       statement: "What a page type's own component adds is drawn inside the body, after the page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page type's own component may ask for the title alone, drawn as wide as the page.",
+    },
   ],
 } as const satisfies Module
