@@ -15,7 +15,7 @@ const EVERY = 500
 
 const NONE: readonly FilterOption[] = []
 
-export type ConditionValueOptions = ReadonlyMap<string, readonly FilterOption[]>
+type ConditionValueOptions = ReadonlyMap<string, readonly FilterOption[]>
 
 interface Entry {
   readonly field: string
@@ -40,7 +40,7 @@ function entryOf(row: Value): Entry {
   return { field: slugOf(field), order, option: { value: key, label: title } }
 }
 
-export function conditionValueOptionsFrom(rows: readonly Value[]): ConditionValueOptions {
+function conditionValueOptionsFrom(rows: readonly Value[]): ConditionValueOptions {
   const byField = new Map<string, Entry[]>()
   for (const row of rows) {
     const entry = entryOf(row)
