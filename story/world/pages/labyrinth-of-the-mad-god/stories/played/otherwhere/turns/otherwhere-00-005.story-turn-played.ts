@@ -11,7 +11,7 @@ export const otherwhere00005 = {
   position: 5,
   prose: "txt",
   characters: ["character-player/otherwhere-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I break the nut in half and offer half to the ape while eating the other half",
   beats: [
     "Nala sits in the palm shade with the nut between her knees to break it open.",
@@ -37,6 +37,6 @@ export const otherwhere00005 = {
   ],
   lore: ["lore/otherwhere-cinder-isle-plants", "lore/otherwhere-copperbacks"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture", "story-recorder/memory"],
   endsAt: "2026-09-28T13:37:00.000Z",
 } as const satisfies StoryTurnPlayed

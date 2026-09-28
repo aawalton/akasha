@@ -25,11 +25,11 @@ export const otherwhereCinderIslePlants = {
     },
     {
       fact: "A fanpalm husk is a thumb thick, woody and fibrous; nails and hands make no mark on it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
     },
     {
       fact: "A glass shard scores a fanpalm husk slowly but snaps if twisted or used to pry.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
     },
     {
       fact: "Smashed hard on driftwood or sand a fanpalm nut only bruises; on rock it cracks.",
@@ -77,6 +77,22 @@ export const otherwhereCinderIslePlants = {
     },
     {
       fact: "A fanpalm husk is hard as wood; fingers and nails leave no mark on it.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+    },
+    {
+      fact: "Knocked on driftwood, a fanpalm nut only thuds and bruises; its husk does not crack.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+    },
+    {
+      fact: "A split fanpalm nut spills most of its water; each half keeps a little in the bottom.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+    },
+    {
+      fact: "Fanpalm nut water is sweet and faintly cloudy.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+    },
+    {
+      fact: "A fanpalm nut is lined inside with a thin layer of white flesh, bland and soft.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
     },
   ],
