@@ -140,18 +140,7 @@ export const otherwhereHallBack = {
       fact: "A bookworm's lunge stops at a salt line, but its head can stretch about a foot over it to bite.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "Sweeping a salt ring along opens brief gaps in its edge with each push of the broom.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "A salt ring moved caterpillar-fashion, front laid before back is swept up, stays unbroken.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "A caterpillar ring moves only a few feet a minute, slow enough for bookworms to close in.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "Double-thick, the box's salt makes a ring about four feet across and six long, little to spare.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -330,6 +319,14 @@ export const otherwhereHallBack = {
     },
     {
       fact: "Left alone, the big bookworm scrapes and gags off its salt and slowly recovers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hurt as Nala is, she can rise and stagger with one sack, but can't run.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "If the big bookworm dries out, the hall's back falls quiet and the gold light brightens again.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
