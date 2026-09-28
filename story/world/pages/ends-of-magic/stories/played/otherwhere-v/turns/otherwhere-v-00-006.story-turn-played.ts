@@ -4,10 +4,13 @@ export const otherwhereV00006 = {
   id: "01a0ea31-818d-786b-934c-7cb8f3d873ac",
   type: "page-type/story-turn-played",
   slug: "otherwhere-v-00-006",
+  ownLength: 236,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-v"],
   position: 6,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-v-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I turn and catch the jaws with my hands, then wrap my thighs around it's neck and squeeze the breath out of it.",
   beats: [
