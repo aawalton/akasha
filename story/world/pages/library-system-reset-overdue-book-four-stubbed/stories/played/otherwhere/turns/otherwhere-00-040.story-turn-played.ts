@@ -21,4 +21,5 @@ export const otherwhere00040 = {
     "Stacked in the corner are a dozen sacks of coarse salt, each about twenty pounds.",
   ],
   lore: ["place/otherwhere-kitchen"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
