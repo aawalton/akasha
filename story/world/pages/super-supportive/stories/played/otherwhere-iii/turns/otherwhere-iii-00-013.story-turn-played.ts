@@ -29,5 +29,6 @@ export const otherwhereIii00013 = {
     '"So, first thing: do you have anywhere safe to sleep tonight?"',
   ],
   lore: ["lore/otherwhere-iii-priya-raman"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2037-01-31T08:15:00.000Z",
 } as const satisfies StoryTurnPlayed
