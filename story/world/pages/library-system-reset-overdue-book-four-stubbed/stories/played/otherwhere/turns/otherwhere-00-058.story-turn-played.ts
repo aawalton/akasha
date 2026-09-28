@@ -4,10 +4,13 @@ export const otherwhere00058 = {
   id: "01a0e7df-7f2c-7e3a-a6b4-7dbae48c3685",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-058",
+  ownLength: 130,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 58,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
+  turnStatus: "turn-status/reviewers",
   action:
     "**Great, anything you need from me to get the shelvers working? If not, I'll keep going until this part is done.**",
   beats: [
