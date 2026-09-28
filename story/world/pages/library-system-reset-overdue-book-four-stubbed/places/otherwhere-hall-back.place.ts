@@ -253,6 +253,10 @@ export const otherwhereHallBack = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
+      fact: "Within a minute the big bookworm's teeth split the lodged sack; it gapes and gags up salt.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Salt ground into an open bite burns fiercely but does it no further harm.",
       knowers: ["lore-disclosure/game-master"],
     },
