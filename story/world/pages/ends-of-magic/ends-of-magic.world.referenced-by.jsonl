@@ -11,6 +11,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-bazan-dho-humal.world-character.ts","id":"01a0e9f8-0f1a-76ee-a2ca-44efb133c01f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-beatred.world-character.ts","id":"01a0e9f8-0f1a-781d-b7d7-d0c8a67d5e3b"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-binga.world-character.ts","id":"01a0e9f8-0f1a-7296-971b-9dd445730a9d"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-brannoc-tull.world-character.ts","id":"01a0ea03-9afd-7440-b9c7-834d4d9760ca"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-brox.world-character.ts","id":"01a0e9f8-a114-7183-bc9a-a01c7e8585f0"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-cala-dha-drex.world-character.ts","id":"01a0e9f8-a115-7915-bf7a-d8f85086e8e3"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-colborn.world-character.ts","id":"01a0e9f9-005b-7ae7-be86-857e6945621e"}
@@ -45,6 +46,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-last-champion-of-deiman.world-character.ts","id":"01a0e9ff-5951-7e43-8f56-09004229e93c"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-liren-vail.world-character.ts","id":"01a0e9fb-fb52-77a8-b3a7-8afc3bb7252f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-lyra-alys.world-character.ts","id":"01a0e9ff-5952-7cfd-865a-83f0321d12ce"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-maren-thale.world-character.ts","id":"01a0ea03-9afe-7cbc-8cd4-507ace2443ad"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-mirus.world-character.ts","id":"01a0e9fc-d637-7942-8fe1-ceed1d935aff"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-myrla.world-character.ts","id":"01a0e9fa-2b5e-7643-94a4-00f8d89801e5"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-nathan-lark.world-character.ts","id":"01a0e9f5-00f8-7d2d-9a68-889656e360ef"}
@@ -114,6 +116,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-blightmind.lore.ts","id":"01a0e9fc-aa24-79c8-b15c-d7b35b5601d1"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-blights.lore.ts","id":"01a0e9fc-5fc7-7352-85ed-a97623286a0f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-bone-obelisk.lore.ts","id":"01a0e9fc-3f03-7081-a89d-69baf751b9ae"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-brannoc-tull.lore.ts","id":"01a0ea03-9afe-7e85-99de-c6b60fb321cc"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-brox.lore.ts","id":"01a0e9f8-a115-781f-9d47-a549f6ac6723"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-builds.lore.ts","id":"01a0ea00-21ac-7696-af34-edf45bfe88a7"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-cala-dha-drex.lore.ts","id":"01a0e9f8-a115-7312-9fb0-0ceb82e0901b"}
@@ -222,6 +225,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-magic-resistance.lore.ts","id":"01a0e9f7-bb0c-7015-871e-63a818ff0a0f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-magic-resistant-ingredients.lore.ts","id":"01a0e9f9-8feb-76c1-9eab-f235b8a597e8"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-mana.lore.ts","id":"01a0e9f1-9e7b-73c8-94a8-373d7d681b6f"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-maren-thale.lore.ts","id":"01a0ea03-9aff-7ca5-8cd4-a48831339125"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-mental-magic.lore.ts","id":"01a0e9f9-e5c9-7517-b142-3d61aaeaaeb8"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-mirus.lore.ts","id":"01a0e9fc-d638-7679-8df7-4ef541312977"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-mithril.lore.ts","id":"01a0ea03-09a3-7aee-b54f-0b669633ab5e"}
