@@ -58,8 +58,8 @@ export async function openImage(
     return undefined
   }
   await editor.commands.executeCommand(OPEN, editor.Uri.file(at), {
-    viewColumn: editor.ViewColumn.Beside,
-    preview: true,
+    viewColumn: editor.ViewColumn.Active,
+    preview: false,
   })
   return undefined
 }

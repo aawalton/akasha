@@ -4,7 +4,7 @@ export const terminalImageLink = {
   id: "01a0e96a-7a16-72f2-ad46-4a8d997a8604",
   type: "page-type/module",
   slug: "terminal-image-link",
-  definition: "an image a terminal line names, opened beside the terminal on a click",
+  definition: "an image a terminal line names, opened in the terminal's own group on a click",
   code: "ts",
   test: "ts",
   decisions: [
@@ -20,7 +20,7 @@ export const terminalImageLink = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An image whose bytes are on this workstation opens in the editor beside the terminal.",
+        "An image whose bytes are on this workstation opens as a tab in the terminal's own group.",
     },
     {
       decisionKind: "decision-kind/departure",
