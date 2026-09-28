@@ -25,4 +25,5 @@ export const theDatingGame00029 = {
     '"All blurred together," she says, turning it over. "What\'s that like, from the inside?"',
     "[Grace, Closeness Level 1: a new acquaintance who is glad to see you again.]",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
