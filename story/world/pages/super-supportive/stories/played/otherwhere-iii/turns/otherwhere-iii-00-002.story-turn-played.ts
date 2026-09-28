@@ -10,7 +10,7 @@ export const otherwhereIii00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-iii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Anesidora?” I say softly to myself. “I know that name. Earth Contract, are you listening? I think you’ll want to pay attention to me. I wasn’t in your world a moment ago.”",
   beats: [
@@ -25,7 +25,8 @@ export const otherwhereIii00002 = {
     "The orange board scrolls: Howard, 4 min. 95th/Dan Ryan, 9 min.",
     "The man pockets his phone and walks down the platform toward her shelter and its heat button.",
   ],
+  issues: ['"talking to nobody" - Plain Negation'],
   lore: ["lore/otherwhere-iii-the-system"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2037-01-31T04:47:00.000Z",
 } as const satisfies StoryTurnPlayed
