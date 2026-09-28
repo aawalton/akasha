@@ -4,6 +4,8 @@ export const imageA868480f4124099f = {
   id: "01a0e9da-a569-72e6-aac4-8441558a4c5a",
   type: "page-type/image",
   slug: "image-a868480f4124099f",
+  title: "Iced Tea Under the Jacarandas",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
