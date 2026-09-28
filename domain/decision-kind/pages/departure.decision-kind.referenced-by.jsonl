@@ -2422,6 +2422,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/story/chapter-close/story-chapter-close.command.ts","id":"01a0d4e4-a424-7f86-8eaa-79660d7af676"}
 {"propertySlug":"decision-kind","path":"command/pages/story/chapter-write/story-chapter-write.command.ts","id":"01a0e96e-2932-74ae-9bb2-77118ec08e86"}
 {"propertySlug":"decision-kind","path":"command/pages/story/character-file/story-character-file.command.ts","id":"01a0b700-39f3-76fc-b703-ad293459d8ed"}
+{"propertySlug":"decision-kind","path":"command/pages/story/settle/modules/settle-asking/settle-asking.module.ts","id":"01a0e9ee-b5f2-7312-a0d8-7655c24d47a2"}
 {"propertySlug":"decision-kind","path":"command/pages/story/settle/story-settle.command.ts","id":"01a0de28-48fb-7823-9024-31f713cc562f"}
 {"propertySlug":"decision-kind","path":"command/pages/story/tell/story-tell.command.ts","id":"01a0def0-8330-79a7-a268-bf9d923a71cc"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/advance/modules/turn-described/turn-described.module.ts","id":"01a0e96d-d288-76ac-94d2-21b8dd6a0ec1"}

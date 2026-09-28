@@ -7,7 +7,7 @@ export const storySettle = {
   definition: "the command settling a declared action of a played story by a check",
   code: "ts",
   test: "ts",
-  parts: [],
+  parts: ["module/settle-asking"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -33,6 +33,10 @@ export const storySettle = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A roll is appended to the outcomes beside its turn before its answer is told.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An answer stating `endsAt` is stated on the turn in the same landing or draft.",
     },
     {
       decisionKind: "decision-kind/departure",

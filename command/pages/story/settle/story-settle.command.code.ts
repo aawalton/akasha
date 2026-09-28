@@ -1,11 +1,8 @@
 import { createHash } from "node:crypto"
 import { readFileSync, statSync } from "node:fs"
 import { join } from "node:path"
-import { appendLines } from "akasha/change/mechanical/file-content/append-lines/append-lines.change-mechanical-file-content.ts"
-import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import { editsAt } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
-  type Asking,
   foldedOver,
   type Landing,
   runMechanicalChange,
@@ -34,6 +31,7 @@ import {
   stamped,
 } from "akasha/command/modules/change-running/change-running.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { askedFor } from "akasha/command/pages/story/settle/modules/settle-asking/settle-asking.module.code.ts"
 import { storySettle as page } from "akasha/command/pages/story/settle/story-settle.command.ts"
 import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import {
@@ -60,7 +58,6 @@ const NAMED = [
   draftArgument,
 ] as const
 
-const APPEND = `${changeMechanicalFileContent.slug}/${appendLines.slug}` as const
 const SETTLED = "settled"
 const CODE = "code"
 const HELD_TS = "ts"
@@ -322,10 +319,6 @@ async function rollMade(
   return { roll }
 }
 
-function appended(at: string, roll: Roll): Asking {
-  return { at: APPEND, given: { at, content: `${JSON.stringify(roll)}${BREAK}` } }
-}
-
 function onDisk(root: string): (path: string) => string | null {
   return (path) => {
     const at = join(root, path)
@@ -347,7 +340,9 @@ async function drafted(held: Taken, placed: Placed, given: Given): Promise<Answe
       return { edits: [], refused: rolled.refused }
     }
     made.roll = rolled.roll
-    return stamped(await foldedOver(world, [appended(placed.at, rolled.roll)]), false, false)
+    const turn = world.textOf(placed.on.at)
+    const asked = askedFor(placed.at, placed.on.at, rolled.roll, turn)
+    return stamped(await foldedOver(world, asked), false, false)
   })
   if (why.said !== null) return refused(why.said.refused, why.said.by)
   if (kept.code !== 0 || made.roll === null) return kept
@@ -371,9 +366,10 @@ async function settledOn(
   if (held.drafts) return await drafted(held, placed, given)
   const made = await rollMade(given.root, held, placed, onDisk(given.root))
   if ("refused" in made) return refused(made.refused, made.by)
+  const turn = onDisk(given.root)(placed.on.at)
   const landed = await landing(
     given.root,
-    [appended(placed.at, made.roll)],
+    askedFor(placed.at, placed.on.at, made.roll, turn),
     `settle ${held.check} on ${placed.on.slug}`,
     { agentId: given.agentId, writer: given.writer, done }
   )

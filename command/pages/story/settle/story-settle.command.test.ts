@@ -47,6 +47,10 @@ mkdirSync(join(ROOT, "checks"), { recursive: true })
 writeFileSync(join(ROOT, "checks", "answering.code.ts"), ANSWERING)
 writeFileSync(join(ROOT, "checks", "refusing.code.ts"), REFUSING)
 writeFileSync(join(ROOT, "checks", "diceless.code.ts"), DICELESS)
+writeFileSync(
+  join(ROOT, "checks", "timed.code.ts"),
+  'export function settled() {\n  return { answered: { endsAt: "2026-09-28T11:27:00.000Z" } }\n}\n'
+)
 
 function reachOver(turns: readonly Turn[]): Reach {
   return {
@@ -179,6 +183,14 @@ test("a roll is seeded by the hash of the roll before it on an earlier open turn
   const roll = rollIn((await settledBy("answering", reachOver([FIRST, LATEST])))[0] as Appended)
   expect(roll.seed).toBe(createHash("sha256").update(before).digest("hex"))
   rmSync(join(ROOT, at))
+})
+
+test("a check answering endsAt states that instant on the turn it settles on", async () => {
+  writeFileSync(join(ROOT, LATEST.at), `  endsAt: "2026-09-28T11:15:00.000Z",\n`)
+  const appended = await settledBy("timed", reachOver([LATEST]), argvFor("timed").slice(0, 6))
+  rmSync(join(ROOT, LATEST.at))
+  const stated = { at: LATEST.at, key: "endsAt", to: "2026-09-28T11:27:00.000Z" }
+  expect(appended[1] as unknown).toEqual(stated)
 })
 
 test("a check that refuses its reading appends nothing", async () => {
