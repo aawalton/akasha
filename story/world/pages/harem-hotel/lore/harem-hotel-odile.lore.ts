@@ -9,7 +9,7 @@ export const haremHotelOdile = {
   about: "character-other/harem-hotel-odile",
   facts: [
     {
-      fact: "Odile is a woman in her late thirties, born of the tower.",
+      fact: "Odile is a woman in her late twenties, born of the tower, and strikingly beautiful.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
