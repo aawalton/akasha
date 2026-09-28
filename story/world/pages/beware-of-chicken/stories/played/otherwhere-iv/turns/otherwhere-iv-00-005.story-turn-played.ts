@@ -47,5 +47,6 @@ export const otherwhereIv00005 = {
     "place/otherwhere-iv-upstream-woods",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-28T07:17:00.000Z",
 } as const satisfies StoryTurnPlayed
