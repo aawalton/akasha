@@ -6,7 +6,7 @@ A fact is settled where the prose states it plainly, in narration or in a charac
 
 For each settled fact, find the lore page about its target. The target is the character, place or thing the fact is about, or the world where the fact is true of the whole world. A place holds its own facts.
 
-A character learned a fact where the prose shows that character seeing it, hearing it or being told it. The player's character learned whatever the prose shows the player's character seeing or hearing. The character who says a fact about themselves learned nothing new from saying it.
+A character learned a fact where the prose shows that character seeing it, hearing it or being told it. The player's character learned whatever the prose shows the player's character seeing or hearing. A character who says a fact, or does what a fact records, knows it, so name them as a knower too.
 
 Where the fact is already on the page, as a fact or as a secret beside it, draft its telling to each character who learned it:
 
