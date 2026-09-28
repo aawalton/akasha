@@ -1,3 +1,4 @@
+import { readOwnTranscriptsSince } from "akasha/agent/modules/io-probe/io-probe.module.code.ts"
 import { reviewer as reviewerRole } from "akasha/agent/role/pages/reviewer.role.ts"
 import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
 import {
@@ -5,15 +6,6 @@ import {
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
-import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
-import { beatsFile } from "akasha/command/argument/pages/beats-file.argument.ts"
-import { character } from "akasha/command/argument/pages/character.argument.ts"
-import { issuesFile } from "akasha/command/argument/pages/issues-file.argument.ts"
-import { playedTurn } from "akasha/command/argument/pages/played-turn.argument.ts"
-import { proseFile } from "akasha/command/argument/pages/prose-file.argument.ts"
-import { recorder as recorderArgument } from "akasha/command/argument/pages/recorder.argument.ts"
-import { reviewer as reviewerArgument } from "akasha/command/argument/pages/reviewer.argument.ts"
-import { turnLore } from "akasha/command/argument/pages/turn-lore.argument.ts"
 import {
   answeredWith,
   answering,
@@ -27,8 +19,10 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
-import { heldAt } from "akasha/command/modules/filling/command-filling.module.code.ts"
-import { storyTurnAdvance as page } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.ts"
+import {
+  type Taken,
+  taken,
+} from "akasha/command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts"
 import { liftedFrom } from "akasha/command/pages/story/turn/modules/turn-keeping/turn-keeping.module.code.ts"
 import {
   type Prompting,
@@ -46,15 +40,19 @@ import {
   type Told,
   type Turn,
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
+import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
+import {
+  type Ended,
+  madeAtOf,
+  phaseEnded,
+} from "akasha/story/engine/modules/phase-timing/phase-timing.module.code.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import {
   advanced,
   bareOf,
   type Caller,
-  type Handed,
   type Held,
-  linesIn,
   type Start,
   stepIn,
   type TurnStep,
@@ -64,17 +62,6 @@ import {
   personaOf,
 } from "akasha/story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
-
-const NAMED = [
-  playedTurn,
-  turnLore,
-  beatsFile,
-  reviewerArgument,
-  issuesFile,
-  proseFile,
-  character,
-  recorderArgument,
-] as const
 
 const COLLECTIONS = "partOfCollections"
 
@@ -94,97 +81,21 @@ const CHARACTERS = "characters"
 
 const PARTED = "/"
 
-type Taken = { readonly turn: string; readonly handed: Handed }
+const ID = "id"
 
-type Refusal = { readonly refused: readonly string[] }
+export type Timed = (root: string, ended: Ended, agentId: string | null) => undefined
 
-type Said = {
-  readonly turnLore: readonly string[]
-  readonly beatsFile?: string | undefined
-  readonly reviewer?: string | undefined
-  readonly issuesFile?: string | undefined
-  readonly proseFile?: string | undefined
-  readonly character: readonly string[]
-  readonly recorder?: string | undefined
-}
-
-function kindsIn(said: Said): readonly Handed["kind"][] {
-  const kinds: Handed["kind"][] = []
-  if (said.turnLore.length > 0) kinds.push("lore")
-  if (said.beatsFile !== undefined) kinds.push("beats")
-  if (said.reviewer !== undefined || said.issuesFile !== undefined) kinds.push("review")
-  if (said.proseFile !== undefined || said.character.length > 0) kinds.push("prose")
-  if (said.recorder !== undefined) kinds.push("record")
-  return kinds
-}
-
-function recordIn(said: Said): Handed | Refusal {
-  const recorder = said.recorder?.trim() ?? ""
-  if (recorder !== "") return { kind: "record", recorder }
-  return { refused: [`\`${recorderArgument.said}\` names no story recorder`] }
-}
-
-function reviewIn(root: string, said: Said): Handed | Refusal {
-  const reviewer = said.reviewer?.trim() ?? ""
-  if (reviewer === "") {
-    return {
-      refused: [
-        `a reviewer's issues are handed in with \`${reviewerArgument.said}\`, and this names no reviewer`,
-      ],
-    }
+export function phaseTimed(root: string, ended: Ended, agentId: string | null): undefined {
+  try {
+    const story = listedAt(root, storyPlayed.slug, ended.story)[0]
+    if (story === undefined) return undefined
+    const since = (from: number) =>
+      agentId === null ? null : readOwnTranscriptsSince(agentId, from)
+    phaseEnded(root, story.path, ended, since)
+  } catch {
+    return undefined
   }
-  if (said.issuesFile === undefined) return { kind: "review", reviewer, issues: [] }
-  const read = heldAt(root, issuesFile.said, said.issuesFile)
-  return "refused" in read ? read : { kind: "review", reviewer, issues: linesIn(read.text) }
-}
-
-function characterRefused(said: Said): Refusal | null {
-  if (said.character.length === 0 || said.proseFile !== undefined) return null
-  const others = kindsIn({ ...said, character: [] })
-  if (others.length === 0) return null
-  return {
-    refused: [
-      `\`${character.said}\` names who is present in the writer's prose, so it belongs to the writer's step with \`${proseFile.said}\`, and this advance hands in ${others.join(" and ")}`,
-    ],
-  }
-}
-
-function handedFrom(root: string, said: Said): Handed | Refusal {
-  const misplaced = characterRefused(said)
-  if (misplaced !== null) return misplaced
-  const kinds = kindsIn(said)
-  if (kinds.length > 1) {
-    return {
-      refused: [`an advance hands in one step's output, and this hands in ${kinds.join(" and ")}`],
-    }
-  }
-  const kind = kinds[0] ?? "lore"
-  if (kind === "lore") return { kind, lore: said.turnLore }
-  if (kind === "review") return reviewIn(root, said)
-  if (kind === "record") return recordIn(said)
-  if (kind === "beats" && said.beatsFile !== undefined) {
-    const read = heldAt(root, beatsFile.said, said.beatsFile)
-    return "refused" in read ? read : { kind, beats: linesIn(read.text) }
-  }
-  if (said.proseFile === undefined) {
-    return {
-      refused: [
-        `a writer hands in its prose at \`${proseFile.said}\`, and this names only who is present`,
-      ],
-    }
-  }
-  const read = heldAt(root, proseFile.said, said.proseFile)
-  return "refused" in read ? read : { kind: "prose", prose: read.text, characters: said.character }
-}
-
-export function taken(argv: readonly string[], calledAs: string, root: string): Taken | Refusal {
-  const read = takenFor(argv, calledAs, page, NAMED)
-  if ("refused" in read) return { refused: read.refused }
-  const held = read.taken
-  const turn = held.playedTurn.trim()
-  if (turn === "") return { refused: [`\`${playedTurn.said}\` names no turn`] }
-  const handed = handedFrom(root, held)
-  return "refused" in handed ? handed : { turn, handed }
+  return undefined
 }
 
 export function heldOf(turn: Turn): Held | { readonly refused: string } {
@@ -276,14 +187,15 @@ async function advancedOn(
   argv: readonly string[],
   given: Given,
   landing: Landing,
-  reach: Reach
+  reach: Reach,
+  timed: Timed
 ): Promise<Answer> {
   const read = taken(argv, given.calledAs, given.root)
   if ("refused" in read) return refusedBy(read.refused, INPUT)
   const slug = bareOf(read.turn)
   const placed = reach.turnAt(given.root, slug)
   if (placed === null) return refused(`\`${read.turn}\` names no played turn here`, DATA)
-  const holding = async () => await heldOn(done, read, slug, given, landing, reach)
+  const holding = async () => await heldOn(done, read, slug, given, landing, reach, timed)
   return await reach.hold(given.root, placed.at, holding)
 }
 
@@ -293,7 +205,8 @@ async function heldOn(
   slug: string,
   given: Given,
   landing: Landing,
-  reach: Reach
+  reach: Reach,
+  timed: Timed
 ): Promise<Answer> {
   const turn = reach.turnAt(given.root, slug)
   if (turn === null) return refused(`\`${read.turn}\` names no played turn here`, DATA)
@@ -336,6 +249,15 @@ async function heldOn(
   const landed = await landing(given.root, asking, message, by)
   if ("refusals" in landed) return keeping(done, back([...landed.refusals]))
   if (said.landsKept) reach.release(given.root, turn.at)
+  const ended = {
+    story: held.game,
+    run: slug,
+    madeAt: madeAtOf(turn.value[ID]),
+    phase: held.status,
+    seat: seat?.name ?? held.status,
+    endedAt: Date.now(),
+  }
+  timed(given.root, ended, given.agentId)
   const unkept = said.landsKept ? null : reach.unkeep(given.root, turn.at, own)
   const story = reach.storyOf(given.root, held.game)
   const at: Context = {
@@ -374,7 +296,8 @@ export async function storyTurnAdvance(
   argv: readonly string[],
   given: Given,
   landing: Landing = runMechanicalChange,
-  reach: Reach = REACHED
+  reach: Reach = REACHED,
+  timed: Timed = phaseTimed
 ): Promise<Answer> {
-  return await answering(async (done) => await advancedOn(done, argv, given, landing, reach))
+  return await answering(async (done) => await advancedOn(done, argv, given, landing, reach, timed))
 }

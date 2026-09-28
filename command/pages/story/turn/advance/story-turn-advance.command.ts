@@ -8,7 +8,7 @@ export const storyTurnAdvance = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  parts: [],
+  parts: ["module/turn-handing"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -91,6 +91,10 @@ export const storyTurnAdvance = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A push that fails is named in the answer, and fails nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A landed advance ends the phase the turn was at, beside the story's page.",
     },
   ],
   name: "advance",

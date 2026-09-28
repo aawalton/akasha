@@ -6,7 +6,7 @@ import type { Landing } from "akasha/change/runner/pages/mechanical-change-runni
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   storyTurnAdvance,
-  taken,
+  type Timed,
 } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.code.ts"
 import {
   AT,
@@ -50,13 +50,15 @@ writeFileSync(join(ROOT, "prose.txt"), "Mara opens the gate.\n")
 async function advancedBy(
   argv: readonly string[],
   reach: Reach,
-  landing: Landing = async () => LANDED
+  landing: Landing = async () => LANDED,
+  timed: Timed = () => undefined
 ) {
   return await storyTurnAdvance(
     ["--turn", `story-turn-played/${SLUG}`, ...argv],
     GIVEN,
     landing,
-    reach
+    reach,
+    timed
   )
 }
 
@@ -344,33 +346,13 @@ test("an advance from a seat not holding the turn lands nothing", async () => {
   expect(into.starts).toEqual([])
 })
 
-test("an advance handing in two steps' output is refused before anything is read", () => {
-  const read = taken(
-    ["--turn", SLUG, "--beats-file", "nowhere.txt", "--prose-file", "nowhere.txt"],
-    CALLED,
-    ROOT
-  )
-  expect(read).toEqual({
-    refused: ["an advance hands in one step's output, and this hands in beats and prose"],
-  })
-})
-
-test("a game master's beats with `--character` are refused as the writer's flag, not as prose", () => {
-  const read = taken(
-    ["--turn", SLUG, "--beats-file", "nowhere.txt", "--character", "character-player/mara"],
-    CALLED,
-    ROOT
-  )
-  expect(read).toEqual({
-    refused: [
-      "`--character` names who is present in the writer's prose, so it belongs to the writer's step with `--prose-file`, and this advance hands in beats",
-    ],
-  })
-})
-
-test("an advance naming no step's output hands in the world builder's lore", () => {
-  expect(taken(["--turn", SLUG], CALLED, ROOT)).toEqual({
-    turn: SLUG,
-    handed: { kind: "lore", lore: [] },
-  })
+test("a landed advance ends the phase the turn was at, naming the seat that ended it", async () => {
+  const ended: string[] = []
+  const timed: Timed = (_root, one) => {
+    ended.push(`${one.story} ${one.run} ${one.phase} ${one.seat}`)
+    return undefined
+  }
+  const reach = reachOver(turnAt("game-master"), seatOf("game-master", MASTER), seen())
+  await advancedBy(["--beats-file", join(ROOT, "beats.txt")], reach, async () => LANDED, timed)
+  expect(ended).toEqual([`the-saga ${SLUG} game-master ${MASTER}`])
 })
