@@ -61,7 +61,7 @@ export const otherwhereTheLibrary0001ALibrarianForTheLibrary = {
     { position: 48, cover: "image/image-05f7d8947a67f3ac" },
     { position: 49, cover: "image/image-a3d8748a0635fb83" },
   ],
-  lastTurn: "otherwhere-00-049",
+  lastTurn: "otherwhere-the-library-00-049",
   lastTurnPosition: 49,
   endsAt: "2026-09-28T07:45:00.000Z",
 } as const satisfies StoryChapterPlayed

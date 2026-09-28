@@ -26,7 +26,7 @@ export const otherwhereTheLibrary0002TheCounterWakes = {
     { position: 62, cover: "image/image-058f2901daf79336" },
     { position: 63, cover: "image/image-ea95c7c7aa259a90" },
   ],
-  lastTurn: "otherwhere-00-063",
+  lastTurn: "otherwhere-the-library-00-063",
   lastTurnPosition: 63,
   endsAt: "2026-09-28T13:52:00.000Z",
 } as const satisfies StoryChapterPlayed
