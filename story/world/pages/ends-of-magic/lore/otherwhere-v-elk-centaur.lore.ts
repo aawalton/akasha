@@ -24,10 +24,6 @@ export const otherwhereVElkCentaur = {
       fact: "Elk-centaurs serve as scouts in Gemore's scouting teams, ranging the pine forests.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "An elk-centaur moves quickly through the forest and can carry a rider on his back.",
-      knowers: ["lore-disclosure/game-master"],
-    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

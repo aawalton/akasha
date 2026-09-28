@@ -17,7 +17,7 @@ export const otherwhereVTreeborn = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The mages of Giantsrest hold the Treeborn in open disgust.",
+      fact: "Some Questors, such as Amoh of Badud's grid, hold the Treeborn in open disgust.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

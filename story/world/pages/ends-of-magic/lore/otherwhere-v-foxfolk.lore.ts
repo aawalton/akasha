@@ -16,9 +16,5 @@ export const otherwhereVFoxfolk = {
       fact: "Foxfolk live in Gemore, where some are mages of gravity or force.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "A foxfolk woman and a human man can marry and raise children together in Gemore.",
-      knowers: ["lore-disclosure/game-master"],
-    },
   ],
 } as const satisfies Lore
