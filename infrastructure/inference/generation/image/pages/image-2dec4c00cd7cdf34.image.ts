@@ -4,6 +4,8 @@ export const image2dec4c00cd7cdf34 = {
   id: "01a0e9dc-5bac-74c0-8661-dc6942fe0c50",
   type: "page-type/image",
   slug: "image-2dec4c00cd7cdf34",
+  title: "Daydreaming at the Fountain's Edge",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
