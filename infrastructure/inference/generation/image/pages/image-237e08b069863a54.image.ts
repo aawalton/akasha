@@ -8,6 +8,9 @@ export const image237e08b069863a54 = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-a96dcb955b67588c",
+  title: "Ember Grinning in the Golden Hour",
+  persona: "persona/ember",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",
