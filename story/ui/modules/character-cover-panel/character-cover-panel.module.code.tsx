@@ -1,6 +1,5 @@
 "use client"
 
-import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { titledAs } from "akasha/page/core/modules/titled-as/titled-as.module.code.ts"
@@ -19,13 +18,11 @@ import {
   type ShapeDescriptor,
 } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
-import type { PlayedTurnCover } from "akasha/story/ui/played-panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import { characterOther } from "akasha/story/world/characters/character-other/character-other.page-type.ts"
 import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
 import { characters } from "akasha/story/world/characters/properties/characters.multi-relation-property.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
-import { ChevronLeft, ChevronRight } from "lucide-react"
-import { type ReactNode, useMemo, useState } from "react"
+import { useMemo } from "react"
 
 const ID_KEY = "id"
 
@@ -100,30 +97,13 @@ export function characterCoversOf(
   return held
 }
 
-export function turnCoverAt(covers: readonly CharacterCover[], players: readonly string[]): number {
-  return covers.findLastIndex((one) => players.includes(one.slug)) + 1
-}
-
-export type TurnCover = { readonly id: string; readonly number: number; readonly source: string }
-
-export function turnCoversOf(turnCovers: readonly PlayedTurnCover[]): readonly TurnCover[] {
-  const held: TurnCover[] = []
-  for (const one of turnCovers) {
-    const source = coverSource(one.cover, COVER_WIDTH_ASKED)
-    if (source !== null) held.push({ id: one.id, number: one.number, source })
-  }
-  return held
-}
-
-export type Paged = { readonly from: string; readonly to: string }
-
-export function pickedFor(paged: Paged | null, latest: string): string | null {
-  return paged !== null && paged.from === latest ? paged.to : null
-}
-
-export function pagedAt(covers: readonly TurnCover[], picked: string | null): number {
-  const at = picked === null ? -1 : covers.findIndex((one) => one.id === picked)
-  return at === -1 ? covers.length - 1 : at
+export function playersFirst(
+  covers: readonly CharacterCover[],
+  players: readonly string[]
+): readonly CharacterCover[] {
+  const playing = covers.filter((one) => players.includes(one.slug))
+  const others = covers.filter((one) => !players.includes(one.slug))
+  return [...playing, ...others]
 }
 
 function inList(keyed: string): readonly string[] {
@@ -151,25 +131,16 @@ function shapeNamed(
 
 type CoverPanelProps = {
   readonly turns: readonly ClientStoryTurn[]
-  readonly turnCovers: readonly PlayedTurnCover[]
   readonly player: string
 }
 
-export function CharacterCoverPanel({ turns, turnCovers, player }: CoverPanelProps) {
+export function CharacterCoverPanel({ turns, player }: CoverPanelProps) {
   const turnId = latestTurnId(turns)
   if (turnId === null) return null
-  return <TurnCovers turnId={turnId} turnCovers={turnCovers} player={player} />
+  return <TurnCharacters turnId={turnId} player={player} />
 }
 
-function TurnCovers({
-  turnId,
-  turnCovers,
-  player,
-}: {
-  turnId: string
-  turnCovers: readonly PlayedTurnCover[]
-  player: string
-}) {
+function TurnCharacters({ turnId, player }: { turnId: string; player: string }) {
   const turnOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
       pageTypeSlug: storyTurnPlayed.slug,
@@ -180,67 +151,10 @@ function TurnCovers({
     [turnId]
   )
   const rows = usePages(turnOptions).rows
-  const [paged, setPaged] = useState<Paged | null>(null)
   const turn = rows.find((row) => row[ID_KEY] === turnId)
   const keyed = keyedOf(charactersDrawn(turn?.[characters.propertySlug], player))
-  const covers = turnCoversOf(turnCovers)
-  if (keyed === "" && covers.length === 0) return null
-  const picture =
-    covers.length === 0 ? null : (
-      <TurnPicture
-        covers={covers}
-        at={pagedAt(covers, pickedFor(paged, turnId))}
-        onPick={(to) => setPaged({ from: turnId, to })}
-      />
-    )
-  return <TypeRows keyed={keyed} at={0} read={[]} picture={picture} />
-}
-
-function TurnPicture({
-  covers,
-  at,
-  onPick,
-}: {
-  covers: readonly TurnCover[]
-  at: number
-  onPick: (id: string) => void
-}) {
-  const shown = covers[at]
-  if (shown === undefined) return null
-  const earlier = covers[at - 1]
-  const later = covers[at + 1]
-  return (
-    <figure className="flex flex-col gap-2">
-      <PageCover coverUrl={shown.source} />
-      {covers.length > ONE ? (
-        <figcaption className="flex items-center justify-between">
-          <Button
-            variant="secondary"
-            size="icon-sm"
-            aria-label="Earlier turn"
-            disabled={earlier === undefined}
-            onClick={() => {
-              if (earlier !== undefined) onPick(earlier.id)
-            }}
-          >
-            <ChevronLeft aria-hidden />
-          </Button>
-          <span className="font-mono text-[12px] text-secondary">Turn {shown.number}</span>
-          <Button
-            variant="secondary"
-            size="icon-sm"
-            aria-label="Later turn"
-            disabled={later === undefined}
-            onClick={() => {
-              if (later !== undefined) onPick(later.id)
-            }}
-          >
-            <ChevronRight aria-hidden />
-          </Button>
-        </figcaption>
-      ) : null}
-    </figure>
-  )
+  if (keyed === "") return null
+  return <TypeRows keyed={keyed} at={0} read={[]} />
 }
 
 type Read = readonly (readonly [string, readonly Page[]])[]
@@ -249,22 +163,19 @@ type Drawing = {
   readonly keyed: string
   readonly at: number
   readonly read: Read
-  readonly picture: ReactNode
 }
 
-function TypeRows({ keyed, at, read, picture }: Drawing) {
+function TypeRows({ keyed, at, read }: Drawing) {
   const pageTypeSlug = CHARACTER_TYPES[at]
-  if (pageTypeSlug === undefined) return <Covers keyed={keyed} read={read} picture={picture} />
+  if (pageTypeSlug === undefined) return <Covers keyed={keyed} read={read} />
   const slugs = slugsOf(namedOf(keyed), pageTypeSlug)
   if (slugs.length === 0) {
-    return <TypeRows keyed={keyed} at={at + 1} read={read} picture={picture} />
+    return <TypeRows keyed={keyed} at={at + 1} read={read} />
   }
-  return (
-    <TypeRowsRead keyed={keyed} at={at} read={read} picture={picture} slugKeyed={slugs.join(" ")} />
-  )
+  return <TypeRowsRead keyed={keyed} at={at} read={read} slugKeyed={slugs.join(" ")} />
 }
 
-function TypeRowsRead({ keyed, at, read, picture, slugKeyed }: Drawing & { slugKeyed: string }) {
+function TypeRowsRead({ keyed, at, read, slugKeyed }: Drawing & { slugKeyed: string }) {
   const pageTypeSlug = CHARACTER_TYPES[at] ?? ""
   const options = useMemo<UsePagesSupabaseOptions>(
     () => ({
@@ -275,9 +186,7 @@ function TypeRowsRead({ keyed, at, read, picture, slugKeyed }: Drawing & { slugK
     [pageTypeSlug, slugKeyed]
   )
   const rows = usePages(options).rows
-  return (
-    <TypeRows keyed={keyed} at={at + 1} read={[...read, [pageTypeSlug, rows]]} picture={picture} />
-  )
+  return <TypeRows keyed={keyed} at={at + 1} read={[...read, [pageTypeSlug, rows]]} />
 }
 
 function Figure({ one }: { one: CharacterCover }) {
@@ -289,18 +198,14 @@ function Figure({ one }: { one: CharacterCover }) {
   )
 }
 
-function Covers({ keyed, read, picture }: { keyed: string; read: Read; picture: ReactNode }) {
+function Covers({ keyed, read }: { keyed: string; read: Read }) {
   const named = namedOf(keyed)
   const covers = characterCoversOf(named, new Map(read))
-  if (covers.length === 0 && picture === null) return null
-  const at = turnCoverAt(covers, slugsOf(named, characterPlayer.slug))
+  if (covers.length === 0) return null
+  const drawn = playersFirst(covers, slugsOf(named, characterPlayer.slug))
   return (
     <SurfaceProvider level={1} className="flex flex-col gap-3 rounded-xl p-4 shadow-sm">
-      {covers.slice(0, at).map((one) => (
-        <Figure key={one.slug} one={one} />
-      ))}
-      {picture}
-      {covers.slice(at).map((one) => (
+      {drawn.map((one) => (
         <Figure key={one.slug} one={one} />
       ))}
     </SurfaceProvider>

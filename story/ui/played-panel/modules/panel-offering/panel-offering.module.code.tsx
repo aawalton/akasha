@@ -3,6 +3,7 @@
 import { CharacterCoverPanel } from "akasha/story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx"
 import { HudPanel } from "akasha/story/ui/modules/hud-panel/hud-panel.module.code.tsx"
 import { QuestsPanel } from "akasha/story/ui/modules/quests-panel/quests-panel.module.code.tsx"
+import { SceneCoverPanel } from "akasha/story/ui/modules/scene-cover-panel/scene-cover-panel.module.code.tsx"
 import { SheetPanel } from "akasha/story/ui/modules/sheet-panel/sheet-panel.module.code.tsx"
 import { StorySoFar } from "akasha/story/ui/modules/story-so-far/story-so-far.module.code.tsx"
 import { panelBy } from "akasha/story/ui/played-panel/modules/panel-showing/panel-showing.module.code.tsx"
@@ -30,6 +31,9 @@ const OFFERED: Readonly<Record<string, Readonly<Record<string, unknown>>>> = {
     CharacterCoverPanel,
   },
   "akasha/story/ui/modules/quests-panel/quests-panel.module.code.tsx": { QuestsPanel },
+  "akasha/story/ui/modules/scene-cover-panel/scene-cover-panel.module.code.tsx": {
+    SceneCoverPanel,
+  },
   "akasha/story/ui/modules/sheet-panel/sheet-panel.module.code.tsx": { SheetPanel },
   "akasha/story/ui/modules/story-so-far/story-so-far.module.code.tsx": { StorySoFar },
   "akasha/story/world/pages/personas/stories/played/harem-hotel/mechanics/metrics/attributes/modules/harem-hotel-derived-beside/harem-hotel-derived-beside.module.code.ts":

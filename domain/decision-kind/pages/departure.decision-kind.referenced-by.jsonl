@@ -3749,6 +3749,7 @@
 {"propertySlug":"decision-kind","path":"story/ui/modules/alert-notification/alert-notification.module.ts","id":"01a0628e-a5da-7ee0-a6fa-62cfbb59efac"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/character-cover-panel/character-cover-panel.module.ts","id":"01a0de7e-118e-760a-aace-b82f91d94001"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/newest-divider/newest-divider.module.ts","id":"01a0629b-682c-7208-a65c-1d5fdba6f831"}
+{"propertySlug":"decision-kind","path":"story/ui/modules/scene-cover-panel/scene-cover-panel.module.ts","id":"01a0e7ff-1168-7fa8-b0c7-08190825f11d"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/story-chapters/story-chapters.module.ts","id":"01a0de1e-6b9d-7c94-a226-81457bb9e050"}
 {"propertySlug":"decision-kind","path":"story/ui/played-panel/change-generators/drawing/played-panel-drawing.change-generator.ts","id":"01a0d4eb-8021-7abb-b025-0f85f9595d93"}
 {"propertySlug":"decision-kind","path":"story/ui/played-panel/modules/panel-drawing/panel-drawing.module.ts","id":"01a0c4a0-5cab-7fbb-bff7-7af9f2ab4dbf"}

@@ -4,7 +4,7 @@ export const characterCoverPanel = {
   id: "01a0de7e-118e-760a-aace-b82f91d94001",
   type: "page-type/module",
   slug: "character-cover-panel",
-  definition: "the covers of the latest turn of play and of the characters it is with",
+  definition: "the covers of the characters the latest turn of play is with",
   code: "tsx",
   test: "ts",
   decisions: [
@@ -35,33 +35,15 @@ export const characterCoverPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn's cover is drawn under the cover of the player's character.",
+      statement: "The player's character is drawn first, and every other character after.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No turn's cover is drawn here.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn's cover is drawn first where no player's character is drawn.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The turn cover drawn opens on the latest turn that has a cover.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "Arrows under the turn cover page through every turn at player that has a cover, drawn or not.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The turn covers paged through are the ones the panel is handed rather than read here.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A turn paged to is kept until a later turn is drawn.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "No panel is drawn where no turn drawn and no character drawn has a cover.",
+      statement: "No panel is drawn where no character drawn has a cover.",
     },
     {
       decisionKind: "decision-kind/departure",

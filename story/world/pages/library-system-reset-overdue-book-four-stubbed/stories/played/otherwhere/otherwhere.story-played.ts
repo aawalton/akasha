@@ -13,6 +13,7 @@ export const otherwhere = {
   opensAt: "2026-09-26T00:00:00.000Z",
   panels: [
     "played-panel/character-cover",
+    "played-panel/scene-cover",
     "played-panel/character-sheet",
     "played-panel/story-so-far",
   ],
