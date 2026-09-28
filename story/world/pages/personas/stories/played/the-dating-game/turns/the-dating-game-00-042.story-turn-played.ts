@@ -26,6 +26,6 @@ export const theDatingGame00042 = {
   ],
   lore: ["place/the-dating-game-rock-canyon"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-27T10:27:00.000Z",
 } as const satisfies StoryTurnPlayed
