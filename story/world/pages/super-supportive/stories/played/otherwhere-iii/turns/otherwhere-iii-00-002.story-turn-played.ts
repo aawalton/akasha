@@ -11,4 +11,5 @@ export const otherwhereIii00002 = {
   action:
     "“Anesidora?” I say softly to myself. “I know that name. Earth Contract, are you listening? I think you’ll want to pay attention to me. I wasn’t in your world a moment ago.”",
   lore: ["lore/otherwhere-iii-the-system"],
+  endsAt: "2037-01-31T04:47:00.000Z",
 } as const satisfies StoryTurnPlayed
