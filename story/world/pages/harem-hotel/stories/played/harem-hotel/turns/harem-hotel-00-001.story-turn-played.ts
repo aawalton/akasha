@@ -4,7 +4,7 @@ export const haremHotel00001 = {
   id: "01a0e82f-30cc-7574-bde0-66d04b15463f",
   type: "page-type/story-turn-played",
   slug: "harem-hotel-00-001",
-  ownLength: 801,
+  ownLength: 735,
   partOfCollections: ["story-played/harem-hotel"],
   position: 1,
   prose: "txt",
@@ -14,7 +14,7 @@ export const haremHotel00001 = {
     "character-other/harem-hotel-wren",
   ],
   unit: "unit/words",
-  turnStatus: "turn-status/writer",
+  turnStatus: "turn-status/recorders",
   beats: [
     "Alan wakes on his back on a velvet chaise longue, fully dressed, in the middle of a hotel lobby.",
     "He has no memory of arriving anywhere.",
