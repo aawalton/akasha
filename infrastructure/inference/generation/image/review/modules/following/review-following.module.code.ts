@@ -38,7 +38,7 @@ export type Heard =
   | { readonly state: "heard" }
   | { readonly state: "refused"; readonly why: string }
 
-export type Following = {
+type Following = {
   readonly review: Review
   readonly heard: Heard
   readonly grade: (grade: Grade) => undefined
