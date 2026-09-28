@@ -10,7 +10,7 @@ const LOOKED_MS = 50
 
 const WAITED_AT_MOST = 60_000
 
-export type Settled<T> = { readonly settled: T } | { readonly refused: string }
+type Settled<T> = { readonly settled: T } | { readonly refused: string }
 
 export function apartFor(readers: number): Int32Array {
   return new Int32Array(new SharedArrayBuffer(Int32Array.BYTES_PER_ELEMENT * (1 + readers)))
@@ -68,7 +68,7 @@ function reading(apart: Int32Array): boolean {
   return false
 }
 
-export function unwaitedSaid(waited: number): string {
+function unwaitedSaid(waited: number): string {
   return `the reading threads were still answering after ${Math.round(waited / 1000)}s, so this landing went ahead of them\n`
 }
 
