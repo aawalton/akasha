@@ -9,8 +9,8 @@ import type {
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
+import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
 import type { TurnStep } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
-import { turnStatus } from "akasha/story/world/stories/played/turns/turn-status/turn-status.page-type.ts"
 
 export const GAME = "the-saga"
 
@@ -76,7 +76,7 @@ export function turnAt(status: TurnStep, more: Record<string, unknown> = {}): Tu
     value: {
       partOfCollections: [`story-played/${GAME}`],
       position: 56,
-      turnStatus: `${turnStatus.slug}/${status}`,
+      stepStatus: `${stepStatus.slug}/${status}`,
       action: "I open the gate",
       ...more,
     },

@@ -10,7 +10,7 @@ import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-pre
 import { transcriptOf } from "akasha/agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { TURN_SENDER } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import { STEP_SENDER } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { noticeStale } from "akasha/story/world/stories/played/turns/modules/turn-notice/turn-notice.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 
@@ -91,10 +91,10 @@ async function deliverClaimedMessage(args: {
   args.witness?.(row.id)
 }
 
-function turnStatuses(): ReadonlyMap<string, unknown> {
+function stepStatuses(): ReadonlyMap<string, unknown> {
   const held = new Map<string, unknown>()
   for (const one of valuesOfType(akashaRoot(), storyTurnPlayed.slug)) {
-    held.set(one.path, one.value["turnStatus"])
+    held.set(one.path, one.value["stepStatus"])
   }
   return held
 }
@@ -138,7 +138,7 @@ export async function startChannelListener(
   })
 
   const watching = watchMessagesTo(to, (message) =>
-    message.from === TURN_SENDER && noticeStale(message.body, turnStatuses())
+    message.from === STEP_SENDER && noticeStale(message.body, stepStatuses())
       ? dropStale(to, message.id)
       : deliverClaimedMessage({
           row: {

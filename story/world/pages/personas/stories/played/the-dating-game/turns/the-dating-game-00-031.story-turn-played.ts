@@ -11,7 +11,7 @@ export const theDatingGame00031 = {
   position: 31,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/player",
+  stepStatus: "step-status/player",
   action:
     "“Already gone”, I say with a sad smile. “But this has been a good batch at least. I mean, I can’t complain about spending time in the dark with a kind and beautiful woman.”",
   beats: [

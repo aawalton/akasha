@@ -14,8 +14,7 @@ export const storyTurnPlayed = {
     "module/turn-making",
     "module/turn-notice",
     "module/turn-seats",
-    "page-type/turn-status",
-    "relation-property/turn-status",
+
     "text-property/turn-action",
     "text-property/turn-beats",
     "text-property/turn-issues",
@@ -32,7 +31,7 @@ export const storyTurnPlayed = {
       many: true,
       maxCount: null,
     },
-    { pageProperty: "relation-property/turn-status", required: true, many: false },
+    { pageProperty: "relation-property/step-status", required: true, many: false },
     { pageProperty: "text-property/turn-action", required: false, many: false },
     { pageProperty: "text-property/turn-beats", required: false, many: true, maxCount: 100 },
     { pageProperty: "text-property/turn-issues", required: false, many: true, maxCount: 100 },
@@ -67,7 +66,7 @@ export const storyTurnPlayed = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn's status names whose move the turn waits on.",
+      statement: "A turn's step status names whose move the turn waits on.",
     },
     {
       decisionKind: "decision-kind/departure",

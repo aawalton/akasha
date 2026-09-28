@@ -11,7 +11,7 @@ export const theDatingGame00045 = {
   position: 45,
   prose: "txt",
   characters: ["character-other/the-dating-game-aelwyn", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/player",
+  stepStatus: "step-status/player",
   action:
     "I take one. \"Thank you. That's really cool. Are you open to new clients? I've been wanting to get in better shape, but I definitely need some personalization for the process.\"",
   beats: [

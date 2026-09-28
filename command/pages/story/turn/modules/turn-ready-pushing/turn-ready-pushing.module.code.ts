@@ -11,7 +11,7 @@ import { buildPageHref } from "akasha/page/url/modules/page-href/page-href.modul
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { turnReadySaid } from "akasha/story/world/stories/played/modules/action-bar-state/action-bar-state.module.code.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
-import { TURN_SENDER } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import { STEP_SENDER } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
 const TURN_READY = "turn-ready"
 
@@ -60,7 +60,7 @@ function readyOf(root: string, game: string, turn: string): Ready | string {
 export const readyNotified: ReadyPushing = async (root, game, turn) => {
   const ready = readyOf(root, game, turn)
   if (typeof ready === "string") return ready
-  const wrote = await writeNotification(ALAN_PERSON, readyNotice(ready), TURN_SENDER)
+  const wrote = await writeNotification(ALAN_PERSON, readyNotice(ready), STEP_SENDER)
   return wrote.ok ? null : wrote.why
 }
 

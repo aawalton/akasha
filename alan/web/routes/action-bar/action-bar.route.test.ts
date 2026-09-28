@@ -11,7 +11,7 @@ import {
   ACTION_BAR_PLAYER,
   ACTION_BAR_SENDER,
 } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
-import { TURN_SENDER } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import { STEP_SENDER } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
 const SEAT = "gm-seat"
 
@@ -118,9 +118,9 @@ test("an action makes the game's next turn and tells every game seat, starting a
   expect(made).toEqual([`${GAME}: I wait`])
   const notice = `The turn \`${MADE_AT}\` is at world-builder.`
   expect(written).toEqual([
-    { to: MASTER, from: TURN_SENDER, warrant: "announce", body: notice, startedOnDemand: true },
-    { to: BUILDER, from: TURN_SENDER, warrant: "announce", body: notice, startedOnDemand: true },
-    { to: WRITER, from: TURN_SENDER, warrant: "announce", body: notice, startedOnDemand: true },
+    { to: MASTER, from: STEP_SENDER, warrant: "announce", body: notice, startedOnDemand: true },
+    { to: BUILDER, from: STEP_SENDER, warrant: "announce", body: notice, startedOnDemand: true },
+    { to: WRITER, from: STEP_SENDER, warrant: "announce", body: notice, startedOnDemand: true },
   ])
 })
 

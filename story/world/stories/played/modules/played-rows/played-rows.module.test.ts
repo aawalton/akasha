@@ -1,5 +1,6 @@
 import { describe, expect, test } from "bun:test"
 import { asPage, type Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
 import {
   PLAYED_ROWS_DRAWN,
   playedChaptersOf,
@@ -13,7 +14,6 @@ import {
   playedTurnsOf,
   playedUpcomingOf,
 } from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
-import { turnStatus } from "akasha/story/world/stories/played/turns/turn-status/turn-status.page-type.ts"
 
 const NO_PROSE: ReadonlyMap<string, string> = new Map()
 
@@ -122,13 +122,13 @@ describe("playedCoversOf", () => {
 })
 
 describe("playedReady and playedMaking", () => {
-  const at = (step: string): string => `${turnStatus.slug}/${step}`
-  const read = turnPage({ id: "a", slug: "saga-01", position: 1, turnStatus: at("player") })
+  const at = (step: string): string => `${stepStatus.slug}/${step}`
+  const read = turnPage({ id: "a", slug: "saga-01", position: 1, stepStatus: at("player") })
   const making = turnPage({
     id: "b",
     slug: "saga-02",
     position: 2,
-    turnStatus: at("reviewers"),
+    stepStatus: at("reviewers"),
     action: "I open the gate",
   })
 
@@ -153,7 +153,7 @@ describe("playedReady and playedMaking", () => {
       id: "b",
       slug: "saga-02",
       position: 2,
-      turnStatus: at("recorders"),
+      stepStatus: at("recorders"),
       action: "I open the gate",
     })
     expect(playedReady([recording, read]).map((row) => row.id)).toEqual(["a"])

@@ -11,7 +11,7 @@ export const otherwhere00067 = {
   position: 67,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/player",
+  stepStatus: "step-status/player",
   action: "I yawn and stretch, then get out of bed and open the door",
   beats: [
     "Nala yawns and stretches under the covers, then climbs out of the wide bed, naked.",

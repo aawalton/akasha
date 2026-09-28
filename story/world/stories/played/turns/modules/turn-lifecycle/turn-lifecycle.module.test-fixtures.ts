@@ -1,5 +1,6 @@
 import { words } from "akasha/alan/collection/unit/pages/words.unit.ts"
 import { unit } from "akasha/alan/collection/unit/unit.page-type.ts"
+import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
 import { memory } from "akasha/story/recorder/pages/memory.story-recorder.ts"
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
 import { continuity } from "akasha/story/reviewer/pages/continuity.story-reviewer.ts"
@@ -13,7 +14,6 @@ import {
   type Moved,
   type TurnStep,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
-import { turnStatus } from "akasha/story/world/stories/played/turns/turn-status/turn-status.page-type.ts"
 
 const GAME = "the-saga"
 
@@ -44,7 +44,7 @@ export const PROSE = {
 } as const
 
 export function at(step: TurnStep): string {
-  return `${turnStatus.slug}/${step}`
+  return `${stepStatus.slug}/${step}`
 }
 
 export function by(reviewer: string): string {

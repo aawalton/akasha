@@ -11,7 +11,7 @@ export const theDatingGame00015 = {
   position: 15,
   prose: "txt",
   characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/player",
+  stepStatus: "step-status/player",
   action:
     '"You think you could do it? I\'d love a partner on this. Can you make a voice after reading the text without hearing it first?"',
   beats: [

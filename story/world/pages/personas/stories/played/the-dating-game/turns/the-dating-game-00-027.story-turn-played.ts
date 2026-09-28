@@ -11,7 +11,7 @@ export const theDatingGame00027 = {
   position: 27,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/player",
+  stepStatus: "step-status/player",
   action:
     "“Usually just around the neighborhood. Sometime up the canyon, into the forest. I’ve watched the sun rise from the top of the mountain a few times.”",
   beats: [

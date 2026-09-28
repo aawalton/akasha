@@ -73,7 +73,7 @@ import {
   bareOf,
   noticeOf,
   PLAYER,
-  TURN_SENDER,
+  STEP_SENDER,
   type TurnStep,
   WRITER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
@@ -342,7 +342,7 @@ function stoppedApart(root: string, seat: string): undefined {
 async function noticeSent(to: string, body: string): Promise<string | null> {
   const wrote = await writeMessage({
     to,
-    from: TURN_SENDER,
+    from: STEP_SENDER,
     warrant: ANNOUNCE,
     body,
     startedOnDemand: true,

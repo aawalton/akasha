@@ -33,7 +33,7 @@ import {
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import {
   noticeOf,
-  TURN_SENDER,
+  STEP_SENDER,
   WORLD_BUILDER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import {
@@ -287,7 +287,7 @@ async function toldOfTurn(
     noticedOf(seat, game).map(async (to) => {
       const told = await writtenBy(effects, {
         to,
-        from: TURN_SENDER,
+        from: STEP_SENDER,
         warrant: ANNOUNCE,
         body,
         startedOnDemand: true,

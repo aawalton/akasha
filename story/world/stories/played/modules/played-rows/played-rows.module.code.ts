@@ -53,7 +53,7 @@ export function playedListsOf(storyAddress: string): PlayedLists {
   }
 }
 
-const PLAYED_TURN_STATUS_KEY = "turnStatus"
+const PLAYED_STEP_STATUS_KEY = "stepStatus"
 
 const PLAYED_TURN_ACTION_KEY = "action"
 
@@ -112,7 +112,7 @@ export type Making = {
 }
 
 function stepOf(row: Page): TurnStep {
-  return stepIn(row[PLAYED_TURN_STATUS_KEY]) ?? PLAYER
+  return stepIn(row[PLAYED_STEP_STATUS_KEY]) ?? PLAYER
 }
 
 export function playedReady(rows: readonly Page[]): readonly Page[] {

@@ -65,7 +65,7 @@ import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-t
 
 const COLLECTIONS = "partOfCollections"
 
-const STATUS = "turnStatus"
+const STATUS = "stepStatus"
 
 const LORE = "lore"
 
@@ -103,7 +103,7 @@ export function heldOf(turn: Turn): Held | { readonly refused: string } {
   const story = stringsIn(turn.value[COLLECTIONS]).find((one) => one.startsWith(opening))
   if (story === undefined) return { refused: `\`${turn.at}\` is part of no played story` }
   const status = stepIn(turn.value[STATUS])
-  if (status === null) return { refused: `\`${turn.at}\` states no turn status` }
+  if (status === null) return { refused: `\`${turn.at}\` states no step status` }
   return {
     game: bareOf(story),
     status,

@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
 import { memory } from "akasha/story/recorder/pages/memory.story-recorder.ts"
 import { continuity } from "akasha/story/reviewer/pages/continuity.story-reviewer.ts"
 import {
@@ -29,14 +30,13 @@ import {
   WORDS,
   WRITER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.test-fixtures.ts"
-import { turnStatus } from "akasha/story/world/stories/played/turns/turn-status/turn-status.page-type.ts"
 
 test("the world builder hands in the lore it landed and the turn goes to the game master", () => {
   const said = movedOf(
     advanced(heldAt("world-builder"), BUILDER, { kind: "lore", lore: ["lore/a-hall"] }, TWO)
   )
   expect(said.status).toBe("game-master")
-  expect(said.values).toEqual({ turnStatus: at("game-master"), lore: ["lore/a-hall"] })
+  expect(said.values).toEqual({ stepStatus: at("game-master"), lore: ["lore/a-hall"] })
   expect(said.starts).toEqual([])
   expect(said.stopsCaller).toBe(false)
   expect(said.landsKept).toBe(false)
@@ -55,14 +55,14 @@ test("the world builder's lore may be a place, and a page of no lore type is ref
 
 test("the world builder may hand in no lore", () => {
   const said = movedOf(advanced(heldAt("world-builder"), BUILDER, { kind: "lore", lore: [] }, TWO))
-  expect(said.values).toEqual({ turnStatus: at("game-master") })
+  expect(said.values).toEqual({ stepStatus: at("game-master") })
 })
 
 test("the game master's beats go to the writer, starting no seat and stopping none", () => {
   const beats = ["Mara opens the gate", "The hall is dark"]
   const said = movedOf(advanced(heldAt("game-master"), MASTER, { kind: "beats", beats }, TWO))
   expect(said.status).toBe("writer")
-  expect(said.values).toEqual({ turnStatus: at("writer"), beats })
+  expect(said.values).toEqual({ stepStatus: at("writer"), beats })
   expect(said.starts).toEqual([])
   expect(said.stopsCaller).toBe(false)
 })
@@ -79,7 +79,7 @@ test("a reviewer that is not the last adds itself and its issues and leaves the 
   const said = movedOf(advanced(heldAt("reviewers"), REVIEWER, found, TWO))
   expect(said.status).toBe("reviewers")
   expect(said.values).toEqual({
-    turnStatus: at("reviewers"),
+    stepStatus: at("reviewers"),
     reviewedBy: [by(VOICE)],
     issues: ['"opens" - it was locked'],
   })
@@ -93,7 +93,7 @@ test("the last reviewer sends a turn with issues back to the game master", () =>
   const said = movedOf(advanced(held, REVIEWER, found, TWO))
   expect(said.status).toBe("game-master")
   expect(said.values).toEqual({
-    turnStatus: at("game-master"),
+    stepStatus: at("game-master"),
     reviewedBy: [by(VOICE), by(continuity.slug)],
     issues: ["an earlier fault"],
   })
@@ -106,7 +106,7 @@ test("the last reviewer sends a written turn with no issues on to the recorders,
   const said = movedOf(advanced(held, REVIEWER, found, TWO))
   expect(said.status).toBe("recorders")
   expect(said.values).toEqual({
-    turnStatus: at("recorders"),
+    stepStatus: at("recorders"),
     reviewedBy: [by(VOICE), by(continuity.slug)],
   })
   expect(said.prose).toBeNull()
@@ -151,7 +151,7 @@ test("the writer's first prose moves the turn to the reviewers, starting one sea
   expect(said.status).toBe("reviewers")
   expect(said.prose).toBe("Mara opens the gate.\n")
   expect(said.values).toEqual({
-    turnStatus: at("reviewers"),
+    stepStatus: at("reviewers"),
     prose: "txt",
     ownLength: 4,
     characters: ["character-player/mara", "character-other/ceri"],
@@ -180,7 +180,7 @@ test("with no story reviewer the writer's prose goes to the recorders, or to the
   expect(movedOf(advanced(heldAt("writer"), WRITER, PROSE, [])).status).toBe("recorders")
   const said = movedOf(advanced(heldAt("writer"), WRITER, PROSE, [], []))
   expect(said.status).toBe("player")
-  expect(said.values["turnStatus"]).toBe(at("player"))
+  expect(said.values["stepStatus"]).toBe(at("player"))
   expect(said.starts).toEqual([])
   expect(said.landsKept).toBe(false)
 })
@@ -205,7 +205,7 @@ test("a recorder that is not the last names itself, keeps the turn with the reco
     advanced(heldAt("recorders"), RECORDER, { kind: "record", recorder: CAST }, TWO)
   )
   expect(said.status).toBe("recorders")
-  expect(said.values).toEqual({ turnStatus: at("recorders"), recordedBy: [recordedBy(CAST)] })
+  expect(said.values).toEqual({ stepStatus: at("recorders"), recordedBy: [recordedBy(CAST)] })
   expect(said.starts).toEqual([])
   expect(said.stopsCaller).toBe(true)
   expect(said.landsKept).toBe(false)
@@ -216,7 +216,7 @@ test("the last recorder moves the turn to the player, landing every recorder's k
   const said = movedOf(advanced(held, RECORDER, { kind: "record", recorder: memory.slug }, TWO))
   expect(said.status).toBe("player")
   expect(said.values).toEqual({
-    turnStatus: at("player"),
+    stepStatus: at("player"),
     recordedBy: [recordedBy(CAST), recordedBy(memory.slug)],
   })
   expect(said.stopsCaller).toBe(true)
@@ -289,7 +289,7 @@ test("an action makes the next turn at the world builder, copying the story's tu
       partOfCollections: ["story-played/the-saga"],
       position: 3,
       unit: WORDS,
-      turnStatus: at("world-builder"),
+      stepStatus: at("world-builder"),
       action: "I open the gate",
     },
   })
@@ -321,7 +321,7 @@ test("a slug's last number counts on, padded as it was", () => {
 test("the words naming a step, and the lines of a handed-in file", () => {
   expect(stepIn(at("game-master"))).toBe("game-master")
   expect(stepIn(at("recorders"))).toBe("recorders")
-  expect(stepIn(`${turnStatus.slug}/nobody`)).toBeNull()
+  expect(stepIn(`${stepStatus.slug}/nobody`)).toBeNull()
   expect(workingSaid("world-builder")).toBe("The world builder is working…")
   expect(workingSaid("writer")).toBe("The writer is working…")
   expect(workingSaid("reviewers")).toBe("The reviewers are working…")

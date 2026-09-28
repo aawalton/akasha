@@ -52,7 +52,7 @@ const NAMED = [playedTurn, actionFile] as const
 
 const KEPT = ["partOfCollections", "position", "unit"] as const
 
-const STATUS = "turnStatus"
+const STATUS = "stepStatus"
 
 const ACTION = "action"
 

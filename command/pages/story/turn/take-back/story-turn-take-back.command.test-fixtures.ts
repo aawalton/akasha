@@ -9,8 +9,8 @@ import type {
   Commit,
   TakingBack,
 } from "akasha/command/pages/story/turn/take-back/story-turn-take-back.command.code.ts"
+import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
 import type { TurnStep } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
-import { turnStatus } from "akasha/story/world/stories/played/turns/turn-status/turn-status.page-type.ts"
 
 export const SLUG = "the-saga-00-003"
 
@@ -93,7 +93,7 @@ export function turnAt(status: TurnStep = "player"): Turn {
     value: {
       partOfCollections: [`story-played/${GAME}`],
       position: 3,
-      turnStatus: `${turnStatus.slug}/${status}`,
+      stepStatus: `${stepStatus.slug}/${status}`,
       action: "I open the gate",
     },
   }

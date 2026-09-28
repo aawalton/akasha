@@ -11,7 +11,7 @@ export const theDatingGame00037 = {
   position: 37,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/player",
+  stepStatus: "step-status/player",
   action:
     "“Nothing ever close or far. It just is. Almost like standing outside of time and looking at it from the side, other than this one moment I’m experiencing now.”",
   beats: [

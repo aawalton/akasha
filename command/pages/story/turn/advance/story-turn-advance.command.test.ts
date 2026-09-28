@@ -30,10 +30,9 @@ import {
 } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.test-fixtures.ts"
 import { writtenLine } from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
 import type { Reach } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
+import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
 import { memory } from "akasha/story/recorder/pages/memory.story-recorder.ts"
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
-
-import { turnStatus } from "akasha/story/world/stories/played/turns/turn-status/turn-status.page-type.ts"
 
 const CALLED = "akasha story turn advance"
 
@@ -68,7 +67,7 @@ test("the game master's beats land on the turn and tell the writer the lore to r
   const answer = await advancedBy(["--beats-file", join(ROOT, "beats.txt")], reach)
   expect(answer.refusals).toEqual([])
   expect(into.folded[0]?.values).toEqual({
-    turnStatus: `${turnStatus.slug}/writer`,
+    stepStatus: `${stepStatus.slug}/writer`,
     beats: ["Mara opens the gate", "The hall is dark"],
   })
   expect(into.folded[0]?.path).toBe(AT)
@@ -102,7 +101,7 @@ test("the last reviewer's clean review starts the recorders and stops the review
     reachOver(turn, seatOf("reviewer", reviewer), into)
   )
   expect(answer.refusals).toEqual([])
-  expect(into.folded[0]?.values["turnStatus"]).toBe(`${turnStatus.slug}/recorders`)
+  expect(into.folded[0]?.values["stepStatus"]).toBe(`${stepStatus.slug}/recorders`)
   expect(into.folded[0]?.bodies).toBeUndefined()
   expect(into.starts.map((one) => [one.role, one.flex])).toEqual([
     ["story-recorder", "flex-2"],
@@ -122,7 +121,7 @@ test("the last reviewer's issues send the turn back to the game master, starting
     reachOver(turn, seatOf("reviewer", reviewer), into)
   )
   expect(answer.refusals).toEqual([])
-  expect(into.folded[0]?.values["turnStatus"]).toBe(`${turnStatus.slug}/game-master`)
+  expect(into.folded[0]?.values["stepStatus"]).toBe(`${stepStatus.slug}/game-master`)
   expect(into.starts).toEqual([])
   expect(into.notices).toEqual(toldAll("game-master"))
   expect(into.stops).toEqual([reviewer])
@@ -139,7 +138,7 @@ test("a reviewer that is not the last lands its issues, tells nobody and stops i
   expect(answer.refusals).toEqual([])
   expect(into.steps).toEqual(["read", `hold ${AT}`, "read", "land", `free ${AT}`])
   expect(into.folded[0]?.values).toEqual({
-    turnStatus: `${turnStatus.slug}/reviewers`,
+    stepStatus: `${stepStatus.slug}/reviewers`,
     reviewedBy: ["story-reviewer/voice"],
     issues: ['"opens" - it was locked'],
   })
@@ -155,7 +154,7 @@ test("two reviewers advancing at once each land on what the other landed, so the
   ])
   expect([...voice.refusals, ...continuity.refusals]).toEqual([])
   expect(race.now().value["reviewedBy"]).toEqual(REVIEWED.slice().reverse())
-  expect(race.now().value["turnStatus"]).toBe(`${turnStatus.slug}/recorders`)
+  expect(race.now().value["stepStatus"]).toBe(`${stepStatus.slug}/recorders`)
 })
 
 const WRITTEN = ["--prose-file", join(ROOT, "prose.txt"), "--character", "character-player/mara"]
@@ -168,7 +167,7 @@ test("the writer's first prose lands beside the turn and starts one fresh seat f
   )
   expect(answer.refusals).toEqual([])
   expect(into.folded[0]?.values).toEqual({
-    turnStatus: `${turnStatus.slug}/reviewers`,
+    stepStatus: `${stepStatus.slug}/reviewers`,
     prose: "txt",
     ownLength: 4,
     characters: ["character-player/mara"],
@@ -200,7 +199,7 @@ test("with no story recorder the writer's prose on a reviewed turn goes to the p
   )
   expect(answer.refusals).toEqual([])
   expect(into.folded[0]?.values).toEqual({
-    turnStatus: `${turnStatus.slug}/player`,
+    stepStatus: `${stepStatus.slug}/player`,
     prose: "txt",
     ownLength: 4,
     characters: ["character-player/mara"],
@@ -223,7 +222,7 @@ test("the writer's rewrite skips the reviewers, moving the turn to the recorders
     landingInto(into)
   )
   expect(answer.refusals).toEqual([])
-  expect(into.folded[0]?.values["turnStatus"]).toBe(`${turnStatus.slug}/recorders`)
+  expect(into.folded[0]?.values["stepStatus"]).toBe(`${stepStatus.slug}/recorders`)
   expect(into.folded[0]?.bodies).toEqual({ prose: "Mara opens the gate.\n" })
   expect(into.landings).toEqual([[]])
   expect(into.starts.map((one) => [one.persona, one.role, one.game, one.flex])).toEqual([
@@ -253,7 +252,7 @@ test("a recorder that is not the last keeps its drafted edits beside the turn, l
   expect(answer.refusals).toEqual([])
   expect(into.keeps).toEqual([`an-agent ${AT}`])
   expect(into.folded[0]?.values).toEqual({
-    turnStatus: `${turnStatus.slug}/recorders`,
+    stepStatus: `${stepStatus.slug}/recorders`,
     recordedBy: ["story-recorder/cast"],
   })
   expect(into.landings).toEqual([[]])
@@ -273,7 +272,7 @@ test("the last recorder lands every recorder's kept edits with the move to playe
   expect(answer.refusals).toEqual([])
   expect(into.keeps).toEqual([`an-agent ${AT}`])
   expect(into.folded[0]?.values).toEqual({
-    turnStatus: `${turnStatus.slug}/player`,
+    stepStatus: `${stepStatus.slug}/player`,
     recordedBy: ["story-recorder/cast", `${storyRecorder.slug}/${memory.slug}`],
   })
   expect(into.landings).toEqual([DRAFTED])
@@ -294,7 +293,7 @@ test("a recorder's kept edit to the turn's own page is folded into the move to p
   expect(answer.refusals).toEqual([])
   expect(into.folded[0]?.values).toEqual({
     endsAt: "2026-09-26T09:05:00.000Z",
-    turnStatus: `${turnStatus.slug}/player`,
+    stepStatus: `${stepStatus.slug}/player`,
     recordedBy: ["story-recorder/cast", `${storyRecorder.slug}/${memory.slug}`],
   })
   expect(into.landings).toEqual([DRAFTED])
@@ -310,7 +309,7 @@ test("a recorder that is not the last folds its edit to the turn's own page into
   expect(answer.refusals).toEqual([])
   expect(into.folded[0]?.values).toEqual({
     endsAt: "2026-09-26T09:05:00.000Z",
-    turnStatus: `${turnStatus.slug}/recorders`,
+    stepStatus: `${stepStatus.slug}/recorders`,
     recordedBy: ["story-recorder/cast"],
   })
   expect(into.landings).toEqual([[]])

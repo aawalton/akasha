@@ -11,7 +11,7 @@ export const theDatingGame00042 = {
   position: 42,
   prose: "txt",
   characters: ["character-other/the-dating-game-aelwyn", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/player",
+  stepStatus: "step-status/player",
   action: '"Mind if I join you Aelwyn? Trail\'s always better with company."',
   beats: [
     'He asks, "Mind if I join you, Aelwyn? Trail\'s always better with company."',

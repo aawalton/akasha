@@ -11,7 +11,7 @@ export const theDatingGame00012 = {
   position: 12,
   prose: "txt",
   characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/player",
+  stepStatus: "step-status/player",
   action:
     '"Okay, I\'m glad you have good boundaries. With the aphantasia I have no sense of time, which makes it hard for me to tell when the timing is right, but I\'m happy to let you set the pace. I really do like you."\n\n"So, you read LitRPG? What\'s one of your favorite series?"',
   beats: [

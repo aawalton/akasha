@@ -3,18 +3,18 @@ import { reviewer as reviewerRole } from "akasha/agent/role/pages/reviewer.role.
 import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
 import { worldBuilder as worldBuilderRole } from "akasha/agent/role/pages/world-builder.role.ts"
 import { writer as writerRole } from "akasha/agent/role/pages/writer.role.ts"
+import { gameMaster } from "akasha/story/chapter/step-status/pages/game-master.step-status.ts"
+import { player } from "akasha/story/chapter/step-status/pages/player.step-status.ts"
+import { recorders as recordersStatus } from "akasha/story/chapter/step-status/pages/recorders.step-status.ts"
+import { reviewers as reviewersStatus } from "akasha/story/chapter/step-status/pages/reviewers.step-status.ts"
+import { worldBuilder } from "akasha/story/chapter/step-status/pages/world-builder.step-status.ts"
+import { writer } from "akasha/story/chapter/step-status/pages/writer.step-status.ts"
+import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
 import { wordCount } from "akasha/story/engine/core/modules/word-count/word-count.module.code.ts"
 import { lore as lorePageType } from "akasha/story/lore/lore.page-type.ts"
 import { place } from "akasha/story/lore/place/place.page-type.ts"
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
 import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
-import { gameMaster } from "akasha/story/world/stories/played/turns/turn-status/pages/game-master.turn-status.ts"
-import { player } from "akasha/story/world/stories/played/turns/turn-status/pages/player.turn-status.ts"
-import { recorders as recordersStatus } from "akasha/story/world/stories/played/turns/turn-status/pages/recorders.turn-status.ts"
-import { reviewers as reviewersStatus } from "akasha/story/world/stories/played/turns/turn-status/pages/reviewers.turn-status.ts"
-import { worldBuilder } from "akasha/story/world/stories/played/turns/turn-status/pages/world-builder.turn-status.ts"
-import { writer } from "akasha/story/world/stories/played/turns/turn-status/pages/writer.turn-status.ts"
-import { turnStatus } from "akasha/story/world/stories/played/turns/turn-status/turn-status.page-type.ts"
 
 export const TURN_STEPS = [
   worldBuilder.slug,
@@ -41,7 +41,7 @@ export const PLAYER: TurnStep = player.slug
 
 const MANY: readonly TurnStep[] = [REVIEWERS, RECORDERS]
 
-export const TURN_SENDER = "story-turn"
+export const STEP_SENDER = "story-step"
 
 export const MOST_LINES = 100
 
@@ -49,7 +49,7 @@ export const LONGEST_LINE = 100
 
 export const LONGEST_ACTION = 4000
 
-const TURN_STATUS = turnStatus.slug
+const STEP_STATUS = stepStatus.slug
 
 const STORY_REVIEWER = storyReviewer.slug
 
@@ -155,7 +155,7 @@ export function stepIn(value: unknown): TurnStep | null {
 }
 
 export function statusOf(step: TurnStep): string {
-  return `${TURN_STATUS}${PARTED}${step}`
+  return `${STEP_STATUS}${PARTED}${step}`
 }
 
 export function bareOf(address: string): string {
@@ -220,7 +220,7 @@ function moved(
   prose: string | null = null,
   landsKept = false
 ): Moved {
-  const stated = { turnStatus: statusOf(status), ...values }
+  const stated = { stepStatus: statusOf(status), ...values }
   return { status, values: stated, prose, starts, stopsCaller, landsKept }
 }
 
@@ -397,7 +397,7 @@ export function turnAfter(latest: Latest | null, action: string): Made {
       partOfCollections: [...latest.collections],
       position: latest.position + 1,
       ...(latest.unit === null ? {} : { unit: latest.unit }),
-      turnStatus: statusOf(WORLD_BUILDER),
+      stepStatus: statusOf(WORLD_BUILDER),
       action,
     },
   }

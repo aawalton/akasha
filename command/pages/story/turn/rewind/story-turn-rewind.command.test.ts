@@ -13,7 +13,7 @@ import type {
 import { storyTurnRewind } from "akasha/command/pages/story/turn/rewind/story-turn-rewind.command.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import { taking } from "akasha/page/service/modules/page-putting/page-putting.module.code.ts"
-import { turnStatus } from "akasha/story/world/stories/played/turns/turn-status/turn-status.page-type.ts"
+import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
 
 const CALLED = "akasha story turn rewind"
 
@@ -64,7 +64,7 @@ const PLAYED = {
   partOfCollections: ["story-played/the-saga"],
   position: 3,
   unit: UNIT,
-  turnStatus: `${turnStatus.slug}/player`,
+  stepStatus: `${stepStatus.slug}/player`,
   beats: ["Mara opens the gate"],
   issues: ['"opens" - it was locked'],
   reviewedBy: ["story-reviewer/voice"],
@@ -193,7 +193,7 @@ test("a rewind clears what the turn made, its end time too, keeps its action and
     partOfCollections: ["story-played/the-saga"],
     position: 3,
     unit: UNIT,
-    turnStatus: `${turnStatus.slug}/world-builder`,
+    stepStatus: `${stepStatus.slug}/world-builder`,
     action: "I open the gate",
   })
   expect(into.asked).toEqual([taking(PROSE_AT), taking(OUTCOMES_AT)])
@@ -203,7 +203,7 @@ test("a rewind clears which recorders ran and discards the edits they kept besid
   const into = seen()
   const turn = turnAt({
     action: "I open the gate",
-    turnStatus: `${turnStatus.slug}/recorders`,
+    stepStatus: `${stepStatus.slug}/recorders`,
     recordedBy: ["story-recorder/cast"],
   })
   const answer = await rewoundBy([], reachOver(turn, into), into)
@@ -249,7 +249,7 @@ test("a turn already rewound lands nothing and is told again", async () => {
     partOfCollections: ["story-played/the-saga"],
     position: 3,
     unit: UNIT,
-    turnStatus: `${turnStatus.slug}/world-builder`,
+    stepStatus: `${stepStatus.slug}/world-builder`,
     action: "I open the gate",
   }
   const reach = { ...reachOver(turnAt(), into), present: () => false }
@@ -349,7 +349,7 @@ test("a rewind of a turn with no outcomes takes nothing back", async () => {
 
 test("outcomes only drafted beside the turn are discarded and take nothing back", async () => {
   const into = seen()
-  const turn = turnAt({ action: "I open the gate", turnStatus: `${turnStatus.slug}/recorders` })
+  const turn = turnAt({ action: "I open the gate", stepStatus: `${stepStatus.slug}/recorders` })
   const reach = {
     ...scoredOver(turn, into, [scoredLine(3)]),
     present: (_root: string, path: string) => path === PROSE_AT,

@@ -9,12 +9,17 @@ export const chapter = {
   pluralSlug: "chapters",
   extends: ["page-type/collection"],
   runsTabooCheck: false,
-  parts: ["relation-property/chapter-story"],
+  parts: [
+    "relation-property/chapter-story",
+    "page-type/step-status",
+    "relation-property/step-status",
+  ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/chapter-story", required: true, many: false },
     { pageProperty: "number-property/own-length", required: true, many: false },
     { pageProperty: "file-property/prose", required: true, many: false },
+    { pageProperty: "relation-property/step-status", required: false, many: false },
   ],
   decisions: [
     {

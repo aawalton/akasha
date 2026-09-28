@@ -11,7 +11,7 @@ export const otherwhere00064 = {
   position: 64,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/player",
+  stepStatus: "step-status/player",
   action:
     "**Okay, I'm not comfortable opening to patrons with this many books on the floor. I'll keep working on that and we'll open when at least these shelves are clean. Let me know if I find more books to speed up the process.** I continue working through the piles through the afternoon.",
   beats: [

@@ -11,7 +11,7 @@ export const theDatingGame00022 = {
   position: 22,
   prose: "txt",
   characters: ["character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/player",
+  stepStatus: "step-status/player",
   action: "I continue around the hill, singing quietly to myself as I walk.",
   beats: [
     "Alan walks on around the hill, singing quietly to himself.",

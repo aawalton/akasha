@@ -9,10 +9,10 @@ import type {
   Turn,
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
+import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
 import { continuity } from "akasha/story/reviewer/pages/continuity.story-reviewer.ts"
 import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
 import type { TurnStep } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
-import { turnStatus } from "akasha/story/world/stories/played/turns/turn-status/turn-status.page-type.ts"
 
 export const SLUG = "the-saga-00-003"
 
@@ -77,7 +77,7 @@ const TURN_TEXT = `export const theSaga00003 = {
   type: "page-type/story-turn-played",
   slug: "${SLUG}",
   partOfCollections: ["story-played/the-saga"],
-  turnStatus: "turn-status/recorders",
+  stepStatus: "step-status/recorders",
   recordedBy: ["story-recorder/cast"],
 } as const
 `
@@ -201,7 +201,7 @@ export function turnAt(status: TurnStep, more: Record<string, unknown> = {}): Tu
     slug: SLUG,
     value: {
       partOfCollections: ["story-played/the-saga"],
-      turnStatus: `${turnStatus.slug}/${status}`,
+      stepStatus: `${stepStatus.slug}/${status}`,
       ...more,
     },
   }

@@ -11,7 +11,7 @@ export const theDatingGame00040 = {
   position: 40,
   prose: "txt",
   characters: ["character-other/the-dating-game-aelwyn", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/player",
+  stepStatus: "step-status/player",
   action:
     'I get up for the day, dress is slacks and my "adventurer shirt" that I wear to ren faires, and then hike up Rock Canyon to the clearing I recognized from my dream.',
   beats: [

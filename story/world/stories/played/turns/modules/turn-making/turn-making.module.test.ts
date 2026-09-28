@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { words } from "akasha/alan/collection/unit/pages/words.unit.ts"
 import { unit } from "akasha/alan/collection/unit/unit.page-type.ts"
 import type { Writing } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
 import {
   besideChapter,
   besideTurn,
@@ -9,7 +10,6 @@ import {
   latestAsked,
   turnMadeFor,
 } from "akasha/story/world/stories/played/turns/modules/turn-making/turn-making.module.code.ts"
-import { turnStatus } from "akasha/story/world/stories/played/turns/turn-status/turn-status.page-type.ts"
 
 const GAME = "the-saga"
 
@@ -26,7 +26,7 @@ function callsOver(status: string, wrote: Writing[]): Calls {
           position: 2,
           partOfCollections: [`story-played/${GAME}`],
           unit: WORDS,
-          turnStatus: `${turnStatus.slug}/${status}`,
+          stepStatus: `${stepStatus.slug}/${status}`,
         },
       ],
       n: 3,
@@ -63,7 +63,7 @@ test("an action writes the next turn as new, beside the turn before it", async (
         partOfCollections: [`story-played/${GAME}`],
         position: 3,
         unit: WORDS,
-        turnStatus: `${turnStatus.slug}/world-builder`,
+        stepStatus: `${stepStatus.slug}/world-builder`,
         action: "I open the gate",
       },
     },
@@ -120,7 +120,7 @@ test("a story whose turns a chapter all took makes its next turn after the chapt
     partOfCollections: [`story-played/${GAME}`],
     position: 50,
     unit: WORDS,
-    turnStatus: `${turnStatus.slug}/world-builder`,
+    stepStatus: `${stepStatus.slug}/world-builder`,
     action: "I open the gate",
   })
 })

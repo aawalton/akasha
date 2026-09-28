@@ -35,7 +35,7 @@ const COLLECTIONS = "partOfCollections"
 
 const UNIT = "unit"
 
-const STATUS = "turnStatus"
+const STATUS = "stepStatus"
 
 const STORY = "story"
 

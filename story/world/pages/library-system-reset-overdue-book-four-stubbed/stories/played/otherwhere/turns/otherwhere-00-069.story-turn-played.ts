@@ -11,7 +11,7 @@ export const otherwhere00069 = {
   position: 69,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/player",
+  stepStatus: "step-status/player",
   action: "**Links, how long until the main floor is cleared at this rate?**",
   beats: [
     "Nala asks Links, silently, how long the golems will take to clear the main level at this pace.",

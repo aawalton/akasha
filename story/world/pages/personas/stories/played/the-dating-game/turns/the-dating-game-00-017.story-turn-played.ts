@@ -11,7 +11,7 @@ export const theDatingGame00017 = {
   position: 17,
   prose: "txt",
   characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/player",
+  stepStatus: "step-status/player",
   action:
     "\"Oh, you want to do the recording at BYU Radio? I guess that works. Want to head there now? I'd have to stop in at my house to pick up the first volume, but its on the way, you'd be welcome to wait outside.\"",
   beats: [

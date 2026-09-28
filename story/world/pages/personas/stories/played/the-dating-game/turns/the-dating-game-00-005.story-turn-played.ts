@@ -11,7 +11,7 @@ export const theDatingGame00005 = {
   position: 5,
   prose: "txt",
   characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/player",
+  stepStatus: "step-status/player",
   action: "\"You're Echo? That's a really pretty name. I'm a big fan of unusual names.\"",
   beats: [
     "Alan says: \"You're Echo? That's a really pretty name. I'm a big fan of unusual names.\"",

@@ -12,7 +12,7 @@ import {
   ACTION_BAR_SENDER,
 } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 import { theTower } from "akasha/story/world/pages/personas/stories/played/the-tower/the-tower.story-played.ts"
-import { TURN_SENDER } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import { STEP_SENDER } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
 const ROOT = rootOf(import.meta.dir)
 
@@ -48,9 +48,9 @@ test("the world builder seat is started by its game master, and never by the act
 })
 
 test("every game seat is started by a notice that a turn moved", () => {
-  expect(heard(MASTER, `agent:${TURN_SENDER}`)).toBe(true)
-  expect(heard(BUILDER, `agent:${TURN_SENDER}`)).toBe(true)
-  expect(heard(WRITER, `agent:${TURN_SENDER}`)).toBe(true)
+  expect(heard(MASTER, `agent:${STEP_SENDER}`)).toBe(true)
+  expect(heard(BUILDER, `agent:${STEP_SENDER}`)).toBe(true)
+  expect(heard(WRITER, `agent:${STEP_SENDER}`)).toBe(true)
 })
 
 test("the writer seat is started by a notice alone, never by the action bar or the game master", () => {

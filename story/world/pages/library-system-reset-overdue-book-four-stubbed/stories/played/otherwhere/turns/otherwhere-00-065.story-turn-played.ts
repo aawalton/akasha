@@ -11,7 +11,7 @@ export const otherwhere00065 = {
   position: 65,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/player",
+  stepStatus: "step-status/player",
   action: "I go back to the basement and sync with the core again.",
   beats: [
     "Nala winds down the spiral staircase into the round chamber, the amber light fading behind her.",

@@ -11,7 +11,7 @@ export const otherwhere00068 = {
   position: 68,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/player",
+  stepStatus: "step-status/player",
   action:
     '"You must be the shelving helpers. Go ahead and work on shelving all the unshelved books on the main floor, starting from the counter."',
   beats: [

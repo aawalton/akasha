@@ -11,7 +11,7 @@ export const theDatingGame00019 = {
   position: 19,
   prose: "txt",
   characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/player",
+  stepStatus: "step-status/player",
   action:
     "\"That was amazing! That was the best narration I've heard of anything ever, and I'm not even exaggerating to make a point. I mean, you've had way longer to practice than anyone else, and I'm sure your curse made it so you had to practice whether you wanted to or not, which sucks. But what a blessing for your narrative skills. I could listen to you all day.\"",
   beats: [
