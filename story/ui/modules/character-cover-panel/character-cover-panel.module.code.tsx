@@ -1,5 +1,6 @@
 "use client"
 
+import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { titledAs } from "akasha/page/core/modules/titled-as/titled-as.module.code.ts"
@@ -20,7 +21,8 @@ import { characterOther } from "akasha/story/world/characters/character-other/ch
 import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
 import { characters } from "akasha/story/world/characters/properties/characters.multi-relation-property.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
-import { useMemo } from "react"
+import { ChevronLeft, ChevronRight } from "lucide-react"
+import { type ReactNode, useMemo, useState } from "react"
 
 const ID_KEY = "id"
 
@@ -183,14 +185,73 @@ function Figure({ one }: { one: CharacterCover }) {
   )
 }
 
+export function characterShownAt(covers: readonly CharacterCover[], picked: string | null): number {
+  const at = picked === null ? -1 : covers.findIndex((one) => one.slug === picked)
+  return at === -1 ? 0 : at
+}
+
+export type CharacterStep = "earlier" | "later"
+
+export function characterSteppedTo(
+  covers: readonly CharacterCover[],
+  at: number,
+  step: CharacterStep
+): CharacterCover | undefined {
+  return covers[step === "earlier" ? at - ONE : at + ONE]
+}
+
+type CharacterStepButton = {
+  readonly step: CharacterStep
+  readonly label: string
+  readonly icon: ReactNode
+}
+
+const EARLIER: CharacterStepButton = {
+  step: "earlier",
+  label: "Earlier character",
+  icon: <ChevronLeft aria-hidden />,
+}
+
+const LATER: CharacterStepButton = {
+  step: "later",
+  label: "Later character",
+  icon: <ChevronRight aria-hidden />,
+}
+
 function Covers({ keyed, read }: { keyed: string; read: Read }) {
+  const [picked, setPicked] = useState<string | null>(null)
   const covers = characterCoversOf(namedOf(keyed), new Map(read))
-  if (covers.length === 0) return null
+  const at = characterShownAt(covers, picked)
+  const shown = covers[at]
+  if (shown === undefined) return null
+  const stepped = ({ step, label, icon }: CharacterStepButton) => {
+    const to = characterSteppedTo(covers, at, step)
+    return (
+      <Button
+        variant="secondary"
+        size="icon-sm"
+        aria-label={label}
+        disabled={to === undefined}
+        onClick={() => {
+          if (to !== undefined) setPicked(to.slug)
+        }}
+      >
+        {icon}
+      </Button>
+    )
+  }
   return (
     <SurfaceProvider level={1} className="flex flex-col gap-3 rounded-xl p-4 shadow-sm">
-      {covers.map((one) => (
-        <Figure key={one.slug} one={one} />
-      ))}
+      <Figure key={shown.slug} one={shown} />
+      {covers.length > ONE ? (
+        <div className="flex items-center justify-between">
+          {stepped(EARLIER)}
+          <span className="font-mono text-[12px] text-secondary">
+            {at + ONE} of {covers.length}
+          </span>
+          {stepped(LATER)}
+        </div>
+      ) : null}
     </SurfaceProvider>
   )
 }

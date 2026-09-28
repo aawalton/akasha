@@ -4,7 +4,7 @@ export const otherCharacters = {
   id: "01a0e81f-b53a-7ac1-a0c7-8ad8ee82a3aa",
   type: "page-type/played-panel",
   slug: "other-characters",
-  definition: "the other characters the latest turn names, each named above its picture",
+  definition: "the other characters the latest turn names, one picture at a time",
   code: "tsx",
   drawn: "js",
   place: "panel-place/aside",

@@ -30,6 +30,28 @@ export const characterCoverPanel = {
       decisionKind: "decision-kind/departure",
       statement: "A character with no cover is left out rather than drawn empty.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "One character's cover is drawn at a time, opening on the first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Where more than one character has a cover, arrows under it step to the one before or after.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Between those arrows is which character is drawn, out of how many.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An arrow with no character on its side is greyed out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A character stepped to stays drawn while the latest turn has it, and the first is drawn otherwise.",
+    },
 
     {
       decisionKind: "decision-kind/absence",

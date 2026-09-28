@@ -3,8 +3,11 @@ import { asPage } from "akasha/page/core/modules/page-types/page-types.module.co
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { persona } from "akasha/persona/persona.page-type.ts"
 import {
+  type CharacterCover,
   COVER_WIDTH_ASKED,
   characterCoversOf,
+  characterShownAt,
+  characterSteppedTo,
   charactersIn,
   latestTurnId,
   othersOf,
@@ -105,4 +108,25 @@ test("a character with no cover, or no row, is left out", () => {
   const named = charactersIn([other("a"), other("b")])
   const rows = new Map([[characterOther.slug, [row({ slug: "a" })]]])
   expect(characterCoversOf(named, rows)).toEqual([])
+})
+
+function covered(slug: string): CharacterCover {
+  return { slug, name: slug, source: source(slug), whole: whole(slug) }
+}
+
+test("the character shown first is the first with a cover", () => {
+  expect(characterShownAt([covered("a"), covered("b")], null)).toBe(0)
+})
+
+test("a character paged to stays shown while it still has a cover", () => {
+  expect(characterShownAt([covered("a"), covered("b")], "b")).toBe(1)
+  expect(characterShownAt([covered("a"), covered("c")], "b")).toBe(0)
+})
+
+test("the arrows step one character either way and stop at the ends", () => {
+  const covers = [covered("a"), covered("b"), covered("c")]
+  expect(characterSteppedTo(covers, 1, "earlier")?.slug).toBe("a")
+  expect(characterSteppedTo(covers, 1, "later")?.slug).toBe("c")
+  expect(characterSteppedTo(covers, 0, "earlier")).toBeUndefined()
+  expect(characterSteppedTo(covers, 2, "later")).toBeUndefined()
 })
