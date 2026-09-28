@@ -4,6 +4,8 @@ export const imageB73cd6522affb945 = {
   id: "01a0e9dc-e388-7ac0-aaca-fbed1d129235",
   type: "page-type/image",
   slug: "image-b73cd6522affb945",
+  title: "Asleep in Fallen Cherry Blossoms",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
