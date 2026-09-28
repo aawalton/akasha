@@ -339,6 +339,38 @@ export const otherwhereMainHall = {
         "character-other/otherwhere-links",
       ],
     },
+    {
+      fact: "Links knows every book shelved in the Library, and can search them by what they teach.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "Counter Keeping is a working text of the Library's own magic, teaching the Counter's lending.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "Counter Keeping takes some three hours' quiet reading; without its power the Counter lends no book.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "Nala shelved Counter Keeping herself, from the heaps by the columns, low down near the Counter.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "Courtesies of the Many Peoples is a thick, plain guide to patrons' customs, holding no power.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "Courtesies takes days to read whole; its first part, on the commonest peoples, takes an afternoon.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "A golem shelved Courtesies of the Many Peoples this morning, high on the west gallery.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "No book yet shelved in the main hall teaches a healing power.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
