@@ -25,7 +25,7 @@ export const KEYED_BY: readonly (readonly [string, string])[] = [
   [temperMetricTree.slug, "nodeId"],
 ]
 
-export const SET_CATEGORY_FIELDS: readonly string[] = ["slug", "key", "title", "displayOrder"]
+const SET_CATEGORY_FIELDS: readonly string[] = ["slug", "key", "title", "displayOrder"]
 
 export function fieldsKeyedBy(pageTypeSlug: string, field: string): readonly string[] {
   return pageTypeSlug === temperSetCategory.slug ? SET_CATEGORY_FIELDS : ["slug", field]
@@ -59,7 +59,7 @@ export const SET_FIELDS: readonly string[] = [
 
 type Keys = ReadonlyMap<string, string>
 
-export type PagesOf = (pageTypeSlug: string) => Iterable<Value>
+type PagesOf = (pageTypeSlug: string) => Iterable<Value>
 
 export class Unkeyed extends Error {}
 
