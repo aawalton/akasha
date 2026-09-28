@@ -1,0 +1,229 @@
+<Alex, Real - Prepare, High School Gym>
+
+With Undead Bane removed as being too niche, Alex almost took the Life Aspected, Warrior (Rare) immediately, but something made him check the book again.
+
+What he found made him blanch, and he shared the info with Natasha. She seemed unimpressed by the potential downsides, so he left her to it.
+
+Those with an Uncommon class would earn levels at one third the rate as a Common class. Rare classes at one third of that.
+
+So, one level of Life Aspected Warrior (Rare) would take him nine times as long to earn as a level up in a Common class.
+
+He then got a bit more than four times the stats, plus other rewards, but even so it was a hefty hurdle to overcome.
+
+It was like his Race all over again.
+
+Now, however, he had a bit more mental power to bring to bear when compared to when he’d encountered this hurdle before.
+
+He did some quick math, and what he found was not as easy to parse as he’d originally thought. The key added bit of information was the fact that having a lower level number increased experience gained. If he understood the ratios right—and the woman hadn’t let much slip—it more than balanced out. In fact, as it turned out, he wanted as advanced a class as he could get, as early as possible to have the best results in the end for the least experience.
+
+In fact, if he understood the qualifications correctly, he should be able to qualify for classes one rarity… rarer? Whatever was beyond Rare. The Rare classes had required at least an Uncommon Race, and his was Rare, so he should be able to reach higher… in theory.
+
+That theory was obviously flawed as none had been offered.
+
+He could look into that later, though.
+
+The only balancing factor to simply grabbing the rarest class possible was that he needed to be strong enough to earn the experience to level-up.
+
+That was… daunting. Maybe he should level a bit with a weaker class, first?
+
+That would give him the foundation needed to keep earning XP…
+
+He swallowed, then shook his head. No. If this was the tutorial, this would be the best or safest way to gain power that he was likely to come across. He needed to come out of it as powerful as possible.
+
+With a nod, he spoke under his breath, “Accept Class Life-Aspected Warrior.”
+
+Class Accepted:Alex JohnsonLife-Aspected Human (Rare), F, Level 2Class: NA→Class: Life-Aspected Warrior (Rare), F, Level 1Class 2: NAHP: 360 → 660SP: 360 → 410MP: 30/50 → 160
+
+Physical Stats:Power: 17 → 19Agility: 25 → 29Fortitude: 18 → 22
+
+Mental Stats:Power: 15 → 16Agility: 25 → 29Fortitude: 18 → 19
+
+Magical Stats:Power: 5 → 8Agility: 5 → 7Fortitude: 5 → 8
+
+Unused Points: 0 → 1
+
+He felt the magic of the System roaring through him, even as Natasha staggered against the wall beside him, undergoing a similar transformation. Though, he assumed, hers was proportionally larger given her lower stats to begin with.
+
+Or maybe not? He grimaced against the sensations raging through him. He wasn’t in a mental state to actually figure it out, and he really didn’t care that much.
+
+Two additional pop-ups slapped into him before he could fully right himself.
+
+Notice:Class acquired.Apology Tutorial Skill Acquisition - Lost
+
+Apology Tutorial Addendum:Each class grants one chosen skill or spell at every other level until level 5.Once you have selected a skill, you will be offered a choice between the base version and an improved skill or spell, merging with one or more of your existing skills or spells if at all possible.
+
+Alex’s eyes widened. That is very nice of the System.
+
+If it truly did offer customized skills and spells based on what the person already could do, this System was far more customizable than he might otherwise have feared. But if that was the case, he should probably absorb his spell orbs before selecting a class skill or spell.
+
+Class Notice:Initial Class Skill or Spell ChoiceA Choice Must be Made:
+
+Basic Health Manipulation (Common) [Skill]Basic Life Chains (Common) [Spell]Heavy Strike (Common) [Skill]Life’s Defense (Common) [Skill]Rage of a Great-Bladesman (Common) [Skill]Regrowth (Common) [Spell]
+
+Alex… had no idea which to choose. When he pulled up details on each, they were still rather general.
+
+Basic Health Manipulation was unhelpfully vague, simply stating that it gave basic proficiency in moving a body’s natural health energy around.
+
+Honestly, it struck Alex as being the same as Basic Mana Manipulation, but for HP rather than MP.
+
+It was interesting, but not immediately useful from what he could see.
+
+Basic Life Chains seemed to use an opponent’s own life energy to tie it down. While that was interesting on many levels, he immediately discounted it as an option. The reason? Undead had no life energy… he would assume. So, it would be useless against them… At least he thought that would be the case.
+
+Heavy Strike would let him spend stamina (SP) to add damage and penetrative power to his next strike with a melee weapon.
+
+Life’s Defense seemed to let him spread any damage that he took out across his three resource pools, rather than taking it all as HP loss. That would give him more staying power, and it had been go, go, go since moment one around here…
+
+Rage of the Great-Bladesman looked to burn SP and MP together to give him a short period of increased Physical Power, Agility, and Fortitude.
+
+The System emphasized ‘short’ in the description, and it also conveyed that the cool-down included a period of weakness.
+
+If he was going to be fighting sporadically, that might be a wonderful choice, but it also implied a reduction in cognitive ability both during and after the skill’s use.
+
+Classic berserking, I suppose?
+
+That made it rather unappealing if Alex was being honest with himself.
+
+Finally, Regrowth was essentially a healing skill, but more efficient and slower than the Basic Heal he’d seen elsewhere.
+
+With all of the options reviewed, there was one clear standout. “Accept Class Skill, Life’s Defense.”
+
+Choose skill variations:Life’s Defense (Common)
+
+OR
+
+Life’s Active Defense (Uncommon)This comes from merging Intercept Projectiles (Common), with the Class Skill Life’s Defense (Common)
+
+Life’s Defense (Common)Reinforce the health of your body with your other resources.Divide damage taken as desired between HP, MP, and SP rather than taking it all to your HP.Ratios can only be altered every 5 seconds.Physical Fortitude has a marginally greater effect when calculating damage taken, severity of wounds, and conditions received.This is an always active effect.
+
+Life’s Active Defense (Uncommon)Infuse either of your hands more fully with your health, reinforcing it at the same time.Damage taken is reduced by 80% then divided evenly between HP and SP rather than taking it all to your HP.Requires the chosen hand to intercept at least a part of the incoming attack.Does not work on areas of effect unless they have a directionality and the hand is imposed between you and the direction of origin.Physical Fortitude has a minor increase to effect when calculating damage, severity of wounds, and conditions received.Intercepting hand is immune to wounding unless more than 25% of remaining HP is taken as damage.5 second cooldown.
+
+The offered merging was much more powerful a defense against sporadic, strong attacks, but it would be horrible at defending against barrages or lots of little attacks. It also wasn’t as adjustable, but it was still clearly vastly superior in the end. The fact that it reduced damage taken, alone, was enough to make the choice obvious to him.
+
+At least, Alex believed that to be the case.
+
+“Accept Skill variation, Life’s Active Defense.”
+
+Notice:Class Skill and Variant Selection
+
+Decision Rating: Excellent.
+
+Knowledge of how to use the skill—how to move his own internal energies—came to his mind.
+
+He wanted to try it out—or even to just review the information that had just been implanted into his mind—but they had already taken far too much time.
+
+Alex sighed and moved on. He needed to get back to work. “Accept Experience.”
+
+Safe location detected:Calculating and granting experience…You killedHalf-Turned Commoner, level 1 x4You have killed Wight, Level 4
+
+Reward:Experience reduced for opponents below your level.Opponents were of a lower Rarity, experience reduced accordingly.Experience marginally increased for an opponent above your level.
+
+That’s it? Alex grimaced. He couldn’t exactly tell how much experience he’d gotten, but it felt like his class had moved less than 5% toward level 2, and his race advancement hadn’t moved at all.
+
+He really needed to figure out how all of this worked…
+
+He considered for a moment and frowned. “Natasha, did you get any experience from the wight?”
+
+She shrugged, already done and waiting for him. “I got an assist, it looks like. Gave me some pretty great class options, actually. It must have been a beast.”
+
+“Your class is Uncommon rarity?”
+
+“Yes. Partially thanks to you, actually. ‘Save the life of a Rare Raced individual above your level.’ That was a key requirement in the class I chose.”
+
+“I’m glad I could assist?”
+
+“Just don’t make a habit of it. Or do. I think I get bonus experience for kills made while saving someone of higher Race Rarity than myself, now.”
+
+He grunted, looking through his book. “I can’t say I’d mind that, honestly. If you don’t mind my asking, what class did you take?”
+
+“Initiate of the Guard (Uncommon). It’ll make it easier to use stamina based skills and spells as well as giving nice boosts when I use a spear, doubly so if I’m protecting others. You?”
+
+“Life-Aspected Warrior (Rare).” He then coughed as she raised an eyebrow. “We can talk more later.”
+
+She shook her head. “Fine, but I want a full accounting at some point.”
+
+He sighed but then nodded. “When we have a bit of downtime, definitely. I owe you at least that much.”
+
+She shook her head even as she smiled, but instead of continuing the conversation, she gestured for him to lead the way. “After you.”
+
+As Alex stepped through the door, into the large room filled with the low murmur of voices, Alex was… marginally horrified.
+
+There were nearly a hundred people in the gym, including Matt Adams from Alex’s Martial Arts Studio. Most were either his co-workers, fellow Martial Arts students, or their families and close friends.
+
+It seemed like people took his warning a bit more seriously than he’d expected.
+
+Lenka slipped out past Alex and Natasha as they came in.
+
+She smiled and shrugged, “I’ve traps to finalize.”
+
+Alex handed her the Minor Heal book as they passed. “For after you absorb the Mana Manipulation orb.”
+
+She made the book vanish and grinned in return. “Thanks.”
+
+James was already in the gym, obviously, and so were Grant and Kaylee.
+
+Alex took a moment to review the full listing of the major quests he was working on… that he’d been made aware of.
+
+Group Quest [Prepare]:Create a base of operations from which you can survive the end of the world.
+
+Reward:Determined based upon results and surviving Initiates after the quest timer ends.
+
+Outbreak will begin within:03 hrs 49 min
+
+Individual Quest [Prepare]:Get at least one ‘friend’ from your false memories to join you in your base of operations.
+
+Reward:Determined based upon results and surviving ‘friends’ when the group quest timer ends.
+
+Technically, he had already succeeded on the Individual Quest, but he had assumed that it would actually calculate when the other timer ran out rather than when they had a place, and it seemed like he’d been right.
+
+Alright, then. Let’s settle in and finish preparing.
+
+<Lenka, Real - Prepare, High School Gym>
+
+Lenka was glad to be able to get out of the crowded main room in the gym. She was excited to learn Minor Heal, after her Basic Mana Manipulation skill, and so she did the latter while walking down the hallway toward the singular entrance which she desperately wanted to reinforce.
+
+It wasn’t the people that made her glad to leave. No, not at all. She just needed to make everyone safer.
+
+She allowed the lie to herself even as she sorted through the expected list of starter spells.
+
+A broad grin spread across her face as she found several that would augment her trap making very nicely.
+
+It took her a bit to narrow down what she wanted, but that was alright.
+
+She was able to consider the pros and cons even as she worked to balance her various traps, leaving them in an un-set state for the moment, given that they might still need to get out in a hurry for one reason or another.
+
+I can arm them quick enough anyways. She greatly preferred the outdoors, away from civilization. But no… I had to get this crazy city filled with zombies…
+
+She sighed, but then a smile pulled at her lips as she finished prepping yet another trap. Still, the city wasnt all bad. She felt like she was Home Alone, or something similar, and it was a bit of a childhood dream come true.
+
+Regardless, she knew that she was delaying… she should go and collaborate with the others.
+
+But I have spells to select. So, she did that. Choosing three bottom rarity spells that she thought she could use to great effect.
+
+Basic Mage Hand (Common) warned that it couldn’t move anything weighing more than a pound, but that was fine. Even if she couldn’t ever improve it—which she believed that she could—it would be useful in all sorts of ways to her.
+
+Basic Material Creation (Common) was similarly limited, unable to create complex compounds or shapes, but she already had a dozen ideas of how she could make it function.
+
+Finally, Basic Analyze Material (Common) would allow her to check the integrity of the various parts that she was working with, as well as make sure that her traps weren’t wearing out, or near to breaking as time went on.
+
+With her choices made, she grimaced, setting the easiest to disarm traps just so that they’d have some defense. The door was locked, but that never saved people in the movies. While she knew that those weren’t a reliable gauge on what would happen, she would still be really foolish to ignore the potential.
+
+That done, she reluctantly made her way back toward the others. She was halfway back when the lights went out, and people began to scream.
+
+<Alex, Real - Prepare, High School Gym>
+
+Alex looked up at the glaring gym lights inside the large room even as the sound of Lenka’s footfalls faded behind him.
+
+Kaylee, James, Natasha, and Grant met him in the doorway, and he quickly passed James and Kaylee each one of the Basic Mana Manipulation orbs as well as one of the Analyze skill orbs and one of the System Basics books.
+
+Grant and Lenka had gotten their own orbs of those varieties when they’d found a magic shop of their own.
+
+James also got the Cure Wounds book.
+
+Kaylee was given the Detect Unlife book, but she handed it back. Apparently, Grant had been able to grab an orb for that skill after Alex and Natasha had left their shop.
+
+The Clot Blood orb went to Natasha, now that she had the Magic Stats to learn spells.
+
+Alex kept the Detect Life orb as well as the Speed Reading book and one copy of the System Basics book for himself. He also had the Detect Unlife book still.
+
+With that, it was Grant’s turn to hand out goodies.

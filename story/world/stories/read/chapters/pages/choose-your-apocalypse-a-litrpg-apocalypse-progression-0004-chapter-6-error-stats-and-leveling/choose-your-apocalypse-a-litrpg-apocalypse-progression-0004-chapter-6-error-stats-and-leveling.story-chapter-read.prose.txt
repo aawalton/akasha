@@ -1,0 +1,299 @@
+<Alex, Real - Rewards?>
+
+Alex was still hanging in the black void when another prompt interrupted his contemplations.
+
+Error Resolved: Skills cannot be granted to a plague-ridden.Reward Recipient Alex Johnson no longer plague-ridden.
+
+Error Resolved: Zombie is not a valid Race for Tutorial Participants.Reward Recipient Alex Johnson no longer undergoing Race Evolution to become a Zombie.
+
+Quest [The Hallway]: CompleteYou have exited the hallway.
+
+Reward:Your Race Rank will be determined momentarily and level 1 will be granted.Your starter Skills will be granted momentarily.
+
+Starter Skills:Great-Blades Basics - Dadao, CommonYou wield the machete-like great-blade of yore. While it lacks the reach of many other great-blades, it makes up for that in versatility and close-range utility.
+
+You have an instinctive understanding of how to hold this weapon and use it in basic combat.Physical Power and Agility have a minor boost when wielding a dadao.Stamina usage is marginally lower when wielding a dadao.
+
+Advanced Kinesthetics, CommonYour body is your own, and it moves at your will. Weapons are great, and armor is useful, but being where you need to be, and moving how you need to move is more important than any mere weapon or armor.
+
+You have some instinctive understanding about how you should stand and move, as well as a better sense as to when things are right or not.Physical Agility and Power have marginally greater effect when you are acting to reposition yourself or move as you desire.
+
+Apology Tutorial Addendum:You got your starter skills!Nicely done.
+
+Alex sucked in a gasping breath.
+
+He felt a bit off, and shifted how he was hanging there in the black nothingness, allowing his body to settle into a better, more pleasing posture.
+
+“Oh, that’s better.”
+
+Aches that he’d had for years felt like they were beginning to melt away with even just that minor alteration.
+
+His grip tightened on the hilt of his dadao, and he realized that he was holding it wrong. With a minor shifting of his hand, the cord-wrapped wood finally felt proper in his grip, and he was satisfied.
+
+His mind felt like it was filled with the memories of hours of practice, and he knew that his body had gained quite a bit of muscle memory for use of the weapon.
+
+He wasn’t a master by any means, but it was now as if a master had drilled the basics into him for years.
+
+He knew the basic strikes and blocks, and felt confident that he—at the very least—wouldn’t hit an enemy with the back of the blade again… at least not on accident.
+
+I might just be able to work with this.
+
+Alex only had a moment of confidence before another System window popped into view.
+
+Safe location detected:Calculating and granting experience…Level 1 enemy defeated by level 0Initiation Experience Calculation not intended for Level 0 individuals.
+
+System Addendum:Analyzing…Analyzing…Analyzing…
+
+Escalating request.
+
+Please hold, and you will be assisted by the next available Watcher.Your inquiry is important to us, and we appreciate your patience.
+
+Cheesecake lady was back. “Alex… This is becoming a habit. What has it been… a minute?”
+
+He frowned. “What happened?”
+
+“You were supposed to be in temporal stasis as you were made level 1. Then, you’d have been given experience for killing the zombie.”
+
+“But I wasn’t level 1 when I killed it.”
+
+She waved her hand. “Hardly important. Experience is calculated and given based upon your state in a safe area.”
+
+“So… If I were to kill something massively powerful, then somehow remove most of my levels?”
+
+“You’d get a massive amount of experience, but not enough to recover the levels you gave up. It is a relatively solid System… assuming a Watcher doesn’t make a mistake.” She sighed.
+
+Alex cleared his throat. “I apologize for causing this situation. What can I do to fix it?”
+
+She eyed him. “You didn’t do this.”
+
+He shrugged. “I’ve found it’s better to assume I’m the problem, because then, I can be the solution.”
+
+She chuckled. “Fair.” Then, she sighed. “In this case, however, experience is supposed to be calculated as a formula, with your level as one of the factors within the denominator. My mistake, by letting time pass here—without altering other parameters—means that your level is ‘0’ for the calculation.”
+
+“So, in solving the zombie - plague issue, we created another?”
+
+She smiled again, clearly noticing his use of ‘we.’ “Something like that, yeah.”
+
+“Could you just set my level to… ‘0.1’ or something?”
+
+She tilted her head to the side. “That could work…” then her eyes narrowed, “but then you’d get ten times the experience of anyone else who managed to kill their zombie.”
+
+He shrugged. “I’m open to doing anything I can to assist.”
+
+She groused slightly. “I can just grant you experience once you level…” She groaned. “Then it will be Watcher-granted experience, rather than earned xp.”
+
+“Does the distinction matter?”
+
+“Yes, but not in ways you should know about at the moment.” She sighed.
+
+“Could you just set my level to ‘1’ for the calculation?”
+
+“No…” She sighed. “I think we’ll be fine. Your level only displays whole numbers, so you won’t ever see the ‘0.1’ amended there.”
+
+“So, that’s the best solution?”
+
+“I think so. It will be blown away as soon as you level, regardless.”
+
+“You could set it to ‘0.9’ if you wish. Would that keep things with a better balance?”
+
+She chuckled at that. “That would cause other issues. Regardless, I’ve already taken too much time here.”
+
+She was about to gesture, but Alex quickly asked, “Can I know your name?”
+
+She hesitated. “Why?”
+
+“I’ve just been calling you ‘cheesecake lady’ in my head, and that hardly seems appropriate.”
+
+She laughed at that. “Let’s go with Seclair, then.”
+
+“Thank you for your assistance, Seclair.”
+
+“It’s been interesting, Alex. Try not to die? Integrations are sad enough—Apology Tutorials in particular—without someone I’m watching dying horribly… well, without too many of those I’m watching dying horribly at least.”
+
+“I’ll do my best.”
+
+And she was gone.
+
+Error resolved:Calculating and granting experience…Level 1 enemy defeated by level 0
+
+Apology Tutorial Addendum:The enemy defeated was two or more times the level of the victor.The enemy defeated was five or more times the level of the victor.The enemy defeated was ten or more times the level of the victor.Experience earned multiplied accordingly.
+
+System Addendum:No full level detected, experience held until first level is acquired.
+
+Huh. That was interesting. There were specific multipliers for defeated enemies many times his own level above him. That was good to know.
+
+Initiation:You have chosen your apocalypse for the Apology Tutorial environment.You have confirmed your choice through combat.
+
+Congratulations!
+
+Your existence will now be raised.Please say, “Accept Racial Elevation” to begin.
+
+“Umm… Accept Racial Elevation?”
+
+Note:Your Race Rank is being determined.
+
+Unique Attribute DetectedMagical Aspects DetectedRacial Rebirth DetectedRacial Reforging Detected
+
+Alex JohnsonHuman (Common), F, Level 0 →Life-Aspected Human (Rare), F, Level 0Class: NA
+
+HP: 80 → 160SP: 45 → 130
+
+Physical Stats:Power: 5Agility: 5Fortitude: 8 (due to Latent Life-Aspected Energy)
+
+Mental Stats:Power: 6Agility: 7Fortitude: 5
+
+Unused Points: 0 → 24
+
+Magical Stats:NA - Mana not Unlocked
+
+Alex stared at what was obviously his character sheet, or whatever the System called it. Alex especially focused on the changing numbers.
+
+He didn’t really feel any different, but he supposed that that was because he’d actually experienced the changes a few moments ago. The System was just updating its records now.
+
+He was curious about his original stats in particular.
+
+Physically, he’d been pretty balanced, with just a bit more fortitude. That made sense.
+
+Now that he considered it, he hadn’t been sick… basically ever.
+
+He’d never been particularly careful, and always thought that many people were being somewhat big babies with regard to their fear of getting sick. As it turned out, he’d just been an exception.
+
+He scratched the back of his head and grimaced. Now, he felt like quite the jerk.
+
+Sure, he had considered that some others were immunocompromised and such, and he’d never thought badly of them, but he’d definitely thought less of colleagues for some of the extreme precautions they’d taken every flu season and at other times like that.
+
+I suppose there’s a lesson here. I shouldn’t assume people are being foolish just because I don’t need what they are insisting on.
+
+Yeah… that should have been obvious before…
+
+He sighed and moved on. There was nothing that he could do about it now.
+
+His mental stats were naturally a bit above average, which made him smile.
+
+He’d known he was a bit smarter, and a bit cleverer, than most people, and this bore that up.
+
+Assuming my average is anywhere close to most people’s average…
+
+Still, his whole job had been centered around quick thinking, understanding varying perspectives, and de-escalating tensions in order to help people communicate.
+
+Well, it all made sense if his understanding of the traits was correct.
+
+He wasn’t any saner or more resilient to mental effects than normal, at least that’s how he interpreted mental fortitude as.
+
+He also had been given a huge number of unused stat points.
+
+Doing quick math, he determined that they were exactly enough to raise every trait to 10, but he didn’t really know what that meant.
+
+“What does this race even mean? Life-Aspected Human? What’s the F?”
+
+That, of course, caused a System pop-up.
+
+Life-Aspected Human (Rare), FThis human is infused and deeply tied to the energy of Life itself.This restricts the person from following certain paths, while opening others before him.This is a Rare Race within the System and has proportionally higher stat gains per level.This is a Rare Race within the System and has proportionally slower level gain.Life-Aspected Races calculate Health Points(HP) as Physical Fortitude x20 instead of the standard 10xLife-Aspected Races calculate Stamina Points (SP) as 10x (Physical Fortitude + Mental Fortitude) instead of the standard 5x
+
+Stat Gains per Level
+
+Physical Stats:Power: +4Agility: +4Fortitude: +4
+
+Mental Stats:Power:+4Agility: +4Fortitude: +4
+
+Unused Points: +4
+
+Magical Stats:NA - Mana not unlocked
+
+He was immediately very pleased with the stat gains per level, even if he didn’t know what it would have been without his improved race. He’d also have twice the health and stamina for a given stat level. So, that was something
+
+Then he really read what the prompt had said.
+
+“Wait… slower level gain?”
+
+Apology Tutorial Notice:Race Level Gain:Uncommon Races gain levels at 1/3rd the rate of Common Races.Rare Races gain levels at 1/3rd the rate of Uncommon Races.Thus, Rare Races gain levels at 1/9th the rate of Common Races.Ranked F Common races generally accrue +1 in each stat per level with one bonus stat point to assign as you see fit.
+
+Well… that’s a bit trashy…
+
+He wasn’t actually sure what he’d been trying to think with ‘trashy’ before the system had translated it, but trashy covered it well enough.
+
+One ninth the leveling speed but only four times the stats?
+
+What madness was the System trying to do with such a broken ratio?
+
+Then, he considered for a long moment.
+
+At first, that would be a huge disadvantage, but if the experience earned was partially dependent on the level number—as his conversation with the Watcher had implied—then having a lower level would actually net him more experience overall.
+
+He didn’t know any of the math, but in theory, he thought this could work out in his favor rather quickly.
+
+Not that it mattered.
+
+It was done, and he didn’t have any choice but to continue.
+
+Apology Tutorial Notice:Level 1 is yet to be granted.
+
+Please say, “Accept Level up.” to begin.
+
+He sighed. Might as well reap the easiest level he’d ever earn. “Umm… Accept Level up?”
+
+Alex JohnsonLife-Aspected Human (Rare), F, Level 0 → Level 1Class: NAHP: 160 → 240SP: 130 → 210
+
+Physical Stats:Power: 5 → 9Agility: 5 → 9Fortitude: 8 → 12
+
+Mental Stats:Power: 6 → 10Agility: 7 → 11Fortitude: 5 → 9
+
+Unused Points: 24 → 28
+
+Magical Stats:NA - Mana Currently Locked
+
+How would you like to spend your stat points?
+
+Before he had time to consider any options, another panel popped up in front of him.
+
+Level Up:You are in a safe locationBecause of the massively multiplied experience, you have the requisite experience to level up.
+
+Please say, “Accept Level up.” to begin.
+
+Alex’s eyes widened. “Oh… oh, my.”
+
+The multipliers must have been sufficient to let him level already? Common F-ranked Races must level the first time after only one or two enemies, then.
+
+“Accept Level up.”
+
+Alex JohnsonLife-Aspected Human (Rare), F, Level 1 → Level 2Class: NAStats increased
+
+Unused Points: 28 → 32
+
+How would you like to spend your stat points?
+
+He gasped, falling to his knees in the void.
+
+His mind spun, parsing through all that happened over the last little bit.
+
+His two levels had been far more valuable than what he should have gotten, but they would likely be the last levels he’d get for quite a while.
+
+Or, well, he was in a tutorial, there was going to be a lot of fighting. So, the next levels would be further away than they would be for others at the very least.
+
+Back to his unused points. A part of him wanted to spread out all his points, starting by placing five in each stat, but that seemed… unwise.
+
+Partially, that was because he apparently had Magical Stats that would unlock later. He would likely want some points to put into those stats… if he got them any time soon.
+
+He was a physical fighter for the moment.
+
+His physical fortitude was already his highest stat. So the real question was, did he want to be a quick fighter, or a strong one?
+
+He laughed. That was an easy choice.
+
+He earmarked seven points for Physical Agility.
+
+He… had no idea what that would actually mean, improvement wise. Would he be thirty-five percent quicker now? More nimble?
+
+It was a bit irritating, honestly.
+
+“What do the stats mean?”
+
+He was more pleased than surprised when the System responded.
+
+Physical Stat Descriptions:Power: The strength your body can bring to bear in standard movements.Agility: How quickly your body can act or react and how fine a control you have over those movements.Fortitude: How much physical damage it takes to render your body non-functional and how hard it is to cause your body damage.
+
+Mental Stat Descriptions:Power: The mental focus and processing power you can bring to bear on any thought process.Agility: How quickly you can switch between lines of thought, and how quickly/easily you can notice things, either connections between bits of information or things in the world around you.Fortitude: How much stress can your mind endure before it is rendered non-functional. How much and how clearly you can recall things that you have seen or experienced.
+
+Apology Tutorial Addendum:5 was considered human average for any given trait on pre-System Earth.10-12 would be roughly equivalent to the best in that area on pre-System Earth.The ‘Power’ traits can be improved to a limited extent through resistance training.The ‘Agility’ traits can be improved to a limited extent through reaction training.The ‘Fortitude’ traits can be improved to a limited extent through endurance training.
+
+“Thank you. That is incredibly helpful.” It also gave him a lot to consider.

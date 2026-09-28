@@ -1,0 +1,273 @@
+<Alex, Real - Prepare, High School Gym>
+
+Alex was a bit expectant for what Grant was going to give to him and Natasha.
+
+The demolition man had held onto his and Lenka’s purchases so she could go work on finishing off the traps around the gym’s sole entrance from the outside.
+
+Grant gave Natasha a couple of orbs and a book.
+
+Next, Alex didn’t get anything special, but he was happy for the two orbs he was given.
+
+Create Water (Common) [Spell]Create Rations (Common) [Spell]
+
+If nothing else, he’d have food and water.
+
+The shop that the other group had found had a total of four sets of the orbs available. They had even sold them at a discount together, calling them the Unprepared Adventurer’s Pack.
+
+Alex decided not to be insulted by the label, and simply take it as a victory that he shouldn’t starve or die of dehydration any time in the near future.
+
+The magic shop apparently hadn’t had the Fatally Ill Prepared Adventurer’s Pack in stock, though it would have included other useful spells as well.
+
+He was a bit irritated, because if he’d waited and got these spells first, he might have expanded his selection options for his class skill or spell. But even so, Alex was excited and quickly absorbed the three orbs he had.
+
+Notice!By means of a spell orb, you have learned a spell.Due to Life-Aspected Race you have a 100% chance of learning this spell.
+
+Reward:Detect Life (Common)
+
+Apology Tutorial Addendum:It’s alive!Or is it…?Let me check.
+
+Notice!By means of a spell orb, you have learned a spell.Due to Life-Aspected Race you have a 50% greater chance of learning this life-adjacent spell.Chance of proper absorption: 95%
+
+Reward:Create Water (Common)
+
+Apology Tutorial Addendum:Don’t hit a rock to make this work. That seems to end badly.
+
+Notice!By means of a spell orb, you have learned a spell.Due to Life-Aspected Race you have a 50% greater chance of learning this life-adjacent spell.Chance of proper absorption: 95%
+
+Reward:Create Rations (Common)
+
+Apology Tutorial Addendum:It’s not quite heavenly, but it’ll keep you sustained through mana all the same.
+
+Matt was walking their way, so Alex only had another moment. As such, he conveyed a last couple of details to the others before asking Natasha to fill in the rest.
+
+She agreed even as Alex quietly said, “Spell details.”
+
+Create Rations (Common)Spend Mana to create rations.Turn Mana into food for humanoid creatures.Humanoid creatures of higher level or higher race rarity will require more mana to feed.Rations cannot be preserved by mundane means.The created food lasts up to 12 hrs if not magically stored.
+
+Apology Tutorial Addendum:Higher Mana concentration in the environment will lower nutritional requirements.
+
+He sighed at the skill description and addendum. If the ratios held true for race rarity and level increasing requirements, he’d need to spend a ludicrous amount of mana to stay fed. From the feeling he got from the spell, he’d have to spend close to eight hours of mana regeneration in order to feed himself currently.
+
+That wasn’t actually that terrible, but it wasn’t ideal by any means, except in the most dire emergencies… which, he supposed, was the point.
+
+Still, I can feed others. I can probably feed seven non-leveled humans per hour at need, depending on how level NA is calculated here.
+
+Create Water (Common)Spend Mana to create water.Create 1 cup of clean spring water, matching the ambient temperature.Cost: 1 MP
+
+Now, that was more useful and far more straightforward. At sixteen cups per gallon, he could create just more than four gallons of water per hour if he had to. It didn’t look like it would fade either, so it might be something to devote his regeneration to when he was filled up, if he could figure out exactly how to accomplish that.
+
+He looked at the last new spell description.
+
+Detect Life (Common)Spend Mana to get a snapshot of the life around you.Ten feet of radius scanned—centered on the caster—per MP spent.
+
+That… was underwhelming.
+
+He was turning to greet Matt when one last System pane filled his vision.
+
+System Note:Synergy DetectedDetect Life (Common)withBlood Attribute, Life Finds a Way (Unique)
+
+Spell Upgraded:Detect Life (Common) → Detect Life (Uncommon)
+
+Detect Life (Uncommon)Spend Mana to get a look of the life around you.One hundred feet of radius scanned—centered on the caster—per MP spent.One second of information per MP spent.
+
+That was… much better.
+
+He took a moment to glance at his Character Sheet.
+
+Character Sheet:Alex JohnsonLife-Aspected Human (Rare), F, Level 2Class: Life-Aspected Warrior (Rare), F, Level 1Class 2: NAHP: 660SP: 410MP: 160
+
+Physical Stats:Power: 19Agility: 29Fortitude: 22
+
+Mental Stats:Power: 17Agility: 29Fortitude: 19
+
+Magical Stats:Power: 8Agility: 7Fortitude: 8
+
+Unused Points: 1
+
+Attributes:Blood:Life Finds a Way (Unique)
+
+General Skills:Great-Blades Basics - Dadao (Common)Advanced Kinesthetics (Common)Inventory (Common)Team Sense, TempAnalyze (Common)Danger Sense (Common)Basic Mana Sense (Common)The author's content has been appropriated; report any instances of this story on Amazon.Basic Mana Manipulation (Common)
+
+Spells:Force Burst (Uncommon)Basic Life Transfusion (Uncommon)
+
+Class Skills:Life’s Active Defense (Uncommon)
+
+Class Bonuses:All Life-Aspected Spells and Skills cost 25% less to use.Your Life-Aspected Spells’ and Skills’ effects occur 25% faster.Your HP is calculated at Racial Base + 10 x Physical Fortitude.Your MP is calculated at 20 x Magical Power.Your effective Physical Power is 25% greater for physical attack and defense.You take 25% less damage from Physical attacks when you are armed and unrestrained.
+
+As Alex dismissed his Character Sheet, he saw his Martial Arts instructor waiting for him to finish up. Matt smiled as Alex gave an awkward little wave before extending a hand. “I’m glad you came, Master Adams.”
+
+Matt shook his head even as they shook hands. “None of that, here. We aren’t on the mat.”
+
+“Very well, Matt.”
+
+“Thank you for extending the invite.” His smile faded a bit. “Something is different about this outbreak. Some of us are still getting data, and the reports are… bleak.”
+
+“What’s going on out there?”
+
+“It’s more than just mindless zombies. Though that is the main issue at the moment. It started on the northern side of the city from what the news is saying, but there are other outbreaks that don’t really line up with that. Additionally, there seem to be things with them that are attacking anyone with levels. They’re targeting adventurers.”
+
+Alex grunted at that. “Wights.”
+
+Matt glanced pointedly at Alex’s chest, or more likely the four bloody slashes through the fabric over smooth skin. “Could be. That’s likely the best case, not that I know of any other options. I never studied undead monster theory myself.”
+
+Alex huffed a little laugh. “That’s fair.”
+
+Matt gave a half-smile. “Well, we’re all here to help. Let us know what we can do, yeah?”
+
+Alex glanced toward Grant, and the man tilted his head to Kaylee. Alex smiled. “Kaylee, can you help get these folks working to secure the building more fully?”
+
+She nodded. “Will do. Can you dump your supplies in that room, there?”
+
+She pointed to a side-room off of the gym, and Alex nodded. “Will do.”
+
+Alex went into the indicated room off to the side of the gym and unloaded everything that wasn’t his personal effects from his fake apartment.
+
+Apartment, Alex, not fake apartment. Get into the spirit of things.
+
+There were tables of various supplies already out, and he put what he’d brought in the proper areas.
+
+He was pleasantly surprised to find that the food and coffee didn’t seem to have cooled at all while within his Inventory.
+
+Some sort of temporal suspension, then? That was good to know.
+
+As he unloaded the food and drinks, he snagged a bagel and cup, spreading cream cheese on the first and filling the second with coffee.
+
+I wonder if I could have done any of that inside my inventory? It was worth attempting… when he had the time.
+
+He didn’t have the time right then.
+
+He looked down and sighed.
+
+He needed to get cleaned up.
+
+The System was doing a very good job of making fake humans, but he really felt like people should have… he didn’t know, reacted more strongly to the obvious bloody hole in his shirt, he supposed.
+
+Regardless, he changed quickly, and came back out into the large central space. Ah, shucks, I should have tried to take the shirt off and put a new one on directly from my Inventory.
+
+He was still doing little things to play with his Inventory and other skills, but he was missing some obvious options given the rush with which he was trying to move through ancillary tasks.
+
+His new shirt fit better than the old one had, as it seemed to be tailored to his current physique rather than his pre-System one, even if the System had updated the previous one to fit him at least somewhat well.
+
+Pre-System… As in less than a day ago… It had been a whirlwind, and things didn’t seem to be slowing down anytime soon.
+
+He looked around the main gym. They didn’t seem to play basketball there, but the court was close enough to the same size that it hardly mattered.
+
+Everyone was doing something, and while the lights overhead provided good illumination, he was a bit concerned that it would be dark as sin if utilities went out. There weren’t any windows. That was a security boon of course, but a lack of light was something that they’d have to deal with eventually.
+
+Some of the adults were watching over the few kids, keeping everyone quiet for the moment, but everyone else seemed to be going around and reinforcing the already closed off entrances from the outside.
+
+Thankfully, while there were a few maintenance closets, there wasn’t anything like a basement in the gym that they had to clear. There were just too many horror movie tropes to do with basements to make Alex comfortable with that idea.
+
+We’re doing quite alright for being new to this world, this System. We just might be safe for the moment.
+
+Kaylee saw him return and called out, “Hey, Alex. Can you sweep through the locker rooms? We just sealed them up because we haven’t had a chance to check them as of yet.”
+
+Alex didn’t groan, but he did chastise himself for speaking too soon… well, he hadn’t spoken his relief out loud. Thinking too soon? That didn’t work at all.
+
+Still, there were a lot of people here, and he was the best positioned to see them safe. He wouldn’t fight the request. After all, he’d picked zombie opponents partially so that he could actually help others effectively. “Sure, Kaylee. I’ll get it done.”
+
+He took a deep breath, then tilted his head to the side in thought as he considered the task ahead.
+
+You know, the wight might have had a good idea, there…
+
+He pulled a heavy winter coat out of his inventory, one that he’d snagged from his apartment. Apparently, it got cold in this city in the winter… or the system believed that he was someone who liked to be extra warm.
+
+It wasn’t a flimsy down coat either. Instead it was constructed of heavy canvas with a nice thermal layer underneath that. Regardless, it was a nice heavy coat.
+
+He moved around a bit and found himself slightly restricted, but not too much.
+
+Let’s do this.
+
+He pulled his dadao from his inventory into his right hand, feeling comfort in the weight of the weapon.
+
+He walked into the side of the gym where one of the locker room doors was, Kaylee and a couple others following.
+
+“Are you ready?” She had her crossbow out.
+
+“Ready.”
+
+The two men pulled the blocking material aside, and Alex stepped forward.
+
+Funnily enough, he had happened to choose the men’s locker room. Not that it would really have mattered. If anyone was in there, things had gone quite wrong indeed.
+
+He pushed the door open with his left hand, revealing an immediate right-angle turn into the hallway, designed to give privacy to anyone in the locker room regardless of the disposition of the door.
+
+In that exact moment, the power went out, dropping the whole area into darkness.
+
+The children screamed.
+
+Many adults gasped.
+
+Alex’s Danger Sense flared.
+
+Good times were had by all.
+
+Well, good times were had until something slammed into his chest, throwing him backward. He instinctively grabbed what struck him and used Analyze.
+
+It returned nothing—as he should have expected.
+
+Whatever it was tried to push off of him even as they fell, but he held firm. It wanted to go after the other people in the gym, and he was not going to allow that.
+
+Alex slammed into the ground and had his breath knocked out of him, but he held onto the thing that was now scrabbling at him despite the impact
+
+He cast Detect Life with one point of Mana.
+
+Power rushed through his body to gather in his brain before radiating outward like a pulse from a sonar or radar… maybe. He had only vague knowledge of those technologies after all.
+
+Regardless, the flow of power was steady and undiminished for the full second. Throughout, he believed that his Basic Mana Sense allowed him to perceive the returning responses from the spell even before the information was translated into intelligible cascades of knowledge.
+
+His MP dropped to 159/160 with the short pulse.
+
+He was briefly overwhelmed with the information.
+
+There was just so much life around him, and his brain tried to track it all for a full one and a quarter second.
+
+In this case, the efficiency granted by his class was a detriment as it prolonged his information overload. There was too much for even his improved mind to easily parse. Practice and repeated use would be needed for him to make it effective in high-stress situations.
+
+The couple of seconds of disorientation passed, and one thing was crystal clear: whatever was attacking him, it wasn’t alive.
+
+That was good. It wasn’t a confused person or anything like that. So, even if something odd was going on and it wasn’t a zombie, he could attack it.
+
+It was probably a zombie.
+
+He almost cast Force Burst, but he was out in the main area of the gym at the moment, and there were civilians nearly all around him, all scrambling in the dark.
+
+He could sense his team with Team Sense, some running his way, others seemingly moving to address other issues.
+
+If he just threw the zombie away, it might land on someone and that would start a chain of events that no one would like.
+
+Instead, he threw his magic into the new skill Basic Life Transfusion, and he dumped MP into doing damage.
+
+With his class perk, every three mana should do eight points of damage… whatever that actually meant.
+
+He felt… something flowing out of himself. In fact, he felt two such things. One acted almost as a casing, which then seemed to fade away as soon as the… inner energy? Yeah inner energy was within the zombie.
+
+That must be HP carried by my MP.
+
+He could feel his life diffusing through the zombie, tearing it apart from the inside even as more flowed in behind, reinforcing the assaulting power.
+
+It was all vague feelings and hunches more than a true vision of what was happening, but still, he felt when it was time to stop sending in more life energy, and sure enough, what remained within his opponent quickly finished ravaging through the zombie’s body a moment later.
+
+Kill Notice:You killed Zombie Ravager (Common), level 3
+
+Life Magic is super effectiveDamage x4
+
+Reward:Experience to be granted when in a safe location.
+
+Note:Because it was destroyed with life energy, the zombie’s corpse has turned to dust.
+
+Apology Tutorial Addendum:You now know that Zombie Ravagers are low-resilience shock troops with roughly 150 HP. You shouldn’t have to have this told to you, but it would be a shame if you missed it.
+
+While some of that was good news, most of it was not.
+
+With all his multipliers and cost reductions, he was able to use just fourteen MP to kill it in less than two seconds. His MP had dropped to 143/160, and the thing hadn’t managed to damage him at all.
+
+He had damaged himself, though. His HP had dropped to 622/660, and he felt a little… bleh.
+
+He fought through the nasty feeling and tried to focus. I’m paying too close attention to the numbers. Just make sure you’ve got enough, Alex.
+
+Portable lights started to flicker on, and he felt his eyes widen as he saw another zombie exiting the locker room at a sprint.
+
+No! Alex needed to get to his feet and deal with the incoming threat.
+
+He scrambled to get to his feet, pulling in a breath to focus and sucking in a big lungful of zombie dust.
