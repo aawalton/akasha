@@ -39,6 +39,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "Staff must report abuse of children and elders, but not of an adult who does not ask.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Police come only if a patient asks for them or a crime is reported.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
