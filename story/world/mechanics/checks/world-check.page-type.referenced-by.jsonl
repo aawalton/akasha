@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"world-check.page-type.types.ts","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-standing.world-check.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-check.page-type.types.ts","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-time-passing.world-check.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-check.page-type.types.ts","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/checks/otherwhere-v-action-check.world-check.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-check.page-type.types.ts","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/checks/otherwhere-v-growth.world-check.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-check.page-type.types.ts","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/checks/otherwhere-v-harm.world-check.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-check.page-type.types.ts","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/checks/otherwhere-v-needs.world-check.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-check.page-type.types.ts","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/checks/otherwhere-v-standing.world-check.ts","typed":true,"deferred":false}
