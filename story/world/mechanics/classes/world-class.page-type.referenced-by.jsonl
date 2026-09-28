@@ -11,12 +11,15 @@
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-dancer-brute.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-dart-meister.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-dura-brute.world-class.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-enviro-brute.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-figurinist.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-flail-brute.world-class.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-glacial-brute.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-ground-shaper.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-healer-of-body.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-healer-of-mind.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-healer.world-class.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-instrument-meister.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-light-shaper.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-longsight-brute.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-machine-wright.world-class.ts","typed":true,"deferred":false}
@@ -28,6 +31,7 @@
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-meister-of-spear.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-meister-of-staves.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-meister-of-the-mind-writher.world-class.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-meister-of-the-mutable-haft.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-meister-of-torches.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-meister-of-traps.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-meister-of-wands.world-class.ts","typed":true,"deferred":false}
@@ -35,6 +39,8 @@
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-morph-brute.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-mourner.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-object-shaper.world-class.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-ordinary-class.world-class.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-polar-brute.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-rabbit.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-shaper-of-life.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-shaper.world-class.ts","typed":true,"deferred":false}
@@ -48,6 +54,7 @@
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-u-type.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-vocal-brute.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-water-shaper.world-class.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-wizard-class.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-wright.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/classes/abacus-counter.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/classes/abbot.world-class.ts","typed":true,"deferred":false}
