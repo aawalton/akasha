@@ -71,7 +71,7 @@ export const otherwhereVGreyscaleWood = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "This season thornlings from Thornmouth stray into the wood's north, a day above the hollow.",
+      fact: "This season thornlings stray south from Thornmouth, some within a day of the hollow.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

@@ -10,7 +10,7 @@ export const otherwhereVScalebarkCamp = {
   exits: [
     {
       to: "place/otherwhere-v-woodcutters-track",
-      way: "West down the track half a mile to the log bridge; ten minutes. Serrinford is five miles on.",
+      way: "West down the track half a mile to the log bridge; ten minutes. Serrinford is four and a half miles on.",
       direction: "west",
     },
     {

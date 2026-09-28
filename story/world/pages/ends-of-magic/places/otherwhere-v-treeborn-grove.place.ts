@@ -36,7 +36,7 @@ export const otherwhereVTreebornGrove = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "A line of spiral-carved boundary stones marks the grove's wood, a quarter mile past Scalebark Camp.",
+      fact: "Spiral-carved boundary stones mark the grove's wood, two hundred yards east of Scalebark Camp.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
