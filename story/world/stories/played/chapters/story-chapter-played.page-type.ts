@@ -8,6 +8,15 @@ export const storyChapterPlayed = {
   pluralSlug: "chapters",
   extends: ["page-type/chapter"],
   runsTabooCheck: false,
+  parts: ["record-property/chapter-turn-covers"],
+  properties: [
+    {
+      pageProperty: "record-property/chapter-turn-covers",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+  ],
   detailConfig: {
     frame: {
       edgeToEdge: true,
@@ -35,6 +44,10 @@ export const storyChapterPlayed = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A chapter is made from its story's turns, and those turns then go.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The pictures of the turns a chapter took are drawn from that chapter.",
     },
     {
       decisionKind: "decision-kind/departure",

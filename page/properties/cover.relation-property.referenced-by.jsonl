@@ -1,4 +1,6 @@
 {"propertySlug":"import","fileName":"cover.relation-property.ts","path":"story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cover.relation-property.types.ts","path":"page/page.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"cover.relation-property.types.ts","path":"story/world/stories/played/chapters/properties/chapter-turn-covers.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
+{"propertySlug":"page-property","path":"story/world/stories/played/chapters/properties/chapter-turn-covers.record-property.ts","id":"01a0e5cc-d3bc-7308-be9d-19011bb2e2f4"}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

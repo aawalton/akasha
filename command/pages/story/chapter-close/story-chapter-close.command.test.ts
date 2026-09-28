@@ -4,6 +4,7 @@ import {
   openThrough,
   proseOf,
   taken,
+  turnCoversOf,
 } from "akasha/command/pages/story/chapter-close/story-chapter-close.command.code.ts"
 
 const CALLED = "akasha story chapter-close"
@@ -39,4 +40,16 @@ test("a chapter takes the open turns through the one named, in order", () => {
     { at: "b", position: 57 },
   ]
   expect(openThrough(turns, 58).map((one) => one.at)).toEqual(["a", "b", "c"])
+})
+
+test("a chapter keeps the cover of each turn it takes that has one, under the turn's number", () => {
+  const turns = [
+    { at: "a", position: 1, cover: "image/image-one" },
+    { at: "b", position: 2 },
+    { at: "c", position: 3, cover: "image/image-three" },
+  ]
+  expect(turnCoversOf(turns)).toEqual([
+    { position: 1, cover: "image/image-one" },
+    { position: 3, cover: "image/image-three" },
+  ])
 })

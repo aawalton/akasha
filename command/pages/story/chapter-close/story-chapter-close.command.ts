@@ -33,6 +33,10 @@ export const storyChapterClose = {
       decisionKind: "decision-kind/departure",
       statement: "A turn naming no prose file refuses the whole run.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chapter keeps the cover of each turn it takes, under that turn's number.",
+    },
   ],
   name: "chapter-close",
   arguments: [

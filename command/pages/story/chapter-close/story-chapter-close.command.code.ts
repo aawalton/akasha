@@ -53,6 +53,7 @@ const WORDS = `${unit.slug}/${words.slug}` as const
 const COLLECTIONS = "partOfCollections"
 const STORY = "story"
 const POSITION = "position"
+const COVER = "cover"
 
 const A_NOT_SLUG = /[^a-z0-9]+/g
 const AN_EDGE_DASH = /^-|-$/g
@@ -61,7 +62,9 @@ type Taken = { readonly story: string; readonly through: number; readonly title:
 
 type Read = Taken | { readonly refused: string }
 
-type Turn = { readonly at: string; readonly position: number }
+type Turn = { readonly at: string; readonly position: number; readonly cover?: string }
+
+type TurnCover = { readonly position: number; readonly cover: string }
 
 export function taken(argv: readonly string[], calledAs: string): Read {
   const read = takenFor(argv, calledAs, page, NAMED)
@@ -96,6 +99,14 @@ export function openThrough(turns: readonly Turn[], through: number): readonly T
     .toSorted((one, other) => one.position - other.position)
 }
 
+export function turnCoversOf(turns: readonly Turn[]): readonly TurnCover[] {
+  const held: TurnCover[] = []
+  for (const one of turns) {
+    if (one.cover !== undefined) held.push({ position: one.position, cover: one.cover })
+  }
+  return held
+}
+
 function storyOf(slug: string): string {
   const parted = slug.lastIndexOf(PARTED)
   return parted < 0 ? slug : slug.slice(parted + 1)
@@ -108,7 +119,12 @@ function turnsOf(root: string, named: string): readonly Turn[] {
     const position = one.value[POSITION]
     if (!Array.isArray(within) || !within.includes(named)) continue
     if (typeof position !== "number") continue
-    found.push({ at: one.path, position })
+    const cover = one.value[COVER]
+    found.push({
+      at: one.path,
+      position,
+      ...(typeof cover === "string" && cover !== "" ? { cover } : {}),
+    })
   }
   return found
 }
@@ -156,6 +172,7 @@ async function closed(
   const position = lastChapterOf(given.root, named) + 1
   const chapterSlug = chapterSlugOf(slug, position, held.title)
   const prose = proseOf(held.title, texts)
+  const turnCovers = turnCoversOf(turns)
   const folder = `${listed.path.slice(0, listed.path.lastIndexOf(PARTED))}${PARTED}${storyChapterPlayed.pluralSlug}`
   const naming: Naming = {
     pageTypeSlug: storyChapterPlayed.slug,
@@ -168,6 +185,7 @@ async function closed(
       ownLength: wordCount(prose),
       unit: WORDS,
       prose: HELD,
+      ...(turnCovers.length === 0 ? {} : { turnCovers }),
     },
     bodies: { prose },
   }
