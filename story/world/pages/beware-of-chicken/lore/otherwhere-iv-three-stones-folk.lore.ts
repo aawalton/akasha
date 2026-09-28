@@ -129,27 +129,51 @@ export const otherwhereIvThreeStonesFolk = {
     },
     {
       fact: "Zhao Jun first blamed the Fang brothers, but a wall broke the night they slept in Lanqiao.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
     {
       fact: "He thought rain or crabs had weakened the walls, but the breaks are torn open, not slumped.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
     {
       fact: "He has heard Tie Bo talk of a huge boar upstream, but thinks no boar comes this low in spring.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
     {
       fact: "The walls break only on his terraces nearest the bend, which makes him fear a spirit's anger.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
     {
       fact: "He fears he offended the spirit of the old willow, and left rice at its roots; walls still broke.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
     {
       fact: "He sat up one night with a torch and a gong, heard something huge grunting, and fled.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
     {
       fact: "He has not told the headman all of it, being ashamed and already in the headman's debt.",
@@ -161,15 +185,27 @@ export const otherwhereIvThreeStonesFolk = {
     },
     {
       fact: "Each break came between midnight and dawn, and the young rice near it was eaten, roots and all.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
     {
       fact: "In the mud he once found a deep split-hoof print as broad as his spread hand.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
     {
       fact: "He took that print for a buffalo's at first, but no buffalo in the village is loose at night.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
     {
       fact: "This morning Xu Hong weeds the family's lower terraces beside the track, halfway to the village.",
@@ -178,6 +214,30 @@ export const otherwhereIvThreeStonesFolk = {
     {
       fact: "By mid-morning Lin Qiao's stall under the camphor is open, with tea on and noodles for sale.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Three of Zhao Jun's terrace walls have broken this month, and no one else's.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
+    },
+    {
+      fact: "Tie Bo is the hunter of Three Stones.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
+    },
+    {
+      fact: "Zhao Jun's wife, Hong, weeds a terrace beside the track down from his top terraces.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
   ],
 } as const satisfies Lore

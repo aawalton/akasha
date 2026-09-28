@@ -4,13 +4,14 @@ export const otherwhereIv00004 = {
   id: "01a0ea19-8b21-7aea-9f01-1b70c1341a40",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-004",
+  cover: "image/image-6f611deb718c8828",
   ownLength: 597,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],
   position: 4,
   prose: "txt",
   characters: ["character-player/otherwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     '"I do not have all knowledge, but I might still be able to help. Let us talk while we walk. What possibilities have you considered? What have you eliminated and how?"',
   beats: [
@@ -52,6 +53,6 @@ export const otherwhereIv00004 = {
   ],
   lore: ["lore/otherwhere-iv-three-stones-folk"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T07:10:00.000Z",
 } as const satisfies StoryTurnPlayed
