@@ -33,23 +33,23 @@ export const otherwhereKitchen = {
     },
     {
       fact: "The kitchen's bread is dense and nutty, with a crust glazed in honey.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "The pantry's low door is at the kitchen's far end, beside the great oven.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "A wide door opens from the kitchen onto a long staff dining hall, dim, its tables dust-sheeted.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "A pantry off the kitchen holds a dozen sacks of coarse salt, each about twenty pounds.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "The pantry also keeps jars of honey and bins of roots and vegetables.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],
 } as const satisfies Place
