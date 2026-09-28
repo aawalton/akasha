@@ -4,6 +4,8 @@ export const imageBfa9673f52989413 = {
   id: "01a0e9e0-91c2-7212-9ca5-aff4d6bcc35c",
   type: "page-type/image",
   slug: "image-bfa9673f52989413",
+  title: "Dozing on Terracotta by the Little Bridge",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
