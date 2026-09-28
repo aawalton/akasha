@@ -111,6 +111,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "Marcus types what he is told; a birth year so far off her face makes him look up and ask again.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Triage checks nothing against records; an out-of-state address is taken as given.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
