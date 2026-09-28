@@ -163,6 +163,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "The waiting-room TV runs a Chicago morning channel on mute, captioned: news, weather and ads.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A caption dates the broadcast Saturday, January 31, 2037.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
