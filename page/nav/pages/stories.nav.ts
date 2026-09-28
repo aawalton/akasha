@@ -6,7 +6,7 @@ export const stories = {
   slug: "stories",
   title: "Stories",
   icon: "Library",
-  navPlace: 3,
+  navPlace: 5,
   app: "web-app/alanwalton-web",
   mobilePinOrder: 2,
 } as const satisfies Nav
