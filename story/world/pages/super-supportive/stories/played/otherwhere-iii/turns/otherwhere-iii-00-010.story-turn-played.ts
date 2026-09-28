@@ -13,7 +13,7 @@ export const otherwhereIii00010 = {
     "character-player/otherwhere-iii-nala",
     "character-other/otherwhere-iii-denise-pruitt",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "\"Thank you, but I'm on my own for now. Yesterday I would have had you call my boyfriend, but that ship has sunk. Thank you for your kindness, you've really been a lifesaver today.\"",
   beats: [
@@ -31,7 +31,10 @@ export const otherwhereIii00010 = {
     "The wall clock reads 5:29. Beside Nala sit the clogs and the fleece; the paper towel is in her fist.",
     "Two and a half hours to eight; the sleeping man snores; the TV runs its silent captions.",
   ],
+  issues: [
+    '"Eight o\'clock is two and a half hours off. Beside you the sleeping man snores." - Leave It Open',
+  ],
   lore: ["lore/otherwhere-iii-denise-pruitt"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2037-01-31T05:29:00.000Z",
 } as const satisfies StoryTurnPlayed
