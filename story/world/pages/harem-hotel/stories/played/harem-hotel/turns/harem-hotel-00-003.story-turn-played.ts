@@ -41,4 +41,5 @@ export const haremHotel00003 = {
     '"Both of us together, you said, sir," she says, level, her smeared mouth the one thing out of order.',
     '"Then do it."',
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
