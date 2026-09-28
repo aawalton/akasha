@@ -33,9 +33,10 @@ type Heard = {
   readonly slugs: ReadonlySet<string> | null
 }
 
-type Target = {
+export type Target = {
   readonly kind: string
   readonly slugs: ReadonlySet<string> | null
+  readonly computed: string
 }
 
 type Aimed = ReadonlyMap<string, ReadonlyMap<string | null, readonly (readonly Target[])[]>>
@@ -77,7 +78,7 @@ export function heardOf(
   ]
 }
 
-type Keep = { readonly at: string; readonly kept: Kept }
+type Keep = { readonly at: string; readonly kept: Kept; readonly computed: string }
 
 function keepsOf(
   root: string,
@@ -93,7 +94,7 @@ function keepsOf(
     if (page === undefined || at === null) continue
     const kept = seen.get(at) ?? keptIn(uncommittedIn(root, page.path))
     seen.set(at, kept)
-    found.push({ at, kept })
+    found.push({ at, kept, computed: page.path })
   }
   return found
 }
@@ -137,10 +138,11 @@ export function plannedFor(root: string, helds: readonly Held[]): Planned {
           keeping.set(folder, names)
           const aim = aims.get(one.at) ?? { kept: one.kept, targets: [], kinds: new Set<string>() }
           aims.set(one.at, aim)
-          if (held.slugs !== null) aim.targets.push({ kind, slugs: held.slugs })
+          const computed = one.computed
+          if (held.slugs !== null) aim.targets.push({ kind, slugs: held.slugs, computed })
           else if (!aim.kinds.has(kind)) {
             aim.kinds.add(kind)
-            aim.targets.push({ kind, slugs: null })
+            aim.targets.push({ kind, slugs: null, computed })
           }
         }
       } catch {}

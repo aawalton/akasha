@@ -162,6 +162,10 @@ export const kindsGathering = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "What each calculation read is answered under the page it was worked out for too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page a calculation read is answered as the path that page is filed at.",
     },
     {

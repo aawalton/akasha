@@ -11,14 +11,17 @@ import { askedIn } from "akasha/page/service/modules/follow-asking/follow-asking
 import {
   type Held,
   heardOf,
+  type Target,
 } from "akasha/page/service/modules/follow-planning/follow-planning.module.code.ts"
 import {
   changedAt,
+  changesFor,
   eventSaid,
   followingFor,
   keysFor,
   nameHeard,
 } from "akasha/page/service/modules/page-following/page-following.module.code.ts"
+import { readersFor } from "akasha/page/service/modules/reads-keeping/reads-keeping.module.code.ts"
 import { z } from "zod"
 
 const scratch = scratchWorld()
@@ -140,6 +143,24 @@ test("a file a computed property keeps is heard by name in its folder, and a fol
     { folder: "/t", name: "one.jsonl", kind: "seat", slugs },
     { folder: "/r/logs", name: null, kind: "seat", slugs },
   ])
+})
+
+test("a kept file heard is a change to each page whose calculation read it, or to the list where none is known", () => {
+  const computed = "held/progress.computed-property.ts"
+  const turn = "/r/stories/a/turns/one.story-turn-played.ts"
+  const whole: Target = { kind: "story-played", slugs: null, computed }
+  const readers = readersFor("/r")
+  expect(changesFor(whole, turn, readers)).toEqual([{ pageTypeSlug: "story-played" }])
+  const pages = new Map([
+    ["stories/a/a.story-played.ts", { files: [turn], folders: [] }],
+    ["stories/b/b.story-played.ts", { files: [], folders: [] }],
+    ["stories/a/chapters/c/c.story-chapter-played.ts", { files: [turn], folders: [] }],
+  ])
+  readers.kept(new Map([[computed, { files: new Set(), folders: new Set(), pages }]]))
+  expect(changesFor(whole, turn, readers)).toEqual([{ pageTypeSlug: "story-played", slug: "a" }])
+  expect(changesFor(whole, "/r/stories/b/notes.md", readers)).toEqual([])
+  const named: Target = { kind: "story-played", slugs: new Set(["b"]), computed }
+  expect(changesFor(named, turn, readers)).toEqual([{ pageTypeSlug: "story-played", slug: "b" }])
 })
 
 test("an event is framed as a named server-sent event", () => {

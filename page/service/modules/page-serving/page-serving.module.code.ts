@@ -160,7 +160,10 @@ export async function answering(given: Serving, request: Request): Promise<Respo
   const kind = readKindAt(at)
   if (kind !== null) {
     const answer = answeredRead(given.root, kind, body, askerOf(request), given.answeredAtMost)
-    if (answer.read !== undefined) keptReads(given.root, answer.read)
+    if (answer.read !== undefined) {
+      keptReads(given.root, answer.read)
+      given.following?.kept(answer.read)
+    }
     return responseOf(answer)
   }
   if (at === APPEND_AT) {

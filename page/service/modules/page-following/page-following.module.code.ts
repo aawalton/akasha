@@ -24,8 +24,14 @@ import {
   type Planned,
   pagesOf,
   plannedFor,
+  type Target,
 } from "akasha/page/service/modules/follow-planning/follow-planning.module.code.ts"
 import { marked } from "akasha/page/service/modules/hold-naming/hold-naming.module.code.ts"
+import type { Reads } from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
+import {
+  type Readers,
+  readersFor,
+} from "akasha/page/service/modules/reads-keeping/reads-keeping.module.code.ts"
 
 export const EVENTS_AT = "/events"
 
@@ -69,6 +75,7 @@ export type Following = {
   readonly opened: (request: Request) => Response
   readonly followed: (given: unknown) => Response
   readonly changed: (one: Changed) => undefined
+  readonly kept: (read: Reads) => undefined
 }
 
 export function said(body: unknown, status: number): Response {
@@ -157,10 +164,23 @@ function idOf(root: string, one: Changed): string | undefined {
   }
 }
 
+export function changesFor(one: Target, heard: string, readers: Readers): readonly Changed[] {
+  if (one.slugs !== null) return [...one.slugs].map((slug) => ({ pageTypeSlug: one.kind, slug }))
+  const pages = readers.reading(one.computed, heard)
+  if (pages === null) return [{ pageTypeSlug: one.kind }]
+  const found: Changed[] = []
+  for (const page of pages) {
+    const parted = partedIn(page)
+    if (parted?.pageType === one.kind) found.push({ pageTypeSlug: one.kind, slug: parted.slug })
+  }
+  return found
+}
+
 export function followingFor(
   root: string,
   beatMs: number = BEAT_MS,
-  besideSaid: () => string = () => ""
+  besideSaid: () => string = () => "",
+  readers: Readers = readersFor(root)
 ): Following {
   const streams = new Map<string, Stream>()
   const watchers = new Map<string, FSWatcher>()
@@ -255,11 +275,10 @@ export function followingFor(
     }
     for (const [folder, names] of planned.read) {
       hear(folder, (name) => {
+        const heard = join(folder, name)
         for (const targets of [...(names.get(name) ?? []), ...(names.get(null) ?? [])]) {
-          for (const one of targets) {
-            if (one.slugs === null) changed({ pageTypeSlug: one.kind })
-            else for (const slug of one.slugs) changed({ pageTypeSlug: one.kind, slug })
-          }
+          for (const one of targets)
+            for (const each of changesFor(one, heard, readers)) changed(each)
         }
         return undefined
       })
@@ -372,5 +391,5 @@ export function followingFor(
     return said({ following: stream.helds.map((one) => one.key) }, 200)
   }
 
-  return { opened, followed, changed }
+  return { opened, followed, changed, kept: readers.kept }
 }

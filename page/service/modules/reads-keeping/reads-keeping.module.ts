@@ -24,5 +24,22 @@ export const readsKeeping = {
       decisionKind: "decision-kind/departure",
       statement: "A keeping that fails is said, and the answer that read it is not refused.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "What each page's calculation read is held in memory as well, for the service run.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That names the pages a change to a file reaches.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page worked out again is held for what it read that time alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a page read is folded into its folders as what a property keeps is.",
+    },
   ],
 } as const satisfies Module

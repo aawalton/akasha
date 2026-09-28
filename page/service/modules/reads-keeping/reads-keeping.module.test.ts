@@ -8,6 +8,7 @@ import type { Reads } from "akasha/page/service/modules/kinds-gathering/kinds-ga
 import {
   foldedReads,
   keptReads,
+  readersFor,
 } from "akasha/page/service/modules/reads-keeping/reads-keeping.module.code.ts"
 
 const scratch = scratchWorld()
@@ -40,6 +41,58 @@ test("what a calculation reads is added to what its computed property keeps", ()
     readFiles: ["moves/squat.movement.ts", "people/alan.person.ts"],
     readFolders: ["logs"],
   })
+})
+
+const PLAYED = "stories/a/a.story-played.ts"
+
+const OTHER = "stories/b/b.story-played.ts"
+
+const TURN = "/r/stories/a/turns/one.story-turn-played.ts"
+
+function readBy(pages: Readonly<Record<string, readonly string[]>>, folders: string[] = []): Reads {
+  const each = Object.entries(pages).map(
+    ([page, files]): [string, { files: string[]; folders: string[] }] => [
+      page,
+      { files: [...files], folders: [...folders] },
+    ]
+  )
+  return new Map([[PROPERTY, { files: new Set(), folders: new Set(), pages: new Map(each) }]])
+}
+
+test("a change to a file names only the pages whose calculations read it", () => {
+  const readers = readersFor("/r")
+  readers.kept(readBy({ [PLAYED]: ["stories/a/turns/one.story-turn-played.ts"], [OTHER]: [] }))
+  expect(readers.reading(PROPERTY, TURN)).toEqual(new Set([PLAYED]))
+  expect(readers.reading(PROPERTY, "/r/stories/a/turns/two.story-turn-played.ts")).toEqual(
+    new Set()
+  )
+})
+
+test("a change in a folder a calculation listed names every page that listed it", () => {
+  const readers = readersFor("/r")
+  readers.kept(readBy({ [PLAYED]: [], [OTHER]: [] }, ["stories/a/turns"]))
+  expect(readers.reading(PROPERTY, TURN)).toEqual(new Set([PLAYED, OTHER]))
+})
+
+test("nothing is named for a computed property no calculation has been kept for", () => {
+  const readers = readersFor("/r")
+  expect(readers.reading(PROPERTY, TURN)).toBeNull()
+  readers.kept(readBy({ [PLAYED]: [] }))
+  expect(readers.reading("held/other.computed-property.ts", TURN)).toBeNull()
+})
+
+test("a page worked out again is named only for what it read the last time", () => {
+  const readers = readersFor("/r")
+  readers.kept(readBy({ [PLAYED]: ["stories/a/turns/one.story-turn-played.ts"] }))
+  readers.kept(readBy({ [PLAYED]: ["stories/a/turns/two.story-turn-played.ts"] }))
+  expect(readers.reading(PROPERTY, TURN)).toEqual(new Set())
+  expect(readers.reading(PROPERTY, "/r/stories/a/turns/two.story-turn-played.ts")).toEqual(
+    new Set([PLAYED])
+  )
+  readers.kept(readBy({ [PLAYED]: [] }))
+  expect(readers.reading(PROPERTY, "/r/stories/a/turns/two.story-turn-played.ts")).toEqual(
+    new Set()
+  )
 })
 
 test("nothing is written where what is kept would stay the same", () => {

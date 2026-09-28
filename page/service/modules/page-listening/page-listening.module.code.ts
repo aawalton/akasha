@@ -31,7 +31,10 @@ import {
   threadsFor,
 } from "akasha/page/service/modules/page-threading/page-threading.module.code.ts"
 import { writerFor } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
-import { keptReads } from "akasha/page/service/modules/reads-keeping/reads-keeping.module.code.ts"
+import {
+  keptReads,
+  readersFor,
+} from "akasha/page/service/modules/reads-keeping/reads-keeping.module.code.ts"
 import { pageService } from "akasha/page/service/page-service.service-workstation.ts"
 
 export const SERVICE_SLUG = pageService.slug
@@ -173,9 +176,15 @@ export function runPageListening(root: string): undefined {
     )
   }
   watchingHeld()
-  const threads = threadsFor(root, { kept: (read) => keptReads(root, read) })
+  const readers = readersFor(root)
+  const threads = threadsFor(root, {
+    kept: (read) => {
+      keptReads(root, read)
+      return readers.kept(read)
+    },
+  })
   const landing = landingThreadFor(root, threads.readSlots)
-  const following = followingFor(root, undefined, threads.heapsSaid)
+  const following = followingFor(root, undefined, threads.heapsSaid, readers)
   const binds = bindsFor(root, SERVICE_SLUG)
   const stated: Listening = { root, port, binds, following, threads, landing }
   refreshingTurns(root, (sat) => following.changed({ pageTypeSlug: seat.slug, slug: sat.slug }))

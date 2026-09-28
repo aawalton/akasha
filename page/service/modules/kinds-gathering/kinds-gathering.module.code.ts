@@ -75,6 +75,7 @@ const BESIDE_THE_PAGE: ReadonlySet<string> = new Set([COMPUTED, FILE_PROPERTY])
 type Read = {
   readonly files: ReadonlySet<string>
   readonly folders: ReadonlySet<string>
+  readonly pages?: ReadonlyMap<string, Readonly<{ files: string[]; folders: string[] }>>
 }
 
 export type Reads = ReadonlyMap<string, Read>
@@ -334,7 +335,12 @@ export function computedOver(
   const computing = computingOver(placing)
   const computedAt = new Map(counting.map((one) => [one.row.path, one.computed]))
   const dark = new Map<string, string>()
-  const read = new Map<string, { readonly files: Set<string>; readonly folders: Set<string> }>()
+  type Into = {
+    readonly files: Set<string>
+    readonly folders: Set<string>
+    readonly pages: Map<string, { files: string[]; folders: string[] }>
+  }
+  const read = new Map<string, Into>()
   const rows = taken.map((one) => {
     const worked = computing.workedAt(one.path)
     if (worked === null) return one
@@ -343,14 +349,16 @@ export function computedOver(
       const at = placedAt.get(property)
       const reading = worked.read.get(property.key)
       if (at === undefined || reading === undefined) continue
-      const into = read.get(at) ?? { files: new Set<string>(), folders: new Set<string>() }
+      const into: Into = read.get(at) ?? { files: new Set(), folders: new Set(), pages: new Map() }
       read.set(at, into)
+      const own = { files: [...reading.files], folders: [...reading.folders] }
       for (const said of reading.pages) {
         const path = placing.pathAt(said)
-        if (path !== null) into.files.add(path)
+        if (path !== null) own.files.push(path)
       }
-      for (const file of reading.files) into.files.add(file)
-      for (const folder of reading.folders) into.folders.add(folder)
+      for (const file of own.files) into.files.add(file)
+      for (const folder of own.folders) into.folders.add(folder)
+      into.pages.set(one.path, own)
     }
     return { path: one.path, value: worked.value as Value }
   })

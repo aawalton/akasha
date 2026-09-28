@@ -74,7 +74,16 @@ export const pageFollowing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A change there is a change to each page that follow names, or to its list.",
+      statement: "A change there is a change to each page that follow names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Where it names none, it is a change to each page whose calculation read the file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file no calculation of its property was held for this run changes the list.",
     },
     {
       decisionKind: "decision-kind/departure",
