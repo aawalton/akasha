@@ -7,7 +7,18 @@ export const otherwhere00002 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 2,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I start walking towards the mountain, taking care to move quietly and observe carefully, especially for any signs of danger.",
+  lore: [
+    "place/otherwhere-cinder-isle",
+    "place/otherwhere-lowland-wood",
+    "place/otherwhere-old-strangler",
+    "place/otherwhere-glassrun",
+    "place/otherwhere-black-shore",
+    "lore/otherwhere-copperbacks",
+    "lore/otherwhere-mire-monitors",
+    "lore/otherwhere-ashback",
+    "lore/otherwhere-cinder-isle-plants",
+  ],
 } as const satisfies StoryTurnPlayed
