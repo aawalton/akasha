@@ -4,13 +4,14 @@ export const theDatingGame00033 = {
   id: "01a0e574-c321-79ef-a4d7-09f74c16e5f4",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-033",
+  cover: "image/image-304dda24c9fdc3f4",
   ownLength: 141,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 33,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "I tear up. “That’s good work. Heavy. My father and grandfather both went through hospice in the past few years. I know exactly how much a good hospice nurse matters. I can tell you’re a good one.”",
   beats: [
@@ -25,6 +26,6 @@ export const theDatingGame00033 = {
     '"Your father, and your grandfather," she says gently. "Tell me about them, if you want to."',
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-26T19:34:00.000Z",
 } as const satisfies StoryTurnPlayed

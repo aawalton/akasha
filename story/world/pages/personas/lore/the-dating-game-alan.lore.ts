@@ -236,5 +236,9 @@ export const theDatingGameAlan = {
       fact: "Grace offered to be good company for Alan's next few selves, and to walk with them too.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "Alan's father and grandfather both went through hospice in the past few years.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
+    },
   ],
 } as const satisfies Lore
