@@ -27,7 +27,7 @@ function isAllDigits(s: string): boolean {
   return true
 }
 
-export type LocationNamed = (key: string) => string | undefined
+type LocationNamed = (key: string) => string | undefined
 
 const NAMED_BY_PLACE: Readonly<Record<string, string>> = { CraftBag: "craftbag" }
 
