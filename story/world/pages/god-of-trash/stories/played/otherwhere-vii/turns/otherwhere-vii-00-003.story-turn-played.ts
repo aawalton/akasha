@@ -10,7 +10,7 @@ export const otherwhereVii00003 = {
   position: 3,
   prose: "txt",
   characters: ["character-player/otherwhere-vii-nala", "character-other/otherwhere-vii-ennis"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "\"A bit of both I'm afraid. Certainly didn't plan to end up in a ditch with only the clothes on my back. You look like an enterprising fellow, could you use an extra pair of hands in exchange for a meal? I know I don't look like much, but I'm good at cleaning and organizing, might be able to help you turn some of those treasures into something people would buy?\"",
   beats: [
@@ -50,6 +50,6 @@ export const otherwhereVii00003 = {
     "place/otherwhere-vii-bramwick",
     "place/otherwhere-vii-ashford-road",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T06:36:00.000Z",
 } as const satisfies StoryTurnPlayed
