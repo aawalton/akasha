@@ -4,13 +4,14 @@ export const otherwhere00063 = {
   id: "01a0e80b-034b-77ae-bfea-82758341dbb8",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-063",
+  cover: "image/image-0334724495d82782",
   ownLength: 169,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 63,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: "**Good enough, where can I find some more books to shelve?**",
   beats: [
     "Nala asks Links where she can find more books to shelve.",
@@ -29,6 +30,6 @@ export const otherwhere00063 = {
     '"The nearest heap sprawls at the foot of the first carved column" - Nala was last in the core below',
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T13:52:00.000Z",
 } as const satisfies StoryTurnPlayed

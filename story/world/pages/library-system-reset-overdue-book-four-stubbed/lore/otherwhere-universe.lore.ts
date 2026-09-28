@@ -398,7 +398,11 @@ export const otherwhereUniverse = {
     },
     {
       fact: "With the Counter restored, the Library sets its next task: Reopen the Library, serve a patron.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-links",
+        "character-player/otherwhere-alan",
+      ],
     },
   ],
   secrets: "jsonl",

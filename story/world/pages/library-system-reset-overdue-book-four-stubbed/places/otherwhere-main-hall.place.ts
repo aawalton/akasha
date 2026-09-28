@@ -65,7 +65,7 @@ export const otherwhereMainHall = {
     },
     {
       fact: "The Check-in Counter is carved with trees blossoming into books, words strung like leaves.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "The Check-in Counter shows as Check-in Counter, Administrator Access Only, 20% Operational.",
@@ -73,7 +73,7 @@ export const otherwhereMainHall = {
     },
     {
       fact: "At 75 power the Counter's carved trees glow, and its desk lights for the Librarian's hand.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Restored, the Counter shows as Check-in Counter, Operational, Administrator: Nala.",
@@ -319,7 +319,6 @@ export const otherwhereMainHall = {
       fact: "With Shelf Sight open, each book's right shelf glows faintly across the hall.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "Nala reshelved all the heaps beside the counter, the hall's gold light edging brighter.",
       knowers: [
