@@ -14,7 +14,7 @@ export const haremHotel00002 = {
     "character-other/harem-hotel-odile",
     "character-other/harem-hotel-wren",
   ],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action: '"Okay..." I stand up. "I\'m on my feet, check me in?"',
   beats: [
     'Alan says "Okay...", swings his feet down and stands up off the chaise.',
@@ -34,6 +34,9 @@ export const haremHotel00002 = {
     "She thumbs open the top brass button of her red jacket; the next one strains under her tits.",
     '"Don\'t let her make it sound like paperwork," she tells him. "So. Which of us are you starting on?"',
   ],
+  issues: [
+    '"from where you stand you can read it plainly" - he stands by the chaise, across the lobby',
+  ],
   lore: ["lore/harem-hotel-odile"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
