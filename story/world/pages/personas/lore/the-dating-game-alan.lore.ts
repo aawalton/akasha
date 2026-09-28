@@ -208,5 +208,21 @@ export const theDatingGameAlan = {
       fact: "Alan finds it hard to feel death is real; past, present and future blur together for him.",
       knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
     },
+    {
+      fact: "Alan has total aphantasia: no experiential memory or imagination, only the present.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
+    },
+    {
+      fact: "Alan feels each three-second window of his is a different person; his sense of self is weak.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
+    },
+    {
+      fact: "Alan counts some fifty million Alans already dead, so he sees nothing to fear in one more.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
+    },
+    {
+      fact: "Alan fears pain far more than death, and mourns the versions of him whose three seconds are pain.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
+    },
   ],
 } as const satisfies Lore
