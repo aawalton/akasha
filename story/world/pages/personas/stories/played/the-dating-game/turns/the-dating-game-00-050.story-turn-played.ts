@@ -24,5 +24,6 @@ export const theDatingGame00050 = {
   ],
   lore: ["place/the-dating-game-apple-avenue"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  endsAt: "2026-09-27T13:35:00.000Z",
 } as const satisfies StoryTurnPlayed
