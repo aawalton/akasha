@@ -41,6 +41,7 @@ export const otherwhereVii00003 = {
     "He straightens slowly, and his eyes go to her shirt, weighing it the way he weighed the rags.",
     '"That shirt, though. Close weave, dyed even. I\'ll give you fifteen pennies for it."',
   ],
+  issues: ['"Only the papermaker and the glue-boiler buy it" - sorted wool sells to the fuller'],
   lore: [
     "lore/otherwhere-vii-ennis",
     "lore/otherwhere-vii-money",
@@ -49,5 +50,6 @@ export const otherwhereVii00003 = {
     "place/otherwhere-vii-bramwick",
     "place/otherwhere-vii-ashford-road",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T06:36:00.000Z",
 } as const satisfies StoryTurnPlayed
