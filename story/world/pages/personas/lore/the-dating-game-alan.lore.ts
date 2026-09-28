@@ -308,5 +308,9 @@ export const theDatingGameAlan = {
         "character-player/the-dating-game-alan",
       ],
     },
+    {
+      fact: "Alan told Talia his name.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-talia"],
+    },
   ],
 } as const satisfies Lore

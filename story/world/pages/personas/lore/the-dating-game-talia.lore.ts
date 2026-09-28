@@ -22,7 +22,43 @@ export const theDatingGameTalia = {
     },
     {
       fact: "On Sunday afternoons Talia sits on her front porch in her church dress, reading.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-talia",
+      ],
+    },
+    {
+      fact: "Talia told Alan her name.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-talia",
+      ],
+    },
+    {
+      fact: "Talia reads from an old Bible, its edges soft with use.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-talia",
+      ],
+    },
+    {
+      fact: "Talia reads on her porch because it is quiet enough to hear the words.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-talia",
+      ],
+    },
+    {
+      fact: "A drop hung from Talia's hair without falling; she saw Alan notice and didn't explain.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-talia",
+      ],
     },
   ],
   secrets: "jsonl",

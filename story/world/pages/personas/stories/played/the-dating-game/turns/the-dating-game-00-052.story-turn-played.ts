@@ -4,13 +4,14 @@ export const theDatingGame00052 = {
   id: "01a0e853-1e55-74a6-b08e-4464b8d65e1b",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-052",
+  cover: "image/image-f31081fff7ddaa86",
   ownLength: 124,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 52,
   prose: "txt",
   characters: ["character-other/the-dating-game-talia", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: "\"Hi there, I'm Alan, what's your name?\"",
   beats: [
     "He says, \"Hi there, I'm Alan. What's your name?\"",
@@ -24,6 +25,6 @@ export const theDatingGame00052 = {
   ],
   lore: ["lore/the-dating-game-talia"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-27T13:42:00.000Z",
 } as const satisfies StoryTurnPlayed
