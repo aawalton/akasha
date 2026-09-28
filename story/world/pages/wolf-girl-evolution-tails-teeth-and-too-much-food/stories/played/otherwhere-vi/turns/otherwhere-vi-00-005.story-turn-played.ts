@@ -40,5 +40,6 @@ export const otherwhereVi00005 = {
     "Behind her the wolf stops, looks past her toward the mud, then turns and trots back upstream.",
   ],
   lore: ["place/otherwhere-vi-hollow-stream"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T22:05:00.000Z",
 } as const satisfies StoryTurnPlayed
