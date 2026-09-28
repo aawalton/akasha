@@ -4,6 +4,8 @@ export const image5e2c7fdeaccc7d9c = {
   id: "01a0e9dd-80a9-7e06-87ee-b252e19d4bdf",
   type: "page-type/image",
   slug: "image-5e2c7fdeaccc7d9c",
+  title: "Morning Sun Salutation in Linen Trousers",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
