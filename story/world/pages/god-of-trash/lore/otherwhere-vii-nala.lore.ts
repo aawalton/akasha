@@ -85,6 +85,30 @@ export const otherwhereViiNala = {
         "character-other/otherwhere-vii-ennis",
       ],
     },
+    {
+      fact: "Nala told the carter she was partly robbed, partly ran off, and good at cleaning and organizing.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-ennis",
+      ],
+    },
+    {
+      fact: "Nala mixed wool into her linen heap and spilled rot over both, spoiling the carter's sack.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-ennis",
+      ],
+    },
+    {
+      fact: "Nala lost the carter's bread and cheese, but he still gives her the ride to Ashford.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-ennis",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

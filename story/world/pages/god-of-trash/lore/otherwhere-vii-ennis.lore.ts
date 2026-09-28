@@ -50,7 +50,7 @@ export const otherwhereViiEnnis = {
     },
     {
       fact: "Ennis will give a stranger a ride to Ashford, and nothing else for free.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-ennis"],
     },
     {
       fact: "The carter is lean and stooped, about fifty, grizzled, in a greasy leather cap and patched coat.",
@@ -106,11 +106,11 @@ export const otherwhereViiEnnis = {
     },
     {
       fact: "Ennis would trade a morning's sorting for bread, cheese and the ride, and no coin at first.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-ennis"],
     },
     {
       fact: "Ennis doubts a soft-handed woman can sort filth, and will test her on the dirtiest sack.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-ennis"],
     },
     {
       fact: "Washed whole bottles fetch a penny from Bramwick's alewives; dirty ones a quarter-penny.",
@@ -151,6 +151,46 @@ export const otherwhereViiEnnis = {
     {
       fact: "Ennis gives his name only when asked, and asks hers back.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The carter offered Nala bread, cheese and the ride to Ashford, no coin, to sort one sack clean.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-ennis",
+      ],
+    },
+    {
+      fact: "The carter told Nala only the papermaker, fuller and glue-boiler buy rags and bones.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-ennis",
+      ],
+    },
+    {
+      fact: "The carter's back pains him; he climbs down stiffly and grunts, a hand pressed to it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-ennis",
+      ],
+    },
+    {
+      fact: "The carter pays a penny for a clean sack of rags, and a fouled sack is worth a quarter-penny.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-ennis",
+      ],
+    },
+    {
+      fact: "The carter offered Nala fifteen pennies for her shirt, for its close weave and even dye.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-ennis",
+      ],
     },
   ],
   secrets: "jsonl",
