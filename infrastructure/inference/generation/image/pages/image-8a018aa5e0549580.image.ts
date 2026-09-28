@@ -8,6 +8,9 @@ export const image8a018aa5e0549580 = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-11cb3d413b779707",
+  title: "Thea Squinting into the Blaze",
+  persona: "persona/thea",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",
