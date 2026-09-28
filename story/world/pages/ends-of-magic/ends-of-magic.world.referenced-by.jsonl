@@ -13,6 +13,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-elk-centaur.lore.ts","id":"01a0e9f4-0046-79c1-900f-9444ea5f32d6"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-fey.lore.ts","id":"01a0e9f4-fc81-750a-8142-745eb9ab1b78"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-foxfolk.lore.ts","id":"01a0e9f4-0047-7744-94f4-6835adf682b9"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-gemore.lore.ts","id":"01a0e9f5-4cc9-7093-96b4-2df7632fd825"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-giant.lore.ts","id":"01a0e9f4-fc81-7f9c-b43d-6ecd90372988"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-giantsrest-dominion.lore.ts","id":"01a0e9f3-5ca4-7d93-8500-cd4dc58f4e4b"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-human.lore.ts","id":"01a0e9f2-ad9d-7f6c-9f4f-7b22d446e18a"}
@@ -44,6 +45,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-talents.world-mechanic.ts","id":"01a0e9f3-e3e8-74ab-9121-65d11936e83a"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-wizardry.world-mechanic.ts","id":"01a0e9f4-8e70-7d6d-ba7a-4042226943c4"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-ascendant-academy.world-organization.ts","id":"01a0e9f4-227c-79ae-8d6d-e5290e8f1377"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-gemore.world-organization.ts","id":"01a0e9f5-4cca-7c6a-b1aa-a602e4c5ccfb"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-giantsrest-dominion.world-organization.ts","id":"01a0e9f3-5ca5-7770-9e44-0d5d426ee13a"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-the-nails.world-organization.ts","id":"01a0e9f4-5851-7b0a-9b2f-f797d786c8fd"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-birdfolk.world-species.ts","id":"01a0e9f3-7323-7d89-88bb-272ffe812118"}
