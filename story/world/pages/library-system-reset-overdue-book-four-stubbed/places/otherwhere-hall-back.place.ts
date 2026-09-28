@@ -124,10 +124,7 @@ export const otherwhereHallBack = {
       fact: "A salt-dried bookworm stays shrunken and still until water revives it; it keeps for night owls.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Salt is kept in a big box in the break room off the main hall, and it keeps.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "A scoop of salt flung by hand carries about ten feet before it scatters.",
       knowers: ["lore-disclosure/game-master"],
@@ -196,10 +193,7 @@ export const otherwhereHallBack = {
       fact: "Low humped engorged bookworms chew wetly among heaps of books in the gloom at the hall's back.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "The nearest engorged bookworm Nala has seen is about the size of a small dog.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "Moving silently did not hide Nala; the blind bookworm turned and tracked her anyway.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -277,14 +271,7 @@ export const otherwhereHallBack = {
       fact: "The chewed broom still sweeps, its bristles bitten ragged down one side.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "Further back in the gloom beyond the columns, wet chewing still goes on.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "Nala soaked her blood into her shirt and tights and rolled in salt; the crust burns in her bite.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "All five small bookworms are dried into hard grey coils; only the big one remains.",
       knowers: [
@@ -294,20 +281,16 @@ export const otherwhereHallBack = {
       ],
     },
     {
-      fact: "The last small bookworm fed about thirty feet short of the back steps until Nala lured it out.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "Nala's salt is used up, only a thin scatter left on the floor.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "Links told Nala salt still burns the big bookworm, but his kitchen's salt sleeps with the kitchen.",
+      fact: "Salt still burns the big bookworm, though it ploughs through a line anyway.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-alan",
         "character-other/otherwhere-links",
       ],
+    },
+    {
+      fact: "Two sacks of salt and a jar of honey sit at the edge of the gloom behind Nala.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "The big engorged bookworm bites far harder than the small ones do.",
