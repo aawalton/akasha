@@ -46,5 +46,6 @@ export const otherwhereIv00004 = {
     'Zhao Jun turns back to Nala, eager and afraid at once. "So? Honored spirit, what is it?"',
   ],
   lore: ["lore/otherwhere-iv-three-stones-folk"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T07:10:00.000Z",
 } as const satisfies StoryTurnPlayed
