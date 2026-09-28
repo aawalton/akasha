@@ -10,7 +10,8 @@ export const turnDescribed = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn opens at the commit that added the turn's page.",
+      statement:
+        "A turn opens at the commit that first added the turn's page, whatever moved it since.",
     },
     {
       decisionKind: "decision-kind/departure",

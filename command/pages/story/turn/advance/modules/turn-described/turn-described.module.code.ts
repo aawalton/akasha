@@ -41,7 +41,16 @@ function descriptionOf(value: Value | null): string | null {
 }
 
 function openedAt(root: string, at: string): string | null {
-  const said = told(root, ["log", "--diff-filter=A", "-n", "1", "--format=%H", "--", at])
+  const said = told(root, [
+    "log",
+    "--follow",
+    "--diff-filter=A",
+    "-n",
+    "1",
+    "--format=%H",
+    "--",
+    at,
+  ])
   const commit = said === null ? "" : said.trim()
   return commit === "" ? null : commit
 }
