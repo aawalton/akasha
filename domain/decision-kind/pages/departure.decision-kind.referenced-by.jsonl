@@ -3876,6 +3876,7 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/metrics/resources/health/otherwhere-iv-health.page-type.ts","id":"01a0e9f7-c596-73d9-aee6-f6c71a2ccf28"}
 {"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/metrics/resources/purse/otherwhere-iv-purse.page-type.ts","id":"01a0e9f3-1922-78de-a215-d8c14dc07dbd"}
 {"propertySlug":"decision-kind","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/checks/otherwhere-viii-action-check.world-check.ts","id":"01a0ea38-49e6-7de7-95e5-1a8b84fca941"}
+{"propertySlug":"decision-kind","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/checks/otherwhere-viii-harm.world-check.ts","id":"01a0ea39-8ec3-7e39-afa7-037e617fa830"}
 {"propertySlug":"decision-kind","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/checks/otherwhere-viii-time-passing.world-check.ts","id":"01a0ea2d-403e-71a7-9e77-4ebda9f59429"}
 {"propertySlug":"decision-kind","path":"story/world/pages/cornerstone/mechanics/derived/cornerstone-wakefulness.world-derived-metric.ts","id":"01a0dee7-ba7b-7084-b6fd-e83123684331"}
 {"propertySlug":"decision-kind","path":"story/world/pages/cornerstone/mechanics/ranks/depth/cornerstone-depth.page-type.ts","id":"01a0dee6-492c-728a-b2ed-cf137b64fbd8"}
