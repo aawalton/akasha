@@ -12,5 +12,13 @@ export const otherwhereVInjury = {
       fact: "Cuts, bites, burns and breaks mend slowly.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A person beaten down falls senseless and bleeding, and dies within the hour untended.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A deep bite at the neck bleeds freely until it is pressed or bound.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

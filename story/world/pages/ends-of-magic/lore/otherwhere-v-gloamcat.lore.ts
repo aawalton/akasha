@@ -141,5 +141,33 @@ export const otherwhereVGloamcat = {
       fact: "Night, day one: the beast bit the back of Nala's neck and shoulder twice as she crawled for the log.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
+    {
+      fact: "Prey that twists round and wrestles its jaws off counts as fighting back, noise or none.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A grown gloamcat weighs about sixty pounds, most of it in its neck, shoulders and haunches.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Its neck is thick with muscle; a person's grip or legs cannot choke it quickly.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Held by the neck, it rakes with its hind claws and twists to tear loose.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A gloamcat that cannot tear loose within a few breaths panics and fights to flee.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A grown gloamcat has about twenty-four health, and its thick fur gives it a ward of one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Prey that goes limp it drags away by the neck to eat.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
