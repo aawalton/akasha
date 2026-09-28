@@ -240,5 +240,25 @@ export const theDatingGameAlan = {
       fact: "Alan's father and grandfather both went through hospice in the past few years.",
       knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
     },
+    {
+      fact: "Alan's father died young, at 57, divorced by the end.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
+    },
+    {
+      fact: "Alan is the oldest of his father's kids, the only one fully grown when his father died.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
+    },
+    {
+      fact: "When his father died the weight fell on Alan; the finances and paperwork hurt more than the loss.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
+    },
+    {
+      fact: "Alan doesn't form emotional attachments the way most people do; he can't remember feelings.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
+    },
+    {
+      fact: "To Alan, the past with his father and the past without him are equally incomprehensible.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
+    },
   ],
 } as const satisfies Lore
