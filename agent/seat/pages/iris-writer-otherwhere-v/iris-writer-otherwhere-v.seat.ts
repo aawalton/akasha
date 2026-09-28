@@ -1,0 +1,14 @@
+import type { Seat } from "akasha/agent/seat/seat.page-type.types.ts"
+
+export const irisWriterOtherwhereV = {
+  id: "01a0e9e5-5113-7000-9fe8-0de362fa1548",
+  type: "page-type/seat",
+  slug: "iris-writer-otherwhere-v",
+  persona: "persona/iris",
+  assignmentSlug: "story-played/otherwhere-v",
+  role: "role/writer",
+  person: "person/alan",
+  startMode: "seat-mode/interactive",
+  onCall: false,
+  registrationAccount: "model-account/aawalton",
+} as const satisfies Seat
