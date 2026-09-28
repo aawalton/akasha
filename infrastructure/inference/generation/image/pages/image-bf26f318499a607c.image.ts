@@ -8,6 +8,9 @@ export const imageBf26f318499a607c = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-4f5aee4e3ff38180",
+  title: "Nimue Working the Cryptic Crossword",
+  persona: "persona/nimue",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",
