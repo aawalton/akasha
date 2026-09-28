@@ -45,6 +45,8 @@ export const otherwhereV00003 = {
     "It swerves off a stride short of her with a hiss, and is gone into the black.",
     "The ferns where it vanished shiver, then are still.",
   ],
+  issues: ['"The ferns where it went shiver, then go still." - Leave It Open'],
   lore: ["place/otherwhere-v-fern-hollow", "lore/otherwhere-v-gloamcat"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T18:58:00.000Z",
 } as const satisfies StoryTurnPlayed
