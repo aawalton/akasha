@@ -4,10 +4,16 @@ export const otherwhereIii00006 = {
   id: "01a0ea14-9066-789e-b1d2-32a69ef0debb",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-006",
+  ownLength: 435,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
   position: 6,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/otherwhere-iii-nala",
+    "character-other/otherwhere-iii-denise-pruitt",
+  ],
+  stepStatus: "step-status/reviewers",
   action: '"Definitely. Thank you."',
   beats: [
     'Nala says, "Definitely. Thank you," and steps off after Denise; the doors chime shut behind them.',
