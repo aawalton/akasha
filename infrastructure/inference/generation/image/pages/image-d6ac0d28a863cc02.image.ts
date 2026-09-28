@@ -4,6 +4,8 @@ export const imageD6ac0d28a863cc02 = {
   id: "01a0e9e4-1744-769e-871c-6366b3bb8007",
   type: "page-type/image",
   slug: "image-d6ac0d28a863cc02",
+  title: "Ukulele in the Hammock",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
