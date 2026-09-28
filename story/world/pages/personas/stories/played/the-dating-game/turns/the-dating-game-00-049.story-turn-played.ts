@@ -7,7 +7,15 @@ export const theDatingGame00049 = {
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 49,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action: '"Deal, I\'m looking forward to it!"',
+  beats: [
+    'He says, "Deal, I\'m looking forward to it!"',
+    "\"Yes! Wednesday, six. It's a quest now. Quests are binding.\" She's grinning.",
+    "She heads for the bike rack at the edge of the lot, where an old green bike is locked up.",
+    '"Homework is quiet feet all week. Grocery store, stairs, everywhere. Sneaky hero mode."',
+    "She crouches to work the lock, still talking over her shoulder.",
+    '"I\'m editing you in tonight. You look very heroic in that shirt. The comments are gonna love you."',
+  ],
   lore: ["lore/the-dating-game-aelwyn", "place/the-dating-game-provo-river-trail"],
 } as const satisfies StoryTurnPlayed
