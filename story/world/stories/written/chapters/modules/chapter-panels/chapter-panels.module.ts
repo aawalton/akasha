@@ -27,5 +27,9 @@ export const chapterPanels = {
       decisionKind: "decision-kind/departure",
       statement: "The panels are handed the chapter as the one turn they read, with its cover.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A written story's page draws its panels over its latest chapter at player.",
+    },
   ],
 } as const satisfies Module

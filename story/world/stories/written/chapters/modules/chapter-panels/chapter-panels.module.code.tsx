@@ -45,6 +45,8 @@ const SLUG_KEY = "slug"
 
 const STORY_KEY = "story"
 
+const POSITION_KEY = "position"
+
 const ONE = 1
 
 function textIn(value: unknown): string {
@@ -97,19 +99,87 @@ export function ChapterPanels({ pageTypeSlug, id, children }: ChapterPanelsProps
   )
 }
 
-function ChapterAside({ pageTypeSlug, id }: Omit<ChapterPanelsProps, "children">) {
-  const { page } = usePage({ pageTypeSlug, id })
-  const data = toPageDataJSON(page?.properties)
-  const storyAddress = textIn(data.story)
-  const story = addressIn(storyAddress)
-  if (page === null || story.kind !== "qualified" || story.slug === "") return null
-  const chapter: ChapterShown = {
+function chapterShownOf(id: string, data: Readonly<Record<string, unknown>>): ChapterShown {
+  return {
     id,
     title: textIn(data.title),
     position: asNumber(data.position),
     cover: textIn(data.cover),
     disclosed: chapterDisclosed(data.stepStatus),
   }
+}
+
+type StoryPanelsProps = {
+  readonly chapterPageTypeSlug: PageTypeSlug
+  readonly storyPageTypeSlug: string
+  readonly storySlug: string
+  readonly children: ReactNode
+}
+
+export function StoryPanels({
+  chapterPageTypeSlug,
+  storyPageTypeSlug,
+  storySlug,
+  children,
+}: StoryPanelsProps) {
+  return (
+    <PlayedLayout
+      head={null}
+      panelsAbove={null}
+      runDrawn={children}
+      panelsAside={
+        storySlug === "" ? null : (
+          <LatestChapterAside
+            chapterPageTypeSlug={chapterPageTypeSlug}
+            storyPageTypeSlug={storyPageTypeSlug}
+            storySlug={storySlug}
+          />
+        )
+      }
+    />
+  )
+}
+
+function LatestChapterAside({
+  chapterPageTypeSlug,
+  storyPageTypeSlug,
+  storySlug,
+}: Omit<StoryPanelsProps, "children">) {
+  const storyAddress = namedAs(storyPageTypeSlug, storySlug, null)
+  const chapterOptions = useMemo<UsePagesSupabaseOptions>(
+    () => ({
+      pageTypeSlug: chapterPageTypeSlug,
+      where: [{ key: STORY_KEY, eq: storyAddress }],
+      order: [{ by: POSITION_KEY, dir: "asc" }],
+      shape: namedShapeDescriptor(chapterPageTypeSlug, {
+        by: "where",
+        key: STORY_KEY,
+        values: [storyAddress],
+      }),
+    }),
+    [chapterPageTypeSlug, storyAddress]
+  )
+  const chapters = usePages(chapterOptions)
+  const latest = chapters.rows.findLast((row) => chapterDisclosed(row.stepStatus))
+  if (latest === undefined) return null
+  return (
+    <StoryAside
+      pageTypeSlug={chapterPageTypeSlug}
+      chapter={chapterShownOf(latest.id, latest)}
+      storyAddress={storyAddress}
+      storyPageTypeSlug={storyPageTypeSlug}
+      storySlug={storySlug}
+    />
+  )
+}
+
+function ChapterAside({ pageTypeSlug, id }: Omit<ChapterPanelsProps, "children">) {
+  const { page } = usePage({ pageTypeSlug, id })
+  const data = toPageDataJSON(page?.properties)
+  const storyAddress = textIn(data.story)
+  const story = addressIn(storyAddress)
+  if (page === null || story.kind !== "qualified" || story.slug === "") return null
+  const chapter = chapterShownOf(id, data)
   return (
     <StoryAside
       pageTypeSlug={pageTypeSlug}

@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"story-chapter-written.page-type.ts","path":"command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-chapter-written.page-type.ts","path":"story/world/stories/written/chapters/modules/chapter-making/chapter-making.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-chapter-written.page-type.ts","path":"story/world/stories/written/modules/nightly-chapter-writing/nightly-chapter-writing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"story-chapter-written.page-type.ts","path":"story/world/stories/written/story-written.page-type.page-component.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-chapter-written.page-type.types.ts","path":"story/world/pages/bathhouse-confession/stories/written/bathhouse-confession/chapters/bathhouse-confession-0001-where-the-steam-settles.story-chapter-written.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-chapter-written.page-type.types.ts","path":"story/world/pages/cornerstone/stories/written/cornerstone/chapters/cornerstone-001-blind-ground.story-chapter-written.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-chapter-written.page-type.types.ts","path":"story/world/pages/harem-hotel/stories/written/harem-hotel/chapters/harem-hotel-0001-check-in.story-chapter-written.ts","typed":true,"deferred":false}
