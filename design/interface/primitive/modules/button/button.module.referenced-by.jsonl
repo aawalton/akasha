@@ -38,6 +38,7 @@
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"product/kofi/feature-request/modules/boost-dialog/feature-request-boost-dialog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"product/kofi/feature-request/modules/propose-dialog/feature-request-propose-dialog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"story/ui/modules/alert-controls/alert-controls.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"button.module.code.tsx","path":"story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"story/ui/modules/system-choice-card/system-choice-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"story/world/stories/played/modules/action-bar/action-bar.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"story/world/stories/played/modules/played-layout/played-layout.module.code.tsx","typed":false,"deferred":false}

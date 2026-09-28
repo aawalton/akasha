@@ -7,9 +7,12 @@ import {
   characterCoversOf,
   charactersIn,
   latestTurnId,
+  pagedAt,
+  pickedFor,
   slugsOf,
   turnCoverAt,
   turnCoverSource,
+  turnCoversOf,
 } from "akasha/story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx"
 import { characterOther } from "akasha/story/world/characters/character-other/character-other.page-type.ts"
 import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
@@ -104,6 +107,35 @@ test("the turn's picture sits under the player's cover", () => {
   expect(turnCoverAt([drawn("a"), drawn("p"), drawn("b")], ["p"])).toBe(2)
   expect(turnCoverAt([drawn("a")], ["p"])).toBe(0)
   expect(turnCoverAt([], [])).toBe(0)
+})
+
+test("the turns paged through are the turns drawn that have a cover, in the turns' order", () => {
+  const turns = [{ ...turn("a"), turnNumber: 1 }, { ...turn("b"), turnNumber: 2 }, turn("c")]
+  const rows = [
+    row({ id: "c", cover: "image/image-c" }),
+    row({ id: "b" }),
+    row({ id: "a", cover: "image/image-a" }),
+  ]
+  expect(turnCoversOf(turns, rows)).toEqual([
+    { id: "a", number: 1, source: source("image-a") },
+    { id: "c", number: 3, source: source("image-c") },
+  ])
+})
+
+test("the paging opens on the latest turn with a cover", () => {
+  const covers = [
+    { id: "a", number: 1, source: "" },
+    { id: "b", number: 2, source: "" },
+  ]
+  expect(pagedAt(covers, null)).toBe(1)
+  expect(pagedAt(covers, "a")).toBe(0)
+  expect(pagedAt(covers, "gone")).toBe(1)
+})
+
+test("a turn paged to holds only until a later turn is drawn", () => {
+  expect(pickedFor({ from: "b", to: "a" }, "b")).toBe("a")
+  expect(pickedFor({ from: "b", to: "a" }, "c")).toBeNull()
+  expect(pickedFor(null, "b")).toBeNull()
 })
 
 test("a character with no cover, or no row, is left out", () => {
