@@ -10,7 +10,7 @@ export const otherwhere00071 = {
   position: 71,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "**No book that will let me cast a spell to read a book? I'm a speed reader (4000 WPM), so I can read fast, but I'm sure magic could make that faster.** I got and collect the two books and sit down to read them.",
   beats: [
@@ -31,7 +31,7 @@ export const otherwhere00071 = {
     "She reads on through the rest of Courtesies; the whole takes her some two hours.",
     "She opens Counter Keeping, a working text of the Library's own magic, dense and exact.",
     "For some three hours she works through it page by page, as she did Shelf Sight.",
-    "The words go in, but the pages never click into place; nothing settles behind her eyes.",
+    "She follows every word, but the power in it never unfolds; nothing settles behind her eyes.",
     "She reaches the last page, and no window opens.",
     "Links: it hasn't taken. It won't, until she has learned something new.",
     "Links: another power, from another book; then Counter Keeping may give way to her.",
