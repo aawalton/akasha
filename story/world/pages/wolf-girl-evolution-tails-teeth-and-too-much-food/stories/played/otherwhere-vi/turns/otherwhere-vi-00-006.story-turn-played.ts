@@ -10,7 +10,7 @@ export const otherwhereVi00006 = {
   position: 6,
   prose: "txt",
   characters: ["character-player/otherwhere-vi-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I circle wide around the boars and continue downstream",
   beats: [
     "Nala backs away from the mud and turns up the west slope into the pines, to go round wide.",
@@ -33,8 +33,9 @@ export const otherwhereVi00006 = {
   ],
   issues: [
     '"She clacks her teeth" - Nala has only seen "the big one"; its being a sow is not hers to know',
+    '"She clacks her teeth again and holds her ground." - No Prompt',
   ],
   lore: ["place/otherwhere-vi-hollow-stream"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T22:17:00.000Z",
 } as const satisfies StoryTurnPlayed
