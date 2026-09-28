@@ -4,6 +4,7 @@ export const otherwhere00001 = {
   id: "01a0e985-4ff0-7640-8da4-15041292f7c1",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-001",
+  cover: "image/image-024d585af2e5555d",
   partOfCollections: ["story-played/otherwhere"],
   position: 1,
   ownLength: 640,
