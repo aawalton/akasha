@@ -4,6 +4,8 @@ export const image4a492fe6e4486520 = {
   id: "01a0e9db-2aa1-7af2-b95f-6c5b77164c5d",
   type: "page-type/image",
   slug: "image-4a492fe6e4486520",
+  title: "Pixie Cut Glancing Back in the Rose Garden",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
