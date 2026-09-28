@@ -4,6 +4,8 @@ export const image9832b2ddf77895b0 = {
   id: "01a0e9e8-d268-71e4-9124-853a4c9adfd5",
   type: "page-type/image",
   slug: "image-9832b2ddf77895b0",
+  title: "Turquoise Cuff in the Sunset Meadow",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
