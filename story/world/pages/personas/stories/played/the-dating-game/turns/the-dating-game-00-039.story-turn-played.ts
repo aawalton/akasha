@@ -23,4 +23,6 @@ export const theDatingGame00039 = {
     "He goes to bed, and the long day lets go of him; sleep comes easily.",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
+  endsAt: "2026-09-27T08:00:00.000Z",
 } as const satisfies StoryTurnPlayed
