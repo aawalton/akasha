@@ -4,6 +4,8 @@ export const image33b7c9a0ad8babc5 = {
   id: "01a0e9e3-7b73-745e-a16e-ea8bb34a1d9a",
   type: "page-type/image",
   slug: "image-33b7c9a0ad8babc5",
+  title: "Braided Swimmer on the Sun-Warmed Boulder",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
