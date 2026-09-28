@@ -45,6 +45,7 @@
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ella-dimkey.lore.ts","id":"01a0e9ca-01ea-765a-b71e-ec7aec58a7c5"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-epic-classes.lore.ts","id":"01a0e9d5-e1d6-747e-95c5-a2814ce1f091"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-event-horizon.lore.ts","id":"01a0e9d2-c08d-797e-aca1-67c6d66239b2"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-factions.lore.ts","id":"01a0e9d7-0503-7200-8c8f-567b677efb46"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-fallen-beasts.lore.ts","id":"01a0e9c2-fe15-7e5b-825b-a840633aecce"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-fang-of-the-lava-lord.lore.ts","id":"01a0e9d2-c08d-73b5-abf1-a3fdb3b126fa"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-fennier.lore.ts","id":"01a0e9cf-bd36-77b6-a22c-47cebf910c9e"}
@@ -118,12 +119,14 @@
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-school-of-the-ever-surging-blade.lore.ts","id":"01a0e9c5-5f89-7b37-b55e-225c9b093dc1"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-shadow-hunt.lore.ts","id":"01a0e9c1-484d-7d1c-bc74-8e6dd91d957a"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-shaun.lore.ts","id":"01a0e9ca-01ea-7a38-9eae-53cab36fa187"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-skill-catalog.lore.ts","id":"01a0e9d7-0503-796f-8adf-dd0b0c07efc9"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-skills.lore.ts","id":"01a0e9a2-c7d0-7b48-a59d-c91b4fa28e89"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-skyswarm-pirates.lore.ts","id":"01a0e9c2-1a5b-7ec7-8a45-fdc19ea4039d"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-slaughter.lore.ts","id":"01a0e9c6-337f-7c84-9bf4-848c674d6840"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-sophia.lore.ts","id":"01a0e9c9-1a4c-7ffd-8a7f-3fa7c28f3bd4"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-spear-tongue-frogs.lore.ts","id":"01a0e9c1-484d-7192-84a2-90e0caa601fc"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-spectacle.lore.ts","id":"01a0e9c6-337f-7397-bbc4-2b1ab795f854"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-spells.lore.ts","id":"01a0e9d7-0504-7102-b838-1d5cf914e1eb"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-splendor.lore.ts","id":"01a0e9c6-337f-713d-8cc1-c37957e5f731"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-storage.lore.ts","id":"01a0e9d3-bf30-760b-881b-d0b060b28521"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-suffering.lore.ts","id":"01a0e9c6-337f-7159-a2b4-cf21a7ec8dc4"}
@@ -131,10 +134,12 @@
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-taltos.lore.ts","id":"01a0e9a5-b2a3-7e93-9f2a-a49fa8cca3f7"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-tiers-and-milestones.lore.ts","id":"01a0e9d5-e1d7-7e8f-84be-eb0fac701072"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-tiger-king.lore.ts","id":"01a0e9ce-df77-7449-9eb5-1cedb9a3528c"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-titles-and-achievements.lore.ts","id":"01a0e9d7-0504-7e15-90f7-63462667af96"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-tower-staff.lore.ts","id":"01a0e9c5-5f89-79b7-98bd-d0dec951192e"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-traits.lore.ts","id":"01a0e9a3-9f55-7ced-a2b2-b73c8bd065f0"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-trell.lore.ts","id":"01a0e9cd-42e7-73fb-b8ca-f81d71207122"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-trial-administrator.lore.ts","id":"01a0e9ce-df77-7f03-9ab8-6b2d9b3a31fb"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-trials-of-mastery-detail.lore.ts","id":"01a0e9d7-0504-75d6-a0c9-f154ff40e83c"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-tutorials.lore.ts","id":"01a0e9a4-b08b-7cd1-80d7-52df035d0feb"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-uncommon-classes.lore.ts","id":"01a0e9d4-c3da-796b-8e50-4c199771d957"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-vashir.lore.ts","id":"01a0e9cf-bd36-7a2c-82c9-daa8d851f2a4"}
