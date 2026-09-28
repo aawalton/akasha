@@ -5,7 +5,7 @@ import { checkAncestorRoots } from "akasha/temper/items/rules/core/modules/rule-
 
 const LEVEL_ELIGIBLE_ROOTS = new Set(["equipment"])
 
-export interface LevelOption {
+interface LevelOption {
   value: string
   phraseKey: "level-option" | "champion-option"
   level: number
