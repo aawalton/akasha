@@ -8,7 +8,7 @@ import {
 import {
   basenameOf,
   calledWords,
-  segmentsOf,
+  callsIn,
   wordsOf,
 } from "akasha/agent/hook/modules/shell-calls/shell-calls.module.code.ts"
 import { GIT_AT } from "akasha/file/modules/git-place/git-place.module.code.ts"
@@ -200,8 +200,33 @@ export function piecesOf(word: string): readonly string[] {
     .filter((one) => one !== "" && !one.startsWith(FLAG))
 }
 
-function namedIn(command: string, withheld: readonly string[]): boolean {
-  return withheld.some((one) => command.includes(basename(one)))
+const NAME_LETTER = /[\w.-]/
+
+const SENDING: readonly string[] = ["akasha", "seat", "send"]
+
+const BODY = "--body"
+
+function sendingIn(segment: string): boolean {
+  const called = calledWords(segment)
+  return SENDING.every((one, at) => basenameOf(called[at] ?? "") === one)
+}
+
+function unsent(segment: string): string {
+  if (!sendingIn(segment)) return segment
+  const words = wordsOf(segment)
+  const at = words.findIndex((one) => one === BODY || one.startsWith(`${BODY}=`))
+  if (at < 0) return segment
+  return [...words.slice(0, at), ...words.slice(at + (words[at] === BODY ? 2 : 1))].join(" ")
+}
+
+function namedIn(text: string, withheld: readonly string[]): boolean {
+  return withheld.some((one) => {
+    const name = basename(one)
+    for (let at = text.indexOf(name); at >= 0; at = text.indexOf(name, at + 1)) {
+      if (!NAME_LETTER.test(text[at - 1] ?? "")) return true
+    }
+    return false
+  })
 }
 
 function globbedReach(at: string, lore: Lore): Globbed {
@@ -334,9 +359,11 @@ export function shellReaches(
   withheld: readonly string[]
 ): boolean {
   if (withheld.length === 0 || command.trim() === "") return false
-  if (namedIn(command, withheld)) return true
+  const calls = callsIn(command)
+  const said = calls.map((one) => (sendingIn(one.segment) ? unsent(one.segment) : one.handed))
+  if (said.some((one) => namedIn(one, withheld))) return true
   const lore: Lore = { root, withheld }
-  const segments = segmentsOf(command)
+  const segments = calls.map((one) => unsent(one.segment)).filter((one) => one !== "")
   const fed = segments.some((one) => RUNNERS.includes(headOf(one)))
   let here = from
   for (const segment of segments) {

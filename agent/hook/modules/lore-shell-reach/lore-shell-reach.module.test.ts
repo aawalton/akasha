@@ -34,6 +34,17 @@ test("a line naming the page's file name anywhere is refused", () => {
   expect(reaches(`find . -name ${LORE_NAME}`)).toBe(true)
 })
 
+test("a longer file name ending in the page's file name is let through", () => {
+  expect(reaches(`echo other-${LORE_NAME}`)).toBe(false)
+  expect(reaches(`cat agent/other-${LORE_NAME}`)).toBe(false)
+})
+
+test("a sent message's body naming the page is let through", () => {
+  expect(reaches(`akasha seat send --to other --body "told ${LORE_AT}"`)).toBe(false)
+  expect(reaches(`akasha seat send --to other --body=${LORE_NAME}`)).toBe(false)
+  expect(reaches(`akasha seat send --to other --body "$(cat ${LORE_AT})"`)).toBe(true)
+})
+
 test("a path hidden behind a colon or an equals sign is refused", () => {
   const folder = dirname(LORE_AT)
   expect(reaches(`git show HEAD:${folder}/../lore/./${LORE_NAME.slice(0, 3)}*`)).toBe(true)

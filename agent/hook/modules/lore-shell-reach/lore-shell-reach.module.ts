@@ -10,7 +10,11 @@ export const loreShellReach = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A line naming a withheld page's file name anywhere reaches that page.",
+      statement: "A line naming a withheld page's file name as a whole name reaches that page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The body of a message a seat sends reads nothing it names.",
     },
     {
       decisionKind: "decision-kind/departure",
