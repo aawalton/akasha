@@ -5,6 +5,7 @@ export const enchantmentsAlphabetical = {
   type: "page-type/view",
   slug: "enchantments-alphabetical",
   title: "Alphabetical",
+  nav: "nav/innworld-enchantments",
   pageType: "page-type/world-enchantment",
   viewPlace: 1,
   viewSorts: [{ key: "title", descending: false }],

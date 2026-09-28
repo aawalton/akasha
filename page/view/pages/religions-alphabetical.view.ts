@@ -5,6 +5,7 @@ export const religionsAlphabetical = {
   type: "page-type/view",
   slug: "religions-alphabetical",
   title: "Alphabetical",
+  nav: "nav/innworld-religions",
   pageType: "page-type/world-religion",
   viewPlace: 1,
   viewSorts: [{ key: "title", descending: false }],

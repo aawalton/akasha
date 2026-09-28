@@ -5,6 +5,7 @@ export const conditionsAlphabetical = {
   type: "page-type/view",
   slug: "conditions-alphabetical",
   title: "Alphabetical",
+  nav: "nav/innworld-conditions",
   pageType: "page-type/world-condition",
   viewPlace: 1,
   viewSorts: [{ key: "title", descending: false }],

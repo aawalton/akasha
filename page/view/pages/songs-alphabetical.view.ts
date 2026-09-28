@@ -5,6 +5,7 @@ export const songsAlphabetical = {
   type: "page-type/view",
   slug: "songs-alphabetical",
   title: "Alphabetical",
+  nav: "nav/innworld-songs",
   pageType: "page-type/world-song",
   viewPlace: 1,
   viewSorts: [{ key: "title", descending: false }],

@@ -5,6 +5,7 @@ export const enchantmentsMostSeen = {
   type: "page-type/view",
   slug: "enchantments-most-seen",
   title: "Most Seen",
+  nav: "nav/innworld-enchantments",
   pageType: "page-type/world-enchantment",
   viewPlace: 0,
   viewSorts: [{ key: "appearance-count", descending: true }],

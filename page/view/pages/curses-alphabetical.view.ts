@@ -5,6 +5,7 @@ export const cursesAlphabetical = {
   type: "page-type/view",
   slug: "curses-alphabetical",
   title: "Alphabetical",
+  nav: "nav/innworld-curses",
   pageType: "page-type/world-curse",
   viewPlace: 1,
   viewSorts: [{ key: "title", descending: false }],

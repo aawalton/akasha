@@ -5,6 +5,7 @@ export const spellsMostSeen = {
   type: "page-type/view",
   slug: "spells-most-seen",
   title: "Most Seen",
+  nav: "nav/innworld-spells",
   pageType: "page-type/world-spell",
   viewPlace: 0,
   viewSorts: [{ key: "appearance-count", descending: true }],

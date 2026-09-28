@@ -5,6 +5,7 @@ export const skillsMostSeen = {
   type: "page-type/view",
   slug: "skills-most-seen",
   title: "Most Seen",
+  nav: "nav/innworld-skills",
   pageType: "page-type/world-skill",
   viewPlace: 0,
   viewSorts: [{ key: "appearance-count", descending: true }],

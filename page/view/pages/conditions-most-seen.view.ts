@@ -5,6 +5,7 @@ export const conditionsMostSeen = {
   type: "page-type/view",
   slug: "conditions-most-seen",
   title: "Most Seen",
+  nav: "nav/innworld-conditions",
   pageType: "page-type/world-condition",
   viewPlace: 0,
   viewSorts: [{ key: "appearance-count", descending: true }],

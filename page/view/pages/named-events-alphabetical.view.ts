@@ -5,6 +5,7 @@ export const namedEventsAlphabetical = {
   type: "page-type/view",
   slug: "named-events-alphabetical",
   title: "Alphabetical",
+  nav: "nav/innworld-named-events",
   pageType: "page-type/named-event",
   viewPlace: 1,
   viewSorts: [{ key: "title", descending: false }],

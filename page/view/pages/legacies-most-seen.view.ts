@@ -5,6 +5,7 @@ export const legaciesMostSeen = {
   type: "page-type/view",
   slug: "legacies-most-seen",
   title: "Most Seen",
+  nav: "nav/innworld-legacies",
   pageType: "page-type/world-legacy",
   viewPlace: 0,
   viewSorts: [{ key: "appearance-count", descending: true }],

@@ -5,6 +5,7 @@ export const questsMostSeen = {
   type: "page-type/view",
   slug: "quests-most-seen",
   title: "Most Seen",
+  nav: "nav/innworld-quests",
   pageType: "page-type/world-quest",
   viewPlace: 0,
   viewSorts: [{ key: "appearance-count", descending: true }],

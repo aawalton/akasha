@@ -5,6 +5,7 @@ export const speciesAlphabetical = {
   type: "page-type/view",
   slug: "species-alphabetical",
   title: "Alphabetical",
+  nav: "nav/innworld-species",
   pageType: "page-type/world-species",
   viewPlace: 1,
   viewSorts: [{ key: "title", descending: false }],

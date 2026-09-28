@@ -5,6 +5,7 @@ export const carriedMemoriesMostSeen = {
   type: "page-type/view",
   slug: "carried-memories-most-seen",
   title: "Most Seen",
+  nav: "nav/innworld-carried-memories",
   pageType: "page-type/world-carried-memory",
   viewPlace: 0,
   viewSorts: [{ key: "appearance-count", descending: true }],

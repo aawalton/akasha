@@ -5,6 +5,7 @@ export const questsAlphabetical = {
   type: "page-type/view",
   slug: "quests-alphabetical",
   title: "Alphabetical",
+  nav: "nav/innworld-quests",
   pageType: "page-type/world-quest",
   viewPlace: 1,
   viewSorts: [{ key: "title", descending: false }],

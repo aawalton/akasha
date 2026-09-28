@@ -5,6 +5,7 @@ export const reputationsAlphabetical = {
   type: "page-type/view",
   slug: "reputations-alphabetical",
   title: "Alphabetical",
+  nav: "nav/innworld-reputations",
   pageType: "page-type/world-reputation",
   viewPlace: 1,
   viewSorts: [{ key: "title", descending: false }],

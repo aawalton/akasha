@@ -5,6 +5,7 @@ export const charactersAlphabetical = {
   type: "page-type/view",
   slug: "characters-alphabetical",
   title: "Alphabetical",
+  nav: "nav/innworld-characters",
   pageType: "page-type/world-character",
   viewPlace: 1,
   viewSorts: [{ key: "title", descending: false }],

@@ -5,6 +5,7 @@ export const carriedMemoriesAlphabetical = {
   type: "page-type/view",
   slug: "carried-memories-alphabetical",
   title: "Alphabetical",
+  nav: "nav/innworld-carried-memories",
   pageType: "page-type/world-carried-memory",
   viewPlace: 1,
   viewSorts: [{ key: "title", descending: false }],

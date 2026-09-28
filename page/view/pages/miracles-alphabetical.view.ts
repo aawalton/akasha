@@ -5,6 +5,7 @@ export const miraclesAlphabetical = {
   type: "page-type/view",
   slug: "miracles-alphabetical",
   title: "Alphabetical",
+  nav: "nav/innworld-miracles",
   pageType: "page-type/world-miracle",
   viewPlace: 1,
   viewSorts: [{ key: "title", descending: false }],

@@ -5,6 +5,7 @@ export const recipesAlphabetical = {
   type: "page-type/view",
   slug: "recipes-alphabetical",
   title: "Alphabetical",
+  nav: "nav/innworld-recipes",
   pageType: "page-type/world-recipe",
   viewPlace: 1,
   viewSorts: [{ key: "title", descending: false }],

@@ -5,6 +5,7 @@ export const classesMostSeen = {
   type: "page-type/view",
   slug: "classes-most-seen",
   title: "Most Seen",
+  nav: "nav/innworld-classes",
   pageType: "page-type/world-class",
   viewPlace: 0,
   viewSorts: [{ key: "appearance-count", descending: true }],

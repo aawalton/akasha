@@ -5,6 +5,7 @@ export const aspectsAlphabetical = {
   type: "page-type/view",
   slug: "aspects-alphabetical",
   title: "Alphabetical",
+  nav: "nav/innworld-aspects",
   pageType: "page-type/world-aspect",
   viewPlace: 1,
   viewSorts: [{ key: "title", descending: false }],

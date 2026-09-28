@@ -5,6 +5,7 @@ export const recipesMostSeen = {
   type: "page-type/view",
   slug: "recipes-most-seen",
   title: "Most Seen",
+  nav: "nav/innworld-recipes",
   pageType: "page-type/world-recipe",
   viewPlace: 0,
   viewSorts: [{ key: "appearance-count", descending: true }],

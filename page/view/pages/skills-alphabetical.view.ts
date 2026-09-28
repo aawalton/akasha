@@ -5,6 +5,7 @@ export const skillsAlphabetical = {
   type: "page-type/view",
   slug: "skills-alphabetical",
   title: "Alphabetical",
+  nav: "nav/innworld-skills",
   pageType: "page-type/world-skill",
   viewPlace: 1,
   viewSorts: [{ key: "title", descending: false }],

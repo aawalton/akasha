@@ -5,6 +5,7 @@ export const namedEventsChronological = {
   type: "page-type/view",
   slug: "named-events-chronological",
   title: "Chronological",
+  nav: "nav/innworld-named-events",
   pageType: "page-type/named-event",
   viewPlace: 0,
   viewSorts: [{ key: "first-chapter", descending: false }],

@@ -5,6 +5,7 @@ export const boonsMostSeen = {
   type: "page-type/view",
   slug: "boons-most-seen",
   title: "Most Seen",
+  nav: "nav/innworld-boons",
   pageType: "page-type/world-boon",
   viewPlace: 0,
   viewSorts: [{ key: "appearance-count", descending: true }],

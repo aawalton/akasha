@@ -5,6 +5,7 @@ export const legaciesAlphabetical = {
   type: "page-type/view",
   slug: "legacies-alphabetical",
   title: "Alphabetical",
+  nav: "nav/innworld-legacies",
   pageType: "page-type/world-legacy",
   viewPlace: 1,
   viewSorts: [{ key: "title", descending: false }],

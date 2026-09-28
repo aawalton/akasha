@@ -5,6 +5,7 @@ export const religionsMostSeen = {
   type: "page-type/view",
   slug: "religions-most-seen",
   title: "Most Seen",
+  nav: "nav/innworld-religions",
   pageType: "page-type/world-religion",
   viewPlace: 0,
   viewSorts: [{ key: "appearance-count", descending: true }],

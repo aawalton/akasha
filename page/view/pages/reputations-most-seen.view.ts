@@ -5,6 +5,7 @@ export const reputationsMostSeen = {
   type: "page-type/view",
   slug: "reputations-most-seen",
   title: "Most Seen",
+  nav: "nav/innworld-reputations",
   pageType: "page-type/world-reputation",
   viewPlace: 0,
   viewSorts: [{ key: "appearance-count", descending: true }],

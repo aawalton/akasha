@@ -5,6 +5,7 @@ export const spellsAlphabetical = {
   type: "page-type/view",
   slug: "spells-alphabetical",
   title: "Alphabetical",
+  nav: "nav/innworld-spells",
   pageType: "page-type/world-spell",
   viewPlace: 1,
   viewSorts: [{ key: "title", descending: false }],

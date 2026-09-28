@@ -5,6 +5,7 @@ export const speciesMostSeen = {
   type: "page-type/view",
   slug: "species-most-seen",
   title: "Most Seen",
+  nav: "nav/innworld-species",
   pageType: "page-type/world-species",
   viewPlace: 0,
   viewSorts: [{ key: "appearance-count", descending: true }],

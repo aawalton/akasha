@@ -5,6 +5,7 @@ export const boonsAlphabetical = {
   type: "page-type/view",
   slug: "boons-alphabetical",
   title: "Alphabetical",
+  nav: "nav/innworld-boons",
   pageType: "page-type/world-boon",
   viewPlace: 1,
   viewSorts: [{ key: "title", descending: false }],

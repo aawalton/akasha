@@ -5,6 +5,7 @@ export const aspectsMostSeen = {
   type: "page-type/view",
   slug: "aspects-most-seen",
   title: "Most Seen",
+  nav: "nav/innworld-aspects",
   pageType: "page-type/world-aspect",
   viewPlace: 0,
   viewSorts: [{ key: "appearance-count", descending: true }],

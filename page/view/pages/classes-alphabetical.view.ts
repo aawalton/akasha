@@ -5,6 +5,7 @@ export const classesAlphabetical = {
   type: "page-type/view",
   slug: "classes-alphabetical",
   title: "Alphabetical",
+  nav: "nav/innworld-classes",
   pageType: "page-type/world-class",
   viewPlace: 1,
   viewSorts: [{ key: "title", descending: false }],

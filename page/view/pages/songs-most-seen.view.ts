@@ -5,6 +5,7 @@ export const songsMostSeen = {
   type: "page-type/view",
   slug: "songs-most-seen",
   title: "Most Seen",
+  nav: "nav/innworld-songs",
   pageType: "page-type/world-song",
   viewPlace: 0,
   viewSorts: [{ key: "appearance-count", descending: true }],
