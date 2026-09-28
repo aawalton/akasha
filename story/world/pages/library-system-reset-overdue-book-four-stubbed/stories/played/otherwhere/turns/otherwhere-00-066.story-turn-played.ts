@@ -4,13 +4,14 @@ export const otherwhere00066 = {
   id: "01a0e82b-7ba1-79db-b222-22e4fff95f64",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-066",
+  cover: "image/image-3b8977d8158d81cd",
   ownLength: 118,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 66,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "**Okay, time for bed.** I go back to my room, take off the robe and slippers, lie down on the bed naked, and go to sleep.",
   beats: [
@@ -23,6 +24,6 @@ export const otherwhere00066 = {
   ],
   lore: ["lore/otherwhere-golems", "lore/otherwhere-universe"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T06:30:00.000Z",
 } as const satisfies StoryTurnPlayed

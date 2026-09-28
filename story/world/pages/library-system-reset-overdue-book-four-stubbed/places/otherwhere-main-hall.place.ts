@@ -359,6 +359,10 @@ export const otherwhereMainHall = {
         "character-other/otherwhere-links",
       ],
     },
+    {
+      fact: "Nala woke to a slow creak of wood and brass from the main hall, a sound new to her there.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
