@@ -96,14 +96,7 @@ export const otherwhereMainHall = {
         "character-other/otherwhere-links",
       ],
     },
-    {
-      fact: "Links told Nala the wardrobe in the quarters holds an old Librarian's robes.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
+
     {
       fact: "The failed information packet can be resent only through the Check-in Counter, once it works.",
       knowers: [
