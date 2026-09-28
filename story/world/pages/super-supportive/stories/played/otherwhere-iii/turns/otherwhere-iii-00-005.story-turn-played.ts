@@ -14,7 +14,7 @@ export const otherwhereIii00005 = {
     "character-player/otherwhere-iii-nala",
     "character-other/otherwhere-iii-denise-pruitt",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Out West, small town in the mountains. Lots of nature but less in the way of opportunities.”",
   beats: [
@@ -31,6 +31,6 @@ export const otherwhereIii00005 = {
   ],
   lore: ["lore/otherwhere-iii-denise-pruitt", "place/otherwhere-iii-uptown-memorial-er"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture", "story-recorder/memory"],
   endsAt: "2037-01-31T05:01:00.000Z",
 } as const satisfies StoryTurnPlayed

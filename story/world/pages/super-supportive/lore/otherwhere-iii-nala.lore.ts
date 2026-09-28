@@ -128,6 +128,14 @@ export const otherwhereIiiNala = {
         "character-other/otherwhere-iii-denise-pruitt",
       ],
     },
+    {
+      fact: "Nala told Denise she comes from a small town in the mountains out West.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-denise-pruitt",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

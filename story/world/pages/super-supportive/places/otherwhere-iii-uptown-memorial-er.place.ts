@@ -9,7 +9,7 @@ export const otherwhereIiiUptownMemorialEr = {
   facts: [
     {
       fact: "Uptown Memorial is a mid-sized hospital a block east of the Lawrence L stop, in Uptown.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-denise-pruitt"],
     },
     {
       fact: "From the Lawrence platform it is a stair down, then one snowy block east to the ER doors.",
@@ -54,6 +54,10 @@ export const otherwhereIiiUptownMemorialEr = {
     {
       fact: "Heroes and Avowed injuries go to the House of Healing, not here; this ER sees ordinary cases.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Uptown Memorial ER is one block from the Lawrence stop.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
   ],
   within: "place/otherwhere-iii-chicago",
