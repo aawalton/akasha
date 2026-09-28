@@ -11,4 +11,5 @@ export const otherwhereVi00004 = {
   action:
     "I take a long drink from the running water while its next to me, then I follow the trail around the rim, hoping to find a way down below, keeping careful track of the direction the water is.",
   lore: ["place/otherwhere-vi-hollow-stream"],
+  endsAt: "2026-09-28T21:30:00.000Z",
 } as const satisfies StoryTurnPlayed
