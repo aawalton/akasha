@@ -9,15 +9,13 @@ import { useMemo } from "react"
 
 const EVERY = 500
 
-export type ConditionFieldTitles = ReadonlyMap<string, string>
+type ConditionFieldTitles = ReadonlyMap<string, string>
 
 function unread(slug: string, name: string): Error {
   return new Error(`useConditionFieldTitles: condition field \`${slug}\` states no \`${name}\``)
 }
 
-export function conditionFieldTitlesFrom(
-  rows: readonly Record<string, unknown>[]
-): ConditionFieldTitles {
+function conditionFieldTitlesFrom(rows: readonly Record<string, unknown>[]): ConditionFieldTitles {
   const titles = new Map<string, string>()
   for (const row of rows) {
     const slug = textAt(row, "slug") ?? "?"
