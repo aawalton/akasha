@@ -15,9 +15,9 @@ const BLOW = z.object({
   ward: z.number().int().min(0).max(MOST_WARD).default(0),
 })
 
-export type Harmed = { readonly harm: number }
+type Harmed = { readonly harm: number }
 
-export type Settled = { readonly answered: Harmed } | { readonly refused: string }
+type Settled = { readonly answered: Harmed } | { readonly refused: string }
 
 export function settled(reading: unknown, roll: Rolled): Settled {
   const held = BLOW.safeParse(reading)
