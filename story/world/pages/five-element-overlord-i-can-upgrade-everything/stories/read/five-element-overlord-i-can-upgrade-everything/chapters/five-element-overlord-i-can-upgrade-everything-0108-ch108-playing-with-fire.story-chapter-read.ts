@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0108Ch108PlayingWithFire = 
   id: "01a06731-adb7-7018-a671-2b9fdf5b6302",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0108-ch108-playing-with-fire",
+  ownProgress: 2107,
   title: "Ch108 Playing With Fire",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 108,

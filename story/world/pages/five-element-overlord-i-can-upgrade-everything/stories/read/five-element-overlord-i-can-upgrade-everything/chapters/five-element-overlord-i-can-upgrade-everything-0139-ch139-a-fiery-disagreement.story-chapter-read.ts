@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0139Ch139AFieryDisagreement
   id: "01a090ca-2590-74b4-82a7-369b279ece14",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0139-ch139-a-fiery-disagreement",
+  ownProgress: 1613,
   position: 139,
   publishedAt: "2026-09-10",
   unit: "unit/words",

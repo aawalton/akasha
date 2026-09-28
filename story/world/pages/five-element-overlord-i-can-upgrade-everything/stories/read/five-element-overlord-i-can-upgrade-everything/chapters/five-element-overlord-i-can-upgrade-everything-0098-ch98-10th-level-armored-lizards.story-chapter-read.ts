@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0098Ch9810thLevelArmoredLiz
   id: "01a06731-adb7-700e-93b2-3a2d577e9325",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0098-ch98-10th-level-armored-lizards",
+  ownProgress: 1379,
   title: "Ch98 10th Level Armored Lizards",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 98,

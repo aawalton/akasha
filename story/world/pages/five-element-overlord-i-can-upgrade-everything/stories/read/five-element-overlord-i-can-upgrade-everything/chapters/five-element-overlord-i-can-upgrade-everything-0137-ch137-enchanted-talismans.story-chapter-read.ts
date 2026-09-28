@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0137Ch137EnchantedTalismans
   id: "01a08397-1ee3-7a94-a429-6357a71d05e1",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0137-ch137-enchanted-talismans",
+  ownProgress: 1738,
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 137,
   publishedAt: "2026-09-08",

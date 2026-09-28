@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0134Ch134Playtime = {
   id: "01a07252-32ed-77f1-b3df-371b0578dac8",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0134-ch134-playtime",
+  ownProgress: 1952,
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 134,
   publishedAt: "2026-09-03",

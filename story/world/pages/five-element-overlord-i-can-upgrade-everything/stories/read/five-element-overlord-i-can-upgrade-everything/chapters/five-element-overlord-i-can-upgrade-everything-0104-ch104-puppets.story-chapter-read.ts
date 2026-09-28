@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0104Ch104Puppets = {
   id: "01a06731-adb7-7014-905e-cf20309c9abc",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0104-ch104-puppets",
+  ownProgress: 2415,
   title: "Ch104 Puppets",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 104,

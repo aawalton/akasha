@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0101Ch101ReaperCrow = {
   id: "01a06731-adb7-7011-bf7d-375fa710944e",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0101-ch101-reaper-crow",
+  ownProgress: 1248,
   title: "Ch101 Reaper Crow",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 101,

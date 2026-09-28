@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0141Ch141SecuringWealth = {
   id: "01a0a22a-4e18-73c8-b9fb-d240628c8995",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0141-ch141-securing-wealth",
+  ownProgress: 2478,
   position: 141,
   publishedAt: "2026-09-14",
   unit: "unit/words",

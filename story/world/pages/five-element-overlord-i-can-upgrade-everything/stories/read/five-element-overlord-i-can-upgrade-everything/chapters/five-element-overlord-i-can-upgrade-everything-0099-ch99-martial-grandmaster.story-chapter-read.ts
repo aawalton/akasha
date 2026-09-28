@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0099Ch99MartialGrandmaster 
   id: "01a06731-adb7-700f-850d-97bd96a0bfb6",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0099-ch99-martial-grandmaster",
+  ownProgress: 2322,
   title: "Ch99 Martial Grandmaster",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 99,

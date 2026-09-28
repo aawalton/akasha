@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0138Ch138WeighingOptions = 
   id: "01a0886b-28e5-7872-8502-ca3f3fa1aaf5",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0138-ch138-weighing-options",
+  ownProgress: 1519,
   position: 138,
   publishedAt: "2026-09-09",
   unit: "unit/words",

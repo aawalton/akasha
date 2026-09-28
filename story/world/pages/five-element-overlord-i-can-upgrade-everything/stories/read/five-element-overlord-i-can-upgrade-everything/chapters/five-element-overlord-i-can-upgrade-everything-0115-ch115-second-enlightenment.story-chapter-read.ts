@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0115Ch115SecondEnlightenmen
   id: "01a06731-adb9-7002-9096-b145c22e2ac4",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0115-ch115-second-enlightenment",
+  ownProgress: 2071,
   title: "Ch115 Second Enlightenment",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 115,

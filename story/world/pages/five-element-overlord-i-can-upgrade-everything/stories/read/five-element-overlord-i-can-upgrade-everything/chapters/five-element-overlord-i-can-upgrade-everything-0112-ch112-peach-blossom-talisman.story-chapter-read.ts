@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0112Ch112PeachBlossomTalism
   id: "01a06731-adb8-7002-8936-eca0231d8920",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0112-ch112-peach-blossom-talisman",
+  ownProgress: 1355,
   title: "Ch112 Peach Blossom Talisman",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 112,

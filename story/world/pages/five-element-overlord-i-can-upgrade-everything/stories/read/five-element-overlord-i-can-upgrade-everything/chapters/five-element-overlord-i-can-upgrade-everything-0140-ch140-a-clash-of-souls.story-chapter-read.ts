@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0140Ch140AClashOfSouls = {
   id: "01a092b8-2d50-781a-8aa0-8a78b7d2b19f",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0140-ch140-a-clash-of-souls",
+  ownProgress: 1176,
   position: 140,
   publishedAt: "2026-09-11",
   unit: "unit/words",

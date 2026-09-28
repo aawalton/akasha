@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0120Ch120CultivationFamilie
   id: "01a06731-adbb-7000-a8c0-4c889448e0f7",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0120-ch120-cultivation-families",
+  ownProgress: 1879,
   title: "Ch120 Cultivation Families",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 120,

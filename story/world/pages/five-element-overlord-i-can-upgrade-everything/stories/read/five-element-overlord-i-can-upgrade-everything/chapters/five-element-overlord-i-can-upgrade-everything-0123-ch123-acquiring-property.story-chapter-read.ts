@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0123Ch123AcquiringProperty 
   id: "01a06731-adbb-7003-a61d-5a755ed5acbe",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0123-ch123-acquiring-property",
+  ownProgress: 1849,
   title: "Ch123 Acquiring Property",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 123,

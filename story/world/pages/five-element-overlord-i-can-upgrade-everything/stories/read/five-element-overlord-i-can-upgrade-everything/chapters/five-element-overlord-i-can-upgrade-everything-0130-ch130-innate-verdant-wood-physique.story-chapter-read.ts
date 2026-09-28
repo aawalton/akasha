@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0130Ch130InnateVerdantWoodP
   id: "01a06731-adbe-7000-a144-52c5ea3207a4",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0130-ch130-innate-verdant-wood-physique",
+  ownProgress: 2045,
   title: "Ch130 Innate Verdant Wood Physique",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 130,
