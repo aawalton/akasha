@@ -27,11 +27,9 @@ test("a chapter's slug says its place in its story and its title", () => {
   )
 })
 
-test("a chapter's prose heads the turns with its title and keeps each window block", () => {
+test("a chapter's prose is its turns in order, with no title, and keeps each window block", () => {
   const block = ":::level-up\nlevel: 5\n:::"
-  expect(proseOf("The Dark", ["One.\n", `${block}\n\nTwo.\n`])).toBe(
-    `# The Dark\n\nOne.\n\n${block}\n\nTwo.\n`
-  )
+  expect(proseOf(["One.\n", `${block}\n\nTwo.\n`])).toBe(`One.\n\n${block}\n\nTwo.\n`)
 })
 
 test("a chapter takes the open turns through the one named, in order", () => {

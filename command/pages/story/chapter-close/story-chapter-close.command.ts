@@ -15,7 +15,7 @@ export const storyChapterClose = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A chapter's prose is its title as a heading, then each turn's prose in order.",
+      statement: "A chapter's prose is each turn's prose in order, and holds no title.",
     },
     {
       decisionKind: "decision-kind/departure",

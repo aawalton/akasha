@@ -99,8 +99,8 @@ export function chapterSlugOf(story: string, position: number, title: string): s
   return `${story}-${String(position).padStart(PADDED, ZERO)}-${slugOf(title)}`
 }
 
-export function proseOf(title: string, turns: readonly string[]): string {
-  return `${[`# ${title}`, ...turns.map((one) => one.trim())].join(GAP)}${BREAK}`
+export function proseOf(turns: readonly string[]): string {
+  return `${turns.map((one) => one.trim()).join(GAP)}${BREAK}`
 }
 
 export function openThrough(turns: readonly Turn[], through: number): readonly Turn[] {
@@ -197,7 +197,7 @@ async function closed(
   }
   const position = lastChapterOf(given.root, named) + 1
   const chapterSlug = chapterSlugOf(slug, position, held.title)
-  const prose = proseOf(held.title, texts)
+  const prose = proseOf(texts)
   const turnCovers = turnCoversOf(turns)
   const folder = `${listed.path.slice(0, listed.path.lastIndexOf(PARTED))}${PARTED}${storyChapterPlayed.pluralSlug}`
   const naming: Naming = {
