@@ -22,4 +22,5 @@ export const theDatingGame00039 = {
     "He kicks off the dusty Ecco slip-ons by the door, as he did last night.",
     "He goes to bed, and the long day lets go of him; sleep comes easily.",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
