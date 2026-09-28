@@ -239,5 +239,45 @@ export const otherwhereIvThreeStonesFolk = {
         "character-other/otherwhere-iv-zhao-jun",
       ],
     },
+    {
+      fact: "Xu Hong is sharp-tongued, pious and practical, and keeps the household's money.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Xu Hong distrusts strangers more than her husband does, but fears spirits more still.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tie Bo has hunted boar for twenty years, and owns a hunting bow and an iron-barred boar spear.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tie Bo would hunt the great boar for pay, and more gladly still to avenge his brother.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The headman keeps two old iron-headed spears in his house against bandits.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Wu Fan can fit a crossbar to a spear in an afternoon; iron heads come from a Lanqiao smith.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Fang brothers would join any night hunt for the glory, and would likely make too much noise.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Besides Tie Bo, no villager has hunted big game; they own hoes, sickles, knives and bamboo poles.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "By custom a hunter keeps a killed boar's head and hide, and the meat goes to households who helped.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A night hunt with men of the village needs the headman's leave, or it will offend him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
