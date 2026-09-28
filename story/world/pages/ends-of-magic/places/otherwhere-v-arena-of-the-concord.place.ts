@@ -29,6 +29,10 @@ export const otherwhereVArenaOfTheConcord = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Magical lifts carry visitors up the Arena's shafts on platforms of force.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "At the center floats a translucent crystal stage several hundred feet across.",
       knowers: ["lore-disclosure/game-master"],
     },
