@@ -24,4 +24,5 @@ export const theDatingGame00044 = {
     "She pulls a bag of snap peas from her pack, eats one with a happy crunch, and holds the bag out.",
   ],
   lore: ["lore/the-dating-game-aelwyn"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
