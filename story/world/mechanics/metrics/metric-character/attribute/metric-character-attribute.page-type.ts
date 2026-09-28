@@ -28,6 +28,8 @@ export const metricCharacterAttribute = {
     "page-type/otherwhere-ability",
     "page-type/otherwhere-iv-skill",
     "page-type/otherwhere-iv-cultivation-stage",
+    "page-type/otherwhere-v-level",
+    "page-type/otherwhere-v-fluency",
   ],
 
   types: "ts",
