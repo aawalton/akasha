@@ -44,6 +44,7 @@
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-nol-dho-chokiz.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-ogarius.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-olita.world-character.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-othryx.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-quenfi.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-raf.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-roni.world-character.ts","typed":true,"deferred":false}
@@ -55,8 +56,10 @@
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-stella.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-suse.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-sussu.world-character.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-syncarius.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-taeol-dho-droxol.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-thia.world-character.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-tirien.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-ushia.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-vhala.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-wiam.world-character.ts","typed":true,"deferred":false}
