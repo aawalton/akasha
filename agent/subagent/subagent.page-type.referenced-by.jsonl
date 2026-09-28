@@ -4,4 +4,5 @@
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/astra-a3a90d4b17c172bb5/astra-a3a90d4b17c172bb5.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/astra-a9e7085bb6028394d/astra-a9e7085bb6028394d.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/awen-abdb2fd9eecd3d9bd/awen-abdb2fd9eecd3d9bd.subagent.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/iris-a0a0c974be63348fa/iris-a0a0c974be63348fa.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}
