@@ -61,7 +61,11 @@ export const otherwhereMainHall = {
     },
     {
       fact: "The quarters' taps run hot once the Library reaches 50 power.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "Before then, Links can heat one tubful of water for 1 power.",
@@ -91,7 +95,6 @@ export const otherwhereMainHall = {
       fact: "Awake again, the kitchen bakes a little on its own, and fresh bread is ready by morning.",
       knowers: ["lore-disclosure/game-master"],
     },
-
     {
       fact: "The wardrobe's three robes are deep blue wool, whole and unmothed, smelling of cedar.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -108,7 +111,6 @@ export const otherwhereMainHall = {
         "character-other/otherwhere-links",
       ],
     },
-
     {
       fact: "The failed information packet can be resent only through the Check-in Counter, once it works.",
       knowers: [
@@ -189,7 +191,6 @@ export const otherwhereMainHall = {
         "character-other/otherwhere-links",
       ],
     },
-
     {
       fact: "The Library's kitchen has woken, and its sacks of salt with it.",
       knowers: [
