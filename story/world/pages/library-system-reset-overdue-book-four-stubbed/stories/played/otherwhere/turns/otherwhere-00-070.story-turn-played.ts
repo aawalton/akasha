@@ -29,5 +29,6 @@ export const otherwhere00070 = {
   issues: ['"Counter Keeping sits on its low shelf a few steps from the Counter." - Leave It Open'],
   lore: ["place/otherwhere-main-hall"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  endsAt: "2026-09-29T06:38:00.000Z",
 } as const satisfies StoryTurnPlayed
