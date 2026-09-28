@@ -152,6 +152,22 @@ export const otherwhereViiAshford = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "With no one to speak for her, Aldo gives a stranger a morning's winnowing on trial, no bread.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldo is short a winnower: his daughter Bet is abed with a fever, and the barley won't wait.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldo's wife, Joan, has a sharper eye than he does, and decides who sleeps in their barn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A winnower who keeps the grain out of the chaff all morning earns her noon bread and the day.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Ashford is thatched houses strung along the road down to a ford over a slow, clear river.",
       knowers: [
         "lore-disclosure/game-master",
