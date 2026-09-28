@@ -10,7 +10,7 @@ export const otherwhere00052 = {
   position: 52,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "I relax into the hot water and let the stress of almost dying multiple times melt away. Once I feel relaxed, I clean myself thoroughly, making sure the salt and honey are washed out of all of the hard to reach places. Once I’m clean, I finally have the time and space to be curious. I’ve never been a girl before after all, so I experiment, touching myself in different ways, masturbating until I reach a climax.",
   beats: [
@@ -22,7 +22,7 @@ export const otherwhere00052 = {
     "Never a girl before, she explores, trying different touches to learn what this body likes.",
     "Some touches do little; others send a jolt through her, and she follows those.",
     "She keeps on, building until she climaxes, gasping, water sloshing over the tub's rim.",
-    "Afterward she lies boneless in water gone lukewarm, her eyelids heavy.",
+    "The water has gone cool on her skin, and her stomach gives a long, loud, hollow growl.",
   ],
   issues: ['"Afterward you lie boneless in water gone lukewarm" - Leave It Open'],
   lore: ["lore/otherwhere-links"],
