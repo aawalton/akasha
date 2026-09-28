@@ -217,6 +217,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-kia.lore.ts","id":"01a0e9fd-3be3-7aa3-aef1-ec030cc0b054"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-knuld.lore.ts","id":"01a0e9f4-0047-7c65-bc2b-b122456fb6cd"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-kullal.lore.ts","id":"01a0e9fd-3be3-714e-b1fe-9aba30be9bd1"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-languages.lore.ts","id":"01a0ea04-4a03-76ee-85b5-8ca3514b5299"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-last-champion-of-deiman.lore.ts","id":"01a0e9ff-5952-7ba0-8ee1-2a16e4f32947"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-levels.lore.ts","id":"01a0e9f5-a5d5-793c-bc32-493bc44b9eea"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-leviathan.lore.ts","id":"01a0e9fa-0d15-7d08-acac-eb60bf12a931"}
@@ -374,6 +375,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-grand-dungeons.world-mechanic.ts","id":"01a0e9fb-c0e7-7311-a8ec-d9247ca6c8b6"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-healing-magic.world-mechanic.ts","id":"01a0ea01-9176-7fbd-99a6-28f2d4fba386"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-insight.world-mechanic.ts","id":"01a0e9f8-2dc5-7ae4-b5bd-0d68c62ade3e"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-languages.world-mechanic.ts","id":"01a0ea04-4a04-7289-bfb6-4ba662aaba1f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-levels.world-mechanic.ts","id":"01a0e9f5-a5d7-7ce0-a37c-2d433bb134b3"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-magic-resistance.world-mechanic.ts","id":"01a0e9f7-bb0d-7767-9c8d-feb2ec3caf11"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-mana.world-mechanic.ts","id":"01a0e9f1-9e7c-76a5-9ea4-b57cfe527aad"}
