@@ -56,7 +56,7 @@ export const otherwhereCopperbacks = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "A half-grown copperback with a white blaze on its brow is bolder than the rest and follows strangers.",
+      fact: "A half-grown copperback with a white-blazed brow is bolder than the rest and follows strangers.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
