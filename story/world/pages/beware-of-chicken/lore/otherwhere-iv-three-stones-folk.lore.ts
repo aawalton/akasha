@@ -335,5 +335,49 @@ export const otherwhereIvThreeStonesFolk = {
         "character-other/otherwhere-iv-zhao-jun",
       ],
     },
+    {
+      fact: "The Zhao house is two rooms of mud brick under thatch, just below the top terraces.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Its main room holds a small ancestral shrine; an honored guest sits in the seat facing the door.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A Zhao meal is rice with pickled mustard greens, half a salted duck egg each, and weak tea.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Zhao Mei, fourteen, keeps the house fire and minds her sister Zhao Lan, who is six.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Zhao house has only one good bowl, which is always given to a guest.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Headman Gu reads and writes, and keeps old books of rites and a worn almanac.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Headman Gu doubts wonders; he has seen swindlers at Lanqiao fairs claim to be spirits.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He would test a claimed spirit politely, with questions on rites, the stars or the almanac.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He fears that a spirit in his village is news the county magistrate may want to hear.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He would allow a hunt if the headman's house gets a share and the village a feast.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Around midday Headman Gu sits in his courtyard with the tax rolls and a pot of tea.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
