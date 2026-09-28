@@ -4,6 +4,8 @@ export const image05064bcae5baa1dc = {
   id: "01a0e9e2-411f-7d1c-a29a-fb12d8f50c7a",
   type: "page-type/image",
   slug: "image-05064bcae5baa1dc",
+  title: "Splashing in the Wading Pond",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
