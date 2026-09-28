@@ -13,6 +13,7 @@ export const theTowerFloor03 = {
     {
       to: "place/the-tower-floor-04",
       way: "ascending archway, far dais, open",
+      direction: "up",
     },
   ],
   facts: [

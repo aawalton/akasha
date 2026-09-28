@@ -11,10 +11,15 @@ export const theTowerShaftHeadworks = {
   description:
     "The top of the shaft, where the slabs dock against a stone gantry and the grey-lit exit-stair finally appears, just beyond. The Counterweight Colossus lies in pieces across the stone, its winding-drum torn out, and the central chain hangs slack off the gantry; with it down, every slab below has gone still. The gantry is bare, cold stone with nothing alive on it.",
   exits: [
-    { to: "place/the-tower-haven-threshold", way: "the grey-lit exit-stair ahead" },
+    {
+      to: "place/the-tower-haven-threshold",
+      way: "the grey-lit exit-stair ahead",
+      direction: "up",
+    },
     {
       to: "place/the-tower-shaft-mid-slabs",
       way: "the moving dark behind (now stilled once the Colossus is down)",
+      direction: "down",
     },
   ],
   facts: [

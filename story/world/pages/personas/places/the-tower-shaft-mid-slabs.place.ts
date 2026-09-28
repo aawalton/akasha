@@ -11,8 +11,16 @@ export const theTowerShaftMidSlabs = {
   description:
     "The middle of the shaft, where the wall-stair gives out entirely and the only footing is the slabs, hanging still in the dark at the heights where they stopped, and one narrow ledge where a long-dead climber sits; crossing means a sequence of leaps between them. Open dark and a long fall on every side, and nothing hunting in it now that the Stalker is dead. The slabs hang close to the central chain here: a single great counterweight-chain running through the shaft's heart, slack now.",
   exits: [
-    { to: "place/the-tower-shaft-base-flights", way: "down to the broken flights" },
-    { to: "place/the-tower-shaft-headworks", way: "up to the headworks at the shaft's top" },
+    {
+      to: "place/the-tower-shaft-base-flights",
+      way: "down to the broken flights",
+      direction: "down",
+    },
+    {
+      to: "place/the-tower-shaft-headworks",
+      way: "up to the headworks at the shaft's top",
+      direction: "up",
+    },
   ],
   facts: [
     {

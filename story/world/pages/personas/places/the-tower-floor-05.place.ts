@@ -12,6 +12,7 @@ export const theTowerFloor05 = {
   exits: [
     {
       way: "the plain ascending stair past the drop in the Host's Seat, cold air pouring down it",
+      direction: "up",
     },
   ],
   facts: [

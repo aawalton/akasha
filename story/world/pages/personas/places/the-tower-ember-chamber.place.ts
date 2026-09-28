@@ -11,7 +11,11 @@ export const theTowerEmberChamber = {
   description:
     "Low round chamber past the iron door, cold now. The Ashling's grey ash lies in a heap among a scatter of blackened bone in the center. Far wall: a stair climbing through the opened slab — the way up.",
   exits: [
-    { to: "place/the-tower-cistern-walkway", way: "the stair through the opened slab" },
+    {
+      to: "place/the-tower-cistern-walkway",
+      way: "the stair through the opened slab",
+      direction: "up",
+    },
     { to: "place/the-tower-threshold-landing", way: "the iron door he came through" },
   ],
   facts: [

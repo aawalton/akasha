@@ -9,5 +9,5 @@ export const theTowerFloor01 = {
   depth: 1,
   description:
     "A cold stone landing at the tower's base. Damp and lightless. The air tastes of old ash. One iron door, ajar.",
-  exits: [{ to: "place/the-tower-floor-02", way: "ascending stair, open" }],
+  exits: [{ to: "place/the-tower-floor-02", way: "ascending stair, open", direction: "up" }],
 } as const satisfies Place

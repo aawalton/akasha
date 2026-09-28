@@ -14,6 +14,7 @@ export const theTowerCisternWalkway = {
     {
       to: "place/the-tower-ember-chamber",
       way: "the descending stair behind (back to floor 1's slab)",
+      direction: "down",
     },
     {
       to: "place/the-tower-cistern-deep",

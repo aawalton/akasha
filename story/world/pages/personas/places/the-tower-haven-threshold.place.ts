@@ -14,6 +14,7 @@ export const theTowerHavenThreshold = {
     {
       to: "place/the-tower-shaft-headworks",
       way: "back DOWN to floor 4's headworks (open — retreat possible)",
+      direction: "down",
     },
     { to: "place/the-tower-hall-of-welcome", way: "FORWARD into the Hall of Welcome" },
   ],

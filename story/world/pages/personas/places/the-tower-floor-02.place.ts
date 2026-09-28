@@ -13,6 +13,7 @@ export const theTowerFloor02 = {
     {
       to: "place/the-tower-floor-03",
       way: "ascending spiral stair, far side, open",
+      direction: "up",
     },
   ],
 } as const satisfies Place

@@ -11,7 +11,11 @@ export const theTowerGalleryNave = {
   description:
     "The long body of the gallery. Bronze resonance-plates stand at intervals down both walls, each taller than a man, ringing faintly at any sharp noise. Broken statues litter the floor — cover and rubble — among dead climbers' bones and rusted gear. The nave is dark, cold and silent; the air carries every sound too well.",
   exits: [
-    { to: "place/the-tower-cistern-deep", way: "the spiral stair behind (down to the Cistern)" },
+    {
+      to: "place/the-tower-cistern-deep",
+      way: "the spiral stair behind (down to the Cistern)",
+      direction: "down",
+    },
     { to: "place/the-tower-gallery-dais", way: "the open dais ahead" },
   ],
 } as const satisfies Place

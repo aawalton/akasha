@@ -11,7 +11,7 @@ export const theTowerTheHostsSeat = {
   description:
     "The head of the den, where the Host's high-backed chair lies smashed to splinters in the muck. Beside the wreck the Host's true form lies dead, lean and grey. A sheer drop the haven hid is torn across the floor between the wreck and a plain stair climbing into the dark, and on the stair's side of the drop a small fire burns in the charred midden, a maul set head-down in its coals. In the dark past the wreck, a wounded, wrong-jointed cold creature drags itself over the stone.",
   exits: [
-    { way: "the plain ascending stair, across the drop" },
+    { way: "the plain ascending stair, across the drop", direction: "up" },
     { to: "place/the-tower-the-deep-den", way: "the den behind" },
   ],
   facts: [

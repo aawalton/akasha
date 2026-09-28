@@ -11,7 +11,7 @@ export const theTowerGalleryDais = {
   description:
     "The raised platform at the gallery's end, before the archway up. The seat the Plinth Golem kept here is empty; the Golem lies broken to cold slag down the hall, its core taken.",
   exits: [
-    { to: "place/the-tower-shaft-base-flights", way: "the open arch ahead" },
+    { to: "place/the-tower-shaft-base-flights", way: "the open arch ahead", direction: "up" },
     { to: "place/the-tower-gallery-nave", way: "the nave behind" },
   ],
 } as const satisfies Place
