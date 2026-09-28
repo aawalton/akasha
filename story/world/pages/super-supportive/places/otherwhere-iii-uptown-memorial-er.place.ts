@@ -179,6 +179,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "Hannah Elber was an A-rank Adjuster, once battlefield support to the Chicago hero Arjun Thomas.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Captions say her memorial is set for February 13 on Anesidora Island if she has not returned.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
