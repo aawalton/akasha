@@ -169,5 +169,9 @@ export const otherwhereVGloamcat = {
       fact: "Prey that goes limp it drags away by the neck to eat.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Night, day one: it drags Nala out of the log's mouth and twenty yards upslope into thick fern.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

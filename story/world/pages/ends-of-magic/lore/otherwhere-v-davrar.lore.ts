@@ -60,6 +60,10 @@ export const otherwhereVDavrar = {
       fact: "The world seen above in the sky is the far side of Davrar itself.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Davrar gives Talents, classes and skills, and never steps in to save anyone from harm or death.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

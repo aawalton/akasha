@@ -225,6 +225,14 @@ export const otherwhereVNala = {
       fact: 'An accepted Talent is permanent; its status line reads "Permanent Talent 1: ... 1".',
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nothing in the wood or beyond it comes to Nala's aid on the night of day one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala dies of her wounds in the ferns about 19:10 on day one, without waking.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
