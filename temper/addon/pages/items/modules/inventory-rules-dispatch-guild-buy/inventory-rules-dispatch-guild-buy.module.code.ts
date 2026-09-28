@@ -180,7 +180,7 @@ function unlisten(this: void): undefined {
   EVENT_MANAGER.UnregisterForEvent(`${NS}_Close`, EVENT_CLOSE_TRADING_HOUSE)
 }
 
-export function stopGuildBuy(this: void): undefined {
+function stopGuildBuy(this: void): undefined {
   if (!running) return
   running = false
   waiting = undefined
