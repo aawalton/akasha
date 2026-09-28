@@ -57,6 +57,10 @@ export const otherwhereVDevelopment = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "An Insight can be readied in advance and locked in at the moment it is needed.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "One absorbed in a Development is slow to react to danger.",
       knowers: ["lore-disclosure/game-master"],
     },
