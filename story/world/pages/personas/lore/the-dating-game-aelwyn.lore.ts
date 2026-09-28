@@ -37,5 +37,13 @@ export const theDatingGameAelwyn = {
         "character-other/the-dating-game-aelwyn",
       ],
     },
+    {
+      fact: "Her name is Aelwyn.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "After her Sunday workout Aelwyn cools down up the trail a ways before heading down.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
 } as const satisfies Lore
