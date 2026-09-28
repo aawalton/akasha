@@ -48,6 +48,9 @@ export const otherwhereIiiDenisePruitt = {
       fact: "She has a daughter of twenty-three at college in Iowa.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She is blunt, warm and tired, and she notices when a story does not add up.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
-  secrets: "jsonl",
 } as const satisfies Lore
