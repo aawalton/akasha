@@ -5,7 +5,6 @@
 {"propertySlug":"import","fileName":"reviewer.role.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"reviewer.role.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
-{"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-otherwhere-iv-flex-1/iris-reviewer-otherwhere-iv-flex-1.seat.ts","id":"01a0ea2e-c31b-7000-aeaa-6b0a9953889a"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-otherwhere-vii-flex-1/iris-reviewer-otherwhere-vii-flex-1.seat.ts","id":"01a0ea2f-a324-7000-828e-c1279e19692e"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-otherwhere-vii-flex-2/iris-reviewer-otherwhere-vii-flex-2.seat.ts","id":"01a0ea2f-b992-7000-9e89-adc9afcc93b5"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-otherwhere-viii-flex-1/iris-reviewer-otherwhere-viii-flex-1.seat.ts","id":"01a0ea30-41a0-7000-b7c9-4292d7e4601a"}
