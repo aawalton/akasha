@@ -137,7 +137,7 @@ export function SceneCoverPanel({ turns, turnCovers }: ScenePanelProps) {
         <DialogContent
           variant="bare"
           showCloseButton
-          className="max-h-[95vh] items-center sm:max-w-[95vw] [&>[data-slot=dialog-close]]:rounded-full [&>[data-slot=dialog-close]]:bg-black/60 [&>[data-slot=dialog-close]]:p-2 [&>[data-slot=dialog-close]]:text-white"
+          className="max-h-[95vh] w-auto items-center sm:max-w-[95vw] [&>[data-slot=dialog-close]]:rounded-full [&>[data-slot=dialog-close]]:bg-black/60 [&>[data-slot=dialog-close]]:p-2 [&>[data-slot=dialog-close]]:text-white"
         >
           <DialogTitle className="sr-only">Turn {shown.number}</DialogTitle>
           <img
