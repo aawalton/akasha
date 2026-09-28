@@ -10,7 +10,7 @@ export const otherwhere00042 = {
   position: 42,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action: "I run back to the entrance and get another bag and repeat the process.",
   beats: [
     "Nala drags herself up, aching, and runs back to the edge of the gloom for another sack.",
@@ -22,6 +22,7 @@ export const otherwhere00042 = {
     "The worm convulses, the salt burning deep in its gullet; its grey hide puckers and cracks.",
     "Its thrashing slows and its huge length sags, but it is still alive.",
   ],
+  issues: ['"But it is still alive." - Leave It Open'],
   lore: ["place/otherwhere-hall-back"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
