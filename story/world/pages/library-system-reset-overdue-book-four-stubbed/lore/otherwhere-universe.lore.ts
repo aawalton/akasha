@@ -190,7 +190,11 @@ export const otherwhereUniverse = {
     },
     {
       fact: "A Library book teaching a power to send a book to its shelf is lost among the hall's heaps.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "Links cannot sense where a lost book lies among the heaps; the Library only knows it is there.",
