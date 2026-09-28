@@ -13,7 +13,7 @@ export const otherwhereIii00004 = {
     "character-player/otherwhere-iii-nala",
     "character-other/otherwhere-iii-denise-pruitt",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Yes, please.” I say quietly. “My stupid EX-boyfriend left me here with nothing and I’m a thousand miles from home. I mean, I don’t usually mind the cold, but this is a little much for bare feet.”",
   beats: [
@@ -32,7 +32,17 @@ export const otherwhereIii00004 = {
     '"We see anybody who walks in. No ID, no money. Our social worker can find you a bed and some shoes."',
     "She studies Nala's face a beat longer. \"A thousand miles, huh? Where's home?\"",
   ],
+  issues: [
+    '"patches of waxy white" - waxy skin marks frostbite; lore has her feet frostnipped, not frostbitten',
+    '"extremely tedious and notoriously difficult" - What It Is',
+    '"meant to be slapped onto the chest" - What It Is',
+    '"such as the recovery-sauna potion" - What It Is',
+    '"transmogrified to remove its taint" - What It Is',
+    '"open to anyone with some share of System capacity" - What It Is',
+    '"summoned with a chime" - What It Is',
+    '"made into a mildly intoxicating drink" - What It Is',
+  ],
   lore: ["lore/otherwhere-iii-denise-pruitt", "lore/otherwhere-iii-nala"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2037-01-31T04:57:00.000Z",
 } as const satisfies StoryTurnPlayed
