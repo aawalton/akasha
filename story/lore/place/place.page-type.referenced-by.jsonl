@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"place.page-type.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/properties/otherwhere-the-library-room-exits.computed-property.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/beware-of-chicken/places/otherwhere-iv-azure-hills.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/beware-of-chicken/places/otherwhere-iv-lanqiao.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/beware-of-chicken/places/otherwhere-iv-ox-back-ridge.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/beware-of-chicken/places/otherwhere-iv-red-phoenix-continent.place.ts","typed":true,"deferred":false}
