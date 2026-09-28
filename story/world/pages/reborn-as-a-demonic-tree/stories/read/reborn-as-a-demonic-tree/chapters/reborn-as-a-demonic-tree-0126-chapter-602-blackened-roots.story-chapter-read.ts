@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0126Chapter602BlackenedRoots = {
   id: "01a06730-4dfb-7c49-b726-44d06025a030",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0126-chapter-602-blackened-roots",
+  ownProgress: 2250,
   title: "Chapter 602: Blackened Roots",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 126,

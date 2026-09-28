@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0114Chapter590SilverspireSacrifice = {
   id: "01a06730-4df6-7cca-bc74-cdafa681b79c",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0114-chapter-590-silverspire-sacrifice",
+  ownProgress: 2654,
   title: "Chapter 590: Silverspire Sacrifice",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 114,

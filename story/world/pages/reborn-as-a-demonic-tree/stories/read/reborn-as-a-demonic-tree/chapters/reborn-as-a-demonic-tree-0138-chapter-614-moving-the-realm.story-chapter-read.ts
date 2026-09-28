@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0138Chapter614MovingTheRealm = {
   id: "01a07d79-1757-7015-910a-5dd88e0f09bc",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0138-chapter-614-moving-the-realm",
+  ownProgress: 3065,
   story: "story-read/reborn-as-a-demonic-tree",
   position: 138,
   publishedAt: "2026-09-07",

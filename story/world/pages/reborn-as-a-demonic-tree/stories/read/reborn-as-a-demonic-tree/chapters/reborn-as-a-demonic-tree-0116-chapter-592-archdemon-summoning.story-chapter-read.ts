@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0116Chapter592ArchdemonSummoning = {
   id: "01a06730-4df6-7167-bbcb-32d5c1303518",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0116-chapter-592-archdemon-summoning",
+  ownProgress: 2525,
   title: "Chapter 592: Archdemon Summoning",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 116,

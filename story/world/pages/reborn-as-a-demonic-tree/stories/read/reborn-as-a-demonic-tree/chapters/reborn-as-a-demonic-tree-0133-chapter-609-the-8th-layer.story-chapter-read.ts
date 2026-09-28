@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0133Chapter609The8thLayer = {
   id: "01a06730-4e02-7645-9c93-f4c95db9dd76",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0133-chapter-609-the-8th-layer",
+  ownProgress: 2395,
   title: "Chapter 609: The 8th Layer",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 133,

@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0100Chapter576StellaSTrueStrength = {
   id: "01a06730-4df0-74d7-904e-635f901802e8",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0100-chapter-576-stella-s-true-strength",
+  ownProgress: 2712,
   title: "Chapter 576: Stella's True Strength",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 100,

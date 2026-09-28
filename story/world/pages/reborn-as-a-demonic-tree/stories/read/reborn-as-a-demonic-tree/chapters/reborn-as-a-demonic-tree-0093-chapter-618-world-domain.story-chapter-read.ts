@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0093Chapter618WorldDomain = {
   id: "01a0abd4-32d4-7d35-ab14-ed0db1639b57",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0093-chapter-618-world-domain",
+  ownProgress: 2197,
   position: 93,
   publishedAt: "2026-09-16",
   unit: "unit/words",

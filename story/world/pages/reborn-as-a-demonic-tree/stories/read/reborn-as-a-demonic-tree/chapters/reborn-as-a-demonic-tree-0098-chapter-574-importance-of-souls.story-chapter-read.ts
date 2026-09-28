@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0098Chapter574ImportanceOfSouls = {
   id: "01a06730-4def-7042-a201-41f2e1f3ad5d",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0098-chapter-574-importance-of-souls",
+  ownProgress: 2629,
   title: "Chapter 574: Importance of Souls",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 98,

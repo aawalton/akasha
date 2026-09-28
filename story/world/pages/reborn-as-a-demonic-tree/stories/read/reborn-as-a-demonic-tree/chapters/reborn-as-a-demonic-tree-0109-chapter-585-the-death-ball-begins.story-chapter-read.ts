@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0109Chapter585TheDeathBallBegins = {
   id: "01a06730-4df5-79b0-8c4e-cf13cf4e6afc",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0109-chapter-585-the-death-ball-begins",
+  ownProgress: 3124,
   title: "Chapter 585: The Death Ball Begins",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 109,

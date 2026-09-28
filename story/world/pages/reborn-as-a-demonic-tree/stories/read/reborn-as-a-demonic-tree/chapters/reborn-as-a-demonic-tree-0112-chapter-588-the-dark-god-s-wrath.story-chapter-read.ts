@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0112Chapter588TheDarkGodSWrath = {
   id: "01a06730-4df5-7add-a6cd-336dac88cc3c",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0112-chapter-588-the-dark-god-s-wrath",
+  ownProgress: 2596,
   title: "Chapter 588: The Dark God's Wrath",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 112,

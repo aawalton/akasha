@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0124Chapter600SoulSpace = {
   id: "01a06730-4df9-703b-a021-7dd79c51a0cd",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0124-chapter-600-soul-space",
+  ownProgress: 3281,
   title: "Chapter 600: Soul Space",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 124,

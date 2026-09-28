@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0094Chapter570TheSwarm = {
   id: "01a06730-4dee-78e6-945e-4e900e612a14",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0094-chapter-570-the-swarm",
+  ownProgress: 2961,
   title: "Chapter 570: The Swarm",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 94,

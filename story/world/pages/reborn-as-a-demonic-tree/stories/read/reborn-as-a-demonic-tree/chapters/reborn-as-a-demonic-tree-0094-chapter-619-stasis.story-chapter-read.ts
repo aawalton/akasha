@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0094Chapter619Stasis = {
   id: "01a0b621-6e37-7630-b710-43287a8ac9fa",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0094-chapter-619-stasis",
+  ownProgress: 2470,
   position: 94,
   publishedAt: "2026-09-18",
   unit: "unit/words",

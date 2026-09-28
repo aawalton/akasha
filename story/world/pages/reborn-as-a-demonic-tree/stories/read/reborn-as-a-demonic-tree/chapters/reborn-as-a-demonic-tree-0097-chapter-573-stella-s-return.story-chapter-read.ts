@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0097Chapter573StellaSReturn = {
   id: "01a06730-4def-742b-ac17-649e60e25cc0",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0097-chapter-573-stella-s-return",
+  ownProgress: 3003,
   title: "Chapter 573: Stella's Return",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 97,

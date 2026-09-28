@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0139Chapter615TheFirstMythicalSkill = {
   id: "01a087c7-1436-7bdc-a6f8-242fd4446b31",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0139-chapter-615-the-first-mythical-skill",
+  ownProgress: 2254,
   position: 139,
   publishedAt: "2026-09-09",
   unit: "unit/words",

@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0134Chapter610ExpensiveToFeed = {
   id: "01a06730-4e03-7356-b740-4da81fea730c",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0134-chapter-610-expensive-to-feed",
+  ownProgress: 2570,
   title: "Chapter 610: Expensive to Feed",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 134,

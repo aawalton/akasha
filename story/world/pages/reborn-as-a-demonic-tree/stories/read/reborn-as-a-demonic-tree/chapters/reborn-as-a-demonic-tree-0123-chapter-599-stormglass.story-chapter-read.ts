@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0123Chapter599Stormglass = {
   id: "01a06730-4df9-7b38-8319-ad5cc25563f6",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0123-chapter-599-stormglass",
+  ownProgress: 2365,
   title: "Chapter 599: Stormglass",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 123,

@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0101Chapter577DarkGodsAdvancement = {
   id: "01a06730-4df2-7b0e-a25b-c6dfd410dd1a",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0101-chapter-577-dark-gods-advancement",
+  ownProgress: 2745,
   title: "Chapter 577: Dark Gods Advancement",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 101,

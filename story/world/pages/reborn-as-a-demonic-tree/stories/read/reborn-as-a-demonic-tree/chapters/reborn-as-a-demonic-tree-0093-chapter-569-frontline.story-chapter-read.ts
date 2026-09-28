@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0093Chapter569Frontline = {
   id: "01a06730-4ded-7632-9829-3c7fea785538",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0093-chapter-569-frontline",
+  ownProgress: 2120,
   title: "Chapter 569: Frontline",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 93,

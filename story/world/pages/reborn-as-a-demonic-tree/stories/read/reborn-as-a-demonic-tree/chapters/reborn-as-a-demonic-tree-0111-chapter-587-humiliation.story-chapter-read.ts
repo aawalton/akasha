@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0111Chapter587Humiliation = {
   id: "01a06730-4df5-7225-9714-d135cfcabe65",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0111-chapter-587-humiliation",
+  ownProgress: 2513,
   title: "Chapter 587: Humiliation",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 111,

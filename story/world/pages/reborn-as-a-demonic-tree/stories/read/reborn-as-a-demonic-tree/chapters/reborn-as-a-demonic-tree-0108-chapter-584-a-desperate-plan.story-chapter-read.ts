@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0108Chapter584ADesperatePlan = {
   id: "01a06730-4df4-771d-b449-be85d0a954e0",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0108-chapter-584-a-desperate-plan",
+  ownProgress: 2654,
   title: "Chapter 584: A Desperate Plan",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 108,

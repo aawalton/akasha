@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0122Chapter598TroublesOfThePatriarch = {
   id: "01a06730-4df8-7e18-a324-a673e8f6267e",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0122-chapter-598-troubles-of-the-patriarch",
+  ownProgress: 2805,
   title: "Chapter 598: Troubles of the Patriarch",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 122,
