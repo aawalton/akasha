@@ -3,7 +3,6 @@
 {"propertySlug":"import","fileName":"subagent.page-type.ts","path":"command/modules/edits-repointing/edits-repointing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.ts","path":"command/pages/initiative/delete/initiative-delete.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/awen-a56716cbc5cb30cfd/awen-a56716cbc5cb30cfd.subagent.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/iris-world-builder-otherwhere-iii-a04d7cacc9db5219a/iris-world-builder-otherwhere-iii-a04d7cacc9db5219a.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/iris-world-builder-otherwhere-iii-a459968142a8c7b60/iris-world-builder-otherwhere-iii-a459968142a8c7b60.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/iris-world-builder-otherwhere-iii-a923978e2e52952d4/iris-world-builder-otherwhere-iii-a923978e2e52952d4.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/iris-world-builder-otherwhere-iii-a9c5a2b14389133a7/iris-world-builder-otherwhere-iii-a9c5a2b14389133a7.subagent.ts","typed":true,"deferred":false}
