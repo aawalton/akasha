@@ -29,7 +29,7 @@ const NAMED_OUTRIGHT: ReadonlySet<string> = new Set([TYPE, SLUG, ID])
 
 export type Where = Readonly<Record<string, Test>>
 
-export function namedBy(test: Test | undefined): readonly string[] | null {
+function namedBy(test: Test | undefined): readonly string[] | null {
   if (test === undefined) return null
   const named = test.is === undefined ? test.in : [test.is]
   return named === undefined ? null : named.filter((one) => !one.includes(SLASH))
@@ -111,7 +111,7 @@ export function pickingFor(reading: Reading, where: Where | undefined): Picking 
   }
 }
 
-export type Paging = {
+type Paging = {
   readonly where?: Where
   readonly sortBy?: string
   readonly descending?: boolean
