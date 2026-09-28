@@ -30,4 +30,8 @@ export const theDatingGame00034 = {
     "They come to the cemetery's far gate, where the path meets the street, the streetlights on beyond.",
     'Grace stops there and lifts the lantern a little. "This is where my way turns off, toward work."',
   ],
+  issues: [
+    '"You come to the cemetery\'s far gate, where the path meets the street" - Leave It Open',
+  ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
