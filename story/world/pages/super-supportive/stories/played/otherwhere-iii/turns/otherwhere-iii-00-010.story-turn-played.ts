@@ -4,6 +4,7 @@ export const otherwhereIii00010 = {
   id: "01a0ea4b-630b-7b8e-8ea5-7c537a0967ab",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-010",
+  cover: "image/image-4f3ad4d4cf0edd38",
   ownLength: 272,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
@@ -13,7 +14,7 @@ export const otherwhereIii00010 = {
     "character-player/otherwhere-iii-nala",
     "character-other/otherwhere-iii-denise-pruitt",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "\"Thank you, but I'm on my own for now. Yesterday I would have had you call my boyfriend, but that ship has sunk. Thank you for your kindness, you've really been a lifesaver today.\"",
   beats: [
@@ -35,6 +36,6 @@ export const otherwhereIii00010 = {
   ],
   lore: ["lore/otherwhere-iii-denise-pruitt"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2037-01-31T05:29:00.000Z",
 } as const satisfies StoryTurnPlayed
