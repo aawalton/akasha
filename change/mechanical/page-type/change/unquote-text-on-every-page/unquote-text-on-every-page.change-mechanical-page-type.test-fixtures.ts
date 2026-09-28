@@ -20,7 +20,7 @@ export function sectionAt(slug: string, held: string): string {
 `
 }
 
-export const DECLARED: Declared = {
+const DECLARED: Declared = {
   pagePropertySlug: "description",
   pageTypeSlug: "text-property",
   propertySlug: "description",
@@ -35,7 +35,7 @@ export const DECLARED: Declared = {
   secret: false,
 }
 
-export type Files = Readonly<Record<string, string>>
+type Files = Readonly<Record<string, string>>
 
 export function valued(held: Readonly<Record<string, string>>): ReadonlyMap<string, Value> {
   const found = new Map<string, Value>()
@@ -52,7 +52,7 @@ export function worldFor(
   return worldOfType(TYPE, bodies, carried, values, reaching)
 }
 
-export const QUOTED = '"Deal damage.\\nSay \\"now\\"."'
+const QUOTED = '"Deal damage.\\nSay \\"now\\"."'
 
 export const PLAIN = "Deal damage."
 
