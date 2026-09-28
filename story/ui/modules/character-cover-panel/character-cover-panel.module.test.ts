@@ -29,8 +29,12 @@ function player(slug: string): string {
   return namedAs(characterPlayer.slug, slug, null)
 }
 
+function whole(image: string): string {
+  return `/api/page-file/image/${image}/bytes`
+}
+
 function source(image: string): string {
-  return `/api/page-file/image/${image}/bytes?w=${COVER_WIDTH_ASKED}`
+  return `${whole(image)}?w=${COVER_WIDTH_ASKED}`
 }
 
 test("the latest turn is the last one drawn", () => {
@@ -72,8 +76,8 @@ test("each character is drawn by its own cover at twice the panel's width, named
     [characterPlayer.slug, [row({ slug: "p", title: "Alan", cover: "image/image-p" })]],
   ])
   expect(characterCoversOf(named, rows)).toEqual([
-    { slug: "p", name: "Alan", source: source("image-p") },
-    { slug: "a", name: "The Woman", source: source("image-a") },
+    { slug: "p", name: "Alan", source: source("image-p"), whole: whole("image-p") },
+    { slug: "a", name: "The Woman", source: source("image-a"), whole: whole("image-a") },
   ])
   expect(COVER_WIDTH_ASKED).toBe(536)
 })

@@ -5,16 +5,14 @@ import type { Page } from "akasha/page/core/modules/page-types/page-types.module
 import { titledAs } from "akasha/page/core/modules/titled-as/titled-as.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { cover } from "akasha/page/properties/cover.relation-property.ts"
-import {
-  coverSource,
-  PageCover,
-} from "akasha/page/ui/component/modules/page-cover/page-cover.module.code.tsx"
+import { coverSource } from "akasha/page/ui/component/modules/page-cover/page-cover.module.code.tsx"
 import {
   type UsePagesSupabaseOptions,
   usePages,
 } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
 import { namedShapeDescriptor } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import { COVER_WIDTH_ASKED } from "akasha/story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx"
+import { ZoomableCover } from "akasha/story/ui/modules/cover-viewing/cover-viewing.module.code.tsx"
 import {
   type SheetShown,
   SheetTabs,
@@ -34,6 +32,7 @@ export type PlayerDrawn = {
   readonly name: string | null
   readonly level: number | string | null
   readonly cover: string | null
+  readonly whole: string | null
 }
 
 export function playerSlugOf(player: string): string {
@@ -54,13 +53,12 @@ export function playerDrawnOf(
     typeof title === "string" && title !== ""
       ? title
       : (sheet?.sheet?.name ?? sheet?.sheet?.kind ?? (slug === "" ? null : titledAs(slug)))
+  const shown = showsCover && row !== undefined
   return {
     name: named ?? null,
     level: sheet?.sheet?.level ?? null,
-    cover:
-      showsCover && row !== undefined
-        ? coverSource(row[cover.propertySlug], COVER_WIDTH_ASKED)
-        : null,
+    cover: shown ? coverSource(row[cover.propertySlug], COVER_WIDTH_ASKED) : null,
+    whole: shown ? coverSource(row[cover.propertySlug]) : null,
   }
 }
 
@@ -105,7 +103,13 @@ export function PlayerCharacterPanel({ player, showsCover, sheet }: PlayerPanelP
           )}
         </div>
       )}
-      {drawn.cover === null ? null : <PageCover coverUrl={drawn.cover} />}
+      {drawn.cover === null || drawn.whole === null ? null : (
+        <ZoomableCover
+          name={drawn.name ?? "Your character"}
+          source={drawn.cover}
+          whole={drawn.whole}
+        />
+      )}
       {sheet === null || revealed === null ? null : (
         <SheetTabs
           sheet={revealed}

@@ -1,11 +1,6 @@
 "use client"
 
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
-import {
-  Dialog,
-  DialogContent,
-  DialogTitle,
-} from "akasha/design/interface/primitive/modules/dialog/dialog.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { overServer } from "akasha/page/access/modules/over-server/over-server.module.code.ts"
 import type { Row } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
@@ -19,6 +14,7 @@ import {
   latestTurnId,
 } from "akasha/story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx"
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
+import { CoverDialog } from "akasha/story/ui/modules/cover-viewing/cover-viewing.module.code.tsx"
 import type { PlayedTurnCover } from "akasha/story/ui/played-panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import {
   ChevronLeft,
@@ -251,23 +247,14 @@ export function SceneCoverPanel({ turns, turnCovers, gameExternalId }: ScenePane
   stepping.current = goTo
   return (
     <SurfaceProvider level={1} className="flex flex-col gap-3 rounded-xl p-4 shadow-sm">
-      <Dialog open={viewing} onOpenChange={setViewing}>
-        <DialogContent
-          variant="bare"
-          showCloseButton
-          className="max-h-[95vh] w-auto items-center sm:max-w-[95vw] [&>[data-slot=dialog-close]]:rounded-full [&>[data-slot=dialog-close]]:bg-black/60 [&>[data-slot=dialog-close]]:p-2 [&>[data-slot=dialog-close]]:text-white"
-        >
-          <DialogTitle className="sr-only">Turn {shown.number}</DialogTitle>
-          <div className="relative">
-            <img
-              src={shown.whole}
-              alt={`Turn ${shown.number}`}
-              className="block max-h-[95vh] max-w-[95vw] rounded-md object-contain"
-            />
-            {rerollable ? <RerollButton rerolling={rerolling} cover={shown.cover} /> : null}
-          </div>
-        </DialogContent>
-      </Dialog>
+      <CoverDialog
+        open={viewing}
+        onOpenChange={setViewing}
+        name={`Turn ${shown.number}`}
+        whole={shown.whole}
+      >
+        {rerollable ? <RerollButton rerolling={rerolling} cover={shown.cover} /> : null}
+      </CoverDialog>
       <figure className="flex flex-col gap-2">
         <div className="relative">
           <button

@@ -52,5 +52,9 @@ export const characterCoverPanel = {
       decisionKind: "decision-kind/departure",
       statement: "A cover is asked for at twice the width the panel draws it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Clicking a cover opens it whole over the page.",
+    },
   ],
 } as const satisfies Module

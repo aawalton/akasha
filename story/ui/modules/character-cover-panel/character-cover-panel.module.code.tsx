@@ -5,10 +5,7 @@ import type { Page } from "akasha/page/core/modules/page-types/page-types.module
 import { titledAs } from "akasha/page/core/modules/titled-as/titled-as.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { cover } from "akasha/page/properties/cover.relation-property.ts"
-import {
-  coverSource,
-  PageCover,
-} from "akasha/page/ui/component/modules/page-cover/page-cover.module.code.tsx"
+import { coverSource } from "akasha/page/ui/component/modules/page-cover/page-cover.module.code.tsx"
 import {
   type UsePagesSupabaseOptions,
   usePages,
@@ -18,6 +15,7 @@ import {
   type ShapeDescriptor,
 } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
+import { ZoomableCover } from "akasha/story/ui/modules/cover-viewing/cover-viewing.module.code.tsx"
 import { characterOther } from "akasha/story/world/characters/character-other/character-other.page-type.ts"
 import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
 import { characters } from "akasha/story/world/characters/properties/characters.multi-relation-property.ts"
@@ -46,6 +44,7 @@ export type CharacterCover = {
   readonly slug: string
   readonly name: string
   readonly source: string
+  readonly whole: string
 }
 
 export function latestTurnId(turns: readonly ClientStoryTurn[]): string | null {
@@ -86,8 +85,9 @@ export function characterCoversOf(
     const row = rowsByType.get(one.pageTypeSlug)?.find((each) => each.slug === one.slug)
     if (row === undefined) continue
     const source = coverSource(row[cover.propertySlug], COVER_WIDTH_ASKED)
-    if (source === null) continue
-    held.push({ slug: one.slug, name: nameOf(row, one.slug), source })
+    const whole = coverSource(row[cover.propertySlug])
+    if (source === null || whole === null) continue
+    held.push({ slug: one.slug, name: nameOf(row, one.slug), source, whole })
   }
   return held
 }
@@ -178,7 +178,7 @@ function Figure({ one }: { one: CharacterCover }) {
   return (
     <figure className="flex flex-col gap-2">
       <figcaption className="font-mono font-semibold text-primary text-sm">{one.name}</figcaption>
-      <PageCover coverUrl={one.source} />
+      <ZoomableCover name={one.name} source={one.source} whole={one.whole} />
     </figure>
   )
 }

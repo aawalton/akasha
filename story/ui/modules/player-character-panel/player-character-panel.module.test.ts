@@ -22,10 +22,12 @@ test("the caption is the character's title, with the sheet's level", () => {
   expect(drawn.name).toBe("Nala")
   expect(drawn.level).toBe(3)
   expect(drawn.cover).toBe(`/api/page-file/image/image-n/bytes?w=${COVER_WIDTH_ASKED}`)
+  expect(drawn.whole).toBe("/api/page-file/image/image-n/bytes")
 })
 
 test("a panel not asking for the cover draws none, though the character has one", () => {
   expect(playerDrawnOf(NALA, "nala", false, null).cover).toBeNull()
+  expect(playerDrawnOf(NALA, "nala", false, null).whole).toBeNull()
 })
 
 test("with no row yet, the caption falls to the sheet's name, then the slug", () => {

@@ -40,5 +40,9 @@ export const playerCharacterPanel = {
       decisionKind: "decision-kind/absence",
       statement: "No card is drawn where there is neither a cover nor a revealed sheet.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Clicking the cover opens it whole over the page.",
+    },
   ],
 } as const satisfies Module

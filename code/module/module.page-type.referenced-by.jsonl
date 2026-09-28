@@ -2611,6 +2611,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/client-session/client-session.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/client-story-session/client-story-session.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/content-frontier/content-frontier.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/cover-viewing/cover-viewing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/hud-panel/hud-panel.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/narrative-log/narrative-log.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/newest-divider/newest-divider.module.ts","typed":true,"deferred":false}
