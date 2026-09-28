@@ -1,0 +1,11 @@
+import type { CharacterOther } from "akasha/story/world/characters/character-other/character-other.page-type.types.ts"
+
+export const theDatingGameTalia = {
+  id: "01a0e84a-0dfd-7c41-83ad-8bd7825477a6",
+  type: "page-type/character-other",
+  slug: "the-dating-game-talia",
+  title: "The Woman on the Porch",
+  story: "story-played/the-dating-game",
+  persona: "persona/talia",
+  cover: "image/image-4c93b4d652cf20d4",
+} as const satisfies CharacterOther
