@@ -5,8 +5,8 @@ import { characterPlayer } from "akasha/story/world/characters/character-player/
 import { worldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.ts"
 import { theTowerEmberWave } from "akasha/story/world/pages/personas/mechanics/skills/the-tower-ember-wave.world-skill.ts"
 import { theTowerSmithing } from "akasha/story/world/pages/personas/mechanics/skills/the-tower-smithing.world-skill.ts"
-import { partnersAlan } from "akasha/story/world/pages/personas/stories/played/partners/characters/partners-alan.character-player.ts"
-import { partnersAmy } from "akasha/story/world/pages/personas/stories/played/partners/characters/partners-amy.character-other.ts"
+import { theTowerAlan } from "akasha/story/world/pages/personas/stories/played/the-tower/characters/the-tower-alan.character-player.ts"
+import { theTowerCompanionAelwyn } from "akasha/story/world/pages/personas/stories/played/the-tower/characters/the-tower-companion-aelwyn.character-other.ts"
 import { theTowerApprentice } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/skills/ranks/pages/the-tower-apprentice.tower-skill-rank.ts"
 import { towerSkillRank } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/skills/ranks/tower-skill-rank.page-type.ts"
 import {
@@ -24,9 +24,9 @@ const EMBER_WAVE = namedAs(worldSkill.slug, theTowerEmberWave.slug, null)
 
 const APPRENTICE = namedAs(towerSkillRank.slug, theTowerApprentice.slug, null)
 
-const ALAN = namedAs(characterPlayer.slug, partnersAlan.slug, null)
+const ALAN = namedAs(characterPlayer.slug, theTowerAlan.slug, null)
 
-const AMY = namedAs(characterOther.slug, partnersAmy.slug, null)
+const AELWYN = namedAs(characterOther.slug, theTowerCompanionAelwyn.slug, null)
 
 const QUEST_ROW = {
   values: {
@@ -49,8 +49,8 @@ test("the level is the metric whose type ends in level, and the rest are named w
 })
 
 test("a character with no level has every metric named by its whole slug", () => {
-  expect(scoresIn([{ values: { type: "partners-mind", value: 3 } }])).toEqual({
-    attributes: { "PARTNERS-MIND": 3 },
+  expect(scoresIn([{ values: { type: "otherwhere-strength", value: 3 } }])).toEqual({
+    attributes: { "OTHERWHERE-STRENGTH": 3 },
   })
 })
 
@@ -93,9 +93,9 @@ test("a quest is keyed by its page's slug, and any status but complete is active
 })
 
 test("a bond is named by the other character in it and counts its points", () => {
-  const titles = new Map([[AMY, "Amy"]])
-  const rows = [{ values: { characters: [ALAN, AMY], relationshipPoints: 130 } }]
-  expect(bondsIn(rows, ALAN, titles)).toEqual([{ name: "Amy", value: 130 }])
+  const titles = new Map([[AELWYN, "Aelwyn"]])
+  const rows = [{ values: { characters: [ALAN, AELWYN], relationshipPoints: 130 } }]
+  expect(bondsIn(rows, ALAN, titles)).toEqual([{ name: "Aelwyn", value: 130 }])
   expect(bondsIn([{ values: { characters: [ALAN] } }], ALAN, titles)).toEqual([])
 })
 
@@ -118,12 +118,12 @@ test("an attunement is named by its element and rank and counts its counter", ()
 })
 
 test("the pages a row names are gathered by type, from a single address or a list", () => {
-  const rows = [{ values: { skill: SMITHING, characters: [ALAN, AMY] } }]
+  const rows = [{ values: { skill: SMITHING, characters: [ALAN, AELWYN] } }]
   expect(namedIn(rows, ["skill", "characters"])).toEqual(
     new Map([
       [worldSkill.slug, [theTowerSmithing.slug]],
-      [characterPlayer.slug, [partnersAlan.slug]],
-      [characterOther.slug, [partnersAmy.slug]],
+      [characterPlayer.slug, [theTowerAlan.slug]],
+      [characterOther.slug, [theTowerCompanionAelwyn.slug]],
     ])
   )
 })

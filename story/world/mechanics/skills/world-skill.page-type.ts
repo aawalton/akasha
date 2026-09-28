@@ -9,7 +9,6 @@ export const worldSkill = {
   extends: ["page-type/world-mechanic"],
   parts: [
     "page-type/tower-skill",
-    "page-type/partners-skill",
     "page-type/partners-ii-skill",
     "page-type/harem-hotel-skill",
     "page-type/otherwhere-skill",
