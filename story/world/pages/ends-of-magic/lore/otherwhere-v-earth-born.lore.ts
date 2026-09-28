@@ -13,7 +13,7 @@ export const otherwhereVEarthBorn = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Earth-born people are human in body, with no mana or magic of their own on arrival.",
+      fact: "Earth-born people are human in body.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -30,10 +30,6 @@ export const otherwhereVEarthBorn = {
     },
     {
       fact: "Earth-born speak no tongue of Davrar; mental magic can implant a language painfully.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Giantsrest mages summon people from beyond Davrar to their towers by rituals.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
