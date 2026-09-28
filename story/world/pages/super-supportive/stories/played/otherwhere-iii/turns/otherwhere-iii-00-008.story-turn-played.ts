@@ -4,13 +4,14 @@ export const otherwhereIii00008 = {
   id: "01a0ea2e-6c13-7977-a220-b89f8428af3b",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-008",
+  cover: "image/image-0a27bb59bc2b380e",
   ownLength: 421,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
   position: 8,
   prose: "txt",
   characters: ["character-player/otherwhere-iii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     '"Sorry, I meant 2016." I say with a laugh. "\'86 was my mom\'s birth year. I guess I filled that out in one too many forms last year when she passed. My brain isn\'t braining too well after all that cold."',
   beats: [
@@ -32,6 +33,6 @@ export const otherwhereIii00008 = {
   ],
   lore: ["place/otherwhere-iii-uptown-memorial-er"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2037-01-31T05:14:00.000Z",
 } as const satisfies StoryTurnPlayed

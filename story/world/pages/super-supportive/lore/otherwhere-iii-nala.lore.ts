@@ -156,6 +156,22 @@ export const otherwhereIiiNala = {
       fact: "Marcus told Nala a birth date of January 22, 1986 would make her fifty-one.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
+    {
+      fact: "At triage Nala corrected her birth date to January 22, 2016, making her twenty-one.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
+      fact: "Nala told Marcus that 1986 was her mom's birth year, and that her mom died last year.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
+      fact: "Nala wears a paper ER bracelet reading ARTHUR, NALA. 01/22/2016, with a barcode.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
+      fact: "Nala now wears thin blue hospital socks; Denise's wet wool socks are knotted in a plastic bag.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

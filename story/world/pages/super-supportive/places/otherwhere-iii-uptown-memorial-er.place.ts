@@ -81,7 +81,7 @@ export const otherwhereIiiUptownMemorialEr = {
     },
     {
       fact: "Wet socks come off at triage, and the ER gives her dry hospital socks with rubber treads.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "A patient with no last name or birth date is logged as a Doe until she gives them.",
@@ -133,15 +133,19 @@ export const otherwhereIiiUptownMemorialEr = {
     },
     {
       fact: "Vitals come next: a thermometer, a cuff, a clip on a finger; her temperature reads 96.1.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "Marcus swaps her wet socks for dry treaded ones and wraps her in a blanket from a warmer.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "Then she is sent to the chairs with a paper bracelet to wait her turn.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
+      fact: "Marcus told Nala frostnip waits behind worse cases, so her wait could be a while.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
   ],
   within: "place/otherwhere-iii-chicago",
