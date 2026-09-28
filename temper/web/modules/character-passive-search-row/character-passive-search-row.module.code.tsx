@@ -10,7 +10,7 @@ import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phr
 import { characterEditorContentCategory } from "akasha/temper/web/phrase/pages/character-editor-content-category.temper-web-phrase.ts"
 import { characterEditorContentSearchPassives } from "akasha/temper/web/phrase/pages/character-editor-content-search-passives.temper-web-phrase.ts"
 
-export interface CharacterPassiveSearchRowProps {
+interface CharacterPassiveSearchRowProps {
   filter: ReturnType<typeof usePassiveFilter>
 }
 
