@@ -4,6 +4,7 @@ export const lightCleric0020Chapter19 = {
   id: "01a06731-afe3-7000-a6be-d6c067ea6ed5",
   type: "page-type/story-chapter-read",
   slug: "light-cleric-0020-chapter-19",
+  ownProgress: 4978,
   title: "Chapter 19",
   story: "story-read/light-cleric",
   position: 20,

@@ -4,6 +4,7 @@ export const markOfTheFool0011SpecialAnnouncementNewBookOnRoyalRoadNoThisWillNot
   id: "01a06731-ae97-7003-9dc2-40afea24bcc6",
   type: "page-type/story-chapter-read",
   slug: "mark-of-the-fool-0011-special-announcement-new-book-on-royal-road-no-this-will-not",
+  ownProgress: 180,
   title: "Special Announcement: New Book on Royal Road (No, this will not slow down Fool lol)",
   story: "story-read/mark-of-the-fool",
   position: 11,

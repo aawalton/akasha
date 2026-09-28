@@ -8,7 +8,7 @@ export const markOfTheFool0015MarkOfTheFool7LaunchesInEbookAndPaperback = {
   story: "story-read/mark-of-the-fool",
   position: 15,
   ownLength: 154,
-  ownProgress: 6,
+  ownProgress: 154,
   unit: "unit/words",
   publishedAt: "2024-05-15",
   externalIdentity: [

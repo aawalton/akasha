@@ -8,7 +8,7 @@ export const markOfTheFool0008GrandAnnouncementPaperbackAudiobookAndEBook = {
   story: "story-read/mark-of-the-fool",
   position: 8,
   ownLength: 287,
-  ownProgress: 206,
+  ownProgress: 287,
   unit: "unit/words",
   publishedAt: "2022-06-23",
   externalIdentity: [

@@ -4,6 +4,7 @@ export const markOfTheFool0012MarkOfTheFoolBook4AudioHasLauuuunched = {
   id: "01a06731-ae97-7004-b72b-37987eaf935c",
   type: "page-type/story-chapter-read",
   slug: "mark-of-the-fool-0012-mark-of-the-fool-book-4-audio-has-lauuuunched",
+  ownProgress: 90,
   title: "MARK OF THE FOOL BOOK 4 AUDIO HAS LAUUUUNCHED!",
   story: "story-read/mark-of-the-fool",
   position: 12,

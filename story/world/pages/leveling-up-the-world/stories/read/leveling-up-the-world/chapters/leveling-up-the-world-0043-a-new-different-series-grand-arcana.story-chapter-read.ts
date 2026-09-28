@@ -4,6 +4,7 @@ export const levelingUpTheWorld0043ANewDifferentSeriesGrandArcana = {
   id: "01a06731-ae90-7000-9583-8173e7dc0b60",
   type: "page-type/story-chapter-read",
   slug: "leveling-up-the-world-0043-a-new-different-series-grand-arcana",
+  ownProgress: 225,
   title: "A New (Different) Series: Grand Arcana",
   story: "story-read/leveling-up-the-world",
   position: 43,

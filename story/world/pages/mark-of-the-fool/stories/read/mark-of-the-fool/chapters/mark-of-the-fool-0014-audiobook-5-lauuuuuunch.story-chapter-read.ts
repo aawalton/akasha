@@ -4,6 +4,7 @@ export const markOfTheFool0014Audiobook5Lauuuuuunch = {
   id: "01a06731-ae97-7006-b9ab-c6c84c8d01d8",
   type: "page-type/story-chapter-read",
   slug: "mark-of-the-fool-0014-audiobook-5-lauuuuuunch",
+  ownProgress: 78,
   title: "Audiobook 5 lauuuuuunch!",
   story: "story-read/mark-of-the-fool",
   position: 14,

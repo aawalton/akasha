@@ -4,6 +4,7 @@ export const markOfTheFool0010MarkOfTheFoolBook2OutTodayInEBookPaperbackAudio = 
   id: "01a06731-ae97-7002-bb10-a26eed551718",
   type: "page-type/story-chapter-read",
   slug: "mark-of-the-fool-0010-mark-of-the-fool-book-2-out-today-in-e-book-paperback-audio",
+  ownProgress: 150,
   title:
     "Mark of the Fool Book 2 out today in e-book, paperback, audio! (today's chapter coming soon)",
   story: "story-read/mark-of-the-fool",

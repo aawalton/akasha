@@ -4,6 +4,7 @@ export const markOfTheFool0013Book6LaunchesTodayInEBookAndPaperback = {
   id: "01a06731-ae97-7005-a138-e2930ee6ba90",
   type: "page-type/story-chapter-read",
   slug: "mark-of-the-fool-0013-book-6-launches-today-in-e-book-and-paperback",
+  ownProgress: 183,
   title: "Book 6 launches today in e-book and paperback!",
   story: "story-read/mark-of-the-fool",
   position: 13,
