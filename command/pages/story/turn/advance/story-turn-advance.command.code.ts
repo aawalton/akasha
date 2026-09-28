@@ -281,6 +281,20 @@ async function advancedOn(
   const read = taken(argv, given.calledAs, given.root)
   if ("refused" in read) return refusedBy(read.refused, INPUT)
   const slug = bareOf(read.turn)
+  const placed = reach.turnAt(given.root, slug)
+  if (placed === null) return refused(`\`${read.turn}\` names no played turn here`, DATA)
+  const holding = async () => await heldOn(done, read, slug, given, landing, reach)
+  return await reach.hold(given.root, placed.at, holding)
+}
+
+async function heldOn(
+  done: string[],
+  read: Taken,
+  slug: string,
+  given: Given,
+  landing: Landing,
+  reach: Reach
+): Promise<Answer> {
   const turn = reach.turnAt(given.root, slug)
   if (turn === null) return refused(`\`${read.turn}\` names no played turn here`, DATA)
   const held = heldOf(turn)

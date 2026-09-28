@@ -34,6 +34,7 @@ import {
   readyTold,
 } from "akasha/command/pages/story/turn/modules/turn-ready-pushing/turn-ready-pushing.module.code.ts"
 import { writtenIndexed } from "akasha/command/pages/story/turn/modules/turn-written/turn-written.module.code.ts"
+import { exclusively } from "akasha/file/modules/exclusive/exclusive.module.code.ts"
 
 import {
   listedAt,
@@ -109,6 +110,8 @@ const GAME_STATED = "domain-slug"
 
 const PERSONA = "persona"
 
+const HOLD_MS = 90_000
+
 export type Turn = { readonly at: string; readonly slug: string; readonly value: Value }
 
 export type Seated = {
@@ -128,6 +131,7 @@ export type Starting = {
 }
 
 export type Reach = {
+  readonly hold: <T>(root: string, turn: string, act: () => Promise<T>) => Promise<T>
   readonly turnAt: (root: string, slug: string) => Turn | null
   readonly reviewersIn: (root: string) => readonly Reviewer[]
   readonly recordersIn: (root: string) => readonly Recorder[]
@@ -346,7 +350,12 @@ async function noticeSent(to: string, body: string): Promise<string | null> {
   return wrote.kind === "refused" ? wrote.detail : null
 }
 
+async function heldApart<T>(root: string, turn: string, act: () => Promise<T>): Promise<T> {
+  return await exclusively(join(root, turn), act, HOLD_MS)
+}
+
 export const REACHED: Reach = {
+  hold: heldApart,
   turnAt: turnIndexed,
   reviewersIn: reviewersIndexed,
   recordersIn: recordersIndexed,

@@ -21,6 +21,15 @@ export const storyTurnAdvance = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "An advance holds its turn from reading it to landing, so two advances on one turn go in turn.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each advance reads the turn as the advance before it landed the turn.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A turn moving tells the game's game master, world builder and writer seats of it.",
     },
     {

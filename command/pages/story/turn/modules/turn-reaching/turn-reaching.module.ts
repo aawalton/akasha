@@ -42,6 +42,10 @@ export const turnReaching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A turn is held by a lock beside its page, which one process holds at a time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The lore in play on a turn is the lore the turn names and the lore about its characters.",
     },

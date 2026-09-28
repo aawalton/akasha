@@ -19,22 +19,20 @@ import {
   MASTER,
   MOVED,
   REVIEWED,
+  racing,
   reachOver,
   SLUG,
   seatOf,
   seen,
+  toldAll,
+  turnAt,
+  WRITER,
 } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.test-fixtures.ts"
-import {
-  loreLine,
-  writtenLine,
-} from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
-import type {
-  Reach,
-  Turn,
-} from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
+import { writtenLine } from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
+import type { Reach } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
 import { memory } from "akasha/story/recorder/pages/memory.story-recorder.ts"
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
-import type { TurnStep } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+
 import { turnStatus } from "akasha/story/world/stories/played/turns/turn-status/turn-status.page-type.ts"
 
 const CALLED = "akasha story turn advance"
@@ -43,33 +41,11 @@ const ROOT = mkdtempSync(join("/var/tmp", "story-turn-advance-test-"))
 
 afterAll(() => rmSync(ROOT, { recursive: true, force: true }))
 
-const BUILDER = "mari-world-builder-the-saga"
-
-const WRITER = "mari-writer-the-saga"
-
-function toldAll(step: TurnStep): string[] {
-  const said = `The turn \`${AT}\` is at ${step}.`
-  const body = step === "writer" ? `${said}\n\n${loreLine([MARA_LORE])}` : said
-  return [MASTER, BUILDER, WRITER].map((to) => `${to}: ${body}`)
-}
-
 const GIVEN: Given = { root: ROOT, calledAs: CALLED, from: "", writer: null, agentId: "an-agent" }
 
 writeFileSync(join(ROOT, "beats.txt"), "Mara opens the gate\n\nThe hall is dark\n")
 writeFileSync(join(ROOT, "issues.txt"), '"opens" - it was locked\n')
 writeFileSync(join(ROOT, "prose.txt"), "Mara opens the gate.\n")
-
-function turnAt(status: TurnStep, more: Record<string, unknown> = {}): Turn {
-  return {
-    at: AT,
-    slug: SLUG,
-    value: {
-      partOfCollections: ["story-played/the-saga"],
-      turnStatus: `${turnStatus.slug}/${status}`,
-      ...more,
-    },
-  }
-}
 
 async function advancedBy(
   argv: readonly string[],
@@ -155,9 +131,11 @@ test("a reviewer that is not the last lands its issues, tells nobody and stops i
   const reviewer = "mari-reviewer-the-saga-flex-2"
   const answer = await advancedBy(
     ["--reviewer", "voice", "--issues-file", join(ROOT, "issues.txt")],
-    reachOver(turnAt("reviewers"), seatOf("reviewer", reviewer), into)
+    reachOver(turnAt("reviewers"), seatOf("reviewer", reviewer), into),
+    landingInto(into)
   )
   expect(answer.refusals).toEqual([])
+  expect(into.steps).toEqual(["read", `hold ${AT}`, "read", "land", `free ${AT}`])
   expect(into.folded[0]?.values).toEqual({
     turnStatus: `${turnStatus.slug}/reviewers`,
     reviewedBy: ["story-reviewer/voice"],
@@ -165,6 +143,17 @@ test("a reviewer that is not the last lands its issues, tells nobody and stops i
   })
   expect(into.notices).toEqual([])
   expect(into.stops).toEqual([reviewer])
+})
+
+test("two reviewers advancing at once each land on what the other landed, so the turn moves on", async () => {
+  const race = racing(turnAt("reviewers", { prose: "txt" }))
+  const [voice, continuity] = await Promise.all([
+    advancedBy(["--reviewer", "voice"], race.reach, race.landing),
+    advancedBy(["--reviewer", "continuity"], race.reach, race.landing),
+  ])
+  expect([...voice.refusals, ...continuity.refusals]).toEqual([])
+  expect(race.now().value["reviewedBy"]).toEqual(REVIEWED.slice().reverse())
+  expect(race.now().value["turnStatus"]).toBe(`${turnStatus.slug}/recorders`)
 })
 
 const WRITTEN = ["--prose-file", join(ROOT, "prose.txt"), "--character", "character-player/mara"]

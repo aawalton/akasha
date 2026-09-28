@@ -93,6 +93,7 @@ function seen(): Seen {
 
 function reachOver(turn: Turn, into: Seen, latest = SLUG): Rewinding {
   return {
+    hold: async (_root, _at, act) => await act(),
     turnAt: (_root, slug) => (slug === turn.slug ? turn : null),
     reviewersIn: () => [],
     recordersIn: () => [],
