@@ -34,5 +34,6 @@ export const otherwhereIv00003 = {
     '"Honored spirit, since you know things," he says. "What is it that breaks my walls at night?"',
   ],
   lore: ["lore/otherwhere-iv-three-stones-folk", "lore/otherwhere-iv-hidden-spring-sect"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T06:48:00.000Z",
 } as const satisfies StoryTurnPlayed
