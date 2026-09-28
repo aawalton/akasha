@@ -8,6 +8,9 @@ export const imageFd9b375c504b4ce4 = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-b48f74ffc0450306",
+  title: "Elin Stealing Strawberries on the Gingham",
+  persona: "persona/elin",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",
