@@ -4,6 +4,8 @@ export const imageEf4fd0236386bdfb = {
   id: "01a0e9db-d3ae-752f-bbd5-81ec0eecd3ce",
   type: "page-type/image",
   slug: "image-ef4fd0236386bdfb",
+  title: "Silk Kimono and Headphones on the Hillside",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
