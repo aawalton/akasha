@@ -24,4 +24,5 @@ export const theDatingGame00040 = {
     "Beyond the glass the lobby lies dim and still, the whole building shut for the day.",
   ],
   lore: ["place/the-dating-game-provo-recreation-center"],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
