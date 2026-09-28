@@ -165,6 +165,8 @@ export const ROOT: string = indexedRepo({
     aProperty("0c", "squad-part", "select-property", { values: ["tank", "healer"] }),
     aProperty("0d", "squad-parts", "select-property", { values: ["tank", "healer"] }),
     aProperty("0e", "rank", "rank-property"),
+    aProperty("0f", "held-to", "text-property", { nullable: true }),
+    aProperty("19", "crest", "text-property"),
     aType("18", selectProperty.slug, {
       extends: [PAGE_PROPERTY_AT],
       properties: [],
@@ -228,6 +230,8 @@ export const ROOT: string = indexedRepo({
         declares("squad-part"),
         declares("squad-parts", { many: true }),
         declares("rank"),
+        declares("held-to"),
+        declares("crest", { required: true }),
       ],
     }),
   ]),

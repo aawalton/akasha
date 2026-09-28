@@ -29,3 +29,27 @@ export function clearRefused(
   }
   return null
 }
+
+type Holding = {
+  readonly filed: boolean
+  readonly nullable: () => boolean
+}
+
+type Handed = "written" | "dropped" | { readonly refused: string }
+
+export function nothingHanded(
+  pageTypeSlug: string,
+  one: Carried,
+  value: unknown,
+  holding: Holding
+): Handed {
+  if (value !== null && value !== undefined) return "written"
+  if (one.uncommitted || holding.filed) return "written"
+  if (value === null && holding.nullable()) return "written"
+  if (!one.required) return "dropped"
+  return {
+    refused:
+      `\`${one.key}\` is handed over as ${String(value)}, and \`${pageTypeSlug}\` requires ` +
+      `\`${one.key}\`, so no page is written without it`,
+  }
+}

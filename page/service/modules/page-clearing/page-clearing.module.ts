@@ -4,7 +4,7 @@ export const pageClearing = {
   id: "01a0d88f-5018-77fa-93cd-f9916aa933fc",
   type: "page-type/module",
   slug: "page-clearing",
-  definition: "whether the keys a write clears are keys a page can be written without",
+  definition: "whether a key a write clears or hands nothing may be left off a page",
   code: "ts",
   test: "ts",
   decisions: [
@@ -23,6 +23,23 @@ export const pageClearing = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A key held in a file is refused as cleared, since the file would stay.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An optional key handed null or undefined is left off the page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A key handed null is written as null where its property is nullable.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A required key handed undefined, or null where its property is not nullable, is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A key kept beside the page or held in a file is written as it is handed.",
     },
     {
       decisionKind: "decision-kind/absence",

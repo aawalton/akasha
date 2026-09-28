@@ -27,13 +27,17 @@ import {
   shownAs,
 } from "akasha/page/service/modules/ending-refusing/ending-refusing.module.code.ts"
 import { keptRowsIn } from "akasha/page/service/modules/kept-rows/kept-rows.module.code.ts"
-import { clearRefused } from "akasha/page/service/modules/page-clearing/page-clearing.module.code.ts"
+import {
+  clearRefused,
+  nothingHanded,
+} from "akasha/page/service/modules/page-clearing/page-clearing.module.code.ts"
 import type { Fresh } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
 import { foldersHere } from "akasha/page/service/modules/pages-foldered/pages-foldered.module.code.ts"
 import type { Faulted } from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
 import { selectRefused } from "akasha/page/service/modules/select-refusing/select-refusing.module.code.ts"
 import {
   type Carried,
+  pageAt,
   propertiesFrom,
   type Source,
   sourceIn,
@@ -55,6 +59,13 @@ const TYPES = "types"
 const PLURAL_SLUG = "pluralSlug"
 
 const HOLDS = "ts"
+
+const NULLABLE = "nullable"
+
+function nullableAt(root: string, one: Carried): boolean {
+  const page = pageAt(root, one.pageTypeSlug, one.pagePropertySlug, (path) => valueAt(path, root))
+  return page?.[NULLABLE] === true
+}
 
 function bodyRefused(
   key: string,
@@ -254,6 +265,14 @@ export function composedFor(root: string, named: Naming, source?: Source): Compo
     const bodied = one.key in bodies
     if (!stated && !bodied && !(one.key in already)) continue
     const value = stated ? named.values[one.key] : already[one.key]
+    const handed = stated
+      ? nothingHanded(named.pageTypeSlug, one, value, {
+          filed: filedBy?.get(one.propertySlug) !== undefined,
+          nullable: () => nullableAt(root, one),
+        })
+      : "written"
+    if (handed === "dropped") continue
+    if (handed !== "written") return handed
     const offTheSet = stated ? selectRefused(root, one, value, sourced) : null
     if (offTheSet !== null) return { refused: offTheSet }
     const owned = rowsRefused(one, value)
