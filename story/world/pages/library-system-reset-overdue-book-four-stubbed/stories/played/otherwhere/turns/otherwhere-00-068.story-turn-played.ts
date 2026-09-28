@@ -7,7 +7,8 @@ export const otherwhere00068 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 68,
-  turnStatus: "turn-status/world-builder",
+  turnStatus: "turn-status/game-master",
   action:
     '"You must be the shelving helpers. Go ahead and work on shelving all the unshelved books on the main floor, starting from the counter."',
+  lore: ["lore/otherwhere-golems"],
 } as const satisfies StoryTurnPlayed
