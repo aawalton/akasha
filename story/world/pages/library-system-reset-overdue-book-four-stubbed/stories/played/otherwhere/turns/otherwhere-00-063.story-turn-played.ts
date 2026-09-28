@@ -24,4 +24,5 @@ export const otherwhere00063 = {
     "A window opens: Task Complete: Restore the Check-in Counter.",
     "Beneath it, a new line: Current Task: Reopen the Library. Serve a patron.",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
