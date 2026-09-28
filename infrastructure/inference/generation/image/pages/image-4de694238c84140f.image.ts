@@ -4,6 +4,8 @@ export const image4de694238c84140f = {
   id: "01a0e9e0-06f6-760e-a418-525ce991111a",
   type: "page-type/image",
   slug: "image-4de694238c84140f",
+  title: "Open Denim and a Sketchbook in the Birches",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
