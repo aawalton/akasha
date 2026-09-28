@@ -10,4 +10,5 @@ export const otherwhereVii00004 = {
   stepStatus: "step-status/game-master",
   action: '"I\'ll take the ride, but keep the shirt, thanks."',
   lore: ["place/otherwhere-vii-ashford-road", "lore/otherwhere-vii-ennis"],
+  endsAt: "2026-09-28T07:00:00.000Z",
 } as const satisfies StoryTurnPlayed
