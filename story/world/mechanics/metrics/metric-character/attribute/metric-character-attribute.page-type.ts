@@ -40,6 +40,7 @@ export const metricCharacterAttribute = {
     "page-type/otherwhere-viii-fluency",
     "page-type/otherwhere-viii-notice",
     "page-type/otherwhere-vi-stat",
+    "page-type/otherwhere-vi-fluency",
   ],
 
   types: "ts",
