@@ -12,4 +12,5 @@ export const otherwhereIx00001 = {
   characters: ["character-player/otherwhere-ix-nala"],
   stepStatus: "step-status/recorders",
   lore: ["lore/otherwhere-ix-nala", "place/otherwhere-ix-glassgrass-flats"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
