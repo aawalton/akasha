@@ -1,9 +1,9 @@
 import type { WorldMechanic } from "akasha/story/world/mechanics/world-mechanic.page-type.types.ts"
 
-export const otherwhereTheLibraryMagic = {
+export const otherwhereIMagic = {
   id: "01a0e366-0af5-72df-a97a-c245e30e4198",
   type: "page-type/world-mechanic",
-  slug: "otherwhere-the-library-magic",
+  slug: "otherwhere-i-magic",
   title: "Magic and Mana",
   world: "world/library-system-reset-overdue-book-four-stubbed",
   description:

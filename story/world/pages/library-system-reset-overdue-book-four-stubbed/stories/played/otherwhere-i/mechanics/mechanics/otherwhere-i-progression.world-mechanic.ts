@@ -1,9 +1,9 @@
 import type { WorldMechanic } from "akasha/story/world/mechanics/world-mechanic.page-type.types.ts"
 
-export const otherwhereTheLibraryProgression = {
+export const otherwhereIProgression = {
   id: "01a0e35f-6176-701f-ba2b-9be65171e3f1",
   type: "page-type/world-mechanic",
-  slug: "otherwhere-the-library-progression",
+  slug: "otherwhere-i-progression",
   title: "Progression",
   world: "world/library-system-reset-overdue-book-four-stubbed",
   description:

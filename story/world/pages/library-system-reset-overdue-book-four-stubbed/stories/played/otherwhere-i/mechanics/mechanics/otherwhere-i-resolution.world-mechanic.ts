@@ -1,9 +1,9 @@
 import type { WorldMechanic } from "akasha/story/world/mechanics/world-mechanic.page-type.types.ts"
 
-export const otherwhereTheLibraryResolution = {
+export const otherwhereIResolution = {
   id: "01a0e35e-db9c-7338-91a7-c236d4f25fef",
   type: "page-type/world-mechanic",
-  slug: "otherwhere-the-library-resolution",
+  slug: "otherwhere-i-resolution",
   title: "Resolution",
   world: "world/library-system-reset-overdue-book-four-stubbed",
   description:

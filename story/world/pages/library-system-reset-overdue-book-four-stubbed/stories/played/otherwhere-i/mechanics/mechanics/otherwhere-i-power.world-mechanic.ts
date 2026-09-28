@@ -1,9 +1,9 @@
 import type { WorldMechanic } from "akasha/story/world/mechanics/world-mechanic.page-type.types.ts"
 
-export const otherwhereTheLibraryPower = {
+export const otherwhereIPower = {
   id: "01a0e366-6650-726d-ae03-5c2c5eadb40b",
   type: "page-type/world-mechanic",
-  slug: "otherwhere-the-library-power",
+  slug: "otherwhere-i-power",
   title: "Power, Connection and Strength",
   world: "world/library-system-reset-overdue-book-four-stubbed",
   description:
