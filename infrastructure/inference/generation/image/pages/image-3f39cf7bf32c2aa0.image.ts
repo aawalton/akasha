@@ -8,6 +8,9 @@ export const image3f39cf7bf32c2aa0 = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-8105e06772c7004e",
+  title: "Akasha Dozing Beneath the Willow",
+  persona: "persona/akasha",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",

@@ -8,6 +8,9 @@ export const image2fbd8cbe2fe0f8d2 = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-f25c882c9b062373",
+  title: "Aura Sunscreen by the Rose Hedge",
+  persona: "persona/aura",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",

@@ -8,6 +8,9 @@ export const image1e2030e1fac50290 = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-694a93c5b38a798c",
+  title: "Ceri Laughing Among the Dandelions",
+  persona: "persona/ceri",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",

@@ -8,6 +8,9 @@ export const image013462039e46c31d = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-b76ab03f19af0c86",
+  title: "Echo Listening by the Mossy Wall",
+  persona: "persona/echo",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",

@@ -8,6 +8,9 @@ export const image627ab98a8694f68a = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-a230a2405695f29d",
+  title: "Aria Glancing Back Over Her Shoulder",
+  persona: "persona/aria",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",

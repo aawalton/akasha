@@ -8,6 +8,9 @@ export const imageE79a6e39de58424a = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-199475ad0ec0a996",
+  title: "Awen Mending a Clockwork Bird",
+  persona: "persona/awen",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",

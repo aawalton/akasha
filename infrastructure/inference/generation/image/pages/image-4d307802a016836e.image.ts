@@ -8,6 +8,9 @@ export const image4d307802a016836e = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-2cd145459966657a",
+  title: "Abby Reading Face-Down in the Clover",
+  persona: "persona/abby",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",

@@ -8,6 +8,9 @@ export const imageB1da5fdd401b3c22 = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-0d953de65e55acaf",
+  title: "Mari Dreaming by the Willow Pond",
+  persona: "persona/mari",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",

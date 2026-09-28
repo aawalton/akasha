@@ -8,6 +8,9 @@ export const image60e4c6e6ac79c3ca = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-e878aec0e63b6951",
+  title: "Amy Off the Clock on the Striped Towel",
+  persona: "persona/amy",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",

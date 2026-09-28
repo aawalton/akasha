@@ -16,6 +16,7 @@
 {"propertySlug":"image-persona","path":"infrastructure/inference/generation/image/pages/image-c9981b84d4fd782d.image.ts","id":"019f1148-9d03-756a-81a9-bda7c67c9a3e"}
 {"propertySlug":"image-persona","path":"infrastructure/inference/generation/image/pages/image-caa425a530f40bca.image.ts","id":"019f1839-40ef-7058-a4c2-b88aae2c9be7"}
 {"propertySlug":"image-persona","path":"infrastructure/inference/generation/image/pages/image-da3ee3d14719c507.image.ts","id":"019f1839-3f58-70cc-a009-aaf50072d7f5"}
+{"propertySlug":"image-persona","path":"infrastructure/inference/generation/image/pages/image-e79a6e39de58424a.image.ts","id":"01a0e971-1094-77bb-ad28-b30d6b51be79"}
 {"propertySlug":"image-persona","path":"infrastructure/inference/generation/image/pages/image-f270d9ac0cb52316.image.ts","id":"019f1839-4093-788a-96a1-a5d7fc05292e"}
 {"propertySlug":"import","fileName":"awen.persona.ts","path":"agent/seat/name/modules/compose-seat-name/compose-seat-name.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/awen-engine-improvements.initiative.ts","id":"01a0b70a-2288-7eca-8e8e-16058b9e89d1"}

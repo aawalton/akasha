@@ -8,6 +8,9 @@ export const imageA7e60cf54b303252 = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-bb26fe821e48726d",
+  title: "Aranya Listening to the Roots",
+  persona: "persona/aranya",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",

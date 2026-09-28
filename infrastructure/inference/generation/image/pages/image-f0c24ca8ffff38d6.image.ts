@@ -8,6 +8,9 @@ export const imageF0c24ca8ffff38d6 = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-e0f2512734f4a5c6",
+  title: "Elaine Dozing Beneath Her Sun Hat",
+  persona: "persona/elaine",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",

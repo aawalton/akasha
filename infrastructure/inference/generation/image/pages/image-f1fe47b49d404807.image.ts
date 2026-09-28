@@ -8,6 +8,9 @@ export const imageF1fe47b49d404807 = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-9e373fae8c1f66e1",
+  title: "Aelwyn Catching Her Breath After a Run",
+  persona: "persona/aelwyn",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",

@@ -8,6 +8,9 @@ export const imageB53532c270593514 = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-db929a98a98dee9c",
+  title: "Aine Crowned in the Wildflowers",
+  persona: "persona/aine",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",
