@@ -39,5 +39,13 @@ export const otherwhereViMossHollow = {
       fact: "The nights here in early autumn are cold, near freezing before dawn.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Many voices howl together from the forest north of the hollow at night.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "The hollow is cold at night, cold enough that breath shows in the air.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
   ],
 } as const satisfies Place
