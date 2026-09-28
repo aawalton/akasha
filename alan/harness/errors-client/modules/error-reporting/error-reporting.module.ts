@@ -6,6 +6,7 @@ export const errorReporting = {
   slug: "error-reporting",
   definition: "a browser error posted to the sink, with its page",
   code: "ts",
+  runsInABrowser: true,
   decisions: [
     {
       decisionKind: "decision-kind/absence",
