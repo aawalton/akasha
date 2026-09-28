@@ -66,7 +66,11 @@ export const otherwhereIxNala = {
     },
     {
       fact: "Nala woke in the Glassgrass Flats in the late afternoon of day one.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "A glassgrass blade cut Nala's palm, and one knee of her tights is already nicked through.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
   ],
 } as const satisfies Lore

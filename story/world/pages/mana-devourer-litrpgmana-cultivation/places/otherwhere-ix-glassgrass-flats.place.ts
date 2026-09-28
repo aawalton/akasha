@@ -35,5 +35,13 @@ export const otherwhereIxGlassgrassFlats = {
       fact: "Hunters cross the Flats to take beast cores, and slavers watch the roads for the unclaimed.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Stunted black-barked trees with leaves glinting like metal stand alone here and there on the Flats.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "Something low, hidden in the glassgrass, crept toward Nala, stopped close by, and sniffed.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
   ],
 } as const satisfies Place
