@@ -199,7 +199,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "Sports: the Bulls lost at home last night; the Blackhawks play tonight.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Lead story: Skiff hauled the earth-shaper from under the lake; the villain is in intensive care.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
-  secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
 } as const satisfies Place
