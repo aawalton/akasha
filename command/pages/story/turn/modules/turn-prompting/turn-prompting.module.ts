@@ -26,6 +26,10 @@ export const turnPrompting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Whether a reviewer judges those descriptions is said by its instructions alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A prompt names the exact advance the seat calls when it is done.",
     },
     {

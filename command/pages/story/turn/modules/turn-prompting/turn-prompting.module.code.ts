@@ -54,7 +54,7 @@ function writtenSaid(written: readonly string[], noun: string): readonly string[
 
 export function describedLine(described: readonly string[]): string {
   const named = described.map((one) => `\`${one}\``).join(", ")
-  return `The mechanic descriptions new or changed on this turn are on ${named}. Judge those, and no other.`
+  return `The mechanic descriptions new or changed on this turn are on ${named}. Judge them only where your instructions say to.`
 }
 
 function describedSaid(described: readonly string[] | undefined): readonly string[] {
