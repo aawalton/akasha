@@ -27,6 +27,10 @@ export const readViewFilters = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A page of a type extending the type a relation names is a related page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Narrows wait while the properties they are read against are unread.",
     },
   ],

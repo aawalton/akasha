@@ -77,9 +77,13 @@ test("narrows wait while a page type's properties are unread", () => {
   expect(readViewFilters(filters, [], definitionsOf)).toEqual({ unread: true })
 })
 
+const TALE_TOLD = "tale-told"
+
+const TALE_KINDS: ReadonlySet<string> = new Set([TALE, TALE_TOLD])
+
 const TALES = [
   { pageTypeSlug: TALE, slug: "second", following: true },
-  { pageTypeSlug: TALE, slug: "first", following: true },
+  { pageTypeSlug: TALE_TOLD, slug: "first", following: true },
   { pageTypeSlug: TALE, slug: "dropped", following: false },
   { pageTypeSlug: "other", slug: "stray", following: true },
 ]
@@ -91,10 +95,10 @@ test("a related narrow becomes the relation naming every related page passing it
     filter: { propertyId: "following", operator: "equals", value: true },
     definitions: TALE_DEFINED,
   }
-  expect(relatedFilterOf(related, TALES)).toEqual({
+  expect(relatedFilterOf(related, TALES, TALE_KINDS)).toEqual({
     propertyId: "tale",
     operator: "includes",
-    value: [`${TALE}/first`, `${TALE}/second`],
+    value: [`${TALE_TOLD}/first`, `${TALE}/second`],
   })
 })
 
@@ -105,5 +109,5 @@ test("a related narrow no related page passes lets no page through", () => {
     filter: { propertyId: "title", operator: "equals", value: "Nobody" },
     definitions: TALE_DEFINED,
   }
-  expect(relatedFilterOf(related, TALES).value).toEqual([NEVER_MATCH_VALUE])
+  expect(relatedFilterOf(related, TALES, TALE_KINDS).value).toEqual([NEVER_MATCH_VALUE])
 })

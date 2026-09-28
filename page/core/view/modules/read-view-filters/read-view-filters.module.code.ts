@@ -121,9 +121,12 @@ function nameOf(row: FilterableRow): string | null {
 
 export function relatedFilterOf(
   related: RelatedFilter,
-  rows: readonly FilterableRow[]
+  rows: readonly FilterableRow[],
+  kinds: ReadonlySet<string>
 ): ViewFilter {
-  const listed = rows.filter((row) => row.pageTypeSlug === related.pageTypeSlug)
+  const listed = rows.filter(
+    (row) => typeof row.pageTypeSlug === "string" && kinds.has(row.pageTypeSlug)
+  )
   const named: string[] = []
   for (const row of applyFilters(listed, [related.filter], related.definitions)) {
     const name = nameOf(row)

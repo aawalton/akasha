@@ -15,6 +15,7 @@ import {
   readViewFilters,
   relatedFilterOf,
 } from "akasha/page/core/view/modules/read-view-filters/read-view-filters.module.code.ts"
+import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   useAcquireSlugs,
   usePipelineLive,
@@ -39,6 +40,8 @@ type RowsOf = {
   readonly error: Error | null
 }
 
+type KindsBelow = (pageTypeSlug: string) => ReadonlySet<string>
+
 const NO_RELATED: readonly RelatedFilter[] = []
 
 const NO_ROWS: readonly Page[] = []
@@ -61,8 +64,8 @@ function rowsOfPipeline(collection: Collection<PageRow, string>, slugs: Readonly
   }
 }
 
-function useRowsOf(slugs: readonly string[]): RowsOf {
-  const key = [...new Set(slugs)].sort().join(PARTED)
+function useRowsOf(slugs: readonly string[], kinds: readonly string[]): RowsOf {
+  const key = [...new Set(kinds)].sort().join(PARTED)
   const acquired = useAcquireSlugs(slugs)
   const { snapshot, error } = usePipelineLive<readonly Page[]>(
     (collection) => rowsOfPipeline(collection, new Set(key.split(PARTED))),
@@ -87,6 +90,38 @@ function definitionsBySlug(pageTypes: readonly PageWithProperties[]): Definition
   return (slug) => held.get(slug)
 }
 
+function parentsOf(held: unknown): readonly string[] {
+  if (!Array.isArray(held)) return []
+  const parents: string[] = []
+  for (const one of held) {
+    const slug = typeof one === "string" ? slugIn(one) : null
+    if (slug !== null) parents.push(slug)
+  }
+  return parents
+}
+
+function kindsBelowOf(pageTypes: readonly PageWithProperties[]): KindsBelow {
+  const extended = new Map<string, readonly string[]>()
+  for (const one of pageTypes) {
+    const slug = one.properties.slug
+    if (typeof slug === "string" && slug !== "")
+      extended.set(slug, parentsOf(one.properties.extends))
+  }
+  return (slug) => {
+    const kinds = new Set([slug])
+    let grew = true
+    while (grew) {
+      grew = false
+      for (const [kind, parents] of extended) {
+        if (kinds.has(kind) || !parents.some((one) => kinds.has(one))) continue
+        kinds.add(kind)
+        grew = true
+      }
+    }
+    return kinds
+  }
+}
+
 export function useReadViewConfig(
   viewConfig: ViewDataJSON | undefined,
   definitions: readonly PropertyDefinition[],
@@ -98,8 +133,14 @@ export function useReadViewConfig(
     [viewConfig?.filters, definitions, definitionsOf]
   )
   const related = "own" in read ? read.related : NO_RELATED
+  const kindsBelow = useMemo(() => kindsBelowOf(pageTypes), [pageTypes])
   const slugs = useMemo(() => related.map((one) => one.pageTypeSlug), [related])
-  const targets = useRowsOf(slugs)
+  const kindsOf = useMemo(
+    () => new Map(slugs.map((slug) => [slug, kindsBelow(slug)] as const)),
+    [slugs, kindsBelow]
+  )
+  const kinds = useMemo(() => [...kindsOf.values()].flatMap((one) => [...one]), [kindsOf])
+  const targets = useRowsOf(slugs, kinds)
 
   return useMemo((): ReadViewConfig => {
     if ("refused" in read) {
@@ -119,7 +160,12 @@ export function useReadViewConfig(
     if (!targets.ready) {
       return { viewConfig: undefined, ownFilters: read.own, pending: true, error: null }
     }
-    const filters = [...read.own, ...read.related.map((one) => relatedFilterOf(one, targets.rows))]
+    const filters = [
+      ...read.own,
+      ...read.related.map((one) =>
+        relatedFilterOf(one, targets.rows, kindsOf.get(one.pageTypeSlug) ?? new Set())
+      ),
+    ]
     return {
       viewConfig:
         viewConfig === undefined
@@ -129,5 +175,5 @@ export function useReadViewConfig(
       pending: false,
       error: null,
     }
-  }, [read, targets, viewConfig])
+  }, [read, targets, viewConfig, kindsOf])
 }

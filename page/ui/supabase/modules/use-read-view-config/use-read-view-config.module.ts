@@ -15,5 +15,9 @@ export const useReadViewConfig = {
       decisionKind: "decision-kind/departure",
       statement: "A view whose narrows are refused answers the refusal and no page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type's kinds below it are read from what each page type extends.",
+    },
   ],
 } as const satisfies Module
