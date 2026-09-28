@@ -10,7 +10,7 @@ export const otherwhereVi00004 = {
   position: 4,
   prose: "txt",
   characters: ["character-player/otherwhere-vi-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I take a long drink from the running water while its next to me, then I follow the trail around the rim, hoping to find a way down below, keeping careful track of the direction the water is.",
   beats: [
@@ -36,8 +36,7 @@ export const otherwhereVi00004 = {
     "She looks back up the gully.",
     "On its lip, against the moonlit sky, two lean wolf shapes stand still, looking down at her.",
     "Their eyes catch the moonlight; neither makes a sound.",
-    "One steps back into the shadow of a boulder and is simply not there any more.",
-    "The other stays where it is, head low, watching her.",
+    "One lowers its head; the other steps back into a boulder's shadow and is simply not there any more.",
   ],
   issues: ['"The other stays where it is, head low, its eyes on you." - No Prompt'],
   lore: ["place/otherwhere-vi-hollow-stream"],
