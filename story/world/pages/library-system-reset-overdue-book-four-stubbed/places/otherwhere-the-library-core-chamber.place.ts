@@ -9,7 +9,7 @@ export const otherwhereTheLibraryCoreChamber = {
   depth: -1,
   exits: [
     {
-      to: "place/otherwhere-the-library-main-hall",
+      to: "place/otherwhere-i-main-hall",
       way: "Up the spiral staircase from the dark gap where the far wall meets the floor, two or three stories with no landing.",
       direction: "up",
     },

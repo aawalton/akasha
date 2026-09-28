@@ -1,9 +1,9 @@
 import type { Lore } from "akasha/story/lore/lore.page-type.types.ts"
 
-export const otherwhereTheLibraryPeoples = {
+export const otherwhereIPeoples = {
   id: "01a0e94a-ae39-7dbd-9979-349a949bb3d7",
   type: "page-type/lore",
-  slug: "otherwhere-the-library-peoples",
+  slug: "otherwhere-i-peoples",
   title: "The Peoples Who Come to the Library",
   world: "world/library-system-reset-overdue-book-four-stubbed",
   facts: [

@@ -20,7 +20,7 @@ export const otherwhereTheLibrary00069 = {
     "\"They don't tire and they don't sleep. Sixty an hour between them, day and night: about two days.\"",
     "By the Counter, the first golem's arm folds back down, empty, and it stoops for the next book.",
   ],
-  lore: ["lore/otherwhere-the-library-golems"],
+  lore: ["lore/otherwhere-i-golems"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T06:36:00.000Z",

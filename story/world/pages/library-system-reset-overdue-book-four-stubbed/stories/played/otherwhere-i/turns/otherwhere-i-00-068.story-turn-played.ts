@@ -23,7 +23,7 @@ export const otherwhereI00068 = {
     "Its arm unfolds, and unfolds again, up past the ladders' reach to a high shelf.",
     "It is slow, careful work; the first book is still rising while the second golem stoops.",
   ],
-  lore: ["lore/otherwhere-the-library-golems"],
+  lore: ["lore/otherwhere-i-golems"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T06:34:00.000Z",

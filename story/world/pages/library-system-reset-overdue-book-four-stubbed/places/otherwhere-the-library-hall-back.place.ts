@@ -6,7 +6,7 @@ export const otherwhereTheLibraryHallBack = {
   slug: "otherwhere-the-library-hall-back",
   title: "The Back of the Main Hall",
   world: "world/library-system-reset-overdue-book-four-stubbed",
-  within: "place/otherwhere-the-library-main-hall",
+  within: "place/otherwhere-i-main-hall",
   depth: 0,
   facts: [
     {

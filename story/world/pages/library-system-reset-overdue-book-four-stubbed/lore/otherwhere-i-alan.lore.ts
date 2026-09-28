@@ -1,9 +1,9 @@
 import type { Lore } from "akasha/story/lore/lore.page-type.types.ts"
 
-export const otherwhereTheLibraryAlan = {
+export const otherwhereIAlan = {
   id: "01a0e351-5e01-72bb-84a6-ff6eda9ca6a6",
   type: "page-type/lore",
-  slug: "otherwhere-the-library-alan",
+  slug: "otherwhere-i-alan",
   title: "Nala",
   world: "world/library-system-reset-overdue-book-four-stubbed",
   about: "character-player/otherwhere-i-alan",

@@ -25,7 +25,7 @@ export const otherwhereI00065 = {
     "Rooms with power glow lit on it: the main hall, the kitchen, the quarters, the core below.",
     "The rest lies dark, the hospital wing among it.",
   ],
-  lore: ["lore/otherwhere-the-library-universe"],
+  lore: ["lore/otherwhere-i-universe"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
   endsAt: "2026-09-28T18:10:00.000Z",

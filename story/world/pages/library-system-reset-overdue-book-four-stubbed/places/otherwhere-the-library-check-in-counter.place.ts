@@ -6,7 +6,7 @@ export const otherwhereTheLibraryCheckInCounter = {
   slug: "otherwhere-the-library-check-in-counter",
   title: "The Check-in Counter",
   world: "world/library-system-reset-overdue-book-four-stubbed",
-  within: "place/otherwhere-the-library-main-hall",
+  within: "place/otherwhere-i-main-hall",
   depth: 0,
   facts: [
     {

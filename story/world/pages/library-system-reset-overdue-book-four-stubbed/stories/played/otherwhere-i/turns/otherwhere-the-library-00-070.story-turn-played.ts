@@ -27,7 +27,7 @@ export const otherwhereTheLibrary00070 = {
     "Links: no book shelved in the hall yet teaches healing.",
     "Links: so for now a patron who comes in hurt gets food and shelter, nothing more.",
   ],
-  lore: ["place/otherwhere-the-library-main-hall"],
+  lore: ["place/otherwhere-i-main-hall"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T06:39:00.000Z",

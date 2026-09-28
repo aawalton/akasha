@@ -7,6 +7,6 @@ export const otherwhereIHospitalWing = {
   title: "The Hospital Wing",
   world: "world/library-system-reset-overdue-book-four-stubbed",
   lit: false,
-  place: "place/otherwhere-the-library-hospital-wing",
+  place: "place/otherwhere-i-hospital-wing",
   shownTo: ["character-player/otherwhere-i-alan"],
 } as const satisfies OtherwhereIRoom

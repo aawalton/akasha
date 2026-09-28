@@ -4,7 +4,7 @@ export const otherwhereEngorgedBookworm06 = {
   id: "01a0e517-d0d6-7dc1-bade-035ea541e79e",
   type: "page-type/otherwhere-i-health",
   slug: "otherwhere-engorged-bookworm-06",
-  character: "character-other/otherwhere-the-library-engorged-bookworm-06",
+  character: "character-other/otherwhere-i-engorged-bookworm-06",
   value: 0,
   minValue: 0,
   maxValue: 12,

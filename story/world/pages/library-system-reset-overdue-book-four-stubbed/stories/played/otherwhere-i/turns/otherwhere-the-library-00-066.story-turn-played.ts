@@ -22,7 +22,7 @@ export const otherwhereTheLibrary00066 = {
     "The smell of fresh bread drifts in from the kitchen.",
     "From the hall beyond the passage comes a sound new to her here: a slow creak of wood and brass.",
   ],
-  lore: ["lore/otherwhere-the-library-golems", "lore/otherwhere-the-library-universe"],
+  lore: ["lore/otherwhere-i-golems", "lore/otherwhere-i-universe"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T06:30:00.000Z",
