@@ -128,6 +128,10 @@ export const otherwhereIiiDenisePruitt = {
       fact: "Before she clocks in, Denise writes her cell number on a paper towel for Nala.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Denise asks Marcus to have the social worker see Nala when she comes on at eight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
