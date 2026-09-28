@@ -4,13 +4,14 @@ export const otherwhereIx00003 = {
   id: "01a0ea44-11aa-7f14-a11c-ed7def32f47c",
   type: "page-type/story-turn-played",
   slug: "otherwhere-ix-00-003",
+  cover: "image/image-7421a9b286f9ee9a",
   ownLength: 194,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],
   position: 3,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I don't make any sudden movements, but turn slowly to stay facing it as it circles.",
   beats: [
     "Nala keeps still in her upper body and turns slowly, following the beast round.",
@@ -28,6 +29,6 @@ export const otherwhereIx00003 = {
   ],
   lore: ["lore/otherwhere-ix-shardback", "place/otherwhere-ix-glassgrass-flats"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T15:34:00.000Z",
 } as const satisfies StoryTurnPlayed
