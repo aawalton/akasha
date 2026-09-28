@@ -4,13 +4,14 @@ export const otherwhere00061 = {
   id: "01a0e7fe-9523-7ffc-8df5-56b9ae1779fe",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-061",
+  cover: "image/image-916ccb5f2f1ae20e",
   ownLength: 171,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 61,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "**Okay Links, what do I need to do the restore the check-in counter? Also, are there any global taboos I need to know about? From seeing the past patrons, I'm assuming the cultures here are more diverse than what I'm use to.**",
   beats: [
@@ -26,6 +27,6 @@ export const otherwhere00061 = {
   ],
   lore: ["lore/otherwhere-universe"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T13:43:00.000Z",
 } as const satisfies StoryTurnPlayed
