@@ -8,6 +8,8 @@ export const image74e90e74aca54995 = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-3162226bd194395a",
+  persona: "persona/ali",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",
