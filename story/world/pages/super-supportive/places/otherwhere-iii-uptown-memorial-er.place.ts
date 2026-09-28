@@ -71,6 +71,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "Wet socks come off at triage, and the ER gives her dry hospital socks with rubber treads.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A patient with no last name or birth date is logged as a Doe until she gives them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
