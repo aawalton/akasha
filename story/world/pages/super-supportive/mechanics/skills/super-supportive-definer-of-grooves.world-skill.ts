@@ -6,5 +6,5 @@ export const superSupportiveDefinerOfGrooves = {
   slug: "super-supportive-definer-of-grooves",
   title: "Definer of Grooves",
   world: "world/super-supportive",
-  description: "A knight skill.",
+  description: "A knight skill whose effects grow more potent each time an action is repeated.",
 } as const satisfies WorldSkill

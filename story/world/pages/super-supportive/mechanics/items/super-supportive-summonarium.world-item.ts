@@ -6,5 +6,5 @@ export const superSupportiveSummonarium = {
   slug: "super-supportive-summonarium",
   title: "Summonarium",
   world: "world/super-supportive",
-  description: "A building with a runic floor for summoning and teleporting.",
+  description: "A place with a runic floor for summoning and teleporting.",
 } as const satisfies WorldItem

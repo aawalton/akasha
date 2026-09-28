@@ -6,5 +6,5 @@ export const superSupportiveCushioningSpell = {
   slug: "super-supportive-cushioning-spell",
   title: "cushioning spell",
   world: "world/super-supportive",
-  description: "A wizard spell that makes a seat like a slowly sinking marshmallow.",
+  description: "A wizard spell that makes a soft cushion like a slowly sinking marshmallow.",
 } as const satisfies WorldSpell

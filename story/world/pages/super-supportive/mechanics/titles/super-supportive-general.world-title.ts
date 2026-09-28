@@ -6,5 +6,5 @@ export const superSupportiveGeneral = {
   slug: "super-supportive-general",
   title: "General",
   world: "world/super-supportive",
-  description: "A numbered title given to knights.",
+  description: "A title given to knights, usually numbered.",
 } as const satisfies WorldTitle

@@ -6,5 +6,5 @@ export const superSupportiveSkyseaGuard = {
   slug: "super-supportive-skysea-guard",
   title: "SkySea Guard",
   world: "world/super-supportive",
-  description: "A patrol near Matadero.",
+  description: "A patrol near Matadero that also runs air traffic and flight paths.",
 } as const satisfies WorldOrganization

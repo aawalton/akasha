@@ -7,5 +7,5 @@ export const superSupportiveOpposite = {
   title: "Opposite",
   world: "world/super-supportive",
   description:
-    "The unknown person on another world who gives or receives the other half of a wordchain trade.",
+    "The unknown person on another world, born the same day and minute, who gives or receives the other half of a wordchain trade.",
 } as const satisfies WorldMechanic

@@ -7,5 +7,6 @@ export const superSupportiveDoubleOn = {
   title: "double-on",
   world: "world/super-supportive",
   aliases: ["double-on their stats"],
-  description: "A rare breakthrough in which an Avowed learns to double-on their stats.",
+  description:
+    "A rare surge of power past an Avowed's stat points, brought on by a flood of adrenaline.",
 } as const satisfies WorldMechanic

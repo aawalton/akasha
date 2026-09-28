@@ -7,5 +7,5 @@ export const superSupportiveHyperbole = {
   title: "Hyperbole",
   world: "world/super-supportive",
   description:
-    "The nickname for an S-rank the System has upgraded past S to a rank number such as 1.",
+    "The nickname for an Avowed the System has ranked up past S to a rank number such as 1.",
 } as const satisfies WorldTitle

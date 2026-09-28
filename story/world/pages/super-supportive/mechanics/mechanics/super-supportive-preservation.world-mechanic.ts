@@ -8,5 +8,5 @@ export const superSupportivePreservation = {
   world: "world/super-supportive",
   aliases: ["preserved"],
   description:
-    "An item held exactly as it is: unchanging, unharmed, and unmovable by outside forces.",
+    "An item or person held exactly as it is: unchanging, unharmed, and unmovable by outside forces.",
 } as const satisfies WorldMechanic

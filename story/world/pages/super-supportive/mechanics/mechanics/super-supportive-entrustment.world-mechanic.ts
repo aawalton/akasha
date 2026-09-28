@@ -8,5 +8,5 @@ export const superSupportiveEntrustment = {
   world: "world/super-supportive",
   aliases: ["entrusted"],
   description:
-    "An item handed into a skill holder's care by its target on request, with no change of ownership.",
+    "Something handed into a skill holder's care by its target on request, with no change of ownership.",
 } as const satisfies WorldMechanic
