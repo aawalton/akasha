@@ -13,6 +13,7 @@ export const theWanderingInn = {
     },
   ],
   grade: "S",
+  following: true,
   tags: ["litrpg", "fantasy", "slice-of-life"],
   unit: "unit/words",
   prose: "txt",
