@@ -178,7 +178,7 @@ export function checkoutReadOnly(root: string = akashaRoot()): boolean {
   }
 }
 
-export type WritingHere = (asked: Writing) => Promise<Wrote>
+type WritingHere = (asked: Writing) => Promise<Wrote>
 
 const overHttp: WritingHere = (asked) => writingFor(asked, undefined, undefined, pagesOriginHere())
 
