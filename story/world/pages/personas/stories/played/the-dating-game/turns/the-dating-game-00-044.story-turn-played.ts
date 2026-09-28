@@ -4,13 +4,14 @@ export const theDatingGame00044 = {
   id: "01a0e81a-4a1e-7e53-99e7-3c211c8935e4",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-044",
+  cover: "image/image-4d49d505bf4d3011",
   ownLength: 145,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 44,
   prose: "txt",
   characters: ["character-other/the-dating-game-aelwyn", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: '"Hah, that\'s fine. So this is what you do? Workout videos in the mountains?"',
   beats: [
     'He says, "Hah, that\'s fine. So this is what you do? Workout videos in the mountains?"',
@@ -25,6 +26,6 @@ export const theDatingGame00044 = {
   ],
   lore: ["lore/the-dating-game-aelwyn"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-27T10:39:00.000Z",
 } as const satisfies StoryTurnPlayed
