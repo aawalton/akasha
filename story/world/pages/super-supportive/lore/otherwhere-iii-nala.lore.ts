@@ -140,6 +140,10 @@ export const otherwhereIiiNala = {
       fact: "Nala's face and body pass for about twenty-five; no one would take her for fifty-one.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "No Alan, and none of Alan's family, house or records, exists in this world's Provo.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
