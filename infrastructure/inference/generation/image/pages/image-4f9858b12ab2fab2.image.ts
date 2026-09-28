@@ -8,6 +8,9 @@ export const image4f9858b12ab2fab2 = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-35b9c7980eed6d1b",
+  title: "Erin Pondering Her Next Move",
+  persona: "persona/erin",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",
