@@ -4,7 +4,7 @@ export const theDatingGame00038 = {
   id: "01a0e595-41ae-73c5-8732-c19e5aa98e86",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-038",
-  cover: "image/image-08ce8ed97c9476bf",
+  cover: "image/image-b7d14ad76e14ccfb",
   ownLength: 64,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
