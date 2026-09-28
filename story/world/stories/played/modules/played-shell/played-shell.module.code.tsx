@@ -3,7 +3,6 @@
 import { asNumber } from "akasha/code/type/narrowing/modules/as-number/as-number.module.code.ts"
 import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
 
-import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { PageTitleRow } from "akasha/page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx"
@@ -73,12 +72,6 @@ import { useMemo } from "react"
 const TITLE_ROW_WIDE = "hidden min-[584px]:block"
 
 const NOTE_LINE = "font-mono text-tertiary text-xs"
-
-const CLOCK_LINE = "text-secondary text-sm"
-
-const UPCOMING_LIST = "flex flex-col gap-1 text-sm text-tertiary"
-
-const TIME_PANEL = "flex flex-col gap-2 rounded-xl p-4 shadow-sm"
 
 const GAME_UNREAD = "The game beside this story went unread, so only its own prose is drawn."
 
@@ -231,6 +224,8 @@ function PlayedStory({
   const player = textIn(characters.rows[0]?.slug) === "" ? "" : characterAddress
   const panelRun = useMemo<PanelRun>(
     () => ({
+      clock,
+      upcoming,
       turns: envelope.chapterProse ?? [],
       turnCovers,
       player,
@@ -242,7 +237,18 @@ function PlayedStory({
       gameExternalId: externalId,
       submitPlayerAction: coordinatorAgent === undefined ? undefined : sendAction,
     }),
-    [envelope, turnCovers, player, hrefById, tail, externalId, runIsTurns, coordinatorAgent]
+    [
+      clock,
+      upcoming,
+      envelope,
+      turnCovers,
+      player,
+      hrefById,
+      tail,
+      externalId,
+      runIsTurns,
+      coordinatorAgent,
+    ]
   )
 
   if (chapters.isLoading || turns.isLoading) return null
@@ -279,21 +285,6 @@ function PlayedStory({
   }
 
   const drawnAside = shownIn(shown, ASIDE)
-  const timeDrawn =
-    clock === null && upcoming.length === 0 ? null : (
-      <SurfaceProvider level={1} className={TIME_PANEL}>
-        {clock === null ? null : <p className={CLOCK_LINE}>{clock}</p>}
-        {upcoming.length === 0 ? null : (
-          <ul className={UPCOMING_LIST}>
-            {upcoming.map((one) => (
-              <li key={one.id}>
-                {one.when} · {one.title}
-              </li>
-            ))}
-          </ul>
-        )}
-      </SurfaceProvider>
-    )
   const drawnRun = shownIn(shown, RUN)
 
   return (
@@ -316,13 +307,8 @@ function PlayedStory({
       }
       bar={bar}
       panelsAside={
-        drawnAside.length === 0 && timeDrawn === null ? null : (
-          <>
-            {timeDrawn}
-            {drawnAside.length === 0 ? null : (
-              <PlayedPanels shown={drawnAside} envelope={envelope} run={panelRun} />
-            )}
-          </>
+        drawnAside.length === 0 ? null : (
+          <PlayedPanels shown={drawnAside} envelope={envelope} run={panelRun} />
         )
       }
     />

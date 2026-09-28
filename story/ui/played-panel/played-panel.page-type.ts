@@ -27,6 +27,7 @@ export const playedPanel = {
     "change-generator/played-panel-drawing",
     "played-panel/character-cover",
     "played-panel/scene-cover",
+    "played-panel/time",
     "number-property/panel-position",
   ],
   decisions: [

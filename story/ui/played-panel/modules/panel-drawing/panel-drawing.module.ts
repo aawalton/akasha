@@ -39,6 +39,11 @@ export const panelDrawing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A panel is handed the story's in-game time and the appointments still to come, or none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A panel is handed what sends the game a choice, where the game has a game master.",
     },
   ],

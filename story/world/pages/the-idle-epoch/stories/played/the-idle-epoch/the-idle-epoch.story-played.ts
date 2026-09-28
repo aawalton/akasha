@@ -7,5 +7,6 @@ export const theIdleEpoch = {
   title: "The Idle Epoch",
   world: "world/the-idle-epoch",
   unit: "unit/words",
+  panels: ["played-panel/time"],
   prose: "txt",
 } as const satisfies StoryPlayed

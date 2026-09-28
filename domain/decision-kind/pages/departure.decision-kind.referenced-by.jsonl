@@ -3751,6 +3751,7 @@
 {"propertySlug":"decision-kind","path":"story/ui/modules/newest-divider/newest-divider.module.ts","id":"01a0629b-682c-7208-a65c-1d5fdba6f831"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/scene-cover-panel/scene-cover-panel.module.ts","id":"01a0e7ff-1168-7fa8-b0c7-08190825f11d"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/story-chapters/story-chapters.module.ts","id":"01a0de1e-6b9d-7c94-a226-81457bb9e050"}
+{"propertySlug":"decision-kind","path":"story/ui/modules/time-panel/time-panel.module.ts","id":"01a0e801-8867-7296-b587-5a6ffa7b65ec"}
 {"propertySlug":"decision-kind","path":"story/ui/played-panel/change-generators/drawing/played-panel-drawing.change-generator.ts","id":"01a0d4eb-8021-7abb-b025-0f85f9595d93"}
 {"propertySlug":"decision-kind","path":"story/ui/played-panel/modules/panel-drawing/panel-drawing.module.ts","id":"01a0c4a0-5cab-7fbb-bff7-7af9f2ab4dbf"}
 {"propertySlug":"decision-kind","path":"story/ui/played-panel/modules/panel-loading/panel-loading.module.ts","id":"01a0c4ae-6e13-7017-99e9-d00c28c4c3f3"}

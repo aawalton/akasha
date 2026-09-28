@@ -13,7 +13,15 @@ export type PlayedTurnCover = {
   readonly cover: string
 }
 
+export type PanelAppointment = {
+  readonly id: string
+  readonly when: string
+  readonly title: string
+}
+
 export type PanelRun = {
+  readonly clock: string | null
+  readonly upcoming: readonly PanelAppointment[]
   readonly turns: readonly ClientStoryTurn[]
   readonly turnCovers: readonly PlayedTurnCover[]
   readonly player: string

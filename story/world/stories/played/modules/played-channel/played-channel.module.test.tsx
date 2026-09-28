@@ -17,6 +17,8 @@ beforeEach(() => {
 const turnOf = (id: string, text: string): ClientStoryTurn => ({ id, title: id, text })
 
 const runOf = (turns: readonly ClientStoryTurn[]): PanelRun => ({
+  clock: null,
+  upcoming: [],
   turns,
   turnCovers: [],
   player: "",

@@ -7,4 +7,5 @@ export const theDungeonOfOneThousandDeaths = {
   title: "The Dungeon of One Thousand Deaths",
   world: "world/the-dungeon-of-one-thousand-deaths",
   unit: "unit/words",
+  panels: ["played-panel/time"],
 } as const satisfies StoryPlayed

@@ -9,5 +9,5 @@ export const theDatingGame = {
   unit: "unit/words",
   externalId: "the-dating-game",
   coordinatorAgent: "mari-game-master-the-dating-game",
-  panels: ["played-panel/character-cover", "played-panel/scene-cover"],
+  panels: ["played-panel/character-cover", "played-panel/scene-cover", "played-panel/time"],
 } as const satisfies StoryPlayed

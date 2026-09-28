@@ -7,5 +7,6 @@ export const thePlacesSheCarries = {
   title: "The Places She Carries",
   world: "world/the-places-she-carries",
   unit: "unit/words",
+  panels: ["played-panel/time"],
   prose: "txt",
 } as const satisfies StoryPlayed

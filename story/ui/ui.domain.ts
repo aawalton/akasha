@@ -35,6 +35,7 @@ export const ui = {
     "module/story-chapters",
     "module/character-cover-panel",
     "module/scene-cover-panel",
+    "module/time-panel",
     "page-type/played-panel",
   ],
 } as const satisfies Domain

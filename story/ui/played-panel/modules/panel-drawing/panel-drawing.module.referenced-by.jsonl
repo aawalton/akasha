@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"panel-drawing.module.code.ts","path":"story/ui/modules/scene-cover-panel/scene-cover-panel.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"panel-drawing.module.code.ts","path":"story/ui/modules/time-panel/time-panel.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"panel-drawing.module.code.ts","path":"story/ui/played-panel/modules/panel-loading/panel-loading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"panel-drawing.module.code.ts","path":"story/ui/played-panel/modules/panel-showing/panel-showing.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"panel-drawing.module.code.ts","path":"story/ui/played-panel/modules/pool-panel/pool-panel.module.code.tsx","typed":true,"deferred":false}

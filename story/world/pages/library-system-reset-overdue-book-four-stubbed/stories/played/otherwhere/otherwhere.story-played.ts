@@ -14,6 +14,7 @@ export const otherwhere = {
   panels: [
     "played-panel/character-cover",
     "played-panel/scene-cover",
+    "played-panel/time",
     "played-panel/character-sheet",
     "played-panel/story-so-far",
   ],

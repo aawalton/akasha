@@ -6,6 +6,7 @@ import { QuestsPanel } from "akasha/story/ui/modules/quests-panel/quests-panel.m
 import { SceneCoverPanel } from "akasha/story/ui/modules/scene-cover-panel/scene-cover-panel.module.code.tsx"
 import { SheetPanel } from "akasha/story/ui/modules/sheet-panel/sheet-panel.module.code.tsx"
 import { StorySoFar } from "akasha/story/ui/modules/story-so-far/story-so-far.module.code.tsx"
+import { TimePanel } from "akasha/story/ui/modules/time-panel/time-panel.module.code.tsx"
 import { panelBy } from "akasha/story/ui/played-panel/modules/panel-showing/panel-showing.module.code.tsx"
 import {
   metricLabel,
@@ -36,6 +37,7 @@ const OFFERED: Readonly<Record<string, Readonly<Record<string, unknown>>>> = {
   },
   "akasha/story/ui/modules/sheet-panel/sheet-panel.module.code.tsx": { SheetPanel },
   "akasha/story/ui/modules/story-so-far/story-so-far.module.code.tsx": { StorySoFar },
+  "akasha/story/ui/modules/time-panel/time-panel.module.code.tsx": { TimePanel },
   "akasha/story/world/pages/personas/stories/played/harem-hotel/mechanics/metrics/attributes/modules/harem-hotel-derived-beside/harem-hotel-derived-beside.module.code.ts":
     { HAREM_HOTEL_WORKINGS },
   "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-derived-beside/tower-derived-beside.module.code.ts":

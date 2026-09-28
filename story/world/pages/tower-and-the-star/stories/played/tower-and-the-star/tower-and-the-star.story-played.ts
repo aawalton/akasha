@@ -7,4 +7,5 @@ export const towerAndTheStar = {
   title: "Tower And The Star",
   world: "world/tower-and-the-star",
   unit: "unit/words",
+  panels: ["played-panel/time"],
 } as const satisfies StoryPlayed

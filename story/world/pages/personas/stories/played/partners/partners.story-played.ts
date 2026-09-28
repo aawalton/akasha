@@ -7,6 +7,7 @@ export const partners = {
   title: "Partners",
   world: "world/personas",
   unit: "unit/words",
+  panels: ["played-panel/time"],
   externalId: "partners",
   coordinatorAgent: "mari-game-master-partners",
 } as const satisfies StoryPlayed

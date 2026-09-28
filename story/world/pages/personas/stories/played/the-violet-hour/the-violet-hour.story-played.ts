@@ -7,6 +7,7 @@ export const theVioletHour = {
   title: "The Violet Hour",
   world: "world/personas",
   unit: "unit/words",
+  panels: ["played-panel/time"],
   externalId: "the-violet-hour",
   prose: "txt",
 } as const satisfies StoryPlayed

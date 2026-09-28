@@ -7,4 +7,5 @@ export const coffeeShopDate = {
   title: "Coffee Shop Date",
   world: "world/personas",
   unit: "unit/words",
+  panels: ["played-panel/time"],
 } as const satisfies StoryPlayed
