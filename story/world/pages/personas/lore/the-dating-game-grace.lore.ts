@@ -52,6 +52,10 @@ export const theDatingGameGrace = {
       fact: "Grace holds that death is real; she has never once found it otherwise.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "Grace works night shifts as a hospice companion, sitting vigil with the dying.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
