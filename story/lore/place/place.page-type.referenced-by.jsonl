@@ -203,6 +203,7 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/places/otherwhere-i-quarters.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/properties/otherwhere-i-room-exits.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-alzore-zone.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-arena-armoury.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-arena-depths.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-arena-dungeon.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-arena-smithy.place.ts","typed":true,"deferred":false}
@@ -216,10 +217,12 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-grand-library.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-kessen-zone.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-kessenhold.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-lava-sea-overlook.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-malar-zone.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-malari.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-materia.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-stillstones.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-summoning-chamber.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-sun-city-arena.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-sun-city.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-tinleaf-seep.place.ts","typed":true,"deferred":false}
