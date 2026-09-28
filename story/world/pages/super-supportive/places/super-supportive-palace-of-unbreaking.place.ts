@@ -6,6 +6,6 @@ export const superSupportivePalaceOfUnbreaking = {
   slug: "super-supportive-palace-of-unbreaking",
   title: "Palace of Unbreaking",
   world: "world/super-supportive",
-  within: "place/super-supportive-artona-ii",
+  within: "place/super-supportive-triplanets",
   secrets: "jsonl",
 } as const satisfies Place
