@@ -25,4 +25,6 @@ export const theDatingGame00043 = {
     "\"Oh, heads up. You're in today's video. It goes up tonight. You're gonna be internet famous.\"",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
+  endsAt: "2026-09-27T10:37:00.000Z",
 } as const satisfies StoryTurnPlayed
