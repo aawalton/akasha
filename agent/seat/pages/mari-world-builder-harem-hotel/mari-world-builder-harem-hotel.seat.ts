@@ -11,4 +11,5 @@ export const mariWorldBuilderHaremHotel = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "85f12757-5408-4eb9-837f-6b39f828abcb",
 } as const satisfies Seat
