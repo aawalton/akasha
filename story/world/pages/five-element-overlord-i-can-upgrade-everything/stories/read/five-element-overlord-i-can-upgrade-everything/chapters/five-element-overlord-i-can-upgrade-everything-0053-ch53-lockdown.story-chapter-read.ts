@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0053Ch53Lockdown = {
   id: "01a06731-adb5-7012-af19-52d20dbc18a2",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0053-ch53-lockdown",
+  ownProgress: 1588,
   title: "Ch53 Lockdown",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 53,

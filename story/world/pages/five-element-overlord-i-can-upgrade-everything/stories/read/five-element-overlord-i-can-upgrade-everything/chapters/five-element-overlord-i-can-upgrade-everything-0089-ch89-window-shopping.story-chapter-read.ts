@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0089Ch89WindowShopping = {
   id: "01a06731-adb7-7005-8517-21d30cec05bf",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0089-ch89-window-shopping",
+  ownProgress: 1626,
   title: "Ch89 Window Shopping",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 89,

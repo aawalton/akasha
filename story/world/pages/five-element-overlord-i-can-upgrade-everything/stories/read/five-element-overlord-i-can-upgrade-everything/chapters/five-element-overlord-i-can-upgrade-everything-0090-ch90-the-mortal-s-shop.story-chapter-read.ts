@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0090Ch90TheMortalSShop = {
   id: "01a06731-adb7-7006-87e5-b5501e165eda",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0090-ch90-the-mortal-s-shop",
+  ownProgress: 1632,
   title: "Ch90 The Mortal’s Shop",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 90,

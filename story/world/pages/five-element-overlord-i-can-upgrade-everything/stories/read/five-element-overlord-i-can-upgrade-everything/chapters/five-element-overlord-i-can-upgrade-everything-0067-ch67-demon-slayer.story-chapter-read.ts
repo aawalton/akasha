@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0067Ch67DemonSlayer = {
   id: "01a06731-adb6-7007-b5f1-73d0b4d3ae91",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0067-ch67-demon-slayer",
+  ownProgress: 1569,
   title: "Ch67 Demon Slayer",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 67,

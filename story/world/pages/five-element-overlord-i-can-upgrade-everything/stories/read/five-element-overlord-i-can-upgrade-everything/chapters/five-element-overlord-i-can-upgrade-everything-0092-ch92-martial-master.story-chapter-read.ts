@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0092Ch92MartialMaster = {
   id: "01a06731-adb7-7008-b360-054f336322ba",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0092-ch92-martial-master",
+  ownProgress: 1702,
   title: "Ch92 Martial Master",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 92,

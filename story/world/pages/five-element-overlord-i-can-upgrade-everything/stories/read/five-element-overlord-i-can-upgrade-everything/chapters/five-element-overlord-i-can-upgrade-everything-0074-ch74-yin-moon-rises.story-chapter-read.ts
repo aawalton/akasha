@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0074Ch74YinMoonRises = {
   id: "01a06731-adb6-700e-9a5e-5ca90bd07199",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0074-ch74-yin-moon-rises",
+  ownProgress: 2321,
   title: "Ch74 Yin Moon Rises",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 74,

@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0070Ch70PhantomLord = {
   id: "01a06731-adb6-700a-9da3-e1cd7408f6ac",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0070-ch70-phantom-lord",
+  ownProgress: 1832,
   title: "Ch70 Phantom Lord",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 70,

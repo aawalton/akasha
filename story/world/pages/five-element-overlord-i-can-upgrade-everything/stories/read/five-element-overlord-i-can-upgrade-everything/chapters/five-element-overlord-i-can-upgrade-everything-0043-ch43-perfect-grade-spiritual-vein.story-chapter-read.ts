@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0043Ch43PerfectGradeSpiritu
   id: "01a06731-adb5-7008-ad6a-c3979ff114f5",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0043-ch43-perfect-grade-spiritual-vein",
+  ownProgress: 1628,
   title: "Ch43 Perfect Grade Spiritual Vein",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 43,

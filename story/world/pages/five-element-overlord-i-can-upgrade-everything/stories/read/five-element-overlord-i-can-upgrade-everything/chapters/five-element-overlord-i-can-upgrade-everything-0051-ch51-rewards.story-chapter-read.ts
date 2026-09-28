@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0051Ch51Rewards = {
   id: "01a06731-adb5-7010-a1fb-2dab00adc5e6",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0051-ch51-rewards",
+  ownProgress: 1508,
   title: "Ch51 Rewards",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 51,

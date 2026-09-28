@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0046Ch46MysteriousEgg = {
   id: "01a06731-adb5-700b-9053-d31d5a96abeb",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0046-ch46-mysterious-egg",
+  ownProgress: 2236,
   title: "Ch46 Mysterious Egg",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 46,

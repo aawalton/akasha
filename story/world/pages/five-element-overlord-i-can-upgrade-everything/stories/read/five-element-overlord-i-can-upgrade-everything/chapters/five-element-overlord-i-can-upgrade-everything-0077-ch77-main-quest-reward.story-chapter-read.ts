@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0077Ch77MainQuestReward = {
   id: "01a06731-adb6-7011-a653-fae1ab57f30f",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0077-ch77-main-quest-reward",
+  ownProgress: 1513,
   title: "Ch77 Main Quest Reward",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 77,

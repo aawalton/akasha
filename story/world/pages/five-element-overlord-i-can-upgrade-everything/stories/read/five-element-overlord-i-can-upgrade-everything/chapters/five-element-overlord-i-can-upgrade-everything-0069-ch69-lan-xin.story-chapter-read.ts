@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0069Ch69LanXin = {
   id: "01a06731-adb6-7009-855a-644e601794b6",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0069-ch69-lan-xin",
+  ownProgress: 1546,
   title: "Ch69 Lan Xin",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 69,

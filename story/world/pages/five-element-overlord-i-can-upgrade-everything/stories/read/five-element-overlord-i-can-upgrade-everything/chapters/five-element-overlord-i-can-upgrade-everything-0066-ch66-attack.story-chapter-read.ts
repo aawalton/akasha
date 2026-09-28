@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0066Ch66Attack = {
   id: "01a06731-adb6-7006-b854-3f3efdd96f7b",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0066-ch66-attack",
+  ownProgress: 1688,
   title: "Ch66 Attack",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 66,

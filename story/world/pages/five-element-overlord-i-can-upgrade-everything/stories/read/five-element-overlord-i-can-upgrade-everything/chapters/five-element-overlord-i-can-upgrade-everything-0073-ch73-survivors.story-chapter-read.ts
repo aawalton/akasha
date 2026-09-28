@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0073Ch73Survivors = {
   id: "01a06731-adb6-700d-a70d-45861ab5fd77",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0073-ch73-survivors",
+  ownProgress: 1941,
   title: "Ch73 Survivors",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 73,

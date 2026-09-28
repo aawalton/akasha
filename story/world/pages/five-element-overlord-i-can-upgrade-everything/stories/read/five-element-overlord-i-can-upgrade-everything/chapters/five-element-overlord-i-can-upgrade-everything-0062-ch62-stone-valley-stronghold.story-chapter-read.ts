@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0062Ch62StoneValleyStrongho
   id: "01a06731-adb6-7002-abf3-ed01e81bc08b",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0062-ch62-stone-valley-stronghold",
+  ownProgress: 2253,
   title: "Ch62 Stone Valley Stronghold",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 62,

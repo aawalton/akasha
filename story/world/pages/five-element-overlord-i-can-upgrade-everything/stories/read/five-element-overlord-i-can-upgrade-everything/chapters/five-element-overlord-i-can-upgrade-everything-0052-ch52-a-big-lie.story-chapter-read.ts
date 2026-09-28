@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0052Ch52ABigLie = {
   id: "01a06731-adb5-7011-8916-173c1c2d729c",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0052-ch52-a-big-lie",
+  ownProgress: 1576,
   title: "Ch52 A Big Lie",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 52,
