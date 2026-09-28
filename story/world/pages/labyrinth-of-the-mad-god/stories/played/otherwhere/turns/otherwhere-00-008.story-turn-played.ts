@@ -10,11 +10,11 @@ export const otherwhere00008 = {
   position: 8,
   prose: "txt",
   characters: ["character-player/otherwhere-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Okay, isekai protocol. System? Status? Character sheet? If you left me here with truly nothing, I might as well fucking die now, and then I won’t be any entertainment for anyone.”",
   beats: [
-    "Nala stands at the stream mouth, the salt still on her tongue, and speaks to the empty air.",
+    "Still kneeling at the stream mouth, the salt on her tongue, Nala speaks to the empty air.",
     '"Okay, isekai protocol. System? Status? Character sheet?"',
     "Nothing appears: no window, no voice, no text, no change in the light.",
     "She waits; the surf breaks behind her, gulls cry, the stream runs over the sand.",
