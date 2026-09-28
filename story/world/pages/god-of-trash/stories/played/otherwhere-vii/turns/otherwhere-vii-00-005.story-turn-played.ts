@@ -10,7 +10,11 @@ export const otherwhereVii00005 = {
   partOfCollections: ["story-played/otherwhere-vii"],
   position: 5,
   prose: "txt",
-  characters: ["character-player/otherwhere-vii-nala", "character-other/otherwhere-vii-ennis"],
+  characters: [
+    "character-player/otherwhere-vii-nala",
+    "character-other/otherwhere-vii-ennis",
+    "character-other/otherwhere-vii-aldo-reeve",
+  ],
   stepStatus: "step-status/player",
   action:
     '"Thanks for the tip. Harvest is always busy, so I\'ll help there if I can. Who should I talk to about that?"',
