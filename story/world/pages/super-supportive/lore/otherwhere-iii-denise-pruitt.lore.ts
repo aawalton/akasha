@@ -44,6 +44,10 @@ export const otherwhereIiiDenisePruitt = {
       fact: "She can call a social worker at the hospital who finds shelter beds and clothing.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She has a daughter of twenty-three at college in Iowa.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
