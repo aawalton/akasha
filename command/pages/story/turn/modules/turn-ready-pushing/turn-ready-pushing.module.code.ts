@@ -19,7 +19,7 @@ const TITLE = "title"
 
 const POSITION = "position"
 
-export type Ready = {
+type Ready = {
   readonly game: string
   readonly storyId: string
   readonly title: string
