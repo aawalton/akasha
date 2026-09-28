@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-blackmist-bog.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-cinder-isle.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-drezen.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-evaluation-course.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-glassrun.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-grand-arena-of-papillion.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-gullrock-head.place.ts","typed":true,"deferred":false}
@@ -20,6 +21,7 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-lowland-wood.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-obelisk-point.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-old-strangler.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-partition-swamp.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-salt-halls.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-searing-isle.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-sewers-of-kastilla.place.ts","typed":true,"deferred":false}
@@ -27,6 +29,7 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-smoking-peak.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-tower-basement.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-tower-of-rizzen.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-tower-roof.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/places/otherwhere-the-library-break-room.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/places/otherwhere-the-library-check-in-counter.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/places/otherwhere-the-library-core-chamber.place.ts","typed":true,"deferred":false}
