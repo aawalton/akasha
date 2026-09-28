@@ -92,6 +92,9 @@ export const otherwhereIiiDenisePruitt = {
       fact: "Denise has seen women left stranded before, and never presses them for more than they offer.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At the ER Denise will offer Nala the desk phone to call someone back home.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
-  secrets: "jsonl",
 } as const satisfies Lore
