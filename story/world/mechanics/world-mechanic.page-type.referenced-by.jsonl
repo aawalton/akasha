@@ -72,6 +72,7 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/cornerstone/mechanics/mechanics/cornerstone-the-core-and-the-small-one.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/cornerstone/mechanics/mechanics/cornerstone-the-four-labors-the-founding-fork.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-aether.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-classes.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-mana.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-recognition.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-spell-tiers.world-mechanic.ts","typed":true,"deferred":false}
