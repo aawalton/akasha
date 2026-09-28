@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/lore/place/place.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/beware-of-chicken/lore/otherwhere-iv-nala.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/beware-of-chicken/lore/otherwhere-iv-three-stones-folk.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/cornerstone/lore/deep-step.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/cornerstone/lore/quick-step.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/cornerstone/lore/slow-tread-and-the-first-buried.lore.ts","typed":true,"deferred":false}

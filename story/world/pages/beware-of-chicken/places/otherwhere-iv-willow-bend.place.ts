@@ -36,4 +36,5 @@ export const otherwhereIvWillowBend = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  secrets: "jsonl",
 } as const satisfies Place
