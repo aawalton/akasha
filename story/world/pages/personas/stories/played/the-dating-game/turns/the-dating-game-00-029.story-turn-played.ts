@@ -4,13 +4,13 @@ export const theDatingGame00029 = {
   id: "01a0e555-a6cf-761e-840c-8baf90d77c61",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-029",
-  ownLength: 151,
+  ownLength: 137,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 29,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/writer",
+  turnStatus: "turn-status/recorders",
   action:
     "“No, I like the quiet here too. I have a hard time feeling like death is real though. The past, the present, and the future all blur together for me.”",
   beats: [
