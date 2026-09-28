@@ -1383,6 +1383,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-prompting/turn-prompting.module.ts","id":"01a0deca-7611-7c9f-94b0-89aa26759a71"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-reaching/turn-reaching.module.ts","id":"01a0deca-7611-7847-a6a4-5c79cbbc8739"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-written/turn-written.module.ts","id":"01a0e578-bd91-705f-b288-1755136c1268"}
+{"propertySlug":"decision-kind","path":"command/pages/story/turn/take-back/story-turn-take-back.command.ts","id":"01a0e7ea-d96e-773f-a163-c8112382cb14"}
 {"propertySlug":"decision-kind","path":"command/pages/talos/apply/talos-apply.command.ts","id":"01a06809-a024-7ec0-9d74-4fc9c49d1ac0"}
 {"propertySlug":"decision-kind","path":"command/pages/talos/bootstrap/talos-bootstrap.command.ts","id":"01a06809-a024-70e5-84a3-155889fe2c3e"}
 {"propertySlug":"decision-kind","path":"command/pages/talos/config-gen/talos-config-gen.command.ts","id":"01a06809-a024-740f-b1cb-f3271877bd51"}

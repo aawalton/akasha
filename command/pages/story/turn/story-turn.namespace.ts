@@ -9,6 +9,7 @@ export const storyTurn = {
     "command/story-turn-advance",
     "command/story-turn-cancel",
     "command/story-turn-rewind",
+    "command/story-turn-take-back",
     "module/turn-keeping",
     "module/turn-prompting",
     "module/turn-reaching",
