@@ -4,7 +4,7 @@ export const otherwhereNala = {
   id: "01a0e99f-7726-7c5c-a05e-f81d572abcd3",
   type: "page-type/otherwhere-ii-experience-points",
   slug: "otherwhere-nala",
-  character: "character-player/otherwhere-nala",
+  character: "character-player/otherwhere-ii-nala",
   value: 0,
   minValue: 0,
   maxValue: 10,

@@ -6,7 +6,7 @@ export const otherwhereNalaForaging = {
   slug: "otherwhere-nala-foraging",
   title: "Foraging",
   description: "Finding food and water in the wild, and sensing what is safe to eat.",
-  character: "character-player/otherwhere-nala",
+  character: "character-player/otherwhere-ii-nala",
   value: 1,
   minValue: 0,
   maxValue: 10,

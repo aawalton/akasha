@@ -6,7 +6,7 @@ export const otherwhereNalaStealth = {
   slug: "otherwhere-nala-stealth",
   title: "Stealth",
   description: "Moving and keeping still unseen and unheard.",
-  character: "character-player/otherwhere-nala",
+  character: "character-player/otherwhere-ii-nala",
   value: 0,
   minValue: 0,
   maxValue: 10,

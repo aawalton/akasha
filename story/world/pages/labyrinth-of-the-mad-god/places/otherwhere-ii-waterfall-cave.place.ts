@@ -6,7 +6,7 @@ export const otherwhereIiWaterfallCave = {
   slug: "otherwhere-ii-waterfall-cave",
   title: "The Mana-Infused Waterfall",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-bladewind-badlands",
+  within: "place/otherwhere-ii-bladewind-badlands",
   facts: [
     {
       fact: "A mana-rich waterfall on the badlands cliff hides a cave with a small obelisk.",

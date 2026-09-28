@@ -105,7 +105,7 @@ export const otherwhereInterface = {
     },
     {
       fact: "Nala called aloud for System, Status and a character sheet, and no window or answer came.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore

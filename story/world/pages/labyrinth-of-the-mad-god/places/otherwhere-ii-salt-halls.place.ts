@@ -6,7 +6,7 @@ export const otherwhereIiSaltHalls = {
   slug: "otherwhere-ii-salt-halls",
   title: "The Salt Halls",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-gullrock-head",
+  within: "place/otherwhere-ii-gullrock-head",
   facts: [
     {
       fact: "The Salt Halls are a dungeon under Gullrock Head, apart from the isle's own ground.",

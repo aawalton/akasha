@@ -6,7 +6,7 @@ export const otherwhereIiBlackmistBog = {
   slug: "otherwhere-ii-blackmist-bog",
   title: "Blackmist Bog",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-drezen",
+  within: "place/otherwhere-ii-drezen",
   facts: [
     {
       fact: "Blackmist Bog is a vast swamp of giant frogs, insects and horrors from another plane.",

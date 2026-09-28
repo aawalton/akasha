@@ -9,7 +9,7 @@ export const otherwhereMireMonitors = {
   facts: [
     {
       fact: "Mire monitors are lizards seven feet long, mud-brown with a purple sheen in sunlight.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
     },
     {
       fact: "A mire monitor has rows of hooked teeth, black claws and a tail half its length.",
@@ -77,19 +77,19 @@ export const otherwhereMireMonitors = {
     },
     {
       fact: "A mire monitor's tongue is forked and dark.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
     },
     {
       fact: "Nala's voice turned the nearer mire monitor's head; its eyes opened and fixed on her.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
     },
     {
       fact: "A mire monitor's teeth are hooked; they hold, and tear flesh pulled free of them.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
     },
     {
       fact: "As Nala fought the nearer mire monitor, the second came through the reeds at her side.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore

@@ -6,7 +6,7 @@ export const otherwhereXanian = {
   slug: "otherwhere-xanian",
   title: "The Lost City of Xanian",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-aurora-lake",
+  within: "place/otherwhere-ii-aurora-lake",
   facts: [
     {
       fact: "Xanian is a drowned alien city of curved, glowing blue stone at the bottom of the lake.",

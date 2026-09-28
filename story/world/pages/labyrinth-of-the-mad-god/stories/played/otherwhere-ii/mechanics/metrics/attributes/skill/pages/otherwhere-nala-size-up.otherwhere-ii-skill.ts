@@ -6,7 +6,7 @@ export const otherwhereNalaSizeUp = {
   slug: "otherwhere-nala-size-up",
   title: "Size up",
   description: "Reading how dangerous a creature is, and a prickle of warning when danger is near.",
-  character: "character-player/otherwhere-nala",
+  character: "character-player/otherwhere-ii-nala",
   value: 0,
   minValue: 0,
   maxValue: 10,

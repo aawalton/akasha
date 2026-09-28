@@ -4,7 +4,7 @@ export const otherwhereNala = {
   id: "01a0e99a-0c79-7da9-a0e4-97620fa87feb",
   type: "page-type/otherwhere-ii-mind",
   slug: "otherwhere-nala",
-  character: "character-player/otherwhere-nala",
+  character: "character-player/otherwhere-ii-nala",
   value: 10,
   minValue: 0,
   history: "jsonl",

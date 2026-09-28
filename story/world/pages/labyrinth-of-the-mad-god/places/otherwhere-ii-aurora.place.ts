@@ -6,7 +6,7 @@ export const otherwhereIiAurora = {
   slug: "otherwhere-ii-aurora",
   title: "Aurora",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-bladewind-badlands",
+  within: "place/otherwhere-ii-bladewind-badlands",
   facts: [
     {
       fact: "Aurora is the first capital of the new Earth, built on the shore of the badlands' great lake.",

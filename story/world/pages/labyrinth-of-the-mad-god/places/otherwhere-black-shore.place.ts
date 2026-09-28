@@ -14,35 +14,35 @@ export const otherwhereBlackShore = {
     },
     {
       fact: "The sea off the Black Shore is blue shot through with faint swirls of rose and green.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
     },
     {
       fact: "The black sand holds the sun's heat and burns bare feet by midday.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
     },
     {
       fact: "Trees like palms, their leaves wrong for palms, line the top of the beach before thick forest.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
     },
     {
       fact: "A mountain rises from the island's middle, trailing a thin band of dark smoke.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
     },
     {
       fact: "No boat, road, wire, contrail or scrap of trash shows along the shore or in the sky.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
     },
     {
       fact: "Gulls cry over the surf, and small crabs run at the water's edge.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
     },
     {
       fact: "No fresh water runs on the open beach.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
     },
     {
       fact: "A hole dug in the sand anywhere on the beach fills with seawater, salt as the sea.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
     },
     {
       fact: "The sea is salt, and drinking it deepens thirst rather than easing it.",
@@ -54,15 +54,15 @@ export const otherwhereBlackShore = {
     },
     {
       fact: "The wet sand below the tide line stays cool underfoot even at midday.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
     },
     {
       fact: "A wrack line of dried weed, shells and bleached driftwood runs along the top of the wet sand.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
     },
     {
       fact: "Shards of black volcanic glass lie in the wrack, keen-edged enough to saw through cord.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
     },
     {
       fact: "Hand-sized crabs scuttle in the wash; they pinch hard and are good to eat cooked.",
@@ -70,15 +70,15 @@ export const otherwhereBlackShore = {
     },
     {
       fact: "Under the fanpalms lie fallen nuts, most split or dry, perhaps one in a dozen still whole.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
     },
     {
       fact: "Northward the beach runs straight and open to a black headland, far off.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
     },
     {
       fact: "Southward, some two miles on, taller double rows of palms break the line of the trees.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
     },
     {
       fact: "Nothing large comes onto the open sand by day but gulls, crabs and, at low tide, copperbacks.",

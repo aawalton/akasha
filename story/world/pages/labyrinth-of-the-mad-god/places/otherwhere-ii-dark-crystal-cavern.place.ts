@@ -6,7 +6,7 @@ export const otherwhereIiDarkCrystalCavern = {
   slug: "otherwhere-ii-dark-crystal-cavern",
   title: "The Dark Crystal Cavern",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-bladewind-badlands",
+  within: "place/otherwhere-ii-bladewind-badlands",
   facts: [
     {
       fact: "The Dark Crystal Cavern is a vast geode whose giant crystals drink light.",

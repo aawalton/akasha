@@ -6,7 +6,7 @@ export const otherwhereIiManaSaturatedMine = {
   slug: "otherwhere-ii-mana-saturated-mine",
   title: "The Mana-Saturated Mine",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-bladewind-badlands",
+  within: "place/otherwhere-ii-bladewind-badlands",
   facts: [
     {
       fact: "The mana-saturated mine is a shaft over a thousand feet deep in the eastern highlands.",

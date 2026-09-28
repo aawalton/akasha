@@ -18,7 +18,7 @@ export const otherwhereLowlandWood = {
     },
     {
       fact: "Under the canopy the light is green and dim, the air still and wet, and cooler than the sand.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
     },
     {
       fact: "The mountain cannot be seen under the canopy, only from clearings and treefalls.",
@@ -26,11 +26,11 @@ export const otherwhereLowlandWood = {
     },
     {
       fact: "The forest floor is leaf litter over roots and sharp stones, hard going on bare feet.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
     },
     {
       fact: "Hooked thornvine hangs in the gaps between trees and tears skin and cloth.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
     },
     {
       fact: "A game trail runs from the treeline east and a little south, toward the Glassrun.",
@@ -46,7 +46,7 @@ export const otherwhereLowlandWood = {
     },
     {
       fact: "Bloodfruit trees grow in the sunnier gaps, their red fruit high up and ripe now.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ii-nala"],
     },
     {
       fact: "A copperback troop ranges the wood's western half, loud in the canopy by day.",

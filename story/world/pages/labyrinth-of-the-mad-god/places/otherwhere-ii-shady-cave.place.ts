@@ -6,7 +6,7 @@ export const otherwhereIiShadyCave = {
   slug: "otherwhere-ii-shady-cave",
   title: "Shady Cave on a Hot Day",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-bladewind-badlands",
+  within: "place/otherwhere-ii-bladewind-badlands",
   facts: [
     {
       fact: "Shady Cave on a Hot Day is a coyote settlement of residential caves and parks.",
