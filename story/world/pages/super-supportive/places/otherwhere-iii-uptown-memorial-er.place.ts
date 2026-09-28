@@ -148,5 +148,6 @@ export const otherwhereIiiUptownMemorialEr = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
   ],
+  secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
 } as const satisfies Place
