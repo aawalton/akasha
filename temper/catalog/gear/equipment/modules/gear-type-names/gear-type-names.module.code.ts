@@ -1,12 +1,12 @@
 type Row = Readonly<Record<string, unknown>>
 
-export type GearTypeNames = {
+type GearTypeNames = {
   readonly equipTypes: ReadonlyMap<number, string>
   readonly weaponTypes: ReadonlyMap<number, string>
   readonly armorTypes: ReadonlyMap<number, string>
 }
 
-export type GearTypeRows = {
+type GearTypeRows = {
   readonly equipTypes: Iterable<Row>
   readonly weaponTypes: Iterable<Row>
   readonly armorWeights: Iterable<Row>
