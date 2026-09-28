@@ -10,7 +10,7 @@ export const otherwhere00068 = {
   position: 68,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     '"You must be the shelving helpers. Go ahead and work on shelving all the unshelved books on the main floor, starting from the counter."',
   beats: [
@@ -23,5 +23,5 @@ export const otherwhere00068 = {
     "It is slow, careful work; the first book is still rising while the second golem stoops.",
   ],
   lore: ["lore/otherwhere-golems"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
