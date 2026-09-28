@@ -4,13 +4,14 @@ export const otherwhere00047 = {
   id: "01a0e596-ad04-7154-a387-d497e2c64091",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-047",
+  cover: "image/image-30e2b2f21a763ba5",
   ownLength: 155,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 47,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "I go back to the kitchen and bring over three more bags of salt, one at a time, then take another attempt and jamming one down the worms throat",
   beats: [
@@ -27,5 +28,5 @@ export const otherwhere00047 = {
   ],
   lore: ["place/otherwhere-kitchen", "place/otherwhere-hall-back"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed

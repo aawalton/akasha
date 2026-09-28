@@ -324,5 +324,9 @@ export const otherwhereHallBack = {
       fact: "Nala's fourth sack glanced off the big bookworm's teeth and fell whole; its bite missed her.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
+    {
+      fact: "Nala's fourth sack of salt lies whole on the floor between her and the big bookworm.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
   ],
 } as const satisfies Place
