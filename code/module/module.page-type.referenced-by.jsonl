@@ -1288,6 +1288,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/leveling/command-leveling.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/lone-calling/lone-calling.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/long-body/long-body.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/mechanic-defining/mechanic-defining.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/mechanical-filing/mechanical-filing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/namespace-listing/namespace-listing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/orphaning/orphaning.module.ts","typed":true,"deferred":false}

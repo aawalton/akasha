@@ -31,5 +31,9 @@ export const draftLength = {
       statement:
         "A draft kept beside a turn is measured when drafted, since another agent lands it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A drafting run asks here whether its caller may define the mechanics it adds.",
+    },
   ],
 } as const satisfies Module

@@ -291,6 +291,8 @@
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/landing/landing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/landing/landing.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/landing/landing.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/mechanic-defining/mechanic-defining.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/mechanic-defining/mechanic-defining.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/mechanical-filing/mechanical-filing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/path-moving/path-moving.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/read-stamping/read-stamping.module.code.ts","typed":true,"deferred":false}

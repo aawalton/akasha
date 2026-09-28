@@ -9,6 +9,7 @@ import {
   reasonsIn,
 } from "akasha/check/code/pages/file-length/file-length.check-code.decision.code.ts"
 import { unparsedAfter } from "akasha/command/modules/draft-parsing/draft-parsing.module.code.ts"
+import { definingRefused } from "akasha/command/modules/mechanic-defining/mechanic-defining.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 
 export type LetOff = (path: string) => boolean
@@ -40,11 +41,13 @@ export function draftFaults(
   bodyOf: BodyOf,
   index: Answering,
   rows: readonly FileChange[],
-  asked: readonly FileChange[]
+  asked: readonly FileChange[],
+  page: string
 ): readonly string[] {
   const paged = { index, pageOf: () => null }
   return [
     ...unparsedAfter(bodyOf, rows, asked),
     ...overLongAfter(bodyOf, rows, asked, (path) => exemptIn(path, paged)),
+    ...definingRefused(index, bodyOf, page, asked),
   ]
 }

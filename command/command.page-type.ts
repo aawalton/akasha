@@ -65,6 +65,7 @@ export const command = {
     "module/landing-reworking",
     "module/landing-saying",
     "module/long-body",
+    "module/mechanic-defining",
     "module/mechanical-filing",
     "module/namespace-listing",
     "module/orphaning",

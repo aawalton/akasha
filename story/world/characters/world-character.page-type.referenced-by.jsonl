@@ -1,5 +1,6 @@
 {"propertySlug":"extends-type","path":"story/world/characters/character-other/character-other.page-type.ts","id":"01a0ca22-a973-71c0-954e-899e1c4b289f"}
 {"propertySlug":"extends-type","path":"story/world/characters/character-player/character-player.page-type.ts","id":"01a0c9ee-c13b-7e54-a823-a455c8cf45ac"}
+{"propertySlug":"import","fileName":"world-character.page-type.ts","path":"command/modules/mechanic-defining/mechanic-defining.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/characters/character-other/character-other.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/characters/character-player/character-player.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/cornerstone/characters/cornerstone-deep-step.world-character.ts","typed":true,"deferred":false}
