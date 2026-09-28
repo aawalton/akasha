@@ -3,5 +3,6 @@
 {"propertySlug":"import","fileName":"world-builder.role.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-builder.role.ts","path":"story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
+{"propertySlug":"role","path":"agent/seat/pages/iris-world-builder-otherwhere-iii/iris-world-builder-otherwhere-iii.seat.ts","id":"01a0e9d4-ffb6-7000-a29f-dbfc9cc56204"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-world-builder-otherwhere/iris-world-builder-otherwhere.seat.ts","id":"01a0e985-a84f-7000-9acc-20476e8e941f"}
 {"propertySlug":"role","path":"agent/seat/pages/mari-world-builder-harem-hotel/mari-world-builder-harem-hotel.seat.ts","id":"01a0e98b-d149-7000-ac6a-471bf6037fc3"}
