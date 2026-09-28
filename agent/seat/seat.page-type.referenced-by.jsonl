@@ -23,7 +23,6 @@
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/iris/iris.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari-game-master-the-dating-game/mari-game-master-the-dating-game.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari-world-builder-the-dating-game/mari-world-builder-the-dating-game.seat.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari-writer-harem-hotel/mari-writer-harem-hotel.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari-writer-the-dating-game/mari-writer-the-dating-game.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/nimue/nimue.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}
