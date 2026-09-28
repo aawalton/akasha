@@ -106,7 +106,7 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "A rushing shardback lays its quills flat to run; they bristle up the instant its back is touched.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "Glasswing kites take young shardbacks, so a young one jinks aside from anything dropping at it.",
@@ -126,7 +126,7 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "Arms locked round a shardback's back or nape take quill shards with every twist it makes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "A shardback locked on a bite keeps hold through pain; only failing breath or a snout blow frees it.",
@@ -134,10 +134,18 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "A shardback's throat is softer than its nape, but its jaw and bite sit right above it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "A rushing shardback lays its quills flat along its back.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "A shardback's neck is short and thick, quilled at the nape, with nothing there to grip or squeeze.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "A shardback's throat and belly are soft, bare skin with no quills at all.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
   ],

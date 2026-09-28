@@ -29,5 +29,6 @@ export const otherwhereIx00005 = {
   ],
   lore: ["lore/otherwhere-ix-shardback"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-28T15:36:00.000Z",
 } as const satisfies StoryTurnPlayed
