@@ -14,7 +14,11 @@ const IMAGE = toPageTypeSlug("image")
 
 const ALBUMS = "albums"
 
-const AS_GALLERY: ListingConfig = { layout: "gallery", includeDescendants: false }
+const AS_GALLERY: ListingConfig = {
+  layout: "gallery",
+  gallery_card_size: "medium",
+  includeDescendants: false,
+}
 
 export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
   const { page } = usePage({ pageTypeSlug, id })
