@@ -4,6 +4,7 @@ export const systemChangeSystemUniverse0109Chapter687Slinky = {
   id: "01a0cb95-15cb-7927-8df7-2b1ca0c85496",
   type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0109-chapter-687-slinky",
+  ownProgress: 2038,
   position: 109,
   publishedAt: "2026-09-22",
   unit: "unit/words",

@@ -14,6 +14,7 @@ export const theCalamitousBobStubbed = {
     },
   ],
   author: "Mecanimus",
+  following: true,
   grade: "A",
   externalTags: [
     "LitRPG",

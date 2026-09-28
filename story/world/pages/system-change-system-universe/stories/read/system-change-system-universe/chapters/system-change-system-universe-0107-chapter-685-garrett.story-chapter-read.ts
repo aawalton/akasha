@@ -4,6 +4,7 @@ export const systemChangeSystemUniverse0107Chapter685Garrett = {
   id: "01a0a78a-efb9-7822-84db-6cb0dd5f23bb",
   type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0107-chapter-685-garrett",
+  ownProgress: 2065,
   position: 107,
   publishedAt: "2026-09-15",
   unit: "unit/words",

@@ -14,7 +14,7 @@ export const theGiftOfLoot = {
     },
   ],
   author: "Jack_Golightly",
-  following: true,
+  following: false,
   publicationStatus: "ongoing",
   externalTags: [
     "LitRPG",

@@ -4,6 +4,7 @@ export const thePathOfAscension0193ThePathOfAscensionChapter493 = {
   id: "01a06730-5099-7d14-ac4c-438a33fccee9",
   type: "page-type/story-chapter-read",
   slug: "the-path-of-ascension-0193-the-path-of-ascension-chapter-493",
+  ownProgress: 5693,
   title: "The Path of Ascension Chapter 493",
   story: "story-read/the-path-of-ascension",
   position: 193,

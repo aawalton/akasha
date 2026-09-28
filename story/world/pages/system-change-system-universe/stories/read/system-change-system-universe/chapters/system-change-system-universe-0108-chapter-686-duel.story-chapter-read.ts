@@ -4,6 +4,7 @@ export const systemChangeSystemUniverse0108Chapter686Duel = {
   id: "01a0b1d7-a84f-7da6-b664-408173304041",
   type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0108-chapter-686-duel",
+  ownProgress: 2033,
   position: 108,
   publishedAt: "2026-09-17",
   unit: "unit/words",

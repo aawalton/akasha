@@ -4,6 +4,7 @@ export const theCalamitousBobStubbed0002Chapter2UpACreekNoPaddle = {
   id: "01a06730-4f36-75df-9d13-ff0c0513d5f7",
   type: "page-type/story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0002-chapter-2-up-a-creek-no-paddle",
+  ownProgress: 4958,
   title: "Chapter 2: Up a Creek, No Paddle",
   story: "story-read/the-calamitous-bob-stubbed",
   position: 2,

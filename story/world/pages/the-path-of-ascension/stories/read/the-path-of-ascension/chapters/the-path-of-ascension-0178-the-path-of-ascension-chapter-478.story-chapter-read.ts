@@ -18,6 +18,6 @@ export const thePathOfAscension0178ThePathOfAscensionChapter478 = {
     },
   ],
   publishedAt: "2026-03-09",
-  ownProgress: 1111,
+  ownProgress: 10962,
   prose: "txt",
 } as const satisfies StoryChapterRead

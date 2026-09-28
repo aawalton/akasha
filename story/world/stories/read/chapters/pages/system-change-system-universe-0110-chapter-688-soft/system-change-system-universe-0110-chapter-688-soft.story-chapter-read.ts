@@ -4,6 +4,7 @@ export const systemChangeSystemUniverse0110Chapter688Soft = {
   id: "01a0d5e3-a3b5-73f7-893a-45d1f2cab10f",
   type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0110-chapter-688-soft",
+  ownProgress: 2039,
   position: 110,
   publishedAt: "2026-09-24",
   unit: "unit/words",
