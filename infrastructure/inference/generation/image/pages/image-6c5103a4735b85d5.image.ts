@@ -4,6 +4,8 @@ export const image6c5103a4735b85d5 = {
   id: "01a0e9ef-cbb0-7c9d-b60b-4d3e34ed8383",
   type: "page-type/image",
   slug: "image-6c5103a4735b85d5",
+  title: "Legs Up, Cap Down, Earbuds In",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
