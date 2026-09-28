@@ -43,4 +43,5 @@ export const otherwhere00071 = {
     "lore/otherwhere-alan",
     "place/otherwhere-main-hall",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
