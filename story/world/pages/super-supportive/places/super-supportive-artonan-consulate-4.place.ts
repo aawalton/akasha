@@ -6,6 +6,12 @@ export const superSupportiveArtonanConsulate4 = {
   slug: "super-supportive-artonan-consulate-4",
   title: "Artonan Consulate 4",
   world: "world/super-supportive",
+  facts: [
+    {
+      fact: "Artonan Consulate 4, USA is Chicago's Artonan consulate, in a business district.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
   within: "place/otherwhere-iii-chicago",
   secrets: "jsonl",
 } as const satisfies Place
