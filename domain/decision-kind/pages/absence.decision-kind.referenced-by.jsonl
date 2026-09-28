@@ -1840,6 +1840,7 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-needs.world-check.ts","id":"01a0e9f1-97bd-70ba-b847-4b5b04c1bc0a"}
 {"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/metrics/attributes/skill/otherwhere-iv-skill.page-type.ts","id":"01a0e9f2-33a2-7aea-8e04-8f2eb5b5bf1e"}
 {"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/metrics/resources/purse/otherwhere-iv-purse.page-type.ts","id":"01a0e9f3-1922-78de-a215-d8c14dc07dbd"}
+{"propertySlug":"decision-kind","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/checks/otherwhere-v-action-check.world-check.ts","id":"01a0e9f3-a87d-73ab-82ab-1f72b581e333"}
 {"propertySlug":"decision-kind","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/checks/otherwhere-the-library-standing.world-check.ts","id":"01a0e365-14b9-7ffb-bde4-00f1f3dbfa23"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-dating-game/mechanics/checks/the-dating-game-closeness-scoring.world-check.ts","id":"01a0dee4-f4b7-70af-bd38-a35274387d8c"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attack-resolution.world-check.ts","id":"01a0de1c-e954-742b-969b-e66eaf0b328e"}
