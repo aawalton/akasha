@@ -2,6 +2,7 @@ import type { Page } from "akasha/page/page.page-type.types.ts"
 import type { Title } from "akasha/page/properties/title.text-property.types.ts"
 import type { AliasOf } from "akasha/story/world/characters/properties/alias-of.relation-property.types.ts"
 import type { CharacterClaims } from "akasha/story/world/characters/properties/character-claims.page-property-entry.types.ts"
+import type { CoverDescription } from "akasha/story/world/characters/properties/cover-description.text-property.types.ts"
 import type { EventCount } from "akasha/story/world/characters/properties/event-count.number-property.types.ts"
 import type { FirstChapter } from "akasha/story/world/characters/properties/first-chapter.number-property.types.ts"
 import type { LastChapter } from "akasha/story/world/characters/properties/last-chapter.number-property.types.ts"
@@ -21,4 +22,5 @@ export type WorldCharacter = Page & {
   characterClaims?: CharacterClaims
   aliasOf?: AliasOf
   mergedInto?: MergedInto
+  coverDescription?: CoverDescription
 }

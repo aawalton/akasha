@@ -31,6 +31,7 @@ export const worldCharacter = {
     "text-property/claimed-by",
     "text-property/epistemic",
     "text-property/source-chapter",
+    "text-property/cover-description",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -43,6 +44,7 @@ export const worldCharacter = {
     { pageProperty: "page-property-entry/character-claims", required: false, many: false },
     { pageProperty: "relation-property/alias-of", required: false, many: false },
     { pageProperty: "relation-property/merged-into", required: false, many: false },
+    { pageProperty: "text-property/cover-description", required: false, many: false },
   ],
   decisions: [
     {
