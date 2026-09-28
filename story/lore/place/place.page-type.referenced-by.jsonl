@@ -32,6 +32,7 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-giantsrest-continent.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-giantsrest.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-halsmet.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-helmaris.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-itonia.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-kankus.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-litcliff.place.ts","typed":true,"deferred":false}
@@ -41,6 +42,7 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-sea-of-grass.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-sussus-vault.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-taeols-tower.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-the-blight.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-tomb-of-sklias.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-yrosa.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-zemis-scriptorium.place.ts","typed":true,"deferred":false}
