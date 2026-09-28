@@ -7,7 +7,17 @@ export const theDatingGame00052 = {
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 52,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action: "\"Hi there, I'm Alan, what's your name?\"",
+  beats: [
+    "He says, \"Hi there, I'm Alan. What's your name?\"",
+    '"Talia," she says softly, as if she were handing the name over with care.',
+    "She tips up the book so he can see it: an old Bible, its edges gone soft with use, open to Isaiah.",
+    '"I read out here on Sunday afternoons. It\'s quiet enough to hear it."',
+    "A drop gathers at the end of a dark strand of her hair and hangs there, never falling.",
+    "She sees him notice it, and the corner of her mouth curves; she doesn't explain.",
+    "Her eyes go back to the page, and she reads the line under her finger half aloud, low.",
+    "\"'Awake and sing, ye that dwell in dust: for thy dew is as the dew of herbs.'\"",
+  ],
   lore: ["lore/the-dating-game-talia"],
 } as const satisfies StoryTurnPlayed
