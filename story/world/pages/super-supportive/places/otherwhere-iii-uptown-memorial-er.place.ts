@@ -35,6 +35,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "A patient with no ID is logged under a placeholder name until she gives one.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Staff must report abuse of children and elders, but not of an adult who does not ask.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
