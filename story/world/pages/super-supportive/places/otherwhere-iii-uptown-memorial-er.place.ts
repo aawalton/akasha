@@ -127,6 +127,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "A birth date of January 22, 2016 makes a patient twenty-one, nine days past her birthday.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Twenty-one sits easily with her face; Marcus takes the fix, corrects the chart and goes gentle.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
