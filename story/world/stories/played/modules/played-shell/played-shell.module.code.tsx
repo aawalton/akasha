@@ -18,7 +18,6 @@ import {
   type ShapeDescriptor,
 } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import type { ChapterProseTitles } from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
 
 import type { PanelRun } from "akasha/story/ui/played-panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import {
@@ -83,8 +82,6 @@ const RUN = namedAs(panelPlace.slug, run.slug, null)
 const STORY_KEY = "story"
 
 const ONE = 1
-
-const TURN_TITLES: ChapterProseTitles = "hidden"
 
 function shapeOf(list: PlayedList): ShapeDescriptor {
   return namedShapeDescriptor(list.pageTypeSlug, list.named)
@@ -226,12 +223,11 @@ function PlayedStory({
       player,
       beats: undefined,
       earlier: tail.earlier,
-      titles: runIsTurns ? TURN_TITLES : undefined,
       pastTurns: undefined,
       gameExternalId: externalId,
       submitPlayerAction: coordinatorAgent === undefined ? undefined : sendAction,
     }),
-    [clock, upcoming, envelope, turnCovers, player, tail, externalId, runIsTurns, coordinatorAgent]
+    [clock, upcoming, envelope, turnCovers, player, tail, externalId, coordinatorAgent]
   )
 
   if (chapters.isLoading || turns.isLoading) return null

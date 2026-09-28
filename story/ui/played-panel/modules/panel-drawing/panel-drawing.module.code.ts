@@ -1,7 +1,4 @@
-import type {
-  ChapterProsePastTurns,
-  ChapterProseTitles,
-} from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
+import type { ChapterProsePastTurns } from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
 import type { SessionEnvelope } from "akasha/story/ui/modules/client-envelope/client-envelope.module.code.ts"
 import type { ClientBeat } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
@@ -27,7 +24,6 @@ export type PanelRun = {
   readonly player: string
   readonly beats: readonly ClientBeat[] | null | undefined
   readonly earlier: number
-  readonly titles: ChapterProseTitles | undefined
   readonly pastTurns: ChapterProsePastTurns | undefined
   readonly gameExternalId: string | undefined
   readonly submitPlayerAction: SubmitPlayerAction | undefined
