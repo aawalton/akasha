@@ -184,6 +184,12 @@ describe("playedClockOf", () => {
     expect(playedClockOf(rows)).toBeNull()
     expect(playedClockOf([])).toBeNull()
   })
+
+  test("counts the days from the day the story opens on rather than naming a date", () => {
+    const rows = [turnPage({ id: "a", position: 1, endsAt: "2026-10-02T21:15:00.000Z" })]
+    expect(playedClockOf(rows, "2026-09-26T00:00:00.000Z")).toBe("Day 7 · 9:15 PM")
+    expect(playedClockOf(rows, "2026-10-02T00:00:00.000Z")).toBe("Day 1 · 9:15 PM")
+  })
 })
 
 describe("playedUpcomingOf", () => {
@@ -201,6 +207,13 @@ describe("playedUpcomingOf", () => {
       { id: "soon", when: "Saturday, October 3 · 11:00 AM", title: "Meet soon" },
       { id: "late", when: "Saturday, October 10 · 7:00 PM", title: "Meet late" },
     ])
+  })
+
+  test("says an appointment's day as a count from the day the story opens on", () => {
+    const rows = [meeting("soon", "2026-10-03T11:00:00.000Z")]
+    expect(playedUpcomingOf(rows, ready, "2026-09-26T00:00:00.000Z")[0]?.when).toBe(
+      "Day 8 · 11:00 AM"
+    )
   })
 
   test("lists nothing where the turns carry no time", () => {

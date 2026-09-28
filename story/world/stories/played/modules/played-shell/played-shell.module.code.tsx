@@ -178,7 +178,8 @@ function PlayedStory({
   const characters = usePages(characterOptions)
   const characterAddress = namedAs(characterPlayer.slug, textIn(characters.rows[0]?.slug), null)
   const lastTurn = useMemo(() => lastTurnOf(ready), [ready])
-  const clock = useMemo(() => playedClockOf(ready), [ready])
+  const opensAt = data.opensAt
+  const clock = useMemo(() => playedClockOf(ready, opensAt), [ready, opensAt])
   const appointmentOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
       pageTypeSlug: PLAYED_APPOINTMENT_PAGE_TYPE_SLUG,
@@ -190,8 +191,8 @@ function PlayedStory({
   )
   const appointments = usePages(appointmentOptions)
   const upcoming = useMemo(
-    () => playedUpcomingOf(appointments.rows, ready),
-    [appointments.rows, ready]
+    () => playedUpcomingOf(appointments.rows, ready, opensAt),
+    [appointments.rows, ready, opensAt]
   )
   const filed = usePlayedState(characterAddress, lastTurn)
   const characterName = textIn(characters.rows[0]?.title)

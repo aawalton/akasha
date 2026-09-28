@@ -59,6 +59,7 @@
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"spotify-account-retry-allowed-at","propertySlug":"retry-allowed-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"spotify-account-window-started-at","propertySlug":"window-started-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"started-at","propertySlug":"started-at","fileName":null,"folderName":null}
+{"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"story-opens-at","propertySlug":"opens-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"terminal-alerted-at","propertySlug":"terminal-alerted-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"terminal-at","propertySlug":"terminal-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"to-do-completed-at","propertySlug":"to-do-completed-at","fileName":null,"folderName":null}

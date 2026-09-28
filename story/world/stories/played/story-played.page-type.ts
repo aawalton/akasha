@@ -37,6 +37,7 @@ export const storyPlayed = {
     "multi-relation-property/panels",
     "text-property/chapter-break",
     "text-property/coordinator-agent",
+    "instant-property/story-opens-at",
   ],
   decisions: [
     {
@@ -85,5 +86,6 @@ export const storyPlayed = {
     { pageProperty: "text-property/external-id", required: false, many: false },
     { pageProperty: "text-property/coordinator-agent", required: false, many: false },
     { pageProperty: "text-property/chapter-break", required: false, many: false },
+    { pageProperty: "instant-property/story-opens-at", required: false, many: false },
   ],
 } as const satisfies PageType

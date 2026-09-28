@@ -157,9 +157,18 @@ function instantIn(value: unknown): Date | null {
   return Number.isNaN(at.getTime()) ? null : at
 }
 
-function clockSaid(at: Date): string {
+const DAY_MILLISECONDS = 86_400_000
+
+function dayStarting(at: Date): number {
+  return Date.UTC(at.getUTCFullYear(), at.getUTCMonth(), at.getUTCDate())
+}
+
+function clockSaid(at: Date, opensAt: Date | null): string {
   const part = new Map(PLAYED_CLOCK.formatToParts(at).map((one) => [one.type, one.value]))
-  const day = `${part.get("weekday")}, ${part.get("month")} ${part.get("day")}`
+  const day =
+    opensAt === null
+      ? `${part.get("weekday")}, ${part.get("month")} ${part.get("day")}`
+      : `Day ${(dayStarting(at) - dayStarting(opensAt)) / DAY_MILLISECONDS + 1}`
   return `${day} · ${part.get("hour")}:${part.get("minute")} ${part.get("dayPeriod")}`
 }
 
@@ -167,9 +176,9 @@ function endedAt(ready: readonly Page[]): Date | null {
   return instantIn(playedOrder(ready).at(-1)?.[PLAYED_TURN_ENDS_AT_KEY])
 }
 
-export function playedClockOf(ready: readonly Page[]): string | null {
+export function playedClockOf(ready: readonly Page[], opensAt: unknown = null): string | null {
   const at = endedAt(ready)
-  return at === null ? null : clockSaid(at)
+  return at === null ? null : clockSaid(at, instantIn(opensAt))
 }
 
 export function playedAppointmentsListOf(characterAddress: string): PlayedList {
@@ -182,7 +191,8 @@ export function playedAppointmentsListOf(characterAddress: string): PlayedList {
 
 export function playedUpcomingOf(
   appointments: readonly Page[],
-  ready: readonly Page[]
+  ready: readonly Page[],
+  opensAt: unknown = null
 ): readonly PlayedAppointment[] {
   const now = endedAt(ready)
   if (now === null) return []
@@ -194,7 +204,7 @@ export function playedUpcomingOf(
   upcoming.sort((one, two) => one.at.getTime() - two.at.getTime())
   return upcoming.map(({ at, row }) => ({
     id: row.id,
-    when: clockSaid(at),
+    when: clockSaid(at, instantIn(opensAt)),
     title: playedTitleOf(row),
   }))
 }

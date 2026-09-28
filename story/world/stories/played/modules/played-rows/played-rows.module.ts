@@ -57,6 +57,14 @@ export const playedRows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A story stating the day it opens on has its days said as a count from that day.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story stating no such day has its days said as calendar dates.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The appointments listed are those after that end time, soonest first.",
     },
     {
