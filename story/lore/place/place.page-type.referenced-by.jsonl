@@ -3,7 +3,7 @@
 {"propertySlug":"import","fileName":"place.page-type.ts","path":"story/lore-disclosure/modules/lore-rereading/lore-rereading.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.ts","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"place.page-type.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/properties/otherwhere-the-library-room-exits.computed-property.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/properties/otherwhere-the-library-room-exits.computed-property.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/beware-of-chicken/places/otherwhere-iv-ash-forest.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/beware-of-chicken/places/otherwhere-iv-azure-hills.place.ts","typed":true,"deferred":false}
@@ -181,7 +181,7 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/places/otherwhere-the-library-kitchen.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/places/otherwhere-the-library-main-hall.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/places/otherwhere-the-library-quarters.place.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/properties/otherwhere-the-library-room-exits.computed-property.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/properties/otherwhere-the-library-room-exits.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-glassgrass-flats.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/personas/places/date-night-free-play-full-combo.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/personas/places/dragons-and-dungeons-caer-arianrhod.place.ts","typed":true,"deferred":false}
@@ -302,4 +302,4 @@
 {"propertySlug":"target-page-type","path":"story/lore/place/properties/place-within.relation-property.ts","id":"01a0d42e-f4fd-7cd3-9844-8ecb11ed1377"}
 {"propertySlug":"target-page-type","path":"story/world/characters/properties/character-place.relation-property.ts","id":"01a0d43f-8e7c-7f57-8ab2-ee210ac0f257"}
 {"propertySlug":"target-page-type","path":"story/world/mechanics/items/story-item/properties/item-place.relation-property.ts","id":"01a0d435-8b07-7b3c-95a7-8e2626e6ae38"}
-{"propertySlug":"target-page-type","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/properties/otherwhere-the-library-room-place.relation-property.ts","id":"01a0e859-c246-7a14-a0e6-042516b42bb9"}
+{"propertySlug":"target-page-type","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/properties/otherwhere-the-library-room-place.relation-property.ts","id":"01a0e859-c246-7a14-a0e6-042516b42bb9"}

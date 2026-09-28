@@ -1,0 +1,32 @@
+import type { StoryTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.types.ts"
+
+export const otherwhereTheLibrary00065 = {
+  id: "01a0e81f-eacb-780f-9733-f45c4e027ae8",
+  type: "page-type/story-turn-played",
+  slug: "otherwhere-the-library-00-065",
+  cover: "image/image-471abef8d8d5c8ef",
+  ownLength: 152,
+  unit: "unit/words",
+  partOfCollections: ["story-played/otherwhere-i"],
+  position: 65,
+  prose: "txt",
+  characters: ["character-player/otherwhere-alan"],
+  stepStatus: "step-status/player",
+  action: "I go back to the basement and sync with the core again.",
+  beats: [
+    "Nala winds down the spiral staircase into the round chamber, the amber light fading behind her.",
+    "She crosses to the trunk and lays her palms on the two pulsing knots of light.",
+    "The burn runs up her arms and through her veins, and the chamber drops away.",
+    "She sees the main hall long ago, every shelf full, lamps lit gold, in one quiet night.",
+    "Then books tear from the shelves by the hundred and scatter, and no hand she can see throws them.",
+    "The vision thins; she is back at the trunk, arms tingling, breath ragged, unhurt.",
+    "A window opens: Synchronization Complete.",
+    "A second window unfolds beside the tasks, new to her: a map of the Library.",
+    "Rooms with power glow lit on it: the main hall, the kitchen, the quarters, the core below.",
+    "The rest lies dark, the hospital wing among it.",
+  ],
+  lore: ["lore/otherwhere-the-library-universe"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
+  endsAt: "2026-09-28T18:10:00.000Z",
+} as const satisfies StoryTurnPlayed

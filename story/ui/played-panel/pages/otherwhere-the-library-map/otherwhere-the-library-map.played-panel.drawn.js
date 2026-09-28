@@ -4,7 +4,7 @@ const { panelBy } =
   ]
 const { OtherwhereMapPanel } =
   globalThis.akashaDrawing[
-    "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/modules/otherwhere-the-library-map/otherwhere-the-library-map.module.code.tsx"
+    "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/modules/otherwhere-the-library-map/otherwhere-the-library-map.module.code.tsx"
   ]
 
 export const Panel = panelBy(OtherwhereMapPanel, ({ run }) => ({ player: run.player }))

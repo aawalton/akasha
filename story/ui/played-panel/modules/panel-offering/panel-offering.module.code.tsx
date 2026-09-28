@@ -13,7 +13,7 @@ import {
   metricLabel,
   poolPanelBy,
 } from "akasha/story/ui/played-panel/modules/pool-panel/pool-panel.module.code.tsx"
-import { OtherwhereMapPanel } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/modules/otherwhere-the-library-map/otherwhere-the-library-map.module.code.tsx"
+import { OtherwhereMapPanel } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/modules/otherwhere-the-library-map/otherwhere-the-library-map.module.code.tsx"
 import { TOWER_WORKINGS } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-derived-beside/tower-derived-beside.module.code.ts"
 import { towerAttributePoint } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/resources/tower-attribute-point/tower-attribute-point.page-type.ts"
 import { towerHealth } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/resources/tower-health/tower-health.page-type.ts"
@@ -42,7 +42,7 @@ const OFFERED: Readonly<Record<string, Readonly<Record<string, unknown>>>> = {
 
   "akasha/story/ui/modules/story-so-far/story-so-far.module.code.tsx": { StorySoFar },
   "akasha/story/ui/modules/time-panel/time-panel.module.code.tsx": { TimePanel },
-  "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/modules/otherwhere-the-library-map/otherwhere-the-library-map.module.code.tsx":
+  "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/modules/otherwhere-the-library-map/otherwhere-the-library-map.module.code.tsx":
     { OtherwhereMapPanel },
   "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-derived-beside/tower-derived-beside.module.code.ts":
     { TOWER_WORKINGS },

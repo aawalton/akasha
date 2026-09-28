@@ -114,7 +114,7 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"person/sms-consent/properties/sms-consent-consent.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"story/world/mechanics/properties/claimed.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"story/world/mechanics/properties/effect-claimed.boolean-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/properties/otherwhere-the-library-room-lit.boolean-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/properties/otherwhere-the-library-room-lit.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/addon/properties/addon-library.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/champion-point/temper-champion-star/properties/is-slottable.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/companion/equipment-quality/properties/default-quality.boolean-property.ts","typed":true,"deferred":false}
