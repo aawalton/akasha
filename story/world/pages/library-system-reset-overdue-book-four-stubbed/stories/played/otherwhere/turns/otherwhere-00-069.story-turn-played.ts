@@ -20,4 +20,5 @@ export const otherwhere00069 = {
     "By the Counter, the first golem's arm folds back down, empty, and it stoops for the next book.",
   ],
   lore: ["lore/otherwhere-golems"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
