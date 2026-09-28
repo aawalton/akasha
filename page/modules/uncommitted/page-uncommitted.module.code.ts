@@ -12,6 +12,7 @@ import {
   writeFileSync,
 } from "node:fs"
 import { basename, dirname, join } from "node:path"
+import { errnoCodeOf } from "akasha/code/process/modules/pid-signal/pid-signal.module.code.ts"
 import {
   alive,
   holderOf,
@@ -34,6 +35,8 @@ const HOLDER = "held-by"
 
 const LOCK = "lock"
 
+const HELD_ALREADY = "EEXIST"
+
 const WAITED = 5
 
 const WAITED_AT_MOST = 20000
@@ -54,8 +57,13 @@ function abandoned(lock: string, mark: string): boolean {
 function taken(lock: string, mine: string): boolean {
   try {
     mkdirSync(lock)
-  } catch {
-    return false
+  } catch (thrown) {
+    if (errnoCodeOf(thrown) === HELD_ALREADY) return false
+    throw new Error(
+      `\`${lock}\` could not be made, and no writer has it, so waiting would not help: ` +
+        String(thrown),
+      { cause: thrown }
+    )
   }
   try {
     writeFileSync(join(lock, HOLDER), mine, "utf8")

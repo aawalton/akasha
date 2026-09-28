@@ -86,6 +86,10 @@ export const pageUncommitted = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A create failing for any reason but the lock being there is refused at once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The lock is released however the act inside the lock ends.",
     },
     {

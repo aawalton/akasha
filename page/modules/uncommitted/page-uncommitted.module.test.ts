@@ -266,6 +266,11 @@ test("a lock whose pid names another process than the one that took it is no loc
   expect(uncommittedIn(root, PAGE)).toEqual({ held: "one" })
 })
 
+test("a lock not made is refused at once", () => {
+  const at = `akasha/one/${"a".repeat(232)}.seat.ts`
+  expect(() => mergeUncommitted(rooted(), at, {})).toThrow(/could not be made/)
+})
+
 test("a lock naming no holder that can be read wedges nothing once it has stood too long", () => {
   const root = rooted()
   const lock = locked(root, "nothing a holder reads from")
