@@ -18,7 +18,7 @@ export const otherwhereBlackShore = {
     },
     {
       fact: "The black sand holds the sun's heat and burns bare feet by midday.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
     },
     {
       fact: "Trees like palms, their leaves wrong for palms, line the top of the beach before thick forest.",
@@ -36,9 +36,6 @@ export const otherwhereBlackShore = {
       fact: "Gulls cry over the surf, and small crabs run at the water's edge.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
     },
-    {
-      fact: "No fresh water runs on the open beach.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+    { fact: "No fresh water runs on the open beach.", knowers: ["lore-disclosure/game-master"] },
   ],
 } as const satisfies Place
