@@ -52,6 +52,14 @@ export const otherwhereVDavrar = {
       fact: "Davrar is said to be the size of a thousand worlds.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Davrar likely holds hundreds of billions of people across its continents.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The world seen above in the sky is the far side of Davrar itself.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
