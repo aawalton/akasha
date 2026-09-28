@@ -2,6 +2,7 @@
 {"propertySlug":"cover","path":"persona/pages/mari/mari.persona.ts","id":"019ef06e-4e9f-7e1c-8225-bf9113a422ed"}
 {"propertySlug":"cover-images","path":"persona/pages/mari/mari.persona.ts","id":"019ef06e-4e9f-7e1c-8225-bf9113a422ed"}
 {"propertySlug":"import","fileName":"image-0d953de65e55acaf.image.ts","path":"page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.test.tsx","typed":false,"deferred":false}
+{"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-7023f531a0919c46.image.ts","id":"01a0e933-9277-7050-9f08-a09f15e5a4f3"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-841bd109760b1f44.image.ts","id":"01a0c5f3-7a99-750f-8a3e-fedfce3e5fc0"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-ba3a155516bdf76e.image.ts","id":"01a0c5f3-7a99-7b3d-9767-56efb17cb72c"}
 {"propertySlug":"mobile-wallpaper","path":"persona/pages/mari/mari.persona.ts","id":"019ef06e-4e9f-7e1c-8225-bf9113a422ed"}
