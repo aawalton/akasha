@@ -39,4 +39,5 @@ export const haremHotel00002 = {
   ],
   lore: ["lore/harem-hotel-odile"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
