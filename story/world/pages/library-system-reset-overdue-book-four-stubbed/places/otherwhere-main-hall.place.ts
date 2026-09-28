@@ -295,14 +295,7 @@ export const otherwhereMainHall = {
       fact: "With Shelf Sight open, each book's right shelf glows faintly across the hall.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "Nala reshelved eight books by Shelf Sight, and the hall's gold light brightened a shade.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
+
     {
       fact: "Nala reshelved all the heaps beside the counter, the hall's gold light edging brighter.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
