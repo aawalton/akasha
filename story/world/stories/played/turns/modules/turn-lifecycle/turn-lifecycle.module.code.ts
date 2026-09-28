@@ -196,13 +196,15 @@ export function noticeOf(
   )
 }
 
-function linesRefused(what: string, lines: readonly string[], noun: Noun): string | null {
+function linesRefused(one: string, lines: readonly string[], noun: Noun): string | null {
+  const what = `${one}s`
   if (lines.length > MOST_LINES) {
     return `a ${noun} holds at most ${MOST_LINES} ${what}, and this makes ${lines.length}`
   }
-  const long = lines.find((one) => one.length > LONGEST_LINE)
-  if (long === undefined) return null
-  return `each of a ${noun}'s ${what} is at most ${LONGEST_LINE} characters, and this one runs to ${long.length}: ${long}`
+  const at = lines.findIndex((line) => line.length > LONGEST_LINE)
+  if (at < 0) return null
+  const long = lines[at]?.length ?? 0
+  return `each of a ${noun}'s ${what} is at most ${LONGEST_LINE} characters, and ${one} ${at + 1} of ${lines.length} runs to ${long}`
 }
 
 function unaddressed(what: string, addresses: readonly string[]): string | null {
@@ -262,7 +264,7 @@ function fromWorldBuilder(held: Held, lore: readonly string[]): Advanced {
 function fromGameMaster(held: Held, beats: readonly string[]): Advanced {
   if (beats.length === 0)
     return { refused: "a game master's advance hands in beats, and this has none" }
-  const wrong = linesRefused("beats", beats, nounOf(held))
+  const wrong = linesRefused("beat", beats, nounOf(held))
   if (wrong !== null) return { refused: wrong }
   return moved(WRITER, { beats })
 }
@@ -297,7 +299,7 @@ function fromReviewer(
     }
   }
   const issues = [...held.issues, ...found]
-  const wrong = linesRefused("issues", issues, noun)
+  const wrong = linesRefused("issue", issues, noun)
   if (wrong !== null) return { refused: wrong }
   const reviewedBy = [...held.reviewedBy, reviewer]
   const values = {

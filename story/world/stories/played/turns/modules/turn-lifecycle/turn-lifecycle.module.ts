@@ -84,6 +84,10 @@ export const turnLifecycle = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A refusal names a beat or an issue by its place, and never quotes it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A notice also names each lore page its seat read that has changed since, by path alone.",
     },
