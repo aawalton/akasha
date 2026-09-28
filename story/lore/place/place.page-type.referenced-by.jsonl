@@ -18,6 +18,8 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-chokiz-estate.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-drozahn.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-elothia.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-ensby.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-esebus-central-tower.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-esebus-coastal-mountains.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-esebus-continent.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-esebus.place.ts","typed":true,"deferred":false}
@@ -30,11 +32,13 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-giantsrest.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-halsmet.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-itonia.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-kankus.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-litcliff.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-monastery-of-quaz.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-old-gemore.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-sansal.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-sea-of-grass.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-sussus-vault.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-taeols-tower.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-tomb-of-sklias.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-yrosa.place.ts","typed":true,"deferred":false}
