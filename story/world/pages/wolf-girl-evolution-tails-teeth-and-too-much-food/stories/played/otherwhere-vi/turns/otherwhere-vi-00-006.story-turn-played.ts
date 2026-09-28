@@ -4,13 +4,14 @@ export const otherwhereVi00006 = {
   id: "01a0ea57-6ad0-7c2d-b410-9c6dcd93d316",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vi-00-006",
+  cover: "image/image-2b6af1f0944def25",
   ownLength: 314,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],
   position: 6,
   prose: "txt",
   characters: ["character-player/otherwhere-vi-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I circle wide around the boars and continue downstream",
   beats: [
     "Nala backs away from the mud and turns up the west slope into the pines, to go round wide.",
@@ -37,6 +38,6 @@ export const otherwhereVi00006 = {
   ],
   lore: ["place/otherwhere-vi-hollow-stream"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T22:17:00.000Z",
 } as const satisfies StoryTurnPlayed
