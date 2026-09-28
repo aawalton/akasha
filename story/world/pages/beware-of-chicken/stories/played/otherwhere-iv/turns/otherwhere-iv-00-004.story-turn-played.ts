@@ -10,7 +10,7 @@ export const otherwhereIv00004 = {
   position: 4,
   prose: "txt",
   characters: ["character-player/otherwhere-iv-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     '"I do not have all knowledge, but I might still be able to help. Let us talk while we walk. What possibilities have you considered? What have you eliminated and how?"',
   beats: [
@@ -24,9 +24,10 @@ export const otherwhereIv00004 = {
     '"All of them up here, on my terraces nearest the bend. Nobody else\'s."',
     '"First I thought it was the Fang boys, drunk, playing a trick. Loud young fools."',
     '"But a wall went the night they were both down in Lanqiao. So it wasn\'t them."',
-    '"Then I thought rain, or crabs digging in the banks. But a wall that rots slumps."',
-    "\"These aren't slumped. They're torn open, like something shoved straight through.\"",
-    '"And the rice by the gap is eaten. Not trampled. Eaten, roots and all, pulled up out of the mud."',
+    '"Then I thought rain, or crabs digging in the banks. But a rotten wall just sags and slides."',
+    '"These are torn open, the mud shoved out in a fan, like something went straight through."',
+    '"And by each gap it\'s not only trampled flat. Whole clumps are gone, pulled up and eaten."',
+    '"Roots and all. That corner up there, where it\'s all torn, that was the same."',
     '"Once I found a print in the mud. Deep. Split in two, like a cloven hoof."',
     'He holds up his hand, fingers spread wide. "This broad."',
     '"I said a buffalo got loose. But nobody\'s buffalo is loose at night. I asked every house."',
