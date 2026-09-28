@@ -1,5 +1,6 @@
-{"propertySlug":"drawn-in","path":"story/ui/played-panel/pages/character-cover/character-cover.played-panel.ts","id":"01a0de7f-617b-77b3-9594-4832f61e2915"}
-{"propertySlug":"drawn-in","path":"story/ui/played-panel/pages/otherwhere-sheet/otherwhere-sheet.played-panel.ts","id":"01a0e805-b287-74c3-b0c4-f8db3327ac52"}
+{"propertySlug":"drawn-in","path":"story/ui/played-panel/pages/other-characters/other-characters.played-panel.ts","id":"01a0e81f-b53a-7ac1-a0c7-8ad8ee82a3aa"}
+{"propertySlug":"drawn-in","path":"story/ui/played-panel/pages/otherwhere-player-character/otherwhere-player-character.played-panel.ts","id":"01a0e81f-b53b-713a-a982-cd2e49fd35ad"}
+{"propertySlug":"drawn-in","path":"story/ui/played-panel/pages/player-character/player-character.played-panel.ts","id":"01a0e81f-b53b-7dba-96d1-85a5175ffc7c"}
 {"propertySlug":"drawn-in","path":"story/ui/played-panel/pages/quest-list/quest-list.played-panel.ts","id":"01a0c4a3-2bf6-71d5-bd9c-5f9b15cc9ae4"}
 {"propertySlug":"drawn-in","path":"story/ui/played-panel/pages/scene-cover/scene-cover.played-panel.ts","id":"01a0e7ff-1168-797c-8a26-c0ae6e03e8e5"}
 {"propertySlug":"drawn-in","path":"story/ui/played-panel/pages/time/time.played-panel.ts","id":"01a0e801-8868-7da3-8c75-fe90bcef479b"}

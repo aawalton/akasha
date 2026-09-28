@@ -31,7 +31,9 @@ import {
   charactersIn,
   slugsOf,
 } from "akasha/story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx"
-import { characterCover } from "akasha/story/ui/played-panel/pages/character-cover/character-cover.played-panel.ts"
+import { otherCharacters } from "akasha/story/ui/played-panel/pages/other-characters/other-characters.played-panel.ts"
+import { otherwherePlayerCharacter } from "akasha/story/ui/played-panel/pages/otherwhere-player-character/otherwhere-player-character.played-panel.ts"
+import { playerCharacter } from "akasha/story/ui/played-panel/pages/player-character/player-character.played-panel.ts"
 import { playedPanel } from "akasha/story/ui/played-panel/played-panel.page-type.ts"
 import { characters } from "akasha/story/world/characters/properties/characters.multi-relation-property.ts"
 import {
@@ -101,7 +103,11 @@ async function seedsFor(
   return Object.fromEntries(answered.filter((one): one is Answered => one !== null))
 }
 
-const CHARACTER_COVER_PANEL = namedAs(playedPanel.slug, characterCover.slug, null)
+const COVER_PANELS: readonly string[] = [
+  playerCharacter.slug,
+  otherwherePlayerCharacter.slug,
+  otherCharacters.slug,
+].map((slug) => namedAs(playedPanel.slug, slug, null))
 
 type Covered = { readonly seeds: Seeds; readonly covers: readonly string[] }
 
@@ -131,7 +137,7 @@ async function coveredBy(
   const unchanged: Covered = { seeds, covers: [] }
   if (pageTypeSlug !== storyPlayed.slug || slug === null) return unchanged
   const story = rowsIn(seeds[filePagesPath(pageTypeSlug, [], { by: "id", values: [id] })])[0]
-  if (!stringsIn(story?.panels).includes(CHARACTER_COVER_PANEL)) return unchanged
+  if (!stringsIn(story?.panels).some((one) => COVER_PANELS.includes(one))) return unchanged
   const lists = playedListsOf(namedAs(pageTypeSlug, slug, null))
   const turnsAt = filePagesPath(lists.turns.pageTypeSlug, [], lists.turns.named)
   const latest = playedTail(playedReady(rowsIn(seeds[turnsAt]))).drawn.at(-1)

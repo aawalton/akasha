@@ -12,10 +12,10 @@ export const otherwhere = {
   chapterBreak: "A task the Library set is done.",
   opensAt: "2026-09-26T00:00:00.000Z",
   panels: [
-    "played-panel/character-cover",
+    "played-panel/otherwhere-player-character",
+    "played-panel/other-characters",
     "played-panel/scene-cover",
     "played-panel/time",
-    "played-panel/otherwhere-sheet",
     "played-panel/story-so-far",
   ],
 } as const satisfies StoryPlayed

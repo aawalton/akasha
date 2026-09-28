@@ -1,12 +1,12 @@
 import type { PlayedPanel } from "akasha/story/ui/played-panel/played-panel.page-type.types.ts"
 
-export const characterCover = {
-  id: "01a0de7f-617b-77b3-9594-4832f61e2915",
+export const otherCharacters = {
+  id: "01a0e81f-b53a-7ac1-a0c7-8ad8ee82a3aa",
   type: "page-type/played-panel",
-  slug: "character-cover",
-  definition: "the cover of each character the play is with now, the player's first",
+  slug: "other-characters",
+  definition: "the other characters the latest turn names, each named above its picture",
   code: "tsx",
   drawn: "js",
   place: "panel-place/aside",
-  position: 10,
+  position: 20,
 } as const satisfies PlayedPanel

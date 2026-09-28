@@ -1,12 +1,12 @@
 import type { PlayedPanel } from "akasha/story/ui/played-panel/played-panel.page-type.types.ts"
 
-export const otherwhereSheet = {
-  id: "01a0e805-b287-74c3-b0c4-f8db3327ac52",
+export const playerCharacter = {
+  id: "01a0e81f-b53b-7dba-96d1-85a5175ffc7c",
   type: "page-type/played-panel",
-  slug: "otherwhere-sheet",
-  definition: "an Otherwhere character's sheet, which shows no stats",
+  slug: "player-character",
+  definition: "the player character's name above that character's cover, for a game with no sheet",
   code: "tsx",
   drawn: "js",
   place: "panel-place/aside",
-  position: 11,
+  position: 10,
 } as const satisfies PlayedPanel
