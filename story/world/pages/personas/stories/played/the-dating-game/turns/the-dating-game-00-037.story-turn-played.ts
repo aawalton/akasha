@@ -24,5 +24,6 @@ export const theDatingGame00037 = {
     "\"I'm due at a bedside at eight. I'll have to go soon.\"",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  endsAt: "2026-09-26T19:42:00.000Z",
 } as const satisfies StoryTurnPlayed
