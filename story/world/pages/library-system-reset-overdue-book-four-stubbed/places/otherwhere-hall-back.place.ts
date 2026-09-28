@@ -92,7 +92,6 @@ export const otherwhereHallBack = {
       fact: "Roused bookworms stir and listen, but leave their heaps only for a Librarian within twenty feet.",
       knowers: ["lore-disclosure/game-master"],
     },
-
     {
       fact: "Links can rake a bookworm with his claws in lynx form, at a cost in power.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -141,7 +140,6 @@ export const otherwhereHallBack = {
       fact: "A bookworm dragged onto a salt line is burned by it, and its thrashing scuffs a gap in the line.",
       knowers: ["lore-disclosure/game-master"],
     },
-
     {
       fact: "A broom's bristles sweep salt onto a bookworm from past the reach of its lunge.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -282,7 +280,6 @@ export const otherwhereHallBack = {
       fact: "A roll of the big bookworm's bulk can pin and crush whoever clings to it.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "Once a salt crust scrapes off, the honey beneath draws the big bookworm's teeth to it.",
       knowers: ["lore-disclosure/game-master"],
@@ -299,7 +296,6 @@ export const otherwhereHallBack = {
       fact: "Left alone, the big bookworm scrapes and gags off its salt and slowly recovers.",
       knowers: ["lore-disclosure/game-master"],
     },
-
     {
       fact: "Drawn by her honey, the big bookworm bites a senseless crusted Nala; the salt burns its mouth.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -323,6 +319,10 @@ export const otherwhereHallBack = {
     {
       fact: "Overnight the big bookworm gags off its salt and heals half the harm it has taken.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "By morning the big bookworm is chewing again, far back in the gloom.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],
 } as const satisfies Place

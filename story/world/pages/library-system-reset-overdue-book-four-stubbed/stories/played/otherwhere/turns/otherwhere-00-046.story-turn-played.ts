@@ -11,7 +11,7 @@ export const otherwhere00046 = {
   position: 46,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "“Not enough, eh? I guess I’m sleeping here tonight, try again in the morning.” I close my eyes and fall asleep.",
   beats: [
@@ -25,5 +25,5 @@ export const otherwhere00046 = {
   ],
   lore: ["place/otherwhere-hall-back"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
