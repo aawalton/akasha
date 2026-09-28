@@ -27,6 +27,7 @@ export const otherwhereRoom = {
   parts: [
     "boolean-property/otherwhere-room-lit",
     "multi-relation-property/otherwhere-room-shown-to",
+    "module/otherwhere-map",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },

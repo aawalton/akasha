@@ -2648,6 +2648,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/dice-throwing/dice-throwing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/linear-stat/linear-stat.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/strike-resolution/strike-resolution.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere/mechanics/rooms/modules/otherwhere-map/otherwhere-map.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/elements/modules/affinity-element/affinity-element.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-derived-beside/tower-derived-beside.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.ts","typed":true,"deferred":false}
