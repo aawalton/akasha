@@ -1,5 +1,6 @@
 "use client"
 
+import { PageLayout } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { PageCollectionContent } from "akasha/page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx"
 import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import type { PageDrawingProps } from "akasha/page/ui/component/modules/page-detail-content/page-detail-content.module.code.tsx"
@@ -12,7 +13,11 @@ export function Drawing({ pageTypeSlug, id, nextUnreadHref }: PageDrawingProps) 
   const slug = toPageDataJSON(page?.properties).slug
   return (
     <PageCollectionContent pageTypeSlug={pageTypeSlug} id={id} nextUnreadHref={nextUnreadHref}>
-      {typeof slug === "string" && slug !== "" ? <ChapterWriteButton story={slug} /> : null}
+      {typeof slug === "string" && slug !== "" ? (
+        <PageLayout.Header className="flex pt-4">
+          <ChapterWriteButton story={slug} />
+        </PageLayout.Header>
+      ) : null}
       <StoryChapters pageTypeSlug={pageTypeSlug} id={id} />
     </PageCollectionContent>
   )
