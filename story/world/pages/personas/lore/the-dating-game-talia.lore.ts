@@ -7,5 +7,11 @@ export const theDatingGameTalia = {
   title: "Talia",
   world: "world/personas",
   about: "persona/talia",
+  facts: [
+    {
+      fact: "Talia lives around the corner from Apple Avenue and reads scripture on her porch at dawn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
