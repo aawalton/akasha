@@ -110,6 +110,7 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-broken-continent.place.ts","id":"01a0e9f5-4f83-7488-8a6c-4db494b7b464"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-cave-of-the-seers.place.ts","id":"01a0e9f5-b469-742e-8fea-edd51cdbcb47"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-chokiz-estate.place.ts","id":"01a0e9f3-448b-7097-a3ef-67f13ae9df9b"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-driftmere.place.ts","id":"01a0e9f9-26eb-746b-8ad7-30c3fff3a77d"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-drozahn.place.ts","id":"01a0e9f3-448b-7c9e-96ed-f13cbd91cb57"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-elothia.place.ts","id":"01a0e9f5-4f84-75fa-b1fd-7b74ec7274ca"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-ensby.place.ts","id":"01a0e9f7-65b6-78bf-afe5-c566225aee49"}
@@ -119,6 +120,7 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-esebus.place.ts","id":"01a0e9f6-e89d-7339-81fa-4600ba312d3f"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-fern-hollow.place.ts","id":"01a0e9e4-706a-77ea-88bf-f538189767cf"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-fireface-pass.place.ts","id":"01a0e9f3-cc54-7cf2-9233-c90c6a30f49f"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-galdon.place.ts","id":"01a0e9f9-26ec-72e5-9c01-b910698ee875"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-gemore-adventurers-guild.place.ts","id":"01a0e9f4-7b7e-7559-85ef-6e720a9ecd34"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-gemore-mountains.place.ts","id":"01a0e9f3-cc55-70b0-bbe4-8f0f61fe6b92"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-gemore.place.ts","id":"01a0e9f4-7b7f-7225-8963-e12162efe420"}
@@ -128,12 +130,15 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-helmaris.place.ts","id":"01a0e9f8-1442-775d-959b-741a10609ef0"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-itonia.place.ts","id":"01a0e9f5-4f84-7f95-b19b-bea14e8938b6"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-kankus.place.ts","id":"01a0e9f7-65b7-7c2e-ac63-29bd8156e23d"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-kulmere.place.ts","id":"01a0e9f9-26ec-7171-af5f-56da287e8d2a"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-litcliff.place.ts","id":"01a0e9f4-f9b3-774d-93ff-960126228f9e"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-monastery-of-quaz.place.ts","id":"01a0e9f4-f9b3-7f4b-b9f3-d6f7b08bf149"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-old-gemore.place.ts","id":"01a0e9f4-06cc-7fbf-af12-bff1a59e2e03"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-ostren-wilds.place.ts","id":"01a0e9f9-26ec-7b72-8127-08230c981367"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-ostren.place.ts","id":"01a0e9f8-b224-786c-8437-e020d2293f53"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-sansal.place.ts","id":"01a0e9f5-4f84-7f72-8b5b-19ef07fda007"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-sea-of-grass.place.ts","id":"01a0e9f4-f9b3-7e59-b62d-0dffa21605e0"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-stanek.place.ts","id":"01a0e9f9-26ed-7864-afc1-a79e2d7f4969"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-sussus-vault.place.ts","id":"01a0e9f7-65b7-7c8d-8c4c-5b8e269e868e"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-taeols-tower.place.ts","id":"01a0e9f3-cc56-7fb7-9545-ceff8a0eab1e"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-the-blight.place.ts","id":"01a0e9f8-1443-70a1-8d25-45c89af36491"}
