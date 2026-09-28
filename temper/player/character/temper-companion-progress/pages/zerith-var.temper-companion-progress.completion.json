@@ -1,10 +1,9 @@
 {
   "build": {
-    "companionId": 13,
-    "weapons": {
+    "jewelry": {
       "1": {
         "isEmpty": false,
-        "displayText": "Restoration Staff, Quickened",
+        "displayText": "Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
@@ -12,24 +11,25 @@
         }
       },
       "2": {
-        "isEmpty": true,
-        "displayText": "Empty",
+        "isEmpty": false,
+        "displayText": "Quickened",
         "qualityColor": {
-          "1": 0.5,
-          "2": 0.5,
-          "3": 0.5
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "3": {
+        "isEmpty": false,
+        "displayText": "Vigorous",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
         }
       }
     },
-    "mainHandWeaponType": 9,
-    "skillAbilityIds": {
-      "1": 213158,
-      "2": 155693,
-      "3": 154926,
-      "4": 155408,
-      "5": 155411,
-      "6": 213169
-    },
+    "hash": "AjEIhtG0bRtG0bRtDQ0TGNPafMlxuIA",
     "armor": {
       "1": {
         "isEmpty": false,
@@ -95,10 +95,20 @@
         }
       }
     },
-    "jewelry": {
+    "mainHandWeaponType": 9,
+    "skillAbilityIds": {
+      "1": 213158,
+      "2": 155693,
+      "3": 154926,
+      "4": 155408,
+      "5": 155411,
+      "6": 213169
+    },
+    "companionId": 13,
+    "weapons": {
       "1": {
         "isEmpty": false,
-        "displayText": "Quickened",
+        "displayText": "Restoration Staff, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
@@ -106,25 +116,15 @@
         }
       },
       "2": {
-        "isEmpty": false,
-        "displayText": "Quickened",
+        "isEmpty": true,
+        "displayText": "Empty",
         "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "3": {
-        "isEmpty": false,
-        "displayText": "Vigorous",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
+          "1": 0.5,
+          "2": 0.5,
+          "3": 0.5
         }
       }
-    },
-    "hash": "AjEIhtG0bRtG0bRtDQ0TGNPafMlxuIA"
+    }
   },
   "targetBuildHash": "AjEAgAbRtG0bRtGAbQENExjTV8A",
   "level": 20,
