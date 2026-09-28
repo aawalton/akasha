@@ -4,6 +4,7 @@ export const theDatingGame00034 = {
   id: "01a0e57c-635e-769a-87a1-d128d8c653c4",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-034",
+  cover: "image/image-b3326d72b60a6f86",
   ownLength: 175,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
@@ -32,6 +33,6 @@ export const theDatingGame00034 = {
     '"You come to the cemetery\'s far gate, where the path meets the street" - Leave It Open',
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-26T19:36:00.000Z",
 } as const satisfies StoryTurnPlayed
