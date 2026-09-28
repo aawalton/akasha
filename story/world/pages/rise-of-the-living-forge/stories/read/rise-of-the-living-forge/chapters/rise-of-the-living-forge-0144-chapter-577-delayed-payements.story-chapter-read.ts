@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0144Chapter577DelayedPayements = {
   id: "01a06730-4e11-72fe-bde8-0896b18b9a15",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0144-chapter-577-delayed-payements",
+  ownProgress: 1650,
   title: "Chapter 577: Delayed Payements",
   story: "story-read/rise-of-the-living-forge",
   position: 144,

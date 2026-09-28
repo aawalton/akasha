@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0102Chapter632Tonight = {
   id: "01a06730-4e0f-79dd-b5ea-b68d3ad3da25",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0102-chapter-632-tonight",
+  ownProgress: 2751,
   title: "Chapter 632: Tonight.",
   story: "story-read/rise-of-the-living-forge",
   position: 102,

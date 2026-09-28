@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0119QuickNotice = {
   id: "01a0a8d2-e1a5-77d5-8814-e633dcaf99c2",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0119-quick-notice",
+  ownProgress: 107,
   position: 119,
   publishedAt: "2026-09-16",
   unit: "unit/words",

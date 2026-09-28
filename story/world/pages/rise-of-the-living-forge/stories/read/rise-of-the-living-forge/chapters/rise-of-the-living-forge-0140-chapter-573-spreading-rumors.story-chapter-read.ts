@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0140Chapter573SpreadingRumors = {
   id: "01a06730-4e11-7a1e-828b-6a6b41ca69b8",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0140-chapter-573-spreading-rumors",
+  ownProgress: 1554,
   title: "Chapter 573: Spreading Rumors",
   story: "story-read/rise-of-the-living-forge",
   position: 140,

@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0139Chapter572Devils = {
   id: "01a06730-4e11-7b40-9fac-aa85b1c7d9ee",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0139-chapter-572-devils",
+  ownProgress: 1973,
   title: "Chapter 572: Devils",
   story: "story-read/rise-of-the-living-forge",
   position: 139,

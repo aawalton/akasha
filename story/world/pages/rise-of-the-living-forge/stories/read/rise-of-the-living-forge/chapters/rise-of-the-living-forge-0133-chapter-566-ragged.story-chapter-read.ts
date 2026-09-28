@@ -18,6 +18,6 @@ export const riseOfTheLivingForge0133Chapter566Ragged = {
     },
   ],
   publishedAt: "2026-03-02",
-  ownProgress: 1708,
+  ownProgress: 2048,
   prose: "txt",
 } as const satisfies StoryChapterRead

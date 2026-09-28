@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0143Chapter576PowerfulItems = {
   id: "01a06730-4e11-7fc8-898a-a45b32fa395d",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0143-chapter-576-powerful-items",
+  ownProgress: 1801,
   title: "Chapter 576: Powerful Items",
   story: "story-read/rise-of-the-living-forge",
   position: 143,

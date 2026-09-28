@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0095Chapter626Rubble = {
   id: "01a06730-4e0d-7cf9-909a-0bab30dd08b3",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0095-chapter-626-rubble",
+  ownProgress: 1868,
   title: "Chapter 626: Rubble",
   story: "story-read/rise-of-the-living-forge",
   position: 95,

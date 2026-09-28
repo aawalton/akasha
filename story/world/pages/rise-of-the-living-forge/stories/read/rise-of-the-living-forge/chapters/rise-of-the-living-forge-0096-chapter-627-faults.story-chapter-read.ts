@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0096Chapter627Faults = {
   id: "01a06730-4e0e-7576-8c62-190c36188391",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0096-chapter-627-faults",
+  ownProgress: 1970,
   title: "Chapter 627: Faults",
   story: "story-read/rise-of-the-living-forge",
   position: 96,

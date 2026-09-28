@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0095Chapter620DyingEmber = {
   id: "01a0c591-0229-70d0-ac20-fc31dc213d5c",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0095-chapter-620-dying-ember",
+  ownProgress: 2953,
   position: 95,
   publishedAt: "2026-09-21",
   unit: "unit/words",

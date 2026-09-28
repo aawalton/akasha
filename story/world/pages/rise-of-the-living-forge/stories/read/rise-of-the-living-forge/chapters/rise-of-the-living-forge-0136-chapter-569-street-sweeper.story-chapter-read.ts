@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0136Chapter569StreetSweeper = {
   id: "01a06730-4e10-7d77-8d04-2c1dd3ba984c",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0136-chapter-569-street-sweeper",
+  ownProgress: 1618,
   title: "Chapter 569: Street sweeper",
   story: "story-read/rise-of-the-living-forge",
   position: 136,

@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0097Chapter622FreshPickings = {
   id: "01a0da2a-f3b3-7a25-ba98-a37f5a14412e",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0097-chapter-622-fresh-pickings",
+  ownProgress: 2550,
   position: 97,
   publishedAt: "2026-09-25",
   unit: "unit/words",

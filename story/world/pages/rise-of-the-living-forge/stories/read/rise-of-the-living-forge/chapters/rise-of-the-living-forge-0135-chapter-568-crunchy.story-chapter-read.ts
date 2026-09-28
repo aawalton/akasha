@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0135Chapter568Crunchy = {
   id: "01a06730-4e10-7196-9089-5e5adaa8244a",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0135-chapter-568-crunchy",
+  ownProgress: 1834,
   title: "Chapter 568: Crunchy",
   story: "story-read/rise-of-the-living-forge",
   position: 135,

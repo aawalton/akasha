@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0107Chapter637Anticlimactic = {
   id: "01a06730-4e0f-7ff0-914f-97eede4614ec",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0107-chapter-637-anticlimactic",
+  ownProgress: 2177,
   title: "Chapter 637: Anticlimactic",
   story: "story-read/rise-of-the-living-forge",
   position: 107,

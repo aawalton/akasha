@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0112Chapter642Reaching = {
   id: "01a06730-4e10-7004-8596-30ba1ee95780",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0112-chapter-642-reaching",
+  ownProgress: 1868,
   title: "Chapter 642: Reaching",
   story: "story-read/rise-of-the-living-forge",
   position: 112,

@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0147Chapter580NoKilling = {
   id: "01a06730-4e11-70d4-a3e6-cce785484ffd",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0147-chapter-580-no-killing",
+  ownProgress: 2106,
   title: "Chapter 580: No killing. ",
   story: "story-read/rise-of-the-living-forge",
   position: 147,

@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0113Chapter643EndTheWar = {
   id: "01a06730-4e10-7223-b30d-cd05f1abb0a6",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0113-chapter-643-end-the-war",
+  ownProgress: 2027,
   title: "Chapter 643: End the War",
   story: "story-read/rise-of-the-living-forge",
   position: 113,

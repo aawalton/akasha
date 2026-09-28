@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0097Book6IsOutOnAmazon = {
   id: "01a06730-4e0e-7224-aaf4-5e5fd1cca79d",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0097-book-6-is-out-on-amazon",
+  ownProgress: 96,
   title: "Book 6 is out on amazon!",
   story: "story-read/rise-of-the-living-forge",
   position: 97,

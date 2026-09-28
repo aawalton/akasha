@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0118Chapter648Home = {
   id: "01a08bd9-31d7-737e-9e68-8cd738839559",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0118-chapter-648-home",
+  ownProgress: 1947,
   position: 118,
   publishedAt: "2026-09-10",
   unit: "unit/words",

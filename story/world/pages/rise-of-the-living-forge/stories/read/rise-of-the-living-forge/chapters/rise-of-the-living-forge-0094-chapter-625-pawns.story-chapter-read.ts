@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0094Chapter625Pawns = {
   id: "01a06730-4e0d-7788-890a-939bf39fcc5f",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0094-chapter-625-pawns",
+  ownProgress: 1694,
   title: "Chapter 625: Pawns",
   story: "story-read/rise-of-the-living-forge",
   position: 94,

@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0110Chapter640Charge = {
   id: "01a06730-4e10-78dc-94bb-e675f02cedc2",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0110-chapter-640-charge",
+  ownProgress: 1827,
   title: "Chapter 640: Charge!",
   story: "story-read/rise-of-the-living-forge",
   position: 110,

@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0150Chapter583Suitable = {
   id: "01a06730-4e11-73c7-8b69-5a92a0d932aa",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0150-chapter-583-suitable",
+  ownProgress: 1917,
   title: "Chapter 583: Suitable",
   story: "story-read/rise-of-the-living-forge",
   position: 150,

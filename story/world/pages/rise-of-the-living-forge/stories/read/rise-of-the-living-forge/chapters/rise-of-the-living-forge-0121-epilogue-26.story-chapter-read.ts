@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0121Epilogue26 = {
   id: "01a0afe9-06d6-7bfa-a2a6-791751377399",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0121-epilogue-26",
+  ownProgress: 1972,
   position: 121,
   publishedAt: "2026-09-17",
   unit: "unit/words",

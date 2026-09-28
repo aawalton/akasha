@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0141Chapter574Legendary = {
   id: "01a06730-4e11-7b8b-916d-bd367c728ba7",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0141-chapter-574-legendary",
+  ownProgress: 1631,
   title: "Chapter 574: Legendary",
   story: "story-read/rise-of-the-living-forge",
   position: 141,

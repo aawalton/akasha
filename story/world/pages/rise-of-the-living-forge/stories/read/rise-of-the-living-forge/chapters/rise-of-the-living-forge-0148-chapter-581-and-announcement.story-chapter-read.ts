@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0148Chapter581AndAnnouncement = {
   id: "01a06730-4e11-7a3b-9b6a-3b638477afc8",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0148-chapter-581-and-announcement",
+  ownProgress: 2078,
   title: "Chapter 581 & Announcement",
   story: "story-read/rise-of-the-living-forge",
   position: 148,

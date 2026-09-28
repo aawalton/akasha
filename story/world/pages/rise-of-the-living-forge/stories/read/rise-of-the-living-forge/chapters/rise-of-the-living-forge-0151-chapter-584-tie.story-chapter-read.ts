@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0151Chapter584Tie = {
   id: "01a06730-4e11-7ca4-97cc-602b107a7c4b",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0151-chapter-584-tie",
+  ownProgress: 2047,
   title: "Chapter 584: Tie",
   story: "story-read/rise-of-the-living-forge",
   position: 151,

@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0108Chapter638Overwhelming = {
   id: "01a06730-4e0f-798f-a4c8-5991b21fdce7",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0108-chapter-638-overwhelming",
+  ownProgress: 1933,
   title: "Chapter 638: Overwhelming",
   story: "story-read/rise-of-the-living-forge",
   position: 108,

@@ -4,6 +4,7 @@ export const riseOfTheLivingForge0117Chapter647TheQuest = {
   id: "01a086e8-d720-704e-ab7d-69fb8e8fe641",
   type: "page-type/story-chapter-read",
   slug: "rise-of-the-living-forge-0117-chapter-647-the-quest",
+  ownProgress: 3031,
   position: 117,
   publishedAt: "2026-09-09",
   unit: "unit/words",

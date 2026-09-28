@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0096Chapter621FourTeams = {
   id: "01a0d37a-3620-7f95-a20f-556877988cdc",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0096-chapter-621-four-teams",
+  ownProgress: 2510,
   position: 96,
   publishedAt: "2026-09-23",
   unit: "unit/words",
