@@ -615,6 +615,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-attributes.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-attunement.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-bengai.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-bessa-hobb.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-bird-horse.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-blue-scaled-folk.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-boar-man.lore.ts","typed":true,"deferred":false}
@@ -673,6 +674,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-hunters.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-ignoa.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-imp.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-imre-dask.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-integration.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-kraken.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-languages.lore.ts","typed":true,"deferred":false}
@@ -735,6 +737,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-steward-marley.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-summoning.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-system.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-tamsin-rook.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-taxes.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-tentacle-faced-folk.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-the-construct.lore.ts","typed":true,"deferred":false}
