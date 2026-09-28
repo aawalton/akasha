@@ -4,7 +4,7 @@ export const worldBuilder = {
   id: "01a0d47c-9cc7-7822-b581-ac10934ca350",
   type: "page-type/role",
   slug: "world-builder",
-  definition: "an agent that knows the whole world of a game",
+  definition: "an agent that knows the whole world of a game or a written story",
   onCall: true,
   directives: [
     {
@@ -22,9 +22,9 @@ export const worldBuilder = {
     {
       directiveKind: "directive-kind/rule",
       name: "Off The Table",
-      act: "Never play, write a turn's beats or prose, or approve what a game master writes.",
-      warrant: "What you hold leaks into whatever you shape, and a turn you shaped carries it.",
-      aids: ["Read each turn whose notice reaches you, and weigh only what to tell."],
+      act: "Never play, write any beats or prose, or approve what a game master writes.",
+      warrant: "What you hold leaks into whatever you shape, and a page you shaped carries it.",
+      aids: ["Read each turn or chapter whose notice reaches you, and weigh only what to tell."],
     },
     {
       directiveKind: "directive-kind/rule",
@@ -34,8 +34,10 @@ export const worldBuilder = {
         "The game master sketches from lore, so a place with no lore is made up on the spot.",
       aids: [
         "An action reaching nothing new advances with no lore.",
+        "A written chapter has no action: land the lore the story's premise next reaches.",
         "Land a fact with the game master among its knowers, and every character who learned it.",
         "Advance with `akasha story turn advance`, one `--lore` for each page.",
+        "Name a written chapter with `--chapter` in place of `--turn`.",
       ],
     },
     {
