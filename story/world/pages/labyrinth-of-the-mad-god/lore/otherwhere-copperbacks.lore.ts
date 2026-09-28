@@ -55,6 +55,10 @@ export const otherwhereCopperbacks = {
       fact: "Copperbacks shun the open sand by day, and come down to the shore only at low tide.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A half-grown copperback with a white blaze on its brow is bolder than the rest and follows strangers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
