@@ -25,10 +25,13 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/harem-hotel/lore/harem-hotel-odile.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/harem-hotel/lore/harem-hotel-wren.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-abilities.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-armada-wurm.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ashback.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-astra.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-attributes.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-basilisk.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-bonecrunchers.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-challenge-constructs.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-cinder-isle-plants.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-cinder-isle-small-life.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-classes.lore.ts","typed":true,"deferred":false}
@@ -58,9 +61,11 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-levels-and-tiers.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-lurk.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-mire-monitors.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-monster-ants.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-multiverse.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-nala.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-notable-safe-rooms.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-quest-bosses.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-quests.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ratmen.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-rax.lore.ts","typed":true,"deferred":false}
