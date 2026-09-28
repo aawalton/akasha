@@ -21,4 +21,5 @@ export const otherwhere00069 = {
   ],
   lore: ["lore/otherwhere-golems"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
