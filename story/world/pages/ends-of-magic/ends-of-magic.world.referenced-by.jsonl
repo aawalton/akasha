@@ -238,6 +238,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-poppy.lore.ts","id":"01a0e9fe-d7c0-71e3-8725-1d746491ac51"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-quenfi.lore.ts","id":"01a0e9fa-ee0d-764d-a532-e3d184b317ba"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-questor-grids.lore.ts","id":"01a0e9fb-e180-791f-9968-d2c2ab99d2bc"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-questor-link.lore.ts","id":"01a0ea00-7f5a-7e95-a31a-76d306fb9da8"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-questor.lore.ts","id":"01a0e9f6-13bd-7b2a-a28c-6e493420d732"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-quests.lore.ts","id":"01a0e9fc-578a-73b3-b5ea-4b9b32cb126b"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-quilbor.lore.ts","id":"01a0e9fa-e2ae-756d-ab3a-389d8b1ab046"}
@@ -346,6 +347,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-notifications.world-mechanic.ts","id":"01a0e9fc-f7ce-725d-80c2-326ca59efd43"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-paths.world-mechanic.ts","id":"01a0ea00-21ae-778d-8c6a-a926f99b1f7a"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-polite-war.world-mechanic.ts","id":"01a0e9fe-b556-7ad4-b69c-7c4b12851eeb"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-questor-link.world-mechanic.ts","id":"01a0ea00-7f5b-754d-94b6-6961764cfccf"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-quests.world-mechanic.ts","id":"01a0e9fc-578b-78fe-a4c4-f942b238fd17"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-ranks.world-mechanic.ts","id":"01a0e9f5-a5d7-7328-a028-7300ae370972"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-recognition.world-mechanic.ts","id":"01a0e9f2-0288-779d-b904-1f8ce57346d9"}
