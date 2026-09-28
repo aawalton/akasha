@@ -35,6 +35,7 @@ import {
   PLAYER,
   RECORDERS,
   type Start,
+  slugAfter,
   statusOf,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
@@ -77,6 +78,13 @@ async function heldOn(
   if (held.status !== PLAYER) {
     return refused(
       `\`${slug}\` is at ${held.status}, so its recorders run as it moves on from there`,
+      DATA
+    )
+  }
+  const next = slugAfter(slug)
+  if (next !== null && reach.turnAt(given.root, next) !== null) {
+    return refused(
+      `\`${slug}\` is followed by \`${next}\` already, and a turn is recorded only while no turn follows it, since the two turns' recorders would sit in the same seats`,
       DATA
     )
   }

@@ -48,7 +48,7 @@ test("a turn at player no recorder ran on moves to recorders and starts a seat f
       values: { stepStatus: statusOf(RECORDERS) },
     },
   ])
-  expect(into.steps).toEqual(["read", `hold ${AT}`, "read", "land", `free ${AT}`])
+  expect(into.steps).toEqual(["read", `hold ${AT}`, "read", "read", "land", `free ${AT}`])
   expect(into.starts.map((one) => [one.role, one.game])).toEqual([
     ["story-recorder", "the-saga"],
     ["story-recorder", "the-saga"],
@@ -91,6 +91,22 @@ test("a turn a recorder ran on already is refused, and nothing is done", async (
   const turn = turnAt("player", { recordedBy: [`${storyRecorder.slug}/${memory.slug}`] })
   const answer = await recordedBy(turn, into)
   expect(answer.refusals.join(" ")).toContain("was recorded already")
+  expect(into.folded).toEqual([])
+  expect(into.starts).toEqual([])
+})
+
+test("a turn another turn follows is refused, so two turns' recorders never share seats", async () => {
+  const into = seen()
+  const turn = turnAt("player", { prose: "txt" })
+  const next = { ...turnAt("world-builder"), slug: "the-saga-00-004" }
+  const base = reachOver(turn, null, into)
+  const answer = await storyTurnRecord(
+    ["--turn", `story-turn-played/${SLUG}`],
+    GIVEN,
+    landingInto(into),
+    { ...base, turnAt: (root, slug) => (slug === next.slug ? next : base.turnAt(root, slug)) }
+  )
+  expect(answer.refusals.join(" ")).toContain("is followed by `the-saga-00-004` already")
   expect(into.folded).toEqual([])
   expect(into.starts).toEqual([])
 })

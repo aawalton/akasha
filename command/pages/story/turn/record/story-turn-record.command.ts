@@ -20,6 +20,14 @@ export const storyTurnRecord = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A turn another turn follows is not recorded.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A recorder's seat is named per story, so two turns at recorders would share it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A recording moves the turn to recorders and starts one fresh seat for each story recorder.",
     },
