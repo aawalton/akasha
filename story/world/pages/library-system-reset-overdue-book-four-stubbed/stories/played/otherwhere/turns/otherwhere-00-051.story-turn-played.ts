@@ -4,13 +4,14 @@ export const otherwhere00051 = {
   id: "01a0e5e3-2bf5-7e47-8c41-eaac5d6a7f30",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-051",
+  cover: "image/image-fd5da9c6f28f5ed0",
   ownLength: 90,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 51,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "**Do it, just let me wash off the worst of the mess first **. I go to the tub and wash off the honey and salt, then fill the tub with water. **Ready**",
   beats: [
@@ -23,5 +24,5 @@ export const otherwhere00051 = {
   ],
   issues: ['"In moments the tub is steaming hot." - Leave It Open'],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed

@@ -146,6 +146,10 @@ export const otherwhereAlan = {
       fact: "Overnight in the quarters the bite on Nala's arm knitted to a tender pink scar.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
+    {
+      fact: "Nala scrubbed the honey and salt off herself under the quarters' cold tap.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
