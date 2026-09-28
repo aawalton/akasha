@@ -1,4 +1,6 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   BUILDER,
@@ -9,6 +11,7 @@ import {
   WRITER,
 } from "akasha/command/pages/story/turn/cancel/story-turn-cancel.command.test-fixtures.ts"
 import {
+  besideListed,
   commitsIn,
   storyTurnTakeBack,
   type TakingBack,
@@ -154,6 +157,27 @@ test("a turn no commit made from the player's action is refused", async () => {
   const answer = await takenBy(reach, into)
   expect(answer.refusals.join(" ")).toContain("from the player's action")
   expect(into.asked).toEqual([])
+})
+
+const ROOT = mkdtempSync(join("/var/tmp", "story-turn-take-back-test-"))
+
+afterAll(() => rmSync(ROOT, { recursive: true, force: true }))
+
+test("the files beside a turn are its own files, never a folder such as its hold's lock", () => {
+  const turns = join(ROOT, "turns")
+  mkdirSync(join(turns, "one-003.story-turn-played.ts.lock"), { recursive: true })
+  for (const name of [
+    "one-003.story-turn-played.ts",
+    "one-003.story-turn-played.prose.txt",
+    "one-003.story-turn-played.edits.uncommitted.jsonl",
+    "one-0030.story-turn-played.ts",
+  ]) {
+    writeFileSync(join(turns, name), "")
+  }
+  expect(besideListed(ROOT, "turns/one-003.story-turn-played.ts").toSorted()).toEqual([
+    "turns/one-003.story-turn-played.prose.txt",
+    "turns/one-003.story-turn-played.ts",
+  ])
 })
 
 test("git's log is read into commits and the paths each changed", () => {

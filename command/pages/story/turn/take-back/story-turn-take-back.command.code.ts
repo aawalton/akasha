@@ -133,12 +133,13 @@ function bodyCommitted(root: string, commit: string, path: string): string | nul
   return body === null ? null : Buffer.from(body).toString("utf8")
 }
 
-function besideListed(root: string, turn: string): readonly string[] {
+export function besideListed(root: string, turn: string): readonly string[] {
   const folder = dirname(turn)
-  const opening = turn.slice(folder.length + 1, -PAGE_ENDING.length)
-  return readdirSync(join(root, folder))
-    .filter((name) => name.startsWith(`${opening}.`) && !name.includes(UNCOMMITTED))
-    .map((name) => `${folder}/${name}`)
+  const opening = `${turn.slice(folder.length + 1, -PAGE_ENDING.length)}.`
+  return readdirSync(join(root, folder), { withFileTypes: true })
+    .filter((one) => one.isFile() && one.name.startsWith(opening))
+    .filter((one) => !one.name.includes(UNCOMMITTED))
+    .map((one) => `${folder}/${one.name}`)
 }
 
 export const TAKEN: TakingBack = {
