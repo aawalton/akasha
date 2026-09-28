@@ -28,6 +28,8 @@ export const nimueLocalImage = {
     {
       statement:
         "image-edit names the best open-weight way to edit a picture of a person on each machine.",
+      workingMemory:
+        "The workstation way is chosen and is the default of akasha inference edit. Still open: the way on the MacBook and on the Mac Studio. A Qwen Q8 GGUF with Beyond Reality 3 on the MacBook is untried.",
     },
     {
       statement:
