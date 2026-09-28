@@ -2,11 +2,6 @@ import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
-import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import {
-  numberAt,
-  textAt,
-} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { AddonManifest } from "akasha/temper/addon/build/resolve/modules/addon-json/addon-json.module.code.ts"
 import { addonManifestSchema } from "akasha/temper/addon/build/resolve/modules/addon-json/addon-json.module.code.ts"
 import { addonManifestPathIn } from "akasha/temper/addon/build/resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
@@ -29,8 +24,6 @@ const BUNDLE_NAMING = z.looseObject({ luaCompiler: z.looseObject({ luaBundle: z.
 export const DIST_UNDER = "dist"
 
 const CONFIGS_UNDER = "dist/.lua-compiler"
-
-const CATALOG_ADDON_NAME = "TemperCatalog"
 
 const AT_LEAST = ">="
 
@@ -133,60 +126,15 @@ function nameXmlThereIn(root: string, addonDir: string, addonName: string): bool
   return namedFilePathOrNull(root, addonDir, `${addonName}.xml`) !== null
 }
 
-const CATALOG_PAGE_TYPE = "temper-catalog-domain"
-
-const LEFT_ALONE = "dormant"
-
-const RAN_FOR = "generatorRanForManifestApiVersion"
-
-function leftAlone(value: Record<string, unknown>): boolean {
-  const said = value[LEFT_ALONE]
-  return said === true || said === "true"
-}
-
-function catalogApiVersion(root: string): string {
-  const every = valuesOfType(root, CATALOG_PAGE_TYPE)
-  const working = every.filter((one) => !leftAlone(one.value))
-  if (working.length === 0) {
-    throw new Error(
-      `catalogApiVersion: no ${CATALOG_PAGE_TYPE} page the index holds is being collected, and the lowest of nothing is no version`
-    )
-  }
-  const versions: number[] = []
-  const silent: string[] = []
-  for (const one of working) {
-    const said = numberAt(one.value, RAN_FOR)
-    if (said === undefined || said === null) silent.push(textAt(one.value, "slug") ?? one.path)
-    else versions.push(said)
-  }
-  if (silent.length > 0) {
-    throw new Error(
-      `catalogApiVersion: ${String(silent.length)} ${CATALOG_PAGE_TYPE} page(s) being collected state no ${RAN_FOR}: ${silent.join(", ")}`
-    )
-  }
-  return String(Math.min(...versions))
-}
-
-async function metadataHeader(
-  root: string,
-  addonName: string,
-  addonDir: string,
-  forCatalog: () => string
-): Promise<string> {
+async function metadataHeader(root: string, addonName: string, addonDir: string): Promise<string> {
   const config = await loadAddonConfig(root, addonDir)
   if (config === null) throw new Error(`metadataHeader: no addon manifest found for ${addonName}`)
-
-  let apiVersionLine: string
-  if (addonName === CATALOG_ADDON_NAME) {
-    apiVersionLine = `## APIVersion: ${forCatalog()}`
-  } else {
-    if (config.apiVersion === undefined || config.apiVersion.length === 0) {
-      throw new Error(
-        `metadataHeader: the manifest for ${addonName} declares no non-empty 'apiVersion' array`
-      )
-    }
-    apiVersionLine = `## APIVersion: ${config.apiVersion.join(" ")}`
+  if (config.apiVersion === undefined || config.apiVersion.length === 0) {
+    throw new Error(
+      `metadataHeader: the manifest for ${addonName} declares no non-empty 'apiVersion' array`
+    )
   }
+  const apiVersionLine = `## APIVersion: ${config.apiVersion.join(" ")}`
 
   const lines = [
     `## Title: ${config.title}`,
@@ -256,9 +204,7 @@ export async function writeLoadOrder(
   const additionalLuaFiles = await readAdditionalLuaFiles(root, addonDir)
   const xml = await readXmlFiles(root, addonDir)
   const lines = manifestLines({
-    metadataHeader: await metadataHeader(root, canonicalName, addonDir, () =>
-      catalogApiVersion(root)
-    ),
+    metadataHeader: await metadataHeader(root, canonicalName, addonDir),
     buildIdFile: BUILD_ID_FILE,
     additionalLuaFiles,
     xmlBeforeBundle: xml.beforeBundle,

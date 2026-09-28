@@ -356,7 +356,6 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"story/world/stories/played/modules/cover-rerolling/cover-rerolling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/addon/build/modules/addon-compiler-config/addon-compiler-config.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/addon/build/modules/addon-load-order/addon-load-order.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/addon/build/modules/addon-metadata-files/addon-metadata-files.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/addon/build/modules/build-output/build-output.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/addon/build/modules/lua-build-command/lua-build-command.module.code.ts","typed":false,"deferred":false}

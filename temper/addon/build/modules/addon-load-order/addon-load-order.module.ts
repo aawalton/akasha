@@ -23,23 +23,11 @@ export const addonLoadOrder = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The catalog addon alone takes its api version from the catalog domain pages.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "That version is the lowest any domain being collected last ran a generator for.",
+      statement: "An addon's api version names the game versions the addon runs on.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "A catalog domain left alone counts toward no version.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "A domain being collected that states no version refuses the call.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The catalog version is read through the index every landing keeps current.",
+      statement: "No addon's api version follows the game version its data was collected from.",
     },
     {
       decisionKind: "decision-kind/departure",
