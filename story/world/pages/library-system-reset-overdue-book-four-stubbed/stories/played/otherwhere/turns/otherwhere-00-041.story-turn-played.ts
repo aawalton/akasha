@@ -10,7 +10,7 @@ export const otherwhere00041 = {
   position: 41,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action:
     "I finish eating the loaf, then bring a full jar of honey and three bags of salt back to the entrance to the room with the bookworms. I then strip and set aside the belt, pouch, robe, and slippers and cover myself from head to toe in honey, then in salt, armoring myself against the last bookworm. I then take an entire bag with me and get as close to the worm as I can without being detected, then rush it towards it, keeping the bag of salt between me and its mouth, hoping to get the entire thing stuck inside.",
   beats: [
@@ -30,6 +30,9 @@ export const otherwhere00041 = {
     "The worm writhes a few yards off, the sack lodged in its throat, far from finished.",
     "Behind her, at the edge of the gloom, sit the honey jar and two more sacks.",
   ],
+  issues: [
+    '"Behind you, at the edge of the gloom, sit the honey jar and two more sacks." - No Prompt',
+  ],
   lore: ["place/otherwhere-kitchen", "place/otherwhere-hall-back"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
