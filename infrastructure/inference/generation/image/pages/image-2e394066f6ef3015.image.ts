@@ -4,6 +4,8 @@ export const image2e394066f6ef3015 = {
   id: "01a0e9e1-2584-7ef1-8fe6-aba63958866e",
   type: "page-type/image",
   slug: "image-2e394066f6ef3015",
+  title: "Red Sarong Among the Hibiscus",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
