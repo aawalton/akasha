@@ -107,6 +107,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "It is 2037, so a birth date of January 22, 1986 makes a patient fifty-one.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Marcus types what he is told; a birth year so far off her face makes him look up and ask again.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
