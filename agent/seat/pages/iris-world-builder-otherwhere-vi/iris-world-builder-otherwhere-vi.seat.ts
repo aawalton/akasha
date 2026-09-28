@@ -9,6 +9,6 @@ export const irisWorldBuilderOtherwhereVi = {
   role: "role/world-builder",
   person: "person/alan",
   startMode: "seat-mode/interactive",
-  onCall: false,
+  onCall: true,
   registrationAccount: "model-account/aawalton",
 } as const satisfies Seat
