@@ -7,11 +7,13 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/harem-hotel/places/harem-hotel-floor-1.place.ts","id":"01a0e839-1d45-7f73-8fd6-eb4e4e6f7e63"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/harem-hotel/places/harem-hotel-floor-2.place.ts","id":"01a0e85a-e945-7e32-8fc8-e739f5f158e9"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-abilities.lore.ts","id":"01a0e9a3-9f50-71f9-9927-8bc2e235e4d4"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ability-paths.lore.ts","id":"01a0e9d8-1fa6-7c50-b714-f9ae4d9b412c"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-alma.lore.ts","id":"01a0e9ce-117e-7562-a3d5-3c023027438a"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-armada-wurm.lore.ts","id":"01a0e9c4-861c-7f9a-a639-9949c7817fed"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ashback.lore.ts","id":"01a0e98e-a9b5-7291-b479-31106638ee6b"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-astra.lore.ts","id":"01a0e9a5-b2a1-7fe0-b06a-c2bdd5633267"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-attributes.lore.ts","id":"01a0e9a2-c7ce-7fb5-b146-47d8a533f254"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-auras-and-hybrids.lore.ts","id":"01a0e9d8-1fa7-777f-996e-65102402a35a"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-bag-of-molding.lore.ts","id":"01a0e9d1-a3d8-7a40-b03a-963f0f644dd0"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ban-li.lore.ts","id":"01a0e9cf-bd36-755a-a67f-e0b1e9c5b225"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-bandit.lore.ts","id":"01a0e9cc-7009-72ef-a193-2039e0e5d19f"}
@@ -27,6 +29,7 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-city-buildings.lore.ts","id":"01a0e9d4-c3d9-7795-b74a-1ef9196a4d91"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-class-selection.lore.ts","id":"01a0e9d4-c3da-7ea9-8142-280a4291791f"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-classes.lore.ts","id":"01a0e9a2-c7cf-702e-925d-52aa06c3f987"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-combat-arts.lore.ts","id":"01a0e9d8-1fa7-7a44-832c-beefd0114d53"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-conduit-crayfish.lore.ts","id":"01a0e9c2-fe14-7893-8510-53df94ff9d57"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-consumables.lore.ts","id":"01a0e9d3-bf2d-7cfa-a2ff-c408db8f3d9b"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-copperbacks.lore.ts","id":"01a0e98e-a9b7-7a81-92ea-4edc292ed81c"}
@@ -57,6 +60,7 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-fennier.lore.ts","id":"01a0e9cf-bd36-77b6-a22c-47cebf910c9e"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-finren.lore.ts","id":"01a0e9ce-117f-7c83-8f95-59975e275d4b"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-floatstone.lore.ts","id":"01a0e9d1-a3d9-764b-b6fa-653128baafb2"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-free-casting.lore.ts","id":"01a0e9d8-1fa7-7b77-a3c8-79d4f3b076cb"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-fritz.lore.ts","id":"01a0e9cc-700a-7853-a1ce-bd8044c63146"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-frostfury-wasps.lore.ts","id":"01a0e9c2-1a5a-73be-9344-9a0423fbca3c"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-gaia.lore.ts","id":"01a0e9c7-1b29-7aef-96a1-10fe78cae4d7"}
@@ -138,6 +142,7 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-suffering.lore.ts","id":"01a0e9c6-337f-7159-a2b4-cf21a7ec8dc4"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-system.lore.ts","id":"01a0e984-b973-7cd9-8d66-f84d0f54e4ba"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-taltos.lore.ts","id":"01a0e9a5-b2a3-7e93-9f2a-a49fa8cca3f7"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-techniques.lore.ts","id":"01a0e9d8-1fa8-7389-a383-de87e4a326a6"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-tiers-and-milestones.lore.ts","id":"01a0e9d5-e1d7-7e8f-84be-eb0fac701072"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-tiger-king.lore.ts","id":"01a0e9ce-df77-7449-9eb5-1cedb9a3528c"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-titles-and-achievements.lore.ts","id":"01a0e9d7-0504-7e15-90f7-63462667af96"}
