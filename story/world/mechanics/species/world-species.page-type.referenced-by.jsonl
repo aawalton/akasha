@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-blightmind.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-bone-obelisk.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-castlebear.world-species.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-chain-shard.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-dracolizard.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-dragon.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-dragonwolf.world-species.ts","typed":true,"deferred":false}
@@ -14,6 +15,7 @@
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-flesh-tyrant.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-flying-fish.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-foxfolk.world-species.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-gargoyle.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-ghoul.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-giant.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-gloamcat.world-species.ts","typed":true,"deferred":false}
@@ -38,7 +40,9 @@
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-sea-monster.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-slickfish.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-soul-eater.world-species.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-spider-monster.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-stalker.world-species.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-three-headed-centipede.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-tigerman.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-treeborn.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-undead.world-species.ts","typed":true,"deferred":false}
