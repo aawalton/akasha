@@ -111,6 +111,19 @@ async function panelsFor(named: readonly string[]): Promise<readonly Shown[]> {
 
 const NONE: readonly Shown[] = []
 
+type Loading = (named: readonly string[]) => Promise<readonly Shown[]>
+
+export async function panelsSettled(
+  named: readonly string[],
+  load: Loading = panelsFor
+): Promise<readonly Shown[]> {
+  try {
+    return await load(named)
+  } catch {
+    return NONE
+  }
+}
+
 export function usePanelsDrawn(named: readonly string[]): readonly Shown[] {
   const [held, setHeld] = useState<readonly Shown[]>(NONE)
   const keyed = named.join(" ")
@@ -118,7 +131,7 @@ export function usePanelsDrawn(named: readonly string[]): readonly Shown[] {
   useEffect(() => {
     let alive = true
     void (async () => {
-      const found = await panelsFor(keyed === "" ? [] : keyed.split(" "))
+      const found = await panelsSettled(keyed === "" ? [] : keyed.split(" "))
       if (alive) setHeld(found)
     })()
     return () => {
