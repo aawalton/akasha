@@ -7,5 +7,11 @@ export const otherwhereIiiPriyaRaman = {
   title: "Priya Raman",
   world: "world/super-supportive",
   about: "character-other/otherwhere-iii-priya-raman",
+  facts: [
+    {
+      fact: "The ER social worker is Priya Raman, thirty-four, quick, practical and hard to shock.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
