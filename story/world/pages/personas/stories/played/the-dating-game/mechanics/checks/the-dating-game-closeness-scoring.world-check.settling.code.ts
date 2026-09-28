@@ -16,13 +16,13 @@ const QUOTES = "quotes"
 
 const TURNED_AWAY = "turnedAway"
 
-export type Scored = {
+type Scored = {
   readonly earned: number
   readonly lost: number
   readonly change: number
 }
 
-export type Settled = { readonly answered: Scored } | { readonly refused: string }
+type Settled = { readonly answered: Scored } | { readonly refused: string }
 
 const wholeFrom = (value: unknown, least: number, most: number): value is number =>
   typeof value === "number" && Number.isInteger(value) && value >= least && value <= most
