@@ -156,6 +156,27 @@ test("a refresh from the pages agrees with the index a turned relation name left
   expect(everyFileUnder(root)).toEqual(everyFileUnder(rebuilt))
 })
 
+test("a property renamed turns the lines its slug names beside a page no change writes", () => {
+  const tree = heldAt()
+  const root = heldAt()
+  const first = indexingAt(root, tree)
+  wrote(first, tree, [...IDENTIFIERS, NAMING, CARRIER, TARGET_PAGE, SOURCE_PAGE])
+  expect(first.settle()).toEqual([])
+
+  const second = indexingAt(root, tree)
+  const gone = join(tree, NAMING[0])
+  const before = readFileSync(join(tree, CARRIER[0]), "utf8")
+  const body = bodyOf(CARRIER_AGAIN[1])
+  second.took(gone, readFileSync(gone, "utf8"))
+  rmSync(gone)
+  wrote(second, tree, [RENAMED])
+  second.wrote(put(tree, CARRIER_AGAIN[0], body), body, before)
+  expect(second.settle()).toEqual([])
+
+  expect(namedAt(tree, "piece-slugs")).toBe(true)
+  expect(namedAt(tree, "part-slugs")).toBe(false)
+})
+
 const ROW_SHAPES = aType("13", "page-property-entry", ["page-property"])
 
 const CASE_PAGE = aProperty("6", "case-page", "relation-property", { targetPageType: "domain" })

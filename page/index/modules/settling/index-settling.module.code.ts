@@ -26,8 +26,13 @@ import {
   shapesLaidOn,
   shapesWritten,
 } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
-import { knownIn, type Shaped } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import {
+  eachTarget,
+  knownIn,
+  type Shaped,
+} from "akasha/page/index/modules/reaching/reaching.module.code.ts"
+import {
+  everyOfType,
   indexThere,
   LISTED_LINE,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -48,6 +53,8 @@ import {
   namedFrom,
 } from "akasha/page/modules/reference-filing/page-reference-filing.module.code.ts"
 import {
+  lineOf,
+  referenceIn,
   referencesAt,
   referencesFiled,
 } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
@@ -117,6 +124,78 @@ function pagesBesideRows(moving: readonly Moving[], repo: string): readonly stri
     found.add(join(dirname(at), `${pageNameOf(said)}${PAGE_HELD}`))
   }
   return [...found]
+}
+
+const PROPERTY_SLUG = "propertySlug"
+
+const SLUG = "slug"
+
+function propertySlugsById(values: readonly (Value | null)[]): ReadonlyMap<string, string> {
+  const found = new Map<string, string>()
+  for (const one of values) {
+    if (one === null || textAt(one, PROPERTY_SLUG) === null) continue
+    const id = textAt(one, ID)
+    const slug = textAt(one, SLUG)
+    if (id !== null && slug !== null) found.set(id, slug)
+  }
+  return found
+}
+
+type Turning = { readonly was: Value | null; readonly now: Value | null }
+
+function propertiesRenamedIn(held: readonly Turning[]): ReadonlyMap<string, string> {
+  const was = propertySlugsById(held.map((one) => one.was))
+  const now = propertySlugsById(held.map((one) => one.now))
+  const found = new Map<string, string>()
+  for (const [id, slug] of was) {
+    const next = now.get(id)
+    if (next !== undefined && next !== slug) found.set(slug, next)
+  }
+  return found
+}
+
+function turnedLine(line: string, renamed: ReadonlyMap<string, string>): string {
+  const one = referenceIn(line)
+  if (one === null) return line
+  const to = renamed.get(one.propertySlug)
+  return to === undefined ? line : lineOf({ ...one, propertySlug: to })
+}
+
+function filesNaming(
+  reading: Reading,
+  repo: string,
+  known: Shaped,
+  renamed: ReadonlyMap<string, string>
+): readonly string[] {
+  const found = new Set<string>()
+  for (const was of renamed.keys()) {
+    const wanted = eachTarget(known.targetOf(was))
+    const types = new Set([...wanted, ...wanted.flatMap((one) => known.admitting(one))])
+    for (const pageTypeSlug of types) {
+      for (const one of everyOfType(reading, pageTypeSlug)) {
+        const at = referencesAt(under(repo, one.path))
+        if (at !== null) found.add(at)
+      }
+    }
+  }
+  return [...found].sort()
+}
+
+function rowsNamingRenamed(
+  reading: Reading,
+  files: readonly string[],
+  renamed: ReadonlyMap<string, string>,
+  carried: ReadonlySet<string>
+): readonly Entry[] {
+  const found: Entry[] = []
+  for (const at of files) {
+    for (const line of (reading.read(at) ?? "").split("\n")) {
+      const one = line === "" ? null : referenceIn(line)
+      if (one === null || !renamed.has(one.propertySlug) || carried.has(one.path)) continue
+      found.push({ at, line })
+    }
+  }
+  return found
 }
 
 export type Settling = {
@@ -287,6 +366,7 @@ export function settlingOver(
     return [{ at, to: id === null ? undefined : arrived.get(id) }]
   })
   const vacated = new Set(emptied.map((one) => one.at))
+  const renamed = propertiesRenamedIn(held)
   const movedTo = new Map(
     emptied.flatMap((one) =>
       one.to === undefined || one.to === one.at ? [] : [[one.at, one.to] as const]
@@ -304,11 +384,17 @@ export function settlingOver(
     const said = LISTED_LINE.safeParse(JSON.parse(one.line))
     if (!said.success) return []
     if (carriedAt.has(said.data.path)) return []
-    return [{ at: to, line: one.line }]
+    return [{ at: to, line: turnedLine(one.line, renamed) }]
   })
+  const renamedFiles = filesNaming(reading, repo, wasKnown, renamed).filter(
+    (at) => !vacated.has(at)
+  )
+  const renamedWas = rowsNamingRenamed(reading, renamedFiles, renamed, carriedAt)
+  const renamedNow = renamedWas.map((one) => ({ at: one.at, line: turnedLine(one.line, renamed) }))
   const references = filingOf(
     [
       ...leftBehind,
+      ...renamedWas,
       ...referencedWas.flatMap((one) => one.entries),
       ...rowedWas,
       ...held.flatMap((one) =>
@@ -317,6 +403,7 @@ export function settlingOver(
     ],
     [
       ...carriedOn,
+      ...renamedNow,
       ...referencedNow.flatMap((one) => one.entries),
       ...rowedNow,
       ...held.flatMap((one) =>

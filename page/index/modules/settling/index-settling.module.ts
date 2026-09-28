@@ -92,6 +92,18 @@ export const indexSettling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A change turning a property's slug turns every reference line naming that slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A line from a page the change carries is filed from that page instead.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Those lines are read beside the pages of the types the property's target admits.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The refusals a change leaves are answered apart from the refusals the world already had.",
     },
