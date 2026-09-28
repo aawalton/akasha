@@ -52,6 +52,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-disadvantage.lore.ts","id":"01a0e9f8-2dc4-7ed1-bb2d-afa5064c96df"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-divinity.lore.ts","id":"01a0e9f5-6821-700d-a7eb-2c1701adb00d"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-dracolizard.lore.ts","id":"01a0e9f8-965e-7052-9329-b2fc13974c65"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-dragon.lore.ts","id":"01a0e9f8-f7c6-711c-838b-63ee27eebf5f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-dragonwolf.lore.ts","id":"01a0e9f8-965f-79b1-a734-775d07cac990"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-earth-born.lore.ts","id":"01a0e9f6-d213-7854-95cf-fd845269d68c"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-edicts.lore.ts","id":"01a0e9f4-c9f7-76cb-87ef-1e2091c3743b"}
@@ -94,6 +95,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-spell-tiers.lore.ts","id":"01a0e9f3-4d9a-7db8-90f9-b3a6e3962cd2"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-spellcasting.lore.ts","id":"01a0e9f2-d738-7550-a9d0-9f426c066099"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-spells.lore.ts","id":"01a0e9f3-d4cf-7ba1-bb18-9fabf7e1ea3f"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-stalker.lore.ts","id":"01a0e9f8-f7c7-74c0-afa8-47e078f6bc7a"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-status.lore.ts","id":"01a0e9f2-c28a-78e7-9ef1-4138eaf3cb30"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-stella.lore.ts","id":"01a0e9f8-7a18-793f-88f3-48cc448f3376"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-sussu.lore.ts","id":"01a0e9f7-96f1-7d3d-bfe9-e2782315a9ce"}
@@ -108,6 +110,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-wiam.lore.ts","id":"01a0e9f5-cfaf-7075-a4e3-ed7c8ad293d4"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-wizardry.lore.ts","id":"01a0e9f4-8e6f-7cd5-bd11-e450242d65e2"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-wolfman.lore.ts","id":"01a0e9f3-7323-7056-86f3-36c27a89fec4"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-wyvern.lore.ts","id":"01a0e9f8-f7c7-708b-b029-0f0936369288"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-armatures.world-item.ts","id":"01a0e9f7-1df0-7f0b-9df1-215879eac4c8"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-aether.world-mechanic.ts","id":"01a0e9f2-2f10-736b-99be-e0174be67f89"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-antimagic.world-mechanic.ts","id":"01a0e9f8-bed5-799c-8bb3-d1436bba9468"}
@@ -147,6 +150,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-the-nails.world-organization.ts","id":"01a0e9f4-5851-7b0a-9b2f-f797d786c8fd"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-birdfolk.world-species.ts","id":"01a0e9f3-7323-7d89-88bb-272ffe812118"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-dracolizard.world-species.ts","id":"01a0e9f8-965f-73a7-8a98-e998cbdf9e74"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-dragon.world-species.ts","id":"01a0e9f8-f7c7-713d-82cf-6bdff78309ff"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-dragonwolf.world-species.ts","id":"01a0e9f8-965f-7c38-b52b-495711814ea1"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-earth-born.world-species.ts","id":"01a0e9f6-d214-7b29-bf3c-8042fe366deb"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-elemental-folk.world-species.ts","id":"01a0e9f4-fc81-7e40-bedd-087cd300061f"}
@@ -163,9 +167,11 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-mortal.world-species.ts","id":"01a0e9f6-6b01-79ac-8272-ea841f217da6"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-orc.world-species.ts","id":"01a0e9f2-e898-7417-a141-cc3a277c8fe7"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-questor.world-species.ts","id":"01a0e9f6-13bf-7d38-8435-814f1a19f0ec"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-stalker.world-species.ts","id":"01a0e9f8-f7c8-76f1-8e3f-9c1fe26eb6aa"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-tigerman.world-species.ts","id":"01a0e9f3-7323-7d2d-9d06-742138401d43"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-treeborn.world-species.ts","id":"01a0e9f4-0048-78e9-b044-be12ca96bcc6"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-wolfman.world-species.ts","id":"01a0e9f3-7323-75d8-8ad9-badaf61ec434"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-wyvern.world-species.ts","id":"01a0e9f8-f7c8-74d2-9c84-bfeda98c07b7"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/places/otherwhere-v-agmon.place.ts","id":"01a0e9f4-f9b2-7837-b29b-afb85b547847"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/places/otherwhere-v-ardglass.place.ts","id":"01a0e9f5-b468-7eeb-9952-9692612ed8ba"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/places/otherwhere-v-ascendant-academy.place.ts","id":"01a0e9f3-448a-73d9-9b80-820afab7510a"}
