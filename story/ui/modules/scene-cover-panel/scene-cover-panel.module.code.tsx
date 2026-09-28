@@ -7,6 +7,9 @@ import {
   DialogTitle,
 } from "akasha/design/interface/primitive/modules/dialog/dialog.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
+import { overServer } from "akasha/page/access/modules/over-server/over-server.module.code.ts"
+import type { Row } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
+import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import {
   coverSource,
   PageCover,
@@ -17,14 +20,38 @@ import {
 } from "akasha/story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx"
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import type { PlayedTurnCover } from "akasha/story/ui/played-panel/modules/panel-drawing/panel-drawing.module.code.ts"
-import { ChevronLeft, ChevronRight, ChevronsLeft, ChevronsRight } from "lucide-react"
+import {
+  ChevronLeft,
+  ChevronRight,
+  ChevronsLeft,
+  ChevronsRight,
+  LoaderCircle,
+  RotateCw,
+} from "lucide-react"
 import { type ReactNode, useEffect, useRef, useState } from "react"
 
 const ONE = 1
 
+const STORY = "story-played"
+
+const EXTERNAL_ID = "externalId"
+
+const ASKED = "coverReroll"
+
+const REFUSED = "coverRerollRefused"
+
+const POLL_MS = 4000
+
+const GIVEN_UP_MS = 20 * 60_000
+
+const SLOW = "The new picture took too long, so this one stays."
+
+const UNSENT = "The ask to draw this picture again did not reach the game."
+
 export type TurnCover = {
   readonly id: string
   readonly number: number
+  readonly cover: string
   readonly source: string
   readonly whole: string
 }
@@ -35,10 +62,98 @@ export function turnCoversOf(turnCovers: readonly PlayedTurnCover[]): readonly T
     const source = coverSource(one.cover, COVER_WIDTH_ASKED)
     const whole = coverSource(one.cover)
     if (source !== null && whole !== null) {
-      held.push({ id: one.id, number: one.number, source, whole })
+      held.push({ id: one.id, number: one.number, cover: one.cover, source, whole })
     }
   }
   return held
+}
+
+export function rerollAsked(gameExternalId: string, cover: string) {
+  return {
+    pageTypeSlug: STORY,
+    where: [{ key: EXTERNAL_ID, eq: gameExternalId }],
+    set: { [ASKED]: cover },
+  }
+}
+
+export type Settled =
+  | { readonly settled: false }
+  | { readonly settled: true; readonly refused: string | null }
+
+export function rerollSettled(row: Row | undefined, cover: string): Settled {
+  if (row === undefined || row[ASKED] === cover) return { settled: false }
+  const refused = row[REFUSED]
+  return { settled: true, refused: typeof refused === "string" && refused !== "" ? refused : null }
+}
+
+type Rerolling = {
+  readonly asking: string | null
+  readonly refused: string | null
+  readonly ask: (cover: string) => undefined
+}
+
+function useReroll(gameExternalId: string | undefined): Rerolling {
+  const [asking, setAsking] = useState<string | null>(null)
+  const [refused, setRefused] = useState<string | null>(null)
+  useEffect(() => {
+    if (asking === null || gameExternalId === undefined) return
+    const started = Date.now()
+    const timer = setInterval(() => {
+      void askingFor({
+        pageTypeSlug: STORY,
+        where: { [EXTERNAL_ID]: { is: gameExternalId } },
+        keys: [ASKED, REFUSED],
+      }).then((answered) => {
+        if ("refused" in answered) return
+        const settled = rerollSettled(answered.rows[0], asking)
+        if (settled.settled) {
+          setRefused(settled.refused)
+          setAsking(null)
+        } else if (Date.now() - started > GIVEN_UP_MS) {
+          setRefused(SLOW)
+          setAsking(null)
+        }
+      })
+    }, POLL_MS)
+    return () => clearInterval(timer)
+  }, [asking, gameExternalId])
+  const ask = (cover: string): undefined => {
+    if (asking !== null || gameExternalId === undefined) return
+    setRefused(null)
+    setAsking(cover)
+    overServer("patchPage", rerollAsked(gameExternalId, cover)).catch(() => {
+      setRefused(UNSENT)
+      setAsking(null)
+    })
+    return undefined
+  }
+  return { asking, refused, ask }
+}
+
+function RerollButton({
+  rerolling,
+  cover,
+}: {
+  readonly rerolling: Rerolling
+  readonly cover: string
+}) {
+  const busy = rerolling.asking !== null
+  return (
+    <Button
+      variant="secondary"
+      size="icon-sm"
+      aria-label={busy ? "Drawing a new picture" : "Draw this picture again"}
+      aria-busy={busy}
+      disabled={busy}
+      className="absolute top-2 left-2 rounded-full bg-black/60 text-white hover:bg-black/75"
+      onClick={(event) => {
+        event.stopPropagation()
+        rerolling.ask(cover)
+      }}
+    >
+      {busy ? <LoaderCircle aria-hidden className="animate-spin" /> : <RotateCw aria-hidden />}
+    </Button>
+  )
 }
 
 export type Paged = { readonly from: string; readonly to: string }
@@ -86,12 +201,14 @@ const AFTER: readonly StepButton[] = [
 type ScenePanelProps = {
   readonly turns: readonly ClientStoryTurn[]
   readonly turnCovers: readonly PlayedTurnCover[]
+  readonly gameExternalId?: string | undefined
 }
 
-export function SceneCoverPanel({ turns, turnCovers }: ScenePanelProps) {
+export function SceneCoverPanel({ turns, turnCovers, gameExternalId }: ScenePanelProps) {
   const turnId = latestTurnId(turns)
   const [paged, setPaged] = useState<Paged | null>(null)
   const [viewing, setViewing] = useState(false)
+  const rerolling = useReroll(gameExternalId)
   const stepping = useRef<(step: Step) => void>(() => undefined)
   useEffect(() => {
     if (!viewing) return
@@ -109,6 +226,7 @@ export function SceneCoverPanel({ turns, turnCovers }: ScenePanelProps) {
   const at = pagedAt(covers, pickedFor(paged, turnId))
   const shown = covers[at]
   if (shown === undefined) return null
+  const rerollable = gameExternalId !== undefined
   const stepped = ({ step, label, icon }: StepButton) => {
     const to = steppedTo(covers, at, step)
     return (
@@ -140,22 +258,28 @@ export function SceneCoverPanel({ turns, turnCovers }: ScenePanelProps) {
           className="max-h-[95vh] w-auto items-center sm:max-w-[95vw] [&>[data-slot=dialog-close]]:rounded-full [&>[data-slot=dialog-close]]:bg-black/60 [&>[data-slot=dialog-close]]:p-2 [&>[data-slot=dialog-close]]:text-white"
         >
           <DialogTitle className="sr-only">Turn {shown.number}</DialogTitle>
-          <img
-            src={shown.whole}
-            alt={`Turn ${shown.number}`}
-            className="block max-h-[95vh] max-w-[95vw] rounded-md object-contain"
-          />
+          <div className="relative">
+            <img
+              src={shown.whole}
+              alt={`Turn ${shown.number}`}
+              className="block max-h-[95vh] max-w-[95vw] rounded-md object-contain"
+            />
+            {rerollable ? <RerollButton rerolling={rerolling} cover={shown.cover} /> : null}
+          </div>
         </DialogContent>
       </Dialog>
       <figure className="flex flex-col gap-2">
-        <button
-          type="button"
-          aria-label={`View turn ${shown.number} full size`}
-          className="cursor-zoom-in rounded-md"
-          onClick={() => setViewing(true)}
-        >
-          <PageCover coverUrl={shown.source} />
-        </button>
+        <div className="relative">
+          <button
+            type="button"
+            aria-label={`View turn ${shown.number} full size`}
+            className="block w-full cursor-zoom-in rounded-md"
+            onClick={() => setViewing(true)}
+          >
+            <PageCover coverUrl={shown.source} />
+          </button>
+          {rerollable ? <RerollButton rerolling={rerolling} cover={shown.cover} /> : null}
+        </div>
         {covers.length > ONE ? (
           <figcaption className="flex items-center justify-between">
             <span className="flex gap-1">{BEFORE.map(stepped)}</span>
@@ -163,6 +287,11 @@ export function SceneCoverPanel({ turns, turnCovers }: ScenePanelProps) {
             <span className="flex gap-1">{AFTER.map(stepped)}</span>
           </figcaption>
         ) : null}
+        {rerolling.refused === null ? null : (
+          <p role="alert" className="text-[12px] text-secondary">
+            {rerolling.refused}
+          </p>
+        )}
       </figure>
     </SurfaceProvider>
   )

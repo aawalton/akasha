@@ -4,6 +4,8 @@ import {
   keyStep,
   pagedAt,
   pickedFor,
+  rerollAsked,
+  rerollSettled,
   steppedTo,
   turnCoversOf,
 } from "akasha/story/ui/modules/scene-cover-panel/scene-cover-panel.module.code.tsx"
@@ -20,6 +22,7 @@ function covers(count: number) {
   return Array.from({ length: count }, (_, at) => ({
     id: String.fromCharCode(97 + at),
     number: at + 1,
+    cover: "",
     source: "",
     whole: "",
   }))
@@ -31,9 +34,41 @@ test("the turns paged through are every turn handed with a cover, drawn at twice
     { id: "c", number: 3, cover: "image/image-c" },
   ]
   expect(turnCoversOf(handed)).toEqual([
-    { id: "a", number: 1, source: source("image-a"), whole: whole("image-a") },
-    { id: "c", number: 3, source: source("image-c"), whole: whole("image-c") },
+    {
+      id: "a",
+      number: 1,
+      cover: "image/image-a",
+      source: source("image-a"),
+      whole: whole("image-a"),
+    },
+    {
+      id: "c",
+      number: 3,
+      cover: "image/image-c",
+      source: source("image-c"),
+      whole: whole("image-c"),
+    },
   ])
+})
+
+test("a reroll asks the story it is played in to draw the cover shown again", () => {
+  expect(rerollAsked("game-1", "image/image-a")).toEqual({
+    pageTypeSlug: "story-played",
+    where: [{ key: "externalId", eq: "game-1" }],
+    set: { coverReroll: "image/image-a" },
+  })
+})
+
+test("a reroll is settled once the story no longer asks for the cover, with any refusal it left", () => {
+  expect(rerollSettled({ coverReroll: "image/image-a" }, "image/image-a")).toEqual({
+    settled: false,
+  })
+  expect(rerollSettled(undefined, "image/image-a")).toEqual({ settled: false })
+  expect(rerollSettled({}, "image/image-a")).toEqual({ settled: true, refused: null })
+  expect(rerollSettled({ coverRerollRefused: "no service" }, "image/image-a")).toEqual({
+    settled: true,
+    refused: "no service",
+  })
 })
 
 test("the arrow keys step, and Home and End jump, while the full-size view is open", () => {

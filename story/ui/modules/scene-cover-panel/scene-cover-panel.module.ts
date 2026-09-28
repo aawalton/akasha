@@ -56,5 +56,31 @@ export const sceneCoverPanel = {
       decisionKind: "decision-kind/departure",
       statement: "A cover is asked for at twice the width the panel draws it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A button on the turn cover, and on its full-size view, asks the story to draw that cover again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The ask is written to the story played as its signed-in writer.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "While an ask is out the button spins and a second click asks nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The ask is settled once the story no longer holds it, and a refusal it left is shown.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An ask unsettled after twenty minutes is given up and said to be slow.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The new cover arrives the way every change to the turns arrives.",
+    },
   ],
 } as const satisfies Module

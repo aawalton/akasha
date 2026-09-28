@@ -79,6 +79,7 @@
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"person/modules/route-access/route-access.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"product/audhdalan/web/routes/audhdalan-api-image/audhdalan-api-image.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"product/kofi/feature-request/modules/writing/feature-request-writing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"story/ui/modules/scene-cover-panel/scene-cover-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"story/world/stories/played/modules/cover-rerolling/cover-rerolling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"story/world/stories/played/modules/cover-rerolling/cover-rerolling.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"story/world/stories/played/turns/modules/turn-making/turn-making.module.code.ts","typed":false,"deferred":false}
