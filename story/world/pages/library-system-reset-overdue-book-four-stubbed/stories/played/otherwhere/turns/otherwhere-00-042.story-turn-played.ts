@@ -25,4 +25,5 @@ export const otherwhere00042 = {
   issues: ['"But it is still alive." - Leave It Open'],
   lore: ["place/otherwhere-hall-back"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
