@@ -20,6 +20,7 @@ import {
   told,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { repointed } from "akasha/command/modules/edits-repointing/edits-repointing.module.code.ts"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import { describedIndexed } from "akasha/command/pages/story/turn/advance/modules/turn-described/turn-described.module.code.ts"
 import {
@@ -300,7 +301,7 @@ async function heldOn(
   const by = { agentId: given.agentId, writer: given.writer, done, kept: landsWith }
   const landed = await landing(given.root, asking, message, by)
   if ("refusals" in landed) return keeping(done, back([...landed.refusals]))
-  if (said.landsKept) reach.release(given.root, turn.at)
+  if (said.landsKept) reach.release(given.root, now.at)
   const ended = {
     story: held.game,
     run: read.chapter ? numberedOf(slug, held.game) : slug,
@@ -310,7 +311,8 @@ async function heldOn(
     endedAt: Date.now(),
   }
   timed(given.root, ended, given.agentId)
-  const unkept = said.landsKept ? null : reach.unkeep(given.root, turn.at, own)
+  const ownNow = own.map((one) => repointed(one, [{ from: turn.at, to: now.at }]))
+  const unkept = said.landsKept ? null : reach.unkeep(given.root, now.at, ownNow)
   const story = reach.storyOf(given.root, held.game)
   const at: Context = {
     game: held.game,

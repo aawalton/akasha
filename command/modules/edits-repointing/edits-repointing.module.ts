@@ -4,7 +4,7 @@ export const editsRepointing = {
   id: "01a0e9a9-6ec4-77d0-b53c-03c3ae20a98a",
   type: "page-type/module",
   slug: "edits-repointing",
-  definition: "the drafted edits a seat or subagent keeps, pointed at the paths a landing moved",
+  definition: "the drafted edits an agent or a turn keeps, pointed at the paths a landing moved",
   code: "ts",
   test: "ts",
   decisions: [
@@ -28,7 +28,20 @@ export const editsRepointing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The drafted edits pointed again are every seat's and every subagent's.",
+      statement:
+        "The drafted edits pointed again are every seat's, subagent's, played turn's and written chapter's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The records a seat keeps for its subagents gone are pointed again too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such a record keeps what it says of the subagent that left it and when.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Drafted edits left beside a page moved without them follow it to where it went.",
     },
     {
       decisionKind: "decision-kind/departure",

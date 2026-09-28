@@ -83,7 +83,7 @@ export function parseEdit(said: unknown): FileChange | null {
   return null
 }
 
-function editIn(line: string): FileChange | null {
+export function editIn(line: string): FileChange | null {
   try {
     return parseEdit(JSON.parse(line))
   } catch {

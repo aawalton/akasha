@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, writeFileSync } from "node:fs"
+import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { seatEditsAt } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   appendEdits,
@@ -8,6 +9,8 @@ import {
   editsIn,
 } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
+  followedIn,
+  keptRepointedIn,
   movedPath,
   repointed,
   repointedIn,
@@ -125,4 +128,64 @@ test("a landing moving nothing reads no edits", () => {
 
   expect(repointedIn(root, [SEAT], [])).toEqual([])
   expect(editsIn(root, SEAT)).toEqual({ rows: [{ kind: "remove", path: OLD }] })
+})
+
+test("a written chapter's kept edits left beside its old name follow it, pointed again", () => {
+  const root = rootFor()
+  appendEdits(root, OLD, [
+    { kind: "append", path: OLD_PROSE, content: "more\n" },
+    { kind: "add", path: ELSE, content: "a\n" },
+  ])
+
+  expect(followedIn(root, MOVES)).toEqual([])
+
+  expect(editsIn(root, OLD)).toEqual({ rows: [] })
+  expect(editsIn(root, NEW)).toEqual({
+    rows: [
+      { kind: "append", path: NEW_PROSE, content: "more\n" },
+      { kind: "add", path: ELSE, content: "a\n" },
+    ],
+  })
+})
+
+test("kept edits beside a page still there stay beside it", () => {
+  const root = rootFor()
+  const full = join(root, OLD)
+  mkdirSync(dirname(full), { recursive: true })
+  writeFileSync(full, "")
+  appendEdits(root, OLD, [{ kind: "remove", path: ELSE }])
+
+  followedIn(root, MOVES)
+
+  expect(editsIn(root, OLD)).toEqual({ rows: [{ kind: "remove", path: ELSE }] })
+})
+
+function keptAt(root: string): string {
+  const at = join(root, seatEditsAt(SEAT) ?? "")
+  mkdirSync(dirname(at), { recursive: true })
+  return at
+}
+
+test("a seat's records kept for its subagents are pointed again and keep who left them", () => {
+  const root = rootFor()
+  const at = keptAt(root)
+  const record = { kind: "remove", path: OLD, leftBy: "one-a1", carriedAt: "2026-09-28" }
+  writeFileSync(at, `${JSON.stringify(record)}\nnot an edit\n`)
+
+  expect(keptRepointedIn(root, [SEAT], MOVES)).toEqual([])
+
+  expect(readFileSync(at, "utf8")).toBe(
+    `${JSON.stringify({ ...record, path: NEW })}\nnot an edit\n`
+  )
+})
+
+test("a seat's records naming no path moved are not written again", () => {
+  const root = rootFor()
+  const at = keptAt(root)
+  const text = `${JSON.stringify({ kind: "remove", path: ELSE, leftBy: "one-a1" })}\n`
+  writeFileSync(at, text)
+
+  keptRepointedIn(root, [SEAT], MOVES)
+
+  expect(readFileSync(at, "utf8")).toBe(text)
 })

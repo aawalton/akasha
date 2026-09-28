@@ -116,6 +116,11 @@ export const storyTurnAdvance = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The edits a renaming advance folded or landed are taken from beside the new name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A chapter's phases are timed under its story and number, whatever its title.",
     },
     {
