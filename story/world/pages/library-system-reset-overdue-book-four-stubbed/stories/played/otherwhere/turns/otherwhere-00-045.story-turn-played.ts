@@ -26,4 +26,5 @@ export const otherwhere00045 = {
     "Links crouches over her, fur flat, watching the gloom where the worm has gone.",
   ],
   lore: ["place/otherwhere-hall-back"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
