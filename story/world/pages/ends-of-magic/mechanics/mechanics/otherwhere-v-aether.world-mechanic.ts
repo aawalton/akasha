@@ -7,5 +7,5 @@ export const otherwhereVAether = {
   title: "The Aether",
   world: "world/ends-of-magic",
   aliases: ["aether", "aetheric plane"],
-  description: "The unseen plane of magic that lies beneath the physical world.",
+  description: "The unseen plane of magic.",
 } as const satisfies WorldMechanic

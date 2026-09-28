@@ -7,5 +7,5 @@ export const otherwhereVSpellcasting = {
   title: "Spellcasting",
   world: "world/ends-of-magic",
   aliases: ["magery", "spell weaves", "spell constructs"],
-  description: "The mage's craft of shaping mana into spells.",
+  description: "The mage's craft of spells.",
 } as const satisfies WorldMechanic

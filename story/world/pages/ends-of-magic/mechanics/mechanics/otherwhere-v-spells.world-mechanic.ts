@@ -7,5 +7,5 @@ export const otherwhereVSpells = {
   title: "Named Spells",
   world: "world/ends-of-magic",
   aliases: ["spells"],
-  description: "The particular spells mages know by name, such as Teleport and Disintegrate.",
+  description: "Particular spells known by name.",
 } as const satisfies WorldMechanic

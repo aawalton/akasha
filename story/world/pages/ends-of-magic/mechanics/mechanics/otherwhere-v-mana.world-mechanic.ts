@@ -7,5 +7,5 @@ export const otherwhereVMana = {
   title: "Mana",
   world: "world/ends-of-magic",
   aliases: ["mana types", "mana pool"],
-  description: "The magical energy mages shape into spells, found in many kinds.",
+  description: "Magical energy of many kinds.",
 } as const satisfies WorldMechanic

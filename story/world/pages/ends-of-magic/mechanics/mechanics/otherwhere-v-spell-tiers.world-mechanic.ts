@@ -7,5 +7,5 @@ export const otherwhereVSpellTiers = {
   title: "Spell Tiers",
   world: "world/ends-of-magic",
   aliases: ["tiers of magic", "realms of magic"],
-  description: "The ranking of spells and magic from low to high by power.",
+  description: "The ranking of magic by power.",
 } as const satisfies WorldMechanic
