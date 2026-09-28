@@ -57,4 +57,5 @@ export const otherwhere00002 = {
     "lore/otherwhere-cinder-isle-plants",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
