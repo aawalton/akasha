@@ -89,7 +89,7 @@ export const otherwhereVMana = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Dream mana is a novel magic of illusions, dreams and symbolic links.",
+      fact: "Dream mana is a new magic of illusions, dreams and symbolic links.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
