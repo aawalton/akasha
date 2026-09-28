@@ -14,6 +14,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-aether.lore.ts","id":"01a0e9f2-2f0f-7932-8b96-3ac81d234690"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-agmon.lore.ts","id":"01a0e9f6-77eb-7e84-b2ec-e04345321ff8"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-algoa.lore.ts","id":"01a0e9f6-d51f-7b2a-bd5e-99bb61712666"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-armatures.lore.ts","id":"01a0e9f7-1def-73d5-acd3-18b529924156"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-ascendant-academy.lore.ts","id":"01a0e9f4-227b-70ba-ae50-af8bcbf5cdbc"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-assassins-of-gemore.lore.ts","id":"01a0e9f5-e1ae-7cf6-be35-4c2ef2eefd40"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-badud.lore.ts","id":"01a0e9f6-d51f-764a-9c93-090bf23f303b"}
@@ -64,6 +65,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-wiam.lore.ts","id":"01a0e9f5-cfaf-7075-a4e3-ed7c8ad293d4"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-wizardry.lore.ts","id":"01a0e9f4-8e6f-7cd5-bd11-e450242d65e2"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-wolfman.lore.ts","id":"01a0e9f3-7323-7056-86f3-36c27a89fec4"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-armatures.world-item.ts","id":"01a0e9f7-1df0-7f0b-9df1-215879eac4c8"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-aether.world-mechanic.ts","id":"01a0e9f2-2f10-736b-99be-e0174be67f89"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-classes.world-mechanic.ts","id":"01a0e9f4-b58b-76b0-96e5-32ad38b6c219"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-divinity.world-mechanic.ts","id":"01a0e9f5-6823-7501-9e2c-53a3f7d54e97"}
