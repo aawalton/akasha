@@ -84,6 +84,22 @@ export const otherwhereNala = {
       fact: "Nala came to on the Black Shore at twenty to ten in the morning of day one.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's basic class, Survivor, lets her need a quarter less food, water, air and sleep.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala is level 0 of tier one, a Human of Earth of grade E, with no ability yet.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala's body is small and light: weak in the arm, quick and well balanced.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala's mind is sharp and her memory near perfect, but she cannot picture things at all.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
