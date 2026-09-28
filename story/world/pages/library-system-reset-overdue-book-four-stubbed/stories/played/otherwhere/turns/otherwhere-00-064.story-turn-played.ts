@@ -29,6 +29,6 @@ export const otherwhere00064 = {
     'Links: "Full. First time in centuries. Anything more you shelve pours out along the ley lines."',
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-28T18:00:00.000Z",
 } as const satisfies StoryTurnPlayed
