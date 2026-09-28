@@ -8,13 +8,5 @@ export const haremHotel = {
   world: "world/harem-hotel",
   domain: "domain/harem-hotel-explicitness",
   unit: "unit/words",
-  externalId: "harem-hotel",
-  coordinatorAgent: "mari-game-master-harem-hotel",
   chapterBreak: "A floor's task is met and its stairs open.",
-  panels: [
-    "played-panel/player-character",
-    "played-panel/other-characters",
-    "played-panel/scene-cover",
-    "played-panel/quest-list",
-  ],
 } as const satisfies StoryPlayed
