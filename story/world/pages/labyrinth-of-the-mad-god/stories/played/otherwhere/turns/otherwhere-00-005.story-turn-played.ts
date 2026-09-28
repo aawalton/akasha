@@ -31,5 +31,10 @@ export const otherwhere00005 = {
     "It shifts its weight forward, reaches halfway, then pulls its hand back to its chest.",
     "It stays a few feet off, chittering softly, its eyes never leaving the nut.",
   ],
+  issues: [
+    '"It stays there, a few feet off, chittering softly, its eyes on the nut." - No Prompt',
+    '"It stays there, a few feet off, chittering softly, its eyes on the nut." - Leave It Open',
+  ],
   lore: ["lore/otherwhere-cinder-isle-plants", "lore/otherwhere-copperbacks"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
