@@ -17,6 +17,7 @@
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/personas/mechanics/skills/the-tower-smithing.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/tower-skill.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-a-temporal-instant.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-bounce-repeater.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-boxing-gloves.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-burden-of-enchantment.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-burden-of-secret.world-skill.ts","typed":true,"deferred":false}
@@ -35,6 +36,7 @@
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-faithful-guardian.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-flickerer.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-guardian-of-gates.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-hasten-call.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-i-need-a-break-from-people.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-instant-corners.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-kitty-moon-barrier.world-skill.ts","typed":true,"deferred":false}
@@ -59,6 +61,7 @@
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-the-vatha-lantern.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-throughblow.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-transformer-of-life-to-water.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-whirlybird.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/skills/super-supportive-whisperer-of-refuge.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/skills/a-bottle-a-day-ink.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/skills/a-bullet-a-day-armor-piercing-round.world-skill.ts","typed":true,"deferred":false}

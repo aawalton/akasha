@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"world-condition.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/conditions/super-supportive-corruption-wound.world-condition.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-condition.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/conditions/super-supportive-glossed.world-condition.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-condition.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/conditions/super-supportive-mandatory-leave.world-condition.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-condition.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/conditions/super-supportive-mindhurt.world-condition.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-condition.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/conditions/super-supportive-missing-on-assignment.world-condition.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-condition.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/conditions/super-supportive-offered-food-rule.world-condition.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-condition.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/conditions/super-supportive-selectee-status.world-condition.ts","typed":true,"deferred":false}
