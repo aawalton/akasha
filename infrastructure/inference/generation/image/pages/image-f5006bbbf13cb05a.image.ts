@@ -4,6 +4,7 @@ export const imageF5006bbbf13cb05a = {
   id: "019f1837-d3af-7bbc-a740-df796a957f53",
   type: "page-type/image",
   slug: "image-f5006bbbf13cb05a",
+  grade: "F",
   persona: "persona/aelwyn",
   service: "image-edit-kontext",
   operation: "edit",
