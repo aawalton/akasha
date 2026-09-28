@@ -55,6 +55,7 @@
 {"propertySlug":"person-access-deed","path":"person/access/pages/innworld-visitor-page-type-view-world-species.person-access.ts","id":"01a0c954-1328-7f48-bf58-a78fea54eae8"}
 {"propertySlug":"person-access-deed","path":"person/access/pages/innworld-visitor-page-type-view-world-spell.person-access.ts","id":"01a0c954-1376-7ada-a26b-2dbb89c4e108"}
 {"propertySlug":"person-access-deed","path":"person/access/pages/innworld-visitor-page-type-view-world-title.person-access.ts","id":"01a0c954-13b8-7563-95e1-c12895be03b2"}
+{"propertySlug":"person-access-deed","path":"person/access/pages/innworld-visitor-page-type-view-world.person-access.ts","id":"01a0ea29-ba7e-7103-b4d4-9c33cfcb16a4"}
 {"propertySlug":"person-access-deed","path":"person/access/pages/innworld-visitor-page-type-view.person-access.ts","id":"01a0c941-33fe-7e7c-8586-a2de77709054"}
 {"propertySlug":"person-access-deed","path":"person/access/pages/innworld-visitor-page-type-world-aspect.person-access.ts","id":"01a0c5f9-02b7-7b88-8a61-51951982c586"}
 {"propertySlug":"person-access-deed","path":"person/access/pages/innworld-visitor-page-type-world-boon.person-access.ts","id":"01a0c5f8-c021-7045-9a36-9898d268ea12"}
