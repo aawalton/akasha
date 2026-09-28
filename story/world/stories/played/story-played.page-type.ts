@@ -37,7 +37,6 @@ export const storyPlayed = {
     "page-type/story-turn-played",
     "relation-property/world",
     "multi-relation-property/panels",
-    "text-property/coordinator-agent",
     "instant-property/story-opens-at",
     "relation-property/cover-reroll",
     "text-property/cover-reroll-refused",
@@ -93,7 +92,6 @@ export const storyPlayed = {
   properties: [
     { pageProperty: "multi-relation-property/panels", required: false, many: true, maxCount: null },
     { pageProperty: "text-property/external-id", required: false, many: false },
-    { pageProperty: "text-property/coordinator-agent", required: false, many: false },
     { pageProperty: "instant-property/story-opens-at", required: false, many: false },
     { pageProperty: "relation-property/page-domain", required: false, many: false },
     {

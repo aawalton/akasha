@@ -26,12 +26,14 @@ export const story = {
     "page-type/story-reviewer",
     "page-type/story-recorder",
     "text-property/chapter-break",
+    "text-property/coordinator-agent",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/world", required: false, many: false },
     { pageProperty: "file-property/prose", required: false, many: false },
     { pageProperty: "text-property/chapter-break", required: false, many: false },
+    { pageProperty: "text-property/coordinator-agent", required: false, many: false },
   ],
   decisions: [
     {

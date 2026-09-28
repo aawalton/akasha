@@ -5,13 +5,17 @@ export const coordinatorAgent = {
   type: "page-type/text-property",
   slug: "coordinator-agent",
   propertySlug: "coordinator-agent",
-  definition: "the agent running the game master's side",
+  definition: "the seat that runs a story",
   maxLength: 100,
   nameFormat: null,
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A story played names the agent running the side Alan does not play.",
+      statement: "A story names the seat that runs the story.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The seat running a story played runs the side Alan does not play.",
     },
   ],
   types: "ts",
