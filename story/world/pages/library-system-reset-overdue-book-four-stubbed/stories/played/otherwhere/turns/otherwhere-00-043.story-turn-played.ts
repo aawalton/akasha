@@ -10,7 +10,7 @@ export const otherwhere00043 = {
   position: 43,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action:
     "I circle around it and then tackle it, pressing myself to its skin and hold on as tight as I can.",
   beats: [
@@ -27,6 +27,9 @@ export const otherwhere00043 = {
     "Far back, the worm rolls and scrapes along the floor, grinding the salt off its hide.",
     'Links, above her, fur bristling: "That cost me power I can\'t spare twice."',
   ],
+  issues: [
+    '"her salted hands skid off the cracked hide" - salted bookworm skin is dry, rough, easy to grip',
+  ],
   lore: ["place/otherwhere-hall-back"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
