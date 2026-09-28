@@ -13,7 +13,7 @@ export const otherwhereIii00009 = {
     "character-player/otherwhere-iii-nala",
     "character-other/otherwhere-iii-denise-pruitt",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I find a seat in a quiet corner where I can rest and talk to myself a bit without being overheard. \"Earth Contract, if you can't hear me you're really not doing your job. I'm afraid I'm in possession of some unbound sensitive information and I'd like to make a deal for my silence. For example, I know the layout of the island off Anesidora where you work withe Avowed to kill demons as training and to relieve pressure. I know you forcibly affix humans who are at risk of absorbing chaos and becoming demons. I know some of the skills have much more potential than others, such as \"Let Me Handle Your Luggage\" as you so helpfully translate it. It really is in your best interest to make a deal with me now before I come into contact with any of the people who I could disclose this information to in ways that would be very inconvenient for you.\"",
   beats: [
@@ -29,7 +29,7 @@ export const otherwhereIii00009 = {
     "Nothing answers: no voice in her ears, no box in her sight, no shift in the air.",
     "The TV runs its silent captions; the sleeping man snores once; the wall clock ticks on.",
     "The quiet is the same quiet as on the Belmont platform.",
-    "At 5:25 by the clock, Denise comes out of the STAFF ONLY door in navy scrubs, her arms full.",
+    "At 5:25 by the clock, Denise comes out of the STAFF ONLY door, badge clipped on, her arms full.",
     "She sets a pair of worn clogs and a grey fleece jacket on the chair beside Nala.",
     '"From my locker. Clogs\'ll be big, but they beat socks on slush. Fleece is yours for now."',
     'She glances back toward the desk. "I\'ve got five minutes before I clock in."',
