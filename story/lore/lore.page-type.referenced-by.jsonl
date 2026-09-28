@@ -644,6 +644,8 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-imp.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-integration.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-kraken.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-languages.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-law-and-crime.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-levels.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-lexi.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-literacy.lore.ts","typed":true,"deferred":false}
@@ -694,6 +696,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-thorn-vine-mass.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-three-eyed-slime.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-three-headed-cat.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-travel.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-tree-behemoth.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-trimander.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-troll.lore.ts","typed":true,"deferred":false}
