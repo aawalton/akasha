@@ -11,6 +11,10 @@ export const superSupportiveArtonanConsulate4 = {
       fact: "Artonan Consulate 4, USA is Chicago's Artonan consulate, in a business district.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "From Lawrence it is about half an hour south on the Red Line, then a short walk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   within: "place/otherwhere-iii-chicago",
   secrets: "jsonl",
