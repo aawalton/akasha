@@ -16,10 +16,7 @@ export const otherwhereVGloamcat = {
       fact: "Gloamcats hunt the Greyscale Wood at dusk and through the night, alone.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "A grown gloamcat is about level twelve.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+    { fact: "A grown gloamcat is about level twelve.", knowers: ["lore-disclosure/game-master"] },
     {
       fact: "A gloamcat circles unseen, then feints once to test its prey before it truly attacks.",
       knowers: ["lore-disclosure/game-master"],
@@ -67,6 +64,10 @@ export const otherwhereVGloamcat = {
     {
       fact: "A still gloamcat in dusk shadow is very hard to see; the moving hush is plainer.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A heavy grey beast burst from the ferns at Nala at full dark, day one, and swerved off hissing.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
   ],
 } as const satisfies Lore

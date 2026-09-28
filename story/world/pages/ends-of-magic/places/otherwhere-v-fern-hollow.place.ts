@@ -106,7 +106,7 @@ export const otherwhereVFernHollow = {
     },
     {
       fact: "Forty yards east of the spring lies a fallen scalebark, its root end hollow, dry and crawlable.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: "The fallen trunk's rotted core holds dry, shreddable punk and fibre that would take a spark.",
@@ -114,15 +114,15 @@ export const otherwhereVFernHollow = {
     },
     {
       fact: "Dead branches lie everywhere under the trees; the ones off the ground are dry.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: "Shed bark scales are hand-sized, hard as horn, with edges sharp enough to cut cord or skin.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: "The brook bed is rounded grey stones; eighty yards down, a bank shows dark glassy flint.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: "Flint struck on flint throws weak sparks; struck on the grey brook stones it throws none.",
@@ -130,7 +130,7 @@ export const otherwhereVFernHollow = {
     },
     {
       fact: "Brookberry canes line the brook sixty yards below the spring, hung with ripe dark-red berries.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: "Brookberries are tart and safe; a double handful eases hunger a little.",
@@ -146,15 +146,27 @@ export const otherwhereVFernHollow = {
     },
     {
       fact: "On the upslope rim, a trunk is scored by deep claw marks at head height, the bark shredded.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: "The clawed trunk smells of musk, and scat with grey fur and bone bits lies near its roots.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: "The canopy closes over the hollow; no view of the land beyond can be had from it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+    },
+    {
+      fact: "The fallen trunk's rotted core is soft, dry punk full of fibre that crumbles to shreds.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+    },
+    {
+      fact: "Low bushes in the hollow's shade bear sweet-smelling blue-black berries.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+    },
+    {
+      fact: "A small trail through ferns on the hollow's south rim is marked by pellets and nibbled fern.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
   ],
 } as const satisfies Place

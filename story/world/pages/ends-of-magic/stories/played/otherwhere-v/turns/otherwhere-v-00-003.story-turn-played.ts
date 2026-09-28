@@ -11,7 +11,7 @@ export const otherwhereV00003 = {
   position: 3,
   prose: "txt",
   characters: ["character-player/otherwhere-v-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "**Okay, no help yet, but if I survive, l get something. Spring gives fresh water as good a place to start as any. Spiral search pattern outward, learn what is near by, eyes peeled for danger. Pay close attention to everything, maybe I can get an inspect skill.** Plan in place, I put it into motion, slowly circling outward from the spring to find opportunities or threats in the immediate area.",
   beats: [
@@ -51,6 +51,6 @@ export const otherwhereV00003 = {
   ],
   lore: ["place/otherwhere-v-fern-hollow", "lore/otherwhere-v-gloamcat"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture", "story-recorder/memory"],
   endsAt: "2026-09-28T18:58:00.000Z",
 } as const satisfies StoryTurnPlayed
