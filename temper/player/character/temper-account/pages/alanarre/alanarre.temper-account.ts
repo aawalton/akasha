@@ -15,7 +15,7 @@ export const alanarre = {
   craftingLevels: "jsonl",
   placedFurnishings: "jsonl",
   capturedAt: "2026-09-28T14:58:57.000Z",
-  totalValue: 550336601.0900007,
+  totalValue: 550336601.0899998,
   lastFullScanAt: "2026-09-28T14:58:57.000Z",
   priceSource: "ttc",
   transmuteCrystalAmount: 1531,
