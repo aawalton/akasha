@@ -10,7 +10,7 @@ export const otherwhere00060 = {
   position: 60,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action: "I go down the basement and put my hands on the core again",
   beats: [
     "Nala winds down the spiral staircase into the round chamber, lit its dim blue-green.",
@@ -24,5 +24,8 @@ export const otherwhere00060 = {
     "A second window unfolds beneath it, one she has never seen: Tasks.",
     "Current Task: Restore the Check-in Counter. Library Power: 72 / 75.",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  issues: [
+    '"Librarian Link: Connection 3" - Library states connection only when a task asks for it',
+  ],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
