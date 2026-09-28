@@ -11,7 +11,7 @@ export const otherwhereViii00003 = {
   position: 3,
   prose: "txt",
   characters: ["character-player/otherwhere-viii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "\"Just a hard night I think. The gardens are lovely, but I don't think I've been here before. Would you point me the way back to the Academy?\"",
   beats: [
@@ -34,6 +34,6 @@ export const otherwhereViii00003 = {
   ],
   lore: ["place/otherwhere-viii-weir-gardens", "place/otherwhere-viii-low-bank"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
   endsAt: "2026-09-28T05:50:00.000Z",
 } as const satisfies StoryTurnPlayed
