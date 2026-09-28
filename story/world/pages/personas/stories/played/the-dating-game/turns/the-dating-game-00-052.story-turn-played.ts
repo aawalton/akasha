@@ -10,7 +10,7 @@ export const theDatingGame00052 = {
   position: 52,
   prose: "txt",
   characters: ["character-other/the-dating-game-talia", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action: "\"Hi there, I'm Alan, what's your name?\"",
   beats: [
     "He says, \"Hi there, I'm Alan. What's your name?\"",
@@ -23,5 +23,5 @@ export const theDatingGame00052 = {
     "\"'Awake and sing, ye that dwell in dust: for thy dew is as the dew of herbs.'\"",
   ],
   lore: ["lore/the-dating-game-talia"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
