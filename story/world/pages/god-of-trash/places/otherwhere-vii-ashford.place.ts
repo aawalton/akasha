@@ -127,5 +127,29 @@ export const otherwhereViiAshford = {
       fact: "Few in Ashford can read the notices; Marta or the miller reads them out to the rest.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ashford is thatched houses strung along the road down to a ford over a slow, clear river.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-ennis",
+      ],
+    },
+    {
+      fact: "Ashford's green sits beside the ford, with a stone well, a pen of rough rails and a notice post.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+    },
+    {
+      fact: "Ashford's women kneel at the river's edge by the ford, beating linen on flat stones.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+    },
+    {
+      fact: "Ashford is taking on hands for threshing this week.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-ennis",
+      ],
+    },
   ],
 } as const satisfies Place

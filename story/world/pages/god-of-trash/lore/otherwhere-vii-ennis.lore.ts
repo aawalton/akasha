@@ -200,6 +200,22 @@ export const otherwhereViiEnnis = {
         "character-other/otherwhere-vii-ennis",
       ],
     },
+    {
+      fact: "Nala took the carter's ride to Ashford but would not sell him her shirt.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-ennis",
+      ],
+    },
+    {
+      fact: "At Ashford the carter asked Nala what she meant to do, and said hands were wanted for threshing.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-ennis",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
