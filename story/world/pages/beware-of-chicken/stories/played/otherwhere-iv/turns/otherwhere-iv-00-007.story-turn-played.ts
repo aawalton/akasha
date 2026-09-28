@@ -4,10 +4,13 @@ export const otherwhereIv00007 = {
   id: "01a0ea46-a941-741a-8981-afa0e7bdcd50",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-007",
+  ownLength: 391,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],
   position: 7,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-iv-nala", "character-other/otherwhere-iv-zhao-jun"],
+  stepStatus: "step-status/reviewers",
   action:
     '"Of course. As a spirit of knowledge, I am always happy for honest questions, and answering them is the least I can do for the hospitality you have already given."',
   beats: [
