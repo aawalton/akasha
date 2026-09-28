@@ -10,5 +10,5 @@ export const otherwhere00052 = {
   turnStatus: "turn-status/game-master",
   action:
     "I relax into the hot water and let the stress of almost dying multiple times melt away. Once I feel relaxed, I clean myself thoroughly, making sure the salt and honey are washed out of all of the hard to reach places. Once I’m clean, I finally have the time and space to be curious. I’ve never been a girl before after all, so I experiment, touching myself in different ways, masturbating until I reach a climax.",
-  lore: ["character-other/otherwhere-links"],
+  lore: ["lore/otherwhere-links"],
 } as const satisfies StoryTurnPlayed
