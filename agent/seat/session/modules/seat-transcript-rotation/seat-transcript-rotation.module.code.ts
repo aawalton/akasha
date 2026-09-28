@@ -76,7 +76,7 @@ export function rotationFrom(reading: RotationReading): string | null {
   return left.length === 1 && only !== undefined ? only.path : null
 }
 
-export interface OwnTranscriptsReading {
+interface OwnTranscriptsReading {
   readonly statedPath: string | null
   readonly seatName: string | null
   readonly sinceMs: number
