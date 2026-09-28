@@ -195,6 +195,7 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-dakota-avowed-seclusion-zone.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-elepta-agricultural-community.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-f-city.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-forthright-building.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-franklin-high.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-hot-lab-7.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-intake-complex.place.ts","typed":true,"deferred":false}
@@ -205,9 +206,11 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-magiphys-gym.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-moon-thegund.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-north-of-north.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-o-cruzamento.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-summonarium.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-the-span.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-thorn-family-apartment.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-travel-dome.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-triplanets.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-yipalck-research-facility.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/tower-of-nimue/places/tower-of-nimue-floor-1-the-charnel-den.place.ts","typed":true,"deferred":false}
