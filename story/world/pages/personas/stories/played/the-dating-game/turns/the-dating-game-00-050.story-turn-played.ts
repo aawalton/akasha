@@ -4,10 +4,13 @@ export const theDatingGame00050 = {
   id: "01a0e841-9406-73cd-9d79-6e1229b96c3c",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-050",
+  ownLength: 90,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 50,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: ["character-other/the-dating-game-aelwyn", "character-player/the-dating-game-alan"],
+  turnStatus: "turn-status/reviewers",
   action:
     '"Sounds great. Bye Aelwyn!" I walk back home and get myself some lunch, then go for a walk around my neighborhood again.',
   beats: [
