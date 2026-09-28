@@ -157,6 +157,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-faline.lore.ts","id":"01a0e9fb-2816-76fe-9d56-35d219d261f9"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-fey.lore.ts","id":"01a0e9f4-fc81-750a-8142-745eb9ab1b78"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-fire-elemental.lore.ts","id":"01a0e9fd-5ace-7724-83cf-f3a777310f8a"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-flesh-tree.lore.ts","id":"01a0e9ff-cb80-70da-ba23-c9c2e27c51aa"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-flesh-tyrant.lore.ts","id":"01a0e9fc-3f04-7357-a6d6-0f1657dee4f0"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-flying-fish.lore.ts","id":"01a0e9fa-9425-7331-b972-f378b88148ab"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-focus.lore.ts","id":"01a0e9f9-efb3-77e5-b3d9-577d7103ab70"}
@@ -222,10 +223,12 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-odrin.lore.ts","id":"01a0e9fd-9171-7f90-9e89-b90e89b6d2e9"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-ogarius.lore.ts","id":"01a0e9f7-96f1-7c74-a61d-29e93130e5a8"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-olita.lore.ts","id":"01a0e9fa-ee0d-714e-a91d-f4b3fd640ea4"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-olive.lore.ts","id":"01a0e9ff-cb81-7923-9d63-88f8599eb010"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-orc.lore.ts","id":"01a0e9f2-e897-7a09-9d1e-b5092fc98016"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-othryx.lore.ts","id":"01a0e9fb-6916-707e-b602-47c522d6a678"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-parasite.lore.ts","id":"01a0e9fd-5acf-766f-8317-56cd53ad452a"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-phryne.lore.ts","id":"01a0e9fd-9171-7da4-969f-8c50ab2b85a1"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-pine.lore.ts","id":"01a0e9ff-cb81-723e-9f76-31c0c5c19e00"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-polite-war.lore.ts","id":"01a0e9fe-b555-765a-bc0a-ad7e5a628abb"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-poppy.lore.ts","id":"01a0e9fe-d7c0-71e3-8725-1d746491ac51"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-quenfi.lore.ts","id":"01a0e9fa-ee0d-764d-a532-e3d184b317ba"}
@@ -301,8 +304,11 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-armatures.world-item.ts","id":"01a0e9f7-1df0-7f0b-9df1-215879eac4c8"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-diplomats-friend.world-item.ts","id":"01a0e9f9-8feb-71d7-8538-2c764af15c39"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-dungeon-cores.world-item.ts","id":"01a0e9fb-c0e7-7a92-b9b6-de78a69ea8ee"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-flesh-tree.world-item.ts","id":"01a0e9ff-cb81-7fbb-a1a7-6c1fdcee017e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-golem-cores.world-item.ts","id":"01a0e9fa-7a12-719c-9c7a-89bd29abda09"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-magic-resistant-ingredients.world-item.ts","id":"01a0e9f9-8feb-7ae0-8f69-b86a6b31798e"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-olive.world-item.ts","id":"01a0e9ff-cb81-71d6-9ae2-671e8e2e32df"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-pine.world-item.ts","id":"01a0e9ff-cb81-798d-a94d-9ac7239a26bc"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-aether.world-mechanic.ts","id":"01a0e9f2-2f10-736b-99be-e0174be67f89"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-alchemy.world-mechanic.ts","id":"01a0e9f9-8feb-7761-bf49-5f15a59df502"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-antimagic.world-mechanic.ts","id":"01a0e9f8-bed5-799c-8bb3-d1436bba9468"}

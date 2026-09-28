@@ -6,5 +6,5 @@ export const otherwhereVStalker = {
   slug: "otherwhere-v-stalker",
   title: "Stalker",
   world: "world/ends-of-magic",
-  description: "A six-legged, pony-sized pouncing predator.",
+  description: "A six-legged, pony-sized predator.",
 } as const satisfies WorldSpecies
