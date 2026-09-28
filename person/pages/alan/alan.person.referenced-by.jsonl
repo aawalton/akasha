@@ -21,6 +21,7 @@
 {"propertySlug":"parts","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}
 {"propertySlug":"person","path":"agent/seat/pages/alan/alan.seat.ts","id":"01a0d3f2-4967-7000-827c-676b6015676c"}
 {"propertySlug":"person","path":"agent/seat/pages/mari/mari.seat.ts","id":"01a0e916-ccb7-7000-a93a-e8216f968e2a"}
+{"propertySlug":"person","path":"agent/seat/pages/nimue/nimue.seat.ts","id":"01a0de5b-9a31-7000-a974-c87dda1d5a73"}
 {"propertySlug":"person","path":"alan/harness/notification-feed/pages/alan/alan.notification-feed.ts","id":"01a06864-7aa1-7c13-b966-6dae89eb5283"}
 {"propertySlug":"person","path":"alan/music/listening/heard-music/pages/alan/alan.heard-music.ts","id":"01a01d3e-45ba-76ff-9d84-5bef96f9f1b8"}
 {"propertySlug":"person","path":"story/world/pages/harem-hotel/stories/played/harem-hotel/characters/harem-hotel-alan.character-player.ts","id":"01a0e821-409b-7917-9bd0-9865eba7f1e5"}
