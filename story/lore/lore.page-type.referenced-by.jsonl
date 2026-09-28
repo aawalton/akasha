@@ -65,6 +65,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-gatekeeper.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-gear-swarm.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-gretta.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-guardian-of-the-tower.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-herald-of-slaughter.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-hollow-god.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-interface.lore.ts","typed":true,"deferred":false}
@@ -96,6 +97,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-notable-safe-rooms.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-other-contestants.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-paul.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-pax.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-pellia.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-planetary-quest-chain.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-preservation.lore.ts","typed":true,"deferred":false}
@@ -123,14 +125,17 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-suffering.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-system.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-taltos.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-tiger-king.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-tower-staff.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-traits.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-trell.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-trial-administrator.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-tutorials.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-veronica.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-vital-energies.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-voidbears.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-voidspawn.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-yarren.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-yoro.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-zenith.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/lore/otherwhere-the-library-alan.lore.ts","typed":true,"deferred":false}
