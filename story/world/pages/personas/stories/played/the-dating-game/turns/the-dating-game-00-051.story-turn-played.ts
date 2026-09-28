@@ -24,4 +24,5 @@ export const theDatingGame00051 = {
     '"Good afternoon," she says, low and unhurried, marking her place with one finger.',
   ],
   lore: ["place/the-dating-game-apple-avenue", "lore/the-dating-game-talia"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
