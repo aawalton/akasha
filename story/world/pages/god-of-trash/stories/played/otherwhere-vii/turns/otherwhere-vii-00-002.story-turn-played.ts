@@ -4,13 +4,13 @@ export const otherwhereVii00002 = {
   id: "01a0ea21-6f9d-71b9-921d-f759c9443e7b",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vii-00-002",
-  ownLength: 346,
+  ownLength: 329,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vii"],
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-vii-nala", "character-other/otherwhere-vii-ennis"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "I pull myself out of the ditch as best I can then look to see who is coming up the road.",
   beats: [
