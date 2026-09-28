@@ -38,5 +38,6 @@ export const otherwhereVii00005 = {
     'He takes the straw out of his teeth. "Who are you, then? And who\'s to speak for you?"',
   ],
   lore: ["place/otherwhere-vii-ashford", "lore/otherwhere-vii-ennis"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T07:09:00.000Z",
 } as const satisfies StoryTurnPlayed
