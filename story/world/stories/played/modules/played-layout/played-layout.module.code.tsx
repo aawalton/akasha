@@ -110,10 +110,12 @@ export function PlayedLayout({
           </Button>
         </FrameHeaderAction>
       ) : null}
-      {panelsAbove}
       <div className={wide ? RUN_WITH_PANELS : RUN_ALONE}>
         <div className={RUN_COLUMN}>
-          <div className={showing ? RUN_TEXT_SET_ASIDE : RUN_TEXT}>{runDrawn}</div>
+          <div className={showing ? RUN_TEXT_SET_ASIDE : RUN_TEXT}>
+            {panelsAbove}
+            {runDrawn}
+          </div>
           {bar}
         </div>
         {panelsAside === null ? null : (

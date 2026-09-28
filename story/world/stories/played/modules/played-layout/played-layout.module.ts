@@ -24,6 +24,11 @@ export const playedLayout = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A panel above the run sits in the run's own column, as wide as the run, beside the panels.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The panels sit beside the run on a wide screen and take the place of its text on a narrow one.",
     },
     {

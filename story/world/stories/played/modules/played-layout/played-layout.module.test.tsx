@@ -55,6 +55,22 @@ test("a panel beside the run that starts drawing widens the page", async () => {
   await waitFor(() => expect(pageOf(container)).toContain(WIDE))
 })
 
+test("a panel above the run sits in the run's column, beside the panels rather than over them", async () => {
+  const { container } = render(
+    <PlayedLayout
+      head={<h1>Otherwhere</h1>}
+      panelsAbove={<p>so far</p>}
+      runDrawn={<p>prose</p>}
+      panelsAside={<DrawsCover />}
+    />
+  )
+  await waitFor(() => expect(pageOf(container)).toContain(WIDE))
+  const soFar = [...container.querySelectorAll("p")].find((one) => one.textContent === "so far")
+  const aside = container.querySelector("aside")
+  expect(soFar?.closest("aside")).toBeNull()
+  expect(aside?.parentElement?.contains(soFar ?? null)).toBe(true)
+})
+
 test("a panel beside the run that stops drawing narrows the page", async () => {
   const { container, rerender } = render(laid(<DrawsCover />))
   await waitFor(() => expect(pageOf(container)).toContain(WIDE))
