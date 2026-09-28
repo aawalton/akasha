@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const haremHotel0001 = {
+export const haremHotel0001CheckIn = {
   id: "01a0e98b-69e6-7b24-921b-0d0c330bba59",
   type: "page-type/story-chapter-written",
-  slug: "harem-hotel-0001",
+  slug: "harem-hotel-0001-check-in",
   position: 1,
   unit: "unit/words",
-  title: "Chapter 1",
+  title: "Check-In",
   story: "story-written/harem-hotel",
-  ownLength: 4146,
+  ownLength: 4106,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "You wake dressed on a velvet chaise in a grand old hotel lobby, with no memory of arriving.",
     "The lobby is dark wood, brass and oxblood velvet, lit by a chandelier and green-shaded lamps.",
