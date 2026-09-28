@@ -10,7 +10,7 @@ export const otherwhere00053 = {
   position: 53,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "I take another few minutes to relax after the climax, then clean up, dry off, put on a robe, and go looking for a meal",
   beats: [
@@ -22,5 +22,5 @@ export const otherwhere00053 = {
     "Her stomach growls; she opens the pantry on jars of honey and bins of roots and vegetables.",
   ],
   lore: ["place/otherwhere-main-hall"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
