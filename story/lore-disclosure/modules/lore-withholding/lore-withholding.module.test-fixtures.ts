@@ -81,7 +81,7 @@ function typeOf(pageTypeSlug: string): string {
   return addressOf(pageType.slug, pageTypeSlug)
 }
 
-export function referencesWritten(root: string, page: string, lines: readonly Naming[]): undefined {
+function referencesWritten(root: string, page: string, lines: readonly Naming[]): undefined {
   const at = join(root, referencesAt(page) ?? page)
   mkdirSync(dirname(at), { recursive: true })
   writeFileSync(at, lines.map((one) => `${lineOf({ ...one, fileName: null })}\n`).join(""))
