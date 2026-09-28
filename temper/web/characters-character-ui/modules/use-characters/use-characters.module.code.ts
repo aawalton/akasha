@@ -52,7 +52,7 @@ const CHARACTER_BUILD_PAGE_TYPE_SLUG = "character-build"
 
 type CharacterBuildRow = BuildRow<CharacterBuildMetadata>
 
-export type CharacterDeleteRefusal = "signed-out" | "unread"
+type CharacterDeleteRefusal = "signed-out" | "unread"
 
 export class CharacterDeleteRefused extends Error {
   readonly kind: CharacterDeleteRefusal
