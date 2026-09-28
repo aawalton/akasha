@@ -10,7 +10,7 @@ export const otherwhere00071 = {
   position: 71,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action:
     "**No book that will let me cast a spell to read a book? I'm a speed reader (4000 WPM), so I can read fast, but I'm sure magic could make that faster.** I got and collect the two books and sit down to read them.",
   beats: [
@@ -37,11 +37,14 @@ export const otherwhere00071 = {
     "Links: another power, from another book; then Counter Keeping may give way to her.",
     "Links: until then, the Counter lends no book.",
   ],
+  issues: [
+    '"It hasn\'t taken" - Links set Counter Keeping to read now; grasped whole, a book grants its power',
+  ],
   lore: [
     "lore/otherwhere-universe",
     "lore/otherwhere-peoples",
     "lore/otherwhere-alan",
     "place/otherwhere-main-hall",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
