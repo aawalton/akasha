@@ -1849,6 +1849,7 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/checks/otherwhere-v-language.world-check.ts","id":"01a0e9fd-61ff-716d-ab09-8195d608147b"}
 {"propertySlug":"decision-kind","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/checks/otherwhere-v-standing.world-check.ts","id":"01a0e9fa-2773-77ac-877c-4d3a6d065e2e"}
 {"propertySlug":"decision-kind","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/checks/otherwhere-vii-action-check.world-check.ts","id":"01a0ea30-6d9f-7449-86b0-a3e4a7a56259"}
+{"propertySlug":"decision-kind","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/metrics/resources/health/otherwhere-vii-health.page-type.ts","id":"01a0ea31-d3e5-74e1-97f5-73099addad8c"}
 {"propertySlug":"decision-kind","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/checks/otherwhere-the-library-standing.world-check.ts","id":"01a0e365-14b9-7ffb-bde4-00f1f3dbfa23"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-dating-game/mechanics/checks/the-dating-game-closeness-scoring.world-check.ts","id":"01a0dee4-f4b7-70af-bd38-a35274387d8c"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attack-resolution.world-check.ts","id":"01a0de1c-e954-742b-969b-e66eaf0b328e"}

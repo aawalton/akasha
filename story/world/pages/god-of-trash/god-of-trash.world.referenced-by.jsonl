@@ -7,7 +7,9 @@
 {"propertySlug":"world","path":"story/world/pages/god-of-trash/places/otherwhere-vii-ashford.place.ts","id":"01a0ea27-d686-7e12-be1c-81eb0a7879c8"}
 {"propertySlug":"world","path":"story/world/pages/god-of-trash/places/otherwhere-vii-bramwick.place.ts","id":"01a0ea26-a40f-751d-b5d0-3e6a5a75046b"}
 {"propertySlug":"world","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/checks/otherwhere-vii-action-check.world-check.ts","id":"01a0ea30-6d9f-7449-86b0-a3e4a7a56259"}
+{"propertySlug":"world","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/checks/otherwhere-vii-harm.world-check.ts","id":"01a0ea31-d3e4-7e4d-a70a-5ddf1cf1790c"}
 {"propertySlug":"world","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/checks/otherwhere-vii-time-passing.world-check.ts","id":"01a0ea2a-3b22-76b6-859b-9431d8201e01"}
+{"propertySlug":"world","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/mechanics/otherwhere-vii-injury.world-mechanic.ts","id":"01a0ea31-d3e5-7ce0-813e-1341d358d61b"}
 {"propertySlug":"world","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/mechanics/otherwhere-vii-resolution.world-mechanic.ts","id":"01a0ea30-6d9f-7fd9-8852-a77b5e2af98b"}
 {"propertySlug":"world","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/mechanics/otherwhere-vii-time.world-mechanic.ts","id":"01a0ea2a-3b24-7505-b996-cb4473aa6a4d"}
 {"propertySlug":"world","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/otherwhere-vii.story-played.ts","id":"01a0ea1b-2e97-79d8-b0fa-340c65d13de2"}
