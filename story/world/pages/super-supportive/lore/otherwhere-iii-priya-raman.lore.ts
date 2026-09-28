@@ -36,6 +36,9 @@ export const otherwhereIiiPriyaRaman = {
       fact: "She refers women leaving a partner to a domestic-violence hotline and to free legal aid.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She asks few questions about the past and many about tonight: bed, food, warmth, safety.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
-  secrets: "jsonl",
 } as const satisfies Lore
