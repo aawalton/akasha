@@ -4,10 +4,13 @@ export const otherwhere00062 = {
   id: "01a0e805-8097-713c-90e1-03a9844d12b1",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-062",
+  ownLength: 73,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 62,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
+  turnStatus: "turn-status/reviewers",
   action:
     "**What about dress and appearance, any specific expectations around librarians I need to comply with?**",
   beats: [
