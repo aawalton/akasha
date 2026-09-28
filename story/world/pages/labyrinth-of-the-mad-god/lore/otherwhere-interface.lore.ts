@@ -95,5 +95,13 @@ export const otherwhereInterface = {
       fact: "In a tutorial, windows come unbidden only for level, skill, chest, quest and notices.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "In a tutorial, calling aloud for a status, profile or menu opens no window anywhere.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The System never answers a question or a plea spoken to it; it only shows windows.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

@@ -32,6 +32,14 @@ export const otherwhereMireMonitors = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "A mire monitor lying up in the heat is slow to rouse; a voice nearby only turns its head.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A lying-up mire monitor rushes prey that comes within a few strides, or that runs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "A mire monitor hisses and gapes before it charges.",
       knowers: ["lore-disclosure/game-master"],
     },
