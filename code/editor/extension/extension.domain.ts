@@ -117,6 +117,7 @@ export const extension = {
     "module/ending-anchor",
     "module/seat-page-opening",
     "module/panel-acting",
+    "module/terminal-image-link",
   ],
   decisions: [
     {

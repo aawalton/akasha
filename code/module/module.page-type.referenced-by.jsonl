@@ -1086,6 +1086,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/subagent-reading/subagent-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/subagent-stopping/subagent-stopping.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/tail-fold/tail-fold.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/terminal-image-link/terminal-image-link.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/terminal-marks/terminal-marks.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/terminal-pids/terminal-pids.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/terminal-renaming/terminal-renaming.module.ts","typed":true,"deferred":false}

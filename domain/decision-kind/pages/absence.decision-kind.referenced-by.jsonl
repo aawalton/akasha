@@ -973,6 +973,7 @@
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/subagent-reading/subagent-reading.module.ts","id":"01a0686b-bfe9-77b0-aecf-6c31f4ae928a"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/subagent-stopping/subagent-stopping.module.ts","id":"01a09c6d-a6d5-79aa-aa3b-6c3d88456b4c"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/tail-fold/tail-fold.module.ts","id":"01a064f0-734e-7895-96ab-58a7eeeeee3b"}
+{"propertySlug":"decision-kind","path":"code/editor/extension/modules/terminal-image-link/terminal-image-link.module.ts","id":"01a0e96a-7a16-72f2-ad46-4a8d997a8604"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/terminal-marks/terminal-marks.module.ts","id":"01a06491-1a8d-7b02-a92e-48083598a4b9"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/terminal-pids/terminal-pids.module.ts","id":"01a064f0-734e-706e-8699-1b47b8fea065"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/terminal-renaming/terminal-renaming.module.ts","id":"01a06811-01d3-7008-a808-17b815c1fd1f"}

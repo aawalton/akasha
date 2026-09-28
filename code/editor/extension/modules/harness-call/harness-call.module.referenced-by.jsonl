@@ -14,6 +14,7 @@
 {"propertySlug":"import","fileName":"harness-call.module.code.ts","path":"code/editor/extension/modules/service-tree-panel/service-tree-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"harness-call.module.code.ts","path":"code/editor/extension/modules/status-bar-panel/status-bar-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"harness-call.module.code.ts","path":"code/editor/extension/modules/subagent-stopping/subagent-stopping.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"harness-call.module.code.ts","path":"code/editor/extension/modules/terminal-image-link/terminal-image-link.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"harness-call.module.code.ts","path":"code/editor/extension/modules/terminal-renaming/terminal-renaming.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"harness-call.module.code.ts","path":"code/editor/extension/modules/transcript-sources/transcript-sources.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"harness-call.module.code.ts","path":"code/editor/extension/modules/tree-row-deleting/tree-row-deleting.module.code.ts","typed":false,"deferred":false}

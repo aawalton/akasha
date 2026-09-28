@@ -23,6 +23,7 @@ import * as seatEnter from "akasha/code/editor/extension/modules/seat-terminal-e
 import * as seatOpenLine from "akasha/code/editor/extension/modules/seat-terminal-open-line/seat-terminal-open-line.module.code.ts"
 import * as serviceTree from "akasha/code/editor/extension/modules/service-tree-panel/service-tree-panel.module.code.ts"
 import * as statusBar from "akasha/code/editor/extension/modules/status-bar-panel/status-bar-panel.module.code.ts"
+import * as imageLink from "akasha/code/editor/extension/modules/terminal-image-link/terminal-image-link.module.code.ts"
 import * as terminalRename from "akasha/code/editor/extension/modules/terminal-renaming/terminal-renaming.module.code.ts"
 import * as transcript from "akasha/code/editor/extension/modules/transcript-panel/transcript-panel.module.code.ts"
 import { readProcess } from "akasha/code/editor/extension/modules/window-identity/window-identity.module.code.ts"
@@ -55,6 +56,7 @@ const features = (
     name: "seat-terminal-open-line",
     start: async () => seatOpenLine.activate(vscode, context, say),
   },
+  { name: "terminal-image-link", start: async () => imageLink.activate(vscode, context, say) },
 ]
 
 export async function activate(context: vscode.ExtensionContext): Promise<void> {
