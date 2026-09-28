@@ -10,7 +10,7 @@ export const otherwhere00063 = {
   position: 63,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action: "**Good enough, where can I find some more books to shelve?**",
   beats: [
     "Nala asks Links where she can find more books to shelve.",
@@ -24,5 +24,8 @@ export const otherwhere00063 = {
     "A window opens: Task Complete: Restore the Check-in Counter.",
     "Beneath it, a new line: Current Task: Reopen the Library. Serve a patron.",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  issues: [
+    '"The nearest heap sprawls at the foot of the first carved column" - Nala was last in the core below',
+  ],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
