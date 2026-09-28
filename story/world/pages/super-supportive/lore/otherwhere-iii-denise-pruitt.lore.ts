@@ -24,6 +24,10 @@ export const otherwhereIiiDenisePruitt = {
       fact: "In her lunch bag are a thermos of coffee, a sandwich and a spare pair of wool socks.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "In her locker at work she keeps an old pair of clogs and a fleece jacket.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
