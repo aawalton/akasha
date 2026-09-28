@@ -7,6 +7,6 @@ export const otherwhereCoreChamber = {
   title: "The Core Chamber",
   world: "world/library-system-reset-overdue-book-four-stubbed",
   lit: true,
-  place: "place/otherwhere-core-chamber",
+  place: "place/otherwhere-the-library-core-chamber",
   shownTo: ["character-player/otherwhere-alan"],
 } as const satisfies OtherwhereTheLibraryRoom

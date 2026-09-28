@@ -1,9 +1,9 @@
 import type { Place } from "akasha/story/lore/place/place.page-type.types.ts"
 
-export const otherwhereHospitalWing = {
+export const otherwhereTheLibraryHospitalWing = {
   id: "01a0e859-54b9-7a6e-b479-700f1a4bec7b",
   type: "page-type/place",
-  slug: "otherwhere-hospital-wing",
+  slug: "otherwhere-the-library-hospital-wing",
   title: "The Hospital Wing",
   world: "world/library-system-reset-overdue-book-four-stubbed",
   facts: [

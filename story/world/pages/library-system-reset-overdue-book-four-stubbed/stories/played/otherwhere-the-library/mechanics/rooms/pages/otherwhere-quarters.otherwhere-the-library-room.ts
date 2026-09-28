@@ -7,6 +7,6 @@ export const otherwhereQuarters = {
   title: "The Librarian's Quarters",
   world: "world/library-system-reset-overdue-book-four-stubbed",
   lit: true,
-  place: "place/otherwhere-quarters",
+  place: "place/otherwhere-the-library-quarters",
   shownTo: ["character-player/otherwhere-alan"],
 } as const satisfies OtherwhereTheLibraryRoom

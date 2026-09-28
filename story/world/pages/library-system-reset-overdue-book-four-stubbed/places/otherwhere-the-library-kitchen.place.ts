@@ -1,9 +1,9 @@
 import type { Place } from "akasha/story/lore/place/place.page-type.types.ts"
 
-export const otherwhereKitchen = {
+export const otherwhereTheLibraryKitchen = {
   id: "01a0e559-88b3-7e7e-85f9-4749c3d48456",
   type: "page-type/place",
-  slug: "otherwhere-kitchen",
+  slug: "otherwhere-the-library-kitchen",
   title: "The Kitchen",
   world: "world/library-system-reset-overdue-book-four-stubbed",
   exits: [

@@ -1,9 +1,9 @@
 import type { Place } from "akasha/story/lore/place/place.page-type.types.ts"
 
-export const otherwhereCheckInCounter = {
+export const otherwhereTheLibraryCheckInCounter = {
   id: "01a0e952-ef90-7a86-a61d-99554952631a",
   type: "page-type/place",
-  slug: "otherwhere-check-in-counter",
+  slug: "otherwhere-the-library-check-in-counter",
   title: "The Check-in Counter",
   world: "world/library-system-reset-overdue-book-four-stubbed",
   within: "place/otherwhere-the-library-main-hall",
