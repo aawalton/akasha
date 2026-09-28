@@ -268,48 +268,47 @@ function SheetHeader({ sheet }: { sheet: ClientSheet }) {
   )
 }
 
-export function SheetPanel({
+export type SheetShown = {
+  readonly sheet: ClientSheet | null
+  readonly game?: string | undefined
+  readonly workings?: readonly Working[] | undefined
+  readonly showsStats?: boolean | undefined
+}
+
+export function SheetPanel({ sheet, game, workings, showsStats = true }: SheetShown) {
+  if (sheet === null) return null
+  return (
+    <SurfaceProvider level={1} className="flex flex-col gap-3 rounded-xl p-4 shadow-sm">
+      <SheetHeader sheet={sheet} />
+      <SheetTabs sheet={sheet} game={game} workings={workings} showsStats={showsStats} />
+    </SurfaceProvider>
+  )
+}
+
+export function SheetTabs({
   sheet,
   game,
   workings,
   showsStats = true,
-}: {
-  sheet: ClientSheet | null
-  game?: string
-  workings?: readonly Working[]
-  showsStats?: boolean
-}) {
-  if (sheet === null) {
-    return (
-      <SurfaceProvider
-        level={1}
-        className="rounded-xl p-4 font-mono text-[12px] text-tertiary shadow-sm"
-      >
-        No sheet revealed yet.
-      </SurfaceProvider>
-    )
-  }
+}: SheetShown & { readonly sheet: ClientSheet }) {
   return (
-    <SurfaceProvider level={1} className="flex flex-col gap-3 rounded-xl p-4 shadow-sm">
-      <SheetHeader sheet={sheet} />
-      <Tabs defaultValue={showsStats ? "stats" : "skills"} className="gap-3">
-        <TabsList>
-          {showsStats ? <TabsTrigger value="stats">Stats</TabsTrigger> : null}
-          <TabsTrigger value="skills">Skills</TabsTrigger>
-          <TabsTrigger value="items">Items</TabsTrigger>
-        </TabsList>
-        {showsStats ? (
-          <TabsContent value="stats">
-            <StatsTab sheet={sheet} game={game} workings={workings} />
-          </TabsContent>
-        ) : null}
-        <TabsContent value="skills">
-          <SkillsTab sheet={sheet} />
+    <Tabs defaultValue={showsStats ? "stats" : "skills"} className="gap-3">
+      <TabsList>
+        {showsStats ? <TabsTrigger value="stats">Stats</TabsTrigger> : null}
+        <TabsTrigger value="skills">Skills</TabsTrigger>
+        <TabsTrigger value="items">Items</TabsTrigger>
+      </TabsList>
+      {showsStats ? (
+        <TabsContent value="stats">
+          <StatsTab sheet={sheet} game={game} workings={workings} />
         </TabsContent>
-        <TabsContent value="items">
-          <ItemsTab sheet={sheet} />
-        </TabsContent>
-      </Tabs>
-    </SurfaceProvider>
+      ) : null}
+      <TabsContent value="skills">
+        <SkillsTab sheet={sheet} />
+      </TabsContent>
+      <TabsContent value="items">
+        <ItemsTab sheet={sheet} />
+      </TabsContent>
+    </Tabs>
   )
 }

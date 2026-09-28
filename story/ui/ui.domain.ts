@@ -34,6 +34,7 @@ export const ui = {
     "module/system-window-card",
     "module/story-chapters",
     "module/character-cover-panel",
+    "module/player-character-panel",
     "module/scene-cover-panel",
     "module/time-panel",
     "page-type/played-panel",

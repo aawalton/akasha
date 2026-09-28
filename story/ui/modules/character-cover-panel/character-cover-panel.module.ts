@@ -27,7 +27,11 @@ export const characterCoverPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A character is named under the cover by that character's title.",
+      statement: "A character is named above the cover by that character's title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The other-characters panel draws the turn's characters other than the player's.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -8,6 +8,7 @@ import {
   charactersDrawn,
   charactersIn,
   latestTurnId,
+  othersOf,
   playersFirst,
   slugsOf,
 } from "akasha/story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx"
@@ -88,6 +89,14 @@ test("a character's persona is not followed for a cover", () => {
   const echo = namedAs(persona.slug, "echo", null)
   const rows = new Map([[characterOther.slug, [row({ slug: "a", persona: echo })]]])
   expect(characterCoversOf(charactersIn([other("a")]), rows)).toEqual([])
+})
+
+test("the other characters are the turn's characters that are not the player's", () => {
+  expect(othersOf(charactersIn([player("p"), other("a"), other("b")]))).toEqual([
+    { pageTypeSlug: characterOther.slug, slug: "a" },
+    { pageTypeSlug: characterOther.slug, slug: "b" },
+  ])
+  expect(othersOf(charactersIn([player("p")]))).toEqual([])
 })
 
 test("the player's character is drawn first, and the others after in the turn's order", () => {

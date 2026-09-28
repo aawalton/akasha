@@ -137,10 +137,28 @@ type CoverPanelProps = {
 export function CharacterCoverPanel({ turns, player }: CoverPanelProps) {
   const turnId = latestTurnId(turns)
   if (turnId === null) return null
-  return <TurnCharacters turnId={turnId} player={player} />
+  return <TurnCharacters turnId={turnId} player={player} othersOnly={false} />
 }
 
-function TurnCharacters({ turnId, player }: { turnId: string; player: string }) {
+export function othersOf(named: readonly Character[]): readonly Character[] {
+  return named.filter((one) => one.pageTypeSlug === characterOther.slug)
+}
+
+export function OtherCharactersPanel({ turns }: { readonly turns: readonly ClientStoryTurn[] }) {
+  const turnId = latestTurnId(turns)
+  if (turnId === null) return null
+  return <TurnCharacters turnId={turnId} player="" othersOnly={true} />
+}
+
+function TurnCharacters({
+  turnId,
+  player,
+  othersOnly,
+}: {
+  turnId: string
+  player: string
+  othersOnly: boolean
+}) {
   const turnOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
       pageTypeSlug: storyTurnPlayed.slug,
@@ -152,7 +170,8 @@ function TurnCharacters({ turnId, player }: { turnId: string; player: string }) 
   )
   const rows = usePages(turnOptions).rows
   const turn = rows.find((row) => row[ID_KEY] === turnId)
-  const keyed = keyedOf(charactersDrawn(turn?.[characters.propertySlug], player))
+  const named = turn?.[characters.propertySlug]
+  const keyed = keyedOf(othersOnly ? othersOf(charactersIn(named)) : charactersDrawn(named, player))
   if (keyed === "") return null
   return <TypeRows keyed={keyed} at={0} read={[]} />
 }
@@ -192,8 +211,8 @@ function TypeRowsRead({ keyed, at, read, slugKeyed }: Drawing & { slugKeyed: str
 function Figure({ one }: { one: CharacterCover }) {
   return (
     <figure className="flex flex-col gap-2">
+      <figcaption className="font-mono font-semibold text-primary text-sm">{one.name}</figcaption>
       <PageCover coverUrl={one.source} />
-      <figcaption className="font-mono text-[12px] text-secondary">{one.name}</figcaption>
     </figure>
   )
 }
