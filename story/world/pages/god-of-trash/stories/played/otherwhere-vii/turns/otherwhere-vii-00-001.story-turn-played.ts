@@ -12,5 +12,5 @@ export const otherwhereVii00001 = {
   characters: ["character-player/otherwhere-vii-nala"],
   stepStatus: "step-status/recorders",
   lore: ["lore/otherwhere-vii-nala", "place/otherwhere-vii-ashford-road-ditch"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
