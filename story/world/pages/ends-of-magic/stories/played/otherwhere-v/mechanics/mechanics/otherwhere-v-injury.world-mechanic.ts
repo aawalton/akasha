@@ -6,5 +6,5 @@ export const otherwhereVInjury = {
   slug: "otherwhere-v-injury",
   title: "Injury",
   world: "world/ends-of-magic",
-  description: "Hurt to the body: cuts, bites, burns and breaks, and the slow mending after.",
+  description: "Hurt to the body: cuts, bites, burns and breaks.",
 } as const satisfies WorldMechanic

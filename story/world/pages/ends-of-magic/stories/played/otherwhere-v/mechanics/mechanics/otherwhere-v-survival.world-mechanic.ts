@@ -6,5 +6,5 @@ export const otherwhereVSurvival = {
   slug: "otherwhere-v-survival",
   title: "Survival",
   world: "world/ends-of-magic",
-  description: "Thirst, hunger, cold and want of sleep, and what they do to a body.",
+  description: "Thirst, hunger, cold and want of sleep.",
 } as const satisfies WorldMechanic
