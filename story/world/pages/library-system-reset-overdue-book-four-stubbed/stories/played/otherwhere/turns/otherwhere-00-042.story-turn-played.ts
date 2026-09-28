@@ -11,7 +11,7 @@ export const otherwhere00042 = {
   position: 42,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: "I run back to the entrance and get another bag and repeat the process.",
   beats: [
     "Nala drags herself up, aching, and runs back to the edge of the gloom for another sack.",
@@ -26,5 +26,5 @@ export const otherwhere00042 = {
   issues: ['"But it is still alive." - Leave It Open'],
   lore: ["place/otherwhere-hall-back"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture", "story-recorder/memory"],
 } as const satisfies StoryTurnPlayed

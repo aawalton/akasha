@@ -312,13 +312,20 @@ export const otherwhereHallBack = {
       fact: "Nala's robe, belt, pouch and slippers lie by the honey jar at the edge of the gloom.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "Nala is crusted in salt over honey from scalp to toes, her clothes set aside.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Twice struck by the big bookworm's thrash, Nala aches all over and is hurting badly.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Salt burning in its gullet, the big bookworm convulsed; its grey hide puckered and cracked.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "The big bookworm's thrashing slowed, and it swung its salt-rimmed mouth back toward Nala.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],
