@@ -233,6 +233,14 @@ export const otherwhereViHollowStream = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The sow shadows a slow retreat a few steps, clacking, then turns back once her young go quiet.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At the slope's foot, open gravel bank runs downstream behind one backing from the wallow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Below the wallow the valley narrows; birch joins the alder, and the stream talks over riffles.",
       knowers: ["lore-disclosure/game-master"],
     },
