@@ -7,5 +7,5 @@ export const otherwhereVNotifications = {
   title: "Notifications",
   world: "world/ends-of-magic",
   aliases: ["blue box", "box", "notification"],
-  description: "A blue box of text Davrar shows in a person's sight.",
+  description: "A blue box of text in a person's sight.",
 } as const satisfies WorldMechanic

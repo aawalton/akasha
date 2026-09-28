@@ -7,5 +7,5 @@ export const otherwhereVConclaveRules = {
   title: "Conclave Rules",
   world: "world/ends-of-magic",
   aliases: ["Conclave", "Questor Conclave"],
-  description: "The procedure by which a gathering of Questors votes to change Davrar's rules.",
+  description: "The procedure of a Questor Conclave.",
 } as const satisfies WorldMechanic

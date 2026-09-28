@@ -7,5 +7,5 @@ export const otherwhereVFocus = {
   title: "Focus",
   world: "world/ends-of-magic",
   aliases: ["Regenerative Focus", "Limitless Focus"],
-  description: "A class resource of mental power, shown as current over maximum.",
+  description: "A class resource of mental power.",
 } as const satisfies WorldMechanic

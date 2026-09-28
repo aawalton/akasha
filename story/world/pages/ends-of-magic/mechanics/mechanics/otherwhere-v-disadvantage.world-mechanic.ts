@@ -6,5 +6,5 @@ export const otherwhereVDisadvantage = {
   slug: "otherwhere-v-disadvantage",
   title: "Disadvantage",
   world: "world/ends-of-magic",
-  description: "A state Davrar declares for a grown person who has no Talents, classes or skills.",
+  description: "The state of a grown person with no Talents, classes or skills.",
 } as const satisfies WorldMechanic

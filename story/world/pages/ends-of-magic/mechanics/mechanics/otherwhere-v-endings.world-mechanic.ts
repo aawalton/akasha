@@ -7,5 +7,5 @@ export const otherwhereVEndings = {
   title: "Endings",
   world: "world/ends-of-magic",
   aliases: ["Ending"],
-  description: "A world-wide catastrophe that returns to Davrar across the ages.",
+  description: "A recurring world-wide catastrophe.",
 } as const satisfies WorldMechanic

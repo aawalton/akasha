@@ -7,5 +7,5 @@ export const otherwhereVQuests = {
   title: "Quests",
   world: "world/ends-of-magic",
   aliases: ["Quest", "New Quest"],
-  description: "A task Davrar sets a person in a box, with a stated reward.",
+  description: "A task with a stated reward.",
 } as const satisfies WorldMechanic

@@ -7,5 +7,5 @@ export const otherwhereVSeals = {
   title: "Seals",
   world: "world/ends-of-magic",
   aliases: ["Seal"],
-  description: "A great ancient machine of stone, one of hundreds set across Davrar.",
+  description: "A great ancient machine of stone.",
 } as const satisfies WorldMechanic
