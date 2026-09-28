@@ -24,6 +24,7 @@ export const metricCharacterAttribute = {
     "page-type/otherwhere-charisma",
     "page-type/otherwhere-magic",
     "page-type/otherwhere-level",
+    "page-type/otherwhere-skill",
   ],
 
   types: "ts",
