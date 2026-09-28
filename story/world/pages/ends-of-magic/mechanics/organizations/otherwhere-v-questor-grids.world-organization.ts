@@ -6,6 +6,6 @@ export const otherwhereVQuestorGrids = {
   slug: "otherwhere-v-questor-grids",
   title: "Questor Grids",
   world: "world/ends-of-magic",
-  aliases: ["grids", "the game of Questors", "polite wars", "Questor wars"],
+  aliases: ["grids", "the game of Questors"],
   description: "Alliances of Questors.",
 } as const satisfies WorldOrganization

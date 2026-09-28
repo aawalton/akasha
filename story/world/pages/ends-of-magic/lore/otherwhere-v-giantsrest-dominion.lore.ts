@@ -17,6 +17,10 @@ export const otherwhereVGiantsrestDominion = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Giantsrest calls other peoples barbarians and intelligent monsters.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Its archmages govern its cities; the old, cruel archmage Exea dha Humal governs Halsmet.",
       knowers: ["lore-disclosure/game-master"],
     },
