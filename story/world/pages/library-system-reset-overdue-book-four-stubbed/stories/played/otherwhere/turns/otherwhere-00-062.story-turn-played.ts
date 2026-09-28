@@ -21,4 +21,5 @@ export const otherwhere00062 = {
     'Links: "Covered and neat offends almost nobody. Your robe\'s both. Mostly."',
   ],
   lore: ["lore/otherwhere-universe"],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
