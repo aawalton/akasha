@@ -1,1 +1,2 @@
 {"check":"world-check/otherwhere-time-passing","reading":{"from":"2026-09-28T15:02:00.000Z","minutes":3},"answered":{"endsAt":"2026-09-28T15:05:00.000Z","day":1,"light":"day"}}
+{"check":"world-check/otherwhere-needs","reading":{"character":"character-player/otherwhere-nala","sinceDrink":7.45,"hotHours":1.95,"sinceMeal":9.45,"awake":9.45,"lessenedBy":25},"answered":{"thirst":{"weight":7.1,"stage":"thirsty","bonus":-1,"harmPerHour":0},"hunger":{"weight":7.1,"stage":"fed","bonus":0,"harmPerHour":0},"sleep":{"weight":7.1,"stage":"rested","bonus":0,"harmPerHour":0}}}
