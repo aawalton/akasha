@@ -16,6 +16,7 @@ export const worldCheck = {
     "world-check/otherwhere-the-library-action-check",
     "world-check/otherwhere-the-library-harm",
     "world-check/otherwhere-the-library-standing",
+    "world-check/otherwhere-action-check",
     "world-check/dragons-and-dungeons-check",
   ],
   properties: [{ pageProperty: "module-property-group/settling", required: true, many: false }],
