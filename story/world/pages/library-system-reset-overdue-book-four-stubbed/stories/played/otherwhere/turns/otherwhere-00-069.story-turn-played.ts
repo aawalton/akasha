@@ -20,4 +20,5 @@ export const otherwhere00069 = {
     "By the Counter, the first golem's arm folds back down, empty; its first book is on the high shelf.",
   ],
   lore: ["place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
