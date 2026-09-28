@@ -42,5 +42,10 @@ export const haremHotel00001 = {
     "The concierge waits, hands folded beside the bell; the bellhop's eyes are openly on him.",
     "Alan lies on the chaise in a sealed lobby, brick behind every window, the front desk waiting on him.",
   ],
+  issues: [
+    '"Brick behind every window. The gate locked at the foot of the stairs." - Leave It Open',
+    '"the woman standing behind it, hands folded beside the bell" - No Prompt',
+  ],
   lore: ["place/harem-hotel-floor-1", "lore/harem-hotel-odile", "lore/harem-hotel-wren"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
