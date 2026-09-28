@@ -7,7 +7,15 @@ export const otherwhere00051 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 51,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "**Do it, just let me wash off the worst of the mess first **. I go to the tub and wash off the honey and salt, then fill the tub with water. **Ready**",
+  beats: [
+    "Nala tells Links to do it, but to let her wash off the worst of the mess first.",
+    "In the bathroom she scrubs off the honey and salt under the cold tap, shivering.",
+    "The honey comes off in sticky sheets; the salt stings every scrape and scar.",
+    "She fills the deep stone tub with cold water and thinks at Links: ready.",
+    "The water stirs; warmth spreads out from the bottom of the tub, and steam curls up off the surface.",
+    "In moments the tub is steaming hot.",
+  ],
 } as const satisfies StoryTurnPlayed
