@@ -10,7 +10,7 @@ export const theDatingGame00039 = {
   position: 39,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action: "“Good night, Grace.” I watch her go, then head home and go to sleep.",
   beats: [
     'Alan: "Good night, Grace."',
@@ -22,5 +22,5 @@ export const theDatingGame00039 = {
     "He kicks off the dusty Ecco slip-ons by the door, as he did last night.",
     "He goes to bed, and the long day lets go of him; sleep comes easily.",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
