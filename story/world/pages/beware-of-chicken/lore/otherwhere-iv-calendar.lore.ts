@@ -63,5 +63,17 @@ export const otherwhereIvCalendar = {
       fact: "Nine Ironfields children lit their dantians in the same Qi surge at the last solstice.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The hills have one moon, which waxes and wanes in about thirty days, as Earth's moon does.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The sun and moon move as they do on Earth, but the night stars form no pattern Earth knows.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The almanac months run by the moon, each named for one of the twelve beasts of the zodiac.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
