@@ -29,4 +29,5 @@ export const theDatingGame00031 = {
     '"Full dark has come down over the cemetery now" - 030 ends 7:29 PM, minutes past sunset',
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
