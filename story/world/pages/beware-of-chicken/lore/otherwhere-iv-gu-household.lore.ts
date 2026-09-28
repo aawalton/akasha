@@ -79,5 +79,29 @@ export const otherwhereIvGuHousehold = {
         "character-other/otherwhere-iv-zhao-jun",
       ],
     },
+    {
+      fact: "Gu holds, as the almanac teaches, that Heaven is a round dome over a square Earth.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He believes the sun is carried across Heaven each day, rising from the eastern sea.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He believes the sun goes beneath the Earth by night and returns to the east by dawn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "To Gu the sun moving is plain sight; saying the Earth moves would sound like madness.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "No law in the hills punishes talk of the heavens, but mocking Heaven's order is thought ill luck.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Gu is a careful man who keeps secrets; a secret shared by a spirit would flatter and bind him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
