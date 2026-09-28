@@ -19,6 +19,7 @@ export const worldMechanic = {
     "module/linear-stat",
     "module/strike-resolution",
     "module/time-passing",
+    "module/needs-weighing",
     "module/banded-roll",
     "number-property/paragraph",
     "number-property/reference-level",

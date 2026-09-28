@@ -38,6 +38,7 @@ export const worldCheck = {
     "world-check/otherwhere-ii-conditioning",
     "world-check/dragons-and-dungeons-check",
     "world-check/otherwhere-ix-time-passing",
+    "world-check/otherwhere-ix-needs",
     "world-check/otherwhere-vii-time-passing",
   ],
   properties: [{ pageProperty: "module-property-group/settling", required: true, many: false }],

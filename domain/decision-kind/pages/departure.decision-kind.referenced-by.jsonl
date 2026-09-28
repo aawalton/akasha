@@ -3853,6 +3853,7 @@
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/dice-rolling/dice-rolling.module.ts","id":"01a0c5f7-fd70-7b67-ab29-7b3be9723b2a"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/dice-throwing/dice-throwing.module.ts","id":"01a0de28-48fb-7955-8bf2-53eabca62339"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/linear-stat/linear-stat.module.ts","id":"01a0c471-ac2e-74b8-a2de-da9cac658a5e"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/modules/needs-weighing/needs-weighing.module.ts","id":"01a0ea2c-1597-79c2-ab49-dae0d0cd08fb"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/strike-resolution/strike-resolution.module.ts","id":"01a0de82-ec49-7228-a137-9e9f1a4de0d8"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/time-passing/time-passing.module.ts","id":"01a0e9e1-aa5f-7d53-b9bb-61529eb4291d"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/properties/aliases.text-property.ts","id":"01a06558-a991-7721-9c7a-fb59e452d286"}
@@ -3916,6 +3917,7 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/properties/otherwhere-the-library-room-exits.computed-property.ts","id":"01a0e85e-5914-79c3-9ba6-92e60f4b03aa"}
 {"propertySlug":"decision-kind","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/properties/otherwhere-the-library-room-place.relation-property.ts","id":"01a0e859-c246-7a14-a0e6-042516b42bb9"}
 {"propertySlug":"decision-kind","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/properties/otherwhere-the-library-room-shown-to.multi-relation-property.ts","id":"01a0e835-b5ed-76dc-8197-0187f1a78ff6"}
+{"propertySlug":"decision-kind","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/stories/played/otherwhere-ix/mechanics/checks/otherwhere-ix-needs.world-check.ts","id":"01a0ea2c-1598-78b9-a3de-f8b98acd35fa"}
 {"propertySlug":"decision-kind","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/stories/played/otherwhere-ix/mechanics/checks/otherwhere-ix-time-passing.world-check.ts","id":"01a0ea29-4972-7f7a-9fea-bd6ab985780f"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/dragons-and-dungeons/mechanics/checks/dragons-and-dungeons-check.world-check.ts","id":"01a0e3a2-2fca-74ba-add3-c6d38b930e0b"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-dating-game/mechanics/checks/the-dating-game-closeness-scoring.world-check.ts","id":"01a0dee4-f4b7-70af-bd38-a35274387d8c"}
