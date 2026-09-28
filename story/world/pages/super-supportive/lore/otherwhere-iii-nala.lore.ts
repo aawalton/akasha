@@ -106,7 +106,27 @@ export const otherwhereIiiNala = {
     },
     {
       fact: "Nala's feet are frostnipped, not frostbitten; kept warm and dry, they heal within a day.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-denise-pruitt",
+      ],
+    },
+    {
+      fact: "Nala wears Denise's spare grey wool socks over her tights.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-denise-pruitt",
+      ],
+    },
+    {
+      fact: "Nala told Denise an ex-boyfriend left her stranded, a thousand miles from home.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-denise-pruitt",
+      ],
     },
   ],
   secrets: "jsonl",

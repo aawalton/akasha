@@ -34,15 +34,27 @@ export const otherwhereIiiDenisePruitt = {
     },
     {
       fact: "She would sooner walk Nala into her ER to be seen than leave her on a train.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-denise-pruitt",
+      ],
     },
     {
       fact: "She knows a hospital sees anyone who walks in, with no ID or money needed.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-denise-pruitt",
+      ],
     },
     {
       fact: "She can call a social worker at the hospital who finds shelter beds and clothing.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-denise-pruitt",
+      ],
     },
     {
       fact: "She has a daughter of twenty-three at college in Iowa.",
@@ -51,6 +63,22 @@ export const otherwhereIiiDenisePruitt = {
     {
       fact: "She is blunt, warm and tired, and she notices when a story does not add up.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The nurse gives her name as Denise, an ER nurse at Uptown Memorial.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-denise-pruitt",
+      ],
+    },
+    {
+      fact: "Denise's stop is Lawrence, two stops past Sheridan.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-denise-pruitt",
+      ],
     },
   ],
 } as const satisfies Lore

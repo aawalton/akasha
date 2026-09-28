@@ -4,6 +4,7 @@ export const otherwhereIii00004 = {
   id: "01a0e9fb-75f6-7dbe-8bae-92883a935f3b",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-004",
+  cover: "image/image-0a0fef359bc70322",
   ownLength: 375,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
@@ -13,7 +14,7 @@ export const otherwhereIii00004 = {
     "character-player/otherwhere-iii-nala",
     "character-other/otherwhere-iii-denise-pruitt",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Yes, please.” I say quietly. “My stupid EX-boyfriend left me here with nothing and I’m a thousand miles from home. I mean, I don’t usually mind the cold, but this is a little much for bare feet.”",
   beats: [
@@ -44,6 +45,6 @@ export const otherwhereIii00004 = {
   ],
   lore: ["lore/otherwhere-iii-denise-pruitt", "lore/otherwhere-iii-nala"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2037-01-31T04:57:00.000Z",
 } as const satisfies StoryTurnPlayed
