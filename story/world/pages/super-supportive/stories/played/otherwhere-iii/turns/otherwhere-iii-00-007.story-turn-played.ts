@@ -13,7 +13,7 @@ export const otherwhereIii00007 = {
     "character-player/otherwhere-iii-nala",
     "character-other/otherwhere-iii-denise-pruitt",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     '"Nala Arthur, January 22, 1986, 1350 Apple Ave Provo, Utah" I recite smoothly. "No local address"',
   beats: [
@@ -27,6 +27,6 @@ export const otherwhereIii00007 = {
     '"Say the birth date for me one more time?"',
   ],
   lore: ["place/otherwhere-iii-uptown-memorial-er", "lore/otherwhere-iii-nala"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2037-01-31T05:08:00.000Z",
 } as const satisfies StoryTurnPlayed
