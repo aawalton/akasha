@@ -7,5 +7,5 @@ export const otherwhereVWizardry = {
   title: "Wizardry",
   world: "world/ends-of-magic",
   aliases: ["true wizardry"],
-  description: "The higher realm of magic beyond mana.",
+  description: "A higher realm of magic.",
 } as const satisfies WorldMechanic

@@ -9,6 +9,10 @@ export const otherwhereVArenaCrystal = {
   about: "world-item/otherwhere-v-arena-crystal",
   facts: [
     {
+      fact: "The arena crystal forms the shell of the Arena of the Concord.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The Arena's crystal is beyond wizardry; an indestructible magical force enforces its rules.",
       knowers: ["lore-disclosure/game-master"],
     },

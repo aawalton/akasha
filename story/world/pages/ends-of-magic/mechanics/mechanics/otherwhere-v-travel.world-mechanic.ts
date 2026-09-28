@@ -6,5 +6,5 @@ export const otherwhereVTravel = {
   slug: "otherwhere-v-travel",
   title: "Travel",
   world: "world/ends-of-magic",
-  description: "How people and goods cross Davrar's great distances by land, sea and air.",
+  description: "Journeys across Davrar by land, sea and air.",
 } as const satisfies WorldMechanic

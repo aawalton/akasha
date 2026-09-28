@@ -7,5 +7,5 @@ export const otherwhereVArenaCrystal = {
   title: "Arena Crystal",
   world: "world/ends-of-magic",
   aliases: ["arena shell"],
-  description: "The indestructible crystal of the Arena of the Concord.",
+  description: "An indestructible magical crystal.",
 } as const satisfies WorldItem
