@@ -233,7 +233,7 @@ export const otherwhereHallBack = {
       ],
     },
     {
-      fact: "Nala's last sack burst short in its mouth; only the honey jar is left at the gloom's edge.",
+      fact: "Two fresh salt sacks and the honey jar sit at the gloom's edge.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
@@ -322,6 +322,10 @@ export const otherwhereHallBack = {
     },
     {
       fact: "By morning the big bookworm is chewing again, far back in the gloom.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Nala's fourth sack glanced off the big bookworm's teeth and fell whole; its bite missed her.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],
