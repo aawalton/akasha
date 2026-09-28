@@ -23,4 +23,5 @@ export const theDatingGame00052 = {
     "\"'Awake and sing, ye that dwell in dust: for thy dew is as the dew of herbs.'\"",
   ],
   lore: ["lore/the-dating-game-talia"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
