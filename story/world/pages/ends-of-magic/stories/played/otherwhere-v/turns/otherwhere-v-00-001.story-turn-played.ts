@@ -4,6 +4,7 @@ export const otherwhereV00001 = {
   id: "01a0e9e4-d520-7bf3-bfd9-4832d1f53d1b",
   type: "page-type/story-turn-played",
   slug: "otherwhere-v-00-001",
+  cover: "image/image-8d0921372a03a72e",
   partOfCollections: ["story-played/otherwhere-v"],
   position: 1,
   ownLength: 560,
@@ -12,6 +13,6 @@ export const otherwhereV00001 = {
   characters: ["character-player/otherwhere-v-nala"],
   stepStatus: "step-status/recorders",
   lore: ["lore/otherwhere-v-nala", "place/otherwhere-v-fern-hollow"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T17:20:00.000Z",
 } as const satisfies StoryTurnPlayed
