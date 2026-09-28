@@ -10,7 +10,7 @@ export const otherwhereV00003 = {
   position: 3,
   prose: "txt",
   characters: ["character-player/otherwhere-v-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "**Okay, no help yet, but if I survive, l get something. Spring gives fresh water as good a place to start as any. Spiral search pattern outward, learn what is near by, eyes peeled for danger. Pay close attention to everything, maybe I can get an inspect skill.** Plan in place, I put it into motion, slowly circling outward from the spring to find opportunities or threats in the immediate area.",
   beats: [
@@ -40,10 +40,9 @@ export const otherwhereV00003 = {
     "She stays crouched at the clawed trunk, studying the marks, as the last light goes.",
     "Full dark finds her there: the farthest point of her circuit from the spring and the log.",
     "Under the canopy it is black now, but for the drifting green specks and brief fern-glows.",
-    "The ticking goes on in the ferns; she hears nothing she marks as wrong.",
+    "The ticking around her is patchy, some near ferns quiet; she marks nothing wrong in it.",
     "A heavy grey shape bursts out of the ferns behind her, close, fast and low.",
     "It swerves off a stride short of her with a hiss, and is gone into the black.",
-    "The ferns where it vanished shiver, then are still.",
   ],
   issues: [
     '"The ferns where it went shiver, then go still." - Leave It Open',
