@@ -11,4 +11,5 @@ export const otherwhereIx00005 = {
   action:
     '"Well, you might want to hurry up then Firrelia!" I grunt as I try to tackle the beast and choke it.',
   lore: ["lore/otherwhere-ix-shardback"],
+  endsAt: "2026-09-28T15:36:00.000Z",
 } as const satisfies StoryTurnPlayed
