@@ -325,5 +325,13 @@ export const otherwhereHallBack = {
       fact: "Nala's fourth sack of salt lies whole on the floor between her and the big bookworm.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
+    {
+      fact: "Burned three times, the big bookworm jerks its mouth away from a sack thrust straight at it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The big bookworm follows a fleeing Librarian's honey smell, slower than she can run.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
