@@ -88,6 +88,10 @@ export const otherwhereIiiDenisePruitt = {
       fact: "Denise grew up on Chicago's South Side and has never lived out West.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Denise has seen women left stranded before, and never presses them for more than they offer.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
