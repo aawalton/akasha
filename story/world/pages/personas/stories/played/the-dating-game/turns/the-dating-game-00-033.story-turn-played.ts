@@ -25,5 +25,6 @@ export const theDatingGame00033 = {
     '"Your father, and your grandfather," she says gently. "Tell me about them, if you want to."',
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  endsAt: "2026-09-26T19:34:00.000Z",
 } as const satisfies StoryTurnPlayed
