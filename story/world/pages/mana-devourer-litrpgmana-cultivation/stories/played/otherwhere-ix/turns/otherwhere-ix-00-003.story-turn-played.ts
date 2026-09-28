@@ -27,5 +27,6 @@ export const otherwhereIx00003 = {
     "Its blunt head is down and its mouth is open, going for her ankles.",
   ],
   lore: ["lore/otherwhere-ix-shardback", "place/otherwhere-ix-glassgrass-flats"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T15:34:00.000Z",
 } as const satisfies StoryTurnPlayed
