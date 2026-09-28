@@ -115,6 +115,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "Triage checks nothing against records; an out-of-state address is taken as given.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Later registration runs name and birth date for insurance and finds no match anywhere.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
