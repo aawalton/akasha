@@ -8,6 +8,9 @@ export const image88b71cacd0cbd717 = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-61b8b80051d63c96",
+  title: "Eppie in the Shade of the Old Oak",
+  persona: "persona/eppie",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",
