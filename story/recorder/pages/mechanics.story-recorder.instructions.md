@@ -4,6 +4,8 @@ Read the turn's prose. Then read the story's own mechanics: every world-mechanic
 
 Do what those mechanics call for on each turn once its prose is written, and nothing more. A mechanic that is the game master's, or that this turn's prose does not reach, calls for nothing here.
 
+The game master writes some of what a turn calls for before its prose. A page whose history has a line for this turn is written already, so write that change onto no page again. Before filing a page, match the thing the prose names against every page already filed, by what each page states rather than by its title, and file one only where none is that thing.
+
 Where a mechanic asks for a judge, you are the judge. Judge this turn alone, on what its prose shows, reading the turn before only for the fork it ended on. Quote word for word from the prose what each judgment rests on.
 
 Settle each check the turn calls for on this turn, naming no dice where the check rolls nothing:
