@@ -22,6 +22,8 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/cornerstone/lore/the-four-labors-the-founding-fork.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/cornerstone/lore/the-small-one-the-child.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/cornerstone/lore/the-waking-stone-the-core.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/harem-hotel/lore/harem-hotel-odile.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/harem-hotel/lore/harem-hotel-wren.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/lore/otherwhere-alan.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/lore/otherwhere-golems.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/lore/otherwhere-links.lore.ts","typed":true,"deferred":false}

@@ -1,0 +1,9 @@
+import type { CharacterOther } from "akasha/story/world/characters/character-other/character-other.page-type.types.ts"
+
+export const haremHotelOdile = {
+  id: "01a0e839-1d45-7b18-83f3-4f11a129461c",
+  type: "page-type/character-other",
+  slug: "harem-hotel-odile",
+  title: "The Concierge",
+  story: "story-played/harem-hotel",
+} as const satisfies CharacterOther
