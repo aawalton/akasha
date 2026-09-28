@@ -22,4 +22,5 @@ export const otherwhere00038 = {
     "Her own clothes still lie in their bloodied heap; the smell of fresh bread drifts in.",
   ],
   lore: ["place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
