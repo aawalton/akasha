@@ -28,6 +28,7 @@ export const otherwhereRoom = {
     "boolean-property/otherwhere-room-lit",
     "multi-relation-property/otherwhere-room-shown-to",
     "module/otherwhere-map",
+    "relation-property/otherwhere-room-place",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -38,5 +39,6 @@ export const otherwhereRoom = {
       many: true,
       maxCount: null,
     },
+    { pageProperty: "relation-property/otherwhere-room-place", required: false, many: false },
   ],
 } as const satisfies PageType

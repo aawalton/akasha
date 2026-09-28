@@ -7,5 +7,6 @@ export const otherwhereMainHall = {
   title: "The Main Hall",
   world: "world/library-system-reset-overdue-book-four-stubbed",
   lit: true,
+  place: "place/otherwhere-main-hall",
   shownTo: ["character-player/otherwhere-alan"],
 } as const satisfies OtherwhereRoom
