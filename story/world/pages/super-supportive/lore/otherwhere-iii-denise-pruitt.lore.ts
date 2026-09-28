@@ -12,6 +12,10 @@ export const otherwhereIiiDenisePruitt = {
       fact: "The nurse is Denise Pruitt, forty-six, an emergency-room nurse.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She rides north to a 5:30 shift at Uptown Memorial Hospital, by the Lawrence stop.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
