@@ -25,7 +25,8 @@ export const panelLoading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The panels come back in the order the game names them.",
+      statement:
+        "The panels come back in the order of their positions, not the order the game names.",
     },
     {
       decisionKind: "decision-kind/absence",

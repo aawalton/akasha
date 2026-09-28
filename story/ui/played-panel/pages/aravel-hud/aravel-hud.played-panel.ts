@@ -8,4 +8,5 @@ export const aravelHud = {
   code: "tsx",
   drawn: "js",
   place: "panel-place/aside",
+  position: 42,
 } as const satisfies PlayedPanel

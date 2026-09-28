@@ -8,6 +8,7 @@ export const characterSheet = {
   code: "tsx",
   drawn: "js",
   place: "panel-place/aside",
+  position: 52,
   decisions: [
     {
       decisionKind: "decision-kind/departure",

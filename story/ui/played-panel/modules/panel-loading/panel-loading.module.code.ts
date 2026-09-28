@@ -13,6 +13,8 @@ const DRAWN_KEY = "drawn"
 
 const PLACE_KEY = "place"
 
+const POSITION_KEY = "position"
+
 const DRAWN_ENDING = "js"
 
 const SHOWN = "Panel"
@@ -29,6 +31,7 @@ export type Shown = {
 
 type Held = {
   readonly place: string
+  readonly position: number
   readonly body: string
 }
 
@@ -65,7 +68,7 @@ async function drawnFrom(body: string): Promise<Drawn | null> {
 async function bodiesFor(): Promise<ReadonlyMap<string, Held>> {
   const asked = await askComposed({
     "page-type": playedPanel.slug,
-    keys: [SLUG_KEY, DRAWN_KEY, PLACE_KEY],
+    keys: [SLUG_KEY, DRAWN_KEY, PLACE_KEY, POSITION_KEY],
     files: [DRAWN_KEY],
   })
   const held = new Map<string, Held>()
@@ -73,11 +76,17 @@ async function bodiesFor(): Promise<ReadonlyMap<string, Held>> {
   for (const row of asked.answer.rows) {
     const slug = row.values[SLUG_KEY]
     const place = row.values[PLACE_KEY]
+    const position = row.values[POSITION_KEY]
     const body = bodyIn(row.values)
     if (typeof slug !== "string" || typeof place !== "string" || body === null) continue
-    held.set(slug, { place, body })
+    if (typeof position !== "number") continue
+    held.set(slug, { place, position, body })
   }
   return held
+}
+
+function positionOf(bodies: ReadonlyMap<string, Held>, slug: string): number {
+  return bodies.get(slug)?.position ?? Number.POSITIVE_INFINITY
 }
 
 async function panelsFor(named: readonly string[]): Promise<readonly Shown[]> {
@@ -85,8 +94,11 @@ async function panelsFor(named: readonly string[]): Promise<readonly Shown[]> {
   if (slugs.length === 0) return []
   offerDrawing()
   const bodies = await bodiesFor()
+  const ordered = slugs.toSorted(
+    (one, other) => positionOf(bodies, one) - positionOf(bodies, other)
+  )
   const held: Shown[] = []
-  for (const slug of slugs) {
+  for (const slug of ordered) {
     const one = bodies.get(slug)
     if (one === undefined) continue
     const drawn = await drawnFrom(one.body)

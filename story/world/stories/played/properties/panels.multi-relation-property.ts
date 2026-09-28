@@ -5,7 +5,7 @@ export const panels = {
   type: "page-type/multi-relation-property",
   slug: "panels",
   propertySlug: "panels",
-  definition: "the panels a story played shows on its play screen, in the order they are drawn",
+  definition: "the panels a story played shows on its play screen",
   targetPageType: "page-type/played-panel",
   decisions: [
     {
@@ -19,8 +19,7 @@ export const panels = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Each panel says where it sits, and the order here is the order within that place.",
+      statement: "Each panel says where it sits and its position there, so no order here counts.",
     },
   ],
   types: "ts",

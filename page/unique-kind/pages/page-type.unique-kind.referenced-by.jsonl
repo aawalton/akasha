@@ -8,3 +8,4 @@
 {"propertySlug":"unique","path":"page/properties/slug.text-property.ts","id":"01a049b9-856c-7187-96e0-518b0a8c72cb"}
 {"propertySlug":"unique","path":"person/device-secret/properties/device-secret-hash.text-property.ts","id":"01a05b39-f50c-7eb2-a48c-d4679699f045"}
 {"propertySlug":"unique","path":"product/kofi/contributor/properties/contributor-email-hash.text-property.ts","id":"01a0ba90-7481-7416-9833-84de20e54722"}
+{"propertySlug":"unique","path":"story/ui/played-panel/properties/panel-position.number-property.ts","id":"01a0e7fb-e2e2-7902-9b4e-1fdef912331e"}

@@ -8,4 +8,5 @@ export const hotelSheet = {
   code: "tsx",
   drawn: "js",
   place: "panel-place/aside",
+  position: 51,
 } as const satisfies PlayedPanel

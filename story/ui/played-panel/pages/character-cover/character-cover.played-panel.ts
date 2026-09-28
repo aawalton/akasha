@@ -8,4 +8,5 @@ export const characterCover = {
   code: "tsx",
   drawn: "js",
   place: "panel-place/aside",
+  position: 10,
 } as const satisfies PlayedPanel

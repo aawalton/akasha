@@ -26,6 +26,7 @@ export const playedPanel = {
     "page-type/panel-place",
     "change-generator/played-panel-drawing",
     "played-panel/character-cover",
+    "number-property/panel-position",
   ],
   decisions: [
     {
@@ -34,8 +35,11 @@ export const playedPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A story played names the panels its play screen shows, in the order they are drawn.",
+      statement: "A story played names the panels its play screen shows.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every play screen draws its panels in the one order their positions give.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -52,5 +56,6 @@ export const playedPanel = {
   properties: [
     { pageProperty: "file-property/drawn", required: false, many: false },
     { pageProperty: "relation-property/drawn-in", required: true, many: false },
+    { pageProperty: "number-property/panel-position", required: true, many: false },
   ],
 } as const satisfies PageType

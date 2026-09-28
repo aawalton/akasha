@@ -8,4 +8,5 @@ export const questList = {
   code: "tsx",
   drawn: "js",
   place: "panel-place/aside",
+  position: 60,
 } as const satisfies PlayedPanel

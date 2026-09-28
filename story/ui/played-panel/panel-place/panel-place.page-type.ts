@@ -14,7 +14,7 @@ export const panelPlace = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The order panels are drawn in within a place is the order the game names them.",
+      statement: "Panels are drawn within a place in the order of their positions.",
     },
     {
       decisionKind: "decision-kind/absence",

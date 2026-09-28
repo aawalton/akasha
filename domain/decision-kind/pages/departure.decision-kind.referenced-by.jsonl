@@ -3762,6 +3762,7 @@
 {"propertySlug":"decision-kind","path":"story/ui/played-panel/played-panel.page-type.ts","id":"01a0c49e-6107-758a-9dfe-efd394605239"}
 {"propertySlug":"decision-kind","path":"story/ui/played-panel/properties/drawn-in.relation-property.ts","id":"01a0c4c8-fe4c-7fa4-ae78-af86f4bbc920"}
 {"propertySlug":"decision-kind","path":"story/ui/played-panel/properties/drawn.file-property.ts","id":"01a0c4aa-d1e0-72a8-83ce-aa0c398fe652"}
+{"propertySlug":"decision-kind","path":"story/ui/played-panel/properties/panel-position.number-property.ts","id":"01a0e7fb-e2e2-7902-9b4e-1fdef912331e"}
 {"propertySlug":"decision-kind","path":"story/world/characters/character-other/properties/character-persona.relation-property.ts","id":"01a0de8a-32e1-74b8-8abf-107a1d0269a0"}
 {"propertySlug":"decision-kind","path":"story/world/characters/modules/character-filing/character-filing.module.ts","id":"01a0b6fd-c7fa-7619-85e1-ecea58423500"}
 {"propertySlug":"decision-kind","path":"story/world/characters/properties/alias-of.relation-property.ts","id":"01a0b718-64c3-7c6a-abd0-02f96fe6b3b9"}

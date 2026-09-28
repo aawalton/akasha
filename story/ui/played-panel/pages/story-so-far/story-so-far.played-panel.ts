@@ -8,4 +8,5 @@ export const storySoFar = {
   code: "tsx",
   drawn: "js",
   place: "panel-place/above",
+  position: 70,
 } as const satisfies PlayedPanel
