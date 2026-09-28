@@ -10,7 +10,7 @@ export const theDatingGame00032 = {
   position: 32,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action:
     "I chuckle softly. “Thanks, I’ll gladly take you up on that. So, what brings you here? It sounds like you do this often?”",
   beats: [
@@ -27,5 +27,5 @@ export const theDatingGame00032 = {
     '"The lantern swings low between you, and the gravel of the path crunches" - Leave It Open',
   ],
   lore: ["lore/the-dating-game-grace"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
