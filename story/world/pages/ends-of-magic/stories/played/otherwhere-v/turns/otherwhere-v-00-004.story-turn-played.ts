@@ -4,10 +4,13 @@ export const otherwhereV00004 = {
   id: "01a0ea12-2400-791a-86c2-adbfe667b19c",
   type: "page-type/story-turn-played",
   slug: "otherwhere-v-00-004",
+  ownLength: 291,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-v"],
   position: 4,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-v-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I quietly make my way back to the hollow trunk and crawl inside, hoping the narrow passage and smell of decay will hide me from threats.",
   beats: [
