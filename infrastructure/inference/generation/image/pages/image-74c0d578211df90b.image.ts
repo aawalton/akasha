@@ -8,6 +8,9 @@ export const image74c0d578211df90b = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-ec0e2bb40b74cfa7",
+  title: "Zeli Painting in a Pool of Golden Hair",
+  persona: "persona/zeli",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",
