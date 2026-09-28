@@ -6,4 +6,5 @@ export const otherwhereLinks = {
   slug: "otherwhere-links",
   title: "Links",
   story: "story-played/otherwhere",
+  cover: "image/image-e2a6b4c3d47d7095",
 } as const satisfies CharacterOther
