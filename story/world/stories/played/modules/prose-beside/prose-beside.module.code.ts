@@ -1,9 +1,12 @@
 "use client"
 
-import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
 import type { PageWatch } from "akasha/page/ui-store/collection/modules/change-following/change-following.module.code.ts"
 import { FILE_BACKING_POLL_MS } from "akasha/page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"
 import { getPagesStore } from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
+import {
+  askedLoudly,
+  reportThrown,
+} from "akasha/story/world/stories/played/modules/played-asking/played-asking.module.code.ts"
 import { useEffect, useState } from "react"
 
 const ID_KEY = "id"
@@ -20,7 +23,7 @@ async function readPlayedProse(
   pageTypeSlug: string,
   ids: readonly string[]
 ): Promise<ReadonlyMap<string, string> | null> {
-  const asked = await askComposed({
+  const asked = await askedLoudly({
     "page-type": pageTypeSlug,
     where: { id: { in: [...ids] } },
     keys: [ID_KEY, PROSE_KEY],
@@ -75,7 +78,10 @@ export function usePlayedProse(pageTypeSlug: string, ids: readonly string[]): Pl
       }
       asking = true
       void readPlayedProse(pageTypeSlug, named)
-        .catch(() => null)
+        .catch((thrown: unknown) => {
+          reportThrown(`reading the prose of ${pageTypeSlug}`, thrown)
+          return null
+        })
         .then((said) => {
           asking = false
           if (!alive) return

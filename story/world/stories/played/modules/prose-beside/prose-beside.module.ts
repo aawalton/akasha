@@ -44,5 +44,9 @@ export const proseBeside = {
       decisionKind: "decision-kind/departure",
       statement: "A read again that is refused leaves the prose read before in place.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A read that is refused or throws is reported.",
+    },
   ],
 } as const satisfies Module
