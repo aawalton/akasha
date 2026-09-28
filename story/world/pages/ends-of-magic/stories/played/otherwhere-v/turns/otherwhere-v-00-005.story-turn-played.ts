@@ -10,7 +10,7 @@ export const otherwhereV00005 = {
   position: 5,
   prose: "txt",
   characters: ["character-player/otherwhere-v-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I break into a run, getting into the log as quickly as possible",
   beats: [
     "Nala breaks into a run for the log, straight through the waist-high ferns in the black.",
@@ -30,7 +30,8 @@ export const otherwhereV00005 = {
     "Inside, the hollow smells of rot and earth; the dark in front of her face is dry and close.",
     "Its jaws shift on her neck, and its weight settles on her back for another bite.",
   ],
+  issues: ['"heavier than you are" - a gloamcat is lynx-sized, lighter than Nala even petite'],
   lore: ["lore/otherwhere-v-gloamcat"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T19:02:00.000Z",
 } as const satisfies StoryTurnPlayed
