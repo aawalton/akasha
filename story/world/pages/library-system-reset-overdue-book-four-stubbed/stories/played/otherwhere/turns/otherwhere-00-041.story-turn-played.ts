@@ -31,4 +31,5 @@ export const otherwhere00041 = {
     "Behind her, at the edge of the gloom, sit the honey jar and two more sacks.",
   ],
   lore: ["place/otherwhere-kitchen", "place/otherwhere-hall-back"],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
