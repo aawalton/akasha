@@ -106,6 +106,7 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-stamina.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-status.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-talents.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-teleportation.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-travel.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-utility-skills.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-wizardry.world-mechanic.ts","typed":true,"deferred":false}
