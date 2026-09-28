@@ -59,6 +59,22 @@ export const otherwhereCopperbacks = {
       fact: "A half-grown copperback with a white-blazed brow is bolder than the rest and follows strangers.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Copperbacks crack fanpalm nuts by pounding them on rock or dropping them from a height.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A copperback takes food held out to it only once it is set down and the giver draws back.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A copperback grabbed at, or stared down, bolts and does not come back that day.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A copperback fed more than once by the same person begins to trail and beg from them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

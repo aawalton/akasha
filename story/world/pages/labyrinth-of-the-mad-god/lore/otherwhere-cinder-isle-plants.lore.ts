@@ -24,6 +24,26 @@ export const otherwhereCinderIslePlants = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "A fanpalm husk is a thumb thick, woody and fibrous; nails and hands make no mark on it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A glass shard scores a fanpalm husk slowly but snaps if twisted or used to pry.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Smashed hard on driftwood or sand a fanpalm nut only bruises; on rock it cracks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A cracked fanpalm nut spills its water unless held upright; halves keep a little each.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Inside the water a fanpalm nut has a thin lining of white flesh, bland and safe to eat.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "A fallen fanpalm frond is broad enough to shade a person or thatch a lean-to.",
       knowers: ["lore-disclosure/game-master"],
     },
