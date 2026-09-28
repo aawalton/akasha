@@ -10,7 +10,7 @@ export const otherwhereIv00004 = {
   position: 4,
   prose: "txt",
   characters: ["character-player/otherwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     '"I do not have all knowledge, but I might still be able to help. Let us talk while we walk. What possibilities have you considered? What have you eliminated and how?"',
   beats: [
@@ -45,7 +45,11 @@ export const otherwhereIv00004 = {
     "She shades her eyes, sees who walks in front of her husband, and goes still.",
     'Zhao Jun turns back to Nala, eager and afraid at once. "So? Honored spirit, what is it?"',
   ],
+  issues: [
+    '"These aren\'t slumped" - in turn 2 the wall she saw had "slumped out in a fan"',
+    '"Eaten, roots and all" - in turn 2 the rice at the gap was flattened, pressed into the muck',
+  ],
   lore: ["lore/otherwhere-iv-three-stones-folk"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T07:10:00.000Z",
 } as const satisfies StoryTurnPlayed
