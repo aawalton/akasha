@@ -4,6 +4,8 @@ export const image4d798cff693cd65e = {
   id: "01a0e9e4-ca7f-7175-906b-9bc48c08cfea",
   type: "page-type/image",
   slug: "image-4d798cff693cd65e",
+  title: "Sunscreen at High Noon in Olive Strings",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
