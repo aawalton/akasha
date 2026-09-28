@@ -38,6 +38,6 @@ export const otherwhereIii00009 = {
   issues: ['"She has changed into navy scrubs" - Denise already wore blue scrubs on the train'],
   lore: ["place/otherwhere-iii-uptown-memorial-er", "lore/otherwhere-iii-the-system"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2037-01-31T05:25:00.000Z",
 } as const satisfies StoryTurnPlayed
