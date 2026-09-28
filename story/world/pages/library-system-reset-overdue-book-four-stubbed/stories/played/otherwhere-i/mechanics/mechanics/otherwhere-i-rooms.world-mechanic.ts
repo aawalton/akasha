@@ -1,9 +1,9 @@
 import type { WorldMechanic } from "akasha/story/world/mechanics/world-mechanic.page-type.types.ts"
 
-export const otherwhereTheLibraryRooms = {
+export const otherwhereIRooms = {
   id: "01a0e83a-685c-7a59-a1a2-aeb75ab5c977",
   type: "page-type/world-mechanic",
-  slug: "otherwhere-the-library-rooms",
+  slug: "otherwhere-i-rooms",
   title: "Rooms and the Library's Map",
   world: "world/library-system-reset-overdue-book-four-stubbed",
   description:

@@ -10,9 +10,9 @@ import { otherwhereIAlan } from "akasha/story/world/pages/library-system-reset-o
 import { otherwhereIRoom } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/otherwhere-i-room.page-type.ts"
 import type { OtherwhereIRoom } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/otherwhere-i-room.page-type.types.ts"
 import { otherwhereIBreakRoom } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/pages/otherwhere-i-break-room.otherwhere-i-room.ts"
-import { otherwhereTheLibraryCoreChamber } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/pages/otherwhere-the-library-core-chamber.otherwhere-i-room.ts"
-import { otherwhereTheLibraryKitchen } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/pages/otherwhere-the-library-kitchen.otherwhere-i-room.ts"
-import { otherwhereTheLibraryMainHall } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/pages/otherwhere-the-library-main-hall.otherwhere-i-room.ts"
+import { otherwhereICoreChamber } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/pages/otherwhere-i-core-chamber.otherwhere-i-room.ts"
+import { otherwhereIKitchen } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/pages/otherwhere-i-kitchen.otherwhere-i-room.ts"
+import { otherwhereIMainHall } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/pages/otherwhere-i-main-hall.otherwhere-i-room.ts"
 import {
   ROOMS,
   work,
@@ -27,19 +27,19 @@ const CORE_PLACE = namedAs(place.slug, corePlace.slug, null)
 const KITCHEN_PLACE = namedAs(place.slug, kitchenPlace.slug, null)
 
 const HALL: OtherwhereIRoom = {
-  ...otherwhereTheLibraryMainHall,
+  ...otherwhereIMainHall,
   place: HALL_PLACE,
   shownTo: [NALA],
 }
 
 const CORE: OtherwhereIRoom = {
-  ...otherwhereTheLibraryCoreChamber,
+  ...otherwhereICoreChamber,
   place: CORE_PLACE,
   shownTo: [NALA],
 }
 
 const KITCHEN: OtherwhereIRoom = {
-  ...otherwhereTheLibraryKitchen,
+  ...otherwhereIKitchen,
   place: KITCHEN_PLACE,
   shownTo: [NALA],
 }
