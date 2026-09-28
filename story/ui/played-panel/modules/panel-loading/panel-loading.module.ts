@@ -6,6 +6,7 @@ export const panelLoading = {
   slug: "panel-loading",
   definition: "the panels a game names, fetched as code and made ready to be shown",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -26,7 +27,7 @@ export const panelLoading = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A panel whose code reaches something this build does not offer is left out, and the rest are drawn.",
+        "A panel reaching a module or a name this build does not offer is left out, and the rest drawn.",
     },
     {
       decisionKind: "decision-kind/departure",

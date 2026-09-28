@@ -54,7 +54,7 @@ function bodyIn(values: Record<string, unknown>): string | null {
   return held
 }
 
-async function drawnFrom(body: string): Promise<Drawn | null> {
+export async function drawnFrom(body: string): Promise<Drawn | null> {
   const at = URL.createObjectURL(new Blob([body], { type: SCRIPT }))
   try {
     const held = (await import(at)) as Record<string, unknown>

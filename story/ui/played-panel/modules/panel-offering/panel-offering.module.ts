@@ -17,6 +17,11 @@ export const panelOffering = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A panel asking an offered module for a name it does not offer is refused at once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Adding a panel needs nothing here, and only a new piece to build one of does.",
     },
     {

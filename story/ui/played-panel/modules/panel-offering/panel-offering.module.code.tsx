@@ -52,6 +52,21 @@ const OFFERED: Readonly<Record<string, Readonly<Record<string, unknown>>>> = {
     { towerStamina },
 }
 
+function strictly(offered: Readonly<Record<string, unknown>>): Readonly<Record<string, unknown>> {
+  return new Proxy(offered, {
+    get(held, name, asker) {
+      if (typeof name === "string" && !Object.hasOwn(held, name)) {
+        throw new ReferenceError(`${name} is not offered to a panel`)
+      }
+      return Reflect.get(held, name, asker)
+    },
+  })
+}
+
+const STRICT = Object.fromEntries(
+  Object.entries(OFFERED).map(([path, offered]) => [path, strictly(offered)])
+)
+
 export function offerDrawing(): undefined {
-  Object.assign(globalThis, { [OFFERING]: OFFERED })
+  Object.assign(globalThis, { [OFFERING]: STRICT })
 }
