@@ -79,12 +79,12 @@ function definedAs(ids: readonly string[]): readonly PropertyDefinition[] {
   return ids.map((id) => ({ id, title: id, type: "text", pageId: id }))
 }
 
-export const FILED_TYPES: Readonly<Record<string, readonly PropertyDefinition[]>> = {
+const FILED_TYPES: Readonly<Record<string, readonly PropertyDefinition[]>> = {
   skill: definedAs(["slug", "key", "line"]),
   "scribed-skill": definedAs(["slug", "key", "line", "grimoire"]),
 }
 
-export const FILED_PAGES: readonly Readonly<Record<string, unknown>>[] = [
+const FILED_PAGES: readonly Readonly<Record<string, unknown>>[] = [
   { id: "s", slug: "strike", key: "strike", line: "two-handed", type: "skill" },
   {
     id: "b",
