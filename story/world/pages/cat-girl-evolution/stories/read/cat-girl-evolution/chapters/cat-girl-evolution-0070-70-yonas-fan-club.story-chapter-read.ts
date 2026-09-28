@@ -4,6 +4,7 @@ export const catGirlEvolution007070YonasFanClub = {
   id: "01a06731-b001-7001-84f9-00fef6222e09",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0070-70-yonas-fan-club",
+  ownProgress: 2751,
   title: "70 - Yona's Fan Club",
   story: "story-read/cat-girl-evolution",
   position: 70,

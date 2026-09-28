@@ -4,6 +4,7 @@ export const catGirlEvolution005252SneakAttack = {
   id: "01a06731-affc-7000-9ceb-b3d5857b79f5",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0052-52-sneak-attack",
+  ownProgress: 2575,
   title: "52 - Sneak Attack!",
   story: "story-read/cat-girl-evolution",
   position: 52,

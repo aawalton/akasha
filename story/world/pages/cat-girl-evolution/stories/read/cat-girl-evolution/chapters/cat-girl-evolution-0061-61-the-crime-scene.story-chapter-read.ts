@@ -4,6 +4,7 @@ export const catGirlEvolution006161TheCrimeScene = {
   id: "01a06731-affe-7004-b6b9-e71be40ecf1d",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0061-61-the-crime-scene",
+  ownProgress: 2579,
   title: "61 - The Crime Scene",
   story: "story-read/cat-girl-evolution",
   position: 61,

@@ -4,6 +4,7 @@ export const catGirlEvolution008484Fleshbender = {
   id: "01a06731-b008-7001-8196-3131aaf75cd6",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0084-84-fleshbender",
+  ownProgress: 2895,
   title: "84 - Fleshbender",
   story: "story-read/cat-girl-evolution",
   position: 84,

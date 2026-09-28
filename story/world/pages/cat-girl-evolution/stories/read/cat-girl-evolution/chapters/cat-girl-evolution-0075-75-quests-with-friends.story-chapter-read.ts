@@ -4,6 +4,7 @@ export const catGirlEvolution007575QuestsWithFriends = {
   id: "01a06731-b005-7003-9cf2-127f6b5858bb",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0075-75-quests-with-friends",
+  ownProgress: 2146,
   title: "75 - Quests with Friends",
   story: "story-read/cat-girl-evolution",
   position: 75,

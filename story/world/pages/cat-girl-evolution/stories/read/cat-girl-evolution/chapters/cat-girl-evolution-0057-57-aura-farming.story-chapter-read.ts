@@ -4,6 +4,7 @@ export const catGirlEvolution005757AuraFarming = {
   id: "01a06731-affe-7000-94b3-4462dd1b6ba1",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0057-57-aura-farming",
+  ownProgress: 2019,
   title: "57 - Aura Farming",
   story: "story-read/cat-girl-evolution",
   position: 57,

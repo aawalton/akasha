@@ -4,6 +4,7 @@ export const catGirlEvolution005353JoshuaTheEmpathetic = {
   id: "01a06731-affc-7001-9bb6-6c4d4a516e56",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0053-53-joshua-the-empathetic",
+  ownProgress: 2168,
   title: "53 - Joshua, the Empathetic",
   story: "story-read/cat-girl-evolution",
   position: 53,

@@ -4,6 +4,7 @@ export const catGirlEvolution004242CookingLesson = {
   id: "01a06731-aff4-7004-8c2c-c117cc308f59",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0042-42-cooking-lesson",
+  ownProgress: 2617,
   title: "42 - Cooking Lesson",
   story: "story-read/cat-girl-evolution",
   position: 42,

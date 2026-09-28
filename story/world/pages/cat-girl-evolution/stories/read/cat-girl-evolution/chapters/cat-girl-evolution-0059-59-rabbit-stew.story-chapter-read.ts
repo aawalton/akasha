@@ -4,6 +4,7 @@ export const catGirlEvolution005959RabbitStew = {
   id: "01a06731-affe-7002-9039-22715148d28a",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0059-59-rabbit-stew",
+  ownProgress: 2104,
   title: "59 - Rabbit Stew",
   story: "story-read/cat-girl-evolution",
   position: 59,

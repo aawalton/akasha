@@ -4,6 +4,7 @@ export const catGirlEvolution004949BunnyGirlEvolution = {
   id: "01a06731-affb-7003-a49b-cf9fa9c392e2",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0049-49-bunny-girl-evolution",
+  ownProgress: 2592,
   title: "49 - Bunny + Girl ≠ Evolution",
   story: "story-read/cat-girl-evolution",
   position: 49,

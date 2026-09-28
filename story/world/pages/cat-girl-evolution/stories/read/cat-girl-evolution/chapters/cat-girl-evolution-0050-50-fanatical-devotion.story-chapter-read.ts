@@ -4,6 +4,7 @@ export const catGirlEvolution005050FanaticalDevotion = {
   id: "01a06731-affb-7004-9044-0b1b07c368e1",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0050-50-fanatical-devotion",
+  ownProgress: 2512,
   title: "50 - Fanatical Devotion",
   story: "story-read/cat-girl-evolution",
   position: 50,

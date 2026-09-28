@@ -4,6 +4,7 @@ export const catGirlEvolution006666TheFieldBoss = {
   id: "01a06731-b000-7000-891b-8783b337fbfb",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0066-66-the-field-boss",
+  ownProgress: 3060,
   title: "66 - The Field Boss",
   story: "story-read/cat-girl-evolution",
   position: 66,

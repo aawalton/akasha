@@ -4,6 +4,7 @@ export const catGirlEvolution007979AnnieAreYouOkay = {
   id: "01a06731-b007-7000-aa55-6ca0617b8b81",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0079-79-annie-are-you-okay",
+  ownProgress: 2266,
   title: "79 - Annie, Are You Okay?",
   story: "story-read/cat-girl-evolution",
   position: 79,

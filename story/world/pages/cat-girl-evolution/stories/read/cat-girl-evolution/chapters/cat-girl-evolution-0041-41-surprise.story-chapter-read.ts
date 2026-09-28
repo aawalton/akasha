@@ -4,6 +4,7 @@ export const catGirlEvolution004141Surprise = {
   id: "01a06731-aff4-7003-9a21-0e257529adad",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0041-41-surprise",
+  ownProgress: 2115,
   title: "41 - Surprise!",
   story: "story-read/cat-girl-evolution",
   position: 41,

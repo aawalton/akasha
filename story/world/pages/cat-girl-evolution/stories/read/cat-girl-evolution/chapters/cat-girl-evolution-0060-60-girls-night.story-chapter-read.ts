@@ -4,6 +4,7 @@ export const catGirlEvolution006060GirlsNight = {
   id: "01a06731-affe-7003-a3fb-8ba25fa20b99",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0060-60-girls-night",
+  ownProgress: 2359,
   title: "60 - Girls' Night",
   story: "story-read/cat-girl-evolution",
   position: 60,

@@ -4,6 +4,7 @@ export const catGirlEvolution005151Ryantown = {
   id: "01a06731-affb-7005-819d-728a2e19b078",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0051-51-ryantown",
+  ownProgress: 2762,
   title: "51 - Ryantown",
   story: "story-read/cat-girl-evolution",
   position: 51,

@@ -4,6 +4,7 @@ export const catGirlEvolution006363DreamsOfHome = {
   id: "01a06731-affe-7006-91c9-df77631c11bc",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0063-63-dreams-of-home",
+  ownProgress: 2147,
   title: "63 - Dreams of Home",
   story: "story-read/cat-girl-evolution",
   position: 63,

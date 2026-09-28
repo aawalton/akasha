@@ -4,6 +4,7 @@ export const catGirlEvolution004545ANewWayToEat = {
   id: "01a06731-affa-7001-8d1f-530a17e8a8f7",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0045-45-a-new-way-to-eat",
+  ownProgress: 3030,
   title: "45 - A New Way to Eat",
   story: "story-read/cat-girl-evolution",
   position: 45,

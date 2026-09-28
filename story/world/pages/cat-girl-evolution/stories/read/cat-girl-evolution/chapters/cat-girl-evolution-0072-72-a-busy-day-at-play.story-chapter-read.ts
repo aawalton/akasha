@@ -4,6 +4,7 @@ export const catGirlEvolution007272ABusyDayAtPlay = {
   id: "01a06731-b005-7000-869e-ffc582bf713b",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0072-72-a-busy-day-at-play",
+  ownProgress: 2350,
   title: "72 - A Busy Day at Play",
   story: "story-read/cat-girl-evolution",
   position: 72,

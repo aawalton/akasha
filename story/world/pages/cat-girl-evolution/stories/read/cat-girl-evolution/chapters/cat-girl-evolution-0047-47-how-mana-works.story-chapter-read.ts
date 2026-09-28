@@ -4,6 +4,7 @@ export const catGirlEvolution004747HowManaWorks = {
   id: "01a06731-affb-7001-b004-90a0de59461a",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0047-47-how-mana-works",
+  ownProgress: 2878,
   title: "47 - How Mana Works",
   story: "story-read/cat-girl-evolution",
   position: 47,

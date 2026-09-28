@@ -4,6 +4,7 @@ export const catGirlEvolution005555TheAftermath = {
   id: "01a06731-affc-7003-bf3f-5598489bf038",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0055-55-the-aftermath",
+  ownProgress: 3825,
   title: "55 - The Aftermath",
   story: "story-read/cat-girl-evolution",
   position: 55,

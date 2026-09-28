@@ -4,6 +4,7 @@ export const catGirlEvolution003535PrincessYonaTheSuspiciousOne = {
   id: "01a06731-aff3-7000-baab-00ab0d625ae4",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0035-35-princess-yona-the-suspicious-one",
+  ownProgress: 2600,
   title: "35 - Princess Yona, the Suspicious One",
   story: "story-read/cat-girl-evolution",
   position: 35,

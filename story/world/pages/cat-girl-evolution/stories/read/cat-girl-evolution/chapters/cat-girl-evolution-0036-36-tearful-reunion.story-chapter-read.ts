@@ -4,6 +4,7 @@ export const catGirlEvolution003636TearfulReunion = {
   id: "01a06731-aff3-7001-b823-c1d43d5d7cfe",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0036-36-tearful-reunion",
+  ownProgress: 2904,
   title: "36 - Tearful Reunion",
   story: "story-read/cat-girl-evolution",
   position: 36,
