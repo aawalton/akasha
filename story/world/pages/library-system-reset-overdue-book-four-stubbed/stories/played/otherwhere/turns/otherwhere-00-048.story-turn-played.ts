@@ -23,5 +23,7 @@ export const otherwhere00048 = {
     "It lunges back at her blindly; she throws herself sideways and it hits only floor.",
     "The worm reels, spitting salt, burned but not dry, its body still heaving.",
   ],
+  issues: ['"burned but not dry, its body still heaving" - Leave It Open'],
   lore: ["place/otherwhere-hall-back"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
