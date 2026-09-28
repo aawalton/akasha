@@ -178,6 +178,14 @@ export const otherwhereAlan = {
         "character-other/otherwhere-links",
       ],
     },
+    {
+      fact: "Nala keeps Alan's speed reading, some four thousand words a minute, with its grasp whole.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "At Nala's pace, Courtesies' first part takes her a quarter hour, and the whole some two hours.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

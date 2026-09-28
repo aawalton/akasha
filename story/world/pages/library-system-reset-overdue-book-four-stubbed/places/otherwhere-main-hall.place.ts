@@ -362,6 +362,26 @@ export const otherwhereMainHall = {
         "character-player/otherwhere-alan",
       ],
     },
+    {
+      fact: "With Counter Keeping's power, a Librarian lends a book by laying it and her palm on the Counter.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "Counter Keeping also teaches taking a book back in at the Counter, and marking one late.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "The Library shows a lent book as Lent, with its borrower and the day it falls due.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "Lending costs a Librarian no mana; the Counter draws on the Library's own power.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "Rolling ladders on brass rails reach the high shelves and the gallery above.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

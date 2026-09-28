@@ -288,7 +288,6 @@ export const otherwhereUniverse = {
         "character-other/otherwhere-links",
       ],
     },
-
     {
       fact: "Links knows a lost book the moment a linked Librarian lays a hand on it.",
       knowers: [
@@ -313,7 +312,6 @@ export const otherwhereUniverse = {
         "character-other/otherwhere-links",
       ],
     },
-
     {
       fact: "Since her third sync, Nala's interface shows the Library's tasks.",
       knowers: [
@@ -393,6 +391,22 @@ export const otherwhereUniverse = {
         "character-player/otherwhere-alan",
         "character-other/otherwhere-links",
       ],
+    },
+    {
+      fact: "A working text's power unfolds only as it is understood, so no reader, however fast, hurries it.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "A plain book, holding no power, reads at the reader's own pace.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "No book shelved in the Library's lit rooms teaches faster reading.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "The Bectiwode are a beetle-like people the size of a Great Dane, who chitter as they speak.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
     },
   ],
   secrets: "jsonl",
