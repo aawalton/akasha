@@ -86,6 +86,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-yelun.world-character.ts","id":"01a0e9f9-115f-77c9-aace-1f4543ce714c"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/designs/otherwhere-v.story-design.ts","id":"01a0e9e3-ccfb-79d0-9cb6-8572cc1a5b59"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-aarl.lore.ts","id":"01a0e9f3-638a-7ede-b5da-f741ec38e64a"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-adamant.lore.ts","id":"01a0ea02-a52b-7868-9c3f-298ba3d41bc7"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-adventurers.lore.ts","id":"01a0e9f5-e1ad-78bd-9693-302a63cac7a3"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-aether.lore.ts","id":"01a0e9f2-2f0f-7932-8b96-3ac81d234690"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-agmon.lore.ts","id":"01a0e9f6-77eb-7e84-b2ec-e04345321ff8"}
@@ -324,6 +325,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-wyvern.lore.ts","id":"01a0e9f8-f7c7-708b-b029-0f0936369288"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-yelun.lore.ts","id":"01a0e9f9-115f-7ff9-ae0e-05c2cfb799cb"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-zombie.lore.ts","id":"01a0e9fb-482c-7be4-9ee0-af73b538d28f"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-adamant.world-item.ts","id":"01a0ea02-a52c-7dd5-87d4-8f0f77a1c1ce"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-armatures.world-item.ts","id":"01a0e9f7-1df0-7f0b-9df1-215879eac4c8"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-diplomats-friend.world-item.ts","id":"01a0e9f9-8feb-71d7-8538-2c764af15c39"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-dungeon-cores.world-item.ts","id":"01a0e9fb-c0e7-7a92-b9b6-de78a69ea8ee"}
