@@ -32,4 +32,6 @@ export const theDatingGame00034 = {
     '"You come to the cemetery\'s far gate, where the path meets the street" - Leave It Open',
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
+  endsAt: "2026-09-26T19:36:00.000Z",
 } as const satisfies StoryTurnPlayed
