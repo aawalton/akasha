@@ -31,5 +31,6 @@ export const otherwhereV00005 = {
     "Its jaws shift on her neck, and its weight settles on her back for another bite.",
   ],
   lore: ["lore/otherwhere-v-gloamcat"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T19:02:00.000Z",
 } as const satisfies StoryTurnPlayed
