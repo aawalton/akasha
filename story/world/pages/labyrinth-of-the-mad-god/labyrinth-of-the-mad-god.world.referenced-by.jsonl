@@ -34,6 +34,7 @@
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-blackmist-bog.place.ts","id":"01a0e9ba-dd9e-73de-980f-81d39665375b"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-bladewind-badlands.place.ts","id":"01a0e9bd-41f0-7e2d-90e1-dd986a9e41fd"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-cinder-isle.place.ts","id":"01a0e98e-a9b8-7e2e-b6b3-7d0d90d688ed"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-dark-crystal-cavern.place.ts","id":"01a0e9be-00c7-7f5a-a661-bc827e3958f6"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-drezen.place.ts","id":"01a0e9ba-0813-7509-81c2-c3e18a3b12b3"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-earth.place.ts","id":"01a0e9bc-75a1-7e78-ba75-d9542370ccc7"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-evaluation-course.place.ts","id":"01a0e9bb-b06e-79c4-b525-5ed1c0cf128b"}
@@ -43,13 +44,16 @@
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-gullrock-head.place.ts","id":"01a0e99b-64b0-7a2e-97bf-980ed0d9bdb3"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-highlands.place.ts","id":"01a0e99b-64b1-7d6f-afdc-c68c988ec31e"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-kastilla.place.ts","id":"01a0e9ba-0814-755c-a8e8-d89ac4f0b89a"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-lemur-village.place.ts","id":"01a0e9be-00c7-7cda-a2de-66225c225bd8"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-lowland-wood.place.ts","id":"01a0e98e-a9b8-760c-b499-173eb506ff12"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-mana-saturated-mine.place.ts","id":"01a0e9be-00c7-7491-a36c-b8e79bfad83d"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-obelisk-point.place.ts","id":"01a0e99b-64b1-76b5-841f-c3b0e55970d2"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-old-strangler.place.ts","id":"01a0e98e-a9b8-7fd2-a6e1-075142639c90"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-partition-swamp.place.ts","id":"01a0e9bb-b06e-7eea-9c58-d45bbeb5381e"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-salt-halls.place.ts","id":"01a0e99b-64b1-7628-8ec4-91ebc7c1be4b"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-searing-isle.place.ts","id":"01a0e9b9-3bd4-781b-95ac-c5d3962b4c4a"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-sewers-of-kastilla.place.ts","id":"01a0e9ba-0814-7273-8815-456a461494b8"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-shady-cave.place.ts","id":"01a0e9be-00c7-70b4-937b-e1b4be7df46b"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-sky-pirates-lair.place.ts","id":"01a0e9ba-dd9e-7fc1-84bb-47b5eef8f730"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-smoking-peak.place.ts","id":"01a0e99b-64b2-7217-8406-0cd425b59ebb"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-the-veil.place.ts","id":"01a0e9bc-75a1-758f-8666-2745e7384a02"}
@@ -58,6 +62,8 @@
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-tower-of-rizzen.place.ts","id":"01a0e9ba-dd9f-71d9-b737-93370dc22681"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-tower-roof.place.ts","id":"01a0e9bb-b06e-7901-9265-9cf8f775c272"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-velen.place.ts","id":"01a0e9bc-75a2-7271-85e8-40bb760d97a3"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-waterfall-cave.place.ts","id":"01a0e9be-00c8-768b-b2dd-8c9884a6bafd"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-xanian.place.ts","id":"01a0e9be-00c8-75ed-bab0-7505a6f69b7b"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/checks/otherwhere-action-check.world-check.ts","id":"01a0e990-b58d-79aa-a179-1b7000226703"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/checks/otherwhere-conditioning.world-check.ts","id":"01a0e9a6-56d0-74e7-ace2-8c4d2cec3a93"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/checks/otherwhere-experience.world-check.ts","id":"01a0e99f-283d-725a-9fa5-2fddec431c0f"}
