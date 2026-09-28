@@ -22,7 +22,7 @@ export interface BuildVersion {
   buildMetadata: Record<string, unknown>
 }
 
-export interface VersionItemProps {
+interface VersionItemProps {
   version: BuildVersion
   onRestore: () => void
 }
