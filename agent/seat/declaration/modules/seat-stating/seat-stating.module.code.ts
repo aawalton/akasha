@@ -1,3 +1,4 @@
+import { storyKinds } from "akasha/agent/seat/declaration/modules/seat-resolve/seat-resolve.module.code.ts"
 import {
   listedAt,
   readingIn,
@@ -28,7 +29,7 @@ const DOMAIN = "domain"
 
 const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
 
-const PREFERRED: readonly string[] = [DOMAIN, PERSON, "persona", "initiative", "story-played"]
+const PREFERRED: readonly string[] = [DOMAIN, PERSON, "persona", "initiative"]
 
 const ASSIGNMENT = "assignmentSlug"
 
@@ -63,8 +64,9 @@ export type SeatStated = {
 }
 
 export function assignedKinds(root: string): readonly string[] {
+  const first = [...PREFERRED, ...storyKinds(root)]
   const rest = [...kindsUnder(DOMAIN, readingIn(root))].sort()
-  return [...PREFERRED, ...rest.filter((one) => !PREFERRED.includes(one))]
+  return [...first, ...rest.filter((one) => !first.includes(one))]
 }
 
 export function assignmentAddressOf(named: string, root: string): string {

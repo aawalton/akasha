@@ -18,7 +18,12 @@ export const seatResolve = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A game is found in the domain slot the way a domain is, after every domain.",
+      statement:
+        "A story of any kind is found in the domain slot the way a domain is, after every domain.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A slug two kinds of story carry names the story played.",
     },
     {
       decisionKind: "decision-kind/departure",

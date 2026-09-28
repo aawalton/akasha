@@ -5,7 +5,7 @@ export const assignmentSlug = {
   type: "page-type/one-of-property",
   slug: "assignment-slug",
   propertySlug: "assignment-slug",
-  definition: "the domain, initiative or game whose work a seat answers to",
+  definition: "the domain, initiative or story whose work a seat answers to",
   members: [
     "relation-property/page-domain",
     "relation-property/initiative",

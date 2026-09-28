@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"page-type-descent.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-registry/recipient-resolver-registry.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-type-descent.module.code.ts","path":"agent/seat/declaration/modules/seat-resolve/seat-resolve.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-descent.module.code.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-descent.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/committed-page-holding/committed-page-holding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-descent.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/data-watching/data-watching.module.code.ts","typed":false,"deferred":false}

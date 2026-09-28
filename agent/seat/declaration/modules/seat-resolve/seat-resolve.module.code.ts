@@ -8,9 +8,11 @@ import { seat as seatPageType } from "akasha/agent/seat/seat.page-type.ts"
 import { domainsRead } from "akasha/domain/modules/reading/domain-reading.module.code.ts"
 import {
   listedAt,
+  readingIn,
   slugsOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { kindsUnder } from "akasha/page/type/modules/descent/page-type-descent.module.code.ts"
 import {
   personaAt,
   personasStanding,
@@ -20,20 +22,33 @@ const DOMAIN_SLUG_KEY = "slug"
 
 export const GAME = "story-played"
 
+const STORY = "story"
+
 export interface Found {
   readonly slugs: ReadonlyMap<string, string>
 }
 
+export function storyKinds(root: string): readonly string[] {
+  const rest = [...kindsUnder(STORY, readingIn(root))].filter((one) => one !== GAME).sort()
+  return [GAME, ...rest]
+}
+
 export function gameAt(root: string, slug: string): string | null {
-  return listedAt(root, GAME, slug)[0]?.path ?? null
+  for (const kind of storyKinds(root)) {
+    const at = listedAt(root, kind, slug)[0]?.path
+    if (at !== undefined) return at
+  }
+  return null
 }
 
 export function gamesFound(root: string, slugs: Map<string, string> = new Map()): Found {
-  for (const slug of slugsOfType(root, GAME)) {
-    const at = gameAt(root, slug)
-    if (at === null) continue
-    slugs.set(`${GAME}/${slug}`, at)
-    if (!slugs.has(slug)) slugs.set(slug, at)
+  for (const kind of storyKinds(root)) {
+    for (const slug of slugsOfType(root, kind)) {
+      const at = listedAt(root, kind, slug)[0]?.path
+      if (at === undefined) continue
+      slugs.set(`${kind}/${slug}`, at)
+      if (!slugs.has(slug)) slugs.set(slug, at)
+    }
   }
   return { slugs }
 }

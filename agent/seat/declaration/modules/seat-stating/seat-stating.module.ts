@@ -47,7 +47,8 @@ export const seatStating = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A game's slug is addressed under the story played page type, after every domain.",
+      statement:
+        "A story's slug is addressed under its kind of story, story played first, after every domain.",
     },
     {
       decisionKind: "decision-kind/departure",
