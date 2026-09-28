@@ -21,6 +21,7 @@
         "isEmpty": false
       }
     },
+    "hash": "AjEIFzHMcxzHMcxzExMTBzGzCkyGMhFg",
     "jewelry": {
       "1": {
         "qualityColor": {
@@ -50,6 +51,7 @@
         "isEmpty": false
       }
     },
+    "mainHandWeaponType": 2,
     "armor": {
       "1": {
         "qualityColor": {
@@ -122,9 +124,7 @@
       "4": 153851,
       "5": 156340,
       "6": 157016
-    },
-    "hash": "AjEIFzHMcxzHMcxzExMTBzGzCkyGMhFg",
-    "mainHandWeaponType": 2
+    }
   },
   "targetBuildHash": "AjEAFzHMcxzHMcxzExMTBzGzCnLWMtlg",
   "level": 20,
