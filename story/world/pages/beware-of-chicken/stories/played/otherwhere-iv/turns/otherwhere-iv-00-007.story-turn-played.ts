@@ -7,7 +7,12 @@ export const otherwhereIv00007 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],
   position: 7,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     '"Of course. As a spirit of knowledge, I am always happy for honest questions, and answering them is the least I can do for the hospitality you have already given."',
+  lore: [
+    "lore/otherwhere-iv-gu-household",
+    "lore/otherwhere-iv-nala",
+    "lore/otherwhere-iv-calendar",
+  ],
 } as const satisfies StoryTurnPlayed
