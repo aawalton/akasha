@@ -3727,6 +3727,7 @@
 {"propertySlug":"decision-kind","path":"story/engine/core/modules/story-display/story-display.module.ts","id":"01a05b71-e543-7c87-8c6e-cfaef2c52761"}
 {"propertySlug":"decision-kind","path":"story/engine/core/modules/system-window-schema/system-window-schema.module.ts","id":"01a05b71-e544-78bb-9313-d10464beea25"}
 {"propertySlug":"decision-kind","path":"story/engine/core/story-engine-core.domain.ts","id":"01a05b71-e544-7ab9-87b3-b98dbd2ed891"}
+{"propertySlug":"decision-kind","path":"story/engine/modules/phase-timing/phase-timing.module.ts","id":"01a0e945-5def-7027-9139-7923bd22c6e4"}
 {"propertySlug":"decision-kind","path":"story/engine/narrative-story-turn-promotion/narrative-story-turn-promotion.domain.ts","id":"01a0675b-16f4-75bf-bef9-7a513c9dd7d7"}
 {"propertySlug":"decision-kind","path":"story/engine/story-engine.domain.ts","id":"01a06280-e122-7ba3-844e-c8a0f133106d"}
 {"propertySlug":"decision-kind","path":"story/lore-disclosure/lore-disclosure.page-type.ts","id":"01a0d419-8845-7ed9-a90b-d476417c30f4"}
