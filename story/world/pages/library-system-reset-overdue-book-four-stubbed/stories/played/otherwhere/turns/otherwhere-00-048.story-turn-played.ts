@@ -10,7 +10,7 @@ export const otherwhere00048 = {
   position: 48,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "I run back to the entrance for another sack, instead of going for the one between us, then commit to pushing it down its throat.",
   beats: [
@@ -24,5 +24,5 @@ export const otherwhere00048 = {
     "The worm reels, spitting salt, burned but not dry, its body still heaving.",
   ],
   lore: ["place/otherwhere-hall-back"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
