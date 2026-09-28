@@ -10,7 +10,7 @@ export const otherwhereIx00004 = {
   position: 4,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "As it gets close, I jump up into the air as high as I can, then try to land on top of it with all of my weight.",
   beats: [
@@ -33,7 +33,7 @@ export const otherwhereIx00004 = {
     "body and soul will be summarily measured.]",
     "[Inborn trait established: Unset.]",
     "[Unique trait established: ???.]",
-    "The words hang there, calm and patient, over the beast still twisting at her leg.",
+    "Below the glowing words, the beast grinds its teeth deeper and wrenches at her calf again.",
   ],
   issues: ['"The words hang there, calm and patient" - No Prompt'],
   lore: ["lore/otherwhere-ix-shardback", "lore/otherwhere-ix-nala"],
