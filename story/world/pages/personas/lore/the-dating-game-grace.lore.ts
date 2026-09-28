@@ -54,7 +54,11 @@ export const theDatingGameGrace = {
     },
     {
       fact: "Grace works night shifts as a hospice companion, sitting vigil with the dying.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Grace walks the cemetery most evenings to get ready for her night shift.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
   ],
   secrets: "jsonl",
