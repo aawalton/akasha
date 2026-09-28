@@ -4,6 +4,7 @@ export const superSupportive0253TwoHundredFiftyOneTheSecondBlossom = {
   id: "01a06730-4f0f-7d7f-b5e8-5ea6ed041e49",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0253-two-hundred-fifty-one-the-second-blossom",
+  ownProgress: 4196,
   title: "TWO HUNDRED FIFTY-ONE: The Second Blossom",
   story: "story-read/super-supportive",
   position: 253,

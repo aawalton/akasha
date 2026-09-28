@@ -4,6 +4,7 @@ export const superSupportive0246TwoHundredFortyFourContemplations = {
   id: "01a06730-4f0b-7745-9389-f81dd085e6fb",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0246-two-hundred-forty-four-contemplations",
+  ownProgress: 2313,
   title: "TWO HUNDRED FORTY-FOUR: Contemplations",
   story: "story-read/super-supportive",
   position: 246,

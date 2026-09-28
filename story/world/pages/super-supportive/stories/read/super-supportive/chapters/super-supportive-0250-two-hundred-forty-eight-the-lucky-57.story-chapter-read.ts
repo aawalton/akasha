@@ -4,6 +4,7 @@ export const superSupportive0250TwoHundredFortyEightTheLucky57 = {
   id: "01a06730-4f0d-7a3e-b9b3-92e4a2beff65",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0250-two-hundred-forty-eight-the-lucky-57",
+  ownProgress: 5273,
   title: "TWO HUNDRED FORTY-EIGHT: The Lucky 57",
   story: "story-read/super-supportive",
   position: 250,

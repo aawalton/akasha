@@ -4,6 +4,7 @@ export const superSupportive0248TwoHundredFortySixBabyBlue = {
   id: "01a06730-4f0c-7a0e-9514-6145725dfeaf",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0248-two-hundred-forty-six-baby-blue",
+  ownProgress: 3414,
   title: "TWO HUNDRED FORTY-SIX: Baby Blue",
   story: "story-read/super-supportive",
   position: 248,

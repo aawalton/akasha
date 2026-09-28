@@ -4,6 +4,7 @@ export const superSupportive0283TwoHundredEightyOneUnquietMind = {
   id: "01a06730-4f21-7f19-8903-7662b988c634",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0283-two-hundred-eighty-one-unquiet-mind",
+  ownProgress: 5180,
   title: "TWO HUNDRED EIGHTY-ONE: Unquiet Mind",
   story: "story-read/super-supportive",
   position: 283,

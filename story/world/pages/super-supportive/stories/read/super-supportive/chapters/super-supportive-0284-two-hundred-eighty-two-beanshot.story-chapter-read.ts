@@ -4,6 +4,7 @@ export const superSupportive0284TwoHundredEightyTwoBeanshot = {
   id: "01a06730-4f22-7f20-8087-2f941c916f87",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0284-two-hundred-eighty-two-beanshot",
+  ownProgress: 4587,
   title: "TWO HUNDRED EIGHTY-TWO: Beanshot",
   story: "story-read/super-supportive",
   position: 284,

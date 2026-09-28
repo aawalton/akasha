@@ -4,6 +4,7 @@ export const superSupportive0256TwoHundredFiftyFourScrape = {
   id: "01a06730-4f10-7425-a69a-0fd83a145205",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0256-two-hundred-fifty-four-scrape",
+  ownProgress: 3213,
   title: "TWO HUNDRED FIFTY-FOUR: Scrape",
   story: "story-read/super-supportive",
   position: 256,

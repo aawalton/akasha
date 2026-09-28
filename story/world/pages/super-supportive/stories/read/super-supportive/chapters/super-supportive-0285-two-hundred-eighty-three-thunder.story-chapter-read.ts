@@ -4,6 +4,7 @@ export const superSupportive0285TwoHundredEightyThreeThunder = {
   id: "01a06730-4f22-7594-85ab-8d295ec9fe74",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0285-two-hundred-eighty-three-thunder",
+  ownProgress: 4899,
   title: "TWO HUNDRED EIGHTY-THREE: Thunder",
   story: "story-read/super-supportive",
   position: 285,

@@ -4,6 +4,7 @@ export const superSupportive0277TwoHundredSeventyFiveBeginning = {
   id: "01a06730-4f1d-773f-8a54-827f78d2feda",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0277-two-hundred-seventy-five-beginning",
+  ownProgress: 5085,
   title: "TWO HUNDRED SEVENTY-FIVE: Beginning",
   story: "story-read/super-supportive",
   position: 277,

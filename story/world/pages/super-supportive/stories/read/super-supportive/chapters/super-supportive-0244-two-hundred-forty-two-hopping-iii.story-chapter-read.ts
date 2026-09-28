@@ -4,6 +4,7 @@ export const superSupportive0244TwoHundredFortyTwoHoppingIii = {
   id: "01a06730-4f0b-7038-b10b-c57e92cffe62",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0244-two-hundred-forty-two-hopping-iii",
+  ownProgress: 4418,
   title: "TWO HUNDRED FORTY-TWO: Hopping III",
   story: "story-read/super-supportive",
   position: 244,

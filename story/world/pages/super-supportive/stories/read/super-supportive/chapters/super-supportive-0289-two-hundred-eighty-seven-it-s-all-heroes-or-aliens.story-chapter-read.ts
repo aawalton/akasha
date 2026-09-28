@@ -4,6 +4,7 @@ export const superSupportive0289TwoHundredEightySevenItSAllHeroesOrAliens = {
   id: "01a06730-4f25-784e-9c6c-8d09cfd1e8b5",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0289-two-hundred-eighty-seven-it-s-all-heroes-or-aliens",
+  ownProgress: 4356,
   title: "TWO HUNDRED EIGHTY-SEVEN: It's All Heroes or Aliens",
   story: "story-read/super-supportive",
   position: 289,

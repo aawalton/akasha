@@ -4,6 +4,7 @@ export const superSupportive0257TwoHundredFiftyFiveAHeavyThingOnOneEnd = {
   id: "01a06730-4f11-7006-8dce-325cfb69dd5e",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0257-two-hundred-fifty-five-a-heavy-thing-on-one-end",
+  ownProgress: 4052,
   title: "TWO HUNDRED FIFTY-FIVE: A Heavy Thing on One End",
   story: "story-read/super-supportive",
   position: 257,

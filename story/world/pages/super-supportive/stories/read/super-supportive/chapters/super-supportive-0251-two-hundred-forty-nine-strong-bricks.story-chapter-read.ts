@@ -4,6 +4,7 @@ export const superSupportive0251TwoHundredFortyNineStrongBricks = {
   id: "01a06730-4f0e-70ff-b83f-965a75f4bfad",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0251-two-hundred-forty-nine-strong-bricks",
+  ownProgress: 4301,
   title: "TWO HUNDRED FORTY-NINE: Strong Bricks",
   story: "story-read/super-supportive",
   position: 251,

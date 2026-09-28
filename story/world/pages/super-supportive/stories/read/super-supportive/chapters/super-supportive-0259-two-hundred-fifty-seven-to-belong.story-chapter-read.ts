@@ -4,6 +4,7 @@ export const superSupportive0259TwoHundredFiftySevenToBelong = {
   id: "01a06730-4f12-7a06-be16-c7dafaef9dcd",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0259-two-hundred-fifty-seven-to-belong",
+  ownProgress: 3370,
   title: "TWO HUNDRED FIFTY-SEVEN: To Belong",
   story: "story-read/super-supportive",
   position: 259,

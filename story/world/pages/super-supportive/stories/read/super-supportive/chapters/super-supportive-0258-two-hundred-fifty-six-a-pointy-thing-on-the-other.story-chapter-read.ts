@@ -4,6 +4,7 @@ export const superSupportive0258TwoHundredFiftySixAPointyThingOnTheOther = {
   id: "01a06730-4f12-711b-902a-c4f15440ac78",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0258-two-hundred-fifty-six-a-pointy-thing-on-the-other",
+  ownProgress: 4683,
   title: "TWO HUNDRED FIFTY-SIX:  A Pointy Thing on the Other",
   story: "story-read/super-supportive",
   position: 258,

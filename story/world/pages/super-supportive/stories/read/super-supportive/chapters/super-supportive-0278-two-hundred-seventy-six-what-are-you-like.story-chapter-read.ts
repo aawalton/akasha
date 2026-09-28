@@ -4,6 +4,7 @@ export const superSupportive0278TwoHundredSeventySixWhatAreYouLike = {
   id: "01a06730-4f1f-7f16-a510-7320bc7dcbc1",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0278-two-hundred-seventy-six-what-are-you-like",
+  ownProgress: 3492,
   title: "TWO HUNDRED SEVENTY-SIX: What are you like?",
   story: "story-read/super-supportive",
   position: 278,

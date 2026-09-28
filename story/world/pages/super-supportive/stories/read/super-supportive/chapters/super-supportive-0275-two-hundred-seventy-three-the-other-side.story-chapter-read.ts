@@ -4,6 +4,7 @@ export const superSupportive0275TwoHundredSeventyThreeTheOtherSide = {
   id: "01a06730-4f1d-7c41-b6e1-a9bb9409a8ad",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0275-two-hundred-seventy-three-the-other-side",
+  ownProgress: 3704,
   title: "TWO HUNDRED SEVENTY-THREE: The Other Side",
   story: "story-read/super-supportive",
   position: 275,

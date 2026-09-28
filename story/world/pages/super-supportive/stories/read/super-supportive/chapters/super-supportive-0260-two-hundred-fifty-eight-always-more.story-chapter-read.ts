@@ -4,6 +4,7 @@ export const superSupportive0260TwoHundredFiftyEightAlwaysMore = {
   id: "01a06730-4f12-7990-9724-a77f9c9e2447",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0260-two-hundred-fifty-eight-always-more",
+  ownProgress: 1812,
   title: "TWO HUNDRED FIFTY-EIGHT: Always More",
   story: "story-read/super-supportive",
   position: 260,

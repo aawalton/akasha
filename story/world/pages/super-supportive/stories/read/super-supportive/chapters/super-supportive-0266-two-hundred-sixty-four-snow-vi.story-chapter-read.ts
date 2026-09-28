@@ -4,6 +4,7 @@ export const superSupportive0266TwoHundredSixtyFourSnowVi = {
   id: "01a06730-4f17-7bc4-8e1f-3b90800e390d",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0266-two-hundred-sixty-four-snow-vi",
+  ownProgress: 4968,
   title: "TWO HUNDRED SIXTY-FOUR: Snow VI",
   story: "story-read/super-supportive",
   position: 266,

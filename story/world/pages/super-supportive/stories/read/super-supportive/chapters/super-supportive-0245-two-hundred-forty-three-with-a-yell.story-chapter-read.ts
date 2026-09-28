@@ -4,6 +4,7 @@ export const superSupportive0245TwoHundredFortyThreeWithAYell = {
   id: "01a06730-4f0b-754b-82ca-fec3907016c8",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0245-two-hundred-forty-three-with-a-yell",
+  ownProgress: 3711,
   title: "TWO HUNDRED FORTY-THREE: With a Yell",
   story: "story-read/super-supportive",
   position: 245,

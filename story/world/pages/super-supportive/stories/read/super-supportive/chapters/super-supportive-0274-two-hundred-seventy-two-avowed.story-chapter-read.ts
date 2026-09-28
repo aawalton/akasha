@@ -4,6 +4,7 @@ export const superSupportive0274TwoHundredSeventyTwoAvowed = {
   id: "01a06730-4f1c-79dd-85f6-dbaf86a96078",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0274-two-hundred-seventy-two-avowed",
+  ownProgress: 4035,
   title: "TWO HUNDRED SEVENTY-TWO: Avowed",
   story: "story-read/super-supportive",
   position: 274,

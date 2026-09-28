@@ -4,6 +4,7 @@ export const superSupportive0280TwoHundredSeventyEightAnErrandAtLeafsong = {
   id: "01a06730-4f20-75e4-89b7-674250aac220",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0280-two-hundred-seventy-eight-an-errand-at-leafsong",
+  ownProgress: 1370,
   title: "TWO HUNDRED SEVENTY-EIGHT:  An Errand at Leafsong",
   story: "story-read/super-supportive",
   position: 280,

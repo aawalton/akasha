@@ -4,6 +4,7 @@ export const superSupportive0254TwoHundredFiftyTwoSlumberParty = {
   id: "01a06730-4f0f-771d-92cb-b7c6cd52ab71",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0254-two-hundred-fifty-two-slumber-party",
+  ownProgress: 4048,
   title: "TWO HUNDRED FIFTY-TWO: Slumber Party",
   story: "story-read/super-supportive",
   position: 254,

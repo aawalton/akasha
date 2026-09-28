@@ -4,6 +4,7 @@ export const superSupportive0281TwoHundredSeventyNineCareening = {
   id: "01a06730-4f20-711c-b693-e676d8fcd60d",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0281-two-hundred-seventy-nine-careening",
+  ownProgress: 2319,
   title: "TWO HUNDRED SEVENTY-NINE: Careening",
   story: "story-read/super-supportive",
   position: 281,
