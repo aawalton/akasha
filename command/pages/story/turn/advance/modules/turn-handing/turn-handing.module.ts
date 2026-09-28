@@ -12,5 +12,13 @@ export const turnHanding = {
       decisionKind: "decision-kind/departure",
       statement: "An advance naming no step's output hands in the world builder's lore.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A title is handed in only with a written chapter's prose, and always with it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A title's slug drops its apostrophes, so a possessive stays one word.",
+    },
   ],
 } as const satisfies Module

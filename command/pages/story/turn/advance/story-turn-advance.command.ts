@@ -107,6 +107,19 @@ export const storyTurnAdvance = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A written chapter's writer names the chapter as it hands in the prose.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A named chapter is renamed to its story, its number and its title, keeping its id.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chapter's phases are timed under its story and number, whatever its title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A reviewer of a played turn is named the mechanic descriptions the turn made new or changed.",
     },
@@ -122,5 +135,6 @@ export const storyTurnAdvance = {
     { argument: "argument/prose-file" },
     { argument: "argument/character", repeats: true },
     { argument: "argument/recorder" },
+    { argument: "argument/title" },
   ],
 } as const satisfies Command

@@ -30,12 +30,13 @@ export const writer = {
     {
       directiveKind: "directive-kind/rule",
       name: "Whole Chapter",
-      act: "Write a chapter's whole prose from its beats, in the voice its story design's narrator names.",
+      act: "Write a chapter's whole prose from its beats in its story design's narrator's voice, and name it.",
       warrant:
         "A chapter is read at one sitting, so prose stopping short leaves the reader mid-scene.",
       aids: [
         "The story design is the story-design page of the story's world.",
         "A chapter opens a scene of its own, so nothing continues mid-sentence.",
+        "Name the chapter with `--title` on the advance handing in its prose.",
       ],
     },
     {

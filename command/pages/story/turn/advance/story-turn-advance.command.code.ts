@@ -1,6 +1,8 @@
 import { readOwnTranscriptsSince } from "akasha/agent/modules/io-probe/io-probe.module.code.ts"
 import { reviewer as reviewerRole } from "akasha/agent/role/pages/reviewer.role.ts"
 import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { renamePage } from "akasha/change/mechanical/page/rename/rename-page/rename-page.change-mechanical.ts"
 import {
   type Landing,
   runMechanicalChange,
@@ -21,8 +23,11 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import { describedIndexed } from "akasha/command/pages/story/turn/advance/modules/turn-described/turn-described.module.code.ts"
 import {
+  movedTo,
+  numberedOf,
   type Taken,
   taken,
+  titledOf,
 } from "akasha/command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts"
 import { liftedFrom } from "akasha/command/pages/story/turn/modules/turn-keeping/turn-keeping.module.code.ts"
 import {
@@ -90,6 +95,16 @@ const OWN_LENGTH = "ownLength"
 const PARTED = "/"
 
 const ID = "id"
+
+const TITLE = "title"
+
+const RENAME = `${changeMechanical.slug}${PARTED}${renamePage.slug}` as const
+
+function renamedOf(read: Taken, slug: string, game: string): string | null {
+  if (read.title === undefined) return null
+  const to = titledOf(slug, game, read.title)
+  return to === slug ? null : to
+}
 
 export type Timed = (root: string, ended: Ended, agentId: string | null) => undefined
 
@@ -262,16 +277,24 @@ async function heldOn(
   const lifted = liftedFrom(turn, kept, () => reach.textIn(given.root, turn.at))
   if ("refused" in lifted) return back([lifted.refused])
   const own = kept.filter((one) => !lifted.rest.includes(one))
+  const titled = read.title === undefined ? {} : { [TITLE]: read.title }
   const naming: Naming = {
     pageTypeSlug: typeOf(read),
     slug,
     path: turn.at,
     merge: true,
-    values: { ...lifted.values, ...said.values },
+    values: { ...lifted.values, ...said.values, ...titled },
     ...(said.prose === null ? {} : { bodies: { prose: said.prose } }),
   }
-  const asking = reach.fold(given.root, naming)
-  if ("refused" in asking) return back([asking.refused])
+  const folded = reach.fold(given.root, naming)
+  if ("refused" in folded) return back([folded.refused])
+  const renamed = renamedOf(read, slug, held.game)
+  const renaming = renamed === null ? [] : [{ at: RENAME, given: { at: turn.at, to: renamed } }]
+  const asking = [...folded, ...renaming]
+  const now =
+    renamed === null
+      ? { slug, at: turn.at }
+      : { slug: renamed, at: movedTo(turn.at, slug, renamed) }
   const message = `${slug} moves from ${held.status} to ${said.status}`
   const landsWith = said.landsKept ? lifted.rest : []
   const by = { agentId: given.agentId, writer: given.writer, done, kept: landsWith }
@@ -280,7 +303,7 @@ async function heldOn(
   if (said.landsKept) reach.release(given.root, turn.at)
   const ended = {
     story: held.game,
-    run: slug,
+    run: read.chapter ? numberedOf(slug, held.game) : slug,
     madeAt: madeAtOf(turn.value[ID]),
     phase: held.status,
     seat: seat?.name ?? held.status,
@@ -296,8 +319,8 @@ async function heldOn(
     recorders,
     prompting: {
       title: story?.title ?? held.game,
-      turnAt: turn.at,
-      address: `${typeOf(read)}${PARTED}${slug}`,
+      turnAt: now.at,
+      address: `${typeOf(read)}${PARTED}${now.slug}`,
       ...(held.noun === undefined ? {} : { noun: held.noun }),
       calledAs: given.calledAs,
       lore: reach.loreOf(
@@ -311,6 +334,7 @@ async function heldOn(
   }
   const moving = `${slug}\t${held.status}\t${said.status}`
   const report = said.landsKept ? [moving, `landed\t${kept.length} kept edit(s)`] : [moving]
+  if (renamed !== null) report.push(`renamed\t${now.at}`)
   const after: Told = { report, faults: [] }
   if (unkept !== null) after.faults.push(`the folded edits stay beside the turn: ${unkept}`)
   if (said.status !== held.status) await noticesOver(reach, given.root, at, said.status, after)

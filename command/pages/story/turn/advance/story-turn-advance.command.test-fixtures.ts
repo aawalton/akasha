@@ -1,6 +1,13 @@
+import { mkdtempSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Landing } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { DATA } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import {
+  storyTurnAdvance,
+  type Timed,
+} from "akasha/command/pages/story/turn/advance/story-turn-advance.command.code.ts"
 import { loreLine } from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
 import type {
   Reach,
@@ -234,15 +241,57 @@ export const CHAPTER_AT = "stories/the-saga/chapters/the-saga-0002.story-chapter
 
 export const CHAPTER_ARGV = ["--chapter", "story-chapter-written/the-saga-0002"]
 
-export function chapterReach(into: Seen): Reach {
+export function chapterReach(
+  into: Seen,
+  status: TurnStep = "game-master",
+  seat: Seated = seatOf("game-master", MASTER)
+): Reach {
   const chapter = {
     at: CHAPTER_AT,
     slug: "the-saga-0002",
-    value: { story: "story-written/the-saga", stepStatus: `${stepStatus.slug}/game-master` },
+    value: { story: "story-written/the-saga", stepStatus: `${stepStatus.slug}/${status}` },
   }
   return {
-    ...reachOver(turnAt("game-master"), seatOf("game-master", MASTER), into),
+    ...reachOver(turnAt(status), seat, into),
     chapterAt: (_root, slug) => (slug === chapter.slug ? chapter : null),
+  }
+}
+
+export const CALLED = "akasha story turn advance"
+
+export const ROOT = mkdtempSync(join("/var/tmp", "story-turn-advance-test-"))
+
+export const GIVEN: Given = {
+  root: ROOT,
+  calledAs: CALLED,
+  from: "",
+  writer: null,
+  agentId: "an-agent",
+}
+
+writeFileSync(join(ROOT, "beats.txt"), "Mara opens the gate\n\nThe hall is dark\n")
+writeFileSync(join(ROOT, "issues.txt"), '"opens" - it was locked\n')
+writeFileSync(join(ROOT, "prose.txt"), "Mara opens the gate.\n")
+
+export async function advancedBy(
+  argv: readonly string[],
+  reach: Reach,
+  landing: Landing = async () => LANDED,
+  timed: Timed = () => undefined
+) {
+  return await storyTurnAdvance(
+    ["--turn", `story-turn-played/${SLUG}`, ...argv],
+    GIVEN,
+    landing,
+    reach,
+    timed
+  )
+}
+
+export function landingGiven(given: unknown[]): Landing {
+  return async (_root, some) => {
+    given.push(...some.map((one) => one.given))
+    return LANDED
   }
 }
 

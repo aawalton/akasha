@@ -1,5 +1,17 @@
-import { expect, test } from "bun:test"
-import { taken } from "akasha/command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts"
+import { afterAll, expect, test } from "bun:test"
+import { writeFileSync } from "node:fs"
+import { join } from "node:path"
+import {
+  movedTo,
+  numberedOf,
+  taken,
+  titledOf,
+} from "akasha/command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
 
 const CALLED = "akasha story turn advance"
 
@@ -40,7 +52,7 @@ test("an advance naming no step's output hands in the world builder's lore", () 
 })
 
 test("an advance names a written chapter at `--chapter`, and names a turn or a chapter but not both", () => {
-  const chapter = "story-chapter-written/harem-hotel-0001"
+  const chapter = "story-chapter-written/the-saga-0002"
   expect(taken(["--chapter", chapter], CALLED, ROOT)).toEqual({
     turn: chapter,
     chapter: true,
@@ -53,4 +65,59 @@ test("an advance names a written chapter at `--chapter`, and names a turn or a c
   expect(taken([], CALLED, ROOT)).toEqual({
     refused: ["an advance names one turn at `--turn` or one chapter at `--chapter`"],
   })
+})
+
+const CHAPTER = "story-chapter-written/the-saga-0002"
+
+function proseAt(): string {
+  const at = join(scratch.rootFor("turn-handing-"), "prose.txt")
+  writeFileSync(at, "Wren smiles.\n")
+  return at
+}
+
+test("a chapter's writer names the chapter at `--title` as it hands in the prose", () => {
+  const prose = proseAt()
+  const read = taken(
+    ["--chapter", CHAPTER, "--prose-file", prose, "--title", " The Key "],
+    CALLED,
+    ROOT
+  )
+  expect(read).toEqual({
+    turn: CHAPTER,
+    chapter: true,
+    handed: { kind: "prose", prose: "Wren smiles.\n", characters: [] },
+    title: "The Key",
+  })
+  expect(taken(["--chapter", CHAPTER, "--prose-file", prose], CALLED, ROOT)).toEqual({
+    refused: [
+      "a writer names the chapter at `--title` as it hands in the chapter's prose, and this names no title",
+    ],
+  })
+})
+
+test("`--title` is refused on a turn and on a chapter step other than the writer's", () => {
+  const refusal = {
+    refused: [
+      "`--title` names a written chapter, and only as its writer hands in the chapter's prose",
+    ],
+  }
+  expect(taken(["--turn", SLUG, "--prose-file", proseAt(), "--title", "A"], CALLED, ROOT)).toEqual(
+    refusal
+  )
+  expect(taken(["--chapter", CHAPTER, "--title", "A"], CALLED, ROOT)).toEqual(refusal)
+})
+
+test("a titled chapter's slug keeps the story and number and spells the title after them", () => {
+  expect(numberedOf("harem-hotel-0001-the-key", "harem-hotel")).toBe("harem-hotel-0001")
+  expect(titledOf("harem-hotel-0001", "harem-hotel", "Experiment 2 — Natalie's Table")).toBe(
+    "harem-hotel-0001-experiment-2-natalies-table"
+  )
+  expect(titledOf("harem-hotel-0001-old", "harem-hotel", "New")).toBe("harem-hotel-0001-new")
+  expect(
+    movedTo(
+      "s/chapters/harem-hotel-0001.story-chapter-written.ts",
+      "harem-hotel-0001",
+      "harem-hotel-0001-new"
+    )
+  ).toBe("s/chapters/harem-hotel-0001-new.story-chapter-written.ts")
 })

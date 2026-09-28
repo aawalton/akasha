@@ -1,27 +1,29 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { rmSync } from "node:fs"
 import { join } from "node:path"
-
-import type { Landing } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   storyTurnAdvance,
   type Timed,
 } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.code.ts"
 import {
   AT,
+  advancedBy,
+  CALLED,
   CHAPTER_ARGV,
   CHAPTER_AT,
   chapterReach,
   DRAFTED,
   ENDED,
+  GIVEN,
   LANDED,
+  landingGiven,
   landingInto,
   MARA_HEALTH,
   MARA_LORE,
   MASTER,
   MOVED,
   REVIEWED,
+  ROOT,
   racing,
   reachOver,
   SLUG,
@@ -37,32 +39,7 @@ import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-ty
 import { memory } from "akasha/story/recorder/pages/memory.story-recorder.ts"
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
 
-const CALLED = "akasha story turn advance"
-
-const ROOT = mkdtempSync(join("/var/tmp", "story-turn-advance-test-"))
-
 afterAll(() => rmSync(ROOT, { recursive: true, force: true }))
-
-const GIVEN: Given = { root: ROOT, calledAs: CALLED, from: "", writer: null, agentId: "an-agent" }
-
-writeFileSync(join(ROOT, "beats.txt"), "Mara opens the gate\n\nThe hall is dark\n")
-writeFileSync(join(ROOT, "issues.txt"), '"opens" - it was locked\n')
-writeFileSync(join(ROOT, "prose.txt"), "Mara opens the gate.\n")
-
-async function advancedBy(
-  argv: readonly string[],
-  reach: Reach,
-  landing: Landing = async () => LANDED,
-  timed: Timed = () => undefined
-) {
-  return await storyTurnAdvance(
-    ["--turn", `story-turn-played/${SLUG}`, ...argv],
-    GIVEN,
-    landing,
-    reach,
-    timed
-  )
-}
 
 test("the game master's beats land on the turn and tell the writer the lore to read, starting no seat", async () => {
   const into = seen()
@@ -362,6 +339,25 @@ test("a written chapter advances as a turn does, folded and told as a chapter", 
   expect(answer.refusals).toEqual([])
   expect(into.folded[0]?.pageTypeSlug).toBe("story-chapter-written")
   expect(into.notices[0]).toContain(`The chapter \`${CHAPTER_AT}\` is at writer.`)
+})
+
+test("a titled chapter is renamed after its title", async () => {
+  const into = seen()
+  const given: unknown[] = []
+  const runs: string[] = []
+  const reach = chapterReach(into, "writer", seatOf("writer", WRITER))
+  const argv = [...CHAPTER_ARGV, "--prose-file", join(ROOT, "prose.txt"), "--title", "The Gate"]
+  const answer = await storyTurnAdvance(argv, GIVEN, landingGiven(given), reach, (_root, one) => {
+    runs.push(one.run)
+    return undefined
+  })
+  const renamed = CHAPTER_AT.replace("0002", "0002-the-gate")
+  expect(answer.refusals).toEqual([])
+  expect(into.folded[0]?.values["title"]).toBe("The Gate")
+  expect(given).toEqual([{ at: CHAPTER_AT, to: "the-saga-0002-the-gate" }])
+  expect(answer.report).toContain(`renamed\t${renamed}`)
+  expect(into.notices[0]).toContain(`The chapter \`${renamed}\` is at reviewers.`)
+  expect(runs).toEqual(["the-saga-0002"])
 })
 
 test("a landed advance ends the phase the turn was at, naming the seat that ended it", async () => {

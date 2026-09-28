@@ -6,10 +6,12 @@ import { playedTurn } from "akasha/command/argument/pages/played-turn.argument.t
 import { proseFile } from "akasha/command/argument/pages/prose-file.argument.ts"
 import { recorder as recorderArgument } from "akasha/command/argument/pages/recorder.argument.ts"
 import { reviewer as reviewerArgument } from "akasha/command/argument/pages/reviewer.argument.ts"
+import { title as titleArgument } from "akasha/command/argument/pages/title.argument.ts"
 import { turnLore } from "akasha/command/argument/pages/turn-lore.argument.ts"
 import { writtenChapter } from "akasha/command/argument/pages/written-chapter.argument.ts"
 import { heldAt } from "akasha/command/modules/filling/command-filling.module.code.ts"
 import { storyTurnAdvance as page } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.ts"
+import { slugOf } from "akasha/page/naming/folding/modules/slug-of/slug-of.module.code.ts"
 import {
   type Handed,
   linesIn,
@@ -25,11 +27,60 @@ const NAMED = [
   proseFile,
   character,
   recorderArgument,
+  titleArgument,
 ] as const
 
-export type Taken = { readonly turn: string; readonly chapter: boolean; readonly handed: Handed }
+const APOSTROPHES = /['’]/g
+
+const PARTED = "/"
+
+const JOINED = "-"
+
+export type Taken = {
+  readonly turn: string
+  readonly chapter: boolean
+  readonly handed: Handed
+  readonly title?: string
+}
 
 type Refusal = { readonly refused: readonly string[] }
+
+export function numberedOf(slug: string, story: string): string {
+  const number = slug.slice(story.length + JOINED.length).split(JOINED)[0] ?? ""
+  return `${story}${JOINED}${number}`
+}
+
+function titleSlugOf(title: string): string {
+  return slugOf(title.replace(APOSTROPHES, ""))
+}
+
+export function titledOf(slug: string, story: string, title: string): string {
+  return `${numberedOf(slug, story)}${JOINED}${titleSlugOf(title)}`
+}
+
+export function movedTo(at: string, slug: string, to: string): string {
+  const folder = at.lastIndexOf(PARTED) + PARTED.length
+  return `${at.slice(0, folder)}${to}${at.slice(folder + slug.length)}`
+}
+
+function titleRefused(chapter: boolean, handed: Handed, title: string | undefined): Refusal | null {
+  const writing = chapter && handed.kind === "prose"
+  if (!writing && title !== undefined) {
+    return {
+      refused: [
+        `\`${titleArgument.said}\` names a written chapter, and only as its writer hands in the chapter's prose`,
+      ],
+    }
+  }
+  if (writing && titleSlugOf(title ?? "") === "") {
+    return {
+      refused: [
+        `a writer names the chapter at \`${titleArgument.said}\` as it hands in the chapter's prose, and this names no title`,
+      ],
+    }
+  }
+  return null
+}
 
 type Said = {
   readonly turnLore: readonly string[]
@@ -125,5 +176,9 @@ export function taken(argv: readonly string[], calledAs: string, root: string): 
   }
   const handed = handedFrom(root, held)
   if ("refused" in handed) return handed
-  return turn === "" ? { turn: chapter, chapter: true, handed } : { turn, chapter: false, handed }
+  const misnamed = titleRefused(turn === "", handed, held.title)
+  if (misnamed !== null) return misnamed
+  if (turn !== "") return { turn, chapter: false, handed }
+  const title = held.title?.trim()
+  return { turn: chapter, chapter: true, handed, ...(title === undefined ? {} : { title }) }
 }
