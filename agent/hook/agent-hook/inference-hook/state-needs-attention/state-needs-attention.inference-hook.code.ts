@@ -46,9 +46,9 @@ const STOP = "Stop"
 
 const PROMPT = "UserPromptSubmit"
 
-export const JUDGE_FLAG = "--judge"
+const JUDGE_FLAG = "--judge"
 
-export const GATES = {
+const GATES = {
   payload: "no payload read",
   seat: "no seat in the environment",
   subagent: "a subagent still to report",
@@ -100,7 +100,7 @@ export const SCOPE: readonly string[] = [
   "it is what the program says about itself, held as text it prints rather than as a comment.",
 ]
 
-export type Settled = {
+type Settled = {
   readonly gate: string
   readonly attention: boolean | null
   readonly put: number
