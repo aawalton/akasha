@@ -30,6 +30,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/beware-of-chicken/lore/otherwhere-iv-formations.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/beware-of-chicken/lore/otherwhere-iv-gou-ren.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/beware-of-chicken/lore/otherwhere-iv-grand-ravine-sect.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/beware-of-chicken/lore/otherwhere-iv-headman-gu.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/beware-of-chicken/lore/otherwhere-iv-heavens-and-dao.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/beware-of-chicken/lore/otherwhere-iv-hermetic-iron-sect.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/beware-of-chicken/lore/otherwhere-iv-hidden-spring-sect.lore.ts","typed":true,"deferred":false}
@@ -102,6 +103,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/beware-of-chicken/lore/otherwhere-iv-zang-wei.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/beware-of-chicken/lore/otherwhere-iv-zang-wen.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/beware-of-chicken/lore/otherwhere-iv-zang-zeng.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/beware-of-chicken/lore/otherwhere-iv-zhao-household.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/breaker-of-horizons/lore/otherwhere-viii-academy-staff.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/breaker-of-horizons/lore/otherwhere-viii-academy-students.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/breaker-of-horizons/lore/otherwhere-viii-academy.lore.ts","typed":true,"deferred":false}

@@ -4,13 +4,14 @@ export const otherwhereIv00006 = {
   id: "01a0ea37-506e-7a10-9404-76c29d65c543",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-006",
+  cover: "image/image-3e3233aade1f0708",
   ownLength: 659,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],
   position: 6,
   prose: "txt",
   characters: ["character-player/otherwhere-iv-nala", "character-other/otherwhere-iv-zhao-jun"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: '"Gladly"',
   beats: [
     '"Gladly," Nala says.',
@@ -50,6 +51,6 @@ export const otherwhereIv00006 = {
   ],
   lore: ["lore/otherwhere-iv-three-stones-folk"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T08:22:00.000Z",
 } as const satisfies StoryTurnPlayed

@@ -341,7 +341,11 @@ export const otherwhereIvThreeStonesFolk = {
     },
     {
       fact: "Its main room holds a small ancestral shrine; an honored guest sits in the seat facing the door.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
     {
       fact: "A Zhao meal is rice with pickled mustard greens, half a salted duck egg each, and weak tea.",
@@ -378,6 +382,14 @@ export const otherwhereIvThreeStonesFolk = {
     {
       fact: "Around midday Headman Gu sits in his courtyard with the tax rolls and a pot of tea.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Zhao house is two rooms of mud brick under thatch, with a yard of packed earth swept clean.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
   ],
 } as const satisfies Lore

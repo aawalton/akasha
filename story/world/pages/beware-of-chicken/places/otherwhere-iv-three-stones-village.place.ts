@@ -60,7 +60,11 @@ export const otherwhereIvThreeStonesVillage = {
     },
     {
       fact: "The headman's house, the only one with a tiled gate, faces the shrine square.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
     {
       fact: "Dogs bark at strangers, and children run to stare at anyone new.",
@@ -93,6 +97,30 @@ export const otherwhereIvThreeStonesVillage = {
     {
       fact: "Nala slid into the terrace below the broken wall and trampled a row of a farmer's rice.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
+    {
+      fact: "Three tall grey stones stand in a ring around a small shrine at the village's heart.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
+    },
+    {
+      fact: "Where the track enters the village, a huge camphor tree shades a stall with stools.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
+    },
+    {
+      fact: "Nala's coming set the village's dogs barking and drew staring children, faces and whispers.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
   ],
 } as const satisfies Place
