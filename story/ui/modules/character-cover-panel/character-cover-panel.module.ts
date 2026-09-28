@@ -42,7 +42,13 @@ export const characterCoverPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Arrows under the turn cover page through every turn drawn that has a cover.",
+      statement:
+        "Arrows under the turn cover page through every turn at player that has a cover, drawn or not.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The turn covers paged through are the ones the panel is handed rather than read here.",
     },
     {
       decisionKind: "decision-kind/departure",

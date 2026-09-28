@@ -11,7 +11,6 @@ import {
   pickedFor,
   slugsOf,
   turnCoverAt,
-  turnCoverSource,
   turnCoversOf,
 } from "akasha/story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx"
 import { characterOther } from "akasha/story/world/characters/character-other/character-other.page-type.ts"
@@ -93,15 +92,6 @@ test("a character's persona is not followed for a cover", () => {
   expect(characterCoversOf(charactersIn([other("a")]), rows)).toEqual([])
 })
 
-test("the latest turn is drawn by its own cover at twice the panel's width", () => {
-  expect(turnCoverSource(row({ cover: "image/image-t" }))).toBe(source("image-t"))
-})
-
-test("a turn with no cover, or no row, draws no picture", () => {
-  expect(turnCoverSource(row({}))).toBeNull()
-  expect(turnCoverSource(undefined)).toBeNull()
-})
-
 test("the turn's picture sits under the player's cover", () => {
   const drawn = (slug: string) => ({ slug, name: slug, source: source(slug) })
   expect(turnCoverAt([drawn("a"), drawn("p"), drawn("b")], ["p"])).toBe(2)
@@ -109,17 +99,19 @@ test("the turn's picture sits under the player's cover", () => {
   expect(turnCoverAt([], [])).toBe(0)
 })
 
-test("the turns paged through are the turns drawn that have a cover, in the turns' order", () => {
-  const turns = [{ ...turn("a"), turnNumber: 1 }, { ...turn("b"), turnNumber: 2 }, turn("c")]
-  const rows = [
-    row({ id: "c", cover: "image/image-c" }),
-    row({ id: "b" }),
-    row({ id: "a", cover: "image/image-a" }),
+test("the turns paged through are every turn handed with a cover, drawn at twice the panel's width", () => {
+  const handed = [
+    { id: "a", number: 1, cover: "image/image-a" },
+    { id: "c", number: 3, cover: "image/image-c" },
   ]
-  expect(turnCoversOf(turns, rows)).toEqual([
+  expect(turnCoversOf(handed)).toEqual([
     { id: "a", number: 1, source: source("image-a") },
     { id: "c", number: 3, source: source("image-c") },
   ])
+})
+
+test("no turn handed draws no picture", () => {
+  expect(turnCoversOf([])).toEqual([])
 })
 
 test("the paging opens on the latest turn with a cover", () => {

@@ -7,8 +7,15 @@ import type { ClientBeat } from "akasha/story/ui/modules/client-session/client-s
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import type { SubmitPlayerAction } from "akasha/story/ui/modules/system-choice-card/system-choice-card.module.code.tsx"
 
+export type PlayedTurnCover = {
+  readonly id: string
+  readonly number: number
+  readonly cover: string
+}
+
 export type PanelRun = {
   readonly turns: readonly ClientStoryTurn[]
+  readonly turnCovers: readonly PlayedTurnCover[]
   readonly beats: readonly ClientBeat[] | null | undefined
   readonly hrefById: ReadonlyMap<string, string>
   readonly earlier: number

@@ -11,6 +11,7 @@ import type {
   ClientStoryTurn,
 } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import { composeSessionEnvelope } from "akasha/story/ui/modules/session-envelope/session-envelope.module.code.ts"
+import type { PlayedTurnCover } from "akasha/story/ui/played-panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import {
   PLAYER,
   stepIn,
@@ -232,6 +233,18 @@ export function playedTurnsOf(
       ...(turnNumber === null ? {} : { turnNumber }),
     }
   })
+}
+
+const PLAYED_COVER_KEY = "cover"
+
+export function playedCoversOf(rows: readonly Page[]): readonly PlayedTurnCover[] {
+  const held: PlayedTurnCover[] = []
+  for (const [index, row] of playedOrder(rows).entries()) {
+    const cover = row[PLAYED_COVER_KEY]
+    if (typeof cover !== "string" || cover === "") continue
+    held.push({ id: row.id, number: asNumber(row.position) ?? index + 1, cover })
+  }
+  return held
 }
 
 export function playedChaptersOf(rows: readonly Page[]): readonly ClientStoryChapter[] {

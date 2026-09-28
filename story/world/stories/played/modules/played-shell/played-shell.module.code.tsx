@@ -53,6 +53,7 @@ import {
   playedAppointmentsListOf,
   playedChaptersOf,
   playedClockOf,
+  playedCoversOf,
   playedEnvelope,
   playedHrefsOf,
   playedListsOf,
@@ -222,9 +223,11 @@ function PlayedStory({
     () => playedEnvelope({ title, turns: runTurns, chapters: storyChapters, state }),
     [title, runTurns, storyChapters, state]
   )
+  const turnCovers = useMemo(() => playedCoversOf(ready), [ready])
   const panelRun = useMemo<PanelRun>(
     () => ({
       turns: envelope.chapterProse ?? [],
+      turnCovers,
       beats: undefined,
       hrefById,
       earlier: tail.earlier,
@@ -233,7 +236,7 @@ function PlayedStory({
       gameExternalId: externalId,
       submitPlayerAction: coordinatorAgent === undefined ? undefined : sendAction,
     }),
-    [envelope, hrefById, tail, externalId, runIsTurns, coordinatorAgent]
+    [envelope, turnCovers, hrefById, tail, externalId, runIsTurns, coordinatorAgent]
   )
 
   if (chapters.isLoading || turns.isLoading) return null

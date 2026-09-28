@@ -26,6 +26,11 @@ export const panelDrawing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A panel is handed the cover of every turn at player with that turn's number, drawn or not.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A panel is handed what sends the game a choice, where the game has a game master.",
     },
   ],

@@ -19,6 +19,7 @@ import {
   type ShapeDescriptor,
 } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
+import type { PlayedTurnCover } from "akasha/story/ui/played-panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import { characterOther } from "akasha/story/world/characters/character-other/character-other.page-type.ts"
 import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
 import { characters } from "akasha/story/world/characters/properties/characters.multi-relation-property.ts"
@@ -94,24 +95,17 @@ export function characterCoversOf(
   return held
 }
 
-export function turnCoverSource(turn: Page | undefined): string | null {
-  return coverSource(turn?.[cover.propertySlug], COVER_WIDTH_ASKED)
-}
-
 export function turnCoverAt(covers: readonly CharacterCover[], players: readonly string[]): number {
   return covers.findLastIndex((one) => players.includes(one.slug)) + 1
 }
 
 export type TurnCover = { readonly id: string; readonly number: number; readonly source: string }
 
-export function turnCoversOf(
-  turns: readonly ClientStoryTurn[],
-  rows: readonly Page[]
-): readonly TurnCover[] {
+export function turnCoversOf(turnCovers: readonly PlayedTurnCover[]): readonly TurnCover[] {
   const held: TurnCover[] = []
-  for (const [index, one] of turns.entries()) {
-    const source = turnCoverSource(rows.find((row) => row[ID_KEY] === one.id))
-    if (source !== null) held.push({ id: one.id, number: one.turnNumber ?? index + 1, source })
+  for (const one of turnCovers) {
+    const source = coverSource(one.cover, COVER_WIDTH_ASKED)
+    if (source !== null) held.push({ id: one.id, number: one.number, source })
   }
   return held
 }
@@ -150,28 +144,38 @@ function shapeNamed(
   return namedShapeDescriptor(pageTypeSlug, { by, values: [...values] })
 }
 
-export function CharacterCoverPanel({ turns }: { turns: readonly ClientStoryTurn[] }) {
-  const turnId = latestTurnId(turns)
-  if (turnId === null) return null
-  return <TurnCovers turnId={turnId} turns={turns} />
+type CoverPanelProps = {
+  readonly turns: readonly ClientStoryTurn[]
+  readonly turnCovers: readonly PlayedTurnCover[]
 }
 
-function TurnCovers({ turnId, turns }: { turnId: string; turns: readonly ClientStoryTurn[] }) {
-  const idsKeyed = turns.map((one) => one.id).join(" ")
+export function CharacterCoverPanel({ turns, turnCovers }: CoverPanelProps) {
+  const turnId = latestTurnId(turns)
+  if (turnId === null) return null
+  return <TurnCovers turnId={turnId} turnCovers={turnCovers} />
+}
+
+function TurnCovers({
+  turnId,
+  turnCovers,
+}: {
+  turnId: string
+  turnCovers: readonly PlayedTurnCover[]
+}) {
   const turnOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
       pageTypeSlug: storyTurnPlayed.slug,
-      where: [{ key: ID_KEY, in: inList(idsKeyed) }],
-      limit: Math.max(ONE, inList(idsKeyed).length),
-      shape: shapeNamed(storyTurnPlayed.slug, ID_KEY, inList(idsKeyed)),
+      where: [{ key: ID_KEY, in: [turnId] }],
+      limit: ONE,
+      shape: shapeNamed(storyTurnPlayed.slug, ID_KEY, [turnId]),
     }),
-    [idsKeyed]
+    [turnId]
   )
   const rows = usePages(turnOptions).rows
   const [paged, setPaged] = useState<Paged | null>(null)
   const turn = rows.find((row) => row[ID_KEY] === turnId)
   const keyed = keyedOf(charactersIn(turn?.[characters.propertySlug]))
-  const covers = turnCoversOf(turns, rows)
+  const covers = turnCoversOf(turnCovers)
   if (keyed === "" && covers.length === 0) return null
   const picture =
     covers.length === 0 ? null : (

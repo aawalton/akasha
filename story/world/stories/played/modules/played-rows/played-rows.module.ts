@@ -26,6 +26,15 @@ export const playedRows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A turn's cover is carried with its number for every turn given, drawn or not.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A turn stating no cover carries none, and a turn stating no position is numbered by its place.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A turn not yet at player is kept from the reader.",
     },
     {

@@ -4,6 +4,7 @@ import {
   PLAYED_ROWS_DRAWN,
   playedChaptersOf,
   playedClockOf,
+  playedCoversOf,
   playedEnvelope,
   playedHrefsOf,
   playedMaking,
@@ -80,6 +81,29 @@ describe("playedTail", () => {
     expect(tail.drawn.length).toBe(PLAYED_ROWS_DRAWN)
     expect(tail.earlier).toBe(12)
     expect(tail.drawn[0]?.id).toBe("id-12")
+  })
+})
+
+describe("playedCoversOf", () => {
+  test("carries every turn's cover with its number, in the turns' order, drawn or not", () => {
+    const rows = turnsNumbering(PLAYED_ROWS_DRAWN + 2).map((row) =>
+      turnPage({ id: row.id, position: row.position, cover: `image/${row.id}` })
+    )
+    const covers = playedCoversOf(rows)
+    expect(covers).toHaveLength(PLAYED_ROWS_DRAWN + 2)
+    expect(covers[0]).toEqual({ id: "id-0", number: 1, cover: "image/id-0" })
+  })
+
+  test("passes over a turn stating no cover, and numbers a turn stating no position by its place", () => {
+    const rows = [
+      turnPage({ id: "b", position: 2 }),
+      turnPage({ id: "loose", cover: "image/loose" }),
+      turnPage({ id: "a", position: 1, cover: "image/a" }),
+    ]
+    expect(playedCoversOf(rows)).toEqual([
+      { id: "a", number: 1, cover: "image/a" },
+      { id: "loose", number: 3, cover: "image/loose" },
+    ])
   })
 })
 
