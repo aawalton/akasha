@@ -1,0 +1,113 @@
+Spells Known to Lira:
+
+List Format: Spell Name - Magical Incantation - Meaning
+
+Lit CandleCandira. Fila. Curad.Candle. Fire. Ignition.
+
+Fire ManipulationPika. Fila. Frushum.Mind. Fire. Manipulation.
+
+General Fire IgnitionPika. Fila. Curad.Mind. Fire. Ignition.
+
+Sustained FlameEldra. Fila. Curad.X. Fire. Ignition.
+
+FireballEldra. Fila. Curad. Tarasana. Velkor.X. Fire. Ignition. Pocket. Launch.
+
+Water ManipulationPika. Maha. Frushum.Mind. Water. Manipulation.
+
+Water AbsorptionYorad. Maha. Nagla.Body. Water. Absorption.
+
+Wind ManipulationPika. Riad. Frushum.Mind. Wind. Manipulation.
+
+Earth ManipulationPika. Terran. Frushum.Mind. Earth. Manipulation.
+
+Warm PocketPaldina. Fila. Coopar. Tarasana. Kurur.Passive. Fire. Containment. Pocket. Space.
+
+Self-CleaningYorad. Luneth. Velar.Body. Purification. Clarity.
+
+Hair StylingPika. Cavira. Frushum.Mind. Hair. Manipulation.
+
+MeditationPika. Selan. Tureth.Mind. Stillness. Balance.
+
+Improve PerceptionPika. Velar. Syneth.Mind. Clarity. Interpretation.
+
+Check MemoryPika. Moren. Kaldris.Mind. Past. Retrieval.
+
+Mage SightPika. Maja. Syneth.Mind. Magic. Interpretation.
+
+Find Books (Mind)Pika. Linasara. Oshkan.Mind. Book. Location.
+
+Eagle Eyes Pika. Cipos. Syneth.Mind. Amplification. Interpretation
+
+Find NorthLadar. Oshkan. Nimbra.Divination. Location. North.
+
+Find PlaceLadar. Oshkan. Pika.Divination. Location. Mind.
+
+Find Water SourceLadar. Oshkan. Maha.Divination. Location. Water.
+
+Danger SensePaldina. Ladar. Pristana. Turat. Oshkan.Passive. Divination. Danger. Future. Location.
+
+Divine WeatherLadar. Turat. Hala.Divination. Future. Weather.
+
+Divine Past EventLadar. Moren. Kaldris.Divination. Past. Retrieval.
+
+Find LifeLadar. Oshkan. Kalaba.Divination. Location. Life.
+
+Find WealthLadar. Oshkan. Ogllou.Divination. Location. Wealth.
+
+Find Books (Divination)This story is posted elsewhere by the author. Help them out by reading the authentic version.Ladar. Linasara. Oshkan. Cognar. Turat.Divination. Book. Location. Knowledge. Future.
+
+Runic IgnitionKisar. Fila. Curad.Symbol. Fire. Ignition.
+
+Runic WarmthKisar. Fila. Coopar.Symbol. Fire. Containment.
+
+Runic Ignition on ContactKisar. Paldina. Fila. Curad. Taksel.Symbol. Passive. Fire. Ignition. Contact.
+
+Runic Dust Gathering (Failed)Kisar. Terran. Kaldris.Symbol. Earth. Retrieval.
+
+Improved Runic Dust GatheringKisar. Picos. Terran. Kaldris. Velar.Symbol. Diminution. Earth. Retrieval. Clarity.
+
+Mana StabilizationKisar. Maja. Tureth. Tarasana. Kurur.Symbol. Magic. Balance. Pocket. Space.
+
+Mana ObfuscationKisar. Maja. Veshar. Tarasana. Kurur.Symbol. Magic. Concealment. Pocket. Space.
+
+Air Purification Kisar. Riad. Luneth. Tarasana. Kurur.Symbol. Wind. Purification. Pocket. Space.
+
+Body Obfuscation Kisar. Yorad. Veshar. Tarasana. Kurur.Symbol. Body. Concealment. Pocket. Space.
+
+CalligraphyAsatan. Tir. Kisar.Paper. Ink. Writing.
+
+Book AbsorptionPika. Linasara. Cognar. Coopar. Nagla.Mind. Books. Knowledge. Containment. Absorption.
+
+Book CleaningLinasara. Luneth. Velar.Book. Purification. Clarity.
+
+Book RestorationLinasara. Luneth. Velar. Moren. Kaldris.Book. Purification. Clarity. Past. Retrieval.
+
+Paper SummoningYorad. Asatan. Kaldris.Body. Paper. Retrieval.
+
+Book SummoningYorad. Linasara. Kaldris.Body. Book. Retrieval.
+
+Ink ProjectileKaldris. Maha. Tir. Tarasana. Velkor.Retrieval. Water. Ink. Pocket. Launch.
+
+Ink Clean UpKaldris. Tir. Asatan.Retrieval. Ink. Paper.
+
+Paper ManipulationPika. Asatan. Frushum.Mind. Paper. Manipulation.
+
+Sound Manipulation (new)Pika. Hishar. Frushum.Mind. Wave. Manipulation.
+
+Runic Life Sound Mimicry (new)Kisar. Kalaba. Hishar.Symbol. Life. Wave.
+
+Runic Metal Sound Mimicry (new)Kisar. Milaga. Hishar.Symbol. Metal. Wave.
+
+Runic Sound-Dampening Field (new)Kisar. Picos. Hishar. Tarasana. Kurur.Symbol. Diminution. Wave. Pocket. Space.
+
+Enhanced Hearing (Failed) (new)Pika. Cipos. Hishar.Mind. Amplification. Wave.
+
+Focused Hearing (new)Pika. Cipos. Hishar. Kaldris. Velar.Mind. Amplification. Wave. Retrieval. Clarity.
+
+Note: "X" denotes an unknown word that Lira has not yet deciphered. She has not fully tested these spells due to the obvious risks of experimenting with advanced fire magic inside a library.
+
+Lexicon of Known Magical Words
+
+Milaga (new)
+
+Metal
