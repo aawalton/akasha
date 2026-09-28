@@ -72,6 +72,30 @@ export const otherwhereMainHall = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "At 75 power the Counter's carved trees glow, and its desk lights for the Librarian's hand.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Restored, the Counter shows as Check-in Counter, Operational, Administrator: Nala.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Resending the packet is a great working of 10 power, asked at the Counter, loading as she sleeps.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "The packet gives a new Librarian the Library's layout, rules and staff roles, and nothing hidden.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "The Librarian opens the Library's doors to patrons by her word at the working Counter.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "Once the doors open, a few patrons a day find their way in at first, whoever needs the Library.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
       fact: "The Librarian's quarters open off the hall behind the Check-in Counter, for a synced Librarian.",
       knowers: [
         "lore-disclosure/game-master",

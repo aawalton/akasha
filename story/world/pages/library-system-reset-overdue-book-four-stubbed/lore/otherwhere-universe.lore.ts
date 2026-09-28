@@ -280,6 +280,22 @@ export const otherwhereUniverse = {
         "character-other/otherwhere-links",
       ],
     },
+    {
+      fact: "Nala's third sync brings her to connection 3, and her interface then shows the Library's tasks.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "Nala's third sync brings a vision of the Counter long ago, busy with patrons of many kinds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Library's second task is Restore the Check-in Counter, done when its power reaches 75.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "With the Counter restored, the Library sets its next task: Reopen the Library, serve a patron.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
