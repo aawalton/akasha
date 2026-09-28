@@ -7,7 +7,8 @@ export const otherwhere00050 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 50,
-  turnStatus: "turn-status/world-builder",
+  turnStatus: "turn-status/game-master",
   action:
     "I pick up the worm, take it back to the break room, and put it in the cooler with the others. As I walk back to my room, I think to Links, **Can we afford hot water now? I really need a hot shower**",
+  lore: ["place/otherwhere-hall-back", "place/otherwhere-main-hall"],
 } as const satisfies StoryTurnPlayed
