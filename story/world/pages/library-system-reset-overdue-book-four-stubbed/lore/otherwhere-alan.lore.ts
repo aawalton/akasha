@@ -21,6 +21,10 @@ export const otherwhereAlan = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
+      fact: "Alan's home library on Earth holds thousands of books, sorted and resorted many times.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Alan is autistic and has total aphantasia.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },

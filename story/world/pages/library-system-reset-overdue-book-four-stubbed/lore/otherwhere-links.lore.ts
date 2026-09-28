@@ -109,6 +109,10 @@ export const otherwhereLinks = {
       ],
     },
     {
+      fact: "Links told Nala he would know, and say so loudly, when her hand lands on a useful book.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
       fact: "Links told Nala dragging her clear cost him power he can't spare a second time.",
       knowers: [
         "lore-disclosure/game-master",

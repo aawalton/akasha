@@ -33,7 +33,11 @@ export const otherwhereMainHall = {
     },
     {
       fact: "Shelf Sight, a book whose power shows a glanced book's shelf, lies in a heap near the counter.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "The main hall is dimly lit, brighter once a Librarian syncs, and gloomy beyond the entrance.",
@@ -123,7 +127,6 @@ export const otherwhereMainHall = {
       fact: "The wardrobe's robes are deep blue wool, whole and unmothed, smelling of cedar; two hang there.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "The wardrobe holds a past Librarian's plain robes, long on Nala but wearable.",
       knowers: [
@@ -282,6 +285,14 @@ export const otherwhereMainHall = {
     },
     {
       fact: "Links heated Nala's filled tub for a point of the Library's power.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
+    },
+    {
+      fact: "Nala picked up Shelf Sight, a slim plain-bound book, sorting the heaps beside the counter.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-alan",

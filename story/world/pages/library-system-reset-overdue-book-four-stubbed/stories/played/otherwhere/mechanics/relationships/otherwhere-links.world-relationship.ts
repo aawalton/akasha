@@ -7,5 +7,5 @@ export const otherwhereLinks = {
   title: "Alan and Links",
   world: "world/library-system-reset-overdue-book-four-stubbed",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  relationshipPoints: 55,
+  relationshipPoints: 58,
 } as const satisfies WorldRelationship
