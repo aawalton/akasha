@@ -10,14 +10,14 @@ export const otherwhereVii00003 = {
   position: 3,
   prose: "txt",
   characters: ["character-player/otherwhere-vii-nala", "character-other/otherwhere-vii-ennis"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "\"A bit of both I'm afraid. Certainly didn't plan to end up in a ditch with only the clothes on my back. You look like an enterprising fellow, could you use an extra pair of hands in exchange for a meal? I know I don't look like much, but I'm good at cleaning and organizing, might be able to help you turn some of those treasures into something people would buy?\"",
   beats: [
     'Nala answers the carter: "A bit of both I\'m afraid," and the rest of it, just as she means it.',
     "He hears her out, chewing the inside of his cheek, and his eyes go back to her shirt.",
     '"Both," he says. "Honest answer, anyhow."',
-    '"Treasures." He snorts. "Rags and bones, girl. Only the papermaker and the glue-boiler buy it."',
+    '"Treasures." He snorts. "Rags and bones, girl. Only papermaker, fuller and glue-boiler buy it."',
     "\"Clean and sort, you say. I've had hands before. Soft ones don't last the first sack.\"",
     "He climbs down stiffly, one hand pressed to the small of his back as he straightens.",
     "He drags a sagging sack off the tail of the cart and drops it on the verge with a wet slap.",
