@@ -3949,6 +3949,7 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/the-beholder/mechanics/ranks/tier/the-beholder-tier.page-type.ts","id":"01a0deed-aa86-70a1-94ba-361ba920f093"}
 {"propertySlug":"decision-kind","path":"story/world/pages/the-beholder/stories/written/the-beholder/mechanics/metrics/attributes/the-beholder-attribute.page-type.ts","id":"01a0deec-7455-7d2c-a9a6-9fa1a5ad06e0"}
 {"propertySlug":"decision-kind","path":"story/world/pages/tower-of-nimue/stories/written/tower-of-nimue/mechanics/metrics/attributes/tower-of-nimue-attribute.page-type.ts","id":"01a0dee9-5494-73ec-b731-6b43baa9beea"}
+{"propertySlug":"decision-kind","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/stories/played/otherwhere-vi/mechanics/checks/otherwhere-vi-action-check.world-check.ts","id":"01a0ea3a-2834-7bec-a31b-ec3ea446cfa7"}
 {"propertySlug":"decision-kind","path":"story/world/properties/character-readings.page-property-entry.ts","id":"01a063ce-6216-7001-b3f6-26b45c0bef56"}
 {"propertySlug":"decision-kind","path":"story/world/properties/mechanic-readings.page-property-entry.ts","id":"01a063ce-6216-7002-a04b-18f373a5a1d3"}
 {"propertySlug":"decision-kind","path":"story/world/properties/reading-character.relation-property.ts","id":"01a0d3cb-ae43-75ef-bbd5-cfe20827da69"}

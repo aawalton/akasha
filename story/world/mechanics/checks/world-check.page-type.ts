@@ -50,6 +50,7 @@ export const worldCheck = {
     "world-check/otherwhere-viii-time-passing",
     "world-check/otherwhere-viii-action-check",
     "world-check/otherwhere-viii-harm",
+    "world-check/otherwhere-vi-action-check",
   ],
   properties: [{ pageProperty: "module-property-group/settling", required: true, many: false }],
   decisions: [
