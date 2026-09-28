@@ -22,14 +22,6 @@ const TYPES = [
   { slug: "world-song", definition: null },
 ]
 
-const VIEWED = {
-  id: CHARACTERS.id,
-  slug: CHARACTERS.slug,
-  title: CHARACTERS.title,
-  icon: CHARACTERS.icon,
-  navPlace: CHARACTERS.navPlace,
-}
-
 const VIEWS = [CHARACTERS_ALPHABETICAL, CHARACTERS_MOST_SEEN]
 
 test("the loose items come first in their places, and Home is left off", () => {
@@ -45,7 +37,7 @@ test("each section is a shelf holding the items under it in their places", () =>
 })
 
 test("an entry carries its icon and the definition of the type its link reaches", () => {
-  const [loose] = shelvesOf([CHARACTERS, SPELLS], TYPES, [])
+  const [loose] = shelvesOf([CHARACTERS, SPELLS], TYPES, VIEWS)
   expect(loose?.under[0]?.label).toBe("Characters")
   expect(loose?.under[0]?.icon).toBe("users")
   expect(loose?.under[0]?.definition).toBe("a person in the story")
@@ -53,7 +45,7 @@ test("an entry carries its icon and the definition of the type its link reaches"
 })
 
 test("an item leading nowhere of its own links its nav page and defines the type its first view lists", () => {
-  const [loose] = shelvesOf([VIEWED], TYPES, VIEWS)
+  const [loose] = shelvesOf([CHARACTERS], TYPES, VIEWS)
   expect(loose?.under[0]).toEqual({
     href: "/nav/innworld-characters-d167257b",
     label: "Characters",

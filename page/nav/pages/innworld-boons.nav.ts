@@ -9,5 +9,4 @@ export const innworldBoons = {
   navPlace: 4,
   app: "web-app/innworld-web",
   navParent: "nav/innworld-powers",
-  navHref: "/world-boon",
 } as const satisfies Nav

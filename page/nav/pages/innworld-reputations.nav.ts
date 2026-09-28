@@ -9,5 +9,4 @@ export const innworldReputations = {
   navPlace: 4,
   app: "web-app/innworld-web",
   navParent: "nav/innworld-marks",
-  navHref: "/world-reputation",
 } as const satisfies Nav

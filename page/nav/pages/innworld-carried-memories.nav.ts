@@ -9,5 +9,4 @@ export const innworldCarriedMemories = {
   navPlace: 5,
   app: "web-app/innworld-web",
   navParent: "nav/innworld-powers",
-  navHref: "/world-carried-memory",
 } as const satisfies Nav

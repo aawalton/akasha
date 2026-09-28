@@ -9,5 +9,4 @@ export const innworldAspects = {
   navPlace: 5,
   app: "web-app/innworld-web",
   navParent: "nav/innworld-marks",
-  navHref: "/world-aspect",
 } as const satisfies Nav

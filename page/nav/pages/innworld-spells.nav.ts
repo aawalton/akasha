@@ -8,5 +8,4 @@ export const innworldSpells = {
   icon: "wand-sparkles",
   navPlace: 4,
   app: "web-app/innworld-web",
-  navHref: "/world-spell",
 } as const satisfies Nav
