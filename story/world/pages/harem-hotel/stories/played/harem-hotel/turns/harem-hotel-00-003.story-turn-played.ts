@@ -4,6 +4,7 @@ export const haremHotel00003 = {
   id: "01a0e84e-b6a8-7968-a126-a9bca9fc1590",
   type: "page-type/story-turn-played",
   slug: "harem-hotel-00-003",
+  cover: "image/image-6953cf1caabf4f26",
   ownLength: 721,
   unit: "unit/words",
   partOfCollections: ["story-played/harem-hotel"],
@@ -42,5 +43,5 @@ export const haremHotel00003 = {
     '"Then do it."',
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
