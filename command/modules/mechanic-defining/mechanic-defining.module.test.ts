@@ -37,7 +37,10 @@ const KINDS: ReadonlySet<string> = new Set([
   "world-skill",
   "held-skill",
   "world-item",
+  "mana-meter",
 ])
+
+const CHARACTERS: ReadonlySet<string> = new Set([worldCharacter.slug])
 
 const RELATION = "relation-property"
 
@@ -46,11 +49,12 @@ const DECLARED: Record<string, ReturnType<Knowing["declarationsOf"]>> = {
     { required: true, pageTypeSlug: RELATION, pagePropertySlug: "holding-character" },
     { required: true, pageTypeSlug: RELATION, pagePropertySlug: "holding-skill" },
   ],
+  "mana-meter": [{ required: true, pageTypeSlug: RELATION, pagePropertySlug: "holding-character" }],
 }
 
 const INDEX: Knowing = {
   pageAt: (type, slug) => PAGES[`${type}/${slug}`] ?? null,
-  kindsUnder: () => KINDS,
+  kindsUnder: (slug) => (slug === worldCharacter.slug ? CHARACTERS : KINDS),
   declarationsOf: (type) => DECLARED[type] ?? [],
 }
 
@@ -80,6 +84,12 @@ const GM = "agent/seat/pages/gm/gm.seat.ts"
 
 test("a new skill or item page is a definition, and a holding or other page is not", () => {
   expect(definedIn(INDEX, bodyOf, [SKILL, ITEM, HELD, LORE])).toEqual([SKILL_AT, ITEM_AT])
+})
+
+test("a page tracking a character already defined brings no new lore, and defines nothing", () => {
+  const meter = added("story/metrics/nala.mana-meter.ts")
+  expect(definedIn(INDEX, bodyOf, [meter])).toEqual([])
+  expect(definingRefused(INDEX, bodyOf, GM, [meter])).toEqual([])
 })
 
 test("a page already there is changed rather than defined", () => {

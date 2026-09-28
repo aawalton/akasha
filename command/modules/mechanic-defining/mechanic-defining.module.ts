@@ -20,7 +20,12 @@ export const mechanicDefining = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A kind with a required relation to another mechanic kind is a holding, which defines nothing.",
+        "A kind with a required relation to a character or a mechanic tracks what is defined already.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page tracking what is defined already brings no new lore, so it defines nothing.",
     },
     {
       decisionKind: "decision-kind/departure",

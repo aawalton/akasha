@@ -17,6 +17,8 @@ export type Knowing = Pick<Answering, "pageAt" | "kindsUnder"> & {
 
 const MECHANIC = "world-mechanic"
 
+const CHARACTER = "world-character"
+
 const RELATION = "relation-property"
 
 const TARGET = "targetPageType"
@@ -69,12 +71,13 @@ export function definedIn(
   asked: readonly FileChange[]
 ): readonly string[] {
   const kinds = index.kindsUnder(MECHANIC)
+  const defined = new Set([...kinds, ...index.kindsUnder(CHARACTER)])
   const found: string[] = []
   for (const edit of asked) {
     if (edit.kind !== "add" || bodyOf(edit.path) !== null) continue
     const parted = partedIn(edit.path)
     if (parted === null || parted.held !== PAGE_HELD || parted.sections.length > 0) continue
-    if (!kinds.has(parted.pageType) || holding(index, parted.pageType, kinds)) continue
+    if (!kinds.has(parted.pageType) || holding(index, parted.pageType, defined)) continue
     found.push(edit.path)
   }
   return found
