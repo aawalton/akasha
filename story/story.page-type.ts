@@ -27,6 +27,7 @@ export const story = {
     "page-type/story-recorder",
     "text-property/chapter-break",
     "text-property/coordinator-agent",
+    "file-property/phase-timings",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -35,6 +36,13 @@ export const story = {
     { pageProperty: "text-property/chapter-break", required: false, many: false },
     { pageProperty: "text-property/coordinator-agent", required: false, many: false },
     { pageProperty: "relation-property/page-domain", required: false, many: false },
+    {
+      pageProperty: "file-property/phase-timings",
+      required: false,
+      many: false,
+      uncommitted: true,
+      default: "jsonl",
+    },
   ],
   decisions: [
     {

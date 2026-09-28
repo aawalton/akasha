@@ -10,7 +10,8 @@ export const phaseTiming = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A phase is written as one row of the entries beside the story's page as it ends.",
+      statement:
+        "A phase is written as one row of the phase timings beside the story's page as it ends.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -61,7 +62,7 @@ export const phaseTiming = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A row is kept as long as the entries keep every row.",
+      statement: "A row is kept as long as the phase timings keep every row.",
     },
     {
       decisionKind: "decision-kind/departure",

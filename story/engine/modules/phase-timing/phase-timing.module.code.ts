@@ -11,9 +11,10 @@ import {
 } from "akasha/check/modules/measuring/check-measuring.module.code.ts"
 import { columnsOf } from "akasha/command/pages/measure/modules/checkout-counting/checkout-counting.module.code.ts"
 import { everyOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { phaseTimings } from "akasha/story/properties/phase-timings.file-property.ts"
 import { z } from "zod"
 
-const ENTRIES = "entries"
+const ENTRIES = phaseTimings.propertySlug
 
 export const PLAYER = "player"
 
