@@ -4,10 +4,16 @@ export const otherwhereIii00005 = {
   id: "01a0ea0b-fb0b-7ace-a141-8f881a1ac7a2",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-005",
+  ownLength: 220,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
   position: 5,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/otherwhere-iii-nala",
+    "character-other/otherwhere-iii-denise-pruitt",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "“Out West, small town in the mountains. Lots of nature but less in the way of opportunities.”",
   beats: [
