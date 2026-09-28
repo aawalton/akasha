@@ -52,5 +52,33 @@ export const otherwhereViiEnnis = {
       fact: "Ennis will give a stranger a ride to Ashford, and nothing else for free.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The carter is lean and stooped, about fifty, grizzled, in a greasy leather cap and patched coat.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+    },
+    {
+      fact: "The carter drives a two-wheeled, iron-rimmed cart behind a grey mule he calls Patience.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-ennis",
+      ],
+    },
+    {
+      fact: "The carter's cart is piled with sacks, broken crockery, bent scrap iron and a crate of old bottles.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-ennis",
+      ],
+    },
+    {
+      fact: "On the Ashford road the carter asked Nala if she had been robbed or had run off from somebody.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-ennis",
+      ],
+    },
   ],
 } as const satisfies Lore

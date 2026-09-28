@@ -42,7 +42,11 @@ export const otherwhereViiNala = {
     },
     {
       fact: "Her hair is long, heavy and dark red, falling past her shoulder blades.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-ennis",
+      ],
     },
     {
       fact: "She wears Alan's loose dark grey shirt, which hangs to her mid-thigh and gapes at the collar.",
@@ -60,13 +64,26 @@ export const otherwhereViiNala = {
       fact: "She understands and speaks the local tongue and reads its script without knowing how.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "She has not awakened to mana.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+    { fact: "She has not awakened to mana.", knowers: ["lore-disclosure/game-master"] },
     {
       fact: "Nala woke in the ditch by the Ashford road in the early morning of day one.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala understands the local tongue without effort, though it is not English.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+    },
+    {
+      fact: "Her body is lighter than she expects, its balance sits lower, and its soles are soft.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+    },
+    {
+      fact: "At dawn on day one Nala climbed from the ditch onto the Ashford road, barefoot, muddy and dripping.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-ennis",
+      ],
     },
   ],
 } as const satisfies Lore

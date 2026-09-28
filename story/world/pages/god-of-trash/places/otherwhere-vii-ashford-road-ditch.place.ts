@@ -39,5 +39,9 @@ export const otherwhereViiAshfordRoadDitch = {
       fact: "On day one, wheels and hooves came up the road toward the ditch from away from the village.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
     },
+    {
+      fact: "The Ashford road is two cold, gritty ruts with a ridge of grass between, stony underfoot.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+    },
   ],
 } as const satisfies Place

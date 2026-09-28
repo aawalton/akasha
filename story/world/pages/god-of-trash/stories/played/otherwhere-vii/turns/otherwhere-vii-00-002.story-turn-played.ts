@@ -11,7 +11,7 @@ export const otherwhereVii00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-vii-nala", "character-other/otherwhere-vii-ennis"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I pull myself out of the ditch as best I can then look to see who is coming up the road.",
   beats: [
@@ -44,6 +44,6 @@ export const otherwhereVii00002 = {
     "place/otherwhere-vii-ashford-road-ditch",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture", "story-recorder/memory"],
   endsAt: "2026-09-28T06:16:00.000Z",
 } as const satisfies StoryTurnPlayed
