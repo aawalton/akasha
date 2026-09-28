@@ -10,7 +10,7 @@ export const otherwhere00070 = {
   position: 70,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "**Okay, let the work, I'd like you to identify books we've found that I should read to prepare for the opening**",
   beats: [
@@ -25,8 +25,6 @@ export const otherwhere00070 = {
     "Links: a golem shelved Courtesies this morning, high up on the west gallery.",
     "Links: no book shelved in the hall yet teaches healing.",
     "Links: so for now a patron who comes in hurt gets food and shelter, nothing more.",
-    "Behind her, the two shelvers keep up their slow stooping, lifting and reaching.",
-    "Counter Keeping is a few steps from the Counter; Courtesies is high on the west gallery.",
   ],
   issues: ['"Counter Keeping sits on its low shelf a few steps from the Counter." - Leave It Open'],
   lore: ["place/otherwhere-main-hall"],
