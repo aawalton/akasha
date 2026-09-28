@@ -11,4 +11,5 @@ export const otherwhereVii00005 = {
   action:
     '"Thanks for the tip. Harvest is always busy, so I\'ll help there if I can. Who should I talk to about that?"',
   lore: ["place/otherwhere-vii-ashford", "lore/otherwhere-vii-ennis"],
+  endsAt: "2026-09-28T07:09:00.000Z",
 } as const satisfies StoryTurnPlayed
