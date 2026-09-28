@@ -1,6 +1,5 @@
 "use client"
 
-import { PagesUILink } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { ChapterProse } from "akasha/story/ui/modules/chapter-prose/chapter-prose.module.code.tsx"
 import { NarrativeLog } from "akasha/story/ui/modules/narrative-log/narrative-log.module.code.tsx"
 import { NewestDivider } from "akasha/story/ui/modules/newest-divider/newest-divider.module.code.tsx"
@@ -14,29 +13,21 @@ import { Fragment, useEffect, useMemo, useRef } from "react"
 
 const NO_GAME_MASTER = "No game master is listening to this game, so nothing sent here reaches it."
 
-const TURN_LINK =
-  "font-mono text-tertiary text-xs underline-offset-2 hover:text-accent hover:underline"
-
 const refusePlayerAction: SubmitPlayerAction = () =>
   Promise.resolve({ ok: false, error: NO_GAME_MASTER })
 
 export function PlayedChannel({
   turns,
   beats,
-  hrefById,
-  titles,
   pastTurns,
   gameExternalId,
   submitPlayerAction,
 }: PanelRun) {
   const submit = submitPlayerAction ?? refusePlayerAction
   const rows = useMemo(() => {
-    const options: ProseRenderOptions = {
-      ...(titles === undefined ? {} : { titles }),
-      ...(pastTurns === undefined ? {} : { pastTurns }),
-    }
+    const options: ProseRenderOptions = pastTurns === undefined ? {} : { pastTurns }
     return projectProseRows(turns, options)
-  }, [turns, titles, pastTurns])
+  }, [turns, pastTurns])
   const newestId = rows.at(-1)?.turn.id
   const newestAt = useRef<HTMLDivElement | null>(null)
   const newestSeen = useRef<string | null>(null)
@@ -51,33 +42,25 @@ export function PlayedChannel({
 
   return (
     <div className="flex min-w-0 flex-col gap-6">
-      {rows.map((row) => {
-        const href = hrefById.get(row.turn.id)
-        return (
-          <Fragment key={row.turn.id}>
-            {row.newest ? (
-              <div ref={newestAt} className="scroll-mt-6">
-                <NewestDivider />
-              </div>
-            ) : null}
-            <ChapterProse
-              title={row.turn.title}
-              text={row.turn.text}
-              segments={row.turn.segments}
-              showTitle={row.showTitle}
-              muted={row.muted}
-              gameExternalId={gameExternalId}
-              submitPlayerAction={submit}
-              signedOutNotice={null}
-            />
-            {href === undefined || !row.showTitle ? null : (
-              <PagesUILink href={href} className={TURN_LINK}>
-                {row.turn.title}
-              </PagesUILink>
-            )}
-          </Fragment>
-        )
-      })}
+      {rows.map((row) => (
+        <Fragment key={row.turn.id}>
+          {row.newest ? (
+            <div ref={newestAt} className="scroll-mt-6">
+              <NewestDivider />
+            </div>
+          ) : null}
+          <ChapterProse
+            title={row.turn.title}
+            text={row.turn.text}
+            segments={row.turn.segments}
+            showTitle={false}
+            muted={row.muted}
+            gameExternalId={gameExternalId}
+            submitPlayerAction={submit}
+            signedOutNotice={null}
+          />
+        </Fragment>
+      ))}
       {beats === undefined ? null : (
         <NarrativeLog
           beats={beats}

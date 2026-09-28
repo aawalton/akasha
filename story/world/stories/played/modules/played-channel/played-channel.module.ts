@@ -31,12 +31,12 @@ export const playedChannel = {
       statement: "No count of the turns undrawn for want of room is drawn above the run.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A row whose title is shown is followed by a link to the row's own page.",
+      decisionKind: "decision-kind/absence",
+      statement: "No turn's title is drawn, and no link to a turn's own page.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "No turn number is drawn, because a played turn's only title is its number.",
+      statement: "No turn number is drawn.",
     },
     {
       decisionKind: "decision-kind/departure",
