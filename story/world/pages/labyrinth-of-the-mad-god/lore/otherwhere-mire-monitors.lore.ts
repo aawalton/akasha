@@ -51,5 +51,13 @@ export const otherwhereMireMonitors = {
       fact: "Mire monitor meat is tough but good cooked, and dries well.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A mire monitor's tongue is forked and dark.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+    },
+    {
+      fact: "Nala's voice turned the nearer mire monitor's head; its eyes opened and fixed on her.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+    },
   ],
 } as const satisfies Lore

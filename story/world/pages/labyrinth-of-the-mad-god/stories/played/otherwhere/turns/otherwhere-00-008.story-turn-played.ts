@@ -4,13 +4,14 @@ export const otherwhere00008 = {
   id: "01a0e9fd-ea3e-752d-9a90-d55f1a2c6364",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-008",
+  cover: "image/image-4911a0a405c43429",
   ownLength: 185,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 8,
   prose: "txt",
   characters: ["character-player/otherwhere-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Okay, isekai protocol. System? Status? Character sheet? If you left me here with truly nothing, I might as well fucking die now, and then I won’t be any entertainment for anyone.”",
   beats: [
@@ -29,6 +30,6 @@ export const otherwhere00008 = {
   issues: ['"Nala stands at the stream mouth" - she knelt there last turn; prose has her kneeling'],
   lore: ["lore/otherwhere-interface", "lore/otherwhere-mire-monitors"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T15:05:00.000Z",
 } as const satisfies StoryTurnPlayed
