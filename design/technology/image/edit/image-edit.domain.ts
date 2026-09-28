@@ -20,7 +20,21 @@ export const imageEdit = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "Every other service tried changes a picture too poorly to use.",
+      statement:
+        "Every other service tried but Qwen-Image-Edit-2511 changes a picture too poorly to use.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Qwen-Image-Edit-2511, redrawn by Beyond Reality 3 at 0.3, is the local editor.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Qwen-Image-Edit-2511 alone leaves skin smooth and drops freckles.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "Qwen-Image-Edit-2511 loses a face's likeness where that face is small in the frame.",
     },
     {
       decisionKind: "decision-kind/constraint",
