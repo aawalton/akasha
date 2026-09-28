@@ -6,4 +6,5 @@ export const restoreBodyPointerEvents = {
   slug: "restore-body-pointer-events",
   definition: "the body's pointer events put back when an overlay closes without clearing them",
   code: "ts",
+  runsInABrowser: true,
 } as const satisfies Module
