@@ -90,4 +90,5 @@ export const haremHotel0001CheckIn = {
     "character-other/harem-hotel-wren",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryChapterWritten
