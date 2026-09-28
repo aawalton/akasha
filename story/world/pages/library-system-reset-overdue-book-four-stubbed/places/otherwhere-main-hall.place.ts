@@ -77,7 +77,11 @@ export const otherwhereMainHall = {
     },
     {
       fact: "The quarters have a deep stone tub but no shower.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "A short passage behind the Counter leads to the quarters, a snug wood-panelled room.",
