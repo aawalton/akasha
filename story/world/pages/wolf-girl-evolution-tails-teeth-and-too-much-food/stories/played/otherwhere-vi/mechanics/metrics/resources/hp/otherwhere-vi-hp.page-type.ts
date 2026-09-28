@@ -42,6 +42,28 @@ export const otherwhereViHp = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A lasting injury is a wrench, deep gash, bad bite or break in the part the blow struck.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every act leaning on the injured part is one band harder until it heals.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A wrench or gash heals in a week of light use; a break in six weeks, splinted.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A healer's care halves an injury's healing; hard use before it heals doubles it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A lasting injury is written as a fact on the injured one's lore page when it happens.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An hour of true rest gives back one HP; hunger or cold stops it.",
     },
     {
