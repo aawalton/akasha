@@ -17,6 +17,18 @@ export const otherwhereHealth = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A beast's size gives three health if tiny, eight if small, sixteen if man-sized.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A large beast's size gives thirty health, and a huge one's sixty.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A beast has three more health for each of its levels.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "At nought health a character is down: senseless, and at the mercy of what is near.",
     },
