@@ -85,7 +85,7 @@ export const INVENTORY_RULE_FILTERS: InventoryRuleFilter[] = [
   ITEM_IDS_FILTER,
 ]
 
-export type ConditionKey = keyof NonNullable<CategoryRule["conditions"]>
+type ConditionKey = keyof NonNullable<CategoryRule["conditions"]>
 
 export const FILTER_CONDITION_KEYS: Readonly<Record<FilterId, ConditionKey>> = {
   quality: "maxQuality",
