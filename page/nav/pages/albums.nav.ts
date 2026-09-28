@@ -6,6 +6,6 @@ export const albums = {
   slug: "albums",
   title: "Albums",
   icon: "BookImage",
-  navPlace: 6,
+  navPlace: 0,
   app: "web-app/alanwalton-web",
 } as const satisfies Nav
