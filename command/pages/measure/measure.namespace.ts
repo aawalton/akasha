@@ -21,6 +21,7 @@ export const measure = {
     "command/measure-persona",
     "command/measure-repo",
     "command/measure-round",
+    "command/measure-story",
     "command/measure-test",
     "module/checkout-counting",
     "module/measure-gathering",
