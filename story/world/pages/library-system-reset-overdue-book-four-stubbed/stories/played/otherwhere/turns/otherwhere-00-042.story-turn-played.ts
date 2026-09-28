@@ -23,4 +23,5 @@ export const otherwhere00042 = {
     "Its thrashing slows and its huge length sags, but it is still alive.",
   ],
   lore: ["place/otherwhere-hall-back"],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
