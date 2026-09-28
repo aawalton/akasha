@@ -11,4 +11,5 @@ export const otherwhereV00006 = {
   action:
     "I turn and catch the jaws with my hands, then wrap my thighs around it's neck and squeeze the breath out of it.",
   lore: ["lore/otherwhere-v-gloamcat", "lore/otherwhere-v-injury"],
+  endsAt: "2026-09-28T19:10:00.000Z",
 } as const satisfies StoryTurnPlayed
