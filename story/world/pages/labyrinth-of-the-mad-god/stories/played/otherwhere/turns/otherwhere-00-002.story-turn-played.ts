@@ -45,6 +45,7 @@ export const otherwhere00002 = {
     "Higher up, an old grey-muzzled ape sits still on a thick limb and watches her without barking.",
     "Late morning, a third of a mile into the forest: the troop closing in, one ape poised above her.",
   ],
+  issues: ['"late morning. You are a third of a mile into the trees, maybe" - Leave It Open'],
   lore: [
     "place/otherwhere-cinder-isle",
     "place/otherwhere-lowland-wood",
@@ -56,4 +57,5 @@ export const otherwhere00002 = {
     "lore/otherwhere-ashback",
     "lore/otherwhere-cinder-isle-plants",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
