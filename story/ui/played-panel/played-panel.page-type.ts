@@ -11,7 +11,6 @@ export const playedPanel = {
     "played-panel/tower-hud",
     "module/pool-panel",
     "played-panel/hotel-hud",
-    "played-panel/character-sheet",
     "played-panel/quest-list",
     "played-panel/story-so-far",
     "played-panel/tower-sheet",

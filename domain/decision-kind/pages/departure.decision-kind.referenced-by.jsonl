@@ -3750,6 +3750,7 @@
 {"propertySlug":"decision-kind","path":"story/ui/modules/character-cover-panel/character-cover-panel.module.ts","id":"01a0de7e-118e-760a-aace-b82f91d94001"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/newest-divider/newest-divider.module.ts","id":"01a0629b-682c-7208-a65c-1d5fdba6f831"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/scene-cover-panel/scene-cover-panel.module.ts","id":"01a0e7ff-1168-7fa8-b0c7-08190825f11d"}
+{"propertySlug":"decision-kind","path":"story/ui/modules/sheet-panel/sheet-panel.module.ts","id":"01a0629b-6851-766f-a3b3-76b010efa64a"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/story-chapters/story-chapters.module.ts","id":"01a0de1e-6b9d-7c94-a226-81457bb9e050"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/time-panel/time-panel.module.ts","id":"01a0e801-8867-7296-b587-5a6ffa7b65ec"}
 {"propertySlug":"decision-kind","path":"story/ui/played-panel/change-generators/drawing/played-panel-drawing.change-generator.ts","id":"01a0d4eb-8021-7abb-b025-0f85f9595d93"}
@@ -3759,7 +3760,6 @@
 {"propertySlug":"decision-kind","path":"story/ui/played-panel/modules/panel-showing/panel-showing.module.ts","id":"01a0c4ab-ec99-7068-9d18-3a05031aa5d3"}
 {"propertySlug":"decision-kind","path":"story/ui/played-panel/modules/panel-turning/panel-turning.module.ts","id":"01a0c4a9-ae08-7564-ae1b-c05deab3547b"}
 {"propertySlug":"decision-kind","path":"story/ui/played-panel/modules/pool-panel/pool-panel.module.ts","id":"01a0c4a1-be31-7274-b419-1776b8ae4de4"}
-{"propertySlug":"decision-kind","path":"story/ui/played-panel/pages/character-sheet/character-sheet.played-panel.ts","id":"01a0c4a2-c666-7d73-9def-422c118760d9"}
 {"propertySlug":"decision-kind","path":"story/ui/played-panel/panel-place/panel-place.page-type.ts","id":"01a0c4cc-9091-7ea4-a3aa-6a4d2c413b4f"}
 {"propertySlug":"decision-kind","path":"story/ui/played-panel/played-panel.page-type.ts","id":"01a0c49e-6107-758a-9dfe-efd394605239"}
 {"propertySlug":"decision-kind","path":"story/ui/played-panel/properties/drawn-in.relation-property.ts","id":"01a0c4c8-fe4c-7fa4-ae78-af86f4bbc920"}
