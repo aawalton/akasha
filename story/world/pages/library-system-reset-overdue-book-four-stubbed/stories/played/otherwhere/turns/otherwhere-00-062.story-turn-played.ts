@@ -10,7 +10,7 @@ export const otherwhere00062 = {
   position: 62,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "**What about dress and appearance, any specific expectations around librarians I need to comply with?**",
   beats: [
@@ -21,5 +21,5 @@ export const otherwhere00062 = {
     'Links: "Covered and neat offends almost nobody. Your robe\'s both. Mostly."',
   ],
   lore: ["lore/otherwhere-universe"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
