@@ -7,8 +7,18 @@ export const theDatingGame00040 = {
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 40,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "In the morning, I wake up and go through my normal routine, then decide to go to the Provo Rec Center to work out.",
+  beats: [
+    "Sunday morning, Alan wakes on his own, no alarm, and goes through his normal routine.",
+    "Breakfast at the table by the back window, cocoa in his one mug, the valley bright to the west.",
+    "Then he gets ready and heads out across town to the Provo Recreation Center, west of downtown.",
+    "The streets are Sunday-quiet; families in church clothes walk to meetinghouses in the sun.",
+    "He reaches the Rec Center at 320 West 500 North and finds its lot empty.",
+    "The front doors are locked.",
+    "A sign on the glass gives the hours: Monday to Saturday, 5 AM to 10 PM. Closed Sundays.",
+    "Beyond the glass the lobby lies dim and still, the whole building shut for the day.",
+  ],
   lore: ["place/the-dating-game-provo-recreation-center"],
 } as const satisfies StoryTurnPlayed
