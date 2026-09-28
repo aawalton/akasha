@@ -153,5 +153,6 @@ export const pageUiComponent = {
     "module/create-override",
     "module/app-editing",
     "module/reading-progress-bar",
+    "module/embedded-view-content",
   ],
 } as const satisfies Domain

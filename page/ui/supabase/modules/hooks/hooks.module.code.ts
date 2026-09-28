@@ -59,6 +59,8 @@ const PAGE_TYPE = "page-type"
 
 const PAGE_TYPE_KEY = "pageType"
 
+const EMBEDDED_BY_KEY = "embeddedBy"
+
 const HELD_BY_ID_SUFFIX = createHeldSnapshots<IdSuffixResult>(256)
 
 const HELD_RELATED = createHeldSnapshots<readonly PageRow[]>(256)
@@ -322,4 +324,13 @@ export function useViewsForPageType({
     [found.views]
   )
   return { views, isLoading: found.isLoading }
+}
+
+export function useViewsEmbeddedBy({
+  pageTypeSlug,
+}: {
+  pageTypeSlug?: string | undefined
+}): ViewsFound {
+  const where = useMemo(() => viewsWhere(pageTypeSlug, EMBEDDED_BY_KEY, PAGE_TYPE), [pageTypeSlug])
+  return useViewsWhere(where, pageTypeSlug)
 }

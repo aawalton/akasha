@@ -17,6 +17,7 @@
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/build-server-grouped-sections/build-server-grouped-sections.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/create-view-popover/create-view-popover.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/create-view-popover/create-view-popover.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/embedded-view-content/embedded-view-content.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/flat-query-args/flat-query-args.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/group-by-picker/group-by-picker.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/nav-count-badge/nav-count-badge.module.code.tsx","typed":true,"deferred":false}

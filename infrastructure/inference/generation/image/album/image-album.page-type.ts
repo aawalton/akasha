@@ -18,7 +18,7 @@ export const imageAlbum = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An album's page shows its images as a gallery.",
+      statement: "An album's page shows its images through the view an album embeds.",
     },
   ],
   types: "ts",

@@ -2353,6 +2353,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/drawings-found/drawings-found.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/drop-zones/drop-zones.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/editable-title/editable-title.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/embedded-view-content/embedded-view-content.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/flat-query-args/flat-query-args.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/gallery-options-picker/gallery-options-picker.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/group-by-picker/group-by-picker.module.ts","typed":true,"deferred":false}

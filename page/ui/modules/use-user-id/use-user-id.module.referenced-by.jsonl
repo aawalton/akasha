@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"use-user-id.module.code.tsx","path":"alan/web/modules/push-registration-sync/push-registration-sync.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-user-id.module.code.tsx","path":"alan/web/modules/stoplights-activity-sync/stoplights-activity-sync.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-user-id.module.code.tsx","path":"page/ui/component/modules/auth-provider/auth-provider.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-user-id.module.code.tsx","path":"page/ui/component/modules/embedded-view-content/embedded-view-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-user-id.module.code.tsx","path":"page/ui/component/modules/pages-by-relation-content/pages-by-relation-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-user-id.module.code.tsx","path":"page/ui/component/modules/reader-page-source/reader-page-source.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-user-id.module.code.tsx","path":"page/ui/component/modules/view-page-content/view-page-content.module.code.tsx","typed":false,"deferred":false}
