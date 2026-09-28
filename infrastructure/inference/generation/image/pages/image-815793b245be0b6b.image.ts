@@ -8,6 +8,9 @@ export const image815793b245be0b6b = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-2338440d86cfd267",
+  title: "Ruby Beneath the Plum Blossoms",
+  persona: "persona/ruby",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",
