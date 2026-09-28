@@ -5,6 +5,7 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-serena.world-character.ts","id":"01a0ea35-4548-70ef-a643-cf6213795c20"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/designs/otherwhere-ix.story-design.ts","id":"01a0ea1a-1aaa-713c-b9dd-409e4024e03d"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-abominable-bulleater.lore.ts","id":"01a0ea34-d32b-7fe3-a8e3-de1608f3bf9e"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-apostle-amalgam.lore.ts","id":"01a0ea35-d76e-75a4-a76d-fd0cac2bc6c7"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-bengai.lore.ts","id":"01a0ea33-1efc-77e2-ab3e-297c85b9acf7"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-demon.lore.ts","id":"01a0ea35-8a68-7183-a4f4-da3688e31df8"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-fae.lore.ts","id":"01a0ea34-d6f3-7b2f-a5fc-5e402d35177b"}
@@ -33,6 +34,7 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/mechanics/otherwhere-ix-system.world-mechanic.ts","id":"01a0ea34-ea60-765c-881c-c4976e83086d"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/mechanics/otherwhere-ix-taxes.world-mechanic.ts","id":"01a0ea35-b313-7d99-9e8c-695c25f392dd"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-abominable-bulleater.world-species.ts","id":"01a0ea34-d32c-7912-bef5-085536f61816"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-apostle-amalgam.world-species.ts","id":"01a0ea35-d770-7dc6-ad2e-05eaebe0752c"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-bengai.world-species.ts","id":"01a0ea33-1f00-7970-a17e-4199dce6da37"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-demon.world-species.ts","id":"01a0ea35-8a69-78b5-b535-14a293e45552"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-fae.world-species.ts","id":"01a0ea34-d6f4-7ea9-bf65-9bfe3977e537"}
