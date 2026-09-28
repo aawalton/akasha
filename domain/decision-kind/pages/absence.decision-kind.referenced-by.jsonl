@@ -1881,6 +1881,7 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/stories/played/otherwhere-vi/mechanics/metrics/attributes/stat/otherwhere-vi-stat.page-type.ts","id":"01a0ea43-fec6-77a9-8d00-b0d1be83f00c"}
 {"propertySlug":"decision-kind","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/stories/played/otherwhere-vi/mechanics/metrics/resources/hp/otherwhere-vi-hp.page-type.ts","id":"01a0ea3d-ca8e-7d79-90cd-3499cdb8dfbf"}
 {"propertySlug":"decision-kind","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/stories/played/otherwhere-vi/mechanics/metrics/resources/mp/otherwhere-vi-mp.page-type.ts","id":"01a0ea3d-ca8f-7e7d-b381-ec85f26b807f"}
+{"propertySlug":"decision-kind","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/stories/played/otherwhere-vi/mechanics/metrics/resources/purse/otherwhere-vi-purse.page-type.ts","id":"01a0ea46-98e2-7d5f-81e7-5ec1ed44c5b9"}
 {"propertySlug":"decision-kind","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/stories/played/otherwhere-vi/mechanics/metrics/resources/sp/otherwhere-vi-sp.page-type.ts","id":"01a0ea3d-ca8f-7b92-b15e-8f0b6ddafb10"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-asking/played-asking.module.ts","id":"01a0e86a-1d93-7fc7-8864-8aa95de2706c"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-beside/played-beside.module.ts","id":"01a0a160-1d33-7b41-8c07-5f9a2e6b3d18"}
