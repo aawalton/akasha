@@ -1090,6 +1090,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/tower-of-nimue/lore/the-harvest-and-the-conversion.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/tower-of-nimue/lore/the-system.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/lore/otherwhere-vi-nala.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/lore/otherwhere-vi-peoples.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/lore/otherwhere-vi-system.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
 {"propertySlug":"target-page-type","path":"story/chapter/properties/step-lore.multi-relation-property.ts","id":"01a0deaf-0e2e-7232-aeb2-37cc6fb83b05"}
