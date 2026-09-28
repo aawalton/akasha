@@ -88,10 +88,6 @@ export default [
     "routes/alan-web-api-page-follow/alan-web-api-page-follow.route.code.ts"
   ),
   route("api/page-write", "routes/alan-web-api-page-write/alan-web-api-page-write.route.code.ts"),
-  route(
-    "api/nav-icon/:idSuffix",
-    "routes/alan-web-api-nav-icon/alan-web-api-nav-icon.route.code.ts"
-  ),
   route("api/icon/:name", "routes/alan-web-api-icon/alan-web-api-icon.route.code.ts"),
   route("api/image/:imageId", "routes/alan-web-api-image/alan-web-api-image.route.code.ts"),
   route(
