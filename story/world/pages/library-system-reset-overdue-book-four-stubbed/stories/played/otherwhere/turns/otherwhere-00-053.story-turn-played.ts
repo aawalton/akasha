@@ -22,4 +22,5 @@ export const otherwhere00053 = {
     "Her stomach growls; she opens the pantry on jars of honey and bins of roots and vegetables.",
   ],
   lore: ["place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
