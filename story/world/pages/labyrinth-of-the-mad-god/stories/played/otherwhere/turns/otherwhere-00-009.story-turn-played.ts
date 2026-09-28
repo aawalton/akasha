@@ -10,12 +10,12 @@ export const otherwhere00009 = {
   position: 9,
   prose: "txt",
   characters: ["character-player/otherwhere-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I hold the glass in my hand and in one last desperate rush, I circle and tackle the lizard, gripping it around the neck and trying to stab into its eye with the glass.",
   beats: [
-    "Nala reaches for the glass and her hand is empty; her shard snapped in the nut, two miles back.",
-    "The wrack line runs just behind her along the wet sand; she drops the half-nut and snatches a shard.",
+    "Nala reaches for the glass; her shard snapped in the nut, two miles back up the beach.",
+    "The wrack line lies a few strides up-beach; she drops the half-nut, runs up and grabs a shard.",
     "It is finger-long, keen along one edge; she grips it by the thick end.",
     "She gets up and goes, one last desperate rush, circling wide through the shallows to take its side.",
     "The lizard's head swings to follow her; its mouth gapes open, pink inside, and it hisses.",
