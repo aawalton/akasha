@@ -28,6 +28,7 @@ export const otherwhereRoom = {
     "boolean-property/otherwhere-room-lit",
     "multi-relation-property/otherwhere-room-shown-to",
     "module/otherwhere-map",
+    "module/otherwhere-map-layout",
     "relation-property/otherwhere-room-place",
     "computed-property/otherwhere-room-depth",
     "computed-property/otherwhere-room-exits",

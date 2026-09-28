@@ -4,7 +4,7 @@ export const otherwhereMap = {
   id: "01a0e837-c54e-7f48-a2d2-3bab24d2082e",
   type: "page-type/module",
   slug: "otherwhere-map",
-  definition: "the Library's rooms shown to a player, each lit or dark",
+  definition: "the Library's rooms shown to a player, each lit or dark, laid out by floor",
   code: "tsx",
   decisions: [
     {
@@ -17,7 +17,15 @@ export const otherwhereMap = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The lit rooms come first, then the dark ones, each run in title order.",
+      statement: "Each room is drawn in the cell the map layout gives it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A floor is named only where the rooms drawn sit on more than one floor.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A room with a stair to another room drawn shows which way that stair goes.",
     },
     {
       decisionKind: "decision-kind/departure",
