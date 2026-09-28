@@ -4,13 +4,14 @@ export const otherwhere00043 = {
   id: "01a0e579-12b8-79f6-80cc-dc54ee5667f4",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-043",
+  cover: "image/image-a8da8131817fbd51",
   ownLength: 197,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 43,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "I circle around it and then tackle it, pressing myself to its skin and hold on as tight as I can.",
   beats: [
@@ -32,5 +33,5 @@ export const otherwhere00043 = {
   ],
   lore: ["place/otherwhere-hall-back"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
