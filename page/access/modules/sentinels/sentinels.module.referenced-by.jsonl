@@ -1,4 +1,6 @@
 {"propertySlug":"import","fileName":"sentinels.module.code.ts","path":"alan/web/modules/alan-app-shell/alan-app-shell.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sentinels.module.code.ts","path":"page/core/view/modules/read-view-filters/read-view-filters.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sentinels.module.code.ts","path":"page/core/view/modules/read-view-filters/read-view-filters.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sentinels.module.code.ts","path":"page/ui-store/collection/modules/acquire/acquire.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sentinels.module.code.ts","path":"page/ui/component/modules/use-pages-filtered-query/use-pages-filtered-query.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sentinels.module.code.ts","path":"page/ui/component/modules/use-pages-filtered-query/use-pages-filtered-query.module.test.ts","typed":false,"deferred":false}

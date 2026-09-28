@@ -12,7 +12,7 @@ export const narrowKey = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A key no property declares and no page carries answers nothing.",
+      statement: "A key the page type declares nothing for is refused.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -22,6 +22,15 @@ export const narrowKey = {
       decisionKind: "decision-kind/departure",
       statement:
         "A key parted by dots reaches a field inside the property its first segment names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A key whose first segment names a relation reaches its rest on the page that relation names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A key reaches through one relation at most.",
     },
     {
       decisionKind: "decision-kind/departure",

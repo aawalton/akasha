@@ -6,7 +6,10 @@ import {
 } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
-import type { ViewDataJSON } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
+import type {
+  ViewDataJSON,
+  ViewFilter,
+} from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import {
   type LockedFacet,
   mergeLockedFacets,
@@ -29,6 +32,7 @@ import {
   type PageWithProperties,
   pageById,
 } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
+import { useReadViewConfig } from "akasha/page/ui/supabase/modules/use-read-view-config/use-read-view-config.module.code.ts"
 import { viewDataOfPage } from "akasha/page/ui/supabase/modules/view-data-of-page/view-data-of-page.module.code.ts"
 import { deriveViewTargetSlugs } from "akasha/page/ui-store/query/modules/view-target-slugs/view-target-slugs.module.code.ts"
 import { buildPageHref } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
@@ -40,6 +44,7 @@ import { useCallback, useMemo } from "react"
 
 interface ViewTabContentData {
   viewConfig: ViewDataJSON | undefined
+  localFilters: readonly ViewFilter[] | undefined
   effectiveConfig: ViewDataJSON | undefined
   effectivePageTypeId: string | undefined
   effectivePageType: PageWithProperties | undefined
@@ -137,26 +142,30 @@ export function useViewTabContentData({
       ? "asc"
       : "desc"
     : undefined
-  const viewFilters = useMemo(() => {
-    if (viewConfig?.filters == null || viewConfig.filters.length === 0) return undefined
-    return viewConfig.filters.map((f) => ({
-      propertyId: f.propertyId,
-      operator: f.operator,
-      value: f.value,
-    }))
-  }, [viewConfig?.filters])
-
   const rowProperties = useMemo<readonly PropertyDefinition[]>(() => {
     if (effectivePageType == null) return []
     return parsePageTypeData(effectivePageType.properties).propertyDefinitions
   }, [effectivePageType])
 
+  const read = useReadViewConfig(viewConfig, rowProperties, pageTypes)
+  const readConfig = read.viewConfig
+  const held = read.pending || read.error !== null
+
+  const viewFilters = useMemo(() => {
+    if (readConfig?.filters == null || readConfig.filters.length === 0) return undefined
+    return readConfig.filters.map((f) => ({
+      propertyId: f.propertyId,
+      operator: f.operator,
+      value: f.value,
+    }))
+  }, [readConfig?.filters])
+
   const flatQueryArgs = useMemo(() => {
-    if (groupByPropertyId != null) return undefined
-    if (viewConfig?.crossTypeSource != null) {
+    if (groupByPropertyId != null || held) return undefined
+    if (readConfig?.crossTypeSource != null) {
       return {
         pageTypeId: effectivePageTypeId ?? NEVER_MATCH_VALUE,
-        viewConfig,
+        viewConfig: readConfig,
         properties: rowProperties,
         viewId,
         viewUpdatedAt,
@@ -168,7 +177,7 @@ export function useViewTabContentData({
       return {
         pageTypeId: effectivePageTypeId ?? NEVER_MATCH_VALUE,
         pageTypeSlug: rowPageTypeSlug,
-        viewConfig,
+        viewConfig: readConfig,
         properties: rowProperties,
         viewId,
         viewUpdatedAt,
@@ -179,9 +188,10 @@ export function useViewTabContentData({
     return undefined
   }, [
     groupByPropertyId,
+    held,
     rowPageTypeSlug,
     effectivePageTypeId,
-    viewConfig,
+    readConfig,
     rowProperties,
     viewId,
     viewUpdatedAt,
@@ -193,7 +203,7 @@ export function useViewTabContentData({
 
   const groupedResult = useGroupByPaginatedQuery({
     pageTypeSlug:
-      groupByPropertyId != null && rowPageTypeSlug != null && rowPageTypeSlug.length > 0
+      groupByPropertyId != null && !held && rowPageTypeSlug != null && rowPageTypeSlug.length > 0
         ? rowPageTypeSlug
         : NEVER_MATCH_SLUG,
     groupPropertyId: groupByPropertyId ?? "",
@@ -205,13 +215,16 @@ export function useViewTabContentData({
     groupGranularity: viewConfig?.group_granularity,
   })
 
-  const { pages, loadMore, canLoadMore, isLoading, error, totalCount } = selectViewQueryResult({
+  const queried = selectViewQueryResult({
     groupByPropertyId,
     rowPageTypeSlug,
     crossType: viewConfig?.crossTypeSource != null,
     flatResult,
     groupedResult,
   })
+  const { pages, loadMore, canLoadMore, totalCount } = queried
+  const isLoading = queried.isLoading || read.pending
+  const error = read.error ?? queried.error
 
   const properties = useMemo<PropertyDefinition[]>(() => [...rowProperties], [rowProperties])
 
@@ -302,6 +315,7 @@ export function useViewTabContentData({
 
   return {
     viewConfig,
+    localFilters: read.ownFilters,
     effectiveConfig,
     effectivePageTypeId,
     effectivePageType,

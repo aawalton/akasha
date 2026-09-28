@@ -21,6 +21,7 @@ export const pageUiSupabase = {
     "module/use-page",
     "module/use-page-type-directory",
     "module/use-pages",
+    "module/use-read-view-config",
     "module/use-record-page-view",
     "module/use-referrers",
     "module/use-set-property-optimistic",

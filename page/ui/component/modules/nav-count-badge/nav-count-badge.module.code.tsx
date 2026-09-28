@@ -11,6 +11,7 @@ import {
 } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { usePageViewQuery } from "akasha/page/ui/supabase/modules/hooks-view-query/hooks-view-query.module.code.ts"
 import { usePageTypeDirectory } from "akasha/page/ui/supabase/modules/use-page-type-directory/use-page-type-directory.module.code.ts"
+import { useReadViewConfig } from "akasha/page/ui/supabase/modules/use-read-view-config/use-read-view-config.module.code.ts"
 import { viewDataOfPage } from "akasha/page/ui/supabase/modules/view-data-of-page/view-data-of-page.module.code.ts"
 import { useMemo } from "react"
 
@@ -52,10 +53,13 @@ export function NavCountBadge({ navItemSlug }: NavCountBadgeProps) {
     return parsePageTypeData(rowPageType.properties).propertyDefinitions
   }, [rowPageType])
 
+  const read = useReadViewConfig(viewConfig, rowProperties, pageTypes)
+  const held = read.pending || read.error !== null
+
   const { totalCount } = usePageViewQuery({
-    pageTypeId: pageTypeId ?? "",
-    pageTypeSlug: rowPageTypeSlug,
-    viewConfig,
+    pageTypeId: held ? "" : (pageTypeId ?? ""),
+    pageTypeSlug: held ? undefined : rowPageTypeSlug,
+    viewConfig: read.viewConfig,
     properties: rowProperties,
   })
 

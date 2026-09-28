@@ -24,6 +24,7 @@ export const pageCoreView = {
     "module/group-key-to-value",
     "module/notes",
     "module/page-query-times",
+    "module/read-view-filters",
     "module/sort-accessors",
   ],
 } as const satisfies Domain

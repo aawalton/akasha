@@ -3221,6 +3221,7 @@
 {"propertySlug":"decision-kind","path":"page/core/view/modules/apply-filters/apply-filters.module.ts","id":"01a05b92-a9c7-7ca6-98f5-5897fafa3430"}
 {"propertySlug":"decision-kind","path":"page/core/view/modules/generate-filter-dimensions/generate-filter-dimensions.module.ts","id":"01a05b92-a9c7-7876-8031-2783b890904c"}
 {"propertySlug":"decision-kind","path":"page/core/view/modules/page-query-times/page-query-times.module.ts","id":"01a05b92-a9c7-70aa-8322-24d56a21550f"}
+{"propertySlug":"decision-kind","path":"page/core/view/modules/read-view-filters/read-view-filters.module.ts","id":"01a0e992-fa59-7d40-b154-8acbd74ad8af"}
 {"propertySlug":"decision-kind","path":"page/edge/page-edge.domain.ts","id":"01a049e9-651c-7005-9845-75ac1a5fb3a0"}
 {"propertySlug":"decision-kind","path":"page/email-address-property/email-address-property.page-type.ts","id":"01a053ef-69a0-7d7d-ac01-f2cb92cc7c63"}
 {"propertySlug":"decision-kind","path":"page/false-property/false-property.page-type.ts","id":"01a09098-9665-7ee2-9d86-1ea894bbc313"}
@@ -3556,6 +3557,7 @@
 {"propertySlug":"decision-kind","path":"page/ui/supabase/modules/relation-picker/relation-picker.module.ts","id":"01a06164-b506-7002-bd6a-2888defdf06d"}
 {"propertySlug":"decision-kind","path":"page/ui/supabase/modules/use-complete-page-optimistic/use-complete-page-optimistic.module.ts","id":"01a07973-368c-72b7-ae79-826c332e348c"}
 {"propertySlug":"decision-kind","path":"page/ui/supabase/modules/use-page/use-page.module.ts","id":"01a0610c-4306-753f-9ca1-222dd831d0f6"}
+{"propertySlug":"decision-kind","path":"page/ui/supabase/modules/use-read-view-config/use-read-view-config.module.ts","id":"01a0e992-fa59-7719-a7a1-bcc31281ae3b"}
 {"propertySlug":"decision-kind","path":"page/ui/supabase/modules/use-record-page-view/use-record-page-view.module.ts","id":"01a05cb4-fefb-7e34-b75b-0f9b37eda5e4"}
 {"propertySlug":"decision-kind","path":"page/ui/supabase/modules/use-subpages/use-subpages.module.ts","id":"01a05cce-25ec-725b-9abc-9b019de92d9b"}
 {"propertySlug":"decision-kind","path":"page/ui/supabase/modules/view-data-of-page/view-data-of-page.module.ts","id":"01a05cce-25ec-7756-a742-f0d31cf07f6e"}

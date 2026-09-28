@@ -58,6 +58,7 @@ export function ViewTabContent({
 }) {
   const {
     viewConfig,
+    localFilters,
     effectiveConfig,
     effectivePageTypeId,
     effectivePageType,
@@ -188,7 +189,7 @@ export function ViewTabContent({
         onReorderCards={onReorderCards}
         storagePrefix={`view-${parentPageTypeId}:list`}
         totalCount={totalCount}
-        defaultFilters={viewConfig?.filters}
+        defaultFilters={localFilters}
         defaultSorts={viewConfig?.sorts}
         defaultGroupBy={viewConfig?.group_by}
         defaultGroupSorts={viewConfig?.group_sorts}

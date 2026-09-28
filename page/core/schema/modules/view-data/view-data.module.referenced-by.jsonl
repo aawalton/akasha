@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/core/view/modules/apply-sorts/apply-sorts.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/core/view/modules/apply-view/apply-view.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/core/view/modules/group-granularity/group-granularity.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/core/view/modules/read-view-filters/read-view-filters.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui-store/query/modules/view-target-slugs/view-target-slugs.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/base-conditions/base-conditions.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/component/modules/build-server-grouped-sections/build-server-grouped-sections.module.code.ts","typed":true,"deferred":false}
@@ -55,6 +56,7 @@
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/supabase/modules/apply-client-view-filters/apply-client-view-filters.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/supabase/modules/group-by-hooks/group-by-hooks.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/supabase/modules/hooks-view-query/hooks-view-query.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/supabase/modules/use-read-view-config/use-read-view-config.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/supabase/modules/use-view-callbacks/use-view-callbacks.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view-data.module.code.ts","path":"page/ui/supabase/modules/view-data-of-page/view-data-of-page.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/core/schema/page-core-schema.domain.ts","id":"01a071cb-3d85-7fcd-8315-90eca5831d35"}

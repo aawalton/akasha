@@ -17,7 +17,9 @@ export type FilterableRow = Readonly<Record<string, ReadonlyJSONValue>>
 
 type Row = Readonly<Record<string, ReadonlyJSONValue>>
 
-type Reading = { readonly definition: PropertyDefinition } | { readonly refused: string }
+export type FilterReading =
+  | { readonly definition: PropertyDefinition }
+  | { readonly refused: string }
 
 const RELATIONS: ReadonlySet<string> = new Set(["relation", "multi-relation"])
 
@@ -34,7 +36,7 @@ function asPropertyValue(value: unknown): PropertyValue {
   return value as PropertyValue
 }
 
-function reachedBy(key: string, properties: readonly PropertyDefinition[]): Reading {
+function reachedBy(key: string, properties: readonly PropertyDefinition[]): FilterReading {
   const [head = "", ...rest] = segmentsOf(key)
   const declared = properties.find((one) => one.id === head)
   if (declared === undefined) {
@@ -58,7 +60,10 @@ function reachedBy(key: string, properties: readonly PropertyDefinition[]): Read
   return { definition }
 }
 
-function readingOf(filter: ViewFilter, properties: readonly PropertyDefinition[]): Reading {
+export function readingOf(
+  filter: ViewFilter,
+  properties: readonly PropertyDefinition[]
+): FilterReading {
   const key = filter.propertyId
   const reached = reachedBy(key, properties)
   if ("refused" in reached) return reached
