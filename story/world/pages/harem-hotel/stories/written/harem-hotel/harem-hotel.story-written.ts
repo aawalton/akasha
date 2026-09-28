@@ -10,4 +10,10 @@ export const haremHotel = {
   unit: "unit/words",
   chapterBreak: "A floor's task is met and its stairs open.",
   coordinatorAgent: "mari-game-master-harem-hotel",
+  panels: [
+    "played-panel/player-character",
+    "played-panel/other-characters",
+    "played-panel/scene-cover",
+    "played-panel/quest-list",
+  ],
 } as const satisfies StoryWritten
