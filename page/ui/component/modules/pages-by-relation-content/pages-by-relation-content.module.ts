@@ -34,11 +34,7 @@ export const pagesByRelationContent = {
       decisionKind: "decision-kind/departure",
       statement: "Which view a listing last showed is remembered under the page type it lists.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A listing locked to one configuration draws no view tabs, and a change in it keeps the address.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A relation picker in a listing asks for the pages of the relation's own type.",

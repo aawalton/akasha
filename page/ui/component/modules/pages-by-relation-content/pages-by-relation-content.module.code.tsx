@@ -1,7 +1,7 @@
 "use client"
 
 import { completionShapeOf } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
-import type { ListingConfig } from "akasha/page/core/schema/modules/listing-config/listing-config.module.code.ts"
+
 import type { ViewConfig } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import { useAppEditing } from "akasha/page/ui/component/modules/app-editing/app-editing.module.code.tsx"
 import { RenderBareListingCard } from "akasha/page/ui/component/modules/bare-listing-card/bare-listing-card.module.code.tsx"
@@ -37,14 +37,12 @@ interface PagesFilteredContentProps {
   pageTypeSlug: PageTypeSlug
   searchParams: Record<string, string>
   embedded?: boolean
-  locked?: ListingConfig
 }
 
 export function PagesFilteredContent({
   pageTypeSlug,
   searchParams,
   embedded,
-  locked,
 }: PagesFilteredContentProps) {
   const router = usePagesUIRouter()
   const userId = useUserId()
@@ -66,9 +64,8 @@ export function PagesFilteredContent({
   const shownView = viewTabs.find((one) => one.id === asked)?.id ?? viewTabs[0]?.id
 
   const listing = useMemo(
-    () =>
-      locked ?? listingConfigOfView(views.find((one) => namedOf(one) === shownView)?.properties),
-    [locked, views, shownView]
+    () => listingConfigOfView(views.find((one) => namedOf(one) === shownView)?.properties),
+    [views, shownView]
   )
 
   const {
@@ -169,13 +166,13 @@ export function PagesFilteredContent({
           tabs={
             descendantUnasked !== null
               ? []
-              : viewTabs.length > 0 && locked == null
+              : viewTabs.length > 0
                 ? viewTabs
                 : [{ id: "list", label: pageTypeName, icon: undefined }]
           }
           storagePrefix={`pages-filtered-${pageTypeSlug}`}
-          activeTab={viewTabs.length > 0 && locked == null ? shownView : undefined}
-          onActiveTabChange={viewTabs.length > 0 && locked == null ? handleShowView : undefined}
+          activeTab={viewTabs.length > 0 ? shownView : undefined}
+          onActiveTabChange={viewTabs.length > 0 ? handleShowView : undefined}
           loading={loading}
           empty={
             descendantUnasked === null
@@ -211,7 +208,7 @@ export function PagesFilteredContent({
             defaultPageSize={effectiveConfig.page_size}
             defaultGroupPageSize={effectiveConfig.group_page_size}
             defaultItemPageSize={effectiveConfig.item_page_size}
-            onConfigChange={locked == null ? handleConfigChange : undefined}
+            onConfigChange={handleConfigChange}
             onLoadMore={loadMore}
             canLoadMore={canLoadMore}
             layout={effectiveConfig.layout}
