@@ -6,6 +6,6 @@ export const otherwhereTheLibraryRoomExitTo = {
   slug: "otherwhere-the-library-room-exit-to",
   propertySlug: "to",
   definition: "the room of the Library an exit leads to",
-  targetPageType: "page-type/otherwhere-the-library-room",
+  targetPageType: "page-type/otherwhere-i-room",
   types: "ts",
 } as const satisfies RelationProperty

@@ -9,7 +9,7 @@ export const worldSkill = {
   extends: ["page-type/world-mechanic"],
   parts: [
     "page-type/tower-skill",
-    "page-type/otherwhere-the-library-skill",
+    "page-type/otherwhere-i-skill",
     "page-type/otherwhere-v-utility-skill",
     "number-property/skill-mana-cost",
     "number-property/skill-duration-minutes",

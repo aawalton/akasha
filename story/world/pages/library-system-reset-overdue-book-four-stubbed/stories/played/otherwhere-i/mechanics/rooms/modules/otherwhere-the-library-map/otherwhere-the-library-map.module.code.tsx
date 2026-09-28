@@ -16,7 +16,7 @@ import {
   type MapRoom,
   mapLayoutOf,
 } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/modules/otherwhere-the-library-map-layout/otherwhere-the-library-map-layout.module.code.ts"
-import { otherwhereTheLibraryRoom } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/otherwhere-the-library-room.page-type.ts"
+import { otherwhereIRoom } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/otherwhere-i-room.page-type.ts"
 import { type CSSProperties, useMemo } from "react"
 
 const SHOWN_TO_KEY = "shownTo"
@@ -101,7 +101,7 @@ function roomOf(row: Page): MapRoom | null {
   const depth = row[DEPTH_KEY]
   return {
     id: row.id,
-    at: `${otherwhereTheLibraryRoom.slug}/${slug}`,
+    at: `${otherwhereIRoom.slug}/${slug}`,
     title,
     lit: row[LIT_KEY] === true,
     depth: typeof depth === "number" && Number.isFinite(depth) ? depth : null,
@@ -122,9 +122,9 @@ export function mapRoomsOf(rows: readonly Page[], player: string): readonly MapR
 
 export function roomsShownTo(player: string): UsePagesSupabaseOptions {
   return {
-    pageTypeSlug: otherwhereTheLibraryRoom.slug,
+    pageTypeSlug: otherwhereIRoom.slug,
     where: [{ key: SHOWN_TO_KEY, includes: player }],
-    shape: namedShapeDescriptor(otherwhereTheLibraryRoom.slug, {
+    shape: namedShapeDescriptor(otherwhereIRoom.slug, {
       by: "where",
       key: SHOWN_TO_KEY,
       values: [player],
