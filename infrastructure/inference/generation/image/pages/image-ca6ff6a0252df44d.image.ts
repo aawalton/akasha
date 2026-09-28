@@ -8,6 +8,9 @@ export const imageCa6ff6a0252df44d = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-21fb7f3e04b32963",
+  title: "Iris Catching Rainbows Among the Irises",
+  persona: "persona/iris",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",
