@@ -11,7 +11,7 @@ export const otherwhere00003 = {
   position: 3,
   prose: "txt",
   characters: ["character-player/otherwhere-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I run back the way I came, as fast as I can.",
   beats: [
     "Nala turns and runs back the way she came, as fast as she can.",
@@ -46,5 +46,6 @@ export const otherwhere00003 = {
     "place/otherwhere-black-shore",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
+  endsAt: "2026-09-28T11:27:00.000Z",
 } as const satisfies StoryTurnPlayed
