@@ -4,10 +4,13 @@ export const theDatingGame00032 = {
   id: "01a0e56e-65e9-718d-b709-e594b2990d4f",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-032",
+  ownLength: 123,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 32,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
+  turnStatus: "turn-status/reviewers",
   action:
     "I chuckle softly. “Thanks, I’ll gladly take you up on that. So, what brings you here? It sounds like you do this often?”",
   beats: [
