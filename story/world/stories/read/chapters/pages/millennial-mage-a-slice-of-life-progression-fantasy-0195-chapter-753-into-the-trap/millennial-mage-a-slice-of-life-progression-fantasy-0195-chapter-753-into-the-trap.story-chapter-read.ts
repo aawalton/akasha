@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0195Chapter753IntoTheTr
   id: "01a0c3dd-0f1a-7f6c-b4fa-8abb1c55cfe9",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0195-chapter-753-into-the-trap",
+  ownProgress: 3162,
   position: 195,
   publishedAt: "2026-09-21",
   unit: "unit/words",

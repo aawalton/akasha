@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0198Chapter756PredatorA
   id: "01a0e7e7-fbad-7c36-a654-848d263dfb46",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0198-chapter-756-predator-and-prey",
+  ownProgress: 2794,
   position: 198,
   publishedAt: "2026-09-28",
   unit: "unit/words",

@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0248Chapter737Temptatio
   id: "01a06743-b417-7001-8a28-51bfeb08daf7",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0248-chapter-737-temptation",
+  ownProgress: 2575,
   title: "Chapter: 737 - Temptation",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 248,

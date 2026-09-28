@@ -4,6 +4,7 @@ export const newGam3Plus0009Paths = {
   id: "01a06730-4dcd-7b5d-9981-f38568152c57",
   type: "page-type/story-chapter-read",
   slug: "new-gam3-plus-0009-paths",
+  ownProgress: 2245,
   title: "Paths",
   story: "story-read/new-gam3-plus",
   position: 9,

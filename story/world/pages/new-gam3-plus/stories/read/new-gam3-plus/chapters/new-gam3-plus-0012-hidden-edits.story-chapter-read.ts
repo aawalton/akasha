@@ -4,6 +4,7 @@ export const newGam3Plus0012HiddenEdits = {
   id: "01a06730-4dd0-799a-b723-9842f4d2e69d",
   type: "page-type/story-chapter-read",
   slug: "new-gam3-plus-0012-hidden-edits",
+  ownProgress: 2782,
   title: "HIdden Edits",
   story: "story-read/new-gam3-plus",
   position: 12,

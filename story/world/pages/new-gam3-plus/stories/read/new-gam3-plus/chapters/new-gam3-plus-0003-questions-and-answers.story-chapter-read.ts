@@ -4,6 +4,7 @@ export const newGam3Plus0003QuestionsAndAnswers = {
   id: "01a06730-4dcb-76d0-b8fc-00323df9b33a",
   type: "page-type/story-chapter-read",
   slug: "new-gam3-plus-0003-questions-and-answers",
+  ownProgress: 2616,
   title: "Questions and Answers",
   story: "story-read/new-gam3-plus",
   position: 3,

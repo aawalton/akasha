@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0197Chapter755FullMeldi
   id: "01a0d876-b187-7f4c-bdc9-292f1d5e4646",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0197-chapter-755-full-melding",
+  ownProgress: 3103,
   position: 197,
   publishedAt: "2026-09-25",
   unit: "unit/words",

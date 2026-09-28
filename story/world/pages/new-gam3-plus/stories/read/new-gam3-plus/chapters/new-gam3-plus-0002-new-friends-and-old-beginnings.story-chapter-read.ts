@@ -4,6 +4,7 @@ export const newGam3Plus0002NewFriendsAndOldBeginnings = {
   id: "01a06730-4dca-743c-a3da-2ffc90abea4d",
   type: "page-type/story-chapter-read",
   slug: "new-gam3-plus-0002-new-friends-and-old-beginnings",
+  ownProgress: 4778,
   title: "New Friends and Old Beginnings",
   story: "story-read/new-gam3-plus",
   position: 2,

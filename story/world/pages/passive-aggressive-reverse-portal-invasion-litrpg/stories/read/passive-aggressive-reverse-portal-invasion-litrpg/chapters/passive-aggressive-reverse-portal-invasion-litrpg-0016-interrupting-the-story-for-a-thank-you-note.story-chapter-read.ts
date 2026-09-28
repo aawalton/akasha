@@ -5,6 +5,7 @@ export const passiveAggressiveReversePortalInvasionLitrpg0016InterruptingTheStor
     id: "01a06730-4dce-7602-8730-0196ed246fa2",
     type: "page-type/story-chapter-read",
     slug: "passive-aggressive-reverse-portal-invasion-litrpg-0016-interrupting-the-story-for-a-thank-you-note",
+    ownProgress: 179,
     title: "Interrupting the story for a thank you note!",
     story: "story-read/passive-aggressive-reverse-portal-invasion-litrpg",
     position: 16,

@@ -4,6 +4,7 @@ export const newGam3Plus0005Introductions = {
   id: "01a06730-4dcc-74df-ac51-7d01bb12d16a",
   type: "page-type/story-chapter-read",
   slug: "new-gam3-plus-0005-introductions",
+  ownProgress: 3378,
   title: "Introductions",
   story: "story-read/new-gam3-plus",
   position: 5,

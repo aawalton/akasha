@@ -14,6 +14,7 @@ export const motherOfLearning = {
     },
   ],
   author: "nobody103",
+  following: true,
   grade: "B",
   publicationStatus: "completed",
   externalTags: ["Time Loop", "Adventure", "Fantasy", "Mystery", "Magic"],

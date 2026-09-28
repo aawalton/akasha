@@ -4,6 +4,7 @@ export const newGam3Plus0006TheHallwayPt1 = {
   id: "01a06730-4dcc-7b1a-ac8d-eee69314c516",
   type: "page-type/story-chapter-read",
   slug: "new-gam3-plus-0006-the-hallway-pt-1",
+  ownProgress: 2421,
   title: "The Hallway, Pt. 1",
   story: "story-read/new-gam3-plus",
   position: 6,

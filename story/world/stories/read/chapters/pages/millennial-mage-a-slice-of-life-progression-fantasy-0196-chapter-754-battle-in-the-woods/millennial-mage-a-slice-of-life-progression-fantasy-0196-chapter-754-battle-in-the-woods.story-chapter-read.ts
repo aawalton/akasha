@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0196Chapter754BattleInT
   id: "01a0ce28-0a5f-71df-9fa2-1211bb0bb5ce",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0196-chapter-754-battle-in-the-woods",
+  ownProgress: 2658,
   position: 196,
   publishedAt: "2026-09-23",
   unit: "unit/words",
