@@ -15,7 +15,12 @@ export const storyWritten = {
       fields: [],
     },
   },
-  parts: ["page-type/story-chapter-written", "module/chapter-writing"],
+  parts: [
+    "page-type/story-chapter-written",
+    "module/chapter-writing",
+    "module/nightly-chapter-writing",
+    "service-workstation/nightly-chapter-writing",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

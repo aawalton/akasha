@@ -1,4 +1,6 @@
 {"propertySlug":"import","fileName":"chapter-making.module.code.ts","path":"alan/web/.server/chapter-write-answering/chapter-write-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"chapter-making.module.code.ts","path":"command/pages/story/chapter-write/story-chapter-write.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"chapter-making.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-making/chapter-making.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"chapter-making.module.code.ts","path":"story/world/stories/written/modules/nightly-chapter-writing/nightly-chapter-writing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"chapter-making.module.code.ts","path":"story/world/stories/written/modules/nightly-chapter-writing/nightly-chapter-writing.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/stories/written/chapters/story-chapter-written.page-type.ts","id":"01a06554-d8bd-712b-86b4-ade0001027ee"}

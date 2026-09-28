@@ -3953,6 +3953,8 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/written/chapters/modules/chapter-making/chapter-making.module.ts","id":"01a0e96e-2932-7927-bb2d-8c23a95bf20f"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/chapters/story-chapter-written.page-type.ts","id":"01a06554-d8bd-712b-86b4-ade0001027ee"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/modules/chapter-writing/chapter-writing.module.ts","id":"01a0e971-8b9c-7100-bec8-8d0af82a161f"}
+{"propertySlug":"decision-kind","path":"story/world/stories/written/modules/nightly-chapter-writing/nightly-chapter-writing.module.ts","id":"01a0e99c-93f3-767d-b0a3-36689dd14810"}
+{"propertySlug":"decision-kind","path":"story/world/stories/written/service-workstations/nightly-chapter-writing/nightly-chapter-writing.service-workstation.ts","id":"01a0e99c-93f4-7f3a-86ac-760f73f5563b"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/story-written.page-type.ts","id":"01a06554-d8bd-7502-a414-fd4fd32eba45"}
 {"propertySlug":"decision-kind","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/addon-banned-symbols/addon-banned-symbols.module.ts","id":"01a06365-e827-7002-bfdd-914c6a139782"}

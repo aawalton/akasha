@@ -87,6 +87,7 @@
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"story/world/stories/played/turns/modules/turn-making/turn-making.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-making/chapter-making.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-making/chapter-making.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"story/world/stories/written/modules/nightly-chapter-writing/nightly-chapter-writing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"temper/watcher/modules/watcher-import-inventory/watcher-import-inventory.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"temper/watcher/modules/watcher-import-tasks/watcher-import-tasks.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.code.ts","typed":false,"deferred":false}

@@ -77,6 +77,7 @@
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"persona/service-workstations/desktop-wallpaper-setting/desktop-wallpaper-setting.service-workstation.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"story/world/stories/played/service-workstations/cover-rerolling/cover-rerolling.service-workstation.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"story/world/stories/read/wandering-inn/service-workstations/sync/wandering-inn-sync.service-workstation.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"story/world/stories/written/service-workstations/nightly-chapter-writing/nightly-chapter-writing.service-workstation.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"temper/economy/trading/pricing/service-workstations/ttc-client/ttc-client.service-workstation.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"temper/watcher/temper-watcher.service-workstation.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/service/akasha-service/akasha-service.page-type.ts","id":"01a05a3c-caff-7656-b00d-cbde9f3cf324"}
