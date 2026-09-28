@@ -211,6 +211,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "With no insurance match, registration asks the patient for a Social Security number or any ID.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
+    {
+      fact: "A no-match patient is marked self-pay and flagged for the social worker; none is turned away.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
