@@ -316,10 +316,6 @@ export const otherwhereHallBack = {
       fact: "Overnight the big bookworm gags off its salt and heals half the harm it has taken.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "By morning the big bookworm is chewing again, far back in the gloom.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
 
     {
       fact: "Nala's fourth sack of salt lies whole on the floor between her and the big bookworm.",
