@@ -8,6 +8,9 @@ export const image99e98ddc0487f69a = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-4c93b4d652cf20d4",
+  title: "Talia Greeting the Dawn with Tea",
+  persona: "persona/talia",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",
