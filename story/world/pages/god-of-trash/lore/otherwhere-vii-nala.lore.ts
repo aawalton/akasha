@@ -86,4 +86,5 @@ export const otherwhereViiNala = {
       ],
     },
   ],
+  secrets: "jsonl",
 } as const satisfies Lore
