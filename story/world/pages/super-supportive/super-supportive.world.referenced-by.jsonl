@@ -1,5 +1,6 @@
 {"propertySlug":"lore-about","path":"story/world/pages/super-supportive/lore/super-supportive-history-world.lore.ts","id":"01a0e9fc-7b33-7ca9-b068-cb401bdbd526"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/designs/otherwhere-iii.story-design.ts","id":"01a0e9d4-6104-7693-b106-a1711ade6035"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/otherwhere-iii-denise-pruitt.lore.ts","id":"01a0e9fc-9ac2-74e8-b3ea-6b6f16939ca3"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/otherwhere-iii-nala.lore.ts","id":"01a0e9db-4e0f-7ded-80bd-561f13642ce9"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/otherwhere-iii-the-system.lore.ts","id":"01a0e9e2-ee4f-70e9-8ff1-e2b4ac73595e"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-adjuster.lore.ts","id":"01a0e9fb-589d-7eb6-93b5-7cf14377df90"}
@@ -636,6 +637,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-thorn-family-apartment.place.ts","id":"01a0e9f9-7c06-7901-8f03-e524307b5134"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-triplanets.place.ts","id":"01a0e9fa-cb23-751c-a6fb-b2c6a223168f"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-yipalck-research-facility.place.ts","id":"01a0e9fa-cb24-707b-9d00-ffa873edbf5c"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/stories/played/otherwhere-iii/characters/otherwhere-iii-denise-pruitt.character-other.ts","id":"01a0e9fc-9ac2-7375-954e-17261f12076a"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/stories/played/otherwhere-iii/mechanics/checks/otherwhere-iii-time-passing.world-check.ts","id":"01a0e9e1-aa60-7dc6-98ef-ea0fbbd0edaa"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/stories/played/otherwhere-iii/mechanics/mechanics/otherwhere-iii-the-system.world-mechanic.ts","id":"01a0e9e2-ee4f-7eba-988f-63eac4c35ebe"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/stories/played/otherwhere-iii/mechanics/mechanics/otherwhere-iii-time.world-mechanic.ts","id":"01a0e9e1-aa60-79c6-9172-33179a07b82d"}
