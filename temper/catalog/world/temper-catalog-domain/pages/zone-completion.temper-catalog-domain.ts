@@ -8,7 +8,7 @@ export const zoneCompletion = {
   icon: "file-text",
   apiVersion: "eso.live.12.1.5.3303624",
   manifestApiVersion: 101051,
-  capturedAt: "2026-09-28T14:59:15.669Z",
+  capturedAt: "2026-09-28T14:59:57.063Z",
   generatorRanForVersion: "eso.live.12.0.6.3274791",
   generatorRanForManifestApiVersion: 101050,
 } as const satisfies TemperCatalogDomain
