@@ -9,7 +9,7 @@ export const otherwhereVTreeborn = {
   about: "world-species/otherwhere-v-treeborn",
   facts: [
     {
-      fact: "The Treeborn live in tribes on the plains near Gemore and Agmon.",
+      fact: "Many Treeborn tribes live on the plains near Gemore and Agmon.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
