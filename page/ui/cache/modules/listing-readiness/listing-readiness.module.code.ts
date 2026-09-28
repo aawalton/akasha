@@ -1,4 +1,4 @@
-export interface AnsweredListings {
+interface AnsweredListings {
   readonly has: (key: string) => boolean
   readonly answer: (key: string) => undefined
 }
