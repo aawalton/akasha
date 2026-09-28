@@ -192,7 +192,7 @@ function currentCharPassesEligibility(conditions: CharEligibilityConditions | un
   )(currentChar)
 }
 
-export function eligibleCharacters(
+function eligibleCharacters(
   conditions: CharEligibilityConditions | undefined
 ): readonly CharacterId[] {
   const currentChar = characterId(tostring(GetCurrentCharacterId()))
