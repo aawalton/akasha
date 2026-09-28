@@ -41,9 +41,12 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-wizardry.lore.ts","id":"01a0e9f4-8e6f-7cd5-bd11-e450242d65e2"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-wolfman.lore.ts","id":"01a0e9f3-7323-7056-86f3-36c27a89fec4"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-agmon.place.ts","id":"01a0e9f4-f9b2-7837-b29b-afb85b547847"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-ardglass.place.ts","id":"01a0e9f5-b468-7eeb-9952-9692612ed8ba"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-ascendant-academy.place.ts","id":"01a0e9f3-448a-73d9-9b80-820afab7510a"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-ashen-accord-campus.place.ts","id":"01a0e9f5-b468-7dfc-bc3f-7d2b3bceef32"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-azamar.place.ts","id":"01a0e9f4-f9b3-7303-a62e-1eedfdc212a9"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-broken-continent.place.ts","id":"01a0e9f5-4f83-7488-8a6c-4db494b7b464"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-cave-of-the-seers.place.ts","id":"01a0e9f5-b469-742e-8fea-edd51cdbcb47"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-chokiz-estate.place.ts","id":"01a0e9f3-448b-7097-a3ef-67f13ae9df9b"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-drozahn.place.ts","id":"01a0e9f3-448b-7c9e-96ed-f13cbd91cb57"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-elothia.place.ts","id":"01a0e9f5-4f84-75fa-b1fd-7b74ec7274ca"}
@@ -63,6 +66,8 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-sea-of-grass.place.ts","id":"01a0e9f4-f9b3-7e59-b62d-0dffa21605e0"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-taeols-tower.place.ts","id":"01a0e9f3-cc56-7fb7-9545-ceff8a0eab1e"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-tomb-of-sklias.place.ts","id":"01a0e9f4-7b7f-703f-894d-b024045caae9"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-yrosa.place.ts","id":"01a0e9f5-b469-7179-9150-e66e1835cc9f"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-zemis-scriptorium.place.ts","id":"01a0e9f5-b469-7ec5-93b2-cd63da6b9652"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/harem-hotel/lore/harem-hotel-odile.lore.ts","id":"01a0e839-1d44-7e5e-a1db-91725492a117"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/harem-hotel/lore/harem-hotel-wren.lore.ts","id":"01a0e839-1d44-7ef7-8480-b9ced0184381"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/harem-hotel/places/harem-hotel-floor-1.place.ts","id":"01a0e839-1d45-7f73-8fd6-eb4e4e6f7e63"}

@@ -9,9 +9,12 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/beware-of-chicken/places/otherwhere-iv-willow-bend.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/cornerstone/places/cornerstone-the-founding-camp-the-bound-ground.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-agmon.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-ardglass.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-ascendant-academy.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-ashen-accord-campus.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-azamar.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-broken-continent.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-cave-of-the-seers.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-chokiz-estate.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-drozahn.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-elothia.place.ts","typed":true,"deferred":false}
@@ -31,6 +34,8 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-sea-of-grass.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-taeols-tower.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-tomb-of-sklias.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-yrosa.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/ends-of-magic/places/otherwhere-v-zemis-scriptorium.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/harem-hotel/places/harem-hotel-floor-1.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/harem-hotel/places/harem-hotel-floor-2.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-aurora-lake.place.ts","typed":true,"deferred":false}
