@@ -6,7 +6,17 @@ export const agentMessageAgentTools = {
   slug: "agent-message-agent-tools",
   definition: "how code sends the messages that wait for a seat",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A seat's messages are first offered once its session says the channel is initialized.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A session drops unread a message offered before it has taken up the channel.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "A turn notice whose turn has moved past it is taken without being sent.",

@@ -6,7 +6,10 @@ import { join } from "node:path"
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js"
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js"
 import { getAgentId } from "akasha/agent/message/modules/agent-id/agent-message-agent-id.module.code.ts"
-import { startChannelListener } from "akasha/agent/message/modules/agent-tools/agent-message-agent-tools.module.code.ts"
+import {
+  startChannelListener,
+  whenInitialized,
+} from "akasha/agent/message/modules/agent-tools/agent-message-agent-tools.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 function loadSecrets(): undefined {
@@ -42,17 +45,19 @@ const server = new McpServer(
   }
 )
 
+let cleanupListener: (() => void) | undefined
+whenInitialized(server, () =>
+  getAgentId()
+    .then(async (agentId) => {
+      cleanupListener = await startChannelListener(server, agentId)
+    })
+    .catch((err) => {
+      console.error("[messages] Channel listener startup failed:", err)
+    })
+)
+
 const transport = new StdioServerTransport()
 await server.connect(transport)
-
-let cleanupListener: (() => void) | undefined
-getAgentId()
-  .then(async (agentId) => {
-    cleanupListener = await startChannelListener(server, agentId)
-  })
-  .catch((err) => {
-    console.error("[messages] Channel listener startup failed:", err)
-  })
 
 const ENDING_CODE = { SIGTERM: 143, SIGINT: 130 } as const
 

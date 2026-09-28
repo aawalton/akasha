@@ -34,6 +34,17 @@ interface ChannelServer {
   }
 }
 
+interface Initializing {
+  readonly server: { oninitialized?: (() => void) | undefined }
+}
+
+export function whenInitialized(server: Initializing, act: () => unknown): undefined {
+  server.server.oninitialized = () => {
+    void act()
+  }
+  return undefined
+}
+
 async function sendChannelNotification(
   server: ChannelServer,
   msg: DeliveredMessage
