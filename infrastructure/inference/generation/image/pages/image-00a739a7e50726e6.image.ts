@@ -4,6 +4,8 @@ export const image00a739a7e50726e6 = {
   id: "01a0e9e1-b35c-7f41-8f30-156e2e74ecfb",
   type: "page-type/image",
   slug: "image-00a739a7e50726e6",
+  title: "Dawn Mist on the Lake Shore",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
