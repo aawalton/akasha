@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   type LoreLooking,
   loreNamed,
-} from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
+} from "akasha/command/pages/story/turn/modules/turn-lore-in-play/turn-lore-in-play.module.code.ts"
 
 const GRACE = "character-other/grace"
 

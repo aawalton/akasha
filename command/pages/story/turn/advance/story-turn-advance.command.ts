@@ -4,7 +4,8 @@ export const storyTurnAdvance = {
   id: "01a0deca-7611-72a6-9435-385ed7dedb72",
   type: "page-type/command",
   slug: "story-turn-advance",
-  definition: "the command moving a played turn on from its status, with what that status made",
+  definition:
+    "the command moving a turn or a written chapter on from its status, with what it made",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -96,10 +97,19 @@ export const storyTurnAdvance = {
       decisionKind: "decision-kind/departure",
       statement: "A landed advance ends the phase the turn was at, beside the story's page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A written chapter advances as a turn does, and its notices name it a chapter.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A written chapter reaching player pushes Alan nothing.",
+    },
   ],
   name: "advance",
   arguments: [
-    { argument: "argument/played-turn", required: true },
+    { argument: "argument/played-turn" },
+    { argument: "argument/written-chapter" },
     { argument: "argument/turn-lore", repeats: true },
     { argument: "argument/beats-file" },
     { argument: "argument/reviewer" },

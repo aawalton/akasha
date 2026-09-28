@@ -51,3 +51,10 @@ test("a notice of a turn no page holds, or no notice at all, is not called stale
   expect(noticeStale(noticeOf(TEN, "writer"), new Map())).toBe(false)
   expect(noticeStale("a word from the player", new Map([[TEN, statusOf("player")]]))).toBe(false)
 })
+
+test("a notice of a written chapter names it a chapter and reads back the same way", () => {
+  const chapter = "stories/written/saga/chapters/saga-0002.story-chapter-written.ts"
+  const said = noticeOf(chapter, "reviewers", [], "chapter")
+  expect(said).toBe(`The chapter \`${chapter}\` is at reviewers.`)
+  expect(noticeRead(said)).toEqual({ turn: chapter, step: "reviewers" })
+})

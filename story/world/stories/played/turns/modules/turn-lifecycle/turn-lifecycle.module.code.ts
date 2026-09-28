@@ -74,8 +74,15 @@ export type Handed =
 
 type Kind = Handed["kind"]
 
+export type Noun = "turn" | "chapter"
+
+export const TURN: Noun = "turn"
+
+export const CHAPTER: Noun = "chapter"
+
 export type Held = {
   readonly game: string
+  readonly noun?: Noun
   readonly status: TurnStep
   readonly lore: readonly string[]
   readonly issues: readonly string[]
@@ -175,8 +182,13 @@ export function linesIn(text: string): readonly string[] {
     .filter((one) => one !== "")
 }
 
-export function noticeOf(turn: string, step: TurnStep, changed: readonly string[] = []): string {
-  const said = `The turn \`${turn}\` is at ${step}.`
+export function noticeOf(
+  turn: string,
+  step: TurnStep,
+  changed: readonly string[] = [],
+  noun: Noun = TURN
+): string {
+  const said = `The ${noun} \`${turn}\` is at ${step}.`
   if (changed.length === 0) return said
   const listed = changed.map((one) => `- \`${one}\``)
   return [said, "", "These lore pages have changed since you last read them:", ...listed].join(
@@ -184,13 +196,13 @@ export function noticeOf(turn: string, step: TurnStep, changed: readonly string[
   )
 }
 
-function linesRefused(what: string, lines: readonly string[]): string | null {
+function linesRefused(what: string, lines: readonly string[], noun: Noun): string | null {
   if (lines.length > MOST_LINES) {
-    return `a turn holds at most ${MOST_LINES} ${what}, and this makes ${lines.length}`
+    return `a ${noun} holds at most ${MOST_LINES} ${what}, and this makes ${lines.length}`
   }
   const long = lines.find((one) => one.length > LONGEST_LINE)
   if (long === undefined) return null
-  return `each of a turn's ${what} is at most ${LONGEST_LINE} characters, and this one runs to ${long.length}: ${long}`
+  return `each of a ${noun}'s ${what} is at most ${LONGEST_LINE} characters, and this one runs to ${long.length}: ${long}`
 }
 
 function unaddressed(what: string, addresses: readonly string[]): string | null {
@@ -199,8 +211,16 @@ function unaddressed(what: string, addresses: readonly string[]): string | null 
   return `a ${what} is named by its address, its type and its slug, and \`${bare}\` names no type`
 }
 
+function nounOf(held: Held): Noun {
+  return held.noun ?? TURN
+}
+
 export function callerRefused(held: Held, caller: Caller): string | null {
   const role = ROLE_OF[held.status]
+  const noun = nounOf(held)
+  if (role === null && noun === CHAPTER) {
+    return `the chapter is at ${PLAYER}, so it is published and nothing moves it on`
+  }
   if (role === null) {
     return `the turn is at ${PLAYER}, and only the player's next action makes the next turn`
   }
@@ -209,7 +229,7 @@ export function callerRefused(held: Held, caller: Caller): string | null {
     caller.role === null
       ? "no seat that holds a role"
       : `a ${caller.role} seat${caller.game === null ? "" : ` of \`${caller.game}\``}`
-  return `the turn is at ${held.status}, so it waits on the ${role} of \`${held.game}\`, and this advance comes from ${from}`
+  return `the ${noun} is at ${held.status}, so it waits on the ${role} of \`${held.game}\`, and this advance comes from ${from}`
 }
 
 function moved(
@@ -239,10 +259,10 @@ function fromWorldBuilder(held: Held, lore: readonly string[]): Advanced {
   return moved(GAME_MASTER, kept.length === 0 ? {} : { lore: kept })
 }
 
-function fromGameMaster(beats: readonly string[]): Advanced {
+function fromGameMaster(held: Held, beats: readonly string[]): Advanced {
   if (beats.length === 0)
     return { refused: "a game master's advance hands in beats, and this has none" }
-  const wrong = linesRefused("beats", beats)
+  const wrong = linesRefused("beats", beats, nounOf(held))
   if (wrong !== null) return { refused: wrong }
   return moved(WRITER, { beats })
 }
@@ -270,13 +290,14 @@ function fromReviewer(
       refused: `\`${reviewer}\` is no story reviewer, and the story reviewers are ${reviewers.join(", ")}`,
     }
   }
+  const noun = nounOf(held)
   if (held.reviewedBy.includes(reviewer)) {
     return {
-      refused: `\`${reviewer}\` has reviewed this turn already, and a turn is reviewed once`,
+      refused: `\`${reviewer}\` has reviewed this ${noun} already, and a ${noun} is reviewed once`,
     }
   }
   const issues = [...held.issues, ...found]
-  const wrong = linesRefused("issues", issues)
+  const wrong = linesRefused("issues", issues, noun)
   if (wrong !== null) return { refused: wrong }
   const reviewedBy = [...held.reviewedBy, reviewer]
   const values = {
@@ -321,9 +342,10 @@ function fromRecorder(held: Held, recorder: string, recorders: readonly string[]
       refused: `\`${recorder}\` is no story recorder, and the story recorders are ${recorders.join(", ")}`,
     }
   }
+  const noun = nounOf(held)
   if (held.recordedBy.includes(recorder)) {
     return {
-      refused: `\`${recorder}\` has recorded this turn already, and a turn is recorded once`,
+      refused: `\`${recorder}\` has recorded this ${noun} already, and a ${noun} is recorded once`,
     }
   }
   const recordedBy = [...held.recordedBy, recorder]
@@ -344,14 +366,16 @@ export function advanced(
   const refused = callerRefused(held, caller)
   if (refused !== null) return { refused }
   const takes = TAKES[held.status]
-  if (takes === null) return { refused: `the turn is at ${held.status}, and nothing advances it` }
+  if (takes === null) {
+    return { refused: `the ${nounOf(held)} is at ${held.status}, and nothing advances it` }
+  }
   if (handed.kind !== takes) {
     return {
       refused: `at ${held.status} an advance hands in ${SAID_AS[takes]}, and this hands in ${SAID_AS[handed.kind]}`,
     }
   }
   if (handed.kind === "lore") return fromWorldBuilder(held, handed.lore)
-  if (handed.kind === "beats") return fromGameMaster(handed.beats)
+  if (handed.kind === "beats") return fromGameMaster(held, handed.beats)
   if (handed.kind === "review") {
     return fromReviewer(held, handed.reviewer, handed.issues, reviewers, recorders)
   }
@@ -378,27 +402,4 @@ export function makingRefused(latest: Latest | null): string | null {
   const status = latest.status ?? PLAYER
   if (status === PLAYER) return null
   return `The last turn is still being made: ${WHO[status]} ${MANY.includes(status) ? "are" : "is"} working on it.`
-}
-
-export function turnAfter(latest: Latest | null, action: string): Made {
-  if (action.trim() === "") return { refused: "An action says what you do, and this says nothing." }
-  if (action.length > LONGEST_ACTION) {
-    return { refused: `An action is at most ${LONGEST_ACTION} characters.` }
-  }
-  const refused = makingRefused(latest)
-  if (refused !== null || latest === null) return { refused: refused ?? "" }
-  const slug = slugAfter(latest.slug)
-  if (slug === null) {
-    return { refused: `The last turn, \`${latest.slug}\`, ends in no number to count on from.` }
-  }
-  return {
-    slug,
-    values: {
-      partOfCollections: [...latest.collections],
-      position: latest.position + 1,
-      ...(latest.unit === null ? {} : { unit: latest.unit }),
-      stepStatus: statusOf(WORLD_BUILDER),
-      action,
-    },
-  }
 }

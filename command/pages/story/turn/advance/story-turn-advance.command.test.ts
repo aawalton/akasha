@@ -10,6 +10,9 @@ import {
 } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.code.ts"
 import {
   AT,
+  CHAPTER_ARGV,
+  CHAPTER_AT,
+  chapterReach,
   DRAFTED,
   ENDED,
   LANDED,
@@ -343,6 +346,22 @@ test("an advance from a seat not holding the turn lands nothing", async () => {
   expect(answer.refusals.join(" ")).toContain("world-builder")
   expect(into.folded).toEqual([])
   expect(into.starts).toEqual([])
+})
+
+test("a written chapter advances as a turn does, folded and told as a chapter", async () => {
+  const into = seen()
+  const argv = [...CHAPTER_ARGV, "--beats-file", join(ROOT, "beats.txt")]
+  const reach = chapterReach(into)
+  const answer = await storyTurnAdvance(
+    argv,
+    GIVEN,
+    async () => LANDED,
+    reach,
+    () => undefined
+  )
+  expect(answer.refusals).toEqual([])
+  expect(into.folded[0]?.pageTypeSlug).toBe("story-chapter-written")
+  expect(into.notices[0]).toContain(`The chapter \`${CHAPTER_AT}\` is at writer.`)
 })
 
 test("a landed advance ends the phase the turn was at, naming the seat that ended it", async () => {

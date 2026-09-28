@@ -4,7 +4,7 @@ import {
   type TurnStep,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
-const NOTICE_OPENING = /^The turn `([^`]+)` is at ([a-z-]+)\./
+const NOTICE_OPENING = /^The (?:turn|chapter) `([^`]+)` is at ([a-z-]+)\./
 
 const PARTED = "/"
 

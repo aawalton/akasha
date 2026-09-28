@@ -20,8 +20,13 @@ import { storyChapterPlayed } from "akasha/story/world/stories/played/chapters/s
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import {
   type Latest,
+  LONGEST_ACTION,
+  type Made,
+  makingRefused,
+  slugAfter,
+  statusOf,
   stepIn,
-  turnAfter,
+  WORLD_BUILDER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 
@@ -148,6 +153,29 @@ async function followedIn(game: string, calls: Calls): Promise<Followed> {
   const chapter = textIn(row?.[SLUG])
   if (after === null || chapter === null) return { latest: null, page: null }
   return { latest: after, page: { pageTypeSlug: storyChapterPlayed.slug, slug: chapter } }
+}
+
+export function turnAfter(latest: Latest | null, action: string): Made {
+  if (action.trim() === "") return { refused: "An action says what you do, and this says nothing." }
+  if (action.length > LONGEST_ACTION) {
+    return { refused: `An action is at most ${LONGEST_ACTION} characters.` }
+  }
+  const refused = makingRefused(latest)
+  if (refused !== null || latest === null) return { refused: refused ?? "" }
+  const slug = slugAfter(latest.slug)
+  if (slug === null) {
+    return { refused: `The last turn, \`${latest.slug}\`, ends in no number to count on from.` }
+  }
+  return {
+    slug,
+    values: {
+      partOfCollections: [...latest.collections],
+      position: latest.position + 1,
+      ...(latest.unit === null ? {} : { unit: latest.unit }),
+      stepStatus: statusOf(WORLD_BUILDER),
+      action,
+    },
+  }
 }
 
 export async function turnMadeFor(

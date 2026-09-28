@@ -23,6 +23,7 @@ import {
   keptForTurn,
   unkeptFromTurn,
 } from "akasha/command/pages/story/turn/modules/turn-keeping/turn-keeping.module.code.ts"
+import { loreNamed } from "akasha/command/pages/story/turn/modules/turn-lore-in-play/turn-lore-in-play.module.code.ts"
 import {
   loreLine,
   type Recorder,
@@ -35,7 +36,6 @@ import {
 } from "akasha/command/pages/story/turn/modules/turn-ready-pushing/turn-ready-pushing.module.code.ts"
 import { writtenIndexed } from "akasha/command/pages/story/turn/modules/turn-written/turn-written.module.code.ts"
 import { exclusively } from "akasha/file/modules/exclusive/exclusive.module.code.ts"
-
 import {
   listedAt,
   valuesByPath,
@@ -71,14 +71,18 @@ import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import {
   bareOf,
+  type Noun,
   noticeOf,
   PLAYER,
   STEP_SENDER,
+  TURN,
   type TurnStep,
   WRITER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { noticedOf } from "akasha/story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
+import { storyChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.ts"
+import { storyWritten } from "akasha/story/world/stories/written/story-written.page-type.ts"
 
 const CLI = "command/modules/cli/cli.module.code.ts"
 
@@ -133,6 +137,7 @@ export type Starting = {
 export type Reach = {
   readonly hold: <T>(root: string, turn: string, act: () => Promise<T>) => Promise<T>
   readonly turnAt: (root: string, slug: string) => Turn | null
+  readonly chapterAt?: (root: string, slug: string) => Turn | null
   readonly reviewersIn: (root: string) => readonly Reviewer[]
   readonly recordersIn: (root: string) => readonly Recorder[]
   readonly keep: (root: string, agentId: string | null, turn: string) => Kept
@@ -187,25 +192,30 @@ export async function noticesSent(
   turn: string,
   status: TurnStep,
   after: Told,
-  toRead: readonly string[] = []
+  toRead: readonly string[] = [],
+  noun: Noun = TURN
 ): Promise<undefined> {
-  if (status === PLAYER) await readyTold(reach.readyPushed, root, game, turn, after.report)
+  if (status === PLAYER && noun === TURN) {
+    await readyTold(reach.readyPushed, root, game, turn, after.report)
+  }
   if (master === null) {
-    after.faults.push(`\`${game}\` names no game master seat, so no seat was told the turn moved`)
+    after.faults.push(
+      `\`${game}\` names no game master seat, so no seat was told the ${noun} moved`
+    )
     return undefined
   }
-  const cast = status === WRITER && toRead.length > 0 ? `\n\n${loreLine(toRead)}` : ""
+  const cast = status === WRITER && toRead.length > 0 ? `\n\n${loreLine(toRead, noun)}` : ""
   for (const to of noticedOf(master, game)) {
-    const said = noticeOf(turn, status, reach.changedLore(root, to))
+    const said = noticeOf(turn, status, reach.changedLore(root, to), noun)
     const why = await reach.notify(to, `${said}${cast}`)
     if (why === null) after.report.push(`told\t${to}`)
-    else after.faults.push(`\`${to}\` was not told the turn moved: ${why}`)
+    else after.faults.push(`\`${to}\` was not told the ${noun} moved: ${why}`)
   }
   return undefined
 }
 
-function turnIndexed(root: string, slug: string): Turn | null {
-  const listed = listedAt(root, storyTurnPlayed.slug, slug)[0]
+function turnIndexed(root: string, slug: string, type: string = storyTurnPlayed.slug) {
+  const listed = listedAt(root, type, slug)[0]
   if (listed === undefined) return null
   const value = valueAt(listed.path, root)
   return value === null ? null : { at: listed.path, slug, value }
@@ -251,7 +261,9 @@ function seatIndexed(root: string, agentId: string | null): Seated | null {
 }
 
 function storyIndexed(root: string, game: string): Story | null {
-  const listed = listedAt(root, storyPlayed.slug, game)[0]
+  const listed = [storyPlayed.slug, storyWritten.slug].flatMap((type) =>
+    listedAt(root, type, game)
+  )[0]
   if (listed === undefined) return null
   const value = valueAt(listed.path, root) ?? {}
   return { title: textAt(value, TITLE) ?? game, master: textAt(value, MASTER) }
@@ -263,24 +275,6 @@ function personaAt(root: string, character: string): string | null {
   const listed = listedAt(root, address.pageTypeSlug, address.slug)[0]
   const value = listed === undefined ? null : valueAt(listed.path, root)
   return value === null ? null : textAt(value, PERSONA)
-}
-
-export type LoreLooking = {
-  readonly pathOf: (page: string) => string | null
-  readonly personaOf: (character: string) => string | null
-  readonly about: Iterable<readonly [path: string, about: string | null]>
-  readonly withheld: readonly string[]
-}
-
-export function loreNamed(
-  stated: readonly string[],
-  characters: readonly string[],
-  look: LoreLooking
-): readonly string[] {
-  const about = new Set([...characters, ...characters.flatMap((one) => look.personaOf(one) ?? [])])
-  const found = new Set(stated.flatMap((one) => look.pathOf(one) ?? []))
-  for (const [path, said] of look.about) if (said !== null && about.has(said)) found.add(path)
-  return [...found].filter((path) => !look.withheld.includes(path)).sort()
 }
 
 function loreIndexed(
@@ -356,7 +350,8 @@ async function heldApart<T>(root: string, turn: string, act: () => Promise<T>): 
 
 export const REACHED: Reach = {
   hold: heldApart,
-  turnAt: turnIndexed,
+  turnAt: (root, slug) => turnIndexed(root, slug),
+  chapterAt: (root, slug) => turnIndexed(root, slug, storyChapterWritten.slug),
   reviewersIn: reviewersIndexed,
   recordersIn: recordersIndexed,
   keep: keptForTurn,

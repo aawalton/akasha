@@ -7,6 +7,7 @@ import { proseFile } from "akasha/command/argument/pages/prose-file.argument.ts"
 import { recorder as recorderArgument } from "akasha/command/argument/pages/recorder.argument.ts"
 import { reviewer as reviewerArgument } from "akasha/command/argument/pages/reviewer.argument.ts"
 import { turnLore } from "akasha/command/argument/pages/turn-lore.argument.ts"
+import { writtenChapter } from "akasha/command/argument/pages/written-chapter.argument.ts"
 import { heldAt } from "akasha/command/modules/filling/command-filling.module.code.ts"
 import { storyTurnAdvance as page } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.ts"
 import {
@@ -16,6 +17,7 @@ import {
 
 const NAMED = [
   playedTurn,
+  writtenChapter,
   turnLore,
   beatsFile,
   reviewerArgument,
@@ -25,7 +27,7 @@ const NAMED = [
   recorderArgument,
 ] as const
 
-export type Taken = { readonly turn: string; readonly handed: Handed }
+export type Taken = { readonly turn: string; readonly chapter: boolean; readonly handed: Handed }
 
 type Refusal = { readonly refused: readonly string[] }
 
@@ -112,8 +114,16 @@ export function taken(argv: readonly string[], calledAs: string, root: string): 
   const read = takenFor(argv, calledAs, page, NAMED)
   if ("refused" in read) return { refused: read.refused }
   const held = read.taken
-  const turn = held.playedTurn.trim()
-  if (turn === "") return { refused: [`\`${playedTurn.said}\` names no turn`] }
+  const turn = held.playedTurn?.trim() ?? ""
+  const chapter = held.writtenChapter?.trim() ?? ""
+  if ((turn === "") === (chapter === "")) {
+    return {
+      refused: [
+        `an advance names one turn at \`${playedTurn.said}\` or one chapter at \`${writtenChapter.said}\``,
+      ],
+    }
+  }
   const handed = handedFrom(root, held)
-  return "refused" in handed ? handed : { turn, handed }
+  if ("refused" in handed) return handed
+  return turn === "" ? { turn: chapter, chapter: true, handed } : { turn, chapter: false, handed }
 }

@@ -34,6 +34,23 @@ test("a game master's beats with `--character` are refused as the writer's flag,
 test("an advance naming no step's output hands in the world builder's lore", () => {
   expect(taken(["--turn", SLUG], CALLED, ROOT)).toEqual({
     turn: SLUG,
+    chapter: false,
     handed: { kind: "lore", lore: [] },
+  })
+})
+
+test("an advance names a written chapter at `--chapter`, and names a turn or a chapter but not both", () => {
+  const chapter = "story-chapter-written/harem-hotel-0001"
+  expect(taken(["--chapter", chapter], CALLED, ROOT)).toEqual({
+    turn: chapter,
+    chapter: true,
+    handed: { kind: "lore", lore: [] },
+  })
+  const both = taken(["--turn", SLUG, "--chapter", chapter], CALLED, ROOT)
+  expect(both).toEqual({
+    refused: ["an advance names one turn at `--turn` or one chapter at `--chapter`"],
+  })
+  expect(taken([], CALLED, ROOT)).toEqual({
+    refused: ["an advance names one turn at `--turn` or one chapter at `--chapter`"],
   })
 })

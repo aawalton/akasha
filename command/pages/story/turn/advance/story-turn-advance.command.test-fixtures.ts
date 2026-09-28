@@ -230,6 +230,22 @@ export function racing(start: Turn): Race {
   return { reach, landing, now: () => turn }
 }
 
+export const CHAPTER_AT = "stories/the-saga/chapters/the-saga-0002.story-chapter-written.ts"
+
+export const CHAPTER_ARGV = ["--chapter", "story-chapter-written/the-saga-0002"]
+
+export function chapterReach(into: Seen): Reach {
+  const chapter = {
+    at: CHAPTER_AT,
+    slug: "the-saga-0002",
+    value: { story: "story-written/the-saga", stepStatus: `${stepStatus.slug}/game-master` },
+  }
+  return {
+    ...reachOver(turnAt("game-master"), seatOf("game-master", MASTER), into),
+    chapterAt: (_root, slug) => (slug === chapter.slug ? chapter : null),
+  }
+}
+
 export function seatOf(role: string, name: string): Seated {
   return { name, role, game: "the-saga" }
 }

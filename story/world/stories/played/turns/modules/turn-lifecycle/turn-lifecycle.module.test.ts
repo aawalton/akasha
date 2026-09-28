@@ -8,7 +8,6 @@ import {
   linesIn,
   slugAfter,
   stepIn,
-  turnAfter,
   workingSaid,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import {
@@ -30,6 +29,7 @@ import {
   WORDS,
   WRITER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.test-fixtures.ts"
+import { turnAfter } from "akasha/story/world/stories/played/turns/modules/turn-making/turn-making.module.code.ts"
 
 test("the world builder hands in the lore it landed and the turn goes to the game master", () => {
   const said = movedOf(

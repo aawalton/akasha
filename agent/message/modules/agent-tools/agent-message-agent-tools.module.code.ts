@@ -13,6 +13,7 @@ import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.mo
 import { STEP_SENDER } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { noticeStale } from "akasha/story/world/stories/played/turns/modules/turn-notice/turn-notice.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
+import { storyChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.ts"
 
 const WITNESS_HEARTBEAT_MS = 30_000
 
@@ -93,8 +94,10 @@ async function deliverClaimedMessage(args: {
 
 function stepStatuses(): ReadonlyMap<string, unknown> {
   const held = new Map<string, unknown>()
-  for (const one of valuesOfType(akashaRoot(), storyTurnPlayed.slug)) {
-    held.set(one.path, one.value["stepStatus"])
+  for (const type of [storyTurnPlayed.slug, storyChapterWritten.slug]) {
+    for (const one of valuesOfType(akashaRoot(), type)) {
+      held.set(one.path, one.value["stepStatus"])
+    }
   }
   return held
 }

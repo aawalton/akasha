@@ -52,6 +52,7 @@ import {
   advanced,
   bareOf,
   type Caller,
+  CHAPTER,
   type Held,
   type Start,
   stepIn,
@@ -62,6 +63,8 @@ import {
   personaOf,
 } from "akasha/story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
+import { storyChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.ts"
+import { storyWritten } from "akasha/story/world/stories/written/story-written.page-type.ts"
 
 const COLLECTIONS = "partOfCollections"
 
@@ -78,6 +81,10 @@ const RECORDED_BY = "recordedBy"
 const PROSE = "prose"
 
 const CHARACTERS = "characters"
+
+const STORY = "story"
+
+const OWN_LENGTH = "ownLength"
 
 const PARTED = "/"
 
@@ -98,21 +105,39 @@ export function phaseTimed(root: string, ended: Ended, agentId: string | null): 
   return undefined
 }
 
+const WRITTEN_OPENING = `${storyWritten.slug}${PARTED}`
+
+const OPENINGS = [`${storyPlayed.slug}${PARTED}`, WRITTEN_OPENING]
+
 export function heldOf(turn: Turn): Held | { readonly refused: string } {
-  const opening = `${storyPlayed.slug}${PARTED}`
-  const story = stringsIn(turn.value[COLLECTIONS]).find((one) => one.startsWith(opening))
+  const of = turn.value[STORY]
+  const named = [...stringsIn(turn.value[COLLECTIONS]), ...(typeof of === "string" ? [of] : [])]
+  const story = named.find((one) => OPENINGS.some((opening) => one.startsWith(opening)))
   if (story === undefined) return { refused: `\`${turn.at}\` is part of no played story` }
   const status = stepIn(turn.value[STATUS])
   if (status === null) return { refused: `\`${turn.at}\` states no step status` }
   return {
     game: bareOf(story),
+    ...(story.startsWith(WRITTEN_OPENING) ? { noun: CHAPTER } : {}),
     status,
     lore: stringsIn(turn.value[LORE]),
     issues: stringsIn(turn.value[ISSUES]),
     reviewedBy: stringsIn(turn.value[REVIEWED_BY]).map(bareOf),
     recordedBy: stringsIn(turn.value[RECORDED_BY]).map(bareOf),
-    written: turn.value[PROSE] !== undefined,
+    written: turn.value[PROSE] !== undefined && turn.value[OWN_LENGTH] !== 0,
   }
+}
+
+function stepAt(reach: Reach, root: string, read: Taken, slug: string): Turn | null {
+  return read.chapter ? (reach.chapterAt?.(root, slug) ?? null) : reach.turnAt(root, slug)
+}
+
+function unplaced(read: Taken): string {
+  return `\`${read.turn}\` names no ${read.chapter ? "written chapter" : "played turn"} here`
+}
+
+function typeOf(read: Taken): string {
+  return read.chapter ? storyChapterWritten.slug : storyTurnPlayed.slug
 }
 
 type Context = {
@@ -149,7 +174,8 @@ function startingOf(start: Start, persona: string, at: Context): Starting | stri
 async function noticesOver(reach: Reach, root: string, at: Context, status: TurnStep, after: Told) {
   const master = at.story?.master ?? null
   const turn = at.prompting.turnAt
-  await noticesSent(reach, root, at.game, master, turn, status, after, at.prompting.lore)
+  const noun = at.prompting.noun
+  await noticesSent(reach, root, at.game, master, turn, status, after, at.prompting.lore, noun)
 }
 
 async function seatsStarted(
@@ -193,8 +219,8 @@ async function advancedOn(
   const read = taken(argv, given.calledAs, given.root)
   if ("refused" in read) return refusedBy(read.refused, INPUT)
   const slug = bareOf(read.turn)
-  const placed = reach.turnAt(given.root, slug)
-  if (placed === null) return refused(`\`${read.turn}\` names no played turn here`, DATA)
+  const placed = stepAt(reach, given.root, read, slug)
+  if (placed === null) return refused(unplaced(read), DATA)
   const holding = async () => await heldOn(done, read, slug, given, landing, reach, timed)
   return await reach.hold(given.root, placed.at, holding)
 }
@@ -208,8 +234,8 @@ async function heldOn(
   reach: Reach,
   timed: Timed
 ): Promise<Answer> {
-  const turn = reach.turnAt(given.root, slug)
-  if (turn === null) return refused(`\`${read.turn}\` names no played turn here`, DATA)
+  const turn = stepAt(reach, given.root, read, slug)
+  if (turn === null) return refused(unplaced(read), DATA)
   const held = heldOf(turn)
   if ("refused" in held) return refused(held.refused, DATA)
   const seat = reach.seatOf(given.root, given.agentId)
@@ -234,7 +260,7 @@ async function heldOn(
   if ("refused" in lifted) return back([lifted.refused])
   const own = kept.filter((one) => !lifted.rest.includes(one))
   const naming: Naming = {
-    pageTypeSlug: storyTurnPlayed.slug,
+    pageTypeSlug: typeOf(read),
     slug,
     path: turn.at,
     merge: true,
@@ -268,7 +294,8 @@ async function heldOn(
     prompting: {
       title: story?.title ?? held.game,
       turnAt: turn.at,
-      address: `${storyTurnPlayed.slug}${PARTED}${slug}`,
+      address: `${typeOf(read)}${PARTED}${slug}`,
+      ...(held.noun === undefined ? {} : { noun: held.noun }),
       calledAs: given.calledAs,
       lore: reach.loreOf(
         given.root,
