@@ -66,7 +66,7 @@ export const otherwhereIxNala = {
     },
     {
       fact: "No one summoned her, and no contract binds her.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "Nala woke in the Glassgrass Flats in the late afternoon of day one.",
@@ -86,31 +86,31 @@ export const otherwhereIxNala = {
     },
     {
       fact: "Taking hold, the system shows: [System integration initialising.] then [Processing…]",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "Next: [Subject's World of Origin: Earth. Documented.]",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "Next: [No summoning ritual recorded. No binding recorded. Subject is unclaimed.]",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "Next: [Greetings, Nala. Welcome to Firrelia, The First World.]",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "Next: [You are hereby bound to a Firrelian system, through which the potential of your",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "...body and soul will be summarily measured.]",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "Last: [Inborn trait established: Unset.] and [Unique trait established: ???.]",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "Unset reads: [Unset: Your pattern has not yet set. Cores you absorb award half again",
@@ -158,6 +158,10 @@ export const otherwhereIxNala = {
     },
     {
       fact: "Nala's legs are shorter and her weight sits lower and wider in her hips than Alan's did.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "A shardback's teeth sank through the calf of Nala's tights and into her calf.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
   ],

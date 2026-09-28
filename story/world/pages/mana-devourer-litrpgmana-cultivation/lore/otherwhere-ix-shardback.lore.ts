@@ -38,7 +38,7 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "A shardback bites low, at ankles and calves, and hangs on, twisting.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "Its quills snap off in whatever strikes its back, and the shards cut as they work loose.",
@@ -119,6 +119,10 @@ export const otherwhereIxShardback = {
     {
       fact: "A pinned shardback thrashes and twists its head round to bite whatever holds it.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A rushing shardback lays its quills flat along its back.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
   ],
 } as const satisfies Lore
