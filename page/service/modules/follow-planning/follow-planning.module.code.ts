@@ -26,19 +26,19 @@ export type Held = {
   readonly narrowed?: Narrowed
 }
 
-export type Heard = {
+type Heard = {
   readonly folder: string
   readonly name: string | null
   readonly kind: string
   readonly slugs: ReadonlySet<string> | null
 }
 
-export type Target = {
+type Target = {
   readonly kind: string
   readonly slugs: ReadonlySet<string> | null
 }
 
-export type Aimed = ReadonlyMap<string, ReadonlyMap<string | null, readonly (readonly Target[])[]>>
+type Aimed = ReadonlyMap<string, ReadonlyMap<string | null, readonly (readonly Target[])[]>>
 
 export type Planned = {
   readonly pages: ReadonlySet<string>
@@ -56,7 +56,7 @@ export function pagesOf(
   return [...slugs].flatMap((slug) => listedAt(given, kind, slug))
 }
 
-export function fullAt(root: string, at: string): string {
+function fullAt(root: string, at: string): string {
   return isAbsolute(at) ? at : join(root, at)
 }
 
@@ -77,9 +77,9 @@ export function heardOf(
   ]
 }
 
-export type Keep = { readonly at: string; readonly kept: Kept }
+type Keep = { readonly at: string; readonly kept: Kept }
 
-export function keepsOf(
+function keepsOf(
   root: string,
   reading: Reading,
   kind: string,
@@ -98,9 +98,9 @@ export function keepsOf(
   return found
 }
 
-export type Aim = { readonly kept: Kept; readonly targets: Target[]; readonly kinds: Set<string> }
+type Aim = { readonly kept: Kept; readonly targets: Target[]; readonly kinds: Set<string> }
 
-export function aimedOver(root: string, aims: Iterable<Aim>): Aimed {
+function aimedOver(root: string, aims: Iterable<Aim>): Aimed {
   const read = new Map<string, Map<string | null, (readonly Target[])[]>>()
   for (const aim of aims) {
     for (const one of heardOf(root, "", null, aim.kept)) {
