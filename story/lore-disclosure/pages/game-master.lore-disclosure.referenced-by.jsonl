@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"game-master.lore-disclosure.ts","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"game-master.lore-disclosure.ts","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"game-master.lore-disclosure.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"lore-knowers","path":"story/world/pages/beware-of-chicken/lore/otherwhere-iv-alchemy.lore.ts","id":"01a0ea0d-a903-7b60-b96d-f1ffcf435ee9"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/beware-of-chicken/lore/otherwhere-iv-azure-alliance.lore.ts","id":"01a0ea0a-1287-7389-9568-8641380a2f30"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/beware-of-chicken/lore/otherwhere-iv-azure-jade-trading-company.lore.ts","id":"01a0ea0a-6f9f-7577-94f7-b35bd110d037"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/beware-of-chicken/lore/otherwhere-iv-bi-de.lore.ts","id":"01a0ea0a-e405-77a1-835f-94ee85c5ff94"}

@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/lore/place/place.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/beware-of-chicken/lore/otherwhere-iv-alchemy.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/beware-of-chicken/lore/otherwhere-iv-azure-alliance.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/beware-of-chicken/lore/otherwhere-iv-azure-jade-trading-company.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/beware-of-chicken/lore/otherwhere-iv-bi-de.lore.ts","typed":true,"deferred":false}
