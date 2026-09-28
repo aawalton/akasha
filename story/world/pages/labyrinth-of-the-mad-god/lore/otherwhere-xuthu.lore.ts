@@ -12,7 +12,7 @@ export const otherwhereXuthu = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "It lairs in a mountaintop castle and sleeps on mattresses where a throne once stood.",
+      fact: "It lairs in a mountaintop castle and sleeps on mattresses where a throne once was.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
