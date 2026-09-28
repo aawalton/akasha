@@ -32,6 +32,18 @@ export const otherwhereKitchen = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The kitchen's bread is dense and nutty, with a crust glazed in honey.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The pantry's low door is at the kitchen's far end, beside the great oven.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A wide door opens from the kitchen onto a long staff dining hall, dim, its tables dust-sheeted.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "A pantry off the kitchen holds a dozen sacks of coarse salt, each about twenty pounds.",
       knowers: ["lore-disclosure/game-master"],
     },
