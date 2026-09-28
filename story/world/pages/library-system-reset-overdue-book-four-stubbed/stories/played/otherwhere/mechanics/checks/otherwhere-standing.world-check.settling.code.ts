@@ -22,13 +22,13 @@ const TURN = z.object({
   }),
 })
 
-export type Scored = {
+type Scored = {
   readonly earned: number
   readonly lost: number
   readonly change: number
 }
 
-export type Settled = { readonly answered: Scored } | { readonly refused: string }
+type Settled = { readonly answered: Scored } | { readonly refused: string }
 
 export function settled(reading: unknown): Settled {
   const held = TURN.safeParse(reading)
