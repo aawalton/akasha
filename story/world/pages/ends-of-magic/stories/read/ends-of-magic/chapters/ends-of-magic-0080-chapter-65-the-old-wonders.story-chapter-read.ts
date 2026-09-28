@@ -4,6 +4,7 @@ export const endsOfMagic0080Chapter65TheOldWonders = {
   id: "01a06731-ae0d-7001-a0c0-c343728a70c6",
   type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0080-chapter-65-the-old-wonders",
+  ownProgress: 2712,
   title: "Chapter 65: The Old Wonders",
   story: "story-read/ends-of-magic",
   position: 80,

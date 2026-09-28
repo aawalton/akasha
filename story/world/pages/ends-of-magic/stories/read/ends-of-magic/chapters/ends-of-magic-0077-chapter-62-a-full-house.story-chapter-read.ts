@@ -8,7 +8,7 @@ export const endsOfMagic0077Chapter62AFullHouse = {
   story: "story-read/ends-of-magic",
   position: 77,
   ownLength: 2700,
-  ownProgress: 302,
+  ownProgress: 2700,
   unit: "unit/words",
   publishedAt: "2026-03-09",
   externalIdentity: [

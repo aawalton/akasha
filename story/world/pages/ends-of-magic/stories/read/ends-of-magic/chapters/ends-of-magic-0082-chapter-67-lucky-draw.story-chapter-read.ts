@@ -4,6 +4,7 @@ export const endsOfMagic0082Chapter67LuckyDraw = {
   id: "01a06731-ae0f-7000-9872-929cb3e5c561",
   type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0082-chapter-67-lucky-draw",
+  ownProgress: 2881,
   title: "Chapter 67: Lucky Draw",
   story: "story-read/ends-of-magic",
   position: 82,

@@ -4,6 +4,7 @@ export const emieAscended0025Chapter25 = {
   id: "01a06731-afbe-7002-b82e-328369974506",
   type: "page-type/story-chapter-read",
   slug: "emie-ascended-0025-chapter-25",
+  ownProgress: 2433,
   title: "Chapter 25",
   story: "story-read/emie-ascended",
   position: 25,

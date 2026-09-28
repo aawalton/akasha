@@ -4,6 +4,7 @@ export const emieAscended0045Interlude2 = {
   id: "01a06731-afc5-7002-a0fc-5d2c93ccf6d1",
   type: "page-type/story-chapter-read",
   slug: "emie-ascended-0045-interlude-2",
+  ownProgress: 2580,
   title: "Interlude 2",
   story: "story-read/emie-ascended",
   position: 45,

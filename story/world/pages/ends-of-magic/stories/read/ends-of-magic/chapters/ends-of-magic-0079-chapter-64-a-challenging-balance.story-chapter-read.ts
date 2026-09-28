@@ -4,6 +4,7 @@ export const endsOfMagic0079Chapter64AChallengingBalance = {
   id: "01a06731-ae0d-7000-abf8-e26e46d020d4",
   type: "page-type/story-chapter-read",
   slug: "ends-of-magic-0079-chapter-64-a-challenging-balance",
+  ownProgress: 2922,
   title: "Chapter 64: A Challenging Balance",
   story: "story-read/ends-of-magic",
   position: 79,
