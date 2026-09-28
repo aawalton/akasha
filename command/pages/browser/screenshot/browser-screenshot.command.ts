@@ -14,6 +14,15 @@ export const browserScreenshot = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "`--url` carrying a path is refused, since the page's path goes in `--path` alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "`--path` not opening with a slash is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The shot is taken once the render has settled rather than on the first paint.",
     },
     {

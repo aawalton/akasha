@@ -128,6 +128,34 @@ test("an origin on the loopback address is refused as a localhost one is", async
   expect(said[0]).toContain("127.0.0.1:8080")
 })
 
+test("an origin carrying a path is refused, sending the path to its own argument", async () => {
+  const whole = "https://example.com/story-played/otherwhere-dc918f7d"
+  const said = await refusalsOf([url.said, whole, path.said, "/a-page", out.said, "/var/tmp/a.png"])
+  expect(said.length).toBe(1)
+  expect(said[0]).toContain(`\`${whole}\``)
+  expect(said[0]).toContain("`https://example.com`")
+  expect(said[0]).toContain(path.said)
+})
+
+test("an origin that is no address is refused", async () => {
+  const said = await refusalsOf([url.said, "example", path.said, "/a", out.said, "/var/tmp/a.png"])
+  expect(said.length).toBe(1)
+  expect(said[0]).toContain("`example`")
+})
+
+test("a path not opening with a slash is refused", async () => {
+  const said = await refusalsOf([
+    url.said,
+    "https://example.com",
+    path.said,
+    "a-page",
+    out.said,
+    "/var/tmp/a.png",
+  ])
+  expect(said.length).toBe(1)
+  expect(said[0]).toContain("`/a-page`")
+})
+
 test("a localhost origin is refused before any browser opens", async () => {
   const said = await refusalsOf(WHERE)
   expect(said.length).toBe(1)

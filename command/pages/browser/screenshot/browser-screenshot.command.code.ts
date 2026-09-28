@@ -38,6 +38,10 @@ const TAKES = [
 
 const URL_SAID = url.said
 
+const PATH_SAID = pathArgument.said
+
+const SHAPED_ORIGIN = "`https://alanwalton.com`"
+
 const LOCAL = /^https?:\/\/localhost|^https?:\/\/127\.0\.0\.1/
 
 const CLOSED_PANEL =
@@ -205,7 +209,24 @@ export async function browserScreenshot(argv: readonly string[], given: Given): 
   if ("refused" in read) return refusedBy(read.refused)
   const taken = read.taken
 
-  const base = taken.url.replace(/\/+$/, "")
+  const origin = URL.canParse(taken.url) ? new URL(taken.url) : null
+  if (origin === null) {
+    return refusedBy([
+      `${URL_SAID} takes an origin such as ${SHAPED_ORIGIN}, and \`${taken.url}\` is none`,
+    ])
+  }
+  if (origin.pathname !== "/" || origin.search !== "" || origin.hash !== "") {
+    return refusedBy([
+      `${URL_SAID} takes the origin alone, as \`${origin.origin}\`, rather than \`${taken.url}\`: ` +
+        `the page's path goes in ${PATH_SAID} and nowhere else`,
+    ])
+  }
+  if (!taken.path.startsWith("/")) {
+    return refusedBy([
+      `${PATH_SAID} opens with \`/\`, as \`/${taken.path}\` does, rather than \`${taken.path}\``,
+    ])
+  }
+  const base = origin.origin
   if (LOCAL.test(base)) {
     return refusedBy([
       `${URL_SAID} takes a deployed origin rather than ${base}: what is shot here is the ` +
