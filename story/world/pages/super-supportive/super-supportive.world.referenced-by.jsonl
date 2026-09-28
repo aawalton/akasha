@@ -59,6 +59,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-boe.lore.ts","id":"01a0e9f0-6c7c-7f8c-9e48-4b2bb898b3be"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-bokabv.lore.ts","id":"01a0ea32-c612-7be7-b828-cc7812af90d2"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-bolstering.lore.ts","id":"01a0ea3d-9963-75f3-a0e6-ec16d8cc5bc5"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-bounce-repeater.lore.ts","id":"01a0ea41-c0be-7c40-b925-578f2f174344"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-bound-wand.lore.ts","id":"01a0ea3a-462f-7bc6-85d8-ee3b7a1ab66e"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-break-plates.lore.ts","id":"01a0ea36-9984-7c24-be0a-64525413cc54"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-brodie.lore.ts","id":"01a0e9ff-8f63-73d4-af43-e5943c3ad98f"}
@@ -66,6 +67,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-bti-qwol.lore.ts","id":"01a0e9f5-5084-7e6f-88e2-022386557ba2"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-cady-velra.lore.ts","id":"01a0ea10-f3f5-746e-96ea-3581f2f2795b"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-calassa.lore.ts","id":"01a0ea2b-b1f6-7f26-8a98-8615029f087a"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-camouflage-mask.lore.ts","id":"01a0ea41-c0bf-7887-9304-08b4c1759c89"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-carlotta-sullivan.lore.ts","id":"01a0ea10-f3f6-77fe-8cfe-742fcddddf7b"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-celena-north.lore.ts","id":"01a0ea11-25f1-7b5d-bb64-cb54f422560f"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-chainer-ledger.lore.ts","id":"01a0ea1c-a2d9-7df0-bc35-9d5cdf787817"}
@@ -140,6 +142,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-event-benjamin-velras-birthday-party.lore.ts","id":"01a0ea20-cae4-7ddf-88a1-db41437da407"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-event-body-drainer-attack.lore.ts","id":"01a0e9fc-7b32-7f1b-bccd-0adc95972d9c"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-event-breaking-of-the-bor-wand.lore.ts","id":"01a0ea3d-9967-7b7b-b67d-2915280b85ff"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-event-christmas-market-incident.lore.ts","id":"01a0ea41-c0bf-7c21-8d92-91347ef7d57c"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-event-death-of-manon-barre.lore.ts","id":"01a0ea20-cae5-71e6-853e-2e3c8262e86b"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-event-hannahs-funeral.lore.ts","id":"01a0e9fc-7b32-7ce1-8e4c-6edba0a8079a"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-event-jacobs-escape.lore.ts","id":"01a0ea20-cae5-73bc-bce9-5266a0a5a2e1"}
@@ -181,6 +184,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-grace-period.lore.ts","id":"01a0ea01-2f64-78cd-817c-36baafff8e1d"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-graham.lore.ts","id":"01a0ea3d-29e2-7e36-b865-26ee524c0920"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-grand-senate.lore.ts","id":"01a0ea0d-e14b-7c78-9a43-c4d963c1dc4b"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-grand-senator.lore.ts","id":"01a0ea41-c0bf-7910-a93a-034ef4b76d00"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-griveck.lore.ts","id":"01a0ea07-cbdc-7bba-9d70-017ef51a4302"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-ground.lore.ts","id":"01a0ea07-cbdc-7acc-9134-8785cc812aa6"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-guest-right.lore.ts","id":"01a0ea2e-05e8-734a-9eb0-fbcc64aec96c"}
@@ -500,6 +504,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-wordchain-bestowal.lore.ts","id":"01a0ea19-d969-715f-86d5-0a48a5db2ae1"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-wordchain.lore.ts","id":"01a0e9fa-71c2-78ee-a483-d483f1a4fc5f"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-worli-ro-den.lore.ts","id":"01a0e9f5-5085-7f70-8274-bc2fb0474015"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-wright-puzzle-box.lore.ts","id":"01a0ea41-c0bf-737f-a0c0-ec644e4865dd"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-wright.lore.ts","id":"01a0ea02-1747-75d0-bf52-86400678927c"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-yaril.lore.ts","id":"01a0ea3b-4b31-7ad2-8865-e160fd634b99"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-yenu-pezth.lore.ts","id":"01a0ea28-6e04-734d-b735-2837bf9a224a"}
