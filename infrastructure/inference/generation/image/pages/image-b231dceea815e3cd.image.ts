@@ -4,6 +4,8 @@ export const imageB231dceea815e3cd = {
   id: "01a0e9e6-cb35-736a-ad49-1a4d9bd3d75e",
   type: "page-type/image",
   slug: "image-b231dceea815e3cd",
+  title: "Paper Fan on the Bamboo Mat",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
