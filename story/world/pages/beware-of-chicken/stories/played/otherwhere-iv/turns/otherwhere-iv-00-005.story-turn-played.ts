@@ -4,6 +4,7 @@ export const otherwhereIv00005 = {
   id: "01a0ea2a-ec90-7f09-8e85-378de47eb602",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-005",
+  cover: "image/image-06a86de239241b9d",
   ownLength: 439,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],
@@ -47,6 +48,6 @@ export const otherwhereIv00005 = {
     "place/otherwhere-iv-upstream-woods",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T07:17:00.000Z",
 } as const satisfies StoryTurnPlayed
