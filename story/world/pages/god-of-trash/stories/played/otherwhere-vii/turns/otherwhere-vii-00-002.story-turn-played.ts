@@ -10,7 +10,7 @@ export const otherwhereVii00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-vii-nala", "character-other/otherwhere-vii-ennis"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I pull myself out of the ditch as best I can then look to see who is coming up the road.",
   beats: [
@@ -36,12 +36,13 @@ export const otherwhereVii00002 = {
   ],
   issues: [
     '"hauls herself the last of the way out of the ditch" - she climbed out onto the road last turn',
+    '"He stays up on the board, the reins in his hands." - No Prompt',
   ],
   lore: [
     "lore/otherwhere-vii-ennis",
     "place/otherwhere-vii-bramwick",
     "place/otherwhere-vii-ashford-road-ditch",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T06:16:00.000Z",
 } as const satisfies StoryTurnPlayed
