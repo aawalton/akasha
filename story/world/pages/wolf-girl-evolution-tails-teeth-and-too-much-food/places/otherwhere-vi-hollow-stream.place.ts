@@ -221,6 +221,46 @@ export const otherwhereViHollowStream = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The west slope round the wallow is steep, root-laced and black under the pines.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Halfway round, a wind-thrown pine lies across the slope, chest-high, its root plate a wall.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "One who keeps forty paces or more upslope draws a huff from the sow, but no rush.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Below the wallow the valley narrows; birch joins the alder, and the stream talks over riffles.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Cowberry carpets the drier banks under the pines, its red berries ripe, sour and safe to eat.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "An hour below the wallow, brambles on a sunny bend still hold the last soft blackberries.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Red-capped, white-spotted mushrooms grow under the birches; eaten, they bring sick fits.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Two hours below the wallow a great spruce leans over a dry, needle-deep hollow out of the wind.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The night grows colder toward dawn; frost whitens the open banks by the small hours.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The bold young wolf has gone back upstream to his sister; neither follows past the wallow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Dead pine in the drift snaps short and brittle; old dry alder there is light but sound.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
