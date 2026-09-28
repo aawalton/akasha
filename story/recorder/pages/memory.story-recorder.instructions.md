@@ -16,6 +16,6 @@ Name `--knower` once for each character. The command adds the game master and ne
 
 Where you find the fact on no page, draft its telling onto the page about its target as above, adding `--new-fact`. A fact is at most 100 characters and states the world rather than instructs anyone. Where no lore page is about the target, first draft one about it with `akasha change apply --draft`.
 
-Every edit you make is drafted, and you land nothing. The advance moving the turn to its player lands your edits.
+Every edit you make is drafted, and you land nothing. Your own advance lands your edits.
 
 Record nothing where the turn settles nothing new and no character learned anything. Do not rewrite the prose, and do not judge style, pacing or taste.

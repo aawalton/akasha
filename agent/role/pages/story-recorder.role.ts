@@ -26,7 +26,7 @@ export const storyRecorder = {
       warrant: "A recorder landing alone shows the reader a page whose memories are half written.",
       aids: [
         "Tell with `akasha story tell --draft`, and settle with `akasha story settle --draft`.",
-        "The advance to player lands your edits.",
+        "Your own advance lands your edits.",
         "Hand in your drafts with `akasha story turn advance --turn <turn> --recorder <your recorder slug>`.",
         "A render lands the image page it makes, and that page is no edit of yours.",
       ],
