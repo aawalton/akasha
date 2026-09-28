@@ -10,7 +10,7 @@ export const haremHotel0001 = {
   story: "story-written/harem-hotel",
   ownLength: 4146,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   beats: [
     "You wake dressed on a velvet chaise in a grand old hotel lobby, with no memory of arriving.",
     "The lobby is dark wood, brass and oxblood velvet, lit by a chandelier and green-shaded lamps.",
@@ -32,7 +32,7 @@ export const haremHotel0001 = {
     "When that is done, she says, the gate to the stairs opens.",
     "You ask the concierge her name, and only then does she give it: Odile.",
     "Odile orders Wren to take the gentleman's coat.",
-    "Wren strips your coat, then keeps going, palming your cock through your trousers, grinning at Odile.",
+    "Wren unbuttons your coat and draws it off, then palms your cock through your trousers, grinning.",
     "Odile snaps that she said the coat; Wren tells her to mind her own desk.",
     "You catch Wren's wrist, turn her, and bend her over the brass luggage cart.",
     "Wren laughs and pushes her small pert ass back against you, daring you.",
@@ -78,7 +78,6 @@ export const haremHotel0001 = {
     "Across the lobby the brass gate clicks and swings open onto the grand staircase.",
     "Odile buttons her waistcoat over her bare tits, says your room is upstairs, sir, and almost smiles.",
     "Wren hands you your coat and says she would carry your bags if you had any.",
-    "You step through the brass gate and climb the stairs toward the next floor.",
   ],
   issues: [
     '"and start to climb toward the next floor" - Leave It Open',
