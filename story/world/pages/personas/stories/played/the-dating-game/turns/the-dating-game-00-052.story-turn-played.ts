@@ -24,4 +24,6 @@ export const theDatingGame00052 = {
   ],
   lore: ["lore/the-dating-game-talia"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
+  endsAt: "2026-09-27T13:42:00.000Z",
 } as const satisfies StoryTurnPlayed
