@@ -24,4 +24,5 @@ export const theDatingGame00041 = {
     "She tucks a loose strand of hair behind one long pointed ear, not seeming to think about it.",
     'She starts folding the tripod. "I\'m doing my cooldown up the trail a ways before I head down."',
   ],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
