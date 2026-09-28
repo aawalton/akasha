@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"story-turn-played.page-type.ts","path":"story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-turn-played.page-type.ts","path":"story/world/stories/played/turns/modules/turn-making/turn-making.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-turn-played.page-type.types.ts","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/turns/otherwhere-iv-00-001.story-turn-played.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"story-turn-played.page-type.types.ts","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/turns/otherwhere-iv-00-002.story-turn-played.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-turn-played.page-type.types.ts","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/turns/otherwhere-v-00-001.story-turn-played.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-turn-played.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/turns/otherwhere-00-001.story-turn-played.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-turn-played.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/turns/otherwhere-00-002.story-turn-played.ts","typed":true,"deferred":false}
