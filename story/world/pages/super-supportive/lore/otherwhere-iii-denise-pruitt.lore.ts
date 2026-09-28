@@ -121,4 +121,5 @@ export const otherwhereIiiDenisePruitt = {
       ],
     },
   ],
+  secrets: "jsonl",
 } as const satisfies Lore
