@@ -5,11 +5,9 @@ import { persona } from "akasha/persona/persona.page-type.ts"
 import {
   COVER_WIDTH_ASKED,
   characterCoversOf,
-  charactersDrawn,
   charactersIn,
   latestTurnId,
   othersOf,
-  playersFirst,
   slugsOf,
 } from "akasha/story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx"
 import { characterOther } from "akasha/story/world/characters/character-other/character-other.page-type.ts"
@@ -99,29 +97,8 @@ test("the other characters are the turn's characters that are not the player's",
   expect(othersOf(charactersIn([player("p")]))).toEqual([])
 })
 
-test("the player's character is drawn first, and the others after in the turn's order", () => {
-  const drawn = (slug: string) => ({ slug, name: slug, source: source(slug) })
-  expect(playersFirst([drawn("a"), drawn("p"), drawn("b")], ["p"])).toEqual([
-    drawn("p"),
-    drawn("a"),
-    drawn("b"),
-  ])
-  expect(playersFirst([drawn("a")], ["p"])).toEqual([drawn("a")])
-  expect(playersFirst([], [])).toEqual([])
-})
-
 test("a character with no cover, or no row, is left out", () => {
   const named = charactersIn([other("a"), other("b")])
   const rows = new Map([[characterOther.slug, [row({ slug: "a" })]]])
   expect(characterCoversOf(named, rows)).toEqual([])
-})
-
-test("the story's player is drawn where no open turn names a character", () => {
-  expect(charactersDrawn(undefined, player("p"))).toEqual([
-    { pageTypeSlug: characterPlayer.slug, slug: "p" },
-  ])
-  expect(charactersDrawn([other("a")], player("p"))).toEqual([
-    { pageTypeSlug: characterOther.slug, slug: "a" },
-  ])
-  expect(charactersDrawn(undefined, "")).toEqual([])
 })

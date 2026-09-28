@@ -4,22 +4,18 @@ export const characterCoverPanel = {
   id: "01a0de7e-118e-760a-aace-b82f91d94001",
   type: "page-type/module",
   slug: "character-cover-panel",
-  definition: "the covers of the characters the latest turn of play is with",
+  definition: "the covers of the other characters the latest turn of play is with",
   code: "tsx",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The characters drawn are the characters the latest turn drawn names.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement:
-        "Where no open turn names a character, as after a chapter closes, the story's player is drawn.",
+        "The characters drawn are the latest turn's characters other than the player's, in its order.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The character the player plays is drawn as every other character is.",
+      decisionKind: "decision-kind/absence",
+      statement: "The player's character is not drawn here, but in the player-character panel.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -29,18 +25,12 @@ export const characterCoverPanel = {
       decisionKind: "decision-kind/departure",
       statement: "A character is named above the cover by that character's title.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The other-characters panel draws the turn's characters other than the player's.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A character with no cover is left out rather than drawn empty.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The player's character is drawn first, and every other character after.",
-    },
+
     {
       decisionKind: "decision-kind/absence",
       statement: "No turn's cover is drawn here.",

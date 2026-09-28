@@ -12,7 +12,7 @@ import {
   PopoverTrigger,
 } from "akasha/design/interface/primitive/modules/popover/popover.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
-import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
+
 import type { ClientSheet } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
 import {
   useDerived,
@@ -247,42 +247,11 @@ function ItemsTab({ sheet }: { sheet: ClientSheet }) {
   )
 }
 
-function SheetHeader({ sheet }: { sheet: ClientSheet }) {
-  const level = sheet.level
-  const name = sheet.name ?? sheet.kind
-  if (name == null && level == null) return null
-  return (
-    <div className="flex items-baseline justify-between font-mono">
-      <div className="flex min-w-0 flex-col">
-        {name != null ? (
-          <span className="break-words font-semibold text-primary text-sm">{name}</span>
-        ) : null}
-        {sheet.kind != null && sheet.name != null ? (
-          <span className="break-words text-[11px] text-tertiary">{sheet.kind}</span>
-        ) : null}
-      </div>
-      {level != null ? (
-        <span className="flex-none font-semibold text-secondary text-sm">Lv {level}</span>
-      ) : null}
-    </div>
-  )
-}
-
 export type SheetShown = {
   readonly sheet: ClientSheet | null
   readonly game?: string | undefined
   readonly workings?: readonly Working[] | undefined
   readonly showsStats?: boolean | undefined
-}
-
-export function SheetPanel({ sheet, game, workings, showsStats = true }: SheetShown) {
-  if (sheet === null) return null
-  return (
-    <SurfaceProvider level={1} className="flex flex-col gap-3 rounded-xl p-4 shadow-sm">
-      <SheetHeader sheet={sheet} />
-      <SheetTabs sheet={sheet} game={game} workings={workings} showsStats={showsStats} />
-    </SurfaceProvider>
-  )
 }
 
 export function SheetTabs({

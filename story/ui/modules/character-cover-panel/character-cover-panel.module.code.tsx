@@ -68,11 +68,6 @@ export function charactersIn(value: unknown): readonly Character[] {
   return held
 }
 
-export function charactersDrawn(value: unknown, player: string): readonly Character[] {
-  const named = charactersIn(value)
-  return named.length > 0 || player === "" ? named : charactersIn([player])
-}
-
 export function slugsOf(named: readonly Character[], pageTypeSlug: string): readonly string[] {
   return named.filter((one) => one.pageTypeSlug === pageTypeSlug).map((one) => one.slug)
 }
@@ -95,15 +90,6 @@ export function characterCoversOf(
     held.push({ slug: one.slug, name: nameOf(row, one.slug), source })
   }
   return held
-}
-
-export function playersFirst(
-  covers: readonly CharacterCover[],
-  players: readonly string[]
-): readonly CharacterCover[] {
-  const playing = covers.filter((one) => players.includes(one.slug))
-  const others = covers.filter((one) => !players.includes(one.slug))
-  return [...playing, ...others]
 }
 
 function inList(keyed: string): readonly string[] {
@@ -129,17 +115,6 @@ function shapeNamed(
   return namedShapeDescriptor(pageTypeSlug, { by, values: [...values] })
 }
 
-type CoverPanelProps = {
-  readonly turns: readonly ClientStoryTurn[]
-  readonly player: string
-}
-
-export function CharacterCoverPanel({ turns, player }: CoverPanelProps) {
-  const turnId = latestTurnId(turns)
-  if (turnId === null) return null
-  return <TurnCharacters turnId={turnId} player={player} othersOnly={false} />
-}
-
 export function othersOf(named: readonly Character[]): readonly Character[] {
   return named.filter((one) => one.pageTypeSlug === characterOther.slug)
 }
@@ -147,18 +122,10 @@ export function othersOf(named: readonly Character[]): readonly Character[] {
 export function OtherCharactersPanel({ turns }: { readonly turns: readonly ClientStoryTurn[] }) {
   const turnId = latestTurnId(turns)
   if (turnId === null) return null
-  return <TurnCharacters turnId={turnId} player="" othersOnly={true} />
+  return <TurnCharacters turnId={turnId} />
 }
 
-function TurnCharacters({
-  turnId,
-  player,
-  othersOnly,
-}: {
-  turnId: string
-  player: string
-  othersOnly: boolean
-}) {
+function TurnCharacters({ turnId }: { turnId: string }) {
   const turnOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
       pageTypeSlug: storyTurnPlayed.slug,
@@ -170,8 +137,7 @@ function TurnCharacters({
   )
   const rows = usePages(turnOptions).rows
   const turn = rows.find((row) => row[ID_KEY] === turnId)
-  const named = turn?.[characters.propertySlug]
-  const keyed = keyedOf(othersOnly ? othersOf(charactersIn(named)) : charactersDrawn(named, player))
+  const keyed = keyedOf(othersOf(charactersIn(turn?.[characters.propertySlug])))
   if (keyed === "") return null
   return <TypeRows keyed={keyed} at={0} read={[]} />
 }
@@ -218,13 +184,11 @@ function Figure({ one }: { one: CharacterCover }) {
 }
 
 function Covers({ keyed, read }: { keyed: string; read: Read }) {
-  const named = namedOf(keyed)
-  const covers = characterCoversOf(named, new Map(read))
+  const covers = characterCoversOf(namedOf(keyed), new Map(read))
   if (covers.length === 0) return null
-  const drawn = playersFirst(covers, slugsOf(named, characterPlayer.slug))
   return (
     <SurfaceProvider level={1} className="flex flex-col gap-3 rounded-xl p-4 shadow-sm">
-      {drawn.map((one) => (
+      {covers.map((one) => (
         <Figure key={one.slug} one={one} />
       ))}
     </SurfaceProvider>
