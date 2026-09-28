@@ -10,7 +10,7 @@ export const otherwhere00006 = {
   position: 6,
   prose: "txt",
   characters: ["character-player/otherwhere-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“You might as well take it. I’m clearly going to die without help anyways.” I say, while offering it again",
   beats: [
@@ -29,5 +29,5 @@ export const otherwhere00006 = {
   ],
   issues: ['"The forest\'s noise closes over the place where it was." - Leave It Open'],
   lore: ["lore/otherwhere-copperbacks"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
