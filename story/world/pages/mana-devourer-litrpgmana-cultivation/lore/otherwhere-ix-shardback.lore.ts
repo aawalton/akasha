@@ -121,6 +121,22 @@ export const otherwhereIxShardback = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "A shardback's neck is short and thick with muscle, quilled along the nape; it chokes slowly.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Arms locked round a shardback's back or nape take quill shards with every twist it makes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A shardback locked on a bite keeps hold through pain; only failing breath or a snout blow frees it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A shardback's throat is softer than its nape, but its jaw and bite sit right above it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "A rushing shardback lays its quills flat along its back.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
