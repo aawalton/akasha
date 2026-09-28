@@ -50,5 +50,6 @@ export const otherwhereV00003 = {
   ],
   lore: ["place/otherwhere-v-fern-hollow", "lore/otherwhere-v-gloamcat"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2026-09-28T18:58:00.000Z",
 } as const satisfies StoryTurnPlayed
