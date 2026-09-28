@@ -311,7 +311,7 @@ function typeIdsOf(readings: ReadonlyMap<string, PageTypeReading>): ReadonlyMap<
   return new Map([...readings].map(([slug, one]) => [slug, one.pageTypeId]))
 }
 
-export function ownKeysOver(
+function ownKeysOver(
   readings: ReadonlyMap<string, PageTypeReading>,
   carried: ReadonlySet<string> = NOTHING_CARRIED
 ): readonly string[] | undefined {
