@@ -19,6 +19,10 @@ export const otherwhereIiiLawrenceStop = {
       fact: "Before dawn the avenue is dark: a shut diner, a laundromat, the unlit marquee of the Aragon.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Wool socks on slush soak through in a few steps and go icy, but one block is only minutes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
