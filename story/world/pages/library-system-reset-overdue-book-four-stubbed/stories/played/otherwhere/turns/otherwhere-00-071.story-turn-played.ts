@@ -47,6 +47,6 @@ export const otherwhere00071 = {
     "place/otherwhere-main-hall",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-29T11:52:00.000Z",
 } as const satisfies StoryTurnPlayed
