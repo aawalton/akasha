@@ -86,7 +86,7 @@ export const otherwhereViiiWeirGardens = {
     },
     {
       fact: "To Maddox 'the Academy' is the Imperial Academy, two days north past Geldor by train and bus.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
     {
       fact: "Maddox knows Academy students only from the news, where the Chosen One is said to study.",
@@ -102,11 +102,15 @@ export const otherwhereViiiWeirGardens = {
     },
     {
       fact: "Maddox would guess a confused girl means the Institute, and say it is a half-hour walk uphill.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
     {
       fact: "For the real Academy, Maddox would send her to the police post, whose booth can reach anywhere.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
+    {
+      fact: "The Institute is up in Guildhall, half an hour's walk uphill from Weir Gardens.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
   ],
 } as const satisfies Place

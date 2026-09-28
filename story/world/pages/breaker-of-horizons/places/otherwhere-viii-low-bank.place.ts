@@ -76,6 +76,10 @@ export const otherwhereViiiLowBank = {
       fact: "Pickpockets and bag-snatchers work the market and the station crowds.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The police post on Weir Street has a booth that can reach anywhere.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

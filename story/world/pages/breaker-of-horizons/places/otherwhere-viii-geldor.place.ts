@@ -96,6 +96,10 @@ export const otherwhereViiiGeldor = {
       fact: "The nearest thin-coverage zone is some three days' hard walk from the capital.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Geldor lies north of Carrowgate, on the way to the Imperial Academy.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

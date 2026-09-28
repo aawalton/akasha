@@ -33,5 +33,6 @@ export const otherwhereViii00003 = {
   ],
   lore: ["place/otherwhere-viii-weir-gardens", "place/otherwhere-viii-low-bank"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-28T05:50:00.000Z",
 } as const satisfies StoryTurnPlayed
