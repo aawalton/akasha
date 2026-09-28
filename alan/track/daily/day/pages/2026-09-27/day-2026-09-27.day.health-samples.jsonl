@@ -263,3 +263,4 @@
 {"id":"0b9bfb01-7174-4d39-9ec8-8d33502adc3a","metric":"activeEnergy","startedAt":"2026-09-28T00:28:32Z","endedAt":"2026-09-28T00:29:34Z","value":1.5460000000000003,"unit":"kcal","sourceName":"Alan’s Apple Watch","arrivedAt":"2026-09-28T00:48:58.305Z"}
 {"id":"5fddba1d-5ba0-4baf-93eb-5df1764e07d9","metric":"activeEnergy","startedAt":"2026-09-28T00:29:34Z","endedAt":"2026-09-28T00:29:44Z","value":0.067,"unit":"kcal","sourceName":"Alan’s Apple Watch","arrivedAt":"2026-09-28T00:48:58.305Z"}
 {"id":"892438ba-d980-404d-9965-bb84a49682ff","metric":"activeEnergy","startedAt":"2026-09-28T01:25:01Z","endedAt":"2026-09-28T01:25:12Z","value":0.117,"unit":"kcal","sourceName":"Alan’s Apple Watch","arrivedAt":"2026-09-28T01:41:37.491Z"}
+{"id":"ea369ab6-801d-4cbe-a47d-5a4e08af15b7","metric":"stepCount","startedAt":"2026-09-28T01:12:50Z","endedAt":"2026-09-28T01:12:55Z","value":11,"unit":"count","sourceName":"Alan’s iPhone 15 Pro","arrivedAt":"2026-09-28T01:41:38.124Z"}
