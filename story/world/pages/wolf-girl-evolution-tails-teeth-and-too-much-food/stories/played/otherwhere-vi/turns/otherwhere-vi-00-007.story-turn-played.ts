@@ -11,4 +11,5 @@ export const otherwhereVi00007 = {
   action:
     "I stand back up and keep the stick between me and the boar and slowly back away, if it charges, I brace the stick in the ground as a makeshift spear and anchor it with my weight.",
   lore: ["place/otherwhere-vi-hollow-stream", "lore/otherwhere-vi-nala"],
+  endsAt: "2026-09-28T22:30:00.000Z",
 } as const satisfies StoryTurnPlayed
