@@ -4,10 +4,13 @@ export const otherwhereIx00002 = {
   id: "01a0ea30-9a91-7452-bc27-1cbc34f66ca0",
   type: "page-type/story-turn-played",
   slug: "otherwhere-ix-00-002",
+  ownLength: 333,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],
   position: 2,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-ix-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     '"Hello?" I say confidently, then I stand up tall and put my arms on my hips to make me look bigger. "Can you understand me?"',
   beats: [
