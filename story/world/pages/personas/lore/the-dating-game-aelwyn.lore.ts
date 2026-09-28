@@ -85,5 +85,13 @@ export const theDatingGameAelwyn = {
       fact: "Aelwyn is a seasonal forest ranger in Provo Canyon and knows every tree along the river.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Aelwyn is building a career as a cosplay fitness influencer, and coaches fitness privately.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Provo takes Aelwyn's long elven ears for a good prosthetic, and she never corrects it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
