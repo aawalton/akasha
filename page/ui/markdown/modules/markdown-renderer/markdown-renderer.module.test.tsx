@@ -153,13 +153,20 @@ test("a scoped page link is never drawn at its address either", () => {
 
 const IMAGE_AT = `${image.slug}/${image0d953de65e55acaf.slug}`
 
-const IMAGE_BYTES = `/api/page-file/${image.slug}/${image0d953de65e55acaf.slug}/bytes?w=1280`
+const IMAGE_BYTES = `/api/page-file/${image.slug}/${image0d953de65e55acaf.slug}/bytes`
 
-test("an image whose address names an image page is drawn from that page's bytes", () => {
+test("an image whose address names an image page opens from that page's whole bytes", () => {
   expect(imageSourceOf(IMAGE_AT)).toBe(IMAGE_BYTES)
-  const element = drawn(`![a dragon](${IMAGE_AT})`).querySelector("img")
-  expect(element?.getAttribute("src")).toBe(IMAGE_BYTES)
-  expect(element?.getAttribute("alt")).toBe("a dragon")
+})
+
+test("an image page is drawn as its words, opened on a press rather than drawn inline", () => {
+  const document = drawn(`![a dragon](${IMAGE_AT})`)
+  expect(document.querySelector("img")).toBe(null)
+  expect(document.querySelector("button")?.textContent).toBe("a dragon")
+})
+
+test("an image page with no words is drawn as the word image", () => {
+  expect(drawn(`![](${IMAGE_AT})`).querySelector("button")?.textContent).toBe(image.slug)
 })
 
 test("an image at a web address is drawn from that address", () => {

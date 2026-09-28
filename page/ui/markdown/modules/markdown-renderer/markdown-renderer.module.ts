@@ -22,8 +22,11 @@ export const markdownRenderer = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "An image whose address names an image page is drawn inline from that page's bytes.",
+      statement: "An image whose address names an image page is drawn as a link of its words.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Pressing that link opens the image whole over the page, as a turn's cover opens.",
     },
     {
       decisionKind: "decision-kind/departure",

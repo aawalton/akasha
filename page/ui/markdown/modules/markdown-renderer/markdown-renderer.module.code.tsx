@@ -13,7 +13,7 @@ import {
   useAcquireShapes,
   usePipelineLive,
 } from "akasha/page/ui/cache/modules/tanstack-live/tanstack-live.module.code.ts"
-import { DegradingImage } from "akasha/page/ui/component/modules/degrading-image/degrading-image.module.code.tsx"
+
 import { coverSource } from "akasha/page/ui/component/modules/page-cover/page-cover.module.code.tsx"
 import { buildPageTypeSlugMaps } from "akasha/page/ui/component/modules/view-tab-content-href/view-tab-content-href.module.code.ts"
 import {
@@ -33,8 +33,10 @@ import {
 } from "akasha/page/ui-store/query/modules/related-pipeline/related-pipeline.module.code.ts"
 import { pageLinkOf } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
+import { CoverDialog } from "akasha/story/ui/modules/cover-viewing/cover-viewing.module.code.tsx"
+import { ImageIcon } from "lucide-react"
 import type { ReactNode } from "react"
-import { useMemo } from "react"
+import { useMemo, useState } from "react"
 import type { Components } from "react-markdown"
 import ReactMarkdown from "react-markdown"
 import remarkGfm from "remark-gfm"
@@ -154,28 +156,32 @@ function MarkdownLink({ children, href }: { children?: ReactNode; href?: string 
 
 const IMAGE_PAGE_TYPE = "image"
 
-const IMAGE_WIDTH = 1280
-
 export function imageSourceOf(src: unknown): string | null {
   const address = stringIn(src)
   if (address === null) return null
   const named = pageNamedIn(address)
   if (named === null) return address
   if (named.pageTypeSlug !== IMAGE_PAGE_TYPE || named.scope !== null) return null
-  return coverSource(`${IMAGE_PAGE_TYPE}/${named.slug}`, IMAGE_WIDTH)
+  return coverSource(`${IMAGE_PAGE_TYPE}/${named.slug}`)
 }
 
 function MarkdownImage({ src, alt }: { src?: unknown; alt?: string }) {
-  const words = alt ?? ""
-  const source = imageSourceOf(src)
-  if (source === null) return <>{words}</>
+  const [viewing, setViewing] = useState(false)
+  const words = alt === undefined || alt === "" ? IMAGE_PAGE_TYPE : alt
+  const whole = imageSourceOf(src)
+  if (whole === null) return <>{words}</>
   return (
-    <DegradingImage
-      src={source}
-      alt={words}
-      className="my-2 block h-auto max-w-full rounded-md"
-      fallback={words}
-    />
+    <>
+      <CoverDialog open={viewing} onOpenChange={setViewing} name={words} whole={whole} />
+      <button
+        type="button"
+        className="inline-flex cursor-zoom-in items-center gap-1 text-accent underline"
+        onClick={() => setViewing(true)}
+      >
+        <ImageIcon aria-hidden className="size-4" />
+        {words}
+      </button>
+    </>
   )
 }
 
