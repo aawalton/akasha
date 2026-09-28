@@ -191,6 +191,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "Weather: snow tapering by noon, a high of nineteen, colder tonight, more snow Monday.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ads run for Anesidora tourism, a lawyer for superhuman-incident claims, and consulate classes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
