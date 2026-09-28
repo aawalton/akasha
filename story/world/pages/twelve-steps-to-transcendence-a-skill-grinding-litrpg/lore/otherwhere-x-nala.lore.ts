@@ -64,5 +64,17 @@ export const otherwhereXNala = {
       fact: "Nala woke at the roadside on Harrow Mile in the late afternoon of day one.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala can read the local lettering easily, though she has never seen those letters before.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "Her new body obeys her a half second late, as if still learning.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "Nala woke face down in a stubble field beside the road, an hour or two before sunset.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
   ],
 } as const satisfies Lore

@@ -47,5 +47,9 @@ export const otherwhereXHarrowMile = {
       fact: "Nobody travels this stretch after dusk; carts go by in daylight to and from market.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The road runs east and west; westward it slopes down toward a line of trees.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
   ],
 } as const satisfies Place
