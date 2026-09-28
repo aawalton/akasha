@@ -17,6 +17,7 @@ export const playedPanel = {
     "played-panel/aravel-hud",
     "played-panel/tower-sheet",
     "played-panel/hotel-sheet",
+    "played-panel/otherwhere-sheet",
     "module/panel-turning",
     "file-property/drawn",
     "module/panel-showing",
