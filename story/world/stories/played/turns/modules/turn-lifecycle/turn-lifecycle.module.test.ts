@@ -42,6 +42,17 @@ test("the world builder hands in the lore it landed and the turn goes to the gam
   expect(said.landsKept).toBe(false)
 })
 
+test("the world builder's lore may be a place, and a page of no lore type is refused", () => {
+  const placed = { kind: "lore", lore: ["place/a-hall"] } as const
+  expect(movedOf(advanced(heldAt("world-builder"), BUILDER, placed, TWO)).status).toBe(
+    "game-master"
+  )
+  const character = { kind: "lore", lore: ["character-other/ceri"] } as const
+  expect(refusalOf(advanced(heldAt("world-builder"), BUILDER, character, TWO))).toContain(
+    "character-other/ceri"
+  )
+})
+
 test("the world builder may hand in no lore", () => {
   const said = movedOf(advanced(heldAt("world-builder"), BUILDER, { kind: "lore", lore: [] }, TWO))
   expect(said.values).toEqual({ turnStatus: at("game-master") })

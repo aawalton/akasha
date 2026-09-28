@@ -4,6 +4,8 @@ import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/stor
 import { worldBuilder as worldBuilderRole } from "akasha/agent/role/pages/world-builder.role.ts"
 import { writer as writerRole } from "akasha/agent/role/pages/writer.role.ts"
 import { wordCount } from "akasha/story/engine/core/modules/word-count/word-count.module.code.ts"
+import { lore as lorePageType } from "akasha/story/lore/lore.page-type.ts"
+import { place } from "akasha/story/lore/place/place.page-type.ts"
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
 import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
 import { gameMaster } from "akasha/story/world/stories/played/turns/turn-status/pages/game-master.turn-status.ts"
@@ -222,8 +224,16 @@ function moved(
   return { status, values: stated, prose, starts, stopsCaller, landsKept }
 }
 
+const LORE_TYPES: readonly string[] = [lorePageType.slug, place.slug]
+
+function notLore(lore: readonly string[]): string | null {
+  const other = lore.find((one) => !LORE_TYPES.includes(one.slice(0, one.lastIndexOf(PARTED))))
+  if (other === undefined) return null
+  return `a lore page is of type ${LORE_TYPES.join(" or ")}, and \`${other}\` is not`
+}
+
 function fromWorldBuilder(held: Held, lore: readonly string[]): Advanced {
-  const wrong = unaddressed("lore page", lore)
+  const wrong = unaddressed("lore page", lore) ?? notLore(lore)
   if (wrong !== null) return { refused: wrong }
   const kept = [...new Set([...held.lore, ...lore])]
   return moved(GAME_MASTER, kept.length === 0 ? {} : { lore: kept })
