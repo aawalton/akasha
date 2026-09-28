@@ -41,6 +41,18 @@ export const otherwhereBlackShore = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
     },
     {
+      fact: "A hole dug in the sand anywhere on the beach fills with seawater, salt as the sea.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The sea is salt, and drinking it deepens thirst rather than easing it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "For two miles each way from where Nala came to, the beach offers no fresh water at all.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The wet sand below the tide line stays cool underfoot even at midday.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
     },
