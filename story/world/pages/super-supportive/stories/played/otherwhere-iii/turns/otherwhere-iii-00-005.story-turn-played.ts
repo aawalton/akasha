@@ -30,5 +30,6 @@ export const otherwhereIii00005 = {
   ],
   lore: ["lore/otherwhere-iii-denise-pruitt", "place/otherwhere-iii-uptown-memorial-er"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2037-01-31T05:01:00.000Z",
 } as const satisfies StoryTurnPlayed
