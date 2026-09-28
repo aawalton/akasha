@@ -7,5 +7,5 @@ export const superSupportiveBundlefruit = {
   title: "Bundlefruit",
   world: "world/super-supportive",
   aliases: ["bundlefruit wine"],
-  description: "A fruit made into a mildly intoxicating drink.",
+  description: "A fruit.",
 } as const satisfies WorldItem

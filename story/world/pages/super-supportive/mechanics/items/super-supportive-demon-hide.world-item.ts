@@ -7,6 +7,5 @@ export const superSupportiveDemonHide = {
   title: "Demon hide",
   world: "world/super-supportive",
   aliases: ["transmogrified demon skin"],
-  description:
-    "The skin of a demon, transmogrified to remove its taint while keeping its useful properties.",
+  description: "Demon skin with no taint left in it.",
 } as const satisfies WorldItem

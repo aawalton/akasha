@@ -6,6 +6,5 @@ export const superSupportiveNeighborhoodTeleportationPoint = {
   slug: "super-supportive-neighborhood-teleportation-point",
   title: "Neighborhood teleportation point",
   world: "world/super-supportive",
-  description:
-    "A shared teleport room open to anyone with some share of System capacity allotted to them.",
+  description: "A shared teleport room serving a neighborhood.",
 } as const satisfies WorldMechanic

@@ -6,6 +6,5 @@ export const superSupportiveEnchantmentOfTheForgetfulTraveler = {
   slug: "super-supportive-enchantment-of-the-forgetful-traveler",
   title: "Enchantment of the Forgetful Traveler",
   world: "world/super-supportive",
-  description:
-    "An extremely tedious and notoriously difficult enchantment that makes an object tend to return to its owner.",
+  description: "An enchantment that makes an object tend to return to its owner.",
 } as const satisfies WorldEnchantment

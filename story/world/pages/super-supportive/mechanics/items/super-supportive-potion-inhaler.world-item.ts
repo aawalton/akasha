@@ -7,6 +7,5 @@ export const superSupportivePotionInhaler = {
   title: "Potion inhaler",
   world: "world/super-supportive",
   aliases: ["inhaler"],
-  description:
-    "An inhaler holding a potion, such as the recovery-sauna potion, that wards off heat.",
+  description: "An inhaler holding a potion.",
 } as const satisfies WorldItem

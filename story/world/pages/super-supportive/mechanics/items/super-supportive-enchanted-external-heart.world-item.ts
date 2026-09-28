@@ -6,6 +6,5 @@ export const superSupportiveEnchantedExternalHeart = {
   slug: "super-supportive-enchanted-external-heart",
   title: "Enchanted external heart",
   world: "world/super-supportive",
-  description:
-    "A clear red jellyfish-like blob meant to be slapped onto the chest of someone whose heart has stopped.",
+  description: "A clear red jellyfish-like blob that does the work of a stopped heart.",
 } as const satisfies WorldItem

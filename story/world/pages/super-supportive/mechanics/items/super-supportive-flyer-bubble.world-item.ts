@@ -6,6 +6,5 @@ export const superSupportiveFlyerBubble = {
   slug: "super-supportive-flyer-bubble",
   title: "Flyer bubble",
   world: "world/super-supportive",
-  description:
-    "An airy bubble vehicle summoned with a chime, with a bench and a clear dome that can show images.",
+  description: "An airy bubble vehicle with a bench and a clear dome that can show images.",
 } as const satisfies WorldItem
