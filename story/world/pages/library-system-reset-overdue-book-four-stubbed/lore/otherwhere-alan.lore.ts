@@ -128,7 +128,6 @@ export const otherwhereAlan = {
         "character-other/otherwhere-links",
       ],
     },
-
     {
       fact: "Nala has not yet learned a healing power from any book.",
       knowers: [
@@ -141,7 +140,6 @@ export const otherwhereAlan = {
       fact: "Nala's second sync bound her to the core more deeply than her first.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "Overnight in the quarters the bite on Nala's arm knitted to a tender pink scar.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -184,7 +182,27 @@ export const otherwhereAlan = {
     },
     {
       fact: "At Nala's pace, Courtesies' first part takes her a quarter hour, and the whole some two hours.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Nala read Counter Keeping through in some three hours, but its power did not take.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
+    },
+    {
+      fact: "Counter Keeping won't take for Nala until she has learned a new power from another book.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
+    },
+    {
+      fact: "Nala read Courtesies of the Many Peoples whole on the Counter's step.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],
   secrets: "jsonl",

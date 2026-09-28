@@ -4,13 +4,14 @@ export const otherwhere00071 = {
   id: "01a0e948-cd15-78cb-b953-8e9dc8bc0d1f",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-071",
+  cover: "image/image-7de060c86d9588e0",
   ownLength: 380,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 71,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "**No book that will let me cast a spell to read a book? I'm a speed reader (4000 WPM), so I can read fast, but I'm sure magic could make that faster.** I got and collect the two books and sit down to read them.",
   beats: [
@@ -47,6 +48,6 @@ export const otherwhere00071 = {
     "place/otherwhere-main-hall",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-29T11:52:00.000Z",
 } as const satisfies StoryTurnPlayed

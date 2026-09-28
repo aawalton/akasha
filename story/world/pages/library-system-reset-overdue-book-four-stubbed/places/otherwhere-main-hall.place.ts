@@ -380,7 +380,11 @@ export const otherwhereMainHall = {
     },
     {
       fact: "Rolling ladders on brass rails reach the high shelves and the gallery above.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-links",
+        "character-player/otherwhere-alan",
+      ],
     },
   ],
   secrets: "jsonl",
