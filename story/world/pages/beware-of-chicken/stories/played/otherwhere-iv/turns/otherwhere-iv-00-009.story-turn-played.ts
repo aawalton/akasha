@@ -42,5 +42,6 @@ export const otherwhereIv00009 = {
   ],
   lore: ["lore/otherwhere-iv-gu-household", "lore/otherwhere-iv-calendar"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2026-09-28T08:50:00.000Z",
 } as const satisfies StoryTurnPlayed
