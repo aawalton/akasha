@@ -7,8 +7,18 @@ export const otherwhere00054 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 54,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "I take the loaf four now and eat it while I collect the clothes I left In the hall, put on what I’m missing, and take the extra robe back to my room. **Okay Links, you need more power. How do we get it for you?**",
+  beats: [
+    "Nala tears into the honey-glazed loaf, dense and nutty, and eats as she walks back into the hall.",
+    "At the gloom's edge her first robe, belt, pouch and slippers lie by the honey jar.",
+    "She buckles on the belt and pouch and steps into the felt slippers, a crust still in her teeth.",
+    "She folds the spare robe over her arm, walks it back to the quarters and hangs it in the wardrobe.",
+    "She aims a thought at Links: he needs more power, so how do they get it for him?",
+    'Links: "Put my books back. Every book returned to its right shelf is a point."',
+    'His eyes flicker blue: "Some three thousand lie about the hall. Spine marks match shelf marks."',
+    'Links: "Eight books and your taps run hot. Patrons pay a point each too, once the counter works."',
+  ],
   lore: ["lore/otherwhere-universe", "place/otherwhere-main-hall"],
 } as const satisfies StoryTurnPlayed
