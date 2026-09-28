@@ -128,6 +128,30 @@ export const otherwhereViiAshford = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Aldo Reeve's farm is the big thatched one past the green; he threshes in its barn this week.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Threshing is swinging a flail on the barn's beaten earth from dawn to dusk; men do it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Women winnow the threshed grain with baskets in the barn door's draught, for six pennies a day.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldo hires by sight: he wants no trouble, a name, and a word from someone he knows.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldo knows Ennis from years of his rounds, and a word from Ennis carries a little weight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hands at Aldo's eat bread, pease pottage and small beer at noon, and may sleep in the barn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Ashford is thatched houses strung along the road down to a ford over a slow, clear river.",
       knowers: [
         "lore-disclosure/game-master",
