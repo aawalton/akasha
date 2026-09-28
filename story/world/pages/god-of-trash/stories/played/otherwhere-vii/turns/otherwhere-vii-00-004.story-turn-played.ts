@@ -36,6 +36,10 @@ export const otherwhereVii00004 = {
     'He looks at her sideways for the first time since the stone. "So. What is it you mean to do?"',
     "\"They're taking on hands for threshing this week, if you've the arms for it.\"",
   ],
-  lore: ["place/otherwhere-vii-ashford-road", "lore/otherwhere-vii-ennis"],
+  lore: [
+    "place/otherwhere-vii-ashford-road",
+    "lore/otherwhere-vii-ennis",
+    "place/otherwhere-vii-ashford",
+  ],
   endsAt: "2026-09-28T07:00:00.000Z",
 } as const satisfies StoryTurnPlayed
