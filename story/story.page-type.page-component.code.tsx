@@ -1,13 +1,13 @@
 "use client"
 
-import { PageDefaultContent } from "akasha/page/ui/component/modules/page-default-content/page-default-content.module.code.tsx"
+import { PageCollectionContent } from "akasha/page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx"
 import type { PageDrawingProps } from "akasha/page/ui/component/modules/page-detail-content/page-detail-content.module.code.tsx"
 import { StoryChapters } from "akasha/story/ui/modules/story-chapters/story-chapters.module.code.tsx"
 
-export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
+export function Drawing({ pageTypeSlug, id, nextUnreadHref }: PageDrawingProps) {
   return (
-    <PageDefaultContent pageTypeSlug={pageTypeSlug} id={id}>
+    <PageCollectionContent pageTypeSlug={pageTypeSlug} id={id} nextUnreadHref={nextUnreadHref}>
       <StoryChapters pageTypeSlug={pageTypeSlug} id={id} />
-    </PageDefaultContent>
+    </PageCollectionContent>
   )
 }
