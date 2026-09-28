@@ -23,6 +23,10 @@ export const superSupportiveArtonanConsulate4 = {
       fact: "It is a blocky gray concrete-and-glass cube behind a security fence with a gate on tracks.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Three poles out front fly multicolored streamers, the Artonans' planetary flags.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   within: "place/otherwhere-iii-chicago",
   secrets: "jsonl",
