@@ -21,4 +21,6 @@ export const otherwhere00051 = {
     "The water stirs; warmth spreads out from the bottom of the tub, and steam curls up off the surface.",
     "In moments the tub is steaming hot.",
   ],
+  issues: ['"In moments the tub is steaming hot." - Leave It Open'],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
