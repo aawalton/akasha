@@ -326,5 +326,13 @@ export const otherwhereHallBack = {
       fact: "Once a salt crust scrapes off, the honey beneath draws the big bookworm's teeth to it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "One more sack of salt deep in its gullet would dry the big bookworm out; on its hide, far more.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Left alone, the big bookworm scrapes and gags off its salt and slowly recovers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
