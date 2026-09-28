@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"store-spelled-asking.module.code.ts","path":"story/ui/played-panel/modules/panel-loading/panel-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"store-spelled-asking.module.code.ts","path":"story/world/mechanics/derived/modules/derived-beside/derived-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"store-spelled-asking.module.code.ts","path":"story/world/mechanics/items/story-item/modules/character-items-beside/character-items-beside.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"store-spelled-asking.module.code.ts","path":"story/world/stories/played/modules/played-asking/played-asking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"store-spelled-asking.module.code.ts","path":"story/world/stories/played/modules/played-beside/played-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"store-spelled-asking.module.code.ts","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"store-spelled-asking.module.code.ts","path":"story/world/stories/played/modules/player-beside/player-beside.module.code.ts","typed":false,"deferred":false}

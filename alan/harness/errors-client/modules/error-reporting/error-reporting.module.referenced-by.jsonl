@@ -5,5 +5,6 @@
 {"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"alan/web/root.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"page/ui/component/modules/use-restore-read-position/use-restore-read-position.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"product/archive-of-worlds/web/root.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"story/world/stories/played/modules/played-asking/played-asking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"temper/web/root.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/errors-client/errors-client.domain.ts","id":"01a05c89-6033-7676-ba14-f9bfd36ca899"}
