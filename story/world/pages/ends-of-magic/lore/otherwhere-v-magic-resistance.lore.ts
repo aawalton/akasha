@@ -65,10 +65,6 @@ export const otherwhereVMagicResistance = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Strong magic resistance, grown far enough, can become the path of antimagic.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
       fact: "Adamant blocks magical senses.",
       knowers: ["lore-disclosure/game-master"],
     },
