@@ -25,7 +25,13 @@ export const imageEdit = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Qwen-Image-Edit-2511, redrawn by Beyond Reality 3 at 0.3, is the local editor.",
+      statement:
+        "Qwen-Image-Edit-2511, redrawn by Beyond Reality 3 at 0.3, is the local editor on the workstation.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "An edit on the workstation takes about forty seconds once both models are loaded.",
     },
     {
       decisionKind: "decision-kind/constraint",
