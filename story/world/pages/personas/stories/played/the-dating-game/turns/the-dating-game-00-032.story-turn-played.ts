@@ -10,7 +10,7 @@ export const theDatingGame00032 = {
   position: 32,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "I chuckle softly. “Thanks, I’ll gladly take you up on that. So, what brings you here? It sounds like you do this often?”",
   beats: [
@@ -27,6 +27,6 @@ export const theDatingGame00032 = {
   ],
   lore: ["lore/the-dating-game-grace"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/picture", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/picture", "story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-26T19:33:00.000Z",
 } as const satisfies StoryTurnPlayed
