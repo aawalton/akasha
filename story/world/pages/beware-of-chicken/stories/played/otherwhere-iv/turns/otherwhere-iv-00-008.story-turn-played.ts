@@ -11,4 +11,5 @@ export const otherwhereIv00008 = {
   action:
     '"This is a deep secret, and in some places men have died for speaking it. I would not want to risk your repaying your hospitality with unkindness, so let me test your readiness for this secret first. When the sun rises in the morning and sets in the evening, what is moving?"',
   lore: ["lore/otherwhere-iv-gu-household", "lore/otherwhere-iv-heavens-and-dao"],
+  endsAt: "2026-09-28T08:39:00.000Z",
 } as const satisfies StoryTurnPlayed
