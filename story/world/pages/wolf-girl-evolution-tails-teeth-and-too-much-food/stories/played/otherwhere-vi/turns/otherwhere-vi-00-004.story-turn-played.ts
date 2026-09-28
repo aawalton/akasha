@@ -4,10 +4,13 @@ export const otherwhereVi00004 = {
   id: "01a0ea41-3651-7d83-9cac-f7158cc9c053",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vi-00-004",
+  ownLength: 408,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],
   position: 4,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-vi-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I take a long drink from the running water while its next to me, then I follow the trail around the rim, hoping to find a way down below, keeping careful track of the direction the water is.",
   beats: [
