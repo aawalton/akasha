@@ -28,5 +28,6 @@ export const otherwhereIii00012 = {
   ],
   lore: ["place/otherwhere-iii-uptown-memorial-er", "place/super-supportive-artonan-consulate-4"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2037-01-31T07:09:00.000Z",
 } as const satisfies StoryTurnPlayed
