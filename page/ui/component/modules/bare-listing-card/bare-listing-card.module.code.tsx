@@ -15,6 +15,8 @@ import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import type { ReactElement } from "react"
 
+const COVER_WIDTH_ASKED = 640
+
 interface BareListingCardContext {
   readonly properties: readonly PropertyDefinition[]
   readonly pageTypeSlug: PageTypeSlug
@@ -40,7 +42,9 @@ export function RenderBareListingCard(page: PageRow, ctx: BareListingCardContext
   const pageData = pageRowToPageDataJSON(rest)
   const changeProperty = ctx.onPropertyChange
   const coverUrl =
-    ctx.galleryCardSize == null ? null : coverSource(ownCover(ctx.pageTypeSlug, page.slug))
+    ctx.galleryCardSize == null
+      ? null
+      : coverSource(ownCover(ctx.pageTypeSlug, page.slug), COVER_WIDTH_ASKED)
   const notesSlot =
     ctx.notesProperty != null ? (
       <PageCardNotes

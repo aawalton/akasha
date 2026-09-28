@@ -11,5 +11,9 @@ export const bareListingCard = {
       decisionKind: "decision-kind/departure",
       statement: "A card drawn at a gallery size shows an image page's own picture as its cover.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That cover is asked for at a card's width rather than at the picture's own size.",
+    },
   ],
 } as const satisfies Module
