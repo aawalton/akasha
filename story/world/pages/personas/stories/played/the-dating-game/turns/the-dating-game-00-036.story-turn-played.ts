@@ -26,5 +26,6 @@ export const theDatingGame00036 = {
     'The corner of her red mouth lifts. "Nothing\'s ever far away, for you. I think I like that."',
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/picture"],
+  recordedBy: ["story-recorder/picture", "story-recorder/mechanics"],
+  endsAt: "2026-09-26T19:40:00.000Z",
 } as const satisfies StoryTurnPlayed
