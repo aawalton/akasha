@@ -4,7 +4,7 @@ export const otherwhereLinks = {
   id: "01a0e364-3bbd-77ae-910f-2230cc84f779",
   type: "page-type/world-relationship",
   slug: "otherwhere-links",
-  title: "Alan and Links",
+  title: "Nala and Links",
   world: "world/library-system-reset-overdue-book-four-stubbed",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
   relationshipPoints: 60,

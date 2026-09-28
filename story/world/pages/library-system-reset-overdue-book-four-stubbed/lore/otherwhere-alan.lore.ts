@@ -4,7 +4,7 @@ export const otherwhereAlan = {
   id: "01a0e351-5e01-72bb-84a6-ff6eda9ca6a6",
   type: "page-type/lore",
   slug: "otherwhere-alan",
-  title: "Alan",
+  title: "Nala",
   world: "world/library-system-reset-overdue-book-four-stubbed",
   about: "character-player/otherwhere-alan",
   facts: [

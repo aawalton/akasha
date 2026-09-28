@@ -4,7 +4,7 @@ export const otherwhereAlan = {
   id: "01a0e34f-a2e5-71de-b0c7-51425a39f660",
   type: "page-type/character-player",
   slug: "otherwhere-alan",
-  title: "Alan",
+  title: "Nala",
   story: "story-played/otherwhere",
   person: "person/alan",
   cover: "image/image-17f59c7233925455",
