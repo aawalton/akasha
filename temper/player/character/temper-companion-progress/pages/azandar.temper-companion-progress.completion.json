@@ -1,7 +1,6 @@
 {
   "build": {
-    "hash": "AjEIYtC0LQtC0LQtDQ0NGNISIJCyxQA",
-    "mainHandWeaponType": 9,
+    "companionId": 9,
     "weapons": {
       "1": {
         "isEmpty": false,
@@ -21,6 +20,15 @@
           "3": 0.5
         }
       }
+    },
+    "mainHandWeaponType": 9,
+    "skillAbilityIds": {
+      "1": 193130,
+      "2": 153685,
+      "3": 192574,
+      "4": 192937,
+      "5": 155408,
+      "6": 195103
     },
     "armor": {
       "1": {
@@ -116,15 +124,7 @@
         }
       }
     },
-    "companionId": 9,
-    "skillAbilityIds": {
-      "1": 193130,
-      "2": 153685,
-      "3": 192574,
-      "4": 192937,
-      "5": 155408,
-      "6": 195103
-    }
+    "hash": "AjEIYtC0LQtC0LQtDQ0NGNISIJCyxQA"
   },
   "targetBuildHash": "AjEAYALQtC0LQtCAAQ0NDRjSE2CQgA",
   "level": 20,
