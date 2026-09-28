@@ -43,6 +43,11 @@ export const alanWebApiSmsWebhook = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A text reaches the alan seat whether or not its page is there, since a message revives it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A write the pages service refused is answered 503 rather than as a delivered receipt.",
     },
     {

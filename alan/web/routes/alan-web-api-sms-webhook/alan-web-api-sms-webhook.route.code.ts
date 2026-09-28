@@ -157,9 +157,12 @@ export async function action({ request }: { request: Request }): Promise<Respons
     return Response.json({ error: seats.refused }, { status: 503 })
   }
 
-  const seated = new Set(
-    seats.rows.map((row) => saidIn(row.slug)).filter((slug): slug is string => slug !== undefined)
-  )
+  const seated = new Set([
+    HANDLER_SEAT,
+    ...seats.rows
+      .map((row) => saidIn(row.slug))
+      .filter((slug): slug is string => slug !== undefined),
+  ])
   const identities = identitiesIn(asked.rows)
   const held: { unlanded: string | null } = { unlanded: null }
 
