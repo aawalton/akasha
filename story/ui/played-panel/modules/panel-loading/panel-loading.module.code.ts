@@ -1,10 +1,13 @@
 "use client"
 
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
-import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
 import type { PanelDrawing } from "akasha/story/ui/played-panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import { offerDrawing } from "akasha/story/ui/played-panel/modules/panel-offering/panel-offering.module.code.tsx"
 import { playedPanel } from "akasha/story/ui/played-panel/played-panel.page-type.ts"
+import {
+  askedLoudly,
+  reportThrown,
+} from "akasha/story/world/stories/played/modules/played-asking/played-asking.module.code.ts"
 import { type ReactElement, useEffect, useState } from "react"
 
 const SLUG_KEY = "slug"
@@ -68,7 +71,7 @@ export async function drawnFrom(body: string): Promise<Drawn | null> {
 }
 
 async function bodiesFor(): Promise<ReadonlyMap<string, Held>> {
-  const asked = await askComposed({
+  const asked = await askedLoudly({
     "page-type": playedPanel.slug,
     keys: [SLUG_KEY, DRAWN_KEY, PLACE_KEY, POSITION_KEY],
     files: [DRAWN_KEY],
@@ -119,7 +122,8 @@ export async function panelsSettled(
 ): Promise<readonly Shown[]> {
   try {
     return await load(named)
-  } catch {
+  } catch (thrown) {
+    reportThrown(`loading the panels ${named.join(", ")}`, thrown)
     return NONE
   }
 }

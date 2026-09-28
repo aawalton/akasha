@@ -36,6 +36,10 @@ export const panelLoading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A load that fails and a question the store refuses are reported.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The panels come back in the order of their positions, not the order the game names.",
     },
