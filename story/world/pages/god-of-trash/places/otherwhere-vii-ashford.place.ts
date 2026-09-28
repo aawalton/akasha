@@ -83,5 +83,29 @@ export const otherwhereViiAshford = {
       fact: "Headman Aldo Reeve will turn out a stranger who looks like trouble, or a runaway someone wants.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The midden behind the mill holds ash, bones, broken pots, rotten straw and worn-out clogs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The miller lets anyone pick his midden, but sets his dog on anyone near the grain store.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hild buys yarrow, nettle and comfrey by the bunch, a quarter-penny each, fresh cut.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hild's cures are herbs and boiled water; she has never held a mage's potion.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A pair of wooden clogs costs three pennies from Ashford's clogger, and bark shoes one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The river at the ford runs clean and knee-deep, and Ashford's women wash linen there mornings.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
