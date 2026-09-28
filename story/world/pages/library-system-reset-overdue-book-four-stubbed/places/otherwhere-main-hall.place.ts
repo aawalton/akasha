@@ -32,7 +32,7 @@ export const otherwhereMainHall = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Shelf Sight, a book whose power shows a glanced book's shelf, lies in a heap near the counter.",
+      fact: "Shelf Sight is a book whose power shows a glanced book's shelf.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-alan",
