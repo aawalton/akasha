@@ -5,7 +5,7 @@ export const otherwhereVNala = {
   type: "page-type/otherwhere-v-health",
   slug: "otherwhere-v-nala",
   character: "character-player/otherwhere-v-nala",
-  value: 5,
+  value: 0,
   minValue: 0,
   maxValue: 20,
   history: "jsonl",
