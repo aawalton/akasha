@@ -4,6 +4,8 @@ export const imageA5284da791b68e1b = {
   id: "01a0e9df-7906-75df-92c5-efcc049d27a0",
   type: "page-type/image",
   slug: "image-a5284da791b68e1b",
+  title: "Honey Curls Laughing in the Lavender",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
