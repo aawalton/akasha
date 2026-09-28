@@ -1,4 +1,5 @@
 {"propertySlug":"assignment-slug","path":"agent/seat/pages/iris/iris.seat.ts","id":"01a0e348-87c3-7000-92ae-99d2bafd763b"}
+{"propertySlug":"assignment-slug","path":"agent/subagent/pages/iris-ad5f9184d0e3e9155/iris-ad5f9184d0e3e9155.subagent.ts","id":"01a0e9dc-a8a4-7db1-a4df-4e17f67672bb"}
 {"propertySlug":"championed-domain","path":"persona/pages/akasha/akasha.persona.ts","id":"01a04978-48a1-79c8-8ea9-840a19c247da"}
 {"propertySlug":"import","fileName":"akasha.domain.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"akasha.domain.ts","path":"agent/subagent/modules/census/subagent-census.module.test-fixtures.ts","typed":false,"deferred":false}
