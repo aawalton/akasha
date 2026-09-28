@@ -27,4 +27,5 @@ export const theDatingGame00046 = {
     "\"You land on your heels like you're mad at the ground. That's gonna be our step two.\"",
   ],
   lore: ["lore/the-dating-game-aelwyn"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
