@@ -21,7 +21,7 @@ const MAP_PANEL = "flex flex-col gap-3 rounded-xl p-4 shadow-sm"
 const MAP_HEAD =
   "flex items-baseline justify-between font-mono text-[10px] uppercase tracking-[0.2em]"
 
-const MAP_FLOOR = "grid grid-cols-2 gap-2"
+const MAP_FLOOR = "flex flex-col gap-1.5"
 
 const ROOM = "flex items-center gap-2 rounded-lg border px-3 py-2 text-[13px] leading-tight"
 
@@ -79,7 +79,7 @@ function RoomTile({ room }: { readonly room: MapRoom }) {
   return (
     <li className={room.lit ? ROOM_LIT : ROOM_DARK}>
       <span aria-hidden className={room.lit ? LAMP_LIT : LAMP_DARK} />
-      <span className="min-w-0 flex-1 truncate">{room.title}</span>
+      <span className="min-w-0 flex-1">{room.title}</span>
       <span className="sr-only">{room.lit ? "lit" : "dark"}</span>
     </li>
   )
