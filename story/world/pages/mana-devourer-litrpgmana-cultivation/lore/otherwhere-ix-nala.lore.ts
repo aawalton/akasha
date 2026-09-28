@@ -124,10 +124,7 @@ export const otherwhereIxNala = {
       fact: "Her status lists Strength, Agility, Arcana, Constitution, Spirit, and a greyed [???: 0].",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Her numbers are kept on her health, mana, level and attribute pages.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "Nala is G Grade; her mana core, low in her belly, makes G Grade Spirit Mana.",
       knowers: ["lore-disclosure/game-master"],
