@@ -4,10 +4,13 @@ export const otherwhereIv00004 = {
   id: "01a0ea19-8b21-7aea-9f01-1b70c1341a40",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-004",
+  ownLength: 562,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],
   position: 4,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     '"I do not have all knowledge, but I might still be able to help. Let us talk while we walk. What possibilities have you considered? What have you eliminated and how?"',
   beats: [
