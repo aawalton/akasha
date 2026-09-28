@@ -11,4 +11,5 @@ export const irisReviewerOtherwhereViFlex2 = {
   startMode: "seat-mode/headless",
   onCall: false,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "553120a9-d45e-4d76-ac0a-0a482b11b159",
 } as const satisfies Seat
