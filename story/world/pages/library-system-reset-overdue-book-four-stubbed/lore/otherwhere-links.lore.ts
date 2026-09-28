@@ -81,6 +81,10 @@ export const otherwhereLinks = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Links keeps his senses out of the Librarian's quarters unless she calls him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Links makes bad puns and laughs at them, and says he is an open book.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
