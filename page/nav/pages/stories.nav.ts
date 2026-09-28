@@ -6,7 +6,7 @@ export const stories = {
   slug: "stories",
   title: "Stories",
   icon: "Library",
-  navPlace: 41,
+  navPlace: 3,
   app: "web-app/alanwalton-web",
   navParent: null,
   mobilePinOrder: 2,
