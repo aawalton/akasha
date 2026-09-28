@@ -4,13 +4,14 @@ export const theDatingGame00048 = {
   id: "01a0e837-3293-7d7b-ad6c-134bbcd04ea5",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-048",
+  cover: "image/image-9b560b875bcfa62c",
   ownLength: 128,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 48,
   prose: "txt",
   characters: ["character-other/the-dating-game-aelwyn", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: "I try to follow her instructions, sneaking towards her.",
   beats: [
     "He tries it, short steps and soft knees, sneaking across the grass toward her.",
@@ -25,6 +26,6 @@ export const theDatingGame00048 = {
   ],
   lore: ["lore/the-dating-game-aelwyn"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-27T11:54:00.000Z",
 } as const satisfies StoryTurnPlayed

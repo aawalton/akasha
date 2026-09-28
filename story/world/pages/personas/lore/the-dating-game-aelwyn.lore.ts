@@ -173,5 +173,29 @@ export const theDatingGameAelwyn = {
         "character-other/the-dating-game-aelwyn",
       ],
     },
+    {
+      fact: "Alan crossed the grass to Aelwyn with quiet feet, and she whooped that the deer never knew.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-aelwyn",
+      ],
+    },
+    {
+      fact: "Aelwyn set Alan's first real session for Wednesday at six o'clock, after her shift.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-aelwyn",
+      ],
+    },
+    {
+      fact: "Alan's first real session with Aelwyn is on the Provo River Trail, at the mouth of the canyon.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-aelwyn",
+      ],
+    },
   ],
 } as const satisfies Lore
