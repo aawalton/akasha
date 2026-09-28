@@ -93,7 +93,7 @@ export const otherwhereIiiUptownMemorialEr = {
     },
     {
       fact: "A doctor sees her feet, finds frostnip only, and asks nothing about papers.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "The triage nurse is Marcus, a big, calm man in his thirties with a shaved head.",
@@ -117,7 +117,7 @@ export const otherwhereIiiUptownMemorialEr = {
     },
     {
       fact: "Later registration runs name and birth date for insurance and finds no match anywhere.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "No match means a self-pay chart, a note for the social worker, and no questions from police.",
@@ -161,27 +161,27 @@ export const otherwhereIiiUptownMemorialEr = {
     },
     {
       fact: "The waiting-room TV runs a Chicago morning channel on mute, captioned: news, weather and ads.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "A caption dates the broadcast Saturday, January 31, 2037.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "Skiff, a Chicago hero, looks strained and soaked in the footage, talking to reporters on a pier.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "A segment marks six months since the hero Hannah Elber left on a System summons and never came back.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "Hannah Elber was an A-rank Adjuster, once battlefield support to the Chicago hero Arjun Thomas.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "Captions say her memorial is set for February 13 on Anesidora Island if she has not returned.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "A crawl runs hero sightings and a reminder that all Avowed must register with the government.",
@@ -189,19 +189,27 @@ export const otherwhereIiiUptownMemorialEr = {
     },
     {
       fact: "Weather: snow tapering by noon, a high of nineteen, colder tonight, more snow Monday.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "Ads run for Anesidora tourism, a lawyer for superhuman-incident claims, and consulate classes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "Sports: the Bulls lost at home last night; the Blackhawks play tonight.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "Lead story: Skiff hauled the earth-shaper from under the lake; the villain is in intensive care.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
+      fact: "A news crawl runs hero sightings by neighborhood, then: REMINDER — ALL AVOWED MUST REGISTER.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
+      fact: "With no insurance match, registration asks the patient for a Social Security number or any ID.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
   ],
   within: "place/otherwhere-iii-chicago",
