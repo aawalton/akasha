@@ -110,6 +110,8 @@
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-wiam.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-yelun.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-abrah.world-character.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-altok-acolyte.world-character.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-announcer.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-appraiser.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-armoury-guard.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-arthritic-imp.world-character.ts","typed":true,"deferred":false}
@@ -120,6 +122,7 @@
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-drathok.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-drathoks-daughter.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-elasar.world-character.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-eldrae-prisoner.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-ember.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-farros.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-halvard.world-character.ts","typed":true,"deferred":false}
