@@ -4,6 +4,8 @@ export const imageA2505ec9ec6aa14e = {
   id: "01a0e9de-0ddb-71eb-8303-814cd27d2305",
   type: "page-type/image",
   slug: "image-a2505ec9ec6aa14e",
+  title: "Watermelon and a Magazine by the Picnic Basket",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
