@@ -18,6 +18,9 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-davion.world-character.ts","id":"01a0e9f9-65df-7135-bd2e-8687aa40b673"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-deiman.world-character.ts","id":"01a0e9f9-65df-7045-8acf-5a385121f70e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-delric.world-character.ts","id":"01a0e9f9-65df-7697-9f96-0c15cf1acbae"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-dennar.world-character.ts","id":"01a0e9f9-d8c2-7208-8f28-b9c9d427209f"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-dravik.world-character.ts","id":"01a0e9f9-d8c3-76db-82af-4208e17be6ef"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-edes.world-character.ts","id":"01a0e9f9-d8c3-771a-98d7-99e1bb89d97f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-nathan-lark.world-character.ts","id":"01a0e9f5-00f8-7d2d-9a68-889656e360ef"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-nol-dho-chokiz.world-character.ts","id":"01a0e9f9-115e-7d3e-8bfe-6ef5eda7860d"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-ogarius.world-character.ts","id":"01a0e9f7-96f0-7fbd-bbd3-3e62202b2113"}
@@ -67,6 +70,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-davrar.lore.ts","id":"01a0e9e8-d642-7142-965b-86465a26f55b"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-deiman.lore.ts","id":"01a0e9f9-65e0-782f-9bce-05b6c988c1ce"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-delric.lore.ts","id":"01a0e9f9-65e0-7aa8-ae04-b5bb19890ad2"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-dennar.lore.ts","id":"01a0e9f9-d8c4-77cf-9d22-060569df67e7"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-development.lore.ts","id":"01a0e9f9-22e7-7552-a16d-e40d7fcb6d91"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-diplomats-friend.lore.ts","id":"01a0e9f9-8feb-7e96-a709-40c17fd31e55"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-disadvantage.lore.ts","id":"01a0e9f8-2dc4-7ed1-bb2d-afa5064c96df"}
@@ -74,8 +78,10 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-dracolizard.lore.ts","id":"01a0e9f8-965e-7052-9329-b2fc13974c65"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-dragon.lore.ts","id":"01a0e9f8-f7c6-711c-838b-63ee27eebf5f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-dragonwolf.lore.ts","id":"01a0e9f8-965f-79b1-a734-775d07cac990"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-dravik.lore.ts","id":"01a0e9f9-d8c4-751d-8317-0b7f76162efc"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-earth-born-bodies.lore.ts","id":"01a0e9f9-19f5-7504-a9e2-47d60483f680"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-earth-born.lore.ts","id":"01a0e9f6-d213-7854-95cf-fd845269d68c"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-edes.lore.ts","id":"01a0e9f9-d8c4-7970-8f55-8acb61c9414e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-edicts.lore.ts","id":"01a0e9f4-c9f7-76cb-87ef-1e2091c3743b"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-elemental-folk.lore.ts","id":"01a0e9f4-fc80-7f28-b389-0e2387029ba8"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-elk-centaur.lore.ts","id":"01a0e9f4-0046-79c1-900f-9444ea5f32d6"}
