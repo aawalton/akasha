@@ -1089,6 +1089,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-flashlight-spell.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-flickerer.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-flight-license.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-flyer-bubble.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-focusing-tool.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-force-of-the-body.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-forgetful-travelers-bag.lore.ts","typed":true,"deferred":false}
@@ -1300,6 +1301,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-quest.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-quick-embroidery.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-quinyeth-wit.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-rabbit-recall.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-rabbit-welcome.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-rabbit.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-rahul.lore.ts","typed":true,"deferred":false}
@@ -1363,6 +1365,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-sophie.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-soren.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-sowing-spell.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-speed-wordchain.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-spell-abbreviation.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-spell-impression.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-spell-of-old-wounds.lore.ts","typed":true,"deferred":false}
@@ -1394,6 +1397,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-tellingbush.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-temper-sphere.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-ten-ring-set.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-terackerin.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-tesen-arth.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-the-ensnarer-of-minds.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-the-eye-of-a-thousand-instants.lore.ts","typed":true,"deferred":false}
@@ -1436,6 +1440,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-voting-power.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-wardrobe.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-warin-doyis.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-weapon-recall.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-welcome-end.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-weld.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-weset.lore.ts","typed":true,"deferred":false}
