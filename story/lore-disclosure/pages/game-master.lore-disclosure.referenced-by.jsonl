@@ -219,6 +219,7 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-yelun.lore.ts","id":"01a0e9f9-115f-7ff9-ae0e-05c2cfb799cb"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-zombie.lore.ts","id":"01a0e9fb-482c-7be4-9ee0-af73b538d28f"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-agmon.place.ts","id":"01a0e9f4-f9b2-7837-b29b-afb85b547847"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-ancestor-shrine.place.ts","id":"01a0e9ff-99c6-72f1-9004-c9a5c25727c7"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-ardglass.place.ts","id":"01a0e9f5-b468-7eeb-9952-9692612ed8ba"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-arena-of-the-concord.place.ts","id":"01a0e9fa-9135-7810-b517-cac582ae7388"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-ascendant-academy.place.ts","id":"01a0e9f3-448a-73d9-9b80-820afab7510a"}
@@ -285,6 +286,8 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-serrin-vale.place.ts","id":"01a0e9fa-bb14-719e-9b61-6cdb9859ff5b"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-serrinford-green.place.ts","id":"01a0e9fe-958d-731d-ac97-4fb573113c86"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-serrinford-ranger-lodge.place.ts","id":"01a0e9ff-1527-7629-8a06-bcab158eb8cf"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-serrinford-sawyard.place.ts","id":"01a0e9ff-99c7-7fe3-bd3d-15b7ca87656e"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-serrinford-smithy.place.ts","id":"01a0e9ff-99c7-7614-ac4b-d2b226c74de6"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-serrinford.place.ts","id":"01a0e9fd-9ce6-7cea-9cd4-0379b6b8ce14"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-split-log.place.ts","id":"01a0e9ff-1528-78f6-b8dd-061f068616a7"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/ends-of-magic/places/otherwhere-v-stanek.place.ts","id":"01a0e9f9-26ed-7864-afc1-a79e2d7f4969"}
