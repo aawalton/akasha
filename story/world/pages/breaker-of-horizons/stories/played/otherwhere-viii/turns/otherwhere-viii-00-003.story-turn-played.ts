@@ -4,6 +4,7 @@ export const otherwhereViii00003 = {
   id: "01a0ea59-b1a3-71bb-9d2e-d2886a26adf4",
   type: "page-type/story-turn-played",
   slug: "otherwhere-viii-00-003",
+  cover: "image/image-29ae5500b49f4e20",
   ownLength: 239,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-viii"],
@@ -33,6 +34,6 @@ export const otherwhereViii00003 = {
   ],
   lore: ["place/otherwhere-viii-weir-gardens", "place/otherwhere-viii-low-bank"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T05:50:00.000Z",
 } as const satisfies StoryTurnPlayed
