@@ -14,7 +14,7 @@ export const theDatingGameTalia = {
     },
     {
       fact: "Talia has dark hair, warm olive skin, thick low brows and light blue-grey eyes; she is 25.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
     {
       fact: "Talia's hair is always damp and beads of water sit on her skin, yet pages she holds stay dry.",
