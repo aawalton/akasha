@@ -6,7 +6,28 @@ export const otherwhereViiiWeirGardens = {
   slug: "otherwhere-viii-weir-gardens",
   title: "Weir Gardens",
   world: "world/breaker-of-horizons",
+  within: "place/otherwhere-viii-carrowgate",
   facts: [
+    {
+      fact: "Weir Gardens is in Low Bank, a riverside district of the city of Carrowgate.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The river at the weir is the Carrow, which runs south through the city.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The warden is Orrin Maddox, a gruff, decent man in his fifties, twenty years on the job.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Maddox takes a barefoot, underdressed stranger for someone robbed or out on a bad night.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Maddox points the lost to the Weir Street police post, or the Tanners Row charity kitchen.",
+      knowers: ["lore-disclosure/game-master"],
+    },
     {
       fact: "Weir Gardens is a small public park of lawns, plane trees and iron benches beside a river weir.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
