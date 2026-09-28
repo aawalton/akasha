@@ -24,4 +24,5 @@ export const otherwhere00060 = {
     "A second window unfolds beneath it, one she has never seen: Tasks.",
     "Current Task: Restore the Check-in Counter. Library Power: 72 / 75.",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
