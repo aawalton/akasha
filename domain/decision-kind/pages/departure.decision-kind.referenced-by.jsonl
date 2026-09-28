@@ -3863,6 +3863,7 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/checks/otherwhere-harm.world-check.ts","id":"01a0e996-0a34-7c37-ac8e-10400ca3107b"}
 {"propertySlug":"decision-kind","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/checks/otherwhere-needs.world-check.ts","id":"01a0e993-be67-7db9-998f-26e3ccb4f5f9"}
 {"propertySlug":"decision-kind","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/checks/otherwhere-time-passing.world-check.ts","id":"01a0e992-4350-774a-964f-a8e84e8dd4dc"}
+{"propertySlug":"decision-kind","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/metrics/attributes/ability/otherwhere-ability.page-type.ts","id":"01a0e9a0-abb2-71b3-a68c-d5d670d3aeaa"}
 {"propertySlug":"decision-kind","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/metrics/attributes/charisma/otherwhere-charisma.page-type.ts","id":"01a0e998-6521-7fdb-9a5f-dfa9e55ce111"}
 {"propertySlug":"decision-kind","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/metrics/attributes/creativity/otherwhere-creativity.page-type.ts","id":"01a0e998-6522-7394-adda-34f90b7eee7f"}
 {"propertySlug":"decision-kind","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/mechanics/metrics/attributes/dexterity/otherwhere-dexterity.page-type.ts","id":"01a0e998-6522-7367-9547-c672fe1e79fe"}
