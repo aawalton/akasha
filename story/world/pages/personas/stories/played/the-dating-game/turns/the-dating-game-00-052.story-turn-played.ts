@@ -7,6 +7,7 @@ export const theDatingGame00052 = {
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 52,
-  turnStatus: "turn-status/world-builder",
+  turnStatus: "turn-status/game-master",
   action: "\"Hi there, I'm Alan, what's your name?\"",
+  lore: ["lore/the-dating-game-talia"],
 } as const satisfies StoryTurnPlayed
