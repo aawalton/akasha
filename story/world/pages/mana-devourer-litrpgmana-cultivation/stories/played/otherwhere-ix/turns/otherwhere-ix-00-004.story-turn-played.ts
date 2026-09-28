@@ -4,13 +4,13 @@ export const otherwhereIx00004 = {
   id: "01a0ea4d-b4a7-7c44-a671-e8e7c9c24d57",
   type: "page-type/story-turn-played",
   slug: "otherwhere-ix-00-004",
-  ownLength: 260,
+  ownLength: 262,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],
   position: 4,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "As it gets close, I jump up into the air as high as I can, then try to land on top of it with all of my weight.",
   beats: [
