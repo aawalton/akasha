@@ -10,7 +10,7 @@ export const otherwhereVi00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-vi-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     '"Okay" I say quietly to myself. "This is definitely not Earth. Isekai protocol. System? Status? Character Sheet? Menu?" I focus on myself and see if anything comes up.',
   beats: [
@@ -32,6 +32,7 @@ export const otherwhereVi00002 = {
     "The forest to the north, where the howling came from, is silent now.",
     "She stands in a wet, freezing hollow with a status and nothing else; it is her move.",
   ],
+  issues: ['"You are in a wet, freezing hollow, with a status and nothing else." - Leave It Open'],
   lore: ["lore/otherwhere-vi-system", "lore/otherwhere-vi-nala"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
