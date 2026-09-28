@@ -1,5 +1,4 @@
 import { unclaimedTo } from "akasha/agent/message/modules/file/agent-message-file.module.code.ts"
-import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 
 export interface InboundMessageRow {
   readonly sender_agent_id: string | null
@@ -17,12 +16,4 @@ export function inboundMessagesTo(to: string): Promise<readonly InboundMessageRo
       content: one.body,
     }))
   )
-}
-
-export function getAgentInboundMessages(
-  targetAgentId: string
-): Promise<readonly InboundMessageRow[]> {
-  const to = seatNameForAgent(targetAgentId)
-  if (to === null) return Promise.resolve([])
-  return inboundMessagesTo(to)
 }

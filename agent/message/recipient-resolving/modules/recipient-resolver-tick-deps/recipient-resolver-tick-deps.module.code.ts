@@ -12,7 +12,6 @@ export interface RecipientResolverAgentRow {
 export interface RecipientResolverTickDeps {
   readonly specs: readonly OnDemandAgentSpec[]
   readonly resolveAgent: (name: string) => Promise<RecipientResolverAgentRow | null>
-  readonly readInbound: (agentId: string) => Promise<readonly CommsInput[]>
   readonly readInboundTo: (name: string) => Promise<readonly CommsInput[]>
   readonly startFirst: (name: string, firstStart: FirstStart) => Promise<void>
   readonly revive: (agentId: string, bootPrompt: string | undefined) => Promise<ReviveVerifySignal>

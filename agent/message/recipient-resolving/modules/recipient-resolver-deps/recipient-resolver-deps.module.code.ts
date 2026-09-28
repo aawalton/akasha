@@ -4,7 +4,6 @@ import {
 } from "akasha/agent/message/recipient-resolving/modules/keeper-unrevivable-push/keeper-unrevivable-push.module.code.ts"
 import type { RecipientResolverConfig } from "akasha/agent/message/recipient-resolving/modules/recipient-resolver-config/recipient-resolver-config.module.code.ts"
 import {
-  getAgentInboundMessages,
   type InboundMessageRow,
   inboundMessagesTo,
 } from "akasha/agent/message/recipient-resolving/modules/recipient-resolver-inbound/recipient-resolver-inbound.module.code.ts"
@@ -33,10 +32,6 @@ export async function defaultRecipientResolverDeps(
   const deps: Omit<RecipientResolverTickDeps, "specs"> = {
     resolveAgent: async (name): Promise<RecipientResolverAgentRow | null> =>
       seatIdentityForName(name, resolveRoots()),
-    readInbound: async (agentId): Promise<readonly CommsInput[]> => {
-      const messages = await getAgentInboundMessages(agentId)
-      return messages.map(toCommsInput)
-    },
     readInboundTo: async (name): Promise<readonly CommsInput[]> => {
       const messages = await inboundMessagesTo(name)
       return messages.map(toCommsInput)

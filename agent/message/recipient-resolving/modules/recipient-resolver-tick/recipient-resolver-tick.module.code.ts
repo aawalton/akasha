@@ -57,7 +57,7 @@ async function processSpec(
   }
 
   const seatIsAbsent = !(await deps.seatIsPresent(row.id))
-  const inbound = await deps.readInbound(row.id)
+  const inbound = await deps.readInboundTo(spec.name)
   const shouldRevive = inbound.some(
     (comms) =>
       decideWakeMatch({ seatIsAbsent, comms, wakeSources: spec.wakeSources }).kind === "revive"

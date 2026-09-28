@@ -44,7 +44,6 @@ function ranWith(spec: OnDemandAgentSpec, over: Partial<RecipientResolverTickDep
   const deps: RecipientResolverTickDeps = {
     specs: [spec],
     resolveAgent: async () => null,
-    readInbound: async () => [FROM_THE_BAR],
     readInboundTo: async () => [FROM_THE_BAR],
     startFirst: async (name, as) => {
       started.push({ name, as })
@@ -89,4 +88,18 @@ test("a seat that ran before is revived rather than started again", async () => 
   await runRecipientResolverTick(deps)
   expect(revived).toEqual(["agent-one"])
   expect(started).toEqual([])
+})
+
+test("a seat whose page went is revived for what waits under its name", async () => {
+  const asked: string[] = []
+  const { deps, revived } = ranWith(specWith(START), {
+    resolveAgent: async () => ({ id: "agent-one" }),
+    readInboundTo: async (name) => {
+      asked.push(name)
+      return [FROM_THE_BAR]
+    },
+  })
+  await runRecipientResolverTick(deps)
+  expect(asked).toEqual([SEAT])
+  expect(revived).toEqual(["agent-one"])
 })

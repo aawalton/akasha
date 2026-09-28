@@ -9,11 +9,7 @@ export const recipientResolverInbound = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "An agent with no seat name has nothing waiting.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "What waits for a seat that never ran is read by the seat's name.",
+      statement: "What waits for a seat is read by the seat's name, with or without its page.",
     },
     {
       decisionKind: "decision-kind/departure",

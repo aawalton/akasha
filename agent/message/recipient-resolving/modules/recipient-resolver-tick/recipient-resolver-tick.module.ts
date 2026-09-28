@@ -24,6 +24,10 @@ export const recipientResolverTick = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A seat whose page went is revived for what waits under its name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A spec whose work outruns its timeout is abandoned and taken up next tick.",
     },
     {
