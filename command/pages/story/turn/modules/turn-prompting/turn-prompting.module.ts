@@ -28,6 +28,11 @@ export const turnPrompting = {
       statement: "A recorder's prompt says to draft its edits and never land them.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A recorder's prompt names every page the game master already wrote the turn onto.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A prompt carries no directive, since the seat's role and persona hold those.",
     },

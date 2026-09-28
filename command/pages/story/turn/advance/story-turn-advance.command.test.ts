@@ -14,6 +14,7 @@ import {
   ENDED,
   LANDED,
   landingInto,
+  MARA_HEALTH,
   MARA_LORE,
   MASTER,
   MOVED,
@@ -23,7 +24,10 @@ import {
   seatOf,
   seen,
 } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.test-fixtures.ts"
-import { loreLine } from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
+import {
+  loreLine,
+  writtenLine,
+} from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
 import type {
   Reach,
   Turn,
@@ -188,6 +192,7 @@ test("the writer's first prose lands beside the turn and starts one fresh seat f
   expect(prompt).toContain("its prose")
   expect(prompt).toContain("reviewers/continuity.story-reviewer.instructions.md")
   expect(prompt).toContain(`The lore in play on the turn is on \`${MARA_LORE}\`.`)
+  expect(prompt).not.toContain(MARA_HEALTH)
   expect(prompt).toContain(
     `${CALLED} --turn story-turn-played/${SLUG} --reviewer continuity --issues-file <path>`
   )
@@ -239,6 +244,7 @@ test("the writer's rewrite skips the reviewers, moving the turn to the recorders
   expect(prompt).toContain(AT)
   expect(prompt).toContain("recorders/memory.story-recorder.instructions.md")
   expect(prompt).toContain("akasha change apply --draft")
+  expect(prompt).toContain(writtenLine([MARA_HEALTH]))
   expect(prompt).toContain(`${CALLED} --turn story-turn-played/${SLUG} --recorder memory`)
   expect(into.notices).toEqual(toldAll("recorders"))
   expect(into.stops).toEqual([])

@@ -281,6 +281,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/story/turn/modules/turn-keeping/turn-keeping.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/story/turn/modules/turn-ready-pushing/turn-ready-pushing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/story/turn/modules/turn-written/turn-written.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/story/turn/rewind/story-turn-rewind.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/track/food/track-food.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/track/modules/session-rows/session-rows.module.code.ts","typed":false,"deferred":false}

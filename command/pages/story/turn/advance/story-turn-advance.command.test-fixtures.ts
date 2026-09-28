@@ -19,6 +19,8 @@ export const MASTER = "mari-game-master-the-saga"
 
 export const MARA_LORE = "world/lore/mara.lore.ts"
 
+export const MARA_HEALTH = "stories/the-saga/mechanics/health/mara.the-saga-health.ts"
+
 export const LANDED = {
   base: "",
   landed: [],
@@ -161,6 +163,7 @@ export function reachOver(
     },
     loreOf: () => [MARA_LORE],
     changedLore: () => [],
+    writtenOn: () => [MARA_HEALTH],
     readyPushed: async (_root, game, at) => {
       into.pushes.push(`${game} ${at}`)
       return null

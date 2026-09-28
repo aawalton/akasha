@@ -33,6 +33,7 @@ import {
   readyNotified,
   readyTold,
 } from "akasha/command/pages/story/turn/modules/turn-ready-pushing/turn-ready-pushing.module.code.ts"
+import { writtenIndexed } from "akasha/command/pages/story/turn/modules/turn-written/turn-written.module.code.ts"
 
 import {
   listedAt,
@@ -153,6 +154,7 @@ export type Reach = {
     characters: readonly string[]
   ) => readonly string[]
   readonly changedLore: (root: string, seat: string) => readonly string[]
+  readonly writtenOn: (root: string, turn: Turn) => readonly string[]
   readonly readyPushed: ReadyPushing
 }
 
@@ -362,6 +364,7 @@ export const REACHED: Reach = {
   notify: noticeSent,
   loreOf: loreIndexed,
   changedLore: changedLoreOfSeat,
+  writtenOn: writtenIndexed,
   readyPushed: readyNotified,
 }
 

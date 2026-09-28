@@ -23,6 +23,7 @@ export type Prompting = {
   readonly address: string
   readonly calledAs: string
   readonly lore: readonly string[]
+  readonly written: readonly string[]
 }
 
 const PATH = "<path>"
@@ -34,6 +35,15 @@ export function loreLine(lore: readonly string[]): string {
 
 function loreSaid(lore: readonly string[]): readonly string[] {
   return lore.length === 0 ? [] : ["", loreLine(lore)]
+}
+
+export function writtenLine(written: readonly string[]): string {
+  const named = written.map((one) => `\`${one}\``).join(", ")
+  return `The game master has written this turn onto ${named} already, each of which has a history line for the turn. Match what the prose shows against those pages before filing any page, and write none of those changes again.`
+}
+
+function writtenSaid(written: readonly string[]): readonly string[] {
+  return written.length === 0 ? [] : ["", writtenLine(written)]
 }
 
 const DRAFTING = "akasha change apply --draft"
@@ -58,6 +68,7 @@ export function recorderPrompt(asked: Prompting, recorder: Recorder): string {
     `You are the ${recorder.name} story recorder, recording what one turn of ${asked.title} changed now that its prose is written.`,
     "",
     `The turn is \`${asked.turnAt}\`, with its prose beside it. Your instructions are \`${recorder.instructionsAt}\`, beside the story recorder page \`${recorder.at}\`.`,
+    ...writtenSaid(asked.written),
     "",
     `Read your instructions, then the turn and its prose, and do what the instructions say. Draft your edits with \`${DRAFTING}\`, never land them: the advance lands every recorder's drafted edits with the turn's move to player. When your edits are drafted, advance the turn once:`,
     "",

@@ -1365,6 +1365,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/turn/modules/turn-prompting/turn-prompting.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/turn/modules/turn-reaching/turn-reaching.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/turn/modules/turn-ready-pushing/turn-ready-pushing.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/turn/modules/turn-written/turn-written.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/temper/catalog/import-lore-books/modules/lore-book-planning/lore-book-planning.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/temper/catalog/import-lore-books/modules/lore-book-rows/lore-book-rows.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/temper/eso/generate/modules/capture-text/capture-text.module.ts","typed":true,"deferred":false}

@@ -339,6 +339,7 @@ async function advancedOn(
         stringsIn(said.values[LORE] ?? turn.value[LORE]),
         stringsIn(said.values[CHARACTERS] ?? turn.value[CHARACTERS])
       ),
+      written: reach.writtenOn(given.root, turn),
     },
   }
   const moving = `${slug}\t${held.status}\t${said.status}`
