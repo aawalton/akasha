@@ -7,7 +7,13 @@ export const otherwhereVi00003 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],
   position: 3,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "\"Okay, definitely isekai'd. Not much to work with, but if I can survive the start, I might be able to get stronger. I have water, so next I'll try to follow it to civilization.\" With that plan, I get up and start carefully following the water downstream, alert and searching for danger.",
+  lore: [
+    "place/otherwhere-vi-hollow-stream",
+    "place/otherwhere-vi-moss-hollow",
+    "place/otherwhere-vi-greypine-weald",
+    "lore/otherwhere-vi-beasts",
+  ],
 } as const satisfies StoryTurnPlayed
