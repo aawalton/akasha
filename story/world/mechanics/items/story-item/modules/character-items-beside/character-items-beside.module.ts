@@ -55,6 +55,10 @@ export const characterItemsBeside = {
       statement: "A character filed no item at all is answered nothing rather than an empty pair.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A question the store refuses is reported and answered as nothing.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a page.",
     },

@@ -1,5 +1,5 @@
 import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
-import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
+import { askedLoudly } from "akasha/story/world/stories/played/modules/played-asking/played-asking.module.code.ts"
 
 const ITEM_TYPE = "story-item"
 
@@ -74,13 +74,13 @@ export function hadIn(rows: readonly Filed[], slots: Record<string, string>): Ha
 }
 
 async function slotNames(): Promise<Record<string, string>> {
-  const asked = await askComposed({ "page-type": SLOT_TYPE, keys: [SLUG_AT, TITLE_AT] })
+  const asked = await askedLoudly({ "page-type": SLOT_TYPE, keys: [SLUG_AT, TITLE_AT] })
   return asked.ok ? slotNamesIn(asked.answer.rows) : NO_SLOT_NAMES
 }
 
 async function hadBy(slug: string): Promise<Had | null> {
   const [asked, slots] = await Promise.all([
-    askComposed({
+    askedLoudly({
       "page-type": ITEM_TYPE,
       where: { character: { "ends-with": `/${slug}` } },
       keys: [CHARACTER_AT, TITLE_AT, SLOT_AT, DESCRIPTION_AT],
