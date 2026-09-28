@@ -44,7 +44,7 @@ export const otherwhereKitchen = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "A pantry off the kitchen holds a dozen sacks of coarse salt, each about twenty pounds.",
+      fact: "A pantry off the kitchen holds six sacks of coarse salt, each about twenty pounds.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
