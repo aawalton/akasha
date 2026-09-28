@@ -51,5 +51,13 @@ export const otherwhereCinderIslePlants = {
       fact: "Strangler figs grow over other trees and can leave hollow root cages when the host rots.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A whole fallen fanpalm nut is heavy, and liquid sloshes inside it when shaken.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+    },
+    {
+      fact: "A fanpalm husk is hard as wood; fingers and nails leave no mark on it.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
+    },
   ],
 } as const satisfies Lore

@@ -11,7 +11,7 @@ export const otherwhere00004 = {
   position: 4,
   prose: "txt",
   characters: ["character-player/otherwhere-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I try to ignore the ape and search along the beach instead, hoping it is safer.",
   beats: [
     "Nala turns her back on the ape and goes down the beach to search the shore instead.",
@@ -44,5 +44,6 @@ export const otherwhere00004 = {
     "lore/otherwhere-cinder-isle-plants",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
+  endsAt: "2026-09-28T12:42:00.000Z",
 } as const satisfies StoryTurnPlayed

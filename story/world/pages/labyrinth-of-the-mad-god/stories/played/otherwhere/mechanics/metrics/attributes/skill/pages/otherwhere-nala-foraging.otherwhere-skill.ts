@@ -7,7 +7,7 @@ export const otherwhereNalaForaging = {
   title: "Foraging",
   description: "Finding food and water in the wild, and sensing what is safe to eat.",
   character: "character-player/otherwhere-nala",
-  value: 0,
+  value: 1,
   minValue: 0,
   maxValue: 10,
   history: "jsonl",
