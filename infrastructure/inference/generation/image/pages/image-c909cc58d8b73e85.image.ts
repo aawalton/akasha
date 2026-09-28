@@ -6,6 +6,7 @@ export const imageC909cc58d8b73e85 = {
   slug: "image-c909cc58d8b73e85",
   service: "image-edit-qwen",
   operation: "edit",
+  grade: "F",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-17f59c7233925455",
   serviceVersions: [
