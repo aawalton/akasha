@@ -4,10 +4,13 @@ export const otherwhere00047 = {
   id: "01a0e596-ad04-7154-a387-d497e2c64091",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-047",
+  ownLength: 155,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 47,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-alan"],
+  turnStatus: "turn-status/reviewers",
   action:
     "I go back to the kitchen and bring over three more bags of salt, one at a time, then take another attempt and jamming one down the worms throat",
   beats: [
