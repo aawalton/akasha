@@ -4,11 +4,13 @@
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/places/otherwhere-iv-three-stones-village.place.ts","id":"01a0e9f3-b01f-7997-bd75-259381d6ef35"}
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/places/otherwhere-iv-willow-bend.place.ts","id":"01a0e9e0-d26b-7db4-a19c-73c3deeec373"}
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-action-check.world-check.ts","id":"01a0e9eb-69c8-7f7c-82e0-e80dc64f4722"}
+{"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-harm.world-check.ts","id":"01a0e9f7-c596-7b73-a99b-74525b635bef"}
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-needs.world-check.ts","id":"01a0e9f1-97bd-70ba-b847-4b5b04c1bc0a"}
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-standing.world-check.ts","id":"01a0e9f4-7487-71e7-be4a-57eb862b8b70"}
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-time-passing.world-check.ts","id":"01a0e9ea-7b35-7738-9044-313555b4f9d4"}
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/items/otherwhere-iv-black-tights.world-item.ts","id":"01a0e9f4-c085-7f78-a258-33be883b20da"}
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/items/otherwhere-iv-grey-shirt.world-item.ts","id":"01a0e9f4-c086-7704-826f-e3f4cd2f1030"}
+{"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/mechanics/otherwhere-iv-injury.world-mechanic.ts","id":"01a0e9f7-c596-7f2d-a3c9-1e1f72b0b471"}
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/mechanics/otherwhere-iv-money.world-mechanic.ts","id":"01a0e9f3-1922-7a50-8942-cd533d2a059f"}
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/mechanics/otherwhere-iv-resolution.world-mechanic.ts","id":"01a0e9eb-69c8-7052-8924-853b878ba4d8"}
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/mechanics/otherwhere-iv-standing.world-mechanic.ts","id":"01a0e9f4-7488-7b72-9e9f-117b80d5c108"}

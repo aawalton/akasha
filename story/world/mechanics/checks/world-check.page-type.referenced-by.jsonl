@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"world-check.page-type.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-check.page-type.types.ts","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-action-check.world-check.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-check.page-type.types.ts","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-harm.world-check.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-check.page-type.types.ts","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-needs.world-check.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-check.page-type.types.ts","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-standing.world-check.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-check.page-type.types.ts","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-time-passing.world-check.ts","typed":true,"deferred":false}
