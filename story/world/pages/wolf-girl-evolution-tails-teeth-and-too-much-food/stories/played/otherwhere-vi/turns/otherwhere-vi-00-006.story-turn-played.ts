@@ -10,7 +10,7 @@ export const otherwhereVi00006 = {
   position: 6,
   prose: "txt",
   characters: ["character-player/otherwhere-vi-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "I circle wide around the boars and continue downstream",
   beats: [
     "Nala backs away from the mud and turns up the west slope into the pines, to go round wide.",
@@ -26,10 +26,10 @@ export const otherwhereVi00006 = {
     "Pain everywhere at once: her hip, an elbow, a burning scrape down one shin.",
     "【HP -11】",
     "Below her the four small ones squeal all together and scramble in behind the big one.",
-    "The big one huffs, clacks her teeth with a hard wooden sound, and comes at her through the mud.",
-    "She is low, bristled and heavy, and she is fast.",
-    "She stops short a few lengths off, head down, blowing hard through her snout.",
-    "Her small eyes catch the moonlight; she clacks her teeth again and stands there.",
+    "The big one huffs, clacks its teeth with a hard wooden sound, and comes at her through the mud.",
+    "It is low, bristled and heavy, and it is fast.",
+    "It stops short a few lengths off, head down, blowing hard through its snout, teeth clacking.",
+    "Somewhere in the alders behind it the small ones squeal again, shrill and all together.",
   ],
   issues: [
     '"She clacks her teeth" - Nala has only seen "the big one"; its being a sow is not hers to know',
