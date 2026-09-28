@@ -52,6 +52,7 @@ export default [
   route("api/readout-relay", "routes/readout-relay/readout-relay.route.code.ts"),
   route("api/widget-tap", "routes/widget-tap/widget-tap.route.code.ts"),
   route("api/action-bar", "routes/action-bar/action-bar.route.code.ts"),
+  route("api/chapter-write", "routes/chapter-write/chapter-write.route.code.ts"),
   route("api/stoplights-activity", "routes/stoplights-activity/stoplights-activity.route.code.ts"),
   route(
     "api/sms/webhook",

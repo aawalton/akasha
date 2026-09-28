@@ -69,6 +69,7 @@ export const alanWebRoutes = {
     "route/alan-web-api-ask",
     "route/alan-web-api-shape",
     "route/action-bar",
+    "route/chapter-write",
     "route/stoplights-activity",
     "route/alan-web-no-such-page",
   ],

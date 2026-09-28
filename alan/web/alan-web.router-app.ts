@@ -93,6 +93,7 @@ export const alanWeb = {
     "module/stoplights-activity-sync",
     "module/alan-answer-ask",
     "module/action-bar-answering",
+    "module/chapter-write-answering",
   ],
   toolReached: ["react-dom"],
 } as const satisfies RouterApp

@@ -15,7 +15,7 @@ export const storyWritten = {
       fields: [],
     },
   },
-  parts: ["page-type/story-chapter-written"],
+  parts: ["page-type/story-chapter-written", "module/chapter-writing"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -25,6 +25,10 @@ export const storyWritten = {
     {
       decisionKind: "decision-kind/departure",
       statement: "More than one story written may be of the one world.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story written's page starts its next chapter with a button.",
     },
   ],
   types: "ts",

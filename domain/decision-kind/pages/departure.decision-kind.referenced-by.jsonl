@@ -1236,6 +1236,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/.server/alan-route-guard/alan-route-guard.module.ts","id":"01a0c129-30bb-7f20-8811-37cb885fa99e"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/alan-session-reader/alan-session-reader.module.ts","id":"01a0c119-72b0-74f5-b872-e3b9944a812a"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/app-layout-loading/app-layout-loading.module.ts","id":"01a0655e-d39b-7415-b913-3146ff8bfa28"}
+{"propertySlug":"decision-kind","path":"alan/web/.server/chapter-write-answering/chapter-write-answering.module.ts","id":"01a0e971-8b9b-767a-b780-c99d738ea190"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/device-secret-context/device-secret-context.module.ts","id":"01a0655e-d39a-7632-bb48-cb68d5895b87"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/home-dni-param/home-dni-param.module.ts","id":"01a0655e-d399-7f57-a5ed-36dc75b69609"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/page-detail-loading/page-detail-loading.module.ts","id":"01a0655e-d39b-7b16-9974-8d43261a1726"}
@@ -3929,6 +3930,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/read/wandering-inn/modules/syncing/syncing.module.ts","id":"01a0686a-7a57-76d6-a2df-a5aa6fbe7d58"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/chapters/modules/chapter-making/chapter-making.module.ts","id":"01a0e96e-2932-7927-bb2d-8c23a95bf20f"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/chapters/story-chapter-written.page-type.ts","id":"01a06554-d8bd-712b-86b4-ade0001027ee"}
+{"propertySlug":"decision-kind","path":"story/world/stories/written/modules/chapter-writing/chapter-writing.module.ts","id":"01a0e971-8b9c-7100-bec8-8d0af82a161f"}
 {"propertySlug":"decision-kind","path":"story/world/stories/written/story-written.page-type.ts","id":"01a06554-d8bd-7502-a414-fd4fd32eba45"}
 {"propertySlug":"decision-kind","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/addon-banned-symbols/addon-banned-symbols.module.ts","id":"01a06365-e827-7002-bfdd-914c6a139782"}

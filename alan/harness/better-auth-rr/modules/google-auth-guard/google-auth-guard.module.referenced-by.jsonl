@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/.server/action-bar-answering/action-bar-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/.server/alan-route-guard/alan-route-guard.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/.server/alan-session-reader/alan-session-reader.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/.server/chapter-write-answering/chapter-write-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/.server/device-secret-context/device-secret-context.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/.server/picture-answering/picture-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"google-auth-guard.module.code.ts","path":"alan/web/.server/readout-guarding/readout-guarding.module.code.ts","typed":false,"deferred":false}
