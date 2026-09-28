@@ -23,7 +23,7 @@ export function buyCharacterName(): string {
   return planPhraseOf(anyCharacter)
 }
 
-export interface BuyShortfall {
+interface BuyShortfall {
   readonly itemId: number
   readonly itemName: string
   readonly quantity: number
