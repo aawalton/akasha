@@ -28,6 +28,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-adventurers.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-aether.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-agmon.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-alchemy.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-algoa.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-althorn.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-amoh.lore.ts","typed":true,"deferred":false}
@@ -55,6 +56,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-deiman.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-delric.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-development.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-diplomats-friend.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-disadvantage.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-divinity.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-dracolizard.lore.ts","typed":true,"deferred":false}
@@ -85,6 +87,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-levels.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-litcliff.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-magic-resistance.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-magic-resistant-ingredients.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-mana.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-monster.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-mortal.lore.ts","typed":true,"deferred":false}
