@@ -21,15 +21,27 @@ export const otherwhereIvGuHousehold = {
     },
     {
       fact: "Headman Gu first asks a claimed spirit to read aloud a line of his almanac, since few can read.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
     {
       fact: "He next asks a reckoning: forty households owing three dou of rice each, in sheng at ten a dou.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
     {
       fact: "The answer to his reckoning is twelve hundred sheng; he takes a long time over it with his abacus.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
     {
       fact: "He last asks why the moon waxes and wanes; he holds that the moon's palace turns away from men.",
@@ -50,6 +62,22 @@ export const otherwhereIvGuHousehold = {
     {
       fact: "Gu Meilan would rather give the stranger clothes and a bed than argue what she is.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Gu's almanac: 9th of the Snake favors weeding, walls, shrine offerings; not journeys or moving.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
+    },
+    {
+      fact: "Headman Gu's last question to Nala: why the moon waxes and wanes, full mid-month, thin at its ends.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
   ],
 } as const satisfies Lore

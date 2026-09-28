@@ -66,7 +66,11 @@ export const otherwhereIvNala = {
     },
     {
       fact: "Nala understands and speaks the local tongue as if born to it, and reads its script.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
     {
       fact: "Nala has no Qi cultivation at all; she is a mortal.",
@@ -111,6 +115,14 @@ export const otherwhereIvNala = {
     {
       fact: "She knows only the words for such things, as a foreigner might, and none of their content.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala read Gu's almanac aloud unstumbling and answered his reckoning at once, before his abacus did.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
   ],
 } as const satisfies Lore
