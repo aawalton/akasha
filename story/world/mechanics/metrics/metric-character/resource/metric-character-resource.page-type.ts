@@ -26,6 +26,7 @@ export const metricCharacterResource = {
     "page-type/otherwhere-v-health",
     "page-type/otherwhere-v-purse",
     "page-type/otherwhere-vii-health",
+    "page-type/otherwhere-vii-purse",
   ],
 
   types: "ts",
