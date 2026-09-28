@@ -1,4 +1,4 @@
-import type { HaremHotelFloor } from "akasha/story/world/pages/harem-hotel/stories/played/harem-hotel/mechanics/floors/harem-hotel-floor.page-type.types.ts"
+import type { HaremHotelFloor } from "akasha/story/world/pages/harem-hotel/stories/written/harem-hotel/mechanics/floors/harem-hotel-floor.page-type.types.ts"
 
 export const haremHotelFloor1 = {
   id: "01a0e849-11fb-7418-bf14-d7fb36ef2402",

@@ -5,6 +5,6 @@ export const haremHotelAlan = {
   type: "page-type/character-player",
   slug: "harem-hotel-alan",
   title: "Alan",
-  story: "story-played/harem-hotel",
+  story: "story-written/harem-hotel",
   person: "person/alan",
 } as const satisfies CharacterPlayer
