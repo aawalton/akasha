@@ -12,9 +12,9 @@ import { temperJewelryEnchant } from "akasha/temper/catalog/gear/temper-jewelry-
 import { temperWeaponEnchant } from "akasha/temper/catalog/gear/temper-weapon-enchant/temper-weapon-enchant.page-type.ts"
 import type { MetricEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 
-export type EnchantFamily = "armor" | "weapon" | "jewelry"
+type EnchantFamily = "armor" | "weapon" | "jewelry"
 
-export interface EnchantTemplate<Id extends string = string> {
+interface EnchantTemplate<Id extends string = string> {
   readonly id: Id
   readonly name: string
   readonly glyphName: string
