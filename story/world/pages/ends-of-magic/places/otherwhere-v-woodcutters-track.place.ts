@@ -14,10 +14,12 @@ export const otherwhereVWoodcuttersTrack = {
       direction: "north",
     },
     {
+      to: "place/otherwhere-v-serrinford",
       way: "West and downhill along the track four and a half miles to Serrinford; an hour and a half.",
       direction: "west",
     },
     {
+      to: "place/otherwhere-v-scalebark-camp",
       way: "East and uphill along the track half a mile to the logging camp; ten minutes.",
       direction: "east",
     },
