@@ -5,6 +5,7 @@ export const chapter = {
   type: "page-type/page-type",
   slug: "chapter",
   definition: "the text a reader reads at one sitting",
+  icon: "scroll-text",
   pluralSlug: "chapters",
   extends: ["page-type/collection"],
   runsTabooCheck: false,

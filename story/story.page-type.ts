@@ -5,6 +5,7 @@ export const story = {
   type: "page-type/page-type",
   slug: "story",
   definition: "a telling of what happened in a world",
+  icon: "library",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "story" },
     { partOfSpeech: "part-of-speech/noun", spelling: "stories" },

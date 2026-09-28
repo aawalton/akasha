@@ -5,6 +5,7 @@ export const storyRead = {
   type: "page-type/page-type",
   slug: "story-read",
   definition: "a story somebody else wrote",
+  icon: "book-open",
   pluralSlug: "stories",
   extends: ["page-type/story", "page-type/collection-external"],
   runsTabooCheck: false,
