@@ -6,4 +6,5 @@ export const haremHotelOdile = {
   slug: "harem-hotel-odile",
   title: "The Concierge",
   story: "story-played/harem-hotel",
+  cover: "image/image-cf17b54279aa34a1",
 } as const satisfies CharacterOther
