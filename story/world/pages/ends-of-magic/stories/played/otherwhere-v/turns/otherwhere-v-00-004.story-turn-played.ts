@@ -29,5 +29,6 @@ export const otherwhereV00004 = {
   ],
   lore: ["place/otherwhere-v-fern-hollow", "lore/otherwhere-v-gloamcat"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2026-09-28T19:01:00.000Z",
 } as const satisfies StoryTurnPlayed
