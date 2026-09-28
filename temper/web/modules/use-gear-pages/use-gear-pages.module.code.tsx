@@ -28,7 +28,7 @@ import { useMemo } from "react"
 
 const EVERY = 5000
 
-export interface GearPages {
+interface GearPages {
   readonly loading: boolean
   readonly failed: Error | null
   readonly rows: ReadonlyMap<string, Iterable<Value>>
