@@ -9,15 +9,23 @@ export const otherwhereKitchen = {
   facts: [
     {
       fact: "The kitchen lies through an arched door on the main hall's right side, down a short corridor.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "The kitchen is long and warm, with hanging copper pots, a great stone oven and an oak table.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Fresh loaves cool on the oak table, baked by the kitchen on its own.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala found fresh loaves cooling on the kitchen's oak table, with no one there who baked them.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Only the great oven is lit; the other hearths stay cold until the kitchen's golems return.",
