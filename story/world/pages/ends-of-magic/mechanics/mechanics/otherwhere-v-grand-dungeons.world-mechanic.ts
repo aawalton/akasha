@@ -7,5 +7,5 @@ export const otherwhereVGrandDungeons = {
   title: "Grand Dungeons",
   world: "world/ends-of-magic",
   aliases: ["Grand Dungeon"],
-  description: "The greatest and deadliest class of dungeon on Davrar.",
+  description: "The greatest class of dungeon.",
 } as const satisfies WorldMechanic

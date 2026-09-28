@@ -7,5 +7,5 @@ export const otherwhereVGolemCores = {
   title: "Golem Cores",
   world: "world/ends-of-magic",
   aliases: ["golem core"],
-  description: "The magical heart that animates a golem.",
+  description: "The magical heart of a golem.",
 } as const satisfies WorldItem

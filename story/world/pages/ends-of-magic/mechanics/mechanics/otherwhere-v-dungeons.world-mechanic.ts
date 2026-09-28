@@ -7,5 +7,5 @@ export const otherwhereVDungeons = {
   title: "Dungeons",
   world: "world/ends-of-magic",
   aliases: ["dungeon"],
-  description: "Magical strongholds of monsters and traps that must be delved and cleared.",
+  description: "Magical strongholds of monsters and traps.",
 } as const satisfies WorldMechanic
