@@ -4,6 +4,7 @@ export const superSupportive0185OneHundredEightyThreeTheWeight = {
   id: "01a06730-4ee1-7112-b544-f320d6bd7ca7",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0185-one-hundred-eighty-three-the-weight",
+  ownProgress: 3845,
   title: "ONE HUNDRED EIGHTY-THREE: The Weight",
   story: "story-read/super-supportive",
   position: 185,

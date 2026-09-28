@@ -4,6 +4,7 @@ export const superSupportive0159BOneHundredFiftySevenFamilyMattersIiiPartB = {
   id: "01a06730-4ec5-7145-82b9-44bda23a5969",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0159-b-one-hundred-fifty-seven-family-matters-iii-part-b",
+  ownProgress: 3234,
   title: "B. ONE HUNDRED FIFTY-SEVEN: Family Matters III, part B",
   story: "story-read/super-supportive",
   position: 159,

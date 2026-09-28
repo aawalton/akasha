@@ -4,6 +4,7 @@ export const superSupportive0152OneHundredFiftyOneMadeForASaint = {
   id: "01a06730-4ec0-747f-b2a0-019f868d0047",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0152-one-hundred-fifty-one-made-for-a-saint",
+  ownProgress: 4934,
   title: "ONE HUNDRED FIFTY-ONE: Made for a Saint",
   story: "story-read/super-supportive",
   position: 152,

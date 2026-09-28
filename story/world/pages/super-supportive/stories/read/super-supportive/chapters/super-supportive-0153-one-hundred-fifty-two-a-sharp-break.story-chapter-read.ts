@@ -4,6 +4,7 @@ export const superSupportive0153OneHundredFiftyTwoASharpBreak = {
   id: "01a06730-4ec1-71ed-b37b-f244e0d74c10",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0153-one-hundred-fifty-two-a-sharp-break",
+  ownProgress: 3857,
   title: "ONE HUNDRED FIFTY-TWO: A Sharp Break",
   story: "story-read/super-supportive",
   position: 153,

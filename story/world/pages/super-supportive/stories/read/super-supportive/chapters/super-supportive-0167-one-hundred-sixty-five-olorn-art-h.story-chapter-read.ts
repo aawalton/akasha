@@ -4,6 +4,7 @@ export const superSupportive0167OneHundredSixtyFiveOlornArtH = {
   id: "01a06730-4ecf-74b8-b636-86caf951acfd",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0167-one-hundred-sixty-five-olorn-art-h",
+  ownProgress: 4185,
   title: "ONE HUNDRED SIXTY-FIVE: Olorn-art'h",
   story: "story-read/super-supportive",
   position: 167,

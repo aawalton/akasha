@@ -4,6 +4,7 @@ export const superSupportive0179OneHundredSeventySevenGuests = {
   id: "01a06730-4edd-74e6-8538-4983e7ded750",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0179-one-hundred-seventy-seven-guests",
+  ownProgress: 4965,
   title: "ONE HUNDRED SEVENTY-SEVEN: Guests",
   story: "story-read/super-supportive",
   position: 179,

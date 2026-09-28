@@ -4,6 +4,7 @@ export const superSupportive0151OneHundredFiftyCubeNews = {
   id: "01a06730-4ebe-7272-af85-1c143fa854d4",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0151-one-hundred-fifty-cube-news",
+  ownProgress: 5862,
   title: "ONE HUNDRED FIFTY: Cube News",
   story: "story-read/super-supportive",
   position: 151,

@@ -4,6 +4,7 @@ export const superSupportive0177OneHundredSeventyFiveKindEffort = {
   id: "01a06730-4edb-7238-b403-c04698e3e89f",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0177-one-hundred-seventy-five-kind-effort",
+  ownProgress: 4962,
   title: "ONE HUNDRED SEVENTY-FIVE: Kind Effort",
   story: "story-read/super-supportive",
   position: 177,

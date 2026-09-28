@@ -4,6 +4,7 @@ export const superSupportive0156OneHundredFiftyFiveFamilyMattersI = {
   id: "01a06730-4ec3-7f9d-bdec-71ddef65f6fb",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0156-one-hundred-fifty-five-family-matters-i",
+  ownProgress: 5145,
   title: "ONE HUNDRED FIFTY-FIVE: Family Matters I",
   story: "story-read/super-supportive",
   position: 156,

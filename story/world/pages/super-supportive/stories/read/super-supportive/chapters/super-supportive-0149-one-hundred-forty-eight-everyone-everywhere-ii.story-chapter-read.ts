@@ -4,6 +4,7 @@ export const superSupportive0149OneHundredFortyEightEveryoneEverywhereIi = {
   id: "01a06730-4ebc-7b2d-a88b-1a4dd2833cfd",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0149-one-hundred-forty-eight-everyone-everywhere-ii",
+  ownProgress: 7298,
   title: "ONE HUNDRED FORTY-EIGHT: Everyone, Everywhere II",
   story: "story-read/super-supportive",
   position: 149,

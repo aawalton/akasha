@@ -4,6 +4,7 @@ export const superSupportive0175OneHundredSeventyThreeTheThanksgiving = {
   id: "01a06730-4ed9-7d71-bfd4-8fb5b2606fa1",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0175-one-hundred-seventy-three-the-thanksgiving",
+  ownProgress: 5297,
   title: "ONE HUNDRED SEVENTY-THREE: The Thanksgiving",
   story: "story-read/super-supportive",
   position: 175,

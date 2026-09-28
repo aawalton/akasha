@@ -4,6 +4,7 @@ export const superSupportive0147OneHundredFortySixDawnIii = {
   id: "01a06730-4eba-75f2-81d0-82b21c3801f7",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0147-one-hundred-forty-six-dawn-iii",
+  ownProgress: 4718,
   title: "ONE HUNDRED FORTY-SIX: Dawn III",
   story: "story-read/super-supportive",
   position: 147,

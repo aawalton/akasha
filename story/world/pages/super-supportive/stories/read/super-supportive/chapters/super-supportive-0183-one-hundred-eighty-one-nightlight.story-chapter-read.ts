@@ -4,6 +4,7 @@ export const superSupportive0183OneHundredEightyOneNightlight = {
   id: "01a06730-4ee0-79e9-99db-65cba6b9a42e",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0183-one-hundred-eighty-one-nightlight",
+  ownProgress: 4991,
   title: "ONE HUNDRED EIGHTY-ONE: Nightlight",
   story: "story-read/super-supportive",
   position: 183,

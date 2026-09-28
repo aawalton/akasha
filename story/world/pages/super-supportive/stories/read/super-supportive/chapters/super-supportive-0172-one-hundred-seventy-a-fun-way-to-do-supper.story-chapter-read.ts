@@ -4,6 +4,7 @@ export const superSupportive0172OneHundredSeventyAFunWayToDoSupper = {
   id: "01a06730-4ed4-7695-9558-ffae0a8ece3c",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0172-one-hundred-seventy-a-fun-way-to-do-supper",
+  ownProgress: 3746,
   title: "ONE HUNDRED SEVENTY: A Fun Way to do Supper",
   story: "story-read/super-supportive",
   position: 172,

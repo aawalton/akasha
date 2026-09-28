@@ -4,6 +4,7 @@ export const superSupportive0178OneHundredSeventySixClassNotes = {
   id: "01a06730-4edc-7d8c-9ffd-932e5d7acc19",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0178-one-hundred-seventy-six-class-notes",
+  ownProgress: 5010,
   title: "ONE HUNDRED SEVENTY-SIX: Class Notes",
   story: "story-read/super-supportive",
   position: 178,

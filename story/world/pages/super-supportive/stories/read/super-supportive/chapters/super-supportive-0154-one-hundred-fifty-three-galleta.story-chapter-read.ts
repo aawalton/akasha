@@ -4,6 +4,7 @@ export const superSupportive0154OneHundredFiftyThreeGalleta = {
   id: "01a06730-4ec1-7c12-b466-e05b214c0b9a",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0154-one-hundred-fifty-three-galleta",
+  ownProgress: 3820,
   title: "ONE HUNDRED FIFTY-THREE: Galleta",
   story: "story-read/super-supportive",
   position: 154,

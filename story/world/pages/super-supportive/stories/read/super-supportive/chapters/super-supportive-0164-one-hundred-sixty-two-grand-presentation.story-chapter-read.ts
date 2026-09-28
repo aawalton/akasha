@@ -4,6 +4,7 @@ export const superSupportive0164OneHundredSixtyTwoGrandPresentation = {
   id: "01a06730-4ecd-7198-a161-bc89461420db",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0164-one-hundred-sixty-two-grand-presentation",
+  ownProgress: 6060,
   title: "ONE HUNDRED SIXTY-TWO: Grand Presentation",
   story: "story-read/super-supportive",
   position: 164,

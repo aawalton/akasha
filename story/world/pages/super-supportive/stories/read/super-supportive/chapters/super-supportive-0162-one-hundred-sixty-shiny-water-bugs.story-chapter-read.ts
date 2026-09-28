@@ -4,6 +4,7 @@ export const superSupportive0162OneHundredSixtyShinyWaterBugs = {
   id: "01a06730-4ec8-7840-9d35-2786d5507f20",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0162-one-hundred-sixty-shiny-water-bugs",
+  ownProgress: 6253,
   title: "ONE HUNDRED SIXTY: Shiny Water Bugs",
   story: "story-read/super-supportive",
   position: 162,

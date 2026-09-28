@@ -4,6 +4,7 @@ export const superSupportive0146OneHundredFortyFiveDawnIi = {
   id: "01a06730-4eb9-7300-b04b-c3dbc1b2a30f",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0146-one-hundred-forty-five-dawn-ii",
+  ownProgress: 4931,
   title: "ONE HUNDRED FORTY-FIVE: Dawn II",
   story: "story-read/super-supportive",
   position: 146,

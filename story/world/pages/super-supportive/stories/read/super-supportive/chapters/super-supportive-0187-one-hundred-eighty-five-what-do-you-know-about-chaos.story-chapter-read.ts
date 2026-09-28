@@ -4,6 +4,7 @@ export const superSupportive0187OneHundredEightyFiveWhatDoYouKnowAboutChaos = {
   id: "01a06730-4ee3-79d8-9ac0-d85178dc8cbf",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0187-one-hundred-eighty-five-what-do-you-know-about-chaos",
+  ownProgress: 3421,
   title: "ONE HUNDRED EIGHTY-FIVE: What do you know about chaos?",
   story: "story-read/super-supportive",
   position: 187,

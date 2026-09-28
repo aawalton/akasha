@@ -4,6 +4,7 @@ export const superSupportive0163OneHundredSixtyOneGoodWaking = {
   id: "01a06730-4ecc-73e4-80d6-fd21ac04ebf5",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0163-one-hundred-sixty-one-good-waking",
+  ownProgress: 4913,
   title: "ONE HUNDRED SIXTY-ONE: Good Waking",
   story: "story-read/super-supportive",
   position: 163,

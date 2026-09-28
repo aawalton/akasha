@@ -4,6 +4,7 @@ export const superSupportive0188OneHundredEightySixWorlds = {
   id: "01a06730-4ee4-7a86-8dd4-fefb4c26f528",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0188-one-hundred-eighty-six-worlds",
+  ownProgress: 4778,
   title: "ONE HUNDRED EIGHTY-SIX: Worlds",
   story: "story-read/super-supportive",
   position: 188,

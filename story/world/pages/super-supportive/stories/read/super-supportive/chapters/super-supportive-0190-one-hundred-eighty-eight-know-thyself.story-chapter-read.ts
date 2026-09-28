@@ -4,6 +4,7 @@ export const superSupportive0190OneHundredEightyEightKnowThyself = {
   id: "01a06730-4ee5-78dc-a98f-ac021f8faae6",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0190-one-hundred-eighty-eight-know-thyself",
+  ownProgress: 6156,
   title: "ONE HUNDRED EIGHTY-EIGHT: Know Thyself",
   story: "story-read/super-supportive",
   position: 190,

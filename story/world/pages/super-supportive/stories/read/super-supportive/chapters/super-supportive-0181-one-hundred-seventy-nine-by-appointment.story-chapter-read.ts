@@ -4,6 +4,7 @@ export const superSupportive0181OneHundredSeventyNineByAppointment = {
   id: "01a06730-4ede-7288-9ce4-52121ebee038",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0181-one-hundred-seventy-nine-by-appointment",
+  ownProgress: 4343,
   title: "ONE HUNDRED SEVENTY-NINE: By Appointment",
   story: "story-read/super-supportive",
   position: 181,

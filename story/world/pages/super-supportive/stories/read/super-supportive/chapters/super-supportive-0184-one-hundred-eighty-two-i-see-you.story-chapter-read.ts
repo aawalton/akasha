@@ -4,6 +4,7 @@ export const superSupportive0184OneHundredEightyTwoISeeYou = {
   id: "01a06730-4ee1-7fc7-bdc5-57a87ce33c6d",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0184-one-hundred-eighty-two-i-see-you",
+  ownProgress: 6370,
   title: "ONE HUNDRED EIGHTY-TWO: I See You",
   story: "story-read/super-supportive",
   position: 184,

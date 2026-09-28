@@ -4,6 +4,7 @@ export const superSupportive0161OneHundredFiftyNineTenderroot = {
   id: "01a06730-4ec7-76a7-9164-7acdb45d4e8b",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0161-one-hundred-fifty-nine-tenderroot",
+  ownProgress: 5113,
   title: "ONE HUNDRED FIFTY-NINE: Tenderroot",
   story: "story-read/super-supportive",
   position: 161,
