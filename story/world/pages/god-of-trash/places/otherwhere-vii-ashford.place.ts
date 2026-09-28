@@ -107,5 +107,25 @@ export const otherwhereViiAshford = {
       fact: "The river at the ford runs clean and knee-deep, and Ashford's women wash linen there mornings.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The notice post holds a threshing call: hands wanted, ten pennies and a meal, ask the headman.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A notice warns of a wild boar in Hobb's Wood that gored a woodcutter; stay out of the wood.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A faded notice from the mountain school calls the young to its tournament, fifty days on.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A reeve's notice from Bramwick offers two silver for three deserters seen near the woods.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Few in Ashford can read the notices; Marta or the miller reads them out to the rest.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
