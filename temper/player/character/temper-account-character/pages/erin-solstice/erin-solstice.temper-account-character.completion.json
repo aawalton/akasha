@@ -16232,7 +16232,7 @@
         "unlocked": true
       },
       "46": {
-        "name": "Savagery and Prophecy",
+        "name": "Savagery",
         "slot": 3,
         "unlocked": true
       },
@@ -16262,7 +16262,7 @@
         "unlocked": true
       },
       "52": {
-        "name": "Brutality and Sorcery",
+        "name": "Brutality",
         "slot": 3,
         "unlocked": true
       },
@@ -26816,7 +26816,8 @@
       58,
       59,
       60,
-      61
+      61,
+      62
     ],
     "117": [
       1,
@@ -27192,7 +27193,8 @@
       59,
       60,
       61,
-      62
+      62,
+      63
     ],
     "383": [
       1,
@@ -28253,29 +28255,13 @@
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-09-27",
-    "seen": [
-      5,
-      3,
-      4,
-      2,
-      1,
-      6,
-      7
-    ],
-    "completed": [
-      1,
-      6,
-      2,
-      7,
-      3,
-      4,
-      5
-    ]
+    "date": "2026-09-28",
+    "seen": [],
+    "completed": []
   },
   "bankVisitDate": "2026-09-27",
   "inventoryCheck": {
-    "date": "2026-09-27",
+    "date": "2026-09-28",
     "misplaced": 84
   }
 }
