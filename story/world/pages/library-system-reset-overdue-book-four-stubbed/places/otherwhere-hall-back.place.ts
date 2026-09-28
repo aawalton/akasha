@@ -140,7 +140,6 @@ export const otherwhereHallBack = {
       fact: "A bookworm's lunge stops at a salt line, but its head can stretch about a foot over it to bite.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "A bookworm dragged onto a salt line is burned by it, and its thrashing scuffs a gap in the line.",
       knowers: ["lore-disclosure/game-master"],
@@ -267,7 +266,11 @@ export const otherwhereHallBack = {
     },
     {
       fact: "Nala lies in the salt short of the gloom, a deep fresh bite bleeding, too weak to rise.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "Salt burning in its gullet, the big bookworm convulsed; its grey hide puckered and cracked.",
@@ -285,7 +288,6 @@ export const otherwhereHallBack = {
       fact: "A roll of the big bookworm's bulk can pin and crush whoever clings to it.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "Links dragged the senseless Nala clear to the edge of the gloom, at a cost of the Library's power.",
       knowers: [
