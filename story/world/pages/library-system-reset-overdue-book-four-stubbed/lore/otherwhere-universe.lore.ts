@@ -213,6 +213,14 @@ export const otherwhereUniverse = {
       ],
     },
     {
+      fact: "The Library has had no Library Assistants for centuries; its Librarian is the whole staff.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
+    },
+    {
       fact: "The Library has two shelving golems, each reshelving some twenty books a day.",
       knowers: ["lore-disclosure/game-master"],
     },

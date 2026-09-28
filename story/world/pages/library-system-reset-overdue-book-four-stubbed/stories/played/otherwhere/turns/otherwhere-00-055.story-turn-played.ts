@@ -4,13 +4,14 @@ export const otherwhere00055 = {
   id: "01a0e7c8-3ddc-7c98-909a-b38afe1105fd",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-055",
+  cover: "image/image-b8fb620bedcb8adb",
   ownLength: 117,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 55,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "**Three thousand is a lot. Is there any magic available to make this faster? Telekineses? Divination? …Bookmancy? Even a library assistant?**",
   beats: [
@@ -24,5 +25,5 @@ export const otherwhere00055 = {
   ],
   lore: ["lore/otherwhere-universe", "place/otherwhere-main-hall"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
