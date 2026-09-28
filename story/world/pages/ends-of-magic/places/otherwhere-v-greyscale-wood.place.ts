@@ -19,10 +19,12 @@ export const otherwhereVGreyscaleWood = {
       direction: "south",
     },
     {
+      to: "place/otherwhere-v-treeborn-grove",
       way: "East into the deep wood toward the Treeborn grove; a day and a half on foot.",
       direction: "east",
     },
     {
+      to: "place/otherwhere-v-thornmouth",
       way: "North along the ridges toward the Thornmouth cleft; two days on foot.",
       direction: "north",
     },

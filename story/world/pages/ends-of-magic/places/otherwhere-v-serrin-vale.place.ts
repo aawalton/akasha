@@ -9,10 +9,12 @@ export const otherwhereVSerrinVale = {
   within: "place/otherwhere-v-elothia",
   exits: [
     {
+      to: "place/otherwhere-v-harrowmere",
       way: "Down the river road or by boat along the Serrin to Harrowmere; three days, south-west.",
       direction: "south",
     },
     {
+      to: "place/otherwhere-v-dragonwolf-heights",
       way: "North up the vale's head through deep wood to the high crags; four days on foot.",
       direction: "north",
     },
@@ -55,7 +57,7 @@ export const otherwhereVSerrinVale = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "A small dungeon, Thornmouth, lies two days north of Serrinford in the Greyscale Wood.",
+      fact: "A small dungeon, Thornmouth, lies two days north of Fern Hollow in the Greyscale Wood.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
