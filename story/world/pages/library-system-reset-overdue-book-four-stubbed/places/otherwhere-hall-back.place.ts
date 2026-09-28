@@ -259,7 +259,7 @@ export const otherwhereHallBack = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "Nala lies in the salt short of the gloom, a deep fresh bite bleeding, too weak to rise.",
+      fact: "Nala slept in the salt short of the gloom and woke whole, her newest bite knitted to a scar.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-alan",
@@ -282,14 +282,7 @@ export const otherwhereHallBack = {
       fact: "A roll of the big bookworm's bulk can pin and crush whoever clings to it.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "Links dragged the senseless Nala clear to the edge of the gloom, at a cost of the Library's power.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
+
     {
       fact: "Once a salt crust scrapes off, the honey beneath draws the big bookworm's teeth to it.",
       knowers: ["lore-disclosure/game-master"],
@@ -306,10 +299,7 @@ export const otherwhereHallBack = {
       fact: "Left alone, the big bookworm scrapes and gags off its salt and slowly recovers.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Hurt as Nala is, she can rise and stagger with one sack, but can't run.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "Drawn by her honey, the big bookworm bites a senseless crusted Nala; the salt burns its mouth.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
