@@ -17,5 +17,12 @@
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/mechanics/otherwhere-iv-standing.world-mechanic.ts","id":"01a0e9f4-7488-7b72-9e9f-117b80d5c108"}
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/mechanics/otherwhere-iv-survival.world-mechanic.ts","id":"01a0e9f1-97bd-7d2c-befd-eadecd5e9fa0"}
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/mechanics/otherwhere-iv-time.world-mechanic.ts","id":"01a0e9ea-7b35-7a36-9694-78461cea1d3f"}
+{"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/ranks/otherwhere-iv-earth-realm.world-rank.ts","id":"01a0e9fd-dba7-70b8-8605-0e560f9c986e"}
+{"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/ranks/otherwhere-iv-imperial-realm.world-rank.ts","id":"01a0e9fd-dba8-7ddb-802c-fab7f2e0b8dd"}
+{"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/ranks/otherwhere-iv-initiates-realm.world-rank.ts","id":"01a0e9fd-dba8-706a-8e27-c4fdc142f44c"}
+{"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/ranks/otherwhere-iv-mortal.world-rank.ts","id":"01a0e9fd-dba9-7f71-84fd-79215627f53f"}
+{"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/ranks/otherwhere-iv-profound-realm.world-rank.ts","id":"01a0e9fd-dba9-76d2-995b-453d137ae558"}
+{"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/ranks/otherwhere-iv-sky-realm.world-rank.ts","id":"01a0e9fd-dba9-7e96-a86d-8fd72cdffe48"}
+{"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/ranks/otherwhere-iv-spiritual-realm.world-rank.ts","id":"01a0e9fd-dbaa-7e33-a6a7-e7111b8d0819"}
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/otherwhere-iv.story-played.ts","id":"01a0e9e0-0274-7b2e-a7d2-59463d21651c"}
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/read/beware-of-chicken/beware-of-chicken.story-read.ts","id":"01a0657d-ada1-7d41-8abe-7a5a057563a6"}
