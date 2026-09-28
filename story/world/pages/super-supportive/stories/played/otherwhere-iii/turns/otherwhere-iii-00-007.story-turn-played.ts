@@ -11,4 +11,5 @@ export const otherwhereIii00007 = {
   action:
     '"Nala Arthur, January 22, 1986, 1350 Apple Ave Provo, Utah" I recite smoothly. "No local address"',
   lore: ["place/otherwhere-iii-uptown-memorial-er", "lore/otherwhere-iii-nala"],
+  endsAt: "2037-01-31T05:08:00.000Z",
 } as const satisfies StoryTurnPlayed
