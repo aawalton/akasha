@@ -45,4 +45,5 @@ export const otherwhere00003 = {
     "place/otherwhere-black-shore",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
