@@ -189,6 +189,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/properties/tower-skill-character.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/properties/tower-skill-element.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/properties/tower-skill-skill.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/stories/played/otherwhere-vi/mechanics/skills/properties/otherwhere-vi-skill-character.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/properties/reading-character.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/properties/reading-mechanic.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/stories/played/properties/cover-reroll.relation-property.ts","typed":true,"deferred":false}

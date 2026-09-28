@@ -149,6 +149,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"otherwhere-the-library-skill-character","propertySlug":"character","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-skill","unique":null,"uniquePropertySlug":null,"slug":"otherwhere-the-library-skill-skill","propertySlug":"skill","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"otherwhere-v-utility-skill-character","propertySlug":"character","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"otherwhere-vi-skill-character","propertySlug":"character","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"otherwhere-vii-technique-character","propertySlug":"character","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-skill","unique":null,"uniquePropertySlug":null,"slug":"otherwhere-vii-technique-skill","propertySlug":"skill","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-property","unique":null,"uniquePropertySlug":null,"slug":"owner","propertySlug":"owner","fileName":null,"folderName":null}
