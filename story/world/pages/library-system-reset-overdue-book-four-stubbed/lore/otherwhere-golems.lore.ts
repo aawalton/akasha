@@ -8,12 +8,8 @@ export const otherwhereGolems = {
   world: "world/library-system-reset-overdue-book-four-stubbed",
   facts: [
     {
-      fact: "The Library has two shelving golems, each reshelving some twenty books a day.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
+      fact: "The Library has two shelving golems, each reshelving some thirty books an hour, day and night.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
     },
     {
       fact: "A woken golem takes up work only at a Librarian's spoken command.",
@@ -40,7 +36,7 @@ export const otherwhereGolems = {
       ],
     },
     {
-      fact: "A shelving golem's long arms reach the high shelves without a ladder, but it works slowly.",
+      fact: "A shelving golem's long arms reach the high shelves without a ladder; it works steady and careful.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/otherwhere-links",
@@ -54,18 +50,6 @@ export const otherwhereGolems = {
         "character-player/otherwhere-alan",
         "character-other/otherwhere-links",
       ],
-    },
-    {
-      fact: "At the two golems' pace, the main hall's loose books take some seventy-two days to clear.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
-    {
-      fact: "By the Counter, the first shelving golem has set its first book on a high shelf.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],
 } as const satisfies Lore
