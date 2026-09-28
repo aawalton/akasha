@@ -4,13 +4,14 @@ export const otherwhere00010 = {
   id: "01a0ea13-a0ab-73ed-93bb-5f44e5d5d143",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-010",
+  cover: "image/image-55300d8e14e30a30",
   ownLength: 252,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 10,
   prose: "txt",
   characters: ["character-player/otherwhere-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I charge it again, trying to get an arm around its neck and the shard in its eye",
   beats: [
     "Nala comes up off her knees and charges the nearer lizard again, the shard raised in her right hand.",
@@ -28,6 +29,6 @@ export const otherwhere00010 = {
   ],
   lore: ["lore/otherwhere-mire-monitors", "lore/otherwhere-death"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T15:10:00.000Z",
 } as const satisfies StoryTurnPlayed
