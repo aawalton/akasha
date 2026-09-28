@@ -4,6 +4,7 @@ export const dungeonOfKnowledgeComplete0608Chapter565TheFangsOfTheFrostWyrm = {
   id: "01a0672c-ec63-7001-ba79-924906bdc244",
   type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0608-chapter-565-the-fangs-of-the-frost-wyrm",
+  ownProgress: 2978,
   title: "Chapter 565: The Fangs of the Frost Wyrm",
   story: "story-read/dungeon-of-knowledge-complete",
   position: 608,

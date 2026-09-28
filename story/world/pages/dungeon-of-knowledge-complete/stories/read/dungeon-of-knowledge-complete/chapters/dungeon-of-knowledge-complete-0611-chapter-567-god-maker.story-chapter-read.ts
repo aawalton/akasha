@@ -4,6 +4,7 @@ export const dungeonOfKnowledgeComplete0611Chapter567GodMaker = {
   id: "01a0672c-ec64-7001-8c82-6d377ed0a5ec",
   type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0611-chapter-567-god-maker",
+  ownProgress: 2956,
   title: "Chapter 567: God Maker",
   story: "story-read/dungeon-of-knowledge-complete",
   position: 611,

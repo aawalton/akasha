@@ -4,6 +4,7 @@ export const dungeonOfKnowledgeComplete0606Chapter563TheLairOfTheDracolich = {
   id: "01a0672c-ec62-7001-b10e-2a2bf16b09e1",
   type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0606-chapter-563-the-lair-of-the-dracolich",
+  ownProgress: 3621,
   title: "Chapter 563: The Lair of the Dracolich",
   story: "story-read/dungeon-of-knowledge-complete",
   position: 606,

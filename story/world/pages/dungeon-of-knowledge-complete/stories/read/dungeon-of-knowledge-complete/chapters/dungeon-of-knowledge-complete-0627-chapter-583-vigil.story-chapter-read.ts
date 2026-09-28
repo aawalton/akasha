@@ -4,6 +4,7 @@ export const dungeonOfKnowledgeComplete0627Chapter583Vigil = {
   id: "01a0672c-ec6a-7000-9df9-cc85546e2355",
   type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0627-chapter-583-vigil",
+  ownProgress: 1916,
   title: "Chapter 583: Vigil",
   story: "story-read/dungeon-of-knowledge-complete",
   position: 627,

@@ -4,6 +4,7 @@ export const dungeonOfKnowledgeComplete0631Coda = {
   id: "01a0672c-ec6c-7001-a31d-191dfc854477",
   type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0631-coda",
+  ownProgress: 2092,
   title: "Coda",
   story: "story-read/dungeon-of-knowledge-complete",
   position: 631,

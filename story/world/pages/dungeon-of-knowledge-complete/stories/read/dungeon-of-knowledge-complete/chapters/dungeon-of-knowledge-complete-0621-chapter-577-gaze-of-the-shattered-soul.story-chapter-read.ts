@@ -4,6 +4,7 @@ export const dungeonOfKnowledgeComplete0621Chapter577GazeOfTheShatteredSoul = {
   id: "01a0672c-ec67-7003-b23d-b204697b9f6f",
   type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0621-chapter-577-gaze-of-the-shattered-soul",
+  ownProgress: 2189,
   title: "Chapter 577: Gaze of the Shattered Soul",
   story: "story-read/dungeon-of-knowledge-complete",
   position: 621,

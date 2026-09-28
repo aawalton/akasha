@@ -4,6 +4,7 @@ export const dungeonOfKnowledgeComplete0609Chapter566SoulSeerOfTheNinePaths = {
   id: "01a0672c-ec63-7002-9951-6b15091de1ce",
   type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0609-chapter-566-soul-seer-of-the-nine-paths",
+  ownProgress: 2796,
   title: "Chapter 566: Soul Seer of the Nine Paths",
   story: "story-read/dungeon-of-knowledge-complete",
   position: 609,

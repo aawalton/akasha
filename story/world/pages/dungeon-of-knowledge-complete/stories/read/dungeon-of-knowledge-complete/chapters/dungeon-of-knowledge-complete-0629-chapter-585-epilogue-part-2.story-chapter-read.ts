@@ -4,6 +4,7 @@ export const dungeonOfKnowledgeComplete0629Chapter585EpiloguePart2 = {
   id: "01a0672c-ec6b-7000-a7c5-7d61c3c0a1d1",
   type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0629-chapter-585-epilogue-part-2",
+  ownProgress: 2816,
   title: "Chapter 585: Epilogue (Part 2)",
   story: "story-read/dungeon-of-knowledge-complete",
   position: 629,

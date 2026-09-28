@@ -4,6 +4,7 @@ export const dungeonOfKnowledgeComplete0601Chapter5585MatoStatusSheet = {
   id: "01a0672c-ec61-7000-8edb-d2b598574fb9",
   type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0601-chapter-558-5-mato-status-sheet",
+  ownProgress: 1861,
   title: "Chapter 558.5 Mato – Status Sheet",
   story: "story-read/dungeon-of-knowledge-complete",
   position: 601,

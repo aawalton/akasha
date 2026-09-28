@@ -4,6 +4,7 @@ export const dungeonOfKnowledgeComplete0605Chapter562TheLichSArmy = {
   id: "01a0672c-ec62-7000-9e4f-75766d5dfb64",
   type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0605-chapter-562-the-lich-s-army",
+  ownProgress: 5563,
   title: "Chapter 562: The Lich’s Army",
   story: "story-read/dungeon-of-knowledge-complete",
   position: 605,

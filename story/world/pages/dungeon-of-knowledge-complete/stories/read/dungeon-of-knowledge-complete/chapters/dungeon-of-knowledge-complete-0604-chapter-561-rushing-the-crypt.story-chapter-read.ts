@@ -4,6 +4,7 @@ export const dungeonOfKnowledgeComplete0604Chapter561RushingTheCrypt = {
   id: "01a0672c-ec61-7003-bcd0-480edad460a7",
   type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0604-chapter-561-rushing-the-crypt",
+  ownProgress: 3337,
   title: "Chapter 561: Rushing the Crypt",
   story: "story-read/dungeon-of-knowledge-complete",
   position: 604,

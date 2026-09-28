@@ -4,6 +4,7 @@ export const dungeonOfKnowledgeComplete0625Chapter581ToKillDeath = {
   id: "01a0672c-ec68-7001-868b-3bee1847c753",
   type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0625-chapter-581-to-kill-death",
+  ownProgress: 3532,
   title: "Chapter 581: To Kill Death",
   story: "story-read/dungeon-of-knowledge-complete",
   position: 625,

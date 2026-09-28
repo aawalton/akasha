@@ -4,6 +4,7 @@ export const dungeonOfKnowledgeComplete0620Chapter576DragonswornPart3 = {
   id: "01a0672c-ec67-7002-9de2-d625df99f985",
   type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0620-chapter-576-dragonsworn-part-3",
+  ownProgress: 1815,
   title: "Chapter 576: Dragonsworn (Part 3)",
   story: "story-read/dungeon-of-knowledge-complete",
   position: 620,

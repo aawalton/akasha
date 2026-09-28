@@ -4,6 +4,7 @@ export const dungeonOfKnowledgeComplete0616Chapter572MalikaSVision = {
   id: "01a0672c-ec66-7002-8775-ba2c19911b64",
   type: "page-type/story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0616-chapter-572-malika-s-vision",
+  ownProgress: 2406,
   title: "Chapter 572: Malika’s Vision",
   story: "story-read/dungeon-of-knowledge-complete",
   position: 616,
