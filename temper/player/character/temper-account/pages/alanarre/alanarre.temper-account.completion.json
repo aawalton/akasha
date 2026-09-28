@@ -30894,6 +30894,34 @@
         "totalSteps": 4
       }
     },
+    "4583": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 10
+      }
+    },
+    "4584": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 4
+      }
+    },
+    "4585": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 4
+      }
+    },
+    "4586": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 3
+      }
+    },
     "4588": {
       "completed": true,
       "criteriaProgress": {
@@ -31094,11 +31122,11 @@
           },
           "4": {
             "numCompleted": 0,
-            "numRequired": 100
+            "numRequired": 250
           },
           "5": {
             "numCompleted": 0,
-            "numRequired": 50
+            "numRequired": 100
           },
           "6": {
             "numCompleted": 3,
@@ -31440,8 +31468,605 @@
         }
       }
     },
+    "4657": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 6
+      }
+    },
     "4659": {
       "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1
+      }
+    },
+    "4678": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 4
+      }
+    },
+    "4679": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 4
+      }
+    },
+    "4680": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 4
+      }
+    },
+    "4681": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 4
+      }
+    },
+    "4682": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1
+      }
+    },
+    "4683": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1,
+        "criteria": {
+          "1": {
+            "numCompleted": 0,
+            "numRequired": 5
+          }
+        }
+      }
+    },
+    "4684": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 2
+      }
+    },
+    "4685": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 2,
+        "criteria": {
+          "1": {
+            "numCompleted": 0,
+            "numRequired": 10
+          },
+          "2": {
+            "numCompleted": 0,
+            "numRequired": 10
+          }
+        }
+      }
+    },
+    "4686": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1
+      }
+    },
+    "4687": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 6
+      }
+    },
+    "4688": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1,
+        "criteria": {
+          "1": {
+            "numCompleted": 0,
+            "numRequired": 10
+          }
+        }
+      }
+    },
+    "4689": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 8
+      }
+    },
+    "4690": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 8
+      }
+    },
+    "4691": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 4
+      }
+    },
+    "4692": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 2
+      }
+    },
+    "4693": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 5
+      }
+    },
+    "4694": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 3
+      }
+    },
+    "4695": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1
+      }
+    },
+    "4696": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1
+      }
+    },
+    "4697": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1
+      }
+    },
+    "4698": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1
+      }
+    },
+    "4699": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1
+      }
+    },
+    "4700": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 6
+      }
+    },
+    "4701": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 5
+      }
+    },
+    "4702": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 3
+      }
+    },
+    "4703": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1
+      }
+    },
+    "4704": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1
+      }
+    },
+    "4705": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1
+      }
+    },
+    "4706": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 3
+      }
+    },
+    "4707": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1
+      }
+    },
+    "4708": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 6
+      }
+    },
+    "4709": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1
+      }
+    },
+    "4710": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1,
+        "criteria": {
+          "1": {
+            "numCompleted": 0,
+            "numRequired": 50
+          }
+        }
+      }
+    },
+    "4711": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1,
+        "criteria": {
+          "1": {
+            "numCompleted": 0,
+            "numRequired": 100
+          }
+        }
+      }
+    },
+    "4718": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1
+      }
+    },
+    "4719": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1,
+        "criteria": {
+          "1": {
+            "numCompleted": 0,
+            "numRequired": 50
+          }
+        }
+      }
+    },
+    "4720": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1,
+        "criteria": {
+          "1": {
+            "numCompleted": 0,
+            "numRequired": 100
+          }
+        }
+      }
+    },
+    "4721": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 2,
+        "criteria": {
+          "1": {
+            "numCompleted": 0,
+            "numRequired": 8
+          },
+          "2": {
+            "numCompleted": 0,
+            "numRequired": 1
+          }
+        }
+      }
+    },
+    "4722": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1
+      }
+    },
+    "4723": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1,
+        "criteria": {
+          "1": {
+            "numCompleted": 0,
+            "numRequired": 25
+          }
+        }
+      }
+    },
+    "4724": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1,
+        "criteria": {
+          "1": {
+            "numCompleted": 0,
+            "numRequired": 75
+          }
+        }
+      }
+    },
+    "4729": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 4
+      }
+    },
+    "4730": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 4
+      }
+    },
+    "4731": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 4
+      }
+    },
+    "4732": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 4
+      }
+    },
+    "4733": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 4
+      }
+    },
+    "4734": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 4
+      }
+    },
+    "4735": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1
+      }
+    },
+    "4738": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1
+      }
+    },
+    "4739": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1,
+        "criteria": {
+          "1": {
+            "numCompleted": 0,
+            "numRequired": 10
+          }
+        }
+      }
+    },
+    "4740": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1,
+        "criteria": {
+          "1": {
+            "numCompleted": 0,
+            "numRequired": 20
+          }
+        }
+      }
+    },
+    "4741": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 5
+      }
+    },
+    "4742": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 4
+      }
+    },
+    "4743": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1,
+        "criteria": {
+          "1": {
+            "numCompleted": 0,
+            "numRequired": 25
+          }
+        }
+      }
+    },
+    "4744": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1,
+        "criteria": {
+          "1": {
+            "numCompleted": 0,
+            "numRequired": 25
+          }
+        }
+      }
+    },
+    "4745": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1,
+        "criteria": {
+          "1": {
+            "numCompleted": 0,
+            "numRequired": 20
+          }
+        }
+      }
+    },
+    "4746": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1,
+        "criteria": {
+          "1": {
+            "numCompleted": 0,
+            "numRequired": 10
+          }
+        }
+      }
+    },
+    "4747": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1
+      }
+    },
+    "4748": {
+      "completed": false,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 2,
+        "criteria": {
+          "1": {
+            "numCompleted": 0,
+            "numRequired": 10
+          },
+          "2": {
+            "numCompleted": 0,
+            "numRequired": 10
+          }
+        }
+      }
+    },
+    "4749": {
+      "completed": true,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1
+      }
+    },
+    "4750": {
+      "completed": true,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1
+      }
+    },
+    "4751": {
+      "completed": true,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1
+      }
+    },
+    "4752": {
+      "completed": true,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1
+      }
+    },
+    "4753": {
+      "completed": true,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1
+      }
+    },
+    "4754": {
+      "completed": true,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1
+      }
+    },
+    "4755": {
+      "completed": true,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1
+      }
+    },
+    "4756": {
+      "completed": true,
+      "criteriaProgress": {
+        "completedSteps": 0,
+        "totalSteps": 1
+      }
+    },
+    "4757": {
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 1
@@ -79788,6 +80413,72 @@
         },
         {
           "name": "Shield of the Gorethief",
+          "unlocked": false
+        }
+      ]
+    },
+    "876": {
+      "name": "Tarcyr",
+      "categoryName": "Miscellaneous",
+      "subcategoryName": "Solo Dungeons",
+      "slotsUnlocked": 0,
+      "totalSlots": 6,
+      "pieces": [
+        {
+          "name": "Tarcyr Guise",
+          "unlocked": false
+        },
+        {
+          "name": "Tarcyr Mask",
+          "unlocked": false
+        },
+        {
+          "name": "Tarcyr Visage",
+          "unlocked": false
+        },
+        {
+          "name": "Tarcyr Epaulets",
+          "unlocked": false
+        },
+        {
+          "name": "Tarcyr Arm Cops",
+          "unlocked": false
+        },
+        {
+          "name": "Tarcyr Pauldron",
+          "unlocked": false
+        }
+      ]
+    },
+    "877": {
+      "name": "Mylenne Moon-Caller",
+      "categoryName": "Miscellaneous",
+      "subcategoryName": "Solo Dungeons",
+      "slotsUnlocked": 0,
+      "totalSlots": 6,
+      "pieces": [
+        {
+          "name": "Mylenne Moon-Caller Guise",
+          "unlocked": false
+        },
+        {
+          "name": "Mylenne Moon-Caller Mask",
+          "unlocked": false
+        },
+        {
+          "name": "Mylenne Moon-Caller Visage",
+          "unlocked": false
+        },
+        {
+          "name": "Mylenne Moon-Caller Epaulets",
+          "unlocked": false
+        },
+        {
+          "name": "Mylenne Moon-Caller Arm Cops",
+          "unlocked": false
+        },
+        {
+          "name": "Mylenne Moon-Caller Pauldron",
           "unlocked": false
         }
       ]
