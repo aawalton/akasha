@@ -19,6 +19,8 @@ const OLD = "image/image-old"
 
 const NEW_SLUG = "image-new"
 
+const HEAD = "1f2e3d4c5b6a79881f2e3d4c5b6a79881f2e3d4c"
+
 const MADE = {
   model: "beyond-reality-3",
   prompt: "a lighthouse at dusk",
@@ -62,6 +64,7 @@ function faked(
   const effects: Rerolling = {
     beside: () => ({ coverReroll: OLD }),
     image: () => MADE,
+    head: () => HEAD,
     rows: (pageTypeSlug) => rows[pageTypeSlug] ?? [],
     draw: (drawing) => {
       drawn.push(drawing)
@@ -137,6 +140,26 @@ test("a reroll draws at the recorded size, points the story at the new cover and
     { pageTypeSlug: "image", slug: "image-old", values: { grade: "F" }, merge: true },
   ])
   expect(held.answers).toEqual([null])
+})
+
+test("the write states the commit its turn and old cover were read at, since both hold bodies already", async () => {
+  let read = "none yet"
+  const held = faked(
+    { "story-turn-played": [turn("t-1", OLD)] },
+    {
+      head: () => {
+        read = HEAD
+        return HEAD
+      },
+      draw: () => {
+        read = "read before the render"
+        return Promise.resolve(NEW_SLUG)
+      },
+    }
+  )
+  await rerollOf(STORY, held.effects)
+  expect(read).toBe(HEAD)
+  expect(held.written[0]?.read).toBe(HEAD)
 })
 
 test("a turn of another story naming the same cover is left alone", async () => {

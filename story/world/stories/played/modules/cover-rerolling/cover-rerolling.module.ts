@@ -28,6 +28,16 @@ export const coverRerolling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "That commit states the commit its turns and old cover were read at, since each holds a body already.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The turns are read after the render, so the commit rests on the story as it now is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The ask is taken off the story once the new cover is in place or refused.",
     },
     {

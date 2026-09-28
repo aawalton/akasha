@@ -1,4 +1,5 @@
 import { dirname, join } from "node:path"
+import { headOf } from "akasha/git/modules/head-commit/head-commit.module.code.ts"
 import {
   fetchImage,
   runComfyGraph,
@@ -150,10 +151,16 @@ export function repointed(
   return named
 }
 
-export function rerollWriting(named: readonly Naming[], from: string, to: string): Writing {
+export function rerollWriting(
+  named: readonly Naming[],
+  from: string,
+  to: string,
+  read: string
+): Writing {
   return {
     writer: WRITER,
     message: `the turn cover ${from} is drawn again as ${to}, and ${from} is graded F`,
+    read,
     pages: [
       ...named,
       {
@@ -182,6 +189,7 @@ export function answered(beside: Value | null, refused: string | null): Value {
 export type Rerolling = {
   readonly beside: (story: string) => Value | null
   readonly image: (address: string) => Value | null
+  readonly head: () => string
   readonly rows: (pageTypeSlug: string) => readonly Row[]
   readonly draw: (drawing: Drawing) => Promise<string>
   readonly write: (writing: Writing) => Promise<string | null>
@@ -211,7 +219,9 @@ async function redrawn(story: string, asked: string, effects: Rerolling): Promis
     return refusalSaid(thrown)
   }
   if (drawn === asked) return "The picture came out the same as before, so nothing changed."
-  return await effects.write(rerollWriting(holdersIn(folder, effects, asked, drawn), asked, drawn))
+  const read = effects.head()
+  const named = holdersIn(folder, effects, asked, drawn)
+  return await effects.write(rerollWriting(named, asked, drawn, read))
 }
 
 export async function rerollOf(story: string, effects: Rerolling): Promise<boolean> {
@@ -273,6 +283,7 @@ function rerollingAt(root: string): Rerolling {
       const path = listed.length === 1 ? listed[0]?.path : undefined
       return path === undefined ? null : valueAt(path, root)
     },
+    head: () => headOf(root),
     rows: (pageTypeSlug) => valuesOfType(root, pageTypeSlug),
     draw: drawnAs,
     write: writtenBy,
