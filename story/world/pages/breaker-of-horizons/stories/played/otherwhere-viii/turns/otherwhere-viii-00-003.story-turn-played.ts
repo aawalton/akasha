@@ -11,4 +11,5 @@ export const otherwhereViii00003 = {
   action:
     "\"Just a hard night I think. The gardens are lovely, but I don't think I've been here before. Would you point me the way back to the Academy?\"",
   lore: ["place/otherwhere-viii-weir-gardens", "place/otherwhere-viii-low-bank"],
+  endsAt: "2026-09-28T05:50:00.000Z",
 } as const satisfies StoryTurnPlayed
