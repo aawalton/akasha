@@ -4,13 +4,14 @@ export const otherwhere00067 = {
   id: "01a0e839-56cd-70f4-a149-1aa4deeb7927",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-067",
+  cover: "image/image-b2d24b28222312ea",
   ownLength: 112,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 67,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: "I yawn and stretch, then get out of bed and open the door",
   beats: [
     "Nala yawns and stretches under the covers, then climbs out of the wide bed, naked.",
@@ -22,6 +23,6 @@ export const otherwhere00067 = {
     "One tilts its blank head toward the passage with a slow creak of wood and brass.",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-29T06:32:00.000Z",
 } as const satisfies StoryTurnPlayed

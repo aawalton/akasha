@@ -37,11 +37,19 @@ export const otherwhereGolems = {
     },
     {
       fact: "The shelving golems are tall and thin, pale oak and brass, with long jointed arms and no faces.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-links",
+        "character-player/otherwhere-alan",
+      ],
     },
     {
       fact: "By morning the two shelving golems stand silent beside the Counter, waiting on her word.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-links",
+        "character-player/otherwhere-alan",
+      ],
     },
   ],
 } as const satisfies Lore
