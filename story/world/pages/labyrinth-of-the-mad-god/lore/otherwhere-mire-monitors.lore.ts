@@ -40,11 +40,35 @@ export const otherwhereMireMonitors = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "A mire monitor's scaled hide is a ward of two; its belly and throat are softer, a ward of none.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A mire monitor's small eyes sit under bony brow ridges; a blow that reaches one ignores its hide.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Its neck is thick with muscle; a rider on it is thrown off by a rolling, twisting thrash.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hurt in an eye, a mire monitor breaks off and makes for deep water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "When one mire monitor fights, its partner comes at the struggle from the side.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "A mire monitor hisses and gapes before it charges.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A mire monitor is level 4 or 5, far past an untrained person in a straight fight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A pair lies up in the reeds by the Glassrun's mouth: a level 4 female, and a level 5 male beyond.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
