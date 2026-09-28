@@ -124,5 +124,6 @@ export const otherwhereIiiUptownMemorialEr = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
 } as const satisfies Place
