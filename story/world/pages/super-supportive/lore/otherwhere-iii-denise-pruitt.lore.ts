@@ -16,6 +16,10 @@ export const otherwhereIiiDenisePruitt = {
       fact: "She rides north to a 5:30 shift at Uptown Memorial Hospital, by the Lawrence stop.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Lawrence is three stops past Addison, about six minutes on.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
