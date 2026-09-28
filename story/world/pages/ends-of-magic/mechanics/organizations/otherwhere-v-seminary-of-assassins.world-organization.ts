@@ -6,5 +6,5 @@ export const otherwhereVSeminaryOfAssassins = {
   slug: "otherwhere-v-seminary-of-assassins",
   title: "The Seminary of Assassins",
   world: "world/ends-of-magic",
-  description: "A school of assassins led by a Questor.",
+  description: "A school of assassins.",
 } as const satisfies WorldOrganization

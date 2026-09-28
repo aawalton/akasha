@@ -7,5 +7,5 @@ export const otherwhereVGuardiansOfEsebus = {
   title: "The Guardians of Esebus",
   world: "world/ends-of-magic",
   aliases: ["Esebus soldiers"],
-  description: "The flying soldiers of Esebus, who patrol its continent in winged armor.",
+  description: "A corps of flying soldiers.",
 } as const satisfies WorldOrganization

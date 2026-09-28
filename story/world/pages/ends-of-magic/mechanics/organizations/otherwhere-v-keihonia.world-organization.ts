@@ -7,5 +7,5 @@ export const otherwhereVKeihonia = {
   title: "Keihonia",
   world: "world/ends-of-magic",
   aliases: ["Keihona", "Kehonia"],
-  description: "The island nation of the Questor Sarya, ruled from the city of Keihona.",
+  description: "An island nation.",
 } as const satisfies WorldOrganization

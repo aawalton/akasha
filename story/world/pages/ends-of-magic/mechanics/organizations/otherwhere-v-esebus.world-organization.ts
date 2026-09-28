@@ -6,5 +6,5 @@ export const otherwhereVEsebus = {
   slug: "otherwhere-v-esebus",
   title: "Esebus",
   world: "world/ends-of-magic",
-  description: "A nation ruling a whole continent from its capital city, Esebus.",
+  description: "An imperial nation.",
 } as const satisfies WorldOrganization

@@ -6,5 +6,5 @@ export const otherwhereVSaryasGrid = {
   slug: "otherwhere-v-saryas-grid",
   title: "Sarya's Grid",
   world: "world/ends-of-magic",
-  description: "A grid of four Questors led by Sarya of Keihonia.",
+  description: "A grid of four Questors.",
 } as const satisfies WorldOrganization

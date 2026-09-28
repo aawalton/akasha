@@ -6,5 +6,5 @@ export const otherwhereVBadudsGrid = {
   slug: "otherwhere-v-baduds-grid",
   title: "Badud's Grid",
   world: "world/ends-of-magic",
-  description: "An old grid of four mage Questors led by Badud.",
+  description: "A grid of Questor mages.",
 } as const satisfies WorldOrganization

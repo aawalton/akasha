@@ -6,5 +6,5 @@ export const otherwhereVHelmaris = {
   slug: "otherwhere-v-helmaris",
   title: "Helmaris",
   world: "world/ends-of-magic",
-  description: "A cliffside harbor city of smiths and machines, ruled by a Questor.",
+  description: "A harbor city-state.",
 } as const satisfies WorldOrganization

@@ -6,5 +6,5 @@ export const otherwhereVSago = {
   slug: "otherwhere-v-sago",
   title: "Sago",
   world: "world/ends-of-magic",
-  description: "A seafaring power known for its castle-like ocean galleons.",
+  description: "A seafaring nation.",
 } as const satisfies WorldOrganization

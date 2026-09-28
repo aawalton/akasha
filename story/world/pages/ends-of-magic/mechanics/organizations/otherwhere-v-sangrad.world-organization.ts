@@ -6,5 +6,5 @@ export const otherwhereVSangrad = {
   slug: "otherwhere-v-sangrad",
   title: "Sangrad",
   world: "world/ends-of-magic",
-  description: "An underground cavern-city ruled by an Archlord.",
+  description: "An underground city-state.",
 } as const satisfies WorldOrganization

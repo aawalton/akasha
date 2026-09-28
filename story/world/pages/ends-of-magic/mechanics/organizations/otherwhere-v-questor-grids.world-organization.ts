@@ -7,5 +7,5 @@ export const otherwhereVQuestorGrids = {
   title: "Questor Grids",
   world: "world/ends-of-magic",
   aliases: ["grids", "the game of Questors", "polite wars", "Questor wars"],
-  description: "The alliances the immortal Questors band into.",
+  description: "Alliances of Questors.",
 } as const satisfies WorldOrganization
