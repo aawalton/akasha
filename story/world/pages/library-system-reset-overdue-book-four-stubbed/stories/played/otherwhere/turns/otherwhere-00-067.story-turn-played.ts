@@ -22,4 +22,6 @@ export const otherwhere00067 = {
     "One tilts its blank head toward the passage with a slow creak of wood and brass.",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
+  endsAt: "2026-09-29T06:32:00.000Z",
 } as const satisfies StoryTurnPlayed
