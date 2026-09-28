@@ -18,6 +18,6 @@ export const rebornAsADemonicTree0066Chapter543GazeOfTheTreeGod = {
     },
   ],
   publishedAt: "2026-03-09",
-  ownProgress: 394,
+  ownProgress: 3260,
   prose: "txt",
 } as const satisfies StoryChapterRead

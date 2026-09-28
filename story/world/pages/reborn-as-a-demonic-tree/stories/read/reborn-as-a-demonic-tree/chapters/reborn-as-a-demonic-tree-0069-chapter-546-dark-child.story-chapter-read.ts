@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0069Chapter546DarkChild = {
   id: "01a06730-4de4-7ef1-831d-62907727a8b7",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0069-chapter-546-dark-child",
+  ownProgress: 2902,
   title: "Chapter 546: Dark Child",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 69,

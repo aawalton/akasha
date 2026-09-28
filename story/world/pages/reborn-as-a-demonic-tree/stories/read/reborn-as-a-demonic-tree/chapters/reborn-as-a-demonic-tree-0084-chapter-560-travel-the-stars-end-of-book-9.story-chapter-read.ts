@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0084Chapter560TravelTheStarsEndOfBook9 = {
   id: "01a06730-4deb-75a7-8bed-f92b9bbc9334",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0084-chapter-560-travel-the-stars-end-of-book-9",
+  ownProgress: 3099,
   title: "Chapter 560: Travel the Stars (End of Book 9)",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 84,

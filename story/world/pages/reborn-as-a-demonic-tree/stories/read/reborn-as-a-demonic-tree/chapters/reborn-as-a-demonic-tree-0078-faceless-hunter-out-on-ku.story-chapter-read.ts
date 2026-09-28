@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0078FacelessHunterOutOnKu = {
   id: "01a06730-4dea-74af-a9e9-114b2b6418c3",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0078-faceless-hunter-out-on-ku",
+  ownProgress: 214,
   title: "Faceless Hunter out on KU!",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 78,

@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0081Chapter557Checkmate = {
   id: "01a06730-4dea-756c-9f7b-328c7dcc68e7",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0081-chapter-557-checkmate",
+  ownProgress: 2469,
   title: "Chapter 557: Checkmate",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 81,

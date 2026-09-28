@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0087Chapter563CuttingADeal = {
   id: "01a06730-4deb-7cdb-8a2f-006d42b38f27",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0087-chapter-563-cutting-a-deal",
+  ownProgress: 2401,
   title: "Chapter 563: Cutting a Deal",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 87,

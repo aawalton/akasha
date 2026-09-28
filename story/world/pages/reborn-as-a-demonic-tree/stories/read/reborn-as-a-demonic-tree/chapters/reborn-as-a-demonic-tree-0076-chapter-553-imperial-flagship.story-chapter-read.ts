@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0076Chapter553ImperialFlagship = {
   id: "01a06730-4de9-7fad-90ae-5f8c5d5452fc",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0076-chapter-553-imperial-flagship",
+  ownProgress: 2599,
   title: "Chapter 553: Imperial Flagship",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 76,

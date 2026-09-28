@@ -4,6 +4,7 @@ export const phoenixHealer0002PhoenixHealerOnAmazon = {
   id: "01a06730-4dc4-70b3-bcb9-fb2e621c3af1",
   type: "page-type/story-chapter-read",
   slug: "phoenix-healer-0002-phoenix-healer-on-amazon",
+  ownProgress: 90,
   title: "Phoenix Healer on Amazon!",
   story: "story-read/phoenix-healer",
   position: 2,

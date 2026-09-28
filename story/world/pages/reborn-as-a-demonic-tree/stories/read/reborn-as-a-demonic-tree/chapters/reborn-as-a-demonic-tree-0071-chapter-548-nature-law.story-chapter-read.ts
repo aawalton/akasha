@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0071Chapter548NatureLaw = {
   id: "01a06730-4de5-7381-88d5-61400e8776e5",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0071-chapter-548-nature-law",
+  ownProgress: 2703,
   title: "Chapter 548: Nature Law",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 71,

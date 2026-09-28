@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0072Chapter549ReturnToTheEternalRealm = {
   id: "01a06730-4de6-7a8c-807a-2f9f42b39d9b",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0072-chapter-549-return-to-the-eternal-realm",
+  ownProgress: 2915,
   title: "Chapter 549: Return to the Eternal Realm",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 72,

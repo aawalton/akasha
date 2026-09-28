@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0091Chapter567DimensionalPainter = {
   id: "01a06730-4ded-7a1e-a286-c6266f5a7adc",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0091-chapter-567-dimensional-painter",
+  ownProgress: 2606,
   title: "Chapter 567: Dimensional Painter",
   story: "story-read/reborn-as-a-demonic-tree",
   position: 91,

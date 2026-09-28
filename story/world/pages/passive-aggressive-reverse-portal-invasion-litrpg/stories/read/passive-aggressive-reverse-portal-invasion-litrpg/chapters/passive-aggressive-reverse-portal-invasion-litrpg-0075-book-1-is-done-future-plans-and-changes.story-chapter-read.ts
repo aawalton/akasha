@@ -4,6 +4,7 @@ export const passiveAggressiveReversePortalInvasionLitrpg0075Book1IsDoneFuturePl
   id: "01a085a0-09a6-7442-9f3c-53018436d94f",
   type: "page-type/story-chapter-read",
   slug: "passive-aggressive-reverse-portal-invasion-litrpg-0075-book-1-is-done-future-plans-and-changes",
+  ownProgress: 255,
   position: 75,
   publishedAt: "2026-09-09",
   unit: "unit/words",

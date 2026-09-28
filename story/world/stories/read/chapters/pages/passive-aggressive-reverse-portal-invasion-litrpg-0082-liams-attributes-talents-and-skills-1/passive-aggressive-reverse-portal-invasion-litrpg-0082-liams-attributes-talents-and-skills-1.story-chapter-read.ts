@@ -4,6 +4,7 @@ export const passiveAggressiveReversePortalInvasionLitrpg0082LiamsAttributesTale
   id: "01a0c892-c1ad-74d5-afb3-357be38afee4",
   type: "page-type/story-chapter-read",
   slug: "passive-aggressive-reverse-portal-invasion-litrpg-0082-liams-attributes-talents-and-skills-1",
+  ownProgress: 1631,
   position: 82,
   publishedAt: "2026-09-22",
   unit: "unit/words",
