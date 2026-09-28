@@ -34,7 +34,19 @@ export const changeFollowing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stream taking the keys after one was lost reads everything followed again.",
+      statement: "The last mark a stream says is kept as what the browser has every change up to.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stream taking the keys after one was lost names that mark as `since`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "It reads everything followed again only where the service did not catch it up.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A mark is taken only from a stream, never from the answer to a follow.",
     },
     {
       decisionKind: "decision-kind/departure",

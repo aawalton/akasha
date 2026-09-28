@@ -27,7 +27,7 @@ export const filePropertyDefs = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every shape held is dropped when a lost stream is taken up again.",
+      statement: "Every shape held is dropped when a lost stream is taken up and not caught up.",
     },
     {
       decisionKind: "decision-kind/departure",

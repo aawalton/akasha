@@ -3,7 +3,10 @@ import {
   eventsOpened,
   followSent,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
-import { createChangeFollowing } from "akasha/page/ui-store/collection/modules/change-following/change-following.module.code.ts"
+import {
+  answeredBy,
+  createChangeFollowing,
+} from "akasha/page/ui-store/collection/modules/change-following/change-following.module.code.ts"
 import { inABrowser } from "akasha/page/ui-store/collection/modules/event-source-stream/event-source-stream.module.code.ts"
 
 const readingAgain = new Map<string, Set<() => undefined>>()
@@ -15,7 +18,7 @@ function againAll(heard: Iterable<() => undefined>): undefined {
 
 const following = createChangeFollowing({
   open: () => streamOver((signal) => eventsOpened(signal)),
-  send: async (body) => (await followSent(body)).ok,
+  send: async (body) => answeredBy(await followSent(body)),
   pushed: (one) => againFor(one.keys, `since ${one.pageTypeSlug}/${one.slug ?? "*"} changed`),
   caughtUp: () => undefined,
   took: (keys) => againFor(keys, "since a stream took it"),

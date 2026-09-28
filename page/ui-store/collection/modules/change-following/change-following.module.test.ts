@@ -41,7 +41,7 @@ function settled(): Promise<void> {
   return new Promise((done) => setTimeout(done, 5))
 }
 
-function rig(took = true) {
+function rig(took = true, caughtUp = false) {
   const streams: Fake[] = []
   const sent: unknown[] = []
   const pushes: Pushed[] = []
@@ -54,7 +54,7 @@ function rig(took = true) {
     },
     send: async (body) => {
       sent.push(body)
-      return took
+      return took ? { caughtUp } : null
     },
     pushed: (one) => {
       pushes.push(one)
@@ -120,6 +120,47 @@ test("a stream lost leaves nothing live, and the next stream reads everything ag
   following.stop()
 })
 
+test("a stream opened again names the last mark the lost stream said, and reads nothing again once caught up", async () => {
+  const { following, streams, sent, caught } = rig(true, true)
+  following.follow("seat", { pageTypeSlug: "seat" })
+  following.start()
+  streams[0]?.say("stream", { stream: "one" })
+  await settled()
+  streams[0]?.say("mark", { epoch: "run", mark: 7 })
+  streams[0]?.say("mark", { epoch: "run", mark: 9 })
+  streams[0]?.shut()
+  await settled()
+  streams[1]?.say("stream", { stream: "two" })
+  await settled()
+  expect(sent).toEqual([
+    { stream: "one", follows: [{ key: "seat", pageTypeSlug: "seat" }] },
+    {
+      stream: "two",
+      follows: [{ key: "seat", pageTypeSlug: "seat" }],
+      since: { epoch: "run", mark: 9 },
+    },
+  ])
+  expect(following.live("seat")).toBe(true)
+  expect(caught()).toBe(0)
+  following.stop()
+})
+
+test("a stream that said no mark is followed again with none, and everything is read again", async () => {
+  const { following, streams, sent, caught } = rig(true, false)
+  following.follow("seat", { pageTypeSlug: "seat" })
+  following.start()
+  streams[0]?.say("stream", { stream: "one" })
+  await settled()
+  streams[0]?.say("mark", { epoch: "run" })
+  streams[0]?.shut()
+  await settled()
+  streams[1]?.say("stream", { stream: "two" })
+  await settled()
+  expect(sent.at(-1)).toEqual({ stream: "two", follows: [{ key: "seat", pageTypeSlug: "seat" }] })
+  expect(caught()).toBe(1)
+  following.stop()
+})
+
 test("the keys a stream takes anew are named, on the first stream and on every stream after", async () => {
   const streams: Fake[] = []
   const named: (readonly string[])[] = []
@@ -129,7 +170,7 @@ test("the keys a stream takes anew are named, on the first stream and on every s
       streams.push(one)
       return one
     },
-    send: async () => true,
+    send: async () => ({ caughtUp: false }),
     pushed: () => undefined,
     caughtUp: () => undefined,
     took: (keys) => {
@@ -162,6 +203,40 @@ test("a stream refusing what is followed is opened again", async () => {
   expect(streams[0]?.wasClosed()).toBe(true)
   following.stop()
 })
+
+test("a store reads nothing again on a new stream the service says it caught up", async () => {
+  const asked: (readonly string[] | undefined)[] = []
+  const readingAgain = new Map([
+    [
+      "seat",
+      async (ids?: readonly string[]) => {
+        asked.push(ids)
+      },
+    ],
+  ])
+  const answers = ["{}", '{"caughtUp":true}']
+  const streams: Fake[] = []
+  const store = createStoreFollowing(
+    readingAgain,
+    async () => new Response(answers.shift() ?? "{}", { status: 200 }),
+    () => {
+      const one = fakeStream()
+      streams.push(one)
+      return one
+    },
+    true
+  )
+  store.follow("seat", { pageTypeSlug: "seat" })
+  store.followPages({ events: "/events", follow: "/follow" })
+  streams[0]?.say("stream", { stream: "one" })
+  await until(() => store.live("seat"))
+  streams[0]?.shut()
+  expect(await until(() => streams.length === 2)).toBe(true)
+  streams[1]?.say("stream", { stream: "two" })
+  await until(() => store.live("seat"))
+  await settled()
+  expect(asked).toEqual([])
+}, 8_000)
 
 test("a push that names no page type is no push", () => {
   expect(pushedIn(JSON.stringify({ keys: [] }))).toBeNull()

@@ -37,9 +37,15 @@ export interface StreamLike {
   readonly close: () => undefined
 }
 
+interface Answered {
+  readonly caughtUp: boolean
+}
+
+type Mark = { readonly epoch: string; readonly mark: number }
+
 interface ChangeFollowingDeps {
   readonly open: () => StreamLike
-  readonly send: (body: unknown) => Promise<boolean>
+  readonly send: (body: unknown) => Promise<Answered | null>
   readonly pushed: (one: Pushed) => undefined
   readonly caughtUp: () => undefined
   readonly took?: (keys: readonly string[]) => undefined
@@ -76,6 +82,10 @@ interface StoreFollowing {
 
 const STREAM_SAID = z.looseObject({ stream: z.string().min(1) })
 
+const MARK_SAID = z.looseObject({ epoch: z.string().min(1), mark: z.number().int().nonnegative() })
+
+const CAUGHT_SAID = z.looseObject({ caughtUp: z.boolean().optional() })
+
 const PUSHED_SAID = z.looseObject({
   pageTypeSlug: z.string().min(1),
   keys: z.array(z.unknown()),
@@ -91,6 +101,12 @@ function saidIn<T>(schema: z.ZodType<T>, data: unknown): T | null {
   } catch {
     return null
   }
+}
+
+export async function answeredBy(response: Response): Promise<Answered | null> {
+  if (!response.ok) return null
+  const stated = saidIn(CAUGHT_SAID, await response.text().catch(() => ""))
+  return { caughtUp: stated?.caughtUp === true }
 }
 
 function streamNamedIn(data: unknown): string | null {
@@ -130,6 +146,7 @@ export function createChangeFollowing(deps: ChangeFollowingDeps): ChangeFollowin
   let settling: ReturnType<typeof setTimeout> | null = null
   let reopening: ReturnType<typeof setTimeout> | null = null
   let waited = retryMs
+  let heard: Mark | null = null
 
   const lost = (): undefined => {
     named = null
@@ -141,14 +158,15 @@ export function createChangeFollowing(deps: ChangeFollowingDeps): ChangeFollowin
     const at = named
     if (at === null) return
     const follows = [...held].map(([key, one]) => ({ key, ...one.followed }))
-    let took = false
+    const since = followedOn !== null && followedOn !== at ? heard : null
+    let answered: Answered | null = null
     try {
-      took = await deps.send({ stream: at, follows })
+      answered = await deps.send({ stream: at, follows, ...(since === null ? {} : { since }) })
     } catch {
-      took = false
+      answered = null
     }
     if (at !== named) return
-    if (!took) {
+    if (answered === null) {
       reopen()
       return
     }
@@ -157,7 +175,7 @@ export function createChangeFollowing(deps: ChangeFollowingDeps): ChangeFollowin
     const newly = [...taken].filter((key) => !before.has(key))
     if (newly.length > 0) deps.took?.(newly)
     if (followedOn === at) return
-    if (followedOn !== null) deps.caughtUp()
+    if (followedOn !== null && !answered.caughtUp) deps.caughtUp()
     followedOn = at
   }
 
@@ -204,6 +222,11 @@ export function createChangeFollowing(deps: ChangeFollowingDeps): ChangeFollowin
     opened.on("page", (data) => {
       const one = pushedIn(data)
       if (one !== null) deps.pushed(one)
+      return undefined
+    })
+    opened.on("mark", (data) => {
+      const stated = saidIn(MARK_SAID, data)
+      if (stated !== null && stream === opened) heard = { epoch: stated.epoch, mark: stated.mark }
       return undefined
     })
     opened.on("error", () => {
@@ -294,13 +317,13 @@ export function createStoreFollowing(
   const following = createChangeFollowing({
     open: () => open(followingAt?.events ?? ""),
     send: async (body) => {
-      if (fetchImpl === null || followingAt === null) return false
+      if (fetchImpl === null || followingAt === null) return null
       const answered = await fetchImpl(followingAt.follow, {
         method: "POST",
         headers: { "content-type": "application/json", accept: "application/json" },
         body: JSON.stringify(body),
       })
-      return answered.ok
+      return answeredBy(answered)
     },
     pushed: (one) => {
       const ids = one.id === undefined ? undefined : [one.id]
