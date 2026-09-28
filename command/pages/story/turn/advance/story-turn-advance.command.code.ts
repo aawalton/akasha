@@ -93,9 +93,11 @@ const ID = "id"
 
 export type Timed = (root: string, ended: Ended, agentId: string | null) => undefined
 
+const TIMED_STORIES = [storyPlayed.slug, storyWritten.slug]
+
 export function phaseTimed(root: string, ended: Ended, agentId: string | null): undefined {
   try {
-    const story = listedAt(root, storyPlayed.slug, ended.story)[0]
+    const story = TIMED_STORIES.flatMap((type) => listedAt(root, type, ended.story))[0]
     if (story === undefined) return undefined
     const since = (from: number) =>
       agentId === null ? null : readOwnTranscriptsSince(agentId, from)
