@@ -44,5 +44,6 @@ export const otherwhereIii00004 = {
   ],
   lore: ["lore/otherwhere-iii-denise-pruitt", "lore/otherwhere-iii-nala"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2037-01-31T04:57:00.000Z",
 } as const satisfies StoryTurnPlayed
