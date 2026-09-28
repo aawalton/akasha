@@ -168,7 +168,6 @@ export const otherwhereUniverse = {
         "character-other/otherwhere-links",
       ],
     },
-
     {
       fact: "The Library feeds and shelters anyone who comes to it in need.",
       knowers: [
@@ -281,7 +280,6 @@ export const otherwhereUniverse = {
         "character-other/otherwhere-links",
       ],
     },
-
     {
       fact: "The Library has had no Library Assistants for centuries; its Librarian is the whole staff.",
       knowers: [
@@ -364,11 +362,19 @@ export const otherwhereUniverse = {
     },
     {
       fact: "The map shows the Library's rooms with power lit, and the rest, the hospital wing among them, dark.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-links",
+        "character-player/otherwhere-alan",
+      ],
     },
     {
       fact: "Nala's fourth sync shows the hall's books thrown down in one night long ago, by no hand she sees.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-links",
+        "character-player/otherwhere-alan",
+      ],
     },
     {
       fact: "At 100 power the interface shows Library Power: 100 / 100, Stores Full.",
@@ -409,6 +415,14 @@ export const otherwhereUniverse = {
         "character-player/otherwhere-alan",
         "character-other/otherwhere-links",
       ],
+    },
+    {
+      fact: "Since her fourth sync, Nala's interface shows a map of the Library.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "The map lights the main hall, the kitchen, the quarters and the core below.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],
   secrets: "jsonl",

@@ -11,7 +11,7 @@ export const otherwhere00065 = {
   position: 65,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: "I go back to the basement and sync with the core again.",
   beats: [
     "Nala winds down the spiral staircase into the round chamber, the amber light fading behind her.",
@@ -27,5 +27,6 @@ export const otherwhere00065 = {
   ],
   lore: ["lore/otherwhere-universe"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
+  endsAt: "2026-09-28T18:10:00.000Z",
 } as const satisfies StoryTurnPlayed
