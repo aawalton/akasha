@@ -4,6 +4,7 @@ export const metaworldHopecore0093Chapter52MothToAFlame2 = {
   id: "01a06731-aefa-7001-94db-702669ec3cf8",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0093-chapter-52-moth-to-a-flame-2",
+  ownProgress: 2964,
   title: "CHAPTER 52 - Moth to a Flame (2)",
   story: "story-read/metaworld-hopecore",
   position: 93,

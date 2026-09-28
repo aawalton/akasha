@@ -4,6 +4,7 @@ export const metaworldHopecore0089Chapter50TheWeight = {
   id: "01a06731-aef5-7000-b9d7-85a46f9c081a",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0089-chapter-50-the-weight",
+  ownProgress: 4326,
   title: "CHAPTER 50 — The Weight",
   story: "story-read/metaworld-hopecore",
   position: 89,

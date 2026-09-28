@@ -4,6 +4,7 @@ export const metaworldHopecore0110Chapter63InThePines = {
   id: "01a06731-af0a-7001-a852-1ba6865647ab",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0110-chapter-63-in-the-pines",
+  ownProgress: 3523,
   title: "CHAPTER 63 - In the Pines",
   story: "story-read/metaworld-hopecore",
   position: 110,

@@ -4,6 +4,7 @@ export const metaworldHopecore0123Chapter74TheShowMustGoOn = {
   id: "01a06731-af16-7001-be1a-9981865aac6f",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0123-chapter-74-the-show-must-go-on",
+  ownProgress: 2478,
   title: "CHAPTER 74 - The Show Must Go On",
   story: "story-read/metaworld-hopecore",
   position: 123,

@@ -4,6 +4,7 @@ export const metaworldHopecore0131Chapter78TheLongAndWindingRoad = {
   id: "01a06731-af1a-7001-bb98-02be8fe8b321",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0131-chapter-78-the-long-and-winding-road",
+  ownProgress: 3359,
   title: "CHAPTER 78 - The Long and Winding Road",
   story: "story-read/metaworld-hopecore",
   position: 131,

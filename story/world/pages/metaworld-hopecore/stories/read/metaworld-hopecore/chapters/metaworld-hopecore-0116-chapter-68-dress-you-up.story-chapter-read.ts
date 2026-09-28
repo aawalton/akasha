@@ -4,6 +4,7 @@ export const metaworldHopecore0116Chapter68DressYouUp = {
   id: "01a06731-af10-7000-a451-40c024c122f3",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0116-chapter-68-dress-you-up",
+  ownProgress: 3734,
   title: "CHAPTER 68 - Dress You Up",
   story: "story-read/metaworld-hopecore",
   position: 116,

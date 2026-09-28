@@ -4,6 +4,7 @@ export const metaworldHopecore0120Chapter72BleedingLove = {
   id: "01a06731-af14-7000-a3dd-aab2e5528cad",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0120-chapter-72-bleeding-love",
+  ownProgress: 4024,
   title: "CHAPTER 72  - Bleeding Love",
   story: "story-read/metaworld-hopecore",
   position: 120,

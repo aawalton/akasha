@@ -4,6 +4,7 @@ export const metaworldHopecore0130Chapter77FatherAndSon2 = {
   id: "01a06731-af1a-7000-9b30-a05eb8a1772d",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0130-chapter-77-father-and-son-2",
+  ownProgress: 2168,
   title: "CHAPTER 77 - Father and Son (2) ",
   story: "story-read/metaworld-hopecore",
   position: 130,

@@ -4,6 +4,7 @@ export const metaworldHopecore0114Chapter66Tanabatasama2 = {
   id: "01a06731-af0f-7001-9bbe-e0acb763b728",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0114-chapter-66-tanabatasama-2",
+  ownProgress: 1977,
   title: "CHAPTER 66 — Tanabatasama (2) ",
   story: "story-read/metaworld-hopecore",
   position: 114,

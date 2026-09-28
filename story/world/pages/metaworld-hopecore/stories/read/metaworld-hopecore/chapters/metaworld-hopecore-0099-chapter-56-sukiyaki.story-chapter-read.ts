@@ -4,6 +4,7 @@ export const metaworldHopecore0099Chapter56Sukiyaki = {
   id: "01a06731-aeff-7000-b36c-1443eb2c87ae",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0099-chapter-56-sukiyaki",
+  ownProgress: 3918,
   title: "CHAPTER 56 - Sukiyaki",
   story: "story-read/metaworld-hopecore",
   position: 99,

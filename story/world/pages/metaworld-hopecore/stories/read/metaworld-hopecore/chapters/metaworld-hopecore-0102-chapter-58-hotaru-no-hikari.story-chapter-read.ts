@@ -4,6 +4,7 @@ export const metaworldHopecore0102Chapter58HotaruNoHikari = {
   id: "01a06731-af01-7000-9e32-0503ee72704f",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0102-chapter-58-hotaru-no-hikari",
+  ownProgress: 2348,
   title: "CHAPTER 58 - Hotaru no Hikari",
   story: "story-read/metaworld-hopecore",
   position: 102,

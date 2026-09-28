@@ -4,6 +4,7 @@ export const metaworldHopecore0095Chapter54Liability = {
   id: "01a06731-aefc-7000-8eb5-52412e390057",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0095-chapter-54-liability",
+  ownProgress: 2930,
   title: "CHAPTER 54 - Liability",
   story: "story-read/metaworld-hopecore",
   position: 95,

@@ -4,6 +4,7 @@ export const metaworldHopecore0118Chapter70Crazy = {
   id: "01a06731-af12-7000-bd58-8997d0ef321a",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0118-chapter-70-crazy",
+  ownProgress: 3454,
   title: "CHAPTER 70 — Crazy",
   story: "story-read/metaworld-hopecore",
   position: 118,

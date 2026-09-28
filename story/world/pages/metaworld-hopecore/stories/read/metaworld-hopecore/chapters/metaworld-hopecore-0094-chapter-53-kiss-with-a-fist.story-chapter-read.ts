@@ -4,6 +4,7 @@ export const metaworldHopecore0094Chapter53KissWithAFist = {
   id: "01a06731-aefb-7000-8c8e-dd3fde7de006",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0094-chapter-53-kiss-with-a-fist",
+  ownProgress: 3071,
   title: "CHAPTER 53  - Kiss With a Fist",
   story: "story-read/metaworld-hopecore",
   position: 94,

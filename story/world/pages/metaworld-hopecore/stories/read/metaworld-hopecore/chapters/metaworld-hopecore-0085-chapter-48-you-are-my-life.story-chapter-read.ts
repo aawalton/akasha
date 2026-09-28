@@ -4,6 +4,7 @@ export const metaworldHopecore0085Chapter48YouAreMyLife = {
   id: "01a06731-aef0-7002-83e9-1013e6c87e34",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0085-chapter-48-you-are-my-life",
+  ownProgress: 3747,
   title: "CHAPTER 48 - You Are My Life",
   story: "story-read/metaworld-hopecore",
   position: 85,

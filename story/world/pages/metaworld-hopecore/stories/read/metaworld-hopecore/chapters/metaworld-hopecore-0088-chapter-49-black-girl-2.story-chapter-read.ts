@@ -4,6 +4,7 @@ export const metaworldHopecore0088Chapter49BlackGirl2 = {
   id: "01a06731-aef2-7002-923b-b993e32ea6f2",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0088-chapter-49-black-girl-2",
+  ownProgress: 3142,
   title: "CHAPTER 49 - Black Girl (2) ",
   story: "story-read/metaworld-hopecore",
   position: 88,

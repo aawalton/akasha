@@ -4,6 +4,7 @@ export const metaworldHopecore0112Chapter65TongueTied = {
   id: "01a06731-af0c-7000-b02c-40ea68b64b80",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0112-chapter-65-tongue-tied",
+  ownProgress: 3831,
   title: "CHAPTER 65 - TONGUE-TIED",
   story: "story-read/metaworld-hopecore",
   position: 112,

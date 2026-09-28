@@ -4,6 +4,7 @@ export const metaworldHopecore0121Chapter73Apologize = {
   id: "01a06731-af15-7000-82fd-c15c80490b27",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0121-chapter-73-apologize",
+  ownProgress: 3475,
   title: "CHAPTER 73 - Apologize",
   story: "story-read/metaworld-hopecore",
   position: 121,

@@ -4,6 +4,7 @@ export const metaworldHopecore0090Chapter51Vienna = {
   id: "01a06731-aef8-7000-bea6-f9fce0c91148",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0090-chapter-51-vienna",
+  ownProgress: 2628,
   title: "CHAPTER 51 - Vienna",
   story: "story-read/metaworld-hopecore",
   position: 90,

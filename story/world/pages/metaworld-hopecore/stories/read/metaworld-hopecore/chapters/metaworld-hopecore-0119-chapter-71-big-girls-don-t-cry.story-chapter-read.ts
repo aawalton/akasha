@@ -4,6 +4,7 @@ export const metaworldHopecore0119Chapter71BigGirlsDonTCry = {
   id: "01a06731-af13-7000-a19d-62695d851811",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0119-chapter-71-big-girls-don-t-cry",
+  ownProgress: 3538,
   title: "CHAPTER 71 - Big Girls Don't Cry",
   story: "story-read/metaworld-hopecore",
   position: 119,
