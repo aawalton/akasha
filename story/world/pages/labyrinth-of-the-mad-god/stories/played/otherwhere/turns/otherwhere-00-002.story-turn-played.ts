@@ -10,7 +10,7 @@ export const otherwhere00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I start walking towards the mountain, taking care to move quietly and observe carefully, especially for any signs of danger.",
   beats: [
@@ -39,11 +39,10 @@ export const otherwhere00002 = {
     "A dozen at least, and more moving in the leaves behind; all barking, all looking at her.",
     "A half-eaten red fruit flies out of the branches and splatters on the trunk beside her head.",
     "A stick follows and bounces off her shoulder.",
+    "Higher up, an old grey-muzzled ape sits still on a thick limb and watches her without barking.",
+    "Something rustles low in the undergrowth behind her and to her left, the way she came.",
     "The biggest nearby ape drops to a low branch almost above her, eight or nine feet up.",
     "It pulls its lips back from long yellow teeth and slaps the branch hard with both hands.",
-    "Something rustles low in the undergrowth behind her and to her left, the way she came.",
-    "Higher up, an old grey-muzzled ape sits still on a thick limb and watches her without barking.",
-    "Late morning, a third of a mile into the forest: the troop closing in, one ape poised above her.",
   ],
   issues: ['"late morning. You are a third of a mile into the trees, maybe" - Leave It Open'],
   lore: [
