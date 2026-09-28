@@ -40,4 +40,5 @@ export const otherwhere00007 = {
     "place/otherwhere-glassrun",
     "place/otherwhere-lowland-wood",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
