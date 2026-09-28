@@ -10,7 +10,7 @@ export const theDatingGame00029 = {
   position: 29,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action:
     "“No, I like the quiet here too. I have a hard time feeling like death is real though. The past, the present, and the future all blur together for me.”",
   beats: [
@@ -25,5 +25,8 @@ export const theDatingGame00029 = {
     '"All blurred together," she says, turning it over. "What\'s that like, from the inside?"',
     "[Grace, Closeness Level 1: a new acquaintance who is glad to see you again.]",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  issues: [
+    '"[Grace, Closeness Level 1: ...]" - her closeness level is hidden, never shown in a window',
+  ],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
