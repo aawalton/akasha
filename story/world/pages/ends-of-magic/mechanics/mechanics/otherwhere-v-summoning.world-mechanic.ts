@@ -7,5 +7,5 @@ export const otherwhereVSummoning = {
   title: "Summoning",
   world: "world/ends-of-magic",
   aliases: ["summoning magic", "summoning apparatus"],
-  description: "Magic that calls a being from beyond Davrar.",
+  description: "Magic of summoning beings from other worlds.",
 } as const satisfies WorldMechanic
