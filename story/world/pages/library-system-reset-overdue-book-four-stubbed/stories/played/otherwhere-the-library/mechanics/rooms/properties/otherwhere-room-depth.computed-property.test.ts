@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Reach } from "akasha/page/computed-property/computed-property.page-type.ts"
-import { otherwhereMainHall } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/pages/otherwhere-main-hall.otherwhere-room.ts"
+import { otherwhereMainHall } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/pages/otherwhere-main-hall.otherwhere-the-library-room.ts"
 import { work } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/properties/otherwhere-room-depth.computed-property.code.ts"
 
 function reaching(depth: number | null): Reach {

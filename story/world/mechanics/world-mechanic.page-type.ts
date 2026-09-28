@@ -51,7 +51,7 @@ export const worldMechanic = {
     "page-type/world-spell",
     "page-type/world-title",
     "page-type/world-trait",
-    "page-type/otherwhere-room",
+    "page-type/otherwhere-the-library-room",
     "text-property/aliases",
     "text-property/chapter-slug",
     "text-property/claimed-by-slug",
