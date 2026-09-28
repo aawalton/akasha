@@ -204,5 +204,9 @@ export const theDatingGameAlan = {
       fact: "Alan has watched the sun rise from the top of the mountain a few times.",
       knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
     },
+    {
+      fact: "Alan finds it hard to feel death is real; past, present and future blur together for him.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
+    },
   ],
 } as const satisfies Lore

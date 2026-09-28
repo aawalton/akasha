@@ -10,7 +10,7 @@ export const theDatingGame00029 = {
   position: 29,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "“No, I like the quiet here too. I have a hard time feeling like death is real though. The past, the present, and the future all blur together for me.”",
   beats: [
@@ -28,5 +28,6 @@ export const theDatingGame00029 = {
     '"[Grace, Closeness Level 1: ...]" - her closeness level is hidden, never shown in a window',
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/picture", "story-recorder/memory"],
+  recordedBy: ["story-recorder/picture", "story-recorder/memory", "story-recorder/mechanics"],
+  endsAt: "2026-09-26T19:27:00.000Z",
 } as const satisfies StoryTurnPlayed

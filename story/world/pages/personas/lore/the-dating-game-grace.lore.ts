@@ -48,6 +48,10 @@ export const theDatingGameGrace = {
       fact: "Grace walks the Provo City Cemetery at dusk carrying a lit storm lantern.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "Grace holds that death is real; she has never once found it otherwise.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
