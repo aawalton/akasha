@@ -29,4 +29,5 @@ export const otherwhere00052 = {
     "The water has gone cool on her skin, and her stomach gives a long, loud, hollow growl.",
   ],
   lore: ["lore/otherwhere-links"],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
