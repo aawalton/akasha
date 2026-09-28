@@ -4,6 +4,7 @@ export const otherwhere00006 = {
   id: "01a0e9d3-e94f-78dd-9bd6-146edaf7813f",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-006",
+  cover: "image/image-43189b76c3af152d",
   ownLength: 186,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
@@ -28,5 +29,5 @@ export const otherwhere00006 = {
   issues: ['"The forest\'s noise closes over the place where it was." - Leave It Open'],
   lore: ["lore/otherwhere-copperbacks"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
