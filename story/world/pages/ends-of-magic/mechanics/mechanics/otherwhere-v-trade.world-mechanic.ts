@@ -6,5 +6,5 @@ export const otherwhereVTrade = {
   slug: "otherwhere-v-trade",
   title: "Trade",
   world: "world/ends-of-magic",
-  description: "The buying, selling and carrying of goods across Davrar.",
+  description: "The commerce of Davrar.",
 } as const satisfies WorldMechanic

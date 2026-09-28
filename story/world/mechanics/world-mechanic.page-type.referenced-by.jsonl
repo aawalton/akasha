@@ -81,6 +81,7 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-class-skills.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-classes.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-conclave-rules.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-customs.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-deeds.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-development.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-dimensional-magic.world-mechanic.ts","typed":true,"deferred":false}
@@ -101,6 +102,7 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-healing-magic.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-insight.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-languages.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-law.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-levels.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-magic-resistance.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-mana.world-mechanic.ts","typed":true,"deferred":false}
@@ -134,6 +136,7 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-verification.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-vortex-magic.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-wizardry.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-worship.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/mechanics/otherwhere-v-bargaining.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/mechanics/otherwhere-v-growth.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/mechanics/otherwhere-v-injury.world-mechanic.ts","typed":true,"deferred":false}

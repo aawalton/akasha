@@ -67,6 +67,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-conclave-rules.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-continuance-council.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-council-of-eighty-nine.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-customs.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-dalo.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-davion.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-davrar.lore.ts","typed":true,"deferred":false}
@@ -161,6 +162,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-languages.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-last-arrows-of-olita.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-last-champion-of-deiman.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-law.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-levels.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-leviathan.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-lich.lore.ts","typed":true,"deferred":false}
@@ -281,6 +283,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-wiam.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-wizardry.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-wolfman.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-worship.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-wyvern.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-yelun.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-zombie.lore.ts","typed":true,"deferred":false}
