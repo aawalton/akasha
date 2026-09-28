@@ -4,6 +4,7 @@ export const passiveAggressiveReversePortalInvasionLitrpg0026Chapter23 = {
   id: "01a06730-4dd0-7e8e-81f4-84e40bb11a2b",
   type: "page-type/story-chapter-read",
   slug: "passive-aggressive-reverse-portal-invasion-litrpg-0026-chapter-23",
+  ownProgress: 2184,
   title: "Chapter 23",
   story: "story-read/passive-aggressive-reverse-portal-invasion-litrpg",
   position: 26,

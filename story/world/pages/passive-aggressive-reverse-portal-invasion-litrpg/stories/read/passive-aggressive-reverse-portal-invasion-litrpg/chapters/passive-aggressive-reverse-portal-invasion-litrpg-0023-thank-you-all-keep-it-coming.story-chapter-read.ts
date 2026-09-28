@@ -4,6 +4,7 @@ export const passiveAggressiveReversePortalInvasionLitrpg0023ThankYouAllKeepItCo
   id: "01a06730-4dcf-7f79-a835-ef4030228e6c",
   type: "page-type/story-chapter-read",
   slug: "passive-aggressive-reverse-portal-invasion-litrpg-0023-thank-you-all-keep-it-coming",
+  ownProgress: 109,
   title: "Thank you all - keep it coming!!!",
   story: "story-read/passive-aggressive-reverse-portal-invasion-litrpg",
   position: 23,

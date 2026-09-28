@@ -4,6 +4,7 @@ export const passiveAggressiveReversePortalInvasionLitrpg0064LiamSAttributesTale
   id: "01a06730-4ddb-7d16-95ff-c93b3d6975dd",
   type: "page-type/story-chapter-read",
   slug: "passive-aggressive-reverse-portal-invasion-litrpg-0064-liam-s-attributes-talents-and-skills-4",
+  ownProgress: 1204,
   title: "Liam's attributes, talents and skills 4",
   story: "story-read/passive-aggressive-reverse-portal-invasion-litrpg",
   position: 64,
