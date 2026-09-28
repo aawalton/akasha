@@ -119,7 +119,7 @@ type Cast = { readonly dice: Dice; readonly roll: Rolled; readonly seed: string 
 
 type Held<Of> = { readonly answered: Of } | { readonly refused: string }
 
-export function readingIn(said: string): Held<Record<string, unknown>> {
+function readingIn(said: string): Held<Record<string, unknown>> {
   let held: z.ZodSafeParseResult<Record<string, unknown>>
   try {
     held = READING_SAID.safeParse(JSON.parse(said))
@@ -191,7 +191,7 @@ function lastLineAt(root: string, turn: string): string | null {
   return lines.at(-1) ?? null
 }
 
-export function rollBefore(root: string, turns: readonly Turn[]): string | null {
+function rollBefore(root: string, turns: readonly Turn[]): string | null {
   for (const one of turns.toSorted((a, b) => b.position - a.position)) {
     const line = lastLineAt(root, one.at)
     if (line !== null) return line
@@ -199,7 +199,7 @@ export function rollBefore(root: string, turns: readonly Turn[]): string | null 
   return null
 }
 
-export function seedAfter(before: string | null, turn: string): string {
+function seedAfter(before: string | null, turn: string): string {
   return before === null ? turn : createHash(DIGEST).update(before).digest(HEX)
 }
 
@@ -234,7 +234,7 @@ async function settledAt(
   return { answered: said["answered"] }
 }
 
-export function rowsOf(roll: Roll, turn: string, commit: string | null): readonly string[] {
+function rowsOf(roll: Roll, turn: string, commit: string | null): readonly string[] {
   const rows = [`check${TAB}${roll.check}`, `turn${TAB}${turn}`]
   if (roll.dice !== undefined) {
     rows.push(`dice${TAB}${roll.dice.said}${TAB}${roll.dice.faces.join(" ")}`)
