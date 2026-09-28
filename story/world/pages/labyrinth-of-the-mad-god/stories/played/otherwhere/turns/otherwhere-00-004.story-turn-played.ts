@@ -34,9 +34,11 @@ export const otherwhere00004 = {
     "South, perhaps two miles away, a stand of taller palms in double rows breaks the line of the trees.",
     "Something makes that gap in the trees; she thinks it could be where water comes down to the sea.",
   ],
+  issues: ['"It could be where water comes down to the sea." - No Prompt'],
   lore: [
     "place/otherwhere-black-shore",
     "lore/otherwhere-copperbacks",
     "lore/otherwhere-cinder-isle-plants",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
