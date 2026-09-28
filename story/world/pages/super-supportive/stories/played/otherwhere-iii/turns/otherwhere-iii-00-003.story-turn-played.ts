@@ -32,5 +32,6 @@ export const otherwhereIii00003 = {
     'The nurse says, "Honey, where are your shoes? Do you need some help?"',
   ],
   lore: ["place/otherwhere-iii-red-line-car"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2037-01-31T04:54:00.000Z",
 } as const satisfies StoryTurnPlayed
