@@ -7,7 +7,8 @@ export const otherwhereVi00005 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],
   position: 5,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I keep moving, but watch for a sturdy branch I can turn into a walking stick and defensive staff, to make myself less of an easy target. Until I find one, I pick up a fist sized rock from the riverbank.",
+  lore: ["place/otherwhere-vi-hollow-stream"],
 } as const satisfies StoryTurnPlayed
