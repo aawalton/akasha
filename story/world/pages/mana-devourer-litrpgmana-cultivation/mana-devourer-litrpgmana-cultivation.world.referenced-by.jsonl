@@ -43,6 +43,7 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-fire-worm.lore.ts","id":"01a0ea35-54fb-75d0-b134-498b1da0a196"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-firrelia.lore.ts","id":"01a0ea37-f784-74ba-9ec2-9a4425895fdb"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-fish-folk.lore.ts","id":"01a0ea34-d6f4-77a5-a779-8601beb31d53"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-forthos.lore.ts","id":"01a0ea39-281e-7c0e-ab4f-4fe77bc31f3c"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-giant-arachnid.lore.ts","id":"01a0ea36-5f15-7fec-9b13-8736da824986"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-gold-skinned-folk.lore.ts","id":"01a0ea35-942e-7c39-a1fe-7093a161fcab"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-grades.lore.ts","id":"01a0ea37-28a7-7763-8487-d3faa92b01df"}
@@ -74,8 +75,10 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-randall.lore.ts","id":"01a0ea32-f51d-748b-9eb7-11740ad59e12"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-rasko.lore.ts","id":"01a0ea37-d782-747d-94fe-e2ccb4af7453"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-rika.lore.ts","id":"01a0ea33-2f41-7da4-b6ff-0904d2e49af4"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-seconna.lore.ts","id":"01a0ea39-2820-7fd6-8fea-036457380e6e"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-serena.lore.ts","id":"01a0ea35-4548-7563-9989-f0d9eabaf1c8"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-shardback.lore.ts","id":"01a0ea33-808e-7ef8-ad13-5f3a6c7c64f4"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-sixent.lore.ts","id":"01a0ea39-2821-77c5-b42f-996ab4670848"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-slavery.lore.ts","id":"01a0ea35-b311-761c-985f-bb59c9ff30d0"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-small-folk.lore.ts","id":"01a0ea36-c313-7ebf-a131-b84aeb92f8eb"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-soul-contracts.lore.ts","id":"01a0ea37-d8a1-7da7-a8c9-52dfddd21bc1"}
@@ -100,6 +103,7 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/mechanics/otherwhere-ix-contracts.world-mechanic.ts","id":"01a0ea36-a891-7f62-ad71-c40c4a0007ea"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/mechanics/otherwhere-ix-eleven-worlds.world-mechanic.ts","id":"01a0ea37-f787-7799-a0e6-2932e68d1eee"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/mechanics/otherwhere-ix-firrelia.world-mechanic.ts","id":"01a0ea37-f787-7f8b-9907-cbf8ad351358"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/mechanics/otherwhere-ix-forthos.world-mechanic.ts","id":"01a0ea39-2821-7aa2-866b-9738cf4a19f1"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/mechanics/otherwhere-ix-grades.world-mechanic.ts","id":"01a0ea37-28a8-718b-9e38-9ff89ccb8487"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/mechanics/otherwhere-ix-integration.world-mechanic.ts","id":"01a0ea36-661f-7dc2-ae76-4e24470f6631"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/mechanics/otherwhere-ix-mana-capacity.world-mechanic.ts","id":"01a0ea36-0398-766a-8d4b-7fa31b1a47a5"}
@@ -111,6 +115,7 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/mechanics/otherwhere-ix-otherworlders.world-mechanic.ts","id":"01a0ea36-661f-7ece-ae6a-cd96e8708941"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/mechanics/otherwhere-ix-overcharge.world-mechanic.ts","id":"01a0ea37-28a9-76f9-a706-454d2b8a199a"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/mechanics/otherwhere-ix-seconna.world-mechanic.ts","id":"01a0ea38-826c-716f-9ea3-4dc504befbf1"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/mechanics/otherwhere-ix-sixent.world-mechanic.ts","id":"01a0ea39-2821-7569-8de6-891f086abbeb"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/mechanics/otherwhere-ix-slavery.world-mechanic.ts","id":"01a0ea35-b313-70a0-9b6f-b0912e2a489b"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/mechanics/otherwhere-ix-soul-contracts.world-mechanic.ts","id":"01a0ea37-d8a2-7e38-9f0f-1b8a348603df"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/mechanics/otherwhere-ix-stat-points.world-mechanic.ts","id":"01a0ea38-ca07-7c97-8dfa-25b069b03803"}
