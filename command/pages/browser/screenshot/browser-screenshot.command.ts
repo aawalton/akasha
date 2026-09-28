@@ -22,6 +22,15 @@ export const browserScreenshot = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A render has not settled until no request is open and nothing is drawn for half a second.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A request streaming events is never waited on, so a live stream holds no shot.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A settle that ran out is shot as the page is rather than refused.",
     },
     {

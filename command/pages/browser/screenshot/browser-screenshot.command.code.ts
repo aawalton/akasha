@@ -19,6 +19,7 @@ import { width } from "akasha/command/argument/pages/width.argument.ts"
 import { refusedBy, told } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { browserScreenshot as page } from "akasha/command/pages/browser/screenshot/browser-screenshot.command.ts"
+import type { Request } from "playwright-core"
 
 const TAKES = [
   expandPanelsArgument,
@@ -50,9 +51,72 @@ const PANEL_ROUNDS = 5
 
 const PANEL_SETTLE_MS = 400
 
+const QUIET_MS = 500
+
+const LOOK_MS = 100
+
+const STREAM = "text/event-stream"
+
+const STREAMING_KINDS: ReadonlySet<string> = new Set(["eventsource", "websocket"])
+
+const LAST_DRAWN = "__akashaLastDrawn"
+
+const DRAWN_WATCH =
+  `window.${LAST_DRAWN} = performance.now();` +
+  `new MutationObserver(() => { window.${LAST_DRAWN} = performance.now() })` +
+  ".observe(document, { subtree: true, childList: true, characterData: true })"
+
+const DRAWN_AGO = `performance.now() - (window.${LAST_DRAWN} ?? 0)`
+
 type Session = {
   readonly page: Awaited<ReturnType<typeof createReadOnlyAnonSession>>["page"]
   readonly teardown: () => Promise<void>
+}
+
+type Traffic = { readonly open: Set<Request>; lastMovedAt: number }
+
+function streaming(asked: Request): boolean {
+  if (STREAMING_KINDS.has(asked.resourceType())) return true
+  return (asked.headers()["accept"] ?? "").includes(STREAM)
+}
+
+async function watched(tab: Session["page"]): Promise<Traffic> {
+  const traffic: Traffic = { open: new Set(), lastMovedAt: Date.now() }
+  const closed = (asked: Request): undefined => {
+    traffic.open.delete(asked)
+    traffic.lastMovedAt = Date.now()
+    return undefined
+  }
+  tab.on("request", (asked) => {
+    if (!streaming(asked)) traffic.open.add(asked)
+    traffic.lastMovedAt = Date.now()
+  })
+  tab.on("response", (answer) => {
+    if ((answer.headers()["content-type"] ?? "").includes(STREAM)) closed(answer.request())
+  })
+  tab.on("requestfinished", closed)
+  tab.on("requestfailed", closed)
+  await tab.addInitScript({ content: DRAWN_WATCH })
+  return traffic
+}
+
+async function drawnAgo(tab: Session["page"]): Promise<number> {
+  const ago: unknown = await tab.evaluate(DRAWN_AGO).catch(() => 0)
+  return typeof ago === "number" ? ago : 0
+}
+
+async function quieted(
+  tab: Session["page"],
+  traffic: Traffic,
+  timeout: number
+): Promise<undefined> {
+  const until = Date.now() + timeout
+  while (Date.now() < until) {
+    const idle = traffic.open.size === 0 && Date.now() - traffic.lastMovedAt >= QUIET_MS
+    if (idle && (await drawnAgo(tab)) >= QUIET_MS) return undefined
+    await waited(LOOK_MS)
+  }
+  return undefined
 }
 
 type Settling = {
@@ -64,6 +128,7 @@ type Settling = {
 
 async function settled(tab: Session["page"], at: string, wanted: Settling): Promise<undefined> {
   const timeout = wanted.timeout
+  const traffic = await watched(tab)
   let ranOut = false
   let response: Awaited<ReturnType<Session["page"]["goto"]>> = null
   try {
@@ -103,6 +168,7 @@ async function settled(tab: Session["page"], at: string, wanted: Settling): Prom
       .waitFor({ state: "visible", timeout })
       .catch(() => undefined)
   }
+  if (!ranOut) await quieted(tab, traffic, timeout)
   return undefined
 }
 
