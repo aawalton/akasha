@@ -8,6 +8,9 @@ export const imageD2c5d7a3549e7ab8 = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-d30da57708d85cb6",
+  title: "Zadi Basking on the Garden Wall",
+  persona: "persona/zadi",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",
