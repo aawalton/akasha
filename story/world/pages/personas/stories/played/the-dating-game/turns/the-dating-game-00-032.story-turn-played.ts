@@ -10,7 +10,7 @@ export const theDatingGame00032 = {
   position: 32,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "I chuckle softly. “Thanks, I’ll gladly take you up on that. So, what brings you here? It sounds like you do this often?”",
   beats: [
@@ -21,7 +21,6 @@ export const theDatingGame00032 = {
     '"I work nights. Hospice. I\'m a companion; I sit with people at the end, through the night."',
     "She says it simply, the way someone else might say they drive a bus.",
     '"This walk is how I get ready. It\'s quiet here, and a lantern fits right in."',
-    "The lantern swings low between them, and the gravel of the path crunches softly under their feet.",
   ],
   issues: [
     '"The lantern swings low between you, and the gravel of the path crunches" - Leave It Open',
