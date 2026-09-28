@@ -176,14 +176,7 @@ export const otherwhereUniverse = {
         "character-other/otherwhere-links",
       ],
     },
-    {
-      fact: "The Check-in Counter comes fully back at 75 power.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
+
     {
       fact: "The Library feeds and shelters anyone who comes to it in need.",
       knowers: [
@@ -389,7 +382,7 @@ export const otherwhereUniverse = {
       ],
     },
     {
-      fact: "The Library's second task is Restore the Check-in Counter, done when its power reaches 75.",
+      fact: "The Check-in Counter is restored, the Library's second task done.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/otherwhere-links",
@@ -397,7 +390,7 @@ export const otherwhereUniverse = {
       ],
     },
     {
-      fact: "With the Counter restored, the Library sets its next task: Reopen the Library, serve a patron.",
+      fact: "The Library's current task is Reopen the Library: serve a patron.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/otherwhere-links",
