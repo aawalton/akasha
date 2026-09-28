@@ -129,6 +129,8 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-emergency-teleport.lore.ts","id":"01a0ea19-d968-7df7-9a70-1d5097e24445"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-emilija.lore.ts","id":"01a0ea03-c8e6-7f83-b92c-8a70ec5a93f6"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-empathetic-telepathy.lore.ts","id":"01a0e9fa-71c1-7f23-bbe9-c693493393a2"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-enchanted-external-heart.lore.ts","id":"01a0ea40-a92b-798a-8ad0-39a37d2f2e1f"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-entrustment.lore.ts","id":"01a0ea40-a92c-713e-abb3-285d92721dcb"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-enyl-tirg.lore.ts","id":"01a0ea3b-4b30-7d14-8c8b-2ee811c9c006"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-escape-flyer.lore.ts","id":"01a0ea23-d444-71b7-8a36-1445aed0f738"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-esh.lore.ts","id":"01a0ea10-f3f7-7a8e-970d-3712580f05f2"}
@@ -317,6 +319,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-noh-en.lore.ts","id":"01a0ea2f-4a41-731b-864a-1931a760a0f6"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-number-one.lore.ts","id":"01a0ea1e-9d89-74d9-ac07-4ba00f765307"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-nuray.lore.ts","id":"01a0e9f2-0ab0-7fe7-b62a-a924417cd314"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-oath-ceremony.lore.ts","id":"01a0ea40-a92c-7ba4-aea1-5ef55f384ea1"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-object-shaper.lore.ts","id":"01a0e9fb-589f-75c8-b6df-5e46aa6c30d1"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-obstacle-course-race.lore.ts","id":"01a0ea20-cae6-7df7-9ed9-48cdcf7a90c0"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-offered-food-rule.lore.ts","id":"01a0e9fa-71c2-7e6d-8fda-cfbab27fc2ec"}
@@ -335,6 +338,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-panna-ser.lore.ts","id":"01a0ea3f-54d2-79c3-9ddb-1aae33df35c1"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-paolo.lore.ts","id":"01a0ea03-c8e6-779a-8189-55aa315bfc8f"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-parethat-uur.lore.ts","id":"01a0ea0d-258f-7837-b656-3a937d843c7c"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-patient-creature.lore.ts","id":"01a0ea40-a92d-76cd-a071-420059a54e20"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-peace-of-mind-skill.lore.ts","id":"01a0ea20-cae6-7792-af26-9aae419f6a90"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-peace-of-mind.lore.ts","id":"01a0ea09-7b77-7198-8db4-a37f07b870a0"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-pezyva.lore.ts","id":"01a0ea32-c612-74d1-99e5-e11ec10f9f59"}
@@ -426,6 +430,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-submerger.lore.ts","id":"01a0ea1c-a2da-7f4c-b268-b35607dbc3a8"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-summoning-block.lore.ts","id":"01a0ea3f-1fcc-7c5b-bf5f-8cb819d9988e"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-summoning-rights.lore.ts","id":"01a0ea13-8856-7b01-919e-b04d6effe912"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-summoning-spell.lore.ts","id":"01a0ea40-a92d-7abd-ad05-9740f7c41b6c"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-summons.lore.ts","id":"01a0e9fc-7b33-7e1a-bc55-94bc23e4eac3"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-sunlight-spell.lore.ts","id":"01a0ea34-48cd-7590-bc81-6025d060b2fe"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-superhumans-at-large.lore.ts","id":"01a0ea20-cae6-7338-b296-532562381e3e"}
@@ -435,6 +440,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-system-access-sigil.lore.ts","id":"01a0ea01-2f64-7554-97e7-fc0c5524b5c8"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-system-call.lore.ts","id":"01a0ea07-cbdc-7872-9562-cb0c67f45b4a"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-system-storage.lore.ts","id":"01a0ea0f-e346-7258-b2c1-75192da4b843"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-system-volunteering.lore.ts","id":"01a0ea40-a92d-766a-9c2d-f3d1c2008188"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-tailor-environment.lore.ts","id":"01a0ea09-7b77-7cc2-a746-cc557c88c068"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-tass-ovekondo.lore.ts","id":"01a0ea34-5c49-75ba-8f37-cc55d4b3d4aa"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-techno-tarek.lore.ts","id":"01a0ea03-c8e6-730e-adbe-f0778903186e"}
