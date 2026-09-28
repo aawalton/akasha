@@ -26,5 +26,6 @@ export const otherwhereIii00002 = {
     "The man pockets his phone and walks down the platform toward her shelter and its heat button.",
   ],
   lore: ["lore/otherwhere-iii-the-system"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2037-01-31T04:47:00.000Z",
 } as const satisfies StoryTurnPlayed
