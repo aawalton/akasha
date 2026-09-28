@@ -10,7 +10,7 @@ export const otherwhereV00006 = {
   position: 6,
   prose: "txt",
   characters: ["character-player/otherwhere-v-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I turn and catch the jaws with my hands, then wrap my thighs around it's neck and squeeze the breath out of it.",
   beats: [
@@ -27,6 +27,6 @@ export const otherwhereV00006 = {
     "Nala dies there in the ferns above the hollow, on her first night in Davrar.",
   ],
   lore: ["lore/otherwhere-v-gloamcat", "lore/otherwhere-v-injury"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T19:10:00.000Z",
 } as const satisfies StoryTurnPlayed
