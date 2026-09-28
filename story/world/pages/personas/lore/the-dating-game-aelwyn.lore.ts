@@ -45,5 +45,25 @@ export const theDatingGameAelwyn = {
       fact: "After her Sunday workout Aelwyn cools down up the trail a ways before heading down.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "Aelwyn comes up Rock Canyon every Sunday morning, rain or shine.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Aelwyn walks like someone trained to: back straight, chin level, even over the rocks.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "The pines up Rock Canyon smell like home to Aelwyn.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Aelwyn welcomed Alan to walk with her up the trail after her workout.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-aelwyn",
+      ],
+    },
   ],
 } as const satisfies Lore

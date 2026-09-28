@@ -143,5 +143,13 @@ export const theDatingGameRockCanyon = {
       fact: "Above the pine clearing the trail climbs through pines and aspens, gold in late September.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Above the pine clearing the trail levels out where the pines open onto a sunny patch of grass.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-aelwyn",
+      ],
+    },
   ],
 } as const satisfies Place

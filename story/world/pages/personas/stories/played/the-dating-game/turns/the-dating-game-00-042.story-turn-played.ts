@@ -4,13 +4,14 @@ export const theDatingGame00042 = {
   id: "01a0e80d-92b9-7594-a0fc-7015420de3f5",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-042",
+  cover: "image/image-60a0f445be4ad5a3",
   ownLength: 153,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 42,
   prose: "txt",
   characters: ["character-other/the-dating-game-aelwyn", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: '"Mind if I join you Aelwyn? Trail\'s always better with company."',
   beats: [
     'He asks, "Mind if I join you, Aelwyn? Trail\'s always better with company."',
@@ -26,6 +27,6 @@ export const theDatingGame00042 = {
   ],
   lore: ["place/the-dating-game-rock-canyon"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-27T10:27:00.000Z",
 } as const satisfies StoryTurnPlayed
