@@ -58,6 +58,7 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/titles/world-title.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/traits/world-trait.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/mechanics/otherwhere-iv-resolution.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/mechanics/otherwhere-iv-survival.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/mechanics/otherwhere-iv-time.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/cornerstone/mechanics/mechanics/cornerstone-decision-contract.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/cornerstone/mechanics/mechanics/cornerstone-faculties.world-mechanic.ts","typed":true,"deferred":false}

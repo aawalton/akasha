@@ -1837,6 +1837,7 @@
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/linear-stat/linear-stat.module.ts","id":"01a0c471-ac2e-74b8-a2de-da9cac658a5e"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/strike-resolution/strike-resolution.module.ts","id":"01a0de82-ec49-7228-a137-9e9f1a4de0d8"}
 {"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-action-check.world-check.ts","id":"01a0e9eb-69c8-7f7c-82e0-e80dc64f4722"}
+{"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-needs.world-check.ts","id":"01a0e9f1-97bd-70ba-b847-4b5b04c1bc0a"}
 {"propertySlug":"decision-kind","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/checks/otherwhere-the-library-standing.world-check.ts","id":"01a0e365-14b9-7ffb-bde4-00f1f3dbfa23"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-dating-game/mechanics/checks/the-dating-game-closeness-scoring.world-check.ts","id":"01a0dee4-f4b7-70af-bd38-a35274387d8c"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attack-resolution.world-check.ts","id":"01a0de1c-e954-742b-969b-e66eaf0b328e"}
