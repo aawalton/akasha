@@ -10,7 +10,7 @@ export const otherwhere00052 = {
   position: 52,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action:
     "I relax into the hot water and let the stress of almost dying multiple times melt away. Once I feel relaxed, I clean myself thoroughly, making sure the salt and honey are washed out of all of the hard to reach places. Once I’m clean, I finally have the time and space to be curious. I’ve never been a girl before after all, so I experiment, touching myself in different ways, masturbating until I reach a climax.",
   beats: [
@@ -28,6 +28,7 @@ export const otherwhere00052 = {
     "The climax rolls through her in long waves; she cries out, thighs clamped around her hand.",
     "The water has gone cool on her skin, and her stomach gives a long, loud, hollow growl.",
   ],
+  issues: ['"The water has gone cool on your skin, and your stomach gives a long" - Leave It Open'],
   lore: ["lore/otherwhere-links"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
