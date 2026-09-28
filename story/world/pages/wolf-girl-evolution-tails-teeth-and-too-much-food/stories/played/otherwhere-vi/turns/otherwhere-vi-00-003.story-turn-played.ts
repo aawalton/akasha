@@ -10,7 +10,7 @@ export const otherwhereVi00003 = {
   position: 3,
   prose: "txt",
   characters: ["character-player/otherwhere-vi-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "\"Okay, definitely isekai'd. Not much to work with, but if I can survive the start, I might be able to get stronger. I have water, so next I'll try to follow it to civilization.\" With that plan, I get up and start carefully following the water downstream, alert and searching for danger.",
   beats: [
@@ -39,5 +39,5 @@ export const otherwhereVi00003 = {
     "place/otherwhere-vi-greypine-weald",
     "lore/otherwhere-vi-beasts",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
