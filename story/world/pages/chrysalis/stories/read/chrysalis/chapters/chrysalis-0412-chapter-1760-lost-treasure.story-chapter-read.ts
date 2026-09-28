@@ -4,6 +4,7 @@ export const chrysalis0412Chapter1760LostTreasure = {
   id: "01a0672c-eb69-7013-a0e0-877d0a2154fe",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0412-chapter-1760-lost-treasure",
+  ownProgress: 1012,
   title: "Chapter 1760 - Lost Treasure",
   story: "story-read/chrysalis",
   position: 412,

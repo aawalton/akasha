@@ -4,6 +4,7 @@ export const chrysalis0439Chapter1787ThatSJustPoorPlanning = {
   id: "01a0672c-eb6a-7012-9409-d132258865f9",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0439-chapter-1787-that-s-just-poor-planning",
+  ownProgress: 1002,
   title: "Chapter 1787 - That’s Just Poor Planning",
   story: "story-read/chrysalis",
   position: 439,

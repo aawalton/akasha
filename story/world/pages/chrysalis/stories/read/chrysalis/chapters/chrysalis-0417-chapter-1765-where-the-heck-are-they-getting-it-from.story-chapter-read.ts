@@ -4,6 +4,7 @@ export const chrysalis0417Chapter1765WhereTheHeckAreTheyGettingItFrom = {
   id: "01a0672c-eb69-7018-94c6-217a53bd5a85",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0417-chapter-1765-where-the-heck-are-they-getting-it-from",
+  ownProgress: 1056,
   title: "Chapter 1765 - Where The Heck Are They Getting it From?!",
   story: "story-read/chrysalis",
   position: 417,

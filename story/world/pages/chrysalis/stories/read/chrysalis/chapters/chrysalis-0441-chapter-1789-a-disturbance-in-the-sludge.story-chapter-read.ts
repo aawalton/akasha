@@ -4,6 +4,7 @@ export const chrysalis0441Chapter1789ADisturbanceInTheSludge = {
   id: "01a0672c-eb6a-7014-8f72-d0e836b56aa2",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0441-chapter-1789-a-disturbance-in-the-sludge",
+  ownProgress: 1327,
   title: "Chapter 1789 - A Disturbance in the Sludge",
   story: "story-read/chrysalis",
   position: 441,

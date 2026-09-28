@@ -4,6 +4,7 @@ export const chrysalis0446Chapter1794FuriousFungi = {
   id: "01a0672c-eb6a-7019-a6fb-0ad97cf092b5",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0446-chapter-1794-furious-fungi",
+  ownProgress: 1001,
   title: "Chapter 1794 - Furious Fungi",
   story: "story-read/chrysalis",
   position: 446,

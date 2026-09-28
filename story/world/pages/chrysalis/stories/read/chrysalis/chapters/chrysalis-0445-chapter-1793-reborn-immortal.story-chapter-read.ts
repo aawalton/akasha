@@ -4,6 +4,7 @@ export const chrysalis0445Chapter1793RebornImmortal = {
   id: "01a0672c-eb6a-7018-8809-be63656f5a3f",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0445-chapter-1793-reborn-immortal",
+  ownProgress: 1101,
   title: "Chapter 1793 - Reborn Immortal",
   story: "story-read/chrysalis",
   position: 445,

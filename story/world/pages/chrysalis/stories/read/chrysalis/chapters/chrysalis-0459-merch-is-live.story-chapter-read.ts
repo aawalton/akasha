@@ -4,6 +4,7 @@ export const chrysalis0459MerchIsLive = {
   id: "01a0672c-eb6b-700c-b584-1e918f41efd7",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0459-merch-is-live",
+  ownProgress: 602,
   title: "MERCH IS LIVE",
   story: "story-read/chrysalis",
   position: 459,

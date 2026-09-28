@@ -4,6 +4,7 @@ export const chrysalis0453Chapter1800LegionSupport = {
   id: "01a0672c-eb6b-7006-88cd-9d45849d62b8",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0453-chapter-1800-legion-support",
+  ownProgress: 1119,
   title: "Chapter 1800 - Legion Support",
   story: "story-read/chrysalis",
   position: 453,

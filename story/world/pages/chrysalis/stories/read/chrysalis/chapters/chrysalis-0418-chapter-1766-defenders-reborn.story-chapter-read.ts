@@ -4,6 +4,7 @@ export const chrysalis0418Chapter1766DefendersReborn = {
   id: "01a0672c-eb69-7019-bcf6-bdaae271a3c5",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0418-chapter-1766-defenders-reborn",
+  ownProgress: 970,
   title: "Chapter 1766 - Defenders Reborn",
   story: "story-read/chrysalis",
   position: 418,

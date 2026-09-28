@@ -4,6 +4,7 @@ export const chrysalis0434Chapter1782ThatSJustNasty = {
   id: "01a0672c-eb6a-700d-895f-49ea8b7bfdeb",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0434-chapter-1782-that-s-just-nasty",
+  ownProgress: 988,
   title: "Chapter 1782 - That’s Just Nasty",
   story: "story-read/chrysalis",
   position: 434,

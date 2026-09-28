@@ -4,6 +4,7 @@ export const chrysalis0433Chapter1781BadToWorse = {
   id: "01a0672c-eb6a-700c-9101-e5503767da9f",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0433-chapter-1781-bad-to-worse",
+  ownProgress: 1032,
   title: "Chapter 1781 - Bad to Worse",
   story: "story-read/chrysalis",
   position: 433,

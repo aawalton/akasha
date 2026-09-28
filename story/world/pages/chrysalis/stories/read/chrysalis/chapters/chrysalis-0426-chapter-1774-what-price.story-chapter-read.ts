@@ -4,6 +4,7 @@ export const chrysalis0426Chapter1774WhatPrice = {
   id: "01a0672c-eb6a-7005-9f0f-a96e0fb7213e",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0426-chapter-1774-what-price",
+  ownProgress: 1017,
   title: "Chapter 1774 - What Price?",
   story: "story-read/chrysalis",
   position: 426,

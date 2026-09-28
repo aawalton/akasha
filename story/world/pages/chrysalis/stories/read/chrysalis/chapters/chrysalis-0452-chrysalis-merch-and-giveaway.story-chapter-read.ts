@@ -4,6 +4,7 @@ export const chrysalis0452ChrysalisMerchAndGiveaway = {
   id: "01a0672c-eb6b-7005-a628-f3605452b0df",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0452-chrysalis-merch-and-giveaway",
+  ownProgress: 58,
   title: "Chrysalis Merch and Giveaway!",
   story: "story-read/chrysalis",
   position: 452,

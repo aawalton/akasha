@@ -4,6 +4,7 @@ export const chrysalis0454Chapter1801MerchantMerchantIng = {
   id: "01a0672c-eb6b-7007-b6a8-772fb864f576",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0454-chapter-1801-merchant-merchant-ing",
+  ownProgress: 1041,
   title: "Chapter 1801 - Merchant, Merchant-ing",
   story: "story-read/chrysalis",
   position: 454,

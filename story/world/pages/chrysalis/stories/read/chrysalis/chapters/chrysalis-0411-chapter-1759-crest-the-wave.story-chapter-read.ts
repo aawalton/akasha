@@ -4,6 +4,7 @@ export const chrysalis0411Chapter1759CrestTheWave = {
   id: "01a0672c-eb69-7012-a761-7aceebde7828",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0411-chapter-1759-crest-the-wave",
+  ownProgress: 1032,
   title: "Chapter 1759 - Crest the Wave",
   story: "story-read/chrysalis",
   position: 411,

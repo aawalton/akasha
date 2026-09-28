@@ -4,6 +4,7 @@ export const chrysalis0449Chapter1797TheTemplarsGrow = {
   id: "01a0672c-eb6b-7002-8b2a-0d32d2e3f95f",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0449-chapter-1797-the-templars-grow",
+  ownProgress: 1077,
   title: "Chapter 1797 - The Templars Grow",
   story: "story-read/chrysalis",
   position: 449,

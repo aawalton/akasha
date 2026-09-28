@@ -4,6 +4,7 @@ export const chrysalis0423Chapter1771TheHiddenHighway = {
   id: "01a0672c-eb6a-7002-b0b5-39e0ff970046",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0423-chapter-1771-the-hidden-highway",
+  ownProgress: 981,
   title: "Chapter 1771 - The Hidden Highway",
   story: "story-read/chrysalis",
   position: 423,

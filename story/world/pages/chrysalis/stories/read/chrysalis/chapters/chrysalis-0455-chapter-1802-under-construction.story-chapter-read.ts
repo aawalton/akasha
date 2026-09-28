@@ -4,6 +4,7 @@ export const chrysalis0455Chapter1802UnderConstruction = {
   id: "01a0672c-eb6b-7008-9863-55937d5fe595",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0455-chapter-1802-under-construction",
+  ownProgress: 1070,
   title: "Chapter 1802 - Under Construction",
   story: "story-read/chrysalis",
   position: 455,

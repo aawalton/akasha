@@ -4,6 +4,7 @@ export const chrysalis0430Chapter1778GeneralPlans = {
   id: "01a0672c-eb6a-7009-ab35-99af67beeed7",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0430-chapter-1778-general-plans",
+  ownProgress: 1050,
   title: "Chapter 1778 - General Plans",
   story: "story-read/chrysalis",
   position: 430,
