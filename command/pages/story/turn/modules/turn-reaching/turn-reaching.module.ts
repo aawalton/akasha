@@ -74,5 +74,9 @@ export const turnReaching = {
       decisionKind: "decision-kind/departure",
       statement: "Each seat a notice reaches is named the lore it read that has changed since.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fold leaves out a file that already holds what the fold would write.",
+    },
   ],
 } as const satisfies Module

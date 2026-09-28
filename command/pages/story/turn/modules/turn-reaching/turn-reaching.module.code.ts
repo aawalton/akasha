@@ -293,13 +293,18 @@ function loreIndexed(
   })
 }
 
+function heldAlready(at: string, content: string): boolean {
+  return existsSync(at) && readFileSync(at, "utf8") === content
+}
+
 function foldedOver(
   root: string,
   naming: Naming
 ): readonly Asking[] | { readonly refused: string } {
   const folded = foldedFor(root, [naming])
   if ("refused" in folded) return { refused: folded.refused }
-  return [...folded.puts.map(putting), ...folded.removes.map(taking)]
+  const puts = folded.puts.filter((one) => !heldAlready(join(root, one.path), one.content))
+  return [...puts.map(putting), ...folded.removes.map(taking)]
 }
 
 async function seatStarted(starting: Starting, done: string[]): Promise<string> {
