@@ -9,6 +9,7 @@
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ban-li.lore.ts","id":"01a0e9cf-bd36-755a-a67f-e0b1e9c5b225"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-bandit.lore.ts","id":"01a0e9cc-7009-72ef-a193-2039e0e5d19f"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-basilisk.lore.ts","id":"01a0e9c4-861d-7f99-ab5a-905b017b42f8"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-blight-core.lore.ts","id":"01a0e9d0-bfd5-7455-95cd-7d18af527fe1"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-bonecrunchers.lore.ts","id":"01a0e9c0-87b2-7dea-b149-93bd925ccbff"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-bret.lore.ts","id":"01a0e9ca-c7c3-7652-9583-7c60b02e8526"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-challenge-constructs.lore.ts","id":"01a0e9c4-861d-725b-ba6a-8cfefbdcb85b"}
@@ -47,6 +48,9 @@
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-herald-of-slaughter.lore.ts","id":"01a0e9c5-5f88-7c2c-9d09-d851585521ff"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-hollow-god.lore.ts","id":"01a0e9c7-1b29-7ada-9e58-78a19622330b"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-interface.lore.ts","id":"01a0e9a4-b08a-7a48-8816-c684d593aaf0"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-item-cores-and-crafting.lore.ts","id":"01a0e9d0-bfd6-78b7-9092-65e31ac44397"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-item-modifications.lore.ts","id":"01a0e9d0-bfd6-77de-a50e-7d43f9ca9833"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-item-rarity.lore.ts","id":"01a0e9d0-bfd7-76b8-85ab-f3bd5c0985e0"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-items-and-chests.lore.ts","id":"01a0e9a3-9f51-7e9e-a00b-8028317d93ff"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-janitor.lore.ts","id":"01a0e9c2-1a5b-70ff-baee-ac0b6704fe1b"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-jim.lore.ts","id":"01a0e9cb-9157-7e2b-9e33-b51b19b16dca"}
@@ -89,6 +93,7 @@
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-rizzen.lore.ts","id":"01a0e9c7-1b29-721e-9833-cd6aa5043788"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-safe-rooms.lore.ts","id":"01a0e9a4-b08b-7cd6-8bcb-db9f63d49abe"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-sarah.lore.ts","id":"01a0e9ca-c7c4-7f57-84aa-fc7cee9a505e"}
+{"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-scarlet-generals.lore.ts","id":"01a0e9d0-bfd7-7c8e-b6e8-adeee5f519b6"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-scarlet-legion.lore.ts","id":"01a0e9c5-5f89-7ef1-8c9a-b746dedc78f4"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-school-of-the-ever-surging-blade.lore.ts","id":"01a0e9c5-5f89-7b37-b55e-225c9b093dc1"}
 {"propertySlug":"world","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-shadow-hunt.lore.ts","id":"01a0e9c1-484d-7d1c-bc74-8e6dd91d957a"}

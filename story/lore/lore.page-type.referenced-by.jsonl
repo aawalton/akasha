@@ -33,6 +33,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ban-li.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-bandit.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-basilisk.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-blight-core.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-bonecrunchers.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-bret.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-challenge-constructs.lore.ts","typed":true,"deferred":false}
@@ -71,6 +72,9 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-herald-of-slaughter.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-hollow-god.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-interface.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-item-cores-and-crafting.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-item-modifications.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-item-rarity.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-items-and-chests.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-janitor.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-jim.lore.ts","typed":true,"deferred":false}
@@ -113,6 +117,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-rizzen.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-safe-rooms.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-sarah.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-scarlet-generals.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-scarlet-legion.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-school-of-the-ever-surging-blade.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-shadow-hunt.lore.ts","typed":true,"deferred":false}
