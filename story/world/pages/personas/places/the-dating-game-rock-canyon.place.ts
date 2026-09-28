@@ -131,5 +131,9 @@ export const theDatingGameRockCanyon = {
         "character-other/the-dating-game-echo",
       ],
     },
+    {
+      fact: "High up Rock Canyon the walls give way to pine forest, with a small clearing beside the trail.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
 } as const satisfies Place
