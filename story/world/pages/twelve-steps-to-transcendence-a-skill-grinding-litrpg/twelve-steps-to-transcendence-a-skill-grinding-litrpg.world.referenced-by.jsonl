@@ -2,13 +2,17 @@
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/designs/otherwhere-x.story-design.ts","id":"01a0ea5e-9c36-7910-aead-5683ce39f5a0"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-benjamin.lore.ts","id":"01a0ea72-4a83-7154-95c1-d9169a807474"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-nala.lore.ts","id":"01a0ea60-77f5-7489-a799-55fd1ec43262"}
+{"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-portals.lore.ts","id":"01a0ea73-310d-7c25-bded-945b01d44185"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-regional-walls.lore.ts","id":"01a0ea72-86e6-7d96-b3da-831a56015a54"}
+{"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-regions.lore.ts","id":"01a0ea73-310e-747a-b8ee-922d60fc61ab"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-rifts.lore.ts","id":"01a0ea71-aabc-7c25-90e1-25535b879a81"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-status.lore.ts","id":"01a0ea72-f82e-7c2a-8461-8a6005030da5"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-system.lore.ts","id":"01a0ea72-23d2-797d-a2ef-d271ec4b5cf1"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-tiers.lore.ts","id":"01a0ea72-f830-77c9-8de1-e36c650bccbb"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-zones.lore.ts","id":"01a0ea72-86e7-794b-af89-0f6c5bcc17cb"}
+{"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/mechanics/otherwhere-x-portals.world-mechanic.ts","id":"01a0ea73-310f-782f-b1df-70bc32f82718"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/mechanics/otherwhere-x-regional-walls.world-mechanic.ts","id":"01a0ea72-86e7-7011-a9e9-9416e1c614d2"}
+{"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/mechanics/otherwhere-x-regions.world-mechanic.ts","id":"01a0ea73-310f-7a64-aed7-b53d69360cb2"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/mechanics/otherwhere-x-rifts.world-mechanic.ts","id":"01a0ea71-aabd-75e5-95e4-29284682494d"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/mechanics/otherwhere-x-status.world-mechanic.ts","id":"01a0ea72-f830-72e4-9ef9-4690af75b140"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/mechanics/otherwhere-x-system.world-mechanic.ts","id":"01a0ea72-23d3-7bd0-9ca9-efc59135b7d7"}
