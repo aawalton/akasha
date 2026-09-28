@@ -4,13 +4,14 @@ export const theDatingGame00047 = {
   id: "01a0e82e-b09b-7661-a482-b794fdc08b54",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-047",
+  cover: "image/image-70fbb2061396c46f",
   ownLength: 82,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 47,
   prose: "txt",
   characters: ["character-other/the-dating-game-aelwyn", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: '"Great! How do I fix that?"',
   beats: [
     'He asks, "Great! How do I fix that?"',
@@ -22,6 +23,6 @@ export const theDatingGame00047 = {
   ],
   lore: ["lore/the-dating-game-aelwyn"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-27T11:52:00.000Z",
 } as const satisfies StoryTurnPlayed

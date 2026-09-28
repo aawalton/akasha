@@ -149,5 +149,29 @@ export const theDatingGameAelwyn = {
         "character-other/the-dating-game-aelwyn",
       ],
     },
+    {
+      fact: "Aelwyn set Alan's fix for heel-striking: shorter steps, landing under his hips, soft knees.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-aelwyn",
+      ],
+    },
+    {
+      fact: "Aelwyn's feet make no sound at all when she pads across grass.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-aelwyn",
+      ],
+    },
+    {
+      fact: "Aelwyn's cue for Alan's stride: quiet feet, walk like sneaking up on a deer.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-aelwyn",
+      ],
+    },
   ],
 } as const satisfies Lore
