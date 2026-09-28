@@ -4,6 +4,8 @@ export const image035d12a0f68a9bee = {
   id: "01a0e9e6-24f5-737d-8c15-a1bede97f8ef",
   type: "page-type/image",
   slug: "image-035d12a0f68a9bee",
+  title: "Crochet Cover-Up, Sandals in Hand",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
