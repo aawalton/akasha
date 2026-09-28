@@ -91,6 +91,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-foxbolt.lore.ts","id":"01a0ea0a-3667-77b1-9ff5-25a734fa024b"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-fragment.lore.ts","id":"01a0ea0a-3667-72a2-9635-0d847424787d"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-francis.lore.ts","id":"01a0ea0a-3667-7290-94ad-51598f43b5b9"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-globie.lore.ts","id":"01a0ea13-8855-7735-9bf3-a08e0b7406c3"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-gorgon.lore.ts","id":"01a0e9f2-0aaf-713f-8794-cd6f18c532be"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-gorgons-bindings.lore.ts","id":"01a0e9fa-71c1-7a36-a65d-86bb7d9c8f3b"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-gorgons-gaze.lore.ts","id":"01a0e9fa-71c1-7273-bc08-7acdd619245e"}
@@ -107,6 +108,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-hand-casting.lore.ts","id":"01a0ea0b-ea12-7bc8-bf01-a1a10918df3a"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-hannah-elber.lore.ts","id":"01a0e9f0-6c7d-7edf-b5f5-ea5c1662b827"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-haoyu.lore.ts","id":"01a0ea06-099b-76a1-b6c0-afcb9af1e0f9"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-haunting-sphere.lore.ts","id":"01a0ea13-8856-7860-b598-5d0f5797989a"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-hazel-velra.lore.ts","id":"01a0e9f3-cdce-7e86-b145-1a91899d89ee"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-healer.lore.ts","id":"01a0ea02-1746-7222-a1c8-cb7d73882d82"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-heloisa.lore.ts","id":"01a0ea09-46bc-76bf-9b86-001f9d6c86f9"}
@@ -156,6 +158,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-luna-plim.lore.ts","id":"01a0ea02-5f38-7b31-99c0-e94fda252d12"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-lunervikk.lore.ts","id":"01a0e9f8-a508-7021-bb12-3183baad41e5"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-lute.lore.ts","id":"01a0e9f3-cdce-73bc-a433-51e4ac32fa53"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-magiphys-gym.lore.ts","id":"01a0ea13-8856-7ec3-b628-20f65034f74d"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-manon.lore.ts","id":"01a0e9f5-5085-76d4-9904-38dcad7bd465"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-maricel-alcantara.lore.ts","id":"01a0ea02-5f38-7954-8245-feec5b507a39"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-marion.lore.ts","id":"01a0ea06-099c-79ff-b757-3fd2e1be6842"}
@@ -167,6 +170,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-meister-of-knuckles.lore.ts","id":"01a0ea02-1746-7266-a273-d5218e4ff686"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-meister.lore.ts","id":"01a0e9fb-589e-7cce-93cf-a7f90013f082"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-met-oosa.lore.ts","id":"01a0e9f8-a508-7e0a-b3e9-8f243a099a40"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-mind-writher.lore.ts","id":"01a0ea13-8856-7644-a9b4-8848696375df"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-mishnen.lore.ts","id":"01a0ea09-7b76-7c12-8ead-001b844752e2"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-missing-on-assignment.lore.ts","id":"01a0ea0b-ea12-74b3-a90c-42183d978c2f"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-mleirt.lore.ts","id":"01a0ea11-25f2-76c3-9c41-bb0faf846055"}
@@ -237,6 +241,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-spell-impression.lore.ts","id":"01a0ea03-1b0f-7742-af82-9a9337e69c9f"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-spree.lore.ts","id":"01a0ea0f-e346-7e1d-a9ca-db9c1f74bbdc"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-stuart.lore.ts","id":"01a0e9f8-a508-797a-9186-740b376b621a"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-summoning-rights.lore.ts","id":"01a0ea13-8856-7b01-919e-b04d6effe912"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-summons.lore.ts","id":"01a0e9fc-7b33-7e1a-bc55-94bc23e4eac3"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-sway.lore.ts","id":"01a0e9fb-58a0-7721-a1f8-115d18100938"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-sympathy-for-magic.lore.ts","id":"01a0ea11-25f2-7b5d-8cb5-6deb5ab4d52b"}
@@ -246,6 +251,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-tailor-environment.lore.ts","id":"01a0ea09-7b77-7cc2-a746-cc557c88c068"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-techno-tarek.lore.ts","id":"01a0ea03-c8e6-730e-adbe-f0778903186e"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-teleport.lore.ts","id":"01a0e9fa-71c2-76cf-87fe-1c7d724e01c8"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-temper-sphere.lore.ts","id":"01a0ea13-8856-7ce9-a38c-ec1026abc5bf"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-the-gloom.lore.ts","id":"01a0e9f5-5085-735f-9aaa-fb7030408caa"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-the-gloss.lore.ts","id":"01a0ea06-4083-78e2-8151-40c662bbf3fe"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-the-primary.lore.ts","id":"01a0e9f8-a508-7d9b-92ec-29844179ab9c"}
