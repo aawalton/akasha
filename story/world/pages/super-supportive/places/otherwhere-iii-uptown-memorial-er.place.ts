@@ -119,7 +119,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "Later registration runs name and birth date for insurance and finds no match anywhere.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "No match means a self-pay chart, a note for the social worker, and no questions from police.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
-  secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
 } as const satisfies Place
