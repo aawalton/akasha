@@ -290,7 +290,11 @@ export const otherwhereUniverse = {
     },
     {
       fact: "Nala's third sync brings a vision of the Counter long ago, busy with patrons of many kinds.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "The Library's second task is Restore the Check-in Counter, done when its power reaches 75.",
