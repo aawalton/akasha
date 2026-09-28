@@ -49,7 +49,7 @@ const COMPANION_BUILD_PAGE_TYPE_SLUG = "companion-build"
 
 type CompanionBuildRow = BuildRow<CompanionBuildMetadata>
 
-export type CompanionDeleteRefusal = "signed-out" | "unread"
+type CompanionDeleteRefusal = "signed-out" | "unread"
 
 export class CompanionDeleteRefused extends Error {
   readonly kind: CompanionDeleteRefusal
