@@ -1,4 +1,5 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-abrah.world-character.ts","id":"01a0ea38-ea37-78ab-88e8-060e1912a9bf"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-arthritic-imp.world-character.ts","id":"01a0ea3d-08bf-7737-9e24-6e53d0fc186b"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-boar-smith.world-character.ts","id":"01a0ea3b-5152-7887-9d82-9fa70c130f1d"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-ciphelos.world-character.ts","id":"01a0ea35-dfa6-7dbf-a96d-47781044493a"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-cyrus.world-character.ts","id":"01a0ea39-bebe-75c0-9eea-d412bcc6f22c"}
@@ -12,6 +13,7 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-maesha.world-character.ts","id":"01a0ea34-5d6e-7dfb-bda2-072bc3644592"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-markus-brown.world-character.ts","id":"01a0ea36-16c5-7bbb-8ac8-cc5eaf89cdd5"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-maxen.world-character.ts","id":"01a0ea33-b96c-7369-b586-8bf9413423fe"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-merril.world-character.ts","id":"01a0ea3d-08c0-790a-97b1-c56fa9e749f4"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-myra.world-character.ts","id":"01a0ea36-42db-7103-8cd8-a79bb5bf27bb"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-randall.world-character.ts","id":"01a0ea32-f51d-745f-8fb0-9aedd27fe3dc"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-rika.world-character.ts","id":"01a0ea33-2f40-74d7-9103-d621221eca63"}
@@ -20,11 +22,13 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-smiths-son.world-character.ts","id":"01a0ea3b-5153-7942-bd4d-3bab1843d69a"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-the-forbidden-goddess.world-character.ts","id":"01a0ea36-ee5c-7eaa-8e82-a3f50bca175f"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-the-wagering-goddess.world-character.ts","id":"01a0ea36-ee5d-75ca-aecb-e15b940a6f73"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/characters/otherwhere-ix-ugro.world-character.ts","id":"01a0ea3d-08c0-7faa-aa00-667b890a2154"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/designs/otherwhere-ix.story-design.ts","id":"01a0ea1a-1aaa-713c-b9dd-409e4024e03d"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-abominable-bulleater.lore.ts","id":"01a0ea34-d32b-7fe3-a8e3-de1608f3bf9e"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-abrah.lore.ts","id":"01a0ea38-ea38-71bd-aa11-89112a414a06"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-altok.lore.ts","id":"01a0ea37-83f7-73c1-aee0-57ae0c06954a"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-apostle-amalgam.lore.ts","id":"01a0ea35-d76e-75a4-a76d-fd0cac2bc6c7"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-arthritic-imp.lore.ts","id":"01a0ea3d-08c0-7960-9ce1-8a39ce12fdf9"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-ascendants.lore.ts","id":"01a0ea3b-fc33-7d4e-a27c-b2bbe7066877"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-attribute-milestones.lore.ts","id":"01a0ea3a-6fe6-7464-96cf-596e547fdba0"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-attributes.lore.ts","id":"01a0ea38-ca05-7308-a525-ff2509b6c081"}
@@ -96,6 +100,7 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-mana.lore.ts","id":"01a0ea35-1211-77cb-894e-da3b611e88ad"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-markus-brown.lore.ts","id":"01a0ea36-16c7-7394-ad13-85f4de73d0fa"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-maxen.lore.ts","id":"01a0ea33-b96d-7224-aaee-eb9c8c118d13"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-merril.lore.ts","id":"01a0ea3d-08c0-7e58-b554-d4a3422de170"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-money.lore.ts","id":"01a0ea34-1643-7aca-895a-c5af7ac6de70"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-myra.lore.ts","id":"01a0ea36-42db-772b-94c4-cb48fcc1e9a6"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-nala.lore.ts","id":"01a0ea1f-36b9-74dc-9ace-bca18f22ef78"}
@@ -137,6 +142,7 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-tree-behemoth.lore.ts","id":"01a0ea36-ee72-7e52-bf69-e2c37d92e476"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-trimander.lore.ts","id":"01a0ea36-2464-77c7-b102-40d047c26d75"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-troll.lore.ts","id":"01a0ea37-83f8-7845-9feb-03ce51fd4f0d"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-ugro.lore.ts","id":"01a0ea3d-08c0-7325-9730-08a762d81868"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-vampire.lore.ts","id":"01a0ea37-3f80-7881-a136-83edb2fc8d99"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-wall-parasite.lore.ts","id":"01a0ea38-0a08-7cdf-8796-f09811dabf5e"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-world-tournaments.lore.ts","id":"01a0ea39-fe76-7734-a2fd-f063c8e6e2ce"}
