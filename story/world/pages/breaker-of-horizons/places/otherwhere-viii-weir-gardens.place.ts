@@ -53,7 +53,7 @@ export const otherwhereViiiWeirGardens = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The nights here in early autumn are cool but not freezing.",
+      fact: "It is early spring: the plane trees are in new leaf, and the nights are cool but not freezing.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
