@@ -29,11 +29,6 @@ describe("projectProseRows", () => {
     expect(rows[0]?.sessionDivider).toBeNull()
   })
 
-  test("shows titles unless they are hidden", () => {
-    expect(projectProseRows([turn({})])[0]?.showTitle).toBe(true)
-    expect(projectProseRows([turn({})], { titles: "hidden" })[0]?.showTitle).toBe(false)
-  })
-
   test("mutes an older turn that was read to the end", () => {
     const rows = projectProseRows(
       [turn({ id: "a", fullyRead: true }), turn({ id: "b", fullyRead: true })],

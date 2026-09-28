@@ -1,19 +1,14 @@
-import type {
-  ChapterProsePastTurns,
-  ChapterProseTitles,
-} from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
+import type { ChapterProsePastTurns } from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 
 export interface ProseRow {
   readonly turn: ClientStoryTurn
   readonly sessionDivider: number | null
   readonly newest: boolean
-  readonly showTitle: boolean
   readonly muted: boolean
 }
 
 export interface ProseRenderOptions {
-  readonly titles?: ChapterProseTitles
   readonly pastTurns?: ChapterProsePastTurns
 }
 
@@ -22,7 +17,6 @@ export function projectProseRows(
   options: ProseRenderOptions = {}
 ): readonly ProseRow[] {
   const lastIndex = turns.length - 1
-  const showTitle = options.titles !== "hidden"
   const muteAll = options.pastTurns === "muted"
   return turns.map((turn, i) => {
     const prev = i > 0 ? turns[i - 1] : undefined
@@ -36,7 +30,6 @@ export function projectProseRows(
       turn,
       sessionDivider,
       newest,
-      showTitle,
       muted: muteAll && !newest && turn.fullyRead === true,
     }
   })

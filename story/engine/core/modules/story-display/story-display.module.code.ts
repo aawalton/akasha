@@ -21,10 +21,6 @@ const StorySoFarSourceSchema = z.enum(STORY_SO_FAR_SOURCES)
 const CHAPTER_PROSE_HISTORY_SCOPES = ["session", "full"] as const
 const ChapterProseHistorySchema = z.enum(CHAPTER_PROSE_HISTORY_SCOPES)
 
-const CHAPTER_PROSE_TITLES = ["shown", "hidden"] as const
-const ChapterProseTitlesSchema = z.enum(CHAPTER_PROSE_TITLES)
-export type ChapterProseTitles = z.infer<typeof ChapterProseTitlesSchema>
-
 const CHAPTER_PROSE_PAST_TURNS = ["plain", "muted"] as const
 const ChapterProsePastTurnsSchema = z.enum(CHAPTER_PROSE_PAST_TURNS)
 export type ChapterProsePastTurns = z.infer<typeof ChapterProsePastTurnsSchema>
@@ -34,7 +30,6 @@ const StoryDisplayModulesSchema = z
     chapterProse: z
       .object({
         history: ChapterProseHistorySchema.optional(),
-        titles: ChapterProseTitlesSchema.optional(),
         pastTurns: ChapterProsePastTurnsSchema.optional(),
       })
       .strict()

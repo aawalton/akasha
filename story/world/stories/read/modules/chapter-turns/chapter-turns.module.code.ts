@@ -25,7 +25,7 @@ const PUBLISHED_AT_KEY = "publishedAt"
 const PUBLISHED_DAY_KEY = "publishedDay"
 
 const CHANNEL_MODULES: StoryDisplayModules = {
-  chapterProse: { titles: "shown", pastTurns: "muted" },
+  chapterProse: { pastTurns: "muted" },
 }
 
 interface ChannelSpan {
