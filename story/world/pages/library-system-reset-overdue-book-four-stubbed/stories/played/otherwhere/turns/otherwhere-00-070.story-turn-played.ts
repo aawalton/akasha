@@ -4,10 +4,13 @@ export const otherwhere00070 = {
   id: "01a0e930-9268-7437-8b3f-8e03e2500a0c",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-070",
+  ownLength: 202,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 70,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
+  turnStatus: "turn-status/reviewers",
   action:
     "**Okay, let the work, I'd like you to identify books we've found that I should read to prepare for the opening**",
   beats: [
