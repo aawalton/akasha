@@ -141,10 +141,6 @@ export const otherwhereAlan = {
       fact: "Nala's second sync bound her to the core more deeply than her first.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "Nala has read no book of power, so she has no special powers yet.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
 
     {
       fact: "Overnight in the quarters the bite on Nala's arm knitted to a tender pink scar.",
@@ -156,6 +152,10 @@ export const otherwhereAlan = {
     },
     {
       fact: "Nala soaked clean in the hot tub, then brought herself to climax there.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Nala read Shelf Sight through in an hour on the counter's step, and gained its power.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],

@@ -256,6 +256,14 @@ export const otherwhereUniverse = {
         "character-other/otherwhere-links",
       ],
     },
+    {
+      fact: "The Library's golems are stirring now, grinding deep inside, shelvers among them.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

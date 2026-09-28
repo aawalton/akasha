@@ -319,6 +319,26 @@ export const otherwhereMainHall = {
         "character-other/otherwhere-links",
       ],
     },
+    {
+      fact: "With Shelf Sight open, each book's right shelf glows faintly across the hall.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Nala reshelved eight books by Shelf Sight, and the hall's gold light brightened a shade.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
+    },
+    {
+      fact: "The quarters' taps now run hot.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
