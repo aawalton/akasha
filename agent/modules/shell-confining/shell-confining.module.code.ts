@@ -12,6 +12,8 @@ const HEREDOC_OPENED = / <<'([A-Za-z_][\w-]*)'$/
 
 const OPENS_AKASHA = /^akasha\s/
 
+const CD_LED = /^(?:cd +(?:[^\s'"`$;|&<>()\\]+|'[^']*') +&& +)+/
+
 function loneFed(text: string): boolean {
   const [first = "", ...body] = text.split("\n")
   const opened = HEREDOC_OPENED.exec(first)
@@ -25,8 +27,9 @@ export function runsOutside(line: string): boolean {
   const handed = handedIn(line)
   if (handed === null) return false
   const text = handed.trim()
-  if (!OPENS_AKASHA.test(`${text} `)) return false
-  return LONE.test(text) || loneFed(text) || approvedCallOf(text) !== null
+  const bare = text.replace(CD_LED, "")
+  if (!OPENS_AKASHA.test(`${bare} `)) return false
+  return LONE.test(bare) || loneFed(bare) || approvedCallOf(text) !== null
 }
 
 if (import.meta.main) process.stdout.write(runsOutside(process.argv[2] ?? "") ? OUTSIDE : INSIDE)

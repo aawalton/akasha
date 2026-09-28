@@ -19,10 +19,10 @@ import {
   FENCE,
   fedBy,
   type Held,
+  heldIn,
   homeOf,
   lineOf,
-  OWN_AKASHA,
-  OWN_BWRAP,
+  runtimeIn,
   SCRIPT,
   scriptIn,
 } from "akasha/agent/modules/shell-confining/shell-confining.module.test-fixtures.ts"
@@ -44,12 +44,7 @@ const SCRATCH = scratchWorld()
 afterAll(() => SCRATCH.sweep())
 
 function heldAnew(): Held {
-  const at = SCRATCH.rootFor("shell-confining-")
-  const held = { root: join(at, "root"), bin: join(at, "bin"), cwd: join(at, "cwd") }
-  for (const one of [held.root, held.bin]) mkdirSync(one)
-  writeFileSync(join(held.bin, "akasha"), OWN_AKASHA, { mode: 0o755 })
-  writeFileSync(join(held.bin, "bwrap"), OWN_BWRAP, { mode: 0o755 })
-  return held
+  return heldIn(SCRATCH.rootFor("shell-confining-"))
 }
 
 function confining(
@@ -78,6 +73,11 @@ test("an akasha call alone on the line runs outside", () => {
   expect(runsOutside(lineOf("akasha page show 'routes/a.$b.ts'"))).toBe(true)
 })
 
+test("a lone akasha call after a plain cd runs outside", () => {
+  expect(runsOutside(lineOf("cd '/x y' && cd ~/z && akasha audit"))).toBe(true)
+  expect(runsOutside(lineOf(`export ${ACTING_NAMED}='01a0-x'\ncd /x && akasha audit`))).toBe(true)
+})
+
 test("an approved change runs outside, heredoc and all", () => {
   expect(runsOutside(lineOf(CHANGE, ""))).toBe(true)
 })
@@ -99,7 +99,10 @@ test("a call with anything else on the line runs inside", () => {
     "akasha audit > a.ts",
     "akasha audit &",
     "akasha audit\ntouch a.ts",
-    "cd /x && akasha audit",
+    "cd /x && akasha audit | tail",
+    "cd /x; akasha audit",
+    "cd $(touch a.ts) && akasha audit",
+    "cd /x && touch a.ts && akasha audit",
     "akashax audit",
     "touch a.ts",
     `${CHANGE}\ntouch a.ts`,
@@ -219,6 +222,19 @@ test("the script lets an akasha call alone on the line write the checkout", () =
 
   expect(existsSync(join(held.root, "by-akasha"))).toBe(true)
   expect(bwrapHanded(held)).toBeNull()
+})
+
+test("the script lets out a lone akasha call after a cd, and says so where it keeps one in", () => {
+  const out = heldAnew()
+  const kept = heldAnew()
+
+  confining(out, agentsLine(out, "cd /tmp && akasha story turn advance --turn t"))
+  const said = confining(kept, agentsLine(kept, "cd /tmp && akasha | cat"))
+
+  expect(existsSync(join(out.root, "by-akasha"))).toBe(true)
+  expect(bwrapHanded(out)).toBeNull()
+  expect(bwrapHanded(kept)).not.toBeNull()
+  expect(said.err).toContain("shell-confinement:")
 })
 
 test("the script lets a lone akasha call with a double-quoted pattern write the checkout", () => {
@@ -363,18 +379,9 @@ test("a judge that fails, says nothing or says anything but out keeps the call c
   }
 })
 
-function runtimeAnew(): string {
-  const at = SCRATCH.rootFor("shell-confining-runtime-")
-  for (const one of ["akasha", "systemd"]) mkdirSync(join(at, one))
-  for (const one of ["bus", join("systemd", "private"), "ssh-agent.socket"]) {
-    writeFileSync(join(at, one), "")
-  }
-  return at
-}
-
 test("every seat's call reaches no bus and nothing of the runtime folder but logs and ssh", () => {
   const held = heldAnew()
-  const runtime = runtimeAnew()
+  const runtime = runtimeIn(SCRATCH.rootFor("shell-confining-runtime-"))
   const logs = join(runtime, "akasha")
   const ssh = join(runtime, "ssh-agent.socket")
 

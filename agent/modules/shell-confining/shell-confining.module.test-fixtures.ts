@@ -34,11 +34,11 @@ const HIDER_AT = join("agent", "modules", "withheld-hiding", "withheld-hiding.mo
 
 export const SCRIPT = join(codeRoot(), SCRIPT_AT)
 
-export const OWN_AKASHA = '#!/usr/bin/env bash\ntouch "$AKASHA_ROOT/by-akasha"\n'
+const OWN_AKASHA = '#!/usr/bin/env bash\ntouch "$AKASHA_ROOT/by-akasha"\n'
 
 const BWRAP_HANDED = "bwrap-handed"
 
-export const OWN_BWRAP = [
+const OWN_BWRAP = [
   "#!/usr/bin/env bash",
   `printf "%s\\n" "$@" > "$(dirname "$0")/${BWRAP_HANDED}"`,
   "while [[ $1 != -- ]]; do shift; done",
@@ -78,6 +78,22 @@ export function bareBin(held: Held): string {
   mkdirSync(at)
   for (const one of ["bash", "bun", "dirname", "readlink", "touch"]) {
     symlinkSync(SHAPE.string().parse(Bun.which(one)), join(at, one))
+  }
+  return at
+}
+
+export function heldIn(at: string): Held {
+  const held = { root: join(at, "root"), bin: join(at, "bin"), cwd: join(at, "cwd") }
+  for (const one of [held.root, held.bin]) mkdirSync(one)
+  writeFileSync(join(held.bin, "akasha"), OWN_AKASHA, { mode: 0o755 })
+  writeFileSync(join(held.bin, "bwrap"), OWN_BWRAP, { mode: 0o755 })
+  return held
+}
+
+export function runtimeIn(at: string): string {
+  for (const one of ["akasha", "systemd"]) mkdirSync(join(at, one))
+  for (const one of ["bus", join("systemd", "private"), "ssh-agent.socket"]) {
+    writeFileSync(join(at, one), "")
   }
   return at
 }

@@ -9,7 +9,8 @@
 # folder out: `... && pwd -P >| <file>`. A hook, the statusline and a server the harness starts
 # carry no such line, and run as they were handed.
 #
-# AN AKASHA CALL ALONE ON THE LINE RUNS OUTSIDE, so akasha writes the checkout, and
+# AN AKASHA CALL ALONE ON THE LINE RUNS OUTSIDE, so akasha writes the checkout, and a plain
+# `cd <path> &&` before it leaves it alone, since a seat's shell is often led there. And
 # `shell-confining` says what is alone. Only a judge that ends well printing `out` lets a call out;
 # a judge that fails, prints nothing or prints anything else leaves the call confined.
 #
@@ -37,7 +38,8 @@ if [[ $handed != *'&& pwd -P >| '* ]]; then
   exec bash -c "$handed"
 fi
 
-if [[ $handed == *"&& eval 'akasha"* || $handed == *"&& eval 'export "*$'\n'akasha* ]]; then
+if [[ $handed == *"&& eval 'akasha"* || $handed == *"&& eval 'cd "* ||
+  $handed == *"&& eval 'export "*$'\n'akasha* || $handed == *"&& eval 'export "*$'\n''cd '* ]]; then
   verdict=$("$bun" "$judge" "$handed" 2>/dev/null) || verdict=
   if [[ $verdict == out ]]; then
     exec bash -c "$handed"

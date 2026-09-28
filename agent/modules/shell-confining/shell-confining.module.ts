@@ -15,6 +15,10 @@ export const shellConfining = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A `cd` to a plain path chained before a call leaves that call alone on the line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A call alone on the line is `akasha` then words of bare text and runs in quotes, and no more.",
     },
