@@ -4,6 +4,7 @@ import { Button } from "akasha/design/interface/primitive/modules/button/button.
 import {
   sendsNow,
   Textarea,
+  useReturnSends,
 } from "akasha/design/interface/primitive/modules/textarea/textarea.module.code.tsx"
 import { ImagePlus, X } from "lucide-react"
 import { type ChangeEvent, useEffect, useRef, useState } from "react"
@@ -171,6 +172,7 @@ export function SeatComposer({
     setDraft("")
     clear()
   }
+  const returnSends = useReturnSends(send)
   return (
     <div className="mx-auto flex w-full max-w-[710px] flex-col gap-2 px-4 py-2">
       {attached.length > 0 && (
@@ -200,6 +202,7 @@ export function SeatComposer({
           <ImagePlus className="size-5" />
         </Button>
         <Textarea
+          ref={returnSends}
           value={draft}
           onChange={(event) => setDraft(event.target.value)}
           onKeyDown={(event) => {

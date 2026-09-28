@@ -5,6 +5,7 @@ import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-
 import {
   sendsNow,
   Textarea,
+  useReturnSends,
 } from "akasha/design/interface/primitive/modules/textarea/textarea.module.code.tsx"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import {
@@ -111,6 +112,8 @@ export function ActionBar({
   const turns = useRef(turnsSeen)
   turns.current = turnsSeen
   const toldAt = useRef(turnsSeen)
+  const formAt = useRef<HTMLFormElement | null>(null)
+  const returnSends = useReturnSends(() => formAt.current?.requestSubmit())
 
   const settle = useCallback((waiting: boolean, askedAt: number) => {
     awaited.current = turnAwaited(awaited.current, turns.current, Date.now(), waiting)
@@ -212,7 +215,7 @@ export function ActionBar({
         </div>
       )}
       {making === null ? null : <p className={NOTE_LINE}>{workingSaid(making.step)}</p>}
-      <form onSubmit={onSubmit} className="flex flex-col gap-2">
+      <form ref={formAt} onSubmit={onSubmit} className="flex flex-col gap-2">
         {armed === null ? null : <p className={NOTE_LINE}>{ALREADY_SENT}</p>}
         {signedOut ? (
           <SignedOutNotice />
@@ -221,6 +224,7 @@ export function ActionBar({
         )}
         <div className="flex items-end gap-2">
           <Textarea
+            ref={returnSends}
             value={text}
             onChange={(event) => onType(event.target.value)}
             onKeyDown={(event) => {

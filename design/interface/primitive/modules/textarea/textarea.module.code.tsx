@@ -4,6 +4,7 @@ import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import type * as React from "react"
+import { useCallback, useRef } from "react"
 
 type EnterPressed = {
   readonly key: string
@@ -13,6 +14,38 @@ type EnterPressed = {
 
 function sendsNow(event: EnterPressed): boolean {
   return event.key === "Enter" && !event.shiftKey && !event.nativeEvent.isComposing
+}
+
+type LineAsked = { readonly inputType: string; readonly data: string | null }
+
+function breaksLine(asked: LineAsked): boolean {
+  if (asked.inputType === "insertLineBreak" || asked.inputType === "insertParagraph") return true
+  return asked.inputType === "insertText" && asked.data === "\n"
+}
+
+function useReturnSends(
+  send: () => void
+): (textarea: HTMLTextAreaElement | null) => (() => void) | undefined {
+  const latest = useRef(send)
+  latest.current = send
+  return useCallback((textarea: HTMLTextAreaElement | null) => {
+    if (textarea === null) return undefined
+    let shifted = false
+    const onKeyDown = (event: KeyboardEvent) => {
+      shifted = event.shiftKey
+    }
+    const onBeforeInput = (event: InputEvent) => {
+      if (shifted || !breaksLine(event)) return
+      event.preventDefault()
+      latest.current()
+    }
+    textarea.addEventListener("keydown", onKeyDown)
+    textarea.addEventListener("beforeinput", onBeforeInput)
+    return () => {
+      textarea.removeEventListener("keydown", onKeyDown)
+      textarea.removeEventListener("beforeinput", onBeforeInput)
+    }
+  }, [])
 }
 
 function Textarea({ className, autoComplete = "off", ...props }: React.ComponentProps<"textarea">) {
@@ -36,4 +69,4 @@ function Textarea({ className, autoComplete = "off", ...props }: React.Component
   )
 }
 
-export { sendsNow, Textarea }
+export { breaksLine, sendsNow, Textarea, useReturnSends }
