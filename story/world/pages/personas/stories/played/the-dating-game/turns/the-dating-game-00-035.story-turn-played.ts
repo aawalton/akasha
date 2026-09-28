@@ -4,13 +4,14 @@ export const theDatingGame00035 = {
   id: "01a0e584-562f-7e6b-9595-c7b4a7d9bb46",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-035",
+  cover: "image/image-a6ac2e03cb8b89e0",
   ownLength: 153,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 35,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "“My grandfather, my father’s father, he just passed a few weeks ago. Last one of my grandparents to go, all of them lived to their late 80’s or 90’s. He was 97. First one in his direct line to live past 45, as far back as he could track. Never thought he’d live that long. Didn’t want to for the last ten years, but made peace with it in the end.”",
   beats: [
@@ -27,6 +28,6 @@ export const theDatingGame00035 = {
     'She looks over at him, gentle. "Were you with him, at the end?"',
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-26T19:38:00.000Z",
 } as const satisfies StoryTurnPlayed

@@ -260,5 +260,21 @@ export const theDatingGameAlan = {
       fact: "To Alan, the past with his father and the past without him are equally incomprehensible.",
       knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
     },
+    {
+      fact: "Alan's grandfather, his father's father, died a few weeks ago, aged 97.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
+    },
+    {
+      fact: "Alan's grandfather was the last of his grandparents; all lived into their late 80s or 90s.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
+    },
+    {
+      fact: "Alan's grandfather was the first in his direct line, as far back as he traced, to live past 45.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
+    },
+    {
+      fact: "Alan's grandfather didn't want to live his last ten years, but made peace with it in the end.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
+    },
   ],
 } as const satisfies Lore
