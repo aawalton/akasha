@@ -4,13 +4,14 @@ export const otherwhereVi00003 = {
   id: "01a0ea33-8299-79a5-a8d1-12ccc9b4f4e4",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vi-00-003",
+  cover: "image/image-7a5a53d09193e8be",
   ownLength: 442,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],
   position: 3,
   prose: "txt",
   characters: ["character-player/otherwhere-vi-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "\"Okay, definitely isekai'd. Not much to work with, but if I can survive the start, I might be able to get stronger. I have water, so next I'll try to follow it to civilization.\" With that plan, I get up and start carefully following the water downstream, alert and searching for danger.",
   beats: [
@@ -40,5 +41,5 @@ export const otherwhereVi00003 = {
     "lore/otherwhere-vi-beasts",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed

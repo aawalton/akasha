@@ -91,6 +91,10 @@ export const otherwhereViMossHollow = {
       fact: "Rabbits and squirrels are common round the hollow; deer come to the stream at dusk.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Just below the hollow a narrow trodden line crosses the stream, its mud marked by split hoof prints.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
   ],
   within: "place/otherwhere-vi-greypine-weald",
   exits: [

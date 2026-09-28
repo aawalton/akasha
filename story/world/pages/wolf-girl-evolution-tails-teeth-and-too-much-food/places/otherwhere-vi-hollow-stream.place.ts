@@ -18,7 +18,7 @@ export const otherwhereViHollowStream = {
     },
     {
       fact: "An hour below the hollow the stream drops down a mossy ravine in a small fall.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "The ravine's sides are steep and slick; the dry way round is a deer trail on the west bank.",
@@ -46,7 +46,7 @@ export const otherwhereViHollowStream = {
     },
     {
       fact: "The great moon lights the stream brightly tonight; under the thick pines it is near black.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "Where the stream meets the Carrow, charcoal burners keep a smoking clamp and a hut.",
@@ -71,6 +71,18 @@ export const otherwhereViHollowStream = {
     {
       fact: "Unhardened bare feet on stone, roots and needles bruise and cut within a few hours.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The stream's banks are pine needles, roots, moss and loose stone, with no path along them.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "The ravine's sides are steep, mossy and slick with spray; a dry trail runs along its west rim.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "An owl calls along the stream at night, and the pines creak high overhead in the wind.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
   ],
   exits: [
