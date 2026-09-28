@@ -64,5 +64,9 @@ export const otherwhereViiiWeirGardens = {
       fact: "Cars on the street past the railings are low and rounded, and run silent but for a soft hum.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
+    {
+      fact: "The few lit windows in the buildings past the park show the lamps' same steady white light.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
   ],
 } as const satisfies Place
