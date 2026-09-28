@@ -24,6 +24,7 @@ export const otherwhereMainHall = {
       direction: "west",
     },
     {
+      to: "place/otherwhere-break-room",
       way: "Through the plain wooden door off the hall's left side, partway back along the columns, into the break room.",
       direction: "east",
     },
@@ -170,26 +171,6 @@ export const otherwhereMainHall = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "The break room's door opens off the hall's left side, partway back along the columns.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "The break room's cupboards also hold chipped mugs, a dented tin scoop and a small bucket.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "The break room's dead magical cooler is dry and tight, a fit store for dried bookworms.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
-    {
-      fact: "The dead cooler is a knee-high chest she can drag when empty, and it holds all five coils.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
       fact: "The lowest shelves are in reach from the floor; higher ones need the hall's rolling ladders.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
@@ -210,23 +191,7 @@ export const otherwhereMainHall = {
       ],
     },
     {
-      fact: "Nala dragged the dead cooler out, loaded all five coils and dragged it back to the break room.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
-    {
       fact: "The Library's kitchen has woken, and its sacks of salt with it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
-    {
-      fact: "The break room has a stone sink whose tap still runs cold, clean water.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-alan",
@@ -254,14 +219,6 @@ export const otherwhereMainHall = {
       ],
     },
     {
-      fact: "The break room's large box of salt, which never spoils, is now empty.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "A break room off the hall holds a dead magical cooler and overgrown terrarium gardens.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
       fact: "Links hands a newcomer a broom as her first weapon against the bookworms.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
@@ -272,10 +229,6 @@ export const otherwhereMainHall = {
         "character-player/otherwhere-alan",
         "character-other/otherwhere-links",
       ],
-    },
-    {
-      fact: "Nala took the dented tin scoop from the break room; it holds a good fistful of salt.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "As the first bookworm dried still, the hall's gold light brightened a shade.",
