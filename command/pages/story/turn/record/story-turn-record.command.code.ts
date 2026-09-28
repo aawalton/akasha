@@ -5,6 +5,7 @@ import {
 import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { playedTurn } from "akasha/command/argument/pages/played-turn.argument.ts"
+import { recorder as recorderArgument } from "akasha/command/argument/pages/recorder.argument.ts"
 import {
   answeredWith,
   answering,
@@ -22,6 +23,7 @@ import {
   heldOf,
   seatsStarted,
 } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.code.ts"
+import { storyTurnAdvance } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.ts"
 import {
   REACHED,
   type Reach,
@@ -37,13 +39,23 @@ import {
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 
-const NAMED = [playedTurn] as const
+const NAMED = [playedTurn, recorderArgument] as const
 
 const LORE = "lore"
 
 const CHARACTERS = "characters"
 
 const PARTED = "/"
+
+const SPACE = " "
+
+export function advancingAs(calledAs: string): string {
+  return `${calledAs.slice(0, calledAs.lastIndexOf(SPACE) + SPACE.length)}${storyTurnAdvance.name}`
+}
+
+function recorderStep(calledAs: string, slug: string): string {
+  return `a story recorder hands in its step with \`${advancingAs(calledAs)} ${playedTurn.said} ${storyTurnPlayed.slug}${PARTED}${slug} ${recorderArgument.said} <recorder>\``
+}
 
 async function heldOn(
   done: string[],
@@ -56,6 +68,12 @@ async function heldOn(
   if (turn === null) return refused(`\`${slug}\` names no played turn here`, DATA)
   const held = heldOf(turn)
   if ("refused" in held) return refused(held.refused, DATA)
+  if (held.status === RECORDERS) {
+    return refused(
+      `\`${slug}\` is at ${RECORDERS} already, so ${recorderStep(given.calledAs, slug)}`,
+      DATA
+    )
+  }
   if (held.status !== PLAYER) {
     return refused(
       `\`${slug}\` is at ${held.status}, so its recorders run as it moves on from there`,
@@ -96,7 +114,7 @@ async function heldOn(
       title: story?.title ?? held.game,
       turnAt: turn.at,
       address: `${storyTurnPlayed.slug}${PARTED}${slug}`,
-      calledAs: given.calledAs,
+      calledAs: advancingAs(given.calledAs),
       lore: reach.loreOf(
         given.root,
         stringsIn(turn.value[LORE]),
@@ -121,6 +139,14 @@ async function recordedOn(
 ): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, NAMED)
   if ("refused" in read) return refusedBy(read.refused, INPUT)
+  if (read.taken.recorder !== undefined) {
+    return refusedBy(
+      [
+        `this starts the recorders on a turn at ${PLAYER}, so it names no recorder; ${recorderStep(given.calledAs, "<turn>")}`,
+      ],
+      INPUT
+    )
+  }
   const named = read.taken.playedTurn.trim()
   if (named === "") return refusedBy([`\`${playedTurn.said}\` names no turn`], INPUT)
   const slug = bareOf(named)

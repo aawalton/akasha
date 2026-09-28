@@ -1,3 +1,5 @@
 {"propertySlug":"argument","path":"command/pages/story/turn/advance/story-turn-advance.command.ts","id":"01a0deca-7611-72a6-9435-385ed7dedb72"}
+{"propertySlug":"argument","path":"command/pages/story/turn/record/story-turn-record.command.ts","id":"01a0e98f-b822-7949-98b6-d204ffd0a478"}
 {"propertySlug":"import","fileName":"recorder.argument.ts","path":"command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"recorder.argument.ts","path":"command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"recorder.argument.ts","path":"command/pages/story/turn/record/story-turn-record.command.code.ts","typed":false,"deferred":false}

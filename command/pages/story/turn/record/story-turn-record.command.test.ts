@@ -57,6 +57,35 @@ test("a turn at player no recorder ran on moves to recorders and starts a seat f
   expect(answer.report).toContain(`${SLUG}\tplayer\trecorders`)
 })
 
+test("each recorder's prompt hands in its step with the advance, never with record", async () => {
+  const into = seen()
+  await recordedBy(turnAt("player", { prose: "txt" }), into)
+  const advance = `akasha story turn advance --turn story-turn-played/${SLUG} --recorder`
+  expect(into.starts.every((one) => one.prompt.includes(advance))).toBe(true)
+  expect(into.starts.some((one) => one.prompt.includes("turn record"))).toBe(false)
+})
+
+test("a record naming a recorder is refused with the advance a recorder runs", async () => {
+  const into = seen()
+  const answer = await storyTurnRecord(
+    ["--turn", `story-turn-played/${SLUG}`, "--recorder", "memory"],
+    GIVEN,
+    landingInto(into),
+    reachOver(turnAt("recorders"), null, into)
+  )
+  expect(answer.refusals.join(" ")).toContain("akasha story turn advance --turn")
+  expect(into.starts).toEqual([])
+})
+
+test("a turn at recorders is refused with the advance a recorder runs", async () => {
+  const into = seen()
+  const answer = await recordedBy(turnAt("recorders"), into)
+  expect(answer.refusals.join(" ")).toContain(
+    `akasha story turn advance --turn story-turn-played/${SLUG} --recorder <recorder>`
+  )
+  expect(into.folded).toEqual([])
+})
+
 test("a turn a recorder ran on already is refused, and nothing is done", async () => {
   const into = seen()
   const turn = turnAt("player", { recordedBy: [`${storyRecorder.slug}/${memory.slug}`] })

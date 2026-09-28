@@ -39,7 +39,15 @@ export const storyTurnRecord = {
       decisionKind: "decision-kind/departure",
       statement: "A start that fails after the landing is told, and undoes nothing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A call naming a recorder is refused with the advance a recorder hands its step in by.",
+    },
   ],
   name: "record",
-  arguments: [{ argument: "argument/played-turn", required: true }],
+  arguments: [
+    { argument: "argument/played-turn", required: true },
+    { argument: "argument/recorder", required: false },
+  ],
 } as const satisfies Command
