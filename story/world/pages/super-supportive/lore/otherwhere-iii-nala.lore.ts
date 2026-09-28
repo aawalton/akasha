@@ -144,6 +144,18 @@ export const otherwhereIiiNala = {
       fact: "No Alan, and none of Alan's family, house or records, exists in this world's Provo.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At triage Nala gave her name as Nala Arthur, born January 22, 1986.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
+      fact: "At triage Nala gave her address as 1350 Apple Ave, Provo, Utah, and no local address.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
+      fact: "Marcus told Nala a birth date of January 22, 1986 would make her fifty-one.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

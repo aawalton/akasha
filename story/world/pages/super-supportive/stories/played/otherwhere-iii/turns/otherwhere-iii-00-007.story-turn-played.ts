@@ -4,6 +4,7 @@ export const otherwhereIii00007 = {
   id: "01a0ea1d-d0e4-74bf-a865-72128ee4cbfe",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-007",
+  cover: "image/image-39118e3a00945059",
   ownLength: 169,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
@@ -13,7 +14,7 @@ export const otherwhereIii00007 = {
     "character-player/otherwhere-iii-nala",
     "character-other/otherwhere-iii-denise-pruitt",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     '"Nala Arthur, January 22, 1986, 1350 Apple Ave Provo, Utah" I recite smoothly. "No local address"',
   beats: [
@@ -28,6 +29,6 @@ export const otherwhereIii00007 = {
   ],
   lore: ["place/otherwhere-iii-uptown-memorial-er", "lore/otherwhere-iii-nala"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2037-01-31T05:08:00.000Z",
 } as const satisfies StoryTurnPlayed

@@ -104,5 +104,13 @@ export const otherwhereIiiDenisePruitt = {
         "character-other/otherwhere-iii-denise-pruitt",
       ],
     },
+    {
+      fact: "At triage Denise gave Nala a small wave and went through a door marked STAFF ONLY.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-denise-pruitt",
+      ],
+    },
   ],
 } as const satisfies Lore
