@@ -40,6 +40,6 @@ export const otherwhereViii00002 = {
   issues: ['"The iron tip of the stick rests in the gravel by his boot." - No Prompt'],
   lore: ["place/otherwhere-viii-carrowgate", "place/otherwhere-viii-weir-gardens"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-28T05:45:00.000Z",
 } as const satisfies StoryTurnPlayed
