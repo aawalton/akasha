@@ -4,7 +4,7 @@ export const theDatingGameTalia = {
   id: "01a0e84a-5dbb-7526-886a-aba6dfe5fcd2",
   type: "page-type/world-relationship",
   slug: "the-dating-game-talia",
-  title: "Alan and the Woman on the Porch",
+  title: "Alan and Talia",
   world: "world/personas",
   characters: ["character-player/the-dating-game-alan", "character-other/the-dating-game-talia"],
   relationshipPoints: 0,
