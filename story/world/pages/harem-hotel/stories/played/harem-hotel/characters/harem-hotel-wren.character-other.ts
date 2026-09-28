@@ -4,7 +4,7 @@ export const haremHotelWren = {
   id: "01a0e839-1d45-7fea-acf0-4da50040294a",
   type: "page-type/character-other",
   slug: "harem-hotel-wren",
-  title: "The Bellhop",
+  title: "Wren",
   story: "story-played/harem-hotel",
   cover: "image/image-8d48fd8483055a61",
 } as const satisfies CharacterOther
