@@ -4,7 +4,10 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-althorn.world-character.ts","id":"01a0e9f7-46c7-7a90-ae15-c2aad86d730e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-amoh.world-character.ts","id":"01a0e9f7-46c8-77f6-830a-46127a29e80e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-aresi.world-character.ts","id":"01a0e9f7-46c8-7f3e-b85d-edb16f686477"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-artha.world-character.ts","id":"01a0e9f7-b02c-7f71-9895-ef9bc625c1d7"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-badud.world-character.ts","id":"01a0e9f6-d51f-70b7-98ae-c3e523d97d5e"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-bandrin.world-character.ts","id":"01a0e9f7-b02d-783b-b175-422177814c4f"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-bathilde.world-character.ts","id":"01a0e9f7-b02d-78d0-b234-ea7c0a889796"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-nathan-lark.world-character.ts","id":"01a0e9f5-00f8-7d2d-9a68-889656e360ef"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-ogarius.world-character.ts","id":"01a0e9f7-96f0-7fbd-bbd3-3e62202b2113"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-sarya.world-character.ts","id":"01a0e9f6-e509-78ec-bf38-9a4e0791dd94"}
@@ -23,9 +26,12 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-amoh.lore.ts","id":"01a0e9f7-46c8-7d33-a9e6-f2cead231468"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-aresi.lore.ts","id":"01a0e9f7-46c8-7e27-b19e-372dee5e7392"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-armatures.lore.ts","id":"01a0e9f7-1def-73d5-acd3-18b529924156"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-artha.lore.ts","id":"01a0e9f7-b02d-7dd1-bd20-7c7ccf60947e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-ascendant-academy.lore.ts","id":"01a0e9f4-227b-70ba-ae50-af8bcbf5cdbc"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-assassins-of-gemore.lore.ts","id":"01a0e9f5-e1ae-7cf6-be35-4c2ef2eefd40"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-badud.lore.ts","id":"01a0e9f6-d51f-764a-9c93-090bf23f303b"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-bandrin.lore.ts","id":"01a0e9f7-b02d-75f8-84a3-848d225336bc"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-bathilde.lore.ts","id":"01a0e9f7-b02d-7569-878b-b35de7b7aab1"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-birdfolk.lore.ts","id":"01a0e9f3-7322-7b79-aafb-70403eb47d0e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-class-skills.lore.ts","id":"01a0e9f7-46bb-74ca-a6a6-3df3e9d7ca57"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-classes.lore.ts","id":"01a0e9f4-b58a-7309-818e-f14eaa1497bd"}
