@@ -60,10 +60,7 @@ export const otherwhereHallBack = {
       fact: "The big engorged bookworm is bloated and matte grey, its colored mouth rings blotched.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "One of the engorged bookworms has grown bigger than the rest.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "An engorged bookworm has no eyes, and a round mouth rimmed with rows of jagged teeth.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -164,10 +161,7 @@ export const otherwhereHallBack = {
       fact: "Each few feet of sweeping scatters a little salt, so a travelling ring thins as it goes.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "A small engorged bookworm weighs twenty-odd pounds, and a broom can drag it across the floor.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "A bookworm dragged onto a salt line is burned by it, and its thrashing scuffs a gap in the line.",
       knowers: ["lore-disclosure/game-master"],
@@ -188,38 +182,17 @@ export const otherwhereHallBack = {
       fact: "Salted bookworm skin goes dry and rough, easy to grip, though the mouth end still bites.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "Low humped engorged bookworms chew wetly among heaps of books in the gloom at the hall's back.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "Moving silently did not hide Nala; the blind bookworm turned and tracked her anyway.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "Held in the salt, the first small bookworm dried into a hard grey coil, alive but helpless.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
+
     {
       fact: "The broom's bristles are worn short and splayed, and skip over salt as much as push it.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "Nala emptied the salt box, sweeping her ring into an oval four feet across and six feet long.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "A much deeper, bigger roar rolled out between the columns from far back in the dark.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "A small bookworm Nala hooked with the broom bit its bristles and wrenched the broom from her.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "A small engorged bookworm weighs twenty-odd pounds.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -327,6 +300,22 @@ export const otherwhereHallBack = {
     {
       fact: "The big bookworm's thrashing slowed, and it swung its salt-rimmed mouth back toward Nala.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Salt crust pressed to the big bookworm's cracked hide burns deep, and it rolls to scrape it off.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Clinging just behind its head keeps a body past the big bookworm's mouth, unless it curls round.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A roll of the big bookworm's bulk can pin and crush whoever clings to it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Once a salt crust scrapes off, the honey beneath draws the big bookworm's teeth to it.",
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
 } as const satisfies Place
