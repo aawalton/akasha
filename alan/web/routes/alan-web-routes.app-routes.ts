@@ -15,6 +15,7 @@ export const alanWebRoutes = {
     "route/alan-web-api-health",
     "route/alan-web-api-image",
     "route/alan-web-api-live-version",
+    "route/alan-web-api-icon",
     "route/alan-web-api-nav-icon",
     "route/alan-web-api-page-events",
     "route/alan-web-api-page-file",

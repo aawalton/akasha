@@ -92,6 +92,7 @@ export default [
     "api/nav-icon/:idSuffix",
     "routes/alan-web-api-nav-icon/alan-web-api-nav-icon.route.code.ts"
   ),
+  route("api/icon/:name", "routes/alan-web-api-icon/alan-web-api-icon.route.code.ts"),
   route("api/image/:imageId", "routes/alan-web-api-image/alan-web-api-image.route.code.ts"),
   route(
     "api/page-file/:pageTypeSlug/:slug/:key",
