@@ -28,5 +28,6 @@ export const otherwhere00060 = {
     '"Librarian Link: Connection 3" - Library states connection only when a task asks for it',
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  endsAt: "2026-09-28T13:38:00.000Z",
 } as const satisfies StoryTurnPlayed
