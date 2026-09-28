@@ -10,7 +10,7 @@ import {
 import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
 import { allowedAgain } from "akasha/command/modules/stopping/command-stopping.module.code.ts"
 
-export const PROMOTE_ALLOWED = 3600
+const PROMOTE_ALLOWED = 3600
 
 export const TAIL = 20
 
@@ -22,7 +22,7 @@ export type Promoted = { readonly code: number; readonly lines: readonly string[
 
 export type Promoting = (argv: readonly string[]) => Promise<Promoted>
 
-export function reposIn(): string {
+function reposIn(): string {
   return optionalEnv("REPOS_ROOT") ?? join(homedir(), "repos")
 }
 
