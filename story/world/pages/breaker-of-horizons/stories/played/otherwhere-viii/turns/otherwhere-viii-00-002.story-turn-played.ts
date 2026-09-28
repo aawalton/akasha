@@ -10,7 +10,7 @@ export const otherwhereViii00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-viii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     '"Oh, yes sir." I say respectfully getting up. "Could you help me get oriented? I\'m not sure how I ended up here. Where am I exactly?"',
   beats: [
