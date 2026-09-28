@@ -6,4 +6,10 @@ export const bareListingCard = {
   slug: "bare-listing-card",
   definition: "a listing row shown as a card with no view config behind it",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A card drawn at a gallery size shows an image page's own picture as its cover.",
+    },
+  ],
 } as const satisfies Module

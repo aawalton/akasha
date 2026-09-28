@@ -236,6 +236,7 @@ export function PagesFilteredContent({
                 onComplete: editing ? handleComplete : undefined,
                 onDelete: editing ? handleDeletePage : undefined,
                 onToggleFavorite: editing ? handleToggleFavorite : undefined,
+                galleryCardSize,
               })
             }
           />

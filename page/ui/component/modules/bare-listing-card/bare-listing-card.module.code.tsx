@@ -3,8 +3,13 @@
 import type { IconName } from "akasha/page/core/generated/modules/icon-search-index/icon-search-index.module.code.ts"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { completionShapeOf } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
+import type { GalleryCardSize } from "akasha/page/core/view/modules/gallery/gallery.module.code.ts"
 import { PageCard } from "akasha/page/ui/component/modules/page-card/page-card.module.code.tsx"
 import { PageCardNotes } from "akasha/page/ui/component/modules/page-card-notes/page-card-notes.module.code.tsx"
+import {
+  coverSource,
+  ownCover,
+} from "akasha/page/ui/component/modules/page-cover/page-cover.module.code.tsx"
 import { pageRowToPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
@@ -25,6 +30,7 @@ interface BareListingCardContext {
   readonly onComplete?: (page: PageRow, atMs: number | null) => void
   readonly onDelete?: (pageId: string) => void
   readonly onToggleFavorite?: (pageId: string, value: number | null) => void
+  readonly galleryCardSize?: GalleryCardSize
 }
 
 export function RenderBareListingCard(page: PageRow, ctx: BareListingCardContext): ReactElement {
@@ -33,6 +39,8 @@ export function RenderBareListingCard(page: PageRow, ctx: BareListingCardContext
   const { _id: id, ...rest } = page
   const pageData = pageRowToPageDataJSON(rest)
   const changeProperty = ctx.onPropertyChange
+  const coverUrl =
+    ctx.galleryCardSize == null ? null : coverSource(ownCover(ctx.pageTypeSlug, page.slug))
   const notesSlot =
     ctx.notesProperty != null ? (
       <PageCardNotes
@@ -55,6 +63,8 @@ export function RenderBareListingCard(page: PageRow, ctx: BareListingCardContext
       pageTypeSlug={ctx.pageTypeSlug}
       visiblePropertyIds={ctx.visiblePropertyIds}
       alwaysShowPropertyIds={ctx.alwaysShowPropertyIds}
+      coverSize={ctx.galleryCardSize}
+      coverUrl={coverUrl}
       notesSlot={notesSlot}
       href={rowHref}
       onIconChange={

@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"gallery.module.code.ts","path":"page/core/schema/modules/view-data/view-data.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"gallery.module.code.ts","path":"page/ui/component/modules/bare-listing-card/bare-listing-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"gallery.module.code.ts","path":"page/ui/component/modules/gallery-options-picker/gallery-options-picker.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"gallery.module.code.ts","path":"page/ui/component/modules/page-card-renderer/page-card-renderer.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"gallery.module.code.ts","path":"page/ui/component/modules/page-card/page-card.module.code.tsx","typed":true,"deferred":false}
