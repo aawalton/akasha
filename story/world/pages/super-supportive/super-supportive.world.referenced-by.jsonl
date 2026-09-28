@@ -78,6 +78,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/enchantments/super-supportive-blast-resistance.world-enchantment.ts","id":"01a0e9f0-79f4-78fd-950c-d76bf6888027"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/enchantments/super-supportive-halo-of-the-mother-planet.world-enchantment.ts","id":"01a0e9f0-79f4-7e0f-b141-28c9685a8a1a"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/legacies/super-supportive-gorgons-gift.world-legacy.ts","id":"01a0e9f0-79f4-7ead-bb08-286bbd9c68f9"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-1963-agreement.world-mechanic.ts","id":"01a0e9f2-f0a1-7190-8e07-469fc074184f"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-affixation.world-mechanic.ts","id":"01a0e9f0-3df9-7aa9-9204-26779982515a"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-arbitration.world-mechanic.ts","id":"01a0e9f1-cfc1-71e7-b2f6-bbb161c57095"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-authority-control.world-mechanic.ts","id":"01a0e9f1-065d-7cea-bafc-24d1c7e9835d"}
@@ -85,6 +86,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-authority.world-mechanic.ts","id":"01a0e9f1-065e-7ae4-b7ac-e6b6284fcb53"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-autotrade.world-mechanic.ts","id":"01a0e9f0-3dfa-71cc-b690-259545be83c2"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-avowed-communications-network.world-mechanic.ts","id":"01a0e9f2-9a50-703a-93e7-268d5afabc79"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-avowed-stipend.world-mechanic.ts","id":"01a0e9f2-f0a2-79b0-bc25-7e0d2e11bd1a"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-battlefield-support.world-mechanic.ts","id":"01a0e9f0-3dfa-7179-8d83-ad2ea3061fa0"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-bound-authority.world-mechanic.ts","id":"01a0e9f1-065e-759d-a6f2-437060fb8284"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-carriage.world-mechanic.ts","id":"01a0e9f1-065e-757f-98bb-a18007774a43"}
@@ -114,14 +116,18 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-haecceity.world-mechanic.ts","id":"01a0e9f1-065e-7cb1-a83d-067eecdb5a9e"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-hand-casting.world-mechanic.ts","id":"01a0e9f1-065e-7817-9ec7-44dac1f69a0d"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-honor-guard.world-mechanic.ts","id":"01a0e9f0-3dfb-78f7-b4b2-a751ac4875a9"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-intake.world-mechanic.ts","id":"01a0e9f2-f0a2-74f8-9a0a-3d0cb5fcfa32"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-knight-release.world-mechanic.ts","id":"01a0e9f2-9a51-7b0c-ae57-aa9ae582c3a6"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-leveling.world-mechanic.ts","id":"01a0e9f0-3dfb-7095-8113-a07880521d1a"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-live-trade-negotiation.world-mechanic.ts","id":"01a0e9f0-3dfb-7ac3-bc1a-effd81bb67e3"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-loving-lie.world-mechanic.ts","id":"01a0e9f2-f0a2-7f2a-b8a3-dd7ca8eb7ff7"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-mental-texting.world-mechanic.ts","id":"01a0e9f2-9a51-7265-86fb-d4f2680cac90"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-mourning-name.world-mechanic.ts","id":"01a0e9f2-f0a2-7feb-a6de-84059a0e3dbe"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-name-tags.world-mechanic.ts","id":"01a0e9f2-9a52-7892-ae2f-968fffe2e0bb"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-opposite.world-mechanic.ts","id":"01a0e9f1-065e-7986-8ddb-56ce90796160"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-original-skills.world-mechanic.ts","id":"01a0e9f1-065f-7289-927a-8aa40742ab35"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-perception.world-mechanic.ts","id":"01a0e9f1-065f-7eae-a6f1-ddb607d59568"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-placement-testing.world-mechanic.ts","id":"01a0e9f2-f0a2-7a9c-aec3-7453deaade67"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-pre-affixation-trade.world-mechanic.ts","id":"01a0e9f0-3dfb-79f3-ac32-7382d775332d"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-preservation.world-mechanic.ts","id":"01a0e9f1-065f-7d24-9f0f-18238ea0095f"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-primary-summoner.world-mechanic.ts","id":"01a0e9f1-cfc2-790e-83cf-a81adb3cbac2"}
@@ -140,6 +146,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-skill-facets.world-mechanic.ts","id":"01a0e9f1-065f-7ae4-a337-700ff1876bf8"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-skill.world-mechanic.ts","id":"01a0e9f0-3dfb-7c73-954a-0ed1bb550364"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-spell-impression.world-mechanic.ts","id":"01a0e9f1-065f-7335-a1e2-ee9b8381c58a"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-spree.world-mechanic.ts","id":"01a0e9f2-f0a2-7b01-979f-c52d32844ac6"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-summoning-rights.world-mechanic.ts","id":"01a0e9f1-cfc2-7f1e-b530-0e96210d73c1"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-summons.world-mechanic.ts","id":"01a0e9f1-cfc2-72b4-a06c-ea72089afdc6"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-system-call.world-mechanic.ts","id":"01a0e9f2-9a52-71a7-8b83-c7f32aaa6cb0"}
