@@ -6,6 +6,7 @@ export const relation = {
   slug: "relation",
   definition: "the operations a relation property supports",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

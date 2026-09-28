@@ -18,6 +18,12 @@ export function readTargetPageTypeSlug(config: unknown): string | undefined {
   return typeof target === "string" && target !== "" ? target : undefined
 }
 
+function namedIn(value: PropertyValue, named: FilterConfig["value"]): boolean {
+  if (typeof value !== "string" || value === "") return false
+  if (Array.isArray(named)) return named.includes(value)
+  return named === value
+}
+
 export const RELATION_OPS: PropertyTypeOps = {
   validate(value: PropertyValue) {
     if (value == null || value === "") return null
@@ -46,6 +52,10 @@ export const RELATION_OPS: PropertyTypeOps = {
           return value === filterValue
         case "not_equals":
           return value !== filterValue
+        case "includes":
+          return namedIn(value, filterValue)
+        case "not_includes":
+          return !namedIn(value, filterValue)
         case "is_empty":
           return value == null || value === ""
         case "is_not_empty":
