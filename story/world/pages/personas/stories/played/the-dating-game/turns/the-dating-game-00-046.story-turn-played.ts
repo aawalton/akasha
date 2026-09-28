@@ -10,7 +10,7 @@ export const theDatingGame00046 = {
   position: 46,
   prose: "txt",
   characters: ["character-other/the-dating-game-aelwyn", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "\"Sounds great! I'm excited, I think you'll be really good for me. I hope I can be a good fit for you too.\"",
   beats: [
@@ -27,5 +27,5 @@ export const theDatingGame00046 = {
     "\"You land on your heels like you're mad at the ground. That's gonna be our step two.\"",
   ],
   lore: ["lore/the-dating-game-aelwyn"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
