@@ -4,6 +4,8 @@ export const image1fd38aa0071abb3a = {
   id: "01a0e9ef-2b96-702e-bb2e-468fdbe55ba3",
   type: "page-type/image",
   slug: "image-1fd38aa0071abb3a",
+  title: "Mint Silk and Green Grapes Under the Chestnut",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
