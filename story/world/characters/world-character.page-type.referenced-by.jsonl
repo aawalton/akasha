@@ -161,6 +161,10 @@
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-beholder/characters/the-beholder-pearl.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-beholder/characters/the-beholder-tamsin.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-abenezigel.world-character.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-adon.world-character.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-aragan.world-character.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-ardek.world-character.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-arthur.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-wandering-inn/characters/aaron-vanwell.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-wandering-inn/characters/aaron.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-wandering-inn/characters/abel.world-character.ts","typed":true,"deferred":false}
