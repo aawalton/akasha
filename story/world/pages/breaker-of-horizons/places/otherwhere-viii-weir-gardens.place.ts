@@ -56,5 +56,9 @@ export const otherwhereViiiWeirGardens = {
       fact: "It is early spring: the plane trees are in new leaf, and the nights are cool but not freezing.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At dawn a man in heavy boots walks the paths, telling sleepers to get up and move on.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
   ],
 } as const satisfies Place
