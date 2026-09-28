@@ -79,7 +79,11 @@ export const theDatingGameAelwyn = {
     },
     {
       fact: "Alan is in Aelwyn's Sunday workout video, which she posts that same night.",
-      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-aelwyn",
+      ],
     },
     {
       fact: "Aelwyn is a seasonal forest ranger in Provo Canyon and knows every tree along the river.",
@@ -191,6 +195,38 @@ export const theDatingGameAelwyn = {
     },
     {
       fact: "Alan's first real session with Aelwyn is on the Provo River Trail, at the mouth of the canyon.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-aelwyn",
+      ],
+    },
+    {
+      fact: "Aelwyn rides an old green bike.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-aelwyn",
+      ],
+    },
+    {
+      fact: "Aelwyn set Alan's homework: quiet feet all week, everywhere, grocery store and stairs too.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-aelwyn",
+      ],
+    },
+    {
+      fact: "Aelwyn told Alan he looks very heroic in his laced shirt.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-aelwyn",
+      ],
+    },
+    {
+      fact: "Alan told Aelwyn he's looking forward to their Wednesday session.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/the-dating-game-alan",

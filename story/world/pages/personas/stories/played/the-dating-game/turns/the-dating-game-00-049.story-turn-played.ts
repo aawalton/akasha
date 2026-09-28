@@ -4,13 +4,14 @@ export const theDatingGame00049 = {
   id: "01a0e83c-52ff-7bd9-8d0b-af8ff7bebf75",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-049",
+  cover: "image/image-422c66ab899d76a7",
   ownLength: 80,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 49,
   prose: "txt",
   characters: ["character-other/the-dating-game-aelwyn", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: '"Deal, I\'m looking forward to it!"',
   beats: [
     'He says, "Deal, I\'m looking forward to it!"',
@@ -22,6 +23,6 @@ export const theDatingGame00049 = {
   ],
   lore: ["lore/the-dating-game-aelwyn", "place/the-dating-game-provo-river-trail"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-27T11:56:00.000Z",
 } as const satisfies StoryTurnPlayed
