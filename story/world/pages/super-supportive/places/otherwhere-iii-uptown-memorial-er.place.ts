@@ -147,6 +147,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "Marcus told Nala frostnip waits behind worse cases, so her wait could be a while.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
+    {
+      fact: "The back corner of the waiting room is out of earshot of the triage window and the guard.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
