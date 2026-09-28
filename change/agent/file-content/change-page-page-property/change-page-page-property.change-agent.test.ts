@@ -47,6 +47,7 @@ const CARRIED = [
   { key: "shown", pageTypeSlug: "boolean-property" },
   { key: "endsAt", pageTypeSlug: "instant-property" },
   { key: "count", pageTypeSlug: "number-property" },
+  { key: "characters", pageTypeSlug: "multi-relation-property", many: true },
 ]
 
 const SIBLING = {
@@ -183,6 +184,15 @@ test("a key with many values is refused with the line `add-property-values` take
     `\`add-property-values\`, handing it \`added: ${AT} characters <value>\``
   )
   expect(said.refused ?? "").toContain("`remove-property-value`")
+})
+
+test("a many-valued key the page states not yet is refused rather than added as one value", async () => {
+  const world = worldTold(null, null, METRIC_BODY)
+
+  const said = await changePageProperty(world, { at: AT, key: "characters", to: "character/two" })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain(`\`added: ${AT} characters <value>\``)
 })
 
 test("an argument this change was handed no value for is refused by the key", async () => {

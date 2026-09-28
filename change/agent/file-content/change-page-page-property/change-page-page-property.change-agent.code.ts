@@ -14,6 +14,7 @@ import {
   holdsIn,
   type Read,
   readFor,
+  singleIn,
   targetsIn,
   typeIn,
 } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
@@ -89,7 +90,9 @@ export async function changePageProperty(
   const read = readFor(world, given.at)
   if ("refused" in read) return refusing(`${read.refused}, so no property is stated`)
   const text = world.textOf(given.at)
-  if (text !== null && manyIn(parsedAs(given.at, text), given.key)) {
+  const declaredMany =
+    declaresIn(world, read.value, given.key) === true && !singleIn(world, read.value, given.key)
+  if (declaredMany || (text !== null && manyIn(parsedAs(given.at, text), given.key))) {
     return refusing(manyRefused(given.at, given.key))
   }
   const absent = text !== null && !statedIn(given.at, text, given.key)

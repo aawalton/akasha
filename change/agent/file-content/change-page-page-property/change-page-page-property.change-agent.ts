@@ -48,6 +48,11 @@ export const changePagePageProperty = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A key the page's type declares many-valued is refused here whether or not the page states it yet.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The refusal for many values names the changes putting a value in and taking a value out.",
     },
     {
