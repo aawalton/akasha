@@ -10,7 +10,7 @@ export const theDatingGame00029 = {
   position: 29,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "“No, I like the quiet here too. I have a hard time feeling like death is real though. The past, the present, and the future all blur together for me.”",
   beats: [
@@ -23,7 +23,6 @@ export const theDatingGame00029 = {
     "Then the corner of her red mouth lifts. \"But I'm glad it doesn't sit heavy on you.\"",
     "She walks on between the rows, lantern low, keeping her pace to his.",
     '"All blurred together," she says, turning it over. "What\'s that like, from the inside?"',
-    "[Grace, Closeness Level 1: a new acquaintance who is glad to see you again.]",
   ],
   issues: [
     '"[Grace, Closeness Level 1: ...]" - her closeness level is hidden, never shown in a window',
