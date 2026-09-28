@@ -52,5 +52,6 @@ export const otherwhereIv00004 = {
   ],
   lore: ["lore/otherwhere-iv-three-stones-folk"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-28T07:10:00.000Z",
 } as const satisfies StoryTurnPlayed
