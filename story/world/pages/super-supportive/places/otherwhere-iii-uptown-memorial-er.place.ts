@@ -19,6 +19,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "The ER waiting room is warm and bright, with rows of chairs, a muted TV and a triage window.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At half past five on a Saturday it is quiet: a few people waiting, one man asleep, a cough.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
