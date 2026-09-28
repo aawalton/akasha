@@ -9,7 +9,11 @@ export const otherwhereGolems = {
   facts: [
     {
       fact: "The Library has two shelving golems, each reshelving some thirty books an hour, day and night.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-links",
+        "character-player/otherwhere-alan",
+      ],
     },
     {
       fact: "A woken golem takes up work only at a Librarian's spoken command.",

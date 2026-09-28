@@ -53,7 +53,11 @@ export const otherwhereMainHall = {
     },
     {
       fact: "With Shelf Sight open, sorting a section at a time, a Librarian reshelves some thirty an hour.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "The main hall is dimly lit, brighter once a Librarian syncs, and gloomy beyond the entrance.",
@@ -362,6 +366,14 @@ export const otherwhereMainHall = {
     {
       fact: "Nala woke to a slow creak of wood and brass from the main hall, a sound new to her there.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "At sixty books an hour, the two golems will clear the main hall's loose books in about two days.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
   ],
   secrets: "jsonl",

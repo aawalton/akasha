@@ -4,13 +4,14 @@ export const otherwhere00069 = {
   id: "01a0e843-ed51-7a30-89b1-ffc79de768d2",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-069",
+  cover: "image/image-0ccf7583c28e22d1",
   ownLength: 89,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 69,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: "**Links, how long until the main floor is cleared at this rate?**",
   beats: [
     "Nala asks Links, silently, how long the golems will take to clear the main level at this pace.",
@@ -21,6 +22,6 @@ export const otherwhere00069 = {
   ],
   lore: ["lore/otherwhere-golems"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T06:36:00.000Z",
 } as const satisfies StoryTurnPlayed
