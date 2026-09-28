@@ -71,6 +71,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ken.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-kenji.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-kerry.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-kiki.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-knowledge.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-komos.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-labyrinth.lore.ts","typed":true,"deferred":false}
@@ -90,6 +91,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-notable-safe-rooms.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-other-contestants.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-paul.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-pellia.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-planetary-quest-chain.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-preservation.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-promethean-coalition.lore.ts","typed":true,"deferred":false}
@@ -97,6 +99,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-quests.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ratmen.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-rax.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-rita.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-river-king.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-rizzen.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-safe-rooms.lore.ts","typed":true,"deferred":false}
@@ -117,11 +120,13 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-taltos.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-tower-staff.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-traits.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-trell.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-tutorials.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-veronica.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-vital-energies.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-voidbears.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-voidspawn.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-yoro.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-zenith.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/lore/otherwhere-the-library-alan.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/lore/otherwhere-the-library-golems.lore.ts","typed":true,"deferred":false}
