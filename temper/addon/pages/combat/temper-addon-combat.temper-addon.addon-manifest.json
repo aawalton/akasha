@@ -5,7 +5,7 @@
   "author": "AlanGaming",
   "version": "1.0.0",
   "addonVersion": 100,
-  "apiVersion": ["101041", "101042", "101049"],
+  "apiVersion": ["101041", "101042", "101049", "101050", "101051"],
   "savedVariables": [
     "TemperCombat_Save",
     "TemperCombat_FightData",

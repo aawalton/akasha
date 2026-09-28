@@ -7,7 +7,8 @@
   "addonVersion": 100,
   "apiVersion": [
     "101049",
-    "101050"
+    "101050",
+    "101051"
   ],
   "savedVariables": [
     "TemperCharacters_SavedVariables",
