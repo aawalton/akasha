@@ -6,6 +6,12 @@ export const otherwhereIvLanqiao = {
   slug: "otherwhere-iv-lanqiao",
   title: "Lanqiao",
   world: "world/beware-of-chicken",
+  exits: [
+    {
+      to: "place/otherwhere-iv-ox-back-ridge",
+      way: "Out the gate and up the market road over Ox-Back Ridge, toward Three Stones.",
+    },
+  ],
   facts: [
     {
       fact: "Lanqiao is a walled mortal market town thirty li down the river from Three Stones.",

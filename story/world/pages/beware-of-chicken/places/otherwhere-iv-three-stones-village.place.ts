@@ -6,6 +6,12 @@ export const otherwhereIvThreeStonesVillage = {
   slug: "otherwhere-iv-three-stones-village",
   title: "Three Stones Village",
   world: "world/beware-of-chicken",
+  exits: [
+    {
+      to: "place/otherwhere-iv-ox-back-ridge",
+      way: "The market road out of the village, climbing over Ox-Back Ridge toward Lanqiao.",
+    },
+  ],
   facts: [
     {
       fact: "Three Stones is a mortal farming village of some forty households, five li below the bend.",

@@ -6,6 +6,12 @@ export const otherwhereIvWillowBend = {
   slug: "otherwhere-iv-willow-bend",
   title: "Willow Bend",
   world: "world/beware-of-chicken",
+  exits: [
+    {
+      to: "place/otherwhere-iv-upstream-woods",
+      way: "Upriver along a deer track into the wooded hills above the bend.",
+    },
+  ],
   facts: [
     {
       fact: "Willow Bend is a slow loop of a clear river in the rolling green of the Azure Hills.",
