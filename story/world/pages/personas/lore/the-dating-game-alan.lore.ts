@@ -224,5 +224,17 @@ export const theDatingGameAlan = {
       fact: "Alan fears pain far more than death, and mourns the versions of him whose three seconds are pain.",
       knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
     },
+    {
+      fact: "Alan told Grace she is kind and beautiful, and she thanked him, meaning it plainly.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/the-dating-game-grace",
+        "character-player/the-dating-game-alan",
+      ],
+    },
+    {
+      fact: "Grace offered to be good company for Alan's next few selves, and to walk with them too.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
 } as const satisfies Lore
