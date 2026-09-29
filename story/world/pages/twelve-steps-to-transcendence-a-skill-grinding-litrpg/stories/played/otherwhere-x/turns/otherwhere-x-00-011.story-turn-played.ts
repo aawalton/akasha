@@ -59,5 +59,6 @@ export const otherwhereX00011 = {
     "place/otherwhere-x-tarrant-ford",
     "place/otherwhere-x-the-sheaf",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T19:40:00.000Z",
 } as const satisfies StoryTurnPlayed
