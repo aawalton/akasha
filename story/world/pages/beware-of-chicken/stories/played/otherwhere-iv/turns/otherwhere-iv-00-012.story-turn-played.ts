@@ -4,6 +4,7 @@ export const otherwhereIv00012 = {
   id: "01a0eaa4-0862-7a0e-b803-b8ca07e1e46f",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-012",
+  cover: "image/image-f51c0908cdcb557c",
   ownLength: 444,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],
@@ -44,6 +45,6 @@ export const otherwhereIv00012 = {
   ],
   lore: ["lore/otherwhere-iv-gu-household"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T19:25:00.000Z",
 } as const satisfies StoryTurnPlayed
