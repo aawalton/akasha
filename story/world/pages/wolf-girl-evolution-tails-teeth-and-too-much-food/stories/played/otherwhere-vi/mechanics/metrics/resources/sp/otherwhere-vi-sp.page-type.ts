@@ -38,7 +38,21 @@ export const otherwhereViSp = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A night's sleep gives back all her SP, and a stamina potion twenty at once.",
+      statement: "A night's sleep warm gives back all her SP, and a stamina potion twenty at once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A night's sleep chilled, shivering or hungry gives back half the SP she is missing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A night's sleep freezing gives back no SP.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Asleep, cold hours spend no SP; what the night gives back is all that is counted.",
     },
     {
       decisionKind: "decision-kind/departure",
