@@ -10,11 +10,19 @@ export const otherwhereViiAldoReeve = {
   facts: [
     {
       fact: "Aldo Reeve is a heavy man of about forty-five in a leather apron, slow to speak, slower to smile.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+      ],
     },
     {
       fact: "Aldo chews a straw when he's thinking, and takes it out when he's decided.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+      ],
     },
     {
       fact: "Aldo was made headman for being careful, and he has never lost a harvest or a child to trouble.",
@@ -48,18 +56,7 @@ export const otherwhereViiAldoReeve = {
         "character-other/otherwhere-vii-aldo-reeve",
       ],
     },
-    {
-      fact: "After threshing, the mountain school's steward weighs Ashford's grain and takes a tenth.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "The steward writes the tithe in his ledger, and Aldo suspects the ledger cheats Ashford.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Aldo would feed and pay anyone who could reckon the harvest and check the steward's figures.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "The steward comes in about six days, when the threshing is done.",
       knowers: [
@@ -100,10 +97,7 @@ export const otherwhereViiAldoReeve = {
         "character-other/otherwhere-vii-tamsin",
       ],
     },
-    {
-      fact: "The stick's true count: 74 sacks threshed, 9 taken as tithe, 65 left to Ashford.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
-    },
+
     {
       fact: "A tenth of 74 sacks is 7 and a half; the steward's 9 is a sack and a half too many.",
       knowers: [
@@ -114,10 +108,7 @@ export const otherwhereViiAldoReeve = {
         "character-other/otherwhere-vii-tamsin",
       ],
     },
-    {
-      fact: "Aldo has never set the crossed notches against the tenth; he can't reckon a tenth of 74.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "Each tithe tally is split: Aldo keeps one half, the steward the other, notched together.",
       knowers: [
@@ -152,10 +143,7 @@ export const otherwhereViiAldoReeve = {
       fact: "Nobody in Ashford has ever heard of a museum.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Told the steward overtook, Aldo goes grey and quiet: crossing the mountain's man is dangerous.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "Aldo would sooner catch the steward fair at this year's weighing than accuse him of last year's.",
       knowers: [
@@ -166,20 +154,7 @@ export const otherwhereViiAldoReeve = {
         "character-other/otherwhere-vii-tamsin",
       ],
     },
-    {
-      fact: "Aldo would keep a reckoner on through the weighing for bed, board and ten pennies a day.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-aldo-reeve",
-        "character-other/otherwhere-vii-gammer-wyn",
-        "character-other/otherwhere-vii-tamsin",
-      ],
-    },
-    {
-      fact: "Aldo tells Wyn and Tamsin to hold their tongues about the steward, and Tamsin may not.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "The steward is Osric Vane, a thin clerk in a grey coat with a snowdrop badge, on a brown pony.",
       knowers: [
@@ -198,10 +173,7 @@ export const otherwhereViiAldoReeve = {
         "character-other/otherwhere-vii-tamsin",
       ],
     },
-    {
-      fact: "Aldo has never spoken back to Osric, because of the mage at his side.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "Gammer Wyn swears the steward's scale has always been crooked, and has said so for years.",
       knowers: [
@@ -248,14 +220,7 @@ export const otherwhereViiAldoReeve = {
       fact: "Aldo takes a teaching offer as a kindness beyond the wage, and warms to Nala for it.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "The stick holds seven deep notches, four shallow ones, and nine more each crossed by a cut.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-aldo-reeve",
-      ],
-    },
+
     {
       fact: "The deep notches are grouped at the stick's thick end, the crossed ones last at the thin end.",
       knowers: [
@@ -273,14 +238,7 @@ export const otherwhereViiAldoReeve = {
         "character-other/otherwhere-vii-aldo-reeve",
       ],
     },
-    {
-      fact: "Aldo Reeve is a heavy man in a leather apron who chews a straw.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-aldo-reeve",
-      ],
-    },
+
     {
       fact: "Aldo told Nala he takes on no folk off the road, and asked her name and who would speak for her.",
       knowers: [

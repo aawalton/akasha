@@ -32,5 +32,9 @@ export const otherwhereViiTamsin = {
       fact: "Tamsin is quick with numbers once shown, quicker than her uncle.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Tamsin may not hold her tongue about the steward's cheating for long.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
