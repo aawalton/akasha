@@ -42,10 +42,14 @@ export const otherwhereX00007 = {
     "\"The fiddler's dead and the Sheaf's had nothing since. You say you can sing. Sing, then.\"",
     "The room goes quiet enough to hear the fire, and every face at the trestles turns.",
   ],
+  issues: [
+    '"The room goes quiet enough to hear the fire, and every face at the trestles turns" - No Prompt',
+  ],
   lore: [
     "lore/otherwhere-x-osric",
     "lore/otherwhere-x-the-wider-world",
     "place/otherwhere-x-sulon-capital",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T18:58:00.000Z",
 } as const satisfies StoryTurnPlayed
