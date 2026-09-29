@@ -71,5 +71,14 @@ export const otherwhereViiJoanReeve = {
         "character-other/otherwhere-vii-joan-reeve",
       ],
     },
+    {
+      fact: "Joan is worn thin from four days of watching over feverish Bet.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-hild",
+        "character-other/otherwhere-vii-joan-reeve",
+      ],
+    },
   ],
 } as const satisfies Lore

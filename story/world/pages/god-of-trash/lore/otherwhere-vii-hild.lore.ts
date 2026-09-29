@@ -179,15 +179,27 @@ export const otherwhereViiHild = {
     },
     {
       fact: "Hild wants a picker to come fed, shod, with salved hands, and to bring nothing but herself.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-hild",
+      ],
     },
     {
       fact: "Hild lends her pickers a hooked knife and a flat rush basket, and counts both back at dusk.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-hild",
+      ],
     },
     {
       fact: "Hild would ask one thing of Nala before morning: to sit an hour with Bet tonight so Joan sleeps.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-hild",
+      ],
     },
     {
       fact: "Watching a fever is sponging the brow with cool water, and spooning herb tea between the chills.",
