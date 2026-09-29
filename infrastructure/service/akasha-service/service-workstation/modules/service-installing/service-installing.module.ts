@@ -55,6 +55,14 @@ export const serviceInstalling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every unit to be enabled is enabled by one systemctl call.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refused enable is asked again unit by unit, so each refusal names its unit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A systemctl call that refuses is carried back rather than printed and forgotten.",
     },
     {

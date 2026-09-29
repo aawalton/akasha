@@ -217,6 +217,27 @@ test("nothing stopped means nothing reloaded twice", () => {
   expect(said.filter((one) => one === "daemon-reload").length).toBe(1)
 })
 
+test("every unit to be enabled is enabled by one systemctl call", () => {
+  const { said, run } = recorded()
+  const did: string[] = []
+  installing(HOME, { ...NOTHING, enable: ["a.service", "b.timer"] }, run, did)
+  expect(said.filter((one) => one.startsWith("enable"))).toEqual(["enable --now a.service b.timer"])
+  expect(did).toContain("enabled a.service")
+  expect(did).toContain("enabled b.timer")
+})
+
+test("a refused enable is asked again unit by unit, so the refusal names its unit", () => {
+  const said: string[] = []
+  const run = (args: readonly string[]): Ran => {
+    said.push(args.join(" "))
+    return { code: args.includes("bad.service") ? 1 : 0, out: "no such unit" }
+  }
+  const done = installing(HOME, { ...NOTHING, enable: ["bad.service", "good.timer"] }, run)
+  expect(said).toContain("enable --now good.timer")
+  expect(done.did).toContain("enabled good.timer")
+  expect(done.refused).toEqual(["enabled bad.service: no such unit"])
+})
+
 test("a unit no service accounts for is stopped, disabled and then taken away", () => {
   const { said, run } = recorded()
   writeStaged(HOME, "gone.service", "body")

@@ -191,6 +191,22 @@ export function unlinkUnit(home: string, name: string, did: string[] = []): unde
   did.push(`removed ${name}`)
 }
 
+type Taking = (what: string, done: Ran) => undefined
+
+function enabledEvery(
+  names: readonly string[],
+  run: (args: readonly string[]) => Ran,
+  took: Taking,
+  did: string[]
+): undefined {
+  if (names.length === 0) return
+  if (run(["enable", "--now", ...names]).code === 0) {
+    for (const name of names) did.push(`enabled ${name}`)
+    return
+  }
+  for (const name of names) took(`enabled ${name}`, run(["enable", "--now", name]))
+}
+
 export function installing(
   home: string,
   plan: Plan,
@@ -222,7 +238,7 @@ export function installing(
 
   took("reloaded", run(["daemon-reload"]))
 
-  for (const name of plan.enable) took(`enabled ${name}`, run(["enable", "--now", name]))
+  enabledEvery(plan.enable, run, took, did)
   for (const name of plan.restart ?? []) took(`restarted ${name}`, run(["restart", name]))
   for (const name of plan.stop) {
     took(`stopped ${name}`, run(["stop", name]))
