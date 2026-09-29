@@ -68,6 +68,10 @@ export const otherwhereViBrackenford = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Nan Brisk tends a hurt stranger first and asks her village after, and takes work as pay.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Tam Ferrow, the smith, is a young beastkin of the dog line, cheerful and strong.",
       knowers: ["lore-disclosure/game-master"],
     },
