@@ -16,6 +16,10 @@ export const superSupportiveFirstBinding = {
       fact: "Many die during the first binding or within a few years of it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The topic is taboo among Artonans, and many swear respectful silence about it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
