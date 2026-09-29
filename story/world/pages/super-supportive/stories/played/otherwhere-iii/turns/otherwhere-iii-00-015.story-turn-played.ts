@@ -4,6 +4,7 @@ export const otherwhereIii00015 = {
   id: "01a0ea8c-4b48-78d1-b9fc-3a4fae8e6e3b",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-015",
+  cover: "image/image-6a2f9e8b9a5e3e19",
   ownLength: 686,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
@@ -14,7 +15,7 @@ export const otherwhereIii00015 = {
     "character-other/otherwhere-iii-priya-raman",
     "character-other/otherwhere-iii-denise-pruitt",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "\"You've done so much already, I think that's all I need. I need to go to the Artonan Consulate first though, that's just down the red line, right?\"",
   beats: [
@@ -42,6 +43,6 @@ export const otherwhereIii00015 = {
   ],
   lore: ["place/super-supportive-artonan-consulate-4"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2037-01-31T09:23:00.000Z",
 } as const satisfies StoryTurnPlayed
