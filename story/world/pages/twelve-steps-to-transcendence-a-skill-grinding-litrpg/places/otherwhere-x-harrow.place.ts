@@ -33,15 +33,7 @@ export const otherwhereXHarrow = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Harrow's reeve is Aldous Crane, fifty, lean and careful of speech, who wants no trouble.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Aldous keeps Harrow's household roll in an iron-bound chest in his stone-footed house.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Aldous would send to Tarrant Ford over a stranger he could not account for.",
+      fact: "Harrow's reeve is Aldous Crane.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -208,10 +200,7 @@ export const otherwhereXHarrow = {
       fact: "Hob must pen the geese in the fold behind the Sheaf before he may go home.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Aldous meets a stranger at his door, asks name, home and business, then asks for a road token.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "Bess will not turn a barefoot woman away hungry, whatever Aldous thinks of her.",
       knowers: ["lore-disclosure/game-master"],
@@ -220,18 +209,7 @@ export const otherwhereXHarrow = {
       fact: "Nala is a rare name; in Harrow it was Nala Pike's alone, and every older soul remembers it.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Hearing the dead woman's name from her likeness, Aldous hides his fear and tells no one tonight.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Aldous will not sleep an unknown stranger under his own roof, with his boy in the house.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Aldous lodges strangers in the Sheaf's loft on his word, and Martha takes the reeve's word.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "Harrow loves a new tale or song; winter evenings are long and the same stories worn thin.",
       knowers: ["lore-disclosure/game-master"],
@@ -244,14 +222,7 @@ export const otherwhereXHarrow = {
       fact: "The Sheaf supper wants a singer; the fiddler who played it last year died in the spring.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "A stranger who cannot say where home is sounds, to Aldous, like one hiding it.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Aldous grew up alongside Nala Pike; he sees her in the stranger, but dusk makes him doubt it.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "Bess came from Wexley to wed Aldous twenty years ago and never saw Nala Pike.",
       knowers: ["lore-disclosure/game-master"],
