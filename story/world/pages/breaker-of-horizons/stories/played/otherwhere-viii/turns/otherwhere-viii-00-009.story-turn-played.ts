@@ -43,6 +43,13 @@ export const otherwhereViii00009 = {
     "Above them the building is still; before long the apprentices will come and it will fill.",
     "The chalk is in her hand, and the gap is two blank rows.",
   ],
+  issues: [
+    '"Hallick says nothing for a moment." - Plain Negation',
+    '"he takes no notice of it" - Plain Negation',
+    '"and says nothing more" - Plain Negation',
+    '"The chalk is in your hand." - No Prompt',
+  ],
   lore: ["lore/otherwhere-viii-scholarship", "place/otherwhere-viii-guildhall"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T07:08:00.000Z",
 } as const satisfies StoryTurnPlayed
