@@ -10,7 +10,7 @@ export const otherwhereX00009 = {
   position: 9,
   prose: "txt",
   characters: ["character-player/otherwhere-x-nala", "world-character/otherwhere-x-aldous-crane"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     'I sing "Dulaman" as a third one in the Celtic tradition, this time I test and deliberately try to sing in the original language, since I don\'t understand the words anyways. When I\'m done, I answer the question. "I\'ve been singing off and on for basically my whole life, just comes naturally. These are popular songs where I am from, but that is far, far away."',
   beats: [
@@ -34,6 +34,9 @@ export const otherwhereX00009 = {
     "Martha looks from Hattie to Nala and puts both fists on the wood.",
     '"You\'ll answer that in my house, lass. What tongue was that, and whose?"',
   ],
+  issues: [
+    '"The tapping foot stops." - a quick dancing tune sets the Sheaf\'s feet going whatever its words',
+  ],
   lore: [
     "lore/otherwhere-x-aldous-crane",
     "lore/otherwhere-x-language",
@@ -47,6 +50,6 @@ export const otherwhereX00009 = {
     "lore/otherwhere-x-time",
     "place/otherwhere-x-the-sheaf",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T19:21:00.000Z",
 } as const satisfies StoryTurnPlayed
