@@ -4,6 +4,7 @@ export const otherwhereVii00008 = {
   id: "01a0ea98-0c71-7899-a76b-c449911ef597",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vii-00-008",
+  cover: "image/image-6e049f24e5022d79",
   ownLength: 289,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vii"],
@@ -40,5 +41,6 @@ export const otherwhereVii00008 = {
   ],
   lore: ["lore/otherwhere-vii-aldo-reeve"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/picture"],
   endsAt: "2026-09-28T08:18:00.000Z",
 } as const satisfies StoryTurnPlayed
