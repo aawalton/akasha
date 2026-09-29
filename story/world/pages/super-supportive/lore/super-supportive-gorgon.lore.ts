@@ -81,6 +81,10 @@ export const superSupportiveGorgon = {
       fact: "He smells fear on Nala but no deceit, and believes her: no human could know of his line.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Hearing his people named, he goes still; his bindings let him say neither yes nor no.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
