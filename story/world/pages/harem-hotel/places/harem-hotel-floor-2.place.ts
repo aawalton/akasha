@@ -57,7 +57,11 @@ export const haremHotelFloor2 = {
     },
     {
       fact: "On floor 2 the bath mistress gives the orders, and the bath attendant serves the guest.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-odile",
+      ],
     },
     {
       fact: "Floor 2's task: make the bath mistress come on your mouth and the attendant on your cock at once.",
