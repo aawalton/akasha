@@ -136,7 +136,10 @@
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/species/super-supportive-vatha.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/species/super-supportive-yumanit.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/species/super-supportive-zansee.world-species.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-hadals.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-kark.world-species.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-merls.world-species.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-yries.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/species/boreal-half-elf.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/species/drake.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/species/half-elf.world-species.ts","typed":true,"deferred":false}
