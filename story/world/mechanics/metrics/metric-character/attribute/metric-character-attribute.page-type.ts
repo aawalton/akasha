@@ -50,6 +50,7 @@ export const metricCharacterAttribute = {
     "page-type/otherwhere-xi-notice",
     "page-type/overwhere-iv-level",
     "page-type/overwhere-iii-level",
+    "page-type/overwhere-i-stat",
   ],
 
   types: "ts",
