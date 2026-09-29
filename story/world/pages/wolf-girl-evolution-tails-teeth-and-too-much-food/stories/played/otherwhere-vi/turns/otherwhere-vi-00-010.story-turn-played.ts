@@ -37,5 +37,6 @@ export const otherwhereVi00010 = {
     "A wren scolds from somewhere close in the boughs, loud and small.",
   ],
   lore: ["place/otherwhere-vi-cowberry-bank", "lore/otherwhere-vi-nala"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T06:10:00.000Z",
 } as const satisfies StoryTurnPlayed
