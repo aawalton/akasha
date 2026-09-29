@@ -58,6 +58,10 @@ export const otherwhereIvUpstreamWoods = {
       fact: "Old Tusk is a boar newly stirred into a spirit beast this spring, and still half an animal.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "He is in the Initiate's Realm, and his hide turns a mortal's knife and arrow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
