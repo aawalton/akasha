@@ -4,6 +4,7 @@ export const otherwhereVii00015 = {
   id: "01a0eb30-d679-7c34-ae2b-8044ebacf20b",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vii-00-015",
+  cover: "image/image-2d47b64e5698cd51",
   ownLength: 335,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vii"],
@@ -14,7 +15,7 @@ export const otherwhereVii00015 = {
     "character-other/otherwhere-vii-joan-reeve",
     "character-other/otherwhere-vii-agnes-hobb",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I go and get the buckets, then work to fill the water butt from the well.",
   beats: [
     "Nala takes up the two wooden buckets by their rope handles and sets off across the yard.",
@@ -43,6 +44,6 @@ export const otherwhereVii00015 = {
     "place/otherwhere-vii-ashford",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T12:42:00.000Z",
 } as const satisfies StoryTurnPlayed
