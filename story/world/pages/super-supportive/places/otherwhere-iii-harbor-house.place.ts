@@ -11,6 +11,10 @@ export const otherwhereIiiHarborHouse = {
       fact: "Harbor House is a women's shelter in an old church hall on Sunnyside Avenue, in Uptown.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "It is a ten-minute walk from the Uptown Memorial ER.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
