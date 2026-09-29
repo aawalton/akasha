@@ -226,7 +226,11 @@ export const otherwhereViiiTheInstitute = {
     },
     {
       fact: "The Institute pays bench hands fifty crowns a day, cash, for repair work in the workshop.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-viii-hallick",
+        "character-player/otherwhere-viii-nala",
+      ],
     },
     {
       fact: "A proved claimant lodging at the Institute would have a small room over the workshop.",
