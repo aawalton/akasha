@@ -11,4 +11,5 @@ export const otherwhereIx00014 = {
   action:
     "I hold a quill in each hand and crouch low to the ground, keeping an eye on both the beast approaching on the ground and the one in the sky. If one comes close, I'll aim to stab into the belly or eyes depending on what is accessible.",
   lore: ["lore/otherwhere-ix-carrion-hawk", "lore/otherwhere-ix-shardback"],
+  endsAt: "2026-09-28T15:57:00.000Z",
 } as const satisfies StoryTurnPlayed
