@@ -22,5 +22,6 @@ export const otherwhereIx00008 = {
     "When her sight clears, her hands are shaking badly and her leg will barely answer her.",
     "The stub of glass still stands in its throat, and it is still hanging on, breathing hard.",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T15:39:00.000Z",
 } as const satisfies StoryTurnPlayed
