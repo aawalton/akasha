@@ -117,6 +117,10 @@ export const otherwhereXiDragons = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Scholars cite Melitus' compendium on disastrous fauna for dragon lore.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "A juvenile dragon learns to move things by will almost at once.",
       knowers: ["lore-disclosure/game-master"],
     },
