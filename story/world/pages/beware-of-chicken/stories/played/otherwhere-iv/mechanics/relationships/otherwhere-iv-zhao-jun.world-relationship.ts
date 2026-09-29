@@ -7,5 +7,5 @@ export const otherwhereIvZhaoJun = {
   title: "Nala and Zhao Jun",
   world: "world/beware-of-chicken",
   characters: ["character-player/otherwhere-iv-nala", "character-other/otherwhere-iv-zhao-jun"],
-  relationshipPoints: 9,
+  relationshipPoints: 10,
 } as const satisfies WorldRelationship
