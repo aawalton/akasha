@@ -10,7 +10,7 @@ export const otherwhereX00004 = {
   position: 4,
   prose: "txt",
   characters: ["character-player/otherwhere-x-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "\"I'm Nala. I think my home is far away from here, but I'm not sure where here is precisely, so I couldn't tell you how far. As for business, I suppose I'm looking for a warm meal and roof to sleep under for the night. I could sing for my support or tell stories if you'd like. I have a feeling I have many you'll have never heard the likes of before.\"",
   beats: [
@@ -29,6 +29,6 @@ export const otherwhereX00004 = {
     '"First things. Have you a road token, mistress? A reeve\'s letter, or a stamped tally?"',
   ],
   lore: ["place/otherwhere-x-harrow"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T18:31:00.000Z",
 } as const satisfies StoryTurnPlayed
