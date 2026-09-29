@@ -262,5 +262,9 @@ export const otherwhereIiiOnnDesveth = {
       fact: "She cannot summon a Knight of the Mother Planet; she could only send a message, and wait.",
       knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
     },
+    {
+      fact: "A message to a knight would carry Nala's secret past her, which she meant to avoid.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+    },
   ],
 } as const satisfies Lore
