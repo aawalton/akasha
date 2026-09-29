@@ -10,7 +10,7 @@ export const otherwhereXi00008 = {
   position: 8,
   prose: "txt",
   characters: ["character-player/otherwhere-xi-nala", "world-character/otherwhere-xi-wenna-ashlar"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "\"I'll gladly work, but I'll warn you, today is the first time I've seen a sheep close enough to touch one. You'll need to teach me what to do.\"",
   beats: [
@@ -37,12 +37,13 @@ export const otherwhereXi00008 = {
   ],
   issues: [
     '"The yard has gone quiet. The girls stand still by the woodpile and watch" - Leave It Open',
+    "\"hands the bucket off\" - the bucket is in Nala's hands, not Wenna's",
   ],
   lore: [
     "lore/otherwhere-xi-nala",
     "lore/otherwhere-xi-wenna-ashlar",
     "place/otherwhere-xi-ashlar-farm",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T08:49:00.000Z",
 } as const satisfies StoryTurnPlayed
