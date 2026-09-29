@@ -4,10 +4,13 @@ export const otherwhereVi00010 = {
   id: "01a0eaa4-c83f-7cda-a09e-6bd43828aa6a",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vi-00-010",
+  ownLength: 354,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],
   position: 10,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-vi-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I try to find some degree of shelter, even a bush if possible, and then fall asleep, hoping to wake again.",
   beats: [
