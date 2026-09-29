@@ -36,6 +36,7 @@ export const otherwhereX00010 = {
   ],
   lore: [
     "lore/otherwhere-x-aldous-crane",
+    "lore/otherwhere-x-bess-crane",
     "lore/otherwhere-x-language",
     "lore/otherwhere-x-martha-deane",
     "lore/otherwhere-x-nala",
@@ -45,7 +46,10 @@ export const otherwhereX00010 = {
     "lore/otherwhere-x-standing",
     "lore/otherwhere-x-the-wider-world",
     "lore/otherwhere-x-time",
+    "place/otherwhere-x-cranes-byre",
+    "place/otherwhere-x-harrow-lock-up",
     "place/otherwhere-x-the-sheaf",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T19:25:00.000Z",
 } as const satisfies StoryTurnPlayed
