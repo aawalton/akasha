@@ -4,6 +4,7 @@ export const otherwhereVii00009 = {
   id: "01a0eaa6-ece0-7a0e-a49b-7830f575e608",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vii-00-009",
+  cover: "image/image-d4f742e4a2b6f28e",
   ownLength: 300,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vii"],
@@ -15,7 +16,7 @@ export const otherwhereVii00009 = {
     "character-other/otherwhere-vii-gammer-wyn",
     "character-other/otherwhere-vii-tamsin",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "\"Oh. Oh dear. I'm afraid the steward has been cheating you then. For a 10% tithe, he should have taken only seven and a little less than half, not nine. He's taken more than one and a half more than he should have.\"",
   beats: [
@@ -37,6 +38,6 @@ export const otherwhereVii00009 = {
   issues: ['"He stands with the stick in his fist" - Nala holds the stick at the end of turn 8'],
   lore: ["lore/otherwhere-vii-aldo-reeve"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T08:22:00.000Z",
 } as const satisfies StoryTurnPlayed
