@@ -7,7 +7,8 @@ export const otherwhereIv00014 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],
   position: 14,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     '"I will come if you ask, though I fear I may be more hindrance than help. By your description, I think you have your answer. If this boar has reached a size unnatural for its kind, it must have ascended to a different kind. If it is the same boar that killed your brother, all the more reason it must be brought down. However, are there preparations we could make to make the hunt safer? What of poison? If we know where it will forage, could we use that to weaken it? What of a pit trap with sharpened stakes at the bottom? Its weight would surely cause it to fall through a light cover and may make it harder for it to get back out. Could we combine that with fire in the pit and suffocate it in the smoke?"',
+  lore: ["lore/otherwhere-iv-boar-hunt", "place/otherwhere-iv-upstream-woods"],
 } as const satisfies StoryTurnPlayed
