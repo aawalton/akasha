@@ -1,0 +1,87 @@
+import type { Place } from "akasha/story/lore/place/place.page-type.types.ts"
+
+export const overwhereIWendlow = {
+  id: "01a0ed28-95ce-7082-96a8-45cf861af716",
+  type: "page-type/place",
+  slug: "overwhere-i-wendlow",
+  title: "Wendlow",
+  world: "world/hell-hound-evolution-litrpg",
+  facts: [
+    {
+      fact: "Wendlow is a walled market town of about three thousand folk on the river Wend.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "It lies about three days east of Fenwatch by cart, or two long days on foot.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Its grey stone wall has two gates, a watch that shuts them at dusk, and a warning bell.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Travellers pay a gate toll of two copper each, and a copper more for each cart wheel.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Magistrate Odile Varne governs the town and its villages for the margrave.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Violence inside the walls is a crime, and killing there is a hanging matter.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Hunters' Board at Antler Hall posts bounties on monsters and outlaws and pays on proof.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Board-master Grete Holm runs Antler Hall and Analyzes every hunter who asks for a bounty.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The merchants' guild counting-house by the river buys mana crystals, pelts and monster parts.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ivo Tessaly, the guild's factor, sets the price the whole march is paid for crystals.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Barges bring wine and grain up the Wend from the kingdom's heartland.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Market fills the square every fifth day with drovers, pedlars and farm carts.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The shrine-house of the Almighty Above keeps a healer who sells healing potions at three gold.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Bell and Barrel inn by the square charges a silver for a bed and supper.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Unpaid debts in Wendlow pass to the merchants' guild to collect.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The town has lost most of its best hunters to war bounties in the north.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "News of the war with the Iron March reaches Wendlow a month late, with the tax riders.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Board currently offers bounties on Harl Voss's crew and on the Greyfen alpha, Ghost-Eye.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A stranger with no lord, papers or kin would be noticed in Wendlow and asked about.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
+} as const satisfies Place
