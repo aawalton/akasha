@@ -11,4 +11,5 @@ export const otherwhereVii00008 = {
   action:
     "\"Oh! I've seen these, but only in museums. The stick is split so two people can each hold a half, and neither can change it without the marks no longer matching, right? I'm not completely sure what the marks mean on their own, but at a guess, I'd say that's 74, 7 tens for the deep notches and 4 ones for the shallow, and that the nine crossed through are contracts complete?\"",
   lore: ["lore/otherwhere-vii-aldo-reeve"],
+  endsAt: "2026-09-28T08:18:00.000Z",
 } as const satisfies StoryTurnPlayed
