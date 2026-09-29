@@ -40,6 +40,11 @@ export const otherwhereVii00007 = {
     "Some notches are deep, some shallow, and a few are crossed through with a slanted cut.",
     "\"That's last year's barley, by the sack. Anyone can say they reckon. What's it come to?\"",
   ],
+  issues: [
+    '"a few are crossed through" - lore: the stick has 9 crossed notches, grouped last at the thin end',
+    '"here and there one is crossed through" - lore: 9 crossed notches, grouped last at the thin end',
+  ],
   lore: ["lore/otherwhere-vii-aldo-reeve", "place/otherwhere-vii-ashford"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T08:14:00.000Z",
 } as const satisfies StoryTurnPlayed
