@@ -161,6 +161,10 @@ export const otherwhereXiTobinAshlar = {
       ],
     },
     {
+      fact: "Tobin may not leave the flock untended; Smoke can hold it on the hill for an hour or so.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Tobin keeps the flock on the hill till noon.",
       knowers: [
         "lore-disclosure/game-master",

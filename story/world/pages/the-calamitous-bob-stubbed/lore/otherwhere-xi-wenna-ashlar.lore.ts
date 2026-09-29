@@ -73,6 +73,18 @@ export const otherwhereXiWennaAshlar = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "In Wenna's telling, a house that turns away one of Maradoc's strays has its roads go bad.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Wenna would take a barefoot stranger come down from the ring for a stray, and be uneasy.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Wenna's daughters are Pell, nine, and Lissa, six.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Tobin's mother knows all the old tales.",
       knowers: [
         "lore-disclosure/game-master",
