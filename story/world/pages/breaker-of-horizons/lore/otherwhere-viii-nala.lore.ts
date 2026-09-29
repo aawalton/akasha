@@ -42,7 +42,11 @@ export const otherwhereViiiNala = {
     },
     {
       fact: "Her hair is long, heavy and dark red, falling past her shoulder blades.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
     },
     {
       fact: "She wears Alan's loose dark grey shirt, which hangs to her mid-thigh and gapes at the collar.",

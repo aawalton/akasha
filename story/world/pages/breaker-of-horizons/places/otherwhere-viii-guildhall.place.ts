@@ -274,15 +274,27 @@ export const otherwhereViiiGuildhall = {
     },
     {
       fact: "Pedlars of 'secret sequences' and fake artefacts often try to sell to the Institute's master.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
     },
     {
       fact: "A stranger offering Hallick 'knowledge' sounds to him like one of those pedlars at first.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
     },
     {
       fact: "Hallick trusts a thing shown over a thing claimed, and asks for proof in one plain question.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
     },
     {
       fact: "Trained arcanists feel a person's flare at arm's length, as a faint warmth or pressure.",
@@ -290,7 +302,19 @@ export const otherwhereViiiGuildhall = {
     },
     {
       fact: "Within arm's length of Nala, Hallick pauses and studies her longer than any pedlar earns.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
+    },
+    {
+      fact: "The ink-stained man from the Mercer Street bakery hatch says he runs the Institute of Artifice.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
     },
   ],
   secrets: "jsonl",
