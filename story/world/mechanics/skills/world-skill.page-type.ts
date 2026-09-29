@@ -16,6 +16,7 @@ export const worldSkill = {
     "page-type/otherwhere-viii-art",
     "page-type/otherwhere-vi-skill",
     "page-type/otherwhere-x-skill",
+    "page-type/otherwhere-xi-skill",
     "number-property/skill-mana-cost",
     "number-property/skill-duration-minutes",
   ],
