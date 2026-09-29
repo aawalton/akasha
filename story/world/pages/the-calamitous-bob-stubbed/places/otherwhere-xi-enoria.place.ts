@@ -105,6 +105,14 @@ export const otherwhereXiEnoria = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Pleiada blaze drones, white flying beasts that burst in blinding heat, haunt Enoria's woods.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Frilled rocs migrate on set paths; no one builds a village on a roc migration path.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Harrak broke away from Enoria about fifteen years ago; the two are now allies.",
       knowers: ["lore-disclosure/game-master"],
     },
