@@ -16,4 +16,5 @@ export const otherwhereVi00013 = {
     "place/otherwhere-vi-charcoal-camp",
     "place/otherwhere-vi-greypine-weald",
   ],
+  endsAt: "2026-09-29T12:15:00.000Z",
 } as const satisfies StoryTurnPlayed
