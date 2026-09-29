@@ -49,10 +49,6 @@ export const overwhereIvPeoples = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Humans run slime farms, cutting the jelly of blue slimes into jars.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
       fact: "Elves are long-lived, slow to decide, and distrustful of humans.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -221,7 +217,7 @@ export const overwhereIvPeoples = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Trixie is a teasing pixie mage who taught magic and lived on Glimmerock.",
+      fact: "Pixies love teasing and tricks, and a pixie's teaching comes with pranks.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -229,7 +225,7 @@ export const overwhereIvPeoples = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Pegasi, harpies and griffins also dwell on and around the floating isle of Glimmerock.",
+      fact: "Griffins hunt by diving on prey from above; pegasi and harpies also haunt high places.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -253,7 +249,7 @@ export const overwhereIvPeoples = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Spirits command essence; an undine water spirit dwells on Glimmerock.",
+      fact: "Spirits command essence; undines are spirits of water.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -289,7 +285,7 @@ export const overwhereIvPeoples = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Golems are crafted servants; those of Keld farm, guard and keep house.",
+      fact: "Golems are crafted servants that draw Mana from their maker and recharge near him.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
