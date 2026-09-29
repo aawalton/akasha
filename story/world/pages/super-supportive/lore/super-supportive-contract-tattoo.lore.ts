@@ -16,6 +16,10 @@ export const superSupportiveContractTattoo = {
       fact: "Private contracts lack full System oversight and can omit the human protections.",
       knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
     },
+    {
+      fact: "The stronger party empowers the contract and its understanding crushes the weaker's.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
