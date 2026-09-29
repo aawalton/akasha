@@ -42,5 +42,6 @@ export const otherwhereIii00015 = {
   ],
   lore: ["place/super-supportive-artonan-consulate-4"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2037-01-31T09:23:00.000Z",
 } as const satisfies StoryTurnPlayed
