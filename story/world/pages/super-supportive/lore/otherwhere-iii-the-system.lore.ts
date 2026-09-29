@@ -64,6 +64,10 @@ export const otherwhereIiiTheSystem = {
       fact: "It makes no contract of silence by telephone and does not bargain with an unregistered caller.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A claim of passing through chaos makes the System order a chaos screening before anything else.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
