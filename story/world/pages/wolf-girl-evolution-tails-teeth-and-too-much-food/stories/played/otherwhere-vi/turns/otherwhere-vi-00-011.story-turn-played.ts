@@ -10,13 +10,13 @@ export const otherwhereVi00011 = {
   position: 11,
   prose: "txt",
   characters: ["character-player/otherwhere-vi-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     '"Great. The system isn\'t just useless, it also has an attitude. I would have used a roof if there was one!" I shout to the sky. I get up and use the stick to support myself and make my way downstream as best I can, hoping to find help or healing before I die of exposure.',
   beats: [
     "Nala stands in the frost and shouts at the sky that the System is useless and has an attitude.",
     "She tells the sky she would have used a roof if there had been one.",
-    "Her shout goes out over the misted water and comes back off the far slope; nothing answers it.",
+    "Her shout goes out over the misted water and comes back off the far slope.",
     "A grouse bursts up whirring from the bank grass a few paces off, and is gone into the pines.",
     "Letters hang in the air in front of her, small and steady.",
     "【Noted. The forest is unmoved.】",
@@ -37,8 +37,8 @@ export const otherwhereVi00011 = {
     "She comes out onto a wide, slow river running west, all glitter on a gravel shore.",
     "Dry sedge and birch bark stand along the gravel there, and both strip easily in the hand.",
     "At the meeting of the waters stands a low smoking mound, and beside it a turf hut.",
-    "A shaggy brown dog lifts its head at the hut, barks, and looks straight at her.",
-    "A man straightens up from the smoking mound and stands, looking at her.",
+    "A shaggy brown dog lifts its head at the hut, barks, and comes down the gravel at her.",
+    "Behind it a man straightens up from the smoking mound and calls out to her.",
   ],
   issues: [
     '"nothing answers it" - the System answers her shout two beats later',
