@@ -11,4 +11,5 @@ export const otherwhereX00005 = {
   action:
     '"None of these. I am from a place so far away that there are no reeve\'s, no tallies, and the roads are made from liquid stone."',
   lore: ["lore/otherwhere-x-aldous-crane", "place/otherwhere-x-harrow"],
+  endsAt: "2026-09-28T18:41:00.000Z",
 } as const satisfies StoryTurnPlayed
