@@ -20,6 +20,10 @@ export const superSupportiveHistoryWorld = {
       fact: "Unwritten transit etiquette gives seats first to non-Avowed, who wear a non-Avowed tag.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Hero culture is half about the hero part and half about the super part, and is celebrity-driven.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
