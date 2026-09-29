@@ -72,6 +72,23 @@ export const otherwhereViNeeds = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Cold hours never count past eight.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A daylight hour dry and out of the wind counts no cold hour and takes back two.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A daylight hour in full sun, or walking dry by day, takes the cold hours back by three.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An hour that takes cold hours back costs no HP to freezing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Thin clothes dry on the body in four hours out of rain and water; then wet is dropped.",
     },
