@@ -137,8 +137,10 @@
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/species/super-supportive-yumanit.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/species/super-supportive-zansee.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-aberrant.world-species.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-antalis-queen.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-beastlings.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-blight-grub.world-species.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-chewy-leg.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-cornudon.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-dark-scaled-stalker.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-depth-worm.world-species.ts","typed":true,"deferred":false}
@@ -168,8 +170,10 @@
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-remnants.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-revenant.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-rock-bear.world-species.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-rock-crusher.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-rock-mole.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-scalehound.world-species.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-serpent-wolf.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-shadowlanders.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-siege-tarantula.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-snakehound.world-species.ts","typed":true,"deferred":false}
