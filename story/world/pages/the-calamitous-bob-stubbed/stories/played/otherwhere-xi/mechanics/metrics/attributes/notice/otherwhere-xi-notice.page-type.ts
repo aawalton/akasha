@@ -17,7 +17,7 @@ export const otherwhereXiNotice = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Maradoc's page is filed from the first, since he set her down.",
+      statement: "Maradoc's page is filed from her first day, since she woke at his waystone.",
     },
     {
       decisionKind: "decision-kind/departure",
