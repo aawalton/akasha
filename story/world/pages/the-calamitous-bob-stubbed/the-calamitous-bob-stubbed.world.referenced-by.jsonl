@@ -150,6 +150,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-adon.lore.ts","id":"01a0ea75-bc70-7de0-a8b6-23ec9a9393dc"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-aldus.lore.ts","id":"01a0ea77-aa11-7c73-945b-28d7c8b272c7"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-ancient-sarodon.lore.ts","id":"01a0ea78-368b-7e95-a296-f6eb2693046e"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-ant-monster.lore.ts","id":"01a0ea84-e790-7c72-99af-5e5741522c03"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-antalis-queen.lore.ts","id":"01a0ea83-ee79-73a5-9704-6f2fd439bd17"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-aragan.lore.ts","id":"01a0ea75-bc71-7a82-b6db-d8df9a6d665e"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-arana.lore.ts","id":"01a0ea77-aa11-7080-b844-532a065edea5"}
@@ -207,7 +208,9 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-dark-gods.lore.ts","id":"01a0ea7e-e16d-7179-9e7c-a4e7ee077e3e"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-dark-scaled-stalker.lore.ts","id":"01a0ea83-059e-7ad0-8036-ba014fed328a"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-darla.lore.ts","id":"01a0ea7c-0781-73cb-8176-cd158ae47faa"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-death-eel.lore.ts","id":"01a0ea84-e791-715e-938e-7a075728c8b3"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-death-rites.lore.ts","id":"01a0ea84-11c7-7fbb-96d7-c4439a92adce"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-deepgrass-snake.lore.ts","id":"01a0ea84-e791-7d4f-b67e-5387106f238b"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-denerim.lore.ts","id":"01a0ea7c-0781-761c-ab30-ad4ec7bee4b5"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-deos.lore.ts","id":"01a0ea7c-0781-722d-a3ff-e1546f49bd8d"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-depth-worm.lore.ts","id":"01a0ea7e-5eaa-7ac2-ac60-a53f40bb6e54"}
@@ -251,6 +254,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-ezus-the-elder.lore.ts","id":"01a0ea81-c5cd-7948-b6a6-0055f1628ff6"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-faceless-order.lore.ts","id":"01a0ea84-a812-746f-87f0-cc35f04d3268"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-falstag.lore.ts","id":"01a0ea82-c1aa-7aa1-8221-01360ad214e1"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-fang-boar.lore.ts","id":"01a0ea84-e791-7e0e-968b-d929a46fe17a"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-fantos-exile.lore.ts","id":"01a0ea82-c1aa-7ea2-8c92-be929ad31028"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-farren.lore.ts","id":"01a0ea82-c1aa-705b-84bd-30d524ec50d6"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-farvale-snake.lore.ts","id":"01a0ea82-747d-728b-a334-ee7f7c026a2e"}
@@ -355,6 +359,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-pure-league.lore.ts","id":"01a0ea80-af48-7e7a-986e-d5a7a84916d8"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-radus.lore.ts","id":"01a0ea7f-3b3d-7ee9-839f-a2beea46dccd"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-rakan.lore.ts","id":"01a0ea79-e917-75ca-85c3-af97a53a38d4"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-rathclaw.lore.ts","id":"01a0ea84-e791-7103-8b54-b0444f64dbcb"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-red-mana.lore.ts","id":"01a0ea7e-5869-7071-8788-7cd1078831e2"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-red-tribe.lore.ts","id":"01a0ea81-c316-72b7-9a89-503394cba483"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-remnants.lore.ts","id":"01a0ea7c-d005-73f7-a2d6-f6edac3fd1c8"}
@@ -478,16 +483,20 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/religions/otherwhere-xi-temple-of-neriad.world-religion.ts","id":"01a0ea7f-9219-7395-a6e6-304bf5b17d10"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/skills/otherwhere-xi-inspection.world-skill.ts","id":"01a0ea7a-bf9e-7897-bb3b-ca0a6ad38748"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-aberrant.world-species.ts","id":"01a0ea7d-96d0-7066-b5c5-7bad31fdc8dc"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-ant-monster.world-species.ts","id":"01a0ea84-e791-77f2-8e72-c9fdaa382e3e"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-antalis-queen.world-species.ts","id":"01a0ea83-ee7c-7bbe-b3b8-8e948e7d6b3e"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-beastlings.world-species.ts","id":"01a0ea79-2036-7b11-991f-b246c2f7edb2"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-blight-grub.world-species.ts","id":"01a0ea83-059f-7c15-a2ca-2dd221219a17"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-chewy-leg.world-species.ts","id":"01a0ea83-ee7c-7018-86ec-b8ce1e21aa17"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-cornudon.world-species.ts","id":"01a0ea80-a39d-7253-9ff2-a0a18b9c79fc"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-dark-scaled-stalker.world-species.ts","id":"01a0ea83-059f-71ef-9377-2dcd4bdad56e"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-death-eel.world-species.ts","id":"01a0ea84-e792-781c-b5b2-19f7ed155cbc"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-deepgrass-snake.world-species.ts","id":"01a0ea84-e792-744b-8bf0-0ba0487bd07f"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-depth-worm.world-species.ts","id":"01a0ea7d-96d1-7455-be8f-6f190a92fb83"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-dragons.world-species.ts","id":"01a0ea79-2036-7299-92cd-4568fc8e89a7"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-easterners.world-species.ts","id":"01a0ea7a-4e3f-711a-a2e2-5abebfda1a4c"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-elementals.world-species.ts","id":"01a0ea79-2036-7b7e-99c3-bb4eb5611b8d"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-fang-boar.world-species.ts","id":"01a0ea84-e792-753e-8fdc-c3772a7469dc"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-farvale-snake.world-species.ts","id":"01a0ea82-747f-7472-a50b-3bbe9d55123b"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-fire-wasp.world-species.ts","id":"01a0ea81-9844-7591-8a68-1c8dca076843"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-flesh-walker.world-species.ts","id":"01a0ea7d-96d1-7648-a50a-28144bc1c8ac"}
@@ -508,6 +517,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-noxite.world-species.ts","id":"01a0ea7e-e8d0-7f6f-ae95-8569761855f5"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-pakar.world-species.ts","id":"01a0ea80-a39e-7a3d-b289-634c1437b502"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-paramese.world-species.ts","id":"01a0ea7a-4e44-7d65-8ed7-393f2055c6f6"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-rathclaw.world-species.ts","id":"01a0ea84-e792-7712-a33b-b5c88b1ab636"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-remnants.world-species.ts","id":"01a0ea7a-4e44-7b76-b7c5-3fe3be349f3e"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-revenant.world-species.ts","id":"01a0ea7d-96d2-741b-933b-ed796db9ea56"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-rock-bear.world-species.ts","id":"01a0ea82-7480-7cbf-9408-b9f6a6aad762"}
