@@ -47,6 +47,6 @@ export const otherwhereIx00010 = {
     "lore/otherwhere-ix-status",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-28T15:43:00.000Z",
 } as const satisfies StoryTurnPlayed
