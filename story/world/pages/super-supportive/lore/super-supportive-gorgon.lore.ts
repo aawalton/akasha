@@ -45,6 +45,10 @@ export const superSupportiveGorgon = {
       fact: "He can reach all public areas of the consulate but has no room of his own.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "He can smell attraction and pity on humans.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
