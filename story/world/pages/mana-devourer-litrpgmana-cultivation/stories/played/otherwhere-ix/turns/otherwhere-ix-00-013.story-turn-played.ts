@@ -4,10 +4,13 @@ export const otherwhereIx00013 = {
   id: "01a0eb29-99be-72ee-a56e-f56c50899566",
   type: "page-type/story-turn-played",
   slug: "otherwhere-ix-00-013",
+  ownLength: 237,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],
   position: 13,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-ix-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I check the quills of the beast I killed, to see if I can use them as weapons more safely than the grass.",
   beats: [
@@ -27,6 +30,6 @@ export const otherwhereIx00013 = {
     "Something low and broad is coming through it, straight toward the kill, at a lumbering walk.",
     "Its back rises above the grass, bristling pale, and it is bigger than the one at her knees.",
   ],
-  lore: ["lore/otherwhere-ix-shardback"],
+  lore: ["lore/otherwhere-ix-nala", "lore/otherwhere-ix-shardback"],
   endsAt: "2026-09-28T15:55:00.000Z",
 } as const satisfies StoryTurnPlayed
