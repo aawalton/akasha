@@ -4,13 +4,14 @@ export const otherwhereViii00012 = {
   id: "01a0eb28-cc7f-7829-b15c-1c51d321a8ee",
   type: "page-type/story-turn-played",
   slug: "otherwhere-viii-00-012",
+  cover: "image/image-a11a73058b2ac0d1",
   ownLength: 285,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-viii"],
   position: 12,
   prose: "txt",
   characters: ["character-player/otherwhere-viii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I take off the coat and pull out a shirt from the crate and put it on, despite the size, then lie down on the bed and try to take a nap until I hear the work below stop, signalling that it is time for me to learn.",
   beats: [
@@ -34,6 +35,6 @@ export const otherwhereViii00012 = {
   ],
   lore: ["lore/otherwhere-viii-nala", "place/otherwhere-viii-the-workshop-room"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T08:05:00.000Z",
 } as const satisfies StoryTurnPlayed
