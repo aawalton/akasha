@@ -152,6 +152,14 @@ export const otherwhereIxGlassgrassFlats = {
       fact: "Nala stumbled and looked down; the rattle stopped and the beast rushed silently at her ankles.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
+    {
+      fact: "Bloodmoss grows grey on tinleaf roots; chewed to a paste and packed in, it thickens blood.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Bloodmoss is dry and brittle in this season, and easily mistaken for grey bark.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

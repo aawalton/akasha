@@ -32,5 +32,9 @@ export const otherwhereIxTinleafSeep = {
       fact: "Hollowmanes drink at the seep after dark.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Bloodmoss grows on the shaded roots of the three tinleaf.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
