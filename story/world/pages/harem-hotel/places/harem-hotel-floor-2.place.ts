@@ -53,7 +53,11 @@ export const haremHotelFloor2 = {
     },
     {
       fact: "The bath mistress wears nothing but thin gold chains at her waist and throat.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-odile",
+      ],
     },
     {
       fact: "The bath attendant wears a thin white shift that the steam soaks through.",
