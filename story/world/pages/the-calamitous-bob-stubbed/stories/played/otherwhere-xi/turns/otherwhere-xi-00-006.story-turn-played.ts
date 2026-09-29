@@ -40,5 +40,6 @@ export const otherwhereXi00006 = {
     '"Which are you?"',
   ],
   lore: ["lore/otherwhere-xi-wenna-ashlar", "place/otherwhere-xi-waystone-shrine"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T07:31:00.000Z",
 } as const satisfies StoryTurnPlayed
