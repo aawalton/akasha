@@ -123,6 +123,10 @@ export const superSupportiveArtonanConsulate4 = {
         "character-other/super-supportive-gorgon",
       ],
     },
+    {
+      fact: "On a Saturday that supervisor is on call, and can reach the lobby within the hour.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   within: "place/otherwhere-iii-chicago",
   secrets: "jsonl",
