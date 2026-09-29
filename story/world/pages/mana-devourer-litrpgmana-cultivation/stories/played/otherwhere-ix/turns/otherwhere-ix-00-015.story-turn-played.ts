@@ -10,13 +10,15 @@ export const otherwhereIx00015 = {
   position: 15,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I take it to the ground and wrestle it back, trying to get at its belly with the blades.",
   beats: [
     "Nala lets herself go over and throws her weight down onto the beast as she falls.",
     "She grabs for its flanks, trying to heave it over and get at its belly.",
     "The short quills along its sides snap off into her palms as her fingers close.",
+    "Her one whole quill stays clenched in her left fist by its blunt root.",
+    "The other three lie where she laid them out, in the grass beside the kill.",
     "It does not shift. Its legs are braced wide, and it is far stronger than she is.",
     "It is like trying to roll a stone; she heaves, and it stays where it is.",
     "It wrenches its head sideways, and her own weight drags against its jaws on her ankle.",
