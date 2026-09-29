@@ -4,13 +4,14 @@ export const otherwhereXi00003 = {
   id: "01a0ea8e-98b6-7413-8941-574b9800f3f1",
   type: "page-type/story-turn-played",
   slug: "otherwhere-xi-00-003",
+  cover: "image/image-495e51d7339ea0a6",
   ownLength: 249,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-xi"],
   position: 3,
   prose: "txt",
   characters: ["character-player/otherwhere-xi-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: '"Excuse me sir, what are those stones behind me?"',
   beats: [
     'Nala asks the boy, "Excuse me sir, what are those stones behind me?"',
@@ -33,6 +34,6 @@ export const otherwhereXi00003 = {
   ],
   lore: ["place/otherwhere-xi-waystone-shrine"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T06:25:00.000Z",
 } as const satisfies StoryTurnPlayed
