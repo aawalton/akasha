@@ -69,6 +69,14 @@ export const haremHotelWren = {
         "character-other/harem-hotel-wren",
       ],
     },
+    {
+      fact: "On floor 2 Wren gives Odile orders, and pays her back for floor 1 with them.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-odile",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
