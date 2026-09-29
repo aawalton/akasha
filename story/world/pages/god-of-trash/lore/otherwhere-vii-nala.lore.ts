@@ -146,6 +146,26 @@ export const otherwhereViiNala = {
         "character-other/otherwhere-vii-aldo-reeve",
       ],
     },
+    {
+      fact: "Reading Aldo's tally, Nala said she had seen such sticks before, but only in museums.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-other/otherwhere-vii-gammer-wyn",
+        "character-other/otherwhere-vii-tamsin",
+      ],
+    },
+    {
+      fact: "Nala read last year's barley tally aloud as seventy-four sacks, before Aldo, Wyn and Tamsin.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-other/otherwhere-vii-gammer-wyn",
+        "character-other/otherwhere-vii-tamsin",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

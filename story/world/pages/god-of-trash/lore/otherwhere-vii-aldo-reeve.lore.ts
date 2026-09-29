@@ -74,6 +74,8 @@ export const otherwhereViiAldoReeve = {
         "lore-disclosure/game-master",
         "character-other/otherwhere-vii-aldo-reeve",
         "character-other/otherwhere-vii-gammer-wyn",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-tamsin",
       ],
     },
     {
@@ -82,6 +84,8 @@ export const otherwhereViiAldoReeve = {
         "lore-disclosure/game-master",
         "character-other/otherwhere-vii-aldo-reeve",
         "character-other/otherwhere-vii-gammer-wyn",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-tamsin",
       ],
     },
     {
@@ -90,6 +94,8 @@ export const otherwhereViiAldoReeve = {
         "lore-disclosure/game-master",
         "character-other/otherwhere-vii-aldo-reeve",
         "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-gammer-wyn",
+        "character-other/otherwhere-vii-tamsin",
       ],
     },
     {
@@ -98,7 +104,7 @@ export const otherwhereViiAldoReeve = {
     },
     {
       fact: "A tenth of 74 sacks is 7 and a half; the steward's 9 is a sack and a half too many.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
     },
     {
       fact: "Aldo has never set the crossed notches against the tenth; he can't reckon a tenth of 74.",
@@ -106,11 +112,23 @@ export const otherwhereViiAldoReeve = {
     },
     {
       fact: "Each tithe tally is split: Aldo keeps one half, the steward the other, notched together.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-gammer-wyn",
+        "character-other/otherwhere-vii-tamsin",
+      ],
     },
     {
       fact: "The steward crosses a notch on both halves for every sack he carts off as the school's tenth.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-gammer-wyn",
+        "character-other/otherwhere-vii-tamsin",
+      ],
     },
     {
       fact: "The steward said his scale found Ashford's sacks light, so nine sacks made the tenth; Aldo agreed.",
@@ -216,6 +234,16 @@ export const otherwhereViiAldoReeve = {
         "lore-disclosure/game-master",
         "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-aldo-reeve",
+      ],
+    },
+    {
+      fact: "Last year's barley stick counts seventy-four sacks threshed, nine of them taken as tithe.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-other/otherwhere-vii-gammer-wyn",
+        "character-other/otherwhere-vii-tamsin",
       ],
     },
   ],

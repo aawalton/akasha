@@ -41,6 +41,6 @@ export const otherwhereVii00008 = {
   ],
   lore: ["lore/otherwhere-vii-aldo-reeve"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/picture"],
+  recordedBy: ["story-recorder/picture", "story-recorder/memory"],
   endsAt: "2026-09-28T08:18:00.000Z",
 } as const satisfies StoryTurnPlayed
