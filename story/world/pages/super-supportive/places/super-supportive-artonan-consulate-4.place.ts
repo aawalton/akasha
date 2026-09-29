@@ -79,6 +79,10 @@ export const superSupportiveArtonanConsulate4 = {
       fact: "Crickets chirp in the lobby plants, and tourists photograph the one behind the front desk.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
+    {
+      fact: "The lobby cameras record pictures but no sound, and Gorgon watches their monitors himself.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   within: "place/otherwhere-iii-chicago",
   secrets: "jsonl",
