@@ -32,6 +32,16 @@ import {
   type Told,
   type Turn,
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
+import {
+  addedElsewhere,
+  askingOf,
+  type Restored,
+  restoredReport,
+  TURN_UNDOING,
+  type TurnUndoing,
+  type Undone,
+  undoingOf,
+} from "akasha/command/pages/story/turn/modules/turn-undoing/turn-undoing.module.code.ts"
 import { storyTurnRewind as page } from "akasha/command/pages/story/turn/rewind/story-turn-rewind.command.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -41,6 +51,7 @@ import {
   bareOf,
   LONGEST_ACTION,
   latestOf,
+  PLAYER,
   statusOf,
   WORLD_BUILDER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
@@ -73,6 +84,10 @@ const STOPPED: readonly string[] = [reviewerRole.slug, storyRecorderRole.slug]
 type Taken = { readonly turn: string; readonly action: string | null }
 
 type Refusal = { readonly refused: readonly string[] }
+
+export type Unwinding = Rewinding & TurnUndoing
+
+const UNWOUND: Unwinding = { ...REWOUND, ...TURN_UNDOING }
 
 export function taken(argv: readonly string[], calledAs: string, root: string): Taken | Refusal {
   const read = takenFor(argv, calledAs, page, NAMED)
@@ -126,8 +141,6 @@ export function besideTurn(reach: Rewinding, root: string, turn: Turn): readonly
     (one): one is string => one !== null && reach.present(root, one)
   )
 }
-
-type Undone = { readonly namings: readonly Naming[]; readonly report: readonly string[] }
 
 async function addedIn(
   reach: Rewinding,
@@ -209,12 +222,33 @@ export function seatsStopped(reach: Rewinding, root: string, game: string, after
   }
 }
 
+type Unmade = { readonly restored: readonly Restored[]; readonly undone: Undone }
+
+async function unmadeOf(
+  reach: Unwinding,
+  root: string,
+  turn: Turn,
+  held: { readonly game: string; readonly status: string },
+  gone: readonly string[]
+): Promise<Unmade | { readonly refused: string }> {
+  const folders = reach.foldersOf(root, held.game)
+  if (folders === null) return { refused: `\`${held.game}\` names no world here` }
+  const undoing = undoingOf(reach, root, turn, folders, held.status === PLAYER)
+  if ("refused" in undoing) return undoing
+  const restored = undoing.restored.filter(
+    (one) => one.path !== turn.at && !gone.includes(one.path)
+  )
+  const outcomes = await undoneOf(reach, root, turn, gone)
+  if ("refused" in outcomes) return outcomes
+  return { restored, undone: addedElsewhere(outcomes, restored) }
+}
+
 async function rewoundOn(
   done: string[],
   argv: readonly string[],
   given: Given,
   landing: Landing,
-  reach: Rewinding
+  reach: Unwinding
 ): Promise<Answer> {
   const read = taken(argv, given.calledAs, given.root)
   if ("refused" in read) return refusedBy(read.refused, INPUT)
@@ -234,25 +268,26 @@ async function rewoundOn(
   }
   const values = rewound(turn, action)
   const gone = besideTurn(reach, given.root, turn)
-  const undone = await undoneOf(reach, given.root, turn, gone)
-  if ("refused" in undone) return refused(undone.refused, DATA)
-  if (!alreadyRewound(turn, values, gone)) {
+  const unmade = await unmadeOf(reach, given.root, turn, held, gone)
+  if ("refused" in unmade) return refused(unmade.refused, DATA)
+  const { restored, undone } = unmade
+  if (!alreadyRewound(turn, values, gone) || restored.length > 0) {
     const naming: Naming = { pageTypeSlug: storyTurnPlayed.slug, slug, path: turn.at, values }
-    const asking: Asking[] = []
-    for (const one of [naming, ...undone.namings]) {
-      const folded = reach.fold(given.root, one)
-      if ("refused" in folded) return refused(folded.refused, DATA)
-      asking.push(...folded)
-    }
+    const folded = reach.fold(given.root, naming)
+    if ("refused" in folded) return refused(folded.refused, DATA)
+    const asking = askingOf(reach, given.root, restored, undone)
+    if ("refused" in asking) return refused(asking.refused, DATA)
     const message = `${slug} is rewound from ${held.status} to ${WORLD_BUILDER}`
     const by = { agentId: given.agentId, writer: given.writer, done }
-    const landed = await landing(given.root, [...asking, ...gone.map(taking)], message, by)
+    const all: Asking[] = [...folded, ...asking, ...gone.map(taking)]
+    const landed = await landing(given.root, all, message, by)
     if ("refusals" in landed) return keeping(done, refusedBy([...landed.refusals], DATA))
   }
   const after: Told = {
     report: [
       `${slug}\t${held.status}\t${WORLD_BUILDER}`,
       ...gone.map((one) => `removed\t${one}`),
+      ...restoredReport(restored),
       ...undone.report,
     ],
     faults: [],
@@ -269,7 +304,7 @@ export async function storyTurnRewind(
   argv: readonly string[],
   given: Given,
   landing: Landing = runMechanicalChange,
-  reach: Rewinding = REWOUND
+  reach: Unwinding = UNWOUND
 ): Promise<Answer> {
   return await answering(async (done) => await rewoundOn(done, argv, given, landing, reach))
 }

@@ -4,8 +4,8 @@ import {
   SEATS,
   type Seen,
 } from "akasha/command/pages/story/turn/cancel/story-turn-cancel.command.test-fixtures.ts"
+import type { Commit } from "akasha/command/pages/story/turn/modules/turn-commits/turn-commits.module.code.ts"
 import type { Turn } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
-import type { Commit } from "akasha/command/pages/story/turn/take-back/modules/turn-commits/turn-commits.module.code.ts"
 import type { TakingBack } from "akasha/command/pages/story/turn/take-back/story-turn-take-back.command.code.ts"
 import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
 import type { TurnStep } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
@@ -97,10 +97,50 @@ export function turnAt(status: TurnStep = "player"): Turn {
   }
 }
 
+const HALL_KNOWN = 'facts: ["The hall is cold."], knowers: []\n'
+
+const HALL_RECORDED =
+  'facts: ["The hall is cold.", "Mara hid the key under the hearth."], knowers: ["character-player/mara"]\n'
+
+const GATE_RECORDED = "the gate, open since Mara passed\n"
+
+export const RECORDED_BEFORE: Readonly<Record<string, string>> = {
+  [HALL_AT]: HALL_KNOWN,
+  [GATE_AT]: "the gate, shut\n",
+}
+
+export const RECORDED_NOW: Readonly<Record<string, string>> = {
+  [AT]: "the turn\n",
+  [PROSE_AT]: "the prose\n",
+  [OUTCOMES_AT]: "",
+  [HALL_AT]: HALL_RECORDED,
+  [GATE_AT]: GATE_RECORDED,
+}
+
+export const RECORDED_RUN: readonly Commit[] = [
+  { commit: MOVED, subject: MOVED_SAID, paths: [AT] },
+  {
+    commit: "c8",
+    subject: `${SLUG} moves from recorders to recorders`,
+    paths: [AT, HALL_AT, GATE_AT],
+  },
+  { commit: "c5", subject: `${SLUG} moves from writer to reviewers`, paths: [AT, PROSE_AT] },
+  { commit: MADE, subject: MADE_SAID, paths: [AT] },
+]
+
+export const RECORDED: Story = {
+  run: RECORDED_RUN,
+  now: RECORDED_NOW,
+  ended: RECORDED_NOW,
+  before: RECORDED_BEFORE,
+}
+
 export type Story = {
   readonly latest?: string
   readonly run?: readonly Commit[]
   readonly now?: Readonly<Record<string, string>>
+  readonly ended?: Readonly<Record<string, string>>
+  readonly before?: Readonly<Record<string, string>>
   readonly outcomes?: string
   readonly drafts?: string[]
   readonly draftRefused?: string
@@ -179,8 +219,9 @@ export function reachOver(turn: Turn, into: Seen, story: Story = {}): TakingBack
     foldersOf: () => ({ story: STORY, world: WORLD }),
     commitsOn: (_root, range) => (range === "HEAD" ? HISTORY : (story.run ?? RUN)),
     bodyThen: (_root, commit, path) => {
-      if (commit === `${MADE}^`) return BEFORE[path] ?? null
-      return commit === MOVED ? (NOW[path] ?? null) : null
+      if (commit === `${MADE}^`) return (story.before ?? BEFORE)[path] ?? null
+      const ended = commit === MOVED || commit === "HEAD"
+      return ended ? ((story.ended ?? NOW)[path] ?? null) : null
     },
     bodyNow: (_root, path) => now[path] ?? null,
     besideOnDisk: () => [AT, PROSE_AT, OUTCOMES_AT],
