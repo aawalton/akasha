@@ -4,6 +4,7 @@ export const otherwhereIii00025 = {
   id: "01a0eb5e-7ef7-79ad-b689-ca67e51b52ae",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-025",
+  cover: "image/image-1c327b876a9eb11e",
   ownLength: 209,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
@@ -14,7 +15,7 @@ export const otherwhereIii00025 = {
     "character-other/super-supportive-gorgon",
     "character-other/otherwhere-iii-onn-desveth",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“I will exercise my right. I would request Esh-erdi as my trusted witness. He should be on Earth soon to celebrate his inesvul if he isn’t here already. As I am new to this world, he is the only one I would trust.”",
   beats: [
@@ -37,6 +38,6 @@ export const otherwhereIii00025 = {
     "lore/super-supportive-gorgon",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2037-01-31T10:48:00.000Z",
 } as const satisfies StoryTurnPlayed
