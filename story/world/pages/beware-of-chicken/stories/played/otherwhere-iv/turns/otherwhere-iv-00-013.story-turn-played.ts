@@ -46,6 +46,6 @@ export const otherwhereIv00013 = {
   ],
   lore: ["lore/otherwhere-iv-boar-hunt", "place/otherwhere-iv-upstream-woods"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-28T19:34:00.000Z",
 } as const satisfies StoryTurnPlayed
