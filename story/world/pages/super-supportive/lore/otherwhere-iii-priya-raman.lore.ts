@@ -69,6 +69,10 @@ export const otherwhereIiiPriyaRaman = {
         "character-other/otherwhere-iii-denise-pruitt",
       ],
     },
+    {
+      fact: "Priya calls Harbor House from her phone and reserves Nala a bed in her name.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
