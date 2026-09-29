@@ -27,6 +27,11 @@ export const otherwhereViii00005 = {
     "Then he nods once, takes up his stick, and goes back along the path toward the benches.",
     "Nala stands at the park gate under the iron letters, Weir Street running uphill before her.",
   ],
+  issues: [
+    '"You stand at the park gate under the iron letters" - Leave It Open',
+    '"with Weir Street running uphill before you" - No Prompt',
+  ],
   lore: ["place/otherwhere-viii-weir-gardens"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T06:00:00.000Z",
 } as const satisfies StoryTurnPlayed
