@@ -85,6 +85,10 @@ export const superSupportiveGorgon = {
       fact: "Hearing his people named, he goes still; his bindings let him say neither yes nor no.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "He may hear anything she tells him of Artonans or his kind, but may confirm none of it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
