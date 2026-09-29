@@ -4,10 +4,13 @@ export const otherwhereIv00012 = {
   id: "01a0eaa4-0862-7a0e-b803-b8ca07e1e46f",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-012",
+  ownLength: 444,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],
   position: 12,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-iv-nala", "character-other/otherwhere-iv-zhao-jun"],
+  stepStatus: "step-status/reviewers",
   action:
     "\"You two look like just kind of strong lads who would do well on a hunt, but I'm afraid that's not up to me. You'll need to talk with Headman Gu and Zhao Jun about that. I have great knowledge, but when it comes to the hunt itself, Headman Gu is more mighty than I.\"",
   beats: [
