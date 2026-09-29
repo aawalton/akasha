@@ -13,6 +13,18 @@ export const otherwhereViiiTheInstitute = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The side door carries a small sequence that lights the workshop lamps as it opens.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The halls, stairs and office above stay dark until someone lights them by hand.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "So on a dark morning the workshop is the one lit room in the Institute.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The lowest storey holds the workshop; the one above holds two teaching halls.",
       knowers: ["lore-disclosure/game-master"],
     },
