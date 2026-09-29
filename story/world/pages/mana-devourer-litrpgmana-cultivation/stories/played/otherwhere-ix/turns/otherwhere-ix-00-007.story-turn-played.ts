@@ -7,7 +7,8 @@ export const otherwhereIx00007 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],
   position: 7,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "\"Firrelia System, if you have a unique trait waiting for me, now is the time, otherwise you'll have lost your chance.\" I grab at the glass and try to stab it into the beast's throat.",
+  lore: ["lore/otherwhere-ix-shardback", "lore/otherwhere-ix-nala"],
 } as const satisfies StoryTurnPlayed
