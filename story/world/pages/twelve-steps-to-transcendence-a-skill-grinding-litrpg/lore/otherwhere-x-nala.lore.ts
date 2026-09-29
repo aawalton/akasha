@@ -97,6 +97,15 @@ export const otherwhereXNala = {
         "world-character/otherwhere-x-aldous-crane",
       ],
     },
+    {
+      fact: "Nala told the Sheaf she is from far away, fluent in a few tongues and understanding several more.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-martha-deane",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

@@ -78,7 +78,12 @@ export const otherwhereXAldousCrane = {
     },
     {
       fact: "Aldous will not let an alehouse try a stranger; he takes her out of the room before it turns.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-martha-deane",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
     },
     {
       fact: "A stranger who says she knows many tongues is, to Aldous, one for the soldiers and their tablet.",
@@ -150,6 +155,14 @@ export const otherwhereXAldousCrane = {
     },
     {
       fact: "Aldous stood by the Sheaf's door through Nala's songs, his face gone still as at her name.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
+    },
+    {
+      fact: "Aldous told Nala low to come out of the Sheaf with him, say no more there, and bring her coppers.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-x-nala",

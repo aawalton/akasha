@@ -78,7 +78,12 @@ export const otherwhereXMarthaDeane = {
     },
     {
       fact: "Once her room turns uneasy, Martha settles it by giving the stranger to the reeve for the night.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-martha-deane",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
     },
     {
       fact: "A stranger handed to the reeve loses the Sheaf's loft for that night; Martha can't have both.",
