@@ -95,6 +95,26 @@ export const otherwhereViiiScholarship = {
       fact: "Guildhall gossip travels fast; what is said at a hatch is known at the Spire by noon.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Aiestans keep their measurements as tables of numbers, column beside column.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "They do not set one measured thing against another, so no rule ever shows as a shape.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Naming two measures as axes, and reading a rule off the curve between them, is new here.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The curve Nala drew for the lens table dips toward both axes and never touches them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "So an Aiestan table gives answers one at a time, and a drawn rule gives every answer at once.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
