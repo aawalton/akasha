@@ -63,6 +63,19 @@ export const otherwhereViNeeds = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Wet clothes wrung out hard, or shed under dry cover, no longer count cold hours twice.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An hour of hard walking or work counts no cold hour, but costs four SP.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Freezing slows the mind and numbs the hands, and each is one band harder.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Running stream water is safe; bog and still pond water bring a flux.",
     },
     {
