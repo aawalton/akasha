@@ -40,6 +40,7 @@ export const superSupportiveGorgon = {
       fact: "His voice is high-pitched, with an undertone like breaking glass.",
       knowers: ["lore-disclosure/game-master"],
     },
+    { fact: "His laugh is a repetitive hissing.", knowers: ["lore-disclosure/game-master"] },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
