@@ -52,5 +52,9 @@ export const overwhereIiMiriamGale = {
       fact: "Harker took her notebook of recipes, her poisons and her silver.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Her notebook holds remedies made from Aberrant parts, such as coralsnout scale poultice.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
