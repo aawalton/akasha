@@ -11,4 +11,5 @@ export const otherwhereViii00012 = {
   action:
     "I take off the coat and pull out a shirt from the crate and put it on, despite the size, then lie down on the bed and try to take a nap until I hear the work below stop, signalling that it is time for me to learn.",
   lore: ["place/otherwhere-viii-the-workshop-room"],
+  endsAt: "2026-09-28T08:05:00.000Z",
 } as const satisfies StoryTurnPlayed
