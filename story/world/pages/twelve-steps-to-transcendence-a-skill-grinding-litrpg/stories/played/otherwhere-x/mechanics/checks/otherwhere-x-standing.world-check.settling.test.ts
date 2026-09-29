@@ -1,10 +1,11 @@
 import { expect, test } from "bun:test"
+import { otherwhereXMarthaDeane } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/characters/otherwhere-x-martha-deane.world-character.ts"
 import {
   added,
   settled,
 } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/checks/otherwhere-x-standing.world-check.settling.code.ts"
 
-const MARTHA = { character: "otherwhere-x-martha-deane" }
+const MARTHA = { character: otherwhereXMarthaDeane.slug }
 
 const NOTHING = { word: 0, respect: 0, aid: 0, fairness: 0, honesty: 0, wrongs: 0 }
 
@@ -58,6 +59,6 @@ test("a score above nought with no reason is refused", () => {
 test("the change is added to the relationship's points", () => {
   const reading = { ...MARTHA, points: 0, ...NOTHING, word: 1, why: { word: "came back" } }
   expect(added(reading, { change: 1, points: 1, stance: "wary" })).toEqual([
-    { page: "world-relationship/otherwhere-x-martha-deane", key: "relationshipPoints", by: 1 },
+    { page: `world-relationship/${otherwhereXMarthaDeane.slug}`, key: "relationshipPoints", by: 1 },
   ])
 })

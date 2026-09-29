@@ -5,7 +5,7 @@ export const otherwhereXNala = {
   type: "page-type/otherwhere-x-purse",
   slug: "otherwhere-x-nala",
   character: "character-player/otherwhere-x-nala",
-  value: 0,
+  value: 3,
   minValue: 0,
   history: "jsonl",
 } as const satisfies OtherwhereXPurse
