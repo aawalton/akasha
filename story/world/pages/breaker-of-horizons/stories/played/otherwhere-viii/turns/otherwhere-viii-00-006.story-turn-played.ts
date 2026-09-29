@@ -45,5 +45,6 @@ export const otherwhereViii00006 = {
     "The sun is up now; the street is empty but for the bakery smell, and nobody is at the gate.",
   ],
   lore: ["place/otherwhere-viii-guildhall", "lore/otherwhere-viii-aiesta"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T06:35:00.000Z",
 } as const satisfies StoryTurnPlayed
