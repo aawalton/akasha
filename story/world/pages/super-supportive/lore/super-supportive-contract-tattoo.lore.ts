@@ -36,6 +36,10 @@ export const superSupportiveContractTattoo = {
       fact: "A secrecy contract can also forbid deliberately making someone suspicious of the secret.",
       knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
     },
+    {
+      fact: "An honest contractor lets you bring trusted listeners, allows time, and may call a tattooist.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
