@@ -4,10 +4,18 @@ export const otherwhereVii00007 = {
   id: "01a0ea88-705e-731e-827e-4ccc7790fe5e",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vii-00-007",
+  ownLength: 383,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vii"],
   position: 7,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/otherwhere-vii-nala",
+    "character-other/otherwhere-vii-aldo-reeve",
+    "character-other/otherwhere-vii-gammer-wyn",
+    "character-other/otherwhere-vii-tamsin",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "\"My father was a scribe. I've mostly worked with my wits and not my muscles. I can read, write, and do sums, but not sure that's needed here.\"",
   beats: [
