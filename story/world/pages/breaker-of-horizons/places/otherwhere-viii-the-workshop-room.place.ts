@@ -72,6 +72,30 @@ export const otherwhereViiiTheWorkshopRoom = {
       fact: "The washroom tap is a bare spout, with a mark set into the wall above it.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
+    {
+      fact: "From eight the workshop below is loud: grinding wheels, files, hammers and talk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The grinding wheels whine through the boards, loud enough to wake a light sleeper.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The workshop stops for a half-hour lunch at noon, and falls quiet at four.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A new bench hand missing at eight is fetched by the nearest apprentice, not left to sleep.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hallick counts a bench hand's day from when the hand comes down, and pays only for those hours.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The straw mattress is lumpy but dry, and smells faintly of the journeyman's pipe.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
