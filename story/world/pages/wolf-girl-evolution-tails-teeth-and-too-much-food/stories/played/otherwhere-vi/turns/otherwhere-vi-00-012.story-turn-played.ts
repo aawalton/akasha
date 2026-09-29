@@ -11,7 +11,7 @@ export const otherwhereVi00012 = {
   position: 12,
   prose: "txt",
   characters: ["character-player/otherwhere-vi-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "\"Hello! I've been lost in the woods for a night and a day, would you grant me a traveler's hospitality?\"",
   beats: [
@@ -41,6 +41,6 @@ export const otherwhereVi00012 = {
     "place/otherwhere-vi-charcoal-camp",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/picture", "story-recorder/memory"],
+  recordedBy: ["story-recorder/picture", "story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-29T11:15:00.000Z",
 } as const satisfies StoryTurnPlayed
