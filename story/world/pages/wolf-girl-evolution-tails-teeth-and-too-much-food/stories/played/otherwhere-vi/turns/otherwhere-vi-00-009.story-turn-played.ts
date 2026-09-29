@@ -32,6 +32,6 @@ export const otherwhereVi00009 = {
   issues: ['"The berries have left no mark on it at all." - Plain Negation'],
   lore: ["place/otherwhere-vi-hollow-stream", "lore/otherwhere-vi-system"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-28T22:42:00.000Z",
 } as const satisfies StoryTurnPlayed
