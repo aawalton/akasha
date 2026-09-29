@@ -7,7 +7,13 @@ export const otherwhereIx00010 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],
   position: 10,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I keep pushing until it dies. \"System? Status? Now would be a great time for a level up or some kind of regeneration talent. I feel like I've gotten a raw deal here. If I die now, I'll be complaining to Death about whoever brought me here.\"",
+  lore: [
+    "lore/otherwhere-ix-nala",
+    "lore/otherwhere-ix-shardback",
+    "lore/otherwhere-ix-stat-points",
+    "lore/otherwhere-ix-status",
+  ],
 } as const satisfies StoryTurnPlayed
