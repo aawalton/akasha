@@ -4,13 +4,14 @@ export const otherwhereVi00007 = {
   id: "01a0ea73-eee7-7929-ad3f-0e6badb13f9b",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vi-00-007",
+  cover: "image/image-5bd0071f3b33f08e",
   ownLength: 267,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],
   position: 7,
   prose: "txt",
   characters: ["character-player/otherwhere-vi-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I stand back up and keep the stick between me and the boar and slowly back away, if it charges, I brace the stick in the ground as a makeshift spear and anchor it with my weight.",
   beats: [
@@ -36,6 +37,6 @@ export const otherwhereVi00007 = {
   ],
   lore: ["place/otherwhere-vi-hollow-stream", "lore/otherwhere-vi-nala"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T22:30:00.000Z",
 } as const satisfies StoryTurnPlayed
