@@ -27,5 +27,6 @@ export const otherwhereIx00009 = {
     "Its eyes are half shut, and a thin wet whistle still comes and goes through the torn throat.",
   ],
   lore: ["lore/otherwhere-ix-shardback"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T15:41:00.000Z",
 } as const satisfies StoryTurnPlayed
