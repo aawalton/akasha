@@ -10,7 +10,7 @@ export const otherwhereIv00014 = {
   position: 14,
   prose: "txt",
   characters: ["character-player/otherwhere-iv-nala", "character-other/otherwhere-iv-zhao-jun"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     '"I will come if you ask, though I fear I may be more hindrance than help. By your description, I think you have your answer. If this boar has reached a size unnatural for its kind, it must have ascended to a different kind. If it is the same boar that killed your brother, all the more reason it must be brought down. However, are there preparations we could make to make the hunt safer? What of poison? If we know where it will forage, could we use that to weaken it? What of a pit trap with sharpened stakes at the bottom? Its weight would surely cause it to fall through a light cover and may make it harder for it to get back out. Could we combine that with fire in the pit and suffocate it in the smoke?"',
   beats: [
@@ -53,8 +53,9 @@ export const otherwhereIv00014 = {
   ],
   issues: [
     '"burned a bundle of herbs at the old shrine up there" - the tale puts it at the village shrine',
+    '"no spear or arrow touched it" - Nobody Acts',
   ],
   lore: ["lore/otherwhere-iv-boar-hunt", "place/otherwhere-iv-upstream-woods"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T19:46:00.000Z",
 } as const satisfies StoryTurnPlayed
