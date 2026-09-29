@@ -32,6 +32,10 @@ export const otherwhereIiiOnnDesveth = {
       fact: "She can screen a person for chaos by her own authority sense, in a few minutes, by touch or near.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She is curious rather than hostile, and wary of any human who knows too much.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
