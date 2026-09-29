@@ -4,6 +4,7 @@ export const otherwhereIv00011 = {
   id: "01a0ea93-53e7-7b10-bc82-f8c34fd26d6b",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-011",
+  cover: "image/image-42aa0937c5bbd582",
   ownLength: 328,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],
@@ -38,6 +39,6 @@ export const otherwhereIv00011 = {
   ],
   lore: ["lore/otherwhere-iv-earth-god-shrine"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T19:09:00.000Z",
 } as const satisfies StoryTurnPlayed
