@@ -4,6 +4,7 @@ export const chooseYourApocalypseALitrpgApocalypseProgression0167Chapter165Repai
   id: "01a0ed0c-f100-7c1e-b901-2c091037a8e8",
   type: "page-type/story-chapter-read",
   slug: "choose-your-apocalypse-a-litrpg-apocalypse-progression-0167-chapter-165-repairs",
+  ownProgress: 2251,
   position: 167,
   publishedAt: "2026-09-29",
   unit: "unit/words",
