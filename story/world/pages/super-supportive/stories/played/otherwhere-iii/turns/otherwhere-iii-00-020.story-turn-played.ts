@@ -16,4 +16,5 @@ export const otherwhereIii00020 = {
     "lore/super-supportive-demon",
     "place/super-supportive-artonan-consulate-4",
   ],
+  endsAt: "2037-01-31T09:53:00.000Z",
 } as const satisfies StoryTurnPlayed
