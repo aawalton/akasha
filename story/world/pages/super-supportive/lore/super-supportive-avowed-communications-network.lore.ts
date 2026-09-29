@@ -24,6 +24,10 @@ export const superSupportiveAvowedCommunicationsNetwork = {
       fact: "A caller gets a silver sigil on any phone held, even a rotary, and it cannot be deleted.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Its number is public and any phone can dial it, registered or not.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
