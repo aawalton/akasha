@@ -4,13 +4,14 @@ export const otherwhereX00008 = {
   id: "01a0eaf5-1ab9-7092-a4e9-1303fbe3f93e",
   type: "page-type/story-turn-played",
   slug: "otherwhere-x-00-008",
+  cover: "image/image-8820be32a2308ad3",
   ownLength: 353,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-x"],
   position: 8,
   prose: "txt",
   characters: ["character-player/otherwhere-x-nala", "world-character/otherwhere-x-aldous-crane"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     'I choose to sing "O Danny Boy", since I don\'t know if they will understand the words, but the emotions can still come through the music. After that I sing "Homeward Bound"',
   beats: [
@@ -53,6 +54,6 @@ export const otherwhereX00008 = {
     "place/otherwhere-x-the-sheaf",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T19:13:00.000Z",
 } as const satisfies StoryTurnPlayed
