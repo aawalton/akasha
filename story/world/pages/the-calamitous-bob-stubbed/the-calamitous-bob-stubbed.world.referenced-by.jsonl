@@ -184,6 +184,8 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-depth-worm.lore.ts","id":"01a0ea7e-5eaa-7ac2-ac60-a53f40bb6e54"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-dirge.lore.ts","id":"01a0ea7c-0782-75ce-8acb-00ffbcfb0066"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-divine-mana.lore.ts","id":"01a0ea7f-ce60-71c1-a04a-e9d634596773"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-divine-oath.lore.ts","id":"01a0ea82-7962-75fb-9003-dac89eb49d3f"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-divine-spark.lore.ts","id":"01a0ea82-7963-7f88-94db-5762df97c6b8"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-dragons.lore.ts","id":"01a0ea79-2034-751b-bf34-f0cc2bed057c"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-durgan.lore.ts","id":"01a0ea7c-e4ab-784d-9710-3e5643ee266b"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-earth-fire-bleeding-from-a-mountain-flank.lore.ts","id":"01a0ea7f-d846-766e-9d12-84f821cb6927"}
@@ -351,6 +353,8 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/elements/otherwhere-xi-red-mana.world-element.ts","id":"01a0ea7e-5869-7dfb-b4eb-8355a66ada1a"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/mechanics/otherwhere-xi-attunement.world-mechanic.ts","id":"01a0ea7c-4d19-75f7-8e75-828c342225f6"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/mechanics/otherwhere-xi-caster-core.world-mechanic.ts","id":"01a0ea81-dc6f-7b8a-90dd-57de9a9e930b"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/mechanics/otherwhere-xi-divine-oath.world-mechanic.ts","id":"01a0ea82-7964-7144-ae51-59d6f3011f19"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/mechanics/otherwhere-xi-divine-spark.world-mechanic.ts","id":"01a0ea82-7964-7638-a921-e11460d97774"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/mechanics/otherwhere-xi-interface.world-mechanic.ts","id":"01a0ea74-9df7-7d7f-a0c3-28f2cc0f6bf3"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/mechanics/otherwhere-xi-mana-poisoning.world-mechanic.ts","id":"01a0ea7c-4d19-7be6-a18a-3d95cd4033ea"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/mechanics/otherwhere-xi-mana.world-mechanic.ts","id":"01a0ea7c-4d19-7e88-85c7-0109d3a3bc7b"}
