@@ -86,6 +86,10 @@ export const otherwhereIvUpstreamWoods = {
       fact: "He is ravenous for Qi, and the young rice grown near the willow holds a trace of it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Old Tusk will come back to the terraces by the willow within three nights, drawn by the rice.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
