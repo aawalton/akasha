@@ -91,5 +91,17 @@ export const overwhereIiTheGnarl = {
       fact: "Cities near the Gnarl are finer than the northern towns.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The road south from northern Liir must cross the Gnarl.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Poplars, ferns and granite line the Gnarl's steep stone trails.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Only villages lie between the Gnarl and the port of Bephir to the south.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
