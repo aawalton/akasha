@@ -1496,6 +1496,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-abenezigel.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-aberrant.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-adon.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-alchemists-guild.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-alchemy.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-aldus.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-ancient-sarodon.lore.ts","typed":true,"deferred":false}
@@ -1510,6 +1511,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-arthur.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-artifacts.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-ashra.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-assassins-guild.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-attunement.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-auntie.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-avatar.lore.ts","typed":true,"deferred":false}
@@ -1644,6 +1646,8 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-hallurians.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-hammer-of-old-ash.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-harrakan-army.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-harrakan-remnants.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-harrakan-university.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-harrien.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-helock-academy.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-helock-council.lore.ts","typed":true,"deferred":false}

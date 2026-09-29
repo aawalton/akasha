@@ -204,6 +204,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-abenezigel.lore.ts","id":"01a0ea74-c7f6-7f5f-9809-e8c03ac792b7"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-aberrant.lore.ts","id":"01a0ea7e-e8ce-7625-a046-05f231623c79"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-adon.lore.ts","id":"01a0ea75-bc70-7de0-a8b6-23ec9a9393dc"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-alchemists-guild.lore.ts","id":"01a0ea89-4775-717b-b067-1447535069c0"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-alchemy.lore.ts","id":"01a0ea88-77cd-7cbc-8e89-8e821cb318d6"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-aldus.lore.ts","id":"01a0ea77-aa11-7c73-945b-28d7c8b272c7"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-ancient-sarodon.lore.ts","id":"01a0ea78-368b-7e95-a296-f6eb2693046e"}
@@ -218,6 +219,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-arthur.lore.ts","id":"01a0ea75-bc71-71a2-9b03-0414fe300b66"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-artifacts.lore.ts","id":"01a0ea87-578a-7aac-ae18-d42b6a22766d"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-ashra.lore.ts","id":"01a0ea76-d052-71ac-a6de-37ef1e7cceb5"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-assassins-guild.lore.ts","id":"01a0ea89-4775-7407-b6bb-1b82c440de23"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-attunement.lore.ts","id":"01a0ea7c-4d17-7e57-ad63-d7de576141f4"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-auntie.lore.ts","id":"01a0ea78-368b-7790-8045-e5df4629cf4e"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-avatar.lore.ts","id":"01a0ea84-11c5-70b9-8540-546ee68c0363"}
@@ -352,6 +354,8 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-hallurians.lore.ts","id":"01a0ea7c-d005-7175-a568-b519a46e0d60"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-hammer-of-old-ash.lore.ts","id":"01a0ea85-d3d6-74ed-aa06-28e1688f9fe8"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-harrakan-army.lore.ts","id":"01a0ea7e-1cb7-7dc9-b632-b32c62a29bcc"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-harrakan-remnants.lore.ts","id":"01a0ea89-4776-7459-865c-19162539b948"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-harrakan-university.lore.ts","id":"01a0ea89-4777-7bb1-8cde-8fadca4fbec2"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-harrien.lore.ts","id":"01a0ea80-a39d-74ca-9554-328f023708f0"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-helock-academy.lore.ts","id":"01a0ea86-1104-7513-82e1-15dae8e5980a"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-helock-council.lore.ts","id":"01a0ea85-7e1f-71c8-883b-d42167d36114"}
@@ -601,6 +605,8 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/mechanics/otherwhere-xi-undeath.world-mechanic.ts","id":"01a0ea85-ad41-7b2f-ba08-8de1fa0669bc"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/mechanics/otherwhere-xi-wards.world-mechanic.ts","id":"01a0ea87-578d-720a-a04c-c5950ff8e534"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/mechanics/otherwhere-xi-witchcraft.world-mechanic.ts","id":"01a0ea85-f5f3-7d48-b169-3ab71686dfd0"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-alchemists-guild.world-organization.ts","id":"01a0ea89-4777-7419-83ab-f4a468e24ed1"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-assassins-guild.world-organization.ts","id":"01a0ea89-4777-74b2-9c3d-690771c8c69e"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-baran.world-organization.ts","id":"01a0ea83-4d71-74bb-99b3-4e3a3138bcd8"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-bitter-hearts.world-organization.ts","id":"01a0ea7f-99a1-75c2-bb34-522560070832"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-children-of-the-scale.world-organization.ts","id":"01a0ea7e-cc4b-7b5c-a588-8235462d9c08"}
@@ -617,6 +623,8 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-golden-scale-bank.world-organization.ts","id":"01a0ea7f-99a1-7e4a-b749-b05b95a5fe84"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-halluria.world-organization.ts","id":"01a0ea84-a816-7f5b-a975-6e59aef6b0fc"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-harrakan-army.world-organization.ts","id":"01a0ea7e-1cbe-79ce-846b-76052addd543"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-harrakan-remnants.world-organization.ts","id":"01a0ea89-4777-7c25-b20e-d6d700cd547d"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-harrakan-university.world-organization.ts","id":"01a0ea89-4777-7565-a51f-c7744b9908ae"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-helock-academy.world-organization.ts","id":"01a0ea86-1105-7c83-b043-15770abfe800"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-helock-council.world-organization.ts","id":"01a0ea85-7e20-7fa6-b901-cab6bcd36ded"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-hightree-company.world-organization.ts","id":"01a0ea7e-cc4b-7137-bfc8-9a6323f4d75b"}
