@@ -20,6 +20,10 @@ export const superSupportiveContractTattoo = {
       fact: "The stronger party empowers the contract and its understanding crushes the weaker's.",
       knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
     },
+    {
+      fact: "Artonan officials and teachers carry large networks of dark blue contract tattoos.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
