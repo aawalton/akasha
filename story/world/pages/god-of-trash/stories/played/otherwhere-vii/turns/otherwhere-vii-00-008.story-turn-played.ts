@@ -34,6 +34,11 @@ export const otherwhereVii00008 = {
     "The steward took nine. A sack and a half more than a tenth, carted off last year.",
     "Aldo is still watching her face, the stick between them, waiting to see what she'll say next.",
   ],
+  issues: [
+    '"Aldo\'s eyes are still on your face, the stick between you." - No Prompt',
+    '"Aldo\'s eyes are still on your face, the stick between you." - Leave It Open',
+  ],
   lore: ["lore/otherwhere-vii-aldo-reeve"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T08:18:00.000Z",
 } as const satisfies StoryTurnPlayed
