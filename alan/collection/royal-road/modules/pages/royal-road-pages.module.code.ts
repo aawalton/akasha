@@ -233,8 +233,8 @@ export function parseChapterProse(html: string): ProseRead {
   return { ok: true, text, wordCount: countChapterWords(text) }
 }
 
-export async function fetchHtml(url: string, cookie?: string): Promise<string> {
-  const response = await fetch(url, {
+function answerTo(url: string, cookie: string | undefined): Promise<Response> {
+  return fetch(url, {
     headers: {
       "user-agent": USER_AGENT,
       accept: "text/html,application/xhtml+xml",
@@ -242,6 +242,16 @@ export async function fetchHtml(url: string, cookie?: string): Promise<string> {
     },
     signal: AbortSignal.timeout(45_000),
   })
+}
+
+export async function fetchHtml(url: string, cookie?: string): Promise<string> {
+  let response: Response
+  try {
+    response = await answerTo(url, cookie)
+  } catch {
+    await betweenRequests()
+    response = await answerTo(url, cookie)
+  }
   if (!response.ok) throw new Error(`${response.status} ${response.statusText} for ${url}`)
   return await response.text()
 }

@@ -33,5 +33,13 @@ export const royalRoadPages = {
       decisionKind: "decision-kind/departure",
       statement: "A container that is absent and a container that yields nothing are two readings.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A request whose connection fails before any answer is sent once more.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A request Royal Road answers with a refusal is not sent again.",
+    },
   ],
 } as const satisfies Module
