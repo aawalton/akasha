@@ -141,6 +141,14 @@ export const otherwhereXiHelock = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The Dog's Bollocks is a slum inn in Helock; the Five Fishes inn is known for its soup.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Helock's guilds include a Post Guild and a Builders' Guild.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Helock has temples of Sardanal, Maranor and Enttiku.",
       knowers: ["lore-disclosure/game-master"],
     },
