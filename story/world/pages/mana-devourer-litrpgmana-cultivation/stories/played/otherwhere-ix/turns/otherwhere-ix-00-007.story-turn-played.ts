@@ -26,5 +26,6 @@ export const otherwhereIx00007 = {
     "Its jaws stay locked on her calf, and it twists again, harder, as if the pain has made it angry.",
   ],
   lore: ["lore/otherwhere-ix-shardback", "lore/otherwhere-ix-nala"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T15:38:00.000Z",
 } as const satisfies StoryTurnPlayed
