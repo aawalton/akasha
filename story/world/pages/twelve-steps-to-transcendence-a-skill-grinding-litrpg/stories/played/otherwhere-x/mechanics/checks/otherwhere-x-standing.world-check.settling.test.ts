@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { worldRelationship } from "akasha/story/world/mechanics/relationships/world-relationship.page-type.ts"
 import { otherwhereXMarthaDeane } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/characters/otherwhere-x-martha-deane.world-character.ts"
 import {
   added,
@@ -59,6 +60,10 @@ test("a score above nought with no reason is refused", () => {
 test("the change is added to the relationship's points", () => {
   const reading = { ...MARTHA, points: 0, ...NOTHING, word: 1, why: { word: "came back" } }
   expect(added(reading, { change: 1, points: 1, stance: "wary" })).toEqual([
-    { page: `world-relationship/${otherwhereXMarthaDeane.slug}`, key: "relationshipPoints", by: 1 },
+    {
+      page: `${worldRelationship.slug}/${otherwhereXMarthaDeane.slug}`,
+      key: "relationshipPoints",
+      by: 1,
+    },
   ])
 })

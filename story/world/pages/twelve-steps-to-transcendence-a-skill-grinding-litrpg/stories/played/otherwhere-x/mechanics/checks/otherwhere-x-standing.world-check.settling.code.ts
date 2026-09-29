@@ -1,3 +1,4 @@
+import { worldRelationship } from "akasha/story/world/mechanics/relationships/world-relationship.page-type.ts"
 import { z } from "zod"
 
 const MARKS = ["word", "respect", "aid", "fairness", "honesty"] as const
@@ -79,7 +80,7 @@ export function added(reading: unknown, answered: unknown): readonly Added[] {
   if (!held.success || moved.change === 0) return []
   return [
     {
-      page: `world-relationship/${held.data.character}`,
+      page: `${worldRelationship.slug}/${held.data.character}`,
       key: "relationshipPoints",
       by: moved.change,
     },
