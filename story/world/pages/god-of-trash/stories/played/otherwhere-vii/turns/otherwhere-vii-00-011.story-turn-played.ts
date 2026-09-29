@@ -17,7 +17,7 @@ export const otherwhereVii00011 = {
     "character-other/otherwhere-vii-joan-reeve",
     "character-other/otherwhere-vii-hild",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "\"Thank you Ma'am, I appreciate your kindness. If there is anything I can do to help while I'm here, I'm eager to learn.\" I pull the dress over my head and put on the clogs.",
   beats: [
@@ -49,12 +49,15 @@ export const otherwhereVii00011 = {
     '"Reckoner," Joan says to Hild - Joan tells the village Nala is a hired hand who cannot read',
   ],
   lore: [
-    "place/otherwhere-vii-ashford",
     "lore/otherwhere-vii-aldo-reeve",
-    "lore/otherwhere-vii-nala",
     "lore/otherwhere-vii-hild",
+    "lore/otherwhere-vii-joan-reeve",
+    "lore/otherwhere-vii-language",
+    "lore/otherwhere-vii-nala",
+    "lore/otherwhere-vii-tamsin",
+    "place/otherwhere-vii-ashford",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
   endsAt: "2026-09-28T12:10:00.000Z",
 } as const satisfies StoryTurnPlayed
