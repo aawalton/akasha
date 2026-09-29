@@ -7,5 +7,11 @@ export const superSupportiveWordchain = {
   title: "Wordchains",
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-wordchain",
+  facts: [
+    {
+      fact: "Non-Avowed humans can perform many wordchains; only Avowed can do magic beyond them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
