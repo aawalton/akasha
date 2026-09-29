@@ -10,7 +10,7 @@ export const otherwhereX00003 = {
   position: 3,
   prose: "txt",
   characters: ["character-player/otherwhere-x-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: '"Hi there, would you mind pointing me in the direction of your parents?"',
   beats: [
     'Nala says: "Hi there, would you mind pointing me in the direction of your parents?"',
@@ -37,6 +37,6 @@ export const otherwhereX00003 = {
     "\"Your name, if you'd give it. Where's your home, and what's your business in Harrow?\"",
   ],
   lore: ["place/otherwhere-x-harrow"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T18:27:00.000Z",
 } as const satisfies StoryTurnPlayed
