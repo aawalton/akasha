@@ -136,8 +136,63 @@ export const otherwhereXHarrow = {
       fact: "Harrow folk speak the common tongue with a slow heartland burr.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "From the rise east of Harrow Mile, Harrow shows below: thatch, smoke, a green, a mill wheel.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "On day one at six, Hob Crane and a dozen geese come west along the road below the rise.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hob will ask a stranger everything at once, and run to fetch his father at anything odd.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Bare feet are the mark of beggars and children in Harrow; grown folk wear clogs or boots.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A grown woman in a man's thin shirt and black hose, barefoot, is a sight Harrow has never seen.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Harrow folk take a woman alone on the road at dusk for robbed, runaway, or worse.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "On day one's evening Gideon Pike is up on the downs with his flock, not in the village.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "On day one's evening Old Nan sits by her door on the green, shelling beans.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "On day one's evening Martha Deane is at the Sheaf's hearth with a pot of mutton stew.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The dusk bell on day one rings at twenty to seven.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   exits: [
+    {
+      to: "place/otherwhere-x-harrow-downs",
+      way: "south up the sheep track onto the chalk",
+      direction: "south",
+    },
+    {
+      to: "place/otherwhere-x-brackwood",
+      way: "north up Harrow Brook through the fields, an hour's walk",
+      direction: "north",
+    },
+    {
+      to: "place/otherwhere-x-wexley",
+      way: "east along the king's road, fifteen miles",
+      direction: "east",
+    },
     {
       to: "place/otherwhere-x-harrow-mile",
       way: "west along the king's road, two miles",
