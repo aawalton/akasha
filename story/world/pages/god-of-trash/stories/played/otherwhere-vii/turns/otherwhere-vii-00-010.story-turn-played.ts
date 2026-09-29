@@ -35,6 +35,10 @@ export const otherwhereVii00010 = {
     "\"My Bet's. She'll not miss them abed.\" Joan holds them out.",
     '"Borrowed, mind. You\'ll not sit at my table in your shift and hose."',
   ],
-  lore: ["lore/otherwhere-vii-aldo-reeve", "lore/otherwhere-vii-tamsin"],
+  lore: [
+    "lore/otherwhere-vii-aldo-reeve",
+    "lore/otherwhere-vii-tamsin",
+    "place/otherwhere-vii-ashford",
+  ],
   endsAt: "2026-09-28T08:34:00.000Z",
 } as const satisfies StoryTurnPlayed
