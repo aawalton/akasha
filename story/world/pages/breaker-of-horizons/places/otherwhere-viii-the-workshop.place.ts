@@ -13,7 +13,7 @@ export const otherwhereViiiTheWorkshop = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Twelve apprentices work the benches this term, in grey canvas aprons, four to a bench.",
+      fact: "Twelve apprentices work the benches this term, in grey canvas aprons, two to a bench.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
