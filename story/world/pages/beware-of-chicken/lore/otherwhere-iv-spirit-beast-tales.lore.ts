@@ -67,6 +67,10 @@ export const otherwhereIvSpiritBeastTales = {
       fact: "The old stag tale ends with the stag living on the mountain, and nobody hunting it again.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Dried spirit-herb smoke drives a newly awakened beast off, its Qi offending the beast.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
