@@ -1620,6 +1620,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-magic.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-nala.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-nobles-and-rulers.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-paeris.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-peoples.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-reincarnation.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-syl.lore.ts","typed":true,"deferred":false}
@@ -1628,6 +1629,8 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-sylvain.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-sylvester.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-the-system.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-trixie.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-vanessa.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-vee.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-beholder/lore/colette-vane.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-beholder/lore/mr-aldous.lore.ts","typed":true,"deferred":false}
