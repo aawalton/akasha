@@ -43,5 +43,33 @@ export const overwhereIiCreston = {
       fact: "Creston had just kept Threllsnacht's festivities.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Creston sits in a valley between two bluffs and a mountain, south of Haver Hill.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Creston is about half Vale's size, with thatched roofs and a stream oxbow at its south.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Creston's fieldstone walls are eight feet high and five feet thick.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Sleeping Bear is on Creston's square; its sign shows a bear with flowers and mushrooms.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Many of Creston's old folk are Untalented.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Storms roll up from the south against Creston's mountain.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aberrants around Creston's mountain are stirred up, and it is less safe than it was.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
