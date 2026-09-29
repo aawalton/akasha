@@ -152,8 +152,10 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-cernit.lore.ts","id":"01a0ea7a-6437-79a6-a074-16275f544c11"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-cerus.lore.ts","id":"01a0ea7b-2e7c-7f9b-8419-d9bc8e45ceb0"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-children-of-the-scale.lore.ts","id":"01a0ea7e-cc49-7ce8-89d6-8e03f27ad433"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-church-of-efestar.lore.ts","id":"01a0ea81-300a-7387-b80a-8fb609ee1d1b"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-church-of-enttiku.lore.ts","id":"01a0ea80-64d1-7682-b42c-29e6320767b6"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-church-of-maranor.lore.ts","id":"01a0ea80-64d2-7faf-b36c-0107309842d7"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-church-of-sardanal.lore.ts","id":"01a0ea81-300b-7d4b-9b98-7c47e017b124"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-claron.lore.ts","id":"01a0ea7c-e4a8-737c-b303-3b2a8d1cef26"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-clio.lore.ts","id":"01a0ea7a-6438-7903-8002-d690a9702da3"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-cloud-skull.lore.ts","id":"01a0ea7a-6439-7d1c-9664-6caf52beebfc"}
@@ -197,6 +199,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-eteia.lore.ts","id":"01a0ea7e-1940-75f9-bc28-714a2b1f4a3f"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-flesh-walker.lore.ts","id":"01a0ea7e-e8cf-76e2-adf9-b34c39eae8d8"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-forest-spider.lore.ts","id":"01a0ea7f-9f45-7bc2-bb61-2a23178b02e4"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-golden-order.lore.ts","id":"01a0ea81-300b-7631-8486-42f7a049b5b7"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-golden-scale-bank.lore.ts","id":"01a0ea7f-99a0-7268-8ae3-631ae78bd033"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-golems.lore.ts","id":"01a0ea79-2035-78dd-b227-798125eed74e"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-gomogog.lore.ts","id":"01a0ea7c-3079-7239-9704-6007e660ea37"}
@@ -324,6 +327,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-bitter-hearts.world-organization.ts","id":"01a0ea7f-99a1-75c2-bb34-522560070832"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-children-of-the-scale.world-organization.ts","id":"01a0ea7e-cc4b-7b5c-a588-8235462d9c08"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-dark-gods.world-organization.ts","id":"01a0ea7e-e170-7fcd-bfe0-f5064fb42bea"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-golden-order.world-organization.ts","id":"01a0ea81-300b-78f9-9a4b-cbefec2c28f8"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-golden-scale-bank.world-organization.ts","id":"01a0ea7f-99a1-7e4a-b749-b05b95a5fe84"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-harrakan-army.world-organization.ts","id":"01a0ea7e-1cbe-79ce-846b-76052addd543"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-hightree-company.world-organization.ts","id":"01a0ea7e-cc4b-7137-bfc8-9a6323f4d75b"}
@@ -339,8 +343,10 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-order-of-the-blue-rose.world-organization.ts","id":"01a0ea7f-99a7-70f8-b660-925455dc546b"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-pure-league.world-organization.ts","id":"01a0ea80-af49-7cc2-8ed7-b0c28f7810ed"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-sisters-of-the-eye.world-organization.ts","id":"01a0ea7e-cc4b-7755-9d98-eef465622f67"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/religions/otherwhere-xi-church-of-efestar.world-religion.ts","id":"01a0ea81-300b-788a-9544-f78479fc7d4c"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/religions/otherwhere-xi-church-of-enttiku.world-religion.ts","id":"01a0ea80-64d2-740b-bc65-39b665b2bada"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/religions/otherwhere-xi-church-of-maranor.world-religion.ts","id":"01a0ea80-64d2-7cf8-938c-4eca5a620624"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/religions/otherwhere-xi-church-of-sardanal.world-religion.ts","id":"01a0ea81-300c-7439-907a-6fe5a8cef949"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/religions/otherwhere-xi-temple-of-neriad.world-religion.ts","id":"01a0ea7f-9219-7395-a6e6-304bf5b17d10"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/skills/otherwhere-xi-inspection.world-skill.ts","id":"01a0ea7a-bf9e-7897-bb3b-ca0a6ad38748"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-aberrant.world-species.ts","id":"01a0ea7d-96d0-7066-b5c5-7bad31fdc8dc"}
