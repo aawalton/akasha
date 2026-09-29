@@ -10,7 +10,7 @@ export const otherwhereXi00008 = {
   position: 8,
   prose: "txt",
   characters: ["character-player/otherwhere-xi-nala", "world-character/otherwhere-xi-wenna-ashlar"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "\"I'll gladly work, but I'll warn you, today is the first time I've seen a sheep close enough to touch one. You'll need to teach me what to do.\"",
   beats: [
@@ -30,10 +30,10 @@ export const otherwhereXi00008 = {
     "Wenna teaches as they go: move slow, come at a ewe from the side, never grab the wool.",
     "The girls trail her everywhere with small buckets, telling her which of the hens bite.",
     "They show her the pen: ewes, lambs, and one ewe lying apart with her head turned away.",
-    "Wenna goes still when she sees her, and hands the bucket off without looking.",
+    "Wenna goes still when she sees her, and takes the bucket from Nala's hands without looking.",
     "The ewe is down and does not get up; Wenna is over the hurdles and kneeling in the straw.",
     '"One lamb," she says, hands in the fleece, feeling. "It\'s turned." She does not look up.',
-    "The yard has gone quiet. The girls stand still by the woodpile and watch.",
+    "Straw is scattered where the ewe has dragged herself round and round the pen.",
   ],
   issues: [
     '"The yard has gone quiet. The girls stand still by the woodpile and watch" - Leave It Open',
