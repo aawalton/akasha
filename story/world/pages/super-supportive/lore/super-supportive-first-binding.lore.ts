@@ -12,6 +12,10 @@ export const superSupportiveFirstBinding = {
       fact: "It is done so knights can fight demons in chaotic places.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Many die during the first binding or within a few years of it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
