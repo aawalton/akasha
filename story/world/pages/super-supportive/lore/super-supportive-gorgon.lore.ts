@@ -12,6 +12,10 @@ export const superSupportiveGorgon = {
       fact: "He is about five feet tall, with smooth gray skin like a stingray's and black shark-like eyes.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "He has a wide flat nose with four nostril slits and possibly no ears.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
