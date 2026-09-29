@@ -14,7 +14,7 @@ export const otherwhereX00011 = {
     "world-character/otherwhere-x-aldous-crane",
     "world-character/otherwhere-x-bess-crane",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I follow him out in confusion.",
   beats: [
     "Nala scoops the three coppers off the trestle and follows Aldous out, not sure what's happening.",
@@ -37,6 +37,7 @@ export const otherwhereX00011 = {
     "He doesn't move to shut it yet. He looks at Nala a long while in the moonlight.",
     '"Before the soldiers come, and ask it their way. Is there aught you\'d tell me, just me?"',
   ],
+  issues: ['"He doesn\'t move to shut it yet. He looks at you a long while" - No Prompt'],
   lore: [
     "lore/otherwhere-x-aldous-crane",
     "lore/otherwhere-x-bess-crane",
@@ -59,6 +60,6 @@ export const otherwhereX00011 = {
     "place/otherwhere-x-tarrant-ford",
     "place/otherwhere-x-the-sheaf",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T19:40:00.000Z",
 } as const satisfies StoryTurnPlayed
