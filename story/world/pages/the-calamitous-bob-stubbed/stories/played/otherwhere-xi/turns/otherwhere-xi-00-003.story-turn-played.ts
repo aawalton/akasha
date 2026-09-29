@@ -10,7 +10,7 @@ export const otherwhereXi00003 = {
   position: 3,
   prose: "txt",
   characters: ["character-player/otherwhere-xi-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: '"Excuse me sir, what are those stones behind me?"',
   beats: [
     'Nala asks the boy, "Excuse me sir, what are those stones behind me?"',
@@ -32,6 +32,6 @@ export const otherwhereXi00003 = {
     '"Close to, he is sunburnt" - he stays well back last turn, and no beat brings them closer',
   ],
   lore: ["place/otherwhere-xi-waystone-shrine"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T06:25:00.000Z",
 } as const satisfies StoryTurnPlayed
