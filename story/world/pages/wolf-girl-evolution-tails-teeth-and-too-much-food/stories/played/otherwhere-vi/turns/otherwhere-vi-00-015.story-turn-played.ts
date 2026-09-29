@@ -4,10 +4,18 @@ export const otherwhereVi00015 = {
   id: "01a0eb1e-9f9a-7154-b130-3089a2357364",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vi-00-015",
+  ownLength: 361,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],
   position: 15,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/otherwhere-vi-nala",
+    "character-other/otherwhere-vi-jory-tull",
+    "character-other/otherwhere-vi-wat",
+    "character-other/otherwhere-vi-burr",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     '"Yes, I made it through a night in the forest alone. I know enough to fear the dark, but I can be afraid without panic."',
   beats: [
