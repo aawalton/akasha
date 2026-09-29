@@ -21,7 +21,7 @@ export const overwhereIvDailyLife = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Walled cities such as Kaerlin charge an entry fee at the gate and make travelers queue.",
+      fact: "Walled cities charge an entry fee at the gate.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -41,7 +41,7 @@ export const overwhereIvDailyLife = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Map locations are sold very cheaply, but news of politics costs a ludicrous price.",
+      fact: "Brokers sell map locations very cheaply.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -69,7 +69,7 @@ export const overwhereIvDailyLife = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Deepstone is a dark navy ore mined from seabed spires off the Vaelyssan coast.",
+      fact: "Deepstone, a dark navy ore, is the chief export of the Vaelyssan coast.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -129,7 +129,7 @@ export const overwhereIvDailyLife = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The Capital and Dhoggurum are wrapped in nets that sense any teleport within them.",
+      fact: "Great cities guard against teleporting intruders with old sensing enchantments.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -145,7 +145,7 @@ export const overwhereIvDailyLife = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Sailors call waters where mermen attack red zones, marked with red flags on charts.",
+      fact: "Sea charts mark the most dangerous waters with red flags.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -153,7 +153,7 @@ export const overwhereIvDailyLife = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Teleporting is rare and costly; the elven tree gates of Caelthal reach across the world.",
+      fact: "Teleporting is rare and costly, and few but the elves keep gates spanning far lands.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -177,7 +177,7 @@ export const overwhereIvDailyLife = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Coastal towns eat mostly fish; islands grow coconuts, bananas and other fruit.",
+      fact: "Coastal towns eat mostly fish and buy fruit from the island plantations.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -194,10 +194,6 @@ export const overwhereIvDailyLife = {
     },
     {
       fact: "Slime farm towns pen slimes in fenced enclosures and corrals.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Slime farm towns whisper of a god of slimes who leaves treasures in the pens.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
