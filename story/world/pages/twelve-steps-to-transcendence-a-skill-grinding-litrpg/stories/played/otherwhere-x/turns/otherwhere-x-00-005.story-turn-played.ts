@@ -31,6 +31,10 @@ export const otherwhereX00005 = {
     'Hob\'s head pokes out past his mother. "Can I come hear? Da, can I?" Aldous ignores him.',
     'Aldous holds Nala\'s eye. "Will you go quiet to the Sheaf and wait for the patrol?"',
   ],
+  issues: [
+    '"steps down onto the doorstone" - Aldous settles hard things indoors, not before the green',
+  ],
   lore: ["lore/otherwhere-x-aldous-crane", "place/otherwhere-x-harrow"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T18:41:00.000Z",
 } as const satisfies StoryTurnPlayed
