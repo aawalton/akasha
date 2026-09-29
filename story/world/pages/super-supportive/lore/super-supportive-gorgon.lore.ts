@@ -93,6 +93,10 @@ export const superSupportiveGorgon = {
       fact: "He knows a human holding Artonan secrets is in grave danger if Artonans learn of it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "He would rather she not speak such secrets aloud inside a building full of Artonan magic.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
