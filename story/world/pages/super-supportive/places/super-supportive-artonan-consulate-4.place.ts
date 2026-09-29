@@ -47,6 +47,10 @@ export const superSupportiveArtonanConsulate4 = {
       fact: "The Red Line from Lawrence runs every ten minutes or so on a Saturday morning.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "It opens at 9 AM and holds only evening classes on weekdays.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   within: "place/otherwhere-iii-chicago",
   secrets: "jsonl",
