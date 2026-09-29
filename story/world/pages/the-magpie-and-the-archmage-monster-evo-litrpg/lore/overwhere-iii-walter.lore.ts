@@ -22,7 +22,7 @@ export const overwhereIiiWalter = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "He, Beatrice and Arvid lodged at the Sunvale inn, bullied the town and terrorised its children.",
+      fact: "He, Beatrice and Arvid lodged at the Sunvale inn, bullied the town and terrorized its children.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

@@ -205,7 +205,7 @@ export const overwhereIiiMagic = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Locator spells track an item's mana signature for two to five kilometres, ten at best.",
+      fact: "Locator spells track an item's mana signature for two to five kilometers, ten at best.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

@@ -31,7 +31,7 @@ export const overwhereIiiPurse = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A day's hired labour pays 10 copper; a Copper quest 10 to 50; a Bronze quest 1 to 3 silver.",
+        "A day's hired labor pays 10 copper; a Copper quest 10 to 50; a Bronze quest 1 to 3 silver.",
     },
     {
       decisionKind: "decision-kind/departure",

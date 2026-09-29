@@ -9,7 +9,7 @@ export const overwhereIiiNaIkiri = {
   about: "character-other/overwhere-iii-na-ikiri",
   facts: [
     {
-      fact: "Na'ikiri is a young female antkin, a travelling merchant who fights with a bow.",
+      fact: "Na'ikiri is a young female antkin, a traveling merchant who fights with a bow.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

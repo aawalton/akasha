@@ -48,7 +48,7 @@ export const overwhereIiiSunvale = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The town square holds a market every two weeks, with a few travelling merchants.",
+      fact: "The town square holds a market every two weeks, with a few traveling merchants.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

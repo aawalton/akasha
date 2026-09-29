@@ -17,7 +17,7 @@ export const overwhereIiiLiora = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "In her true form she is a huge black bird near human size, with a wingspan of some 3.5 metres.",
+      fact: "In her true form she is a huge black bird near human size, with a wingspan of some 3.5 meters.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

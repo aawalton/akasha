@@ -222,7 +222,7 @@ export const overwhereIiiVelithra = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Small towns keep market days a week or two apart, with travelling merchants.",
+      fact: "Small towns keep market days a week or two apart, with traveling merchants.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],

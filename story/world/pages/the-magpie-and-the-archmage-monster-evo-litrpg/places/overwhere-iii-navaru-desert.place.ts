@@ -31,7 +31,7 @@ export const overwhereIiiNavaruDesert = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Travellers move in the mornings and evenings and shelter at midday.",
+      fact: "Travelers move in the mornings and evenings and shelter at midday.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

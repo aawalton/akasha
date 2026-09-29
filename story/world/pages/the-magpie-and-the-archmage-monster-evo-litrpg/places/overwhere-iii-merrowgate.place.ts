@@ -35,7 +35,7 @@ export const overwhereIiiMerrowgate = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "A traveller without papers is written in the gate book with a description and a reason.",
+      fact: "A traveler without papers is written in the gate book with a description and a reason.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
