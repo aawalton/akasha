@@ -76,6 +76,9 @@ export const otherwhereIiiTheSystem = {
       fact: "The call is logged under her name, and her sigil stays on the lobby phone.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
+    {
+      fact: "Nala carries no chaos corruption; a screening finds none.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
-  secrets: "jsonl",
 } as const satisfies Lore
