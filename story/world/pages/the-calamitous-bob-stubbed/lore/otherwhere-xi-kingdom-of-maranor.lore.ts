@@ -89,6 +89,10 @@ export const otherwhereXiKingdomOfMaranor = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The Northbay sisters, Maranor's champions, died at Aristan with Azith, Arrin, Sur and Vil.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Maranor's army crossed the Deadshield Woods in ten days and burned Kazar's great tree.",
       knowers: ["lore-disclosure/game-master"],
     },
