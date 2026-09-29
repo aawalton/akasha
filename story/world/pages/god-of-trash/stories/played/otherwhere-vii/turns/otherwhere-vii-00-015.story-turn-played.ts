@@ -4,10 +4,13 @@ export const otherwhereVii00015 = {
   id: "01a0eb30-d679-7c34-ae2b-8044ebacf20b",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vii-00-015",
+  ownLength: 335,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vii"],
   position: 15,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-vii-nala", "character-other/otherwhere-vii-joan-reeve"],
+  stepStatus: "step-status/reviewers",
   action: "I go and get the buckets, then work to fill the water butt from the well.",
   beats: [
     "Nala takes up the two wooden buckets by their rope handles and sets off across the yard.",
@@ -29,6 +32,10 @@ export const otherwhereVii00015 = {
     "Another, a stout woman with a yoke on her shoulders, looks at Nala's bleeding palms.",
     '"Whose runaway are you, then, that can\'t carry water?" she says, loud enough for the green.',
   ],
-  lore: ["place/otherwhere-vii-ashford"],
+  lore: [
+    "lore/otherwhere-vii-joan-reeve",
+    "lore/otherwhere-vii-nala",
+    "place/otherwhere-vii-ashford",
+  ],
   endsAt: "2026-09-28T12:42:00.000Z",
 } as const satisfies StoryTurnPlayed
