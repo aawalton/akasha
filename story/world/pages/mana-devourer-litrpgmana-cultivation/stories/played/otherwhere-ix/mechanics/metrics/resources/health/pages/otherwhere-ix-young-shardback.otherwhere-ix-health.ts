@@ -5,7 +5,7 @@ export const otherwhereIxYoungShardback = {
   type: "page-type/otherwhere-ix-health",
   slug: "otherwhere-ix-young-shardback",
   character: "character-other/otherwhere-ix-young-shardback",
-  value: 60,
+  value: 0,
   minValue: 0,
   maxValue: 90,
   history: "jsonl",
