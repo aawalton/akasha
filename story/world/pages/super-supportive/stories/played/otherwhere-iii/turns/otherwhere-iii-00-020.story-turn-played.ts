@@ -32,6 +32,7 @@ export const otherwhereIii00020 = {
     "The sigil stays on the little screen, silver, fixed.",
     "Across the lobby, behind the desk, Gorgon has turned his head from the monitors toward her.",
   ],
+  issues: ['"This network makes no contract of silence" - Plain Negation'],
   lore: [
     "lore/otherwhere-iii-nala",
     "lore/otherwhere-iii-the-system",
@@ -40,5 +41,6 @@ export const otherwhereIii00020 = {
     "lore/super-supportive-gorgon",
     "place/super-supportive-artonan-consulate-4",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2037-01-31T09:53:00.000Z",
 } as const satisfies StoryTurnPlayed
