@@ -8,6 +8,7 @@
 {"propertySlug":"extends-type","path":"story/world/pages/sovereign-sight-progression-fantasy-cultivation/stories/played/overwhere-ii/mechanics/talents/overwhere-ii-talent.page-type.ts","id":"01a0ed17-fe33-7511-a427-5770eb83aeb1"}
 {"propertySlug":"extends-type","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/mechanics/skills/overwhere-iv-skill.page-type.ts","id":"01a0ed1b-1aec-7cc5-b168-ec7265608cd4"}
 {"propertySlug":"extends-type","path":"story/world/pages/the-calamitous-bob-stubbed/stories/played/otherwhere-xi/mechanics/skills/otherwhere-xi-skill.page-type.ts","id":"01a0ea89-63a0-744f-92a5-d9a28e0213bc"}
+{"propertySlug":"extends-type","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/mechanics/skills/overwhere-iii-skill.page-type.ts","id":"01a0ed2d-2c5c-78f6-9786-69d8cab391e1"}
 {"propertySlug":"extends-type","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/skills/otherwhere-x-skill.page-type.ts","id":"01a0ea7c-4060-75df-b0ed-90f543ecfc55"}
 {"propertySlug":"extends-type","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/stories/played/otherwhere-vi/mechanics/skills/otherwhere-vi-skill.page-type.ts","id":"01a0ea48-4645-7d63-81db-5102c878728b"}
 {"propertySlug":"import","fileName":"world-skill.page-type.ts","path":"command/modules/mechanic-defining/mechanic-defining.module.test.ts","typed":false,"deferred":false}
@@ -101,6 +102,7 @@
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/skills/otherwhere-xi-soul-mastery.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/stories/played/otherwhere-xi/mechanics/skills/otherwhere-xi-skill.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/mechanics/skills/overwhere-iii-current-lash.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/mechanics/skills/overwhere-iii-skill.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/skills/a-bottle-a-day-ink.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/skills/a-bullet-a-day-armor-piercing-round.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/skills/a-crack-in-morality.world-skill.ts","typed":true,"deferred":false}
@@ -4674,6 +4676,7 @@
 {"propertySlug":"target-page-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/properties/tower-skill-skill.relation-property.ts","id":"01a0de38-6904-7a1f-9e70-06ff4082bec7"}
 {"propertySlug":"target-page-type","path":"story/world/pages/sovereign-sight-progression-fantasy-cultivation/stories/played/overwhere-ii/mechanics/talents/properties/overwhere-ii-talent-talent.relation-property.ts","id":"01a0ed17-fe34-75a5-8698-7d4cd0cb3b11"}
 {"propertySlug":"target-page-type","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/mechanics/skills/properties/overwhere-iv-skill-skill.relation-property.ts","id":"01a0ed1b-1aed-7b74-b179-e2621c08ec11"}
+{"propertySlug":"target-page-type","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/mechanics/skills/properties/overwhere-iii-skill-skill.relation-property.ts","id":"01a0ed2d-2c5e-7d1d-9915-41c2d22b35db"}
 {"propertySlug":"target-page-type","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/skills/properties/otherwhere-x-skill-skill.relation-property.ts","id":"01a0ea7c-4061-7085-b1bc-114083b0a4fe"}
 {"propertySlug":"view-page-type","path":"page/view/pages/skills-alphabetical.view.ts","id":"01a0c954-1289-70ab-9473-94b0ce50f4b5"}
 {"propertySlug":"view-page-type","path":"page/view/pages/skills-most-seen.view.ts","id":"01a0c954-126b-7843-9cc6-4caf0b3729bb"}

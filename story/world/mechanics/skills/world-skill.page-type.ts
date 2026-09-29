@@ -20,6 +20,7 @@ export const worldSkill = {
     "page-type/overwhere-i-skill",
     "page-type/overwhere-ii-talent",
     "page-type/overwhere-iv-skill",
+    "page-type/overwhere-iii-skill",
     "number-property/skill-mana-cost",
     "number-property/skill-duration-minutes",
   ],
