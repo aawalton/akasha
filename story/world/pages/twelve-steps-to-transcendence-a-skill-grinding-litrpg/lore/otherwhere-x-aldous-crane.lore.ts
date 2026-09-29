@@ -68,5 +68,21 @@ export const otherwhereXAldousCrane = {
       fact: "Aldous will not shame a stranger before the green; he settles hard things indoors.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Aldous's house is one warm room: a hearth, a supper board, an iron-bound chest in the corner.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
+    },
+    {
+      fact: "Aldous held his door open for Nala as the dusk bell by it rang slow and heavy over the green.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
+    },
   ],
 } as const satisfies Lore

@@ -32,10 +32,7 @@ export const otherwhereXHarrow = {
       fact: "A lone stranger from nowhere, too calm, makes Harrow folk whisper of skinwalkers.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Harrow's reeve is Aldous Crane.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+    { fact: "Harrow's reeve is Aldous Crane.", knowers: ["lore-disclosure/game-master"] },
     {
       fact: "Aldous's son Hob, ten, herds the village geese, talks without stopping and fears nothing.",
       knowers: ["lore-disclosure/game-master"],
@@ -200,7 +197,6 @@ export const otherwhereXHarrow = {
       fact: "Hob must pen the geese in the fold behind the Sheaf before he may go home.",
       knowers: ["lore-disclosure/game-master"],
     },
-
     {
       fact: "Bess will not turn a barefoot woman away hungry, whatever Aldous thinks of her.",
       knowers: ["lore-disclosure/game-master"],
@@ -209,7 +205,6 @@ export const otherwhereXHarrow = {
       fact: "Nala is a rare name; in Harrow it was Nala Pike's alone, and every older soul remembers it.",
       knowers: ["lore-disclosure/game-master"],
     },
-
     {
       fact: "Harrow loves a new tale or song; winter evenings are long and the same stories worn thin.",
       knowers: ["lore-disclosure/game-master"],
@@ -222,7 +217,6 @@ export const otherwhereXHarrow = {
       fact: "The Sheaf supper wants a singer; the fiddler who played it last year died in the spring.",
       knowers: ["lore-disclosure/game-master"],
     },
-
     {
       fact: "Bess came from Wexley to wed Aldous twenty years ago and never saw Nala Pike.",
       knowers: ["lore-disclosure/game-master"],
@@ -306,6 +300,46 @@ export const otherwhereXHarrow = {
     {
       fact: "Aldous silenced the stout woman with a raised hand, without looking round.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "Nala told the Cranes she comes from a land with no reeves or tallies and roads of liquid stone.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
+    },
+    {
+      fact: "Aldous let Hob pepper Nala with questions, his eyes on her face the whole time.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
+    },
+    {
+      fact: "Harrow folk came out of their doorways to stand and watch Nala at the reeve's step.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
+    },
+    {
+      fact: "The stout woman at the Cranes' tore the heel off the loaf and pushed it into Nala's hands.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
+    },
+    {
+      fact: "Aldous bade Nala in off the step, saying what came next wasn't for the green.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
     },
   ],
   exits: [
