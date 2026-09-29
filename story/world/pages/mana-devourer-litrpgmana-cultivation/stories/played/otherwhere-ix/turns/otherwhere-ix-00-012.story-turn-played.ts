@@ -29,5 +29,6 @@ export const otherwhereIx00012 = {
     "Something is moving through it, low down and a long way off, toward the smell of the kill.",
   ],
   lore: ["lore/otherwhere-ix-nala", "lore/otherwhere-ix-shardback", "lore/otherwhere-ix-survival"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T15:50:00.000Z",
 } as const satisfies StoryTurnPlayed
