@@ -47,21 +47,10 @@ export const otherwhereXHarrow = {
     },
 
     {
-      fact: "Old Nan Ashby, Harrow's herbwife, is near blind, sharp of mind, and tends every hurt.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
       fact: "Old folk who knew Nala Pike see her face in the stranger, and it frightens them.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Pell Hollis keeps the mill on Harrow Brook and carts barley to Wexley market each fifth day.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Pell is shrewd and friendly, buys anything odd, and gossips at every market.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "A farm hand's day in Harrow pays three copper and a meal.",
       knowers: ["lore-disclosure/game-master"],
@@ -103,10 +92,6 @@ export const otherwhereXHarrow = {
       knowers: ["lore-disclosure/game-master"],
     },
 
-    {
-      fact: "On day one's evening Old Nan sits by her door on the green, shelling beans.",
-      knowers: ["lore-disclosure/game-master"],
-    },
     {
       fact: "The dusk bell on day one rings at twenty to seven.",
       knowers: ["lore-disclosure/game-master"],
@@ -159,10 +144,7 @@ export const otherwhereXHarrow = {
       fact: "Bess came from Wexley to wed Aldous twenty years ago and never saw Nala Pike.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Old Nan on the green is too blind to make out a face at dusk; nobody else there knew Nala Pike.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "The goose boy is Hob, son of Aldous Crane, Harrow's reeve.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
