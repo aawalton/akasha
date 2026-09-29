@@ -16,6 +16,10 @@ export const superSupportiveEsh = {
       fact: "Esh-erdi is not on Earth now; he is off-world, beyond a consulate's easy reach.",
       knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
     },
+    {
+      fact: "He and Lind-otta come to Earth later this year, to back up the demon fight at Matadero.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
