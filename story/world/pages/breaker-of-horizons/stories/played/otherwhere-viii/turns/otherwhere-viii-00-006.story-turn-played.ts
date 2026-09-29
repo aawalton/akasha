@@ -10,7 +10,7 @@ export const otherwhereViii00006 = {
   position: 6,
   prose: "txt",
   characters: ["character-player/otherwhere-viii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I work my way up to the Institute. I hiked mountains for fun, so the hill doesn't scare me. I just pace myself, matching the length of my stride to the steepness to keep a steady level of effort as I go up the hill.",
   beats: [
@@ -45,6 +45,6 @@ export const otherwhereViii00006 = {
     "The sun is up now; the street is empty but for the bakery smell, and nobody is at the gate.",
   ],
   lore: ["place/otherwhere-viii-guildhall", "lore/otherwhere-viii-aiesta"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T06:35:00.000Z",
 } as const satisfies StoryTurnPlayed
