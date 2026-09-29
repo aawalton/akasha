@@ -39,11 +39,17 @@ export const otherwhereVii00011 = {
     "She talks with Joan about Bet: comfrey and yarrow to steep, and the fever watched through the night.",
     "Then she picks up her basket, and from the doorway asks Nala where she comes from, and whose she is.",
   ],
+  issues: [
+    '"You drop nothing" - Plain Negation',
+    '"He says nothing of the count, and nothing of the stick" - Plain Negation',
+    '"Say nothing" - Plain Negation',
+  ],
   lore: [
     "place/otherwhere-vii-ashford",
     "lore/otherwhere-vii-aldo-reeve",
     "lore/otherwhere-vii-nala",
     "lore/otherwhere-vii-hild",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T12:10:00.000Z",
 } as const satisfies StoryTurnPlayed
