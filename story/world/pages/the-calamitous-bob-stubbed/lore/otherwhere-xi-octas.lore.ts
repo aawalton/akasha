@@ -89,6 +89,18 @@ export const otherwhereXiOctas = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Octas's champion Many-Legs, a house-sized spider without name or speech, was her vessel.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Many-Legs spoke in mental images, and died with Octas's avatar at the Cradle.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Octas's sniper spiders teleport and fire divine stingers through shields.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "After Neriad beheaded her incarnate form, Octas fled limping into the in-between.",
       knowers: ["lore-disclosure/game-master"],
     },
