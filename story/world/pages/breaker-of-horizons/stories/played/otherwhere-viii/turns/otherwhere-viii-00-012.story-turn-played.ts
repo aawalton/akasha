@@ -10,7 +10,7 @@ export const otherwhereViii00012 = {
   position: 12,
   prose: "txt",
   characters: ["character-player/otherwhere-viii-nala", "character-other/otherwhere-viii-hallick"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I follow the Master back down and get to work.",
   beats: [
     "Nala goes straight after the master, down the narrow back stair behind the tool racks.",
@@ -39,11 +39,15 @@ export const otherwhereViii00012 = {
     'Then she says her name is Tessa, and asks Nala where she\'s from. "Not round here, are you?"',
     "Tessa waits, rag in hand, bright and curious, for the answer.",
   ],
+  issues: [
+    '"The grinding wheels along the east wall are still quiet" - last chapter ended with a wheel turning',
+    '"at six long benches, four to a bench" - the workshop has twelve apprentices this term, not 24',
+  ],
   lore: [
     "lore/otherwhere-viii-nala",
     "place/otherwhere-viii-the-workshop",
     "place/otherwhere-viii-the-workshop-room",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T09:40:00.000Z",
 } as const satisfies StoryTurnPlayed
