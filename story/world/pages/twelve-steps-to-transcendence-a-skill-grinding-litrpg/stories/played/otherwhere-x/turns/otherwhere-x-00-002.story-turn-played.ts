@@ -4,6 +4,7 @@ export const otherwhereX00002 = {
   id: "01a0ea79-9cbf-77c6-ad59-4c63769617da",
   type: "page-type/story-turn-played",
   slug: "otherwhere-x-00-002",
+  cover: "image/image-afab096822754f0f",
   ownLength: 476,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-x"],
@@ -42,6 +43,6 @@ export const otherwhereX00002 = {
     "lore/otherwhere-x-language",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T18:02:00.000Z",
 } as const satisfies StoryTurnPlayed
