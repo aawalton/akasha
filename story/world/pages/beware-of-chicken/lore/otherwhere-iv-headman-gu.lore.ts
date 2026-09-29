@@ -47,5 +47,21 @@ export const otherwhereIvHeadmanGu = {
         "character-other/otherwhere-iv-zhao-jun",
       ],
     },
+    {
+      fact: "Zhao Jun told the headman everything, even the parts he did not want to.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-iv-zhao-jun",
+        "character-player/otherwhere-iv-nala",
+      ],
+    },
+    {
+      fact: "Headman Gu said the hunt may go, and he will speak of shares.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-iv-zhao-jun",
+        "character-player/otherwhere-iv-nala",
+      ],
+    },
   ],
 } as const satisfies Lore

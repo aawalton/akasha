@@ -27,5 +27,13 @@ export const otherwhereIvTieBo = {
       fact: "At night by the shrine, Tie Bo asked Nala to come with him to Granny Hua's door in the morning.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
+    {
+      fact: "Tie Bo said he would ask Granny Hua for the poison at first light.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-iv-tie-bo",
+        "character-player/otherwhere-iv-nala",
+      ],
+    },
   ],
 } as const satisfies Lore

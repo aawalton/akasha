@@ -41,7 +41,11 @@ export const otherwhereIvBoarHunt = {
     },
     {
       fact: "He fears the great boar is his brother's killer grown into something no spear was made for.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-tie-bo",
+      ],
     },
     {
       fact: "He would watch the broken wall from dusk, downwind, with a line of sharpened stakes before it.",
@@ -101,7 +105,11 @@ export const otherwhereIvBoarHunt = {
     },
     {
       fact: "Tie Bo would take poison if offered, and would soak the stakes and the bait with it.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-tie-bo",
+      ],
     },
     {
       fact: "He would kill a goat or a duck to bait the wallow, though the village has few to spare.",
@@ -134,6 +142,14 @@ export const otherwhereIvBoarHunt = {
     {
       fact: "Tie Bo's bow is of mulberry wood, good against deer and no use against a hide like this one.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
+    {
+      fact: "Tie Bo would go up after the boar with a spear and no plan at all, if that were all he had.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-iv-tie-bo",
+        "character-player/otherwhere-iv-nala",
+      ],
     },
   ],
 } as const satisfies Lore

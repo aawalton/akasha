@@ -9,7 +9,7 @@ export const otherwhereIvGrannyHua = {
   facts: [
     {
       fact: "Granny Hua's house is the last in the village's west lane, thatched, with a herb garden and racks.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
     {
       fact: "Her garden holds aconite, hemp, mugwort, mint, angelica, and a dozen common simples besides.",
@@ -62,6 +62,18 @@ export const otherwhereIvGrannyHua = {
     {
       fact: "She rises before dawn, works in the garden, and opens her door to the village about mid-morning.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Granny Hua will not take a crowd's word about a spirit, nor Tie Bo's either.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-tie-bo",
+      ],
+    },
+    {
+      fact: "Granny Hua is small and square-shouldered, with grey hair knotted at the back of her head.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
   ],
   secrets: "jsonl",

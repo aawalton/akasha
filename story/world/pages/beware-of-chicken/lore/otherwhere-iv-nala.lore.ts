@@ -138,11 +138,27 @@ export const otherwhereIvNala = {
     },
     {
       fact: "She urged poisoning the stakes and the heads of the spears, and said she would pray for Tie Bo.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-tie-bo",
+      ],
     },
     {
       fact: "She promised Tie Bo she would come with him to Granny Hua's door in the morning.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-tie-bo",
+      ],
+    },
+    {
+      fact: "Every soul in Three Stones has an opinion about Nala already.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-tie-bo",
+      ],
     },
   ],
 } as const satisfies Lore

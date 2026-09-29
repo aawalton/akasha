@@ -33,7 +33,11 @@ export const otherwhereIvSpiritBeastTales = {
     },
     {
       fact: "Tales warn that a poisoned bait kills the village dogs and no spirit beast.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-iv-tie-bo",
+        "character-player/otherwhere-iv-nala",
+      ],
     },
     {
       fact: "Folk say a wounded spirit beast becomes a terror, and hunts whoever cut it.",
