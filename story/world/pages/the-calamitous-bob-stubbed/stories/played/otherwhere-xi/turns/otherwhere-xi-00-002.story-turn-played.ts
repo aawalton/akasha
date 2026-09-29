@@ -4,13 +4,14 @@ export const otherwhereXi00002 = {
   id: "01a0ea7a-9cfb-7649-8a8b-9a8428deaf3e",
   type: "page-type/story-turn-played",
   slug: "otherwhere-xi-00-002",
+  cover: "image/image-5ece7998855b31cd",
   ownLength: 444,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-xi"],
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-xi-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I start walking towards the houses, looking for people.",
   beats: [
     "Nala leaves the ring by the road side, past a ninth stone lying fallen outward in the grass.",
@@ -41,6 +42,6 @@ export const otherwhereXi00002 = {
     "place/otherwhere-xi-wether-hills",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T06:20:00.000Z",
 } as const satisfies StoryTurnPlayed
