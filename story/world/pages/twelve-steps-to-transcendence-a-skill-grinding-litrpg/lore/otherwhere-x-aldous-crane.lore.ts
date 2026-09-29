@@ -169,5 +169,13 @@ export const otherwhereXAldousCrane = {
         "world-character/otherwhere-x-aldous-crane",
       ],
     },
+    {
+      fact: "Aldous tells a held stranger plainly that she is held, and why, before any door is barred.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldous asks a held stranger nothing more the first night; the questions wait for the soldiers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

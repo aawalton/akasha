@@ -36,6 +36,14 @@ export const otherwhereXHarrowGreen = {
       fact: "Someone sings at the supper, and the rest of the year is judged by how that goes.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "On day one's night the sky over the green is clear and cold, with a half moon over the downs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "After a stir at the Sheaf, drinkers linger on the green in knots, watching the reeve's door.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   exits: [
     {
