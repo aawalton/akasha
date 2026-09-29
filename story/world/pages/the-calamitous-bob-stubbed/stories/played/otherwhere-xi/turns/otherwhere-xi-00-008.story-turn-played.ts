@@ -4,10 +4,13 @@ export const otherwhereXi00008 = {
   id: "01a0eaf6-1e39-767b-af39-11d3bddd4eab",
   type: "page-type/story-turn-played",
   slug: "otherwhere-xi-00-008",
+  ownLength: 308,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-xi"],
   position: 8,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-xi-nala", "world-character/otherwhere-xi-wenna-ashlar"],
+  stepStatus: "step-status/reviewers",
   action:
     "\"I'll gladly work, but I'll warn you, today is the first time I've seen a sheep close enough to touch one. You'll need to teach me what to do.\"",
   beats: [
@@ -32,6 +35,10 @@ export const otherwhereXi00008 = {
     '"One lamb," she says, hands in the fleece, feeling. "It\'s turned." She does not look up.',
     "The yard has gone quiet. The girls stand still by the woodpile and watch.",
   ],
-  lore: ["lore/otherwhere-xi-wenna-ashlar", "place/otherwhere-xi-ashlar-farm"],
+  lore: [
+    "lore/otherwhere-xi-nala",
+    "lore/otherwhere-xi-wenna-ashlar",
+    "place/otherwhere-xi-ashlar-farm",
+  ],
   endsAt: "2026-09-28T08:49:00.000Z",
 } as const satisfies StoryTurnPlayed
