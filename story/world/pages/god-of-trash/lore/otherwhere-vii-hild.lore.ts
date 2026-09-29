@@ -73,6 +73,26 @@ export const otherwhereViiHild = {
       fact: "Hild would tell a kinless woman plainly that she needs a place, and that Ashford could be one.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Hild's good comfrey and yarrow grow in the wet ground half a mile north, toward Hobb's Wood.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hild pays a quarter-penny a bunch for herbs, or sets a penny against a pot of her grease.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hild's word once given settles a stranger with Joan and Aldo, and then with the village.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hild would keep her peace about a stranger she doubts, and would say so to no one but Joan.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hild counts a woman's staying as her payment: she teaches her simples only to one who stays.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
