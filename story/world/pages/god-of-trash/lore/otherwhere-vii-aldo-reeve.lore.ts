@@ -61,6 +61,54 @@ export const otherwhereViiAldoReeve = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "On an Ashford tally a deep notch is ten sacks and a shallow notch is one sack.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-other/otherwhere-vii-gammer-wyn",
+      ],
+    },
+    {
+      fact: "A notch crossed with a slanted cut is a sack the steward took as tithe, out of the count.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-other/otherwhere-vii-gammer-wyn",
+      ],
+    },
+    {
+      fact: "Last year's barley stick has 7 deep notches, 4 shallow and 9 crossed.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
+    },
+    {
+      fact: "The stick's true count: 74 sacks threshed, 9 taken as tithe, 65 left to Ashford.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
+    },
+    {
+      fact: "A tenth of 74 sacks is 7 and a half; the steward's 9 is a sack and a half too many.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldo has never set the crossed notches against the tenth; he can't reckon a tenth of 74.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The stick holds seven deep notches, four shallow ones, and nine more each crossed by a cut.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+      ],
+    },
+    {
+      fact: "The deep notches are grouped at the stick's thick end, the crossed ones last at the thin end.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+      ],
+    },
+    {
       fact: "Aldo Reeve is Ashford's headman, and his farm is the big thatch past the green.",
       knowers: [
         "lore-disclosure/game-master",
