@@ -68,5 +68,13 @@ export const overwhereIiiNala = {
       fact: "Nala woke at the Wrenwood crossroads shrine in the late afternoon of day one.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala can read this world's letters, never seen before, as easily as a street sign at home.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "Nala sees faint threads in the air that lean toward her hand and feel like hers.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore

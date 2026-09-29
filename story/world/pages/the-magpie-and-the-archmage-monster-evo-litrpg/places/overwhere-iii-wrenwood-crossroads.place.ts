@@ -31,5 +31,9 @@ export const overwhereIiiWrenwoodCrossroads = {
       fact: "Corrupted beasts sometimes come out of the deep wood, and the town posts a bounty on them.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The beeches at the crossroads are turning gold.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Place
