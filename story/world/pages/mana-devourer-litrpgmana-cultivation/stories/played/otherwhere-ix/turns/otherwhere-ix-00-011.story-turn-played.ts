@@ -32,7 +32,15 @@ export const otherwhereIx00011 = {
   issues: [
     '"The sun stands low in the west, and the heat has gone out of the air" - 15:45, hours before dusk',
   ],
-  lore: ["lore/otherwhere-ix-nala", "lore/otherwhere-ix-stat-points"],
+  lore: [
+    "lore/otherwhere-ix-beast-cores",
+    "lore/otherwhere-ix-nala",
+    "lore/otherwhere-ix-stat-points",
+    "lore/otherwhere-ix-survival",
+    "place/otherwhere-ix-glassgrass-flats",
+    "place/otherwhere-ix-tinleaf-seep",
+  ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-28T15:45:00.000Z",
 } as const satisfies StoryTurnPlayed

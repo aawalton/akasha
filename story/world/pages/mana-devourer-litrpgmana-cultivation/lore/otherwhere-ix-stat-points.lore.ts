@@ -30,7 +30,7 @@ export const otherwhereIxStatPoints = {
     },
     {
       fact: "Spending a point takes hold at once and is felt in the body.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "Regular points can go into Strength, Agility, Arcana, Constitution or Spirit.",

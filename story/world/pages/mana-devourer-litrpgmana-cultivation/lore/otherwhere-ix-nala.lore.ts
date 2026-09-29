@@ -202,19 +202,30 @@ export const otherwhereIxNala = {
     },
     {
       fact: "Raised Constitution does not close her wounds; it leaves her far more to lose.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "Her new Constitution also lifts most mana from 344 to 392, and she is full at 392.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
-
     {
       fact: "After the kill Nala's status reads Class: Otherworlder (Earth) (Tier: Novice 4).",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "Nala's attributes now: Strength 8, Agility 12, Arcana 8, Constitution 36, Spirit 16.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "Rising Constitution stopped the shaking in her arms, and her legs hold her, sore but solid.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "Nala's forearm under her own hand feels ropy and hard.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "Nala has no water and no food.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
   ],
