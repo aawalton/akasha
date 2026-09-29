@@ -15,7 +15,7 @@ export const otherwhereXi00005 = {
     "world-character/otherwhere-xi-wenna-ashlar",
     "world-character/otherwhere-xi-smoke",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: '"Would you take me to talk to your Mam?"',
   beats: [
     'Nala asks, "Would you take me to talk to your Mam?"',
@@ -27,7 +27,7 @@ export const otherwhereXi00005 = {
     'He asks her things and answers them himself: "You\'ve got sheep in Param? You must. Everyone does."',
     "Lower down the grass strip thins; road stones bite her soles, and her feet begin to throb.",
     "The sun climbs, and the wet knees of her tights start to steam.",
-    "Nearly an hour on, they reach a low stone house dug half into the slope, with a blue-painted door.",
+    "Barefoot, she is slow; the better part of an hour on, they reach a low stone house with a blue door.",
     "A pen of hurdles along the yard wall is loud with ewes and new lambs.",
     "Two small girls feeding hens in the yard stop dead and stare at her, mouths open.",
     "The blue door opens, and a tall, rawboned woman steps out with a stick in her hand.",
