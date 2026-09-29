@@ -14,7 +14,7 @@ export const otherwhereIii00021 = {
     "character-other/super-supportive-gorgon",
     "character-other/otherwhere-iii-onn-desveth",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     'While I wait for the Artonan staff to arrive, I tell Gorgon. "Thank you. If I someday have the power, I will help you if I can."',
   beats: [
@@ -43,6 +43,6 @@ export const otherwhereIii00021 = {
     "lore/otherwhere-iii-onn-desveth",
     "lore/super-supportive-gorgon",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2037-01-31T10:31:00.000Z",
 } as const satisfies StoryTurnPlayed
