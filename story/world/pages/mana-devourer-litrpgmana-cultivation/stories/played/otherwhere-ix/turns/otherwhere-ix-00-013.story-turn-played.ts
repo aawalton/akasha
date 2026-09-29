@@ -10,7 +10,7 @@ export const otherwhereIx00013 = {
   position: 13,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I check the quills of the beast I killed, to see if I can use them as weapons more safely than the grass.",
   beats: [
@@ -31,6 +31,6 @@ export const otherwhereIx00013 = {
     "Its back rises above the grass, bristling pale, and it is bigger than the one at her knees.",
   ],
   lore: ["lore/otherwhere-ix-nala", "lore/otherwhere-ix-shardback"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T15:55:00.000Z",
 } as const satisfies StoryTurnPlayed
