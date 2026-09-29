@@ -10,7 +10,7 @@ export const otherwhereX00006 = {
   position: 6,
   prose: "txt",
   characters: ["character-player/otherwhere-x-nala", "world-character/otherwhere-x-aldous-crane"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     '"I take it the bell is to invite more to come and listen? While we wait, could you tell me more about your country? I love collecting stories, so I would learn yours as well if I may."',
   beats: [
@@ -26,7 +26,6 @@ export const otherwhereX00006 = {
     "\"I've been to Wexley more times than I can count. Aldermere once. Never the capital. That's Sulon.\"",
     'He shifts his hand on the door. "Now one of mine, since you like a trade."',
     '"How does a woman come to be on Harrow Mile at dusk, barefoot, no token, no road behind her?"',
-    "He waits, the door still open and the room's warmth spilling out past him onto the step.",
   ],
   issues: [
     '"The door stands open beside him, and the warmth of the room spills out" - Leave It Open',
