@@ -9,7 +9,11 @@ export const otherwhereVii00015 = {
   partOfCollections: ["story-played/otherwhere-vii"],
   position: 15,
   prose: "txt",
-  characters: ["character-player/otherwhere-vii-nala", "character-other/otherwhere-vii-joan-reeve"],
+  characters: [
+    "character-player/otherwhere-vii-nala",
+    "character-other/otherwhere-vii-joan-reeve",
+    "character-other/otherwhere-vii-agnes-hobb",
+  ],
   stepStatus: "step-status/recorders",
   action: "I go and get the buckets, then work to fill the water butt from the well.",
   beats: [
