@@ -24,6 +24,10 @@ export const otherwhereVii00014 = {
     "Then she nods at the two wooden buckets by the door, and at the water butt, half empty.",
     '"Butt wants filling before the men come in thirsty. Two buckets, to the well and back."',
   ],
-  lore: ["lore/otherwhere-vii-hild"],
+  lore: [
+    "lore/otherwhere-vii-hild",
+    "lore/otherwhere-vii-joan-reeve",
+    "place/otherwhere-vii-ashford",
+  ],
   endsAt: "2026-09-28T12:27:00.000Z",
 } as const satisfies StoryTurnPlayed
