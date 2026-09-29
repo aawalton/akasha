@@ -82,6 +82,10 @@ export const otherwhereIvUpstreamWoods = {
       fact: "Smoke can drive him off a wallow for a night, but not kill him, and he would remember it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "He is ravenous for Qi, and the young rice grown near the willow holds a trace of it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
