@@ -3,6 +3,8 @@ import {
   added,
   settled,
 } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/checks/otherwhere-x-suspicion.world-check.settling.code.ts"
+import { otherwhereXSuspicion } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/metrics/attributes/suspicion/otherwhere-x-suspicion.page-type.ts"
+import { otherwhereXNala } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/metrics/attributes/suspicion/pages/otherwhere-x-nala.otherwhere-x-suspicion.ts"
 
 const NALA = { character: "otherwhere-x-nala" }
 
@@ -63,6 +65,6 @@ test("the change is added to her suspicion page", () => {
   const reading = { ...NALA, suspicion: 0, marks: { noToken: true } }
   const answered = settled(reading)
   expect(added(reading, "answered" in answered ? answered.answered : null)).toEqual([
-    { page: "otherwhere-x-suspicion/otherwhere-x-nala", key: "value", by: 2 },
+    { page: `${otherwhereXSuspicion.slug}/${otherwhereXNala.slug}`, key: "value", by: 2 },
   ])
 })

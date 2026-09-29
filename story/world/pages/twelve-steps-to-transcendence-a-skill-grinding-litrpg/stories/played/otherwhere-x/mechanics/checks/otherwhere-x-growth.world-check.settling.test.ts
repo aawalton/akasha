@@ -4,6 +4,8 @@ import {
   levelCost,
   settled,
 } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/checks/otherwhere-x-growth.world-check.settling.code.ts"
+import { otherwhereXEssence } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/metrics/resources/essence/otherwhere-x-essence.page-type.ts"
+import { otherwhereXNala } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/metrics/resources/essence/pages/otherwhere-x-nala.otherwhere-x-essence.ts"
 
 const NALA = { character: "otherwhere-x-nala", essence: 0, cycling: false }
 
@@ -125,7 +127,7 @@ test("essence gained is added to her essence page", () => {
   const reading = { ...NALA, cycling: true, tier: 0, kills: [{ tier: 1 }] }
   const answered = settled(reading)
   expect(added(reading, "answered" in answered ? answered.answered : null)).toEqual([
-    { page: "otherwhere-x-essence/otherwhere-x-nala", key: "value", by: 10 },
+    { page: `${otherwhereXEssence.slug}/${otherwhereXNala.slug}`, key: "value", by: 10 },
   ])
 })
 

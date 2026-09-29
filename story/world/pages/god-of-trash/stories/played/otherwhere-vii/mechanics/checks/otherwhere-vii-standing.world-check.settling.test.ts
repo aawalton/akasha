@@ -1,8 +1,10 @@
 import { expect, test } from "bun:test"
+import { worldRelationship } from "akasha/story/world/mechanics/relationships/world-relationship.page-type.ts"
 import {
   added,
   settled,
 } from "akasha/story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/checks/otherwhere-vii-standing.world-check.settling.code.ts"
+import { otherwhereViiEnnis } from "akasha/story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/relationships/otherwhere-vii-ennis.world-relationship.ts"
 
 const WITH_ENNIS = {
   character: "otherwhere-vii-ennis",
@@ -33,7 +35,11 @@ test("a mark above two is refused", () => {
 
 test("the change is added to the relationship page's points", () => {
   expect(added(WITH_ENNIS, { earned: 3, lost: 0, change: 3 })).toEqual([
-    { page: "world-relationship/otherwhere-vii-ennis", key: "relationshipPoints", by: 3 },
+    {
+      page: `${worldRelationship.slug}/${otherwhereViiEnnis.slug}`,
+      key: "relationshipPoints",
+      by: 3,
+    },
   ])
 })
 
