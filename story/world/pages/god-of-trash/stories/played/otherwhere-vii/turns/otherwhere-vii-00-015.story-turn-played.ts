@@ -10,7 +10,7 @@ export const otherwhereVii00015 = {
   position: 15,
   prose: "txt",
   characters: ["character-player/otherwhere-vii-nala", "character-other/otherwhere-vii-joan-reeve"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I go and get the buckets, then work to fill the water butt from the well.",
   beats: [
     "Nala takes up the two wooden buckets by their rope handles and sets off across the yard.",
@@ -38,6 +38,6 @@ export const otherwhereVii00015 = {
     "lore/otherwhere-vii-nala",
     "place/otherwhere-vii-ashford",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T12:42:00.000Z",
 } as const satisfies StoryTurnPlayed
