@@ -15,7 +15,7 @@ export const otherwhereVi00013 = {
     "character-other/otherwhere-vi-wat",
     "character-other/otherwhere-vi-burr",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     '"I\'m Nala, I\'m from very far away and not entirely sure how I got here, or where even "here" is. Could you help me get oriented?"',
   beats: [
@@ -24,7 +24,7 @@ export const otherwhereVi00013 = {
     "Jory lets her finish before he speaks; Wat turns his good ear towards her.",
     "Jory answers her politely, and does not ask her twice about far away.",
     "He tells her she is on the Carrow, which they call the Big Water, at the south edge of the Weald.",
-    "He reckons country by burns and ridges, not miles: a day up the stream to the fells.",
+    "He reckons by burns and ridges, not miles: the Weald runs days north of here, all pine and hill.",
     "West down the water lies Wenmarch, the town, and south across the river the Crown's country.",
     "North above the pines are the Bare Backs, and he says plainly that nothing lives up there.",
     "Wat puts in that the wolves hold the middle of the Weald, and nobody crosses it after dark.",
