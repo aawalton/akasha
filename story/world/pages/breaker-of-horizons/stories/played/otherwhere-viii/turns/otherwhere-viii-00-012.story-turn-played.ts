@@ -11,7 +11,7 @@ export const otherwhereViii00012 = {
   position: 12,
   prose: "txt",
   characters: ["character-player/otherwhere-viii-nala", "character-other/otherwhere-viii-hallick"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I follow the Master back down and get to work.",
   beats: [
     "Nala goes straight after the master, down the narrow back stair behind the tool racks.",
@@ -50,6 +50,6 @@ export const otherwhereViii00012 = {
     "place/otherwhere-viii-the-workshop-room",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
   endsAt: "2026-09-28T09:40:00.000Z",
 } as const satisfies StoryTurnPlayed
