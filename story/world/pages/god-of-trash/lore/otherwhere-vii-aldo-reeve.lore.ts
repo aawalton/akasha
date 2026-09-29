@@ -66,6 +66,8 @@ export const otherwhereViiAldoReeve = {
         "lore-disclosure/game-master",
         "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-aldo-reeve",
+        "character-other/otherwhere-vii-gammer-wyn",
+        "character-other/otherwhere-vii-tamsin",
       ],
     },
     {
@@ -104,7 +106,13 @@ export const otherwhereViiAldoReeve = {
     },
     {
       fact: "A tenth of 74 sacks is 7 and a half; the steward's 9 is a sack and a half too many.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-other/otherwhere-vii-gammer-wyn",
+        "character-other/otherwhere-vii-tamsin",
+      ],
     },
     {
       fact: "Aldo has never set the crossed notches against the tenth; he can't reckon a tenth of 74.",
@@ -132,7 +140,13 @@ export const otherwhereViiAldoReeve = {
     },
     {
       fact: "The steward said his scale found Ashford's sacks light, so nine sacks made the tenth; Aldo agreed.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-gammer-wyn",
+        "character-other/otherwhere-vii-tamsin",
+      ],
     },
     {
       fact: "Nobody in Ashford has ever heard of a museum.",
@@ -144,11 +158,23 @@ export const otherwhereViiAldoReeve = {
     },
     {
       fact: "Aldo would sooner catch the steward fair at this year's weighing than accuse him of last year's.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-other/otherwhere-vii-gammer-wyn",
+        "character-other/otherwhere-vii-tamsin",
+      ],
     },
     {
       fact: "Aldo would keep a reckoner on through the weighing for bed, board and ten pennies a day.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-other/otherwhere-vii-gammer-wyn",
+        "character-other/otherwhere-vii-tamsin",
+      ],
     },
     {
       fact: "Aldo tells Wyn and Tamsin to hold their tongues about the steward, and Tamsin may not.",
@@ -178,7 +204,13 @@ export const otherwhereViiAldoReeve = {
     },
     {
       fact: "Gammer Wyn swears the steward's scale has always been crooked, and has said so for years.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-other/otherwhere-vii-gammer-wyn",
+        "character-other/otherwhere-vii-tamsin",
+      ],
     },
     {
       fact: "This year's barley stick has 4 deep notches and 3 shallow: 43 sacks threshed so far.",
@@ -268,6 +300,8 @@ export const otherwhereViiAldoReeve = {
         "lore-disclosure/game-master",
         "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-aldo-reeve",
+        "character-other/otherwhere-vii-gammer-wyn",
+        "character-other/otherwhere-vii-tamsin",
       ],
     },
     {
@@ -280,6 +314,46 @@ export const otherwhereViiAldoReeve = {
     },
     {
       fact: "Last year's barley stick counts seventy-four sacks threshed, nine of them taken as tithe.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-other/otherwhere-vii-gammer-wyn",
+        "character-other/otherwhere-vii-tamsin",
+      ],
+    },
+    {
+      fact: "Aldo offered Nala bed, board and ten pennies a day to keep his count through the weighing.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-other/otherwhere-vii-gammer-wyn",
+        "character-other/otherwhere-vii-tamsin",
+      ],
+    },
+    {
+      fact: "Aldo told Wyn and Tamsin to say not a word about the steward's cheating.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-other/otherwhere-vii-gammer-wyn",
+        "character-other/otherwhere-vii-tamsin",
+      ],
+    },
+    {
+      fact: "Aldo made his mark under the steward's tithe without a word, because the steward's mage stood by.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-other/otherwhere-vii-gammer-wyn",
+        "character-other/otherwhere-vii-tamsin",
+      ],
+    },
+    {
+      fact: "Aldo said Joan would show Nala where she sleeps.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-vii-nala",

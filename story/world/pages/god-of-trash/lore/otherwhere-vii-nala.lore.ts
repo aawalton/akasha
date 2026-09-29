@@ -166,6 +166,16 @@ export const otherwhereViiNala = {
         "character-other/otherwhere-vii-tamsin",
       ],
     },
+    {
+      fact: "Nala told Aldo the steward cheated him, taking nine sacks where a tenth was seven and a half.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-other/otherwhere-vii-gammer-wyn",
+        "character-other/otherwhere-vii-tamsin",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

@@ -37,6 +37,6 @@ export const otherwhereVii00009 = {
   issues: ['"He stands with the stick in his fist" - Nala holds the stick at the end of turn 8'],
   lore: ["lore/otherwhere-vii-aldo-reeve"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-28T08:22:00.000Z",
 } as const satisfies StoryTurnPlayed
