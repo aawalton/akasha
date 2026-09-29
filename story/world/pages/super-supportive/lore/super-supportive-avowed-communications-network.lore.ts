@@ -20,6 +20,10 @@ export const superSupportiveAvowedCommunicationsNetwork = {
       fact: "It warns that prank calls will be penalized.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A caller gets a silver sigil on any phone held, even a rotary, and it cannot be deleted.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
