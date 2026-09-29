@@ -11,4 +11,5 @@ export const irisWriterOverwhereIi = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "9dc84ac5-a072-4106-b402-f8cee05cca0c",
 } as const satisfies Seat
