@@ -117,6 +117,18 @@ export const otherwhereXiInspection = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: 'A noble heir\'s box may read simply "[Heir of the Barony]".',
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Paths seen in boxes include Blockade Runner Captain, Bleak Hunter and Fang of the Elders.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: '"[Herald of Maranor. Fifth step of a unique path dedicated to order and might. Blade master…]"',
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Inspection shows no health unless the inspector's path involves healing.",
       knowers: ["lore-disclosure/game-master"],
     },
