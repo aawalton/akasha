@@ -203,5 +203,25 @@ export const otherwhereIvGuHousehold = {
       fact: "Two loud young brothers came to Gu's gate to see the spirit; Gu told them to wait for dusk.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
+    {
+      fact: "Gu would put any boar hunt under Tie Bo, never under the Fang brothers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Gu would give the Fangs torches and gongs as beaters, and keep the two old spears for steadier men.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Gu wants Zhao Jun to tell the headman's house the whole of the broken walls before any hunt.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The almanac marks the tenth day of the Month of the Snake as favorable for hunting and trapping.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Fang brothers take a spirit's praise as a promise, and will boast of it all over the village.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
