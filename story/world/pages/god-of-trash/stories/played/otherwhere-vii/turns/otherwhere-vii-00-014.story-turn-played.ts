@@ -10,4 +10,5 @@ export const otherwhereVii00014 = {
   stepStatus: "step-status/game-master",
   action: "I go immediately to work in the salve for the blisters from the pot.",
   lore: ["lore/otherwhere-vii-hild"],
+  endsAt: "2026-09-28T12:27:00.000Z",
 } as const satisfies StoryTurnPlayed
