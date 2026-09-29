@@ -11,7 +11,7 @@ export const otherwhereX00005 = {
   position: 5,
   prose: "txt",
   characters: ["character-player/otherwhere-x-nala", "world-character/otherwhere-x-aldous-crane"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     '"None of these. I am from a place so far away that there are no reeve\'s, no tallies, and the roads are made from liquid stone."',
   beats: [
@@ -34,6 +34,6 @@ export const otherwhereX00005 = {
   ],
   lore: ["lore/otherwhere-x-aldous-crane", "place/otherwhere-x-harrow"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
   endsAt: "2026-09-28T18:41:00.000Z",
 } as const satisfies StoryTurnPlayed
