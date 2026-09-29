@@ -136,6 +136,10 @@ export const otherwhereXiWaystoneShrine = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Grandmothers' tales tell of Maradoc's strays: lost folk found at waystones far from home.",
+      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+    },
+    {
       fact: "The Old Waystone is also called Maradoc's ring.",
       knowers: [
         "lore-disclosure/game-master",

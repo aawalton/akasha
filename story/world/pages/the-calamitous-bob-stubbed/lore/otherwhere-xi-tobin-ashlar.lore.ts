@@ -77,6 +77,26 @@ export const otherwhereXiTobinAshlar = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "To Tobin the Old Empire is Harrak, over the sea in Param, which fell to the dead long ago.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin has heard from Joss's news that a witch-queen now rules Harrak's dead lands.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin names his home as the Tavel valley in Asmirel, Prince Tavaris's land, two days above Imra.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin has never been past Imra; Param to him is a far land of pale foreigners and wars.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin has never heard of a waystone carrying anyone; to him they are shrines, not roads.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The shepherd boy on the hill road is named Tobin Ashlar.",
       knowers: [
         "lore-disclosure/game-master",
