@@ -261,6 +261,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-emki.lore.ts","id":"01a0ea80-8c28-7c1c-a293-4112c1df86cc"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-emlyg.lore.ts","id":"01a0ea80-8c28-7d9a-ad7e-d83fe85cc816"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-empire-of-dawn.lore.ts","id":"01a0ea85-7e1d-7d78-b13a-bbcfd8200af9"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-end-of-the-world.lore.ts","id":"01a0ea86-1103-724f-8c8e-89dbd76741ab"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-enoria.lore.ts","id":"01a0ea82-9a2e-79de-b32a-20a2c0b321d6"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-enorian-royalists.lore.ts","id":"01a0ea82-9a30-71bf-aad3-26b558a0e76a"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-enorian-separatists.lore.ts","id":"01a0ea82-9a31-78cb-ad39-d34c217ac11e"}
@@ -311,6 +312,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-hammer-of-old-ash.lore.ts","id":"01a0ea85-d3d6-74ed-aa06-28e1688f9fe8"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-harrakan-army.lore.ts","id":"01a0ea7e-1cb7-7dc9-b632-b32c62a29bcc"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-harrien.lore.ts","id":"01a0ea80-a39d-74ca-9554-328f023708f0"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-helock-academy.lore.ts","id":"01a0ea86-1104-7513-82e1-15dae8e5980a"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-helock-council.lore.ts","id":"01a0ea85-7e1f-71c8-883b-d42167d36114"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-hightree-company.lore.ts","id":"01a0ea7e-cc4a-795f-9039-b819ab84f318"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-hiram-of-the-thousand-blades.lore.ts","id":"01a0ea85-d3d6-7386-a368-e1c83126c6fc"}
@@ -514,6 +516,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-dark-blades.world-organization.ts","id":"01a0ea81-c317-7f73-85bf-d34d38bc7901"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-dark-gods.world-organization.ts","id":"01a0ea7e-e170-7fcd-bfe0-f5064fb42bea"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-empire-of-dawn.world-organization.ts","id":"01a0ea85-7e20-7c1b-81b2-97d57bc8e000"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-end-of-the-world.world-organization.ts","id":"01a0ea86-1105-7b37-8c51-b5f5480e15e9"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-enoria.world-organization.ts","id":"01a0ea82-9a31-72ff-abd8-dd860a781b5e"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-enorian-royalists.world-organization.ts","id":"01a0ea82-9a31-74fa-8e9d-759bf94048bf"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-enorian-separatists.world-organization.ts","id":"01a0ea82-9a31-7cc9-986d-cf529821ce6b"}
@@ -522,6 +525,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-golden-scale-bank.world-organization.ts","id":"01a0ea7f-99a1-7e4a-b749-b05b95a5fe84"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-halluria.world-organization.ts","id":"01a0ea84-a816-7f5b-a975-6e59aef6b0fc"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-harrakan-army.world-organization.ts","id":"01a0ea7e-1cbe-79ce-846b-76052addd543"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-helock-academy.world-organization.ts","id":"01a0ea86-1105-7c83-b043-15770abfe800"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-helock-council.world-organization.ts","id":"01a0ea85-7e20-7fa6-b901-cab6bcd36ded"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-hightree-company.world-organization.ts","id":"01a0ea7e-cc4b-7137-bfc8-9a6323f4d75b"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-inquisition-of-neriad.world-organization.ts","id":"01a0ea7f-9219-7a9b-b13c-d925e2a8c4de"}
