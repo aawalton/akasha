@@ -10,7 +10,7 @@ export const otherwhereIx00012 = {
   position: 12,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I test my durability against the glass to see if it still cuts my skin, then I do my best to drink the blood of the beast for water and nourishment.",
   beats: [
@@ -29,6 +29,6 @@ export const otherwhereIx00012 = {
     "Something is moving through it, low down and a long way off, toward the smell of the kill.",
   ],
   lore: ["lore/otherwhere-ix-nala", "lore/otherwhere-ix-shardback", "lore/otherwhere-ix-survival"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T15:50:00.000Z",
 } as const satisfies StoryTurnPlayed
