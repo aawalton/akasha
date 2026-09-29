@@ -253,6 +253,10 @@ export const otherwhereViHollowStream = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "A handful of cowberries barely dents hunger; a bellyful raw on an empty stomach brings cramps.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "An hour below the wallow, brambles on a sunny bend still hold the last soft blackberries.",
       knowers: ["lore-disclosure/game-master"],
     },
