@@ -10,7 +10,7 @@ export const otherwhereViiiLowBank = {
   facts: [
     {
       fact: "Low Bank's streets are brick and cobble, lit by old globelights on iron posts.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
     {
       fact: "Weir Street, Tanners Row and Spindle Lane are its main streets, all running down to the river.",
@@ -78,6 +78,10 @@ export const otherwhereViiiLowBank = {
     },
     {
       fact: "The police post on Weir Street has a booth that can reach anywhere.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
+    {
+      fact: "The Weir Street police post's sign reads POLICE, in an angular, curling script.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
   ],

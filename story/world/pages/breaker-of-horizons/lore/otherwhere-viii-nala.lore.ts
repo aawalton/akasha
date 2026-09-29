@@ -58,7 +58,7 @@ export const otherwhereViiiNala = {
     },
     {
       fact: "She understands and speaks the local tongue and reads its everyday script without knowing how.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
     {
       fact: "She knows no glyph, has never drawn arcana, and has no papers or records.",
@@ -83,6 +83,18 @@ export const otherwhereViiiNala = {
         "character-player/otherwhere-viii-nala",
         "character-other/otherwhere-viii-maddox",
       ],
+    },
+    {
+      fact: "Alan has hiked mountains for fun.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
+    {
+      fact: "Nala's body is lighter than Alan's and not as strong, and tires sooner than she expects.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
+    {
+      fact: "Nala cannot read the angular marks beside the words on the Institute's course board.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
   ],
   secrets: "jsonl",
