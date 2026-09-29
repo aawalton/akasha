@@ -4,13 +4,14 @@ export const otherwhereXi00008 = {
   id: "01a0eaf6-1e39-767b-af39-11d3bddd4eab",
   type: "page-type/story-turn-played",
   slug: "otherwhere-xi-00-008",
+  cover: "image/image-f181aface0388ac1",
   ownLength: 310,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-xi"],
   position: 8,
   prose: "txt",
   characters: ["character-player/otherwhere-xi-nala", "world-character/otherwhere-xi-wenna-ashlar"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "\"I'll gladly work, but I'll warn you, today is the first time I've seen a sheep close enough to touch one. You'll need to teach me what to do.\"",
   beats: [
@@ -45,6 +46,6 @@ export const otherwhereXi00008 = {
     "place/otherwhere-xi-ashlar-farm",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T08:49:00.000Z",
 } as const satisfies StoryTurnPlayed
