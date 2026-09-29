@@ -143,6 +143,7 @@
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-easterners.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-elementals.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-flesh-walker.world-species.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-forest-spider.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-golems.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-hadals.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-hallurians.world-species.ts","typed":true,"deferred":false}
@@ -153,10 +154,12 @@
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-necrarch.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-nemeti.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-northerners.world-species.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-noxite.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-paramese.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-remnants.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-revenant.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-shadowlanders.world-species.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-siege-tarantula.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-southern-tribes.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-vizimans.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-yries.world-species.ts","typed":true,"deferred":false}
