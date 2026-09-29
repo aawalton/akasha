@@ -49,6 +49,28 @@ export const pageLiteral = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The fault in a place a list holds no value at is worded here rather than by each caller.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That fault names how many values the list holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That fault names the values where the caller hands those values in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A value named that way is shortened to its first twenty characters, with runs of spaces made one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Whether a caller may hand those values in is the caller's to decide.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A key stating anything but text is left out of the text answered.",
     },
     {

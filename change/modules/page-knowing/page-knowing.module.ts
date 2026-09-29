@@ -142,5 +142,13 @@ export const pageKnowing = {
       statement:
         "What a record field holds is read from the page type of the property that field names.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Whether a page holds lore is read from the type that page states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page whose type cannot be read is taken to hold lore.",
+    },
   ],
 } as const satisfies Module

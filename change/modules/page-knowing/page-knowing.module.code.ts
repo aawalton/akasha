@@ -18,6 +18,8 @@ export type Read = { readonly known: Shaped; readonly value: Value } | { readonl
 
 const ID = "id"
 
+const LORE = "lore"
+
 export function pageIn(world: World, at: string): Value | null {
   const said = partedIn(at)
   if (said === null || said.sections.length > 0) return null
@@ -89,6 +91,16 @@ export function readFor(world: World, at: string): Read {
 export function typeIn(value: Value): string | null {
   const stated = textAt(value, "type")
   return stated === null ? null : slugOf(stated)
+}
+
+export function loreHeldIn(world: World, at: string): boolean {
+  try {
+    const value = pageIn(world, at)
+    const stated = value === null ? null : typeIn(value)
+    return stated === null || world.index.kindsUnder(LORE).has(stated)
+  } catch {
+    return true
+  }
 }
 
 export function declaresIn(world: World, value: Value, key: string): boolean | null {

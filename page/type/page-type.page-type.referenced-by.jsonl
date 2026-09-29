@@ -32,6 +32,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/agent/page-type/add-property-to-every-page/add-property-to-every-page.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/mechanical/file-content/change/change-page-page-property-relation/change-page-page-property-relation.change-mechanical-file-content.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/mechanical/file-content/move/move-property-value/move-property-value.change-mechanical-file-content.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/mechanical/file/change-page-page-type/change-page-page-type.change-mechanical.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/mechanical/file/move/move-file-page/move-file-page.change-mechanical-file.test.ts","typed":false,"deferred":false}

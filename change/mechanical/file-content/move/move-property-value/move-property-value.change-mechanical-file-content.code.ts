@@ -4,10 +4,13 @@ import {
   spliced,
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import { loreHeldIn } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
 import {
   keyOf,
   literalIn,
   matchingIn,
+  namesIn,
+  placeFaultIn,
 } from "akasha/change/modules/page-literal/page-literal.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
@@ -33,11 +36,6 @@ export function placesOf(count: number, from: number, to: number): readonly numb
   }
   held.splice(to - 1, 0, from - 1)
   return held
-}
-
-function placeSaid(key: string, count: number, place: number): string | null {
-  if (Number.isInteger(place) && place >= 1 && place <= count) return null
-  return `\`${key}\` holds ${count} values, and place ${place} is none of them`
 }
 
 type Sought = { readonly place: number } | { readonly refused: string }
@@ -105,7 +103,7 @@ function laidOut(framed: Framed, places: readonly number[]): string {
   return said + framed.tail
 }
 
-export function movedValue(path: string, text: string, given: Given): Said {
+export function movedValue(path: string, text: string, given: Given, quoting = false): Said {
   const source = parsedAs(path, text)
   const owner = literalIn(source)
   if (owner === null) return refusing(`\`${path}\` exports no object`)
@@ -124,9 +122,10 @@ export function movedValue(path: string, text: string, given: Given): Said {
   if ("refused" in sought) return refusing(sought.refused)
   const landing = ontoIn(holding, given)
   if ("refused" in landing) return refusing(landing.refused)
-  const away = placeSaid(given.key, count, sought.place)
+  const named = quoting ? namesIn(holding, source) : []
+  const away = placeFaultIn(given.key, count, sought.place, named)
   if (away !== null) return refusing(away)
-  const onto = placeSaid(given.key, count, landing.place)
+  const onto = placeFaultIn(given.key, count, landing.place, named)
   if (onto !== null) return refusing(onto)
   if (sought.place === landing.place) {
     return refusing(`place ${landing.place} of \`${given.key}\` is where that value sits already`)
@@ -145,5 +144,5 @@ export function movedValue(path: string, text: string, given: Given): Said {
 export function runChange(world: World, given: Given): Said {
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` holds no body, so nothing is carried`)
-  return movedValue(given.at, text, given)
+  return movedValue(given.at, text, given, !loreHeldIn(world, given.at))
 }

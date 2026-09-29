@@ -10,6 +10,10 @@ const BARE = /^[A-Za-z_$][A-Za-z0-9_$]*$/
 
 const READING = "value.ts"
 
+const SHORT = 20
+
+const SPACING = /\s+/g
+
 export function valueSpelled(value: string): boolean {
   const source = parsedAs(READING, `const held = ${value}`)
   const said = source.statements[0]
@@ -174,4 +178,29 @@ export function assignedIn(
     if (ts.isPropertyAssignment(one) && keyOf(one) === key) return one
   }
   return null
+}
+
+function shortOf(text: string): string {
+  const said = text.replace(SPACING, " ").trim()
+  return said.length > SHORT ? `${said.slice(0, SHORT)}…` : said
+}
+
+export function namesIn(list: ts.ArrayLiteralExpression, source: ts.SourceFile): readonly string[] {
+  return list.elements.map((one) =>
+    ts.isStringLiteral(one) ? shortOf(one.text) : shortOf(one.getText(source))
+  )
+}
+
+export function placeFaultIn(
+  key: string,
+  count: number,
+  place: number,
+  names: readonly string[] = []
+): string | null {
+  if (Number.isInteger(place) && place >= 1 && place <= count) return null
+  const held = count === 1 ? "holds one value" : `holds ${count} values`
+  const said = `\`${key}\` ${held}, and place ${place} is none of them`
+  if (names.length === 0) return said
+  const each = names.map((one, at) => `${at + 1} ${one}`).join(", ")
+  return `${said}. The values are: ${each}`
 }

@@ -3,9 +3,18 @@ import {
   type Given,
   movedValue,
   placesOf,
+  runChange,
 } from "akasha/change/mechanical/file-content/move/move-property-value/move-property-value.change-mechanical-file-content.code.ts"
 import type { Said } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import { bodyOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
+import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { running } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
+import {
+  bodyOf,
+  knownOf,
+  worldFor,
+} from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const AT = "akasha/held/kept.module.ts"
 
@@ -225,4 +234,64 @@ test("the places are worked out with the value taken out first", () => {
   expect(placesOf(4, 1, 4)).toEqual([1, 2, 3, 0])
   expect(placesOf(4, 4, 1)).toEqual([3, 0, 1, 2])
   expect(placesOf(3, 2, 3)).toEqual([0, 2, 1])
+})
+
+const PAGE = {
+  id: "01a072c8-f35d-7ffc-afc3-75b72460b059",
+  type: `${pageType.slug}/module`,
+  slug: "kept",
+} as Value
+
+const LONGER = BODY.replace(
+  `"module/one", "module/two", "module/three"`,
+  `"a value far longer than twenty characters"`
+)
+
+const NAMED = "The values are: 1 module/one, 2 module/two, 3 module/three"
+
+function worldOn(kind: string): World {
+  const page = { ...PAGE, type: `${pageType.slug}/${kind}` } as Value
+  return {
+    ...worldFor(page, BODY, running),
+    index: {
+      knownIn: () => knownOf({ admitting: (one) => [one] }),
+      pageByPath: () => page,
+      valuesByPath: () => new Map<string, Value>(),
+      kindsUnder: (one: string) => new Set([one]),
+    } as never,
+  }
+}
+
+test("a place no value sits at is refused with the values named where the caller asks for them", () => {
+  const said = movedValue(AT, BODY, asked("partSlugs", 4, 1), true)
+
+  expect(said.refused).toBe(`\`partSlugs\` holds 3 values, and place 4 is none of them. ${NAMED}`)
+})
+
+test("a value named is shortened to its first twenty characters", () => {
+  const said = movedValue(AT, LONGER, asked("partSlugs", 2, 1), true)
+
+  expect(said.refused).toBe(
+    "`partSlugs` holds one value, and place 2 is none of them. The values are: 1 a value far longer t…"
+  )
+})
+
+test("the values are named where the caller asks and the page holds no lore", () => {
+  const said = runChange(worldOn("module"), asked("partSlugs", 4, 1))
+
+  expect(said.refused).toBe(`\`partSlugs\` holds 3 values, and place 4 is none of them. ${NAMED}`)
+})
+
+test("no value is named where the page holds lore", () => {
+  const said = runChange(worldOn("lore"), asked("partSlugs", 4, 1))
+
+  expect(said.refused).toBe("`partSlugs` holds 3 values, and place 4 is none of them")
+})
+
+test("no value is named where the page's type cannot be read", () => {
+  const world = { ...worldFor(PAGE, BODY, running), index: { pageByPath: () => null } as never }
+
+  expect(runChange(world, asked("partSlugs", 4, 1)).refused).toBe(
+    "`partSlugs` holds 3 values, and place 4 is none of them"
+  )
 })

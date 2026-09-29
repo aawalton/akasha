@@ -87,6 +87,19 @@ export const movePropertyValue = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That refusal names how many values the key holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That refusal names those values, shortened, where the page the values sit on holds no lore.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No value is named where the page holds lore.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A place that is no whole number is refused.",
     },
     {
@@ -98,8 +111,12 @@ export const movePropertyValue = {
       statement: "The passage answered is the lines the list sits on rather than the body.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The index is read for the type of the page the list sits on.",
+    },
+    {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here reads the index.",
+      statement: "No other answer of the index is read here.",
     },
     {
       decisionKind: "decision-kind/absence",
