@@ -186,6 +186,15 @@ export const otherwhereXiTobinAshlar = {
         "world-character/otherwhere-xi-tobin-ashlar",
       ],
     },
+    {
+      fact: "Tobin knows Nala saved the turned lamb, and says he knew she was something the moment he saw her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "world-character/otherwhere-xi-tobin-ashlar",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

@@ -151,7 +151,12 @@ export const otherwhereXiAshlarFarm = {
     },
     {
       fact: "The household eats together on the floor mat by the hearth; the head of the house is served first.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
     },
     {
       fact: "Goat's milk and water are drunk at the farm; thin barley beer comes out on feast days.",
@@ -176,6 +181,18 @@ export const otherwhereXiAshlarFarm = {
         "character-player/otherwhere-xi-nala",
         "world-character/otherwhere-xi-wenna-ashlar",
       ],
+    },
+    {
+      fact: "By noon the down ewe was up on her feet, and her turned lamb was sucking.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
+    },
+    {
+      fact: "Pell and Lissa follow Nala everywhere, telling her the ewes' names and which hens peck.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
     },
   ],
 } as const satisfies Place

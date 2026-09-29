@@ -194,6 +194,38 @@ export const otherwhereXiNala = {
         "world-character/otherwhere-xi-wenna-ashlar",
       ],
     },
+    {
+      fact: "Nala agreed to stay on at the Ashlar farm for bed, board, the robe, sandals and a lamb.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
+    },
+    {
+      fact: "Wenna gave Nala worn hide sandals, a thumb too long, and knotted the thongs tighter herself.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
+    },
+    {
+      fact: "Nala's soles are bruised from the road and the yard stones.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
+    },
+    {
+      fact: "Nala spent her first morning forking fodder, mucking the fold and hauling water.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
+    },
+    {
+      fact: "Farm work leaves Nala's shoulders burning and blisters across her small palms.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
