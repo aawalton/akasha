@@ -100,6 +100,10 @@ export const overwhereIiChartermarksAndOrdeals = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "That inhuman voice hints that Eidhrin had a hand in making the Charterstones.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "A Chartermark shows three fields: Talent, Scope and Depth.",
       knowers: ["lore-disclosure/game-master"],
     },
