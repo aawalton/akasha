@@ -77,6 +77,9 @@ export const haremHotelWren = {
         "character-other/harem-hotel-odile",
       ],
     },
+    {
+      fact: "Wren squirts when she comes hard.",
+      knowers: ["lore-disclosure/game-master", "character-other/harem-hotel-wren"],
+    },
   ],
-  secrets: "jsonl",
 } as const satisfies Lore
