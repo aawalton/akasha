@@ -32,5 +32,13 @@ export const otherwhereXiZesthanet = {
       fact: "Zesthanet is a member of the Paramese Alliance and sent warriors to the Glastian purge.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Viviane saved Zesthanet's warriors in a canyon at the purge.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Zesthanet's old bone-mace shaman gave Viviane the battle name Winged Crab Fisher.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
