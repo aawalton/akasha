@@ -71,13 +71,5 @@ export const otherwhereViiJoanReeve = {
         "character-other/otherwhere-vii-joan-reeve",
       ],
     },
-    {
-      fact: "Joan set Nala to fill the water butt, two buckets from the well, before the men come in.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-vii-joan-reeve",
-        "character-player/otherwhere-vii-nala",
-      ],
-    },
   ],
 } as const satisfies Lore
