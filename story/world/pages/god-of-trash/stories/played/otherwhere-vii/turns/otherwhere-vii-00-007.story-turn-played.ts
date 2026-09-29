@@ -16,7 +16,7 @@ export const otherwhereVii00007 = {
     "character-other/otherwhere-vii-gammer-wyn",
     "character-other/otherwhere-vii-tamsin",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "\"My father was a scribe. I've mostly worked with my wits and not my muscles. I can read, write, and do sums, but not sure that's needed here.\"",
   beats: [
@@ -50,6 +50,6 @@ export const otherwhereVii00007 = {
   ],
   lore: ["lore/otherwhere-vii-aldo-reeve", "place/otherwhere-vii-ashford"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
   endsAt: "2026-09-28T08:14:00.000Z",
 } as const satisfies StoryTurnPlayed
