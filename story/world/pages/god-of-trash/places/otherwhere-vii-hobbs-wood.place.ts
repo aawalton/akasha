@@ -47,6 +47,22 @@ export const otherwhereViiHobbsWood = {
       fact: "Three deserters from the eastern war camp in a hollow deep in the wood, hungry and armed.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The boar's sounder comes to the wood's edge at dusk to root in the meadow, and never by day.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Rooted, torn-up turf at the meadow's top marks where the boar has fed.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A deserter comes to the meadow's edge at first light to snare rabbits and watch the road.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A lone woman picking herbs by day at the meadow is safe from the boar, but may be seen.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
