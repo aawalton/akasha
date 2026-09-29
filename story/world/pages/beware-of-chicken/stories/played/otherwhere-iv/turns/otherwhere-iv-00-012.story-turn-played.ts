@@ -43,5 +43,6 @@ export const otherwhereIv00012 = {
     'He looks at her steadily. "Which is it?"',
   ],
   lore: ["lore/otherwhere-iv-gu-household"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T19:25:00.000Z",
 } as const satisfies StoryTurnPlayed
