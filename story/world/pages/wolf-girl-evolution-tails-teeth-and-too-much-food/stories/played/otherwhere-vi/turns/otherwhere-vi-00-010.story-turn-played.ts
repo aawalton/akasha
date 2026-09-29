@@ -10,7 +10,7 @@ export const otherwhereVi00010 = {
   position: 10,
   prose: "txt",
   characters: ["character-player/otherwhere-vi-nala"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "I try to find some degree of shelter, even a bush if possible, and then fall asleep, hoping to wake again.",
   beats: [
