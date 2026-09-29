@@ -358,7 +358,11 @@ export const otherwhereViiAshford = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Agnes Hobb, the woodcutter's widow, is sour since the boar killed her man, and hard on newcomers.",
+      fact: "Maud Thatcher, the thatcher's thin, prim wife, got wet feet at the well and never forgives a hem.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Maud Thatcher is Joan's cousin, and would carry the tale of the bucket to Joan first.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
