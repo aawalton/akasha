@@ -43,6 +43,6 @@ export const otherwhereVi00015 = {
   ],
   lore: ["lore/otherwhere-vi-nala", "place/otherwhere-vi-charcoal-camp"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-29T20:00:00.000Z",
 } as const satisfies StoryTurnPlayed
