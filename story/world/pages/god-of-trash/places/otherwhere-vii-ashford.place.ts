@@ -321,5 +321,21 @@ export const otherwhereViiAshford = {
       fact: "Hild dries her herbs in bunches from the mill loft rafters, where it's warm and dry.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The green's well is about two hundred paces from Aldo's farmhouse door.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A full wooden bucket weighs about twenty pounds; the farmhouse butt takes six to fill.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The well has a windlass and a rope bucket; drawing one full takes a minute's cranking.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "In early afternoon the well is busy with wives and girls, who talk while they wait their turn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
