@@ -44,7 +44,7 @@ const SLOW = "The new picture took too long, so this one stays."
 
 const UNSENT = "The ask to draw this picture again did not reach the game."
 
-export type TurnCover = {
+type TurnCover = {
   readonly id: string
   readonly number: number
   readonly cover: string
@@ -72,7 +72,7 @@ export function rerollAsked(gameExternalId: string, cover: string) {
   }
 }
 
-export type Settled =
+type Settled =
   | { readonly settled: false }
   | { readonly settled: true; readonly refused: string | null }
 
@@ -152,7 +152,7 @@ function RerollButton({
   )
 }
 
-export type Paged = { readonly from: string; readonly to: string }
+type Paged = { readonly from: string; readonly to: string }
 
 export function pickedFor(paged: Paged | null, latest: string): string | null {
   return paged !== null && paged.from === latest ? paged.to : null
@@ -163,7 +163,7 @@ export function pagedAt(covers: readonly TurnCover[], picked: string | null): nu
   return at === -1 ? covers.length - 1 : at
 }
 
-export type Step = "first" | "earlier" | "later" | "last"
+type Step = "first" | "earlier" | "later" | "last"
 
 export function steppedTo(
   covers: readonly TurnCover[],
