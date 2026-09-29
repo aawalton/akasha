@@ -218,7 +218,11 @@ export const otherwhereViiiTheInstitute = {
     },
     {
       fact: "A cardless stranger can be taken on as the master's own pupil, which is not a course.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-viii-hallick",
+        "character-player/otherwhere-viii-nala",
+      ],
     },
     {
       fact: "The office cannot enrol anyone without a card, because that rule is the Academy's.",
