@@ -32,5 +32,6 @@ export const otherwhereVi00007 = {
     "Her breath smokes, and the wet cloth at her hips has gone stiff and cold as metal.",
   ],
   lore: ["place/otherwhere-vi-hollow-stream", "lore/otherwhere-vi-nala"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T22:30:00.000Z",
 } as const satisfies StoryTurnPlayed
