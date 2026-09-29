@@ -4,10 +4,17 @@ export const otherwhereXi00006 = {
   id: "01a0eabd-fd27-7e7b-b3c3-cfa25d9907bc",
   type: "page-type/story-turn-played",
   slug: "otherwhere-xi-00-006",
+  ownLength: 284,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-xi"],
   position: 6,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/otherwhere-xi-nala",
+    "world-character/otherwhere-xi-wenna-ashlar",
+    "world-character/otherwhere-xi-tobin-ashlar",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "\"I'm sorry to have pulled your boy from his duties Ma'am. He mentioned that you knew the old stories, so I have come seeking your wisdom, for much truth is preserved only in old stories. What do you know of the Waystones? Are there tales of travelers who arrive at them not by any road?\"",
   beats: [
