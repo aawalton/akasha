@@ -207,5 +207,14 @@ export const otherwhereIvNala = {
         "character-other/otherwhere-iv-granny-hua",
       ],
     },
+    {
+      fact: "Nala offered diatomaceous earth for the ants, and owned she knows little of the local flora.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-tie-bo",
+        "character-other/otherwhere-iv-granny-hua",
+      ],
+    },
   ],
 } as const satisfies Lore
