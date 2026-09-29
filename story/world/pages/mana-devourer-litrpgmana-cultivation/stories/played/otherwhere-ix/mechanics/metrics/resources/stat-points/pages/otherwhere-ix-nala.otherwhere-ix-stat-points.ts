@@ -5,7 +5,7 @@ export const otherwhereIxNala = {
   type: "page-type/otherwhere-ix-stat-points",
   slug: "otherwhere-ix-nala",
   character: "character-player/otherwhere-ix-nala",
-  value: 24,
+  value: 0,
   minValue: 0,
   history: "jsonl",
 } as const satisfies OtherwhereIxStatPoints

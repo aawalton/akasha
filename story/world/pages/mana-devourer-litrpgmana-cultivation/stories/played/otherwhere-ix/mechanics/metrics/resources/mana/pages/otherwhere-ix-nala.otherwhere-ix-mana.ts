@@ -5,8 +5,8 @@ export const otherwhereIxNala = {
   type: "page-type/otherwhere-ix-mana",
   slug: "otherwhere-ix-nala",
   character: "character-player/otherwhere-ix-nala",
-  value: 344,
+  value: 392,
   minValue: 0,
-  maxValue: 344,
+  maxValue: 392,
   history: "jsonl",
 } as const satisfies OtherwhereIxMana

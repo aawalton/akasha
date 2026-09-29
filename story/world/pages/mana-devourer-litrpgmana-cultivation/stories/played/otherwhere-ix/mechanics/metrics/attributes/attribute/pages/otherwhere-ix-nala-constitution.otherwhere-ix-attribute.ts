@@ -5,7 +5,7 @@ export const otherwhereIxNalaConstitution = {
   type: "page-type/otherwhere-ix-attribute",
   slug: "otherwhere-ix-nala-constitution",
   character: "character-player/otherwhere-ix-nala",
-  value: 12,
+  value: 36,
   minValue: 0,
   history: "jsonl",
 } as const satisfies OtherwhereIxAttribute
