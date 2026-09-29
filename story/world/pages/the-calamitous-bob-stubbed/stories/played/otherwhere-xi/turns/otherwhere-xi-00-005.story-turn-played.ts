@@ -15,7 +15,7 @@ export const otherwhereXi00005 = {
     "world-character/otherwhere-xi-wenna-ashlar",
     "world-character/otherwhere-xi-smoke",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: '"Would you take me to talk to your Mam?"',
   beats: [
     'Nala asks, "Would you take me to talk to your Mam?"',
@@ -40,11 +40,14 @@ export const otherwhereXi00005 = {
     'Then, flat, to her son: "Tobin. The flock." He goes red and doesn\'t move.',
     'The woman turns her eyes on Nala. "What do you want at my door?"',
   ],
+  issues: [
+    '"Nearly an hour on" - the farm is a 3/4 hour climb below the ring, and they set off below it',
+  ],
   lore: [
     "place/otherwhere-xi-ashlar-farm",
     "lore/otherwhere-xi-wenna-ashlar",
     "lore/otherwhere-xi-tobin-ashlar",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T07:25:00.000Z",
 } as const satisfies StoryTurnPlayed
