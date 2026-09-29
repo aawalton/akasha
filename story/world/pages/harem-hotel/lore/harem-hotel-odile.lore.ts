@@ -88,6 +88,10 @@ export const haremHotelOdile = {
         "character-other/harem-hotel-odile",
       ],
     },
+    {
+      fact: "On floor 4 Odile is Queen, and orders the others with relish until her orders fall apart.",
+      knowers: ["lore-disclosure/game-master", "character-other/harem-hotel-odile"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
