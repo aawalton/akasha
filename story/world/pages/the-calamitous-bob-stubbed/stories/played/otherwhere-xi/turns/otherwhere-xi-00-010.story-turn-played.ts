@@ -42,5 +42,6 @@ export const otherwhereXi00010 = {
     "lore/otherwhere-xi-wenna-ashlar",
     "place/otherwhere-xi-ashlar-farm",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T09:34:00.000Z",
 } as const satisfies StoryTurnPlayed
