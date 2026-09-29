@@ -256,6 +256,30 @@ export const otherwhereXiWennaAshlar = {
       fact: "Wenna told her girls to say nothing outside the house of the red-haired woman.",
       knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
     },
+    {
+      fact: "Wenna sets a novice to water, fodder and muck first, and to the ewes only when trusted.",
+      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+    },
+    {
+      fact: "Wenna's lambing rule: catch the lamb, clear its mouth, set it sucking; the ewe does the rest.",
+      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+    },
+    {
+      fact: "Wenna's test of a stranger is a ewe that goes at her, and how the stranger meets it.",
+      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+    },
+    {
+      fact: "Wenna teaches by doing, in few words, and corrects by taking the work and starting again.",
+      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+    },
+    {
+      fact: "Wenna's hands are cracked and her grip like a man's from forty ewes a season.",
+      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+    },
+    {
+      fact: "Wenna would lend Nala her spare robe, sandals and a headcloth, and keep the odd shirt back.",
+      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

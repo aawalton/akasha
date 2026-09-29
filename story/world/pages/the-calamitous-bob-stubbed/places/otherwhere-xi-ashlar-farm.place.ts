@@ -81,5 +81,33 @@ export const otherwhereXiAshlarFarm = {
         "world-character/otherwhere-xi-tobin-ashlar",
       ],
     },
+    {
+      fact: "The day runs: milk and fodder at dawn, ewes checked at noon, lambs penned and counted at dusk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Ashlar ewes are dun and hornless, kept for wool, cheese and lambs sold down at Imra.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Wenna keeps two goats for milk, a dozen hens, and a barley terrace below the house.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Pell and Lissa carry water and feed the hens, and would follow Nala everywhere.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Wenna's spare robe is faded madder red, ankle-length and far too large for Nala.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The lambing pen is set by the yard wall so a ewe can be caught and held against the hurdles.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Water comes from a rock cistern in the yard, filled from the hill stream in the gully.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
