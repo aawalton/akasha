@@ -61,5 +61,6 @@ export const otherwhereX00011 = {
     "place/otherwhere-x-the-sheaf",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2026-09-28T19:40:00.000Z",
 } as const satisfies StoryTurnPlayed
