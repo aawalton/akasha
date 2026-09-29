@@ -90,6 +90,34 @@ export const otherwhereXiWaystoneShrine = {
       fact: "Juniper and gorse crowd the slope below the ring, and thyme grows in the road's grass strip.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
     },
+    {
+      fact: "Hill folk call the ring the Old Waystone; no one in the valley knows who raised it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hill tales say the waystones are older than the Old Empire and were raised by Maradoc.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The ninth stone fell in a winter storm when Tobin's grandfather was a boy.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Travellers on the hill road sometimes sleep inside the ring for Maradoc's keeping.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Shepherds say the ring hums on still nights, and their dogs will not go inside it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin touches the altar's key each spring before the first climb, as his mother taught him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin saw no light at the ring this morning; he was in the fold behind the hill until sunrise.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
