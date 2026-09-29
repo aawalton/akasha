@@ -56,7 +56,6 @@ export const otherwhereViiAldoReeve = {
         "character-other/otherwhere-vii-aldo-reeve",
       ],
     },
-
     {
       fact: "The steward comes in about six days, when the threshing is done.",
       knowers: [
@@ -97,7 +96,6 @@ export const otherwhereViiAldoReeve = {
         "character-other/otherwhere-vii-tamsin",
       ],
     },
-
     {
       fact: "A tenth of 74 sacks is 7 and a half; the steward's 9 is a sack and a half too many.",
       knowers: [
@@ -108,7 +106,6 @@ export const otherwhereViiAldoReeve = {
         "character-other/otherwhere-vii-tamsin",
       ],
     },
-
     {
       fact: "Each tithe tally is split: Aldo keeps one half, the steward the other, notched together.",
       knowers: [
@@ -143,7 +140,6 @@ export const otherwhereViiAldoReeve = {
       fact: "Nobody in Ashford has ever heard of a museum.",
       knowers: ["lore-disclosure/game-master"],
     },
-
     {
       fact: "Aldo would sooner catch the steward fair at this year's weighing than accuse him of last year's.",
       knowers: [
@@ -154,7 +150,6 @@ export const otherwhereViiAldoReeve = {
         "character-other/otherwhere-vii-tamsin",
       ],
     },
-
     {
       fact: "The steward is Osric Vane, a thin clerk in a grey coat with a snowdrop badge, on a brown pony.",
       knowers: [
@@ -173,7 +168,6 @@ export const otherwhereViiAldoReeve = {
         "character-other/otherwhere-vii-tamsin",
       ],
     },
-
     {
       fact: "Gammer Wyn swears the steward's scale has always been crooked, and has said so for years.",
       knowers: [
@@ -202,15 +196,31 @@ export const otherwhereViiAldoReeve = {
     },
     {
       fact: "Aldo is ashamed to be taught before his men, but would learn by rushlight after supper.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+      ],
     },
     {
       fact: "Aldo would have Tamsin taught first; he once meant to send her to Bramwick to learn letters.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-other/otherwhere-vii-tamsin",
+        "character-other/otherwhere-vii-gammer-wyn",
+      ],
     },
     {
       fact: "Aldo fears the steward would take a village that reckons for a village looking for trouble.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-other/otherwhere-vii-tamsin",
+        "character-other/otherwhere-vii-gammer-wyn",
+      ],
     },
     {
       fact: "Aldo's house has no slate or paper; sums would be scratched in sand or chalked on a board.",
@@ -218,9 +228,12 @@ export const otherwhereViiAldoReeve = {
     },
     {
       fact: "Aldo takes a teaching offer as a kindness beyond the wage, and warms to Nala for it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+      ],
     },
-
     {
       fact: "The deep notches are grouped at the stick's thick end, the crossed ones last at the thin end.",
       knowers: [
@@ -238,7 +251,6 @@ export const otherwhereViiAldoReeve = {
         "character-other/otherwhere-vii-aldo-reeve",
       ],
     },
-
     {
       fact: "Aldo told Nala he takes on no folk off the road, and asked her name and who would speak for her.",
       knowers: [
@@ -338,6 +350,24 @@ export const otherwhereViiAldoReeve = {
         "character-other/otherwhere-vii-aldo-reeve",
         "character-other/otherwhere-vii-gammer-wyn",
         "character-other/otherwhere-vii-tamsin",
+      ],
+    },
+    {
+      fact: "Nala stays as Aldo's reckoner on condition she teaches him, and whoever he picks, to reckon.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+      ],
+    },
+    {
+      fact: "Aldo wants the reckoning lessons kept secret so the steward hears nothing before the weighing.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-other/otherwhere-vii-tamsin",
+        "character-other/otherwhere-vii-gammer-wyn",
       ],
     },
   ],

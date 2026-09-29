@@ -17,7 +17,7 @@ export const otherwhereVii00010 = {
     "character-other/otherwhere-vii-gammer-wyn",
     "character-other/otherwhere-vii-joan-reeve",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     '"I will gladly stay, but on the condition that you let me teach you and anyone else you decide as well. You should learn enough to keep your own count with confidence, so no one can cheat you."',
   beats: [
@@ -51,6 +51,6 @@ export const otherwhereVii00010 = {
     "place/otherwhere-vii-ashford",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture", "story-recorder/memory"],
   endsAt: "2026-09-28T08:34:00.000Z",
 } as const satisfies StoryTurnPlayed

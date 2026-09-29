@@ -36,5 +36,15 @@ export const otherwhereViiTamsin = {
       fact: "Tamsin may not hold her tongue about the steward's cheating for long.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Told Aldo would have her taught letters first, Tamsin went red and said she didn't want it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-other/otherwhere-vii-tamsin",
+        "character-other/otherwhere-vii-gammer-wyn",
+      ],
+    },
   ],
 } as const satisfies Lore

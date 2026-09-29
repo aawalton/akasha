@@ -178,7 +178,11 @@ export const otherwhereViiAshford = {
     },
     {
       fact: "Joan puts a hired woman in the loft over the cow byre: warm, a straw tick, a ladder up.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-joan-reeve",
+      ],
     },
     {
       fact: "Joan is lean and quick, and judges a guest by her manners at table and her hands at work.",
@@ -186,7 +190,11 @@ export const otherwhereViiAshford = {
     },
     {
       fact: "Joan would lend a decent hired woman Bet's old brown kirtle and a pair of worn clogs.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-joan-reeve",
+      ],
     },
     {
       fact: "Aldo's household eats porridge at dawn, bread and pottage at noon, and stew with ale at dusk.",
@@ -205,12 +213,10 @@ export const otherwhereViiAshford = {
       fact: "A new winnower spills grain and chokes on chaff dust, and her arms and back burn by mid-morning.",
       knowers: ["lore-disclosure/game-master"],
     },
-
     {
       fact: "In Ashford only the miller reads, slowly; a letter written for someone costs two pennies.",
       knowers: ["lore-disclosure/game-master"],
     },
-
     {
       fact: "The barn's water butt by the door is for the hands; any hand may dip a drink from it.",
       knowers: [
@@ -257,6 +263,14 @@ export const otherwhereViiAshford = {
         "lore-disclosure/game-master",
         "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-aldo-reeve",
+      ],
+    },
+    {
+      fact: "Joan has Nala eat dinner at noon at the farmhouse table, not with the hands in the barn.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-joan-reeve",
       ],
     },
   ],
