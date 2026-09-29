@@ -4,10 +4,17 @@ export const otherwhereVii00014 = {
   id: "01a0eb1f-d547-7b35-a220-84dc5a5facbd",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vii-00-014",
+  ownLength: 213,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vii"],
   position: 14,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/otherwhere-vii-nala",
+    "character-other/otherwhere-vii-hild",
+    "character-other/otherwhere-vii-joan-reeve",
+  ],
+  stepStatus: "step-status/reviewers",
   action: "I go immediately to work in the salve for the blisters from the pot.",
   beats: [
     "Nala goes straight to the shelf, takes down the little pot, and pries off the lid.",
@@ -27,6 +34,7 @@ export const otherwhereVii00014 = {
   lore: [
     "lore/otherwhere-vii-hild",
     "lore/otherwhere-vii-joan-reeve",
+    "lore/otherwhere-vii-nala",
     "place/otherwhere-vii-ashford",
   ],
   endsAt: "2026-09-28T12:27:00.000Z",
