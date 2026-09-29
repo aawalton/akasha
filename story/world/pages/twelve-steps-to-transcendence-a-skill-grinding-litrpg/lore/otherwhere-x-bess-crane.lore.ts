@@ -45,6 +45,14 @@ export const otherwhereXBessCrane = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Bess will not let a held stranger sleep cold: she brings a blanket and a heel of bread to the byre.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Bess keeps her dead mother's old clogs by the hearth, and they would fit a small woman.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Bess keeps her mother's Wexley ways: she says what she means at the moment she means it.",
       knowers: ["lore-disclosure/game-master"],
     },

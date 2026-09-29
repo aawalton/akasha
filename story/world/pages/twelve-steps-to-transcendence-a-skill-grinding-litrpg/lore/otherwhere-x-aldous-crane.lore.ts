@@ -85,6 +85,22 @@ export const otherwhereXAldousCrane = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Aldous will not put a woman who has done no wrong in the lock-up; that is for drunks and thieves.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldous keeps a stranger held till the patrol in his byre loft, the door barred outside.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldous sits up by his back door the night a stranger sleeps in his byre.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "If a held stranger fights or flees, Aldous rings the bell hard and the lock-up follows.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Aldous answers a question about Sulon plainly, then asks one of his own back.",
       knowers: [
         "lore-disclosure/game-master",

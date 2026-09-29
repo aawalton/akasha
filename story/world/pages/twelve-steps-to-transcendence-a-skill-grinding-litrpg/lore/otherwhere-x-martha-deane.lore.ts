@@ -81,6 +81,18 @@ export const otherwhereXMarthaDeane = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "A stranger handed to the reeve loses the Sheaf's loft for that night; Martha can't have both.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Martha keeps a singer's coppers and supper owed for them, and pays them over when she can.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Martha would have a cleared singer back in the loft the next night, and would say so.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "After Nala's songs Martha said the lass can sing, and asked another, then where she got such songs.",
       knowers: [
         "lore-disclosure/game-master",
