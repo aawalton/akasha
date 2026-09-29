@@ -24,6 +24,10 @@ export const otherwhereIiiOnnDesveth = {
       fact: "She speaks careful, formal English, a little slow, and dislikes shoes indoors.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The System's notice to her says only: an unregistered person with no record claims chaos passage.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
