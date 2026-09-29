@@ -174,5 +174,9 @@ export const otherwhereIiiOnnDesveth = {
       fact: "Its terms: Nala speaks of the book and what it tells to Onn-desveth alone.",
       knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
     },
+    {
+      fact: "In return she reports Nala only as clean and unregistered, and tells no one of the book.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+    },
   ],
 } as const satisfies Lore
