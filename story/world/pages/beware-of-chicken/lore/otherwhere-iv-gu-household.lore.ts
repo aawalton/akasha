@@ -113,7 +113,11 @@ export const otherwhereIvGuHousehold = {
     },
     {
       fact: "Gu has long seen that the moon's bright side always faces the sun, and never knew why.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
     {
       fact: "An answer that explains a thing he has seen himself persuades Gu more than any wonder.",
@@ -126,6 +130,46 @@ export const otherwhereIvGuHousehold = {
     {
       fact: "Gu would tell the county nothing of the guest until he knows what she wants of the village.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Persuaded by Nala's moon answer, Gu bowed deep and gave her his east room, the best in Three Stones.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
+    },
+    {
+      fact: "Gu's grey-haired wife said Nala needs clothes first, then a bath, then rooms.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
+    },
+    {
+      fact: "Gu warns word of Nala will reach Lanqiao by next market; some will call her fox or demon.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
+    },
+    {
+      fact: "Gu expects the Fang boys at his gate by afternoon over the talk of a spirit.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
+    },
+    {
+      fact: "Gu asked Nala to make an offering with him at the Three Stones shrine at dusk, before the village.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
   ],
 } as const satisfies Lore

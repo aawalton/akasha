@@ -124,5 +124,13 @@ export const otherwhereIvNala = {
         "character-other/otherwhere-iv-zhao-jun",
       ],
     },
+    {
+      fact: "Nala told Gu moonlight is reflected sunlight, and the moon's phases follow its angle to the sun.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
+    },
   ],
 } as const satisfies Lore

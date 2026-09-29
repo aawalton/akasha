@@ -130,5 +130,13 @@ export const otherwhereIvThreeStonesVillage = {
         "character-other/otherwhere-iv-zhao-jun",
       ],
     },
+    {
+      fact: "The shrine at the Three Stones is the earth god's, Old Grandfather of the Three Stones.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
+    },
   ],
 } as const satisfies Place
