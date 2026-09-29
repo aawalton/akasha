@@ -177,5 +177,13 @@ export const otherwhereXAldousCrane = {
       fact: "Aldous doesn't press a held stranger the first night; he offers her one private word.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Aldous keeps a word told him in private to himself, unless it puts Harrow in danger.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A stranger naming Nala Pike's drowning, or the brook, would shake Aldous past hiding it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
