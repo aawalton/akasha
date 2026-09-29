@@ -13,6 +13,7 @@ export const overwhereIiiApplegarth = {
       direction: "west",
     },
     {
+      to: "place/overwhere-iii-thornmere",
       way: "East along the road, two more days through hill villages, to the city of Thornmere.",
       direction: "east",
     },
