@@ -112,5 +112,17 @@ export const otherwhereViiiWeirGardens = {
       fact: "The Institute is up in Guildhall, half an hour's walk uphill from Weir Gardens.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
+    {
+      fact: "Maddox keeps a lost-property crate in his tool shed by the gate: odd shoes, a coat, umbrellas.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Maddox won't send a barefoot girl up the Long Stair without offering something from the crate.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The crate holds a pair of men's canvas shoes, too big, and a worn brown wool coat.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
