@@ -225,6 +225,34 @@ export const otherwhereViNala = {
         "character-other/otherwhere-vi-jory-tull",
       ],
     },
+    {
+      fact: "Nala told Wat she survived a night alone in the forest, and can be afraid without panic.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-wat",
+      ],
+    },
+    {
+      fact: "Nala slept the afternoon deep and still on fern and hides by the hearth, Burr at her feet.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-wat",
+      ],
+    },
+    {
+      fact: "After her sleep Nala's cut foot is sore rather than burning, and its salve cloth is clean.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "Nala sits the clamp's night watch alone under the full moon, with Jory turned in.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-jory-tull",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

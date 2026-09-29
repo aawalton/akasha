@@ -94,7 +94,11 @@ export const otherwhereViCharcoalCamp = {
     },
     {
       fact: "The watcher walks round the clamp each hour, sits between times on a stump by the hut door.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-jory-tull",
+      ],
     },
     {
       fact: "Tonight the great moon is full; wolves howl long in the north, and the pack runs wide.",
@@ -110,15 +114,28 @@ export const otherwhereViCharcoalCamp = {
     },
     {
       fact: "Wat sends a new watcher to sleep the afternoon out by the fire, and wakes her at dusk to eat.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-wat",
+      ],
     },
     {
       fact: "Jory shows a new watcher the clamp's round and how to smother a flare before he turns in.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-jory-tull",
+      ],
     },
     {
       fact: "The burners' supper is bacon, bread and a pot of barley and fish, eaten at dusk.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-wat",
+        "character-other/otherwhere-vi-jory-tull",
+      ],
     },
     {
       fact: "Five days fed and roofed by the fire would close her sole and bring her HP back to full.",
@@ -159,6 +176,46 @@ export const otherwhereViCharcoalCamp = {
         "character-player/otherwhere-vi-nala",
         "character-other/otherwhere-vi-jory-tull",
         "character-other/otherwhere-vi-wat",
+      ],
+    },
+    {
+      fact: "A clamp flare shows as a red glow or a lick of flame through the turf, and a sharper smoke.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-jory-tull",
+      ],
+    },
+    {
+      fact: "A glow on the clamp is smothered with a shovel of damp earth off the heap.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-jory-tull",
+      ],
+    },
+    {
+      fact: "Jory wants the watcher to shout for him if a flare won't go down, and not be proud about it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-jory-tull",
+      ],
+    },
+    {
+      fact: "The great moon rose full over the river, and wolves howled long in the north.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-jory-tull",
+      ],
+    },
+    {
+      fact: "Jory says the wolves don't come near the fire or the dog.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-jory-tull",
       ],
     },
   ],
