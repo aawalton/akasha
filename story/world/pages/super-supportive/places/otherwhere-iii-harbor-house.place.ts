@@ -35,7 +35,10 @@ export const otherwhereIiiHarborHouse = {
       fact: "No drugs, no drink and no men past the lobby; a staffer is awake all night.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A bed the social worker reserves is held until seven; a no-show loses it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
-  secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
 } as const satisfies Place
