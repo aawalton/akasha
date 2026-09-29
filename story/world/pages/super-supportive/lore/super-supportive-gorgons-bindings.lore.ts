@@ -7,5 +7,11 @@ export const superSupportiveGorgonsBindings = {
   title: "Gorgon's bindings",
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-gorgons-bindings",
+  facts: [
+    {
+      fact: "Glowing golden ropes of magic chain Gorgon to the consulate desk, trailing like jellyfish.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
