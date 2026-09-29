@@ -31,6 +31,6 @@ export const otherwhereViii00007 = {
   issues: ['"The side door is twenty paces from the hatch." - No Prompt'],
   lore: ["place/otherwhere-viii-guildhall"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-28T06:57:00.000Z",
 } as const satisfies StoryTurnPlayed

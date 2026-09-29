@@ -228,6 +228,34 @@ export const otherwhereViiiGuildhall = {
       fact: "Tessa Voyle, seventeen, a chatty second-year apprentice, is always first at the gate.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The bakery hatch on Mercer Street is kept by a round, floury woman of sixty who talks to all.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
+    {
+      fact: "Sweepers and clerks with satchels come to the Mercer Street bakery hatch for rolls in the morning.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
+    {
+      fact: "In the early morning the Institute stays shut: tall windows dark, gate and side door closed.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
+    {
+      fact: "A lean man in a plain, ink-stained coat buys two rolls at the Mercer Street bakery hatch.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
+    {
+      fact: "The Mercer Street baker has the ink-stained man's two rolls wrapped before he asks.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
+    {
+      fact: "The Mercer Street baker calls the ink-stained man 'Master'.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
+    {
+      fact: "The ink-stained man goes from the bakery hatch to the Institute's side door, key in hand.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
