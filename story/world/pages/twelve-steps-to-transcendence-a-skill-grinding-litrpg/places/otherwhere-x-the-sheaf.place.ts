@@ -95,6 +95,18 @@ export const otherwhereXTheSheaf = {
         "world-character/otherwhere-x-aldous-crane",
       ],
     },
+    {
+      fact: "A quick dancing tune sets the Sheaf's feet going on the boards whatever its words.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hattie Rook, a widow who loves a fright, is the likeliest in the Sheaf to say 'skinwalker'.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ned Fuller the smith likes Nala's singing, and says a thing once and plainly.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   exits: [{ to: "place/otherwhere-x-harrow", way: "out the front door onto the green" }],
 } as const satisfies Place

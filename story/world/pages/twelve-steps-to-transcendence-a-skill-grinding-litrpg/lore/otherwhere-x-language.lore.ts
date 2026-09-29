@@ -48,5 +48,21 @@ export const otherwhereXLanguage = {
       fact: "Earth words Nala uses with no match here come out in her own tongue, and sound like nonsense.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Words Nala speaks or sings in an Earth tongue reach listeners as that tongue, not as common.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "No Plains soul has heard a people's tongue other than the common one; tales say none exists.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Heartland folk take an unknown tongue for one from past the walls, and past the walls is monsters.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hearth tales say a skinwalker mutters in the tongue of wherever it came from before.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
