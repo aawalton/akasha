@@ -4,6 +4,7 @@ export const otherwhereIii00018 = {
   id: "01a0eac5-5da5-7056-a89e-5e1834d6b30d",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-018",
+  cover: "image/image-a9509ba8d48b869e",
   ownLength: 534,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
@@ -51,6 +52,6 @@ export const otherwhereIii00018 = {
     "lore/super-supportive-selection",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2037-01-31T09:40:00.000Z",
 } as const satisfies StoryTurnPlayed
