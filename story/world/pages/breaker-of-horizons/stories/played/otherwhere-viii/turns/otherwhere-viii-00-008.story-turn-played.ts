@@ -31,5 +31,6 @@ export const otherwhereViii00008 = {
     '"One question, then," he says. "What do you know that I don\'t? Show me. Don\'t tell me."',
   ],
   lore: ["place/otherwhere-viii-guildhall"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T07:00:00.000Z",
 } as const satisfies StoryTurnPlayed
