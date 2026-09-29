@@ -198,6 +198,22 @@ export const otherwhereViiAshford = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Gammer Wyn hears 'scribe's daughter' as gentry fallen on hard times, and says so loudly.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Gammer Wyn knows Aldo frets over the steward's ledger, and would steer a reader to him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tamsin can't read and is jealous of anyone who can; Aldo once meant to send her to learn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "In Ashford only the miller reads, slowly; a letter written for someone costs two pennies.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The other winnower is Aldo's niece Tamsin, sixteen, who thinks winnowing is beneath her.",
       knowers: ["lore-disclosure/game-master"],
     },
