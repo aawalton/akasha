@@ -1,0 +1,47 @@
+import type { Place } from "akasha/story/lore/place/place.page-type.types.ts"
+
+export const overwhereIvBrookAndBarrel = {
+  id: "01a0ed2b-f66f-7706-a3df-5569ca2ba6f4",
+  type: "page-type/place",
+  slug: "overwhere-iv-brook-and-barrel",
+  title: "The Brook and Barrel",
+  world: "world/syl-a-slime-monster-evolution-litrpg",
+  facts: [
+    {
+      fact: "The Brook and Barrel is the inn on Millbrook's market square.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The inn is run by the widow Marta Hesk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The inn is warm and cheap, with a big hearth, long tables and a smell of stew and ale.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The inn has a common room with pallets and a few small rooms upstairs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The inn is the center of Millbrook gossip, and every rumor passes through its taproom.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Marta gives an attic room under the eaves to strays in return for work.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The attic room has a straw bed, a blanket, a stool and a small round window on the square.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Brookside Four drink at the corner table most evenings.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A girl named Pip helps Marta serve, and an old hand called Joss sees to the stable.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
+} as const satisfies Place
