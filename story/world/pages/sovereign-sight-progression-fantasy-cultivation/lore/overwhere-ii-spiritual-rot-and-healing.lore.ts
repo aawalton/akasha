@@ -204,7 +204,7 @@ export const overwhereIiSpiritualRotAndHealing = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Kaffa has a metallic tang and an earthy smell; Spire students chew it through long nights.",
+      fact: "Kaffa has a metallic tang and an earthy smell.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

@@ -43,14 +43,7 @@ export const overwhereIiPowersAndFactions = {
       fact: "Magisters share their discoveries openly, or so the Spire-schooled say.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "The Nine Spires Academy is surrounded by a city full of thaumists.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "The Phaar Region spans six islands across the northern waters, Phaar Isle among them.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "Magister Sivak, of Fifth Depth, is the Spires' representative for the Phaar Region.",
       knowers: ["lore-disclosure/game-master"],
