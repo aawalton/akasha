@@ -4,6 +4,7 @@ export const otherwhereVi00011 = {
   id: "01a0eaca-46b4-7c9c-8eb7-446b4b1504b1",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vi-00-011",
+  cover: "image/image-f54da62691b50358",
   ownLength: 397,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],
@@ -46,6 +47,6 @@ export const otherwhereVi00011 = {
   ],
   lore: ["place/otherwhere-vi-charcoal-camp", "lore/otherwhere-vi-nala"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-29T10:10:00.000Z",
 } as const satisfies StoryTurnPlayed
