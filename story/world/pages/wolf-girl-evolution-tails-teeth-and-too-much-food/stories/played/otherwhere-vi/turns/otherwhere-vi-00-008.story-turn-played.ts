@@ -4,10 +4,13 @@ export const otherwhereVi00008 = {
   id: "01a0ea86-6270-7c22-bbb4-b3b2a7fbc825",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vi-00-008",
+  ownLength: 270,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],
   position: 8,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-vi-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     'I decide to risk a berry, first looking at it to see if it has a status screen. "Inspect. Appraise. Identify". If not, I eat one and then check my own status screen for effects.',
   beats: [
