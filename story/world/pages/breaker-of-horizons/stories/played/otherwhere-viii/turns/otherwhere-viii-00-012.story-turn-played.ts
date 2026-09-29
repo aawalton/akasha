@@ -10,7 +10,7 @@ export const otherwhereViii00012 = {
   position: 12,
   prose: "txt",
   characters: ["character-player/otherwhere-viii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I take off the coat and pull out a shirt from the crate and put it on, despite the size, then lie down on the bed and try to take a nap until I hear the work below stop, signalling that it is time for me to learn.",
   beats: [
@@ -33,6 +33,6 @@ export const otherwhereViii00012 = {
     "She stands in the doorway, one hand on the frame, waiting to see whether Nala is coming.",
   ],
   lore: ["lore/otherwhere-viii-nala", "place/otherwhere-viii-the-workshop-room"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T08:05:00.000Z",
 } as const satisfies StoryTurnPlayed
