@@ -158,11 +158,16 @@ export const otherwhereXiTobinAshlar = {
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
         "world-character/otherwhere-xi-tobin-ashlar",
+        "world-character/otherwhere-xi-wenna-ashlar",
       ],
     },
     {
       fact: "Tobin may not leave the flock untended; Smoke can hold it on the hill for an hour or so.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
     },
     {
       fact: "Tobin keeps the flock on the hill till noon.",

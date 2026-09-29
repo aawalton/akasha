@@ -20,5 +20,13 @@ export const otherwhereXiScalehound = {
       fact: "The tribes south of Harrak count scalehounds and rakaths among their chief predators.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Scalehounds come down off a ridge above the Tavel valley in spring.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
+    },
   ],
 } as const satisfies Lore

@@ -52,6 +52,15 @@ export const otherwhereXiSmoke = {
       fact: 'Smoke inspects as "[Sheepdog: not dangerous. Herder. Loyal. Scalehound fighter.]"',
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Smoke keeps the Ashlar flock on her own when Tobin tells her to.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+        "world-character/otherwhere-xi-smoke",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

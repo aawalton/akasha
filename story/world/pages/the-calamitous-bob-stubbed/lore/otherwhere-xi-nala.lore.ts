@@ -92,6 +92,15 @@ export const otherwhereXiNala = {
       fact: "Nala speaks the local speech as easily as English, though she never learned it.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
     },
+    {
+      fact: "Nala came down from the Old Waystone barefoot, in tights, with her red hair loose.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

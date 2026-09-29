@@ -32,7 +32,12 @@ export const otherwhereXiAshlarFarm = {
     },
     {
       fact: "A hurdle lambing pen runs along the yard wall, loud with ewes and new lambs.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
     },
     {
       fact: "The sheepfold behind the house has a plank gate onto the hill; bread is sometimes left there.",
@@ -49,6 +54,32 @@ export const otherwhereXiAshlarFarm = {
     {
       fact: "Mid-morning the farm smells of dung, woodsmoke and barley bread baking in the ash.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Ashlar farmhouse is low and stone, with a blue door.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
+    },
+    {
+      fact: "Two small girls feed the hens in the Ashlar yard.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
+    },
+    {
+      fact: "The Ashlar farm is the better part of an hour's barefoot walk down the road from the ring.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
     },
   ],
 } as const satisfies Place
