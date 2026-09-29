@@ -42,7 +42,7 @@ export const otherwhereViiiTheInstitute = {
     },
     {
       fact: "The workshop has long benches, racks of tools, and a locked cabinet of teaching artefacts.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
     {
       fact: "The workshop keeps slates, chalk, paper, ink, pens and rules for setting and working things.",
@@ -54,7 +54,7 @@ export const otherwhereViiiTheInstitute = {
     },
     {
       fact: "Hallick's own bench sits at the workshop's far end, under the tall north window.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
     {
       fact: "Hallick's bench problem is a lens table: where each thickness of lens throws a lamp's focus.",
@@ -82,7 +82,11 @@ export const otherwhereViiiTheInstitute = {
     },
     {
       fact: "So the blank rows must be worked out from the filled ones, and no one has found the rule.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
     },
     {
       fact: "Hallick calls the missing rule the gap, and has set it to fourteen claimants in eleven years.",
@@ -186,7 +190,11 @@ export const otherwhereViiiTheInstitute = {
     },
     {
       fact: "Whoever sees the proportion can fill the blank rows, and check one against a lens at hand.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
     },
     {
       fact: "The teaching halls have tiered benches, a lectern, and a slate board across the front wall.",
@@ -231,6 +239,46 @@ export const otherwhereViiiTheInstitute = {
     {
       fact: "The Institute's apprentices are the children of mill owners, clerks and one or two bargemen.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hallick says he has been lied to before, by people who looked likelier than Nala.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-viii-hallick",
+        "character-player/otherwhere-viii-nala",
+      ],
+    },
+    {
+      fact: "Hallick says nothing of whether he believes Nala is from another world.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-viii-hallick",
+        "character-player/otherwhere-viii-nala",
+      ],
+    },
+    {
+      fact: "Hallick unlocks the Institute's side door and lets Nala in.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-viii-hallick",
+        "character-player/otherwhere-viii-nala",
+      ],
+    },
+    {
+      fact: "Every claimant before Nala left without the gap.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-viii-hallick",
+        "character-player/otherwhere-viii-nala",
+      ],
+    },
+    {
+      fact: "Hallick set Nala the gap to work, and stayed to watch her at it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-viii-hallick",
+        "character-player/otherwhere-viii-nala",
+      ],
     },
   ],
   secrets: "jsonl",

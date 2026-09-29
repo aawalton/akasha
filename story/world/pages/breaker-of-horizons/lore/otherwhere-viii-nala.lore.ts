@@ -100,6 +100,38 @@ export const otherwhereViiiNala = {
       fact: "Nala cannot read the angular marks beside the words on the Institute's course board.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
+    {
+      fact: "Nala says she is not from this world, which developed on its own path.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
+    },
+    {
+      fact: "Nala says she can chart the course of every function, even those with no natural solution.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
+    },
+    {
+      fact: "Nala says she can work wonders with no charm or sequence, only the natural world.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
+    },
+    {
+      fact: "Nala says she has never heard of a sequence or a charm.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

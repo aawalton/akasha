@@ -58,6 +58,6 @@ export const otherwhereViii00009 = {
     "place/otherwhere-viii-the-institute",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/picture"],
+  recordedBy: ["story-recorder/picture", "story-recorder/memory"],
   endsAt: "2026-09-28T07:08:00.000Z",
 } as const satisfies StoryTurnPlayed
