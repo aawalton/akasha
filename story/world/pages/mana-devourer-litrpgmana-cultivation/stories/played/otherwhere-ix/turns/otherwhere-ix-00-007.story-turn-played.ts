@@ -10,7 +10,7 @@ export const otherwhereIx00007 = {
   position: 7,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "\"Firrelia System, if you have a unique trait waiting for me, now is the time, otherwise you'll have lost your chance.\" I grab at the glass and try to stab it into the beast's throat.",
   beats: [
@@ -26,6 +26,6 @@ export const otherwhereIx00007 = {
     "Its jaws stay locked on her calf, and it twists again, harder, as if the pain has made it angry.",
   ],
   lore: ["lore/otherwhere-ix-shardback", "lore/otherwhere-ix-nala"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T15:38:00.000Z",
 } as const satisfies StoryTurnPlayed
