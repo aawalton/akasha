@@ -69,8 +69,97 @@ export const overwhereIiNala = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Her reservoir has no floor she can find, far deeper than any Depth's.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her reservoir refills from the Sea on its own within about an hour, waking or asleep.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her Water comes in already refined, with no salt or silt to crust her tributaries.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "All five of her primary tributaries are carved whole, and all five of their Locks are open.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her crown Lock is shut, and opening it before she is ready would kill her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She has a full Current already, in a pattern no family on Teyr would know.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Water cycling in her makes her far stronger, quicker and tougher than her size.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She can lift a grown man, outrun a riding hound, and take a club blow without a bruise.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her skin turns a knife as boiled leather would, and a cut on her closes in hours.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her Talent is Undertow, a Major Talent of esoteric focus, at Surface.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Undertow works when she clenches and releases her reservoir, most easily naming it aloud.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Undertow pushes or pulls anything with a tide of Water out to about thirty feet from her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Undertow can knock a bull off its feet, hold a thrown thing still, or drag a cart uphill.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Undertow draws Water, salt, silt and spiritual rot out of whatever she touches.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Drawn out of a body, rot comes away as a grey, stinking salt on her palm.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Undertow drawing on an Aberrant empties its reservoir, and it weakens and dies.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Water she draws out of anything pours into her own reservoir.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Undertow cannot move cold iron or pass through it, and cold iron feels numb to her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Anyone Talented within a stone's throw feels gooseflesh when she draws deeply.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Unspent for a day, her Water presses to get out, and it spills as cold salt sweat.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her Scope is not fixed: it widens each time she drives Undertow to its limit.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A Talented eye that reads Talents reads hers as Undertow, Major, Surface.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Under her breastbone Nala feels a deep well, cold, clear and vast, that stirs when she breathes.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
+  secrets: "jsonl",
 } as const satisfies Lore
