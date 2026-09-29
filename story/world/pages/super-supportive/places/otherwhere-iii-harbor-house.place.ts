@@ -15,6 +15,10 @@ export const otherwhereIiiHarborHouse = {
       fact: "It is a ten-minute walk from the Uptown Memorial ER.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "It sleeps forty women in bunk rooms, with showers and padlocked lockers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
