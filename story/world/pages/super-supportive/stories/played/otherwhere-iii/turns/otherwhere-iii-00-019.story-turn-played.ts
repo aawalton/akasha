@@ -52,5 +52,6 @@ export const otherwhereIii00019 = {
     "place/super-supportive-artonan-consulate-4",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2037-01-31T09:49:00.000Z",
 } as const satisfies StoryTurnPlayed
