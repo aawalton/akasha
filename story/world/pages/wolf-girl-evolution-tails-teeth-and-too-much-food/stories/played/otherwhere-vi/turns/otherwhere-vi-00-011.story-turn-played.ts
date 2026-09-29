@@ -7,8 +7,9 @@ export const otherwhereVi00011 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],
   position: 11,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     '"Great. The system isn\'t just useless, it also has an attitude. I would have used a roof if there was one!" I shout to the sky. I get up and use the stick to support myself and make my way downstream as best I can, hoping to find help or healing before I die of exposure.',
+  lore: ["place/otherwhere-vi-charcoal-camp", "lore/otherwhere-vi-nala"],
   endsAt: "2026-09-29T10:10:00.000Z",
 } as const satisfies StoryTurnPlayed
