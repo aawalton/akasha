@@ -41,7 +41,11 @@ export const haremHotelFloor2 = {
     },
     {
       fact: "Floor 2 holds two women: Wren as the bath mistress, and Odile as the bath attendant.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-odile",
+      ],
     },
     {
       fact: "The bath mistress wears nothing but thin gold chains at her waist and throat.",
