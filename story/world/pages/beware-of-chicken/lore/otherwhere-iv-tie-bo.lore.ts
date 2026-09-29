@@ -23,5 +23,9 @@ export const otherwhereIvTieBo = {
       fact: "At dusk by the shrine, Tie Bo asked Nala whether the wall-breaker is a boar or a spirit beast.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
+    {
+      fact: "At night by the shrine, Tie Bo asked Nala to come with him to Granny Hua's door in the morning.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore

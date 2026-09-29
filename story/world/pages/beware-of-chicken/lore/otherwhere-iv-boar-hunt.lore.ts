@@ -61,11 +61,11 @@ export const otherwhereIvBoarHunt = {
     },
     {
       fact: "Granny Hua keeps aconite, or wolfsbane, for rats, and a boiled paste of it for dogs gone mad.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
     {
       fact: "Aconite is the only strong poison in Three Stones; there is no other in the village or the market.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
     {
       fact: "Villagers have heard of poisoned baits for wolves, but none has poisoned a boar and eaten it.",
@@ -77,31 +77,31 @@ export const otherwhereIvBoarHunt = {
     },
     {
       fact: "Paddy earth is too soft and wet to hold a pit's walls, and the terraces are the village's rice.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
     {
       fact: "A pit by the wallow could work, but the ground there is bog and the boar's own wallow besides.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
     {
       fact: "Straw, pine resin and green bamboo smoke thickly, and the village has all three in plenty.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
     {
       fact: "Smoke in an open pit would rise away; a beast that can leave is not suffocated by it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
     {
       fact: "Fire in dry pine woods would run up the valley and take the terraces and the village with it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
     {
       fact: "Tie Bo would rather not smoke it: a blinded, burning boar is worse than a whole one.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
     {
       fact: "Tie Bo would take poison if offered, and would soak the stakes and the bait with it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
     {
       fact: "He would kill a goat or a duck to bait the wallow, though the village has few to spare.",
@@ -109,7 +109,7 @@ export const otherwhereIvBoarHunt = {
     },
     {
       fact: "Gu would forbid fire in the woods above the terraces, and any dig that could let water into them.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
     {
       fact: "The Fang brothers talk of a pit and of nets; neither has ever set either.",
@@ -117,23 +117,23 @@ export const otherwhereIvBoarHunt = {
     },
     {
       fact: "The village reckons a boar old enough to be this size must be many years old and cunning.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
     {
       fact: "A boar that old has smelled smoke, heard dogs and seen men before, and is not fooled twice.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
     {
       fact: "Tie Bo would not promise to kill it, only to make it bleed and leave the terraces alone.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
     {
       fact: "Tie Bo would ask two more men he trusts besides the Fangs, and arm them with boar spears.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
     {
       fact: "Tie Bo's bow is of mulberry wood, good against deer and no use against a hide like this one.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
   ],
 } as const satisfies Lore

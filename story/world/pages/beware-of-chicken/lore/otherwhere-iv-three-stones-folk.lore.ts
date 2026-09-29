@@ -257,7 +257,7 @@ export const otherwhereIvThreeStonesFolk = {
     },
     {
       fact: "The headman keeps two old iron-headed spears in his house against bandits.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
     {
       fact: "Wu Fan can fit a crossbar to a spear in an afternoon; iron heads come from a Lanqiao smith.",
@@ -382,6 +382,10 @@ export const otherwhereIvThreeStonesFolk = {
     {
       fact: "Around midday Headman Gu sits in his courtyard with the tax rolls and a pot of tea.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Granny Hua bars her door at night, and will not deal with anyone she has not seen by daylight.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
   ],
 } as const satisfies Lore

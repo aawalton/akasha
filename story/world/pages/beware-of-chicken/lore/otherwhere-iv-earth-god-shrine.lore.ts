@@ -85,7 +85,7 @@ export const otherwhereIvEarthGodShrine = {
     },
     {
       fact: "Granny Hua holds her doubts until she has seen the stranger by daylight and touched her hand.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
     {
       fact: "At the dusk rite Nala asked Old Grandfather to keep his people, who honor the old ways, safe.",
