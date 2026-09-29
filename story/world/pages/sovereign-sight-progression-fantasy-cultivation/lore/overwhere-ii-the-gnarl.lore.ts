@@ -35,5 +35,17 @@ export const overwhereIiTheGnarl = {
       fact: "Only villages lie between the Gnarl and the port of Bephir to the south.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Gnarl's peaks lie south of the Vale; towns nearer the Gnarl are finer than Vale.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Sunken City lies in the Gnarl and sells finer goods than the far north.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Nine Spires Academy lies far beyond the Gnarl, in the southern seas.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
