@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"general-purpose.subagent-kind.ts","path":"agent/subagent/modules/compose-subagent/compose-subagent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/subagent/kind/subagent-kind.page-type.ts","id":"01a06838-7a9d-7394-97ff-d069ea588410"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/amy-a5986c5530f824fb5/amy-a5986c5530f824fb5.subagent.ts","id":"01a0ed0f-2630-7151-8b9a-86283f994f06"}
+{"propertySlug":"subagent-kind","path":"agent/subagent/pages/iris-world-builder-overwhere-i-a48cd4330c85d613a/iris-world-builder-overwhere-i-a48cd4330c85d613a.subagent.ts","id":"01a0ed19-e721-721f-9cbe-90c85abaf5d9"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/iris-world-builder-overwhere-ii-a814c48fc8aac2692/iris-world-builder-overwhere-ii-a814c48fc8aac2692.subagent.ts","id":"01a0ed19-c0bc-7687-97b8-90213af3dea7"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/iris-world-builder-overwhere-iii-a4b503fa7fe976ff8/iris-world-builder-overwhere-iii-a4b503fa7fe976ff8.subagent.ts","id":"01a0ed13-7a84-7d24-8c49-316e7eab8cd0"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/iris-world-builder-overwhere-iii-a5725663ff49a35cf/iris-world-builder-overwhere-iii-a5725663ff49a35cf.subagent.ts","id":"01a0ed13-5dc9-7974-a7f8-87a387f680f5"}
