@@ -24,6 +24,10 @@ export const superSupportiveGorgonsBindings = {
       fact: "The binding spell framework can partly read his true intentions.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "He clicks when he wants to say something he cannot, and goes flat near advice.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
