@@ -4,6 +4,7 @@ export const otherwhereX00011 = {
   id: "01a0eb34-b826-7110-90b4-1d163ba9fbce",
   type: "page-type/story-turn-played",
   slug: "otherwhere-x-00-011",
+  cover: "image/image-168b1140fb6737a9",
   ownLength: 351,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-x"],
@@ -14,7 +15,7 @@ export const otherwhereX00011 = {
     "world-character/otherwhere-x-aldous-crane",
     "world-character/otherwhere-x-bess-crane",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I follow him out in confusion.",
   beats: [
     "Nala scoops the three coppers off the trestle and follows Aldous out, not sure what's happening.",
@@ -61,6 +62,6 @@ export const otherwhereX00011 = {
     "place/otherwhere-x-the-sheaf",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T19:40:00.000Z",
 } as const satisfies StoryTurnPlayed
