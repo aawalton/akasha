@@ -21,6 +21,7 @@ export const otherwhereViii00009 = {
     '"In, then," he says. "There\'s a thing on my bench that wants a mind."',
     "Inside: a short passage, a stair, then a workshop smelling of oil, cold metal and chalk dust.",
     "Long benches, racks of tools, tall windows; a locked cabinet stands against the wall.",
+    "The gap waits on the slate in two blank rows, with the chalk within reach.",
     "He sets the two rolls on a shelf by a cold teapot, and the tea can wait.",
     "He leads her to his own bench at the far end, under the tall north window.",
     "He lifts a slate onto the bench and turns it to face her.",
@@ -40,7 +41,6 @@ export const otherwhereViii00009 = {
     "He carries his tea and his rolls to the far end of the bench and sits down.",
     "He stays there and watches her work, with his tea going cold beside him.",
     "Above them the building is still; before long the apprentices will come and it will fill.",
-    "The gap waits on the slate in two blank rows, with the chalk within reach.",
     "The lamps come up as the door opens, in ones and twos along the benches.",
   ],
   issues: [
