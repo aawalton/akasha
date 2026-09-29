@@ -7,7 +7,8 @@ export const otherwhereIii00021 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
   position: 21,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     'While I wait for the Artonan staff to arrive, I tell Gorgon. "Thank you. If I someday have the power, I will help you if I can."',
+  lore: ["lore/otherwhere-iii-onn-desveth", "lore/super-supportive-gorgon"],
 } as const satisfies StoryTurnPlayed
