@@ -71,5 +71,21 @@ export const otherwhereIvEarthGodShrine = {
       fact: "The tea-stall woman came to the dusk rite with a cloth-covered basket and a small boy by the hand.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
+    {
+      fact: "No spirit dwells in the shrine's clay figure; the earth god is the village's faith and no more.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala casts an ordinary shadow and bears incense smoke easily; a fox test finds nothing on her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A blessing that praises the village's own ways and ancestors moves the folk more than any wonder.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Granny Hua holds her doubts until she has seen the stranger by daylight and touched her hand.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
