@@ -205,6 +205,10 @@ export const otherwhereIxNala = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Her new Constitution also lifts most mana from 344 to 392, and she is full at 392.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Killing the shardback brought Nala two level-up boxes: sixteen, then 24 unspent stat points.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
