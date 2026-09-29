@@ -4,13 +4,13 @@ export const otherwhereX00008 = {
   id: "01a0eaf5-1ab9-7092-a4e9-1303fbe3f93e",
   type: "page-type/story-turn-played",
   slug: "otherwhere-x-00-008",
-  ownLength: 359,
+  ownLength: 353,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-x"],
   position: 8,
   prose: "txt",
   characters: ["character-player/otherwhere-x-nala", "world-character/otherwhere-x-aldous-crane"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     'I choose to sing "O Danny Boy", since I don\'t know if they will understand the words, but the emotions can still come through the music. After that I sing "Homeward Bound"',
   beats: [
