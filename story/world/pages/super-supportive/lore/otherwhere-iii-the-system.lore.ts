@@ -45,4 +45,5 @@ export const otherwhereIiiTheSystem = {
       knowers: ["lore-disclosure/game-master"],
     },
   ],
+  secrets: "jsonl",
 } as const satisfies Lore
