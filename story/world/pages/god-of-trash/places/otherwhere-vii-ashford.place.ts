@@ -67,10 +67,7 @@ export const otherwhereViiAshford = {
       fact: "The smith, Garrick, is a big quiet man with a limp who needs a helper at the bellows.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "The miller's wife, Hild, is Ashford's healer and midwife, and knows common herbs.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "Ashford lies inside the Snowdrop school's lands by a mile, and folk believe that keeps them safe.",
       knowers: ["lore-disclosure/game-master"],
@@ -91,14 +88,7 @@ export const otherwhereViiAshford = {
       fact: "The miller lets anyone pick his midden, but sets his dog on anyone near the grain store.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Hild buys yarrow, nettle and comfrey by the bunch, a quarter-penny each, fresh cut.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Hild's cures are herbs and boiled water; she has never held a mage's potion.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "A pair of wooden clogs costs three pennies from Ashford's clogger, and bark shoes one.",
       knowers: ["lore-disclosure/game-master"],
@@ -287,6 +277,19 @@ export const otherwhereViiAshford = {
     },
     {
       fact: "Joan would take Nala's help gladly, and would set her to kneading and carrying, not the cows.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Joan tells the village Nala is a hired hand who cannot read, and says nothing of the reckoning.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-joan-reeve",
+        "character-other/otherwhere-vii-aldo-reeve",
+      ],
+    },
+    {
+      fact: "In Ashford a woman who reads has been somewhere, and folk would want to know where.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
