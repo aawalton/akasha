@@ -31,10 +31,13 @@ import {
   seatsStopped,
   undoneOf,
 } from "akasha/command/pages/story/turn/rewind/story-turn-rewind.command.code.ts"
+import {
+  bodyCommitted,
+  type Commit,
+  commitsLogged,
+} from "akasha/command/pages/story/turn/take-back/modules/turn-commits/turn-commits.module.code.ts"
 import { storyTurnTakeBack as page } from "akasha/command/pages/story/turn/take-back/story-turn-take-back.command.ts"
 import { textOnDisk } from "akasha/file/system/modules/text-on-disk/text-on-disk.module.code.ts"
-import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
-import { told as gitTold } from "akasha/git/modules/running/git-running.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { referencesFiled } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
@@ -66,12 +69,6 @@ const PAGE_ENDING = ".ts"
 
 const UNCOMMITTED = ".uncommitted."
 
-const RECORD = "\x1e"
-
-const FIELD = "\x1f"
-
-const BREAK = "\n"
-
 const MADE = " is made from the player's action"
 
 const TO_PLAYER = ` to ${PLAYER}`
@@ -79,12 +76,6 @@ const TO_PLAYER = ` to ${PLAYER}`
 const MOVES = " moves from "
 
 const SHORT = 11
-
-export type Commit = {
-  readonly commit: string
-  readonly subject: string
-  readonly paths: readonly string[]
-}
 
 export type Folders = { readonly story: string; readonly world: string }
 
@@ -105,32 +96,6 @@ function foldersIndexed(root: string, game: string): Folders | null {
   const world = listedAt(root, address.pageTypeSlug, address.slug)[0]
   if (world === undefined) return null
   return { story: `${dirname(story.path)}/`, world: `${dirname(world.path)}/` }
-}
-
-export function commitsIn(said: string): readonly Commit[] {
-  return said
-    .split(RECORD)
-    .filter((one) => one.trim() !== "")
-    .map((one) => {
-      const [head = "", ...paths] = one.split(BREAK)
-      const cut = head.indexOf(FIELD)
-      return {
-        commit: head.slice(0, cut),
-        subject: head.slice(cut + 1),
-        paths: paths.filter((path) => path !== ""),
-      }
-    })
-}
-
-function commitsLogged(root: string, range: string, within: readonly string[]): readonly Commit[] {
-  const format = `--format=${RECORD}%H${FIELD}%s`
-  const said = gitTold(root, ["log", "--no-renames", "--name-only", format, range, "--", ...within])
-  return said === null ? [] : commitsIn(said)
-}
-
-function bodyCommitted(root: string, commit: string, path: string): string | null {
-  const body = bodyAt(root, commit, path)
-  return body === null ? null : Buffer.from(body).toString("utf8")
 }
 
 export function besideListed(root: string, turn: string): readonly string[] {

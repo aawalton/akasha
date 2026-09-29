@@ -8,6 +8,7 @@ export const storyTurnTakeBack = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
+  parts: ["module/turn-commits"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

@@ -10,9 +10,9 @@ import {
   seen,
   WRITER,
 } from "akasha/command/pages/story/turn/cancel/story-turn-cancel.command.test-fixtures.ts"
+import { commitsIn } from "akasha/command/pages/story/turn/take-back/modules/turn-commits/turn-commits.module.code.ts"
 import {
   besideListed,
-  commitsIn,
   storyTurnTakeBack,
   type TakingBack,
 } from "akasha/command/pages/story/turn/take-back/story-turn-take-back.command.code.ts"

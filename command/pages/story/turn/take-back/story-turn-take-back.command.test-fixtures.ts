@@ -5,10 +5,8 @@ import {
   type Seen,
 } from "akasha/command/pages/story/turn/cancel/story-turn-cancel.command.test-fixtures.ts"
 import type { Turn } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
-import type {
-  Commit,
-  TakingBack,
-} from "akasha/command/pages/story/turn/take-back/story-turn-take-back.command.code.ts"
+import type { Commit } from "akasha/command/pages/story/turn/take-back/modules/turn-commits/turn-commits.module.code.ts"
+import type { TakingBack } from "akasha/command/pages/story/turn/take-back/story-turn-take-back.command.code.ts"
 import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
 import type { TurnStep } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
