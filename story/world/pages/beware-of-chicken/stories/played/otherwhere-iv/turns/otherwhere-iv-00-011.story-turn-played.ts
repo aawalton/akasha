@@ -11,7 +11,7 @@ export const otherwhereIv00011 = {
   position: 11,
   prose: "txt",
   characters: ["character-player/otherwhere-iv-nala", "character-other/otherwhere-iv-zhao-jun"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     'I light the incense and speak calmly and clearly, so the crowd can hear, saying "Old Grandfather of the Three Stones. Your people respect the old ways and honor their ancestors as they have for many years. May they be safe and prosper that they may continue to do so for many more."',
   beats: [
@@ -39,6 +39,6 @@ export const otherwhereIv00011 = {
   ],
   lore: ["lore/otherwhere-iv-earth-god-shrine"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
   endsAt: "2026-09-28T19:09:00.000Z",
 } as const satisfies StoryTurnPlayed
