@@ -81,5 +81,33 @@ export const overwhereINala = {
       fact: "Behind her breastbone Nala feels a vast, patient pressure that notices her back.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Asked for status, the System shows her a blue screen: Name ???, Species Human, Level 1.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Her status shows Class: None.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Her stats read Strength 8, Dexterity 10, Vigor 9, Attunement 30, Luck 12.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Her vitals read Health 40/40, Mana 120/120, Stamina 30/30.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Her status lists five reserves, Earth, Fire, Wind, Water and Electricity, each at 20/20.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Her status lists no skills, and one line that reads only: Legacy: ???",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Her legacy line and its skill stay ??? until she first draws on the pressure in her chest.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

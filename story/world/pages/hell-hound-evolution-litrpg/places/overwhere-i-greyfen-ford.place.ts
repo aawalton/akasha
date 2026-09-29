@@ -71,6 +71,10 @@ export const overwhereIGreyfenFord = {
       fact: "Pale river stones on the west bank hold a faint warmth where Nala woke, fading through the day.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The morning sky over the ford is a pale red, with a small white sun.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
