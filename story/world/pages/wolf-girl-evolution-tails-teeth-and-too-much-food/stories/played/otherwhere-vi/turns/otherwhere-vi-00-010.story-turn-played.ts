@@ -11,4 +11,5 @@ export const otherwhereVi00010 = {
   action:
     "I try to find some degree of shelter, even a bush if possible, and then fall asleep, hoping to wake again.",
   lore: ["place/otherwhere-vi-cowberry-bank", "lore/otherwhere-vi-nala"],
+  endsAt: "2026-09-29T06:10:00.000Z",
 } as const satisfies StoryTurnPlayed
