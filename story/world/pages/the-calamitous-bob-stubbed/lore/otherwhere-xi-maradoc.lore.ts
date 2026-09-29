@@ -42,7 +42,7 @@ export const otherwhereXiMaradoc = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Outlanders arrive with the blessing of Maradoc, which hides their status from inspection.",
+      fact: "Viv arrived with the blessing of Maradoc, which hid her status from inspection.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
