@@ -33,6 +33,22 @@ test("which openings are page types is read off the index the change leaves", ()
   expect(judged(rooted({ [HELD]: body }), [HELD])).toEqual([])
 })
 
+test("a page arriving refuses a body already there that spells the page's address", () => {
+  const root = rooted({ [HELD]: SPELLS, [PAGE]: "export const held = {}\n" })
+  const held = change(root, [PAGE])
+  const arriving = { ...held, before: (path: string) => (path === PAGE ? null : held.before(path)) }
+  const cast = shadowFor(arriving)
+  if ("refused" in cast) throw new Error(cast.refused)
+  const said = noPageAddressSpelled(arriving, cast.shadow)
+  expect(said.map((one) => one.path)).toEqual([HELD])
+  expect(said[0]?.reason).toContain(`\`${ADDRESS}\``)
+})
+
+test("a page already there judges no body the change does not carry", () => {
+  const root = rooted({ [HELD]: SPELLS, [PAGE]: "export const held = {}\n" })
+  expect(judged(root, [PAGE])).toEqual([])
+})
+
 test("a page the change carries is passed over", () => {
   const body = `export const held = { parts: ["${ADDRESS}"] }\n`
   expect(judged(rooted({ [PAGE]: body }), [PAGE])).toEqual([])

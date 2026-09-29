@@ -83,6 +83,7 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-index-path-spelled/no-index-path-spelled.check-code.check.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-index-path-spelled/no-index-path-spelled.check-code.decision.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-method-signature/no-method-signature.check-code.check.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-page-address-spelled/no-page-address-spelled.check-code.check.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-page-address-spelled/no-page-address-spelled.check-code.check.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-page-address-spelled/no-page-address-spelled.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/no-raw-nul-bytes/no-raw-nul-bytes.check-code.check.test.ts","typed":false,"deferred":false}

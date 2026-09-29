@@ -59,6 +59,14 @@ export const noPageAddressSpelled = {
       statement: "Every phase judges alike.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A page arriving at change judges every body already there spelling its address.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Those bodies are found by searching the tree for the address as a fixed string.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "An address built from anything but one plain string is not seen.",
     },
