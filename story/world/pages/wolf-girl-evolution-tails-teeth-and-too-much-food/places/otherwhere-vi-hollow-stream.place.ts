@@ -324,6 +324,10 @@ export const otherwhereViHollowStream = {
       fact: "The shrubs below the wallow hang thick with clusters of small red berries, sharp, sour and seedy.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
+    {
+      fact: "A handful of the sour red berries below the wallow barely dents an empty stomach's hunger.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
   ],
   exits: [
     {

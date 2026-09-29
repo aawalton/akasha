@@ -128,6 +128,18 @@ export const otherwhereViNala = {
       fact: "Nala's shirt is wet through, and the night wind down the valley cuts straight through it.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
+    {
+      fact: "Nala's shivering has turned to hard, jerking spasms through her shoulders and jaw.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "Nala's fingertips are numb and white; she can barely feel her staff, and her fingers won't close.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "Nala's thoughts come slow and thick with the cold, as if pushing through cold water.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
