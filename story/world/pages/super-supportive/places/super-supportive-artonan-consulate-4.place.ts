@@ -13,7 +13,11 @@ export const superSupportiveArtonanConsulate4 = {
     },
     {
       fact: "From Lawrence it is about half an hour south on the Red Line, then a short walk.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-priya-raman",
+      ],
     },
     {
       fact: "On a Saturday the lobby opens at nine with no classes, and Gorgon is at the desk as always.",
@@ -21,7 +25,7 @@ export const superSupportiveArtonanConsulate4 = {
     },
     {
       fact: "It is a blocky gray concrete-and-glass cube behind a security fence with a gate on tracks.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "Three poles out front fly multicolored streamers, the Artonans' planetary flags.",
@@ -41,7 +45,11 @@ export const superSupportiveArtonanConsulate4 = {
     },
     {
       fact: "Its Red Line stop is Monroe, downtown; the consulate is a five-minute walk west from there.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-priya-raman",
+      ],
     },
     {
       fact: "The Red Line from Lawrence runs every ten minutes or so on a Saturday morning.",
@@ -50,6 +58,26 @@ export const superSupportiveArtonanConsulate4 = {
     {
       fact: "It opens at 9 AM and holds only evening classes on weekdays.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "It opens at nine on Saturdays.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-priya-raman",
+      ],
+    },
+    {
+      fact: "Three tall poles out front fly long streamers of many colors.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
+      fact: "The lobby has pale terrazzo floors and a dark wood ceiling set with tiny lights like strange stars.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
+      fact: "Crickets chirp in the lobby plants, and tourists photograph the one behind the front desk.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
   ],
   within: "place/otherwhere-iii-chicago",

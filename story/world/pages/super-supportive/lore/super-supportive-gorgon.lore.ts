@@ -10,23 +10,27 @@ export const superSupportiveGorgon = {
   facts: [
     {
       fact: "He is about five feet tall, with smooth gray skin like a stingray's and black shark-like eyes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "He has a wide flat nose with four nostril slits and possibly no ears.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "A couple dozen horns curve around his skull and flare into a spiky choker around his neck.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "Glowing golden magical bindings chain him to the desk, and his wrists are raw beneath them.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "He watches the security monitors, avoids eye contact and needs little sleep.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He keeps his eyes on the desk's security monitors, away from the phones pointed at him.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",

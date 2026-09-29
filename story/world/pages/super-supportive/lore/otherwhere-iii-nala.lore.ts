@@ -192,6 +192,18 @@ export const otherwhereIiiNala = {
         "character-other/otherwhere-iii-denise-pruitt",
       ],
     },
+    {
+      fact: "Nala wears the donated sweatpants, crackling coat and snow boots a size too big, and is warm.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
+      fact: "Nala carries the clothing bag with Denise's clogs, fleece and wet socks inside.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
+      fact: "Nala rode the Red Line south to Monroe and reached the Artonan Consulate at 9:23 that Saturday.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
