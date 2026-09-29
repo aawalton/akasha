@@ -89,6 +89,7 @@ export const worldCheck = {
     "world-check/overwhere-ii-time-passing",
     "world-check/overwhere-iii-time-passing",
     "world-check/overwhere-i-time-passing",
+    "world-check/overwhere-i-action-check",
     "world-check/overwhere-iv-time-passing",
   ],
   properties: [{ pageProperty: "module-property-group/settling", required: true, many: false }],
