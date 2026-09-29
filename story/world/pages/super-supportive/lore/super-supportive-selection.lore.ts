@@ -16,6 +16,10 @@ export const superSupportiveSelection = {
       fact: "Most are chosen between the ages of 15 and 17.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Everyone knows the selection speech by heart; it cites the 1963 agreement with the Artonans.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
