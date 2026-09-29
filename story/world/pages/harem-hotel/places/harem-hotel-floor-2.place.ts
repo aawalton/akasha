@@ -81,7 +81,11 @@ export const haremHotelFloor2 = {
     },
     {
       fact: "The bath mistress reads the mosaic aloud to Alan when he first reaches the pool.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-odile",
+      ],
     },
   ],
 } as const satisfies Place
