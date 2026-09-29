@@ -7,7 +7,8 @@ export const otherwhereIx00009 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],
   position: 9,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I jam my forearms into its throat, glass and all. Either it will die first or I will, and the other will soon follow.",
+  lore: ["lore/otherwhere-ix-shardback"],
 } as const satisfies StoryTurnPlayed
