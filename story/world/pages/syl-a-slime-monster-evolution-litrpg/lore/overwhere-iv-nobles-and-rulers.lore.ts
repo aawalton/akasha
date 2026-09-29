@@ -13,14 +13,6 @@ export const overwhereIvNoblesAndRulers = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The Renait Federation is a human country whose seat is known only as The Capital.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "The Capital lies far to the east of Kaerlin and Southbrook.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
       fact: "Noble houses of the human realms hold titles by birth and pass them to heirs.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -66,26 +58,6 @@ export const overwhereIvNoblesAndRulers = {
     },
     {
       fact: "A human king resents Keldenar's power and has sent assassins against him.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "The Outeatus Kingdom is a human realm and the sworn enemy of the elves.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Outeatus sent knights to assassinate the elf princess Sylthaeryn Feirelle.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Outeatus is allied with the Dornhallow elves, a disgraced elven branch.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Rumor blames Outeatus for the blast that destroyed the elven embassy in Dhoggurum.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Outeatus courts the dwarves, and the elves pressure any dwarf who listens.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -186,10 +158,6 @@ export const overwhereIvNoblesAndRulers = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The floating isle of Glimmerock is ruled by a line of royal alicorns.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
       fact: "King Sebastion Fluttersparkle Shimmerhorn III, a Royal Alicorn, was slain on Glimmerock.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -234,7 +202,7 @@ export const overwhereIvNoblesAndRulers = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Admirals command the navy; Admiral Nathaniel holds the floating fortress Peggy.",
+      fact: "Admirals command the navy, each holding one of its great floating forts.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
