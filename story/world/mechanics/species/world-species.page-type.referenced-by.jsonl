@@ -143,6 +143,7 @@
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-dragons.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-easterners.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-elementals.world-species.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-fire-wasp.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-flesh-walker.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-forest-spider.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-golems.world-species.ts","typed":true,"deferred":false}
@@ -162,10 +163,13 @@
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-paramese.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-remnants.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-revenant.world-species.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-scalehound.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-shadowlanders.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-siege-tarantula.world-species.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-snakehound.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-southern-tribes.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-vizimans.world-species.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-wyrm.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-yries.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/species/boreal-half-elf.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/species/drake.world-species.ts","typed":true,"deferred":false}
