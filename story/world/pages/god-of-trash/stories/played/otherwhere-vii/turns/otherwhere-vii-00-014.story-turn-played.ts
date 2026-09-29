@@ -38,5 +38,6 @@ export const otherwhereVii00014 = {
     "place/otherwhere-vii-ashford",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2026-09-28T12:27:00.000Z",
 } as const satisfies StoryTurnPlayed
