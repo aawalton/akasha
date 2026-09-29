@@ -58,7 +58,7 @@ export const otherwhereViSystem = {
     },
     {
       fact: "One with no reading skill who says Inspect, Appraise or Identify gets no answer at all.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "Identify can form in one who tries often, with intent, to know what a thing truly is.",
@@ -66,7 +66,7 @@ export const otherwhereViSystem = {
     },
     {
       fact: "Eating a plain berry shows nothing on a status: no line, no effect, no remark.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "Thinking a status entry's name, or asking what it does, shows that entry's description.",

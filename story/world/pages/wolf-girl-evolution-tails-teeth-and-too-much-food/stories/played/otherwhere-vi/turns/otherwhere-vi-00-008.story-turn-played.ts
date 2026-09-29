@@ -39,6 +39,6 @@ export const otherwhereVi00008 = {
     "lore/otherwhere-vi-nala",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-28T22:36:00.000Z",
 } as const satisfies StoryTurnPlayed

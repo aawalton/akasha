@@ -316,6 +316,10 @@ export const otherwhereViHollowStream = {
       fact: "Low shrubs on the drier banks under the pines below the wallow carry small red berries.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
+    {
+      fact: "The shrubs below the wallow hang thick with clusters of small red berries, sharp, sour and seedy.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
   ],
   exits: [
     {

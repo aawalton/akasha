@@ -120,6 +120,14 @@ export const otherwhereViNala = {
       fact: "Blood from the scrape on her right shin has run down inside her tights, sticky and cold.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
+    {
+      fact: "Nala's status now shows HP 19/30, SP 19/28 and MP 5/5.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "Nala's shirt is wet through, and the night wind down the valley cuts straight through it.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
