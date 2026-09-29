@@ -15,7 +15,7 @@ export const otherwhereVi00013 = {
     "character-other/otherwhere-vi-wat",
     "character-other/otherwhere-vi-burr",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     '"I\'m Nala, I\'m from very far away and not entirely sure how I got here, or where even "here" is. Could you help me get oriented?"',
   beats: [
@@ -40,12 +40,15 @@ export const otherwhereVi00013 = {
     "Wat spits into the fire and looks at her across it for a while.",
     "He asks her straight out, the way he would ask about weather, whether anybody is hunting her.",
   ],
+  issues: [
+    '"a day up the stream to the fells" - the Weald is some four days across, its middle north of here',
+  ],
   lore: [
     "lore/otherwhere-vi-customs",
     "lore/otherwhere-vi-nala",
     "place/otherwhere-vi-charcoal-camp",
     "place/otherwhere-vi-greypine-weald",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T12:15:00.000Z",
 } as const satisfies StoryTurnPlayed
