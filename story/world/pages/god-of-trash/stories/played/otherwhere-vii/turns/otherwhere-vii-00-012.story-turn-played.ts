@@ -4,6 +4,7 @@ export const otherwhereVii00012 = {
   id: "01a0eaeb-61b3-7536-a194-ee782bbcf88a",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vii-00-012",
+  cover: "image/image-c12ac7ab1b34d6bf",
   ownLength: 314,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vii"],
@@ -46,6 +47,6 @@ export const otherwhereVii00012 = {
     "place/otherwhere-vii-ashford",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T12:18:00.000Z",
 } as const satisfies StoryTurnPlayed
