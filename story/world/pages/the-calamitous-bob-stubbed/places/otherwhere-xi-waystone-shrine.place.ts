@@ -115,7 +115,7 @@ export const otherwhereXiWaystoneShrine = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Tobin saw no light at the ring this morning; he was in the fold behind the hill until sunrise.",
+      fact: "Tobin spends the dawn in the fold behind the hill, and climbs to the ring after sunrise.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
