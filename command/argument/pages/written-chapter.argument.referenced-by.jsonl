@@ -1,3 +1,4 @@
 {"propertySlug":"argument","path":"command/pages/story/turn/advance/story-turn-advance.command.ts","id":"01a0deca-7611-72a6-9435-385ed7dedb72"}
+{"propertySlug":"import","fileName":"written-chapter.argument.ts","path":"agent/hook/agent-hook/block-stop-before-advance/block-stop-before-advance.agent-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"written-chapter.argument.ts","path":"command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"written-chapter.argument.ts","path":"command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts","typed":false,"deferred":false}

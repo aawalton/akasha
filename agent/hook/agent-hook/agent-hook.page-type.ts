@@ -17,6 +17,7 @@ export const agentHook = {
     "agent-hook/block-git-writes",
     "agent-hook/block-history-search",
     "agent-hook/block-memory-writes",
+    "agent-hook/block-stop-before-advance",
     "agent-hook/block-subagent-audit",
     "agent-hook/block-typecheck",
     "agent-hook/block-world-builder-lore",

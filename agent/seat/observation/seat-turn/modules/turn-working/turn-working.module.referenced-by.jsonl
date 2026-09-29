@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"turn-working.module.code.ts","path":"agent/hook/agent-hook/block-stop-before-advance/block-stop-before-advance.agent-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-working.module.code.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-working.module.code.ts","path":"agent/hook/agent-hook/inference-hook/state-needs-attention/state-needs-attention.inference-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-working.module.code.ts","path":"agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.code.ts","typed":false,"deferred":false}

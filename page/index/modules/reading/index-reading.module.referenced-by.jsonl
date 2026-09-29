@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/claude-code/remote-control/registration-credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/hook/agent-hook/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/hook/agent-hook/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/hook/agent-hook/block-stop-before-advance/block-stop-before-advance.agent-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/hook/agent-hook/inference-hook/state-needs-attention/state-needs-attention.inference-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.code.ts","typed":false,"deferred":false}
