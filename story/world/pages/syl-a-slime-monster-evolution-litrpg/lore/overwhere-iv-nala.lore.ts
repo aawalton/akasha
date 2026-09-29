@@ -76,5 +76,18 @@ export const overwhereIvNala = {
       fact: "A cart driver on the road by the common stopped and stared at Nala as she woke.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Her one decisive advantage is Dimension Magic from a pure legacy affinity, at level one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The warmth behind her ribs is her dimensional mana; reaching for it with intent works it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her first working of Dimension Magic shows its line in her status, and its spells as found.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
+  secrets: "jsonl",
 } as const satisfies Lore
