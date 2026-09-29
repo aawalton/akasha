@@ -134,6 +134,30 @@ export const otherwhereXiTavelford = {
       fact: "The carrier Joss drives a wool cart down to Imra every eighth day and brings back news.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The hill road comes down past the Ashlar farm, the first house, a quarter hour above the village.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Ashlars keep a stone house, a sheepfold and a barking dog; Tobin's mother Wenna runs it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At first light Tavelford wakes: hearth smoke, dogs, women at the well, men out to the flocks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Lambing pens of hurdles stand along the lane into Tavelford, full of ewes and new lambs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hill folk greet a stranger with 'Sardanal keep you' and wait to be told the stranger's business.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Most Tavelford folk have never seen an outlander, and take strange strangers for Paramese.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
