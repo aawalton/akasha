@@ -23,6 +23,7 @@
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"command/pages/music/capture/music-capture.command.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"command/pages/music/import-artist/music-import-artist.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"command/pages/music/rate/music-rate.command.test-fixtures.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"applying.module.code.ts","path":"command/pages/story/join-unread/story-join-unread.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"story/world/characters/modules/character-filing/character-filing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"applying.module.code.ts","path":"story/world/stories/read/wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts","typed":false,"deferred":false}

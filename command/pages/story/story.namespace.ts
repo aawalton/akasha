@@ -7,6 +7,7 @@ export const story = {
   definition: "the stories this repository holds, and what a reading of them found",
   parts: [
     "command/story-character-file",
+    "command/story-join-unread",
     "command/story-chapter-close",
     "command/story-chapter-write",
     "command/story-settle",
