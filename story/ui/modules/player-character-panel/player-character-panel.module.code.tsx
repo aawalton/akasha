@@ -28,7 +28,7 @@ const ONE = 1
 
 const CARD = "flex flex-col gap-3 rounded-xl p-4 shadow-sm"
 
-export type PlayerDrawn = {
+type PlayerDrawn = {
   readonly name: string | null
   readonly level: number | string | null
   readonly cover: string | null
