@@ -13,7 +13,7 @@ export const otherwhereXiViv = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Viv is called the Black Witch, Bob the Calamity, Lady Bob and Viviane the Outlander.",
+      fact: "Viv is called the Black Witch, Lady Bob and Viviane the Outlander.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
