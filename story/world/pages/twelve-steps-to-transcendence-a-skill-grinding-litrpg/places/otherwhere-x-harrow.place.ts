@@ -33,14 +33,7 @@ export const otherwhereXHarrow = {
       knowers: ["lore-disclosure/game-master"],
     },
     { fact: "Harrow's reeve is Aldous Crane.", knowers: ["lore-disclosure/game-master"] },
-    {
-      fact: "Aldous's son Hob, ten, herds the village geese, talks without stopping and fears nothing.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "At dusk Hob drives the geese in along the road's west end, toward Harrow Mile.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "The Sheaf is Harrow's alehouse, on the green.",
       knowers: ["lore-disclosure/game-master"],
@@ -75,10 +68,7 @@ export const otherwhereXHarrow = {
       fact: "On day one at six, Hob Crane and a dozen geese come west along the road below the rise.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Hob will ask a stranger everything at once, and run to fetch his father at anything odd.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "Bare feet are the mark of beggars and children in Harrow; grown folk wear clogs or boots.",
       knowers: ["lore-disclosure/game-master"],
@@ -108,10 +98,7 @@ export const otherwhereXHarrow = {
       fact: "The goose boy speaks slow and broad, with a country burr.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
     },
-    {
-      fact: "Hob's mother is Bess Crane, Aldous's wife: stout, quick-tempered and quicker to feed people.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "The Cranes live in the stone-footed house on the green's east side, by the bell post.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
@@ -120,18 +107,7 @@ export const otherwhereXHarrow = {
       fact: "On day one's evening Aldous and Bess are at home, supper on the board, waiting on Hob.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Hob is proud his da is reeve, says so to anyone, and will lead a polite stranger straight home.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Hob must pen the geese in the fold behind the Sheaf before he may go home.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Bess will not turn a barefoot woman away hungry, whatever Aldous thinks of her.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "Nala is a rare name; in Harrow it was Nala Pike's alone, and every older soul remembers it.",
       knowers: ["lore-disclosure/game-master"],
@@ -140,15 +116,7 @@ export const otherwhereXHarrow = {
       fact: "Harrow loves a new tale or song; winter evenings are long and the same stories worn thin.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Bess came from Wexley to wed Aldous twenty years ago and never saw Nala Pike.",
-      knowers: ["lore-disclosure/game-master"],
-    },
 
-    {
-      fact: "The goose boy is Hob, son of Aldous Crane, Harrow's reeve.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
-    },
     {
       fact: "The reeve keeps Harrow's roll, and everyone in Harrow has to answer to him.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
@@ -201,14 +169,7 @@ export const otherwhereXHarrow = {
       fact: "At the name Nala, Aldous gripped the door frame white-knuckled, his face unchanged.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
     },
-    {
-      fact: "Hob had never heard the name Nala before.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
-    },
-    {
-      fact: "The stout woman at the Cranes' door says anyone on her doorstep gets fed.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
-    },
+
     {
       fact: "Aldous silenced the stout woman with a raised hand, without looking round.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
