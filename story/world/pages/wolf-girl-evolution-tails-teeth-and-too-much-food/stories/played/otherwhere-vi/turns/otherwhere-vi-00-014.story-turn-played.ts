@@ -7,7 +7,14 @@ export const otherwhereVi00014 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],
   position: 14,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     '"No one is hunting me, but I am owned by no village either, which means the village maybe not be safe for me. Are there other options for healing? If I increase my level or stats, would that be enough?"',
+  lore: [
+    "lore/otherwhere-vi-customs",
+    "lore/otherwhere-vi-nala",
+    "place/otherwhere-vi-brackenford",
+    "place/otherwhere-vi-charcoal-camp",
+    "place/otherwhere-vi-wenmarch",
+  ],
 } as const satisfies StoryTurnPlayed
