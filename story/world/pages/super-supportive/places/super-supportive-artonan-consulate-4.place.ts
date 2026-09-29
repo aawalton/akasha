@@ -111,6 +111,10 @@ export const superSupportiveArtonanConsulate4 = {
       fact: "Gorgon may take an enrollment form at the desk any day the lobby is open.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Spring classes run weekday evenings and are free to city residents, some bearing credit.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   within: "place/otherwhere-iii-chicago",
   secrets: "jsonl",
