@@ -31,5 +31,30 @@ export const overwhereIvMillbrookCommon = {
       fact: "The town has a small adventurers' hall that posts work on a board by its door.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The slimes on the common are blue slimes of LV 1 to 3, and they are harmless.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Children harvest the slimes' jelly with knives and jars, for a copper a jar.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A cut slime slowly regrows its jelly, so the town takes care never to kill them all.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Lately more slimes gather on the common each day than the day before.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Some of the new slimes have red cores instead of the usual blue.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The townsfolk have noticed the growing slime crowd, and nobody can say why.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
+  secrets: "jsonl",
 } as const satisfies Place
