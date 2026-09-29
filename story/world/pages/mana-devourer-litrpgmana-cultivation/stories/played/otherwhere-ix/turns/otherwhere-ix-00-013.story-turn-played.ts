@@ -31,5 +31,6 @@ export const otherwhereIx00013 = {
     "Its back rises above the grass, bristling pale, and it is bigger than the one at her knees.",
   ],
   lore: ["lore/otherwhere-ix-nala", "lore/otherwhere-ix-shardback"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T15:55:00.000Z",
 } as const satisfies StoryTurnPlayed
