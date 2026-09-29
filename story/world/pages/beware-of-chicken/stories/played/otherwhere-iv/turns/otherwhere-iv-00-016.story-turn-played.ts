@@ -38,5 +38,6 @@ export const otherwhereIv00016 = {
     "She stays at the gate with her arms folded, waiting, and does not open it.",
   ],
   lore: ["lore/otherwhere-iv-granny-hua", "lore/otherwhere-iv-nala"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-29T06:33:00.000Z",
 } as const satisfies StoryTurnPlayed
