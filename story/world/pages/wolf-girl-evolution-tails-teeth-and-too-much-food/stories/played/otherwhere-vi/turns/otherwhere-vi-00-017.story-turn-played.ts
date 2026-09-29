@@ -15,7 +15,7 @@ export const otherwhereVi00017 = {
     "character-other/otherwhere-vi-wat",
     "character-other/otherwhere-vi-burr",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "I go inside to eat.",
   beats: [
     "Nala hands the shovel to Jory, lifts the door-hide, and goes in out of the grey morning.",
@@ -28,7 +28,7 @@ export const otherwhereVi00017 = {
     "Jory comes in from the clamp, takes his own bowl, and sits on the bed of fern opposite.",
     "Wat says she will sleep the day out by the fire, as a watcher does, once she has eaten.",
     "Jory eats a while in silence, then looks up at her over the bowl.",
-    "He says a guest owes news of the road, and she has told them nothing of hers.",
+    "He says a guest owes news of the road, and hers is still to come.",
     "He asks her what it is like, the far country she comes from.",
   ],
   issues: ['"you\'ve told us none of yours" - Plain Negation'],
