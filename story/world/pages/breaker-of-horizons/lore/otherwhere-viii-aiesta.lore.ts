@@ -81,6 +81,10 @@ export const otherwhereViiiAiesta = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The day Nala woke in Weir Gardens is a Monday.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Folk tales tell of the fey snatching children, and of spirits and spectres; few believe them.",
       knowers: ["lore-disclosure/game-master"],
     },

@@ -101,6 +101,34 @@ export const otherwhereViiiGuildhall = {
       ],
     },
     {
+      fact: "The Long Stair has an iron handrail and a landing with a bench every hundred steps.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "From the middle landing the whole of Low Bank shows below: rooftops, the weir, the grey Carrow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At dawn millhands and bakers' boys come down the Stair to work; few go up.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Stair's steps are dished and slick with dew in the morning; loose shoes slip on them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Spire's honey-coloured top shows above the rooftops from the Stair's upper half.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At dawn Mercer Street is shut but for Hobb's bakery, whose back hatch sells rolls from six.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Institute's iron gate is shut before half past seven; a side door is a little way along.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The Institute of Artifice is on Mercer Street, just off Guildhall Square.",
       knowers: [
         "lore-disclosure/game-master",
