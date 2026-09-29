@@ -7,5 +7,11 @@ export const superSupportiveArtonanConsulate = {
   title: "Artonan consulates",
   world: "world/super-supportive",
   about: "world-organization/super-supportive-artonan-consulate",
+  facts: [
+    {
+      fact: "Consulates also teach culture, Beginners Wordchaining and an intro to one Artonan script.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
