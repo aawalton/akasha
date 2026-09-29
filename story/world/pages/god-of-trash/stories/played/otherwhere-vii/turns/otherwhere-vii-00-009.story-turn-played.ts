@@ -11,4 +11,5 @@ export const otherwhereVii00009 = {
   action:
     "\"Oh. Oh dear. I'm afraid the steward has been cheating you then. For a 10% tithe, he should have taken only seven and a little less than half, not nine. He's taken more than one and a half more than he should have.\"",
   lore: ["lore/otherwhere-vii-aldo-reeve"],
+  endsAt: "2026-09-28T08:22:00.000Z",
 } as const satisfies StoryTurnPlayed
