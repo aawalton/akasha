@@ -10,7 +10,7 @@ export const otherwhereViii00005 = {
   position: 5,
   prose: "txt",
   characters: ["character-player/otherwhere-viii-nala", "character-other/otherwhere-viii-maddox"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "\"Thank you, that's very kind. May I know the name of my garden knight? I'm Nala.\"",
   beats: [
     'Nala says, "Thank you, that\'s very kind," and takes the shoes and the coat from him.',
@@ -30,8 +30,9 @@ export const otherwhereViii00005 = {
   issues: [
     '"You stand at the park gate under the iron letters" - Leave It Open',
     '"with Weir Street running uphill before you" - No Prompt',
+    '"Nala stands at the park gate" - she was away from the gate, where Maddox came back from the shed',
   ],
   lore: ["place/otherwhere-viii-weir-gardens"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T06:00:00.000Z",
 } as const satisfies StoryTurnPlayed
