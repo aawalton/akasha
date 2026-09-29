@@ -15,5 +15,9 @@ export const overwhereIiHaydensPromontory = {
       fact: "Hidden handholds cut at Hayden's Promontory let a climber cross the Drop there.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Harker carved the hidden handholds at Hayden's Promontory.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place

@@ -51,5 +51,9 @@ export const overwhereIiTheDrop = {
       fact: "Rocky foothills lie north of the Drop, with hidden shelters in them.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Harker keeps a small shelter in the rocky foothills north of the Drop.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
