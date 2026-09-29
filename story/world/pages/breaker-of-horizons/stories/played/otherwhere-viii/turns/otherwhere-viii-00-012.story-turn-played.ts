@@ -14,4 +14,5 @@ export const otherwhereViii00012 = {
     "place/otherwhere-viii-the-workshop",
     "place/otherwhere-viii-the-workshop-room",
   ],
+  endsAt: "2026-09-28T09:40:00.000Z",
 } as const satisfies StoryTurnPlayed
