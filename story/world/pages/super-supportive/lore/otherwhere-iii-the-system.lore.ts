@@ -60,6 +60,10 @@ export const otherwhereIiiTheSystem = {
       fact: "The System takes no request for affixation outside selection, and says so plainly.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "It makes no contract of silence by telephone and does not bargain with an unregistered caller.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
