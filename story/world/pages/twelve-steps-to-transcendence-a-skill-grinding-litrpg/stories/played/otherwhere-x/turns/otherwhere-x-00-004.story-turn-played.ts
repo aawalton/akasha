@@ -30,5 +30,6 @@ export const otherwhereX00004 = {
   ],
   lore: ["place/otherwhere-x-harrow"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2026-09-28T18:31:00.000Z",
 } as const satisfies StoryTurnPlayed
