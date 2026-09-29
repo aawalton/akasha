@@ -40,6 +40,10 @@ export const superSupportiveGorgonsBindings = {
       fact: "He may not make contracts that invest anyone with his authority.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Pushing their limits makes them burn and chars the skin beneath.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
