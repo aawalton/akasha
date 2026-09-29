@@ -1,4 +1,5 @@
 {"propertySlug":"extends-type","path":"story/lore/place/place.page-type.ts","id":"01a0d42e-f05d-7b7a-b366-dceb25db06b5"}
+{"propertySlug":"import","fileName":"lore.page-type.ts","path":"agent/modules/withheld-hiding/withheld-hiding.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.ts","path":"command/pages/story/tell/story-tell.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.ts","path":"command/pages/story/tell/story-tell.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.ts","path":"command/pages/story/turn/modules/turn-lore-gathered/turn-lore-gathered.module.code.ts","typed":false,"deferred":false}

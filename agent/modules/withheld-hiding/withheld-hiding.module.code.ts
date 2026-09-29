@@ -12,6 +12,13 @@ import { insideOf } from "akasha/agent/hook/modules/settling/settling.module.cod
 import { seatIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { gitIn } from "akasha/file/modules/git-place/git-place.module.code.ts"
 import {
+  listedById,
+  valueByPath,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  pathOf,
+  seatOf,
   WITHHELD,
   withheldFor,
 } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
@@ -37,6 +44,12 @@ const NO_NETWORK = "--unshare-net"
 const READ_ONLY = "--ro-bind"
 
 const EMPTIED = "--tmpfs"
+
+const WORLDS = "story/world/pages/"
+
+const SLASH = "/"
+
+const ASSIGNMENT = "assignmentSlug"
 
 type Env = Readonly<Record<string, string | undefined>>
 
@@ -131,15 +144,46 @@ function cwdKept(at: string | null): readonly string[] {
   return [WRITABLE, at, at]
 }
 
+export function worldOf(path: string): string | null {
+  if (!path.startsWith(WORLDS)) return null
+  const parts = path.slice(WORLDS.length).split(SLASH)
+  const name = parts[0]
+  return parts.length < 2 || name === undefined || name === "" ? null : `${WORLDS}${name}`
+}
+
+export function worldFor(root: string, agentId: string | null): string | null {
+  if (agentId === null || agentId === "") return null
+  const listed = listedById(root, seatOf(agentId))
+  const value = listed === null ? null : valueByPath(root, listed.path)
+  const assigned = value === null ? null : textAt(value, ASSIGNMENT)
+  const at = assigned === null ? null : pathOf(root, assigned)
+  return at === null ? null : worldOf(at)
+}
+
+type Apart = { readonly pages: readonly string[]; readonly worlds: readonly string[] }
+
+function heldApart(withheld: readonly string[], own: string | null): Apart {
+  const pages: string[] = []
+  const worlds = new Set<string>()
+  for (const one of withheld) {
+    const world = worldOf(one)
+    if (world === null || world === own) pages.push(one)
+    else worlds.add(world)
+  }
+  return { pages, worlds: [...worlds].sort() }
+}
+
 export function hidingFor(place: Place, agentId: string | null): readonly string[] {
   const withheld = withheldFor(place.root, agentId)
   if (withheld.length === 0) return []
   const notice = noticeWritten(place.home)
+  const apart = heldApart(withheld, worldFor(place.root, agentId))
   return [
     NO_NETWORK,
     ...readOnly(place.home),
     ...emptied(gitIn(place.root)),
-    ...withheld.flatMap((one) => shownAs(notice, join(place.root, one))),
+    ...apart.worlds.flatMap((one) => emptied(join(place.root, one))),
+    ...apart.pages.flatMap((one) => shownAs(notice, join(place.root, one))),
     ...claudeEmptied(place),
     ...snapshotsKept(place),
     ...shownAs(notice, join(place.home, CLAUDE_STATE)),

@@ -19,7 +19,16 @@ export const withheldHiding = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A withheld page in the checkout reads as the refusal the hook gives.",
+      statement:
+        "A withheld page in the world of the seat's story reads as the refusal the hook gives.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Any other world holding a withheld page is emptied whole.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "bwrap refuses a call handed more than 9000 arguments.",
     },
     {
       decisionKind: "decision-kind/departure",

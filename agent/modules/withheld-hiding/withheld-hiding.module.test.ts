@@ -6,15 +6,20 @@ import {
   NOTICE_AT,
   type Place,
   placeIn,
+  worldFor,
+  worldOf,
 } from "akasha/agent/modules/withheld-hiding/withheld-hiding.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
+import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { lore } from "akasha/story/lore/lore.page-type.ts"
 import { WITHHELD } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
 import {
   GAME_MASTER_SEAT,
   LORE_AT,
   loreWorld,
   OTHER_SEAT,
+  REVIEWER_SEAT,
   UNDER_GAME_MASTER,
 } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts"
 
@@ -32,7 +37,22 @@ mkdirSync(dirname(join(root, LORE_AT)), { recursive: true })
 
 writeFileSync(join(root, LORE_AT), "held\n")
 
-function placeAnew(): Place {
+const HELD_WORLD = "story/world/pages/held"
+
+const FAR_WORLD = "story/world/pages/far"
+
+const FAR_AT = `${FAR_WORLD}/lore/distant.lore.ts`
+
+const wide = loreWorld(scratch)
+
+valueAlsoFiled(wide, lore.slug, [
+  {
+    path: FAR_AT,
+    value: { id: "01a0d600-0000-7000-8000-00000000000c", type: lore.slug, slug: "distant" },
+  },
+])
+
+function placeAnew(at: string = root): Place {
   const home = realpathSync(scratch.rootFor("withheld-hiding-home-"))
   const runtime = realpathSync(scratch.rootFor("withheld-hiding-runtime-"))
   const claude = join(home, ".claude", "accounts", "one")
@@ -45,7 +65,7 @@ function placeAnew(): Place {
   const session = join(temps[1] ?? "", "claude-7", "cwd-folder", "session")
   mkdirSync(session, { recursive: true })
   return {
-    root,
+    root: at,
     home,
     claude,
     runtime,
@@ -129,6 +149,37 @@ test("a game master's call sees no temp file but its own session's and the harne
   expect(pairs.indexOf(`--tmpfs ${varTmp}`)).toBeLessThan(
     pairs.indexOf(`--bind ${session} ${session}`)
   )
+})
+
+test("another world holding a withheld page is emptied whole rather than page by page", () => {
+  const place = placeAnew(wide)
+  const notice = join(place.home, NOTICE_AT)
+
+  const pairs = pairsIn(hidingFor(place, GAME_MASTER_SEAT))
+
+  expect(pairs).toContain(`--tmpfs ${join(wide, FAR_WORLD)}`)
+  expect(pairs).toContain(`--ro-bind ${notice} ${join(wide, LORE_AT)}`)
+  expect(pairs.some((one) => one.includes(FAR_AT))).toBe(false)
+})
+
+test("a seat whose assignment names no world has every world holding a withheld page emptied", () => {
+  const pairs = pairsIn(hidingFor(placeAnew(wide), REVIEWER_SEAT))
+
+  expect(pairs).toContain(`--tmpfs ${join(wide, HELD_WORLD)}`)
+  expect(pairs).toContain(`--tmpfs ${join(wide, FAR_WORLD)}`)
+})
+
+test("a seat's world is the world holding the story the seat is assigned", () => {
+  expect(worldFor(root, GAME_MASTER_SEAT)).toBe(HELD_WORLD)
+  expect(worldFor(root, UNDER_GAME_MASTER)).toBe(HELD_WORLD)
+  expect(worldFor(root, REVIEWER_SEAT)).toBeNull()
+  expect(worldFor(root, null)).toBeNull()
+})
+
+test("a page's world is the folder under the worlds that page sits in", () => {
+  expect(worldOf(LORE_AT)).toBe(HELD_WORLD)
+  expect(worldOf("story/world/pages/held.ts")).toBeNull()
+  expect(worldOf("persona/pages/held/held.persona.ts")).toBeNull()
 })
 
 test("a subagent under a game master's seat is hidden what the seat is", () => {

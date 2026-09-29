@@ -53,6 +53,12 @@ export const WORLD_ABOUT = "world/held"
 
 export const TOLD_AT = "story/world/pages/held/lore/told.lore.ts"
 
+export const STORY_AT = "story/world/pages/held/stories/played/held/held.story-played.ts"
+
+const STORY_TYPE = "story-played"
+
+const ASSIGNMENT = "assignmentSlug"
+
 const TARGET_TYPE = "world-character"
 
 const TARGET = `${TARGET_TYPE}/hidden`
@@ -100,6 +106,7 @@ function seatsFiled(root: string): undefined {
         type: typeOf(seat.slug),
         slug: "held",
         [role.propertySlug]: addressOf(rolePageType.slug, gameMaster.slug),
+        [ASSIGNMENT]: addressOf(STORY_TYPE, "held"),
       },
     },
     {
@@ -162,6 +169,12 @@ function targetsFiled(root: string): undefined {
     {
       path: WORLD_AT,
       value: { id: "01a0d600-0000-7000-8000-00000000000a", type: typeOf("world"), slug: "held" },
+    },
+  ])
+  valueAlsoFiled(root, STORY_TYPE, [
+    {
+      path: STORY_AT,
+      value: { id: "01a0d600-0000-7000-8000-00000000000b", type: typeOf(STORY_TYPE), slug: "held" },
     },
   ])
 }
