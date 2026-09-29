@@ -102,6 +102,8 @@ export type Story = {
   readonly run?: readonly Commit[]
   readonly now?: Readonly<Record<string, string>>
   readonly outcomes?: string
+  readonly drafts?: string[]
+  readonly draftRefused?: string
 }
 
 const SCORED = { relationshipPoints: 12 }
@@ -182,6 +184,11 @@ export function reachOver(turn: Turn, into: Seen, story: Story = {}): TakingBack
     },
     bodyNow: (_root, path) => now[path] ?? null,
     besideOnDisk: () => [AT, PROSE_AT, OUTCOMES_AT],
+    draft: (_root, game, action) => {
+      if (story.draftRefused !== undefined) return story.draftRefused
+      story.drafts?.push(`${game}: ${action}`)
+      return null
+    },
   }
 }
 

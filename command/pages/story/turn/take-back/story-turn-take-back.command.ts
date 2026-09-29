@@ -102,6 +102,14 @@ export const storyTurnTakeBack = {
       statement: "A notice that fails after the landing is told, and undoes nothing.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A take-back puts the turn's action in its story's action draft once it lands.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A take-back sends no action, and the player alone sends the draft again.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement:
         "An image made for the turn is left, since no page of the story holds it any longer.",

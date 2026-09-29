@@ -41,6 +41,7 @@ import { textOnDisk } from "akasha/file/system/modules/text-on-disk/text-on-disk
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { referencesFiled } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
+import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
@@ -77,6 +78,10 @@ const MOVES = " moves from "
 
 const SHORT = 11
 
+const ACTION = "action"
+
+const ACTION_DRAFT = "actionDraft"
+
 export type Folders = { readonly story: string; readonly world: string }
 
 export type TakingBack = Rewinding & {
@@ -85,6 +90,7 @@ export type TakingBack = Rewinding & {
   readonly bodyThen: (root: string, commit: string, path: string) => string | null
   readonly bodyNow: (root: string, path: string) => string | null
   readonly besideOnDisk: (root: string, turn: string) => readonly string[]
+  readonly draft: (root: string, game: string, action: string) => string | null
 }
 
 function foldersIndexed(root: string, game: string): Folders | null {
@@ -107,6 +113,17 @@ export function besideListed(root: string, turn: string): readonly string[] {
     .map((one) => `${folder}/${one.name}`)
 }
 
+function draftedBeside(root: string, game: string, action: string): string | null {
+  const story = listedAt(root, storyPlayed.slug, game)[0]
+  if (story === undefined) return `\`${game}\` names no played story here`
+  try {
+    mergeUncommitted(root, story.path, { [ACTION_DRAFT]: action })
+    return null
+  } catch (thrown) {
+    return thrown instanceof Error ? thrown.message : String(thrown)
+  }
+}
+
 export const TAKEN: TakingBack = {
   ...REWOUND,
   foldersOf: foldersIndexed,
@@ -114,6 +131,7 @@ export const TAKEN: TakingBack = {
   bodyThen: bodyCommitted,
   bodyNow: (root, path) => textOnDisk(join(root, path)),
   besideOnDisk: besideListed,
+  draft: draftedBeside,
 }
 
 export function takeBackNoticeOf(turn: string, latest: string | null): string {
@@ -280,6 +298,14 @@ async function noticesOf(
   return undefined
 }
 
+function draftedFor(reach: TakingBack, root: string, game: string, turn: Turn, after: Told) {
+  const action = textAt(turn.value, ACTION)
+  if (action === null || action.trim() === "") return
+  const why = reach.draft(root, game, action)
+  if (why === null) after.report.push(`drafted\t${game}\tthe action, back in the action bar`)
+  else after.faults.push(`the action was not put back in the action bar: ${why}`)
+}
+
 async function heldOn(
   done: string[],
   slug: string,
@@ -312,6 +338,7 @@ async function heldOn(
   const landed = await landing(given.root, asking, `${slug} is ${TAKEN_BACK}`, by)
   if ("refusals" in landed) return keeping(done, refusedBy([...landed.refusals], DATA))
   const after: Told = { report: [...reportOf(slug, undoing, undone)], faults: [] }
+  draftedFor(reach, given.root, held.game, turn, after)
   seatsStopped(reach, given.root, held.game, after)
   if (reach.release(given.root, turn.at)) after.report.push(`discarded\tthe recorders' kept edits`)
   await noticesOf(reach, given.root, held.game, turn, after)

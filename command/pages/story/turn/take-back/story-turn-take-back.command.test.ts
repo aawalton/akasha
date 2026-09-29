@@ -4,6 +4,7 @@ import { join } from "node:path"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   BUILDER,
+  GAME,
   landingInto,
   MASTER,
   type Seen,
@@ -92,6 +93,29 @@ test("a take-back stops the game's reviewer and recorder seats, discards kept ed
   expect(into.releases).toEqual([AT])
   const said = `The turn \`${AT}\` was taken back; the story's latest turn is \`${BEFORE_AT}\`.`
   expect(into.notices).toEqual([`${MASTER}: ${said}`, `${BUILDER}: ${said}`, `${WRITER}: ${said}`])
+})
+
+test("a take-back puts the turn's action in its story's action draft, and sends nothing", async () => {
+  const into = seen()
+  const drafts: string[] = []
+  const answer = await takenBy(reachOver(turnAt(), into, { drafts }), into)
+  expect(drafts).toEqual([`${GAME}: I open the gate`])
+  expect(answer.report).toContain(`drafted\t${GAME}\tthe action, back in the action bar`)
+  expect(into.notices.join("\n")).not.toContain("I open the gate")
+})
+
+test("a take-back that lands nothing puts nothing in the action draft", async () => {
+  const into = seen()
+  const drafts: string[] = []
+  await takenBy(reachOver(turnAt(), into, { drafts, latest: "the-saga-00-004" }), into)
+  expect(drafts).toEqual([])
+})
+
+test("a draft not written is told, and the take-back still lands", async () => {
+  const into = seen()
+  const answer = await takenBy(reachOver(turnAt(), into, { draftRefused: "held" }), into)
+  expect(JSON.stringify(answer)).toContain("the action was not put back in the action bar: held")
+  expect(into.steps).toContain("land")
 })
 
 test("an outcome's number on a page set back to its body is not taken back twice", async () => {
