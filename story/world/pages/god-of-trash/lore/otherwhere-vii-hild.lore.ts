@@ -58,8 +58,20 @@ export const otherwhereViiHild = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Hild is the miller's wife and Ashford's healer.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+      fact: "Hild hears 'no one living is mine' as orphan, exile or runaway, and judges which by the hands.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hild would offer Nala herb-picking at a quarter-penny a bunch, and ask her nothing more.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hild has midwifed and buried half of Ashford, and her word carries more weight than the headman's.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hild would tell a kinless woman plainly that she needs a place, and that Ashford could be one.",
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
