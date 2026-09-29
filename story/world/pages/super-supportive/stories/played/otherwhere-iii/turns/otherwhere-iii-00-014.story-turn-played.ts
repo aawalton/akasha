@@ -4,6 +4,7 @@ export const otherwhereIii00014 = {
   id: "01a0ea7b-34d4-738a-9444-7493bc9c63c3",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-014",
+  cover: "image/image-3358b0121b3b57bf",
   ownLength: 349,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
@@ -13,7 +14,7 @@ export const otherwhereIii00014 = {
     "character-player/otherwhere-iii-nala",
     "character-other/otherwhere-iii-priya-raman",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: '"No, not yet."',
   beats: [
     'Nala says, "No, not yet."',
@@ -33,6 +34,6 @@ export const otherwhereIii00014 = {
   ],
   lore: ["place/otherwhere-iii-harbor-house", "lore/otherwhere-iii-priya-raman"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2037-01-31T08:30:00.000Z",
 } as const satisfies StoryTurnPlayed
