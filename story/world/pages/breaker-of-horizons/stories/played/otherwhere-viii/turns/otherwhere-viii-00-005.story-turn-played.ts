@@ -4,13 +4,14 @@ export const otherwhereViii00005 = {
   id: "01a0ea89-64d7-7b08-879c-5d97bb508b6b",
   type: "page-type/story-turn-played",
   slug: "otherwhere-viii-00-005",
+  cover: "image/image-83dae65c32070027",
   ownLength: 265,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-viii"],
   position: 5,
   prose: "txt",
   characters: ["character-player/otherwhere-viii-nala", "character-other/otherwhere-viii-maddox"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "\"Thank you, that's very kind. May I know the name of my garden knight? I'm Nala.\"",
   beats: [
     'Nala says, "Thank you, that\'s very kind," and takes the shoes and the coat from him.',
@@ -35,6 +36,6 @@ export const otherwhereViii00005 = {
   ],
   lore: ["place/otherwhere-viii-weir-gardens"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T06:00:00.000Z",
 } as const satisfies StoryTurnPlayed
