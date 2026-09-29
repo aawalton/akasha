@@ -7,5 +7,11 @@ export const superSupportiveContractTattoo = {
   title: "Contract tattoos",
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-contract-tattoo",
+  facts: [
+    {
+      fact: "A private magical contract is sealed by tattoos, which serve as its proof.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
