@@ -10,7 +10,7 @@ export const otherwhereIii00016 = {
   position: 16,
   prose: "txt",
   characters: ["character-player/otherwhere-iii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I wait for the tourists to leave, then go up to the unusual person behind the desk, then say quietly \"You don't know me, but I have a feeling I can trust you, and I have a tale to tell that I don't think you've ever heard before. Could we speak privately?\"",
   beats: [
@@ -29,6 +29,6 @@ export const otherwhereIii00016 = {
     '"I am bored, little stranger, and you are not boring. Tell me your tale."',
   ],
   lore: ["lore/super-supportive-gorgon", "lore/super-supportive-gorgons-bindings"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2037-01-31T09:30:00.000Z",
 } as const satisfies StoryTurnPlayed
