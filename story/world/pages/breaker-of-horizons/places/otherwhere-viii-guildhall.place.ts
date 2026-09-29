@@ -256,6 +256,42 @@ export const otherwhereViiiGuildhall = {
       fact: "The ink-stained man goes from the bakery hatch to the Institute's side door, key in hand.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
+    {
+      fact: "Doran Hallick heads the Institute, as its master; he trained at the Academy thirty years ago.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hallick is an arcanist and artificer, too old and too needed at home to be called up.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Guildhall knows Hallick as brusque, exacting and fair; his apprentices fear and admire him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hallick is short with anyone before his first cup of tea, and he takes that at his desk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Pedlars of 'secret sequences' and fake artefacts often try to sell to the Institute's master.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A stranger offering Hallick 'knowledge' sounds to him like one of those pedlars at first.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hallick trusts a thing shown over a thing claimed, and asks for proof in one plain question.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Trained arcanists feel a person's flare at arm's length, as a faint warmth or pressure.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Within arm's length of Nala, Hallick pauses and studies her longer than any pedlar earns.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
