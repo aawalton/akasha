@@ -49,6 +49,10 @@ export const superSupportiveGorgon = {
       fact: "He can smell attraction and pity on humans.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "He finds scheming a cure for boredom and human adolescence beautiful and stupid.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
