@@ -205,6 +205,22 @@ export const otherwhereXiNamedSpells = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The Witch's Twister is a single-target twister cast with no black mana.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A disruption net of colorless and change mana eats falling spell fragments.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Flay is a black spell; Triple Aegis and Hyperbeams are high sequences of linked casts.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Wind Vortice is a dragon's gale spell, cast by Avarice.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Longview makes shimmering lenses of air for seeing far.",
       knowers: ["lore-disclosure/game-master"],
     },
