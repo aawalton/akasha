@@ -41,5 +41,6 @@ export const otherwhereIii00015 = {
     "He keeps his eyes on a bank of security monitors, away from the phones pointed at him.",
   ],
   lore: ["place/super-supportive-artonan-consulate-4"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2037-01-31T09:23:00.000Z",
 } as const satisfies StoryTurnPlayed
