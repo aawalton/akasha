@@ -7,7 +7,8 @@ export const otherwhereViii00004 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-viii"],
   position: 4,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     '"Sorry, I meant the Institute of course. Still waking up it seems. Point me in the right direction? I\'m not afraid of the hills, give me a chance to clear my head."',
+  lore: ["place/otherwhere-viii-guildhall", "place/otherwhere-viii-weir-gardens"],
 } as const satisfies StoryTurnPlayed
