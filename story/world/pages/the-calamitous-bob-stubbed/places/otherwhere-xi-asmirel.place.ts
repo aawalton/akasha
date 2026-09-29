@@ -80,5 +80,13 @@ export const otherwhereXiAsmirel = {
       fact: "Men who fled the winter battles at Barrier drift home through Asmirel, some as brigands.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Asmirel is Prince Tavaris's land, and the Tavel valley lies in it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
+    },
   ],
 } as const satisfies Place

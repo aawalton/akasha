@@ -72,6 +72,14 @@ export const otherwhereXiWennaAshlar = {
       fact: 'Wenna inspects as "[Wilderness farmer: not dangerous. Hill farmer. Tireless. Grieving.]"',
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Tobin's mother knows all the old tales.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

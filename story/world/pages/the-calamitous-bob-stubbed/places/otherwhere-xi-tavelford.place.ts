@@ -158,6 +158,22 @@ export const otherwhereXiTavelford = {
       fact: "Most Tavelford folk have never seen an outlander, and take strange strangers for Paramese.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Tavelford lies in the valley below the waystone ring, where the hearth smoke rises.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
+    },
+    {
+      fact: "The Ashlar farm, a stone house and a sheepfold, is the first house down the hill road.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

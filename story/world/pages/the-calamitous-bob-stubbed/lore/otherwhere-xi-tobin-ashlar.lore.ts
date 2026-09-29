@@ -78,15 +78,27 @@ export const otherwhereXiTobinAshlar = {
     },
     {
       fact: "To Tobin the Old Empire is Harrak, over the sea in Param, which fell to the dead long ago.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
     },
     {
       fact: "Tobin has heard from Joss's news that a witch-queen now rules Harrak's dead lands.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
     },
     {
       fact: "Tobin names his home as the Tavel valley in Asmirel, Prince Tavaris's land, two days above Imra.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
     },
     {
       fact: "Tobin has never been past Imra; Param to him is a far land of pale foreigners and wars.",
@@ -94,7 +106,11 @@ export const otherwhereXiTobinAshlar = {
     },
     {
       fact: "Tobin has never heard of a waystone carrying anyone; to him they are shrines, not roads.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
     },
     {
       fact: "The shepherd boy on the hill road is named Tobin Ashlar.",
@@ -130,6 +146,22 @@ export const otherwhereXiTobinAshlar = {
     },
     {
       fact: "Tobin has a mother, whom he calls Mam.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
+    },
+    {
+      fact: "Tobin takes Nala for Paramese.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
+    },
+    {
+      fact: "Tobin keeps the flock on the hill till noon.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",

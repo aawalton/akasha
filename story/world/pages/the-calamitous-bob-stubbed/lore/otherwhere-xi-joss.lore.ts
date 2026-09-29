@@ -72,6 +72,14 @@ export const otherwhereXiJoss = {
       fact: 'Joss inspects as "[Carter: not dangerous. Carrier and trader. Talkative. Greedy. Sly.]"',
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Joss is a carter who hears news in Imra.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

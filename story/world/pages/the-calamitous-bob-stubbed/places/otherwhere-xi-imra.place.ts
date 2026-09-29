@@ -58,6 +58,14 @@ export const otherwhereXiImra = {
       fact: "A Sheem hawk, a spy for the conquerors, keeps a room above Imra's cloth hall.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Imra is two days down the river from Tavelford.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
