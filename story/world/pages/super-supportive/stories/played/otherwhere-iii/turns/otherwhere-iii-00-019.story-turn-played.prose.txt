@@ -20,6 +20,8 @@ Then one dry click sounds in his throat.
 
 "You ask what every stranger asks," he says, "and it is the one thing everyone here already knows. The Contract has no ears. It doesn't hear anything said into the air. Not by you. Not by me."
 
+"A civilian reaches it one way only. By telephone, through the Avowed Communications Network."
+
 His grey hand comes back across the counter. He takes the pen, turns the form over to its blank back, and writes on it. Neat block letters, one line, long. When he is done he pushes it toward you.
 
 "Public number. Any phone will do, even a bad one. There's one on the lobby wall." He puts the pen down. "The greeting is a machine's. Do not expect an Artonan to pick up. Answer what it asks plainly. It punishes prank calls."
@@ -39,5 +41,3 @@ Two clicks. A flat tone. Then a voice that isn't anyone's at all.
 On the small screen above the keypad, a silver sigil blooms, bright, and it stays there, and it doesn't wipe away.
 
 "You are not registered with this network. State your name, your reason and your urgency."
-
-The line hums, open, and waits for all three.
