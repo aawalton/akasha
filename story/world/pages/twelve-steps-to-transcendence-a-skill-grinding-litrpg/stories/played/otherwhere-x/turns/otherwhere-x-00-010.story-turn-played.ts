@@ -4,6 +4,7 @@ export const otherwhereX00010 = {
   id: "01a0eb2b-6ea5-7819-8b72-e87a5780f225",
   type: "page-type/story-turn-played",
   slug: "otherwhere-x-00-010",
+  cover: "image/image-d9ef907549ffba3a",
   ownLength: 237,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-x"],
@@ -14,7 +15,7 @@ export const otherwhereX00010 = {
     "world-character/otherwhere-x-aldous-crane",
     "world-character/otherwhere-x-martha-deane",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     '"I told you I come from far away, far enough that the tongue of Sulon is not the only tongue. I\'m fluent in a few tongues and can understand several more."',
   beats: [
@@ -54,6 +55,6 @@ export const otherwhereX00010 = {
     "place/otherwhere-x-the-sheaf",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T19:25:00.000Z",
 } as const satisfies StoryTurnPlayed
