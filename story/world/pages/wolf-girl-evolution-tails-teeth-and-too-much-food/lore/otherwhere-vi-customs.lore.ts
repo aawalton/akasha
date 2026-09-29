@@ -163,6 +163,26 @@ export const otherwhereViCustoms = {
       ],
     },
     {
+      fact: "Weald folk take any land they never heard of for somewhere past the Empire's far edge.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Weald folk hear wonders of a far country as a traveller's tall tale, and enjoy it as one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Talk of another world, or of waking in a new body, sounds to Weald folk like fever or a curse.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Weald folk hold that a curse or a wonder is the Stars priests' business, and send such word on.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Word of a strange guest goes down with the raft to Brackenford, and by market day to Wenmarch.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "A guest owes the house that shelters her news of the road.",
       knowers: [
         "lore-disclosure/game-master",
