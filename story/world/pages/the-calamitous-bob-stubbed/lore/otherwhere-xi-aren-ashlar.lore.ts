@@ -45,7 +45,7 @@ export const otherwhereXiArenAshlar = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Aren fears the steward's rope, the Sheem's lash, and hard men's tempers.",
+      fact: "Aren fears the Sheem's lash and hard men's tempers.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
