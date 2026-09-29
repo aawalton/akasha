@@ -22,7 +22,10 @@ import { spelledAs } from "akasha/change/modules/value-spelling/value-spelling.m
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import ts from "typescript"
 
-const PLACED = "is written already, and `after` places a key rather than a value"
+const PLACED =
+  "is written already, and `after` names the key a key falls after rather than a place among that" +
+  " key's values — a value already in a list moves with `move-property-value`, or is stated anew" +
+  " at its place with `change-page-page-property`"
 
 export type AddPropertyValueAsked = {
   readonly at: string

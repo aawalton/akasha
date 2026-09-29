@@ -99,6 +99,20 @@ export const addPropertyValues = {
       statement: "Nothing here says where among a property's values a value lands.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A value put in is added after every value the key already holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "`after` names the key a new key falls after rather than a place among a property's values.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Putting a value at a place among values is left to `change-page-page-property` with `place`.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here works out a body of its own.",
     },

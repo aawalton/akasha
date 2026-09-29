@@ -156,7 +156,7 @@ test("an `after` stated where the page states the key already is refused rather 
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(
-    "`partSlugs` is written already, and `after` places a key rather than a value"
+    "`partSlugs` is written already, and `after` names the key a key falls after rather than a place among that key's values — a value already in a list moves with `move-property-value`, or is stated anew at its place with `change-page-page-property`"
   )
 })
 

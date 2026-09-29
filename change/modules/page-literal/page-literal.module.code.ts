@@ -10,6 +10,8 @@ const BARE = /^[A-Za-z_$][A-Za-z0-9_$]*$/
 
 const READING = "value.ts"
 
+const COUNTED = /^\d+$/
+
 const SHORT = 20
 
 const SPACING = /\s+/g
@@ -57,7 +59,14 @@ export function afterFaultIn(
   const named = owner.properties.some(
     (each) => ts.isPropertyAssignment(each) && keyOf(each) === after
   )
-  return named ? null : `\`${after}\` is stated nowhere, so \`after\` names no place`
+  if (named) return null
+  if (COUNTED.test(after)) {
+    return (
+      `\`${after}\` counts a place rather than naming a key, and \`after\` names the key a key` +
+      ` falls after`
+    )
+  }
+  return `\`${after}\` is stated nowhere, so \`after\` names no place`
 }
 
 export function literalIn(source: ts.SourceFile): ts.ObjectLiteralExpression | null {

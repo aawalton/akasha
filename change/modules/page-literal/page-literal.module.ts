@@ -50,6 +50,11 @@ export const pageLiteral = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "An `after` counting a place is a fault saying so rather than a fault saying it is stated nowhere.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The fault in a place a list holds no value at is worded here rather than by each caller.",
     },
     {

@@ -51,6 +51,13 @@ const PLACED = "`after` places a key rather than a value inside a record, so not
 const INSIDE =
   "A list field inside a record is reached with `where`, `is` and `field` under the record's key."
 
+const COUNTING = /^\d+$/
+
+const PLACES =
+  "`after` names the key a line's key falls after rather than a place among a key's values — a" +
+  " value already among values moves with `move-property-value`, or is stated anew at its place" +
+  " with `change-page-page-property`"
+
 export type Line = {
   readonly at: string
   readonly key: string
@@ -172,6 +179,8 @@ function wholeIn(given: Asked): Whole | { readonly refused: string } {
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const body = given[ADDED]
   if (body === undefined) return refusing(missing(ADDED))
+  const after = given[AFTER]
+  if (after !== undefined && COUNTING.test(after)) return refusing(PLACES)
   const whole = wholeIn(given)
   if ("refused" in whole) return refusing(whole.refused)
   const read = readIn(body)

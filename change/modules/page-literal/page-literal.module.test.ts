@@ -81,6 +81,12 @@ test("no `after` stated has no fault", () => {
   expect(afterFaultIn(literalIn(sourceOf()) as never, undefined)).toBeNull()
 })
 
+test("an `after` counting a place is refused as that rather than as a key stated nowhere", () => {
+  expect(afterFaultIn(literalIn(sourceOf()) as never, "4")).toBe(
+    "`4` counts a place rather than naming a key, and `after` names the key a key falls after"
+  )
+})
+
 test("a body exporting no object literal is bound to no name", () => {
   expect(boundIn(sourceOf("export const held = 3\n"))).toBeNull()
 })

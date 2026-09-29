@@ -339,6 +339,16 @@ test("`where` and `is` stated without `field` are refused", async () => {
   expect(handed).toEqual([])
 })
 
+test("an `after` counting a place is refused with the changes stating a value at a place", async () => {
+  const { said, handed } = await handing(worldTold(NONE), { added: ASKED_LINE, after: "2" })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain("`after` names the key a line's key falls after")
+  expect(said.refused ?? "").toContain("`move-property-value`")
+  expect(said.refused ?? "").toContain("`change-page-page-property`")
+  expect(handed).toEqual([])
+})
+
 test("`after` stated with a record is refused", async () => {
   const { said, handed } = await handing(worldTold(NONE), {
     ...RECORD,

@@ -81,6 +81,11 @@ export const addPropertyValue = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The refusal for an `after` where the key is written names the changes placing a value among values.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The body is answered rather than written.",
     },
     {
