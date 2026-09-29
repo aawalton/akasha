@@ -11,4 +11,5 @@ export const otherwhereIii00016 = {
   action:
     "I wait for the tourists to leave, then go up to the unusual person behind the desk, then say quietly \"You don't know me, but I have a feeling I can trust you, and I have a tale to tell that I don't think you've ever heard before. Could we speak privately?\"",
   lore: ["lore/super-supportive-gorgon", "lore/super-supportive-gorgons-bindings"],
+  endsAt: "2037-01-31T09:30:00.000Z",
 } as const satisfies StoryTurnPlayed
