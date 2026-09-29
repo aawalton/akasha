@@ -7,7 +7,8 @@ export const otherwhereIii00025 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
   position: 25,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“I will exercise my right. I would request Esh-erdi as my trusted witness. He should be on Earth soon to celebrate his inesvul if he isn’t here already. As I am new to this world, he is the only one I would trust.”",
+  lore: ["lore/otherwhere-iii-onn-desveth", "lore/super-supportive-esh"],
 } as const satisfies StoryTurnPlayed
