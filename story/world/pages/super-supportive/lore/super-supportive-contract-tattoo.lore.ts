@@ -12,6 +12,10 @@ export const superSupportiveContractTattoo = {
       fact: "A private magical contract is sealed by tattoos, which serve as its proof.",
       knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
     },
+    {
+      fact: "Private contracts lack full System oversight and can omit the human protections.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
