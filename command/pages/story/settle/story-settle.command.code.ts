@@ -32,10 +32,12 @@ import {
 } from "akasha/command/modules/change-running/change-running.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import {
-  type Added,
-  addedOf,
   askedFor,
+  keptOnly,
+  keptPageOf,
+  pageIn,
   type Summed,
+  settledAt,
   settledBefore,
   summedFor,
   sumsOf,
@@ -67,7 +69,6 @@ const NAMED = [
   draftArgument,
 ] as const
 
-const SETTLED = "settled"
 const CODE = "code"
 const HELD_TS = "ts"
 const JSONL = "jsonl"
@@ -83,8 +84,6 @@ const PARTED = "/"
 const CHARACTER = "character"
 
 const READING_SAID = z.record(z.string(), z.unknown())
-
-type Settle = (given: unknown, thrown: Rolled | null) => unknown
 
 type Taken = {
   readonly story: string
@@ -103,6 +102,7 @@ export type Reach = {
   readonly turnsOf: (root: string, story: string) => readonly Turn[]
   readonly settlingAt: (root: string, check: string) => string | null
   readonly pageAt: (root: string, page: string) => string | null
+  readonly keptPageAt: (root: string, agentId: string | null, page: string) => string | null
 }
 
 export type Roll = {
@@ -112,8 +112,6 @@ export type Roll = {
   readonly seed?: string
   readonly answered: unknown
 }
-
-type Answered = { readonly answered: unknown; readonly added: readonly Added[] }
 
 type Cast = { readonly dice: Dice; readonly roll: Rolled; readonly seed: string }
 
@@ -174,7 +172,12 @@ export function settlingIndexed(root: string, check: string): string | null {
   return besideAt(listed.path, `${settling.propertySlug}.${CODE}`, HELD_TS)
 }
 
-const INDEXED: Reach = { turnsOf: turnsIndexed, settlingAt: settlingIndexed, pageAt: pathOf }
+const INDEXED: Reach = {
+  turnsOf: turnsIndexed,
+  settlingAt: settlingIndexed,
+  pageAt: pathOf,
+  keptPageAt: keptPageOf,
+}
 
 export function outcomesAt(turn: string): string | null {
   return besideAt(turn, outcomes.propertySlug, JSONL)
@@ -218,24 +221,6 @@ function castFor(
   return { answered: { ...thrown.answered, seed } }
 }
 
-async function settledAt(
-  path: string,
-  reading: unknown,
-  roll: Rolled | null
-): Promise<Held<Answered>> {
-  const held = (await import(path)) as Record<string, unknown>
-  const settle = held[SETTLED]
-  if (typeof settle !== "function") {
-    return { refused: `\`${path}\` exports no \`${SETTLED}\`, so nothing settles the roll` }
-  }
-  const said = (settle as Settle)(reading, roll)
-  if (!isRecord(said)) return { refused: `\`${path}\` answered no roll` }
-  const why = said["refused"]
-  if (typeof why === "string") return { refused: why }
-  const answered = said["answered"]
-  return { answered: { answered, added: addedOf(held, reading, answered) } }
-}
-
 function rowsOf({ roll, sums }: Made, turn: string, commit: string | null): readonly string[] {
   const rows = [`check${TAB}${roll.check}`, `turn${TAB}${turn}`]
   if (roll.dice !== undefined) {
@@ -256,7 +241,7 @@ function rowsOf({ roll, sums }: Made, turn: string, commit: string | null): read
 
 type Code = typeof DATA | typeof INPUT
 
-type Refusing = { readonly refused: string; readonly by: Code }
+type Refusing = { readonly refused: string; readonly by: Code; readonly unfound?: string }
 
 type Placed = {
   readonly turns: readonly Turn[]
@@ -294,7 +279,7 @@ async function rollMade(
   held: Taken,
   placed: Placed,
   keptAt: (path: string) => string | null,
-  reach: Reach
+  pageAt: (named: string) => string | null
 ): Promise<Made | Refusing> {
   const cast = castFor(keptAt, placed.turns, placed.on, held.dice)
   if ("refused" in cast) return { refused: cast.refused, by: INPUT }
@@ -311,8 +296,8 @@ async function rollMade(
     const why = `\`${held.check}\` is settled on \`${placed.on.slug}\` already for this reading's \`${CHARACTER}\`, and a check that rolls nothing settles there once`
     return { refused: why, by: DATA }
   }
-  const sums = sumsOf(said.answered.added, (one) => reach.pageAt(root, one))
-  return "refused" in sums ? { refused: sums.refused, by: DATA } : { roll, sums }
+  const sums = sumsOf(said.answered.added, pageAt)
+  return "refused" in sums ? { ...sums, by: DATA } : { roll, sums }
 }
 
 function onDisk(root: string): (path: string) => string | null {
@@ -322,7 +307,7 @@ function onDisk(root: string): (path: string) => string | null {
   }
 }
 
-async function drafted(held: Taken, placed: Placed, given: Given, reach: Reach): Promise<Answer> {
+async function drafted(held: Taken, placed: Placed, given: Given): Promise<Answer> {
   const keeper = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
   if (keeper === null || editsAt(keeper) === null) {
     return mistaking([noPageSaid(given.root, given.agentId)])
@@ -331,7 +316,8 @@ async function drafted(held: Taken, placed: Placed, given: Given, reach: Reach):
   const made: { made: Made | null } = { made: null }
   const kept = await appending(given.root, keeper, given.agentId, false, async (world) => {
     const textOf = (path: string) => world.textOf(path)
-    const rolled = await rollMade(given.root, held, placed, textOf, reach)
+    const pageAt = (named: string) => pageIn(world.index, named)
+    const rolled = await rollMade(given.root, held, placed, textOf, pageAt)
     if ("refused" in rolled) {
       why.said = rolled
       return { edits: [], refused: rolled.refused }
@@ -361,10 +347,18 @@ async function settledOn(
   if ("refused" in held) return refused(held.refused, INPUT)
   const placed = placedFor(given.root, held, reach)
   if ("refused" in placed) return refused(placed.refused, placed.by)
-  if (held.drafts) return await drafted(held, placed, given, reach)
+  if (held.drafts) return await drafted(held, placed, given)
   const read = onDisk(given.root)
-  const made = await rollMade(given.root, held, placed, read, reach)
-  if ("refused" in made) return refused(made.refused, made.by)
+  const made = await rollMade(given.root, held, placed, read, (one) =>
+    reach.pageAt(given.root, one)
+  )
+  if ("refused" in made) {
+    const kept = made.unfound
+    if (kept === undefined || reach.keptPageAt(given.root, given.agentId, kept) === null) {
+      return refused(made.refused, made.by)
+    }
+    return refused(keptOnly(kept, draftArgument.said), made.by)
+  }
   const asked = askedFor(placed.at, placed.on.at, made.roll, read(placed.on.at))
   const landed = await landing(
     given.root,

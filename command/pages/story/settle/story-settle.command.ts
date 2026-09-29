@@ -89,6 +89,16 @@ export const storySettle = {
       decisionKind: "decision-kind/departure",
       statement: "A drafting call reads the outcomes as the calling agent's kept edits leave them.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A drafting call finds and reads a page its answer adds to as those kept edits leave it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A landing call adding to a page only the caller's kept edits hold says to draft or land it first.",
+    },
   ],
   name: "settle",
   arguments: [

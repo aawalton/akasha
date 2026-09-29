@@ -311,5 +311,6 @@
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"command/modules/change-acting/change-acting.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"command/modules/change-running/change-running.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"command/modules/change-running/change-running.module.test-fixtures.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"command/pages/story/modules/settle-asking/settle-asking.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"command/pages/story/tell/story-tell.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}

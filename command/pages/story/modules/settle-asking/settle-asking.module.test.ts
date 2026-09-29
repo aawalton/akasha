@@ -1,8 +1,12 @@
 import { expect, test } from "bun:test"
+import { bodyIn, foldedIn } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
+import { addedTo, ledgerAt } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {
   askedFor,
+  pageIn,
   summedFor,
 } from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
+import { indexedRepo } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
 const OUTCOMES = "turns/the-saga-00-002.story-turn-played.outcomes.jsonl"
 
@@ -55,6 +59,30 @@ test("a page stating no number there gains what is added as that key", () => {
   const asked = summedFor([{ at: HERS, key: POINTS, by: 3 }], () => "")
   expect(asked[0]?.at).toMatch(/\/add-page-property$/)
   expect(asked[0]?.given).toEqual({ at: HERS, key: POINTS, value: "3" })
+})
+
+const KEPT_AT = "akasha/kept/fresh.module.ts"
+
+const KEPT_PAGE = `export const fresh = {
+  id: "01a04a4a-0000-7000-8000-0000000000ff",
+  type: "page-type/module",
+  slug: "fresh",
+  definition: "a page only kept edits hold",
+  ${POINTS}: 2,
+} as const
+`
+
+test("a page only in kept edits is found, and its number read, as those edits leave the tree", () => {
+  const root = indexedRepo()
+  expect(pageIn(ledgerAt(root, bodyIn(root)).index, "module/fresh")).toBeNull()
+  const kept = addedTo(
+    ledgerAt(root, bodyIn(root)),
+    foldedIn([{ kind: "add", path: KEPT_AT, content: KEPT_PAGE }])
+  )
+  const at = pageIn(kept.index, "module/fresh")
+  expect(at).toBe(KEPT_AT)
+  const asked = summedFor([{ at: at ?? "", key: POINTS, by: 3 }], kept.textOf)
+  expect(asked[0]?.given).toEqual({ at: KEPT_AT, key: POINTS, to: "5", holds: "number" })
 })
 
 test("nothing added asks nothing", () => {

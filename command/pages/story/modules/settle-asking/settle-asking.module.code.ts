@@ -2,9 +2,14 @@ import { addPageProperty } from "akasha/change/mechanical/file-content/add/add-p
 import { appendLines } from "akasha/change/mechanical/file-content/append-lines/append-lines.change-mechanical-file-content.ts"
 import { changePagePageProperty } from "akasha/change/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.ts"
 import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
+import { editsIn, foldedIn } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
+import { worldFor } from "akasha/command/modules/change-running/change-running.module.code.ts"
+import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 
+import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
+import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { turnEndsAt } from "akasha/story/world/stories/played/turns/properties/turn-ends-at.instant-property.ts"
 
@@ -21,6 +26,8 @@ const STATED = new RegExp(`^\\s*${ENDS_AT}:`, "m")
 const BREAK = "\n"
 
 const ADDED = "added"
+
+const SETTLED = "settled"
 
 const CHARACTER = "character"
 
@@ -54,6 +61,40 @@ export async function addingAt(path: string): Promise<Adding> {
   return (reading, answered) => addedOf(held, reading, answered)
 }
 
+export type Answered = { readonly answered: unknown; readonly added: readonly Added[] }
+
+type Settle = (given: unknown, thrown: unknown) => unknown
+
+export async function settledAt(
+  path: string,
+  reading: unknown,
+  roll: unknown
+): Promise<{ readonly answered: Answered } | { readonly refused: string }> {
+  const held = (await import(path)) as Record<string, unknown>
+  const settle = held[SETTLED]
+  if (typeof settle !== "function") {
+    return { refused: `\`${path}\` exports no \`${SETTLED}\`, so nothing settles the roll` }
+  }
+  const said = (settle as Settle)(reading, roll)
+  if (!isRecord(said)) return { refused: `\`${path}\` answered no roll` }
+  const why = said["refused"]
+  if (typeof why === "string") return { refused: why }
+  const answered = said["answered"]
+  return { answered: { answered, added: addedOf(held, reading, answered) } }
+}
+
+export function keptPageOf(root: string, agentId: string | null, page: string): string | null {
+  const keeper = agentId === null ? null : agentPathOf(root, agentId)
+  if (keeper === null) return null
+  const kept = editsIn(root, keeper)
+  if ("why" in kept || kept.rows.length === 0) return null
+  try {
+    return pageIn(worldFor(root, kept.rows, foldedIn(kept.rows)).index, page)
+  } catch {
+    return null
+  }
+}
+
 type Made = {
   readonly check: string
   readonly reading: Readonly<Record<string, unknown>>
@@ -74,18 +115,32 @@ export function settledBefore(kept: string | null, roll: Made): boolean {
     })
 }
 
+export type Unfound = { readonly refused: string; readonly unfound: string }
+
 export function sumsOf(
   added: readonly Added[],
   pageAt: (page: string) => string | null
-): readonly Summed[] | { readonly refused: string } {
+): readonly Summed[] | Unfound {
   const sums: Summed[] = []
   for (const one of added) {
     const at = pageAt(one.page)
-    if (at === null)
-      return { refused: `\`${one.page}\`, which the answer adds to, is no page here` }
+    if (at === null) {
+      const refused = `\`${one.page}\`, which the answer adds to, is no page here`
+      return { refused, unfound: one.page }
+    }
     sums.push({ at, key: one.key, by: one.by })
   }
   return sums
+}
+
+export function pageIn(index: Pick<Answering, "listedAt">, page: string): string | null {
+  const address = addressIn(page)
+  if (address.kind !== "qualified") return null
+  return index.listedAt(address.pageTypeSlug, address.slug)[0]?.path ?? null
+}
+
+export function keptOnly(page: string, drafting: string): string {
+  return `\`${page}\`, which the answer adds to, is a page only in your kept edits, so settle with \`${drafting}\` or land that page first`
 }
 
 function numberIn(text: string, key: string): number | null {

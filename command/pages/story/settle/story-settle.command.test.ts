@@ -64,8 +64,11 @@ function reachOver(turns: readonly Turn[]): Reach {
     turnsOf: (_root, story) => (story === "the-saga" ? turns : []),
     settlingAt: (_root, check) => (check === "nothing" ? null : `checks/${check}.code.ts`),
     pageAt: (_root, page) => (page === "world-relationship/her" ? HER_AT : null),
+    keptPageAt: (_root, _agentId, page) => (page === "world-relationship/kept" ? KEPT_AT : null),
   }
 }
+
+const KEPT_AT = "pages/kept.world-relationship.ts"
 
 const GIVEN: Given = { root: ROOT, calledAs: CALLED, from: "", writer: null, agentId: null }
 
@@ -245,6 +248,17 @@ test("what a check's answer adds is added to its page in the same landing", asyn
 
 test("a check adding to a page that is not here appends nothing", async () => {
   expect(await settledBy("scoring", reachOver([LATEST]), scoringArgv("nobody"))).toEqual([])
+})
+
+test("a landing settle adding to a page only in the caller's kept edits says so", async () => {
+  const answer = await storySettle(
+    scoringArgv("kept"),
+    GIVEN,
+    async () => await Promise.reject(new Error("a refused settle lands nothing")),
+    reachOver([LATEST])
+  )
+  expect(answer.refusals.join("\n")).toContain("only in your kept edits")
+  expect(answer.refusals.join("\n")).toContain("`--draft`")
 })
 
 test("a check that refuses its reading appends nothing", async () => {
