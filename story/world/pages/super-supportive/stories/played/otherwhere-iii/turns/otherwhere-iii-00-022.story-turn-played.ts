@@ -38,5 +38,6 @@ export const otherwhereIii00022 = {
     "lore/otherwhere-iii-the-system",
     "lore/super-supportive-gorgon",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2037-01-31T10:36:00.000Z",
 } as const satisfies StoryTurnPlayed
