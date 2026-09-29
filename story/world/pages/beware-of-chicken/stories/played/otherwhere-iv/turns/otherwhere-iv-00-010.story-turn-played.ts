@@ -10,7 +10,7 @@ export const otherwhereIv00010 = {
   position: 10,
   prose: "txt",
   characters: ["character-player/otherwhere-iv-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: '"I will"',
   beats: [
     '"I will," Nala says.',
@@ -45,7 +45,9 @@ export const otherwhereIv00010 = {
     "She looks at Nala's shadow on the ground, and then back at her feet, and doesn't look away.",
     "Gu stops at the shrine. On its ledge sit a small lamp, a cup of rice wine and a bowl of rice.",
     "He hands Nala three sticks of incense and steps back one pace.",
-    "The whispering dies. Forty households are watching her, in the last of the light.",
+    "The whispering dies away to nothing.",
+    'Somewhere in the crowd a small child asks, too loud, "Is she going to do magic?", and is hushed.',
+    "The flame of the little lamp on the shrine stands straight up in the still dusk air.",
   ],
   issues: [
     '"Forty households are watching you, in the last of the light." - No Prompt',
