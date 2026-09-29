@@ -27,6 +27,10 @@ export const otherwhereIiiHarborHouse = {
       fact: "Breakfast is at six-thirty, and everyone must be out by half past seven.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Intake asks for a name only; no ID is needed.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
