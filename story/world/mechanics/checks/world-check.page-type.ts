@@ -102,6 +102,7 @@ export const worldCheck = {
     "world-check/overwhere-iv-growth",
     "world-check/overwhere-iv-standing",
     "world-check/overwhere-iv-needs",
+    "world-check/overwhere-iv-trade",
   ],
   properties: [{ pageProperty: "module-property-group/settling", required: true, many: false }],
   decisions: [
