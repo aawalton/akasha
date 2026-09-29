@@ -7,5 +7,11 @@ export const superSupportiveHistoryWorld = {
   title: "Earth under the System",
   world: "world/super-supportive",
   about: "world/super-supportive",
+  facts: [
+    {
+      fact: "Avowed are a very small percentage of humanity.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
