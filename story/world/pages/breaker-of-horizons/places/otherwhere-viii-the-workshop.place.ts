@@ -73,6 +73,26 @@ export const otherwhereViiiTheWorkshop = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Tessa Voyle grew up in Eastbank, the daughter of a lamp-mender; she has never left Carrowgate.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tessa takes anyone new to the city for a farm girl up from the Carrow valley, come for work.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tessa would tell a newcomer the useful things: the kitchen, the Saturday market, which bus.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tessa asks a newcomer where they are staying, whether they have kin here, and what they're after.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tessa has already heard, from the gate, that the new hand came in with the master before seven.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Coyle is a big, quiet man of about fifty, who walks with a lame leg.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
