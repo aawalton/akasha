@@ -1,3 +1,4 @@
+import { otherwhereXMana } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/metrics/resources/mana/otherwhere-x-mana.page-type.ts"
 import { z } from "zod"
 
 const BASE_MANA_BY_TIER = [0, 20, 60, 180, 540] as const
@@ -69,5 +70,5 @@ export function added(reading: unknown, answered: unknown): readonly Added[] {
   if (!held.success) return []
   const change = drawn.mana - held.data.mana
   if (change === 0) return []
-  return [{ page: `otherwhere-x-mana/${held.data.character}`, key: "value", by: change }]
+  return [{ page: `${otherwhereXMana.slug}/${held.data.character}`, key: "value", by: change }]
 }
