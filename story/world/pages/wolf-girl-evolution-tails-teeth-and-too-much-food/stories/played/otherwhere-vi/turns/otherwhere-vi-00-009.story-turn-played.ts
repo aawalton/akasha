@@ -30,5 +30,6 @@ export const otherwhereVi00009 = {
     "She reaches for another cluster; her fingers will not close, and the berries spill into the moss.",
   ],
   lore: ["place/otherwhere-vi-hollow-stream", "lore/otherwhere-vi-system"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T22:42:00.000Z",
 } as const satisfies StoryTurnPlayed
