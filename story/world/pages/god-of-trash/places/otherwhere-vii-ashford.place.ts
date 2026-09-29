@@ -323,7 +323,7 @@ export const otherwhereViiAshford = {
     },
     {
       fact: "The green's well is about two hundred paces from Aldo's farmhouse door.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
     },
     {
       fact: "A full wooden bucket weighs about twenty pounds; the farmhouse butt takes six to fill.",
@@ -331,11 +331,15 @@ export const otherwhereViiAshford = {
     },
     {
       fact: "The well has a windlass and a rope bucket; drawing one full takes a minute's cranking.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
     },
     {
       fact: "In early afternoon the well is busy with wives and girls, who talk while they wait their turn.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-agnes-hobb",
+      ],
     },
     {
       fact: "The washerwomen have told the well of a red-haired stranger in black hose on Ennis's cart.",

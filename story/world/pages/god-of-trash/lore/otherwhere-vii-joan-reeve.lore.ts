@@ -81,7 +81,11 @@ export const otherwhereViiJoanReeve = {
     },
     {
       fact: "One of Joan's two buckets split its bottom stave on the well stones when Nala slipped.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-agnes-hobb",
+      ],
     },
     {
       fact: "Joan hears of the bucket from the well before Nala gets home; the green knows within the hour.",

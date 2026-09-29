@@ -32,5 +32,13 @@ export const otherwhereViiAgnesHobb = {
       fact: "Agnes softens only for someone who helps her children, or who speaks of her man with respect.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At the well Agnes asked aloud whose runaway Nala was, that couldn't carry water.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-agnes-hobb",
+      ],
+    },
   ],
 } as const satisfies Lore
