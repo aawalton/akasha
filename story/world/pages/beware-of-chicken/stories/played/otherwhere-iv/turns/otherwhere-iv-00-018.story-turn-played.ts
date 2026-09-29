@@ -47,5 +47,6 @@ export const otherwhereIv00018 = {
     'Granny Hua jerks her chin at her. "So. What are you, then?"',
   ],
   lore: ["lore/otherwhere-iv-granny-hua", "lore/otherwhere-iv-nala"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-29T06:41:00.000Z",
 } as const satisfies StoryTurnPlayed
