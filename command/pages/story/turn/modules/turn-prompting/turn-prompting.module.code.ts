@@ -71,6 +71,10 @@ function stuckSaid(master: string | null | undefined): readonly string[] {
 
 const DRAFTING = "akasha change apply --draft"
 
+const ENDING =
+  "The advance ends this seat, so make it last. Never end this turn in words: words naming the next read do not read it, " +
+  "and this seat then sits idle while the turn waits on it. Every output of yours is a tool call until the advance has landed."
+
 function advancing(asked: Prompting): string {
   const said = asked.noun === CHAPTER ? writtenChapter.said : playedTurn.said
   return `${asked.calledAs} ${said} ${asked.address}`
@@ -89,7 +93,7 @@ export function reviewerPrompt(asked: Prompting, reviewer: Reviewer): string {
     "",
     `${advancing(asked)} ${reviewerArgument.said} ${reviewer.slug} ${issuesFile.said} ${PATH}`,
     "",
-    `Where you found no issue, leave out \`${issuesFile.said}\`. The advance ends this seat, so make it last.`,
+    `Where you found no issue, leave out \`${issuesFile.said}\`. ${ENDING}`,
     ...stuckSaid(asked.master),
   ].join("\n")
 }
@@ -106,7 +110,7 @@ export function recorderPrompt(asked: Prompting, recorder: Recorder): string {
     "",
     `${advancing(asked)} ${recorderArgument.said} ${recorder.slug}`,
     "",
-    "The advance ends this seat, so make it last.",
+    ENDING,
     ...stuckSaid(asked.master),
   ].join("\n")
 }

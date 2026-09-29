@@ -50,5 +50,9 @@ export const turnPrompting = {
       decisionKind: "decision-kind/absence",
       statement: "A prompt carries no directive, since the seat's role and persona hold those.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A prompt says a turn ended in words has done none of the work those words named.",
+    },
   ],
 } as const satisfies Module
