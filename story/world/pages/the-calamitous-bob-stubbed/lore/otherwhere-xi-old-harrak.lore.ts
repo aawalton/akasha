@@ -73,6 +73,14 @@ export const otherwhereXiOldHarrak = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The Gladiators of Harrak, Old Harrak's famed homoerotic romance, survived the fall.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Harrakan golem engineers saved the Gladiators of Harrak from the ashes of the empire.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Old Harrak kept an Imperial Monster Handling Repository rating beasts' danger up to seven.",
       knowers: ["lore-disclosure/game-master"],
     },
