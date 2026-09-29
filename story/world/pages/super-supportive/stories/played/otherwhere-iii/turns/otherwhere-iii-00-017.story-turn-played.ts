@@ -31,5 +31,6 @@ export const otherwhereIii00017 = {
     'His eyes stay on the monitors. "Now. What is it you want from me, Nala-not-of-this-Earth?"',
   ],
   lore: ["lore/super-supportive-gorgon", "place/super-supportive-artonan-consulate-4"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2037-01-31T09:34:00.000Z",
 } as const satisfies StoryTurnPlayed
