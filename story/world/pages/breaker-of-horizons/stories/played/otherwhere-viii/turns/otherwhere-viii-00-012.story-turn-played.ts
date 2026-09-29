@@ -33,5 +33,6 @@ export const otherwhereViii00012 = {
     "She stands in the doorway, one hand on the frame, waiting to see whether Nala is coming.",
   ],
   lore: ["lore/otherwhere-viii-nala", "place/otherwhere-viii-the-workshop-room"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T08:05:00.000Z",
 } as const satisfies StoryTurnPlayed
