@@ -43,5 +43,6 @@ export const otherwhereXi00010 = {
     "place/otherwhere-xi-ashlar-farm",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-28T09:34:00.000Z",
 } as const satisfies StoryTurnPlayed
