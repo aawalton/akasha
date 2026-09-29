@@ -160,6 +160,22 @@ export const superSupportiveGorgon = {
       fact: "He owes no loyalty to human presidents or kings.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "He told Nala she smells as if she means her promise, and he will remember she made it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+      ],
+    },
+    {
+      fact: "He told Nala those who promise help to the chained mostly forget it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

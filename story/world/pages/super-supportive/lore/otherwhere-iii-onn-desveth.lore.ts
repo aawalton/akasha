@@ -18,7 +18,12 @@ export const otherwhereIiiOnnDesveth = {
     },
     {
       fact: "She looks nearly human: tall, lean, grey-haired, in plain grey Artonan robes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+        "character-other/otherwhere-iii-onn-desveth",
+      ],
     },
     {
       fact: "She speaks careful, formal English, a little slow, and dislikes shoes indoors.",
@@ -35,6 +40,60 @@ export const otherwhereIiiOnnDesveth = {
     {
       fact: "She is curious rather than hostile, and wary of any human who knows too much.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Onn-desveth told Nala she oversees this consulate.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+        "character-other/otherwhere-iii-onn-desveth",
+      ],
+    },
+    {
+      fact: "She speaks careful, formal English, a little slow, each word set down whole.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+        "character-other/otherwhere-iii-onn-desveth",
+      ],
+    },
+    {
+      fact: "She walks barefoot on the consulate's stone floors.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+        "character-other/otherwhere-iii-onn-desveth",
+      ],
+    },
+    {
+      fact: "She greeted Gorgon by name with courtesy, and he dipped his horned head in return.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+        "character-other/otherwhere-iii-onn-desveth",
+      ],
+    },
+    {
+      fact: "She told Nala the Contract said a person here with no record claims to have passed through chaos.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+        "character-other/otherwhere-iii-onn-desveth",
+      ],
+    },
+    {
+      fact: "She asked Nala's leave to screen her for chaos by touch, saying it takes a few minutes.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+        "character-other/otherwhere-iii-onn-desveth",
+      ],
     },
   ],
   secrets: "jsonl",

@@ -312,6 +312,14 @@ export const otherwhereIiiNala = {
       fact: "Nala asked the System for affixation, and a paid contract to keep its secrets; it refused.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
+    {
+      fact: "Nala promised Gorgon that if she someday has the power, she will help him if she can.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
