@@ -14,7 +14,7 @@ export const otherwhereIii00023 = {
     "character-other/super-supportive-gorgon",
     "character-other/otherwhere-iii-onn-desveth",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     '"I come from Earth, but not this Earth. I assume you are familiar with the multiverse theory of quantum mechanics? I know you have skills and spells that can pierce the boundaries between worlds. As best I can tell, I am from approximately 11 years in the past and from a version of Earth that is not too far distance, but not adjacent. As far as I was aware, yesterday was in October 2026, and no Artonan had ever visited Earth."',
   beats: [
@@ -40,6 +40,6 @@ export const otherwhereIii00023 = {
     "lore/super-supportive-gorgon",
     "lore/super-supportive-resource-world",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2037-01-31T10:39:00.000Z",
 } as const satisfies StoryTurnPlayed
