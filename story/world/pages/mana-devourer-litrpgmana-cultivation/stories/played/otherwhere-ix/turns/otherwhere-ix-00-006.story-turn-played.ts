@@ -10,7 +10,7 @@ export const otherwhereIx00006 = {
   position: 6,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I wrap my thighs around its neck and squeeze with all my strength, working to crush its windpipe.",
   beats: [
@@ -31,6 +31,6 @@ export const otherwhereIx00006 = {
     '"It lets go of her calf." - a locked shardback lets go only for failing breath or a snout blow',
   ],
   lore: ["lore/otherwhere-ix-shardback"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T15:37:00.000Z",
 } as const satisfies StoryTurnPlayed
