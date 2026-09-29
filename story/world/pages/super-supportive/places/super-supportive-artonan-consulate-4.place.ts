@@ -43,6 +43,10 @@ export const superSupportiveArtonanConsulate4 = {
       fact: "Its Red Line stop is Monroe, downtown; the consulate is a five-minute walk west from there.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Red Line from Lawrence runs every ten minutes or so on a Saturday morning.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   within: "place/otherwhere-iii-chicago",
   secrets: "jsonl",
