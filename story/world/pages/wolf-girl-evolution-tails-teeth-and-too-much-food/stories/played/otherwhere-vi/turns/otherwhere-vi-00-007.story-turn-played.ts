@@ -10,7 +10,7 @@ export const otherwhereVi00007 = {
   position: 7,
   prose: "txt",
   characters: ["character-player/otherwhere-vi-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I stand back up and keep the stick between me and the boar and slowly back away, if it charges, I brace the stick in the ground as a makeshift spear and anchor it with my weight.",
   beats: [
@@ -31,7 +31,10 @@ export const otherwhereVi00007 = {
     "On the drier bank under the pines, low shrubs carry small red berries dark in the moonlight.",
     "Her breath smokes, and the wet cloth at her hips has gone stiff and cold as metal.",
   ],
+  issues: [
+    '"gone stiff and cold as metal" - wet cloth stiffens frozen; frost only comes by the small hours',
+  ],
   lore: ["place/otherwhere-vi-hollow-stream", "lore/otherwhere-vi-nala"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T22:30:00.000Z",
 } as const satisfies StoryTurnPlayed
