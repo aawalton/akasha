@@ -370,6 +370,22 @@ export const otherwhereViiAldoReeve = {
         "character-other/otherwhere-vii-gammer-wyn",
       ],
     },
+    {
+      fact: "The first lesson is after supper in the kitchen, with the tally sticks and a board of sand.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldo wants his own name written, then the tens and ones of the stick, and is slow at both.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldo keeps the lessons from the men and the steward, and would be shamed by a witness.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The steward's weighing is on the sixth morning after this one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
