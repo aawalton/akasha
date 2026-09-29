@@ -56,5 +56,9 @@ export const otherwhereXBessCrane = {
       fact: "Bess keeps her mother's Wexley ways: she says what she means at the moment she means it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Bess milks the byre cow at first light, so the byre door is unbarred at dawn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
