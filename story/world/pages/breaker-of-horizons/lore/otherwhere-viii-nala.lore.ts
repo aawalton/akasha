@@ -216,6 +216,14 @@ export const otherwhereViiiNala = {
         "character-other/otherwhere-viii-hallick",
       ],
     },
+    {
+      fact: "Nala has hung Maddox's coat on a peg and wears a journeyman's shirt, its hem near her knees.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
+    {
+      fact: "Nala has had nothing to drink since she woke in the park.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

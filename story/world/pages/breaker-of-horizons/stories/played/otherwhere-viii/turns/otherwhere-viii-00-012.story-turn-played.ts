@@ -34,5 +34,6 @@ export const otherwhereViii00012 = {
   ],
   lore: ["lore/otherwhere-viii-nala", "place/otherwhere-viii-the-workshop-room"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-28T08:05:00.000Z",
 } as const satisfies StoryTurnPlayed
