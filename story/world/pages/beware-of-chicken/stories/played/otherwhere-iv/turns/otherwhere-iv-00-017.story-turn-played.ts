@@ -14,7 +14,7 @@ export const otherwhereIv00017 = {
     "character-other/otherwhere-iv-tie-bo",
     "character-other/otherwhere-iv-granny-hua",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I do as instructed.",
   beats: [
     "Nala steps into the sun and lays both her hands, open, in Granny Hua's.",
@@ -40,7 +40,8 @@ export const otherwhereIv00017 = {
     '"Mugwort," Granny Hua says. "My best stand, by the gate, and it\'s sickening."',
     '"You\'re a spirit of knowledge, they tell me. So. Tell me what ails it."',
   ],
+  issues: ['"snaps off one leafy stalk" - she asks the visitor to pull the mugwort stalk'],
   lore: ["lore/otherwhere-iv-granny-hua", "lore/otherwhere-iv-nala"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T06:37:00.000Z",
 } as const satisfies StoryTurnPlayed
