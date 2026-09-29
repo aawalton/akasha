@@ -4,13 +4,13 @@ export const otherwhereX00005 = {
   id: "01a0eaab-0901-7e4f-949a-c93a534a11fd",
   type: "page-type/story-turn-played",
   slug: "otherwhere-x-00-005",
-  ownLength: 290,
+  ownLength: 220,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-x"],
   position: 5,
   prose: "txt",
   characters: ["character-player/otherwhere-x-nala", "world-character/otherwhere-x-aldous-crane"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     '"None of these. I am from a place so far away that there are no reeve\'s, no tallies, and the roads are made from liquid stone."',
   beats: [
