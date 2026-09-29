@@ -117,7 +117,11 @@ export const superSupportiveArtonanConsulate4 = {
     },
     {
       fact: "A public phone is on the lobby wall by the elevators, free for local and System calls.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+      ],
     },
   ],
   within: "place/otherwhere-iii-chicago",

@@ -284,6 +284,26 @@ export const otherwhereIiiNala = {
         "character-other/super-supportive-gorgon",
       ],
     },
+    {
+      fact: "Nala told Gorgon she is getting the Earth Contract's attention one way or another.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+      ],
+    },
+    {
+      fact: "Nala told Gorgon killing her would violate the treaty, and contracting her would be an affixation.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+      ],
+    },
+    {
+      fact: "Nala dialed the Earth Contract's public number from the consulate's lobby wall phone.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

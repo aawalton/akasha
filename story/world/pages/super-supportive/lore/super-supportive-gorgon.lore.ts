@@ -40,7 +40,10 @@ export const superSupportiveGorgon = {
       fact: "His voice is high-pitched, with an undertone like breaking glass.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
-    { fact: "His laugh is a repetitive hissing.", knowers: ["lore-disclosure/game-master"] },
+    {
+      fact: "His laugh is a repetitive hissing.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
     {
       fact: "He can reach all public areas of the consulate but has no room of his own.",
       knowers: ["lore-disclosure/game-master"],
@@ -135,6 +138,14 @@ export const superSupportiveGorgon = {
         "lore-disclosure/game-master",
         "character-player/otherwhere-iii-nala",
         "character-other/super-supportive-gorgon",
+      ],
+    },
+    {
+      fact: "He wrote the Earth Contract's public number on the back of Nala's enrollment form.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/super-supportive-gorgon",
+        "character-player/otherwhere-iii-nala",
       ],
     },
   ],

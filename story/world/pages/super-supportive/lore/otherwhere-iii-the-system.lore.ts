@@ -26,11 +26,19 @@ export const otherwhereIiiTheSystem = {
     },
     {
       fact: "A civilian can reach the System only by phone, through the Avowed Communications Network.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+      ],
     },
     {
       fact: "Words spoken aloud to the air by someone not Avowed reach nothing; the System does not answer.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+      ],
     },
     {
       fact: "No one else can see an Avowed's interface.",
