@@ -252,6 +252,10 @@ export const otherwhereIxNala = {
       fact: "Something low, broad and pale-bristled, bigger than her kill, walks straight at it from the south.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
+    {
+      fact: "A grown shardback has its jaws locked on Nala's good ankle, twisting and dragging her over.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

@@ -32,5 +32,9 @@ export const otherwhereIxCarrionHawk = {
       fact: "A carrion hawk holds a G Grade Wind core worth a few copper.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A carrion hawk is broad-winged, and the pale edges of its wings glitter as it turns.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
   ],
 } as const satisfies Lore

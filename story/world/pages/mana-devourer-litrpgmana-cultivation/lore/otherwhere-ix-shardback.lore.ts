@@ -270,7 +270,7 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "A shardback's eyes are small and deep-set under a ridge of short brow quills, hard to reach.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "A grown shardback warned off its food rears up on its hind legs, showing its bare belly.",
@@ -287,6 +287,10 @@ export const otherwhereIxShardback = {
     {
       fact: "A grown shardback left the carcass and not crowded eats for an hour, then wanders off.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A grown shardback is thigh-high, heavy through the shoulders, its back a thick mat of pale quills.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
   ],
 } as const satisfies Lore
