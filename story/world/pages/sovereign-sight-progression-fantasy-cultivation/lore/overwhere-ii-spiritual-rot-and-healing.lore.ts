@@ -204,6 +204,14 @@ export const overwhereIiSpiritualRotAndHealing = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Kaffa has a metallic tang and an earthy smell; Spire students chew it through long nights.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Shaved heronbane stalk aids digestion.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Coralsnout scale powder mixed with Water makes a poultice that draws most venoms.",
       knowers: ["lore-disclosure/game-master"],
     },
