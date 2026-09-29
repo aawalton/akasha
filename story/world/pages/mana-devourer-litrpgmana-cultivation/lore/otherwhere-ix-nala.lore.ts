@@ -173,11 +173,11 @@ export const otherwhereIxNala = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
-      fact: "Her first kill brings three level-up boxes, the unspent count reading eight, sixteen, 24.",
+      fact: "The shardback fight gives three levels in all; she had one as it went limp, and its death gives two.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "At level 4 her class line reads Otherworlder (Earth) (Tier: Novice 4); she is still G Grade.",
+      fact: "The kill brings two boxes, reading sixteen then 24 unspent; she ends level 4, still G Grade.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

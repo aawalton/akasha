@@ -87,6 +87,14 @@ export const otherwhereIxGrowth = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "One foe gives its levels once in all, however many turns the fight spans.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Levels already granted partway through a fight count toward that foe's total.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A skill is learned when she does its work in earnest and it comes off.",
     },
     {
