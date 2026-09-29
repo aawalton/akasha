@@ -11,7 +11,7 @@ export const otherwhereXi00010 = {
   position: 10,
   prose: "txt",
   characters: ["character-player/otherwhere-xi-nala", "world-character/otherwhere-xi-wenna-ashlar"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I do my best to follow instructions and save the lamb and the ewe, praying in my heart for a healer path as a sign for why I was brought to this land.",
   beats: [
@@ -39,11 +39,14 @@ export const otherwhereXi00010 = {
     '"Half the flock still to drop before the month\'s out. Will you stay the lambing?"',
   ],
   lore: [
+    "lore/otherwhere-xi-farming",
     "lore/otherwhere-xi-nala",
     "lore/otherwhere-xi-wenna-ashlar",
     "place/otherwhere-xi-ashlar-farm",
+    "place/otherwhere-xi-tavelford",
+    "place/otherwhere-xi-waystone-shrine",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
   endsAt: "2026-09-28T09:34:00.000Z",
 } as const satisfies StoryTurnPlayed
