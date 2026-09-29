@@ -20,6 +20,10 @@ export const superSupportiveGorgon = {
       fact: "A couple dozen horns curve around his skull and flare into a spiky choker around his neck.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Glowing golden magical bindings chain him to the desk, and his wrists are raw beneath them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
