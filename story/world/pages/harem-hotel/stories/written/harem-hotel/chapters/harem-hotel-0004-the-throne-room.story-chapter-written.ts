@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const haremHotel0004 = {
+export const haremHotel0004TheThroneRoom = {
   id: "01a0ef24-cbe9-734a-aa6e-24a8b55965c5",
   type: "page-type/story-chapter-written",
-  slug: "harem-hotel-0004",
+  slug: "harem-hotel-0004-the-throne-room",
   position: 4,
   unit: "unit/words",
-  title: "Chapter 4",
+  title: "The Throne Room",
   story: "story-written/harem-hotel",
-  ownLength: 0,
+  ownLength: 2415,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "You climb the stairs from the ballroom, still in your tailcoat, into warm air smelling of incense.",
     "The stairs end behind a heavy tapestry; you push it aside onto the foot of a long hall.",
@@ -86,5 +86,11 @@ export const haremHotel0004 = {
     "lore/harem-hotel-tamsin",
     "lore/harem-hotel-wren",
     "place/harem-hotel-floor-4",
+  ],
+  characters: [
+    "character-other/harem-hotel-odile",
+    "character-other/harem-hotel-wren",
+    "character-other/harem-hotel-tamsin",
+    "character-player/harem-hotel-alan",
   ],
 } as const satisfies StoryChapterWritten
