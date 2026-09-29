@@ -20,7 +20,7 @@ export function refusalSaid(query: ComposedQuery, why: string): string {
   return `the play screen's question over \`${query["page-type"]}\` was refused: ${why} — the question was ${JSON.stringify(query)}`
 }
 
-export function reportFault(said: string): undefined {
+function reportFault(said: string): undefined {
   console.error(said)
   reportError({
     message: said.slice(0, MESSAGE_MOST),
