@@ -26,5 +26,6 @@ export const otherwhereVii00014 = {
     '"Sit an hour with Bet tonight, so her mother can shut her eyes. I\'ll show you what to do."',
   ],
   lore: ["lore/otherwhere-vii-hild", "lore/otherwhere-vii-joan-reeve", "lore/otherwhere-vii-nala"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T12:23:00.000Z",
 } as const satisfies StoryTurnPlayed
