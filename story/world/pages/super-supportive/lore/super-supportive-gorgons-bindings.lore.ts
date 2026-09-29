@@ -28,6 +28,10 @@ export const superSupportiveGorgonsBindings = {
       fact: "He clicks when he wants to say something he cannot, and goes flat near advice.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "He may give directions, register classes, witness pre-affixation trades and hand out pens.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
