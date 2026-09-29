@@ -10,5 +10,11 @@ export const haremHotel0004 = {
   story: "story-written/harem-hotel",
   ownLength: 0,
   prose: "txt",
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
+  lore: [
+    "lore/harem-hotel-odile",
+    "lore/harem-hotel-tamsin",
+    "lore/harem-hotel-wren",
+    "place/harem-hotel-floor-4",
+  ],
 } as const satisfies StoryChapterWritten
