@@ -61,7 +61,11 @@ export const haremHotelFloor2 = {
     },
     {
       fact: "Floor 2's task: make the bath mistress come on your mouth and the attendant on your cock at once.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-odile",
+      ],
     },
     {
       fact: "The task is set in black mosaic tiles on the hot pool's white bottom, plain through the water.",
