@@ -7,7 +7,7 @@ export const otherwhereXiStanding = {
   title: "Standing",
   world: "world/the-calamitous-bob-stubbed",
   definition: "the standing one turn with a person or beast in Otherwhere XI earns or costs",
-  description: "How much a turn moved someone's regard for Nala.",
+  description: "How far someone's regard for another has shifted.",
   settling: {},
   decisions: [
     {

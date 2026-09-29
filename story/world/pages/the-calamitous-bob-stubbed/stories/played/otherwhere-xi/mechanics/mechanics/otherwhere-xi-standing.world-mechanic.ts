@@ -6,5 +6,5 @@ export const otherwhereXiStanding = {
   slug: "otherwhere-xi-standing",
   title: "Standing",
   world: "world/the-calamitous-bob-stubbed",
-  description: "How well someone thinks of Nala.",
+  description: "How well someone thinks of another.",
 } as const satisfies WorldMechanic
