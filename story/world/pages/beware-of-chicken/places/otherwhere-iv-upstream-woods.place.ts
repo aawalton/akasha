@@ -70,6 +70,10 @@ export const otherwhereIvUpstreamWoods = {
       fact: "Fire and loud noise make Old Tusk wary but not afraid; a spear wound would enrage him.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Mundane poison does not harm a spirit beast; aconite on a stake would be no more than dirt.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
