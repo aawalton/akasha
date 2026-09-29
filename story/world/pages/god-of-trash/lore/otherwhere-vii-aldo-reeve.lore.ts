@@ -41,6 +41,26 @@ export const otherwhereViiAldoReeve = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Aldo cannot read; he keeps Ashford's harvest count in notches on tally sticks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "After threshing, the mountain school's steward weighs Ashford's grain and takes a tenth.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The steward writes the tithe in his ledger, and Aldo suspects the ledger cheats Ashford.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldo would feed and pay anyone who could reckon the harvest and check the steward's figures.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The steward comes in about six days, when the threshing is done.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Aldo Reeve is Ashford's headman, and his farm is the big thatch past the green.",
       knowers: [
         "lore-disclosure/game-master",
