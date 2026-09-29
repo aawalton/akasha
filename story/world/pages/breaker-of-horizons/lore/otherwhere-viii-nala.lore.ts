@@ -140,6 +140,38 @@ export const otherwhereViiiNala = {
         "character-other/otherwhere-viii-hallick",
       ],
     },
+    {
+      fact: "As bench hand Nala works the workshop from eight till four, and is paid each evening in cash.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Bench work for a novice is sorting, cleaning, grinding and measuring lenses and small parts.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Institute takes nothing for the room from a bench hand; the room is part of the wage.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "As Hallick's pupil she is taught by him at his bench after four, when the apprentices leave.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hallick teaches the Basic Set first, the way every child learns it: the activation glyph.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "In return Hallick asks her for tables: the Institute's other tables, worked as she did the lens.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "To the apprentices and Dyce, Hallick names her a bench hand, and nothing more.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hallick tells Nala to keep 'another world' to herself, inside the Institute and out of it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
