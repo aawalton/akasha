@@ -4,7 +4,7 @@ export const otherwhereVii00013 = {
   id: "01a0eb14-575b-77cf-86c7-2e63024b6b04",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vii-00-013",
-  ownLength: 187,
+  ownLength: 176,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vii"],
   position: 13,
@@ -14,7 +14,7 @@ export const otherwhereVii00013 = {
     "character-other/otherwhere-vii-joan-reeve",
     "character-other/otherwhere-vii-hild",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "\"I'm not sure I'll stay forever, but for now I would be grateful for a place to be safe, and glad to contribute what I can.\"",
   beats: [
