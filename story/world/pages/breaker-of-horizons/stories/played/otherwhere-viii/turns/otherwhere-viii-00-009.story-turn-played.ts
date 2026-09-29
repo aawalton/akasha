@@ -41,6 +41,7 @@ export const otherwhereViii00009 = {
     "He stays there and watches her work, with his tea going cold beside him.",
     "Above them the building is still; before long the apprentices will come and it will fill.",
     "The gap waits on the slate in two blank rows, with the chalk within reach.",
+    "The lamps come up as the door opens, in ones and twos along the benches.",
   ],
   issues: [
     '"Hallick says nothing for a moment." - Plain Negation',
