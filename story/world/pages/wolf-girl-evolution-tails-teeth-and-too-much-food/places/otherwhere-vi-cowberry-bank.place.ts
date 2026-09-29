@@ -28,6 +28,22 @@ export const otherwhereViCowberryBank = {
       fact: "The wind comes down the valley from the north; the spruce's far side is out of it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Through the night only a fox comes near the spruce; it sniffs, barks once, and goes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Late in the night the wolf pack howls far off to the north-west, long and many-voiced.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Toward dawn frost silvers the bank; under the spruce the needles stay dry and unfrozen.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At first light mist lies on the stream, and a wren scolds from the spruce's lower boughs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   exits: [
     {
