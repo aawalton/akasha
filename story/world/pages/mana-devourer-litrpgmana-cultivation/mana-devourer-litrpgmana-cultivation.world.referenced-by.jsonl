@@ -70,6 +70,7 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-boar-man.lore.ts","id":"01a0ea36-ce8b-70dc-b7ab-e2b0a2cb4033"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-boar-smith.lore.ts","id":"01a0ea3b-5154-7ba7-a80d-5c6b65602ad3"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-calendar.lore.ts","id":"01a0ea39-ef3f-7803-a0b2-b8b03b96b7d6"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-carrion-hawk.lore.ts","id":"01a0eb33-7cb8-7f59-b730-64306f86537e"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-caustic-mana.lore.ts","id":"01a0ea46-88c9-7d55-88b2-a90bf594f779"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-cave-bat.lore.ts","id":"01a0ea36-bc3e-7270-845f-00699427ee84"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-cave-bear-creature.lore.ts","id":"01a0ea39-5199-711a-beb9-76ba2522f91b"}
@@ -377,6 +378,7 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-bird-horse.world-species.ts","id":"01a0ea36-5f15-71ac-ab23-12533a819f56"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-blue-scaled-folk.world-species.ts","id":"01a0ea36-4160-7df7-826a-2a68455c2234"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-boar-man.world-species.ts","id":"01a0ea36-ce8c-76b2-b5c9-8b61dd389bb6"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-carrion-hawk.world-species.ts","id":"01a0eb33-7cb9-722a-97bf-90457515c5e8"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-cave-bat.world-species.ts","id":"01a0ea36-bc40-7c57-801a-526cf4400d04"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-cave-bear-creature.world-species.ts","id":"01a0ea39-519a-7f02-84d1-f4a528d2331a"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-cursed-giant.world-species.ts","id":"01a0ea37-6f23-7139-8447-b1649e66bb14"}

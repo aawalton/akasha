@@ -109,7 +109,7 @@ export const otherwhereIxShardback = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
-      fact: "Glasswing kites take young shardbacks, so a young one jinks aside from anything dropping at it.",
+      fact: "Carrion hawks take young shardbacks, so a young one jinks aside from anything dropping at it.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -261,12 +261,32 @@ export const otherwhereIxShardback = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Glasswing kites circle over a fresh kill by day, and their circling is seen for miles.",
+      fact: "A carrion hawk circles over a fresh kill by day, and its circling is seen for miles.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A shardback's short flank quills snap at a touch.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "A shardback's eyes are small and deep-set under a ridge of short brow quills, hard to reach.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A grown shardback warned off its food rears up on its hind legs, showing its bare belly.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A reared shardback drops forward onto whatever is in front of it, jaws first.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A grown shardback sees a crouching body as smaller prey, and a standing one as a rival.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A grown shardback left the carcass and not crowded eats for an hour, then wanders off.",
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
 } as const satisfies Lore
