@@ -28,10 +28,7 @@ export const otherwhereXHarrowVale = {
       fact: "Harrow Brook runs down from the Brackwood, past Harrow, south to the downs.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "The vale belongs to Lord Aubrey Kell, who never visits; his steward rides in at quarter days.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "Harvest is in; the fields are stubble and the winter wheat is newly sown.",
       knowers: ["lore-disclosure/game-master"],
@@ -75,14 +72,6 @@ export const otherwhereXHarrowVale = {
     {
       fact: "On the afternoon of day one, the local dogs all howled at once.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
-    },
-    {
-      fact: "Lord Kell holds the vale, and his steward comes at quarter days.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-aldous-crane",
-      ],
     },
   ],
 } as const satisfies Place
