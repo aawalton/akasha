@@ -10,6 +10,6 @@ export const overwhereI00001 = {
   unit: "unit/words",
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/player",
+  stepStatus: "step-status/recorders",
   lore: ["lore/overwhere-i-nala", "place/overwhere-i-greyfen-ford"],
 } as const satisfies StoryTurnPlayed
