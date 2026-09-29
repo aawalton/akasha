@@ -10,15 +10,25 @@ export const otherwhereViiOsricVane = {
   facts: [
     {
       fact: "Osric Vane is the Snowdrop school's tithe steward, a thin clerk in a grey coat on a brown pony.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-other/otherwhere-vii-gammer-wyn",
+        "character-other/otherwhere-vii-tamsin",
+      ],
     },
     {
       fact: "Osric wears a snowdrop badge and carries a ledger, a pen case and a set of iron weights.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Osric rides the villages each autumn with a young school mage as escort.",
-      knowers: ["lore-disclosure/game-master"],
+      fact: "Osric rides the villages each autumn with a school mage as escort, a Tier 1 swordsman in white.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-other/otherwhere-vii-gammer-wyn",
+        "character-other/otherwhere-vii-tamsin",
+      ],
     },
     {
       fact: "Osric weighs a village's grain on a balance in the barn, sack by sack, and takes a tenth in kind.",
