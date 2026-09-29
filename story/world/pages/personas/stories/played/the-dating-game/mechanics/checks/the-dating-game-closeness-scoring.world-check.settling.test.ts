@@ -1,4 +1,7 @@
 import { expect, test } from "bun:test"
+import { characterOther } from "akasha/story/world/characters/character-other/character-other.page-type.ts"
+import { worldRelationship } from "akasha/story/world/mechanics/relationships/world-relationship.page-type.ts"
+import { theDatingGameGrace } from "akasha/story/world/pages/personas/stories/played/the-dating-game/characters/the-dating-game-grace.character-other.ts"
 import {
   added,
   settled,
@@ -85,8 +88,14 @@ test("a reading that is no keyed reading is refused", () => {
 
 test("the change is added to the points on her relationship page", () => {
   expect(
-    added({ ...AT, character: "character-other/the-dating-game-her" }, { change: -1 })
-  ).toEqual([{ page: "world-relationship/the-dating-game-her", key: "relationshipPoints", by: -1 }])
+    added({ ...AT, character: `${characterOther.slug}/${theDatingGameGrace.slug}` }, { change: -1 })
+  ).toEqual([
+    {
+      page: `${worldRelationship.slug}/${theDatingGameGrace.slug}`,
+      key: "relationshipPoints",
+      by: -1,
+    },
+  ])
 })
 
 test("an answer with no change adds nothing", () => {
