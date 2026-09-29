@@ -87,6 +87,7 @@ export const worldCheck = {
     "world-check/otherwhere-x-growth",
     "world-check/otherwhere-x-mana-strain",
     "world-check/overwhere-ii-time-passing",
+    "world-check/overwhere-ii-standing",
     "world-check/overwhere-ii-action-check",
     "world-check/overwhere-ii-harm",
     "world-check/overwhere-ii-needs",
