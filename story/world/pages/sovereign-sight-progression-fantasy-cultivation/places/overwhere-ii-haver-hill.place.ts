@@ -27,5 +27,9 @@ export const overwhereIiHaverHill = {
       fact: "That den near Haver Hill sprouted Sea-touched herbs, Ghostflower Root among them.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Grim Company hunters who came to Vale arrived by way of Haver Hill.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place

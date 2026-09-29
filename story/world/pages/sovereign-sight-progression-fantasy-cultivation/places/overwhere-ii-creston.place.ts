@@ -16,6 +16,10 @@ export const overwhereIiCreston = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Creston lies south of Haver Hill; wild land lies beyond it and Runnel.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Creston is half Vale's size, with thatched roofs and fieldstone walls 8 ft high and 5 ft thick.",
       knowers: ["lore-disclosure/game-master"],
     },
