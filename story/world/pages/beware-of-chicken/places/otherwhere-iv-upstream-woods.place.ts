@@ -62,6 +62,10 @@ export const otherwhereIvUpstreamWoods = {
       fact: "He is in the Initiate's Realm, and his hide turns a mortal's knife and arrow.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A mortal spear barely breaks Old Tusk's hide; only his own charge onto it, at throat or eye, might.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
