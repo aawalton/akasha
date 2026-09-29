@@ -103,6 +103,34 @@ export const otherwhereIvGrannyHua = {
       fact: "Granny Hua's hands are brown and knotted, the nails rimmed with green.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
+    {
+      fact: "Granny Hua reads a stranger's hands for work, sickness and lies, by callus, nail and warmth.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She holds that a fox-spirit's hands are cold and dry however warm the day.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "No hand she has held was ever unmarked; even a lady's shows the needle and the fan.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The mugwort by her gate has black aphids under its leaves, and ants climbing to tend them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The cure she looks for is ants kept off with an ash ring and the aphids washed off or crushed.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She also counts it right to say ladybirds eat aphids, or that soapy water kills them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A guess that names the pest and one cure, plainly, satisfies her; a guess at spirits does not.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
