@@ -208,6 +208,38 @@ export const otherwhereXiWennaAshlar = {
         "world-character/otherwhere-xi-wenna-ashlar",
       ],
     },
+    {
+      fact: "Wenna judges a stranger by work done, not by a tale told.",
+      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+    },
+    {
+      fact: "Wenna cannot read; to her a book is a lord's or a priest's thing.",
+      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+    },
+    {
+      fact: "Wenna has the war only from Joss's talk: fighting over the sea, at a place called Barrier.",
+      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+    },
+    {
+      fact: "Wenna holds that the gods are busy and far off, and do not pluck women from hearths.",
+      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+    },
+    {
+      fact: "Wenna would not send word of a stranger to Imra; she wants no steward's men in her yard.",
+      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+    },
+    {
+      fact: "Wenna would put a stranger in the curtained corner by the hearth, with her girls.",
+      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+    },
+    {
+      fact: "Wenna would hold a tale of god-touched for the wayfarer priest to judge when he comes.",
+      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+    },
+    {
+      fact: "Wenna told her girls to say nothing outside the house of the red-haired woman.",
+      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

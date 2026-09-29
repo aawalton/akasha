@@ -81,6 +81,10 @@ export const otherwhereXiAsmirel = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Sheem's priests call Maradoc's wanderers spies; a god-sent stranger is dangerous to speak of.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Asmirel is Prince Tavaris's land, and the Tavel valley lies in it.",
       knowers: [
         "lore-disclosure/game-master",

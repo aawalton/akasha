@@ -174,6 +174,22 @@ export const otherwhereXiTavelford = {
         "world-character/otherwhere-xi-tobin-ashlar",
       ],
     },
+    {
+      fact: "Red hair is rare in Vizim; hill folk take a red-haired woman for Paramese.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "No outlander has ever come to Tavelford; outlanders are a tale there, not a sight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Word of a barefoot stranger on the hill would cross the village in a day.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Mother Hesra would look hard at any stranger said to be touched by magic.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
