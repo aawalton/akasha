@@ -224,6 +224,14 @@ export const otherwhereXiNamedSpells = {
       fact: "Longview makes shimmering lenses of air for seeing far.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Mass yoink and True mass yoink drain many beings at once; Kinesis, Net and Epicenter are others.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A light spell tuned past violet kills germs; Harrak's healers light lamps of it on stone rods.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
