@@ -4,10 +4,13 @@ export const otherwhereXi00007 = {
   id: "01a0ead5-60d6-7fe3-8c11-505f43312c78",
   type: "page-type/story-turn-played",
   slug: "otherwhere-xi-00-007",
+  ownLength: 272,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-xi"],
   position: 7,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-xi-nala", "world-character/otherwhere-xi-wenna-ashlar"],
+  stepStatus: "step-status/reviewers",
   action:
     '"I think you know that a runaway would be dressed more practically than this. I was at home enjoying a quiet evening with a book, and then I was in the middle of the Waystones. It seems I\'ve been pulled into the schemes of the gods, now I just have to find out why."',
   beats: [
