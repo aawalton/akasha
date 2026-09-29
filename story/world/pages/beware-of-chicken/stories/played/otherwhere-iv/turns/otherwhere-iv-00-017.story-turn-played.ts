@@ -4,7 +4,7 @@ export const otherwhereIv00017 = {
   id: "01a0eb2f-59ce-77df-b24b-222d27eae59f",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-017",
-  ownLength: 380,
+  ownLength: 394,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],
   position: 17,
@@ -14,7 +14,7 @@ export const otherwhereIv00017 = {
     "character-other/otherwhere-iv-tie-bo",
     "character-other/otherwhere-iv-granny-hua",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action: "I do as instructed.",
   beats: [
     "Nala steps into the sun and lays both her hands, open, in Granny Hua's.",
