@@ -67,5 +67,25 @@ export const overwhereIiCreston = {
       fact: "Creston had just kept Threllsnacht when the Aspirants passed through.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A young noble slew the five Wave-Warped Aberrants that attacked Creston.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Creston's inn is the Sleeping Bear, where Aspirants train while awaiting escort south.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Sleeping Bear is on Creston's square; its sign shows a bear with flowers and mushrooms.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Storms roll up from the south against Creston's mountain.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aberrants around Creston's mountain are stirred up, and it is less safe than it was.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
