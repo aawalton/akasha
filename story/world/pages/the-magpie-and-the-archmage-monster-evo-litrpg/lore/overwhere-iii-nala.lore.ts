@@ -77,4 +77,5 @@ export const overwhereIiiNala = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
+  secrets: "jsonl",
 } as const satisfies Lore
