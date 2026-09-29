@@ -20,6 +20,22 @@ export const overwhereIiNineSpires = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The Spires ready Aspirants to fight the hordes of Aberrants across the isles.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The nine Spires come in three groups of three: Talent, Tool and Tome.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Doing well in the Ordeals wins an Aspirant favor with the Tribunal.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Bandits curse Aspirants as Chartermarked and call Academy folk nosy Spirefolk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The Talent Spires are Leviathan, Maelstrom and Riptide.",
       knowers: ["lore-disclosure/game-master"],
     },
