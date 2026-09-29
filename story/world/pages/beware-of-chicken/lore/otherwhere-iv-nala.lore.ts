@@ -176,5 +176,13 @@ export const otherwhereIvNala = {
         "character-other/otherwhere-iv-tie-bo",
       ],
     },
+    {
+      fact: "Nala's hands and feet bear no calluses, scars or wear at all, like new skin.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her hands are warm, with a steady pulse, as any living woman's are.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
