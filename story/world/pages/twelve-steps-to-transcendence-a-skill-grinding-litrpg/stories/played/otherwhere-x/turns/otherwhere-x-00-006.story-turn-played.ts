@@ -11,4 +11,5 @@ export const otherwhereX00006 = {
   action:
     '"I take it the bell is to invite more to come and listen? While we wait, could you tell me more about your country? I love collecting stories, so I would learn yours as well if I may."',
   lore: ["place/otherwhere-x-sulon", "lore/otherwhere-x-aldous-crane"],
+  endsAt: "2026-09-28T18:44:00.000Z",
 } as const satisfies StoryTurnPlayed
