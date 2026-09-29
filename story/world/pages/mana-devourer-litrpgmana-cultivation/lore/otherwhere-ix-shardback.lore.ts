@@ -208,5 +208,17 @@ export const otherwhereIxShardback = {
       fact: "A limp shardback is finished by its throat held shut or a sliver driven into the wound.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A dead shardback's blood thickens within minutes; little flows from it after that.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Shardback blood is dark, gritty and bitter, with a taste of iron and glass.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The smell of an opened shardback carries downwind and draws scavengers within the hour.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

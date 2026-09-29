@@ -45,6 +45,22 @@ export const otherwhereIxSurvival = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Blood is salt and meat, not water: drunk, it feeds a little and leaves the drinker thirstier.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "More than a few mouthfuls of blood turn the stomach, and a body brings them back up.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Constitution toughens skin and flesh only slowly; under 50, a glass edge still opens it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Higher Constitution makes a wound shallower and quicker to stop bleeding, not closed.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Hunger, thirst, cold and lost sleep each weigh on every act, and together they bring a body down.",
       knowers: ["lore-disclosure/game-master"],
     },
