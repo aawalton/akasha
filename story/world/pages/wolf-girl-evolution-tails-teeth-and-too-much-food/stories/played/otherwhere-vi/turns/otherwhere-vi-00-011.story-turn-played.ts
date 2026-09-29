@@ -11,7 +11,7 @@ export const otherwhereVi00011 = {
   position: 11,
   prose: "txt",
   characters: ["character-player/otherwhere-vi-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     '"Great. The system isn\'t just useless, it also has an attitude. I would have used a roof if there was one!" I shout to the sky. I get up and use the stick to support myself and make my way downstream as best I can, hoping to find help or healing before I die of exposure.',
   beats: [
@@ -45,8 +45,8 @@ export const otherwhereVi00011 = {
     '"nothing answers it" - the System answers her shout two beats later',
     '"A man straightens up from the smoking mound and stands, looking at you." - No Prompt',
   ],
-  lore: ["place/otherwhere-vi-charcoal-camp", "lore/otherwhere-vi-nala"],
+  lore: ["lore/otherwhere-vi-nala", "place/otherwhere-vi-charcoal-camp"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
   endsAt: "2026-09-29T10:10:00.000Z",
 } as const satisfies StoryTurnPlayed
