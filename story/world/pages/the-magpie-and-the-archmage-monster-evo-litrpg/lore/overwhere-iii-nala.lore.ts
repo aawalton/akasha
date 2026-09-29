@@ -76,6 +76,30 @@ export const overwhereIiiNala = {
       fact: "Nala sees faint threads in the air that lean toward her hand and feel like hers.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "The System reaches her as it reaches any human; she sees it the first time she wills it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her profile reads: Name: Nala, Race: Human, Level 1, Class: none, Health: Small, Mana: Meager.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her Traits list holds one, Mana Weaver [Basic]; her Skills list is empty.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Until she first works with the currents, the System describes Mana Weaver only as ???.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She sees mana currents as faint threads; looking hard sharpens them, and they lean to her hand.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "She knows no tongue but the common one; old runes and foreign scripts are closed to her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
