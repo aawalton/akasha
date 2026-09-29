@@ -10,7 +10,7 @@ export const otherwhereViii00011 = {
   position: 11,
   prose: "txt",
   characters: ["character-player/otherwhere-viii-nala", "character-other/otherwhere-viii-hallick"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     '"I would be grateful for both. I\'ve long been accustomed to living where I work and I love both to learn and to teach."',
   beats: [
@@ -40,7 +40,11 @@ export const otherwhereViii00011 = {
     "He tells her the benches start at eight, and goes back down the stair.",
     "She stands in a room of her own, where the lamp and the tap both answer to marks she can't read.",
   ],
+  issues: [
+    '"so the Institute takes nothing for it" - Plain Negation',
+    '"The room is yours. The lamp and the tap both answer to marks you can\'t read." - Leave It Open',
+  ],
   lore: ["lore/otherwhere-viii-nala", "place/otherwhere-viii-the-workshop-room"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T07:34:00.000Z",
 } as const satisfies StoryTurnPlayed
