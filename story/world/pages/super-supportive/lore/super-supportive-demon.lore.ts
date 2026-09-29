@@ -7,5 +7,11 @@ export const superSupportiveDemon = {
   title: "Demons",
   world: "world/super-supportive",
   about: "world-species/super-supportive-demon",
+  facts: [
+    {
+      fact: "Humans know demons as chaos-tainted Very Bad Monsters.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
