@@ -73,6 +73,14 @@ test("each chapter opens on its heading, and a blank line parts the chapters", (
   expect(text).toBe("1.00 (2017-03-03)\n\nFirst words.\n\nMore.\n\n1.01\n\nSecond words.\n")
 })
 
+test("a chapter with no stored prose is its heading alone", () => {
+  const text = joinedFrom([
+    { chapter: TWO, prose: "" },
+    { chapter: ONE, prose: "Words.\n" },
+  ])
+  expect(text).toBe("1.01\n\n1.00 (2017-03-03)\n\nWords.\n")
+})
+
 test("a limit of nothing is refused before anything is read", async () => {
   const said = await storyJoinUnread(["--limit", "0"], GIVEN)
   expect(said.code).not.toBe(0)

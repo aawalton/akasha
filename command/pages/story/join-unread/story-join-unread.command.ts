@@ -31,6 +31,10 @@ export const storyJoinUnread = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A chapter holding no stored prose is its heading line alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A limit keeps the earliest unread chapters and passes over the rest.",
     },
     {
