@@ -216,6 +216,18 @@ export const otherwhereXHarrow = {
       fact: "Bess will not turn a barefoot woman away hungry, whatever Aldous thinks of her.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Aldous grew up alongside Nala Pike; he sees her in the stranger, but dusk makes him doubt it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Bess came from Wexley to wed Aldous twenty years ago and never saw Nala Pike.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Old Nan on the green is too blind to make out a face at dusk; nobody else there knew Nala Pike.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   exits: [
     {
