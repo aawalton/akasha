@@ -16,6 +16,10 @@ export const superSupportiveWordchain = {
       fact: "Wordchains are an ancient, simple exchange, closer to contracts than to modern spellcraft.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Using wordchains well requires study of the Artonan language.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
