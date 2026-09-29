@@ -132,5 +132,17 @@ export const otherwhereIvNala = {
         "character-other/otherwhere-iv-zhao-jun",
       ],
     },
+    {
+      fact: "Nala agreed to come to the hunt and keep behind the stakes, out of the line.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She urged poisoning the stakes and the heads of the spears, and said she would pray for Tie Bo.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She promised Tie Bo she would come with him to Granny Hua's door in the morning.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
