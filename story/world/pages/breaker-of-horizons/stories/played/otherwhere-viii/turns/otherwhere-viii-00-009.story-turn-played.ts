@@ -4,6 +4,7 @@ export const otherwhereViii00009 = {
   id: "01a0ead0-0e4e-7473-95dd-195c27318834",
   type: "page-type/story-turn-played",
   slug: "otherwhere-viii-00-009",
+  cover: "image/image-24e8e1110ce32a4b",
   ownLength: 623,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-viii"],
@@ -57,5 +58,6 @@ export const otherwhereViii00009 = {
     "place/otherwhere-viii-the-institute",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/picture"],
   endsAt: "2026-09-28T07:08:00.000Z",
 } as const satisfies StoryTurnPlayed
