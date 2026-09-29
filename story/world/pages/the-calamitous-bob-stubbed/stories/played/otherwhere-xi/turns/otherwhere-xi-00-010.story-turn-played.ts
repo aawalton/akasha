@@ -4,10 +4,13 @@ export const otherwhereXi00010 = {
   id: "01a0eb2c-8f4c-7891-8ca6-9349db92cca1",
   type: "page-type/story-turn-played",
   slug: "otherwhere-xi-00-010",
+  ownLength: 381,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-xi"],
   position: 10,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-xi-nala", "world-character/otherwhere-xi-wenna-ashlar"],
+  stepStatus: "step-status/reviewers",
   action:
     "I do my best to follow instructions and save the lamb and the ewe, praying in my heart for a healer path as a sign for why I was brought to this land.",
   beats: [
@@ -34,6 +37,10 @@ export const otherwhereXi00010 = {
     "\"You've a place at my table for that. That's how it's done here.\" She stands, knees cracking.",
     '"Half the flock still to drop before the month\'s out. Will you stay the lambing?"',
   ],
-  lore: ["lore/otherwhere-xi-wenna-ashlar", "place/otherwhere-xi-ashlar-farm"],
+  lore: [
+    "lore/otherwhere-xi-nala",
+    "lore/otherwhere-xi-wenna-ashlar",
+    "place/otherwhere-xi-ashlar-farm",
+  ],
   endsAt: "2026-09-28T09:34:00.000Z",
 } as const satisfies StoryTurnPlayed
