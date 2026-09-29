@@ -41,6 +41,6 @@ export const otherwhereVi00010 = {
   ],
   lore: ["place/otherwhere-vi-cowberry-bank", "lore/otherwhere-vi-nala"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-29T06:10:00.000Z",
 } as const satisfies StoryTurnPlayed
