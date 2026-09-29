@@ -5,7 +5,7 @@ export const otherwhereViiiNala = {
   type: "page-type/otherwhere-viii-notice",
   slug: "otherwhere-viii-nala",
   character: "character-player/otherwhere-viii-nala",
-  value: 0,
+  value: 3,
   minValue: 0,
   maxValue: 100,
   history: "jsonl",
