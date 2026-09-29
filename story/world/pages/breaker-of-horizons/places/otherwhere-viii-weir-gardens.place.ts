@@ -140,5 +140,21 @@ export const otherwhereViiiWeirGardens = {
         "character-other/otherwhere-viii-maddox",
       ],
     },
+    {
+      fact: "Maddox gives his full name as Orrin Maddox, though Low Bank calls him only Maddox.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Called a knight, Maddox snorts and reddens to the ears: pleased, and not about to show it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Maddox is a widower who lives alone above a chandler's on Weir Street; the park is his life.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Maddox asks a stray he likes to bring lent things back any morning: his way of saying come back.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
