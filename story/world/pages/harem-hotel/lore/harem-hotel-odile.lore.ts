@@ -57,6 +57,10 @@ export const haremHotelOdile = {
         "character-other/harem-hotel-wren",
       ],
     },
+    {
+      fact: "On floor 2 Odile serves under Wren, and minds taking her orders less than she lets on.",
+      knowers: ["lore-disclosure/game-master", "character-other/harem-hotel-odile"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
