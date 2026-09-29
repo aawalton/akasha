@@ -176,6 +176,35 @@ export const otherwhereViiNala = {
         "character-other/otherwhere-vii-tamsin",
       ],
     },
+    {
+      fact: "Nala stays at Aldo's farm as his reckoner, on bed, board and ten pennies a day.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-other/otherwhere-vii-joan-reeve",
+      ],
+    },
+    {
+      fact: "She sleeps in the loft over the cow byre, and eats at the farmhouse table, not in the barn.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-joan-reeve",
+      ],
+    },
+    {
+      fact: "She has borrowed Bet's brown kirtle and a pair of worn wooden clogs, on loan.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-joan-reeve",
+      ],
+    },
+    {
+      fact: "Her hands are blistered from the basket, and her bare feet are cut and sore from the road.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
