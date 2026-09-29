@@ -109,10 +109,16 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-odon.world-character.ts","id":"01a0ea82-d976-74b6-b05f-44f2e02b537b"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-okile.world-character.ts","id":"01a0ea82-d976-7f9c-ba85-3e652124ed91"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-oleander.world-character.ts","id":"01a0ea79-e916-7843-be09-ffbd6638cd51"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-olz-the-claw.world-character.ts","id":"01a0ea84-2827-71a6-9f38-765d7209e930"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-one-leg.world-character.ts","id":"01a0ea84-2828-7c6d-8a06-0d4b0ab1a095"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-orkan.world-character.ts","id":"01a0ea7d-3777-7cab-b160-2354ae2b057e"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-pendath.world-character.ts","id":"01a0ea84-2828-76bd-8477-52e617e0fc3e"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-phaerus.world-character.ts","id":"01a0ea84-2828-7063-8dd0-7ce8839372a8"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-poacher.world-character.ts","id":"01a0ea7b-36b7-70b9-8277-f34bf0882bc8"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-radus.world-character.ts","id":"01a0ea7f-3b3c-71f3-b061-0b276a80cfd8"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-rakan.world-character.ts","id":"01a0ea79-e916-731a-aabb-e1047a0dd1e3"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-renea.world-character.ts","id":"01a0ea84-2828-7f52-a5c0-43e032b55852"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-reno.world-character.ts","id":"01a0ea84-2828-701a-98e2-5abe2b6bca37"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-rollo.world-character.ts","id":"01a0ea7b-36b8-7496-9683-0550ce6df9ac"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-rosea.world-character.ts","id":"01a0ea7f-3b3c-79d1-882d-4bb398dbc848"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-sahin.world-character.ts","id":"01a0ea7b-36b8-73ea-b2b0-037e5cecbe54"}
@@ -329,7 +335,9 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-old-harrak.lore.ts","id":"01a0ea7b-7816-7485-a87a-990c7f87425e"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-old-pantheon.lore.ts","id":"01a0ea7e-e170-7d1f-bb4d-670fde15d5b1"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-oleander.lore.ts","id":"01a0ea79-e917-756b-b6f9-9471d2df524c"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-olz-the-claw.lore.ts","id":"01a0ea84-2829-7e63-96a9-e13362a6c3a5"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-one-hundred.lore.ts","id":"01a0ea7e-1cbe-7992-8a20-2616bee336ff"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-one-leg.lore.ts","id":"01a0ea84-282a-701c-945b-da39bfeb2dbc"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-order-of-the-blue-rose.lore.ts","id":"01a0ea7f-99a0-775f-b030-104ab596b172"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-order-of-the-white-orchard.lore.ts","id":"01a0ea83-4d71-78f7-b8c3-a0524277bbb5"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-orkan.lore.ts","id":"01a0ea7d-3779-7e17-9d12-498a5ffe4a58"}
@@ -337,6 +345,8 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-pakar.lore.ts","id":"01a0ea80-a39d-7f4d-8078-0c0151356d62"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-paramese.lore.ts","id":"01a0ea7b-518d-76d3-8828-4a530ef1ab04"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-paths.lore.ts","id":"01a0ea79-6f69-7159-8fd2-28e5b9b22285"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-pendath.lore.ts","id":"01a0ea84-282d-786f-89e0-f5b616d49b2f"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-phaerus.lore.ts","id":"01a0ea84-282d-7818-8b45-c518899ff656"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-poacher.lore.ts","id":"01a0ea7b-36b8-7634-9464-f9cb6210584a"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-prayer.lore.ts","id":"01a0ea83-0cf6-781b-8ab1-543654234cd0"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-pure-league.lore.ts","id":"01a0ea80-af48-7e7a-986e-d5a7a84916d8"}
@@ -345,6 +355,8 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-red-mana.lore.ts","id":"01a0ea7e-5869-7071-8788-7cd1078831e2"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-red-tribe.lore.ts","id":"01a0ea81-c316-72b7-9a89-503394cba483"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-remnants.lore.ts","id":"01a0ea7c-d005-73f7-a2d6-f6edac3fd1c8"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-renea.lore.ts","id":"01a0ea84-282d-76f8-809f-6f0a2cb4047f"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-reno.lore.ts","id":"01a0ea84-282f-7dc3-8abc-a05860a1d8f5"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-revenant.lore.ts","id":"01a0ea7e-5ead-7535-a7be-e7a9c8e262e8"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-rock-bear.lore.ts","id":"01a0ea82-747e-7909-a2f2-85a3b03d9e73"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-rock-crusher.lore.ts","id":"01a0ea83-ee7a-7d59-a48b-b217ffd4e88e"}
