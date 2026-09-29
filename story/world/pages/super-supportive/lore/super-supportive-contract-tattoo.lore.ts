@@ -28,6 +28,10 @@ export const superSupportiveContractTattoo = {
       fact: "A secrecy clause can leave a party physically unable to voice forbidden questions.",
       knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
     },
+    {
+      fact: "Secrets sealed by a contract tattoo cannot be taken even under torture.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
