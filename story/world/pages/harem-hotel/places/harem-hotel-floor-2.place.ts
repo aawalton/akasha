@@ -33,7 +33,11 @@ export const haremHotelFloor2 = {
     },
     {
       fact: "The domed ceiling over the hot pool is painted as a night sky, since the tower has none.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-odile",
+      ],
     },
     {
       fact: "A cold plunge pool sits in a side alcove, and its water is sharply cold.",
