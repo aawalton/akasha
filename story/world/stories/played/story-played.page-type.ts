@@ -40,6 +40,7 @@ export const storyPlayed = {
     "relation-property/cover-reroll",
     "text-property/cover-reroll-refused",
     "service-workstation/cover-rerolling",
+    "text-property/action-draft",
   ],
   decisions: [
     {
@@ -99,6 +100,12 @@ export const storyPlayed = {
     },
     {
       pageProperty: "text-property/cover-reroll-refused",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    {
+      pageProperty: "text-property/action-draft",
       required: false,
       many: false,
       uncommitted: true,
