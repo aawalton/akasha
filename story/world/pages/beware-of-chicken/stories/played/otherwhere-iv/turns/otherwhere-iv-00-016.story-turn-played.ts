@@ -37,5 +37,6 @@ export const otherwhereIv00016 = {
     '"Come here into the sun, spirit. Put your hands in mine. Both of them. Open."',
   ],
   lore: ["lore/otherwhere-iv-granny-hua", "lore/otherwhere-iv-nala"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T06:33:00.000Z",
 } as const satisfies StoryTurnPlayed
