@@ -10,7 +10,7 @@ export const otherwhereIx00014 = {
   position: 14,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I hold a quill in each hand and crouch low to the ground, keeping an eye on both the beast approaching on the ground and the one in the sky. If one comes close, I'll aim to stab into the belly or eyes depending on what is accessible.",
   beats: [
@@ -30,11 +30,12 @@ export const otherwhereIx00014 = {
     "She still has one whole quill in her left hand.",
     "Its throat is right there below her, working as it grinds, bare and pale and unquilled.",
   ],
+  issues: ['"Its throat is right there below you... Bare, and pale, and unquilled." - No Prompt'],
   lore: [
     "lore/otherwhere-ix-carrion-hawk",
     "lore/otherwhere-ix-nala",
     "lore/otherwhere-ix-shardback",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T15:57:00.000Z",
 } as const satisfies StoryTurnPlayed
