@@ -1,0 +1,73 @@
+import type { WorldCheck } from "akasha/story/world/mechanics/checks/world-check.page-type.types.ts"
+
+export const overwhereIiiGrowth = {
+  id: "01a0ed2c-910d-7e1b-bf7f-a8ea37e8e1d4",
+  type: "page-type/world-check",
+  slug: "overwhere-iii-growth",
+  title: "Growth",
+  world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
+  definition: "the experience, levels and trait ranks one turn of Overwhere III earns Nala",
+  description: "How much she grew this turn.",
+  settling: {},
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Growth is settled once a turn, after the turn's fights and feats are told.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A foe she defeats gives ten experience per level it has.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A foe five or more levels under her gives only two per level.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A foe she only helped defeat gives half.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A quest completed or a great deed done gives twenty times her level.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A hundred times her level in experience makes a level, and the rest carries on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A telling use of Mana Weaver counts toward its next rank.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The trait leaves a rank after its rank-uses times that rank in telling uses.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "At Legend with its uses full the trait is at full potential and may go to Rank 2.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Training alone, with no real foe or need, is no telling use.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The System names each gain: `[Experience gained.]`, a level, or a trait's new rank.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here rolls the dice.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reading names `character`, `level`, `experience`, `rank` and `uses` as they stand.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "It adds `foes` as `{level, assisted}`, `deeds`, and `telling` uses this turn.",
+    },
+  ],
+} as const satisfies WorldCheck
