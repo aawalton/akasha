@@ -4,6 +4,7 @@ export const otherwhereIii00021 = {
   id: "01a0eb1c-2399-7ad3-a4c5-86ea768e6de8",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-021",
+  cover: "image/image-392292ced781e334",
   ownLength: 401,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
@@ -14,7 +15,7 @@ export const otherwhereIii00021 = {
     "character-other/super-supportive-gorgon",
     "character-other/otherwhere-iii-onn-desveth",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     'While I wait for the Artonan staff to arrive, I tell Gorgon. "Thank you. If I someday have the power, I will help you if I can."',
   beats: [
@@ -44,6 +45,6 @@ export const otherwhereIii00021 = {
     "lore/super-supportive-gorgon",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2037-01-31T10:31:00.000Z",
 } as const satisfies StoryTurnPlayed
