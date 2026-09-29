@@ -10,7 +10,7 @@ export const otherwhereIii00017 = {
   position: 17,
   prose: "txt",
   characters: ["character-player/otherwhere-iii-nala", "character-other/super-supportive-gorgon"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "\"My name is Nala, and I would recognize your name, though we have never met and I cannot recall it. I am human, but I was not born on this Earth, nor on any world you or the Artonan's know of. I know things that should be impossible for any human to know, such as the inner workings of the family compound of the 'Arths, the true nature of wizardry and affixation. I know that you come from a proud line, the last keeper of a tradition that is different than both. I come from a world this this world is a story, written in a book, and somehow just a few hours ago I cross over to this one, but what magic brought me I do not know.\"",
   beats: [
@@ -31,6 +31,6 @@ export const otherwhereIii00017 = {
     'His eyes stay on the monitors. "Now. What is it you want from me, Nala-not-of-this-Earth?"',
   ],
   lore: ["lore/super-supportive-gorgon", "place/super-supportive-artonan-consulate-4"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2037-01-31T09:34:00.000Z",
 } as const satisfies StoryTurnPlayed
