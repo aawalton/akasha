@@ -7,9 +7,22 @@ export const otherwhereIx00009 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],
   position: 9,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I jam my forearms into its throat, glass and all. Either it will die first or I will, and the other will soon follow.",
+  beats: [
+    "Nala throws both forearms across the beast's bare throat and drops all her weight onto them.",
+    "The shards still in her arms drive deeper as she presses, and she presses anyway.",
+    "Her forearm catches the glass stub and rams it down into the throat to its full length.",
+    "Something inside gives with a wet pop, and the beast's breath turns to a gurgling rattle.",
+    "Its jaws spring open, and it lets go of her calf to heave for air.",
+    "It thrashes under her, claws raking the glassgrass, but it cannot get its head round to her.",
+    "Blood bubbles from the wound around the stub with every heave it makes.",
+    "She stays down on it, her whole weight on her arms, and does not let up.",
+    "The heaving slows. The kicking slows.",
+    "Within the minute it shudders once and goes limp beneath her.",
+    "Its eyes are half shut, and a thin wet whistle still comes and goes through the torn throat.",
+  ],
   lore: ["lore/otherwhere-ix-shardback"],
   endsAt: "2026-09-28T15:41:00.000Z",
 } as const satisfies StoryTurnPlayed
