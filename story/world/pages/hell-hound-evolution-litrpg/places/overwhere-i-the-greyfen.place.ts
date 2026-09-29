@@ -1,0 +1,84 @@
+import type { Place } from "akasha/story/lore/place/place.page-type.types.ts"
+
+export const overwhereITheGreyfen = {
+  id: "01a0ed28-2c19-704c-9b48-d6b12998da06",
+  type: "page-type/place",
+  slug: "overwhere-i-the-greyfen",
+  title: "The Greyfen",
+  world: "world/hell-hound-evolution-litrpg",
+  facts: [
+    {
+      fact: "The Greyfen is a wide wooded fenland west of Greyfen Ford, wild and little travelled.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "It runs a day and more west and south: black pools, reed beds, alder carr and drowned pines.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Slow channels tea-dark with peat thread it; firm ground comes in hummocks and old causeways.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Mist lies on it most mornings, and sound carries strangely over its water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Fenwatch folk cut reed and set eel traps only along its eastern edge, near the ford.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Its beasts run from Level 3 near the edge to about Level 15 in the middle fen.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Blackbriar Brutes, Mossgrazers, Grubboars, reedlurkers and Bogmaws live there.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ghost-Eye's Drakewolf pack holds the middle fen and hunts it at dawn and dusk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Small goblin bands live on dry islands deep in the fen and keep away from humans.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Mana crystals grow in the roots of drowned pines on the fen's islands.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "An old half-sunk causeway runs west from the ford into the deep fen and breaks up in places.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Since spring the western channels run warm and smell faintly of rotten eggs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dead fish float in the western channels, and the reed there grows yellow and brittle.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Beasts have moved east out of the deep fen all summer, toward the ford and the villages.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Reed-cutters have seen pale lights moving in the deep fen at night, and call them marsh-ghosts.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A reed-cutter pulled a skull with a faint light in one eye from a channel, and threw it back.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "By Fenwatch tale, the Pale Lady's drowned shrine lies somewhere in the deep fen.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The hamlet of Sallow Hythe on the fen's southern edge lost two reed-cutters to Drakewolves.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
+  secrets: "jsonl",
+} as const satisfies Place
