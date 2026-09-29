@@ -10,7 +10,7 @@ export const otherwhereViii00008 = {
   position: 8,
   prose: "txt",
   characters: ["character-player/otherwhere-viii-nala", "character-other/otherwhere-viii-hallick"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     'I run to catch up with him. "Master, may I have a word? I have knowledge to share with a man of learning. I believe it would help you advance your position at the Institute."',
   beats: [
@@ -31,6 +31,6 @@ export const otherwhereViii00008 = {
     '"One question, then," he says. "What do you know that I don\'t? Show me. Don\'t tell me."',
   ],
   lore: ["place/otherwhere-viii-guildhall"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T07:00:00.000Z",
 } as const satisfies StoryTurnPlayed
