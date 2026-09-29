@@ -12,6 +12,10 @@ export const superSupportive1963Agreement = {
       fact: "It bars forced psychological adjustments through the System.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Under it humans govern themselves; Artonans intervene only past eight million deaths.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
