@@ -85,7 +85,7 @@ export const otherwhereXMarthaDeane = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Martha keeps a singer's coppers and supper owed for them, and pays them over when she can.",
+      fact: "Martha holds a singer's supper owed and gives it when she can; the coppers go with the singer.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
