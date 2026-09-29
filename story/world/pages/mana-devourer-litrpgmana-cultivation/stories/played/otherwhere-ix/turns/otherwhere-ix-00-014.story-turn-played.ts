@@ -7,7 +7,8 @@ export const otherwhereIx00014 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],
   position: 14,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I hold a quill in each hand and crouch low to the ground, keeping an eye on both the beast approaching on the ground and the one in the sky. If one comes close, I'll aim to stab into the belly or eyes depending on what is accessible.",
+  lore: ["lore/otherwhere-ix-carrion-hawk", "lore/otherwhere-ix-shardback"],
 } as const satisfies StoryTurnPlayed
