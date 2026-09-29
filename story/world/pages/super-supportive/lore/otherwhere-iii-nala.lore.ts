@@ -328,6 +328,24 @@ export const otherwhereIiiNala = {
         "character-other/otherwhere-iii-onn-desveth",
       ],
     },
+    {
+      fact: "Nala told Onn-desveth she is from another Earth, not adjacent, about eleven years in the past.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-onn-desveth",
+        "character-other/super-supportive-gorgon",
+      ],
+    },
+    {
+      fact: "Nala told Onn-desveth that her yesterday was October 2026, and no Artonan had visited her Earth.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-onn-desveth",
+        "character-other/super-supportive-gorgon",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
