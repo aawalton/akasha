@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   ACTION_BAR_AT,
   type Fetching,
-  readPending,
+  readWaiting,
   sendAction,
 } from "akasha/story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts"
 import { z } from "zod"
@@ -70,13 +70,22 @@ test("the actions waiting are read for the game named", async () => {
       { id: "agent-message-2", text: "odd", kind: "shout" },
     ],
   })
-  expect(await readPending("the game", fetching)).toEqual([
-    { id: "agent-message-1", text: "[note]", kind: "feedback" },
-  ])
+  expect(await readWaiting("the game", fetching)).toEqual({
+    pending: [{ id: "agent-message-1", text: "[note]", kind: "feedback" }],
+    draft: null,
+  })
   expect(asked[0]?.input).toBe(`${ACTION_BAR_AT}?game=the%20game`)
+})
+
+test("the action draft is read with the actions waiting", async () => {
+  const { fetching } = answering(200, { ok: true, pending: [], draft: "I open the gate" })
+  expect(await readWaiting("the-game", fetching)).toEqual({
+    pending: [],
+    draft: "I open the gate",
+  })
 })
 
 test("a refused read of the actions waiting reads as nothing known", async () => {
   const { fetching } = answering(403, { ok: false, error: "no" })
-  expect(await readPending("the-game", fetching)).toBeNull()
+  expect(await readWaiting("the-game", fetching)).toBeNull()
 })

@@ -44,5 +44,9 @@ export const actionBarState = {
       decisionKind: "decision-kind/departure",
       statement: "A line wrapped whole in square brackets is tagged as feedback.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An action draft fills an empty line once, and a line being typed is left alone.",
+    },
   ],
 } as const satisfies Module

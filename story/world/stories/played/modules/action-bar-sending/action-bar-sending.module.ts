@@ -24,5 +24,9 @@ export const actionBarSending = {
       decisionKind: "decision-kind/departure",
       statement: "A read of the actions waiting that fails reads as nothing known.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The game's action draft is read with the actions waiting.",
+    },
   ],
 } as const satisfies Module

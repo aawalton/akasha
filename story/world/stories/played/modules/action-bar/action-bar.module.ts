@@ -23,6 +23,10 @@ export const actionBar = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An action draft the game holds is put on an empty line, once, and never sent.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reader not signed in is asked to sign in rather than shown the line.",
     },
     {

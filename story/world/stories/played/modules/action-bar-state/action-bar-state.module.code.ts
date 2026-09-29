@@ -96,6 +96,14 @@ export function turnReadyNews(toldAt: number, turnsSeen: number): boolean {
   return turnsSeen > toldAt
 }
 
+type Drafted = { readonly text: string | null; readonly filled: string | null }
+
+export function draftFilled(typed: string, draft: string | null, filled: string | null): Drafted {
+  if (draft === null) return { text: null, filled: null }
+  if (draft === filled) return { text: null, filled }
+  return { text: typed.trim() === "" ? draft : null, filled: draft }
+}
+
 export function armedAfterTyping(armed: string | null, typed: string): string | null {
   return armed !== null && typed.trim() !== armed ? null : armed
 }

@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   armedAfterTyping,
   awaitsTurn,
+  draftFilled,
   echoDropped,
   echoesSettled,
   echoesShown,
@@ -110,4 +111,26 @@ test("a turn ready is said by its number", () => {
 test("typing a different line disarms", () => {
   expect(armedAfterTyping("I wait", "I wai")).toBeNull()
   expect(armedAfterTyping("I wait", "I wait ")).toBe("I wait")
+})
+
+test("an action draft fills an empty line once", () => {
+  expect(draftFilled("", "I open the gate", null)).toEqual({
+    text: "I open the gate",
+    filled: "I open the gate",
+  })
+  expect(draftFilled("", "I open the gate", "I open the gate")).toEqual({
+    text: null,
+    filled: "I open the gate",
+  })
+})
+
+test("an action draft leaves a line the player is typing alone, and later too", () => {
+  const seen = draftFilled("I wave", "I open the gate", null)
+  expect(seen).toEqual({ text: null, filled: "I open the gate" })
+  expect(draftFilled("", "I open the gate", seen.filled).text).toBeNull()
+})
+
+test("no action draft fills nothing, and a draft taken off may fill again later", () => {
+  expect(draftFilled("", null, "I open the gate")).toEqual({ text: null, filled: null })
+  expect(draftFilled("", "I open the gate", null).text).toBe("I open the gate")
 })

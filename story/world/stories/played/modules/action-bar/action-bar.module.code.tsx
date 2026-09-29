@@ -18,12 +18,13 @@ import {
   requestNotificationPermission,
 } from "akasha/story/ui/modules/alert-notification/alert-notification.module.code.ts"
 import {
-  readPending,
+  readWaiting,
   sendAction,
 } from "akasha/story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts"
 import {
   armedAfterTyping,
   awaitsTurn,
+  draftFilled,
   type Echo,
   echoDropped,
   echoesSettled,
@@ -103,6 +104,9 @@ export function ActionBar({
   const [pending, setPending] = useState<readonly PendingAction[]>([])
   const [echoes, setEchoes] = useState<readonly Echo[]>([])
   const [text, setText] = useState("")
+  const lineNow = useRef(text)
+  lineNow.current = text
+  const drafted = useRef<string | null>(null)
   const [armed, setArmed] = useState<string | null>(null)
   const [sending, setSending] = useState(false)
   const [error, setError] = useState<string | null>(null)
@@ -123,11 +127,14 @@ export function ActionBar({
 
   const refresh = useCallback(async () => {
     const askedAt = Date.now()
-    const read = await readPending(gameExternalId)
+    const read = await readWaiting(gameExternalId)
     if (read === null) return
     lastAskedAt.current = askedAt
-    setPending(read)
-    settle(awaitsTurn(read), askedAt)
+    setPending(read.pending)
+    settle(awaitsTurn(read.pending), askedAt)
+    const filled = draftFilled(lineNow.current, read.draft, drafted.current)
+    drafted.current = filled.filled
+    if (filled.text !== null) setText(filled.text)
   }, [gameExternalId, settle])
 
   useEffect(() => {

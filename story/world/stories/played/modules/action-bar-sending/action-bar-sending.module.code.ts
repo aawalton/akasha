@@ -64,15 +64,22 @@ function pendingIn(held: unknown): readonly PendingAction[] | null {
   return found
 }
 
-export async function readPending(
+type Waiting = {
+  readonly pending: readonly PendingAction[]
+  readonly draft: string | null
+}
+
+export async function readWaiting(
   gameExternalId: string,
   fetching: Fetching = apiFetch
-): Promise<readonly PendingAction[] | null> {
+): Promise<Waiting | null> {
   try {
     const answered = await fetching(`${ACTION_BAR_AT}?game=${encodeURIComponent(gameExternalId)}`)
     if (!answered.ok) return null
     const body = await bodyOf(answered)
-    return body !== null && body["ok"] === true ? pendingIn(body["pending"]) : null
+    if (body === null || body["ok"] !== true) return null
+    const pending = pendingIn(body["pending"])
+    return pending === null ? null : { pending, draft: textIn(body["draft"]) }
   } catch {
     return null
   }
