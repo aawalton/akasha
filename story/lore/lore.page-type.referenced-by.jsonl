@@ -457,6 +457,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/lore/overwhere-i-fox.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/lore/overwhere-i-genzo.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/lore/overwhere-i-grick.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/lore/overwhere-i-hakimo.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/lore/overwhere-i-hell-hound-dam.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/lore/overwhere-i-hell-hound-sire.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/lore/overwhere-i-hell-hounds.lore.ts","typed":true,"deferred":false}
@@ -469,9 +470,11 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/lore/overwhere-i-nala.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/lore/overwhere-i-nameless-hell-hound.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/lore/overwhere-i-peoples.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/lore/overwhere-i-rin-zaoh.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/lore/overwhere-i-sootjaw.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/lore/overwhere-i-the-system.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/lore/overwhere-i-umarii.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/lore/overwhere-i-verdant-emperor.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/lore/overwhere-i-verdant-empire.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-abilities.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-ability-paths.lore.ts","typed":true,"deferred":false}
