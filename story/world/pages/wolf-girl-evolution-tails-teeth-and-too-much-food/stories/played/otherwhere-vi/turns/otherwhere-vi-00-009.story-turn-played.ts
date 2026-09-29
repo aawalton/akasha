@@ -10,7 +10,7 @@ export const otherwhereVi00009 = {
   position: 9,
   prose: "txt",
   characters: ["character-player/otherwhere-vi-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "I eat a handful of berries and then check again.",
   beats: [
     "Nala strips a cluster from the nearest shrub and eats a handful, seeds and all.",
@@ -22,7 +22,7 @@ export const otherwhereVi00009 = {
     "【Strength: 3】 【Dexterity: 4】 【Vitality: 3】 【Intelligence: 9】 【Willpower: 6】",
     "【Charisma: 3】 【Luck: 2】",
     "【Active Skills: none】 【Passive Skills: none】 【Traits: none】",
-    "It is the same as before, every line; the berries have left no mark on it at all.",
+    "Every line reads exactly as it did the last time she looked.",
     "She lets it go, and the letters fade.",
     "The shaking has changed while she crouched: it comes in hard, jerking spasms she cannot stop.",
     "Her fingers have gone numb and white at the tips; she can barely feel the staff in her hand.",
