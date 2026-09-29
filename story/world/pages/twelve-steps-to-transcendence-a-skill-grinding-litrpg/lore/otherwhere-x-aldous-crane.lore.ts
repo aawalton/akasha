@@ -174,7 +174,7 @@ export const otherwhereXAldousCrane = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Aldous asks a held stranger nothing more the first night; the questions wait for the soldiers.",
+      fact: "Aldous doesn't press a held stranger the first night; he offers her one private word.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
