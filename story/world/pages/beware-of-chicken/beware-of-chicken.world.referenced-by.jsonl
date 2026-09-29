@@ -128,6 +128,7 @@
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/places/otherwhere-iv-verdant-hill.place.ts","id":"01a0ea0c-236b-741f-afa7-608f1114adff"}
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/places/otherwhere-iv-willow-bend.place.ts","id":"01a0e9e0-d26b-7db4-a19c-73c3deeec373"}
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/places/otherwhere-iv-yellow-rock-plateau.place.ts","id":"01a0ea0e-01b7-7e9b-8813-fadbf2ddccca"}
+{"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/characters/otherwhere-iv-tie-bo.character-other.ts","id":"01a0eae4-b5af-7c6f-b25e-46b581040002"}
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/characters/otherwhere-iv-zhao-jun.character-other.ts","id":"01a0ea17-dbc0-7b77-bc2e-054db6fd9aeb"}
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-action-check.world-check.ts","id":"01a0e9eb-69c8-7f7c-82e0-e80dc64f4722"}
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-cultivating.world-check.ts","id":"01a0ea00-b2f3-7d29-a1a3-ece62f1079dd"}
@@ -152,6 +153,7 @@
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/ranks/otherwhere-iv-profound-realm.world-rank.ts","id":"01a0e9fd-dba9-76d2-995b-453d137ae558"}
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/ranks/otherwhere-iv-sky-realm.world-rank.ts","id":"01a0e9fd-dba9-7e96-a86d-8fd72cdffe48"}
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/ranks/otherwhere-iv-spiritual-realm.world-rank.ts","id":"01a0e9fd-dbaa-7e33-a6a7-e7111b8d0819"}
+{"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/relationships/otherwhere-iv-tie-bo.world-relationship.ts","id":"01a0eae4-b5af-74a7-8fcb-f9057f768d06"}
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/relationships/otherwhere-iv-zhao-jun.world-relationship.ts","id":"01a0ea18-d5f2-769d-9f8b-b598e8c1bfee"}
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/otherwhere-iv.story-played.ts","id":"01a0e9e0-0274-7b2e-a7d2-59463d21651c"}
 {"propertySlug":"world","path":"story/world/pages/beware-of-chicken/stories/read/beware-of-chicken/beware-of-chicken.story-read.ts","id":"01a0657d-ada1-7d41-8abe-7a5a057563a6"}
