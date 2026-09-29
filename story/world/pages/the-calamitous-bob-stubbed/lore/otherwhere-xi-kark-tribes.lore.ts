@@ -69,7 +69,7 @@ export const otherwhereXiKarkTribes = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Kark once served old Harrak's legions as auxiliaries, six centuries ago.",
+      fact: "Kark once served old Harrak's legions as auxiliaries, before the empire fell.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
