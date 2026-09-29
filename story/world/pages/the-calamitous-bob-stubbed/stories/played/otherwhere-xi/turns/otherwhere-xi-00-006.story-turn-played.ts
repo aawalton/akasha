@@ -14,7 +14,7 @@ export const otherwhereXi00006 = {
     "world-character/otherwhere-xi-wenna-ashlar",
     "world-character/otherwhere-xi-tobin-ashlar",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "\"I'm sorry to have pulled your boy from his duties Ma'am. He mentioned that you knew the old stories, so I have come seeking your wisdom, for much truth is preserved only in old stories. What do you know of the Waystones? Are there tales of travelers who arrive at them not by any road?\"",
   beats: [
@@ -40,6 +40,6 @@ export const otherwhereXi00006 = {
     '"Which are you?"',
   ],
   lore: ["lore/otherwhere-xi-wenna-ashlar", "place/otherwhere-xi-waystone-shrine"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T07:31:00.000Z",
 } as const satisfies StoryTurnPlayed
