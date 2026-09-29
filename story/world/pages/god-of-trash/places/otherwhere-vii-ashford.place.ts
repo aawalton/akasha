@@ -177,6 +177,30 @@ export const otherwhereViiAshford = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Winnowing is tossing grain in a flat basket so the draught takes the chaff; it takes a knack.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A new winnower spills grain and chokes on chaff dust, and her arms and back burn by mid-morning.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Gammer Wyn is a bent, toothless widow of seventy who has winnowed Aldo's barley for fifty years.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Gammer Wyn is blunt and nosy, but teaches anyone who listens, and likes a girl who tries.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The other winnower is Aldo's niece Tamsin, sixteen, who thinks winnowing is beneath her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The barn's water butt by the door is for the hands; any hand may dip a drink from it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Ashford is thatched houses strung along the road down to a ford over a slow, clear river.",
       knowers: [
         "lore-disclosure/game-master",
