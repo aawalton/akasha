@@ -95,6 +95,7 @@ const HELD = new Map<string, string>([
   ["false-property", "false"],
   ["instant-property", "string"],
   ["markdown-property", "string"],
+  ["named-folder-property", "true"],
   ["number-property", "number"],
   ["page-property-entry", '"jsonl"'],
   ["phone-number-property", "string"],
