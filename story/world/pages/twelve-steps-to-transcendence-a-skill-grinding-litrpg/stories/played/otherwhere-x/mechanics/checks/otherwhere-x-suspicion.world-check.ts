@@ -34,6 +34,11 @@ export const otherwhereXSuspicion = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Being heard speaking or singing in a tongue other than the common one raises two.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Being seen to wear Nala Pike's face raises three, and a lie found out three.",
     },
     {

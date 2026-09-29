@@ -1,3 +1,4 @@
+import { otherwhereXSuspicion } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/metrics/attributes/suspicion/otherwhere-x-suspicion.page-type.ts"
 import { z } from "zod"
 
 const WEIGHS = {
@@ -6,6 +7,7 @@ const WEIGHS = {
   noHome: 1,
   aloneAndCalm: 2,
   nearTheSurge: 2,
+  unknownTongue: 2,
   deadFace: 3,
   lieFoundOut: 3,
   fledOrFought: 4,
@@ -35,6 +37,7 @@ const LOOK = z.object({
       noHome: FLAG,
       aloneAndCalm: FLAG,
       nearTheSurge: FLAG,
+      unknownTongue: FLAG,
       deadFace: FLAG,
       lieFoundOut: FLAG,
       fledOrFought: FLAG,
@@ -103,7 +106,7 @@ export function added(reading: unknown, answered: unknown): readonly Added[] {
   if (!held.success || looked.change === 0) return []
   return [
     {
-      page: `otherwhere-x-suspicion/${held.data.character}`,
+      page: `${otherwhereXSuspicion.slug}/${held.data.character}`,
       key: "value",
       by: looked.change,
     },

@@ -30,6 +30,12 @@ test("wearing a drowned woman's face on the day of the surge gets her held", () 
   ).toHaveProperty("answered.stance", "held")
 })
 
+test("a song in a tongue no one in the Plains speaks raises two", () => {
+  expect(settled({ ...NALA, suspicion: 1, marks: { unknownTongue: true } })).toEqual({
+    answered: { raised: 2, eased: 0, change: 2, suspicion: 3, stance: "questioned" },
+  })
+})
+
 test("a neighbour's word and a day's honest work ease suspicion", () => {
   expect(
     settled({ ...NALA, suspicion: 5, eased: { vouched: true, honestWork: true } })
