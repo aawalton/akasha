@@ -28,6 +28,10 @@ export const superSupportiveAvowedCommunicationsNetwork = {
       fact: "Its number is public and any phone can dial it, registered or not.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The greeting is a machine's; a live answer is not promised.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
