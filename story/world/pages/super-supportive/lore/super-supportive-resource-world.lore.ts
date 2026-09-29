@@ -12,6 +12,10 @@ export const superSupportiveResourceWorld = {
       fact: "A resource world supplies people to serve the Artonans under the Contract.",
       knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
     },
+    {
+      fact: "Sister Systems run on other resource worlds and may be harder to access.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
