@@ -4,13 +4,14 @@ export const otherwhereIx00008 = {
   id: "01a0ea94-50c5-7d91-a45d-46deab30f705",
   type: "page-type/story-turn-played",
   slug: "otherwhere-ix-00-008",
+  cover: "image/image-ee4aa03f64c3806b",
   ownLength: 120,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],
   position: 8,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I grab another glass shard and stab it again",
   beats: [
     "Nala tears another sliver out of her forearm, her fingers slippery and shaking.",
@@ -23,6 +24,6 @@ export const otherwhereIx00008 = {
     "The stub of glass still stands in its throat, and it is still hanging on, breathing hard.",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T15:39:00.000Z",
 } as const satisfies StoryTurnPlayed
