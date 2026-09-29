@@ -11,4 +11,5 @@ export const irisStoryRecorderOtherwhereXFlex1 = {
   startMode: "seat-mode/headless",
   onCall: false,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "ec18716c-26ce-455f-820a-f255fb0aa2d5",
 } as const satisfies Seat
