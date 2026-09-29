@@ -80,6 +80,7 @@ export const worldCheck = {
     "world-check/otherwhere-x-standing",
     "world-check/otherwhere-x-trade",
     "world-check/otherwhere-x-growth",
+    "world-check/otherwhere-x-mana-strain",
   ],
   properties: [{ pageProperty: "module-property-group/settling", required: true, many: false }],
   decisions: [
