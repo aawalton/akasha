@@ -109,5 +109,13 @@ export const haremHotelWren = {
         "character-other/harem-hotel-tamsin",
       ],
     },
+    {
+      fact: "On floor 4 Wren serves beside Tamsin, and keeps trying to make her blush.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-tamsin",
+      ],
+    },
   ],
 } as const satisfies Lore
