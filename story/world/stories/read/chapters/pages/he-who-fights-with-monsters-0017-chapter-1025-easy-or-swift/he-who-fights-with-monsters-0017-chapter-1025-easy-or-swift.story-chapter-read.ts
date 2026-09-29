@@ -4,6 +4,7 @@ export const heWhoFightsWithMonsters0017Chapter1025EasyOrSwift = {
   id: "01a0ea43-ca55-7dc4-a8b3-4050d5636db1",
   type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0017-chapter-1025-easy-or-swift",
+  ownProgress: 2716,
   position: 17,
   publishedAt: "2026-09-28",
   unit: "unit/words",

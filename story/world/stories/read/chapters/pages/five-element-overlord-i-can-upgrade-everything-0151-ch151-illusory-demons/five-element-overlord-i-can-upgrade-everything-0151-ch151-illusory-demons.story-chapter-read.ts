@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0151Ch151IllusoryDemons = {
   id: "01a0ea43-ca55-7e48-9f56-f480ce0b4007",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0151-ch151-illusory-demons",
+  ownProgress: 1965,
   position: 151,
   publishedAt: "2026-09-28",
   unit: "unit/words",
