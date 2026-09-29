@@ -4,10 +4,13 @@ import { asNumber } from "akasha/code/type/narrowing/modules/as-number/as-number
 import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
 
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { PageTitleRow } from "akasha/page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx"
 import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
+import { titleColorClass } from "akasha/page/ui/component/modules/title-color/title-color.module.code.ts"
 
+import { usePageTypeNamed } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
 import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import {
   type UsePagesSupabaseOptions,
@@ -116,8 +119,11 @@ function PlayedStory({
   id,
   page,
 }: PlayedShellProps & { readonly page: PageWithProperties }) {
+  const { pageType } = usePageTypeNamed(pageTypeSlug)
+  const { propertyDefinitions } = parsePageTypeData(pageType?.properties)
   const data = toPageDataJSON(page.properties)
   const title = textIn(data.title)
+  const titleColor = titleColorClass(propertyDefinitions, data)
   const slug = textIn(data.slug)
   const storyAddress = namedAs(pageTypeSlug, slug, null)
   const lists = useMemo(() => playedListsOf(storyAddress), [storyAddress])
@@ -239,6 +245,7 @@ function PlayedStory({
         id={id}
         title={title}
         isFavorite={data.favoritedAt != null}
+        titleColor={titleColor}
       />
     </div>
   )

@@ -25,6 +25,7 @@ import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/
 import { PageDetailHeaderMenu } from "akasha/page/ui/component/modules/page-detail-header-menu/page-detail-header-menu.module.code.tsx"
 import { PagesFilteredContent } from "akasha/page/ui/component/modules/pages-by-relation-content/pages-by-relation-content.module.code.tsx"
 import { PropertyRow } from "akasha/page/ui/component/modules/property-row/property-row.module.code.tsx"
+import { titleColorClass } from "akasha/page/ui/component/modules/title-color/title-color.module.code.ts"
 import { DisplayFrame } from "akasha/page/ui/frame/modules/display-frame/display-frame.module.code.tsx"
 import { PagesUILink } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { usePageTypeNamed } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
@@ -40,15 +41,17 @@ export function PageTitleRow({
   id,
   title,
   isFavorite,
+  titleColor,
 }: {
   pageTypeSlug: PageTypeSlug
   id: string
   title: string
   isFavorite: boolean
+  titleColor?: string | null
 }) {
   return (
     <div className="flex items-center justify-between gap-2">
-      <h1 className="font-semibold text-2xl text-primary leading-tight">
+      <h1 className={cn("font-semibold text-2xl text-primary leading-tight", titleColor)}>
         {expandDateMentions(title)}
       </h1>
       <PageDetailHeaderMenu
@@ -85,6 +88,7 @@ export function PageCollectionContent({
 
   const data = toPageDataJSON(page?.properties)
   const title = data.title != null ? String(data.title) : ""
+  const titleColor = titleColorClass(propertyDefinitions, data)
   const header = detailConfig?.header
   const childCollection = detailConfig?.childCollection
 
@@ -136,6 +140,7 @@ export function PageCollectionContent({
             id={id}
             title={title}
             isFavorite={data.favoritedAt != null}
+            titleColor={titleColor}
           />
           {headerFields.length > 0 && (
             <div className="flex flex-col gap-2">
@@ -174,6 +179,7 @@ export function PageCollectionContent({
     mobileHeader === true && page != null
       ? {
           title: expandDateMentions(title),
+          titleClassName: titleColor,
           showBack: true,
           mobileOnly: true,
           menu: (
