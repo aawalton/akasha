@@ -4,6 +4,7 @@ export const otherwhereIii00023 = {
   id: "01a0eb2f-0c1d-76bf-bdc0-a38842d2bd77",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-023",
+  cover: "image/image-81841078d6df2a01",
   ownLength: 247,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
@@ -14,7 +15,7 @@ export const otherwhereIii00023 = {
     "character-other/super-supportive-gorgon",
     "character-other/otherwhere-iii-onn-desveth",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     '"I come from Earth, but not this Earth. I assume you are familiar with the multiverse theory of quantum mechanics? I know you have skills and spells that can pierce the boundaries between worlds. As best I can tell, I am from approximately 11 years in the past and from a version of Earth that is not too far distance, but not adjacent. As far as I was aware, yesterday was in October 2026, and no Artonan had ever visited Earth."',
   beats: [
@@ -41,6 +42,6 @@ export const otherwhereIii00023 = {
     "lore/super-supportive-resource-world",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2037-01-31T10:39:00.000Z",
 } as const satisfies StoryTurnPlayed
