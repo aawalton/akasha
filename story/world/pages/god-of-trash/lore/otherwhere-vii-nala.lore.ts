@@ -47,7 +47,6 @@ export const otherwhereViiNala = {
         "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-ennis",
         "character-other/otherwhere-vii-aldo-reeve",
-        "character-other/otherwhere-vii-agnes-hobb",
       ],
     },
     {
@@ -242,22 +241,6 @@ export const otherwhereViiNala = {
         "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-hild",
         "character-other/otherwhere-vii-joan-reeve",
-      ],
-    },
-    {
-      fact: "Nala's blisters tore open on the bucket ropes, and her palms bled at the well.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-agnes-hobb",
-      ],
-    },
-    {
-      fact: "Nala slipped at the well and spilled a full bucket over a wife's feet, and the girls laughed.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-agnes-hobb",
       ],
     },
   ],

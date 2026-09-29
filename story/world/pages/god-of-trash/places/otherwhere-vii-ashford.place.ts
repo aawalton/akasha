@@ -323,7 +323,7 @@ export const otherwhereViiAshford = {
     },
     {
       fact: "The green's well is about two hundred paces from Aldo's farmhouse door.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A full wooden bucket weighs about twenty pounds; the farmhouse butt takes six to fill.",
@@ -331,42 +331,10 @@ export const otherwhereViiAshford = {
     },
     {
       fact: "The well has a windlass and a rope bucket; drawing one full takes a minute's cranking.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "In early afternoon the well is busy with wives and girls, who talk while they wait their turn.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-agnes-hobb",
-      ],
-    },
-    {
-      fact: "The washerwomen have told the well of a red-haired stranger in black hose on Ennis's cart.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "The well has guessed her a runaway wife, a player off a wagon, or a lord's cast-off.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Hild's word hasn't reached the well yet; it reaches Marta's by mid-afternoon.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Nell Cotter, a young wife with a baby on her hip, is kind to strangers and first to speak.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "A new wooden bucket costs four pennies; a split stave can be mended by Garrick for one.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Maud Thatcher, the thatcher's thin, prim wife, got wet feet at the well and never forgives a hem.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Maud Thatcher is Joan's cousin, and would carry the tale of the bucket to Joan first.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],

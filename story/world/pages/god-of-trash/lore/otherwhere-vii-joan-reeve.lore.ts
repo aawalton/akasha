@@ -79,33 +79,5 @@ export const otherwhereViiJoanReeve = {
         "character-player/otherwhere-vii-nala",
       ],
     },
-    {
-      fact: "One of Joan's two buckets split its bottom stave on the well stones when Nala slipped.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-agnes-hobb",
-      ],
-    },
-    {
-      fact: "Joan hears of the bucket from the well before Nala gets home; the green knows within the hour.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Joan is angrier at the well's talk than at the bucket; a split stave is a penny at Garrick's.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Joan would dock the penny from Nala's wage, and send her to Garrick with the bucket herself.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Joan would forgive a fall told her straight, and not a fall she hears of first from the green.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Joan would look at torn hands, say 'Tonight, she said,' and bind them in clean rag.",
-      knowers: ["lore-disclosure/game-master"],
-    },
   ],
 } as const satisfies Lore
