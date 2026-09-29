@@ -45,7 +45,7 @@ export const otherwhereIxSurvival = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Blood is salt and meat, not water: drunk, it feeds a little and leaves the drinker thirstier.",
+      fact: "Blood is salt and meat, not water: a few mouthfuls count as two hours' more thirst.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

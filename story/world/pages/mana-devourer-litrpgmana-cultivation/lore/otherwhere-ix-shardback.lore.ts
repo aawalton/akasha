@@ -220,5 +220,25 @@ export const otherwhereIxShardback = {
       fact: "The smell of an opened shardback carries downwind and draws scavengers within the hour.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "By day the scavenger a kill draws first is a grown shardback, foraging out from its den.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A grown shardback is thigh-high and some seventy pounds, with about 150 health.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A grown shardback is F Grade like a young one, but it is not turned by a feint or a shout.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A grown shardback that finds a carcass eats first, and fights only what comes near it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Glasswing kites circle over a fresh kill by day, and their circling is seen for miles.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
