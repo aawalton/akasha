@@ -39,6 +39,10 @@ export const superSupportiveArtonanConsulate4 = {
       fact: "Classes include Artonan Life, logograms, culture and Beginners Wordchaining, some for credit.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Its Red Line stop is Monroe, downtown; the consulate is a five-minute walk west from there.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   within: "place/otherwhere-iii-chicago",
   secrets: "jsonl",
