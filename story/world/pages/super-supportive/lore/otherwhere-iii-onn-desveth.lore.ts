@@ -162,5 +162,9 @@ export const otherwhereIiiOnnDesveth = {
         "character-other/super-supportive-gorgon",
       ],
     },
+    {
+      fact: "She means to keep the book from her superiors, for Nala's safety and for her own standing.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+    },
   ],
 } as const satisfies Lore
