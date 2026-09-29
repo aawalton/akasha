@@ -164,6 +164,10 @@ export const otherwhereIxNala = {
       fact: "A shardback's teeth sank through the calf of Nala's tights and into her calf.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
+    {
+      fact: "Her unique trait cannot be called up or hurried; asking the system for it brings no box.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

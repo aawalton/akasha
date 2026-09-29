@@ -164,5 +164,17 @@ export const otherwhereIxShardback = {
       fact: "Its nape quills pierce tight cloth, but fewer get through than into bare skin.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
+    {
+      fact: "A snapped quill is a finger-long glass sliver, sharp enough for soft skin but brittle on bone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A quill sliver gripped bare cuts the hand holding it as it is driven in.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A stab that opens a shardback's windpipe chokes it on its own blood, and it lets go its bite.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
