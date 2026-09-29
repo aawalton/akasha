@@ -33,5 +33,9 @@
 {"propertySlug":"import","fileName":"world-rank.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/ranks/super-supportive-rank-f.world-rank.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-rank.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/ranks/super-supportive-rank-s.world-rank.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-rank.page-type.types.ts","path":"story/world/pages/the-beholder/mechanics/ranks/tier/the-beholder-tier.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-rank.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/ranks/otherwhere-x-common.world-rank.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-rank.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/ranks/otherwhere-x-epic.world-rank.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-rank.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/ranks/otherwhere-x-rare.world-rank.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-rank.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/ranks/otherwhere-x-uncommon.world-rank.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
 {"propertySlug":"target-page-type","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/skills/properties/otherwhere-x-skill-rarity.relation-property.ts","id":"01a0ea7c-4061-7e4e-93c3-f3e87aa13672"}
