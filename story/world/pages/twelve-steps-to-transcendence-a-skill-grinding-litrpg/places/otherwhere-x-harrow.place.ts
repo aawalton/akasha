@@ -217,6 +217,38 @@ export const otherwhereXHarrow = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Nala is a rare name; in Harrow it was Nala Pike's alone, and every older soul remembers it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hearing the dead woman's name from her likeness, Aldous hides his fear and tells no one tonight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldous will not sleep an unknown stranger under his own roof, with his boy in the house.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldous lodges strangers in the Sheaf's loft on his word, and Martha takes the reeve's word.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Harrow loves a new tale or song; winter evenings are long and the same stories worn thin.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Martha gives supper and a loft bed for a night's songs or tales that fill the Sheaf.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Sheaf supper wants a singer; the fiddler who played it last year died in the spring.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A stranger who cannot say where home is sounds, to Aldous, like one hiding it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Aldous grew up alongside Nala Pike; he sees her in the stranger, but dusk makes him doubt it.",
       knowers: ["lore-disclosure/game-master"],
     },
