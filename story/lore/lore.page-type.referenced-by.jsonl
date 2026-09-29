@@ -1691,6 +1691,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-kingdom-of-maranor.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-korrimian-league.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-law-and-crime.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-league-of-lesser-evils.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-lich.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-life-mana.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-light-gods.lore.ts","typed":true,"deferred":false}
@@ -1866,6 +1867,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-wamiri.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-wards.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-water-guild.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-wayfarers.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-witchcraft.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-wyrm.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-yries.lore.ts","typed":true,"deferred":false}

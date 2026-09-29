@@ -416,6 +416,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-kingdom-of-maranor.lore.ts","id":"01a0ea88-5d92-769a-9d79-0b3466544d03"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-korrimian-league.lore.ts","id":"01a0ea88-5d93-784f-9865-5686e3b81dbe"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-law-and-crime.lore.ts","id":"01a0ea89-7d6f-734c-8b77-dbb32a617d5d"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-league-of-lesser-evils.lore.ts","id":"01a0ea8a-6437-7125-9b71-18530a968776"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-lich.lore.ts","id":"01a0ea7e-5eab-71b2-9511-c07eea465366"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-life-mana.lore.ts","id":"01a0ea7f-ce61-71c5-8683-16e3338baff4"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-light-gods.lore.ts","id":"01a0ea7e-e16e-76b2-84cf-59577ccb64fb"}
@@ -591,6 +592,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-wamiri.lore.ts","id":"01a0ea7d-3779-700e-b4c3-32ad62776068"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-wards.lore.ts","id":"01a0ea87-578c-7b4f-9976-eb2791346f78"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-water-guild.lore.ts","id":"01a0ea89-f42d-7e28-ba40-dfe464b58679"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-wayfarers.lore.ts","id":"01a0ea8a-6438-7ea4-9daf-ddc0cc5b8ddf"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-witchcraft.lore.ts","id":"01a0ea85-f5f3-7f96-ad8b-7ccde0a647dd"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-wyrm.lore.ts","id":"01a0ea81-9844-754b-a04a-bcb5b74c3439"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-yries.lore.ts","id":"01a0ea77-0c35-7249-a9d2-f88d1b0ae214"}
@@ -680,6 +682,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-kark-tribes.world-organization.ts","id":"01a0ea81-c317-74ee-82b7-2187d61128ca"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-kingdom-of-maranor.world-organization.ts","id":"01a0ea88-5d93-775f-a521-b187681e163c"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-korrimian-league.world-organization.ts","id":"01a0ea88-5d94-7e6b-ac88-0d4cc54cc634"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-league-of-lesser-evils.world-organization.ts","id":"01a0ea8a-6438-7d66-8344-87154e175d34"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-light-gods.world-organization.ts","id":"01a0ea7e-e170-71ea-bf0a-91a20635b22e"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-linebreakers.world-organization.ts","id":"01a0ea7e-1cbf-72b2-9291-485e34b53f28"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-manipeleso-bank.world-organization.ts","id":"01a0ea80-af48-7572-a1dd-ebf9c588b6bc"}
@@ -700,6 +703,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-shipping-guild.world-organization.ts","id":"01a0ea89-f42e-7345-bcd1-c1733b2e824a"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-sisters-of-the-eye.world-organization.ts","id":"01a0ea7e-cc4b-7755-9d98-eef465622f67"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-water-guild.world-organization.ts","id":"01a0ea89-f42e-7434-b472-7954052a87de"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-wayfarers.world-organization.ts","id":"01a0ea8a-6438-7959-93a4-ec1d3bf230ab"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-zazas.world-organization.ts","id":"01a0ea87-5ff6-7b4c-bbe0-634d27303bfc"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/religions/otherwhere-xi-church-of-efestar.world-religion.ts","id":"01a0ea81-300b-788a-9544-f78479fc7d4c"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/religions/otherwhere-xi-church-of-enttiku.world-religion.ts","id":"01a0ea80-64d2-740b-bc65-39b665b2bada"}
