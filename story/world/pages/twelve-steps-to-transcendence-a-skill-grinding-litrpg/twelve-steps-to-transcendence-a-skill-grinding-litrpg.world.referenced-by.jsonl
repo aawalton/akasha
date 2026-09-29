@@ -28,6 +28,7 @@
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-ascension.lore.ts","id":"01a0ea74-83ee-7a6f-b631-8bb774a983b3"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-assessment-tablet.lore.ts","id":"01a0ea77-7cd0-76e0-9157-4b9422c92fbc"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-benjamin.lore.ts","id":"01a0ea72-4a83-7154-95c1-d9169a807474"}
+{"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-black-tights.lore.ts","id":"01a0ea80-f19c-774f-bafd-55df60a94ea3"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-brian-sterling.lore.ts","id":"01a0ea76-7f70-78cc-ae7f-9165d94c8f57"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-clarissa.lore.ts","id":"01a0ea76-7f70-7239-b9e4-be0a3a65a74e"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-constructs.lore.ts","id":"01a0ea76-efc0-7dc1-80ca-61f76cba44d0"}
@@ -49,6 +50,7 @@
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-giant-beetle.lore.ts","id":"01a0ea77-0fed-7f8b-a1aa-c51549eecd91"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-goblin-poison.lore.ts","id":"01a0ea74-a2ce-7397-9471-3448761ae95e"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-goblin.lore.ts","id":"01a0ea75-82d8-7699-969c-cef8c342e62c"}
+{"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-grey-shirt.lore.ts","id":"01a0ea80-f1a0-74f2-9b28-65c0bbc322b0"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-hannah.lore.ts","id":"01a0ea73-c52a-7551-a199-65f524586b19"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-haven-academy.lore.ts","id":"01a0ea78-4904-7d36-9a17-4dc2abe6e0c2"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-hawk-eyes.lore.ts","id":"01a0ea7a-2e19-7d28-a061-a732ef85bc1d"}
@@ -124,9 +126,11 @@
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-zones.lore.ts","id":"01a0ea72-86e7-794b-af89-0f6c5bcc17cb"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/items/otherwhere-x-amber-drink.world-item.ts","id":"01a0ea7a-5bda-7745-9469-cbb0a4415cde"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/items/otherwhere-x-assessment-tablet.world-item.ts","id":"01a0ea77-7cd1-78b0-9999-a0886016d8ff"}
+{"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/items/otherwhere-x-black-tights.world-item.ts","id":"01a0ea80-f1a0-7c44-9cdd-cd378e0aa85f"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/items/otherwhere-x-distress-beacon.world-item.ts","id":"01a0ea7a-5bda-7cb3-b076-7f1ca4194b10"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/items/otherwhere-x-escape-scroll.world-item.ts","id":"01a0ea7a-5bda-7cd3-8d13-a8a43fbdb43f"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/items/otherwhere-x-essence-shard.world-item.ts","id":"01a0ea77-7cd1-7675-91b8-bafbc379cafd"}
+{"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/items/otherwhere-x-grey-shirt.world-item.ts","id":"01a0ea80-f1a1-77dc-9d1f-7976dbe82f4b"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/items/otherwhere-x-holding-bag.world-item.ts","id":"01a0ea7a-5bda-7011-8518-75682bda3e70"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/items/otherwhere-x-mana-focus.world-item.ts","id":"01a0ea7a-5bda-7ebf-96bd-a092d9bea02a"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/items/otherwhere-x-memory-shard.world-item.ts","id":"01a0ea77-7cd2-7848-b6ac-c7c6bf1ac703"}
