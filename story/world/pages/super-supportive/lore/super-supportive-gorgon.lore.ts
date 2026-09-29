@@ -125,6 +125,10 @@ export const superSupportiveGorgon = {
       fact: "He calls her Nala-not-of-this-Earth, and asked what she wants from him.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
+    {
+      fact: "He cannot ask for food; it must be offered before he can accept or refuse it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
