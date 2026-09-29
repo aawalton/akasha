@@ -43,6 +43,7 @@ export const otherwhereVii00011 = {
     "place/otherwhere-vii-ashford",
     "lore/otherwhere-vii-aldo-reeve",
     "lore/otherwhere-vii-nala",
+    "lore/otherwhere-vii-hild",
   ],
   endsAt: "2026-09-28T12:10:00.000Z",
 } as const satisfies StoryTurnPlayed
