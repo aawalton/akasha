@@ -305,6 +305,14 @@ export const otherwhereXiWennaAshlar = {
       ],
     },
     {
+      fact: "Wenna would give a lambing hand bed, board, the robe and sandals, and a lamb at the end.",
+      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+    },
+    {
+      fact: "Wenna would tell a neighbour asking that Nala is a hired hand from down the valley, nothing more.",
+      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+    },
+    {
       fact: "Wenna asked Nala to turn the down ewe's lamb, as Nala's small hands fit where hers cannot.",
       knowers: [
         "lore-disclosure/game-master",

@@ -142,6 +142,34 @@ export const otherwhereXiAshlarFarm = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The Ashlar lambing runs about four weeks more, to the new moon after the spring quarter-day.",
+      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+    },
+    {
+      fact: "Ashlar meals: barley porridge at dawn, bread and hard cheese at noon, lentil stew at dusk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The household eats together on the floor mat by the hearth; the head of the house is served first.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Goat's milk and water are drunk at the farm; thin barley beer comes out on feast days.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The curtained corner by the hearth holds a straw pallet, a wool blanket and a peg.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The household washes at the cistern at dusk and says a word to Sardanal's sheaf before bed.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At night someone walks the lambing pen with a lamp every few hours; Wenna takes most turns.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Half the Ashlar flock is still to lamb before the month is out.",
       knowers: [
         "lore-disclosure/game-master",
