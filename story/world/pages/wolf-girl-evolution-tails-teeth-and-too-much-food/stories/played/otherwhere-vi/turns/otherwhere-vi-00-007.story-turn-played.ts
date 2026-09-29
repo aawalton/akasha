@@ -4,10 +4,13 @@ export const otherwhereVi00007 = {
   id: "01a0ea73-eee7-7929-ad3f-0e6badb13f9b",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vi-00-007",
+  ownLength: 266,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],
   position: 7,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-vi-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I stand back up and keep the stick between me and the boar and slowly back away, if it charges, I brace the stick in the ground as a makeshift spear and anchor it with my weight.",
   beats: [
