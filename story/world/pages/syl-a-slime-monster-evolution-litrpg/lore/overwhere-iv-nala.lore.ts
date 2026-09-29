@@ -68,5 +68,13 @@ export const overwhereIvNala = {
       fact: "Nala woke on Millbrook Common at midday on day one.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A status window shows Nala her name, Human LV 1, no class, and Healthy status.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "A cart driver on the road by the common stopped and stared at Nala as she woke.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore
