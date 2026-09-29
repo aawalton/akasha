@@ -99,6 +99,9 @@ export const otherwhereIiiOnnDesveth = {
       fact: "She finds no chaos corruption in Nala.",
       knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
     },
+    {
+      fact: "Nala's authority reads to her as faint and strangely new, like nothing she has met in a human.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+    },
   ],
-  secrets: "jsonl",
 } as const satisfies Lore
