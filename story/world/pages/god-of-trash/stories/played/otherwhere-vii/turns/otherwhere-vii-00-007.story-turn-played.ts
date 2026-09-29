@@ -4,6 +4,7 @@ export const otherwhereVii00007 = {
   id: "01a0ea88-705e-731e-827e-4ccc7790fe5e",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vii-00-007",
+  cover: "image/image-3f50612852a53a21",
   ownLength: 393,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vii"],
@@ -49,6 +50,6 @@ export const otherwhereVii00007 = {
   ],
   lore: ["lore/otherwhere-vii-aldo-reeve", "place/otherwhere-vii-ashford"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T08:14:00.000Z",
 } as const satisfies StoryTurnPlayed
