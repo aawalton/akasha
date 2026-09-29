@@ -256,6 +256,22 @@ export const otherwhereIxNala = {
       fact: "A grown shardback has its jaws locked on Nala's good ankle, twisting and dragging her over.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
+    {
+      fact: "Short flank quills snapped into Nala's palms; her palms are full of glass and bleeding.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "Nala holds one whole quill by its root in her left fist; three lie in the grass by her kill.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "Nala lies on her side in the glassgrass, the grown shardback's body square across her legs.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "The grown shardback drags Nala backward through the grass by her ankle, toward her kill.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
