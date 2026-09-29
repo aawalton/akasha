@@ -4,13 +4,14 @@ export const haremHotel0002TheBathhouse = {
   id: "01a0eb67-e6e2-74d1-a371-ece696437939",
   type: "page-type/story-chapter-written",
   slug: "harem-hotel-0002-the-bathhouse",
+  cover: "image/image-a756bb5371e1c852",
   position: 2,
   unit: "unit/words",
   title: "The Bathhouse",
   story: "story-written/harem-hotel",
   ownLength: 3296,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "You climb the grand staircase from the lobby, and warm air thick with steam rolls down to meet you.",
     "The stairs end in a changing room of cedar benches, stacked with white linen towels.",
@@ -85,5 +86,5 @@ export const haremHotel0002TheBathhouse = {
     "character-player/harem-hotel-alan",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryChapterWritten
