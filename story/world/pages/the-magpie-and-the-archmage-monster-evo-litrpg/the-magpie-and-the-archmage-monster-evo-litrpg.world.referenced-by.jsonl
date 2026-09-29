@@ -3,8 +3,10 @@
 {"propertySlug":"lore-about","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/lore/overwhere-iii-velithra.lore.ts","id":"01a0ed27-ab62-788a-8f71-1bb4c94be06a"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/designs/overwhere-iii.story-design.ts","id":"01a0ed08-b0b2-7002-8a13-218039db05f0"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/lore/overwhere-iii-adventurers-guild.lore.ts","id":"01a0ed28-d2cc-7757-8312-3cbb3f96a944"}
+{"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/lore/overwhere-iii-cee.lore.ts","id":"01a0ed28-efda-79c6-9dff-08322750e169"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/lore/overwhere-iii-liora.lore.ts","id":"01a0ed28-4c8b-7ead-a4b5-ea992aff02b7"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/lore/overwhere-iii-nala.lore.ts","id":"01a0ed10-f1ac-71b8-8d9e-597e016cc495"}
+{"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/lore/overwhere-iii-renir.lore.ts","id":"01a0ed28-efdb-73e0-a1f4-a560b8e2ad5f"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/lore/overwhere-iii-the-system.lore.ts","id":"01a0ed28-8fd4-74fe-83d6-8d4d9ba0b58d"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/lore/overwhere-iii-tobin-wick.lore.ts","id":"01a0ed20-ab36-79d0-b74e-fa50734d3eb5"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/lore/overwhere-iii-velithra.lore.ts","id":"01a0ed27-ab62-788a-8f71-1bb4c94be06a"}
@@ -15,7 +17,9 @@
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/places/overwhere-iii-the-hollow.place.ts","id":"01a0ed23-174e-70ba-8103-a00edf013424"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/places/overwhere-iii-wrenwood-crossroads.place.ts","id":"01a0ed10-f1ad-72f0-9304-b5e0b1b91437"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/places/overwhere-iii-wrenwood.place.ts","id":"01a0ed23-174f-7a4a-b827-767731c41980"}
+{"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/characters/overwhere-iii-cee.character-other.ts","id":"01a0ed28-efdb-7a19-82da-1d13f44dfca6"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/characters/overwhere-iii-liora.character-other.ts","id":"01a0ed28-4c8d-78c8-b3b1-d54b20ca6778"}
+{"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/characters/overwhere-iii-renir.character-other.ts","id":"01a0ed28-efdb-7407-b0fe-e880e9bc47d8"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/characters/overwhere-iii-tobin-wick.character-other.ts","id":"01a0ed20-ab37-7925-b495-0c907982b7c7"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/mechanics/checks/overwhere-iii-time-passing.world-check.ts","id":"01a0ed1e-f6ae-7bde-81b4-ec0ee3795da9"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/mechanics/mechanics/overwhere-iii-time.world-mechanic.ts","id":"01a0ed1e-f6ae-7b2c-8bb9-6f6a81b6cfb8"}
