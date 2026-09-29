@@ -44,5 +44,6 @@ export const otherwhereIii00021 = {
     "lore/super-supportive-gorgon",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2037-01-31T10:31:00.000Z",
 } as const satisfies StoryTurnPlayed
