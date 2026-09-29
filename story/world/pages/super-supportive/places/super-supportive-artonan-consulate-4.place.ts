@@ -103,6 +103,10 @@ export const superSupportiveArtonanConsulate4 = {
         "character-other/super-supportive-gorgon",
       ],
     },
+    {
+      fact: "The enrollment office is up one flight, and takes forms on weekdays.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   within: "place/otherwhere-iii-chicago",
   secrets: "jsonl",
