@@ -14,7 +14,7 @@ export const otherwhereX00011 = {
     "world-character/otherwhere-x-aldous-crane",
     "world-character/otherwhere-x-bess-crane",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action: "I follow him out in confusion.",
   beats: [
     "Nala scoops the three coppers off the trestle and follows Aldous out, not sure what's happening.",
