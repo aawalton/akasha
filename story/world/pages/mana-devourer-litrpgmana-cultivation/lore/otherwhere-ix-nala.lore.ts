@@ -240,6 +240,18 @@ export const otherwhereIxNala = {
       fact: "Something low is moving through the glassgrass far to the south, toward Nala's kill.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
+    {
+      fact: "Nala has pulled five whole spine quills from her dead shardback.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "A pale shape with glittering wings circles high over Nala's kill.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "Something low, broad and pale-bristled, bigger than her kill, walks straight at it from the south.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

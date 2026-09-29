@@ -218,19 +218,19 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "A dead shardback's quills lie flat and come free whole with a slow twist at the root.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "A whole quill has a blunt, unglazed root a thumb long; held by it, it does not cut the hand.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "The longest quills run along the spine, a hand and a half long and thick as a finger.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "A whole quill stabs like a knife into soft flesh but snaps on hide, bone or a hard twist.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "Bound to a stick with bark strip or sinew, a spine quill makes a spear point for a few thrusts.",
@@ -263,6 +263,10 @@ export const otherwhereIxShardback = {
     {
       fact: "Glasswing kites circle over a fresh kill by day, and their circling is seen for miles.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A shardback's short flank quills snap at a touch.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
   ],
 } as const satisfies Lore
