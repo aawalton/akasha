@@ -7,6 +7,7 @@ export const worldLegacy = {
   definition: "an ability a character inherits from whoever had it before",
   pluralSlug: "legacies",
   extends: ["page-type/world-mechanic"],
+  parts: ["page-type/overwhere-i-legacy"],
   runsTabooCheck: false,
   types: "ts",
   schema: "jsonl",
