@@ -16,6 +16,10 @@ export const superSupportiveGorgon = {
       fact: "He has a wide flat nose with four nostril slits and possibly no ears.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A couple dozen horns curve around his skull and flare into a spiky choker around his neck.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
