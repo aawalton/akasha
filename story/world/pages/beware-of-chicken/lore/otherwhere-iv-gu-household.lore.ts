@@ -171,5 +171,17 @@ export const otherwhereIvGuHousehold = {
         "character-other/otherwhere-iv-zhao-jun",
       ],
     },
+    {
+      fact: "Gu Meilan gives Nala her married daughter's old clothes: blue hemp jacket, trousers, sash, shoes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Gu house bath is a wooden tub in the kitchen shed, filled with water heated in the big wok.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Gus' daughter, Gu Yan, married a Lanqiao cloth dealer and left her old clothes in a chest.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
