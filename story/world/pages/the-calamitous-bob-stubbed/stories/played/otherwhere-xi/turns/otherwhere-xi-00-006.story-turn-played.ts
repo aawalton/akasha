@@ -7,7 +7,8 @@ export const otherwhereXi00006 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-xi"],
   position: 6,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "\"I'm sorry to have pulled your boy from his duties Ma'am. He mentioned that you knew the old stories, so I have come seeking your wisdom, for much truth is preserved only in old stories. What do you know of the Waystones? Are there tales of travelers who arrive at them not by any road?\"",
+  lore: ["lore/otherwhere-xi-wenna-ashlar", "place/otherwhere-xi-waystone-shrine"],
 } as const satisfies StoryTurnPlayed
