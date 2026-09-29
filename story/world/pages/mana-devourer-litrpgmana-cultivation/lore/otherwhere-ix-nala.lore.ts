@@ -208,14 +208,7 @@ export const otherwhereIxNala = {
       fact: "Her new Constitution also lifts most mana from 344 to 392, and she is full at 392.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Killing the shardback brought boxes reading sixteen, then 24 unspent stat points.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
-    },
-    {
-      fact: "Asked aloud for Status during the fight, the system showed her status screen at once.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
-    },
+
     {
       fact: "After the kill Nala's status reads Class: Otherworlder (Earth) (Tier: Novice 4).",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
