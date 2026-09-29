@@ -11,7 +11,7 @@ export const otherwhereX00007 = {
   position: 7,
   prose: "txt",
   characters: ["character-player/otherwhere-x-nala", "world-character/otherwhere-x-aldous-crane"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "\"I truly don't know. Some magic brought me hear beyond my understanding. I'm hoping learning more about your world will help me understand. What is the name of the kingdom? Who is the king? What is said of magic and monsters in the world at large?\"",
   beats: [
@@ -76,6 +76,6 @@ export const otherwhereX00007 = {
     "place/otherwhere-x-the-sheaf",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/picture", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/picture", "story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-28T18:58:00.000Z",
 } as const satisfies StoryTurnPlayed

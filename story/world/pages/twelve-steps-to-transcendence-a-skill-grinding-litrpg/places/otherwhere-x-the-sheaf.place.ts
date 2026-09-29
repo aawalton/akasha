@@ -18,7 +18,7 @@ export const otherwhereXTheSheaf = {
     },
     {
       fact: "On day one's evening the Sheaf's hearth has a pot of mutton stew on it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
     },
     {
       fact: "The Sheaf supper wants a singer; the fiddler who played it last year died in the spring.",
@@ -30,11 +30,15 @@ export const otherwhereXTheSheaf = {
     },
     {
       fact: "The Sheaf has wanted a singer since the fiddler died.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-martha-deane",
+      ],
     },
     {
       fact: "The Sheaf is one long smoky room of trestles and benches, a hearth at the far end.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
     },
     {
       fact: "The loft is reached by a ladder behind the hearth, and is warm from the chimney.",
@@ -42,7 +46,7 @@ export const otherwhereXTheSheaf = {
     },
     {
       fact: "Of an evening a dozen or so Harrow men and women drink in the Sheaf after the dusk bell.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
     },
   ],
   exits: [{ to: "place/otherwhere-x-harrow", way: "out the front door onto the green" }],

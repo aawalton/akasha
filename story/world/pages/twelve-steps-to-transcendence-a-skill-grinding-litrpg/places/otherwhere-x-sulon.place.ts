@@ -86,11 +86,19 @@ export const otherwhereXSulon = {
     },
     {
       fact: "In Sulon everyone awakens at fourteen, and a village marks each awakening with a feast.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
     },
     {
       fact: "Rifts seldom open in the heartland; when one does, soldiers and guild come and villages empty.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
     },
     {
       fact: "Heartland folk hold a Tier 1 fighter great, and a Tier 3 magister a figure out of legend.",

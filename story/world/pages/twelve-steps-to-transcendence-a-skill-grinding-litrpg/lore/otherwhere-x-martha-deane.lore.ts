@@ -10,7 +10,11 @@ export const otherwhereXMarthaDeane = {
   facts: [
     {
       fact: "Martha Deane, a brisk widow, keeps the Sheaf, Harrow's alehouse on the green.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-martha-deane",
+      ],
     },
     {
       fact: "Martha is stout, grey-haired and loud, and rules her room with a look.",

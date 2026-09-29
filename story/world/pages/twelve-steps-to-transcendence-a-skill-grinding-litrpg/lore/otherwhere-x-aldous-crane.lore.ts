@@ -34,11 +34,19 @@ export const otherwhereXAldousCrane = {
     },
     {
       fact: "Aldous will not sleep an unknown stranger under his own roof, with his boy in the house.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
     },
     {
       fact: "Aldous lodges strangers in the Sheaf's loft on his word, and Martha takes the reeve's word.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
     },
     {
       fact: "A stranger who cannot say where home is sounds, to Aldous, like one hiding it.",
@@ -102,6 +110,14 @@ export const otherwhereXAldousCrane = {
     },
     {
       fact: "Aldous asked Nala how she came to be on Harrow Mile at dusk, barefoot, with no token.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
+    },
+    {
+      fact: "To Aldous, a stranger brought here by magic is a thing for past the walls, or a fever.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-x-nala",

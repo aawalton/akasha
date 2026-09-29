@@ -18,7 +18,11 @@ export const otherwhereXBessCrane = {
     },
     {
       fact: "Bess will not turn a barefoot woman away hungry, whatever Aldous thinks of her.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-bess-crane",
+      ],
     },
     {
       fact: "The stout woman at the Cranes' door says anyone on her doorstep gets fed.",

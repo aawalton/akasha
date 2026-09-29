@@ -22,7 +22,11 @@ export const otherwhereXHarrow = {
     },
     {
       fact: "Everyone in Harrow is Tier 0 but the hunter Tobin Marsh, and none can see their own status.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
     },
     {
       fact: "Harrow folk are kind to those in need and wary of strangers; strangers are rare here.",
@@ -33,17 +37,14 @@ export const otherwhereXHarrow = {
       knowers: ["lore-disclosure/game-master"],
     },
     { fact: "Harrow's reeve is Aldous Crane.", knowers: ["lore-disclosure/game-master"] },
-
     {
       fact: "The Sheaf is Harrow's alehouse, on the green.",
       knowers: ["lore-disclosure/game-master"],
     },
-
     {
       fact: "Old folk who knew Nala Pike see her face in the stranger, and it frightens them.",
       knowers: ["lore-disclosure/game-master"],
     },
-
     {
       fact: "A farm hand's day in Harrow pays three copper and a meal.",
       knowers: ["lore-disclosure/game-master"],
@@ -68,7 +69,6 @@ export const otherwhereXHarrow = {
       fact: "On day one at six, Hob Crane and a dozen geese come west along the road below the rise.",
       knowers: ["lore-disclosure/game-master"],
     },
-
     {
       fact: "Bare feet are the mark of beggars and children in Harrow; grown folk wear clogs or boots.",
       knowers: ["lore-disclosure/game-master"],
@@ -81,7 +81,6 @@ export const otherwhereXHarrow = {
       fact: "Harrow folk take a woman alone on the road at dusk for robbed, runaway, or worse.",
       knowers: ["lore-disclosure/game-master"],
     },
-
     {
       fact: "The dusk bell on day one rings at twenty to seven.",
       knowers: ["lore-disclosure/game-master"],
@@ -98,7 +97,6 @@ export const otherwhereXHarrow = {
       fact: "The goose boy speaks slow and broad, with a country burr.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
     },
-
     {
       fact: "The Cranes live in the stone-footed house on the green's east side, by the bell post.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
@@ -107,7 +105,6 @@ export const otherwhereXHarrow = {
       fact: "On day one's evening Aldous and Bess are at home, supper on the board, waiting on Hob.",
       knowers: ["lore-disclosure/game-master"],
     },
-
     {
       fact: "Nala is a rare name; in Harrow it was Nala Pike's alone, and every older soul remembers it.",
       knowers: ["lore-disclosure/game-master"],
@@ -116,7 +113,6 @@ export const otherwhereXHarrow = {
       fact: "Harrow loves a new tale or song; winter evenings are long and the same stories worn thin.",
       knowers: ["lore-disclosure/game-master"],
     },
-
     {
       fact: "The reeve keeps Harrow's roll, and everyone in Harrow has to answer to him.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
@@ -169,7 +165,6 @@ export const otherwhereXHarrow = {
       fact: "At the name Nala, Aldous gripped the door frame white-knuckled, his face unchanged.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
     },
-
     {
       fact: "Aldous silenced the stout woman with a raised hand, without looking round.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
