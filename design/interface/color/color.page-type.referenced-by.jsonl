@@ -4,6 +4,8 @@
 {"propertySlug":"import","fileName":"color.page-type.ts","path":"design/interface/system/modules/property-badge-panels/property-badge-panels.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"color.page-type.ts","path":"design/interface/system/modules/property-row-panels/property-row-panels.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"color.page-type.ts","path":"page/ui/component/modules/title-color/title-color.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"color.page-type.ts","path":"story/properties/story-color.computed-property.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"color.page-type.ts","path":"story/properties/story-color.computed-property.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"color.page-type.types.ts","path":"design/interface/color/pages/ash.color.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"color.page-type.types.ts","path":"design/interface/color/pages/black.color.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"color.page-type.types.ts","path":"design/interface/color/pages/blue.color.ts","typed":true,"deferred":false}
@@ -28,3 +30,4 @@
 {"propertySlug":"target-page-type","path":"alan/value/properties/value-color.relation-property.ts","id":"01a06d7a-e9f7-7f1b-b0c4-15f3742e8352"}
 {"propertySlug":"target-page-type","path":"code/stylesheet/properties/stylesheet-color.relation-property.ts","id":"01a0d58f-e044-7401-9ebe-ec348f69d852"}
 {"propertySlug":"target-page-type","path":"page/select-property/properties/select-option-color.relation-property.ts","id":"01a0c532-3208-72dc-b206-6ba84b69e302"}
+{"propertySlug":"target-page-type","path":"story/properties/story-color.computed-property.ts","id":"01a0eafd-aac3-7d63-991e-1606a29f818b"}

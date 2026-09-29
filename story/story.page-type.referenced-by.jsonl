@@ -2,6 +2,8 @@
 {"propertySlug":"extends-type","path":"story/world/stories/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}
 {"propertySlug":"extends-type","path":"story/world/stories/read/story-read.page-type.ts","id":"01a06554-d8bd-7235-9a9d-e26d4823e6d0"}
 {"propertySlug":"extends-type","path":"story/world/stories/written/story-written.page-type.ts","id":"01a06554-d8bd-7502-a414-fd4fd32eba45"}
+{"propertySlug":"import","fileName":"story.page-type.types.ts","path":"story/properties/story-color.computed-property.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"story.page-type.types.ts","path":"story/properties/story-color.computed-property.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story.page-type.types.ts","path":"story/world/stories/played/story-played.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story.page-type.types.ts","path":"story/world/stories/read/story-read.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story.page-type.types.ts","path":"story/world/stories/written/story-written.page-type.types.ts","typed":true,"deferred":false}

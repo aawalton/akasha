@@ -29,6 +29,7 @@ export const story = {
     "text-property/coordinator-agent",
     "file-property/phase-timings",
     "multi-relation-property/panels",
+    "computed-property/story-color",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -45,6 +46,7 @@ export const story = {
       uncommitted: true,
       default: "jsonl",
     },
+    { pageProperty: "computed-property/story-color", required: false, many: false },
   ],
   decisions: [
     {

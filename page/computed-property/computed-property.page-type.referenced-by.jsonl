@@ -57,6 +57,8 @@
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"persona/properties/persona-relationship-level.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"persona/properties/persona-relationship-level.computed-property.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"story/properties/story-color.computed-property.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"story/properties/story-color.computed-property.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"story/world/characters/properties/max-level.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"story/world/characters/properties/max-level.computed-property.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"story/world/mechanics/relationships/properties/world-relationship-level.computed-property.code.ts","typed":true,"deferred":false}
@@ -111,6 +113,7 @@
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/track/daily/day/properties/wealth-stoplight.computed-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/value/health/fitness/strength/log/properties/set-volume.computed-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"persona/properties/persona-relationship-level.computed-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"story/properties/story-color.computed-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"story/world/characters/properties/max-level.computed-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"story/world/mechanics/relationships/properties/world-relationship-level.computed-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/properties/otherwhere-i-room-exits.computed-property.ts","typed":true,"deferred":false}

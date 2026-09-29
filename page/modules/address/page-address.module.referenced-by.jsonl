@@ -185,6 +185,7 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"product/wandering-inn-wiki/web/root.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"product/wandering-inn-wiki/web/routes/innworld-home/innworld-home.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/properties/story-color.computed-property.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/ui/modules/character-cover-panel/character-cover-panel.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/ui/modules/player-character-panel/player-character-panel.module.code.tsx","typed":false,"deferred":false}
