@@ -78,7 +78,7 @@ export const otherwhereViiiTheWorkshopRoom = {
     },
     {
       fact: "The grinding wheels whine through the boards, loud enough to wake a light sleeper.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The workshop stops for a half-hour lunch at noon, and falls quiet at four.",
@@ -90,15 +90,11 @@ export const otherwhereViiiTheWorkshopRoom = {
     },
     {
       fact: "Hallick counts a bench hand's day from when the hand comes down, and pays only for those hours.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The straw mattress is lumpy but dry, and smells faintly of the journeyman's pipe.",
       knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "The straw mattress in the room is lumpy and smells faintly of pipe smoke.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
   ],
   secrets: "jsonl",
