@@ -225,7 +225,7 @@ export const otherwhereViiiTheInstitute = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The Institute pays bench hands three crowns a day, cash, for repair work in the workshop.",
+      fact: "The Institute pays bench hands fifty crowns a day, cash, for repair work in the workshop.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
