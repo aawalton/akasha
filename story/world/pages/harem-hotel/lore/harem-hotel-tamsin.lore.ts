@@ -95,6 +95,14 @@ export const haremHotelTamsin = {
         "character-other/harem-hotel-tamsin",
       ],
     },
+    {
+      fact: "On floor 4 Tamsin serves beside Wren, and out-filths her in a polite voice.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/harem-hotel-tamsin",
+        "character-other/harem-hotel-wren",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
