@@ -10,7 +10,7 @@ export const otherwhereVi00011 = {
   position: 11,
   prose: "txt",
   characters: ["character-player/otherwhere-vi-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     '"Great. The system isn\'t just useless, it also has an attitude. I would have used a roof if there was one!" I shout to the sky. I get up and use the stick to support myself and make my way downstream as best I can, hoping to find help or healing before I die of exposure.',
   beats: [
@@ -40,8 +40,11 @@ export const otherwhereVi00011 = {
     "A shaggy brown dog lifts its head at the hut, barks, and looks straight at her.",
     "A man straightens up from the smoking mound and stands, looking at her.",
   ],
-  issues: ['"nothing answers it" - the System answers her shout two beats later'],
+  issues: [
+    '"nothing answers it" - the System answers her shout two beats later',
+    '"A man straightens up from the smoking mound and stands, looking at you." - No Prompt',
+  ],
   lore: ["place/otherwhere-vi-charcoal-camp", "lore/otherwhere-vi-nala"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T10:10:00.000Z",
 } as const satisfies StoryTurnPlayed
