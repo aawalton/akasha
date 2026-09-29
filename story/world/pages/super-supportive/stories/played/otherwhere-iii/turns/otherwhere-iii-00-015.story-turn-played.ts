@@ -4,10 +4,17 @@ export const otherwhereIii00015 = {
   id: "01a0ea8c-4b48-78d1-b9fc-3a4fae8e6e3b",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-015",
+  ownLength: 686,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
   position: 15,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/otherwhere-iii-nala",
+    "character-other/otherwhere-iii-priya-raman",
+    "character-other/otherwhere-iii-denise-pruitt",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "\"You've done so much already, I think that's all I need. I need to go to the Artonan Consulate first though, that's just down the red line, right?\"",
   beats: [
