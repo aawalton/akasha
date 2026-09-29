@@ -95,5 +95,13 @@ export const haremHotelWren = {
         "character-other/harem-hotel-odile",
       ],
     },
+    {
+      fact: "On floor 3 Wren plays to make the masked Lady laugh, and cheats to come before Odile.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-odile",
+      ],
+    },
   ],
 } as const satisfies Lore
