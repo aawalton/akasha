@@ -29,5 +29,6 @@ export const otherwhereViii00007 = {
     "A key is already in his hand; the side door is twenty paces from the hatch.",
   ],
   lore: ["place/otherwhere-viii-guildhall"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T06:57:00.000Z",
 } as const satisfies StoryTurnPlayed
