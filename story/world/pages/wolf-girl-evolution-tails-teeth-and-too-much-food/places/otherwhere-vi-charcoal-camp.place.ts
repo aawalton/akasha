@@ -246,6 +246,22 @@ export const otherwhereViCharcoalCamp = {
       fact: "On her third round Nala smothered a flare and a steaming thin place on the clamp's river side.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
+    {
+      fact: "After the night watch Wat fed Nala two buttered bowls of thick salted porridge by the fire.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-wat",
+      ],
+    },
+    {
+      fact: "Wat says the night's watcher sleeps the day out by the hut fire, once fed.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-wat",
+      ],
+    },
   ],
   exits: [
     {

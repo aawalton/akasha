@@ -162,5 +162,13 @@ export const otherwhereViCustoms = {
         "character-other/otherwhere-vi-jory-tull",
       ],
     },
+    {
+      fact: "A guest owes the house that shelters her news of the road.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-jory-tull",
+      ],
+    },
   ],
 } as const satisfies Lore

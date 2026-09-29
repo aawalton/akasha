@@ -265,6 +265,14 @@ export const otherwhereViNala = {
         "character-other/otherwhere-vi-wat",
       ],
     },
+    {
+      fact: "Jory asked Nala what her far country is like, since a guest's news of the road is owed.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-jory-tull",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

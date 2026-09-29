@@ -34,5 +34,6 @@ export const otherwhereVi00017 = {
   issues: ['"you\'ve told us none of yours" - Plain Negation'],
   lore: ["lore/otherwhere-vi-nala"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-30T06:30:00.000Z",
 } as const satisfies StoryTurnPlayed
