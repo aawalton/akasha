@@ -5,7 +5,7 @@ export const otherwhereXNala = {
   type: "page-type/otherwhere-x-suspicion",
   slug: "otherwhere-x-nala",
   character: "character-player/otherwhere-x-nala",
-  value: 1,
+  value: 4,
   minValue: 0,
   maxValue: 20,
   history: "jsonl",
