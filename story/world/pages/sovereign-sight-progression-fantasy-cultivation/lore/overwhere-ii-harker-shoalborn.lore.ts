@@ -188,6 +188,22 @@ export const overwhereIiHarkerShoalborn = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "His Laws also include Seize The Field and Trust Others To Act In Their Own Best Interest.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He passes as a Minor Talent, though Vale knew him as a Knack.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He reads fine script with Sovereign Sight by tuning how deep his Water sinks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "As a healer he weighs refining organs and blood first, against the usual skin-first order.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "He fights with knives, sling and bow, and with traps, poisons and dust explosions.",
       knowers: ["lore-disclosure/game-master"],
     },
