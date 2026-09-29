@@ -80,6 +80,11 @@ export const storyPlayed = {
       decisionKind: "decision-kind/departure",
       statement: "A game master asks a mechanic for a number rather than working that number out.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A story played has a check `<story>-time-passing`, filed with the story before its first turn.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
