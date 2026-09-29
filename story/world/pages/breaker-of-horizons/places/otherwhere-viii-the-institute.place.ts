@@ -89,6 +89,78 @@ export const otherwhereViiiTheInstitute = {
       ],
     },
     {
+      fact: "Lens thickness is written in lines, and a focus distance in inches.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-viii-hallick",
+        "character-player/otherwhere-viii-nala",
+      ],
+    },
+    {
+      fact: "On the slate: a lens 3 lines thick throws a lamp's focus 40 inches off.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-viii-hallick",
+        "character-player/otherwhere-viii-nala",
+      ],
+    },
+    {
+      fact: "On the slate: a lens 4 lines thick throws a lamp's focus 30 inches off.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-viii-hallick",
+        "character-player/otherwhere-viii-nala",
+      ],
+    },
+    {
+      fact: "On the slate: a lens 5 lines thick throws a lamp's focus 24 inches off.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-viii-hallick",
+        "character-player/otherwhere-viii-nala",
+      ],
+    },
+    {
+      fact: "On the slate: a lens 6 lines thick throws a lamp's focus 20 inches off.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-viii-hallick",
+        "character-player/otherwhere-viii-nala",
+      ],
+    },
+    {
+      fact: "On the slate: a lens 8 lines thick throws a lamp's focus 15 inches off.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-viii-hallick",
+        "character-player/otherwhere-viii-nala",
+      ],
+    },
+    {
+      fact: "On the slate: a lens 10 lines thick throws a lamp's focus 12 inches off.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-viii-hallick",
+        "character-player/otherwhere-viii-nala",
+      ],
+    },
+    {
+      fact: "On the slate: a lens 12 lines thick throws a lamp's focus 10 inches off.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-viii-hallick",
+        "character-player/otherwhere-viii-nala",
+      ],
+    },
+    {
+      fact: "On the slate the rows for 2 lines and for 15 lines are blank, the two outer rows.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-viii-hallick",
+        "character-player/otherwhere-viii-nala",
+      ],
+    },
+    {
       fact: "The rule behind the numbers is plain: focus distance falls as thickness rises, in proportion.",
       knowers: ["lore-disclosure/game-master"],
     },
