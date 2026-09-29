@@ -14,7 +14,7 @@ export const otherwhereIii00015 = {
     "character-other/otherwhere-iii-priya-raman",
     "character-other/otherwhere-iii-denise-pruitt",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "\"You've done so much already, I think that's all I need. I need to go to the Artonan Consulate first though, that's just down the red line, right?\"",
   beats: [
@@ -41,6 +41,6 @@ export const otherwhereIii00015 = {
     "He keeps his eyes on a bank of security monitors, away from the phones pointed at him.",
   ],
   lore: ["place/super-supportive-artonan-consulate-4"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2037-01-31T09:23:00.000Z",
 } as const satisfies StoryTurnPlayed
