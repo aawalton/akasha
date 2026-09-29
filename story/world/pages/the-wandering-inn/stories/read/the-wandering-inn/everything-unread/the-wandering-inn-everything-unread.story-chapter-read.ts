@@ -7,6 +7,6 @@ export const theWanderingInnEverythingUnread = {
   unit: "unit/words",
   title: "Everything unread",
   story: "story-read/the-wandering-inn",
-  ownLength: 10,
+  ownLength: 2035965,
   prose: "txt",
 } as const satisfies StoryChapterRead
