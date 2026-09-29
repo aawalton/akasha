@@ -24,6 +24,15 @@ export const otherwhereXiNotice = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A silent prayer naming no god moves no god's notice.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Sardanal also keeps healing and birth; saving a life at a birth is a deed in his domain.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A deed in a god's own domain, done openly, moves it one to three.",
     },
     {
