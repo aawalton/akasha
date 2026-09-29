@@ -32,6 +32,10 @@ export const superSupportiveAvowedCommunicationsNetwork = {
       fact: "The greeting is a machine's; a live answer is not promised.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Contract itself speaks to Avowed; the network only takes and passes calls.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
