@@ -16,4 +16,5 @@ export const otherwhereIii00019 = {
     "lore/super-supportive-contract-refuser",
     "lore/super-supportive-system-call",
   ],
+  endsAt: "2037-01-31T09:49:00.000Z",
 } as const satisfies StoryTurnPlayed
