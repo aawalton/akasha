@@ -79,7 +79,7 @@ export type Cancelling = Rewinding & {
   readonly valueAt: (root: string, path: string) => Value | null
 }
 
-export const CANCELS: Cancelling = {
+const CANCELS: Cancelling = {
   ...REWOUND,
   valueAt: (root, path) => valueAt(path, root),
 }
@@ -88,7 +88,7 @@ type Taken = { readonly turn: string; readonly takesBack: boolean }
 
 type Refusal = { readonly refused: readonly string[] }
 
-export function taken(argv: readonly string[], calledAs: string): Taken | Refusal {
+function taken(argv: readonly string[], calledAs: string): Taken | Refusal {
   const read = takenFor(argv, calledAs, page, NAMED)
   if ("refused" in read) return { refused: read.refused }
   const turn = read.taken.playedTurn.trim()
@@ -96,7 +96,7 @@ export function taken(argv: readonly string[], calledAs: string): Taken | Refusa
   return { turn, takesBack: read.taken.takeBackMechanics }
 }
 
-export function cancelNoticeOf(turn: string): string {
+function cancelNoticeOf(turn: string): string {
   return `The turn \`${turn}\` is cancelled.`
 }
 
@@ -115,14 +115,14 @@ function lineIn(text: string): Line | null {
   return turn === undefined || value === undefined ? null : { text, turn, value }
 }
 
-export type Mechanic = {
+type Mechanic = {
   readonly at: string
   readonly value: Value
   readonly historyAt: string
   readonly history: string
 }
 
-export type Restoring = {
+type Restoring = {
   readonly naming: Naming
   readonly historyAt: string
   readonly kept: string
