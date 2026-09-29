@@ -16,6 +16,10 @@ export const superSupportiveDeclared = {
       fact: "Outsiders seeking knighthood are pruned repeatedly; serious ones are invited to serve as votaries.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "All declared are admitted to DawnStep; outsider and Rapport declared are housed and trained apart.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
