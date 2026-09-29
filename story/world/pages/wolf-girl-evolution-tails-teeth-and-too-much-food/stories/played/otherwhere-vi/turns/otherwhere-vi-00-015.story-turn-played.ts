@@ -42,5 +42,6 @@ export const otherwhereVi00015 = {
     "He goes in, and the door-hide falls behind him, and she is alone with the clamp and the moon.",
   ],
   lore: ["lore/otherwhere-vi-nala", "place/otherwhere-vi-charcoal-camp"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T20:00:00.000Z",
 } as const satisfies StoryTurnPlayed
