@@ -32,6 +32,14 @@ export const otherwhereViBrackenford = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Its gate is a hurdle in the hedge on the Weald track, minded by whoever sits the watch-bell.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "One vouched for by a Brackenford man is let through the gate without the questions.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The inn is the Tallow Lamp, kept by Hesk Amberhide, a bearfolk woman, slow and kind.",
       knowers: ["lore-disclosure/game-master"],
     },
