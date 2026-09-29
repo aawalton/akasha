@@ -15,7 +15,7 @@ export const otherwhereVi00017 = {
     "character-other/otherwhere-vi-wat",
     "character-other/otherwhere-vi-burr",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I go inside to eat.",
   beats: [
     "Nala hands the shovel to Jory, lifts the door-hide, and goes in out of the grey morning.",
@@ -33,6 +33,6 @@ export const otherwhereVi00017 = {
   ],
   issues: ['"you\'ve told us none of yours" - Plain Negation'],
   lore: ["lore/otherwhere-vi-nala"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T06:30:00.000Z",
 } as const satisfies StoryTurnPlayed
