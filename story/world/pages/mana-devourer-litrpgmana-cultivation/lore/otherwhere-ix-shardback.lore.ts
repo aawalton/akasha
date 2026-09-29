@@ -154,7 +154,7 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "Held shut, a young shardback's throat fails it in about a minute, and it goes limp.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "A choked shardback that goes limp comes round again soon after the grip loosens.",
@@ -174,7 +174,7 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "A stab that opens a shardback's windpipe chokes it on its own blood, and it lets go its bite.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "A quill sliver snaps when driven hard into a shardback's throat, leaving a stub.",
@@ -190,7 +190,7 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "A quill stub in a shardback's throat, driven deeper, can open its windpipe.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "Weight pressed down on a shardback's bare throat shuts its breath as a squeeze does.",
@@ -198,7 +198,7 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "Quill shards in an arm pressed hard against anything drive deeper into that arm.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "A shardback with its windpipe opened drowns in its own blood within a few minutes.",
