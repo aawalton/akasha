@@ -4,13 +4,13 @@ export const otherwhereXi00008 = {
   id: "01a0eaf6-1e39-767b-af39-11d3bddd4eab",
   type: "page-type/story-turn-played",
   slug: "otherwhere-xi-00-008",
-  ownLength: 308,
+  ownLength: 310,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-xi"],
   position: 8,
   prose: "txt",
   characters: ["character-player/otherwhere-xi-nala", "world-character/otherwhere-xi-wenna-ashlar"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "\"I'll gladly work, but I'll warn you, today is the first time I've seen a sheep close enough to touch one. You'll need to teach me what to do.\"",
   beats: [
