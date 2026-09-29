@@ -4,10 +4,13 @@ export const otherwhereIx00006 = {
   id: "01a0ea78-aa5d-7553-8a99-329066c5ca03",
   type: "page-type/story-turn-played",
   slug: "otherwhere-ix-00-006",
+  ownLength: 190,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],
   position: 6,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-ix-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I wrap my thighs around its neck and squeeze with all my strength, working to crush its windpipe.",
   beats: [
