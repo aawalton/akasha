@@ -148,5 +148,21 @@ export const otherwhereIxShardback = {
       fact: "A shardback's throat and belly are soft, bare skin with no quills at all.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
+    {
+      fact: "A shardback whose throat is squeezed shut lets go its bite within moments, to heave for air.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Held shut, a young shardback's throat fails it in about a minute, and it goes limp.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A choked shardback that goes limp comes round again soon after the grip loosens.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Its nape quills pierce tight cloth, but fewer get through than into bare skin.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
