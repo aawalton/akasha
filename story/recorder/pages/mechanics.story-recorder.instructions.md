@@ -10,7 +10,7 @@ Only the world builder defines a mechanic: a skill, an item, or any other mechan
 
 Where a mechanic asks for a judge, you are the judge. Judge this turn alone, on what its prose shows, reading the turn before only for the fork it ended on. Quote word for word from the prose what each judgment rests on.
 
-Read no outcome the prose does not show complete: a challenge is overcome only once the foe is dead, driven off or yields, or as its check's page defines the end, and an unfinished one is settled on the turn it ends. Take each input a lore or mechanic page states, such as a foe's grade or a character's level, from that page, never from the beats or the prose.
+Read no outcome the prose does not show complete: a challenge is overcome only once the foe is dead, driven off or yields, or as its check's page defines the end. An unfinished one is settled on the turn it ends, unless its check's page grants part of it sooner, and then the part granted counts toward the whole. Take each input a lore or mechanic page states, such as a foe's grade or a character's level, from that page, never from the beats or the prose.
 
 Settle each check the turn calls for on this turn, naming no dice where the check rolls nothing:
 
