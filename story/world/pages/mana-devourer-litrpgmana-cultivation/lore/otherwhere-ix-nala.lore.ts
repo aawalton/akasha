@@ -172,6 +172,26 @@ export const otherwhereIxNala = {
       fact: "A quill sliver cut Nala's palm as she drove it into a shardback's throat.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
+    {
+      fact: "Her first kill brings three level-up boxes, the unspent count reading eight, sixteen, 24.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At level 4 her class line reads Otherworlder (Earth) (Tier: Novice 4); she is still G Grade.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Levelling heals nothing, and the system grants no talent or healing for being asked.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Asked for Status aloud or in thought, the system shows her status screen at once.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Points put into Constitution lift her most health, and her current health by as much.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
