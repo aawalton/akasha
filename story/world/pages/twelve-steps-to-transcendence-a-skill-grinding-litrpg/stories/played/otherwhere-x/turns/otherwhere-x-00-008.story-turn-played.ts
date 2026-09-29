@@ -7,7 +7,21 @@ export const otherwhereX00008 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-x"],
   position: 8,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     'I choose to sing "O Danny Boy", since I don\'t know if they will understand the words, but the emotions can still come through the music. After that I sing "Homeward Bound"',
+  lore: [
+    "lore/otherwhere-x-aldous-crane",
+    "lore/otherwhere-x-language",
+    "lore/otherwhere-x-martha-deane",
+    "lore/otherwhere-x-nala",
+    "lore/otherwhere-x-progression",
+    "lore/otherwhere-x-resolution",
+    "lore/otherwhere-x-standing",
+    "lore/otherwhere-x-survival",
+    "lore/otherwhere-x-time",
+    "place/otherwhere-x-harrow",
+    "place/otherwhere-x-harrow-green",
+    "place/otherwhere-x-the-sheaf",
+  ],
 } as const satisfies StoryTurnPlayed
