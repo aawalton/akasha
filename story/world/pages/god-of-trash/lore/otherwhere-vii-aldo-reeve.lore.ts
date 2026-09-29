@@ -65,5 +65,22 @@ export const otherwhereViiAldoReeve = {
         "character-other/otherwhere-vii-aldo-reeve",
       ],
     },
+    {
+      fact: "Aldo set Nala to winnow the morning: last till noon without wasting barley and there's bread in it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+      ],
+    },
+    {
+      fact: "When Nala spilled a basket, Aldo warned her the next spill sends her back on the road.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-other/otherwhere-vii-gammer-wyn",
+      ],
+    },
   ],
 } as const satisfies Lore

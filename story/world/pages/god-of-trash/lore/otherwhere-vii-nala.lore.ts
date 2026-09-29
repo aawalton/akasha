@@ -118,6 +118,24 @@ export const otherwhereViiNala = {
         "character-other/otherwhere-vii-aldo-reeve",
       ],
     },
+    {
+      fact: "Nala told Aldo her name and that she is alone here, and offered to work first for a meal.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+      ],
+    },
+    {
+      fact: "Past the first hour of winnowing, Nala tipped a whole basket of clean grain into the chaff.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-other/otherwhere-vii-gammer-wyn",
+        "character-other/otherwhere-vii-tamsin",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

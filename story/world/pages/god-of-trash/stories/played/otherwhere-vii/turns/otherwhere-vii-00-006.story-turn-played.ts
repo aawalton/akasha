@@ -16,7 +16,7 @@ export const otherwhereVii00006 = {
     "character-other/otherwhere-vii-gammer-wyn",
     "character-other/otherwhere-vii-tamsin",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "\"I'm Nala, not looking for a handout, just a meal for honest work. Happy to do the work first, so you're not risking anything on my lack of reputation. I'm afraid I'm alone here.\"",
   beats: [
@@ -50,6 +50,6 @@ export const otherwhereVii00006 = {
   ],
   lore: ["lore/otherwhere-vii-aldo-reeve", "place/otherwhere-vii-ashford"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture", "story-recorder/memory"],
   endsAt: "2026-09-28T08:09:00.000Z",
 } as const satisfies StoryTurnPlayed

@@ -178,7 +178,12 @@ export const otherwhereViiAshford = {
     },
     {
       fact: "Winnowing is tossing grain in a flat basket so the draught takes the chaff; it takes a knack.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-gammer-wyn",
+        "character-other/otherwhere-vii-tamsin",
+      ],
     },
     {
       fact: "A new winnower spills grain and chokes on chaff dust, and her arms and back burn by mid-morning.",
@@ -198,7 +203,11 @@ export const otherwhereViiAshford = {
     },
     {
       fact: "The barn's water butt by the door is for the hands; any hand may dip a drink from it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+      ],
     },
     {
       fact: "Ashford is thatched houses strung along the road down to a ford over a slow, clear river.",
