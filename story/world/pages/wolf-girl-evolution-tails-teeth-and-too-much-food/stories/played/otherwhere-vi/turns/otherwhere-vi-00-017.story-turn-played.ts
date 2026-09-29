@@ -31,6 +31,8 @@ export const otherwhereVi00017 = {
     "He says a guest owes news of the road, and she has told them nothing of hers.",
     "He asks her what it is like, the far country she comes from.",
   ],
+  issues: ['"you\'ve told us none of yours" - Plain Negation'],
   lore: ["lore/otherwhere-vi-nala"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T06:30:00.000Z",
 } as const satisfies StoryTurnPlayed
