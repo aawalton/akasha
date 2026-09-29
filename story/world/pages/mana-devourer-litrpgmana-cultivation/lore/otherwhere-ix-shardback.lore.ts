@@ -162,7 +162,7 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "Its nape quills pierce tight cloth, but fewer get through than into bare skin.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
   ],
 } as const satisfies Lore
