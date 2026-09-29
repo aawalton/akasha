@@ -45,22 +45,7 @@ export const otherwhereXHarrow = {
       fact: "The Sheaf is Harrow's alehouse, on the green.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Tobin Marsh is Harrow's hunter: grey-bearded, silent, Tier 1, and keeps his family's secrets.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Tobin's family knows a cycling technique handed down through its hunters, taught to no outsider.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Tobin hunts the Brackwood and has sworn to kill the wolves before winter.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Tobin's daughter Elsie, seventeen, shoots a bow well and chafes at being kept Tier 0.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "Old Nan Ashby, Harrow's herbwife, is near blind, sharp of mind, and tends every hurt.",
       knowers: ["lore-disclosure/game-master"],
