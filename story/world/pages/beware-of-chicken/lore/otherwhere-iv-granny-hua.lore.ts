@@ -109,11 +109,21 @@ export const otherwhereIvGrannyHua = {
     },
     {
       fact: "She holds that a fox-spirit's hands are cold and dry however warm the day.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-tie-bo",
+        "character-other/otherwhere-iv-granny-hua",
+      ],
     },
     {
       fact: "No hand she has held was ever unmarked; even a lady's shows the needle and the fan.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-tie-bo",
+        "character-other/otherwhere-iv-granny-hua",
+      ],
     },
     {
       fact: "The mugwort by her gate has black aphids under its leaves, and ants climbing to tend them.",
@@ -130,6 +140,32 @@ export const otherwhereIvGrannyHua = {
     {
       fact: "A guess that names the pest and one cure, plainly, satisfies her; a guess at spirits does not.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Granny Hua's hands are dry and hard, and stronger than they look.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
+    {
+      fact: "The mugwort by her gate is her best stand, and it is sickening.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-tie-bo",
+        "character-other/otherwhere-iv-granny-hua",
+      ],
+    },
+    {
+      fact: "Under its leaves cluster tiny black insects, with brown ants running among them.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
+    {
+      fact: "Granny Hua had Nala pull a mugwort stalk and asked her, as a spirit of knowledge, what ails it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-tie-bo",
+        "character-other/otherwhere-iv-granny-hua",
+      ],
     },
   ],
   secrets: "jsonl",

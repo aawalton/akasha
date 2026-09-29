@@ -182,7 +182,30 @@ export const otherwhereIvNala = {
     },
     {
       fact: "Her hands are warm, with a steady pulse, as any living woman's are.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-tie-bo",
+        "character-other/otherwhere-iv-granny-hua",
+      ],
+    },
+    {
+      fact: "Granny Hua found no callus, scar or burn on Nala's hands, and likened them to a baby's.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-tie-bo",
+        "character-other/otherwhere-iv-granny-hua",
+      ],
+    },
+    {
+      fact: "Granny Hua judged Nala no fox, since her hands are warm.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-tie-bo",
+        "character-other/otherwhere-iv-granny-hua",
+      ],
     },
   ],
 } as const satisfies Lore

@@ -23,5 +23,14 @@ export const otherwhereIvFangBrothers = {
         "character-other/otherwhere-iv-zhao-jun",
       ],
     },
+    {
+      fact: "The Fang brothers are telling the lane that Nala is a fox.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-tie-bo",
+        "character-other/otherwhere-iv-granny-hua",
+      ],
+    },
   ],
 } as const satisfies Lore
