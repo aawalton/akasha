@@ -81,6 +81,18 @@ export const otherwhereViHp = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Care doubles rest only where it tends the hurts that cost most of the HP lost.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A day's sleep by a fire, fed, counts as a night's sleep fed and sheltered.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A share of HP, SP or MP that is not whole rounds down.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A health potion gives back twenty at once; healing magic knits a lasting injury.",
     },
     {
