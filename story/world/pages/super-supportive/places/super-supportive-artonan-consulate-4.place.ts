@@ -41,7 +41,7 @@ export const superSupportiveArtonanConsulate4 = {
     },
     {
       fact: "Classes include Artonan Life, logograms, culture and Beginners Wordchaining, some for credit.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "Its Red Line stop is Monroe, downtown; the consulate is a five-minute walk west from there.",
@@ -57,7 +57,7 @@ export const superSupportiveArtonanConsulate4 = {
     },
     {
       fact: "It opens at 9 AM and holds only evening classes on weekdays.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "It opens at nine on Saturdays.",
@@ -82,6 +82,26 @@ export const superSupportiveArtonanConsulate4 = {
     {
       fact: "The lobby cameras record pictures but no sound, and Gorgon watches their monitors himself.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Gorgon told Nala nothing said in the consulate lobby is kept.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+      ],
+    },
+    {
+      fact: "The lobby's spring class leaflet says the classes are free to residents.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
+      fact: "The desk takes enrollment forms today; the office upstairs takes them Monday.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+      ],
     },
   ],
   within: "place/otherwhere-iii-chicago",

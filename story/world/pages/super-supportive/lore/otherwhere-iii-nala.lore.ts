@@ -186,7 +186,11 @@ export const otherwhereIiiNala = {
     },
     {
       fact: "In the ER, Nala offered the Earth Contract her silence for a deal; again nothing answered.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+      ],
     },
     {
       fact: "Nala turned down Denise's phone, saying she is on her own now and her boyfriend is gone.",
@@ -234,6 +238,46 @@ export const otherwhereIiiNala = {
     },
     {
       fact: "Nala told Gorgon she knows the 'Arths' compound, wizardry, affixation and his proud line.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+      ],
+    },
+    {
+      fact: "Nala told Gorgon she reckons she has come over ten years forward, into 2037.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+      ],
+    },
+    {
+      fact: "Nala told Gorgon she wants to become a knight, not an Avowed or a mortal.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+      ],
+    },
+    {
+      fact: "Gorgon told Nala the Contract will not choose her; that door shut while she grew.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+      ],
+    },
+    {
+      fact: "Nala told Gorgon she knows the true battle, and the price those who fight it pay.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+      ],
+    },
+    {
+      fact: "Nala told Gorgon she knows the Earth Contract is young and still growing.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-iii-nala",

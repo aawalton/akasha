@@ -47,7 +47,7 @@ export const superSupportiveGorgon = {
     },
     {
       fact: "He can smell attraction and pity on humans.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "He finds scheming a cure for boredom and human adolescence beautiful and stupid.",
@@ -128,6 +128,14 @@ export const superSupportiveGorgon = {
     {
       fact: "He cannot ask for food; it must be offered before he can accept or refuse it.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He told Nala to ask him for what he is permitted to give.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+      ],
     },
   ],
   secrets: "jsonl",

@@ -26,7 +26,7 @@ export const superSupportiveGorgonsBindings = {
     },
     {
       fact: "He clicks when he wants to say something he cannot, and goes flat near advice.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "He may give directions, register classes, witness pre-affixation trades and hand out pens.",
@@ -43,6 +43,14 @@ export const superSupportiveGorgonsBindings = {
     {
       fact: "Pushing their limits makes them burn and chars the skin beneath.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Asked how to become a knight, he went flat and clicked; pressing him got nothing more.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+      ],
     },
   ],
   secrets: "jsonl",
