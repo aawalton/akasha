@@ -15,4 +15,5 @@ export const otherwhereIii00018 = {
     "lore/super-supportive-gorgons-bindings",
     "lore/super-supportive-selection",
   ],
+  endsAt: "2037-01-31T09:40:00.000Z",
 } as const satisfies StoryTurnPlayed
