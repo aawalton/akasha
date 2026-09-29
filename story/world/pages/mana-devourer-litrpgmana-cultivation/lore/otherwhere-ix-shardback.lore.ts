@@ -200,5 +200,13 @@ export const otherwhereIxShardback = {
       fact: "Quill shards in an arm pressed hard against anything drive deeper into that arm.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A shardback with its windpipe opened drowns in its own blood within a few minutes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A limp shardback is finished by its throat held shut or a sliver driven into the wound.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

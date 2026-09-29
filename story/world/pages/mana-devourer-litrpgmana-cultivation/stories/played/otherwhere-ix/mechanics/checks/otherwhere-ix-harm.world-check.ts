@@ -77,6 +77,27 @@ export const otherwhereIxHarm = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A mortal wound, such as an opened windpipe, costs a fifth of most health each minute until it ends.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A grievous wound left untended costs a twentieth of most health each hour.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A bandage, a draught or Life Mana stops a wound's bleeding.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A helpless foe, limp and not fighting, dies to one deliberate blow with no roll.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A creature at nought health with no one to tend it dies.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A night's sleep restores a tenth of most health, and tended wounds a fifth.",
     },
     {
