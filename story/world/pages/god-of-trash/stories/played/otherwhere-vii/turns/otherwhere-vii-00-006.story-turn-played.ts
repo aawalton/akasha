@@ -49,5 +49,6 @@ export const otherwhereVii00006 = {
   ],
   lore: ["lore/otherwhere-vii-aldo-reeve", "place/otherwhere-vii-ashford"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2026-09-28T08:09:00.000Z",
 } as const satisfies StoryTurnPlayed
