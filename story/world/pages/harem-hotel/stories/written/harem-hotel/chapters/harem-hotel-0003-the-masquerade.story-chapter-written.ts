@@ -90,6 +90,11 @@ export const haremHotel0003TheMasquerade = {
     "Odile, fixing her chignon, tells Tamsin it was an honour, and very nearly smiles.",
     "The waltz plays on as the stairs wait behind the open mirrored doors.",
   ],
+  issues: [
+    '"The waltz plays on. Beyond the open mirrored doors, the stairs wait." - Leave It Open',
+    '"Beyond the open mirrored doors, the stairs wait." - No Prompt',
+    '"her hand is pressed between her thighs through the gold silk" - Harem Hotel Explicitness',
+  ],
   lore: [
     "lore/harem-hotel-odile",
     "lore/harem-hotel-tamsin",
@@ -102,4 +107,5 @@ export const haremHotel0003TheMasquerade = {
     "character-other/harem-hotel-odile",
     "character-player/harem-hotel-alan",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
