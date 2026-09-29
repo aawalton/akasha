@@ -11,4 +11,5 @@ export const otherwhereXi00008 = {
   action:
     "\"I'll gladly work, but I'll warn you, today is the first time I've seen a sheep close enough to touch one. You'll need to teach me what to do.\"",
   lore: ["lore/otherwhere-xi-wenna-ashlar", "place/otherwhere-xi-ashlar-farm"],
+  endsAt: "2026-09-28T08:49:00.000Z",
 } as const satisfies StoryTurnPlayed
