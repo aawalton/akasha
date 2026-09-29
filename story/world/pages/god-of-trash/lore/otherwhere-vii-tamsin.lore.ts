@@ -16,5 +16,13 @@ export const otherwhereViiTamsin = {
         "character-other/otherwhere-vii-tamsin",
       ],
     },
+    {
+      fact: "The other winnower is Aldo's niece Tamsin, sixteen, who thinks winnowing is beneath her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tamsin can't read and is jealous of anyone who can; Aldo once meant to send her to learn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

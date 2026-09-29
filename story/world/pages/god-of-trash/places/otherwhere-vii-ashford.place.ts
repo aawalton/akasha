@@ -189,39 +189,12 @@ export const otherwhereViiAshford = {
       fact: "A new winnower spills grain and chokes on chaff dust, and her arms and back burn by mid-morning.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Gammer Wyn is a bent, toothless widow of seventy who has winnowed Aldo's barley for fifty years.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Gammer Wyn is blunt and nosy, but teaches anyone who listens, and likes a girl who tries.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Gammer Wyn hears 'scribe's daughter' as gentry fallen on hard times, and says so loudly.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-gammer-wyn",
-        "character-other/otherwhere-vii-tamsin",
-      ],
-    },
-    {
-      fact: "Gammer Wyn knows Aldo frets over the steward's ledger, and would steer a reader to him.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Tamsin can't read and is jealous of anyone who can; Aldo once meant to send her to learn.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "In Ashford only the miller reads, slowly; a letter written for someone costs two pennies.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "The other winnower is Aldo's niece Tamsin, sixteen, who thinks winnowing is beneath her.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "The barn's water butt by the door is for the hands; any hand may dip a drink from it.",
       knowers: [

@@ -32,5 +32,26 @@ export const otherwhereViiGammerWyn = {
         "character-other/otherwhere-vii-gammer-wyn",
       ],
     },
+    {
+      fact: "Gammer Wyn is a bent, toothless widow of seventy who has winnowed Aldo's barley for fifty years.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Gammer Wyn is blunt and nosy, but teaches anyone who listens, and likes a girl who tries.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Gammer Wyn hears 'scribe's daughter' as gentry fallen on hard times, and says so loudly.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-gammer-wyn",
+        "character-other/otherwhere-vii-tamsin",
+      ],
+    },
+    {
+      fact: "Gammer Wyn knows Aldo frets over the steward's ledger, and would steer a reader to him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
