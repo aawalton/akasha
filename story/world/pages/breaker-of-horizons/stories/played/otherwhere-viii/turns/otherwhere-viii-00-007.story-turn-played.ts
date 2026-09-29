@@ -10,7 +10,7 @@ export const otherwhereViii00007 = {
   position: 7,
   prose: "txt",
   characters: ["character-player/otherwhere-viii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I don't try to enter the institute, instead I watch the bakery, watching for either students or teachers that I could catch a conversation with outside.",
   beats: [
@@ -28,7 +28,8 @@ export const otherwhereViii00007 = {
     "He answers her shortly, counts coins into her hand, and turns toward the Institute's side door.",
     "A key is already in his hand; the side door is twenty paces from the hatch.",
   ],
+  issues: ['"The side door is twenty paces from the hatch." - No Prompt'],
   lore: ["place/otherwhere-viii-guildhall"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T06:57:00.000Z",
 } as const satisfies StoryTurnPlayed
