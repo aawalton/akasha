@@ -44,5 +44,9 @@ export const otherwhereXiZazas = {
       fact: "Ships of Zazas fought at the Battle of the Grand Beach.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A Zazas captain led the alliance ships there, and calls Viv the Outlander of evil contraptions.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
