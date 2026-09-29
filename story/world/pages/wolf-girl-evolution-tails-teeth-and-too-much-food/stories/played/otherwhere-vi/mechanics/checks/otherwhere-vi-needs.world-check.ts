@@ -144,6 +144,11 @@ export const otherwhereViNeeds = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A sole worn through cannot close while walked on, and closes in three days rested.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Deathcaps, bog water and spoiled meat poison as the System's poison lines show.",
     },
     {
