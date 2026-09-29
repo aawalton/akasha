@@ -33,10 +33,11 @@ export const otherwhereVii00015 = {
     '"Whose runaway are you, then, that can\'t carry water?" she says, loud enough for the green.',
   ],
   lore: [
+    "lore/otherwhere-vii-agnes-hobb",
     "lore/otherwhere-vii-joan-reeve",
     "lore/otherwhere-vii-nala",
     "place/otherwhere-vii-ashford",
-    "lore/otherwhere-vii-agnes-hobb",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T12:42:00.000Z",
 } as const satisfies StoryTurnPlayed
