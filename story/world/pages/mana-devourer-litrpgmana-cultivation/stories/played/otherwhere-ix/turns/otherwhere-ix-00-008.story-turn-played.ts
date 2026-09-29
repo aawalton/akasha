@@ -9,4 +9,5 @@ export const otherwhereIx00008 = {
   position: 8,
   stepStatus: "step-status/game-master",
   action: "I grab another glass shard and stab it again",
+  endsAt: "2026-09-28T15:39:00.000Z",
 } as const satisfies StoryTurnPlayed
