@@ -7,5 +7,11 @@ export const superSupportiveGorgon = {
   title: "Gorgon",
   world: "world/super-supportive",
   about: "character-other/super-supportive-gorgon",
+  facts: [
+    {
+      fact: "He is about five feet tall, with smooth gray skin like a stingray's and black shark-like eyes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
