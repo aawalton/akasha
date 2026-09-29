@@ -103,4 +103,5 @@ export const otherwhereViiAldoReeve = {
       ],
     },
   ],
+  secrets: "jsonl",
 } as const satisfies Lore
