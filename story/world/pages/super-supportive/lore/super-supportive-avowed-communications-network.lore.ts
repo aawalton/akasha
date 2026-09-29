@@ -16,6 +16,10 @@ export const superSupportiveAvowedCommunicationsNetwork = {
       fact: "It greets callers as Earthling and asks unregistered ones for name, reason and urgency.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "It warns that prank calls will be penalized.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
