@@ -4,6 +4,7 @@ export const theWanderingInn0001100 = {
   id: "01a06598-e7b1-71ea-886a-3cb804379c74",
   type: "page-type/story-chapter-read",
   slug: "the-wandering-inn-0001-1-00",
+  completedAt: "2026-09-29T03:08:43.806Z",
   title: "1.00",
   story: "story-read/the-wandering-inn",
   position: 1,
