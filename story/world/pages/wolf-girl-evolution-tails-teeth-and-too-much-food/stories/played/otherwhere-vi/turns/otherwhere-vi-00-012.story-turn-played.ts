@@ -15,4 +15,5 @@ export const otherwhereVi00012 = {
     "lore/otherwhere-vi-nala",
     "place/otherwhere-vi-charcoal-camp",
   ],
+  endsAt: "2026-09-29T11:15:00.000Z",
 } as const satisfies StoryTurnPlayed
