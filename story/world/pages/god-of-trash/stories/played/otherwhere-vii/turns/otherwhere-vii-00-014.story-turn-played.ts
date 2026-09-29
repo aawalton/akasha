@@ -27,6 +27,6 @@ export const otherwhereVii00014 = {
   ],
   lore: ["lore/otherwhere-vii-hild", "lore/otherwhere-vii-joan-reeve", "lore/otherwhere-vii-nala"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-28T12:23:00.000Z",
 } as const satisfies StoryTurnPlayed
