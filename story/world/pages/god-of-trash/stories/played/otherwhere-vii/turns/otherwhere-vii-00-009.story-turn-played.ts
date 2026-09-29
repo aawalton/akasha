@@ -35,5 +35,6 @@ export const otherwhereVii00009 = {
     '"No more baskets." He holds the stick out to her again. "Keep your mouth shut, and keep my count."',
   ],
   lore: ["lore/otherwhere-vii-aldo-reeve"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T08:22:00.000Z",
 } as const satisfies StoryTurnPlayed
