@@ -80,5 +80,29 @@ export const otherwhereXSulon = {
       fact: "The border camp lies some eight days' ride north-west of Harrow.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: 'Heartland folk say just "the king"; few could name him, and fewer have seen the capital.',
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "In Sulon everyone awakens at fourteen, and a village marks each awakening with a feast.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Rifts seldom open in the heartland; when one does, soldiers and guild come and villages empty.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Heartland folk hold a Tier 1 fighter great, and a Tier 3 magister a figure out of legend.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Heartland hearth tales tell of the walls, the monsters past them, and skinwalkers stealing faces.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Heartland folk are proud of Sulon: fed, walled, and kept safe by the king's soldiers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place

@@ -69,6 +69,14 @@ export const otherwhereXAldousCrane = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Aldous answers a question about Sulon plainly, then asks one of his own back.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldous has been to Wexley often and to Aldermere once; he has never seen the capital.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Aldous's house is one warm room: a hearth, a supper board, an iron-bound chest in the corner.",
       knowers: [
         "lore-disclosure/game-master",
