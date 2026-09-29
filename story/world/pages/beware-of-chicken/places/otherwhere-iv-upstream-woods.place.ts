@@ -54,6 +54,10 @@ export const otherwhereIvUpstreamWoods = {
       fact: "Wolves have not been seen in the valley for a generation, though foxes are common.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Old Tusk is a boar newly stirred into a spirit beast this spring, and still half an animal.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
