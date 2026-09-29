@@ -336,6 +336,14 @@ export const otherwhereViiiTheInstitute = {
         "character-player/otherwhere-viii-nala",
       ],
     },
+    {
+      fact: "So the blank rows read 2 lines at 60 inches and 15 lines at 8 inches.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-viii-hallick",
+        "character-player/otherwhere-viii-nala",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
