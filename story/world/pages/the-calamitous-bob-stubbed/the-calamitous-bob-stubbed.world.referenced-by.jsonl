@@ -147,6 +147,8 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-cernit.lore.ts","id":"01a0ea7a-6437-79a6-a074-16275f544c11"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-cerus.lore.ts","id":"01a0ea7b-2e7c-7f9b-8419-d9bc8e45ceb0"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-children-of-the-scale.lore.ts","id":"01a0ea7e-cc49-7ce8-89d6-8e03f27ad433"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-church-of-enttiku.lore.ts","id":"01a0ea80-64d1-7682-b42c-29e6320767b6"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-church-of-maranor.lore.ts","id":"01a0ea80-64d2-7faf-b36c-0107309842d7"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-claron.lore.ts","id":"01a0ea7c-e4a8-737c-b303-3b2a8d1cef26"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-clio.lore.ts","id":"01a0ea7a-6438-7903-8002-d690a9702da3"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-cloud-skull.lore.ts","id":"01a0ea7a-6439-7d1c-9664-6caf52beebfc"}
@@ -319,6 +321,8 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-one-hundred.world-organization.ts","id":"01a0ea7e-1cbf-7436-ba4f-c96bd1ec533b"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-order-of-the-blue-rose.world-organization.ts","id":"01a0ea7f-99a7-70f8-b660-925455dc546b"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-sisters-of-the-eye.world-organization.ts","id":"01a0ea7e-cc4b-7755-9d98-eef465622f67"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/religions/otherwhere-xi-church-of-enttiku.world-religion.ts","id":"01a0ea80-64d2-740b-bc65-39b665b2bada"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/religions/otherwhere-xi-church-of-maranor.world-religion.ts","id":"01a0ea80-64d2-7cf8-938c-4eca5a620624"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/religions/otherwhere-xi-temple-of-neriad.world-religion.ts","id":"01a0ea7f-9219-7395-a6e6-304bf5b17d10"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/skills/otherwhere-xi-inspection.world-skill.ts","id":"01a0ea7a-bf9e-7897-bb3b-ca0a6ad38748"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-aberrant.world-species.ts","id":"01a0ea7d-96d0-7066-b5c5-7bad31fdc8dc"}
