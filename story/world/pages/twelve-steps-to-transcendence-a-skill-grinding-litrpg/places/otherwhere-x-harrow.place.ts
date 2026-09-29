@@ -66,23 +66,7 @@ export const otherwhereXHarrow = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Gideon Pike is a surly sheep farmer who has lost three lambs to the wolves this fortnight.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Gideon's younger sister Nala Pike drowned in Harrow Brook twenty-six years ago, aged twenty-five.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Nala Pike was small, freckled and red-haired; Gideon still keeps her comb.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
       fact: "Old folk who knew Nala Pike see her face in the stranger, and it frightens them.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "A skinwalker, Harrow believes, wears the face of the dead; Gideon will think it first.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -133,10 +117,7 @@ export const otherwhereXHarrow = {
       fact: "Harrow folk take a woman alone on the road at dusk for robbed, runaway, or worse.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "On day one's evening Gideon Pike is up on the downs with his flock, not in the village.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "On day one's evening Old Nan sits by her door on the green, shelling beans.",
       knowers: ["lore-disclosure/game-master"],
