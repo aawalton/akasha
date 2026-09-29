@@ -225,6 +225,15 @@ export const otherwhereViiNala = {
         "character-other/otherwhere-vii-hild",
       ],
     },
+    {
+      fact: "Nala told Hild she may not stay forever, but for now wants a safe place and will work for it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-hild",
+        "character-other/otherwhere-vii-joan-reeve",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

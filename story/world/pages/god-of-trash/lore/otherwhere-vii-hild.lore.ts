@@ -124,11 +124,21 @@ export const otherwhereViiHild = {
     },
     {
       fact: "Hild takes 'for now' as honest, and puts in a half word: she vouches for the woman, not her past.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-vii-hild",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-joan-reeve",
+      ],
     },
     {
       fact: "Hild's half word is that the stranger is safe to have about and works willing; nothing more.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-vii-hild",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-joan-reeve",
+      ],
     },
     {
       fact: "Hild says her word first to Marta at the Crooked Ford, and by dusk the whole village has it.",
@@ -136,7 +146,12 @@ export const otherwhereViiHild = {
     },
     {
       fact: "Hild would bid Nala come to the mill at first light to learn which leaves to pick.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-vii-hild",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-joan-reeve",
+      ],
     },
     {
       fact: "Hild's grease for blistered palms is comfrey and lard, worked in at night.",
