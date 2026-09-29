@@ -6,6 +6,23 @@ export const overwhereIiiWrenwoodCrossroads = {
   slug: "overwhere-iii-wrenwood-crossroads",
   title: "Wrenwood Crossroads",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
+  exits: [
+    {
+      to: "place/overwhere-iii-merrowgate",
+      way: "Up the north road two miles between winter fields to Merrowgate's south gate.",
+      direction: "north",
+    },
+    {
+      to: "place/overwhere-iii-applegarth",
+      way: "Along the east road six miles, past hedges and orchards, to Applegarth.",
+      direction: "east",
+    },
+    {
+      to: "place/overwhere-iii-wrenwood",
+      way: "Down the south road under the beeches, or straight in among the trees behind the shrine.",
+      direction: "south",
+    },
+  ],
   facts: [
     {
       fact: "Wrenwood Crossroads is where two packed-earth roads meet at the edge of an old beech wood.",
@@ -35,5 +52,34 @@ export const overwhereIiiWrenwoodCrossroads = {
       fact: "The beeches at the crossroads are turning gold.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "The east road runs six miles to Applegarth and on, three days in all, to the city of Thornmere.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The south road runs under the Wrenwood's edge to the hill farms and the charcoal-burners.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The shrine's figure is a cloaked woman with a staff, her face worn smooth by weather.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "On the shrine's ledge lie a withered apple and two copper coins gone green with age.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Carters touch the shrine roof for luck as they pass; almost none know whose shrine it is.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "It is late winter; the beeches' gold is last year's dry leaves, kept on the boughs till spring.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The crossroads is thick with mana: faint currents run along both roads and meet at the shrine.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
+  secrets: "jsonl",
 } as const satisfies Place
