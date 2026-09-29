@@ -337,5 +337,25 @@ export const otherwhereViiAshford = {
       fact: "In early afternoon the well is busy with wives and girls, who talk while they wait their turn.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The washerwomen have told the well of a red-haired stranger in black hose on Ennis's cart.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The well has guessed her a runaway wife, a player off a wagon, or a lord's cast-off.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hild's word hasn't reached the well yet; it reaches Marta's by mid-afternoon.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nell Cotter, a young wife with a baby on her hip, is kind to strangers and first to speak.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Agnes Hobb, the woodcutter's widow, is sour since the boar killed her man, and hard on newcomers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
