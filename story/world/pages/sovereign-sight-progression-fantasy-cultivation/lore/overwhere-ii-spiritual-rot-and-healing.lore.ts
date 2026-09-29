@@ -212,6 +212,14 @@ export const overwhereIiSpiritualRotAndHealing = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The last venom poultice stays on for a day, until the swelling goes down.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A sensing Talent that sees through skin makes setting bones far easier.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Coralsnout horns treat muscle fatigue.",
       knowers: ["lore-disclosure/game-master"],
     },
