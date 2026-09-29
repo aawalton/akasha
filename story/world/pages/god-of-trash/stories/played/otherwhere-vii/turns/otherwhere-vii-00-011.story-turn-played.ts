@@ -4,6 +4,7 @@ export const otherwhereVii00011 = {
   id: "01a0eacb-f7cc-757c-9e0a-04b92f1fd814",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vii-00-011",
+  cover: "image/image-9138dd8de62252e6",
   ownLength: 596,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vii"],
@@ -54,6 +55,6 @@ export const otherwhereVii00011 = {
     "lore/otherwhere-vii-hild",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T12:10:00.000Z",
 } as const satisfies StoryTurnPlayed
