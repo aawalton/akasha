@@ -193,6 +193,18 @@ export const otherwhereIxNala = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Nala spent all 24 points on Constitution, taking it from 12 to 36.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "That takes her most health from 170 to 410, and she has 284 of it left.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "Raised Constitution does not close her wounds; it leaves her far more to lose.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Killing the shardback brought Nala two level-up boxes: sixteen, then 24 unspent stat points.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
