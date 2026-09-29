@@ -66,7 +66,19 @@ export const overwhereINala = {
     },
     {
       fact: "Nala woke on the bank at Greyfen Ford in the mid-morning of day one.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Blue System letters told Nala her species integration is Human and she is Level 1.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Nala sees System messages as steady blue letters in the air that turn with her head.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Behind her breastbone Nala feels a vast, patient pressure that notices her back.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Lore
