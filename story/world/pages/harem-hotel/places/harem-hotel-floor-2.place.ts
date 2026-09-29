@@ -37,7 +37,11 @@ export const haremHotelFloor2 = {
     },
     {
       fact: "Behind the hot pool a barred bronze door hides the stairs up, and it opens once the task is met.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-odile",
+      ],
     },
     {
       fact: "Floor 2 holds two women: Wren as the bath mistress, and Odile as the bath attendant.",
