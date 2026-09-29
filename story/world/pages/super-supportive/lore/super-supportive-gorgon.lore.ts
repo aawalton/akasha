@@ -156,6 +156,10 @@ export const superSupportiveGorgon = {
         "character-other/super-supportive-gorgon",
       ],
     },
+    {
+      fact: "He owes no loyalty to human presidents or kings.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
