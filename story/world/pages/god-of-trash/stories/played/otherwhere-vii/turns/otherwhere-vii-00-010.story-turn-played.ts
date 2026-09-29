@@ -11,4 +11,5 @@ export const otherwhereVii00010 = {
   action:
     '"I will gladly stay, but on the condition that you let me teach you and anyone else you decide as well. You should learn enough to keep your own count with confidence, so no one can cheat you."',
   lore: ["lore/otherwhere-vii-aldo-reeve", "lore/otherwhere-vii-tamsin"],
+  endsAt: "2026-09-28T08:34:00.000Z",
 } as const satisfies StoryTurnPlayed
