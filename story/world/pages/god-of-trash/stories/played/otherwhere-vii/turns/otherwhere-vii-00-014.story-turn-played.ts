@@ -4,10 +4,17 @@ export const otherwhereVii00014 = {
   id: "01a0eb58-96c5-70a3-8d31-3dc06e518b3a",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vii-00-014",
+  ownLength: 115,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vii"],
   position: 14,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/otherwhere-vii-nala",
+    "character-other/otherwhere-vii-hild",
+    "character-other/otherwhere-vii-joan-reeve",
+  ],
+  stepStatus: "step-status/reviewers",
   action: "“Anything you need from me before morning?”",
   beats: [
     "Nala asks Hild if there's anything she needs from her before morning.",
@@ -18,6 +25,6 @@ export const otherwhereVii00014 = {
     "\"One thing more, and it's for tonight. Joan's worn thin with four days of watching that child.\"",
     '"Sit an hour with Bet tonight, so her mother can shut her eyes. I\'ll show you what to do."',
   ],
-  lore: ["lore/otherwhere-vii-hild"],
+  lore: ["lore/otherwhere-vii-hild", "lore/otherwhere-vii-joan-reeve", "lore/otherwhere-vii-nala"],
   endsAt: "2026-09-28T12:23:00.000Z",
 } as const satisfies StoryTurnPlayed
