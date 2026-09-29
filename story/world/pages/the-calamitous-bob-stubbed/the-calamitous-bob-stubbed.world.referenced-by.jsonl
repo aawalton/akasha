@@ -72,6 +72,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-arrin-the-hurricane.lore.ts","id":"01a0ea78-368b-786c-b322-dee81bf445ad"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-arthur.lore.ts","id":"01a0ea75-bc71-71a2-9b03-0414fe300b66"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-ashra.lore.ts","id":"01a0ea76-d052-71ac-a6de-37ef1e7cceb5"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-attunement.lore.ts","id":"01a0ea7c-4d17-7e57-ad63-d7de576141f4"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-auntie.lore.ts","id":"01a0ea78-368b-7790-8045-e5df4629cf4e"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-azar.lore.ts","id":"01a0ea76-d052-7358-8aff-4f6a81ac7a82"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-azith-the-swift.lore.ts","id":"01a0ea78-368b-78e7-8bb2-9b690c66afe7"}
@@ -112,6 +113,8 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-interface.lore.ts","id":"01a0ea74-9df6-7b1e-b6af-64c34df96f6b"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-kark.lore.ts","id":"01a0ea75-99ea-734c-a20f-989c555eb5ca"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-khaton.lore.ts","id":"01a0ea7c-307c-78d3-8f31-8f63fb7bf484"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-mana-poisoning.lore.ts","id":"01a0ea7c-4d18-7381-9067-e6828bb0bb61"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-mana.lore.ts","id":"01a0ea7c-4d18-7d84-bec0-18842fd30461"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-maradoc.lore.ts","id":"01a0ea79-0254-7e1e-b751-fe740927ce36"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-maranor.lore.ts","id":"01a0ea79-0255-74ae-b5dc-9b926f6afa27"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-marruk.lore.ts","id":"01a0ea79-e917-701d-9bee-b3e10fe4310f"}
@@ -146,7 +149,10 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-viv.lore.ts","id":"01a0ea76-b049-7097-b344-854a8fbab5f4"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-vizimans.lore.ts","id":"01a0ea7b-518e-77c9-a1b5-7f3a19941866"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-yries.lore.ts","id":"01a0ea77-0c35-7249-a9d2-f88d1b0ae214"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/mechanics/otherwhere-xi-attunement.world-mechanic.ts","id":"01a0ea7c-4d19-75f7-8e75-828c342225f6"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/mechanics/otherwhere-xi-interface.world-mechanic.ts","id":"01a0ea74-9df7-7d7f-a0c3-28f2cc0f6bf3"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/mechanics/otherwhere-xi-mana-poisoning.world-mechanic.ts","id":"01a0ea7c-4d19-7be6-a18a-3d95cd4033ea"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/mechanics/otherwhere-xi-mana.world-mechanic.ts","id":"01a0ea7c-4d19-7e88-85c7-0109d3a3bc7b"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/mechanics/otherwhere-xi-milestones.world-mechanic.ts","id":"01a0ea76-90e7-7ba2-8257-9b9e66e6beeb"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/mechanics/otherwhere-xi-outlanders.world-mechanic.ts","id":"01a0ea76-90e7-784a-b9b7-01632b089c46"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/mechanics/otherwhere-xi-paths.world-mechanic.ts","id":"01a0ea79-6f6c-728d-8a94-be327d3d0aeb"}

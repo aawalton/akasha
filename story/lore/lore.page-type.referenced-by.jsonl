@@ -1502,6 +1502,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-arrin-the-hurricane.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-arthur.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-ashra.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-attunement.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-auntie.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-azar.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-azith-the-swift.lore.ts","typed":true,"deferred":false}
@@ -1542,6 +1543,8 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-interface.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-kark.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-khaton.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-mana-poisoning.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-mana.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-maradoc.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-maranor.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-marruk.lore.ts","typed":true,"deferred":false}
