@@ -48,6 +48,7 @@ export const worldBuilder = {
         "A mechanic nobody defined does not exist in the world, and only you know what it may say unspoiled.",
       aids: [
         "File a skill, an item or any mechanic kind before any turn holds or grants it.",
+        "Set up a played story with a `<story>-time-passing` check importing the time-passing module.",
         "Define a mechanic the game master asks for, or one the last turn's prose reached undefined.",
         "Rewrite a description the game master sends a reviewer's issue on, and land it before answering.",
       ],
