@@ -10,15 +10,19 @@ export const otherwhereViiiTheWorkshopRoom = {
   facts: [
     {
       fact: "The room over the workshop is reached by a narrow back stair behind the tool racks.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
     },
     {
       fact: "It is a low room under the eaves, with one small window over the Mercer Street roofs.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
     {
       fact: "It holds a narrow iron bed, a straw mattress, a washstand, a chair and a row of pegs.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
     {
       fact: "The workshop's warmth rises through the boards, so the room is never cold.",
@@ -30,19 +34,43 @@ export const otherwhereViiiTheWorkshopRoom = {
     },
     {
       fact: "The room was last used by a journeyman, before the call-up took him north.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
     },
     {
       fact: "A crate under the bed holds the journeyman's left-behind shirts, far too big for Nala.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
     },
     {
       fact: "The Institute's washroom and privy are on the half-landing of the back stair.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
     },
     {
       fact: "The room's lamp and the washroom tap both answer to a glyph, not a switch or a handle.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The workshop's warmth rises through the room's floorboards.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
+    {
+      fact: "The globelight by the bed has a mark on its glass, like the marks on the park lamps.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
+    {
+      fact: "The washroom tap is a bare spout, with a mark set into the wall above it.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
   ],
   secrets: "jsonl",

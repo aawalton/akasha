@@ -142,7 +142,11 @@ export const otherwhereViiiNala = {
     },
     {
       fact: "As bench hand Nala works the workshop from eight till four, and is paid each evening in cash.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
     },
     {
       fact: "Bench work for a novice is sorting, cleaning, grinding and measuring lenses and small parts.",
@@ -150,11 +154,19 @@ export const otherwhereViiiNala = {
     },
     {
       fact: "The Institute takes nothing for the room from a bench hand; the room is part of the wage.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
     },
     {
       fact: "As Hallick's pupil she is taught by him at his bench after four, when the apprentices leave.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
     },
     {
       fact: "Hallick teaches the Basic Set first, the way every child learns it: the activation glyph.",
@@ -162,7 +174,11 @@ export const otherwhereViiiNala = {
     },
     {
       fact: "In return Hallick asks her for tables: the Institute's other tables, worked as she did the lens.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
     },
     {
       fact: "To the apprentices and Dyce, Hallick names her a bench hand, and nothing more.",
@@ -170,7 +186,35 @@ export const otherwhereViiiNala = {
     },
     {
       fact: "Hallick tells Nala to keep 'another world' to herself, inside the Institute and out of it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
+    },
+    {
+      fact: "To the apprentices and the office, Hallick says, Nala is a bench hand and nothing more.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
+    },
+    {
+      fact: "Hallick will teach Nala the Basic Set first, the way every child learns it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
+    },
+    {
+      fact: "Nala says she is long used to living where she works, and loves both to learn and to teach.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
     },
   ],
   secrets: "jsonl",
