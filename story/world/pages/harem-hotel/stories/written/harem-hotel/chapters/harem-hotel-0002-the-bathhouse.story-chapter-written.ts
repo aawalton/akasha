@@ -5,6 +5,7 @@ export const haremHotel0002TheBathhouse = {
   type: "page-type/story-chapter-written",
   slug: "harem-hotel-0002-the-bathhouse",
   cover: "image/image-a756bb5371e1c852",
+  ownProgress: 107,
   position: 2,
   unit: "unit/words",
   title: "The Bathhouse",
