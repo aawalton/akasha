@@ -19,6 +19,10 @@ export const otherwhereIiiHarborHouse = {
       fact: "It sleeps forty women in bunk rooms, with showers and padlocked lockers.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Doors open at five in the evening; dinner at six, lights out at ten.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
