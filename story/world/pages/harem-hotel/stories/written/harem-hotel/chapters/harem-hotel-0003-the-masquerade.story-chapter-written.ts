@@ -10,7 +10,7 @@ export const haremHotel0003TheMasquerade = {
   story: "story-written/harem-hotel",
   ownLength: 3065,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   beats: [
     "You climb the stairs from the bathhouse in a linen towel, and a slow waltz drifts down to meet you.",
     "The stairs end behind a black velvet curtain, and on a chair there lie evening clothes and a mask.",
@@ -57,7 +57,7 @@ export const haremHotel0003TheMasquerade = {
     "You pin Wren's wrists behind her with one hand and keep eating Odile with your mouth.",
     "Wren swears at you both, filthy and laughing, and grinds against your back.",
     "Odile comes on your mouth, shaking and swearing, grinding her cunt on your face.",
-    "In the mirrors the Lady watches every second of it, her hand pressed between her thighs.",
+    "The Lady watches every second, her hand under the gold silk, two fingers rubbing her bare clit.",
     "Odile lies back flushed and asks, half-breathless, whether that pleased my lady.",
     "The Lady says it did very much, and Odile looks more pleased than she lets her mouth show.",
     "The Lady tells you to take the fox over the daybed and fuck her from behind, facing the mirror.",
@@ -88,7 +88,6 @@ export const haremHotel0003TheMasquerade = {
     "She tells you her name is Tamsin, and thanks you for a lovely dance.",
     "Wren tells Tamsin she is a filthy little thing for someone so polite; Tamsin agrees.",
     "Odile, fixing her chignon, tells Tamsin it was an honour, and very nearly smiles.",
-    "The waltz plays on as the stairs wait behind the open mirrored doors.",
   ],
   issues: [
     '"The waltz plays on. Beyond the open mirrored doors, the stairs wait." - Leave It Open',
