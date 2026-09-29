@@ -79,6 +79,14 @@ export const otherwhereIxGrowth = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Raising most health or mana raises what she has left by as much.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A level gained restores no health and no mana.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A skill is learned when she does its work in earnest and it comes off.",
     },
     {
