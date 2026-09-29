@@ -4,12 +4,20 @@ export const otherwhereXSulonCapital = {
   id: "01a0ea7d-0ec3-7793-b6dd-82578ce839e0",
   type: "page-type/place",
   slug: "otherwhere-x-sulon-capital",
-  title: "The Capital of Sulon",
+  title: "Everhold",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   within: "place/otherwhere-x-sulon",
   facts: [
     {
-      fact: "The capital is Sulon's seat of rule; field camps report to it by signal.",
+      fact: "Everhold is the capital of Sulon and its king's seat.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Everhold is many days' ride south of Harrow; few in the heartland's north ever see it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The king's steward for the northern heartland sits at Aldermere.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
