@@ -50,5 +50,6 @@ export const otherwhereVi00013 = {
     "place/otherwhere-vi-greypine-weald",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-29T12:15:00.000Z",
 } as const satisfies StoryTurnPlayed

@@ -189,6 +189,24 @@ export const otherwhereViNala = {
       fact: "Fed and warmed at the burners' fire, Nala's shaking slows and stops.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
+    {
+      fact: "Wat worked pine-tip salve into Nala's cut foot and wrapped it; it stung, then eased.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-wat",
+        "character-other/otherwhere-vi-jory-tull",
+      ],
+    },
+    {
+      fact: "Nala told the burners her name, that she is from far away, and unsure how she came here.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-wat",
+        "character-other/otherwhere-vi-jory-tull",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

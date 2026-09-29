@@ -83,5 +83,13 @@ export const otherwhereViBrackenford = {
       fact: "A barefoot woman walking out of the Weald would be taken for a bandits' captive or mad.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Brackenford's gate asks a stranger's name, village and road; one with no village is held a runaway.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-jory-tull",
+      ],
+    },
   ],
 } as const satisfies Place

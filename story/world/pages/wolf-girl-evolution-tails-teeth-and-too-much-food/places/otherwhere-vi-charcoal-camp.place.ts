@@ -22,7 +22,12 @@ export const otherwhereViCharcoalCamp = {
     },
     {
       fact: "Jory Tull and old Wat are charcoal burners, at the clamp five more days, then rafting home.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-jory-tull",
+        "character-other/otherwhere-vi-wat",
+      ],
     },
     {
       fact: "Jory is a steady, quiet man of thirty, slow to speak and quick to hand a stranger a bowl.",
@@ -42,11 +47,20 @@ export const otherwhereViCharcoalCamp = {
     },
     {
       fact: "They keep a pot of pine-tip salve for burns and cuts, and a barrel of small beer.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-vi-wat",
+        "character-other/otherwhere-vi-jory-tull",
+      ],
     },
     {
       fact: "Neither is a healer; the nearest is the herb-wife at Brackenford, half a day on downstream.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-jory-tull",
+        "character-other/otherwhere-vi-wat",
+      ],
     },
     {
       fact: "Jory can leave the clamp for an hour at most, and only when Wat is there to watch it.",
