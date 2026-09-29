@@ -253,6 +253,18 @@ export const otherwhereViNala = {
         "character-other/otherwhere-vi-jory-tull",
       ],
     },
+    {
+      fact: "Nala's status after her sleep shows HP 21/30(+2) and SP 28/28(+9); the brackets are new.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "On her watch Wat put a hide round Nala's shoulders, and the night air stopped mattering.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-wat",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

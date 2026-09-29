@@ -106,7 +106,7 @@ export const otherwhereViCharcoalCamp = {
     },
     {
       fact: "The pack keeps clear of the camp's fire and smoke and the dog; none comes within sight.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "A watcher sleeps by day in the hut by the fire; that counts as a night's sleep, roofed.",
@@ -217,6 +217,34 @@ export const otherwhereViCharcoalCamp = {
         "character-player/otherwhere-vi-nala",
         "character-other/otherwhere-vi-jory-tull",
       ],
+    },
+    {
+      fact: "At dawn two dark patches of fresh earth mark the smothered places on the clamp's river side.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-jory-tull",
+      ],
+    },
+    {
+      fact: "Jory told Nala he's known men sit the clamp a month who'd have slept through that first flare.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-jory-tull",
+      ],
+    },
+    {
+      fact: "Wat has porridge on in the morning, and the night's watcher eats first.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-wat",
+      ],
+    },
+    {
+      fact: "On her third round Nala smothered a flare and a steaming thin place on the clamp's river side.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
   ],
   exits: [
