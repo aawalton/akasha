@@ -51,6 +51,10 @@ export const changeRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The lines of help a change states follow its arguments in that answer.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The arguments a change takes are read off the change rather than off its page.",
     },
     {

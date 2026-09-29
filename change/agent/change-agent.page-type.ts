@@ -28,8 +28,12 @@ export const changeAgent = {
       decisionKind: "decision-kind/departure",
       statement: "An agent change reaches the mechanical changes working its bodies out.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An agent change states lines of its own help beside its run, under one name.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
-  loadedExport: ["runChange", "takes", "passages"],
+  loadedExport: ["runChange", "takes", "passages", "help"],
 } as const satisfies PageType

@@ -87,3 +87,9 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (to === undefined) return refusing(LANDED)
   return await movePropertyValue(world, { at, key, from: Number(from), to: Number(to) })
 }
+
+const COUNTED =
+  "`from` and `to` count places from 1 in the list `key` holds, and the refusal for a place that" +
+  " list does not hold says how many values that list holds."
+
+export const help: readonly string[] = [COUNTED]

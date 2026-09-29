@@ -53,6 +53,11 @@ export const movePropertyValue = {
       statement: "No value carried is resolved.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Its help says a place is counted from 1 and that a refusal says how many values a list holds.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here works out a body of its own.",
     },

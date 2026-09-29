@@ -377,7 +377,7 @@ async function sayingWhat(
   if (!helps) return mistaking([`${NO_ARGUMENTS}${takesSaid(slug, takes)}`])
   const stated = world.index.pageAt(type, slug)
   const definition = stated === null ? null : textAt(stated, DEFINITION)
-  return told(helpOfChange(chosen.calledAs, slug, definition, takes))
+  return told(helpOfChange(chosen.calledAs, slug, definition, loaded))
 }
 
 export async function changing(

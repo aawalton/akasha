@@ -23,6 +23,7 @@ const TS = "ts"
 const RUN_CHANGE = "runChange"
 const TAKES = "takes"
 const PASSAGES = "passages"
+const HELP_LINES = "help"
 const SUBTYPE = "changeTargetSubtype"
 const FILE = "file"
 const PAGE = "page"
@@ -63,6 +64,7 @@ export type Loaded = {
   readonly run: (world: World, given: unknown) => Said | Promise<Said>
   readonly takes?: readonly string[]
   readonly passages?: readonly string[]
+  readonly help?: readonly string[]
 }
 
 const LOADED = new WeakMap<World, Map<string, Loaded>>()
@@ -90,10 +92,12 @@ async function loadingAt(world: World, at: string): Promise<Loaded | string> {
   const takes = stated === null ? null : stringsIn(stated)
   const named = await exportedFrom(world, path, PASSAGES)
   const passages = named === null ? null : stringsIn(named)
+  const lines = stringsIn(await exportedFrom(world, path, HELP_LINES))
   const loaded: Loaded = {
     run: run as (over: World, asked: unknown) => Said | Promise<Said>,
     ...(takes === null ? {} : { takes }),
     ...(passages === null ? {} : { passages }),
+    ...(lines.length === 0 ? {} : { help: lines }),
   }
   if (held === undefined) LOADED.set(world, new Map([[at, loaded]]))
   else held.set(at, loaded)
@@ -128,13 +132,14 @@ export function helpOfChange(
   calledAs: string,
   slug: string,
   definition: string | null,
-  takes: readonly string[] | undefined
+  loaded: Loaded
 ): readonly string[] {
   const named = `${calledAs} ${slug}`
   const head = definition === null ? [named, ""] : [named, "", definition, ""]
-  const held = takes ?? []
-  if (held.length === 0) return [...head, NO_TAKING]
-  return [...head, TAKING, "", ...held.map((one) => `  ${one}`)]
+  const held = loaded.takes ?? []
+  const taking = held.length === 0 ? [NO_TAKING] : [TAKING, "", ...held.map((one) => `  ${one}`)]
+  const help = loaded.help ?? []
+  return help.length === 0 ? [...head, ...taking] : [...head, ...taking, "", ...help]
 }
 
 export async function ranBy(

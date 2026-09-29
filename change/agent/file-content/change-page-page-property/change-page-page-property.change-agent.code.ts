@@ -159,3 +159,9 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (place === undefined) return await changePageProperty(world, { at, key, to })
   return await changePageProperty(world, { at, key, to, place })
 }
+
+const PLACED =
+  "`place` counts values from 1 in the list `key` holds, `to` states the value at that place, and" +
+  " the values around it keep the order the body had."
+
+export const help: readonly string[] = [PLACED]

@@ -82,8 +82,13 @@ export const changePagePageProperty = {
         "That refusal spells the line `add-property-values` takes for the page and key refused.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Its help says `place` counts values from 1 and that the values around one keep their order.",
+    },
+    {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here puts one value among many, since a value here is stated anew whole.",
+      statement: "Nothing here puts a value in among many or takes one out, so no place shifts.",
     },
   ],
   changeKind: "change-kind/change-checked",

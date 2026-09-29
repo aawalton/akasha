@@ -18,6 +18,7 @@ import {
   codeAt,
   helpAsked,
   helpOfChange,
+  type Loaded,
   loadedAt,
   partsOf,
   ranBy,
@@ -339,6 +340,22 @@ test("an address whose code throws while loading is refused rather than thrown",
   )
 })
 
+test("the lines of help a change states are loaded with that change", async () => {
+  const root = scratch.rootFor("akasha-helping-")
+  writeFileSync(
+    join(root, "held.module.code.ts"),
+    `export const runChange = () => ({ edits: [], refused: null })\nexport const help = ["held"]\n`
+  )
+  const world = {
+    ...worldOf(),
+    root,
+    index: { listedAt: () => [{ path: "held.module.ts" }] } as never,
+  }
+  const loaded = await loadedAt(world, ADDRESS)
+
+  expect(typeof loaded === "string" ? [] : loaded.help).toEqual(["held"])
+})
+
 test("a call handing in no path has no path judged", () => {
   const world = judging(FILE_PAGE_TYPE_AT)
 
@@ -365,7 +382,9 @@ test("the arguments a change takes are said from that change's own list", () => 
 })
 
 test("a help answer opens with the call and the change's own definition", () => {
-  expect(helpOfChange("akasha change apply", "remove-page", "one page taken away", ["at"])).toEqual(
+  const loaded: Loaded = { run: () => WROTE, takes: ["at"] }
+
+  expect(helpOfChange("akasha change apply", "remove-page", "one page taken away", loaded)).toEqual(
     [
       "akasha change apply remove-page",
       "",
@@ -379,10 +398,33 @@ test("a help answer opens with the call and the change's own definition", () => 
 })
 
 test("a change stating no definition is answered with the call alone", () => {
-  expect(helpOfChange("akasha change apply", "held", null, [])).toEqual([
+  const loaded: Loaded = { run: () => WROTE }
+
+  expect(helpOfChange("akasha change apply", "held", null, loaded)).toEqual([
     "akasha change apply held",
     "",
     "It takes no argument.",
+  ])
+})
+
+test("the lines of help a change states follow its arguments", () => {
+  const loaded: Loaded = {
+    run: () => WROTE,
+    takes: ["at", "from"],
+    help: ["`from` counts from 1"],
+  }
+
+  expect(helpOfChange("akasha change apply", "held", "one value carried", loaded)).toEqual([
+    "akasha change apply held",
+    "",
+    "one value carried",
+    "",
+    "It takes these arguments, piped in:",
+    "",
+    "  at",
+    "  from",
+    "",
+    "`from` counts from 1",
   ])
 })
 

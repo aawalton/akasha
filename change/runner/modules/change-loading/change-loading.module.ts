@@ -36,6 +36,18 @@ export const changeLoading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An agent change states lines of its own help beside its run, under one name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Those lines are said under the arguments in the change's help.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change stating no such line is answered with its arguments alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A key no change reached by name takes is refused before that change runs.",
     },
     {
