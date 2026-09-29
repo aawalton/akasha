@@ -74,7 +74,11 @@ export const otherwhereViiiTheInstitute = {
     },
     {
       fact: "A testing stand holds a lamp and a long rule, where a lens's focus is measured by eye.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-viii-hallick",
+        "character-player/otherwhere-viii-nala",
+      ],
     },
     {
       fact: "The rule behind the numbers is plain: focus distance falls as thickness rises, in proportion.",
