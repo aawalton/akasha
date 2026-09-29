@@ -91,5 +91,21 @@ export const overwhereIiVale = {
       fact: "North Vale burned in the Illwrought attack; Garon Hobbs and Jeren Kalson died.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The ocean lies east of Vale.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "With the Gallant close by, Vale has more Charterstones and larger fountains than Creston.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Southroad is the straightest, fastest road south out of Vale.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Haver Hill is a hill village near Vale; the Drop is a canyon at the northwoods' edge.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
