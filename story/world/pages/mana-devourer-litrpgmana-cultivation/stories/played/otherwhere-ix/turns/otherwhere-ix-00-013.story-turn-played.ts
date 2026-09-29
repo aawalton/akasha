@@ -11,4 +11,5 @@ export const otherwhereIx00013 = {
   action:
     "I check the quills of the beast I killed, to see if I can use them as weapons more safely than the grass.",
   lore: ["lore/otherwhere-ix-shardback"],
+  endsAt: "2026-09-28T15:55:00.000Z",
 } as const satisfies StoryTurnPlayed
