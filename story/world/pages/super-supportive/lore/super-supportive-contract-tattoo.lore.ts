@@ -24,6 +24,10 @@ export const superSupportiveContractTattoo = {
       fact: "Artonan officials and teachers carry large networks of dark blue contract tattoos.",
       knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
     },
+    {
+      fact: "A secrecy clause can leave a party physically unable to voice forbidden questions.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
