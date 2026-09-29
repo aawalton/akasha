@@ -5,7 +5,7 @@ export const otherwhereViNala = {
   type: "page-type/otherwhere-vi-hp",
   slug: "otherwhere-vi-nala",
   character: "character-player/otherwhere-vi-nala",
-  value: 19,
+  value: 5,
   minValue: 0,
   maxValue: 30,
   history: "jsonl",

@@ -5,7 +5,7 @@ export const otherwhereViNalaGrowth = {
   type: "page-type/otherwhere-vi-stat",
   slug: "otherwhere-vi-nala-growth",
   character: "character-player/otherwhere-vi-nala",
-  value: 0,
+  value: 3,
   minValue: 0,
   history: "jsonl",
 } as const satisfies OtherwhereViStat
