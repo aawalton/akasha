@@ -7,5 +7,11 @@ export const superSupportiveSelection = {
   title: "Selection by the System",
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-selection",
+  facts: [
+    {
+      fact: "The System offers access to about 0.07% of people; they are called or chosen.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
