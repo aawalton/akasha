@@ -28,6 +28,10 @@ export const otherwhereIiiOnnDesveth = {
       fact: "The System's notice to her says only: an unregistered person with no record claims chaos passage.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She can screen a person for chaos by her own authority sense, in a few minutes, by touch or near.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
