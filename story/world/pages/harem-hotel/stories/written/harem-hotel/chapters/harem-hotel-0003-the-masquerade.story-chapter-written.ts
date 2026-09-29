@@ -4,13 +4,14 @@ export const haremHotel0003TheMasquerade = {
   id: "01a0eb76-4725-7c61-bbed-9e2d37df8646",
   type: "page-type/story-chapter-written",
   slug: "harem-hotel-0003-the-masquerade",
+  cover: "image/image-2b06350a92ab3ebf",
   position: 3,
   unit: "unit/words",
   title: "The Masquerade",
   story: "story-written/harem-hotel",
   ownLength: 3090,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "You climb the stairs from the bathhouse in a linen towel, and a slow waltz drifts down to meet you.",
     "The stairs end behind a black velvet curtain, and on a chair there lie evening clothes and a mask.",
@@ -107,5 +108,5 @@ export const haremHotel0003TheMasquerade = {
     "character-player/harem-hotel-alan",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryChapterWritten
