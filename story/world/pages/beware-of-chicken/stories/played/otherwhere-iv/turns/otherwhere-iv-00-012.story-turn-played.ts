@@ -11,4 +11,5 @@ export const otherwhereIv00012 = {
   action:
     "\"You two look like just kind of strong lads who would do well on a hunt, but I'm afraid that's not up to me. You'll need to talk with Headman Gu and Zhao Jun about that. I have great knowledge, but when it comes to the hunt itself, Headman Gu is more mighty than I.\"",
   lore: ["lore/otherwhere-iv-gu-household"],
+  endsAt: "2026-09-28T19:25:00.000Z",
 } as const satisfies StoryTurnPlayed
