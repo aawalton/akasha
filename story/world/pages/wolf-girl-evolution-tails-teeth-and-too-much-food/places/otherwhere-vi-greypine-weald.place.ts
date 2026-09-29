@@ -99,6 +99,38 @@ export const otherwhereViGreypineWeald = {
       fact: "The deserters are level 6 to 8 humans with no Class, armed with a spear, a knife and a club.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Weald folk call the bare fells north of the trees the Bare Backs and say nothing lives up there.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "They call the Carrow the Big Water, and reckon Brackenford half a day down it by raft.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A burner gives directions by burns, ridges and fords, never by miles, which he does not count.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Weald folk speak of the Crown's country south beyond the river, and of Wenmarch as the town.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Locals know the wolves' howling ground and will not cross the Weald's middle after dark.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Locals fear the bear on the east slopes this autumn and go nowhere near them alone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A stranger naming no village and no road is reckoned a runaway or an outlaw, and spoken round.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A stranger who speaks of far countries and no home is answered politely and watched quietly.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
