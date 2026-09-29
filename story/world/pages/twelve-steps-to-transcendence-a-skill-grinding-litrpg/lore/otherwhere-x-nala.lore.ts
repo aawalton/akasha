@@ -84,6 +84,10 @@ export const otherwhereXNala = {
       fact: "Nala's stride is shorter than she expects; she keeps misjudging it and stumbling.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
     },
+    {
+      fact: "Nala's new voice is not Alan's; it cracked on a high chorus and she had to drop under the note.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

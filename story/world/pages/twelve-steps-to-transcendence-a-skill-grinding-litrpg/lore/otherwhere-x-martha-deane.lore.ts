@@ -72,5 +72,14 @@ export const otherwhereXMarthaDeane = {
       fact: "Martha would take on a singer who could hold the Sheaf through the winter.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "After Nala's songs Martha said the lass can sing, and asked another, then where she got such songs.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-martha-deane",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
+    },
   ],
 } as const satisfies Lore

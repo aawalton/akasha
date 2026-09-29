@@ -124,5 +124,13 @@ export const otherwhereXAldousCrane = {
         "world-character/otherwhere-x-aldous-crane",
       ],
     },
+    {
+      fact: "Aldous stood by the Sheaf's door through Nala's songs, his face gone still as at her name.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
+    },
   ],
 } as const satisfies Lore

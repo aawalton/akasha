@@ -221,6 +221,15 @@ export const otherwhereXHarrow = {
       fact: "As the dusk bell rang, the watchers on Harrow green turned away and doors shut one by one.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
     },
+    {
+      fact: "Harrow folk do not clap; they knock the trestles with their knuckles.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-martha-deane",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
+    },
   ],
   exits: [
     {

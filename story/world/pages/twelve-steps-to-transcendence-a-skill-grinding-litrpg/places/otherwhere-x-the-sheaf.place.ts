@@ -54,7 +54,11 @@ export const otherwhereXTheSheaf = {
     },
     {
       fact: "The Sheaf's folk pay a singer in coppers left on the trestle, one or two apiece.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-martha-deane",
+      ],
     },
     {
       fact: "The Sheaf's regulars are Ned Fuller the smith, Hattie Rook, and the Cranes' two hands.",
@@ -62,11 +66,34 @@ export const otherwhereXTheSheaf = {
     },
     {
       fact: "Harrow folk understand every word Nala sings; it is the song itself that is new to them.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-martha-deane",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
     },
     {
       fact: "Of an evening a dozen or so Harrow men and women drink in the Sheaf after the dusk bell.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "On day one's evening Nala sang O Danny Boy and Homeward Bound in the Sheaf.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-martha-deane",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
+    },
+    {
+      fact: "The Sheaf's room was pleased with Nala's singing and uneasy about her at once.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-martha-deane",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
     },
   ],
   exits: [{ to: "place/otherwhere-x-harrow", way: "out the front door onto the green" }],
