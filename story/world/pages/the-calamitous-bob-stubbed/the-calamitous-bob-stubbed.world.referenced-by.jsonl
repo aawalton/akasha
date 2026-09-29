@@ -111,6 +111,10 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-joras-the-elder.world-character.ts","id":"01a0ea89-b5ce-7c04-bce1-5254f4545273"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-judgment.world-character.ts","id":"01a0ea87-ff06-7a62-9eef-646fa0d70f24"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-khaton.world-character.ts","id":"01a0ea7c-3079-7f13-a591-e284e45657a7"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-kordek.world-character.ts","id":"01a0ea8a-d229-73b5-9199-6997aabd5fd3"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-kordok.world-character.ts","id":"01a0ea8a-d22a-73f6-8130-ac0f52f99f80"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-koro.world-character.ts","id":"01a0ea8a-d22a-7c31-b381-3999553b7969"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-kule.world-character.ts","id":"01a0ea8a-d22b-7d34-ae26-79e2b8a29dc9"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-magrit.world-character.ts","id":"01a0ea80-4333-7f73-9162-2768e3c7d3e9"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-mar-the-younger.world-character.ts","id":"01a0ea80-4333-744d-b70d-c6d4cc4363d1"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-maradoc.world-character.ts","id":"01a0ea79-0253-7fed-8079-c450c72f11e5"}
@@ -414,7 +418,11 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-kark.lore.ts","id":"01a0ea75-99ea-734c-a20f-989c555eb5ca"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-khaton.lore.ts","id":"01a0ea7c-307c-78d3-8f31-8f63fb7bf484"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-kingdom-of-maranor.lore.ts","id":"01a0ea88-5d92-769a-9d79-0b3466544d03"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-kordek.lore.ts","id":"01a0ea8a-d22b-798a-81f4-7145dc30d4f0"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-kordok.lore.ts","id":"01a0ea8a-d22b-748b-92a7-81feb2d1d5fd"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-koro.lore.ts","id":"01a0ea8a-d22b-7fc0-a0d4-0190ff55842e"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-korrimian-league.lore.ts","id":"01a0ea88-5d93-784f-9865-5686e3b81dbe"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-kule.lore.ts","id":"01a0ea8a-d22b-791f-b303-64a46f21b841"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-law-and-crime.lore.ts","id":"01a0ea89-7d6f-734c-8b77-dbb32a617d5d"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-league-of-lesser-evils.lore.ts","id":"01a0ea8a-6437-7125-9b71-18530a968776"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-lich.lore.ts","id":"01a0ea7e-5eab-71b2-9511-c07eea465366"}
