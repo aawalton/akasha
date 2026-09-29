@@ -281,6 +281,30 @@ export const otherwhereXiWennaAshlar = {
       knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
     },
     {
+      fact: "A turned lamb must be pushed back and its legs brought forward by a hand inside the ewe.",
+      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+    },
+    {
+      fact: "Wenna's big, cracked hands struggle inside a small ewe; slim hands turn a lamb more easily.",
+      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+    },
+    {
+      fact: "Wenna has lost two ewes this spring to turned lambs, and cannot spare a third.",
+      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+    },
+    {
+      fact: "Left an hour more, the down ewe and her lamb will both die.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "For a hard lambing Wenna wants a helper to hold the ewe's head, then fetch tallow and water.",
+      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+    },
+    {
+      fact: "In Tavelford, a helper who saves a ewe at a hard lambing is owed a place at the table.",
+      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+    },
+    {
       fact: "Wenna's daughters are named Pell and Lissa.",
       knowers: [
         "lore-disclosure/game-master",
