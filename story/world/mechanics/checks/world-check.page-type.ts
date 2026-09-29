@@ -72,6 +72,8 @@ export const worldCheck = {
     "world-check/otherwhere-xi-time-passing",
     "world-check/otherwhere-xi-needs",
     "world-check/otherwhere-xi-standing",
+    "world-check/otherwhere-xi-action-check",
+    "world-check/otherwhere-xi-harm",
     "world-check/otherwhere-x-harm",
     "world-check/otherwhere-x-needs",
     "world-check/otherwhere-x-suspicion",
