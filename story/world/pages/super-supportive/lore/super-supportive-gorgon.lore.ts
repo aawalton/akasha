@@ -57,6 +57,10 @@ export const superSupportiveGorgon = {
       fact: "He turns off the lobby WiFi to clear out tourists and spoils their demon photos with calm faces.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Meeting his eyes floods a person with profound memories and knocks them out for hours.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
