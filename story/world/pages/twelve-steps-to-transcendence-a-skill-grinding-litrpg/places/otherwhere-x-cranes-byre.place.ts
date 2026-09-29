@@ -10,11 +10,7 @@ export const otherwhereXCranesByre = {
   facts: [
     {
       fact: "Behind the Cranes' house is a stone byre with one cow below and a hay loft above.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The byre loft is warm from the cow, reached by a ladder, and has one small shutter.",
@@ -26,19 +22,11 @@ export const otherwhereXCranesByre = {
     },
     {
       fact: "From the house's back door a man can see the byre door and hear the ladder.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Hob's pup sleeps in the byre straw, and barks at anything that moves in the night.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   exits: [

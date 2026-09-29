@@ -52,9 +52,5 @@ export const otherwhereXHobCrane = {
       fact: "Hob will follow a stranger he likes anywhere, and his parents know it.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Hob drives the geese out west along the road at sunup, and back again at dusk.",
-      knowers: ["lore-disclosure/game-master"],
-    },
   ],
 } as const satisfies Lore

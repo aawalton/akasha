@@ -46,12 +46,7 @@ export const otherwhereXBessCrane = {
     },
     {
       fact: "Bess will not let a held stranger sleep cold: she brings a blanket and a heel of bread to the byre.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-bess-crane",
-        "world-character/otherwhere-x-aldous-crane",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Bess keeps her dead mother's old clogs by the hearth, and they would fit a small woman.",
@@ -59,10 +54,6 @@ export const otherwhereXBessCrane = {
     },
     {
       fact: "Bess keeps her mother's Wexley ways: she says what she means at the moment she means it.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Bess milks the byre cow at first light, so the byre door is unbarred at dawn.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
