@@ -2,6 +2,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/designs/otherwhere-iii.story-design.ts","id":"01a0e9d4-6104-7693-b106-a1711ade6035"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/otherwhere-iii-denise-pruitt.lore.ts","id":"01a0e9fc-9ac2-74e8-b3ea-6b6f16939ca3"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/otherwhere-iii-nala.lore.ts","id":"01a0e9db-4e0f-7ded-80bd-561f13642ce9"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/lore/otherwhere-iii-onn-desveth.lore.ts","id":"01a0eb14-4973-7c82-ba4c-228cbc01e10b"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/otherwhere-iii-priya-raman.lore.ts","id":"01a0ea71-2e66-701f-9207-4bcb7cfb93d9"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/otherwhere-iii-the-system.lore.ts","id":"01a0e9e2-ee4f-70e9-8ff1-e2b4ac73595e"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/lore/super-supportive-1963-agreement.lore.ts","id":"01a0ea01-2f61-7c1e-9e7b-11780b92bf56"}
@@ -1183,6 +1184,7 @@
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-wrightwares.place.ts","id":"01a0ea04-78ca-7a3b-ae07-d0760a057ed2"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/places/super-supportive-yipalck-research-facility.place.ts","id":"01a0e9fa-cb24-707b-9d00-ffa873edbf5c"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/stories/played/otherwhere-iii/characters/otherwhere-iii-denise-pruitt.character-other.ts","id":"01a0e9fc-9ac2-7375-954e-17261f12076a"}
+{"propertySlug":"world","path":"story/world/pages/super-supportive/stories/played/otherwhere-iii/characters/otherwhere-iii-onn-desveth.character-other.ts","id":"01a0eb14-4973-7566-9d9d-9d3aa947f446"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/stories/played/otherwhere-iii/characters/otherwhere-iii-priya-raman.character-other.ts","id":"01a0ea71-2e67-7764-a62c-478c73af1749"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/stories/played/otherwhere-iii/mechanics/checks/otherwhere-iii-time-passing.world-check.ts","id":"01a0e9e1-aa60-7dc6-98ef-ea0fbbd0edaa"}
 {"propertySlug":"world","path":"story/world/pages/super-supportive/stories/played/otherwhere-iii/mechanics/mechanics/otherwhere-iii-the-system.world-mechanic.ts","id":"01a0e9e2-ee4f-7eba-988f-63eac4c35ebe"}
