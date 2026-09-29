@@ -29,5 +29,6 @@ export const otherwhereX00006 = {
     "He waits, the door still open and the room's warmth spilling out past him onto the step.",
   ],
   lore: ["place/otherwhere-x-sulon", "lore/otherwhere-x-aldous-crane"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T18:44:00.000Z",
 } as const satisfies StoryTurnPlayed
