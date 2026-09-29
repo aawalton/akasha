@@ -106,6 +106,11 @@ export const worldCheck = {
       decisionKind: "decision-kind/departure",
       statement: "A check refuses a reading that is not the shape its code reads.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A check's code and its test read a page's address off that page's slug by importing the page.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
