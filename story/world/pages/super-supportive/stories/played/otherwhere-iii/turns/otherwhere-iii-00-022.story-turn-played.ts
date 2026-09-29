@@ -4,6 +4,7 @@ export const otherwhereIii00022 = {
   id: "01a0eb24-fb68-711c-9808-76402a53452a",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-022",
+  cover: "image/image-87ed7382d0a5c610",
   ownLength: 233,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
@@ -14,7 +15,7 @@ export const otherwhereIii00022 = {
     "character-other/super-supportive-gorgon",
     "character-other/otherwhere-iii-onn-desveth",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: '"Yes"',
   beats: [
     'Nala says, "Yes."',
@@ -42,6 +43,6 @@ export const otherwhereIii00022 = {
     "lore/super-supportive-gorgon",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2037-01-31T10:36:00.000Z",
 } as const satisfies StoryTurnPlayed
