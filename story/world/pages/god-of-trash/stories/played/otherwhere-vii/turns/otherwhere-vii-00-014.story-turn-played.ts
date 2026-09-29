@@ -14,7 +14,7 @@ export const otherwhereVii00014 = {
     "character-other/otherwhere-vii-hild",
     "character-other/otherwhere-vii-joan-reeve",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“Anything you need from me before morning?”",
   beats: [
     "Nala asks Hild if there's anything she needs from her before morning.",
@@ -26,6 +26,6 @@ export const otherwhereVii00014 = {
     '"Sit an hour with Bet tonight, so her mother can shut her eyes. I\'ll show you what to do."',
   ],
   lore: ["lore/otherwhere-vii-hild", "lore/otherwhere-vii-joan-reeve", "lore/otherwhere-vii-nala"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T12:23:00.000Z",
 } as const satisfies StoryTurnPlayed
