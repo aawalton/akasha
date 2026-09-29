@@ -204,7 +204,7 @@ export function servingFrom(at: CommandServerAt): Serving {
         }
       })
       child.on("exit", (code, signal) => {
-        const went = `the command server exited (code ${String(code)}, signal ${String(signal)})`
+        const went = `the command server exited (code ${String(code)}, signal ${String(signal)})${voiced(wrote)}`
         fresh.went = went
         dropped(fresh)
         setImmediate(() => lose(fresh, went))
