@@ -4,10 +4,17 @@ export const otherwhereIii00022 = {
   id: "01a0eb24-fb68-711c-9808-76402a53452a",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-022",
+  ownLength: 234,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
   position: 22,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/otherwhere-iii-nala",
+    "character-other/super-supportive-gorgon",
+    "character-other/otherwhere-iii-onn-desveth",
+  ],
+  stepStatus: "step-status/reviewers",
   action: '"Yes"',
   beats: [
     'Nala says, "Yes."',
@@ -25,6 +32,11 @@ export const otherwhereIii00022 = {
     '"So I will ask you plainly, and I would like a plain answer."',
     '"Where were you, before this morning?"',
   ],
-  lore: ["lore/otherwhere-iii-onn-desveth", "lore/otherwhere-iii-the-system"],
+  lore: [
+    "lore/otherwhere-iii-nala",
+    "lore/otherwhere-iii-onn-desveth",
+    "lore/otherwhere-iii-the-system",
+    "lore/super-supportive-gorgon",
+  ],
   endsAt: "2037-01-31T10:36:00.000Z",
 } as const satisfies StoryTurnPlayed
