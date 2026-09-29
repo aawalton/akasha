@@ -316,6 +316,42 @@ export const otherwhereViiiGuildhall = {
         "character-other/otherwhere-viii-hallick",
       ],
     },
+    {
+      fact: "Hallick judges what he can watch being done, and will not guess at what he is only told.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hallick's test of a claimant is a problem to be worked, not a question to be answered.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A problem the Institute has not settled in years sits on Hallick's bench, set to claimants.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Institute's workshop has long benches, tools, and a locked cabinet of teaching artefacts.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hallick's flare-sense is better than most arcanists', and he says nothing of what he feels.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hallick keeps his own unfinished sequences in a drawer he locks, and shows them to no one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hallick would carry a proven idea to the Academy before he carried it anywhere else.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Institute's apprentices would know by noon that a stranger had spoken to the master.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala carries no paper, pen or coin, so anything she shows must be shown with what is at hand.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
