@@ -85,5 +85,5 @@ export const haremHotel0002TheBathhouse = {
     "character-player/harem-hotel-alan",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
 } as const satisfies StoryChapterWritten

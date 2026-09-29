@@ -13,6 +13,7 @@ export const haremHotelFloor2 = {
         "lore-disclosure/game-master",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-odile",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -21,6 +22,7 @@ export const haremHotelFloor2 = {
         "lore-disclosure/game-master",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-odile",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -29,6 +31,7 @@ export const haremHotelFloor2 = {
         "lore-disclosure/game-master",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-odile",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -53,6 +56,7 @@ export const haremHotelFloor2 = {
         "lore-disclosure/game-master",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-odile",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -61,6 +65,7 @@ export const haremHotelFloor2 = {
         "lore-disclosure/game-master",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-odile",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -69,6 +74,7 @@ export const haremHotelFloor2 = {
         "lore-disclosure/game-master",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-odile",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -77,6 +83,7 @@ export const haremHotelFloor2 = {
         "lore-disclosure/game-master",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-odile",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -85,6 +92,7 @@ export const haremHotelFloor2 = {
         "lore-disclosure/game-master",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-odile",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -93,6 +101,7 @@ export const haremHotelFloor2 = {
         "lore-disclosure/game-master",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-odile",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -101,6 +110,7 @@ export const haremHotelFloor2 = {
         "lore-disclosure/game-master",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-odile",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -109,6 +119,7 @@ export const haremHotelFloor2 = {
         "lore-disclosure/game-master",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-odile",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -117,6 +128,7 @@ export const haremHotelFloor2 = {
         "lore-disclosure/game-master",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-odile",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -125,6 +137,7 @@ export const haremHotelFloor2 = {
         "lore-disclosure/game-master",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-odile",
+        "character-player/harem-hotel-alan",
       ],
     },
   ],

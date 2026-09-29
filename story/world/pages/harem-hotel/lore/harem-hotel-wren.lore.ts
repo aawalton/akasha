@@ -75,11 +75,25 @@ export const haremHotelWren = {
         "lore-disclosure/game-master",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-odile",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
       fact: "Wren squirts when she comes hard.",
-      knowers: ["lore-disclosure/game-master", "character-other/harem-hotel-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/harem-hotel-wren",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-odile",
+      ],
+    },
+    {
+      fact: "Wren's cunt is pink and bare, and her small tits have pink nipples.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-odile",
+      ],
     },
   ],
 } as const satisfies Lore

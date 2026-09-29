@@ -38,7 +38,12 @@ export const haremHotelOdile = {
     },
     {
       fact: "Odile likes to give orders in sex, and likes even more being made to lose the thread of them.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-odile",
+      ],
     },
     {
       fact: "Odile holds her composure as long as she can; when it breaks she comes loud, shaking, swearing.",
@@ -59,7 +64,12 @@ export const haremHotelOdile = {
     },
     {
       fact: "On floor 2 Odile serves under Wren, and minds taking her orders less than she lets on.",
-      knowers: ["lore-disclosure/game-master", "character-other/harem-hotel-odile"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/harem-hotel-odile",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-wren",
+      ],
     },
   ],
   secrets: "jsonl",
