@@ -7,7 +7,8 @@ export const otherwhereX00005 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-x"],
   position: 5,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     '"None of these. I am from a place so far away that there are no reeve\'s, no tallies, and the roads are made from liquid stone."',
+  lore: ["lore/otherwhere-x-aldous-crane", "place/otherwhere-x-harrow"],
 } as const satisfies StoryTurnPlayed
