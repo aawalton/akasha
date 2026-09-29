@@ -55,6 +55,12 @@ export const otherwhereIv00015 = {
     '"But you came in the daylight, and that\'s something. Not many spirits would."',
     '"Well, honored spirit. Out with it. What do you want with an old herb-woman?"',
   ],
+  issues: [
+    '"kills the village dogs and nothing else" - Plain Negation',
+    '"it costs us nothing to try" - Plain Negation',
+    '"If it does nothing, it does nothing" - Plain Negation',
+  ],
   lore: ["lore/otherwhere-iv-granny-hua", "lore/otherwhere-iv-nala"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T06:30:00.000Z",
 } as const satisfies StoryTurnPlayed
