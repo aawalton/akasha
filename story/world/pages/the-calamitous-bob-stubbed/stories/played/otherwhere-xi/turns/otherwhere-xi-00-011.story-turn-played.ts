@@ -15,7 +15,7 @@ export const otherwhereXi00011 = {
     "world-character/otherwhere-xi-tobin-ashlar",
     "world-character/otherwhere-xi-smoke",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "“I might as well for now, it’s good to be needed somewhere.”",
   beats: [
     'Nala says, "I might as well, for now. It\'s good to be needed somewhere."',
@@ -37,7 +37,6 @@ export const otherwhereXi00011 = {
     "Wenna cuts across him. \"Anyone asks, she's a hired hand from down the valley. That's all.\"",
     '"Tobin. You hear? Pell. Lissa." The girls nod solemnly; Tobin goes red and nods.',
     'Then Wenna looks at Nala. "No waystones. No gods. No books. You\'ll say the same."',
-    "It isn't quite a question. Across the mat, Tobin has stopped chewing.",
   ],
   issues: [
     '"Across the mat, Tobin has stopped chewing." - No Prompt',
