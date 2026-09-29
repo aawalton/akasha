@@ -246,7 +246,11 @@ export const otherwhereViiiTheInstitute = {
     },
     {
       fact: "The rule behind the numbers is plain: focus distance falls as thickness rises, in proportion.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
     },
     {
       fact: "Whoever sees the proportion can fill the blank rows, and check one against a lens at hand.",
@@ -355,6 +359,34 @@ export const otherwhereViiiTheInstitute = {
         "character-other/otherwhere-viii-hallick",
         "character-player/otherwhere-viii-nala",
       ],
+    },
+    {
+      fact: "Hallick measured the 7 and a half line lens on the stand, and it threw its focus 16 inches.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
+    },
+    {
+      fact: "Hallick offered Nala teaching as his pupil, bench work at 50 crowns a day, or both.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
+    },
+    {
+      fact: "Hallick offered Nala the small room over the workshop, if she wants a roof of her own.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
+    },
+    {
+      fact: "The first apprentices, in grey canvas aprons, saw Nala at the master's bench and whispered.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
   ],
   secrets: "jsonl",

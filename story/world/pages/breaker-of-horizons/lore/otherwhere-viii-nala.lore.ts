@@ -132,6 +132,14 @@ export const otherwhereViiiNala = {
         "character-other/otherwhere-viii-hallick",
       ],
     },
+    {
+      fact: "Nala says she knows nothing of lenses from experience, only from the mathematics.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-hallick",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
