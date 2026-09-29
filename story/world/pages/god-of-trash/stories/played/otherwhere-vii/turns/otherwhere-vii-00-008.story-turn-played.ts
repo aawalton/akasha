@@ -7,7 +7,8 @@ export const otherwhereVii00008 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vii"],
   position: 8,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "\"Oh! I've seen these, but only in museums. The stick is split so two people can each hold a half, and neither can change it without the marks no longer matching, right? I'm not completely sure what the marks mean on their own, but at a guess, I'd say that's 74, 7 tens for the deep notches and 4 ones for the shallow, and that the nine crossed through are contracts complete?\"",
+  lore: ["lore/otherwhere-vii-aldo-reeve"],
 } as const satisfies StoryTurnPlayed
