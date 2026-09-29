@@ -234,6 +234,15 @@ export const otherwhereViiNala = {
         "character-other/otherwhere-vii-joan-reeve",
       ],
     },
+    {
+      fact: "Nala worked Hild's salve into her palms by day, spending one of the pot's four dressings.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-hild",
+        "character-other/otherwhere-vii-joan-reeve",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

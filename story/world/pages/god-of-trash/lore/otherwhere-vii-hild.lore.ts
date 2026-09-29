@@ -163,11 +163,16 @@ export const otherwhereViiHild = {
     },
     {
       fact: "The salve stings at first, then cools; it smells of lard and green leaves.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
     },
     {
       fact: "Worked in by day, the salve softens blisters that then tear at the next grip.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-vii-hild",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-joan-reeve",
+      ],
     },
     {
       fact: "Worked in and slept on, the salve has blistered hands sore but whole by morning.",
@@ -179,6 +184,16 @@ export const otherwhereViiHild = {
         "lore-disclosure/game-master",
         "character-other/otherwhere-vii-hild",
         "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-joan-reeve",
+      ],
+    },
+    {
+      fact: "Slept on, Hild's salve heals blistered palms, so she bids it worked in at night.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-vii-hild",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-joan-reeve",
       ],
     },
   ],
