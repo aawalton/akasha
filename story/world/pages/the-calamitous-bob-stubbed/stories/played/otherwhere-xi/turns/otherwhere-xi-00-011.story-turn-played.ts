@@ -10,4 +10,5 @@ export const otherwhereXi00011 = {
   stepStatus: "step-status/game-master",
   action: "“I might as well for now, it’s good to be needed somewhere.”",
   lore: ["lore/otherwhere-xi-wenna-ashlar", "place/otherwhere-xi-ashlar-farm"],
+  endsAt: "2026-09-28T12:00:00.000Z",
 } as const satisfies StoryTurnPlayed
