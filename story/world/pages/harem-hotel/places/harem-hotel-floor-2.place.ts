@@ -73,7 +73,11 @@ export const haremHotelFloor2 = {
     },
     {
       fact: "The task is set in black mosaic tiles on the hot pool's white bottom, plain through the water.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-odile",
+      ],
     },
     {
       fact: "The bath mistress reads the mosaic aloud to Alan when he first reaches the pool.",
