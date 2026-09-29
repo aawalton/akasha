@@ -7,7 +7,12 @@ export const otherwhereVi00012 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],
   position: 12,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "\"Hello! I've been lost in the woods for a night and a day, would you grant me a traveler's hospitality?\"",
+  lore: [
+    "lore/otherwhere-vi-customs",
+    "lore/otherwhere-vi-nala",
+    "place/otherwhere-vi-charcoal-camp",
+  ],
 } as const satisfies StoryTurnPlayed
