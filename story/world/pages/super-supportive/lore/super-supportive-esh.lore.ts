@@ -7,5 +7,11 @@ export const superSupportiveEsh = {
   title: "Esh",
   world: "world/super-supportive",
   about: "character-other/super-supportive-esh",
+  facts: [
+    {
+      fact: "Esh-erdi is a Knight of the Mother Planet, with close-set dark brown eyes and three long braids.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
