@@ -92,4 +92,5 @@ export const otherwhereXTarrantFord = {
       direction: "east",
     },
   ],
+  secrets: "jsonl",
 } as const satisfies Place
