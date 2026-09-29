@@ -4,10 +4,13 @@ export const otherwhereIv00011 = {
   id: "01a0ea93-53e7-7b10-bc82-f8c34fd26d6b",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-011",
+  ownLength: 328,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],
   position: 11,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-iv-nala", "character-other/otherwhere-iv-zhao-jun"],
+  stepStatus: "step-status/reviewers",
   action:
     'I light the incense and speak calmly and clearly, so the crowd can hear, saying "Old Grandfather of the Three Stones. Your people respect the old ways and honor their ancestors as they have for many years. May they be safe and prosper that they may continue to do so for many more."',
   beats: [
