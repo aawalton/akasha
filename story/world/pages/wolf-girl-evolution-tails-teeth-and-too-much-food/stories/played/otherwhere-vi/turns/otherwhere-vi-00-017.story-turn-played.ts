@@ -9,4 +9,5 @@ export const otherwhereVi00017 = {
   position: 17,
   stepStatus: "step-status/game-master",
   action: "I go inside to eat.",
+  endsAt: "2026-09-30T06:30:00.000Z",
 } as const satisfies StoryTurnPlayed
