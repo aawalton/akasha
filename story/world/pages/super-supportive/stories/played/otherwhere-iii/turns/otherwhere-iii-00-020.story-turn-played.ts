@@ -4,10 +4,13 @@ export const otherwhereIii00020 = {
   id: "01a0eb0b-2480-78c8-9a2d-141538b4499e",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-020",
+  ownLength: 318,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
   position: 20,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-iii-nala", "character-other/super-supportive-gorgon"],
+  stepStatus: "step-status/reviewers",
   action:
     '"My name is Nala, and I was not born on this Earth or on any planet you know of. I believe my soul must have passed through chaos to get here and it fundamentally altered my being. I am requesting affixation despite not being in the standard age group. In addition, I am in possession of confidential information that you do not want widely shared, so I would like to make an additional contract to ensure I don\'t share it. In exchange, I would like to negotiate appropriate compensation. For example, I know that the standard patterns of affixation you encourage are motivated by a reduction in the risk of destabilization of the Avowed, but also come at cost of a significant decrease in the end  power of the Avowed."',
   beats: [
@@ -30,9 +33,11 @@ export const otherwhereIii00020 = {
     "Across the lobby, behind the desk, Gorgon has turned his head from the monitors toward her.",
   ],
   lore: [
+    "lore/otherwhere-iii-nala",
     "lore/otherwhere-iii-the-system",
     "lore/super-supportive-chaos-potential",
     "lore/super-supportive-demon",
+    "lore/super-supportive-gorgon",
     "place/super-supportive-artonan-consulate-4",
   ],
   endsAt: "2037-01-31T09:53:00.000Z",
