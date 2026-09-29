@@ -130,6 +130,11 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-lak-tak.world-character.ts","id":"01a0ea8d-9aaa-79a6-988b-506105caf02b"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-lana.world-character.ts","id":"01a0ea8d-9aaa-7c51-9fc6-f5b74bbb57ab"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-lancer.world-character.ts","id":"01a0ea8d-9aab-722a-aeae-739b0d93d825"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-leria.world-character.ts","id":"01a0ea8e-52d2-7e5f-b261-264970e6afa0"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-lildy.world-character.ts","id":"01a0ea8e-52d3-7bed-a458-d578d2cf3e0a"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-lim.world-character.ts","id":"01a0ea8e-52d3-777c-bb55-6bbdcad49562"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-lorn.world-character.ts","id":"01a0ea8e-52d3-7e19-ab1b-5a8d6b2c4809"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-lotae.world-character.ts","id":"01a0ea8e-52d3-719d-9aa8-5cf7f4b6ac21"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-magrit.world-character.ts","id":"01a0ea80-4333-7f73-9162-2768e3c7d3e9"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-mar-the-younger.world-character.ts","id":"01a0ea80-4333-744d-b70d-c6d4cc4363d1"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-maradoc.world-character.ts","id":"01a0ea79-0253-7fed-8079-c450c72f11e5"}
@@ -478,10 +483,15 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-lancer.lore.ts","id":"01a0ea8d-9aab-7024-95a4-086a28acfdc8"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-law-and-crime.lore.ts","id":"01a0ea89-7d6f-734c-8b77-dbb32a617d5d"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-league-of-lesser-evils.lore.ts","id":"01a0ea8a-6437-7125-9b71-18530a968776"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-leria.lore.ts","id":"01a0ea8e-52d3-78fc-86dd-b0b95b6667e7"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-lich.lore.ts","id":"01a0ea7e-5eab-71b2-9511-c07eea465366"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-life-mana.lore.ts","id":"01a0ea7f-ce61-71c5-8683-16e3338baff4"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-light-gods.lore.ts","id":"01a0ea7e-e16e-76b2-84cf-59577ccb64fb"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-lildy.lore.ts","id":"01a0ea8e-52d3-73e0-928c-437def71f8fe"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-lim.lore.ts","id":"01a0ea8e-52d3-77e2-94ef-e7ce7d0f819b"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-linebreakers.lore.ts","id":"01a0ea7e-1cbe-7684-b279-0298fdae22db"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-lorn.lore.ts","id":"01a0ea8e-52d4-7e77-8bc1-a1b20fae9db4"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-lotae.lore.ts","id":"01a0ea8e-52d4-779a-b6c0-07342e441f9b"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-magrit.lore.ts","id":"01a0ea80-4334-7c64-adda-ba0ff8295671"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-mana-poisoning.lore.ts","id":"01a0ea7c-4d18-7381-9067-e6828bb0bb61"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-mana.lore.ts","id":"01a0ea7c-4d18-7d84-bec0-18842fd30461"}
