@@ -49,5 +49,6 @@ export const otherwhereVii00010 = {
     "lore/otherwhere-vii-tamsin",
     "place/otherwhere-vii-ashford",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T08:34:00.000Z",
 } as const satisfies StoryTurnPlayed
