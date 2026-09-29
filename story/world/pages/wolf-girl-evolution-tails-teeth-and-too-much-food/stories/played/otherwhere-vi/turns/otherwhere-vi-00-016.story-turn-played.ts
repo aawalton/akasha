@@ -15,7 +15,7 @@ export const otherwhereVi00016 = {
     "character-other/otherwhere-vi-wat",
     "character-other/otherwhere-vi-burr",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I check my status to see if the sleep recovered any HP, then focus on my task.",
   beats: [
     'Nala sits on the stump by the hut door and says "Status."',
@@ -45,6 +45,6 @@ export const otherwhereVi00016 = {
     "Wat shouts from inside that there is porridge, and that the watcher eats first.",
   ],
   lore: ["lore/otherwhere-vi-nala", "place/otherwhere-vi-charcoal-camp"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-30T06:10:00.000Z",
 } as const satisfies StoryTurnPlayed
