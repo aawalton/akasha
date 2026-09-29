@@ -10,7 +10,7 @@ export const haremHotel0002TheBathhouse = {
   story: "story-written/harem-hotel",
   ownLength: 3296,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   beats: [
     "You climb the grand staircase from the lobby, and warm air thick with steam rolls down to meet you.",
     "The stairs end in a changing room of cedar benches, stacked with white linen towels.",
@@ -84,5 +84,5 @@ export const haremHotel0002TheBathhouse = {
     "character-other/harem-hotel-odile",
     "character-player/harem-hotel-alan",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
