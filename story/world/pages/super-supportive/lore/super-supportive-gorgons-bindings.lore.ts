@@ -32,6 +32,10 @@ export const superSupportiveGorgonsBindings = {
       fact: "He may give directions, register classes, witness pre-affixation trades and hand out pens.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Pointing a selectee straight to a class would cost Gorgon his life.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
