@@ -10,7 +10,7 @@ export const otherwhereIv00010 = {
   position: 10,
   prose: "txt",
   characters: ["character-player/otherwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: '"I will"',
   beats: [
     '"I will," Nala says.',
@@ -47,7 +47,11 @@ export const otherwhereIv00010 = {
     "He hands Nala three sticks of incense and steps back one pace.",
     "The whispering dies. Forty households are watching her, in the last of the light.",
   ],
+  issues: [
+    '"Forty households are watching you, in the last of the light." - No Prompt',
+    '"Forty households are watching you, in the last of the light." - Leave It Open',
+  ],
   lore: ["lore/otherwhere-iv-gu-household", "lore/otherwhere-iv-earth-god-shrine"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T19:05:00.000Z",
 } as const satisfies StoryTurnPlayed
