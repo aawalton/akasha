@@ -173,15 +173,35 @@ export const otherwhereIvGuHousehold = {
     },
     {
       fact: "Gu Meilan gives Nala her married daughter's old clothes: blue hemp jacket, trousers, sash, shoes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
     {
       fact: "The Gu house bath is a wooden tub in the kitchen shed, filled with water heated in the big wok.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
     {
       fact: "The Gus' daughter, Gu Yan, married a Lanqiao cloth dealer and left her old clothes in a chest.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Gu Meilan tells Nala that everyone calls her Auntie.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
+    {
+      fact: "Nala agreed to make the dusk offering with Gu at the Three Stones shrine.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
+    {
+      fact: "Nala's east room at the Gu house has a quilted bed, a chest, a lattice window and a barred door.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
+    {
+      fact: "Before the midday meal Auntie Gu makes the house's offering at a small shrine in the main room.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
+    {
+      fact: "Two loud young brothers came to Gu's gate to see the spirit; Gu told them to wait for dusk.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
   ],
 } as const satisfies Lore

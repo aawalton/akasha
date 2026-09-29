@@ -55,6 +55,6 @@ export const otherwhereIv00010 = {
   ],
   lore: ["lore/otherwhere-iv-gu-household", "lore/otherwhere-iv-earth-god-shrine"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-28T19:05:00.000Z",
 } as const satisfies StoryTurnPlayed

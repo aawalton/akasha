@@ -9,15 +9,15 @@ export const otherwhereIvEarthGodShrine = {
   facts: [
     {
       fact: "The earth god's shrine is a waist-high stone house with a small painted clay figure inside.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
     {
       fact: "An offering is three sticks of incense, a cup of rice wine and a bowl of rice, with three bows.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
     {
       fact: "The offerer lights incense at the shrine lamp, raises it to the brow, bows thrice, and plants it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
     {
       fact: "Asking the earth god aloud to guard the fields and the families is customary and pleases the folk.",
@@ -29,7 +29,7 @@ export const otherwhereIvEarthGodShrine = {
     },
     {
       fact: "At dusk nearly all forty households gather at the stones when the headman's gong is beaten.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
     {
       fact: "Granny Hua suspects a fox-spirit, and will watch the stranger's shadow and feet at the rite.",
@@ -50,6 +50,26 @@ export const otherwhereIvEarthGodShrine = {
     {
       fact: "Lin Qiao will bring her son Xiaobao and a basket of steamed buns to share after the rite.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At dusk Gu led Nala to the shrine before the whole village and handed her three sticks of incense.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
+    {
+      fact: "At the dusk rite a sharp-faced old woman at the front stared at Nala's feet, then her shadow.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
+    {
+      fact: "At the dusk rite two big young men with the same broad face shoved to the very front, grinning.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
+    {
+      fact: "At the dusk rite a lean, weathered man with a bow on his shoulder stood silent, apart at the back.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
+    {
+      fact: "The tea-stall woman came to the dusk rite with a cloth-covered basket and a small boy by the hand.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
   ],
 } as const satisfies Lore
