@@ -69,7 +69,7 @@ export const otherwhereXiBeastlings = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The northern beastling tide was wiped out by the Paramese alliance a few years ago.",
+      fact: "The northern beastling tide was wiped out by the Paramese alliance ten years ago.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
