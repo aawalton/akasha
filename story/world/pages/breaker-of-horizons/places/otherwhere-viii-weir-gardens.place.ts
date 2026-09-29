@@ -70,7 +70,11 @@ export const otherwhereViiiWeirGardens = {
     },
     {
       fact: "Maddox is the Weir Gardens warden and has walked its paths at first light for twenty years.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-maddox",
+      ],
     },
     {
       fact: "The river at Weir Gardens is the Carrow, loud and white over the weir.",
@@ -142,11 +146,19 @@ export const otherwhereViiiWeirGardens = {
     },
     {
       fact: "Maddox gives his full name as Orrin Maddox, though Low Bank calls him only Maddox.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-maddox",
+      ],
     },
     {
       fact: "Called a knight, Maddox snorts and reddens to the ears: pleased, and not about to show it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-maddox",
+      ],
     },
     {
       fact: "Maddox is a widower who lives alone above a chandler's on Weir Street; the park is his life.",
@@ -154,7 +166,7 @@ export const otherwhereViiiWeirGardens = {
     },
     {
       fact: "Maddox asks a stray he likes to bring lent things back any morning: his way of saying come back.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-viii-maddox"],
     },
   ],
 } as const satisfies Place

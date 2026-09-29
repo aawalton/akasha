@@ -105,7 +105,11 @@ export const otherwhereViiiCarrowgate = {
     },
     {
       fact: "A kitchen on Tanners Row feeds whoever queues at dawn.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-maddox",
+      ],
     },
   ],
   secrets: "jsonl",

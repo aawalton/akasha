@@ -68,6 +68,22 @@ export const otherwhereViiiNala = {
       fact: "Nala woke on a bench in Weir Gardens just before dawn on day one.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
+    {
+      fact: "Nala wears Maddox's lent canvas shoes, far too long, and his brown wool coat, past her knees.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-maddox",
+      ],
+    },
+    {
+      fact: "Nala introduced herself to Maddox as Nala.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-maddox",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
