@@ -12,6 +12,10 @@ export const superSupportiveDeclared = {
       fact: "Declared is the title of one who has chosen to become a knight but not yet had a first affixation.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Outsiders seeking knighthood are pruned repeatedly; serious ones are invited to serve as votaries.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
