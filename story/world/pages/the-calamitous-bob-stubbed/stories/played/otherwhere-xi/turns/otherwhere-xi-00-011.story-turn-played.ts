@@ -15,7 +15,7 @@ export const otherwhereXi00011 = {
     "world-character/otherwhere-xi-tobin-ashlar",
     "world-character/otherwhere-xi-smoke",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "“I might as well for now, it’s good to be needed somewhere.”",
   beats: [
     'Nala says, "I might as well, for now. It\'s good to be needed somewhere."',
@@ -39,6 +39,11 @@ export const otherwhereXi00011 = {
     'Then Wenna looks at Nala. "No waystones. No gods. No books. You\'ll say the same."',
     "It isn't quite a question. Across the mat, Tobin has stopped chewing.",
   ],
+  issues: [
+    '"Across the mat, Tobin has stopped chewing." - No Prompt',
+    '"It isn\'t quite a question." - No Prompt',
+    '"Across the mat, Tobin has stopped chewing." - Leave It Open',
+  ],
   lore: [
     "lore/otherwhere-xi-nala",
     "lore/otherwhere-xi-smoke",
@@ -46,6 +51,6 @@ export const otherwhereXi00011 = {
     "lore/otherwhere-xi-wenna-ashlar",
     "place/otherwhere-xi-ashlar-farm",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T12:00:00.000Z",
 } as const satisfies StoryTurnPlayed
