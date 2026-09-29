@@ -657,10 +657,12 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/stories/played/otherwhere-xi/mechanics/checks/otherwhere-xi-action-check.world-check.ts","id":"01a0ea7e-7704-7721-9f59-05aea7ab71b6"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/stories/played/otherwhere-xi/mechanics/checks/otherwhere-xi-growth.world-check.ts","id":"01a0ea84-ed5c-707d-ba09-db2e1d5eac19"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/stories/played/otherwhere-xi/mechanics/checks/otherwhere-xi-harm.world-check.ts","id":"01a0ea7e-7705-74d6-ad13-2647ebe55a6e"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/stories/played/otherwhere-xi/mechanics/checks/otherwhere-xi-mana-flow.world-check.ts","id":"01a0ea86-3268-7278-bfd2-d1efb22989a6"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/stories/played/otherwhere-xi/mechanics/checks/otherwhere-xi-needs.world-check.ts","id":"01a0ea6c-e6a7-7e95-8c3b-933b7870992d"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/stories/played/otherwhere-xi/mechanics/checks/otherwhere-xi-standing.world-check.ts","id":"01a0ea6d-a7cc-7178-831f-f6a73e3abf3b"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/stories/played/otherwhere-xi/mechanics/checks/otherwhere-xi-time-passing.world-check.ts","id":"01a0ea6b-815f-7fff-aab6-0c2e2daf9d12"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/stories/played/otherwhere-xi/mechanics/mechanics/otherwhere-xi-injury.world-mechanic.ts","id":"01a0ea6d-a7cd-7623-aed8-c83c15316082"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/stories/played/otherwhere-xi/mechanics/mechanics/otherwhere-xi-magic.world-mechanic.ts","id":"01a0ea86-3269-7b60-bedc-c80c7a3daf57"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/stories/played/otherwhere-xi/mechanics/mechanics/otherwhere-xi-progression.world-mechanic.ts","id":"01a0ea84-ed5e-71cd-99ae-530cb6288cc7"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/stories/played/otherwhere-xi/mechanics/mechanics/otherwhere-xi-resolution.world-mechanic.ts","id":"01a0ea7e-7705-7840-8557-3baf1846bacf"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/stories/played/otherwhere-xi/mechanics/mechanics/otherwhere-xi-standing.world-mechanic.ts","id":"01a0ea6d-a7cd-7765-8b54-f36663dea5c5"}
