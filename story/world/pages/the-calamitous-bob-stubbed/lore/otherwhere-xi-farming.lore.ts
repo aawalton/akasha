@@ -160,5 +160,33 @@ export const otherwhereXiFarming = {
       fact: "In Baran's marches villages sit in valleys without roads; old women gather the firewood.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A turned lamb must be pushed back and its legs brought forward by a hand inside the ewe.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-player/otherwhere-xi-nala",
+      ],
+    },
+    {
+      fact: "A lamb turned cleanly comes out alive and sucks within the hour; the ewe is up by noon.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A lamb turned roughly comes out alive but weak, and the ewe is torn and slow to rise.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A lamb turned too late or too hard comes out dead, and the ewe may yet be saved.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A botched turning that tears the womb kills the ewe by evening, whatever is done after.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A lamb whose ewe dies can be fostered on a ewe that lost hers, wrapped in the dead lamb's skin.",
+      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+    },
   ],
 } as const satisfies Lore

@@ -84,46 +84,7 @@ export const otherwhereXiWennaAshlar = {
       fact: "Wenna's daughters are Pell, nine, and Lissa, six.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Wenna's tale: a stray steps out of a waystone at dawn with no road dust on her feet.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "world-character/otherwhere-xi-wenna-ashlar",
-        "character-player/otherwhere-xi-nala",
-      ],
-    },
-    {
-      fact: "Wenna's tale: strays speak the tongue of the land they come to, though they never learned it.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "world-character/otherwhere-xi-wenna-ashlar",
-        "character-player/otherwhere-xi-nala",
-      ],
-    },
-    {
-      fact: "Wenna's saying: Maradoc does not waste a stray; he sets each where some work wants doing.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "world-character/otherwhere-xi-wenna-ashlar",
-        "character-player/otherwhere-xi-nala",
-      ],
-    },
-    {
-      fact: "Wenna's grandmother told of a stray at a waystone near Imra in her own grandmother's day.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "world-character/otherwhere-xi-wenna-ashlar",
-        "character-player/otherwhere-xi-nala",
-      ],
-    },
-    {
-      fact: "In that tale the Imra stray, a man, stayed a year, mended the mill, and walked off one dawn.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "world-character/otherwhere-xi-wenna-ashlar",
-        "character-player/otherwhere-xi-nala",
-      ],
-    },
+
     {
       fact: "Wenna holds a stray should leave an offering at the ring and thank Maradoc, or be unlucky.",
       knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
@@ -280,14 +241,7 @@ export const otherwhereXiWennaAshlar = {
       fact: "Wenna would lend Nala her spare robe, sandals and a headcloth, and keep the odd shirt back.",
       knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
     },
-    {
-      fact: "A turned lamb must be pushed back and its legs brought forward by a hand inside the ewe.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "world-character/otherwhere-xi-wenna-ashlar",
-        "character-player/otherwhere-xi-nala",
-      ],
-    },
+
     {
       fact: "Wenna's big, cracked hands struggle inside a small ewe; slim hands turn a lamb more easily.",
       knowers: [
@@ -300,10 +254,7 @@ export const otherwhereXiWennaAshlar = {
       fact: "Wenna has lost two ewes this spring to turned lambs, and cannot spare a third.",
       knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
     },
-    {
-      fact: "Left an hour more, the down ewe and her lamb will both die.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "For a hard lambing Wenna wants a helper to hold the ewe's head, then fetch tallow and water.",
       knowers: [
@@ -312,30 +263,7 @@ export const otherwhereXiWennaAshlar = {
         "character-player/otherwhere-xi-nala",
       ],
     },
-    {
-      fact: "In Tavelford, a helper who saves a ewe at a hard lambing is owed a place at the table.",
-      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
-    },
-    {
-      fact: "A lamb turned cleanly comes out alive and sucks within the hour; the ewe is up by noon.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "A lamb turned roughly comes out alive but weak, and the ewe is torn and slow to rise.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "A lamb turned too late or too hard comes out dead, and the ewe may yet be saved.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "A botched turning that tears the womb kills the ewe by evening, whatever is done after.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "A lamb whose ewe dies can be fostered on a ewe that lost hers, wrapped in the dead lamb's skin.",
-      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
-    },
+
     {
       fact: "Wenna's daughters are named Pell and Lissa.",
       knowers: [

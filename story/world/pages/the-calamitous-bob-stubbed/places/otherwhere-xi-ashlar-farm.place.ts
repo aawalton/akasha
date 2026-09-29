@@ -138,6 +138,10 @@ export const otherwhereXiAshlarFarm = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
     },
     {
+      fact: "Left an hour past about 8:49 on day one, the down ewe and her lamb would both have died.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Half the Ashlar flock is still to lamb before the month is out.",
       knowers: [
         "lore-disclosure/game-master",

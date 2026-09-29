@@ -163,6 +163,46 @@ export const otherwhereXiWaystoneShrine = {
         "world-character/otherwhere-xi-tobin-ashlar",
       ],
     },
+    {
+      fact: "Hill tale: a stray steps out of a waystone at dawn with no road dust on her feet.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-player/otherwhere-xi-nala",
+      ],
+    },
+    {
+      fact: "Hill tale: strays speak the tongue of the land they come to, though they never learned it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-player/otherwhere-xi-nala",
+      ],
+    },
+    {
+      fact: "Hill saying: Maradoc does not waste a stray; he sets each where some work wants doing.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-player/otherwhere-xi-nala",
+      ],
+    },
+    {
+      fact: "Hill tale: a stray came to a waystone near Imra some five generations back.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-player/otherwhere-xi-nala",
+      ],
+    },
+    {
+      fact: "In that tale the Imra stray, a man, stayed a year, mended the mill, and walked off one dawn.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-player/otherwhere-xi-nala",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
