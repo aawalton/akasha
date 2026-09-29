@@ -164,5 +164,13 @@ export const otherwhereXiSkills = {
       fact: "A prince's skill [Window to their Souls] reads the souls of those before him.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Champions' skills include [Crushing Blow], [Champion Slayer] and [One with the Land].",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Raising a skill to master level takes centuries for most.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
