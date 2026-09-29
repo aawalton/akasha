@@ -27,6 +27,10 @@ export const loreScrubbing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A withheld file gone by the time it is read lends nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A line carrying five words of that prose in a row is left out.",
     },
     {

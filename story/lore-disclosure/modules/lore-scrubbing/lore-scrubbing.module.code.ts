@@ -161,10 +161,19 @@ function runsOf(
   return runs
 }
 
+function bodyAt(at: string): string {
+  try {
+    return readFileSync(at, "utf8")
+  } catch (thrown) {
+    if (Reflect.get(Object(thrown), "code") === "ENOENT") return ""
+    throw thrown
+  }
+}
+
 export function scrubberFor(root: string, agentId: string | null): Scrubber | null {
   const withheld = withheldFor(root, agentId)
   if (withheld.length === 0) return null
-  const tells = copiesOf(root, withheld).flatMap((at) => tellsIn(readFileSync(at, "utf8")))
+  const tells = copiesOf(root, withheld).flatMap((at) => tellsIn(bodyAt(at)))
   return { runs: runsOf(tells, [...toldProseIn(root), ...playedIn(root)]) }
 }
 

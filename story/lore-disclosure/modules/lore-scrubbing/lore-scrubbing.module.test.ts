@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, writeFileSync } from "node:fs"
+import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
@@ -74,6 +74,12 @@ function scrubberOf(root: string): Scrubber {
 
 test("the prose a withheld page states is what is looked for, and no id, type or slug", () => {
   expect(tellsIn(BODY)).toEqual([FACT, SECOND, SHORT])
+})
+
+test("a withheld file gone by the time it is read lends nothing and breaks nothing", () => {
+  const root = sealedWorld()
+  rmSync(join(root, LORE_AT))
+  expect(() => scrubberFor(root, GAME_MASTER_SEAT)).not.toThrow()
 })
 
 test("a seat of another role is scrubbed nothing", () => {
