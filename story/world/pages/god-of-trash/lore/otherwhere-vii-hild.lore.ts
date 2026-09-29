@@ -189,6 +189,22 @@ export const otherwhereViiHild = {
       fact: "Hild would ask one thing of Nala before morning: to sit an hour with Bet tonight so Joan sleeps.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Watching a fever is sponging the brow with cool water, and spooning herb tea between the chills.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A watcher wakes Joan if the child raves, can't be roused, or her breath rattles.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Bet is twelve, thin and freckled, sleeps in the loft over the kitchen, and talks in her fever.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Feverish, Bet mutters about the wood, a white bird, and a man in the trees she saw at the meadow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
