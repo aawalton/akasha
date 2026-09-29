@@ -7,5 +7,5 @@ export const otherwhereViiAldoReeve = {
   title: "Nala and Aldo Reeve",
   world: "world/god-of-trash",
   characters: ["character-player/otherwhere-vii-nala", "character-other/otherwhere-vii-aldo-reeve"],
-  relationshipPoints: 5,
+  relationshipPoints: 7,
 } as const satisfies WorldRelationship
