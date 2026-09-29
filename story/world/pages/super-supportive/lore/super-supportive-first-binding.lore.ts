@@ -7,5 +7,11 @@ export const superSupportiveFirstBinding = {
   title: "First binding",
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-first-binding",
+  facts: [
+    {
+      fact: "It is done so knights can fight demons in chaotic places.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
