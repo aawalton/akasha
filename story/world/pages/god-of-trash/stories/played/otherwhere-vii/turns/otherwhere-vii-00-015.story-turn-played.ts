@@ -10,4 +10,5 @@ export const otherwhereVii00015 = {
   stepStatus: "step-status/game-master",
   action: "I go and get the buckets, then work to fill the water butt from the well.",
   lore: ["place/otherwhere-vii-ashford"],
+  endsAt: "2026-09-28T12:42:00.000Z",
 } as const satisfies StoryTurnPlayed
