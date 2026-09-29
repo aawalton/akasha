@@ -20,6 +20,10 @@ export const superSupportiveSelection = {
       fact: "Everyone knows the selection speech by heart; it cites the 1963 agreement with the Artonans.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Children of two non-Avowed are rarely selected; every globie is a statistical miracle.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
