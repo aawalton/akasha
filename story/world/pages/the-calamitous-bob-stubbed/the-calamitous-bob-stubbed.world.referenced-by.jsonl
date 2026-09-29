@@ -16,7 +16,12 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-azure-lady.world-character.ts","id":"01a0ea76-d052-7dee-bea6-4cc333073d63"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-ban-the-younger.world-character.ts","id":"01a0ea79-0305-77d3-b5fa-598ab3bc1214"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-ban.world-character.ts","id":"01a0ea79-0306-7a73-8b11-ff66faec6369"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-benetti.world-character.ts","id":"01a0ea79-96ae-7b28-9034-f0eb9050d4a2"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-bes.world-character.ts","id":"01a0ea79-0306-724d-ae87-62ddbd3fba51"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-bird-tongue.world-character.ts","id":"01a0ea79-96af-73c6-b3e0-a1bb31cf868e"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-black-del.world-character.ts","id":"01a0ea79-96af-78c2-9104-4754423b4454"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-blue-duke.world-character.ts","id":"01a0ea79-96af-76bc-99db-86fd1cde0192"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-brenna.world-character.ts","id":"01a0ea79-96af-75ae-8c1b-9fe858b9b70c"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-brick.world-character.ts","id":"01a0ea79-0306-7cef-a9b3-91b65ffad6c4"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-emeric.world-character.ts","id":"01a0ea78-2ba8-7229-ba18-954e98df94bf"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-maradoc.world-character.ts","id":"01a0ea79-0253-7fed-8079-c450c72f11e5"}
@@ -44,7 +49,12 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-ban-the-younger.lore.ts","id":"01a0ea79-0306-74b6-8a5a-fc36e8f14f91"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-ban.lore.ts","id":"01a0ea79-0306-7c15-b227-a92c4526a2b8"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-beastlings.lore.ts","id":"01a0ea79-2033-7c8b-a346-1542d1df0839"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-benetti.lore.ts","id":"01a0ea79-96af-70a4-9706-484fedaeb2c8"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-bes.lore.ts","id":"01a0ea79-0306-7fcc-8393-9ce0f00ae239"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-bird-tongue.lore.ts","id":"01a0ea79-96af-73fb-b42a-0df1e6bd2418"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-black-del.lore.ts","id":"01a0ea79-96af-7e14-8df9-26a18d6d5994"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-blue-duke.lore.ts","id":"01a0ea79-96af-7a58-8086-559ad464f483"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-brenna.lore.ts","id":"01a0ea79-96af-7d46-84cc-08ce22acc9f7"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-brick.lore.ts","id":"01a0ea79-0307-7afe-a025-e3cb3d59eec8"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-dragons.lore.ts","id":"01a0ea79-2034-751b-bf34-f0cc2bed057c"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-elementals.lore.ts","id":"01a0ea79-2035-7e1a-bedc-dc3f0104b24f"}
