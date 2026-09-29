@@ -10,7 +10,7 @@ export const otherwhereIii00019 = {
   position: 19,
   prose: "txt",
   characters: ["character-player/otherwhere-iii-nala", "character-other/super-supportive-gorgon"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "\"Okay, that's a place to start at least. I'm sorry, I can tell I said something wrong or hit something sensitive. I know you are limited by your bonds in what you can tell me, and I certainly haven't earned the trust it would take for you to strain them. If you are willing, maybe you can tell me one thing. If I did want to get the attention of Earth's Contract, how could I do that? I know I'm not the normal age, but if it wanted to, it could definitely communicate with me, and I know things it doesn't want widely known, which means it would either need to kill me, which would violate the treaty, or it would need to contract me to silence, which would mean an affixation. I'm not taking the slow path. I'm getting its attention one way or another, but I'm hoping to do that without causing more issues than I have to.\"",
   beats: [
@@ -38,7 +38,11 @@ export const otherwhereIii00019 = {
     '"You are not registered with this network. State your name, your reason and your urgency."',
     "The line hums, open, and waits for all three.",
   ],
-  issues: ['"A civilian reaches it one way only" - the prose leaves this beat out'],
+  issues: [
+    '"A civilian reaches it one way only" - the prose leaves this beat out',
+    '"and waits for all three" - No Prompt',
+    '"The line hums, open, and waits for all three" - Leave It Open',
+  ],
   lore: [
     "lore/otherwhere-iii-nala",
     "lore/super-supportive-1963-agreement",
@@ -48,6 +52,6 @@ export const otherwhereIii00019 = {
     "lore/super-supportive-system-call",
     "place/super-supportive-artonan-consulate-4",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2037-01-31T09:49:00.000Z",
 } as const satisfies StoryTurnPlayed
