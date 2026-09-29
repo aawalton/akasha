@@ -217,6 +217,30 @@ export const otherwhereIxShardback = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
+      fact: "A dead shardback's quills lie flat and come free whole with a slow twist at the root.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A whole quill has a blunt, unglazed root a thumb long; held by it, it does not cut the hand.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The longest quills run along the spine, a hand and a half long and thick as a finger.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A whole quill stabs like a knife into soft flesh but snaps on hide, bone or a hard twist.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Bound to a stick with bark strip or sinew, a spine quill makes a spear point for a few thrusts.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A young shardback carries some forty spine quills worth taking; the rest are short and snap.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The smell of an opened shardback carries downwind and draws scavengers within the hour.",
       knowers: ["lore-disclosure/game-master"],
     },
