@@ -10,7 +10,7 @@ export const otherwhereVi00009 = {
   position: 9,
   prose: "txt",
   characters: ["character-player/otherwhere-vi-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I eat a handful of berries and then check again.",
   beats: [
     "Nala strips a cluster from the nearest shrub and eats a handful, seeds and all.",
@@ -29,7 +29,8 @@ export const otherwhereVi00009 = {
     "Her thoughts come slow and thick, as if through cold water.",
     "She reaches for another cluster; her fingers will not close, and the berries spill into the moss.",
   ],
+  issues: ['"The berries have left no mark on it at all." - Plain Negation'],
   lore: ["place/otherwhere-vi-hollow-stream", "lore/otherwhere-vi-system"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T22:42:00.000Z",
 } as const satisfies StoryTurnPlayed
