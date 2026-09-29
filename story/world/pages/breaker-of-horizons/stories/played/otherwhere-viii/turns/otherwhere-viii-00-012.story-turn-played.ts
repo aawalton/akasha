@@ -4,6 +4,7 @@ export const otherwhereViii00012 = {
   id: "01a0eb28-cc7f-7829-b15c-1c51d321a8ee",
   type: "page-type/story-turn-played",
   slug: "otherwhere-viii-00-012",
+  cover: "image/image-e6fa13811221b83c",
   ownLength: 495,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-viii"],
@@ -49,6 +50,6 @@ export const otherwhereViii00012 = {
     "place/otherwhere-viii-the-workshop-room",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T09:40:00.000Z",
 } as const satisfies StoryTurnPlayed
