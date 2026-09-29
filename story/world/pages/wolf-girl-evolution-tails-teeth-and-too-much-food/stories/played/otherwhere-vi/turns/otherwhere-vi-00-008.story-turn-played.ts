@@ -7,7 +7,12 @@ export const otherwhereVi00008 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],
   position: 8,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     'I decide to risk a berry, first looking at it to see if it has a status screen. "Inspect. Appraise. Identify". If not, I eat one and then check my own status screen for effects.',
+  lore: [
+    "lore/otherwhere-vi-system",
+    "place/otherwhere-vi-hollow-stream",
+    "lore/otherwhere-vi-nala",
+  ],
 } as const satisfies StoryTurnPlayed
