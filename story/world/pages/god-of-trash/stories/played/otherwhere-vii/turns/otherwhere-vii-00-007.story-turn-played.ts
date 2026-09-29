@@ -11,4 +11,5 @@ export const otherwhereVii00007 = {
   action:
     "\"My father was a scribe. I've mostly worked with my wits and not my muscles. I can read, write, and do sums, but not sure that's needed here.\"",
   lore: ["lore/otherwhere-vii-aldo-reeve", "place/otherwhere-vii-ashford"],
+  endsAt: "2026-09-28T08:14:00.000Z",
 } as const satisfies StoryTurnPlayed
