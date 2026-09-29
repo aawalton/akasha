@@ -10,7 +10,7 @@ export const otherwhereX00008 = {
   position: 8,
   prose: "txt",
   characters: ["character-player/otherwhere-x-nala", "world-character/otherwhere-x-aldous-crane"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     'I choose to sing "O Danny Boy", since I don\'t know if they will understand the words, but the emotions can still come through the music. After that I sing "Homeward Bound"',
   beats: [
@@ -35,6 +35,10 @@ export const otherwhereX00008 = {
     'The question the whole room is holding comes out of the back: "Where\'d you learn songs like that?"',
     'Martha sets a cup in front of her. "Another. Then you\'ll say where a girl gets songs like that."',
   ],
+  issues: [
+    '"nobody here has pipes, or the word" - Harrow folk understand every word Nala sings',
+    '"the room has no such word" - Harrow folk understand every word Nala sings, per the Sheaf',
+  ],
   lore: [
     "lore/otherwhere-x-aldous-crane",
     "lore/otherwhere-x-language",
@@ -49,6 +53,6 @@ export const otherwhereX00008 = {
     "place/otherwhere-x-harrow-green",
     "place/otherwhere-x-the-sheaf",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T19:13:00.000Z",
 } as const satisfies StoryTurnPlayed
