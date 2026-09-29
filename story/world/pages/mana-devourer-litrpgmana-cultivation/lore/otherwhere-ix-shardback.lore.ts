@@ -170,11 +170,19 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "A quill sliver gripped bare cuts the hand holding it as it is driven in.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "A stab that opens a shardback's windpipe chokes it on its own blood, and it lets go its bite.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A quill sliver snaps when driven hard into a shardback's throat, leaving a stub.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "A shardback stabbed shallowly in the throat keeps its bite locked and twists harder.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
   ],
 } as const satisfies Lore

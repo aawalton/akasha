@@ -166,7 +166,11 @@ export const otherwhereIxNala = {
     },
     {
       fact: "Her unique trait cannot be called up or hurried; asking the system for it brings no box.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "A quill sliver cut Nala's palm as she drove it into a shardback's throat.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
   ],
   secrets: "jsonl",
