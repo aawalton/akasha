@@ -14,7 +14,7 @@ export const otherwhereIv00016 = {
     "character-other/otherwhere-iv-zhao-jun",
     "character-other/otherwhere-iv-tie-bo",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I bow my head slightly, \"Auntie Gu, Tie Bo and I have come to request your poison to be used against the boar that has been foraging Zhau Jun's field. It may be too advanced to be effective, but if it is not, we are seeking for any preparations that reduce the risk of further loss of life. We believe this to be the same boar that took Tie Bo's brother, and it has only grown stronger since. If you have any additional counsel for us in this matter, we would be grateful for it.\"",
   beats: [
@@ -37,7 +37,8 @@ export const otherwhereIv00016 = {
     "\"But I'll hear nothing more from a spirit that can't tell one old woman from another.\"",
     "She stays at the gate with her arms folded, waiting, and does not open it.",
   ],
+  issues: ['"and her hand stays well away from the latch of the gate" - Leave It Open'],
   lore: ["lore/otherwhere-iv-granny-hua", "lore/otherwhere-iv-nala"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T06:33:00.000Z",
 } as const satisfies StoryTurnPlayed
