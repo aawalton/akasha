@@ -32,6 +32,54 @@ export const overwhereIiTernHollow = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Tern Hollow is the upland barn of the Aske farm, in Wendlemere on the isle of Carrow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Aske farmhouse is shut up at the foot of the lane, half a mile below the barn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Askes keep their door key under the flat stone by the step, as the whole valley knows.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Aske house has a root cellar of turnips, onions, salt mutton and last autumn's apples.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The iron hooks along the barn wall are cold iron, hung against the Deep Children.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Every older house in Wendlemere hangs cold iron by its doors and above its beds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The one-wheeled cart waits on the wheelwright at Wendle Ford.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The loft's hay is last summer's and nearly spent; the Askes' sheep are down at the house.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A sheep track climbs behind the barn to Hollow Tarn, an hour's walk up the fell.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Marsh Croft, Tobin Marsh's place, is a quarter mile down the lane from the barn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Wendle Ford, the nearest village, is three miles down the lane and along the river.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Big clawed prints, rank with rotten salt, crossed the lane below the barn two nights ago.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The barn holds only a cart with one wheel off and a row of iron hooks along the wall.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },

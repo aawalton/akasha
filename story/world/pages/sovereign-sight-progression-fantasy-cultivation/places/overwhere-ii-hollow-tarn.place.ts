@@ -1,0 +1,49 @@
+import type { Place } from "akasha/story/lore/place/place.page-type.types.ts"
+
+export const overwhereIiHollowTarn = {
+  id: "01a0ed1d-cfb3-756e-9c7c-867aa9cb9f79",
+  type: "page-type/place",
+  slug: "overwhere-ii-hollow-tarn",
+  title: "Hollow Tarn",
+  world: "world/sovereign-sight-progression-fantasy-cultivation",
+  within: "place/overwhere-ii-wendlemere",
+  facts: [
+    {
+      fact: "Hollow Tarn is a black mountain lake in a corrie above Tern Hollow, an hour's climb.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "No fish live in Hollow Tarn and no bird lands on it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "In still weather the tarn smells faintly of the sea, though the sea is two days west.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Worn stone steps run down into the tarn on its east shore and on into the dark water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Valley folk say a drowned shrine lies under the tarn, older than the faith of the Ancestors.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Shepherds hang cold iron on the cairn at the top of the tarn path and go no further.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Liss Aske drowned in the tarn fifty-one winters ago, and her body was never found.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Since midwinter folk have seen pale green lights under the tarn on moonless nights.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The ice on the tarn broke up in one night at midwinter and has not formed since.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
+  secrets: "jsonl",
+} as const satisfies Place

@@ -1,0 +1,76 @@
+import type { Place } from "akasha/story/lore/place/place.page-type.types.ts"
+
+export const overwhereIiWendleFord = {
+  id: "01a0ed1d-cfb4-71dd-8b05-6696ed052f3b",
+  type: "page-type/place",
+  slug: "overwhere-ii-wendle-ford",
+  title: "Wendle Ford",
+  world: "world/sovereign-sight-progression-fantasy-cultivation",
+  within: "place/overwhere-ii-wendlemere",
+  facts: [
+    {
+      fact: "Wendle Ford is a village of some two hundred where the valley road fords the Wendle.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Carts go through the ford; walkers take the old stone footbridge beside it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Drowned Lantern is the village inn, kept by Maddy Fenn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At the Drowned Lantern a hot meal is one copper and a bed by the fire is two.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The shrine to Threll holds a tithe vessel of glowing Water, kept by Keeper Anselm.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Goody Brannoc, herbwife and the valley's only healer, lives by the mill race.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hob Tarrant the smith forges cold iron charms and nails as well as plough irons.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Jory Pell is the wheelwright and carpenter, with the Aske cart wheel on his bench.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Reeve's house has the village's only slate roof, beside the green.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Reeve posts notices and bounties on the post outside the Drowned Lantern.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Reeve's bounty is two silver pieces for each greymaw brought in dead.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Market is held on the green every seventh day; the next is in three days.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Coin is short in spring, and most folk trade in kind: wool, oats, eggs, work.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "There is work for strong hands: hauling, fencing folds, and clearing the flood-wrack.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Talk at the Drowned Lantern is of greymaws, the long winter and the lights on the tarn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The village watch is six men with boar spears, led by the Reeve.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
+} as const satisfies Place
