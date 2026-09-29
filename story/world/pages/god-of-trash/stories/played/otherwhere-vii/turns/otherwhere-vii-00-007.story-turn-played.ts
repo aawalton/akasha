@@ -7,7 +7,8 @@ export const otherwhereVii00007 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vii"],
   position: 7,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "\"My father was a scribe. I've mostly worked with my wits and not my muscles. I can read, write, and do sums, but not sure that's needed here.\"",
+  lore: ["lore/otherwhere-vii-aldo-reeve", "place/otherwhere-vii-ashford"],
 } as const satisfies StoryTurnPlayed
