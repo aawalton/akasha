@@ -1,0 +1,1 @@
+{"check":"world-check/otherwhere-vi-action-check","reading":{"band":"easy","bonuses":[{"from":"darkness","by":-1},{"from":"freezing cold","by":-4}]},"dice":{"said":"1d20","sides":20,"faces":[8]},"seed":"c65fe766f4d6b52b61d52c2dec208573d59151b3fa94a98aa8745db7297588cb","answered":{"succeeded":false,"outcome":"failure","total":3,"target":8,"margin":-5}}
