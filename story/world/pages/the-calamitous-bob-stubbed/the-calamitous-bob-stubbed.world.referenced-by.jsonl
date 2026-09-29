@@ -235,7 +235,11 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-viv.world-character.ts","id":"01a0ea76-b048-7d06-9fd8-eb9cea3aee20"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-vulcan.world-character.ts","id":"01a0ea7e-3c79-7c09-b06c-7c03b1395e68"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-wamiri.world-character.ts","id":"01a0ea7d-3779-700f-83d1-606c555b602f"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-yrlin.world-character.ts","id":"01a0ea8c-6e8f-7242-9e15-726473e8dff1"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-zael.world-character.ts","id":"01a0ea8c-6e8f-7fad-8be6-fc13edf2e4db"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-zan-manipeleso.world-character.ts","id":"01a0ea8c-6e90-702f-ba02-a1e4803196aa"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-zero-five.world-character.ts","id":"01a0ea7e-3c79-7e31-9e70-ca5095bddc9e"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-zev.world-character.ts","id":"01a0ea8c-6e90-7fec-8543-683785670ef9"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/designs/otherwhere-xi.story-design.ts","id":"01a0ea62-9aee-7b03-b403-108092cf0431"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-abenezigel.lore.ts","id":"01a0ea74-c7f6-7f5f-9809-e8c03ac792b7"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-aberrant.lore.ts","id":"01a0ea7e-e8ce-7625-a046-05f231623c79"}
@@ -642,8 +646,12 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-witchcraft.lore.ts","id":"01a0ea85-f5f3-7f96-ad8b-7ccde0a647dd"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-wyrm.lore.ts","id":"01a0ea81-9844-754b-a04a-bcb5b74c3439"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-yries.lore.ts","id":"01a0ea77-0c35-7249-a9d2-f88d1b0ae214"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-yrlin.lore.ts","id":"01a0ea8c-6e90-707d-9c7e-8d9d7a9b7b09"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-zael.lore.ts","id":"01a0ea8c-6e91-7dc7-ba3d-844b26e56763"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-zan-manipeleso.lore.ts","id":"01a0ea8c-6e91-7cb1-a18b-235706d779e4"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-zazas.lore.ts","id":"01a0ea87-5ff5-71dd-8ac0-2d50bfe30834"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-zero-five.lore.ts","id":"01a0ea7e-3c7a-79d2-a071-8d113e253db3"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-zev.lore.ts","id":"01a0ea8c-6e91-710e-ae66-3c8883b388d2"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/aspects/otherwhere-xi-aspect-of-the-destroyer.world-aspect.ts","id":"01a0ea8c-6dbd-7442-a089-4107430355bc"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/aspects/otherwhere-xi-aspect-of-the-guardian.world-aspect.ts","id":"01a0ea8c-6dbe-76e1-a5c6-4e7f36e56d38"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/aspects/otherwhere-xi-aspect-of-the-paragon.world-aspect.ts","id":"01a0ea8c-6dbe-7b66-96b7-4e473e5e958e"}
