@@ -4,6 +4,7 @@ export const otherwhereIv00014 = {
   id: "01a0eac9-1c35-77a0-bd71-99b01667a561",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-014",
+  cover: "image/image-c13c05e8936a11b1",
   ownLength: 744,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],
@@ -59,6 +60,6 @@ export const otherwhereIv00014 = {
   ],
   lore: ["lore/otherwhere-iv-boar-hunt", "place/otherwhere-iv-upstream-woods"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T19:46:00.000Z",
 } as const satisfies StoryTurnPlayed
