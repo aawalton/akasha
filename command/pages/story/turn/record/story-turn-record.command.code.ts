@@ -2,7 +2,6 @@ import {
   type Landing,
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { playedTurn } from "akasha/command/argument/pages/played-turn.argument.ts"
 import { recorder as recorderArgument } from "akasha/command/argument/pages/recorder.argument.ts"
@@ -41,10 +40,6 @@ import {
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 
 const NAMED = [playedTurn, recorderArgument] as const
-
-const LORE = "lore"
-
-const CHARACTERS = "characters"
 
 const PARTED = "/"
 
@@ -123,11 +118,7 @@ async function heldOn(
       turnAt: turn.at,
       address: `${storyTurnPlayed.slug}${PARTED}${slug}`,
       calledAs: advancingAs(given.calledAs),
-      lore: reach.loreOf(
-        given.root,
-        stringsIn(turn.value[LORE]),
-        stringsIn(turn.value[CHARACTERS])
-      ),
+      lore: reach.loreGathered(given.root, turn, turn.value).named,
       written: reach.writtenOn(given.root, turn),
     },
   }

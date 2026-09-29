@@ -184,7 +184,7 @@ export function reachOver(
       into.notices.push(`${to}: ${body}`)
       return null
     },
-    loreOf: () => [MARA_LORE],
+    loreGathered: () => ({ values: {}, named: [MARA_LORE] }),
     changedLore: () => [],
     writtenOn: () => [MARA_HEALTH],
     readyPushed: async (_root, game, at) => {

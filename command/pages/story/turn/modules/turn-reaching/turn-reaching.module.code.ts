@@ -25,7 +25,10 @@ import {
   keptForTurn,
   unkeptFromTurn,
 } from "akasha/command/pages/story/turn/modules/turn-keeping/turn-keeping.module.code.ts"
-import { loreNamed } from "akasha/command/pages/story/turn/modules/turn-lore-in-play/turn-lore-in-play.module.code.ts"
+import {
+  type LoreGathered,
+  loreGathered,
+} from "akasha/command/pages/story/turn/modules/turn-lore-gathered/turn-lore-gathered.module.code.ts"
 import {
   loreLine,
   type Recorder,
@@ -40,7 +43,6 @@ import { writtenIndexed } from "akasha/command/pages/story/turn/modules/turn-wri
 import { exclusively } from "akasha/file/modules/exclusive/exclusive.module.code.ts"
 import {
   listedAt,
-  valuesByPath,
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
@@ -59,13 +61,7 @@ import {
   taking,
 } from "akasha/page/service/modules/page-putting/page-putting.module.code.ts"
 import { ACTION_BAR_PLAYER } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
-import { lore } from "akasha/story/lore/lore.page-type.ts"
-import { loreAbout } from "akasha/story/lore/properties/lore-about.relation-property.ts"
 import { changedLoreOfSeat } from "akasha/story/lore-disclosure/modules/lore-rereading/lore-rereading.module.code.ts"
-import {
-  pathOf,
-  withheldIn,
-} from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
 import { storyRecorderInstructions } from "akasha/story/recorder/properties/story-recorder-instructions.file-property.ts"
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
 import { storyReviewerInstructions } from "akasha/story/reviewer/properties/story-reviewer-instructions.file-property.ts"
@@ -114,8 +110,6 @@ const ROLE_STATED = "role-slug"
 
 const GAME_STATED = "domain-slug"
 
-const PERSONA = "persona"
-
 const HOLD_MS = 90_000
 
 export type Turn = { readonly at: string; readonly slug: string; readonly value: Value }
@@ -159,11 +153,11 @@ export type Reach = {
   readonly start: (starting: Starting, done: string[]) => Promise<string>
   readonly stop: (root: string, seat: string) => undefined
   readonly notify: (to: string, body: string) => Promise<string | null>
-  readonly loreOf: (
+  readonly loreGathered: (
     root: string,
-    stated: readonly string[],
-    characters: readonly string[]
-  ) => readonly string[]
+    turn: Turn,
+    values: Readonly<Record<string, unknown>>
+  ) => LoreGathered
   readonly changedLore: (root: string, seat: string) => readonly string[]
   readonly writtenOn: (root: string, turn: Turn) => readonly string[]
   readonly readyPushed: ReadyPushing
@@ -271,30 +265,6 @@ function storyIndexed(root: string, game: string): Story | null {
   return { title: textAt(value, TITLE) ?? game, master: textAt(value, MASTER) }
 }
 
-function personaAt(root: string, character: string): string | null {
-  const address = addressIn(character)
-  if (address.kind !== "qualified") return null
-  const listed = listedAt(root, address.pageTypeSlug, address.slug)[0]
-  const value = listed === undefined ? null : valueAt(listed.path, root)
-  return value === null ? null : textAt(value, PERSONA)
-}
-
-function loreIndexed(
-  root: string,
-  stated: readonly string[],
-  characters: readonly string[]
-): readonly string[] {
-  const about = [...valuesByPath(root, lore.slug)].map(
-    ([path, value]) => [path, textAt(value, loreAbout.propertySlug)] as const
-  )
-  return loreNamed(stated, characters, {
-    pathOf: (page) => pathOf(root, page),
-    personaOf: (character) => personaAt(root, character),
-    about,
-    withheld: withheldIn(root),
-  })
-}
-
 function heldAlready(at: string, content: string): boolean {
   return existsSync(at) && readFileSync(at, "utf8") === content
 }
@@ -373,7 +343,7 @@ export const REACHED: Reach = {
   start: seatStarted,
   stop: stoppedApart,
   notify: noticeSent,
-  loreOf: loreIndexed,
+  loreGathered,
   changedLore: changedLoreOfSeat,
   writtenOn: writtenIndexed,
   readyPushed: readyNotified,

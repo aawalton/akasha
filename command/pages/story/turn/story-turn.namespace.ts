@@ -11,6 +11,7 @@ export const storyTurn = {
     "command/story-turn-rewind",
     "command/story-turn-take-back",
     "module/turn-keeping",
+    "module/turn-lore-gathered",
     "module/turn-lore-in-play",
     "module/turn-prompting",
     "module/turn-reaching",

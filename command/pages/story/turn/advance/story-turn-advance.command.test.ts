@@ -58,19 +58,18 @@ test("the game master's beats land on the turn and tell the writer the lore to r
   expect(into.stops).toEqual([])
 })
 
-test("the lore in play is looked up from the lore and the characters the turn itself names", async () => {
-  const asked: (readonly string[])[] = []
+test("the lore in play is gathered from the turn, its game and the step's values", async () => {
+  const asked: unknown[] = []
   const turn = turnAt("game-master", { lore: ["lore/grace"] })
   const reach: Reach = {
     ...reachOver(turn, seatOf("game-master", MASTER), seen()),
-    loreOf: (_root, stated, characters) => {
-      asked.push(stated, characters)
-      return []
+    loreGathered: (_root, held) => {
+      asked.push(held.value["lore"])
+      return { values: {}, named: [] }
     },
   }
-  const answer = await advancedBy(["--beats-file", join(ROOT, "beats.txt")], reach)
-  expect(answer.refusals).toEqual([])
-  expect(asked).toEqual([["lore/grace"], []])
+  await advancedBy(["--beats-file", join(ROOT, "beats.txt")], reach)
+  expect(asked).toEqual([["lore/grace"]])
 })
 
 test("the last reviewer's clean review starts the recorders and stops the reviewer's seat", async () => {

@@ -139,7 +139,7 @@ export function reachOver(turn: Turn, into: Seen, story: Story = {}): Cancelling
       into.notices.push(`${to}: ${body}`)
       return null
     },
-    loreOf: () => [],
+    loreGathered: () => ({ values: {}, named: [] }),
     changedLore: () => [],
     writtenOn: () => story.written ?? [],
     readyPushed: async () => "a cancel pushes nothing",

@@ -63,6 +63,11 @@ export const turnReaching = {
       statement: "No withheld lore page is named as lore in play.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An advance writes the lore in play onto the turn's own list as it moves the turn.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A turn naming no lore and no character has no lore in play, and none is named.",
     },

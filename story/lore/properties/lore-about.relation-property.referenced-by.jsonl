@@ -1,5 +1,5 @@
 {"propertySlug":"import","fileName":"lore-about.relation-property.ts","path":"command/pages/story/tell/story-tell.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"lore-about.relation-property.ts","path":"command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lore-about.relation-property.ts","path":"command/pages/story/turn/modules/turn-lore-gathered/turn-lore-gathered.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore-about.relation-property.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore-about.relation-property.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore-about.relation-property.types.ts","path":"story/lore/lore.page-type.types.ts","typed":true,"deferred":false}

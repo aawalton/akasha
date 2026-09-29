@@ -13,6 +13,23 @@ export const turnLoreInPlay = {
         "The lore in play is the lore the turn or chapter names and the lore about its characters.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The lore in play is also the lore and places its world gained or changed while it was open.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The list a turn or chapter holds is written afresh as the turn moves.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The list holds the lore in play rather than what the world builder handed in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The list drops an address no page answers to, and keeps one no seat may read.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the disk.",
     },

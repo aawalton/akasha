@@ -287,6 +287,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/story/turn/cancel/story-turn-cancel.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/story/turn/cancel/story-turn-cancel.command.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/story/turn/modules/turn-keeping/turn-keeping.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/story/turn/modules/turn-lore-gathered/turn-lore-gathered.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/story/turn/modules/turn-ready-pushing/turn-ready-pushing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"command/pages/story/turn/modules/turn-written/turn-written.module.code.ts","typed":true,"deferred":false}

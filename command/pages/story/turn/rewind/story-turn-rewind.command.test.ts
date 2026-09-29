@@ -120,7 +120,7 @@ function reachOver(turn: Turn, into: Seen, latest = SLUG): Rewinding {
       into.notices.push(`${to}: ${body}`)
       return null
     },
-    loreOf: () => [],
+    loreGathered: () => ({ values: {}, named: [] }),
     changedLore: () => [],
     writtenOn: () => [],
     readyPushed: async () => "a rewind pushes nothing",

@@ -96,8 +96,6 @@ const RECORDED_BY = "recordedBy"
 
 const PROSE = "prose"
 
-const CHARACTERS = "characters"
-
 const STORY = "story"
 
 const OWN_LENGTH = "ownLength"
@@ -302,13 +300,14 @@ async function heldOn(
   const lifted = liftedFrom(turn, kept, () => reach.textIn(given.root, turn.at))
   if ("refused" in lifted) return back([lifted.refused])
   const own = kept.filter((one) => !lifted.rest.includes(one))
+  const inPlay = reach.loreGathered(given.root, turn, said.values)
   const titled = read.title === undefined ? {} : { [TITLE]: read.title }
   const naming: Naming = {
     pageTypeSlug: typeOf(read),
     slug,
     path: turn.at,
     merge: true,
-    values: { ...lifted.values, ...said.values, ...titled },
+    values: { ...lifted.values, ...said.values, ...titled, ...inPlay.values },
     ...(said.prose === null ? {} : { bodies: { prose: said.prose } }),
   }
   const folded = reach.fold(given.root, naming)
@@ -349,11 +348,7 @@ async function heldOn(
       address: `${typeOf(read)}${PARTED}${now.slug}`,
       ...(held.noun === undefined ? {} : { noun: held.noun }),
       calledAs: given.calledAs,
-      lore: reach.loreOf(
-        given.root,
-        stringsIn(said.values[LORE] ?? turn.value[LORE]),
-        stringsIn(said.values[CHARACTERS] ?? turn.value[CHARACTERS])
-      ),
+      lore: inPlay.named,
       written: reach.writtenOn(given.root, turn),
       ...(read.chapter ? {} : { described: describedIndexed(given.root, turn) }),
     },

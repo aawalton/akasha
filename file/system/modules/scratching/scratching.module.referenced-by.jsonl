@@ -225,6 +225,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/read/modules/lore-barring/lore-barring.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/read/read.command.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/story/turn/modules/turn-lore-gathered/turn-lore-gathered.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/talos/apply/talos-apply.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/talos/secret-gen/talos-secret-gen.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/temper/addon/list/temper-addon-list.command.test.ts","typed":false,"deferred":false}
@@ -390,6 +391,7 @@
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"command/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"command/pages/read/read.command.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"command/pages/story/turn/modules/turn-lore-gathered/turn-lore-gathered.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"domain/context/modules/agent-stated/agent-stated.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"domain/context/modules/warranting/warranting.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"domain/context/modules/warranting/warranting.module.test.ts","typed":false,"deferred":false}

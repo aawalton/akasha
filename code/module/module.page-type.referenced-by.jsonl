@@ -1377,6 +1377,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/turn/advance/modules/turn-handing/turn-handing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/turn/modules/turn-keeping/turn-keeping.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/turn/modules/turn-lore-gathered/turn-lore-gathered.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/turn/modules/turn-lore-in-play/turn-lore-in-play.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/turn/modules/turn-prompting/turn-prompting.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/story/turn/modules/turn-reaching/turn-reaching.module.ts","typed":true,"deferred":false}

@@ -1,3 +1,8 @@
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+
+const HELD = "ts"
+
 export type LoreLooking = {
   readonly pathOf: (page: string) => string | null
   readonly personaOf: (character: string) => string | null
@@ -5,7 +10,30 @@ export type LoreLooking = {
   readonly withheld: readonly string[]
 }
 
-export function loreNamed(
+export type LoreAtHand = {
+  readonly stated: readonly string[]
+  readonly characters: readonly string[]
+  readonly changed: readonly string[]
+  readonly look: LoreLooking
+}
+
+function addressOf(path: string): string | null {
+  const parted = partedIn(path)
+  if (parted === null || parted.sections.length > 0 || parted.held !== HELD) return null
+  return namedAs(parted.pageType, parted.slug, null)
+}
+
+function addressesIn(paths: readonly string[], look: LoreLooking): readonly string[] {
+  const found: string[] = []
+  for (const path of paths) {
+    if (look.withheld.includes(path)) continue
+    const address = addressOf(path)
+    if (address !== null) found.push(address)
+  }
+  return found
+}
+
+function foundIn(
   stated: readonly string[],
   characters: readonly string[],
   look: LoreLooking
@@ -13,5 +41,22 @@ export function loreNamed(
   const about = new Set([...characters, ...characters.flatMap((one) => look.personaOf(one) ?? [])])
   const found = new Set(stated.flatMap((one) => look.pathOf(one) ?? []))
   for (const [path, said] of look.about) if (said !== null && about.has(said)) found.add(path)
-  return [...found].filter((path) => !look.withheld.includes(path)).sort()
+  return [...found]
+}
+
+export function loreNamed(
+  stated: readonly string[],
+  characters: readonly string[],
+  look: LoreLooking
+): readonly string[] {
+  return foundIn(stated, characters, look)
+    .filter((path) => !look.withheld.includes(path))
+    .sort()
+}
+
+export function loreKept(atHand: LoreAtHand): readonly string[] {
+  const named = atHand.stated.filter((one) => atHand.look.pathOf(one) !== null)
+  const about = foundIn([], atHand.characters, atHand.look)
+  const added = addressesIn([...about, ...atHand.changed], atHand.look)
+  return [...new Set([...named, ...added])].sort()
 }

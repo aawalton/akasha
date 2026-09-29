@@ -145,7 +145,7 @@ export function reachOver(turn: Turn, into: Seen, story: Story = {}): TakingBack
       into.notices.push(`${to}: ${body}`)
       return null
     },
-    loreOf: () => [],
+    loreGathered: () => ({ values: {}, named: [] }),
     changedLore: () => [],
     writtenOn: () => [],
     readyPushed: async () => "a take-back pushes nothing",
