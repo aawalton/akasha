@@ -22,7 +22,11 @@ export const otherwhereIiiPriyaRaman = {
     },
     {
       fact: "Shelter beds open at five in the evening; the day must be spent elsewhere.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-priya-raman",
+      ],
     },
     {
       fact: "She can give her a transit card loaded with twenty dollars and a bag from the clothing closet.",
@@ -71,15 +75,43 @@ export const otherwhereIiiPriyaRaman = {
     },
     {
       fact: "Priya calls Harbor House from her phone and reserves Nala a bed in her name.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-priya-raman",
+      ],
     },
     {
       fact: "By day she points Nala to the Uptown library, open nine to five, free and warm.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-priya-raman",
+      ],
     },
     {
       fact: "Priya writes the shelter's address and her own desk number on a card for Nala.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-priya-raman",
+      ],
+    },
+    {
+      fact: "Priya gives Nala a transit card with twenty dollars on it and a bag of clothes.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-priya-raman",
+      ],
+    },
+    {
+      fact: "The bag holds a green puffy coat, grey sweatpants, underwear, thick socks and scuffed snow boots.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-priya-raman",
+      ],
     },
   ],
 } as const satisfies Lore

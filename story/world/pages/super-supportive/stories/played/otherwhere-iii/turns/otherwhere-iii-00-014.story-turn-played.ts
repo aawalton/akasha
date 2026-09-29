@@ -33,6 +33,6 @@ export const otherwhereIii00014 = {
   ],
   lore: ["place/otherwhere-iii-harbor-house", "lore/otherwhere-iii-priya-raman"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2037-01-31T08:30:00.000Z",
 } as const satisfies StoryTurnPlayed

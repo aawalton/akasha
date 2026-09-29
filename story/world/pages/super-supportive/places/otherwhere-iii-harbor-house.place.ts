@@ -13,7 +13,11 @@ export const otherwhereIiiHarborHouse = {
     },
     {
       fact: "It is a ten-minute walk from the Uptown Memorial ER.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-priya-raman",
+      ],
     },
     {
       fact: "It sleeps forty women in bunk rooms, with showers and padlocked lockers.",
@@ -29,7 +33,11 @@ export const otherwhereIiiHarborHouse = {
     },
     {
       fact: "Intake asks for a name only; no ID is needed.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-priya-raman",
+      ],
     },
     {
       fact: "No drugs, no drink and no men past the lobby; a staffer is awake all night.",
@@ -37,7 +45,27 @@ export const otherwhereIiiHarborHouse = {
     },
     {
       fact: "A bed the social worker reserves is held until seven; a no-show loses it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-priya-raman",
+      ],
+    },
+    {
+      fact: "Harbor House is a women's shelter in a church hall on Sunnyside.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-priya-raman",
+      ],
+    },
+    {
+      fact: "Harbor House doors open at five in the evening, and dinner is at six.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-priya-raman",
+      ],
     },
   ],
   within: "place/otherwhere-iii-chicago",
