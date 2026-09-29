@@ -7,7 +7,8 @@ export const otherwhereVii00010 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vii"],
   position: 10,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     '"I will gladly stay, but on the condition that you let me teach you and anyone else you decide as well. You should learn enough to keep your own count with confidence, so no one can cheat you."',
+  lore: ["lore/otherwhere-vii-aldo-reeve", "lore/otherwhere-vii-tamsin"],
 } as const satisfies StoryTurnPlayed
