@@ -238,7 +238,11 @@ export const otherwhereViiiTheInstitute = {
     },
     {
       fact: "A proved claimant lodging at the Institute would have a small room over the workshop.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-viii-hallick",
+        "character-player/otherwhere-viii-nala",
+      ],
     },
     {
       fact: "The rule behind the numbers is plain: focus distance falls as thickness rises, in proportion.",
