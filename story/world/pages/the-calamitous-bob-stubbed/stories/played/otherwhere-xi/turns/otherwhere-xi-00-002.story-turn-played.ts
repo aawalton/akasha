@@ -10,7 +10,7 @@ export const otherwhereXi00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-xi-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "I start walking towards the houses, looking for people.",
   beats: [
     "Nala leaves the ring by the road side, past a ninth stone lying fallen outward in the grass.",
@@ -29,7 +29,7 @@ export const otherwhereXi00002 = {
     "He glances past her, up the road at the stone ring, then back at her.",
     '"Sardanal keep you," he says, from a careful distance.',
     "The words are in no language she has ever heard, and she understands them as plainly as English.",
-    "He says nothing more: he stands, one hand on the dog's scruff, waiting for her to speak.",
+    "Behind him the flock spills onto the verge and starts cropping the wet grass.",
   ],
   issues: [
     '"He doesn\'t say anything else. He stands in the road" - No Prompt',
