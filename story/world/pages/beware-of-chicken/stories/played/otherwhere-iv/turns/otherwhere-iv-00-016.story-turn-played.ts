@@ -4,6 +4,7 @@ export const otherwhereIv00016 = {
   id: "01a0eb11-1bf4-7e2f-82a6-b24948062e7e",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-016",
+  cover: "image/image-8d50ab190ceaa1d8",
   ownLength: 274,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],
@@ -39,6 +40,6 @@ export const otherwhereIv00016 = {
   issues: ['"and her hand stays well away from the latch of the gate" - Leave It Open'],
   lore: ["lore/otherwhere-iv-granny-hua", "lore/otherwhere-iv-nala"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-29T06:33:00.000Z",
 } as const satisfies StoryTurnPlayed
