@@ -41,5 +41,6 @@ export const otherwhereIv00017 = {
     '"You\'re a spirit of knowledge, they tell me. So. Tell me what ails it."',
   ],
   lore: ["lore/otherwhere-iv-granny-hua", "lore/otherwhere-iv-nala"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T06:37:00.000Z",
 } as const satisfies StoryTurnPlayed
