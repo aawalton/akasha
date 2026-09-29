@@ -10,7 +10,7 @@ export const otherwhereIx00010 = {
   position: 10,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I keep pushing until it dies. \"System? Status? Now would be a great time for a level up or some kind of regeneration talent. I feel like I've gotten a raw deal here. If I die now, I'll be complaining to Death about whoever brought me here.\"",
   beats: [
@@ -46,6 +46,6 @@ export const otherwhereIx00010 = {
     "lore/otherwhere-ix-stat-points",
     "lore/otherwhere-ix-status",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T15:43:00.000Z",
 } as const satisfies StoryTurnPlayed
