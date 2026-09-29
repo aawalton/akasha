@@ -4,6 +4,7 @@ export const bunnyGirlEvolution0040228MeetYourBrandNewTeacher = {
   id: "01a0ebfe-9ec4-7508-b0c1-e580b39d4d78",
   type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0040-228-meet-your-brand-new-teacher",
+  ownProgress: 4096,
   position: 40,
   publishedAt: "2026-09-29",
   unit: "unit/words",
