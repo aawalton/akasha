@@ -11,7 +11,7 @@ export const otherwhereIx00009 = {
   position: 9,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I jam my forearms into its throat, glass and all. Either it will die first or I will, and the other will soon follow.",
   beats: [
@@ -29,6 +29,6 @@ export const otherwhereIx00009 = {
   ],
   lore: ["lore/otherwhere-ix-shardback"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
   endsAt: "2026-09-28T15:41:00.000Z",
 } as const satisfies StoryTurnPlayed
