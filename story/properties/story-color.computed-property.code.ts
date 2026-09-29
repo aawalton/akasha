@@ -1,8 +1,11 @@
+import { assignmentSlug } from "akasha/agent/properties/assignment-slug.one-of-property.ts"
+import { working } from "akasha/agent/seat/turn-state/pages/working/working.seat-turn-state.ts"
+import { seatTurnState } from "akasha/agent/seat/turn-state/seat-turn-state.page-type.ts"
 import { partOfCollections } from "akasha/alan/collection/properties/part-of-collections.multi-relation-property.ts"
 import { color } from "akasha/design/interface/color/color.page-type.ts"
 import { green } from "akasha/design/interface/color/pages/green.color.ts"
 import { red } from "akasha/design/interface/color/pages/red.color.ts"
-import type { Work } from "akasha/page/computed-property/computed-property.page-type.ts"
+import type { Reach, Work } from "akasha/page/computed-property/computed-property.page-type.ts"
 import { chapterStory } from "akasha/story/chapter/properties/chapter-story.relation-property.ts"
 import { player } from "akasha/story/chapter/step-status/pages/player.step-status.ts"
 import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
@@ -17,9 +20,19 @@ const WORKING = `${color.slug}${PARTED}${green.slug}`
 
 const WAITING = `${color.slug}${PARTED}${red.slug}`
 
+const SEAT_WORKING = `${seatTurnState.slug}${PARTED}${working.slug}`
+
 type Stepped = {
   readonly position?: number
   readonly stepStatus?: string
+}
+
+type Seated = { readonly turnState?: string }
+
+function worked(reach: Reach): boolean {
+  return reach
+    .naming<Seated>(assignmentSlug.propertySlug)
+    .some((one) => one.turnState === SEAT_WORKING)
 }
 
 function furthest(held: readonly Stepped[]): Stepped | null {
@@ -32,11 +45,14 @@ function furthest(held: readonly Stepped[]): Stepped | null {
 
 export const work: Work<Story, StoryColor> = (_page, reach) => {
   const turn = furthest(reach.naming<Stepped>(partOfCollections.slug))
-  if (turn !== null) return turn.stepStatus === PLAYER_STEP ? WAITING : WORKING
+  if (turn !== null) {
+    if (turn.stepStatus === PLAYER_STEP) return WAITING
+    return worked(reach) ? WORKING : null
+  }
   const making = reach
     .naming<Stepped>(chapterStory.slug)
     .filter((one) => typeof one.stepStatus === "string" && one.stepStatus !== "")
   const chapter = furthest(making)
   if (chapter === null || chapter.stepStatus === PLAYER_STEP) return null
-  return WORKING
+  return worked(reach) ? WORKING : null
 }

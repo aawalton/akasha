@@ -29,7 +29,19 @@ export const storyColor = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A step status other than `player` is a step in flight, drawn in `color/green`.",
+      statement: "A story's seats are the pages naming it under `assignment-slug`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A step other than `player` is in flight while a seat of its story is `working`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A step in flight is drawn in `color/green`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A step no seat of its story is working draws no color, whatever its status says.",
     },
     {
       decisionKind: "decision-kind/departure",
