@@ -14,11 +14,23 @@ export const superSupportiveEsh = {
     },
     {
       fact: "Esh-erdi is not on Earth now; he is off-world, beyond a consulate's easy reach.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-iii-onn-desveth",
+        "character-player/otherwhere-iii-nala",
+      ],
     },
     {
       fact: "He and Lind-otta come to Earth later this year, to back up the demon fight at Matadero.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala told Onn-desveth that Esh-erdi should come to Earth soon for his inesvul.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-onn-desveth",
+      ],
     },
   ],
   secrets: "jsonl",

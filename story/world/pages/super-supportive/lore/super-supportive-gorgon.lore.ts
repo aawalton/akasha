@@ -180,6 +180,10 @@ export const superSupportiveGorgon = {
       fact: "During Nala's screening he kept his black eyes on the monitors, his nose slits wide.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
+    {
+      fact: "When Nala named Esh-erdi, his golden bindings at the desk flickered once, then settled.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

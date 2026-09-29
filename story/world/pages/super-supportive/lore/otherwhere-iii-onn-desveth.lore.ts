@@ -256,15 +256,35 @@ export const otherwhereIiiOnnDesveth = {
     },
     {
       fact: "She knows Esh-erdi by name and rank only, and he has never heard of Nala.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-iii-onn-desveth",
+        "character-player/otherwhere-iii-nala",
+      ],
     },
     {
       fact: "She cannot summon a Knight of the Mother Planet; she could only send a message, and wait.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-iii-onn-desveth",
+        "character-player/otherwhere-iii-nala",
+      ],
     },
     {
       fact: "A message to a knight would carry Nala's secret past her, which she meant to avoid.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-iii-onn-desveth",
+        "character-player/otherwhere-iii-nala",
+      ],
+    },
+    {
+      fact: "She told Nala to name Esh-erdi and wait while her secret travels, or name someone in this city.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-onn-desveth",
+      ],
     },
   ],
 } as const satisfies Lore
