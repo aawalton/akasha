@@ -127,6 +127,10 @@ export const superSupportiveArtonanConsulate4 = {
       fact: "On a Saturday that supervisor is on call, and can reach the lobby within the hour.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Gorgon's supervisor, a female Artonan, was penalized for 'consorting with a demon'.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   within: "place/otherwhere-iii-chicago",
   secrets: "jsonl",
