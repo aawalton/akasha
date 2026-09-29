@@ -7,5 +7,8 @@ export const superSupportiveSystemCall = {
   title: "System calls",
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-system-call",
+  facts: [
+    { fact: "A low-priority contact is put in a queue.", knowers: ["lore-disclosure/game-master"] },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
