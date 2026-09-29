@@ -9,7 +9,11 @@ export const haremHotelFloor2 = {
   facts: [
     {
       fact: "Floor 2 is a Roman bathhouse of white marble, warm and heavy with steam.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-odile",
+      ],
     },
     {
       fact: "The stairs from the lobby come up into a changing room of cedar benches and white linen towels.",
