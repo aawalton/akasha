@@ -53,6 +53,10 @@ export const otherwhereXiOleander = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Oleander also held Enduring Orb, and regretted choosing so defensive a path.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Maranor gave Oleander red wings at his coronation.",
       knowers: ["lore-disclosure/game-master"],
     },
