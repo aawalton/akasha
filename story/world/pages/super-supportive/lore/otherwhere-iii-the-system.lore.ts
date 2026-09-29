@@ -44,6 +44,10 @@ export const otherwhereIiiTheSystem = {
       fact: "No one else can see an Avowed's interface.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Through a caller's sigil the System perceives the caller, and finds no record of Nala anywhere.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
