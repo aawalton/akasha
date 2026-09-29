@@ -172,11 +172,25 @@ test("a turn before player is refused, since it is cancelled rather than taken b
   expect(into.stops).toEqual([])
 })
 
-test("a turn no commit made from the player's action is refused", async () => {
+test("a turn whose page no commit added is refused", async () => {
   const into = seen()
-  const reach = { ...reachOver(turnAt(), into), commitsOn: () => [] }
+  const reach = { ...reachOver(turnAt(), into), addedOn: () => null }
   const answer = await takenBy(reach, into)
-  expect(answer.refusals.join(" ")).toContain("from the player's action")
+  expect(answer.refusals.join(" ")).toContain(`no commit added \`${AT}\``)
+  expect(into.asked).toEqual([])
+})
+
+test("a git that cannot be read refuses and says why, and nothing lands", async () => {
+  const into = seen()
+  const reach: TakingBack = {
+    ...reachOver(turnAt(), into),
+    commitsOn: () => {
+      throw new Error("git: not found")
+    },
+  }
+  const answer = await takenBy(reach, into)
+  expect(answer.refusals.join(" ")).toContain("git could not read the history")
+  expect(answer.refusals.join(" ")).toContain("git: not found")
   expect(into.asked).toEqual([])
 })
 

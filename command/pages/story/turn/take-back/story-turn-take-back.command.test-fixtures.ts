@@ -218,6 +218,7 @@ export function reachOver(turn: Turn, into: Seen, story: Story = {}): TakingBack
     },
     foldersOf: () => ({ story: STORY, world: WORLD }),
     commitsOn: (_root, range) => (range === "HEAD" ? HISTORY : (story.run ?? RUN)),
+    addedOn: () => MADE,
     bodyThen: (_root, commit, path) => {
       if (commit === `${MADE}^`) return (story.before ?? BEFORE)[path] ?? null
       const ended = commit === MOVED || commit === "HEAD"

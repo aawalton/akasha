@@ -1,7 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { join } from "node:path"
-import { besideListed } from "akasha/command/pages/story/turn/modules/turn-undoing/turn-undoing.module.code.ts"
+import { dirname, join } from "node:path"
+import {
+  besideListed,
+  TURN_UNDOING,
+  undoingOf,
+} from "akasha/command/pages/story/turn/modules/turn-undoing/turn-undoing.module.code.ts"
+import { said } from "akasha/git/modules/running/git-running.module.code.ts"
 
 const ROOT = mkdtempSync(join("/var/tmp", "turn-undoing-test-"))
 
@@ -22,4 +27,73 @@ test("the files beside a turn are its own files, never a folder such as its hold
     "turns/one-003.story-turn-played.prose.txt",
     "turns/one-003.story-turn-played.ts",
   ])
+})
+
+const REPO = join(ROOT, "repo")
+
+const FOLDERS = { story: "worlds/w/stories/played/otherwhere/", world: "worlds/w/" }
+
+const SLUG = "otherwhere-00-011"
+
+const AT = `${FOLDERS.story}turns/${SLUG}.story-turn-played.ts`
+
+const HALL_AT = `${FOLDERS.world}lore/the-hall.lore.ts`
+
+const HALL_BEFORE = 'facts: ["The hall is cold."], knowers: []\n'
+
+const HALL_RECORDED =
+  'facts: ["The hall is cold.", "Mara hid the key."], knowers: ["character-player/mara"]\n'
+
+const WHO = ["-c", "user.name=t", "-c", "user.email=t@t", "-c", "commit.gpgsign=false"]
+
+function git(...argv: string[]): string {
+  return said(REPO, [...WHO, ...argv]).trim()
+}
+
+function committed(subject: string, bodies: Readonly<Record<string, string>>) {
+  for (const [path, body] of Object.entries(bodies)) {
+    mkdirSync(join(REPO, dirname(path)), { recursive: true })
+    writeFileSync(join(REPO, path), body)
+  }
+  git("add", "-A")
+  git("commit", "--no-verify", "-q", "-m", subject)
+}
+
+mkdirSync(REPO)
+git("init", "-q")
+committed("the world opens", { [HALL_AT]: HALL_BEFORE })
+committed("3 writes arrived together, so they land together", {
+  [AT]: "made\n",
+  "agents/one.ts": "one\n",
+})
+committed(`${SLUG} moves from world-builder to game-master`, { [AT]: "at game-master\n" })
+committed(`${SLUG} moves from recorders to recorders`, {
+  [AT]: "recorded\n",
+  [HALL_AT]: HALL_RECORDED,
+})
+committed(`${SLUG} moves from recorders to player`, { [AT]: "at player\n" })
+
+const TURN = { at: AT, slug: SLUG, value: {} }
+
+test("a turn made in a batched commit has the lore its recorders landed put back", () => {
+  expect(undoingOf(TURN_UNDOING, REPO, TURN, FOLDERS)).toMatchObject({
+    restored: [
+      { path: HALL_AT, body: HALL_BEFORE },
+      { path: AT, body: null },
+    ],
+  })
+})
+
+test("a turn not yet at player is undone up to the latest commit", () => {
+  expect(undoingOf(TURN_UNDOING, REPO, TURN, FOLDERS, false)).toMatchObject({
+    restored: [
+      { path: HALL_AT, body: HALL_BEFORE },
+      { path: AT, body: null },
+    ],
+  })
+})
+
+test("a history git cannot read refuses and says so", () => {
+  const refused = undoingOf(TURN_UNDOING, join(ROOT, "no-repo"), TURN, FOLDERS)
+  expect(refused).toMatchObject({ refused: expect.stringContaining("git could not read") })
 })

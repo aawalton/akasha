@@ -2,6 +2,7 @@ import { readdirSync } from "node:fs"
 import { dirname, join } from "node:path"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
+  addedLogged,
   bodyCommitted,
   type Commit,
   commitsLogged,
@@ -33,8 +34,6 @@ const PAGE_ENDING = ".ts"
 
 const UNCOMMITTED = ".uncommitted."
 
-const MADE = " is made from the player's action"
-
 const TO_PLAYER = ` to ${PLAYER}`
 
 const MOVES = " moves from "
@@ -46,6 +45,7 @@ export type Folders = { readonly story: string; readonly world: string }
 export type TurnUndoing = {
   readonly foldersOf: (root: string, game: string) => Folders | null
   readonly commitsOn: (root: string, range: string, within: readonly string[]) => readonly Commit[]
+  readonly addedOn: (root: string, path: string) => string | null
   readonly bodyThen: (root: string, commit: string, path: string) => string | null
   readonly bodyNow: (root: string, path: string) => string | null
   readonly besideOnDisk: (root: string, turn: string) => readonly string[]
@@ -74,6 +74,7 @@ export function besideListed(root: string, turn: string): readonly string[] {
 export const TURN_UNDOING: TurnUndoing = {
   foldersOf: foldersIndexed,
   commitsOn: commitsLogged,
+  addedOn: addedLogged,
   bodyThen: bodyCommitted,
   bodyNow: (root, path) => textOnDisk(join(root, path)),
   besideOnDisk: besideListed,
@@ -84,18 +85,21 @@ export type Refused = { readonly refused: string }
 type Making = { readonly made: string; readonly moved: string }
 
 export function makingOf(
-  slug: string,
+  turn: Turn,
+  made: string | null,
   history: readonly Commit[],
   published: boolean
 ): Making | Refused {
-  const moved = history.find(
-    (one) => one.subject.startsWith(`${slug}${MOVES}`) && one.subject.endsWith(TO_PLAYER)
-  )
-  const made = history.find((one) => one.subject === `${slug}${MADE}`)
-  if (made === undefined) return { refused: `no commit made \`${slug}\` from the player's action` }
-  if (!published) return { made: made.commit, moved: HEAD }
-  if (moved === undefined) return { refused: `no commit moved \`${slug}\` to ${PLAYER}` }
-  return { made: made.commit, moved: moved.commit }
+  if (made === null) return { refused: `no commit added \`${turn.at}\`` }
+  if (!published) return { made, moved: HEAD }
+  const since = history.findIndex((one) => one.commit === made)
+  const moved = history
+    .slice(0, since === -1 ? history.length : since)
+    .find(
+      (one) => one.subject.startsWith(`${turn.slug}${MOVES}`) && one.subject.endsWith(TO_PLAYER)
+    )
+  if (moved === undefined) return { refused: `no commit moved \`${turn.slug}\` to ${PLAYER}` }
+  return { made, moved: moved.commit }
 }
 
 function derived(path: string): boolean {
@@ -145,7 +149,23 @@ export function undoingOf(
   folders: Folders,
   published = true
 ): Undoing | Refused {
-  const making = makingOf(turn.slug, reach.commitsOn(root, HEAD, [turn.at]), published)
+  try {
+    return undoingRead(reach, root, turn, folders, published)
+  } catch (thrown) {
+    const why = thrown instanceof Error ? thrown.message : String(thrown)
+    return { refused: `git could not read the history of \`${turn.at}\` here: ${why}` }
+  }
+}
+
+function undoingRead(
+  reach: TurnUndoing,
+  root: string,
+  turn: Turn,
+  folders: Folders,
+  published: boolean
+): Undoing | Refused {
+  const history = reach.commitsOn(root, HEAD, [turn.at])
+  const making = makingOf(turn, reach.addedOn(root, turn.at), history, published)
   if ("refused" in making) return making
   const since = published ? `\`${turn.slug}\` moved to ${PLAYER}` : "the latest commit"
   const before = `${making.made}^`

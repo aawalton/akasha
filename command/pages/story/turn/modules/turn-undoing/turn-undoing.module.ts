@@ -15,7 +15,21 @@ export const turnUndoing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The commit making a turn is the latest commit adding its page, whatever that commit says.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The commit moving a turn to player is one after the commit making it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The making of a turn not yet at player runs to the latest commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A history git cannot read refuses and says why rather than reading as no history.",
     },
     {
       decisionKind: "decision-kind/departure",

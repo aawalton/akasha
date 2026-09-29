@@ -1,5 +1,5 @@
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
-import { told as gitTold } from "akasha/git/modules/running/git-running.module.code.ts"
+import { said as gitSaid } from "akasha/git/modules/running/git-running.module.code.ts"
 
 const RECORD = "\x1e"
 
@@ -34,8 +34,24 @@ export function commitsLogged(
   within: readonly string[]
 ): readonly Commit[] {
   const format = `--format=${RECORD}%H${FIELD}%s`
-  const said = gitTold(root, ["log", "--no-renames", "--name-only", format, range, "--", ...within])
-  return said === null ? [] : commitsIn(said)
+  return commitsIn(
+    gitSaid(root, ["log", "--no-renames", "--name-only", format, range, "--", ...within])
+  )
+}
+
+export function addedLogged(root: string, path: string): string | null {
+  const said = gitSaid(root, [
+    "log",
+    "--no-renames",
+    "--diff-filter=A",
+    "--format=%H",
+    "-1",
+    "HEAD",
+    "--",
+    path,
+  ])
+  const commit = said.trim()
+  return commit === "" ? null : commit
 }
 
 export function bodyCommitted(root: string, commit: string, path: string): string | null {
