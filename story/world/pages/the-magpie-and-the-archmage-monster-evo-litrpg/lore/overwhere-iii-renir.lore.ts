@@ -29,7 +29,7 @@ export const overwhereIiiRenir = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "He favours fire and ice, and solves most problems by overwhelming force.",
+      fact: "He favors fire and ice, and solves most problems by overwhelming force.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

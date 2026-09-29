@@ -13,7 +13,7 @@ export const overwhereIiiSmokey = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "He is now an Ironscale Wyvern, bred for defence: huge body, tough scales, tough wing membranes.",
+      fact: "He is now an Ironscale Wyvern, bred for defense: huge body, tough scales, tough wing membranes.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

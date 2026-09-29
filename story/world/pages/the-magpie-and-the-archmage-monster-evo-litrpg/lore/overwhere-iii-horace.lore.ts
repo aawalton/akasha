@@ -21,7 +21,7 @@ export const overwhereIiiHorace = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "He favours the Path of Mystic Prism and scorns Lost Magic.",
+      fact: "He favors the Path of Mystic Prism and scorns Lost Magic.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

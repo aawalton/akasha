@@ -41,7 +41,7 @@ export const overwhereIiiMagic = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Nodes make the land about them lush; a used node may flare up as if in defence.",
+      fact: "Nodes make the land about them lush; a used node may flare up as if in defense.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -81,7 +81,7 @@ export const overwhereIiiMagic = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The skill shop gives a spell's knowledge outright, skipping study; adventurer mages favour it.",
+      fact: "The skill shop gives a spell's knowledge outright, skipping study; adventurer mages favor it.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

@@ -25,7 +25,7 @@ export const overwhereIiiDolphar = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "He offered merfolk guards at the dungeon gate and the oasis, as a favour to Liora's mate.",
+      fact: "He offered merfolk guards at the dungeon gate and the oasis, as a favor to Liora's mate.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

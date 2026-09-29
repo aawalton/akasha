@@ -46,7 +46,7 @@ export const overwhereIiiSerenaRembrack = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Liora's favourite human; the bird speaks most often in Serena's calm voice.",
+      fact: "Liora's favorite human; the bird speaks most often in Serena's calm voice.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

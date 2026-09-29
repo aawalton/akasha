@@ -25,7 +25,7 @@ export const overwhereIiiCaspian = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "He casts rapid healing, defence buffs, and Affliction Nullification, a costly ward from ailments.",
+      fact: "He casts rapid healing, defense buffs, and Affliction Nullification, a costly ward from ailments.",
       knowers: ["lore-disclosure/game-master"],
     },
     { fact: "His singing voice counters sonic attacks.", knowers: ["lore-disclosure/game-master"] },

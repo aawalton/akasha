@@ -29,7 +29,7 @@ export const overwhereIiiMerlin = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Forestwind's Headmaster Horace favours the Path of Mystic Prism.",
+      fact: "Forestwind's Headmaster Horace favors the Path of Mystic Prism.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

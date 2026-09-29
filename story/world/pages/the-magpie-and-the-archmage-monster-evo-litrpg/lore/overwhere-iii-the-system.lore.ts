@@ -101,7 +101,7 @@ export const overwhereIiiTheSystem = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Nameplate colours: green is far weaker and worth no experience; white is near one's own level.",
+      fact: "Nameplate colors: green is far weaker and worth no experience; white is near one's own level.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

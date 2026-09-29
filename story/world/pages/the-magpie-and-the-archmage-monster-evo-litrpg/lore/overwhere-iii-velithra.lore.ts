@@ -65,7 +65,7 @@ export const overwhereIiiVelithra = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The Silver Sword is the Path of honour; its first Pillar was a Stolte ancestor.",
+      fact: "The Silver Sword is the Path of honor; its first Pillar was a Stolte ancestor.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -206,7 +206,7 @@ export const overwhereIiiVelithra = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Unusual hair colours, such as green or purple, are taken as a sign of magic aptitude.",
+      fact: "Unusual hair colors, such as green or purple, are taken as a sign of magic aptitude.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

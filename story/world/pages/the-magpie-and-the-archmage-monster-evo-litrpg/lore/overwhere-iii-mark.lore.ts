@@ -21,7 +21,7 @@ export const overwhereIiiMark = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "He told Damien Stolte that Liora is a recognised Guild member he may not fight.",
+      fact: "He told Damien Stolte that Liora is a recognized Guild member he may not fight.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
