@@ -7,6 +7,7 @@ export const overwhereINala = {
   title: "Nala",
   world: "world/hell-hound-evolution-litrpg",
   about: "character-player/overwhere-i-nala",
+  secrets: "jsonl",
   facts: [
     {
       fact: "Alan is a man from Provo, Utah, on Earth.",
