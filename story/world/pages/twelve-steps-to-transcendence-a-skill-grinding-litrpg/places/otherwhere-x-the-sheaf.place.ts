@@ -95,41 +95,6 @@ export const otherwhereXTheSheaf = {
         "world-character/otherwhere-x-aldous-crane",
       ],
     },
-    {
-      fact: "A quick dancing tune sets the Sheaf's feet going on the boards whatever its words.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-martha-deane",
-        "world-character/otherwhere-x-aldous-crane",
-      ],
-    },
-    {
-      fact: "Hattie Rook, a widow who loves a fright, is the likeliest in the Sheaf to say 'skinwalker'.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Ned Fuller the smith likes Nala's singing, and says a thing once and plainly.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "On day one's evening Nala sang Dulaman in Irish in the Sheaf; her voice broke and the room went cold",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-martha-deane",
-        "world-character/otherwhere-x-aldous-crane",
-      ],
-    },
-    {
-      fact: "Martha demanded in the Sheaf to know what tongue Nala sang Dulaman in, and whose it is.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-martha-deane",
-        "world-character/otherwhere-x-aldous-crane",
-      ],
-    },
   ],
   exits: [{ to: "place/otherwhere-x-harrow", way: "out the front door onto the green" }],
 } as const satisfies Place
