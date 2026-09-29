@@ -4,6 +4,7 @@ export const otherwhereX00005 = {
   id: "01a0eaab-0901-7e4f-949a-c93a534a11fd",
   type: "page-type/story-turn-played",
   slug: "otherwhere-x-00-005",
+  cover: "image/image-b4fb826c20d0488f",
   ownLength: 220,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-x"],
@@ -33,6 +34,6 @@ export const otherwhereX00005 = {
   ],
   lore: ["lore/otherwhere-x-aldous-crane", "place/otherwhere-x-harrow"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T18:41:00.000Z",
 } as const satisfies StoryTurnPlayed
