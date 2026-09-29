@@ -229,6 +229,26 @@ export const otherwhereViiAldoReeve = {
       knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
     },
     {
+      fact: "Aldo is ashamed to be taught before his men, but would learn by rushlight after supper.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldo would have Tamsin taught first; he once meant to send her to Bramwick to learn letters.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldo fears the steward would take a village that reckons for a village looking for trouble.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldo's house has no slate or paper; sums would be scratched in sand or chalked on a board.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldo takes a teaching offer as a kindness beyond the wage, and warms to Nala for it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The stick holds seven deep notches, four shallow ones, and nine more each crossed by a cut.",
       knowers: [
         "lore-disclosure/game-master",
