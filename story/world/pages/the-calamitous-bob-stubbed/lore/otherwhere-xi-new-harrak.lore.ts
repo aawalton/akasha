@@ -117,6 +117,18 @@ export const otherwhereXiNewHarrak = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Harrak's nobles rank from viscount up; its early margraves were voted out.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Viviane outlawed worship of herself, yet the Ironborn raise blank war shrines by her obelisks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: 'Harrak\'s battle cry is "Harrak Eternal!"',
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "In its fifth year Harrak conquered the Remnant Empire and annexed its 45,000 people.",
       knowers: ["lore-disclosure/game-master"],
     },
