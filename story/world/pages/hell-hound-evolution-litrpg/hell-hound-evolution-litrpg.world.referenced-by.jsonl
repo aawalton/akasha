@@ -7,6 +7,12 @@
 {"propertySlug":"world","path":"story/world/pages/hell-hound-evolution-litrpg/places/overwhere-i-greyfen-ford.place.ts","id":"01a0ed0c-123a-7089-a6e4-7bfddec2a865"}
 {"propertySlug":"world","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/checks/overwhere-i-time-passing.world-check.ts","id":"01a0ed1c-7db5-7368-895f-318772151bde"}
 {"propertySlug":"world","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/legacies/pages/overwhere-i-starfall-legacy.overwhere-i-legacy.ts","id":"01a0ed18-971a-7eb8-be15-ea85d2a22421"}
+{"propertySlug":"world","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/mechanics/overwhere-i-elements.world-mechanic.ts","id":"01a0ed1f-ad86-7daf-9f54-e80ffdb56905"}
+{"propertySlug":"world","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/mechanics/overwhere-i-injury.world-mechanic.ts","id":"01a0ed1f-ad87-7a7e-b76a-fda098ef383b"}
+{"propertySlug":"world","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/mechanics/overwhere-i-language.world-mechanic.ts","id":"01a0ed1f-ad87-7616-a92d-3a89bf837e23"}
+{"propertySlug":"world","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/mechanics/overwhere-i-progression.world-mechanic.ts","id":"01a0ed1f-ad87-7614-a8f7-f419d21a3a85"}
+{"propertySlug":"world","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/mechanics/overwhere-i-resolution.world-mechanic.ts","id":"01a0ed1f-ad87-7b55-957d-65700e85fec9"}
+{"propertySlug":"world","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/mechanics/overwhere-i-survival.world-mechanic.ts","id":"01a0ed1f-ad87-70a8-b481-c7473e85ca93"}
 {"propertySlug":"world","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/mechanics/overwhere-i-time.world-mechanic.ts","id":"01a0ed1c-7db5-77fa-b4c5-097712fc73b7"}
 {"propertySlug":"world","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/overwhere-i.story-played.ts","id":"01a0ed09-d9aa-7023-9da0-ffcf76f5ac57"}
 {"propertySlug":"world","path":"story/world/pages/hell-hound-evolution-litrpg/stories/read/hell-hound-evolution-litrpg/hell-hound-evolution-litrpg.story-read.ts","id":"01a0657d-ada3-7494-b3a8-1bcb222e41a8"}
