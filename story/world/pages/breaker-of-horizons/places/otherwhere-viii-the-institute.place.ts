@@ -46,7 +46,11 @@ export const otherwhereViiiTheInstitute = {
     },
     {
       fact: "The table was measured lens by lens over years; its middle rows are sound and its ends blank.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-viii-hallick",
+        "character-player/otherwhere-viii-nala",
+      ],
     },
     {
       fact: "The grinders cannot make lenses thick or thin enough to fill those ends and measure them.",
