@@ -24,6 +24,10 @@ export const superSupportiveGorgon = {
       fact: "Glowing golden magical bindings chain him to the desk, and his wrists are raw beneath them.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "He watches the security monitors, avoids eye contact and needs little sleep.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
