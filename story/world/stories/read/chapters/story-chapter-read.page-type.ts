@@ -38,10 +38,19 @@ export const storyChapterRead = {
     orderBy: "position",
     direction: "asc",
   },
-  parts: ["instant-property/marked-read-at", "instant-property/removed-at"],
+  parts: [
+    "instant-property/marked-read-at",
+    "instant-property/removed-at",
+    "named-folder-property/everything-unread-folder",
+  ],
   properties: [
     { pageProperty: "instant-property/removed-at", required: false, many: false },
     { pageProperty: "instant-property/marked-read-at", required: false, many: false },
+    {
+      pageProperty: "named-folder-property/everything-unread-folder",
+      required: false,
+      many: false,
+    },
   ],
   decisions: [
     {

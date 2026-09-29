@@ -31,7 +31,8 @@ import {
   type Put,
 } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import { chapterWords } from "akasha/story/engine/core/modules/chapter-words/chapter-words.module.code.ts"
-import { everythingUnreadFolder } from "akasha/story/world/stories/read/properties/everything-unread-folder.named-folder-property.ts"
+import { everythingUnreadFolder } from "akasha/story/world/stories/read/chapters/properties/everything-unread-folder.named-folder-property.ts"
+import { storyChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.ts"
 import {
   CHAPTER_PAGE_TYPE,
   STORY_ADDRESS,
@@ -130,7 +131,8 @@ function joinedAt(root: string): string | Refusal {
     return { refused: `${listed.length} pages sit at ${STORY_ADDRESS}, so no folder is beside it` }
   }
   const named = `${JOINED_SLUG}.${CHAPTER_PAGE_TYPE}${PAGE_ENDING}`
-  return join(dirname(story), everythingUnreadFolder.folderName, named)
+  const folder = everythingUnreadFolder.folderName
+  return join(dirname(story), storyChapterRead.pluralSlug, folder, named)
 }
 
 function alreadyHolds(root: string, put: Put): boolean {

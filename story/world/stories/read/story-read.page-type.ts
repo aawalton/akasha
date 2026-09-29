@@ -24,7 +24,6 @@ export const storyRead = {
     "select-property/publication-status",
     "text-property/external-tags",
     "domain/wandering-inn",
-    "named-folder-property/everything-unread-folder",
   ],
   properties: [
     {
@@ -35,11 +34,6 @@ export const storyRead = {
     },
     { pageProperty: "select-property/publication-status", required: false, many: false },
     { pageProperty: "multi-relation-property/parts", required: false, many: true, maxCount: null },
-    {
-      pageProperty: "named-folder-property/everything-unread-folder",
-      required: false,
-      many: false,
-    },
   ],
   decisions: [
     {

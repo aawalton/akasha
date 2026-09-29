@@ -5,7 +5,8 @@ export const everythingUnreadFolder = {
   type: "page-type/named-folder-property",
   slug: "everything-unread-folder",
   propertySlug: "everything-unread-folder",
-  definition: "the folder beside a story holding every chapter of it left unread as one chapter",
+  definition:
+    "the folder among a story's chapters holding every chapter left unread as one chapter",
   folderName: "everything-unread",
   runsFileLength: false,
   decisions: [
@@ -20,11 +21,15 @@ export const everythingUnreadFolder = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Only a file beneath this folder beside a story is let off the ceiling.",
+      statement: "Only a file beneath this folder in a folder of chapters is let off the ceiling.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A chapter filed beside its story rather than in this folder is still judged.",
+      statement: "A chapter filed among the chapters rather than in this folder is still judged.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No chapter states this property, since the folder is found by its name alone.",
     },
   ],
   types: "ts",

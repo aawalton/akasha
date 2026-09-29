@@ -71,7 +71,8 @@ export const storyJoinUnread = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The joined chapter sits in the story's everything-unread folder.",
+      statement:
+        "The joined chapter sits in the everything-unread folder among the story's chapters.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -1,0 +1,4 @@
+{"propertySlug":"import","fileName":"everything-unread-folder.named-folder-property.ts","path":"command/pages/story/join-unread/story-join-unread.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"everything-unread-folder.named-folder-property.types.ts","path":"story/world/stories/read/chapters/story-chapter-read.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"page-property","path":"story/world/stories/read/chapters/story-chapter-read.page-type.ts","id":"01a06554-d8bd-72ef-8a40-8ab143986c70"}
+{"propertySlug":"parts","path":"story/world/stories/read/chapters/story-chapter-read.page-type.ts","id":"01a06554-d8bd-72ef-8a40-8ab143986c70"}
