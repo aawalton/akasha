@@ -160,5 +160,21 @@ export const otherwhereIvNala = {
         "character-other/otherwhere-iv-tie-bo",
       ],
     },
+    {
+      fact: "Nala asked Granny Hua for her poison against the boar raiding Zhao Jun's field.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-tie-bo",
+      ],
+    },
+    {
+      fact: "Nala told Granny Hua the boar is likely the one that took Tie Bo's brother, grown stronger.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-tie-bo",
+      ],
+    },
   ],
 } as const satisfies Lore

@@ -37,7 +37,11 @@ export const otherwhereIvGrannyHua = {
     },
     {
       fact: "She asks a visitor to come into her yard in the sun and put both hands open in hers.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-tie-bo",
+      ],
     },
     {
       fact: "Then she asks the visitor to pull a mugwort stalk and say what ails it, and judges the answer.",
@@ -73,6 +77,30 @@ export const otherwhereIvGrannyHua = {
     },
     {
       fact: "Granny Hua is small and square-shouldered, with grey hair knotted at the back of her head.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
+    {
+      fact: "Granny Hua says she deals with nobody she has not looked at.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-tie-bo",
+      ],
+    },
+    {
+      fact: "Granny Hua told Tie Bo she had thought it might come to his brother's boar.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-tie-bo",
+      ],
+    },
+    {
+      fact: "Her garden is rows of feathery, grey-green and tall-stalked plants, some flowering blue.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
+    {
+      fact: "Granny Hua's hands are brown and knotted, the nails rimmed with green.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
   ],
