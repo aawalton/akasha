@@ -45,7 +45,7 @@ export const overwhereIiiNala = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
-      fact: "She wears Alan's loose dark grey shirt, which hangs to her mid-thigh and gapes at the collar.",
+      fact: "She wears Alan's loose dark gray shirt, which hangs to her mid-thigh and gapes at the collar.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {

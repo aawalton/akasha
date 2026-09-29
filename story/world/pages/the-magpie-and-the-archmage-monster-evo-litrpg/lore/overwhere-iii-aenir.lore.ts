@@ -17,7 +17,7 @@ export const overwhereIiiAenir = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "He is tall, muscled and warrior-like, with short red hair, grey eyes and pale skin.",
+      fact: "He is tall, muscled and warrior-like, with short red hair, gray eyes and pale skin.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

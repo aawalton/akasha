@@ -13,7 +13,7 @@ export const overwhereIiiMardaHesk = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "She is about sixty, grey hair cropped short, broad-shouldered, with a stiff left knee and a cane.",
+      fact: "She is about sixty, gray hair cropped short, broad-shouldered, with a stiff left knee and a cane.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

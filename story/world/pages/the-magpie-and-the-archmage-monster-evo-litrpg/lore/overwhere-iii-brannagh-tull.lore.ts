@@ -21,7 +21,7 @@ export const overwhereIiiBrannaghTull = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "She talks to her cat, a one-eared grey tom called Reeve, more than to people.",
+      fact: "She talks to her cat, a one-eared gray tom called Reeve, more than to people.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

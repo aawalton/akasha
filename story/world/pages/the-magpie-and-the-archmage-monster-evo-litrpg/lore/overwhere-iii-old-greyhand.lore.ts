@@ -13,7 +13,7 @@ export const overwhereIiiOldGreyhand = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "He looks like a vast grey beech with one limb crooked like a hand, and moves only at need.",
+      fact: "He looks like a vast gray beech with one limb crooked like a hand, and moves only at need.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

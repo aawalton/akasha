@@ -31,7 +31,7 @@ export const overwhereIiiGreywaterTarn = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The water is grey from the rock, clear an arm deep and black past that.",
+      fact: "The water is gray from the rock, clear an arm deep and black past that.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],

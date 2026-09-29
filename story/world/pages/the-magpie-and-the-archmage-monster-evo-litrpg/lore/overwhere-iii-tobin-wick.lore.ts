@@ -9,7 +9,7 @@ export const overwhereIiiTobinWick = {
   about: "character-other/overwhere-iii-tobin-wick",
   facts: [
     {
-      fact: "Tobin Wick is a carter of about fifty-five, broad, bald and sunburnt, with a grey beard.",
+      fact: "Tobin Wick is a carter of about fifty-five, broad, bald and sunburnt, with a gray beard.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

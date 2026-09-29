@@ -29,7 +29,7 @@ export const overwhereIiiWrenwoodCrossroads = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
-      fact: "A small roofed shrine of grey stone sits at the corner, with a worn carved figure inside.",
+      fact: "A small roofed shrine of gray stone sits at the corner, with a worn carved figure inside.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {

@@ -13,7 +13,7 @@ export const overwhereIiiMotherSallow = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "She looks sixty, stooped and soot-grimed, with a kind soft voice and a grey shawl.",
+      fact: "She looks sixty, stooped and soot-grimed, with a kind soft voice and a gray shawl.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

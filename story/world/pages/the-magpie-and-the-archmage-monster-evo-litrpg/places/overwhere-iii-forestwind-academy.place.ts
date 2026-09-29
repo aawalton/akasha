@@ -30,7 +30,7 @@ export const overwhereIiiForestwindAcademy = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Streets of grey and yellow brick are lit by street lights and lanterns.",
+      fact: "Streets of gray and yellow brick are lit by street lights and lanterns.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

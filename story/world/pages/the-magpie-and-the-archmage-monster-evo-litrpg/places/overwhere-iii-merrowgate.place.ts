@@ -27,7 +27,7 @@ export const overwhereIiiMerrowgate = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Its walls are grey fieldstone, raised forty years ago against beasts out of the Wrenwood.",
+      fact: "Its walls are gray fieldstone, raised forty years ago against beasts out of the Wrenwood.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

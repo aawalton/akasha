@@ -13,7 +13,7 @@ export const overwhereIiiVeylDurance = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "He is about thirty-five, lean and exact, in a grey coat with steel buttons, never mud-spotted.",
+      fact: "He is about thirty-five, lean and exact, in a gray coat with steel buttons, never mud-spotted.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

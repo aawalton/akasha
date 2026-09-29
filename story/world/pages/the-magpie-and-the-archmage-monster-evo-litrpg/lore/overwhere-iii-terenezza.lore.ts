@@ -9,7 +9,7 @@ export const overwhereIiiTerenezza = {
   about: "character-other/overwhere-iii-terenezza",
   facts: [
     {
-      fact: "Terenezza is a human healer, stern of manner, with a long grey braid and white robes.",
+      fact: "Terenezza is a human healer, stern of manner, with a long gray braid and white robes.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
