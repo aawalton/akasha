@@ -109,6 +109,18 @@ export const otherwhereViCharcoalCamp = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Wat sends a new watcher to sleep the afternoon out by the fire, and wakes her at dusk to eat.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Jory shows a new watcher the clamp's round and how to smother a flare before he turns in.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The burners' supper is bacon, bread and a pot of barley and fish, eaten at dusk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Five days fed and roofed by the fire would close her sole and bring her HP back to full.",
       knowers: ["lore-disclosure/game-master"],
     },
