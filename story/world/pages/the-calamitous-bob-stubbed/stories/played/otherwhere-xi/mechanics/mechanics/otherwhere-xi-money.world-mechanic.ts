@@ -6,5 +6,5 @@ export const otherwhereXiMoney = {
   slug: "otherwhere-xi-money",
   title: "Money",
   world: "world/the-calamitous-bob-stubbed",
-  description: "Coins of gold, silver and copper, and what they buy.",
+  description: "Coins of gold, silver and copper.",
 } as const satisfies WorldMechanic

@@ -7,7 +7,7 @@ export const otherwhereXiActionCheck = {
   title: "Action Check",
   world: "world/the-calamitous-bob-stubbed",
   definition: "whether a declared act in Otherwhere XI comes off, and how well",
-  description: "Whether something Nala tries comes off.",
+  description: "Whether something someone tries comes off, and how well.",
   settling: {},
   decisions: [
     {
