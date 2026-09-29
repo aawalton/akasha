@@ -69,6 +69,14 @@ export const otherwhereXiKarkTribes = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Kark once served old Harrak's legions as auxiliaries, six centuries ago.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Kark honour allows traps and announced ambushes, but not assassination or infiltration.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Marruk founded a new kark tribe settled near Kazar in New Harrak.",
       knowers: ["lore-disclosure/game-master"],
     },
