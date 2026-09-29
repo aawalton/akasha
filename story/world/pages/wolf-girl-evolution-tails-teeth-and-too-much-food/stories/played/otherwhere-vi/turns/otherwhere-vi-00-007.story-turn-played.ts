@@ -10,7 +10,7 @@ export const otherwhereVi00007 = {
   position: 7,
   prose: "txt",
   characters: ["character-player/otherwhere-vi-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I stand back up and keep the stick between me and the boar and slowly back away, if it charges, I brace the stick in the ground as a makeshift spear and anchor it with my weight.",
   beats: [
@@ -29,7 +29,7 @@ export const otherwhereVi00007 = {
     "Blood from the shin has run down inside her tights, sticky and cold.",
     "She is shaking hard now, all through her; her fingers are clumsy on the staff.",
     "On the drier bank under the pines, low shrubs carry small red berries dark in the moonlight.",
-    "Her breath smokes, and the wet cloth at her hips has gone stiff and cold as metal.",
+    "Her breath smokes, and the wet cloth at her hips clings cold against her skin at every step.",
   ],
   issues: [
     '"gone stiff and cold as metal" - wet cloth stiffens frozen; frost only comes by the small hours',
