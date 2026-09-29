@@ -10,4 +10,5 @@ export const otherwhereVi00016 = {
   stepStatus: "step-status/game-master",
   action: "I check my status to see if the sleep recovered any HP, then focus on my task.",
   lore: ["lore/otherwhere-vi-nala", "place/otherwhere-vi-charcoal-camp"],
+  endsAt: "2026-09-30T06:10:00.000Z",
 } as const satisfies StoryTurnPlayed
