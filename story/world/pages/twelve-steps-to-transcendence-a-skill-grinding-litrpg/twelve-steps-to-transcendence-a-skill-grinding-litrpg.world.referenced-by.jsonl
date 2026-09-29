@@ -15,6 +15,7 @@
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/characters/otherwhere-x-theodore-ardent.world-character.ts","id":"01a0ea77-6132-7e44-a6c7-5ba322eba44e"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/characters/otherwhere-x-thomas.world-character.ts","id":"01a0ea76-7f70-71c0-95e7-8c74050e755c"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/designs/otherwhere-x.story-design.ts","id":"01a0ea5e-9c36-7910-aead-5683ce39f5a0"}
+{"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-adventurers-guild.lore.ts","id":"01a0ea78-4904-7c21-b6c0-c14aa07a3f56"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-affinities.lore.ts","id":"01a0ea76-efbe-7535-90b0-f96498c0c18a"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-alice-vane.lore.ts","id":"01a0ea75-19e6-7ec4-8802-9c5201ff6eec"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-arthur.lore.ts","id":"01a0ea75-19ea-78fb-bc36-1f7994754b0a"}
@@ -39,6 +40,7 @@
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-goblin-poison.lore.ts","id":"01a0ea74-a2ce-7397-9471-3448761ae95e"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-goblin.lore.ts","id":"01a0ea75-82d8-7699-969c-cef8c342e62c"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-hannah.lore.ts","id":"01a0ea73-c52a-7551-a199-65f524586b19"}
+{"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-haven-academy.lore.ts","id":"01a0ea78-4904-7d36-9a17-4dc2abe6e0c2"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-healing.lore.ts","id":"01a0ea74-a2cf-776b-8af9-59a21f7bd9c3"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-horned-rabbit.lore.ts","id":"01a0ea76-0b81-77b6-8fea-45a82f6486e8"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-language.lore.ts","id":"01a0ea77-ca07-77ba-9eb2-eb9390d7f724"}
@@ -46,6 +48,7 @@
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-mana.lore.ts","id":"01a0ea76-efc0-7c84-8a82-f0d0ac1c7f83"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-marcus.lore.ts","id":"01a0ea76-7f70-7871-b5ab-fd204347a755"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-memory-shard.lore.ts","id":"01a0ea77-7cd1-76f5-9b54-2c72c0a1114b"}
+{"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-merchant-guilds.lore.ts","id":"01a0ea78-4905-7db2-a5ef-f8a38ed27b45"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-money.lore.ts","id":"01a0ea73-f76d-7937-a329-09efbaaef852"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-nala.lore.ts","id":"01a0ea60-77f5-7489-a799-55fd1ec43262"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-nobility.lore.ts","id":"01a0ea73-f76e-7727-97d8-ca415a7fb3c7"}
@@ -61,6 +64,7 @@
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-skills.lore.ts","id":"01a0ea75-6dc3-77d8-9a0a-d429fcebb8be"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-skinwalker.lore.ts","id":"01a0ea75-82d9-7047-a3c5-9824b9dfb157"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-status.lore.ts","id":"01a0ea72-f82e-7c2a-8461-8a6005030da5"}
+{"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-sulon-army.lore.ts","id":"01a0ea78-4905-7134-9a02-627e27c02afb"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-system.lore.ts","id":"01a0ea72-23d2-797d-a2ef-d271ec4b5cf1"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-the-commander.lore.ts","id":"01a0ea73-c52b-70de-8ce5-0addc46e27a5"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-the-door.lore.ts","id":"01a0ea74-83f0-7585-bfd3-82466f669a39"}
@@ -105,6 +109,10 @@
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/mechanics/otherwhere-x-trances.world-mechanic.ts","id":"01a0ea76-efc1-708e-a561-235f3d8bc5fc"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/mechanics/otherwhere-x-world-tree.world-mechanic.ts","id":"01a0ea74-83f0-7a66-a15a-c4e693c49bf9"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/mechanics/otherwhere-x-zones.world-mechanic.ts","id":"01a0ea72-86e7-78eb-a426-b0d9bd69bd28"}
+{"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/organizations/otherwhere-x-adventurers-guild.world-organization.ts","id":"01a0ea78-4905-768c-9f07-f85b860369da"}
+{"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/organizations/otherwhere-x-haven-academy.world-organization.ts","id":"01a0ea78-4905-7904-87d5-e3167a599be9"}
+{"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/organizations/otherwhere-x-merchant-guilds.world-organization.ts","id":"01a0ea78-4906-7671-ac3a-3d90375d5e29"}
+{"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/organizations/otherwhere-x-sulon-army.world-organization.ts","id":"01a0ea78-4906-7a70-8aff-505d5ca4c26c"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/species/otherwhere-x-fox.world-species.ts","id":"01a0ea77-0fef-7df0-9b38-0a7bc09273cf"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/species/otherwhere-x-giant-beetle.world-species.ts","id":"01a0ea77-0fef-72a3-8cac-7cc72d292c7f"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/species/otherwhere-x-goblin.world-species.ts","id":"01a0ea75-82d9-7325-85c1-63a08436cd52"}
