@@ -15,12 +15,12 @@ export const otherwhereVii00009 = {
     "character-other/otherwhere-vii-gammer-wyn",
     "character-other/otherwhere-vii-tamsin",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "\"Oh. Oh dear. I'm afraid the steward has been cheating you then. For a 10% tithe, he should have taken only seven and a little less than half, not nine. He's taken more than one and a half more than he should have.\"",
   beats: [
     "Nala tells Aldo plainly the steward has cheated him: nine taken where a tenth was seven and a half.",
-    "The colour goes out of Aldo's face. He stands with the stick in his fist and says nothing.",
+    "The colour goes out of Aldo's face. He takes the stick back from her hands and says nothing.",
     "Behind him the flails keep on, thud, thud, and one of the men glances over.",
     '"I said it!" Wyn slaps her knee. "Crooked scale. Said it these ten years, and none of you heard."',
     '"Wyn." Aldo says it low, and she shuts her mouth. He looks at Tamsin. "And you. Not a word."',
