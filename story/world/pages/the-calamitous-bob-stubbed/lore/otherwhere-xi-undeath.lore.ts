@@ -116,5 +116,9 @@ export const otherwhereXiUndeath = {
       fact: "The undead belong to Enttiku's domain, and her church hunts those who defile the dead.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Transference is the lich's art of moving a soul into an undead vessel.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
