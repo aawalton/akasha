@@ -23,4 +23,5 @@ export const otherwhereX00010 = {
     "lore/otherwhere-x-time",
     "place/otherwhere-x-the-sheaf",
   ],
+  endsAt: "2026-09-28T19:25:00.000Z",
 } as const satisfies StoryTurnPlayed
