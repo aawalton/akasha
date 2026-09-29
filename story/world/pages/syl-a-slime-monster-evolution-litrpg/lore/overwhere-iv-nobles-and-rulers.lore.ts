@@ -206,10 +206,6 @@ export const overwhereIvNoblesAndRulers = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Moonscar, a walled town inside a labyrinth, is ruled by a lord in its castle.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
       fact: "Oaths sworn to the gods truly bind, and the world asks the other party to accept them.",
       knowers: ["lore-disclosure/game-master"],
     },
