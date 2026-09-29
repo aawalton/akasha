@@ -71,6 +71,10 @@ export const haremHotelOdile = {
         "character-other/harem-hotel-wren",
       ],
     },
+    {
+      fact: "On floor 3 Odile is Wren's equal, and wants the masked Lady's approval more than she will say.",
+      knowers: ["lore-disclosure/game-master", "character-other/harem-hotel-odile"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
