@@ -10,4 +10,5 @@ export const otherwhereXi00003 = {
   stepStatus: "step-status/game-master",
   action: '"Excuse me sir, what are those stones behind me?"',
   lore: ["place/otherwhere-xi-waystone-shrine"],
+  endsAt: "2026-09-28T06:25:00.000Z",
 } as const satisfies StoryTurnPlayed
