@@ -142,6 +142,22 @@ export const otherwhereXiNala = {
         "world-character/otherwhere-xi-wenna-ashlar",
       ],
     },
+    {
+      fact: "Nala had never touched a sheep before the Ashlar farm.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
+    },
+    {
+      fact: "Nala told Wenna her name.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

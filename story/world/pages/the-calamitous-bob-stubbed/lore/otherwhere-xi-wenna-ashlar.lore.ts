@@ -280,6 +280,38 @@ export const otherwhereXiWennaAshlar = {
       fact: "Wenna would lend Nala her spare robe, sandals and a headcloth, and keep the odd shirt back.",
       knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
     },
+    {
+      fact: "Wenna's daughters are named Pell and Lissa.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
+    },
+    {
+      fact: "Wenna gave Nala a faded red robe, ankle-length and thin at the elbows, to wear over her clothes.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
+    },
+    {
+      fact: "Wenna took Nala on to work the Ashlar farm and told her girls so.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
+    },
+    {
+      fact: "Wenna's way with ewes: move slow, come at a ewe from the side, never grab the wool.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

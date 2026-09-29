@@ -95,7 +95,7 @@ export const otherwhereXiAshlarFarm = {
     },
     {
       fact: "Pell and Lissa carry water and feed the hens, and would follow Nala everywhere.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
     },
     {
       fact: "Wenna's spare robe is faded madder red, ankle-length and far too large for Nala.",
@@ -108,6 +108,22 @@ export const otherwhereXiAshlarFarm = {
     {
       fact: "Water comes from a rock cistern in the yard, filled from the hill stream in the gully.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Water for the Ashlar yard is drawn from a rock cistern.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
+    },
+    {
+      fact: "A ewe lies down in the Ashlar lambing pen and cannot rise; her one lamb is turned.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
     },
   ],
 } as const satisfies Place
