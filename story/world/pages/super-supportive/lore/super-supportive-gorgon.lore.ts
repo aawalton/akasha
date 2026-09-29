@@ -41,6 +41,10 @@ export const superSupportiveGorgon = {
       knowers: ["lore-disclosure/game-master"],
     },
     { fact: "His laugh is a repetitive hissing.", knowers: ["lore-disclosure/game-master"] },
+    {
+      fact: "He can reach all public areas of the consulate but has no room of his own.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
