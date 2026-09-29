@@ -2,13 +2,13 @@ import type { ComfyGraph } from "akasha/infrastructure/inference/comfy-ui/module
 
 export const EDIT_MODEL = "qwen-image-edit-2511-lightning+beyond-reality-3"
 
-export const REDRAW_DENOISE = 0.3
+const REDRAW_DENOISE = 0.3
 
 const REDRAW_MEGAPIXELS = 2
 
 const EDIT_MEGAPIXELS = 1
 
-export function redrawPrompt(instruction: string): string {
+function redrawPrompt(instruction: string): string {
   return `Photorealistic photograph. ${instruction} Natural skin texture with fine pores, sharp focus, high-end photography.`
 }
 
