@@ -48,5 +48,6 @@ export const otherwhereVii00006 = {
     'Without looking up she says, "Where\'d you spring from, girl, never to have held a basket?"',
   ],
   lore: ["lore/otherwhere-vii-aldo-reeve", "place/otherwhere-vii-ashford"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T08:09:00.000Z",
 } as const satisfies StoryTurnPlayed
