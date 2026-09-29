@@ -36,5 +36,13 @@ export const otherwhereViiLanguage = {
       fact: "A stranger who reads fluently and talks like a scholar is taken for gentry or a runaway clerk.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Scribes are town and school folk: a village has none, and a village scribe's daughter is odd.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A school clerk can read a hand; a false name written down is a risk a liar should weigh.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
