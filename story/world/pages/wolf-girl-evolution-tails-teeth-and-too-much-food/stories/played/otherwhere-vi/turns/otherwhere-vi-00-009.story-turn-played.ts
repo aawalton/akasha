@@ -4,13 +4,14 @@ export const otherwhereVi00009 = {
   id: "01a0ea93-dcb8-77d2-9131-409a434890fe",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vi-00-009",
+  cover: "image/image-c5def65740431830",
   ownLength: 204,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],
   position: 9,
   prose: "txt",
   characters: ["character-player/otherwhere-vi-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I eat a handful of berries and then check again.",
   beats: [
     "Nala strips a cluster from the nearest shrub and eats a handful, seeds and all.",
@@ -32,6 +33,6 @@ export const otherwhereVi00009 = {
   issues: ['"The berries have left no mark on it at all." - Plain Negation'],
   lore: ["place/otherwhere-vi-hollow-stream", "lore/otherwhere-vi-system"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T22:42:00.000Z",
 } as const satisfies StoryTurnPlayed
