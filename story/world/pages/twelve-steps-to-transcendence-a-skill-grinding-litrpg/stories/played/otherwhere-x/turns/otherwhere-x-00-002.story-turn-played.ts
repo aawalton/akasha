@@ -10,7 +10,7 @@ export const otherwhereX00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-x-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "I walk towards the wood smoke, since that seems closer, to see who I can find.",
   beats: [
     "Nala sets off east along the road toward the smoke, barefoot.",
@@ -29,7 +29,7 @@ export const otherwhereX00002 = {
     "He speaks with a slow country burr, and she understands every word without trying.",
     "\"Who're you? Where's your shoes? Were you robbed? Is that a man's shirt?\"",
     '"Did you hear the dogs howl this afternoon? All of \'em at once. Did you come from the Mile?"',
-    "He edges half a step back toward the village, switch raised, waiting on her answer.",
+    "He plants himself square in the road, switch on his shoulder, waiting on her answer.",
   ],
   issues: [
     '"edges half a step back toward the village, switch raised" - Hob fears nothing, per Harrow lore',
