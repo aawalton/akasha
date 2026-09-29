@@ -65,7 +65,7 @@ export const otherwhereIxShardback = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Absorbing a shardback core gives Constitution, as a shardback is all hide and grit.",
+      fact: "Absorbing a shardback core gives Constitution first and Strength second: all hide and grit.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
