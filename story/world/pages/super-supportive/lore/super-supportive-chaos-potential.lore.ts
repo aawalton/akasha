@@ -7,5 +7,11 @@ export const superSupportiveChaosPotential = {
   title: "Chaos potential",
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-chaos-potential",
+  facts: [
+    {
+      fact: "Only Artonan wizards can tell who has it; humans cannot measure it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
