@@ -6,7 +6,6 @@
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
-{"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-otherwhere-iii-flex-3/iris-story-recorder-otherwhere-iii-flex-3.seat.ts","id":"01a0eafc-28f5-7000-ab89-35c5109e5ca9"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-otherwhere-iv-flex-1/iris-story-recorder-otherwhere-iv-flex-1.seat.ts","id":"01a0eaf9-1572-7000-afee-cff195b651b3"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-otherwhere-ix-flex-1/iris-story-recorder-otherwhere-ix-flex-1.seat.ts","id":"01a0eaf7-aa08-7000-a1e6-a8f5965e89e7"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-otherwhere-vii-flex-1/iris-story-recorder-otherwhere-vii-flex-1.seat.ts","id":"01a0eafb-7fd4-7000-aff5-d48f5e8cea7e"}
