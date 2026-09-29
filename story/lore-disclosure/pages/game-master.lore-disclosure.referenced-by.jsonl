@@ -1154,6 +1154,7 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-enttiku.lore.ts","id":"01a0ea7a-2fe9-7511-b229-de063b666ce8"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-golems.lore.ts","id":"01a0ea79-2035-78dd-b227-798125eed74e"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-hadals.lore.ts","id":"01a0ea77-0c33-7b96-926e-b83bb4a530c5"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-humans.lore.ts","id":"01a0ea7b-518c-7eba-be8e-73514a518b4b"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-inspection.lore.ts","id":"01a0ea7a-bf9c-7106-8066-21d4ea67a086"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-interface.lore.ts","id":"01a0ea74-9df6-7b1e-b6af-64c34df96f6b"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-kark.lore.ts","id":"01a0ea75-99ea-734c-a20f-989c555eb5ca"}
@@ -1165,9 +1166,11 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-nala.lore.ts","id":"01a0ea63-7454-7f30-9d04-9bcfa1462e38"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-nemeti.lore.ts","id":"01a0ea79-2036-7f32-9640-5fed02bed057"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-neriad.lore.ts","id":"01a0ea7a-2fe9-7774-9113-ac1fcbd5408a"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-northerners.lore.ts","id":"01a0ea7b-518d-73e4-a48f-d4fbc89633f5"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-nous.lore.ts","id":"01a0ea7a-cc80-7181-8a52-b1e51c54fe3d"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-oleander.lore.ts","id":"01a0ea79-e917-756b-b6f9-9471d2df524c"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-outlanders.lore.ts","id":"01a0ea76-90e6-7a72-9a68-f7ffc864bf97"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-paramese.lore.ts","id":"01a0ea7b-518d-76d3-8828-4a530ef1ab04"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-paths.lore.ts","id":"01a0ea79-6f69-7159-8fd2-28e5b9b22285"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-poacher.lore.ts","id":"01a0ea7b-36b8-7634-9464-f9cb6210584a"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-rakan.lore.ts","id":"01a0ea79-e917-75ca-85c3-af97a53a38d4"}
@@ -1185,6 +1188,7 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-tarano.lore.ts","id":"01a0ea7b-36b9-785f-9526-72cf1008a501"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-titles.lore.ts","id":"01a0ea7a-bf9e-7d16-a7e7-c96c4a412986"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-viv.lore.ts","id":"01a0ea76-b049-7097-b344-854a8fbab5f4"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-vizimans.lore.ts","id":"01a0ea7b-518e-77c9-a1b5-7f3a19941866"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-yries.lore.ts","id":"01a0ea77-0c35-7249-a9d2-f88d1b0ae214"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-asmirel.place.ts","id":"01a0ea77-aa5d-74be-a37b-ddd77f4ee45d"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-baran.place.ts","id":"01a0ea7a-aee7-785c-aab2-5a59e913ab7d"}
