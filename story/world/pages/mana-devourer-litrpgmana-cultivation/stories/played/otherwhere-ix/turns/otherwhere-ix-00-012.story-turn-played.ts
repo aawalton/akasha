@@ -11,4 +11,5 @@ export const otherwhereIx00012 = {
   action:
     "I test my durability against the glass to see if it still cuts my skin, then I do my best to drink the blood of the beast for water and nourishment.",
   lore: ["lore/otherwhere-ix-shardback", "lore/otherwhere-ix-survival"],
+  endsAt: "2026-09-28T15:50:00.000Z",
 } as const satisfies StoryTurnPlayed
