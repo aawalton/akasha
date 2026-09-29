@@ -188,6 +188,34 @@ export const otherwhereXHarrow = {
       fact: "The goose boy speaks slow and broad, with a country burr.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
     },
+    {
+      fact: "Hob's mother is Bess Crane, Aldous's wife: stout, quick-tempered and quicker to feed people.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Cranes live in the stone-footed house on the green's east side, by the bell post.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "On day one's evening Aldous and Bess are at home, supper on the board, waiting on Hob.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hob is proud his da is reeve, says so to anyone, and will lead a polite stranger straight home.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hob must pen the geese in the fold behind the Sheaf before he may go home.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldous meets a stranger at his door, asks name, home and business, then asks for a road token.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Bess will not turn a barefoot woman away hungry, whatever Aldous thinks of her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   exits: [
     {
