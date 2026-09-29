@@ -16,7 +16,7 @@ export const otherwhereVii00011 = {
     "character-other/otherwhere-vii-joan-reeve",
     "character-other/otherwhere-vii-hild",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "\"Thank you Ma'am, I appreciate your kindness. If there is anything I can do to help while I'm here, I'm eager to learn.\" I pull the dress over my head and put on the clogs.",
   beats: [
@@ -43,6 +43,7 @@ export const otherwhereVii00011 = {
     '"You drop nothing" - Plain Negation',
     '"He says nothing of the count, and nothing of the stick" - Plain Negation',
     '"Say nothing" - Plain Negation',
+    '"Reckoner," Joan says to Hild - Joan tells the village Nala is a hired hand who cannot read',
   ],
   lore: [
     "place/otherwhere-vii-ashford",
@@ -50,6 +51,6 @@ export const otherwhereVii00011 = {
     "lore/otherwhere-vii-nala",
     "lore/otherwhere-vii-hild",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T12:10:00.000Z",
 } as const satisfies StoryTurnPlayed
