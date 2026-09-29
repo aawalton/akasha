@@ -68,6 +68,15 @@ export const otherwhereViGrowth = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A level or stat gained raises what she has by what the maximum rose, and heals no more.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No level, stat or evolution closes a wound, mends a wrench or ends an injury.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The System shows each level as 【Level Up: 1 → 2】, its stat lines, and often a dry remark.",
     },
     {
