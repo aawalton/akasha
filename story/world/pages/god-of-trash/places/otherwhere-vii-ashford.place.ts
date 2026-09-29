@@ -284,5 +284,21 @@ export const otherwhereViiAshford = {
       fact: "Country folk take 'far enough that you haven't heard of it' for a refusal, and ask once only.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Half a mile north of Ashford a wet rushy meadow runs to the wood's edge, with comfrey and yarrow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The north meadow is the herb ground; the riverbank by the ford is picked bare by Ashford's wives.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ashford's children are told not to go past the north meadow, because of the wood and the boar.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The meadow ditch is ankle-deep in mud and cut by cattle tracks, and hides a spring or two.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
