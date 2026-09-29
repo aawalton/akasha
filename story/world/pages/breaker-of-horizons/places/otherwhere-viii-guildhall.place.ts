@@ -14,15 +14,27 @@ export const otherwhereViiiGuildhall = {
     },
     {
       fact: "From Weir Gardens the way runs up Weir Street past the police post, then over Tanners Row.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-maddox",
+      ],
     },
     {
       fact: "Past Tanners Row the Long Stair climbs the hill: some three hundred worn stone steps.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-maddox",
+      ],
     },
     {
       fact: "Hill Road winds up the long way round, and buses climb it from half past six.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-maddox",
+      ],
     },
     {
       fact: "The Long Stair comes out at the south corner of Guildhall Square.",
@@ -79,6 +91,22 @@ export const otherwhereViiiGuildhall = {
     {
       fact: "Glyphs on the board are printed beside each course, as the common alphabet is beside them.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Long Stair comes out at a corner of Guildhall Square.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-maddox",
+      ],
+    },
+    {
+      fact: "The Institute of Artifice is on Mercer Street, just off Guildhall Square.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-maddox",
+      ],
     },
   ],
   secrets: "jsonl",

@@ -118,11 +118,27 @@ export const otherwhereViiiWeirGardens = {
     },
     {
       fact: "Maddox won't send a barefoot girl up the Long Stair without offering something from the crate.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-maddox",
+      ],
     },
     {
       fact: "The crate holds a pair of men's canvas shoes, too big, and a worn brown wool coat.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-maddox",
+      ],
+    },
+    {
+      fact: "Maddox keeps unclaimed lost property from the park in a small tool shed by the gate.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-viii-nala",
+        "character-other/otherwhere-viii-maddox",
+      ],
     },
   ],
 } as const satisfies Place
