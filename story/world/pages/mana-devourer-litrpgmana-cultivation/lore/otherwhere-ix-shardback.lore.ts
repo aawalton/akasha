@@ -188,5 +188,17 @@ export const otherwhereIxShardback = {
       fact: "A shardback's jaw is hard bone; a glass sliver striking it skids off.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
+    {
+      fact: "A quill stub in a shardback's throat, driven deeper, can open its windpipe.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Weight pressed down on a shardback's bare throat shuts its breath as a squeeze does.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Quill shards in an arm pressed hard against anything drive deeper into that arm.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
