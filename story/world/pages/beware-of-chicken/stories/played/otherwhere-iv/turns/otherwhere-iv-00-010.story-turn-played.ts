@@ -10,4 +10,5 @@ export const otherwhereIv00010 = {
   stepStatus: "step-status/game-master",
   action: '"I will"',
   lore: ["lore/otherwhere-iv-gu-household", "lore/otherwhere-iv-earth-god-shrine"],
+  endsAt: "2026-09-28T19:05:00.000Z",
 } as const satisfies StoryTurnPlayed
