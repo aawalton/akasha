@@ -11,4 +11,5 @@ export const otherwhereVii00006 = {
   action:
     "\"I'm Nala, not looking for a handout, just a meal for honest work. Happy to do the work first, so you're not risking anything on my lack of reputation. I'm afraid I'm alone here.\"",
   lore: ["lore/otherwhere-vii-aldo-reeve", "place/otherwhere-vii-ashford"],
+  endsAt: "2026-09-28T08:09:00.000Z",
 } as const satisfies StoryTurnPlayed
