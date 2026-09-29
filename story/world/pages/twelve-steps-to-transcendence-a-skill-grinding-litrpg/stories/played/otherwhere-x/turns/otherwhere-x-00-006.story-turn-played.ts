@@ -10,7 +10,7 @@ export const otherwhereX00006 = {
   position: 6,
   prose: "txt",
   characters: ["character-player/otherwhere-x-nala", "world-character/otherwhere-x-aldous-crane"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     '"I take it the bell is to invite more to come and listen? While we wait, could you tell me more about your country? I love collecting stories, so I would learn yours as well if I may."',
   beats: [
@@ -28,7 +28,10 @@ export const otherwhereX00006 = {
     '"How does a woman come to be on Harrow Mile at dusk, barefoot, no token, no road behind her?"',
     "He waits, the door still open and the room's warmth spilling out past him onto the step.",
   ],
+  issues: [
+    '"The door stands open beside him, and the warmth of the room spills out" - Leave It Open',
+  ],
   lore: ["place/otherwhere-x-sulon", "lore/otherwhere-x-aldous-crane"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T18:44:00.000Z",
 } as const satisfies StoryTurnPlayed
