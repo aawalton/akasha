@@ -107,6 +107,10 @@ export const superSupportiveArtonanConsulate4 = {
       fact: "The enrollment office is up one flight, and takes forms on weekdays.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Gorgon may take an enrollment form at the desk any day the lobby is open.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   within: "place/otherwhere-iii-chicago",
   secrets: "jsonl",
