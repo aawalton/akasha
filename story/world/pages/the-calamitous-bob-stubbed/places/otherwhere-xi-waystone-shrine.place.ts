@@ -56,7 +56,7 @@ export const otherwhereXiWaystoneShrine = {
     },
     {
       fact: "The ring has nine stones; one has fallen outward and lies in the grass.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
     },
     {
       fact: "The door and key are Maradoc's sign; travellers touch the key for a safe road.",
@@ -85,6 +85,10 @@ export const otherwhereXiWaystoneShrine = {
     {
       fact: "The waystone ring sits on a small power locus; casters feel a faint hum inside it.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Juniper and gorse crowd the slope below the ring, and thyme grows in the road's grass strip.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
     },
   ],
   secrets: "jsonl",

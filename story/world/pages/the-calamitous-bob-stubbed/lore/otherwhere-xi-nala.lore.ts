@@ -80,6 +80,14 @@ export const otherwhereXiNala = {
       fact: "She came with no path, no skill and no step, and no mana she can yet feel.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala understands the local speech as plainly as English, though it is no tongue she knows.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
+    },
+    {
+      fact: "At sunrise on day one Nala met a shepherd boy, his flock and his grey dog Smoke on the hill road.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

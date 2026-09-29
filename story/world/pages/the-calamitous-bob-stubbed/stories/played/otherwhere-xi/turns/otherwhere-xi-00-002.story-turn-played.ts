@@ -41,5 +41,6 @@ export const otherwhereXi00002 = {
     "place/otherwhere-xi-wether-hills",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-28T06:20:00.000Z",
 } as const satisfies StoryTurnPlayed
