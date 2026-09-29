@@ -1512,12 +1512,14 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/tower-of-nimue/lore/the-fall-first-cull.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/tower-of-nimue/lore/the-harvest-and-the-conversion.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/tower-of-nimue/lore/the-system.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-affinities.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-alice-vane.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-arthur.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-ascension.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-benjamin.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-brian-sterling.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-clarissa.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-constructs.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-core.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-customs.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-cycling.lore.ts","typed":true,"deferred":false}
@@ -1531,6 +1533,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-healing.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-horned-rabbit.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-logan.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-mana.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-marcus.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-money.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-nala.lore.ts","typed":true,"deferred":false}
@@ -1551,6 +1554,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-thomas.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-tiers.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-titles.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-trances.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-troll.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-wolf.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-world-tree.lore.ts","typed":true,"deferred":false}
