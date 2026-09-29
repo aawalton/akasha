@@ -1617,6 +1617,8 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-zansee.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/super-supportive/lore/super-supportive-zeridee-undh.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-adventurers.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-aldous-crane.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-brookside-four.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-classes.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-corr-children.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-daily-life.lore.ts","typed":true,"deferred":false}
@@ -1649,6 +1651,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-recent-events.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-reincarnation.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-rennick-hale.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-selby.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-simon.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-slimes-and-cores.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-syl.lore.ts","typed":true,"deferred":false}
