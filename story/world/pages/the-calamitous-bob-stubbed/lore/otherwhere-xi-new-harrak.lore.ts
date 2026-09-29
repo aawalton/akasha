@@ -169,6 +169,10 @@ export const otherwhereXiNewHarrak = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The Spotted Feather is a well-known Harrakan house of pleasure.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "New Harrak has four cities in reclaimed valleys and over 150,000 people.",
       knowers: ["lore-disclosure/game-master"],
     },
