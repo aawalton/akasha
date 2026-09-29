@@ -73,7 +73,7 @@ export const overwhereIvKeld = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "A snow-globe labyrinth sits on a mountain far north of Keld.",
+      fact: "Keldenar knows the ways to the labyrinths of the north and guides worthy adventurers there.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
