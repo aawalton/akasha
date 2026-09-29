@@ -36,6 +36,10 @@ export const superSupportiveGorgonsBindings = {
       fact: "Pointing a selectee straight to a class would cost Gorgon his life.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "He may not make contracts that invest anyone with his authority.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
