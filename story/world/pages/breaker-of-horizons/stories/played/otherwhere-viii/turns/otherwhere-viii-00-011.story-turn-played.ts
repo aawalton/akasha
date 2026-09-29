@@ -10,7 +10,7 @@ export const otherwhereViii00011 = {
   position: 11,
   prose: "txt",
   characters: ["character-player/otherwhere-viii-nala", "character-other/otherwhere-viii-hallick"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     '"I would be grateful for both. I\'ve long been accustomed to living where I work and I love both to learn and to teach."',
   beats: [
@@ -20,7 +20,7 @@ export const otherwhereViii00011 = {
     "Here, he says, the learning comes first.",
     "He sets out the terms quietly, while the apprentices hang about at the workshop door.",
     "She works the benches from eight till four, and is paid each evening, in cash.",
-    "The room is part of the wage; the Institute takes nothing for it.",
+    "The room comes with the wage.",
     "After four, when the apprentices have gone, she is his pupil, at this bench.",
     "He will teach her the Basic Set first, the way every child learns it.",
     "In return he wants tables: the Institute's other tables, worked the way she worked the lens.",
@@ -38,7 +38,7 @@ export const otherwhereViii00011 = {
     "The master says a journeyman had the room, before the call-up took him north.",
     "His shirts are still in a crate under the bed, if she wants them; far too big, he adds.",
     "He tells her the benches start at eight, and goes back down the stair.",
-    "She stands in a room of her own, where the lamp and the tap both answer to marks she can't read.",
+    "Below her, through the boards, the workshop starts up: voices, a wheel, the scrape of stools.",
   ],
   issues: [
     '"so the Institute takes nothing for it" - Plain Negation',
