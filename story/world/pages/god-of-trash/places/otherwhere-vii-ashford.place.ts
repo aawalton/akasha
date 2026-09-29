@@ -177,6 +177,22 @@ export const otherwhereViiAshford = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Joan puts a hired woman in the loft over the cow byre: warm, a straw tick, a ladder up.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Joan is lean and quick, and judges a guest by her manners at table and her hands at work.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Joan would lend a decent hired woman Bet's old brown kirtle and a pair of worn clogs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldo's household eats porridge at dawn, bread and pottage at noon, and stew with ale at dusk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Winnowing is tossing grain in a flat basket so the draught takes the chaff; it takes a knack.",
       knowers: [
         "lore-disclosure/game-master",
