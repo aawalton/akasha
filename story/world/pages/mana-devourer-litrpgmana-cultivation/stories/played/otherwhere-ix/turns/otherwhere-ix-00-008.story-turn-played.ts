@@ -7,7 +7,17 @@ export const otherwhereIx00008 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],
   position: 8,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "I grab another glass shard and stab it again",
+  beats: [
+    "Nala tears another sliver out of her forearm, her fingers slippery and shaking.",
+    "She stabs down at the beast's throat again.",
+    "It is twisting as she strikes, and the point skids off the hard bone of its jaw instead.",
+    "The sliver jolts out of her wet grip and drops somewhere into the glassgrass.",
+    "The beast wrenches its whole body sideways, dragging on her calf with its locked jaws.",
+    "Something in her leg tears; the pain goes white, and for a moment she cannot see.",
+    "When her sight clears, her hands are shaking badly and her leg will barely answer her.",
+    "The stub of glass still stands in its throat, and it is still hanging on, breathing hard.",
+  ],
   endsAt: "2026-09-28T15:39:00.000Z",
 } as const satisfies StoryTurnPlayed
