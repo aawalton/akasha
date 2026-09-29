@@ -10,7 +10,7 @@ export const otherwhereXi00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-xi-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I start walking towards the houses, looking for people.",
   beats: [
     "Nala leaves the ring by the road side, past a ninth stone lying fallen outward in the grass.",
@@ -31,11 +31,15 @@ export const otherwhereXi00002 = {
     "The words are in no language she has ever heard, and she understands them as plainly as English.",
     "He says nothing more: he stands, one hand on the dog's scruff, waiting for her to speak.",
   ],
+  issues: [
+    '"He doesn\'t say anything else. He stands in the road" - No Prompt',
+    '"He doesn\'t say anything else. He stands in the road" - Leave It Open',
+  ],
   lore: [
     "place/otherwhere-xi-tavelford",
     "place/otherwhere-xi-waystone-shrine",
     "place/otherwhere-xi-wether-hills",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T06:20:00.000Z",
 } as const satisfies StoryTurnPlayed
