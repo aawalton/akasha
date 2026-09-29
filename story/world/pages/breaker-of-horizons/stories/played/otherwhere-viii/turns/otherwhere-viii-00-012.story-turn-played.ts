@@ -4,10 +4,13 @@ export const otherwhereViii00012 = {
   id: "01a0eb28-cc7f-7829-b15c-1c51d321a8ee",
   type: "page-type/story-turn-played",
   slug: "otherwhere-viii-00-012",
+  ownLength: 285,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-viii"],
   position: 12,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-viii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I take off the coat and pull out a shirt from the crate and put it on, despite the size, then lie down on the bed and try to take a nap until I hear the work below stop, signalling that it is time for me to learn.",
   beats: [
@@ -29,6 +32,6 @@ export const otherwhereViii00012 = {
     "She says the master only pays a hand for the hours the hand is actually down at a bench.",
     "She stands in the doorway, one hand on the frame, waiting to see whether Nala is coming.",
   ],
-  lore: ["place/otherwhere-viii-the-workshop-room"],
+  lore: ["lore/otherwhere-viii-nala", "place/otherwhere-viii-the-workshop-room"],
   endsAt: "2026-09-28T08:05:00.000Z",
 } as const satisfies StoryTurnPlayed
