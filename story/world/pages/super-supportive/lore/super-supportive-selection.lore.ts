@@ -12,6 +12,10 @@ export const superSupportiveSelection = {
       fact: "The System offers access to about 0.07% of people; they are called or chosen.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Most are chosen between the ages of 15 and 17.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
