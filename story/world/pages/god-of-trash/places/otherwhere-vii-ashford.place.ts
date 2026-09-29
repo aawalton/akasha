@@ -273,5 +273,21 @@ export const otherwhereViiAshford = {
         "character-other/otherwhere-vii-joan-reeve",
       ],
     },
+    {
+      fact: "Joan's day: the fire lit, bread kneaded, cows milked, pigs and geese fed, water carried in.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Girls in Ashford carry water from the ford in a yoke across the shoulders, two pails at a time.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Joan has an older son, Hal, gone to Bramwick as a smith's prentice, and Bet abed upstairs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Joan would take Nala's help gladly, and would set her to kneading and carrying, not the cows.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
