@@ -1,11 +1,13 @@
 import { expect, test } from "bun:test"
+import { otherwhereXNala } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/characters/otherwhere-x-nala.character-player.ts"
 import {
   added,
   maxManaOf,
   settled,
 } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/checks/otherwhere-x-mana-strain.world-check.settling.code.ts"
+import { otherwhereXMana } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/metrics/resources/mana/otherwhere-x-mana.page-type.ts"
 
-const NALA = { character: "otherwhere-x-nala", tier: 1 }
+const NALA = { character: otherwhereXNala.slug, tier: 1 }
 
 test("a Tier 1 all on the mana path holds four times the base", () => {
   expect(maxManaOf(1, 100)).toBe(80)
@@ -53,6 +55,6 @@ test("the mana spent comes off her mana page", () => {
   const reading = { ...NALA, manaPathPercent: 100, mana: 80, spent: 30 }
   const answered = settled(reading)
   expect(added(reading, "answered" in answered ? answered.answered : null)).toEqual([
-    { page: "otherwhere-x-mana/otherwhere-x-nala", key: "value", by: -30 },
+    { page: `${otherwhereXMana.slug}/${otherwhereXNala.slug}`, key: "value", by: -30 },
   ])
 })
