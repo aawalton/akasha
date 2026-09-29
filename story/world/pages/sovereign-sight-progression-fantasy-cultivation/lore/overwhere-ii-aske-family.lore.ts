@@ -16,7 +16,7 @@ export const overwhereIiAskeFamily = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Wenna Aske, Hale's wife, is warm, loud and the better bargainer of the two.",
+      fact: "Hesper Aske, Hale's wife, is warm, loud and the better bargainer of the two.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

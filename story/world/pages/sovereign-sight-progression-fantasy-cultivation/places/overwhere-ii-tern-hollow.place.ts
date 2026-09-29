@@ -68,7 +68,7 @@ export const overwhereIiTernHollow = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Marsh Croft, Tobin Marsh's place, is a quarter mile down the lane from the barn.",
+      fact: "Marsh Croft, Garth Marsh's place, is a quarter mile down the lane from the barn.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

@@ -13,7 +13,7 @@ export const overwhereIiMarshCroft = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Tobin Marsh keeps forty ewes there, most of them in lamb, and one old pony.",
+      fact: "Garth Marsh keeps forty ewes there, most of them in lamb, and one old pony.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

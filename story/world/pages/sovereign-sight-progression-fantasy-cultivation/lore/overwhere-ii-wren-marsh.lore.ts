@@ -8,7 +8,7 @@ export const overwhereIiWrenMarsh = {
   world: "world/sovereign-sight-progression-fantasy-cultivation",
   facts: [
     {
-      fact: "Wren Marsh is Tobin's daughter, nine, thin and freckled, and never stops asking questions.",
+      fact: "Wren Marsh is Garth's daughter, nine, thin and freckled, and never stops asking questions.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
