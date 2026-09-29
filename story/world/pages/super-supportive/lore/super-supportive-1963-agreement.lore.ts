@@ -7,5 +7,11 @@ export const superSupportive1963Agreement = {
   title: "The 1963 Agreement",
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-1963-agreement",
+  facts: [
+    {
+      fact: "It bars forced psychological adjustments through the System.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
