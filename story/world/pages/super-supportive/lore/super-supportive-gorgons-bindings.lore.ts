@@ -12,6 +12,10 @@ export const superSupportiveGorgonsBindings = {
       fact: "Glowing golden ropes of magic chain Gorgon to the consulate desk, trailing like jellyfish.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "They also bar talk of chaos, his own kind and extra-dimensional incursions.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
