@@ -105,6 +105,14 @@ export const otherwhereXiSpellcasting = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "A construct's backlash can burn out its caster's conduits, as it did the duellist Mensur's.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Items holding several cores are rare, such as the Virg gauntlet or a four-core staff.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "It is hard to cast with salt water in the lungs.",
       knowers: ["lore-disclosure/game-master"],
     },
