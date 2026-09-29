@@ -4,13 +4,14 @@ export const otherwhereIii00016 = {
   id: "01a0ea9e-560c-775f-b219-8a7da7138a1c",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-016",
+  cover: "image/image-ace7b1bd97071d85",
   ownLength: 384,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
   position: 16,
   prose: "txt",
   characters: ["character-player/otherwhere-iii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I wait for the tourists to leave, then go up to the unusual person behind the desk, then say quietly \"You don't know me, but I have a feeling I can trust you, and I have a tale to tell that I don't think you've ever heard before. Could we speak privately?\"",
   beats: [
@@ -30,6 +31,6 @@ export const otherwhereIii00016 = {
   ],
   lore: ["lore/super-supportive-gorgon", "lore/super-supportive-gorgons-bindings"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2037-01-31T09:30:00.000Z",
 } as const satisfies StoryTurnPlayed
