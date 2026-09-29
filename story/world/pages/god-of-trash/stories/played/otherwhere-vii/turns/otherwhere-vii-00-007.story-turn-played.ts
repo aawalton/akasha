@@ -15,7 +15,7 @@ export const otherwhereVii00007 = {
     "character-other/otherwhere-vii-gammer-wyn",
     "character-other/otherwhere-vii-tamsin",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "\"My father was a scribe. I've mostly worked with my wits and not my muscles. I can read, write, and do sums, but not sure that's needed here.\"",
   beats: [
@@ -43,8 +43,9 @@ export const otherwhereVii00007 = {
   issues: [
     '"a few are crossed through" - lore: the stick has 9 crossed notches, grouped last at the thin end',
     '"here and there one is crossed through" - lore: 9 crossed notches, grouped last at the thin end',
+    '"Wyn pays her no mind" - Plain Negation',
   ],
   lore: ["lore/otherwhere-vii-aldo-reeve", "place/otherwhere-vii-ashford"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T08:14:00.000Z",
 } as const satisfies StoryTurnPlayed
