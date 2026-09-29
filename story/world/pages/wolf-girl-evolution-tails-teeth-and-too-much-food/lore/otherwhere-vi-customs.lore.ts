@@ -111,5 +111,37 @@ export const otherwhereViCustoms = {
       fact: "A feast is how a town honours its dead and its heroes alike.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Guest-right: anyone who asks shelter of a roof is fed and warmed that night, no questions.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Guest-right is asked plainly and granted without haggling; to refuse is a deep shame.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Guest-right lasts the night and the morning meal; longer means work, pay or the road.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A guest owes news of the road, honest answers, and no hand raised under that roof.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A guest brings no ill name in; asking shelter while hunted puts the host in the quarrel.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Charcoal burners, drovers and shepherds hold guest-right hardest; they live by it themselves.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A barefoot stranger in a torn shirt and tights reads as a runaway or a madwoman to Weald folk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Folk ask a stranger's name, home village and road; no name and no village is a bad answer.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
