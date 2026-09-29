@@ -51,5 +51,6 @@ export const otherwhereIii00018 = {
     "lore/super-supportive-selection",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2037-01-31T09:40:00.000Z",
 } as const satisfies StoryTurnPlayed
