@@ -14,7 +14,7 @@ export const otherwhereX00010 = {
     "world-character/otherwhere-x-aldous-crane",
     "world-character/otherwhere-x-martha-deane",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     '"I told you I come from far away, far enough that the tongue of Sulon is not the only tongue. I\'m fluent in a few tongues and can understand several more."',
   beats: [
@@ -50,6 +50,6 @@ export const otherwhereX00010 = {
     "place/otherwhere-x-harrow-lock-up",
     "place/otherwhere-x-the-sheaf",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T19:25:00.000Z",
 } as const satisfies StoryTurnPlayed
