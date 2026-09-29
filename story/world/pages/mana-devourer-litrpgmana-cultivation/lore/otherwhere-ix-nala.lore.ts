@@ -126,7 +126,7 @@ export const otherwhereIxNala = {
     },
     {
       fact: "Her status lists Strength, Agility, Arcana, Constitution, Spirit, and a greyed [???: 0].",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "Nala is G Grade; her mana core, low in her belly, makes G Grade Spirit Mana.",
@@ -182,7 +182,7 @@ export const otherwhereIxNala = {
     },
     {
       fact: "Levelling heals nothing, and the system grants no talent or healing for being asked.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "Asked for Status aloud or in thought, the system shows her status screen at once.",
@@ -191,6 +191,26 @@ export const otherwhereIxNala = {
     {
       fact: "Points put into Constitution lift her most health, and her current health by as much.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Killing the shardback brought Nala two level-up boxes: sixteen, then 24 unspent stat points.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "Asked aloud for Status, the system showed Nala her status screen at once.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "After the kill Nala's status reads Class: Otherworlder (Earth) (Tier: Novice 4).",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "At Novice 4 Nala has Strength 8, Agility 12, Arcana 8, Constitution 12 and Spirit 16.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "At Novice 4 Nala's maximum health is 170 and her mana 344.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
   ],
   secrets: "jsonl",

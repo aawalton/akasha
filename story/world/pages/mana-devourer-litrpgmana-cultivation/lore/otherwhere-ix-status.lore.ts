@@ -10,7 +10,7 @@ export const otherwhereIxStatus = {
   facts: [
     {
       fact: "A status screen lists Name, Class, Health, Mana, then six attribute lines.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: 'Each line is its own bracketed box, such as "[Name: Markus Brown]".',
@@ -38,7 +38,7 @@ export const otherwhereIxStatus = {
     },
     {
       fact: "The attribute lines run Strength, Agility, Arcana, Constitution, Spirit, then a sixth.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: 'Where the sixth attribute is locked, its line reads "[???: 0]".',
@@ -76,10 +76,7 @@ export const otherwhereIxStatus = {
       fact: 'The status can show mana as a share of capacity: "[Current Mana Capacity: 205%."',
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: '…followed by "View breakdown? Y/N.]"',
-      knowers: ["lore-disclosure/game-master"],
-    },
+    { fact: '…followed by "View breakdown? Y/N.]"', knowers: ["lore-disclosure/game-master"] },
     {
       fact: 'The breakdown begins "[Stored mana by Grade:]" and lists each grade and type.',
       knowers: ["lore-disclosure/game-master"],
