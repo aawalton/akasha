@@ -12,6 +12,10 @@ export const superSupportiveAvowedCommunicationsNetwork = {
       fact: "It is the System's phone network for a planet, reached by a very long number.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "It greets callers as Earthling and asks unregistered ones for name, reason and urgency.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
