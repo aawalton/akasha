@@ -97,6 +97,10 @@ export const superSupportiveGorgon = {
       fact: "He would rather she not speak such secrets aloud inside a building full of Artonan magic.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The name Gorgon is likely a concession to human vocal cords.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
