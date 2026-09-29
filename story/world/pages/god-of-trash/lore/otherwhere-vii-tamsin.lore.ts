@@ -24,5 +24,13 @@ export const otherwhereViiTamsin = {
       fact: "Tamsin can't read and is jealous of anyone who can; Aldo once meant to send her to learn.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Tamsin wants letters more than anything, and would sooner die than say so to Nala.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tamsin is quick with numbers once shown, quicker than her uncle.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
