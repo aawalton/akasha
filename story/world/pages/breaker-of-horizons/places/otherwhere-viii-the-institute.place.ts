@@ -54,7 +54,11 @@ export const otherwhereViiiTheInstitute = {
     },
     {
       fact: "The grinders cannot make lenses thick or thin enough to fill those ends and measure them.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-viii-hallick",
+        "character-player/otherwhere-viii-nala",
+      ],
     },
     {
       fact: "So the blank rows must be worked out from the filled ones, and no one has found the rule.",
