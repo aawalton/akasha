@@ -158,6 +158,14 @@ export const otherwhereXiNala = {
         "world-character/otherwhere-xi-wenna-ashlar",
       ],
     },
+    {
+      fact: "Nala held the down ewe's head in her lap and calmed her by talking low.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

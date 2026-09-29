@@ -282,11 +282,19 @@ export const otherwhereXiWennaAshlar = {
     },
     {
       fact: "A turned lamb must be pushed back and its legs brought forward by a hand inside the ewe.",
-      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-player/otherwhere-xi-nala",
+      ],
     },
     {
       fact: "Wenna's big, cracked hands struggle inside a small ewe; slim hands turn a lamb more easily.",
-      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-player/otherwhere-xi-nala",
+      ],
     },
     {
       fact: "Wenna has lost two ewes this spring to turned lambs, and cannot spare a third.",
@@ -298,7 +306,11 @@ export const otherwhereXiWennaAshlar = {
     },
     {
       fact: "For a hard lambing Wenna wants a helper to hold the ewe's head, then fetch tallow and water.",
-      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-player/otherwhere-xi-nala",
+      ],
     },
     {
       fact: "In Tavelford, a helper who saves a ewe at a hard lambing is owed a place at the table.",
@@ -350,6 +362,22 @@ export const otherwhereXiWennaAshlar = {
     },
     {
       fact: "Wenna's way with ewes: move slow, come at a ewe from the side, never grab the wool.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
+    },
+    {
+      fact: "Wenna has lost two ewes before to turned lambs.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
+    },
+    {
+      fact: "Wenna asked Nala to turn the down ewe's lamb, as Nala's small hands fit where hers cannot.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",

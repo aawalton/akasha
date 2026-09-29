@@ -125,5 +125,17 @@ export const otherwhereXiAshlarFarm = {
         "world-character/otherwhere-xi-wenna-ashlar",
       ],
     },
+    {
+      fact: "A crock of tallow sits on the shelf inside the Ashlar farmhouse door.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
+    },
+    {
+      fact: "The Ashlar cistern water smells of stone and snowmelt.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
+    },
   ],
 } as const satisfies Place
