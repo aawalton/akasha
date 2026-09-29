@@ -11,4 +11,5 @@ export const otherwhereIii00021 = {
   action:
     'While I wait for the Artonan staff to arrive, I tell Gorgon. "Thank you. If I someday have the power, I will help you if I can."',
   lore: ["lore/otherwhere-iii-onn-desveth", "lore/super-supportive-gorgon"],
+  endsAt: "2037-01-31T10:31:00.000Z",
 } as const satisfies StoryTurnPlayed
