@@ -37,6 +37,42 @@ export const otherwhereViiiTheInstitute = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Hallick's bench problem is a lens table: where each thickness of lens throws a lamp's focus.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The table was measured lens by lens over years; its middle rows are sound and its ends blank.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The grinders cannot make lenses thick or thin enough to fill those ends and measure them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "So the blank rows must be worked out from the filled ones, and no one has found the rule.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hallick calls the missing rule the gap, and has set it to fourteen claimants in eleven years.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "On the bench: the slate of numbers, chalk, a ruled measure, dividers and three ground lenses.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A testing stand holds a lamp and a long rule, where a lens's focus is measured by eye.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The rule behind the numbers is plain: focus distance falls as thickness rises, in proportion.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Whoever sees the proportion can fill the blank rows, and check one against a lens at hand.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The teaching halls have tiered benches, a lectern, and a slate board across the front wall.",
       knowers: ["lore-disclosure/game-master"],
     },
