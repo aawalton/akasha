@@ -73,31 +73,6 @@ export const otherwhereXMarthaDeane = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Martha wants a straight answer more than a safe one, and trusts a strange truth over a smooth lie.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Once her room turns uneasy, Martha settles it by giving the stranger to the reeve for the night.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-x-nala",
-        "world-character/otherwhere-x-martha-deane",
-        "world-character/otherwhere-x-aldous-crane",
-      ],
-    },
-    {
-      fact: "A stranger handed to the reeve loses the Sheaf's loft for that night; Martha can't have both.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Martha holds a singer's supper owed and gives it when she can; the coppers go with the singer.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Martha would have a cleared singer back in the loft the next night, and would say so.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
       fact: "After Nala's songs Martha said the lass can sing, and asked another, then where she got such songs.",
       knowers: [
         "lore-disclosure/game-master",

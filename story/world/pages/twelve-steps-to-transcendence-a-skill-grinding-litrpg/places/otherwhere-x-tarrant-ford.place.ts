@@ -24,7 +24,18 @@ export const otherwhereXTarrantFord = {
       fact: "Sergeant Maud Ferrer holds the waystation with eight soldiers and two horses.",
       knowers: ["lore-disclosure/game-master"],
     },
-
+    {
+      fact: "Maud Ferrer is forty, weathered and stern, Tier 1, fair but never easy to fool.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Maud lost a brother at the border camp; she takes the skinwalker rumours seriously.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Corporal Denny Ruck is twenty, loose-tongued, kind to a pretty face and eager for trouble.",
+      knowers: ["lore-disclosure/game-master"],
+    },
     {
       fact: "The soldiers stop travellers without road tokens and ask their names, homes and business.",
       knowers: ["lore-disclosure/game-master"],
@@ -53,7 +64,10 @@ export const otherwhereXTarrantFord = {
       fact: "Maud sent a rider to the capital on day one's evening to report the surge.",
       knowers: ["lore-disclosure/game-master"],
     },
-
+    {
+      fact: "On day two at noon Denny Ruck and two soldiers ride east to look for the surge's cause.",
+      knowers: ["lore-disclosure/game-master"],
+    },
     {
       fact: "The patrol reaches Harrow Mile mid-afternoon of day two and Harrow by evening.",
       knowers: ["lore-disclosure/game-master"],
