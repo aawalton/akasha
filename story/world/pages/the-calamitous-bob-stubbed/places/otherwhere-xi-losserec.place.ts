@@ -48,5 +48,9 @@ export const otherwhereXiLosserec = {
       fact: "Seldon-upon-Tane lies due south of Losserec.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Lord Selok, a lord of Losserec, keeps a marsh drake in the city, an expensive beast.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
