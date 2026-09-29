@@ -16,6 +16,10 @@ export const superSupportiveGorgonsBindings = {
       fact: "They also bar talk of chaos, his own kind and extra-dimensional incursions.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Speaking past them costs him; one outburst was a costly moment of melancholy.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
