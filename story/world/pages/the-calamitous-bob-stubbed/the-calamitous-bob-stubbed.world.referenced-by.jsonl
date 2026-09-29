@@ -34,7 +34,16 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-kark.world-species.ts","id":"01a0ea75-99ec-7b9b-b818-041c28e9a145"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-merls.world-species.ts","id":"01a0ea77-0c38-7c64-a9a5-75560cbc2323"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-yries.world-species.ts","id":"01a0ea77-0c38-7c2f-9f99-293118fe9156"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-endless-sea.place.ts","id":"01a0ea77-3d60-7fda-a252-5b9e8e0eb857"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-in-between.place.ts","id":"01a0ea77-3d60-7966-bc35-bc5442ded9aa"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-larrean.place.ts","id":"01a0ea77-3d61-761a-8f8e-e9c5370ffdac"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-nemeti-lands.place.ts","id":"01a0ea77-3d61-7509-80f9-db2c7aa29feb"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-param.place.ts","id":"01a0ea77-3d61-7e2e-8abf-3eb2886cda7d"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-shadowlands.place.ts","id":"01a0ea77-3d62-7689-a50f-718688999038"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-vizim.place.ts","id":"01a0ea77-3d67-7937-b3b8-a465cdfebf9d"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-viziman-ocean.place.ts","id":"01a0ea77-3d67-7403-85b1-f40b589aa08b"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-waystone-shrine.place.ts","id":"01a0ea63-7455-7444-93e2-a06ae5a6d438"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-western-land.place.ts","id":"01a0ea77-3d68-7331-a57b-9102f17309c2"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/stories/played/otherwhere-xi/mechanics/checks/otherwhere-xi-needs.world-check.ts","id":"01a0ea6c-e6a7-7e95-8c3b-933b7870992d"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/stories/played/otherwhere-xi/mechanics/checks/otherwhere-xi-standing.world-check.ts","id":"01a0ea6d-a7cc-7178-831f-f6a73e3abf3b"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/stories/played/otherwhere-xi/mechanics/checks/otherwhere-xi-time-passing.world-check.ts","id":"01a0ea6b-815f-7fff-aab6-0c2e2daf9d12"}
