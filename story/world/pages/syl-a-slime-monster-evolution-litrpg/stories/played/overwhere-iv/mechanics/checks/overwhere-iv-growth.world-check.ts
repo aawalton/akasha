@@ -74,7 +74,7 @@ export const overwhereIvGrowth = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Riftmancer is offered once a class of hers and Dimension Magic both reach LV 10.",
+      statement: "Riftmancer is offered once she holds a class and Dimension Magic reaches LV 5.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -99,7 +99,7 @@ export const overwhereIvGrowth = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Each Dimension Magic level adds ten paces of reach and three most mana.",
+      statement: "Each Dimension Magic level adds ten paces of reach and three to her most mana.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -107,7 +107,11 @@ export const overwhereIvGrowth = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "At LV 3 she finds Spatial Sense, at LV 4 Personal Rift, at LV 5 Rift Beacon.",
+      statement: "At LV 3 she finds Spatial Sense, and at LV 5 Rift Beacon.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Personal Rift comes with the Riftmancer class, and to no one without it.",
     },
     {
       decisionKind: "decision-kind/departure",
