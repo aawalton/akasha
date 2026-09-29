@@ -23,6 +23,10 @@ export const otherwhereIiiHarborHouse = {
       fact: "Doors open at five in the evening; dinner at six, lights out at ten.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Breakfast is at six-thirty, and everyone must be out by half past seven.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
