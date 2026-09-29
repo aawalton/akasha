@@ -138,7 +138,11 @@ export const otherwhereViCustoms = {
     },
     {
       fact: "Charcoal burners, drovers and shepherds hold guest-right hardest; they live by it themselves.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-jory-tull",
+      ],
     },
     {
       fact: "A barefoot stranger in a torn shirt and tights reads as a runaway or a madwoman to Weald folk.",
