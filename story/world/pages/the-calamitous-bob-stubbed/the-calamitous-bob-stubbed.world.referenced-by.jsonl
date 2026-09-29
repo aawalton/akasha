@@ -29,6 +29,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-brick.world-character.ts","id":"01a0ea79-0306-7cef-a9b3-91b65ffad6c4"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-cadril-the-mountain.world-character.ts","id":"01a0ea7c-e49c-794c-89ea-c26b518a80cd"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-caeno.world-character.ts","id":"01a0ea7c-e49f-7503-a38b-9f68d1aa1a47"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-casimir-oresh.world-character.ts","id":"01a0ea92-6c0c-7db9-b17d-881b32e6e9d2"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-cassia.world-character.ts","id":"01a0ea7b-2e7a-71bf-96d4-72f6b85cb08e"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-celerin-crest.world-character.ts","id":"01a0ea7a-6436-7052-8768-bac2593c04c1"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-cernit.world-character.ts","id":"01a0ea7a-6437-7e81-9de2-f4fa3017b1a6"}
@@ -44,6 +45,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-deos.world-character.ts","id":"01a0ea7c-0781-7696-a9fb-aee5d18414c2"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-dessa-vey.world-character.ts","id":"01a0ea90-0dd3-7571-9473-4983a3a62b20"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-dirge.world-character.ts","id":"01a0ea7c-0781-7149-98c3-f4fe220a2584"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-dov.world-character.ts","id":"01a0ea92-6c0d-785d-aead-18ce7ec4b990"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-durgan.world-character.ts","id":"01a0ea7c-e4a2-7798-b3f2-f851d92138c2"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-earth-fire-bleeding-from-a-mountain-flank.world-character.ts","id":"01a0ea7f-d845-74a5-a03c-eb9a81e5ce0d"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-echna.world-character.ts","id":"01a0ea91-ff29-702a-9c27-e679302f32b0"}
@@ -162,6 +164,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-lydia.world-character.ts","id":"01a0ea90-86da-7e5f-b193-a7330b12185e"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-lyssa.world-character.ts","id":"01a0ea8f-a12b-7221-b9eb-22742743a207"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-magrit.world-character.ts","id":"01a0ea80-4333-7f73-9162-2768e3c7d3e9"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-makram.world-character.ts","id":"01a0ea92-6c0d-7fa5-aac7-44a2c3eace27"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-mar-the-younger.world-character.ts","id":"01a0ea80-4333-744d-b70d-c6d4cc4363d1"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-maradoc.world-character.ts","id":"01a0ea79-0253-7fed-8079-c450c72f11e5"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-maranor.world-character.ts","id":"01a0ea79-0254-77c3-909e-10a4980c9dc5"}
@@ -342,6 +345,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-cadril-the-mountain.lore.ts","id":"01a0ea7c-e4a7-758b-be5a-1a3f581675c4"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-caeno.lore.ts","id":"01a0ea7c-e4a7-72f6-8584-fc5cb8959e42"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-calendar.lore.ts","id":"01a0ea8a-f4ff-74ef-a7ec-88ea38b94349"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-casimir-oresh.lore.ts","id":"01a0ea92-6c0d-7861-9c80-2f3b72b94277"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-cassia.lore.ts","id":"01a0ea7b-2e7b-7164-b283-aa440653b3ab"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-caster-core.lore.ts","id":"01a0ea81-dc6c-7564-a6b2-54c37c249be7"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-celerin-crest.lore.ts","id":"01a0ea7a-6437-7f63-8ded-4e75c90d6d64"}
@@ -381,6 +385,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-divine-mana.lore.ts","id":"01a0ea7f-ce60-71c1-a04a-e9d634596773"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-divine-oath.lore.ts","id":"01a0ea82-7962-75fb-9003-dac89eb49d3f"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-divine-spark.lore.ts","id":"01a0ea82-7963-7f88-94db-5762df97c6b8"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-dov.lore.ts","id":"01a0ea92-6c0d-7bc1-9ea3-4c057eeb5476"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-dragons.lore.ts","id":"01a0ea79-2034-751b-bf34-f0cc2bed057c"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-durgan.lore.ts","id":"01a0ea7c-e4ab-784d-9710-3e5643ee266b"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-earth-fire-bleeding-from-a-mountain-flank.lore.ts","id":"01a0ea7f-d846-766e-9d12-84f821cb6927"}
@@ -552,6 +557,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-lydia.lore.ts","id":"01a0ea90-86db-744d-bbc7-747250aa1f25"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-lyssa.lore.ts","id":"01a0ea8f-a12c-7390-b726-877d6ac5fb85"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-magrit.lore.ts","id":"01a0ea80-4334-7c64-adda-ba0ff8295671"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-makram.lore.ts","id":"01a0ea92-6c0e-77db-aaeb-e88905b35cfc"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-mana-poisoning.lore.ts","id":"01a0ea7c-4d18-7381-9067-e6828bb0bb61"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-mana.lore.ts","id":"01a0ea7c-4d18-7d84-bec0-18842fd30461"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-manipeleso-bank.lore.ts","id":"01a0ea80-af46-70fa-9504-d14d050dd2a0"}
