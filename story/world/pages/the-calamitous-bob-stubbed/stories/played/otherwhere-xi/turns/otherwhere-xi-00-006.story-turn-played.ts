@@ -4,6 +4,7 @@ export const otherwhereXi00006 = {
   id: "01a0eabd-fd27-7e7b-b3c3-cfa25d9907bc",
   type: "page-type/story-turn-played",
   slug: "otherwhere-xi-00-006",
+  cover: "image/image-37edc8c7148c6f1f",
   ownLength: 284,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-xi"],
@@ -14,7 +15,7 @@ export const otherwhereXi00006 = {
     "world-character/otherwhere-xi-wenna-ashlar",
     "world-character/otherwhere-xi-tobin-ashlar",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "\"I'm sorry to have pulled your boy from his duties Ma'am. He mentioned that you knew the old stories, so I have come seeking your wisdom, for much truth is preserved only in old stories. What do you know of the Waystones? Are there tales of travelers who arrive at them not by any road?\"",
   beats: [
@@ -41,6 +42,6 @@ export const otherwhereXi00006 = {
   ],
   lore: ["lore/otherwhere-xi-wenna-ashlar", "place/otherwhere-xi-waystone-shrine"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T07:31:00.000Z",
 } as const satisfies StoryTurnPlayed
