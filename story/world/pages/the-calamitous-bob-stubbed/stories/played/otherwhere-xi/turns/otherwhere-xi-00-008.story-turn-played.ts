@@ -35,10 +35,14 @@ export const otherwhereXi00008 = {
     '"One lamb," she says, hands in the fleece, feeling. "It\'s turned." She does not look up.',
     "The yard has gone quiet. The girls stand still by the woodpile and watch.",
   ],
+  issues: [
+    '"The yard has gone quiet. The girls stand still by the woodpile and watch" - Leave It Open',
+  ],
   lore: [
     "lore/otherwhere-xi-nala",
     "lore/otherwhere-xi-wenna-ashlar",
     "place/otherwhere-xi-ashlar-farm",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T08:49:00.000Z",
 } as const satisfies StoryTurnPlayed
