@@ -60,5 +60,17 @@ export const otherwhereXMarthaDeane = {
       fact: "Martha judges folk fast and says so, which Harrow forgives because she feeds it well.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Martha judges a singer by whether the room goes quiet, and says so to their face.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Martha keeps a jar on the shelf for what a singer the room liked is given.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Martha would take on a singer who could hold the Sheaf through the winter.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

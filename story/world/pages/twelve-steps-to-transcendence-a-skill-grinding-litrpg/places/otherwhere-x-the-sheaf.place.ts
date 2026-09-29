@@ -45,6 +45,26 @@ export const otherwhereXTheSheaf = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Harrow's songs are old ones: harvest songs, a May song, and soldiers' ballads.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nobody in the vale has heard a song from beyond it, so a new one is a night to remember.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Sheaf's folk pay a singer in coppers left on the trestle, one or two apiece.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Sheaf's regulars are Ned Fuller the smith, Hattie Rook, and the Cranes' two hands.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A song in a tongue the room half-knows still carries its tune, and the tune is what moves them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Of an evening a dozen or so Harrow men and women drink in the Sheaf after the dusk bell.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
     },
