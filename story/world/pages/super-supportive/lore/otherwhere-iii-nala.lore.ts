@@ -346,6 +346,30 @@ export const otherwhereIiiNala = {
         "character-other/super-supportive-gorgon",
       ],
     },
+    {
+      fact: "Nala told Onn-desveth her world holds this one as a story in a book, accurate so far.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-onn-desveth",
+      ],
+    },
+    {
+      fact: "Nala told Onn-desveth she cannot speak Artonan, though the story's main character could.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-onn-desveth",
+      ],
+    },
+    {
+      fact: "Nala told Onn-desveth events may now diverge from the story, as her actions ripple.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-onn-desveth",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

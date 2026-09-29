@@ -172,11 +172,19 @@ export const otherwhereIiiOnnDesveth = {
     },
     {
       fact: "Its terms: Nala speaks of the book and what it tells to Onn-desveth alone.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-iii-onn-desveth",
+        "character-player/otherwhere-iii-nala",
+      ],
     },
     {
       fact: "In return she reports Nala only as clean and unregistered, and tells no one of the book.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-iii-onn-desveth",
+        "character-player/otherwhere-iii-nala",
+      ],
     },
     {
       fact: "She also offers Nala a place in the consulate's spring Artonan classes.",
@@ -184,11 +192,67 @@ export const otherwhereIiiOnnDesveth = {
     },
     {
       fact: "If Nala refuses, she lets her go, but must then report all Nala told her.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-iii-onn-desveth",
+        "character-player/otherwhere-iii-nala",
+      ],
     },
     {
       fact: "She wants it made properly, by a tattooist, with time given for Nala to weigh the terms.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-iii-onn-desveth",
+        "character-player/otherwhere-iii-nala",
+      ],
+    },
+    {
+      fact: "Onn-desveth offered Nala a private contract, sealed by a tattooist, with her own name on it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-onn-desveth",
+      ],
+    },
+    {
+      fact: "Onn-desveth told Nala to speak of the book to no one else, in the consulate or outside it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-onn-desveth",
+      ],
+    },
+    {
+      fact: "She warned Nala it goes badly for them both if her superiors learn a human holds such a book.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-onn-desveth",
+      ],
+    },
+    {
+      fact: "She offered Nala a place in the consulate's spring classes as part of the contract.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-onn-desveth",
+      ],
+    },
+    {
+      fact: "She told Nala she may bring someone she trusts to hear the terms read, as is her right.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-onn-desveth",
+      ],
+    },
+    {
+      fact: "Onn-desveth pressed a card from her sleeve into Nala's hand.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-onn-desveth",
+      ],
     },
   ],
 } as const satisfies Lore
