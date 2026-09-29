@@ -304,6 +304,14 @@ export const otherwhereIiiNala = {
       fact: "Nala dialed the Earth Contract's public number from the consulate's lobby wall phone.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
+    {
+      fact: "Nala told the System's line she was born on no known world, and chaos changed her soul.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
+      fact: "Nala asked the System for affixation, and a paid contract to keep its secrets; it refused.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

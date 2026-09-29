@@ -148,6 +148,14 @@ export const superSupportiveGorgon = {
         "character-player/otherwhere-iii-nala",
       ],
     },
+    {
+      fact: "When Nala's System call went dead, he turned his head from the monitors toward her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

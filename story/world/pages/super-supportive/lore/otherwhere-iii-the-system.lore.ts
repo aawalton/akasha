@@ -50,7 +50,7 @@ export const otherwhereIiiTheSystem = {
     },
     {
       fact: "A living person on Earth with no record of birth or arrival is an anomaly the System flags.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "The network's machine voice gives the System's answers; the Contract does not speak to her itself.",
@@ -58,23 +58,23 @@ export const otherwhereIiiTheSystem = {
     },
     {
       fact: "The System takes no request for affixation outside selection, and says so plainly.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "It makes no contract of silence by telephone and does not bargain with an unregistered caller.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "A claim of passing through chaos makes the System order a chaos screening before anything else.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "It tells such a caller to stay where she is, and notifies the nearest consulate's Artonan staff.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     {
       fact: "The call is logged under her name, and her sigil stays on the lobby phone.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",
