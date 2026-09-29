@@ -56,6 +56,10 @@ export const otherwhereIiiTheSystem = {
       fact: "The network's machine voice gives the System's answers; the Contract does not speak to her itself.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The System takes no request for affixation outside selection, and says so plainly.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
