@@ -38,5 +38,6 @@ export const otherwhereIv00011 = {
   ],
   lore: ["lore/otherwhere-iv-earth-god-shrine"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-28T19:09:00.000Z",
 } as const satisfies StoryTurnPlayed

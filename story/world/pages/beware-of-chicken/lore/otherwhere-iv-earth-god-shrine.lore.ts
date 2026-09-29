@@ -87,5 +87,21 @@ export const otherwhereIvEarthGodShrine = {
       fact: "Granny Hua holds her doubts until she has seen the stranger by daylight and touched her hand.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At the dusk rite Nala asked Old Grandfather to keep his people, who honor the old ways, safe.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
+    {
+      fact: "Nala's incense smoke rose straight up, and heads bowed all through the crowd at the rite.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
+    {
+      fact: "The sharp-faced old woman frowned at the smoke, eyed Nala's ordinary shadow, and did not bow.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
+    {
+      fact: "At the rite the broad-faced brothers Fang Da and Fang Er begged Nala to take them on any hunt.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore
