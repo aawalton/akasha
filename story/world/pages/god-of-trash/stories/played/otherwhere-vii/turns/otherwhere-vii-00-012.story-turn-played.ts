@@ -14,7 +14,7 @@ export const otherwhereVii00012 = {
     "character-other/otherwhere-vii-joan-reeve",
     "character-other/otherwhere-vii-hild",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "\"From far enough away you haven't heard the name, and no one's who still walks this earth.\"",
   beats: [
@@ -29,8 +29,8 @@ export const otherwhereVii00012 = {
     "\"A penny, or a morning's picking, which I'd sooner: yarrow and comfrey by the bunch.\"",
     "\"Quarter-penny a bunch, fresh cut. The riverbank's picked bare; the good wet ground's north.\"",
     "She turns to Joan: the fever has a week in it, and Bet watched again tonight.",
-    "Joan nods, and takes the little pot and sets it on the shelf, and says nothing about paying.",
-    "Hild says Bet slept badly, and that a child dies of this fever in Ashford most autumns.",
+    "Joan nods, sets the little pot on the shelf, and lets the question of pennies lie.",
+    "Hild says Bet slept badly, and that the fever takes a child here in some years.",
     "At the door she stops with her basket on her arm, and looks back at Nala a long moment.",
     '"A woman alone needs a place, and Ashford can be one. It holds, and the folk in it hold."',
     '"So. Are you for staying here, or for the road?"',
