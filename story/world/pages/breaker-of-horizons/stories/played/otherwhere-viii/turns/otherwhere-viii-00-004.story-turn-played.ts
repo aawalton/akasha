@@ -4,13 +4,14 @@ export const otherwhereViii00004 = {
   id: "01a0ea77-e9bd-773c-8251-906318dcb84f",
   type: "page-type/story-turn-played",
   slug: "otherwhere-viii-00-004",
+  cover: "image/image-0361ff0991ab7b42",
   ownLength: 242,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-viii"],
   position: 4,
   prose: "txt",
   characters: ["character-player/otherwhere-viii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     '"Sorry, I meant the Institute of course. Still waking up it seems. Point me in the right direction? I\'m not afraid of the hills, give me a chance to clear my head."',
   beats: [
@@ -33,6 +34,6 @@ export const otherwhereViii00004 = {
   ],
   lore: ["place/otherwhere-viii-guildhall", "place/otherwhere-viii-weir-gardens"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T05:55:00.000Z",
 } as const satisfies StoryTurnPlayed
