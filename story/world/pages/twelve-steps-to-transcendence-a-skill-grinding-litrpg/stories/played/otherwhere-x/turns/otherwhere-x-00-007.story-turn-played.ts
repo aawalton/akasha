@@ -10,7 +10,12 @@ export const otherwhereX00007 = {
   partOfCollections: ["story-played/otherwhere-x"],
   position: 7,
   prose: "txt",
-  characters: ["character-player/otherwhere-x-nala", "world-character/otherwhere-x-aldous-crane"],
+  characters: [
+    "character-player/otherwhere-x-nala",
+    "world-character/otherwhere-x-aldous-crane",
+    "world-character/otherwhere-x-bess-crane",
+    "world-character/otherwhere-x-martha-deane",
+  ],
   stepStatus: "step-status/player",
   action:
     "\"I truly don't know. Some magic brought me hear beyond my understanding. I'm hoping learning more about your world will help me understand. What is the name of the kingdom? Who is the king? What is said of magic and monsters in the world at large?\"",

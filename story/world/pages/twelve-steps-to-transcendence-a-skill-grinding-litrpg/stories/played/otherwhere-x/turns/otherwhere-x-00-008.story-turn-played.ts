@@ -10,7 +10,11 @@ export const otherwhereX00008 = {
   partOfCollections: ["story-played/otherwhere-x"],
   position: 8,
   prose: "txt",
-  characters: ["character-player/otherwhere-x-nala", "world-character/otherwhere-x-aldous-crane"],
+  characters: [
+    "character-player/otherwhere-x-nala",
+    "world-character/otherwhere-x-aldous-crane",
+    "world-character/otherwhere-x-martha-deane",
+  ],
   stepStatus: "step-status/player",
   action:
     'I choose to sing "O Danny Boy", since I don\'t know if they will understand the words, but the emotions can still come through the music. After that I sing "Homeward Bound"',
