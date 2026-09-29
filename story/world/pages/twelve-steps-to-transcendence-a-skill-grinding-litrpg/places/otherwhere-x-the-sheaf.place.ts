@@ -9,10 +9,6 @@ export const otherwhereXTheSheaf = {
   within: "place/otherwhere-x-harrow",
   facts: [
     {
-      fact: "Martha Deane, a brisk widow, keeps the Sheaf, Harrow's alehouse on the green.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
       fact: "The Sheaf serves stew, dark bread and small beer, and has a straw-pallet loft above.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -21,19 +17,7 @@ export const otherwhereXTheSheaf = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Martha lost her serving girl to a harvest wedding and wants a pair of hands she can trust.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Martha is warm but no fool; she pays in board first and coin once someone proves honest.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "On day one's evening Martha Deane is at the Sheaf's hearth with a pot of mutton stew.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Martha gives supper and a loft bed for a night's songs or tales that fill the Sheaf.",
+      fact: "On day one's evening the Sheaf's hearth has a pot of mutton stew on it.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
