@@ -42,10 +42,14 @@ export const otherwhereIii00018 = {
     "The crickets chirr in the lobby plants; the ropes hum; the clock across the street reads 9:40.",
     "The leaflet says weekday evenings, downtown. Harbor House holds her bed only till seven.",
   ],
+  issues: [
+    '"Weekday evenings, downtown. At Harbor House your bed is held only till seven." - No Prompt',
+  ],
   lore: [
     "lore/super-supportive-gorgon",
     "lore/super-supportive-gorgons-bindings",
     "lore/super-supportive-selection",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2037-01-31T09:40:00.000Z",
 } as const satisfies StoryTurnPlayed
