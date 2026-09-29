@@ -14,7 +14,7 @@ export const otherwhereVii00012 = {
     "character-other/otherwhere-vii-joan-reeve",
     "character-other/otherwhere-vii-hild",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "\"From far enough away you haven't heard the name, and no one's who still walks this earth.\"",
   beats: [
