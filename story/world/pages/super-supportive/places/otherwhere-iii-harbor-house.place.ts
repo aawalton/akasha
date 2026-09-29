@@ -6,6 +6,12 @@ export const otherwhereIiiHarborHouse = {
   slug: "otherwhere-iii-harbor-house",
   title: "Harbor House",
   world: "world/super-supportive",
+  facts: [
+    {
+      fact: "Harbor House is a women's shelter in an old church hall on Sunnyside Avenue, in Uptown.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
 } as const satisfies Place
