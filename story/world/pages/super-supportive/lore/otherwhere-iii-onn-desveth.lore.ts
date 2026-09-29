@@ -182,5 +182,9 @@ export const otherwhereIiiOnnDesveth = {
       fact: "She also offers Nala a place in the consulate's spring Artonan classes.",
       knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
     },
+    {
+      fact: "If Nala refuses, she lets her go, but must then report all Nala told her.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+    },
   ],
 } as const satisfies Lore
