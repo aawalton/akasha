@@ -37,5 +37,6 @@ export const otherwhereX00003 = {
     "\"Your name, if you'd give it. Where's your home, and what's your business in Harrow?\"",
   ],
   lore: ["place/otherwhere-x-harrow"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T18:27:00.000Z",
 } as const satisfies StoryTurnPlayed
