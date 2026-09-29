@@ -1,0 +1,36 @@
+import type { Place } from "akasha/story/lore/place/place.page-type.types.ts"
+
+export const overwhereIiWhitecombs = {
+  id: "01a0ed20-ba0b-76f0-8acd-4ec9a6079647",
+  type: "page-type/place",
+  slug: "overwhere-ii-whitecombs",
+  title: "The Whitecombs",
+  world: "world/sovereign-sight-progression-fantasy-cultivation",
+  facts: [
+    {
+      fact: "The Whitecombs are the snow mountains along Wendlemere's south side, their tops in cloud.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "No road crosses the Whitecombs; the passes are goat tracks, shut by snow until summer.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Old tales tell of ruined temples high in the Whitecombs, older than the Ancestors.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "This winter thunder rolled over the Whitecombs night after night with no lightning.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hunters who went high this winter came back saying the snow up there smelled of the sea.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Wargrass and Sea-touched fennel grow on the lower slopes, if one knows where to look.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
+  secrets: "jsonl",
+} as const satisfies Place
