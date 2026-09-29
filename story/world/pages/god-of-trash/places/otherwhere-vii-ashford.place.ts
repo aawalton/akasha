@@ -199,7 +199,12 @@ export const otherwhereViiAshford = {
     },
     {
       fact: "Gammer Wyn hears 'scribe's daughter' as gentry fallen on hard times, and says so loudly.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-gammer-wyn",
+        "character-other/otherwhere-vii-tamsin",
+      ],
     },
     {
       fact: "Gammer Wyn knows Aldo frets over the steward's ledger, and would steer a reader to him.",
@@ -251,6 +256,14 @@ export const otherwhereViiAshford = {
     },
     {
       fact: "In Aldo's barn men thresh barley with flails on beaten earth; he says flails are men's work.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+      ],
+    },
+    {
+      fact: "Tally sticks of split hazel hang in a bundle from a peg on a post by Aldo's barn door.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-vii-nala",

@@ -136,6 +136,16 @@ export const otherwhereViiNala = {
         "character-other/otherwhere-vii-tamsin",
       ],
     },
+    {
+      fact: "Nala says her father was a scribe, and that she can read, write and do sums.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-gammer-wyn",
+        "character-other/otherwhere-vii-tamsin",
+        "character-other/otherwhere-vii-aldo-reeve",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

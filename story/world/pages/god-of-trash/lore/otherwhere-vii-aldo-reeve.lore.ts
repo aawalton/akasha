@@ -42,7 +42,11 @@ export const otherwhereViiAldoReeve = {
     },
     {
       fact: "Aldo cannot read; he keeps Ashford's harvest count in notches on tally sticks.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+      ],
     },
     {
       fact: "After threshing, the mountain school's steward weighs Ashford's grain and takes a tenth.",
@@ -58,7 +62,11 @@ export const otherwhereViiAldoReeve = {
     },
     {
       fact: "The steward comes in about six days, when the threshing is done.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+      ],
     },
     {
       fact: "On an Ashford tally a deep notch is ten sacks and a shallow notch is one sack.",
@@ -78,7 +86,11 @@ export const otherwhereViiAldoReeve = {
     },
     {
       fact: "Last year's barley stick has 7 deep notches, 4 shallow and 9 crossed.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-player/otherwhere-vii-nala",
+      ],
     },
     {
       fact: "The stick's true count: 74 sacks threshed, 9 taken as tithe, 65 left to Ashford.",
@@ -148,6 +160,30 @@ export const otherwhereViiAldoReeve = {
         "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-aldo-reeve",
         "character-other/otherwhere-vii-gammer-wyn",
+      ],
+    },
+    {
+      fact: "The steward from the mountain weighs Ashford's grain after threshing and takes his tenth.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+      ],
+    },
+    {
+      fact: "The steward writes the tithe in his book, and Aldo makes his mark under it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+      ],
+    },
+    {
+      fact: "Aldo handed Nala last year's barley tally and asked her to reckon what it comes to.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
       ],
     },
   ],
