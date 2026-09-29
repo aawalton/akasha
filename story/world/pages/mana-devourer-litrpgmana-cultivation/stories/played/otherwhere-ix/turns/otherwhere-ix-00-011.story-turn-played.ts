@@ -10,4 +10,5 @@ export const otherwhereIx00011 = {
   stepStatus: "step-status/game-master",
   action: '"Okay, I put all 24 stat points into Consitutation."',
   lore: ["lore/otherwhere-ix-nala", "lore/otherwhere-ix-stat-points"],
+  endsAt: "2026-09-28T15:45:00.000Z",
 } as const satisfies StoryTurnPlayed
