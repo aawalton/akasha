@@ -62,7 +62,11 @@ export const otherwhereViiiTheInstitute = {
     },
     {
       fact: "Hallick calls the missing rule the gap, and has set it to fourteen claimants in eleven years.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-viii-hallick",
+        "character-player/otherwhere-viii-nala",
+      ],
     },
     {
       fact: "On the bench: the slate of numbers, chalk, a ruled measure, dividers and three ground lenses.",
