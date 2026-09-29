@@ -15,7 +15,7 @@ export const otherwhereX00009 = {
     "world-character/otherwhere-x-aldous-crane",
     "world-character/otherwhere-x-martha-deane",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     'I sing "Dulaman" as a third one in the Celtic tradition, this time I test and deliberately try to sing in the original language, since I don\'t understand the words anyways. When I\'m done, I answer the question. "I\'ve been singing off and on for basically my whole life, just comes naturally. These are popular songs where I am from, but that is far, far away."',
   beats: [
@@ -57,6 +57,6 @@ export const otherwhereX00009 = {
     "place/otherwhere-x-the-sheaf",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
   endsAt: "2026-09-28T19:21:00.000Z",
 } as const satisfies StoryTurnPlayed
