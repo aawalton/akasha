@@ -4,13 +4,14 @@ export const otherwhereIx00006 = {
   id: "01a0ea78-aa5d-7553-8a99-329066c5ca03",
   type: "page-type/story-turn-played",
   slug: "otherwhere-ix-00-006",
+  cover: "image/image-f3930ab6578b3213",
   ownLength: 183,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],
   position: 6,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I wrap my thighs around its neck and squeeze with all my strength, working to crush its windpipe.",
   beats: [
@@ -32,6 +33,6 @@ export const otherwhereIx00006 = {
   ],
   lore: ["lore/otherwhere-ix-shardback"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T15:37:00.000Z",
 } as const satisfies StoryTurnPlayed
