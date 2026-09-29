@@ -87,6 +87,7 @@ export const worldCheck = {
     "world-check/otherwhere-x-growth",
     "world-check/otherwhere-x-mana-strain",
     "world-check/overwhere-ii-time-passing",
+    "world-check/overwhere-i-time-passing",
   ],
   properties: [{ pageProperty: "module-property-group/settling", required: true, many: false }],
   decisions: [
