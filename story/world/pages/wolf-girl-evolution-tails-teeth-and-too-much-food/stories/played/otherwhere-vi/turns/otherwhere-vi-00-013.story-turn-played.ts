@@ -4,6 +4,7 @@ export const otherwhereVi00013 = {
   id: "01a0eb01-899a-735a-a330-9846fd721223",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vi-00-013",
+  cover: "image/image-f1405c64a761f82b",
   ownLength: 369,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],
@@ -46,10 +47,11 @@ export const otherwhereVi00013 = {
   lore: [
     "lore/otherwhere-vi-customs",
     "lore/otherwhere-vi-nala",
+    "place/otherwhere-vi-brackenford",
     "place/otherwhere-vi-charcoal-camp",
     "place/otherwhere-vi-greypine-weald",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-29T12:15:00.000Z",
 } as const satisfies StoryTurnPlayed
