@@ -12,6 +12,10 @@ export const superSupportiveArtonanConsulate = {
       fact: "Consulates also teach culture, Beginners Wordchaining and an intro to one Artonan script.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Students leave their shoes in cubbies, since shoes are rude before an Artonan teacher.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
