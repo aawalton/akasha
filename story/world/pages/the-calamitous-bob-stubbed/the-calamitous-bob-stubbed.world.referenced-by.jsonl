@@ -121,6 +121,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-benetti.lore.ts","id":"01a0ea79-96af-70a4-9706-484fedaeb2c8"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-bes.lore.ts","id":"01a0ea79-0306-7fcc-8393-9ce0f00ae239"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-bird-tongue.lore.ts","id":"01a0ea79-96af-73fb-b42a-0df1e6bd2418"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-bitter-hearts.lore.ts","id":"01a0ea7f-999f-783c-8710-f04de13803d2"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-black-del.lore.ts","id":"01a0ea79-96af-7e14-8df9-26a18d6d5994"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-black-mana.lore.ts","id":"01a0ea7e-5866-7362-890d-c366ff177af9"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-blue-duke.lore.ts","id":"01a0ea79-96af-7a58-8086-559ad464f483"}
@@ -166,6 +167,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-eris.lore.ts","id":"01a0ea7f-1ca7-7cda-8f23-3f685d6c9296"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-eteia.lore.ts","id":"01a0ea7e-1940-75f9-bc28-714a2b1f4a3f"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-flesh-walker.lore.ts","id":"01a0ea7e-e8cf-76e2-adf9-b34c39eae8d8"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-golden-scale-bank.lore.ts","id":"01a0ea7f-99a0-7268-8ae3-631ae78bd033"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-golems.lore.ts","id":"01a0ea79-2035-78dd-b227-798125eed74e"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-gomogog.lore.ts","id":"01a0ea7c-3079-7239-9704-6007e660ea37"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-gorok.lore.ts","id":"01a0ea7c-307a-7d58-9001-46293f9d2ab5"}
@@ -208,6 +210,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-old-pantheon.lore.ts","id":"01a0ea7e-e170-7d1f-bb4d-670fde15d5b1"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-oleander.lore.ts","id":"01a0ea79-e917-756b-b6f9-9471d2df524c"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-one-hundred.lore.ts","id":"01a0ea7e-1cbe-7992-8a20-2616bee336ff"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-order-of-the-blue-rose.lore.ts","id":"01a0ea7f-99a0-775f-b030-104ab596b172"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-orkan.lore.ts","id":"01a0ea7d-3779-7e17-9d12-498a5ffe4a58"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-outlanders.lore.ts","id":"01a0ea76-90e6-7a72-9a68-f7ffc864bf97"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-paramese.lore.ts","id":"01a0ea7b-518d-76d3-8828-4a530ef1ab04"}
@@ -273,8 +276,10 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/mechanics/otherwhere-xi-stats.world-mechanic.ts","id":"01a0ea76-90e7-7eaf-b85d-3478b01aa516"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/mechanics/otherwhere-xi-steps.world-mechanic.ts","id":"01a0ea79-6f6c-79f7-811a-89454ee53445"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/mechanics/otherwhere-xi-titles.world-mechanic.ts","id":"01a0ea7a-bf9e-765f-b9fe-b184579c48b5"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-bitter-hearts.world-organization.ts","id":"01a0ea7f-99a1-75c2-bb34-522560070832"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-children-of-the-scale.world-organization.ts","id":"01a0ea7e-cc4b-7b5c-a588-8235462d9c08"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-dark-gods.world-organization.ts","id":"01a0ea7e-e170-7fcd-bfe0-f5064fb42bea"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-golden-scale-bank.world-organization.ts","id":"01a0ea7f-99a1-7e4a-b749-b05b95a5fe84"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-harrakan-army.world-organization.ts","id":"01a0ea7e-1cbe-79ce-846b-76052addd543"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-hightree-company.world-organization.ts","id":"01a0ea7e-cc4b-7137-bfc8-9a6323f4d75b"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-light-gods.world-organization.ts","id":"01a0ea7e-e170-71ea-bf0a-91a20635b22e"}
@@ -284,6 +289,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-old-harrak.world-organization.ts","id":"01a0ea7b-7817-7c55-8ed6-51b0103bfc60"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-old-pantheon.world-organization.ts","id":"01a0ea7e-e170-76b1-941e-0a0c10d4efe7"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-one-hundred.world-organization.ts","id":"01a0ea7e-1cbf-7436-ba4f-c96bd1ec533b"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-order-of-the-blue-rose.world-organization.ts","id":"01a0ea7f-99a7-70f8-b660-925455dc546b"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/organizations/otherwhere-xi-sisters-of-the-eye.world-organization.ts","id":"01a0ea7e-cc4b-7755-9d98-eef465622f67"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/skills/otherwhere-xi-inspection.world-skill.ts","id":"01a0ea7a-bf9e-7897-bb3b-ca0a6ad38748"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-aberrant.world-species.ts","id":"01a0ea7d-96d0-7066-b5c5-7bad31fdc8dc"}
