@@ -184,5 +184,9 @@ export const otherwhereIxShardback = {
       fact: "A shardback stabbed shallowly in the throat keeps its bite locked and twists harder.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
+    {
+      fact: "A shardback's jaw is hard bone; a glass sliver striking it skids off.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
   ],
 } as const satisfies Lore
