@@ -181,6 +181,22 @@ export const otherwhereViiAldoReeve = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "This year's barley stick has 4 deep notches and 3 shallow: 43 sacks threshed so far.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
+    },
+    {
+      fact: "Ashford should thresh about 80 sacks of barley this year, a better year than last.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The threshers fill about 7 sacks a day; each is notched as it is tied off.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
+    },
+    {
+      fact: "A full barley sack should hold about a hundred and thirty pounds.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
+    },
+    {
       fact: "The stick holds seven deep notches, four shallow ones, and nine more each crossed by a cut.",
       knowers: [
         "lore-disclosure/game-master",
