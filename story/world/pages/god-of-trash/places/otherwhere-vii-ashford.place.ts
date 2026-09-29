@@ -289,6 +289,15 @@ export const otherwhereViiAshford = {
       ],
     },
     {
+      fact: "Joan called Nala a reckoner at her own door, to Hild, before she thought to cover it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-joan-reeve",
+        "character-other/otherwhere-vii-hild",
+      ],
+    },
+    {
       fact: "In Ashford a woman who reads has been somewhere, and folk would want to know where.",
       knowers: ["lore-disclosure/game-master"],
     },
