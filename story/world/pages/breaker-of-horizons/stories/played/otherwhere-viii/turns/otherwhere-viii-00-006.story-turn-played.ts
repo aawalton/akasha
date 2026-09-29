@@ -4,6 +4,7 @@ export const otherwhereViii00006 = {
   id: "01a0ea99-8f1f-76f2-9923-54e5ef36b95c",
   type: "page-type/story-turn-played",
   slug: "otherwhere-viii-00-006",
+  cover: "image/image-e0972ba4856ec517",
   ownLength: 615,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-viii"],
@@ -46,6 +47,6 @@ export const otherwhereViii00006 = {
   ],
   lore: ["place/otherwhere-viii-guildhall", "lore/otherwhere-viii-aiesta"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T06:35:00.000Z",
 } as const satisfies StoryTurnPlayed
