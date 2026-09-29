@@ -4,10 +4,17 @@ export const otherwhereX00011 = {
   id: "01a0eb34-b826-7110-90b4-1d163ba9fbce",
   type: "page-type/story-turn-played",
   slug: "otherwhere-x-00-011",
+  ownLength: 351,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-x"],
   position: 11,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/otherwhere-x-nala",
+    "world-character/otherwhere-x-aldous-crane",
+    "world-character/otherwhere-x-bess-crane",
+  ],
+  stepStatus: "step-status/reviewers",
   action: "I follow him out in confusion.",
   beats: [
     "Nala scoops the three coppers off the trestle and follows Aldous out, not sure what's happening.",
