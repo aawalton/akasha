@@ -6,7 +6,7 @@ export const otherwhereXManaCannon = {
   slug: "otherwhere-x-mana-cannon",
   title: "Mana Cannon",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-mana-cannon",
+  about: "world-skill/otherwhere-x-mana-cannon",
   facts: [
     {
       fact: "[Mana Cannon] is Uncommon, an evolution of [Mana Missile].",

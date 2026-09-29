@@ -6,7 +6,7 @@ export const otherwhereXManaMissile = {
   slug: "otherwhere-x-mana-missile",
   title: "Mana Missile",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-mana-missile",
+  about: "world-skill/otherwhere-x-mana-missile",
   facts: [
     {
       fact: "[Mana Missile] is Common: pure mana detonates in the arm and bursts out of the palm.",

@@ -6,7 +6,7 @@ export const otherwhereXManaConstruct = {
   slug: "otherwhere-x-mana-construct",
   title: "Mana Construct",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-mana-construct",
+  about: "world-skill/otherwhere-x-mana-construct",
   facts: [
     {
       fact: "[Mana Construct] is a Common skill, offered after binding a first construct.",

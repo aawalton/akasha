@@ -6,7 +6,7 @@ export const otherwhereXHawkEyes = {
   slug: "otherwhere-x-hawk-eyes",
   title: "Hawk Eyes",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-hawk-eyes",
+  about: "world-skill/otherwhere-x-hawk-eyes",
   facts: [
     {
       fact: "[Hawk Eyes] runs on a steady stream of mana channelled into the eyes.",

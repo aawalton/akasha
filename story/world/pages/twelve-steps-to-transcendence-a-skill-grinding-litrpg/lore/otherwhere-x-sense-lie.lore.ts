@@ -6,7 +6,7 @@ export const otherwhereXSenseLie = {
   slug: "otherwhere-x-sense-lie",
   title: "Sense Lie",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-sense-lie",
+  about: "world-skill/otherwhere-x-sense-lie",
   facts: [
     {
       fact: "[Sense Lie] detects falsehoods as they are spoken.",

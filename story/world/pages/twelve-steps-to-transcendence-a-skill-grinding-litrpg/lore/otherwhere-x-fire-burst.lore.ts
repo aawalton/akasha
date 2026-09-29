@@ -6,7 +6,7 @@ export const otherwhereXFireBurst = {
   slug: "otherwhere-x-fire-burst",
   title: "Fire Burst",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-fire-burst",
+  about: "world-skill/otherwhere-x-fire-burst",
   facts: [
     {
       fact: "[Fire Burst] makes explosions of fire mana; it is Uncommon and needs a fire affinity.",

@@ -6,7 +6,7 @@ export const otherwhereXUnarmedCombat = {
   slug: "otherwhere-x-unarmed-combat",
   title: "Unarmed Combat",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-unarmed-combat",
+  about: "world-skill/otherwhere-x-unarmed-combat",
   facts: [
     {
       fact: "[Unarmed Combat] is Common and neither passive nor active, an instinct grown by use.",

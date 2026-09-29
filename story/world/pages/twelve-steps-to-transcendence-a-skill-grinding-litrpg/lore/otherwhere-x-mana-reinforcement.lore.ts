@@ -6,7 +6,7 @@ export const otherwhereXManaReinforcement = {
   slug: "otherwhere-x-mana-reinforcement",
   title: "Mana Reinforcement",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-mana-reinforcement",
+  about: "world-skill/otherwhere-x-mana-reinforcement",
   facts: [
     {
       fact: "[Mana Reinforcement] is Uncommon; it pours core mana into the body to strengthen it.",

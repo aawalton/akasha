@@ -6,7 +6,7 @@ export const otherwhereXManaTracing = {
   slug: "otherwhere-x-mana-tracing",
   title: "Mana Tracing",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-mana-tracing",
+  about: "world-skill/otherwhere-x-mana-tracing",
   facts: [
     {
       fact: "[Mana Tracing] is a tracking skill that shows glowing footprints.",

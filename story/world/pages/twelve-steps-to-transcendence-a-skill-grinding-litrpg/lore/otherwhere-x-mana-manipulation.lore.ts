@@ -6,7 +6,7 @@ export const otherwhereXManaManipulation = {
   slug: "otherwhere-x-mana-manipulation",
   title: "Mana Manipulation",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-mana-manipulation",
+  about: "world-skill/otherwhere-x-mana-manipulation",
   facts: [
     {
       fact: "[Mana Manipulation] is an Uncommon skill.",

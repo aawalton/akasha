@@ -6,7 +6,7 @@ export const otherwhereXManaSonar = {
   slug: "otherwhere-x-mana-sonar",
   title: "Mana Sonar",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-mana-sonar",
+  about: "world-skill/otherwhere-x-mana-sonar",
   facts: [
     {
       fact: "[Mana Sonar] is Uncommon, an evolution of [Mana Sense] that keeps its sensing aspect.",

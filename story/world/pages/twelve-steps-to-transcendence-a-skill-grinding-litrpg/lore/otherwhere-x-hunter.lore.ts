@@ -6,7 +6,7 @@ export const otherwhereXHunter = {
   slug: "otherwhere-x-hunter",
   title: "Hunter",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-hunter",
+  about: "world-title/otherwhere-x-hunter",
   facts: [
     {
       fact: "[Hunter] is a Unique title with no progress counter.",

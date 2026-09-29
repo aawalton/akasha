@@ -6,7 +6,7 @@ export const otherwhereXRegeneration = {
   slug: "otherwhere-x-regeneration",
   title: "Regeneration",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-regeneration",
+  about: "world-skill/otherwhere-x-regeneration",
   facts: [
     {
       fact: "[Regeneration] is an Uncommon life-affinity healing skill.",

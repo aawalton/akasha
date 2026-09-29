@@ -6,7 +6,7 @@ export const otherwhereXManaBeam = {
   slug: "otherwhere-x-mana-beam",
   title: "Mana Beam",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-mana-beam",
+  about: "world-skill/otherwhere-x-mana-beam",
   facts: [
     {
       fact: "[Mana Beam] gathers mana at a focus's tip and fires a blinding beam.",

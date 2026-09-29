@@ -6,7 +6,7 @@ export const otherwhereXPhysicalConditioning = {
   slug: "otherwhere-x-physical-conditioning",
   title: "Physical Conditioning",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-physical-conditioning",
+  about: "world-skill/otherwhere-x-physical-conditioning",
   facts: [
     {
       fact: "[Physical Conditioning] is a Common, purely passive bodily skill levelled by training.",

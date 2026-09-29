@@ -6,7 +6,7 @@ export const otherwhereXLurker = {
   slug: "otherwhere-x-lurker",
   title: "Lurker",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-lurker",
+  about: "world-title/otherwhere-x-lurker",
   facts: [
     {
       fact: "[Lurker] passively obscures its holder's presence in shadows.",

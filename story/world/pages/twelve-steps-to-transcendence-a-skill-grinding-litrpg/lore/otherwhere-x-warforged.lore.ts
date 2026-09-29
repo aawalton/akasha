@@ -6,7 +6,7 @@ export const otherwhereXWarforged = {
   slug: "otherwhere-x-warforged",
   title: "Warforged",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-warforged",
+  about: "world-skill/otherwhere-x-warforged",
   facts: [
     {
       fact: "[Warforged] is a Rare skill, capping at level 30.",

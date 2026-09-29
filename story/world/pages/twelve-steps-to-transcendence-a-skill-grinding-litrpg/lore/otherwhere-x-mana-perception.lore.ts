@@ -6,7 +6,7 @@ export const otherwhereXManaPerception = {
   slug: "otherwhere-x-mana-perception",
   title: "Mana Perception",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-mana-perception",
+  about: "world-skill/otherwhere-x-mana-perception",
   facts: [
     {
       fact: "[Mana Perception] widens passive awareness of mana.",

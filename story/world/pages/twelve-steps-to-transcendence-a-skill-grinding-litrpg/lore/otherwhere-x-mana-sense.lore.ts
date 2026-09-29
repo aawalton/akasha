@@ -6,7 +6,7 @@ export const otherwhereXManaSense = {
   slug: "otherwhere-x-mana-sense",
   title: "Mana Sense",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-mana-sense",
+  about: "world-skill/otherwhere-x-mana-sense",
   facts: [
     {
       fact: "[Mana Sense] is a Common active skill fed with mana.",
