@@ -38,7 +38,36 @@ export const otherwhereIiiPriyaRaman = {
     },
     {
       fact: "She asks few questions about the past and many about tonight: bed, food, warmth, safety.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-priya-raman",
+      ],
+    },
+    {
+      fact: "The social worker gives her name to Nala as Priya, the social worker at the ER.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-priya-raman",
+      ],
+    },
+    {
+      fact: "Priya is in her mid-thirties, with dark hair tied back tight and quick eyes.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-priya-raman",
+      ],
+    },
+    {
+      fact: "Marcus and Denise both flagged Nala for Priya to see.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-priya-raman",
+        "character-other/otherwhere-iii-denise-pruitt",
+      ],
     },
   ],
 } as const satisfies Lore
