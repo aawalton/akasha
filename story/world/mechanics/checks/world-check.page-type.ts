@@ -94,6 +94,7 @@ export const worldCheck = {
     "world-check/overwhere-i-growth",
     "world-check/overwhere-iv-time-passing",
     "world-check/overwhere-iv-action-check",
+    "world-check/overwhere-iv-harm",
   ],
   properties: [{ pageProperty: "module-property-group/settling", required: true, many: false }],
   decisions: [
