@@ -7,8 +7,9 @@ export const otherwhereIv00015 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],
   position: 15,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     '"Yes, it sounds like poison is the best options to improve our chances. We could poison the heads of the spears as well as the stakes. I will come and I will pray for your success."',
+  lore: ["lore/otherwhere-iv-granny-hua", "lore/otherwhere-iv-nala"],
   endsAt: "2026-09-29T06:30:00.000Z",
 } as const satisfies StoryTurnPlayed
