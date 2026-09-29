@@ -4,6 +4,7 @@ import { dirname, join } from "node:path"
 import {
   besideListed,
   engineAt,
+  otherTurnAt,
   TURN_UNDOING,
   undoingOf,
 } from "akasha/command/pages/story/turn/modules/turn-undoing/turn-undoing.module.code.ts"
@@ -64,7 +65,13 @@ mkdirSync(REPO)
 git("init", "-q")
 const SETTLING_AT = `${FOLDERS.story}mechanics/checks/growth.world-check.settling.code.ts`
 
-committed("the world opens", { [HALL_AT]: HALL_BEFORE, [SETTLING_AT]: "a plain address\n" })
+const EARLIER_AT = `${FOLDERS.story}turns/otherwhere-00-010.story-turn-played.ts`
+
+committed("the world opens", {
+  [HALL_AT]: HALL_BEFORE,
+  [SETTLING_AT]: "a plain address\n",
+  [EARLIER_AT]: "the turn before\n",
+})
 committed("3 writes arrived together, so they land together", {
   [AT]: "made\n",
   "agents/one.ts": "one\n",
@@ -72,6 +79,9 @@ committed("3 writes arrived together, so they land together", {
 committed(`${SLUG} moves from world-builder to game-master`, { [AT]: "at game-master\n" })
 committed("Read the essence page's address in growth settling off the imported page", {
   [SETTLING_AT]: "the address read off the imported page\n",
+})
+committed("Name Martha as present in the turn before", {
+  [EARLIER_AT]: "the turn before, naming Martha\n",
 })
 committed(`${SLUG} moves from recorders to recorders`, {
   [AT]: "recorded\n",
@@ -89,6 +99,12 @@ test("a turn made in a batched commit has the lore its recorders landed put back
       { path: AT, body: null },
     ],
   })
+})
+
+test("another turn's files are no file of this turn's making", () => {
+  expect(otherTurnAt(AT, EARLIER_AT)).toBe(true)
+  expect(otherTurnAt(AT, AT.replace(/\.ts$/, ".prose.txt"))).toBe(false)
+  expect(otherTurnAt(AT, HALL_AT)).toBe(false)
 })
 
 test("a story's checks, code, tests and page types are the engine", () => {

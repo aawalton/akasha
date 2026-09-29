@@ -56,6 +56,10 @@ export const turnUndoing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Another turn's page and the files beside it are no file of the turn's making.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A file only ever appended to is taken away and written again, as a landing drops a rewrite.",
     },

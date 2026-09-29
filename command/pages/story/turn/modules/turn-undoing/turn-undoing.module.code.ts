@@ -42,6 +42,8 @@ const MOVES = " moves from "
 
 const HEAD = "HEAD"
 
+const TURN_FILE = ".story-turn-played."
+
 const ENGINE: readonly RegExp[] = [
   /\.(code|test|test-fixtures)\.tsx?$/,
   /\.page-type(\.types)?\.ts$/,
@@ -140,8 +142,17 @@ export type Undoing = {
   readonly restored: readonly Restored[]
 }
 
-function scopedIn(folders: Folders, path: string): "story" | "world" | "other" | null {
-  if (derived(path) || engineAt(path)) return null
+export function otherTurnAt(turn: string, path: string): boolean {
+  if (!path.includes(TURN_FILE)) return false
+  return !path.startsWith(`${turn.slice(0, -PAGE_ENDING.length)}.`)
+}
+
+function scopedIn(
+  folders: Folders,
+  turn: string,
+  path: string
+): "story" | "world" | "other" | null {
+  if (derived(path) || engineAt(path) || otherTurnAt(turn, path)) return null
   if (path.startsWith(folders.story)) return "story"
   if (!path.startsWith(folders.world)) return null
   return path.startsWith(`${folders.world}${STORIES}`) ? "other" : "world"
@@ -153,13 +164,13 @@ type Run = {
   readonly others: readonly string[]
 }
 
-function runIn(run: readonly Commit[], folders: Folders): Run {
+function runIn(run: readonly Commit[], folders: Folders, turn: string): Run {
   const touched = new Set<string>()
   const others: string[] = []
   const commits: Commit[] = []
   for (const one of run) {
     const scoped = one.paths.filter((path) => {
-      const scope = scopedIn(folders, path)
+      const scope = scopedIn(folders, turn, path)
       if (scope === "other") others.push(path)
       return scope === "story" || scope === "world"
     })
@@ -197,7 +208,7 @@ function undoingRead(
   const since = published ? `\`${turn.slug}\` moved to ${PLAYER}` : "the latest commit"
   const before = `${making.made}^`
   const logged = reach.commitsOn(root, `${before}..${making.moved}`, [folders.world, folders.story])
-  const run = runIn(logged, folders)
+  const run = runIn(logged, folders, turn.at)
   const worldly = [...run.touched].find((path) => !path.startsWith(folders.story))
   const other = run.others[0]
   if (worldly !== undefined && other !== undefined) {
