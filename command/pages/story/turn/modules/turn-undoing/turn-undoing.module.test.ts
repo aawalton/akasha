@@ -101,8 +101,10 @@ test("a turn made in a batched commit has the lore its recorders landed put back
   })
 })
 
-test("another turn's files are no file of this turn's making", () => {
+test("another turn of the same story is no file of this turn's making", () => {
   expect(otherTurnAt(AT, EARLIER_AT)).toBe(true)
+  const another = "worlds/w/stories/played/another/turns/another-00-009.story-turn-played.ts"
+  expect(otherTurnAt(AT, another)).toBe(false)
   expect(otherTurnAt(AT, AT.replace(/\.ts$/, ".prose.txt"))).toBe(false)
   expect(otherTurnAt(AT, HALL_AT)).toBe(false)
 })

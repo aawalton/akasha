@@ -143,7 +143,7 @@ export type Undoing = {
 }
 
 export function otherTurnAt(turn: string, path: string): boolean {
-  if (!path.includes(TURN_FILE)) return false
+  if (!path.includes(TURN_FILE) || dirname(path) !== dirname(turn)) return false
   return !path.startsWith(`${turn.slice(0, -PAGE_ENDING.length)}.`)
 }
 

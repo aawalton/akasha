@@ -56,7 +56,8 @@ export const turnUndoing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Another turn's page and the files beside it are no file of the turn's making.",
+      statement:
+        "Another of the same story's turns, and the files beside it, are no file of the turn's making.",
     },
     {
       decisionKind: "decision-kind/departure",
