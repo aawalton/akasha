@@ -10,7 +10,7 @@ export const otherwhereIx00014 = {
   position: 14,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I hold a quill in each hand and crouch low to the ground, keeping an eye on both the beast approaching on the ground and the one in the sky. If one comes close, I'll aim to stab into the belly or eyes depending on what is accessible.",
   beats: [
@@ -27,8 +27,7 @@ export const otherwhereIx00014 = {
     "The jaws close on her other ankle, the good one, and bite down hard.",
     "It hangs on and twists, and it is heavier than the first; it drags her half off balance.",
     "One foot torn at the calf and the other held in its jaws, she has nothing left to stand on.",
-    "She still has one whole quill in her left hand.",
-    "Its throat is right there below her, working as it grinds, bare and pale and unquilled.",
+    "It wrenches again, harder, and she feels herself start to go over.",
   ],
   issues: ['"Its throat is right there below you... Bare, and pale, and unquilled." - No Prompt'],
   lore: [
