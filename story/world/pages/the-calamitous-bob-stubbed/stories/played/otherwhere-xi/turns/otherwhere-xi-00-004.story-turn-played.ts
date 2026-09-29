@@ -4,13 +4,14 @@ export const otherwhereXi00004 = {
   id: "01a0eaa1-2c76-7592-b3c0-756adbb3caf2",
   type: "page-type/story-turn-played",
   slug: "otherwhere-xi-00-004",
+  cover: "image/image-78c625306c476138",
   ownLength: 232,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-xi"],
   position: 4,
   prose: "txt",
   characters: ["character-player/otherwhere-xi-nala", "world-character/otherwhere-xi-tobin-ashlar"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     '"The Old Empire...is that the one that is overrun by the dead? Where am I precisely? I think these waystones may have taken me much farther than most."',
   beats: [
@@ -36,6 +37,6 @@ export const otherwhereXi00004 = {
     "place/otherwhere-xi-asmirel",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T06:30:00.000Z",
 } as const satisfies StoryTurnPlayed
