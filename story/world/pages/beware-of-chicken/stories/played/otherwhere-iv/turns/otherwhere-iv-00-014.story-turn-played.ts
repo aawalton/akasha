@@ -51,6 +51,10 @@ export const otherwhereIv00014 = {
     "Up at the headman's gate a lamp burns; Zhao Jun is in there telling all of it, as he was told.",
     'Tie Bo looks at her one last time. "Tomorrow morning, then. Will you come to her door with me?"',
   ],
+  issues: [
+    '"burned a bundle of herbs at the old shrine up there" - the tale puts it at the village shrine',
+  ],
   lore: ["lore/otherwhere-iv-boar-hunt", "place/otherwhere-iv-upstream-woods"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T19:46:00.000Z",
 } as const satisfies StoryTurnPlayed
