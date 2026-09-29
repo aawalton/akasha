@@ -11,4 +11,5 @@ export const otherwhereIx00006 = {
   action:
     "I wrap my thighs around its neck and squeeze with all my strength, working to crush its windpipe.",
   lore: ["lore/otherwhere-ix-shardback"],
+  endsAt: "2026-09-28T15:37:00.000Z",
 } as const satisfies StoryTurnPlayed
