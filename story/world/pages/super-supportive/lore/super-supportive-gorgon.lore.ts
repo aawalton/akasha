@@ -77,6 +77,10 @@ export const superSupportiveGorgon = {
       fact: "He is bored, finds Nala not boring, and asked to hear her tale.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
+    {
+      fact: "He smells fear on Nala but no deceit, and believes her: no human could know of his line.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
