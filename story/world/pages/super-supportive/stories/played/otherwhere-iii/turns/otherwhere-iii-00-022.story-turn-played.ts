@@ -10,4 +10,5 @@ export const otherwhereIii00022 = {
   stepStatus: "step-status/game-master",
   action: '"Yes"',
   lore: ["lore/otherwhere-iii-onn-desveth", "lore/otherwhere-iii-the-system"],
+  endsAt: "2037-01-31T10:36:00.000Z",
 } as const satisfies StoryTurnPlayed
