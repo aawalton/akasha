@@ -81,6 +81,11 @@
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/classes/overwhere-iv-sorcerer.world-class.ts","id":"01a0ed30-4be7-77e3-87bb-a3014f047207"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/classes/overwhere-iv-spellblade.world-class.ts","id":"01a0ed30-4be7-7ec6-b811-a7133b07b6cb"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/classes/overwhere-iv-warrior.world-class.ts","id":"01a0ed30-4be7-701e-9c22-2e6a668de0a2"}
+{"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/items/overwhere-iv-affinity-crystal.world-item.ts","id":"01a0ed31-f1d9-7f69-8187-4c66c491177e"}
+{"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/items/overwhere-iv-class-crystal.world-item.ts","id":"01a0ed31-f1da-71fc-928e-e821774fb463"}
+{"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/items/overwhere-iv-guild-tag.world-item.ts","id":"01a0ed31-f1da-7282-a341-9f9cf49c11b4"}
+{"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/items/overwhere-iv-monster-core.world-item.ts","id":"01a0ed31-f1da-720e-91dd-fc1d2b3d302d"}
+{"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/items/overwhere-iv-slime-jelly.world-item.ts","id":"01a0ed31-f1da-75b5-86ea-6207b55d058d"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/organizations/overwhere-iv-adventurers-guild.world-organization.ts","id":"01a0ed31-9af3-79f3-8e8d-2b722c7f532f"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/ranks/overwhere-iv-bronze-rank.world-rank.ts","id":"01a0ed31-9af3-74ae-b3d5-1594951ef8c2"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/ranks/overwhere-iv-diamond-rank.world-rank.ts","id":"01a0ed31-9af4-79a3-8d84-dc73ab314178"}
