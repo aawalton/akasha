@@ -142,6 +142,7 @@ export const otherwhereViCustoms = {
         "lore-disclosure/game-master",
         "character-player/otherwhere-vi-nala",
         "character-other/otherwhere-vi-jory-tull",
+        "character-other/otherwhere-vi-wat",
       ],
     },
     {
