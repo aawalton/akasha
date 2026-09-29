@@ -68,6 +68,10 @@ export const otherwhereIiiTheSystem = {
       fact: "A claim of passing through chaos makes the System order a chaos screening before anything else.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "It tells such a caller to stay where she is, and notifies the nearest consulate's Artonan staff.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
