@@ -97,6 +97,14 @@ export const otherwhereXiArthur = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Arthur's second spawn is a black female, fiery-warm to the touch, nicknamed Squee.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The eggs' sire is Sun-reflected-on-a-shard-of-Obsidian, who lives across the world.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "In the final war Arthur fought joined to Viv, casting combined spells called meltdown and salvo.",
       knowers: ["lore-disclosure/game-master"],
     },
