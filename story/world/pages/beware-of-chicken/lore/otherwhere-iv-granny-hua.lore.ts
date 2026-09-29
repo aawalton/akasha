@@ -167,6 +167,30 @@ export const otherwhereIvGrannyHua = {
         "character-other/otherwhere-iv-granny-hua",
       ],
     },
+    {
+      fact: "No one in the hills knows diatomaceous earth by that or any name, nor digs it anywhere near.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Granny Hua already rings her stems with wood ash, and knows ash and shell lime turn back ants.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She calls the black insects plant lice, and knows the ants guard them for their sweet dew.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "An answer that names the ants but not the lice she counts as half an answer, and says so.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She thinks better of a stranger who owns the limits of her knowing than of one who claims all.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hearing a spirit own its limits would make her surer the stranger is no spirit at all.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
