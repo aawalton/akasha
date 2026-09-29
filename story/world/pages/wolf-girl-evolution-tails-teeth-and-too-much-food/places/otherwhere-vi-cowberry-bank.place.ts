@@ -44,6 +44,14 @@ export const otherwhereViCowberryBank = {
       fact: "At first light mist lies on the stream, and a wren scolds from the spruce's lower boughs.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Day two dawns clear and still; the sun tops the valley's east rim about half past seven.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "From half past seven, full sun lies on the open gravel below the bank until afternoon.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   exits: [
     {
