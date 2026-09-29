@@ -100,6 +100,29 @@ export const otherwhereXiActionCheck = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A skill adds to an act only once the interface has granted it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A skilled hand talking a novice through a task at her side is help, adding one to three.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A trait of her body that suits the act, as small hands in a narrow place, adds one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Skilled work a novice has only watched is hard; work she was never shown is extreme.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Plain labour needing strength or patience rather than skill is easy or standard.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A contest with a foe of a higher step than hers is one band harder for each step between.",
     },

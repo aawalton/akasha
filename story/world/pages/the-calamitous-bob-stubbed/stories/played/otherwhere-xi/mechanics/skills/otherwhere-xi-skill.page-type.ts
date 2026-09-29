@@ -53,7 +53,8 @@ export const otherwhereXiSkill = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A skill is filed the moment the interface grants it.",
+      statement:
+        "A skill is filed before any turn grants it, at the rank and level it will start at.",
     },
     {
       decisionKind: "decision-kind/departure",
