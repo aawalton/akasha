@@ -200,6 +200,18 @@ export const overwhereIiHarkerShoalborn = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Delve sensed by sight, smell and often taste; he used it to find rot in a patient's veins.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Turned inward, Sovereign Sight shows him his own body, tributaries and reservoir.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He trains by pushing Water from his palm Lock back to his reservoir and out again.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "As a healer he weighs refining organs and blood first, against the usual skin-first order.",
       knowers: ["lore-disclosure/game-master"],
     },
