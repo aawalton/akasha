@@ -11,4 +11,5 @@ export const otherwhereVi00015 = {
   action:
     '"Yes, I made it through a night in the forest alone. I know enough to fear the dark, but I can be afraid without panic."',
   lore: ["lore/otherwhere-vi-nala", "place/otherwhere-vi-charcoal-camp"],
+  endsAt: "2026-09-29T20:00:00.000Z",
 } as const satisfies StoryTurnPlayed
