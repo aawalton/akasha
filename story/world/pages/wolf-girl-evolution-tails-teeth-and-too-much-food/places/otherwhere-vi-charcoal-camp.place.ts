@@ -85,6 +85,30 @@ export const otherwhereViCharcoalCamp = {
       ],
     },
     {
+      fact: "A clamp flares where air gets in: a red glow or a flame through the turf, and a sharper smoke.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A flare is stopped by shovelling damp earth over the glow; left, it burns the charcoal to ash.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The watcher walks round the clamp each hour, sits between times on a stump by the hut door.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tonight the great moon is full; wolves howl long in the north, and the pack runs wide.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The pack keeps clear of the camp's fire and smoke and the dog; none comes within sight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A watcher sleeps by day in the hut by the fire; that counts as a night's sleep, roofed.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Five days fed and roofed by the fire would close her sole and bring her HP back to full.",
       knowers: ["lore-disclosure/game-master"],
     },
