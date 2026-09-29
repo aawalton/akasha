@@ -21,6 +21,18 @@ export const otherwhereXiNecrarch = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Named kinds in Old Harrak's ruins are the necrarch ravager, chimaera and tentacular horror.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A necrarch chimaera is pale and lean, bristling with bone ridges, with small carmine eyes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Necrarchs of Old Harrak's capital shun light.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The old imperial monster lists rate a necrarch at seven, the highest short of cataclysm.",
       knowers: ["lore-disclosure/game-master"],
     },
