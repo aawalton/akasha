@@ -7,5 +7,11 @@ export const superSupportiveDeclared = {
   title: "Declared",
   world: "world/super-supportive",
   about: "world-title/super-supportive-declared",
+  facts: [
+    {
+      fact: "Declared is the title of one who has chosen to become a knight but not yet had a first affixation.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
