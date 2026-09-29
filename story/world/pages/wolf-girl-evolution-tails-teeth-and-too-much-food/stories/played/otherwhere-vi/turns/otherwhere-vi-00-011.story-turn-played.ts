@@ -40,6 +40,8 @@ export const otherwhereVi00011 = {
     "A shaggy brown dog lifts its head at the hut, barks, and looks straight at her.",
     "A man straightens up from the smoking mound and stands, looking at her.",
   ],
+  issues: ['"nothing answers it" - the System answers her shout two beats later'],
   lore: ["place/otherwhere-vi-charcoal-camp", "lore/otherwhere-vi-nala"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-29T10:10:00.000Z",
 } as const satisfies StoryTurnPlayed
