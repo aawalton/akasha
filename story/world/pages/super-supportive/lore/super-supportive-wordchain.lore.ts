@@ -20,6 +20,10 @@ export const superSupportiveWordchain = {
       fact: "Using wordchains well requires study of the Artonan language.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Casting wordchains in public is a gray area, and teaching others needs permission.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
