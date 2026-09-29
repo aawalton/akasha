@@ -15,7 +15,7 @@ export const otherwhereVi00014 = {
     "character-other/otherwhere-vi-wat",
     "character-other/otherwhere-vi-burr",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     '"No one is hunting me, but I am owned by no village either, which means the village maybe not be safe for me. Are there other options for healing? If I increase my level or stats, would that be enough?"',
   beats: [
@@ -45,6 +45,6 @@ export const otherwhereVi00014 = {
     "place/otherwhere-vi-charcoal-camp",
     "place/otherwhere-vi-wenmarch",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T12:35:00.000Z",
 } as const satisfies StoryTurnPlayed
