@@ -15,7 +15,7 @@ export const otherwhereIv00016 = {
     "character-other/otherwhere-iv-zhao-jun",
     "character-other/otherwhere-iv-tie-bo",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I bow my head slightly, \"Granny Hua, Tie Bo and I have come to request your poison to be used against the boar that has been foraging Zhau Jun's field. It may be too advanced to be effective, but if it is not, we are seeking for any preparations that reduce the risk of further loss of life. We believe this to be the same boar that took Tie Bo's brother, and it has only grown stronger since. If you have any additional counsel for us in this matter, we would be grateful for it.\"",
   beats: [
@@ -39,6 +39,6 @@ export const otherwhereIv00016 = {
   ],
   lore: ["lore/otherwhere-iv-granny-hua", "lore/otherwhere-iv-nala"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
   endsAt: "2026-09-29T06:33:00.000Z",
 } as const satisfies StoryTurnPlayed
