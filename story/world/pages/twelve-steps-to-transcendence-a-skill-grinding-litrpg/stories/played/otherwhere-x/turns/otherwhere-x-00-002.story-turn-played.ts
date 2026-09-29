@@ -10,7 +10,7 @@ export const otherwhereX00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-x-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I walk towards the wood smoke, since that seems closer, to see who I can find.",
   beats: [
     "Nala sets off east along the road toward the smoke, barefoot.",
@@ -31,6 +31,9 @@ export const otherwhereX00002 = {
     '"Did you hear the dogs howl this afternoon? All of \'em at once. Did you come from the Mile?"',
     "He edges half a step back toward the village, switch raised, waiting on her answer.",
   ],
+  issues: [
+    '"edges half a step back toward the village, switch raised" - Hob fears nothing, per Harrow lore',
+  ],
   lore: [
     "place/otherwhere-x-harrow",
     "place/otherwhere-x-harrow-mile",
@@ -38,6 +41,6 @@ export const otherwhereX00002 = {
     "place/otherwhere-x-sulon",
     "lore/otherwhere-x-language",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T18:02:00.000Z",
 } as const satisfies StoryTurnPlayed
