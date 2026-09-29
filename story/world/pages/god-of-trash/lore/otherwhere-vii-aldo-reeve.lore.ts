@@ -105,6 +105,22 @@ export const otherwhereViiAldoReeve = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Each tithe tally is split: Aldo keeps one half, the steward the other, notched together.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
+    },
+    {
+      fact: "The steward crosses a notch on both halves for every sack he carts off as the school's tenth.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
+    },
+    {
+      fact: "The steward said his scale found Ashford's sacks light, so nine sacks made the tenth; Aldo agreed.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
+    },
+    {
+      fact: "Nobody in Ashford has ever heard of a museum.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The stick holds seven deep notches, four shallow ones, and nine more each crossed by a cut.",
       knowers: [
         "lore-disclosure/game-master",
