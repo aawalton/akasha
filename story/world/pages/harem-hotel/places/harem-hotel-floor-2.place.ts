@@ -49,7 +49,11 @@ export const haremHotelFloor2 = {
     },
     {
       fact: "Beside the hot pool is a heated marble massage slab, with oils in glass bottles.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-odile",
+      ],
     },
     {
       fact: "Broad marble steps lead down into the hot pool, and a ledge runs round it under the water.",
