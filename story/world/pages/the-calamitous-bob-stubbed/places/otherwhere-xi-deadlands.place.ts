@@ -105,6 +105,10 @@ export const otherwhereXiDeadlands = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Carnivorous glue fungi and an eldritch squid-thing lurk in the steppes tunnel's dark.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "A great undead horde marched out of the deadlands ten years ago and was destroyed at Sinur's Gate.",
       knowers: ["lore-disclosure/game-master"],
     },
