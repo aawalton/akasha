@@ -10,7 +10,7 @@ export const otherwhereIx00011 = {
   position: 11,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: '"Okay, I put all 24 stat points into Consitutation."',
   beats: [
     '"Okay, I put all 24 stat points into Constitution," Nala says to the open screen.',
@@ -33,6 +33,6 @@ export const otherwhereIx00011 = {
     '"The sun stands low in the west, and the heat has gone out of the air" - 15:45, hours before dusk',
   ],
   lore: ["lore/otherwhere-ix-nala", "lore/otherwhere-ix-stat-points"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T15:45:00.000Z",
 } as const satisfies StoryTurnPlayed
