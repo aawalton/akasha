@@ -1,0 +1,56 @@
+import type { Lore } from "akasha/story/lore/lore.page-type.types.ts"
+
+export const overwhereIRowanCoalby = {
+  id: "01a0ed27-145c-7b76-a941-fe85e0684409",
+  type: "page-type/lore",
+  slug: "overwhere-i-rowan-coalby",
+  title: "Rowan Coalby",
+  world: "world/hell-hound-evolution-litrpg",
+  facts: [
+    {
+      fact: "Rowan Coalby is a charcoal burner who lives outside the palisade by the charcoal mounds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Analyze shows him as Human - Level 13; his Class is Beast Tamer.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He is in his thirties, broad and soot-dark, quiet, and stammers when pressed.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He is bonded to Sedge, a Domesticated Drakewolf that Analyze shows as Level 11.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Sedge is lean and grey-green, with a lizard muzzle, slanted yellow eyes and a spiked steel collar.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Through the bond Rowan feels Sedge's moods and can call it to him from a long way off.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Sootjaw took three of Rowan's own goats from his pen last night.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Many villagers blame Sedge for the stock kills, and the reeve has sworn to have it killed.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He wants Sedge's name cleared, and leave to shelter inside the palisade in bad winters.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He would be grateful for life to anyone who proved Sootjaw was the killer.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He is shy with strangers but warm to anyone kind to Sedge.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
+  secrets: "jsonl",
+} as const satisfies Lore
