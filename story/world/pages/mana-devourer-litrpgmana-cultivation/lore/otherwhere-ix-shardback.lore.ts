@@ -289,6 +289,30 @@ export const otherwhereIxShardback = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "A grown shardback is stronger in the body than an untrained woman of her size.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A shardback locked on a bite keeps its legs braced wide and is hard to shift sideways.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Rolled onto its back, a shardback's quills jam into the ground and hold it a moment, belly up.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "To roll a shardback, hands grip its flanks, where the short quills snap into the palms.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A shardback on its back lets go its bite to claw and heave itself over.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A grown shardback's belly takes a quill as easily as a young one's; its heart lies high.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "A grown shardback is thigh-high, heavy through the shoulders, its back a thick mat of pale quills.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
