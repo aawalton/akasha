@@ -35,5 +35,25 @@ export const overwhereIiCarrowmouth = {
       fact: "The Salt Lanes by the docks are where anything can be bought and nobody asks.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Charterstone gave its marks on Threllsnacht eve and gives none again until next year.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Two Carrowmouth youths took the Chartermark this Threllsnacht and sailed for a Travelspire.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The thaumist Oriel Vance buys Sea-touched herbs, Aberrant bone and bottled Water for silver.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A thaumist pays two silver bars for an Aberrant's reservoir bone, five pieces for a pelt.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Mother Sabeth, stern and shrewd, leads the Carrowmouth Keepers and answers to the Spires.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
