@@ -14,7 +14,7 @@ export const otherwhereIii00013 = {
     "character-other/otherwhere-iii-priya-raman",
     "character-other/otherwhere-iii-denise-pruitt",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I continue watching the screen, waiting for the social worker.",
   beats: [
     "Nala keeps watching the muted screen as the show loops again.",
@@ -29,6 +29,6 @@ export const otherwhereIii00013 = {
     '"So, first thing: do you have anywhere safe to sleep tonight?"',
   ],
   lore: ["lore/otherwhere-iii-priya-raman"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2037-01-31T08:15:00.000Z",
 } as const satisfies StoryTurnPlayed
