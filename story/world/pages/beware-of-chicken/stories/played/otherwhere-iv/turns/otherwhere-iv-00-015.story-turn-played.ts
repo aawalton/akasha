@@ -4,10 +4,17 @@ export const otherwhereIv00015 = {
   id: "01a0eae8-5c2d-7061-8288-0a3019a11559",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-015",
+  ownLength: 620,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],
   position: 15,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/otherwhere-iv-nala",
+    "character-other/otherwhere-iv-zhao-jun",
+    "character-other/otherwhere-iv-tie-bo",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     '"Yes, it sounds like poison is the best options to improve our chances. We could poison the heads of the spears as well as the stakes. I will come and I will pray for your success."',
   beats: [
