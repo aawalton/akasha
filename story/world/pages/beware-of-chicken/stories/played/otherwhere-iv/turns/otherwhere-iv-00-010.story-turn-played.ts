@@ -48,5 +48,6 @@ export const otherwhereIv00010 = {
     "The whispering dies. Forty households are watching her, in the last of the light.",
   ],
   lore: ["lore/otherwhere-iv-gu-household", "lore/otherwhere-iv-earth-god-shrine"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T19:05:00.000Z",
 } as const satisfies StoryTurnPlayed
