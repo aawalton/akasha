@@ -7,7 +7,8 @@ export const otherwhereIii00016 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
   position: 16,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I wait for the tourists to leave, then go up to the unusual person behind the desk, then say quietly \"You don't know me, but I have a feeling I can trust you, and I have a tale to tell that I don't think you've ever heard before. Could we speak privately?\"",
+  lore: ["lore/super-supportive-gorgon", "lore/super-supportive-gorgons-bindings"],
 } as const satisfies StoryTurnPlayed
