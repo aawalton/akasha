@@ -14,7 +14,7 @@ export const otherwhereVii00013 = {
     "character-other/otherwhere-vii-joan-reeve",
     "character-other/otherwhere-vii-hild",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "\"I'm not sure I'll stay forever, but for now I would be grateful for a place to be safe, and glad to contribute what I can.\"",
   beats: [
@@ -30,12 +30,16 @@ export const otherwhereVii00013 = {
     "\"Pick me the wrong ones and they're no good to anyone, so you'll learn them from me first.\"",
     "She waits in the doorway for an answer, the afternoon sun behind her.",
   ],
+  issues: [
+    '"She stands in the doorway with the afternoon sun behind her." - Leave It Open',
+    '"She stands in the doorway with the afternoon sun behind her." - No Prompt',
+  ],
   lore: [
     "lore/otherwhere-vii-hild",
     "lore/otherwhere-vii-joan-reeve",
     "lore/otherwhere-vii-nala",
     "place/otherwhere-vii-ashford",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T12:21:00.000Z",
 } as const satisfies StoryTurnPlayed
