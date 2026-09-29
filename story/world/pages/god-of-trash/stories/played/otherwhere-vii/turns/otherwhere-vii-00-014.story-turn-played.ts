@@ -14,7 +14,7 @@ export const otherwhereVii00014 = {
     "character-other/otherwhere-vii-hild",
     "character-other/otherwhere-vii-joan-reeve",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I go immediately to work in the salve for the blisters from the pot.",
   beats: [
     "Nala goes straight to the shelf, takes down the little pot, and pries off the lid.",
@@ -37,6 +37,6 @@ export const otherwhereVii00014 = {
     "lore/otherwhere-vii-nala",
     "place/otherwhere-vii-ashford",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T12:27:00.000Z",
 } as const satisfies StoryTurnPlayed
