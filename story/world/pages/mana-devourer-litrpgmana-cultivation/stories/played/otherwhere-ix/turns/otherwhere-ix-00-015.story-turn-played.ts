@@ -4,13 +4,13 @@ export const otherwhereIx00015 = {
   id: "01a0eb51-9a27-7f64-ba87-972bd763dd20",
   type: "page-type/story-turn-played",
   slug: "otherwhere-ix-00-015",
-  ownLength: 169,
+  ownLength: 186,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],
   position: 15,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "I take it to the ground and wrestle it back, trying to get at its belly with the blades.",
   beats: [
