@@ -36,6 +36,10 @@ export const superSupportiveGorgon = {
       fact: "He senses no trace of the System on Nala, and a faint, new-made strangeness he cannot place.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "His voice is high-pitched, with an undertone like breaking glass.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
