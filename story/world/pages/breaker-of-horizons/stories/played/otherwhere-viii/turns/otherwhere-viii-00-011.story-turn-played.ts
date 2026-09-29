@@ -41,5 +41,6 @@ export const otherwhereViii00011 = {
     "She stands in a room of her own, where the lamp and the tap both answer to marks she can't read.",
   ],
   lore: ["lore/otherwhere-viii-nala", "place/otherwhere-viii-the-workshop-room"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T07:34:00.000Z",
 } as const satisfies StoryTurnPlayed
