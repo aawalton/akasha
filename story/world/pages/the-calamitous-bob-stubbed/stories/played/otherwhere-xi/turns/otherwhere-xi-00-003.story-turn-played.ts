@@ -28,6 +28,10 @@ export const otherwhereXi00003 = {
     '"Were you robbed? Was it the soldiers from the old tower? Are you from Param?"',
     "Smoke creeps forward on her belly and sniffs at Nala's bare toes.",
   ],
+  issues: [
+    '"Close to, he is sunburnt" - he stays well back last turn, and no beat brings them closer',
+  ],
   lore: ["place/otherwhere-xi-waystone-shrine"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T06:25:00.000Z",
 } as const satisfies StoryTurnPlayed
