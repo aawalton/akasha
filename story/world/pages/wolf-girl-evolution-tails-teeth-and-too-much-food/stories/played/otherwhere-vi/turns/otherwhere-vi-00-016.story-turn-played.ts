@@ -45,5 +45,6 @@ export const otherwhereVi00016 = {
     "Wat shouts from inside that there is porridge, and that the watcher eats first.",
   ],
   lore: ["lore/otherwhere-vi-nala", "place/otherwhere-vi-charcoal-camp"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-30T06:10:00.000Z",
 } as const satisfies StoryTurnPlayed
