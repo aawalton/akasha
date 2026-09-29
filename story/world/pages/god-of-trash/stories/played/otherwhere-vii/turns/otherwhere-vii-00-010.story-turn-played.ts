@@ -4,10 +4,19 @@ export const otherwhereVii00010 = {
   id: "01a0eab8-1f96-7526-a85c-111421f23daf",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vii-00-010",
+  ownLength: 448,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vii"],
   position: 10,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/otherwhere-vii-nala",
+    "character-other/otherwhere-vii-aldo-reeve",
+    "character-other/otherwhere-vii-tamsin",
+    "character-other/otherwhere-vii-gammer-wyn",
+    "character-other/otherwhere-vii-joan-reeve",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     '"I will gladly stay, but on the condition that you let me teach you and anyone else you decide as well. You should learn enough to keep your own count with confidence, so no one can cheat you."',
   beats: [
