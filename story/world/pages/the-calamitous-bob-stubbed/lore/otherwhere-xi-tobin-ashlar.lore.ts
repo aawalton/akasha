@@ -1,0 +1,81 @@
+import type { Lore } from "akasha/story/lore/lore.page-type.types.ts"
+
+export const otherwhereXiTobinAshlar = {
+  id: "01a0ea8e-fe21-780d-964c-02f802b2035b",
+  type: "page-type/lore",
+  slug: "otherwhere-xi-tobin-ashlar",
+  title: "Tobin Ashlar",
+  world: "world/the-calamitous-bob-stubbed",
+  about: "world-character/otherwhere-xi-tobin-ashlar",
+  facts: [
+    {
+      fact: "Tobin Ashlar is fifteen, gangly and sunburnt, with a mop of black curls and a chipped tooth.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin wears a patched brown tunic, goat-hide sandals and a sheepskin over his shoulders.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin carries a sling, a pouch of river stones and a crook taller than he is.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin's voice is breaking; he talks fast, asks questions, and forgets to wait for answers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin lives at the Ashlar farm with his mother Wenna and his two small sisters.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin's father died of a fall two winters ago; his elder brother Aren went for a soldier.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin takes the family's forty sheep up the shrine hill a little after sunrise most days.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin's shaggy gray dog Smoke goes everywhere with him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin is the best slinger of the valley boys, and has driven off a scalehound alone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin wants to see Imra, the coast and the sea, and to bring his brother home.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin fears scalehound packs and being the man of the house before he is ready.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin would stare at a barefoot red-haired woman, blush, and then ask a hundred questions.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin would guess any strange stranger is Paramese, since he has never seen an outlander.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin would share his bread and cheese with a hungry stranger and lead her to his mother.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin could teach a stranger the hill road, the flocks, the sling and the village names.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin follows the Shepherd path at its first step.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: 'Tobin inspects as "[Shepherd: not dangerous. Keeper of flocks. Slinger. Curious. Brave.]"',
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
+  secrets: "jsonl",
+} as const satisfies Lore
