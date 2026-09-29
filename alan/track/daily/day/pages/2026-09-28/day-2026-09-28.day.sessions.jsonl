@@ -16,4 +16,5 @@
 {"id":"01a0eb37-0155-7f9a-a632-a38408d90924","title":"Projects","startedAt":"2026-09-28T21:30:00.000Z","dailyTracking":"01a0e775-0665-7000-951d-45984e364c8c","endedAt":"2026-09-29T03:30:00.000Z","safetyLevel":"3","difficultyLevel":"2"}
 {"id":"01a0eb37-1912-7074-9c53-85e3fbd5ac55","title":"Hygiene","startedAt":"2026-09-29T03:30:00.000Z","dailyTracking":"01a0e775-0665-7000-951d-45984e364c8c","endedAt":"2026-09-29T03:35:00.000Z","safetyLevel":"3","difficultyLevel":"1"}
 {"id":"01a0eb41-b26c-7348-b5bd-8732d06909ec","title":"Read","startedAt":"2026-09-29T03:35:00.000Z","dailyTracking":"01a0e775-0665-7000-951d-45984e364c8c","endedAt":"2026-09-29T04:15:00.000Z","safetyLevel":"3","difficultyLevel":"1"}
-{"id":"01a0eb61-fa8d-7f35-b536-95ab23562cc5","title":"Rest","startedAt":"2026-09-29T04:15:00.000Z","dailyTracking":"01a0e775-0665-7000-951d-45984e364c8c","safetyLevel":"3","difficultyLevel":"0"}
+{"id":"01a0eb61-fa8d-7f35-b536-95ab23562cc5","title":"Rest","startedAt":"2026-09-29T04:15:00.000Z","dailyTracking":"01a0e775-0665-7000-951d-45984e364c8c","safetyLevel":"3","difficultyLevel":"0","endedAt":"2026-09-29T04:20:00.000Z"}
+{"id":"01a0eb67-52ad-749a-9c40-d46abe6886ce","title":"Read + Pod","startedAt":"2026-09-29T04:20:00.000Z","dailyTracking":"01a0e775-0665-7000-951d-45984e364c8c","safetyLevel":"3","difficultyLevel":"1"}
