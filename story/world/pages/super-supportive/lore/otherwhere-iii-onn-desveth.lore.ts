@@ -166,5 +166,9 @@ export const otherwhereIiiOnnDesveth = {
       fact: "She means to keep the book from her superiors, for Nala's safety and for her own standing.",
       knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
     },
+    {
+      fact: "She offers a private secrecy contract, rather than send Nala up the chain or hold her here.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+    },
   ],
 } as const satisfies Lore
