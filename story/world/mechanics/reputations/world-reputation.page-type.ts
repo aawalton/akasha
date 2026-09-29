@@ -7,6 +7,7 @@ export const worldReputation = {
   definition: "how a people stand toward a character",
   pluralSlug: "reputations",
   extends: ["page-type/world-mechanic"],
+  parts: ["page-type/overwhere-iii-reputation"],
   runsTabooCheck: false,
   types: "ts",
   schema: "jsonl",

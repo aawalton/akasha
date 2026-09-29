@@ -1,3 +1,5 @@
+{"propertySlug":"extends-type","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/mechanics/reputations/overwhere-iii-reputation.page-type.ts","id":"01a0ed2d-fe9f-768f-a28a-53d7aede6319"}
+{"propertySlug":"import","fileName":"world-reputation.page-type.types.ts","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/mechanics/reputations/overwhere-iii-reputation.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-reputation.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/reputations/infamy-now-my-fame.world-reputation.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-reputation.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/reputations/liscor-famed.world-reputation.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-reputation.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/reputations/nerrhavia-s-fallen-heroic.world-reputation.ts","typed":true,"deferred":false}
