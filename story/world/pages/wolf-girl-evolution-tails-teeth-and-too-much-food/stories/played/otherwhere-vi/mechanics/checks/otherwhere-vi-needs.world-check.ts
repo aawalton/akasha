@@ -72,6 +72,15 @@ export const otherwhereViNeeds = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Thin clothes dry on the body in four hours out of rain and water; then wet is dropped.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Sleep while freezing is fitful, and counts only as a nap against want of sleep.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Freezing slows the mind and numbs the hands, and each is one band harder.",
     },
     {

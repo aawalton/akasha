@@ -72,6 +72,11 @@ export const otherwhereViHp = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A night's sleep hungry, chilled or worse gives back no HP; freezing still costs it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Clean dressing, herbs or a healer's care double what rest gives back.",
     },
     {
