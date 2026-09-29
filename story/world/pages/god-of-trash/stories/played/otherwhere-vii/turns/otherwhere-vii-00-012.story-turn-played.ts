@@ -4,10 +4,17 @@ export const otherwhereVii00012 = {
   id: "01a0eaeb-61b3-7536-a194-ee782bbcf88a",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vii-00-012",
+  ownLength: 314,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vii"],
   position: 12,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/otherwhere-vii-nala",
+    "character-other/otherwhere-vii-joan-reeve",
+    "character-other/otherwhere-vii-hild",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "\"From far enough away you haven't heard the name, and no one's who still walks this earth.\"",
   beats: [
@@ -29,6 +36,11 @@ export const otherwhereVii00012 = {
     '"So. Are you for staying here, or for the road?"',
     "\"I'll put in a word for you in this village, or I'll hold my peace about you. Which is it?\"",
   ],
-  lore: ["lore/otherwhere-vii-hild", "place/otherwhere-vii-ashford"],
+  lore: [
+    "lore/otherwhere-vii-hild",
+    "lore/otherwhere-vii-joan-reeve",
+    "lore/otherwhere-vii-nala",
+    "place/otherwhere-vii-ashford",
+  ],
   endsAt: "2026-09-28T12:18:00.000Z",
 } as const satisfies StoryTurnPlayed
