@@ -10,7 +10,7 @@ export const otherwhereIx00011 = {
   position: 11,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: '"Okay, I put all 24 stat points into Consitutation."',
   beats: [
     '"Okay, I put all 24 stat points into Constitution," Nala says to the open screen.',
@@ -26,7 +26,7 @@ export const otherwhereIx00011 = {
     "The dead beast lies in the flattened grass at her feet.",
     "There is a great deal of blood: on it, on the torn grass, and on her.",
     "She has no shoes, no water, no food, and nothing in her hands.",
-    "The sun stands low in the west, and the heat has gone out of the air.",
+    "The sun is well past its height, and the afternoon is still warm and dry.",
     "Far off across the Flats, something rattles, once, and then goes quiet.",
   ],
   issues: [
