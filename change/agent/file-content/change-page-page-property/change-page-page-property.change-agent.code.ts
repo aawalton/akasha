@@ -41,14 +41,19 @@ const AT = "at"
 
 const KEY = "key"
 
+const PLACE = "place"
+
 const TO = "to"
 
-export const takes: readonly string[] = [AT, KEY, TO]
+const WHOLE = /^\d+$/
+
+export const takes: readonly string[] = [AT, KEY, PLACE, TO]
 
 export type ChangePagePropertyAsked = {
   readonly at: string
   readonly key: string
   readonly to: string
+  readonly place?: string
 }
 
 type Known = Extract<Read, { readonly known: unknown }>
@@ -57,9 +62,25 @@ function manyRefused(at: string, key: string): string {
   return (
     `\`${key}\` holds many values, so nothing is stated. ` +
     `Put one in with \`add-property-values\`, handing it \`added: ${at} ${key} <value>\`, ` +
-    `one line for each value, and take one out with \`remove-property-value\`, ` +
-    `handing it \`at\`, \`key\` and \`value\``
+    `one line for each value, take one out with \`remove-property-value\`, ` +
+    `handing it \`at\`, \`key\` and \`value\`, and state one of them where it sits with ` +
+    `\`place\` beside \`at\`, \`key\` and \`to\``
   )
+}
+
+function noPlace(said: string): string {
+  return `\`place\` names a place counted from 1, and \`${said}\` is no whole number`
+}
+
+function oneValue(key: string): string {
+  return (
+    `\`${key}\` holds one value, so no place names it — state that value whole with ` +
+    `\`at\`, \`key\` and \`to\``
+  )
+}
+
+function aRelation(key: string): string {
+  return `\`${key}\` names a relation, and \`place\` names a place in a list of text`
 }
 
 function statedIn(at: string, text: string, key: string): boolean {
@@ -83,6 +104,24 @@ async function added(world: World, read: Known, given: ChangePagePropertyAsked):
   return (await reach(world, ADD_PAGE_PROPERTY, after === null ? asked : { ...asked, after })).said
 }
 
+async function atPlace(
+  world: World,
+  read: Known,
+  given: ChangePagePropertyAsked,
+  place: string,
+  many: boolean
+): Promise<Answer> {
+  if (!WHOLE.test(place)) return refusing(noPlace(place))
+  if (!many) return refusing(oneValue(given.key))
+  if (targetsIn(read.known, read.value, given.key).length > 0) {
+    return refusing(aRelation(given.key))
+  }
+  const holds = holdsIn(world, read.value, given.key)
+  const asked = { at: given.at, key: given.key, to: given.to, place: Number(place) }
+  return (await reach(world, CHANGE_PAGE_PROPERTY, holds === null ? asked : { ...asked, holds }))
+    .said
+}
+
 export async function changePageProperty(
   world: World,
   given: ChangePagePropertyAsked
@@ -92,9 +131,9 @@ export async function changePageProperty(
   const text = world.textOf(given.at)
   const declaredMany =
     declaresIn(world, read.value, given.key) === true && !singleIn(world, read.value, given.key)
-  if (declaredMany || (text !== null && manyIn(parsedAs(given.at, text), given.key))) {
-    return refusing(manyRefused(given.at, given.key))
-  }
+  const many = declaredMany || (text !== null && manyIn(parsedAs(given.at, text), given.key))
+  if (given.place !== undefined) return await atPlace(world, read, given, given.place, many)
+  if (many) return refusing(manyRefused(given.at, given.key))
   const absent = text !== null && !statedIn(given.at, text, given.key)
   if (absent && declaresIn(world, read.value, given.key) !== null) {
     return await added(world, read, given)
@@ -116,5 +155,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (key === undefined) return refusing(missing(KEY))
   const to = given[TO]
   if (to === undefined) return refusing(missing(TO))
-  return await changePageProperty(world, { at, key, to })
+  const place = given[PLACE]
+  if (place === undefined) return await changePageProperty(world, { at, key, to })
+  return await changePageProperty(world, { at, key, to, place })
 }

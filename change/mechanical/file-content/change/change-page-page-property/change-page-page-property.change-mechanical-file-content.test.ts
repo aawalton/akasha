@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { restated } from "akasha/change/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
+import {
+  restated,
+  restatedAt,
+} from "akasha/change/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
 import {
   BODY,
   METRIC_BODY,
@@ -132,4 +135,77 @@ test("a key the page states nothing under is refused for a number", () => {
 test("a key holding a number is refused as text where no kind is handed in", () => {
   const said = restated(METRIC_AT, METRIC_BODY, "value", "8")
   expect(said.refused).toBe(`\`${METRIC_AT}\` states no text under \`value\``)
+})
+
+const MANY = `export const kept = {
+  id: "01a072c8-f35d-7ffc-afc3-75b72460b059",
+  type: "page-type/page-type",
+  slug: "kept",
+  beats: ["Mara opens the gate", "The hall is dark", "Osric counts the coin"],
+} as const satisfies PageType
+`
+
+const RECORDS = `export const kept = {
+  id: "01a072c8-f35d-7ffc-afc3-75b72460b059",
+  type: "page-type/page-type",
+  slug: "kept",
+  decisions: [{ decisionKind: "departure", statement: "the first" }],
+} as const satisfies PageType
+`
+
+function atPlace(place: number, to: string, quoting = false): Answer {
+  return restatedAt(AT, MANY, "beats", place, to, undefined, quoting)
+}
+
+test("the value at a place is stated anew and the values around it are left", () => {
+  const said = bodyOf(atPlace(2, "The hall is lit"), () => MANY)
+
+  expect(said).toContain(
+    `beats: ["Mara opens the gate", "The hall is lit", "Osric counts the coin"]`
+  )
+})
+
+test("the values around the value stated anew keep the order the body had", () => {
+  const said = bodyOf(atPlace(3, "Osric pays the coin"), () => MANY)
+
+  expect(said).toContain(`"The hall is dark", "Osric pays the coin"]`)
+})
+
+test("a place no value sits at is refused with how many values the list holds", () => {
+  const said = atPlace(4, "anything")
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("`beats` holds 3 values, and place 4 is none of them")
+})
+
+test("that refusal names the values where the caller asks for them", () => {
+  const said = atPlace(4, "anything", true)
+
+  expect(said.refused).toBe(
+    "`beats` holds 3 values, and place 4 is none of them. The values are: 1 Mara opens the gate, 2 The hall is dark, 3 Osric counts the coi…"
+  )
+})
+
+test("the value a place states already is refused", () => {
+  const said = atPlace(1, "Mara opens the gate")
+
+  expect(said.refused).toBe("`Mara opens the gate` is what `beats` states at place 1 already")
+})
+
+test("a place at a key holding one value is refused", () => {
+  const said = restatedAt(AT, MANY, "slug", 1, "other", undefined, false)
+
+  expect(said.refused).toBe("`slug` holds one value, so `place` names no place in it")
+})
+
+test("a place holding no text is refused", () => {
+  const said = restatedAt(AT, RECORDS, "decisions", 1, "another", undefined, false)
+
+  expect(said.refused).toBe("place 1 of `decisions` holds no text, so nothing is restated")
+})
+
+test("a key the page states nothing under is refused at a place", () => {
+  const said = restatedAt(AT, MANY, "nodes", 1, "x", undefined, false)
+
+  expect(said.refused).toBe(`\`${AT}\` states no text under \`nodes\``)
 })

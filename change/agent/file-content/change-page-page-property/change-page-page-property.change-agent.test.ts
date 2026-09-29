@@ -47,6 +47,7 @@ const CARRIED = [
   { key: "shown", pageTypeSlug: "boolean-property" },
   { key: "endsAt", pageTypeSlug: "instant-property" },
   { key: "count", pageTypeSlug: "number-property" },
+  { key: "beats", pageTypeSlug: "text-property", many: true },
   { key: "characters", pageTypeSlug: "multi-relation-property", many: true },
 ]
 
@@ -184,6 +185,7 @@ test("a key with many values is refused with the line `add-property-values` take
     `\`add-property-values\`, handing it \`added: ${AT} characters <value>\``
   )
   expect(said.refused ?? "").toContain("`remove-property-value`")
+  expect(said.refused ?? "").toContain("`place` beside `at`, `key` and `to`")
 })
 
 test("a many-valued key the page states not yet is refused rather than added as one value", async () => {
@@ -200,6 +202,80 @@ test("an argument this change was handed no value for is refused by the key", as
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toMatch(/`at` names what this change is handed/)
+})
+
+const MANY = BODY.replace(
+  `  assignmentSlug:`,
+  `  beats: ["Mara opens the gate", "The hall is dark"],\n  assignmentSlug:`
+)
+
+const LISTS = BODY.replace(
+  `  assignmentSlug:`,
+  `  characters: ["character/one"],\n  assignmentSlug:`
+)
+
+test("a place beside the key states the value at that place", async () => {
+  const world = worldTold(null, null, MANY)
+
+  const said = await changePageProperty(world, {
+    at: AT,
+    key: "beats",
+    to: "The hall is lit",
+    place: "2",
+  })
+
+  expect(said.refused).toBeNull()
+  expect(bodyOf(said, () => MANY)).toContain(`beats: ["Mara opens the gate", "The hall is lit"]`)
+})
+
+test("a place that is no whole number is refused", async () => {
+  const world = worldTold(null, null, MANY)
+
+  const said = await runChange(world, { at: AT, key: "beats", to: "x", place: "last" })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toMatch(/is no whole number/)
+})
+
+test("a place on a key holding one value is refused", async () => {
+  const said = await changePageProperty(worldTold("slug", null), {
+    at: AT,
+    key: "slug",
+    to: "other",
+    place: "1",
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toMatch(/holds one value, so no place names it/)
+})
+
+test("a place on a key naming a relation is refused", async () => {
+  const said = await changePageProperty(worldTold("characters", "character", LISTS), {
+    at: AT,
+    key: "characters",
+    to: "character/two",
+    place: "1",
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(
+    "`characters` names a relation, and `place` names a place in a list of text"
+  )
+})
+
+test("the place is handed to the change reached as a whole number", async () => {
+  const caught: { given: unknown } = { given: null }
+  const seeing: World = {
+    ...worldTold(null, null, MANY),
+    reaching: (_world, _at, given) => {
+      caught.given = given
+      return Promise.resolve(NOTHING_OVER)
+    },
+  }
+
+  await changePageProperty(seeing, { at: AT, key: "beats", to: "The hall is lit", place: "2" })
+
+  expect(caught.given).toEqual({ at: AT, key: "beats", to: "The hall is lit", place: 2 })
 })
 
 test("each key is handed to the change reached at the address that key names", async () => {

@@ -53,7 +53,28 @@ export const changePagePageProperty = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A place given beside the key states the value at that place rather than the key whole.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A place given for a key holding one value is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A place given for a key naming a relation is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A place that is no whole number is refused before the page is read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The refusal for many values names the changes putting a value in and taking a value out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That refusal names stating one of those values at its place as well.",
     },
     {
       decisionKind: "decision-kind/departure",

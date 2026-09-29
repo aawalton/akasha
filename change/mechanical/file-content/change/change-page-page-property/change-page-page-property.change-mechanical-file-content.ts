@@ -32,6 +32,34 @@ export const changePagePageProperty = {
       decisionKind: "decision-kind/departure",
       statement: "A key told no kind is stated anew as text.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A place given names the value at that place in the list the key holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The values around that value keep their order as the body had them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A place no value sits at is refused with how many values the list holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That refusal names those values where the page the list sits on holds no lore.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No value is named where the page holds lore.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A key holding one value is refused where a place is given.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A place not holding text is refused.",
+    },
   ],
   changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalFileContent
