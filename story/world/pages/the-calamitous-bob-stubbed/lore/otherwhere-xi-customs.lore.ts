@@ -149,6 +149,14 @@ export const otherwhereXiCustoms = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Harrak's soldiers sing We're Still Here, of leaving home for barren, thirsty lands.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Harrakan children sing a nursery song, Tonton Ran After the Squirrel.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "A saying: 'A child rejected by the town will burn it down to feel its warmth.'",
       knowers: ["lore-disclosure/game-master"],
     },
