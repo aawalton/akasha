@@ -176,6 +176,10 @@ export const superSupportiveGorgon = {
         "character-other/super-supportive-gorgon",
       ],
     },
+    {
+      fact: "During Nala's screening he kept his black eyes on the monitors, his nose slits wide.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

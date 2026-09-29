@@ -103,5 +103,37 @@ export const otherwhereIiiOnnDesveth = {
       fact: "Nala's authority reads to her as faint and strangely new, like nothing she has met in a human.",
       knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
     },
+    {
+      fact: "Onn-desveth told Nala there is no chaos in her, none, and that she is clean.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-onn-desveth",
+      ],
+    },
+    {
+      fact: "Onn-desveth told Nala what she senses in her is faint and new, and unmet in any human before.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-onn-desveth",
+      ],
+    },
+    {
+      fact: "She told Nala the Contract holds no record of her anywhere, not of her birth or her arrival.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-onn-desveth",
+      ],
+    },
+    {
+      fact: "She asked Nala plainly where she comes from, wanting a plain answer.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-onn-desveth",
+      ],
+    },
   ],
 } as const satisfies Lore

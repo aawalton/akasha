@@ -320,6 +320,14 @@ export const otherwhereIiiNala = {
         "character-other/super-supportive-gorgon",
       ],
     },
+    {
+      fact: "Nala let Onn-desveth screen her for chaos, holding her hand for some minutes.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-onn-desveth",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

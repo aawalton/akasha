@@ -78,7 +78,11 @@ export const otherwhereIiiTheSystem = {
     },
     {
       fact: "Nala carries no chaos corruption; a screening finds none.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/otherwhere-iii-onn-desveth",
+      ],
     },
   ],
 } as const satisfies Lore
