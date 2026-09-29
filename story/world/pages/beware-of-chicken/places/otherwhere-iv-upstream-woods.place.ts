@@ -78,6 +78,10 @@ export const otherwhereIvUpstreamWoods = {
       fact: "He can leave a pit in one leap, being far stronger than his size suggests.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Smoke can drive him off a wallow for a night, but not kill him, and he would remember it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
