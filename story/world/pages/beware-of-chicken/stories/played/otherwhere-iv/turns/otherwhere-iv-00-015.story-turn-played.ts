@@ -14,7 +14,7 @@ export const otherwhereIv00015 = {
     "character-other/otherwhere-iv-zhao-jun",
     "character-other/otherwhere-iv-tie-bo",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     '"Yes, it sounds like poison is the best options to improve our chances. We could poison the heads of the spears as well as the stakes. I will come and I will pray for your success."',
   beats: [
@@ -59,8 +59,9 @@ export const otherwhereIv00015 = {
     '"kills the village dogs and nothing else" - Plain Negation',
     '"it costs us nothing to try" - Plain Negation',
     '"If it does nothing, it does nothing" - Plain Negation',
+    '"at the end of the channel" - her house is the last in the village\'s west lane',
   ],
   lore: ["lore/otherwhere-iv-granny-hua", "lore/otherwhere-iv-nala"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T06:30:00.000Z",
 } as const satisfies StoryTurnPlayed
