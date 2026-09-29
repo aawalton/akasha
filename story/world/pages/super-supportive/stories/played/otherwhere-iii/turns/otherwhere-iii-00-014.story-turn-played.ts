@@ -7,6 +7,7 @@ export const otherwhereIii00014 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
   position: 14,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action: '"No, not yet."',
+  lore: ["place/otherwhere-iii-harbor-house", "lore/otherwhere-iii-priya-raman"],
 } as const satisfies StoryTurnPlayed
