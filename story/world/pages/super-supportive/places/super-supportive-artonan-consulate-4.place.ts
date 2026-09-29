@@ -115,6 +115,10 @@ export const superSupportiveArtonanConsulate4 = {
       fact: "Spring classes run weekday evenings and are free to city residents, some bearing credit.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A public phone is on the lobby wall by the elevators, free for local and System calls.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   within: "place/otherwhere-iii-chicago",
   secrets: "jsonl",
