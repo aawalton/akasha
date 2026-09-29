@@ -41,7 +41,11 @@ export const haremHotelFloor2 = {
     },
     {
       fact: "A cold plunge pool sits in a side alcove, and its water is sharply cold.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-odile",
+      ],
     },
     {
       fact: "Beside the hot pool is a heated marble massage slab, with oils in glass bottles.",
