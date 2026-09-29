@@ -21,7 +21,6 @@ export const otherwhereViii00009 = {
     '"In, then," he says. "There\'s a thing on my bench that wants a mind."',
     "Inside: a short passage, a stair, then a workshop smelling of oil, cold metal and chalk dust.",
     "Long benches, racks of tools, tall windows; a locked cabinet stands against the wall.",
-    "Nobody else is in yet; he lights a lamp over the bench, and it hums faintly.",
     "He sets the two rolls on a shelf by a cold teapot, and the tea can wait.",
     "He leads her to his own bench at the far end, under the tall north window.",
     "He lifts a slate onto the bench and turns it to face her.",
