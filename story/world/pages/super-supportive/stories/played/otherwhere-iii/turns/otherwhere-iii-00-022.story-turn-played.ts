@@ -14,7 +14,7 @@ export const otherwhereIii00022 = {
     "character-other/super-supportive-gorgon",
     "character-other/otherwhere-iii-onn-desveth",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: '"Yes"',
   beats: [
     'Nala says, "Yes."',
@@ -32,12 +32,15 @@ export const otherwhereIii00022 = {
     '"So I will ask you plainly, and I would like a plain answer."',
     '"Where were you, before this morning?"',
   ],
+  issues: [
+    '"before this morning?" - Onn-desveth was told only "no record"; nothing told her when Nala came',
+  ],
   lore: [
     "lore/otherwhere-iii-nala",
     "lore/otherwhere-iii-onn-desveth",
     "lore/otherwhere-iii-the-system",
     "lore/super-supportive-gorgon",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2037-01-31T10:36:00.000Z",
 } as const satisfies StoryTurnPlayed
