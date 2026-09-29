@@ -15,7 +15,7 @@ export const otherwhereVi00015 = {
     "character-other/otherwhere-vi-wat",
     "character-other/otherwhere-vi-burr",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     '"Yes, I made it through a night in the forest alone. I know enough to fear the dark, but I can be afraid without panic."',
   beats: [
@@ -42,6 +42,6 @@ export const otherwhereVi00015 = {
     "He goes in, and the door-hide falls behind him, and she is alone with the clamp and the moon.",
   ],
   lore: ["lore/otherwhere-vi-nala", "place/otherwhere-vi-charcoal-camp"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T20:00:00.000Z",
 } as const satisfies StoryTurnPlayed
