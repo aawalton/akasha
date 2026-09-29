@@ -31,5 +31,13 @@ export const overwhereIiTernHollow = {
       fact: "Tern Hollow lies in a quiet valley far from where the canon's people are.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The barn holds only a cart with one wheel off and a row of iron hooks along the wall.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Somewhere down the lane from the barn are a barking dog and a man who hushes it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place

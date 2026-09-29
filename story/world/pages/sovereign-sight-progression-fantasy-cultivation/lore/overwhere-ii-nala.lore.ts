@@ -68,5 +68,9 @@ export const overwhereIiNala = {
       fact: "Nala woke in the hay loft at Tern Hollow in the early morning of day one.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Under her breastbone Nala feels a deep well, cold, clear and vast, that stirs when she breathes.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
