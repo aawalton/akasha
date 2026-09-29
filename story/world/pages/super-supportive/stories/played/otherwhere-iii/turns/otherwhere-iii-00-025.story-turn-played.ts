@@ -4,10 +4,17 @@ export const otherwhereIii00025 = {
   id: "01a0eb5e-7ef7-79ad-b689-ca67e51b52ae",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-025",
+  ownLength: 209,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
   position: 25,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/otherwhere-iii-nala",
+    "character-other/super-supportive-gorgon",
+    "character-other/otherwhere-iii-onn-desveth",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "“I will exercise my right. I would request Esh-erdi as my trusted witness. He should be on Earth soon to celebrate his inesvul if he isn’t here already. As I am new to this world, he is the only one I would trust.”",
   beats: [
@@ -23,6 +30,11 @@ export const otherwhereIii00025 = {
     '"That is the very thing this contract is meant to prevent." She folds her long hands.',
     '"Name him, and we wait, and your secret travels. Or name someone else, here, in this city."',
   ],
-  lore: ["lore/otherwhere-iii-onn-desveth", "lore/super-supportive-esh"],
+  lore: [
+    "lore/otherwhere-iii-nala",
+    "lore/otherwhere-iii-onn-desveth",
+    "lore/super-supportive-esh",
+    "lore/super-supportive-gorgon",
+  ],
   endsAt: "2037-01-31T10:48:00.000Z",
 } as const satisfies StoryTurnPlayed
