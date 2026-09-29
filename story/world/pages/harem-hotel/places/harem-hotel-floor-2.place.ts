@@ -57,7 +57,11 @@ export const haremHotelFloor2 = {
     },
     {
       fact: "Broad marble steps lead down into the hot pool, and a ledge runs round it under the water.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-odile",
+      ],
     },
     {
       fact: "Behind the hot pool a barred bronze door hides the stairs up, and it opens once the task is met.",
