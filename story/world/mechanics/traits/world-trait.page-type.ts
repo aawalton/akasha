@@ -7,7 +7,11 @@ export const worldTrait = {
   definition: "a lasting way the rules bend for one thing in a story",
   pluralSlug: "traits",
   extends: ["page-type/world-mechanic"],
-  parts: ["relation-property/trait-story", "page-type/character-trait"],
+  parts: [
+    "relation-property/trait-story",
+    "page-type/character-trait",
+    "page-type/overwhere-iii-trait",
+  ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/trait-story", required: true, many: false },
