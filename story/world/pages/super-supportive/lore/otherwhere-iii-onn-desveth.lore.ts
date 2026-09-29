@@ -139,5 +139,9 @@ export const otherwhereIiiOnnDesveth = {
       fact: "She knows of no magic that carries a person between worlds and back across years at once.",
       knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
     },
+    {
+      fact: "Her senses cannot prove Nala's tale true or false; the new-made authority is her only clue.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+    },
   ],
 } as const satisfies Lore
