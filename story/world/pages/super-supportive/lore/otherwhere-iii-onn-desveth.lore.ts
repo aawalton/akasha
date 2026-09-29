@@ -7,5 +7,11 @@ export const otherwhereIiiOnnDesveth = {
   title: "Onn-desveth",
   world: "world/super-supportive",
   about: "character-other/otherwhere-iii-onn-desveth",
+  facts: [
+    {
+      fact: "Onn-desveth is the Artonan wizard who supervises Consulate 4 and Gorgon.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
