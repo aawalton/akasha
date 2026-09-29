@@ -17,7 +17,7 @@ export const otherwhereXiAzar = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Azar's daughter Rosea was married by force to King Erezak of Baran and is his queen.",
+      fact: "Azar's daughter Rosea was married by force to King Erezak of Baran, now dead.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
