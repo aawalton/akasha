@@ -72,5 +72,9 @@ export const otherwhereXHarrowVale = {
       fact: "No rift or zone has ever been known in Harrow Vale.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "On the afternoon of day one, the local dogs all howled at once.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
   ],
 } as const satisfies Place

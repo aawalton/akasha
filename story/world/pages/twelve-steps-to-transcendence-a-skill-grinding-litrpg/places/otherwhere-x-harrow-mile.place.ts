@@ -58,7 +58,7 @@ export const otherwhereXHarrowMile = {
     },
     {
       fact: "The rutted road is hard-packed earth with flints in it; bare feet feel every stone.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
     },
     {
       fact: "The line of trees to the west is the alder fringe along the Tarrant, hours off by foot.",
@@ -78,7 +78,15 @@ export const otherwhereXHarrowMile = {
     },
     {
       fact: "The stubble where Nala woke is flattened in a ring some ten paces across, stalks laid outward.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "A thin ditch of still rainwater, dust floating on it, runs along the road's north side.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "A dark forest edge of oak and beech runs a mile north of the road, across the stubble.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
     },
   ],
   exits: [

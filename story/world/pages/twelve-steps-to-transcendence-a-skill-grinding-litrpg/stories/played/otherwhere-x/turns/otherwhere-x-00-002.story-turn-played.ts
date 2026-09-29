@@ -11,7 +11,7 @@ export const otherwhereX00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-x-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I walk towards the wood smoke, since that seems closer, to see who I can find.",
   beats: [
     "Nala sets off east along the road toward the smoke, barefoot.",
@@ -43,6 +43,6 @@ export const otherwhereX00002 = {
     "lore/otherwhere-x-language",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture", "story-recorder/memory"],
   endsAt: "2026-09-28T18:02:00.000Z",
 } as const satisfies StoryTurnPlayed

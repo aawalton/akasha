@@ -176,6 +176,18 @@ export const otherwhereXHarrow = {
       fact: "The dusk bell on day one rings at twenty to seven.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Over the rise east of the Mile lies a village: thatch round a green, chimney smoke, a mill wheel.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "A boy of about ten drives a dozen geese with a willow switch, talking to them all the way.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "The goose boy speaks slow and broad, with a country burr.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
   ],
   exits: [
     {

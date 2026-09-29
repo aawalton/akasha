@@ -76,6 +76,14 @@ export const otherwhereXNala = {
       fact: "Nala woke face down in a stubble field beside the road, an hour or two before sunset.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
     },
+    {
+      fact: "Nala understands the local folk's speech at once, without trying.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "Nala's stride is shorter than she expects; she keeps misjudging it and stumbling.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
