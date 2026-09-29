@@ -61,7 +61,7 @@ export const otherwhereXTheSheaf = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "A song in a tongue the room half-knows still carries its tune, and the tune is what moves them.",
+      fact: "Harrow folk understand every word Nala sings; it is the song itself that is new to them.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
