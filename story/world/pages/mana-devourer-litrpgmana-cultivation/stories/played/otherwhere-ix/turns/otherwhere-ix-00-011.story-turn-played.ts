@@ -29,6 +29,10 @@ export const otherwhereIx00011 = {
     "The sun stands low in the west, and the heat has gone out of the air.",
     "Far off across the Flats, something rattles, once, and then goes quiet.",
   ],
+  issues: [
+    '"The sun stands low in the west, and the heat has gone out of the air" - 15:45, hours before dusk',
+  ],
   lore: ["lore/otherwhere-ix-nala", "lore/otherwhere-ix-stat-points"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T15:45:00.000Z",
 } as const satisfies StoryTurnPlayed
