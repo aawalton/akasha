@@ -10,7 +10,7 @@ export const otherwhereVi00008 = {
   position: 8,
   prose: "txt",
   characters: ["character-player/otherwhere-vi-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     'I decide to risk a berry, first looking at it to see if it has a status screen. "Inspect. Appraise. Identify". If not, I eat one and then check my own status screen for effects.',
   beats: [
@@ -38,6 +38,6 @@ export const otherwhereVi00008 = {
     "place/otherwhere-vi-hollow-stream",
     "lore/otherwhere-vi-nala",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T22:36:00.000Z",
 } as const satisfies StoryTurnPlayed
