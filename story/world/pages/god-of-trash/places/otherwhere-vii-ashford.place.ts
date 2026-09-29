@@ -272,5 +272,17 @@ export const otherwhereViiAshford = {
         "character-player/otherwhere-vii-nala",
       ],
     },
+    {
+      fact: "A villager's name means her kin: a woman with none living is answered for by nobody.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ashford counts a stranger with no kin as a stranger twice over, and sets a price on her word.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Country folk take 'far enough that you haven't heard of it' for a refusal, and ask once only.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
