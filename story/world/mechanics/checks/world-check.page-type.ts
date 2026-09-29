@@ -93,6 +93,7 @@ export const worldCheck = {
     "world-check/overwhere-i-harm",
     "world-check/overwhere-i-growth",
     "world-check/overwhere-i-needs",
+    "world-check/overwhere-i-standing",
     "world-check/overwhere-iv-time-passing",
     "world-check/overwhere-iv-action-check",
     "world-check/overwhere-iv-harm",
