@@ -38,7 +38,7 @@ export const superSupportiveGorgon = {
     },
     {
       fact: "His voice is high-pitched, with an undertone like breaking glass.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
     { fact: "His laugh is a repetitive hissing.", knowers: ["lore-disclosure/game-master"] },
     {
@@ -64,6 +64,18 @@ export const superSupportiveGorgon = {
     {
       fact: "He is barred from telling humans anything not widely known about Artonans, the System or magic.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He emptied the lobby of tourists for Nala, and told her he had made it so.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
+      fact: "He says the lobby is as private as his binding to the desk allows him.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
+      fact: "He is bored, finds Nala not boring, and asked to hear her tale.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",

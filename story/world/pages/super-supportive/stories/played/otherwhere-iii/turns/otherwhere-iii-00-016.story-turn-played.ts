@@ -30,6 +30,6 @@ export const otherwhereIii00016 = {
   ],
   lore: ["lore/super-supportive-gorgon", "lore/super-supportive-gorgons-bindings"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2037-01-31T09:30:00.000Z",
 } as const satisfies StoryTurnPlayed
