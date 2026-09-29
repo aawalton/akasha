@@ -33,6 +33,14 @@ export const otherwhereViiAldoReeve = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "A stranger offering to work before being paid moves Aldo to promise the noon bread if she lasts.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldo sets a newcomer beside his oldest winnower, Gammer Wyn, and lets Wyn judge her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Aldo Reeve is Ashford's headman, and his farm is the big thatch past the green.",
       knowers: [
         "lore-disclosure/game-master",
