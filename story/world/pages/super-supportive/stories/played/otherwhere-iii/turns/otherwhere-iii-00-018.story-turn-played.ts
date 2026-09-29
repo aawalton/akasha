@@ -10,7 +10,7 @@ export const otherwhereIii00018 = {
   position: 18,
   prose: "txt",
   characters: ["character-player/otherwhere-iii-nala", "character-other/super-supportive-gorgon"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "\"Gorgon! That's right, it was driving me mad not remembering. And the year is 2037 by Earth's reckoning? That means I must have come both over ten years into the future and likely across a parallel timeline as well. Okay, I can't tell you how much it means to me just to be believed. I'd forgotten you could sense emotions as well, or I would have had even more reason to come to you. My biggest problem is that I don't know what I should ask for, but I know that you are wise beyond human understanding and kinder to us than we have any right to expect. I'm not anxious to go back where I came from, this world is fascinating to me, but my aspirations go beyond normal human desires. I know the true battle being fought and the price paid by those who wage it. I know you are no friend to chaos. I want to become a knight, not just an Avowed, and certainly not a mortal, but I do not know how to even start. I tried bargaining with the Earth Contract for my silence, but I haven't managed to get its attention. I know it is still young and growing.\"",
   beats: [
@@ -44,12 +44,13 @@ export const otherwhereIii00018 = {
   ],
   issues: [
     '"Weekday evenings, downtown. At Harbor House your bed is held only till seven." - No Prompt',
+    '"I tried to bargain with the Earth Contract" - the prose leaves this beat and the next out',
   ],
   lore: [
     "lore/super-supportive-gorgon",
     "lore/super-supportive-gorgons-bindings",
     "lore/super-supportive-selection",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2037-01-31T09:40:00.000Z",
 } as const satisfies StoryTurnPlayed
