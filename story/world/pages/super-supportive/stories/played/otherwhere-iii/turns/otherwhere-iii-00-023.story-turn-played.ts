@@ -41,5 +41,6 @@ export const otherwhereIii00023 = {
     "lore/super-supportive-resource-world",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2037-01-31T10:39:00.000Z",
 } as const satisfies StoryTurnPlayed
