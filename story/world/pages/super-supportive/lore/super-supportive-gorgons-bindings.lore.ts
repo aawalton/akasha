@@ -20,6 +20,10 @@ export const superSupportiveGorgonsBindings = {
       fact: "Speaking past them costs him; one outburst was a costly moment of melancholy.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The binding spell framework can partly read his true intentions.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
