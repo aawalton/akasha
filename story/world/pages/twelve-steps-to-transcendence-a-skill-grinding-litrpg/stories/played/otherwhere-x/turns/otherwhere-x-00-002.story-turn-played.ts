@@ -42,5 +42,6 @@ export const otherwhereX00002 = {
     "lore/otherwhere-x-language",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2026-09-28T18:02:00.000Z",
 } as const satisfies StoryTurnPlayed
