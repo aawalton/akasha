@@ -4,6 +4,7 @@ export const otherwhereVi00017 = {
   id: "01a0eb52-a9dc-7db9-82a0-b5c198aa2f02",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vi-00-017",
+  cover: "image/image-493ea53c312c87b6",
   ownLength: 193,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],
@@ -15,7 +16,7 @@ export const otherwhereVi00017 = {
     "character-other/otherwhere-vi-wat",
     "character-other/otherwhere-vi-burr",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I go inside to eat.",
   beats: [
     "Nala hands the shovel to Jory, lifts the door-hide, and goes in out of the grey morning.",
@@ -38,6 +39,6 @@ export const otherwhereVi00017 = {
     "place/otherwhere-vi-charcoal-camp",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-30T06:30:00.000Z",
 } as const satisfies StoryTurnPlayed
