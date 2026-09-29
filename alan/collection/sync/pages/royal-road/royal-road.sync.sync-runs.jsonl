@@ -1499,4 +1499,4 @@
 {"id":"01a0ed42-b296-7649-9c8b-82c5a6ca64a7","runStartedAt":"2026-09-29T13:02:46.416Z","runStatus":"success","runCompletedAt":"2026-09-29T13:06:22.494Z","durationMs":216078,"createdCount":0,"updatedCount":1,"skippedCount":0,"failedCount":0}
 {"id":"01a0ed78-cde1-7469-b4d8-ccad4cf38637","runStartedAt":"2026-09-29T14:01:52.347Z","runStatus":"success","runCompletedAt":"2026-09-29T14:05:29.649Z","durationMs":217302,"createdCount":1,"updatedCount":1,"skippedCount":0,"failedCount":0}
 {"id":"01a0edae-9a96-77d6-9ea0-f95fa2da8ac7","runStartedAt":"2026-09-29T15:00:38.160Z","runStatus":"failed","runCompletedAt":"2026-09-29T15:04:10.969Z","durationMs":212809,"createdCount":1,"updatedCount":0,"skippedCount":0,"failedCount":1,"runErrorMessage":"the sync filed 1 chapter(s) as failed"}
-{"id":"01a0ede8-00bd-7b15-93ea-c34b5a765cf8","runStartedAt":"2026-09-29T16:03:19.863Z","runStatus":"running"}
+{"id":"01a0ede8-00bd-7b15-93ea-c34b5a765cf8","runStartedAt":"2026-09-29T16:03:19.863Z","runStatus":"success","runCompletedAt":"2026-09-29T16:07:07.190Z","durationMs":227327,"createdCount":1,"updatedCount":1,"skippedCount":0,"failedCount":0}
