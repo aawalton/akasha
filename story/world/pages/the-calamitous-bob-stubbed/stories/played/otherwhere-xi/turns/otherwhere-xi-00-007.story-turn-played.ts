@@ -10,7 +10,7 @@ export const otherwhereXi00007 = {
   position: 7,
   prose: "txt",
   characters: ["character-player/otherwhere-xi-nala", "world-character/otherwhere-xi-wenna-ashlar"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     '"I think you know that a runaway would be dressed more practically than this. I was at home enjoying a quiet evening with a book, and then I was in the middle of the Waystones. It seems I\'ve been pulled into the schemes of the gods, now I just have to find out why."',
   beats: [
@@ -32,10 +32,11 @@ export const otherwhereXi00007 = {
     '"Work first. Then I\'ll know what you are." In the pen, another ewe answers the first.',
   ],
   lore: [
+    "lore/otherwhere-xi-nala",
     "lore/otherwhere-xi-wenna-ashlar",
-    "place/otherwhere-xi-tavelford",
     "place/otherwhere-xi-asmirel",
+    "place/otherwhere-xi-tavelford",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T07:39:00.000Z",
 } as const satisfies StoryTurnPlayed
