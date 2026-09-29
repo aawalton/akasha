@@ -90,6 +90,10 @@ export const otherwhereIvUpstreamWoods = {
       fact: "Old Tusk will come back to the terraces by the willow within three nights, drawn by the rice.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Old Tusk is the torn-eared boar that killed Tie Shan, and still bears Tie Bo's spear scar.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
