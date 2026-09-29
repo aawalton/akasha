@@ -72,5 +72,14 @@ export const otherwhereXiNala = {
       fact: "Her hands are small and pale, with a few freckles across the backs, and her feet are small.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
     },
+    {
+      fact: "She is an outlander: a soul from another world in a body formed here.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She came with no path, no skill and no step, and no mana she can yet feel.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
+  secrets: "jsonl",
 } as const satisfies Lore
