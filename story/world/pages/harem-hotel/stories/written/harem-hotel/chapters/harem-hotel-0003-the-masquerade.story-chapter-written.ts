@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const haremHotel0003 = {
+export const haremHotel0003TheMasquerade = {
   id: "01a0eb76-4725-7c61-bbed-9e2d37df8646",
   type: "page-type/story-chapter-written",
-  slug: "harem-hotel-0003",
+  slug: "harem-hotel-0003-the-masquerade",
   position: 3,
   unit: "unit/words",
-  title: "Chapter 3",
+  title: "The Masquerade",
   story: "story-written/harem-hotel",
-  ownLength: 0,
+  ownLength: 3065,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "You climb the stairs from the bathhouse in a linen towel, and a slow waltz drifts down to meet you.",
     "The stairs end behind a black velvet curtain, and on a chair there lie evening clothes and a mask.",
@@ -95,5 +95,11 @@ export const haremHotel0003 = {
     "lore/harem-hotel-tamsin",
     "lore/harem-hotel-wren",
     "place/harem-hotel-floor-3",
+  ],
+  characters: [
+    "character-other/harem-hotel-tamsin",
+    "character-other/harem-hotel-wren",
+    "character-other/harem-hotel-odile",
+    "character-player/harem-hotel-alan",
   ],
 } as const satisfies StoryChapterWritten
