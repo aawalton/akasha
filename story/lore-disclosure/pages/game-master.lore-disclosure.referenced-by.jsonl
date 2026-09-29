@@ -1426,6 +1426,7 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-wyrm.lore.ts","id":"01a0ea81-9844-754b-a04a-bcb5b74c3439"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-yries.lore.ts","id":"01a0ea77-0c35-7249-a9d2-f88d1b0ae214"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-zero-five.lore.ts","id":"01a0ea7e-3c7a-79d2-a071-8d113e253db3"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-aristan.place.ts","id":"01a0ea86-d66e-7cfb-9f2b-fecdd9ffe73b"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-asmirel.place.ts","id":"01a0ea77-aa5d-74be-a37b-ddd77f4ee45d"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-asterley.place.ts","id":"01a0ea80-ba62-7c3e-b633-07f6989ee18d"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-baran.place.ts","id":"01a0ea7a-aee7-785c-aab2-5a59e913ab7d"}
@@ -1433,6 +1434,7 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-deadlands.place.ts","id":"01a0ea7a-aee8-7c82-984b-1decaa101070"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-deadshield-woods.place.ts","id":"01a0ea7a-aee8-7ef9-be83-34386cdeef70"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-dragons-peak.place.ts","id":"01a0ea80-ba6a-7f74-8114-4e86139e53af"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-end-of-the-world.place.ts","id":"01a0ea86-d670-7c3c-a666-5d35040da792"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-endless-sea.place.ts","id":"01a0ea77-3d60-7fda-a252-5b9e8e0eb857"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-enoria.place.ts","id":"01a0ea7a-aee8-7b92-a80f-08271b3292d6"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-frostway.place.ts","id":"01a0ea7d-f2b6-79eb-ab6f-ed734bf06640"}
@@ -1451,8 +1453,11 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-in-between.place.ts","id":"01a0ea77-3d60-7966-bc35-bc5442ded9aa"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-kark-steppes.place.ts","id":"01a0ea7a-aee9-7c26-8af9-6169ae09298e"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-kazar.place.ts","id":"01a0ea7d-f2b7-7522-9b9d-713557d675ad"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-koltis.place.ts","id":"01a0ea86-d671-72d9-8ea0-d291641e1e15"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-lake-hydon.place.ts","id":"01a0ea86-d672-7c3a-a470-9748842725be"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-lake-solfis.place.ts","id":"01a0ea7d-f2b8-7d73-ad69-250a66a75baa"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-larrean.place.ts","id":"01a0ea77-3d61-761a-8f8e-e9c5370ffdac"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-losserec.place.ts","id":"01a0ea86-d672-7f23-9cd8-9f045d68ac71"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-luten.place.ts","id":"01a0ea84-fb2a-7760-98e6-a6c2ea608fd2"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-min-goles.place.ts","id":"01a0ea7d-f2b8-7109-8886-2b121b1fbfe5"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-mornyr.place.ts","id":"01a0ea84-fb2a-787e-8e03-f1b446ef76c4"}
@@ -1462,11 +1467,14 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-old-watchtower.place.ts","id":"01a0ea77-aa5f-7f81-8cad-77ed99fe2eb2"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-param.place.ts","id":"01a0ea77-3d61-7e2e-8abf-3eb2886cda7d"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-plain-of-the-gods.place.ts","id":"01a0ea7d-f2b8-7139-9784-c9bda6da6199"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-regnos.place.ts","id":"01a0ea86-d672-70a4-9497-8b54988ce750"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-reixa.place.ts","id":"01a0ea86-d672-78fd-ba9a-852291c59b72"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-river-shal.place.ts","id":"01a0ea7a-aee9-7776-8bc6-a2158249aa4d"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-shadowlands.place.ts","id":"01a0ea77-3d62-7689-a50f-718688999038"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-sikoua.place.ts","id":"01a0ea80-ba70-79fa-9059-01da73f42ece"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-singing-caves.place.ts","id":"01a0ea77-aa5f-7927-9a26-93d6fb51d989"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-sinurs-gate.place.ts","id":"01a0ea7d-f2b8-7b1c-8b1c-e59319153aa3"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-southern-wildlands.place.ts","id":"01a0ea86-d672-7e64-9da8-b6a3297daa71"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-talyris.place.ts","id":"01a0ea84-fb2a-71b1-bdd1-6699f783039e"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-tavelford.place.ts","id":"01a0ea77-aa5f-775b-beda-e3b5271086cd"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-the-chalice.place.ts","id":"01a0ea84-fb2a-78b4-8278-3bff0b883131"}
@@ -1478,6 +1486,7 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-wether-hills.place.ts","id":"01a0ea77-aa60-7974-84b7-ac2864fc1c4b"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-winter-teeth.place.ts","id":"01a0ea80-ba70-7a80-ab21-655cd2d92e5c"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-zazas.place.ts","id":"01a0ea84-fb2a-780a-8a98-8eba044a89cd"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-zesthanet.place.ts","id":"01a0ea86-d673-7bcc-860a-3ef989310795"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-adventurers-guild.lore.ts","id":"01a0ea78-4904-7c21-b6c0-c14aa07a3f56"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-affinities.lore.ts","id":"01a0ea76-efbe-7535-90b0-f96498c0c18a"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-alice-vane.lore.ts","id":"01a0ea75-19e6-7ec4-8802-9c5201ff6eec"}

@@ -341,6 +341,7 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-vethedya.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-wrightwares.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/super-supportive/places/super-supportive-yipalck-research-facility.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-aristan.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-asmirel.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-asterley.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-baran.place.ts","typed":true,"deferred":false}
@@ -348,6 +349,7 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-deadlands.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-deadshield-woods.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-dragons-peak.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-end-of-the-world.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-endless-sea.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-enoria.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-frostway.place.ts","typed":true,"deferred":false}
@@ -366,8 +368,11 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-in-between.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-kark-steppes.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-kazar.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-koltis.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-lake-hydon.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-lake-solfis.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-larrean.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-losserec.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-luten.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-min-goles.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-mornyr.place.ts","typed":true,"deferred":false}
@@ -377,11 +382,14 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-old-watchtower.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-param.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-plain-of-the-gods.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-regnos.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-reixa.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-river-shal.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-shadowlands.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-sikoua.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-singing-caves.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-sinurs-gate.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-southern-wildlands.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-talyris.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-tavelford.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-the-chalice.place.ts","typed":true,"deferred":false}
@@ -393,6 +401,7 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-wether-hills.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-winter-teeth.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-zazas.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/places/otherwhere-xi-zesthanet.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/tower-of-nimue/places/tower-of-nimue-floor-1-the-charnel-den.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/tower-of-nimue/places/tower-of-nimue-the-tower.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/places/otherwhere-x-brackwood.place.ts","typed":true,"deferred":false}
