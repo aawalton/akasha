@@ -48,6 +48,7 @@ export const story = {
     },
     { pageProperty: "computed-property/story-color", required: false, many: false },
   ],
+  titleColoredBy: "computed-property/story-color",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
