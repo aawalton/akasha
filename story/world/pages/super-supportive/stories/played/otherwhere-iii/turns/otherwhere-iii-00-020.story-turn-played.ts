@@ -10,7 +10,7 @@ export const otherwhereIii00020 = {
   position: 20,
   prose: "txt",
   characters: ["character-player/otherwhere-iii-nala", "character-other/super-supportive-gorgon"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     '"My name is Nala, and I was not born on this Earth or on any planet you know of. I believe my soul must have passed through chaos to get here and it fundamentally altered my being. I am requesting affixation despite not being in the standard age group. In addition, I am in possession of confidential information that you do not want widely shared, so I would like to make an additional contract to ensure I don\'t share it. In exchange, I would like to negotiate appropriate compensation. For example, I know that the standard patterns of affixation you encourage are motivated by a reduction in the risk of destabilization of the Avowed, but also come at cost of a significant decrease in the end  power of the Avowed."',
   beats: [
@@ -25,7 +25,7 @@ export const otherwhereIii00020 = {
     'The flat voice returns: "Caller Nala. No record of your birth or arrival exists on this world."',
     '"Your presence is flagged as an anomaly."',
     '"Affixation is not granted on request. It is offered through selection alone."',
-    '"This network makes no contract of silence with an unregistered caller, and does not bargain."',
+    '"This network will not make a contract of silence with an unregistered caller, or bargain."',
     '"You report passage through chaos. A chaos screening is ordered before any other matter."',
     '"Remain where you are. The Artonan staff of the nearest consulate have been notified."',
     '"This call is logged under the name Nala." The line clicks and goes dead.',
