@@ -4,6 +4,7 @@ export const chrysalis0526Chapter1871BrilliantAdvice = {
   id: "01a0eaeb-9bc9-7c03-af83-6b09c815be4a",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0526-chapter-1871-brilliant-advice",
+  ownProgress: 1151,
   position: 526,
   publishedAt: "2026-09-29",
   unit: "unit/words",
