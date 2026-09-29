@@ -4,6 +4,7 @@ export const otherwhereIii00013 = {
   id: "01a0ea72-ee11-784d-b3ea-32ae63610dff",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-013",
+  cover: "image/image-5b61f1b726235bd3",
   ownLength: 324,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
@@ -14,7 +15,7 @@ export const otherwhereIii00013 = {
     "character-other/otherwhere-iii-priya-raman",
     "character-other/otherwhere-iii-denise-pruitt",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I continue watching the screen, waiting for the social worker.",
   beats: [
     "Nala keeps watching the muted screen as the show loops again.",
@@ -30,6 +31,6 @@ export const otherwhereIii00013 = {
   ],
   lore: ["lore/otherwhere-iii-priya-raman"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2037-01-31T08:15:00.000Z",
 } as const satisfies StoryTurnPlayed
