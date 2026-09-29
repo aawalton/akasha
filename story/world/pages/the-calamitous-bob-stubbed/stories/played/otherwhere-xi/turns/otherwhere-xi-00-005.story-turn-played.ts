@@ -4,7 +4,7 @@ export const otherwhereXi00005 = {
   id: "01a0eaab-bd33-7fc5-a004-43ca4cf9e338",
   type: "page-type/story-turn-played",
   slug: "otherwhere-xi-00-005",
-  ownLength: 353,
+  ownLength: 354,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-xi"],
   position: 5,
@@ -15,7 +15,7 @@ export const otherwhereXi00005 = {
     "world-character/otherwhere-xi-wenna-ashlar",
     "world-character/otherwhere-xi-smoke",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action: '"Would you take me to talk to your Mam?"',
   beats: [
     'Nala asks, "Would you take me to talk to your Mam?"',
