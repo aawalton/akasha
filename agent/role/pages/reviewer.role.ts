@@ -6,4 +6,17 @@ export const reviewer = {
   slug: "reviewer",
   definition: "an agent that checks the beats of one turn or written chapter as one story reviewer",
   onCall: false,
+  directives: [
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Never End On Words",
+      act: "Keep working until your advance has landed; words naming the next read do not read it.",
+      warrant:
+        "A stage seat that ends its turn in words is idle, and the turn it holds waits on nothing.",
+      aids: [
+        "Every output of yours is a tool call until the advance lands.",
+        "Where you cannot finish, send the game master the refusal and advance when it answers.",
+      ],
+    },
+  ],
 } as const satisfies Role
