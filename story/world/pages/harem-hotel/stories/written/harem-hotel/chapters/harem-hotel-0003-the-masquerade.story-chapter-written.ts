@@ -5,7 +5,7 @@ export const haremHotel0003TheMasquerade = {
   type: "page-type/story-chapter-written",
   slug: "harem-hotel-0003-the-masquerade",
   cover: "image/image-2b06350a92ab3ebf",
-  ownProgress: 41,
+  ownProgress: 131,
   position: 3,
   unit: "unit/words",
   title: "The Masquerade",
