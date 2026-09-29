@@ -20,6 +20,10 @@ export const otherwhereIiiOnnDesveth = {
       fact: "She looks nearly human: tall, lean, grey-haired, in plain grey Artonan robes.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She speaks careful, formal English, a little slow, and dislikes shoes indoors.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
