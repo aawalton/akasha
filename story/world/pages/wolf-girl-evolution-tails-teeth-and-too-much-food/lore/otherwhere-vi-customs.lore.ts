@@ -113,7 +113,12 @@ export const otherwhereViCustoms = {
     },
     {
       fact: "Guest-right: anyone who asks shelter of a roof is fed and warmed that night, no questions.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-jory-tull",
+        "character-other/otherwhere-vi-wat",
+      ],
     },
     {
       fact: "Guest-right is asked plainly and granted without haggling; to refuse is a deep shame.",
@@ -141,7 +146,11 @@ export const otherwhereViCustoms = {
     },
     {
       fact: "Folk ask a stranger's name, home village and road; no name and no village is a bad answer.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-jory-tull",
+      ],
     },
   ],
 } as const satisfies Lore

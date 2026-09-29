@@ -41,6 +41,6 @@ export const otherwhereVi00012 = {
     "place/otherwhere-vi-charcoal-camp",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/picture"],
+  recordedBy: ["story-recorder/picture", "story-recorder/memory"],
   endsAt: "2026-09-29T11:15:00.000Z",
 } as const satisfies StoryTurnPlayed

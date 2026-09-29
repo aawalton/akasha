@@ -18,7 +18,7 @@ export const otherwhereViCharcoalCamp = {
     },
     {
       fact: "The hut is poles and turf, with a stone hearth, a fire kept in, and two beds of fern and hides.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "Jory Tull and old Wat are charcoal burners, at the clamp five more days, then rafting home.",
@@ -26,19 +26,19 @@ export const otherwhereViCharcoalCamp = {
     },
     {
       fact: "Jory is a steady, quiet man of thirty, slow to speak and quick to hand a stranger a bowl.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "Wat is old, deaf in one ear, gruff, and will not have anyone go cold at his fire.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "Burr is Wat's big shaggy hound; he barks at anything out of the woods, then wants to be petted.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "The burners have bread, bacon, dried fish, tea and a kettle, and eat plain but plenty.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "They keep a pot of pine-tip salve for burns and cuts, and a barrel of small beer.",
@@ -67,6 +67,19 @@ export const otherwhereViCharcoalCamp = {
     {
       fact: "A heron fishes the shallows above the junction, and deer tracks cross the gravel every morning.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "Burr leans his weight against Nala's legs, then lies with his chin over her foot.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "Wat has the salve pot and the cloth brought for Nala's feet.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-jory-tull",
+        "character-other/otherwhere-vi-wat",
+      ],
     },
   ],
   exits: [
