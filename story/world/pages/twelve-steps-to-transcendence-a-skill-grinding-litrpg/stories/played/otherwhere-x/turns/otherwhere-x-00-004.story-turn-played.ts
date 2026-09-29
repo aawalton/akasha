@@ -7,7 +7,8 @@ export const otherwhereX00004 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-x"],
   position: 4,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "\"I'm Nala. I think my home is far away from here, but I'm not sure where here is precisely, so I couldn't tell you how far. As for business, I suppose I'm looking for a warm meal and roof to sleep under for the night. I could sing for my support or tell stories if you'd like. I have a feeling I have many you'll have never heard the likes of before.\"",
+  lore: ["place/otherwhere-x-harrow"],
 } as const satisfies StoryTurnPlayed
