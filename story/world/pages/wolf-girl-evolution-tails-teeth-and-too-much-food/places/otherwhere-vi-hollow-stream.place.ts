@@ -234,15 +234,19 @@ export const otherwhereViHollowStream = {
     },
     {
       fact: "The sow shadows a slow retreat a few steps, clacking, then turns back once her young go quiet.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-wallow-sow",
+      ],
     },
     {
       fact: "At the slope's foot, open gravel bank runs downstream behind one backing from the wallow.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "Below the wallow the valley narrows; birch joins the alder, and the stream talks over riffles.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "Cowberry carpets the drier banks under the pines, its red berries ripe, sour and safe to eat.",
@@ -307,6 +311,10 @@ export const otherwhereViHollowStream = {
         "character-player/otherwhere-vi-nala",
         "character-other/otherwhere-vi-wallow-sow",
       ],
+    },
+    {
+      fact: "Low shrubs on the drier banks under the pines below the wallow carry small red berries.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
   ],
   exits: [

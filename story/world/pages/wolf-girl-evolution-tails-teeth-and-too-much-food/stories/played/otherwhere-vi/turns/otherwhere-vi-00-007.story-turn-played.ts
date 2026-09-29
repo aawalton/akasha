@@ -36,5 +36,6 @@ export const otherwhereVi00007 = {
   ],
   lore: ["place/otherwhere-vi-hollow-stream", "lore/otherwhere-vi-nala"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-28T22:30:00.000Z",
 } as const satisfies StoryTurnPlayed
