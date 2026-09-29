@@ -31,12 +31,16 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-milestones.lore.ts","id":"01a0ea76-90e5-7447-b2e2-d93d3108e9e5"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-nala.lore.ts","id":"01a0ea63-7454-7f30-9d04-9bcfa1462e38"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-outlanders.lore.ts","id":"01a0ea76-90e6-7a72-9a68-f7ffc864bf97"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-skill-ranks.lore.ts","id":"01a0ea77-acdb-7c6f-a89b-c1ae25f1a318"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-skills.lore.ts","id":"01a0ea77-acdc-7222-b0d9-3ce67c261c57"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-stats.lore.ts","id":"01a0ea76-90e6-79e2-bb73-e0081326944d"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-viv.lore.ts","id":"01a0ea76-b049-7097-b344-854a8fbab5f4"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-yries.lore.ts","id":"01a0ea77-0c35-7249-a9d2-f88d1b0ae214"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/mechanics/otherwhere-xi-interface.world-mechanic.ts","id":"01a0ea74-9df7-7d7f-a0c3-28f2cc0f6bf3"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/mechanics/otherwhere-xi-milestones.world-mechanic.ts","id":"01a0ea76-90e7-7ba2-8257-9b9e66e6beeb"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/mechanics/otherwhere-xi-outlanders.world-mechanic.ts","id":"01a0ea76-90e7-784a-b9b7-01632b089c46"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/mechanics/otherwhere-xi-skill-ranks.world-mechanic.ts","id":"01a0ea77-acdc-776b-9c8f-0a4fefcb0954"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/mechanics/otherwhere-xi-skills.world-mechanic.ts","id":"01a0ea77-acdc-724f-b0d4-5828b73f7f15"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/mechanics/otherwhere-xi-stats.world-mechanic.ts","id":"01a0ea76-90e7-7eaf-b85d-3478b01aa516"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-hadals.world-species.ts","id":"01a0ea77-0c38-7d9f-a0ef-d67c083cc329"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/species/otherwhere-xi-kark.world-species.ts","id":"01a0ea75-99ec-7b9b-b818-041c28e9a145"}
