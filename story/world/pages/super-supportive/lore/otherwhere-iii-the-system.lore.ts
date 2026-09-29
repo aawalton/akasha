@@ -48,6 +48,10 @@ export const otherwhereIiiTheSystem = {
       fact: "Through a caller's sigil the System perceives the caller, and finds no record of Nala anywhere.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A living person on Earth with no record of birth or arrival is an anomaly the System flags.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
