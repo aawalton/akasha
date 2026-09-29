@@ -45,5 +45,6 @@ export const otherwhereIv00013 = {
     '"Will you come?"',
   ],
   lore: ["lore/otherwhere-iv-boar-hunt", "place/otherwhere-iv-upstream-woods"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T19:34:00.000Z",
 } as const satisfies StoryTurnPlayed
