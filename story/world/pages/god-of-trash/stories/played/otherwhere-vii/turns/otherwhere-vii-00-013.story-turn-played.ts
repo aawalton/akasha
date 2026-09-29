@@ -7,9 +7,22 @@ export const otherwhereVii00013 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vii"],
   position: 13,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "\"I'm not sure I'll stay forever, but for now I would be grateful for a place to be safe, and glad to contribute what I can.\"",
+  beats: [
+    "Nala tells Hild she's not sure she'll stay forever, but for now she'd be glad of a safe place.",
+    "She says she'll gladly contribute what she can.",
+    "Hild weighs that with her hand on the door, and gives one short nod.",
+    "\"For now. That's honest, anyhow. I'd sooner that than a promise off a stranger's tongue.\"",
+    "\"Here's my word, then. You're safe to have about, and you work willing. I'll say that much.\"",
+    "\"What you were before, I'll not speak for. That's yours to carry, and none of mine.\"",
+    "Joan, at the board, lets out a breath and goes back to wiping it down.",
+    "Hild shifts the basket on her arm. \"Pot's on the shelf. Work it in tonight, mind, or it's wasted.\"",
+    "\"And if you're for picking, come to the mill at first light. I'll show you which leaves to take.\"",
+    "\"Pick me the wrong ones and they're no good to anyone, so you'll learn them from me first.\"",
+    "She waits in the doorway for an answer, the afternoon sun behind her.",
+  ],
   lore: ["lore/otherwhere-vii-hild"],
   endsAt: "2026-09-28T12:21:00.000Z",
 } as const satisfies StoryTurnPlayed
