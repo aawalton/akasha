@@ -29,5 +29,6 @@ export const otherwhereIii00016 = {
     '"I am bored, little stranger, and you are not boring. Tell me your tale."',
   ],
   lore: ["lore/super-supportive-gorgon", "lore/super-supportive-gorgons-bindings"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2037-01-31T09:30:00.000Z",
 } as const satisfies StoryTurnPlayed
