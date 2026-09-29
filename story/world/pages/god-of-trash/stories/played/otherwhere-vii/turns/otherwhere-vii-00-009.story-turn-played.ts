@@ -15,7 +15,7 @@ export const otherwhereVii00009 = {
     "character-other/otherwhere-vii-gammer-wyn",
     "character-other/otherwhere-vii-tamsin",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "\"Oh. Oh dear. I'm afraid the steward has been cheating you then. For a 10% tithe, he should have taken only seven and a little less than half, not nine. He's taken more than one and a half more than he should have.\"",
   beats: [
@@ -34,7 +34,8 @@ export const otherwhereVii00009 = {
     '"Stay through the weighing. Bed and board, and ten pennies a day. Joan\'ll say where you sleep."',
     '"No more baskets." He holds the stick out to her again. "Keep your mouth shut, and keep my count."',
   ],
+  issues: ['"He stands with the stick in his fist" - Nala holds the stick at the end of turn 8'],
   lore: ["lore/otherwhere-vii-aldo-reeve"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T08:22:00.000Z",
 } as const satisfies StoryTurnPlayed
