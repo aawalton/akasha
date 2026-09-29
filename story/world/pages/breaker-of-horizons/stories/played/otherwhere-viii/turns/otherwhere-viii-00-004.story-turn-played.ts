@@ -11,4 +11,5 @@ export const otherwhereViii00004 = {
   action:
     '"Sorry, I meant the Institute of course. Still waking up it seems. Point me in the right direction? I\'m not afraid of the hills, give me a chance to clear my head."',
   lore: ["place/otherwhere-viii-guildhall", "place/otherwhere-viii-weir-gardens"],
+  endsAt: "2026-09-28T05:55:00.000Z",
 } as const satisfies StoryTurnPlayed
