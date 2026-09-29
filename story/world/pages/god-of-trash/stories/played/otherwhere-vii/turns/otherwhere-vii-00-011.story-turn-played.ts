@@ -54,5 +54,6 @@ export const otherwhereVii00011 = {
     "lore/otherwhere-vii-hild",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-28T12:10:00.000Z",
 } as const satisfies StoryTurnPlayed

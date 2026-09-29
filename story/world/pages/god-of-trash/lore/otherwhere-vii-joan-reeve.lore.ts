@@ -62,5 +62,14 @@ export const otherwhereViiJoanReeve = {
       fact: "Since her father died Joan has run the house and the count of the dairy, and she reads no letters.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Joan covered her slip to Hild, saying Nala was hired for the house.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-hild",
+        "character-other/otherwhere-vii-joan-reeve",
+      ],
+    },
   ],
 } as const satisfies Lore

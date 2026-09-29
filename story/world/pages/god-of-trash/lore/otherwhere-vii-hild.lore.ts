@@ -14,7 +14,11 @@ export const otherwhereViiHild = {
     },
     {
       fact: "Hild reads a stranger by her hands, feet and eyes before she hears a word of her story.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-vii-hild",
+        "character-player/otherwhere-vii-nala",
+      ],
     },
     {
       fact: "Hild would treat blistered hands and cut feet for a penny, or for a morning's herb picking.",
@@ -22,7 +26,11 @@ export const otherwhereViiHild = {
     },
     {
       fact: "Hild asks a newcomer where she comes from and whose she is, and remembers the answer.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-vii-hild",
+        "character-player/otherwhere-vii-nala",
+      ],
     },
     {
       fact: "Hild guards her knowledge: she teaches her simples only to a woman who stays in Ashford.",
@@ -34,7 +42,12 @@ export const otherwhereViiHild = {
     },
     {
       fact: "Bet Reeve has been feverish four days; Hild steeps comfrey and yarrow and watches her at night.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-joan-reeve",
+        "character-other/otherwhere-vii-hild",
+      ],
     },
     {
       fact: "Hild would dose a feverish child with herb tea, sponge her with cold river water and wrap her feet.",
@@ -43,6 +56,10 @@ export const otherwhereViiHild = {
     {
       fact: "A marsh fever off the river runs through Ashford most autumns, and takes a child some years.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hild is the miller's wife and Ashford's healer.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
     },
   ],
   secrets: "jsonl",

@@ -67,7 +67,6 @@ export const otherwhereViiAshford = {
       fact: "The smith, Garrick, is a big quiet man with a limp who needs a helper at the bellows.",
       knowers: ["lore-disclosure/game-master"],
     },
-
     {
       fact: "Ashford lies inside the Snowdrop school's lands by a mile, and folk believe that keeps them safe.",
       knowers: ["lore-disclosure/game-master"],
@@ -88,7 +87,6 @@ export const otherwhereViiAshford = {
       fact: "The miller lets anyone pick his midden, but sets his dog on anyone near the grain store.",
       knowers: ["lore-disclosure/game-master"],
     },
-
     {
       fact: "A pair of wooden clogs costs three pennies from Ashford's clogger, and bark shoes one.",
       knowers: ["lore-disclosure/game-master"],
@@ -299,7 +297,11 @@ export const otherwhereViiAshford = {
     },
     {
       fact: "In Ashford a woman who reads has been somewhere, and folk would want to know where.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-vii-joan-reeve",
+        "character-player/otherwhere-vii-nala",
+      ],
     },
   ],
 } as const satisfies Place
