@@ -7,5 +7,5 @@ export const otherwhereXiWennaAshlar = {
   title: "Nala and Wenna",
   world: "world/the-calamitous-bob-stubbed",
   characters: ["character-player/otherwhere-xi-nala", "world-character/otherwhere-xi-wenna-ashlar"],
-  relationshipPoints: 0,
+  relationshipPoints: 2,
 } as const satisfies WorldRelationship
