@@ -77,6 +77,9 @@ export const otherwhereIiiPriyaRaman = {
       fact: "By day she points Nala to the Uptown library, open nine to five, free and warm.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Priya writes the shelter's address and her own desk number on a card for Nala.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
-  secrets: "jsonl",
 } as const satisfies Lore
