@@ -14,7 +14,7 @@ export const otherwhereVii00012 = {
     "character-other/otherwhere-vii-joan-reeve",
     "character-other/otherwhere-vii-hild",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "\"From far enough away you haven't heard the name, and no one's who still walks this earth.\"",
   beats: [
@@ -36,12 +36,15 @@ export const otherwhereVii00012 = {
     '"So. Are you for staying here, or for the road?"',
     "\"I'll put in a word for you in this village, or I'll hold my peace about you. Which is it?\"",
   ],
+  issues: [
+    '"a child dies of this fever here most autumns" - the fever takes a child only some years',
+  ],
   lore: [
     "lore/otherwhere-vii-hild",
     "lore/otherwhere-vii-joan-reeve",
     "lore/otherwhere-vii-nala",
     "place/otherwhere-vii-ashford",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T12:18:00.000Z",
 } as const satisfies StoryTurnPlayed
