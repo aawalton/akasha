@@ -301,5 +301,25 @@ export const otherwhereViiAshford = {
       fact: "The meadow ditch is ankle-deep in mud and cut by cattle tracks, and hides a spring or two.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ashford's mill is a stone undershot mill on the river below the ford, with a millpond above.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The miller, Dunstan, is round, floury and slow, and takes a sixteenth of all he grinds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dunstan reads a little, slowly, with his finger on the line, and is proud of it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The mill's dog is a big brindled mastiff, chained by day by the grain store.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hild dries her herbs in bunches from the mill loft rafters, where it's warm and dry.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
