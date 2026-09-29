@@ -6,6 +6,13 @@ export const otherwhereXiWaystoneShrine = {
   slug: "otherwhere-xi-waystone-shrine",
   title: "The Waystone Shrine",
   world: "world/the-calamitous-bob-stubbed",
+  within: "place/otherwhere-xi-wether-hills",
+  exits: [
+    {
+      to: "place/otherwhere-xi-tavelford",
+      way: "Down the hill road into the valley, an hour's walk to the village.",
+    },
+  ],
   facts: [
     {
       fact: "The shrine is a roofless ring of standing stones on a grassy hilltop beside a hill road.",
@@ -43,5 +50,42 @@ export const otherwhereXiWaystoneShrine = {
       fact: "The ring's standing stones are grey and lichen-spotted, each taller than a man.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
     },
+    {
+      fact: "The shrine is the Tavelford waystone, on the hill road an hour north of the village.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The ring has nine stones; one has fallen outward and lies in the grass.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The door and key are Maradoc's sign; travellers touch the key for a safe road.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Waystone custom: a traveller in need may take an offering, and leaves one when able.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A harrien, a small hill beast, gnawed the bread crust on the altar in the night.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "From the ring the hill road runs north over the ridges toward the desert, and south to Tavelford.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin Ashlar brings his flock up to graze below the ring a little after sunrise most days.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A stream runs off the hill in a gully a few hundred paces east of the ring.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The waystone ring sits on a small power locus; casters feel a faint hum inside it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
+  secrets: "jsonl",
 } as const satisfies Place
