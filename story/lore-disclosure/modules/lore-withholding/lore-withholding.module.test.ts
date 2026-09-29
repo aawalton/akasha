@@ -32,6 +32,8 @@ import {
   TOLD_AT,
   toldAlso,
   UNDER_GAME_MASTER,
+  WORLD_ABOUT,
+  WORLD_AT,
   WRITER_SEAT,
 } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts"
 
@@ -129,12 +131,20 @@ test("a page outside the stories is never withheld for the lore about it", () =>
   expect(OUTSIDE_AT.startsWith("story/")).toBe(false)
 })
 
+test("a world's own page is never withheld for the lore about it", () => {
+  const root = loreWorld(scratch, WORLD_ABOUT)
+  expect(secretTargetsIn(root, [LORE_AT])).toEqual([])
+  expect(withheldIn(root)).toEqual([LORE_AT])
+  expect(withheldPath(root, WORLD_AT)).toBe(false)
+})
+
 const ASKED_ABOUT: readonly string[] = [
   LORE_AT,
   TARGET_AT,
   SECRETS_AT,
   TOLD_AT,
   OUTSIDE_AT,
+  WORLD_AT,
   "story/world/pages/held/lore/sealed.lore.referenced-by.jsonl",
   "story/world/pages/held/lore/sealed.lore.secrets.jsonl",
   "agent/seat/pages/held/held.seat.ts",
@@ -150,6 +160,7 @@ test("one path is withheld exactly where the whole list withholds it", () => {
   agreeing(loreWorld(scratch))
   agreeing(loreWorld(scratch, undefined, true))
   agreeing(loreWorld(scratch, "persona/held"))
+  agreeing(loreWorld(scratch, WORLD_ABOUT))
   const told = loreWorld(scratch)
   toldAlso(told)
   agreeing(told)

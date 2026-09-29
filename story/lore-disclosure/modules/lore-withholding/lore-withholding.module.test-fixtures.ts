@@ -47,6 +47,10 @@ export const TARGET_AT = "story/world/pages/held/characters/hidden.world-charact
 
 export const OUTSIDE_AT = "persona/pages/held/held.persona.ts"
 
+export const WORLD_AT = "story/world/pages/held/held.world.ts"
+
+export const WORLD_ABOUT = "world/held"
+
 export const TOLD_AT = "story/world/pages/held/lore/told.lore.ts"
 
 const TARGET_TYPE = "world-character"
@@ -154,6 +158,12 @@ function targetsFiled(root: string): undefined {
       value: { id: "01a0d600-0000-7000-8000-000000000005", type: typeOf("persona"), slug: "held" },
     },
   ])
+  valueAlsoFiled(root, "world", [
+    {
+      path: WORLD_AT,
+      value: { id: "01a0d600-0000-7000-8000-00000000000a", type: typeOf("world"), slug: "held" },
+    },
+  ])
 }
 
 function toldFacts(): readonly unknown[] {
@@ -163,6 +173,7 @@ function toldFacts(): readonly unknown[] {
 const ABOUT_AT: Readonly<Record<string, string>> = {
   [TARGET]: TARGET_AT,
   [addressOf("persona", "held")]: OUTSIDE_AT,
+  [WORLD_ABOUT]: WORLD_AT,
 }
 
 function aboutWritten(root: string, about: string, namings: readonly Naming[]): undefined {

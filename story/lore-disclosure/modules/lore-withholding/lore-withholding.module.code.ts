@@ -31,6 +31,7 @@ import { loreAbout } from "akasha/story/lore/properties/lore-about.relation-prop
 import { loreFacts } from "akasha/story/lore/properties/lore-facts.record-property.ts"
 import { loreKnowers } from "akasha/story/lore/properties/lore-knowers.multi-relation-property.ts"
 import { loreSecrets } from "akasha/story/lore/properties/lore-secrets.file-property.ts"
+import { world } from "akasha/story/world/world.page-type.ts"
 
 const SLASH = "/"
 
@@ -126,6 +127,8 @@ export function secretTargetsIn(root: string, held: readonly string[]): readonly
   const found: string[] = []
   for (const [about, paths] of telling) {
     if (!paths.every((one) => held.includes(one))) continue
+    const address = addressIn(about)
+    if (address.kind === "qualified" && address.pageTypeSlug === world.slug) continue
     const at = pathOf(root, about)
     if (at?.startsWith(STORY)) found.push(at)
   }
@@ -169,7 +172,7 @@ export function withheldPath(root: string, given: string): boolean {
     const listed = listedAnywhere(root, parted.pageType, parted.slug)
     return listed.some((one) => one.path === path) && !toldAt(root, path)
   }
-  if (!path.startsWith(STORY)) return false
+  if (!path.startsWith(STORY) || parted.pageType === world.slug) return false
   const about = namersThrough(root, path, loreAbout.slug).filter(
     (one) => partedIn(one)?.pageType === lore.slug
   )

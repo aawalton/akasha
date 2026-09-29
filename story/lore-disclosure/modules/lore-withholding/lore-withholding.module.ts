@@ -48,6 +48,10 @@ export const loreWithholding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A world's own page is never withheld for the lore about it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every other caller is answered with nothing withheld.",
     },
     {
