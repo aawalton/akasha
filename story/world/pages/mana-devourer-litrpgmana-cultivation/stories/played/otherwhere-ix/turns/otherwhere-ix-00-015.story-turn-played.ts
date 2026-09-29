@@ -25,6 +25,10 @@ export const otherwhereIx00015 = {
     "Her ankle is still locked in its jaws, and its body is square across her legs.",
     "The beast plants its feet and starts to drag her backward through the grass, toward the kill.",
   ],
+  issues: [
+    '"the last quill still clamped" - she pulled five spine quills and only one has snapped',
+  ],
   lore: ["lore/otherwhere-ix-nala", "lore/otherwhere-ix-shardback"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T15:58:00.000Z",
 } as const satisfies StoryTurnPlayed
