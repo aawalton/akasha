@@ -16,7 +16,7 @@ export const otherwhereXi00011 = {
     "world-character/otherwhere-xi-tobin-ashlar",
     "world-character/otherwhere-xi-smoke",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“I might as well for now, it’s good to be needed somewhere.”",
   beats: [
     'Nala says, "I might as well, for now. It\'s good to be needed somewhere."',
@@ -52,6 +52,6 @@ export const otherwhereXi00011 = {
     "place/otherwhere-xi-ashlar-farm",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
   endsAt: "2026-09-28T12:00:00.000Z",
 } as const satisfies StoryTurnPlayed
