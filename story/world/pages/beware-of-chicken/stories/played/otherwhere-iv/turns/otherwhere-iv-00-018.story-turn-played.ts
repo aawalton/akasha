@@ -14,7 +14,7 @@ export const otherwhereIv00018 = {
     "character-other/otherwhere-iv-tie-bo",
     "character-other/otherwhere-iv-granny-hua",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Beyond the infestation of insects? Hmm, have you tried diatomaceous earth? That is a decently good repellant for ordinary ants, but I’m not certain it would be easily available here. I’m scraps my answer for you is similar to what I told Tie Bo. I have a great deal of general knowledge, but when it comes to the specific flora and fauna of this region, you likely know much more than I.”",
   beats: [
@@ -47,6 +47,6 @@ export const otherwhereIv00018 = {
     'Granny Hua jerks her chin at her. "So. What are you, then?"',
   ],
   lore: ["lore/otherwhere-iv-granny-hua", "lore/otherwhere-iv-nala"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T06:41:00.000Z",
 } as const satisfies StoryTurnPlayed
