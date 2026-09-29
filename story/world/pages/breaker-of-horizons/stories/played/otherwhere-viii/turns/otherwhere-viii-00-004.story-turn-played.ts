@@ -32,5 +32,6 @@ export const otherwhereViii00004 = {
     "He holds them out to her.",
   ],
   lore: ["place/otherwhere-viii-guildhall", "place/otherwhere-viii-weir-gardens"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T05:55:00.000Z",
 } as const satisfies StoryTurnPlayed
