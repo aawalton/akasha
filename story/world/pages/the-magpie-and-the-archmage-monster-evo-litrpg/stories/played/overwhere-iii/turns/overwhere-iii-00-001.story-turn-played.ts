@@ -12,4 +12,5 @@ export const overwhereIii00001 = {
   characters: ["character-player/overwhere-iii-nala"],
   stepStatus: "step-status/recorders",
   lore: ["lore/overwhere-iii-nala", "place/overwhere-iii-wrenwood-crossroads"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
