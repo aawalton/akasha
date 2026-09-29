@@ -74,6 +74,10 @@ export const otherwhereIvUpstreamWoods = {
       fact: "Mundane poison does not harm a spirit beast; aconite on a stake would be no more than dirt.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "He can leave a pit in one leap, being far stronger than his size suggests.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
