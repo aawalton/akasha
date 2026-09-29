@@ -53,5 +53,15 @@ export const otherwhereViiGammerWyn = {
       fact: "Gammer Wyn knows Aldo frets over the steward's ledger, and would steer a reader to him.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Gammer Wyn swears the steward's scale has always been crooked, and has said so for years.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+        "character-other/otherwhere-vii-gammer-wyn",
+        "character-other/otherwhere-vii-tamsin",
+      ],
+    },
   ],
 } as const satisfies Lore

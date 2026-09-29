@@ -150,34 +150,7 @@ export const otherwhereViiAldoReeve = {
         "character-other/otherwhere-vii-tamsin",
       ],
     },
-    {
-      fact: "The steward is Osric Vane, a thin clerk in a grey coat with a snowdrop badge, on a brown pony.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-vii-aldo-reeve",
-        "character-other/otherwhere-vii-gammer-wyn",
-        "character-other/otherwhere-vii-tamsin",
-      ],
-    },
-    {
-      fact: "Osric rides the villages with a young school mage as escort, a Tier 1 swordsman in white.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/otherwhere-vii-aldo-reeve",
-        "character-other/otherwhere-vii-gammer-wyn",
-        "character-other/otherwhere-vii-tamsin",
-      ],
-    },
-    {
-      fact: "Gammer Wyn swears the steward's scale has always been crooked, and has said so for years.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-vii-nala",
-        "character-other/otherwhere-vii-aldo-reeve",
-        "character-other/otherwhere-vii-gammer-wyn",
-        "character-other/otherwhere-vii-tamsin",
-      ],
-    },
+
     {
       fact: "This year's barley stick has 4 deep notches and 3 shallow: 43 sacks threshed so far.",
       knowers: ["lore-disclosure/game-master", "character-other/otherwhere-vii-aldo-reeve"],
