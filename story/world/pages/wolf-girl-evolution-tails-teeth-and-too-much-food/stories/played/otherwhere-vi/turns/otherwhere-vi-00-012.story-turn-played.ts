@@ -4,10 +4,13 @@ export const otherwhereVi00012 = {
   id: "01a0eae9-ea7f-77f5-9022-25ac838555da",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vi-00-012",
+  ownLength: 343,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],
   position: 12,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-vi-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "\"Hello! I've been lost in the woods for a night and a day, would you grant me a traveler's hospitality?\"",
   beats: [
