@@ -72,6 +72,18 @@ export const overwhereIiVale = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "A ruined cliff-top temple near Vale, reached by carved stairs and a tunnel, is Sea-touched.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The temple ruin's Talent stove refills its well from the ambient Sea's touch.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Rancid-salt claw marks wider than a hand were found circling the temple ruin.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Before Threllsnacht, hounds maimed animals across the Vale; sheep died of mauling rot.",
       knowers: ["lore-disclosure/game-master"],
     },
