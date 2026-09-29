@@ -11,4 +11,5 @@ export const otherwhereIii00025 = {
   action:
     "“I will exercise my right. I would request Esh-erdi as my trusted witness. He should be on Earth soon to celebrate his inesvul if he isn’t here already. As I am new to this world, he is the only one I would trust.”",
   lore: ["lore/otherwhere-iii-onn-desveth", "lore/super-supportive-esh"],
+  endsAt: "2037-01-31T10:48:00.000Z",
 } as const satisfies StoryTurnPlayed
