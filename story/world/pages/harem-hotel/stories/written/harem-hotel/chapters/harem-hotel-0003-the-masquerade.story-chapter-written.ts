@@ -10,7 +10,7 @@ export const haremHotel0003TheMasquerade = {
   story: "story-written/harem-hotel",
   ownLength: 3065,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "You climb the stairs from the bathhouse in a linen towel, and a slow waltz drifts down to meet you.",
     "The stairs end behind a black velvet curtain, and on a chair there lie evening clothes and a mask.",
@@ -107,5 +107,5 @@ export const haremHotel0003TheMasquerade = {
     "character-other/harem-hotel-odile",
     "character-player/harem-hotel-alan",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
