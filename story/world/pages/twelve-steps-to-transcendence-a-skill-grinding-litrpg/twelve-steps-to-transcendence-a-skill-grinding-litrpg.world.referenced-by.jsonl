@@ -52,6 +52,7 @@
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-hannah.lore.ts","id":"01a0ea73-c52a-7551-a199-65f524586b19"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-haven-academy.lore.ts","id":"01a0ea78-4904-7d36-9a17-4dc2abe6e0c2"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-hawk-eyes.lore.ts","id":"01a0ea7a-2e19-7d28-a061-a732ef85bc1d"}
+{"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-healing-mark.lore.ts","id":"01a0ea7a-dd28-7e45-80fd-16223cb65fc6"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-healing.lore.ts","id":"01a0ea74-a2cf-776b-8af9-59a21f7bd9c3"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-holding-bag.lore.ts","id":"01a0ea7a-5bd9-77c6-ab36-9d61273cce14"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-horned-rabbit.lore.ts","id":"01a0ea76-0b81-77b6-8fea-45a82f6486e8"}
@@ -59,8 +60,11 @@
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-house-lionheart.lore.ts","id":"01a0ea79-298a-7ef3-978e-fda38fdf429f"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-house-sterling.lore.ts","id":"01a0ea79-298a-7fc0-9eee-c4c0d6ee52d0"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-house-vane.lore.ts","id":"01a0ea79-298b-70fa-a56a-a83971cf9393"}
+{"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-hunter.lore.ts","id":"01a0ea7a-dd29-7086-b108-64010c9dcb57"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-language.lore.ts","id":"01a0ea77-ca07-77ba-9eb2-eb9390d7f724"}
+{"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-learning-model.lore.ts","id":"01a0ea7a-dd29-7f2d-ba56-073e14bde6ca"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-logan.lore.ts","id":"01a0ea73-c52b-70d8-8ae9-fde6710d7c2e"}
+{"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-lurker.lore.ts","id":"01a0ea7a-dd29-7bdd-9da6-9fd31c2c0e64"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-mana-beam.lore.ts","id":"01a0ea7a-2e1a-7712-adb8-7eb90e070b14"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-mana-cannon.lore.ts","id":"01a0ea7a-2e1a-764f-93c1-ed34f32a2003"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-mana-construct.lore.ts","id":"01a0ea7a-2e1b-7710-b36a-e4cdab3f6cc4"}
@@ -139,7 +143,11 @@
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/mechanics/otherwhere-x-focus.world-mechanic.ts","id":"01a0ea78-8087-7814-812d-f9c0be2d9ce1"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/mechanics/otherwhere-x-goblin-poison.world-mechanic.ts","id":"01a0ea74-a2d1-74e4-8929-6cffcb3a05d6"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/mechanics/otherwhere-x-hawk-eyes.world-mechanic.ts","id":"01a0ea7a-2e1b-79c1-afe4-5b40c968b6f2"}
+{"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/mechanics/otherwhere-x-healing-mark.world-mechanic.ts","id":"01a0ea7a-dd2a-763f-8e0d-c312b6743109"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/mechanics/otherwhere-x-healing.world-mechanic.ts","id":"01a0ea74-a2d1-745b-9567-15775eab1bc2"}
+{"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/mechanics/otherwhere-x-hunter.world-mechanic.ts","id":"01a0ea7a-dd2a-7697-a536-2fdba65edfc5"}
+{"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/mechanics/otherwhere-x-learning-model.world-mechanic.ts","id":"01a0ea7a-dd2a-7209-8dc5-91342c1263e9"}
+{"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/mechanics/otherwhere-x-lurker.world-mechanic.ts","id":"01a0ea7a-dd2a-7cec-a04f-67bfa907e4d2"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/mechanics/otherwhere-x-mana-beam.world-mechanic.ts","id":"01a0ea7a-2e1b-75a3-b4bf-57f9f800da39"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/mechanics/otherwhere-x-mana-cannon.world-mechanic.ts","id":"01a0ea7a-2e1b-7167-be2f-ccc7526aeebc"}
 {"propertySlug":"world","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/mechanics/otherwhere-x-mana-construct.world-mechanic.ts","id":"01a0ea7a-2e1b-7a6f-8a24-2a795a067468"}
