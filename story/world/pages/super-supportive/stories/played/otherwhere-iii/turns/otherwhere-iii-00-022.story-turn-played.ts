@@ -4,7 +4,7 @@ export const otherwhereIii00022 = {
   id: "01a0eb24-fb68-711c-9808-76402a53452a",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-022",
-  ownLength: 234,
+  ownLength: 233,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
   position: 22,
@@ -14,7 +14,7 @@ export const otherwhereIii00022 = {
     "character-other/super-supportive-gorgon",
     "character-other/otherwhere-iii-onn-desveth",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action: '"Yes"',
   beats: [
     'Nala says, "Yes."',
