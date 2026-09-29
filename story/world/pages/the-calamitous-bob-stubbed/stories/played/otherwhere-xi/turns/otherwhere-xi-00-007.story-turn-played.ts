@@ -4,6 +4,7 @@ export const otherwhereXi00007 = {
   id: "01a0ead5-60d6-7fe3-8c11-505f43312c78",
   type: "page-type/story-turn-played",
   slug: "otherwhere-xi-00-007",
+  cover: "image/image-0b8d23b90ac85e05",
   ownLength: 272,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-xi"],
@@ -38,6 +39,6 @@ export const otherwhereXi00007 = {
     "place/otherwhere-xi-tavelford",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T07:39:00.000Z",
 } as const satisfies StoryTurnPlayed
