@@ -15,7 +15,7 @@ export const otherwhereVii00012 = {
     "character-other/otherwhere-vii-joan-reeve",
     "character-other/otherwhere-vii-hild",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "\"From far enough away you haven't heard the name, and no one's who still walks this earth.\"",
   beats: [
@@ -47,6 +47,6 @@ export const otherwhereVii00012 = {
     "place/otherwhere-vii-ashford",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
   endsAt: "2026-09-28T12:18:00.000Z",
 } as const satisfies StoryTurnPlayed
