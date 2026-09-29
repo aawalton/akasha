@@ -6,6 +6,5 @@
 {"propertySlug":"import","fileName":"reviewer.role.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-otherwhere-iii-flex-1/iris-reviewer-otherwhere-iii-flex-1.seat.ts","id":"01a0ea91-d704-7000-bc31-043cf4d16eda"}
-{"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-otherwhere-iii-flex-2/iris-reviewer-otherwhere-iii-flex-2.seat.ts","id":"01a0ea91-ef65-7000-9253-b2f422ed05a2"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-otherwhere-x-flex-1/iris-reviewer-otherwhere-x-flex-1.seat.ts","id":"01a0ea92-a993-7000-bcd9-5c571bcf87cb"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-otherwhere-x-flex-2/iris-reviewer-otherwhere-x-flex-2.seat.ts","id":"01a0ea92-bfeb-7000-a435-28876bac57c3"}
