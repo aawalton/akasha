@@ -4,6 +4,7 @@ export const otherwhereVii00014 = {
   id: "01a0eb1f-d547-7b35-a220-84dc5a5facbd",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vii-00-014",
+  cover: "image/image-6c440392d6d294d3",
   ownLength: 213,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vii"],
@@ -14,7 +15,7 @@ export const otherwhereVii00014 = {
     "character-other/otherwhere-vii-hild",
     "character-other/otherwhere-vii-joan-reeve",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I go immediately to work in the salve for the blisters from the pot.",
   beats: [
     "Nala goes straight to the shelf, takes down the little pot, and pries off the lid.",
@@ -38,6 +39,6 @@ export const otherwhereVii00014 = {
     "place/otherwhere-vii-ashford",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T12:27:00.000Z",
 } as const satisfies StoryTurnPlayed
