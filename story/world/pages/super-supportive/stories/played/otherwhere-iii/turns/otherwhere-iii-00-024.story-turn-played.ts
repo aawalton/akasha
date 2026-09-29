@@ -14,7 +14,7 @@ export const otherwhereIii00024 = {
     "character-other/super-supportive-gorgon",
     "character-other/otherwhere-iii-onn-desveth",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“That is part of why I believe my Earth cannot be too far distant. In my world your world exists as a story in a book, all the way down to the headlines I saw on the news last night. I know a great deal, but filtered through the lens of a story. So far, all of the details from the story have been accurate, but that doesn’t mean I can speak Artonan, even though the main character of the story could speak Artonan. I also suspect specific events could diverge as my actions have ripple effects, similar to a hypothetical time travel scenario.”",
   beats: [
@@ -41,6 +41,8 @@ export const otherwhereIii00024 = {
   ],
   issues: [
     '"holds it out to you" - beat has her set the card on the counter by the enrollment form',
+    '"To no one else." - Plain Negation',
+    '"and holds it out to you." - No Prompt',
   ],
   lore: [
     "lore/otherwhere-iii-nala",
@@ -48,6 +50,6 @@ export const otherwhereIii00024 = {
     "lore/super-supportive-contract-tattoo",
     "lore/super-supportive-gorgon",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2037-01-31T10:45:00.000Z",
 } as const satisfies StoryTurnPlayed
