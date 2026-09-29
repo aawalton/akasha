@@ -71,6 +71,10 @@ export const otherwhereIvSpiritBeastTales = {
       fact: "Dried spirit-herb smoke drives a newly awakened beast off, its Qi offending the beast.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Granny Hua keeps a dried bundle of a spirit herb, unlabeled, left to her by her teacher.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
