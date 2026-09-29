@@ -4,10 +4,18 @@ export const otherwhereXi00011 = {
   id: "01a0eb57-4a50-73aa-88b9-bbde21524723",
   type: "page-type/story-turn-played",
   slug: "otherwhere-xi-00-011",
+  ownLength: 328,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-xi"],
   position: 11,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/otherwhere-xi-nala",
+    "world-character/otherwhere-xi-wenna-ashlar",
+    "world-character/otherwhere-xi-tobin-ashlar",
+    "world-character/otherwhere-xi-smoke",
+  ],
+  stepStatus: "step-status/reviewers",
   action: "“I might as well for now, it’s good to be needed somewhere.”",
   beats: [
     'Nala says, "I might as well, for now. It\'s good to be needed somewhere."',
@@ -31,6 +39,12 @@ export const otherwhereXi00011 = {
     'Then Wenna looks at Nala. "No waystones. No gods. No books. You\'ll say the same."',
     "It isn't quite a question. Across the mat, Tobin has stopped chewing.",
   ],
-  lore: ["lore/otherwhere-xi-wenna-ashlar", "place/otherwhere-xi-ashlar-farm"],
+  lore: [
+    "lore/otherwhere-xi-nala",
+    "lore/otherwhere-xi-smoke",
+    "lore/otherwhere-xi-tobin-ashlar",
+    "lore/otherwhere-xi-wenna-ashlar",
+    "place/otherwhere-xi-ashlar-farm",
+  ],
   endsAt: "2026-09-28T12:00:00.000Z",
 } as const satisfies StoryTurnPlayed
