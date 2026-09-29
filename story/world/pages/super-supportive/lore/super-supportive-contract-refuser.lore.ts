@@ -7,5 +7,11 @@ export const superSupportiveContractRefuser = {
   title: "Contract refusers",
   world: "world/super-supportive",
   about: "world-title/super-supportive-contract-refuser",
+  facts: [
+    {
+      fact: "The System keeps offering the Contract, for one refuser every morning two minutes after waking.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
