@@ -1,0 +1,60 @@
+import type { Lore } from "akasha/story/lore/lore.page-type.types.ts"
+
+export const overwhereITheGreyfenAlpha = {
+  id: "01a0ed2a-a1ae-754a-9829-4ecca3dea04b",
+  type: "page-type/lore",
+  slug: "overwhere-i-the-greyfen-alpha",
+  title: "Ghost-Eye, the Greyfen Alpha",
+  world: "world/hell-hound-evolution-litrpg",
+  facts: [
+    {
+      fact: "Ghost-Eye is the wild Drakewolf alpha of the Greyfen, named by Fenwatch for its milky left eye.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Analyze shows it as Drakewolf - Level 21.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "It is half again the size of a common Drakewolf, scarred grey-green, with a lizard muzzle and crest.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "It leads a pack of eight Drakewolves of Level 10 to 16 that hunts the middle fen at dawn and dusk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The pack herds prey toward water and cuts it down together, and sees well at night.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ghost-Eye has levelled fast this summer, killing the beasts that flee east out of the deep fen.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Its pack drove Sootjaw and other Blackbriar Brutes out of the middle fen in spring.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "It killed two reed-cutters from Sallow Hythe this summer.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Its howl carries to Fenwatch on still nights, and Rowan Coalby's Drakewolf answers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Wendlow's Hunters' Board offers twenty-five gold for its head.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "An alpha's hide like its own would fetch five gold.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "It is a serious danger, beyond any fighter in Fenwatch, and its pack keeps growing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
+  secrets: "jsonl",
+} as const satisfies Lore

@@ -1,0 +1,64 @@
+import type { Lore } from "akasha/story/lore/lore.page-type.types.ts"
+
+export const overwhereITheDeserterCrew = {
+  id: "01a0ed2a-a1ad-7fd4-8410-54e8ad041b59",
+  type: "page-type/lore",
+  slug: "overwhere-i-the-deserter-crew",
+  title: "Harl Voss's Crew",
+  world: "world/hell-hound-evolution-litrpg",
+  facts: [
+    {
+      fact: "Harl Voss's crew is a band of about eleven deserters and outlaws holding Cutter's Quarry.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Cutter's Quarry is an old stone pit beside the east road, a day east of Fenwatch.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Eight of them deserted the king's levy in the northern passes; two are Iron March men.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Harl Voss leads them, a former levy sergeant whom Analyze shows as Human - Level 24.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Voss is big, grey-bearded and scar-lipped, and fights with a long-hafted axe and a round shield.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Voss has Analyze and reads the level of anyone who comes near him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "His second, Mirren Dask, called Crow, is a Level 17 crossbow shot who waits in the trees.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The rest range from Level 10 to 16, in mismatched leather and plate, with crossbows and blades.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "They keep a Domesticated Drakewolf of Level 15 in a spiked collar to track and run down prey.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "They signal with whistles: one soft for alert, three sharp for retreat.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "They take a silver toll per cart at the quarry, and rob a cart whole if it resists.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "They killed a march rider and a pedlar in spring, and the margrave has sent no one after them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Wendlow's Hunters' Board offers thirty gold for Voss and two gold for each of his crew.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
+  secrets: "jsonl",
+} as const satisfies Lore
