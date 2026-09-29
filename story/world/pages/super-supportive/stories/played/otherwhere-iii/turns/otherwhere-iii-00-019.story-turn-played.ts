@@ -38,6 +38,7 @@ export const otherwhereIii00019 = {
     '"You are not registered with this network. State your name, your reason and your urgency."',
     "The line hums, open, and waits for all three.",
   ],
+  issues: ['"A civilian reaches it one way only" - the prose leaves this beat out'],
   lore: [
     "lore/otherwhere-iii-nala",
     "lore/super-supportive-1963-agreement",
@@ -47,5 +48,6 @@ export const otherwhereIii00019 = {
     "lore/super-supportive-system-call",
     "place/super-supportive-artonan-consulate-4",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2037-01-31T09:49:00.000Z",
 } as const satisfies StoryTurnPlayed
