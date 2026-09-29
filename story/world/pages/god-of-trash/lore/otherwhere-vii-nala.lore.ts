@@ -203,7 +203,11 @@ export const otherwhereViiNala = {
     },
     {
       fact: "Her hands are blistered from the basket, and her bare feet are cut and sore from the road.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-hild",
+      ],
     },
     {
       fact: "By noon Nala knew the kitchen, the byre, the well and the woodpile under its lean-to.",
@@ -212,6 +216,14 @@ export const otherwhereViiNala = {
     {
       fact: "Bet's clogs are stiff and loud, and hurt Nala's feet worse than barefoot.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vii-nala"],
+    },
+    {
+      fact: "Nala has no kin living; she says no one living is hers.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-hild",
+      ],
     },
   ],
   secrets: "jsonl",

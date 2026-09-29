@@ -172,7 +172,6 @@ export const otherwhereViiAshford = {
         "character-other/otherwhere-vii-joan-reeve",
       ],
     },
-
     {
       fact: "Joan would lend a decent hired woman Bet's old brown kirtle and a pair of worn clogs.",
       knowers: [
@@ -258,12 +257,10 @@ export const otherwhereViiAshford = {
         "character-other/otherwhere-vii-joan-reeve",
       ],
     },
-
     {
       fact: "Girls in Ashford carry water from the ford in a yoke across the shoulders, two pails at a time.",
       knowers: ["lore-disclosure/game-master"],
     },
-
     {
       fact: "In Ashford a woman who reads has been somewhere, and folk would want to know where.",
       knowers: [
@@ -290,7 +287,11 @@ export const otherwhereViiAshford = {
     },
     {
       fact: "The north meadow is the herb ground; the riverbank by the ford is picked bare by Ashford's wives.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-vii-hild",
+        "character-player/otherwhere-vii-nala",
+      ],
     },
     {
       fact: "Ashford's children are told not to go past the north meadow, because of the wood and the boar.",

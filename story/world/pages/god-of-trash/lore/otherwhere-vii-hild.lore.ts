@@ -22,7 +22,11 @@ export const otherwhereViiHild = {
     },
     {
       fact: "Hild would treat blistered hands and cut feet for a penny, or for a morning's herb picking.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-vii-hild",
+        "character-player/otherwhere-vii-nala",
+      ],
     },
     {
       fact: "Hild asks a newcomer where she comes from and whose she is, and remembers the answer.",
@@ -55,15 +59,28 @@ export const otherwhereViiHild = {
     },
     {
       fact: "A marsh fever off the river runs through Ashford most autumns, and takes a child some years.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-vii-hild",
+        "character-other/otherwhere-vii-joan-reeve",
+        "character-player/otherwhere-vii-nala",
+      ],
     },
     {
       fact: "Hild hears 'no one living is mine' as orphan, exile or runaway, and judges which by the hands.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-vii-hild",
+        "character-player/otherwhere-vii-nala",
+      ],
     },
     {
       fact: "Hild would offer Nala herb-picking at a quarter-penny a bunch, and ask her nothing more.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-vii-hild",
+        "character-player/otherwhere-vii-nala",
+      ],
     },
     {
       fact: "Hild has midwifed and buried half of Ashford, and her word carries more weight than the headman's.",
@@ -71,15 +88,27 @@ export const otherwhereViiHild = {
     },
     {
       fact: "Hild would tell a kinless woman plainly that she needs a place, and that Ashford could be one.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-vii-hild",
+        "character-player/otherwhere-vii-nala",
+      ],
     },
     {
       fact: "Hild's good comfrey and yarrow grow in the wet ground half a mile north, toward Hobb's Wood.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-vii-hild",
+        "character-player/otherwhere-vii-nala",
+      ],
     },
     {
       fact: "Hild pays a quarter-penny a bunch for herbs, or sets a penny against a pot of her grease.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-vii-hild",
+        "character-player/otherwhere-vii-nala",
+      ],
     },
     {
       fact: "Hild's word once given settles a stranger with Joan and Aldo, and then with the village.",
@@ -92,6 +121,14 @@ export const otherwhereViiHild = {
     {
       fact: "Hild counts a woman's staying as her payment: she teaches her simples only to one who stays.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hild's grease for blistered palms is comfrey and lard, worked in at night.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-vii-hild",
+        "character-player/otherwhere-vii-nala",
+      ],
     },
   ],
   secrets: "jsonl",
