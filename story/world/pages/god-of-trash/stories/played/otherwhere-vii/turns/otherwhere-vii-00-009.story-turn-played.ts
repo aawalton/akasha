@@ -15,7 +15,7 @@ export const otherwhereVii00009 = {
     "character-other/otherwhere-vii-gammer-wyn",
     "character-other/otherwhere-vii-tamsin",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "\"Oh. Oh dear. I'm afraid the steward has been cheating you then. For a 10% tithe, he should have taken only seven and a little less than half, not nine. He's taken more than one and a half more than he should have.\"",
   beats: [
