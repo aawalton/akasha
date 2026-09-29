@@ -39,11 +39,15 @@ export const otherwhereIii00024 = {
     '"You may bring someone you trust to hear them read. That is your right."',
     "She takes a card from her sleeve and sets it on the counter beside the enrollment form.",
   ],
+  issues: [
+    '"holds it out to you" - beat has her set the card on the counter by the enrollment form',
+  ],
   lore: [
     "lore/otherwhere-iii-nala",
     "lore/otherwhere-iii-onn-desveth",
     "lore/super-supportive-contract-tattoo",
     "lore/super-supportive-gorgon",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2037-01-31T10:45:00.000Z",
 } as const satisfies StoryTurnPlayed
