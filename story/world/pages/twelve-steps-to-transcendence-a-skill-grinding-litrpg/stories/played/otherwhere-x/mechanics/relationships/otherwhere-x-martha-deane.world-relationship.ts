@@ -8,5 +8,5 @@ export const otherwhereXMarthaDeane = {
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   description: "How far the Sheaf's keeper regards Nala.",
   characters: ["character-player/otherwhere-x-nala", "world-character/otherwhere-x-martha-deane"],
-  relationshipPoints: 0,
+  relationshipPoints: 3,
 } as const satisfies WorldRelationship
