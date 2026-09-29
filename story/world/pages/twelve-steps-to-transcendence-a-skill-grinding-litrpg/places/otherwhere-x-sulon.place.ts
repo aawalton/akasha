@@ -104,5 +104,29 @@ export const otherwhereXSulon = {
       fact: "Heartland folk are proud of Sulon: fed, walled, and kept safe by the king's soldiers.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Sulon is the king's land: farms and sheep, with a village every few miles all the way round.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
+    },
+    {
+      fact: "The king's soldiers keep Sulon's roads.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
+    },
+    {
+      fact: "Far off from Sulon's heartland lie the walls, and past the walls, monsters.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
+    },
   ],
 } as const satisfies Place

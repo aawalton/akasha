@@ -76,5 +76,13 @@ export const otherwhereXHarrowVale = {
       fact: "On the afternoon of day one, the local dogs all howled at once.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
     },
+    {
+      fact: "Lord Kell holds the vale, and his steward comes at quarter days.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
+    },
   ],
 } as const satisfies Place

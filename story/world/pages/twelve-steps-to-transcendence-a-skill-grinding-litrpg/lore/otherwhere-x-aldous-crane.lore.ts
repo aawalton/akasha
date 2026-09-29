@@ -70,11 +70,19 @@ export const otherwhereXAldousCrane = {
     },
     {
       fact: "Aldous answers a question about Sulon plainly, then asks one of his own back.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
     },
     {
       fact: "Aldous has been to Wexley often and to Aldermere once; he has never seen the capital.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
     },
     {
       fact: "Aldous's house is one warm room: a hearth, a supper board, an iron-bound chest in the corner.",
@@ -86,6 +94,14 @@ export const otherwhereXAldousCrane = {
     },
     {
       fact: "Aldous held his door open for Nala as the dusk bell by it rang slow and heavy over the green.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
+    },
+    {
+      fact: "Aldous asked Nala how she came to be on Harrow Mile at dusk, barefoot, with no token.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-x-nala",

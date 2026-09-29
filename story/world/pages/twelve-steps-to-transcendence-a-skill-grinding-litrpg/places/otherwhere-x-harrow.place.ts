@@ -141,7 +141,6 @@ export const otherwhereXHarrow = {
       fact: "On day one's evening Old Nan sits by her door on the green, shelling beans.",
       knowers: ["lore-disclosure/game-master"],
     },
-
     {
       fact: "The dusk bell on day one rings at twenty to seven.",
       knowers: ["lore-disclosure/game-master"],
@@ -190,7 +189,6 @@ export const otherwhereXHarrow = {
       fact: "Harrow loves a new tale or song; winter evenings are long and the same stories worn thin.",
       knowers: ["lore-disclosure/game-master"],
     },
-
     {
       fact: "Bess came from Wexley to wed Aldous twenty years ago and never saw Nala Pike.",
       knowers: ["lore-disclosure/game-master"],
@@ -219,7 +217,6 @@ export const otherwhereXHarrow = {
       fact: "Hob's mam says the howling and hum are nothing; his da went quiet over them.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
     },
-
     {
       fact: "Hob pens the geese in a woven wattle fold behind the building with the sheaf sign.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
@@ -264,7 +261,6 @@ export const otherwhereXHarrow = {
       fact: "The stout woman at the Cranes' door says anyone on her doorstep gets fed.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
     },
-
     {
       fact: "Aldous silenced the stout woman with a raised hand, without looking round.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
@@ -308,6 +304,18 @@ export const otherwhereXHarrow = {
         "character-player/otherwhere-x-nala",
         "world-character/otherwhere-x-aldous-crane",
       ],
+    },
+    {
+      fact: "Harrow's dusk bell calls folk indoors; everyone is in by dark, with wolves about.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
+    },
+    {
+      fact: "As the dusk bell rang, the watchers on Harrow green turned away and doors shut one by one.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
     },
   ],
   exits: [

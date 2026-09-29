@@ -32,6 +32,6 @@ export const otherwhereX00006 = {
   ],
   lore: ["place/otherwhere-x-sulon", "lore/otherwhere-x-aldous-crane"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-28T18:44:00.000Z",
 } as const satisfies StoryTurnPlayed
