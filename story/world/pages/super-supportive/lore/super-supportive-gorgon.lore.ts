@@ -61,6 +61,10 @@ export const superSupportiveGorgon = {
       fact: "Meeting his eyes floods a person with profound memories and knocks them out for hours.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "He is barred from telling humans anything not widely known about Artonans, the System or magic.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
