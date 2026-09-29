@@ -4,7 +4,7 @@ export const otherwhereXi00011 = {
   id: "01a0eb57-4a50-73aa-88b9-bbde21524723",
   type: "page-type/story-turn-played",
   slug: "otherwhere-xi-00-011",
-  ownLength: 328,
+  ownLength: 316,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-xi"],
   position: 11,
@@ -15,7 +15,7 @@ export const otherwhereXi00011 = {
     "world-character/otherwhere-xi-tobin-ashlar",
     "world-character/otherwhere-xi-smoke",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action: "“I might as well for now, it’s good to be needed somewhere.”",
   beats: [
     'Nala says, "I might as well, for now. It\'s good to be needed somewhere."',
