@@ -32,8 +32,12 @@ export const otherwhereVi00017 = {
     "He asks her what it is like, the far country she comes from.",
   ],
   issues: ['"you\'ve told us none of yours" - Plain Negation'],
-  lore: ["lore/otherwhere-vi-nala"],
+  lore: [
+    "lore/otherwhere-vi-customs",
+    "lore/otherwhere-vi-nala",
+    "place/otherwhere-vi-charcoal-camp",
+  ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-30T06:30:00.000Z",
 } as const satisfies StoryTurnPlayed
