@@ -35,5 +35,6 @@ export const otherwhereIx00014 = {
     "lore/otherwhere-ix-nala",
     "lore/otherwhere-ix-shardback",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T15:57:00.000Z",
 } as const satisfies StoryTurnPlayed
