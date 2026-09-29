@@ -255,6 +255,10 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-arthur.lore.ts","id":"01a0ea75-bc71-71a2-9b03-0414fe300b66"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-artifacts.lore.ts","id":"01a0ea87-578a-7aac-ae18-d42b6a22766d"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-ashra.lore.ts","id":"01a0ea76-d052-71ac-a6de-37ef1e7cceb5"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-aspect-of-the-destroyer.lore.ts","id":"01a0ea8c-6dbc-7225-a32c-10060fe85393"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-aspect-of-the-guardian.lore.ts","id":"01a0ea8c-6dbd-73f3-9c4c-69881b5b4abd"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-aspect-of-the-paragon.lore.ts","id":"01a0ea8c-6dbd-7833-973d-b5fb503f6b5d"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-aspect-of-the-void-dragon.lore.ts","id":"01a0ea8c-6dbd-7114-884c-75f1c3464f69"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-assassins-guild.lore.ts","id":"01a0ea89-4775-7407-b6bb-1b82c440de23"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-attunement.lore.ts","id":"01a0ea7c-4d17-7e57-ad63-d7de576141f4"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-auntie.lore.ts","id":"01a0ea78-368b-7790-8045-e5df4629cf4e"}
@@ -640,6 +644,10 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-yries.lore.ts","id":"01a0ea77-0c35-7249-a9d2-f88d1b0ae214"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-zazas.lore.ts","id":"01a0ea87-5ff5-71dd-8ac0-2d50bfe30834"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-zero-five.lore.ts","id":"01a0ea7e-3c7a-79d2-a071-8d113e253db3"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/aspects/otherwhere-xi-aspect-of-the-destroyer.world-aspect.ts","id":"01a0ea8c-6dbd-7442-a089-4107430355bc"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/aspects/otherwhere-xi-aspect-of-the-guardian.world-aspect.ts","id":"01a0ea8c-6dbe-76e1-a5c6-4e7f36e56d38"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/aspects/otherwhere-xi-aspect-of-the-paragon.world-aspect.ts","id":"01a0ea8c-6dbe-7b66-96b7-4e473e5e958e"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/aspects/otherwhere-xi-aspect-of-the-void-dragon.world-aspect.ts","id":"01a0ea8c-6dbe-73d4-95e0-1f97027c8559"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/elements/otherwhere-xi-black-mana.world-element.ts","id":"01a0ea7e-5869-775a-b8c5-f81cfc934d47"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/elements/otherwhere-xi-blue-mana.world-element.ts","id":"01a0ea7e-5869-7801-b0c2-c658eccfb912"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/elements/otherwhere-xi-brown-mana.world-element.ts","id":"01a0ea7f-ce61-77e8-b9f0-5308ee8fdd39"}
