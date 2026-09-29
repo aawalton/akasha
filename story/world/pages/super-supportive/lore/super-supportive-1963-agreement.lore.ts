@@ -20,6 +20,10 @@ export const superSupportive1963Agreement = {
       fact: "Under it Earth must deliver a number of suitable people into contractual servitude.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A selectee may refuse to sign on principle, but may not refuse to serve.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
