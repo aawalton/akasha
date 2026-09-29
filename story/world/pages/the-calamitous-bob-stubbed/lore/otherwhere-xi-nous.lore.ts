@@ -14,35 +14,11 @@ export const otherwhereXiNous = {
     },
     { fact: "Nous is called Nous the Mentor.", knowers: ["lore-disclosure/game-master"] },
     {
-      fact: "Nous is dead, yet his influence remains in the interface.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Nous granted every sapient people the interface, to understand and use magic.",
+      fact: "Nous is the only one of the light gods known to be dead.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "The interface is Nous's blessing, a help and not a requirement.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Nous gave up his body and his church for civilization.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Nous made a covenant with humans, merls and kark; hadals were later added.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Every newborn of the covenant peoples receives the interface.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Anyone may renounce Nous's covenant; the followers of Octas do.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Each use of the interface costs a tiny prayer of mana.",
       knowers: ["lore-disclosure/game-master"],
     },
     { fact: "Nous taught spells to the first shamans.", knowers: ["lore-disclosure/game-master"] },
@@ -50,17 +26,11 @@ export const otherwhereXiNous = {
       fact: "Nous shaped magic to empower the sapient peoples; dragons have no need of it.",
       knowers: ["lore-disclosure/game-master"],
     },
-    { fact: "The Nemeti are outside Nous's blessing.", knowers: ["lore-disclosure/game-master"] },
     { fact: "Nous has no church or temples.", knowers: ["lore-disclosure/game-master"] },
     {
       fact: "At Helock's Academy a Nous-blessed obelisk cancels magic and repairs itself.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Helock's Academy teaches paths, the interface and the legacy of Nous.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    { fact: '"Nous dammit" is a common curse.', knowers: ["lore-disclosure/game-master"] },
     {
       fact: "In the in-between Nous shows as a distant nebula.",
       knowers: ["lore-disclosure/game-master"],
