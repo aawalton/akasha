@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"agent/seat/fleet/modules/seat-section/seat-section.computed-property-module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"agent/seat/observation/modules/conversation-shaping/conversation-shaping.computed-property-module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"agent/seat/observation/seat-turn/modules/reading/seat-turn-reading.computed-property-module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"agent/seat/turn-state/modules/seat-working/seat-working.computed-property-module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"alan/harness/day-boundary/modules/us-zone-offset/us-zone-offset.computed-property-module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"alan/track/daily/day/modules/cost-multiplier/cost-multiplier.computed-property-module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property-module.page-type.types.ts","path":"alan/track/daily/day/modules/hours-between/hours-between.computed-property-module.ts","typed":true,"deferred":false}

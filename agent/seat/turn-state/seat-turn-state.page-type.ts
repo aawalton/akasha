@@ -7,6 +7,7 @@ export const seatTurnState = {
   definition: "what a seat is doing about its turn, and that state's color",
   extends: ["page-type/domain"],
   parts: [
+    "computed-property-module/seat-working",
     "relation-property/turn-state-color",
     "seat-turn-state/idle",
     "seat-turn-state/stopped",

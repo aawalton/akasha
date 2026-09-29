@@ -441,6 +441,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts","id":"01a06871-3115-7000-88a3-356a4726a3a1"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat/supervisor-heartbeat.module.ts","id":"01a06871-3115-7001-910f-b7d9676eca90"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-tick-saying/supervisor-tick-saying.module.ts","id":"01a08e28-7d11-7673-83b4-5b56092efa4c"}
+{"propertySlug":"decision-kind","path":"agent/seat/turn-state/modules/seat-working/seat-working.computed-property-module.ts","id":"01a0ed14-07ed-7558-abc4-c5cdbd32e4ee"}
 {"propertySlug":"decision-kind","path":"agent/seat/turn-state/pages/idle/needs-attention/needs-attention.seat-turn-state.ts","id":"01a0defb-9e02-7cf0-851d-cd27de471d9c"}
 {"propertySlug":"decision-kind","path":"agent/seat/turn-state/pages/idle/ready/ready.seat-turn-state.ts","id":"01a076c0-d7f8-7aac-8883-230f77f30349"}
 {"propertySlug":"decision-kind","path":"agent/seat/turn-state/properties/turn-state-color.relation-property.ts","id":"01a06d7a-e9f9-7644-9ee4-9ddcf6b723ba"}

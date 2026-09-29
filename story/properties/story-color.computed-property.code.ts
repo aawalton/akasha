@@ -1,6 +1,8 @@
 import { assignmentSlug } from "akasha/agent/properties/assignment-slug.one-of-property.ts"
-import { working } from "akasha/agent/seat/turn-state/pages/working/working.seat-turn-state.ts"
-import { seatTurnState } from "akasha/agent/seat/turn-state/seat-turn-state.page-type.ts"
+import {
+  type Seated,
+  seatsWorking,
+} from "akasha/agent/seat/turn-state/modules/seat-working/seat-working.computed-property-module.code.ts"
 import { partOfCollections } from "akasha/alan/collection/properties/part-of-collections.multi-relation-property.ts"
 import { color } from "akasha/design/interface/color/color.page-type.ts"
 import { green } from "akasha/design/interface/color/pages/green.color.ts"
@@ -20,19 +22,13 @@ const WORKING = `${color.slug}${PARTED}${green.slug}`
 
 const WAITING = `${color.slug}${PARTED}${red.slug}`
 
-const SEAT_WORKING = `${seatTurnState.slug}${PARTED}${working.slug}`
-
 type Stepped = {
   readonly position?: number
   readonly stepStatus?: string
 }
 
-type Seated = { readonly turnState?: string }
-
 function worked(reach: Reach): boolean {
-  return reach
-    .naming<Seated>(assignmentSlug.propertySlug)
-    .some((one) => one.turnState === SEAT_WORKING)
+  return seatsWorking(reach.naming<Seated>(assignmentSlug.propertySlug))
 }
 
 function furthest(held: readonly Stepped[]): Stepped | null {
