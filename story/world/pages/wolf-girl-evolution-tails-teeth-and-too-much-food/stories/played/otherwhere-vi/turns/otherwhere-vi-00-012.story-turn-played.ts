@@ -10,7 +10,7 @@ export const otherwhereVi00012 = {
   position: 12,
   prose: "txt",
   characters: ["character-player/otherwhere-vi-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "\"Hello! I've been lost in the woods for a night and a day, would you grant me a traveler's hospitality?\"",
   beats: [
@@ -39,6 +39,6 @@ export const otherwhereVi00012 = {
     "lore/otherwhere-vi-nala",
     "place/otherwhere-vi-charcoal-camp",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T11:15:00.000Z",
 } as const satisfies StoryTurnPlayed
