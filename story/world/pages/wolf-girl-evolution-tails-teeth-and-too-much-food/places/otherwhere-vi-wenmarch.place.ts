@@ -20,6 +20,14 @@ export const otherwhereViWenmarch = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The Stars temple's priest heals with light for a silver, and knits a lasting injury in a day.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The temple heals the penniless on its feast days, the first of each month, for a day's work.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Wenmarch's gate guards ask a stranger's name and business and take a copper toll.",
       knowers: ["lore-disclosure/game-master"],
     },
