@@ -37,5 +37,6 @@ export const otherwhereIv00011 = {
     "At the back, the weathered man with the bow shifts his weight, and watches, and says nothing.",
   ],
   lore: ["lore/otherwhere-iv-earth-god-shrine"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T19:09:00.000Z",
 } as const satisfies StoryTurnPlayed
