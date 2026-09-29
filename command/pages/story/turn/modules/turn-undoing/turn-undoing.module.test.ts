@@ -3,6 +3,7 @@ import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import {
   besideListed,
+  engineAt,
   TURN_UNDOING,
   undoingOf,
 } from "akasha/command/pages/story/turn/modules/turn-undoing/turn-undoing.module.code.ts"
@@ -61,12 +62,17 @@ function committed(subject: string, bodies: Readonly<Record<string, string>>) {
 
 mkdirSync(REPO)
 git("init", "-q")
-committed("the world opens", { [HALL_AT]: HALL_BEFORE })
+const SETTLING_AT = `${FOLDERS.story}mechanics/checks/growth.world-check.settling.code.ts`
+
+committed("the world opens", { [HALL_AT]: HALL_BEFORE, [SETTLING_AT]: "a plain address\n" })
 committed("3 writes arrived together, so they land together", {
   [AT]: "made\n",
   "agents/one.ts": "one\n",
 })
 committed(`${SLUG} moves from world-builder to game-master`, { [AT]: "at game-master\n" })
+committed("Read the essence page's address in growth settling off the imported page", {
+  [SETTLING_AT]: "the address read off the imported page\n",
+})
 committed(`${SLUG} moves from recorders to recorders`, {
   [AT]: "recorded\n",
   [HALL_AT]: HALL_RECORDED,
@@ -75,10 +81,28 @@ committed(`${SLUG} moves from recorders to player`, { [AT]: "at player\n" })
 
 const TURN = { at: AT, slug: SLUG, value: {} }
 
-test("a turn made in a batched commit has the lore its recorders landed put back", () => {
-  expect(undoingOf(TURN_UNDOING, REPO, TURN, FOLDERS)).toMatchObject({
+test("a turn made in a batched commit has the lore its recorders landed put back, and no engine fix", () => {
+  expect(undoingOf(TURN_UNDOING, REPO, TURN, FOLDERS)).toEqual({
+    commits: expect.any(Array),
     restored: [
       { path: HALL_AT, body: HALL_BEFORE },
+      { path: AT, body: null },
+    ],
+  })
+})
+
+test("a story's checks, code, tests and page types are the engine", () => {
+  expect(engineAt(SETTLING_AT)).toBe(true)
+  expect(engineAt("worlds/w/mechanics/mana/mana.page-type.ts")).toBe(true)
+  expect(engineAt(HALL_AT)).toBe(false)
+  expect(engineAt(AT)).toBe(false)
+})
+
+test("a file only ever appended to is marked to be written whole", () => {
+  const reach = { ...TURN_UNDOING, appendsOnly: (_root: string, path: string) => path === HALL_AT }
+  expect(undoingOf(reach, REPO, TURN, FOLDERS)).toMatchObject({
+    restored: [
+      { path: HALL_AT, body: HALL_BEFORE, whole: true },
       { path: AT, body: null },
     ],
   })

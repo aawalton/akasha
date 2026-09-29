@@ -51,6 +51,16 @@ export const turnUndoing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Code, tests, page types and a story's checks are the engine, and no file of the turn's making.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A file only ever appended to is taken away and written again, as a landing drops a rewrite.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every file of the turn's making goes back to its body before the turn was made.",
     },
     {

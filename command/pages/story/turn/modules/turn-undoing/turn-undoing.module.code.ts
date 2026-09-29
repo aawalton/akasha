@@ -12,6 +12,8 @@ import type {
   Turn,
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
 import { textOnDisk } from "akasha/file/system/modules/text-on-disk/text-on-disk.module.code.ts"
+import { appendOnlyIn } from "akasha/page/index/modules/file-appending/file-appending.module.code.ts"
+import { facingOn } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { referencesFiled } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
@@ -40,6 +42,13 @@ const MOVES = " moves from "
 
 const HEAD = "HEAD"
 
+const ENGINE: readonly RegExp[] = [
+  /\.(code|test|test-fixtures)\.tsx?$/,
+  /\.page-type(\.types)?\.ts$/,
+  /\.page-type\.schema\.jsonl$/,
+  /\/mechanics\/checks\//,
+]
+
 export type Folders = { readonly story: string; readonly world: string }
 
 export type TurnUndoing = {
@@ -49,6 +58,15 @@ export type TurnUndoing = {
   readonly bodyThen: (root: string, commit: string, path: string) => string | null
   readonly bodyNow: (root: string, path: string) => string | null
   readonly besideOnDisk: (root: string, turn: string) => readonly string[]
+  readonly appendsOnly: (root: string, path: string) => boolean
+}
+
+function appendOnlyAt(root: string, path: string): boolean {
+  try {
+    return appendOnlyIn(facingOn(root), path)
+  } catch {
+    return false
+  }
 }
 
 function foldersIndexed(root: string, game: string): Folders | null {
@@ -78,6 +96,7 @@ export const TURN_UNDOING: TurnUndoing = {
   bodyThen: bodyCommitted,
   bodyNow: (root, path) => textOnDisk(join(root, path)),
   besideOnDisk: besideListed,
+  appendsOnly: appendOnlyAt,
 }
 
 export type Refused = { readonly refused: string }
@@ -106,7 +125,15 @@ function derived(path: string): boolean {
   return referencesFiled(path) || shapesFiled(path)
 }
 
-export type Restored = { readonly path: string; readonly body: string | null }
+export function engineAt(path: string): boolean {
+  return ENGINE.some((one) => one.test(path))
+}
+
+export type Restored = {
+  readonly path: string
+  readonly body: string | null
+  readonly whole?: true
+}
 
 export type Undoing = {
   readonly commits: readonly Commit[]
@@ -114,7 +141,7 @@ export type Undoing = {
 }
 
 function scopedIn(folders: Folders, path: string): "story" | "world" | "other" | null {
-  if (derived(path)) return null
+  if (derived(path) || engineAt(path)) return null
   if (path.startsWith(folders.story)) return "story"
   if (!path.startsWith(folders.world)) return null
   return path.startsWith(`${folders.world}${STORIES}`) ? "other" : "world"
@@ -189,7 +216,9 @@ function undoingRead(
       }
     }
     const then = reach.bodyThen(root, before, path)
-    if (then !== now) restored.push({ path, body: then })
+    if (then === now) continue
+    const whole = then !== null && now !== null && reach.appendsOnly(root, path)
+    restored.push(whole ? { path, body: then, whole } : { path, body: then })
   }
   return { commits: run.commits, restored }
 }
@@ -217,9 +246,8 @@ export function askingOf(
     asking.push(...folded)
   }
   for (const one of restored) {
-    asking.push(
-      one.body === null ? taking(one.path) : putting({ path: one.path, content: one.body })
-    )
+    if (one.body === null || one.whole === true) asking.push(taking(one.path))
+    if (one.body !== null) asking.push(putting({ path: one.path, content: one.body }))
   }
   return asking
 }

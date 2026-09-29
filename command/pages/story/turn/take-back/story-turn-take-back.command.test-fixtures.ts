@@ -141,6 +141,7 @@ export type Story = {
   readonly now?: Readonly<Record<string, string>>
   readonly ended?: Readonly<Record<string, string>>
   readonly before?: Readonly<Record<string, string>>
+  readonly appendOnly?: readonly string[]
   readonly outcomes?: string
   readonly drafts?: string[]
   readonly draftRefused?: string
@@ -219,6 +220,7 @@ export function reachOver(turn: Turn, into: Seen, story: Story = {}): TakingBack
     foldersOf: () => ({ story: STORY, world: WORLD }),
     commitsOn: (_root, range) => (range === "HEAD" ? HISTORY : (story.run ?? RUN)),
     addedOn: () => MADE,
+    appendsOnly: (_root, path) => story.appendOnly?.includes(path) ?? false,
     bodyThen: (_root, commit, path) => {
       if (commit === `${MADE}^`) return (story.before ?? BEFORE)[path] ?? null
       const ended = commit === MOVED || commit === "HEAD"

@@ -74,6 +74,15 @@ test("every file of the turn's making goes back to its body before the turn, in 
   expect(answer.report.join("\n")).not.toContain("a message is read")
 })
 
+test("a file only ever appended to is taken away and written again, since a rewrite is dropped", async () => {
+  const into = seen()
+  const answer = await takenBy(reachOver(turnAt(), into, { appendOnly: [HER_AT] }), into)
+  expect(answer.refusals).toEqual([])
+  const at = into.asked.findIndex((one) => JSON.stringify(one) === JSON.stringify(taking(HER_AT)))
+  expect(at).toBeGreaterThanOrEqual(0)
+  expect(into.asked[at + 1]).toEqual(putting({ path: HER_AT, content: "her, before\n" }))
+})
+
 test("a file the landing keeps from the pages is left to the landing", async () => {
   const into = seen()
   await takenBy(reachOver(turnAt(), into), into)

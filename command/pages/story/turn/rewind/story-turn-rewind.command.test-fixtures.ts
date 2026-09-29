@@ -115,6 +115,7 @@ export function reachOver(turn: Turn, into: Seen, latest = SLUG): Unwinding {
     foldersOf: () => ({ story: "stories/the-saga/", world: "world/" }),
     commitsOn: (_root, range) => (range === "HEAD" ? MADE_BY : []),
     addedOn: () => "c1",
+    appendsOnly: () => false,
     bodyThen: () => null,
     bodyNow: () => null,
     besideOnDisk: () => [],
