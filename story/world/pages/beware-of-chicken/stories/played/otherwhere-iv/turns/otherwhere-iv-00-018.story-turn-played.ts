@@ -4,6 +4,7 @@ export const otherwhereIv00018 = {
   id: "01a0eb50-b544-7c7c-8e95-ae87fa073c5d",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-018",
+  cover: "image/image-4af8c71a9d2c2721",
   ownLength: 400,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],
@@ -48,5 +49,6 @@ export const otherwhereIv00018 = {
   ],
   lore: ["lore/otherwhere-iv-granny-hua", "lore/otherwhere-iv-nala"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/picture"],
   endsAt: "2026-09-29T06:41:00.000Z",
 } as const satisfies StoryTurnPlayed
