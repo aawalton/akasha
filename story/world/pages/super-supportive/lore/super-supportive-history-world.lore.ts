@@ -16,6 +16,10 @@ export const superSupportiveHistoryWorld = {
       fact: "It is illegal on Earth for Avowed to live among average humans; heroes capture unregistered ones.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Unwritten transit etiquette gives seats first to non-Avowed, who wear a non-Avowed tag.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
