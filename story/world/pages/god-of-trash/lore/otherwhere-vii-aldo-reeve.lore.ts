@@ -121,6 +121,22 @@ export const otherwhereViiAldoReeve = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Told the steward overtook, Aldo goes grey and quiet: crossing the mountain's man is dangerous.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldo would sooner catch the steward fair at this year's weighing than accuse him of last year's.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldo would keep a reckoner on through the weighing for bed, board and ten pennies a day.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldo tells Wyn and Tamsin to hold their tongues about the steward, and Tamsin may not.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The stick holds seven deep notches, four shallow ones, and nine more each crossed by a cut.",
       knowers: [
         "lore-disclosure/game-master",
