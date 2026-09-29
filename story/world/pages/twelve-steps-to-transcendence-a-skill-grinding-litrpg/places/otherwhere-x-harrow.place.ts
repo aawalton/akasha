@@ -312,6 +312,30 @@ export const otherwhereXHarrow = {
       fact: "Every eye on Harrow green followed barefoot Nala as Hob led her across it at dusk.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
     },
+    {
+      fact: "Harrow lies in Lord Kell's vale, on the king's road.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "At the name Nala, Aldous gripped the door frame white-knuckled, his face unchanged.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "Hob had never heard the name Nala before.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "The stout woman at the Cranes' door says anyone on her doorstep gets fed.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "The Sheaf has wanted a singer since the fiddler died.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "Aldous silenced the stout woman with a raised hand, without looking round.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
   ],
   exits: [
     {
