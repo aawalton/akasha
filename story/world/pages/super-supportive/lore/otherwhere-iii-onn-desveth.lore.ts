@@ -16,6 +16,10 @@ export const otherwhereIiiOnnDesveth = {
       fact: "She is the supervisor once penalized for consorting with a demon; she is courteous to Gorgon.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She looks nearly human: tall, lean, grey-haired, in plain grey Artonan robes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
