@@ -14,7 +14,7 @@ export const otherwhereXHarrow = {
     },
     {
       fact: "Its cottages are wattle, daub and thatch around a green with a well and a bell post.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
     },
     {
       fact: "The bell on the green rings at dusk to call folk in, and rings hard for fire, wolves or muster.",
@@ -194,7 +194,7 @@ export const otherwhereXHarrow = {
     },
     {
       fact: "The Cranes live in the stone-footed house on the green's east side, by the bell post.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
     },
     {
       fact: "On day one's evening Aldous and Bess are at home, supper on the board, waiting on Hob.",
@@ -227,6 +227,58 @@ export const otherwhereXHarrow = {
     {
       fact: "Old Nan on the green is too blind to make out a face at dusk; nobody else there knew Nala Pike.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The goose boy is Hob, son of Aldous Crane, Harrow's reeve.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "The reeve keeps Harrow's roll, and everyone in Harrow has to answer to him.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "Round three on day one, every dog about Harrow howled at once and the air hummed like bees.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "When the dogs howled, all the crows went up off Harrow Mile at once.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "Hob's mam says the howling and hum are nothing; his da went quiet over them.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "A long thatched building in Harrow has a sheaf of grain painted on its sign and smells of stew.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "Hob pens the geese in a woven wattle fold behind the building with the sheaf sign.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "An old woman shells beans by her door on the green, squinting like one who can't see well.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "Aldous Crane is a lean man of about fifty, grey at the temples.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "Aldous went still at the sight of Nala's face, looked harder, then glanced at the dusk behind her.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "A stout woman with a ladle in the Cranes' house frowned at Nala's bare feet.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "At his door Aldous asked Nala her name, her home and her business in Harrow.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
+    },
+    {
+      fact: "Every eye on Harrow green followed barefoot Nala as Hob led her across it at dusk.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
     },
   ],
   exits: [
