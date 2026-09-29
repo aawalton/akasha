@@ -86,23 +86,43 @@ export const otherwhereXiWennaAshlar = {
     },
     {
       fact: "Wenna's tale: a stray steps out of a waystone at dawn with no road dust on her feet.",
-      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-player/otherwhere-xi-nala",
+      ],
     },
     {
       fact: "Wenna's tale: strays speak the tongue of the land they come to, though they never learned it.",
-      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-player/otherwhere-xi-nala",
+      ],
     },
     {
       fact: "Wenna's saying: Maradoc does not waste a stray; he sets each where some work wants doing.",
-      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-player/otherwhere-xi-nala",
+      ],
     },
     {
       fact: "Wenna's grandmother told of a stray at a waystone near Imra in her own grandmother's day.",
-      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-player/otherwhere-xi-nala",
+      ],
     },
     {
       fact: "In that tale the Imra stray, a man, stayed a year, mended the mill, and walked off one dawn.",
-      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-player/otherwhere-xi-nala",
+      ],
     },
     {
       fact: "Wenna holds a stray should leave an offering at the ring and thank Maradoc, or be unlucky.",
@@ -110,7 +130,11 @@ export const otherwhereXiWennaAshlar = {
     },
     {
       fact: "Wenna knows the Maradoc wayfarer priest comes each spring, soon, and would know more.",
-      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-player/otherwhere-xi-nala",
+      ],
     },
     {
       fact: "Wenna half-believes the tales; she thinks a stray is as likely a runaway with a clever story.",
@@ -165,6 +189,22 @@ export const otherwhereXiWennaAshlar = {
         "lore-disclosure/game-master",
         "character-player/otherwhere-xi-nala",
         "world-character/otherwhere-xi-tobin-ashlar",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
+    },
+    {
+      fact: "Wenna laid her spare headcloth over Nala's hair herself and tugged it straight at the brow.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
+    },
+    {
+      fact: "Wenna asked Nala outright whether she is a stray or a runaway with a clever story.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
         "world-character/otherwhere-xi-wenna-ashlar",
       ],
     },

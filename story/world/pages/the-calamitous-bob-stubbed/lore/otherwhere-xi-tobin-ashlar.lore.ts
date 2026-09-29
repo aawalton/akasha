@@ -177,6 +177,15 @@ export const otherwhereXiTobinAshlar = {
         "world-character/otherwhere-xi-tobin-ashlar",
       ],
     },
+    {
+      fact: "Wenna sent Tobin back to the flock, and this time he went, looking back twice.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-wenna-ashlar",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

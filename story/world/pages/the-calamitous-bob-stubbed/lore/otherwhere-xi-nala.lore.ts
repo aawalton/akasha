@@ -101,6 +101,23 @@ export const otherwhereXiNala = {
         "world-character/otherwhere-xi-wenna-ashlar",
       ],
     },
+    {
+      fact: "Nala asked Wenna for tales of travellers who come to waystones by no road.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-wenna-ashlar",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
+    },
+    {
+      fact: "Nala's bare feet are grey with the hill road's dust.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
