@@ -1,0 +1,11 @@
+import type { AgentMessage } from "akasha/agent/message/agent-message.page-type.types.ts"
+
+export const message073cd760788e = {
+  id: "01a0eaf1-5ec8-7000-99b0-073cd760788e",
+  type: "page-type/agent-message",
+  slug: "message-073cd760788e",
+  to: "seat/iris-reviewer-otherwhere-ix-flex-2",
+  from: "iris",
+  warrant: "announce",
+  body: 'Your last turn ended before you advanced, so the turn is still waiting at reviewers and nothing will move it. The job below is the same job, sent again. Do it now: read your instructions and the turn, write your issues file, then advance once. Do not answer this message with words alone — your next output has to be a tool call, and the advance must land.\n\nYou are the Style story reviewer, checking one turn of Otherwhere IX, its beats and its prose.\n\nThe turn is `story/world/pages/mana-devourer-litrpgmana-cultivation/stories/played/otherwhere-ix/turns/otherwhere-ix-00-011.story-turn-played.ts`, with its prose beside it. Your instructions are `story/reviewer/pages/style.story-reviewer.instructions.md`, beside the story reviewer page `story/reviewer/pages/style.story-reviewer.ts`.\n\nThe lore in play on the turn is on `story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-nala.lore.ts`, `story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-stat-points.lore.ts`. Read each of those pages whole first, since any of them can settle what the turn may say.\n\nRead your instructions, then the turn and its prose, and do what the instructions say. When you are done, write the issues you found to a file, one issue to a line, and advance the turn once:\n\nakasha story turn advance --turn story-turn-played/otherwhere-ix-00-011 --reviewer style --issues-file <path>\n\nWhere you found no issue, leave out `--issues-file`. The advance ends this seat, so make it last.\n\nWhere a draft or the advance is refused and you cannot mend it yourself, never end on it: send the game master the refusal word for word and what you were doing, with `akasha seat send --to iris-game-master-otherwhere-ix --body "<what refused and what you were doing>"`, then end your turn. Its answer comes as your next message; do what it says, then advance.\n',
+} as const satisfies AgentMessage
