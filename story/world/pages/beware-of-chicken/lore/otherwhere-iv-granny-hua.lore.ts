@@ -77,11 +77,21 @@ export const otherwhereIvGrannyHua = {
     },
     {
       fact: "Granny Hua is Hua Su'e by name, a widow of the Hua family, and no kin of the Gus at all.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-tie-bo",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
     {
       fact: "Called Auntie Gu, she would take it as a sharp insult, Gu Meilan being her rival of thirty years.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-tie-bo",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
     {
       fact: "A misnaming she would forgive only for a plain apology, and she would remember it with a joke.",
@@ -110,6 +120,33 @@ export const otherwhereIvGrannyHua = {
     {
       fact: "She would ask to be paid in boar meat or rice after, as is fair, and not in coin.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Granny Hua says Gu Meilan has told her how to deliver babies for thirty years, wrong every time.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-tie-bo",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
+    },
+    {
+      fact: "Granny Hua has heard that Gu Meilan's house has taken Nala in.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-tie-bo",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
+    },
+    {
+      fact: "Granny Hua heard Nala's whole request, but will hear no more from a spirit who misnamed her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-tie-bo",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
   ],
   secrets: "jsonl",

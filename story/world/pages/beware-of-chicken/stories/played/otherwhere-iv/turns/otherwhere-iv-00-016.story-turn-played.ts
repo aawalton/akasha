@@ -39,5 +39,6 @@ export const otherwhereIv00016 = {
   issues: ['"and her hand stays well away from the latch of the gate" - Leave It Open'],
   lore: ["lore/otherwhere-iv-granny-hua", "lore/otherwhere-iv-nala"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-29T06:33:00.000Z",
 } as const satisfies StoryTurnPlayed
