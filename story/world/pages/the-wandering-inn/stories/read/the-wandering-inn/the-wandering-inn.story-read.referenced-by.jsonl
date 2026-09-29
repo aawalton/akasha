@@ -831,5 +831,6 @@
 {"propertySlug":"chapter-story","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/chapters/the-wandering-inn-0831-announcement-a-month-s-break.story-chapter-read.ts","id":"01a065a0-4093-7a7a-9a58-28c77addeaf1"}
 {"propertySlug":"chapter-story","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/chapters/the-wandering-inn-0832-10-75-h-pt-1.story-chapter-read.ts","id":"01a065a0-4098-7941-8dd1-5d640d1b0ad1"}
 {"propertySlug":"chapter-story","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/chapters/the-wandering-inn-0833-10-75-h-pt-2.story-chapter-read.ts","id":"01a07c1a-0b17-77bd-b83a-362049464b52"}
+{"propertySlug":"chapter-story","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/everything-unread/the-wandering-inn-everything-unread.story-chapter-read.ts","id":"01a0eb0e-83d7-799a-84d1-1ad2d211da11"}
 {"propertySlug":"chapter-story","path":"story/world/stories/read/chapters/pages/the-wandering-inn-0834-tales-of-innworld-8/the-wandering-inn-0834-tales-of-innworld-8.story-chapter-read.ts","id":"01a0e318-9054-768a-9a5d-509dc1e5fa08"}
 {"propertySlug":"import","fileName":"the-wandering-inn.story-read.ts","path":"story/world/characters/modules/character-filing/character-filing.module.code.ts","typed":false,"deferred":false}
