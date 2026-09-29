@@ -27,6 +27,10 @@ export const otherwhereIx00006 = {
     "Blood soaks dark through her tights at the calf and now at the thigh.",
     "Its throat is turned up against her other knee, bare and working, as it grinds its jaws.",
   ],
+  issues: [
+    '"It lets go of her calf." - a locked shardback lets go only for failing breath or a snout blow',
+  ],
   lore: ["lore/otherwhere-ix-shardback"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T15:37:00.000Z",
 } as const satisfies StoryTurnPlayed
