@@ -7,7 +7,12 @@ export const otherwhereXi00004 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-xi"],
   position: 4,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     '"The Old Empire...is that the one that is overrun by the dead? Where am I precisely? I think these waystones may have taken me much farther than most."',
+  lore: [
+    "lore/otherwhere-xi-tobin-ashlar",
+    "place/otherwhere-xi-waystone-shrine",
+    "place/otherwhere-xi-asmirel",
+  ],
 } as const satisfies StoryTurnPlayed
