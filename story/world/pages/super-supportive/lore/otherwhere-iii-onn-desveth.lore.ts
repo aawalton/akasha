@@ -186,5 +186,9 @@ export const otherwhereIiiOnnDesveth = {
       fact: "If Nala refuses, she lets her go, but must then report all Nala told her.",
       knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
     },
+    {
+      fact: "She wants it made properly, by a tattooist, with time given for Nala to weigh the terms.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+    },
   ],
 } as const satisfies Lore
