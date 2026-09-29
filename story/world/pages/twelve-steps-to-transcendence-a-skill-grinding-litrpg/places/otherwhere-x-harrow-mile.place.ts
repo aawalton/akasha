@@ -87,5 +87,15 @@ export const otherwhereXHarrowMile = {
       way: "east along the king's road, two miles over the low rise",
       direction: "east",
     },
+    {
+      to: "place/otherwhere-x-tarrant-ford",
+      way: "west along the king's road, five miles down to the river",
+      direction: "west",
+    },
+    {
+      to: "place/otherwhere-x-brackwood",
+      way: "north across a mile of stubble to the wood's edge",
+      direction: "north",
+    },
   ],
 } as const satisfies Place
