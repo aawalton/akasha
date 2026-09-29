@@ -4,6 +4,7 @@ export const otherwhereIv00017 = {
   id: "01a0eb2f-59ce-77df-b24b-222d27eae59f",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-017",
+  cover: "image/image-18d2b0ff2bfd76af",
   ownLength: 394,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],
@@ -14,7 +15,7 @@ export const otherwhereIv00017 = {
     "character-other/otherwhere-iv-tie-bo",
     "character-other/otherwhere-iv-granny-hua",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I do as instructed.",
   beats: [
     "Nala steps into the sun and lays both her hands, open, in Granny Hua's.",
@@ -48,6 +49,6 @@ export const otherwhereIv00017 = {
     "lore/otherwhere-iv-nala",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T06:37:00.000Z",
 } as const satisfies StoryTurnPlayed
