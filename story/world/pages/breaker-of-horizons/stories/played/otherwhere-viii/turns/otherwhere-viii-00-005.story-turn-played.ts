@@ -10,4 +10,5 @@ export const otherwhereViii00005 = {
   stepStatus: "step-status/game-master",
   action: "\"Thank you, that's very kind. May I know the name of my garden knight? I'm Nala.\"",
   lore: ["place/otherwhere-viii-weir-gardens"],
+  endsAt: "2026-09-28T06:00:00.000Z",
 } as const satisfies StoryTurnPlayed
