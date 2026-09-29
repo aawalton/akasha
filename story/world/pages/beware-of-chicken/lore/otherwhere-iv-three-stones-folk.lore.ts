@@ -277,7 +277,11 @@ export const otherwhereIvThreeStonesFolk = {
     },
     {
       fact: "A night hunt with men of the village needs the headman's leave, or it will offend him.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
     {
       fact: "Tie Bo has hunted boar for twenty years, with a spear that has an iron bar across the haft.",
@@ -297,14 +301,6 @@ export const otherwhereIvThreeStonesFolk = {
     },
     {
       fact: "Xu Hong bowed deep to Nala and called her honored spirit.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
-    },
-    {
-      fact: "A night hunt with men of the village needs the headman's leave.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-iv-nala",
@@ -336,8 +332,12 @@ export const otherwhereIvThreeStonesFolk = {
       ],
     },
     {
-      fact: "The Zhao house is two rooms of mud brick under thatch, just below the top terraces.",
-      knowers: ["lore-disclosure/game-master"],
+      fact: "The Zhao house is two mud brick rooms under thatch, just below the top terraces, with a swept yard.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
     },
     {
       fact: "Its main room holds a small ancestral shrine; an honored guest sits in the seat facing the door.",
@@ -382,14 +382,6 @@ export const otherwhereIvThreeStonesFolk = {
     {
       fact: "Around midday Headman Gu sits in his courtyard with the tax rolls and a pot of tea.",
       knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "The Zhao house is two rooms of mud brick under thatch, with a yard of packed earth swept clean.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
     },
   ],
 } as const satisfies Lore
