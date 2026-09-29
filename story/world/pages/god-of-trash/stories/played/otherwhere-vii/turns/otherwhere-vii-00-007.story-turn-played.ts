@@ -15,7 +15,7 @@ export const otherwhereVii00007 = {
     "character-other/otherwhere-vii-gammer-wyn",
     "character-other/otherwhere-vii-tamsin",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "\"My father was a scribe. I've mostly worked with my wits and not my muscles. I can read, write, and do sums, but not sure that's needed here.\"",
   beats: [
@@ -26,7 +26,8 @@ export const otherwhereVii00007 = {
     '"No wonder. Hands like a new cheese." She holds up one of Nala\'s, turns it over, lets it go.',
     "Tamsin's basket stops mid-toss. She looks at Nala properly for the first time, mouth thin.",
     '"Reads," Tamsin says to nobody. "Reads, and can\'t hold a basket."',
-    "Wyn ignores her. She struggles up off her knees, grain in both fists, and tips it into her basket.",
+    "Wyn talks straight past her.",
+    "She struggles up off her knees, grain in both fists, and tips it into her basket.",
     '"Aldo!" she calls. "Aldo Reeve! Come here and hear this."',
     "The flails slow. Aldo looks round, frowning, and walks over, wiping his hands on his apron.",
     '"This one\'s a scribe\'s girl. Reads and reckons, she says." Wyn jerks her chin at him. "Tell him."',
@@ -37,7 +38,8 @@ export const otherwhereVii00007 = {
     '"Writes it in his book, and I make my mark under it." He takes the straw out. "Can\'t read a line."',
     "He goes to a post by the door, where a bundle of notched hazel sticks hangs from a peg.",
     "He pulls one free and holds it out to her: a split stick, cut all along one edge with notches.",
-    "Some notches are deep, some shallow, and a few are crossed through with a slanted cut.",
+    "Seven deep notches sit at the thick end, then four shallow ones after them.",
+    "At the thin end runs a row of nine more, each crossed through with a slanted cut.",
     "\"That's last year's barley, by the sack. Anyone can say they reckon. What's it come to?\"",
   ],
   issues: [
