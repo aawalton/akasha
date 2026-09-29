@@ -121,7 +121,7 @@ export const otherwhereIxNala = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Nala's status reads Class: Otherworlder (Earth) (Tier: Novice 1), then Health and Mana.",
+      fact: "When the system first took hold her class read Otherworlder (Earth) (Tier: Novice 1).",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -209,11 +209,11 @@ export const otherwhereIxNala = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Killing the shardback brought Nala two level-up boxes: sixteen, then 24 unspent stat points.",
+      fact: "Killing the shardback brought boxes reading sixteen, then 24 unspent stat points.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
-      fact: "Asked aloud for Status, the system showed Nala her status screen at once.",
+      fact: "Asked aloud for Status during the fight, the system showed her status screen at once.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
@@ -221,11 +221,7 @@ export const otherwhereIxNala = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
-      fact: "At Novice 4 Nala has Strength 8, Agility 12, Arcana 8, Constitution 12 and Spirit 16.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
-    },
-    {
-      fact: "At Novice 4 Nala's maximum health is 170 and her mana 344.",
+      fact: "Nala's attributes now: Strength 8, Agility 12, Arcana 8, Constitution 36, Spirit 16.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
   ],
