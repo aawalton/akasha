@@ -42,6 +42,8 @@ export const metricCharacterAttribute = {
     "page-type/otherwhere-vi-stat",
     "page-type/otherwhere-vi-fluency",
     "page-type/otherwhere-x-suspicion",
+    "page-type/otherwhere-x-tier",
+    "page-type/otherwhere-x-practice",
   ],
 
   types: "ts",
