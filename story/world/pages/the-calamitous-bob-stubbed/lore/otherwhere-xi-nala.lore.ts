@@ -118,6 +118,30 @@ export const otherwhereXiNala = {
         "world-character/otherwhere-xi-wenna-ashlar",
       ],
     },
+    {
+      fact: "Nala told Wenna she was at home with a book, then in the middle of the waystones.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
+    },
+    {
+      fact: "Nala told Wenna she was pulled into the gods' schemes, and means to learn why.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
+    },
+    {
+      fact: "Nala's grey shirt is good cloth, unpatched.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

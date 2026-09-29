@@ -38,7 +38,7 @@ export const otherwhereXiWennaAshlar = {
     },
     {
       fact: "Wenna needs another pair of hands for the lambing and cannot pay for one in coin.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
     },
     {
       fact: "Wenna wants her elder son back and the farm kept whole for Tobin.",
@@ -58,7 +58,7 @@ export const otherwhereXiWennaAshlar = {
     },
     {
       fact: "Wenna could give a woman a robe, a bed by the hearth and meals for help with the lambing.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
     },
     {
       fact: "Wenna could teach a willing woman lambing, milking, spinning and barley bread.",
@@ -210,11 +210,19 @@ export const otherwhereXiWennaAshlar = {
     },
     {
       fact: "Wenna judges a stranger by work done, not by a tale told.",
-      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-player/otherwhere-xi-nala",
+      ],
     },
     {
       fact: "Wenna cannot read; to her a book is a lord's or a priest's thing.",
-      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-player/otherwhere-xi-nala",
+      ],
     },
     {
       fact: "Wenna has the war only from Joss's talk: fighting over the sea, at a place called Barrier.",
@@ -222,7 +230,11 @@ export const otherwhereXiWennaAshlar = {
     },
     {
       fact: "Wenna holds that the gods are busy and far off, and do not pluck women from hearths.",
-      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-player/otherwhere-xi-nala",
+      ],
     },
     {
       fact: "Wenna would not send word of a stranger to Imra; she wants no steward's men in her yard.",
@@ -234,7 +246,11 @@ export const otherwhereXiWennaAshlar = {
     },
     {
       fact: "Wenna would hold a tale of god-touched for the wayfarer priest to judge when he comes.",
-      knowers: ["lore-disclosure/game-master", "world-character/otherwhere-xi-wenna-ashlar"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "world-character/otherwhere-xi-wenna-ashlar",
+        "character-player/otherwhere-xi-nala",
+      ],
     },
     {
       fact: "Wenna told her girls to say nothing outside the house of the red-haired woman.",
