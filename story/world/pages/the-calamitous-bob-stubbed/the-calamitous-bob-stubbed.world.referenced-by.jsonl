@@ -31,6 +31,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-cloud-skull.world-character.ts","id":"01a0ea7a-6437-70bb-b4ca-fc1310434ab5"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-cold-gale-over-spring-meadow.world-character.ts","id":"01a0ea7b-2e7b-735f-8ffb-5c547dccf300"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-crocus.world-character.ts","id":"01a0ea7b-2e7b-7949-8050-653c01ac2831"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-efestar.world-character.ts","id":"01a0ea7b-611c-7490-893e-0aa6a2bb956f"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-emeric.world-character.ts","id":"01a0ea78-2ba8-7229-ba18-954e98df94bf"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-enttiku.world-character.ts","id":"01a0ea7a-2fe8-7470-a1e1-00c98317f1cc"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-maradoc.world-character.ts","id":"01a0ea79-0253-7fed-8079-c450c72f11e5"}
@@ -38,6 +39,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-marruk.world-character.ts","id":"01a0ea79-e916-7d70-a6e6-06896f754c92"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-neriad.world-character.ts","id":"01a0ea7a-2fe8-76fa-b0fe-da9885b4ea2a"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-nous.world-character.ts","id":"01a0ea7a-cc7f-7fa5-b978-9a853bccf49a"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-octas.world-character.ts","id":"01a0ea7b-611d-741e-83ac-1578a5d3e403"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-oleander.world-character.ts","id":"01a0ea79-e916-7843-be09-ffbd6638cd51"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-poacher.world-character.ts","id":"01a0ea7b-36b7-70b9-8277-f34bf0882bc8"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-rakan.world-character.ts","id":"01a0ea79-e916-731a-aabb-e1047a0dd1e3"}
@@ -86,6 +88,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-cold-gale-over-spring-meadow.lore.ts","id":"01a0ea7b-2e7c-71de-a333-62cf337a3e73"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-crocus.lore.ts","id":"01a0ea7b-2e7c-7dea-bcaa-636c382b8d67"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-dragons.lore.ts","id":"01a0ea79-2034-751b-bf34-f0cc2bed057c"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-efestar.lore.ts","id":"01a0ea7b-611d-7746-ba5f-24a4956e7bb9"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-elementals.lore.ts","id":"01a0ea79-2035-7e1a-bedc-dc3f0104b24f"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-emeric.lore.ts","id":"01a0ea78-2ba9-7329-a377-f0b3148c8c4c"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-enttiku.lore.ts","id":"01a0ea7a-2fe9-7511-b229-de063b666ce8"}
@@ -105,6 +108,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-neriad.lore.ts","id":"01a0ea7a-2fe9-7774-9113-ac1fcbd5408a"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-northerners.lore.ts","id":"01a0ea7b-518d-73e4-a48f-d4fbc89633f5"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-nous.lore.ts","id":"01a0ea7a-cc80-7181-8a52-b1e51c54fe3d"}
+{"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-octas.lore.ts","id":"01a0ea7b-611e-7d25-bc19-3af25cf2ca9a"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-oleander.lore.ts","id":"01a0ea79-e917-756b-b6f9-9471d2df524c"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-outlanders.lore.ts","id":"01a0ea76-90e6-7a72-9a68-f7ffc864bf97"}
 {"propertySlug":"world","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-paramese.lore.ts","id":"01a0ea7b-518d-76d3-8828-4a530ef1ab04"}
