@@ -246,6 +246,14 @@ export const overwhereIiDepthsAndDescent = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The Spire-schooled say anything that doesn't aid one's Descent is a distraction.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A strong Surface refinement is at its edge moving a ten-foot log.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Lighthouses hold libraries of instructional tomes on Talent and refinement.",
       knowers: ["lore-disclosure/game-master"],
     },
