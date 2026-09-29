@@ -52,6 +52,10 @@ export const otherwhereIiiTheSystem = {
       fact: "A living person on Earth with no record of birth or arrival is an anomaly the System flags.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The network's machine voice gives the System's answers; the Contract does not speak to her itself.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
