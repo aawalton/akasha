@@ -46,5 +46,6 @@ export const otherwhereViii00006 = {
   ],
   lore: ["place/otherwhere-viii-guildhall", "lore/otherwhere-viii-aiesta"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2026-09-28T06:35:00.000Z",
 } as const satisfies StoryTurnPlayed
