@@ -14,7 +14,7 @@ export const otherwhereIii00022 = {
     "character-other/super-supportive-gorgon",
     "character-other/otherwhere-iii-onn-desveth",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: '"Yes"',
   beats: [
     'Nala says, "Yes."',
@@ -30,7 +30,7 @@ export const otherwhereIii00022 = {
     '"I have not met it in a human before." She tilts her grey head.',
     '"The Contract says it holds no record of you anywhere. Not of your birth. Not of your arrival."',
     '"So I will ask you plainly, and I would like a plain answer."',
-    '"Where were you, before this morning?"',
+    '"Where do you come from?"',
   ],
   issues: [
     '"before this morning?" - Onn-desveth was told only "no record"; nothing told her when Nala came',
