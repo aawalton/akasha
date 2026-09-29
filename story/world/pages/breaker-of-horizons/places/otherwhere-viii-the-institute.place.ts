@@ -328,6 +328,14 @@ export const otherwhereViiiTheInstitute = {
         "character-player/otherwhere-viii-nala",
       ],
     },
+    {
+      fact: "Lines of thickness times inches of focus makes 120 in every filled row of the slate.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-viii-hallick",
+        "character-player/otherwhere-viii-nala",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
