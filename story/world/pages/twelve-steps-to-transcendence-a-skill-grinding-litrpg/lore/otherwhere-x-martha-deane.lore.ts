@@ -73,6 +73,14 @@ export const otherwhereXMarthaDeane = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Martha wants a straight answer more than a safe one, and trusts a strange truth over a smooth lie.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Once her room turns uneasy, Martha settles it by giving the stranger to the reeve for the night.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "After Nala's songs Martha said the lass can sing, and asked another, then where she got such songs.",
       knowers: [
         "lore-disclosure/game-master",

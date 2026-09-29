@@ -77,6 +77,14 @@ export const otherwhereXAldousCrane = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Aldous will not let an alehouse try a stranger; he takes her out of the room before it turns.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A stranger who says she knows many tongues is, to Aldous, one for the soldiers and their tablet.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Aldous answers a question about Sulon plainly, then asks one of his own back.",
       knowers: [
         "lore-disclosure/game-master",

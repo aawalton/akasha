@@ -56,5 +56,21 @@ export const otherwhereXTheWiderWorld = {
       fact: "Soldiers' fireside tales of monster hunts are the nearest most villagers come to the wilds.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Heartland folk hold that no person lives past the walls; a person from there is a thing unheard of.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "To heartland ears, many tongues means many peoples, and many peoples means lands no one knows.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A claim to come from past the walls is, in a Harrow alehouse, either a lie or a confession.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Magisters and academy folk hold that the walls may hide other peoples; villagers never hear it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
