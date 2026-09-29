@@ -57,6 +57,10 @@ export const otherwhereXiBaran = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "An old fort guards a deep blue river in the northern marches; the hill Semia's teat faces it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Lartizen is a town on Baran's northern border.",
       knowers: ["lore-disclosure/game-master"],
     },
