@@ -36,6 +36,6 @@ export const otherwhereXi00004 = {
     "place/otherwhere-xi-asmirel",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-28T06:30:00.000Z",
 } as const satisfies StoryTurnPlayed
