@@ -160,14 +160,5 @@ export const otherwhereIvNala = {
         "character-other/otherwhere-iv-tie-bo",
       ],
     },
-    {
-      fact: "Nala greeted Granny Hua as Auntie Gu and asked her for poison and counsel against the boar.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-iv-nala",
-        "character-other/otherwhere-iv-tie-bo",
-        "character-other/otherwhere-iv-zhao-jun",
-      ],
-    },
   ],
 } as const satisfies Lore

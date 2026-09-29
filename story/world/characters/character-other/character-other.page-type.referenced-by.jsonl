@@ -5,7 +5,6 @@
 {"propertySlug":"import","fileName":"character-other.page-type.ts","path":"story/world/pages/personas/stories/played/the-dating-game/mechanics/checks/the-dating-game-closeness-scoring.world-check.settling.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-other.page-type.ts","path":"story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-other.page-type.ts","path":"story/world/stories/played/turns/modules/turn-cast/turn-cast.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"character-other.page-type.types.ts","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/characters/otherwhere-iv-granny-hua.character-other.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-other.page-type.types.ts","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/characters/otherwhere-iv-tie-bo.character-other.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-other.page-type.types.ts","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/characters/otherwhere-iv-zhao-jun.character-other.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-other.page-type.types.ts","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/characters/otherwhere-viii-hallick.character-other.ts","typed":true,"deferred":false}
