@@ -113,7 +113,8 @@ export const indexSettling = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "No importer the change does not carry is read again.",
+      statement:
+        "No importer the change does not carry is read again but a file a page arriving owns.",
     },
     {
       decisionKind: "decision-kind/departure",

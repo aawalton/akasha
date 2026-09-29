@@ -1,3 +1,5 @@
+import { readdirSync } from "node:fs"
+import { dirname, join } from "node:path"
 import { importingIn } from "akasha/code/reading/modules/code-importing/code-importing.module.code.ts"
 import {
   NAMING_NONE,
@@ -10,6 +12,7 @@ import {
   under,
 } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import {
+  eachTarget,
   namesIn,
   namesMortal,
   namingsIn,
@@ -26,11 +29,15 @@ import {
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import type { Rowing } from "akasha/page/modules/entries/page-entries.module.code.ts"
-import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import {
+  pageOf as pageNameOf,
+  partedIn,
+} from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
   fileNameOf,
   IMPORT,
   lineOf,
+  referenceIn,
   referencesAt,
 } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import {
@@ -171,4 +178,110 @@ export function importedFrom(
     found.push(entry)
   }
   return found
+}
+
+type Turning = {
+  readonly path: string
+  readonly was: Value | null
+  readonly now: Value | null
+}
+
+function propertySlugsById(values: readonly (Value | null)[]): ReadonlyMap<string, string> {
+  const found = new Map<string, string>()
+  for (const one of values) {
+    if (one === null || textAt(one, "propertySlug") === null) continue
+    const id = textAt(one, "id")
+    const slug = textAt(one, "slug")
+    if (id !== null && slug !== null) found.set(id, slug)
+  }
+  return found
+}
+
+export function propertiesRenamedIn(held: readonly Turning[]): ReadonlyMap<string, string> {
+  const was = propertySlugsById(held.map((one) => one.was))
+  const now = propertySlugsById(held.map((one) => one.now))
+  const found = new Map<string, string>()
+  for (const [id, slug] of was) {
+    const next = now.get(id)
+    if (next !== undefined && next !== slug) found.set(slug, next)
+  }
+  return found
+}
+
+export function turnedLine(line: string, renamed: ReadonlyMap<string, string>): string {
+  const one = referenceIn(line)
+  if (one === null) return line
+  const to = renamed.get(one.propertySlug)
+  return to === undefined ? line : lineOf({ ...one, propertySlug: to })
+}
+
+function filesNaming(
+  reading: Reading,
+  known: Shaped,
+  renamed: ReadonlyMap<string, string>
+): readonly string[] {
+  const found = new Set<string>()
+  for (const was of renamed.keys()) {
+    const wanted = eachTarget(known.targetOf(was))
+    const types = new Set([...wanted, ...wanted.flatMap((one) => known.admitting(one))])
+    for (const pageTypeSlug of types) {
+      for (const one of everyOfType(reading, pageTypeSlug)) {
+        const at = referencesAt(one.path)
+        if (at !== null) found.add(at)
+      }
+    }
+  }
+  return [...found].sort()
+}
+
+export function linesRenamedIn(
+  reading: Reading,
+  known: Shaped,
+  renamed: ReadonlyMap<string, string>,
+  carried: ReadonlySet<string>,
+  vacated: ReadonlySet<string>
+): { readonly was: readonly Entry[]; readonly now: readonly Entry[] } {
+  const was: Entry[] = []
+  for (const at of filesNaming(reading, known, renamed)) {
+    if (vacated.has(at)) continue
+    for (const line of (reading.read(at) ?? "").split("\n")) {
+      const one = line === "" ? null : referenceIn(line)
+      if (one === null || !renamed.has(one.propertySlug) || carried.has(one.path)) continue
+      was.push({ at, line })
+    }
+  }
+  const now = was.map((one) => ({ at: one.at, line: turnedLine(one.line, renamed) }))
+  return { was, now }
+}
+
+export function namedFor(repo: string, page: string): readonly string[] {
+  const said = partedIn(page)
+  if (said === null) return []
+  const opening = `${pageNameOf(said)}.`
+  const folder = dirname(page)
+  let names: readonly string[]
+  try {
+    names = readdirSync(join(repo, folder))
+  } catch {
+    return []
+  }
+  return names
+    .filter((one) => one.startsWith(opening))
+    .map((one) => join(folder, one))
+    .sort()
+}
+
+export function ownedAnew(
+  held: readonly Turning[],
+  repo: string,
+  carried: ReadonlySet<string>
+): readonly string[] {
+  const found = new Set<string>()
+  for (const one of held) {
+    if (one.was !== null || one.now === null) continue
+    for (const at of namedFor(repo, under(repo, one.path))) {
+      if (!carried.has(at)) found.add(at)
+    }
+  }
+  return [...found].sort()
 }

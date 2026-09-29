@@ -62,5 +62,22 @@ export const pageReferenceFiling = {
       decisionKind: "decision-kind/absence",
       statement: "Only a body named `.ts` or `.tsx` files an import.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A property whose slug a change turns is known by its id before and after.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A line naming the slug a property had is turned to the slug it has now.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page arriving at a path owns every file whose name opens with that page's name.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "An importer outside the files a page arriving owns is not read again.",
+    },
   ],
 } as const satisfies Module

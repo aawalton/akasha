@@ -1,11 +1,19 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
 import { domain } from "akasha/domain/domain.page-type.ts"
 import { B, shaped } from "akasha/page/index/modules/entries/index-entries.module.test-fixtures.ts"
 import type { Child, Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
+  put,
+  scratch,
+} from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import {
   importedFrom,
+  namedFor,
   namedFrom,
   namedOut,
+  ownedAnew,
+  propertiesRenamedIn,
+  turnedLine,
 } from "akasha/page/modules/reference-filing/page-reference-filing.module.code.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
@@ -169,5 +177,71 @@ test("an imported file named for a page whose file is nowhere files no line", ()
 test("a body that is no typescript files no import", () => {
   expect(
     importedFrom(INDEXED, 'import { x } from "./b.module.code.ts"\n', "akasha/a.module.md", "")
+  ).toEqual([])
+})
+
+afterAll(scratch.sweep, 5000)
+
+const NAMING = { id: "3", propertySlug: "part-slugs" }
+
+test("a property keeping its id under a new slug is renamed from the old slug", () => {
+  const renamed = propertiesRenamedIn([
+    { path: "part-slugs.relation-property.ts", was: { ...NAMING, slug: "part-slugs" }, now: null },
+    {
+      path: "piece-slugs.relation-property.ts",
+      was: null,
+      now: { ...NAMING, slug: "piece-slugs" },
+    },
+  ])
+
+  expect([...renamed]).toEqual([["part-slugs", "piece-slugs"]])
+})
+
+test("a page that is no property is renamed from nothing", () => {
+  const renamed = propertiesRenamedIn([
+    { path: "a.domain.ts", was: { id: "4", slug: "a" }, now: { id: "4", slug: "b" } },
+  ])
+
+  expect(renamed.size).toBe(0)
+})
+
+test("a line naming a renamed slug is turned, and any other line is left as it was", () => {
+  const renamed = new Map([["part-slugs", "piece-slugs"]])
+  const other = `{"propertySlug":"parts","path":"${FROM}","id":"${MINE}"}`
+
+  expect(turnedLine(`{"propertySlug":"part-slugs","path":"${FROM}","id":"${MINE}"}`, renamed)).toBe(
+    `{"propertySlug":"piece-slugs","path":"${FROM}","id":"${MINE}"}`
+  )
+  expect(turnedLine(other, renamed)).toBe(other)
+})
+
+const OWNED = [
+  "held/lone.module.code.ts",
+  "held/lone.module.test.ts",
+  "held/lone.module.ts",
+  "held/other.module.ts",
+]
+
+function ownedTree(): string {
+  const root = scratch.rootFor("akasha-reference-filing-")
+  for (const at of OWNED) put(root, at, "export const it = 1\n")
+  return root
+}
+
+test("the files a page's name opens are the files that page owns", () => {
+  expect(namedFor(ownedTree(), "held/lone.module.ts")).toEqual(OWNED.slice(0, 3))
+})
+
+test("a page arriving owns anew the files beside it that the change does not carry", () => {
+  const held = [{ path: "held/lone.module.ts", was: null, now: { id: "6", slug: "lone" } }]
+
+  expect(ownedAnew(held, ownedTree(), new Set(["held/lone.module.ts"]))).toEqual(OWNED.slice(0, 2))
+})
+
+test("a page already there owns nothing anew", () => {
+  const page = { id: "6", slug: "lone" }
+
+  expect(
+    ownedAnew([{ path: "held/lone.module.ts", was: page, now: page }], ownedTree(), new Set())
   ).toEqual([])
 })

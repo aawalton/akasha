@@ -354,6 +354,41 @@ test("a page moved from under an importer not yet repointed leaves no references
   expect(settled.reading.read(REFERENCES_LEFT)).toBe(null)
 })
 
+const LONE_PAGE = "akasha/three/lone.module.ts"
+
+const LONE_TEST = "akasha/three/lone.module.test.ts"
+
+test("a page arriving beside code already there files what the code beside it imports", () => {
+  const root = indexedRepo({
+    "akasha/three/lone.module.code.ts": "export const alone = 1\n",
+    [LONE_TEST]: 'import { alone } from "./lone.module.code.ts"\n\nexport const held = alone\n',
+  })
+  const page = pageOf({
+    id: idOf("e"),
+    type: `${pageType.slug}/module`,
+    slug: "lone",
+    definition: "a page landing after the code beside it",
+    code: "ts",
+    test: "ts",
+  })
+  const textOf = textIn(root)
+
+  const settled = settlingOver(
+    readingIn(root),
+    root,
+    [{ path: LONE_PAGE, before: null, after: page }],
+    (path) => {
+      const body = path === LONE_PAGE ? page : textOf(path)
+      return body === null ? null : valueIn(body)
+    },
+    textOf
+  )
+
+  expect(settled.reading.read("akasha/three/lone.module.referenced-by.jsonl") ?? "").toContain(
+    LONE_TEST
+  )
+})
+
 const MOVED_REFERENCES = "akasha/moved/held.module.referenced-by.jsonl"
 
 test("a page moving takes to its new place the names it had, and leaves the imports behind", () => {
