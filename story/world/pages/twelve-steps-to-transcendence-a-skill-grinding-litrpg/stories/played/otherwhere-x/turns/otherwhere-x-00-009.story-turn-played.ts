@@ -4,6 +4,7 @@ export const otherwhereX00009 = {
   id: "01a0eb19-e85e-7215-b051-d2c447a3d16f",
   type: "page-type/story-turn-played",
   slug: "otherwhere-x-00-009",
+  cover: "image/image-c69d7110a1de10ae",
   ownLength: 353,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-x"],
@@ -56,6 +57,6 @@ export const otherwhereX00009 = {
     "place/otherwhere-x-the-sheaf",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T19:21:00.000Z",
 } as const satisfies StoryTurnPlayed
