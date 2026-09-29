@@ -159,6 +159,10 @@ describe("playedReady and playedMaking", () => {
     expect(playedMaking([mastering, read], [])?.said).toBe(said)
   })
 
+  test("a turn being made says nothing of its step while the story's seats are unread", () => {
+    expect(playedMaking([making, read], null)?.said).toBeNull()
+  })
+
   test("a turn whose recorders are still working is kept from the reader and is being made", () => {
     const recording = turnPage({
       id: "b",

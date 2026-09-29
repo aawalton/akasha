@@ -47,7 +47,6 @@ export type PlayedLists = {
   readonly chapters: PlayedList
   readonly turns: PlayedList
   readonly character: PlayedList
-  readonly seats: PlayedList
 }
 
 function storyOnly(pageTypeSlug: string, key: string, storyAddress: string): PlayedList {
@@ -59,7 +58,6 @@ export function playedListsOf(storyAddress: string): PlayedLists {
     chapters: storyOnly(PLAYED_CHAPTER_PAGE_TYPE_SLUG, PLAYED_CHAPTER_STORY_KEY, storyAddress),
     turns: storyOnly(PLAYED_TURN_PAGE_TYPE_SLUG, PLAYED_TURN_COLLECTIONS_KEY, storyAddress),
     character: storyOnly(PLAYED_CHARACTER_PAGE_TYPE_SLUG, PLAYED_CHARACTER_STORY_KEY, storyAddress),
-    seats: storyOnly(PLAYED_SEAT_PAGE_TYPE_SLUG, PLAYED_SEAT_STORY_KEY, storyAddress),
   }
 }
 
@@ -119,7 +117,7 @@ export type Making = {
   readonly slug: string
   readonly action: string
   readonly step: TurnStep
-  readonly said: string
+  readonly said: string | null
 }
 
 function stepOf(row: Page): TurnStep {
@@ -130,7 +128,12 @@ export function playedReady(rows: readonly Page[]): readonly Page[] {
   return rows.filter((row) => stepOf(row) === PLAYER)
 }
 
-export function playedMaking(rows: readonly Page[], seats: readonly Page[]): Making | null {
+function saidOver(step: TurnStep, seats: readonly Page[] | null): string | null {
+  if (seats === null) return null
+  return makingSaid(step, seatsWorking(seats.map((one) => ({ turnState: one[SEAT_STATE_KEY] }))))
+}
+
+export function playedMaking(rows: readonly Page[], seats: readonly Page[] | null): Making | null {
   const last = playedOrder(rows).at(-1)
   if (last === undefined) return null
   const step = stepOf(last)
@@ -140,7 +143,7 @@ export function playedMaking(rows: readonly Page[], seats: readonly Page[]): Mak
     slug: slugIn(last) ?? last.id,
     action: typeof action === "string" ? action : "",
     step,
-    said: makingSaid(step, seatsWorking(seats.map((one) => ({ turnState: one[SEAT_STATE_KEY] })))),
+    said: saidOver(step, seats),
   }
 }
 

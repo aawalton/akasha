@@ -17,8 +17,15 @@ export const playedShell = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The story's chapters, turns, character and seats are asked for by the story's address.",
+      statement: "The story's chapters, turns and character are asked for by the story's address.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The story's seats are picked out of every seat, since no route narrows seats.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page is drawn without waiting on the seats.",
     },
     {
       decisionKind: "decision-kind/departure",

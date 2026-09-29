@@ -152,15 +152,15 @@ function PlayedStory({
     () => ({
       pageTypeSlug: PLAYED_SEAT_PAGE_TYPE_SLUG,
       where: [{ key: PLAYED_SEAT_STORY_KEY, eq: storyAddress }],
-      shape: shapeOf(lists.seats),
     }),
-    [storyAddress, lists]
+    [storyAddress]
   )
   const chapters = usePages(chapterOptions)
   const turns = usePages(turnOptions)
   const seats = usePages(seatOptions)
   const ready = useMemo(() => playedReady(turns.rows), [turns.rows])
-  const making = useMemo(() => playedMaking(turns.rows, seats.rows), [turns.rows, seats.rows])
+  const seated = seats.isLoading || seats.error !== null ? null : seats.rows
+  const making = useMemo(() => playedMaking(turns.rows, seated), [turns.rows, seated])
 
   const runIsTurns = ready.length > 0
   const runPageTypeSlug = runIsTurns ? PLAYED_TURN_PAGE_TYPE_SLUG : PLAYED_CHAPTER_PAGE_TYPE_SLUG
@@ -247,7 +247,7 @@ function PlayedStory({
     [clock, upcoming, envelope, turnCovers, player, tail, externalId, coordinatorAgent]
   )
 
-  if (chapters.isLoading || turns.isLoading || seats.isLoading) return null
+  if (chapters.isLoading || turns.isLoading) return null
 
   const titleRow = (
     <div className={TITLE_ROW_WIDE}>

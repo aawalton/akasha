@@ -220,7 +220,7 @@ export function ActionBar({
           ))}
         </div>
       )}
-      {making === null ? null : <p className={NOTE_LINE}>{making.said}</p>}
+      {making === null || making.said === null ? null : <p className={NOTE_LINE}>{making.said}</p>}
       <form ref={formAt} onSubmit={onSubmit} className="flex flex-col gap-2">
         {armed === null ? null : <p className={NOTE_LINE}>{ALREADY_SENT}</p>}
         {signedOut ? (
