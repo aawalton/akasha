@@ -11,7 +11,7 @@ export const otherwhereIx00011 = {
   position: 11,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: '"Okay, I put all 24 stat points into Consitutation."',
   beats: [
     '"Okay, I put all 24 stat points into Constitution," Nala says to the open screen.',
@@ -42,6 +42,6 @@ export const otherwhereIx00011 = {
     "place/otherwhere-ix-tinleaf-seep",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
   endsAt: "2026-09-28T15:45:00.000Z",
 } as const satisfies StoryTurnPlayed
