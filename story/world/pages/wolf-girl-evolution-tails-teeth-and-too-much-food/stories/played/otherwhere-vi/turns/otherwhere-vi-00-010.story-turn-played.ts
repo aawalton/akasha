@@ -10,11 +10,11 @@ export const otherwhereVi00010 = {
   position: 10,
   prose: "txt",
   characters: ["character-player/otherwhere-vi-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I try to find some degree of shelter, even a bush if possible, and then fall asleep, hoping to wake again.",
   beats: [
-    "Nala gets up off her knees, leaning on the staff, and looks for anywhere out of the wind.",
+    "Nala straightens from her crouch, leaning on the staff, and looks for anywhere out of the wind.",
     "Her thoughts are slow; she climbs the dry bank above the berries with no clear idea where to go.",
     "Under the pines it is near black; she feels her way between trunks with the staff.",
     "She goes too far up, then comes down again, and loses the sound of the stream for a while.",
