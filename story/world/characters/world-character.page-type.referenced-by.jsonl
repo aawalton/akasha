@@ -162,6 +162,7 @@
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-beholder/characters/the-beholder-tamsin.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-abenezigel.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-adon.world-character.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-agon.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-aldus.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-ancient-sarodon.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-aragan.world-character.ts","typed":true,"deferred":false}
@@ -206,6 +207,7 @@
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-dirge.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-durgan.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-earth-fire-bleeding-from-a-mountain-flank.world-character.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-echna.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-ediar.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-edretti.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-edria.world-character.ts","typed":true,"deferred":false}
@@ -289,6 +291,7 @@
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-kerra.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-khaton.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-kif.world-character.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-kinei.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-kinnir.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-kit.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-kobanis.world-character.ts","typed":true,"deferred":false}
@@ -298,6 +301,7 @@
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-koro.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-kreta.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-kule.world-character.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-laira.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-lak-tak.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-lakya.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/characters/otherwhere-xi-lan.world-character.ts","typed":true,"deferred":false}
