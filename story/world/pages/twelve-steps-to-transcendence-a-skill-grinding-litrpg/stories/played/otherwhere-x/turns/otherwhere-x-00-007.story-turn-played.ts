@@ -10,7 +10,7 @@ export const otherwhereX00007 = {
   position: 7,
   prose: "txt",
   characters: ["character-player/otherwhere-x-nala", "world-character/otherwhere-x-aldous-crane"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "\"I truly don't know. Some magic brought me hear beyond my understanding. I'm hoping learning more about your world will help me understand. What is the name of the kingdom? Who is the king? What is said of magic and monsters in the world at large?\"",
   beats: [
@@ -39,8 +39,8 @@ export const otherwhereX00007 = {
     "Martha Deane comes up from the stewpot with a ladle and looks Nala over, head to foot.",
     '"Aldous Crane, what have you brought me?" "A stranger with no token. She answers for it tomorrow."',
     "Martha sets a bowl of mutton and a hunk of dark bread on the nearest trestle in front of her.",
-    "\"The fiddler's dead and the Sheaf's had nothing since. You say you can sing. Sing, then.\"",
     "The room goes quiet enough to hear the fire, and every face at the trestles turns.",
+    "\"The fiddler's dead and the Sheaf's had nothing since. You say you can sing. Sing, then.\"",
   ],
   issues: [
     '"The room goes quiet enough to hear the fire, and every face at the trestles turns" - No Prompt',
