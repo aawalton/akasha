@@ -11,4 +11,5 @@ export const otherwhereVii00012 = {
   action:
     "\"From far enough away you haven't heard the name, and no one's who still walks this earth.\"",
   lore: ["lore/otherwhere-vii-hild", "place/otherwhere-vii-ashford"],
+  endsAt: "2026-09-28T12:18:00.000Z",
 } as const satisfies StoryTurnPlayed
