@@ -72,6 +72,10 @@ export const otherwhereIiiTheSystem = {
       fact: "It tells such a caller to stay where she is, and notifies the nearest consulate's Artonan staff.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The call is logged under her name, and her sigil stays on the lobby phone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
