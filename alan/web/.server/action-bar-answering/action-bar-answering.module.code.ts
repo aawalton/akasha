@@ -66,6 +66,10 @@ const BODY = "body"
 
 const CLAIMED_AT = "claimedAt"
 
+const ACTION_DRAFT = "actionDraft"
+
+const DRAFT_WRITER = "action bar <action-bar@alanwalton.com>"
+
 const GAME_PARAM = "game"
 
 const ANNOUNCE: Warrant = "announce"
@@ -122,6 +126,8 @@ export type ActionBarEffects = {
   readonly write: (stated: Stated) => Promise<Written>
   readonly make: (game: string, action: string) => Promise<TurnMade>
   readonly pendingRows: () => Promise<readonly Row[] | { readonly refused: string }>
+  readonly draftOf: (game: string) => Promise<string | null>
+  readonly dropDraft: (game: string) => Promise<undefined>
 }
 
 export function pendingFor(rows: readonly Row[], seat: string): readonly PendingAction[] {
@@ -175,6 +181,34 @@ async function pendingRowsAsked(): Promise<readonly Row[] | { readonly refused: 
   return "refused" in asked ? asked : asked.rows
 }
 
+async function draftAsked(game: string): Promise<string | null> {
+  const asked = await askingFor({
+    pageTypeSlug: GAME_PAGE_TYPE_SLUG,
+    where: { [SLUG]: { is: game } },
+    keys: [SLUG, ACTION_DRAFT],
+  })
+  if ("refused" in asked) return null
+  const draft = textIn(asked.rows[0]?.[ACTION_DRAFT])
+  return draft === null || draft.trim() === "" ? null : draft
+}
+
+async function draftDropped(game: string): Promise<undefined> {
+  const wrote = await writingFor({
+    writer: DRAFT_WRITER,
+    message: `the action draft of ${game} is sent`,
+    pages: [
+      {
+        pageTypeSlug: GAME_PAGE_TYPE_SLUG,
+        slug: game,
+        values: { [ACTION_DRAFT]: null },
+        merge: true,
+      },
+    ],
+  })
+  if ("refused" in wrote) console.error(`the action draft of ${game} stays: ${wrote.refused}`)
+  return undefined
+}
+
 const throughTheForwarder: Sending = (asked) => writingFor(asked)
 
 function defaultEffects(): ActionBarEffects {
@@ -185,6 +219,8 @@ function defaultEffects(): ActionBarEffects {
     write: (stated) => writeMessage(stated, throughTheForwarder),
     make: (game, action) => turnMadeFor(game, action),
     pendingRows: () => pendingRowsAsked(),
+    draftOf: draftAsked,
+    dropDraft: draftDropped,
   }
 }
 
@@ -307,10 +343,21 @@ export async function answerActionBar(
   if (asked === null) return answer({ ok: false, error: NO_ACTION }, 400)
   const gate = await gateFor(effects, request, asked.game, answer)
   if (!gate.ok) return gate.answered
-  if (classifyActionBarMessage(asked.text) === FEEDBACK) {
-    return await fedBack(effects, gate.seat, asked.text, answer)
+  const sent =
+    classifyActionBarMessage(asked.text) === FEEDBACK
+      ? await fedBack(effects, gate.seat, asked.text, answer)
+      : await turnMade(effects, gate.seat, gate.game, asked.text, answer)
+  if (sent.ok) await draftSent(effects, gate.game)
+  return sent
+}
+
+async function draftSent(effects: ActionBarEffects, game: string): Promise<undefined> {
+  try {
+    if ((await effects.draftOf(game)) !== null) await effects.dropDraft(game)
+  } catch (thrown) {
+    console.error(`the action draft of ${game} stays: ${saidBy(thrown)}`)
   }
-  return await turnMade(effects, gate.seat, gate.game, asked.text, answer)
+  return undefined
 }
 
 export async function answerPendingActions(
@@ -330,5 +377,7 @@ export async function answerPendingActions(
   if (!gate.ok) return gate.answered
   const rows = await effects.pendingRows()
   if ("refused" in rows) return answer({ ok: false, error: NOT_LISTENING }, 503)
-  return answer({ ok: true, pending: pendingFor(rows, gate.seat) }, 200)
+  const pending = pendingFor(rows, gate.seat)
+  const draft = await effects.draftOf(gate.game).catch(() => null)
+  return answer(draft === null ? { ok: true, pending } : { ok: true, pending, draft }, 200)
 }

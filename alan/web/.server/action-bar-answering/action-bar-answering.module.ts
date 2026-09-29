@@ -81,5 +81,17 @@ export const actionBarAnswering = {
       decisionKind: "decision-kind/departure",
       statement: "The actions waiting are read from the page forwarder, which sees a claim.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The actions waiting are answered with the game's action draft, where it has one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A send the game takes takes the action draft off, whatever the words sent.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A send is answered as sent where taking its draft off fails.",
+    },
   ],
 } as const satisfies Module

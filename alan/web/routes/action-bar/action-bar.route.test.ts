@@ -39,6 +39,7 @@ const MADE_AT = "stories/the-game/turns/the-game-00-003.story-turn-played.ts"
 function effectsWith(over: Partial<ActionBarEffects> = {}) {
   const written: Stated[] = []
   const made: string[] = []
+  const dropped: string[] = []
   const effects: ActionBarEffects = {
     signedIn: async () => ({ contributor: "contributor-alan", subjectHash: "alan" }),
     enrol: async () => ({ ok: true, personSlug: "alan" }),
@@ -52,10 +53,53 @@ function effectsWith(over: Partial<ActionBarEffects> = {}) {
       return { kind: "made", slug: "the-game-00-003", at: MADE_AT }
     },
     pendingRows: async () => [],
+    draftOf: async () => null,
+    dropDraft: async (game) => {
+      dropped.push(game)
+      return undefined
+    },
     ...over,
   }
-  return { effects, written, made }
+  return { effects, written, made, dropped }
 }
+
+const DRAFTED = { draftOf: async () => "I open the gate" }
+
+test("the actions waiting are answered with the action draft a take-back left", async () => {
+  const { effects } = effectsWith(DRAFTED)
+  const answered = await answerPendingActions(asked(null, "GET", WAITING_URL), effects)
+  expect(await answered.json()).toEqual({ ok: true, pending: [], draft: "I open the gate" })
+})
+
+test("an action sent takes the action draft off, and feedback sent does too", async () => {
+  const action = effectsWith(DRAFTED)
+  await answerActionBar(asked({ gameExternalId: GAME, text: "I wait" }), action.effects)
+  expect(action.dropped).toEqual([GAME])
+  const feedback = effectsWith(DRAFTED)
+  await answerActionBar(asked({ gameExternalId: GAME, text: "[wait]" }), feedback.effects)
+  expect(feedback.dropped).toEqual([GAME])
+})
+
+test("a send refused, or a send with no draft, takes nothing off", async () => {
+  const said = "The last turn is still being made."
+  const refused = effectsWith({ ...DRAFTED, make: async () => ({ kind: "refused", said }) })
+  await answerActionBar(asked({ gameExternalId: GAME, text: "I wait" }), refused.effects)
+  expect(refused.dropped).toEqual([])
+  const bare = effectsWith()
+  await answerActionBar(asked({ gameExternalId: GAME, text: "I wait" }), bare.effects)
+  expect(bare.dropped).toEqual([])
+})
+
+test("an action is answered as sent where taking its draft off throws", async () => {
+  const { effects } = effectsWith({
+    ...DRAFTED,
+    dropDraft: async () => {
+      throw new Error("the forwarder went away")
+    },
+  })
+  const answered = await answerActionBar(asked({ gameExternalId: GAME, text: "I wait" }), effects)
+  expect(answered.status).toBe(200)
+})
 
 test("a caller who is not signed in is refused and nothing is written", async () => {
   const { effects, written } = effectsWith({ signedIn: async () => null })
