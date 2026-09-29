@@ -42,8 +42,12 @@ export const otherwhereIv00017 = {
     '"You\'re a spirit of knowledge, they tell me. So. Tell me what ails it."',
   ],
   issues: ['"snaps off one leafy stalk" - she asks the visitor to pull the mugwort stalk'],
-  lore: ["lore/otherwhere-iv-granny-hua", "lore/otherwhere-iv-nala"],
+  lore: [
+    "lore/otherwhere-iv-fang-brothers",
+    "lore/otherwhere-iv-granny-hua",
+    "lore/otherwhere-iv-nala",
+  ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-29T06:37:00.000Z",
 } as const satisfies StoryTurnPlayed
