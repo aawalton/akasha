@@ -38,5 +38,6 @@ export const otherwhereVi00008 = {
     "place/otherwhere-vi-hollow-stream",
     "lore/otherwhere-vi-nala",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T22:36:00.000Z",
 } as const satisfies StoryTurnPlayed
