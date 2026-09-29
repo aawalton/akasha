@@ -12,6 +12,8 @@ export const overwhereIiiTrait = {
     "number-property/overwhere-iii-trait-draw",
     "number-property/overwhere-iii-trait-reach-feet",
     "number-property/overwhere-iii-trait-strain",
+    "number-property/overwhere-iii-trait-rank-uses",
+    "number-property/overwhere-iii-trait-node-factor",
     "page-type/overwhere-iii-trait-held",
   ],
   properties: [
@@ -28,6 +30,16 @@ export const overwhereIiiTrait = {
       many: false,
     },
     { pageProperty: "number-property/overwhere-iii-trait-strain", required: false, many: false },
+    {
+      pageProperty: "number-property/overwhere-iii-trait-rank-uses",
+      required: false,
+      many: false,
+    },
+    {
+      pageProperty: "number-property/overwhere-iii-trait-node-factor",
+      required: false,
+      many: false,
+    },
   ],
   decisions: [
     {

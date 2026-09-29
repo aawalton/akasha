@@ -10,7 +10,9 @@ export const overwhereIiiManaWeaver = {
   description:
     "A trait that shows the world's mana currents and lets them pour into its bearer's workings.",
   ranks: ["Basic", "Novice", "Adept", "Expert", "Legend"],
-  draw: 12,
+  draw: 24,
   reachFeet: 60,
   strain: 1,
+  rankUses: 5,
+  nodeFactor: 2,
 } as const satisfies OverwhereIiiTrait
