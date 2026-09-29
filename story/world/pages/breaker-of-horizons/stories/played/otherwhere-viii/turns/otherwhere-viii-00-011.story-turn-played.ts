@@ -11,4 +11,5 @@ export const otherwhereViii00011 = {
   action:
     '"I would be grateful for both. I\'ve long been accustomed to living where I work and I love both to learn and to teach."',
   lore: ["lore/otherwhere-viii-nala", "place/otherwhere-viii-the-workshop-room"],
+  endsAt: "2026-09-28T07:34:00.000Z",
 } as const satisfies StoryTurnPlayed
