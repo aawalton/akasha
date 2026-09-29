@@ -7,5 +7,11 @@ export const superSupportiveResourceWorld = {
   title: "Resource worlds",
   world: "world/super-supportive",
   about: "world-mechanic/super-supportive-resource-world",
+  facts: [
+    {
+      fact: "A resource world supplies people to serve the Artonans under the Contract.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
