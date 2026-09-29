@@ -1537,6 +1537,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-builders-guild.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-cadril-the-mountain.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-caeno.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-calendar.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-cassia.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-caster-core.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-celerin-crest.lore.ts","typed":true,"deferred":false}
@@ -1862,6 +1863,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-tod.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-tom-manitaradin.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-tongues.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-travel.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-trez.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-trill.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/lore/otherwhere-xi-tuk.lore.ts","typed":true,"deferred":false}
