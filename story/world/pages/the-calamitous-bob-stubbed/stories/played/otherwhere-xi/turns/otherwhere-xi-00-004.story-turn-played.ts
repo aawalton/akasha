@@ -10,7 +10,7 @@ export const otherwhereXi00004 = {
   position: 4,
   prose: "txt",
   characters: ["character-player/otherwhere-xi-nala", "world-character/otherwhere-xi-tobin-ashlar"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     '"The Old Empire...is that the one that is overrun by the dead? Where am I precisely? I think these waystones may have taken me much farther than most."',
   beats: [
@@ -35,6 +35,6 @@ export const otherwhereXi00004 = {
     "place/otherwhere-xi-waystone-shrine",
     "place/otherwhere-xi-asmirel",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T06:30:00.000Z",
 } as const satisfies StoryTurnPlayed
