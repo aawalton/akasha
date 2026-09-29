@@ -74,7 +74,7 @@ export const otherwhereViiiTheWorkshopRoom = {
     },
     {
       fact: "From eight the workshop below is loud: grinding wheels, files, hammers and talk.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
     {
       fact: "The grinding wheels whine through the boards, loud enough to wake a light sleeper.",

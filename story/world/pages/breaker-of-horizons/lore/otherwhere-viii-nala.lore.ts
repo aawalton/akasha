@@ -216,9 +216,16 @@ export const otherwhereViiiNala = {
         "character-other/otherwhere-viii-hallick",
       ],
     },
-
     {
       fact: "Nala has had nothing to drink since she woke in the park.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
+    {
+      fact: "At the workshop Nala hangs Maddox's coat on the peg and wears a grey canvas apron over her shirt.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
+    },
+    {
+      fact: "By her second tray Nala handles the calliper right, and her blanks pass Coyle's check.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
   ],

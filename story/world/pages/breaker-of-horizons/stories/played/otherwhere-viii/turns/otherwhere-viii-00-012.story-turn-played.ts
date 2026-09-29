@@ -49,5 +49,6 @@ export const otherwhereViii00012 = {
     "place/otherwhere-viii-the-workshop-room",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-28T09:40:00.000Z",
 } as const satisfies StoryTurnPlayed
