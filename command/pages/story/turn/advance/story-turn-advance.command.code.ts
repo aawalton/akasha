@@ -62,6 +62,7 @@ import { storyPlayed } from "akasha/story/world/stories/played/story-played.page
 import {
   type Character,
   castIndexed,
+  castKept,
 } from "akasha/story/world/stories/played/turns/modules/turn-cast/turn-cast.module.code.ts"
 import {
   advanced,
@@ -282,7 +283,7 @@ async function heldOn(
   const recorders = reach.recordersIn(given.root)
   const slugs = reviewers.map((one) => one.slug)
   const recorded = recorders.map((one) => one.slug)
-  const cast = read.handed.kind === "prose" ? reach.castOf(given.root, held.game) : []
+  const cast = reach.castOf(given.root, held.game)
   const said = advanced(held, caller, read.handed, slugs, recorded, cast)
   if ("refused" in said) return refused(said.refused, DATA)
   const untimed = untimedOn(reach, given.root, read, held, turn)
@@ -300,14 +301,16 @@ async function heldOn(
   const lifted = liftedFrom(turn, kept, () => reach.textIn(given.root, turn.at))
   if ("refused" in lifted) return back([lifted.refused])
   const own = kept.filter((one) => !lifted.rest.includes(one))
-  const inPlay = reach.loreGathered(given.root, turn, said.values)
+  const textOf = (path: string) => reach.textIn(given.root, path)
+  const recast = read.handed.kind === "prose" ? {} : castKept(turn, cast, textOf)
+  const inPlay = reach.loreGathered(given.root, turn, { ...recast, ...said.values })
   const titled = read.title === undefined ? {} : { [TITLE]: read.title }
   const naming: Naming = {
     pageTypeSlug: typeOf(read),
     slug,
     path: turn.at,
     merge: true,
-    values: { ...lifted.values, ...said.values, ...titled, ...inPlay.values },
+    values: { ...lifted.values, ...recast, ...said.values, ...titled, ...inPlay.values },
     ...(said.prose === null ? {} : { bodies: { prose: said.prose } }),
   }
   const folded = reach.fold(given.root, naming)

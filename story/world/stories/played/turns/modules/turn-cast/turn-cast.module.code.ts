@@ -1,4 +1,6 @@
+import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { slugOf, textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { characterOther } from "akasha/story/world/characters/character-other/character-other.page-type.ts"
 import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
@@ -11,6 +13,10 @@ const SLUG = "slug"
 const TITLE = "title"
 
 const ALIAS_OF = "aliasOf"
+
+const PROSE = "prose"
+
+const CHARACTERS = "characters"
 
 const PARTED = "/"
 
@@ -72,6 +78,33 @@ export function unlistedIn(
     .filter((one) => namesOf(one.title).some((name) => namedIn(prose, name)))
     .map(ownerOf)
   return [...new Set(named)].filter((one) => !slugs.has(slugOf(one)) && !covered.has(slugOf(one)))
+}
+
+export type Casting = {
+  readonly at: string
+  readonly value: Readonly<Record<string, unknown>>
+}
+
+function proseOf(at: string, textOf: (path: string) => string): string | null {
+  try {
+    return textOf(at)
+  } catch {
+    return null
+  }
+}
+
+export function castKept(
+  turn: Casting,
+  cast: readonly Character[],
+  textOf: (path: string) => string
+): Readonly<Record<string, unknown>> {
+  const ending = turn.value[PROSE]
+  const at = typeof ending === "string" ? besideAt(turn.at, PROSE, ending) : null
+  const prose = at === null || cast.length === 0 ? null : proseOf(at, textOf)
+  if (prose === null) return {}
+  const listed = stringsIn(turn.value[CHARACTERS])
+  const added = unlistedIn(prose, listed, cast)
+  return added.length === 0 ? {} : { [CHARACTERS]: [...listed, ...added] }
 }
 
 export function unlistedRefused(

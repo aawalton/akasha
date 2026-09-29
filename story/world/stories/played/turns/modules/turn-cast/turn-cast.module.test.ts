@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   type Character,
+  castKept,
   unlistedIn,
   unlistedRefused,
 } from "akasha/story/world/stories/played/turns/modules/turn-cast/turn-cast.module.code.ts"
@@ -38,6 +39,35 @@ test("an alias listed covers the character it is read as, and an alias named ask
   ]
   expect(unlistedIn("The Headman waits.", [NALA], cast)).toEqual([ALDO])
   expect(unlistedIn("Aldo waits.", ["character-other/saga-headman"], cast)).toEqual([])
+})
+
+const TURN_AT = "stories/saga/turns/saga-00-015.story-turn-played.ts"
+
+const PROSE_AT = "stories/saga/turns/saga-00-015.story-turn-played.prose.txt"
+
+function textOf(prose: string): (path: string) => string {
+  return (path) => {
+    if (path !== PROSE_AT) throw new Error(`${path} is not there`)
+    return prose
+  }
+}
+
+test("a character filed after the prose, which the prose names, is added to the turn's list", () => {
+  const turn = { at: TURN_AT, value: { prose: "txt", characters: [NALA] } }
+  expect(castKept(turn, CAST, textOf("Nala finds Aldo threshing."))).toEqual({
+    characters: [NALA, ALDO],
+  })
+})
+
+test("a turn whose list already holds every character its prose names is left as it is", () => {
+  const turn = { at: TURN_AT, value: { prose: "txt", characters: [NALA, ALDO] } }
+  expect(castKept(turn, CAST, textOf("Nala finds Aldo threshing."))).toEqual({})
+})
+
+test("a turn with no prose, or a prose file that is not there, adds no character", () => {
+  expect(castKept({ at: TURN_AT, value: {} }, CAST, textOf("Aldo."))).toEqual({})
+  const elsewhere = { at: "stories/saga/turns/other.story-turn-played.ts", value: { prose: "txt" } }
+  expect(castKept(elsewhere, CAST, textOf("Aldo."))).toEqual({})
 })
 
 test("the refusal names each missing character by its address and quotes no prose", () => {

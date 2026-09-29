@@ -34,5 +34,14 @@ export const turnCast = {
       statement:
         "A refusal names each missing character by its address and never quotes the prose.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every advance after the writer's adds to the list each character its prose names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A written chapter's list is kept up the same way a played turn's is.",
+    },
   ],
 } as const satisfies Module
