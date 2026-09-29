@@ -8,6 +8,8 @@
 {"propertySlug":"characters","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/turns/otherwhere-x-00-007.story-turn-played.ts","id":"01a0ead2-7139-7565-ac03-627e5aab15f6"}
 {"propertySlug":"lore-about","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-nala.lore.ts","id":"01a0ea60-77f5-7489-a799-55fd1ec43262"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-aldous-crane.lore.ts","id":"01a0eaac-8b34-77b9-a544-3114a9067277"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-bess-crane.lore.ts","id":"01a0ead7-7528-7667-8e62-179a6f5ca286"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-hob-crane.lore.ts","id":"01a0ead7-7528-7cb0-9094-7ea4ed252ce2"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-nala.lore.ts","id":"01a0ea60-77f5-7489-a799-55fd1ec43262"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/lore/otherwhere-x-papers.lore.ts","id":"01a0eaa4-37ee-798e-b0a4-d848746aec2d"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/places/otherwhere-x-harrow-mile.place.ts","id":"01a0ea60-77f6-7171-b330-d89d18bf2c6a"}
@@ -15,6 +17,7 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/places/otherwhere-x-harrow.place.ts","id":"01a0ea71-651e-72f4-977d-dfeecdaba959"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/places/otherwhere-x-sulon.place.ts","id":"01a0ea6f-b8c5-7c0d-8898-b9c6928df09c"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/places/otherwhere-x-the-sheaf.place.ts","id":"01a0eabe-0275-7b20-a4b9-a09b54f2290a"}
+{"propertySlug":"metric-of-character","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/metrics/attributes/practice/pages/otherwhere-x-nala-speed-reading.otherwhere-x-practice.ts","id":"01a0ead7-7528-70af-9d7c-1aaf9c7cacec"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/metrics/attributes/suspicion/pages/otherwhere-x-nala.otherwhere-x-suspicion.ts","id":"01a0ea75-4748-7e81-b8c5-fc3f3f27d275"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/metrics/attributes/tier/pages/otherwhere-x-nala.otherwhere-x-tier.ts","id":"01a0ea7f-7535-7307-b829-df24df774fc1"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/metrics/resources/essence/pages/otherwhere-x-nala.otherwhere-x-essence.ts","id":"01a0ea7f-7539-732e-8f9b-ea542032956c"}
