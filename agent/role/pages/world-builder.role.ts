@@ -54,6 +54,17 @@ export const worldBuilder = {
     },
     {
       directiveKind: "directive-kind/rule",
+      name: "Address From The Page",
+      act: "Read a page's address in code off that page's slug by importing the page, never as a string.",
+      warrant:
+        "A page landing refuses every body spelling its address, and that refusal undoes the whole landing.",
+      aids: [
+        "A check's settling code and its test both reach a page this way.",
+        "A page not filed yet is imported once it is filed, in the same landing.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
       name: "Yes Or Not Yet",
       act: "Answer a game master's 'may I know X yet?' with yes and the telling, or with not yet alone.",
       warrant: "A reason given for not yet tells the game master what the not yet guards.",
