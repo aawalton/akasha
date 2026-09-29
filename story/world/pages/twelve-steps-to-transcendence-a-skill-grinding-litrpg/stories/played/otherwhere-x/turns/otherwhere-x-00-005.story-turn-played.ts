@@ -10,7 +10,7 @@ export const otherwhereX00005 = {
   position: 5,
   prose: "txt",
   characters: ["character-player/otherwhere-x-nala", "world-character/otherwhere-x-aldous-crane"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     '"None of these. I am from a place so far away that there are no reeve\'s, no tallies, and the roads are made from liquid stone."',
   beats: [
@@ -33,8 +33,9 @@ export const otherwhereX00005 = {
   ],
   issues: [
     '"steps down onto the doorstone" - Aldous settles hard things indoors, not before the green',
+    '"Will you go quiet to the Sheaf and wait for the patrol?" - No Prompt',
   ],
   lore: ["lore/otherwhere-x-aldous-crane", "place/otherwhere-x-harrow"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T18:41:00.000Z",
 } as const satisfies StoryTurnPlayed
