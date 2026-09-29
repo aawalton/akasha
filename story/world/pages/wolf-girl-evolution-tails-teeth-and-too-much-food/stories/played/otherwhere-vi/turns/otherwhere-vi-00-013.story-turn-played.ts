@@ -16,7 +16,7 @@ export const otherwhereVi00013 = {
     "character-other/otherwhere-vi-wat",
     "character-other/otherwhere-vi-burr",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     '"I\'m Nala, I\'m from very far away and not entirely sure how I got here, or where even "here" is. Could you help me get oriented?"',
   beats: [
@@ -52,6 +52,6 @@ export const otherwhereVi00013 = {
     "place/otherwhere-vi-greypine-weald",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
   endsAt: "2026-09-29T12:15:00.000Z",
 } as const satisfies StoryTurnPlayed
