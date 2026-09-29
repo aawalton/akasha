@@ -88,6 +88,18 @@ export const overwhereIvNala = {
       fact: "Her first working of Dimension Magic shows its line in her status, and its spells as found.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She speaks the common tongue with a faint lilt no one in the vale can place.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The tongues of elves, merfolk and goblins are closed to her until she learns them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She has no Identify skill yet, so she sees no one's name or level but her own.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
