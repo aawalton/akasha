@@ -161,6 +161,22 @@ export const otherwhereViiHild = {
         "character-player/otherwhere-vii-nala",
       ],
     },
+    {
+      fact: "The salve stings at first, then cools; it smells of lard and green leaves.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Worked in by day, the salve softens blisters that then tear at the next grip.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Worked in and slept on, the salve has blistered hands sore but whole by morning.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A pot of Hild's salve holds about four dressings for two hands.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
