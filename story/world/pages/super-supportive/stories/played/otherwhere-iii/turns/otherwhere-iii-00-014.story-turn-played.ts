@@ -32,5 +32,6 @@ export const otherwhereIii00014 = {
     'She tucks her pen away and looks at Nala. "What else do you need from me before you go?"',
   ],
   lore: ["place/otherwhere-iii-harbor-house", "lore/otherwhere-iii-priya-raman"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2037-01-31T08:30:00.000Z",
 } as const satisfies StoryTurnPlayed
