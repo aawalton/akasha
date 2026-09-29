@@ -12,7 +12,7 @@ export const overwhereIiPhaarRegion = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The Phaar Region includes Liir and Kesca Isle.",
+      fact: "The Phaar Region includes Liir, Kesca Isle and Phaar Isle.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

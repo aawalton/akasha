@@ -15,5 +15,17 @@ export const overwhereIiKescaIsle = {
       fact: "Kesca Isle's great city is Vodaten.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Kesca Isle lies about a hundred miles south of Liir.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "From Liir the way to Kesca Isle runs over the Gnarl, through the delta, to the port Bephir.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The port city Bephir is also spelled Baphir.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
