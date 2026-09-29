@@ -14,7 +14,7 @@ export const otherwhereIii00024 = {
     "character-other/super-supportive-gorgon",
     "character-other/otherwhere-iii-onn-desveth",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“That is part of why I believe my Earth cannot be too far distant. In my world your world exists as a story in a book, all the way down to the headlines I saw on the news last night. I know a great deal, but filtered through the lens of a story. So far, all of the details from the story have been accurate, but that doesn’t mean I can speak Artonan, even though the main character of the story could speak Artonan. I also suspect specific events could diverge as my actions have ripple effects, similar to a hypothetical time travel scenario.”",
   beats: [
@@ -30,14 +30,14 @@ export const otherwhereIii00024 = {
     '"If my superiors learn a human holds such a book in her head, it will go badly for you."',
     '"And for me, who heard it first." She folds her long hands.',
     '"So I offer you a contract. Private, sealed properly, by a tattooist, with my name on it."',
-    '"You speak of the book, and what it tells, to me alone. To no one else."',
+    '"You speak of the book, and what it tells, to me alone."',
     '"In return, I report you as I found you. Clean. Unregistered. Nothing more."',
     '"And I tell no one of the book." A pause. "I will also give you a place in our spring classes."',
     '"If you refuse, you are free to walk out that door."',
     '"But then I must report all that you told me."',
     '"I would not have you sign today. Take time. Weigh the terms."',
     '"You may bring someone you trust to hear them read. That is your right."',
-    "She takes a card from her sleeve and sets it on the counter beside the enrollment form.",
+    "She takes a card from her sleeve and presses it into Nala's hand.",
   ],
   issues: [
     '"holds it out to you" - beat has her set the card on the counter by the enrollment form',
