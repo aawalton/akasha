@@ -10,7 +10,7 @@ export const otherwhereIx00008 = {
   position: 8,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I grab another glass shard and stab it again",
   beats: [
     "Nala tears another sliver out of her forearm, her fingers slippery and shaking.",
@@ -22,6 +22,6 @@ export const otherwhereIx00008 = {
     "When her sight clears, her hands are shaking badly and her leg will barely answer her.",
     "The stub of glass still stands in its throat, and it is still hanging on, breathing hard.",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T15:39:00.000Z",
 } as const satisfies StoryTurnPlayed
