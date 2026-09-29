@@ -63,6 +63,9 @@ export const metricCharacterResource = {
     "page-type/overwhere-i-stamina",
     "page-type/overwhere-i-reserve",
     "page-type/overwhere-i-purse",
+    "page-type/overwhere-ii-vigour",
+    "page-type/overwhere-ii-reservoir",
+    "page-type/overwhere-ii-purse",
   ],
 
   types: "ts",
