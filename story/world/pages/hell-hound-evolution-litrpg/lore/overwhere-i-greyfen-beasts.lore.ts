@@ -1,0 +1,96 @@
+import type { Lore } from "akasha/story/lore/lore.page-type.types.ts"
+
+export const overwhereIGreyfenBeasts = {
+  id: "01a0ed2a-2f50-7b89-a306-0a7e4298ec76",
+  type: "page-type/lore",
+  slug: "overwhere-i-greyfen-beasts",
+  title: "Greyfen Beasts",
+  world: "world/hell-hound-evolution-litrpg",
+  facts: [
+    {
+      fact: "Rabbits and fen hens of Level 1 to 3 are common all along the Greyfen's edge.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "River Gazellids of Level 6 to 7 graze the reed beds by the streams and flee by swimming.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Blackbriar Brutes of Level 6 to 10 are shaggy black hissing beasts that raid stock.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A Blackbriar Brute pelt fetches four silver, and its fangs two copper each.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Mossgrazers of Level 9 to 15 are hoofed moss-eaters; the whipslash kind lashes with bladed vines.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Mossgrazer meat is good eating, and whipslash vines sell as cord for a silver a bundle.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Grubboars of Level 12 are huge-snouted boars with a strong back kick, hunted for meat and hide.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A Grubboar hide fetches six silver, and its meat feeds a household for a week.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Reedlurkers of Level 8 to 12 are long otter-bodied ambushers with crocodile jaws in the channels.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A reedlurker skin makes waterproof boots and sells for five silver.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Bogmaws of Level 10 to 14 are wagon-sized fen toads that swallow prey from the shallows.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A Bogmaw's poison sac sells to healers and alchemists for a gold.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Chardbarks of Level 10 to 13 are bark-plated beasts of the dry islands, weak between their plates.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Chardbark heartwood burns hot and sells to smiths for two silver a log.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Wild Drakewolves of Level 10 to 16 hunt in packs, herd prey toward water, and see at night.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A Drakewolf hide fetches two gold, and a live Drakewolf pup far more.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Goblin bands live on the fen's dry islands, and the march treats them as vermin.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Mana crystals grow in the roots of drowned pines on the islands.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Kills far below a hunter's own level give that hunter no experience.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Sootjaw, a Level 9 Blackbriar Brute, is the beast raiding Fenwatch now.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ghost-Eye, a Level 21 Drakewolf, leads the strongest pack in the fen.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
+  secrets: "jsonl",
+} as const satisfies Lore
