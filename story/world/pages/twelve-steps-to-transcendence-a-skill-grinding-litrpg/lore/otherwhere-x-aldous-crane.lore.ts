@@ -66,7 +66,11 @@ export const otherwhereXAldousCrane = {
     },
     {
       fact: "Aldous knows the Ford patrol rides through tomorrow and means to hand the stranger to them.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
     },
     {
       fact: "Until the patrol, Aldous would rather keep a stranger fed and watched than drive her off.",
@@ -91,15 +95,28 @@ export const otherwhereXAldousCrane = {
     },
     {
       fact: "Aldous will not put a woman who has done no wrong in the lock-up; that is for drunks and thieves.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
     },
     {
       fact: "Aldous keeps a stranger held till the patrol in his byre loft, the door barred outside.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+        "world-character/otherwhere-x-bess-crane",
+      ],
     },
     {
       fact: "Aldous sits up by his back door the night a stranger sleeps in his byre.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
     },
     {
       fact: "If a held stranger fights or flees, Aldous rings the bell hard and the lock-up follows.",
@@ -171,11 +188,19 @@ export const otherwhereXAldousCrane = {
     },
     {
       fact: "Aldous tells a held stranger plainly that she is held, and why, before any door is barred.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
     },
     {
       fact: "Aldous doesn't press a held stranger the first night; he offers her one private word.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
     },
     {
       fact: "Aldous keeps a word told him in private to himself, unless it puts Harrow in danger.",

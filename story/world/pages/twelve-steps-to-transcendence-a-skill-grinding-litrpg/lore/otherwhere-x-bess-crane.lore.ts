@@ -46,7 +46,12 @@ export const otherwhereXBessCrane = {
     },
     {
       fact: "Bess will not let a held stranger sleep cold: she brings a blanket and a heel of bread to the byre.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-bess-crane",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
     },
     {
       fact: "Bess keeps her dead mother's old clogs by the hearth, and they would fit a small woman.",

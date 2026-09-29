@@ -106,6 +106,14 @@ export const otherwhereXNala = {
         "world-character/otherwhere-x-aldous-crane",
       ],
     },
+    {
+      fact: "Aldous holds Nala for the Ford patrol: no token, no home he can find, and a room that turned.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-x-nala",
+        "world-character/otherwhere-x-aldous-crane",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
