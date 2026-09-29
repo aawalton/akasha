@@ -9,7 +9,7 @@ export const otherwhereViii00008 = {
   partOfCollections: ["story-played/otherwhere-viii"],
   position: 8,
   prose: "txt",
-  characters: ["character-player/otherwhere-viii-nala"],
+  characters: ["character-player/otherwhere-viii-nala", "character-other/otherwhere-viii-hallick"],
   stepStatus: "step-status/reviewers",
   action:
     'I run to catch up with him. "Master, may I have a word? I have knowledge to share with a man of learning. I believe it would help you advance your position at the Institute."',
