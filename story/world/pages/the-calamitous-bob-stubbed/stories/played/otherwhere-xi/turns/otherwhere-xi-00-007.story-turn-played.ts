@@ -7,7 +7,12 @@ export const otherwhereXi00007 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-xi"],
   position: 7,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     '"I think you know that a runaway would be dressed more practically than this. I was at home enjoying a quiet evening with a book, and then I was in the middle of the Waystones. It seems I\'ve been pulled into the schemes of the gods, now I just have to find out why."',
+  lore: [
+    "lore/otherwhere-xi-wenna-ashlar",
+    "place/otherwhere-xi-tavelford",
+    "place/otherwhere-xi-asmirel",
+  ],
 } as const satisfies StoryTurnPlayed
