@@ -4,10 +4,17 @@ export const otherwhereVii00013 = {
   id: "01a0eb14-575b-77cf-86c7-2e63024b6b04",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vii-00-013",
+  ownLength: 187,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vii"],
   position: 13,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/otherwhere-vii-nala",
+    "character-other/otherwhere-vii-joan-reeve",
+    "character-other/otherwhere-vii-hild",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "\"I'm not sure I'll stay forever, but for now I would be grateful for a place to be safe, and glad to contribute what I can.\"",
   beats: [
@@ -23,6 +30,11 @@ export const otherwhereVii00013 = {
     "\"Pick me the wrong ones and they're no good to anyone, so you'll learn them from me first.\"",
     "She waits in the doorway for an answer, the afternoon sun behind her.",
   ],
-  lore: ["lore/otherwhere-vii-hild"],
+  lore: [
+    "lore/otherwhere-vii-hild",
+    "lore/otherwhere-vii-joan-reeve",
+    "lore/otherwhere-vii-nala",
+    "place/otherwhere-vii-ashford",
+  ],
   endsAt: "2026-09-28T12:21:00.000Z",
 } as const satisfies StoryTurnPlayed
