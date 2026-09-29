@@ -63,5 +63,13 @@ export const otherwhereViWenmarch = {
       fact: "The Breinvich pastures draw pilgrims and gawkers to cursed cows that babble riddles.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The temple at Wenmarch heals with light, for silver; it lies two days on past the ford.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-wat",
+      ],
+    },
   ],
 } as const satisfies Place

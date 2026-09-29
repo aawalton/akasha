@@ -207,6 +207,24 @@ export const otherwhereViNala = {
         "character-other/otherwhere-vi-jory-tull",
       ],
     },
+    {
+      fact: "No one is hunting Nala, but she is owned by no village.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-wat",
+        "character-other/otherwhere-vi-jory-tull",
+      ],
+    },
+    {
+      fact: "The burners offer Nala keep for the night watch, then the raft to Brackenford in five days.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-wat",
+        "character-other/otherwhere-vi-jory-tull",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

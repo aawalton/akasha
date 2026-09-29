@@ -126,7 +126,12 @@ export const otherwhereViCustoms = {
     },
     {
       fact: "Guest-right lasts the night and the morning meal; longer means work, pay or the road.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-wat",
+        "character-other/otherwhere-vi-jory-tull",
+      ],
     },
     {
       fact: "A guest owes news of the road, honest answers, and no hand raised under that roof.",

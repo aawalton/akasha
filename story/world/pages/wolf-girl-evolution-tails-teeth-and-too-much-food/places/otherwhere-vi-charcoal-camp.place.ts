@@ -68,11 +68,21 @@ export const otherwhereViCharcoalCamp = {
     },
     {
       fact: "The clamp needs a night watcher to call if it flares; Wat's knees make the night hard on him.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-wat",
+        "character-other/otherwhere-vi-jory-tull",
+      ],
     },
     {
       fact: "A guest who sits the clamp's night watch earns her keep at the camp until the raft goes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-wat",
+        "character-other/otherwhere-vi-jory-tull",
+      ],
     },
     {
       fact: "Five days fed and roofed by the fire would close her sole and bring her HP back to full.",
@@ -80,7 +90,11 @@ export const otherwhereViCharcoalCamp = {
     },
     {
       fact: "The burners hold that a level makes you harder, not whole; a hurt still wants rest and care.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vi-nala",
+        "character-other/otherwhere-vi-wat",
+      ],
     },
     {
       fact: "A raft of charcoal poles lies beached at the camp, to carry the load down to Brackenford.",

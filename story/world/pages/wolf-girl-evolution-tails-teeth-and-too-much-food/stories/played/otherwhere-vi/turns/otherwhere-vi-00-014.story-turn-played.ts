@@ -46,5 +46,6 @@ export const otherwhereVi00014 = {
     "place/otherwhere-vi-wenmarch",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-29T12:35:00.000Z",
 } as const satisfies StoryTurnPlayed
