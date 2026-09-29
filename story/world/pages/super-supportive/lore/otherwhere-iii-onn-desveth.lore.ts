@@ -254,5 +254,9 @@ export const otherwhereIiiOnnDesveth = {
         "character-other/otherwhere-iii-onn-desveth",
       ],
     },
+    {
+      fact: "She knows Esh-erdi by name and rank only, and he has never heard of Nala.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-iii-onn-desveth"],
+    },
   ],
 } as const satisfies Lore
