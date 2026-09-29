@@ -73,6 +73,10 @@ export const otherwhereIiiPriyaRaman = {
       fact: "Priya calls Harbor House from her phone and reserves Nala a bed in her name.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "By day she points Nala to the Uptown library, open nine to five, free and warm.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
