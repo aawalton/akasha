@@ -41,7 +41,7 @@ const HEADED: readonly string[] = [
   "work mid",
 ]
 
-export const PHASE_ROW = z.looseObject({
+const PHASE_ROW = z.looseObject({
   runId: z.string(),
   ranAt: z.string(),
   endedAt: z.string(),
@@ -95,7 +95,7 @@ export function startedAtOf(
   return found ?? madeAt
 }
 
-export function rowOf(ended: Ended, from: number, pickedUp: number | null): PhaseRow {
+function rowOf(ended: Ended, from: number, pickedUp: number | null): PhaseRow {
   const to = ended.endedAt
   const held = pickedUp !== null && pickedUp >= from && pickedUp <= to
   return {
@@ -110,7 +110,7 @@ export function rowOf(ended: Ended, from: number, pickedUp: number | null): Phas
   }
 }
 
-export function playerRowOf(rows: readonly PhaseRow[], ended: Ended): PhaseRow | null {
+function playerRowOf(rows: readonly PhaseRow[], ended: Ended): PhaseRow | null {
   const made = ended.madeAt
   if (made === null || rows.some((one) => one.runId === ended.run)) return null
   let last: PhaseRow | null = null
