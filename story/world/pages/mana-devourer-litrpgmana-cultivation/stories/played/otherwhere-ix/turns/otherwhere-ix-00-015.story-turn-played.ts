@@ -10,7 +10,7 @@ export const otherwhereIx00015 = {
   position: 15,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I take it to the ground and wrestle it back, trying to get at its belly with the blades.",
   beats: [
@@ -29,6 +29,6 @@ export const otherwhereIx00015 = {
     '"the last quill still clamped" - she pulled five spine quills and only one has snapped',
   ],
   lore: ["lore/otherwhere-ix-nala", "lore/otherwhere-ix-shardback"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T15:58:00.000Z",
 } as const satisfies StoryTurnPlayed
