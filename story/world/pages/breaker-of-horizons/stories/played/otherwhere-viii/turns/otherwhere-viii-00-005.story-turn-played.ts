@@ -10,7 +10,7 @@ export const otherwhereViii00005 = {
   position: 5,
   prose: "txt",
   characters: ["character-player/otherwhere-viii-nala", "character-other/otherwhere-viii-maddox"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "\"Thank you, that's very kind. May I know the name of my garden knight? I'm Nala.\"",
   beats: [
     'Nala says, "Thank you, that\'s very kind," and takes the shoes and the coat from him.',
@@ -24,8 +24,9 @@ export const otherwhereViii00005 = {
     "He tells her to turn the cuffs back, and to mind the shoes on the Stair, the steps are worn.",
     "He says to bring the things back any morning; he is here at first light, every day.",
     "He adds that the kitchen on Tanners Row is right on her way, and the porridge is on now.",
-    "Then he nods once, takes up his stick, and goes back along the path toward the benches.",
-    "Nala stands at the park gate under the iron letters, Weir Street running uphill before her.",
+    "Then he nods once, takes up his stick, and goes on along the path toward the far benches.",
+    "Nala is left on the gravel path by her bench, in his coat and shoes, the gate a stone's throw off.",
+    "Past the gate, Weir Street leads up to the police post, Tanners Row and its kitchen, and the Stair.",
   ],
   issues: [
     '"You stand at the park gate under the iron letters" - Leave It Open',
