@@ -10,7 +10,7 @@ export const otherwhereViii00004 = {
   position: 4,
   prose: "txt",
   characters: ["character-player/otherwhere-viii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     '"Sorry, I meant the Institute of course. Still waking up it seems. Point me in the right direction? I\'m not afraid of the hills, give me a chance to clear my head."',
   beats: [
@@ -32,6 +32,6 @@ export const otherwhereViii00004 = {
     "He holds them out to her.",
   ],
   lore: ["place/otherwhere-viii-guildhall", "place/otherwhere-viii-weir-gardens"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T05:55:00.000Z",
 } as const satisfies StoryTurnPlayed
