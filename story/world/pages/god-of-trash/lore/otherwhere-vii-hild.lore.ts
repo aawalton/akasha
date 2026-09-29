@@ -177,6 +177,18 @@ export const otherwhereViiHild = {
       fact: "A pot of Hild's salve holds about four dressings for two hands.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Hild wants a picker to come fed, shod, with salved hands, and to bring nothing but herself.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hild lends her pickers a hooked knife and a flat rush basket, and counts both back at dusk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hild would ask one thing of Nala before morning: to sit an hour with Bet tonight so Joan sleeps.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
