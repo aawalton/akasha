@@ -7,7 +7,7 @@ export const otherwhereXiTimePassing = {
   title: "Time Passing",
   world: "world/the-calamitous-bob-stubbed",
   definition: "when a turn of Otherwhere XI ends, and the day and light it ends in",
-  description: "How far the day has gone where Nala is.",
+  description: "How far the day has gone.",
   settling: {},
   decisions: [
     {

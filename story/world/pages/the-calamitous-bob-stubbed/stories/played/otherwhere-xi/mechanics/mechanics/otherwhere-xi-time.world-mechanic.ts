@@ -6,5 +6,5 @@ export const otherwhereXiTime = {
   slug: "otherwhere-xi-time",
   title: "Time",
   world: "world/the-calamitous-bob-stubbed",
-  description: "The day and hour it is where Nala is.",
+  description: "The day and hour it is.",
 } as const satisfies WorldMechanic
