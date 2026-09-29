@@ -24,6 +24,10 @@ export const superSupportiveSelection = {
       fact: "Children of two non-Avowed are rarely selected; every globie is a statistical miracle.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "No one past seventeen has ever been chosen; the System closes to an adult for good.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
