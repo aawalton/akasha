@@ -34,6 +34,7 @@ export const haremHotelOdile = {
         "lore-disclosure/game-master",
         "character-player/harem-hotel-alan",
         "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-tamsin",
       ],
     },
     {
@@ -43,6 +44,7 @@ export const haremHotelOdile = {
         "character-player/harem-hotel-alan",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-odile",
+        "character-other/harem-hotel-tamsin",
       ],
     },
     {
@@ -51,6 +53,7 @@ export const haremHotelOdile = {
         "lore-disclosure/game-master",
         "character-player/harem-hotel-alan",
         "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-tamsin",
       ],
     },
     {
@@ -74,6 +77,16 @@ export const haremHotelOdile = {
     {
       fact: "On floor 3 Odile is Wren's equal, and wants the masked Lady's approval more than she will say.",
       knowers: ["lore-disclosure/game-master", "character-other/harem-hotel-odile"],
+    },
+    {
+      fact: "Odile is pleased by the Lady's praise more than she lets her mouth show.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-tamsin",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-odile",
+      ],
     },
   ],
   secrets: "jsonl",

@@ -14,6 +14,7 @@ export const haremHotelFloor3 = {
         "character-other/harem-hotel-tamsin",
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -23,6 +24,7 @@ export const haremHotelFloor3 = {
         "character-other/harem-hotel-tamsin",
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -32,6 +34,7 @@ export const haremHotelFloor3 = {
         "character-other/harem-hotel-tamsin",
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -41,6 +44,7 @@ export const haremHotelFloor3 = {
         "character-other/harem-hotel-tamsin",
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -50,6 +54,7 @@ export const haremHotelFloor3 = {
         "character-other/harem-hotel-tamsin",
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -59,6 +64,7 @@ export const haremHotelFloor3 = {
         "character-other/harem-hotel-tamsin",
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -68,6 +74,7 @@ export const haremHotelFloor3 = {
         "character-other/harem-hotel-tamsin",
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -95,6 +102,7 @@ export const haremHotelFloor3 = {
         "character-other/harem-hotel-tamsin",
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -104,6 +112,7 @@ export const haremHotelFloor3 = {
         "character-other/harem-hotel-tamsin",
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -113,6 +122,7 @@ export const haremHotelFloor3 = {
         "character-other/harem-hotel-tamsin",
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -122,6 +132,7 @@ export const haremHotelFloor3 = {
         "character-other/harem-hotel-tamsin",
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -131,6 +142,7 @@ export const haremHotelFloor3 = {
         "character-other/harem-hotel-tamsin",
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -140,6 +152,7 @@ export const haremHotelFloor3 = {
         "character-other/harem-hotel-tamsin",
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -149,6 +162,7 @@ export const haremHotelFloor3 = {
         "character-other/harem-hotel-tamsin",
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -158,6 +172,17 @@ export const haremHotelFloor3 = {
         "character-other/harem-hotel-tamsin",
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
+        "character-player/harem-hotel-alan",
+      ],
+    },
+    {
+      fact: "Alan met floor 3's task, and the mirrored doors opened as every mask came loose.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-tamsin",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-odile",
       ],
     },
   ],

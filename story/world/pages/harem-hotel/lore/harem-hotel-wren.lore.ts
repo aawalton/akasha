@@ -26,6 +26,7 @@ export const haremHotelWren = {
         "lore-disclosure/game-master",
         "character-player/harem-hotel-alan",
         "character-other/harem-hotel-odile",
+        "character-other/harem-hotel-tamsin",
       ],
     },
     {
@@ -42,6 +43,7 @@ export const haremHotelWren = {
         "lore-disclosure/game-master",
         "character-player/harem-hotel-alan",
         "character-other/harem-hotel-odile",
+        "character-other/harem-hotel-tamsin",
       ],
     },
     {
@@ -50,6 +52,7 @@ export const haremHotelWren = {
         "lore-disclosure/game-master",
         "character-player/harem-hotel-alan",
         "character-other/harem-hotel-odile",
+        "character-other/harem-hotel-tamsin",
       ],
     },
     {
@@ -85,6 +88,7 @@ export const haremHotelWren = {
         "character-other/harem-hotel-wren",
         "character-player/harem-hotel-alan",
         "character-other/harem-hotel-odile",
+        "character-other/harem-hotel-tamsin",
       ],
     },
     {
@@ -101,6 +105,8 @@ export const haremHotelWren = {
         "lore-disclosure/game-master",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-odile",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-tamsin",
       ],
     },
   ],
