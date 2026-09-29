@@ -11,4 +11,5 @@ export const otherwhereIv00013 = {
   action:
     '"I\'m afraid I am new to the lands. You would know better than I. Based on the targeting nature of the damage, only affecting Zhao Jun, I would have expected humans as the source, were it not for the tracks. A mortal beast I would not expect to forage the same place every time. However, spirit beasts can have unusual behavior, though they are far more rare. So you have two options, the likely behavior from an unlikely source or the unlikely behavior from a likely source. I cannot tell you which it is in this case, but it would be wise to be ready for both."',
   lore: ["lore/otherwhere-iv-boar-hunt", "place/otherwhere-iv-upstream-woods"],
+  endsAt: "2026-09-28T19:34:00.000Z",
 } as const satisfies StoryTurnPlayed
