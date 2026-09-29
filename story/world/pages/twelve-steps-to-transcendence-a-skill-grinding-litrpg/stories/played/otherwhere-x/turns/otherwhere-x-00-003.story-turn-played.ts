@@ -10,4 +10,5 @@ export const otherwhereX00003 = {
   stepStatus: "step-status/game-master",
   action: '"Hi there, would you mind pointing me in the direction of your parents?"',
   lore: ["place/otherwhere-x-harrow"],
+  endsAt: "2026-09-28T18:27:00.000Z",
 } as const satisfies StoryTurnPlayed
