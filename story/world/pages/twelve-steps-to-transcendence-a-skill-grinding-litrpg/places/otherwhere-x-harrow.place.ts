@@ -42,23 +42,7 @@ export const otherwhereXHarrow = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Martha Deane, a brisk widow, keeps the Sheaf, Harrow's alehouse on the green.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "The Sheaf serves stew, dark bread and small beer, and has a straw-pallet loft above.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "A bowl of stew and bread costs a copper; a night in the loft two copper.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Martha lost her serving girl to a harvest wedding and wants a pair of hands she can trust.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Martha is warm but no fool; she pays in board first and coin once someone proves honest.",
+      fact: "The Sheaf is Harrow's alehouse, on the green.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -157,10 +141,7 @@ export const otherwhereXHarrow = {
       fact: "On day one's evening Old Nan sits by her door on the green, shelling beans.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "On day one's evening Martha Deane is at the Sheaf's hearth with a pot of mutton stew.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "The dusk bell on day one rings at twenty to seven.",
       knowers: ["lore-disclosure/game-master"],
@@ -209,14 +190,7 @@ export const otherwhereXHarrow = {
       fact: "Harrow loves a new tale or song; winter evenings are long and the same stories worn thin.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Martha gives supper and a loft bed for a night's songs or tales that fill the Sheaf.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "The Sheaf supper wants a singer; the fiddler who played it last year died in the spring.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "Bess came from Wexley to wed Aldous twenty years ago and never saw Nala Pike.",
       knowers: ["lore-disclosure/game-master"],
@@ -245,10 +219,7 @@ export const otherwhereXHarrow = {
       fact: "Hob's mam says the howling and hum are nothing; his da went quiet over them.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
     },
-    {
-      fact: "A long thatched building in Harrow has a sheaf of grain painted on its sign and smells of stew.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
-    },
+
     {
       fact: "Hob pens the geese in a woven wattle fold behind the building with the sheaf sign.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
@@ -293,10 +264,7 @@ export const otherwhereXHarrow = {
       fact: "The stout woman at the Cranes' door says anyone on her doorstep gets fed.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
     },
-    {
-      fact: "The Sheaf has wanted a singer since the fiddler died.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
-    },
+
     {
       fact: "Aldous silenced the stout woman with a raised hand, without looking round.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-x-nala"],
@@ -343,6 +311,10 @@ export const otherwhereXHarrow = {
     },
   ],
   exits: [
+    {
+      to: "place/otherwhere-x-the-sheaf",
+      way: "across the green to the long thatched alehouse with the sheaf sign",
+    },
     {
       to: "place/otherwhere-x-harrow-downs",
       way: "south up the sheep track onto the chalk",
