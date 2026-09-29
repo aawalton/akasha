@@ -12,6 +12,10 @@ export const superSupportiveWordchain = {
       fact: "Non-Avowed humans can perform many wordchains; only Avowed can do magic beyond them.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Wordchains are an ancient, simple exchange, closer to contracts than to modern spellcraft.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
