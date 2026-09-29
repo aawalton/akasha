@@ -6,7 +6,7 @@ export const otherwhereXFocus = {
   slug: "otherwhere-x-focus",
   title: "Focus",
   world: "world/twelve-steps-to-transcendence-a-skill-grinding-litrpg",
-  about: "world-mechanic/otherwhere-x-focus",
+  about: "world-skill/otherwhere-x-focus",
   facts: [
     {
       fact: "[Focus] is a mental skill giving cold clarity and suppressing panic, pain and emotion.",
