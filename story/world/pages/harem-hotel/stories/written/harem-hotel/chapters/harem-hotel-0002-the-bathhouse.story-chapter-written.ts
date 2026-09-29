@@ -84,4 +84,5 @@ export const haremHotel0002TheBathhouse = {
     "character-other/harem-hotel-odile",
     "character-player/harem-hotel-alan",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
