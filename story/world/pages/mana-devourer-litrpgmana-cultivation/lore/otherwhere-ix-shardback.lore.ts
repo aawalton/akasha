@@ -210,11 +210,11 @@ export const otherwhereIxShardback = {
     },
     {
       fact: "A dead shardback's blood thickens within minutes; little flows from it after that.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "Shardback blood is dark, gritty and bitter, with a taste of iron and glass.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
       fact: "The smell of an opened shardback carries downwind and draws scavengers within the hour.",

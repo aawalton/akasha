@@ -228,6 +228,18 @@ export const otherwhereIxNala = {
       fact: "Nala has no water and no food.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
+    {
+      fact: "Glassgrass still cuts Nala's skin at Constitution 36, though shallower than before.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "Nala drank a few mouthfuls of shardback blood; it left her mouth salty and her thirstier.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
+    {
+      fact: "Something low is moving through the glassgrass far to the south, toward Nala's kill.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
