@@ -104,8 +104,14 @@ export type Held = {
   readonly prose: string
 }
 
+function partOf(one: Held): string {
+  const prose = one.prose.trim()
+  const heading = headingOf(one.chapter)
+  return prose === "" ? heading : `${heading}\n\n${prose}`
+}
+
 export function joinedFrom(held: readonly Held[]): string {
-  const parts = held.map((one) => `${headingOf(one.chapter)}\n\n${one.prose.trim()}`)
+  const parts = held.map(partOf)
   return `${parts.join("\n\n")}\n`
 }
 
