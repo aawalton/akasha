@@ -66,6 +66,10 @@ export const otherwhereIvUpstreamWoods = {
       fact: "A mortal spear barely breaks Old Tusk's hide; only his own charge onto it, at throat or eye, might.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Fire and loud noise make Old Tusk wary but not afraid; a spear wound would enrage him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
