@@ -160,6 +160,22 @@ export const otherwhereViNala = {
       fact: "At dawn the System told Nala: Night survived. Barely. Most people use a roof.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
+    {
+      fact: "The System answered Nala's shout: Noted. The forest is unmoved.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "Stones have worn through one of Nala's soles, and blood shows in her footprints.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "As Nala walks, the hard spasms ease off and her chest loosens.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "Feeling returns to Nala's feet as burning and to her hands as aching.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

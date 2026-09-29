@@ -10,7 +10,7 @@ export const otherwhereViCharcoalCamp = {
   facts: [
     {
       fact: "The camp sits on flat gravel where the hollow stream runs into the Carrow.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "Its clamp is a mound of pine boughs under turf and ash, smoking slowly and tended day and night.",
@@ -58,15 +58,15 @@ export const otherwhereViCharcoalCamp = {
     },
     {
       fact: "The last hours of the way run open and sunlit; gravel bars lie in the sun from mid-morning.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "Dry sedge and birch bark strip easily on that stretch; wrapped on, they end what bare feet cost.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "A heron fishes the shallows above the junction, and deer tracks cross the gravel every morning.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
   ],
   exits: [
