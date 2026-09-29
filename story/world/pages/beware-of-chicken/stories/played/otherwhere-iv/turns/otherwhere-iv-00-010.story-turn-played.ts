@@ -4,13 +4,14 @@ export const otherwhereIv00010 = {
   id: "01a0ea7c-65c2-75fa-818a-8dd3263b73ef",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-010",
+  cover: "image/image-73ed52b4733e16ff",
   ownLength: 654,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],
   position: 10,
   prose: "txt",
   characters: ["character-player/otherwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: '"I will"',
   beats: [
     '"I will," Nala says.',
@@ -55,6 +56,6 @@ export const otherwhereIv00010 = {
   ],
   lore: ["lore/otherwhere-iv-gu-household", "lore/otherwhere-iv-earth-god-shrine"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T19:05:00.000Z",
 } as const satisfies StoryTurnPlayed
