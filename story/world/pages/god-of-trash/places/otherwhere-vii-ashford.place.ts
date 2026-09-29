@@ -354,6 +354,10 @@ export const otherwhereViiAshford = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "A new wooden bucket costs four pennies; a split stave can be mended by Garrick for one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Agnes Hobb, the woodcutter's widow, is sour since the boar killed her man, and hard on newcomers.",
       knowers: ["lore-disclosure/game-master"],
     },
