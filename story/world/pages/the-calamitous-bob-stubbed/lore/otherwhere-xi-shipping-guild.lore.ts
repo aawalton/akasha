@@ -25,6 +25,10 @@ export const otherwhereXiShippingGuild = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The Fat Seamstress is a guild river ship that plies the Shal from Helock.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The shipping guild keeps its own assassins.",
       knowers: ["lore-disclosure/game-master"],
     },
