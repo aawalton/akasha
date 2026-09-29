@@ -10,7 +10,7 @@ export const otherwhereViii00007 = {
   position: 7,
   prose: "txt",
   characters: ["character-player/otherwhere-viii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I don't try to enter the institute, instead I watch the bakery, watching for either students or teachers that I could catch a conversation with outside.",
   beats: [
@@ -26,7 +26,7 @@ export const otherwhereViii00007 = {
     "He stops at the hatch; the baker already has two rolls in paper for him before he asks.",
     '"There you are, Master," she says, and tells him not to let these go cold on his desk again.',
     "He answers her shortly, counts coins into her hand, and turns toward the Institute's side door.",
-    "A key is already in his hand; the side door is twenty paces from the hatch.",
+    "A key is already in his hand, and the side door is only a little way along the wall.",
   ],
   issues: ['"The side door is twenty paces from the hatch." - No Prompt'],
   lore: ["place/otherwhere-viii-guildhall"],
