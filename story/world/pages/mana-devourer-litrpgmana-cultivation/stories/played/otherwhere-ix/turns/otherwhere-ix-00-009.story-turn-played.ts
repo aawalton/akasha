@@ -10,7 +10,7 @@ export const otherwhereIx00009 = {
   position: 9,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I jam my forearms into its throat, glass and all. Either it will die first or I will, and the other will soon follow.",
   beats: [
@@ -27,6 +27,6 @@ export const otherwhereIx00009 = {
     "Its eyes are half shut, and a thin wet whistle still comes and goes through the torn throat.",
   ],
   lore: ["lore/otherwhere-ix-shardback"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T15:41:00.000Z",
 } as const satisfies StoryTurnPlayed
