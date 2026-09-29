@@ -14,7 +14,11 @@ export const otherwhereViiiTheInstitute = {
     },
     {
       fact: "The side door carries a small sequence that lights the workshop lamps as it opens.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-viii-hallick",
+        "character-player/otherwhere-viii-nala",
+      ],
     },
     {
       fact: "The halls, stairs and office above stay dark until someone lights them by hand.",
