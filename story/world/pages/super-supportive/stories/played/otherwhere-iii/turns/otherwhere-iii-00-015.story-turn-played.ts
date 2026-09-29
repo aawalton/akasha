@@ -11,4 +11,5 @@ export const otherwhereIii00015 = {
   action:
     "\"You've done so much already, I think that's all I need. I need to go to the Artonan Consulate first though, that's just down the red line, right?\"",
   lore: ["place/super-supportive-artonan-consulate-4"],
+  endsAt: "2037-01-31T09:23:00.000Z",
 } as const satisfies StoryTurnPlayed
