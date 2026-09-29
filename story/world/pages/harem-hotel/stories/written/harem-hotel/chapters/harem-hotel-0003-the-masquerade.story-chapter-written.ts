@@ -8,9 +8,9 @@ export const haremHotel0003TheMasquerade = {
   unit: "unit/words",
   title: "The Masquerade",
   story: "story-written/harem-hotel",
-  ownLength: 3065,
+  ownLength: 3090,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "You climb the stairs from the bathhouse in a linen towel, and a slow waltz drifts down to meet you.",
     "The stairs end behind a black velvet curtain, and on a chair there lie evening clothes and a mask.",
