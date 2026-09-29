@@ -4,6 +4,7 @@ export const otherwhereVi00014 = {
   id: "01a0eb13-30c5-74b2-a781-dedc57aee5f4",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vi-00-014",
+  cover: "image/image-23df81eb0cfaadc8",
   ownLength: 323,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],
@@ -46,6 +47,6 @@ export const otherwhereVi00014 = {
     "place/otherwhere-vi-wenmarch",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-29T12:35:00.000Z",
 } as const satisfies StoryTurnPlayed
