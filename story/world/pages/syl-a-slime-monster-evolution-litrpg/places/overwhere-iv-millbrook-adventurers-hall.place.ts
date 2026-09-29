@@ -51,6 +51,50 @@ export const overwhereIvMillbrookAdventurersHall = {
       fact: "The Brookside Four are the only adventurer party based at the hall.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Board pay goes through Ilsa Crane; only a tagged member may take a posted job.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Anyone untagged can still sell jelly, pelts and herbs straight to buyers in town.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Pest slimes: 3 copper for each slime core brought in from farms or the common.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Wolves in the Tangle: 5 copper a wolf pelt, 2 silver for the grey pack leader.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Goblin bounty: 1 silver an ear, 5 silver a hobgoblin, 3 gold for the chief Grakk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Lost sheep: 3 copper a head, from farms on the Tangle's edge.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Herbs for Old Selby: 2 copper a bundle of moonleaf, 5 copper for a frostcap.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The reeve wants a great oak felled and hauled for the mill shaft: 2 silver.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Carters want guards on the east road to Aubrin: 4 silver a guard, eight days round trip.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "No notice mentions Crowstone Quarry; townsfolk call it unlucky and keep away.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A job done well and quickly raises the doer in Ilsa's regard and in the hall's talk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
