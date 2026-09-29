@@ -10,7 +10,7 @@ export const otherwhereXi00009 = {
   position: 9,
   prose: "txt",
   characters: ["character-player/otherwhere-xi-nala", "world-character/otherwhere-xi-wenna-ashlar"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I watch carefully, learn, and work as I can.",
   beats: [
     "Nala watches Wenna's hands, and does what she can.",
@@ -39,6 +39,6 @@ export const otherwhereXi00009 = {
     "lore/otherwhere-xi-wenna-ashlar",
     "place/otherwhere-xi-ashlar-farm",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T09:09:00.000Z",
 } as const satisfies StoryTurnPlayed
