@@ -140,6 +140,26 @@ export const otherwhereViNala = {
       fact: "Nala's thoughts come slow and thick with the cold, as if pushing through cold water.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
+    {
+      fact: "Nala slept the night of day one curled among the cowberry shrubs, with no roof or shelter.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "Nala's shirt and tights dried on her overnight, the cloth stiff with frost on the outside.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "On waking on day two Nala is thirsty and hungry, her mouth dry and her stomach griping.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "After the night Nala can't feel her feet, her hands are numb clubs, and her whole body aches.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "At dawn the System told Nala: Night survived. Barely. Most people use a roof.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
