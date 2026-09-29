@@ -140,12 +140,23 @@ describe("playedReady and playedMaking", () => {
     expect(playedReady([turnPage({ id: "c", position: 1 })])).toHaveLength(1)
   })
 
-  test("the latest turn, while it is being made, says its action and its step", () => {
-    expect(playedMaking([making, read])).toEqual({
+  const seat = (turnState: string): Page =>
+    asPage({ pageTypeSlug: "seat", id: turnState, turnState: `seat-turn-state/${turnState}` })
+
+  test("the latest turn, while a seat of its story works it, says its action and its step", () => {
+    expect(playedMaking([making, read], [seat("ready"), seat("working")])).toEqual({
       slug: "saga-02",
       action: "I open the gate",
       step: "reviewers",
+      said: "The reviewers are working…",
     })
+  })
+
+  test("a game master step no seat of the story is working says the turn has stalled", () => {
+    const mastering = turnPage({ id: "b", position: 2, stepStatus: at("game-master") })
+    const said = "The turn has stalled: the game master is not working on it."
+    expect(playedMaking([mastering, read], [seat("ready"), seat("stopped")])?.said).toBe(said)
+    expect(playedMaking([mastering, read], [])?.said).toBe(said)
   })
 
   test("a turn whose recorders are still working is kept from the reader and is being made", () => {
@@ -157,12 +168,12 @@ describe("playedReady and playedMaking", () => {
       action: "I open the gate",
     })
     expect(playedReady([recording, read]).map((row) => row.id)).toEqual(["a"])
-    expect(playedMaking([recording, read])?.step).toBe("recorders")
+    expect(playedMaking([recording, read], [])?.step).toBe("recorders")
   })
 
   test("nothing is being made once the latest turn is at player", () => {
-    expect(playedMaking([read])).toBeNull()
-    expect(playedMaking([])).toBeNull()
+    expect(playedMaking([read], [])).toBeNull()
+    expect(playedMaking([], [])).toBeNull()
   })
 })
 

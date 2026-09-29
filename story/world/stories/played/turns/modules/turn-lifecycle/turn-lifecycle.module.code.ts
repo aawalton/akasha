@@ -173,10 +173,19 @@ export function bareOf(address: string): string {
   return address.slice(address.lastIndexOf(PARTED) + 1)
 }
 
+function isOf(step: TurnStep): string {
+  return MANY.includes(step) ? "are" : "is"
+}
+
 export function workingSaid(step: TurnStep): string {
   const who = WHO[step]
   const opening = `${who.charAt(0).toUpperCase()}${who.slice(1)}`
-  return `${opening} ${MANY.includes(step) ? "are" : "is"} working…`
+  return `${opening} ${isOf(step)} working…`
+}
+
+export function makingSaid(step: TurnStep, working: boolean): string {
+  if (working) return workingSaid(step)
+  return `The turn has stalled: ${WHO[step]} ${isOf(step)} not working on it.`
 }
 
 export function linesIn(text: string): readonly string[] {

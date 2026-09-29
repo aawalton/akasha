@@ -39,7 +39,6 @@ import {
   turnReadySaid,
 } from "akasha/story/world/stories/played/modules/action-bar-state/action-bar-state.module.code.ts"
 import type { Making } from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
-import { workingSaid } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { type FormEvent, useCallback, useEffect, useRef, useState } from "react"
 
 const POLL_MS = 5000
@@ -221,7 +220,7 @@ export function ActionBar({
           ))}
         </div>
       )}
-      {making === null ? null : <p className={NOTE_LINE}>{workingSaid(making.step)}</p>}
+      {making === null ? null : <p className={NOTE_LINE}>{making.said}</p>}
       <form ref={formAt} onSubmit={onSubmit} className="flex flex-col gap-2">
         {armed === null ? null : <p className={NOTE_LINE}>{ALREADY_SENT}</p>}
         {signedOut ? (

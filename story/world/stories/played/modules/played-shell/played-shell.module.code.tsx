@@ -48,6 +48,8 @@ import {
   PLAYED_CHAPTER_PAGE_TYPE_SLUG,
   PLAYED_CHAPTER_STORY_KEY,
   PLAYED_POSITION_KEY,
+  PLAYED_SEAT_PAGE_TYPE_SLUG,
+  PLAYED_SEAT_STORY_KEY,
   PLAYED_TURN_COLLECTIONS_KEY,
   PLAYED_TURN_PAGE_TYPE_SLUG,
   type PlayedList,
@@ -146,10 +148,19 @@ function PlayedStory({
     }),
     [storyAddress, lists]
   )
+  const seatOptions = useMemo<UsePagesSupabaseOptions>(
+    () => ({
+      pageTypeSlug: PLAYED_SEAT_PAGE_TYPE_SLUG,
+      where: [{ key: PLAYED_SEAT_STORY_KEY, eq: storyAddress }],
+      shape: shapeOf(lists.seats),
+    }),
+    [storyAddress, lists]
+  )
   const chapters = usePages(chapterOptions)
   const turns = usePages(turnOptions)
+  const seats = usePages(seatOptions)
   const ready = useMemo(() => playedReady(turns.rows), [turns.rows])
-  const making = useMemo(() => playedMaking(turns.rows), [turns.rows])
+  const making = useMemo(() => playedMaking(turns.rows, seats.rows), [turns.rows, seats.rows])
 
   const runIsTurns = ready.length > 0
   const runPageTypeSlug = runIsTurns ? PLAYED_TURN_PAGE_TYPE_SLUG : PLAYED_CHAPTER_PAGE_TYPE_SLUG
@@ -236,7 +247,7 @@ function PlayedStory({
     [clock, upcoming, envelope, turnCovers, player, tail, externalId, coordinatorAgent]
   )
 
-  if (chapters.isLoading || turns.isLoading) return null
+  if (chapters.isLoading || turns.isLoading || seats.isLoading) return null
 
   const titleRow = (
     <div className={TITLE_ROW_WIDE}>

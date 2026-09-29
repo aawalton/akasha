@@ -52,6 +52,14 @@ export const playedRows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A story's seats are the seats naming the story as their assignment.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The turn being made is worked while one of the story's seats is working.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The in-game time said is the end time the latest turn at player states, or none if it states none.",
     },

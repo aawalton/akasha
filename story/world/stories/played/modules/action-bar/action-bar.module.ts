@@ -35,6 +35,14 @@ export const actionBar = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That step is said to be worked only while a seat of the story is working.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A step no seat of the story is working is said to have stalled.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An action typed while a turn is being made is refused, and feedback still sends.",
     },
     {
