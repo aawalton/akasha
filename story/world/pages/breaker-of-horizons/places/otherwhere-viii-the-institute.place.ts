@@ -38,7 +38,11 @@ export const otherwhereViiiTheInstitute = {
     },
     {
       fact: "Hallick's bench problem is a lens table: where each thickness of lens throws a lamp's focus.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/otherwhere-viii-hallick",
+        "character-player/otherwhere-viii-nala",
+      ],
     },
     {
       fact: "The table was measured lens by lens over years; its middle rows are sound and its ends blank.",
