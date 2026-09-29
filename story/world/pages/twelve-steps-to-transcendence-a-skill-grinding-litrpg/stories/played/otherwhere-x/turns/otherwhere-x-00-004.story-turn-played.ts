@@ -29,5 +29,6 @@ export const otherwhereX00004 = {
     '"First things. Have you a road token, mistress? A reeve\'s letter, or a stamped tally?"',
   ],
   lore: ["place/otherwhere-x-harrow"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-28T18:31:00.000Z",
 } as const satisfies StoryTurnPlayed
