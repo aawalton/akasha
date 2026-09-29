@@ -25,7 +25,11 @@ export const haremHotelFloor2 = {
     },
     {
       fact: "Past the changing room is a sunken hot pool, waist-deep, lit by oil lamps in wall niches.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-odile",
+      ],
     },
     {
       fact: "The domed ceiling over the hot pool is painted as a night sky, since the tower has none.",
