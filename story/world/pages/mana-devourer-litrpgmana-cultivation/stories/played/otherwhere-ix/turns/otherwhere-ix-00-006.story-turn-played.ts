@@ -10,7 +10,7 @@ export const otherwhereIx00006 = {
   position: 6,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I wrap my thighs around its neck and squeeze with all my strength, working to crush its windpipe.",
   beats: [
@@ -20,12 +20,12 @@ export const otherwhereIx00006 = {
     "Fewer get through the cloth than went into her arms, but they go deep.",
     "She squeezes with everything she has.",
     "Under her legs there is only thick, hard muscle, and it does not give.",
-    "The beast does not choke. It lets go of her calf.",
-    "It wrenches its head round inside her legs and bites again, into her inner thigh above the knee.",
-    "The teeth go in deep, and it hangs on and twists, the same as before.",
-    "Her leg goes hot and then strangely weak, and her grip on it loosens without her meaning it to.",
-    "Blood soaks dark through her tights at the calf and now at the thigh.",
-    "Its throat is turned up against her other knee, bare and working, as it grinds its jaws.",
+    "The beast does not choke, and its jaws stay locked on her calf.",
+    "Squeezed, it thrashes its whole body and wrenches its head hard against the bite.",
+    "The teeth tear deeper into her calf, and it hangs on and twists harder than before.",
+    "Her leg goes hot and then strangely weak, and her thighs loosen without her meaning them to.",
+    "Blood soaks dark through her tights down the length of her calf.",
+    "As it heaves, its throat turns up under her knee, bare and working, just below its locked jaw.",
   ],
   issues: [
     '"It lets go of her calf." - a locked shardback lets go only for failing breath or a snout blow',
