@@ -7,7 +7,7 @@ export const trimFingernails = {
   title: "Trim Fingernails",
   toDoCategory: "health",
   difficulty: "light",
-  toDoDueDate: "2026-09-28",
+  toDoDueDate: "2026-09-29",
   priority: "p3",
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=2MO,4MO",
   toDoSortOrder: 50,
