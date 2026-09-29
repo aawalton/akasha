@@ -38,7 +38,11 @@ export const otherwhereIiiNala = {
     },
     {
       fact: "In this body she calls herself Nala.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+      ],
     },
     {
       fact: "Her body looks about twenty-five, slim, and a head shorter than Alan was.",
@@ -203,6 +207,38 @@ export const otherwhereIiiNala = {
     {
       fact: "Nala rode the Red Line south to Monroe and reached the Artonan Consulate at 9:23 that Saturday.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
+      fact: "Nala told Gorgon she is human, born on no world Earth or the Artonans know of.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+      ],
+    },
+    {
+      fact: "Nala told Gorgon she comes from a world where this world is a story, written in a book.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+      ],
+    },
+    {
+      fact: "Nala told Gorgon she crossed over a few hours ago, by a magic she does not know.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+      ],
+    },
+    {
+      fact: "Nala told Gorgon she knows the 'Arths' compound, wizardry, affixation and his proud line.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iii-nala",
+        "character-other/super-supportive-gorgon",
+      ],
     },
   ],
   secrets: "jsonl",

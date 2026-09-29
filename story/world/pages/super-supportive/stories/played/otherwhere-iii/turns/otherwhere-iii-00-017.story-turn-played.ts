@@ -32,6 +32,6 @@ export const otherwhereIii00017 = {
   ],
   lore: ["lore/super-supportive-gorgon", "place/super-supportive-artonan-consulate-4"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2037-01-31T09:34:00.000Z",
 } as const satisfies StoryTurnPlayed

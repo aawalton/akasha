@@ -101,6 +101,30 @@ export const superSupportiveGorgon = {
       fact: "The name Gorgon is likely a concession to human vocal cords.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "He smelled a great deal of fear on Nala, and told her there was no lie in it.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
+      fact: "At the words 'a proud line' he went utterly still, and his golden bindings stopped swaying.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
+      fact: "His face went blank, and he answered none of Nala's claims, yes or no.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
+      fact: "He told Nala some things are not said aloud inside these walls, to him or anyone there.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
+      fact: "He told Nala the humans call him Gorgon, and that the name will do.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
+    {
+      fact: "He calls her Nala-not-of-this-Earth, and asked what she wants from him.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
