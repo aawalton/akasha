@@ -7,6 +7,6 @@ export const otherwhereVi00017 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],
   position: 17,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action: "I go inside to eat.",
 } as const satisfies StoryTurnPlayed
