@@ -37,8 +37,10 @@ export const otherwhereX00010 = {
   lore: [
     "lore/otherwhere-x-aldous-crane",
     "lore/otherwhere-x-bess-crane",
+    "lore/otherwhere-x-denny-ruck",
     "lore/otherwhere-x-language",
     "lore/otherwhere-x-martha-deane",
+    "lore/otherwhere-x-maud-ferrer",
     "lore/otherwhere-x-nala",
     "lore/otherwhere-x-regional-walls",
     "lore/otherwhere-x-resolution",
@@ -48,8 +50,10 @@ export const otherwhereX00010 = {
     "lore/otherwhere-x-time",
     "place/otherwhere-x-cranes-byre",
     "place/otherwhere-x-harrow-lock-up",
+    "place/otherwhere-x-tarrant-ford",
     "place/otherwhere-x-the-sheaf",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2026-09-28T19:25:00.000Z",
 } as const satisfies StoryTurnPlayed
