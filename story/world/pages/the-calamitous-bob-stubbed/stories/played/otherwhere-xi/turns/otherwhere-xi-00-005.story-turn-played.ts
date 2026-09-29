@@ -4,6 +4,7 @@ export const otherwhereXi00005 = {
   id: "01a0eaab-bd33-7fc5-a004-43ca4cf9e338",
   type: "page-type/story-turn-played",
   slug: "otherwhere-xi-00-005",
+  cover: "image/image-8c1da97f8de5972f",
   ownLength: 354,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-xi"],
@@ -49,5 +50,6 @@ export const otherwhereXi00005 = {
     "lore/otherwhere-xi-tobin-ashlar",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/picture"],
   endsAt: "2026-09-28T07:25:00.000Z",
 } as const satisfies StoryTurnPlayed
