@@ -56,6 +56,13 @@
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-water-shaper.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-wizard-class.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/classes/super-supportive-wright.world-class.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/classes/overwhere-iv-mage.world-class.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/classes/overwhere-iv-ranger.world-class.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/classes/overwhere-iv-riftmancer.world-class.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/classes/overwhere-iv-scout.world-class.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/classes/overwhere-iv-sorcerer.world-class.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/classes/overwhere-iv-spellblade.world-class.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/classes/overwhere-iv-warrior.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/classes/otherwhere-xi-ascender.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/classes/abacus-counter.world-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-class.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/classes/abbot.world-class.ts","typed":true,"deferred":false}

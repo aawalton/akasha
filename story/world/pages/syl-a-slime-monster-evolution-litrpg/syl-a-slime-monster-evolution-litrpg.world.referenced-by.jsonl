@@ -74,6 +74,13 @@
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-vanessa.lore.ts","id":"01a0ed28-60b8-7d5d-a85b-53337a77a8dc"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-vee.lore.ts","id":"01a0ed24-7745-7e6d-be9d-8aeddaeda1c3"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-yuzz.lore.ts","id":"01a0ed2a-017b-7f1c-ae80-8e03643382dd"}
+{"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/classes/overwhere-iv-mage.world-class.ts","id":"01a0ed30-4be6-72cf-bdb5-d1f5a6b38b00"}
+{"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/classes/overwhere-iv-ranger.world-class.ts","id":"01a0ed30-4be7-7458-8ae8-2f273705fadc"}
+{"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/classes/overwhere-iv-riftmancer.world-class.ts","id":"01a0ed30-4be7-75b0-8484-a77e3eeeaf9b"}
+{"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/classes/overwhere-iv-scout.world-class.ts","id":"01a0ed30-4be7-7821-a135-e4a9a510bba4"}
+{"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/classes/overwhere-iv-sorcerer.world-class.ts","id":"01a0ed30-4be7-77e3-87bb-a3014f047207"}
+{"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/classes/overwhere-iv-spellblade.world-class.ts","id":"01a0ed30-4be7-7ec6-b811-a7133b07b6cb"}
+{"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/classes/overwhere-iv-warrior.world-class.ts","id":"01a0ed30-4be7-701e-9c22-2e6a668de0a2"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/skills/overwhere-iv-blink.world-skill.ts","id":"01a0ed1c-03da-7cd2-a410-2c60745860c5"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/skills/overwhere-iv-dimension-magic.world-skill.ts","id":"01a0ed1c-03da-726e-b637-7489b7f4fc01"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/skills/overwhere-iv-personal-rift.world-skill.ts","id":"01a0ed2b-3867-749a-bf4f-bcd3243bde6e"}
