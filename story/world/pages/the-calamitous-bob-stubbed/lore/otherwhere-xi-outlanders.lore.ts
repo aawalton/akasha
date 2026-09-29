@@ -33,7 +33,7 @@ export const otherwhereXiOutlanders = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: 'It goes on: "...you have received the blessing of Maradoc, god of travels and mysteries."',
+      fact: "Viv's greeting also told her she had received the blessing of Maradoc, god of travels.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
