@@ -46,5 +46,6 @@ export const otherwhereIx00010 = {
     "lore/otherwhere-ix-stat-points",
     "lore/otherwhere-ix-status",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T15:43:00.000Z",
 } as const satisfies StoryTurnPlayed
