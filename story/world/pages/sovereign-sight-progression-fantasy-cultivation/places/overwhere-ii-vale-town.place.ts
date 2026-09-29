@@ -79,5 +79,13 @@ export const overwhereIiValeTown = {
       fact: "A Water-soaked burning cart erupted in Seaspray at Vale's south gate during the attack.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Garon Hobbs and Jeren Kalson died when north Vale burned in the Illwrought attack.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Southroad is the straightest, fastest road south out of Vale.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place

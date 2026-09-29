@@ -75,5 +75,25 @@ export const overwhereIiTheVale = {
       fact: "The Vale lies about a hundred miles north of the Gnarl pass by road.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Vale lies on a small northern island.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Vale folk are wary of strangers and Knacks alike.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Sheep in the Vale died of mauling rot after the hound attacks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The temple ruin's Talent stove refills its well from the ambient Sea's touch.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Farms lie along the Southroad, Manion's among them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
