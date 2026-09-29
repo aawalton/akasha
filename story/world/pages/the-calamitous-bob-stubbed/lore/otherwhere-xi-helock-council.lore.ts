@@ -29,6 +29,18 @@ export const otherwhereXiHelockCouncil = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "House Thernsent's hidden branch was an old scandal, some thirty years past.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Noble houses pay strong unaffiliated mages to bear children with vetted partners.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Dorenean clan of practitioners sponsors a school in Helock.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Helock's law is harsh: death by noose or torture, and thieves' hands cut off.",
       knowers: ["lore-disclosure/game-master"],
     },
