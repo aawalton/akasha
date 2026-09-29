@@ -161,8 +161,10 @@ test("a kept file heard is a change to each page whose calculation read it, or t
   readers.kept(new Map([[computed, { files: new Set(), folders: new Set(), pages }]]))
   expect(changesFor(whole, turn, readers)).toEqual([{ pageTypeSlug: "story-played", slug: "a" }])
   expect(changesFor(whole, "/r/stories/b/notes.md", readers)).toEqual([])
-  const named: Target = { kind: "story-played", slugs: new Set(["b"]), computed }
-  expect(changesFor(named, turn, readers)).toEqual([{ pageTypeSlug: "story-played", slug: "b" }])
+  const named: Target = { kind: "story-played", slugs: new Set(["a", "b"]), computed }
+  expect(changesFor(named, turn, readers)).toEqual([{ pageTypeSlug: "story-played", slug: "a" }])
+  const other: Target = { kind: "story-played", slugs: new Set(["b"]), computed: "held/other.ts" }
+  expect(changesFor(other, turn, readers)).toEqual([{ pageTypeSlug: "story-played", slug: "b" }])
 })
 
 test("an event is framed as a named server-sent event", () => {

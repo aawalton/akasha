@@ -197,13 +197,15 @@ function idOf(root: string, one: Changed): string | undefined {
 }
 
 export function changesFor(one: Target, heard: string, readers: Readers): readonly Changed[] {
-  if (one.slugs !== null) return [...one.slugs].map((slug) => ({ pageTypeSlug: one.kind, slug }))
   const pages = readers.reading(one.computed, heard)
-  if (pages === null) return [{ pageTypeSlug: one.kind }]
+  if (pages === null && one.slugs === null) return [{ pageTypeSlug: one.kind }]
+  if (pages === null)
+    return [...(one.slugs ?? [])].map((slug) => ({ pageTypeSlug: one.kind, slug }))
   const found: Changed[] = []
   for (const page of pages) {
     const parted = partedIn(page)
-    if (parted?.pageType === one.kind) found.push({ pageTypeSlug: one.kind, slug: parted.slug })
+    if (parted?.pageType !== one.kind || one.slugs?.has(parted.slug) === false) continue
+    found.push({ pageTypeSlug: one.kind, slug: parted.slug })
   }
   return found
 }
