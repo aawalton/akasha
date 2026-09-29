@@ -9,7 +9,7 @@ export const otherwhereXiJethri = {
   about: "world-character/otherwhere-xi-jethri",
   facts: [
     {
-      fact: "Ser Jethri is a veteran Baranese diplomat, King Erezak's ambassador to Harrak.",
+      fact: "Ser Jethri is a veteran Baranese diplomat, once King Erezak's ambassador to Harrak.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
