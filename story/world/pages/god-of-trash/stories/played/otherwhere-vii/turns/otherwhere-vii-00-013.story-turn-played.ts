@@ -14,7 +14,7 @@ export const otherwhereVii00013 = {
     "character-other/otherwhere-vii-joan-reeve",
     "character-other/otherwhere-vii-hild",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "\"I'm not sure I'll stay forever, but for now I would be grateful for a place to be safe, and glad to contribute what I can.\"",
   beats: [
@@ -28,7 +28,6 @@ export const otherwhereVii00013 = {
     "Hild shifts the basket on her arm. \"Pot's on the shelf. Work it in tonight, mind, or it's wasted.\"",
     "\"And if you're for picking, come to the mill at first light. I'll show you which leaves to take.\"",
     "\"Pick me the wrong ones and they're no good to anyone, so you'll learn them from me first.\"",
-    "She waits in the doorway for an answer, the afternoon sun behind her.",
   ],
   issues: [
     '"She stands in the doorway with the afternoon sun behind her." - Leave It Open',
