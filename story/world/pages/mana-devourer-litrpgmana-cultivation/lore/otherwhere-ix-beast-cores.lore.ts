@@ -53,6 +53,18 @@ export const otherwhereIxBeastCores = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Only a devourer takes a core without touching it; anyone else cuts it out by hand.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A core sits deep in the chest by the heart, wrapped in muscle and fat, warm to the hand.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A core taken from a corpse and washed is whole; it keeps, and buyers weigh it in the hand.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Box: '[D Grade Cryo Core Devoured! Awarding stats based on creature's primary traits:]'",
       knowers: ["lore-disclosure/game-master"],
     },

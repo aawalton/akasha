@@ -33,7 +33,7 @@ export const otherwhereIxSurvival = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "A tom muscle heals crooked; the limb stays weak and slow, and use reopens it.",
+      fact: "A torn muscle heals crooked; the limb stays weak and slow, and hard use reopens it.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

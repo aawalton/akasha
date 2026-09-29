@@ -98,6 +98,38 @@ export const otherwhereIxHarm = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A blow that brings a character to half her health or below leaves a lasting injury.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That injury is named for the part struck: a torn calf, a wrenched shoulder, a cracked rib.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A lasting injury costs two on acts that use that part.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A torn calf costs on walking, running, jumping and keeping her feet.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An injured part pushed hard tears further, costing four and bleeding afresh.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A lasting injury mends in ten days of light use, and each day of hard use adds two.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A draught or Life Mana mends a lasting injury as that page's own rules mend a wound.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A night's sleep restores a tenth of most health, and tended wounds a fifth.",
     },
     {
