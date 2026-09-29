@@ -1,4 +1,3 @@
-import { createHash } from "node:crypto"
 import { readFileSync, statSync } from "node:fs"
 import { join } from "node:path"
 import { editsAt } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
@@ -42,6 +41,13 @@ import {
   summedFor,
   sumsOf,
 } from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
+import {
+  lineBefore,
+  linesIn,
+  type Reading,
+  seedAfter,
+  unmadeLogged,
+} from "akasha/command/pages/story/settle/modules/settle-seeding/settle-seeding.module.code.ts"
 import { storySettle as page } from "akasha/command/pages/story/settle/story-settle.command.ts"
 import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import {
@@ -73,9 +79,6 @@ const CODE = "code"
 const HELD_TS = "ts"
 const JSONL = "jsonl"
 const UTF8 = "utf8"
-const DIGEST = "sha256"
-const HEX = "hex"
-const BREAK = "\n"
 const TAB = "\t"
 const COLLECTIONS = "partOfCollections"
 const POSITION = "position"
@@ -103,6 +106,7 @@ export type Reach = {
   readonly settlingAt: (root: string, check: string) => string | null
   readonly pageAt: (root: string, page: string) => string | null
   readonly keptPageAt: (root: string, agentId: string | null, page: string) => string | null
+  readonly unmadeOf: (root: string, turn: string) => number
 }
 
 export type Roll = {
@@ -177,45 +181,20 @@ const INDEXED: Reach = {
   settlingAt: settlingIndexed,
   pageAt: pathOf,
   keptPageAt: keptPageOf,
+  unmadeOf: (root, turn) => unmadeLogged(root, [turn, outcomesAt(turn) ?? turn]),
 }
 
 export function outcomesAt(turn: string): string | null {
   return besideAt(turn, outcomes.propertySlug, JSONL)
 }
 
-type Reading = (path: string) => string | null
-
-function linesAt(read: Reading, turn: string): readonly string[] {
-  const at = outcomesAt(turn)
-  const kept = at === null ? null : read(at)
-  if (kept === null) return []
-  return kept.split(BREAK).filter((one) => one.trim() !== "")
-}
-
-function rollBefore(read: Reading, turns: readonly Turn[]): string | null {
-  for (const one of turns.toSorted((a, b) => b.position - a.position)) {
-    const line = linesAt(read, one.at).at(-1)
-    if (line !== undefined) return line
-  }
-  return null
-}
-
-function seedAfter(before: string | null, turn: string, place: number): string {
-  if (before === null) return turn
-  return createHash(DIGEST)
-    .update([before, turn, String(place)].join(BREAK))
-    .digest(HEX)
-}
-
-function castFor(
-  read: Reading,
-  turns: readonly Turn[],
-  on: Turn,
-  dice: string | null
-): Held<Cast | null> {
+function castFor(read: Reading, placed: Placed, dice: string | null): Held<Cast | null> {
   if (dice === null) return { answered: null }
-  const before = turns.filter((one) => one.position <= on.position)
-  const seed = seedAfter(rollBefore(read, before), on.slug, linesAt(read, on.at).length)
+  const { turns, on, at, unmade } = placed
+  const before = turns
+    .filter((one) => one.position <= on.position)
+    .map((one) => ({ position: one.position, outcomes: outcomesAt(one.at) }))
+  const seed = seedAfter(lineBefore(read, before), on.slug, linesIn(read, at).length, unmade)
   const thrown = thrownFrom(seed, dice)
   if ("refused" in thrown) return thrown
   return { answered: { ...thrown.answered, seed } }
@@ -248,6 +227,7 @@ type Placed = {
   readonly on: Turn
   readonly at: string
   readonly code: string
+  readonly unmade: number
 }
 
 type Made = { readonly roll: Roll; readonly sums: readonly Summed[] }
@@ -271,7 +251,8 @@ function placedFor(root: string, held: Taken, reach: Reach): Placed | Refusing {
   if (at === null) {
     return { refused: `\`${on.at}\` is no page file, so no outcomes sit beside it`, by: DATA }
   }
-  return { turns, on, at, code }
+  const unmade = held.dice === null ? 0 : reach.unmadeOf(root, on.at)
+  return { turns, on, at, code, unmade }
 }
 
 async function rollMade(
@@ -281,7 +262,7 @@ async function rollMade(
   keptAt: (path: string) => string | null,
   pageAt: (named: string) => string | null
 ): Promise<Made | Refusing> {
-  const cast = castFor(keptAt, placed.turns, placed.on, held.dice)
+  const cast = castFor(keptAt, placed, held.dice)
   if ("refused" in cast) return { refused: cast.refused, by: INPUT }
   const thrown = cast.answered
   const said = await settledAt(join(root, placed.code), held.reading, thrown?.roll ?? null)

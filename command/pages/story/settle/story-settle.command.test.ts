@@ -59,12 +59,13 @@ writeFileSync(
 
 const HER_AT = "pages/her.world-relationship.ts"
 
-function reachOver(turns: readonly Turn[]): Reach {
+function reachOver(turns: readonly Turn[], unmade = 0): Reach {
   return {
     turnsOf: (_root, story) => (story === "the-saga" ? turns : []),
     settlingAt: (_root, check) => (check === "nothing" ? null : `checks/${check}.code.ts`),
     pageAt: (_root, page) => (page === "world-relationship/her" ? HER_AT : null),
     keptPageAt: (_root, _agentId, page) => (page === "world-relationship/kept" ? KEPT_AT : null),
+    unmadeOf: () => unmade,
   }
 }
 
@@ -222,6 +223,23 @@ test("rolls after closed turns ending in the same line are seeded apart", async 
   rmSync(join(ROOT, latest))
   expect(later.seed).toBeDefined()
   expect(later.seed).not.toBe(rollIn(earlier).seed)
+})
+
+test("a turn rewound and settled again rolls from a seed it never rolled", async () => {
+  const at = outcomesAt(LATEST.at)
+  if (at === null) throw new Error("a turn page has outcomes beside it")
+  const bare = rollIn((await settledBy("answering", reachOver([LATEST])))[0] as Appended)
+  writeFileSync(join(ROOT, at), `${JSON.stringify(bare)}\n`)
+  const next = rollIn((await settledBy("answering", reachOver([LATEST])))[0] as Appended)
+  rmSync(join(ROOT, at))
+  const seen = [bare.seed, next.seed]
+  const again = rollIn((await settledBy("answering", reachOver([LATEST], 1)))[0] as Appended)
+  writeFileSync(join(ROOT, at), `${JSON.stringify(again)}\n`)
+  const after = rollIn((await settledBy("answering", reachOver([LATEST], 1)))[0] as Appended)
+  rmSync(join(ROOT, at))
+  expect(bare.seed).toBe(LATEST.slug)
+  expect(seen).not.toContain(again.seed)
+  expect(seen).not.toContain(after.seed)
 })
 
 test("a check answering endsAt states that instant on the turn it settles on", async () => {

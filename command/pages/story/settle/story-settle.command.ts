@@ -7,6 +7,7 @@ export const storySettle = {
   definition: "the command settling a declared action of a played story by a check",
   code: "ts",
   test: "ts",
+  parts: ["module/settle-seeding"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -18,8 +19,7 @@ export const storySettle = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A roll is seeded by the hash of the line before it, its turn and its place on that turn.",
+      statement: "A roll is rolled from the seed the settle-seeding module makes for it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -34,11 +34,7 @@ export const storySettle = {
       decisionKind: "decision-kind/departure",
       statement: "No two rolls of one story are seeded alike.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A roll with no roll before it is seeded by the slug of the turn it is settled on.",
-    },
+
     {
       decisionKind: "decision-kind/absence",
       statement: "No call says the seed a roll is rolled from.",
