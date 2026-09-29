@@ -7,7 +7,8 @@ export const otherwhereIii00015 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
   position: 15,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "\"You've done so much already, I think that's all I need. I need to go to the Artonan Consulate first though, that's just down the red line, right?\"",
+  lore: ["place/super-supportive-artonan-consulate-4"],
 } as const satisfies StoryTurnPlayed
