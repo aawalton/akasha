@@ -7,7 +7,8 @@ export const otherwhereIv00012 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],
   position: 12,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "\"You two look like just kind of strong lads who would do well on a hunt, but I'm afraid that's not up to me. You'll need to talk with Headman Gu and Zhao Jun about that. I have great knowledge, but when it comes to the hunt itself, Headman Gu is more mighty than I.\"",
+  lore: ["lore/otherwhere-iv-gu-household"],
 } as const satisfies StoryTurnPlayed
