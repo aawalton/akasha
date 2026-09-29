@@ -7,7 +7,20 @@ export const otherwhereX00010 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-x"],
   position: 10,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     '"I told you I come from far away, far enough that the tongue of Sulon is not the only tongue. I\'m fluent in a few tongues and can understand several more."',
+  lore: [
+    "lore/otherwhere-x-aldous-crane",
+    "lore/otherwhere-x-language",
+    "lore/otherwhere-x-martha-deane",
+    "lore/otherwhere-x-nala",
+    "lore/otherwhere-x-regional-walls",
+    "lore/otherwhere-x-resolution",
+    "lore/otherwhere-x-skinwalker",
+    "lore/otherwhere-x-standing",
+    "lore/otherwhere-x-the-wider-world",
+    "lore/otherwhere-x-time",
+    "place/otherwhere-x-the-sheaf",
+  ],
 } as const satisfies StoryTurnPlayed
