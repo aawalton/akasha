@@ -184,6 +184,50 @@ export const otherwhereViiiGuildhall = {
       fact: "Each course on the Institute's board has a row of angular marks printed beside its words.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-viii-nala"],
     },
+    {
+      fact: "Hobb's hatch is kept by Wenna Hobb, sixty, round, floury and never short of talk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hobb's sells rolls at 30 bits and plum buns at 50; yesterday's rolls go cheap or free.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Just before seven, a lean man in an ink-stained coat buys two rolls at Hobb's hatch.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He lets himself in at the Institute's side door with his own key, and eats at his desk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Wenna Hobb calls the ink-stained man 'Master', and would name him to anyone who asks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Gil Fenner comes across the square at twenty past seven and unlocks the Institute's gate.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "From quarter past seven apprentices of fifteen to nineteen arrive in grey canvas aprons.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Most apprentices buy a roll at Hobb's and eat it by the gate, waiting for Fenner.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Apprentices' fingertips are stained with scribing ink, and a few have small glyph burns.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Apprentice talk by the gate is of the call-up, a strict master, exams and the Chosen One.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tessa Voyle, seventeen, a chatty second-year apprentice, is always first at the gate.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
