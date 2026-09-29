@@ -6,6 +6,7 @@ export const otherwhereXiAsmirel = {
   slug: "otherwhere-xi-asmirel",
   title: "Asmirel",
   world: "world/the-calamitous-bob-stubbed",
+  within: "place/otherwhere-xi-central-principalities",
   facts: [
     {
       fact: "Asmirel is one of the Central Principalities of Vizim, between Sheem and Sandsong.",
