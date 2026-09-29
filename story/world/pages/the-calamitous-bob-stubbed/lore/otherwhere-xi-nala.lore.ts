@@ -88,6 +88,10 @@ export const otherwhereXiNala = {
       fact: "At sunrise on day one Nala met a shepherd boy, his flock and his grey dog Smoke on the hill road.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
     },
+    {
+      fact: "Nala speaks the local speech as easily as English, though she never learned it.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-xi-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

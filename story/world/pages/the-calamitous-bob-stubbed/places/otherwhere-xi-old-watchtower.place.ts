@@ -54,6 +54,14 @@ export const otherwhereXiOldWatchtower = {
       fact: "The runaways keep one man on watch on the tower top by day, and a fire in the yard by night.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Tobin knows of soldiers at the old tower, and fears they rob travellers.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

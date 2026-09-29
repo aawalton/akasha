@@ -92,11 +92,20 @@ export const otherwhereXiWaystoneShrine = {
     },
     {
       fact: "Hill folk call the ring the Old Waystone; no one in the valley knows who raised it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
     },
     {
       fact: "Hill tales say the waystones are older than the Old Empire and were raised by Maradoc.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+        "world-character/otherwhere-xi-wenna-ashlar",
+      ],
     },
     {
       fact: "The ninth stone fell in a winter storm when Tobin's grandfather was a boy.",
@@ -104,11 +113,19 @@ export const otherwhereXiWaystoneShrine = {
     },
     {
       fact: "Travellers on the hill road sometimes sleep inside the ring for Maradoc's keeping.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
     },
     {
       fact: "Shepherds say the ring hums on still nights, and their dogs will not go inside it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
     },
     {
       fact: "Tobin touches the altar's key each spring before the first climb, as his mother taught him.",
@@ -117,6 +134,30 @@ export const otherwhereXiWaystoneShrine = {
     {
       fact: "Tobin spends the dawn in the fold behind the hill, and climbs to the ring after sunrise.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Old Waystone is also called Maradoc's ring.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
+    },
+    {
+      fact: "Travellers stop at the ring for a safe road and touch the key on the altar.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
+    },
+    {
+      fact: "The fallen stone fell in a storm when Tobin's grandfather was little.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
     },
   ],
   secrets: "jsonl",

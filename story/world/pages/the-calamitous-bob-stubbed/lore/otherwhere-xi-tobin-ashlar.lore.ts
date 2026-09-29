@@ -76,6 +76,46 @@ export const otherwhereXiTobinAshlar = {
       fact: 'Tobin inspects as "[Shepherd: not dangerous. Keeper of flocks. Slinger. Curious. Brave.]"',
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The shepherd boy on the hill road is named Tobin Ashlar.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
+    },
+    {
+      fact: "Tobin is sunburnt, with a mop of black curls and a chipped front tooth.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
+    },
+    {
+      fact: "Tobin wears a sheepskin cloak, wool side in, and carries a sling.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
+    },
+    {
+      fact: "Tobin's voice cracks, and he asks questions without waiting for the answers.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
+    },
+    {
+      fact: "Tobin has a mother, whom he calls Mam.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-xi-nala",
+        "world-character/otherwhere-xi-tobin-ashlar",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

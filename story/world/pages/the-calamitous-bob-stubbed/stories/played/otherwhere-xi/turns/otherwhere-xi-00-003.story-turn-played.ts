@@ -33,6 +33,6 @@ export const otherwhereXi00003 = {
   ],
   lore: ["place/otherwhere-xi-waystone-shrine"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-28T06:25:00.000Z",
 } as const satisfies StoryTurnPlayed
