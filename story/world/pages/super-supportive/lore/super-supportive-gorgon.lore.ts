@@ -32,6 +32,10 @@ export const superSupportiveGorgon = {
       fact: "He keeps his eyes on the desk's security monitors, away from the phones pointed at him.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iii-nala"],
     },
+    {
+      fact: "He senses no trace of the System on Nala, and a faint, new-made strangeness he cannot place.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
