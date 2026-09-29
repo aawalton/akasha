@@ -4,6 +4,7 @@ export const otherwhereXi00010 = {
   id: "01a0eb2c-8f4c-7891-8ca6-9349db92cca1",
   type: "page-type/story-turn-played",
   slug: "otherwhere-xi-00-010",
+  cover: "image/image-c6b21a478ef674c5",
   ownLength: 381,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-xi"],
@@ -43,6 +44,6 @@ export const otherwhereXi00010 = {
     "place/otherwhere-xi-ashlar-farm",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T09:34:00.000Z",
 } as const satisfies StoryTurnPlayed
