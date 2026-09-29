@@ -12,6 +12,10 @@ export const otherwhereIiiOnnDesveth = {
       fact: "Onn-desveth is the Artonan wizard who supervises Consulate 4 and Gorgon.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She is the supervisor once penalized for consorting with a demon; she is courteous to Gorgon.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
