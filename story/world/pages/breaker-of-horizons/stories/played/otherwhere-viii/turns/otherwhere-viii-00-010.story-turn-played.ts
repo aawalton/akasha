@@ -10,7 +10,7 @@ export const otherwhereViii00010 = {
   position: 10,
   prose: "txt",
   characters: ["character-player/otherwhere-viii-nala", "character-other/otherwhere-viii-hallick"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     '"I\'m not familiar with lenses and focuses from experience, but from the mathematics alone, either you are actively trying to trick me or I have a lot to teach you. The obvious answer is that the product of the lines and the focus is inches is a fixed value of one hundred twenty, I can read that off your columns. So, two lines would be sixty inches and fifteen lines would be eight inches. Likewise, you could solve for any case you need with a simple algebraic equation of `L * F = 120`. If you know one, you can calculate the other through simple division. If you were to draw the curve it would be concave in the first quandrant with asymptotes at zero for both the X and Y axes."',
   beats: [
@@ -44,11 +44,17 @@ export const otherwhereViii00010 = {
     "Or both, and there is a small room over the workshop, if she wants a roof of her own.",
     "He stands by the slate with his cold tea, and waits for her answer.",
   ],
+  issues: [
+    '"no focus is written beside them" - the tray lore says most lenses, not all, have no focus written',
+    '"You write the rule itself small in the corner" - the beats hold no written rule in letters',
+    '"Hallick stands still" - Nala has never been told his name',
+    '"three crowns a day, cash" - cash day work pays ~two thirds of 55-90 crowns; a loaf is 1.20',
+  ],
   lore: [
     "lore/otherwhere-viii-nala",
     "lore/otherwhere-viii-scholarship",
     "place/otherwhere-viii-the-institute",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T07:26:00.000Z",
 } as const satisfies StoryTurnPlayed
