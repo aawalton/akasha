@@ -14,7 +14,7 @@ export const otherwhereIii00025 = {
     "character-other/super-supportive-gorgon",
     "character-other/otherwhere-iii-onn-desveth",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“I will exercise my right. I would request Esh-erdi as my trusted witness. He should be on Earth soon to celebrate his inesvul if he isn’t here already. As I am new to this world, he is the only one I would trust.”",
   beats: [
@@ -36,6 +36,6 @@ export const otherwhereIii00025 = {
     "lore/super-supportive-esh",
     "lore/super-supportive-gorgon",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2037-01-31T10:48:00.000Z",
 } as const satisfies StoryTurnPlayed
