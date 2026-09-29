@@ -17,7 +17,11 @@ export const haremHotelFloor2 = {
     },
     {
       fact: "The stairs from the lobby come up into a changing room of cedar benches and white linen towels.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-odile",
+      ],
     },
     {
       fact: "Past the changing room is a sunken hot pool, waist-deep, lit by oil lamps in wall niches.",
