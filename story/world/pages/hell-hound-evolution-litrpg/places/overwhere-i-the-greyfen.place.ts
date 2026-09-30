@@ -53,7 +53,7 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "Since spring the western channels run warm and smell faintly of rotten eggs.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Dead fish float in the western channels, and the reed there grows yellow and brittle.",
