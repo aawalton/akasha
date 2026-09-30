@@ -27,7 +27,7 @@ import {
 } from "akasha/page/ui-store/collection/modules/page-row/page-row.module.code.ts"
 import { useMemo } from "react"
 
-export type ReadViewConfig = {
+type ReadViewConfig = {
   readonly viewConfig: ViewDataJSON | undefined
   readonly ownFilters: readonly ViewFilter[] | undefined
   readonly pending: boolean
