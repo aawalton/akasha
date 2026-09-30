@@ -276,6 +276,10 @@ export const overwhereIiNala = {
       fact: "As the way to First Depth opens, the floor of Nala's well gives, like a step down into colder water.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Below that step a vast, cold, patient dark presses up, and it frightens her a little.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
