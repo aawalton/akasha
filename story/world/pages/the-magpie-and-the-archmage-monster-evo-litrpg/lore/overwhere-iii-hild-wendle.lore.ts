@@ -22,7 +22,12 @@ export const overwhereIiiHildWendle = {
     },
     {
       fact: "A neighbor's farm dog, blighted, bit her left shin; the bite is torn and ringed in purple.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-hild-wendle"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-hild-wendle",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
     },
     {
       fact: "One pull clears Hild's fresh bite, but it is torn and needs a Mending Weave to close.",
