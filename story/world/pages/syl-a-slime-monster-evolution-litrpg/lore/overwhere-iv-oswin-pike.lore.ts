@@ -56,6 +56,18 @@ export const overwhereIvOswinPike = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Oswin has heard Aubrin's great houses buy rare gifts, and a gift that won't be bought is buried.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He knows guild letters in Aubrin pass many hands, and some clerks there are paid by the houses.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Oswin does not know which house, nor what the mage's magic was called.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "After the clear flare the grey watchman caught Nala's eye, nodded to the dark square, went out.",
       knowers: [
         "lore-disclosure/game-master",
