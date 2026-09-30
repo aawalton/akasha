@@ -267,6 +267,10 @@ export const overwhereITheGreyfen = {
       fact: "Held, the two pale blue crystals hum faintly against Nala's mana.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Nala drew the two cold knots up from the drowned pine's root-bound soil with an earth working.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
