@@ -11,4 +11,5 @@ export const overwhereIii00004 = {
   action:
     "“I’m not sure.” I say, and nothing more, still watching the mana currents. I reach out with my intent to see if I can move them around.",
   lore: ["lore/overwhere-iii-nala", "lore/overwhere-iii-tobin-wick"],
+  endsAt: "2026-09-29T17:16:00.000Z",
 } as const satisfies StoryTurnPlayed
