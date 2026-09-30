@@ -92,5 +92,9 @@ export const overwhereIiiNala2 = {
       fact: "Nala carries Brannagh's clay cup of three seed blightstones in her knapsack.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "In her first staff bout a lanky young watchman cracked Nala across the ribs and dropped her.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
