@@ -99,5 +99,9 @@ export const overwhereIiWendleFordFolk = {
       fact: "To Undertow, Tansy's rot is a sour tangle soaked through her arm, threaded deep into her life.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Drained of her own Water, Tansy sinks, and dies within the hour unless it is given back.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

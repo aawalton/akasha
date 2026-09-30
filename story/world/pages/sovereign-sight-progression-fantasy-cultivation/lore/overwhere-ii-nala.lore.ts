@@ -284,6 +284,14 @@ export const overwhereIiNala = {
       fact: "Undertow's first widening lets her draw from anything in its reach, no longer only what she touches.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Undertow's push can pour Water back into a body she has drained, if she keeps the flow gentle.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A thread that is not only rot drags the sick one's own warm life up her arm into her well.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

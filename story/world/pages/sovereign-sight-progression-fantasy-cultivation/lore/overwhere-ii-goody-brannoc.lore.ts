@@ -89,7 +89,7 @@ export const overwhereIiGoodyBrannoc = {
     },
     {
       fact: "Goody's Knack feels Nala's drawing as gooseflesh and a cold sea-smell filling the room.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
   secrets: "jsonl",
