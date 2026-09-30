@@ -4,13 +4,13 @@ export const overwhereI00044 = {
   id: "01a0f3e4-5e9e-706d-b669-94eb9bc3bf2c",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-044",
-  ownLength: 419,
+  ownLength: 398,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 44,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "I gather appropriate sized stones and spend the afternoon creating as many rifled bullets as my mana will allow and as I can conveniently carry and store them in my pack. Then I can back to the inn for the night. In the morning I pick up my boots then start heading toward the wolves. On the way, I use my mana regen to practice scouting techniques, focusing on combinations of air, fire, and water to create lensing effects to see much longer distances. When I get close enough to have a chance of seeing the wolves, I use my best lensing effects to watch for them from a distance, only slowly moving forward until I see them.",
   beats: [
