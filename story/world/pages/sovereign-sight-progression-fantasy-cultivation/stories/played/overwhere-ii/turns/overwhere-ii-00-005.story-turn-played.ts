@@ -4,13 +4,14 @@ export const overwhereIi00005 = {
   id: "01a0f163-4eb7-79dd-b1d4-bd22ee5708b0",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-005",
+  cover: "image/image-a37692d8daea2038",
   ownLength: 278,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 5,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“I’m Nala, I mean you no harm. I’m on a mission but seem to have gotten lost. Could you tell me where I am precisely?”",
   beats: [
@@ -38,6 +39,6 @@ export const overwhereIi00005 = {
     "place/overwhere-ii-wendlemere",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T06:58:00.000Z",
 } as const satisfies StoryTurnPlayed
