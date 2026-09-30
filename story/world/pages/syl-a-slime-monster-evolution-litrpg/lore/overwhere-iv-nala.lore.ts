@@ -128,6 +128,23 @@ export const overwhereIvNala = {
       fact: "Nala bunks in the gatehouse, in Sergeant Holt's curtained corner, with watch kit and boots.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Nala wears watch kit: a knee-length wool tunic, a padded jerkin and rag-stuffed boots.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-wat-barrow",
+        "lore/overwhere-iv-ilsa-crane",
+      ],
+    },
+    {
+      fact: "Ilsa Crane offered to let Nala owe the bronze tag fee against her first slime cores.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-ilsa-crane",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

@@ -45,7 +45,11 @@ export const overwhereIvMillbrookCommon = {
     },
     {
       fact: "Lately more slimes gather on the common each day than the day before.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Some of the new slimes have red cores instead of the usual blue.",
@@ -53,7 +57,11 @@ export const overwhereIvMillbrookCommon = {
     },
     {
       fact: "The townsfolk have noticed the growing slime crowd, and nobody can say why.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "A slime with a red stone followed Nala across the common as far as the water's edge.",

@@ -13,11 +13,15 @@ export const overwhereIvMillbrookAdventurersHall = {
     },
     {
       fact: "The hall is a narrow stone building on the square, with a guild sign over the door.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The job board by the hall door holds pinned notices of work and bounties.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Most jobs on the board are small: pest slimes, wolves, lost sheep, escorts and herbs.",
@@ -37,7 +41,11 @@ export const overwhereIvMillbrookAdventurersHall = {
     },
     {
       fact: "Bronze registration costs one silver, and the new member receives a bronze tag.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Bronze members may take small jobs and are paid through the hall.",
@@ -61,7 +69,11 @@ export const overwhereIvMillbrookAdventurersHall = {
     },
     {
       fact: "Pest slimes: 3 copper for each slime core brought in from farms or the common.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Wolves in the Tangle: 5 copper a wolf pelt, 2 silver for the grey pack leader.",
@@ -125,6 +137,30 @@ export const overwhereIvMillbrookAdventurersHall = {
         "lore-disclosure/game-master",
         "character-player/overwhere-iv-nala",
         "character-other/overwhere-iv-garrett-pell",
+      ],
+    },
+    {
+      fact: "A cloudy fist-sized crystal, cracked across, sits on a shelf behind the hall's counter.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-ilsa-crane",
+      ],
+    },
+    {
+      fact: "Inside the hall are a long counter, a few benches, a hearth and walls papered with notices.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-ilsa-crane",
+      ],
+    },
+    {
+      fact: "Wolf and goblin work at the hall pays better than slimes, and is more dangerous.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-ilsa-crane",
       ],
     },
   ],

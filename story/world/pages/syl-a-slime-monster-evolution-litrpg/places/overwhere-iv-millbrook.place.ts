@@ -29,11 +29,11 @@ export const overwhereIvMillbrook = {
     },
     {
       fact: "Inside the gate a cobbled lane runs up to the market square, the heart of the town.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The inn, the adventurers' hall, a small shrine and the smithy face the market square.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Market day falls every seventh day, when farmers from across the vale fill the square.",
