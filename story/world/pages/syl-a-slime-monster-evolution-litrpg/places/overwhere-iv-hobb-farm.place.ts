@@ -89,11 +89,11 @@ export const overwhereIvHobbFarm = {
     },
     {
       fact: "Hobb has never seen the thief; he guesses a wolf or two from the sheep taken.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Pim once glimpsed two small figures at the far wall at dusk, and took them for village boys.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The two goblins have about nine and twelve health, and wear hide scraps worth a ward of one.",
@@ -109,6 +109,10 @@ export const overwhereIvHobbFarm = {
     },
     {
       fact: "At dusk on day two Bran stiffened and barked hard toward the orchard's far field wall.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Pim's two small figures went on two legs, and ran into the Tangle's trees when he shouted.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],

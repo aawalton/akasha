@@ -293,6 +293,10 @@ export const overwhereIvNala = {
       fact: "Nala cleared the Hobb orchard of slimes on day two and pockets forty more cores from it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Nala told Hobb she thought she could take the sheep thieves if there were fewer than three.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
