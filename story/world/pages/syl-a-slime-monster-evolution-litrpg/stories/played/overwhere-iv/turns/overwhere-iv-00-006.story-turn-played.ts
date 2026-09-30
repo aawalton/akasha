@@ -42,11 +42,12 @@ export const overwhereIv00006 = {
   ],
   lore: [
     "lore/overwhere-iv-brenna-holt",
+    "lore/overwhere-iv-garrett-pell",
     "lore/overwhere-iv-nala",
     "lore/overwhere-iv-rennick-hale",
     "place/overwhere-iv-millbrook-gatehouse",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-29T13:17:00.000Z",
 } as const satisfies StoryTurnPlayed

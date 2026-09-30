@@ -177,6 +177,7 @@
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/places/overwhere-iv-volcano-isle.place.ts","id":"01a0ed2b-bc72-761a-9a3b-d4d301f33ce7"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/places/overwhere-iv-ygdrans-dungeon.place.ts","id":"01a0ed29-ede8-7bc4-a117-139afdc66039"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/characters/overwhere-iv-garrett-pell.character-other.ts","id":"01a0f179-8ef6-7723-8454-d18734d64964"}
+{"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/characters/overwhere-iv-rennick-hale.character-other.ts","id":"01a0f19b-7fcc-779b-9dd8-4f26367c7017"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/mechanics/checks/overwhere-iv-action-check.world-check.ts","id":"01a0ed24-433b-723e-8a41-90c93ca3f7e7"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/mechanics/checks/overwhere-iv-growth.world-check.ts","id":"01a0ed26-8ee1-78a0-ba7d-9ce34212115a"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/mechanics/checks/overwhere-iv-harm.world-check.ts","id":"01a0ed25-39ec-7bd3-8f78-ff33d0f43690"}
@@ -196,6 +197,7 @@
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/mechanics/mechanics/overwhere-iv-survival.world-mechanic.ts","id":"01a0ed28-3fb3-7d91-a8d9-08b474843614"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/mechanics/mechanics/overwhere-iv-time.world-mechanic.ts","id":"01a0ed1e-65a8-7b24-874b-e706e4821168"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/mechanics/relationships/overwhere-iv-garrett-pell.world-relationship.ts","id":"01a0f179-8ef7-7464-9db5-84179ed54352"}
+{"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/mechanics/relationships/overwhere-iv-rennick-hale.world-relationship.ts","id":"01a0f19b-7fcd-7400-98bc-b73ab2f0a5cf"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/mechanics/skills/pages/overwhere-iv-nala-dimension-magic.overwhere-iv-skill.ts","id":"01a0ed1c-3923-7edd-ba55-7a1084277824"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/mechanics/traits/overwhere-iv-nala-untapped-potential.character-trait.ts","id":"01a0ed33-b4a1-71c9-b55e-1268af66967c"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/mechanics/traits/overwhere-iv-untapped-potential.world-trait.ts","id":"01a0ed31-0037-7eac-83a4-aadfe44bde8b"}
