@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0086Vol2Chapter82TheBeast =
   id: "01a0f12a-b852-7922-9dc8-f5e00c9a9fb6",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0086-vol-2-chapter-82-the-beast",
+  ownProgress: 1906,
   position: 86,
   publishedAt: "2025-11-12",
   unit: "unit/words",

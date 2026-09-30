@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0087Vol2Chapter83TheSongOfT
   id: "01a0f12a-b852-7405-8cfa-919434c099fc",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0087-vol-2-chapter-83-the-song-of-two-hearts",
+  ownProgress: 2865,
   position: 87,
   publishedAt: "2025-11-13",
   unit: "unit/words",

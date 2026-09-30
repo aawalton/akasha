@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0085Vol2Chapter81InSearchOf
   id: "01a0f12a-b852-77c8-8353-4337959362fb",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0085-vol-2-chapter-81-in-search-of-the-missing",
+  ownProgress: 2525,
   position: 85,
   publishedAt: "2025-11-12",
   unit: "unit/words",
