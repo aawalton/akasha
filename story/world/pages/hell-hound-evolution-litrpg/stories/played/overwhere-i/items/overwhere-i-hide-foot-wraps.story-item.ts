@@ -7,6 +7,5 @@ export const overwhereIHideFootWraps = {
   title: "Hide Foot-Wraps",
   story: "story-played/overwhere-i",
   character: "character-player/overwhere-i-nala",
-  slot: "item-slot/feet",
   description: "Soft pieces of cured hide wrapped round the feet and tied on with thongs.",
 } as const satisfies StoryItem
