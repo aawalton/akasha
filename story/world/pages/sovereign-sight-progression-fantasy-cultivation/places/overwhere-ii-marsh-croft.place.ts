@@ -36,5 +36,9 @@ export const overwhereIiMarshCroft = {
       fact: "Marsh Croft's one smoky room holds a peat fire, a table, a loft ladder and a box bed.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Marsh Croft is three miles from Wendle Ford.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place

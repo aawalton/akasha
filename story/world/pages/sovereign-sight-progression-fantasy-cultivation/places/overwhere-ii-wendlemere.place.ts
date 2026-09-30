@@ -77,7 +77,7 @@ export const overwhereIiWendlemere = {
     },
     {
       fact: "Threllsnacht was kept a fortnight ago, and the Carrowmouth Charterstone was lit for it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "In the spring thaw, snow still lies on the fells above Wendlemere.",

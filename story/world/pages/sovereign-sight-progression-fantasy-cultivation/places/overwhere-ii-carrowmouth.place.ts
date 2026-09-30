@@ -59,5 +59,9 @@ export const overwhereIiCarrowmouth = {
       fact: "Two Carrowmouth lads took the Chartermark this year.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Carrowmouth lies down on the coast.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place

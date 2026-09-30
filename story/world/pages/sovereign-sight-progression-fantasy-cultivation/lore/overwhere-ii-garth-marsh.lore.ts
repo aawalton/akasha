@@ -117,7 +117,7 @@ export const overwhereIiGarthMarsh = {
     },
     {
       fact: "Garth knows a Charterstone only as where Aspirants take their marks, not as any help for rot.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
   secrets: "jsonl",
