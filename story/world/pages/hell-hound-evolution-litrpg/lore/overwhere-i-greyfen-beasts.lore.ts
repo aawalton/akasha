@@ -319,6 +319,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "The Level 10 reedlurker died on the bank to Nala's hot-wind blast at 10:53 on day 2.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Killing the Level 10 reedlurker raised Nala to Level 4.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
