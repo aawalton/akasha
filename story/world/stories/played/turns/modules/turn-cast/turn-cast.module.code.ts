@@ -1,12 +1,24 @@
 import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
-import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  listedAt,
+  valuesOfType,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { slugOf, textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  slugOf,
+  slugsIn,
+  textAt,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { characterOther } from "akasha/story/world/characters/character-other/character-other.page-type.ts"
 import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
 import { characterStory } from "akasha/story/world/characters/properties/character-story.relation-property.ts"
+import { worldCharacter } from "akasha/story/world/characters/world-character.page-type.ts"
 
 const TYPES: readonly string[] = [characterPlayer.slug, characterOther.slug]
+
+const PAGE_TYPE = "page-type"
+
+const EXTENDS = "extends"
 
 const SLUG = "slug"
 
@@ -42,6 +54,41 @@ export function castIndexed(root: string, story: string): readonly Character[] {
       return [{ address: `${type}${PARTED}${slug}`, title, aliasOf: textAt(one.value, ALIAS_OF) }]
     })
   )
+}
+
+export type Admitted = {
+  readonly types: readonly string[]
+  readonly filed: (address: string) => boolean
+}
+
+function typeOf(address: string): string {
+  return address.slice(0, address.indexOf(PARTED))
+}
+
+function typesUnder(root: string, top: string): readonly string[] {
+  const above = new Map<string, readonly string[]>()
+  for (const one of valuesOfType(root, PAGE_TYPE)) {
+    const slug = textAt(one.value, SLUG)
+    if (slug !== null) above.set(slug, slugsIn(one.value[EXTENDS]))
+  }
+  const reaches = (slug: string, walked: Set<string>): boolean => {
+    if (slug === top) return true
+    if (walked.has(slug)) return false
+    walked.add(slug)
+    return (above.get(slug) ?? []).some((one) => reaches(one, walked))
+  }
+  return [...above.keys()].filter((one) => reaches(one, new Set<string>())).sort()
+}
+
+export function admittedIndexed(root: string): Admitted {
+  return {
+    types: typesUnder(root, worldCharacter.slug),
+    filed: (address) => listedAt(root, typeOf(address), slugOf(address)).length > 0,
+  }
+}
+
+function admittedIn(address: string, admitted: Admitted): boolean {
+  return admitted.types.includes(typeOf(address)) && admitted.filed(address)
 }
 
 function wholeWordIn(text: string, word: string): boolean {
@@ -96,25 +143,31 @@ function proseOf(at: string, textOf: (path: string) => string): string | null {
 export function castKept(
   turn: Casting,
   cast: readonly Character[],
-  textOf: (path: string) => string
+  textOf: (path: string) => string,
+  admitted: Admitted
 ): Readonly<Record<string, unknown>> {
   const ending = turn.value[PROSE]
   const at = typeof ending === "string" ? besideAt(turn.at, PROSE, ending) : null
   const prose = at === null || cast.length === 0 ? null : proseOf(at, textOf)
   if (prose === null) return {}
   const listed = stringsIn(turn.value[CHARACTERS])
-  const added = unlistedIn(prose, listed, cast)
+  const added = unlistedIn(prose, listed, cast).filter((one) => admittedIn(one, admitted))
   return added.length === 0 ? {} : { [CHARACTERS]: [...listed, ...added] }
 }
 
 export function listedRefused(
   prose: string,
   listed: readonly string[],
-  cast: readonly Character[]
+  cast: readonly Character[],
+  admitted: Admitted
 ): string | null {
-  const other = listed.find((one) => !TYPES.includes(one.slice(0, one.lastIndexOf(PARTED))))
-  if (other === undefined) return unlistedRefused(prose, listed, cast)
-  return `a character is of type ${TYPES.join(" or ")}, and \`${other}\` is not; a lore page describing someone is no character`
+  const other = listed.find((one) => !admitted.types.includes(typeOf(one)))
+  if (other !== undefined) {
+    return `\`${other}\` names a \`${typeOf(other)}\`, and a character is a \`${worldCharacter.slug}\` or of a type extending it; a lore page describing someone is no character`
+  }
+  const absent = listed.find((one) => !admitted.filed(one))
+  if (absent !== undefined) return `\`${absent}\` names no page, and a character listed is filed`
+  return unlistedRefused(prose, listed, cast)
 }
 
 export function unlistedRefused(

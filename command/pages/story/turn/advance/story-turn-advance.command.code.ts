@@ -52,6 +52,8 @@ import {
 } from "akasha/story/engine/modules/phase-timing/phase-timing.module.code.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import {
+  type Admitted,
+  admittedIndexed,
   type Character,
   castIndexed,
   castKept,
@@ -158,7 +160,13 @@ export type Timing = (root: string, game: string) => string | null
 
 export type Casting = (root: string, game: string) => readonly Character[]
 
-type Reaching = Reach & { readonly timeCheckOf: Timing; readonly castOf: Casting }
+export type Admitting = (root: string) => Admitted
+
+type Reaching = Reach & {
+  readonly timeCheckOf: Timing
+  readonly castOf: Casting
+  readonly admittedOf: Admitting
+}
 
 function untimedOn(reach: Reaching, root: string, read: Taken, held: Held, turn: Turn) {
   if (read.chapter || held.status !== GAME_MASTER) return null
@@ -209,7 +217,8 @@ async function heldOn(
   const slugs = reviewers.map((one) => one.slug)
   const recorded = recorders.map((one) => one.slug)
   const cast = reach.castOf(given.root, held.game)
-  const said = advanced(held, caller, read.handed, slugs, recorded, cast)
+  const admitted = reach.admittedOf(given.root)
+  const said = advanced(held, caller, read.handed, slugs, recorded, cast, admitted)
   if ("refused" in said) return refused(said.refused, DATA)
   const untimed = untimedOn(reach, given.root, read, held, turn)
   if (untimed !== null) return refused(untimed, DATA)
@@ -227,7 +236,7 @@ async function heldOn(
   if ("refused" in lifted) return back([lifted.refused])
   const own = kept.filter((one) => !lifted.rest.includes(one))
   const textOf = (path: string) => reach.textIn(given.root, path)
-  const recast = read.handed.kind === "prose" ? {} : castKept(turn, cast, textOf)
+  const recast = read.handed.kind === "prose" ? {} : castKept(turn, cast, textOf, admitted)
   const inPlay = reach.loreGathered(given.root, turn, { ...recast, ...said.values })
   const titled = read.title === undefined ? {} : { [TITLE]: read.title }
   const naming: Naming = {
@@ -303,9 +312,15 @@ export async function storyTurnAdvance(
   reach: Reach = REACHED,
   timed: Timed = phaseTimed,
   timing: Timing = timeCheckIndexed,
-  casting: Casting = castIndexed
+  casting: Casting = castIndexed,
+  admitting: Admitting = admittedIndexed
 ): Promise<Answer> {
-  const reaching: Reaching = { ...reach, timeCheckOf: timing, castOf: casting }
+  const reaching: Reaching = {
+    ...reach,
+    timeCheckOf: timing,
+    castOf: casting,
+    admittedOf: admitting,
+  }
   return await answering(
     async (done) => await advancedOn(done, argv, given, landing, reaching, timed)
   )

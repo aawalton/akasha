@@ -5,6 +5,7 @@ import type { Landing } from "akasha/change/runner/pages/mechanical-change-runni
 import { DATA } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
+  type Admitting,
   type Casting,
   storyTurnAdvance,
   type Timed,
@@ -297,13 +298,19 @@ writeFileSync(join(ROOT, "beats.txt"), "Mara opens the gate\n\nThe hall is dark\
 writeFileSync(join(ROOT, "issues.txt"), '"opens" - it was locked\n')
 writeFileSync(join(ROOT, "prose.txt"), "Mara opens the gate.\n")
 
+const ADMITTED = {
+  types: ["world-character", "character-player", "character-other"],
+  filed: () => true,
+}
+
 export async function advancedBy(
   argv: readonly string[],
   reach: Reach,
   landing: Landing = async () => LANDED,
   timed: Timed = () => undefined,
   timing: Timing = () => null,
-  casting: Casting = () => []
+  casting: Casting = () => [],
+  admitting: Admitting = () => ADMITTED
 ) {
   return await storyTurnAdvance(
     ["--turn", `story-turn-played/${SLUG}`, ...argv],
@@ -312,7 +319,8 @@ export async function advancedBy(
     reach,
     timed,
     timing,
-    casting
+    casting,
+    admitting
   )
 }
 

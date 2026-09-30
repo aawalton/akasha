@@ -16,6 +16,7 @@ import { place } from "akasha/story/lore/place/place.page-type.ts"
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
 import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
 import {
+  type Admitted,
   type Character,
   listedRefused,
 } from "akasha/story/world/stories/played/turns/modules/turn-cast/turn-cast.module.code.ts"
@@ -334,11 +335,13 @@ function fromWriter(
   characters: readonly string[],
   reviewers: readonly string[],
   recorders: readonly string[],
-  cast: readonly Character[]
+  cast: readonly Character[],
+  admitted: Admitted
 ): Advanced {
   if (prose.trim() === "")
     return { refused: "a writer's advance hands in prose, and this has none" }
-  const wrong = unaddressed("character", characters) ?? listedRefused(prose, characters, cast)
+  const wrong =
+    unaddressed("character", characters) ?? listedRefused(prose, characters, cast, admitted)
   if (wrong !== null) return { refused: wrong }
   const kept = [...new Set(characters)]
   const written = prose.endsWith(BREAK) ? prose : `${prose}${BREAK}`
@@ -379,7 +382,8 @@ export function advanced(
   handed: Handed,
   reviewers: readonly string[],
   recorders: readonly string[],
-  cast: readonly Character[] = []
+  cast: readonly Character[],
+  admitted: Admitted
 ): Advanced {
   const refused = callerRefused(held, caller)
   if (refused !== null) return { refused }
@@ -398,7 +402,7 @@ export function advanced(
     return fromReviewer(held, handed.reviewer, handed.issues, reviewers, recorders)
   }
   if (handed.kind === "record") return fromRecorder(held, handed.recorder, recorders)
-  return fromWriter(held, handed.prose, handed.characters, reviewers, recorders, cast)
+  return fromWriter(held, handed.prose, handed.characters, reviewers, recorders, cast, admitted)
 }
 
 export function slugAfter(slug: string): string | null {

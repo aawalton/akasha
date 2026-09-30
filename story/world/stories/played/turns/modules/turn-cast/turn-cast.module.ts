@@ -17,6 +17,14 @@ export const turnCast = {
       statement: "A writer's advance lists only characters, and a lore page listed is refused.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A character is a page filed of world-character or of a type extending it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every advance after the writer's adds to the list only a character.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "An advance lands with no check, so a list the advance admits reaches the story.",
     },

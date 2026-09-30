@@ -5,7 +5,10 @@ import { memory } from "akasha/story/recorder/pages/memory.story-recorder.ts"
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
 import { continuity } from "akasha/story/reviewer/pages/continuity.story-reviewer.ts"
 import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
-import type { Character } from "akasha/story/world/stories/played/turns/modules/turn-cast/turn-cast.module.code.ts"
+import type {
+  Admitted,
+  Character,
+} from "akasha/story/world/stories/played/turns/modules/turn-cast/turn-cast.module.code.ts"
 import {
   type Advanced,
   advanced as advancedOver,
@@ -69,15 +72,21 @@ export function heldAt(status: TurnStep, more: Partial<Held> = {}): Held {
   }
 }
 
+const ADMITTED: Admitted = {
+  types: ["world-character", "character-player", "character-other"],
+  filed: (address) => address !== "character-other/nobody",
+}
+
 export function advanced(
   held: Held,
   caller: Caller,
   handed: Handed,
   reviewers: readonly string[],
   recorders: readonly string[] = RECORDING,
-  cast: readonly Character[] = []
+  cast: readonly Character[] = [],
+  admitted: Admitted = ADMITTED
 ): Advanced {
-  return advancedOver(held, caller, handed, reviewers, recorders, cast)
+  return advancedOver(held, caller, handed, reviewers, recorders, cast, admitted)
 }
 
 export function movedOf(said: Advanced): Moved {

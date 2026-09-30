@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  type Admitted,
   type Character,
   castKept,
   listedRefused,
@@ -15,6 +16,11 @@ const CAST: readonly Character[] = [
   { address: NALA, title: "Nala", aliasOf: null },
   { address: ALDO, title: "Aldo Reeve", aliasOf: null },
 ]
+
+const ADMITTED: Admitted = {
+  types: ["world-character", "character-player", "character-other"],
+  filed: (address) => !address.endsWith("-nobody"),
+}
 
 test("a character the prose names by whole title or first name and the advance leaves out is found", () => {
   expect(unlistedIn('"Aldo Reeve. Headman." Nala nods.', [NALA], CAST)).toEqual([ALDO])
@@ -55,20 +61,20 @@ function textOf(prose: string): (path: string) => string {
 
 test("a character filed after the prose, which the prose names, is added to the turn's list", () => {
   const turn = { at: TURN_AT, value: { prose: "txt", characters: [NALA] } }
-  expect(castKept(turn, CAST, textOf("Nala finds Aldo threshing."))).toEqual({
+  expect(castKept(turn, CAST, textOf("Nala finds Aldo threshing."), ADMITTED)).toEqual({
     characters: [NALA, ALDO],
   })
 })
 
 test("a turn whose list already holds every character its prose names is left as it is", () => {
   const turn = { at: TURN_AT, value: { prose: "txt", characters: [NALA, ALDO] } }
-  expect(castKept(turn, CAST, textOf("Nala finds Aldo threshing."))).toEqual({})
+  expect(castKept(turn, CAST, textOf("Nala finds Aldo threshing."), ADMITTED)).toEqual({})
 })
 
 test("a turn with no prose, or a prose file that is not there, adds no character", () => {
-  expect(castKept({ at: TURN_AT, value: {} }, CAST, textOf("Aldo."))).toEqual({})
+  expect(castKept({ at: TURN_AT, value: {} }, CAST, textOf("Aldo."), ADMITTED)).toEqual({})
   const elsewhere = { at: "stories/saga/turns/other.story-turn-played.ts", value: { prose: "txt" } }
-  expect(castKept(elsewhere, CAST, textOf("Aldo."))).toEqual({})
+  expect(castKept(elsewhere, CAST, textOf("Aldo."), ADMITTED)).toEqual({})
 })
 
 test("the refusal names each missing character by its address and quotes no prose", () => {
@@ -80,8 +86,26 @@ test("the refusal names each missing character by its address and quotes no pros
 })
 
 test("a lore page listed as a character is refused by its address, as no character", () => {
-  const said = listedRefused("Nala waits.", [NALA, "lore/saga-aldo-reeve"], CAST)
-  expect(said).toContain("`lore/saga-aldo-reeve` is not")
-  expect(listedRefused("Nala waits.", [NALA, ALDO], CAST)).toBeNull()
-  expect(listedRefused("Nala finds Aldo threshing.", [NALA], CAST)).toContain(ALDO)
+  const said = listedRefused("Nala waits.", [NALA, "lore/saga-aldo-reeve"], CAST, ADMITTED)
+  expect(said).toContain("`lore/saga-aldo-reeve` names a `lore`")
+  expect(said).not.toContain("waits")
+  expect(listedRefused("Nala waits.", [NALA, ALDO], CAST, ADMITTED)).toBeNull()
+  expect(listedRefused("Nala finds Aldo threshing.", [NALA], CAST, ADMITTED)).toContain(ALDO)
+})
+
+test("a page of world-character itself is a character, and an address filing no page is refused", () => {
+  const base = "world-character/saga-crow"
+  expect(listedRefused("Nala waits.", [NALA, base], CAST, ADMITTED)).toBeNull()
+  const absent = "character-other/saga-nobody"
+  expect(listedRefused("Nala waits.", [NALA, absent], CAST, ADMITTED)).toContain(
+    `\`${absent}\` names no page`
+  )
+})
+
+test("a turn's list is kept adding only a filed page of a character type", () => {
+  const cast = [...CAST, { address: "lore/saga-will", title: "Will", aliasOf: null }]
+  const turn = { at: TURN_AT, value: { prose: "txt", characters: [NALA] } }
+  expect(castKept(turn, cast, textOf("Nala finds Will."), ADMITTED)).toEqual({})
+  const unfiled = { types: ADMITTED.types, filed: (one: string) => one !== ALDO }
+  expect(castKept(turn, CAST, textOf("Nala finds Aldo."), unfiled)).toEqual({})
 })
