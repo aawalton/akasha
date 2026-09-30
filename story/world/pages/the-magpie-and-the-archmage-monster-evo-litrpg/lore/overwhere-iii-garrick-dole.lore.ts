@@ -89,7 +89,12 @@ export const overwhereIiiGarrickDole = {
     },
     {
       fact: "A third pull clears Garrick's bite, and a Mending Weave closes it to a long pink seam.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-garrick-dole",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
     },
     {
       fact: "Garrick's son Aled comes down from the farm on market day, and will bring the sheepskin coat.",
