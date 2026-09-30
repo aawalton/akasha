@@ -159,5 +159,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Dray's stone fist threw Nala flat in the first bout; her ribs are bruised but whole.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Dray judges Nala no small Talent, but says she fights like one, and offers another bout.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
