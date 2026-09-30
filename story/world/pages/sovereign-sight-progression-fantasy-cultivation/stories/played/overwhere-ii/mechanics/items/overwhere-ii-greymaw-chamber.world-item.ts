@@ -6,6 +6,5 @@ export const overwhereIiGreymawChamber = {
   slug: "overwhere-ii-greymaw-chamber",
   title: "Greymaw Chamber",
   world: "world/sovereign-sight-progression-fantasy-cultivation",
-  description:
-    "A greymaw's reservoir: a fist-sized knot of polished grey bone, layered like a shell.",
+  description: "A fist-sized knot of polished grey bone, layered like a shell.",
 } as const satisfies WorldItem

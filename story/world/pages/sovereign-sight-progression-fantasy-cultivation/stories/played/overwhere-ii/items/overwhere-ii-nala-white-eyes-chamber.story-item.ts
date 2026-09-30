@@ -8,5 +8,5 @@ export const overwhereIiNalaWhiteEyesChamber = {
   story: "story-played/overwhere-ii",
   character: "character-player/overwhere-ii-nala",
   description:
-    "The pack leader's reservoir: a knot of polished grey bone twice a greymaw's, cracked through but whole.",
+    "A knot of polished grey bone the size of two fists, layered like a shell and cracked through.",
 } as const satisfies StoryItem

@@ -7,7 +7,6 @@ export const overwhereIiNalaGreymawChambers = {
   title: "Greymaw Chamber",
   story: "story-played/overwhere-ii",
   character: "character-player/overwhere-ii-nala",
-  description:
-    "A greymaw's reservoir: a fist-sized knot of polished grey bone, layered like a shell.",
+  description: "A fist-sized knot of polished grey bone, layered like a shell and empty of Water.",
   quantity: 3,
 } as const satisfies StoryItem
