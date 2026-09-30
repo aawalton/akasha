@@ -4,10 +4,17 @@ export const overwhereIv00039 = {
   id: "01a0f441-9bad-7d4a-918c-08234b6b6746",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-039",
+  ownLength: 196,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 39,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iv-nala",
+    "character-other/overwhere-iv-ilsa-crane",
+    "character-other/overwhere-iv-garrett-pell",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "“Sure, it can wait for tomorrow, right?” Assuming so, I then get dinner, sleep, train, and then set out for the new quest.",
   beats: [
@@ -24,6 +31,11 @@ export const overwhereIv00039 = {
     "It leans, plainly, toward a stone byre at the pasture's edge.",
     "Cut straight through, it will come down where it leans. Right across the byre roof.",
   ],
-  lore: ["place/overwhere-iv-reeves-pasture"],
+  lore: [
+    "lore/overwhere-iv-ilsa-crane-2",
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "place/overwhere-iv-reeves-pasture",
+  ],
   endsAt: "2026-10-02T09:15:00.000Z",
 } as const satisfies StoryTurnPlayed
