@@ -4,13 +4,14 @@ export const overwhereIv00007 = {
   id: "01a0f1ac-2e9c-7182-ba15-d79d53235238",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-007",
+  cover: "image/image-5290dedf0184e823",
   ownLength: 406,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 7,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I get changed and then wander over to check out the adventures guild",
   beats: [
     "Behind the curtain Nala changes: the wool tunic, the padded jerkin over it, the rag-stuffed boots.",
@@ -38,9 +39,11 @@ export const overwhereIv00007 = {
   lore: [
     "lore/overwhere-iv-ilsa-crane",
     "lore/overwhere-iv-nala",
+    "place/overwhere-iv-millbrook",
     "place/overwhere-iv-millbrook-adventurers-hall",
+    "place/overwhere-iv-millbrook-common",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-29T13:42:00.000Z",
 } as const satisfies StoryTurnPlayed
