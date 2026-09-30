@@ -1848,7 +1848,6 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/checks/otherwhere-iv-standing.world-check.ts","id":"01a0e9f4-7487-71e7-be4a-57eb862b8b70"}
 {"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/metrics/attributes/skill/otherwhere-iv-skill.page-type.ts","id":"01a0e9f2-33a2-7aea-8e04-8f2eb5b5bf1e"}
 {"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/metrics/resources/health/otherwhere-iv-health.page-type.ts","id":"01a0e9f7-c596-73d9-aee6-f6c71a2ccf28"}
-{"propertySlug":"decision-kind","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/metrics/resources/purse/otherwhere-iv-purse.page-type.ts","id":"01a0e9f3-1922-78de-a215-d8c14dc07dbd"}
 {"propertySlug":"decision-kind","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/checks/otherwhere-viii-action-check.world-check.ts","id":"01a0ea38-49e6-7de7-95e5-1a8b84fca941"}
 {"propertySlug":"decision-kind","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/checks/otherwhere-viii-harm.world-check.ts","id":"01a0ea39-8ec3-7e39-afa7-037e617fa830"}
 {"propertySlug":"decision-kind","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/checks/otherwhere-viii-language.world-check.ts","id":"01a0ea41-26a0-7f8c-b4b3-bedc0179fee3"}
@@ -1866,7 +1865,6 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/metrics/attributes/cultivation/otherwhere-vii-cultivation.page-type.ts","id":"01a0ea36-990a-7bf9-a2bc-a08bfeb77bb7"}
 {"propertySlug":"decision-kind","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/metrics/resources/health/otherwhere-vii-health.page-type.ts","id":"01a0ea31-d3e5-74e1-97f5-73099addad8c"}
 {"propertySlug":"decision-kind","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/metrics/resources/mana/otherwhere-vii-mana.page-type.ts","id":"01a0ea36-990a-7a11-8d05-d6cf476c6071"}
-{"propertySlug":"decision-kind","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/metrics/resources/purse/otherwhere-vii-purse.page-type.ts","id":"01a0ea34-e453-75f3-b6bf-b3b7ba2f47a9"}
 {"propertySlug":"decision-kind","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/checks/overwhere-i-action-check.world-check.ts","id":"01a0ed21-5ed8-7476-8439-ac8b7d7e371d"}
 {"propertySlug":"decision-kind","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/checks/overwhere-i-growth.world-check.ts","id":"01a0ed25-0488-7ca5-9f1f-ce7b5dcf8170"}
 {"propertySlug":"decision-kind","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/checks/overwhere-i-harm.world-check.ts","id":"01a0ed23-989a-7b30-981f-4ddfdf312eff"}
@@ -1944,7 +1942,6 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/stories/played/otherwhere-vi/mechanics/metrics/attributes/stat/otherwhere-vi-stat.page-type.ts","id":"01a0ea43-fec6-77a9-8d00-b0d1be83f00c"}
 {"propertySlug":"decision-kind","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/stories/played/otherwhere-vi/mechanics/metrics/resources/hp/otherwhere-vi-hp.page-type.ts","id":"01a0ea3d-ca8e-7d79-90cd-3499cdb8dfbf"}
 {"propertySlug":"decision-kind","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/stories/played/otherwhere-vi/mechanics/metrics/resources/mp/otherwhere-vi-mp.page-type.ts","id":"01a0ea3d-ca8f-7e7d-b381-ec85f26b807f"}
-{"propertySlug":"decision-kind","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/stories/played/otherwhere-vi/mechanics/metrics/resources/purse/otherwhere-vi-purse.page-type.ts","id":"01a0ea46-98e2-7d5f-81e7-5ec1ed44c5b9"}
 {"propertySlug":"decision-kind","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/stories/played/otherwhere-vi/mechanics/metrics/resources/sp/otherwhere-vi-sp.page-type.ts","id":"01a0ea3d-ca8f-7b92-b15e-8f0b6ddafb10"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-asking/played-asking.module.ts","id":"01a0e86a-1d93-7fc7-8864-8aa95de2706c"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-beside/played-beside.module.ts","id":"01a0a160-1d33-7b41-8c07-5f9a2e6b3d18"}
