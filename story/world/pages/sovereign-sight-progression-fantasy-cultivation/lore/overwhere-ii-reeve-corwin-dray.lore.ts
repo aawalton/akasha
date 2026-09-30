@@ -87,5 +87,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Dray lets no one hunt alone for him till they best him in a bout: her spear against his Stonehand.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "For the hunt Dray pays a silver bar beyond the head bounty, and will put it toward a spear.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
