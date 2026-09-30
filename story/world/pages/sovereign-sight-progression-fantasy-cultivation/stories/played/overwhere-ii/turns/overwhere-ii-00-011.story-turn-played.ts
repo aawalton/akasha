@@ -10,7 +10,7 @@ export const overwhereIi00011 = {
   position: 11,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Thank you, I’ll gladly accept. How far to the Ford? Ten days is a long time. I’d hate to be too late for her. If it’s close, could you take me there now? If it’s far, maybe the ewes tonight and we go in the morning? I hate to ask you to leave your girl, but I suspect I’ll need a guide before they’ll let me see the girl. Or you could introduce me to Goody Braddoc?”",
   beats: [
@@ -39,6 +39,6 @@ export const overwhereIi00011 = {
     "lore/overwhere-ii-spiritual-rot-and-healing",
     "place/overwhere-ii-wendle-ford",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T08:01:00.000Z",
 } as const satisfies StoryTurnPlayed
