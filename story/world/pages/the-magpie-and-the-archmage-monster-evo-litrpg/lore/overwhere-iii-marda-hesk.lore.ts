@@ -214,7 +214,11 @@ export const overwhereIiiMardaHesk = {
     },
     {
       fact: "Watching a seed stone crack to a glowing speck, Marda sits very still, then reaches for her pen.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
   ],
   secrets: "jsonl",
