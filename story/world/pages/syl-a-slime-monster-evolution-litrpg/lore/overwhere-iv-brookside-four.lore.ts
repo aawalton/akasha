@@ -247,5 +247,17 @@ export const overwhereIvBrooksideFour = {
       fact: "Identify shows Wren as Human LV 16, Scout LV 12; Merrit as Human LV 15, Mage LV 13.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Wren has never seen magic cut like Nala's black line, and ties it to the bent crystal light.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Wren will tell Dace alone what she saw, and ask Nala nothing until she has thought on it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Merrit, busy with the slinger, saw only a bough fall, and thinks the recruit got lucky.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
