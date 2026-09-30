@@ -310,7 +310,7 @@ export const overwhereIiNala = {
     },
     {
       fact: "Fine drawing tires Nala's mind, never her Water; after Tansy and Col she wants sleep.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
   secrets: "jsonl",
