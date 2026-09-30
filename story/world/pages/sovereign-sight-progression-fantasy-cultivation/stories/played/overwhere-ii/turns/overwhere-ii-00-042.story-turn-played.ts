@@ -11,4 +11,5 @@ export const overwhereIi00042 = {
   action:
     "“Thank you for the offer, but I expect I’ll need larger challenges than I can find here to grow. If you have any larger issues I can take care of before I go, I’m willing, but after that I’ll be on my way. I’d also like to extract the chambers for the final five wolves ones they are carter back.”",
   lore: ["lore/overwhere-ii-greymaws", "lore/overwhere-ii-reeve-corwin-dray"],
+  endsAt: "2026-09-30T15:13:00.000Z",
 } as const satisfies StoryTurnPlayed
