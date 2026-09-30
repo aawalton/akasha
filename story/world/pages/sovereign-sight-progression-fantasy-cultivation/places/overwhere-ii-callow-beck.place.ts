@@ -22,7 +22,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "At midwinter Ebba saw the snow in the high cwm above her farm melt black in one night.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Since midwinter Ebba's goats will not graze above the beck, and two that strayed never came back.",
