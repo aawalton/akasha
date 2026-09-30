@@ -40,6 +40,7 @@ export const overwhereIii00028 = {
     "To her sight about half the black is gone from the wound. Half is still sunk in the flesh.",
     "Inside, what the draught gave her is mostly spent: enough for one more pull, and little after.",
   ],
+  issues: ['"There\'s enough for one more pull, and little after." - No Prompt'],
   lore: [
     "lore/overwhere-iii-brannagh-tull",
     "lore/overwhere-iii-cleansing-weave",
@@ -48,5 +49,6 @@ export const overwhereIii00028 = {
     "lore/overwhere-iii-ivy-marsh",
     "lore/overwhere-iii-nala",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T18:04:00.000Z",
 } as const satisfies StoryTurnPlayed
