@@ -347,6 +347,14 @@ export const overwhereIiiNala = {
         "character-other/overwhere-iii-dunstan-harrow",
       ],
     },
+    {
+      fact: "Nala told Brannagh she closed the bite, but is still learning.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

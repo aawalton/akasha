@@ -26,7 +26,11 @@ export const overwhereIiiBrannaghTull = {
     },
     {
       fact: "She has treated two townsfolk bitten by blighted beasts; neither wound will close.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
     },
     {
       fact: "She trades in old stories and will tell them for honest help in her garden.",
