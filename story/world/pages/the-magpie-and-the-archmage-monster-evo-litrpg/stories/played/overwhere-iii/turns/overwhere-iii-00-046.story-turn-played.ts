@@ -4,6 +4,7 @@ export const overwhereIii00046 = {
   id: "01a0f482-fe27-78bf-a02c-afbd02fa07f5",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-046",
+  cover: "image/image-20ba7e9dd986a1c1",
   ownLength: 269,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -14,7 +15,7 @@ export const overwhereIii00046 = {
     "character-other/overwhere-iii-pip-carrow",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I go over to Brannagh’s and explain that I’d be happy to fix the scars for free as an act of goodwill, but they come last after injuries and blightstones, and I don’t have much mana to work with. If they have any suggestions for increasing my mana supply or recovery rate, I’m all ears, but otherwise they might have to wait a week or two or schedule with me in advance. I didn’t know they’d be coming today, so I’m already dry from cleansing blightstones.",
   beats: [
@@ -45,6 +46,11 @@ export const overwhereIii00046 = {
     "place/overwhere-iii-wrenwood-crossroads",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-03T13:15:00.000Z",
 } as const satisfies StoryTurnPlayed
