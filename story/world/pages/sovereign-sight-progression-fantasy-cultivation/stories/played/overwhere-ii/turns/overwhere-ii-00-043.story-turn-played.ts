@@ -29,6 +29,7 @@ export const overwhereIi00043 = {
     "A knock sounds at the open door; Anselm stands there, his orange robes still muddy at the hem.",
     'Anselm: "They told me at the green you\'d be here. You said the shrine, once the Reeve was done?"',
   ],
+  issues: ['"I\'ll ask nothing for it" - Plain Negation'],
   lore: [
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-reeve-corwin-dray",
@@ -36,5 +37,6 @@ export const overwhereIi00043 = {
     "place/overwhere-ii-watch-cottage",
     "place/overwhere-ii-whitecombs",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T15:28:00.000Z",
 } as const satisfies StoryTurnPlayed
