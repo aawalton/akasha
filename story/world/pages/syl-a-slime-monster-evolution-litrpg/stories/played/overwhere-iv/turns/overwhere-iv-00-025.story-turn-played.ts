@@ -10,7 +10,7 @@ export const overwhereIv00025 = {
   position: 25,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I walk toward them acting scared and uncertain, and then when the first gets close enough, I use my dimensional stab, aiming for center mass, then turn and chase down the second.",
   beats: [
@@ -37,7 +37,11 @@ export const overwhereIv00025 = {
     "Past five paces or so the feeling fades, like lamplight. But she thinks she could push it out.",
     "The goblin bares its teeth at her, and hisses something in its own tongue.",
   ],
+  issues: [
+    '"a hand from your coat" - Garrett\'s coat lies folded on her gatehouse cot; she wears the jerkin',
+    '"reached for out to the magic\'s full reach" - What It Is',
+  ],
   lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-hobb-farm"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T18:29:00.000Z",
 } as const satisfies StoryTurnPlayed
