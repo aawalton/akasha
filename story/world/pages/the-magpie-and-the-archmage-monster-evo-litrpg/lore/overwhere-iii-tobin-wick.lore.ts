@@ -18,7 +18,7 @@ export const overwhereIiiTobinWick = {
     },
     {
       fact: "He sings as he drives, loudly and off key, and knows the words to three songs.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "He is a widower; his one daughter, Rosie, married a cooper in Thornmere.",
@@ -38,7 +38,7 @@ export const overwhereIiiTobinWick = {
     },
     {
       fact: "He touches the shrine roof for luck each time he passes, as his father did.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "He carries a cudgel under the seat and has never used it on anything bigger than a dog.",
@@ -50,11 +50,11 @@ export const overwhereIiiTobinWick = {
     },
     {
       fact: "He takes a red-haired woman in a man's shirt for someone robbed on the road, and says so.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Today he is bound from Applegarth up the north road to Merrowgate, to sell cider and sleep in town.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",
