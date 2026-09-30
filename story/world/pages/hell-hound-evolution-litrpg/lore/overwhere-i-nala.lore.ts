@@ -145,5 +145,13 @@ export const overwhereINala = {
       fact: "Her level-up stat gains came with a warm rush through her body, leaving her steadier and sharper.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Loosed as wind, Starfall Surge carried Nala fifty yards along the shore in a few heartbeats.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Loosing wind answers cooler than fire and leaves a small cool hollow that fills back in on its own.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore

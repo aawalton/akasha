@@ -75,6 +75,10 @@ export const overwhereIGreyfenFord = {
       fact: "The morning sky over the ford is a pale red, with a small white sun.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Downstream of the ford the bank runs open and stony for fifty yards and more.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

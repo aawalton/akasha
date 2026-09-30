@@ -115,6 +115,10 @@ export const overwhereISootjaw = {
       fact: "On day one Nala burned it through the chest with a beam of fire, and it died in the ford.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Its carcass still smokes in the shallows of Greyfen Ford after Nala's kill.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
