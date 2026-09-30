@@ -174,7 +174,11 @@ export const overwhereIiiMardaHesk = {
     },
     {
       fact: "Marda counts out 10 copper a seed stone, and drops the seeds with tongs into a lead-lined box.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "Hearing Ivy, Garrick and Cob are clean, Marda says the blight work is Nala's now, Purify or no.",
