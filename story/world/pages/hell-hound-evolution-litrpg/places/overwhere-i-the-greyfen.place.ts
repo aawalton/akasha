@@ -233,7 +233,7 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "The den holds one tin token, stamped with a reed sheaf and the name Ewan Dell.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Ewan Dell was one of the two Sallow Hythe reed-cutters Ghost-Eye's pack killed this summer.",
