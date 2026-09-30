@@ -40,5 +40,6 @@ export const overwhereI00020 = {
     "She lets the wind go. The old boar lies on his side in the mud, huge, grey and still.",
   ],
   lore: ["lore/overwhere-i-greyfen-beasts", "lore/overwhere-i-nala", "place/overwhere-i-fenwatch"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-30T07:40:00.000Z",
 } as const satisfies StoryTurnPlayed
