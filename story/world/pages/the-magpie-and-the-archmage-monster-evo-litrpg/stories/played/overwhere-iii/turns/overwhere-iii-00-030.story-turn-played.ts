@@ -4,6 +4,7 @@ export const overwhereIii00030 = {
   id: "01a0f389-8b23-709f-b4cd-b07de66efe42",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-030",
+  cover: "image/image-ff01b08317b27b80",
   ownLength: 222,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -48,6 +49,6 @@ export const overwhereIii00030 = {
     "lore/overwhere-iii-tobin-wick",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-30T18:30:00.000Z",
 } as const satisfies StoryTurnPlayed
