@@ -4,10 +4,13 @@ export const overwhereIi00009 = {
   id: "01a0f18b-3d46-76f3-8e9f-6520e4f8588f",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-009",
+  ownLength: 464,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 9,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Do you have an iron pot or bowl of some sort? I think I can help after all. If not, any container will do.” Once I have one, I try to pull the wrongness out of the girl’s leg and into the container.",
   beats: [
@@ -41,6 +44,7 @@ export const overwhereIi00009 = {
     'His voice comes out rough. "What in the Ancestors\' name are you?"',
   ],
   lore: [
+    "lore/overwhere-ii-garth-marsh",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-spiritual-rot-and-healing",
     "lore/overwhere-ii-wren-marsh",
