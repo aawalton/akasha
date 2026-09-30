@@ -309,7 +309,7 @@ export const overwhereIiNala = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
-      fact: "After Tansy and Col, Nala's Water runs low; a third working today would leave her faint.",
+      fact: "Fine drawing tires Nala's mind, never her Water; after Tansy and Col she wants sleep.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
