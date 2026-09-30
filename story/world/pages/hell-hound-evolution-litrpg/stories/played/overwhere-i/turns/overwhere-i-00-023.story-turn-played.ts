@@ -7,9 +7,17 @@ export const overwhereI00023 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 23,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I make the water blade again and use it to just cut off the tusks, focusing on making it spin even faster and thinner.",
+  beats: [
+    "Nala sits back on her heels and calls up the water disc again above her palm.",
+    "This time she wills it thinner and faster, until it is a hissing blur she can barely see.",
+    "She sets it where the first tusk springs from the jaw. It sinks in almost without a sound.",
+    "In moments the tusk drops into the leaf mould. She turns the head and takes the second.",
+    "Well inside a minute she lets the water fall; the disc spatters across the leaves.",
+    "Both tusks lie in the leaf mould beside her, yellow and curved, each as long as her forearm.",
+  ],
   lore: [
     "lore/overwhere-i-agathe-morrow",
     "lore/overwhere-i-greyfen-beasts",
