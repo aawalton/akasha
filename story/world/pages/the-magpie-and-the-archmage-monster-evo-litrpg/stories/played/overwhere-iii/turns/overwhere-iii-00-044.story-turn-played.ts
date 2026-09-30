@@ -15,7 +15,7 @@ export const overwhereIii00044 = {
     "character-other/overwhere-iii-hild-wendle",
     "character-other/overwhere-iii-marda-hesk",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I spend the day reading Brannagh’s book, going back to the post again to drain my mana whenever it gets close to full, but only after the healing touchup. If I finish the book, I go back to the Post to read more in the bestiary. If I finish cleansing any blightstones, I collect the resulting glimmerstones.",
   beats: [
