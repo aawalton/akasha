@@ -10,6 +10,6 @@ export const overwhereIiiBrannaghTull = {
     "character-player/overwhere-iii-nala",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  relationshipPoints: 0,
+  relationshipPoints: 1,
   unrevealed: true,
 } as const satisfies WorldRelationship
