@@ -15,7 +15,7 @@ export const overwhereIii00028 = {
     "character-other/overwhere-iii-ivy-marsh",
     "character-other/overwhere-iii-garrick-dole",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Okay, I’ll try. I open the potion and take small sips until I have mana to work with again, then go back and use my mending weave on Ivy, this time focusing on a suction mental model instead of stitching, to pull the corruption out of her.”",
   beats: [
@@ -36,9 +36,8 @@ export const overwhereIii00028 = {
     "Nala sets her jaw and pulls again, slower, holding the thread tight against the cold.",
     "This time the black comes. It draws up out of the wound in a dark thread and clots at the lip.",
     "It hardens into a black stone the size of a seed. Brannagh sucks in a breath.",
-    "The cold ache is back in Nala's arm, deeper.",
+    "The cold ache is back in Nala's arm, deeper. Inside, most of what the draught gave her is spent.",
     "To her sight about half the black is gone from the wound. Half is still sunk in the flesh.",
-    "Inside, what the draught gave her is mostly spent: enough for one more pull, and little after.",
   ],
   issues: ['"There\'s enough for one more pull, and little after." - No Prompt'],
   lore: [
