@@ -68,6 +68,22 @@ export const overwhereIvTheTangle = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The club goblin behind the yew on Nala's left is LV 5, with 15 health and a ward of 1.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The other club goblin is LV 2, with 6 health, and hangs back by the penned sheep.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The slinger has 18 health and a ward of 1, and throws from atop the fallen oak.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The hurt scouts are still hurt: the spear one at 4 health, the knife one at 4, both wary.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Hobb's gap's blood trail runs most of a mile in, toward a hollow walled by a fallen oak.",
       knowers: [
         "lore-disclosure/game-master",
