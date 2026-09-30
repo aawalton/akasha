@@ -7,7 +7,8 @@ export const overwhereIv00038 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 38,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Yes, I won’t cast it in town. I could even take solo missions from now on if that would be best. I could have easily taken all five goblins on my own with the new spell.”",
+  lore: ["lore/overwhere-iv-ilsa-crane-2"],
 } as const satisfies StoryTurnPlayed
