@@ -7,9 +7,19 @@ export const overwhereI00054 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 54,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I take the tokens for additional proof and then attune earth and air to scan the content of the den for any remaining wolves.",
+  beats: [
+    "Nala crouches and pulls the tin token out of the mud, and wipes it on her leggings.",
+    "It is stamped with a sheaf of reeds and a name: Ewan Dell.",
+    "She slips the token into her pack for proof.",
+    "She lays a palm on the ground at the den mouth and weaves earth and air into a ripple.",
+    "It spreads into the ground under the roots; hollows come back sharp, living bodies only faintly.",
+    "Three linked hollows lie under the roots, and every one is empty and still.",
+    "Beside the den, down in the drowned pine's roots, the ripple finds two small hard knots.",
+    "They come back hard and cold, colder than the wet earth around them.",
+  ],
   lore: [
     "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-starfall-legacy-2",
