@@ -298,7 +298,12 @@ export const overwhereIiiBrannaghTull = {
     },
     {
       fact: "Brannagh nods at a free second mending: 'Kindness now fills my bench later.'",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-hild-wendle",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
     },
   ],
   secrets: "jsonl",
