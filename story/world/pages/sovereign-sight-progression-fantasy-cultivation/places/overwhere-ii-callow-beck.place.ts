@@ -14,7 +14,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "Ebba Callow, sixty and hard as a gatepost, keeps Callow Beck's goats with her two grandsons.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Ebba knows every goat track on the Whitecombs, and has climbed them since she could walk.",
