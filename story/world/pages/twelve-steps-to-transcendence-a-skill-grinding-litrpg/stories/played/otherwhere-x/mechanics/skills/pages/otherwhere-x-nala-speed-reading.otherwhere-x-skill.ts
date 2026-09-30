@@ -8,4 +8,5 @@ export const otherwhereXNalaSpeedReading = {
   skill: "world-skill/otherwhere-x-speed-reading",
   level: 1,
   rarity: "world-rank/otherwhere-x-common",
+  unrevealed: true,
 } as const satisfies OtherwhereXSkill
