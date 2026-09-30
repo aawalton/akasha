@@ -243,6 +243,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "Through knee-deep marsh the six close 350 yards in about a minute and a half.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A Drakewolf has 35 health and scaled hide warding 2; its bite is a heavy blow and it hamstrings.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
