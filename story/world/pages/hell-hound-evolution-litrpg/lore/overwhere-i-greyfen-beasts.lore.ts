@@ -331,6 +331,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "The Level 12 still sleeps in its den under the alder root, a hundred yards up from the first slide.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Within 30 yards of the first slide the channel holds only eels, small fish and weed; no lurker.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
