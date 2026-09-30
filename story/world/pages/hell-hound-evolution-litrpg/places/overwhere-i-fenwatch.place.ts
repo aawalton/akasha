@@ -268,6 +268,10 @@ export const overwhereIFenwatch = {
       fact: "Hauling the head to the palisade takes some twenty-five minutes and costs her 2 stamina.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The walk from where Nala left the boar's head to the south palisade takes some twenty minutes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
