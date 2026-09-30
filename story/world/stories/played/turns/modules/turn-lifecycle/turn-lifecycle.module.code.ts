@@ -17,7 +17,7 @@ import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts
 import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
 import {
   type Character,
-  unlistedRefused,
+  listedRefused,
 } from "akasha/story/world/stories/played/turns/modules/turn-cast/turn-cast.module.code.ts"
 
 export const TURN_STEPS = [
@@ -338,7 +338,7 @@ function fromWriter(
 ): Advanced {
   if (prose.trim() === "")
     return { refused: "a writer's advance hands in prose, and this has none" }
-  const wrong = unaddressed("character", characters) ?? unlistedRefused(prose, characters, cast)
+  const wrong = unaddressed("character", characters) ?? listedRefused(prose, characters, cast)
   if (wrong !== null) return { refused: wrong }
   const kept = [...new Set(characters)]
   const written = prose.endsWith(BREAK) ? prose : `${prose}${BREAK}`

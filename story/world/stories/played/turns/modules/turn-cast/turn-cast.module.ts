@@ -14,6 +14,14 @@ export const turnCast = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A writer's advance lists only characters, and a lore page listed is refused.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "An advance lands with no check, so a list the advance admits reaches the story.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Prose names a character by the character's whole title or its first word.",
     },
     {

@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   type Character,
   castKept,
+  listedRefused,
   unlistedIn,
   unlistedRefused,
 } from "akasha/story/world/stories/played/turns/modules/turn-cast/turn-cast.module.code.ts"
@@ -76,4 +77,11 @@ test("the refusal names each missing character by its address and quotes no pros
   expect(said).toContain("--character")
   expect(said).not.toContain("threshing")
   expect(unlistedRefused("Nala waits.", [NALA], CAST)).toBeNull()
+})
+
+test("a lore page listed as a character is refused by its address, as no character", () => {
+  const said = listedRefused("Nala waits.", [NALA, "lore/saga-aldo-reeve"], CAST)
+  expect(said).toContain("`lore/saga-aldo-reeve` is not")
+  expect(listedRefused("Nala waits.", [NALA, ALDO], CAST)).toBeNull()
+  expect(listedRefused("Nala finds Aldo threshing.", [NALA], CAST)).toContain(ALDO)
 })

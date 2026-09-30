@@ -6,7 +6,7 @@ import { characterOther } from "akasha/story/world/characters/character-other/ch
 import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
 import { characterStory } from "akasha/story/world/characters/properties/character-story.relation-property.ts"
 
-const TYPES = [characterPlayer.slug, characterOther.slug]
+const TYPES: readonly string[] = [characterPlayer.slug, characterOther.slug]
 
 const SLUG = "slug"
 
@@ -105,6 +105,16 @@ export function castKept(
   const listed = stringsIn(turn.value[CHARACTERS])
   const added = unlistedIn(prose, listed, cast)
   return added.length === 0 ? {} : { [CHARACTERS]: [...listed, ...added] }
+}
+
+export function listedRefused(
+  prose: string,
+  listed: readonly string[],
+  cast: readonly Character[]
+): string | null {
+  const other = listed.find((one) => !TYPES.includes(one.slice(0, one.lastIndexOf(PARTED))))
+  if (other === undefined) return unlistedRefused(prose, listed, cast)
+  return `a character is of type ${TYPES.join(" or ")}, and \`${other}\` is not; a lore page describing someone is no character`
 }
 
 export function unlistedRefused(
