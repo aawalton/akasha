@@ -107,6 +107,10 @@ export const overwhereIAgatheMorrow = {
       fact: "Mornings she keeps the tallies at the Stag's long table while the village is out at work.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She pays the boar bounty as five silver coins from the chest, and sends a cart for the carcass.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
