@@ -243,6 +243,10 @@ export const overwhereITheGreyfen = {
       fact: "Ewan Dell's widow Marta still lives at Sallow Hythe, a fen village a day south of Fenwatch.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The token proves the pack's killings, not Nala's kill; it is no bounty proof.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
