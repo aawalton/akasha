@@ -4,10 +4,13 @@ export const overwhereI00018 = {
   id: "01a0f1d9-0f4b-7721-961b-34be94117c5c",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-018",
+  ownLength: 172,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 18,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "After a good night sleep, I go looking for the bounty board to get the list of potential targets from the source.",
   beats: [
