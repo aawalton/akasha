@@ -7,7 +7,8 @@ export const overwhereIv00017 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 17,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I go to sleep, troubled, then in the morning show up for laps and give it my full effort.",
+  lore: ["place/overwhere-iv-millbrook-gatehouse"],
 } as const satisfies StoryTurnPlayed
