@@ -6,6 +6,6 @@ export const overwhereILeatherPack = {
   slug: "overwhere-i-leather-pack",
   title: "Leather Pack",
   story: "story-played/overwhere-i",
-  place: "place/overwhere-i-fenwatch",
+  character: "character-player/overwhere-i-nala",
   description: "A plain pack of stiff brown leather on two shoulder straps, with a buckled flap.",
 } as const satisfies StoryItem

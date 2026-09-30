@@ -6,7 +6,7 @@ export const overwhereIWoolLeggings = {
   slug: "overwhere-i-wool-leggings",
   title: "Wool Leggings",
   story: "story-played/overwhere-i",
-  place: "place/overwhere-i-fenwatch",
+  character: "character-player/overwhere-i-nala",
   slot: "item-slot/legs",
   description: "Close-fitting leggings of brown homespun wool.",
 } as const satisfies StoryItem

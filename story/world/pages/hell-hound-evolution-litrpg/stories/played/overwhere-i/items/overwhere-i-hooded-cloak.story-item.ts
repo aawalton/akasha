@@ -6,7 +6,7 @@ export const overwhereIHoodedCloak = {
   slug: "overwhere-i-hooded-cloak",
   title: "Hooded Cloak",
   story: "story-played/overwhere-i",
-  place: "place/overwhere-i-fenwatch",
+  character: "character-player/overwhere-i-nala",
   slot: "item-slot/shoulders",
   description: "A hooded cloak of heavy grey-green wool, fastened with a wooden toggle.",
 } as const satisfies StoryItem

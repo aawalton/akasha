@@ -6,7 +6,7 @@ export const overwhereINalaBrutePelt = {
   slug: "overwhere-i-nala-brute-pelt",
   title: "Brute Pelt",
   story: "story-played/overwhere-i",
-  character: "character-player/overwhere-i-nala",
+  place: "place/overwhere-i-fenwatch",
   description:
-    "The raw black hide of a Blackbriar Brute, rolled fur-in, with a burned hole at the chest.",
+    "The black hide of a Blackbriar Brute, burned through at the chest, curing in the tanner's pit to be made into her rug.",
 } as const satisfies StoryItem
