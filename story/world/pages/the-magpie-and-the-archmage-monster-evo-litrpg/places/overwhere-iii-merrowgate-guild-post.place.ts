@@ -36,7 +36,11 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "A temporary registrant may take Copper quests; one quest done earns the Guild ring.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "Board: rats in the Carrow wool store, 30 copper.",
@@ -64,7 +68,11 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "The post keeps a box of old gear; Marda lends a new registrant a plain knife, to be returned.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "A Guild mana signature card is light, smooth and cool, like polished wood.",

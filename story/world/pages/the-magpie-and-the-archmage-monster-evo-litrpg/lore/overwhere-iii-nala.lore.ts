@@ -222,6 +222,30 @@ export const overwhereIiiNala = {
       fact: "Her holy aptitude adds Purify to her skill shop, at 15 glimmerstones.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Asked, Nala said she did not think she had ever healed or purified anything.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
+    {
+      fact: "Nala is on the Guild's books as a temporary registrant, for Copper work.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
+    {
+      fact: "Nala has a plain knife in a worn sheath on loan from Marda, to be brought back.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

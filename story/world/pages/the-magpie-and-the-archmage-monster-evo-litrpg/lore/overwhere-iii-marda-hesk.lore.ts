@@ -34,7 +34,11 @@ export const overwhereIiiMardaHesk = {
     },
     {
       fact: "She would sign a capable stranger on for temporary registration without papers.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "She is worried sick about the blight and has too few hands to fight it.",
@@ -86,11 +90,35 @@ export const overwhereIiiMardaHesk = {
     },
     {
       fact: "Marda has sent three letters to the Thornmere Guild hall for a holy mage; each was set aside.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "She would tell a white-gold stranger plainly: that light is holy, and holy magic purifies blight.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
+    {
+      fact: "Marda has never seen a signature card run through with every other color.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
+    {
+      fact: "Marda means to talk with Nala about the blight once Nala is back from the frostcaps.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
   ],
   secrets: "jsonl",

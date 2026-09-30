@@ -112,6 +112,14 @@ export const overwhereIiiWrenwood = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "The blight in the Wrenwood is getting worse.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

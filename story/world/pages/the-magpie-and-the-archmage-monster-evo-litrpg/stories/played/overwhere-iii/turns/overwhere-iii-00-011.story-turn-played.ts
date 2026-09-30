@@ -28,10 +28,12 @@ export const overwhereIii00011 = {
     "She holds Nala's eyes. \"And when you're back, you and I are going to talk about the blight.\"",
   ],
   lore: [
+    "lore/overwhere-iii-magic",
     "lore/overwhere-iii-marda-hesk",
     "lore/overwhere-iii-nala",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-30T07:18:00.000Z",
 } as const satisfies StoryTurnPlayed
