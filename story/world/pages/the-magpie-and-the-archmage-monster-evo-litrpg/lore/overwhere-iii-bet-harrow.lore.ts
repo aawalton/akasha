@@ -71,7 +71,11 @@ export const overwhereIiiBetHarrow = {
     },
     {
       fact: "Told the work was frostcaps for the post, Bet says Brannagh will be glad of a steady picker.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-bet-harrow",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "To a stray paying her way, Bet sells from the box: tunic 3 copper, cloak 5, stockings 1 a pair.",
