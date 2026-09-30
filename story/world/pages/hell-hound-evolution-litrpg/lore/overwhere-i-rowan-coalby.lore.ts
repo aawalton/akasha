@@ -79,6 +79,10 @@ export const overwhereIRowanCoalby = {
       fact: "Rowan and Sedge wait at the fen edge by the Greyback from mid-afternoon of day 3 till dusk.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Told Ghost-Eye is dead, Rowan goes quiet, then laughs; Sedge's name is cleared for good.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
