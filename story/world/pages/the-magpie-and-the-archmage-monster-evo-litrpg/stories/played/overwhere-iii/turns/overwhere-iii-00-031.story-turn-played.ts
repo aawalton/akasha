@@ -4,10 +4,18 @@ export const overwhereIii00031 = {
   id: "01a0f392-e321-70da-bdfe-a39eefee1669",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-031",
+  ownLength: 129,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 31,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-bet-harrow",
+    "character-other/overwhere-iii-brannagh-tull",
+    "character-other/overwhere-iii-tobin-wick",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "“Did some harvesting for the Post, so I can pay my own way now. I’d happily buy some more clothes if you’re willing to sell cheap.”",
   beats: [
@@ -21,6 +29,12 @@ export const overwhereIii00031 = {
     "She looks Nala over again, closer this time, at the gray in her face.",
     '"And you\'ve not eaten, have you. Mutton and onion pie tonight, new bread. Three copper."',
   ],
-  lore: ["lore/overwhere-iii-bet-harrow"],
+  lore: [
+    "lore/overwhere-iii-bet-harrow",
+    "lore/overwhere-iii-brannagh-tull",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
+    "lore/overwhere-iii-tobin-wick",
+  ],
   endsAt: "2026-09-30T18:35:00.000Z",
 } as const satisfies StoryTurnPlayed
