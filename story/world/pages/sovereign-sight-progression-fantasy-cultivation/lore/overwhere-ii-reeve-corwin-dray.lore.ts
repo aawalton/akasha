@@ -147,5 +147,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Dray yields the moment he is struck true or thrown down; he does not fight on from pride.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Pulled by Undertow, Dray feels a tide drag at him, and knows at once her Talent is no small one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
