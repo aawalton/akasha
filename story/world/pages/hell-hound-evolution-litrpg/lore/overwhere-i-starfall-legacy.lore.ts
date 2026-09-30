@@ -148,5 +148,9 @@ export const overwhereIStarfallLegacy = {
       fact: "A water grip can draw a dead beast down a flooded tunnel and out into the channel; an easy act.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "An air-and-earth weave kicks the ground back under each stride: a horse's gallop on firm ground.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
