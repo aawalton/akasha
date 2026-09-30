@@ -82,6 +82,15 @@ export const overwhereIiiPipCarrow = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "Asked the healer's name, Pip gets it from Marda at the desk: Nala.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-pip-carrow",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

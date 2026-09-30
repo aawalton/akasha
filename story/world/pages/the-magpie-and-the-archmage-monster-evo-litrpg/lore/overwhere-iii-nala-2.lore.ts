@@ -149,5 +149,9 @@ export const overwhereIiiNala2 = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
+    {
+      fact: "Pulling Hild's fresh blight bit cold up Nala's arm, harder than she expected.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore

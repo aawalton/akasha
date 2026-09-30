@@ -48,5 +48,13 @@ export const overwhereIiiWrenmarkBeastGuide = {
       fact: "Hill boar, Level 4-8: charges head-down; step aside and strike the flank. Meat and tusks 12 copper.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Marda's fresh blight page: corrupted beasts drop blightstones. Burn the dead.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
 } as const satisfies Lore
