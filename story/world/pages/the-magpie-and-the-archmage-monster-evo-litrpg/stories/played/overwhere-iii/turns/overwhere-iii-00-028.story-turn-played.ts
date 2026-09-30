@@ -4,7 +4,7 @@ export const overwhereIii00028 = {
   id: "01a0f372-fadc-76cf-aa46-a598af9af1c9",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-028",
-  ownLength: 309,
+  ownLength: 301,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 28,
@@ -15,7 +15,7 @@ export const overwhereIii00028 = {
     "character-other/overwhere-iii-ivy-marsh",
     "character-other/overwhere-iii-garrick-dole",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "“Okay, I’ll try. I open the potion and take small sips until I have mana to work with again, then go back and use my mending weave on Ivy, this time focusing on a suction mental model instead of stitching, to pull the corruption out of her.”",
   beats: [
