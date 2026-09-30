@@ -183,6 +183,10 @@ export const overwhereIiiTobinWick = {
       fact: "He leaves for Applegarth at first light tomorrow.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-tobin-wick"],
     },
+    {
+      fact: "Offered double, Tobin takes back his coat and his eleven copper, and not a copper more.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-tobin-wick"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
