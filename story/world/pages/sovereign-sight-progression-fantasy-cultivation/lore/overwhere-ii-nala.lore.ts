@@ -126,7 +126,7 @@ export const overwhereIiNala = {
     },
     {
       fact: "Drawn out of a body, rot comes away as a grey, stinking salt on her palm.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Undertow drawing on an Aberrant empties its reservoir, and it weakens and dies.",

@@ -123,6 +123,10 @@ export const overwhereIiGarthMarsh = {
       fact: "When Nala drew Wren's rot, Garth and Wren both came up in cold, prickling gooseflesh.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Seeing Wren's rot drawn out, Garth asked Nala roughly what in the Ancestors' name she is.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

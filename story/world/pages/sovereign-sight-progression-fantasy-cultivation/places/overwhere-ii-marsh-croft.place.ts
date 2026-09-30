@@ -44,5 +44,9 @@ export const overwhereIiMarshCroft = {
       fact: "Garth's porridge pot is plain black iron from Carrowmouth, not cold iron; the tide feels it fine.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "The grey rot salt drawn from Wren lies in Garth's black iron porridge pot.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place

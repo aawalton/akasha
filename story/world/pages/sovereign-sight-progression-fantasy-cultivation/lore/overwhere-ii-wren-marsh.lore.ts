@@ -63,6 +63,14 @@ export const overwhereIiWrenMarsh = {
       fact: "Under the rot, Wren holds a small, deep, sleeping pool, like Nala's own well in little.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Once Nala drew the rot out, Wren's bite was a clean red wound and her dark veins were gone.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "With the rot drawn, Wren's leg stopped hurting, though she was still warm with fever.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
