@@ -4,10 +4,13 @@ export const overwhereIi00006 = {
   id: "01a0f16d-fc6f-7158-b5df-fba2c429a60a",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-006",
+  ownLength: 450,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 6,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“I'll gladly accept the porridge and then be on my way. Are there any threats in the area I should be aware of?”",
   beats: [
@@ -40,6 +43,7 @@ export const overwhereIi00006 = {
   lore: [
     "lore/overwhere-ii-garth-marsh",
     "lore/overwhere-ii-greymaws",
+    "lore/overwhere-ii-nala",
     "lore/overwhere-ii-wren-marsh",
     "place/overwhere-ii-marsh-croft",
     "place/overwhere-ii-tern-hollow",
