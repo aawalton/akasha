@@ -4,10 +4,13 @@ export const overwhereIi00053 = {
   id: "01a0f460-859b-7c01-ac37-262f30eae1a5",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-053",
+  ownLength: 290,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 53,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I drink and get a meal, then retire to my room and imbue my legs with Water to match my arms, then go to sleep.",
   beats: [
@@ -29,6 +32,6 @@ export const overwhereIi00053 = {
     "She wakes at dawn on day four, rested and whole, her mouth a little dry.",
     "Out on the green, stalls are going up for market day, and a carrier's cart stands by the Lantern.",
   ],
-  lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2"],
+  lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2", "place/overwhere-ii-wendle-ford"],
   endsAt: "2026-10-02T06:00:00.000Z",
 } as const satisfies StoryTurnPlayed
