@@ -97,7 +97,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "When Nala draws beside the Callow pool, its black water ripples toward her, as the tarn's did.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "A Warped goat is as heavy as a big ewe; Nala drags one by hand, or both with Undertow's pull.",
