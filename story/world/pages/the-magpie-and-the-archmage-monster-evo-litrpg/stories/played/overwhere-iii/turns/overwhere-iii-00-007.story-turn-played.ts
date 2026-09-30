@@ -4,13 +4,14 @@ export const overwhereIii00007 = {
   id: "01a0f180-4abd-7d3e-aa30-b9c7cf486171",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-007",
+  cover: "image/image-ccf18f12ada6fdbf",
   ownLength: 205,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 7,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-tobin-wick"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“Thank you” I tell Tobin again after eating. “Do you know any spells?”",
   beats: [
     'Nala finishes her stew and bread, and turns to Tobin. "Thank you," she tells him again.',
@@ -32,6 +33,6 @@ export const overwhereIii00007 = {
     "lore/overwhere-iii-tobin-wick",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T18:00:00.000Z",
 } as const satisfies StoryTurnPlayed
