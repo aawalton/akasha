@@ -50,7 +50,7 @@ export const overwhereIiiCorruption = {
     },
     {
       fact: "Corruption strikes the injured, the pained, the maddened and the grieving.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Corruption spreads by nearness: one corrupted beast makes others easier to turn.",
