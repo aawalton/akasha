@@ -233,6 +233,9 @@ export const overwhereIvMillbrookAdventurersHall = {
       fact: "The cracked affinity crystal would flare a color no one has seen if Nala touched it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "If Nala touched the crystal it would crack further.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
-  secrets: "jsonl",
 } as const satisfies Place
