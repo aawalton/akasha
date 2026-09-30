@@ -205,6 +205,30 @@ export const overwhereIvMillbrookAdventurersHall = {
         "lore/overwhere-iv-wat-barrow",
       ],
     },
+    {
+      fact: "The hall stays open till the night bell, lamplit, for parties coming in late.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tonight the Brookside Four sit by the hearth, back from the Tangle with two wolf pelts.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The crystal shows fire as red, water as blue, earth as brown and air as pale green.",
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "It shows light as gold, shadow as violet, holy as white and healing as soft rose.",
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "A card of the known colors hangs by the crystal, in Ilsa's hand.",
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "The guild bids a clerk write down any color not on the card and send word to Aubrin.",
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-ilsa-crane"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
