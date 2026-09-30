@@ -7,6 +7,6 @@ export const overwhereIiiNalaFrostcaps = {
   title: "Frostcaps",
   story: "story-played/overwhere-iii",
   character: "character-player/overwhere-iii-nala",
-  quantity: 15,
+  quantity: 23,
   description: "Good frostcaps from the afternoon shade, cut clean at the root.",
 } as const satisfies StoryItem
