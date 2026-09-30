@@ -4,13 +4,14 @@ export const overwhereIi00043 = {
   id: "01a0f3f5-c14b-7d87-84ad-c912b0668d59",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-043",
+  cover: "image/image-1ac8d2c5b6eb0230",
   ownLength: 204,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 43,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Great, I’ll scout the Whitecombs tomorrow, then we can talk about Oswy Crake after if I’m successful solving the first. Could I borrow a bunk until I leave though? I’d like to stay close while I’m working on these.”",
   beats: [
@@ -42,6 +43,11 @@ export const overwhereIi00043 = {
     "place/overwhere-ii-whitecombs",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T15:28:00.000Z",
 } as const satisfies StoryTurnPlayed
