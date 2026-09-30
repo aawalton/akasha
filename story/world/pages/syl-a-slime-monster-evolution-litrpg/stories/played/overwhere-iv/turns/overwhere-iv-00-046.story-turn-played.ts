@@ -30,5 +30,6 @@ export const overwhereIv00046 = {
     "place/overwhere-iv-brook-and-barrel",
     "place/overwhere-iv-millbrook-shrine",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-02T12:01:00.000Z",
 } as const satisfies StoryTurnPlayed
