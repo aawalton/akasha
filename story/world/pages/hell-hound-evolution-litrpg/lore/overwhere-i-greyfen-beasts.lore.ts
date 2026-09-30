@@ -287,6 +287,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "Out of the water a reedlurker is slow and clumsy; acts against it on land are a band easier.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A reedlurker slipping a grip dives at once and strikes the nearest leg at the water's edge.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
