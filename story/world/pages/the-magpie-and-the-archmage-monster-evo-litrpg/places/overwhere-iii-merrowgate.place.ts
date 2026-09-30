@@ -235,6 +235,10 @@ export const overwhereIiiMerrowgate = {
       fact: "Nell Pask's pie stall on the Wool Square sells a hot mutton pasty, big as two fists, for 2 copper.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Books are dear here; past the Guild post's two, the Hearth chapel keeps a herbal and a primer.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
