@@ -194,7 +194,7 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "A fire-and-air burst fans flame in a half-circle ten yards out; each thing in it takes half a blast.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "The beam is a Surge use; the moves, bullet and burst are Weave uses; none is a new way.",
