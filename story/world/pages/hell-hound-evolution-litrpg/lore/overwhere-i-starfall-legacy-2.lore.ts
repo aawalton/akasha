@@ -20,5 +20,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "An earth-and-air ripple feels hollows and moving air sharply, but living bodies only faintly.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "No System window names a thing she finds; she learns what it is from someone who knows.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
