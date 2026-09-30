@@ -115,6 +115,10 @@ export const overwhereIvMillbrookCommon = {
       fact: "The slimes gather because they are drawn to Nala's dimensional mana.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The slimes follow Nala about and grow calm near her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
