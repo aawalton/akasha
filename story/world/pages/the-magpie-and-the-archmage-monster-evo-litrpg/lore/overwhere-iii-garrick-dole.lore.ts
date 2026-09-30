@@ -42,7 +42,11 @@ export const overwhereIiiGarrickDole = {
     },
     {
       fact: "Roused, he looks at a stranger healer a long moment and says only, 'Go on, then, lass.'",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-garrick-dole"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-garrick-dole",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
 } as const satisfies Lore
