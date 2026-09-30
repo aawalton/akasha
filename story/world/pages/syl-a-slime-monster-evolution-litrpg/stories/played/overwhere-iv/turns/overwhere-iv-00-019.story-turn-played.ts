@@ -10,4 +10,5 @@ export const overwhereIv00019 = {
   stepStatus: "step-status/game-master",
   action: "I rest while I can, elevating the leg with the hurt knee.",
   lore: ["lore/overwhere-iv-brenna-holt"],
+  endsAt: "2026-09-30T08:05:00.000Z",
 } as const satisfies StoryTurnPlayed
