@@ -357,14 +357,7 @@ export const overwhereIiiBrannaghTull = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
-    {
-      fact: "Brannagh shuts her shop at dark; the receipt book waits at her counter till first light.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-brannagh-tull",
-      ],
-    },
+
     {
       fact: "The receipt book's last third is draughts: mana draught, a sleeping draught, a fever tonic.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
@@ -380,7 +373,7 @@ export const overwhereIiiBrannaghTull = {
       ],
     },
     {
-      fact: "Brannagh could brew mana draughts herself; she never has, for want of jackalope antler.",
+      fact: "Brannagh never brewed a mana draught: her own mana is too little to make one take.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
     {
@@ -388,7 +381,7 @@ export const overwhereIiiBrannaghTull = {
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
     {
-      fact: "Brannagh would brew mana draughts at cost for whoever brings her the antler and frostcap.",
+      fact: "She offers to brew the mana draught with Nala: her honey and pot; Nala's antler, frostcap and mana.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
     {
