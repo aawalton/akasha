@@ -296,6 +296,10 @@ export const overwhereIiiBrannaghTull = {
       fact: "The carter's wife is Hild Wendle: a farm dog bit her shin two days ago, and the blight is fresh.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Brannagh nods at a free second mending: 'Kindness now fills my bench later.'",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
