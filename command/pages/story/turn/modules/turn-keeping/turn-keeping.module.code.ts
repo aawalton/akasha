@@ -59,7 +59,7 @@ export function keptForTurn(root: string, agentId: string | null, turn: string):
 
 export type Fit = "fits" | "rederived" | "landed" | { readonly unfit: string }
 
-export type Fitting = {
+type Fitting = {
   readonly rows: readonly FileChange[]
   readonly fits: readonly Fit[]
   readonly landed: number
@@ -140,7 +140,7 @@ export function turnSlugOf(turn: string): string {
   return basename(turn).split(".")[0] ?? turn
 }
 
-export function unfitSaid(turn: string, at: number, why: string): string {
+function unfitSaid(turn: string, at: number, why: string): string {
   const slug = turnSlugOf(turn)
   return (
     `kept edit ${String(at)} beside \`${turn}\` no longer fits: ${why} — ` +
@@ -158,7 +158,7 @@ export function heldForTurn(root: string, turn: string): Kept {
   return { refused: unfitSaid(turn, at + 1, fit.unfit) }
 }
 
-export type Dropped = { readonly went: FileChange; readonly left: number }
+type Dropped = { readonly went: FileChange; readonly left: number }
 
 export function droppedBeside(
   root: string,
