@@ -109,7 +109,7 @@ function roomOf(row: Page): MapRoom | null {
   }
 }
 
-export function mapRoomsOf(rows: readonly Page[], player: string): readonly MapRoom[] {
+function mapRoomsOf(rows: readonly Page[], player: string): readonly MapRoom[] {
   const held: MapRoom[] = []
   for (const row of rows) {
     const shown = row[SHOWN_TO_KEY]
@@ -120,7 +120,7 @@ export function mapRoomsOf(rows: readonly Page[], player: string): readonly MapR
   return held
 }
 
-export function roomsShownTo(player: string): UsePagesSupabaseOptions {
+function roomsShownTo(player: string): UsePagesSupabaseOptions {
   return {
     pageTypeSlug: otherwhereIRoom.slug,
     where: [{ key: SHOWN_TO_KEY, includes: player }],
