@@ -76,5 +76,9 @@ export const overwhereIiNala2 = {
       fact: "Both of Nala's arms are refined whole now; her mind is worn thin, as after Tansy.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Nala expects to take the Chartermark sooner or later, and told Anselm to share it all.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore

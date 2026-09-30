@@ -271,6 +271,10 @@ export const overwhereIiKeeperAnselm = {
       fact: "Nala told Anselm to write it all; he will, tonight, and it goes with the carrier on market day.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Anselm says if Nala wanders far before Threllsnacht, the Keepers will only have to find her first.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
