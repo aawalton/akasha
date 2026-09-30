@@ -10,7 +10,7 @@ export const overwhereIv00045 = {
   position: 45,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“I have a skill to help me with reading. Most people think it’s a waste, but comes in handy now and then.” I reply. “Could I get to silver rank here, or do I need a larger city for that? I feel like I’m getting close there.”",
   beats: [
@@ -25,6 +25,6 @@ export const overwhereIv00045 = {
     "\"Seven more and I'll write it gladly. You'd carry it to Aubrin yourself, to take the tag.\"",
   ],
   lore: ["lore/overwhere-iv-ilsa-crane-2", "lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-02T10:41:00.000Z",
 } as const satisfies StoryTurnPlayed
