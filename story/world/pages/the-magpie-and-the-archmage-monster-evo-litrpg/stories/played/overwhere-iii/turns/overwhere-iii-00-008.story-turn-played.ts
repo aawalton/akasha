@@ -4,6 +4,7 @@ export const overwhereIii00008 = {
   id: "01a0f18d-09dc-706d-b098-b0e11b36b533",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-008",
+  cover: "image/image-873297361c9901de",
   ownLength: 340,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -17,7 +18,7 @@ export const overwhereIii00008 = {
     "character-other/overwhere-iii-cal-fenn",
     "character-other/overwhere-iii-jory-fenn",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“Yes, thank you again.” I sleep the night and them go to the guild post in the morning.",
   beats: [
     '"Yes, thank you again," Nala says.',
@@ -52,9 +53,10 @@ export const overwhereIii00008 = {
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-tobin-wick",
     "place/overwhere-iii-crook-and-candle",
+    "place/overwhere-iii-merrowgate",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-30T07:00:00.000Z",
 } as const satisfies StoryTurnPlayed
