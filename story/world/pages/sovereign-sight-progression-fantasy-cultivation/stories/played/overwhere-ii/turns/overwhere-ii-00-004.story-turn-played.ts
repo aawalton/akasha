@@ -10,7 +10,7 @@ export const overwhereIi00004 = {
   position: 4,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I stop holding the energy in my hands and instead focus on cycling it rapidly through my body, then wait for the man to enter the barn and jump down, landing in a superhero pose on the floor of the barn.",
   beats: [
@@ -38,6 +38,6 @@ export const overwhereIi00004 = {
     "lore/overwhere-ii-talents-and-scope",
     "place/overwhere-ii-tern-hollow",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T06:54:00.000Z",
 } as const satisfies StoryTurnPlayed
