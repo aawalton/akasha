@@ -107,6 +107,10 @@ export const overwhereIOsricFenn = {
         "lore/overwhere-i-osric-fenn",
       ],
     },
+    {
+      fact: "Osric knows a Wendlow enchanter, Ilse Varrow, who sets such stones for mages, at a rich man's price.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
