@@ -269,6 +269,10 @@ export const overwhereIiiMagic = {
       fact: "Whether a brew takes is an easy action check for the one pouring; a failed take spoils the batch.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A brewed mana draught gives back 8 mana; it keeps a month stoppered in its flask.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
