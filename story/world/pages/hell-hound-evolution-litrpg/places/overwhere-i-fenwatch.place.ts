@@ -37,7 +37,7 @@ export const overwhereIFenwatch = {
     },
     {
       fact: "Houses are timber and wattle under thick fen-reed thatch, crowded close inside the palisade.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "The Tarred Stag, a longhall inn of dark tarred timber, sits on the green and is where all gather.",
