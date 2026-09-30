@@ -1,4 +1,5 @@
 {"propertySlug":"assignment-slug","path":"agent/seat/pages/awen/awen.seat.ts","id":"01a0b706-afe2-7000-b0a0-2ba202a68a29"}
 {"propertySlug":"assignment-slug","path":"agent/subagent/pages/awen-a4f8a43087ccd93a5/awen-a4f8a43087ccd93a5.subagent.ts","id":"01a0f419-b168-73b2-8240-b99ecf3c4e5d"}
 {"propertySlug":"assignment-slug","path":"agent/subagent/pages/awen-abff6e74d3ada5b82/awen-abff6e74d3ada5b82.subagent.ts","id":"01a0f418-f0ca-74a1-a7ae-41b985f3b4bf"}
+{"propertySlug":"assignment-slug","path":"agent/subagent/pages/awen-af68c0de67b2ca68c/awen-af68c0de67b2ca68c.subagent.ts","id":"01a0f41a-f1f1-7a7c-8f18-263660b11949"}
 {"propertySlug":"import","fileName":"awen-engine-improvements.initiative.ts","path":"agent/seat/name/modules/compose-seat-name/compose-seat-name.module.test.ts","typed":false,"deferred":false}
