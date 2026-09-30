@@ -51,6 +51,14 @@ export const overwhereIiGoodyBrannoc = {
       fact: "Nala's face stops Goody's breath: it is the face of her girlhood friend Liss Aske, unchanged.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Goody Brannoc is a tiny, bent old woman with sharp black eyes, in a cottage by the mill race.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: 'At the sight of Nala\'s face Goody went white and whispered, "Liss? Liss Aske?"',
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

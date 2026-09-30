@@ -35,6 +35,10 @@ export const overwhereIiWhitecombs = {
       fact: "Garth says wolves are not all that has come down off the Whitecombs this winter.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Garth calls the white mountains across the valley the Whitecombs.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

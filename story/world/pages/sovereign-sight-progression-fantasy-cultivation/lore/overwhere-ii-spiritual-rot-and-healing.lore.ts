@@ -323,7 +323,7 @@ export const overwhereIiSpiritualRotAndHealing = {
     },
     {
       fact: "In a hot fire rot salt spits, stinks and burns away to clean white ash.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Pressed to cold iron, rot salt goes still and grey as road grit, and harms no one after.",
