@@ -230,7 +230,11 @@ export const overwhereIiiBrannaghTull = {
     },
     {
       fact: "She opens her shop at first light and holds Nala to morning and night visits till both are clear.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
   secrets: "jsonl",
