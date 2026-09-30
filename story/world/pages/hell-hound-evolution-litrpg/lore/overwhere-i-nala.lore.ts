@@ -293,5 +293,9 @@ export const overwhereINala = {
       fact: "Fire-strength runs hot through her like fever sweat, but never burns her.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Held fire-strength adds 8 to her Strength; it costs only the Surge's 10 mana and 1 fire a minute.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
