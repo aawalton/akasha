@@ -7,7 +7,12 @@ export const overwhereIi00041 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 41,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I leave the tarn behind and continue with my plan, collecting the remaining ears and reporting back.",
+  lore: [
+    "lore/overwhere-ii-reeve-corwin-dray",
+    "place/overwhere-ii-hollow-tarn",
+    "place/overwhere-ii-tarn-screes",
+  ],
 } as const satisfies StoryTurnPlayed
