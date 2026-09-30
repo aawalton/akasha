@@ -112,5 +112,14 @@ export const overwhereIiiNala2 = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
+    {
+      fact: "Brannagh told Garrick that his healer's name is Nala.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-garrick-dole",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
   ],
 } as const satisfies Lore
