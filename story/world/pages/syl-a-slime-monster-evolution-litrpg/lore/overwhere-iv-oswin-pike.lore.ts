@@ -48,6 +48,10 @@ export const overwhereIvOswinPike = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "If she does not come to him, Oswin speaks low through her bunk curtain before the night bell.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "After the clear flare the grey watchman caught Nala's eye, nodded to the dark square, went out.",
       knowers: [
         "lore-disclosure/game-master",
