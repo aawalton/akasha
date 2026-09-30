@@ -25,5 +25,6 @@ export const overwhereIv00023 = {
     'Pim goes red to the ears, eyes on the far wall. "Didn\'t think it mattered. It was about now."',
   ],
   lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-hobb-farm"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T18:12:00.000Z",
 } as const satisfies StoryTurnPlayed
