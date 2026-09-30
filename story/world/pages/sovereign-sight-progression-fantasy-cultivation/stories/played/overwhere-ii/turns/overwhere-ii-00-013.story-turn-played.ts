@@ -11,4 +11,5 @@ export const overwhereIi00013 = {
   action:
     "“Hmm, I don’t think the iron is stopping it, let’s try burning. If that doesn’t do it, I’ll pull it back into the pot, and we’ll bring it with us.”",
   lore: ["lore/overwhere-ii-spiritual-rot-and-healing", "place/overwhere-ii-marsh-croft"],
+  endsAt: "2026-09-29T09:44:00.000Z",
 } as const satisfies StoryTurnPlayed
