@@ -177,5 +177,17 @@ export const overwhereIvNala2 = {
       fact: "After a night's sleep Nala's shoulder stopped aching and the warmth behind her ribs was full.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "A rend cuts only as deep as the part of its line she lays inside the wood.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Up close, a rend lands within a finger's width of the spot she fixes her eye on.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A notch is two rends meeting at an angle; the wedge between them drops free.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
