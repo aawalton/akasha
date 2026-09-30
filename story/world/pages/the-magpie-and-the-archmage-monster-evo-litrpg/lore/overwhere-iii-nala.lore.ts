@@ -112,6 +112,22 @@ export const overwhereIiiNala = {
         "character-other/overwhere-iii-tobin-wick",
       ],
     },
+    {
+      fact: "Reaching for the threads, she feels them like cool running water, eager to come to her hand.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "Focused, she sees a living thing's mana as a glow about it; the carter's is a faint candle's worth.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "The System then reads: [Mana Weaver – At [Basic] level, you see mana currents and auras. ???]",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "The last ??? in Mana Weaver's description clears when she first draws a current into a working.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
