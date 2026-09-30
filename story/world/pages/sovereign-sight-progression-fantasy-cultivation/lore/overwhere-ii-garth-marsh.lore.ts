@@ -215,6 +215,10 @@ export const overwhereIiGarthMarsh = {
       fact: "Garth has only heard of Aberrant chest bones; Carrowmouth folk buy them, not valley folk.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Garth keeps a stout skinning knife on a peg at Marsh Croft.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

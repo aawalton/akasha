@@ -167,5 +167,9 @@ export const overwhereIiGreymaws = {
       fact: "Cutting a chamber from behind the breastbone takes half an hour's hard work with a stout knife.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "The dead she-wolf lies up the fell from Marsh Croft, dark against the heather.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore

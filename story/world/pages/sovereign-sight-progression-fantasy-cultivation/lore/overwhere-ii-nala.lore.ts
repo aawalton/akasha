@@ -268,6 +268,10 @@ export const overwhereIiNala = {
       fact: "Half-healed, Nala's bite no longer throbs deep; it aches only like a scraped knee.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Garth bound Nala's bitten left forearm in Wren's clean linen, snug from wrist to elbow.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
