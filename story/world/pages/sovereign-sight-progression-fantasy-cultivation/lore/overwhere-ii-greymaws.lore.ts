@@ -217,7 +217,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "A spear thrust driven by Undertow pierces greymaw scale; reaching the bone chamber, it kills.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The limping greymaw hangs back, and if the fight turns it bolts up the scree for the tarn.",
