@@ -247,6 +247,10 @@ export const overwhereITheGreyfen = {
       fact: "The token proves the pack's killings, not Nala's kill; it is no bounty proof.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The earth-and-air ripple feels two small hard, cold knots in the drowned pine roots beside the den.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
