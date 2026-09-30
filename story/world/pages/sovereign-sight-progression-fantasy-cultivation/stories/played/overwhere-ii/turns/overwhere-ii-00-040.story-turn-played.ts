@@ -10,7 +10,7 @@ export const overwhereIi00040 = {
   position: 40,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I pursue the final wolf and finish it off, then cut off the right ears for the five and report back to Dray, so he knows where to send a card for the carcasses.",
   beats: [
@@ -31,12 +31,13 @@ export const overwhereIi00040 = {
     "The worn steps go down into the tarn and on, out of sight, into the black.",
     "Her well still leans toward the water, patient and insistent.",
   ],
+  issues: ['"Your well still leans toward the water, patient and insistent." - No Prompt'],
   lore: [
     "lore/overwhere-ii-greymaws",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-reeve-corwin-dray",
     "place/overwhere-ii-hollow-tarn",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-30T11:43:00.000Z",
 } as const satisfies StoryTurnPlayed
