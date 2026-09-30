@@ -195,6 +195,18 @@ export const overwhereIvTheTangle = {
       fact: "Nala dropped a hair late at the slinger's snap; its stone cracked her shoulder, not her chest.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Whirling its sling, the slinger holds still on the trunk for the space of a breath.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A rend laid through the slinger parts the oak's bark and a limb beneath it as well.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "If the slinger falls, the two hurt scouts throw down their weapons and grovel for mercy.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
