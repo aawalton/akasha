@@ -10,7 +10,7 @@ export const overwhereIi00049 = {
   position: 49,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Share it all. I expect to take the Chartermark sooner or later anyways. No reason to slow that down.”",
   beats: [
@@ -28,6 +28,6 @@ export const overwhereIi00049 = {
     '"he smiles for the first time today" - he gave a small, rueful smile at the shrine in turn 44',
   ],
   lore: ["lore/overwhere-ii-keeper-anselm", "lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-30T17:02:00.000Z",
 } as const satisfies StoryTurnPlayed
