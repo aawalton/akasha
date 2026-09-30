@@ -7,7 +7,12 @@ export const overwhereI00025 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 25,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“You’re welcome to the hide and meat for free if you can find it. I killed him in the swamp and he sank in deep. Barely managed to get the tusks out of the muck. If you manage it, it’s yours. I’m taking a bath!”",
+  lore: [
+    "lore/overwhere-i-agathe-morrow",
+    "lore/overwhere-i-garrick-pell",
+    "place/overwhere-i-fenwatch",
+  ],
 } as const satisfies StoryTurnPlayed
