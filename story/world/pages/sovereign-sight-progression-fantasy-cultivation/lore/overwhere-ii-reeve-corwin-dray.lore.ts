@@ -220,6 +220,38 @@ export const overwhereIiReeveCorwinDray = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Dray takes a no to the cottage without argument; he expected no less of a Talent her size.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray lets the killer keep anything cut from a greymaw; he wants only the carcasses burned.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray's two men and pony fetch the den carcasses at first light on day three, back by mid-afternoon.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray's watchmen will not go past the cairn; the greymaw by the tarn is left where it fell.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray fears something worse drove the greymaws off the Whitecombs, and that it will follow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray has no one fit to climb the Whitecombs and see what stirs there; he would pay well for it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray knows of Oswy Crake, a Water thief on the Carrowmouth road with ten bars on his head.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray can write Nala a Reeve's letter naming her, which serves as papers in Carrowmouth.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Dray paid Nala eighteen silver for nine greymaws, the watch's silver bar and a bar for the hunt.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
