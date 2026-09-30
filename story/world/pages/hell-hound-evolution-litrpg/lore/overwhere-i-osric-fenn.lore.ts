@@ -89,7 +89,7 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Osric won't say what an alchemist pays, and lifts his offer to two gold and five silver.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
