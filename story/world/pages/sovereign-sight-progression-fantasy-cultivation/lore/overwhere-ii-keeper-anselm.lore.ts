@@ -55,6 +55,10 @@ export const overwhereIiKeeperAnselm = {
       fact: "Anselm knows Nala's denial is false, but he won't call her a liar in front of others.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Anselm will walk with Nala, asking questions, and would hold a patient steady if asked.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
