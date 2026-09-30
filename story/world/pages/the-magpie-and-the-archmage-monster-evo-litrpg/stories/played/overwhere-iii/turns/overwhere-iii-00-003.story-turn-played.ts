@@ -10,7 +10,7 @@ export const overwhereIii00003 = {
   position: 3,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-tobin-wick"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Thank you” I say simply, and climb up into the cart, quietly focusing on the man’s weaving trait, seeing if I can feel the man’s inside it around me.",
   beats: [
@@ -33,6 +33,6 @@ export const overwhereIii00003 = {
   ],
   issues: ['"Ahead, the town wall rises over the fields." - Leave It Open'],
   lore: ["lore/overwhere-iii-nala", "lore/overwhere-iii-tobin-wick"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T16:44:00.000Z",
 } as const satisfies StoryTurnPlayed
