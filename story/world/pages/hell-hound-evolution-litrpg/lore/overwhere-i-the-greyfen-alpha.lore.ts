@@ -64,6 +64,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "The Hunters' Board bounty on Ghost-Eye's head is still uncollected.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Its pack lairs on a dry island of drowned pines, half a day's wading into the middle fen.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
