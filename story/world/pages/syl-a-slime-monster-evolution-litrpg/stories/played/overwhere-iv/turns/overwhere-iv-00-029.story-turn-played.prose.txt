@@ -10,8 +10,6 @@ Your class has revealed the following skill: [Spellstrike]
 
 Your class has revealed the following skill: [Blade Ward]
 
-A skill point sits unspent beside them, waiting, the way the class window did.
-
 You go to the hearth. "Ready to go. I'll fight with you as well, if you'll have me. I'm inexperienced, but I can still guard a flank. Since we don't know exactly how many there are, could be good to have an extra spear along."
 
 Dace grins, broad and glad. "Gladly. Left flank, beside Wren."

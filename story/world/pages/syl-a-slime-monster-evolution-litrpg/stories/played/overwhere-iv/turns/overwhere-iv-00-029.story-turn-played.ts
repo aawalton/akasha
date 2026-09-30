@@ -4,13 +4,13 @@ export const overwhereIv00029 = {
   id: "01a0f3cf-2595-7f09-a1e0-3af67afb8b44",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-029",
-  ownLength: 342,
+  ownLength: 328,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 29,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "“I’ll go with the Four.” I pause for a moment and assign Spellblade as my class, then go and meet up with the Four. “Ready to go. I’ll fight with you as well if you’ll have me. I’m inexperienced, but I can still guard a flank.  Since we don’t know exactly how many there are, could be good to have an extra spear along.”",
   beats: [
