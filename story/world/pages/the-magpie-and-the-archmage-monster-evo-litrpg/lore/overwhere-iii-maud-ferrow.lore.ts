@@ -76,5 +76,9 @@ export const overwhereIiiMaudFerrow = {
         "character-other/overwhere-iii-maud-ferrow",
       ],
     },
+    {
+      fact: "Cob, sixteen, works at the tannery by the east wall; his scratch is fresh and shallow, one pull.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
