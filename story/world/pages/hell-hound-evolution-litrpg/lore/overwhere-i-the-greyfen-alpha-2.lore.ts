@@ -280,5 +280,14 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Six, sent west, does not come back; it rejoins the pups in the deep fen.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At 13:33 on day 3 Ghost-Eye barked once, and Six turned and loped west into the pines.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-ghost-eye",
+        "character-other/overwhere-i-pine-isle-drakewolf-six",
+      ],
+    },
   ],
 } as const satisfies Lore

@@ -44,5 +44,13 @@ export const overwhereINala2 = {
       fact: "Killing three Drakewolves at 13:04 on day 3 raised Nala to Level 6.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Killing Ghost-Eye and the two biggest Drakewolves at 13:36 on day 3 raised Nala to Level 7.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "At Level 7 Nala gained Strength 2, Dexterity 2, Vigor 2, Attunement 4 and Luck 1.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
