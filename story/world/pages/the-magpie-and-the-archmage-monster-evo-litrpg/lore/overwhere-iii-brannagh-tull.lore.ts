@@ -150,7 +150,11 @@ export const overwhereIiiBrannaghTull = {
     },
     {
       fact: "She keeps one mana draught from Thornmere under the counter, which she values at a silver.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "She would give that draught free against the work, sooner than let her two wait a night.",
