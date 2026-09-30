@@ -109,7 +109,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "The buried den reeks faintly of rotten salt; old greymaw prints lead from it downhill at a run.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The split cliff and fled den are sure word: the midwinter quakes shook the greymaws out.",
