@@ -61,5 +61,9 @@ export const overwhereIiiGarrickDole = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
+    {
+      fact: "By late morning Garrick is awake and sitting up for broth; the purple has drawn back to his knee.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
