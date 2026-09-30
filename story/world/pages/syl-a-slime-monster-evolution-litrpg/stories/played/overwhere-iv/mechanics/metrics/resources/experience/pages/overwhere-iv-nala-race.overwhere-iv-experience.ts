@@ -9,5 +9,6 @@ export const overwhereIvNalaRace = {
   minValue: 0,
   maxValue: 10,
   history: "jsonl",
+  displayOrder: 3,
   unrevealed: true,
 } as const satisfies OverwhereIvExperience
