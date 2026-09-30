@@ -27,11 +27,13 @@ export const overwhereIi00058 = {
     "Her mind feels whole again, the wear of last night's lost refining washed away by sleep.",
     "Today is the day Hob promised her spear.",
   ],
+  issues: ['"Today is the day Hob promised your spear." - No Prompt'],
   lore: [
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",
     "lore/overwhere-ii-reeve-corwin-dray-2",
     "place/overwhere-ii-tarrant-smithy",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-03T06:00:00.000Z",
 } as const satisfies StoryTurnPlayed
