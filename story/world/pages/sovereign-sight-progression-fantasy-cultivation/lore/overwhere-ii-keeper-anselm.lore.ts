@@ -180,6 +180,14 @@ export const overwhereIiKeeperAnselm = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Anselm's Tidesense feels Nala refining with Undertow as a tide turning over and over at his side.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "No Keeper teaching Anselm knows uses a Talent to drive its own refining.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The Keepers teach that no one Descends until the body is refined enough to bear it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
