@@ -4,10 +4,13 @@ export const overwhereI00029 = {
   id: "01a0f34c-6b25-7b8c-9eb1-4e1b76b07abf",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-029",
+  ownLength: 177,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 29,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I attune earth and water and try to make a kind of magical sonar, rippling through the ground and water and bringing back a map of what it contains. I use the two known holes to calibrate and then circle out to see if I can find the third whole.",
   beats: [
@@ -26,6 +29,7 @@ export const overwhereI00029 = {
   ],
   lore: [
     "lore/overwhere-i-greyfen-beasts",
+    "lore/overwhere-i-nala",
     "lore/overwhere-i-starfall-legacy",
     "place/overwhere-i-the-greyfen",
   ],
