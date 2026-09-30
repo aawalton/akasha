@@ -12,5 +12,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "Nala's ripple from the first slide felt a lurker lying awake in the bank under the second slide.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "A forewarned, awake reedlurker gripped in mud thrashes at once; holding it stays a hard act.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
