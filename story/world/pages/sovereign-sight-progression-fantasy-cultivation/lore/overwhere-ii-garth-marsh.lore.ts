@@ -169,7 +169,7 @@ export const overwhereIiGarthMarsh = {
     },
     {
       fact: "Garth's mother told him of Liss Aske, the red-haired Aske girl the tarn took.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
   secrets: "jsonl",

@@ -266,7 +266,7 @@ export const overwhereIiNala = {
     },
     {
       fact: "Cold iron does not burn Nala; against her skin it only feels cold, dead and numbing.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
   secrets: "jsonl",

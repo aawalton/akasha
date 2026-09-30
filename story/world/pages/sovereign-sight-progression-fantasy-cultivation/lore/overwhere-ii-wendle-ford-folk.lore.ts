@@ -41,7 +41,7 @@ export const overwhereIiWendleFordFolk = {
     },
     {
       fact: "Tansy Horne, the miller's girl of fourteen, has greymaw rot past the elbow and some three days left.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Sedge Horne would pay a silver bar, or anything asked, to anyone who saved Tansy.",

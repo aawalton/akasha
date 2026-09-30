@@ -25,7 +25,7 @@ export const overwhereIiGoodyBrannoc = {
     },
     {
       fact: "She has watched rot kill four people this winter and could not stop it in any of them.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "She was a girl of twenty when Liss Aske drowned, and Liss was her friend.",
@@ -45,7 +45,7 @@ export const overwhereIiGoodyBrannoc = {
     },
     {
       fact: "Goody Brannoc smells the Sea on Nala, clean and deep, as she has smelled it on no living thing.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Nala's face stops Goody's breath: it is the face of her girlhood friend Liss Aske, unchanged.",
@@ -61,7 +61,7 @@ export const overwhereIiGoodyBrannoc = {
     },
     {
       fact: "Goody fears the tarn has sent back a drowned thing, and would test Nala with cold iron first.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Goody says Liss Aske was her dearest friend, red-haired, drowned in Hollow Tarn 51 winters ago.",
