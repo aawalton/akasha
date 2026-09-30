@@ -26,7 +26,7 @@ export const overwhereIiiWrenmarkBeastGuide = {
     },
     {
       fact: "Tree devourer beetle, Level 5-9: strike the soft joint under the head. Shell plates 10 copper.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Thornwing owl, Level 6-10: hunts by night and throws quills. Fletchers pay 1 copper a quill.",
