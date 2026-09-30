@@ -4,10 +4,13 @@ export const overwhereIi00041 = {
   id: "01a0f3d8-4733-77a4-b827-4fe6bd914488",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-041",
+  ownLength: 321,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 41,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I leave the tarn behind and continue with my plan, collecting the remaining ears and reporting back.",
   beats: [
@@ -34,6 +37,7 @@ export const overwhereIi00041 = {
     "Reeve Dray: \"It's yours, if you'll stay.\"",
   ],
   lore: [
+    "lore/overwhere-ii-nala",
     "lore/overwhere-ii-reeve-corwin-dray",
     "place/overwhere-ii-hollow-tarn",
     "place/overwhere-ii-tarn-screes",
