@@ -179,6 +179,10 @@ export const overwhereIiiMerrowgate = {
       fact: "Merrowgate's market day comes every fifth day; the next is three days off.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Brannagh Tull's shop is a lane off the Wool Square, open till full dark; she lives above it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
