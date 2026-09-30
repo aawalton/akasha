@@ -55,6 +55,10 @@ export const overwhereIGarrickPell = {
       fact: "A round, bald man with a bushy red beard stood grinning by the reeve in the Tarred Stag.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "He heats water for a wooden tub in the back room; a hot bath costs two copper.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
