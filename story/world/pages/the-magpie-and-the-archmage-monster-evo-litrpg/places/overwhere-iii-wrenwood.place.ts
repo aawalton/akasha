@@ -208,6 +208,10 @@ export const overwhereIiiWrenwood = {
       fact: "Two antlered rabbits, each with a small glow, graze the frosted roots by the brook this afternoon.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Frost lies thick on a row of big beech roots by the Wren Brook, with frostcaps glowing there.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
