@@ -111,6 +111,10 @@ export const overwhereIRowanCoalby = {
       fact: "Rowan says the three left and the pups will raise a smaller pack that keeps off the village.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Rowan wants to see the eye; at the sight of it Sedge flattens its crest and backs off, growling low.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
