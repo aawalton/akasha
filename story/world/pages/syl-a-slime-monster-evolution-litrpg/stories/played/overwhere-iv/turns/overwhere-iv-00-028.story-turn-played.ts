@@ -17,7 +17,7 @@ export const overwhereIv00028 = {
     "character-other/overwhere-iv-dell",
     "character-other/overwhere-iv-wat",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I tell him what I know, then get to bed, so I can sleep before watch training in the morning. After training I go back to the guild to check with Ilsa on what I should tackle next.",
   beats: [
@@ -49,9 +49,16 @@ export const overwhereIv00028 = {
     "lore/overwhere-iv-ilsa-crane",
     "lore/overwhere-iv-nala",
     "lore/overwhere-iv-nala-2",
+    "place/overwhere-iv-hobb-farm",
+    "place/overwhere-iv-millbrook-adventurers-hall",
     "place/overwhere-iv-millbrook-gatehouse",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/picture", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/picture",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-01T08:30:00.000Z",
 } as const satisfies StoryTurnPlayed
