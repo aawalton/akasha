@@ -11,4 +11,5 @@ export const overwhereIi00026 = {
   action:
     "I come in, focusing on circling my water and trying to push it into the flesh of the wounded arm.",
   lore: ["lore/overwhere-ii-keeper-anselm", "lore/overwhere-ii-undertow"],
+  endsAt: "2026-09-29T18:12:00.000Z",
 } as const satisfies StoryTurnPlayed
