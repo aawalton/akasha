@@ -10,7 +10,7 @@ export const overwhereIv00010 = {
   position: 10,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“You’re welcome to it lad, I’d never interfere with a great hunt like that.” I say with a smile. Then I go find another small slime somewhere private and see if I can figure out their weird behavior. I try talking to it and controlling it with my intent to see if they are listening to me somehow.",
   beats: [
@@ -35,7 +35,11 @@ export const overwhereIv00010 = {
     "Toward her, or away. For now, nothing else.",
     "Out past the willows, the mill wheel creaks on. Nobody has come. The three slimes wait at her feet.",
   ],
+  issues: [
+    '"Toward you, or away. For now, only that." - Leave It Open',
+    '"Out past the willows, the mill wheel creaks on. The bend is still empty" - Leave It Open',
+  ],
   lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-millbrook-common"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T15:33:00.000Z",
 } as const satisfies StoryTurnPlayed
