@@ -60,6 +60,10 @@ export const overwhereIiiPipCarrow = {
       fact: "Pip gives her name proudly: Pip Carrow, the reeve's daughter, and asks the healer's in return.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "To Nala's sight, the post's thin currents lean toward Pip, as if she drew them without knowing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
