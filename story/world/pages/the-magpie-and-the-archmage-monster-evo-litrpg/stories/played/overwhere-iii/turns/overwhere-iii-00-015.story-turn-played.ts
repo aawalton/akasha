@@ -33,5 +33,6 @@ export const overwhereIii00015 = {
     "[Mending Weave – At [Basic] level, stitch holy current into a wound to close it slowly.]",
   ],
   lore: ["lore/overwhere-iii-nala", "place/overwhere-iii-wrenwood-crossroads"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T09:48:00.000Z",
 } as const satisfies StoryTurnPlayed
