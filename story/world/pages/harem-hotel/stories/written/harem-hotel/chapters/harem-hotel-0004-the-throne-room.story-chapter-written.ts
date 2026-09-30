@@ -4,13 +4,14 @@ export const haremHotel0004TheThroneRoom = {
   id: "01a0ef24-cbe9-734a-aa6e-24a8b55965c5",
   type: "page-type/story-chapter-written",
   slug: "harem-hotel-0004-the-throne-room",
+  cover: "image/image-f1e32f7974ebb63e",
   position: 4,
   unit: "unit/words",
   title: "The Throne Room",
   story: "story-written/harem-hotel",
   ownLength: 2415,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "You climb the stairs from the ballroom, still in your tailcoat, into warm air smelling of incense.",
     "The stairs end behind a heavy tapestry; you push it aside onto the foot of a long hall.",
@@ -94,5 +95,5 @@ export const haremHotel0004TheThroneRoom = {
     "character-player/harem-hotel-alan",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryChapterWritten
