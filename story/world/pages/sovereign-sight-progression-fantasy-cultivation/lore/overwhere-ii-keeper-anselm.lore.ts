@@ -169,7 +169,7 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "Anselm has refined his own skin over three years, and nothing deeper.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Anselm teaches that each Descent brings a Tribulation, a trial in the Sea no one can face for you.",
