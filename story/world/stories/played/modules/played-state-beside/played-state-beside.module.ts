@@ -54,6 +54,10 @@ export const playedStateBeside = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A page stating it is unrevealed is drawn in no part.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A read is asked again as the story's last turn changes.",
     },
     {

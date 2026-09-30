@@ -185,8 +185,14 @@ async function titlesOf(named: ReadonlyMap<string, readonly string[]>): Promise<
   return { titles, descriptions }
 }
 
+const UNREVEALED_KEY = "unrevealed"
+
+export function revealedRows(rows: readonly QueryRow[]): readonly QueryRow[] {
+  return rows.filter((row) => row.values[UNREVEALED_KEY] !== true)
+}
+
 function rowsOf(asked: Asked): readonly QueryRow[] {
-  return asked.ok ? asked.answer.rows : []
+  return asked.ok ? revealedRows(asked.answer.rows) : []
 }
 
 async function readFiled(character: string, turn: number): Promise<Filed> {
@@ -194,33 +200,33 @@ async function readFiled(character: string, turn: number): Promise<Filed> {
     askedLoudly({
       "page-type": metricCharacterResource.slug,
       where: { character: { is: character } },
-      keys: [TYPE_KEY, CHARACTER_KEY, VALUE_KEY, MAX_VALUE_KEY, HISTORY_KEY],
+      keys: [TYPE_KEY, CHARACTER_KEY, VALUE_KEY, MAX_VALUE_KEY, HISTORY_KEY, UNREVEALED_KEY],
       files: [HISTORY_KEY],
     }),
     askedLoudly({
       "page-type": metricCharacterAttribute.slug,
       where: { character: { is: character } },
-      keys: [TYPE_KEY, CHARACTER_KEY, VALUE_KEY],
+      keys: [TYPE_KEY, CHARACTER_KEY, VALUE_KEY, UNREVEALED_KEY],
     }),
     askedLoudly({
       "page-type": worldSkill.slug,
       where: { character: { is: character } },
-      keys: [CHARACTER_KEY, SKILL_KEY, RANK_KEY, LEVEL_KEY, AXIS_KEY],
+      keys: [CHARACTER_KEY, SKILL_KEY, RANK_KEY, LEVEL_KEY, AXIS_KEY, UNREVEALED_KEY],
     }),
     askedLoudly({
       "page-type": worldQuest.slug,
       where: { character: { is: character } },
-      keys: [CHARACTER_KEY, SLUG_KEY, TITLE_KEY, OBJECTIVE_KEY, STATUS_KEY],
+      keys: [CHARACTER_KEY, SLUG_KEY, TITLE_KEY, OBJECTIVE_KEY, STATUS_KEY, UNREVEALED_KEY],
     }),
     askedLoudly({
       "page-type": worldRelationship.slug,
       where: { characters: { has: character } },
-      keys: [CHARACTERS_KEY, POINTS_KEY],
+      keys: [CHARACTERS_KEY, POINTS_KEY, UNREVEALED_KEY],
     }),
     askedLoudly({
       "page-type": worldAttunement.slug,
       where: { character: { is: character } },
-      keys: [CHARACTER_KEY, ELEMENT_KEY, RANK_KEY, COUNTER_KEY],
+      keys: [CHARACTER_KEY, ELEMENT_KEY, RANK_KEY, COUNTER_KEY, UNREVEALED_KEY],
     }),
     itemsOf(character),
   ])

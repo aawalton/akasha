@@ -7,6 +7,7 @@ import {
   type Filed,
   linesIn,
   poolsIn,
+  revealedRows,
   stateOf,
 } from "akasha/story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts"
 
@@ -55,6 +56,15 @@ test("a pool is keyed by its page type, its most with Max, and holds this turn's
     },
     delta: { [towerMana.slug]: -6 },
   })
+})
+
+test("a page stating it is unrevealed is dropped, and every other page is kept", () => {
+  const rows = [
+    { values: { type: "a-stat", value: 3, unrevealed: true } },
+    { values: { type: "b-stat", value: 4, unrevealed: false } },
+    { values: { type: "c-stat", value: 5 } },
+  ]
+  expect(revealedRows(rows).map((row) => row.values["type"])).toEqual(["b-stat", "c-stat"])
 })
 
 test("a character with nothing filed has no state", () => {
