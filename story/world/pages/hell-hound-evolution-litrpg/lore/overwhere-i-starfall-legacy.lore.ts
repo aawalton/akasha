@@ -308,5 +308,9 @@ export const overwhereIStarfallLegacy = {
       fact: "Starfall Weave rose to level 5 at 13:04 on day 3, adding +3 Attunement.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Pouring a second Weave cast into one slug gives it half again the force, at double the cost.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
