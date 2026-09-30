@@ -263,5 +263,9 @@ export const overwhereIiWendleFordFolk = {
       fact: "Col Ashby, up and walking with a stick, is at the Reeve's when Nala comes, and vouches for her.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Hob Tarrant can forge a boar spear with a cold-iron head in three days, for a silver bar.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
