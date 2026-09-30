@@ -227,5 +227,9 @@ export const overwhereIiWendleFordFolk = {
       fact: "Pim's rot is small but old, a grey swelling in her palm; it takes a quarter hour to draw.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Pim is poor and proud, and will press on a healer the eggs and honey that are all she has.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
