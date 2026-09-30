@@ -47,5 +47,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Reeve Dray is a grey, square man in a leather jerkin, whose watch lost a man to the white-eye.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Dray lodges at the Reeve's house by the green when in the Ford; Tam Oakes keeps it for him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
