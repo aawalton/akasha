@@ -157,5 +157,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "At 13:32 on day 3 the two biggest slipped north and south off the shore into reeds, out of sight.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "After her second miss Ghost-Eye and Six stayed on the shore, watching her.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
