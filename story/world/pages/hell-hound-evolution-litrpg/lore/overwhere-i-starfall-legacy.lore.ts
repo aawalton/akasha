@@ -220,5 +220,9 @@ export const overwhereIStarfallLegacy = {
       fact: "Shaping one slug takes a few seconds of an earth working, so slugs are best made ahead and carried.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A grooved slug flung with spinning air flies true to about 100 yards and carries about 200.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
