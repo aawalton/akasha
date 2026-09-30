@@ -10,7 +10,7 @@ export const overwhereI00056 = {
   position: 56,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I bring them with me and journey back to the village for a well-deserved bath, meal, and rest.",
   beats: [
@@ -18,11 +18,11 @@ export const overwhereI00056 = {
     "She swims the channel back to the marsh, and sets out east for Fenwatch.",
     "She skims the wet stretches on air and water while her mana holds, and wades the rest.",
     "The fen lies quiet all through the long afternoon.",
-    "Past the ford the fields open out, and Fenwatch's roofs show against the evening-yellow sky.",
-    "She comes up onto the green at half past four, caked in dried fen muck from head to boots.",
-    "Folk at their doors turn to stare after her as she crosses to the Tarred Stag.",
-    "Garrick Pell is at the hearth; he looks up, and his red beard splits in a grin.",
-    '"Look at the state of you! Where in the fen have you been all day?"',
+    "At half past four she comes up out of the reeds at the fen edge by the Greyback, caked in muck.",
+    "Rowan Coalby is waiting there, soot-dark and broad, with Sedge at his heel.",
+    "Sedge's crest bristles; it whines, low, and backs away from her, nose working at her pack.",
+    "It keeps its distance, however Rowan hushes it.",
+    'Rowan looks from Sedge to her, and his words catch. "Th-that howl, after noon. Was it... is it..."',
   ],
   issues: [
     '"Past the ford the fields open out" - Rowan and Sedge wait at that fen edge to meet her',
