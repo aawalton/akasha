@@ -84,6 +84,10 @@ export const overwhereIiiCrookAndCandle = {
       fact: "Breakfast at the Crook and Candle is oat porridge with honey and small beer, 1 copper.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
     },
+    {
+      fact: "Supper on Nala's third night is barley soup with pork sausages and black bread, 3 copper.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
