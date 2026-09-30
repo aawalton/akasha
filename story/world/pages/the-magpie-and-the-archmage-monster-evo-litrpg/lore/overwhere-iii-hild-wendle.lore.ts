@@ -100,5 +100,13 @@ export const overwhereIiiHildWendle = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
+    {
+      fact: "Hild's shin seam lies flat now, a thin pale line; she went out telling everyone in the lane.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-hild-wendle",
+      ],
+    },
   ],
 } as const satisfies Lore
