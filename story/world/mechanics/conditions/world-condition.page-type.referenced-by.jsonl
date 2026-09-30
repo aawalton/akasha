@@ -1,3 +1,4 @@
+{"propertySlug":"extends-type","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/mechanics/conditions-held/overwhere-iv-condition-held.page-type.ts","id":"01a0f1ba-b37f-7349-b950-6b7ae332f61e"}
 {"propertySlug":"import","fileName":"world-condition.page-type.ts","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-condition.page-type.types.ts","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/conditions/otherwhere-vii-clogged-passages.world-condition.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-condition.page-type.types.ts","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/mechanics/conditions/otherwhere-vii-cracked-core.world-condition.ts","typed":true,"deferred":false}
@@ -18,6 +19,7 @@
 {"propertySlug":"import","fileName":"world-condition.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/conditions/super-supportive-skill-imbalance.world-condition.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-condition.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/conditions/super-supportive-thetet-fever.world-condition.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-condition.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/conditions/overwhere-iv-healthy.world-condition.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-condition.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/mechanics/conditions-held/overwhere-iv-condition-held.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-condition.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/conditions/battlefield-of-the-silent-dreams.world-condition.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-condition.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/conditions/battlefield-of-the-silent.world-condition.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-condition.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/conditions/bearer-of-my-vengeance.world-condition.ts","typed":true,"deferred":false}
@@ -72,5 +74,6 @@
 {"propertySlug":"import","fileName":"world-condition.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/conditions/wordless-thing.world-condition.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-condition.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/conditions/words-of-disgrace.world-condition.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
+{"propertySlug":"target-page-type","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/mechanics/conditions-held/properties/overwhere-iv-condition-held-condition.relation-property.ts","id":"01a0f1ba-b380-7d37-807a-67bd4c2f2062"}
 {"propertySlug":"view-page-type","path":"page/view/pages/conditions-alphabetical.view.ts","id":"01a0c954-0fcd-7bdb-83b0-1db34ef13b19"}
 {"propertySlug":"view-page-type","path":"page/view/pages/conditions-most-seen.view.ts","id":"01a0c954-0fbb-796a-a019-a744b56b9b7b"}

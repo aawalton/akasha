@@ -7,6 +7,7 @@ export const worldCondition = {
   definition: "a change the world makes to a character, that stays with them",
   pluralSlug: "conditions",
   extends: ["page-type/world-mechanic"],
+  parts: ["page-type/overwhere-iv-condition-held"],
   runsTabooCheck: false,
   types: "ts",
   schema: "jsonl",
