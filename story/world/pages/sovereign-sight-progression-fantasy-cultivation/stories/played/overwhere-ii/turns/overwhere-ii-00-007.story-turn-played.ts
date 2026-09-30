@@ -38,6 +38,6 @@ export const overwhereIi00007 = {
     "place/overwhere-ii-wendlemere",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/picture"],
+  recordedBy: ["story-recorder/picture", "story-recorder/mechanics"],
   endsAt: "2026-09-29T07:37:00.000Z",
 } as const satisfies StoryTurnPlayed
