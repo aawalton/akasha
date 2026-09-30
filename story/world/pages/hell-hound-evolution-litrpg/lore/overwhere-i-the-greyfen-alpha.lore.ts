@@ -197,7 +197,7 @@ export const overwhereITheGreyfenAlpha = {
     },
     {
       fact: "Ghost-Eye lies apart on a raised root mound; the watcher sits on a fallen trunk at the NE point.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "The grown wolves lie spread along forty yards of shade, a few yards in from the island's east edge.",
