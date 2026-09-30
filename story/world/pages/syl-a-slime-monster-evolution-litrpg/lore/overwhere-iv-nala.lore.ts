@@ -297,6 +297,30 @@ export const overwhereIvNala = {
       fact: "Nala told Hobb she thought she could take the sheep thieves if there were fewer than three.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "A fold on a spear she holds shifts it away in her grip; held loosely, it tears free.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At Dimension Magic LV 2, a fold shifts a thing about a foot.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Gripped hard and folded mid-thrust, her spearpoint lands a foot past her arm's reach.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A folded thrust lands true only if the click meets the thrust; early or late, it goes wide.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Each folded thrust costs a fold's mana and jars her wrists like striking a post.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Practicing folded thrusts is practice of both Dimension Magic and Spearmanship.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
