@@ -10,7 +10,7 @@ export const overwhereIi00010 = {
   position: 10,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Just a Talented, hadn't tried to use my Talent quite like that before, I’m glad it worked. Anyone else get bitten you know of? Wouldn’t mind some more practice with my new technique.”",
   beats: [
@@ -32,7 +32,10 @@ export const overwhereIi00010 = {
     '"She\'d not have you walk the thaw barefoot, after this. Nor would I."',
     "He holds them out to Nala, boots on top of the cloak.",
   ],
-  issues: ['"none of his silver\'s helped her" - Nobody Acts'],
+  issues: [
+    '"none of his silver\'s helped her" - Nobody Acts',
+    '"he does not believe her" - the prose leaves this beat out; it shows only his stare',
+  ],
   lore: [
     "lore/overwhere-ii-garth-marsh",
     "lore/overwhere-ii-goody-brannoc",
@@ -40,6 +43,6 @@ export const overwhereIi00010 = {
     "lore/overwhere-ii-wendle-ford-folk",
     "place/overwhere-ii-marsh-croft",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T07:55:00.000Z",
 } as const satisfies StoryTurnPlayed
