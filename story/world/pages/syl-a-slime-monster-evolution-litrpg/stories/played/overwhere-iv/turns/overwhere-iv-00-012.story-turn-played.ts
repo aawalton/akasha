@@ -15,4 +15,5 @@ export const overwhereIv00012 = {
     "lore/overwhere-iv-slimes-and-cores",
     "place/overwhere-iv-millbrook-gatehouse",
   ],
+  endsAt: "2026-09-29T18:25:00.000Z",
 } as const satisfies StoryTurnPlayed
