@@ -19,7 +19,7 @@ export const overwhereIii00033 = {
     "character-other/overwhere-iii-marda-hesk",
     "character-other/overwhere-iii-cal-fenn",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“I’ll take the patched one, that’s perfect.” Then thank her and retire for the night. In the morning I go and heal Ivy again, then check for work at the Post.",
   beats: [
@@ -63,6 +63,11 @@ export const overwhereIii00033 = {
     "place/overwhere-iii-wrenwood",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-01T08:10:00.000Z",
 } as const satisfies StoryTurnPlayed

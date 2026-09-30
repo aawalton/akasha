@@ -7,6 +7,6 @@ export const overwhereIiiBetHarrow = {
   title: "Nala and Bet Harrow",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-bet-harrow"],
-  relationshipPoints: 2,
+  relationshipPoints: 3,
   unrevealed: true,
 } as const satisfies WorldRelationship
