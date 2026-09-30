@@ -129,6 +129,9 @@ export function ActionBar({
   const toldAt = useRef(turnsSeen)
   const formAt = useRef<HTMLFormElement | null>(null)
   const sentBy = useRef<SendCause | null>(null)
+  const lastInput = useRef<{ inputType: string; at: number } | null>(null)
+  const sentAt = useRef<number | null>(null)
+  const startedAfterSend = useRef<{ inputType: string; ms: number } | null>(null)
   const returnSends = useReturnSends((cause) => {
     sentBy.current = cause
     formAt.current?.requestSubmit()
@@ -205,10 +208,22 @@ export function ActionBar({
     setText("")
     const echo = echoOf(key, typed, Date.now())
     setEchoes((held) => [...held, echo])
+    const now = Date.now()
+    const seen = lastInput.current
+    const before = seen === null ? null : { inputType: seen.inputType, ms: now - seen.at }
+    const started = startedAfterSend.current
+    startedAfterSend.current = null
+    sentAt.current = now
     const sent = await sendAction({
       gameExternalId,
       text: typed,
-      sentBy: { ...cause, length: typed.length, boxLength },
+      sentBy: {
+        ...cause,
+        length: typed.length,
+        boxLength,
+        lastInput: before,
+        startedAfterSend: started,
+      },
     })
     if (sent.ok) {
       setEchoes((held) => echoWritten(held, key, sent.id, Date.now()))
@@ -256,6 +271,16 @@ export function ActionBar({
             ref={returnSends}
             value={text}
             onChange={(event) => onType(event.target.value)}
+            onInput={(event) => {
+              const typed = event.nativeEvent
+              const inputType = typed instanceof InputEvent ? typed.inputType : "unknown"
+              const at = Date.now()
+              const since = sentAt.current
+              if (since !== null && startedAfterSend.current === null) {
+                startedAfterSend.current = { inputType, ms: at - since }
+              }
+              lastInput.current = { inputType, at }
+            }}
             onKeyDown={(event) => {
               if (!sendsNow(event)) return
               event.preventDefault()

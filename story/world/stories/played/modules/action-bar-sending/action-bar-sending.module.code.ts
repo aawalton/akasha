@@ -30,9 +30,13 @@ async function bodyOf(answered: Response): Promise<Readonly<Record<string, unkno
   }
 }
 
+type InputBeforeSend = { readonly inputType: string; readonly ms: number }
+
 type SentBy = SendCause & {
   readonly length: number
   readonly boxLength: number | null
+  readonly lastInput: InputBeforeSend | null
+  readonly startedAfterSend: InputBeforeSend | null
 }
 
 type ActionSent = PlayerActionInput & { readonly sentBy?: SentBy }
