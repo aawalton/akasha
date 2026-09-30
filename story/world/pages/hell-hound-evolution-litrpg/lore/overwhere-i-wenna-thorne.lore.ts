@@ -37,7 +37,7 @@ export const overwhereIWennaThorne = {
     },
     {
       fact: "Fen-fever has taken hold among the reed-cutters this summer, and she is worn thin.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "She wants an apprentice with steady hands before her own fail.",
