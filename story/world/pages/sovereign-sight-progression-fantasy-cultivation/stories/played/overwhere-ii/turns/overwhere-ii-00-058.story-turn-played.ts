@@ -10,7 +10,7 @@ export const overwhereIi00058 = {
   position: 58,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Yeah, I’ll need to prepare a but before I’m ready for that. Sounds like you’ll get to keep me a while longer after all.” Once the conversation is done, I get a good meal and go to sleep.",
   beats: [
@@ -25,7 +25,7 @@ export const overwhereIi00058 = {
     "She wakes at dawn on day five, rested and clear-headed, her mouth a little dry.",
     "The raw prickle has gone from her skin, and the bruise over her ribs is a dull yellow ache.",
     "Her mind feels whole again, the wear of last night's lost refining washed away by sleep.",
-    "Today is the day Hob promised her spear.",
+    "Down the ford road, the ring of Hob's hammer carries through the cold dawn air.",
   ],
   issues: ['"Today is the day Hob promised your spear." - No Prompt'],
   lore: [
