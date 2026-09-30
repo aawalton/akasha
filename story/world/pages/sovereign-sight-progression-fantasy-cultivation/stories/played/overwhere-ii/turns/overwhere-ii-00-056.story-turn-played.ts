@@ -10,7 +10,7 @@ export const overwhereIi00056 = {
   position: 56,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“What can you tell me about Crake? What are his crimes? How does he target victims? What is known about his abilities? Does he work alone?” While we talk, I start reinforcing the skin on my torso, working from my legs upwards.",
   beats: [
@@ -42,6 +42,6 @@ export const overwhereIi00056 = {
     "lore/overwhere-ii-nala-2",
     "lore/overwhere-ii-reeve-corwin-dray-2",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-02T19:45:00.000Z",
 } as const satisfies StoryTurnPlayed
