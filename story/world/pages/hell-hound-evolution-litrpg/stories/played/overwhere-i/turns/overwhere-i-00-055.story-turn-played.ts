@@ -7,9 +7,16 @@ export const overwhereI00055 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 55,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I use an earth attunement to pull out the hard knots, curious to see what they might be.",
+  beats: [
+    "Nala kneels by the drowned pine and reaches into the root-bound soil with an earth working.",
+    "The soil loosens around the two cold knots and draws them up to the surface between the roots.",
+    "She brushes the dirt away: two pieces of pale blue crystal, each about a thumb-joint long.",
+    "They are cold to hold, and in the shade of the roots they glow faintly.",
+    "Held in her palm, each one hums faintly against the mana inside her.",
+  ],
   lore: [
     "lore/overwhere-i-fenwatch-2",
     "lore/overwhere-i-starfall-legacy",
