@@ -349,5 +349,9 @@ export const overwhereITheGreyfenAlpha2 = {
         "lore/overwhere-i-rowan-coalby",
       ],
     },
+    {
+      fact: "By dawn of day 4 scavengers have fed on Ghost-Eye's body, but its head is still whole.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
