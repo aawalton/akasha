@@ -318,6 +318,26 @@ export const overwhereIiiNala = {
       fact: "An hour and a half into her afternoon picking, Nala has cut fifteen more good frostcaps.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala now has twenty-three good frostcaps, each cut at the root.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "Nala carried her three dead antlered rabbits to the Crook and Candle's back kitchen at dusk.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-dunstan-harrow",
+      ],
+    },
+    {
+      fact: "Two of Nala's three dead antlered rabbits still have their glimmerstones in.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-dunstan-harrow",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

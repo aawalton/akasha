@@ -232,6 +232,10 @@ export const overwhereIiiWrenwood = {
       fact: "Eight good frostcaps stand on the brookside roots after the three bruised: her five and three spare.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala cut all eight good frostcaps off the brookside roots; none good are left there.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
