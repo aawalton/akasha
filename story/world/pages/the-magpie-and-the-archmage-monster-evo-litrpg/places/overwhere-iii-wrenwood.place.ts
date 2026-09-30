@@ -188,6 +188,10 @@ export const overwhereIiiWrenwood = {
       fact: "Brannagh Tull takes up to forty more frostcaps this week at her shop, straight for a copper each.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "By afternoon frost holds only in north-side shade, and the frostcaps there stay firm and good.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
