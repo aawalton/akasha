@@ -14,7 +14,7 @@ export const overwhereIii00047 = {
     "character-other/overwhere-iii-brannagh-tull",
     "character-other/overwhere-iii-mother-sallow",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Does it give back more mana than it costs? If not, I don’t know that it would help me much quite yet.”",
   beats: [
@@ -30,6 +30,9 @@ export const overwhereIii00047 = {
     '"The old shrine at the crossroads gives back what a day took, to them as rest there."',
     '"Old wives\' talk, maybe. I never had the mana to test it."',
   ],
+  issues: [
+    '"What the pot takes out of you...I can\'t tell you" - Brannagh knows Mother said ~3x back',
+  ],
   lore: [
     "lore/overwhere-iii-brannagh-tull",
     "lore/overwhere-iii-brannagh-tull-2",
@@ -38,6 +41,6 @@ export const overwhereIii00047 = {
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-nala-2",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-03T13:25:00.000Z",
 } as const satisfies StoryTurnPlayed
