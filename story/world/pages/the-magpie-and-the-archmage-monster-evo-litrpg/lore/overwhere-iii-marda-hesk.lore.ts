@@ -122,7 +122,11 @@ export const overwhereIiiMardaHesk = {
     },
     {
       fact: "Marda wants Nala to learn Purify, and will put her on blight work once she can.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Until then she wants Nala growing on clean beasts at the edge and clear of corrupted ones.",
