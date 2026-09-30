@@ -41,6 +41,11 @@ export const otherwhereIiExperience = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "What a turn earned settles in order, each weighed at the level what came before it left.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Each level gained gives its class's points and a flood of warmth in the core.",
     },
     {

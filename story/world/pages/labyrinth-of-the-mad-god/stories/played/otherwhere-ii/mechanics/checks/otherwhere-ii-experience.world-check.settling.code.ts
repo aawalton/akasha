@@ -51,12 +51,17 @@ export function settled(reading: unknown): Settled {
   if (!held.success) return { refused: `growth reads so: ${z.prettifyError(held.error)}` }
   const { level: from, experience: had, earned } = held.data
   if (had >= toNext(from)) return { refused: "experience already past the next level" }
-  const gained = earned.reduce((sum, one) => sum + worth(one, from), 0)
+  let gained = 0
   let level = from
-  let experience = had + gained
-  while (experience >= toNext(level)) {
-    experience -= toNext(level)
-    level += 1
+  let experience = had
+  for (const one of earned) {
+    const earns = worth(one, level)
+    gained += earns
+    experience += earns
+    while (experience >= toNext(level)) {
+      experience -= toNext(level)
+      level += 1
+    }
   }
   return {
     answered: { gained, level, experience, levelsGained: level - from, toNext: toNext(level) },

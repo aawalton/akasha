@@ -38,6 +38,20 @@ test("a quest stage is worth what it states, and may lift several levels", () =>
   ).toEqual({ answered: { gained: 60, level: 3, experience: 10, levelsGained: 2, toNext: 40 } })
 })
 
+test("a kill after a quest stage lifts her is weighed at the level the stage lifted her to", () => {
+  expect(
+    settled({
+      character: WHO,
+      level: 4,
+      experience: 0,
+      earned: [
+        { kind: "quest", worth: 50 },
+        { kind: "kill", level: 0 },
+      ],
+    })
+  ).toEqual({ answered: { gained: 50, level: 5, experience: 0, levelsGained: 1, toNext: 60 } })
+})
+
 test("experience already past the next level is refused", () => {
   expect(
     settled({ character: WHO, level: 0, experience: 12, earned: [{ kind: "quest", worth: 1 }] })
