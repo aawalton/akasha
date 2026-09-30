@@ -13,7 +13,7 @@ export const overwhereIii00027 = {
     "character-player/overwhere-iii-nala",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“I’d like to, but my mana is running on empty already. I don’t have a big supply. Unless you have something to solve that, I might have to wait until morning…”",
   beats: [
@@ -25,7 +25,8 @@ export const overwhereIii00027 = {
     "\"Worth a silver. It's yours against the work, if you'll do it tonight.\"",
     '"If not, come see them now anyhow, and be back here at first light."',
   ],
+  issues: ['"She pushes it an inch toward you" - prose tells an event the beats do not hold'],
   lore: ["lore/overwhere-iii-brannagh-tull", "lore/overwhere-iii-nala"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T17:49:00.000Z",
 } as const satisfies StoryTurnPlayed
