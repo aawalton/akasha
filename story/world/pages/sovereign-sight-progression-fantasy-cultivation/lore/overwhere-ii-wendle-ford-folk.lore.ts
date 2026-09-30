@@ -255,5 +255,9 @@ export const overwhereIiWendleFordFolk = {
       fact: "Once the cart is back, Oakes pays eight silver for the four greymaws and the watch's silver bar.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Seeing the white-eye's carcass, even the Cray brothers go quiet and respectful toward Nala.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
