@@ -31,5 +31,6 @@ export const overwhereIv00042 = {
     'She pushes the coins across. "So. What would you like next?"',
   ],
   lore: ["lore/overwhere-iv-ilsa-crane-2", "lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-02T10:07:00.000Z",
 } as const satisfies StoryTurnPlayed
