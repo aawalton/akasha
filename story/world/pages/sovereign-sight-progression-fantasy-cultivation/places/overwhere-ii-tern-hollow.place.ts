@@ -87,5 +87,9 @@ export const overwhereIiTernHollow = {
       fact: "Somewhere down the lane from the barn are a barking dog and a man who hushes it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "The loft floor is about ten feet above the barn's flagstones, reached by a ladder.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
