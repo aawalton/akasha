@@ -239,6 +239,10 @@ export const overwhereIFenwatch = {
       fact: "By day the Grubboar sounder beds in a wallow in alder carr, a quarter hour south of the oat strips.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Hauling a carcass that size from the wallow to the palisade takes about forty minutes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
