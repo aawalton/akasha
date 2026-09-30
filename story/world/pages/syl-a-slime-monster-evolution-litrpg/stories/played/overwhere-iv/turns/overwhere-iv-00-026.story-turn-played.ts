@@ -10,4 +10,5 @@ export const overwhereIv00026 = {
   stepStatus: "step-status/game-master",
   action: "I stab it again with the folded thrust, this time aiming for the neck.",
   lore: ["place/overwhere-iv-hobb-farm"],
+  endsAt: "2026-09-30T18:30:00.000Z",
 } as const satisfies StoryTurnPlayed
