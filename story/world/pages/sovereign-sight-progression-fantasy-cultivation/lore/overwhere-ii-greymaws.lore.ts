@@ -91,5 +91,9 @@ export const overwhereIiGreymaws = {
       fact: "Undertow's push throws a greymaw off its feet, but it rises again unhurt.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Greymaw jaws can tear Nala's tough skin; she can draw any rot from such a wound herself.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
