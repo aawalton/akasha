@@ -60,5 +60,9 @@ export const overwhereIStarfallLegacy = {
       fact: "Each ripple is one minute held; the System opens no window for it on first use.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A ripple returns as knowing, not sight: hollows feel empty, living bodies warm, heavy, stirring.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
