@@ -320,6 +320,10 @@ export const overwhereIiNala = {
       fact: "After the greymaws, Nala's well brims with brackish foreign Water, restless under her breastbone.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Pushing one thing while pulling another at once drives Undertow to its limit; she holds it moments.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
