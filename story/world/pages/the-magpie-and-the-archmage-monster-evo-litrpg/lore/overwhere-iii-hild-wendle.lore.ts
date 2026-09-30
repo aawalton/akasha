@@ -100,22 +100,5 @@ export const overwhereIiiHildWendle = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
-    {
-      fact: "At the noon bell Hild came to Brannagh's, unwrapped her puckered shin and asked for the smoothing.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-hild-wendle",
-        "character-other/overwhere-iii-brannagh-tull",
-      ],
-    },
-    {
-      fact: "At the noon bell Hild came to Brannagh's and bared her puckered seam for the smoothing.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-hild-wendle",
-      ],
-    },
   ],
 } as const satisfies Lore

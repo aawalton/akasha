@@ -225,7 +225,7 @@ export const overwhereIiiBrannaghTull = {
       ],
     },
     {
-      fact: "She will not touch the seed stones; she tips them off with a spoon into a clay cup for Nala.",
+      fact: "She will not touch the seed blightstones; she tips them off with a spoon into a clay cup for Nala.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-brannagh-tull",
@@ -277,7 +277,7 @@ export const overwhereIiiBrannaghTull = {
       ],
     },
     {
-      fact: "Brannagh warns seed stones are best kept off the skin and out of a bed, and shut in their cup.",
+      fact: "Brannagh warns blightstones are best kept off the skin and out of a bed, and shut in their cup.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/overwhere-iii-nala",
@@ -332,22 +332,6 @@ export const overwhereIiiBrannaghTull = {
         "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-brannagh-tull",
       ],
-    },
-    {
-      fact: "Her mother's book says a potion only 'takes' if its brewer has some mana to pour into the pot.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
-    },
-    {
-      fact: "The book's healing potion: snowroot, comfrey, spring water, simmered an hour with mana poured in.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "The receipt book takes a slow reader most of a day; it's cramped, with salves, teas and poultices.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "The receipt book's salves: goose-grease and yarrow for wounds, marigold for burns.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",
