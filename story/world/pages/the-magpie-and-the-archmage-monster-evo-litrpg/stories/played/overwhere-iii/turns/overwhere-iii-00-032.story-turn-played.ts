@@ -10,7 +10,7 @@ export const overwhereIii00032 = {
   position: 32,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-bet-harrow"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "“Deal, I’ll take it all. Know where I could get a pack?”",
   beats: [
     '"Deal," Nala says. "I\'ll take it all."',
@@ -25,6 +25,9 @@ export const overwhereIii00032 = {
     'Bet taps the box with her foot. "Or there\'s an old canvas knapsack in the bottom of that."',
     '"Patched, mind. But it holds. Four copper, and it\'s yours."',
   ],
+  issues: [
+    '"Properly warm, for the first time since the crossroads" - she wore Tobin\'s heavy coat until turn 30',
+  ],
   lore: [
     "lore/overwhere-iii-bet-harrow",
     "lore/overwhere-iii-nala",
@@ -32,6 +35,6 @@ export const overwhereIii00032 = {
     "place/overwhere-iii-crook-and-candle",
     "place/overwhere-iii-merrowgate",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T19:00:00.000Z",
 } as const satisfies StoryTurnPlayed
