@@ -52,5 +52,9 @@ export const overwhereIStarfallLegacy = {
       fact: "Reading a ripple is a moderate act; known holts to calibrate on add 2.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The ripple is a use of Starfall Weave, not a new legacy way, though a novel one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
