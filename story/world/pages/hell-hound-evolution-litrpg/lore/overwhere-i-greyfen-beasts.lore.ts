@@ -299,6 +299,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "On land a reedlurker is clumsy; its webbed claws skid, and it drags itself back toward water.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Wet, a reedlurker's hide wards 3 against fire and heat, against 1 for blows.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
