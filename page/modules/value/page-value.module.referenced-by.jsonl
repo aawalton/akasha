@@ -53,6 +53,7 @@
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/modules/value-minting/value-minting.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/change/repeat/change-repeat.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/model-account/disable/model-account-disable.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/model-account/login/model-account-login.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/model-account/re-enable/model-account-re-enable.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/music/capture/music-capture.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/music/next/music-next.command.code.ts","typed":false,"deferred":false}

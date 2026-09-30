@@ -212,6 +212,7 @@
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/location.argument.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/log-dir.argument.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/login-checklist.argument.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/login-code.argument.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/lora-paths.argument.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/lora-scales.argument.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/lore-category.argument.ts","typed":true,"deferred":false}

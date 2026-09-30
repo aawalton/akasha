@@ -9,6 +9,7 @@ export const modelAccount = {
     "command/model-account-add",
     "command/model-account-disable",
     "command/model-account-re-enable",
+    "command/model-account-login",
   ],
   name: "model-account",
 } as const satisfies Namespace

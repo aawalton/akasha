@@ -24,7 +24,7 @@ function scriptAt(root: string): string {
   return resolve(root, fileOf(root, valuedAt(root, SCRIPT, zimageUp.slug), SCRIPT, SHELL))
 }
 
-function linesOf(text: string): readonly string[] {
+export function linesOf(text: string): readonly string[] {
   return text
     .split("\n")
     .map((line) => line.trimEnd())

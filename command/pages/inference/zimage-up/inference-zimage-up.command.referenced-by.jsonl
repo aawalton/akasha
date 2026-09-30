@@ -1,3 +1,4 @@
 {"propertySlug":"import","fileName":"inference-zimage-up.command.code.ts","path":"command/pages/inference/zimage-up/inference-zimage-up.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inference-zimage-up.command.code.ts","path":"command/pages/model-account/login/model-account-login.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inference-zimage-up.command.ts","path":"command/pages/inference/zimage-up/inference-zimage-up.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/inference/inference.namespace.ts","id":"01a07bc2-afbe-727e-90b4-d853582c03a2"}
