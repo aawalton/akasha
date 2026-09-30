@@ -77,10 +77,18 @@ function shownOf(value: number | string): string {
   return typeof value === "number" ? value.toLocaleString(undefined, SHOWN_NUMBER) : value
 }
 
-function ScalarRows({ record }: { record: Readonly<Record<string, number | string>> }) {
+function ScalarRows({
+  record,
+  single = false,
+}: {
+  record: Readonly<Record<string, number | string>>
+  single?: boolean
+}) {
   const entries = Object.entries(record)
   return (
-    <div className="grid grid-cols-2 gap-x-[14px] gap-y-[7px] font-mono text-[12.5px]">
+    <div
+      className={`grid ${single ? "grid-cols-1" : "grid-cols-2"} gap-x-[14px] gap-y-[7px] font-mono text-[12.5px]`}
+    >
       {entries.map(([key, value]) => (
         <div
           key={key}
@@ -136,7 +144,7 @@ function StatsTab({
     <div className="flex flex-col gap-3">
       {resources !== undefined ? (
         <Section title="Resources">
-          <ScalarRows record={resources} />
+          <ScalarRows record={resources} single />
         </Section>
       ) : null}
       {attributes !== undefined ? (

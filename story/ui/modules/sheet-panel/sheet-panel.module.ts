@@ -46,6 +46,11 @@ export const sheetPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Resources are drawn one to a line, so a resource's name and its count never wrap.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A panel drawing this sheet says whether it shows the stats and the bonds.",
     },
     {
