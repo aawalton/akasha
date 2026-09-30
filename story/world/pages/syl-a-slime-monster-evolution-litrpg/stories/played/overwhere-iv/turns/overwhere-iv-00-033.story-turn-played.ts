@@ -10,7 +10,7 @@ export const overwhereIv00033 = {
   position: 33,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "This time, I cast Rift Rend, aiming to cut the slinger in half",
   beats: [
     "Nala stays down in the leaf mould. Her shoulder throbs. She looks up at the oak.",
@@ -23,7 +23,7 @@ export const overwhereIv00033 = {
     "<Proficiency gained. [Rift Rend LV 2] improved to [Rift Rend LV 3].>",
     "The warmth behind her ribs is thinner now. Near half gone, she guesses.",
     "The goblin lands in a heap at the oak's foot, a stride from Dace. It isn't dead. It is gasping.",
-    "In the hollow, the two hurt scouts stare at it. Neither moves.",
+    "In the hollow, the two hurt scouts throw down spear and knife and grovel, wailing for mercy.",
     "Dace plants his foot on the slinger's back and looks across at Nala, breathing hard.",
     '"That\'s your cut," he calls. "You want to finish it, or shall I?"',
   ],
