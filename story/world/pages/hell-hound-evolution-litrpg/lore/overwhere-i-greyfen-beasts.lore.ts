@@ -263,6 +263,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "A sleeping reedlurker pulled at by a weave wakes and bolts out its water mouth into the channel.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A reedlurker strikes anyone within a yard of the water; turning its unseen strike is a hard act.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
