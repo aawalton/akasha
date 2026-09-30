@@ -18,7 +18,7 @@ export const overwhereIii00033 = {
     "character-other/overwhere-iii-marda-hesk",
     "character-other/overwhere-iii-cal-fenn",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“I’ll take the patched one, that’s perfect.” Then thank her and retire for the night. In the morning I go and heal Ivy again, then check for work at the Post.",
   beats: [
@@ -61,6 +61,6 @@ export const overwhereIii00033 = {
     "place/overwhere-iii-merrowgate-guild-post",
     "place/overwhere-iii-wrenwood",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-01T08:10:00.000Z",
 } as const satisfies StoryTurnPlayed
