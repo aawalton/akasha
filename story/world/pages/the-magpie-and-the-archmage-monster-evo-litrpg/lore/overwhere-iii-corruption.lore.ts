@@ -280,6 +280,10 @@ export const overwhereIiiCorruption = {
       fact: "Once a blight bite is clean, its purple patches fade on their own over a few days.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A half-cleansed blight bite holds as it is; drawn blight does not creep back overnight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
