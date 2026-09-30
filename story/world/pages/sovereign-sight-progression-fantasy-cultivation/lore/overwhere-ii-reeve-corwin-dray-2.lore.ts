@@ -17,7 +17,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray asks Nala to keep the pull under the mountain from the village until he has word back.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Crake's men robbed a drover on the Carrowmouth road ten days ago, a day's walk below the Ford.",
