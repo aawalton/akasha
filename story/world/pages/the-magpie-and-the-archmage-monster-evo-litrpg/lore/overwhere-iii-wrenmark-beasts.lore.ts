@@ -86,7 +86,7 @@ export const overwhereIiiWrenmarkBeasts = {
     },
     {
       fact: "When one of a jackalope pair is struck, the other charges rather than flees.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Out in the open, off its roots, a jackalope has no cover to dart behind.",
