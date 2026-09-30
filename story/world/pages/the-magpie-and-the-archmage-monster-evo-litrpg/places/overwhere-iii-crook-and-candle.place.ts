@@ -59,6 +59,14 @@ export const overwhereIiiCrookAndCandle = {
         "character-other/overwhere-iii-tobin-wick",
       ],
     },
+    {
+      fact: "Tonight's supper at the Crook and Candle is mutton and onion pie with new bread.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-bet-harrow",
+        "character-other/overwhere-iii-dunstan-harrow",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
