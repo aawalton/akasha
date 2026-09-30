@@ -33,6 +33,8 @@ export const overwhereIv00024 = {
     "Child-sized, grey-green skin, dressed in hide scraps. One carries a flint-tipped spear.",
     "The other has a rusty knife, and is grinning at the sheep in the next field. Neither has seen her.",
   ],
+  issues: ['"They haven\'t seen you." - No Prompt'],
   lore: ["lore/overwhere-iv-nala"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T18:27:00.000Z",
 } as const satisfies StoryTurnPlayed
