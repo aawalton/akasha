@@ -90,6 +90,10 @@ export const overwhereIiiMerrowgateGuildPost = {
       fact: "Marda keeps unclaimed Copper Guild rings in a tin in the desk drawer.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The post buys no carcasses; Marda sends hunters to Hal Dunmore at the Crook and Candle.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
