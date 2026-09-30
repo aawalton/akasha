@@ -4,10 +4,19 @@ export const overwhereIv00017 = {
   id: "01a0f253-d6cc-7e81-9f94-fb66455153ba",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-017",
+  ownLength: 362,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 17,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iv-nala",
+    "character-other/overwhere-iv-brenna-holt",
+    "character-other/overwhere-iv-wat",
+    "character-other/overwhere-iv-dell",
+    "character-other/overwhere-iv-oswin-pike",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I go to sleep, troubled, then in the morning show up for laps and give it my full effort.",
   beats: [
@@ -31,6 +40,6 @@ export const overwhereIv00017 = {
     '"Wat, you\'re with Oswin." She points her spear at Dell, then at Nala. "Farrow. You\'re with her."',
     'Dell swings his spear round and grins. "Go gentle on me, lamb-girl."',
   ],
-  lore: ["place/overwhere-iv-millbrook-gatehouse"],
+  lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-millbrook-gatehouse"],
   endsAt: "2026-09-30T07:15:00.000Z",
 } as const satisfies StoryTurnPlayed
