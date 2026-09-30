@@ -10,7 +10,7 @@ export const overwhereIiiIvyMarsh = {
   facts: [
     {
       fact: "Ivy Marsh is about forty, thin and wiry, with black hair gone gray at the temples.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "She is a drover's widow, a Common of Level 9, who drives her late husband's cattle herself.",
