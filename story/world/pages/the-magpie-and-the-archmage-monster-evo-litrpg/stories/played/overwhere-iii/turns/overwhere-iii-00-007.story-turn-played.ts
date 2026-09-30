@@ -26,8 +26,12 @@ export const overwhereIii00007 = {
     "Tobin wipes his bowl with the last of his bread and pushes back from the table, stiff from the road.",
     '"I\'m for bed. I sell at the square in the morning." He looks at her. "You\'ll be all right tonight?"',
   ],
-  lore: ["lore/overwhere-iii-nala", "lore/overwhere-iii-tobin-wick"],
+  lore: [
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-the-system",
+    "lore/overwhere-iii-tobin-wick",
+  ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-29T18:00:00.000Z",
 } as const satisfies StoryTurnPlayed
