@@ -4,6 +4,7 @@ export const overwhereI00038 = {
   id: "01a0f39f-587d-7edf-8538-539734c5d512",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-038",
+  cover: "image/image-6b52fa047e21b038",
   ownLength: 149,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -27,8 +28,8 @@ export const overwhereI00038 = {
     '"it finds no warm, heavy weight" - Plain Negation',
     '"a hundred yards up from the first slide" - she stands ~30 yds up; 70 yds is past her 50-yd reach',
   ],
-  lore: ["lore/overwhere-i-greyfen-beasts-2", "lore/overwhere-i-nala"],
+  lore: ["lore/overwhere-i-greyfen-beasts-2", "lore/overwhere-i-nala", "lore/overwhere-i-nala-2"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-30T11:06:00.000Z",
 } as const satisfies StoryTurnPlayed
