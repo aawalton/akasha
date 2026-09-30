@@ -218,7 +218,7 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "Shaping one slug takes a few seconds of an earth working, so slugs are best made ahead and carried.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "A grooved slug flung with spinning air flies true to about 100 yards and carries about 200.",
