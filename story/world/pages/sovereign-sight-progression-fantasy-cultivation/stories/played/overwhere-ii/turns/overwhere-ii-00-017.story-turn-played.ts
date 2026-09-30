@@ -4,13 +4,14 @@ export const overwhereIi00017 = {
   id: "01a0f1df-f5b5-76f3-8efc-7b43eb91ba19",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-017",
+  cover: "image/image-97cf3b4a1ed0efd9",
   ownLength: 308,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 17,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Quiet!” I command. I try to carefully use the other direction of my power to push a small amount of life force from me back into the girl.",
   beats: [
@@ -37,6 +38,6 @@ export const overwhereIi00017 = {
   issues: ['"And now you know how fine those deep threads are" - Leave It Open'],
   lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-wendle-ford-folk"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T10:29:00.000Z",
 } as const satisfies StoryTurnPlayed
