@@ -4,10 +4,13 @@ export const overwhereIv00012 = {
   id: "01a0f1fd-7b27-73da-b582-daabb2927fc2",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-012",
+  ownLength: 254,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 12,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Yeah, it was the strangest thing. Any idea why they would do that? I know I’m pretty, but I’ve never had men throw their lives at my feet like that.” I say with a laugh.",
   beats: [
@@ -28,6 +31,7 @@ export const overwhereIv00012 = {
   ],
   lore: [
     "lore/overwhere-iv-brenna-holt",
+    "lore/overwhere-iv-nala",
     "lore/overwhere-iv-slimes-and-cores",
     "place/overwhere-iv-millbrook-gatehouse",
   ],
