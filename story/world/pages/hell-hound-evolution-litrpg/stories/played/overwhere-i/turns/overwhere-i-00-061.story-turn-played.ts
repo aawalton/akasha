@@ -4,13 +4,14 @@ export const overwhereI00061 = {
   id: "01a0f49d-e0e8-7d98-8053-92d2ce566c6d",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-061",
+  cover: "image/image-6ea8c389636e2c0f",
   ownLength: 112,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 61,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“One more question first. Could I turn it into something to improve my spell casting? Gold I have plenty, but an arcane focus would help quite a bit more.”",
   beats: [
@@ -30,6 +31,11 @@ export const overwhereI00061 = {
     "place/overwhere-i-wendlow",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-01T18:05:00.000Z",
 } as const satisfies StoryTurnPlayed
