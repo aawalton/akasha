@@ -87,5 +87,9 @@ export const overwhereIiGreymaws = {
       fact: "Greymaw Water drawn into Nala tastes brackish; its rot gathers on her palm as thick grey salt.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Undertow's push throws a greymaw off its feet, but it rises again unhurt.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
