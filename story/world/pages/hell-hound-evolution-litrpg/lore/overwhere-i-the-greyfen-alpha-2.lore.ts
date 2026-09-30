@@ -224,5 +224,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Seven and Eight burst from the reeds first; she is still some 20 yards out from the hummock.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Six, Seven and Eight each have 35 health and hide warding 2, 1 against a slug.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
