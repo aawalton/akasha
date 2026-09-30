@@ -69,5 +69,9 @@ export const overwhereIiiGarrickDole = {
       fact: "A second pull on Garrick's bite draws another third; the purple shrinks to a hand round the bite.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Clear-headed now, Garrick asks his healer's name, and says slowly that he owes her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
