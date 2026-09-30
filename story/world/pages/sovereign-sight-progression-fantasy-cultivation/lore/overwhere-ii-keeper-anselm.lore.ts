@@ -67,6 +67,10 @@ export const overwhereIiKeeperAnselm = {
       fact: "Anselm's small Talent, Tidesense, feels it when Water is drawn nearby.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Anselm felt a slow, steady tide from the mill that morning, an hour long, like breathing.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
