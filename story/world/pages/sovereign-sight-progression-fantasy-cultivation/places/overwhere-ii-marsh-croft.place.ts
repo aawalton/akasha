@@ -48,5 +48,9 @@ export const overwhereIiMarshCroft = {
       fact: "The grey rot salt drawn from Wren lies in Garth's black iron porridge pot.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Two of Garth's ewes took greymaw scratches at the fold and have gone lame and sour with rot.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place

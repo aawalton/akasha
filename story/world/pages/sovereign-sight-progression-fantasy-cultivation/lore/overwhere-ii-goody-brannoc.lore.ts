@@ -39,6 +39,10 @@ export const overwhereIiGoodyBrannoc = {
       fact: "Anyone who could draw rot out of a body would be the greatest wonder of her life.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Garth says Goody Brannoc at the Ford tends all the rot-sick, and would know who else.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

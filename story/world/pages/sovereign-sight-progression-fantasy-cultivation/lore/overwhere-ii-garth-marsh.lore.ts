@@ -127,6 +127,10 @@ export const overwhereIiGarthMarsh = {
       fact: "Seeing Wren's rot drawn out, Garth asked Nala roughly what in the Ancestors' name she is.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Once Garth or Wren speaks of it, word of a rot-drawer reaches the Ford in a day, Varrow Keep in two.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

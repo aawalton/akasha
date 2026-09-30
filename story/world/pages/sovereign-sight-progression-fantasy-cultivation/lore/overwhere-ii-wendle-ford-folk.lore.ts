@@ -39,5 +39,21 @@ export const overwhereIiWendleFordFolk = {
       fact: "The miller, Sedge Horne, is the valley's richest man and lends at a hard rate.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Tansy Horne, the miller's girl of fourteen, has greymaw rot past the elbow and some three days left.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Sedge Horne would pay a silver bar, or anything asked, to anyone who saved Tansy.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Col Ashby of the watch lies at the Reeve's house with a greymaw gash gone grey with rot.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Garth says the miller's girl at the Ford, Tansy Horne, was bitten ten days back and is bad.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
