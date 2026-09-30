@@ -160,6 +160,10 @@ export const overwhereIiiBrannaghTull = {
       fact: "She would let a healer see her two tonight without casting, and wants her back at first light.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
+    {
+      fact: "She brews no mana draughts herself; the few she has come from Thornmere.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
