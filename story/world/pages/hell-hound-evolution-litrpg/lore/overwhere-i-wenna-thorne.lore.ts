@@ -55,6 +55,10 @@ export const overwhereIWennaThorne = {
       fact: "She is kind but blunt, and keeps other people's secrets well.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At the feast she Analyzes Nala, sees Human - Level 2, and stares; Nala feels nothing of it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
