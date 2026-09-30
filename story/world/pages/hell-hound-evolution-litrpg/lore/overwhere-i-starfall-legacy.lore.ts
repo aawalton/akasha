@@ -192,5 +192,9 @@ export const overwhereIStarfallLegacy = {
       fact: "A rock bullet is easy within 30 yards, moderate to 60, and hard past that.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A fire-and-air burst fans flame in a half-circle ten yards out; each thing in it takes half a blast.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
