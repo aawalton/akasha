@@ -36,5 +36,9 @@ export const overwhereIiNala2 = {
       fact: "Beside a refined limb, Nala's unrefined skin feels thin and raw, as if asking to be matched.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Nala's left arm is refined whole, fingertip to shoulder; the bite scar is sealed under the new skin.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
