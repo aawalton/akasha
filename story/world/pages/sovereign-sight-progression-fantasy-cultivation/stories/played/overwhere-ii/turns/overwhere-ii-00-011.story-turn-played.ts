@@ -7,7 +7,12 @@ export const overwhereIi00011 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 11,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Thank you, I’ll gladly accept. How far to the Ford? Ten days is a long time. I’d hate to be too late for her. If it’s close, could you take me there now? If it’s far, maybe the ewes tonight and we go in the morning? I hate to ask you to leave your girl, but I suspect I’ll need a guide before they’ll let me see the girl. Or you could introduce me to Goody Braddoc?”",
+  lore: [
+    "lore/overwhere-ii-garth-marsh",
+    "lore/overwhere-ii-goody-brannoc",
+    "place/overwhere-ii-wendle-ford",
+  ],
 } as const satisfies StoryTurnPlayed
