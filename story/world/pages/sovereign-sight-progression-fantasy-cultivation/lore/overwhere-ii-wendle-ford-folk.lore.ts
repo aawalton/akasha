@@ -215,5 +215,9 @@ export const overwhereIiWendleFordFolk = {
       fact: "Reeve Oakes talks to anyone who will listen of the wonder he saw at Col's bed.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Drawn clean, Col's gash is a clean red line; he flexed foot and knee and called it his leg back.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
