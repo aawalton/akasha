@@ -116,5 +116,9 @@ export const overwhereIStarfallLegacy = {
       fact: "Starfall Surge rose to level 3 from use on day 2, adding +3 Attunement.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "A wide water hold feels what moves in its free water as pushes against the hold, not as shapes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
