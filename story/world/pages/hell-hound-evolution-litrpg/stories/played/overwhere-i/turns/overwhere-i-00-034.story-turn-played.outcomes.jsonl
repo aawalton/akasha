@@ -1,2 +1,0 @@
-{"check":"world-check/overwhere-i-action-check","reading":{"band":"standard","bonuses":[{"from":"attunement 48","by":3},{"from":"starfall surge level 3","by":1}]},"dice":{"said":"1d20","sides":20,"faces":[1]},"seed":"1cb77af31ebbec6b373f2a728d8cb92d209102fffae2134a1545347f99e19a80","answered":{"succeeded":false,"outcome":"failure","total":5,"target":12,"margin":-7}}
-{"check":"world-check/overwhere-i-time-passing","reading":{"from":"2026-09-30T10:53:00.000Z","minutes":2},"answered":{"endsAt":"2026-09-30T10:55:00.000Z","day":2,"light":"day"}}

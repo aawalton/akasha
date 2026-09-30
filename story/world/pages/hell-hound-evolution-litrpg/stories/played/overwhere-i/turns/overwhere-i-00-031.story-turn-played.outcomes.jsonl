@@ -1,2 +1,0 @@
-{"check":"world-check/overwhere-i-action-check","reading":{"band":"easy","bonuses":[{"from":"attunement 41","by":3},{"from":"starfall surge level 2","by":1},{"from":"starfall legacy rank 2","by":2}]},"dice":{"said":"1d20","sides":20,"faces":[10]},"seed":"f44fe6dc603c53c77c3b8e486e09f57b3588cafc9bf99fefa8f1bdb2d8b5358f","answered":{"succeeded":true,"outcome":"strong","total":16,"target":8,"margin":8}}
-{"check":"world-check/overwhere-i-time-passing","reading":{"from":"2026-09-30T10:49:00.000Z","minutes":2},"answered":{"endsAt":"2026-09-30T10:51:00.000Z","day":2,"light":"day"}}

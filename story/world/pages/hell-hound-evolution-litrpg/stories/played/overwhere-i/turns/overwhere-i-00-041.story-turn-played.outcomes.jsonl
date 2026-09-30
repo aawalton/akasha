@@ -1,3 +1,0 @@
-{"check":"world-check/overwhere-i-standing","reading":{"community":"Fenwatch","regard":5,"deeds":[{"deed":"ended-a-threat","quote":"collect my pay for the lurkers"}]},"answered":{"community":"Fenwatch","from":5,"to":5,"moved":0}}
-{"check":"world-check/overwhere-i-trade","reading":{"character":"character-player/overwhere-i-nala","deals":[{"what":"a hot bath at the Tarred Stag","side":"buying","base":2,"regard":5,"want":"steady","bargain":"none","offered":2}]},"answered":{"dealt":[{"what":"a hot bath at the Tarred Stag","price":2,"coins":{"gold":0,"silver":0,"copper":2},"agreed":true}]}}
-{"check":"world-check/overwhere-i-time-passing","reading":{"from":"2026-09-30T11:12:00.000Z","minutes":110},"answered":{"endsAt":"2026-09-30T13:02:00.000Z","day":2,"light":"day"}}
