@@ -167,6 +167,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "Through day 3's midday no wolf comes toward the Greystakes; the watcher changes once, about 12:30.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The pack rises to hunt about an hour before dusk, drinking first at the island's edge.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
