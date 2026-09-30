@@ -96,5 +96,9 @@ export const overwhereIiWendleFord = {
       fact: "Horne's kitchen range, below Tansy's room, is lit and hot as a forge, and Horne stokes it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "The Reeve pays his greymaw bounty on each head brought to him; no one hauls a whole carcass.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
