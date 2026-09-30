@@ -175,5 +175,9 @@ export const overwhereIiWendleFordFolk = {
       fact: "Col Ashby, thirty, is a broad, stubborn watchman who beat off the greymaw that bit him.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Col's rot is a fortnight old, shallower than Tansy's: half an hour to draw, a palmful of salt.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
