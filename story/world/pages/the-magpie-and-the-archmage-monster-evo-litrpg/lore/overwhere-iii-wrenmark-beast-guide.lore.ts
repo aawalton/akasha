@@ -22,7 +22,7 @@ export const overwhereIiiWrenmarkBeastGuide = {
     },
     {
       fact: "Ridge fox, Level 3-6: clever, raids coops; farmers pay 5 copper a tail. Winter pelt 8 copper.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Tree devourer beetle, Level 5-9: strike the soft joint under the head. Shell plates 10 copper.",
