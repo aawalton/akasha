@@ -10,7 +10,7 @@ export const overwhereIi00034 = {
   position: 34,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Sure, but I’ll hunt alone. For pay, I’d like the best spear you can get me to hunt them with. I’ll contribute up to two silver bars to pay for it if the hunt itself is not enough. I’d also like a pack if you have a spare, getting tired of carrying these in my hands “",
   beats: [
@@ -30,13 +30,16 @@ export const overwhereIi00034 = {
     'Reeve Dray: "Nobody hunts alone for me till they\'ve bested me. A watch spear against my hands."',
     'Reeve Dray: "Out on the green, now, if you\'re willing."',
   ],
-  issues: ['"Nobody hunts alone for me till they\'ve bested me" - Nobody Acts'],
+  issues: [
+    '"Nobody hunts alone for me till they\'ve bested me" - Nobody Acts',
+    '"An ash boar spear with a dark, dull cold-iron head" - What It Is',
+  ],
   lore: [
     "lore/overwhere-ii-greymaws",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-reeve-corwin-dray",
     "lore/overwhere-ii-wendle-ford-folk",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T08:20:00.000Z",
 } as const satisfies StoryTurnPlayed
