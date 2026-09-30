@@ -4,7 +4,7 @@ export const overwhereIii00041 = {
   id: "01a0f408-7ff9-7a9e-a1c2-96756ed13b6c",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-041",
-  ownLength: 331,
+  ownLength: 324,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 41,
@@ -17,7 +17,7 @@ export const overwhereIii00041 = {
     "character-other/overwhere-iii-hild-wendle",
     "character-other/overwhere-iii-ivy-marsh",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "“Thanks, for letting me know, I’ll be there. As for the magic, I’m not entirely sure how it works, but if you figure it out, please let me know.” I say with a smile, then keep reading until it’s time to go to Brannagh’s.",
   beats: [
