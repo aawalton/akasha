@@ -102,5 +102,17 @@ export const overwhereIvMillbrookGatehouse = {
         "lore/overwhere-iv-brenna-holt",
       ],
     },
+    {
+      fact: "Oswin Pike once saw slimes trail a travelling mage along the Aubrin road, years ago.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Oswin says little, but would tell of that mage if asked straight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dell Farrow holds slimes follow whoever smells of jelly, and would say so loudly.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
