@@ -256,6 +256,10 @@ export const overwhereIiiCorruption = {
       fact: "A blightstone paled by cleansing stays paled, so the work can be spread over days.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "[Cleansing Weave – At [Basic] level, draw holy current through blight to unpick it.]",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
