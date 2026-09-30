@@ -122,7 +122,11 @@ export const overwhereIiiBrannaghTull = {
     },
     {
       fact: "Both bites weep black and will not close, and purple patches creep out from them.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Both are half-corrupted: they ache and scratch and grow weaker, but stay clear in the head.",
