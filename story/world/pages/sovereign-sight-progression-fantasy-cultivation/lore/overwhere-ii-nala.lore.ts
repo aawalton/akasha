@@ -220,6 +220,34 @@ export const overwhereIiNala = {
       fact: "Stones sting her bare soles but do not cut them.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Undertow lets her feel Water, salt and rot within its reach, as a tide feels its shore.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Reaching for her Talent, she feels a tide in her: a push outward and a pull back, like surf.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Its name rises in her as she reaches, unbidden and sure, as if always known: Undertow.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Its reach runs about ten paces out from her in every way, and no farther.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "The pull wants to draw things to her, and to draw something out of whatever she touches.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Within its reach she feels Wren's leg as a sour, clotted knot of salt, and the pull wants it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "The iron nails over the door are a dead band in its reach; the tide will not touch them.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
