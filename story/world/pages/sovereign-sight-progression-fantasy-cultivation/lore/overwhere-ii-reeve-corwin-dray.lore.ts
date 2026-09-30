@@ -125,7 +125,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Folk gather on the green to watch the Reeve's bout, and Anselm watches white-faced.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
