@@ -9,4 +9,5 @@ export const otherwhereXiNala = {
   minValue: 0,
   maxValue: 38,
   history: "jsonl",
+  unrevealed: true,
 } as const satisfies OtherwhereXiHealth

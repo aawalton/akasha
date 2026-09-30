@@ -11,4 +11,5 @@ export const otherwhereXiNalaLambing = {
   character: "character-player/otherwhere-xi-nala",
   rank: "Novice",
   level: 1,
+  unrevealed: true,
 } as const satisfies OtherwhereXiSkill

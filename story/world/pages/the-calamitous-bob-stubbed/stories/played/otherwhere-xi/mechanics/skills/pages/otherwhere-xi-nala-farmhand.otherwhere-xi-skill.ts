@@ -10,4 +10,5 @@ export const otherwhereXiNalaFarmhand = {
   character: "character-player/otherwhere-xi-nala",
   rank: "Novice",
   level: 1,
+  unrevealed: true,
 } as const satisfies OtherwhereXiSkill
