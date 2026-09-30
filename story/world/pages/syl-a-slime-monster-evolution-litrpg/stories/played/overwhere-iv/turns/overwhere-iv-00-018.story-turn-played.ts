@@ -16,7 +16,7 @@ export const overwhereIv00018 = {
     "character-other/overwhere-iv-dell",
     "character-other/overwhere-iv-oswin-pike",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I focus on the work, doing my best to follow instructions and learn.",
   beats: [
     "Nala squares up to Dell in the packed-earth yard, blunt spear low, wicker shield up. Knee throbbing.",
@@ -35,6 +35,6 @@ export const overwhereIv00018 = {
     'Holt jerks her chin at the line. "Saw it and were late. Again, Farrow. Same as before."',
   ],
   lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-millbrook-gatehouse"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-30T07:45:00.000Z",
 } as const satisfies StoryTurnPlayed
