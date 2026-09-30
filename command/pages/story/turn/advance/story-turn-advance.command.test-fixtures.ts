@@ -42,7 +42,7 @@ export const LANDED = {
   commit: "a-commit",
 }
 
-export const REVIEWERS = [
+const REVIEWERS = [
   {
     slug: continuity.slug,
     name: "Continuity",
@@ -59,7 +59,7 @@ export const REVIEWERS = [
 
 export const REVIEWED = REVIEWERS.map((one) => `${storyReviewer.slug}/${one.slug}`)
 
-export const RECORDERS = [
+const RECORDERS = [
   {
     slug: "memory",
     name: "Memory",
@@ -216,7 +216,7 @@ export function turnAt(status: TurnStep, more: Record<string, unknown> = {}): Tu
   }
 }
 
-export type Race = { readonly reach: Reach; readonly landing: Landing; readonly now: () => Turn }
+type Race = { readonly reach: Reach; readonly landing: Landing; readonly now: () => Turn }
 
 export function racing(start: Turn): Race {
   const into = seen()
@@ -239,7 +239,7 @@ export function racing(start: Turn): Race {
   return { reach, landing, now: () => turn }
 }
 
-export type Stored = {
+type Stored = {
   readonly reach: (turn: Turn) => Reach
   readonly store: FileChange[]
   readonly as: (recorder: string) => void

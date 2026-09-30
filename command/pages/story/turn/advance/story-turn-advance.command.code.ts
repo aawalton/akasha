@@ -119,7 +119,7 @@ export type Timed = (root: string, ended: Ended, agentId: string | null) => unde
 
 const TIMED_STORIES = [storyPlayed.slug, storyWritten.slug]
 
-export function phaseTimed(root: string, ended: Ended, agentId: string | null): undefined {
+function phaseTimed(root: string, ended: Ended, agentId: string | null): undefined {
   try {
     const story = TIMED_STORIES.flatMap((type) => listedAt(root, type, ended.story))[0]
     if (story === undefined) return undefined
