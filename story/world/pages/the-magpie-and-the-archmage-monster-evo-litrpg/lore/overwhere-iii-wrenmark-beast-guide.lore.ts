@@ -10,7 +10,7 @@ export const overwhereIiiWrenmarkBeastGuide = {
   facts: [
     {
       fact: "Jackalope, Level 1-4: strike behind the antlers. Meat 5 copper to Dunstan; antlers 2 a pair.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Snow hare, Level 1-2: flees at a footfall; snare it. Pelt 1 copper.",
