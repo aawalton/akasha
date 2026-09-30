@@ -45,6 +45,15 @@ export const seatStart = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A headless start whose account needs a new login is refused before any page or process.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That refusal names the account and how to log it back in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A start naming no persona and no role takes the default of each.",
     },
     {

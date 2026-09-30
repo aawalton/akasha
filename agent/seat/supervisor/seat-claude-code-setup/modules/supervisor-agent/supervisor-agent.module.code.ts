@@ -49,6 +49,26 @@ const DEFAULT_ACCOUNT_RESOLUTION_DEPS: AccountResolutionDeps = {
   log: LOG,
 }
 
+function reloginSaid(account: string, expiresAt: number): string {
+  return (
+    `Model account "${account}" needs a new login: its token expired at ` +
+    `${new Date(expiresAt).toISOString()} and upkeep could not renew it. ` +
+    "A headless session cannot re-authenticate, so log it back in with the account's " +
+    "c-alias (c1/c2/c3/c4) and /login."
+  )
+}
+
+export async function headlessRefusal(
+  requestedAccount: string,
+  now: number = Date.now(),
+  deps: AccountResolutionDeps = DEFAULT_ACCOUNT_RESOLUTION_DEPS
+): Promise<string | null> {
+  const account = requestedAccount.length > 0 ? slugOf(requestedAccount) : DEFAULT_ACCOUNT
+  const cred = await deps.getCredentialByAccount(account, deps.log)
+  if (cred === null || cred.expiresAt > now) return null
+  return reloginSaid(account, cred.expiresAt)
+}
+
 export async function selectAccountAndWriteCredential(
   requestedAccount: string | undefined,
   deps: AccountResolutionDeps = DEFAULT_ACCOUNT_RESOLUTION_DEPS,
@@ -68,12 +88,7 @@ export async function selectAccountAndWriteCredential(
         `${new Date(cred.expiresAt).toISOString()} and nothing here renews one. ` +
         `Claude account upkeep is what renews a token, and it has not reached this account — ` +
         `\`systemctl --user status model-account-upkeep-service\` is where that starts.`
-      if (!interactive) {
-        throw new Error(
-          `${dead} A headless session cannot re-authenticate — re-auth interactively ` +
-            `via the account's c-alias (c1/c2/c3/c4) and /login.`
-        )
-      }
+      if (!interactive) throw new Error(reloginSaid(effectiveAccount, cred.expiresAt))
       console.warn(`${deps.log} ${dead} Launching in re-auth mode; run /login to re-authenticate.`)
       return effectiveAccount
     }

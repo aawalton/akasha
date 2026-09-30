@@ -5,6 +5,7 @@ import { aawalton } from "akasha/agent/model/account/pages/aawalton/aawalton.mod
 import { DEFAULT_ACCOUNT } from "akasha/agent/seat/launching/seat-launching.module.code.ts"
 import {
   type AccountResolutionDeps,
+  headlessRefusal,
   selectAccountAndWriteCredential,
 } from "akasha/agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.code.ts"
 
@@ -49,6 +50,25 @@ test("an account named by its slug is selected by that slug", async () => {
   const { deps, asked } = asking()
   expect(await selectAccountAndWriteCredential(aawalton.slug, deps)).toBe(aawalton.slug)
   expect(asked).toEqual([aawalton.slug])
+})
+
+test("an account whose token has expired refuses a headless start and names the account", async () => {
+  const { deps } = asking()
+  const later = Date.now() + 48 * HOUR_MS
+  const said = await headlessRefusal(aawalton.slug, later, deps)
+  expect(said).toContain(`"${aawalton.slug}" needs a new login`)
+  expect(said).toContain("/login")
+})
+
+test("an account whose token is live refuses no headless start", async () => {
+  const { deps } = asking()
+  expect(await headlessRefusal(aawalton.slug, Date.now(), deps)).toBeNull()
+})
+
+test("an account with no credential refuses no headless start", async () => {
+  const { deps } = asking()
+  const none: AccountResolutionDeps = { ...deps, getCredentialByAccount: async () => null }
+  expect(await headlessRefusal(aawalton.slug, Date.now(), none)).toBeNull()
 })
 
 test("a seat naming no account is given the default account seat launching gives", async () => {

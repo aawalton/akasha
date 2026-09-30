@@ -42,6 +42,7 @@ import {
   decideSpawnName,
 } from "akasha/agent/seat/name/modules/seat-spawn-name-decide/seat-spawn-name-decide.module.code.ts"
 import type { StatedAgentSlots } from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
+import { headlessRefusal } from "akasha/agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.code.ts"
 import {
   dataError,
   inputError,
@@ -93,7 +94,13 @@ export function detachedLaunch(
   return { ...seat, prompt: input.prompt ?? "", mode: input.startMode }
 }
 
-export async function startSeat(input: StartSeatInput, done: string[] = []): Promise<StartedSeat> {
+export type LoginRefusing = (account: string) => Promise<string | null>
+
+export async function startSeat(
+  input: StartSeatInput,
+  done: string[] = [],
+  loginRefused: LoginRefusing = headlessRefusal
+): Promise<StartedSeat> {
   const startMode = input.startMode
   if (!isSeatMode(startMode)) {
     throw inputError(
@@ -183,6 +190,8 @@ export async function startSeat(input: StartSeatInput, done: string[] = []): Pro
     if (prompt === undefined || prompt.length === 0) {
       throw inputError("--prompt / --prompt-file payload is empty")
     }
+    const relogin = await loginRefused(account)
+    if (relogin !== null) throw dataError(`\`${name}\` was not started: ${relogin}`)
     const handle = await spawnSeat({
       name,
       prompt,

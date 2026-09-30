@@ -23,6 +23,14 @@ export const supervisorAgent = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A headless start asks here first whether its account needs a new login.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An account needing a new login is named, with how to log it back in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A pinned account with no credential falls back only where that account was not pinned.",
     },
