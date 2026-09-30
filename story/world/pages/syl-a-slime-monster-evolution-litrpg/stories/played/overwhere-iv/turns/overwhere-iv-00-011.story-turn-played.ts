@@ -10,7 +10,7 @@ export const overwhereIv00011 = {
   position: 11,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Well, isn’t that interesting.” I spend the rest of the time until dinner pushing and pulling to practice and train my dimensional magic, then go to dinner.",
   beats: [
@@ -40,7 +40,11 @@ export const overwhereIv00011 = {
     '"And he says," Wat goes on, louder, "they went to you like lambs. Walked up and waited to be stuck."',
     "The lanky one laughs. The grey one looks up from his stew, and keeps looking. So does Holt.",
   ],
+  issues: [
+    '"There is one long table" - chapter 1 shows the mess as "a mess room of long tables and benches"',
+    '"Every change is written on the purse and a line of its history" - What It Is',
+  ],
   lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-millbrook-gatehouse"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T18:15:00.000Z",
 } as const satisfies StoryTurnPlayed
