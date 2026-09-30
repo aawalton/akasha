@@ -4,10 +4,17 @@ export const overwhereIii00025 = {
   id: "01a0f354-1e14-70f1-aba6-ea3a2bab4f46",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-025",
+  ownLength: 150,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 25,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-brannagh-tull",
+    "character-other/overwhere-iii-marda-hesk",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I take them to the shop, then see if I can find Tobin to return his coat and repay double what he spent on me, then pay for a night at the inn from my own funds.",
   beats: [
@@ -24,6 +31,8 @@ export const overwhereIii00025 = {
   lore: [
     "lore/overwhere-iii-bet-harrow",
     "lore/overwhere-iii-brannagh-tull",
+    "lore/overwhere-iii-marda-hesk",
+    "lore/overwhere-iii-nala",
     "lore/overwhere-iii-tobin-wick",
     "place/overwhere-iii-crook-and-candle",
     "place/overwhere-iii-merrowgate",
