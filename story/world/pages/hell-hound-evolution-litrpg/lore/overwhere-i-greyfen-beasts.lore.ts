@@ -127,6 +127,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "The old boar's carcass sank to its shoulders in the wallow, its tusks under water and out of reach.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Sawing through an old Grubboar's neck with a water disc takes about two minutes held.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
