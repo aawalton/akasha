@@ -300,6 +300,15 @@ export const overwhereIFenwatch = {
       fact: "After she gave the boar's hide and meat freely, Fenwatch's regard for Nala stands at 5.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The old boar's carcass sank deep in the swamp muck where Nala killed it; she got only the tusks out.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-agathe-morrow",
+        "lore/overwhere-i-garrick-pell",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

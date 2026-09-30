@@ -133,7 +133,21 @@ export const overwhereIAgatheMorrow = {
     },
     {
       fact: "She takes Nala's gift of the boar gladly; its meat and hide go to the village purse and pots.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-agathe-morrow",
+        "lore/overwhere-i-garrick-pell",
+      ],
+    },
+    {
+      fact: "She means to haul the sunk boar out of the swamp with ropes, a mule and four men.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-agathe-morrow",
+        "lore/overwhere-i-garrick-pell",
+      ],
     },
   ],
   secrets: "jsonl",

@@ -17,7 +17,11 @@ export const overwhereIGarrickPell = {
     },
     {
       fact: "He is round and bald, with a bushy red beard and a laugh that shakes the rafters.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-garrick-pell",
+      ],
     },
     {
       fact: "The Tarred Stag has one long hall with a central hearth and benches, and four small guest rooms.",
@@ -57,7 +61,11 @@ export const overwhereIGarrickPell = {
     },
     {
       fact: "He heats water for a wooden tub in the back room; a hot bath costs two copper.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-garrick-pell",
+      ],
     },
     {
       fact: "He can break a gold coin into silver and copper from the inn's takings.",
