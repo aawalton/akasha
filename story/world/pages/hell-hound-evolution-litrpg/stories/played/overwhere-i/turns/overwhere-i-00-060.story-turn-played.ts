@@ -7,7 +7,8 @@ export const overwhereI00060 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 60,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“I’ll pay you two silver now for information on what a drake-pearl is good for. Is it something I could use?”",
+  lore: ["lore/overwhere-i-greyfen-beasts-2", "lore/overwhere-i-osric-fenn"],
 } as const satisfies StoryTurnPlayed
