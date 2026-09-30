@@ -259,6 +259,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "Pine Isle Drakewolves One to Six are Levels 10, 11, 12, 12, 13 and 14, in that order.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At 13:02 on day 3 six wolves swam the channel and came at Nala in a wide crescent, 90 seconds out.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
