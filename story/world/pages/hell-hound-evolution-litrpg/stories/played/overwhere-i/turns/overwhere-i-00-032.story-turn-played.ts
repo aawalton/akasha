@@ -13,7 +13,7 @@ export const overwhereI00032 = {
     "character-player/overwhere-i-nala",
     "character-other/overwhere-i-reedlurker-of-the-first-holt",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I attune water and try to pull the water out of the creature itself to dehydrate it. If that doesn’t work, I attune air and fire and rapidly heat it up instead.",
   beats: [
@@ -33,6 +33,6 @@ export const overwhereI00032 = {
     "lore/overwhere-i-starfall-legacy",
     "place/overwhere-i-the-greyfen",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-30T10:52:00.000Z",
 } as const satisfies StoryTurnPlayed
