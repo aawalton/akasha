@@ -10,7 +10,7 @@ export const overwhereIi00006 = {
   position: 6,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“I'll gladly accept the porridge and then be on my way. Are there any threats in the area I should be aware of?”",
   beats: [
@@ -28,7 +28,7 @@ export const overwhereIi00006 = {
     '"Are there any threats in the area I should be aware of?" she asks between spoonfuls.',
     'Garth snorts. "Aye. Greymaws. Wolves big as ponies, scale in their fur, stinking of rotten salt."',
     '"Came down off the Whitecombs at midwinter. Forty sheep this winter, a watchman and a carter."',
-    '"Other things came down off those mountains too. Took two men besides." He doesn\'t say what.',
+    "\"Wolves aren't all that's come down off those mountains, neither.\" He doesn't say what else.",
     '"They hunt at dusk and dawn. Shun fire and cold iron; that\'s why the nails."',
     '"Found their prints below Aske\'s barn two nights back. Salt-rank. You slept lucky, lass."',
     '"And keep off deep still water after dark. Folk say the Deep Children rise and call you in."',
