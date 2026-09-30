@@ -29,5 +29,6 @@ export const overwhereIv00016 = {
   ],
   lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-oswin-pike"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-09-29T19:35:00.000Z",
 } as const satisfies StoryTurnPlayed
