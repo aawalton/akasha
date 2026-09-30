@@ -83,6 +83,10 @@ export const overwhereIiKeeperAnselm = {
       fact: "Watching Nala draw, Anselm feels Undertow as a tide at his elbow; he is awed, not afraid.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Anselm judges Nala's Talent no small one, and would rather hear of it from her first.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
