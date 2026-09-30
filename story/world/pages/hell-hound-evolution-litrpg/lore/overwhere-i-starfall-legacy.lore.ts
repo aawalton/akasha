@@ -88,5 +88,9 @@ export const overwhereIStarfallLegacy = {
       fact: "Hauling a body out through a holt with a mud grip is a moderate act, about a minute held.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A water working can close round a beast in water and heave it up; holding a live one is hard.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
