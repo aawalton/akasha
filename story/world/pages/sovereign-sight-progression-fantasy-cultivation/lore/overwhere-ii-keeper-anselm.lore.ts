@@ -217,7 +217,7 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "Anselm will leave out whatever Nala asks, save that a great Talent is in his charge.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Anselm expects Carrowmouth's Keepers to send a senior Keeper up the valley once the road dries.",
