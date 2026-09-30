@@ -9,4 +9,5 @@ export const overwhereIvNala = {
   minValue: 0,
   maxValue: 43,
   history: "jsonl",
+  unrevealed: true,
 } as const satisfies OverwhereIvMana

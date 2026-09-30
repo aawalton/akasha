@@ -14,4 +14,5 @@ export const overwhereIvNalaDimensionMagic = {
   reachPaces: 20,
   manaCost: 5,
   durationMinutes: 1,
+  unrevealed: true,
 } as const satisfies OverwhereIvSkill
