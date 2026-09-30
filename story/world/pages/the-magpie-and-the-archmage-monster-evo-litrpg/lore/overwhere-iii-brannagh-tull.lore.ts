@@ -224,6 +224,10 @@ export const overwhereIiiBrannaghTull = {
       fact: "She will not touch the seed blightstones; she tips them off with a spoon into a clay cup for Nala.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
+    {
+      fact: "She opens her shop at first light and holds Nala to morning and night visits till both are clear.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
