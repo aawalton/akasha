@@ -42,5 +42,6 @@ export const overwhereIv00015 = {
     "lore/overwhere-iv-oswin-pike",
     "place/overwhere-iv-millbrook-gatehouse",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-29T19:30:00.000Z",
 } as const satisfies StoryTurnPlayed
