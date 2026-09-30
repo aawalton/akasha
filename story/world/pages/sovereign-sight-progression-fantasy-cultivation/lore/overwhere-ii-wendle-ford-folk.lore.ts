@@ -243,5 +243,9 @@ export const overwhereIiWendleFordFolk = {
       fact: "The watch swore a silver bar from its chest to whoever killed the white-eye; Oakes will honour it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Reeve Oakes will ask Nala to stay in the valley, and offer her the empty watch cottage by the ford.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
