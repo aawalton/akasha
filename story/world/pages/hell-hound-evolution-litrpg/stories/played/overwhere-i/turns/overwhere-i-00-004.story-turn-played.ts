@@ -7,7 +7,13 @@ export const overwhereI00004 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 4,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Oh, this is going to be fun! Let’s try that burst of speed.” I focus on attuning to air mana, imagining the air parting in front of me and pulling me forward as I run.",
+  lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-sootjaw",
+    "place/overwhere-i-greyback-and-east-road",
+    "place/overwhere-i-greyfen-ford",
+  ],
 } as const satisfies StoryTurnPlayed
