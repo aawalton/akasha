@@ -154,7 +154,7 @@ export const overwhereIiUndertow = {
     },
     {
       fact: "Undertow can drive a plain iron spear faster than her arm alone; only cold iron it cannot move.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore

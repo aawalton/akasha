@@ -163,5 +163,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Dray judges Nala no small Talent, but says she fights like one, and offers another bout.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "When Dray lets his Talent go, the grey stone fades from his hands back to flesh.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
