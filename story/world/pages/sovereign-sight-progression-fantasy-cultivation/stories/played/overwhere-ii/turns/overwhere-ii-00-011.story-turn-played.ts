@@ -37,9 +37,11 @@ export const overwhereIi00011 = {
     "lore/overwhere-ii-goody-brannoc",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-spiritual-rot-and-healing",
+    "lore/overwhere-ii-wendle-ford-folk",
+    "lore/overwhere-ii-wren-marsh",
     "place/overwhere-ii-wendle-ford",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-29T08:01:00.000Z",
 } as const satisfies StoryTurnPlayed
