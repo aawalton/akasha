@@ -252,7 +252,7 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "The Guild bounty table: a blightstone 1 silver, a seed stone 10 copper, a Wrenmark wolf 20 copper.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",
