@@ -50,5 +50,6 @@ export const overwhereIi00009 = {
     "lore/overwhere-ii-wren-marsh",
     "place/overwhere-ii-marsh-croft",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-29T07:50:00.000Z",
 } as const satisfies StoryTurnPlayed
