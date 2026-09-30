@@ -79,6 +79,10 @@ export const overwhereIOsricFenn = {
       fact: "Osric takes Nala's two silver gladly; he never turns down coin for talk.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Osric says Wendlow alchemists grind drake-pearls into night-sight draughts.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
