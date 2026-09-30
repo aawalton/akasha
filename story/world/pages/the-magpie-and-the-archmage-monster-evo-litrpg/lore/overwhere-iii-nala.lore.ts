@@ -78,19 +78,19 @@ export const overwhereIiiNala = {
     },
     {
       fact: "The System reaches her as it reaches any human; she sees it the first time she wills it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Her profile reads: Name: Nala, Race: Human, Level 1, Class: none, Health: Small, Mana: Meager.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Her Traits list holds one, Mana Weaver [Basic]; her Skills list is empty.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Until she first works with the currents, the System describes Mana Weaver only as ???.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "She sees mana currents as faint threads; looking hard sharpens them, and they lean to her hand.",
@@ -99,6 +99,10 @@ export const overwhereIiiNala = {
     {
       fact: "She knows no tongue but the common one; old runes and foreign scripts are closed to her.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her profile also reads Glimmerstones: 0, Skills (0/10), Traits (1/10), Class at Level 10.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",
