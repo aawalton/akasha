@@ -17,7 +17,7 @@ export const overwhereIii00008 = {
     "character-other/overwhere-iii-cal-fenn",
     "character-other/overwhere-iii-jory-fenn",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“Yes, thank you again.” I sleep the night and them go to the guild post in the morning.",
   beats: [
     '"Yes, thank you again," Nala says.',
@@ -53,6 +53,6 @@ export const overwhereIii00008 = {
     "lore/overwhere-iii-tobin-wick",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T07:00:00.000Z",
 } as const satisfies StoryTurnPlayed
