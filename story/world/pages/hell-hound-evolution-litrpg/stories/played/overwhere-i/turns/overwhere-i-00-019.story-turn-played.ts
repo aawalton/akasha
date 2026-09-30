@@ -4,10 +4,13 @@ export const overwhereI00019 = {
   id: "01a0f1e3-e153-729e-a8ba-e1c7cda1d60a",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-019",
+  ownLength: 239,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 19,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "Since I’m waiting on my boots for another day, I go looking for the grubboars. When I find them, I attune water and use that to hold a sphere of water around the head of each beast to suffocate them",
   beats: [
