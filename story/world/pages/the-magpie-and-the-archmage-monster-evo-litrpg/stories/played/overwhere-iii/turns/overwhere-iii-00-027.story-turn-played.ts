@@ -11,4 +11,5 @@ export const overwhereIii00027 = {
   action:
     "“I’d like to, but my mana is running on empty already. I don’t have a big supply. Unless you have something to solve that, I might have to wait until morning…”",
   lore: ["lore/overwhere-iii-brannagh-tull"],
+  endsAt: "2026-09-30T17:49:00.000Z",
 } as const satisfies StoryTurnPlayed
