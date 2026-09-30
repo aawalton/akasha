@@ -11,6 +11,6 @@ export const overwhereIvNalaDimensionMagic = {
   skill: "world-skill/overwhere-iv-dimension-magic",
   level: 1,
   reachPaces: 20,
-  manaCost: 1,
+  manaCost: 5,
   durationMinutes: 0,
 } as const satisfies OverwhereIvSkill
