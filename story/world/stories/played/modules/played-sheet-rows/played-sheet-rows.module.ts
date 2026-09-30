@@ -45,6 +45,11 @@ export const playedSheetRows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Resources stating a display order come first, in that order, and the rest follow by name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A skill is named by its skill page's title and ranked by its rank page's title.",
     },
     {

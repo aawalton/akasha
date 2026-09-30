@@ -87,6 +87,24 @@ test("a resource is named by its kind, by what its slug adds, or by its title, a
   expect(resourcesIn(rows)).toEqual({ COIN: 3, HEALTH: "40 / 45", "WIND RESERVE": 19 })
 })
 
+test("resources stating a display order come first in that order, and the rest by name", () => {
+  const holder = "character-player/some-nala"
+  const rows = [
+    { values: { type: "some-reserve", value: 2, slug: "some-nala-wind", character: holder } },
+    { values: { type: "some-stamina", value: 3, displayOrder: 3, character: holder } },
+    { values: { type: "some-reserve", value: 1, slug: "some-nala-earth", character: holder } },
+    { values: { type: "some-health", value: 5, displayOrder: 1, character: holder } },
+    { values: { type: "some-mana", value: 4, displayOrder: 2, character: holder } },
+  ]
+  expect(Object.keys(resourcesIn(rows))).toEqual([
+    "HEALTH",
+    "MANA",
+    "STAMINA",
+    "EARTH RESERVE",
+    "WIND RESERVE",
+  ])
+})
+
 test("a skill is named by the skill page's title and ranked by the rank page's title", () => {
   const titles = new Map([
     [SMITHING, theTowerSmithing.title],

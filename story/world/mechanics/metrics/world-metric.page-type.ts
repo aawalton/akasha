@@ -20,6 +20,17 @@ export const worldMetric = {
     { pageProperty: "number-property/metric-min-value", required: false, many: false },
     { pageProperty: "number-property/metric-max-value", required: false, many: false },
     { pageProperty: "file-property/history", required: false, many: false },
+    { pageProperty: "number-property/display-order", required: false, many: false },
+  ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A metric stating a display order is drawn in that order among its siblings.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A metric stating none is drawn after those that do, in the order names sort.",
+    },
   ],
   types: "ts",
   schema: "jsonl",

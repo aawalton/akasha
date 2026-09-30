@@ -151,19 +151,37 @@ function resourceNameOf(row: QueryRow, type: string): string {
   return (own === null ? kind : `${own}${JOIN}${kind}`).replaceAll(JOIN, SPACE).toUpperCase()
 }
 
+const DISPLAY_ORDER_KEY = "displayOrder"
+
+type Resource = {
+  readonly name: string
+  readonly shown: string | number
+  readonly order: number | undefined
+}
+
+function byOrder(one: Resource, other: Resource): number {
+  if (one.order !== undefined && other.order !== undefined && one.order !== other.order) {
+    return one.order - other.order
+  }
+  if (one.order !== undefined && other.order === undefined) return -1
+  if (one.order === undefined && other.order !== undefined) return 1
+  return one.name.localeCompare(other.name)
+}
+
 export function resourcesIn(rows: readonly QueryRow[]): Readonly<Record<string, string | number>> {
-  const held: [string, string | number][] = []
+  const held: Resource[] = []
   for (const row of rows) {
     const type = textIn(row.values[TYPE_KEY])
     const value = parseNumber(row.values[VALUE_KEY])
     if (type === null || value === undefined) continue
     const most = parseNumber(row.values[MAX_VALUE_KEY])
-    held.push([
-      resourceNameOf(row, type),
-      most === undefined ? value : `${String(value)}${OUT_OF}${String(most)}`,
-    ])
+    held.push({
+      name: resourceNameOf(row, type),
+      shown: most === undefined ? value : `${String(value)}${OUT_OF}${String(most)}`,
+      order: parseNumber(row.values[DISPLAY_ORDER_KEY]),
+    })
   }
-  return Object.fromEntries(held.toSorted((one, other) => one[0].localeCompare(other[0])))
+  return Object.fromEntries(held.toSorted(byOrder).map((one) => [one.name, one.shown]))
 }
 
 export function skillsIn(

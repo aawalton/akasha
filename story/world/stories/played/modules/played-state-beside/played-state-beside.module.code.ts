@@ -189,6 +189,8 @@ async function titlesOf(named: ReadonlyMap<string, readonly string[]>): Promise<
 
 const UNREVEALED_KEY = "unrevealed"
 
+const DISPLAY_ORDER_KEY = "displayOrder"
+
 export function revealedRows(rows: readonly QueryRow[]): readonly QueryRow[] {
   return rows.filter((row) => row.values[UNREVEALED_KEY] !== true)
 }
@@ -210,6 +212,7 @@ async function readFiled(character: string, turn: number): Promise<Filed> {
         HISTORY_KEY,
         SLUG_KEY,
         TITLE_KEY,
+        DISPLAY_ORDER_KEY,
         UNREVEALED_KEY,
       ],
       files: [HISTORY_KEY],
