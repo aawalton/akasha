@@ -10,7 +10,7 @@ export const overwhereI00026 = {
   position: 26,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I clean out the clothes in the tub as well, then try a working of water, air, and fire to steam clean them, then another of air and fire to dry them, then put them on and god looking for information about the other silver bounty.",
   beats: [
@@ -37,6 +37,6 @@ export const overwhereI00026 = {
     "lore/overwhere-i-starfall-legacy",
     "place/overwhere-i-fenwatch",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T09:34:00.000Z",
 } as const satisfies StoryTurnPlayed
