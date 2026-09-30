@@ -11,4 +11,5 @@ export const overwhereIi00037 = {
   action:
     "“Sure.” This time, I fight more carefully, waiting for an opening to pull or push him off balance when he’s not expecting it, so I can at least tap him somewhere unarmored.",
   lore: ["lore/overwhere-ii-reeve-corwin-dray"],
+  endsAt: "2026-09-30T08:30:00.000Z",
 } as const satisfies StoryTurnPlayed
