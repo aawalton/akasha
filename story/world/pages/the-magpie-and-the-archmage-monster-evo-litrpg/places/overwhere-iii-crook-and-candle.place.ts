@@ -1,0 +1,51 @@
+import type { Place } from "akasha/story/lore/place/place.page-type.types.ts"
+
+export const overwhereIiiCrookAndCandle = {
+  id: "01a0f173-55c7-70aa-84f6-b58086be530f",
+  type: "page-type/place",
+  slug: "overwhere-iii-crook-and-candle",
+  title: "The Crook and Candle",
+  world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
+  within: "place/overwhere-iii-merrowgate",
+  exits: [
+    {
+      to: "place/overwhere-iii-merrowgate",
+      way: "Out the front door onto the Wool Square, under the bell tower.",
+    },
+  ],
+  facts: [
+    {
+      fact: "The Crook and Candle is a long timbered inn on the Wool Square, with a lit front window.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Its common room has a big hearth, six trestle tables, and a stair to eight rooms above.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A bed is 8 copper a night, a hot supper 3, a cup of cider 1, and a hot tub in the scullery 2.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The rooms are small and cold: a straw tick, a wool blanket, a shutter and a peg for clothes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Bet Harrow keeps the inn; her husband Dunstan cooks, and their boy Wat minds the stable.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tonight's supper is mutton stew, black bread and hill cheese.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Carters, drovers and the town's few adventurers drink there of an evening.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Talk in the common room tonight is of the boy lost in the Wrenwood and the blight bounty.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
+  secrets: "jsonl",
+} as const satisfies Place
