@@ -4,6 +4,7 @@ export const overwhereIi00053 = {
   id: "01a0f460-859b-7c01-ac37-262f30eae1a5",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-053",
+  cover: "image/image-4b98c59c90062fd2",
   ownLength: 293,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
@@ -37,6 +38,6 @@ export const overwhereIi00053 = {
   ],
   lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2", "place/overwhere-ii-wendle-ford"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-02T06:00:00.000Z",
 } as const satisfies StoryTurnPlayed
