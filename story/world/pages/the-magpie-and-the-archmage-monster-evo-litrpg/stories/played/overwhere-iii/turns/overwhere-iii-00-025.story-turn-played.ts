@@ -14,7 +14,7 @@ export const overwhereIii00025 = {
     "character-other/overwhere-iii-brannagh-tull",
     "character-other/overwhere-iii-marda-hesk",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I take them to the shop, then see if I can find Tobin to return his coat and repay double what he spent on me, then pay for a night at the inn from my own funds.",
   beats: [
@@ -40,6 +40,6 @@ export const overwhereIii00025 = {
     "place/overwhere-iii-crook-and-candle",
     "place/overwhere-iii-merrowgate",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-30T17:44:00.000Z",
 } as const satisfies StoryTurnPlayed
