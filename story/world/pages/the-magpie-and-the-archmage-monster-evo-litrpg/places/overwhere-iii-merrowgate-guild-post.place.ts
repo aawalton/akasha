@@ -86,6 +86,10 @@ export const overwhereIiiMerrowgateGuildPost = {
       fact: "At turn-in Marda counts the goods, pays from the desk's strongbox, and lights the card to log it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Marda keeps unclaimed Copper Guild rings in a tin in the desk drawer.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
