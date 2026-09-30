@@ -35,11 +35,13 @@ export const overwhereIv00029 = {
     "Then Nala feels it, within her few paces: a body crouched behind the yew on her left, shifting.",
     "Before she can speak, something whirs in the hollow ahead, and a stone cracks off Dace's shield.",
   ],
+  issues: ['"A skill point sits unspent beside them, waiting" - No Prompt'],
   lore: [
     "lore/overwhere-iv-brookside-four",
     "lore/overwhere-iv-nala",
     "lore/overwhere-iv-nala-2",
     "place/overwhere-iv-the-tangle",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-01T13:10:00.000Z",
 } as const satisfies StoryTurnPlayed
