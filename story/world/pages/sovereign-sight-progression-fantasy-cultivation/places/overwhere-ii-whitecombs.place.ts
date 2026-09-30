@@ -133,7 +133,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "The crag is a grey buttress split top to bottom; fallen blocks bury the den mouth at its foot.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "From the Ford to the split crag is six hours on foot; the way down takes five.",
