@@ -4,10 +4,13 @@ export const overwhereIv00042 = {
   id: "01a0f466-a656-7e12-96ab-989fe00a80de",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-042",
+  ownLength: 241,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 42,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Axe is no good. Skill is specialized for spears.” I make a show of moving the spear along with the slice to make the desired cuts, then head back to the guild hall.",
   beats: [
