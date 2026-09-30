@@ -90,7 +90,7 @@ export const overwhereIiUndertow = {
     },
     {
       fact: "Holding push and pull at once through a fight widens her Scope: Undertow can then do both at will.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
