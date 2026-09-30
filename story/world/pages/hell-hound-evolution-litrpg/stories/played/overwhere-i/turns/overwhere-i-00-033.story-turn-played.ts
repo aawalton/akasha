@@ -4,6 +4,7 @@ export const overwhereI00033 = {
   id: "01a0f371-0d60-7371-84be-50bfcc54a66c",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-033",
+  cover: "image/image-ee041354b8ef8356",
   ownLength: 171,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -13,7 +14,7 @@ export const overwhereI00033 = {
     "character-player/overwhere-i-nala",
     "character-other/overwhere-i-reedlurker-of-the-first-holt",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I hit it again with fire and air, blowing it away from the water.",
   beats: [
     "Nala binds fire and wind again and throws the blast low, between the reedlurker and the water.",
@@ -38,6 +39,11 @@ export const overwhereI00033 = {
     "place/overwhere-i-the-greyfen",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T10:53:00.000Z",
 } as const satisfies StoryTurnPlayed
