@@ -34,5 +34,6 @@ export const overwhereI00051 = {
     "lore/overwhere-i-nala-2",
     "lore/overwhere-i-the-greyfen-alpha-2",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-01T13:32:00.000Z",
 } as const satisfies StoryTurnPlayed
