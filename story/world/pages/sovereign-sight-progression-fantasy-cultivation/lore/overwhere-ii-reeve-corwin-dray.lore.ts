@@ -229,7 +229,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Dray's two men and pony fetch the den carcasses at first light on day three, back by mid-afternoon.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray's watchmen will not go past the cairn; the greymaw by the tarn is left where it fell.",
