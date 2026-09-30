@@ -185,7 +185,7 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "A line of reed hummocks runs south-west from the Greystakes, giving cover to 200 yards of the isle.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
