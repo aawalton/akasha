@@ -8,4 +8,5 @@ export const otherwhereVNala = {
   value: 1,
   minValue: 1,
   history: "jsonl",
+  unrevealed: true,
 } as const satisfies OtherwhereVLevel

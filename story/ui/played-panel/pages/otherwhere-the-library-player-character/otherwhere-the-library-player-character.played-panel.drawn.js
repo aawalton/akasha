@@ -13,7 +13,7 @@ export const Panel = panelBy(PlayerCharacterPanel, ({ envelope, run }) => ({
   sheet: {
     sheet: envelope.sheet ?? null,
     game: run.gameExternalId,
-    showsStats: false,
+    showsStats: envelope.sheet?.attributes !== undefined,
     showsBonds: false,
   },
 }))

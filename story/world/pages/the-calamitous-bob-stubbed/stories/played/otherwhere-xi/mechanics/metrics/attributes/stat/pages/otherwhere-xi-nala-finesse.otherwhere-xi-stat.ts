@@ -8,4 +8,5 @@ export const otherwhereXiNalaFinesse = {
   value: 11,
   minValue: 0,
   history: "jsonl",
+  unrevealed: true,
 } as const satisfies OtherwhereXiStat

@@ -8,4 +8,5 @@ export const otherwhereXNala = {
   value: 0,
   minValue: 0,
   history: "jsonl",
+  unrevealed: true,
 } as const satisfies OtherwhereXTier

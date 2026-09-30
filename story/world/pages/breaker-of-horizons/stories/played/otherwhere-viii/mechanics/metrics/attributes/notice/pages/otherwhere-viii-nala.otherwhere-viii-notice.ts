@@ -9,4 +9,5 @@ export const otherwhereViiiNala = {
   minValue: 0,
   maxValue: 100,
   history: "jsonl",
+  unrevealed: true,
 } as const satisfies OtherwhereViiiNotice

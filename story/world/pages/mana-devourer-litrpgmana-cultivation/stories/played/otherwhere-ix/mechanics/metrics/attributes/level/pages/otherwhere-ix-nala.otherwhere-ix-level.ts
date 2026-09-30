@@ -8,4 +8,5 @@ export const otherwhereIxNala = {
   value: 4,
   minValue: 1,
   history: "jsonl",
+  unrevealed: true,
 } as const satisfies OtherwhereIxLevel

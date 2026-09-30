@@ -9,4 +9,5 @@ export const overwhereINalaIronMarch = {
   minValue: 0,
   maxValue: 5,
   history: "jsonl",
+  unrevealed: true,
 } as const satisfies OverwhereINotice

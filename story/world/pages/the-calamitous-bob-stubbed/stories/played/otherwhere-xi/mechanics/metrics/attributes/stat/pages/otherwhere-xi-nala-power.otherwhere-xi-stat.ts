@@ -8,4 +8,5 @@ export const otherwhereXiNalaPower = {
   value: 6,
   minValue: 0,
   history: "jsonl",
+  unrevealed: true,
 } as const satisfies OtherwhereXiStat

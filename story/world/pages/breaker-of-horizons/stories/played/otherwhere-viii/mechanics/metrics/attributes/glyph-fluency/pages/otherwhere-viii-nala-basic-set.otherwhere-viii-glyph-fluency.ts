@@ -9,4 +9,5 @@ export const otherwhereViiiNalaBasicSet = {
   minValue: 0,
   maxValue: 100,
   history: "jsonl",
+  unrevealed: true,
 } as const satisfies OtherwhereViiiGlyphFluency

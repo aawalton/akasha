@@ -8,4 +8,5 @@ export const otherwhereIxNalaArcana = {
   value: 8,
   minValue: 0,
   history: "jsonl",
+  unrevealed: true,
 } as const satisfies OtherwhereIxAttribute

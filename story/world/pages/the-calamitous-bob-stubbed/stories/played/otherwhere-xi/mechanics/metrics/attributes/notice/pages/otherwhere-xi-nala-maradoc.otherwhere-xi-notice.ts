@@ -9,4 +9,5 @@ export const otherwhereXiNalaMaradoc = {
   minValue: 0,
   maxValue: 100,
   history: "jsonl",
+  unrevealed: true,
 } as const satisfies OtherwhereXiNotice

@@ -7,4 +7,5 @@ export const otherwhereIvNala = {
   character: "character-player/otherwhere-iv-nala",
   value: 0,
   history: "jsonl",
+  unrevealed: true,
 } as const satisfies OtherwhereIvCultivationStage
