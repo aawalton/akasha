@@ -11,4 +11,5 @@ export const overwhereIi00046 = {
   action:
     "“It just fit” I shrug. I check my Water level to see if I could do the other arm now. If so, I do.",
   lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2"],
+  endsAt: "2026-09-30T16:32:00.000Z",
 } as const satisfies StoryTurnPlayed
