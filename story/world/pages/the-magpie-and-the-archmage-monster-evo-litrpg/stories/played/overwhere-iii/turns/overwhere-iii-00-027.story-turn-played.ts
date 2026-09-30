@@ -28,5 +28,6 @@ export const overwhereIii00027 = {
   issues: ['"She pushes it an inch toward you" - prose tells an event the beats do not hold'],
   lore: ["lore/overwhere-iii-brannagh-tull", "lore/overwhere-iii-nala"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-09-30T17:49:00.000Z",
 } as const satisfies StoryTurnPlayed
