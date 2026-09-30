@@ -14,23 +14,51 @@ export const overwhereIvIlsaCrane2 = {
     },
     {
       fact: "Ilsa would let Nala take posted jobs alone: fewer eyes on the black line.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Ilsa half-believes the five-goblin boast, since the Four came home unhurt.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Ilsa would still bar Grakk's camp to anyone alone; a hobgoblin chief is no bronze job.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Ilsa would offer the reeve's oak first: it grows in his back pasture, out of the town's sight.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Ilsa thinks the goblins, a lookout lost, will raid Tangle-edge farms again within days.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
+    },
+    {
+      fact: "Ilsa laid the reeve's great oak notice before Nala; the job pays 2 silver.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
   ],
 } as const satisfies Lore

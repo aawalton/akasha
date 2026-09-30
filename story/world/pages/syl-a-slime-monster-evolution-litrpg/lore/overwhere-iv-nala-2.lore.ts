@@ -157,5 +157,21 @@ export const overwhereIvNala2 = {
         "character-other/overwhere-iv-ilsa-crane",
       ],
     },
+    {
+      fact: "Nala promised Ilsa she won't cast her black line in town, and offered to take jobs solo.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
+    },
+    {
+      fact: "Nala told Ilsa she could have taken all five goblins alone with her new spell.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
+    },
   ],
 } as const satisfies Lore
