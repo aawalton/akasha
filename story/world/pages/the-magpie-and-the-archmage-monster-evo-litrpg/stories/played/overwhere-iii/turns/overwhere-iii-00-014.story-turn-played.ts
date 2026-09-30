@@ -11,7 +11,7 @@ export const overwhereIii00014 = {
   position: 14,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I keep me distance and hit it with mana lash against and try to dodge whatever attack it is making, since I can see it coming.",
   beats: [
@@ -31,6 +31,6 @@ export const overwhereIii00014 = {
   ],
   lore: ["lore/overwhere-iii-nala", "place/overwhere-iii-wrenwood"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
   endsAt: "2026-09-30T09:03:00.000Z",
 } as const satisfies StoryTurnPlayed
