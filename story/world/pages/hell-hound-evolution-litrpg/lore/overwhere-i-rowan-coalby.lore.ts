@@ -95,6 +95,10 @@ export const overwhereIRowanCoalby = {
       fact: "Rowan knows an old alpha's clouded eye as a drake-pearl, grown of mana, that alchemists prize.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Rowan reckons a drake-pearl fetches several gold from an alchemist in Wendlow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
