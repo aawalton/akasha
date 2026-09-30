@@ -4,10 +4,17 @@ export const overwhereIii00035 = {
   id: "01a0f3ba-6e06-7da2-96b7-7cdd7af27309",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-035",
+  ownLength: 208,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 35,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-maud-ferrow",
+    "character-other/overwhere-iii-ivy-marsh",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "“Awesome, thanks!” I go and join them for the end of their workout, then find an affordable hearty meal.",
   beats: [
@@ -26,6 +33,12 @@ export const overwhereIii00035 = {
     '"My nephew, Cob. He\'s got a blight scratch on his forearm."',
     '"Look at it for me. Ten copper if you get it clean."',
   ],
-  lore: ["lore/overwhere-iii-maud-ferrow", "place/overwhere-iii-merrowgate"],
+  lore: [
+    "lore/overwhere-iii-ivy-marsh",
+    "lore/overwhere-iii-maud-ferrow",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
+    "place/overwhere-iii-merrowgate",
+  ],
   endsAt: "2026-10-01T10:32:00.000Z",
 } as const satisfies StoryTurnPlayed
