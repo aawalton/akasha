@@ -38,11 +38,15 @@ export const overwhereIi00016 = {
     "A big hand closes on Nala's collar and hauls her up off the bed and back against the wall.",
     '"What did you do to her?" Horne roars, his face an inch from hers. "What did you do?"',
   ],
+  issues: [
+    '"Under your palm, through your tide" - her palm already came away from Tansy two lines before',
+  ],
   lore: [
     "lore/overwhere-ii-goody-brannoc",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-wendle-ford-folk",
     "place/overwhere-ii-wendle-ford",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-29T10:23:00.000Z",
 } as const satisfies StoryTurnPlayed
