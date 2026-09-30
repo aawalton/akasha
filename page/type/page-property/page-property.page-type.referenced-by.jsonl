@@ -178,6 +178,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/style/style-rule/properties/style-examples.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/style/style-rule/properties/style-rule-aids.standard-agent-english-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/characters/properties/characters.multi-relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/mechanics/currencies/properties/currency-denominations.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/mechanics/properties/aliases.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/mechanics/properties/evolves-from-slugs.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/mechanics/properties/evolves-to-slugs.multi-relation-property.types.ts","typed":true,"deferred":false}

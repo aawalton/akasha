@@ -106,6 +106,7 @@
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"default-difficulty","propertySlug":"default-difficulty","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"default-number","propertySlug":"default-number","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"delay","propertySlug":"delay","fileName":null,"folderName":null}
+{"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"denomination-worth","propertySlug":"worth","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"destination-fee","propertySlug":"destination-fee","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"disc-number","propertySlug":"disc-number","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"display-order","propertySlug":"display-order","fileName":null,"folderName":null}

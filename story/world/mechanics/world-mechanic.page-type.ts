@@ -32,6 +32,7 @@ export const worldMechanic = {
     "page-type/world-check",
     "page-type/world-class",
     "page-type/world-condition",
+    "page-type/world-currency",
     "page-type/world-curse",
     "page-type/world-derived-metric",
     "page-type/world-element",

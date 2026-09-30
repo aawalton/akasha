@@ -10,6 +10,7 @@ export const metricCharacter = {
     "relation-property/metric-of-character",
     "page-type/metric-character-attribute",
     "page-type/metric-character-resource",
+    "page-type/metric-character-currency",
   ],
   properties: [
     { pageProperty: "relation-property/metric-of-character", required: true, many: false },

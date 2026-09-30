@@ -557,6 +557,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/checks/world-check.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/classes/world-class.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/conditions/world-condition.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/currencies/world-currency.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/curses/world-curse.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/derived/world-derived-metric.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/elements/world-element.page-type.ts","typed":true,"deferred":false}
@@ -566,6 +567,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/items/world-item.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/legacies/world-legacy.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/metrics/metric-character/attribute/metric-character-attribute.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/metrics/metric-character/currency/metric-character-currency.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/metrics/metric-character/metric-character.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/metrics/metric-character/resource/metric-character-resource.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/metrics/metric-item/metric-item.page-type.ts","typed":true,"deferred":false}

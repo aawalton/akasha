@@ -3852,6 +3852,8 @@
 {"propertySlug":"decision-kind","path":"story/world/mechanics/appointments/properties/appointment-at.instant-property.ts","id":"01a0e3b2-a002-7fc4-bd6d-43ed66441878"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/appointments/world-appointment.page-type.ts","id":"01a0e3b2-a003-7bf8-a19f-54df5fd87c0c"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/checks/world-check.page-type.ts","id":"01a0de14-272c-7450-9354-16bc47966044"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/currencies/properties/currency-denominations.record-property.ts","id":"01a0f1da-0621-76cf-b877-bbc4880d2a10"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/currencies/world-currency.page-type.ts","id":"01a0f1da-0622-7635-9a06-b7c5f8bb061e"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/derived/modules/derived-beside/derived-beside.module.ts","id":"01a0de74-5fb3-7593-a73d-196114cb52c0"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/elements/world-element.page-type.ts","id":"01a0ca6d-c8e0-7304-b515-37e66f045ec1"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/items/story-item/modules/character-items-beside/character-items-beside.module.ts","id":"01a0caa8-a2c1-7827-bdaa-42e97874aad7"}
@@ -3859,6 +3861,7 @@
 {"propertySlug":"decision-kind","path":"story/world/mechanics/items/story-item/properties/item-slot.relation-property.ts","id":"01a0ca45-cc74-7097-84c6-4205dbdaeff1"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/items/story-item/story-item.page-type.ts","id":"01a0ca42-3962-7211-864c-1c57568c322b"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/items/world-item.page-type.ts","id":"01a06558-a991-78cc-a7cf-5b7b4ad460d7"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/metrics/metric-character/currency/metric-character-currency.page-type.ts","id":"01a0f1da-0622-7eb8-8a85-b68dcc940fd1"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/metrics/properties/history.file-property.ts","id":"01a0c9fe-db25-75da-99e7-c4f8a29375a8"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/metrics/properties/revealed-as.text-property.ts","id":"01a0f1c4-51cf-7ebc-8f74-f8162bdf2b0c"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/metrics/world-metric.page-type.ts","id":"01a0ca08-5607-7cf7-8091-650c47a04416"}

@@ -131,6 +131,7 @@
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"default-text","propertySlug":"default-text","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"default-trait-id","propertySlug":"default-trait-id","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"default-weapon-role-ids","propertySlug":"default-weapon-role-ids","fileName":null,"folderName":null}
+{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"denomination-name","propertySlug":"name","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"deploy-refusal","propertySlug":"deploy-refusal","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"deployed-commit","propertySlug":"deployed-commit","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"description","propertySlug":"description","fileName":null,"folderName":null}

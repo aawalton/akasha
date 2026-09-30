@@ -456,6 +456,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/designs/properties/visual-style.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/designs/properties/writing-philosophy.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/mechanics/appointments/properties/appointment-place.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/mechanics/currencies/properties/denomination-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/mechanics/metrics/properties/revealed-as.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/mechanics/properties/aliases.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/mechanics/properties/chapter-slug.text-property.ts","typed":true,"deferred":false}

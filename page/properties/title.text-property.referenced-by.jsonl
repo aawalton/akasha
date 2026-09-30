@@ -112,6 +112,7 @@
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/decisions/story-decision.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/design-notes/story-design-note.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/designs/story-design.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/mechanics/currencies/world-currency.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/mechanics/elements/world-element.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/mechanics/items/story-item/item-slot/item-slot.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/mechanics/items/story-item/story-item.page-type.types.ts","typed":true,"deferred":false}
@@ -239,6 +240,7 @@
 {"propertySlug":"page-property","path":"story/world/decisions/story-decision.page-type.ts","id":"01a06578-d638-7072-8faf-6245b8cda4ae"}
 {"propertySlug":"page-property","path":"story/world/design-notes/story-design-note.page-type.ts","id":"01a06578-d638-794d-b1f4-f5c46500a7e9"}
 {"propertySlug":"page-property","path":"story/world/designs/story-design.page-type.ts","id":"01a06578-d638-7c98-b608-6c1fc38de0d7"}
+{"propertySlug":"page-property","path":"story/world/mechanics/currencies/world-currency.page-type.ts","id":"01a0f1da-0622-7635-9a06-b7c5f8bb061e"}
 {"propertySlug":"page-property","path":"story/world/mechanics/elements/world-element.page-type.ts","id":"01a0ca6d-c8e0-7304-b515-37e66f045ec1"}
 {"propertySlug":"page-property","path":"story/world/mechanics/items/story-item/item-slot/item-slot.page-type.ts","id":"01a0ca45-bac0-7c6d-83bf-8415bedd0526"}
 {"propertySlug":"page-property","path":"story/world/mechanics/items/story-item/story-item.page-type.ts","id":"01a0ca42-3962-7211-864c-1c57568c322b"}

@@ -6,6 +6,7 @@
 {"propertySlug":"extends-type","path":"story/world/mechanics/checks/world-check.page-type.ts","id":"01a0de14-272c-7450-9354-16bc47966044"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/classes/world-class.page-type.ts","id":"01a06558-a991-7fd2-bd7e-0b9a3c64d355"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/conditions/world-condition.page-type.ts","id":"01a06558-a991-796b-9181-ee89d4d8c544"}
+{"propertySlug":"extends-type","path":"story/world/mechanics/currencies/world-currency.page-type.ts","id":"01a0f1da-0622-7635-9a06-b7c5f8bb061e"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/curses/world-curse.page-type.ts","id":"01a06558-a991-70f3-9df8-3f1468231807"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/derived/world-derived-metric.page-type.ts","id":"01a0ca2c-3188-73cb-9621-2122beb52818"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/elements/world-element.page-type.ts","id":"01a0ca6d-c8e0-7304-b515-37e66f045ec1"}
@@ -36,6 +37,7 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/checks/world-check.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/classes/world-class.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/conditions/world-condition.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/currencies/world-currency.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/curses/world-curse.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/derived/world-derived-metric.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/elements/world-element.page-type.types.ts","typed":true,"deferred":false}

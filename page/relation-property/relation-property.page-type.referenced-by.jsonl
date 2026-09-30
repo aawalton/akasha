@@ -172,6 +172,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/items/story-item/properties/item-place.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/items/story-item/properties/item-slot.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/items/story-item/properties/item-story.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/metrics/metric-character/currency/properties/purse-currency.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/metrics/metric-character/properties/metric-of-character.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/metrics/metric-item/properties/metric-of-item.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/traits/character-trait/properties/trait-character.relation-property.ts","typed":true,"deferred":false}
