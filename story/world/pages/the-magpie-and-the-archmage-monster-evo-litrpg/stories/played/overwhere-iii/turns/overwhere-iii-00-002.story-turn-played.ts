@@ -4,13 +4,14 @@ export const overwhereIii00002 = {
   id: "01a0f141-f288-7102-a489-7495bc0f5f73",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-002",
+  cover: "image/image-02627ac368b1e212",
   ownLength: 306,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 2,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-tobin-wick"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“Okay, isekai protocol. Status? System?”",
   beats: [
     'Nala says it aloud to the empty crossroads: "Okay, isekai protocol. Status? System?"',
@@ -38,6 +39,6 @@ export const overwhereIii00002 = {
     "place/overwhere-iii-wrenwood-crossroads",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T16:38:00.000Z",
 } as const satisfies StoryTurnPlayed
