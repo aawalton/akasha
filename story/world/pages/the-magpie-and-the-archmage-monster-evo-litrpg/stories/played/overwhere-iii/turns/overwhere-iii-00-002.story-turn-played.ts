@@ -10,4 +10,5 @@ export const overwhereIii00002 = {
   stepStatus: "step-status/game-master",
   action: "“Okay, isekai protocol. Status? System?”",
   lore: ["lore/overwhere-iii-nala"],
+  endsAt: "2026-09-29T16:38:00.000Z",
 } as const satisfies StoryTurnPlayed
