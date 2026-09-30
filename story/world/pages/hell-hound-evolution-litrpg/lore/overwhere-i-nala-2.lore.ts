@@ -56,5 +56,9 @@ export const overwhereINala2 = {
       fact: "On day 3 Nala took Ghost-Eye's milky eye and both its ears, and carries them in her pack.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Nala carries the two pale blue crystals and Ewan Dell's tin token in her pack.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore

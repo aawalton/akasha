@@ -40,6 +40,6 @@ export const overwhereI00056 = {
     "place/overwhere-i-the-greyfen",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
   endsAt: "2026-10-01T16:30:00.000Z",
 } as const satisfies StoryTurnPlayed
