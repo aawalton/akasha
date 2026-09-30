@@ -207,5 +207,9 @@ export const overwhereIiWendleFordFolk = {
       fact: "Reeve Oakes cannot keep a tale; the whole valley will hear of Col's healing by nightfall.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Col's rot took half an hour to draw and came out as a palmful of grey salt, burned in the hearth.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
