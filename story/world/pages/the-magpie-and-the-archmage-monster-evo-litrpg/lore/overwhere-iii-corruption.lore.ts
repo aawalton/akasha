@@ -252,6 +252,10 @@ export const overwhereIiiCorruption = {
       fact: "A Level 15 to 17 blightstone takes about eight Basic Cleansing Weaves to crack.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A blightstone paled by cleansing stays paled, so the work can be spread over days.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
