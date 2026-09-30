@@ -31,6 +31,10 @@ export const overwhereIiWrenMarsh = {
       fact: "Untreated, the rot reaches Wren's reservoir in about ten days and kills her.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A thin, freckled girl of about nine lies flushed with fever in the box bed by the fire.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

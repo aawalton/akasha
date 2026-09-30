@@ -73,7 +73,7 @@ export const overwhereIiTernHollow = {
     },
     {
       fact: "Wendle Ford, the nearest village, is three miles down the lane and along the river.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Big clawed prints, rank with rotten salt, crossed the lane below the barn two nights ago.",

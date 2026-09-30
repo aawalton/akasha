@@ -37,7 +37,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "This winter the greymaws have killed some forty sheep, a watchman and a carter.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "A greymaw shrugs off a spear thrust that would kill an ordinary wolf.",
@@ -46,6 +46,14 @@ export const overwhereIiGreymaws = {
     {
       fact: "The Reeve's watch has killed one greymaw in two fights and lost a man doing it.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Garth warns of greymaws: wolves big as ponies, scaled and stinking of salt, off the Whitecombs.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Garth says greymaws hunt at dusk and dawn, and shun fire and cold iron.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore

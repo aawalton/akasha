@@ -10,7 +10,7 @@ export const overwhereIiMarshCroft = {
   facts: [
     {
       fact: "Marsh Croft is a low turf-roofed cottage with a fold and a byre, a quarter mile below the barn.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Garth Marsh keeps forty ewes there, most of them in lamb, and one old pony.",
@@ -26,11 +26,11 @@ export const overwhereIiMarshCroft = {
     },
     {
       fact: "The house smells of peat smoke, wet wool and Goody Brannoc's bitter poultice.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Cold iron nails are driven along the fold's top rail and over the cottage door.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Place

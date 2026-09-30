@@ -57,11 +57,11 @@ export const overwhereIiWendlemere = {
     },
     {
       fact: "Since midwinter Aberrants have come down off the Whitecombs, taking sheep and two men.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Valley folk say the Deep Children rise from deep still water after dark and call people in.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "A peddler comes up from Carrowmouth each month the road is open; the spring road is mud.",

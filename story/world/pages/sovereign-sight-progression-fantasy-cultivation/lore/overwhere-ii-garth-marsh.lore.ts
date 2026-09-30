@@ -33,7 +33,7 @@ export const overwhereIiGarthMarsh = {
     },
     {
       fact: "A week ago a greymaw bit Wren's leg at the fold, and the bite has gone black with rot.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Garth sent to Varrow Keep for help for Wren and has had no answer.",
@@ -53,7 +53,7 @@ export const overwhereIiGarthMarsh = {
     },
     {
       fact: "Garth found the salt-rank prints below Tern Hollow and nailed cold iron along his fold.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Garth has an old boar spear, a crook, a shepherd's sling and no other weapon.",
@@ -106,6 +106,10 @@ export const overwhereIiGarthMarsh = {
     {
       fact: "Garth has a lass at home who is abed poorly, and he wants no Talent used under his roof.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Garth keeps his dead wife Anni's boots and cloak in a chest, and could be brought to part with them.",
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
