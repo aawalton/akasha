@@ -4,10 +4,13 @@ export const overwhereIv00003 = {
   id: "01a0f171-f4d3-7838-a623-0eb04528d3cc",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-003",
+  ownLength: 464,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 3,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Gladly, thank you.” I climb up. “I find I need to take my mind off of recent events. Would you talk me about yourself and the area?”",
   beats: [
@@ -36,6 +39,10 @@ export const overwhereIv00003 = {
     "A guard in a leather jerkin steps out, spear grounded, and looks straight past Garrett at Nala.",
     '"Day, Garrett. And who\'s this?" He turns to her. "Name and business in Millbrook, miss?"',
   ],
-  lore: ["lore/overwhere-iv-garrett-pell", "lore/overwhere-iv-maud-tarrow"],
+  lore: [
+    "lore/overwhere-iv-garrett-pell",
+    "lore/overwhere-iv-maud-tarrow",
+    "lore/overwhere-iv-nala",
+  ],
   endsAt: "2026-09-29T12:24:00.000Z",
 } as const satisfies StoryTurnPlayed
