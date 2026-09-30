@@ -7,7 +7,8 @@ export const overwhereIi00013 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 13,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Hmm, I don’t think the iron is stopping it, let’s try burning. If that doesn’t do it, I’ll pull it back into the pot, and we’ll bring it with us.”",
+  lore: ["lore/overwhere-ii-spiritual-rot-and-healing", "place/overwhere-ii-marsh-croft"],
 } as const satisfies StoryTurnPlayed
