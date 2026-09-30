@@ -34,5 +34,6 @@ export const overwhereIi00037 = {
     "Reeve Dray: \"The cart's back by noon, and I'll pay you then. See Hob about that spear meanwhile.\"",
   ],
   lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-reeve-corwin-dray"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T08:30:00.000Z",
 } as const satisfies StoryTurnPlayed
