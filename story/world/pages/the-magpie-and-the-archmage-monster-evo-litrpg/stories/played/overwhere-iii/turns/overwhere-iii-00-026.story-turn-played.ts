@@ -10,4 +10,5 @@ export const overwhereIii00026 = {
   stepStatus: "step-status/game-master",
   action: "“I did, but I’m still learning. Did I do something wrong?”",
   lore: ["lore/overwhere-iii-brannagh-tull", "lore/overwhere-iii-corruption"],
+  endsAt: "2026-09-30T17:47:00.000Z",
 } as const satisfies StoryTurnPlayed
