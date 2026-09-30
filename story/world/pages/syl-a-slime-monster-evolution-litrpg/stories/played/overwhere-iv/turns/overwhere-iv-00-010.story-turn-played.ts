@@ -10,7 +10,7 @@ export const overwhereIv00010 = {
   position: 10,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“You’re welcome to it lad, I’d never interfere with a great hunt like that.” I say with a smile. Then I go find another small slime somewhere private and see if I can figure out their weird behavior. I try talking to it and controlling it with my intent to see if they are listening to me somehow.",
   beats: [
@@ -32,8 +32,6 @@ export const overwhereIv00010 = {
     "She reaches again, and this time she pulls. The air creases, and it is back at her boot.",
     "A second sip goes. The warmth sits a little lower behind her ribs, still huge, still patient.",
     "She tries to fold it sideways, toward the brook. The warmth gives no answer; the slime stays put.",
-    "Toward her, or away. For now, nothing else.",
-    "Out past the willows, the mill wheel creaks on. Nobody has come. The three slimes wait at her feet.",
   ],
   issues: [
     '"Toward you, or away. For now, only that." - Leave It Open',
