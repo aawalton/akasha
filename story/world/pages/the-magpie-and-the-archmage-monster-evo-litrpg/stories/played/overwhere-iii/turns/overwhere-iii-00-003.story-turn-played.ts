@@ -4,13 +4,13 @@ export const overwhereIii00003 = {
   id: "01a0f14e-9aee-7d3f-8f6c-51c7329f764d",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-003",
-  ownLength: 281,
+  ownLength: 266,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 3,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-tobin-wick"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "“Thank you” I say simply, and climb up into the cart, quietly focusing on the man’s weaving trait, seeing if I can feel the man’s inside it around me.",
   beats: [
