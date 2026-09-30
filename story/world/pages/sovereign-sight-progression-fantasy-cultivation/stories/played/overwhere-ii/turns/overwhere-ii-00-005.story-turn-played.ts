@@ -37,5 +37,6 @@ export const overwhereIi00005 = {
     "place/overwhere-ii-tern-hollow",
     "place/overwhere-ii-wendlemere",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-29T06:58:00.000Z",
 } as const satisfies StoryTurnPlayed
