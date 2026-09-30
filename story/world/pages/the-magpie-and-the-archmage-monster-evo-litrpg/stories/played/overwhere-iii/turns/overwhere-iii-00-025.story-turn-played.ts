@@ -14,7 +14,7 @@ export const overwhereIii00025 = {
     "character-other/overwhere-iii-brannagh-tull",
     "character-other/overwhere-iii-marda-hesk",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I take them to the shop, then see if I can find Tobin to return his coat and repay double what he spent on me, then pay for a night at the inn from my own funds.",
   beats: [
@@ -23,7 +23,7 @@ export const overwhereIii00025 = {
     "An old woman, bent and sharp-eyed, looks up from the counter. A one-eared gray cat watches too.",
     "Nala says Marda sent her, and sets out her twenty-three frostcaps.",
     "The old woman turns each one over and checks every root cut, muttering to the cat.",
-    '"Clean. All of them." She counts twenty-three copper into Nala\'s hand.',
+    '"Clean. All of them." She counts twenty-three copper out onto the counter.',
     "As Nala reaches for the coins, her sleeve rides up her forearm, over the pink seam of the bite.",
     "The old woman's hand shoots out and turns Nala's wrist to the lamp.",
     'She studies the seam, close. Then she looks up, sharp as a thorn. "Who closed this?"',
