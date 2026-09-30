@@ -155,6 +155,10 @@ export const overwhereITheGreyfen = {
       fact: "A low rise of dead alders, the Greystakes, stands six hundred yards east of the pine island.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "On day 3 the wind blows from the west off the middle fen until mid-afternoon, then swings north.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
