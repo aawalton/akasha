@@ -67,6 +67,10 @@ export const overwhereIGarrickPell = {
       fact: "He stews the Brute for a feast on the green on the evening of day one.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Mornings he is in the Stag's hall, sweeping and brewing, with the reeve at her tallies.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
