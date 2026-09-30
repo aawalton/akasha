@@ -10,7 +10,7 @@ export const overwhereIi00005 = {
   position: 5,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“I’m Nala, I mean you no harm. I’m on a mission but seem to have gotten lost. Could you tell me where I am precisely?”",
   beats: [
@@ -37,6 +37,6 @@ export const overwhereIi00005 = {
     "place/overwhere-ii-tern-hollow",
     "place/overwhere-ii-wendlemere",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T06:58:00.000Z",
 } as const satisfies StoryTurnPlayed
