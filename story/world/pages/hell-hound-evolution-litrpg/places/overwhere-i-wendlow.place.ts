@@ -87,5 +87,9 @@ export const overwhereIWendlow = {
       fact: "Wendlow, three days east of Fenwatch, has the bounty Board the Fenwatch slate copies from.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "In Wendlow the enchanter Ilse Varrow sets mana-grown stones into rings and rods for mages.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
