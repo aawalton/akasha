@@ -323,7 +323,7 @@ export const overwhereIiiBrannaghTull = {
     },
     {
       fact: "Her mana draught receipt: ground jackalope antler, frostcap, honey, and a night's steeping.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "For wounds and bones Brannagh sends a reader to Sister Wenna's herbal at the chapel.",
