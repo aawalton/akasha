@@ -64,5 +64,9 @@ export const overwhereIiiWrenmarkBeasts = {
       fact: "A jackalope's one glimmerstone sits at the base of its antlers.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A Level 3 jackalope has 9 health and no ward; its soft fur turns nothing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
