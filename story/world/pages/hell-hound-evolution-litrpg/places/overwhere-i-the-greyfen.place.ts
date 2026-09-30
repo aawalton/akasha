@@ -211,6 +211,10 @@ export const overwhereITheGreyfen = {
       fact: "Mana crystals grow in the island's drowned pine roots; a careful search there finds two small ones.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "No wolf crosses her path between the pine island and Fenwatch on day 3.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
