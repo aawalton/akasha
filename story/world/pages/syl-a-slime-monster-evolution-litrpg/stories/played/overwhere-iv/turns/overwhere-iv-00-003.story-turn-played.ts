@@ -4,12 +4,13 @@ export const overwhereIv00003 = {
   id: "01a0f171-f4d3-7838-a623-0eb04528d3cc",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-003",
+  cover: "image/image-524b32d62730b768",
   ownLength: 464,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 3,
   prose: "txt",
-  characters: ["character-player/overwhere-iv-nala"],
+  characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-garrett-pell"],
   stepStatus: "step-status/recorders",
   action:
     "“Gladly, thank you.” I climb up. “I find I need to take my mind off of recent events. Would you talk me about yourself and the area?”",
@@ -45,6 +46,6 @@ export const overwhereIv00003 = {
     "lore/overwhere-iv-nala",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T12:24:00.000Z",
 } as const satisfies StoryTurnPlayed
