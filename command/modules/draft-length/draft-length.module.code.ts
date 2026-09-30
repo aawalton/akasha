@@ -17,7 +17,7 @@ import {
 import { definingRefused } from "akasha/command/modules/mechanic-defining/mechanic-defining.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 
-export type LetOff = (path: string) => boolean
+type LetOff = (path: string) => boolean
 
 const ENCODER = new TextEncoder()
 
