@@ -7,6 +7,6 @@ export const overwhereI00051 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 51,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action: "I fire an artillery shot again, seeing if I can hit Ghost-Eye this time",
 } as const satisfies StoryTurnPlayed
