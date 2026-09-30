@@ -29,6 +29,12 @@ export const overwhereIv00031 = {
     "Atop the fallen oak, the slinger rises out of its crouch. Smoke curls off its singed hide.",
     "It isn't looking at Dace. It's looking at her. The sling starts to whirl.",
   ],
-  lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2", "place/overwhere-iv-the-tangle"],
+  lore: [
+    "lore/overwhere-iv-brookside-four",
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "place/overwhere-iv-the-tangle",
+  ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-01T13:13:00.000Z",
 } as const satisfies StoryTurnPlayed
