@@ -28,5 +28,9 @@ export const overwhereIFenwatch2 = {
       fact: "At the gate near 17:40 on day 3, the watch bristles at Sedge until Rowan speaks up for it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At 17:45 on day 3 the Stag holds Garrick, Agathe, Osric and a score of villagers at supper.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
