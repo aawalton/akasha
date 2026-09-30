@@ -166,5 +166,9 @@ export const overwhereIiiNala2 = {
       fact: "[Mana Weaver – At [Adept] level, you see currents and auras far off. They lend your workings more.]",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At Adept, Mana Weaver reaches currents three times as far off, and lends three times the Basic mana.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
