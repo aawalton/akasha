@@ -4,13 +4,13 @@ export const overwhereIi00058 = {
   id: "01a0f49c-dce9-7a23-ac60-45ae463a32f2",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-058",
-  ownLength: 164,
+  ownLength: 171,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 58,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "“Yeah, I’ll need to prepare a but before I’m ready for that. Sounds like you’ll get to keep me a while longer after all.” Once the conversation is done, I get a good meal and go to sleep.",
   beats: [
