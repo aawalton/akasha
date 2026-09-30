@@ -10,7 +10,7 @@ export const overwhereIvMana = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Nala's most mana is 40, five more per racial level and three per Dimension Magic level.",
+        "Nala's most mana is 40, five more per racial level past the first, three per Dimension Magic level.",
     },
     {
       decisionKind: "decision-kind/departure",
