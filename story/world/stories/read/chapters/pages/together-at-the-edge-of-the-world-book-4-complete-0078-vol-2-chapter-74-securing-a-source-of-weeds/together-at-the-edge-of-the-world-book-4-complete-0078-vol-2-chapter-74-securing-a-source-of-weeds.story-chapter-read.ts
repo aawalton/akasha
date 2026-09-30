@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0078Vol2Chapter74SecuringAS
   id: "01a0f12a-b852-7a9b-80b6-786ddd4bc9fa",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0078-vol-2-chapter-74-securing-a-source-of-weeds",
+  ownProgress: 2112,
   position: 78,
   publishedAt: "2025-11-03",
   unit: "unit/words",
