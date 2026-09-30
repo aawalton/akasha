@@ -30,11 +30,13 @@ export const overwhereIi00034 = {
     'Reeve Dray: "Nobody hunts alone for me till they\'ve bested me. A watch spear against my hands."',
     'Reeve Dray: "Out on the green, now, if you\'re willing."',
   ],
+  issues: ['"Nobody hunts alone for me till they\'ve bested me" - Nobody Acts'],
   lore: [
     "lore/overwhere-ii-greymaws",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-reeve-corwin-dray",
     "lore/overwhere-ii-wendle-ford-folk",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T08:20:00.000Z",
 } as const satisfies StoryTurnPlayed
