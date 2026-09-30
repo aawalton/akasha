@@ -251,6 +251,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "The six are ordinary foes for Nala, within ten levels above her, so the Surge easing applies.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Mid-creep, 350 yards off the island, Nala flushed a heron; its clatter drew the watcher's eye.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
