@@ -42,6 +42,10 @@ export const sheetPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The stats tab opens on the character's resources, above its attributes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A panel drawing this sheet says whether it shows the stats and the bonds.",
     },
     {

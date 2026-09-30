@@ -32,6 +32,7 @@ import {
   type Counted,
   namedIn,
   questsIn,
+  resourcesIn,
   type Skill,
   scoresIn,
   skillsIn,
@@ -91,6 +92,7 @@ export type Filed = {
   readonly delta: Record<string, number>
   readonly level?: number
   readonly attributes: Readonly<Record<string, number>>
+  readonly resources?: Readonly<Record<string, string | number>>
   readonly skills: readonly Skill[]
   readonly quests: readonly Quest[]
   readonly bonds: readonly Counted[]
@@ -200,7 +202,16 @@ async function readFiled(character: string, turn: number): Promise<Filed> {
     askedLoudly({
       "page-type": metricCharacterResource.slug,
       where: { character: { is: character } },
-      keys: [TYPE_KEY, CHARACTER_KEY, VALUE_KEY, MAX_VALUE_KEY, HISTORY_KEY, UNREVEALED_KEY],
+      keys: [
+        TYPE_KEY,
+        CHARACTER_KEY,
+        VALUE_KEY,
+        MAX_VALUE_KEY,
+        HISTORY_KEY,
+        SLUG_KEY,
+        TITLE_KEY,
+        UNREVEALED_KEY,
+      ],
       files: [HISTORY_KEY],
     }),
     askedLoudly({
@@ -239,13 +250,16 @@ async function readFiled(character: string, turn: number): Promise<Filed> {
       [SKILL_KEY, RANK_KEY, CHARACTERS_KEY, ELEMENT_KEY]
     )
   )
-  const pools = poolsIn(rowsOf(resources), turn)
+  const resourceRows = rowsOf(resources)
+  const pools = poolsIn(resourceRows, turn)
   const scored = scoresIn(rowsOf(scores))
+  const held = resourcesIn(resourceRows)
   return {
     pools: pools.pools,
     delta: pools.delta,
     ...(scored.level === undefined ? {} : { level: scored.level }),
     attributes: scored.attributes,
+    ...(Object.keys(held).length === 0 ? {} : { resources: held }),
     skills: skillsIn(skillRows, titles, descriptions),
     quests: questsIn(rowsOf(quests)),
     bonds: bondsIn(bondRows, character, titles),
@@ -271,6 +285,7 @@ function sheetOf(filed: Filed): RevealedSheet {
   return {
     ...(filed.level === undefined ? {} : { level: filed.level }),
     ...(Object.keys(filed.attributes).length === 0 ? {} : { attributes: { ...filed.attributes } }),
+    ...(filed.resources === undefined ? {} : { resources: { ...filed.resources } }),
     ...(filed.skills.length === 0 ? {} : { skills: [...filed.skills] }),
     ...(filed.bonds.length === 0 ? {} : { bonds: [...filed.bonds] }),
     ...(filed.attunements.length === 0 ? {} : { affinities: [...filed.attunements] }),

@@ -13,7 +13,8 @@ export const otherwhereTheLibraryPlayerCharacter = {
     { decisionKind: "decision-kind/departure", statement: "Clicking the cover opens it whole." },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The sheet shows stats once the story has shown the character any.",
+      statement:
+        "The sheet shows stats once the story has shown the character a stat or a resource.",
     },
   ],
 } as const satisfies PlayedPanel

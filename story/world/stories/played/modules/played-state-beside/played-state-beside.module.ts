@@ -54,6 +54,10 @@ export const playedStateBeside = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The character's resources are on the sheet as well as in the pools.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page stating it is unrevealed is drawn in no part.",
     },
     {

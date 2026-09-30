@@ -130,9 +130,15 @@ function StatsTab({
   workings: readonly Working[] | undefined
 }) {
   const attributes = sheet.attributes
+  const resources = sheet.resources
   const derived = useDerived(game, workings) ?? {}
   return (
     <div className="flex flex-col gap-3">
+      {resources !== undefined ? (
+        <Section title="Resources">
+          <ScalarRows record={resources} />
+        </Section>
+      ) : null}
       {attributes !== undefined ? (
         <Section title="Attributes">
           <ScalarRows record={attributes} />
