@@ -11,4 +11,5 @@ export const overwhereI00006 = {
   action:
     "I check my status and see that the armor cost only one point from my reserve. “All right! Seems like I’ll need to practice holding spells.” I activate the Earth armor again and this time focus on holding it for as long as I can, then add in the Wind movement boost and practice moving around in the armor, then add a third new spell, a rapidly rotating thin sword made of water. I try to hold all three at once and monitor my status, dropping them if I hit half on any of the reserves.",
   lore: ["lore/overwhere-i-nala", "place/overwhere-i-greyfen-ford"],
+  endsAt: "2026-09-29T10:22:00.000Z",
 } as const satisfies StoryTurnPlayed
