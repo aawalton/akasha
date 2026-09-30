@@ -82,7 +82,11 @@ export const overwhereIiiMaudFerrow = {
     },
     {
       fact: "Maud grunts at being made to wait, but sends Cob to Brannagh's to meet the healer at noon.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-maud-ferrow",
+      ],
     },
   ],
 } as const satisfies Lore
