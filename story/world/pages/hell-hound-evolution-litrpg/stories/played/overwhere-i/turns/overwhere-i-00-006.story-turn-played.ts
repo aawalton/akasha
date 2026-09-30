@@ -42,5 +42,6 @@ export const overwhereI00006 = {
     "Mana reads 49/136.",
   ],
   lore: ["lore/overwhere-i-nala", "place/overwhere-i-greyfen-ford"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T10:22:00.000Z",
 } as const satisfies StoryTurnPlayed
