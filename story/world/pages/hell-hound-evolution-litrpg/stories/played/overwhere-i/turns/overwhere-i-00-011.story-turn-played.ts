@@ -4,10 +4,13 @@ export const overwhereI00011 = {
   id: "01a0f185-1cc6-7776-8662-1f0fac404749",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-011",
+  ownLength: 249,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 11,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Nala.” I stand up and wander over. “Mind if I watch? I’ve never seen a beast skinned and quartered before.”",
   beats: [
@@ -28,6 +31,7 @@ export const overwhereI00011 = {
   ],
   lore: [
     "lore/overwhere-i-hessa-vane",
+    "lore/overwhere-i-nala",
     "lore/overwhere-i-sootjaw",
     "lore/overwhere-i-tobin-ashdown",
     "place/overwhere-i-greyfen-ford",
