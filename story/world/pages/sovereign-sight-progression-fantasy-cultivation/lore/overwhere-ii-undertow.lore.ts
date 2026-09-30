@@ -152,5 +152,9 @@ export const overwhereIiUndertow = {
       fact: "Drawing on a Talent's reservoir drains them as it did the greymaws, and they feel it plainly.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Undertow can drive a plain iron spear faster than her arm alone; only cold iron it cannot move.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
