@@ -36,5 +36,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "Ripples walked up the channel find the third den once she's within fifty yards of the alder root.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "By ripple the Level 12 feels longer and denser than the other two, and it is still asleep.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
