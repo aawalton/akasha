@@ -33,7 +33,7 @@ export const overwhereIiTernHollow = {
     },
     {
       fact: "Tern Hollow is the upland barn of the Aske farm, in Wendlemere on the isle of Carrow.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The Aske farmhouse is shut up at the foot of the lane, half a mile below the barn.",
