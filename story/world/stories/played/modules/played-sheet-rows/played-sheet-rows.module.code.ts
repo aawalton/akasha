@@ -1,3 +1,4 @@
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { parseNumber } from "akasha/code/type/narrowing/modules/parse-number/parse-number.module.code.ts"
 import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
@@ -186,6 +187,67 @@ export function resourcesIn(rows: readonly QueryRow[]): Readonly<Record<string, 
     held.push({
       name: resourceNameOf(row, type),
       shown: wordsIn(row) ?? numbers,
+      order: parseNumber(row.values[DISPLAY_ORDER_KEY]),
+    })
+  }
+  return Object.fromEntries(held.toSorted(byOrder).map((one) => [one.name, one.shown]))
+}
+
+const CURRENCY_KEY = "currency"
+
+const NAME_KEY = "name"
+
+const WORTH_KEY = "worth"
+
+const COUNTED_APART = ", "
+
+const PURSE = "Purse"
+
+export type Denomination = { readonly name: string; readonly worth: number }
+
+export type Currency = { readonly title: string; readonly denominations: readonly Denomination[] }
+
+export function denominationsIn(held: unknown): readonly Denomination[] {
+  if (!Array.isArray(held)) return []
+  const denominations: Denomination[] = []
+  for (const one of held) {
+    if (!isRecord(one)) continue
+    const name = textIn(one[NAME_KEY])
+    const worth = parseNumber(one[WORTH_KEY])
+    if (name === null || worth === undefined || worth <= 0) continue
+    denominations.push({ name, worth })
+  }
+  return denominations.toSorted((one, other) => other.worth - one.worth)
+}
+
+export function countedIn(value: number, denominations: readonly Denomination[]): string | number {
+  const smallest = denominations.at(-1)
+  if (smallest === undefined) return value
+  let left = value
+  const parts: string[] = []
+  for (const one of denominations) {
+    const count = Math.floor(left / one.worth)
+    if (count === 0) continue
+    parts.push(`${String(count)} ${one.name}`)
+    left -= count * one.worth
+  }
+  return parts.length === 0 ? `0 ${smallest.name}` : parts.join(COUNTED_APART)
+}
+
+export function pursesIn(
+  rows: readonly QueryRow[],
+  currencies: ReadonlyMap<string, Currency>
+): Readonly<Record<string, string | number>> {
+  const held: Resource[] = []
+  for (const row of rows) {
+    const value = parseNumber(row.values[VALUE_KEY])
+    if (value === undefined) continue
+    const address = textIn(row.values[CURRENCY_KEY])
+    const currency = address === null ? undefined : currencies.get(address)
+    const title = textIn(row.values[TITLE_KEY])
+    held.push({
+      name: currency?.title ?? (title === null || title === "" ? PURSE : title),
+      shown: wordsIn(row) ?? countedIn(value, currency?.denominations ?? []),
       order: parseNumber(row.values[DISPLAY_ORDER_KEY]),
     })
   }

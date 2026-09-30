@@ -55,6 +55,22 @@ export const playedSheetRows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A purse is named by its currency's title, or by its own title, or as a purse.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A purse is counted in its currency's largest coins that fit it, largest first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A purse whose currency states no coins is shown as its number.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A purse stating the words the story gave for it is shown as those words.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A skill is named by its skill page's title and ranked by its rank page's title.",
     },
     {

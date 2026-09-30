@@ -12,8 +12,11 @@ import { towerSkillRank } from "akasha/story/world/pages/personas/stories/played
 import {
   attunementsIn,
   bondsIn,
+  countedIn,
+  denominationsIn,
   heldIn,
   namedIn,
+  pursesIn,
   questsIn,
   resourcesIn,
   scoresIn,
@@ -122,6 +125,49 @@ test("resources stating a display order come first in that order, and the rest b
     "EARTH RESERVE",
     "WIND RESERVE",
   ])
+})
+
+test("a currency's denominations are read largest first, and a malformed one is dropped", () => {
+  const held = [
+    { name: "copper", worth: 1 },
+    { name: "gold", worth: 100 },
+    { name: "silver", worth: 10 },
+    { name: "nothing", worth: 0 },
+    { worth: 5 },
+  ]
+  expect(denominationsIn(held).map((one) => one.name)).toEqual(["gold", "silver", "copper"])
+  expect(denominationsIn("x")).toEqual([])
+})
+
+test("a purse is counted in the largest coins that fit it, or as a number with no coins", () => {
+  const coins = denominationsIn([
+    { name: "copper", worth: 1 },
+    { name: "silver", worth: 10 },
+    { name: "gold", worth: 100 },
+  ])
+  expect(countedIn(233, coins)).toBe("2 gold, 3 silver, 3 copper")
+  expect(countedIn(30, coins)).toBe("3 silver")
+  expect(countedIn(0, coins)).toBe("0 copper")
+  expect(countedIn(12, [])).toBe(12)
+})
+
+test("a purse is named by its currency, shown in its coins or its words, and ordered", () => {
+  const currencies = new Map([
+    [
+      "world-currency/some-coin",
+      { title: "Crowns", denominations: denominationsIn([{ name: "crown", worth: 1 }]) },
+    ],
+  ])
+  const rows = [
+    { values: { value: 4, currency: "world-currency/some-coin", displayOrder: 2 } },
+    {
+      values: { value: 9, currency: "world-currency/other", revealedAs: "a few", displayOrder: 1 },
+    },
+    { values: { currency: "world-currency/some-coin" } },
+  ]
+  const purses = pursesIn(rows, currencies)
+  expect(purses).toEqual({ Purse: "a few", Crowns: "4 crown" })
+  expect(Object.keys(purses)).toEqual(["Purse", "Crowns"])
 })
 
 test("a skill is named by the skill page's title and ranked by the rank page's title", () => {
