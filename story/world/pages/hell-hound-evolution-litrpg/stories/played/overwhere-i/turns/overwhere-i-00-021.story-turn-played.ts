@@ -11,4 +11,5 @@ export const overwhereI00021 = {
   action:
     "I weave fire into my muscles for strength, grab the boar by the tusks, and drag him back to the village.",
   lore: ["lore/overwhere-i-greyfen-beasts", "lore/overwhere-i-nala", "place/overwhere-i-fenwatch"],
+  endsAt: "2026-09-30T07:44:00.000Z",
 } as const satisfies StoryTurnPlayed
