@@ -10,7 +10,7 @@ export const overwhereI00029 = {
   position: 29,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I attune earth and water and try to make a kind of magical sonar, rippling through the ground and water and bringing back a map of what it contains. I use the two known holes to calibrate and then circle out to see if I can find the third whole.",
   beats: [
@@ -25,7 +25,6 @@ export const overwhereI00029 = {
     "From under the bank by the first slide comes a muffled scrabbling, then nothing.",
     "A swirl rises in the dark water below the slide, and a line of bubbles runs out into the channel.",
     "It stops in mid-channel. The water goes still.",
-    "Something is out of its holt and in the water, and she cannot see where.",
   ],
   issues: [
     '"Something is out of its holt and in the water, and you can\'t see where." - Leave It Open',
