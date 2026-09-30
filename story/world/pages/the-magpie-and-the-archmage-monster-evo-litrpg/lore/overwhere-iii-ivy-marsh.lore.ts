@@ -69,5 +69,14 @@ export const overwhereIiiIvyMarsh = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "Nala drew the last of the blight from Ivy's hand and closed the bite to a clean pink seam.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-ivy-marsh",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
   ],
 } as const satisfies Lore
