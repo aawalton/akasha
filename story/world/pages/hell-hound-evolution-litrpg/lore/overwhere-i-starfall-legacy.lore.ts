@@ -166,7 +166,7 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "A hot wind at her back pushes her no faster than plain wind, and scorches the ground behind her.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Surge wind-speed is still the fastest over a short dash; a weave is slower but lasts its minute.",
