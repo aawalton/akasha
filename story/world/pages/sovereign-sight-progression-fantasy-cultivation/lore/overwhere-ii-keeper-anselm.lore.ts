@@ -121,7 +121,7 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "Coming up the river lane on day two, Anselm meets Nala on her way to the Ford.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
   secrets: "jsonl",
