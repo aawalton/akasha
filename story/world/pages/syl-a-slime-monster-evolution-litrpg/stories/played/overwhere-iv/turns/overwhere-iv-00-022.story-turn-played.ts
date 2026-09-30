@@ -4,10 +4,17 @@ export const overwhereIv00022 = {
   id: "01a0f36b-bec3-743b-8d2a-1ce4a52af1a5",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-022",
+  ownLength: 499,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 22,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iv-nala",
+    "character-other/overwhere-iv-ilsa-crane",
+    "character-other/overwhere-iv-brenna-holt",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "“Perfect, I’ll work on that today.” I go and check if I’m needed for any more of the guard training first and complete that if so, then go clear slimes at the Hobb farm.",
   beats: [
@@ -36,6 +43,10 @@ export const overwhereIv00022 = {
     "Then Bran goes stiff at the orchard's end. Hackles up. He barks, hard, toward the far field wall.",
     'Hobb spits. "Wolves again. Took two of my sheep this week, out of the field by the trees."',
   ],
-  lore: ["place/overwhere-iv-hobb-farm", "place/overwhere-iv-millbrook-gatehouse"],
+  lore: [
+    "lore/overwhere-iv-nala",
+    "place/overwhere-iv-hobb-farm",
+    "place/overwhere-iv-millbrook-gatehouse",
+  ],
   endsAt: "2026-09-30T18:10:00.000Z",
 } as const satisfies StoryTurnPlayed
