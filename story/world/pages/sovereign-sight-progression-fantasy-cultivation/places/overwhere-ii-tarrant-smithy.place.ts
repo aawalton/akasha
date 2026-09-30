@@ -32,5 +32,9 @@ export const overwhereIiTarrantSmithy = {
       fact: "Hob's smithy is an open-fronted stone shed on the ford road, its forge glowing at the back.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Hob finishes Nala's cold-iron boar spear on the morning of day five, and it hangs ready.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
