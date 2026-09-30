@@ -97,7 +97,7 @@ export const overwhereIRowanCoalby = {
     },
     {
       fact: "Rowan reckons a drake-pearl fetches several gold from an alchemist in Wendlow.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Rowan warns the Hall pays on the head alone, and fen scavengers will have the body in two days.",
