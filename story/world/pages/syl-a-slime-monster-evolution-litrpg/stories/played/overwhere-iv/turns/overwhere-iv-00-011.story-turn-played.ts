@@ -11,4 +11,5 @@ export const overwhereIv00011 = {
   action:
     "“Well, isn’t that interesting.” I spend the rest of the time until dinner pushing and pulling to practice and train my dimensional magic, then go to dinner.",
   lore: ["place/overwhere-iv-millbrook-gatehouse"],
+  endsAt: "2026-09-29T18:15:00.000Z",
 } as const satisfies StoryTurnPlayed
