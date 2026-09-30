@@ -89,7 +89,7 @@ export const overwhereIiiNala2 = {
       ],
     },
     {
-      fact: "Nala carries Brannagh's clay cup of three seed blightstones in her knapsack.",
+      fact: "Nala carries Brannagh's clay cup for seed blightstones in her knapsack; it is empty now.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
@@ -105,7 +105,7 @@ export const overwhereIiiNala2 = {
       ],
     },
     {
-      fact: "Brannagh tipped Garrick's two seed stones into Nala's clay cup; it holds five now.",
+      fact: "Brannagh tipped Garrick's two seed stones into Nala's clay cup, to go with Ivy's three.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/overwhere-iii-nala",
