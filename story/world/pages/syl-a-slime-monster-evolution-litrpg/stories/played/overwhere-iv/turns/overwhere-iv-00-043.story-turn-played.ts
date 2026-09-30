@@ -11,4 +11,5 @@ export const overwhereIv00043 = {
   action:
     "“I’m think I’m done for today. Where in town might I find books to read? I worked my body and my mana, time to work my mind.”",
   lore: ["lore/overwhere-iv-ilsa-crane-2", "place/overwhere-iv-millbrook-shrine"],
+  endsAt: "2026-10-02T10:08:00.000Z",
 } as const satisfies StoryTurnPlayed
