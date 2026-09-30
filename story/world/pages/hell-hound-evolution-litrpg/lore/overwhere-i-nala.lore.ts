@@ -297,5 +297,9 @@ export const overwhereINala = {
       fact: "Held fire-strength adds 8 to her Strength; it costs only the Surge's 10 mana and 1 fire a minute.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Fire-strength is a burst of Starfall Surge, like wind-speed, not a new skill or legacy way.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
