@@ -313,5 +313,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "One weave plucks the eye in about a minute; ears need a water disc; together about two minutes.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ghost-Eye's milky eye, plucked, is a hard pearl of clouded crystal.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
