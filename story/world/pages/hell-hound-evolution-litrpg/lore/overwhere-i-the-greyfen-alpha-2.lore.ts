@@ -244,5 +244,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "She gets about five slugs while it swims, 100 to 70 yards, and about eight as it crosses the marsh.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Within 100 yards a plain slug does Ghost-Eye 14 harm; its 70 health takes five such hits.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
