@@ -75,5 +75,9 @@ export const overwhereIvNala2 = {
       fact: "Until she holds Spellstrike, a spell through her spear costs its full mana.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A foe Nala fells is named with its kind and level in a window, though she has no Identify.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore
