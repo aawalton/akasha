@@ -4,6 +4,7 @@ export const overwhereI00048 = {
   id: "01a0f411-af0d-7634-9931-1dc47e1a8d4f",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-048",
+  cover: "image/image-310d2e2432b3c634",
   ownLength: 269,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -18,7 +19,7 @@ export const overwhereI00048 = {
     "character-other/overwhere-i-pine-isle-drakewolf-five",
     "character-other/overwhere-i-pine-isle-drakewolf-six",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I stay low and let them come, opening my pack for easy access to the bullets, then when they cross 100 meters for accuracy, I start firing aimed shots with full force, rotating across the three closest targets, so I don’t waste shots on downed enemies. I aim for where they are going to be when the rock lands, not where they are.",
   beats: [
@@ -53,6 +54,11 @@ export const overwhereI00048 = {
     "lore/overwhere-i-the-greyfen-alpha",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-01T13:04:00.000Z",
 } as const satisfies StoryTurnPlayed
