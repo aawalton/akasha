@@ -141,7 +141,7 @@ export const overwhereIRowanCoalby = {
     },
     {
       fact: "He refuses her gold, stammering that Sedge's name cleared is pay enough.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "He will bring a hatchet, rope and the reed drag-sled he hauls charcoal on.",
