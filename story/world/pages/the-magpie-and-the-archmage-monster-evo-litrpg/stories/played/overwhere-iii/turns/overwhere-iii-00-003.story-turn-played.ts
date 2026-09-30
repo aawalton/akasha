@@ -4,10 +4,13 @@ export const overwhereIii00003 = {
   id: "01a0f14e-9aee-7d3f-8f6c-51c7329f764d",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-003",
+  ownLength: 281,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 3,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-tobin-wick"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Thank you” I say simply, and climb up into the cart, quietly focusing on the man’s weaving trait, seeing if I can feel the man’s inside it around me.",
   beats: [
@@ -28,6 +31,6 @@ export const overwhereIii00003 = {
     '"So who was it did this to you, lass? Bandits? Out of the wood? Where are your people?"',
     "He waits for her answer, reins slack in his big hands, the town wall growing ahead.",
   ],
-  lore: ["lore/overwhere-iii-nala"],
+  lore: ["lore/overwhere-iii-nala", "lore/overwhere-iii-tobin-wick"],
   endsAt: "2026-09-29T16:44:00.000Z",
 } as const satisfies StoryTurnPlayed
