@@ -122,6 +122,11 @@ export const overwhereIvGrowth = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Lacking Identify, a close, deliberate study of one living being to know it is a use of it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The offer lists basic classes that fit her deeds, such as Mage, Scout or Warrior.",
     },
     {
