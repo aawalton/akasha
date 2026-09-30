@@ -274,7 +274,7 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "Fire in a lens only sets the air shimmering and blurs the view.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Getting a clear two-lens spyglass takes about an hour's practice; each lens held is a use.",
