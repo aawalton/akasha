@@ -4,13 +4,14 @@ export const overwhereIi00010 = {
   id: "01a0f197-b14a-7306-a769-c40b2de5c868",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-010",
+  cover: "image/image-8c21aeaa1f2cbff8",
   ownLength: 261,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 10,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Just a Talented, hadn't tried to use my Talent quite like that before, I’m glad it worked. Anyone else get bitten you know of? Wouldn’t mind some more practice with my new technique.”",
   beats: [
@@ -45,6 +46,6 @@ export const overwhereIi00010 = {
     "place/overwhere-ii-marsh-croft",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T07:55:00.000Z",
 } as const satisfies StoryTurnPlayed
