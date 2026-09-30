@@ -10,7 +10,7 @@ export const overwhereIi00017 = {
   position: 17,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Quiet!” I command. I try to carefully use the other direction of my power to push a small amount of life force from me back into the girl.",
   beats: [
@@ -32,7 +32,7 @@ export const overwhereIi00017 = {
     '"Sedge Horne," Goody says, very quiet and very hard. "Let go of her."',
     "Horne lets go. He steps back, looking at his own hand as if it belonged to someone else.",
     "Nala straightens her collar. The rot in Tansy's arm is held, but nearly all still there.",
-    "And now she knows how fine those deep threads are, and how easily the pull drinks what it touches.",
+    'Horne clears his throat, hoarse. "Can you get it out of her? The rest of it?"',
   ],
   issues: ['"And now you know how fine those deep threads are" - Leave It Open'],
   lore: ["lore/overwhere-ii-nala"],
