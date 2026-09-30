@@ -331,7 +331,7 @@ export const overwhereIFenwatch = {
     },
     {
       fact: "Jory would walk Nala out to his traps by day, but will not stay there after dark.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
