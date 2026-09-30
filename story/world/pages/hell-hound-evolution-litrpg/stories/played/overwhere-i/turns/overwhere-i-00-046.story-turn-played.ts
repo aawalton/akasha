@@ -11,4 +11,5 @@ export const overwhereI00046 = {
   action:
     "I use my lenses to scout the camp again, counting to see if all of the wolves are accounted for and estimating distances.",
   lore: ["lore/overwhere-i-the-greyfen-alpha", "place/overwhere-i-the-greyfen"],
+  endsAt: "2026-10-01T12:36:00.000Z",
 } as const satisfies StoryTurnPlayed
