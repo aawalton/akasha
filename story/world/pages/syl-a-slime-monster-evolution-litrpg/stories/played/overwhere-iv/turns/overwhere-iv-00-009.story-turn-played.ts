@@ -11,4 +11,5 @@ export const overwhereIv00009 = {
   action:
     "“Thanks!” I go back and get my spear, then start carefully clearing slimes in the commons, focusing on practicing my spear thrusts.",
   lore: ["place/overwhere-iv-millbrook-common"],
+  endsAt: "2026-09-29T15:07:00.000Z",
 } as const satisfies StoryTurnPlayed
