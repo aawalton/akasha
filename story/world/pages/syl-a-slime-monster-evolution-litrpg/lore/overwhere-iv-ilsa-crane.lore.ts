@@ -31,5 +31,21 @@ export const overwhereIvIlsaCrane = {
       fact: "She would sponsor a gifted newcomer if it raised the hall's name.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She is sharp-featured, ink on her fingers, dark hair pinned up with a pencil.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She hears all the town's news, and knows by now of the barefoot woman at the gate.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She would let a watch recruit owe the fee, since the watch pays at week's end.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She would sell a newcomer on slime work first: safe, steady, and paid by the core.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

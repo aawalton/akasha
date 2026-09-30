@@ -96,6 +96,30 @@ export const overwhereIvMillbrookAdventurersHall = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Afternoons the hall is quiet: Ilsa at the counter, an old trapper dozing by the hearth.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Brookside Four are out in the Tangle after wolves until dusk this day.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Inside are a long counter, a few tables and benches, a hearth and a notice-covered wall.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The fee may be owed against a first bounty, if the clerk judges the newcomer good for it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Touching the cracked crystal is free, offered to any newcomer who asks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "For most folk the cracked crystal gives a faint glow in one or two colours, and no more.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The Millbrook Adventurers' Hall stands on the town square, up the lane from the gate.",
       knowers: [
         "lore-disclosure/game-master",
