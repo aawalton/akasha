@@ -4,10 +4,16 @@ export const overwhereI00032 = {
   id: "01a0f367-861c-70cb-af9e-37195d6ba31c",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-032",
+  ownLength: 143,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 32,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-i-nala",
+    "character-other/overwhere-i-reedlurker-of-the-first-holt",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I attune water and try to pull the water out of the creature itself to dehydrate it. If that doesn’t work, I attune air and fire and rapidly heat it up instead.",
   beats: [
@@ -23,6 +29,7 @@ export const overwhereI00032 = {
   ],
   lore: [
     "lore/overwhere-i-greyfen-beasts",
+    "lore/overwhere-i-nala",
     "lore/overwhere-i-starfall-legacy",
     "place/overwhere-i-the-greyfen",
   ],
