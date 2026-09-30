@@ -7,7 +7,16 @@ export const overwhereIii00045 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 45,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Thank Brannagh.” I go and drain my mana again if the Post is still open, then get a hearty meal and sleep, then start it all over again the next day.",
+  lore: [
+    "lore/overwhere-iii-brannagh-tull",
+    "lore/overwhere-iii-cleansing-weave",
+    "lore/overwhere-iii-corruption",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
+    "place/overwhere-iii-crook-and-candle",
+    "place/overwhere-iii-merrowgate-guild-post",
+  ],
 } as const satisfies StoryTurnPlayed
