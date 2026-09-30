@@ -66,7 +66,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "Refining her soles, where her threads end, sends a cold jolt up through her loops into her well.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Met unready, the sole's jolt shakes Nala's grip and spills her well near dry; ridden, it does not.",
