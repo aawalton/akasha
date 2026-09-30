@@ -214,7 +214,7 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "Earth can shape a bullet's stone into a sleek, grooved slug; shaped stone keeps its shape after.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Shaping one slug takes a few seconds of an earth working, so slugs are best made ahead and carried.",
