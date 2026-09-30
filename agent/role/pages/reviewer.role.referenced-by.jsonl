@@ -7,6 +7,5 @@
 {"propertySlug":"import","fileName":"reviewer.role.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"reviewer.role.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
-{"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-overwhere-iii-flex-2/iris-reviewer-overwhere-iii-flex-2.seat.ts","id":"01a0f3d2-ee3d-7000-920d-8a98e9c511b3"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-overwhere-iv-flex-1/iris-reviewer-overwhere-iv-flex-1.seat.ts","id":"01a0f3d4-6c61-7000-bd53-da6ae23cff61"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-overwhere-iv-flex-2/iris-reviewer-overwhere-iv-flex-2.seat.ts","id":"01a0f3d4-8813-7000-b90c-c76032712fe3"}
