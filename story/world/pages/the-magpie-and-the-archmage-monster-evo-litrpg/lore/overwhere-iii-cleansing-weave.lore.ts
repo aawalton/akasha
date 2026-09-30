@@ -30,7 +30,7 @@ export const overwhereIiiCleansingWeave = {
     },
     {
       fact: "Blight pulled from living flesh clots at the wound's lip into a blightstone the size of a seed.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Each pull sends a cold ache up the thread into her arm, and costs her 1 health.",
