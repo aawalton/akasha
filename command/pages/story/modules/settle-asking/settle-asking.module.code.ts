@@ -39,7 +39,7 @@ const DICE = "dice"
 
 const NUMBER = "number"
 
-export type Settled = { readonly answered: unknown }
+type Settled = { readonly answered: unknown }
 
 export type Summed = { readonly at: string; readonly key: string; readonly by: number }
 
@@ -47,7 +47,7 @@ export type Added = { readonly page: string; readonly key: string; readonly by: 
 
 export type Adding = (reading: unknown, answered: unknown) => readonly Added[]
 
-export function addedOf(
+function addedOf(
   held: Record<string, unknown>,
   reading: unknown,
   answered: unknown
@@ -61,7 +61,7 @@ export async function addingAt(path: string): Promise<Adding> {
   return (reading, answered) => addedOf(held, reading, answered)
 }
 
-export type Answered = { readonly answered: unknown; readonly added: readonly Added[] }
+type Answered = { readonly answered: unknown; readonly added: readonly Added[] }
 
 type Settle = (given: unknown, thrown: unknown) => unknown
 
@@ -115,7 +115,7 @@ export function settledBefore(kept: string | null, roll: Made): boolean {
     })
 }
 
-export type Unfound = { readonly refused: string; readonly unfound: string }
+type Unfound = { readonly refused: string; readonly unfound: string }
 
 export function sumsOf(
   added: readonly Added[],
