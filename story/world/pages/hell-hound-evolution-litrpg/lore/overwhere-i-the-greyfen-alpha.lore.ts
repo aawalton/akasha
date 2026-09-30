@@ -301,6 +301,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "At 13:04 on day 3 six slugs from Nala killed three wolves in the marsh, 30 to 40 yards from her.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "With three down, the other three wolves broke and swam back to Ghost-Eye on the island.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
