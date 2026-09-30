@@ -1,0 +1,1 @@
+{"check":"world-check/overwhere-i-action-check","reading":{"band":"standard","bonuses":[{"from":"strength 20 with fire-strength","by":1},{"from":"unfamiliar body","by":-1}]},"dice":{"said":"1d20","sides":20,"faces":[7]},"seed":"overwhere-i-00-021","answered":{"succeeded":false,"outcome":"failure","total":7,"target":12,"margin":-5}}
