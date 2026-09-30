@@ -4,10 +4,13 @@ export const overwhereIi00050 = {
   id: "01a0f43b-9743-7459-8e86-6e022e1772eb",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-050",
+  ownLength: 471,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 50,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Either is fine, I’ll learn what anyone can teach me. And now I think I need an early night’s sleep. I have a hunt in the morning.” I take my leave and go sleep in the empty cabin, then gear up in the morning and start scouting.",
   beats: [
@@ -42,6 +45,8 @@ export const overwhereIi00050 = {
     "Neither has lifted its head; the wind blows from them to her, and they have not caught her scent.",
   ],
   lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
     "place/overwhere-ii-callow-beck",
     "place/overwhere-ii-wendle-ford",
     "place/overwhere-ii-whitecombs",
