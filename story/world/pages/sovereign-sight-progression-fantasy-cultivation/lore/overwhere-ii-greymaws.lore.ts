@@ -75,5 +75,9 @@ export const overwhereIiGreymaws = {
       fact: "Within its reach, Undertow can draw a greymaw's Water out of the bone chamber behind its breastbone.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Under a hard pull a common greymaw staggers in a few heartbeats and drops dead within ten.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
