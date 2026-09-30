@@ -167,5 +167,9 @@ export const overwhereIiWendleFordFolk = {
       fact: "Pim Sallow took the eel spine in her hand at Threllsnacht.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "The Reeve, Tam Oakes, is stout and fussy; he houses Col Ashby, who has no wife to nurse him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
