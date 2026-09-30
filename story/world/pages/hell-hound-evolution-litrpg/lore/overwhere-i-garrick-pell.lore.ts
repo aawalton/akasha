@@ -79,6 +79,10 @@ export const overwhereIGarrickPell = {
       fact: "Mornings he is in the Stag's hall, sweeping and brewing, with the reeve at her tallies.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "For Ghost-Eye's killer Garrick stands the bath, supper and bed that night free.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
