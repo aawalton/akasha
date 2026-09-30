@@ -15,4 +15,5 @@ export const overwhereIii00044 = {
     "lore/overwhere-iii-cleansing-weave",
     "lore/overwhere-iii-marda-hesk",
   ],
+  endsAt: "2026-10-02T12:00:00.000Z",
 } as const satisfies StoryTurnPlayed
