@@ -4,6 +4,7 @@ export const overwhereIii00037 = {
   id: "01a0f3d1-0364-7d15-a614-fee135a3c0d4",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-037",
+  cover: "image/image-d4e0b1e65758cfb6",
   ownLength: 132,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -38,6 +39,6 @@ export const overwhereIii00037 = {
     "lore/overwhere-iii-nala-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-01T11:08:00.000Z",
 } as const satisfies StoryTurnPlayed
