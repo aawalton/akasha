@@ -91,5 +91,33 @@ export const overwhereIvReevesPasture = {
       fact: "The old herdsman, who saw only the oak fall, asked Nala what she had cut it with.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Col catches 'spear skill' and little more, and takes it as some adventurer's trick.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Col wants the trunk cut twenty feet from the butt and its limbs taken off along that length.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Four limbs, each a foot thick, grow from the trunk's first twenty feet; the rest are above.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The crown and upper limbs are left for the reeve's men to saw for firewood.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Col keeps a felling axe on the sledge, but his back is too old for oak limbs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Chained to the sledge, the trimmed trunk takes Col's oxen an hour to drag to the mill yard.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Col drinks at the Brook and Barrel of an evening, and will tell of the girl who felled the oak.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
