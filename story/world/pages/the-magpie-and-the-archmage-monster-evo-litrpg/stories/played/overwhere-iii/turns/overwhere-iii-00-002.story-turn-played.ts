@@ -32,8 +32,12 @@ export const overwhereIii00002 = {
     "He is already shrugging out of his coat. \"I'm for Merrowgate. Climb up, you'll freeze.\"",
     "He holds the coat out to her and waits, the mules stamping and blowing in the cold.",
   ],
-  lore: ["lore/overwhere-iii-nala", "lore/overwhere-iii-tobin-wick"],
+  lore: [
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-tobin-wick",
+    "place/overwhere-iii-wrenwood-crossroads",
+  ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-29T16:38:00.000Z",
 } as const satisfies StoryTurnPlayed
