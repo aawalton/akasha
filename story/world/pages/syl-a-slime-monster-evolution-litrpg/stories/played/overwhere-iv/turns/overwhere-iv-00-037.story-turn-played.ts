@@ -7,7 +7,8 @@ export const overwhereIv00037 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 37,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Yes, I didn’t see a way for us to finish the goblins without risking casualties without it. Is that going to be a problem? I chose Spellblade for my starting class.”",
+  lore: ["lore/overwhere-iv-ilsa-crane"],
 } as const satisfies StoryTurnPlayed
