@@ -88,6 +88,10 @@ export const overwhereIiiCrookAndCandle = {
       fact: "Supper on Nala's third night is barley soup with pork sausages and black bread, 3 copper.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Tonight the common room talks of the red-haired healer; some raise a cup to her as she comes in.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
