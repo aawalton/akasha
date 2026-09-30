@@ -29,5 +29,6 @@ export const overwhereIi00048 = {
   ],
   lore: ["lore/overwhere-ii-keeper-anselm", "lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-09-30T16:57:00.000Z",
 } as const satisfies StoryTurnPlayed
