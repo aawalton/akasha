@@ -10,7 +10,7 @@ export const overwhereIi00018 = {
   position: 18,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“I’m making progress, but this will take time.” I continue working at the rot, this time leaning into the natural cycle of the talent, pushing a small amount of my strength to the girl, pulling back the rot with as little life force as I can, separating it out, and repeating, being sure never to drop the girl’s life force down again.",
   beats: [
@@ -27,7 +27,7 @@ export const overwhereIi00018 = {
     "Grey salt builds under her palm, grain by grain, and she tips it into Goody's basin and goes on.",
     "The room stays cold with gooseflesh; Goody stands by the window, breathing the sea-smell, silent.",
     "The sun moves across the floorboards. Tansy sleeps, her breathing slow and even.",
-    "The black veins ebb, finger-width by finger-width, down from her shoulder, past her elbow.",
+    "The black veins ebb, finger-width by finger-width, back from high on her arm, past her elbow.",
     "Nala's head is clear and cool, but deep in the work something in the tide is straining, stretching.",
     "The last threads lie deep in the bite under the bandage, finer than hair, and she reaches for them.",
     "Something gives, like a door swinging open inside her; the tide widens.",
