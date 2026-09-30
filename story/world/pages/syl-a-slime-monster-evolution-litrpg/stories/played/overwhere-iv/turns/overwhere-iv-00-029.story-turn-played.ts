@@ -10,7 +10,7 @@ export const overwhereIv00029 = {
   position: 29,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“I’ll go with the Four.” I pause for a moment and assign Spellblade as my class, then go and meet up with the Four. “Ready to go. I’ll fight with you as well if you’ll have me. I’m inexperienced, but I can still guard a flank.  Since we don’t know exactly how many there are, could be good to have an extra spear along.”",
   beats: [
@@ -19,7 +19,6 @@ export const overwhereIv00029 = {
     "<Class acquired: [Spellblade LV 1].>",
     "<Your class has revealed the following skill: [Spellstrike].>",
     "<Your class has revealed the following skill: [Blade Ward].>",
-    "A Skill Point sits unspent beside them, waiting, like the class window did.",
     "She goes to the hearth. \"Ready to go. I'll fight with you too, if you'll have me.\"",
     "\"I'm green, but I can guard a flank. We don't know how many. An extra spear can't hurt.\"",
     'Dace grins, broad and glad. "Gladly. Left flank, beside Wren." The hooded woman nods once.',
