@@ -4,10 +4,13 @@ export const overwhereIv00046 = {
   id: "01a0f48f-b860-721f-8be4-a20a4ff4c5bb",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-046",
+  ownLength: 155,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 46,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
+  stepStatus: "step-status/reviewers",
   action: "“Great! Maybe I’ll do both. For now I’ll get some lunch and the go read at the shrine.”",
   beats: [
     '"Great! Maybe I\'ll do both," Nala says. "For now, lunch. Then I\'ll go read at the shrine."',
@@ -20,6 +23,12 @@ export const overwhereIv00046 = {
     '"Marta. I keep this place." She nods at Nala\'s spear. "So you\'re the one they\'re all on about."',
     'She leans in, eyes bright. "Cut a goblin clean in two, they say. How\'d a slip like you manage that?"',
   ],
-  lore: ["place/overwhere-iv-brook-and-barrel", "place/overwhere-iv-millbrook-shrine"],
+  lore: [
+    "lore/overwhere-iv-ilsa-crane-2",
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "place/overwhere-iv-brook-and-barrel",
+    "place/overwhere-iv-millbrook-shrine",
+  ],
   endsAt: "2026-10-02T12:01:00.000Z",
 } as const satisfies StoryTurnPlayed
