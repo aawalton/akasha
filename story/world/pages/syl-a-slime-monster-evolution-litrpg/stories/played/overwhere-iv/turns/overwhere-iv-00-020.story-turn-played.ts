@@ -4,10 +4,13 @@ export const overwhereIv00020 = {
   id: "01a0f351-795c-726c-b54e-d680546a189e",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-020",
+  ownLength: 392,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 20,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
+  stepStatus: "step-status/reviewers",
   action:
     "I do as instructed, eating then paying to get the knee healed, then I go have a conversation with Ilsa and share the concern and see if she would adjust the report.",
   beats: [
@@ -33,6 +36,7 @@ export const overwhereIv00020 = {
   lore: [
     "lore/overwhere-iv-brookside-four",
     "lore/overwhere-iv-ilsa-crane",
+    "lore/overwhere-iv-nala",
     "place/overwhere-iv-millbrook-gatehouse",
   ],
   endsAt: "2026-09-30T09:20:00.000Z",
