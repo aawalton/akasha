@@ -24,5 +24,6 @@ export const overwhereIv00041 = {
     "\"There's my axe on the sledge, if your spear wants a rest. My back's past oak limbs, girl.\"",
   ],
   lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2", "place/overwhere-iv-reeves-pasture"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-02T09:37:00.000Z",
 } as const satisfies StoryTurnPlayed
