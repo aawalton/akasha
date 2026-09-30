@@ -45,5 +45,6 @@ export const overwhereI00015 = {
     "lore/overwhere-i-the-western-march",
     "place/overwhere-i-fenwatch",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T16:30:00.000Z",
 } as const satisfies StoryTurnPlayed
