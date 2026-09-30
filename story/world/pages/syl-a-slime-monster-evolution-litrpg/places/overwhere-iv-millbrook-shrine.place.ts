@@ -48,5 +48,29 @@ export const overwhereIvMillbrookShrine = {
         "character-other/overwhere-iv-ilsa-crane",
       ],
     },
+    {
+      fact: "Sister Anwen is sixty, stout and grey, slow of speech and kind, with sharp eyes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Afternoons Anwen sits in the shrine mending, and unlocks a book for whoever asks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The scripture tells of gods who watch deeds and bless great ones; it names no god of space.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "One hero tale tells of the Wayfarer, who stepped between cities in a breath.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The tale's Wayfarer cut a castle gate with a black blade no one else could see.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The hero tales call the Wayfarer long dead, and give no place, date or true name.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
