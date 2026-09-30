@@ -10,7 +10,7 @@ export const overwhereI00029 = {
   position: 29,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I attune earth and water and try to make a kind of magical sonar, rippling through the ground and water and bringing back a map of what it contains. I use the two known holes to calibrate and then circle out to see if I can find the third whole.",
   beats: [
@@ -36,6 +36,6 @@ export const overwhereI00029 = {
     "lore/overwhere-i-starfall-legacy",
     "place/overwhere-i-the-greyfen",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T10:47:00.000Z",
 } as const satisfies StoryTurnPlayed
