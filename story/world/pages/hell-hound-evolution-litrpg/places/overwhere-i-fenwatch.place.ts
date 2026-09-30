@@ -221,7 +221,11 @@ export const overwhereIFenwatch = {
     },
     {
       fact: "The slate: Grubboars rooting the oat strips south of the palisade, five silver for the old boar.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-agathe-morrow",
+      ],
     },
     {
       fact: "The slate also copies Wendlow's Board: Ghost-Eye, 25 gold; Harl Voss, 30; his men, 2 each.",
@@ -274,7 +278,7 @@ export const overwhereIFenwatch = {
     },
     {
       fact: "Mornings the green is quiet: folk are at the reed beds, charcoal mounds and oat strips.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Ending the Grubboar boar a day after Sootjaw raises Fenwatch's regard for Nala.",

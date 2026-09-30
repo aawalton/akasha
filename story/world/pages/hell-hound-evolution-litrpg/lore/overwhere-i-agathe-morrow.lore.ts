@@ -97,19 +97,39 @@ export const overwhereIAgatheMorrow = {
     },
     {
       fact: "The old boar's tusks alone are proof enough for her to pay its bounty.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-agathe-morrow",
+        "lore/overwhere-i-garrick-pell",
+      ],
     },
     {
       fact: "The boar's hide and meat are Nala's; she'd buy the meat for the village at two silver.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-agathe-morrow",
+        "lore/overwhere-i-garrick-pell",
+      ],
     },
     {
       fact: "Mornings she keeps the tallies at the Stag's long table while the village is out at work.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-agathe-morrow",
+        "lore/overwhere-i-garrick-pell",
+      ],
     },
     {
       fact: "She pays the boar bounty as five silver coins from the chest, and sends a cart for the carcass.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-agathe-morrow",
+        "lore/overwhere-i-garrick-pell",
+      ],
     },
   ],
   secrets: "jsonl",
