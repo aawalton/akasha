@@ -276,6 +276,10 @@ export const overwhereIiiCorruption = {
       fact: "A weeks-old blight bite takes about three Basic Cleansing Weaves to clear.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Once a blight bite is clean, its purple patches fade on their own over a few days.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
