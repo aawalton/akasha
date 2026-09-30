@@ -7,9 +7,20 @@ export const overwhereIii00025 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 25,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I take them to the shop, then see if I can find Tobin to return his coat and repay double what he spent on me, then pay for a night at the inn from my own funds.",
+  beats: [
+    "Nala finds the lane off the Wool Square, and a crooked green sign over a low door.",
+    "Inside it's dim and low, hung with drying herbs, and smells of mint and woodsmoke.",
+    "An old woman, bent and sharp-eyed, looks up from the counter. A one-eared gray cat watches too.",
+    "Nala says Marda sent her, and sets out her twenty-three frostcaps.",
+    "The old woman turns each one over and checks every root cut, muttering to the cat.",
+    '"Clean. All of them." She counts twenty-three copper into Nala\'s hand.',
+    "As Nala reaches for the coins, her sleeve rides up her forearm, over the pink seam of the bite.",
+    "The old woman's hand shoots out and turns Nala's wrist to the lamp.",
+    'She studies the seam, close. Then she looks up, sharp as a thorn. "Who closed this?"',
+  ],
   lore: [
     "lore/overwhere-iii-bet-harrow",
     "lore/overwhere-iii-brannagh-tull",
