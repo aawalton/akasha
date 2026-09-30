@@ -200,5 +200,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Within 150 yards a plain slug does Ghost-Eye 14 harm, an overcharged one 22.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ghost-Eye's bite does 18 harm and holds on; breaking its hold is a hard act.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
