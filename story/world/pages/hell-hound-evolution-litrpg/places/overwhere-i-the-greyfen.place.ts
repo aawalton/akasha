@@ -147,6 +147,10 @@ export const overwhereITheGreyfen = {
       fact: "From the fen edge by the ford, the middle fen's pine island lies about eight miles due west.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Wading there takes half a day; skimming by weave over the wet stretches halves that.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
