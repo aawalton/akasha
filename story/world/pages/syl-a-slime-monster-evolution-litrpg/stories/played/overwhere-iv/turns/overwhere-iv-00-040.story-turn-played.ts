@@ -29,5 +29,6 @@ export const overwhereIv00040 = {
     'He hobbles over, shouting. "Never seen one come down so quick! What\'d you cut it with, girl?"',
   ],
   lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2", "place/overwhere-iv-reeves-pasture"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-02T09:35:00.000Z",
 } as const satisfies StoryTurnPlayed
