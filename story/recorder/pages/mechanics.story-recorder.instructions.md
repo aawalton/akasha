@@ -12,7 +12,7 @@ A page for the player's character that the story has not shown the player states
 
 A metric the prose has shown the player only in words, such as a pool felt as nearly spent but never given a number, states `revealedAs` with those words, and a play screen draws the words rather than the numbers. Keep its value tracked as usual. Change the words as the prose changes them, and on the turn the prose first shows its numbers, draft the `revealedAs` line off the page.
 
-A character's money is a purse, a `metric-character-currency` page counted in its currency's smallest coin. Change its value as the prose moves coin, converting any larger coins through the currency's denominations.
+What a character has and carries, items and money alike, is the inventory recorder's: draft no change to a story-item or to a purse, a `metric-character-currency` page.
 
 Where a mechanic asks for a judge, you are the judge. Judge this turn alone, on what its prose shows, reading the turn before only for the fork it ended on. Quote word for word from the prose what each judgment rests on.
 
