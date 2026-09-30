@@ -171,6 +171,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "The pack rises to hunt about an hour before dusk, drinking first at the island's edge.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Lying still downwind among the Greystakes, she is hidden from the pack with no check.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
