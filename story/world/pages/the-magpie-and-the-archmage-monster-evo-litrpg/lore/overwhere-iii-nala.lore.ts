@@ -316,6 +316,14 @@ export const overwhereIiiNala = {
     },
     {
       fact: "Nala finished her first Guild job, twenty frostcaps, and now holds a Copper Guild ring.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
+    {
+      fact: "Nala's hunger has gone past grumbling to a steady ache in her stomach.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],

@@ -84,15 +84,35 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "At turn-in Marda counts the goods, pays from the desk's strongbox, and lights the card to log it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "Marda keeps unclaimed Copper Guild rings in a tin in the desk drawer.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "The post buys no carcasses; Marda sends hunters to Dunstan, the Crook and Candle's cook.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
+    {
+      fact: "A Copper Guild ring sizes itself to the finger of whoever wears it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
   ],
   secrets: "jsonl",
