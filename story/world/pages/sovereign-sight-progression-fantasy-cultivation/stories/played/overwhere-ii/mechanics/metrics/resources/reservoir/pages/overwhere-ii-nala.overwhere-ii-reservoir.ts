@@ -5,7 +5,7 @@ export const overwhereIiNala = {
   type: "page-type/overwhere-ii-reservoir",
   slug: "overwhere-ii-nala",
   character: "character-player/overwhere-ii-nala",
-  value: 998,
+  value: 1000,
   minValue: 0,
   maxValue: 1000,
   history: "jsonl",

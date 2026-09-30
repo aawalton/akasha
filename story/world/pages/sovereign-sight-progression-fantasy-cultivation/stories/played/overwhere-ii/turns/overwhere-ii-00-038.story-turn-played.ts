@@ -11,7 +11,7 @@ export const overwhereIi00038 = {
   position: 38,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Great. All right if I use this guard spear for the hunt? I’d rather not wait three days for them to scatter. I’ll go start a commission with Hob and then start tracking.”",
   beats: [
@@ -45,6 +45,11 @@ export const overwhereIi00038 = {
     "place/overwhere-ii-tarrant-smithy",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-09-30T11:15:00.000Z",
 } as const satisfies StoryTurnPlayed
