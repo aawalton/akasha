@@ -17,6 +17,7 @@
 {"propertySlug":"import","fileName":"overwhere-iii-nala.character-player.ts","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/mechanics/checks/overwhere-iii-harm.world-check.settling.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"overwhere-iii-nala.character-player.ts","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/mechanics/checks/overwhere-iii-harm.world-check.settling.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"overwhere-iii-nala.character-player.ts","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/mechanics/checks/overwhere-iii-needs.world-check.settling.test.ts","typed":false,"deferred":false}
+{"propertySlug":"item-character","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/items/overwhere-iii-guild-loan-knife.story-item.ts","id":"01a0f1bd-f510-7637-95a0-aa8ab3afe5e7"}
 {"propertySlug":"item-character","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/items/overwhere-iii-nala-black-tights.story-item.ts","id":"01a0f1b9-8734-73a3-9c97-7c6ac46d2ea9"}
 {"propertySlug":"item-character","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/items/overwhere-iii-nala-gray-shirt.story-item.ts","id":"01a0f1b9-8734-7fdc-965b-c5ebe5f523ba"}
 {"propertySlug":"item-character","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/items/overwhere-iii-tobins-coat.story-item.ts","id":"01a0f1b9-8735-7751-bb77-6ad25ff14beb"}
@@ -25,6 +26,7 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/lore/overwhere-iii-bet-harrow.lore.ts","id":"01a0f173-55c7-7e90-812c-5060c9df07db"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/lore/overwhere-iii-cal-fenn.lore.ts","id":"01a0ed32-5181-722d-a457-a2963dd64e40"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/lore/overwhere-iii-hal-dunmore.lore.ts","id":"01a0f169-ee39-75bb-ab82-087fb2ed6a06"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/lore/overwhere-iii-magic.lore.ts","id":"01a0ed2a-01d0-7a25-bd20-61a0bf72ae65"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/lore/overwhere-iii-marda-hesk.lore.ts","id":"01a0ed30-5d26-7829-8a83-604f14570fc7"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/lore/overwhere-iii-nala.lore.ts","id":"01a0ed10-f1ac-71b8-8d9e-597e016cc495"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/lore/overwhere-iii-the-system.lore.ts","id":"01a0ed28-8fd4-74fe-83d6-8d4d9ba0b58d"}

@@ -247,7 +247,7 @@ export const overwhereIiiMagic = {
     },
     {
       fact: "A mana card lit white-gold marks holy aptitude, rarest of all; the Wrenmark has no holy mage.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",

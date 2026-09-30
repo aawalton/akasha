@@ -64,7 +64,7 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "The post keeps a box of old gear; Marda lends a new registrant a plain knife, to be returned.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "A Guild mana signature card is light, smooth and cool, like polished wood.",
