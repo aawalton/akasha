@@ -16,4 +16,5 @@ export const overwhereI00002 = {
     "lore/overwhere-i-the-system",
     "place/overwhere-i-greyfen-ford",
   ],
+  endsAt: "2026-09-29T10:08:00.000Z",
 } as const satisfies StoryTurnPlayed
