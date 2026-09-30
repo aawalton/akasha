@@ -116,5 +116,9 @@ export const overwhereIiWendleFord = {
       fact: "From dawn Maddy Fenn sells a day's bread, cheese and cold mutton wrapped for the road, two coppers.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Day four is market day: stalls go up on the green at dawn, and the carrier's cart is by the Lantern.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place
