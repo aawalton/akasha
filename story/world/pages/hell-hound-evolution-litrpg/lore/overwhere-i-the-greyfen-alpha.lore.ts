@@ -296,6 +296,7 @@ export const overwhereITheGreyfenAlpha = {
       fact: "At legacy rank 2 a slug does 16 harm, less the 1 a Drakewolf's hide still wards: 15 a hit.",
       knowers: ["lore-disclosure/game-master"],
     },
+    { fact: "A Drakewolf at 0 health is dead.", knowers: ["lore-disclosure/game-master"] },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
