@@ -28,5 +28,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Four and Five lead the pups away; Six stays on the shore with Ghost-Eye, Seven and Eight.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The pups left the island at 13:30 on day 3; the shore wolves follow them west about 14:30.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
