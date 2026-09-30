@@ -208,7 +208,11 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "The post keeps two books behind the desk: a Wrenmark beast guide and the Guild's book of rules.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "Marda lends the post's books to ringed adventurers to read at the side bench, never to take away.",
