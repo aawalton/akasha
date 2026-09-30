@@ -24,5 +24,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "Mud-hauled up through the bank, not out the water mouth, a lurker lands on dry reeds, off the water.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala mud-hauled the Level 9 from its den and killed it with one hot-wind blast at 11:02 on day 2.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
