@@ -4,10 +4,21 @@ export const overwhereI00049 = {
   id: "01a0f41f-09db-79ab-aa87-ccb94980dd1a",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-049",
+  ownLength: 176,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 49,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-i-nala",
+    "character-other/overwhere-i-ghost-eye",
+    "character-other/overwhere-i-pine-isle-drakewolf-four",
+    "character-other/overwhere-i-pine-isle-drakewolf-five",
+    "character-other/overwhere-i-pine-isle-drakewolf-six",
+    "character-other/overwhere-i-pine-isle-drakewolf-seven",
+    "character-other/overwhere-i-pine-isle-drakewolf-eight",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I keep low in the cover and start slowly making my way toward the island, watching in case the wolves come back my way.",
   beats: [
@@ -23,6 +34,12 @@ export const overwhereI00049 = {
     "Sixty yards ahead a half-sunk pine log lies in the open marsh, 140 yards off the shore.",
     "On the shore Ghost-Eye stands with the two biggest wolves and one more, all four watching her way.",
   ],
-  lore: ["lore/overwhere-i-the-greyfen-alpha", "lore/overwhere-i-the-greyfen-alpha-2"],
+  lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
+    "lore/overwhere-i-the-greyfen-alpha",
+    "lore/overwhere-i-the-greyfen-alpha-2",
+    "place/overwhere-i-the-greyfen",
+  ],
   endsAt: "2026-10-01T13:30:00.000Z",
 } as const satisfies StoryTurnPlayed
