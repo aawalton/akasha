@@ -205,7 +205,7 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "The pack's den under the pines holds bones, and a reed-cutter's knife and tin token of Sallow Hythe.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Mana crystals grow in the island's drowned pine roots; a careful search there finds two small ones.",
