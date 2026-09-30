@@ -249,7 +249,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Dray can write Nala a Reeve's letter naming her, which serves as papers in Carrowmouth.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray paid Nala eighteen silver for nine greymaws, the watch's silver bar and a bar for the hunt.",
