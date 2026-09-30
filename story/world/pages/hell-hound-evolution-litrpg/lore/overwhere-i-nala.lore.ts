@@ -241,5 +241,9 @@ export const overwhereINala = {
       fact: "Nala left the Brute's pelt with Brack to cure; she owes him a silver when it is done.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "She reads the common script as easily as she speaks the tongue, without knowing how.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
