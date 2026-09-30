@@ -134,6 +134,10 @@ export const overwhereIiiMerrowgateGuildPost = {
       fact: "Marda would let Nala keep the glimmerstone from any bounty stone she cleans.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
+    {
+      fact: "The currents inside the post are thin threads of blue and yellow, with no white-gold.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
