@@ -225,5 +225,13 @@ export const overwhereIvNala2 = {
         "character-other/overwhere-iv-ilsa-crane",
       ],
     },
+    {
+      fact: "Nala reads as Alan does, some four thousand words a minute, and grasps it whole.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "The guild handbook takes Nala under half an hour to read through.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
