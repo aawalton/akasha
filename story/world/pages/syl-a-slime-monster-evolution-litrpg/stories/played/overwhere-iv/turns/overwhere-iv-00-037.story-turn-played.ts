@@ -10,7 +10,7 @@ export const overwhereIv00037 = {
   position: 37,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Yes, I didn’t see a way for us to finish the goblins without risking casualties without it. Is that going to be a problem? I chose Spellblade for my starting class.”",
   beats: [
@@ -24,8 +24,11 @@ export const overwhereIv00037 = {
     '"If that reaches Aubrin, no report of mine will hide it."',
     'She leans in. "So keep that line out of sight in town. Use it only out in the Tangle. Can you?"',
   ],
-  issues: ['"no report of mine will hide it" - Nobody Acts'],
+  issues: [
+    '"no report of mine will hide it" - Nobody Acts',
+    '"I\'ve never heard of it." - Ilsa knows Spellblade; lore says she never heard of one starting as it',
+  ],
   lore: ["lore/overwhere-iv-ilsa-crane", "lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-01T15:51:00.000Z",
 } as const satisfies StoryTurnPlayed
