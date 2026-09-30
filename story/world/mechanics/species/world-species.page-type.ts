@@ -7,7 +7,7 @@ export const worldSpecies = {
   definition: "the kind of creature a character is",
   pluralSlug: "species",
   extends: ["page-type/world-mechanic"],
-  parts: ["page-type/character-species", "page-type/overwhere-iv-species-held"],
+  parts: ["page-type/character-species"],
   runsTabooCheck: false,
   types: "ts",
   schema: "jsonl",

@@ -67,5 +67,25 @@ export const overwhereIiGrowth = {
       decisionKind: "decision-kind/absence",
       statement: "No gain is ever named as a number in the prose.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An attribute is a stat page whose slug ends in the attribute it keeps.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The four attributes are Might, Speed, Wits and Presence.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An ordinary adult has six in each; a trained soldier eight to ten.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Water cycling in a Talented body raises Might and Speed with each Depth.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every change in an attribute is written with a line of its history.",
+    },
   ],
 } as const satisfies WorldCheck

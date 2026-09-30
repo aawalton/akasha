@@ -22,7 +22,6 @@ export const metricCharacterResource = {
     "page-type/overwhere-iv-points",
     "page-type/overwhere-iii-blightstones",
     "page-type/overwhere-i-reserve",
-    "page-type/overwhere-ii-vigour",
     "page-type/overwhere-ii-reservoir",
   ],
 

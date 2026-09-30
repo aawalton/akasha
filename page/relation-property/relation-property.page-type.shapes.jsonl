@@ -174,8 +174,6 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-condition","unique":null,"uniquePropertySlug":null,"slug":"overwhere-iv-condition-held-condition","propertySlug":"condition","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"overwhere-iv-skill-character","propertySlug":"character","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-skill","unique":null,"uniquePropertySlug":null,"slug":"overwhere-iv-skill-skill","propertySlug":"skill","fileName":null,"folderName":null}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"overwhere-iv-species-held-character","propertySlug":"character","fileName":null,"folderName":null}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-species","unique":null,"uniquePropertySlug":null,"slug":"overwhere-iv-species-held-species","propertySlug":"species","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-property","unique":null,"uniquePropertySlug":null,"slug":"owner","propertySlug":"owner","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,"slug":"page-domain","propertySlug":"domain","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"page-page-type","propertySlug":"type","fileName":null,"folderName":null}

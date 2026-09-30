@@ -208,5 +208,9 @@ export const overwhereIvGrowth = {
       decisionKind: "decision-kind/absence",
       statement: "Experience never shows as a number; the System says only: Experience gained.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An evolution or a change of race writes the new species held.",
+    },
   ],
 } as const satisfies WorldCheck

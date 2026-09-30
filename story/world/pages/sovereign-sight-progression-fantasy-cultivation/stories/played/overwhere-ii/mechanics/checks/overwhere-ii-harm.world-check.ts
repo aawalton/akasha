@@ -60,5 +60,34 @@ export const overwhereIiHarm = {
       decisionKind: "decision-kind/departure",
       statement: "Harm to Nala shows in the prose as pain and wounds, never as numbers.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Vigour is a health page titled Vigour.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An ordinary adult has ten vigour; a Talented body five more for each Depth.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Nala has thirty, from the Water in her.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A night's sleep gives back a third of her most vigour; Goody Brannoc's care doubles it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Refined bodies heal a cut in hours and a broken bone in days.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "At one vigour she is downed: conscious, hurting, and unable to fight on.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Vigour never shows as a number.",
+    },
   ],
 } as const satisfies WorldCheck
