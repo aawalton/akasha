@@ -19,6 +19,15 @@ export const turnLoreInPlay = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Lore named brings the lore about its own target with it, or about itself where it names none.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Lore named about a whole world brings no other lore about that world.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The list a turn or chapter holds is written afresh as the turn moves.",
     },
     {

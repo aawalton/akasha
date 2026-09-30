@@ -5,5 +5,7 @@
 {"propertySlug":"import","fileName":"length-ceiling.module.code.ts","path":"check/code/pages/file-length/file-length.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"length-ceiling.module.code.ts","path":"check/code/pages/file-length/file-length.check-code.decision.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"length-ceiling.module.code.ts","path":"check/code/pages/file-length/modules/length-ceiling/length-ceiling.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"length-ceiling.module.code.ts","path":"command/pages/story/tell/modules/tell-continuing/tell-continuing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"length-ceiling.module.code.ts","path":"command/pages/story/tell/modules/tell-continuing/tell-continuing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"length-ceiling.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"check/code/pages/file-length/file-length.check-code.ts","id":"01a04bcb-c6e7-7e01-9b01-3cad38df56be"}

@@ -49,6 +49,13 @@ import {
   stamped,
 } from "akasha/command/modules/change-running/change-running.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import {
+  continued,
+  factsSpelled,
+  fits,
+  type Laid,
+  type Told,
+} from "akasha/command/pages/story/tell/modules/tell-continuing/tell-continuing.module.code.ts"
 import { storyTell as page } from "akasha/command/pages/story/tell/story-tell.command.ts"
 import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import {
@@ -84,8 +91,6 @@ const FACT = "fact"
 const QUALIFIED = "qualified"
 
 export const GAME_MASTER = `${loreDisclosure.slug}/${gameMaster.slug}`
-
-type Told = { readonly fact: string; readonly knowers: readonly string[] }
 
 type Telling = { readonly told: readonly Told[]; readonly secrets: readonly string[] }
 
@@ -182,14 +187,6 @@ export function toldIn(
   }
 }
 
-function factsSpelled(facts: readonly Told[]): string {
-  const records = facts.map(
-    (one) =>
-      `{ ${FACT}: ${JSON.stringify(one.fact)}, ${loreKnowers.propertySlug}: [${one.knowers.map((each) => JSON.stringify(each)).join(", ")}] }`
-  )
-  return `[${records.join(", ")}]`
-}
-
 function spliced(text: string, spots: readonly Splice[]): string {
   let held = text
   for (const one of spots.toSorted((here, there) => there.from - here.from)) {
@@ -263,6 +260,14 @@ export function askedFor(held: Taken, reading: Reading): readonly Asking[] | str
       return `\`${one}\` names no page here, so it cannot come to know a fact`
     }
   }
+  const here = tellingAt(held, reading, at)
+  if (typeof here === "string") return here
+  if (!here.fresh || fits(here.laid)) return here.asked
+  const known = { fact: held.fact, knowers: knowersFor(held.knowers) }
+  return continued(held.page, known, reading, (path) => tellingAt(held, reading, path))
+}
+
+function tellingAt(held: Taken, reading: Reading, at: string): Laid | string {
   const secretsFile = besideAt(at, loreSecrets.propertySlug, HELD)
   if (secretsFile === null) return `\`${at}\` can hold no secrets beside it`
   const value = reading.valueAt(at)
@@ -276,17 +281,19 @@ export function askedFor(held: Taken, reading: Reading): readonly Asking[] | str
   if (text === null) return `\`${at}\` holds no body to tell a fact on`
   const body = bodyTelling(at, text, now)
   if (body === null) return `\`${at}\` exports no object`
-  const asked: Asking[] = [replacing(at, text, reading.shaped(at, body))]
-  if (now.secrets.length === was.secrets.length) return asked
+  const laid = reading.shaped(at, body)
+  const asked: Asking[] = [replacing(at, text, laid)]
+  const fresh = now.told.length > was.told.length
+  if (now.secrets.length === was.secrets.length) return { asked, laid, fresh }
   const kept = reading.textOf(secretsFile)
   if (kept === null) return `\`${secretsFile}\` holds no secrets to tell from`
   if (now.secrets.length === 0) {
     asked.push({ at: REMOVE_FILE, given: { at: secretsFile } })
-    return asked
+  } else {
+    const content = now.secrets.map((one) => `${JSON.stringify(one)}${LINE}`).join("")
+    asked.push(replacing(secretsFile, kept, content))
   }
-  const content = now.secrets.map((one) => `${JSON.stringify(one)}${LINE}`).join("")
-  asked.push(replacing(secretsFile, kept, content))
-  return asked
+  return { asked, laid, fresh: false }
 }
 
 export const REPLACE = `${changeMechanicalFileContent.slug}/${changeFileContent.slug}` as const

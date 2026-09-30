@@ -1,5 +1,6 @@
-import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { addressIn, namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { world } from "akasha/story/world/world.page-type.ts"
 
 const HELD = "ts"
 
@@ -33,6 +34,21 @@ function addressesIn(paths: readonly string[], look: LoreLooking): readonly stri
   return found
 }
 
+function continuationsOf(stated: readonly string[], look: LoreLooking): readonly string[] {
+  const abouts = [...look.about]
+  const aboutAt = new Map(abouts)
+  const targets = new Set<string>()
+  for (const one of stated) {
+    const path = look.pathOf(one)
+    if (path === null) continue
+    const target = aboutAt.get(path) ?? one
+    const address = addressIn(target)
+    if (address.kind === "qualified" && address.pageTypeSlug === world.slug) continue
+    targets.add(target)
+  }
+  return abouts.flatMap(([path, said]) => (said !== null && targets.has(said) ? [path] : []))
+}
+
 function foundIn(
   stated: readonly string[],
   characters: readonly string[],
@@ -41,6 +57,7 @@ function foundIn(
   const about = new Set([...characters, ...characters.flatMap((one) => look.personaOf(one) ?? [])])
   const found = new Set(stated.flatMap((one) => look.pathOf(one) ?? []))
   for (const [path, said] of look.about) if (said !== null && about.has(said)) found.add(path)
+  for (const path of continuationsOf(stated, look)) found.add(path)
   return [...found]
 }
 
@@ -56,7 +73,10 @@ export function loreNamed(
 
 export function loreKept(atHand: LoreAtHand): readonly string[] {
   const named = atHand.stated.filter((one) => atHand.look.pathOf(one) !== null)
-  const about = foundIn([], atHand.characters, atHand.look)
+  const about = [
+    ...foundIn([], atHand.characters, atHand.look),
+    ...continuationsOf(named, atHand.look),
+  ]
   const added = addressesIn([...about, ...atHand.changed], atHand.look)
   return [...new Set([...named, ...added])].sort()
 }

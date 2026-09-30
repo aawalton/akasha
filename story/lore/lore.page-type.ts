@@ -33,7 +33,16 @@ export const lore = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "One lore page holds every fact about its target.",
+      statement: "One lore page holds every fact about its target until that page is full.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A full lore page goes on in a continuation, a lore page about the same target in the same world.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Lore about a target is found through what that lore is about, never by its slug.",
     },
     {
       decisionKind: "decision-kind/departure",

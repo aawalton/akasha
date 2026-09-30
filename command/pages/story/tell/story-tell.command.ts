@@ -7,7 +7,7 @@ export const storyTell = {
   definition: "the command making the game master, and any characters named, know one fact of lore",
   code: "ts",
   test: "ts",
-  parts: [],
+  parts: ["module/tell-continuing"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -38,6 +38,11 @@ export const storyTell = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A new fact is told at once rather than kept first among the secrets.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A new fact the page named has no room for is told on a continuation rather than refused.",
     },
     {
       decisionKind: "decision-kind/departure",

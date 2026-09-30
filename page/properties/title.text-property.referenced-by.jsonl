@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"title.text-property.ts","path":"command/pages/story/tell/modules/tell-continuing/tell-continuing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.ts","path":"page/ui/supabase/modules/relation-picker/relation-picker.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"agent/model/version/model-version.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"agent/seat/mode/seat-mode.page-type.types.ts","typed":true,"deferred":false}

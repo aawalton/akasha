@@ -72,3 +72,45 @@ test("withheld lore is never named, whether the turn names it or it is about a c
 test("a lore address naming no page is left out", () => {
   expect(loreNamed(["lore/nowhere"], [], lookOver())).toEqual([])
 })
+
+const GRACE_MORE_LORE = "world/lore/grace-2.lore.ts"
+
+const HALL_MORE_LORE = "world/lore/the-hall-2.lore.ts"
+
+const GLADE_LORE = "world/places/glade.place.ts"
+
+const GLADE_MORE_LORE = "world/lore/glade-2.lore.ts"
+
+const WORLD_LORE = "world/lore/magic.lore.ts"
+
+const WORLD_OTHER_LORE = "world/lore/peoples.lore.ts"
+
+function continuedOver(): LoreLooking {
+  const look = lookOver()
+  return {
+    ...look,
+    pathOf: (page) =>
+      ({ "place/glade": GLADE_LORE, "lore/magic": WORLD_LORE })[page] ?? look.pathOf(page),
+    about: [
+      ...look.about,
+      [GRACE_MORE_LORE, GRACE],
+      [HALL_MORE_LORE, "lore/the-hall"],
+      [GLADE_MORE_LORE, "place/glade"],
+      [WORLD_LORE, "world/held"],
+      [WORLD_OTHER_LORE, "world/held"],
+    ],
+  }
+}
+
+test("lore named brings every page about its target, so a continuation comes with it", () => {
+  expect(loreNamed(["lore/grace"], [], continuedOver())).toEqual([GRACE_MORE_LORE, GRACE_LORE])
+})
+
+test("lore about no page brings the pages about it, as a place does", () => {
+  expect(loreNamed(["lore/the-hall"], [], continuedOver())).toEqual([HALL_MORE_LORE, HALL_LORE])
+  expect(loreNamed(["place/glade"], [], continuedOver())).toEqual([GLADE_MORE_LORE, GLADE_LORE])
+})
+
+test("lore named about a whole world brings no other lore about that world", () => {
+  expect(loreNamed(["lore/magic"], [], continuedOver())).toEqual([WORLD_LORE])
+})

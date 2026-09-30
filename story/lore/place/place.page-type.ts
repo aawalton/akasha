@@ -27,7 +27,7 @@ export const place = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A place is its own lore page, and no other lore page is about it.",
+      statement: "A place is its own lore page, and only its continuations are about it.",
     },
   ],
   types: "ts",
