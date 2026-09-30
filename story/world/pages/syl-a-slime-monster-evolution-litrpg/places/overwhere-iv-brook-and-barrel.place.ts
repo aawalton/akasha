@@ -43,5 +43,17 @@ export const overwhereIvBrookAndBarrel = {
       fact: "A girl named Pip helps Marta serve, and an old hand called Joss sees to the stable.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At midday the inn serves pottage, bread and cheese for 2 copper, and small ale for 1.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At noon the taproom talks of the goblin lookout, and of the watch girl with the spear.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Marta would sit a moment with the watch girl, fishing for how she cut a goblin in two.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
