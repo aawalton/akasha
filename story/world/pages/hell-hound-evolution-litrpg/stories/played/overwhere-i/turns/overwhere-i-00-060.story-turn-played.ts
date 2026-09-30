@@ -7,9 +7,18 @@ export const overwhereI00060 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 60,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“I’ll pay you two silver now for information on what a drake-pearl is good for. Is it something I could use?”",
+  beats: [
+    "Nala sets two silver down and asks Osric what a drake-pearl is good for, and if she could use it.",
+    "Osric grins, sweeps the coins into his coat, and says he never turns away coin for talk.",
+    "He says the Wendlow alchemists grind drake-pearls into night-sight draughts.",
+    "He says a mage can drain one like a fat mana crystal, and calls that burning gold.",
+    "Nala's purse is lighter by two silver.",
+    "Osric keeps the alchemists' price behind a smile, and leans in over his hat.",
+    '"Two gold and five silver, then, and it\'s off your hands tonight," he says.',
+  ],
   lore: ["lore/overwhere-i-greyfen-beasts-2", "lore/overwhere-i-osric-fenn"],
   endsAt: "2026-10-01T18:00:00.000Z",
 } as const satisfies StoryTurnPlayed
