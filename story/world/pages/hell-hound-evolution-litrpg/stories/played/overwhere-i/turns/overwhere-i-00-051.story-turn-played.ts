@@ -4,7 +4,7 @@ export const overwhereI00051 = {
   id: "01a0f436-eeab-75ef-b14d-ccc80bc9fe24",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-051",
-  ownLength: 136,
+  ownLength: 135,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 51,
@@ -16,7 +16,7 @@ export const overwhereI00051 = {
     "character-other/overwhere-i-pine-isle-drakewolf-seven",
     "character-other/overwhere-i-pine-isle-drakewolf-eight",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action: "I fire an artillery shot again, seeing if I can hit Ghost-Eye this time",
   beats: [
     "Nala draws another slug and pours two weaves into it, the cost dragging hard on her mana.",
