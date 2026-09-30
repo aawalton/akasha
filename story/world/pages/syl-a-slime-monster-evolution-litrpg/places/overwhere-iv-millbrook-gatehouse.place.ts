@@ -82,15 +82,25 @@ export const overwhereIvMillbrookGatehouse = {
     },
     {
       fact: "The mess has long tables and benches, a cauldron on the hearth, and bread under a cloth.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The shepherd Dunny Carrow told Wat the new redhead speared seven slimes like a born hand.",
-      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-wat-barrow"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "lore/overwhere-iv-wat-barrow",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brenna-holt",
+      ],
     },
     {
       fact: "Dunny also told Wat the slimes went to her like lambs; Wat means to tease her about it.",
-      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-wat-barrow"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "lore/overwhere-iv-wat-barrow",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brenna-holt",
+      ],
     },
   ],
 } as const satisfies Place

@@ -189,6 +189,26 @@ export const overwhereIvNala = {
       fact: "Nala left the boy his red-stone slime to harvest, saying she'd never interfere with his hunt.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "At Dimension Magic LV 1 her fold would not take hold on a slime past some twenty strides.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Practicing folds on slimes at the willow bend raised Nala's Dimension Magic to LV 2.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "At Dimension Magic LV 2 her fold takes hold on a slime past twenty strides.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Seven folds run her warmth too low to lift; an hour's rest brings enough back to work with.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Just before a fold catches, Nala feels a small click behind her ribs, like a latch dropping.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
