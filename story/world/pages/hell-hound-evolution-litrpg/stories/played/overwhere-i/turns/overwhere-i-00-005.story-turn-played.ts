@@ -4,13 +4,14 @@ export const overwhereI00005 = {
   id: "01a0f149-14ee-7827-950d-72b88defdc2f",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-005",
+  cover: "image/image-ad7ca96a9d01bb9e",
   ownLength: 260,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 5,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Nice! Okay, time to try the ward.” This time I focus on attuning to Earth and imaging the stones from the riverbed forming a set of flowing stone armor around me.",
   beats: [
@@ -33,6 +34,6 @@ export const overwhereI00005 = {
   ],
   lore: ["lore/overwhere-i-nala", "place/overwhere-i-greyfen-ford"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T10:17:00.000Z",
 } as const satisfies StoryTurnPlayed
