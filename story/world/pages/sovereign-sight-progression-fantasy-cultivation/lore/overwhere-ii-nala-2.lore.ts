@@ -118,7 +118,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "Talking while refining splits Nala's hold; at the hard parts the tide wavers unless she goes quiet.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Refining her throat, where a thread ends, jolts like her soles did, and must be ridden the same.",
