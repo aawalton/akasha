@@ -4,6 +4,7 @@ export const overwhereIv00014 = {
   id: "01a0f212-f1c6-70c3-bfb8-d6bfb05ae774",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-014",
+  cover: "image/image-dd804a1f04a9a121",
   ownLength: 263,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
@@ -16,7 +17,7 @@ export const overwhereIv00014 = {
     "character-other/overwhere-iv-dell",
     "character-other/overwhere-iv-ilsa-crane",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“What…what was that?”",
   beats: [
     '"What... what was that?" Nala\'s hand is still flat on the crystal. She lifts it away slowly.',
@@ -39,8 +40,14 @@ export const overwhereIv00014 = {
     "lore/overwhere-iv-ilsa-crane",
     "lore/overwhere-iv-nala",
     "lore/overwhere-iv-oswin-pike",
+    "lore/overwhere-iv-wat-barrow",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-29T18:45:00.000Z",
 } as const satisfies StoryTurnPlayed
