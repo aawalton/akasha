@@ -7,7 +7,13 @@ export const overwhereIii00024 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 24,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I pull the stones out and sell him the three rabbits, and then take the 23 frostcaps and see if the Post will buy all 23.",
+  lore: [
+    "lore/overwhere-iii-wrenmark-beasts",
+    "place/overwhere-iii-merrowgate",
+    "place/overwhere-iii-merrowgate-guild-post",
+    "place/overwhere-iii-wrenwood",
+  ],
 } as const satisfies StoryTurnPlayed
