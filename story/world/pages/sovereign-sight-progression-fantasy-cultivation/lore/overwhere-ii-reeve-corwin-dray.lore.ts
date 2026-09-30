@@ -95,5 +95,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Dray's spare pack is a canvas knapsack with leather straps, left by the watchman the greymaws took.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Besides Hob's forge, no spear better than the watch's plain iron is to be had short of Carrowmouth.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
