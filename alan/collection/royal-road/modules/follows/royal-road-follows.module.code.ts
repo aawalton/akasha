@@ -24,7 +24,7 @@ const LAST_READ = /Last\s+Read:\s*<a[^>]*href="\/fiction\/\d+\/[^"/]+\/chapter\/
 const PAGE_NUMBER = /data-page='(\d+)'/g
 const LIST = 'id="result"'
 
-export class SignInRefused extends Error {}
+class SignInRefused extends Error {}
 
 export interface Followed {
   readonly fictionId: string
@@ -32,7 +32,7 @@ export interface Followed {
   readonly lastReadChapterId: string | null
 }
 
-export interface FollowPage {
+interface FollowPage {
   readonly followed: readonly Followed[]
   readonly pages: number
 }
