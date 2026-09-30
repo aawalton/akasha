@@ -4,13 +4,14 @@ export const overwhereI00056 = {
   id: "01a0f46b-59d4-79b4-999c-c54252fb8b5e",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-056",
+  cover: "image/image-50e2fd6ce1b79002",
   ownLength: 140,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 56,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I bring them with me and journey back to the village for a well-deserved bath, meal, and rest.",
   beats: [
@@ -40,6 +41,11 @@ export const overwhereI00056 = {
     "place/overwhere-i-the-greyfen",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-01T16:30:00.000Z",
 } as const satisfies StoryTurnPlayed
