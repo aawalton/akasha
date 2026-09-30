@@ -11,7 +11,7 @@ export const overwhereI00011 = {
   position: 11,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Nala.” I stand up and wander over. “Mind if I watch? I’ve never seen a beast skinned and quartered before.”",
   beats: [
@@ -38,6 +38,6 @@ export const overwhereI00011 = {
     "place/overwhere-i-greyfen-ford",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
   endsAt: "2026-09-29T11:22:00.000Z",
 } as const satisfies StoryTurnPlayed
