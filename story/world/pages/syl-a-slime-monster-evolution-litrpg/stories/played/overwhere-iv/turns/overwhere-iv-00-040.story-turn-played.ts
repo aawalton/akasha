@@ -11,4 +11,5 @@ export const overwhereIv00040 = {
   action:
     "I examine the tree carefully and find a safe direction to drop it in, then use my spatial rend spell to make a back wedge cut about 30 deep on the opposite side, then make the forward cut on the side it should fall on, first making sure nothing is in the fall path.",
   lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2", "place/overwhere-iv-reeves-pasture"],
+  endsAt: "2026-10-02T09:35:00.000Z",
 } as const satisfies StoryTurnPlayed
