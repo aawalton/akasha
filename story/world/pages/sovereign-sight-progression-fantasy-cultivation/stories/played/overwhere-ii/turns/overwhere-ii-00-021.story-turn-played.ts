@@ -11,7 +11,7 @@ export const overwhereIi00021 = {
   position: 21,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“Sure”. I go through the same process, pull out the rot and burn the salt.",
   beats: [
     '"Sure," Nala says, and Anselm\'s face lights up as he kneels by the bed.',
@@ -45,6 +45,11 @@ export const overwhereIi00021 = {
     "lore/overwhere-ii-wendle-ford-folk",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-09-29T12:47:00.000Z",
 } as const satisfies StoryTurnPlayed
