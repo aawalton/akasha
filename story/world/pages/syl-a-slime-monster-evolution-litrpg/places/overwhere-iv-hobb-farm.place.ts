@@ -160,6 +160,26 @@ export const overwhereIvHobbFarm = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The cornered knife goblin ducks for the low bramble gap as soon as her spear moves.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The knife goblin wears a thong pouch holding one bent copper and three shiny river pebbles.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A goblin has a small dull core under its breastbone, worth 8 copper at the hall.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Millbrook hall pays 5 copper a goblin on its board, a left ear kept as proof.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The spear goblin's flint-tipped spear lies in the wet grass where it dropped it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The spear goblin dropped its flint spear in the grass of the far field as it fled.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
