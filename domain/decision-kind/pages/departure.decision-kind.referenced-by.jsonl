@@ -4110,6 +4110,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/player-beside/player-beside.module.ts","id":"01a0ca9e-ea64-779b-b65f-7f138ba63302"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/prose-beside/prose-beside.module.ts","id":"01a0a161-77ae-7c52-b1d4-6e0f8a35c92b"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/turn-undo-answering/turn-undo-answering.module.ts","id":"01a0f1ca-3316-7873-b641-ff03a2421454"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/modules/turn-undo-control/turn-undo-control.module.ts","id":"01a0f1cc-0384-7697-8ba3-b8c1f839cdad"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/action-draft.text-property.ts","id":"01a0eb37-e283-7d38-ba63-8f6ac63832b9"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/cover-reroll-refused.text-property.ts","id":"01a0e84e-3f8e-7738-bb8e-6205aa186cfb"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/cover-reroll.relation-property.ts","id":"01a0e84e-3f8e-74cf-b543-8711abba573e"}

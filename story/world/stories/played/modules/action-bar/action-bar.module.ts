@@ -47,6 +47,15 @@ export const actionBar = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A turn being made is offered to be cancelled under the step making it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The latest turn at player, with nothing waiting after it, is offered to be taken back.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The line rises above the keyboard on a phone.",
     },
     {

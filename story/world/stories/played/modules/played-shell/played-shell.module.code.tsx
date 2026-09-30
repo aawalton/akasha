@@ -130,6 +130,17 @@ function lastTurnOf(rows: readonly Page[]): number | null {
   return last
 }
 
+export function latestSlugOf(rows: readonly Page[]): string | null {
+  let latest: { readonly slug: string; readonly position: number } | null = null
+  for (const row of rows) {
+    const position = asNumber(row.position)
+    const slug = textIn(row.slug)
+    if (position === null || slug === "") continue
+    if (latest === null || position > latest.position) latest = { slug, position }
+  }
+  return latest?.slug ?? null
+}
+
 const LAST_TURN_POSITION = "lastTurnPosition"
 
 export function sheetTurnOf(ready: readonly Page[], chapters: readonly Page[]): number | null {
@@ -227,6 +238,7 @@ function PlayedStory({
   const characters = usePages(characterOptions)
   const characterAddress = namedAs(characterPlayer.slug, textIn(characters.rows[0]?.slug), null)
   const lastTurn = useMemo(() => lastTurnOf(ready), [ready])
+  const latestTurn = useMemo(() => latestSlugOf(ready), [ready])
   const opensAt = data.opensAt
   const clock = useMemo(
     () => playedClockOf(ready, opensAt, chapters.rows),
@@ -312,6 +324,7 @@ function PlayedStory({
         storyTitle={title}
         turnsSeen={ready.length}
         lastTurn={lastTurn}
+        latestTurn={latestTurn}
         making={making}
       />
     )

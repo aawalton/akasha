@@ -40,6 +40,7 @@ import {
   turnReadySaid,
 } from "akasha/story/world/stories/played/modules/action-bar-state/action-bar-state.module.code.ts"
 import type { Making } from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
+import { TurnUndo } from "akasha/story/world/stories/played/modules/turn-undo-control/turn-undo-control.module.code.tsx"
 import { type FormEvent, useCallback, useEffect, useRef, useState } from "react"
 
 const POLL_MS = 5000
@@ -103,12 +104,14 @@ export function ActionBar({
   storyTitle,
   turnsSeen,
   lastTurn,
+  latestTurn = null,
   making,
 }: {
   gameExternalId: string
   storyTitle: string
   turnsSeen: number
   lastTurn: number | null
+  latestTurn?: string | null
   making: Making | null
 }) {
   const userId = useUserId()
@@ -259,6 +262,23 @@ export function ActionBar({
         </div>
       )}
       {making === null || making.said === null ? null : <p className={NOTE_LINE}>{making.said}</p>}
+      {making !== null ? (
+        <TurnUndo
+          key={making.slug}
+          gameExternalId={gameExternalId}
+          turn={making.slug}
+          kind="cancel"
+          onUndone={() => void refresh()}
+        />
+      ) : latestTurn !== null && listed.length + shown.length === 0 ? (
+        <TurnUndo
+          key={latestTurn}
+          gameExternalId={gameExternalId}
+          turn={latestTurn}
+          kind="take-back"
+          onUndone={() => void refresh()}
+        />
+      ) : null}
       <form ref={formAt} onSubmit={onSubmit} className="flex flex-col gap-2">
         {armed === null ? null : <p className={NOTE_LINE}>{ALREADY_SENT}</p>}
         {signedOut ? (

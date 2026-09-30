@@ -41,6 +41,7 @@ export const storyPlayed = {
     "text-property/cover-reroll-refused",
     "service-workstation/cover-rerolling",
     "module/turn-undo-answering",
+    "module/turn-undo-control",
     "service-workstation/turn-undo-answering",
     "text-property/action-draft",
     "relation-property/turn-undo",
