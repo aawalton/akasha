@@ -87,6 +87,10 @@ export const overwhereIOsricFenn = {
       fact: "Osric says a mage can drain a drake-pearl like a fat crystal, and calls that burning gold.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Osric won't say what an alchemist pays, and lifts his offer to two gold and five silver.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
