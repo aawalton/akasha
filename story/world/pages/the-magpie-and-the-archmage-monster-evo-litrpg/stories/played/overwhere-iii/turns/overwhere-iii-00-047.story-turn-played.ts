@@ -14,7 +14,7 @@ export const overwhereIii00047 = {
     "character-player/overwhere-iii-nala",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Does it give back more mana than it costs? If not, I don’t know that it would help me much quite yet.”",
   beats: [
@@ -42,6 +42,11 @@ export const overwhereIii00047 = {
     "lore/overwhere-iii-nala-2",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-03T13:25:00.000Z",
 } as const satisfies StoryTurnPlayed
