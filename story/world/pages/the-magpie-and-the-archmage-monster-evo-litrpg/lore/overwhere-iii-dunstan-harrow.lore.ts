@@ -14,7 +14,7 @@ export const overwhereIiiDunstanHarrow = {
     },
     {
       fact: "He is about fifty-five, thin and stooped, bald, with burn-scarred forearms and few words.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "He works out of the inn's back kitchen, reached through the yard by the stable.",
