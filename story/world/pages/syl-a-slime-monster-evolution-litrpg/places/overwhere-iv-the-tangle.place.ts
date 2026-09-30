@@ -105,7 +105,7 @@ export const overwhereIvTheTangle = {
     },
     {
       fact: "The slinger atop the oak is twenty paces from Nala, and aims at her chest.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The slinger's arm snaps just before the stone flies; a drop timed to the snap lets it pass.",
@@ -121,7 +121,11 @@ export const overwhereIvTheTangle = {
     },
     {
       fact: "Dace reaches the fallen oak's foot as the slinger throws at Nala, and swings up at it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "Hobb's gap's blood trail runs most of a mile in, toward a hollow walled by a fallen oak.",
@@ -177,6 +181,18 @@ export const overwhereIvTheTangle = {
     },
     {
       fact: "The singed slinger rose atop the fallen oak and whirled its sling at Nala, not at Dace.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "The slinger skipped back along the oak out of Dace's reach and fitted a fresh stone to its sling.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
+    {
+      fact: "Nala dropped a hair late at the slinger's snap; its stone cracked her shoulder, not her chest.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
