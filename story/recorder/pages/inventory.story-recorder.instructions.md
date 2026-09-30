@@ -6,12 +6,12 @@ Change only what the prose shows complete. A thing is hers once the prose shows 
 
 - A thing she takes that a page already defines: set its `character` to her and drop its `place`.
 - A thing she gives to another character: set its `character` to that character. She drops or leaves it: set its `place` to where it lies, and drop its `character`.
-- Many of one thing are one page stating `quantity`. She gains or spends some: change `quantity`. None are left: remove the page.
+- Many of one thing are one page stating `quantity`. She gains or spends some: set `quantity` to how many the prose leaves her with, never to the page's number plus or minus the turn's, since the game master may have written the turn's change already. None are left: remove the page.
 - A thing she puts on or takes in hand: set its `slot` to that item-slot page. She takes it off: drop its `slot`.
 - A thing broken but kept stays, and its `description` says so.
 - A thing of hers stating `unrevealed: true` that the prose now shows her having: draft that line off.
 
-Her money is her purse. Set its `value` in the currency's smallest coin, converting any larger coins through the currency's denominations, and append the turn's line to its history, `{"turn":<this turn's number>,"value":<the new value>}`. Where the prose gives her money and no purse names her, file one naming her and the story's currency. Where the prose shows her money only in words, such as a purse felt as heavy, set `revealedAs` to those words; draft that line off on the turn the prose first counts it.
+Her money is a purse for each currency she carries. Set its `value` in the currency's smallest coin, converting any larger coins through the currency's denominations, and append the turn's line to its history, `{"turn":<this turn's number>,"value":<the new value>}`. A purse whose history has a line for this turn is written already, so change it no further. Where the prose gives her money and no purse names her, file one naming her and the story's currency. Where the prose shows her money only in words, such as a purse felt as heavy, set `revealedAs` to those words; draft that line off on the turn the prose first counts it.
 
 Only the world builder defines a thing: an item or a currency. File none. Where the prose hands her a thing no page defines, or a currency no page defines, send the game master what the prose shows, word for word, with `akasha seat send`, and end your turn. When the game master answers that it is defined, draft the change and advance; when it answers to leave it, advance. Where some of a thing goes to a character who holds none of it, that is a thing no page defines for that character, and is asked for the same way.
 
