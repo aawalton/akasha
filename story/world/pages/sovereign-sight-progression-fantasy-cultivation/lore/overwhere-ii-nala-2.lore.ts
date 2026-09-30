@@ -24,5 +24,17 @@ export const overwhereIiNala2 = {
       fact: "Nala's newly refined skin feels tight and cool for a day, and a knife point skids off it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "With Undertow, the skin of one of Nala's limbs refines whole in about a quarter hour.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A limb refined whole shows a faint pearly sheen for an hour, then looks like her own skin again.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Beside a refined limb, Nala's unrefined skin feels thin and raw, as if asking to be matched.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
