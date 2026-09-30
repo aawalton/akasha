@@ -10,7 +10,7 @@ export const overwhereIii00004 = {
   position: 4,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-tobin-wick"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“I’m not sure.” I say, and nothing more, still watching the mana currents. I reach out with my intent to see if I can move them around.",
   beats: [
@@ -32,6 +32,6 @@ export const overwhereIii00004 = {
     '"No papers, I\'d guess. Name, lass, and your business in Merrowgate. It goes in the book."',
   ],
   lore: ["lore/overwhere-iii-nala", "lore/overwhere-iii-tobin-wick"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T17:16:00.000Z",
 } as const satisfies StoryTurnPlayed
