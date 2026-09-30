@@ -11,7 +11,7 @@ export const overwhereIi00053 = {
   position: 53,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I drink and get a meal, then retire to my room and imbue my legs with Water to match my arms, then go to sleep.",
   beats: [
@@ -38,6 +38,11 @@ export const overwhereIi00053 = {
   ],
   lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2", "place/overwhere-ii-wendle-ford"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-02T06:00:00.000Z",
 } as const satisfies StoryTurnPlayed
