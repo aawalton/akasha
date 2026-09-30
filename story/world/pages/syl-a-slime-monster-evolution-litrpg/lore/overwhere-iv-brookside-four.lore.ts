@@ -105,6 +105,18 @@ export const overwhereIvBrooksideFour = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Wren overheard Nala tell Ilsa of the poisoned mage and the Aubrin houses.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Wren keeps what she hears to herself, and tells only Dace, and only what bears on the party.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Wren is from Aubrin, and once ran messages for its guild hall before she took to scouting.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Merrit wears a scorched red coat and names his magic as fire.",
       knowers: [
         "lore-disclosure/game-master",
