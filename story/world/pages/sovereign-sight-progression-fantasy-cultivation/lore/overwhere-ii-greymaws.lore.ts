@@ -131,5 +131,13 @@ export const overwhereIiGreymaws = {
       fact: "The rest of the pack fled howling up the screes toward the tarn, and did not come back.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Nala killed the white-eyed she-wolf on a braced boar spear at Marsh Croft at dusk on day one.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "The she-wolf's reservoir is far deeper than a common greymaw's, and fights a pull like a rope.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
