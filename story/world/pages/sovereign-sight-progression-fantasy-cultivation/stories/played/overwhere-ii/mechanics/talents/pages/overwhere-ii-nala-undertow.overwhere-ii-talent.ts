@@ -14,6 +14,6 @@ export const overwhereIiNalaUndertow = {
   depth: "Surface",
   reachFeet: 30,
   draw: 40,
-  hardWorkings: 2,
+  hardWorkings: 3,
   widenings: ["Draws from anything in its reach, not only what she touches."],
 } as const satisfies OverwhereIiTalent

@@ -11,7 +11,7 @@ export const overwhereIi00022 = {
   position: 22,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“It’s called Undertow, but I’m still learning what it does. You could help me with that once I’m done with the urgent needs.” I turn to Goody. “One more person, right? Then a nap, then the ewes.”",
   beats: [
@@ -52,6 +52,11 @@ export const overwhereIi00022 = {
     "lore/overwhere-ii-wendle-ford-folk",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-09-29T17:20:00.000Z",
 } as const satisfies StoryTurnPlayed
