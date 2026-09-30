@@ -29,5 +29,6 @@ export const overwhereIi00044 = {
     'Anselm: "Will you try it with me now? Your left arm first."',
   ],
   lore: ["lore/overwhere-ii-keeper-anselm", "lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T15:58:00.000Z",
 } as const satisfies StoryTurnPlayed
