@@ -52,7 +52,7 @@ function writtenSaid(written: readonly string[], noun: string): readonly string[
   return written.length === 0 ? [] : ["", writtenLine(written, noun)]
 }
 
-export function describedLine(described: readonly string[]): string {
+function describedLine(described: readonly string[]): string {
   const named = described.map((one) => `\`${one}\``).join(", ")
   return `The mechanic descriptions new or changed on this turn are on ${named}. Judge them only where your instructions say to.`
 }
@@ -61,7 +61,7 @@ function describedSaid(described: readonly string[] | undefined): readonly strin
   return described === undefined || described.length === 0 ? [] : ["", describedLine(described)]
 }
 
-export function stuckLine(master: string): string {
+function stuckLine(master: string): string {
   return `Where a draft or the advance is refused and you cannot mend it yourself, never end on it: send the game master the refusal word for word and what you were doing, with \`akasha seat send --to ${master} --body "<what refused and what you were doing>"\`, then end your turn. Its answer comes as your next message; do what it says, then advance.`
 }
 
