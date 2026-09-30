@@ -11,4 +11,5 @@ export const overwhereI00057 = {
   action:
     "“Yep! Mission complete! Didn’t get the whole pack, but I took out Ghost-Eye along with all the highest level ones. Want to see the eye?”",
   lore: ["lore/overwhere-i-rowan-coalby", "lore/overwhere-i-the-greyfen-alpha-2"],
+  endsAt: "2026-10-01T16:33:00.000Z",
 } as const satisfies StoryTurnPlayed
