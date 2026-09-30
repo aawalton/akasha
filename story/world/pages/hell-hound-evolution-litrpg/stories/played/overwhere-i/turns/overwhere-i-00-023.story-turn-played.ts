@@ -10,7 +10,7 @@ export const overwhereI00023 = {
   position: 23,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I make the water blade again and use it to just cut off the tusks, focusing on making it spin even faster and thinner.",
   beats: [
@@ -28,6 +28,6 @@ export const overwhereI00023 = {
     "lore/overwhere-i-starfall-legacy",
     "place/overwhere-i-fenwatch",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-30T07:59:00.000Z",
 } as const satisfies StoryTurnPlayed
