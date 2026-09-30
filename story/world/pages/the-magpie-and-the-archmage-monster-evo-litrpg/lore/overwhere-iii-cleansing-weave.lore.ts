@@ -42,7 +42,11 @@ export const overwhereIiiCleansingWeave = {
     },
     {
       fact: "A seed stone from a bite cracks with one Cleansing Weave into a glimmer speck.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "To Nala's sight a seed stone is a tight knot of black current, a pinprick of pale light at its core.",
