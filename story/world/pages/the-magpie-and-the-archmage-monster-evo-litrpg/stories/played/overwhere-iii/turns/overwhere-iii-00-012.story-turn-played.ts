@@ -4,13 +4,14 @@ export const overwhereIii00012 = {
   id: "01a0f1c5-6c0d-79ae-878f-1ec7f1d20944",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-012",
+  cover: "image/image-6dbf0a84736941de",
   ownLength: 306,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 12,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-tobin-wick"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I take the knife and follow the instructions to the right area, then see if I can follow the mana currents to the frostcaps to speed up the collection process.",
   beats: [
@@ -40,6 +41,6 @@ export const overwhereIii00012 = {
     "place/overwhere-iii-wrenwood",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-30T08:58:00.000Z",
 } as const satisfies StoryTurnPlayed
