@@ -11,7 +11,7 @@ export const overwhereIv00029 = {
   position: 29,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“I’ll go with the Four.” I pause for a moment and assign Spellblade as my class, then go and meet up with the Four. “Ready to go. I’ll fight with you as well if you’ll have me. I’m inexperienced, but I can still guard a flank.  Since we don’t know exactly how many there are, could be good to have an extra spear along.”",
   beats: [
@@ -43,6 +43,11 @@ export const overwhereIv00029 = {
     "place/overwhere-iv-the-tangle",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-01T13:10:00.000Z",
 } as const satisfies StoryTurnPlayed
