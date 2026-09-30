@@ -30,5 +30,6 @@ export const overwhereIi00026 = {
     'Garth: "Let me wash that before you try anything more. There\'s wolf spit and salt in it yet."',
   ],
   lore: ["lore/overwhere-ii-keeper-anselm", "lore/overwhere-ii-nala", "lore/overwhere-ii-undertow"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T18:12:00.000Z",
 } as const satisfies StoryTurnPlayed
