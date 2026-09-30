@@ -18,7 +18,7 @@ export const overwhereI00049 = {
     "character-other/overwhere-i-pine-isle-drakewolf-seven",
     "character-other/overwhere-i-pine-isle-drakewolf-eight",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I keep low in the cover and start slowly making my way toward the island, watching in case the wolves come back my way.",
   beats: [
@@ -26,13 +26,14 @@ export const overwhereI00049 = {
     "Every wolf on the island stands facing the south-east marsh, where she lies.",
     "She eases forward to the next hummock on her belly, a hand's width at a time.",
     "Each move waits on a wolf looking elsewhere; the going is painfully slow.",
-    "Halfway along, she sees two of the returned wolves nose the three pups up and away west.",
-    "They lead the pups off the island's far side and out of sight into the deep fen.",
     "She keeps on, hummock to hummock, and the minutes drag past her.",
     "At half past one she reaches the last hummock, about two hundred yards off the island.",
     "Beyond it the marsh runs open, sedge and knee-deep water all the way to the channel.",
     "Sixty yards ahead a half-sunk pine log lies in the open marsh, 140 yards off the shore.",
     "On the shore Ghost-Eye stands with the two biggest wolves and one more, all four watching her way.",
+    "Behind them, two of the returned wolves nose the three pups up and away west through the pines.",
+    "Ghost-Eye lifts its head and gives one long howl that rolls away across the fen.",
+    "The two wolves lead the pups off the island's far side, toward the deep fen.",
   ],
   issues: [
     '"Halfway along, she sees" the pups go - they leave at 13:30, seen from the hummocks\' end',
