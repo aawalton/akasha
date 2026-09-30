@@ -237,5 +237,9 @@ export const overwhereIvMillbrookAdventurersHall = {
       fact: "If Nala touched the crystal it would crack further.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Her flare is clear yet bends the light behind it, like looking through folded glass.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
