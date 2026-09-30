@@ -123,5 +123,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Dray's stone forearms turn a plain iron spear point, but the rest of him is only refined flesh.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Folk gather on the green to watch the Reeve's bout, and Anselm watches white-faced.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
