@@ -14,6 +14,7 @@ import {
   bondsIn,
   namedIn,
   questsIn,
+  resourcesIn,
   scoresIn,
   skillsIn,
 } from "akasha/story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.code.ts"
@@ -65,6 +66,25 @@ test("pages sharing one type are named by what each slug adds to the character's
     level: 2,
     attributes: { DEXTERITY: 10, "KEEN EYE": 4, STRENGTH: 8 },
   })
+})
+
+test("a resource is named by its kind, by what its slug adds, or by its title, and counts against its most", () => {
+  const holder = "character-player/some-nala"
+  const rows = [
+    {
+      values: {
+        type: "some-health",
+        value: 40,
+        maxValue: 45,
+        slug: "some-nala",
+        character: holder,
+      },
+    },
+    { values: { type: "some-reserve", value: 19, slug: "some-nala-wind", character: holder } },
+    { values: { type: "some-purse", value: 3, title: "Coin", slug: "x", character: holder } },
+    { values: { type: "some-mana", character: holder } },
+  ]
+  expect(resourcesIn(rows)).toEqual({ COIN: 3, HEALTH: "40 / 45", "WIND RESERVE": 19 })
 })
 
 test("a skill is named by the skill page's title and ranked by the rank page's title", () => {

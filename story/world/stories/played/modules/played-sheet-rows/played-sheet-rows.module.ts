@@ -27,6 +27,24 @@ export const playedSheetRows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A resource is named by its page type's slug less its story's opening, in capitals.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A resource page adding a name to its character's slug puts that name before its kind.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A resource page stating a title is named by it, in capitals.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A resource with a most is shown as its value out of that most.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A skill is named by its skill page's title and ranked by its rank page's title.",
     },
     {

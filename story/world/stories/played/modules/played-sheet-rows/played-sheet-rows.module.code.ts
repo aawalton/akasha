@@ -131,6 +131,41 @@ export function scoresIn(rows: readonly QueryRow[]): Scores {
   }
 }
 
+const MAX_VALUE_KEY = "maxValue"
+
+const OUT_OF = " / "
+
+const SPACE = " "
+
+function kindOf(type: string, character: string | null): string {
+  const holder = character === null ? "" : character.slice(character.lastIndexOf(PARTED) + 1)
+  const story = holder.slice(0, holder.lastIndexOf(JOIN) + 1)
+  return story !== "" && type.startsWith(story) ? type.slice(story.length) : type
+}
+
+function resourceNameOf(row: QueryRow, type: string): string {
+  const title = textIn(row.values[TITLE_KEY])
+  if (title !== null && title !== "") return title.toUpperCase()
+  const kind = kindOf(type, textIn(row.values[CHARACTER_KEY]))
+  const own = ownNameOf(row)
+  return (own === null ? kind : `${own}${JOIN}${kind}`).replaceAll(JOIN, SPACE).toUpperCase()
+}
+
+export function resourcesIn(rows: readonly QueryRow[]): Readonly<Record<string, string | number>> {
+  const held: [string, string | number][] = []
+  for (const row of rows) {
+    const type = textIn(row.values[TYPE_KEY])
+    const value = parseNumber(row.values[VALUE_KEY])
+    if (type === null || value === undefined) continue
+    const most = parseNumber(row.values[MAX_VALUE_KEY])
+    held.push([
+      resourceNameOf(row, type),
+      most === undefined ? value : `${String(value)}${OUT_OF}${String(most)}`,
+    ])
+  }
+  return Object.fromEntries(held.toSorted((one, other) => one[0].localeCompare(other[0])))
+}
+
 export function skillsIn(
   rows: readonly QueryRow[],
   titles: Titles,
