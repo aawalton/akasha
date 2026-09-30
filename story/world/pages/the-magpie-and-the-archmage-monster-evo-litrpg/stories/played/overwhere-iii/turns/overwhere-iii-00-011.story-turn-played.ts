@@ -4,13 +4,14 @@ export const overwhereIii00011 = {
   id: "01a0f1b9-d561-7f1a-924d-c5aafffdad1a",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-011",
+  cover: "image/image-6cda082f620c1ce0",
   ownLength: 198,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 11,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“I don’t think so. Why do you ask?”",
   beats: [
     '"I don\'t think so," Nala says. "Why do you ask?"',
@@ -35,6 +36,6 @@ export const overwhereIii00011 = {
     "place/overwhere-iii-wrenwood",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-30T07:18:00.000Z",
 } as const satisfies StoryTurnPlayed
