@@ -7,7 +7,12 @@ export const overwhereI00044 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 44,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I gather appropriate sized stones and spend the afternoon creating as many rifled bullets as my mana will allow and as I can conveniently carry and store them in my pack. Then I can back to the inn for the night. In the morning I pick up my boots then start heading toward the wolves. On the way, I use my mana regen to practice scouting techniques, focusing on combinations of air, fire, and water to create lensing effects to see much longer distances. When I get close enough to have a chance of seeing the wolves, I use my best lensing effects to watch for them from a distance, only slowly moving forward until I see them.",
+  lore: [
+    "lore/overwhere-i-starfall-legacy",
+    "lore/overwhere-i-the-greyfen-alpha",
+    "place/overwhere-i-the-greyfen",
+  ],
 } as const satisfies StoryTurnPlayed
