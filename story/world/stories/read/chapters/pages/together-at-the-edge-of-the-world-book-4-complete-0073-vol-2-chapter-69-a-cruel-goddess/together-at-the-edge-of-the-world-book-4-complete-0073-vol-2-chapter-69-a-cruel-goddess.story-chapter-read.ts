@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0073Vol2Chapter69ACruelGodd
   id: "01a0f12a-b851-7d66-a451-892641813277",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0073-vol-2-chapter-69-a-cruel-goddess",
+  ownProgress: 2367,
   position: 73,
   publishedAt: "2025-10-27",
   unit: "unit/words",
