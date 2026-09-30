@@ -41,6 +41,6 @@ export const overwhereIv00014 = {
     "lore/overwhere-iv-oswin-pike",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
   endsAt: "2026-09-29T18:45:00.000Z",
 } as const satisfies StoryTurnPlayed
