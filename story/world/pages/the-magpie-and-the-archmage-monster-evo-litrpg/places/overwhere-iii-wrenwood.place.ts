@@ -200,6 +200,10 @@ export const overwhereIiiWrenwood = {
       fact: "Along that stretch a picker who sees currents finds twenty good frostcaps in about two hours.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "This afternoon two Level 2 jackalopes graze the frosted roots near the Wren Brook, 6 health each.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
