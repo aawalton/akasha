@@ -10,7 +10,7 @@ export const overwhereI00055 = {
   position: 55,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I use an earth attunement to pull out the hard knots, curious to see what they might be.",
   beats: [
@@ -31,6 +31,6 @@ export const overwhereI00055 = {
     "place/overwhere-i-fenwatch",
     "place/overwhere-i-the-greyfen",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-01T13:57:00.000Z",
 } as const satisfies StoryTurnPlayed
