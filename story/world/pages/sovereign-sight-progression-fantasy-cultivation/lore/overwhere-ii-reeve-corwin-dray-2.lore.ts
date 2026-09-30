@@ -9,7 +9,7 @@ export const overwhereIiReeveCorwinDray2 = {
   facts: [
     {
       fact: "Dray takes the split crag and the fleeing prints as sure word, and pays the rest of the bar.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Told of the pull under the mountain, Dray will write Lady Varrow and the Carrowmouth garrison.",
