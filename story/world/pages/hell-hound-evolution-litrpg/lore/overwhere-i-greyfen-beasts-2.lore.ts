@@ -40,5 +40,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "By ripple the Level 12 feels longer and denser than the other two, and it is still asleep.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A ripple feels the alder roots over the third den as a hard, knotted net in the wet earth.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
