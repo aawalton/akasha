@@ -155,6 +155,10 @@ export const overwhereIFenwatch = {
       fact: "Tobin's news has a crowd of villagers at the west gate when the cart comes in on day one.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Fenwatch has no shop; folk buy from each other's doors, or from the pedlar Osric Fenn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
