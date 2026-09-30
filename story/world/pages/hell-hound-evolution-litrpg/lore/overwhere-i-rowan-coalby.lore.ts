@@ -135,6 +135,10 @@ export const overwhereIRowanCoalby = {
       fact: "Rowan agrees to go, but not into the fen by night; he asks to set out at first light on day 4.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "He says the fen after dark belongs to the pack and worse, and he wades too slow to be out by dusk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
