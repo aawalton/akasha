@@ -111,6 +111,10 @@ export const overwhereIvMillbrookCommon = {
       fact: "A boy of about ten claims a melon-sized slime with a red stone as his, and warned Nala off it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "The slimes gather because they are drawn to Nala's dimensional mana.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
