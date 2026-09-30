@@ -4,10 +4,13 @@ export const overwhereIii00034 = {
   id: "01a0f3af-e2cf-7052-80d1-df4d741bcd1f",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-034",
+  ownLength: 197,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 34,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-maud-ferrow"],
+  stepStatus: "step-status/reviewers",
   action:
     "Since I have enough money for another night or two, I decide to focus on physical exercise, running laps around the village and doing body weight exercises until my mana refills, then go to heal Garrick again.",
   beats: [
@@ -28,6 +31,8 @@ export const overwhereIii00034 = {
   lore: [
     "lore/overwhere-iii-garrick-dole",
     "lore/overwhere-iii-maud-ferrow",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
     "lore/overwhere-iii-the-system",
     "place/overwhere-iii-merrowgate",
   ],
