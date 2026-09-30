@@ -120,6 +120,22 @@ export const overwhereIiiWrenwood = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "Frostcaps cluster where a mana current brushes old beech roots, so the currents lead to them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Following the currents, a picker who sees them finds twenty good frostcaps in about an hour.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A few gravecaps grow among the frostcaps along the edge path west of the shrine.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "This morning a Level 3 jackalope feeds among the roots west of the shrine; it bites if cornered.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
