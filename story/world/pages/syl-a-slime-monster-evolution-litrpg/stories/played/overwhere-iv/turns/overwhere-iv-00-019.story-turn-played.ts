@@ -16,7 +16,7 @@ export const overwhereIv00019 = {
     "character-other/overwhere-iv-dell",
     "character-other/overwhere-iv-oswin-pike",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I rest while I can, elevating the leg with the hurt knee.",
   beats: [
     "Nala doesn't go back to the line. She limps to the well and sits on its low stone rim.",
@@ -40,6 +40,6 @@ export const overwhereIv00019 = {
     "lore/overwhere-iv-brookside-four",
     "lore/overwhere-iv-nala",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-30T08:05:00.000Z",
 } as const satisfies StoryTurnPlayed
