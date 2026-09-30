@@ -307,7 +307,11 @@ export const overwhereIiiBrannaghTull = {
     },
     {
       fact: "Brannagh owns one book: her mother's hand-written receipts for salves, potions and draughts.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
     },
     {
       fact: "Brannagh lets Nala read the receipt book at her counter, but it never leaves the shop.",
