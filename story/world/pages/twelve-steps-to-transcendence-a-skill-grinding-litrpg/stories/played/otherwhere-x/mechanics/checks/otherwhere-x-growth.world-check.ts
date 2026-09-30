@@ -132,7 +132,7 @@ export const otherwhereXGrowth = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "On advancing, her essence is spent, her tier rises, and her most health rises with it.",
+        "On advancing, her essence is spent, her tier rises, and her most health and mana rise with it.",
     },
     {
       decisionKind: "decision-kind/departure",
