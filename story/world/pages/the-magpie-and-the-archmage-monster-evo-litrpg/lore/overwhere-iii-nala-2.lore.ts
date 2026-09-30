@@ -191,5 +191,9 @@ export const overwhereIiiNala2 = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
+    {
+      fact: "After her second watch drill Nala is sore to the bone, and glad of it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore

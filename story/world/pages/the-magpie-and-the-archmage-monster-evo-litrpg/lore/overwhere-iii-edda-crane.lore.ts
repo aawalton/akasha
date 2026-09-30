@@ -69,5 +69,14 @@ export const overwhereIiiEddaCrane = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
+    {
+      fact: "Once the blight was out, the small splinter hole in the burner's palm closed by itself.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-edda-crane",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
   ],
 } as const satisfies Lore
