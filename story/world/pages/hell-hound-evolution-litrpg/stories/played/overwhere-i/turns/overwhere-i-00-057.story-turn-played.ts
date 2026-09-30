@@ -7,7 +7,8 @@ export const overwhereI00057 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 57,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Yep! Mission complete! Didn’t get the whole pack, but I took out Ghost-Eye along with all the highest level ones. Want to see the eye?”",
+  lore: ["lore/overwhere-i-rowan-coalby", "lore/overwhere-i-the-greyfen-alpha-2"],
 } as const satisfies StoryTurnPlayed
