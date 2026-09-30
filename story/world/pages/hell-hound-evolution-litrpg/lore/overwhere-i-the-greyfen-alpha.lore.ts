@@ -223,6 +223,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "Creeping the whole hummock line to its end is one moderate act against the watcher's eyes.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Through the early afternoon the pack dozes, the pups play, and the watcher faces east, not south.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
