@@ -294,6 +294,14 @@ export const overwhereIiiNala = {
       fact: "At Basic, one Mending Weave gives back about 5 health and closes one small wound.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Her first Mending Weave took near half an hour of restitching a slipping thread before it held.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "The antlered rabbit's bite on her forearm has closed to a raw pink seam and no longer bleeds.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

@@ -164,6 +164,14 @@ export const overwhereIiiWrenwood = {
       fact: "The dead rabbit's glow drained into the current, all but a faint spot at the base of its antlers.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala cut a small glowing glimmerstone from the base of the dead antlered rabbit's antlers.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "The currents under the old beech hold blue, green and dull yellow threads, but no white-gold.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

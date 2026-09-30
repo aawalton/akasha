@@ -32,7 +32,12 @@ export const overwhereIii00015 = {
     "[New skill acquired – Mending Weave.]",
     "[Mending Weave – At [Basic] level, stitch holy current into a wound to close it slowly.]",
   ],
-  lore: ["lore/overwhere-iii-nala", "place/overwhere-iii-wrenwood-crossroads"],
+  lore: [
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-wrenmark-beasts",
+    "place/overwhere-iii-wrenwood-crossroads",
+  ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-30T09:48:00.000Z",
 } as const satisfies StoryTurnPlayed

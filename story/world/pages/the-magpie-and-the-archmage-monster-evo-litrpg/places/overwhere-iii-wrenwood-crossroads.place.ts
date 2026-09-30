@@ -104,6 +104,10 @@ export const overwhereIiiWrenwoodCrossroads = {
       fact: "White-gold threads reach no more than a hundred paces from the shrine along either road.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The crossroads shrine's stone is warm to sit against, even in the winter cold.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
