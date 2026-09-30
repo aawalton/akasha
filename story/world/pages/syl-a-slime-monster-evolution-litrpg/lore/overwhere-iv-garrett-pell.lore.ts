@@ -39,5 +39,33 @@ export const overwhereIvGarrettPell = {
       fact: "Garrett is worried for his sister and her failing mill.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Asked where she is, Garrett says Millbrook, in the Wendmere Vale, barony of Tarrow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He takes a barefoot, half-dressed stranger for a traveller robbed on the east road.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her grey shirt and black tights look to him like foreign underthings, and he reddens.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He hears her faint lilt as some far southern accent and thinks no more of it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Today his cart carries sacks of grain to his sister's mill by the town gate.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He would send a stray to the Brook & Barrel, where Marta Hesk is kind to strays.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He knows the slimes on the common are harmless blue ones that children milk for jelly.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

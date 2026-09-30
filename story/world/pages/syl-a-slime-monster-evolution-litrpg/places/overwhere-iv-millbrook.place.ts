@@ -16,6 +16,10 @@ export const overwhereIvMillbrook = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The kingdom is Calder; its king sits in Calderhold, weeks of travel to the south.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "It is early autumn in the vale, and the harvest is in.",
       knowers: ["lore-disclosure/game-master"],
     },
