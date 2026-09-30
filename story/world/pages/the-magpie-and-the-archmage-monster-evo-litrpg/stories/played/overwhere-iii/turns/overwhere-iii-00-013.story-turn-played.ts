@@ -10,7 +10,7 @@ export const overwhereIii00013 = {
   position: 13,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I go to harvest the frostcaps. If the beast attacks, I put the knife through the top of its mouth. If the mana glow starts moving, I use my mana weaving to disrupt it.",
   beats: [
@@ -35,6 +35,6 @@ export const overwhereIii00013 = {
   ],
   issues: ['"The current still runs past the beech, close enough to reach." - No Prompt'],
   lore: ["lore/overwhere-iii-nala", "lore/overwhere-iii-wrenmark-beasts"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T09:01:00.000Z",
 } as const satisfies StoryTurnPlayed
