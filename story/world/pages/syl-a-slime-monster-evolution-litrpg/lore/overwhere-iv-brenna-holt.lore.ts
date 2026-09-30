@@ -41,11 +41,21 @@ export const overwhereIvBrennaHolt = {
     },
     {
       fact: "Holt has heard slimes creep toward strong mana, and guesses Nala carries a strong affinity.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brenna-holt",
+        "lore/overwhere-iv-wat-barrow",
+      ],
     },
     {
       fact: "Holt would tell Nala to touch the hall's cracked crystal, or go to Aubrin to be tested.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brenna-holt",
+        "lore/overwhere-iv-wat-barrow",
+      ],
     },
     {
       fact: "Holt thinks a recruit with real magic is wasted on gate duty, and would say so to Hale.",

@@ -27,5 +27,14 @@ export const overwhereIvAubrin = {
       fact: "Aubrin sells what Millbrook cannot: fine goods, spell scrolls and trained teachers.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A proper testing of magic is had at Aubrin, four days east of Millbrook.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brenna-holt",
+        "lore/overwhere-iv-wat-barrow",
+      ],
+    },
   ],
 } as const satisfies Place

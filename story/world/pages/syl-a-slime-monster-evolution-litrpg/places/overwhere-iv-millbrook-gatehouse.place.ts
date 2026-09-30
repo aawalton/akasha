@@ -112,7 +112,21 @@ export const overwhereIvMillbrookGatehouse = {
     },
     {
       fact: "Dell Farrow holds slimes follow whoever smells of jelly, and would say so loudly.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brenna-holt",
+        "lore/overwhere-iv-wat-barrow",
+      ],
+    },
+    {
+      fact: "Dell smells of jelly whenever he comes off the common, and slimes don't follow him.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brenna-holt",
+        "lore/overwhere-iv-wat-barrow",
+      ],
     },
   ],
 } as const satisfies Place

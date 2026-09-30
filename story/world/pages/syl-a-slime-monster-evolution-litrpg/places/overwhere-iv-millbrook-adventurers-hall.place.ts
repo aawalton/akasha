@@ -125,7 +125,12 @@ export const overwhereIvMillbrookAdventurersHall = {
     },
     {
       fact: "Touching the cracked crystal is free, offered to any newcomer who asks.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brenna-holt",
+        "lore/overwhere-iv-wat-barrow",
+      ],
     },
     {
       fact: "For most folk the cracked crystal gives a faint glow in one or two colours, and no more.",
@@ -189,6 +194,15 @@ export const overwhereIvMillbrookAdventurersHall = {
         "lore-disclosure/game-master",
         "character-player/overwhere-iv-nala",
         "lore/overwhere-iv-ilsa-crane",
+      ],
+    },
+    {
+      fact: "The hall's cracked crystal tells a newcomer's colour, and not much else.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brenna-holt",
+        "lore/overwhere-iv-wat-barrow",
       ],
     },
   ],
