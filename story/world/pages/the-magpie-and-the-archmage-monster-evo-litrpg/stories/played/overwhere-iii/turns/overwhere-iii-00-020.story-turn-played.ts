@@ -4,10 +4,13 @@ export const overwhereIii00020 = {
   id: "01a0f223-6a62-7e26-a20c-eb30fd7f44d5",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-020",
+  ownLength: 124,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 20,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Not quite Purify yet, but part way there. If you don’t mind a few steps, I think I can finish that off after a rest or two.”",
   beats: [
@@ -20,6 +23,10 @@ export const overwhereIii00020 = {
     '"Same for any bounty stone you clean after that."',
     '"Post opens at the dawn bell, shuts at the dusk bell. I\'m at this desk the whole of it."',
   ],
-  lore: ["lore/overwhere-iii-marda-hesk", "place/overwhere-iii-merrowgate-guild-post"],
+  lore: [
+    "lore/overwhere-iii-marda-hesk",
+    "lore/overwhere-iii-nala",
+    "place/overwhere-iii-merrowgate-guild-post",
+  ],
   endsAt: "2026-09-30T12:23:00.000Z",
 } as const satisfies StoryTurnPlayed
