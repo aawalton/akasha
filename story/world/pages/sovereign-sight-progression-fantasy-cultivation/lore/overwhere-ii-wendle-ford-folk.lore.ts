@@ -261,7 +261,7 @@ export const overwhereIiWendleFordFolk = {
     },
     {
       fact: "Col Ashby, up and walking with a stick, is at the Reeve's when Nala comes, and vouches for her.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
