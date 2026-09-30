@@ -215,6 +215,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "A reedlurker holds its breath a quarter hour, so water held on its head drowns it only that slowly.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Earth packed into a holt's mouth and air hole traps a reedlurker; it digs out in ten minutes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
