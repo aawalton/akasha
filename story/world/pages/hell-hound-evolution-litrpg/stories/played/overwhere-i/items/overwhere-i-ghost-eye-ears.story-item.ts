@@ -6,5 +6,6 @@ export const overwhereIGhostEyeEars = {
   slug: "overwhere-i-ghost-eye-ears",
   title: "Ghost-Eye's Ears",
   story: "story-played/overwhere-i",
+  character: "character-player/overwhere-i-nala",
   description: "The pair of scaled grey-green ears cut from the Greyfen's Drakewolf alpha.",
 } as const satisfies StoryItem

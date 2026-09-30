@@ -11,7 +11,7 @@ export const overwhereI00053 = {
   position: 53,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "Now that it’s dead, I try using a combination of water and earth to pluck its ghost eye from its skull and add it to my pack along with its ears, then continue through the island, finishing off any remaining wolves I find on my way back to the village.",
   beats: [
@@ -35,6 +35,11 @@ export const overwhereI00053 = {
     "place/overwhere-i-the-greyfen",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/picture", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/picture",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+  ],
   endsAt: "2026-10-01T13:52:00.000Z",
 } as const satisfies StoryTurnPlayed
