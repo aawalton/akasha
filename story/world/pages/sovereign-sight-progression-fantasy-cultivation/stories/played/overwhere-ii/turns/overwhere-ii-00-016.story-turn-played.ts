@@ -10,7 +10,7 @@ export const overwhereIi00016 = {
   position: 16,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“This will be much harder than Wren, the rot is intertwined with her life force. I’m amazed she has lasted this long. You have a strong daughter. I need a container to hold the rot and a fire ready to burn it. I’m starting now.” I then close my eyes to focus on my senses and start slowly untangling the rot from her life force, one thread at a time, like the knots of computer cords I’ve had to untie so many times in my previous life.",
   beats: [
@@ -34,7 +34,7 @@ export const overwhereIi00016 = {
     "Nala wrenches the pull shut. Her palm comes away with only a pinch of grey salt on it.",
     "Tansy gives a thin gasp; her face goes from grey to ashen, and her lips go blue-pale.",
     "She is cold to the touch, shivering hard, and her eyes roll up and flutter shut.",
-    "Her mother cries out and clutches her. The black tangle is almost all still there.",
+    "Her mother cries out and clutches her. Nala's tide, reaching across, finds the tangle nearly whole.",
     "A big hand closes on Nala's collar and hauls her up off the bed and back against the wall.",
     '"What did you do to her?" Horne roars, his face an inch from hers. "What did you do?"',
   ],
