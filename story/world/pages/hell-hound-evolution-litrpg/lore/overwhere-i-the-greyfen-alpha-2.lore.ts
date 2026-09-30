@@ -228,5 +228,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Six, Seven and Eight each have 35 health and hide warding 2, 1 against a slug.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Between them coming inside 100 yards and reaching her, she has time for about nine slugs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
