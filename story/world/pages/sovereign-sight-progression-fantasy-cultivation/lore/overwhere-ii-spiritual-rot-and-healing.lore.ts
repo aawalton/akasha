@@ -329,5 +329,9 @@ export const overwhereIiSpiritualRotAndHealing = {
       fact: "Pressed to cold iron, rot salt goes still and grey as road grit, and harms no one after.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A plain iron lid does not stop the pot's rot salt; its faint reach still leans toward Wren.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore

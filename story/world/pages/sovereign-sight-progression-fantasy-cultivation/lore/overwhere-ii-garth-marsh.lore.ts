@@ -159,6 +159,14 @@ export const overwhereIiGarthMarsh = {
       fact: "Garth says Goody burns every poultice that has touched rot, in a hot fire, and never reuses one.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Garth cannot feel the rot salt himself, and leaves to Nala the call on how to be rid of it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "The iron lid of Garth's pot hangs on a hook by his hearth, where a peat fire burns.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
