@@ -77,6 +77,11 @@ export const otherwhereVGrowth = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Uses of one power in one turn settle in order, each from the rank the use before left.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A rank reaching each tenth waits there until Insight lets it develop.",
     },
     {

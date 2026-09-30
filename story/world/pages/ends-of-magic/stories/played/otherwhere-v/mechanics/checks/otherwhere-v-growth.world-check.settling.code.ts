@@ -72,6 +72,12 @@ export function settled(reading: unknown): Settled {
   const classDue = !hasClass && reached >= CLASS_AT
   const shown = classDue ? `${CLASS_AT}+` : String(reached)
   const classDevelops = hasClass && DEVELOPS_AT.some((at) => level < at && reached >= at)
+  const rankReached = new Map<string, number>()
+  const ranks = uses.map((use) => {
+    const one = ranked({ ...use, rank: rankReached.get(use.name) ?? use.rank }, disadvantaged)
+    rankReached.set(use.name, one.to)
+    return one
+  })
   return {
     answered: {
       levelsGained,
@@ -79,7 +85,7 @@ export function settled(reading: unknown): Settled {
       shown,
       classDue,
       classDevelops,
-      ranks: uses.map((use) => ranked(use, disadvantaged)),
+      ranks,
     },
   }
 }

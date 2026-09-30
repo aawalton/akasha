@@ -63,6 +63,25 @@ test("a skill used well gains ranks, one more under Disadvantage", () => {
   ])
 })
 
+test("a power used twice in one turn ranks the second use from where the first left it", () => {
+  expect(
+    settled({
+      character: NALA,
+      challenge: "none",
+      disadvantaged: false,
+      level: 1,
+      hasClass: false,
+      uses: [
+        { name: "Focused Mind", rank: 2, used: "success" },
+        { name: "Focused Mind", rank: 2, used: "strong" },
+      ],
+    })
+  ).toHaveProperty("answered.ranks", [
+    { name: "Focused Mind", from: 2, to: 3, awaitingInsight: false, developed: false },
+    { name: "Focused Mind", from: 3, to: 5, awaitingInsight: false, developed: false },
+  ])
+})
+
 test("a rank reaching ten without Insight waits there", () => {
   expect(
     settled({
