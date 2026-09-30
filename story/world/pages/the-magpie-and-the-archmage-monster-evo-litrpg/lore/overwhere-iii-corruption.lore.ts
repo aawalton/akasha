@@ -300,6 +300,14 @@ export const overwhereIiiCorruption = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "Three more Cleansing Weaves left the stag's blightstone near half gone to gray.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
