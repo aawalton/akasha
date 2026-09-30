@@ -46,7 +46,7 @@ export const overwhereIiHollowTarn = {
     },
     {
       fact: "Within sight of Hollow Tarn, Nala's well stirs and leans toward the water, like a tide to the moon.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "When Nala draws or pushes beside the tarn, its water ripples toward her against the wind.",
