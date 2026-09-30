@@ -129,7 +129,7 @@ export const overwhereITheGreyfenAlpha = {
     },
     {
       fact: "Through the midday the pack lies up in the pines' shade at the island's east edge, one on watch.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "A Drakewolf scents a person three hundred yards upwind of it.",
