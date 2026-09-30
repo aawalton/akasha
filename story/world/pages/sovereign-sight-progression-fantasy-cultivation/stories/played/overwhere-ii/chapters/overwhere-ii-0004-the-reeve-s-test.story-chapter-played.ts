@@ -1,0 +1,31 @@
+import type { StoryChapterPlayed } from "akasha/story/world/stories/played/chapters/story-chapter-played.page-type.types.ts"
+
+export const overwhereIi0004TheReeveSTest = {
+  id: "01a0f3b2-2761-7dc9-89e2-ed9eade1c57f",
+  type: "page-type/story-chapter-played",
+  slug: "overwhere-ii-0004-the-reeve-s-test",
+  position: 4,
+  unit: "unit/words",
+  title: "The Reeve's Test",
+  story: "story-played/overwhere-ii",
+  ownLength: 3329,
+  prose: "txt",
+  turnCovers: [
+    { position: 25, cover: "image/image-7b6c0acbec675a6f" },
+    { position: 26, cover: "image/image-7104f5fac19d16b5" },
+    { position: 27, cover: "image/image-8414278544e59f11" },
+    { position: 28, cover: "image/image-749d3339747016be" },
+    { position: 29, cover: "image/image-2697bfe06b1870b0" },
+    { position: 30, cover: "image/image-742a662a11fd869b" },
+    { position: 31, cover: "image/image-ef9b5ce037646982" },
+    { position: 32, cover: "image/image-424dc1e046aa37d8" },
+    { position: 33, cover: "image/image-85ab5e92cf0878c2" },
+    { position: 34, cover: "image/image-e29b34277d55f7cc" },
+    { position: 35, cover: "image/image-56e9707fe655f831" },
+    { position: 36, cover: "image/image-19fda66eec609103" },
+    { position: 37, cover: "image/image-1ae1d53c5bac6ff2" },
+  ],
+  lastTurn: "overwhere-ii-00-037",
+  lastTurnPosition: 37,
+  endsAt: "2026-09-30T08:30:00.000Z",
+} as const satisfies StoryChapterPlayed
