@@ -16,7 +16,7 @@ export const overwhereI00051 = {
     "character-other/overwhere-i-pine-isle-drakewolf-seven",
     "character-other/overwhere-i-pine-isle-drakewolf-eight",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "I fire an artillery shot again, seeing if I can hit Ghost-Eye this time",
   beats: [
     "Nala draws another slug and pours two weaves into it, the cost dragging hard on her mana.",
@@ -26,8 +26,8 @@ export const overwhereI00051 = {
     "Its snarl drops away; it stands easy at the water's edge, unhurried.",
     "It gives a low, short growl to the wolves at its side.",
     "The two biggest slip off the shore, one north and one south, and drop into the reeds.",
-    "She loses sight of both at once; the reeds along the channel stand still.",
-    "On the shore Ghost-Eye and the last wolf stand watching her, and stay where they are.",
+    "Ghost-Eye and the last wolf stay on the shore, watching her hummock.",
+    "The other two are gone from sight in the reeds, one north of her and one south.",
   ],
   issues: ['"stand watching you, and stay where they are" - No Prompt'],
   lore: [
