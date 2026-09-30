@@ -44,6 +44,7 @@ export const overwhereI00044 = {
     "One wolf sits upright at the edge of the shade, on watch, and its gaze passes over her unmoved.",
     "Sixty slugs in her pack, 160 mana of 268, and the pack six hundred yards off, unaware of her.",
   ],
+  issues: ['"Six hundred yards off, the pack lies in the shade, unaware of you." - Leave It Open'],
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
@@ -51,5 +52,6 @@ export const overwhereI00044 = {
     "lore/overwhere-i-the-greyfen-alpha",
     "place/overwhere-i-the-greyfen",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-01T11:40:00.000Z",
 } as const satisfies StoryTurnPlayed
