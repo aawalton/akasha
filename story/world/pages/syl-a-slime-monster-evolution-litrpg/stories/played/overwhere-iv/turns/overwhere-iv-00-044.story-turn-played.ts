@@ -10,7 +10,7 @@ export const overwhereIv00044 = {
   position: 44,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“Great! I’ll read the handbook first.”",
   beats: [
     '"Great! I\'ll read the handbook first." Nala carries it to the hearth table and opens it.',
@@ -37,6 +37,6 @@ export const overwhereIv00044 = {
     "lore/overwhere-iv-nala",
     "lore/overwhere-iv-nala-2",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-02T10:38:00.000Z",
 } as const satisfies StoryTurnPlayed
