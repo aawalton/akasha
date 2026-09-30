@@ -7,8 +7,14 @@ export const overwhereIv00036 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 36,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "“Sure, what’s up?”",
+  beats: [
+    '"Sure," Nala says, turning back to the counter. "What\'s up?"',
+    "Ilsa glances past her at the door, then takes the pencil from her hair and turns it in her fingers.",
+    '"That black line Dace spoke of," she says quietly. "The one that cut your runner in two."',
+    'She sets the pencil down and meets Nala\'s eyes. "Is that the same thing that lit my crystal clear?"',
+  ],
   lore: ["lore/overwhere-iv-ilsa-crane"],
   endsAt: "2026-10-01T15:49:00.000Z",
 } as const satisfies StoryTurnPlayed
