@@ -278,6 +278,22 @@ export const overwhereIiiNala = {
       fact: "Killing the antlered rabbit earned Nala experience from the System.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "A white-gold thread is slow and warm; stitched into a wound, it closes it over a few minutes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her first mending with a holy thread earns Mending Weave: [New skill acquired – Mending Weave.]",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "[Mending Weave – At [Basic] level, stitch holy current into a wound to close it slowly.]",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At Basic, one Mending Weave gives back about 5 health and closes one small wound.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
