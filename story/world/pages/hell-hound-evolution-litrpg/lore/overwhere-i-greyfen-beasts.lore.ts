@@ -243,6 +243,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "The reedlurker of the first known holt is the Level 10; on day 2 it bolted loose into the channel.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A bolted reedlurker lies still on the channel bed a few minutes, then strikes at the nearest leg.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
