@@ -136,5 +136,9 @@ export const overwhereIStarfallLegacy = {
       fact: "Den-filling steam scalds as a Surge strike of fire; heat it cannot see is a moderate act, not easy.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Den steam is moderate before the Surge easing; against a foe in range the easing still applies.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
