@@ -10,7 +10,7 @@ export const overwhereIi00032 = {
   position: 32,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "“Sounds good”",
   beats: [
     'Nala: "Sounds good."',
@@ -27,11 +27,14 @@ export const overwhereIi00032 = {
     'Reeve Dray: "My watch lost a man to that beast. And you, a slip of a lass, put her down?"',
     'Reeve Dray: "Where are the carcasses, and who saw it done?"',
   ],
+  issues: [
+    '"Reeve Oakes," Anselm says - beats name Reeve Dray; Nala met Oakes at Col\'s bed already',
+  ],
   lore: [
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-reeve-corwin-dray",
     "lore/overwhere-ii-wendle-ford-folk",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T08:05:00.000Z",
 } as const satisfies StoryTurnPlayed
