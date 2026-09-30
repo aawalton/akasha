@@ -229,6 +229,10 @@ export const overwhereIvMillbrookAdventurersHall = {
       fact: "The guild bids a clerk write down any color not on the card and send word to Aubrin.",
       knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-ilsa-crane"],
     },
+    {
+      fact: "The cracked affinity crystal would flare a color no one has seen if Nala touched it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
