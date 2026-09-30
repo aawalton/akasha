@@ -20,7 +20,11 @@ export const overwhereIiiCrookAndCandle = {
     },
     {
       fact: "Its common room has a big hearth, six trestle tables, and a stair to eight rooms above.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tobin-wick",
+      ],
     },
     {
       fact: "A bed is 8 copper a night, a hot supper 3, a cup of cider 1, and a hot tub in the scullery 2.",
@@ -36,7 +40,12 @@ export const overwhereIiiCrookAndCandle = {
     },
     {
       fact: "Tonight's supper is mutton stew, black bread and hill cheese.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tobin-wick",
+        "character-other/overwhere-iii-bet-harrow",
+      ],
     },
     {
       fact: "Carters, drovers and the town's few adventurers drink there of an evening.",
@@ -44,7 +53,11 @@ export const overwhereIiiCrookAndCandle = {
     },
     {
       fact: "Talk in the common room tonight is of the boy lost in the Wrenwood and the blight bounty.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tobin-wick",
+      ],
     },
   ],
   secrets: "jsonl",

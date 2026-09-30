@@ -109,6 +109,24 @@ export const overwhereIiiTobinWick = {
         "character-other/overwhere-iii-tobin-wick",
       ],
     },
+    {
+      fact: "He tells Bet that Nala was robbed and knocked on the head, and stands her supper and a bed.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tobin-wick",
+        "character-other/overwhere-iii-bet-harrow",
+      ],
+    },
+    {
+      fact: "Tobin pays Bet eleven copper for Nala's supper and bed.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tobin-wick",
+        "character-other/overwhere-iii-bet-harrow",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

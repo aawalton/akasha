@@ -162,6 +162,10 @@ export const overwhereIiiNala = {
         "character-other/overwhere-iii-hal-dunmore",
       ],
     },
+    {
+      fact: "Nala has not eaten since before she woke in this world.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
