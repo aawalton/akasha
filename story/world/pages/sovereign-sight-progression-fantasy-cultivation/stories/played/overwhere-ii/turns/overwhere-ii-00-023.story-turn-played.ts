@@ -10,7 +10,7 @@ export const overwhereIi00023 = {
   position: 23,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“Give me the spear, you take Burr and Wren inside and I’ll take care of the Greymaws”",
   beats: [
     '"Give me the spear," Nala says. "You take Burr and Wren inside. I\'ll take care of the greymaws."',
@@ -43,6 +43,6 @@ export const overwhereIi00023 = {
     "She lifts her muzzle and scents the air, as if smelling the sea, and starts down toward her.",
   ],
   lore: ["lore/overwhere-ii-garth-marsh", "lore/overwhere-ii-greymaws", "lore/overwhere-ii-nala"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T18:00:00.000Z",
 } as const satisfies StoryTurnPlayed
