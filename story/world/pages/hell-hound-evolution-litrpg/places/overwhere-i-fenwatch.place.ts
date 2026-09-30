@@ -321,6 +321,10 @@ export const overwhereIFenwatch = {
       fact: "Reedlurkers have torn up half Jory's traps this month, and last week bit his grandson's leg.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Mid-morning Jory Weir is at his smoking shed by the east gate, hanging the night's few eels.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
