@@ -4,13 +4,14 @@ export const overwhereI00018 = {
   id: "01a0f1d9-0f4b-7721-961b-34be94117c5c",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-018",
+  cover: "image/image-4d6312272b0fc481",
   ownLength: 172,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 18,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "After a good night sleep, I go looking for the bounty board to get the list of potential targets from the source.",
   beats: [
@@ -33,8 +34,9 @@ export const overwhereI00018 = {
     "lore/overwhere-i-greyfen-beasts",
     "lore/overwhere-i-nala",
     "place/overwhere-i-fenwatch",
+    "place/overwhere-i-wendlow",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-30T07:00:00.000Z",
 } as const satisfies StoryTurnPlayed
