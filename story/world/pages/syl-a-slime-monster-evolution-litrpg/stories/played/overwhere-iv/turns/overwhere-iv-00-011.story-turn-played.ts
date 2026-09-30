@@ -4,13 +4,13 @@ export const overwhereIv00011 = {
   id: "01a0f1e8-b889-7019-9ae3-355ab624b771",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-011",
-  ownLength: 453,
+  ownLength: 457,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 11,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "“Well, isn’t that interesting.” I spend the rest of the time until dinner pushing and pulling to practice and train my dimensional magic, then go to dinner.",
   beats: [
