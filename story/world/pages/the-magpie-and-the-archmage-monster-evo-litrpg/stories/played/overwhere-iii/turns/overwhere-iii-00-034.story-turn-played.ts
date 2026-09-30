@@ -10,7 +10,7 @@ export const overwhereIii00034 = {
   position: 34,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-maud-ferrow"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "Since I have enough money for another night or two, I decide to focus on physical exercise, running laps around the village and doing body weight exercises until my mana refills, then go to heal Garrick again.",
   beats: [
@@ -36,6 +36,6 @@ export const overwhereIii00034 = {
     "lore/overwhere-iii-the-system",
     "place/overwhere-iii-merrowgate",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-01T08:40:00.000Z",
 } as const satisfies StoryTurnPlayed
