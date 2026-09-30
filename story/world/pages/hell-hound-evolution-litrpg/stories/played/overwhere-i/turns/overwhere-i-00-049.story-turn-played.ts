@@ -4,7 +4,7 @@ export const overwhereI00049 = {
   id: "01a0f41f-09db-79ab-aa87-ccb94980dd1a",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-049",
-  ownLength: 176,
+  ownLength: 190,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 49,
@@ -18,7 +18,7 @@ export const overwhereI00049 = {
     "character-other/overwhere-i-pine-isle-drakewolf-seven",
     "character-other/overwhere-i-pine-isle-drakewolf-eight",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "I keep low in the cover and start slowly making my way toward the island, watching in case the wolves come back my way.",
   beats: [
