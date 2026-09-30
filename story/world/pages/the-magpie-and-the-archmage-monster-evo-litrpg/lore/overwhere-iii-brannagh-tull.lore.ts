@@ -244,7 +244,11 @@ export const overwhereIiiBrannaghTull = {
     },
     {
       fact: "Seeing Ivy's hand clean and closed, Brannagh sits down hard and says nothing for a long moment.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
   secrets: "jsonl",

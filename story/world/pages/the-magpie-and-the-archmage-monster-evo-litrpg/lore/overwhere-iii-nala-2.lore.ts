@@ -80,5 +80,17 @@ export const overwhereIiiNala2 = {
       fact: "Nala wears the wool tunic over the man's shirt, with the gray cloak around her shoulders.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala bought Bet's old patched canvas knapsack for 4 copper.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-bet-harrow",
+      ],
+    },
+    {
+      fact: "Nala carries Brannagh's clay cup of three seed blightstones in her knapsack.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore

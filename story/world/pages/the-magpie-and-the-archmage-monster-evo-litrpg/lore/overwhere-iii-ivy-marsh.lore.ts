@@ -59,7 +59,12 @@ export const overwhereIiiIvyMarsh = {
     },
     {
       fact: "Once her hand is clean and closed, Ivy flexes it, swears, and laughs till she has to wipe her eyes.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-ivy-marsh"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-ivy-marsh",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
     },
     {
       fact: "Healed, Ivy tells Nala her cart and cattle road are hers whenever she needs carrying, free.",
@@ -67,6 +72,7 @@ export const overwhereIiiIvyMarsh = {
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-ivy-marsh",
         "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
       ],
     },
     {
@@ -77,6 +83,10 @@ export const overwhereIiiIvyMarsh = {
         "character-other/overwhere-iii-ivy-marsh",
         "character-other/overwhere-iii-brannagh-tull",
       ],
+    },
+    {
+      fact: "The morning her bite was closed, the purple on Ivy's arm paled at its edges to a yellow bruise.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
 } as const satisfies Lore

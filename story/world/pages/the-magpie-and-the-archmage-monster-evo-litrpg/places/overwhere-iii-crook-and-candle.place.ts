@@ -70,11 +70,15 @@ export const overwhereIiiCrookAndCandle = {
     },
     {
       fact: "Bet gives Nala the same room under the eaves; the night passes quiet but for the wind.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-bet-harrow",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Frost comes hard tonight, and by morning it lies thick and white on every roof in town.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Breakfast at the Crook and Candle is oat porridge with honey and small beer, 1 copper.",
