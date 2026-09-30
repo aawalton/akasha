@@ -67,6 +67,11 @@ export const playedStateBeside = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A held kind no story has filed a holding of is refused quietly, and drawn as nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A read is asked again as the story's last turn changes.",
     },
     {

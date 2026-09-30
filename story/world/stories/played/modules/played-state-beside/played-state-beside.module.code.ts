@@ -232,12 +232,30 @@ const HELD_KINDS: readonly (readonly [string, string])[] = [
   [worldLegacy.slug, LEGACY_KEY],
 ]
 
+const RANKED = new Set([LEGACY_KEY])
+
+function unsaid(): undefined {
+  return undefined
+}
+
 async function askedHeld(type: string, key: string, character: string): Promise<Asked> {
-  return await askedLoudly({
-    "page-type": type,
-    where: { character: { is: character } },
-    keys: [CHARACTER_KEY, SLUG_KEY, TITLE_KEY, DESCRIPTION_KEY, RANK_KEY, key, UNREVEALED_KEY],
-  })
+  return await askedLoudly(
+    {
+      "page-type": type,
+      where: { character: { is: character } },
+      keys: [
+        CHARACTER_KEY,
+        SLUG_KEY,
+        TITLE_KEY,
+        DESCRIPTION_KEY,
+        key,
+        UNREVEALED_KEY,
+        ...(RANKED.has(key) ? [RANK_KEY] : []),
+      ],
+    },
+    undefined,
+    unsaid
+  )
 }
 
 async function readFiled(character: string, turn: number): Promise<Filed> {
