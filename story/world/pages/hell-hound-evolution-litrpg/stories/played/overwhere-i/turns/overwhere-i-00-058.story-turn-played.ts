@@ -10,7 +10,7 @@ export const overwhereI00058 = {
   position: 58,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Oh drat. I left it on the island. If you come back with me to get it, I’ll cut you in for a gold. That thing looked annoyingly heavy.”",
   beats: [
@@ -33,6 +33,6 @@ export const overwhereI00058 = {
     "lore/overwhere-i-the-greyfen-alpha-2",
     "place/overwhere-i-the-greyfen",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-01T16:35:00.000Z",
 } as const satisfies StoryTurnPlayed
