@@ -18,7 +18,12 @@ export const overwhereIiiEddaCrane = {
     },
     {
       fact: "A splinter off a blighted stump went into her right palm; the hand is gray and stiff to the wrist.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-edda-crane"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-edda-crane",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
     },
     {
       fact: "One pull clears Edda's palm; the splinter hole is small and closes by itself once clean.",
