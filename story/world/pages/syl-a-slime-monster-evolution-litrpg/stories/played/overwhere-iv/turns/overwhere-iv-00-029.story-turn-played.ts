@@ -4,6 +4,7 @@ export const overwhereIv00029 = {
   id: "01a0f3cf-2595-7f09-a1e0-3af67afb8b44",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-029",
+  cover: "image/image-f9e2e54b4f1681d9",
   ownLength: 328,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
@@ -42,6 +43,6 @@ export const overwhereIv00029 = {
     "place/overwhere-iv-the-tangle",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-01T13:10:00.000Z",
 } as const satisfies StoryTurnPlayed
