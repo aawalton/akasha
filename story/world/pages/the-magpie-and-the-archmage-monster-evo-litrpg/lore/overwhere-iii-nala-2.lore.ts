@@ -68,5 +68,17 @@ export const overwhereIiiNala2 = {
         "character-other/overwhere-iii-bet-harrow",
       ],
     },
+    {
+      fact: "Nala bought Bet's wool tunic, gray cloak, two pairs of stockings and a supper for 13 copper.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-bet-harrow",
+      ],
+    },
+    {
+      fact: "Nala wears the wool tunic over the man's shirt, with the gray cloak around her shoulders.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
