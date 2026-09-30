@@ -221,7 +221,7 @@ export const overwhereIiWendleFordFolk = {
     },
     {
       fact: "Pim Sallow, sixty and sharp-tongued, lives alone by the carters' yard at the Ford's south end.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Pim's rot is small but old, a grey swelling in her palm; it takes a quarter hour to draw.",
