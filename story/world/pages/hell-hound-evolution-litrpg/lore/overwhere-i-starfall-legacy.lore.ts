@@ -56,5 +56,9 @@ export const overwhereIStarfallLegacy = {
       fact: "The ripple is a use of Starfall Weave, not a new legacy way, though a novel one.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Each ripple is one minute held; the System opens no window for it on first use.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
