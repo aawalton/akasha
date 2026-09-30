@@ -205,5 +205,9 @@ export const overwhereINala = {
       fact: "Her mana comes back 13 at a time, in one jump every ten minutes.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Slow box breathing calms her, but does not speed her mana's return.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
