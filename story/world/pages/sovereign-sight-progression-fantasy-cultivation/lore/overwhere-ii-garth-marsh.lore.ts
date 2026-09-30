@@ -223,6 +223,10 @@ export const overwhereIiGarthMarsh = {
       fact: "Garth has a two-wheeled handcart, and will haul greymaw heads to the Ford under sacking.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "On the morning of day two Garth stays at Marsh Croft to see to his ewes.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

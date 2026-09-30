@@ -292,6 +292,10 @@ export const overwhereIiNala = {
       fact: "By dawn on day two Nala's crescent bite has closed in the night to pink new skin.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "On the morning of day two Nala carries the four greymaw chambers down the river lane to the Reeve.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
