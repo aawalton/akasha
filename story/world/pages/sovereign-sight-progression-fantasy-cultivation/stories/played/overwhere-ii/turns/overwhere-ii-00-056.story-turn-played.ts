@@ -40,9 +40,10 @@ export const overwhereIi00056 = {
   lore: [
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-oswy-crake",
     "lore/overwhere-ii-reeve-corwin-dray-2",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-10-02T19:45:00.000Z",
 } as const satisfies StoryTurnPlayed
