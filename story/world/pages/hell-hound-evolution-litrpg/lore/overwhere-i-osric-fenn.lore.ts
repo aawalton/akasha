@@ -119,6 +119,10 @@ export const overwhereIOsricFenn = {
       fact: "Hearing she has gold plenty, Osric laughs, lets his offer stand till he leaves, and presses no more.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Osric leaves Fenwatch for Wendlow on the morning of day 5.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
