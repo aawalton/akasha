@@ -88,5 +88,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "Nala killed all three reedlurkers by Jory's traps before noon on day 2.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "The Level 12's carcass is half again the size of the others, its hide scalded pink in patches.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
