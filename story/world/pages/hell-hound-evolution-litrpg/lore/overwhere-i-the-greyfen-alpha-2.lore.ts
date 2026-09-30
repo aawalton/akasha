@@ -32,5 +32,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "The pups left the island at 13:30 on day 3; the shore wolves follow them west about 14:30.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Within minutes two of the returned wolves lead the pups off the island's west side into deep fen.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
