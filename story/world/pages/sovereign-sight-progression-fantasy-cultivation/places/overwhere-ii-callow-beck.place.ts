@@ -45,6 +45,18 @@ export const overwhereIiCallowBeck = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
+      fact: "Ebba notches her goats' left ears; the two Warped goats still bear her notch.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ebba has Warped carcasses burned on the midden with peat, and keeps her grandsons from them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ebba has no coin to spare, and thanks a helper with hot oatcakes and goat's butter.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Ebba Callow knew Nala's watch spear for one of Dray's, and Nala for the greymaws' killer.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
