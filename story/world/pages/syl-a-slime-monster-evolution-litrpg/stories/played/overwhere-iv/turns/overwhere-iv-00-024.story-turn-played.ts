@@ -10,7 +10,7 @@ export const overwhereIv00024 = {
   position: 24,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Okay, maybe wolves, maybe goblins or something similar. Point me where to go, and I’ll take a look.” Once I know where to go, I stay in that direction and practice combining my Dimensional Magic with the spear, jumping the spear forward beyond its normal reach.",
   beats: [
@@ -33,8 +33,11 @@ export const overwhereIv00024 = {
     "Child-sized, grey-green skin, dressed in hide scraps. One carries a flint-tipped spear.",
     "The other has a rusty knife, and is grinning at the sheep in the next field. Neither has seen her.",
   ],
-  issues: ['"They haven\'t seen you." - No Prompt'],
+  issues: [
+    '"They haven\'t seen you." - No Prompt',
+    '"The warmth ... sits at about half now" - 6+ folds done; seven folds run her warmth near empty',
+  ],
   lore: ["lore/overwhere-iv-nala"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T18:27:00.000Z",
 } as const satisfies StoryTurnPlayed
