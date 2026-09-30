@@ -231,6 +231,10 @@ export const overwhereIFenwatch = {
       fact: "Three reedlurkers work the eel traps; the Grubboar sounder is an old boar of Level 12 and four sows.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Grubboars root the oat strips at dawn and dusk; the reedlurkers raid the traps by night.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
