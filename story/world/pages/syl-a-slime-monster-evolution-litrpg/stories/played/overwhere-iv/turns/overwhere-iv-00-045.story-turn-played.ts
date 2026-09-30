@@ -7,9 +7,20 @@ export const overwhereIv00045 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 45,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“I have a skill to help me with reading. Most people think it’s a waste, but comes in handy now and then.” I reply. “Could I get to silver rank here, or do I need a larger city for that? I feel like I’m getting close there.”",
+  beats: [
+    '"I have a skill to help me read," Nala says. "Most people think it\'s a waste. It comes in handy."',
+    "Ilsa looks at her a moment longer, then nods slowly, as if filing it with the rest she won't ask.",
+    '"Could I make silver here," Nala asks, "or do I need a bigger city? I feel like I\'m getting close."',
+    "\"Only Aubrin's hall can raise a tag past bronze. I can't do it myself.\" Ilsa sets the pencil down.",
+    "\"The handbook's way is showing a city hall. I'd not do that. It shows your line to Aubrin.\"",
+    '"The other way is a letter from a branch clerk. From me. Ten jobs done well makes you silver."',
+    '"Or one major job in place of the ten. A goblin camp cleared, say."',
+    "She counts on her inky fingers. \"Hobb's slimes. The lookout. The oak. That's three.\"",
+    "\"Seven more and I'll write it gladly. You'd carry it to Aubrin yourself, to take the tag.\"",
+  ],
   lore: ["lore/overwhere-iv-ilsa-crane-2"],
   endsAt: "2026-10-02T10:41:00.000Z",
 } as const satisfies StoryTurnPlayed
