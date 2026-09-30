@@ -219,6 +219,10 @@ export const overwhereIiiMerrowgate = {
       fact: "Folk stare at a woman running the wall in a cloak; children trail her a lap, laughing.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Townsfolk who heard Bet's tale nod to the red-haired healer, and some ask after sick kin.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
