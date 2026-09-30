@@ -72,6 +72,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "In Fenwatch, Rowan Coalby knows the pack's ground best; his Sedge can follow its scent.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Its bounty is paid only at Antler Hall in Wendlow, on its head, after Grete Holm's Analyze.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
