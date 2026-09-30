@@ -41,7 +41,7 @@ export const overwhereIiiMaudFerrow = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
-      fact: "Maud's drill ends at the half-past-ten bell of the watch change, with staff bouts in pairs.",
+      fact: "Maud's drill ends near half past ten, when the watch changes, with staff bouts in pairs.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
