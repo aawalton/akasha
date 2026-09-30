@@ -119,6 +119,14 @@ export const overwhereIvMillbrookCommon = {
       fact: "The slimes follow Nala about and grow calm near her.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Upstream of the footbridge, a screen of willows hides a grassy bend from town and road.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A few small slimes always bob in the willow bend, where the jelly children seldom go.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
