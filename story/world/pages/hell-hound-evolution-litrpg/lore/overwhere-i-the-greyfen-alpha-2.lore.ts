@@ -268,5 +268,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "About 13:36 on day 3 five of Nala's slugs killed Ghost-Eye as it swam the channel, 70 yards off.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Ghost-Eye's body floats low in the channel and drifts slowly north round the island.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
