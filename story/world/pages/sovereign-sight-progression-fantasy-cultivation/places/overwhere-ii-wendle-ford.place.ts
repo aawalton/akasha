@@ -117,6 +117,26 @@ export const overwhereIiWendleFord = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The carrier is Wat Brisk, who drives a covered cart to Carrowmouth and back each week.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Wat sells goods in Carrowmouth for a fifth of the price, and brings the rest back next market day.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Wat knows a Carrowmouth thaumist who buys Aberrant chambers and asks no questions.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Market stalls sell wool, cheese, eggs, eels, oatmeal, a tinker's pots and needles, and cloth.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The market tinker sells a leather waterskin for three coppers and a wool blanket for a silver.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Day four is market day: stalls go up on the green at dawn, and the carrier's cart is by the Lantern.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
