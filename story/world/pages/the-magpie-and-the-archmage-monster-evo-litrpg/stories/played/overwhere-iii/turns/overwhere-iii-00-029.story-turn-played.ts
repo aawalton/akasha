@@ -4,10 +4,18 @@ export const overwhereIii00029 = {
   id: "01a0f380-1d91-7f00-beb6-663d12e6329b",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-029",
+  ownLength: 219,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 29,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-brannagh-tull",
+    "character-other/overwhere-iii-garrick-dole",
+    "character-other/overwhere-iii-ivy-marsh",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "“Okay, this works, so it’s just a matter of time” I repeat the process, sipping from the mana draught until I can try again, switching to Garrick this time.",
   beats: [
@@ -31,6 +39,9 @@ export const overwhereIii00029 = {
     "lore/overwhere-iii-brannagh-tull",
     "lore/overwhere-iii-corruption",
     "lore/overwhere-iii-garrick-dole",
+    "lore/overwhere-iii-ivy-marsh",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
   ],
   endsAt: "2026-09-30T18:14:00.000Z",
 } as const satisfies StoryTurnPlayed
