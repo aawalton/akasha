@@ -2,3 +2,4 @@
 {"check":"world-check/overwhere-iv-growth","reading":{"character":"nala","gains":[{"kind":"skill","skill":"Dimension Magic","level":2,"uses":1}]},"answered":{"grown":[{"kind":"skill","skill":"Dimension Magic","from":2,"to":2,"usesCarried":1,"maxed":false}]}}
 {"check":"world-check/overwhere-iv-time-passing","reading":{"from":"2026-09-30T18:12:00.000Z","minutes":15},"answered":{"endsAt":"2026-09-30T18:27:00.000Z","day":2,"light":"dusk"}}
 {"check":"world-check/overwhere-iv-standing","reading":{"character":"hobb","kept":0,"heard":0,"shared":0,"helped":1,"crossed":0,"quotes":{"helped":"Point me where to go, and I will take a look."}},"answered":{"earned":1,"lost":0,"change":1}}
+{"check":"world-check/overwhere-iv-standing","reading":{"character":"pim","kept":0,"heard":1,"shared":0,"helped":0,"crossed":0,"quotes":{"heard":"Okay, maybe wolves, maybe goblins or something similar."}},"answered":{"earned":1,"lost":0,"change":1}}
