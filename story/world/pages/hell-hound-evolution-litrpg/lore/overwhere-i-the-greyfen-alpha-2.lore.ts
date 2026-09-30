@@ -289,5 +289,9 @@ export const overwhereITheGreyfenAlpha2 = {
         "character-other/overwhere-i-pine-isle-drakewolf-six",
       ],
     },
+    {
+      fact: "In a dead body the water answers again, slow and heavy; plucking an eye or ears with it is easy.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
