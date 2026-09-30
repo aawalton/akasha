@@ -17,6 +17,7 @@ import {
 import {
   CONNECTION_STATUS,
   classifyTurnEndErrorDeath,
+  FAILED_AUTH,
   OVERLOAD_STATUS,
 } from "akasha/agent/seat/supervisor/seat-work-restart/modules/turn-end-error-death/turn-end-error-death.module.code.ts"
 import { tickSaying } from "akasha/agent/seat/supervisor/supervisor-timer/modules/supervisor-tick-saying/supervisor-tick-saying.module.code.ts"
@@ -26,14 +27,20 @@ const WAIT_RESUME_INTERVAL_MS = 30_000
 
 type TickKind = WaitResumeVerdict["kind"] | "none"
 
-function kindOf(status: number | null): string {
+function kindOf(status: number | null, error: string | undefined): string {
+  if (error === FAILED_AUTH) return "failed login"
   if (status === CONNECTION_STATUS) return "connection"
   if (status === OVERLOAD_STATUS) return "overload"
   return status === null ? "mid-response server" : `${String(status)} server`
 }
 
-function kindsOf(statuses: readonly (number | null)[]): string {
-  const seen = [...new Set(statuses.map(kindOf))]
+function kindsOf(reading: {
+  readonly statuses: readonly (number | null)[]
+  readonly errors: readonly string[]
+}): string {
+  const seen = [
+    ...new Set(reading.statuses.map((status, at) => kindOf(status, reading.errors[at]))),
+  ]
   return seen.length === 0 ? "none" : seen.join(" and ")
 }
 
@@ -87,7 +94,7 @@ export function startWaitResumeMonitor(opts: {
         ceilingReported = true
         opts.log?.(
           `wait-resume: ${agentId} has died ${reading.consecutive} times running ` +
-            `(${kindsOf(reading.statuses)}) and its wait is at the ceiling — ` +
+            `(${kindsOf(reading)}) and its wait is at the ceiling — ` +
             "still being nudged, and still not working"
         )
       }
@@ -108,9 +115,7 @@ export function startWaitResumeMonitor(opts: {
       await injectNudge(agentId, verdict.nudge)
       lastNudgeAtMs = now
       marked("nudge")
-      opts.log?.(
-        `wait-resume: nudged ${agentId} after ${kindsOf(reading.statuses)} — ${verdict.reason}`
-      )
+      opts.log?.(`wait-resume: nudged ${agentId} after ${kindsOf(reading)} — ${verdict.reason}`)
     } catch (err) {
       opts.log?.(`wait-resume: tick error: ${String(err)}`)
     } finally {

@@ -14,7 +14,12 @@ const SPOKE = JSON.stringify({ type: "assistant", message: { content: "done" } }
 
 test("a server error mid-response with no status is a death", () => {
   const reading = classifyTurnEndErrorDeath([SPOKE, died(null, "server_error")].join("\n"))
-  expect(reading).toEqual({ detected: true, consecutive: 1, statuses: [null] })
+  expect(reading).toEqual({
+    detected: true,
+    consecutive: 1,
+    statuses: [null],
+    errors: ["server_error"],
+  })
 })
 
 test("an overload and a bad gateway are deaths, counted running", () => {
@@ -23,6 +28,7 @@ test("an overload and a bad gateway are deaths, counted running", () => {
     detected: true,
     consecutive: 2,
     statuses: [529, 502],
+    errors: ["server_error", "server_error"],
   })
 })
 
@@ -30,8 +36,14 @@ test("a rate limit is no death this resumes", () => {
   expect(classifyTurnEndErrorDeath(died(429, "rate_limit")).detected).toBe(false)
 })
 
-test("a failed login is no death this resumes", () => {
-  expect(classifyTurnEndErrorDeath(died(401, "authentication_failed")).detected).toBe(false)
+test("a failed login the gateway answered is a death", () => {
+  const reading = classifyTurnEndErrorDeath([SPOKE, died(null, "authentication_failed")].join("\n"))
+  expect(reading).toEqual({
+    detected: true,
+    consecutive: 1,
+    statuses: [null],
+    errors: ["authentication_failed"],
+  })
 })
 
 test("a turn that ended in words is no death", () => {
