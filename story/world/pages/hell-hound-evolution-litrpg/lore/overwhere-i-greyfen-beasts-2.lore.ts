@@ -34,7 +34,7 @@ export const overwhereIGreyfenBeasts2 = {
     },
     {
       fact: "Ripples walked up the channel find the third den once she's within fifty yards of the alder root.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "By ripple the Level 12 feels longer and denser than the other two, and it is still asleep.",
@@ -42,11 +42,23 @@ export const overwhereIGreyfenBeasts2 = {
     },
     {
       fact: "A ripple feels the alder roots over the third den as a hard, knotted net in the wet earth.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Alder roots lace the third den's bank; a mud grip can't haul through them, only out the water mouth.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala's ripple found the third reedlurker asleep under a bank alder, 100 yards up the first slide.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "By ripple the third reedlurker feels longer and denser than the other two.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Alder roots wrap the third den on every side; its only open way is the tunnel down to the water.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Lore
