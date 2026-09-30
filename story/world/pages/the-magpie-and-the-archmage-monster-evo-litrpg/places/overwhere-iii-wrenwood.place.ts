@@ -184,6 +184,10 @@ export const overwhereIiiWrenwood = {
       fact: "One good frostcap and the gravecap are left standing at the split beech.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Brannagh Tull takes up to forty more frostcaps this week at her shop, straight for a copper each.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
