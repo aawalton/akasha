@@ -68,6 +68,14 @@ export const overwhereIiiTobinWick = {
       fact: "He offered Nala his own coat off his back and a ride to Merrowgate.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Tobin's coat is heavy and smells of apples.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tobin-wick",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
