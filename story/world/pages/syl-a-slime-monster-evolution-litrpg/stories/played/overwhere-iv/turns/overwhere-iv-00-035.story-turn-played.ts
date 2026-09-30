@@ -4,10 +4,13 @@ export const overwhereIv00035 = {
   id: "01a0f416-ee47-7ce8-a842-eaebbccb02b6",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-035",
+  ownLength: 227,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 35,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
+  stepStatus: "step-status/reviewers",
   action: "I work with the rest to gather the ears and go with them back to the hall.",
   beats: [
     "In the hollow, the work is quick. Nala goes goblin to goblin with the others, taking ears.",
@@ -26,6 +29,8 @@ export const overwhereIv00035 = {
   ],
   lore: [
     "lore/overwhere-iv-ilsa-crane",
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
     "place/overwhere-iv-millbrook-adventurers-hall",
     "place/overwhere-iv-the-tangle",
   ],
