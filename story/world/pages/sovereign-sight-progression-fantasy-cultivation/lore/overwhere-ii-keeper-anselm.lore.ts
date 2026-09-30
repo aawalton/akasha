@@ -51,6 +51,10 @@ export const overwhereIiKeeperAnselm = {
       fact: "A young man in orange robes felt Nala's working from the shrine, like the whole river turning over.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Anselm knows Nala's denial is false, but he won't call her a liar in front of others.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
