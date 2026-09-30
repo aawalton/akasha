@@ -11,7 +11,7 @@ export const overwhereIi00050 = {
   position: 50,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Either is fine, I’ll learn what anyone can teach me. And now I think I need an early night’s sleep. I have a hunt in the morning.” I take my leave and go sleep in the empty cabin, then gear up in the morning and start scouting.",
   beats: [
@@ -54,6 +54,11 @@ export const overwhereIi00050 = {
     "place/overwhere-ii-whitecombs",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-01T12:00:00.000Z",
 } as const satisfies StoryTurnPlayed
