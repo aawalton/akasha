@@ -11,4 +11,5 @@ export const overwhereIi00017 = {
   action:
     "“Quiet!” I command. I try to carefully use the other direction of my power to push a small amount of life force from me back into the girl.",
   lore: ["lore/overwhere-ii-nala"],
+  endsAt: "2026-09-29T10:29:00.000Z",
 } as const satisfies StoryTurnPlayed
