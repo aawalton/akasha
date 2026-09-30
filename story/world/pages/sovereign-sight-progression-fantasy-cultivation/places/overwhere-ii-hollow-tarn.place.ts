@@ -62,7 +62,7 @@ export const overwhereIiHollowTarn = {
     },
     {
       fact: "As Nala walks away from the tarn its pull on her well fades, and is gone once it is out of sight.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
   secrets: "jsonl",
