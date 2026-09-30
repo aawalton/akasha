@@ -4,13 +4,14 @@ export const overwhereI00009 = {
   id: "01a0f173-d403-7760-ac33-90db1502a161",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-009",
+  cover: "image/image-58eb0dee0288c8c4",
   ownLength: 182,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 9,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Hello there!  I seem to have gotten a bit lost. Would you mind telling me where we are precisely?”",
   beats: [
@@ -37,6 +38,6 @@ export const overwhereI00009 = {
     "place/overwhere-i-greyfen-ford",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-29T11:07:00.000Z",
 } as const satisfies StoryTurnPlayed
