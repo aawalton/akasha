@@ -95,6 +95,14 @@ export const overwhereIvMillbrookAdventurersHall = {
       fact: "A job done well and quickly raises the doer in Ilsa's regard and in the hall's talk.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Millbrook Adventurers' Hall stands on the town square, up the lane from the gate.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-garrett-pell",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

@@ -29,7 +29,11 @@ export const overwhereIvEastRoad = {
     },
     {
       fact: "The Red Hand strike in Hollin Wood, past the second bridge, a day's walk east of town.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-garrett-pell",
+      ],
     },
     {
       fact: "They come eight to ten strong, faces masked in red-dyed cloth, with bows and clubs.",

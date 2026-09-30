@@ -38,26 +38,54 @@ export const overwhereIvRennickHale = {
     },
     {
       fact: "To anyone wanting strength he says: levels come from fighting, and fighting kills fools.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-garrett-pell",
+      ],
     },
     {
       fact: "He would send a would-be fighter to the hall, to start on slimes and pests and learn.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-garrett-pell",
+      ],
     },
     {
       fact: "He knows a first real fight won often brings the System's offer of a class.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-garrett-pell",
+      ],
     },
     {
       fact: "The watch drills recruits in the gate yard at dawn; he takes anyone who stays the course.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-garrett-pell",
+      ],
     },
     {
       fact: "Watch pay is 6 copper a day with a bunk and board, and the watch is short of hands.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-garrett-pell",
+      ],
     },
     {
       fact: "Captain Hale is a broad older man in a worn leather coat who works from the gatehouse.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-garrett-pell",
+      ],
+    },
+    {
+      fact: "Hale has seen robbed men lose all but the memory of the knife, afterward.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/overwhere-iv-nala",

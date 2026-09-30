@@ -112,6 +112,14 @@ export const overwhereIvNala = {
         "character-other/overwhere-iv-garrett-pell",
       ],
     },
+    {
+      fact: "Nala told Captain Hale she remembers only the glint of a blade from the robbery.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-garrett-pell",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

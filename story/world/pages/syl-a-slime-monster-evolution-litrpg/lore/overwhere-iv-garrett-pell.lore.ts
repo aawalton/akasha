@@ -140,5 +140,13 @@ export const overwhereIvGarrettPell = {
         "character-other/overwhere-iv-garrett-pell",
       ],
     },
+    {
+      fact: "Garrett told Captain Hale he found Nala sat in the grass on the common.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-garrett-pell",
+      ],
+    },
   ],
 } as const satisfies Lore
