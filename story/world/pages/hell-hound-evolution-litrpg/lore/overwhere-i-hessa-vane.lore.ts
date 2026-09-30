@@ -87,6 +87,10 @@ export const overwhereIHessaVane = {
       fact: "She and her young companion tracked the Brute from Fenwatch to the ford.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Seeing the burn through Sootjaw's chest, she believes Nala killed it, though not how.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
