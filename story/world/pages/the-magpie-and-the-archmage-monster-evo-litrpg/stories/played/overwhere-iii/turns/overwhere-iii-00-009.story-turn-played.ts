@@ -38,8 +38,10 @@ export const overwhereIii00009 = {
   lore: [
     "lore/overwhere-iii-marda-hesk",
     "lore/overwhere-iii-nala",
+    "place/overwhere-iii-merrowgate-guild-post",
     "place/overwhere-iii-wrenwood",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-30T07:07:00.000Z",
 } as const satisfies StoryTurnPlayed

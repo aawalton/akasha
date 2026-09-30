@@ -110,7 +110,11 @@ export const overwhereIiiAdventurersGuild = {
     },
     {
       fact: "Newcomers register temporarily, giving name, age, race, class, skills, traits and reason.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "A temporary registrant may take only Copper quests; one completed quest earns the ring.",
@@ -199,6 +203,30 @@ export const overwhereIiiAdventurersGuild = {
     {
       fact: "Famous parties become legend; the lost Fallen Heroes were the 'heroes of Velithra'.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Board work is Guild work, and the Guild pays only its members, so a board job needs registering.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
+    {
+      fact: "Temporary registration is free: a form and a card, and one job done earns the ring.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
+    {
+      fact: "A registrant holds the pale signature card and pushes mana into it, and it shows what they have.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
   ],
   secrets: "jsonl",

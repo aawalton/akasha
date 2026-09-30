@@ -10,7 +10,11 @@ export const overwhereIiiMardaHesk = {
   facts: [
     {
       fact: "Marda Hesk keeps the Adventurers Guild post at Merrowgate's south gate.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "She is about sixty, gray hair cropped short, broad-shouldered, with a stiff left knee and a cane.",
@@ -58,7 +62,11 @@ export const overwhereIiiMardaHesk = {
     },
     {
       fact: "She warns anyone bound for the wood's edge of the blighted boar, and to keep off the south road.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
   ],
   secrets: "jsonl",
