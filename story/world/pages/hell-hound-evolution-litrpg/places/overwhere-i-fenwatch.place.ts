@@ -255,6 +255,7 @@ export const overwhereIFenwatch = {
       fact: "The whole drag to the palisade is one heavy haul, costing her 5 stamina.",
       knowers: ["lore-disclosure/game-master"],
     },
+    { fact: "A third of the drag costs her 2 stamina.", knowers: ["lore-disclosure/game-master"] },
   ],
   secrets: "jsonl",
 } as const satisfies Place
