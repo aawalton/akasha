@@ -7,7 +7,14 @@ export const overwhereI00010 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 10,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Oh, that little thing? That was me. Thought it might be tasty. If you’ll help with transport, I’d be happy to contribute it for a feast.”",
+  lore: [
+    "lore/overwhere-i-hessa-vane",
+    "lore/overwhere-i-sootjaw",
+    "lore/overwhere-i-tobin-ashdown",
+    "place/overwhere-i-fenwatch",
+    "place/overwhere-i-greyfen-ford",
+  ],
 } as const satisfies StoryTurnPlayed
