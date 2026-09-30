@@ -131,7 +131,7 @@ export const overwhereIiiMerrowgateGuildPost = {
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
-      fact: "Marda would let Nala try on one bounty stone, lifted out with tongs, at the desk under her eye.",
+      fact: "Marda would let Nala try on one blightstone, lifted out with tongs, at the desk under her eye.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-marda-hesk",
@@ -139,7 +139,7 @@ export const overwhereIiiMerrowgateGuildPost = {
       ],
     },
     {
-      fact: "Marda would let Nala keep the glimmerstone from any bounty stone she cleans.",
+      fact: "Marda would let Nala keep the glimmerstone from any blightstone she cleans.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-marda-hesk",
@@ -151,7 +151,7 @@ export const overwhereIiiMerrowgateGuildPost = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
-      fact: "Marda keeps the paled stag stone apart in the lead box, for Nala to come back to between rests.",
+      fact: "Marda keeps the stag's paled blightstone apart in the lead box, for Nala to return to between rests.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-marda-hesk",
@@ -159,7 +159,7 @@ export const overwhereIiiMerrowgateGuildPost = {
       ],
     },
     {
-      fact: "Marda will not send the paled stag stone to Thornmere.",
+      fact: "Marda will not send the stag's paled blightstone to Thornmere.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/overwhere-iii-nala",
@@ -199,7 +199,7 @@ export const overwhereIiiMerrowgateGuildPost = {
       ],
     },
     {
-      fact: "The bounty counts a seed-sized blightstone from a wound as a tenth of a stone: 10 copper.",
+      fact: "The bounty counts a seed stone from a wound as a tenth of a blightstone: 10 copper.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {

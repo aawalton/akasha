@@ -7,5 +7,5 @@ export const overwhereIiiGlimmerSpeck = {
   title: "Glimmer Speck",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   description:
-    "A crumb of pale, faintly glowing stone left when a seed-sized blightstone is cracked clean, a tenth of a glimmerstone.",
+    "A crumb of pale, faintly glowing stone left when a seed stone is cracked clean, a tenth of a glimmerstone.",
 } as const satisfies WorldItem
