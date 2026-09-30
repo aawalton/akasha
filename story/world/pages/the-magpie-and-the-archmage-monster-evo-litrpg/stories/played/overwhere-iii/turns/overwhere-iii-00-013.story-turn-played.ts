@@ -11,4 +11,5 @@ export const overwhereIii00013 = {
   action:
     "I go to harvest the frostcaps. If the beast attacks, I put the knife through the top of its mouth. If the mana glow starts moving, I use my mana weaving to disrupt it.",
   lore: ["lore/overwhere-iii-nala", "lore/overwhere-iii-wrenmark-beasts"],
+  endsAt: "2026-09-30T09:01:00.000Z",
 } as const satisfies StoryTurnPlayed
