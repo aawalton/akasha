@@ -79,6 +79,10 @@ export const overwhereITheGreyfen = {
       fact: "The hamlet of Sallow Hythe on the fen's southern edge lost two reed-cutters to Drakewolves.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The channels by Jory's traps run tea-dark and chest-deep, three or four yards wide.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
