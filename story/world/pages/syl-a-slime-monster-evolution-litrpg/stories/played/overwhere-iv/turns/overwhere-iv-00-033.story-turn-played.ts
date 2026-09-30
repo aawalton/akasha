@@ -27,6 +27,10 @@ export const overwhereIv00033 = {
     "Dace plants his foot on the slinger's back and looks across at Nala, breathing hard.",
     '"That\'s your cut," he calls. "You want to finish it, or shall I?"',
   ],
+  issues: [
+    '"Neither moves" - lore: if the slinger falls, the hurt scouts throw down weapons and grovel',
+  ],
   lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2", "place/overwhere-iv-the-tangle"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-01T13:15:00.000Z",
 } as const satisfies StoryTurnPlayed
