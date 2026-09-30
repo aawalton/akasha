@@ -284,6 +284,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "Against a slug, a Drakewolf's scaled hide wards only 1, the slug piercing one of its 2.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A hurt Drakewolf keeps coming; once three of the six are down, the rest break back to the island.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
