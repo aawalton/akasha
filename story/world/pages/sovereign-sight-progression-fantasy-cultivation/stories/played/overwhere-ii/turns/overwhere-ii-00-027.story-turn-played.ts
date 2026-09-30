@@ -11,4 +11,5 @@ export const overwhereIi00027 = {
   action:
     "While he works, I focus on settling and cleaning the restless brine first, then try again to push water into the wound.",
   lore: ["lore/overwhere-ii-undertow"],
+  endsAt: "2026-09-29T18:22:00.000Z",
 } as const satisfies StoryTurnPlayed
