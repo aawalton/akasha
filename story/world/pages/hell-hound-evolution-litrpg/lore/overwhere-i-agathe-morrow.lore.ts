@@ -87,6 +87,10 @@ export const overwhereIAgatheMorrow = {
       fact: "Having paid the bounty, she asked Nala where she has come from and whether she is staying.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "If Nala stays to hunt, she'd put her up at the Stag on the village purse for a week.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
