@@ -118,7 +118,7 @@ export const overwhereIiWendleFord = {
     },
     {
       fact: "The carrier is Wat Brisk, who drives a covered cart to Carrowmouth and back each week.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Wat sells goods in Carrowmouth for a fifth of the price, and brings the rest back next market day.",
