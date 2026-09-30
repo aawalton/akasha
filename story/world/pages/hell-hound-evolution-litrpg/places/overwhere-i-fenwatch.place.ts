@@ -215,6 +215,10 @@ export const overwhereIFenwatch = {
       fact: "Fenwatch has no bounty board; the reeve chalks its bounties on a slate by the Stag's door.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "The slate: reedlurkers robbing the eel traps at the fen edge, three silver a head.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
