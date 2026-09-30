@@ -131,6 +131,10 @@ export const overwhereIRowanCoalby = {
       fact: "Rowan offers to walk back with her and tell the Stag himself that Sedge was never the stock-killer.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Rowan agrees to go, but not into the fen by night; he asks to set out at first light on day 4.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
