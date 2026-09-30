@@ -10,4 +10,5 @@ export const overwhereIv00033 = {
   stepStatus: "step-status/game-master",
   action: "This time, I cast Rift Rend, aiming to cut the slinger in half",
   lore: ["place/overwhere-iv-the-tangle"],
+  endsAt: "2026-10-01T13:15:00.000Z",
 } as const satisfies StoryTurnPlayed
