@@ -11,4 +11,5 @@ export const overwhereIi00052 = {
   action:
     "Once that’s done, I report back and talk about what I saw and try to understand what it means.",
   lore: ["lore/overwhere-ii-reeve-corwin-dray", "place/overwhere-ii-callow-beck"],
+  endsAt: "2026-10-01T19:20:00.000Z",
 } as const satisfies StoryTurnPlayed
