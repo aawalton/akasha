@@ -10,7 +10,7 @@ export const overwhereIi00034 = {
   position: 34,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Sure, but I’ll hunt alone. For pay, I’d like the best spear you can get me to hunt them with. I’ll contribute up to two silver bars to pay for it if the hunt itself is not enough. I’d also like a pack if you have a spare, getting tired of carrying these in my hands “",
   beats: [
@@ -27,7 +27,7 @@ export const overwhereIi00034 = {
     'Reeve Dray: "Three days and a silver bar."',
     "Reeve Dray: \"Alone, though. That I don't like. I've buried one man to that pack this winter.\"",
     "He rolls his sleeves to the elbow; his forearms go grey and hard, and grate like millstones.",
-    'Reeve Dray: "Nobody hunts alone for me till they\'ve bested me. A watch spear against my hands."',
+    'Reeve Dray: "You hunt alone for me once you have bested me. A watch spear against my hands."',
     'Reeve Dray: "Out on the green, now, if you\'re willing."',
   ],
   issues: [
