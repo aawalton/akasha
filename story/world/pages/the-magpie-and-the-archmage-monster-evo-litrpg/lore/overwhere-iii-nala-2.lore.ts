@@ -183,5 +183,13 @@ export const overwhereIiiNala2 = {
       fact: "At Adept the currents came too heavy for Nala's first pull; easing the thread down, it worked.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Brannagh spooned the burner's seed stone into Nala's clay cup; it holds two.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
   ],
 } as const satisfies Lore
