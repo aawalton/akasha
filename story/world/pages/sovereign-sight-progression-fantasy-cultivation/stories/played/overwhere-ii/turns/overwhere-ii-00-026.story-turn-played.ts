@@ -4,10 +4,13 @@ export const overwhereIi00026 = {
   id: "01a0f33a-f295-7701-aeb6-da201725a015",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-026",
+  ownLength: 222,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 26,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I come in, focusing on circling my water and trying to push it into the flesh of the wounded arm.",
   beats: [
@@ -26,6 +29,6 @@ export const overwhereIi00026 = {
     "Garth fills a basin from the kettle and sets a clean rag beside it.",
     'Garth: "Let me wash that before you try anything more. There\'s wolf spit and salt in it yet."',
   ],
-  lore: ["lore/overwhere-ii-keeper-anselm", "lore/overwhere-ii-undertow"],
+  lore: ["lore/overwhere-ii-keeper-anselm", "lore/overwhere-ii-nala", "lore/overwhere-ii-undertow"],
   endsAt: "2026-09-29T18:12:00.000Z",
 } as const satisfies StoryTurnPlayed
