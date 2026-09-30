@@ -41,5 +41,6 @@ export const overwhereIv00019 = {
     "lore/overwhere-iv-nala",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-09-30T08:05:00.000Z",
 } as const satisfies StoryTurnPlayed
