@@ -4,10 +4,13 @@ export const overwhereIi00030 = {
   id: "01a0f366-6de0-7702-9b15-7ab0857da320",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-030",
+  ownLength: 262,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 30,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action: "I was with Garth and then go present the results to the Reeve",
   beats: [
     "Nala eats porridge with Garth and Wren at the table and drinks two cups of water straight off.",
@@ -27,6 +30,7 @@ export const overwhereIi00030 = {
   lore: [
     "lore/overwhere-ii-garth-marsh",
     "lore/overwhere-ii-keeper-anselm",
+    "lore/overwhere-ii-nala",
     "lore/overwhere-ii-wendle-ford-folk",
     "place/overwhere-ii-wendle-ford",
   ],
