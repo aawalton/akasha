@@ -51,6 +51,10 @@ export const overwhereIRowanCoalby = {
       fact: "He is shy with strangers but warm to anyone kind to Sedge.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "With Sootjaw dead and Hessa's word on it, his Drakewolf Sedge is cleared of the stock kills.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
