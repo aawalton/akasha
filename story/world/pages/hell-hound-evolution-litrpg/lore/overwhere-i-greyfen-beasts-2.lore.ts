@@ -16,5 +16,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "A forewarned, awake reedlurker gripped in mud thrashes at once; holding it stays a hard act.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A reedlurker hauled straight out of its dry den has dry hide, warding only 1 against fire.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
