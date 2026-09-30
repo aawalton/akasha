@@ -239,6 +239,10 @@ export const overwhereIiiMerrowgate = {
       fact: "Books are dear here; past the Guild post's two, the Hearth chapel keeps a herbal and a primer.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Hearth chapel's keeper, old Sister Wenna, lends her herbal and primer to anyone who reads there.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
