@@ -214,7 +214,7 @@ export const overwhereIiiWrenwood = {
     },
     {
       fact: "By the Wren Brook the blue current runs thick beside the water's own, and lends a working well.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Nala's one Current Lash by the brook killed both antlered rabbits in the open.",
