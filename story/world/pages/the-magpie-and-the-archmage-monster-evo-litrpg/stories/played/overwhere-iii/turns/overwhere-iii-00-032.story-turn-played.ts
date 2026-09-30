@@ -4,6 +4,7 @@ export const overwhereIii00032 = {
   id: "01a0f39a-9881-732a-9269-1a620428ea39",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-032",
+  cover: "image/image-69cca986053a8306",
   ownLength: 166,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -14,7 +15,7 @@ export const overwhereIii00032 = {
     "character-other/overwhere-iii-bet-harrow",
     "character-other/overwhere-iii-tobin-wick",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“Deal, I’ll take it all. Know where I could get a pack?”",
   beats: [
     '"Deal," Nala says. "I\'ll take it all."',
@@ -41,6 +42,11 @@ export const overwhereIii00032 = {
     "place/overwhere-iii-merrowgate",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T19:00:00.000Z",
 } as const satisfies StoryTurnPlayed
