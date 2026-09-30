@@ -33,11 +33,12 @@ export const overwhereIi00032 = {
     '"Reeve Oakes," Anselm says - beats name Reeve Dray; Nala met Oakes at Col\'s bed already',
   ],
   lore: [
+    "lore/overwhere-ii-greymaws",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-reeve-corwin-dray",
     "lore/overwhere-ii-wendle-ford-folk",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-30T08:05:00.000Z",
 } as const satisfies StoryTurnPlayed
