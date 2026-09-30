@@ -175,6 +175,10 @@ export const overwhereIAgatheMorrow = {
       fact: "Shown the eye and ears, she believes Ghost-Eye dead, but says Antler Hall pays only on the head.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Hearing it, Agathe lifts her oath against Sedge and grants Rowan winter shelter in the palisade.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
