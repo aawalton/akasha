@@ -56,6 +56,10 @@ export const overwhereIiHollowTarn = {
       fact: "From Hollow Tarn down to Wendle Ford is some three hours on foot.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Hollow Tarn is a black lake in grey crags; no bird calls there, and the air smells of the sea.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
