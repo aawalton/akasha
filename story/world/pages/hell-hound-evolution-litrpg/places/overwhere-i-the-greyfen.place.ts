@@ -91,6 +91,10 @@ export const overwhereITheGreyfen = {
       fact: "A thin thread of bubbles rises in the channel by Jory's traps, where the earlier bubbles stopped.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "The second known reedlurker holt's slide lies forty yards up the channel from the first.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
