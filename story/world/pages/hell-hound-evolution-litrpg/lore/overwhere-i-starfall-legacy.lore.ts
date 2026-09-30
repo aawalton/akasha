@@ -76,5 +76,9 @@ export const overwhereIStarfallLegacy = {
       fact: "A ripple pushed too hard leaves as a thump that shudders the bank and slumps mud into the channel.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "An earth-and-water weave moves wet ground and mud as a slow, heavy grip that can haul a body.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
