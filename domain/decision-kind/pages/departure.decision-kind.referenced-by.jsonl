@@ -3855,6 +3855,7 @@
 {"propertySlug":"decision-kind","path":"story/world/mechanics/appointments/properties/appointment-at.instant-property.ts","id":"01a0e3b2-a002-7fc4-bd6d-43ed66441878"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/appointments/world-appointment.page-type.ts","id":"01a0e3b2-a003-7bf8-a19f-54df5fd87c0c"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/checks/world-check.page-type.ts","id":"01a0de14-272c-7450-9354-16bc47966044"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/classes/character-class/character-class.page-type.ts","id":"01a0f396-8661-74fc-abf1-0f1036a82e77"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/currencies/properties/currency-denominations.record-property.ts","id":"01a0f1da-0621-76cf-b877-bbc4880d2a10"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/currencies/world-currency.page-type.ts","id":"01a0f1da-0622-7635-9a06-b7c5f8bb061e"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/derived/modules/derived-beside/derived-beside.module.ts","id":"01a0de74-5fb3-7593-a73d-196114cb52c0"}

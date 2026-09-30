@@ -167,6 +167,8 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/attunements/properties/attunement-character.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/attunements/properties/attunement-element.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/attunements/properties/rank-of-attunement.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/classes/character-class/properties/class-character.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/classes/character-class/properties/held-class.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/items/story-item/properties/item-character.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/items/story-item/properties/item-essence.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/items/story-item/properties/item-place.relation-property.ts","typed":true,"deferred":false}
