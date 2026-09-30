@@ -10,7 +10,7 @@ export const overwhereIi00028 = {
   position: 28,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Thank you, guess I’m more tired than I thought. We should also check the wolves for reservoirs while we can, those could be worth quite a bit if they have them.”",
   beats: [
