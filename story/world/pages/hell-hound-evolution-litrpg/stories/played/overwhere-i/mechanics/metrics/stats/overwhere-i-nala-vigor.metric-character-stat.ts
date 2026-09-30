@@ -5,7 +5,7 @@ export const overwhereINalaVigor = {
   type: "page-type/metric-character-stat",
   slug: "overwhere-i-nala-vigor",
   character: "character-player/overwhere-i-nala",
-  value: 15,
+  value: 17,
   minValue: 0,
   history: "jsonl",
 } as const satisfies MetricCharacterStat

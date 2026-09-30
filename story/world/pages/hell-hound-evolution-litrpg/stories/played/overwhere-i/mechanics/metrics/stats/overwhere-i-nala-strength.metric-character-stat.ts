@@ -5,7 +5,7 @@ export const overwhereINalaStrength = {
   type: "page-type/metric-character-stat",
   slug: "overwhere-i-nala-strength",
   character: "character-player/overwhere-i-nala",
-  value: 14,
+  value: 16,
   minValue: 0,
   history: "jsonl",
 } as const satisfies MetricCharacterStat
