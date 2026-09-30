@@ -72,7 +72,7 @@ export const playedStateBeside = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A held kind no story has filed a holding of is refused quietly, and drawn as nothing.",
+        "A held kind no story has filed a holding of is answered empty, and drawn as nothing.",
     },
     {
       decisionKind: "decision-kind/departure",

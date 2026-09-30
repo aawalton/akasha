@@ -71,6 +71,10 @@ export const storeQuestioning = {
       statement: "A store answering no commit has none answered.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A query saying an undeclared key matches none has the store say so too.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No answered value is parsed again as JSON.",
     },

@@ -56,6 +56,14 @@ test("a query names its page type as the store spells it", async () => {
   expect(sent.body.keys).toEqual(["slug"])
 })
 
+test("a query saying an undeclared key matches none has the store say so", async () => {
+  const query: ComposedQuery = { "page-type": "finding", "undeclared-matches-none": true }
+  expect((await asking(query, [])).sent.body.undeclaredMatchesNone).toBe(true)
+  expect((await asking({ "page-type": "finding" }, [])).sent.body.undeclaredMatchesNone).toBe(
+    undefined
+  )
+})
+
 test("a row is answered under values though the store answers it flat", async () => {
   const { answer } = await asking({ "page-type": "finding" }, [{ slug: "one" }])
   expect(answer.values).toEqual([{ slug: "one" }])

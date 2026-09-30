@@ -255,6 +255,7 @@ async function askedHeld(type: string, key: string, character: string): Promise<
         UNREVEALED_KEY,
         ...(RANKED.has(key) ? [RANK_KEY] : []),
       ],
+      "undeclared-matches-none": true,
     },
     undefined,
     unsaid

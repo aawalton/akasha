@@ -42,6 +42,7 @@ export type ComposedQuery = {
   readonly files?: readonly string[]
   readonly function?: "sum" | "mean"
   readonly target?: string
+  readonly "undeclared-matches-none"?: boolean
 }
 
 type Flat = Readonly<Record<string, unknown>>
@@ -192,6 +193,7 @@ export async function askComposed(
     pageTypeSlug,
     ...(Object.keys(pushed).length > 0 ? { where: pushed } : {}),
     ...(query.files === undefined ? {} : { files: [...query.files] }),
+    ...(query["undeclared-matches-none"] === true ? { undeclaredMatchesNone: true } : {}),
     ...(here
       ? {}
       : {
