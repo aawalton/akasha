@@ -36,6 +36,22 @@ export const overwhereIvBrooksideFour = {
     },
     { fact: "Orla is their healer, and she is gentle.", knowers: ["lore-disclosure/game-master"] },
     {
+      fact: "Identify shows Orla as Human LV 12, Healer LV 10.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Mornings Orla sits at the hall mending her party's hurts, and takes watch hurts for 2 copper.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Orla's healing closes scrapes and takes swelling down in a few minutes, glowing soft rose.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Orla would put a watch hurt on the hall's slate if the one hurt has no coin.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "They take most of the wolf, boar and goblin work posted at the hall.",
       knowers: ["lore-disclosure/game-master"],
     },
