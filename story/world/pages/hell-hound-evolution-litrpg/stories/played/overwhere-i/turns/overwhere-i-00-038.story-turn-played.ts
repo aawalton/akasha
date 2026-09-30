@@ -10,13 +10,13 @@ export const overwhereI00038 = {
   position: 38,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I start a spiral search pattern using my water and earth detection technique, searching for the third hole.",
   beats: [
     "Nala binds earth and water and sends a gentle ripple out from where she stands.",
-    "Past fifty yards it blurs, as before. Nothing warm and heavy inside that.",
-    "She walks on up the channel, fifteen yards, and sends another, sweeping wider.",
+    "Within its reach it holds only water, weed and small quick lives. Past fifty yards it blurs.",
+    "She walks on up the channel, past the second slide, forty yards, and sends another, sweeping wider.",
     "This time, near the edge of its reach, it finds something.",
     "Under a big alder on the bank, a hundred yards up from the first slide, lies a warm, heavy weight.",
     "It is longer and denser than the other two. It lies loose and slow. It is asleep.",
