@@ -197,7 +197,11 @@ export const overwhereIiiMerrowgate = {
     },
     {
       fact: "Hob Sadler's saddlery by the north gate sells new leather packs at 30 copper, open from dawn.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-bet-harrow",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "In midwinter the dawn bell rings at a quarter past seven, and the gates open then.",
