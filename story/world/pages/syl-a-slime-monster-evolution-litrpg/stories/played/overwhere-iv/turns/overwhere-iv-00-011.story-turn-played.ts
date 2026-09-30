@@ -41,5 +41,6 @@ export const overwhereIv00011 = {
     "The lanky one laughs. The grey one looks up from his stew, and keeps looking. So does Holt.",
   ],
   lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-millbrook-gatehouse"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T18:15:00.000Z",
 } as const satisfies StoryTurnPlayed
