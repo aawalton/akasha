@@ -98,7 +98,11 @@ export const overwhereIiiWrenmarkBeasts = {
     },
     {
       fact: "Digging a glimmerstone from a jackalope's antler base is plain knife work, a minute or two.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-dunstan-harrow"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-dunstan-harrow",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
 } as const satisfies Lore
