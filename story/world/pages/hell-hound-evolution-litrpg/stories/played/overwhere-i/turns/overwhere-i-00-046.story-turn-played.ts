@@ -4,10 +4,13 @@ export const overwhereI00046 = {
   id: "01a0f3fb-6d6f-7046-a7b1-d8a4f04b4ab9",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-046",
+  ownLength: 196,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 46,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I use my lenses to scout the camp again, counting to see if all of the wolves are accounted for and estimating distances.",
   beats: [
@@ -24,6 +27,11 @@ export const overwhereI00046 = {
     "She lets the lenses go after a few minutes, with every wolf counted.",
     "A line of reed hummocks runs south-west from the Greystakes, cover to within 200 yards of the isle.",
   ],
-  lore: ["lore/overwhere-i-the-greyfen-alpha", "place/overwhere-i-the-greyfen"],
+  lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
+    "lore/overwhere-i-the-greyfen-alpha",
+    "place/overwhere-i-the-greyfen",
+  ],
   endsAt: "2026-10-01T12:36:00.000Z",
 } as const satisfies StoryTurnPlayed
