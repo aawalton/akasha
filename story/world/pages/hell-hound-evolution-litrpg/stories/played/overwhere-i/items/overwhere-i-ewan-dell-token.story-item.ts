@@ -6,5 +6,6 @@ export const overwhereIEwanDellToken = {
   slug: "overwhere-i-ewan-dell-token",
   title: "Sallow Hythe Tin Token",
   story: "story-played/overwhere-i",
+  character: "character-player/overwhere-i-nala",
   description: "A small tin token stamped with a reed sheaf and the name Ewan Dell.",
 } as const satisfies StoryItem
