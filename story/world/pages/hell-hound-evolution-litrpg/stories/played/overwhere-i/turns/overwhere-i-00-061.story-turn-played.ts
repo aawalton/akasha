@@ -10,7 +10,7 @@ export const overwhereI00061 = {
   position: 61,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“One more question first. Could I turn it into something to improve my spell casting? Gold I have plenty, but an arcane focus would help quite a bit more.”",
   beats: [
@@ -29,6 +29,6 @@ export const overwhereI00061 = {
     "lore/overwhere-i-osric-fenn",
     "place/overwhere-i-wendlow",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-01T18:05:00.000Z",
 } as const satisfies StoryTurnPlayed
