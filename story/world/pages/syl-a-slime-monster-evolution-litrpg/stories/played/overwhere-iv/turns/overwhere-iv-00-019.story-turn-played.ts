@@ -4,6 +4,7 @@ export const overwhereIv00019 = {
   id: "01a0f348-0b83-70c2-b2ed-2d49f74e7f33",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-019",
+  cover: "image/image-db7cbeb506c69c09",
   ownLength: 282,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
@@ -16,7 +17,7 @@ export const overwhereIv00019 = {
     "character-other/overwhere-iv-dell",
     "character-other/overwhere-iv-oswin-pike",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I rest while I can, elevating the leg with the hurt knee.",
   beats: [
     "Nala doesn't go back to the line. She limps to the well and sits on its low stone rim.",
@@ -42,6 +43,11 @@ export const overwhereIv00019 = {
     "lore/overwhere-iv-oswin-pike",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T08:05:00.000Z",
 } as const satisfies StoryTurnPlayed
