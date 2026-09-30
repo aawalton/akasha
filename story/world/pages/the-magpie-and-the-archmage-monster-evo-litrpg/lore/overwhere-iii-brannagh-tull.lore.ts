@@ -138,7 +138,11 @@ export const overwhereIiiBrannaghTull = {
     },
     {
       fact: "She would ask whoever closed a wound like that to see her two now, and pay a potion each.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
   secrets: "jsonl",
