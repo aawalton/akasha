@@ -114,7 +114,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "Refining over raw, scraped skin heals it first, which slows the work and doubles the sting.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Talking while refining splits Nala's hold; at the hard parts the tide wavers unless she goes quiet.",
