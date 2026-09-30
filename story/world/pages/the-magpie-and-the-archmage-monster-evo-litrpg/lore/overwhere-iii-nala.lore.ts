@@ -128,6 +128,22 @@ export const overwhereIiiNala = {
       fact: "The last ??? in Mana Weaver's description clears when she first draws a current into a working.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "With intent she can bend a thread of a current toward her; it follows like stirred water.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "Let go, a bent thread slides back into its current's course within a breath or two.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "Held close, a thread feels ready to pour into her, if she gave it somewhere to go.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "Bending a thread is no working, and clears none of Mana Weaver's ???; nobody else sees it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

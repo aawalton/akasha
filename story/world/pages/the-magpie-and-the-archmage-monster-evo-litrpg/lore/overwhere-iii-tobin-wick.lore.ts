@@ -76,6 +76,10 @@ export const overwhereIiiTobinWick = {
         "character-other/overwhere-iii-tobin-wick",
       ],
     },
+    {
+      fact: "Told 'not sure', he takes her for struck on the head and means to see her to the Crook and Candle.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
