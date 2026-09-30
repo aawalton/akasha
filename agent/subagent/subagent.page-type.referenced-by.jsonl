@@ -3,4 +3,5 @@
 {"propertySlug":"import","fileName":"subagent.page-type.ts","path":"command/modules/edits-repointing/edits-repointing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.ts","path":"command/pages/initiative/delete/initiative-delete.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/iris-a1c2c1cb196438908/iris-a1c2c1cb196438908.subagent.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/iris-a908d337eae3633e1/iris-a908d337eae3633e1.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}
