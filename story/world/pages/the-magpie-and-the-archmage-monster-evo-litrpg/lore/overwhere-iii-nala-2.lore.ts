@@ -196,11 +196,11 @@ export const overwhereIiiNala2 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
-      fact: "Nala hasn't eaten since last night; by dark on her fourth day her stomach growls.",
+      fact: "Nala last ate at supper on her fourth night; by noon on day five her stomach growls.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
-      fact: "Nala has read two-thirds of Brannagh's receipt book, as far as the healing potion.",
+      fact: "Nala has read Brannagh's receipt book through, cover to cover.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/overwhere-iii-nala",
