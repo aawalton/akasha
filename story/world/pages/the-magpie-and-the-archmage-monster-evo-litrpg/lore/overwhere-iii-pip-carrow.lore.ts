@@ -64,6 +64,10 @@ export const overwhereIiiPipCarrow = {
       fact: "To Nala's sight, the post's thin currents lean toward Pip, as if she drew them without knowing.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Pip stays at the healer's elbow reading along until Marda sends her home at half past four.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
