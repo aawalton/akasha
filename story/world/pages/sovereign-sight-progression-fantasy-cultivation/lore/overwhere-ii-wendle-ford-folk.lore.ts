@@ -171,5 +171,9 @@ export const overwhereIiWendleFordFolk = {
       fact: "The Reeve, Tam Oakes, is stout and fussy; he houses Col Ashby, who has no wife to nurse him.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Col Ashby, thirty, is a broad, stubborn watchman who beat off the greymaw that bit him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
