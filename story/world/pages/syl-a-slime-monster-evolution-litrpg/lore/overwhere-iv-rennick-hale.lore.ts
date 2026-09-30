@@ -19,5 +19,13 @@ export const overwhereIvRennickHale = {
       fact: "His watch is short of men, and he cannot spare guards for the roads or the Tangle.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "He questions each traveller the Red Hand robbed: where, how many, which way they went.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A robbery story with no place, no count and no road in it would make him wary.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
