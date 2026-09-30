@@ -10,7 +10,7 @@ export const overwhereI00035 = {
   position: 35,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Sorry about that, you can call it even against the reedlurker. Any other traps I should avoid pulling before I try again?”",
   beats: [
@@ -25,6 +25,6 @@ export const overwhereI00035 = {
     '"You pull anything by a white stake," Jory says, "it\'s eels, not lurker."',
   ],
   lore: ["lore/overwhere-i-nala", "place/overwhere-i-the-greyfen"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-30T10:57:00.000Z",
 } as const satisfies StoryTurnPlayed
