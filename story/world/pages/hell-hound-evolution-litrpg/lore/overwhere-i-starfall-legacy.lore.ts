@@ -258,7 +258,7 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "A grooved slug weighs about two ounces; sixty ride easily in her pack, about eight pounds.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Past about a hundred slugs, some twelve pounds, the pack drags on her when she runs.",
