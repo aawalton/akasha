@@ -8,5 +8,4 @@ export const overwhereIiiNala = {
   value: 1,
   minValue: 1,
   history: "jsonl",
-  unrevealed: true,
 } as const satisfies OverwhereIiiLevel

@@ -10,5 +10,4 @@ export const overwhereIiiNalaManaWeaver = {
   trait: "overwhere-iii-trait/overwhere-iii-mana-weaver",
   rank: 1,
   uses: 0,
-  unrevealed: true,
 } as const satisfies OverwhereIiiTraitHeld
