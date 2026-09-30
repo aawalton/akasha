@@ -51,5 +51,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Dray lodges at the Reeve's house by the green when in the Ford; Tam Oakes keeps it for him.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Dray is Reeve of Wendlemere; Tam Oakes, the Ford's village reeve, keeps his house by the green.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
