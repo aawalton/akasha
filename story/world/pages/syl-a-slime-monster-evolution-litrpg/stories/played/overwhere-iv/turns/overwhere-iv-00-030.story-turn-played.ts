@@ -10,7 +10,7 @@ export const overwhereIv00030 = {
   position: 30,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "In the fight, I stay in my position, but when I have the chance I test out new combinations with my magic and spear. First, pulling the enemy into my spear instead of pushing the spear forward, then, creating a dimensional shear along the edge of the spear when I strike, seeing if I redevelop some form a spell strike without buying it.",
   beats: [
@@ -36,7 +36,8 @@ export const overwhereIv00030 = {
     "Past the sheep, one goblin breaks from the hollow and runs. Not away from them. Deeper in.",
     'Wren sees it too. "Runner!" she shouts. "It\'s going for the rest of them!"',
   ],
+  issues: ['"<Goblin LV 5 defeated." - no Identify skill; Nala sees no one\'s level but her own'],
   lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2", "place/overwhere-iv-the-tangle"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-01T13:12:00.000Z",
 } as const satisfies StoryTurnPlayed
