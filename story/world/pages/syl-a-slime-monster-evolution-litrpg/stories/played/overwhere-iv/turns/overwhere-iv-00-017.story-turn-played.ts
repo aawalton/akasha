@@ -16,7 +16,7 @@ export const overwhereIv00017 = {
     "character-other/overwhere-iv-dell",
     "character-other/overwhere-iv-oswin-pike",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I go to sleep, troubled, then in the morning show up for laps and give it my full effort.",
   beats: [
@@ -41,6 +41,6 @@ export const overwhereIv00017 = {
     'Dell swings his spear round and grins. "Go gentle on me, lamb-girl."',
   ],
   lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-millbrook-gatehouse"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-30T07:15:00.000Z",
 } as const satisfies StoryTurnPlayed
