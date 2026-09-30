@@ -74,6 +74,15 @@ export const overwhereIvHarm = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Bruised clears after two nights' sleep, or at once under any healing magic.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "While Bruised, acts that load the hurt limb take minus one; rest with it raised halves the time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The health left is written on the character's health page before the turn moves on.",
     },
