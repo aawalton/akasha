@@ -297,6 +297,10 @@ export const overwhereITheGreyfenAlpha = {
       knowers: ["lore-disclosure/game-master"],
     },
     { fact: "A Drakewolf at 0 health is dead.", knowers: ["lore-disclosure/game-master"] },
+    {
+      fact: "At 13:04 on day 3 six slugs from Nala killed three wolves in the marsh, 30 to 40 yards from her.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
