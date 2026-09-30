@@ -124,6 +124,22 @@ export const overwhereIiWhitecombs = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Day four is grey and still, low cloud hanging just above the Whitecombs' snow line.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The greymaws' flight from the crag shows as big webbed prints frozen into old ice on the scree.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The crag is a grey buttress split top to bottom; fallen blocks bury the den mouth at its foot.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "From the Ford to the split crag is six hours on foot; the way down takes five.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The Warped goats by the Callow pool have not caught Nala's scent; the wind blows from them to her.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
