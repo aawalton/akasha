@@ -179,6 +179,14 @@ export const overwhereIiGarthMarsh = {
       fact: "Nala drew the rot from Garth's two ewes across the fold rail at once; they stand sound again.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Garth keeps an old boar spear over his door, and reached for it when the greymaws howled.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "By the evening of day one Wren is well enough to sit up at Marsh Croft's door with Burr.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

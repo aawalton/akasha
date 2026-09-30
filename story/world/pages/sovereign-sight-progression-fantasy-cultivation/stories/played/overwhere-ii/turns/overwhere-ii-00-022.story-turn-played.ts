@@ -51,6 +51,6 @@ export const overwhereIi00022 = {
     "lore/overwhere-ii-wendle-ford-folk",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
   endsAt: "2026-09-29T17:20:00.000Z",
 } as const satisfies StoryTurnPlayed
