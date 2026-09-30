@@ -18,7 +18,7 @@ export const overwhereI00047 = {
     "character-other/overwhere-i-pine-isle-drakewolf-five",
     "character-other/overwhere-i-pine-isle-drakewolf-six",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I get out of sight and cover myself in the muck to mask my scent, then careful circle around to the closest cover and get as close as I can without being detected.",
   beats: [
@@ -43,6 +43,6 @@ export const overwhereI00047 = {
     "lore/overwhere-i-the-greyfen-alpha",
     "place/overwhere-i-the-greyfen",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-01T13:02:00.000Z",
 } as const satisfies StoryTurnPlayed
