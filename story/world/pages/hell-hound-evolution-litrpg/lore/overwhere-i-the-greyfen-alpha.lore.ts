@@ -235,6 +235,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "Ghost-Eye stays on the east shore with the two biggest wolves, between her and the pups.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Six wolves, Levels 10 to 14, swim the channel and fan into a crescent to herd her toward deep water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
