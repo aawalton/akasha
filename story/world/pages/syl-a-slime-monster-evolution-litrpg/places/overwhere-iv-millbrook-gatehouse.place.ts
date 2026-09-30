@@ -169,6 +169,22 @@ export const overwhereIvMillbrookGatehouse = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Identify shows Dell Farrow as Human LV 11, Guard LV 8.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dell goes easy on a recruit for the first bout, then presses harder once she lands a touch.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Holt teaches by stopping a bout to move a recruit's feet or hands, then starting it again.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Breakfast after drill is porridge with a spoon of honey, and small beer.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Holt respects a recruit who gives drill her all, and says nothing of it aloud.",
       knowers: ["lore-disclosure/game-master"],
     },
