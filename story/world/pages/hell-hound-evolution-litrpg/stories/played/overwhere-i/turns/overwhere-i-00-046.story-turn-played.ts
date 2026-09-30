@@ -4,13 +4,14 @@ export const overwhereI00046 = {
   id: "01a0f3fb-6d6f-7046-a7b1-d8a4f04b4ab9",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-046",
+  cover: "image/image-9130b992583bb6e7",
   ownLength: 196,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 46,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I use my lenses to scout the camp again, counting to see if all of the wolves are accounted for and estimating distances.",
   beats: [
@@ -34,6 +35,11 @@ export const overwhereI00046 = {
     "place/overwhere-i-the-greyfen",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-01T12:36:00.000Z",
 } as const satisfies StoryTurnPlayed
