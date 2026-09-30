@@ -75,6 +75,10 @@ export const overwhereIHessaVane = {
       fact: "She came to the ford in patched green leathers, a longbow in hand and a spear across her back.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Asked where this is, she answers plainly and gives her name, then asks who killed the Brute.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
