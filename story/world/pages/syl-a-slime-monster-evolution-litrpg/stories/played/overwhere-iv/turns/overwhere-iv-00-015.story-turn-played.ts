@@ -17,7 +17,7 @@ export const overwhereIv00015 = {
     "character-other/overwhere-iv-dell",
     "character-other/overwhere-iv-ilsa-crane",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“That’s fine. What are they going to do. Rob me again? For now, we might as well get to sleep. Training in the morning, right?”",
   beats: [
@@ -48,6 +48,11 @@ export const overwhereIv00015 = {
     "place/overwhere-iv-millbrook-gatehouse",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-09-29T19:30:00.000Z",
 } as const satisfies StoryTurnPlayed
