@@ -4,13 +4,14 @@ export const overwhereI00014 = {
   id: "01a0f1a6-f5c4-7441-ac27-b3cd47b78143",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-014",
+  cover: "image/image-1d1b12c9a57a9226",
   ownLength: 373,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 14,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I watch her with a bored expression and walk back with the cart, then go with her to get the reward money.",
   beats: [
@@ -50,6 +51,6 @@ export const overwhereI00014 = {
     "place/overwhere-i-greyback-and-east-road",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T15:20:00.000Z",
 } as const satisfies StoryTurnPlayed
