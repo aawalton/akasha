@@ -123,6 +123,10 @@ export const overwhereITheGreyfen = {
       fact: "Jory wants neither the skin nor the bounty for the trap; she keeps both.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Jory's three whole traps sit 10, 25 and 50 yards up the channel from the first slide.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
