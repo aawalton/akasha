@@ -199,5 +199,9 @@ export const overwhereIiWendleFordFolk = {
       fact: "To Undertow, Col's rot is a coarse grey knot in his calf, easier to find than Tansy's.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Drawn clean, Col is gruff and grateful, and swears the watch owes Nala a debt.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
