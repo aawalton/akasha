@@ -4,13 +4,14 @@ export const overwhereIi00033 = {
   id: "01a0f383-25d6-7ccd-bf29-c412544b1408",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-033",
+  cover: "image/image-85ab5e92cf0878c2",
   ownLength: 213,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 33,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Up by Garth’s place. You’ll need to send a cart for the carcasses. I got the alpha and thinned the pack, but a few of them got away.”",
   beats: [
@@ -33,6 +34,11 @@ export const overwhereIi00033 = {
     "lore/overwhere-ii-wendle-ford-folk",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T08:15:00.000Z",
 } as const satisfies StoryTurnPlayed
