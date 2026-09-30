@@ -244,6 +244,18 @@ export const overwhereIiKeeperAnselm = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
+      fact: "Anselm is glad Nala chose a full letter, and writes it that night by rushlight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Anselm knows the Carrowmouth Charterstone gives marks only at Threllsnacht, nearly a year off.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Anselm expects the Keepers would teach Nala through the year until Threllsnacht, if she keeps near.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Anselm judges Nala's Undertow the greatest new Talent he has seen, and told her so.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
