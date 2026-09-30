@@ -11,4 +11,5 @@ export const overwhereIii00031 = {
   action:
     "“Did some harvesting for the Post, so I can pay my own way now. I’d happily buy some more clothes if you’re willing to sell cheap.”",
   lore: ["lore/overwhere-iii-bet-harrow"],
+  endsAt: "2026-09-30T18:35:00.000Z",
 } as const satisfies StoryTurnPlayed
