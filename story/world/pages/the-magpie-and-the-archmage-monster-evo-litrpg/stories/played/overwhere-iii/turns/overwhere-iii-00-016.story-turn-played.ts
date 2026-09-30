@@ -4,13 +4,14 @@ export const overwhereIii00016 = {
   id: "01a0f1ef-3a42-715d-8311-cd4705080ce1",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-016",
+  cover: "image/image-39f648361bfbfd5b",
   ownLength: 131,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 16,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I finish harvesting the four in this cluster, then follow the currents to find two more to finish off.",
   beats: [
@@ -30,6 +31,11 @@ export const overwhereIii00016 = {
   ],
   lore: ["lore/overwhere-iii-nala", "place/overwhere-iii-wrenwood"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T10:23:00.000Z",
 } as const satisfies StoryTurnPlayed
