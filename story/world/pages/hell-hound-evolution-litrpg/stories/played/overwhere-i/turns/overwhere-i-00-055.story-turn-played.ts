@@ -4,10 +4,13 @@ export const overwhereI00055 = {
   id: "01a0f461-9c03-7f53-8367-a325a4321807",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-055",
+  ownLength: 78,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 55,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I use an earth attunement to pull out the hard knots, curious to see what they might be.",
   beats: [
@@ -19,6 +22,8 @@ export const overwhereI00055 = {
   ],
   lore: [
     "lore/overwhere-i-fenwatch-2",
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
     "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-starfall-legacy-2",
     "lore/overwhere-i-the-western-march",
