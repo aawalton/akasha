@@ -16,7 +16,7 @@ export const overwhereIii00036 = {
     "character-other/overwhere-iii-brannagh-tull",
     "character-other/overwhere-iii-garrick-dole",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Gladly, I need to finish up with Garrick first, he’s got it bad, but I’ll be glad to heal Cob after.” I go and take another pass at healing Garrick.",
   beats: [
@@ -48,6 +48,11 @@ export const overwhereIii00036 = {
     "lore/overwhere-iii-nala-2",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-01T11:05:00.000Z",
 } as const satisfies StoryTurnPlayed
