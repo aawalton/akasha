@@ -11,4 +11,5 @@ export const overwhereI00034 = {
   action:
     "I attune water and grab wide, trying to find something that feels like the first one and pull it out.",
   lore: ["lore/overwhere-i-greyfen-beasts", "lore/overwhere-i-starfall-legacy"],
+  endsAt: "2026-09-30T10:55:00.000Z",
 } as const satisfies StoryTurnPlayed
