@@ -191,5 +191,9 @@ export const overwhereIiGreymaws = {
       fact: "Nala eased the she-wolf's chamber out whole; twice a common one's size, cracked by the spear.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "A whole Aberrant chamber can be filled with a Talent's own Water, and holds it for years.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
