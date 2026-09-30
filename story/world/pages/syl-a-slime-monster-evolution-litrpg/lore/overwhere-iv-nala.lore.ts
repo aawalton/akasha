@@ -120,6 +120,14 @@ export const overwhereIvNala = {
         "character-other/overwhere-iv-garrett-pell",
       ],
     },
+    {
+      fact: "Nala signed on as a recruit of the Millbrook watch and swore to keep the town's peace.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Nala bunks in the gatehouse, in Sergeant Holt's curtained corner, with watch kit and boots.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

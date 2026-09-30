@@ -25,11 +25,19 @@ export const overwhereIvBrennaHolt = {
     },
     {
       fact: "She would take a new woman recruit into her curtained corner and see her kitted out.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "She lost two fingers of her left hand to a goblin blade, and still holds a shield with it.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Sergeant Brenna Holt of the Millbrook watch is square-built, with a pale scar along her chin.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Brenna Holt's left hand is short two fingers, and she works it quick as anything.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Lore

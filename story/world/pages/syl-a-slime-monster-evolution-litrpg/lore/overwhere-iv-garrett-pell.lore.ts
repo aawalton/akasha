@@ -148,5 +148,13 @@ export const overwhereIvGarrettPell = {
         "character-other/overwhere-iv-garrett-pell",
       ],
     },
+    {
+      fact: "Garrett let Nala keep his coat, saying Millbrook is small and she will not lose him.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-garrett-pell",
+      ],
+    },
   ],
 } as const satisfies Lore

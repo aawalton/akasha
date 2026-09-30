@@ -47,5 +47,6 @@ export const overwhereIv00006 = {
     "place/overwhere-iv-millbrook-gatehouse",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-29T13:17:00.000Z",
 } as const satisfies StoryTurnPlayed
