@@ -38,7 +38,7 @@ export const overwhereIiiCorruption = {
     },
     {
       fact: "Their bites fester, ooze black sludge and lay the Cursed affliction.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Corrupted beasts shrug off arrows and blows, but dodge magic; holy magic kills them fast.",
