@@ -95,6 +95,10 @@ export const overwhereIiGoodyBrannoc = {
       fact: "Goody set a wide earthenware basin by Tansy's bed to hold the rot Nala draws.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Goody sniffed Tansy's bite after Nala's drawing and whispered, \"Clean.\"",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

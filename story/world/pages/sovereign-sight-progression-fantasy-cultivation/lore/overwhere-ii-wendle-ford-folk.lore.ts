@@ -135,5 +135,13 @@ export const overwhereIiWendleFordFolk = {
       fact: "At Goody's word Sedge Horne let Nala go, then asked if she could get the rest of the rot out.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Nala drew all of Tansy's rot; the black veins are gone and her bite is an ordinary wound.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Sedge Horne told Nala to name her price for saving Tansy: a silver bar, more, anything he has.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
