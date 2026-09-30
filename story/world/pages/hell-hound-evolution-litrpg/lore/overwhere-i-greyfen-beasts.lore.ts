@@ -339,6 +339,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "An awake reedlurker feels a sensing ripple as a shiver and freezes in its den; it does not bolt.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "From the first slide a ripple reaches the Level 9's den at 40 yards, not the Level 12's at 100.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
