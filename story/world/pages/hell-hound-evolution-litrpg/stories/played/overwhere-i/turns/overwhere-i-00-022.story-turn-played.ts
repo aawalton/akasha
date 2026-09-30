@@ -11,7 +11,7 @@ export const overwhereI00022 = {
   position: 22,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I switch to a thin spinning disk of water and use it as a saw blade to cut off just the head, then haul that back to the village.",
   beats: [
@@ -38,6 +38,11 @@ export const overwhereI00022 = {
     "place/overwhere-i-fenwatch",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/inventory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/memory",
+    "story-recorder/inventory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-09-30T07:57:00.000Z",
 } as const satisfies StoryTurnPlayed
