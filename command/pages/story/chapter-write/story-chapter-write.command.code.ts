@@ -20,7 +20,7 @@ const NAMED = [storyArgument] as const
 
 const PARTED = "/"
 
-export type Making = (story: string) => Promise<ChapterMade>
+type Making = (story: string) => Promise<ChapterMade>
 
 export async function storyChapterWrite(
   argv: readonly string[],
