@@ -235,5 +235,9 @@ export const overwhereIiWendleFordFolk = {
       fact: "Nala drew Pim's rot clean; Pim pressed on her a basket of six brown eggs and a crock of honey.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "The Reeve pays two silver a head for any greymaw brought in dead.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
