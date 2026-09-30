@@ -323,6 +323,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "Killing the Level 10 reedlurker raised Nala to Level 4.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "The fight's noise woke the Level 9; it lies awake and still in its dry den, not in the channel.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
