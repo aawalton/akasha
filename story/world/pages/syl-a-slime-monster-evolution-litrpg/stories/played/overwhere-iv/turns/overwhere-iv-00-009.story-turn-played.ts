@@ -10,7 +10,7 @@ export const overwhereIv00009 = {
   position: 9,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Thanks!” I go back and get my spear, then start carefully clearing slimes in the commons, focusing on practicing my spear thrusts.",
   beats: [
@@ -27,9 +27,9 @@ export const overwhereIv00009 = {
     "She fishes the core out with two fingers. The jelly nettles her skin; she wipes it on the grass.",
     "She goes slowly. She works on her stance, her grip, how far to step in before she thrusts.",
     "Every slime she nears does the same: goes still, then drifts to her. None of them flees.",
-    "The second kill is cleaner. By the fourth she is judging the core's depth by its colour.",
+    "The second kill is cleaner. By the fourth she can judge how deep the core sits.",
     "Each one opens its little window as it falls. Her body learns the thrust faster than she expects.",
-    "She takes seven in all, three small and four a size up, and never goes near the children's end.",
+    "She takes seven in all, every one of them small, and never goes near the children's end.",
     "After the seventh, the window stays, and a new line comes under it.",
     "<Racial Experience threshold reached. Human is now LV 2.>",
     "Warmth runs through her arms and legs, and the spear feels lighter. Her breathing steadies.",
