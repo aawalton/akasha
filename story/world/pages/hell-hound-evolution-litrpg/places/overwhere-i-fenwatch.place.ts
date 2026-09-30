@@ -187,6 +187,10 @@ export const overwhereIFenwatch = {
       fact: "Bet has a few tunics, leggings and cloaks made up, and can take them in to fit by dusk.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Tobin has talked of nothing but Nala all afternoon, and it makes his mother wary of her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
