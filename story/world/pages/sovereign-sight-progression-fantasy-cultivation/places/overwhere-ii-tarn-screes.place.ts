@@ -14,7 +14,7 @@ export const overwhereIiTarnScrees = {
     },
     {
       fact: "The greymaw den is a deep cleft in the screes, rank with rotten salt and strewn with sheep bones.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "By day the five greymaws left lie up in the den, sluggish and ill-tempered until dusk.",
