@@ -22,7 +22,7 @@ export const overwhereIiWendleFord = {
     },
     {
       fact: "At the Drowned Lantern a hot meal is one copper and a bed by the fire is two.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The shrine to Threll holds a tithe vessel of glowing Water, kept by Keeper Anselm.",
