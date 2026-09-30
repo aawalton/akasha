@@ -65,7 +65,7 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "Reed-cutters have seen pale lights moving in the deep fen at night, and call them marsh-ghosts.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "A reed-cutter pulled a skull with a faint light in one eye from a channel, and threw it back.",
