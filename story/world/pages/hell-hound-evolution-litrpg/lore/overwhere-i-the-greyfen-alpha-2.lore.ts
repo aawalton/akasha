@@ -139,7 +139,7 @@ export const overwhereITheGreyfenAlpha2 = {
     },
     {
       fact: "Ghost-Eye and Six hold the shore meanwhile; they still follow the pups west at about 14:30.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Spotting a flanker in the reeds before it strikes is a hard act; a ripple would feel it at 50 yards.",
