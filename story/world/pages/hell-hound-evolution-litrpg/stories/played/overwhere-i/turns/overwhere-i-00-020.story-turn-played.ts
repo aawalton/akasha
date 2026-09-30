@@ -4,13 +4,14 @@ export const overwhereI00020 = {
   id: "01a0f1f2-04b7-735f-8d87-1a3628d5c861",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-020",
+  cover: "image/image-b3e2e0065e00120d",
   ownLength: 327,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 20,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I drop the water orb for the sow, since I know I can reliably do two at once, and use the second as Air to speed up my movements, then kite the sows until the boar is dead, then repeat until either the sows give up, or all five are done.",
   beats: [
@@ -42,6 +43,11 @@ export const overwhereI00020 = {
   issues: ['"The old boar lies on his side in the mud, huge and grey and still." - Leave It Open'],
   lore: ["lore/overwhere-i-greyfen-beasts", "lore/overwhere-i-nala", "place/overwhere-i-fenwatch"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T07:40:00.000Z",
 } as const satisfies StoryTurnPlayed
