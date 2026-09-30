@@ -89,7 +89,7 @@ export type Unwinding = Rewinding & TurnUndoing
 
 const UNWOUND: Unwinding = { ...REWOUND, ...TURN_UNDOING }
 
-export function taken(argv: readonly string[], calledAs: string, root: string): Taken | Refusal {
+function taken(argv: readonly string[], calledAs: string, root: string): Taken | Refusal {
   const read = takenFor(argv, calledAs, page, NAMED)
   if ("refused" in read) return { refused: read.refused }
   const held = read.taken
@@ -112,7 +112,7 @@ export function taken(argv: readonly string[], calledAs: string, root: string): 
   return { turn, action }
 }
 
-export function rewound(turn: Turn, action: string): Readonly<Record<string, unknown>> {
+function rewound(turn: Turn, action: string): Readonly<Record<string, unknown>> {
   const values: Record<string, unknown> = {}
   for (const key of KEPT) {
     if (turn.value[key] !== undefined) values[key] = turn.value[key]
