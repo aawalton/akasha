@@ -206,6 +206,10 @@ export const overwhereIiiMerrowgateGuildPost = {
       fact: "A ringed adventurer may lodge in the post's upstairs rooms at 4 copper a night; one room is free.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
+    {
+      fact: "The post keeps two books behind the desk: a Wrenmark beast guide and the Guild's book of rules.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
