@@ -137,7 +137,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Dray fights close, catching points on his stone forearms and hitting like a falling wall.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray's skin turns an ordinary thrust, but one driven by Nala's strength and Undertow breaks it.",
