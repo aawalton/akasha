@@ -4,13 +4,14 @@ export const overwhereI00010 = {
   id: "01a0f17c-4913-7771-aa3f-95b301089e38",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-010",
+  cover: "image/image-460104bbca83a967",
   ownLength: 236,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 10,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Oh, that little thing? That was me. Thought it might be tasty. If you’ll help with transport, I’d be happy to contribute it for a feast.”",
   beats: [
@@ -39,6 +40,6 @@ export const overwhereI00010 = {
     "place/overwhere-i-greyfen-ford",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T11:12:00.000Z",
 } as const satisfies StoryTurnPlayed
