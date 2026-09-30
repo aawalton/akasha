@@ -10,4 +10,5 @@ export const overwhereIi00055 = {
   stepStatus: "step-status/game-master",
   action: "I ignore the pull for now and work my way back down to report back on what I found.",
   lore: ["lore/overwhere-ii-reeve-corwin-dray-2", "place/overwhere-ii-wendle-ford"],
+  endsAt: "2026-10-02T19:00:00.000Z",
 } as const satisfies StoryTurnPlayed
