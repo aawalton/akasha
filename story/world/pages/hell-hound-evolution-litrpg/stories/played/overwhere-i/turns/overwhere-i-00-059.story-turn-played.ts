@@ -4,13 +4,14 @@ export const overwhereI00059 = {
   id: "01a0f485-ba39-7273-a6fe-5dfdf13e97f5",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-059",
+  cover: "image/image-dd8a5b7e8b25c182",
   ownLength: 253,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 59,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“Sure thing! I wanted a bath tonight anyway.”",
   beats: [
     "Nala and Rowan walk in along the Greyback as the light goes long and gold, Sedge ranging ahead.",
@@ -40,6 +41,11 @@ export const overwhereI00059 = {
     "place/overwhere-i-greyback-and-east-road",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-01T17:50:00.000Z",
 } as const satisfies StoryTurnPlayed
