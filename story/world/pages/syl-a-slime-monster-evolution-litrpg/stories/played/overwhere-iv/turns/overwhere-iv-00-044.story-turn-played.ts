@@ -11,7 +11,7 @@ export const overwhereIv00044 = {
   position: 44,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“Great! I’ll read the handbook first.”",
   beats: [
     '"Great! I\'ll read the handbook first." Nala carries it to the hearth table and opens it.',
@@ -39,6 +39,11 @@ export const overwhereIv00044 = {
     "lore/overwhere-iv-nala-2",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+    "story-recorder/memory",
+  ],
   endsAt: "2026-10-02T10:38:00.000Z",
 } as const satisfies StoryTurnPlayed

@@ -114,7 +114,11 @@ export const overwhereIvIlsaCrane2 = {
     },
     {
       fact: "The handbook lists Spellblade among the intermediate classes, and says little else of it.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
     },
     {
       fact: "Ilsa would point Nala to Sister Anwen, who keeps the shrine's books.",
@@ -122,6 +126,14 @@ export const overwhereIvIlsaCrane2 = {
         "lore-disclosure/game-master",
         "character-other/overwhere-iv-ilsa-crane",
         "character-player/overwhere-iv-nala",
+      ],
+    },
+    {
+      fact: "Ilsa watched Nala read the handbook and told her she can't have; folk don't read that fast.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
       ],
     },
   ],
