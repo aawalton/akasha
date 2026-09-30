@@ -9,4 +9,5 @@ export const otherwhereIiNala = {
   minValue: 0,
   maxValue: 20,
   history: "jsonl",
+  displayOrder: 3,
 } as const satisfies OtherwhereIiStamina
