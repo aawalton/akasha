@@ -90,7 +90,11 @@ export const overwhereIiiCrookAndCandle = {
     },
     {
       fact: "Tonight the common room talks of the red-haired healer; some raise a cup to her as she comes in.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-bet-harrow",
+      ],
     },
   ],
   secrets: "jsonl",
