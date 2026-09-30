@@ -24,5 +24,9 @@ export const overwhereIFenwatch2 = {
       fact: "Next morning Hessa Vane rides in from the ford, having heard of Ghost-Eye, to see Nala for herself.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At 16:30 on day 3 Nala came in muck-caked; folk stared, and Garrick asked where she'd been all day.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
