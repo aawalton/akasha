@@ -11,4 +11,5 @@ export const overwhereIii00039 = {
   action:
     "“Are there any books in town? I’d like to spend the afternoon learning, and I’d hate to pester people with questions if I don’t need to.”",
   lore: ["place/overwhere-iii-merrowgate", "place/overwhere-iii-merrowgate-guild-post"],
+  endsAt: "2026-10-01T12:27:00.000Z",
 } as const satisfies StoryTurnPlayed
