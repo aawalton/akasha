@@ -1,1 +1,2 @@
 {"check":"world-check/overwhere-iv-time-passing","reading":{"from":"2026-10-01T15:54:00.000Z","minutes":1041},"answered":{"endsAt":"2026-10-02T09:15:00.000Z","day":4,"light":"day"}}
+{"check":"world-check/overwhere-iv-needs","reading":{"hoursSinceMeal":0.75,"hoursSinceDrink":0.5,"hoursAwake":3.75,"cold":false},"answered":{"hunger":"fed","thirst":"quenched","fatigue":"rested","chilled":false,"penalty":0}}
