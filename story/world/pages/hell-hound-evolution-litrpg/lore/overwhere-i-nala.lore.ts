@@ -253,5 +253,9 @@ export const overwhereINala = {
       fact: "Water held over a beast's head wounds it not; it drops senseless in two minutes and dies in three.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A water sphere is a working like any other: two at once at rank 1, renewed each minute at full cost.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
