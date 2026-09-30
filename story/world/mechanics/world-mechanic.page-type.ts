@@ -67,6 +67,7 @@ export const worldMechanic = {
     "text-property/reference-kind",
     "text-property/to-slug",
     "text-property/wording",
+    "boolean-property/unrevealed",
   ],
   properties: [
     { pageProperty: "relation-property/world", required: false, many: false },
@@ -85,6 +86,7 @@ export const worldMechanic = {
       maxCount: null,
     },
     { pageProperty: "page-property-entry/references", required: false, many: false },
+    { pageProperty: "boolean-property/unrevealed", required: false, many: false },
   ],
   decisions: [
     {

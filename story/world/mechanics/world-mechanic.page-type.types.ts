@@ -3,6 +3,7 @@ import type { Aliases } from "akasha/story/world/mechanics/properties/aliases.te
 import type { EvolvesFromSlugs } from "akasha/story/world/mechanics/properties/evolves-from-slugs.multi-relation-property.types.ts"
 import type { EvolvesToSlugs } from "akasha/story/world/mechanics/properties/evolves-to-slugs.multi-relation-property.types.ts"
 import type { References } from "akasha/story/world/mechanics/properties/references.page-property-entry.types.ts"
+import type { Unrevealed } from "akasha/story/world/mechanics/properties/unrevealed.boolean-property.types.ts"
 import type { AppearanceCount } from "akasha/story/world/properties/appearance-count.number-property.types.ts"
 import type { World } from "akasha/story/world/stories/played/properties/world.relation-property.types.ts"
 
@@ -13,4 +14,5 @@ export type WorldMechanic = Page & {
   evolvesFromSlugs?: EvolvesFromSlugs
   evolvesToSlugs?: EvolvesToSlugs
   references?: References
+  unrevealed?: Unrevealed
 }
