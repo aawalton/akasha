@@ -4,13 +4,14 @@ export const overwhereIv00023 = {
   id: "01a0f379-bf58-7d71-bc7e-746bbb02abb4",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-023",
+  cover: "image/image-8bd4f60542124c8c",
   ownLength: 182,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 23,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“How many? If it’s less than three I think I could take them.”",
   beats: [
     '"How many?" Nala asks. "If it\'s less than three, I think I could take them."',
@@ -26,6 +27,11 @@ export const overwhereIv00023 = {
   ],
   lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-hobb-farm"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T18:12:00.000Z",
 } as const satisfies StoryTurnPlayed
