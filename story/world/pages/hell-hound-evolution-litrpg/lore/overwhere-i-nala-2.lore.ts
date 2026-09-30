@@ -12,5 +12,9 @@ export const overwhereINala2 = {
       fact: "Nala's earth-and-water sensing ripple reaches about fifty yards; past that it blurs.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Killing the Level 12 reedlurker at 11:09 on day 2 raised Nala to Level 5.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
