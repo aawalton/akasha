@@ -155,6 +155,10 @@ export const overwhereIiGarthMarsh = {
       fact: "Garth has agreed to leave Wren and walk Nala to the Ford now, to speak for her to Goody Brannoc.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Garth says Goody burns every poultice that has touched rot, in a hot fire, and never reuses one.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
