@@ -10,7 +10,7 @@ export const overwhereI00054 = {
   position: 54,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I take the tokens for additional proof and then attune earth and air to scan the content of the den for any remaining wolves.",
   beats: [
@@ -30,6 +30,6 @@ export const overwhereI00054 = {
     "lore/overwhere-i-starfall-legacy-2",
     "place/overwhere-i-the-greyfen",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-01T13:55:00.000Z",
 } as const satisfies StoryTurnPlayed
