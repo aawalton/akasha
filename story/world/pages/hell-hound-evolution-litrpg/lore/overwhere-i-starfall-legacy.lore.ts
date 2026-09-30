@@ -162,7 +162,7 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "On dry ground the air-and-water skim has nothing to ride and gives no speed.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "A hot wind at her back pushes her no faster than plain wind, and scorches the ground behind her.",
