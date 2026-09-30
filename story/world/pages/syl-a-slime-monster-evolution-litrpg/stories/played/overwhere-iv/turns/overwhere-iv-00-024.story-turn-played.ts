@@ -10,7 +10,7 @@ export const overwhereIv00024 = {
   position: 24,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Okay, maybe wolves, maybe goblins or something similar. Point me where to go, and I’ll take a look.” Once I know where to go, I stay in that direction and practice combining my Dimensional Magic with the spear, jumping the spear forward beyond its normal reach.",
   beats: [
@@ -24,14 +24,14 @@ export const overwhereIv00024 = {
     "She grips harder. Thrust, and let the click drop right as her arms reach full length.",
     "The spearpoint lands a foot past where her arms can reach. Splinters fly off the post. It works.",
     "The jar runs up both wrists, like she hit the post with a hammer instead. She shakes her hands out.",
-    "Again. And again. By the fifth thrust the click meets the thrust every time. Clean. A foot farther.",
-    "The warmth behind her ribs runs about half now. Her wrists ache. She stops there.",
+    "Three more thrusts. By the fifth and last, the click meets the thrust. Clean. A foot farther.",
+    "Five folds spent. The warmth behind her ribs runs a little under half. Her wrists ache.",
     "At the wall, by a gap where stones have fallen, the mud is churned. She crouches to look.",
     "Tracks, small and bare-toed, with long narrow toes. No paws. A clump of torn fleece in the mud.",
     "Out past the gap, from the black of the Tangle, something moves. Two small shapes, bent low.",
-    "They come out of the trees toward the gap, quick and quiet. Thirty paces off, and closing.",
+    "They come out of the trees toward the gap, quick and quiet, eyes on the sheep. Thirty paces off.",
     "Child-sized, grey-green skin, dressed in hide scraps. One carries a flint-tipped spear.",
-    "The other has a rusty knife, and is grinning at the sheep in the next field. Neither has seen her.",
+    "The other has a rusty knife. It grins at the sheep in the near field, and licks its teeth.",
   ],
   issues: [
     '"They haven\'t seen you." - No Prompt',
