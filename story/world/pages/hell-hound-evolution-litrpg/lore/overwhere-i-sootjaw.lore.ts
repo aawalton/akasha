@@ -139,6 +139,10 @@ export const overwhereISootjaw = {
       fact: "Stewed long, Sootjaw's tough meat would feed half of Fenwatch.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Skinned, the hide is slit belly to throat and down each leg, then worked off with a knife.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
