@@ -187,6 +187,10 @@ export const overwhereIiGarthMarsh = {
       fact: "By the evening of day one Wren is well enough to sit up at Marsh Croft's door with Burr.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Garth's boar spear is ash with a plain iron head and a crossbar below the blade.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
