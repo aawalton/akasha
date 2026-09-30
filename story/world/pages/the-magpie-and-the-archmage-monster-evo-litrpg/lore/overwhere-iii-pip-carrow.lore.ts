@@ -91,6 +91,10 @@ export const overwhereIiiPipCarrow = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "Just after noon on day five Pip runs to the Post: Brannagh's bench is full, asking for the healer.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-pip-carrow"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
