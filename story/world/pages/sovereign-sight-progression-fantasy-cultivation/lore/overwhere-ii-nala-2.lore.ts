@@ -112,5 +112,29 @@ export const overwhereIiNala2 = {
       fact: "Nala's refined arms and legs came through a thirty-foot slide on the scree unmarked.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Refining over raw, scraped skin heals it first, which slows the work and doubles the sting.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Talking while refining splits Nala's hold; at the hard parts the tide wavers unless she goes quiet.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Refining her throat, where a thread ends, jolts like her soles did, and must be ridden the same.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The skin round Nala's eyes and lips burns worst of all to refine, and her eyes stream.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Trunk, neck and head together wear Nala's mind as much as two limbs, the day's whole share.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "With all her skin refined whole, Nala's skin turns a knife as a mail shirt would.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
