@@ -135,6 +135,10 @@ export const overwhereIFenwatch = {
       fact: "Villagers call the Depths simply the Below, and hush children who ask about it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Fenwatch, the hunter's village, lies an hour's walk east over the ridge, the nearest folk.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
