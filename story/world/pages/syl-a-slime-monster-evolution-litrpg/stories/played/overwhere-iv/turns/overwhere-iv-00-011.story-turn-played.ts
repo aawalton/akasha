@@ -10,7 +10,7 @@ export const overwhereIv00011 = {
   position: 11,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Well, isn’t that interesting.” I spend the rest of the time until dinner pushing and pulling to practice and train my dimensional magic, then go to dinner.",
   beats: [
@@ -32,8 +32,8 @@ export const overwhereIv00011 = {
     "She tries the far slime again, the one past twenty strides. This time the warmth takes hold.",
     "The warmth runs thin again soon after. She sits and rests, and watches the sky go gold.",
     "The bells in town ring the evening. She shoulders the spear and walks back through the gate.",
-    "The mess smells of barley and onions: a long table, a cauldron on the hearth, bread under a cloth.",
-    "Sergeant Holt is at the table, with Wat and two watchmen: one lanky and loud, one grey and quiet.",
+    "The mess smells of barley and onions: long tables, a cauldron on the hearth, bread under a cloth.",
+    "Holt sits at the nearest table with Wat and two watchmen, one lanky and loud, one grey and quiet.",
     'Holt shoves a bowl and a heel of bread at her. "Eat. You look like you\'ve been working."',
     "Nala's stomach answers for her. She has not eaten since she woke.",
     'Wat leans over the table, grinning. "Dunny Carrow says you speared seven slimes like a born hand."',
