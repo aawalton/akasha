@@ -107,6 +107,10 @@ export const overwhereITheGreyfen = {
       fact: "The eel trap Nala burst was one of Jory's good ones, and one of the few he has left.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Jory calls the trap even: one dead reedlurker is worth far more to him than a wicker trap.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
