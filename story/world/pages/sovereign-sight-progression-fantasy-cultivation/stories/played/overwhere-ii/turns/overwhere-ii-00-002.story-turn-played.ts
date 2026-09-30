@@ -10,7 +10,7 @@ export const overwhereIi00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I focus on the feeling in my chest and see if I can a actively cycle it through my system",
   beats: [
@@ -33,8 +33,8 @@ export const overwhereIi00002 = {
     "It is like a dead patch in a sense she did not know she had; everything else feels alive.",
     "She pushes the flow down the threads into her palms and holds it there.",
     "It gathers and presses to get out, like a breath held too long; her palms tingle, cold.",
-    "She can hold it back; it waits on her, straining, ready to go wherever she lets it.",
-    "Nala sits in the hay with her hands full of something that wants out, and the choice is hers.",
+    "She can hold it back; it strains against her like a dog on a short lead.",
+    "The longer she holds it, the harder it presses, and the colder her palms prickle.",
   ],
   issues: [
     '"You sit in the hay with your hands full of something that wants out." - Leave It Open',
