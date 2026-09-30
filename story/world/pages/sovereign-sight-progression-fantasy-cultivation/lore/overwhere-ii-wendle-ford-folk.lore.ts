@@ -201,7 +201,7 @@ export const overwhereIiWendleFordFolk = {
     },
     {
       fact: "Drawn clean, Col is gruff and grateful, and swears the watch owes Nala a debt.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Reeve Oakes cannot keep a tale; the whole valley will hear of Col's healing by nightfall.",
