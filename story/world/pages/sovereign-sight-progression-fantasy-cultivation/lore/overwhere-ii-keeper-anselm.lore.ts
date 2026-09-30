@@ -99,6 +99,10 @@ export const overwhereIiKeeperAnselm = {
       fact: "Anselm knows the Keepers' teaching on Talents, Depths and Descent, and would gladly share it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Anselm asked Nala to come to the shrine tomorrow, to be taught what he knows.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
