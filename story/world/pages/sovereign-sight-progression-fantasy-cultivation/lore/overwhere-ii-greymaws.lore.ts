@@ -111,5 +111,9 @@ export const overwhereIiGreymaws = {
       fact: "After three greymaws fell, the she-wolf scented the air and started down toward Nala.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Pushed back while drained, the she-wolf's charge slows and her legs go heavy.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
