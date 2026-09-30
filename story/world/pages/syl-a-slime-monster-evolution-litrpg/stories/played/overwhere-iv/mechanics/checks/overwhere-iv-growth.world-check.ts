@@ -167,6 +167,16 @@ export const overwhereIvGrowth = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Spellblade reveals nothing more until LV 5; each level between gives only its Skill Point.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A class level changes only the class level page; the class held page stays as it is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A skill rises by earnest uses: one scene where it bore on an outcome that mattered.",
     },
     {
