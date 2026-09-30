@@ -151,6 +151,10 @@ export const overwhereISootjaw = {
       fact: "The burn hole through its chest spoils part of the pelt, which now fetches three silver.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Its heart is small and hard; hunters leave a Brute's guts in the water for the eels.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
