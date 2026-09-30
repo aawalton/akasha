@@ -38,5 +38,6 @@ export const overwhereIi00004 = {
     "lore/overwhere-ii-talents-and-scope",
     "place/overwhere-ii-tern-hollow",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T06:54:00.000Z",
 } as const satisfies StoryTurnPlayed
