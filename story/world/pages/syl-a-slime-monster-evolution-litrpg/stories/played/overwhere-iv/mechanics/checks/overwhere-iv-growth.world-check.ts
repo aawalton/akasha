@@ -178,5 +178,35 @@ export const overwhereIvGrowth = {
       statement:
         'The reading is `{"character":"...","gains":[{"kind":"experience","track":"race",...}]}`.',
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An experience or level page's slug ends in its track: race or class.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An experience page's most is what the next level takes, as this check states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Experience and levels rise only as this check answers, and a level spends it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Her status shows the race level as Human LV 2, and a class as Mage LV 3.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A townsman is race LV 5 to 15; a guard or hunter 15 to 30; a gold adventurer 30 up.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every change in experience or level is written with a line of its history before the turn moves on.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Experience never shows as a number; the System says only: Experience gained.",
+    },
   ],
 } as const satisfies WorldCheck

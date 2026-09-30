@@ -82,5 +82,39 @@ export const overwhereIvHarm = {
       statement:
         'The reading is `{"force":"solid","landed":"success","ward":0,"health":30,"spared":true}`.',
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Nala's most health is 30 at Human LV 1, and five more for each racial level after.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A common beast or a townsman has 8 to 15; a seasoned fighter 20 to 40.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A monster has about its level times three, and a boss of its kind twice that.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An hour of rest gives back two health; a night's sleep gives back ten.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Healing magic or a healing potion gives back what its maker's skill allows.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "At nought a character is down: dead if the foe meant it, else out of the fight.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every change in health is written on its page and a line of its history before the turn moves on.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Health never shows as a number; the prose shows it as pain, blood and weariness.",
+    },
   ],
 } as const satisfies WorldCheck

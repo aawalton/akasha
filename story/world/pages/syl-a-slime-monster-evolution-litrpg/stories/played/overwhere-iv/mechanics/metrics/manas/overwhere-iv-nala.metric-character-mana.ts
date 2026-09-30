@@ -1,8 +1,8 @@
-import type { OverwhereIvMana } from "akasha/story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/mechanics/metrics/resources/mana/overwhere-iv-mana.page-type.types.ts"
+import type { MetricCharacterMana } from "akasha/story/world/mechanics/metrics/metric-character/resource/mana/metric-character-mana.page-type.types.ts"
 
 export const overwhereIvNala = {
   id: "01a0ed22-eab7-7516-91bb-48ce0ce2b412",
-  type: "page-type/overwhere-iv-mana",
+  type: "page-type/metric-character-mana",
   slug: "overwhere-iv-nala",
   character: "character-player/overwhere-iv-nala",
   value: 13,
@@ -11,4 +11,4 @@ export const overwhereIvNala = {
   history: "jsonl",
   displayOrder: 2,
   revealedAs: "The warmth runs thin again, a hearth burned down to coals",
-} as const satisfies OverwhereIvMana
+} as const satisfies MetricCharacterMana

@@ -101,5 +101,39 @@ export const overwhereIvActionCheck = {
       decisionKind: "decision-kind/departure",
       statement: 'The reading is `{"band":"easy","bonuses":[{"from":"legacy affinity","by":4}]}`.',
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Nala's most mana is 40, five more per racial level past the first, three per Dimension Magic level.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A spell spends the mana cost its skill page states, once each time it is cast.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A spell held open spends its cost again for each span its duration states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An hour of rest gives back a fifth of her most mana; a night's sleep all of it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Emptied, she aches behind the eyes, and her acts take minus two for an hour.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "She cannot spend mana she does not hold.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every change in mana is written on its page and a line of its history before the turn moves on.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Mana never shows as a number; she feels it as warmth running full or thin.",
+    },
   ],
 } as const satisfies WorldCheck
