@@ -24,7 +24,11 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "It opens at the dawn bell and shuts at the dusk bell; Marda Hesk is at the desk all day.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "Temporary registration is free: a form, and a mana signature card to light.",
@@ -136,7 +140,11 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "Marda would let Nala keep the glimmerstone from any bounty stone she cleans.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "The currents inside the post are thin threads of blue and yellow, with no white-gold.",
@@ -144,7 +152,11 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "Marda keeps the paled stag stone apart in the lead box, for Nala to come back to between rests.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
   secrets: "jsonl",

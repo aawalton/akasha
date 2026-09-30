@@ -250,12 +250,10 @@ export const overwhereIiiNala = {
       fact: "Nala cut fourteen good frostcaps in well under an hour and wraps them in her shirt front.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
-
     {
       fact: "Cleared: [Mana Weaver – At [Basic] level, you see currents and auras. They lend your workings mana.]",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
-
     {
       fact: "An antlered rabbit's bite opened her forearm deep enough to bleed down her wrist.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
@@ -268,7 +266,6 @@ export const overwhereIiiNala = {
       fact: "A white-gold thread is slow and warm; stitched into a wound, it closes it over a few minutes.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
-
     {
       fact: "The antlered rabbit's bite on her forearm has closed to a raw pink seam and no longer bleeds.",
       knowers: [
@@ -308,6 +305,14 @@ export const overwhereIiiNala = {
     {
       fact: "Nala's own mana runs white-gold; pushed into a working, it serves as a holy thread.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "Nala has half cleaned one bounty stone, and thinks a rest or two will let her finish it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
   ],
   secrets: "jsonl",
