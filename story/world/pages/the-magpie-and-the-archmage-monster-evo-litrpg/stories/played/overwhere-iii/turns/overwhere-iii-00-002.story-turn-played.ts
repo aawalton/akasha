@@ -33,5 +33,6 @@ export const overwhereIii00002 = {
     "He holds the coat out to her and waits, the mules stamping and blowing in the cold.",
   ],
   lore: ["lore/overwhere-iii-nala", "lore/overwhere-iii-tobin-wick"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T16:38:00.000Z",
 } as const satisfies StoryTurnPlayed
