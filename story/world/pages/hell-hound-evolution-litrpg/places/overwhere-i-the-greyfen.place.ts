@@ -127,6 +127,10 @@ export const overwhereITheGreyfen = {
       fact: "Jory's three whole traps sit 10, 25 and 50 yards up the channel from the first slide.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The ruined trap, owned and squared, moves no regard; Fenwatch's regard for Nala stays at 5.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
