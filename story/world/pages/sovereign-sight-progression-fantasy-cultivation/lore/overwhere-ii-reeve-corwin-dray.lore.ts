@@ -237,7 +237,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Dray fears something worse drove the greymaws off the Whitecombs, and that it will follow.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray has no one fit to climb the Whitecombs and see what stirs there; he would pay well for it.",
