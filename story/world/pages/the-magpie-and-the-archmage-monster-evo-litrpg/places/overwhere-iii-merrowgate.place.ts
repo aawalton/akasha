@@ -126,6 +126,10 @@ export const overwhereIiiMerrowgate = {
         "character-other/overwhere-iii-tobin-wick",
       ],
     },
+    {
+      fact: "At the town wall the road's current thins and frays, as if the stone were in its way.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
