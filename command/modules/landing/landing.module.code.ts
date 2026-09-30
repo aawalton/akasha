@@ -427,5 +427,8 @@ async function landingHeld(
   if ("refusals" in landed) return landed
   phased("git index", () => staging.run?.())
   const { cleared, ...ended } = landed
-  return { ...phased("finish", () => finishedOver(root, cleared, moves, homedir())), ...ended }
+  return {
+    ...phased("finish", () => finishedOver(root, cleared, moves, homedir(), ended)),
+    ...ended,
+  }
 }

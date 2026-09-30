@@ -1,4 +1,7 @@
-import { editsRepointed } from "akasha/command/modules/edits-repointing/edits-repointing.module.code.ts"
+import {
+  editsRepointed,
+  type Landed,
+} from "akasha/command/modules/edits-repointing/edits-repointing.module.code.ts"
 import {
   type Linking,
   linkedOver,
@@ -26,9 +29,10 @@ export function finishedOver(
   root: string,
   cleared: readonly string[],
   moves: readonly FileMove[],
-  home: string
+  home: string,
+  landed: Landed | null = null
 ): Finished {
-  for (const one of editsRepointed(root, moves)) process.stderr.write(`${one}\n`)
+  for (const one of editsRepointed(root, moves, landed)) process.stderr.write(`${one}\n`)
   const elsewhere = ranElsewhere(root, home)
   if (elsewhere !== null) {
     return { cleared, linked: NOTHING_LINKED, placed: { said: [elsewhere], wrong: [] } }

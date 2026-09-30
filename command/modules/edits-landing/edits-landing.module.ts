@@ -42,6 +42,11 @@ export const editsLanding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A page git sees no rename of is found again by its id, and its files beside it with it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A body is formatted before that body is handed on.",
     },
     {

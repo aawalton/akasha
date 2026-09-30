@@ -12,6 +12,7 @@ import {
 import { bodyIn } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import { textIn } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { formattedBodies } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
+import { wentById } from "akasha/command/modules/edits-repointing/edits-repointing.module.code.ts"
 import type { FileMove } from "akasha/command/modules/path-moving/path-moving.module.code.ts"
 import { readFromIn } from "akasha/command/modules/read-stamping/read-stamping.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
@@ -132,7 +133,7 @@ function goneSaid(root: string, head: string, said: Said, over: BodyOf): readonl
       if (seen.has(path)) continue
       seen.add(path)
       if (over(path) !== null) continue
-      const to = renamedTo(root, head, path)
+      const to = renamedTo(root, head, path) ?? wentById(root, head, path)
       if (to !== null) notes.push(`\`${path}\` was renamed to \`${to}\` since it was read`)
     }
   }

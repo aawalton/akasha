@@ -12,8 +12,10 @@ import {
   followedIn,
   keptRepointedIn,
   movedPath,
+  movesById,
   repointed,
   repointedIn,
+  stemOf,
 } from "akasha/command/modules/edits-repointing/edits-repointing.module.code.ts"
 import { scratch } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 
@@ -76,7 +78,7 @@ test("a seat's and a subagent's drafted edits follow a page and its prose moved"
     { kind: "replace", path: OLD, contentFrom: "a", contentTo: "b" },
     { kind: "append", path: OLD_PROSE, content: "more\n" },
   ])
-  appendEdits(root, SUBAGENT, [{ kind: "remove", path: OLD_PROSE }])
+  appendEdits(root, SUBAGENT, [{ kind: "append", path: OLD_PROSE, content: "b\n" }])
 
   expect(repointedIn(root, [SEAT, SUBAGENT], MOVES)).toEqual([])
 
@@ -86,7 +88,9 @@ test("a seat's and a subagent's drafted edits follow a page and its prose moved"
       { kind: "append", path: NEW_PROSE, content: "more\n" },
     ],
   })
-  expect(editsIn(root, SUBAGENT)).toEqual({ rows: [{ kind: "remove", path: NEW_PROSE }] })
+  expect(editsIn(root, SUBAGENT)).toEqual({
+    rows: [{ kind: "append", path: NEW_PROSE, content: "b\n" }],
+  })
 })
 
 test("drafted edits naming no path moved are left as they are", () => {
@@ -169,7 +173,13 @@ function keptAt(root: string): string {
 test("a seat's records kept for its subagents are pointed again and keep who left them", () => {
   const root = rootFor()
   const at = keptAt(root)
-  const record = { kind: "remove", path: OLD, leftBy: "one-a1", carriedAt: "2026-09-28" }
+  const record = {
+    kind: "append",
+    path: OLD,
+    content: "a\n",
+    leftBy: "one-a1",
+    carriedAt: "2026-09-28",
+  }
   writeFileSync(at, `${JSON.stringify(record)}\nnot an edit\n`)
 
   expect(keptRepointedIn(root, [SEAT], MOVES)).toEqual([])
@@ -188,4 +198,82 @@ test("a seat's records naming no path moved are not written again", () => {
   keptRepointedIn(root, [SEAT], MOVES)
 
   expect(readFileSync(at, "utf8")).toBe(text)
+})
+
+const METRICS = "story/overwhere-i/mechanics/metrics"
+
+const MANA_WAS = `${METRICS}/resources/mana/pages/overwhere-i-nala.overwhere-i-mana.ts`
+
+const MANA_IS = `${METRICS}/manas/overwhere-i-nala.metric-character-mana.ts`
+
+const HISTORY_WAS = `${METRICS}/resources/mana/pages/overwhere-i-nala.overwhere-i-mana.history.jsonl`
+
+const HISTORY_IS = `${METRICS}/manas/overwhere-i-nala.metric-character-mana.history.jsonl`
+
+const NALA_ID = "01a0f000-0000-7000-8000-00000000000a"
+
+function pageBody(type: string): string {
+  return (
+    `export const overwhereINala = {\n  id: "${NALA_ID}",\n  type: "page-type/${type}",\n` +
+    `  slug: "overwhere-i-nala",\n} as const\n`
+  )
+}
+
+test("a page taken away and written again under its id elsewhere is moved, with its history", () => {
+  const gone = new Map([
+    [MANA_WAS, pageBody("overwhere-i-mana")],
+    [HISTORY_WAS, null],
+  ])
+  const put = new Map([[MANA_IS, pageBody("metric-character-mana")]])
+
+  expect(movesById(gone, put)).toEqual([
+    { from: MANA_WAS, to: MANA_IS },
+    { from: HISTORY_WAS, to: HISTORY_IS },
+  ])
+})
+
+test("a page written again under another id is no move", () => {
+  const gone = new Map([[MANA_WAS, pageBody("overwhere-i-mana")]])
+  const other = pageBody("metric-character-mana").replace(
+    NALA_ID,
+    "01a0f000-0000-7000-8000-0000000000bb"
+  )
+
+  expect(movesById(gone, new Map([[MANA_IS, other]]))).toEqual([])
+})
+
+test("a game master's kept append on the old history follows a page moved by its id", () => {
+  const root = rootFor()
+  appendEdits(root, SEAT, [{ kind: "append", path: HISTORY_WAS, content: "{}\n" }])
+  const moves = movesById(
+    new Map([
+      [MANA_WAS, pageBody("overwhere-i-mana")],
+      [HISTORY_WAS, null],
+    ]),
+    new Map([[MANA_IS, pageBody("metric-character-mana")]])
+  )
+
+  repointedIn(root, [SEAT], moves)
+
+  expect(editsIn(root, SEAT)).toEqual({
+    rows: [{ kind: "append", path: HISTORY_IS, content: "{}\n" }],
+  })
+})
+
+test("the landing's own edits taking the old page away are left as they are", () => {
+  const root = rootFor()
+  const rows: readonly FileChange[] = [
+    { kind: "remove", path: MANA_WAS },
+    { kind: "add", path: MANA_IS, content: pageBody("metric-character-mana") },
+  ]
+  appendEdits(root, SEAT, rows)
+
+  repointedIn(root, [SEAT], [{ from: MANA_WAS, to: MANA_IS }])
+
+  expect(editsIn(root, SEAT)).toEqual({ rows })
+})
+
+test("the stem of a page is its path without the ending, and a file beside it has none", () => {
+  expect(stemOf(MANA_IS)).toBe(`${METRICS}/manas/overwhere-i-nala.metric-character-mana`)
+  expect(stemOf(HISTORY_IS)).toBe(null)
 })

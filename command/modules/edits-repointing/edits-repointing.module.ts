@@ -54,7 +54,16 @@ export const editsRepointing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Edits holding a move the landing made are the landing's own and are left as they are.",
+        "A page the landing took away and wrote again under its same id elsewhere counts as moved.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The files beside a page moved that way count as moved with it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Edits moving or taking away a path the landing moved are the landing's own and stay as they are.",
     },
     {
       decisionKind: "decision-kind/departure",
