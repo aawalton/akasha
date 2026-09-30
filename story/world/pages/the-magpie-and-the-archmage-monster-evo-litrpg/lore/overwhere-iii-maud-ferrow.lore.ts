@@ -33,7 +33,7 @@ export const overwhereIiiMaudFerrow = {
       ],
     },
     {
-      fact: "Maud's nephew Wat has a blight scratch on his forearm, and she'd pay 10 copper to see it clean.",
+      fact: "Maud's nephew Cob has a blight scratch on his forearm, and she'd pay 10 copper to see it clean.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
