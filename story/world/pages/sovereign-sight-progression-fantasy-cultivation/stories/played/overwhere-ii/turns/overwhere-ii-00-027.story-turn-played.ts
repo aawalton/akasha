@@ -4,10 +4,13 @@ export const overwhereIi00027 = {
   id: "01a0f343-d1a5-7aa1-856c-017d2e5907cb",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-027",
+  ownLength: 260,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 27,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "While he works, I focus on settling and cleaning the restless brine first, then try again to push water into the wound.",
   beats: [
@@ -28,6 +31,6 @@ export const overwhereIi00027 = {
     "Garth: \"You're done in. You've been pulling rot out of folk since morning.\"",
     'Garth: "Let me bind it, and then you eat. Wren, fetch the clean linen from the chest."',
   ],
-  lore: ["lore/overwhere-ii-undertow"],
+  lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-undertow"],
   endsAt: "2026-09-29T18:22:00.000Z",
 } as const satisfies StoryTurnPlayed
