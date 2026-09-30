@@ -367,7 +367,7 @@ export const overwhereIiiBrannaghTull = {
     },
     {
       fact: "The receipt book's last third is draughts: mana draught, a sleeping draught, a fever tonic.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "By noon on day five Brannagh's bench is full of townsfolk with old scars, wanting a free mending.",
