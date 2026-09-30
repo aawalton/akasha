@@ -40,5 +40,9 @@ export const overwhereIStarfallLegacy = {
       fact: "Nala wove fire and wind into a hot, dry wind and dried her washed clothes in about three minutes.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "An earth-and-water weave sent out as a ripple comes back as a felt shape of hollows and bodies.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
