@@ -7,7 +7,8 @@ export const overwhereIi00033 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 33,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Up by Garth’s place. You’ll need to send a cart for the carcasses. I got the alpha and thinned the pack, but a few of them got away.”",
+  lore: ["lore/overwhere-ii-reeve-corwin-dray"],
 } as const satisfies StoryTurnPlayed
