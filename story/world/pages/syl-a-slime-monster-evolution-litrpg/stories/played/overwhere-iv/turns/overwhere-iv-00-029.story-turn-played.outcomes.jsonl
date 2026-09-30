@@ -4,3 +4,4 @@
 {"check":"world-check/overwhere-iv-standing","reading":{"character":"wren","kept":0,"heard":0,"shared":0,"helped":0,"crossed":0,"quotes":{}},"answered":{"earned":0,"lost":0,"change":0}}
 {"check":"world-check/overwhere-iv-standing","reading":{"character":"merrit","kept":0,"heard":0,"shared":0,"helped":0,"crossed":0,"quotes":{}},"answered":{"earned":0,"lost":0,"change":0}}
 {"check":"world-check/overwhere-iv-standing","reading":{"character":"orla","kept":0,"heard":0,"shared":0,"helped":0,"crossed":0,"quotes":{}},"answered":{"earned":0,"lost":0,"change":0}}
+{"check":"world-check/overwhere-iv-needs","reading":{"hoursSinceMeal":5,"hoursSinceDrink":2,"hoursAwake":7.5,"cold":false},"answered":{"hunger":"fed","thirst":"quenched","fatigue":"rested","chilled":false,"penalty":0}}
