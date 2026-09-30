@@ -55,6 +55,11 @@ export const overwhereIGrowth = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Its levels and stats raise most health, mana and stamina as the harm and action checks work them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A kill shows Foe Eliminated!, Prey Eliminated! or Great Foe Eliminated!, then Experience Gained!",
     },
     {
