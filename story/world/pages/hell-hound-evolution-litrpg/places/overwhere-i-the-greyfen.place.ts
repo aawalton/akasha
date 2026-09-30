@@ -213,7 +213,7 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "No wolf crosses her path between the pine island and Fenwatch on day 3.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "At about 13:50 on day 3 the pine island held no wolves.",
