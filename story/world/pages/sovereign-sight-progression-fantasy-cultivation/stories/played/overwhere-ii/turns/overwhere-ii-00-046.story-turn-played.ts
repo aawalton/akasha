@@ -4,13 +4,14 @@ export const overwhereIi00046 = {
   id: "01a0f418-810a-7135-882f-53e383cd4619",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-046",
+  cover: "image/image-a8591c4cb436fbbd",
   ownLength: 197,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 46,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“It just fit” I shrug. I check my Water level to see if I could do the other arm now. If so, I do.",
   beats: [
@@ -33,6 +34,11 @@ export const overwhereIi00046 = {
   ],
   lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2", "lore/overwhere-ii-undertow"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T16:32:00.000Z",
 } as const satisfies StoryTurnPlayed
