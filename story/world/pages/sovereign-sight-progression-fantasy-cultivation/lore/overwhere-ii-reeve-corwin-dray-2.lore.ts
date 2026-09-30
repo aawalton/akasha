@@ -45,7 +45,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray knows Crake rides with four men who carry saltsteel manacles and darts that choke Locks.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray does not know where Crake camps, only that the drover was robbed near Grey Shaw.",
