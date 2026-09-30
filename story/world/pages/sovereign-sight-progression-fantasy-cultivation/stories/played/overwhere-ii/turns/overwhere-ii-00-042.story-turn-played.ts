@@ -10,7 +10,7 @@ export const overwhereIi00042 = {
   position: 42,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Thank you for the offer, but I expect I’ll need larger challenges than I can find here to grow. If you have any larger issues I can take care of before I go, I’m willing, but after that I’ll be on my way. I’d also like to extract the chambers for the final five wolves ones they are carter back.”",
   beats: [
@@ -37,6 +37,6 @@ export const overwhereIi00042 = {
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-reeve-corwin-dray",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T15:13:00.000Z",
 } as const satisfies StoryTurnPlayed
