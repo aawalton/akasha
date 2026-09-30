@@ -4,13 +4,14 @@ export const overwhereIi00002 = {
   id: "01a0f13f-c38c-7005-a4e5-6360b4d0ca20",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-002",
+  cover: "image/image-47961421ebace7d3",
   ownLength: 431,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 2,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I focus on the feeling in my chest and see if I can a actively cycle it through my system",
   beats: [
@@ -40,8 +41,8 @@ export const overwhereIi00002 = {
     '"You sit in the hay with your hands full of something that wants out." - Leave It Open',
     '"ready to go wherever you send it" - No Prompt',
   ],
-  lore: ["lore/overwhere-ii-nala"],
+  lore: ["lore/overwhere-ii-garth-marsh", "lore/overwhere-ii-nala"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-29T06:45:00.000Z",
 } as const satisfies StoryTurnPlayed
