@@ -301,5 +301,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Antler Hall pays Ghost-Eye's bounty on the whole head; an eye and ears alone it will not take.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ghost-Eye's head weighs about thirty pounds; its whole body as much as three grown men.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
