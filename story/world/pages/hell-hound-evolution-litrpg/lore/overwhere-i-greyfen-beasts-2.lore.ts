@@ -104,5 +104,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "A beast that swallows a drake-pearl gains 30 greatest mana for good; Nala's hound nature counts.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Osric and the alchemists do not know a drake-pearl can be swallowed for lasting mana.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
