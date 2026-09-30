@@ -10,7 +10,7 @@ export const overwhereI00004 = {
   position: 4,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Oh, this is going to be fun! Let’s try that burst of speed.” I focus on attuning to air mana, imagining the air parting in front of me and pulling me forward as I run.",
   beats: [
@@ -29,12 +29,15 @@ export const overwhereI00004 = {
     "Over the far ridge the chimney smoke goes up thin into the pale red sky.",
     "The cart track waits: west into the dark pines behind her, east across the ford and up the ridge.",
   ],
+  issues: [
+    '"The cart track runs west into the dark pines behind you, and east across the ford" - No Prompt',
+  ],
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-sootjaw",
     "place/overwhere-i-greyback-and-east-road",
     "place/overwhere-i-greyfen-ford",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T10:14:00.000Z",
 } as const satisfies StoryTurnPlayed
