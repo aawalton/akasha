@@ -151,6 +151,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "A pair of old Grubboar tusks sells to carvers for two silver.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Cutting off both tusks with a fast water disc is an easy act, held one minute.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
