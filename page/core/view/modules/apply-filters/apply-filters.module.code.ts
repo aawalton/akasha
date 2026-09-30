@@ -17,9 +17,7 @@ export type FilterableRow = Readonly<Record<string, ReadonlyJSONValue>>
 
 type Row = Readonly<Record<string, ReadonlyJSONValue>>
 
-export type FilterReading =
-  | { readonly definition: PropertyDefinition }
-  | { readonly refused: string }
+type FilterReading = { readonly definition: PropertyDefinition } | { readonly refused: string }
 
 const RELATIONS: ReadonlySet<string> = new Set(["relation", "multi-relation"])
 
