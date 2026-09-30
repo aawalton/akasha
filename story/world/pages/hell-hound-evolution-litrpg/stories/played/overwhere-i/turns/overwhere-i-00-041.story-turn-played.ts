@@ -10,7 +10,7 @@ export const overwhereI00041 = {
   position: 41,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Thanks for the challenge! That was fun!” I go back to town for another bath and collect my pay for the lurkers, then ask around about the ghost wolves or some such with the larger bounty.",
   beats: [
@@ -39,6 +39,6 @@ export const overwhereI00041 = {
     "lore/overwhere-i-the-greyfen-alpha",
     "place/overwhere-i-fenwatch",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T13:02:00.000Z",
 } as const satisfies StoryTurnPlayed
