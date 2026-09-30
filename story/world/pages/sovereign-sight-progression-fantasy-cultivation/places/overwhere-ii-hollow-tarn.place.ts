@@ -44,6 +44,10 @@ export const overwhereIiHollowTarn = {
       fact: "The ice on the tarn broke up in one night at midwinter and has not formed since.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Within sight of Hollow Tarn, Nala's well stirs and leans toward the water, like a tide to the moon.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
