@@ -99,6 +99,10 @@ export const overwhereIAgatheMorrow = {
       fact: "The old boar's tusks alone are proof enough for her to pay its bounty.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The boar's hide and meat are Nala's; she'd buy the meat for the village at two silver.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
