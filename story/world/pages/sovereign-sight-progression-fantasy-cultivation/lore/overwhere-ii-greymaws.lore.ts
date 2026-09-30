@@ -67,5 +67,9 @@ export const overwhereIiGreymaws = {
       fact: "At dusk the white-eyed she-wolf leads three greymaws down on Marsh Croft; the rest stay above.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The she-wolf smells Nala's well like a wind off the sea, and comes for her before the sheep.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
