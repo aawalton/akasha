@@ -7,7 +7,8 @@ export const overwhereIii00030 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 30,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“I’m dry, but I’ll check in morning and night until you’re both clear. Ivy in the morning, Garrick at night. For now, I’m going to sleep.”",
+  lore: ["lore/overwhere-iii-brannagh-tull", "lore/overwhere-iii-cleansing-weave"],
 } as const satisfies StoryTurnPlayed
