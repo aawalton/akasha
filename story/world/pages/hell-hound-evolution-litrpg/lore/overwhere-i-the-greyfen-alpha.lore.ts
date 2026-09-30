@@ -211,6 +211,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "Past the hummocks the marsh is open; each fifty yards crept nearer is a hard act.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Within 150 yards a Drakewolf hears any quick splash in the marsh.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
