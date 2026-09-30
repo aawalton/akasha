@@ -10,7 +10,7 @@ export const overwhereI00060 = {
   position: 60,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“I’ll pay you two silver now for information on what a drake-pearl is good for. Is it something I could use?”",
   beats: [
@@ -28,6 +28,6 @@ export const overwhereI00060 = {
     "lore/overwhere-i-nala-2",
     "lore/overwhere-i-osric-fenn",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-01T18:00:00.000Z",
 } as const satisfies StoryTurnPlayed
