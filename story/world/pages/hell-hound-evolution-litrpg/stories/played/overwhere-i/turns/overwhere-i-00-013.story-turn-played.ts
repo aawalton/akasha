@@ -4,13 +4,14 @@ export const overwhereI00013 = {
   id: "01a0f19d-6c1e-7bbc-a22d-3ccc9e12a600",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-013",
+  cover: "image/image-e35f839bfe0b7661",
   ownLength: 173,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 13,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Ooh, those both sound fun! Maybe I’ll try one of them tomorrow. How far to Fenwatch? I’d like to pick up that reward for some pocket money. I always seem to run out so fast, though it’s never hard to get more.”",
   beats: [
@@ -31,9 +32,10 @@ export const overwhereI00013 = {
     "lore/overwhere-i-hessa-vane",
     "lore/overwhere-i-nala",
     "lore/overwhere-i-sootjaw",
+    "lore/overwhere-i-tobin-ashdown",
     "place/overwhere-i-fenwatch",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-29T11:28:00.000Z",
 } as const satisfies StoryTurnPlayed
