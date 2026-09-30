@@ -10,7 +10,7 @@ export const overwhereIii00009 = {
   position: 9,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I go in. “Do I need to register to take on a task from the board or can I just return when it is complete? I’m looking at gathering frostcap mushrooms. Also, anything you could tell me about them or the area where they are found would be appreciated.”",
   beats: [
@@ -30,7 +30,6 @@ export const overwhereIii00009 = {
     "She pushes both across the desk, with an inkpot and a pen.",
     "The form asks: name, age, race, class, skills, traits, and reason for joining.",
     '"Fill that in. Then hold the card and push your mana into it. It shows what you\'ve got."',
-    "Marda sits back and waits, watching her.",
   ],
   issues: [
     '"She sits back in her chair, watching you." - No Prompt',
