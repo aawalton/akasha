@@ -36,6 +36,10 @@ export const overwhereI00003 = {
     "The beast lies still in the far shallows, smoke drifting off its burnt fur.",
     "The ford is quiet again, but for the stream and the smell of scorched hair.",
   ],
+  issues: [
+    '"picturing a narrow beam of intense flame" - Nala (Alan) has total aphantasia and cannot picture',
+    '"exactly as she pictured it" - Nala has total aphantasia; she pictures nothing',
+  ],
   lore: [
     "lore/overwhere-i-greyfen-beasts",
     "lore/overwhere-i-nala",
@@ -43,5 +47,6 @@ export const overwhereI00003 = {
     "lore/overwhere-i-the-system",
     "place/overwhere-i-greyfen-ford",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-29T10:11:00.000Z",
 } as const satisfies StoryTurnPlayed
