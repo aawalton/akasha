@@ -18,7 +18,7 @@ export const overwhereIFenwatch2 = {
     },
     {
       fact: "News that Ghost-Eye is dead fills the Stag by nightfall of day 3; the hall toasts Nala.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Next morning Hessa Vane rides in from the ford, having heard of Ghost-Eye, to see Nala for herself.",
