@@ -162,5 +162,9 @@ export const overwhereIiiNala2 = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
+    {
+      fact: "[Mana Weaver – At [Adept] level, you see currents and auras far off. They lend your workings more.]",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
