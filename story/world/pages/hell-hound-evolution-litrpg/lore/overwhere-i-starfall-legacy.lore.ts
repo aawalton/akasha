@@ -284,5 +284,9 @@ export const overwhereIStarfallLegacy = {
       fact: "A water lens flashes in sunlight; a beast looking her way can catch the glint.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Starfall Surge rose to level 5 at about 16:05 on day 2, adding +3 Attunement.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
