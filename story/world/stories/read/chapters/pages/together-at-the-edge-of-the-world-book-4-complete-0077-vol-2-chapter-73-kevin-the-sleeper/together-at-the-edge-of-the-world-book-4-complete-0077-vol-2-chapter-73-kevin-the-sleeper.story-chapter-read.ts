@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0077Vol2Chapter73KevinTheSl
   id: "01a0f12a-b852-7b65-9a3c-adddfaa48b2e",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0077-vol-2-chapter-73-kevin-the-sleeper",
+  ownProgress: 2451,
   position: 77,
   publishedAt: "2025-11-02",
   unit: "unit/words",
