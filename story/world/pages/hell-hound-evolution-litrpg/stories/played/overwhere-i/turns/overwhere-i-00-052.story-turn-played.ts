@@ -17,7 +17,7 @@ export const overwhereI00052 = {
     "character-other/overwhere-i-pine-isle-drakewolf-seven",
     "character-other/overwhere-i-pine-isle-drakewolf-eight",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I start swimming forward into the middle of the open channel, until I get within 100 meters of one if the wolves, or one of them gets with 100 meters of me, then. Start firing bullets at them.",
   beats: [
@@ -49,6 +49,11 @@ export const overwhereI00052 = {
     "lore/overwhere-i-the-greyfen-alpha-2",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-01T13:36:00.000Z",
 } as const satisfies StoryTurnPlayed
