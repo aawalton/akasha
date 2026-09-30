@@ -7,7 +7,12 @@ export const overwhereIii00023 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 23,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I gather the rest of the good frostcaps, including a few extras of any are there, then pick up the two carcasses and drag them back to the Post, then pick up the third carcass I left there and drag all three to the place I was told would buy them",
+  lore: [
+    "lore/overwhere-iii-dunstan-harrow",
+    "place/overwhere-iii-merrowgate-guild-post",
+    "place/overwhere-iii-wrenwood",
+  ],
 } as const satisfies StoryTurnPlayed
