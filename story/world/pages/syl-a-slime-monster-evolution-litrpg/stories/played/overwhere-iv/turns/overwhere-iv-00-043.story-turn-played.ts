@@ -10,7 +10,7 @@ export const overwhereIv00043 = {
   position: 43,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“I’m think I’m done for today. Where in town might I find books to read? I worked my body and my mana, time to work my mind.”",
   beats: [
@@ -29,6 +29,6 @@ export const overwhereIv00043 = {
     "lore/overwhere-iv-nala-2",
     "place/overwhere-iv-millbrook-shrine",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-02T10:08:00.000Z",
 } as const satisfies StoryTurnPlayed
