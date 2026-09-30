@@ -4,10 +4,19 @@ export const overwhereIv00015 = {
   id: "01a0f221-0045-7aa8-afd1-f56eeae3faad",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-015",
+  ownLength: 277,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 15,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iv-nala",
+    "character-other/overwhere-iv-brenna-holt",
+    "character-other/overwhere-iv-wat",
+    "character-other/overwhere-iv-dell",
+    "character-other/overwhere-iv-ilsa-crane",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "“That’s fine. What are they going to do. Rob me again? For now, we might as well get to sleep. Training in the morning, right?”",
   beats: [
@@ -28,6 +37,10 @@ export const overwhereIv00015 = {
     'A pause. "I\'ve seen slimes follow someone before. Once. Years back."',
     "Through the gap at the curtain's edge, she can see his grey shape. He waits, and does not go.",
   ],
-  lore: ["lore/overwhere-iv-oswin-pike", "place/overwhere-iv-millbrook-gatehouse"],
+  lore: [
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-oswin-pike",
+    "place/overwhere-iv-millbrook-gatehouse",
+  ],
   endsAt: "2026-09-29T19:30:00.000Z",
 } as const satisfies StoryTurnPlayed
