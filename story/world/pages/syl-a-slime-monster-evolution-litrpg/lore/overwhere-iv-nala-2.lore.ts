@@ -36,5 +36,19 @@ export const overwhereIvNala2 = {
         "lore/overwhere-iv-brookside-four",
       ],
     },
+    {
+      fact: "Nala's blunt spear touched Dell's ribs in sparring; Holt called it hers, and nodded to her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-dell",
+        "character-other/overwhere-iv-brenna-holt",
+        "character-other/overwhere-iv-wat",
+      ],
+    },
+    {
+      fact: "Nala's legs are stronger now; on the third dawn she ran her laps mid-pack, not last.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore

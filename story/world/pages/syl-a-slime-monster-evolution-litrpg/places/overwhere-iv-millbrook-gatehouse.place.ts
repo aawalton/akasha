@@ -258,15 +258,28 @@ export const overwhereIvMillbrookGatehouse = {
     },
     {
       fact: "Dell scoffs that a recruit who limped her laps never drove off two goblins.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-dell",
+      ],
     },
     {
       fact: "Hearing of the goblins, Holt pairs Nala with Dell again on the third dawn, to see.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
+        "character-other/overwhere-iv-dell",
+      ],
     },
     {
       fact: "Stung by the goblin talk, Dell goes hard from the first exchange on the third dawn.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-dell",
+      ],
     },
   ],
 } as const satisfies Place

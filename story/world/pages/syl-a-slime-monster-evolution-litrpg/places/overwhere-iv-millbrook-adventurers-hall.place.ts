@@ -321,5 +321,13 @@ export const overwhereIvMillbrookAdventurersHall = {
         "character-other/overwhere-iv-ilsa-crane",
       ],
     },
+    {
+      fact: "A fresh notice by the hall counter reads GOBLINS AT HOBB'S. 1 SILVER AN EAR.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
+    },
   ],
 } as const satisfies Place

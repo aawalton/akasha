@@ -288,15 +288,31 @@ export const overwhereIvIlsaCrane = {
     },
     {
       fact: "Forty-seven cores in a day and goblins driven off make Ilsa rate Nala past slime work.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Ilsa would steer Nala to the Hobb goblin job beside the Four, not alone on a bronze tag.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Ilsa's other picks for her: Old Selby's herbs at the Tangle's edge, and the reeve's oak.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "Ilsa named Old Selby's herbs or the oak to Nala as her picks other than the goblins.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
   ],
 } as const satisfies Lore

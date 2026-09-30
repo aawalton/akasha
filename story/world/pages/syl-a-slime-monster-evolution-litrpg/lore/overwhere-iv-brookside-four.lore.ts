@@ -193,15 +193,31 @@ export const overwhereIvBrooksideFour = {
     },
     {
       fact: "Told two small goblins with flint and a rusty knife, Dace means to go to Hobb's gap at noon.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "Dace would ask Nala to show the Four the gap after her drill, for an even share of ears.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "Wren hears Nala out in silence and watches how she holds the practice spear.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
+    },
+    {
+      fact: "Dace reckons the two goblins scouts, and says where there's two, there's a camp.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
   ],
 } as const satisfies Lore

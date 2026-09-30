@@ -117,7 +117,11 @@ export const overwhereIvHobbFarm = {
     },
     {
       fact: "Small bare-toed tracks, not paws, and a torn fleece lie in the mud by the far wall's gap.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "At dusk on day two, two child-sized grey-green figures in hide scraps crept from the Tangle.",
@@ -125,7 +129,11 @@ export const overwhereIvHobbFarm = {
     },
     {
       fact: "Of the two figures, one carries a flint-tipped spear and one a rusty knife; both eye the sheep.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "The spear goblin is the LV 4 and goes first; the LV 3 knife goblin hangs a step behind it.",
