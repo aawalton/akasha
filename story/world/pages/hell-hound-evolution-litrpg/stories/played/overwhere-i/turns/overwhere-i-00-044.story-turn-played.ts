@@ -10,7 +10,7 @@ export const overwhereI00044 = {
   position: 44,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I gather appropriate sized stones and spend the afternoon creating as many rifled bullets as my mana will allow and as I can conveniently carry and store them in my pack. Then I can back to the inn for the night. In the morning I pick up my boots then start heading toward the wolves. On the way, I use my mana regen to practice scouting techniques, focusing on combinations of air, fire, and water to create lensing effects to see much longer distances. When I get close enough to have a chance of seeing the wolves, I use my best lensing effects to watch for them from a distance, only slowly moving forward until I see them.",
   beats: [
@@ -52,6 +52,6 @@ export const overwhereI00044 = {
     "lore/overwhere-i-the-greyfen-alpha",
     "place/overwhere-i-the-greyfen",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-01T11:40:00.000Z",
 } as const satisfies StoryTurnPlayed
