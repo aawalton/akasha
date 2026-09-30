@@ -179,6 +179,10 @@ export const overwhereIFenwatch = {
       fact: "Fenwatch has no shop; folk sell what they make from their own doors.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Bet Ashdown is a thin, quick woman of forty, with reed-cut fingers and her son's sunburn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
