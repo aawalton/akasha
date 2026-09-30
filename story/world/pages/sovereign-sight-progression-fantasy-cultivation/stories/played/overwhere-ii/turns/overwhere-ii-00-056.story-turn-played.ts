@@ -4,13 +4,14 @@ export const overwhereIi00056 = {
   id: "01a0f488-2fff-7a02-96ca-0c8bfbb95a78",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-056",
+  cover: "image/image-321ebfb454aa01d6",
   ownLength: 346,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 56,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“What can you tell me about Crake? What are his crimes? How does he target victims? What is known about his abilities? Does he work alone?” While we talk, I start reinforcing the skin on my torso, working from my legs upwards.",
   beats: [
@@ -44,6 +45,11 @@ export const overwhereIi00056 = {
     "lore/overwhere-ii-reeve-corwin-dray-2",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-02T19:45:00.000Z",
 } as const satisfies StoryTurnPlayed
