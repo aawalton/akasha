@@ -10,7 +10,7 @@ export const overwhereIv00008 = {
   position: 8,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Sure! I’d appreciate that. A few questions first though. I assume the guard doesn’t mind adventurer work on the side? What’s the best way to dispatch a slime? Anything I need to be wary of. Assume I’m completely new to this, because I am.”",
   beats: [
@@ -37,6 +37,6 @@ export const overwhereIv00008 = {
     "lore/overwhere-iv-nala",
     "place/overwhere-iv-millbrook-common",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T13:52:00.000Z",
 } as const satisfies StoryTurnPlayed
