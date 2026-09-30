@@ -196,6 +196,8 @@ export const gameMaster = {
       warrant:
         "His sheet is drawn from those pages alone, so a number left unwritten shows him a stale sheet.",
       aids: [
+        "Leave each number a check you did not settle changes, as growth does, to the mechanics recorder.",
+        "A counter two seats write counts one deed twice.",
         "A metric page takes its new value, and its history a line of the turn's number and that value.",
         "Write the new value with the `change-page-page-property` change, the number bare.",
         "Add a history line with the `append-lines` change; a history is never written over.",
