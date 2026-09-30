@@ -127,7 +127,6 @@ export const overwhereIRowanCoalby = {
       fact: "Rowan wants to see the eye; at the sight of it Sedge flattens its crest and backs off, growling low.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
-
     {
       fact: "Rowan agrees to go, but not into the fen by night; he asks to set out at first light on day 4.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
@@ -146,7 +145,7 @@ export const overwhereIRowanCoalby = {
     },
     {
       fact: "Sedge will come, uneasy near the carcass, but leads them by the firmest ground.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Tonight he offers to walk her in to Fenwatch and tell the Stag Sedge never killed stock.",
