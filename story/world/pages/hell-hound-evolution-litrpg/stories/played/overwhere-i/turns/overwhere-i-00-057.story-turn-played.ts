@@ -4,10 +4,13 @@ export const overwhereI00057 = {
   id: "01a0f475-c4e2-7708-b8fa-8bf58487f13b",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-057",
+  ownLength: 141,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 57,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Yep! Mission complete! Didn’t get the whole pack, but I took out Ghost-Eye along with all the highest level ones. Want to see the eye?”",
   beats: [
@@ -21,6 +24,11 @@ export const overwhereI00057 = {
     'He straightens, and his face turns earnest. "B-but the Hall pays on the head. Only the head."',
     '"Where did you leave it? The fen scavengers will have the body inside two days."',
   ],
-  lore: ["lore/overwhere-i-rowan-coalby", "lore/overwhere-i-the-greyfen-alpha-2"],
+  lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
+    "lore/overwhere-i-rowan-coalby",
+    "lore/overwhere-i-the-greyfen-alpha-2",
+  ],
   endsAt: "2026-10-01T16:33:00.000Z",
 } as const satisfies StoryTurnPlayed
