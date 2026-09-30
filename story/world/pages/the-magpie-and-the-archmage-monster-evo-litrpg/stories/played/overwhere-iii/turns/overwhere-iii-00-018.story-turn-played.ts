@@ -4,13 +4,14 @@ export const overwhereIii00018 = {
   id: "01a0f205-b145-7291-b2d6-7025a44c6a75",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-018",
+  cover: "image/image-4eed9652b87ee51d",
   ownLength: 311,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 18,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I go and sit, happy for a rest after hauling everything back.",
   beats: [
     "Nala sits on the bench, glad of it; the weight comes off her raw feet, and she lets out a breath.",
@@ -44,6 +45,11 @@ export const overwhereIii00018 = {
     "place/overwhere-iii-wrenwood",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T12:08:00.000Z",
 } as const satisfies StoryTurnPlayed
