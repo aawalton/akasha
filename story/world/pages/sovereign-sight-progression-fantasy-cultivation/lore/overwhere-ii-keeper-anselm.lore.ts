@@ -237,7 +237,7 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "Anselm thinks a bare letter would slow the Keepers, but they would still come to see for themselves.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Were Anselm to hide a great Talent and be found out, the Keepers would take his charge from him.",
