@@ -4,13 +4,14 @@ export const overwhereIi00041 = {
   id: "01a0f3d8-4733-77a4-b827-4fe6bd914488",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-041",
+  cover: "image/image-0ff096d999f623e1",
   ownLength: 321,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 41,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I leave the tarn behind and continue with my plan, collecting the remaining ears and reporting back.",
   beats: [
@@ -45,6 +46,11 @@ export const overwhereIi00041 = {
     "place/overwhere-ii-watch-cottage",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/inventory"],
+  recordedBy: [
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T15:03:00.000Z",
 } as const satisfies StoryTurnPlayed
