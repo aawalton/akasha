@@ -105,39 +105,11 @@ export const overwhereIiNala = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Her Talent is Undertow, a Major Talent of esoteric focus, at Surface.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Undertow works when she clenches and releases her reservoir, most easily naming it aloud.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Undertow pushes or pulls anything with a tide of Water out to about thirty feet from her.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Undertow can knock a bull off its feet, hold a thrown thing still, or drag a cart uphill.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Undertow draws Water, salt, silt and spiritual rot out of whatever she touches.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
       fact: "Drawn out of a body, rot comes away as a grey, stinking salt on her palm.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
-      fact: "Undertow drawing on an Aberrant empties its reservoir, and it weakens and dies.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
       fact: "Water she draws out of anything pours into her own reservoir.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Undertow cannot move cold iron or pass through it, and cold iron feels numb to her.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -146,14 +118,6 @@ export const overwhereIiNala = {
     },
     {
       fact: "Unspent for a day, her Water presses to get out, and it spills as cold salt sweat.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Her Scope is not fixed: it widens each time she drives Undertow to its limit.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "A Talented eye that reads Talents reads hers as Undertow, Major, Surface.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -221,30 +185,6 @@ export const overwhereIiNala = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
-      fact: "Undertow lets her feel Water, salt and rot within its reach, as a tide feels its shore.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Reaching for her Talent, she feels a tide in her: a push outward and a pull back, like surf.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
-    },
-    {
-      fact: "Its name rises in her as she reaches, unbidden and sure, as if always known: Undertow.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
-    },
-    {
-      fact: "Its reach runs about ten paces out from her in every way, and no farther.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
-    },
-    {
-      fact: "The pull wants to draw things to her, and to draw something out of whatever she touches.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
-    },
-    {
-      fact: "Within its reach she feels Wren's leg as a sour, clotted knot of salt, and the pull wants it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
-    },
-    {
       fact: "The iron nails over the door are a dead band in its reach; the tide will not touch them.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
@@ -273,19 +213,7 @@ export const overwhereIiNala = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
-      fact: "Threading Tansy's rot for an hour drives Undertow's finesse to its limit for the first time.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
       fact: "An hour of fine drawing leaves Nala clear-headed but ravenous, as after a long day's work.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
-    },
-    {
-      fact: "Undertow's first widening lets her draw from anything in its reach, no longer only what she touches.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
-    },
-    {
-      fact: "Undertow's push can pour Water back into a body she has drained, if she keeps the flow gentle.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
@@ -305,10 +233,6 @@ export const overwhereIiNala = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Giving Water and drawing rot in turn, like surf, is Undertow's own rhythm, and eases fine work.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
-    },
-    {
       fact: "Fine drawing tires Nala's mind, never her Water; after Tansy and Col she wants sleep.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
@@ -319,14 +243,6 @@ export const overwhereIiNala = {
     {
       fact: "After the greymaws, Nala's well brims with brackish foreign Water, restless under her breastbone.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
-    },
-    {
-      fact: "Pushing one thing while pulling another at once drives Undertow to its limit; she holds it moments.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Holding push and pull at once through a fight widens her Scope: Undertow can then do both at will.",
-      knowers: ["lore-disclosure/game-master"],
     },
   ],
   secrets: "jsonl",
