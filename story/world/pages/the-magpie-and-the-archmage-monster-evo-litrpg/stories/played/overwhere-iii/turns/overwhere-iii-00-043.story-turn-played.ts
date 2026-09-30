@@ -18,7 +18,7 @@ export const overwhereIii00043 = {
     "character-other/overwhere-iii-edda-crane",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I go and get dinner and go to sleep, then meet with the guards for training in the morning, the at Brannagh’s after to heal and ask him if he has any books on healing she could read.",
   beats: [
@@ -50,6 +50,9 @@ export const overwhereIii00043 = {
     '"One," Brannagh says. "My mother\'s receipts. Salves, potions, draughts. Read it at my counter."',
     '"It never leaves the shop. For wounds and bones, you want Sister Wenna\'s herbal at the chapel."',
   ],
+  issues: [
+    '"the same lanky young watchman, Tam" - Nala never learned his name; only the GM knows it',
+  ],
   lore: [
     "lore/overwhere-iii-bet-harrow",
     "lore/overwhere-iii-brannagh-tull",
@@ -61,6 +64,6 @@ export const overwhereIii00043 = {
     "place/overwhere-iii-crook-and-candle",
     "place/overwhere-iii-merrowgate",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-02T11:00:00.000Z",
 } as const satisfies StoryTurnPlayed
