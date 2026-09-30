@@ -296,6 +296,10 @@ export const overwhereIFenwatch = {
       fact: "With ropes, a mule and four men, Fenwatch hauls the sunk boar out of the wallow by noon.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "After she gave the boar's hide and meat freely, Fenwatch's regard for Nala stands at 5.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
