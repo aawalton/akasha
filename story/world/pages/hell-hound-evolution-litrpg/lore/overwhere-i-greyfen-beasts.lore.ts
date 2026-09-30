@@ -235,6 +235,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "A sensing ripple is a faint shiver to a sleeping reedlurker; it stirs but does not bolt.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The third holt's den is bigger than the others, and its reedlurker, the largest, is home.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
