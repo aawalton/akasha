@@ -185,7 +185,7 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "No Keeper teaching Anselm knows uses a Talent to drive its own refining.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The Keepers teach that no one Descends until the body is refined enough to bear it.",
