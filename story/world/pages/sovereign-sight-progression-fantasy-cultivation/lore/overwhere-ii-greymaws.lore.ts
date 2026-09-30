@@ -17,7 +17,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "Greymaws stink of rotten salt, and their bite carries spiritual rot.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The pack is led by a Sea-Maddened she-wolf twice the size of the rest, with a white eye.",
@@ -25,7 +25,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "A greymaw's reservoir sits in a bone chamber behind its breastbone, and piercing it kills.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Greymaws hunt at dusk and dawn, and shun fire, cold iron and the wargrass smoke.",
@@ -221,7 +221,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "The limping greymaw hangs back, and if the fight turns it bolts up the scree for the tarn.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Nala speared four greymaws dead in the den; the limping one fled up the scree toward the tarn.",
