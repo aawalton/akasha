@@ -151,5 +151,13 @@ export const overwhereIvHobbFarm = {
       fact: "The goblins jabber in their own tongue; spoken to in the common tongue, they only sneer.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The hurt spear goblin crouches panting in a bramble hollow thirty paces into the Tangle.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Cornered, a hurt goblin fights like a rat; with a way open, it runs deeper in.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
