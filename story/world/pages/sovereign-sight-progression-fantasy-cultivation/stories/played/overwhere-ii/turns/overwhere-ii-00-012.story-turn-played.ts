@@ -10,7 +10,7 @@ export const overwhereIi00012 = {
   position: 12,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Wait, we need to dispose of the rot first, but I’m not certain how. Maybe put an iron lid on it and bring it with us? Goody might know what to do with it. Otherwise, we’ll have to test things carefully.”",
   beats: [
@@ -32,6 +32,6 @@ export const overwhereIi00012 = {
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-spiritual-rot-and-healing",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T08:04:00.000Z",
 } as const satisfies StoryTurnPlayed
