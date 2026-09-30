@@ -11,4 +11,5 @@ export const overwhereI00019 = {
   action:
     "Since I’m waiting on my boots for another day, I go looking for the grubboars. When I find them, I attune water and use that to hold a sphere of water around the head of each beast to suffocate them",
   lore: ["lore/overwhere-i-greyfen-beasts", "lore/overwhere-i-nala", "place/overwhere-i-fenwatch"],
+  endsAt: "2026-09-30T07:30:00.000Z",
 } as const satisfies StoryTurnPlayed
