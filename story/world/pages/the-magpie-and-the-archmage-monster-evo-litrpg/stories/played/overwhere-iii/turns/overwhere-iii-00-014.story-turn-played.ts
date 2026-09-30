@@ -4,6 +4,7 @@ export const overwhereIii00014 = {
   id: "01a0f1da-86f5-7275-b7c3-77b02a36e1a4",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-014",
+  cover: "image/image-796e1f83094a8aa5",
   ownLength: 205,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -28,8 +29,8 @@ export const overwhereIii00014 = {
     "The rabbit's glow drains out of its body and seeps away into the current, thinning to nothing.",
     "All but one spot: at the base of its antlers, something small still holds a faint glow of its own.",
   ],
-  lore: ["lore/overwhere-iii-nala"],
+  lore: ["lore/overwhere-iii-nala", "place/overwhere-iii-wrenwood"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-30T09:03:00.000Z",
 } as const satisfies StoryTurnPlayed
