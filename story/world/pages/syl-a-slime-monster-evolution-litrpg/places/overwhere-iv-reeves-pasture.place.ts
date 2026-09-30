@@ -61,11 +61,11 @@ export const overwhereIvReevesPasture = {
     },
     {
       fact: "The byre is north of the oak; open grass runs east a hundred feet to the brook.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Col's ox team and sledge wait by the west gate, clear of any fall to the east.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "A notch and a hinge can swing an oak's fall up to a quarter turn from its lean.",
@@ -73,15 +73,23 @@ export const overwhereIvReevesPasture = {
     },
     {
       fact: "Felled east, the oak lands on open grass, its crown short of the brook.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "A green oak takes a rend without a sound; it holds a breath, then creaks and goes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "From the gate, Col sees the oak fall but not the rends; the lines are too thin at his range.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala felled the great oak east with a level back rend and an angled front rend, leaving a hinge.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "The old herdsman, who saw only the oak fall, asked Nala what she had cut it with.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Place
