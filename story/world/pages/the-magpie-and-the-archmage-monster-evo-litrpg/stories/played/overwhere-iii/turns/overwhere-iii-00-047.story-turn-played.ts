@@ -7,7 +7,12 @@ export const overwhereIii00047 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 47,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Does it give back more mana than it costs? If not, I don’t know that it would help me much quite yet.”",
+  lore: [
+    "lore/overwhere-iii-brannagh-tull",
+    "lore/overwhere-iii-brannagh-tull-2",
+    "lore/overwhere-iii-magic",
+  ],
 } as const satisfies StoryTurnPlayed
