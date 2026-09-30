@@ -4,10 +4,13 @@ export const overwhereIi00036 = {
   id: "01a0f3a1-c79d-72f3-ab23-bb15f194e5ed",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-036",
+  ownLength: 282,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 36,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Oh good, then you’ll heal fast if I do hurt you.” I take up the spear and cycle my water, then slowly approach Dray. When he’s in range, I commit to a thrust, surging Undertow to pull him toward me off balance and push my spear forward faster than it would naturally go at the same time, aiming for center mass.",
   beats: [
@@ -30,6 +33,10 @@ export const overwhereIi00036 = {
     "He holds out one grey hand, stone fading to flesh as she watches.",
     'Reeve Dray: "You\'re no small Talent, lass. But you fight like one. Again?"',
   ],
-  lore: ["lore/overwhere-ii-reeve-corwin-dray", "lore/overwhere-ii-undertow"],
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-reeve-corwin-dray",
+    "lore/overwhere-ii-undertow",
+  ],
   endsAt: "2026-09-30T08:26:00.000Z",
 } as const satisfies StoryTurnPlayed
