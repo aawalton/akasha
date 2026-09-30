@@ -119,6 +119,10 @@ export const overwhereIiKeeperAnselm = {
       fact: "Anselm can teach Nala the Keepers' daily practice of refining skin and muscle.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Coming up the river lane on day two, Anselm meets Nala on her way to the Ford.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
