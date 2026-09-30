@@ -208,5 +208,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Once she is within 100 yards of the island, Ghost-Eye and Six swim across at her.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "If she breaks cover early, Seven and Eight turn in on her at once, not waiting for 13:38.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
