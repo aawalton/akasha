@@ -391,6 +391,10 @@ export const overwhereIiiBrannaghTull = {
       fact: "Brannagh would brew mana draughts at cost for whoever brings her the antler and frostcap.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
+    {
+      fact: "Her mother held the crossroads shrine gives back what a day took, to those who rest there.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
