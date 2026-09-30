@@ -163,6 +163,34 @@ export const overwhereIvMillbrookAdventurersHall = {
         "lore/overwhere-iv-ilsa-crane",
       ],
     },
+    {
+      fact: "A branch hall's bronze tag is a punched metal tag on a leather cord.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-ilsa-crane",
+      ],
+    },
+    {
+      fact: "Crystal tags that hold coin and count kills are issued only at city halls like Aubrin's.",
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "The ledger reads NALA, WATCH, OWES 1 S; Ilsa takes the silver off her core money.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-ilsa-crane",
+      ],
+    },
+    {
+      fact: "Ilsa pays the same for a cracked core as a whole one; alchemists grind them anyway.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-ilsa-crane",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
