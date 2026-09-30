@@ -241,7 +241,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Dray has no one fit to climb the Whitecombs and see what stirs there; he would pay well for it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray knows of Oswy Crake, a Water thief on the Carrowmouth road with ten bars on his head.",
