@@ -63,6 +63,10 @@ export const overwhereIOsricFenn = {
       fact: "Osric's two gold is a pedlar's price; a Wendlow alchemist pays about four for the drake-pearl.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Osric Fenn named himself to Nala at the Stag as a pedlar.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
