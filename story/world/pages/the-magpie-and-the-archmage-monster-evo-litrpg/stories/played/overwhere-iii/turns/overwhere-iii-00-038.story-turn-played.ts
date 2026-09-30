@@ -17,7 +17,7 @@ export const overwhereIii00038 = {
     "character-other/overwhere-iii-ivy-marsh",
     "character-other/overwhere-iii-garrick-dole",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I wait for Cob and heal him, then take all the seeds to Marda",
   beats: [
     "Nala sits on Brannagh's bench to wait. Slowly, her mana trickles back.",
@@ -51,6 +51,6 @@ export const overwhereIii00038 = {
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-nala-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-01T12:25:00.000Z",
 } as const satisfies StoryTurnPlayed
