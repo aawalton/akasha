@@ -203,6 +203,10 @@ export const overwhereITheGreyfen = {
       fact: "From the pine island back to Fenwatch is about four hours' wading, or two skimming by weave.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The pack's den under the pines holds bones, and a reed-cutter's knife and tin token of Sallow Hythe.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
