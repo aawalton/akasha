@@ -41,6 +41,8 @@ export const overwhereIi00041 = {
     "lore/overwhere-ii-reeve-corwin-dray",
     "place/overwhere-ii-hollow-tarn",
     "place/overwhere-ii-tarn-screes",
+    "place/overwhere-ii-watch-cottage",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T15:03:00.000Z",
 } as const satisfies StoryTurnPlayed
