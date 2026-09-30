@@ -161,7 +161,7 @@ export const overwhereIvHobbFarm = {
     },
     {
       fact: "The cornered knife goblin ducks for the low bramble gap as soon as her spear moves.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The knife goblin wears a thong pouch holding one bent copper and three shiny river pebbles.",
@@ -185,6 +185,14 @@ export const overwhereIvHobbFarm = {
     },
     {
       fact: "Nala cornered the bleeding knife goblin against a bramble at the Tangle's edge, a low gap behind it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Nala's folded thrust cut the knife goblin's neck; her spearhead then snagged fast in the bramble.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "The neck-cut knife goblin, bleeding and slowing, is squeezing half through the low bramble gap.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
