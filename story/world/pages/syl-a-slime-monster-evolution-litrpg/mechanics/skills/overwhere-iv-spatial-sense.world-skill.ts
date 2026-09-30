@@ -7,7 +7,7 @@ export const overwhereIvSpatialSense = {
   title: "Spatial Sense",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   description:
-    "A sense of Dimension Magic: the felt shape of every body and hollow in the space nearby.",
-  manaCost: 0,
-  durationMinutes: 0,
+    "A sense of Dimension Magic: the felt shape of every body and hollow nearby. It is always on within five paces, and reached for out to the magic's full reach.",
+  manaCost: 2,
+  durationMinutes: 1,
 } as const satisfies WorldSkill
