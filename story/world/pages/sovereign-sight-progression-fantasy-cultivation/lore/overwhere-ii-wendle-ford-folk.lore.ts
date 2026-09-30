@@ -203,5 +203,9 @@ export const overwhereIiWendleFordFolk = {
       fact: "Drawn clean, Col is gruff and grateful, and swears the watch owes Nala a debt.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Reeve Oakes cannot keep a tale; the whole valley will hear of Col's healing by nightfall.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
