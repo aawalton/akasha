@@ -36,6 +36,11 @@ export const overwhereIi00002 = {
     "She can hold it back; it waits on her, straining, ready to go wherever she lets it.",
     "Nala sits in the hay with her hands full of something that wants out, and the choice is hers.",
   ],
+  issues: [
+    '"You sit in the hay with your hands full of something that wants out." - Leave It Open',
+    '"ready to go wherever you send it" - No Prompt',
+  ],
   lore: ["lore/overwhere-ii-nala"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T06:45:00.000Z",
 } as const satisfies StoryTurnPlayed
