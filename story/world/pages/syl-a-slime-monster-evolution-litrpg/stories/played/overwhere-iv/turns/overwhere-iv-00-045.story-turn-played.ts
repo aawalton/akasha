@@ -25,5 +25,6 @@ export const overwhereIv00045 = {
     "\"Seven more and I'll write it gladly. You'd carry it to Aubrin yourself, to take the tag.\"",
   ],
   lore: ["lore/overwhere-iv-ilsa-crane-2", "lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-02T10:41:00.000Z",
 } as const satisfies StoryTurnPlayed
