@@ -257,5 +257,9 @@ export const overwhereINala = {
       fact: "A water sphere is a working like any other: two at once at rank 1, renewed each minute at full cost.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Killing the Level 12 old boar while she is Level 2 lifts her legacy to rank 2, Flare.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
