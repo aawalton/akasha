@@ -4,10 +4,19 @@ export const overwhereI00051 = {
   id: "01a0f436-eeab-75ef-b14d-ccc80bc9fe24",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-051",
+  ownLength: 136,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 51,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-i-nala",
+    "character-other/overwhere-i-ghost-eye",
+    "character-other/overwhere-i-pine-isle-drakewolf-six",
+    "character-other/overwhere-i-pine-isle-drakewolf-seven",
+    "character-other/overwhere-i-pine-isle-drakewolf-eight",
+  ],
+  stepStatus: "step-status/reviewers",
   action: "I fire an artillery shot again, seeing if I can hit Ghost-Eye this time",
   beats: [
     "Nala draws another slug and pours two weaves into it, the cost dragging hard on her mana.",
@@ -20,6 +29,10 @@ export const overwhereI00051 = {
     "She loses sight of both at once; the reeds along the channel stand still.",
     "On the shore Ghost-Eye and the last wolf stand watching her, and stay where they are.",
   ],
-  lore: ["lore/overwhere-i-the-greyfen-alpha-2"],
+  lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
+    "lore/overwhere-i-the-greyfen-alpha-2",
+  ],
   endsAt: "2026-10-01T13:32:00.000Z",
 } as const satisfies StoryTurnPlayed
