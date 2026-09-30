@@ -16,7 +16,7 @@ export const overwhereIv00028 = {
     "character-other/overwhere-iv-dell",
     "character-other/overwhere-iv-wat",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I tell him what I know, then get to bed, so I can sleep before watch training in the morning. After training I go back to the guild to check with Ilsa on what I should tackle next.",
   beats: [
@@ -50,6 +50,6 @@ export const overwhereIv00028 = {
     "lore/overwhere-iv-nala-2",
     "place/overwhere-iv-millbrook-gatehouse",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-01T08:30:00.000Z",
 } as const satisfies StoryTurnPlayed
