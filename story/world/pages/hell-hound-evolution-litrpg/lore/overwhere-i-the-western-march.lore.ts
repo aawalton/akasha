@@ -107,5 +107,9 @@ export const overwhereITheWesternMarch = {
       fact: "A stranger with no kin, lord or papers is unusual and draws questions, not arrest.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The ford is in the Western March of the Kingdom of Aubrevine, which its folk call the Vinelands.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
