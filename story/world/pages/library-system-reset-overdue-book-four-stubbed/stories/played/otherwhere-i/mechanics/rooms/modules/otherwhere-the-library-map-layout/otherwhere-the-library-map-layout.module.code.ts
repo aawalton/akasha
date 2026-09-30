@@ -14,7 +14,7 @@ export type MapRoom = {
   readonly exits: readonly MapExit[]
 }
 
-export type PlacedRoom = {
+type PlacedRoom = {
   readonly room: MapRoom
   readonly column: number
   readonly row: number
@@ -36,7 +36,7 @@ export type MapFloor = {
   readonly links: readonly MapLink[]
 }
 
-export type MapLayout = {
+type MapLayout = {
   readonly columns: number
   readonly floors: readonly MapFloor[]
   readonly apart: readonly MapRoom[]
