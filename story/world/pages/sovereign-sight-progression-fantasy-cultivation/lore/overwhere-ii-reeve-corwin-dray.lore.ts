@@ -257,7 +257,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Dray sends anyone climbing the Whitecombs to Ebba Callow at Callow Beck, who knows the tracks.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray paid Nala eighteen silver for nine greymaws, the watch's silver bar and a bar for the hunt.",
