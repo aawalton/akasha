@@ -31,11 +31,13 @@ export const overwhereI00050 = {
     "The three wolves with it close up at its sides, snarling too, and hold the shore.",
     "Behind them, the last of the pups vanishes west among the pines.",
   ],
+  issues: ['"doubling its charge" - a second Weave cast gives half again the force, not double'],
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
     "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-the-greyfen-alpha-2",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-01T13:31:00.000Z",
 } as const satisfies StoryTurnPlayed
