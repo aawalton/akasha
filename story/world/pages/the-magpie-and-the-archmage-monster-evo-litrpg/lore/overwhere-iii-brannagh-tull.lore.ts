@@ -50,7 +50,11 @@ export const overwhereIiiBrannaghTull = {
     },
     {
       fact: "Seeing a fresh bite closed to a clean seam, she asks sharply who closed it.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
   secrets: "jsonl",
