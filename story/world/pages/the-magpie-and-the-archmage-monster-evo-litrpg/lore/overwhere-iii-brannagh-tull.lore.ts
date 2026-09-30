@@ -313,6 +313,10 @@ export const overwhereIiiBrannaghTull = {
       fact: "Brannagh lets Nala read the receipt book at her counter, but it never leaves the shop.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Her mana draught receipt: ground jackalope antler, frostcap, honey, and a night's steeping.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
