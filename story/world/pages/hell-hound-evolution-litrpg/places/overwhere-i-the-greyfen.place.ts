@@ -191,6 +191,10 @@ export const overwhereITheGreyfen = {
       fact: "Creeping bent low from hummock to hummock along the line takes about forty minutes.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The hummock line ends south-east of the pine island, off its south-east shore.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
