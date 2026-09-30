@@ -63,6 +63,10 @@ export const overwhereIGarrickPell = {
       fact: "He can break a gold coin into silver and copper from the inn's takings.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "He stews the Brute for a feast on the green on the evening of day one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
