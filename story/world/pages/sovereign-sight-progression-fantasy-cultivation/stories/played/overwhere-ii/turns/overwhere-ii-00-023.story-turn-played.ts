@@ -10,4 +10,5 @@ export const overwhereIi00023 = {
   stepStatus: "step-status/game-master",
   action: "“Give me the spear, you take Burr and Wren inside and I’ll take care of the Greymaws”",
   lore: ["lore/overwhere-ii-garth-marsh", "lore/overwhere-ii-greymaws"],
+  endsAt: "2026-09-29T18:00:00.000Z",
 } as const satisfies StoryTurnPlayed
