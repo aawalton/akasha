@@ -5,7 +5,7 @@ export const overwhereIPineIsleDrakewolfSeven = {
   type: "page-type/metric-character-health",
   slug: "overwhere-i-pine-isle-drakewolf-seven",
   character: "character-other/overwhere-i-pine-isle-drakewolf-seven",
-  value: 35,
+  value: 0,
   minValue: 0,
   maxValue: 35,
   displayOrder: 1,
