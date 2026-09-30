@@ -10,7 +10,7 @@ export const overwhereI00043 = {
   position: 43,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I practice with the rock bullets, working on speed and accuracy. I experiment with using the earth attunement to shape the stone to make it more aerodynamic, adding rifling to the stone, and adding spin to the air flow.",
   beats: [
@@ -30,8 +30,11 @@ export const overwhereI00043 = {
     "[Attunement +3.]",
     "Two hours have gone; the sun is past mid-afternoon, and her mana is back to 224 of 244.",
   ],
-  issues: ['"A pouchful made ahead would be ready to fling." - No Prompt'],
+  issues: [
+    '"A pouchful made ahead would be ready to fling." - No Prompt',
+    '"By the fourth she has the spin matched" - lore says getting it right takes about a dozen shots',
+  ],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-starfall-legacy"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T15:48:00.000Z",
 } as const satisfies StoryTurnPlayed
