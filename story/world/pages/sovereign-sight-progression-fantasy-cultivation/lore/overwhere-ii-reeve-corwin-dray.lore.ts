@@ -83,5 +83,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Nala told Dray the carcasses lie at Marsh Croft for his cart, and a few greymaws got away.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Dray lets no one hunt alone for him till they best him in a bout: her spear against his Stonehand.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
