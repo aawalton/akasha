@@ -112,5 +112,9 @@ export const overwhereIStarfallLegacy = {
       fact: "A hot-wind blast can shove a beast the size of a man a few yards as it strikes.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Starfall Surge rose to level 3 from use on day 2, adding +3 Attunement.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
