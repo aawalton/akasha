@@ -10,7 +10,7 @@ export const overwhereIi00015 = {
   position: 15,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "“Yes, if you’ll take me.”",
   beats: [
     '"Yes, if you\'ll take me."',
@@ -20,7 +20,7 @@ export const overwhereIi00015 = {
     "Goody hammers on the house door. A heavy, grey, hard-faced man opens it and fills the doorway.",
     '"Sedge," Goody says. "This is Nala. She\'s to see Tansy."',
     "Horne's eyes go over Nala: the loose shirt under a dead woman's cloak, the too-big boots.",
-    '"Talented," he says flatly, as Garth did. "A stranger. I\'ve had my fill of promises."',
+    '"Talented," he says flatly. "A stranger. I\'ve had my fill of promises."',
     '"She drew the rot out of Garth\'s Wren this morning," Goody snaps. "I\'ll vouch for her. Move."',
     "Horne looks at Garth; Garth nods once. Horne's jaw works, and then he steps aside.",
     "Up a stair, in a warm room, a girl of fourteen lies propped on pillows, grey-faced and sweating.",
