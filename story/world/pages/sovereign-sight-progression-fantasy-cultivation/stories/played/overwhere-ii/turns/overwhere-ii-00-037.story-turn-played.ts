@@ -4,6 +4,7 @@ export const overwhereIi00037 = {
   id: "01a0f3aa-bfed-72cb-a553-14342755b47b",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-037",
+  cover: "image/image-1ae1d53c5bac6ff2",
   ownLength: 260,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
@@ -35,6 +36,6 @@ export const overwhereIi00037 = {
   ],
   lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-reeve-corwin-dray"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-30T08:30:00.000Z",
 } as const satisfies StoryTurnPlayed
