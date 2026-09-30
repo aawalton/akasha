@@ -241,7 +241,7 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "Were Anselm to hide a great Talent and be found out, the Keepers would take his charge from him.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Anselm judges Nala's Undertow the greatest new Talent he has seen, and told her so.",
