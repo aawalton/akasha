@@ -33,11 +33,13 @@ export const overwhereIi00045 = {
     'Anselm: "No Keeper teaching I know uses a Talent to drive its own refining."',
     'Anselm: "How did you think of that?"',
   ],
+  issues: ['"I know no Keeper teaching that uses a Talent" - Plain Negation'],
   lore: [
     "lore/overwhere-ii-keeper-anselm",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",
     "lore/overwhere-ii-undertow",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T16:15:00.000Z",
 } as const satisfies StoryTurnPlayed
