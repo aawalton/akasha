@@ -284,6 +284,10 @@ export const overwhereIiiCorruption = {
       fact: "A half-cleansed blight bite holds as it is; drawn blight does not creep back overnight.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Pulled blight comes up slowly from a wound and clots at its lip into a seed-sized stone.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

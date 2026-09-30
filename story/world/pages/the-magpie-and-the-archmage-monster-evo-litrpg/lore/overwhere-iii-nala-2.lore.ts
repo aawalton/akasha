@@ -12,5 +12,9 @@ export const overwhereIiiNala2 = {
       fact: "Nala drank the mana draught in small sips before tending Ivy, and it filled her mana.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Pulling at Garrick's blight sent cold up Nala's thread to her shoulder, and left her shaking.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
