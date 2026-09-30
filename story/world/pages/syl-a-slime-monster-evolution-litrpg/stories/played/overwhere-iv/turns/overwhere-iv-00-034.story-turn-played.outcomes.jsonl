@@ -2,3 +2,4 @@
 {"check":"world-check/overwhere-iv-standing","reading":{"character":"orla","kept":0,"heard":0,"shared":0,"helped":0,"crossed":0,"quotes":{}},"answered":{"earned":0,"lost":0,"change":0}}
 {"check":"world-check/overwhere-iv-standing","reading":{"character":"wren","kept":0,"heard":0,"shared":0,"helped":0,"crossed":0,"quotes":{}},"answered":{"earned":0,"lost":0,"change":0}}
 {"check":"world-check/overwhere-iv-standing","reading":{"character":"merrit","kept":0,"heard":0,"shared":0,"helped":0,"crossed":0,"quotes":{}},"answered":{"earned":0,"lost":0,"change":0}}
+{"check":"world-check/overwhere-iv-time-passing","reading":{"from":"2026-10-01T13:15:00.000Z","minutes":3},"answered":{"endsAt":"2026-10-01T13:18:00.000Z","day":3,"light":"day"}}

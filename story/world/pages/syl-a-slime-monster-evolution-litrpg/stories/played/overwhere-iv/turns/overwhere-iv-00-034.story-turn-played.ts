@@ -11,4 +11,5 @@ export const overwhereIv00034 = {
   action:
     "“I’ll do it if you don’t mind. I could definitely use the levels.” I finish the slinger with my spear, then check with Dace for the two scouts, finishing them as well if he approves.",
   lore: ["lore/overwhere-iv-brookside-four"],
+  endsAt: "2026-10-01T13:18:00.000Z",
 } as const satisfies StoryTurnPlayed
