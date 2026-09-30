@@ -108,7 +108,12 @@ export const overwhereIiiGarrickDole = {
     },
     {
       fact: "Garrick's son Aled comes down from the farm on market day, and will bring the sheepskin coat.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-garrick-dole",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
     },
   ],
 } as const satisfies Lore
