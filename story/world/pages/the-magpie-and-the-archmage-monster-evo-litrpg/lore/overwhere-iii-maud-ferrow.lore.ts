@@ -18,7 +18,11 @@ export const overwhereIiiMaudFerrow = {
     },
     {
       fact: "Seeing a stranger run the wall, Maud calls her over and offers her a place in the drill, free.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-maud-ferrow",
+      ],
     },
     {
       fact: "Maud's drill is laps, stone-lifting, and staff work with the watch, dawn bell to mid-morning.",
