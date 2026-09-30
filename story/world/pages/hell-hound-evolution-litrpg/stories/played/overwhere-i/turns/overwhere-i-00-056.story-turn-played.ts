@@ -10,7 +10,7 @@ export const overwhereI00056 = {
   position: 56,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I bring them with me and journey back to the village for a well-deserved bath, meal, and rest.",
   beats: [
@@ -24,6 +24,9 @@ export const overwhereI00056 = {
     "Garrick Pell is at the hearth; he looks up, and his red beard splits in a grin.",
     '"Look at the state of you! Where in the fen have you been all day?"',
   ],
+  issues: [
+    '"Past the ford the fields open out" - Rowan and Sedge wait at that fen edge to meet her',
+  ],
   lore: [
     "lore/overwhere-i-agathe-morrow",
     "lore/overwhere-i-fenwatch-2",
@@ -36,6 +39,6 @@ export const overwhereI00056 = {
     "place/overwhere-i-fenwatch",
     "place/overwhere-i-the-greyfen",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-01T16:30:00.000Z",
 } as const satisfies StoryTurnPlayed
