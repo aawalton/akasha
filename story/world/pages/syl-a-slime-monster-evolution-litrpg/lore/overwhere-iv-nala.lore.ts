@@ -281,6 +281,14 @@ export const overwhereIvNala = {
         "character-other/overwhere-iv-ilsa-crane",
       ],
     },
+    {
+      fact: "Nala swore to Ilsa to work the Millbrook board, and they shook on it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

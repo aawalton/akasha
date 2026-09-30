@@ -125,7 +125,11 @@ export const overwhereIvIlsaCrane = {
     },
     {
       fact: "Ilsa's report of an unknown color would go east with the next carter to Aubrin.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Garrett Pell's cart is the next bound for Aubrin, leaving the fourth morning after Nala came.",
@@ -165,23 +169,43 @@ export const overwhereIvIlsaCrane = {
     },
     {
       fact: "Given Nala's oath, Ilsa rewrites the report soft before her and burns the first in the hearth.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Ilsa keeps her word once given, and expects the same; a broken oath she would never forgive.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Ilsa would steer Nala first to the Hobb farm on the Tangle's edge, overrun with pest slimes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "The Hobb job pays 3 copper a core and a hot dinner, and farmer Hobb wants them all gone.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Ilsa would lend Nala a pair of old leather gloves from the hall's box of things left behind.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Ilsa sees a strange color as the making of the Millbrook hall, and wants Nala kept on here.",
@@ -252,6 +276,14 @@ export const overwhereIvIlsaCrane = {
         "character-other/overwhere-iv-dell",
         "character-other/overwhere-iv-ilsa-crane",
         "lore/overwhere-iv-brookside-four",
+      ],
+    },
+    {
+      fact: "Ilsa's sealed report names only an old cracked crystal and a faint odd light.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
       ],
     },
   ],

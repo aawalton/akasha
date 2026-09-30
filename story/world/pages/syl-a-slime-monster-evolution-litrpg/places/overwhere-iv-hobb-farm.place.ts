@@ -47,5 +47,13 @@ export const overwhereIvHobbFarm = {
       fact: "Hobb's hot dinner is mutton stew and apple cake, served at his kitchen table at dusk.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Hobb Farm, on the Tangle's edge, is overrun with pest slimes, and Hobb wants every one gone.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
+    },
   ],
 } as const satisfies Place
