@@ -63,6 +63,10 @@ export const overwhereIAgatheMorrow = {
       fact: "She tells the village that Dunstan marched north with the king's levy two years ago.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She pays the Sootjaw bounty from the village chest on Hessa's word that the kill was Nala's.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
