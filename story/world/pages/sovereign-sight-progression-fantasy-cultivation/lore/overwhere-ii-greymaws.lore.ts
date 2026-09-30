@@ -151,5 +151,9 @@ export const overwhereIiGreymaws = {
       fact: "The three greymaws Nala drained keep their bone chambers whole but empty of Water.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A greymaw's chamber is a fist-sized knot of polished grey bone, layered like a shell.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
