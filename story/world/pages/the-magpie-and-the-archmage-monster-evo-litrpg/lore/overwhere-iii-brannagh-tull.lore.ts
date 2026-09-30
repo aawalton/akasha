@@ -276,6 +276,10 @@ export const overwhereIiiBrannaghTull = {
       fact: "Brannagh warns blightstones are best kept off the skin and out of a bed, and shut in their cup.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Brannagh knows no way to unmake a blightstone, and has never heard of one being cracked.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
