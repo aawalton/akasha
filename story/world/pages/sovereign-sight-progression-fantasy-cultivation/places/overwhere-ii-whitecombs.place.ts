@@ -59,6 +59,38 @@ export const overwhereIiWhitecombs = {
       fact: "High on the Whitecombs the thunder is felt more than heard, a tremor in the rock underfoot.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Callow cwm lies three hours' climb above Callow Beck, just under the snow line.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The black pool in the Callow cwm is thirty paces across, free of ice, ringed with grey salt crust.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Near the Callow pool Nala's well leans toward it, as at Hollow Tarn but weaker.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ebba's two lost goats graze by the Callow pool, Wave-Warped: grey-scaled, with coral-rough horns.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Warped goats charge anyone who nears the pool, butting as hard as a wolf bites.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "An hour above the Callow cwm, a cliff split fresh at midwinter has buried an old greymaw den.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The buried den reeks faintly of rotten salt; old greymaw prints lead from it downhill at a run.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The split cliff and fled den are sure word: the midwinter quakes shook the greymaws out.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
