@@ -272,6 +272,10 @@ export const overwhereITheGreyfenAlpha = {
         "character-other/overwhere-i-pine-isle-drakewolf-six",
       ],
     },
+    {
+      fact: "Through knee-deep marsh a Drakewolf covers a hundred yards in about twenty-five seconds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
