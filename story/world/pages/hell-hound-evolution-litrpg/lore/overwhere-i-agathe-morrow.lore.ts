@@ -33,7 +33,7 @@ export const overwhereIAgatheMorrow = {
     },
     {
       fact: "The levy collector comes from Wendlow after harvest for coin, or for two young men to march north.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "She has sworn to have Rowan Coalby's Drakewolf killed if the stock kills do not stop.",
