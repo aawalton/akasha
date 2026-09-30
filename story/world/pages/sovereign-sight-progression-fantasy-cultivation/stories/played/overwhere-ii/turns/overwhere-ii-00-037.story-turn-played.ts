@@ -7,7 +7,8 @@ export const overwhereIi00037 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 37,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Sure.” This time, I fight more carefully, waiting for an opening to pull or push him off balance when he’s not expecting it, so I can at least tap him somewhere unarmored.",
+  lore: ["lore/overwhere-ii-reeve-corwin-dray"],
 } as const satisfies StoryTurnPlayed
