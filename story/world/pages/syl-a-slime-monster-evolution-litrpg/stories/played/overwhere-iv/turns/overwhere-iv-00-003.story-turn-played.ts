@@ -10,7 +10,7 @@ export const overwhereIv00003 = {
   position: 3,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Gladly, thank you.” I climb up. “I find I need to take my mind off of recent events. Would you talk me about yourself and the area?”",
   beats: [
@@ -44,6 +44,6 @@ export const overwhereIv00003 = {
     "lore/overwhere-iv-maud-tarrow",
     "lore/overwhere-iv-nala",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T12:24:00.000Z",
 } as const satisfies StoryTurnPlayed
