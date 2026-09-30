@@ -115,5 +115,9 @@ export const overwhereIiGreymaws = {
       fact: "Pushed back while drained, the she-wolf's charge slows and her legs go heavy.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The she-wolf's scale turns a glancing spear, but a braced point met head-on sinks into her chest.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
