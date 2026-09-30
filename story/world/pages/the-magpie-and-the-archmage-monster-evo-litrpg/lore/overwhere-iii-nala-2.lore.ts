@@ -141,5 +141,13 @@ export const overwhereIiiNala2 = {
       fact: "Pulling Cob's shallow blight jolted cold up Nala's arm and left her aching to the shoulder.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Brannagh spooned the seed stone from Hild's bite into Nala's clay cup; it holds one.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
   ],
 } as const satisfies Lore
