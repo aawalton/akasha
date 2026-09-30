@@ -74,7 +74,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "With arms and legs refined, only the skin of Nala's trunk, neck and head is left, the hardest part.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The skin of Nala's trunk, neck and head takes an hour or more with Undertow, and must go at once.",
