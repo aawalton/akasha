@@ -103,5 +103,17 @@ export const overwhereIvNala2 = {
       fact: "A Rift Rend costs Nala a good handful of her warmth.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Casting Rift Rend at the goblin slinger raised Nala's Rift Rend to LV 3.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Dace called the downed slinger Nala's cut, and asked if she'd finish it or he should.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
   ],
 } as const satisfies Lore

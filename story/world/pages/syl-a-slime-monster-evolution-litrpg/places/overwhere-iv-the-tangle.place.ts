@@ -197,15 +197,35 @@ export const overwhereIvTheTangle = {
     },
     {
       fact: "Whirling its sling, the slinger holds still on the trunk for the space of a breath.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "A rend laid through the slinger parts the oak's bark and a limb beneath it as well.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "If the slinger falls, the two hurt scouts throw down their weapons and grovel for mercy.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Nala's thrown Rift Rend took the slinger's sling arm and bit deep into its side.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
+    {
+      fact: "The slinger fell with the oak limb and lies gasping, alive, under Dace's foot at the oak's foot.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
   ],
   secrets: "jsonl",
