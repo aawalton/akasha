@@ -4,10 +4,13 @@ export const overwhereIi00025 = {
   id: "01a0f25a-e3f8-728d-bdd0-6560054c82c7",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-025",
+  ownLength: 228,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 25,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I push the sourness out of my arm into the wolf and try to pull its fading clean life force, if any, into the wound on my arm.",
   beats: [
@@ -27,6 +30,6 @@ export const overwhereIi00025 = {
     'Garth: "That\'s the white-eye herself. The one that leads them."',
     'Garth: "You\'re bleeding. Come in to the fire and let me see that arm."',
   ],
-  lore: ["lore/overwhere-ii-greymaws", "lore/overwhere-ii-undertow"],
+  lore: ["lore/overwhere-ii-greymaws", "lore/overwhere-ii-nala", "lore/overwhere-ii-undertow"],
   endsAt: "2026-09-29T18:07:00.000Z",
 } as const satisfies StoryTurnPlayed
