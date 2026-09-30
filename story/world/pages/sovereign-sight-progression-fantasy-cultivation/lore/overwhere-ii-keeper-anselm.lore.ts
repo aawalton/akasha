@@ -131,6 +131,10 @@ export const overwhereIiKeeperAnselm = {
       fact: "Anselm told Nala he was sorry he lost his nerve at the foot of the fell in the dark.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Anselm knows Carrowmouth thaumists buy Aberrant chambers; none in the valley would.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
