@@ -10,7 +10,7 @@ export const overwhereIi00050 = {
   position: 50,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Either is fine, I’ll learn what anyone can teach me. And now I think I need an early night’s sleep. I have a hunt in the morning.” I take my leave and go sleep in the empty cabin, then gear up in the morning and start scouting.",
   beats: [
@@ -44,6 +44,7 @@ export const overwhereIi00050 = {
     "They are grey-scaled like fish, and their horns are rough and branching like coral.",
     "Neither has lifted its head; the wind blows from them to her, and they have not caught her scent.",
   ],
+  issues: ['"a thousand miles from any sea" - the sea is two days west, at Carrowmouth'],
   lore: [
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",
@@ -51,6 +52,6 @@ export const overwhereIi00050 = {
     "place/overwhere-ii-wendle-ford",
     "place/overwhere-ii-whitecombs",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-01T12:00:00.000Z",
 } as const satisfies StoryTurnPlayed
