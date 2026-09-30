@@ -80,6 +80,22 @@ export const overwhereIiWhitecombs = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Each Warped goat grows a walnut-sized bone chamber behind its breastbone, half full of Water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Under Undertow's hard pull a Warped goat drops in a few heartbeats, sooner than a greymaw.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Warped goats carry no rot in their butt, only bruising force.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Warped goats' flesh is salt-bitter and inedible, and nothing on the mountain eats it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "An hour above the Callow cwm, a cliff split fresh at midwinter has buried an old greymaw den.",
       knowers: ["lore-disclosure/game-master"],
     },
