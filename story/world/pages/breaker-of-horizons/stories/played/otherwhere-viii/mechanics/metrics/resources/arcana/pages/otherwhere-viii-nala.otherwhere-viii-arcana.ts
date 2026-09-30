@@ -9,4 +9,5 @@ export const otherwhereViiiNala = {
   minValue: -20,
   maxValue: 6,
   history: "jsonl",
+  unrevealed: true,
 } as const satisfies OtherwhereViiiArcana

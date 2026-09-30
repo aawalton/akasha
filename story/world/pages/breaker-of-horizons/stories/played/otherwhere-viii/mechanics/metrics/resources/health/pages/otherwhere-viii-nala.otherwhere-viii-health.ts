@@ -9,4 +9,5 @@ export const otherwhereViiiNala = {
   minValue: 0,
   maxValue: 20,
   history: "jsonl",
+  unrevealed: true,
 } as const satisfies OtherwhereViiiHealth

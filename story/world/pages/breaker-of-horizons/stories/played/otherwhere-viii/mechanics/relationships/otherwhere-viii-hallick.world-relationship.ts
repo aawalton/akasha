@@ -8,4 +8,5 @@ export const otherwhereViiiHallick = {
   world: "world/breaker-of-horizons",
   characters: ["character-player/otherwhere-viii-nala", "character-other/otherwhere-viii-hallick"],
   relationshipPoints: 8,
+  unrevealed: true,
 } as const satisfies WorldRelationship
