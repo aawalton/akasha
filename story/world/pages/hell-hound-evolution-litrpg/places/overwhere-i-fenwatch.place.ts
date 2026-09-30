@@ -272,6 +272,10 @@ export const overwhereIFenwatch = {
       fact: "The walk from where Nala left the boar's head to the south palisade takes some twenty minutes.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Mornings the green is quiet: folk are at the reed beds, charcoal mounds and oat strips.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
