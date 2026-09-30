@@ -290,7 +290,11 @@ export const overwhereIiiCorruption = {
     },
     {
       fact: "Within an hour of cleansing, the purple around a bite pales at its edges to a yellow bruise.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
   secrets: "jsonl",
