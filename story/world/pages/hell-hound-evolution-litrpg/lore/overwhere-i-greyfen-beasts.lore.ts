@@ -283,6 +283,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "Nala's mud grip found the first slide's den empty, trodden mud; whatever scrabbled there had left.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Out of the water a reedlurker is slow and clumsy; acts against it on land are a band easier.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
