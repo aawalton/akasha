@@ -7,9 +7,18 @@ export const overwhereI00061 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 61,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“One more question first. Could I turn it into something to improve my spell casting? Gold I have plenty, but an arcane focus would help quite a bit more.”",
+  beats: [
+    "Nala asks if the pearl could be made into an arcane focus, to strengthen her spellcasting.",
+    "She tells him gold she has plenty; a focus would help her far more.",
+    "Osric laughs, loud enough to turn heads at the next table, and calls to Garrick for wine.",
+    "He says a Wendlow enchanter, Ilse Varrow, sets such stones for mages, at a rich man's price.",
+    "Of what a pearl focus does, he knows only that mages swear by them.",
+    "He presses her no more, tips his hat and says his offer stands.",
+    '"Two gold and five silver, any time before I leave for Wendlow, the morning after next."',
+  ],
   lore: [
     "lore/overwhere-i-greyfen-beasts-2",
     "lore/overwhere-i-osric-fenn",
