@@ -104,6 +104,14 @@ export const overwhereIvNala = {
       fact: "Nala's voice is higher and lighter than Alan's, with a faint lilt she did not put there.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Nala gave her name at Millbrook's gate and let the watch take her for a robbed traveller.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-garrett-pell",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

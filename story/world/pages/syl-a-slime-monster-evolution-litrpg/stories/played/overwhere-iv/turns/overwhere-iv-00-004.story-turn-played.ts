@@ -35,6 +35,6 @@ export const overwhereIv00004 = {
     "lore/overwhere-iv-wat-barrow",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-29T12:27:00.000Z",
 } as const satisfies StoryTurnPlayed

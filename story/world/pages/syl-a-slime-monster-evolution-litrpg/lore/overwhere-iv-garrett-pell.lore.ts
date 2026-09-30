@@ -132,5 +132,13 @@ export const overwhereIvGarrettPell = {
       fact: "Garrett's cart horses are named Barley and Moss.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "At the gate Garrett told Wat that the Red Hand had robbed Nala.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-garrett-pell",
+      ],
+    },
   ],
 } as const satisfies Lore

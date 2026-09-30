@@ -25,15 +25,47 @@ export const overwhereIvWatBarrow = {
     },
     {
       fact: "Captain Hale has ordered every traveller robbed by the Red Hand sent to him to be asked.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-garrett-pell",
+      ],
     },
     {
       fact: "Wat would tell a robbed stranger to see the captain in the gatehouse, and Sister Anwen for bread.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-garrett-pell",
+      ],
     },
     {
       fact: "No toll is asked of a stranger on foot with nothing to sell.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Wat Barrow is a young, lanky guard of Millbrook's gate watch who keeps a gate ledger.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-garrett-pell",
+      ],
+    },
+    {
+      fact: "Wat wrote Nala into the gate ledger by name, her business robbed, and asked her no toll.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-garrett-pell",
+      ],
+    },
+    {
+      fact: "Sister Anwen at Millbrook's shrine gives out bread at dusk.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-garrett-pell",
+      ],
     },
   ],
 } as const satisfies Lore
