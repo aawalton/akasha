@@ -10,7 +10,7 @@ export const overwhereI00021 = {
   position: 21,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I weave fire into my muscles for strength, grab the boar by the tusks, and drag him back to the village.",
   beats: [
@@ -28,7 +28,6 @@ export const overwhereI00021 = {
     "She lets the fire go. The heat drains away, leaving her arms trembling and her clothes soaked.",
     "She sits waist-deep in the mud beside a carcass that weighs as much as four grown men.",
     "Her mana reads 78: at ten a minute, fire-strength would last her only about eight minutes more.",
-    "The palisade is a quarter hour's walk away, and the boar lies deeper than when she began.",
   ],
   issues: [
     '"The palisade is a quarter hour\'s walk away, and the boar lies deeper" - Leave It Open',
