@@ -56,5 +56,9 @@ export const overwhereIiiCleansingWeave = {
       fact: "A whole blightstone left half-cracked knits itself back overnight.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A whole blightstone takes ten Cleansing Weaves in one sitting to crack, and leaves a glimmerstone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
