@@ -11,4 +11,5 @@ export const overwhereI00043 = {
   action:
     "I practice with the rock bullets, working on speed and accuracy. I experiment with using the earth attunement to shape the stone to make it more aerodynamic, adding rifling to the stone, and adding spin to the air flow.",
   lore: ["lore/overwhere-i-starfall-legacy"],
+  endsAt: "2026-09-30T15:48:00.000Z",
 } as const satisfies StoryTurnPlayed
