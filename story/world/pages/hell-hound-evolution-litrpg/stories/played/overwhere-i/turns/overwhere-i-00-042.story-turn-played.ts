@@ -10,7 +10,7 @@ export const overwhereI00042 = {
   position: 42,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Eh, I’ll think about it. Need to do some training first anyways. Worst case, I bet I can outrun them.” Since I’m full on mana, I go out a ways from town into the wilderness then practice. I first practice my movement skills, trying differently combinations of two elements to see which one lets me move fastest, testing on both solid ground and marshy ground. Then I test my fire beam to see how far off a distance it can reach. Then I test air and earth for firing a rock bullet as fast and far as possible to compare. Then I try air and fire mixed to create a wide-effect burst attack.",
   beats: [
@@ -19,7 +19,7 @@ export const overwhereI00042 = {
     "She wills air and earth together; the ground kicks back under each stride, a horse's gallop.",
     "On the marsh the same weave sinks into the soft ground and slows her to a fast run.",
     "She wills air and water; she skims over the wet marsh like a skater, gallop-fast again.",
-    "On the dry heath the skim finds nothing to ride and gives her no speed at all.",
+    "On the dry heath the skim drags and stalls her to a walk.",
     "She tries fire and air at her back; it pushes no faster than plain wind and scorches the heather.",
     "She knows her plain Surge wind still wins a short dash, but each weave lasts its full minute.",
     "She points at a lone stone, then further marks, and looses a fire beam at each in turn.",
@@ -30,8 +30,7 @@ export const overwhereI00042 = {
     "The heather in the fan blackens and smokes; each tuft takes half the force of a blast.",
     "[Starfall Weave has reached Level 2.]",
     "[Attunement +3.]",
-    "Mana 96 of 232, and the afternoon is still young; she stands on the scorched heath.",
-    "Fenwatch is a mile back, Rowan Coalby with it, and the marsh stretches on beside her.",
+    "She has 96 of 232 mana left, and half the afternoon to spend.",
   ],
   issues: [
     '"the skim finds nothing to ride" - Plain Negation',
