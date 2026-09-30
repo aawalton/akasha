@@ -193,7 +193,7 @@ export const overwhereITheGreyfenAlpha = {
     },
     {
       fact: "Through a spyglass she can rank the wolves by size, but not read their levels.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Ghost-Eye lies apart on a raised root mound; the watcher sits on a fallen trunk at the NE point.",
