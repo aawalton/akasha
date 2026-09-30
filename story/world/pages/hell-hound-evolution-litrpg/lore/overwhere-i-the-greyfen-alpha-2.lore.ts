@@ -106,5 +106,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "An overcharged slug at 210 yards does Ghost-Eye 10 harm: 24 halved by range, less ward 2.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "An overcharged slug costs 40 mana; a plain spun slug at that range does Ghost-Eye 6.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
