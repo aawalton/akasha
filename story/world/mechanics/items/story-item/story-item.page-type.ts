@@ -10,6 +10,7 @@ export const storyItem = {
   parts: [
     "relation-property/item-character",
     "relation-property/item-essence",
+    "number-property/item-quantity",
     "relation-property/item-place",
     "relation-property/item-slot",
     "relation-property/item-story",
@@ -23,6 +24,7 @@ export const storyItem = {
     { pageProperty: "relation-property/item-place", required: false, many: false },
     { pageProperty: "relation-property/item-slot", required: false, many: false },
     { pageProperty: "relation-property/item-essence", required: false, many: false },
+    { pageProperty: "number-property/item-quantity", required: false, many: false },
   ],
   decisions: [
     {

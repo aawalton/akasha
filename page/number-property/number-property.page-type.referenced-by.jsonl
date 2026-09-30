@@ -297,6 +297,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/mechanics/attunements/properties/attunement-counter.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/mechanics/attunements/ranks/properties/attunement-rank-cap.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/mechanics/currencies/properties/denomination-worth.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/mechanics/items/story-item/properties/item-quantity.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/mechanics/metrics/properties/metric-max-value.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/mechanics/metrics/properties/metric-min-value.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/mechanics/metrics/properties/metric-value.number-property.ts","typed":true,"deferred":false}
