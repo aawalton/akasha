@@ -179,6 +179,10 @@ export const overwhereITheGreyfen = {
       fact: "The marsh west of the Greystakes is knee-deep water and sedge, open but for scattered reed hummocks.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The channel ringing the pine island runs dark and over head height.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
