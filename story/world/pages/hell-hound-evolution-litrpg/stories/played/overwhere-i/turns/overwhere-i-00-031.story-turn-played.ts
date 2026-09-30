@@ -4,10 +4,13 @@ export const overwhereI00031 = {
   id: "01a0f35e-314b-7ff4-8409-890e816f0c43",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-031",
+  ownLength: 150,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 31,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action: "I attune water where the bubbles are and see I can grab the creature and pull it free.",
   beats: [
     "Nala fixes on the bubbles and reaches for water, willing it to close round what lies below.",
@@ -23,6 +26,7 @@ export const overwhereI00031 = {
   ],
   lore: [
     "lore/overwhere-i-greyfen-beasts",
+    "lore/overwhere-i-nala",
     "lore/overwhere-i-starfall-legacy",
     "place/overwhere-i-the-greyfen",
   ],
