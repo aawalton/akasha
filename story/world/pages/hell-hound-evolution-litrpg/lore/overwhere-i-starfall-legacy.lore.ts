@@ -228,5 +228,9 @@ export const overwhereIStarfallLegacy = {
       fact: "A spun slug is easy within 50 yards, moderate to 100, hard past that; it pierces 1 point of ward.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The spun slug is a Weave use and a refined bullet, not a new skill or legacy way.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
