@@ -14,7 +14,7 @@ export const overwhereIv00039 = {
     "character-other/overwhere-iv-ilsa-crane",
     "character-other/overwhere-iv-garrett-pell",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Sure, it can wait for tomorrow, right?” Assuming so, I then get dinner, sleep, train, and then set out for the new quest.",
   beats: [
@@ -38,6 +38,6 @@ export const overwhereIv00039 = {
     "lore/overwhere-iv-nala-2",
     "place/overwhere-iv-reeves-pasture",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-02T09:15:00.000Z",
 } as const satisfies StoryTurnPlayed
