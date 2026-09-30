@@ -256,6 +256,10 @@ export const overwhereIiiTheSystem = {
         "character-other/overwhere-iii-tobin-wick",
       ],
     },
+    {
+      fact: "Hard bodily training on three separate days wins a body skill at Basic; one morning wins none.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
