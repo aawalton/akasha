@@ -10,4 +10,5 @@ export const overwhereIv00032 = {
   stepStatus: "step-status/game-master",
   action: "I watch the slinger and when it launches, I drop to the ground",
   lore: ["place/overwhere-iv-the-tangle"],
+  endsAt: "2026-10-01T13:14:00.000Z",
 } as const satisfies StoryTurnPlayed
