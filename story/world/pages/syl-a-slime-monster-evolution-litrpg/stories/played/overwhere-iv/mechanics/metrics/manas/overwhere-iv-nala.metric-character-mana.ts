@@ -7,7 +7,7 @@ export const overwhereIvNala = {
   character: "character-player/overwhere-iv-nala",
   value: 51,
   minValue: 0,
-  maxValue: 51,
+  maxValue: 61,
   history: "jsonl",
   displayOrder: 2,
   revealedAs: "The warmth behind your ribs is full again, round and heavy",

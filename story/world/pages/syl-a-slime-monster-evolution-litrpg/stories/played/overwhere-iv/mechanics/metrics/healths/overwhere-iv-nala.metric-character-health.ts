@@ -7,7 +7,7 @@ export const overwhereIvNala = {
   character: "character-player/overwhere-iv-nala",
   value: 35,
   minValue: 0,
-  maxValue: 35,
+  maxValue: 45,
   history: "jsonl",
   displayOrder: 1,
   revealedAs: "For the first time since dawn, you feel whole.",

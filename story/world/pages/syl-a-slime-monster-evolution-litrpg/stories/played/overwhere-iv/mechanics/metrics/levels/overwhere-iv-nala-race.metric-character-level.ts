@@ -5,7 +5,7 @@ export const overwhereIvNalaRace = {
   type: "page-type/metric-character-level",
   slug: "overwhere-iv-nala-race",
   character: "character-player/overwhere-iv-nala",
-  value: 2,
+  value: 4,
   minValue: 1,
   history: "jsonl",
 } as const satisfies MetricCharacterLevel
