@@ -329,5 +329,17 @@ export const overwhereIvMillbrookAdventurersHall = {
         "character-other/overwhere-iv-ilsa-crane",
       ],
     },
+    {
+      fact: "For the lookout Ilsa pays 5 silver for ears, 8 copper a goblin core, 3 copper a sheep home.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Split five ways, the lookout pays each 1 silver and 9 copper; 4 copper go to the Four's purse.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "By evening the hall talks of the watch recruit who cut a goblin in two at twenty-five paces.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place

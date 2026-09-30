@@ -314,5 +314,13 @@ export const overwhereIvIlsaCrane = {
         "character-other/overwhere-iv-ilsa-crane",
       ],
     },
+    {
+      fact: "Hearing of a black line that cut a bough, Ilsa thinks of Nala's flare, and says nothing yet.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ilsa would ask Nala to stay after the Four leave, and ask her quietly what that line was.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
