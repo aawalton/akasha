@@ -152,10 +152,7 @@ export const overwhereIiiMagic = {
       fact: "Holy Imbuement, chanted and given by touch, makes weapons holy for about an hour.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Magic cannot conjure food.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+    { fact: "Magic cannot conjure food.", knowers: ["lore-disclosure/game-master"] },
     {
       fact: "Dark magic is forbidden: very powerful, it can negate elemental magic and wound horribly.",
       knowers: ["lore-disclosure/game-master"],
@@ -246,6 +243,10 @@ export const overwhereIiiMagic = {
     },
     {
       fact: "Familiars can learn magic through their masters.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A mana card lit white-gold marks holy aptitude, rarest of all; the Wrenmark has no holy mage.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],

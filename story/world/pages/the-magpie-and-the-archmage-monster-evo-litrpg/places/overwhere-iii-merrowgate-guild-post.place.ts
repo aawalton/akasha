@@ -62,6 +62,10 @@ export const overwhereIiiMerrowgateGuildPost = {
       fact: "Board, in a rough hand: any word of Cal Fenn, to Jory Fenn; he pays what he has.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "The post keeps a box of old gear; Marda lends a new registrant a plain knife, to be returned.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
