@@ -37,7 +37,17 @@ export const overwhereIiiStanding = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The change is added to the relationship page between Nala and that character.",
+      statement:
+        "The change is added to the world-relationship page naming Nala and that character.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each such page is in the story's mechanics/relationships folder, and starts at 0.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The world builder files that page before a character she meets is first scored.",
     },
     {
       decisionKind: "decision-kind/departure",
