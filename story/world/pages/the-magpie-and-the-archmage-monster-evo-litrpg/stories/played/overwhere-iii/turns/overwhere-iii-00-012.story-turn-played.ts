@@ -7,7 +7,8 @@ export const overwhereIii00012 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 12,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I take the knife and follow the instructions to the right area, then see if I can follow the mana currents to the frostcaps to speed up the collection process.",
+  lore: ["place/overwhere-iii-wrenwood"],
 } as const satisfies StoryTurnPlayed
