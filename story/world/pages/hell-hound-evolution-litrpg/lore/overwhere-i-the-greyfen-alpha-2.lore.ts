@@ -129,5 +129,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "After the second spent slug, Ghost-Eye marks exactly where she lies and judges her shots harmless.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The flankers keep low in the reeds, out of sight, and strike together at about 13:38.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
