@@ -218,7 +218,11 @@ export const overwhereIiiBrannaghTull = {
     },
     {
       fact: "She keeps her word: the two low potions are Nala's tonight, whatever comes of the rest.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "She will not touch the seed blightstones; she tips them off with a spoon into a clay cup for Nala.",
