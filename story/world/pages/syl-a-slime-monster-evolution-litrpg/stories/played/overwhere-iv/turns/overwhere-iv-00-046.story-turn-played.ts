@@ -4,13 +4,14 @@ export const overwhereIv00046 = {
   id: "01a0f48f-b860-721f-8be4-a20a4ff4c5bb",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-046",
+  cover: "image/image-5f2caa0dc2434e7f",
   ownLength: 155,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 46,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“Great! Maybe I’ll do both. For now I’ll get some lunch and the go read at the shrine.”",
   beats: [
     '"Great! Maybe I\'ll do both," Nala says. "For now, lunch. Then I\'ll go read at the shrine."',
@@ -31,6 +32,11 @@ export const overwhereIv00046 = {
     "place/overwhere-iv-millbrook-shrine",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-02T12:01:00.000Z",
 } as const satisfies StoryTurnPlayed
