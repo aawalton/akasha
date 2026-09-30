@@ -7,7 +7,13 @@ export const overwhereIi00031 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 31,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“I’m fine. Took out the alpha and thinned the pack, though some of them escaped. I was just going to report to the Reeve. Know if there is anyone here who would be interested in buying the reservoirs? Or a way I could use them in my training?”",
+  lore: [
+    "lore/overwhere-ii-greymaws",
+    "lore/overwhere-ii-keeper-anselm",
+    "lore/overwhere-ii-undertow",
+    "place/overwhere-ii-wendle-ford",
+  ],
 } as const satisfies StoryTurnPlayed
