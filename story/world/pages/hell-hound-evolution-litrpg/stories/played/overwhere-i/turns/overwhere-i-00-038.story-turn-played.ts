@@ -11,4 +11,5 @@ export const overwhereI00038 = {
   action:
     "I start a spiral search pattern using my water and earth detection technique, searching for the third hole.",
   lore: ["lore/overwhere-i-greyfen-beasts-2"],
+  endsAt: "2026-09-30T11:06:00.000Z",
 } as const satisfies StoryTurnPlayed
