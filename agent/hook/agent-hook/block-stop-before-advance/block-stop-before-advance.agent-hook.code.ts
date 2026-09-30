@@ -60,9 +60,9 @@ const FEEDBACK = "Stop hook feedback:"
 
 const PARTED = "/"
 
-export type Kind = "reviewer" | "recorder"
+type Kind = "reviewer" | "recorder"
 
-export type Job = {
+type Job = {
   readonly pageType: string
   readonly slug: string
   readonly address: string
@@ -77,7 +77,7 @@ export type Heard = {
   readonly waiting: boolean
 }
 
-export type Progress = { readonly step: TurnStep | null; readonly done: readonly string[] }
+type Progress = { readonly step: TurnStep | null; readonly done: readonly string[] }
 
 export const SCOPE: readonly string[] = [
   `${HOOK} refuses a story reviewer's or story recorder's stop while the turn it was started for`,
