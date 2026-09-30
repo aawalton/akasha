@@ -141,7 +141,7 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "Seeing the third body, Jory whoops, vouches for all three, and promises her a string of smoked eels.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",

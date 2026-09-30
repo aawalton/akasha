@@ -90,7 +90,7 @@ export const overwhereIGreyfenBeasts2 = {
     },
     {
       fact: "The Level 12's carcass is half again the size of the others, its hide scalded pink in patches.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "A scalded or blistered reedlurker skin sells for two silver, not five.",
