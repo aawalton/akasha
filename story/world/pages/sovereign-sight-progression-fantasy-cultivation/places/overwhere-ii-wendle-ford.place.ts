@@ -134,7 +134,7 @@ export const overwhereIiWendleFord = {
     },
     {
       fact: "The market tinker sells a leather waterskin for three coppers and a wool blanket for a silver.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Day four is market day: stalls go up on the green at dawn, and the carrier's cart is by the Lantern.",
