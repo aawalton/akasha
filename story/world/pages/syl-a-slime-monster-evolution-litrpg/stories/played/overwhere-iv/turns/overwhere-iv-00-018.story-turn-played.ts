@@ -10,4 +10,5 @@ export const overwhereIv00018 = {
   stepStatus: "step-status/game-master",
   action: "I focus on the work, doing my best to follow instructions and learn.",
   lore: ["place/overwhere-iv-millbrook-gatehouse"],
+  endsAt: "2026-09-30T07:45:00.000Z",
 } as const satisfies StoryTurnPlayed
