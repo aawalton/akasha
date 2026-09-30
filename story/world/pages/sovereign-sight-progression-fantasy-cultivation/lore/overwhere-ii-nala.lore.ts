@@ -304,6 +304,10 @@ export const overwhereIiNala = {
       fact: "Pushed too hard, her Water floods a body like cold brine, and it chokes and fevers.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Giving Water and drawing rot in turn, like surf, is Undertow's own rhythm, and eases fine work.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
