@@ -65,5 +65,9 @@ export const overwhereIiiGarrickDole = {
       fact: "By late morning Garrick is awake and sitting up for broth; the purple has drawn back to his knee.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A second pull on Garrick's bite draws another third; the purple shrinks to a hand round the bite.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
