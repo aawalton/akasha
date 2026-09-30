@@ -22,7 +22,7 @@ export const overwhereIiHollowTarn = {
     },
     {
       fact: "Worn stone steps run down into the tarn on its east shore and on into the dark water.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Valley folk say a drowned shrine lies under the tarn, older than the faith of the Ancestors.",
