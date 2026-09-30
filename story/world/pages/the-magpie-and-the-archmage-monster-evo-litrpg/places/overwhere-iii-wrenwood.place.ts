@@ -212,6 +212,10 @@ export const overwhereIiiWrenwood = {
       fact: "Frost lies thick on a row of big beech roots by the Wren Brook, with frostcaps glowing there.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "By the Wren Brook the blue current runs thick beside the water's own, and lends a working well.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
