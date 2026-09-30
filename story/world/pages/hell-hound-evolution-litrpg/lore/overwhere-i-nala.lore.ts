@@ -153,5 +153,9 @@ export const overwhereINala = {
       fact: "Loosing wind answers cooler than fire and leaves a small cool hollow that fills back in on its own.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "A Starfall Surge ward gives ward 4 against blows at legacy rank 1, and holds about a minute.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
