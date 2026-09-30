@@ -179,6 +179,10 @@ export const overwhereIiKeeperAnselm = {
       fact: "Anselm has never heard of anyone refining as fast as Nala does.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Keepers teach that no one Descends until the body is refined enough to bear it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
