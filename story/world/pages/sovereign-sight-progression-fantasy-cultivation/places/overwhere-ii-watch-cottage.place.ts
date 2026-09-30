@@ -33,6 +33,14 @@ export const overwhereIiWatchCottage = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
+      fact: "A stack of peat sits by the watch cottage door, dry on top, and a flint and steel on the mantel.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The watch cottage's rope bed has a straw tick and two coarse wool blankets, musty but sound.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The river runs loud a stone's throw from the watch cottage's door.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
