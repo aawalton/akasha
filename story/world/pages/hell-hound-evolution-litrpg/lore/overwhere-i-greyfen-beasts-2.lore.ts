@@ -76,5 +76,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "A scalded reedlurker bolts down its tunnel into the channel and lunges at the nearest leg ashore.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The alder roots don't block the tunnel; a scalded Level 12 can always bolt out the water mouth.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
