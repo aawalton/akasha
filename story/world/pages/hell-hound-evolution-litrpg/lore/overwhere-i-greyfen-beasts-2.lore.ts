@@ -80,5 +80,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "The alder roots don't block the tunnel; a scalded Level 12 can always bolt out the water mouth.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's den steam killed the Level 12 at 11:09 on day 2; its body lies in its tunnel under the roots.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
