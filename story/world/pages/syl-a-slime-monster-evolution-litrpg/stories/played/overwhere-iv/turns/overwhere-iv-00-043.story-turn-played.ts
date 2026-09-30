@@ -4,13 +4,14 @@ export const overwhereIv00043 = {
   id: "01a0f471-3b67-75fa-9e37-469297617642",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-043",
+  cover: "image/image-1d25592109dd0ae2",
   ownLength: 129,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 43,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“I’m think I’m done for today. Where in town might I find books to read? I worked my body and my mana, time to work my mind.”",
   beats: [
@@ -30,6 +31,11 @@ export const overwhereIv00043 = {
     "place/overwhere-iv-millbrook-shrine",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-02T10:08:00.000Z",
 } as const satisfies StoryTurnPlayed
