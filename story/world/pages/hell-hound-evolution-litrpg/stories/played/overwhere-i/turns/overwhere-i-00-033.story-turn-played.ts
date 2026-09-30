@@ -13,7 +13,7 @@ export const overwhereI00033 = {
     "character-player/overwhere-i-nala",
     "character-other/overwhere-i-reedlurker-of-the-first-holt",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I hit it again with fire and air, blowing it away from the water.",
   beats: [
     "Nala binds fire and wind again and throws the blast low, between the reedlurker and the water.",
@@ -37,6 +37,6 @@ export const overwhereI00033 = {
     "lore/overwhere-i-starfall-legacy",
     "place/overwhere-i-the-greyfen",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T10:53:00.000Z",
 } as const satisfies StoryTurnPlayed
