@@ -156,5 +156,9 @@ export const overwhereIStarfallLegacy = {
       fact: "On marsh the air-and-earth stride sinks and slows to a fast run.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "An air-and-water weave skims her over water and wet marsh like a skater, at a horse's gallop.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
