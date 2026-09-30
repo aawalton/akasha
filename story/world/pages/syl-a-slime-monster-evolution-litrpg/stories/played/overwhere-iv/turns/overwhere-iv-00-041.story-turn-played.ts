@@ -11,4 +11,5 @@ export const overwhereIv00041 = {
   action:
     "“I’ve been working hard on a spear skill. It’s specialized for armor piercing, but turns out that works great on hardwood. What is hardwood but the armor of a tree?” I sat with a smirk. Anything else you need from me? Need the branches trimmed or the trunk chopped up",
   lore: ["place/overwhere-iv-reeves-pasture"],
+  endsAt: "2026-10-02T09:37:00.000Z",
 } as const satisfies StoryTurnPlayed
