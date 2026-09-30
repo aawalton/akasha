@@ -4,13 +4,14 @@ export const overwhereIi00052 = {
   id: "01a0f455-dd7a-7705-9438-bba68f4fdf61",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-052",
+  cover: "image/image-64f83e5186595d20",
   ownLength: 366,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 52,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "Once that’s done, I report back and talk about what I saw and try to understand what it means.",
   beats: [
@@ -43,6 +44,11 @@ export const overwhereIi00052 = {
     "place/overwhere-ii-callow-beck",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-01T19:20:00.000Z",
 } as const satisfies StoryTurnPlayed
