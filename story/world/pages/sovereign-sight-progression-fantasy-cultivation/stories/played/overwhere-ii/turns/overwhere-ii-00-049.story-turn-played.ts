@@ -7,9 +7,20 @@ export const overwhereIi00049 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 49,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Share it all. I expect to take the Chartermark sooner or later anyways. No reason to slow that down.”",
+  beats: [
+    'Nala: "Share it all. I expect to take the Chartermark sooner or later anyways."',
+    'Nala: "No reason to slow that down."',
+    "Relief spreads across Anselm's tired face, and he smiles for the first time today.",
+    'Anselm: "Thank you. I\'ll write it tonight, all of it, and it goes with the carrier on market day."',
+    "Then a small frown creases his brow.",
+    'Anselm: "You should know, though: the Charterstone in Carrowmouth gives marks only at Threllsnacht."',
+    'Anselm: "That\'s nearly a year off."',
+    'Anselm: "If you keep near, I\'d expect the Keepers to teach you through the year until then."',
+    'Anselm: "If you go wandering far, they\'ll only have to find you first."',
+  ],
   lore: ["lore/overwhere-ii-keeper-anselm"],
   endsAt: "2026-09-30T17:02:00.000Z",
 } as const satisfies StoryTurnPlayed
