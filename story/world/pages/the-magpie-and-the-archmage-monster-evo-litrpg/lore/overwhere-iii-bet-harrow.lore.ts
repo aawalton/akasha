@@ -49,6 +49,10 @@ export const overwhereIiiBetHarrow = {
         "character-other/overwhere-iii-bet-harrow",
       ],
     },
+    {
+      fact: "Bet is pleased when a stray pays her own way, and asks what work she found.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
