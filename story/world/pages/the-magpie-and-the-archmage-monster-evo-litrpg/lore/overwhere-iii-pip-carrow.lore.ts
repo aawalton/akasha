@@ -62,7 +62,12 @@ export const overwhereIiiPipCarrow = {
     },
     {
       fact: "Pip gives her name proudly: Pip Carrow, the reeve's daughter, and asks the healer's in return.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-pip-carrow",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "To Nala's sight, the post's thin currents lean toward Pip, as if she drew them without knowing.",
