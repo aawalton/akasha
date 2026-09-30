@@ -61,5 +61,9 @@ export const overwhereIiiIvyMarsh = {
       fact: "Once her hand is clean and closed, Ivy flexes it, swears, and laughs till she has to wipe her eyes.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-ivy-marsh"],
     },
+    {
+      fact: "Healed, Ivy tells Nala her cart and cattle road are hers whenever she needs carrying, free.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-ivy-marsh"],
+    },
   ],
 } as const satisfies Lore
