@@ -115,5 +115,9 @@ export const overwhereITheWesternMarch = {
       fact: "A small mana crystal is a thumb-joint of pale blue crystal, cold to hold and faintly aglow in shade.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "One who draws on a small mana crystal regains 30 mana, and the crystal crumbles to dust.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
