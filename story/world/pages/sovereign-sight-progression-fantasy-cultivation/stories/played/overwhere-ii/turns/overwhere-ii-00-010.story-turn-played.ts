@@ -7,7 +7,13 @@ export const overwhereIi00010 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 10,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Just a Talented, hadn't tried to use my Talent quite like that before, I’m glad it worked. Anyone else get bitten you know of? Wouldn’t mind some more practice with my new technique.”",
+  lore: [
+    "lore/overwhere-ii-garth-marsh",
+    "lore/overwhere-ii-goody-brannoc",
+    "lore/overwhere-ii-wendle-ford-folk",
+    "place/overwhere-ii-marsh-croft",
+  ],
 } as const satisfies StoryTurnPlayed
