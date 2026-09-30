@@ -119,5 +119,9 @@ export const overwhereIiGreymaws = {
       fact: "The she-wolf's scale turns a glancing spear, but a braced point met head-on sinks into her chest.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Pierced to the bone chamber, the she-wolf's Water bursts out as a cold gush of brine, and she dies.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
