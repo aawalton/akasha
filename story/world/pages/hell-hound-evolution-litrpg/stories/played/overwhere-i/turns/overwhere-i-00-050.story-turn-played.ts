@@ -4,10 +4,19 @@ export const overwhereI00050 = {
   id: "01a0f42c-cae4-7f18-b1ce-9207300ff6d7",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-050",
+  ownLength: 169,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 50,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-i-nala",
+    "character-other/overwhere-i-ghost-eye",
+    "character-other/overwhere-i-pine-isle-drakewolf-six",
+    "character-other/overwhere-i-pine-isle-drakewolf-seven",
+    "character-other/overwhere-i-pine-isle-drakewolf-eight",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I launch a bullet at Ghost Eye from where I am, as accurate as I can make it, but with as much power as I can give it, to see if he will approach or retreat.",
   beats: [
@@ -22,6 +31,11 @@ export const overwhereI00050 = {
     "The three wolves with it close up at its sides, snarling too, and hold the shore.",
     "Behind them, the last of the pups vanishes west among the pines.",
   ],
-  lore: ["lore/overwhere-i-starfall-legacy", "lore/overwhere-i-the-greyfen-alpha-2"],
+  lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
+    "lore/overwhere-i-starfall-legacy",
+    "lore/overwhere-i-the-greyfen-alpha-2",
+  ],
   endsAt: "2026-10-01T13:31:00.000Z",
 } as const satisfies StoryTurnPlayed
