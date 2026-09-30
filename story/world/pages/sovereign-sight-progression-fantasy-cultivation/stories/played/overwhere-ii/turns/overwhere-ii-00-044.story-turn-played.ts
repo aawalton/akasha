@@ -4,13 +4,14 @@ export const overwhereIi00044 = {
   id: "01a0f402-7732-72c4-8c4a-57322238dc58",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-044",
+  cover: "image/image-ca3f17ff9cda3d6d",
   ownLength: 235,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 44,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“Sorry, I’ve been a bit busy. We can talk now, I’m free for a few hours at least.”",
   beats: [
     "Nala: \"Sorry, I've been a bit busy. We can talk now. I'm free for a few hours at least.\"",
@@ -36,6 +37,11 @@ export const overwhereIi00044 = {
     "place/overwhere-ii-wendle-ford",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T15:58:00.000Z",
 } as const satisfies StoryTurnPlayed
