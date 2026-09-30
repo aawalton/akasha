@@ -28,6 +28,22 @@ export const overwhereIvMartaHesk = {
         "lore/overwhere-iv-garrett-pell",
       ],
     },
+    {
+      fact: "Marta takes the spear-skill tale whole, and will have it round the square by supper.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Once Marta spreads it, the town talks of a spear trick, and not of magic.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Marta warms to anyone who kills what lurks in the Tangle, for it took her son.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Marta would press Nala's three copper back: a goblin-killer's first meal is on the house.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
