@@ -1,0 +1,32 @@
+import type { StoryChapterPlayed } from "akasha/story/world/stories/played/chapters/story-chapter-played.page-type.types.ts"
+
+export const overwhereIi0006TheSplitCrag = {
+  id: "01a0f483-7753-74e8-bd21-06948761be66",
+  type: "page-type/story-chapter-played",
+  slug: "overwhere-ii-0006-the-split-crag",
+  position: 6,
+  unit: "unit/words",
+  title: "The Split Crag",
+  story: "story-played/overwhere-ii",
+  ownLength: 3948,
+  prose: "txt",
+  turnCovers: [
+    { position: 42, cover: "image/image-3627e238151ff91b" },
+    { position: 43, cover: "image/image-1ac8d2c5b6eb0230" },
+    { position: 44, cover: "image/image-ca3f17ff9cda3d6d" },
+    { position: 45, cover: "image/image-f0533e7bebd0acfa" },
+    { position: 46, cover: "image/image-a8591c4cb436fbbd" },
+    { position: 47, cover: "image/image-59209caf6bab3712" },
+    { position: 48, cover: "image/image-10fd686a6d29612a" },
+    { position: 49, cover: "image/image-46a41e9fada119d4" },
+    { position: 50, cover: "image/image-052def82157c3851" },
+    { position: 51, cover: "image/image-bbf48750bb4eb99f" },
+    { position: 52, cover: "image/image-64f83e5186595d20" },
+    { position: 53, cover: "image/image-4b98c59c90062fd2" },
+    { position: 54, cover: "image/image-63db49cd07ab9d76" },
+    { position: 55, cover: "image/image-9a903d34f8a5607c" },
+  ],
+  lastTurn: "overwhere-ii-00-055",
+  lastTurnPosition: 55,
+  endsAt: "2026-10-02T19:00:00.000Z",
+} as const satisfies StoryChapterPlayed
