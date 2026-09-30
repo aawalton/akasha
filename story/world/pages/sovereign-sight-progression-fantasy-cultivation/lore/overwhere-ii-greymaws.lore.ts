@@ -173,7 +173,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "Nothing living will eat greymaw flesh; the carcasses lie untouched through the night.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The she-wolf's cracked chamber splits in two if torn out roughly; eased out, it holds together.",
