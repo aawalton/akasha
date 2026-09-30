@@ -278,11 +278,11 @@ export const overwhereIiNala = {
     },
     {
       fact: "An hour of fine drawing leaves Nala clear-headed but ravenous, as after a long day's work.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Undertow's first widening lets her draw from anything in its reach, no longer only what she touches.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Undertow's push can pour Water back into a body she has drained, if she keeps the flow gentle.",
@@ -306,7 +306,7 @@ export const overwhereIiNala = {
     },
     {
       fact: "Giving Water and drawing rot in turn, like surf, is Undertow's own rhythm, and eases fine work.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
   secrets: "jsonl",

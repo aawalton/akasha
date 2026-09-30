@@ -45,7 +45,7 @@ export const overwhereIiWendleFordFolk = {
     },
     {
       fact: "Sedge Horne would pay a silver bar, or anything asked, to anyone who saved Tansy.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Col Ashby of the watch lies at the Reeve's house with a greymaw gash gone grey with rot.",
@@ -73,7 +73,7 @@ export const overwhereIiWendleFordFolk = {
     },
     {
       fact: "Tansy's mother, Aud Horne, has not left her daughter's bedside in three days.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Tansy's rot runs far deeper than Wren's; drawing it clean takes near an hour of steady care.",
