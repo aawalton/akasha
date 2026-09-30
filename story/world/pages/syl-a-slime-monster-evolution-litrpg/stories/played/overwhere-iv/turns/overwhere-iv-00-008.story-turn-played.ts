@@ -7,7 +7,8 @@ export const overwhereIv00008 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 8,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Sure! I’d appreciate that. A few questions first though. I assume the guard doesn’t mind adventurer work on the side? What’s the best way to dispatch a slime? Anything I need to be wary of. Assume I’m completely new to this, because I am.”",
+  lore: ["lore/overwhere-iv-ilsa-crane", "place/overwhere-iv-millbrook-common"],
 } as const satisfies StoryTurnPlayed
