@@ -10,7 +10,7 @@ export const overwhereI00044 = {
   position: 44,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I gather appropriate sized stones and spend the afternoon creating as many rifled bullets as my mana will allow and as I can conveniently carry and store them in my pack. Then I can back to the inn for the night. In the morning I pick up my boots then start heading toward the wolves. On the way, I use my mana regen to practice scouting techniques, focusing on combinations of air, fire, and water to create lensing effects to see much longer distances. When I get close enough to have a chance of seeing the wolves, I use my best lensing effects to watch for them from a distance, only slowly moving forward until I see them.",
   beats: [
@@ -42,7 +42,6 @@ export const overwhereI00044 = {
     "One is half again the size of the rest, its left eye milky: Ghost-Eye.",
     "Three half-grown pups sprawl among them.",
     "One wolf sits upright at the edge of the shade, on watch, and its gaze passes over her unmoved.",
-    "Sixty slugs in her pack, 160 mana of 268, and the pack six hundred yards off, unaware of her.",
   ],
   issues: ['"Six hundred yards off, the pack lies in the shade, unaware of you." - Leave It Open'],
   lore: [
