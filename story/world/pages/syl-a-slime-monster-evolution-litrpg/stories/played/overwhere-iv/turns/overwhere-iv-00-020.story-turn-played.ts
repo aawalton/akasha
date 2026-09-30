@@ -11,7 +11,7 @@ export const overwhereIv00020 = {
   position: 20,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I do as instructed, eating then paying to get the knee healed, then I go have a conversation with Ilsa and share the concern and see if she would adjust the report.",
   beats: [
@@ -41,6 +41,11 @@ export const overwhereIv00020 = {
     "place/overwhere-iv-millbrook-gatehouse",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-09-30T09:20:00.000Z",
 } as const satisfies StoryTurnPlayed
