@@ -11,4 +11,5 @@ export const overwhereI00035 = {
   action:
     "“Sorry about that, you can call it even against the reedlurker. Any other traps I should avoid pulling before I try again?”",
   lore: ["place/overwhere-i-the-greyfen"],
+  endsAt: "2026-09-30T10:57:00.000Z",
 } as const satisfies StoryTurnPlayed
