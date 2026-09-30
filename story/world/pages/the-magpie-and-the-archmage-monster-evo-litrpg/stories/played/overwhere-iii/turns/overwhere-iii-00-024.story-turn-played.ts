@@ -7,9 +7,22 @@ export const overwhereIii00024 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 24,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I pull the stones out and sell him the three rabbits, and then take the 23 frostcaps and see if the Post will buy all 23.",
+  beats: [
+    "Nala sets the two fresh rabbits on Dunstan's block and works the loaned knife in at the antlers.",
+    "A minute or two each. Out comes a stone the size of a pea, fainter than her first.",
+    "She wipes both clean and pockets them beside the one she already has.",
+    "Dunstan grunts, takes all three rabbits, and counts fifteen copper into her hand.",
+    "She walks back across town to the south gate as the light goes gray.",
+    "The post is still open. Marda is at the desk, lamp lit.",
+    "Nala sets out her twenty-three frostcaps and asks if the post will buy all of them.",
+    'Marda shakes her head. "Post only buys what a posted job asks. The frostcap job\'s filled this week."',
+    '"Brannagh Tull posts it. She reposts it every market day."',
+    '"But she\'ll take up to forty more this week at her shop, a copper each."',
+    '"Lane off the Wool Square. Open till full dark."',
+  ],
   lore: [
     "lore/overwhere-iii-wrenmark-beasts",
     "place/overwhere-iii-merrowgate",
