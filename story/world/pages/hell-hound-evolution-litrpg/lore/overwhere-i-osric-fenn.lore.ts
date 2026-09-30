@@ -55,6 +55,10 @@ export const overwhereIOsricFenn = {
       fact: "At the Stag, Osric knows the pale blue knots as small mana crystals and offers seven silver each.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Hearing of a drake-pearl, Osric is first to Nala, offering two gold for it on sight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
