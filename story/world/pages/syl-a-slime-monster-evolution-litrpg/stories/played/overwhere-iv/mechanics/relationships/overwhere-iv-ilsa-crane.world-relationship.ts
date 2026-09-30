@@ -7,6 +7,6 @@ export const overwhereIvIlsaCrane = {
   title: "Nala and Ilsa Crane",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  relationshipPoints: 8,
+  relationshipPoints: 7,
   unrevealed: true,
 } as const satisfies WorldRelationship
