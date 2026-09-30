@@ -261,6 +261,10 @@ export const overwhereIiiMagic = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "A mana draught takes if 5 mana is poured into the pot, steady, through its night's steeping.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
