@@ -4,13 +4,14 @@ export const overwhereIi00042 = {
   id: "01a0f3e8-0363-796e-b1ad-32b45d0d9374",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-042",
+  cover: "image/image-3627e238151ff91b",
   ownLength: 252,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 42,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Thank you for the offer, but I expect I’ll need larger challenges than I can find here to grow. If you have any larger issues I can take care of before I go, I’m willing, but after that I’ll be on my way. I’d also like to extract the chambers for the final five wolves ones they are carter back.”",
   beats: [
@@ -35,9 +36,16 @@ export const overwhereIi00042 = {
   lore: [
     "lore/overwhere-ii-greymaws",
     "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-oswy-crake",
     "lore/overwhere-ii-reeve-corwin-dray",
+    "place/overwhere-ii-whitecombs",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T15:13:00.000Z",
 } as const satisfies StoryTurnPlayed
