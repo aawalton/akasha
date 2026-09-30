@@ -28,5 +28,9 @@ export const overwhereIiiCobFerrow = {
       fact: "One pull clears Cob's scratch; it is shallow enough to close by itself without a Mending Weave.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Cob slouches into Brannagh's just after the noon bell, sleeve rolled, trying to look bored.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
