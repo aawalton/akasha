@@ -193,7 +193,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Dray takes right ears as tally for the bounty, once his cart has found the carcasses.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray's cart came back by noon on day two with the four Marsh Croft greymaws; he has seen them.",
@@ -201,7 +201,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "On the afternoon of day two Dray is at the Reeve's house by the green, the carcasses in its yard.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "No cart climbs to the Tarn Screes; for kills up there Dray pays on the right ears alone.",

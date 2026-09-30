@@ -37,6 +37,7 @@ export const overwhereIi00041 = {
     "Reeve Dray: \"It's yours, if you'll stay.\"",
   ],
   lore: [
+    "lore/overwhere-ii-greymaws",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-reeve-corwin-dray",
     "place/overwhere-ii-hollow-tarn",
@@ -44,5 +45,6 @@ export const overwhereIi00041 = {
     "place/overwhere-ii-watch-cottage",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-30T15:03:00.000Z",
 } as const satisfies StoryTurnPlayed
