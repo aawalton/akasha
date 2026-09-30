@@ -10,7 +10,7 @@ export const overwhereIi00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I focus on the feeling in my chest and see if I can a actively cycle it through my system",
   beats: [
@@ -41,6 +41,6 @@ export const overwhereIi00002 = {
     '"ready to go wherever you send it" - No Prompt',
   ],
   lore: ["lore/overwhere-ii-nala"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T06:45:00.000Z",
 } as const satisfies StoryTurnPlayed
