@@ -4,6 +4,7 @@ export const overwhereIv00025 = {
   id: "01a0f391-29f4-7b0b-b080-e2fba5208610",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-025",
+  cover: "image/image-48e8feb4cc924895",
   ownLength: 402,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
@@ -43,6 +44,6 @@ export const overwhereIv00025 = {
   ],
   lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-hobb-farm"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-30T18:29:00.000Z",
 } as const satisfies StoryTurnPlayed
