@@ -300,7 +300,11 @@ export const overwhereIiiNala = {
     },
     {
       fact: "The antlered rabbit's bite on her forearm has closed to a raw pink seam and no longer bleeds.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "Nala now has twenty whole frostcaps: four more from the old beech, two from the split beech.",
