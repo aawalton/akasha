@@ -7,6 +7,7 @@ export const overwhereIi00008 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 8,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action: "I try to feel for my Talent to understand what it can do.",
+  lore: ["lore/overwhere-ii-nala"],
 } as const satisfies StoryTurnPlayed
