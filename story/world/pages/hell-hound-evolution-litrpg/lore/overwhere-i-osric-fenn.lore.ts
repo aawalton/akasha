@@ -109,7 +109,7 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Osric knows a Wendlow enchanter, Ilse Varrow, who sets such stones for mages, at a rich man's price.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Osric knows no more of what a pearl focus does than that mages swear by them.",
