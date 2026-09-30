@@ -4,10 +4,13 @@ export const overwhereIii00018 = {
   id: "01a0f205-b145-7291-b2d6-7025a44c6a75",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-018",
+  ownLength: 307,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 18,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
+  stepStatus: "step-status/reviewers",
   action: "I go and sit, happy for a rest after hauling everything back.",
   beats: [
     "Nala sits on the bench, glad of it; the weight comes off her raw feet, and she lets out a breath.",
@@ -34,6 +37,7 @@ export const overwhereIii00018 = {
   lore: [
     "lore/overwhere-iii-corruption",
     "lore/overwhere-iii-marda-hesk",
+    "lore/overwhere-iii-nala",
     "lore/overwhere-iii-wrenmark-beasts",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
