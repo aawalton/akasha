@@ -153,5 +153,14 @@ export const overwhereIiiNala2 = {
       fact: "Pulling Hild's fresh blight bit cold up Nala's arm, harder than she expected.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala offered Hild a free second mending of her scarred shin tomorrow.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-hild-wendle",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
   ],
 } as const satisfies Lore
