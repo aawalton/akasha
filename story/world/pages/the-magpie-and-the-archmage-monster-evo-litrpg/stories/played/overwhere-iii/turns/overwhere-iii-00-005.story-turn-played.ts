@@ -4,6 +4,7 @@ export const overwhereIii00005 = {
   id: "01a0f16e-e641-7a28-a994-60815c501929",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-005",
+  cover: "image/image-424b11d21c4dade2",
   ownLength: 287,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -14,7 +15,7 @@ export const overwhereIii00005 = {
     "character-other/overwhere-iii-tobin-wick",
     "character-other/overwhere-iii-hal-dunmore",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“I’m…Nala.” I say, and then just keep watching the man’s",
   beats: [
     '"I\'m... Nala," she says, and then goes back to watching the mana currents.',
@@ -43,6 +44,6 @@ export const overwhereIii00005 = {
     "place/overwhere-iii-merrowgate",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-29T17:25:00.000Z",
 } as const satisfies StoryTurnPlayed
