@@ -195,6 +195,10 @@ export const overwhereITheGreyfen = {
       fact: "The hummock line ends south-east of the pine island, off its south-east shore.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A half-sunk pine log lies 140 yards off the island's south-east shore, cover for one crouching.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
