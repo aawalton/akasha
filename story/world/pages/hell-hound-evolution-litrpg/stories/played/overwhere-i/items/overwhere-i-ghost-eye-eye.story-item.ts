@@ -7,6 +7,7 @@ export const overwhereIGhostEyeEye = {
   title: "Ghost-Eye's Eye",
   story: "story-played/overwhere-i",
   character: "character-player/overwhere-i-nala",
+  slot: "item-slot/main-hand",
   description:
     "A hard pearl of clouded crystal, once the milky left eye of the Greyfen's Drakewolf alpha.",
 } as const satisfies StoryItem
