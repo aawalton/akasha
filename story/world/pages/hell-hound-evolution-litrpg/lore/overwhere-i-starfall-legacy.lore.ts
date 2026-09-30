@@ -200,5 +200,9 @@ export const overwhereIStarfallLegacy = {
       fact: "The beam is a Surge use; the moves, bullet and burst are Weave uses; none is a new way.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Moving by weave over open ground, and practice at still marks within reach, need no check.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
