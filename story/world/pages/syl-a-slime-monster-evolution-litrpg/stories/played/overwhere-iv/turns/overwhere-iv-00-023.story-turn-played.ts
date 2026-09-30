@@ -4,10 +4,13 @@ export const overwhereIv00023 = {
   id: "01a0f379-bf58-7d71-bc7e-746bbb02abb4",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-023",
+  ownLength: 182,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 23,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action: "“How many? If it’s less than three I think I could take them.”",
   beats: [
     '"How many?" Nala asks. "If it\'s less than three, I think I could take them."',
@@ -21,6 +24,6 @@ export const overwhereIv00023 = {
     'Hobb stares at him. "You never said."',
     'Pim goes red to the ears, eyes on the far wall. "Didn\'t think it mattered. It was about now."',
   ],
-  lore: ["place/overwhere-iv-hobb-farm"],
+  lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-hobb-farm"],
   endsAt: "2026-09-30T18:12:00.000Z",
 } as const satisfies StoryTurnPlayed
