@@ -43,5 +43,6 @@ export const overwhereI00008 = {
     "Then she looks up and across the water, straight at the ring of fallen stone, and at Nala in it.",
   ],
   lore: ["lore/overwhere-i-hessa-vane", "lore/overwhere-i-nala", "place/overwhere-i-greyfen-ford"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T11:05:00.000Z",
 } as const satisfies StoryTurnPlayed
