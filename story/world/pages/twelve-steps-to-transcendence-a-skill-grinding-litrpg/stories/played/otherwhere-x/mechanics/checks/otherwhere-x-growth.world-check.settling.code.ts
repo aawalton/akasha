@@ -1,4 +1,4 @@
-import { otherwhereXEssence } from "akasha/story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/stories/played/otherwhere-x/mechanics/metrics/resources/essence/otherwhere-x-essence.page-type.ts"
+import { metricCharacterExperience } from "akasha/story/world/mechanics/metrics/metric-character/resource/experience/metric-character-experience.page-type.ts"
 import { z } from "zod"
 
 const RARITIES = {
@@ -197,7 +197,7 @@ export function added(reading: unknown, answered: unknown): readonly Added[] {
   if (!held.success || turned.essenceGained === 0) return []
   return [
     {
-      page: `${otherwhereXEssence.slug}/${held.data.character}`,
+      page: `${metricCharacterExperience.slug}/${held.data.character}`,
       key: "value",
       by: turned.essenceGained,
     },
