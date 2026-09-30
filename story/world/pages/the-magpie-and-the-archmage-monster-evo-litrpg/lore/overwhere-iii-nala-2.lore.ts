@@ -207,5 +207,17 @@ export const overwhereIiiNala2 = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
+    {
+      fact: "Nala paid Bet 3 copper for supper and 8 for a bed on her fourth night.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-bet-harrow",
+      ],
+    },
+    {
+      fact: "On day five the stag stone's blight bit cold to Nala's wrist, harder than the day before.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
