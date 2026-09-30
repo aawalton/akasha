@@ -39,5 +39,17 @@ export const overwhereIvBrennaHolt = {
       fact: "Brenna Holt's left hand is short two fingers, and she works it quick as anything.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Holt has heard slimes creep toward strong mana, and guesses Nala carries a strong affinity.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Holt would tell Nala to touch the hall's cracked crystal, or go to Aubrin to be tested.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Holt thinks a recruit with real magic is wasted on gate duty, and would say so to Hale.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
