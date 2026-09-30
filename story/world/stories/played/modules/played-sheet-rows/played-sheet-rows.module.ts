@@ -63,6 +63,15 @@ export const playedSheetRows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A trait is named by the trait page its holding names, or by the holding itself where it names none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A trait's score is its rank, and its note is its trait page's description.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A quest is keyed by its page's slug.",
     },
     {

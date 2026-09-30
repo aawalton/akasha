@@ -17,6 +17,7 @@ import {
   resourcesIn,
   scoresIn,
   skillsIn,
+  traitsIn,
 } from "akasha/story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.code.ts"
 
 const SMITHING = namedAs(worldSkill.slug, theTowerSmithing.slug, null)
@@ -142,6 +143,21 @@ test("a skill whose rank is a number is scored by that rank", () => {
   const titles = new Map([[SMITHING, theTowerSmithing.title]])
   expect(skillsIn([{ values: { skill: SMITHING, rank: 2 } }], titles)).toEqual([
     { name: theTowerSmithing.title, score: 2 },
+  ])
+})
+
+test("a trait is named and noted by the trait page its holding names, and scored by its rank", () => {
+  const named = "some-trait/some-weaving"
+  const titles = new Map([[named, "Weaving"]])
+  const descriptions = new Map([[named, "a knack for threads"]])
+  const rows = [
+    { values: { trait: named, rank: 2, title: "Nala's Weaving" } },
+    { values: { title: "Keen Nose", description: "smells far", rank: 1 } },
+    { values: { trait: "some-trait/unknown" } },
+  ]
+  expect(traitsIn(rows, titles, descriptions)).toEqual([
+    { name: "Keen Nose", score: 1, note: "smells far" },
+    { name: "Weaving", score: 2, note: "a knack for threads" },
   ])
 })
 

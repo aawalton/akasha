@@ -206,6 +206,31 @@ export function skillsIn(
   return skills.toSorted(byName)
 }
 
+const TRAIT_KEY = "trait"
+
+const DESCRIPTION_KEY = "description"
+
+export function traitsIn(
+  rows: readonly QueryRow[],
+  titles: Titles,
+  descriptions: Titles = new Map()
+): readonly Skill[] {
+  const traits: Skill[] = []
+  for (const row of rows) {
+    const named = row.values[TRAIT_KEY]
+    const name = titleAt(named, titles) ?? ownNameOf(row) ?? undefined
+    if (name === undefined) continue
+    const score = parseNumber(row.values[RANK_KEY])
+    const note = titleAt(named, descriptions) ?? textIn(row.values[DESCRIPTION_KEY])
+    traits.push({
+      name,
+      ...(score === undefined ? {} : { score }),
+      ...(note === null ? {} : { note }),
+    })
+  }
+  return traits.toSorted(byName)
+}
+
 export function questsIn(rows: readonly QueryRow[]): readonly Quest[] {
   const quests: Quest[] = []
   for (const row of rows) {
