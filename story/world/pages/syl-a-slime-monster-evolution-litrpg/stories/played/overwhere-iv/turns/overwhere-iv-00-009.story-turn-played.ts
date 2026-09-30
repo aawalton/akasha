@@ -41,5 +41,6 @@ export const overwhereIv00009 = {
     "\"That's the fattest on the whole common. I saw it first. You spear it and I'll tell.\"",
   ],
   lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-millbrook-common"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T15:07:00.000Z",
 } as const satisfies StoryTurnPlayed
