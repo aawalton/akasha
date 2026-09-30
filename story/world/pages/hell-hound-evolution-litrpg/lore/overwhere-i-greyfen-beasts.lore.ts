@@ -211,6 +211,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "A holt tunnels up from under water into a dry chamber in the bank, below its air hole.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "A reedlurker holds its breath a quarter hour, so water held on its head drowns it only that slowly.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
