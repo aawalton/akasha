@@ -54,7 +54,11 @@ export const overwhereIiiPipCarrow = {
     },
     {
       fact: "Told the healer doesn't know how her magic works, Pip swears to find out first and tell only her.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-pip-carrow",
+      ],
     },
     {
       fact: "Pip gives her name proudly: Pip Carrow, the reeve's daughter, and asks the healer's in return.",
