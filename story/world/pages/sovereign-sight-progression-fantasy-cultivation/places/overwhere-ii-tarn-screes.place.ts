@@ -18,7 +18,7 @@ export const overwhereIiTarnScrees = {
     },
     {
       fact: "By day the five greymaws left lie up in the den, sluggish and ill-tempered until dusk.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Greymaw tracks are plain: webbed prints and smears of grey slime on the stones.",
