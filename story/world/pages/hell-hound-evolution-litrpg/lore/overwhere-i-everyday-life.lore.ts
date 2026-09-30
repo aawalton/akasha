@@ -206,5 +206,9 @@ export const overwhereIEverydayLife = {
       fact: "A farmer with a poor harvest may petition the Verdant court for tax relief.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Steam cleans wool well in a minute; held much longer, it felts and shrinks it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
