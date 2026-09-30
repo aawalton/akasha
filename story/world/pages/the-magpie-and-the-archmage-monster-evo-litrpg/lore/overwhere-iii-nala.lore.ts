@@ -250,6 +250,22 @@ export const overwhereIiiNala = {
       fact: "Nala cut fourteen good frostcaps in well under an hour and wraps them in her shirt front.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Her first shaping of raw current into force earns the skill Current Lash from the System.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Earning it shows: [New skill acquired – Current Lash.]",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "[Current Lash – At [Basic] level, loose raw current as a lash, a shove or a ward.]",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Cleared: [Mana Weaver – At [Basic] level, you see currents and auras. They lend your workings mana.]",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

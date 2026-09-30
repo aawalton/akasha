@@ -56,5 +56,13 @@ export const overwhereIiiWrenmarkBeasts = {
       fact: "Bandits are rare in the Wrenmark; the hill passes see a gang or two each summer.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A jackalope's glow gathers at its antlers a breath before it lunges to butt and bite.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A jackalope's one glimmerstone sits at the base of its antlers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
