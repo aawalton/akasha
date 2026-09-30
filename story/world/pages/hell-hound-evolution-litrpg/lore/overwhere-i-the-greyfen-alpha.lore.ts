@@ -207,6 +207,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "Caked in fen muck, a person's scent carries a third as far; a Drakewolf smells her at 100 yards.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Past the hummocks the marsh is open; each fifty yards crept nearer is a hard act.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
