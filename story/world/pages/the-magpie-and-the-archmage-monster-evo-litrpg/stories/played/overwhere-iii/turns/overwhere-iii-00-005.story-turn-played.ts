@@ -4,10 +4,17 @@ export const overwhereIii00005 = {
   id: "01a0f16e-e641-7a28-a994-60815c501929",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-005",
+  ownLength: 287,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 5,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-tobin-wick",
+    "character-other/overwhere-iii-hal-dunmore",
+  ],
+  stepStatus: "step-status/reviewers",
   action: "“I’m…Nala.” I say, and then just keep watching the man’s",
   beats: [
     '"I\'m... Nala," she says, and then goes back to watching the mana currents.',
@@ -29,6 +36,7 @@ export const overwhereIii00005 = {
   ],
   lore: [
     "lore/overwhere-iii-hal-dunmore",
+    "lore/overwhere-iii-nala",
     "lore/overwhere-iii-tobin-wick",
     "place/overwhere-iii-merrowgate",
   ],
