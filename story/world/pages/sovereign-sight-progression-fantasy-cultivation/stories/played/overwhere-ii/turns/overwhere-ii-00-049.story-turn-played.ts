@@ -11,4 +11,5 @@ export const overwhereIi00049 = {
   action:
     "“Share it all. I expect to take the Chartermark sooner or later anyways. No reason to slow that down.”",
   lore: ["lore/overwhere-ii-keeper-anselm"],
+  endsAt: "2026-09-30T17:02:00.000Z",
 } as const satisfies StoryTurnPlayed
