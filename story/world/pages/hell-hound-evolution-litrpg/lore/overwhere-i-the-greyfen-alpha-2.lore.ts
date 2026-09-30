@@ -256,5 +256,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Ghost-Eye starts when she is 100 yards off the island: 15 seconds swimming, 25 across the marsh.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Slugs at Ghost-Eye: moderate at 50-100 yards, easy under 50, a band harder once it runs the marsh.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
