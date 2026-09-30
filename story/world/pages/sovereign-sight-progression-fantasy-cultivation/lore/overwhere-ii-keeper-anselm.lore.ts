@@ -91,6 +91,10 @@ export const overwhereIiKeeperAnselm = {
       fact: "Anselm held Col's ankle while Nala drew, gone rigid, breathing like a man at the edge of the sea.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "No canticle Anselm knows names a Talent called Undertow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
