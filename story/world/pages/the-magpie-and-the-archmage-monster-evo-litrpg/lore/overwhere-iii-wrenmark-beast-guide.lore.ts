@@ -42,7 +42,7 @@ export const overwhereIiiWrenmarkBeastGuide = {
     },
     {
       fact: "In Marda's hand beside the jackalope: 'Antler ground fine goes in Brannagh's mana draught.'",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Hill boar, Level 4-8: charges head-down; step aside and strike the flank. Meat and tusks 12 copper.",
