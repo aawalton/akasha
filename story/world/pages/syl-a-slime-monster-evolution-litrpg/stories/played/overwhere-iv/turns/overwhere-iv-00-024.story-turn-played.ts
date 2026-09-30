@@ -4,13 +4,14 @@ export const overwhereIv00024 = {
   id: "01a0f385-6677-7600-a90c-dc5982ebc9e5",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-024",
+  cover: "image/image-38a5af1cf7bbea30",
   ownLength: 359,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 24,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Okay, maybe wolves, maybe goblins or something similar. Point me where to go, and I’ll take a look.” Once I know where to go, I stay in that direction and practice combining my Dimensional Magic with the spear, jumping the spear forward beyond its normal reach.",
   beats: [
@@ -37,8 +38,13 @@ export const overwhereIv00024 = {
     '"They haven\'t seen you." - No Prompt',
     '"The warmth ... sits at about half now" - 6+ folds done; seven folds run her warmth near empty',
   ],
-  lore: ["lore/overwhere-iv-nala"],
+  lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-hobb-farm"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T18:27:00.000Z",
 } as const satisfies StoryTurnPlayed
