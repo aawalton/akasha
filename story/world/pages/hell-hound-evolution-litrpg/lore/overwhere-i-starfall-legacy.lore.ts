@@ -132,5 +132,9 @@ export const overwhereIStarfallLegacy = {
       fact: "A steam weave heating a holt tunnel's water fills the den above with scalding steam in a minute.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Den-filling steam scalds as a Surge strike of fire; heat it cannot see is a moderate act, not easy.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
