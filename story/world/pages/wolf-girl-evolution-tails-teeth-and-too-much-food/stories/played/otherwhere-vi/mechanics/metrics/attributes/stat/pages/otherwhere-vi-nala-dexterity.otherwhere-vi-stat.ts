@@ -8,5 +8,4 @@ export const otherwhereViNalaDexterity = {
   value: 4,
   minValue: 0,
   history: "jsonl",
-  unrevealed: true,
 } as const satisfies OtherwhereViStat

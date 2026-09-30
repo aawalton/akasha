@@ -9,5 +9,4 @@ export const otherwhereViNalaLevel = {
   minValue: 1,
   maxValue: 10,
   history: "jsonl",
-  unrevealed: true,
 } as const satisfies OtherwhereViStat

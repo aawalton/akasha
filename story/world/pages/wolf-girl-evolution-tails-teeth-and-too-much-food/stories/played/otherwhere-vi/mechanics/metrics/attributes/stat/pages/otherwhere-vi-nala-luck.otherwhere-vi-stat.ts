@@ -8,5 +8,4 @@ export const otherwhereViNalaLuck = {
   value: 2,
   minValue: 0,
   history: "jsonl",
-  unrevealed: true,
 } as const satisfies OtherwhereViStat
