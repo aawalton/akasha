@@ -233,7 +233,7 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "Anselm knows letters pass many hands in Carrowmouth, and a great Talent's name draws ill notice too.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Anselm thinks a bare letter would slow the Keepers, but they would still come to see for themselves.",
