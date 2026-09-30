@@ -35,7 +35,12 @@ export const overwhereIiiEddaCrane = {
     },
     {
       fact: "Blighted stumps crowd her kilns, and she's seen gray-furred things moving there at dusk.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-edda-crane"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-edda-crane",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
     },
     {
       fact: "The charcoal-burner is a tiny, soot-grimed old woman who says, 'Let's see you work, then.'",
