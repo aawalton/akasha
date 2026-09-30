@@ -30,5 +30,6 @@ export const overwhereIv00037 = {
   ],
   lore: ["lore/overwhere-iv-ilsa-crane", "lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-10-01T15:51:00.000Z",
 } as const satisfies StoryTurnPlayed
