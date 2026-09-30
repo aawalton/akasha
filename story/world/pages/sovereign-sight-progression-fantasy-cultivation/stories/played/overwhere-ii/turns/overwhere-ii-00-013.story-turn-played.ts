@@ -10,7 +10,7 @@ export const overwhereIi00013 = {
   position: 13,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "“Hmm, I don’t think the iron is stopping it, let’s try burning. If that doesn’t do it, I’ll pull it back into the pot, and we’ll bring it with us.”",
   beats: [
