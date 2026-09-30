@@ -64,6 +64,30 @@ export const overwhereIiiBrannaghTull = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
+    {
+      fact: "Her shop is dim and low, hung with drying herbs, and smells of mint and woodsmoke.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
+    {
+      fact: "Brannagh knows Nala came to her shop on Marda's word.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
+    {
+      fact: "She bought Nala's twenty-three clean frostcaps for twenty-three copper.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
