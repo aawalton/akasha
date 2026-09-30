@@ -166,6 +166,10 @@ export const overwhereIiiMerrowgateGuildPost = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "Brannagh posts the frostcap job again each market day; this week's is filled.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
