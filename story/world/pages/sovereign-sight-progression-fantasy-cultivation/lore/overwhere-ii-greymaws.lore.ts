@@ -41,7 +41,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "A greymaw shrugs off a spear thrust that would kill an ordinary wolf.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The Reeve's watch has killed one greymaw in two fights and lost a man doing it.",
