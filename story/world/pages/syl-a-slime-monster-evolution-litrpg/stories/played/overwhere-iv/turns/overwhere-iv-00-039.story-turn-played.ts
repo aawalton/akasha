@@ -4,6 +4,7 @@ export const overwhereIv00039 = {
   id: "01a0f441-9bad-7d4a-918c-08234b6b6746",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-039",
+  cover: "image/image-354db36b1b44a401",
   ownLength: 214,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
@@ -14,7 +15,7 @@ export const overwhereIv00039 = {
     "character-other/overwhere-iv-ilsa-crane",
     "character-other/overwhere-iv-garrett-pell",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Sure, it can wait for tomorrow, right?” Assuming so, I then get dinner, sleep, train, and then set out for the new quest.",
   beats: [
@@ -41,6 +42,11 @@ export const overwhereIv00039 = {
     "place/overwhere-iv-reeves-pasture",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-02T09:15:00.000Z",
 } as const satisfies StoryTurnPlayed
