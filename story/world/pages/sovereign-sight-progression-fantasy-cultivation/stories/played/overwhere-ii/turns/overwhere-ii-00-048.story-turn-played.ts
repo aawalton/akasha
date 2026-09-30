@@ -28,5 +28,6 @@ export const overwhereIi00048 = {
     'Anselm: "So: all of it, or the bare bones. Which would you have?"',
   ],
   lore: ["lore/overwhere-ii-keeper-anselm", "lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-30T16:57:00.000Z",
 } as const satisfies StoryTurnPlayed
