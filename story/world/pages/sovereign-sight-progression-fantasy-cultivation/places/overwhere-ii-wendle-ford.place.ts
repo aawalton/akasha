@@ -92,5 +92,9 @@ export const overwhereIiWendleFord = {
       fact: "The Horne kitchen keeps a hot iron range lit all day, below Tansy's room.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Horne's kitchen range, below Tansy's room, is lit and hot as a forge, and Horne stokes it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place

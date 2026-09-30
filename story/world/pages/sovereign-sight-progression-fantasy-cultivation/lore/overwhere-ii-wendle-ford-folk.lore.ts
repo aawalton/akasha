@@ -103,5 +103,21 @@ export const overwhereIiWendleFordFolk = {
       fact: "Drained of her own Water, Tansy sinks, and dies within the hour unless it is given back.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Deep in Tansy's arm the rot threads grow finer, crossing and doubling back past telling apart.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Nala's pull drank some of Tansy's own life; Tansy went ashen, cold and blue-lipped, and swooned.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Nala's first try drew only a pinch of salt from Tansy; her rot is still nearly whole.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Sedge Horne hauled Nala off Tansy's bed by the collar, pinned her to the wall, and roared at her.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
