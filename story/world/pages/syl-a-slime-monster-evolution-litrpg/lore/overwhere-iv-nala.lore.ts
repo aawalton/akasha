@@ -223,6 +223,36 @@ export const overwhereIvNala = {
         "character-other/overwhere-iv-wat",
       ],
     },
+    {
+      fact: "Nala lost her first sparring bout to Dell when her bad knee buckled, and yielded.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-dell",
+        "character-other/overwhere-iv-brenna-holt",
+        "character-other/overwhere-iv-wat",
+        "character-other/overwhere-iv-oswin-pike",
+      ],
+    },
+    {
+      fact: 'After she yielded, Dell called Nala "Lamb-girl" to the whole yard.',
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-dell",
+        "character-other/overwhere-iv-brenna-holt",
+        "character-other/overwhere-iv-wat",
+        "character-other/overwhere-iv-oswin-pike",
+      ],
+    },
+    {
+      fact: "Holt told Nala she saw Dell's opening after his lunge, but was late to take it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

@@ -162,11 +162,21 @@ export const overwhereIvMillbrookGatehouse = {
     },
     {
       fact: "Sparring is with blunted practice spears and wicker shields, until one yields or Holt calls it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
+        "character-other/overwhere-iv-dell",
+      ],
     },
     {
       fact: "Dell spars loud and wild, and leaves his left side open after every lunge.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
+        "character-other/overwhere-iv-dell",
+      ],
     },
     {
       fact: "Identify shows Dell Farrow as Human LV 11, Guard LV 8.",
@@ -178,7 +188,11 @@ export const overwhereIvMillbrookGatehouse = {
     },
     {
       fact: "Holt teaches by stopping a bout to move a recruit's feet or hands, then starting it again.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
+      ],
     },
     {
       fact: "Breakfast after drill is porridge with a spoon of honey, and small beer.",

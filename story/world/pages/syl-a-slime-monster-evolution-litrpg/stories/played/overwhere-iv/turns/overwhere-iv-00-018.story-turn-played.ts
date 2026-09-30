@@ -36,6 +36,6 @@ export const overwhereIv00018 = {
   ],
   lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-millbrook-gatehouse"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
   endsAt: "2026-09-30T07:45:00.000Z",
 } as const satisfies StoryTurnPlayed
