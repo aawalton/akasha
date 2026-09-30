@@ -171,10 +171,7 @@ export const overwhereIvHobbFarm = {
       fact: "A goblin has a small dull core under its breastbone, worth 8 copper at the hall.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "The Millbrook hall pays 5 copper a goblin on its board, a left ear kept as proof.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "The spear goblin's flint-tipped spear lies in the wet grass where it dropped it.",
       knowers: ["lore-disclosure/game-master"],

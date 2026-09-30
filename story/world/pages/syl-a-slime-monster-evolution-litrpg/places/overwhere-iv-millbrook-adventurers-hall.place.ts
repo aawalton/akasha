@@ -305,5 +305,13 @@ export const overwhereIvMillbrookAdventurersHall = {
         "character-other/overwhere-iv-ilsa-crane",
       ],
     },
+    {
+      fact: "The goblin bounty pays only on an ear; a goblin driven off pays nothing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Goblins raiding a farm are written in the ledger, and Ilsa pins a job for them by morning.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
