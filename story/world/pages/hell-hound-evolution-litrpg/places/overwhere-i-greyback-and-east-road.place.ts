@@ -13,7 +13,7 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "The cart track climbs its western face from the ford in three tight switchbacks through pines.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "The climb from the ford to the crest takes most of half an hour on foot.",
@@ -21,7 +21,7 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "From the crest the track runs down through stumps and rough pasture to Fenwatch's west gate.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "From the crest one sees Fenwatch's smoke and palisade to the east and the whole Greyfen to the west.",

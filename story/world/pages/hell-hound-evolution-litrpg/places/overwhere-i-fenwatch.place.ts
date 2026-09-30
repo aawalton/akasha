@@ -101,7 +101,7 @@ export const overwhereIFenwatch = {
     },
     {
       fact: "Reeve Agathe Morrow has cried a bounty of one gold and the pelt for whoever kills Sootjaw.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Many villagers blame Rowan Coalby's bonded Drakewolf for the stock kills.",
@@ -153,7 +153,7 @@ export const overwhereIFenwatch = {
     },
     {
       fact: "Tobin's news has a crowd of villagers at the west gate when the cart comes in on day one.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",

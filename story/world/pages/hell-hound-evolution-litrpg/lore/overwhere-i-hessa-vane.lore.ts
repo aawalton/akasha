@@ -147,6 +147,10 @@ export const overwhereIHessaVane = {
       fact: "Hessa told Nala that money is not easy come here, and nor are second chances.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Hessa told the reeve the Brute was Nala's kill, saying she saw the wound.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

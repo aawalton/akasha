@@ -13,7 +13,7 @@ export const overwhereIAgatheMorrow = {
     },
     {
       fact: "She is about sixty, stout and short, with an iron-grey braid pinned in a crown.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "She leans on an ash staff for a bad hip, and her voice carries across the green without shouting.",
@@ -73,7 +73,19 @@ export const overwhereIAgatheMorrow = {
     },
     {
       fact: "She pays the bounty as one gold coin, counted out on the Tarred Stag's table before witnesses.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "She leans on an ash staff, and her voice carries the length of a hall without her raising it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "She named herself to Nala as Agathe Morrow, reeve of Fenwatch.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Having paid the bounty, she asked Nala where she has come from and whether she is staying.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
