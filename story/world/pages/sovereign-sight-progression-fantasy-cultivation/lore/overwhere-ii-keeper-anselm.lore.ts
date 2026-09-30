@@ -173,7 +173,7 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "Anselm teaches that each Descent brings a Tribulation, a trial in the Sea no one can face for you.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Anselm has never heard of anyone refining as fast as Nala does.",
