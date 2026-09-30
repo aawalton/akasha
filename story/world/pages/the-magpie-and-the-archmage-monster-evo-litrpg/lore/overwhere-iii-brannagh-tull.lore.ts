@@ -387,6 +387,10 @@ export const overwhereIiiBrannaghTull = {
       fact: "One jackalope's antlers, ground, make two mana draughts, each filling a small store of mana.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
+    {
+      fact: "Brannagh would brew mana draughts at cost for whoever brings her the antler and frostcap.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
