@@ -63,7 +63,27 @@ export const overwhereIiiBrannaghTull2 = {
     },
     {
       fact: "Her mother poured into the pot at day's end, from mana a night's sleep would have filled anyway.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
+    },
+    {
+      fact: "One jackalope's antlers, ground, make two mana draughts, each filling a small store of mana.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
+    },
+    {
+      fact: "Her mother held the crossroads shrine gives back what a day took, to those who rest there.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
 } as const satisfies Lore
