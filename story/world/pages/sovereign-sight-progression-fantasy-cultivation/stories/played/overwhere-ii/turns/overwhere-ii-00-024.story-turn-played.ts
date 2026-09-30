@@ -10,7 +10,7 @@ export const overwhereIi00024 = {
   position: 24,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I run towards it and when I get close I pull on the reservoir of the beast while pushing on its flesh, then plant the spear directly in front of its charge.",
   beats: [
@@ -42,6 +42,6 @@ export const overwhereIi00024 = {
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-undertow",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T18:04:00.000Z",
 } as const satisfies StoryTurnPlayed
