@@ -116,5 +116,9 @@ export const overwhereIiUndertow = {
       fact: "Her own Water pushed into a wound knits its torn edges together from the ends inward.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Turned on her own well, Undertow draws the salt out of foreign brine, leaving it clear Water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
