@@ -274,6 +274,10 @@ export const overwhereIiiNala = {
       fact: "An antlered rabbit's bite opened her forearm deep enough to bleed down her wrist.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Killing the antlered rabbit earned Nala experience from the System.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

@@ -152,6 +152,18 @@ export const overwhereIiiWrenwood = {
       fact: "The antlered rabbit under the old beech is hurt, with a shallow knife cut along its jaw.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala's aimed Current Lash killed the antlered rabbit under the old beech in one blow.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "Four frostcaps under the old beech's root are still whole, glowing cold.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "The dead rabbit's glow drained into the current, all but a faint spot at the base of its antlers.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
