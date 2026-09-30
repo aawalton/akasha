@@ -590,6 +590,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/reputations/world-reputation.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/skills/world-skill.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/songs/world-song.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/species/character-species/character-species.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/species/world-species.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/spells/world-spell.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/titles/world-title.page-type.ts","typed":true,"deferred":false}

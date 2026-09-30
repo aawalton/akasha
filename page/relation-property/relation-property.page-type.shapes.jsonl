@@ -97,6 +97,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-grimoire","unique":null,"uniquePropertySlug":null,"slug":"grimoire-id","propertySlug":"grimoire-id","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"harem-hotel-floor-character","propertySlug":"character","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"heard-source","unique":null,"uniquePropertySlug":null,"slug":"heard-source","propertySlug":"heard-source","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-species","unique":null,"uniquePropertySlug":null,"slug":"held-species","propertySlug":"species","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"value","unique":null,"uniquePropertySlug":null,"slug":"identity-statement-value","propertySlug":"identity-statement-value","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"image-persona","propertySlug":"persona","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"host","unique":null,"uniquePropertySlug":null,"slug":"inference-host","propertySlug":"host","fileName":null,"folderName":null}
@@ -257,6 +258,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"song","unique":null,"uniquePropertySlug":null,"slug":"song","propertySlug":"song","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-metric","unique":null,"uniquePropertySlug":null,"slug":"source-effect-metric","propertySlug":"metric","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-special-effect-type","unique":null,"uniquePropertySlug":null,"slug":"special-effect","propertySlug":"special-effect","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"species-character","propertySlug":"character","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,"slug":"spelling-scope","propertySlug":"scope","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"seat-mode","unique":null,"uniquePropertySlug":null,"slug":"start-mode","propertySlug":"start-mode","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"phrase-kind","unique":null,"uniquePropertySlug":null,"slug":"start-symbol","propertySlug":"start-symbol","fileName":null,"folderName":null}

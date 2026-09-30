@@ -1,7 +1,9 @@
+{"propertySlug":"extends-type","path":"story/world/mechanics/species/character-species/character-species.page-type.ts","id":"01a0f20b-f5fe-7225-9dc6-e532a26f95d1"}
 {"propertySlug":"extends-type","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/species/overwhere-i-species.page-type.ts","id":"01a0f1b7-9f9a-7784-841d-ef56aa5cb6e4"}
 {"propertySlug":"extends-type","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/mechanics/species-held/overwhere-iv-species-held.page-type.ts","id":"01a0f1ba-b381-7d33-a302-a3a947a83ded"}
 {"propertySlug":"extends-type","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/mechanics/species-held/overwhere-iii-species-held.page-type.ts","id":"01a0f1b8-7b28-7c35-9f9d-7212fa4c192b"}
 {"propertySlug":"import","fileName":"world-species.page-type.ts","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/mechanics/species/character-species/character-species.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-birdfolk.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-blightmind.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-bone-obelisk.world-species.ts","typed":true,"deferred":false}
@@ -221,6 +223,7 @@
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/species/otherwhere-x-wolf.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-species.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/species/otherwhere-x-wyvern.world-species.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
+{"propertySlug":"target-page-type","path":"story/world/mechanics/species/character-species/properties/held-species.relation-property.ts","id":"01a0f20b-f5ff-7ee6-a732-5035e9cfe2ae"}
 {"propertySlug":"target-page-type","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/species/properties/overwhere-i-species-species.relation-property.ts","id":"01a0f1b7-9f9b-7202-bbaf-51d7645b8238"}
 {"propertySlug":"target-page-type","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/mechanics/species-held/properties/overwhere-iv-species-held-species.relation-property.ts","id":"01a0f1ba-b381-7123-b35b-7d6056efc4ed"}
 {"propertySlug":"target-page-type","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/mechanics/species-held/properties/overwhere-iii-species-held-species.relation-property.ts","id":"01a0f1b8-7b29-7f99-9b52-fd7e8027a419"}
