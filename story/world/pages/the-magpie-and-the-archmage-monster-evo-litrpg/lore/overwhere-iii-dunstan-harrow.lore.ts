@@ -34,7 +34,11 @@ export const overwhereIiiDunstanHarrow = {
     },
     {
       fact: "He thinks a glimmerstone left in a carcass is coin thrown in the pot.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-dunstan-harrow"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-dunstan-harrow",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
 } as const satisfies Lore
