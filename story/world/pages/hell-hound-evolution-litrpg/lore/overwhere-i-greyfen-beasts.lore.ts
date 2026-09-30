@@ -107,6 +107,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "The Fenwatch sounder's old boar is bigger than the four sows, grey-bristled and scarred.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "A charging Grubboar is fast for a short burst but blows within a minute; wind-speed outruns it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
