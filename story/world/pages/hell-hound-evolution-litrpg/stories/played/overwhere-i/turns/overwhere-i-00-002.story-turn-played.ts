@@ -34,11 +34,16 @@ export const overwhereI00002 = {
     "It stops at the water's edge, twenty yards across the shallows, and sees her sitting on the stones.",
     "It lowers its head, and hisses at her like an enormous cat.",
   ],
+  issues: [
+    '"three times anything else" - Luck 12 on the same screen makes Attunement 30 only 2.5 times it',
+    '"three times your Strength, three times your Vigor" - Attunement 30 is 3.75x Strength 8, 3.3x Vigor',
+  ],
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-sootjaw",
     "lore/overwhere-i-the-system",
     "place/overwhere-i-greyfen-ford",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-29T10:08:00.000Z",
 } as const satisfies StoryTurnPlayed
