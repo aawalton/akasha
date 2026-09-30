@@ -145,7 +145,7 @@ export const overwhereIRowanCoalby = {
     },
     {
       fact: "He will bring a hatchet, rope and the reed drag-sled he hauls charcoal on.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Sedge will come, uneasy near the carcass, but leads them by the firmest ground.",
