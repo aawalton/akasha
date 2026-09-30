@@ -45,6 +45,10 @@ export const overwhereIvSlimesAndCores = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Country folk say slimes creep toward strong mana like moths to a lamp; few have seen it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Yellow slimes carry lightning, and their cores are violet.",
       knowers: ["lore-disclosure/game-master"],
     },
