@@ -108,11 +108,11 @@ export const overwhereIiKeeperAnselm = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Running, Anselm reaches Marsh Croft some forty minutes after the she-wolf's death, lantern in hand.",
+      fact: "Nearing the dark fell at nightfall, Anselm lost heart for the pack and turned back to the shrine.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Anselm reached Marsh Croft at nightfall on day one, and slept by Garth's fire rather than walk back.",
+      fact: "Anselm sets out for Marsh Croft again at first light on day two.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
