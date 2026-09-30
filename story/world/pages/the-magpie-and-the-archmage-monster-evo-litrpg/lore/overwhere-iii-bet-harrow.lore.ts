@@ -61,6 +61,10 @@ export const overwhereIiiBetHarrow = {
       fact: "Seeing Nala still in a man's shirt, Bet offers her a wool tunic from the left-behind box.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
     },
+    {
+      fact: "Her box holds, near Nala's size, a wool tunic, a gray hooded cloak and two pairs of wool stockings.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
