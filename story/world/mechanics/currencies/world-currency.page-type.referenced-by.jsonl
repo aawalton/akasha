@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/currencies/overwhere-iv-coin.world-currency.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/currencies/otherwhere-xi-coin.world-currency.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/mechanics/currencies/overwhere-iii-coin.world-currency.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/mechanics/currencies/overwhere-iii-glimmerstone.world-currency.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/currencies/otherwhere-x-coin.world-currency.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/mechanics/currencies/otherwhere-vi-coin.world-currency.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
