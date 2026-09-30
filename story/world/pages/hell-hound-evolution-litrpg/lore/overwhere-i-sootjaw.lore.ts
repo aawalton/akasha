@@ -109,7 +109,11 @@ export const overwhereISootjaw = {
     },
     {
       fact: "Its hide gives no ward against fire, and its dry, matted fur catches and burns.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "On day one Nala burned it through the chest with a beam of fire, and it died in the ford.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",

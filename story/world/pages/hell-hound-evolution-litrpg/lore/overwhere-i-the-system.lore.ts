@@ -85,7 +85,7 @@ export const overwhereITheSystem = {
     },
     {
       fact: 'Beasts killed read "Prey Eliminated!"; thinking foes such as humans read "Foe Eliminated!"',
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: 'Destroyed undead read "Undead Vanquished!", as in "Undead Vanquished! Level 16 skeleton!"',
@@ -101,7 +101,7 @@ export const overwhereITheSystem = {
     },
     {
       fact: 'After a kill line comes "Experience Gained!" or "No Experience Awarded."',
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Packmates hear each other's kill messages; a non-pack ally's kills send none.",
@@ -109,7 +109,7 @@ export const overwhereITheSystem = {
     },
     {
       fact: 'A level-up reads "You have leveled up!", then "You are now level 22!", then lines like "+9 Vigor".',
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Humans usually take months, often a year or more, to reach level 10.",

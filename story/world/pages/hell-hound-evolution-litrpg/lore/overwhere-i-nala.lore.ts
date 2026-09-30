@@ -127,11 +127,23 @@ export const overwhereINala = {
     },
     {
       fact: "The legacy answers when she reaches for that pressure with intent: to strike, shield or move.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "The pressure behind her breastbone is the Starfall Legacy, waiting to be drawn on.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Loosing fire leaves a small hollow behind her breastbone that fills back in on its own.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Fire loosed from her fingertip leaves the fingertip unmarked and barely warm.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Her level-up stat gains came with a warm rush through her body, leaving her steadier and sharper.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Lore
