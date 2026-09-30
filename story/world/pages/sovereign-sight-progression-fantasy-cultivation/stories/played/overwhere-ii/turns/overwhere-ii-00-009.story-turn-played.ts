@@ -10,7 +10,7 @@ export const overwhereIi00009 = {
   position: 9,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Do you have an iron pot or bowl of some sort? I think I can help after all. If not, any container will do.” Once I have one, I try to pull the wrongness out of the girl’s leg and into the container.",
   beats: [
@@ -50,6 +50,6 @@ export const overwhereIi00009 = {
     "lore/overwhere-ii-wren-marsh",
     "place/overwhere-ii-marsh-croft",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T07:50:00.000Z",
 } as const satisfies StoryTurnPlayed
