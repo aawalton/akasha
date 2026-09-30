@@ -7,7 +7,14 @@ export const overwhereIii00028 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 28,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Okay, I’ll try. I open the potion and take small sips until I have mana to work with again, then go back and use my mending weave on Ivy, this time focusing on a suction mental model instead of stitching, to pull the corruption out of her.”",
+  lore: [
+    "lore/overwhere-iii-brannagh-tull",
+    "lore/overwhere-iii-cleansing-weave",
+    "lore/overwhere-iii-corruption",
+    "lore/overwhere-iii-garrick-dole",
+    "lore/overwhere-iii-ivy-marsh",
+  ],
 } as const satisfies StoryTurnPlayed
