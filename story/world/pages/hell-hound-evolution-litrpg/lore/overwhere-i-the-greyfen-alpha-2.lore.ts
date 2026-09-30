@@ -196,5 +196,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "A Drakewolf swimming the channel moves slow and straight, so it takes no running-mark penalty.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Within 150 yards a plain slug does Ghost-Eye 14 harm, an overcharged one 22.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
