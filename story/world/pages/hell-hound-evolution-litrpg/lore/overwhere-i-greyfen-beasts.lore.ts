@@ -239,6 +239,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "The third holt's den is bigger than the others, and its reedlurker, the largest, is home.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The reedlurker of the first known holt is the Level 10; on day 2 it bolted loose into the channel.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
