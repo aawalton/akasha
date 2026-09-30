@@ -104,5 +104,13 @@ export const overwhereIiiNala2 = {
         "character-other/overwhere-iii-maud-ferrow",
       ],
     },
+    {
+      fact: "Brannagh tipped Garrick's two seed stones into Nala's clay cup; it holds five now.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
   ],
 } as const satisfies Lore
