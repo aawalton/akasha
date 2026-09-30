@@ -4,6 +4,7 @@ export const overwhereIii00025 = {
   id: "01a0f354-1e14-70f1-aba6-ea3a2bab4f46",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-025",
+  cover: "image/image-acec46f982666a60",
   ownLength: 151,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -14,7 +15,7 @@ export const overwhereIii00025 = {
     "character-other/overwhere-iii-brannagh-tull",
     "character-other/overwhere-iii-marda-hesk",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I take them to the shop, then see if I can find Tobin to return his coat and repay double what he spent on me, then pay for a night at the inn from my own funds.",
   beats: [
@@ -41,6 +42,11 @@ export const overwhereIii00025 = {
     "place/overwhere-iii-merrowgate",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T17:44:00.000Z",
 } as const satisfies StoryTurnPlayed
