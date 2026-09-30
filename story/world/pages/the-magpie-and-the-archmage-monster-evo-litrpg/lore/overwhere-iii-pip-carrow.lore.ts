@@ -48,6 +48,10 @@ export const overwhereIiiPipCarrow = {
         "character-other/overwhere-iii-pip-carrow",
       ],
     },
+    {
+      fact: "Brannagh's messenger is a quick girl of about twelve with a gap-toothed grin.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
