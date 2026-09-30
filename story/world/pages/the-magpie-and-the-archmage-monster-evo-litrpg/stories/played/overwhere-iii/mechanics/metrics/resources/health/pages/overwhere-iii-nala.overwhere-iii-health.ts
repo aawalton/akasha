@@ -5,7 +5,7 @@ export const overwhereIiiNala = {
   type: "page-type/overwhere-iii-health",
   slug: "overwhere-iii-nala",
   character: "character-player/overwhere-iii-nala",
-  value: 30,
+  value: 26,
   minValue: 0,
   maxValue: 30,
   history: "jsonl",
