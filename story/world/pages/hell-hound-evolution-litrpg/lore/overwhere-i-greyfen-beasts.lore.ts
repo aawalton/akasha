@@ -259,6 +259,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "Mud worked into a holt squeezes the den and forces its sleeper out through the water mouth.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A sleeping reedlurker pulled at by a weave wakes and bolts out its water mouth into the channel.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
