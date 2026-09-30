@@ -11,4 +11,5 @@ export const overwhereIi00033 = {
   action:
     "“Up by Garth’s place. You’ll need to send a cart for the carcasses. I got the alpha and thinned the pack, but a few of them got away.”",
   lore: ["lore/overwhere-ii-reeve-corwin-dray"],
+  endsAt: "2026-09-30T08:15:00.000Z",
 } as const satisfies StoryTurnPlayed
