@@ -4,10 +4,13 @@ export const overwhereIi00033 = {
   id: "01a0f383-25d6-7ccd-bf29-c412544b1408",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-033",
+  ownLength: 213,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 33,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Up by Garth’s place. You’ll need to send a cart for the carcasses. I got the alpha and thinned the pack, but a few of them got away.”",
   beats: [
@@ -24,6 +27,10 @@ export const overwhereIi00033 = {
     'Reeve Dray: "Lambing\'s three weeks off. I want them dead before it."',
     'Reeve Dray: "My watch can\'t catch them. Would you lead the hunt, for pay?"',
   ],
-  lore: ["lore/overwhere-ii-reeve-corwin-dray"],
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-reeve-corwin-dray",
+    "lore/overwhere-ii-wendle-ford-folk",
+  ],
   endsAt: "2026-09-30T08:15:00.000Z",
 } as const satisfies StoryTurnPlayed
