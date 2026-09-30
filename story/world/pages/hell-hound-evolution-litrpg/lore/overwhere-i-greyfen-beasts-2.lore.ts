@@ -32,5 +32,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "Jory has never found the third reedlurker's holt near his traps.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Ripples walked up the channel find the third den once she's within fifty yards of the alder root.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
