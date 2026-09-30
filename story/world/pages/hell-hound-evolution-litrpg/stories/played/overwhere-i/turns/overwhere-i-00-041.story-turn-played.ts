@@ -7,7 +7,13 @@ export const overwhereI00041 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 41,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Thanks for the challenge! That was fun!” I go back to town for another bath and collect my pay for the lurkers, then ask around about the ghost wolves or some such with the larger bounty.",
+  lore: [
+    "lore/overwhere-i-agathe-morrow",
+    "lore/overwhere-i-fenwatch-2",
+    "lore/overwhere-i-the-greyfen-alpha",
+    "place/overwhere-i-fenwatch",
+  ],
 } as const satisfies StoryTurnPlayed
