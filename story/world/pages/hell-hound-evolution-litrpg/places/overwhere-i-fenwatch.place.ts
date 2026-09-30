@@ -151,6 +151,10 @@ export const overwhereIFenwatch = {
       fact: "Fenwatch's regard for Nala stands at 2, welcome, since Hessa Vane owned the Brute's kill as hers.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Tobin's news has a crowd of villagers at the west gate when the cart comes in on day one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
