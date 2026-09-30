@@ -198,7 +198,15 @@ export const overwhereIiNala = {
     },
     {
       fact: "A drop of ten or twelve feet is nothing to her; she lands light and sure, with no jar.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Let go, the pressure held in her palms slides back up the threads into the well.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Driving her loops fast, her heart stays slow and easy, as if she could run uphill untired.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
   secrets: "jsonl",

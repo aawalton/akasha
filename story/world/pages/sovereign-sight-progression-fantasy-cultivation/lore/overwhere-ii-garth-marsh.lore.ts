@@ -83,6 +83,14 @@ export const overwhereIiGarthMarsh = {
       fact: "Burr's man is big and bearded, forty-odd, in a sheepskin coat, leaning on a shepherd's crook.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Burr barked once at Nala, then sniffed her fist and leaned his whole weight on her leg.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Seeing Nala leap from the loft unhurt, Burr's man named her Talented and gripped his crook.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
