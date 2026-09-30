@@ -76,6 +76,10 @@ export const overwhereIiiCrookAndCandle = {
       fact: "Frost comes hard tonight, and by morning it lies thick and white on every roof in town.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Breakfast at the Crook and Candle is oat porridge with honey and small beer, 1 copper.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
