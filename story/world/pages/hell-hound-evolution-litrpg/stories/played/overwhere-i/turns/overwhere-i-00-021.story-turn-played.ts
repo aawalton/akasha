@@ -4,13 +4,13 @@ export const overwhereI00021 = {
   id: "01a0f1ff-2439-7a0c-babe-4c8841a9344b",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-021",
-  ownLength: 258,
+  ownLength: 241,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 21,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "I weave fire into my muscles for strength, grab the boar by the tusks, and drag him back to the village.",
   beats: [
