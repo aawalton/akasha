@@ -265,7 +265,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Dray knows tidepools draw Aberrants in, and turn beasts that linger by them.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray thinks greymaws fleeing downhill fits a thing driving them, not a pool drawing them.",
