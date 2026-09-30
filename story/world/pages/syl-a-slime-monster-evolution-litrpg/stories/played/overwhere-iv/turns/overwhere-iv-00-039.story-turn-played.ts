@@ -11,4 +11,5 @@ export const overwhereIv00039 = {
   action:
     "“Sure, it can wait for tomorrow, right?” Assuming so, I then get dinner, sleep, train, and then set out for the new quest.",
   lore: ["place/overwhere-iv-reeves-pasture"],
+  endsAt: "2026-10-02T09:15:00.000Z",
 } as const satisfies StoryTurnPlayed
