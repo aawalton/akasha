@@ -108,5 +108,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "Osric and the alchemists do not know a drake-pearl can be swallowed for lasting mana.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Worn, a drake-pearl focus lets its wearer's held workings reach 50 yards, not 30.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
