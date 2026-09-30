@@ -73,7 +73,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "Within its reach, Undertow can draw a greymaw's Water out of the bone chamber behind its breastbone.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Under a hard pull a common greymaw staggers in a few heartbeats and drops dead within ten.",
