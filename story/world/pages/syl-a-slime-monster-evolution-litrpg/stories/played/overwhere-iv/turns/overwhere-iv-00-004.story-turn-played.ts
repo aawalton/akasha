@@ -10,7 +10,7 @@ export const overwhereIv00004 = {
   position: 4,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-garrett-pell"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Nala, suppose my business is not getting robbed again for now, not that I have anything left to be robbed",
   beats: [
@@ -34,6 +34,6 @@ export const overwhereIv00004 = {
     "lore/overwhere-iv-rennick-hale",
     "lore/overwhere-iv-wat-barrow",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T12:27:00.000Z",
 } as const satisfies StoryTurnPlayed
