@@ -7,5 +7,6 @@ export const overwhereIiNalaHeavyLeatherPurse = {
   title: "Heavy Leather Purse",
   story: "story-played/overwhere-ii",
   character: "character-player/overwhere-ii-nala",
+  slot: "item-slot/waist",
   description: "A heavy leather purse, tied at the neck, that clinks when it moves.",
 } as const satisfies StoryItem
