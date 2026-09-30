@@ -35,11 +35,13 @@ export const overwhereIii00019 = {
     "[Cleansing Weave – At [Basic] level, draw holy current through blight to unpick it.]",
     "Not Purify. Something else, her own.",
   ],
+  issues: ["\"It isn't Purify. It's something else. Something of your own.\" - Leave It Open"],
   lore: [
     "lore/overwhere-iii-corruption",
     "lore/overwhere-iii-marda-hesk",
     "lore/overwhere-iii-nala",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T12:18:00.000Z",
 } as const satisfies StoryTurnPlayed
