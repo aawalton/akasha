@@ -259,5 +259,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Dray offered Nala the empty watch cottage by the ford, hers if she will stay in the valley.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Nala turned down the watch cottage; she means to leave the valley once its larger troubles are done.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
