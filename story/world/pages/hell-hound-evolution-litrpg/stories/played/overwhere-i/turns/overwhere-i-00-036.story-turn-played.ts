@@ -28,6 +28,6 @@ export const overwhereI00036 = {
     "lore/overwhere-i-starfall-legacy",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
   endsAt: "2026-09-30T10:59:00.000Z",
 } as const satisfies StoryTurnPlayed

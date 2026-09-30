@@ -42,11 +42,11 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "An earth-and-water weave sent out as a ripple comes back as a felt shape of hollows and bodies.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "A sensing ripple reaches about fifty yards through wet ground and water, and blurs past that.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Reading a ripple is a moderate act; known holts to calibrate on add 2.",
@@ -62,7 +62,7 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "A ripple returns as knowing, not sight: hollows feel empty, living bodies warm, heavy, stirring.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Earth and water woven bind as one working, felt as a heavy, wet pull behind her breastbone.",

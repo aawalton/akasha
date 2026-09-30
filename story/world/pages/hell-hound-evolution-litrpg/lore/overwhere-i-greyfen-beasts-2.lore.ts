@@ -1,0 +1,16 @@
+import type { Lore } from "akasha/story/lore/lore.page-type.types.ts"
+
+export const overwhereIGreyfenBeasts2 = {
+  id: "01a0f393-f229-788d-add1-b0c292ab5b68",
+  type: "page-type/lore",
+  slug: "overwhere-i-greyfen-beasts-2",
+  title: "Greyfen Beasts, continued",
+  world: "world/hell-hound-evolution-litrpg",
+  about: "lore/overwhere-i-greyfen-beasts",
+  facts: [
+    {
+      fact: "Nala's ripple from the first slide felt a lurker lying awake in the bank under the second slide.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+  ],
+} as const satisfies Lore
