@@ -7,7 +7,12 @@ export const overwhereIi00005 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 5,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“I’m Nala, I mean you no harm. I’m on a mission but seem to have gotten lost. Could you tell me where I am precisely?”",
+  lore: [
+    "lore/overwhere-ii-garth-marsh",
+    "place/overwhere-ii-tern-hollow",
+    "place/overwhere-ii-wendlemere",
+  ],
 } as const satisfies StoryTurnPlayed
