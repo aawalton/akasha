@@ -119,6 +119,10 @@ export const overwhereISootjaw = {
       fact: "Its carcass still smokes in the shallows of Greyfen Ford after Nala's kill.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Brute meat is dark, gamy and tough, but good stewed long, and Fenwatch would not refuse it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
