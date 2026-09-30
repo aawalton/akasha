@@ -76,6 +76,15 @@ export const sessionRows = {
       statement: "An activity is read from the index rather than from the text of its page.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A day with no page may be read as a new page composed for it, holding no row.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That page carries the id its caller hands in, so rows can name it before it lands.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a file.",
     },

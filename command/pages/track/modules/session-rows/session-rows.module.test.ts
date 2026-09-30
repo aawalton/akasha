@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { join } from "node:path"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { at } from "akasha/command/argument/pages/at.argument.ts"
 import { day } from "akasha/command/argument/pages/day.argument.ts"
@@ -11,9 +12,12 @@ import { open } from "akasha/command/argument/pages/open.argument.ts"
 import { relationship } from "akasha/command/argument/pages/relationship.argument.ts"
 import { safety } from "akasha/command/argument/pages/safety.argument.ts"
 import { title } from "akasha/command/argument/pages/title.argument.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   addressed,
   anchoredIn,
+  DAYS_AT,
+  heldOrMadeFor,
   instantIn,
   levelsFor,
   type Row,
@@ -31,6 +35,12 @@ const WROTE = "01a06818-339b-7fc2-8cd9-caea195150b2"
 const WALKED = "01a06818-339b-7fc2-8cd9-caea195150b3"
 
 const HELD = "01a06818-339b-7fc2-8cd9-caea195150b0"
+
+const REPO = rootOf(import.meta.dir)
+
+const UNMADE = "2099-01-01"
+
+const MADE = "01a06818-339b-7fc2-8cd9-caea195150b9"
 
 function rowsOf(): Row[] {
   return [
@@ -174,6 +184,18 @@ test("a way that names no stretch of this day is refused", () => {
   expect(addressed({ at: "2026-08-31 23:00" }, rowsOf(), NOW)).toBe(
     "no stretch of this day covers 2026-08-31 23:00"
   )
+})
+
+test("a day with no page is read as a new day page holding no row and the id handed in", () => {
+  const made = heldOrMadeFor(REPO, UNMADE, MADE)
+  if (typeof made === "string") throw new Error(made)
+  expect(made.rows).toEqual([])
+  expect(made.page).toBe(MADE)
+  expect(made.pageAt).toBe(join(REPO, DAYS_AT, UNMADE, `day-${UNMADE}.day.ts`))
+  expect(made.pageSaid).toContain(`id: "${MADE}"`)
+  expect(made.pageSaid).toContain(`date: "${UNMADE}"`)
+  expect(made.pageSaid).toContain(`title: "@date:${UNMADE}"`)
+  expect(made.pageSaid).toContain("} as const satisfies Day")
 })
 
 test("two ways said together are settled by precedence rather than refused, which is a gap", () => {

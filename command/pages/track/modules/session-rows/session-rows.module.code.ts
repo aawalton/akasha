@@ -1,4 +1,4 @@
-import { readFileSync } from "node:fs"
+import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
 import {
@@ -6,6 +6,7 @@ import {
   namesNoDay,
   readMountainWallTime,
 } from "akasha/alan/harness/day-boundary/modules/mountain-wall/mountain-wall.module.code.ts"
+import { dayValuesFor } from "akasha/alan/track/daily/modules/track-resolve/track-resolve.module.code.ts"
 import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { at } from "akasha/command/argument/pages/at.argument.ts"
 import { id } from "akasha/command/argument/pages/id.argument.ts"
@@ -28,6 +29,7 @@ import {
   numberAt,
   textIn,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { composedFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import { padTwo } from "akasha/text/writing/modules/pad-two/pad-two.module.code.ts"
 import { z } from "zod"
 
@@ -54,6 +56,8 @@ type Addressing = Anchoring & {
 export const DAYS_AT = "alan/track/daily/day/pages"
 
 const ACTIVITY_TYPE = "session-activity"
+
+const DAY_TYPE = "day"
 
 const ADDRESSED_BY = `by ${id.said}, by ${at.said}, by ${open.said} or by ${last.said}`
 
@@ -165,6 +169,23 @@ export function heldFor(root: string, day: string): Held | string {
     return `the rows ${path} holds for ${day} would not read, so nothing acts on them: ${whyOf(thrown)}`
   }
   return { day, path, page: carried, pageAt: page, pageSaid, rows }
+}
+
+export function heldOrMadeFor(root: string, day: string, made: string): Held | string {
+  const { path, page } = pathsFor(root, day)
+  if (existsSync(page)) return heldFor(root, day)
+  const composed = composedFor(root, {
+    pageTypeSlug: DAY_TYPE,
+    slug: `${DAY_TYPE}-${day}`,
+    values: dayValuesFor(day, made),
+  })
+  if ("refused" in composed) {
+    return `no day page is there for ${day}, and none could be made: ${composed.refused}`
+  }
+  if (join(root, composed.put.path) !== page) {
+    return `a day page for ${day} would be made at ${composed.put.path}, which is not where its rows are kept`
+  }
+  return { day, path, page: made, pageAt: page, pageSaid: composed.put.content, rows: [] }
 }
 
 export function openIn(rows: readonly Row[]): Row | null {

@@ -41,6 +41,24 @@ test("six the evening is read in Utah rather than in New York", () => {
   expect(opensInto("2026-09-04T22:00:00.000Z")).toBe("2026-09-04")
 })
 
+test("a sleep begun in the evening and ended before midnight is on the day it began", () => {
+  expect(opensInto("2026-09-30T00:25:00.000Z", "2026-09-30T05:05:00.000Z")).toBe("2026-09-29")
+})
+
+test("a sleep begun in the evening and ended past midnight opens the day after", () => {
+  expect(opensInto("2026-09-30T00:25:00.000Z", "2026-09-30T07:00:00.000Z")).toBe("2026-09-30")
+  expect(opensInto("2026-09-30T00:25:00.000Z")).toBe("2026-09-30")
+})
+
+test("a sleep begun after midnight opens that day whenever it ends", () => {
+  expect(opensInto("2026-09-30T08:00:00.000Z", "2026-09-30T15:00:00.000Z")).toBe("2026-09-30")
+  expect(opensInto("2026-09-29T20:00:00.000Z", "2026-09-29T21:00:00.000Z")).toBe("2026-09-29")
+})
+
+test("an end that will not parse is read as no end", () => {
+  expect(opensInto("2026-09-30T00:25:00.000Z", "not a time")).toBe("2026-09-30")
+})
+
 test("a time that will not parse answers itself", () => {
   expect(opensInto("not a time")).toBe("not a time")
 })

@@ -11,6 +11,7 @@ import {
   dayNow,
   type Held,
   heldFor,
+  heldOrMadeFor,
   linesOf,
   openIn,
   type Row,
@@ -130,8 +131,8 @@ export function endingIn(
   return "this day carries no open stretch to end"
 }
 
-export function movedInto(root: string, from: Ending, day: string): Landing | string {
-  const target = heldFor(root, day)
+export function movedInto(root: string, from: Ending, day: string, made: string): Landing | string {
+  const target = heldOrMadeFor(root, day, made)
   if (typeof target === "string") return target
   const rows = target.rows.map((one) => ({ ...one }))
   from.rows.splice(from.rows.indexOf(from.stretch), 1)

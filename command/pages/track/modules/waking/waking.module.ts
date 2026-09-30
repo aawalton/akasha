@@ -18,6 +18,14 @@ export const waking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A sleep ended before the midnight after it began opens no day of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such a sleep is on the day it began, read on the calendar in Utah.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A stretch is a sleep where the title of the stretch reads sleep alone.",
     },
     {

@@ -44,6 +44,18 @@ export const trackSessionSwitch = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A sleep a `switch` ends before the midnight after it began keeps its own day.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A `switch` makes the page of the day a sleep opens where that day has no page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That page is made as the tracking makes a day, and lands with the two days.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Two days one act changes land in a single commit.",
     },
     {

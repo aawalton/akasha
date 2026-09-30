@@ -51,8 +51,10 @@ export async function trackSessionSwitch(argv: readonly string[], given: Given):
     return mistaking(["a stretch cannot end at or before it began"])
   }
   found.stretch.endedAt = ended
-  const opened = sleeping(found.stretch.title) ? opensInto(found.stretch.startedAt) : found.held.day
-  const home = opened === found.held.day ? found : movedInto(given.root, found, opened)
+  const stretch = found.stretch
+  const opened = sleeping(stretch.title) ? opensInto(stretch.startedAt, ended) : found.held.day
+  const home =
+    opened === found.held.day ? found : movedInto(given.root, found, opened, mintedAt(now))
   if (typeof home === "string") return mistaking([home])
   const called = taken.title
   const levels = levelsFor(taken, called, found.stretch, standing.activities)

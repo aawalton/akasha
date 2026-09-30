@@ -7,6 +7,10 @@ const TRACKING_WRITER = "tracking"
 
 const DAILY_TRACKING_VERSION = "3.0"
 
+export function dayValuesFor(dayStr: string, id: string): Readonly<Record<string, string>> {
+  return { id, title: `@date:${dayStr}`, date: dayStr, version: DAILY_TRACKING_VERSION }
+}
+
 export async function resolveOrCreateDaily(
   _sb: PageAccessClient,
   dayStr: string
@@ -15,12 +19,7 @@ export async function resolveOrCreateDaily(
   if (held !== null && held.id !== "") return { id: held.id, created: false }
 
   const id = Bun.randomUUIDv7()
-  const landed = await landDayPage(
-    "patch",
-    dayStr,
-    { id, title: `@date:${dayStr}`, date: dayStr, version: DAILY_TRACKING_VERSION },
-    TRACKING_WRITER
-  )
+  const landed = await landDayPage("patch", dayStr, dayValuesFor(dayStr, id), TRACKING_WRITER)
   if (!landed.ok) {
     throw operationalError(`the day ${dayStr} did not land as a file: ${landed.why}`)
   }

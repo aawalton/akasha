@@ -145,6 +145,7 @@
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/temper/inventory/rule/unlock/temper-inventory-rule-unlock.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/temper/inventory/rule/update/temper-inventory-rule-update.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/track/modules/session-rows/session-rows.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/track/modules/session-rows/session-rows.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/track/session/amend/track-session-amend.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/track/session/check/track-session-check.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/track/session/close/track-session-close.command.test.ts","typed":false,"deferred":false}
