@@ -288,5 +288,9 @@ export const overwhereIStarfallLegacy = {
       fact: "Starfall Surge rose to level 5 at about 16:05 on day 2, adding +3 Attunement.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Starfall Weave rose to level 4 at about 09:30 on day 3, adding +3 Attunement.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
