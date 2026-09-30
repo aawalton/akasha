@@ -4,13 +4,14 @@ export const overwhereIv00009 = {
   id: "01a0f1c8-3bff-711b-a224-55d2373c4931",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-009",
+  cover: "image/image-d4dc406c4c13e4f2",
   ownLength: 515,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 9,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Thanks!” I go back and get my spear, then start carefully clearing slimes in the commons, focusing on practicing my spear thrusts.",
   beats: [
@@ -46,6 +47,6 @@ export const overwhereIv00009 = {
   ],
   lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-millbrook-common"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T15:07:00.000Z",
 } as const satisfies StoryTurnPlayed
