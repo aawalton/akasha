@@ -7,7 +7,8 @@ export const overwhereIi00003 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 3,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Okay, seems like this might be a cultivation world, but the dead iron is different. Millennial Mage maybe? I guess I should start with isekai protocol anyways. System? Status?”",
+  lore: ["lore/overwhere-ii-nala"],
 } as const satisfies StoryTurnPlayed
