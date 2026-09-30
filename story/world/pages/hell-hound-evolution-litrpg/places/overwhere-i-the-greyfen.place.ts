@@ -131,6 +131,10 @@ export const overwhereITheGreyfen = {
       fact: "The ruined trap, owned and squared, moves no regard; Fenwatch's regard for Nala stays at 5.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "While Nala hunts the Level 12, Jory follows ten yards behind her, well back from the water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
