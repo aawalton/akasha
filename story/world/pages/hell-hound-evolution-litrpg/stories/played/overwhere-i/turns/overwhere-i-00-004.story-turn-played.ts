@@ -4,13 +4,14 @@ export const overwhereI00004 = {
   id: "01a0f13b-f7ed-7e63-ae19-2e5616322f0c",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-004",
+  cover: "image/image-1c60e3593202c4d6",
   ownLength: 218,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 4,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Oh, this is going to be fun! Let’s try that burst of speed.” I focus on attuning to air mana, imagining the air parting in front of me and pulling me forward as I run.",
   beats: [
@@ -38,6 +39,6 @@ export const overwhereI00004 = {
     "place/overwhere-i-greyfen-ford",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T10:14:00.000Z",
 } as const satisfies StoryTurnPlayed
