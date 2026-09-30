@@ -28,5 +28,6 @@ export const overwhereI00037 = {
     'Jory lets out a low whistle behind her. "Two," he says. "And the third\'s hole I\'ve never found."',
   ],
   lore: ["lore/overwhere-i-greyfen-beasts-2", "lore/overwhere-i-nala"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T11:02:00.000Z",
 } as const satisfies StoryTurnPlayed
