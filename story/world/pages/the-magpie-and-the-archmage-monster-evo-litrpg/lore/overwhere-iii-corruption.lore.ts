@@ -46,7 +46,11 @@ export const overwhereIiiCorruption = {
     },
     {
       fact: "Corrupted beasts shrug off arrows and blows, but dodge magic; holy magic kills them fast.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Corrupted creatures hunger to absorb others and may merge into a single crawling mass.",
