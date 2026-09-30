@@ -86,7 +86,7 @@ export const overwhereIiiAdventurersGuild = {
     },
     {
       fact: "Bronze rings show monster names, rough levels and danger by nameplate color.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Nameplates: white near your level; green, blue lower; yellow, orange, red, black higher.",
