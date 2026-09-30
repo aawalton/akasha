@@ -10,5 +10,5 @@ export const overwhereIiiNala = {
   maxValue: 30,
   history: "jsonl",
   displayOrder: 1,
-  revealedAs: "Small",
+  revealedAs: "Ribs aching, sore to the shoulder",
 } as const satisfies MetricCharacterHealth
