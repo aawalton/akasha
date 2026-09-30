@@ -345,10 +345,6 @@ export const overwhereITheGreyfenAlpha = {
       fact: "If the pups get clear, the shore wolves follow them west an hour later, leaving the island empty.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Within minutes two of the returned wolves lead the pups off the island's west side into deep fen.",
-      knowers: ["lore-disclosure/game-master"],
-    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
