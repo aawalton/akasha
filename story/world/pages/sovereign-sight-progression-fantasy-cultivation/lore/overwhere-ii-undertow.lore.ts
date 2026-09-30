@@ -118,7 +118,7 @@ export const overwhereIiUndertow = {
     },
     {
       fact: "Turned on her own well, Undertow draws the salt out of foreign brine, leaving it clear Water.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Cleaning four greymaws' brine takes Nala some minutes and leaves a crust of grey salt on her palm.",
