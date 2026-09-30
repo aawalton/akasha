@@ -4,10 +4,13 @@ export const overwhereI00043 = {
   id: "01a0f3d6-fb93-7dee-be43-75f7d870e187",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-043",
+  ownLength: 236,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 43,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I practice with the rock bullets, working on speed and accuracy. I experiment with using the earth attunement to shape the stone to make it more aerodynamic, adding rifling to the stone, and adding spin to the air flow.",
   beats: [
@@ -27,6 +30,6 @@ export const overwhereI00043 = {
     "[Attunement +3.]",
     "Two hours have gone; the sun is past mid-afternoon, and her mana is back to 224 of 244.",
   ],
-  lore: ["lore/overwhere-i-starfall-legacy"],
+  lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-starfall-legacy"],
   endsAt: "2026-09-30T15:48:00.000Z",
 } as const satisfies StoryTurnPlayed
