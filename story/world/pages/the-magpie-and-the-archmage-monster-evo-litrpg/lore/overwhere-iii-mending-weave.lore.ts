@@ -24,5 +24,9 @@ export const overwhereIiiMendingWeave = {
       fact: "Her first Mending Weave took near half an hour of restitching a slipping thread before it held.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "A second Mending Weave over a puckered seam within two days smooths it to a clean, flat line.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
