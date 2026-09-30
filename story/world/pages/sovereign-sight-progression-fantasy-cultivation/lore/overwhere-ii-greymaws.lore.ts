@@ -207,5 +207,9 @@ export const overwhereIiGreymaws = {
       fact: "A cold-iron blade bites greymaw scale like fire; a greymaw struck by one flinches off.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Within ten paces Undertow feels a greymaw's rot as a sour knot, even through rock.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
