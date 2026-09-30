@@ -272,6 +272,10 @@ export const overwhereIiiBrannaghTull = {
       fact: "Brannagh knows Marda pays the blight bounty on seed stones, a tenth of a silver apiece.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Brannagh warns blightstones are best kept off the skin and out of a bed, and shut in their cup.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
