@@ -4,13 +4,14 @@ export const overwhereI00016 = {
   id: "01a0f1bf-7847-7acc-b335-6ec3d26192de",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-016",
+  cover: "image/image-283472c57f0865aa",
   ownLength: 404,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 16,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I see if I can take care of any of my errands before the feast, otherwise I’ll do them in the morning.",
   beats: [
@@ -46,6 +47,6 @@ export const overwhereI00016 = {
     "place/overwhere-i-fenwatch",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T18:50:00.000Z",
 } as const satisfies StoryTurnPlayed
