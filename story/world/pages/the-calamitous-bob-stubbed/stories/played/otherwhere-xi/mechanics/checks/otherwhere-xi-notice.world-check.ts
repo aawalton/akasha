@@ -79,5 +79,38 @@ export const otherwhereXiNotice = {
       decisionKind: "decision-kind/absence",
       statement: "No notice shows as a number; only what the gods do shows it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A notice page's slug ends in the god it measures.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A god's page is filed when she first prays to, swears by or crosses that god.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Maradoc's page is filed from her first day, since she woke at his waystone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "At ten a god's shrine feels warm to her; at twenty-five omens and dreams come.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "At fifty the god may answer: a vision, a sending, a voice or a small working.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "At seventy-five the god may grant a blessing or title the interface shows.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Notice is not favour: a god who notices may meddle for its own ends.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every change in notice is written on its page and a line of its history before the turn moves on.",
+    },
   ],
 } as const satisfies WorldCheck

@@ -176,5 +176,46 @@ export const otherwhereXiGrowth = {
       decisionKind: "decision-kind/departure",
       statement: 'The reading is `{"character":"...","gains":[{"kind":"stat",...}]}`.',
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stat page's slug ends in the stat it keeps.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The six stats are Power, Finesse, Endurance, Focus, Acuity and Willpower.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Power, Finesse and Endurance are the physical stats; the other three the mental.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Power also sets how hard her spells hit and how far from her body she can cast.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Focus, Acuity and Willpower set how much mana she holds and how well she casts.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An untrained adult sits from 8 to 15, a trained soldier in the twenties, a fourth-stepper past 30.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each ten is a tier; about 45 is the upper limit of a human.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each multiple of ten a stat reaches is a milestone, with the gift named here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The interface shows a stat's rise as a line such as [Focus +1] as it happens.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No stat shows as a number save where her status or the interface shows it.",
+    },
   ],
 } as const satisfies WorldCheck

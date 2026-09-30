@@ -49,5 +49,32 @@ export const otherwhereXiLanguage = {
       decisionKind: "decision-kind/absence",
       statement: "No fluency appears as a number in the prose.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fluency page's slug ends in the tongue or script it measures, nought to ten.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Nala speaks and reads Viziman as one born to it, and needs no page for it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Old Imperial, Primal Viziman signs, Paramese Imperial, the northern tongue and Kark are others.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Nought is no word; three is single words and signs; six is plain talk; ten is native.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tongue's page is filed at nought when she first meets it spoken or written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every change in fluency is written on its page and a line of its history before the turn moves on.",
+    },
   ],
 } as const satisfies WorldCheck
