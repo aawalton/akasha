@@ -4,6 +4,7 @@ export const overwhereIi00050 = {
   id: "01a0f43b-9743-7459-8e86-6e022e1772eb",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-050",
+  cover: "image/image-052def82157c3851",
   ownLength: 472,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
@@ -53,6 +54,6 @@ export const overwhereIi00050 = {
     "place/overwhere-ii-whitecombs",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-01T12:00:00.000Z",
 } as const satisfies StoryTurnPlayed
