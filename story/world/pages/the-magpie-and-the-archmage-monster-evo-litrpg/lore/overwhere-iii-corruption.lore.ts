@@ -256,6 +256,14 @@ export const overwhereIiiCorruption = {
       fact: "A blightstone paled by cleansing stays paled, so the work can be spread over days.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "One Cleansing Weave left the stag's blightstone a clear shade paler.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
