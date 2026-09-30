@@ -213,7 +213,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Dray will send two watchmen with a pony to fetch the den carcasses down and burn them.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray has never gone past the cairn to Hollow Tarn; he knows it only as a place shepherds shun.",
