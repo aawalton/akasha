@@ -4,10 +4,18 @@ export const overwhereIii00044 = {
   id: "01a0f42f-44d2-7301-bd0d-3883768f7760",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-044",
+  ownLength: 244,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 44,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-marda-hesk",
+    "character-other/overwhere-iii-brannagh-tull",
+    "character-other/overwhere-iii-hild-wendle",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I pause to go to the Post to spend my mana on cleansing blight stones, then I spend the day reading Brannagh’s book, going back to the post again to drain my mana whenever it gets close to full. If I finish the book, I go back to the Post to read more in the bestiary.",
   beats: [
@@ -30,7 +38,10 @@ export const overwhereIii00044 = {
   lore: [
     "lore/overwhere-iii-brannagh-tull",
     "lore/overwhere-iii-cleansing-weave",
+    "lore/overwhere-iii-hild-wendle",
     "lore/overwhere-iii-marda-hesk",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
   ],
   endsAt: "2026-10-02T12:00:00.000Z",
 } as const satisfies StoryTurnPlayed
