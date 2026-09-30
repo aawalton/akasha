@@ -42,7 +42,7 @@ export const overwhereIiTarnScrees = {
     },
     {
       fact: "The four greymaws killed in the den lie where they fell, already stiffening in the cold cleft.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Place
