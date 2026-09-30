@@ -4,10 +4,13 @@ export const overwhereI00040 = {
   id: "01a0f3b3-4f7e-7520-9229-8c5255f332cd",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-040",
+  ownLength: 121,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 40,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I attune water and pull the beast through its entrance hole, into the water, and then back onto the shore. “Three renders accounted for.”",
   beats: [
@@ -22,6 +25,8 @@ export const overwhereI00040 = {
   ],
   lore: [
     "lore/overwhere-i-greyfen-beasts-2",
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
     "lore/overwhere-i-starfall-legacy",
     "place/overwhere-i-the-greyfen",
   ],
