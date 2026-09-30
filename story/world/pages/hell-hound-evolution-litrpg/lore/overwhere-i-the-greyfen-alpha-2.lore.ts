@@ -240,5 +240,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "With five of its wolves dead, Ghost-Eye sends Six west after the pups and comes for her alone.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She gets about five slugs while it swims, 100 to 70 yards, and about eight as it crosses the marsh.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
