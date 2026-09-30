@@ -96,6 +96,10 @@ export const overwhereIiiBrannaghTull = {
       fact: "Her two blight-bitten patients lie in the back room of her shop, where she can tend them.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
+    {
+      fact: "Garrick Dole, a shepherd, was bitten on the calf by the corrupted wolf three weeks ago.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
