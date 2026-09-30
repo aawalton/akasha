@@ -7,7 +7,12 @@ export const overwhereIii00019 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 19,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Yes. Is there something blighted around I could test with? I’d like to see if I can unlock Purify without buying it from the skill store.”",
+  lore: [
+    "lore/overwhere-iii-corruption",
+    "lore/overwhere-iii-nala",
+    "place/overwhere-iii-merrowgate-guild-post",
+  ],
 } as const satisfies StoryTurnPlayed
