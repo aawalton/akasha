@@ -10,7 +10,11 @@ export const overwhereIiiHildWendle = {
   facts: [
     {
       fact: "Hild Wendle is forty, stout and red-cheeked, a carter's wife who talks when she's frightened.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
     },
     {
       fact: "She is a Common, a Carter of Level 9, and drives her husband Joss's second wagon.",
