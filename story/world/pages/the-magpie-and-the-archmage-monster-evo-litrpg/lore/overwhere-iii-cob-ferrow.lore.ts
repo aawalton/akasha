@@ -30,7 +30,12 @@ export const overwhereIiiCobFerrow = {
     },
     {
       fact: "One pull clears Cob's scratch; it is shallow enough to close by itself without a Mending Weave.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-cob-ferrow",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
     },
     {
       fact: "Cob slouches into Brannagh's just after the noon bell, sleeve rolled, trying to look bored.",
