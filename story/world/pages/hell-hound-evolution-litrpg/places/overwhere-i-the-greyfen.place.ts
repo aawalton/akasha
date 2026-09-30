@@ -109,7 +109,7 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "Jory calls the trap even: one dead reedlurker is worth far more to him than a wicker trap.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Jory has eight traps along sixty yards of this channel; three are still whole.",
@@ -121,7 +121,7 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "Jory wants neither the skin nor the bounty for the trap; she keeps both.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Jory's three whole traps sit 10, 25 and 50 yards up the channel from the first slide.",
