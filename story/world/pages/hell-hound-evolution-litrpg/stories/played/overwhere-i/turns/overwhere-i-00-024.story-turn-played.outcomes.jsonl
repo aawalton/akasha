@@ -1,1 +1,2 @@
 {"check":"world-check/overwhere-i-standing","reading":{"community":"Fenwatch","regard":2,"deeds":[{"deed":"ended-a-threat","quote":"I pick up the tusks and bring them back to town for the bounty."}]},"answered":{"community":"Fenwatch","from":2,"to":4,"moved":2}}
+{"check":"world-check/overwhere-i-time-passing","reading":{"from":"2026-09-30T07:59:00.000Z","minutes":30},"answered":{"endsAt":"2026-09-30T08:29:00.000Z","day":2,"light":"day"}}
