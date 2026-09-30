@@ -13,7 +13,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "A greymaw is pony-sized, with grey scale in its fur, webbed claws and a second row of teeth.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Greymaws stink of rotten salt, and their bite carries spiritual rot.",
