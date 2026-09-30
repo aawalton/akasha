@@ -71,7 +71,12 @@ export const overwhereIiiHildWendle = {
     },
     {
       fact: "Offered a free second mending, Hild calls a scar nothing, but will come to Brannagh's at noon.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-hild-wendle",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
     },
     {
       fact: "Hild tells everyone she meets; by tomorrow noon the whole Wool Square knows of the free mending.",
