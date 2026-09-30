@@ -42,7 +42,7 @@ export const overwhereITheGreyfenAlpha = {
     },
     {
       fact: "Wendlow's Hunters' Board offers twenty-five gold for its head.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "An alpha's hide like its own would fetch five gold.",
