@@ -316,5 +316,9 @@ export const overwhereIStarfallLegacy = {
       fact: "Past 150 yards a slug is spent, striking with half its force.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Treading water too deep to stand, she cannot loose a slug true; each shot is two bands harder.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
