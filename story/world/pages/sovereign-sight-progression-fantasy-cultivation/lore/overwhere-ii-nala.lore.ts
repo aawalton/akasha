@@ -160,6 +160,30 @@ export const overwhereIiNala = {
       fact: "Under her breastbone Nala feels a deep well, cold, clear and vast, that stirs when she breathes.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "The flow runs itself in loops she never chose, like a thing long practised, even as she sleeps.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Eyes shut and turned inward, she sees a blue-green light in her chest and five bright threads.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The threads run to each palm, each sole and her throat, and loop back into the well.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Willing the flow faster warms her limbs, sharpens her senses and makes her feel light and strong.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Pushed to her palms, the flow presses to get out like a held breath, and she can hold it back.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Cycling, however hard, is quiet to others; only drawing deeply raises gooseflesh nearby.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
