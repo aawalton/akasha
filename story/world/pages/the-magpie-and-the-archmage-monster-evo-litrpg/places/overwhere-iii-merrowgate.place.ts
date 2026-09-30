@@ -213,7 +213,7 @@ export const overwhereIiiMerrowgate = {
     },
     {
       fact: "A packed path runs inside the whole wall, about a mile round, walked by the watch.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Folk stare at a woman running the wall in a cloak; children trail her a lap, laughing.",
