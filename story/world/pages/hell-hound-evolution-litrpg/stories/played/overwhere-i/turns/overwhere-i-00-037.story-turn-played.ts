@@ -11,7 +11,7 @@ export const overwhereI00037 = {
   position: 37,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I attune water and earth targeting the second one, pull it out, and burn it with fire and air",
   beats: [
@@ -30,6 +30,11 @@ export const overwhereI00037 = {
   ],
   lore: ["lore/overwhere-i-greyfen-beasts-2", "lore/overwhere-i-nala"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-09-30T11:02:00.000Z",
 } as const satisfies StoryTurnPlayed
