@@ -197,7 +197,7 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "A half-sunk pine log lies 140 yards off the island's south-east shore, cover for one crouching.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
