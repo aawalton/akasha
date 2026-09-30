@@ -42,6 +42,6 @@ export const overwhereIi00002 = {
   ],
   lore: ["lore/overwhere-ii-nala"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-29T06:45:00.000Z",
 } as const satisfies StoryTurnPlayed

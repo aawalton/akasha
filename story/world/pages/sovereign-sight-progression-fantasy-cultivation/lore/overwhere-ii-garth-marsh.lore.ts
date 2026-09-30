@@ -59,6 +59,10 @@ export const overwhereIiGarthMarsh = {
       fact: "Garth has an old boar spear, a crook, a shepherd's sling and no other weapon.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A man down the lane from the barn where Nala woke hushes a dog called Burr in a slow, deep voice.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
