@@ -111,6 +111,14 @@ export const overwhereIHessaVane = {
       fact: "She lets Nala watch, names each cut as she goes, and lets her help if asked.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Hessa let Nala watch her skin the Brute, and named each cut as she made it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "At the skinning, Hessa asked Nala where she is from, and said she is not from the march.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

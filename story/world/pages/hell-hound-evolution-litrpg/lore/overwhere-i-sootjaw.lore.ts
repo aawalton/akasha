@@ -141,7 +141,7 @@ export const overwhereISootjaw = {
     },
     {
       fact: "Skinned, the hide is slit belly to throat and down each leg, then worked off with a knife.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Skinning and quartering it takes Hessa most of an hour at the water's edge.",
@@ -149,11 +149,19 @@ export const overwhereISootjaw = {
     },
     {
       fact: "The burn hole through its chest spoils part of the pelt, which now fetches three silver.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Its heart is small and hard; hunters leave a Brute's guts in the water for the eels.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Unspoiled, Sootjaw's pelt would have fetched four silver.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Under its matted, stiff fur, Sootjaw's skin is thick and pale, threaded with fat.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",

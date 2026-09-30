@@ -37,5 +37,6 @@ export const overwhereI00011 = {
     "place/overwhere-i-greyfen-ford",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-29T11:22:00.000Z",
 } as const satisfies StoryTurnPlayed

@@ -91,6 +91,10 @@ export const overwhereIGreyfenFord = {
       fact: "Folk call this crossing Greyfen Ford, after the Greyfen, the marsh that lies west of it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "The ford's crossing stones are cold and slick, and the water there barely wets the ankles.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
