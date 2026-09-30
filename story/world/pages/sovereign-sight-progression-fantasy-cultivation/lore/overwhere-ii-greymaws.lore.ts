@@ -59,5 +59,9 @@ export const overwhereIiGreymaws = {
       fact: "Garth says the greymaws came down off the Whitecombs at midwinter.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "At sundown on day two, greymaws howled from the screes above Marsh Croft, one answering closer.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
