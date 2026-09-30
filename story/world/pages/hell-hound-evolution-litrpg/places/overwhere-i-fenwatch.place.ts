@@ -159,6 +159,10 @@ export const overwhereIFenwatch = {
       fact: "Fenwatch has no shop; folk buy from each other's doors, or from the pedlar Osric Fenn.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Bet Ashdown, Tobin's mother, sells homespun tunics, leggings and cloaks from her house.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
