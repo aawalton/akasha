@@ -25,7 +25,7 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "From the crest one sees Fenwatch's smoke and palisade to the east and the whole Greyfen to the west.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "A flat rock at the crest called Wolf's Seat is where Fenwatch hunters sit to watch the fen.",
