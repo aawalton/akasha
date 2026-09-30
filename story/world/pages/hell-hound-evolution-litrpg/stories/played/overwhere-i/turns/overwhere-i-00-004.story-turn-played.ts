@@ -35,5 +35,6 @@ export const overwhereI00004 = {
     "place/overwhere-i-greyback-and-east-road",
     "place/overwhere-i-greyfen-ford",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-29T10:14:00.000Z",
 } as const satisfies StoryTurnPlayed
