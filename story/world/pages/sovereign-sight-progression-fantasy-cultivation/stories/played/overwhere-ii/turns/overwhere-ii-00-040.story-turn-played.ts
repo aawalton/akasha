@@ -39,5 +39,6 @@ export const overwhereIi00040 = {
     "place/overwhere-ii-hollow-tarn",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-09-30T11:43:00.000Z",
 } as const satisfies StoryTurnPlayed
