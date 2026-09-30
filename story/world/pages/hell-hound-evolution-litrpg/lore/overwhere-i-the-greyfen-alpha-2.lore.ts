@@ -125,5 +125,9 @@ export const overwhereITheGreyfenAlpha2 = {
         "character-other/overwhere-i-ghost-eye",
       ],
     },
+    {
+      fact: "After the second spent slug, Ghost-Eye marks exactly where she lies and judges her shots harmless.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
