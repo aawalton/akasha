@@ -197,7 +197,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Dray's cart came back by noon on day two with the four Marsh Croft greymaws; he has seen them.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "On the afternoon of day two Dray is at the Reeve's house by the green, the carcasses in its yard.",
