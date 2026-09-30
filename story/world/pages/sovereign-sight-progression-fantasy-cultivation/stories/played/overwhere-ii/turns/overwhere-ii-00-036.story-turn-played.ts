@@ -10,7 +10,7 @@ export const overwhereIi00036 = {
   position: 36,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Oh good, then you’ll heal fast if I do hurt you.” I take up the spear and cycle my water, then slowly approach Dray. When he’s in range, I commit to a thrust, surging Undertow to pull him toward me off balance and push my spear forward faster than it would naturally go at the same time, aiming for center mass.",
   beats: [
@@ -38,6 +38,6 @@ export const overwhereIi00036 = {
     "lore/overwhere-ii-reeve-corwin-dray",
     "lore/overwhere-ii-undertow",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-30T08:26:00.000Z",
 } as const satisfies StoryTurnPlayed
