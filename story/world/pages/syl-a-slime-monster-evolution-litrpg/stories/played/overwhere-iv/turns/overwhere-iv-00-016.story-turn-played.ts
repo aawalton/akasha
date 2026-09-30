@@ -4,10 +4,13 @@ export const overwhereIv00016 = {
   id: "01a0f24a-1899-7f9c-bcaa-23c79c550164",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-016",
+  ownLength: 197,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 16,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action: "“Why? What is the threat? I can’t guard against an unknown.”",
   beats: [
     '"Why?" Nala whispers back. "What is the threat? I can\'t guard against an unknown."',
@@ -24,6 +27,6 @@ export const overwhereIv00016 = {
     "\"I don't know which house. I don't know what his magic was called.\" The cot creaks again.",
     '"I know he\'s dead."',
   ],
-  lore: ["lore/overwhere-iv-oswin-pike"],
+  lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-oswin-pike"],
   endsAt: "2026-09-29T19:35:00.000Z",
 } as const satisfies StoryTurnPlayed
