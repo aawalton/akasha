@@ -45,6 +45,11 @@ export const overwhereIGrowth = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Level gains in one reading settle in order, each from the level and marks the one before left.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "Each level gives Strength two, Dexterity two, Vigor two, Attunement four, Luck one.",
     },
     {

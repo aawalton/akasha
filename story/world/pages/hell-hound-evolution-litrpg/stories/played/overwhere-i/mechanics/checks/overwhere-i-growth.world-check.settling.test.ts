@@ -72,6 +72,54 @@ test("marks held can carry her past more than one level", () => {
   })
 })
 
+test("several kills in one reading each start from the level and marks the kill before left", () => {
+  const none = { strength: 0, dexterity: 0, vigor: 0, attunement: 0, luck: 0 }
+  expect(
+    settled({
+      character: NALA,
+      gains: [
+        { kind: "level", level: 5, marks: 1, foeLevel: 10 },
+        { kind: "level", level: 5, marks: 1, foeLevel: 11 },
+        { kind: "level", level: 5, marks: 1, foeLevel: 12 },
+      ],
+    })
+  ).toEqual({
+    answered: {
+      grown: [
+        { kind: "level", from: 5, to: 5, earned: 3, marksLeft: 4, stats: none },
+        {
+          kind: "level",
+          from: 5,
+          to: 6,
+          earned: 3,
+          marksLeft: 1,
+          stats: { strength: 2, dexterity: 2, vigor: 2, attunement: 4, luck: 1 },
+        },
+        { kind: "level", from: 6, to: 6, earned: 3, marksLeft: 4, stats: none },
+      ],
+    },
+  })
+})
+
+test("a later kill earns marks by the level the kills before it raised her to", () => {
+  expect(
+    settled({
+      character: NALA,
+      gains: [
+        { kind: "level", level: 5, marks: 4, foeLevel: 10 },
+        { kind: "level", level: 5, marks: 4, foeLevel: 10 },
+      ],
+    })
+  ).toHaveProperty("answered.grown.1", {
+    kind: "level",
+    from: 6,
+    to: 6,
+    earned: 2,
+    marksLeft: 3,
+    stats: { strength: 0, dexterity: 0, vigor: 0, attunement: 0, luck: 0 },
+  })
+})
+
 test("a skill rises when its uses reach twice its level, and gives three to its stat", () => {
   expect(
     settled({

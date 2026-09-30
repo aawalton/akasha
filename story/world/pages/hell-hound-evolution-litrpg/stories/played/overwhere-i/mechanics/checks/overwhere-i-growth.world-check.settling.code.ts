@@ -83,18 +83,20 @@ function marksFor(level: number, foeLevel: number): number {
   return MARKS_BY_FOE.find((one) => foeLevel >= level + one.atLeastAbove)?.marks ?? 0
 }
 
-function grownLevel(gain: z.infer<typeof LEVEL>): LevelGrown {
-  const earned = marksFor(gain.level, gain.foeLevel)
-  let marks = gain.marks + earned
-  let level = gain.level
+type Start = { readonly level: number; readonly marks: number }
+
+function grownLevel(gain: z.infer<typeof LEVEL>, start: Start): LevelGrown {
+  const earned = marksFor(start.level, gain.foeLevel)
+  let marks = start.marks + earned
+  let level = start.level
   while (marks >= level + 1) {
     marks -= level + 1
     level += 1
   }
-  const risen = level - gain.level
+  const risen = level - start.level
   return {
     kind: "level",
-    from: gain.level,
+    from: start.level,
     to: level,
     earned,
     marksLeft: marks,
@@ -136,10 +138,13 @@ function grownLegacy(gain: z.infer<typeof LEGACY>): LegacyGrown {
 export function settled(reading: unknown): Settled {
   const held = GROWING.safeParse(reading)
   if (!held.success) return { refused: `growth reads so: ${z.prettifyError(held.error)}` }
+  let start: Start | null = null
   const grown = held.data.gains.map((gain): Grown => {
-    if (gain.kind === "level") return grownLevel(gain)
     if (gain.kind === "skill") return grownSkill(gain)
-    return grownLegacy(gain)
+    if (gain.kind === "legacy") return grownLegacy(gain)
+    const level = grownLevel(gain, start ?? gain)
+    start = { level: level.to, marks: level.marksLeft }
+    return level
   })
   return { answered: { grown } }
 }
