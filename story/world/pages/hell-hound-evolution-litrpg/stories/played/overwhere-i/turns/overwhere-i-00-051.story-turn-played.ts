@@ -4,6 +4,7 @@ export const overwhereI00051 = {
   id: "01a0f436-eeab-75ef-b14d-ccc80bc9fe24",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-051",
+  cover: "image/image-420b841594453d43",
   ownLength: 135,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -16,7 +17,7 @@ export const overwhereI00051 = {
     "character-other/overwhere-i-pine-isle-drakewolf-seven",
     "character-other/overwhere-i-pine-isle-drakewolf-eight",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I fire an artillery shot again, seeing if I can hit Ghost-Eye this time",
   beats: [
     "Nala draws another slug and pours two weaves into it, the cost dragging hard on her mana.",
@@ -36,6 +37,11 @@ export const overwhereI00051 = {
     "lore/overwhere-i-the-greyfen-alpha-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-01T13:32:00.000Z",
 } as const satisfies StoryTurnPlayed
