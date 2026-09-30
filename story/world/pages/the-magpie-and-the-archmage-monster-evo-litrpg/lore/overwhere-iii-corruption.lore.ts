@@ -158,7 +158,11 @@ export const overwhereIiiCorruption = {
     },
     {
       fact: "Enough Purify cracks a blightstone and it bursts into a clean glimmerstone.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Blightstones from stronger foes need more Purifies, yet each yields a single glimmerstone.",
