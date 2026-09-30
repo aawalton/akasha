@@ -332,7 +332,11 @@ export const overwhereIvIlsaCrane = {
     },
     {
       fact: "Ilsa asks low whether the black line and the clear flare are the same gift.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Garrett's cart leaves for Aubrin at dawn tomorrow, with Ilsa's soft report aboard.",
