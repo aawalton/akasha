@@ -4,10 +4,13 @@ export const overwhereIi00046 = {
   id: "01a0f418-810a-7135-882f-53e383cd4619",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-046",
+  ownLength: 197,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 46,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“It just fit” I shrug. I check my Water level to see if I could do the other arm now. If so, I do.",
   beats: [
@@ -28,6 +31,6 @@ export const overwhereIi00046 = {
     "Now he holds out a wet cloth, and a clay cup of water from the shrine's jug.",
     'Anselm: "You bled. Were you pushing too hard?"',
   ],
-  lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2"],
+  lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2", "lore/overwhere-ii-undertow"],
   endsAt: "2026-09-30T16:32:00.000Z",
 } as const satisfies StoryTurnPlayed
