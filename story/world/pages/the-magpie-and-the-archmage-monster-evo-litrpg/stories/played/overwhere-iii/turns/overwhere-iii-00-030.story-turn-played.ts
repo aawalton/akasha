@@ -4,10 +4,20 @@ export const overwhereIii00030 = {
   id: "01a0f389-8b23-709f-b4cd-b07de66efe42",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-030",
+  ownLength: 222,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 30,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-brannagh-tull",
+    "character-other/overwhere-iii-ivy-marsh",
+    "character-other/overwhere-iii-garrick-dole",
+    "character-other/overwhere-iii-tobin-wick",
+    "character-other/overwhere-iii-bet-harrow",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "“I’m dry, but I’ll check in morning and night until you’re both clear. Ivy in the morning, Garrick at night. For now, I’m going to sleep.”",
   beats: [
@@ -27,6 +37,15 @@ export const overwhereIii00030 = {
     'Bet\'s eyebrows go up, pleased. "Paying your own way already? What work did you find, then?"',
     "She looks at Nala's man's shirt. \"And you'll want something warmer than that. I've a box.\"",
   ],
-  lore: ["lore/overwhere-iii-brannagh-tull", "lore/overwhere-iii-cleansing-weave"],
+  lore: [
+    "lore/overwhere-iii-bet-harrow",
+    "lore/overwhere-iii-brannagh-tull",
+    "lore/overwhere-iii-cleansing-weave",
+    "lore/overwhere-iii-garrick-dole",
+    "lore/overwhere-iii-ivy-marsh",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
+    "lore/overwhere-iii-tobin-wick",
+  ],
   endsAt: "2026-09-30T18:30:00.000Z",
 } as const satisfies StoryTurnPlayed
