@@ -175,6 +175,10 @@ export const overwhereIiGarthMarsh = {
       fact: "Garth went home to Wren and will have the fold ready for Nala to see his ewes.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Nala drew the rot from Garth's two ewes across the fold rail at once; they stand sound again.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
