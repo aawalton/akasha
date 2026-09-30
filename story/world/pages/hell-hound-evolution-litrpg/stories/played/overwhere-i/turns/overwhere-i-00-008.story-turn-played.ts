@@ -11,4 +11,5 @@ export const overwhereI00008 = {
   action:
     "“Okay, 10% every 10 minutes, or just under two hours to full. Not too bad. I have water, let’s see what we can do about shelter.” I attune to Earth again and this time I focus on constructing small but solid dome of stone around me, with the",
   lore: ["lore/overwhere-i-hessa-vane", "lore/overwhere-i-nala", "place/overwhere-i-greyfen-ford"],
+  endsAt: "2026-09-29T11:05:00.000Z",
 } as const satisfies StoryTurnPlayed
