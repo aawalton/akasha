@@ -216,6 +216,10 @@ export const overwhereIiiBrannaghTull = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
+    {
+      fact: "She keeps her word: the two low potions are Nala's tonight, whatever comes of the rest.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
