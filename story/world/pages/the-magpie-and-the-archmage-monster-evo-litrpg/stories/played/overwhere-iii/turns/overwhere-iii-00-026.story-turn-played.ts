@@ -15,7 +15,7 @@ export const overwhereIii00026 = {
     "character-other/overwhere-iii-garrick-dole",
     "character-other/overwhere-iii-ivy-marsh",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "“I did, but I’m still learning. Did I do something wrong?”",
   beats: [
     '"I did," Nala says, "but I\'m still learning. Did I do something wrong?"',
@@ -34,6 +34,6 @@ export const overwhereIii00026 = {
     "lore/overwhere-iii-corruption",
     "lore/overwhere-iii-nala",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T17:47:00.000Z",
 } as const satisfies StoryTurnPlayed
