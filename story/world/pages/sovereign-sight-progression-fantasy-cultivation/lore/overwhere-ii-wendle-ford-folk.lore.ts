@@ -168,7 +168,7 @@ export const overwhereIiWendleFordFolk = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
-      fact: "The Reeve, Tam Oakes, is stout and fussy; he houses Col Ashby, who has no wife to nurse him.",
+      fact: "Tam Oakes, the Ford's village reeve, stout and fussy, keeps Reeve Dray's house and nursed Col there.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -184,7 +184,7 @@ export const overwhereIiWendleFordFolk = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Reeve Oakes, stout and fussy, keeps Col Ashby in his slate-roofed house by the green.",
+      fact: "Reeve Oakes, stout and fussy, kept Col Ashby in the slate-roofed Reeve's house by the green.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
@@ -240,19 +240,19 @@ export const overwhereIiWendleFordFolk = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
-      fact: "The watch swore a silver bar from its chest to whoever killed the white-eye; Oakes will honour it.",
+      fact: "The watch swore a silver bar from its chest to whoever killed the white-eye; Dray will honour it.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Reeve Oakes will ask Nala to stay in the valley, and offer her the empty watch cottage by the ford.",
+      fact: "Reeve Dray will ask Nala to stay in the valley, and offer her the empty watch cottage by the ford.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Oakes sends Dunn and Aldo Cray with the watch cart to Marsh Croft; they are back by noon.",
+      fact: "Dray sends Dunn and Aldo Cray with the watch cart to Marsh Croft; they are back by noon.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Once the cart is back, Oakes pays eight silver for the four greymaws and the watch's silver bar.",
+      fact: "Once the cart is back, Dray pays eight silver for the four greymaws and the watch's silver bar.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
