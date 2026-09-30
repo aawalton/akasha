@@ -11,4 +11,5 @@ export const overwhereI00060 = {
   action:
     "“I’ll pay you two silver now for information on what a drake-pearl is good for. Is it something I could use?”",
   lore: ["lore/overwhere-i-greyfen-beasts-2", "lore/overwhere-i-osric-fenn"],
+  endsAt: "2026-10-01T18:00:00.000Z",
 } as const satisfies StoryTurnPlayed
