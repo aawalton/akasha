@@ -135,6 +135,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "An old Grubboar's head alone weighs about as much as a grown man.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Taking a Grubboar's head off with a water disc is a moderate act, even with the head under water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
