@@ -4,10 +4,19 @@ export const overwhereIv00028 = {
   id: "01a0f3bd-f724-7aab-8ae7-14f296561de9",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-028",
+  ownLength: 406,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 28,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iv-nala",
+    "character-other/overwhere-iv-ilsa-crane",
+    "character-other/overwhere-iv-brenna-holt",
+    "character-other/overwhere-iv-dell",
+    "character-other/overwhere-iv-wat",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I tell him what I know, then get to bed, so I can sleep before watch training in the morning. After training I go back to the guild to check with Ilsa on what I should tackle next.",
   beats: [
@@ -37,6 +46,8 @@ export const overwhereIv00028 = {
   lore: [
     "lore/overwhere-iv-brookside-four",
     "lore/overwhere-iv-ilsa-crane",
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
     "place/overwhere-iv-millbrook-gatehouse",
   ],
   endsAt: "2026-10-01T08:30:00.000Z",
