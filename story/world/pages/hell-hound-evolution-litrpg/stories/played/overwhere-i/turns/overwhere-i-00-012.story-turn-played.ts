@@ -4,10 +4,13 @@ export const overwhereI00012 = {
   id: "01a0f18e-6b55-7ca6-a1ca-414828bd1335",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-012",
+  ownLength: 203,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 12,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Oh, here and there. A bit of a rolling stone, always looking for a change and a challenge. Any good challenges near here?”",
   beats: [
@@ -27,6 +30,7 @@ export const overwhereI00012 = {
   ],
   lore: [
     "lore/overwhere-i-hessa-vane",
+    "lore/overwhere-i-nala",
     "lore/overwhere-i-the-deserter-crew",
     "lore/overwhere-i-the-greyfen-alpha",
     "place/overwhere-i-greyfen-ford",
