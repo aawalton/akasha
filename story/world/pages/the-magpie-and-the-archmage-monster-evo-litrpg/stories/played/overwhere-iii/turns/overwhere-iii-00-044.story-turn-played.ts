@@ -16,7 +16,7 @@ export const overwhereIii00044 = {
     "character-other/overwhere-iii-brannagh-tull",
     "character-other/overwhere-iii-hild-wendle",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I pause to go to the Post to spend my mana on cleansing blight stones, then I spend the day reading Brannagh’s book, going back to the post again to drain my mana whenever it gets close to full. If I finish the book, I go back to the Post to read more in the bestiary.",
   beats: [
@@ -45,6 +45,11 @@ export const overwhereIii00044 = {
     "lore/overwhere-iii-nala-2",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-02T12:00:00.000Z",
 } as const satisfies StoryTurnPlayed
