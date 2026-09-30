@@ -167,6 +167,10 @@ export const overwhereIiGarthMarsh = {
       fact: "The iron lid of Garth's pot hangs on a hook by his hearth, where a peat fire burns.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Garth's mother told him of Liss Aske, the red-haired Aske girl the tarn took.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

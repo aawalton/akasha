@@ -260,6 +260,14 @@ export const overwhereIiNala = {
       fact: "A Knack or a sleeping Talent feels the gooseflesh of her deep drawing too.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The tarn's last drowned was Liss Aske, twenty-five and red-haired, fifty-one winters ago.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Cold iron does not burn Nala; against her skin it only feels cold, dead and numbing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

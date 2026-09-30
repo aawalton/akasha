@@ -59,6 +59,14 @@ export const overwhereIiGoodyBrannoc = {
       fact: 'At the sight of Nala\'s face Goody went white and whispered, "Liss? Liss Aske?"',
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Goody fears the tarn has sent back a drowned thing, and would test Nala with cold iron first.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Goody says Liss Aske was her dearest friend, red-haired, drowned in Hollow Tarn 51 winters ago.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
