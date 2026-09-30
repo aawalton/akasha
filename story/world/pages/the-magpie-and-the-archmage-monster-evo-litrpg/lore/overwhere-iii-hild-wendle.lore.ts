@@ -35,7 +35,12 @@ export const overwhereIiiHildWendle = {
     },
     {
       fact: "Arriving, Hild says, 'They say you drew it out of Ivy Marsh. Draw it out of me, love, please.'",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-hild-wendle",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
     },
     {
       fact: "Joss pays Brannagh the 10 copper fee for Hild, and Brannagh hands it on to the healer.",
