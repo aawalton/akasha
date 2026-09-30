@@ -4,10 +4,13 @@ export const overwhereI00045 = {
   id: "01a0f3f3-9c71-720c-aed3-82a0b6a6fb6b",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-045",
+  ownLength: 142,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 45,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I drop my working and stay still while my mana recharges to full, keeping a watch with natural vision for any of the wolves to come in my direction.",
   beats: [
@@ -21,6 +24,6 @@ export const overwhereI00045 = {
     "By half past twelve she is full, and her legs are rested from the morning's wading.",
     "The watching speck stands, and another rises out of the pack to take its place.",
   ],
-  lore: ["lore/overwhere-i-the-greyfen-alpha"],
+  lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-the-greyfen-alpha"],
   endsAt: "2026-10-01T12:30:00.000Z",
 } as const satisfies StoryTurnPlayed
