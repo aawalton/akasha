@@ -40,5 +40,6 @@ export const overwhereIv00039 = {
     "place/overwhere-iv-reeves-pasture",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-10-02T09:15:00.000Z",
 } as const satisfies StoryTurnPlayed
