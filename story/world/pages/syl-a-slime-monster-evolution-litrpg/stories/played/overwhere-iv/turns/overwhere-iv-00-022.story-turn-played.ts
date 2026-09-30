@@ -4,7 +4,7 @@ export const overwhereIv00022 = {
   id: "01a0f36b-bec3-743b-8d2a-1ce4a52af1a5",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-022",
-  ownLength: 499,
+  ownLength: 506,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 22,
@@ -14,7 +14,7 @@ export const overwhereIv00022 = {
     "character-other/overwhere-iv-ilsa-crane",
     "character-other/overwhere-iv-brenna-holt",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "“Perfect, I’ll work on that today.” I go and check if I’m needed for any more of the guard training first and complete that if so, then go clear slimes at the Hobb farm.",
   beats: [
