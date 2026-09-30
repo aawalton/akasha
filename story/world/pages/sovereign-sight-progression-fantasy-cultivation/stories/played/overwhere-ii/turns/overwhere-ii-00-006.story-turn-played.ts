@@ -4,13 +4,14 @@ export const overwhereIi00006 = {
   id: "01a0f16d-fc6f-7158-b5df-fba2c429a60a",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-006",
+  cover: "image/image-4c8d9fb036a20745",
   ownLength: 449,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 6,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“I'll gladly accept the porridge and then be on my way. Are there any threats in the area I should be aware of?”",
   beats: [
@@ -51,8 +52,9 @@ export const overwhereIi00006 = {
     "place/overwhere-ii-marsh-croft",
     "place/overwhere-ii-tern-hollow",
     "place/overwhere-ii-wendlemere",
+    "place/overwhere-ii-whitecombs",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-29T07:33:00.000Z",
 } as const satisfies StoryTurnPlayed
