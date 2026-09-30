@@ -90,7 +90,12 @@ export const overwhereIiiMaudFerrow = {
     },
     {
       fact: "On a newcomer's second drill Maud shows her how to hold a staff, and pairs her with Tam again.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-maud-ferrow",
+        "character-other/overwhere-iii-tam-rowe",
+      ],
     },
     {
       fact: "Tam Rowe is the lanky young watchman who dropped Nala; he grins, and goes no easier the second day.",
