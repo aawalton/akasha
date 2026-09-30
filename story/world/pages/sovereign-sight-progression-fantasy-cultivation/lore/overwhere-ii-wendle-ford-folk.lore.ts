@@ -219,5 +219,9 @@ export const overwhereIiWendleFordFolk = {
       fact: "Drawn clean, Col's gash is a clean red line; he flexed foot and knee and called it his leg back.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Pim Sallow, sixty and sharp-tongued, lives alone by the carters' yard at the Ford's south end.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
