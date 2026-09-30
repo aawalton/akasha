@@ -46,7 +46,7 @@ export const overwhereIiiCleansingWeave = {
     },
     {
       fact: "To Nala's sight a seed stone is a tight knot of black current, a pinprick of pale light at its core.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
 } as const satisfies Lore
