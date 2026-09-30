@@ -1,0 +1,36 @@
+import type { Lore } from "akasha/story/lore/lore.page-type.types.ts"
+
+export const overwhereIvIlsaCrane2 = {
+  id: "01a0f437-7f54-720d-bde9-cda992351ac3",
+  type: "page-type/lore",
+  slug: "overwhere-iv-ilsa-crane-2",
+  title: "Ilsa Crane, continued",
+  world: "world/syl-a-slime-monster-evolution-litrpg",
+  about: "character-other/overwhere-iv-ilsa-crane",
+  facts: [
+    {
+      fact: "Only Aubrin's hall raises a tag past bronze; Ilsa can't rank anyone up herself.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "Ilsa would let Nala take posted jobs alone: fewer eyes on the black line.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ilsa half-believes the five-goblin boast, since the Four came home unhurt.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ilsa would still bar Grakk's camp to anyone alone; a hobgoblin chief is no bronze job.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ilsa would offer the reeve's oak first: it grows in his back pasture, out of the town's sight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ilsa thinks the goblins, a lookout lost, will raid Tangle-edge farms again within days.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
+} as const satisfies Lore
