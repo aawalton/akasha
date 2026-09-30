@@ -32,6 +32,7 @@ export const overwhereIi00010 = {
     '"She\'d not have you walk the thaw barefoot, after this. Nor would I."',
     "He holds them out to Nala, boots on top of the cloak.",
   ],
+  issues: ['"none of his silver\'s helped her" - Nobody Acts'],
   lore: [
     "lore/overwhere-ii-garth-marsh",
     "lore/overwhere-ii-goody-brannoc",
@@ -39,5 +40,6 @@ export const overwhereIi00010 = {
     "lore/overwhere-ii-wendle-ford-folk",
     "place/overwhere-ii-marsh-croft",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T07:55:00.000Z",
 } as const satisfies StoryTurnPlayed
