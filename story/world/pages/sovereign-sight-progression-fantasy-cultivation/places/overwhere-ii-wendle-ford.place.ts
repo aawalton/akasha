@@ -110,7 +110,7 @@ export const overwhereIiWendleFord = {
     },
     {
       fact: "Day three dawns clear and cold, frost on the green, the Whitecombs sharp against the sky.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "From dawn Maddy Fenn sells a day's bread, cheese and cold mutton wrapped for the road, two coppers.",
