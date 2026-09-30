@@ -129,6 +129,10 @@ export const overwhereIiWendleFord = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Wat Brisk sleeps at the Lantern on market night and leaves for Carrowmouth at first light.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Market stalls sell wool, cheese, eggs, eels, oatmeal, a tinker's pots and needles, and cloth.",
       knowers: ["lore-disclosure/game-master"],
     },
