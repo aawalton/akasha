@@ -4,13 +4,13 @@ export const overwhereIii00009 = {
   id: "01a0f1a0-608f-78f4-928c-c5454d926ad6",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-009",
-  ownLength: 304,
+  ownLength: 296,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 9,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "I go in. “Do I need to register to take on a task from the board or can I just return when it is complete? I’m looking at gathering frostcap mushrooms. Also, anything you could tell me about them or the area where they are found would be appreciated.”",
   beats: [
