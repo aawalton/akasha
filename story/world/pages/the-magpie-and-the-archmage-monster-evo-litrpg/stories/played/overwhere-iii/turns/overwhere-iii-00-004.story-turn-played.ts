@@ -31,7 +31,13 @@ export const overwhereIii00004 = {
     '"Evening, Tobin." The guard\'s eyes go to Nala, the coat, the bare feet. "And who\'s this?"',
     '"No papers, I\'d guess. Name, lass, and your business in Merrowgate. It goes in the book."',
   ],
-  lore: ["lore/overwhere-iii-nala", "lore/overwhere-iii-tobin-wick"],
+  lore: [
+    "lore/overwhere-iii-hal-dunmore",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-tobin-wick",
+    "place/overwhere-iii-merrowgate",
+  ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-29T17:16:00.000Z",
 } as const satisfies StoryTurnPlayed

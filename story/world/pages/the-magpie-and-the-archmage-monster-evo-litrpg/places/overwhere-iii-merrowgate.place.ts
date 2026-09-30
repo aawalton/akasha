@@ -96,7 +96,35 @@ export const overwhereIiiMerrowgate = {
     },
     {
       fact: "The Crook and Candle is Merrowgate's one inn.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tobin-wick",
+      ],
+    },
+    {
+      fact: "Merrowgate's wall is gray fieldstone; a lantern is lit beside its south gate at dusk.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tobin-wick",
+      ],
+    },
+    {
+      fact: "A slow, deep bell rings out over Merrowgate at sundown.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tobin-wick",
+      ],
+    },
+    {
+      fact: "The south gate guard writes a stranger without papers in his ledger: name and business.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tobin-wick",
+      ],
     },
   ],
   secrets: "jsonl",

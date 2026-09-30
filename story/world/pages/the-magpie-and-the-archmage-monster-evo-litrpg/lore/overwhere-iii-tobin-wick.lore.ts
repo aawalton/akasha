@@ -78,7 +78,19 @@ export const overwhereIiiTobinWick = {
     },
     {
       fact: "Told 'not sure', he takes her for struck on the head and means to see her to the Crook and Candle.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tobin-wick",
+      ],
+    },
+    {
+      fact: "The guard at Merrowgate's south gate knows Tobin by name.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tobin-wick",
+      ],
     },
   ],
   secrets: "jsonl",
