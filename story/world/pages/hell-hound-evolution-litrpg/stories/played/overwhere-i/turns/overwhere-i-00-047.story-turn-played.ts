@@ -4,10 +4,21 @@ export const overwhereI00047 = {
   id: "01a0f405-2654-7b12-9052-82e3c55274f7",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-047",
+  ownLength: 219,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 47,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-i-nala",
+    "character-other/overwhere-i-pine-isle-drakewolf-one",
+    "character-other/overwhere-i-pine-isle-drakewolf-two",
+    "character-other/overwhere-i-pine-isle-drakewolf-three",
+    "character-other/overwhere-i-pine-isle-drakewolf-four",
+    "character-other/overwhere-i-pine-isle-drakewolf-five",
+    "character-other/overwhere-i-pine-isle-drakewolf-six",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I get out of sight and cover myself in the muck to mask my scent, then careful circle around to the closest cover and get as close as I can without being detected.",
   beats: [
@@ -26,6 +37,11 @@ export const overwhereI00047 = {
     "The crescent's ends swing wide, as if to herd her toward deep water.",
     "At this pace they'll be on her in about a minute and a half.",
   ],
-  lore: ["lore/overwhere-i-the-greyfen-alpha", "place/overwhere-i-the-greyfen"],
+  lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
+    "lore/overwhere-i-the-greyfen-alpha",
+    "place/overwhere-i-the-greyfen",
+  ],
   endsAt: "2026-10-01T13:02:00.000Z",
 } as const satisfies StoryTurnPlayed
