@@ -48,7 +48,7 @@ export const overwhereIvReevesPasture = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "A sheared oak falls wherever its lean takes it, and nothing steers it.",
+      fact: "An oak sheared level through falls wherever its lean takes it.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
