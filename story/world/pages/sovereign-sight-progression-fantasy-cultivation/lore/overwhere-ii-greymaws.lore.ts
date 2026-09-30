@@ -159,5 +159,9 @@ export const overwhereIiGreymaws = {
       fact: "An empty greymaw chamber sells for about a silver bar in Carrowmouth; none buy them in the valley.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The she-wolf's chamber is twice the size, cracked by the spear, and worth two bars even so.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
