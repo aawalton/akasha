@@ -194,7 +194,11 @@ export const otherwhereXiGrowth = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Focus, Acuity and Willpower set how much mana she holds and how well she casts.",
+      statement: "Focus, Acuity and Willpower set how well she casts.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its rises raise most health and mana as the harm and mana-flow checks work them.",
     },
     {
       decisionKind: "decision-kind/departure",
