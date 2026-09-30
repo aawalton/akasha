@@ -310,7 +310,7 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "Pouring a second Weave cast into one slug gives it half again the force, at double the cost.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Past 150 yards a slug is spent, striking with half its force.",
