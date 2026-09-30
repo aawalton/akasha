@@ -68,5 +68,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "A reedlurker's damp hide wards 3 against steam; steam from its own tunnel wets it as it scalds.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Steam in a den vents from its air hole as a white plume among the roots.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
