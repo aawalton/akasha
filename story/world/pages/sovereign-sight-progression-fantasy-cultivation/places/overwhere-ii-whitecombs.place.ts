@@ -101,7 +101,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "A Warped goat is as heavy as a big ewe; Nala drags one by hand, or both with Undertow's pull.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "An hour above the Callow cwm, a cliff split fresh at midwinter has buried an old greymaw den.",
