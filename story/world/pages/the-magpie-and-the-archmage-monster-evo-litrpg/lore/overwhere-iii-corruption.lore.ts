@@ -248,6 +248,10 @@ export const overwhereIiiCorruption = {
       fact: "Blight resists a holy thread: it bites cold up the thread into her hand, and the thread slips.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A Level 15 to 17 blightstone takes about eight Basic Cleansing Weaves to crack.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
