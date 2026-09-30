@@ -47,6 +47,10 @@ export const overwhereIOsricFenn = {
       fact: "A Level 1 grown woman would interest him greatly, and he would wonder who might pay to find her.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Osric Fenn reaches Fenwatch on the evening of day 3 and takes a room at the Stag.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
