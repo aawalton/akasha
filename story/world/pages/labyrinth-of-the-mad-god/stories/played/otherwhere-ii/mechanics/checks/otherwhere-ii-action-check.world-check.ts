@@ -73,5 +73,89 @@ export const otherwhereIiActionCheck = {
       decisionKind: "decision-kind/departure",
       statement: "Dice, bands and margins never appear in the prose.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A person's most mana is three times their Magic.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A spell spends the mana its page states, whether it works or not.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No one spends mana they lack; an empty core leaves a dull ache below the heart.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Mana comes back as many an hour as half the character's Magic, and whole with sleep.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every change in mana is written on the page and a line of its history before the turn moves on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A person's most stamina is five and their Strength, Dexterity and Toughness.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A hard sprint, climb, swim or fight costs two stamina a turn, and a long walk one an hour.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "At nought stamina every act takes a named bonus of minus three until she rests.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Stamina comes back four an hour at rest, faster with food and water, and whole with sleep.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A combat art spends stamina as its page states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every change in stamina is written on the page and a line of its history before the turn moves on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Strength is the stat for lifting, pulling, climbing and the force behind a blow.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Dexterity is the stat for speed, balance, dodging, aim and fine work with the hands.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Toughness is the stat for enduring blows, heat, cold, poison and long effort.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Mind is the stat for reasoning, memory, noticing and foreseeing how things move.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Creativity is the stat for picturing, invention and shaping a spell in the mind.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Charisma is the stat for winning trust, leading, and calming or cowing a beast.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Magic is the stat for a spell's power, the core's size and how fast mana returns.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A stat page holds the stat's total, with every trait and point the character has.",
+    },
   ],
 } as const satisfies WorldCheck

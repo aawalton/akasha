@@ -56,5 +56,28 @@ export const otherwhereIiExperience = {
       statement:
         "Level and experience are written on the character's pages before the turn moves on.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An experience page's value is what is held toward the next level, and its most is that level's cost.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Experience is never shown to the character as a number.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A survivor of Earth begins at level 0 of tier one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A level gives the points its class states, and is felt in the core before it is read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every change in level is written on the page and a line of its history before the turn moves on.",
+    },
   ],
 } as const satisfies WorldCheck
