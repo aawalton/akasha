@@ -25,7 +25,7 @@ export const overwhereIiWrenMarsh = {
     },
     {
       fact: "Goody Brannoc's poultices slow Wren's rot but cannot stop it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Untreated, the rot reaches Wren's reservoir in about ten days and kills her.",
