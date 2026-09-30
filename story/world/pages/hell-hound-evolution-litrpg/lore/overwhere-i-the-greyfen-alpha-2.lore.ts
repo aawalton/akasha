@@ -188,5 +188,9 @@ export const overwhereITheGreyfenAlpha2 = {
         "character-other/overwhere-i-ghost-eye",
       ],
     },
+    {
+      fact: "Wading upright into the open marsh she is seen at once; 100 yards takes her about two minutes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
