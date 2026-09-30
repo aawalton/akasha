@@ -20,7 +20,7 @@ Something parts. A clean line opens through the goblin, as if the air itself had
 
 It drops without a sound. The spear comes back whole in your hands, your arms humming.
 
-Goblin defeated. Experience gained.
+Goblin LV 5 defeated. Experience gained.
 
 New spell learned: [Rift Rend]
 
