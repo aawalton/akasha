@@ -309,5 +309,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "No wolf is left on the island; Four, Five and Six are gone west with the pups into the deep fen.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "One weave plucks the eye in about a minute; ears need a water disc; together about two minutes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
