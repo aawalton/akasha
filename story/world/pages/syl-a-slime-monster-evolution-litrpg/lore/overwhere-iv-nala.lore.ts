@@ -177,6 +177,10 @@ export const overwhereIvNala = {
       fact: "Nala killed seven small slimes with the practice spear and pockets their seven grey cores.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "The line too bright to read in her status is her Emblems, which show once she first casts.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
