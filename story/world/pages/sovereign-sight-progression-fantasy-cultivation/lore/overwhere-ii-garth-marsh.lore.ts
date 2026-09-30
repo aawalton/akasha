@@ -219,6 +219,10 @@ export const overwhereIiGarthMarsh = {
       fact: "Garth keeps a stout skinning knife on a peg at Marsh Croft.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Garth has a two-wheeled handcart, and will haul greymaw heads to the Ford under sacking.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
