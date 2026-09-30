@@ -68,6 +68,10 @@ export const overwhereIiiCrookAndCandle = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "Bet gives Nala the same room under the eaves; the night passes quiet but for the wind.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
