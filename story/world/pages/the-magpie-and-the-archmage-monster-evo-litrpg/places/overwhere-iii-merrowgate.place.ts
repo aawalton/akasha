@@ -223,6 +223,14 @@ export const overwhereIiiMerrowgate = {
       fact: "Townsfolk who heard Bet's tale nod to the red-haired healer, and some ask after sick kin.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Mornings a dozen of the town watch haul stones and run drills on Merrowgate's south green.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-maud-ferrow",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
