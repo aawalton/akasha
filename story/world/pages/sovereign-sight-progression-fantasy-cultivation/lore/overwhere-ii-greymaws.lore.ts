@@ -149,7 +149,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "The three greymaws Nala drained keep their bone chambers whole but empty of Water.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "A greymaw's chamber is a fist-sized knot of polished grey bone, layered like a shell.",
