@@ -119,6 +119,10 @@ export const overwhereITheGreyfen = {
       fact: "Each of Jory's traps is tied to a peeled willow stake on the bank, pale and easy to see.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Jory wants neither the skin nor the bounty for the trap; she keeps both.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
