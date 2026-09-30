@@ -18,7 +18,7 @@ export const overwhereIii00030 = {
     "character-other/overwhere-iii-tobin-wick",
     "character-other/overwhere-iii-bet-harrow",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“I’m dry, but I’ll check in morning and night until you’re both clear. Ivy in the morning, Garrick at night. For now, I’m going to sleep.”",
   beats: [
@@ -49,6 +49,11 @@ export const overwhereIii00030 = {
     "lore/overwhere-iii-tobin-wick",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-09-30T18:30:00.000Z",
 } as const satisfies StoryTurnPlayed
