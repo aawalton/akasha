@@ -10,7 +10,7 @@ export const overwhereIii00020 = {
   position: 20,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Not quite Purify yet, but part way there. If you don’t mind a few steps, I think I can finish that off after a rest or two.”",
   beats: [
@@ -28,6 +28,6 @@ export const overwhereIii00020 = {
     "lore/overwhere-iii-nala",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-30T12:23:00.000Z",
 } as const satisfies StoryTurnPlayed
