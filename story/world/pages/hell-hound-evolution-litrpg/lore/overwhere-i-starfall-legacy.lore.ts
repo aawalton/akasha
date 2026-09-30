@@ -236,5 +236,9 @@ export const overwhereIStarfallLegacy = {
       fact: "Getting shape and spin right takes about a dozen practice shots; the first few wobble short.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "One minute's earth working at the Surge cost shapes about six slugs, and is a Surge use.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
