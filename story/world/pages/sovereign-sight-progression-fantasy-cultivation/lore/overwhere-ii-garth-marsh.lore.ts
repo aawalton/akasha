@@ -103,6 +103,10 @@ export const overwhereIiGarthMarsh = {
       fact: "Burr's man is Garth Marsh, of Marsh Croft a quarter mile down the lane.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Garth has a lass at home who is abed poorly, and he wants no Talent used under his roof.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
