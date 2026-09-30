@@ -135,6 +135,10 @@ export const overwhereIiKeeperAnselm = {
       fact: "Anselm knows Carrowmouth thaumists buy Aberrant chambers; none in the valley would.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The carrier who takes Anselm's letters comes on market day, in two days, and could carry chambers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
