@@ -39,5 +39,6 @@ export const overwhereIii00012 = {
     "lore/overwhere-iii-tobin-wick",
     "place/overwhere-iii-wrenwood",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-30T08:58:00.000Z",
 } as const satisfies StoryTurnPlayed
