@@ -80,7 +80,7 @@ export function unlistedIn(
   return [...new Set(named)].filter((one) => !slugs.has(slugOf(one)) && !covered.has(slugOf(one)))
 }
 
-export type Casting = {
+type Casting = {
   readonly at: string
   readonly value: Readonly<Record<string, unknown>>
 }
