@@ -10,7 +10,7 @@ export const overwhereIv00035 = {
   position: 35,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I work with the rest to gather the ears and go with them back to the hall.",
   beats: [
     "In the hollow, the work is quick. Nala goes goblin to goblin with the others, taking ears.",
@@ -34,6 +34,6 @@ export const overwhereIv00035 = {
     "place/overwhere-iv-millbrook-adventurers-hall",
     "place/overwhere-iv-the-tangle",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-01T15:48:00.000Z",
 } as const satisfies StoryTurnPlayed
