@@ -91,6 +91,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "Ghost-Eye, a Level 21 Drakewolf, leads the strongest pack in the fen.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "An old Grubboar boar has 30 health and hide warding 2; a sow has 18 health and wards 1.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
