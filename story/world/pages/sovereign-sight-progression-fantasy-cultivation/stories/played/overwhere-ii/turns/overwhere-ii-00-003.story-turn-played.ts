@@ -10,7 +10,7 @@ export const overwhereIi00003 = {
   position: 3,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Okay, seems like this might be a cultivation world, but the dead iron is different. Millennial Mage maybe? I guess I should start with isekai protocol anyways. System? Status?”",
   beats: [
@@ -29,6 +29,6 @@ export const overwhereIi00003 = {
     "Uneven footsteps crunch up the lane toward the barn, one foot heavier than the other.",
   ],
   lore: ["lore/overwhere-ii-nala"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T06:49:00.000Z",
 } as const satisfies StoryTurnPlayed
