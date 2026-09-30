@@ -63,7 +63,11 @@ export const overwhereIiiIvyMarsh = {
     },
     {
       fact: "Healed, Ivy tells Nala her cart and cattle road are hers whenever she needs carrying, free.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-ivy-marsh"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-ivy-marsh",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
 } as const satisfies Lore
