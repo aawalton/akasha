@@ -4,10 +4,13 @@ export const overwhereIv00026 = {
   id: "01a0f39e-7c1b-7fb2-b0fd-34a76bc650de",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-026",
+  ownLength: 187,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 26,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action: "I stab it again with the folded thrust, this time aiming for the neck.",
   beats: [
     "Nala grips hard and thrusts for the goblin's neck. The warmth rises for the fold.",
@@ -23,6 +26,6 @@ export const overwhereIv00026 = {
     "The warmth behind her ribs is running low now, well under half.",
     "One grey-green foot scrabbles for purchase an arm's length from her boot.",
   ],
-  lore: ["place/overwhere-iv-hobb-farm"],
+  lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-hobb-farm"],
   endsAt: "2026-09-30T18:30:00.000Z",
 } as const satisfies StoryTurnPlayed
