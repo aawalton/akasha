@@ -71,5 +71,9 @@ export const overwhereIiGreymaws = {
       fact: "The she-wolf smells Nala's well like a wind off the sea, and comes for her before the sheep.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Within its reach, Undertow can draw a greymaw's Water out of the bone chamber behind its breastbone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
