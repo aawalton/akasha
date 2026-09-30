@@ -163,5 +163,9 @@ export const overwhereIiGreymaws = {
       fact: "The she-wolf's chamber is twice the size, cracked by the spear, and worth two bars even so.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Cutting a chamber from behind the breastbone takes half an hour's hard work with a stout knife.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
