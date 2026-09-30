@@ -11,4 +11,5 @@ export const overwhereIi00002 = {
   action:
     "I focus on the feeling in my chest and see if I can a actively cycle it through my system",
   lore: ["lore/overwhere-ii-nala"],
+  endsAt: "2026-09-29T06:45:00.000Z",
 } as const satisfies StoryTurnPlayed
