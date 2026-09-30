@@ -10,7 +10,7 @@ export const overwhereIi00017 = {
   position: 17,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Quiet!” I command. I try to carefully use the other direction of my power to push a small amount of life force from me back into the girl.",
   beats: [
@@ -34,7 +34,8 @@ export const overwhereIi00017 = {
     "Nala straightens her collar. The rot in Tansy's arm is held, but nearly all still there.",
     "And now she knows how fine those deep threads are, and how easily the pull drinks what it touches.",
   ],
+  issues: ['"And now you know how fine those deep threads are" - Leave It Open'],
   lore: ["lore/overwhere-ii-nala"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T10:29:00.000Z",
 } as const satisfies StoryTurnPlayed
