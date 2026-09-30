@@ -57,7 +57,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "The notices warn never to let Crake lay a hand on bare skin; his touch is what drinks.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray judges a First Depth thief with four men and venom a match for any lone Talent.",
