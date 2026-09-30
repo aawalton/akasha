@@ -17,7 +17,7 @@ export const overwhereIii00041 = {
     "character-other/overwhere-iii-hild-wendle",
     "character-other/overwhere-iii-ivy-marsh",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Thanks, for letting me know, I’ll be there. As for the magic, I’m not entirely sure how it works, but if you figure it out, please let me know.” I say with a smile, then keep reading until it’s time to go to Brannagh’s.",
   beats: [
@@ -40,9 +40,9 @@ export const overwhereIii00041 = {
     "The black comes anyway and clots into a seed stone. The wound is clean.",
     "She shifts to stitching. The mending weave drags; the torn edges fight her the whole way.",
     "It closes, but puckered and uneven, not the clean seam she's used to.",
-    '"It\'ll scar," Brannagh says, peering at it. "But it\'s shut, and it\'s clean."',
     "The carter pays Brannagh ten copper, and she hands it straight on to Nala.",
-    "She spoons the seed stone into Nala's clay cup. Outside the window, the lane has gone dark.",
+    "She spoons the seed stone into Nala's clay cup.",
+    '"It\'ll scar," Brannagh says, peering at the shin. "But it\'s shut, and it\'s clean."',
   ],
   issues: ['"Outside the window, the lane has gone dark." - Leave It Open'],
   lore: [
