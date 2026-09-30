@@ -10,7 +10,7 @@ export const overwhereIi00045 = {
   position: 45,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I focus on pressing my Water into the skin of my left arm, but since it is part of myself. I try to use Undertow as well to both Push the Water out to the right place and Pull it into the skin itself to be absorbed.",
   beats: [
@@ -33,13 +33,16 @@ export const overwhereIi00045 = {
     'Anselm: "No Keeper teaching I know uses a Talent to drive its own refining."',
     'Anselm: "How did you think of that?"',
   ],
-  issues: ['"I know no Keeper teaching that uses a Talent" - Plain Negation'],
+  issues: [
+    '"I know no Keeper teaching that uses a Talent" - Plain Negation',
+    '"The pink scar of the greymaw bite is still there" - Garth\'s linen still binds that forearm',
+  ],
   lore: [
     "lore/overwhere-ii-keeper-anselm",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",
     "lore/overwhere-ii-undertow",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T16:15:00.000Z",
 } as const satisfies StoryTurnPlayed
