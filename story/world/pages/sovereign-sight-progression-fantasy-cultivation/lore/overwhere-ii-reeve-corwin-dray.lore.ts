@@ -91,5 +91,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "For the hunt Dray pays a silver bar beyond the head bounty, and will put it toward a spear.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Dray's spare pack is a canvas knapsack with leather straps, left by the watchman the greymaws took.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
