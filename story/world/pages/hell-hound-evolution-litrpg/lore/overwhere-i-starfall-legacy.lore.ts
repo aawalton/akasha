@@ -124,5 +124,9 @@ export const overwhereIStarfallLegacy = {
       fact: "Telling a lurker from eels by feel in a wide water hold is a moderate act, not Surge-eased.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Having felt one lurker by ripple, she reads another's warm, heavy shape with the +2 of calibration.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
