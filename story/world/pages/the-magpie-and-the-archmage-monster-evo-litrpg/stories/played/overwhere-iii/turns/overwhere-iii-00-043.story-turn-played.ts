@@ -7,7 +7,15 @@ export const overwhereIii00043 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 43,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I go and get dinner and go to sleep, then meet with the guards for training in the morning, the at Brannagh’s after to heal and ask him if he has any books on healing she could read.",
+  lore: [
+    "lore/overwhere-iii-bet-harrow",
+    "lore/overwhere-iii-brannagh-tull",
+    "lore/overwhere-iii-edda-crane",
+    "lore/overwhere-iii-maud-ferrow",
+    "place/overwhere-iii-crook-and-candle",
+    "place/overwhere-iii-merrowgate",
+  ],
 } as const satisfies StoryTurnPlayed
