@@ -14,7 +14,7 @@ export const overwhereIiiMardaHesk = {
     },
     {
       fact: "She is about sixty, gray hair cropped short, broad-shouldered, with a stiff left knee and a cane.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "She was a Silver-rank adventurer, a Warrior of Level 47, until a wyrm's tail broke her knee.",

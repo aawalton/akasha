@@ -16,11 +16,11 @@ export const overwhereIiiMerrowgateGuildPost = {
   facts: [
     {
       fact: "The Guild post is the squat old tollhouse inside the south gate, with a notice board by its door.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Inside is one room: a desk, a bench, a stove, a long sword on the wall, and a stair up.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "It opens at the dawn bell and shuts at the dusk bell; Marda Hesk is at the desk all day.",
@@ -40,27 +40,27 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "Board: rats in the Carrow wool store, 30 copper.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Board: twenty frostcap mushrooms from the Wrenwood's edge, 20 copper.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Board: guard the salt wagon to Applegarth and back, 40 copper.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Board: a blighted boar seen by the south road; kill it, 1 silver 50 copper.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Board: the blight bounty, a silver a stone.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Board, in a rough hand: any word of Cal Fenn, to Jory Fenn; he pays what he has.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",

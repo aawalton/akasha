@@ -32,7 +32,7 @@ export const overwhereIiiCrookAndCandle = {
     },
     {
       fact: "The rooms are small and cold: a straw tick, a wool blanket, a shutter and a peg for clothes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Bet Harrow keeps the inn; her husband Dunstan cooks, and their boy Wat minds the stable.",
