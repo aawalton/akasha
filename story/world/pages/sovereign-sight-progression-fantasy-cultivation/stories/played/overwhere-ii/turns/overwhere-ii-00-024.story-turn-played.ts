@@ -43,5 +43,6 @@ export const overwhereIi00024 = {
     "lore/overwhere-ii-undertow",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-09-29T18:04:00.000Z",
 } as const satisfies StoryTurnPlayed
