@@ -4,13 +4,14 @@ export const overwhereIi00032 = {
   id: "01a0f377-9497-7c06-9b83-5c77a7c208bc",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-032",
+  cover: "image/image-424dc1e046aa37d8",
   ownLength: 257,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 32,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“Sounds good”",
   beats: [
     'Nala: "Sounds good."',
@@ -39,6 +40,11 @@ export const overwhereIi00032 = {
     "lore/overwhere-ii-wendle-ford-folk",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T08:05:00.000Z",
 } as const satisfies StoryTurnPlayed
