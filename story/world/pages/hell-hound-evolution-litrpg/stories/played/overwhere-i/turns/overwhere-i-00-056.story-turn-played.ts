@@ -7,9 +7,20 @@ export const overwhereI00056 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 56,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I bring them with me and journey back to the village for a well-deserved bath, meal, and rest.",
+  beats: [
+    "Nala tucks the two crystals into her pack beside the eye, the ears and the token.",
+    "She swims the channel back to the marsh, and sets out east for Fenwatch.",
+    "She skims the wet stretches on air and water while her mana holds, and wades the rest.",
+    "The fen lies quiet all through the long afternoon.",
+    "Past the ford the fields open out, and Fenwatch's roofs show against the evening-yellow sky.",
+    "She comes up onto the green at half past four, caked in dried fen muck from head to boots.",
+    "Folk at their doors turn to stare after her as she crosses to the Tarred Stag.",
+    "Garrick Pell is at the hearth; he looks up, and his red beard splits in a grin.",
+    '"Look at the state of you! Where in the fen have you been all day?"',
+  ],
   lore: [
     "lore/overwhere-i-agathe-morrow",
     "lore/overwhere-i-fenwatch-2",
