@@ -107,6 +107,10 @@ export const overwhereIRowanCoalby = {
       fact: "Rowan says a wild pup taken young can be bonded, as Sedge was, and would fetch a fortune alive.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Rowan says the three left and the pups will raise a smaller pack that keeps off the village.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
