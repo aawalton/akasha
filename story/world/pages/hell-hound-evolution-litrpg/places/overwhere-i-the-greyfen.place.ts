@@ -99,6 +99,10 @@ export const overwhereITheGreyfen = {
       fact: "A wicker eel trap costs Jory two days' weaving; he'd take five copper for one.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At 10:55 on day 2 Nala's water grab tore one of Jory's eel traps out and burst it; it's ruined.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
