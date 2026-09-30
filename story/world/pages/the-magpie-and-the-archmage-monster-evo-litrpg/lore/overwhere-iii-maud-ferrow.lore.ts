@@ -42,7 +42,11 @@ export const overwhereIiiMaudFerrow = {
     },
     {
       fact: "Maud's drill ends near half past ten, when the watch changes, with staff bouts in pairs.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-maud-ferrow",
+      ],
     },
     {
       fact: "Maud names herself only once a newcomer finishes a drill, then says, 'Maud. Tomorrow, dawn bell.'",
