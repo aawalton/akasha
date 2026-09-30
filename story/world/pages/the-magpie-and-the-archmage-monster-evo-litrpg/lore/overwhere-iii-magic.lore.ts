@@ -265,6 +265,10 @@ export const overwhereIiiMagic = {
       fact: "A mana draught takes if 5 mana is poured into the pot, steady, through its night's steeping.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Whether a brew takes is an easy action check for the one pouring; a failed take spoils the batch.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
