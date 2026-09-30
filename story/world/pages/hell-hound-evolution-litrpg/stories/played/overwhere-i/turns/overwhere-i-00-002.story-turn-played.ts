@@ -10,7 +10,7 @@ export const overwhereI00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Okay, Isekai protocol” I say quietly. “Status? System?” I focus on the words to see if I can get more information.",
   beats: [
@@ -44,6 +44,6 @@ export const overwhereI00002 = {
     "lore/overwhere-i-the-system",
     "place/overwhere-i-greyfen-ford",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T10:08:00.000Z",
 } as const satisfies StoryTurnPlayed
