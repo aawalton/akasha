@@ -10,15 +10,15 @@ export const overwhereI00003 = {
   position: 3,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Oh, perfect! A test subject!” I point a finger at the creature and focus on attuning to fire, imaging a narrow beam of intense flame extending from my finger through the creature.",
   beats: [
     'Nala says, "Oh, perfect! A test subject!" and points a finger at the beast across the ford.',
-    "She focuses on fire, picturing a narrow beam of intense flame running from her fingertip through it.",
+    "She focuses on fire, willing a narrow beam of intense flame from her fingertip straight through it.",
     "The pressure behind her breastbone answers at once, as if it had been waiting to be asked.",
     "Heat pours up her arm, and a thin line of white-gold fire leaps from her fingertip across the water.",
-    "The beam crosses the twenty yards in an instant, straight and narrow, exactly as she pictured it.",
+    "The beam crosses the twenty yards in an instant, straight and narrow, exactly as she meant it.",
     "It punches into the beast's chest just as it gathers itself, and out through its back.",
     "Its dry, matted fur catches all along its flank; the hiss turns into a shriek.",
     "It lurches two steps into the shallows, and collapses, steam and smoke boiling up round it.",
@@ -34,7 +34,6 @@ export const overwhereI00003 = {
     "[+2 Strength] [+2 Dexterity] [+2 Vigor] [+4 Attunement] [+1 Luck]",
     "A warm rush runs through her body with the stat lines, and she feels steadier, sharper.",
     "The beast lies still in the far shallows, smoke drifting off its burnt fur.",
-    "The ford is quiet again, but for the stream and the smell of scorched hair.",
   ],
   issues: [
     '"picturing a narrow beam of intense flame" - Nala (Alan) has total aphantasia and cannot picture',
