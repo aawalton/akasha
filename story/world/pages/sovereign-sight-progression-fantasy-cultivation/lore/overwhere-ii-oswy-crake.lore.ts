@@ -9,7 +9,7 @@ export const overwhereIiOswyCrake = {
   facts: [
     {
       fact: "Oswy Crake is a Mendicant, a Water thief, working the Carrowmouth road with four men.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Crake is lean, soft-spoken and smiling, and a ring of keys jangles at his belt.",
