@@ -137,5 +137,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Eight's southern swing cuts across the hummock line behind her, between her and the Greystakes.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ghost-Eye and Six hold the shore meanwhile; they still follow the pups west at about 14:30.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
