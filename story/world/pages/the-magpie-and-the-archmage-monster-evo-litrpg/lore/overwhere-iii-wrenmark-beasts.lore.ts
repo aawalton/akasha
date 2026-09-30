@@ -84,5 +84,9 @@ export const overwhereIiiWrenmarkBeasts = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "When one of a jackalope pair is struck, the other charges rather than flees.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
