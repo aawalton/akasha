@@ -18,7 +18,11 @@ export const overwhereIiiGarrickDole = {
     },
     {
       fact: "The wolf's bite is on his right calf; purple has crept from it past his knee.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-garrick-dole"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-garrick-dole",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "He sleeps most of the day now, and wakes muddled for a breath before his head clears.",
