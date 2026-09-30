@@ -31,5 +31,6 @@ export const overwhereIi00025 = {
     'Garth: "You\'re bleeding. Come in to the fire and let me see that arm."',
   ],
   lore: ["lore/overwhere-ii-greymaws", "lore/overwhere-ii-nala", "lore/overwhere-ii-undertow"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T18:07:00.000Z",
 } as const satisfies StoryTurnPlayed
