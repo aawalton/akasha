@@ -92,6 +92,10 @@ export const overwhereIiiBrannaghTull = {
       fact: "To her eye the seam is clean and knit true, cleaner than her own needle leaves.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
+    {
+      fact: "Her two blight-bitten patients lie in the back room of her shop, where she can tend them.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
