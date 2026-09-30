@@ -50,6 +50,7 @@ export const worldBuilder = {
         "File a skill, an item or any mechanic kind before any turn holds or grants it.",
         "A page for the player's character the story has not shown yet states `unrevealed: true`.",
         "A resource you file states `displayOrder`: health, mana and stamina first, then the rest.",
+        "Money is one `world-currency` naming its coins; a purse is a `metric-character-currency` of it.",
         "What a status window shows of the player's character is filed as a page naming her.",
         "A thing the prose shows she has is a story-item naming her, not a world-item alone.",
         "Set up a played story with a `<story>-time-passing` check importing the time-passing module.",

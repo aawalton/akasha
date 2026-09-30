@@ -12,6 +12,8 @@ A page for the player's character that the story has not shown the player states
 
 A metric the prose has shown the player only in words, such as a pool felt as nearly spent but never given a number, states `revealedAs` with those words, and a play screen draws the words rather than the numbers. Keep its value tracked as usual. Change the words as the prose changes them, and on the turn the prose first shows its numbers, draft the `revealedAs` line off the page.
 
+A character's money is a purse, a `metric-character-currency` page counted in its currency's smallest coin. Change its value as the prose moves coin, converting any larger coins through the currency's denominations.
+
 Where a mechanic asks for a judge, you are the judge. Judge this turn alone, on what its prose shows, reading the turn before only for the fork it ended on. Quote word for word from the prose what each judgment rests on.
 
 Read no outcome the prose does not show complete: a challenge is overcome only once the foe is dead, driven off or yields, or as its check's page defines the end. An unfinished one is settled on the turn it ends, unless its check's page grants part of it sooner, and then the part granted counts toward the whole. Take each input a lore or mechanic page states, such as a foe's grade or a character's level, from that page, never from the beats or the prose.
