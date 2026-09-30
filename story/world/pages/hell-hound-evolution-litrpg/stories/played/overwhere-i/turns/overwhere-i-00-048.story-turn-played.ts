@@ -4,10 +4,21 @@ export const overwhereI00048 = {
   id: "01a0f411-af0d-7634-9931-1dc47e1a8d4f",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-048",
+  ownLength: 261,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 48,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-i-nala",
+    "character-other/overwhere-i-pine-isle-drakewolf-one",
+    "character-other/overwhere-i-pine-isle-drakewolf-two",
+    "character-other/overwhere-i-pine-isle-drakewolf-three",
+    "character-other/overwhere-i-pine-isle-drakewolf-four",
+    "character-other/overwhere-i-pine-isle-drakewolf-five",
+    "character-other/overwhere-i-pine-isle-drakewolf-six",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I stay low and let them come, opening my pack for easy access to the bullets, then when they cross 100 meters for accuracy, I start firing aimed shots with full force, rotating across the three closest targets, so I don’t waste shots on downed enemies. I aim for where they are going to be when the rock lands, not where they are.",
   beats: [
@@ -30,6 +41,11 @@ export const overwhereI00048 = {
     "On the island shore Ghost-Eye stands with the two biggest wolves, between her and the pups.",
     "The three survivors plunge into the channel and swim for the island, toward Ghost-Eye.",
   ],
-  lore: ["lore/overwhere-i-starfall-legacy", "lore/overwhere-i-the-greyfen-alpha"],
+  lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
+    "lore/overwhere-i-starfall-legacy",
+    "lore/overwhere-i-the-greyfen-alpha",
+  ],
   endsAt: "2026-10-01T13:04:00.000Z",
 } as const satisfies StoryTurnPlayed
