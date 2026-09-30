@@ -9,11 +9,22 @@ import { useCallback, useRef } from "react"
 type EnterPressed = {
   readonly key: string
   readonly shiftKey: boolean
-  readonly nativeEvent: { readonly isComposing: boolean }
+  readonly nativeEvent: { readonly isComposing: boolean; readonly keyCode: number }
 }
 
+const COMPOSING_KEY_CODE = 229
+
 function sendsNow(event: EnterPressed): boolean {
-  return event.key === "Enter" && !event.shiftKey && !event.nativeEvent.isComposing
+  if (event.key !== "Enter" || event.shiftKey) return false
+  return !event.nativeEvent.isComposing && event.nativeEvent.keyCode !== COMPOSING_KEY_CODE
+}
+
+type SendTrigger = "button" | "unknown" | "enter-keydown" | "return-beforeinput" | "return-input"
+
+type SendCause = {
+  readonly trigger: SendTrigger
+  readonly inputType: string | null
+  readonly isComposing: boolean
 }
 
 const RETURN_SENDS = "[return-sends]"
@@ -22,13 +33,23 @@ const BREAK = "\n"
 
 type LineAsked = { readonly inputType: string; readonly data: string | null }
 
+type ReturnAsked = LineAsked & { readonly isComposing: boolean }
+
 function breaksLine(asked: LineAsked): boolean {
   if (asked.inputType === "insertLineBreak" || asked.inputType === "insertParagraph") return true
   return asked.inputType === "insertText" && asked.data === BREAK
 }
 
+function returnPressed(asked: ReturnAsked): boolean {
+  return breaksLine(asked) && !asked.isComposing
+}
+
+function causeOf(trigger: SendTrigger, asked: ReturnAsked): SendCause {
+  return { trigger, inputType: asked.inputType, isComposing: asked.isComposing }
+}
+
 function useReturnSends(
-  send: () => void
+  send: (cause: SendCause) => void
 ): (textarea: HTMLTextAreaElement | null) => (() => void) | undefined {
   const latest = useRef(send)
   latest.current = send
@@ -40,21 +61,29 @@ function useReturnSends(
       console.info(RETURN_SENDS, "keydown", event.key, event.keyCode, event.isComposing)
     }
     const onBeforeInput = (event: InputEvent) => {
-      console.info(RETURN_SENDS, "beforeinput", event.inputType, event.cancelable, event.data)
-      if (shifted || !breaksLine(event) || !event.cancelable) return
+      console.info(
+        RETURN_SENDS,
+        "beforeinput",
+        event.inputType,
+        event.cancelable,
+        event.isComposing,
+        event.data
+      )
+      if (shifted || !returnPressed(event) || !event.cancelable) return
       event.preventDefault()
-      latest.current()
+      latest.current(causeOf("return-beforeinput", event))
     }
     const onInput = (event: Event) => {
       if (!(event instanceof InputEvent)) return
-      console.info(RETURN_SENDS, "input", event.inputType, event.data)
-      if (shifted || !breaksLine(event)) return
+      console.info(RETURN_SENDS, "input", event.inputType, event.isComposing, event.data)
+      if (shifted || !returnPressed(event)) return
       const caret = textarea.selectionStart
       const value = textarea.value
       if (caret < 1 || value[caret - 1] !== BREAK) return
       textarea.value = `${value.slice(0, caret - 1)}${value.slice(caret)}`
       textarea.setSelectionRange(caret - 1, caret - 1)
-      setTimeout(() => latest.current(), 0)
+      const cause = causeOf("return-input", event)
+      setTimeout(() => latest.current(cause), 0)
     }
     textarea.addEventListener("keydown", onKeyDown)
     textarea.addEventListener("beforeinput", onBeforeInput)
@@ -88,4 +117,6 @@ function Textarea({ className, autoComplete = "off", ...props }: React.Component
   )
 }
 
-export { breaksLine, sendsNow, Textarea, useReturnSends }
+export type { SendCause }
+
+export { breaksLine, returnPressed, sendsNow, Textarea, useReturnSends }
