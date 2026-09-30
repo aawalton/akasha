@@ -11,4 +11,5 @@ export const overwhereIv00042 = {
   action:
     "“Axe is no good. Skill is specialized for spears.” I make a show of moving the spear along with the slice to make the desired cuts, then head back to the guild hall.",
   lore: ["lore/overwhere-iv-ilsa-crane-2", "lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2"],
+  endsAt: "2026-10-02T10:07:00.000Z",
 } as const satisfies StoryTurnPlayed
