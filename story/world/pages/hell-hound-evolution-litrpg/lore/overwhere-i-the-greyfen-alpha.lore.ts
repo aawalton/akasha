@@ -203,6 +203,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "The grown wolves lie spread along forty yards of shade, a few yards in from the island's east edge.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Caked in fen muck, a person's scent carries a third as far; a Drakewolf smells her at 100 yards.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
