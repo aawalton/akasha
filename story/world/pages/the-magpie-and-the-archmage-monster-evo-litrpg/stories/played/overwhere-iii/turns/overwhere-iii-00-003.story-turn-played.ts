@@ -31,6 +31,8 @@ export const overwhereIii00003 = {
     '"So who was it did this to you, lass? Bandits? Out of the wood? Where are your people?"',
     "He waits for her answer, reins slack in his big hands, the town wall growing ahead.",
   ],
+  issues: ['"Ahead, the town wall rises over the fields." - Leave It Open'],
   lore: ["lore/overwhere-iii-nala", "lore/overwhere-iii-tobin-wick"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T16:44:00.000Z",
 } as const satisfies StoryTurnPlayed
