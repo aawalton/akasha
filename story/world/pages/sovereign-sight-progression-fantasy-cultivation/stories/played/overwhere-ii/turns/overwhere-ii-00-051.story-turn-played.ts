@@ -4,10 +4,13 @@ export const overwhereIi00051 = {
   id: "01a0f447-45cd-7e36-b887-67ca13119079",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-051",
+  ownLength: 345,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 51,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action: "If the goats are aggressive, I kill them and drag the corpses back down to the woman.",
   beats: [
     "Nala steps down into the cwm toward the pool, spear low, to see what the goats will do.",
@@ -32,6 +35,11 @@ export const overwhereIi00051 = {
     "Ebba: \"I've no coin to spare, but I've hot oatcakes and goat's butter, and you've earned them.\"",
     "The grandsons come back with armloads of peat and start dragging the first goat to the midden.",
   ],
-  lore: ["place/overwhere-ii-callow-beck", "place/overwhere-ii-whitecombs"],
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "place/overwhere-ii-callow-beck",
+    "place/overwhere-ii-whitecombs",
+  ],
   endsAt: "2026-10-01T16:00:00.000Z",
 } as const satisfies StoryTurnPlayed
