@@ -267,5 +267,21 @@ export const overwhereIvBrooksideFour = {
         "lore/overwhere-iv-brookside-four",
       ],
     },
+    {
+      fact: "Dace holds that goblins who raid sheep die, grovelling or not, and lets Nala take them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Orla turns away from killing a grovelling goblin, but says nothing against it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dace splits the ear bounty evenly five ways, whoever made the kill; Merrit grumbles at it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dace wants Hobb's three sheep driven home, and the goblins' cores cut out for the hall.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
