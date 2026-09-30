@@ -71,6 +71,10 @@ export const overwhereIiGarthMarsh = {
       fact: "The man down the lane walks unevenly, one foot landing heavier than the other.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "A leap from a loft landed unhurt tells Garth at once that the stranger is Talented.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
