@@ -59,6 +59,10 @@ export const overwhereIiKeeperAnselm = {
       fact: "Anselm will walk with Nala, asking questions, and would hold a patient steady if asked.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Anselm has kept the shrine to Threll at the Ford since last autumn.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
