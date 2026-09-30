@@ -18,7 +18,7 @@ export const overwhereI00048 = {
     "character-other/overwhere-i-pine-isle-drakewolf-five",
     "character-other/overwhere-i-pine-isle-drakewolf-six",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I stay low and let them come, opening my pack for easy access to the bullets, then when they cross 100 meters for accuracy, I start firing aimed shots with full force, rotating across the three closest targets, so I don’t waste shots on downed enemies. I aim for where they are going to be when the rock lands, not where they are.",
   beats: [
@@ -34,6 +34,7 @@ export const overwhereI00048 = {
     "The third, forty yards off and still coming; a last slug hits it full, and it drops.",
     "Three wolves lie still in the marsh water, and the other three pull up short.",
     "The three survivors wheel and bolt back through the marsh toward the channel.",
+    "[Foe Eliminated! Foe Eliminated! Foe Eliminated! Experience Gained!]",
     "[Level up! Nala has reached Level 6.]",
     "[Strength +2. Dexterity +2. Vigor +2. Attunement +4. Luck +1.]",
     "[Starfall Weave has reached Level 5.]",
