@@ -42,7 +42,11 @@ export const overwhereIiiIvyMarsh = {
     },
     {
       fact: "She greets a stranger come to heal her with a dry joke: 'Come to take the hand off, then?'",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-ivy-marsh"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-ivy-marsh",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
 } as const satisfies Lore
