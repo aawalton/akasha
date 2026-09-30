@@ -122,7 +122,7 @@ export const overwhereIiiWrenwood = {
     },
     {
       fact: "Frostcaps cluster where a mana current brushes old beech roots, so the currents lead to them.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Following the currents, a picker who sees them finds twenty good frostcaps in about an hour.",
@@ -130,7 +130,7 @@ export const overwhereIiiWrenwood = {
     },
     {
       fact: "A few gravecaps grow among the frostcaps along the edge path west of the shrine.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "This morning a Level 3 jackalope feeds among the roots west of the shrine; it bites if cornered.",

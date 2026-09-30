@@ -196,7 +196,7 @@ export const overwhereIiiNala = {
     },
     {
       fact: "To Mana Weaver's sight a frostcap holds a faint cold glow, and a gravecap holds none.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Her Guild form reads: about twenty-five, Human, no class, no skills, trait Mana Weaver.",
