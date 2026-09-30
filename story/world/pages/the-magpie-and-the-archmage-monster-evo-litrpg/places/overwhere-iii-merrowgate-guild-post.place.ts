@@ -136,7 +136,7 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "The currents inside the post are thin threads of blue and yellow, with no white-gold.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",
