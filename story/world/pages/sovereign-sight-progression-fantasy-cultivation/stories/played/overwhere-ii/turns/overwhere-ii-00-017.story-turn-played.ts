@@ -35,8 +35,8 @@ export const overwhereIi00017 = {
     'Horne clears his throat, hoarse. "Can you get it out of her? The rest of it?"',
   ],
   issues: ['"And now you know how fine those deep threads are" - Leave It Open'],
-  lore: ["lore/overwhere-ii-nala"],
+  lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-wendle-ford-folk"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-29T10:29:00.000Z",
 } as const satisfies StoryTurnPlayed
