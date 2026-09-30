@@ -28,5 +28,9 @@ export const overwhereIStarfallLegacy = {
       fact: "Water and fire woven make steam; air and fire woven make a hot, drying wind.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A weave counts as one working, so with a third working held beside it she can still hold three.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
