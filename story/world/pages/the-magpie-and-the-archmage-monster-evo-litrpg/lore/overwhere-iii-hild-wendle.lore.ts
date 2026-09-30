@@ -69,5 +69,9 @@ export const overwhereIiiHildWendle = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
+    {
+      fact: "Offered a free second mending, Hild calls a scar nothing, but will come to Brannagh's at noon.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
