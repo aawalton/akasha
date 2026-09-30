@@ -253,7 +253,7 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "Anselm expects the Keepers would teach Nala through the year until Threllsnacht, if she keeps near.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Anselm judges Nala's Undertow the greatest new Talent he has seen, and told her so.",
