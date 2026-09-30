@@ -60,7 +60,12 @@ export const overwhereIiiMerrowgate = {
     },
     {
       fact: "The Adventurers Guild keeps a small post in the old tollhouse inside the south gate.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tobin-wick",
+        "character-other/overwhere-iii-hal-dunmore",
+      ],
     },
     {
       fact: "The Guild post has a quest board, one desk, and three rooms upstairs for ringed adventurers.",
@@ -129,6 +134,30 @@ export const overwhereIiiMerrowgate = {
     {
       fact: "At the town wall the road's current thins and frays, as if the stone were in its way.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "Merrowgate is gray stone and timber, and woodsmoke hangs thick in its cold evening air.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tobin-wick",
+      ],
+    },
+    {
+      fact: "The Crook and Candle is a long timbered inn on the town square, its sign a crook and a candle.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tobin-wick",
+      ],
+    },
+    {
+      fact: "Past the south gate the street opens on a wide market square with a bell tower over it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tobin-wick",
+      ],
     },
   ],
   secrets: "jsonl",

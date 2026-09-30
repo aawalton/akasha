@@ -144,6 +144,24 @@ export const overwhereIiiNala = {
       fact: "Bending a thread is no working, and clears none of Mana Weaver's ???; nobody else sees it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She gives her name as Nala.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tobin-wick",
+        "character-other/overwhere-iii-hal-dunmore",
+      ],
+    },
+    {
+      fact: "The gate book lists her: Nala, red hair, freckles, no shoes, robbed on the road, Tobin vouching.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tobin-wick",
+        "character-other/overwhere-iii-hal-dunmore",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

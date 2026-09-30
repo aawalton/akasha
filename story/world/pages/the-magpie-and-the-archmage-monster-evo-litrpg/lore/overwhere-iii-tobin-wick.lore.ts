@@ -94,7 +94,20 @@ export const overwhereIiiTobinWick = {
     },
     {
       fact: "At the gate he vouches for Nala unasked, and says she was robbed on the road.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tobin-wick",
+        "character-other/overwhere-iii-hal-dunmore",
+      ],
+    },
+    {
+      fact: "He offers Nala supper and a bed at the Crook and Candle for tonight, and help after.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tobin-wick",
+      ],
     },
   ],
   secrets: "jsonl",

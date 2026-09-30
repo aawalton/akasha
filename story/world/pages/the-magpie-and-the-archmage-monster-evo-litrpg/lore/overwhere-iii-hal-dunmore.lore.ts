@@ -22,7 +22,11 @@ export const overwhereIiiHalDunmore = {
     },
     {
       fact: "He writes each paperless traveler in the gate book: name, looks, business, and who vouches.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tobin-wick",
+      ],
     },
     {
       fact: "A stranger a townsman vouches for goes in; one with no voucher waits in the gatehouse till dawn.",
@@ -42,7 +46,11 @@ export const overwhereIiiHalDunmore = {
     },
     {
       fact: "The south gate guard is called Hal.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tobin-wick",
+      ],
     },
   ],
   secrets: "jsonl",
