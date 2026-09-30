@@ -114,7 +114,11 @@ export const overwhereIiiBrannaghTull = {
     },
     {
       fact: "Ivy Marsh, a drover's widow, was bitten on the hand by the corrupted boar a fortnight ago.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Both bites weep black and will not close, and purple patches creep out from them.",
