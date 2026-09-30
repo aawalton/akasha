@@ -86,6 +86,11 @@ export const overwhereIvGrowth = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Each racial level raises most health and mana as the harm and action checks work them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A class level shows as: <Class Experience threshold reached. Mage is now LV 2.>",
     },
     {
