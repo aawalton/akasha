@@ -9,7 +9,7 @@ export const overwhereIFenwatch2 = {
   about: "place/overwhere-i-fenwatch",
   facts: [
     {
-      fact: "Clearing the eel traps of reedlurkers raises Fenwatch's regard for Nala to 6.",
+      fact: "Clearing the eel traps of reedlurkers leaves Fenwatch's regard for Nala at its top, 5.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],

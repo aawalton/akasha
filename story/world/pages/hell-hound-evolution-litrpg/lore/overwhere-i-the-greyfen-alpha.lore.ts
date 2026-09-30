@@ -77,7 +77,7 @@ export const overwhereITheGreyfenAlpha = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "At Level 21 Ghost-Eye is a foe far beyond Nala at Level 5; the Surge easing does not reach it.",
+      fact: "Ghost-Eye, 16 above Nala, is no foe far beyond her, but past the ten the Surge easing reaches.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
