@@ -7,7 +7,8 @@ export const overwhereIii00027 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 27,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“I’d like to, but my mana is running on empty already. I don’t have a big supply. Unless you have something to solve that, I might have to wait until morning…”",
+  lore: ["lore/overwhere-iii-brannagh-tull"],
 } as const satisfies StoryTurnPlayed
