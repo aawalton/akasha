@@ -18,7 +18,7 @@ export const overwhereIii00043 = {
     "character-other/overwhere-iii-edda-crane",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I go and get dinner and go to sleep, then meet with the guards for training in the morning, the at Brannagh’s after to heal and ask him if he has any books on healing she could read.",
   beats: [
@@ -29,7 +29,7 @@ export const overwhereIii00043 = {
     "The same small room under the eaves. The night passes quiet, frost hard on every roof by morning.",
     "She wakes rested, full to the brim inside, and goes straight to the south green at the dawn bell.",
     "Maud nods once. This time she shows Nala how to hold the staff: hands apart, weight low.",
-    "Then pairs her with the same lanky young watchman. Tam. He grins. He goes no easier.",
+    'Then pairs her with the same lanky young watchman. "Tam. You\'re with her." He grins. No easier.',
     "He comes in fast. Nala steps aside, the way Maud showed her, and cracks her staff across his ribs.",
     "Tam sits down hard on the frosty grass. The watch whoops. Maud almost smiles.",
     "Laps, fieldstones, more bouts until the watch changes. She's sore to the bone, and glad of it.",
@@ -46,7 +46,7 @@ export const overwhereIii00043 = {
     "The splinter hole is small. It closes on its own as they watch.",
     "The old woman flexes her fingers. Grunts. Drops the ten copper in Nala's hand.",
     '"Stumps like that crowd my kilns now," she says. "And gray-furred things move there at dusk."',
-    "Brannagh spoons the seed into Nala's cup. Nala asks if she has any books on healing she could read.",
+    "Brannagh spoons the seed into Nala's cup. Nala asks if he has any books on healing she could read.",
     '"One," Brannagh says. "My mother\'s receipts. Salves, potions, draughts. Read it at my counter."',
     '"It never leaves the shop. For wounds and bones, you want Sister Wenna\'s herbal at the chapel."',
   ],
