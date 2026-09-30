@@ -123,5 +123,13 @@ export const overwhereIvMillbrook = {
       fact: "Lately the town talks of goblins at the sheep, bandits on the east road, and the mill.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Millbrook lies in the Wendmere Vale, in the barony of Tarrow.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-garrett-pell",
+      ],
+    },
   ],
 } as const satisfies Place

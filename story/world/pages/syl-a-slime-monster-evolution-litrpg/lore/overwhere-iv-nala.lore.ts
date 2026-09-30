@@ -100,6 +100,10 @@ export const overwhereIvNala = {
       fact: "She has no Identify skill yet, so she sees no one's name or level but her own.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's voice is higher and lighter than Alan's, with a faint lilt she did not put there.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

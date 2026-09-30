@@ -1,8 +1,12 @@
 {"propertySlug":"characters","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/turns/overwhere-iv-00-001.story-turn-played.ts","id":"01a0ed13-3fe1-7e8f-8f99-d71dc67c85ce"}
 {"propertySlug":"characters","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/turns/overwhere-iv-00-002.story-turn-played.ts","id":"01a0f165-dfc9-799d-9eff-9ba2e1aa89a0"}
 {"propertySlug":"lore-about","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-nala.lore.ts","id":"01a0ed12-cfcc-78c6-8087-bb53f15c4659"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-garrett-pell.lore.ts","id":"01a0ed2c-5a72-73c3-9035-2d096cf81acd"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-marta-hesk.lore.ts","id":"01a0ed2c-5a73-7ebe-9186-99c35d97e0fd"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-nala.lore.ts","id":"01a0ed12-cfcc-78c6-8087-bb53f15c4659"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/places/overwhere-iv-east-road.place.ts","id":"01a0ed2d-6020-71c6-8d61-e556b0dc68b1"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/places/overwhere-iv-millbrook-common.place.ts","id":"01a0ed12-cfce-7250-bb26-1bf70d4a7606"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/places/overwhere-iv-millbrook.place.ts","id":"01a0ed2a-a573-79ff-92ef-3f390bb8f982"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/mechanics/metrics/attributes/level/pages/overwhere-iv-nala-race.overwhere-iv-level.ts","id":"01a0ed22-eab6-7dd5-b17e-47d39a8b41a6"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/mechanics/metrics/resources/experience/pages/overwhere-iv-nala-race.overwhere-iv-experience.ts","id":"01a0ed22-eab6-730a-bf84-da380cf53e95"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/stories/played/overwhere-iv/mechanics/metrics/resources/health/pages/overwhere-iv-nala.overwhere-iv-health.ts","id":"01a0ed22-eab7-7c50-8bc3-05e5e81b9872"}

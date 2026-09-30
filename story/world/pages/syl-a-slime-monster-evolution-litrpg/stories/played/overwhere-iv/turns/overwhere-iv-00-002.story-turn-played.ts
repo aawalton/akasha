@@ -10,8 +10,8 @@ export const overwhereIv00002 = {
   partOfCollections: ["story-played/overwhere-iv"],
   position: 2,
   prose: "txt",
-  characters: ["character-player/overwhere-iv-nala", "lore/overwhere-iv-garrett-pell"],
-  stepStatus: "step-status/recorders",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/player",
   action: "“Hello! I seem to have gotten lost. Could you tell me where I am?”",
   beats: [
     'Nala calls to the cart driver: "Hello! I seem to have gotten lost. Could you tell me where I am?"',
@@ -39,6 +39,6 @@ export const overwhereIv00002 = {
     "place/overwhere-iv-millbrook",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture", "story-recorder/memory"],
   endsAt: "2026-09-29T12:04:00.000Z",
 } as const satisfies StoryTurnPlayed

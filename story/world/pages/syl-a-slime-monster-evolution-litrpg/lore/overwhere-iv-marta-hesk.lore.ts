@@ -7,10 +7,7 @@ export const overwhereIvMartaHesk = {
   title: "Marta Hesk",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   facts: [
-    {
-      fact: "Identify shows Marta Hesk as Human LV 9.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+    { fact: "Identify shows Marta Hesk as Human LV 9.", knowers: ["lore-disclosure/game-master"] },
     {
       fact: "Marta mothers every stray who comes through her door.",
       knowers: ["lore-disclosure/game-master"],
@@ -22,6 +19,14 @@ export const overwhereIvMartaHesk = {
     {
       fact: "Marta hears all the gossip in Millbrook and passes most of it on.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Marta at the Brook & Barrel is kind to strays and sees them fed.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-garrett-pell",
+      ],
     },
   ],
   secrets: "jsonl",

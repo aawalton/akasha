@@ -23,5 +23,13 @@ export const overwhereIvEastRoad = {
       fact: "Carters and merchants travel the east road in groups when they can.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Brigands have worked the east road all month, stripping folk to their smallclothes.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-garrett-pell",
+      ],
+    },
   ],
 } as const satisfies Place

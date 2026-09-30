@@ -11,10 +11,7 @@ export const overwhereIvGarrettPell = {
       fact: "Garrett Pell is a carter of Millbrook in his forties, big, kind and talkative.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Identify shows him as Human LV 11.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+    { fact: "Identify shows him as Human LV 11.", knowers: ["lore-disclosure/game-master"] },
     {
       fact: "Garrett is the brother of the miller Hesper Pell.",
       knowers: ["lore-disclosure/game-master"],
@@ -25,11 +22,11 @@ export const overwhereIvGarrettPell = {
     },
     {
       fact: "He stopped his cart on the road by the common to stare at a barefoot stranger.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Garrett will offer a stranger in need a ride into town and his old coat.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "He knows everyone in the vale and chatters about all of them.",
@@ -41,11 +38,11 @@ export const overwhereIvGarrettPell = {
     },
     {
       fact: "Asked where she is, Garrett says Millbrook, in the Wendmere Vale, barony of Tarrow.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "He takes a barefoot, half-dressed stranger for a traveller robbed on the east road.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Her grey shirt and black tights look to him like foreign underthings, and he reddens.",
@@ -53,11 +50,11 @@ export const overwhereIvGarrettPell = {
     },
     {
       fact: "He hears her faint lilt as some far southern accent and thinks no more of it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Today his cart carries sacks of grain to his sister's mill by the town gate.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "He would send a stray to the Brook & Barrel, where Marta Hesk is kind to strays.",
@@ -66,6 +63,10 @@ export const overwhereIvGarrettPell = {
     {
       fact: "He knows the slimes on the common are harmless blue ones that children milk for jelly.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Garrett Pell is a big carter for the vale, forty or so, who drives two brown horses.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Lore
