@@ -240,5 +240,9 @@ export const overwhereIStarfallLegacy = {
       fact: "One minute's earth working at the Surge cost shapes about six slugs, and is a Surge use.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A spun slug flies a third faster than a plain bullet, with the same force behind it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
