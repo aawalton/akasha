@@ -141,7 +141,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "A dead greymaw holds no clean life to take, only cold brine that stings a wound it is pulled into.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
