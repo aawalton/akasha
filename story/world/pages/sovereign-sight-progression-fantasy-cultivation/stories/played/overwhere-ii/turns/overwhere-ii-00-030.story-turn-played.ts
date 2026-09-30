@@ -32,9 +32,10 @@ export const overwhereIi00030 = {
     "lore/overwhere-ii-keeper-anselm",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-wendle-ford-folk",
+    "lore/overwhere-ii-wren-marsh",
     "place/overwhere-ii-wendle-ford",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-30T07:25:00.000Z",
 } as const satisfies StoryTurnPlayed
