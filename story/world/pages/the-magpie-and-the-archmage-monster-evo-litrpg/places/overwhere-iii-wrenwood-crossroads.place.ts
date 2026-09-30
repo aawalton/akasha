@@ -98,7 +98,7 @@ export const overwhereIiiWrenwoodCrossroads = {
     },
     {
       fact: "The currents hold threads of every color; a few white-gold ones run where they cross at the shrine.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "White-gold threads reach no more than a hundred paces from the shrine along either road.",
