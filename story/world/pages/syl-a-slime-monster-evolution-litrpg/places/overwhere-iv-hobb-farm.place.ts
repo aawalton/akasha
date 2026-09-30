@@ -220,5 +220,13 @@ export const overwhereIvHobbFarm = {
         "lore/overwhere-iv-brookside-four",
       ],
     },
+    {
+      fact: "Hobb's three lost sheep came home from the Tangle; Hobb counted them twice and shook every hand.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
   ],
 } as const satisfies Place

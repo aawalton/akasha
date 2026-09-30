@@ -322,5 +322,13 @@ export const overwhereIvIlsaCrane = {
       fact: "Ilsa would ask Nala to stay after the Four leave, and ask her quietly what that line was.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "As the Four left the hall, Ilsa asked Nala quietly to stay a moment.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
+    },
   ],
 } as const satisfies Lore

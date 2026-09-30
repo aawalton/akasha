@@ -229,11 +229,23 @@ export const overwhereIvTheTangle = {
     },
     {
       fact: "A goblin's core sits under the breastbone; Wren cuts them out quickly with a skinning knife.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "The walk back from the lookout to Millbrook, driving three sheep, takes some two hours.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "From the lookout Nala and the Four took five goblin ears and five cores, and freed three sheep.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
   ],
   secrets: "jsonl",

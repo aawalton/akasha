@@ -123,5 +123,23 @@ export const overwhereIvNala2 = {
         "lore/overwhere-iv-brookside-four",
       ],
     },
+    {
+      fact: "Dace told Ilsa that Nala cut a goblin runner in two at twenty-five paces with a black line.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
+    {
+      fact: "Ilsa paid the Hobb lookout job out in fifths; Nala's share was a silver and nine copper.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
   ],
 } as const satisfies Lore
