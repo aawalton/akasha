@@ -158,6 +158,14 @@ export const overwhereIiiMerrowgateGuildPost = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "Marda will not send the paled stag stone to Thornmere.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
