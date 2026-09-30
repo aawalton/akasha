@@ -231,6 +231,10 @@ export const overwhereIiiMerrowgate = {
         "character-other/overwhere-iii-maud-ferrow",
       ],
     },
+    {
+      fact: "Nell Pask's pie stall on the Wool Square sells a hot mutton pasty, big as two fists, for 2 copper.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
