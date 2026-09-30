@@ -123,6 +123,10 @@ export const overwhereISootjaw = {
       fact: "Brute meat is dark, gamy and tough, but good stewed long, and Fenwatch would not refuse it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Its carcass weighs as much as three grown men; two people can only drag it slowly.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
