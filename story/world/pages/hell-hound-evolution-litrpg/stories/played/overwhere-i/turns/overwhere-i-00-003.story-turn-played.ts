@@ -10,7 +10,7 @@ export const overwhereI00003 = {
   position: 3,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Oh, perfect! A test subject!” I point a finger at the creature and focus on attuning to fire, imaging a narrow beam of intense flame extending from my finger through the creature.",
   beats: [
@@ -39,6 +39,7 @@ export const overwhereI00003 = {
   issues: [
     '"picturing a narrow beam of intense flame" - Nala (Alan) has total aphantasia and cannot picture',
     '"exactly as she pictured it" - Nala has total aphantasia; she pictures nothing',
+    '"The ford is quiet again, except for the stream and the smell of scorched hair." - Leave It Open',
   ],
   lore: [
     "lore/overwhere-i-greyfen-beasts",
@@ -47,6 +48,6 @@ export const overwhereI00003 = {
     "lore/overwhere-i-the-system",
     "place/overwhere-i-greyfen-ford",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T10:11:00.000Z",
 } as const satisfies StoryTurnPlayed
