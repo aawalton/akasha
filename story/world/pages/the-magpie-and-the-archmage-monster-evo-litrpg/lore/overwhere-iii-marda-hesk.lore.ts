@@ -44,6 +44,10 @@ export const overwhereIiiMardaHesk = {
       fact: "She drinks one cup of cider at noon and none after, and eats at the Crook and Candle.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A mana card that lit white-gold for a stranger would make Marda write to Thornmere at once.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

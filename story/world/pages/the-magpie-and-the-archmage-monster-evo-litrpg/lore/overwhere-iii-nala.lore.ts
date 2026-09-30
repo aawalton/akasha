@@ -170,6 +170,14 @@ export const overwhereIiiNala = {
       fact: "Her skill shop lists Spark 3, Mana Bolt 5, Gust 6, Minor Ward 8 and Mend 10 glimmerstones.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Her mana signature card lights white-gold, threaded through with every other color.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "On a Guild form, Mana Weaver is a name no clerk or adventurer in the Wrenmark has heard.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
