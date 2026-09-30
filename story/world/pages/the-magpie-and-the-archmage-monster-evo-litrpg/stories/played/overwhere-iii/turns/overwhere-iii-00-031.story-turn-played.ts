@@ -15,7 +15,7 @@ export const overwhereIii00031 = {
     "character-other/overwhere-iii-brannagh-tull",
     "character-other/overwhere-iii-tobin-wick",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Did some harvesting for the Post, so I can pay my own way now. I’d happily buy some more clothes if you’re willing to sell cheap.”",
   beats: [
@@ -36,6 +36,6 @@ export const overwhereIii00031 = {
     "lore/overwhere-iii-nala-2",
     "lore/overwhere-iii-tobin-wick",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-30T18:35:00.000Z",
 } as const satisfies StoryTurnPlayed
