@@ -6,13 +6,11 @@ export const overwhereIvNalaDimensionMagic = {
   slug: "overwhere-iv-nala-dimension-magic",
   title: "Dimension Magic",
   world: "world/syl-a-slime-monster-evolution-litrpg",
-  description:
-    "Dimension Magic from a pure legacy affinity, stronger at each level than any native's.",
+  description: "Magic that folds space, shifting a thing straight toward her or away from her.",
   character: "character-player/overwhere-iv-nala",
   skill: "world-skill/overwhere-iv-dimension-magic",
   level: 1,
   reachPaces: 20,
-  manaCost: 5,
-  durationMinutes: 1,
-  unrevealed: true,
+  manaCost: 1,
+  durationMinutes: 0,
 } as const satisfies OverwhereIvSkill
