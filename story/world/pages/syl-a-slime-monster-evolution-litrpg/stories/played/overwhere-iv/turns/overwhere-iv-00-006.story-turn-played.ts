@@ -4,13 +4,14 @@ export const overwhereIv00006 = {
   id: "01a0f194-6c1e-7d63-866f-0ba789d60862",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-006",
+  cover: "image/image-eb9e1fab218ae496",
   ownLength: 474,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 6,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-garrett-pell"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Thank you for the ride, Garrett, I’m sure I’ll see you around for a while.” Then I go back to the guard house to sign up for drills and see if I can bunk there for the night.",
   beats: [
@@ -48,6 +49,6 @@ export const overwhereIv00006 = {
     "place/overwhere-iv-millbrook-gatehouse",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T13:17:00.000Z",
 } as const satisfies StoryTurnPlayed
