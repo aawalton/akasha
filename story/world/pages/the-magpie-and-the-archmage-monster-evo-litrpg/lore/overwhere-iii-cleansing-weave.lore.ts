@@ -28,5 +28,9 @@ export const overwhereIiiCleansingWeave = {
       fact: "Pulling blight out whole is quicker than unpicking it: two pulls clear a weeks-old bite.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Blight pulled from living flesh clots at the wound's lip into a blightstone the size of a seed.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
