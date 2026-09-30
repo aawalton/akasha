@@ -145,7 +145,7 @@ export const overwhereIGreyfenBeasts = {
     },
     {
       fact: "An old boar's tusks are yellow and forearm-long; a fast water disc takes each off in under a minute.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "A pair of old Grubboar tusks sells to carvers for two silver.",
@@ -158,6 +158,10 @@ export const overwhereIGreyfenBeasts = {
     {
       fact: "An old boar's two tusks together weigh a few pounds, easily carried.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala cut both tusks off the old boar's head with a thin, fast water disc.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
