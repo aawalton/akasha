@@ -20,5 +20,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "A reedlurker hauled straight out of its dry den has dry hide, warding only 1 against fire.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Mud-hauled up through the bank, not out the water mouth, a lurker lands on dry reeds, off the water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
