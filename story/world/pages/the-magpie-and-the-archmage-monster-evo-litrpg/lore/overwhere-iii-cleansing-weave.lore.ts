@@ -32,5 +32,9 @@ export const overwhereIiiCleansingWeave = {
       fact: "Blight pulled from living flesh clots at the wound's lip into a blightstone the size of a seed.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Each pull sends a cold ache up the thread into her arm, and costs her 1 health.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
