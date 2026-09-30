@@ -85,7 +85,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "Greymaw Water drawn into Nala tastes brackish; its rot gathers on her palm as thick grey salt.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Undertow's push throws a greymaw off its feet, but it rises again unhurt.",
