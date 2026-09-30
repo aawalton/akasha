@@ -289,5 +289,9 @@ export const overwhereINala = {
       fact: "Fire worked into her body is a Surge working that lends strength; at Flare she hauls like two men.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Fire-strength runs hot through her like fever sweat, but never burns her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
