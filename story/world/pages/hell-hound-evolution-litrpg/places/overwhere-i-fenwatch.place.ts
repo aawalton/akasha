@@ -247,6 +247,10 @@ export const overwhereIFenwatch = {
       fact: "Dragging the old boar is a moderate act with fire-strength held, and extreme without it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The wallow is a quarter hour's walk from the south side of the palisade.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
