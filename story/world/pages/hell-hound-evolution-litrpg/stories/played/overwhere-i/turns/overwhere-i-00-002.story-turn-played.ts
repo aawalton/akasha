@@ -4,13 +4,14 @@ export const overwhereI00002 = {
   id: "01a0ed3c-a86d-7f9b-8d7b-1872063e7eef",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-002",
+  cover: "image/image-683564d2c8f5b20e",
   ownLength: 320,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 2,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Okay, Isekai protocol” I say quietly. “Status? System?” I focus on the words to see if I can get more information.",
   beats: [
@@ -45,6 +46,6 @@ export const overwhereI00002 = {
     "place/overwhere-i-greyfen-ford",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-29T10:08:00.000Z",
 } as const satisfies StoryTurnPlayed
