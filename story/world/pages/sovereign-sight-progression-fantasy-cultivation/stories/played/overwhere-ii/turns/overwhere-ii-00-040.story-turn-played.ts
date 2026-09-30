@@ -4,10 +4,13 @@ export const overwhereIi00040 = {
   id: "01a0f3cc-6e06-7321-b4e9-05a9d20f3123",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-040",
+  ownLength: 245,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 40,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I pursue the final wolf and finish it off, then cut off the right ears for the five and report back to Dray, so he knows where to send a card for the carcasses.",
   beats: [
@@ -30,6 +33,7 @@ export const overwhereIi00040 = {
   ],
   lore: [
     "lore/overwhere-ii-greymaws",
+    "lore/overwhere-ii-nala",
     "lore/overwhere-ii-reeve-corwin-dray",
     "place/overwhere-ii-hollow-tarn",
   ],
