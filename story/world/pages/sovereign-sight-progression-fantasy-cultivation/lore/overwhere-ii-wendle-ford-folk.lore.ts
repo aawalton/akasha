@@ -239,5 +239,9 @@ export const overwhereIiWendleFordFolk = {
       fact: "The Reeve pays two silver a head for any greymaw brought in dead.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "The watch swore a silver bar from its chest to whoever killed the white-eye; Oakes will honour it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
