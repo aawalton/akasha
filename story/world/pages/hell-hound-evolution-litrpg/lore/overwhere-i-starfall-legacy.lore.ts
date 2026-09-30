@@ -204,5 +204,9 @@ export const overwhereIStarfallLegacy = {
       fact: "Moving by weave over open ground, and practice at still marks within reach, need no check.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Practice counts toward skill growth; a morning of varied weaving raises Starfall Weave to level 2.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
