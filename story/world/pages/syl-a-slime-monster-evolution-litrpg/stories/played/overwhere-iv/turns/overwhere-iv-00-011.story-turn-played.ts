@@ -4,10 +4,13 @@ export const overwhereIv00011 = {
   id: "01a0f1e8-b889-7019-9ae3-355ab624b771",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-011",
+  ownLength: 453,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 11,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Well, isn’t that interesting.” I spend the rest of the time until dinner pushing and pulling to practice and train my dimensional magic, then go to dinner.",
   beats: [
@@ -37,6 +40,6 @@ export const overwhereIv00011 = {
     '"And he says," Wat goes on, louder, "they went to you like lambs. Walked up and waited to be stuck."',
     "The lanky one laughs. The grey one looks up from his stew, and keeps looking. So does Holt.",
   ],
-  lore: ["place/overwhere-iv-millbrook-gatehouse"],
+  lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-millbrook-gatehouse"],
   endsAt: "2026-09-29T18:15:00.000Z",
 } as const satisfies StoryTurnPlayed
