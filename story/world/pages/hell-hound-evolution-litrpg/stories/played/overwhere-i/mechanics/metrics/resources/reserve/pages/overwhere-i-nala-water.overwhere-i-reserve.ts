@@ -9,4 +9,5 @@ export const overwhereINalaWater = {
   minValue: 0,
   maxValue: 20,
   history: "jsonl",
+  displayOrder: 7,
 } as const satisfies OverwhereIReserve

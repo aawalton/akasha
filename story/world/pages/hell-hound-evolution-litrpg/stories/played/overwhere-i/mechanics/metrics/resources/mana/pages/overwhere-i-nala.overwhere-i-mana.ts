@@ -9,4 +9,5 @@ export const overwhereINala = {
   minValue: 0,
   maxValue: 136,
   history: "jsonl",
+  displayOrder: 2,
 } as const satisfies OverwhereIMana

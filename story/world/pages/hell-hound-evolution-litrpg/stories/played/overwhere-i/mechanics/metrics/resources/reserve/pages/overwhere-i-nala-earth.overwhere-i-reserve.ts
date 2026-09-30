@@ -9,4 +9,5 @@ export const overwhereINalaEarth = {
   minValue: 0,
   maxValue: 20,
   history: "jsonl",
+  displayOrder: 4,
 } as const satisfies OverwhereIReserve

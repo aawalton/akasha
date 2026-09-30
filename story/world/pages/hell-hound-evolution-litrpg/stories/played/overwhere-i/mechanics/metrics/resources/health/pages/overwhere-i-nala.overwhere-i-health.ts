@@ -9,4 +9,5 @@ export const overwhereINala = {
   minValue: 0,
   maxValue: 45,
   history: "jsonl",
+  displayOrder: 1,
 } as const satisfies OverwhereIHealth

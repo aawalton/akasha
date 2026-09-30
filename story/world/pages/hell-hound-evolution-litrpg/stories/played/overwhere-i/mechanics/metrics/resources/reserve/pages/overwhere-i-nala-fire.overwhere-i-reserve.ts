@@ -9,4 +9,5 @@ export const overwhereINalaFire = {
   minValue: 0,
   maxValue: 20,
   history: "jsonl",
+  displayOrder: 5,
 } as const satisfies OverwhereIReserve

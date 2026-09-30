@@ -9,4 +9,5 @@ export const overwhereINala = {
   minValue: 0,
   maxValue: 36,
   history: "jsonl",
+  displayOrder: 3,
 } as const satisfies OverwhereIStamina

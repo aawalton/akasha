@@ -9,4 +9,5 @@ export const overwhereINalaElectricity = {
   minValue: 0,
   maxValue: 20,
   history: "jsonl",
+  displayOrder: 8,
 } as const satisfies OverwhereIReserve

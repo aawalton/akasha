@@ -8,5 +8,6 @@ export const overwhereINala = {
   value: 1,
   minValue: 0,
   history: "jsonl",
+  displayOrder: 10,
   unrevealed: true,
 } as const satisfies OverwhereIMarks
