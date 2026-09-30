@@ -4,10 +4,18 @@ export const overwhereIii00044 = {
   id: "01a0f463-b990-7b89-86a7-df411235e179",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-044",
+  ownLength: 376,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 44,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-brannagh-tull",
+    "character-other/overwhere-iii-hild-wendle",
+    "character-other/overwhere-iii-marda-hesk",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I spend the day reading Brannagh’s book, going back to the post again to drain my mana whenever it gets close to full, but only after the healing touchup. If I finish the book, I go back to the Post to read more in the bestiary. If I finish cleansing any blightstones, I collect the resulting glimmerstones.",
   beats: [
