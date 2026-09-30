@@ -9,4 +9,5 @@ export const theTowerAlan = {
   minValue: 0,
   maxValue: 124,
   history: "jsonl",
+  displayOrder: 1,
 } as const satisfies TowerHealth

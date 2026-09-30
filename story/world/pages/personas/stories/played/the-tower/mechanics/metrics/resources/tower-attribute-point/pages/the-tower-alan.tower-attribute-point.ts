@@ -7,4 +7,5 @@ export const theTowerAlan = {
   character: "character-player/the-tower-alan",
   value: 3,
   minValue: 0,
+  displayOrder: 4,
 } as const satisfies TowerAttributePoint

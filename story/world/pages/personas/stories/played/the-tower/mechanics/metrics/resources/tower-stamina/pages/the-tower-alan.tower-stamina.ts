@@ -9,4 +9,5 @@ export const theTowerAlan = {
   minValue: 0,
   maxValue: 76,
   history: "jsonl",
+  displayOrder: 3,
 } as const satisfies TowerStamina
