@@ -63,5 +63,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Dray knew the white-eye's chamber on sight, and asked Nala where the carcasses are and who saw.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Dray takes the carcasses and Garth's word as proof enough; he needs no witness to the kill.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
