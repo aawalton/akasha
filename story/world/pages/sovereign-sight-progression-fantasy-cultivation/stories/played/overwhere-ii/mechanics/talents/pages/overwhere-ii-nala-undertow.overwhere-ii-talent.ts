@@ -12,4 +12,5 @@ export const overwhereIiNalaUndertow = {
   depth: "Surface",
   reachFeet: 30,
   draw: 40,
+  unrevealed: true,
 } as const satisfies OverwhereIiTalent
