@@ -172,11 +172,11 @@ export const overwhereIiiNala = {
     },
     {
       fact: "Her mana signature card lights white-gold, threaded through with every other color.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "On a Guild form, Mana Weaver is a name no clerk or adventurer in the Wrenmark has heard.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Nala slept her first night in Merrowgate in a room under the eaves at the Crook and Candle.",

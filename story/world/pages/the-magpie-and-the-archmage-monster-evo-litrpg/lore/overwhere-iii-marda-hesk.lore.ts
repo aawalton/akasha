@@ -70,7 +70,7 @@ export const overwhereIiiMardaHesk = {
     },
     {
       fact: "Seeing a white-gold card, she goes still, then asks if the holder has ever healed or purified.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",
