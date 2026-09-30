@@ -27,5 +27,29 @@ export const overwhereIiReeveCorwinDray2 = {
       fact: "Dray reads the winter's thunder as quakes, and the tarn, pool and mountain as leaning one way.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Dray knows Crake from Carrowmouth watch notices: a Mendicant, who steals Talents' Water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray knows Crake drinks a Talent's Water at a touch, and sells it bottled in Carrowmouth.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray knows three Talented have gone missing on the Carrowmouth road this past year.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray knows Crake picks Talents who travel alone and have no one to miss them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray knows Crake rides with four men who carry saltsteel manacles and darts that choke Locks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray does not know where Crake camps, only that the drover was robbed near Grey Shaw.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
