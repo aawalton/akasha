@@ -75,6 +75,10 @@ export const overwhereITobinAshdown = {
       fact: "Tobin came back to the ford early in the afternoon, leading a mule in a two-wheeled cart.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Tobin can't get anyone in Fenwatch to believe his tale of the Brute and the burn.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

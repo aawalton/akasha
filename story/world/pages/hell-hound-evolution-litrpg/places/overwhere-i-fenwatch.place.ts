@@ -169,7 +169,7 @@ export const overwhereIFenwatch = {
     },
     {
       fact: "Brack charges a silver to cure a pelt into a rug or blanket, and it takes him three weeks.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Brack's boots cost three silver and take two days; a leather pack costs two silver.",
@@ -181,11 +181,11 @@ export const overwhereIFenwatch = {
     },
     {
       fact: "Bet Ashdown is a thin, quick woman of forty, with reed-cut fingers and her son's sunburn.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Bet has a few tunics, leggings and cloaks made up, and can take them in to fit by dusk.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Tobin has talked of nothing but Nala all afternoon, and it makes his mother wary of her.",
@@ -193,19 +193,23 @@ export const overwhereIFenwatch = {
     },
     {
       fact: "Aldo Brack is a stooped, sour man of fifty with stained brown hands, who smells of his pits.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Brack has packs and belts ready; boots he makes to the foot, ready the morning of day three.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Until boots are made, Brack sells soft hide foot-wraps tied with thongs for two copper.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Brack takes a pelt to cure at once and asks his silver when the work is done.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Brack's price for a leather pack is two silver.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",

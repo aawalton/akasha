@@ -233,5 +233,13 @@ export const overwhereINala = {
       fact: "Nala told Hessa she may take on Ghost-Eye or Voss tomorrow, and never finds money hard to get.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Nala has boots on order from Aldo Brack, ready the morning of day three, paid for on fitting.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Nala left the Brute's pelt with Brack to cure; she owes him a silver when it is done.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
