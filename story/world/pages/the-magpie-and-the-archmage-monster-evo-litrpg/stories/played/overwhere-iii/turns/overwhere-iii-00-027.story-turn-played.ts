@@ -26,5 +26,6 @@ export const overwhereIii00027 = {
     '"If not, come see them now anyhow, and be back here at first light."',
   ],
   lore: ["lore/overwhere-iii-brannagh-tull", "lore/overwhere-iii-nala"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T17:49:00.000Z",
 } as const satisfies StoryTurnPlayed
