@@ -11,4 +11,5 @@ export const overwhereIi00036 = {
   action:
     "“Oh good, then you’ll heal fast if I do hurt you.” I take up the spear and cycle my water, then slowly approach Dray. When he’s in range, I commit to a thrust, surging Undertow to pull him toward me off balance and push my spear forward faster than it would naturally go at the same time, aiming for center mass.",
   lore: ["lore/overwhere-ii-reeve-corwin-dray", "lore/overwhere-ii-undertow"],
+  endsAt: "2026-09-30T08:26:00.000Z",
 } as const satisfies StoryTurnPlayed
