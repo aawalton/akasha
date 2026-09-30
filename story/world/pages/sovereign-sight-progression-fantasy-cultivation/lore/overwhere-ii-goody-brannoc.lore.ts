@@ -49,7 +49,7 @@ export const overwhereIiGoodyBrannoc = {
     },
     {
       fact: "Nala's face stops Goody's breath: it is the face of her girlhood friend Liss Aske, unchanged.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Goody Brannoc is a tiny, bent old woman with sharp black eyes, in a cottage by the mill race.",
@@ -65,6 +65,26 @@ export const overwhereIiGoodyBrannoc = {
     },
     {
       fact: "Goody says Liss Aske was her dearest friend, red-haired, drowned in Hollow Tarn 51 winters ago.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Goody says Liss Aske was twenty-five when she drowned, and Nala's face is hers not a day older.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Goody pressed cold iron to Nala's wrist; it left no mark, so she judged Nala no drowned thing.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Goody keeps an iron nail in her apron.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Garth told Goody that Nala drew the rot out of Wren's leg into salt, and Wren's leg is clean.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Goody has asked Nala, whoever she is, to come to the mill now to Tansy Horne.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
