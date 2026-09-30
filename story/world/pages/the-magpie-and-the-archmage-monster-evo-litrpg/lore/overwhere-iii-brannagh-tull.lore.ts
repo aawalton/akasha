@@ -225,7 +225,7 @@ export const overwhereIiiBrannaghTull = {
       ],
     },
     {
-      fact: "She will not touch the seed stones; she tips them off with a spoon into a clay cup for Nala.",
+      fact: "She will not touch the seed blightstones; she tips them off with a spoon into a clay cup for Nala.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-brannagh-tull",
@@ -277,7 +277,7 @@ export const overwhereIiiBrannaghTull = {
       ],
     },
     {
-      fact: "Brannagh warns seed stones are best kept off the skin and out of a bed, and shut in their cup.",
+      fact: "Brannagh warns blightstones are best kept off the skin and out of a bed, and shut in their cup.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/overwhere-iii-nala",

@@ -89,7 +89,7 @@ export const overwhereIiiNala2 = {
       ],
     },
     {
-      fact: "Nala carries Brannagh's clay cup for seed stones in her knapsack.",
+      fact: "Nala carries Brannagh's clay cup for seed blightstones in her knapsack.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {

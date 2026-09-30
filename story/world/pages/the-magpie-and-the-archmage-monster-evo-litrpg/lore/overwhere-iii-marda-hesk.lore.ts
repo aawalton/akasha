@@ -201,7 +201,7 @@ export const overwhereIiiMardaHesk = {
       ],
     },
     {
-      fact: "Marda's lead box holds Nala's six seed stones and two blightstones, for the Thornmere rider.",
+      fact: "Marda's lead box holds Nala's six seed stones and two whole blightstones, for the Thornmere rider.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

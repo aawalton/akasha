@@ -285,7 +285,7 @@ export const overwhereIiiCorruption = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Pulled blight comes up slowly from a wound and clots at its lip into a seed stone.",
+      fact: "Pulled blight comes up slowly from a wound and clots at its lip into a seed-sized stone.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/overwhere-iii-nala",
