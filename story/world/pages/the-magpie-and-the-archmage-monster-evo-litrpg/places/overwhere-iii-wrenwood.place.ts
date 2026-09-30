@@ -136,6 +136,10 @@ export const overwhereIiiWrenwood = {
       fact: "This morning a Level 3 jackalope feeds among the roots west of the shrine; it bites if cornered.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "An antlered gray-brown rabbit with a small glow feeds under a huge old beech west of the shrine.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

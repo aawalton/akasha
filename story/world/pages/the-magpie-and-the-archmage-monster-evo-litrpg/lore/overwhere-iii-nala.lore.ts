@@ -246,6 +246,10 @@ export const overwhereIiiNala = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "Nala cut fourteen good frostcaps in well under an hour and wraps them in her shirt front.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
