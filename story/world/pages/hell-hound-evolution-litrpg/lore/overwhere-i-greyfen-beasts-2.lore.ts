@@ -44,5 +44,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "A ripple feels the alder roots over the third den as a hard, knotted net in the wet earth.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Alder roots lace the third den's bank; a mud grip can't haul through them, only out the water mouth.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
