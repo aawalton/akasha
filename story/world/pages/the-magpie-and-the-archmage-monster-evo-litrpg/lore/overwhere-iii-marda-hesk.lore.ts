@@ -182,7 +182,11 @@ export const overwhereIiiMardaHesk = {
     },
     {
       fact: "Hearing Ivy, Garrick and Cob are clean, Marda says the blight work is Nala's now, Purify or no.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "Marda posts a Guild quest: cleanse five blighted Wrenmark folk, 1 silver; she counts three done.",
