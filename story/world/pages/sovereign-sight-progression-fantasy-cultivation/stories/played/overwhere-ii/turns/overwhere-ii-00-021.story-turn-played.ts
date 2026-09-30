@@ -10,7 +10,7 @@ export const overwhereIi00021 = {
   position: 21,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "“Sure”. I go through the same process, pull out the rot and burn the salt.",
   beats: [
     '"Sure," Nala says, and Anselm\'s face lights up as he kneels by the bed.',
@@ -33,12 +33,16 @@ export const overwhereIi00021 = {
     '"A Keeper must write to Carrowmouth of any great new Talent in his charge. I\'m bound to."',
     '"I write by the carrier every week. I\'d rather hear it from you first, whatever it is."',
   ],
-  issues: ['"and none of Col comes with it" - Nobody Acts'],
+  issues: [
+    '"and none of Col comes with it" - Nobody Acts',
+    '"grunts at the cold and the gooseflesh" - gooseflesh is felt only by the Talented, at deep drawing',
+    '"pleasantly tired, as if after a long walk" - after Tansy and Col she wants sleep',
+  ],
   lore: [
     "lore/overwhere-ii-keeper-anselm",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-wendle-ford-folk",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T12:47:00.000Z",
 } as const satisfies StoryTurnPlayed
