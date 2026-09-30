@@ -75,5 +75,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Dray overlooks Nala's lack of papers, but must write her name into Lady Varrow's rolls.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Lambing in Wendlemere begins in about three weeks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
