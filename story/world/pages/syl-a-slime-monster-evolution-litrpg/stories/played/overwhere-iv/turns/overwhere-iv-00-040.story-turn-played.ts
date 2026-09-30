@@ -10,7 +10,7 @@ export const overwhereIv00040 = {
   position: 40,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I examine the tree carefully and find a safe direction to drop it in, then use my spatial rend spell to make a back wedge cut about 30 deep on the opposite side, then make the forward cut on the side it should fall on, first making sure nothing is in the fall path.",
   beats: [
@@ -28,7 +28,10 @@ export const overwhereIv00040 = {
     "At the west gate the old herdsman is on his feet, gaping. From there he saw it fall, nothing more.",
     'He hobbles over, shouting. "Never seen one come down so quick! What\'d you cut it with, girl?"',
   ],
+  issues: [
+    '"a stride short of the brook" - an 80-foot oak cannot reach within a stride of 100 feet',
+  ],
   lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2", "place/overwhere-iv-reeves-pasture"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-02T09:35:00.000Z",
 } as const satisfies StoryTurnPlayed
