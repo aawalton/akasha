@@ -4,13 +4,14 @@ export const overwhereIi00028 = {
   id: "01a0f34d-b7b6-7164-80c5-6b1e03dd6119",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-028",
+  cover: "image/image-749d3339747016be",
   ownLength: 254,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 28,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Thank you, guess I’m more tired than I thought. We should also check the wolves for reservoirs while we can, those could be worth quite a bit if they have them.”",
   beats: [
@@ -41,6 +42,11 @@ export const overwhereIi00028 = {
     "lore/overwhere-ii-wendle-ford-folk",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-29T18:42:00.000Z",
 } as const satisfies StoryTurnPlayed
