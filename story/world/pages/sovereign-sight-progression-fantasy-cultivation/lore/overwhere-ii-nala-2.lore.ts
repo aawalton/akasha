@@ -53,6 +53,14 @@ export const overwhereIiNala2 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
+      fact: "A meal and a night's sleep clear the wear of refining from Nala's mind by morning.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "By morning the beads of blood on Nala's right forearm leave no mark on the refined skin.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Nala's left arm is refined whole, fingertip to shoulder; the bite scar is sealed under the new skin.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
