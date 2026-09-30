@@ -203,6 +203,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "Finding the third holt is a moderate act; fresh claw marks and bubbles give it away.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A holt shows as a smooth mud slide into the water, with a small air hole in the reeds above.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
