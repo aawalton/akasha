@@ -38,7 +38,7 @@ export const overwhereIiiWrenmarkBeastGuide = {
     },
     {
       fact: "Giantmaw hyena, Level 12-18, deep wood only: 'Do not.' Bounty 1 silver a head.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "In Marda's hand beside the jackalope: 'Antler ground fine goes in Brannagh's mana draught.'",
