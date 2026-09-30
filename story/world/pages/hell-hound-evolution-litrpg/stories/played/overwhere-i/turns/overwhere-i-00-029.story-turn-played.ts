@@ -27,11 +27,15 @@ export const overwhereI00029 = {
     "It stops in mid-channel. The water goes still.",
     "Something is out of its holt and in the water, and she cannot see where.",
   ],
+  issues: [
+    '"Something is out of its holt and in the water, and you can\'t see where." - Leave It Open',
+  ],
   lore: [
     "lore/overwhere-i-greyfen-beasts",
     "lore/overwhere-i-nala",
     "lore/overwhere-i-starfall-legacy",
     "place/overwhere-i-the-greyfen",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T10:47:00.000Z",
 } as const satisfies StoryTurnPlayed
