@@ -251,5 +251,9 @@ export const overwhereIiWendleFordFolk = {
       fact: "Oakes sends Dunn and Aldo Cray with the watch cart to Marsh Croft; they are back by noon.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Once the cart is back, Oakes pays eight silver for the four greymaws and the watch's silver bar.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
