@@ -208,6 +208,14 @@ export const overwhereIiiBrannaghTull = {
       fact: "Filling Nala took nearly all the mana draught; the flask holds about 1 mana's worth.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Brannagh's one mana draught is drunk dry.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
