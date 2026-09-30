@@ -11,7 +11,7 @@ export const overwhereIv00042 = {
   position: 42,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Axe is no good. Skill is specialized for spears.” I make a show of moving the spear along with the slice to make the desired cuts, then head back to the guild hall.",
   beats: [
@@ -38,6 +38,11 @@ export const overwhereIv00042 = {
     "place/overwhere-iv-reeves-pasture",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-02T10:07:00.000Z",
 } as const satisfies StoryTurnPlayed

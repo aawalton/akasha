@@ -5,7 +5,7 @@ export const overwhereIvNalaClass = {
   type: "page-type/metric-character-experience",
   slug: "overwhere-iv-nala-class",
   character: "character-player/overwhere-iv-nala",
-  value: 7,
+  value: 9,
   minValue: 0,
   maxValue: 20,
   history: "jsonl",
