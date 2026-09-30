@@ -7,7 +7,18 @@ export const overwhereIii00044 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 44,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I spend the day reading Brannagh’s book, going back to the post again to drain my mana whenever it gets close to full, but only after the healing touchup. If I finish the book, I go back to the Post to read more in the bestiary. If I finish cleansing any blightstones, I collect the resulting glimmerstones.",
+  lore: [
+    "lore/overwhere-iii-brannagh-tull",
+    "lore/overwhere-iii-cleansing-weave",
+    "lore/overwhere-iii-corruption",
+    "lore/overwhere-iii-hild-wendle",
+    "lore/overwhere-iii-marda-hesk",
+    "lore/overwhere-iii-mending-weave",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
+    "place/overwhere-iii-merrowgate-guild-post",
+  ],
 } as const satisfies StoryTurnPlayed
