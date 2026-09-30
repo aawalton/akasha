@@ -280,6 +280,10 @@ export const overwhereIFenwatch = {
       fact: "Ending the Grubboar boar a day after Sootjaw raises Fenwatch's regard for Nala.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "From the south palisade to the Stag on the green is a five-minute walk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
