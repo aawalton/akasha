@@ -175,6 +175,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "Three reedlurkers raid Jory Weir's eel traps by night and tear them up.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "A grown reedlurker is as long as a man, brown and sleek, with webbed claws and small yellow eyes.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
