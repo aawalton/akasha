@@ -10,12 +10,12 @@ export const overwhereIii00021 = {
   position: 21,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "I go back out to gather another 20 frostcaps, since I have the afternoon still free.",
   beats: [
     "Nala heads back out for another twenty frostcaps; she still has the afternoon.",
     "She walks the two miles south between the winter fields in Marda's loaned boots.",
-    "The boots help, but her feet are still raw from yesterday, and every step reminds her.",
+    "The boots help, but her soles are still raw from this morning's walk, and every step reminds her.",
     "At the crossroads the magpies chatter at her from the gold beeches.",
     "She goes in behind the shrine and west along the edge path, past the huge old beech.",
     "The blue current runs on west, past the lightning-split beech, deeper toward the sound of water.",
@@ -27,7 +27,6 @@ export const overwhereIii00021 = {
     "The current bends down toward a brook, where frost still lies thick on a row of big roots.",
     "Frostcaps glow there, plenty for the last five.",
     "Two antlered rabbits graze among those roots, each with a small glow.",
-    "They haven't seen her yet.",
   ],
   issues: [
     '"They haven\'t seen you yet." - No Prompt',
