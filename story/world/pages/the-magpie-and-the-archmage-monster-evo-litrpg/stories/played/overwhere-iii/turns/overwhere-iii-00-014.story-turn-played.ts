@@ -7,7 +7,7 @@ export const overwhereIii00014 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 14,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I keep me distance and hit it with mana lash against and try to dodge whatever attack it is making, since I can see it coming.",
 } as const satisfies StoryTurnPlayed
