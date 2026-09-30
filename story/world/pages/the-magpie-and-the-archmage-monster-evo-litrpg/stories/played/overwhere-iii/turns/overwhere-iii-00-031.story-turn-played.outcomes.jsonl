@@ -1,3 +1,0 @@
-{"check":"world-check/overwhere-iii-time-passing","reading":{"from":"2026-09-30T18:30:00.000Z","minutes":5},"answered":{"endsAt":"2026-09-30T18:35:00.000Z","day":2,"light":"night"}}
-{"check":"world-check/overwhere-iii-needs","reading":{"character":"character-player/overwhere-iii-nala","hoursFed":25,"hoursAwake":12.7,"cold":"warm","barefootMiles":6.2},"answered":{"wants":["Starving","Sore Feet"],"penalty":3}}
-{"check":"world-check/overwhere-iii-standing","reading":{"character":"character-other/overwhere-iii-bet-harrow","kept":0,"heard":0,"shared":1,"shielded":0,"crossed":0,"quotes":{"shared":["\"Did some harvesting for the Post,\" you say, \"so I can pay my own way now.\""]}},"answered":{"earned":1,"lost":0,"change":1}}

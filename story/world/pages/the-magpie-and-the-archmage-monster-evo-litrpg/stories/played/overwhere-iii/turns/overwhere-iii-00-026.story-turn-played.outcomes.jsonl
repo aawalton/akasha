@@ -1,3 +1,0 @@
-{"check":"world-check/overwhere-iii-time-passing","reading":{"from":"2026-09-30T17:44:00.000Z","minutes":3},"answered":{"endsAt":"2026-09-30T17:47:00.000Z","day":2,"light":"dusk"}}
-{"check":"world-check/overwhere-iii-needs","reading":{"character":"character-player/overwhere-iii-nala","hoursFed":24.2,"hoursAwake":11.8,"cold":"warm","barefootMiles":6.2},"answered":{"wants":["Starving","Sore Feet"],"penalty":3}}
-{"check":"world-check/overwhere-iii-standing","reading":{"character":"character-other/overwhere-iii-brannagh-tull","kept":0,"heard":0,"shared":1,"shielded":0,"crossed":0,"quotes":{"shared":"\"I did,\" you say, \"but I'm still learning. Did I do something wrong?\""}},"answered":{"earned":1,"lost":0,"change":1}}
