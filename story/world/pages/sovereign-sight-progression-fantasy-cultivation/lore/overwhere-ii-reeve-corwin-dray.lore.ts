@@ -43,5 +43,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "He pays the greymaw bounty from his own purse when the Varrow silver runs late.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Reeve Dray is a grey, square man in a leather jerkin, whose watch lost a man to the white-eye.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
