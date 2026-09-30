@@ -7,7 +7,12 @@ export const overwhereIi00029 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 29,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Leave it for morning, I have some things to try then.” In the morning, I check on the wolves and if the bodies are still there, I first see if I can use my Talent to pull the reservoir and push the rest of the wolf to separate them. If that doesn’t work, use it as an exercise, working on it while I saw them free with a knife.",
+  lore: [
+    "lore/overwhere-ii-greymaws",
+    "lore/overwhere-ii-keeper-anselm",
+    "lore/overwhere-ii-undertow",
+  ],
 } as const satisfies StoryTurnPlayed
