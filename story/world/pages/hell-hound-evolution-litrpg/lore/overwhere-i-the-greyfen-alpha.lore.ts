@@ -288,6 +288,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "A hurt Drakewolf keeps coming; once three of the six are down, the rest break back to the island.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ghost-Eye and the two biggest hold the shore by the pups and do not cross while the six fight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
