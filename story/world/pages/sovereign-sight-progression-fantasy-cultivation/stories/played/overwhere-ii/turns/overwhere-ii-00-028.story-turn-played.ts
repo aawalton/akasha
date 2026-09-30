@@ -11,4 +11,5 @@ export const overwhereIi00028 = {
   action:
     "“Thank you, guess I’m more tired than I thought. We should also check the wolves for reservoirs while we can, those could be worth quite a bit if they have them.”",
   lore: ["lore/overwhere-ii-garth-marsh", "lore/overwhere-ii-greymaws"],
+  endsAt: "2026-09-29T18:42:00.000Z",
 } as const satisfies StoryTurnPlayed
