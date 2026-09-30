@@ -121,7 +121,7 @@ export const overwhereIvMillbrookCommon = {
     },
     {
       fact: "Upstream of the footbridge, a screen of willows hides a grassy bend from town and road.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "A few small slimes always bob in the willow bend, where the jelly children seldom go.",

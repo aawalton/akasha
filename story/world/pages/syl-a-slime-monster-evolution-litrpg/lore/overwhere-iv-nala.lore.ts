@@ -94,15 +94,15 @@ export const overwhereIvNala = {
     },
     {
       fact: "When Nala stirs the warmth behind her ribs, nearby slimes shiver and press toward her.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Pushed at a slime with intent, her warmth folds space round it and jerks it a hand's width.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "That fold is her first working of Dimension Magic, and drains a sip of her mana.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The fold moves the slime only toward her or away; she cannot yet steer it anywhere else.",
@@ -184,6 +184,10 @@ export const overwhereIvNala = {
     {
       fact: "Her Emblems are [Experiment] and [Unique], as the gods mark a soul like hers.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala left the boy his red-stone slime to harvest, saying she'd never interfere with his hunt.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
   secrets: "jsonl",
