@@ -10,7 +10,7 @@ export const overwhereIv00030 = {
   position: 30,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "In the fight, I stay in my position, but when I have the chance I test out new combinations with my magic and spear. First, pulling the enemy into my spear instead of pushing the spear forward, then, creating a dimensional shear along the edge of the spear when I strike, seeing if I redevelop some form a spell strike without buying it.",
   beats: [
