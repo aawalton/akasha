@@ -78,7 +78,7 @@ export const overwhereIiiAdventurersGuild = {
     },
     {
       fact: "After twenty completed quests a member may take a rank advancement quest.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "In Cyene the Bronze advancement quest is to 'defeat' the Cave Badger of Area F.",
