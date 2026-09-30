@@ -179,5 +179,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "For Dray a spear point touched to his body anywhere below the stone counts as struck true.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala struck Dray true in the second bout, and he lets her hunt the greymaws alone.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
