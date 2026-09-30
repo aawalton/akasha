@@ -67,5 +67,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Dray takes the carcasses and Garth's word as proof enough; he needs no witness to the kill.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Dray wants the five greymaws left hunted down before lambing, and would pay Nala to lead the hunt.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
