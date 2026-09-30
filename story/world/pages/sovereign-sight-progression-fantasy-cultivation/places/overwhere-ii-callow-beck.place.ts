@@ -68,5 +68,9 @@ export const overwhereIiCallowBeck = {
       fact: "The Warped goats were Bramble and Sorrel, raised by Ebba from kids; Nala killed them at the pool.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Ebba burned Bramble and Sorrel on the Callow Beck midden with peat on day three.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place
