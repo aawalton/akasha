@@ -208,6 +208,18 @@ export const overwhereIiNala = {
       fact: "Driving her loops fast, her heart stays slow and easy, as if she could run uphill untired.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "The iron nails over Marsh Croft's door feel to her as the same flat, numb dead patch.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "The flow keeps her warm in the spring cold; her breath barely smokes where others' puffs white.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Stones sting her bare soles but do not cut them.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

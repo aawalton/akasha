@@ -111,6 +111,10 @@ export const overwhereIiGarthMarsh = {
       fact: "Garth keeps his dead wife Anni's boots and cloak in a chest, and could be brought to part with them.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Garth, who doesn't hold with the Talented, has asked Nala whether she can do aught for Wren.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

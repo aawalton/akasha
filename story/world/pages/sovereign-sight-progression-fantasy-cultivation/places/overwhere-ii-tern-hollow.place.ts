@@ -77,7 +77,7 @@ export const overwhereIiTernHollow = {
     },
     {
       fact: "Big clawed prints, rank with rotten salt, crossed the lane below the barn two nights ago.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The barn holds only a cart with one wheel off and a row of iron hooks along the wall.",

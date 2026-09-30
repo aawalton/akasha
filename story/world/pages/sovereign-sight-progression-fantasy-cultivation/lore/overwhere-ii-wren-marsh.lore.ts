@@ -35,6 +35,10 @@ export const overwhereIiWrenMarsh = {
       fact: "A thin, freckled girl of about nine lies flushed with fever in the box bed by the fire.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "The feverish girl in the box bed is Wren, Garth's daughter, who calls him Da.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

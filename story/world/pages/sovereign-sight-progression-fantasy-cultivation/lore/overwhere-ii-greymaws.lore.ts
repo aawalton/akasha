@@ -55,5 +55,9 @@ export const overwhereIiGreymaws = {
       fact: "Garth says greymaws hunt at dusk and dawn, and shun fire and cold iron.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Garth says the greymaws came down off the Whitecombs at midwinter.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore

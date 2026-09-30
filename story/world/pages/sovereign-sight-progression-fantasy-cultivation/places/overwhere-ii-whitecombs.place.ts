@@ -31,6 +31,10 @@ export const overwhereIiWhitecombs = {
       fact: "Wargrass and Sea-touched fennel grow on the lower slopes, if one knows where to look.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Garth says wolves are not all that has come down off the Whitecombs this winter.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
