@@ -195,6 +195,10 @@ export const overwhereIiiMerrowgate = {
       fact: "Brannagh's shop is low and dim, hung with drying herbs, and smells of mint and woodsmoke.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Hob Sadler's saddlery by the north gate sells new leather packs at 30 copper, open from dawn.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
