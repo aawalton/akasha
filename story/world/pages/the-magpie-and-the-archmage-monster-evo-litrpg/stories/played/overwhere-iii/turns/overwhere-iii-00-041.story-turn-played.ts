@@ -7,7 +7,13 @@ export const overwhereIii00041 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 41,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Thanks, for letting me know, I’ll be there. As for the magic, I’m not entirely sure how it works, but if you figure it out, please let me know.” I say with a smile, then keep reading until it’s time to go to Brannagh’s.",
+  lore: [
+    "lore/overwhere-iii-brannagh-tull",
+    "lore/overwhere-iii-hild-wendle",
+    "lore/overwhere-iii-pip-carrow",
+    "lore/overwhere-iii-wrenmark-beast-guide",
+  ],
 } as const satisfies StoryTurnPlayed
