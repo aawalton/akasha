@@ -11,7 +11,7 @@ const PASSING = z.object({
   minutes: z.number().int().min(0).max(MOST_MINUTES),
 })
 
-export type Light = "night" | "dawn" | "day" | "dusk"
+type Light = "night" | "dawn" | "day" | "dusk"
 
 export type Clock = {
   readonly opensAt: string
