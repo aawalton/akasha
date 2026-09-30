@@ -26,7 +26,11 @@ export const overwhereIiiMendingWeave = {
     },
     {
       fact: "A second Mending Weave over a puckered seam within two days smooths it to a clean, flat line.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-hild-wendle",
+      ],
     },
   ],
 } as const satisfies Lore
