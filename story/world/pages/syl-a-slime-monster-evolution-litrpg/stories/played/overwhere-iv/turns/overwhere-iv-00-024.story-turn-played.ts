@@ -11,4 +11,5 @@ export const overwhereIv00024 = {
   action:
     "“Okay, maybe wolves, maybe goblins or something similar. Point me where to go, and I’ll take a look.” Once I know where to go, I stay in that direction and practice combining my Dimensional Magic with the spear, jumping the spear forward beyond its normal reach.",
   lore: ["lore/overwhere-iv-nala"],
+  endsAt: "2026-09-30T18:27:00.000Z",
 } as const satisfies StoryTurnPlayed
