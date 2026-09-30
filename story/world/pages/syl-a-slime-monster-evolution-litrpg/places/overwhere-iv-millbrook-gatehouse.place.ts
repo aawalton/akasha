@@ -81,7 +81,7 @@ export const overwhereIvMillbrookGatehouse = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The mess has one long table, a cauldron on the hearth, and bread in a basket under a cloth.",
+      fact: "The mess has long tables and benches, a cauldron on the hearth, and bread under a cloth.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
