@@ -246,7 +246,7 @@ export const overwhereIiiCorruption = {
     },
     {
       fact: "Blight resists a holy thread: it bites cold up the thread into her hand, and the thread slips.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "A Level 15 to 17 blightstone takes about eight Basic Cleansing Weaves to crack.",
