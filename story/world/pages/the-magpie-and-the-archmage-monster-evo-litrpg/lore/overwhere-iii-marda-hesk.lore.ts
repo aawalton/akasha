@@ -208,6 +208,10 @@ export const overwhereIiiMardaHesk = {
       fact: "Watching a seed stone crack to a glowing speck, Marda sits very still, then reaches for her pen.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Asked to crack the Guild's stones, Marda says unmaking them is the point; the healer keeps the rest.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
