@@ -337,6 +337,10 @@ export const overwhereIiiBrannaghTull = {
       fact: "Her mother's book says a potion only 'takes' if its brewer has some mana to pour into the pot.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The book's healing potion: snowroot, comfrey, spring water, simmered an hour with mana poured in.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
