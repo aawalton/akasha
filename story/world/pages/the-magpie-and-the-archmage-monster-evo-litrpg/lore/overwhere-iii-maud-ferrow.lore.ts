@@ -34,7 +34,11 @@ export const overwhereIiiMaudFerrow = {
     },
     {
       fact: "Maud's nephew Cob has a blight scratch on his forearm, and she'd pay 10 copper to see it clean.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-maud-ferrow",
+      ],
     },
     {
       fact: "The drill-mistress is broad, past fifty, gray hair cropped short, with a Guild ring on her hand.",
