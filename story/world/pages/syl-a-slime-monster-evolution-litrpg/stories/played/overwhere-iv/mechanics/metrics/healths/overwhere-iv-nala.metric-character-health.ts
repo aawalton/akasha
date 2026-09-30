@@ -5,7 +5,7 @@ export const overwhereIvNala = {
   type: "page-type/metric-character-health",
   slug: "overwhere-iv-nala",
   character: "character-player/overwhere-iv-nala",
-  value: 22,
+  value: 35,
   minValue: 0,
   maxValue: 35,
   history: "jsonl",
