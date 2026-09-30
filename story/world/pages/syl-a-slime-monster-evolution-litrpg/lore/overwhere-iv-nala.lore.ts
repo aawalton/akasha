@@ -181,6 +181,10 @@ export const overwhereIvNala = {
       fact: "The line too bright to read in her status is her Emblems, which show once she first casts.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Her Emblems are [Experiment] and [Unique], as the gods mark a soul like hers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
