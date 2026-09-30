@@ -321,6 +321,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "A Drakewolf running at her through the marsh goes down to about three spun slugs.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "After the three die, every wolf on the island watches the south-east marsh where she lies.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
