@@ -35,9 +35,10 @@ export const overwhereIii00015 = {
   lore: [
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-wrenmark-beasts",
+    "place/overwhere-iii-wrenwood",
     "place/overwhere-iii-wrenwood-crossroads",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-30T09:48:00.000Z",
 } as const satisfies StoryTurnPlayed
