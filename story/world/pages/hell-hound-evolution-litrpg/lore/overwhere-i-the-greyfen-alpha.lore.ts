@@ -139,6 +139,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "The pack keeps three half-grown pups on the island this summer.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Spotting the pack from the Greystakes by spyglass is easy; bare-eyed at that range it is hard.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
