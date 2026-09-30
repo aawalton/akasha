@@ -4,13 +4,14 @@ export const overwhereIii00020 = {
   id: "01a0f223-6a62-7e26-a20c-eb30fd7f44d5",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-020",
+  cover: "image/image-0c0a9669d4afbae7",
   ownLength: 124,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 20,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Not quite Purify yet, but part way there. If you don’t mind a few steps, I think I can finish that off after a rest or two.”",
   beats: [
@@ -29,6 +30,11 @@ export const overwhereIii00020 = {
     "place/overwhere-iii-merrowgate-guild-post",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T12:23:00.000Z",
 } as const satisfies StoryTurnPlayed
