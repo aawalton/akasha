@@ -29,10 +29,15 @@ export const overwhereIv00002 = {
     "Behind Nala in the grass, the melon-sized slime with the red stone bobs back toward her ankle.",
     "Garrett waits on the road, coat held out, one eye on the gate and the sun near straight overhead.",
   ],
+  issues: [
+    '"Garrett keeps the coat held out over the wheel, one eye on the town gate" - No Prompt',
+    '"The sun stands almost straight overhead." - Leave It Open',
+  ],
   lore: [
     "lore/overwhere-iv-garrett-pell",
     "lore/overwhere-iv-nala",
     "place/overwhere-iv-millbrook",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T12:04:00.000Z",
 } as const satisfies StoryTurnPlayed
