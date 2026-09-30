@@ -4,13 +4,14 @@ export const overwhereIi00058 = {
   id: "01a0f49c-dce9-7a23-ac60-45ae463a32f2",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-058",
+  cover: "image/image-668d6f3597c985df",
   ownLength: 171,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 58,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Yeah, I’ll need to prepare a but before I’m ready for that. Sounds like you’ll get to keep me a while longer after all.” Once the conversation is done, I get a good meal and go to sleep.",
   beats: [
@@ -35,6 +36,11 @@ export const overwhereIi00058 = {
     "place/overwhere-ii-tarrant-smithy",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-03T06:00:00.000Z",
 } as const satisfies StoryTurnPlayed
