@@ -18,7 +18,11 @@ export const overwhereIiiIvyMarsh = {
     },
     {
       fact: "The boar's bite is across the back of her left hand, bound in a rag gone black.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-ivy-marsh"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-ivy-marsh",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Purple patches have crept from her hand halfway to her elbow.",
