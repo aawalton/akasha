@@ -37,12 +37,13 @@ export const overwhereIi00024 = {
     "Behind her, the cottage door scrapes open, and Garth stands in it with a lantern, staring.",
   ],
   lore: [
+    "lore/overwhere-ii-garth-marsh",
     "lore/overwhere-ii-greymaws",
     "lore/overwhere-ii-keeper-anselm",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-undertow",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-29T18:04:00.000Z",
 } as const satisfies StoryTurnPlayed
