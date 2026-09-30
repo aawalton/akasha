@@ -35,6 +35,10 @@ export const overwhereIiOswyCrake = {
       fact: "Crake follows rumours of strong Talents without friends the way crows follow a plough.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Oswy Crake is a Water thief on the Carrowmouth road, with ten silver bars on his head.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

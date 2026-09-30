@@ -221,7 +221,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Dray takes a no to the cottage without argument; he expected no less of a Talent her size.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray lets the killer keep anything cut from a greymaw; he wants only the carcasses burned.",
