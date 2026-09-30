@@ -99,5 +99,17 @@ export const overwhereIiGreymaws = {
       fact: "Nala drained three greymaws dead in the lane at Marsh Croft at dusk on day one.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Greymaws come on fast and silent, reeking of rotten brine like a beach full of dead fish.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "At dusk on day one four greymaws came on Marsh Croft; the she-wolf hung back on the slope.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "After three greymaws fell, the she-wolf scented the air and started down toward Nala.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore

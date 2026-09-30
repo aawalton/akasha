@@ -191,6 +191,10 @@ export const overwhereIiGarthMarsh = {
       fact: "Garth's boar spear is ash with a plain iron head and a crossbar below the blade.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Facing the greymaws, Garth gave Nala his spear and barred himself inside with Wren and Burr.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
