@@ -135,5 +135,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Nala told Dray the stragglers are no threat to her alone, and she would hate to hurt him needlessly.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Dray fights close, catching points on his stone forearms and hitting like a falling wall.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
