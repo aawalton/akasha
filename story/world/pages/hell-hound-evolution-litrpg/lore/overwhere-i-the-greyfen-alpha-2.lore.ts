@@ -220,5 +220,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Seven and Eight come within 100 yards of her about 12 seconds after turning, and reach her in 40.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Seven and Eight burst from the reeds first; she is still some 20 yards out from the hummock.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
