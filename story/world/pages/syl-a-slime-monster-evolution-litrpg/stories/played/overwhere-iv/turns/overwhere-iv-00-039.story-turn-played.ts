@@ -4,7 +4,7 @@ export const overwhereIv00039 = {
   id: "01a0f441-9bad-7d4a-918c-08234b6b6746",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-039",
-  ownLength: 196,
+  ownLength: 214,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 39,
@@ -14,7 +14,7 @@ export const overwhereIv00039 = {
     "character-other/overwhere-iv-ilsa-crane",
     "character-other/overwhere-iv-garrett-pell",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "“Sure, it can wait for tomorrow, right?” Assuming so, I then get dinner, sleep, train, and then set out for the new quest.",
   beats: [
