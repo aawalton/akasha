@@ -233,7 +233,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Dray's watchmen will not go past the cairn; the greymaw by the tarn is left where it fell.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray fears something worse drove the greymaws off the Whitecombs, and that it will follow.",
