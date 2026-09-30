@@ -329,6 +329,10 @@ export const overwhereIFenwatch = {
       fact: "Mid-morning Jory Weir is at his smoking shed by the east gate, hanging the night's few eels.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Jory would walk Nala out to his traps by day, but will not stay there after dark.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
