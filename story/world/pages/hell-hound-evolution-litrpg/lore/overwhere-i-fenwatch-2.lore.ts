@@ -16,5 +16,9 @@ export const overwhereIFenwatch2 = {
       fact: "Anyone in Fenwatch knows a mana crystal on sight; Osric the pedlar pays seven silver for a small.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "News that Ghost-Eye is dead fills the Stag by nightfall of day 3; the hall toasts Nala.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
