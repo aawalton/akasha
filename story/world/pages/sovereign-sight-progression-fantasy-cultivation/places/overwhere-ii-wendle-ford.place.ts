@@ -97,8 +97,8 @@ export const overwhereIiWendleFord = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
-      fact: "The Reeve pays his greymaw bounty on each head brought to him; no one hauls a whole carcass.",
-      knowers: ["lore-disclosure/game-master"],
+      fact: "For a greymaw bounty the Reeve sends a cart to fetch the carcasses, and pays once he has seen them.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Place
