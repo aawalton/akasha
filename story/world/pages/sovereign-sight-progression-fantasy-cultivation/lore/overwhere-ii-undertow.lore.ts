@@ -148,5 +148,9 @@ export const overwhereIiUndertow = {
       fact: "Undertow's push can throw a grown man like Dray off his feet; his stone arms do not anchor him.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Drawing on a Talent's reservoir drains them as it did the greymaws, and they feel it plainly.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
