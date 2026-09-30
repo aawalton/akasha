@@ -10,7 +10,7 @@ export const overwhereIv00021 = {
   position: 21,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "“Deal. I have a lot of growing to do. Rather do it with someone I can trust anyways.”",
   beats: [
     '"Deal," Nala says. "I have a lot of growing to do. Rather do it with someone I can trust anyways."',
@@ -18,7 +18,7 @@ export const overwhereIv00021 = {
     "\"Then it's sworn. I keep my word, Nala. I expect the same. I don't forgive the other thing.\"",
     "She opens the drawer and takes out a folded page, unsealed. Nala glimpses her own name on it.",
     "Ilsa takes a fresh sheet, dips her pen, and writes right there on the counter where Nala can see.",
-    "The new report is three lines: an old cracked crystal, a faint odd light, a crack a little grown.",
+    "The new report is short: an old cracked crystal, a faint odd light. Nothing else.",
     "No colour named. No room bending. No name. Ilsa blots it, folds it, and seals it with wax.",
     "Then she walks the first page down the hall to the hearth and drops it on the coals.",
     "It curls and catches. The hooded woman sits a pace from the fire, and watches it burn.",
