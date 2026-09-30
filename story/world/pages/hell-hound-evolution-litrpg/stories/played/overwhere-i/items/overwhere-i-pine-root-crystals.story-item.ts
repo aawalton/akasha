@@ -6,6 +6,7 @@ export const overwhereIPineRootCrystals = {
   slug: "overwhere-i-pine-root-crystals",
   title: "Pale Blue Crystals",
   story: "story-played/overwhere-i",
+  character: "character-player/overwhere-i-nala",
   quantity: 2,
   description:
     "Thumb-joint knots of pale blue crystal from drowned pine roots, cold and faintly aglow in shade.",
