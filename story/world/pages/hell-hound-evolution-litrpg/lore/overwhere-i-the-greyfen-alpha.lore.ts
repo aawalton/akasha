@@ -68,6 +68,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "Its pack lairs on a dry island of drowned pines, half a day's wading into the middle fen.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "In Fenwatch, Rowan Coalby knows the pack's ground best; his Sedge can follow its scent.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
