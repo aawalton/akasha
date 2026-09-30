@@ -304,5 +304,9 @@ export const overwhereIStarfallLegacy = {
       fact: "Weaving and loosing one slug takes about three seconds, at the Weave cost each.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Starfall Weave rose to level 5 at 13:04 on day 3, adding +3 Attunement.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
