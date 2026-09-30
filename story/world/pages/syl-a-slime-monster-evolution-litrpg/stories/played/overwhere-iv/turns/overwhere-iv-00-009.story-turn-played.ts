@@ -10,7 +10,7 @@ export const overwhereIv00009 = {
   position: 9,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Thanks!” I go back and get my spear, then start carefully clearing slimes in the commons, focusing on practicing my spear thrusts.",
   beats: [
@@ -40,7 +40,11 @@ export const overwhereIv00009 = {
     "He plants himself between her and the slime, fists on his hips, jelly to the elbows.",
     "\"That's the fattest on the whole common. I saw it first. You spear it and I'll tell.\"",
   ],
+  issues: [
+    '"four a size up" - the growth outcome\'s foes are all LV 1-2, the small size; a size up is LV 3-4',
+    '"Blue Slime LV 1 defeated" - she has no Identify skill and sees no one\'s level but her own',
+  ],
   lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-millbrook-common"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T15:07:00.000Z",
 } as const satisfies StoryTurnPlayed
