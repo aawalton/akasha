@@ -10,5 +10,5 @@ export const overwhereIiiNala = {
   maxValue: 10,
   history: "jsonl",
   displayOrder: 2,
-  revealedAs: "Meager, and a little spent",
+  revealedAs: "Meager, a little spent",
 } as const satisfies OverwhereIiiMana
