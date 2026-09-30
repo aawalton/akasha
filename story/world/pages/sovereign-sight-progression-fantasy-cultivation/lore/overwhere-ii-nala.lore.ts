@@ -184,6 +184,10 @@ export const overwhereIiNala = {
       fact: "Cycling, however hard, is quiet to others; only drawing deeply raises gooseflesh nearby.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "To her inward sense the barn's iron hooks feel flat and numb, a dead patch where all else is alive.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
