@@ -9,5 +9,6 @@ export const otherwhereXNala = {
   minValue: 0,
   maxValue: 100,
   history: "jsonl",
+  displayOrder: 2,
   unrevealed: true,
 } as const satisfies OtherwhereXEssence

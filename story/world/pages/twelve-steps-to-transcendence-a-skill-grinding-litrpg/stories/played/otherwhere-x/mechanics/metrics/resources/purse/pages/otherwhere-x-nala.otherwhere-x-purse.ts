@@ -8,4 +8,5 @@ export const otherwhereXNala = {
   value: 3,
   minValue: 0,
   history: "jsonl",
+  displayOrder: 3,
 } as const satisfies OtherwhereXPurse
