@@ -244,14 +244,20 @@ function answerTo(url: string, cookie: string | undefined): Promise<Response> {
   })
 }
 
-export async function fetchHtml(url: string, cookie?: string): Promise<string> {
-  let response: Response
-  try {
-    response = await answerTo(url, cookie)
-  } catch {
-    await betweenRequests()
-    response = await answerTo(url, cookie)
-  }
-  if (!response.ok) throw new Error(`${response.status} ${response.statusText} for ${url}`)
+class Refused extends Error {}
+
+async function bodyAt(url: string, cookie: string | undefined): Promise<string> {
+  const response = await answerTo(url, cookie)
+  if (!response.ok) throw new Refused(`${response.status} ${response.statusText} for ${url}`)
   return await response.text()
+}
+
+export async function fetchHtml(url: string, cookie?: string): Promise<string> {
+  try {
+    return await bodyAt(url, cookie)
+  } catch (thrown) {
+    if (thrown instanceof Refused) throw thrown
+    await betweenRequests()
+    return await bodyAt(url, cookie)
+  }
 }

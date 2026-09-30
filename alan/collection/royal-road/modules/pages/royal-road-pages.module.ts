@@ -35,7 +35,8 @@ export const royalRoadPages = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A request whose connection fails before any answer is sent once more.",
+      statement:
+        "A request whose connection fails before its whole answer arrives is sent once more.",
     },
     {
       decisionKind: "decision-kind/departure",
