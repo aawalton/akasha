@@ -114,7 +114,7 @@ export const overwhereIiWendleFord = {
     },
     {
       fact: "From dawn Maddy Fenn sells a day's bread, cheese and cold mutton wrapped for the road, two coppers.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The carrier is Wat Brisk, who drives a covered cart to Carrowmouth and back each week.",
