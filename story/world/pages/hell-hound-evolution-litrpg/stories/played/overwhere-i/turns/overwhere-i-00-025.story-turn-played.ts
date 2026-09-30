@@ -10,7 +10,7 @@ export const overwhereI00025 = {
   position: 25,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“You’re welcome to the hide and meat for free if you can find it. I killed him in the swamp and he sank in deep. Barely managed to get the tusks out of the muck. If you manage it, it’s yours. I’m taking a bath!”",
   beats: [
@@ -32,6 +32,6 @@ export const overwhereI00025 = {
     "lore/overwhere-i-nala",
     "place/overwhere-i-fenwatch",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T09:09:00.000Z",
 } as const satisfies StoryTurnPlayed
