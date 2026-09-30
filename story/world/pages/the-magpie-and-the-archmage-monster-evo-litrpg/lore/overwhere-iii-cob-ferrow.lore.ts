@@ -60,5 +60,13 @@ export const overwhereIiiCobFerrow = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
+    {
+      fact: "Cob could not look at Nala, and once he had paid her he left fast, his ears red.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-cob-ferrow",
+      ],
+    },
   ],
 } as const satisfies Lore
