@@ -93,7 +93,7 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "No canticle Anselm knows names a Talent called Undertow.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Anselm knows the Keepers' teaching on Talents, Depths and Descent, and would gladly share it.",
