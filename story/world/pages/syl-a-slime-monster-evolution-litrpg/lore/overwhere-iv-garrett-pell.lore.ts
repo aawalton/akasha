@@ -65,6 +65,54 @@ export const overwhereIvGarrettPell = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Garrett is a widower; his wife Bess died of a fever three winters ago.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He has two daughters, Pip, twelve, and Wenna, nine, whom Hesper minds while he hauls.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He lives in a narrow house on Cart Lane, inside the wall, with a stable behind.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "His horses are Barley and Moss, and he talks to them more than to most men.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He has hauled the vale's roads for twenty years and has never held a class.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Talking of the vale, he names the goblins taking sheep from Tangle-edge farms.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He grumbles that the Red Hand bandits make every run east to Aubrin a gamble.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He frets aloud over Hesper's cracked mill shaft and the grain piling up outside.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He speaks warmly of the baroness, and sadly, for word is she has been ailing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He finds Cedric Tarrow, who runs things now, smooth-spoken and cold, and keeps clear.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He calls Old Selby a witch, fondly, and swears by her salves for his back.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He says the Brookside Four are good lads but green, and Crowstone Quarry is best avoided.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Garrett Pell is a big carter for the vale, forty or so, who drives two brown horses.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },

@@ -19,6 +19,10 @@ export const overwhereIvMaudTarrow = {
       fact: "She was a firm ruler in her day, and the older folk of the vale remember her fondly.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Word in the vale is that she has been ailing since midsummer and seldom leaves the Hall.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
