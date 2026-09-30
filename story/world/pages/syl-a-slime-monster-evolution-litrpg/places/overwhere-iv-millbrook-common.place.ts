@@ -52,7 +52,7 @@ export const overwhereIvMillbrookCommon = {
       ],
     },
     {
-      fact: "Some of the new slimes have red cores instead of the usual blue.",
+      fact: "Some of the new slimes are melon-sized, larger than the fist-sized ones usual here.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
