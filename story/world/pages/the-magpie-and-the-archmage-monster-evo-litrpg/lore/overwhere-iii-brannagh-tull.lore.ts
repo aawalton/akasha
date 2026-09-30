@@ -339,7 +339,7 @@ export const overwhereIiiBrannaghTull = {
     },
     {
       fact: "The book's healing potion: snowroot, comfrey, spring water, simmered an hour with mana poured in.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "The receipt book takes a slow reader most of a day; it's cramped, with salves, teas and poultices.",
