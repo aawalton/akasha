@@ -100,5 +100,9 @@ export const overwhereIiUndertow = {
       fact: "Rot pushed out of her into a carcass soaks into it and greys the dead flesh; it does not come back.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's own Water pushed gently into her wound closes it in minutes rather than hours.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
