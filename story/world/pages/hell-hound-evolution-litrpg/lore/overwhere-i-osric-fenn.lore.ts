@@ -115,6 +115,10 @@ export const overwhereIOsricFenn = {
       fact: "Osric knows no more of what a pearl focus does than that mages swear by them.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Hearing she has gold plenty, Osric laughs, lets his offer stand till he leaves, and presses no more.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
