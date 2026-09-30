@@ -261,5 +261,9 @@ export const overwhereINala = {
       fact: "Killing the Level 12 old boar while she is Level 2 lifts her legacy to rank 2, Flare.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At Flare the System grants her Starfall Weave, and she can hold three workings at once.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
