@@ -156,5 +156,13 @@ export const overwhereIvGarrettPell = {
         "character-other/overwhere-iv-garrett-pell",
       ],
     },
+    {
+      fact: "At dawn Garrett's cart left Millbrook east for Aubrin, carrying the report.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-garrett-pell",
+      ],
+    },
   ],
 } as const satisfies Lore

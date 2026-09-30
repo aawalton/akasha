@@ -9,19 +9,19 @@ export const overwhereIvReevesPasture = {
   facts: [
     {
       fact: "The reeve's back pasture is a hedged field half a mile north of town, up the brook.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Neither the town wall nor the road has a view into the pasture, for its hedges are tall.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The great oak is centuries old, some eighty feet tall and four feet thick at its foot.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The oak leans toward the reeve's stone byre at the pasture's edge.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The mill shaft wants a straight trunk twenty feet long, stripped of its limbs.",
@@ -49,7 +49,15 @@ export const overwhereIvReevesPasture = {
     },
     {
       fact: "An oak sheared level through falls wherever its lean takes it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "An ox team and an old herdsman on a timber sledge wait in the pasture.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "The old herdsman shouted to Nala to mind the reeve's byre, asking if Ilsa sent her.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Place

@@ -173,5 +173,9 @@ export const overwhereIvNala2 = {
         "character-other/overwhere-iv-ilsa-crane",
       ],
     },
+    {
+      fact: "After a night's sleep Nala's shoulder stopped aching and the warmth behind her ribs was full.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore
