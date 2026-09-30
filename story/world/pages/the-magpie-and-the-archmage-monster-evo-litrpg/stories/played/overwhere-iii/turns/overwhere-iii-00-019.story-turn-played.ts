@@ -4,13 +4,14 @@ export const overwhereIii00019 = {
   id: "01a0f210-6da0-743c-8847-be1f86add357",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-019",
+  cover: "image/image-cdee2a7e8e13ec62",
   ownLength: 294,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 19,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Yes. Is there something blighted around I could test with? I’d like to see if I can unlock Purify without buying it from the skill store.”",
   beats: [
@@ -46,6 +47,11 @@ export const overwhereIii00019 = {
     "place/overwhere-iii-merrowgate-guild-post",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T12:18:00.000Z",
 } as const satisfies StoryTurnPlayed
