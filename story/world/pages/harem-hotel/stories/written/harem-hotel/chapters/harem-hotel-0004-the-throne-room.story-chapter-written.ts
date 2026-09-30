@@ -93,4 +93,5 @@ export const haremHotel0004TheThroneRoom = {
     "character-other/harem-hotel-tamsin",
     "character-player/harem-hotel-alan",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
