@@ -47,9 +47,10 @@ export const overwhereIi00013 = {
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-spiritual-rot-and-healing",
     "place/overwhere-ii-marsh-croft",
+    "place/overwhere-ii-wendle-ford",
     "place/overwhere-ii-whitecombs",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-29T09:44:00.000Z",
 } as const satisfies StoryTurnPlayed
