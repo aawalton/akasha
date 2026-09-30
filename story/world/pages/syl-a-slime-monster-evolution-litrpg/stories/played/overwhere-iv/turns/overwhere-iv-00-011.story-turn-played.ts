@@ -4,13 +4,14 @@ export const overwhereIv00011 = {
   id: "01a0f1e8-b889-7019-9ae3-355ab624b771",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-011",
+  cover: "image/image-fca904461dcbcac4",
   ownLength: 457,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 11,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Well, isn’t that interesting.” I spend the rest of the time until dinner pushing and pulling to practice and train my dimensional magic, then go to dinner.",
   beats: [
@@ -46,6 +47,11 @@ export const overwhereIv00011 = {
   ],
   lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-millbrook-gatehouse"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-29T18:15:00.000Z",
 } as const satisfies StoryTurnPlayed
