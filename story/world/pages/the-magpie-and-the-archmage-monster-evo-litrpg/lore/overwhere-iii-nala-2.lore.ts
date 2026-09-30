@@ -96,5 +96,13 @@ export const overwhereIiiNala2 = {
       fact: "In her first staff bout a lanky young watchman cracked Nala across the ribs and dropped her.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "After her first watch drill Nala is bruised, soaked in sweat and starving, her hands raw.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-maud-ferrow",
+      ],
+    },
   ],
 } as const satisfies Lore
