@@ -130,7 +130,11 @@ export const overwhereIiiBrannaghTull = {
     },
     {
       fact: "Both are half-corrupted: they ache and scratch and grow weaker, but stay clear in the head.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "She would ask whoever closed a wound like that to see her two now, and pay a potion each.",
