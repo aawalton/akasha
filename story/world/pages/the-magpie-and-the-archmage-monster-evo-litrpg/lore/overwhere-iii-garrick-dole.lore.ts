@@ -36,5 +36,9 @@ export const overwhereIiiGarrickDole = {
       fact: "The wolf's bite, a week older and deeper, takes three pulls to clear where Ivy's takes two.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Roused, he looks at a stranger healer a long moment and says only, 'Go on, then, lass.'",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-garrick-dole"],
+    },
   ],
 } as const satisfies Lore
