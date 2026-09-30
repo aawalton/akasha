@@ -10,7 +10,7 @@ export const overwhereI00015 = {
   position: 15,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“I’ll stay until I get bored. I hear there are some other beasties nearby that you might prefer to be rid of, and I’m a big fan spending gold. Is there a nice inn here? I could really use a good meal and a bath. Oh! And some new clothes, and a pack, and some shoes, and maybe someone I could hire to turn the hide into a nice rug or blanket? That could be fun.”",
   beats: [
@@ -45,6 +45,6 @@ export const overwhereI00015 = {
     "lore/overwhere-i-the-western-march",
     "place/overwhere-i-fenwatch",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T16:30:00.000Z",
 } as const satisfies StoryTurnPlayed
