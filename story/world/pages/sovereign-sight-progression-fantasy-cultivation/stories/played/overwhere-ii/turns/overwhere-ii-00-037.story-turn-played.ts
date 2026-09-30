@@ -11,7 +11,7 @@ export const overwhereIi00037 = {
   position: 37,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Sure.” This time, I fight more carefully, waiting for an opening to pull or push him off balance when he’s not expecting it, so I can at least tap him somewhere unarmored.",
   beats: [
@@ -36,6 +36,11 @@ export const overwhereIi00037 = {
   ],
   lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-reeve-corwin-dray"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-09-30T08:30:00.000Z",
 } as const satisfies StoryTurnPlayed
