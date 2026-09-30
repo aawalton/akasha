@@ -46,7 +46,7 @@ export const overwhereIiiAdventurersGuild = {
     },
     {
       fact: "A Guild Ring's metal shows its wearer's rank, and the ring resizes to fit any wearer.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Rings resize because some members shift into animal forms or change size.",
