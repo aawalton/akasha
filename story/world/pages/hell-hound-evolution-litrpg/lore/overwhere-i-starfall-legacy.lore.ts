@@ -208,5 +208,9 @@ export const overwhereIStarfallLegacy = {
       fact: "Practice counts toward skill growth; a morning of varied weaving raises Starfall Weave to level 2.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Starfall Weave rose to level 2 from practice at about 13:45 on day 2, adding +3 Attunement.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
