@@ -9,5 +9,6 @@ export const otherwhereXiNala = {
   minValue: 0,
   maxValue: 0,
   history: "jsonl",
+  displayOrder: 2,
   unrevealed: true,
 } as const satisfies OtherwhereXiMana

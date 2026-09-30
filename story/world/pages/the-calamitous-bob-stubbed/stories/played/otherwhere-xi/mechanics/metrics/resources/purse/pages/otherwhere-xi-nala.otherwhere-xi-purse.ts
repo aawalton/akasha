@@ -8,5 +8,6 @@ export const otherwhereXiNala = {
   value: 0,
   minValue: 0,
   history: "jsonl",
+  displayOrder: 3,
   unrevealed: true,
 } as const satisfies OtherwhereXiPurse
