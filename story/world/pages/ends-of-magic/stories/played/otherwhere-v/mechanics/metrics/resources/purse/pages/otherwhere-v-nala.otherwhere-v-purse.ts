@@ -8,4 +8,5 @@ export const otherwhereVNala = {
   value: 0,
   minValue: 0,
   history: "jsonl",
+  displayOrder: 2,
 } as const satisfies OtherwhereVPurse
