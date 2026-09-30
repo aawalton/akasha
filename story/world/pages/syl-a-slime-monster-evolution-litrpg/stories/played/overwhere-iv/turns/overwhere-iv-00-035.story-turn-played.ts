@@ -4,13 +4,14 @@ export const overwhereIv00035 = {
   id: "01a0f416-ee47-7ce8-a842-eaebbccb02b6",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-035",
+  cover: "image/image-0137da17249e5d12",
   ownLength: 227,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 35,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I work with the rest to gather the ears and go with them back to the hall.",
   beats: [
     "In the hollow, the work is quick. Nala goes goblin to goblin with the others, taking ears.",
@@ -36,6 +37,11 @@ export const overwhereIv00035 = {
     "place/overwhere-iv-the-tangle",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-01T15:48:00.000Z",
 } as const satisfies StoryTurnPlayed
