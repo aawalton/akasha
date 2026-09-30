@@ -9,4 +9,5 @@ export const overwhereIiiNala = {
   minValue: 0,
   maxValue: 10,
   history: "jsonl",
+  displayOrder: 2,
 } as const satisfies OverwhereIiiMana

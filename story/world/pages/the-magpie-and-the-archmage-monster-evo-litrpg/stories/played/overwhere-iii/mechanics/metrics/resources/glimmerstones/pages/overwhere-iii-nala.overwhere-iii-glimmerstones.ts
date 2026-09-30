@@ -8,4 +8,5 @@ export const overwhereIiiNala = {
   value: 0,
   minValue: 0,
   history: "jsonl",
+  displayOrder: 4,
 } as const satisfies OverwhereIiiGlimmerstones

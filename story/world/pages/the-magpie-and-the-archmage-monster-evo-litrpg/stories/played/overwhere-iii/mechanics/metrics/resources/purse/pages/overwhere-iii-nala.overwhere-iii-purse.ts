@@ -8,5 +8,6 @@ export const overwhereIiiNala = {
   value: 0,
   minValue: 0,
   history: "jsonl",
+  displayOrder: 6,
   unrevealed: true,
 } as const satisfies OverwhereIiiPurse
