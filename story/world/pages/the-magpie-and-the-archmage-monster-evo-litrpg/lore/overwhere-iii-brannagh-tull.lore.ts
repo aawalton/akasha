@@ -256,7 +256,12 @@ export const overwhereIiiBrannaghTull = {
     },
     {
       fact: "Seeing Garrick's leg closed, Brannagh sits down hard on her stool and laughs aloud.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-garrick-dole",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
     },
   ],
   secrets: "jsonl",
