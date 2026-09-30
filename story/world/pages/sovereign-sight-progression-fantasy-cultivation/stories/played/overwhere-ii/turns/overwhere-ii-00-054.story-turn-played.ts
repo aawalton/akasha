@@ -10,7 +10,7 @@ export const overwhereIi00054 = {
   position: 54,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I get supplies for my scouting this time, food and water, then work my way up to where I need to be",
   beats: [
@@ -40,12 +40,15 @@ export const overwhereIi00054 = {
     "She reckons five hours back down to the Ford, and the day is already half gone.",
     "The split yawns in front of her, dark and breathing cold, and the pull from below goes on.",
   ],
+  issues: [
+    '"A little past midday you stand under the crag" - beats have her there at half past one',
+  ],
   lore: [
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",
     "place/overwhere-ii-wendle-ford",
     "place/overwhere-ii-whitecombs",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-02T13:30:00.000Z",
 } as const satisfies StoryTurnPlayed
