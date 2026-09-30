@@ -100,7 +100,7 @@ export function headingOf(chapter: Chapter): string {
   return chapter.publishedAt === null ? chapter.title : `${chapter.title} (${chapter.publishedAt})`
 }
 
-export type Held = {
+type Held = {
   readonly chapter: Chapter
   readonly prose: string
 }
