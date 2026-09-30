@@ -11,4 +11,5 @@ export const overwhereI00045 = {
   action:
     "I drop my working and stay still while my mana recharges to full, keeping a watch with natural vision for any of the wolves to come in my direction.",
   lore: ["lore/overwhere-i-the-greyfen-alpha"],
+  endsAt: "2026-10-01T12:30:00.000Z",
 } as const satisfies StoryTurnPlayed
