@@ -170,6 +170,10 @@ export const overwhereIiiMerrowgateGuildPost = {
       fact: "Brannagh posts the frostcap job again each market day; this week's is filled.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's first dead rabbit lies on the floor inside the post's door, by the gear box.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
