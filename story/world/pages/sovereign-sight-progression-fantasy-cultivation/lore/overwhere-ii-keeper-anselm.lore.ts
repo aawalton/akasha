@@ -103,6 +103,10 @@ export const overwhereIiKeeperAnselm = {
       fact: "Anselm asked Nala to come to the shrine tomorrow, to be taught what he knows.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Anselm felt the drawing at Marsh Croft at dusk on day one, and set off up the valley at a run.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
