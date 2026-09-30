@@ -11,4 +11,5 @@ export const overwhereIi00003 = {
   action:
     "“Okay, seems like this might be a cultivation world, but the dead iron is different. Millennial Mage maybe? I guess I should start with isekai protocol anyways. System? Status?”",
   lore: ["lore/overwhere-ii-nala"],
+  endsAt: "2026-09-29T06:49:00.000Z",
 } as const satisfies StoryTurnPlayed
