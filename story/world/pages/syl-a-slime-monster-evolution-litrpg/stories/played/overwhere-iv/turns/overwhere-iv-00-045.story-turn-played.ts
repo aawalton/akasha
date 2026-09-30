@@ -4,10 +4,13 @@ export const overwhereIv00045 = {
   id: "01a0f485-1134-73de-ba95-df93aa22db5b",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-045",
+  ownLength: 178,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 45,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
+  stepStatus: "step-status/reviewers",
   action:
     "“I have a skill to help me with reading. Most people think it’s a waste, but comes in handy now and then.” I reply. “Could I get to silver rank here, or do I need a larger city for that? I feel like I’m getting close there.”",
   beats: [
@@ -21,6 +24,6 @@ export const overwhereIv00045 = {
     "She counts on her inky fingers. \"Hobb's slimes. The lookout. The oak. That's three.\"",
     "\"Seven more and I'll write it gladly. You'd carry it to Aubrin yourself, to take the tag.\"",
   ],
-  lore: ["lore/overwhere-iv-ilsa-crane-2"],
+  lore: ["lore/overwhere-iv-ilsa-crane-2", "lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2"],
   endsAt: "2026-10-02T10:41:00.000Z",
 } as const satisfies StoryTurnPlayed
