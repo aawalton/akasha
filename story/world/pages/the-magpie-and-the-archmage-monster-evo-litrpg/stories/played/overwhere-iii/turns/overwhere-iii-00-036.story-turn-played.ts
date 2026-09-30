@@ -4,10 +4,18 @@ export const overwhereIii00036 = {
   id: "01a0f3c4-113c-727b-ba8c-e939bd95b6ac",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-036",
+  ownLength: 267,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 36,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-maud-ferrow",
+    "character-other/overwhere-iii-brannagh-tull",
+    "character-other/overwhere-iii-garrick-dole",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "“Gladly, I need to finish up with Garrick first, he’s got it bad, but I’ll be glad to heal Cob after.” I go and take another pass at healing Garrick.",
   beats: [
@@ -35,6 +43,8 @@ export const overwhereIii00036 = {
     "lore/overwhere-iii-brannagh-tull",
     "lore/overwhere-iii-garrick-dole",
     "lore/overwhere-iii-maud-ferrow",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
   ],
   endsAt: "2026-10-01T11:05:00.000Z",
 } as const satisfies StoryTurnPlayed
