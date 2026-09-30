@@ -273,5 +273,9 @@ export const overwhereINala = {
       fact: "Holding two water workings, she feels two pulls behind her breastbone, cool, wet and steady.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "A held working slips if she goes more than about thirty yards from it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
