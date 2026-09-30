@@ -46,5 +46,14 @@ export const overwhereIiiEddaCrane = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
+    {
+      fact: "Nala's first pull at the burner's palm skidded off; a slower second pull drew the blight out whole.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-edda-crane",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
   ],
 } as const satisfies Lore
