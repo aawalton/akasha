@@ -253,7 +253,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Dray pays a silver bar for sure word of what drove the greymaws off the Whitecombs.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray sends anyone climbing the Whitecombs to Ebba Callow at Callow Beck, who knows the tracks.",
