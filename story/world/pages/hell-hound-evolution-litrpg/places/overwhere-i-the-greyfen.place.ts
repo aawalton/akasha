@@ -199,6 +199,10 @@ export const overwhereITheGreyfen = {
       fact: "A half-sunk pine log lies 140 yards off the island's south-east shore, cover for one crouching.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "From the pine island back to Fenwatch is about four hours' wading, or two skimming by weave.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
