@@ -100,6 +100,10 @@ export const overwhereIiiBrannaghTull = {
       fact: "Garrick Dole, a shepherd, was bitten on the calf by the corrupted wolf three weeks ago.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
+    {
+      fact: "Ivy Marsh, a drover's widow, was bitten on the hand by the corrupted boar a fortnight ago.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
