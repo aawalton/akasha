@@ -268,6 +268,10 @@ export const overwhereIiiBrannaghTull = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
+    {
+      fact: "Brannagh knows Marda pays the blight bounty on seed stones, a tenth of a silver apiece.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
