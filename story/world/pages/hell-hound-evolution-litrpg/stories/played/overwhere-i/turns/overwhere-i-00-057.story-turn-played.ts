@@ -4,13 +4,14 @@ export const overwhereI00057 = {
   id: "01a0f475-c4e2-7708-b8fa-8bf58487f13b",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-057",
+  cover: "image/image-418b804f9b0f2bee",
   ownLength: 141,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 57,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Yep! Mission complete! Didn’t get the whole pack, but I took out Ghost-Eye along with all the highest level ones. Want to see the eye?”",
   beats: [
@@ -31,6 +32,11 @@ export const overwhereI00057 = {
     "lore/overwhere-i-the-greyfen-alpha-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-01T16:33:00.000Z",
 } as const satisfies StoryTurnPlayed
