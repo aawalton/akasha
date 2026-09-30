@@ -10,13 +10,13 @@ export const overwhereIi00049 = {
   position: 49,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Share it all. I expect to take the Chartermark sooner or later anyways. No reason to slow that down.”",
   beats: [
     'Nala: "Share it all. I expect to take the Chartermark sooner or later anyways."',
     'Nala: "No reason to slow that down."',
-    "Relief spreads across Anselm's tired face, and he smiles for the first time today.",
+    "Relief spreads across Anselm's tired face, and he smiles warmly.",
     'Anselm: "Thank you. I\'ll write it tonight, all of it, and it goes with the carrier on market day."',
     "Then a small frown creases his brow.",
     'Anselm: "You should know, though: the Charterstone in Carrowmouth gives marks only at Threllsnacht."',
