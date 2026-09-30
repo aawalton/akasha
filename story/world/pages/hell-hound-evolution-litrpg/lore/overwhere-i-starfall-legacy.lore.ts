@@ -184,5 +184,9 @@ export const overwhereIStarfallLegacy = {
       fact: "An air-and-earth rock bullet flies faster than a sling stone, about 150 yards, true to about 60.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A rock bullet strikes at the legacy's full force as a blow, so hide wards it, not fire wards.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
