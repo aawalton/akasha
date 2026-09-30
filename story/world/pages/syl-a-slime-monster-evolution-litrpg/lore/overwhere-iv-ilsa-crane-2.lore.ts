@@ -78,6 +78,30 @@ export const overwhereIvIlsaCrane2 = {
     },
     {
       fact: "No raid came overnight; the board holds slimes, wolves, Selby's herbs and east-road guards.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "Millbrook has no bookseller; its few books are dear, and most sit on the shrine's shelf.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "Ilsa lends the guild handbook to read at the hall's hearth table, never out the door.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "The guild handbook covers ranks, bounty rules, the kingdom's known monsters and affinity lights.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "The handbook says a new dungeon shows by monsters too strong for their ground, out by night.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "The handbook lists Spellblade among the intermediate classes, and says little else of it.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "Ilsa would point Nala to Sister Anwen, who keeps the shrine's books.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iv-ilsa-crane",
