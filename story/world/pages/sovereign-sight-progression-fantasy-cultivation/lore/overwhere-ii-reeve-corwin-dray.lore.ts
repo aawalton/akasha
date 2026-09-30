@@ -223,5 +223,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Dray paid Nala eighteen silver for nine greymaws, the watch's silver bar and a bar for the hunt.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Dray offered Nala the empty watch cottage by the ford, hers if she will stay in the valley.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
