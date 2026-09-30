@@ -112,5 +112,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "Worn, a drake-pearl focus lets its wearer's held workings reach 50 yards, not 30.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A drake-pearl set as a focus can no longer be drawn on, sold to alchemists or swallowed.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
