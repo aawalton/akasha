@@ -4,13 +4,14 @@ export const overwhereI00039 = {
   id: "01a0f3a9-590a-7a12-8d96-73743a299f90",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-039",
+  cover: "image/image-84d5773622807343",
   ownLength: 181,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 39,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I attune water and fire, boiling the water in the underground den to superheated temperatures directly.",
   beats: [
@@ -39,6 +40,11 @@ export const overwhereI00039 = {
     "place/overwhere-i-the-greyfen",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T11:09:00.000Z",
 } as const satisfies StoryTurnPlayed
