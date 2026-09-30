@@ -127,6 +127,10 @@ export const overwhereITheGreyfenAlpha = {
         "lore/overwhere-i-garrick-pell",
       ],
     },
+    {
+      fact: "Through the midday the pack lies up in the pines' shade at the island's east edge, one on watch.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
