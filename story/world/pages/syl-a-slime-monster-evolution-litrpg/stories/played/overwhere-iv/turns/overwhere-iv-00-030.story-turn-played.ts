@@ -7,7 +7,8 @@ export const overwhereIv00030 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 30,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "In the fight, I stay in my position, but when I have the chance I test out new combinations with my magic and spear. First, pulling the enemy into my spear instead of pushing the spear forward, then, creating a dimensional shear along the edge of the spear when I strike, seeing if I redevelop some form a spell strike without buying it.",
+  lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2"],
 } as const satisfies StoryTurnPlayed
