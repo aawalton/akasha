@@ -4,13 +4,14 @@ export const overwhereIi00003 = {
   id: "01a0f14c-a24e-7734-9bb7-f2a4ae6bc173",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-003",
+  cover: "image/image-72e8f4ec1a335c6c",
   ownLength: 227,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 3,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Okay, seems like this might be a cultivation world, but the dead iron is different. Millennial Mage maybe? I guess I should start with isekai protocol anyways. System? Status?”",
   beats: [
@@ -30,6 +31,6 @@ export const overwhereIi00003 = {
   ],
   lore: ["lore/overwhere-ii-garth-marsh", "lore/overwhere-ii-nala"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T06:49:00.000Z",
 } as const satisfies StoryTurnPlayed
