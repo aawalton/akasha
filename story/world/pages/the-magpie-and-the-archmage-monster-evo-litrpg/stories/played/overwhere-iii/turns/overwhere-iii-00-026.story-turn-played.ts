@@ -4,6 +4,7 @@ export const overwhereIii00026 = {
   id: "01a0f35c-fa55-7dff-9534-edecda39c524",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-026",
+  cover: "image/image-baf819ed04ea8b53",
   ownLength: 142,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -15,7 +16,7 @@ export const overwhereIii00026 = {
     "character-other/overwhere-iii-garrick-dole",
     "character-other/overwhere-iii-ivy-marsh",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“I did, but I’m still learning. Did I do something wrong?”",
   beats: [
     '"I did," Nala says, "but I\'m still learning. Did I do something wrong?"',
@@ -35,6 +36,11 @@ export const overwhereIii00026 = {
     "lore/overwhere-iii-nala",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T17:47:00.000Z",
 } as const satisfies StoryTurnPlayed
