@@ -272,5 +272,9 @@ export const overwhereIStarfallLegacy = {
       fact: "An air-and-water weave holds two water lenses in line, a spyglass seeing about ten times closer.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Fire in a lens only sets the air shimmering and blurs the view.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
