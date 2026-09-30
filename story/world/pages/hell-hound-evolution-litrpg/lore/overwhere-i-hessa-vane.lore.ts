@@ -77,10 +77,14 @@ export const overwhereIHessaVane = {
     },
     {
       fact: "Asked where this is, she answers plainly and gives her name, then asks who killed the Brute.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "She gives her name as Hessa Vane, hunter of Fenwatch.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "She and her young companion tracked the Brute from Fenwatch to the ford.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],

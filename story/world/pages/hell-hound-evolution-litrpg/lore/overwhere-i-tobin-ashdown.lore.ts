@@ -47,6 +47,14 @@ export const overwhereITobinAshdown = {
       fact: "A Level 1 grown woman would puzzle him, then make him protective, until she proved otherwise.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "He came to the ford with Hessa: gangly, sunburnt, chipped front tooth, a hunting bow in hand.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "His leather jerkin is too big for him.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

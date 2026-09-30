@@ -139,6 +139,10 @@ export const overwhereIFenwatch = {
       fact: "Fenwatch, the hunter's village, lies an hour's walk east over the ridge, the nearest folk.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "The dead Brute at the ford is the beast that has been taking Fenwatch's goats.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
