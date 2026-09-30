@@ -7,7 +7,14 @@ export const overwhereIii00025 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 25,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I take them to the shop, then see if I can find Tobin to return his coat and repay double what he spent on me, then pay for a night at the inn from my own funds.",
+  lore: [
+    "lore/overwhere-iii-bet-harrow",
+    "lore/overwhere-iii-brannagh-tull",
+    "lore/overwhere-iii-tobin-wick",
+    "place/overwhere-iii-crook-and-candle",
+    "place/overwhere-iii-merrowgate",
+  ],
 } as const satisfies StoryTurnPlayed
