@@ -78,6 +78,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/mechanics/currencies/overwhere-iii-glimmerstone.world-currency.ts","id":"01a0f1ee-43b9-7b71-a490-cd18837beabe"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/mechanics/items/overwhere-iii-copper-guild-ring.world-item.ts","id":"01a0f1fb-89e9-7a18-a1ab-58ad0092499f"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/mechanics/items/overwhere-iii-frostcap.world-item.ts","id":"01a0f1a1-1b7b-7a76-828a-b579b5ce6409"}
+{"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/mechanics/items/overwhere-iii-low-healing-potion.world-item.ts","id":"01a0f35d-ec8b-7428-a961-0e664bc65f6c"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/mechanics/items/overwhere-iii-plain-knife.world-item.ts","id":"01a0f1a9-10c4-7b3a-ae67-55907fb55c10"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/mechanics/items/overwhere-iii-wool-tunic.world-item.ts","id":"01a0f354-dbfe-7f8b-ba90-0f5f6b860425"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/mechanics/items/overwhere-iii-worn-boots.world-item.ts","id":"01a0f206-994f-78c0-9c08-6e97ab249838"}
@@ -137,9 +138,11 @@
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/characters/overwhere-iii-duncan.character-other.ts","id":"01a0ed2e-c665-7a02-abd2-b2e1c56eea91"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/characters/overwhere-iii-dunstan-harrow.character-other.ts","id":"01a0f341-0557-729e-bbb9-c6e7fdaaf14a"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/characters/overwhere-iii-el-akari.character-other.ts","id":"01a0ed32-78b6-71ba-89e0-c4a262b84726"}
+{"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/characters/overwhere-iii-garrick-dole.character-other.ts","id":"01a0f35d-ec8b-7ce6-b261-5085719fdc88"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/characters/overwhere-iii-hal-dunmore.character-other.ts","id":"01a0f169-ee39-7d27-a446-51eb5a93a5f1"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/characters/overwhere-iii-hobb.character-other.ts","id":"01a0ed33-882d-773c-8590-e5013cb073ee"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/characters/overwhere-iii-horace.character-other.ts","id":"01a0ed2f-3745-7e4f-a78a-d823c9c2360c"}
+{"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/characters/overwhere-iii-ivy-marsh.character-other.ts","id":"01a0f35d-ec8b-705d-9703-2980e8fd21a4"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/characters/overwhere-iii-jory-fenn.character-other.ts","id":"01a0ed30-5d27-712d-bb76-59b3a61ee3b7"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/characters/overwhere-iii-kalen.character-other.ts","id":"01a0ed2b-6ace-75ff-b78a-97127c3201f8"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/characters/overwhere-iii-kiva.character-other.ts","id":"01a0ed2c-1151-71fb-9444-b74a85fc4e1d"}
