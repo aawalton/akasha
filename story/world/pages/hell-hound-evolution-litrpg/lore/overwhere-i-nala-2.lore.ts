@@ -16,5 +16,9 @@ export const overwhereINala2 = {
       fact: "Killing the Level 12 reedlurker at 11:09 on day 2 raised Nala to Level 5.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "At Level 5 the warm rush came again, and the pressure behind her breastbone deepened.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore

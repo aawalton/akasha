@@ -26,7 +26,7 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "Water and fire woven make steam; air and fire woven make a hot, drying wind.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "A weave counts as one working, so with a third working held beside it she can still hold three.",

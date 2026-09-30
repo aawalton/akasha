@@ -70,7 +70,7 @@ export const overwhereIGreyfenBeasts2 = {
     },
     {
       fact: "Steam in a den vents from its air hole as a white plume among the roots.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "A scalded reedlurker bolts down its tunnel into the channel and lunges at the nearest leg ashore.",
@@ -82,6 +82,10 @@ export const overwhereIGreyfenBeasts2 = {
     },
     {
       fact: "Nala's den steam killed the Level 12 at 11:09 on day 2; its body lies in its tunnel under the roots.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Nala killed all three reedlurkers by Jory's traps before noon on day 2.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],

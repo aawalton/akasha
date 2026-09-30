@@ -133,7 +133,7 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "While Nala hunts the Level 12, Jory follows ten yards behind her, well back from the water.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Jory will vouch for all three reedlurker kills to Agathe once he has seen the third body.",
