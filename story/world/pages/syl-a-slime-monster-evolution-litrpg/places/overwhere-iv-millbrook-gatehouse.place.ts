@@ -104,6 +104,26 @@ export const overwhereIvMillbrookGatehouse = {
     },
 
     {
+      fact: "Oswin Pike bunks in the gatehouse; Wat, Dell and Holt do too, and the captain lives in town.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The bunk room is dark by the night bell; the night gate guard is relieved at midnight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Overnight, slimes creep up from the common and heap against the wall below the bunk room.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At dawn there are a dozen slimes piled at the wall's foot, quiet, as if waiting.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At dawn drill Holt pairs the newest recruit with Dell Farrow for sparring.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Dell Farrow holds slimes follow whoever smells of jelly, and would say so loudly.",
       knowers: [
         "lore-disclosure/game-master",
