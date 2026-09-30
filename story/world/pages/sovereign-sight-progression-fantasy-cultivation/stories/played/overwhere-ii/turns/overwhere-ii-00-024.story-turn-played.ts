@@ -4,13 +4,14 @@ export const overwhereIi00024 = {
   id: "01a0f250-82a3-7488-85be-9db459b03685",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-024",
+  cover: "image/image-01e4b65272417d7c",
   ownLength: 368,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 24,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I run towards it and when I get close I pull on the reservoir of the beast while pushing on its flesh, then plant the spear directly in front of its charge.",
   beats: [
@@ -44,6 +45,11 @@ export const overwhereIi00024 = {
     "lore/overwhere-ii-undertow",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-29T18:04:00.000Z",
 } as const satisfies StoryTurnPlayed
