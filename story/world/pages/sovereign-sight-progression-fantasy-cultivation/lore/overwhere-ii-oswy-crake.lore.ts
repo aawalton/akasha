@@ -36,6 +36,26 @@ export const overwhereIiOswyCrake = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Crake's band camps in the ruined tollhouse at Grey Shaw, a birch wood a day down the valley road.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Crake's four men are the Loddon brothers with crossbows, Big Harl with an axe, and a boy scout, Pip.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Crake means to take Nala on the road when she leaves the valley alone, not in the Ford.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Pip watches the valley road from the Grey Shaw birches and runs word back to Crake.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Loddons' crossbow bolts carry the coralsnout-venom darts' same poison.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Oswy Crake is a Water thief on the Carrowmouth road, with ten silver bars on his head.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
