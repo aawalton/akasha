@@ -30,7 +30,7 @@ export const overwhereIiWatchCottage = {
     },
     {
       fact: "Dray lets Nala sleep in the watch cottage while she works for him, and asks nothing for it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Place
