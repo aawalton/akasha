@@ -207,6 +207,10 @@ export const overwhereIiGarthMarsh = {
       fact: "Garth means to bind Nala's bite and then have her eat; he sent Wren for clean linen.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Garth has heard Aberrants carry something precious in them, but not what, and has a flensing knife.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
