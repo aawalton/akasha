@@ -11,4 +11,5 @@ export const overwhereIi00022 = {
   action:
     "“It’s called Undertow, but I’m still learning what it does. You could help me with that once I’m done with the urgent needs.” I turn to Goody. “One more person, right? Then a nap, then the ewes.”",
   lore: ["lore/overwhere-ii-keeper-anselm", "lore/overwhere-ii-wendle-ford-folk"],
+  endsAt: "2026-09-29T17:20:00.000Z",
 } as const satisfies StoryTurnPlayed
