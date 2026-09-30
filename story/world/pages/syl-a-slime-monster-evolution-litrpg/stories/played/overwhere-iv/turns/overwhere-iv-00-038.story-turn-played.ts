@@ -10,7 +10,7 @@ export const overwhereIv00038 = {
   position: 38,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Yes, I won’t cast it in town. I could even take solo missions from now on if that would be best. I could have easily taken all five goblins on my own with the new spell.”",
   beats: [
@@ -25,6 +25,6 @@ export const overwhereIv00038 = {
     'She slides it toward Nala. "Want it?"',
   ],
   lore: ["lore/overwhere-iv-ilsa-crane-2", "lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-01T15:54:00.000Z",
 } as const satisfies StoryTurnPlayed
