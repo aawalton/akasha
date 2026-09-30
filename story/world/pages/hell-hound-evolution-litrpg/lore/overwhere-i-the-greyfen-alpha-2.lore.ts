@@ -232,5 +232,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Between them coming inside 100 yards and reaching her, she has time for about nine slugs.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "While Seven and Eight fight her out in the marsh, Ghost-Eye and Six hold the shore.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
