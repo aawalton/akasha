@@ -4,10 +4,20 @@ export const overwhereIii00041 = {
   id: "01a0f408-7ff9-7a9e-a1c2-96756ed13b6c",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-041",
+  ownLength: 331,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 41,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-pip-carrow",
+    "character-other/overwhere-iii-marda-hesk",
+    "character-other/overwhere-iii-brannagh-tull",
+    "character-other/overwhere-iii-hild-wendle",
+    "character-other/overwhere-iii-ivy-marsh",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "“Thanks, for letting me know, I’ll be there. As for the magic, I’m not entirely sure how it works, but if you figure it out, please let me know.” I say with a smile, then keep reading until it’s time to go to Brannagh’s.",
   beats: [
@@ -37,6 +47,10 @@ export const overwhereIii00041 = {
   lore: [
     "lore/overwhere-iii-brannagh-tull",
     "lore/overwhere-iii-hild-wendle",
+    "lore/overwhere-iii-ivy-marsh",
+    "lore/overwhere-iii-marda-hesk",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
     "lore/overwhere-iii-pip-carrow",
     "lore/overwhere-iii-wrenmark-beast-guide",
   ],
