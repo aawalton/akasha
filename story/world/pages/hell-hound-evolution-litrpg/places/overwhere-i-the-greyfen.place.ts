@@ -143,6 +143,10 @@ export const overwhereITheGreyfen = {
       fact: "Seeing the third body, Jory whoops, vouches for all three, and promises her a string of smoked eels.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "From the fen edge by the ford, the middle fen's pine island lies about eight miles due west.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
