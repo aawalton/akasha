@@ -277,7 +277,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Told Nala's well leans at both, Dray fears Hollow Tarn is a tidepool too, and a bigger one.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "In the evening of day three Dray sits by the fire in the Reeve's house, the watch back from the den.",
