@@ -4,13 +4,14 @@ export const overwhereI00027 = {
   id: "01a0f33a-296d-7304-b9aa-4bc2054ad16f",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-027",
+  cover: "image/image-c1eea0794f247ab1",
   ownLength: 131,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 27,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“Yeah, what do they look like? How can I find them?”",
   beats: [
     "Nala says yes, and asks what they look like and how she can find them.",
@@ -24,6 +25,11 @@ export const overwhereI00027 = {
   ],
   lore: ["lore/overwhere-i-greyfen-beasts", "lore/overwhere-i-nala", "place/overwhere-i-fenwatch"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T09:39:00.000Z",
 } as const satisfies StoryTurnPlayed
