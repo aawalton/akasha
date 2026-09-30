@@ -10,5 +10,5 @@ export const overwhereIvNala = {
   maxValue: 35,
   history: "jsonl",
   displayOrder: 1,
-  revealedAs: "The breath goes out of you. Everything hurts at once.",
+  revealedAs: "The knee pulses hot, swollen and going purple.",
 } as const satisfies MetricCharacterHealth
