@@ -11,4 +11,5 @@ export const overwhereIv00004 = {
   action:
     "“Nala, suppose my business is not getting robbed again for now, not that I have anything left to be robbed",
   lore: ["lore/overwhere-iv-rennick-hale", "lore/overwhere-iv-wat-barrow"],
+  endsAt: "2026-09-29T12:27:00.000Z",
 } as const satisfies StoryTurnPlayed
