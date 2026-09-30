@@ -57,7 +57,7 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "Dead fish float in the western channels, and the reed there grows yellow and brittle.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Beasts have moved east out of the deep fen all summer, toward the ford and the villages.",

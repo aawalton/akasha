@@ -59,6 +59,10 @@ export const overwhereIWennaThorne = {
       fact: "At the feast she Analyzes Nala, sees Human - Level 2, and stares; Nala feels nothing of it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At the feast a tall, stooped woman with cropped white hair and scarred hands stared long at Nala.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

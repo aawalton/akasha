@@ -25,7 +25,7 @@ export const overwhereIRowanCoalby = {
     },
     {
       fact: "Sedge is lean and grey-green, with a lizard muzzle, slanted yellow eyes and a spiked steel collar.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Through the bond Rowan feels Sedge's moods and can call it to him from a long way off.",
@@ -57,7 +57,15 @@ export const overwhereIRowanCoalby = {
     },
     {
       fact: "At the feast he thanks Nala, stammering, with Sedge at his heel, and offers her any help he has.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Rowan Coalby is broad and soot-dark, and his words catch when he speaks.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Sootjaw took Rowan's goats, and Fenwatch blamed his beast Sedge until the Brute was killed.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
