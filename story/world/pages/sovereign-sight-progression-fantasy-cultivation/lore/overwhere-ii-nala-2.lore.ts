@@ -136,5 +136,17 @@ export const overwhereIiNala2 = {
       fact: "With all her skin refined whole, Nala's skin turns a knife as a mail shirt would.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "If Nala's hold breaks partway, the unfinished refining runs back out of her skin, lost.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A refining lost partway wears Nala's mind as much as a finished one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The tide closed the scrape over Nala's ribs before it slipped; the deep bruise under it remains.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
