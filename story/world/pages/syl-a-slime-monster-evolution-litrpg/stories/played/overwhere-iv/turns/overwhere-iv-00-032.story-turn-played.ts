@@ -10,7 +10,7 @@ export const overwhereIv00032 = {
   position: 32,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I watch the slinger and when it launches, I drop to the ground",
   beats: [
     "Nala watches the slinger, twenty paces off atop the oak. Not its face. Its arm.",
@@ -26,6 +26,6 @@ export const overwhereIv00032 = {
     "The sling starts to turn again, slow, then faster.",
   ],
   lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2", "place/overwhere-iv-the-tangle"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-01T13:14:00.000Z",
 } as const satisfies StoryTurnPlayed
