@@ -10,7 +10,7 @@ export const overwhereIi00013 = {
   position: 13,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Hmm, I don’t think the iron is stopping it, let’s try burning. If that doesn’t do it, I’ll pull it back into the pot, and we’ll bring it with us.”",
   beats: [
@@ -38,6 +38,10 @@ export const overwhereIi00013 = {
     "The rag falls from her hands. The colour drains out of her lined face.",
     '"Liss?" she whispers. "Liss Aske?"',
   ],
+  issues: [
+    '"smelling of peat smoke" - turn 11 has Anni\'s cloak smelling faintly of cedar from the chest',
+    '"no loom in Teyr makes" - What It Is',
+  ],
   lore: [
     "lore/overwhere-ii-goody-brannoc",
     "lore/overwhere-ii-nala",
@@ -45,6 +49,6 @@ export const overwhereIi00013 = {
     "place/overwhere-ii-marsh-croft",
     "place/overwhere-ii-whitecombs",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T09:44:00.000Z",
 } as const satisfies StoryTurnPlayed
