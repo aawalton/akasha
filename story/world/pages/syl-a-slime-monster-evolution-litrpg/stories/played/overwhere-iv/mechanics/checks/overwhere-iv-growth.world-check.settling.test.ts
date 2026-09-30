@@ -44,6 +44,32 @@ test("a foe under half her level is worth one", () => {
   ).toHaveProperty("answered.grown.0.experience", 4)
 })
 
+test("a kill is priced at the level she holds when it falls", () => {
+  expect(
+    settled({
+      character: "nala",
+      gains: [{ kind: "experience", track: "race", level: 1, experience: 9, foes: [1, 1] }],
+    })
+  ).toHaveProperty("answered.grown.0", {
+    kind: "experience",
+    track: "race",
+    from: 1,
+    to: 2,
+    experience: 2,
+    next: 20,
+    points: 1,
+  })
+})
+
+test("a harmless pest gives one, whatever its level", () => {
+  expect(
+    settled({
+      character: "nala",
+      gains: [{ kind: "experience", track: "race", level: 3, experience: 0, pests: 5 }],
+    })
+  ).toHaveProperty("answered.grown.0.experience", 5)
+})
+
 test("reaching a tenth level earns an extra point", () => {
   expect(
     settled({

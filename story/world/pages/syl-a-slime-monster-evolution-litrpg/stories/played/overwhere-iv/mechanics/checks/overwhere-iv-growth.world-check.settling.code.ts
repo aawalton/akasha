@@ -16,6 +16,7 @@ const EXPERIENCE = z.object({
   level: z.number().int().min(1),
   experience: z.number().int().min(0),
   foes: z.array(z.number().int().min(1)).default([]),
+  pests: z.number().int().min(0).default(0),
   deeds: z.number().int().min(0).default(0),
 })
 
@@ -67,15 +68,19 @@ function worth(foe: number, level: number): number {
 }
 
 function grownExperience(gain: z.infer<typeof EXPERIENCE>): ExperienceGrown {
-  const earned = gain.foes.reduce((sum, foe) => sum + worth(foe, gain.level), 0) + gain.deeds
-  let experience = gain.experience + earned
+  let experience = gain.experience
   let level = gain.level
   let points = 0
-  while (experience >= needFor(level)) {
-    experience -= needFor(level)
-    level += 1
-    points += POINTS_PER_LEVEL + (level % EXTRA_POINT_EVERY === 0 ? 1 : 0)
+  const rise = (earned: number): undefined => {
+    experience += earned
+    while (experience >= needFor(level)) {
+      experience -= needFor(level)
+      level += 1
+      points += POINTS_PER_LEVEL + (level % EXTRA_POINT_EVERY === 0 ? 1 : 0)
+    }
   }
+  for (const foe of gain.foes) rise(worth(foe, level))
+  rise(gain.pests + gain.deeds)
   return {
     kind: "experience",
     track: gain.track,
