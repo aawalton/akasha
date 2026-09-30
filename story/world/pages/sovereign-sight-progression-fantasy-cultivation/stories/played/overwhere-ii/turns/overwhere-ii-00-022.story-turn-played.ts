@@ -10,13 +10,13 @@ export const overwhereIi00022 = {
   position: 22,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“It’s called Undertow, but I’m still learning what it does. You could help me with that once I’m done with the urgent needs.” I turn to Goody. “One more person, right? Then a nap, then the ewes.”",
   beats: [
     '"It\'s called Undertow," Nala tells Anselm, "but I\'m still learning what it does."',
     '"You could help me with that, once I\'m done with the urgent needs."',
-    'Anselm\'s lips move on the name. "Undertow." He frowns. "No canticle I know names that Talent."',
+    'Anselm\'s lips move on the name. "Undertow." He frowns. "I know no canticle that names that Talent."',
     'Then he smiles, quick and shy. "But I know the Keepers\' teaching. Talents, Depths, Descent. Gladly."',
     'Nala turns to Goody. "One more person, right? Then a nap, then the ewes."',
     "Goody snorts. \"Pim Sallow. South end, by the carters' yard. Mind her tongue, it's sharp.\"",
