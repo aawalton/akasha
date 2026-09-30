@@ -7,7 +7,12 @@ export const overwhereIv00012 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 12,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Yeah, it was the strangest thing. Any idea why they would do that? I know I’m pretty, but I’ve never had men throw their lives at my feet like that.” I say with a laugh.",
+  lore: [
+    "lore/overwhere-iv-brenna-holt",
+    "lore/overwhere-iv-slimes-and-cores",
+    "place/overwhere-iv-millbrook-gatehouse",
+  ],
 } as const satisfies StoryTurnPlayed
