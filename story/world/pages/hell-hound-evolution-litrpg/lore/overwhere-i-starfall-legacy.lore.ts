@@ -170,7 +170,7 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "Surge wind-speed is still the fastest over a short dash; a weave is slower but lasts its minute.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "The 30-yard limit binds held workings only; a thrown or loosed working flies on alone and fades.",
