@@ -4,10 +4,13 @@ export const overwhereI00009 = {
   id: "01a0f173-d403-7760-ac33-90db1502a161",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-009",
+  ownLength: 182,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 9,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Hello there!  I seem to have gotten a bit lost. Would you mind telling me where we are precisely?”",
   beats: [
@@ -27,6 +30,7 @@ export const overwhereI00009 = {
   ],
   lore: [
     "lore/overwhere-i-hessa-vane",
+    "lore/overwhere-i-nala",
     "lore/overwhere-i-the-western-march",
     "lore/overwhere-i-tobin-ashdown",
     "place/overwhere-i-fenwatch",
