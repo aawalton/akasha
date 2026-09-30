@@ -379,6 +379,10 @@ export const overwhereIiiBrannaghTull = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "Brannagh could brew mana draughts herself; she never has, for want of jackalope antler.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
