@@ -157,7 +157,7 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "The Keepers' practice: slow the Current and press Water out into the skin, one limb at a time.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The Keepers refine skin whole before any muscle, an hour at dawn and an hour at dusk.",
