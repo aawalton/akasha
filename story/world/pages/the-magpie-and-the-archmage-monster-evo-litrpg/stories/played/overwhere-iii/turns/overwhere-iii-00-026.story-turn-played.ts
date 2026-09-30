@@ -4,7 +4,7 @@ export const overwhereIii00026 = {
   id: "01a0f35c-fa55-7dff-9534-edecda39c524",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-026",
-  ownLength: 139,
+  ownLength: 142,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 26,
@@ -15,7 +15,7 @@ export const overwhereIii00026 = {
     "character-other/overwhere-iii-garrick-dole",
     "character-other/overwhere-iii-ivy-marsh",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action: "“I did, but I’m still learning. Did I do something wrong?”",
   beats: [
     '"I did," Nala says, "but I\'m still learning. Did I do something wrong?"',
