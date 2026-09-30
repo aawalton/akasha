@@ -4,10 +4,13 @@ export const overwhereI00036 = {
   id: "01a0f38e-2efd-7d30-b2bd-c41d61614ef2",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-036",
+  ownLength: 140,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 36,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action: "I attune water and earth again, trying to find more lurkers like I did the first one.",
   beats: [
     "Nala kneels by the first slide and binds earth and water again: the heavy, wet pull.",
@@ -19,6 +22,10 @@ export const overwhereI00036 = {
     "As the ripple touches it, the weight goes rigid and stays that way. It is awake, and it has frozen.",
     "Past fifty yards the ripple blurs out into wet ground and nothing she can tell apart.",
   ],
-  lore: ["lore/overwhere-i-greyfen-beasts", "lore/overwhere-i-starfall-legacy"],
+  lore: [
+    "lore/overwhere-i-greyfen-beasts",
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-starfall-legacy",
+  ],
   endsAt: "2026-09-30T10:59:00.000Z",
 } as const satisfies StoryTurnPlayed
