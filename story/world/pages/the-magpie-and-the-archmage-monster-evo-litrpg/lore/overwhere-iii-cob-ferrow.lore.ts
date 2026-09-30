@@ -30,7 +30,12 @@ export const overwhereIiiCobFerrow = {
     },
     {
       fact: "Cob slouches into Brannagh's just after the noon bell, sleeve rolled, trying to look bored.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-cob-ferrow",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
     },
   ],
 } as const satisfies Lore
