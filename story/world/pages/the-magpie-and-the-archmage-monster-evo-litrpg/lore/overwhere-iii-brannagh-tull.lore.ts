@@ -42,7 +42,11 @@ export const overwhereIiiBrannaghTull = {
     },
     {
       fact: "She checks every root cut, and pays a copper for each clean frostcap.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Seeing a fresh bite closed to a clean seam, she asks sharply who closed it.",
