@@ -195,6 +195,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "Through a spyglass she can rank the wolves by size, but not read their levels.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ghost-Eye lies apart on a raised root mound; the watcher sits on a fallen trunk at the NE point.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
