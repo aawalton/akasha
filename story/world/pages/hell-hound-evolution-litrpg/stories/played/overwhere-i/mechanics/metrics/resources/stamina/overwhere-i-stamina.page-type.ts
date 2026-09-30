@@ -9,6 +9,14 @@ export const overwhereIStamina = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
+      statement: "Most stamina is three for each point of Vigor, and three more.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rise in most health, mana or stamina fills the new share at once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A sprint, a climb, a fight or a heavy lift spends stamina: one to five a scene.",
     },
     {
