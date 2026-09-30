@@ -292,6 +292,18 @@ export const overwhereIiNala = {
       fact: "A thread that is not only rot drags the sick one's own warm life up her arm into her well.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Water she drew from a body stays apart and warm in her well a while, and goes back most easily.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her own Water given to another warms and steadies them, and holds rot back for days.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Pushed too hard, her Water floods a body like cold brine, and it chokes and fevers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
