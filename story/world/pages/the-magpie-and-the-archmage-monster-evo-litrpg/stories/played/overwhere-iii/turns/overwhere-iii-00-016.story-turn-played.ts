@@ -4,13 +4,13 @@ export const overwhereIii00016 = {
   id: "01a0f1ef-3a42-715d-8311-cd4705080ce1",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-016",
-  ownLength: 151,
+  ownLength: 131,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 16,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "I finish harvesting the four in this cluster, then follow the currents to find two more to finish off.",
   beats: [
