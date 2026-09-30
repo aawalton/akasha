@@ -120,6 +120,22 @@ export const overwhereIvIlsaCrane = {
       ],
     },
     {
+      fact: "Ilsa's report of an unknown color would go east with the next carter to Aubrin.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Garrett Pell's cart is the next bound for Aubrin, leaving in three days.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ilsa sees a strange color as the making of the Millbrook hall, and wants Nala kept on here.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Asked well, Ilsa could be talked into writing the report vaguely, or holding it a while.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Ilsa Crane keeps the Millbrook Adventurers' Hall.",
       knowers: [
         "lore-disclosure/game-master",
