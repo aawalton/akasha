@@ -7,6 +7,5 @@ export const overwhereIiiNalaCanvasKnapsack = {
   title: "Canvas Knapsack",
   story: "story-played/overwhere-iii",
   character: "character-player/overwhere-iii-nala",
-  description:
-    "Bet's old patched canvas knapsack, bought for four copper, with Brannagh's clay cup for seed stones in it.",
+  description: "A worn, patched canvas knapsack worn on the back.",
 } as const satisfies StoryItem
