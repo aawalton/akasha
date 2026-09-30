@@ -115,6 +115,10 @@ export const overwhereITheGreyfen = {
       fact: "Jory has eight traps along sixty yards of this channel; three are still whole.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Each of Jory's traps is tied to a peeled willow stake on the bank, pale and easy to see.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
