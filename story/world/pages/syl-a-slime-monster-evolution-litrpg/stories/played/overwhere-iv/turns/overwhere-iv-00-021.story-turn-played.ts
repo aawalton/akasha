@@ -28,6 +28,7 @@ export const overwhereIv00021 = {
     "She reaches under the counter and sets down a pair of old leather gloves, worn soft, a little big.",
     '"From the hall\'s box of things left behind. Wear them, the jelly stings. And mind the wolves."',
   ],
-  lore: ["lore/overwhere-iv-ilsa-crane", "lore/overwhere-iv-nala"],
+  lore: ["lore/overwhere-iv-ilsa-crane", "lore/overwhere-iv-nala", "place/overwhere-iv-hobb-farm"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T09:40:00.000Z",
 } as const satisfies StoryTurnPlayed
