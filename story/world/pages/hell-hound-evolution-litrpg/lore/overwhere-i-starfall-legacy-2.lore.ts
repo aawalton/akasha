@@ -12,5 +12,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "The earth-and-air ripple is a Weave use, easy to read in a den, reaching about thirty yards.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The earth-and-air ripple works in dry ground and wet alike.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
