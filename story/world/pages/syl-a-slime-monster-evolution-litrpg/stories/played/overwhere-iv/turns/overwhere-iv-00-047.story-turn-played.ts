@@ -7,7 +7,8 @@ export const overwhereIv00047 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 47,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“I’ve been working on a specialized armor piercing spear skill for a long time and I guess it’s finally paying off. Practicing pushing past armor turned out to be just what I needed to learn to strike from a distance. Useless without a spear though.”",
+  lore: ["lore/overwhere-iv-marta-hesk"],
 } as const satisfies StoryTurnPlayed
