@@ -35,5 +35,6 @@ export const overwhereIi00017 = {
     "And now she knows how fine those deep threads are, and how easily the pull drinks what it touches.",
   ],
   lore: ["lore/overwhere-ii-nala"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-29T10:29:00.000Z",
 } as const satisfies StoryTurnPlayed
