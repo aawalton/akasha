@@ -10,7 +10,7 @@ export const overwhereIii00019 = {
   position: 19,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Yes. Is there something blighted around I could test with? I’d like to see if I can unlock Purify without buying it from the skill store.”",
   beats: [
@@ -18,7 +18,7 @@ export const overwhereIii00019 = {
     "She wants to see if she can unlock Purify herself, without buying it from the skill shop.",
     "Marda looks at her a long moment. \"Never heard of anyone doing that. Doesn't mean it can't be.\"",
     "She reaches under the desk, unlocks a lead-lined box, and lifts something out with iron tongs.",
-    "She sets it on the bare desk between them: a stone the size of a walnut, black as pitch.",
+    "She sets it on the desk beside her cider jug: a stone the size of a walnut, black as pitch.",
     "To her sight it has no glow at all, only a dark smear, turned in on itself.",
     '"From the stag," Marda says. "Don\'t touch it bare-handed. Go on, then."',
     "Nala looks for white-gold in the currents. Inside the post there's only thin blue and yellow.",
@@ -33,7 +33,6 @@ export const overwhereIii00019 = {
     "A blue box opens.",
     "[New skill acquired – Cleansing Weave.]",
     "[Cleansing Weave – At [Basic] level, draw holy current through blight to unpick it.]",
-    "Not Purify. Something else, her own.",
   ],
   issues: [
     "\"It isn't Purify. It's something else. Something of your own.\" - Leave It Open",
