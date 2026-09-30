@@ -145,5 +145,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Spotting a flanker in the reeds before it strikes is a hard act; a ripple would feel it at 50 yards.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "It sends Seven north and Eight south through the reeds, wide of her, to close from both flanks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
