@@ -30,7 +30,7 @@ export const overwhereIFenwatch2 = {
     },
     {
       fact: "At 17:45 on day 3 the Stag holds Garrick, Agathe, Osric and a score of villagers at supper.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Lore
