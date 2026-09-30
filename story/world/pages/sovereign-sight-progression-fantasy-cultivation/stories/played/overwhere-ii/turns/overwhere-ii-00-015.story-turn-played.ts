@@ -4,10 +4,13 @@ export const overwhereIi00015 = {
   id: "01a0f1c9-4808-734e-b2a0-6e3527b3eb4a",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-015",
+  ownLength: 340,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 15,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action: "“Yes, if you’ll take me.”",
   beats: [
     '"Yes, if you\'ll take me."',
@@ -31,6 +34,10 @@ export const overwhereIi00015 = {
     "Behind her, Horne's voice is low and hard. \"If you hurt her, Talented, I'll see you hang for it.\"",
     'The woman by the bed looks up at last, eyes red and raw. "Please," she whispers. "Please."',
   ],
-  lore: ["lore/overwhere-ii-wendle-ford-folk", "place/overwhere-ii-wendle-ford"],
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-wendle-ford-folk",
+    "place/overwhere-ii-wendle-ford",
+  ],
   endsAt: "2026-09-29T09:58:00.000Z",
 } as const satisfies StoryTurnPlayed
