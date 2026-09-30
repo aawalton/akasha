@@ -19,7 +19,7 @@ export const overwhereIii00043 = {
     "character-other/overwhere-iii-edda-crane",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I go and get dinner and go to sleep, then meet with the guards for training in the morning, the at Brannagh’s after to heal and ask him if he has any books on healing she could read.",
   beats: [
@@ -66,6 +66,11 @@ export const overwhereIii00043 = {
     "place/overwhere-iii-merrowgate",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/inventory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/memory",
+    "story-recorder/inventory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-02T11:00:00.000Z",
 } as const satisfies StoryTurnPlayed

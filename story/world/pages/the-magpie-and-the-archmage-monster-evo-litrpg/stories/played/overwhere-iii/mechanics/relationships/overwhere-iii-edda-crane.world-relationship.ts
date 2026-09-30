@@ -7,6 +7,6 @@ export const overwhereIiiEddaCrane = {
   title: "Nala and Edda Crane",
   world: "world/the-magpie-and-the-archmage-monster-evo-litrpg",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-edda-crane"],
-  relationshipPoints: 0,
+  relationshipPoints: 3,
   unrevealed: true,
 } as const satisfies WorldRelationship
