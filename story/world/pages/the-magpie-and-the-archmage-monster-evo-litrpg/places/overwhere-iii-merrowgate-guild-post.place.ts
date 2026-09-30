@@ -216,7 +216,11 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "Marda lends the post's books to ringed adventurers to read at the side bench, never to take away.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "The beast guide lists Wrenmark beasts by level, with weak spots, bounties and which parts sell.",
