@@ -192,5 +192,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Wading upright into the open marsh she is seen at once; 100 yards takes her about two minutes.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A Drakewolf swimming the channel moves slow and straight, so it takes no running-mark penalty.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
