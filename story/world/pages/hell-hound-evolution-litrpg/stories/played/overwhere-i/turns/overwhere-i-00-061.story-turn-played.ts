@@ -7,7 +7,12 @@ export const overwhereI00061 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 61,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“One more question first. Could I turn it into something to improve my spell casting? Gold I have plenty, but an arcane focus would help quite a bit more.”",
+  lore: [
+    "lore/overwhere-i-greyfen-beasts-2",
+    "lore/overwhere-i-osric-fenn",
+    "place/overwhere-i-wendlow",
+  ],
 } as const satisfies StoryTurnPlayed
