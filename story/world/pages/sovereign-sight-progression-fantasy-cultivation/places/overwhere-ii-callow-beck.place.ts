@@ -42,7 +42,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "Ebba gives walkers a round of goat's cheese and warns them to be down off the mountain by dusk.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Place
