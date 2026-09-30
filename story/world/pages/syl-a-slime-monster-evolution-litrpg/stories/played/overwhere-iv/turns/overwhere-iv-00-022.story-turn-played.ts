@@ -14,7 +14,7 @@ export const overwhereIv00022 = {
     "character-other/overwhere-iv-ilsa-crane",
     "character-other/overwhere-iv-brenna-holt",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Perfect, I’ll work on that today.” I go and check if I’m needed for any more of the guard training first and complete that if so, then go clear slimes at the Hobb farm.",
   beats: [
@@ -43,11 +43,14 @@ export const overwhereIv00022 = {
     "Then Bran goes stiff at the orchard's end. Hackles up. He barks, hard, toward the far field wall.",
     'Hobb spits. "Wolves again. Took two of my sheep this week, out of the field by the trees."',
   ],
+  issues: [
+    '"Forty cores, clinking in her pockets" - she already pockets seven cores from the common, so 47',
+  ],
   lore: [
     "lore/overwhere-iv-nala",
     "place/overwhere-iv-hobb-farm",
     "place/overwhere-iv-millbrook-gatehouse",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T18:10:00.000Z",
 } as const satisfies StoryTurnPlayed
