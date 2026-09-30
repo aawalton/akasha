@@ -247,5 +247,9 @@ export const overwhereIiWendleFordFolk = {
       fact: "Reeve Oakes will ask Nala to stay in the valley, and offer her the empty watch cottage by the ford.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Oakes sends Dunn and Aldo Cray with the watch cart to Marsh Croft; they are back by noon.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
