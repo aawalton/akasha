@@ -245,5 +245,6 @@ export const overwhereIvMillbrookAdventurersHall = {
       fact: "The flare fills the hall a heartbeat, and the crack runs on with a sound like river ice.",
       knowers: ["lore-disclosure/game-master"],
     },
+    { fact: "No other color shows beside Nala's flare.", knowers: ["lore-disclosure/game-master"] },
   ],
 } as const satisfies Place
