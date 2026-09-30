@@ -27,6 +27,11 @@ export const overwhereIv00047 = {
     '"Two of scripture, a herbal, a vale chronicle, a primer, a road book, and the hero tales."',
     'She takes a key from her belt and waits. "Which will you sit with, child?"',
   ],
+  issues: [
+    '"She takes a key from her belt and waits." - No Prompt',
+    '"She takes a key from her belt and waits." - Leave It Open',
+  ],
   lore: ["lore/overwhere-iv-marta-hesk", "lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-02T12:16:00.000Z",
 } as const satisfies StoryTurnPlayed
