@@ -108,6 +108,15 @@ export const overwhereIvGrowth = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Hours of steady practice with a skill count as one use, however many casts they hold.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Practice counts only once a day for each skill.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "From LV 1 a skill takes 2, 3, 3, 4, 4, 5, 6, 8 and 10 uses for each next level.",
     },
     {
