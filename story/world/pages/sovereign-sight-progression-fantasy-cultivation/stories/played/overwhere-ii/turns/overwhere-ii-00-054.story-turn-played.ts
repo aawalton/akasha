@@ -4,10 +4,13 @@ export const overwhereIi00054 = {
   id: "01a0f46a-7af9-7a05-b4fa-ee8c034d5c4b",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-054",
+  ownLength: 430,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 54,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I get supplies for my scouting this time, food and water, then work my way up to where I need to be",
   beats: [
@@ -37,6 +40,11 @@ export const overwhereIi00054 = {
     "She reckons five hours back down to the Ford, and the day is already half gone.",
     "The split yawns in front of her, dark and breathing cold, and the pull from below goes on.",
   ],
-  lore: ["place/overwhere-ii-wendle-ford", "place/overwhere-ii-whitecombs"],
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "place/overwhere-ii-wendle-ford",
+    "place/overwhere-ii-whitecombs",
+  ],
   endsAt: "2026-10-02T13:30:00.000Z",
 } as const satisfies StoryTurnPlayed
