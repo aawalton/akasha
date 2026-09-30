@@ -4,10 +4,13 @@ export const overwhereIv00032 = {
   id: "01a0f3f8-2636-70d4-a158-1dfaaa2fb120",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-032",
+  ownLength: 151,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 32,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action: "I watch the slinger and when it launches, I drop to the ground",
   beats: [
     "Nala watches the slinger, twenty paces off atop the oak. Not its face. Its arm.",
@@ -22,6 +25,6 @@ export const overwhereIv00032 = {
     "Nala, flat on the rim, sees its fingers find a fresh stone and fit it to the sling.",
     "The sling starts to turn again, slow, then faster.",
   ],
-  lore: ["place/overwhere-iv-the-tangle"],
+  lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2", "place/overwhere-iv-the-tangle"],
   endsAt: "2026-10-01T13:14:00.000Z",
 } as const satisfies StoryTurnPlayed
