@@ -280,6 +280,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "The crescent's wings run wider, so the nearest three reach her some seconds before the outer three.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Against a slug, a Drakewolf's scaled hide wards only 1, the slug piercing one of its 2.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
