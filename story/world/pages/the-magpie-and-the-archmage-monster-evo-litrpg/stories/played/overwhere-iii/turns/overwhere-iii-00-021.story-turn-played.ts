@@ -10,4 +10,5 @@ export const overwhereIii00021 = {
   stepStatus: "step-status/game-master",
   action: "I go back out to gather another 20 frostcaps, since I have the afternoon still free.",
   lore: ["place/overwhere-iii-merrowgate-guild-post", "place/overwhere-iii-wrenwood"],
+  endsAt: "2026-09-30T15:08:00.000Z",
 } as const satisfies StoryTurnPlayed
