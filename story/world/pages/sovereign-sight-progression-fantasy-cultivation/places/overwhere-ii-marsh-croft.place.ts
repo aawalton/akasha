@@ -52,5 +52,9 @@ export const overwhereIiMarshCroft = {
       fact: "Two of Garth's ewes took greymaw scratches at the fold and have gone lame and sour with rot.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Garth keeps a basket of dry gorse and split ash by the hearth to build the fire up fast.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
