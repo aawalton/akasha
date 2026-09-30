@@ -239,6 +239,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "Six wolves, Levels 10 to 14, swim the channel and fan into a crescent to herd her toward deep water.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Through knee-deep marsh the six close 350 yards in about a minute and a half.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
