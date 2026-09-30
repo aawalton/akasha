@@ -4,6 +4,7 @@ export const overwhereIi00007 = {
   id: "01a0f178-4c56-71ea-8f13-5a38f5a434c8",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-007",
+  cover: "image/image-39f53e2c65af71bf",
   ownLength: 236,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
@@ -37,5 +38,6 @@ export const overwhereIi00007 = {
     "place/overwhere-ii-wendlemere",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/picture"],
   endsAt: "2026-09-29T07:37:00.000Z",
 } as const satisfies StoryTurnPlayed
