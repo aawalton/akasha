@@ -4,13 +4,14 @@ export const overwhereIi00015 = {
   id: "01a0f1c9-4808-734e-b2a0-6e3527b3eb4a",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-015",
+  cover: "image/image-fbf3e660b258eed8",
   ownLength: 331,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 15,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“Yes, if you’ll take me.”",
   beats: [
     '"Yes, if you\'ll take me."',
@@ -44,6 +45,6 @@ export const overwhereIi00015 = {
     "place/overwhere-ii-wendle-ford",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T09:58:00.000Z",
 } as const satisfies StoryTurnPlayed
