@@ -191,6 +191,10 @@ export const overwhereIFenwatch = {
       fact: "Tobin has talked of nothing but Nala all afternoon, and it makes his mother wary of her.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Aldo Brack is a stooped, sour man of fifty with stained brown hands, who smells of his pits.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
