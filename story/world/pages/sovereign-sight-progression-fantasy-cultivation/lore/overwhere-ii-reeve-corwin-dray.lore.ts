@@ -219,5 +219,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Dray has never gone past the cairn to Hollow Tarn; he knows it only as a place shepherds shun.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Dray paid Nala eighteen silver for nine greymaws, the watch's silver bar and a bar for the hunt.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
