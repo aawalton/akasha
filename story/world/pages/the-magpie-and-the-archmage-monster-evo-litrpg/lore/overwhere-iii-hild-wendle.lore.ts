@@ -77,5 +77,9 @@ export const overwhereIiiHildWendle = {
       fact: "Hild tells everyone she meets; by tomorrow noon the whole Wool Square knows of the free mending.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Joss, gruff, says a free wagon ride anywhere on the north road is Nala's for the asking.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
