@@ -193,7 +193,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "A whole Aberrant chamber can be filled with a Talent's own Water, and holds it for years.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The white-eye's cracked chamber would leak away any Water put into it.",
