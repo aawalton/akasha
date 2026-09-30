@@ -193,7 +193,7 @@ export const overwhereIiiMerrowgate = {
     },
     {
       fact: "Brannagh's shop is low and dim, hung with drying herbs, and smells of mint and woodsmoke.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",
