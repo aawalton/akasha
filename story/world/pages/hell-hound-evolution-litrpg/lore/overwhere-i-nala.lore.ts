@@ -311,7 +311,7 @@ export const overwhereINala = {
     },
     {
       fact: "A spinning water disc held against a beast saws through hide and bone like a blade.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Lore

@@ -133,11 +133,15 @@ export const overwhereIGreyfenBeasts = {
     },
     {
       fact: "An old Grubboar's head alone weighs about as much as a grown man.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Taking a Grubboar's head off with a water disc is a moderate act, even with the head under water.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala sawed off the old boar's head and dragged it a few hundred yards into the alder carr.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
