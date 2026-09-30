@@ -30,7 +30,7 @@ export const overwhereIiiGarrickDole = {
     },
     {
       fact: "The wolf's blight sits deeper than the boar's, and the first pull on it bites hardest.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Garrick lets anyone Brannagh brings tend him, and thanks them slowly and gravely.",
