@@ -10,7 +10,7 @@ export const overwhereIv00023 = {
   position: 23,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“How many? If it’s less than three I think I could take them.”",
   beats: [
     '"How many?" Nala asks. "If it\'s less than three, I think I could take them."',
@@ -25,6 +25,6 @@ export const overwhereIv00023 = {
     'Pim goes red to the ears, eyes on the far wall. "Didn\'t think it mattered. It was about now."',
   ],
   lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-hobb-farm"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T18:12:00.000Z",
 } as const satisfies StoryTurnPlayed
