@@ -174,7 +174,7 @@ export const overwhereIiiBrannaghTull = {
     },
     {
       fact: "She brews no mana draughts herself; the few she has come from Thornmere.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",
