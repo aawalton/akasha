@@ -34,7 +34,7 @@ export const overwhereIiiCleansingWeave = {
     },
     {
       fact: "Each pull sends a cold ache up the thread into her arm, and costs her 1 health.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
 } as const satisfies Lore
