@@ -43,5 +43,6 @@ export const overwhereIi00038 = {
     "place/overwhere-ii-tarn-screes",
     "place/overwhere-ii-tarrant-smithy",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T11:15:00.000Z",
 } as const satisfies StoryTurnPlayed
