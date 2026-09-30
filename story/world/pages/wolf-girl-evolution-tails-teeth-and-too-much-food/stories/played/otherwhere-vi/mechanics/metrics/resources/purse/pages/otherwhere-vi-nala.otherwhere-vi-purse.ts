@@ -8,5 +8,6 @@ export const otherwhereViNala = {
   value: 0,
   minValue: 0,
   history: "jsonl",
+  displayOrder: 4,
   unrevealed: true,
 } as const satisfies OtherwhereViPurse

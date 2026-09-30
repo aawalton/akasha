@@ -9,4 +9,5 @@ export const otherwhereViNala = {
   minValue: 0,
   maxValue: 5,
   history: "jsonl",
+  displayOrder: 2,
 } as const satisfies OtherwhereViMp
