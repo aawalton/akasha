@@ -44,5 +44,6 @@ export const overwhereI00008 = {
   ],
   lore: ["lore/overwhere-i-hessa-vane", "lore/overwhere-i-nala", "place/overwhere-i-greyfen-ford"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2026-09-29T11:05:00.000Z",
 } as const satisfies StoryTurnPlayed
