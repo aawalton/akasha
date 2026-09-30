@@ -4,6 +4,7 @@ export const overwhereIii00042 = {
   id: "01a0f415-b698-77ff-9653-492ddaba6d28",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-042",
+  cover: "image/image-39093332f99774b4",
   ownLength: 102,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -14,7 +15,7 @@ export const overwhereIii00042 = {
     "character-other/overwhere-iii-hild-wendle",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“I’m sorry for the scar, but that’s the best I can do with the mana I have. If you catch me tomorrow, I may be able to do a bit better, free of charge.”",
   beats: [
@@ -34,6 +35,11 @@ export const overwhereIii00042 = {
     "lore/overwhere-iii-nala-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-01T17:48:00.000Z",
 } as const satisfies StoryTurnPlayed
