@@ -26,6 +26,14 @@ export const overwhereIvGrowth = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A kill is priced at the level she holds when it falls, not at the turn's start.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A harmless pest that makes no fight gives one, whatever its level.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A deed of note gives five to twenty: a quest done, a town saved, a first discovery.",
     },
