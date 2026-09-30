@@ -10,7 +10,7 @@ export const overwhereIii00016 = {
   position: 16,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I finish harvesting the four in this cluster, then follow the currents to find two more to finish off.",
   beats: [
@@ -25,8 +25,11 @@ export const overwhereIii00016 = {
     "She cuts two of the glowing ones at the root and leaves the rest.",
     "Twenty frostcaps, all whole, wrapped in her shirt against the cold.",
   ],
-  issues: ['"wrapped in the front of her shirt" - What It Is'],
+  issues: [
+    '"wrapped in the front of her shirt" - What It Is',
+    '"Twenty frostcaps, every one whole, wrapped in your shirt" - Leave It Open',
+  ],
   lore: ["lore/overwhere-iii-nala", "place/overwhere-iii-wrenwood"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-30T10:23:00.000Z",
 } as const satisfies StoryTurnPlayed
