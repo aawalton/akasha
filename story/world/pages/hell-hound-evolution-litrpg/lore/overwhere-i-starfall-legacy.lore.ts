@@ -252,5 +252,9 @@ export const overwhereIStarfallLegacy = {
       fact: "Starfall Weave rose to level 3 from slug practice ending about 15:48 on day 2, adding +3 Attunement.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "A minute's earth working shapes about six grooved slugs.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
