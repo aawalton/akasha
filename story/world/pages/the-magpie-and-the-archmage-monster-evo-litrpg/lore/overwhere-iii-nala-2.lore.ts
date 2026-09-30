@@ -195,5 +195,9 @@ export const overwhereIiiNala2 = {
       fact: "After her second watch drill Nala is sore to the bone, and glad of it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala hasn't eaten since last night; by dark on her fourth day her stomach growls.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
