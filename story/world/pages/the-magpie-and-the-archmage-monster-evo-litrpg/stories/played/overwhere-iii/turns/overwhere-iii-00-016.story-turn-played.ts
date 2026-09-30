@@ -7,7 +7,8 @@ export const overwhereIii00016 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 16,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I finish harvesting the four in this cluster, then follow the currents to find two more to finish off.",
+  lore: ["place/overwhere-iii-wrenwood"],
 } as const satisfies StoryTurnPlayed
