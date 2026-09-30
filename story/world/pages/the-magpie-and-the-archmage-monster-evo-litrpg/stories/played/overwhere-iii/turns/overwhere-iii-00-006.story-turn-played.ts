@@ -10,4 +10,5 @@ export const overwhereIii00006 = {
   stepStatus: "step-status/game-master",
   action: "I follow him in",
   lore: ["lore/overwhere-iii-bet-harrow", "place/overwhere-iii-crook-and-candle"],
+  endsAt: "2026-09-29T17:50:00.000Z",
 } as const satisfies StoryTurnPlayed
