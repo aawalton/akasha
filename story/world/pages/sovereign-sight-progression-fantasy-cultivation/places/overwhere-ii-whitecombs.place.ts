@@ -91,6 +91,10 @@ export const overwhereIiWhitecombs = {
       fact: "The split cliff and fled den are sure word: the midwinter quakes shook the greymaws out.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Warped goats by the Callow pool have not caught Nala's scent; the wind blows from them to her.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
