@@ -163,7 +163,7 @@ export type Reach = {
   readonly readyPushed: ReadyPushing
 }
 
-export type Paged = {
+type Paged = {
   readonly at: string
   readonly pageTypeSlug: string
   readonly slug: string
