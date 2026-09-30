@@ -10,4 +10,5 @@ export const overwhereIi00051 = {
   stepStatus: "step-status/game-master",
   action: "If the goats are aggressive, I kill them and drag the corpses back down to the woman.",
   lore: ["place/overwhere-ii-callow-beck", "place/overwhere-ii-whitecombs"],
+  endsAt: "2026-10-01T16:00:00.000Z",
 } as const satisfies StoryTurnPlayed
