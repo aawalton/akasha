@@ -57,5 +57,9 @@ export const overwhereIiiIvyMarsh = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
+    {
+      fact: "Once her hand is clean and closed, Ivy flexes it, swears, and laughs till she has to wipe her eyes.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-ivy-marsh"],
+    },
   ],
 } as const satisfies Lore
