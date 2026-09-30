@@ -10,7 +10,7 @@ export const overwhereIi00035 = {
   position: 35,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“You sure? I already bested the alpha with her pack. The stragglers are no threat to me on their own. I would hate to injure you without need.”",
   beats: [
@@ -33,6 +33,6 @@ export const overwhereIi00035 = {
     "lore/overwhere-ii-reeve-corwin-dray",
     "lore/overwhere-ii-undertow",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T08:24:00.000Z",
 } as const satisfies StoryTurnPlayed
