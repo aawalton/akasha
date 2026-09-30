@@ -10,7 +10,7 @@ export const overwhereIi00040 = {
   position: 40,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I pursue the final wolf and finish it off, then cut off the right ears for the five and report back to Dray, so he knows where to send a card for the carcasses.",
   beats: [
@@ -25,11 +25,11 @@ export const overwhereIi00040 = {
     "She pulls it onto her thrusting spear, and the point sinks through scale into its chamber.",
     "A gush of cold brine spills over the steps, and the last greymaw dies.",
     "As she pulls, the black water of the tarn ripples toward her, against the wind.",
+    "Her well leans harder toward the tarn as the ripples come.",
     "The ripples lap at the lowest step and still.",
     "Nala saws the dead greymaw's right ear off with the spear's edge.",
     "No bird calls; nothing moves on the water; the air smells faintly of the sea.",
     "The worn steps go down into the tarn and on, out of sight, into the black.",
-    "Her well still leans toward the water, patient and insistent.",
   ],
   issues: ['"Your well still leans toward the water, patient and insistent." - No Prompt'],
   lore: [
