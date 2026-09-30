@@ -52,6 +52,10 @@ export const overwhereIiHollowTarn = {
       fact: "When Nala draws or pushes beside the tarn, its water ripples toward her against the wind.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "From Hollow Tarn down to Wendle Ford is some three hours on foot.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
