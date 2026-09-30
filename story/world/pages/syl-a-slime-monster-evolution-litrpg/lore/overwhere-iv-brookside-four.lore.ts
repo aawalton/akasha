@@ -162,15 +162,34 @@ export const overwhereIvBrooksideFour = {
     },
     {
       fact: "Evenings the Four sup at the hall hearth till the night bell; Orla heals there for 2 copper.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Dace would want goblins at Hobb's for the Four, and ask Nala how many and how big.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "Merrit would scoff that a watch recruit with a practice spear drove off two goblins.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
+    {
+      fact: "The broad young man of the Four is Dace, who says the Four take goblin work in Millbrook.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
   ],
 } as const satisfies Lore

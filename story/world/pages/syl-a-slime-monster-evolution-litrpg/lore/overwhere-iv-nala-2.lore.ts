@@ -12,5 +12,29 @@ export const overwhereIvNala2 = {
       fact: "Nala's Spatial Sense feels a body's weight shift just before it moves.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "After the goblin fight a blue window offered Nala a class: Warrior, Mage or Spellblade.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Nala let the neck-cut knife goblin crawl off into the Tangle, past the edge of her sense.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Ilsa paid Nala 141 copper for forty-seven cores, less the silver Nala owed for her tag.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
+    },
+    {
+      fact: "Orla healed the goblin cut on Nala's arm at the hall hearth for two copper.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
   ],
 } as const satisfies Lore

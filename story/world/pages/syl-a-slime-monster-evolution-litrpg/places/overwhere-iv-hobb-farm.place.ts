@@ -171,22 +171,21 @@ export const overwhereIvHobbFarm = {
       fact: "A goblin has a small dull core under its breastbone, worth 8 copper at the hall.",
       knowers: ["lore-disclosure/game-master"],
     },
-
     {
       fact: "The spear goblin's flint-tipped spear lies in the wet grass where it dropped it.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Told goblins took his sheep and were driven off hurt, Hobb pays Nala a silver of his own.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Hobb fears the goblins will be back with more, and wants the hall told tonight.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Hobb presses her to take stew first, and sends Pim with a lantern to the footbridge.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The spear goblin dropped its flint spear in the grass of the far field as it fled.",
@@ -203,6 +202,15 @@ export const overwhereIvHobbFarm = {
     {
       fact: "The neck-cut knife goblin, bleeding and slowing, is squeezing half through the low bramble gap.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Nala told Hobb, Pim and then Ilsa the sheep thieves were two goblins, driven off into the Tangle.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
   ],
 } as const satisfies Place

@@ -220,7 +220,11 @@ export const overwhereIvMillbrookAdventurersHall = {
     },
     {
       fact: "Tonight the Brookside Four sit by the hearth, back from the Tangle with two wolf pelts.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "The crystal shows fire as red, water as blue, earth as brown and air as pale green.",
@@ -311,7 +315,11 @@ export const overwhereIvMillbrookAdventurersHall = {
     },
     {
       fact: "Goblins raiding a farm are written in the ledger, and Ilsa pins a job for them by morning.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
   ],
 } as const satisfies Place
