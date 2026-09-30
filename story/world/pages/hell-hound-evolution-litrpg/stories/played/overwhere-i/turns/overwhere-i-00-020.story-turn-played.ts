@@ -4,13 +4,13 @@ export const overwhereI00020 = {
   id: "01a0f1f2-04b7-735f-8d87-1a3628d5c861",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-020",
-  ownLength: 334,
+  ownLength: 327,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 20,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "I drop the water orb for the sow, since I know I can reliably do two at once, and use the second as Air to speed up my movements, then kite the sows until the boar is dead, then repeat until either the sows give up, or all five are done.",
   beats: [
