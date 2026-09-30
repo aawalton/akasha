@@ -280,6 +280,10 @@ export const overwhereIiNala = {
       fact: "Below that step a vast, cold, patient dark presses up, and it frightens her a little.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Descent will not call to Nala until her skin and muscle are refined whole, some weeks of practice.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
