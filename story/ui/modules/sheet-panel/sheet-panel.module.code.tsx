@@ -94,8 +94,8 @@ function ScalarRows({
           key={key}
           className="flex items-baseline justify-between gap-2 border-surface-3 border-b border-dotted py-[2px]"
         >
-          <span className="min-w-0 break-words text-tertiary">{key}</span>
-          <b className="flex-none font-bold text-accent">{shownOf(value)}</b>
+          <span className="flex-none text-tertiary">{key}</span>
+          <b className="min-w-0 break-words text-right font-bold text-accent">{shownOf(value)}</b>
         </div>
       ))}
     </div>

@@ -65,6 +65,11 @@ export const sheetPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A value shown in words wraps within its own side, and its name beside it never does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The items tab opens on the character's purse, above what the character carries.",
     },
     {
