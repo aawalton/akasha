@@ -16,7 +16,7 @@ export const overwhereIv00015 = {
     "character-other/overwhere-iv-dell",
     "character-other/overwhere-iv-ilsa-crane",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“That’s fine. What are they going to do. Rob me again? For now, we might as well get to sleep. Training in the morning, right?”",
   beats: [
@@ -35,7 +35,6 @@ export const overwhereIv00015 = {
     '"That light. Keep it to yourself from here on. Don\'t show it off, not for anyone."',
     '"And stop Ilsa\'s letter if you can. Before it goes east."',
     'A pause. "I\'ve seen slimes follow someone before. Once. Years back."',
-    "Through the gap at the curtain's edge, she can see his grey shape. He waits, and does not go.",
   ],
   issues: [
     '"you can see his grey shape, still standing there" - No Prompt',
