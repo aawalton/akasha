@@ -10,7 +10,7 @@ export const overwhereIi00014 = {
   position: 14,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Who? I’m Nala, just a Talented passing through. Garth here asked if I could help his Wren,",
   beats: [
@@ -41,6 +41,6 @@ export const overwhereIi00014 = {
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-wendle-ford-folk",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T09:50:00.000Z",
 } as const satisfies StoryTurnPlayed
