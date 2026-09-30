@@ -10,7 +10,7 @@ export const overwhereI00046 = {
   position: 46,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I use my lenses to scout the camp again, counting to see if all of the wolves are accounted for and estimating distances.",
   beats: [
@@ -33,6 +33,6 @@ export const overwhereI00046 = {
     "lore/overwhere-i-the-greyfen-alpha",
     "place/overwhere-i-the-greyfen",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-01T12:36:00.000Z",
 } as const satisfies StoryTurnPlayed
