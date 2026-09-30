@@ -256,6 +256,10 @@ export const overwhereIFenwatch = {
       knowers: ["lore-disclosure/game-master"],
     },
     { fact: "A third of the drag costs her 2 stamina.", knowers: ["lore-disclosure/game-master"] },
+    {
+      fact: "Unaided, each extreme try at the boar that comes off moves him a few yards, for 1 stamina.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
