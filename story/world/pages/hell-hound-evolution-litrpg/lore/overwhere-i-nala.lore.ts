@@ -285,5 +285,9 @@ export const overwhereINala = {
       fact: "Her second level-up rush was bigger than the first, and the pressure in her chest seemed to deepen.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Fire worked into her body is a Surge working that lends strength; at Flare she hauls like two men.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
