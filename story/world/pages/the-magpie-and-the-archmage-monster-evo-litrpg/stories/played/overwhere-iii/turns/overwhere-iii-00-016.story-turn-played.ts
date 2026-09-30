@@ -11,4 +11,5 @@ export const overwhereIii00016 = {
   action:
     "I finish harvesting the four in this cluster, then follow the currents to find two more to finish off.",
   lore: ["place/overwhere-iii-wrenwood"],
+  endsAt: "2026-09-30T10:23:00.000Z",
 } as const satisfies StoryTurnPlayed
