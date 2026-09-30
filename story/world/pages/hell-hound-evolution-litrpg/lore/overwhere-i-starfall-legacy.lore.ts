@@ -188,5 +188,9 @@ export const overwhereIStarfallLegacy = {
       fact: "A rock bullet strikes at the legacy's full force as a blow, so hide wards it, not fire wards.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A rock bullet is easy within 30 yards, moderate to 60, and hard past that.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
