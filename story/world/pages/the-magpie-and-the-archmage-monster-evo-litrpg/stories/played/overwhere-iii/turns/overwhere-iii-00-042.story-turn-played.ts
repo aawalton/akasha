@@ -4,10 +4,17 @@ export const overwhereIii00042 = {
   id: "01a0f415-b698-77ff-9653-492ddaba6d28",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-042",
+  ownLength: 102,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 42,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-hild-wendle",
+    "character-other/overwhere-iii-brannagh-tull",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "“I’m sorry for the scar, but that’s the best I can do with the mana I have. If you catch me tomorrow, I may be able to do a bit better, free of charge.”",
   beats: [
@@ -23,6 +30,8 @@ export const overwhereIii00042 = {
     "lore/overwhere-iii-brannagh-tull",
     "lore/overwhere-iii-hild-wendle",
     "lore/overwhere-iii-mending-weave",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
   ],
   endsAt: "2026-10-01T17:48:00.000Z",
 } as const satisfies StoryTurnPlayed
