@@ -6,5 +6,5 @@ export const overwhereIiColdIronBoarSpear = {
   slug: "overwhere-ii-cold-iron-boar-spear",
   title: "Cold-Iron Boar Spear",
   world: "world/sovereign-sight-progression-fantasy-cultivation",
-  description: "An ash boar spear with a dark, dull cold-iron head and a crossbar below the blade.",
+  description: "A long boar spear whose dark, dull head has a crossbar below the blade.",
 } as const satisfies WorldItem
