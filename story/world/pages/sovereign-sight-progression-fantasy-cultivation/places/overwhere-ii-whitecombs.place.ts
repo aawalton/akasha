@@ -96,6 +96,14 @@ export const overwhereIiWhitecombs = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "When Nala draws beside the Callow pool, its black water ripples toward her, as the tarn's did.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A Warped goat is as heavy as a big ewe; Nala can drag one down the goat track, not two at once.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "An hour above the Callow cwm, a cliff split fresh at midwinter has buried an old greymaw den.",
       knowers: ["lore-disclosure/game-master"],
     },
