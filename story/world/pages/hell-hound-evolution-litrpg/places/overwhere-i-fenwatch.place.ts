@@ -260,6 +260,10 @@ export const overwhereIFenwatch = {
       fact: "Unaided, each extreme try at the boar that comes off moves him a few yards, for 1 stamina.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Hauling the boar's head to the palisade is hard unaided and easy with fire-strength held.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
