@@ -151,6 +151,10 @@ export const overwhereITheGreyfen = {
       fact: "Wading there takes half a day; skimming by weave over the wet stretches halves that.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A low rise of dead alders, the Greystakes, stands six hundred yards east of the pine island.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
