@@ -4,13 +4,14 @@ export const overwhereIv00021 = {
   id: "01a0f35c-3453-776a-b2f1-18afd2e61573",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-021",
+  cover: "image/image-22c01fc24aeb9bca",
   ownLength: 276,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 21,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“Deal. I have a lot of growing to do. Rather do it with someone I can trust anyways.”",
   beats: [
     '"Deal," Nala says. "I have a lot of growing to do. Rather do it with someone I can trust anyways."',
@@ -33,6 +34,11 @@ export const overwhereIv00021 = {
   ],
   lore: ["lore/overwhere-iv-ilsa-crane", "lore/overwhere-iv-nala", "place/overwhere-iv-hobb-farm"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T09:40:00.000Z",
 } as const satisfies StoryTurnPlayed
