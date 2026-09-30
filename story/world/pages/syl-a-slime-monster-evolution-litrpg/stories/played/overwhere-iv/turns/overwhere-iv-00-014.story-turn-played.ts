@@ -16,7 +16,7 @@ export const overwhereIv00014 = {
     "character-other/overwhere-iv-dell",
     "character-other/overwhere-iv-ilsa-crane",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“What…what was that?”",
   beats: [
     '"What... what was that?" Nala\'s hand is still flat on the crystal. She lifts it away slowly.',
@@ -40,6 +40,6 @@ export const overwhereIv00014 = {
     "lore/overwhere-iv-nala",
     "lore/overwhere-iv-oswin-pike",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T18:45:00.000Z",
 } as const satisfies StoryTurnPlayed
