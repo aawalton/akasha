@@ -44,5 +44,9 @@ export const overwhereIiNala2 = {
       fact: "Nala took Garth's linen off her left forearm before refining it; the bite beneath had closed.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Refined with Undertow, Nala's whole left arm shows a faint pearly sheen and feels tight and cool.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
