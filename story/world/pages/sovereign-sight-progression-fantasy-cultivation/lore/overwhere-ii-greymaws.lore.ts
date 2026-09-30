@@ -233,7 +233,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "On three legs the last greymaw is slow; Nala runs it down at the tarn's east shore by the old steps.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Nala killed the last greymaw by the tarn's steps; the whole pack of nine is dead.",
