@@ -13,7 +13,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Told of the pull under the mountain, Dray will write Lady Varrow and the Carrowmouth garrison.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray asks Nala to keep the pull under the mountain from the village until he has word back.",
