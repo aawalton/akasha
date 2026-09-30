@@ -4,13 +4,14 @@ export const overwhereIi00011 = {
   id: "01a0f1a5-1880-7cfb-bf9d-7f9d2f585b67",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-011",
+  cover: "image/image-de5634c3cb71c9df",
   ownLength: 293,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 11,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Thank you, I’ll gladly accept. How far to the Ford? Ten days is a long time. I’d hate to be too late for her. If it’s close, could you take me there now? If it’s far, maybe the ewes tonight and we go in the morning? I hate to ask you to leave your girl, but I suspect I’ll need a guide before they’ll let me see the girl. Or you could introduce me to Goody Braddoc?”",
   beats: [
@@ -42,6 +43,6 @@ export const overwhereIi00011 = {
     "place/overwhere-ii-wendle-ford",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T08:01:00.000Z",
 } as const satisfies StoryTurnPlayed
