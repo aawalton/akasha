@@ -30,5 +30,6 @@ export const overwhereIi00057 = {
     "lore/overwhere-ii-nala-2",
     "lore/overwhere-ii-reeve-corwin-dray-2",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-02T19:50:00.000Z",
 } as const satisfies StoryTurnPlayed
