@@ -143,5 +143,13 @@ export const overwhereIiWendleFordFolk = {
       fact: "Sedge Horne told Nala to name her price for saving Tansy: a silver bar, more, anything he has.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Horne pays his debts to the copper, and would be shamed to give less than a silver bar.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Pim Sallow, a carter's widow at the Ford, has a slow grey rot in her hand from an eel spine.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

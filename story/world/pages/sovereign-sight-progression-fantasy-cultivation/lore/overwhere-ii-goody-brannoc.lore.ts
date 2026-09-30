@@ -99,6 +99,10 @@ export const overwhereIiGoodyBrannoc = {
       fact: "Goody sniffed Tansy's bite after Nala's drawing and whispered, \"Clean.\"",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Goody knows of three more rot-sick: Col Ashby, Pim Sallow, and Garth's two ewes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

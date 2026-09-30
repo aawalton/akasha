@@ -39,6 +39,14 @@ export const overwhereIiKeeperAnselm = {
       fact: "Word from Carrowmouth's Keepers reaches the Spires in a month.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Anselm felt a vast drawing of Water in the hills at dawn on day one, and it frightened him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Anselm felt Nala's hour at the mill as a slow tide in the village, and goes to find its source.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
