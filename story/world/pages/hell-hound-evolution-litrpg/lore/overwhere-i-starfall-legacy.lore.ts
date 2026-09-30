@@ -178,7 +178,7 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "A Surge fire beam holds whole to about 30 yards, then spreads and cools to nothing by 50.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "An air-and-earth rock bullet flies faster than a sling stone, about 150 yards, true to about 60.",
