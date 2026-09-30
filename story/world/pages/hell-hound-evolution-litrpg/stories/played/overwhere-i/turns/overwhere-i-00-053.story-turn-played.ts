@@ -4,10 +4,13 @@ export const overwhereI00053 = {
   id: "01a0f44f-12af-7aa3-83db-225eeb0675b0",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-053",
+  ownLength: 183,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 53,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
+  stepStatus: "step-status/reviewers",
   action:
     "Now that it’s dead, I try using a combination of water and earth to pluck its ghost eye from its skull and add it to my pack along with its ears, then continue through the island, finishing off any remaining wolves I find on my way back to the village.",
   beats: [
@@ -24,6 +27,8 @@ export const overwhereI00053 = {
     "Among them, half in the mud, lie a reed-cutter's knife and a small tin token stamped Sallow Hythe.",
   ],
   lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
     "lore/overwhere-i-rowan-coalby",
     "lore/overwhere-i-the-greyfen-alpha-2",
     "place/overwhere-i-the-greyfen",
