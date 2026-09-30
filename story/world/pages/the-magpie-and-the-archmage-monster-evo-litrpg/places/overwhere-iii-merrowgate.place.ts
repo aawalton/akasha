@@ -183,6 +183,10 @@ export const overwhereIiiMerrowgate = {
       fact: "Brannagh Tull's shop is a lane off the Wool Square, open till full dark; she lives above it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "In midwinter the dusk bell rings at a quarter to six; the gates and the post shut then.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
