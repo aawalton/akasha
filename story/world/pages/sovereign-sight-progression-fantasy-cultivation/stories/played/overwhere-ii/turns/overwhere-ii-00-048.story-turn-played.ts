@@ -4,10 +4,13 @@ export const overwhereIi00048 = {
   id: "01a0f42b-7d2d-7b74-8e34-0cedd8198d43",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-048",
+  ownLength: 179,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 48,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action: "“What do you expect the consequences to be, either way?”",
   beats: [
     'Nala: "What do you expect the consequences to be, either way?"',
@@ -24,6 +27,6 @@ export const overwhereIi00048 = {
     "He spreads his thin hands, apologetic.",
     'Anselm: "So: all of it, or the bare bones. Which would you have?"',
   ],
-  lore: ["lore/overwhere-ii-keeper-anselm"],
+  lore: ["lore/overwhere-ii-keeper-anselm", "lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2"],
   endsAt: "2026-09-30T16:57:00.000Z",
 } as const satisfies StoryTurnPlayed
