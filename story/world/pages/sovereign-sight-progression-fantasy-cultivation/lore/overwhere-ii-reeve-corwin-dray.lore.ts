@@ -115,5 +115,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Dray holds to his test: killing the white-eye proves she can kill, not how she fights a man.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Dray, at First Depth, doubts a Surface stranger could hurt him, and says so with a grim smile.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
