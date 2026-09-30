@@ -244,6 +244,10 @@ export const overwhereIiiCorruption = {
       fact: "Touching a blightstone bare-handed brings a wash of revulsion and despair, and nothing worse.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Blight resists a holy thread: it bites cold up the thread into her hand, and the thread slips.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
