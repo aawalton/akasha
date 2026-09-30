@@ -10,4 +10,5 @@ export const overwhereIi00048 = {
   stepStatus: "step-status/game-master",
   action: "“What do you expect the consequences to be, either way?”",
   lore: ["lore/overwhere-ii-keeper-anselm"],
+  endsAt: "2026-09-30T16:57:00.000Z",
 } as const satisfies StoryTurnPlayed
