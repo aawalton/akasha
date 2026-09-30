@@ -60,17 +60,42 @@ import {
   playedEnvelope,
   playedListsOf,
   playedMaking,
+  playedMakingKey,
   playedReady,
   playedTail,
   playedTurnsOf,
   playedUpcomingOf,
+  playedWorking,
 } from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
 import {
   stateOf,
   usePlayedState,
 } from "akasha/story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts"
 import { usePlayedProse } from "akasha/story/world/stories/played/modules/prose-beside/prose-beside.module.code.ts"
-import { useMemo } from "react"
+import { useEffect, useMemo, useState } from "react"
+
+const QUIET_TICK_MS = 15_000
+
+type Quiet = { readonly key: string | null; readonly since: number }
+
+function useQuietFor(key: string | null, working: boolean): number {
+  const [quiet, setQuiet] = useState<Quiet>(() => ({ key, since: Date.now() }))
+  const [now, setNow] = useState(() => Date.now())
+  useEffect(() => {
+    setQuiet({ key, since: Date.now() })
+  }, [key, working])
+  useEffect(() => {
+    if (key === null) return
+    const ticking = setInterval(() => {
+      setNow(Date.now())
+    }, QUIET_TICK_MS)
+    return () => {
+      clearInterval(ticking)
+    }
+  }, [key])
+  if (working || quiet.key !== key) return 0
+  return Math.max(0, now - quiet.since)
+}
 
 const TITLE_ROW_WIDE = "hidden min-[584px]:block"
 
@@ -173,7 +198,12 @@ function PlayedStory({
   const seats = usePages(seatOptions)
   const ready = useMemo(() => playedReady(turns.rows), [turns.rows])
   const seated = seats.isLoading || seats.error !== null ? null : seats.rows
-  const making = useMemo(() => playedMaking(turns.rows, seated), [turns.rows, seated])
+  const makingKey = useMemo(() => playedMakingKey(turns.rows), [turns.rows])
+  const quietMs = useQuietFor(makingKey, playedWorking(seated))
+  const making = useMemo(
+    () => playedMaking(turns.rows, seated, quietMs),
+    [turns.rows, seated, quietMs]
+  )
 
   const runIsTurns = ready.length > 0
   const runPageTypeSlug = runIsTurns ? PLAYED_TURN_PAGE_TYPE_SLUG : PLAYED_CHAPTER_PAGE_TYPE_SLUG

@@ -184,8 +184,14 @@ export function workingSaid(step: TurnStep): string {
   return `${opening} ${isOf(step)} working…`
 }
 
-export function makingSaid(step: TurnStep, working: boolean): string {
-  if (working) return workingSaid(step)
+export const STALL_AFTER_MS = 120_000
+
+export function makingSaid(
+  step: TurnStep,
+  working: boolean,
+  quietMs: number = Number.POSITIVE_INFINITY
+): string {
+  if (working || quietMs < STALL_AFTER_MS) return workingSaid(step)
   return `The turn has stalled: ${WHO[step]} ${isOf(step)} not working on it.`
 }
 

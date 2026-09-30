@@ -61,6 +61,16 @@ export const playedRows = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A step is said to have stalled only once no seat of the story has worked it for two minutes.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A step just reached waits on a message reaching its seat, so no seat works it for a moment.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The in-game time said is the end time the latest turn at player states, or none if it states none.",
     },
     {

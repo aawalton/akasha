@@ -8,12 +8,14 @@ import {
   playedCoversOf,
   playedEnvelope,
   playedMaking,
+  playedMakingKey,
   playedReady,
   playedTail,
   playedTitleOf,
   playedTurnsOf,
   playedUpcomingOf,
 } from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
+import { STALL_AFTER_MS } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
 const NO_PROSE: ReadonlyMap<string, string> = new Map()
 
@@ -157,6 +159,23 @@ describe("playedReady and playedMaking", () => {
     const said = "The turn has stalled: the game master is not working on it."
     expect(playedMaking([mastering, read], [seat("ready"), seat("stopped")])?.said).toBe(said)
     expect(playedMaking([mastering, read], [])?.said).toBe(said)
+  })
+
+  test("a step just reached, before its seat takes the message, is not said to have stalled", () => {
+    const mastering = turnPage({ id: "b", position: 2, stepStatus: at("game-master") })
+    const quiet = [seat("ready"), seat("idle")]
+    expect(playedMaking([mastering, read], quiet, 0)?.said).toBe("The game master is working…")
+    expect(playedMaking([mastering, read], quiet, STALL_AFTER_MS - 1)?.said).toBe(
+      "The game master is working…"
+    )
+    expect(playedMaking([mastering, read], quiet, STALL_AFTER_MS)?.said).toBe(
+      "The turn has stalled: the game master is not working on it."
+    )
+  })
+
+  test("a turn being made is keyed by its slug and its step, and a turn at player by nothing", () => {
+    expect(playedMakingKey([making, read])).toBe("saga-02:reviewers")
+    expect(playedMakingKey([read])).toBeNull()
   })
 
   test("a turn being made says nothing of its step while the story's seats are unread", () => {

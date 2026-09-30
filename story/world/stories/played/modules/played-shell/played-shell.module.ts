@@ -29,6 +29,10 @@ export const playedShell = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A step's quiet is timed from reaching the step or from its last working seat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The story is the page its drawing was handed rather than a page read here again.",
     },
     {

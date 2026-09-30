@@ -128,12 +128,29 @@ export function playedReady(rows: readonly Page[]): readonly Page[] {
   return rows.filter((row) => stepOf(row) === PLAYER)
 }
 
-function saidOver(step: TurnStep, seats: readonly Page[] | null): string | null {
-  if (seats === null) return null
-  return makingSaid(step, seatsWorking(seats.map((one) => ({ turnState: one[SEAT_STATE_KEY] }))))
+export function playedWorking(seats: readonly Page[] | null): boolean {
+  if (seats === null) return false
+  return seatsWorking(seats.map((one) => ({ turnState: one[SEAT_STATE_KEY] })))
 }
 
-export function playedMaking(rows: readonly Page[], seats: readonly Page[] | null): Making | null {
+function saidOver(step: TurnStep, seats: readonly Page[] | null, quietMs: number): string | null {
+  if (seats === null) return null
+  return makingSaid(step, playedWorking(seats), quietMs)
+}
+
+export function playedMakingKey(rows: readonly Page[]): string | null {
+  const last = playedOrder(rows).at(-1)
+  if (last === undefined) return null
+  const step = stepOf(last)
+  if (step === PLAYER) return null
+  return `${slugIn(last) ?? last.id}:${step}`
+}
+
+export function playedMaking(
+  rows: readonly Page[],
+  seats: readonly Page[] | null,
+  quietMs: number = Number.POSITIVE_INFINITY
+): Making | null {
   const last = playedOrder(rows).at(-1)
   if (last === undefined) return null
   const step = stepOf(last)
@@ -143,7 +160,7 @@ export function playedMaking(rows: readonly Page[], seats: readonly Page[] | nul
     slug: slugIn(last) ?? last.id,
     action: typeof action === "string" ? action : "",
     step,
-    said: saidOver(step, seats),
+    said: saidOver(step, seats, quietMs),
   }
 }
 
