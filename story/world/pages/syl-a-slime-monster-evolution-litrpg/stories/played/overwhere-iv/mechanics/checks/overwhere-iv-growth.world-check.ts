@@ -35,6 +35,14 @@ export const overwhereIvGrowth = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A defeat window names the foe's kind and level to anyone, Identify or not.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only a fallen foe is named so; a living one's level needs Identify.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A level takes ten times the level she is at in experience.",
     },
     {
