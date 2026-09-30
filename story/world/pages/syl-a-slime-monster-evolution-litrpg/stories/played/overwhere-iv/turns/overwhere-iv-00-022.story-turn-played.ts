@@ -14,7 +14,7 @@ export const overwhereIv00022 = {
     "character-other/overwhere-iv-ilsa-crane",
     "character-other/overwhere-iv-brenna-holt",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Perfect, I’ll work on that today.” I go and check if I’m needed for any more of the guard training first and complete that if so, then go clear slimes at the Hobb farm.",
   beats: [
@@ -38,7 +38,7 @@ export const overwhereIv00022 = {
     "The spear sits a little easier in her hands after that.",
     "Later: <Racial Experience threshold reached. Human is now LV 3.> She keeps working.",
     "The last few come out of the ditches to her near sunset. The final one slumps at her feet.",
-    "<Racial Experience threshold reached. Human is now LV 4.> Forty cores, clinking in her pockets.",
+    "<Racial Experience threshold reached. Human is now LV 4.> Forty more cores; her pockets bulge.",
     "The orchard is still. Hobb stands at its edge, looking around, and for once has nothing sour to say.",
     "Then Bran goes stiff at the orchard's end. Hackles up. He barks, hard, toward the far field wall.",
     'Hobb spits. "Wolves again. Took two of my sheep this week, out of the field by the trees."',
