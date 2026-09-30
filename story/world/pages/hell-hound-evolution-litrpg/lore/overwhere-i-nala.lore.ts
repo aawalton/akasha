@@ -265,5 +265,13 @@ export const overwhereINala = {
       fact: "At Flare the System grants her Starfall Weave, and she can hold three workings at once.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Her water working can lift water from a wallow into a sphere held round a beast's head.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Holding two water workings, she feels two pulls behind her breastbone, cool, wet and steady.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore

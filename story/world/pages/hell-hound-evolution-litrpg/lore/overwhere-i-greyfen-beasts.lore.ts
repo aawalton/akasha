@@ -101,7 +101,11 @@ export const overwhereIGreyfenBeasts = {
     },
     {
       fact: "When one of a sounder is hurt, the rest charge whoever did it; the boar kicks back like a mule.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "The Fenwatch sounder's old boar is bigger than the four sows, grey-bristled and scarred.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
