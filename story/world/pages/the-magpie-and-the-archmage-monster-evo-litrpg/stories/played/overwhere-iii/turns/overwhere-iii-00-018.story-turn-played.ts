@@ -10,7 +10,7 @@ export const overwhereIii00018 = {
   position: 18,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I go and sit, happy for a rest after hauling everything back.",
   beats: [
     "Nala sits on the bench, glad of it; the weight comes off her raw feet, and she lets out a breath.",
@@ -34,6 +34,7 @@ export const overwhereIii00018 = {
     "She sets down her cup and looks at the pink seam on Nala's forearm.",
     '"Now. That bite. You closed it yourself, didn\'t you?"',
   ],
+  issues: ["\"You're Level 1.\" - Marda never learned Nala's level; the form and card show none"],
   lore: [
     "lore/overwhere-iii-corruption",
     "lore/overwhere-iii-marda-hesk",
@@ -41,6 +42,6 @@ export const overwhereIii00018 = {
     "lore/overwhere-iii-wrenmark-beasts",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T12:08:00.000Z",
 } as const satisfies StoryTurnPlayed
