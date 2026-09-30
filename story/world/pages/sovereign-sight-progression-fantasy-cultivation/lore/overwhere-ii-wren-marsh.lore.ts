@@ -75,6 +75,14 @@ export const overwhereIiWrenMarsh = {
       fact: "Wren asked Nala to come back and to tell her what Talent she has.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "With the rot drawn, Wren is still flushed but bright-eyed, and says she is better.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Wren urged Garth to take Nala to the Ford, saying Burr can mind her while he is gone.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

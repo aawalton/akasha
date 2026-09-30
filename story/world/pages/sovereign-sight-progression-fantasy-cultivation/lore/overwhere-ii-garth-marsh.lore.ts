@@ -137,7 +137,7 @@ export const overwhereIiGarthMarsh = {
     },
     {
       fact: "Anni's boots are a little large for Nala, but serve well with the laces pulled tight.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "At Garth's limping pace the three miles to the Ford take about an hour and a half.",
@@ -145,6 +145,14 @@ export const overwhereIiGarthMarsh = {
     },
     {
       fact: "Goody Brannoc brought Wren into the world, and Garth's word carries weight with her.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Anni's brown wool cloak is heavy and soft, and smells faintly of cedar from Garth's chest.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Garth has agreed to leave Wren and walk Nala to the Ford now, to speak for her to Goody Brannoc.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
