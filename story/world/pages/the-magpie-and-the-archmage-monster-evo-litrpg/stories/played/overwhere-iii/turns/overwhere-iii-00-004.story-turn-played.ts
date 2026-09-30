@@ -4,10 +4,13 @@ export const overwhereIii00004 = {
   id: "01a0f165-5494-7b28-8e7f-0f0d4099ac8a",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-004",
+  ownLength: 310,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 4,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-tobin-wick"],
+  stepStatus: "step-status/reviewers",
   action:
     "“I’m not sure.” I say, and nothing more, still watching the mana currents. I reach out with my intent to see if I can move them around.",
   beats: [
