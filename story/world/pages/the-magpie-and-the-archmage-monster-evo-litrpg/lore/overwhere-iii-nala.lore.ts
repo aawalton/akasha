@@ -334,6 +334,10 @@ export const overwhereIiiNala = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "Nala's own mana runs white-gold; pushed into a working, it serves as a holy thread.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
