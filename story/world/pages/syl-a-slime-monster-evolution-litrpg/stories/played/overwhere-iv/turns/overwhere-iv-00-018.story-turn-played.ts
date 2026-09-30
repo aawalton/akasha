@@ -17,7 +17,7 @@ export const overwhereIv00018 = {
     "character-other/overwhere-iv-dell",
     "character-other/overwhere-iv-oswin-pike",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I focus on the work, doing my best to follow instructions and learn.",
   beats: [
     "Nala squares up to Dell in the packed-earth yard, blunt spear low, wicker shield up. Knee throbbing.",
@@ -37,6 +37,11 @@ export const overwhereIv00018 = {
   ],
   lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-millbrook-gatehouse"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-09-30T07:45:00.000Z",
 } as const satisfies StoryTurnPlayed
