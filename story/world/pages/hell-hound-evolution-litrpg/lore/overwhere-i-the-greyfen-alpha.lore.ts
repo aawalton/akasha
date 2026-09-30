@@ -233,7 +233,7 @@ export const overwhereITheGreyfenAlpha = {
     },
     {
       fact: "Ghost-Eye stays on the east shore with the two biggest wolves, between her and the pups.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Six wolves, Levels 10 to 14, swim the channel and fan into a crescent to herd her toward deep water.",
