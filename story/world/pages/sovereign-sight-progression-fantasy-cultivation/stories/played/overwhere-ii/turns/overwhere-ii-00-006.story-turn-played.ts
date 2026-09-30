@@ -10,7 +10,7 @@ export const overwhereIi00006 = {
   position: 6,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“I'll gladly accept the porridge and then be on my way. Are there any threats in the area I should be aware of?”",
   beats: [
@@ -40,6 +40,9 @@ export const overwhereIi00006 = {
     '"You\'re Talented," he says quietly. "I don\'t hold with it, as a rule. But I\'ll ask."',
     '"Is there aught you can do for her?"',
   ],
+  issues: [
+    '"Took two men besides" - Aberrants since midwinter took two men in all, the watchman and carter',
+  ],
   lore: [
     "lore/overwhere-ii-garth-marsh",
     "lore/overwhere-ii-greymaws",
@@ -49,6 +52,6 @@ export const overwhereIi00006 = {
     "place/overwhere-ii-tern-hollow",
     "place/overwhere-ii-wendlemere",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T07:33:00.000Z",
 } as const satisfies StoryTurnPlayed
