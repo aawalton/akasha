@@ -305,6 +305,10 @@ export const overwhereIiiBrannaghTull = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
+    {
+      fact: "Brannagh owns one book: her mother's hand-written receipts for salves, potions and draughts.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
