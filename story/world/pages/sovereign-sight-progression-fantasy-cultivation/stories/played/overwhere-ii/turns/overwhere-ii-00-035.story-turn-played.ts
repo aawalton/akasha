@@ -4,10 +4,13 @@ export const overwhereIi00035 = {
   id: "01a0f397-39c7-7d23-8672-3721e5275243",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-035",
+  ownLength: 210,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 35,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“You sure? I already bested the alpha with her pack. The stragglers are no threat to me on their own. I would hate to injure you without need.”",
   beats: [
@@ -25,6 +28,10 @@ export const overwhereIi00035 = {
     "His stone forearms hang grey at his sides, and he rolls his shoulders.",
     "Reeve Dray: \"Spear's there. Take it up when you're ready, or hunt with the watch.\"",
   ],
-  lore: ["lore/overwhere-ii-reeve-corwin-dray", "lore/overwhere-ii-undertow"],
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-reeve-corwin-dray",
+    "lore/overwhere-ii-undertow",
+  ],
   endsAt: "2026-09-30T08:24:00.000Z",
 } as const satisfies StoryTurnPlayed
