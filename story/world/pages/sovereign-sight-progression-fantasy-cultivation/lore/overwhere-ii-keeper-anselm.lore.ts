@@ -137,7 +137,7 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "The carrier who takes Anselm's letters comes on market day, in two days, and could carry chambers.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Anselm knows of no training use for an empty chamber but as a vessel for Water.",
