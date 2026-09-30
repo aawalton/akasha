@@ -137,7 +137,7 @@ export const overwhereITheGreyfenAlpha = {
     },
     {
       fact: "The pack keeps three half-grown pups on the island this summer.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Spotting the pack from the Greystakes by spyglass is easy; bare-eyed at that range it is hard.",
