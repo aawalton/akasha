@@ -95,6 +95,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "An old Grubboar boar has 30 health and hide warding 2; a sow has 18 health and wards 1.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The four sows of the Fenwatch sounder are Level 8 to 10.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
