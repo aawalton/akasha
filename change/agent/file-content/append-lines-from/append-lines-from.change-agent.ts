@@ -25,6 +25,10 @@ export const appendLinesFrom = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A file beside a page that is not there is refused rather than begun.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Answering the append is left to the partial this change runs.",
     },
     {

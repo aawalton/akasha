@@ -17,7 +17,12 @@ const STAGED: Readonly<Record<string, string>> = { [FROM]: CONTENT }
 
 const WORLD: World = {
   root: "/nowhere",
-  index: Object.assign({} as World["index"], { pageTypesIn: () => new Set<string>() }),
+  index: Object.assign({} as World["index"], {
+    pageTypesIn: () => new Set<string>(),
+    filePropertiesAt: () => new Map(),
+    listedAt: () => [],
+    listedById: () => null,
+  }),
   textOf: (path) => STAGED[path] ?? null,
   bodyOf: (path) => STAGED[path] ?? null,
   under: () => [],
@@ -62,6 +67,14 @@ test("a path the tree holds no text at is refused", async () => {
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toMatch(/holds no text/)
+})
+
+test("a file beside a page that is not there is refused rather than begun", async () => {
+  const at = "akasha/one/gone.one-kind.history.jsonl"
+  const said = await appendLinesFromCommand(WORLD, { at, from: FROM })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain("`akasha/one/gone.one-kind.ts`")
 })
 
 test("what this change hands on is the content read rather than the path read from", async () => {
