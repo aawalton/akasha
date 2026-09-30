@@ -192,7 +192,11 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "Board, new this morning: a basket of snowroot from the Wren Brook banks, for Brannagh, 15 copper.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "The bounty counts a seed-sized blightstone from a wound as a tenth of a stone: 10 copper.",
