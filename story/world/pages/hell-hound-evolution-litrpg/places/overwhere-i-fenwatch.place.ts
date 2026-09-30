@@ -333,6 +333,10 @@ export const overwhereIFenwatch = {
       fact: "Jory would walk Nala out to his traps by day, but will not stay there after dark.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Jory's own path to his traps crosses the Greyback north of the track, an hour's walk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
