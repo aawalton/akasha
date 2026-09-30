@@ -40,7 +40,7 @@ export const COVER_WIDTH_ASKED = DRAWN_WIDTH * DENSITY
 
 export const CHARACTER_TYPES: readonly string[] = [characterPlayer.slug, characterOther.slug]
 
-export type Character = { readonly pageTypeSlug: string; readonly slug: string }
+type Character = { readonly pageTypeSlug: string; readonly slug: string }
 
 export type CharacterCover = {
   readonly slug: string
@@ -196,7 +196,7 @@ export function characterShownAt(covers: readonly CharacterCover[], picked: stri
   return at === -1 ? 0 : at
 }
 
-export type CharacterStep = "earlier" | "later"
+type CharacterStep = "earlier" | "later"
 
 export function characterSteppedTo(
   covers: readonly CharacterCover[],
