@@ -63,7 +63,11 @@ export const overwhereIiiBetHarrow = {
     },
     {
       fact: "Her box holds, near Nala's size, a wool tunic, a gray hooded cloak and two pairs of wool stockings.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-bet-harrow",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Told the work was frostcaps for the post, Bet says Brannagh will be glad of a steady picker.",
