@@ -4,6 +4,7 @@ export const overwhereIv00013 = {
   id: "01a0f209-8e1d-769a-ae9a-c90b815115b1",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-013",
+  cover: "image/image-6ab7d0c5832332fa",
   ownLength: 384,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
@@ -52,6 +53,6 @@ export const overwhereIv00013 = {
     "place/overwhere-iv-millbrook-gatehouse",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/picture"],
   endsAt: "2026-09-29T18:40:00.000Z",
 } as const satisfies StoryTurnPlayed
