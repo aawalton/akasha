@@ -11,4 +11,5 @@ export const overwhereI00048 = {
   action:
     "I stay low and let them come, opening my pack for easy access to the bullets, then when they cross 100 meters for accuracy, I start firing aimed shots with full force, rotating across the three closest targets, so I don’t waste shots on downed enemies. I aim for where they are going to be when the rock lands, not where they are.",
   lore: ["lore/overwhere-i-starfall-legacy", "lore/overwhere-i-the-greyfen-alpha"],
+  endsAt: "2026-10-01T13:04:00.000Z",
 } as const satisfies StoryTurnPlayed
