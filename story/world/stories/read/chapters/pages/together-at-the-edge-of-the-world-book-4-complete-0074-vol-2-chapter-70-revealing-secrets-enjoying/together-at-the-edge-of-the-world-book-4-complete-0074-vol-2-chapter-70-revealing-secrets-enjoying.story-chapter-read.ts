@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0074Vol2Chapter70RevealingS
   id: "01a0f12a-b851-7bda-987c-c2c9dd211848",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0074-vol-2-chapter-70-revealing-secrets-enjoying",
+  ownProgress: 2064,
   position: 74,
   publishedAt: "2025-10-28",
   unit: "unit/words",
