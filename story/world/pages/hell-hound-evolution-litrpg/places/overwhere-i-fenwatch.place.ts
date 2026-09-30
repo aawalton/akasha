@@ -243,6 +243,10 @@ export const overwhereIFenwatch = {
       fact: "Hauling a carcass that size from the wallow to the palisade takes about forty minutes.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Dragging the old boar is a moderate act with fire-strength held, and extreme without it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
