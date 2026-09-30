@@ -10,7 +10,7 @@ export const overwhereI00039 = {
   position: 39,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I attune water and fire, boiling the water in the underground den to superheated temperatures directly.",
   beats: [
@@ -38,6 +38,6 @@ export const overwhereI00039 = {
     "lore/overwhere-i-starfall-legacy",
     "place/overwhere-i-the-greyfen",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-30T11:09:00.000Z",
 } as const satisfies StoryTurnPlayed
