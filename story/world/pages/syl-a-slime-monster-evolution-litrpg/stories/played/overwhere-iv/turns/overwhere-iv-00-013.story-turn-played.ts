@@ -45,8 +45,12 @@ export const overwhereIv00013 = {
   ],
   lore: [
     "lore/overwhere-iv-brookside-four",
+    "lore/overwhere-iv-ilsa-crane",
     "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-oswin-pike",
     "place/overwhere-iv-millbrook-adventurers-hall",
+    "place/overwhere-iv-millbrook-gatehouse",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T18:40:00.000Z",
 } as const satisfies StoryTurnPlayed
