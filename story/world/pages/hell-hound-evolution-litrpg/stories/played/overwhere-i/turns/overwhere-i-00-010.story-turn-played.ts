@@ -4,10 +4,13 @@ export const overwhereI00010 = {
   id: "01a0f17c-4913-7771-aa3f-95b301089e38",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-010",
+  ownLength: 236,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 10,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Oh, that little thing? That was me. Thought it might be tasty. If you’ll help with transport, I’d be happy to contribute it for a feast.”",
   beats: [
@@ -29,6 +32,7 @@ export const overwhereI00010 = {
   ],
   lore: [
     "lore/overwhere-i-hessa-vane",
+    "lore/overwhere-i-nala",
     "lore/overwhere-i-sootjaw",
     "lore/overwhere-i-tobin-ashdown",
     "place/overwhere-i-fenwatch",
