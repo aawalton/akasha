@@ -11,4 +11,5 @@ export const overwhereI00020 = {
   action:
     "I drop the water orb for the sow, since I know I can reliably do two at once, and use the second as Air to speed up my movements, then kite the sows until the boar is dead, then repeat until either the sows give up, or all five are done.",
   lore: ["lore/overwhere-i-greyfen-beasts", "lore/overwhere-i-nala", "place/overwhere-i-fenwatch"],
+  endsAt: "2026-09-30T07:40:00.000Z",
 } as const satisfies StoryTurnPlayed
