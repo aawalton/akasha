@@ -251,6 +251,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "A lurker lying still on the bed shows only a thread of bubbles rising through the dark water.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "After Nala's thump, something scrabbled under the first slide; bubbles ran mid-channel and stopped.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

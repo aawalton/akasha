@@ -64,5 +64,17 @@ export const overwhereIStarfallLegacy = {
       fact: "A ripple returns as knowing, not sight: hollows feel empty, living bodies warm, heavy, stirring.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Earth and water woven bind as one working, felt as a heavy, wet pull behind her breastbone.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Nala's first sensing ripples came back as one blur of wet ground, water and roots.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "A ripple pushed too hard leaves as a thump that shudders the bank and slumps mud into the channel.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
