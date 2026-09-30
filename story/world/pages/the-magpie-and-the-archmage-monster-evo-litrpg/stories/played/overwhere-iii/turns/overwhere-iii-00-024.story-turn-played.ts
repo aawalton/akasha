@@ -15,7 +15,7 @@ export const overwhereIii00024 = {
     "character-other/overwhere-iii-dunstan-harrow",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I pull the stones out and sell him the three rabbits, and then take the 23 frostcaps and see if the Post will buy all 23.",
   beats: [
@@ -41,6 +41,6 @@ export const overwhereIii00024 = {
     "place/overwhere-iii-merrowgate-guild-post",
     "place/overwhere-iii-wrenwood",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-30T17:29:00.000Z",
 } as const satisfies StoryTurnPlayed
