@@ -159,6 +159,14 @@ export const overwhereITheGreyfen = {
       fact: "On day 3 the wind blows from the west off the middle fen until mid-afternoon, then swings north.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A low rise of dead alders stands six hundred yards east of the middle fen's pine island.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Toward midday on day 3 the wind blew steady from the west, off the pine island.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

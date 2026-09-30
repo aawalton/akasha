@@ -151,6 +151,14 @@ export const overwhereITheGreyfenAlpha = {
       fact: "At 11:40 on day 3 Nala watched Ghost-Eye, eight grown Drakewolves and three pups from afar.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Drakewolves are scaled grey-green, with lizard muzzles and crests.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "On day 3 the pack's watcher gazed toward Nala in the dead alders and did not stir.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
