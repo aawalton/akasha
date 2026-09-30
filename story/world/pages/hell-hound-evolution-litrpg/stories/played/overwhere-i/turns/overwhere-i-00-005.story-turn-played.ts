@@ -32,5 +32,6 @@ export const overwhereI00005 = {
     "Behind her breastbone, a small heavy hollow where the earth came from, already filling in.",
   ],
   lore: ["lore/overwhere-i-nala", "place/overwhere-i-greyfen-ford"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-29T10:17:00.000Z",
 } as const satisfies StoryTurnPlayed
