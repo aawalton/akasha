@@ -25,5 +25,6 @@ export const overwhereI00035 = {
     '"You pull anything by a white stake," Jory says, "it\'s eels, not lurker."',
   ],
   lore: ["lore/overwhere-i-nala", "place/overwhere-i-the-greyfen"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-30T10:57:00.000Z",
 } as const satisfies StoryTurnPlayed
