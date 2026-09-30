@@ -52,6 +52,10 @@ export const overwhereIiiTobinWick = {
       fact: "He takes a red-haired woman in a man's shirt for someone robbed on the road, and says so.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Today he is bound from Applegarth up the north road to Merrowgate, to sell cider and sleep in town.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
