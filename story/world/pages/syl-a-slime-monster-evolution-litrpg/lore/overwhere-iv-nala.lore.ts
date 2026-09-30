@@ -145,6 +145,14 @@ export const overwhereIvNala = {
         "lore/overwhere-iv-ilsa-crane",
       ],
     },
+    {
+      fact: "Nala holds the Millbrook hall's bronze tag; its ledger says she owes the hall 1 silver.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-ilsa-crane",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

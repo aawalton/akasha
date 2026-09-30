@@ -49,39 +49,75 @@ export const overwhereIvIlsaCrane = {
     },
     {
       fact: "Ilsa knows the watch lets its people take hall work off duty; Hale likes them levelled.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Her way to kill a blue slime: one sharp thrust through the jelly into its crimson core.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "She says a cracked core stops a slime at once, and it slumps into a puddle of jelly.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "The hall pays for a core cracked or whole, since alchemists grind them anyway.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "She warns that slime jelly stings bare skin and eyes like nettles, so wear gloves.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "She warns a slime will cling to a hand or boot it touches; pull free, don't flail.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "She warns that slimes in the brook float out of reach, so work them on dry ground.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Her rule: never clear the common bare, for the town keeps some slimes for their jelly.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "She points newcomers to pest slimes at the Tangle-edge farms, and warns of wolves there.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Ilsa Crane keeps the Millbrook Adventurers' Hall.",
