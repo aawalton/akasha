@@ -52,5 +52,9 @@ export const overwhereIiiCleansingWeave = {
       fact: "Ten glimmer specks pressed together in a bare palm fuse into one whole glimmerstone.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A whole blightstone left half-cracked knits itself back overnight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
