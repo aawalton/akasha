@@ -10,4 +10,5 @@ export const overwhereIii00038 = {
   stepStatus: "step-status/game-master",
   action: "I wait for Cob and heal him, then take all the seeds to Marda",
   lore: ["lore/overwhere-iii-cob-ferrow", "lore/overwhere-iii-marda-hesk"],
+  endsAt: "2026-10-01T12:25:00.000Z",
 } as const satisfies StoryTurnPlayed
