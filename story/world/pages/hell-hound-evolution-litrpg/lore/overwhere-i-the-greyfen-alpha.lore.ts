@@ -147,6 +147,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "A failed spotting act means the pack's watcher catches her lens glint and stands, staring east.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At 11:40 on day 3 Nala watched Ghost-Eye, eight grown Drakewolves and three pups from afar.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
