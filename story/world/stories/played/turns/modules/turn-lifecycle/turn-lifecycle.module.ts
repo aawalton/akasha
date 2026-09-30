@@ -17,10 +17,7 @@ export const turnLifecycle = {
       decisionKind: "decision-kind/departure",
       statement: "An advance hands in what its own step makes and nothing else.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A world builder's advance names only lore pages, a place being one.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A game master's advance goes to writer.",

@@ -165,9 +165,17 @@ export function listedRefused(
   if (other !== undefined) {
     return `\`${other}\` names a \`${typeOf(other)}\`, and a character is a \`${worldCharacter.slug}\` or of a type extending it; a lore page describing someone is no character`
   }
-  const absent = listed.find((one) => !admitted.filed(one))
-  if (absent !== undefined) return `\`${absent}\` names no page, and a character listed is filed`
-  return unlistedRefused(prose, listed, cast)
+  return unfiledRefused(listed, admitted, "character") ?? unlistedRefused(prose, listed, cast)
+}
+
+export function unfiledRefused(
+  addresses: readonly string[],
+  admitted: Admitted,
+  what: string
+): string | null {
+  const absent = addresses.find((one) => !admitted.filed(one))
+  if (absent === undefined) return null
+  return `\`${absent}\` names no page, and a ${what} handed in is a page filed`
 }
 
 export function unlistedRefused(

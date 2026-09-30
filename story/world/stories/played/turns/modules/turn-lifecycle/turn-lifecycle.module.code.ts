@@ -11,8 +11,7 @@ import { worldBuilder } from "akasha/story/chapter/step-status/pages/world-build
 import { writer } from "akasha/story/chapter/step-status/pages/writer.step-status.ts"
 import { stepStatus } from "akasha/story/chapter/step-status/step-status.page-type.ts"
 import { wordCount } from "akasha/story/engine/core/modules/word-count/word-count.module.code.ts"
-import { lore as lorePageType } from "akasha/story/lore/lore.page-type.ts"
-import { place } from "akasha/story/lore/place/place.page-type.ts"
+
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
 import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
 import {
@@ -20,6 +19,7 @@ import {
   type Character,
   listedRefused,
 } from "akasha/story/world/stories/played/turns/modules/turn-cast/turn-cast.module.code.ts"
+import { loreRefused } from "akasha/story/world/stories/played/turns/modules/turn-lore-handed/turn-lore-handed.module.code.ts"
 
 export const TURN_STEPS = [
   worldBuilder.slug,
@@ -261,16 +261,8 @@ function moved(
   return { status, values: stated, prose, starts, stopsCaller, landsKept }
 }
 
-const LORE_TYPES: readonly string[] = [lorePageType.slug, place.slug]
-
-function notLore(lore: readonly string[]): string | null {
-  const other = lore.find((one) => !LORE_TYPES.includes(one.slice(0, one.lastIndexOf(PARTED))))
-  if (other === undefined) return null
-  return `a lore page is of type ${LORE_TYPES.join(" or ")}, and \`${other}\` is not`
-}
-
-function fromWorldBuilder(held: Held, lore: readonly string[]): Advanced {
-  const wrong = unaddressed("lore page", lore) ?? notLore(lore)
+function fromWorldBuilder(held: Held, lore: readonly string[], admitted: Admitted): Advanced {
+  const wrong = unaddressed("lore page", lore) ?? loreRefused(lore, admitted)
   if (wrong !== null) return { refused: wrong }
   const kept = [...new Set([...held.lore, ...lore])]
   return moved(GAME_MASTER, kept.length === 0 ? {} : { lore: kept })
@@ -396,7 +388,7 @@ export function advanced(
       refused: `at ${held.status} an advance hands in ${SAID_AS[takes]}, and this hands in ${SAID_AS[handed.kind]}`,
     }
   }
-  if (handed.kind === "lore") return fromWorldBuilder(held, handed.lore)
+  if (handed.kind === "lore") return fromWorldBuilder(held, handed.lore, admitted)
   if (handed.kind === "beats") return fromGameMaster(held, handed.beats)
   if (handed.kind === "review") {
     return fromReviewer(held, handed.reviewer, handed.issues, reviewers, recorders)
