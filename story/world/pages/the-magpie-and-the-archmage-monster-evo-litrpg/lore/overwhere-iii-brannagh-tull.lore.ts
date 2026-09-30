@@ -238,6 +238,10 @@ export const overwhereIiiBrannaghTull = {
         "character-other/overwhere-iii-garrick-dole",
       ],
     },
+    {
+      fact: "Seeing Ivy's hand clean and closed, Brannagh sits down hard and says nothing for a long moment.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
