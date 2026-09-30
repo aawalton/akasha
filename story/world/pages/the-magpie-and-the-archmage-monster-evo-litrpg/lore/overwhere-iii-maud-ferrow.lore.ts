@@ -88,5 +88,9 @@ export const overwhereIiiMaudFerrow = {
         "character-other/overwhere-iii-maud-ferrow",
       ],
     },
+    {
+      fact: "On a newcomer's second drill Maud shows her how to hold a staff, and pairs her with Tam again.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
