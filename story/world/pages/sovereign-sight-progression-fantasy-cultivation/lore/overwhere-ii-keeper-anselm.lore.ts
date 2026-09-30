@@ -143,6 +143,14 @@ export const overwhereIiKeeperAnselm = {
       fact: "Anselm knows of no training use for an empty chamber but as a vessel for Water.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "On day two Anselm offered to walk Nala to the Reeve, and then on to the shrine.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Anselm knows Nala killed the white-eye; he knew its cracked chamber on sight, twice the others' size",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
