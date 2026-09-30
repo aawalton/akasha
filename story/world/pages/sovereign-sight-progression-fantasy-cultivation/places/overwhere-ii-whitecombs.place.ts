@@ -73,7 +73,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "Ebba's two lost goats graze by the Callow pool, Wave-Warped: grey-scaled, with coral-rough horns.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The Warped goats charge anyone who nears the pool, butting as hard as a wolf bites.",
