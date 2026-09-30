@@ -31,6 +31,14 @@ export const overwhereIvTheTangle = {
       fact: "The goblins are led by a hobgoblin chief called Grakk.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Goblins out of the Tangle have been taking sheep from the edge farms this month.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-garrett-pell",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

@@ -37,7 +37,11 @@ export const overwhereIvMillbrook = {
     },
     {
       fact: "Market day falls every seventh day, when farmers from across the vale fill the square.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-garrett-pell",
+      ],
     },
     {
       fact: "On market days stalls sell wool, cheese, apples, eggs, rope, pots and secondhand clothes.",
@@ -125,6 +129,14 @@ export const overwhereIvMillbrook = {
     },
     {
       fact: "Millbrook lies in the Wendmere Vale, in the barony of Tarrow.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-garrett-pell",
+      ],
+    },
+    {
+      fact: "The vale around Millbrook is quiet sheep and apple country.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/overwhere-iv-nala",

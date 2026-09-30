@@ -11,25 +11,24 @@ export const overwhereIvBrooksideFour = {
       fact: "The Brookside Four are an adventurer party of bronze rank.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Dace is their warrior, proud, and LV 19.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Wren is their scout, quiet and watchful.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+    { fact: "Dace is their warrior, proud, and LV 19.", knowers: ["lore-disclosure/game-master"] },
+    { fact: "Wren is their scout, quiet and watchful.", knowers: ["lore-disclosure/game-master"] },
     {
       fact: "Merrit is their fire mage, and he is jealous of any better caster.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Orla is their healer, and she is gentle.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+    { fact: "Orla is their healer, and she is gentle.", knowers: ["lore-disclosure/game-master"] },
     {
       fact: "They take most of the wolf, boar and goblin work posted at the hall.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Brookside Four, of Millbrook's adventurers' hall, are good lads but green.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-garrett-pell",
+      ],
     },
   ],
 } as const satisfies Lore

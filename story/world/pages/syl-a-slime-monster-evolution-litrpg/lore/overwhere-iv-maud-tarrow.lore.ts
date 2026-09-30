@@ -9,7 +9,11 @@ export const overwhereIvMaudTarrow = {
   facts: [
     {
       fact: "Maud Tarrow is the baroness of Tarrow.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-garrett-pell",
+      ],
     },
     {
       fact: "She has no children, and her nephew Cedric is her heir.",
@@ -22,6 +26,14 @@ export const overwhereIvMaudTarrow = {
     {
       fact: "Word in the vale is that she has been ailing since midsummer and seldom leaves the Hall.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Garrett calls Baroness Maud firm but fair, and says she has been poorly since summer.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-garrett-pell",
+      ],
     },
   ],
   secrets: "jsonl",

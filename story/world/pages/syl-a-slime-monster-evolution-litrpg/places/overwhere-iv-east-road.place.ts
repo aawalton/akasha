@@ -17,7 +17,11 @@ export const overwhereIvEastRoad = {
     },
     {
       fact: "The Red Hand bandits prey on travellers and carts along the east road.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-garrett-pell",
+      ],
     },
     {
       fact: "Carters and merchants travel the east road in groups when they can.",

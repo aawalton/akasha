@@ -55,6 +55,10 @@ export const overwhereIvMillbrookCommon = {
       fact: "The townsfolk have noticed the growing slime crowd, and nobody can say why.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A slime with a red stone followed Nala across the common as far as the water's edge.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

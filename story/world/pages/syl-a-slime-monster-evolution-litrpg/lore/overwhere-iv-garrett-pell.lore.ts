@@ -18,7 +18,7 @@ export const overwhereIvGarrettPell = {
     },
     {
       fact: "Garrett hauls grain and goods with a two-horse cart, to the mill and east to Aubrin.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "He stopped his cart on the road by the common to stare at a barefoot stranger.",
@@ -86,7 +86,7 @@ export const overwhereIvGarrettPell = {
     },
     {
       fact: "Talking of the vale, he names the goblins taking sheep from Tangle-edge farms.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "He grumbles that the Red Hand bandits make every run east to Aubrin a gamble.",
@@ -94,26 +94,42 @@ export const overwhereIvGarrettPell = {
     },
     {
       fact: "He frets aloud over Hesper's cracked mill shaft and the grain piling up outside.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "He speaks warmly of the baroness, and sadly, for word is she has been ailing.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "He finds Cedric Tarrow, who runs things now, smooth-spoken and cold, and keeps clear.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "He calls Old Selby a witch, fondly, and swears by her salves for his back.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "He says the Brookside Four are good lads but green, and Crowstone Quarry is best avoided.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Garrett Pell is a big carter for the vale, forty or so, who drives two brown horses.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Garrett has hauled the vale's roads for twenty years, grain to the mill, wool and jelly east.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Garrett's wife died of a fever three winters ago.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Garrett has two daughters, Pip and Wenna, whom his sister minds while he is out.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Garrett's cart horses are named Barley and Moss.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],

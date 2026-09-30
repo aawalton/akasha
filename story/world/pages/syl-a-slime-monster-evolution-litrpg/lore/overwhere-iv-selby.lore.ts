@@ -7,10 +7,7 @@ export const overwhereIvSelby = {
   title: "Old Selby",
   world: "world/syl-a-slime-monster-evolution-litrpg",
   facts: [
-    {
-      fact: "Old Selby is the herb-wife of Millbrook.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+    { fact: "Old Selby is the herb-wife of Millbrook.", knowers: ["lore-disclosure/game-master"] },
     {
       fact: "She is grey-haired, sharp-eyed and sparing with words.",
       knowers: ["lore-disclosure/game-master"],
@@ -18,6 +15,14 @@ export const overwhereIvSelby = {
     {
       fact: "The town trusts her salves and fears her tongue.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Old Selby sells salves in Millbrook, and some call her a witch.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-garrett-pell",
+      ],
     },
   ],
   secrets: "jsonl",

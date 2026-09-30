@@ -19,5 +19,13 @@ export const overwhereIvHesperPell = {
       fact: "Hesper would pay well, or owe a great favor, to anyone who fixed her shaft.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Hesper's mill shaft has been cracked for weeks, and she can't pay to mend it till she grinds.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-garrett-pell",
+      ],
+    },
   ],
 } as const satisfies Lore

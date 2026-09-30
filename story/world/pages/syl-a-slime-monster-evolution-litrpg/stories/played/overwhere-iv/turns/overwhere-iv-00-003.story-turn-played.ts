@@ -11,7 +11,7 @@ export const overwhereIv00003 = {
   position: 3,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-garrett-pell"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Gladly, thank you.” I climb up. “I find I need to take my mind off of recent events. Would you talk me about yourself and the area?”",
   beats: [
@@ -46,6 +46,6 @@ export const overwhereIv00003 = {
     "lore/overwhere-iv-nala",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture", "story-recorder/memory"],
   endsAt: "2026-09-29T12:24:00.000Z",
 } as const satisfies StoryTurnPlayed
