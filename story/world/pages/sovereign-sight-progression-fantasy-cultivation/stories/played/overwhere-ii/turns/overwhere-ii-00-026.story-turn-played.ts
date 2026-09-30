@@ -10,7 +10,7 @@ export const overwhereIi00026 = {
   position: 26,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I come in, focusing on circling my water and trying to push it into the flesh of the wounded arm.",
   beats: [
@@ -30,6 +30,6 @@ export const overwhereIi00026 = {
     'Garth: "Let me wash that before you try anything more. There\'s wolf spit and salt in it yet."',
   ],
   lore: ["lore/overwhere-ii-keeper-anselm", "lore/overwhere-ii-nala", "lore/overwhere-ii-undertow"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T18:12:00.000Z",
 } as const satisfies StoryTurnPlayed
