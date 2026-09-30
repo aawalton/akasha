@@ -279,6 +279,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "A Level 9 to 12 reedlurker is an ordinary foe for Nala, not a foe far beyond her.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's mud grip found the first slide's den empty, trodden mud; whatever scrabbled there had left.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
