@@ -280,5 +280,9 @@ export const overwhereIStarfallLegacy = {
       fact: "Getting a clear two-lens spyglass takes about an hour's practice; each lens held is a use.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A water lens flashes in sunlight; a beast looking her way can catch the glint.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
