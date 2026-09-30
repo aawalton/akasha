@@ -134,7 +134,16 @@ export const overwhereIvMillbrookAdventurersHall = {
     },
     {
       fact: "For most folk the cracked crystal gives a faint glow in one or two colours, and no more.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
+        "character-other/overwhere-iv-wat",
+        "character-other/overwhere-iv-dell",
+        "character-other/overwhere-iv-ilsa-crane",
+        "lore/overwhere-iv-oswin-pike",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "The Millbrook Adventurers' Hall stands on the town square, up the lane from the gate.",
@@ -239,12 +248,62 @@ export const overwhereIvMillbrookAdventurersHall = {
     },
     {
       fact: "Her flare is clear yet bends the light behind it, like looking through folded glass.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
+        "character-other/overwhere-iv-wat",
+        "character-other/overwhere-iv-dell",
+        "character-other/overwhere-iv-ilsa-crane",
+        "lore/overwhere-iv-oswin-pike",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "The flare fills the hall a heartbeat, and the crack runs on with a sound like river ice.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
+        "character-other/overwhere-iv-wat",
+        "character-other/overwhere-iv-dell",
+        "character-other/overwhere-iv-ilsa-crane",
+        "lore/overwhere-iv-oswin-pike",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
-    { fact: "No other color shows beside Nala's flare.", knowers: ["lore-disclosure/game-master"] },
+    {
+      fact: "No other color shows beside Nala's flare.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
+        "character-other/overwhere-iv-wat",
+        "character-other/overwhere-iv-dell",
+        "character-other/overwhere-iv-ilsa-crane",
+        "lore/overwhere-iv-oswin-pike",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
+    {
+      fact: "A card of colours in neat ink hangs on a nail beside the hall's crystal.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
+        "character-other/overwhere-iv-wat",
+        "character-other/overwhere-iv-dell",
+        "character-other/overwhere-iv-ilsa-crane",
+        "lore/overwhere-iv-oswin-pike",
+      ],
+    },
+    {
+      fact: "Ilsa told Nala her clear flare is not on the card of colours.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
+    },
   ],
 } as const satisfies Place

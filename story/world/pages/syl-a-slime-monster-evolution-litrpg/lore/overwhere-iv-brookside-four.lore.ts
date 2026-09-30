@@ -19,7 +19,16 @@ export const overwhereIvBrooksideFour = {
     },
     {
       fact: "Merrit's touch lit the hall crystal a strong red, the brightest in Millbrook till now.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
+        "character-other/overwhere-iv-wat",
+        "character-other/overwhere-iv-dell",
+        "character-other/overwhere-iv-ilsa-crane",
+        "lore/overwhere-iv-oswin-pike",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "Merrit tells every newcomer about his red, and watches their touch to be sure of it.",
@@ -36,6 +45,19 @@ export const overwhereIvBrooksideFour = {
         "lore-disclosure/game-master",
         "character-player/overwhere-iv-nala",
         "lore/overwhere-iv-garrett-pell",
+      ],
+    },
+    {
+      fact: "Merrit wears a scorched red coat and names his magic as fire.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
+        "character-other/overwhere-iv-wat",
+        "character-other/overwhere-iv-dell",
+        "character-other/overwhere-iv-ilsa-crane",
+        "lore/overwhere-iv-oswin-pike",
+        "lore/overwhere-iv-brookside-four",
       ],
     },
   ],
