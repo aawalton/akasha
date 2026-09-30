@@ -34,6 +34,7 @@ export const overwhereIi00043 = {
     '"He picks up his mug again." - prose tells an event the beats do not hold',
   ],
   lore: [
+    "lore/overwhere-ii-keeper-anselm",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-reeve-corwin-dray",
     "place/overwhere-ii-callow-beck",
@@ -41,6 +42,6 @@ export const overwhereIi00043 = {
     "place/overwhere-ii-whitecombs",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-30T15:28:00.000Z",
 } as const satisfies StoryTurnPlayed
