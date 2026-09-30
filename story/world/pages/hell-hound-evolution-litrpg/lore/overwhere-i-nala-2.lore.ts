@@ -40,5 +40,9 @@ export const overwhereINala2 = {
       fact: "On day 3 Nala smeared black fen muck over her skin and clothes to mask her scent.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Killing three Drakewolves at 13:04 on day 3 raised Nala to Level 6.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
