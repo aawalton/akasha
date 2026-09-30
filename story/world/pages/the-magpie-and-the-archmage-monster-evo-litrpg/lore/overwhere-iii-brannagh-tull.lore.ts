@@ -234,6 +234,8 @@ export const overwhereIiiBrannaghTull = {
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-brannagh-tull",
         "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-ivy-marsh",
+        "character-other/overwhere-iii-garrick-dole",
       ],
     },
   ],

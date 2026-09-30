@@ -34,7 +34,11 @@ export const overwhereIiiGarrickDole = {
     },
     {
       fact: "Garrick lets anyone Brannagh brings tend him, and thanks them slowly and gravely.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-garrick-dole",
+      ],
     },
     {
       fact: "The wolf's bite, a week older and deeper, takes three pulls to clear where Ivy's takes two.",

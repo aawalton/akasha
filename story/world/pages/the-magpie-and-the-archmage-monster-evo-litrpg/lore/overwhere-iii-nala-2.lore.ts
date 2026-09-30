@@ -16,5 +16,41 @@ export const overwhereIiiNala2 = {
       fact: "Pulling at Garrick's blight sent cold up Nala's thread to her shoulder, and left her shaking.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala will tend Ivy in the mornings and Garrick at night until both are clear.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-other/overwhere-iii-ivy-marsh",
+        "character-other/overwhere-iii-garrick-dole",
+      ],
+    },
+    {
+      fact: "Nala's mana ran dry tending Ivy and Garrick on her second night.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-other/overwhere-iii-ivy-marsh",
+        "character-other/overwhere-iii-garrick-dole",
+      ],
+    },
+    {
+      fact: "Brannagh gave Nala two small flasks of healing potion, one for each patient she tends.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
+    {
+      fact: "Nala paid Bet eight copper from her own purse for a bed on her second night.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-bet-harrow",
+      ],
+    },
   ],
 } as const satisfies Lore
