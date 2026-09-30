@@ -4,13 +4,14 @@ export const overwhereI00036 = {
   id: "01a0f38e-2efd-7d30-b2bd-c41d61614ef2",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-036",
+  cover: "image/image-8091d3e117022678",
   ownLength: 140,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 36,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I attune water and earth again, trying to find more lurkers like I did the first one.",
   beats: [
     "Nala kneels by the first slide and binds earth and water again: the heavy, wet pull.",
@@ -29,6 +30,11 @@ export const overwhereI00036 = {
     "lore/overwhere-i-starfall-legacy",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T10:59:00.000Z",
 } as const satisfies StoryTurnPlayed
