@@ -34,7 +34,7 @@ export const overwhereIiiWrenmarkBeastGuide = {
     },
     {
       fact: "Wolf, Level 6-12: runs in packs of four to eight. Pelt 15 copper; this winter's bounty 20 a head.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Giantmaw hyena, Level 12-18, deep wood only: 'Do not.' Bounty 1 silver a head.",
