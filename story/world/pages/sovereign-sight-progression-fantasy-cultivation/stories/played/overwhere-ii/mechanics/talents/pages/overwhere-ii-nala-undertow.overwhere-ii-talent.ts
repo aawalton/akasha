@@ -5,6 +5,8 @@ export const overwhereIiNalaUndertow = {
   type: "page-type/overwhere-ii-talent",
   slug: "overwhere-ii-nala-undertow",
   title: "Undertow",
+  description:
+    "A tide in her that pushes and pulls, and draws salt and rot out of what she touches.",
   world: "world/sovereign-sight-progression-fantasy-cultivation",
   character: "character-player/overwhere-ii-nala",
   talent: "world-skill/overwhere-ii-undertow",
