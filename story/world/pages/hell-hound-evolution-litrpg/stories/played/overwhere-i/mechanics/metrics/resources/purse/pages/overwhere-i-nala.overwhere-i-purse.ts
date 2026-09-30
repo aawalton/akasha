@@ -5,9 +5,9 @@ export const overwhereINala = {
   type: "page-type/overwhere-i-purse",
   slug: "overwhere-i-nala",
   character: "character-player/overwhere-i-nala",
-  value: 0,
+  value: 100,
   minValue: 0,
   history: "jsonl",
   displayOrder: 9,
-  unrevealed: true,
+  unrevealed: false,
 } as const satisfies OverwhereIPurse
