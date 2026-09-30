@@ -227,5 +227,9 @@ export const overwhereIiGreymaws = {
       fact: "Nala speared four greymaws dead in the den; the limping one fled up the scree toward the tarn.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "A chamber pierced by a spear is cracked through and sells for half a whole one's price.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
