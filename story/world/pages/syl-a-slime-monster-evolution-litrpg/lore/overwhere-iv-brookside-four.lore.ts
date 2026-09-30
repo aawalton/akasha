@@ -49,15 +49,40 @@ export const overwhereIvBrooksideFour = {
     },
     {
       fact: "Merrit would call the clear flare a fault of the cracked crystal, not her gift.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
+        "character-other/overwhere-iv-wat",
+        "character-other/overwhere-iv-dell",
+        "character-other/overwhere-iv-ilsa-crane",
+        "lore/overwhere-iv-oswin-pike",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "Wren, their scout, saw the room bend through the flare, and trusts her own eyes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-brenna-holt",
+        "character-other/overwhere-iv-wat",
+        "character-other/overwhere-iv-dell",
+        "character-other/overwhere-iv-ilsa-crane",
+        "lore/overwhere-iv-oswin-pike",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "Orla, their healer, would be kind to Nala and ask if the crystal hurt her hand.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-brenna-holt",
+        "character-other/overwhere-iv-wat",
+        "character-other/overwhere-iv-dell",
+        "character-other/overwhere-iv-ilsa-crane",
+        "lore/overwhere-iv-oswin-pike",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "Dace, their leader, would want a caster who lit the crystal like that in his party.",
@@ -65,6 +90,32 @@ export const overwhereIvBrooksideFour = {
     },
     {
       fact: "Merrit wears a scorched red coat and names his magic as fire.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
+        "character-other/overwhere-iv-wat",
+        "character-other/overwhere-iv-dell",
+        "character-other/overwhere-iv-ilsa-crane",
+        "lore/overwhere-iv-oswin-pike",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
+    {
+      fact: "A thin young woman in a hooded jerkin at the hall hearth saw the room bend in the flare.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
+        "character-other/overwhere-iv-wat",
+        "character-other/overwhere-iv-dell",
+        "character-other/overwhere-iv-ilsa-crane",
+        "lore/overwhere-iv-oswin-pike",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
+    {
+      fact: "A round-faced girl from the hall hearth checked Nala's palm after the flare; it was unburnt.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/overwhere-iv-nala",

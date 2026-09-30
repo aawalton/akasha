@@ -67,5 +67,18 @@ export const overwhereIvWatBarrow = {
         "character-other/overwhere-iv-garrett-pell",
       ],
     },
+    {
+      fact: "Wat saw the room bend when the hall crystal flared at Nala's touch.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
+        "character-other/overwhere-iv-wat",
+        "character-other/overwhere-iv-dell",
+        "character-other/overwhere-iv-ilsa-crane",
+        "lore/overwhere-iv-oswin-pike",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
   ],
 } as const satisfies Lore

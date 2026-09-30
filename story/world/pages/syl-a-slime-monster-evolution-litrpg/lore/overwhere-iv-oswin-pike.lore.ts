@@ -47,6 +47,14 @@ export const overwhereIvOswinPike = {
       fact: "He would tell her to keep that light to herself, and to stop Ilsa's letter if she can.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "After the clear flare the grey watchman caught Nala's eye, nodded to the dark square, went out.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-oswin-pike",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
