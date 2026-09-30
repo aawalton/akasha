@@ -20,5 +20,9 @@ export const overwhereIStarfallLegacy = {
       fact: "A thinner, faster disc is the same Surge shape, not a new skill or legacy way.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A Weave binds two elements only; a third bound into it makes the whole working slip.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
