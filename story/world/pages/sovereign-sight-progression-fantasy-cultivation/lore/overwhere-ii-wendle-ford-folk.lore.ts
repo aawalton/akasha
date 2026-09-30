@@ -179,5 +179,9 @@ export const overwhereIiWendleFordFolk = {
       fact: "Col's rot is a fortnight old, shallower than Tansy's: half an hour to draw, a palmful of salt.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Drawn clean, Col limps a week, then walks as well as ever.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
