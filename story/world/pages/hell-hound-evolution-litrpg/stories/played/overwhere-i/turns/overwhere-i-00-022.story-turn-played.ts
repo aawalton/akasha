@@ -36,5 +36,6 @@ export const overwhereI00022 = {
     "lore/overwhere-i-starfall-legacy",
     "place/overwhere-i-fenwatch",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T07:57:00.000Z",
 } as const satisfies StoryTurnPlayed
