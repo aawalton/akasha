@@ -11,7 +11,7 @@ export const overwhereIi00045 = {
   position: 45,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I focus on pressing my Water into the skin of my left arm, but since it is part of myself. I try to use Undertow as well to both Push the Water out to the right place and Pull it into the skin itself to be absorbed.",
   beats: [
@@ -46,6 +46,11 @@ export const overwhereIi00045 = {
     "lore/overwhere-ii-undertow",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-09-30T16:15:00.000Z",
 } as const satisfies StoryTurnPlayed
