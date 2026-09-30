@@ -245,7 +245,11 @@ export const overwhereIiiMerrowgate = {
     },
     {
       fact: "The Hearth chapel's keeper, old Sister Wenna, lends her herbal and primer to anyone who reads there.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
   ],
   secrets: "jsonl",
