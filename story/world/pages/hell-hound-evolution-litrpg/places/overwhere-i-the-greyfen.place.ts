@@ -271,6 +271,10 @@ export const overwhereITheGreyfen = {
       fact: "Nala drew the two cold knots up from the drowned pine's root-bound soil with an earth working.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Wading with Rowan and a sled, the pine island is five hours from the fen edge.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
