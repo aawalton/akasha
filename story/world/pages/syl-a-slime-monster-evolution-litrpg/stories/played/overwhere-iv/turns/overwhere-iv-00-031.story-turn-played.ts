@@ -4,13 +4,14 @@ export const overwhereIv00031 = {
   id: "01a0f3ed-0d8e-7a20-a627-fc2a7a7c4abb",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-031",
+  cover: "image/image-bb195a046b35fbe9",
   ownLength: 208,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 31,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I cast my new spell at the runner, aiming for where its neck will be when the spell hits.",
   beats: [
@@ -36,6 +37,11 @@ export const overwhereIv00031 = {
     "place/overwhere-iv-the-tangle",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-01T13:13:00.000Z",
 } as const satisfies StoryTurnPlayed
