@@ -195,5 +195,9 @@ export const overwhereIiiNala2 = {
       fact: "After her second watch drill Nala is sore to the bone, and glad of it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Cracking the Guild's seed stone bit cold up Nala's arm to the elbow and left her near empty.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
