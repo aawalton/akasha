@@ -50,7 +50,7 @@ export const overwhereIiHollowTarn = {
     },
     {
       fact: "When Nala draws or pushes beside the tarn, its water ripples toward her against the wind.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "From Hollow Tarn down to Wendle Ford is some three hours on foot.",
