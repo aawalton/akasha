@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0079Vol2Chapter75TheAdopted
   id: "01a0f12a-b852-7a41-a471-1e533f94096c",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0079-vol-2-chapter-75-the-adopted-immortal-rat",
+  ownProgress: 2218,
   position: 79,
   publishedAt: "2025-11-04",
   unit: "unit/words",

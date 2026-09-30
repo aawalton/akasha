@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0080Vol2Chapter76Leviathan 
   id: "01a0f12a-b852-7639-9091-254e90689db8",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0080-vol-2-chapter-76-leviathan",
+  ownProgress: 2376,
   position: 80,
   publishedAt: "2025-11-05",
   unit: "unit/words",

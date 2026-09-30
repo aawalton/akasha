@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0081Vol2Chapter77Them = {
   id: "01a0f12a-b852-77c9-8879-a0253fc5db6b",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0081-vol-2-chapter-77-them",
+  ownProgress: 2186,
   position: 81,
   publishedAt: "2025-11-06",
   unit: "unit/words",
