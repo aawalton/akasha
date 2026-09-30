@@ -28,10 +28,12 @@ export const overwhereIii00026 = {
     '"Nothing I do touches it." She jerks her chin at the curtain behind the counter.',
     '"Look at them for me. Now, tonight. A potion each for your trouble, whatever comes of it."',
   ],
+  issues: ['"Nothing I do touches it." - Nobody Acts'],
   lore: [
     "lore/overwhere-iii-brannagh-tull",
     "lore/overwhere-iii-corruption",
     "lore/overwhere-iii-nala",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T17:47:00.000Z",
 } as const satisfies StoryTurnPlayed
