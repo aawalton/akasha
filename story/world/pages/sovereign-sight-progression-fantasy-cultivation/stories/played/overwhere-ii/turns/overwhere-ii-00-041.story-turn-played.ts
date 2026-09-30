@@ -15,4 +15,5 @@ export const overwhereIi00041 = {
     "place/overwhere-ii-hollow-tarn",
     "place/overwhere-ii-tarn-screes",
   ],
+  endsAt: "2026-09-30T15:03:00.000Z",
 } as const satisfies StoryTurnPlayed
