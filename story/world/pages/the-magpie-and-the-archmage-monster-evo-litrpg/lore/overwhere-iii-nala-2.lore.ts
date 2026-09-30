@@ -142,7 +142,7 @@ export const overwhereIiiNala2 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
-      fact: "Brannagh spooned the seed stone from Hild's bite into Nala's clay cup; it holds one.",
+      fact: "Brannagh spooned the seed stone from Hild's bite into Nala's clay cup.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/overwhere-iii-nala",
