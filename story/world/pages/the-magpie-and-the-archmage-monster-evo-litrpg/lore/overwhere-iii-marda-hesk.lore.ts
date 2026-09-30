@@ -206,7 +206,11 @@ export const overwhereIiiMardaHesk = {
     },
     {
       fact: "Asked to crack the Guild's stones, Marda says unmaking them is the point; the healer keeps the rest.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "Watching a seed stone crack to a glowing speck, Marda sits very still, then reaches for her pen.",
