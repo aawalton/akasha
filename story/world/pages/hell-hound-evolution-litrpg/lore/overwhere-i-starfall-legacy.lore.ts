@@ -160,5 +160,9 @@ export const overwhereIStarfallLegacy = {
       fact: "An air-and-water weave skims her over water and wet marsh like a skater, at a horse's gallop.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "On dry ground the air-and-water skim has nothing to ride and gives no speed.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
