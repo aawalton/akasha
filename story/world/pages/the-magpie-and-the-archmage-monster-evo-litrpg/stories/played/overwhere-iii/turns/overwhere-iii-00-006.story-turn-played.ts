@@ -16,7 +16,7 @@ export const overwhereIii00006 = {
     "character-other/overwhere-iii-cal-fenn",
     "character-other/overwhere-iii-jory-fenn",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I follow him in",
   beats: [
     "Nala follows Tobin in out of the cold.",
@@ -48,6 +48,6 @@ export const overwhereIii00006 = {
     "place/overwhere-iii-crook-and-candle",
     "place/overwhere-iii-merrowgate",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T17:50:00.000Z",
 } as const satisfies StoryTurnPlayed
