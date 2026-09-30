@@ -111,6 +111,10 @@ export const overwhereIiKeeperAnselm = {
       fact: "Running, Anselm reaches Marsh Croft some forty minutes after the she-wolf's death, lantern in hand.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Anselm reached Marsh Croft at nightfall on day one, and slept by Garth's fire rather than walk back.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
