@@ -10,7 +10,7 @@ export const overwhereIv00027 = {
   position: 27,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I let the goblin escape and report back to the farmer, then to the alchemist to trade my cores for coins, then to the healer to heal the arm, then to the guild to report on the slimes and the goblines",
   beats: [
@@ -37,6 +37,7 @@ export const overwhereIv00027 = {
     'Behind him the one in the scorched red coat laughs. "A watch recruit, with a practice spear?"',
     'The broad one ignores him. "I\'m Dace. The Four take goblin work here. How many, and how big?"',
   ],
+  issues: ['"Stew\'s for next time" - Hobb presses her to take stew first'],
   lore: [
     "lore/overwhere-iv-brookside-four",
     "lore/overwhere-iv-nala",
@@ -45,6 +46,6 @@ export const overwhereIv00027 = {
     "place/overwhere-iv-millbrook",
     "place/overwhere-iv-millbrook-adventurers-hall",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T19:25:00.000Z",
 } as const satisfies StoryTurnPlayed
