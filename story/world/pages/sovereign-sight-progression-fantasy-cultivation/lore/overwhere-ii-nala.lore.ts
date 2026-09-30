@@ -284,6 +284,10 @@ export const overwhereIiNala = {
       fact: "Descent will not call to Nala until her skin and muscle are refined whole, some weeks of practice.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "When she is ready, Descent calls in a dream: the tarn, and a stair of black water going down.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
