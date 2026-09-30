@@ -80,5 +80,9 @@ export const overwhereIiiMaudFerrow = {
       fact: "Cob, sixteen, works at the tannery by the east wall; his scratch is fresh and shallow, one pull.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Maud grunts at being made to wait, but sends Cob to Brannagh's to meet the healer at noon.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
