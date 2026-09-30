@@ -7,7 +7,15 @@ export const overwhereI00055 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 55,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I use an earth attunement to pull out the hard knots, curious to see what they might be.",
+  lore: [
+    "lore/overwhere-i-fenwatch-2",
+    "lore/overwhere-i-starfall-legacy",
+    "lore/overwhere-i-starfall-legacy-2",
+    "lore/overwhere-i-the-western-march",
+    "place/overwhere-i-fenwatch",
+    "place/overwhere-i-the-greyfen",
+  ],
 } as const satisfies StoryTurnPlayed
