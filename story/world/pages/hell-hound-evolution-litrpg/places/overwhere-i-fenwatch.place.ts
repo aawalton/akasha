@@ -251,6 +251,10 @@ export const overwhereIFenwatch = {
       fact: "The wallow is a quarter hour's walk from the south side of the palisade.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The whole drag to the palisade is one heavy haul, costing her 5 stamina.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
