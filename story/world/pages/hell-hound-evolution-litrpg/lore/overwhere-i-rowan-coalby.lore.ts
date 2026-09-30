@@ -91,6 +91,10 @@ export const overwhereIRowanCoalby = {
       fact: "Rowan, stammering, asked Nala about the howl he heard from the fen after noon.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Rowan knows an old alpha's clouded eye as a drake-pearl, grown of mana, that alchemists prize.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
