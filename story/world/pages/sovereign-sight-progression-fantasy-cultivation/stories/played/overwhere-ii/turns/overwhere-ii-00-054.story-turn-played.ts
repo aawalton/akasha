@@ -10,7 +10,7 @@ export const overwhereIi00054 = {
   position: 54,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I get supplies for my scouting this time, food and water, then work my way up to where I need to be",
   beats: [
