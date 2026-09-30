@@ -260,5 +260,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Slugs at Ghost-Eye: moderate at 50-100 yards, easy under 50, a band harder once it runs the marsh.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "About 13:33 on day 3 four slugs killed the two biggest wolves as they burst from the reeds at her.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
