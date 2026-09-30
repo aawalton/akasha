@@ -175,6 +175,10 @@ export const overwhereITheGreyfen = {
       fact: "The pine island is about two hundred yards across, its east edge a strip of shade under the pines.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The marsh west of the Greystakes is knee-deep water and sedge, open but for scattered reed hummocks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
