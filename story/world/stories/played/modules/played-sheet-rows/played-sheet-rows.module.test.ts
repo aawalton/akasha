@@ -53,6 +53,20 @@ test("a character with no level has every metric named by its whole slug", () =>
   })
 })
 
+test("pages sharing one type are named by what each slug adds to the character's, or by a title", () => {
+  const holder = "character-player/some-nala"
+  const rows = [
+    { values: { type: "some-stat", value: 8, slug: "some-nala-strength", character: holder } },
+    { values: { type: "some-stat", value: 10, slug: "some-nala-dexterity", character: holder } },
+    { values: { type: "some-stat", value: 4, title: "Keen Eye", slug: "x", character: holder } },
+    { values: { type: "some-level", value: 2, slug: "some-nala", character: holder } },
+  ]
+  expect(scoresIn(rows)).toEqual({
+    level: 2,
+    attributes: { DEXTERITY: 10, "KEEN EYE": 4, STRENGTH: 8 },
+  })
+})
+
 test("a skill is named by the skill page's title and ranked by the rank page's title", () => {
   const titles = new Map([
     [SMITHING, theTowerSmithing.title],

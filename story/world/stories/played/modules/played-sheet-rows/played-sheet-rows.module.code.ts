@@ -88,10 +88,26 @@ export function namedIn(
   return named
 }
 
+const CHARACTER_KEY = "character"
+
+const PARTED = "/"
+
+const JOIN = "-"
+
+function ownNameOf(row: QueryRow): string | null {
+  const title = textIn(row.values[TITLE_KEY])
+  if (title !== null && title !== "") return title
+  const slug = textIn(row.values[SLUG_KEY])
+  const character = textIn(row.values[CHARACTER_KEY])
+  if (slug === null || character === null) return null
+  const holder = `${character.slice(character.lastIndexOf(PARTED) + 1)}${JOIN}`
+  return slug.startsWith(holder) && slug.length > holder.length ? slug.slice(holder.length) : null
+}
+
 export function scoresIn(rows: readonly QueryRow[]): Scores {
   let level: number | undefined
   let opening = ""
-  const held: [string, number][] = []
+  const held: [string, number, string | null][] = []
   for (const row of rows) {
     const type = textIn(row.values[TYPE_KEY])
     const value = parseNumber(row.values[VALUE_KEY])
@@ -101,11 +117,11 @@ export function scoresIn(rows: readonly QueryRow[]): Scores {
       opening = type.slice(0, type.length - LEVEL.length)
       continue
     }
-    held.push([type, value])
+    held.push([type, value, ownNameOf(row)])
   }
   const attributes = held
-    .map(([type, value]): [string, number] => [
-      (type.startsWith(opening) ? type.slice(opening.length) : type).toUpperCase(),
+    .map(([type, value, own]): [string, number] => [
+      (own ?? (type.startsWith(opening) ? type.slice(opening.length) : type)).toUpperCase(),
       value,
     ])
     .toSorted((one, other) => one[0].localeCompare(other[0]))

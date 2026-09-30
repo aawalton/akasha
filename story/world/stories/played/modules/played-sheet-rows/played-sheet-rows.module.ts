@@ -19,6 +19,14 @@ export const playedSheetRows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An attribute page stating a title is named by it, in capitals.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "One naming no title but adding a name to its character's slug is named by that.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A skill is named by its skill page's title and ranked by its rank page's title.",
     },
     {
