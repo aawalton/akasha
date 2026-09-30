@@ -326,6 +326,14 @@ export const overwhereIiiNala = {
       fact: "Nala's hunger has gone past grumbling to a steady ache in her stomach.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala has a pair of worn leather boots on loan from Marda, like the knife.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

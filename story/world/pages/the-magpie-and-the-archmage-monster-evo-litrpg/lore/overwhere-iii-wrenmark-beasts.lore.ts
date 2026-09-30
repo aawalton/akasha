@@ -76,5 +76,13 @@ export const overwhereIiiWrenmarkBeasts = {
       fact: "In Merrowgate a whole jackalope fetches 5 copper for meat, pelt and antlers.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Three corrupted beasts reached Merrowgate's fields this winter; it used to be one a year, if that.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
 } as const satisfies Lore
