@@ -10,7 +10,7 @@ export const haremHotel0004TheThroneRoom = {
   story: "story-written/harem-hotel",
   ownLength: 2415,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   beats: [
     "You climb the stairs from the ballroom, still in your tailcoat, into warm air smelling of incense.",
     "The stairs end behind a heavy tapestry; you push it aside onto the foot of a long hall.",
@@ -93,5 +93,5 @@ export const haremHotel0004TheThroneRoom = {
     "character-other/harem-hotel-tamsin",
     "character-player/harem-hotel-alan",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
