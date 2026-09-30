@@ -44,5 +44,9 @@ export const overwhereIStarfallLegacy = {
       fact: "An earth-and-water weave sent out as a ripple comes back as a felt shape of hollows and bodies.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A sensing ripple reaches about fifty yards through wet ground and water, and blurs past that.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
