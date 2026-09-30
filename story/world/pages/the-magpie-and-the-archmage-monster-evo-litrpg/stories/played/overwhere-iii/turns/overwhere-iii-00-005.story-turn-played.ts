@@ -35,11 +35,14 @@ export const overwhereIii00005 = {
     '"Tonight, anyhow," he says. "After that we\'ll see what\'s to be done. Come in out of the cold?"',
   ],
   lore: [
+    "lore/overwhere-iii-bet-harrow",
     "lore/overwhere-iii-hal-dunmore",
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-tobin-wick",
+    "place/overwhere-iii-crook-and-candle",
     "place/overwhere-iii-merrowgate",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2026-09-29T17:25:00.000Z",
 } as const satisfies StoryTurnPlayed
