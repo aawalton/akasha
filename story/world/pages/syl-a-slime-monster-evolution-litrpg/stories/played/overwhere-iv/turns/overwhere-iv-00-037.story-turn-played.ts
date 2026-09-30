@@ -4,10 +4,13 @@ export const overwhereIv00037 = {
   id: "01a0f42a-91ed-7671-a295-5238d1e94225",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-037",
+  ownLength: 149,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 37,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Yes, I didn’t see a way for us to finish the goblins without risking casualties without it. Is that going to be a problem? I chose Spellblade for my starting class.”",
   beats: [
@@ -21,6 +24,6 @@ export const overwhereIv00037 = {
     '"If that reaches Aubrin, no report of mine will hide it."',
     'She leans in. "So keep that line out of sight in town. Use it only out in the Tangle. Can you?"',
   ],
-  lore: ["lore/overwhere-iv-ilsa-crane"],
+  lore: ["lore/overwhere-iv-ilsa-crane", "lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2"],
   endsAt: "2026-10-01T15:51:00.000Z",
 } as const satisfies StoryTurnPlayed
