@@ -24,5 +24,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "No System window names a thing she finds; she learns what it is from someone who knows.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's air-and-water skim carries only herself; it cannot bear another person.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
