@@ -4,13 +4,14 @@ export const overwhereIv00008 = {
   id: "01a0f1b8-dc79-7400-82a8-e7292d2d325f",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-008",
+  cover: "image/image-952d9ac515c466b4",
   ownLength: 294,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 8,
   prose: "txt",
-  characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
+  stepStatus: "step-status/player",
   action:
     "“Sure! I’d appreciate that. A few questions first though. I assume the guard doesn’t mind adventurer work on the side? What’s the best way to dispatch a slime? Anything I need to be wary of. Assume I’m completely new to this, because I am.”",
   beats: [
@@ -39,6 +40,6 @@ export const overwhereIv00008 = {
     "place/overwhere-iv-millbrook-common",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T13:52:00.000Z",
 } as const satisfies StoryTurnPlayed
