@@ -4,10 +4,13 @@ export const overwhereIv00044 = {
   id: "01a0f479-5d28-7f00-9e68-b415da10aac8",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-044",
+  ownLength: 255,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 44,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
+  stepStatus: "step-status/reviewers",
   action: "“Great! I’ll read the handbook first.”",
   beats: [
     '"Great! I\'ll read the handbook first." Nala carries it to the hearth table and opens it.',
@@ -28,6 +31,11 @@ export const overwhereIv00044 = {
     "She looks up. Ilsa is watching her from the counter, pencil still, eyebrows high.",
     '"You can\'t have read all that," Ilsa says. "Not in half an hour. Nobody reads that fast."',
   ],
-  lore: ["lore/overwhere-iv-guild-handbook", "lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2"],
+  lore: [
+    "lore/overwhere-iv-guild-handbook",
+    "lore/overwhere-iv-ilsa-crane-2",
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+  ],
   endsAt: "2026-10-02T10:38:00.000Z",
 } as const satisfies StoryTurnPlayed
