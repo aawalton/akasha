@@ -188,6 +188,14 @@ export const overwhereIiKeeperAnselm = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
+      fact: "Anselm keeps bread, hard cheese and small beer at the shrine, and shares them gladly.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Anselm means to write of Nala in his letter for market day, and will tell her before he does.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The Keepers teach that no one Descends until the body is refined enough to bear it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
