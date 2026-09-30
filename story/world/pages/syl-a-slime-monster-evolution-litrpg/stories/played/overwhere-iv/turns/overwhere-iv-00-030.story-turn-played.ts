@@ -39,6 +39,6 @@ export const overwhereIv00030 = {
   issues: ['"<Goblin LV 5 defeated." - no Identify skill; Nala sees no one\'s level but her own'],
   lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2", "place/overwhere-iv-the-tangle"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-10-01T13:12:00.000Z",
 } as const satisfies StoryTurnPlayed
