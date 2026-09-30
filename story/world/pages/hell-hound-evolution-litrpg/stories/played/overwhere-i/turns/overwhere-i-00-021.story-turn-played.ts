@@ -30,6 +30,10 @@ export const overwhereI00021 = {
     "Her mana reads 78: at ten a minute, fire-strength would last her only about eight minutes more.",
     "The palisade is a quarter hour's walk away, and the boar lies deeper than when she began.",
   ],
+  issues: [
+    '"The palisade is a quarter hour\'s walk away, and the boar lies deeper" - Leave It Open',
+  ],
   lore: ["lore/overwhere-i-greyfen-beasts", "lore/overwhere-i-nala", "place/overwhere-i-fenwatch"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T07:44:00.000Z",
 } as const satisfies StoryTurnPlayed
