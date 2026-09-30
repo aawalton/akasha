@@ -309,5 +309,9 @@ export const overwhereINala = {
       fact: "When she lets fire-strength go, the heat drains away and leaves her arms trembling.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "A spinning water disc held against a beast saws through hide and bone like a blade.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
