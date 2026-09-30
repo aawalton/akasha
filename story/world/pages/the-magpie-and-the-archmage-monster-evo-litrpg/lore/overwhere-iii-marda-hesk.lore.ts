@@ -152,6 +152,10 @@ export const overwhereIiiMardaHesk = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "Marda has never seen blight unpicked strand by strand, and it shakes her more than she shows.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
