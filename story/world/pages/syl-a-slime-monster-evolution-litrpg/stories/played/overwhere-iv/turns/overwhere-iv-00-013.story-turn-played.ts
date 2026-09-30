@@ -16,7 +16,7 @@ export const overwhereIv00013 = {
     "character-other/overwhere-iv-dell",
     "character-other/overwhere-iv-ilsa-crane",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Should we go try the crystal? I don’t mind being tonight’s entertainment. Don’t expect it’ll be too interesting, but at least it’s new. I know how small towns can be.”",
   beats: [
@@ -51,6 +51,6 @@ export const overwhereIv00013 = {
     "place/overwhere-iv-millbrook-adventurers-hall",
     "place/overwhere-iv-millbrook-gatehouse",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T18:40:00.000Z",
 } as const satisfies StoryTurnPlayed
