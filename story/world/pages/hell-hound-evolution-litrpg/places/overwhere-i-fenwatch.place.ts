@@ -223,6 +223,10 @@ export const overwhereIFenwatch = {
       fact: "The slate: Grubboars rooting the oat strips south of the palisade, five silver for the old boar.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "The slate also copies Wendlow's Board: Ghost-Eye, 25 gold; Harl Voss, 30; his men, 2 each.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
