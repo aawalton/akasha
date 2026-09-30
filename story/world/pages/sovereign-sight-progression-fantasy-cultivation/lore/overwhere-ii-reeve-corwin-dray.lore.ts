@@ -143,5 +143,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Dray's skin turns an ordinary thrust, but one driven by Nala's strength and Undertow breaks it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Dray yields the moment he is struck true or thrown down; he does not fight on from pride.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
