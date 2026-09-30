@@ -172,6 +172,10 @@ export const overwhereIiiMardaHesk = {
       fact: "Marda's fourth letter to Thornmere went out with last night's post rider.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
+    {
+      fact: "Marda counts out 10 copper a seed stone, and drops the seeds with tongs into a lead-lined box.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
