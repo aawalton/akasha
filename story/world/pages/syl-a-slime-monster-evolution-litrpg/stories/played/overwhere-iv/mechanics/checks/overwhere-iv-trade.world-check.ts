@@ -46,6 +46,14 @@ export const overwhereIvTrade = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Coin changes hands only as this check answers, or as a wage, gift or theft.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Coin left with the adventurers' hall is held there, not in her purse.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The purse page is written with what changed hands before the turn moves on.",
     },
     {
