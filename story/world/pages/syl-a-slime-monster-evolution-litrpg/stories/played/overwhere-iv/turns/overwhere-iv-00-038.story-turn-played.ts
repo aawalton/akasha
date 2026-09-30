@@ -11,4 +11,5 @@ export const overwhereIv00038 = {
   action:
     "“Yes, I won’t cast it in town. I could even take solo missions from now on if that would be best. I could have easily taken all five goblins on my own with the new spell.”",
   lore: ["lore/overwhere-iv-ilsa-crane-2"],
+  endsAt: "2026-10-01T15:54:00.000Z",
 } as const satisfies StoryTurnPlayed
