@@ -127,5 +127,29 @@ export const overwhereIvHobbFarm = {
       fact: "Of the two figures, one carries a flint-tipped spear and one a rusty knife; both eye the sheep.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "The spear goblin is the LV 4 and goes first; the LV 3 knife goblin hangs a step behind it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A lone woman who seems afraid draws both goblins on, jabbering and grinning, spear levelled.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The spear goblin stops to jab from its spear's length; it has never met a longer reach.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A goblin that breaks runs for the gap and the Tangle, quick on bare feet over wet grass.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "In the Tangle's dark past the gap, a fleeing goblin is lost within a few strides.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The goblins jabber in their own tongue; spoken to in the common tongue, they only sneer.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
