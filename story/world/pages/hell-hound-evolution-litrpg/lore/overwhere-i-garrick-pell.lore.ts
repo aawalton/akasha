@@ -25,7 +25,7 @@ export const overwhereIGarrickPell = {
     },
     {
       fact: "A bed and supper there cost four copper; a mug of his dark ale costs one copper.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "He serves eel pie, oat bread, goat stew and turnip mash, and brews his own ale.",
