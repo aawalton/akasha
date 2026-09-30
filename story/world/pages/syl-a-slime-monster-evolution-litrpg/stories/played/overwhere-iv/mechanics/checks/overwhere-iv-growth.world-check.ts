@@ -64,6 +64,15 @@ export const overwhereIvGrowth = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A split gives race the odd point, and is read as two gains: track race, track class.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A revealed skill is held only once bought, and is then filed as held at LV 1.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A racial level earns a Trait Point and a class level a Skill Point.",
     },
     {
