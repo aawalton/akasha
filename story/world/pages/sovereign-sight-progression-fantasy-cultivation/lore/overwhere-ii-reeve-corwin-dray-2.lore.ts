@@ -53,7 +53,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "The Carrowmouth notices name Crake's Talent Siphon, and say he is First Depth, like Dray.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The notices warn never to let Crake lay a hand on bare skin; his touch is what drinks.",
