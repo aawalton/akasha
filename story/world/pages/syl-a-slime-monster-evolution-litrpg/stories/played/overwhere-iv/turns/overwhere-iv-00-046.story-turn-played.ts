@@ -10,7 +10,7 @@ export const overwhereIv00046 = {
   position: 46,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“Great! Maybe I’ll do both. For now I’ll get some lunch and the go read at the shrine.”",
   beats: [
     '"Great! Maybe I\'ll do both," Nala says. "For now, lunch. Then I\'ll go read at the shrine."',
@@ -30,6 +30,6 @@ export const overwhereIv00046 = {
     "place/overwhere-iv-brook-and-barrel",
     "place/overwhere-iv-millbrook-shrine",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-02T12:01:00.000Z",
 } as const satisfies StoryTurnPlayed
