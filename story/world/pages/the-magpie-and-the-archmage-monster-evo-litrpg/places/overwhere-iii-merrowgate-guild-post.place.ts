@@ -126,6 +126,10 @@ export const overwhereIiiMerrowgateGuildPost = {
       fact: "The lead box holds four bounty blightstones: two from the corrupted stag, two from the wolf.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
+    {
+      fact: "Marda would let Nala try on one bounty stone, lifted out with tongs, at the desk under her eye.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
