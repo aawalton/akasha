@@ -4,13 +4,14 @@ export const overwhereIi00048 = {
   id: "01a0f42b-7d2d-7b74-8e34-0cedd8198d43",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-048",
+  cover: "image/image-10fd686a6d29612a",
   ownLength: 179,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 48,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“What do you expect the consequences to be, either way?”",
   beats: [
     'Nala: "What do you expect the consequences to be, either way?"',
@@ -29,6 +30,11 @@ export const overwhereIi00048 = {
   ],
   lore: ["lore/overwhere-ii-keeper-anselm", "lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T16:57:00.000Z",
 } as const satisfies StoryTurnPlayed
