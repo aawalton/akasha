@@ -300,5 +300,9 @@ export const overwhereIStarfallLegacy = {
       fact: "A mark running at her is one band harder; leading it right is what the act already covers.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Weaving and loosing one slug takes about three seconds, at the Weave cost each.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
