@@ -24,5 +24,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Pine Isle Drakewolves Seven and Eight are the two biggest, Levels 15 and 16.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Four and Five lead the pups away; Six stays on the shore with Ghost-Eye, Seven and Eight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
