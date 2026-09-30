@@ -10,4 +10,5 @@ export const overwhereI00027 = {
   stepStatus: "step-status/game-master",
   action: "“Yeah, what do they look like? How can I find them?”",
   lore: ["lore/overwhere-i-greyfen-beasts", "place/overwhere-i-fenwatch"],
+  endsAt: "2026-09-30T09:39:00.000Z",
 } as const satisfies StoryTurnPlayed
