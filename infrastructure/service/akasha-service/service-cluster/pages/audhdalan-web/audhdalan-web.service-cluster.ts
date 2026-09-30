@@ -18,7 +18,7 @@ export const audhdalanWeb = {
   maxCpuMillicores: 500,
   minMemoryMb: 512,
   killMemoryMb: 512,
-  codeSync: { cachePath: "/var/audhdalan-web-cache", minMemoryMb: 64, killMemoryMb: 1024 },
+  codeSync: { cachePath: "/var/audhdalan-web-cache", minMemoryMb: 256, killMemoryMb: 2048 },
   manifests: "yaml",
   secrets: [
     "secret/alanwalton-secrets-google-oauth-client-id",
