@@ -4,13 +4,14 @@ export const overwhereIi00049 = {
   id: "01a0f433-06d1-7b5c-a54d-f9f546bfd785",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-049",
+  cover: "image/image-46a41e9fada119d4",
   ownLength: 111,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 49,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Share it all. I expect to take the Chartermark sooner or later anyways. No reason to slow that down.”",
   beats: [
@@ -29,6 +30,11 @@ export const overwhereIi00049 = {
   ],
   lore: ["lore/overwhere-ii-keeper-anselm", "lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T17:02:00.000Z",
 } as const satisfies StoryTurnPlayed
