@@ -7,7 +7,13 @@ export const overwhereIv00027 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 27,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I let the goblin escape and report back to the farmer, then to the alchemist to trade my cores for coins, then to the healer to heal the arm, then to the guild to report on the slimes and the goblines",
+  lore: [
+    "lore/overwhere-iv-brookside-four",
+    "place/overwhere-iv-hobb-farm",
+    "place/overwhere-iv-millbrook",
+    "place/overwhere-iv-millbrook-adventurers-hall",
+  ],
 } as const satisfies StoryTurnPlayed
