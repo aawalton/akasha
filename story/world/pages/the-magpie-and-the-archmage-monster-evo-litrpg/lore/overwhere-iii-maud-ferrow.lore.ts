@@ -26,7 +26,11 @@ export const overwhereIiiMaudFerrow = {
     },
     {
       fact: "Maud's drill is laps, stone-lifting, and staff work with the watch, dawn bell to mid-morning.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-maud-ferrow",
+      ],
     },
     {
       fact: "Maud's nephew Wat has a blight scratch on his forearm, and she'd pay 10 copper to see it clean.",
