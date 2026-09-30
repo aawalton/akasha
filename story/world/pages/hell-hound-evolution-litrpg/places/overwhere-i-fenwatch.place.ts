@@ -41,7 +41,7 @@ export const overwhereIFenwatch = {
     },
     {
       fact: "The Tarred Stag, a longhall inn of dark tarred timber, sits on the green and is where all gather.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "A small stone shrine to the Almighty Above, the oldest building in Fenwatch, faces the green.",
