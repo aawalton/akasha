@@ -245,7 +245,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Dray knows of Oswy Crake, a Water thief on the Carrowmouth road with ten bars on his head.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray can write Nala a Reeve's letter naming her, which serves as papers in Carrowmouth.",
