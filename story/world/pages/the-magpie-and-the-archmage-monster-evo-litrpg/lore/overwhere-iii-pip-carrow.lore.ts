@@ -34,7 +34,11 @@ export const overwhereIiiPipCarrow = {
     },
     {
       fact: "Mid-afternoon Pip slips into the post, finds the healer reading, and sits down to ask about magic.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-pip-carrow",
+      ],
     },
     {
       fact: "Pip carries word from Brannagh: a carter's dog-bitten wife is coming to the shop at the dusk bell.",
