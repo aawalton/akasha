@@ -10,4 +10,5 @@ export const overwhereIv00036 = {
   stepStatus: "step-status/game-master",
   action: "“Sure, what’s up?”",
   lore: ["lore/overwhere-iv-ilsa-crane"],
+  endsAt: "2026-10-01T15:49:00.000Z",
 } as const satisfies StoryTurnPlayed
