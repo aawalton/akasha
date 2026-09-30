@@ -123,6 +123,10 @@ export const overwhereIHessaVane = {
       fact: "She takes 'here and there' as a lady not wanting to say, and does not press.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Asked for challenges, she names Ghost-Eye and Voss's crew, and says neither is for one alone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
