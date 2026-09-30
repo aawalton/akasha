@@ -7,7 +7,8 @@ export const overwhereI00020 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 20,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I drop the water orb for the sow, since I know I can reliably do two at once, and use the second as Air to speed up my movements, then kite the sows until the boar is dead, then repeat until either the sows give up, or all five are done.",
+  lore: ["lore/overwhere-i-greyfen-beasts", "lore/overwhere-i-nala", "place/overwhere-i-fenwatch"],
 } as const satisfies StoryTurnPlayed
