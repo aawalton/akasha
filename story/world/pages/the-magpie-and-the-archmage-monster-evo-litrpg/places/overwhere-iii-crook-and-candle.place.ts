@@ -65,6 +65,7 @@ export const overwhereIiiCrookAndCandle = {
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-bet-harrow",
         "character-other/overwhere-iii-dunstan-harrow",
+        "character-player/overwhere-iii-nala",
       ],
     },
   ],
