@@ -10,4 +10,5 @@ export const overwhereIv00023 = {
   stepStatus: "step-status/game-master",
   action: "“How many? If it’s less than three I think I could take them.”",
   lore: ["place/overwhere-iv-hobb-farm"],
+  endsAt: "2026-09-30T18:12:00.000Z",
 } as const satisfies StoryTurnPlayed
