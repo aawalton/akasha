@@ -10,7 +10,7 @@ export const overwhereIi00051 = {
   position: 51,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "If the goats are aggressive, I kill them and drag the corpses back down to the woman.",
   beats: [
     "Nala steps down into the cwm toward the pool, spear low, to see what the goats will do.",
@@ -41,6 +41,6 @@ export const overwhereIi00051 = {
     "place/overwhere-ii-callow-beck",
     "place/overwhere-ii-whitecombs",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-01T16:00:00.000Z",
 } as const satisfies StoryTurnPlayed
