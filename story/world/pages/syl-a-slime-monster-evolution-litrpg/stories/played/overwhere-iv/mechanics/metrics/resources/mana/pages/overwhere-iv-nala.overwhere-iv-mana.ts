@@ -10,5 +10,5 @@ export const overwhereIvNala = {
   maxValue: 51,
   history: "jsonl",
   displayOrder: 2,
-  revealedAs: "A warmth behind her ribs, a little lower, still huge",
+  revealedAs: "The warmth runs thin again, a hearth burned down to coals",
 } as const satisfies OverwhereIvMana
