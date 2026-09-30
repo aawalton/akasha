@@ -231,6 +231,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "At midday all three reedlurkers lie curled asleep in their holts' dry dens.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A sensing ripple is a faint shiver to a sleeping reedlurker; it stirs but does not bolt.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
