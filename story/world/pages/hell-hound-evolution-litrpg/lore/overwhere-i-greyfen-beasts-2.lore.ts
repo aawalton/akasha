@@ -22,10 +22,14 @@ export const overwhereIGreyfenBeasts2 = {
     },
     {
       fact: "Mud-hauled up through the bank, not out the water mouth, a lurker lands on dry reeds, off the water.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Nala mud-hauled the Level 9 from its den and killed it with one hot-wind blast at 11:02 on day 2.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Jory has never found the third reedlurker's holt near his traps.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
