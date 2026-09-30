@@ -6,5 +6,5 @@ export const overwhereINalaStarfallWeave = {
   slug: "overwhere-i-nala-starfall-weave",
   character: "character-player/overwhere-i-nala",
   skill: "world-skill/overwhere-i-starfall-weave",
-  level: 2,
+  level: 3,
 } as const satisfies OverwhereISkill

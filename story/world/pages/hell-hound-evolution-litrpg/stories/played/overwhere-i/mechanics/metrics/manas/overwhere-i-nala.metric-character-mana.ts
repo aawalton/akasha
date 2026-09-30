@@ -5,9 +5,9 @@ export const overwhereINala = {
   type: "page-type/metric-character-mana",
   slug: "overwhere-i-nala",
   character: "character-player/overwhere-i-nala",
-  value: 96,
+  value: 224,
   minValue: 0,
-  maxValue: 232,
+  maxValue: 244,
   history: "jsonl",
   displayOrder: 2,
 } as const satisfies MetricCharacterMana
