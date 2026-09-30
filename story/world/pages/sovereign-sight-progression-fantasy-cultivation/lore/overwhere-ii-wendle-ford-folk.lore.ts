@@ -191,5 +191,9 @@ export const overwhereIiWendleFordFolk = {
       fact: "Col Ashby is broad and stubborn-jawed, thirty, his leg bandaged knee to ankle and reeking of rot.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Col Ashby growled that he needs his leg, not a stranger, but did not send Nala away.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore

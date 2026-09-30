@@ -71,6 +71,14 @@ export const overwhereIiKeeperAnselm = {
       fact: "Anselm felt a slow, steady tide from the mill that morning, an hour long, like breathing.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "At dawn Anselm thought the Sea itself had come up out of the fells, and did not sleep again.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Nala told Anselm she was unsure what he meant; he inclined his head and did not argue.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
