@@ -349,6 +349,14 @@ export const overwhereIiiBrannaghTull = {
       fact: "The receipt book's salves: goose-grease and yarrow for wounds, marigold for burns.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Brannagh shuts shop at dark; the receipt book waits at her counter for Nala from first light.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
