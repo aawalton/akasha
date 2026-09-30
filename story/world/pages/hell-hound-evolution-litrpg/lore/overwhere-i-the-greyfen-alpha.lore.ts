@@ -175,6 +175,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "Lying still downwind among the Greystakes, she is hidden from the pack with no check.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At 12:30 on day 3 all nine grown wolves and the three pups are on the island.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
