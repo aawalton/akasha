@@ -128,5 +128,9 @@ export const overwhereIStarfallLegacy = {
       fact: "Having felt one lurker by ripple, she reads another's warm, heavy shape with the +2 of calibration.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A steam weave heating a holt tunnel's water fills the den above with scalding steam in a minute.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
