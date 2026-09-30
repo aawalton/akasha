@@ -335,6 +335,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "Within 30 yards of the first slide the channel holds only eels, small fish and weed; no lurker.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "An awake reedlurker feels a sensing ripple as a shiver and freezes in its den; it does not bolt.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
