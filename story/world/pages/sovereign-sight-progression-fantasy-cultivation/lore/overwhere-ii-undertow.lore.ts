@@ -144,5 +144,9 @@ export const overwhereIiUndertow = {
       fact: "A chamber filled with Nala's Water and left with the sick holds their rot back as her touch does.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Undertow's push can throw a grown man like Dray off his feet; his stone arms do not anchor him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
