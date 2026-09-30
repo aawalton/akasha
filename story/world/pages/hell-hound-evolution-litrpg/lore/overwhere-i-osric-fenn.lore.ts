@@ -51,6 +51,10 @@ export const overwhereIOsricFenn = {
       fact: "Osric Fenn reaches Fenwatch on the evening of day 3 and takes a room at the Stag.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At the Stag, Osric knows the pale blue knots as small mana crystals and offers seven silver each.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
