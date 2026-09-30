@@ -72,7 +72,12 @@ export const overwhereIiiGarrickDole = {
     },
     {
       fact: "A second pull on Garrick's bite draws another third; the purple shrinks to a hand round the bite.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-garrick-dole",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
     },
     {
       fact: "Clear-headed now, Garrick asks his healer's name, and says slowly that he owes her.",
