@@ -175,6 +175,10 @@ export const overwhereIiiMerrowgate = {
       fact: "At first light market carts come into the town square to set up.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Merrowgate's market day comes every fifth day; the next is three days off.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
