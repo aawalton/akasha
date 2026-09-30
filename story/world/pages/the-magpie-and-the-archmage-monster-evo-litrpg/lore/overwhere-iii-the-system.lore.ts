@@ -248,6 +248,14 @@ export const overwhereIiiTheSystem = {
       fact: "The Guild's quest windows and ring functions run on the System, built by the Pillar of Lost Magic.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Spells are bought from the System's skill shop with glimmerstones, the same as any skill.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tobin-wick",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

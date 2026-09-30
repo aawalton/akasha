@@ -28,5 +28,6 @@ export const overwhereIii00007 = {
   ],
   lore: ["lore/overwhere-iii-nala", "lore/overwhere-iii-tobin-wick"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-29T18:00:00.000Z",
 } as const satisfies StoryTurnPlayed
