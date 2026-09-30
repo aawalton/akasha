@@ -20,5 +20,9 @@ export const overwhereIiiCleansingWeave = {
       fact: "Cleansing Weave is not Purify; Purify stays in her skill shop at 15 glimmerstones.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A holy thread shaped as a pull is Cleansing Weave by another road, and costs its 3 mana.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
