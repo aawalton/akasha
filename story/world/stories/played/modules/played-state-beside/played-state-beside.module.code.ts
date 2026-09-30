@@ -1,7 +1,5 @@
 "use client"
 
-import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
-import { parseNumber } from "akasha/code/type/narrowing/modules/parse-number/parse-number.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import type {
@@ -15,12 +13,14 @@ import type { GameState } from "akasha/story/engine/core/modules/state-schema/st
 import { worldAttunement } from "akasha/story/world/mechanics/attunements/world-attunement.page-type.ts"
 import { worldClass } from "akasha/story/world/mechanics/classes/world-class.page-type.ts"
 import { worldCondition } from "akasha/story/world/mechanics/conditions/world-condition.page-type.ts"
+import { worldCurrency } from "akasha/story/world/mechanics/currencies/world-currency.page-type.ts"
 import {
   type Had,
   itemsOf,
 } from "akasha/story/world/mechanics/items/story-item/modules/character-items-beside/character-items-beside.module.code.ts"
 import { worldLegacy } from "akasha/story/world/mechanics/legacies/world-legacy.page-type.ts"
 import { metricCharacterAttribute } from "akasha/story/world/mechanics/metrics/metric-character/attribute/metric-character-attribute.page-type.ts"
+import { metricCharacterCurrency } from "akasha/story/world/mechanics/metrics/metric-character/currency/metric-character-currency.page-type.ts"
 import { metricCharacterResource } from "akasha/story/world/mechanics/metrics/metric-character/resource/metric-character-resource.page-type.ts"
 import { worldQuest } from "akasha/story/world/mechanics/quests/world-quest.page-type.ts"
 import { worldRelationship } from "akasha/story/world/mechanics/relationships/world-relationship.page-type.ts"
@@ -31,19 +31,22 @@ import {
   askedLoudly,
   reportThrown,
 } from "akasha/story/world/stories/played/modules/played-asking/played-asking.module.code.ts"
+import { poolsIn } from "akasha/story/world/stories/played/modules/played-pools/played-pools.module.code.ts"
 import {
   attunementsIn,
   bondsIn,
   type Counted,
+  type Currency,
+  denominationsIn,
   heldIn,
   namedIn,
+  pursesIn,
   questsIn,
   resourcesIn,
   type Skill,
   scoresIn,
   skillsIn,
   traitsIn,
-  wordsIn,
 } from "akasha/story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.code.ts"
 import { useEffect, useState } from "react"
 
@@ -85,24 +88,13 @@ const COUNTER_KEY = "counter"
 
 const TRAIT_KEY = "trait"
 
-const TURN_KEY = "turn"
-
-const MAX = "Max"
-
-const LINE_BREAK = "\n"
-
-const LAST = -1
-
-const BEFORE_LAST = -2
-
-type Line = { readonly turn: number; readonly value: number }
-
 export type Filed = {
   readonly pools: Record<string, number>
   readonly delta: Record<string, number>
   readonly level?: number
   readonly attributes: Readonly<Record<string, number>>
   readonly resources?: Readonly<Record<string, string | number>>
+  readonly purse?: Readonly<Record<string, string | number>>
   readonly skills: readonly Skill[]
   readonly traits: readonly Skill[]
   readonly legacies: readonly Skill[]
@@ -126,53 +118,6 @@ const NOTHING_FILED: Filed = {
   bonds: [],
   attunements: [],
   had: null,
-}
-
-function lineIn(text: string): Line | null {
-  let parsed: unknown
-  try {
-    parsed = JSON.parse(text)
-  } catch {
-    return null
-  }
-  if (!isRecord(parsed)) return null
-  const turn = parseNumber(parsed[TURN_KEY])
-  const value = parseNumber(parsed[VALUE_KEY])
-  return turn === undefined || value === undefined ? null : { turn, value }
-}
-
-export function linesIn(held: unknown): readonly Line[] {
-  if (typeof held !== "string") return []
-  const lines: Line[] = []
-  for (const text of held.split(LINE_BREAK)) {
-    const line = text.trim() === "" ? null : lineIn(text)
-    if (line !== null) lines.push(line)
-  }
-  return lines
-}
-
-export function changeIn(lines: readonly Line[], turn: number): number | undefined {
-  const last = lines.at(LAST)
-  const before = lines.at(BEFORE_LAST)
-  if (last === undefined || before === undefined || last.turn !== turn) return undefined
-  const change = last.value - before.value
-  return change === 0 ? undefined : change
-}
-
-export function poolsIn(rows: readonly QueryRow[], turn: number): Pick<Filed, "pools" | "delta"> {
-  const pools: Record<string, number> = {}
-  const delta: Record<string, number> = {}
-  for (const row of rows) {
-    const type = textIn(row.values[TYPE_KEY])
-    const value = parseNumber(row.values[VALUE_KEY])
-    if (type === null || value === undefined || wordsIn(row) !== null) continue
-    pools[type] = value
-    const most = parseNumber(row.values[MAX_VALUE_KEY])
-    if (most !== undefined) pools[`${type}${MAX}`] = most
-    const change = changeIn(linesIn(row.values[HISTORY_KEY]), turn)
-    if (change !== undefined) delta[type] = change
-  }
-  return { pools, delta }
 }
 
 type Named = {
@@ -262,7 +207,54 @@ async function askedHeld(type: string, key: string, character: string): Promise<
   )
 }
 
+const CURRENCY_KEY = "currency"
+
+const DENOMINATIONS_KEY = "denominations"
+
+async function currenciesOf(rows: readonly QueryRow[]): Promise<ReadonlyMap<string, Currency>> {
+  const slugs = namedIn(rows, [CURRENCY_KEY]).get(worldCurrency.slug) ?? []
+  const currencies = new Map<string, Currency>()
+  if (slugs.length === 0) return currencies
+  const asked = await askedLoudly({
+    "page-type": worldCurrency.slug,
+    where: { slug: { in: [...slugs] } },
+    keys: [SLUG_KEY, TITLE_KEY, DENOMINATIONS_KEY],
+  })
+  if (!asked.ok) return currencies
+  for (const row of asked.answer.rows) {
+    const slug = textIn(row.values[SLUG_KEY])
+    const title = textIn(row.values[TITLE_KEY])
+    if (slug === null || title === null) continue
+    currencies.set(`${worldCurrency.slug}/${slug}`, {
+      title,
+      denominations: denominationsIn(row.values[DENOMINATIONS_KEY]),
+    })
+  }
+  return currencies
+}
+
+async function readPurse(character: string): Promise<Readonly<Record<string, string | number>>> {
+  const rows = rowsOf(
+    await askedLoudly({
+      "page-type": metricCharacterCurrency.slug,
+      where: { character: { is: character } },
+      keys: [
+        CHARACTER_KEY,
+        VALUE_KEY,
+        SLUG_KEY,
+        TITLE_KEY,
+        CURRENCY_KEY,
+        DISPLAY_ORDER_KEY,
+        REVEALED_AS_KEY,
+        UNREVEALED_KEY,
+      ],
+    })
+  )
+  return pursesIn(rows, await currenciesOf(rows))
+}
+
 async function readFiled(character: string, turn: number): Promise<Filed> {
+  const purse = await readPurse(character)
   const [resources, scores, holdings, quests, bonds, attunements, traits, had] = await Promise.all([
     askedLoudly({
       "page-type": metricCharacterResource.slug,
@@ -371,6 +363,7 @@ async function readFiled(character: string, turn: number): Promise<Filed> {
     ...(scored.level === undefined ? {} : { level: scored.level }),
     attributes: scored.attributes,
     ...(Object.keys(held).length === 0 ? {} : { resources: held }),
+    ...(Object.keys(purse).length === 0 ? {} : { purse }),
     skills: skillsIn(skillRows, titles, descriptions),
     traits: traitsIn(traitRows, titles, descriptions),
     legacies: heldIn(legacyRows, LEGACY_KEY, titles, descriptions),
@@ -389,6 +382,7 @@ function filedNothing(filed: Filed): boolean {
     Object.keys(filed.pools).length === 0 &&
     filed.level === undefined &&
     Object.keys(filed.attributes).length === 0 &&
+    filed.purse === undefined &&
     filed.skills.length === 0 &&
     filed.traits.length === 0 &&
     filed.legacies.length === 0 &&
@@ -407,6 +401,7 @@ function sheetOf(filed: Filed): RevealedSheet {
     ...(filed.level === undefined ? {} : { level: filed.level }),
     ...(Object.keys(filed.attributes).length === 0 ? {} : { attributes: { ...filed.attributes } }),
     ...(filed.resources === undefined ? {} : { resources: { ...filed.resources } }),
+    ...(filed.purse === undefined ? {} : { purse: { ...filed.purse } }),
     ...(filed.skills.length === 0 ? {} : { skills: [...filed.skills] }),
     ...(filed.traits.length === 0 ? {} : { traits: [...filed.traits] }),
     ...(filed.legacies.length === 0 ? {} : { legacies: [...filed.legacies] }),

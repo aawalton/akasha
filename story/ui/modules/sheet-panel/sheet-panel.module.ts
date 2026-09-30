@@ -65,6 +65,10 @@ export const sheetPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The items tab opens on the character's purse, above what the character carries.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A panel drawing this sheet says whether it shows the stats and the bonds.",
     },
     {

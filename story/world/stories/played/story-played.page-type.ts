@@ -28,6 +28,7 @@ export const storyPlayed = {
     "module/player-beside",
     "module/played-channel",
     "module/played-panels",
+    "module/played-pools",
     "module/played-rows",
     "module/played-sheet-rows",
     "module/played-shell",

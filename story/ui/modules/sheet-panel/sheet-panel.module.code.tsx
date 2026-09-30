@@ -256,8 +256,14 @@ function SkillsTab({ sheet, showsBonds }: { sheet: ClientSheet; showsBonds: bool
 function ItemsTab({ sheet }: { sheet: ClientSheet }) {
   const items = sheet.items ?? []
   const equipment = Object.entries(sheet.equipment ?? {})
+  const purse = sheet.purse
   return (
     <div className="flex flex-col gap-3">
+      {purse !== undefined ? (
+        <Section title="Purse">
+          <ScalarRows record={purse} single />
+        </Section>
+      ) : null}
       <Section title="Inventory">
         {items.length === 0 ? (
           <div className="font-mono text-[12px] text-tertiary">none yet</div>

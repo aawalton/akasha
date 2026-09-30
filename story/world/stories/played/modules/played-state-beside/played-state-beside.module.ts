@@ -16,23 +16,7 @@ export const playedStateBeside = {
       decisionKind: "decision-kind/departure",
       statement: "A character whose pages hold nothing has no state.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A pool is keyed by the slug of its page type.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The most a pool holds is keyed by the pool's key with `Max` on the end.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A pool's change is its history's last line less the line before, where the last line is this turn.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A pool whose history has no line for this turn has no change.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:
@@ -58,7 +42,8 @@ export const playedStateBeside = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A resource stating the words the story gave for it is in no pool.",
+      statement:
+        "The character's purses are read with the currencies they name, apart from its resources.",
     },
     {
       decisionKind: "decision-kind/departure",
