@@ -34,6 +34,6 @@ export const overwhereIv00034 = {
   ],
   lore: ["lore/overwhere-iv-brookside-four", "lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-10-01T13:18:00.000Z",
 } as const satisfies StoryTurnPlayed
