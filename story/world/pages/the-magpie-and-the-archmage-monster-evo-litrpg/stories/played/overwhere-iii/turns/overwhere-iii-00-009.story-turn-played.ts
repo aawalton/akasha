@@ -37,5 +37,6 @@ export const overwhereIii00009 = {
     "lore/overwhere-iii-nala",
     "place/overwhere-iii-wrenwood",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-30T07:07:00.000Z",
 } as const satisfies StoryTurnPlayed
