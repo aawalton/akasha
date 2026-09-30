@@ -213,7 +213,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "Woken by day, greymaws are slow and clumsy for their first few heartbeats.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "A spear thrust driven by Undertow pierces greymaw scale; reaching the bone chamber, it kills.",
