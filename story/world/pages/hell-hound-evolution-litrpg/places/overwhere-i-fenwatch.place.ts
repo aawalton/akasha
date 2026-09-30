@@ -125,7 +125,7 @@ export const overwhereIFenwatch = {
     },
     {
       fact: "The pedlar Osric Fenn is due in Fenwatch from Wendlow in two days.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Fenwatch folk swear by the Almighty Above and curse by the Scaly Bastard Below.",
