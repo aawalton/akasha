@@ -232,7 +232,11 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "The rules book covers Guild ranks, quest terms, the bounty table, and what a ring does.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "The beast guide opens on small game: jackalope, snow hare, frost toad, ridge fox, each sketched.",
