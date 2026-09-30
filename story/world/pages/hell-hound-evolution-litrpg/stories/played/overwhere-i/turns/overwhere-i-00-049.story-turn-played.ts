@@ -7,9 +7,22 @@ export const overwhereI00049 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 49,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I keep low in the cover and start slowly making my way toward the island, watching in case the wolves come back my way.",
+  beats: [
+    "Nala stays flat behind the hummock, watching the island over its reeds.",
+    "Every wolf on the island stands facing the south-east marsh, where she lies.",
+    "She eases forward to the next hummock on her belly, a hand's width at a time.",
+    "Each move waits on a wolf looking elsewhere; the going is painfully slow.",
+    "Halfway along, she sees two of the returned wolves nose the three pups up and away west.",
+    "They lead the pups off the island's far side and out of sight into the deep fen.",
+    "She keeps on, hummock to hummock, and the minutes drag past her.",
+    "At half past one she reaches the last hummock, about two hundred yards off the island.",
+    "Beyond it the marsh runs open, sedge and knee-deep water all the way to the channel.",
+    "Sixty yards ahead a half-sunk pine log lies in the open marsh, 140 yards off the shore.",
+    "On the shore Ghost-Eye stands with the two biggest wolves and one more, all four watching her way.",
+  ],
   lore: ["lore/overwhere-i-the-greyfen-alpha", "lore/overwhere-i-the-greyfen-alpha-2"],
   endsAt: "2026-10-01T13:30:00.000Z",
 } as const satisfies StoryTurnPlayed
