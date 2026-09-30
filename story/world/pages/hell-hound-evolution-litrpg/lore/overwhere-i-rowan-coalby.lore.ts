@@ -151,6 +151,10 @@ export const overwhereIRowanCoalby = {
       fact: "Sedge will come, uneasy near the carcass, but leads them by the firmest ground.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Tonight he offers to walk her in to Fenwatch and tell the Stag Sedge never killed stock.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
