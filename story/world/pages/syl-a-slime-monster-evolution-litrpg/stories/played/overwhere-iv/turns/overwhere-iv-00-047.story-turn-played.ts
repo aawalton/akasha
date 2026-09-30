@@ -11,4 +11,5 @@ export const overwhereIv00047 = {
   action:
     "“I’ve been working on a specialized armor piercing spear skill for a long time and I guess it’s finally paying off. Practicing pushing past armor turned out to be just what I needed to learn to strike from a distance. Useless without a spear though.”",
   lore: ["lore/overwhere-iv-marta-hesk"],
+  endsAt: "2026-10-02T12:16:00.000Z",
 } as const satisfies StoryTurnPlayed
