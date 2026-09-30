@@ -10,7 +10,7 @@ export const overwhereIiWatchCottage = {
   facts: [
     {
       fact: "The watch cottage is a squat stone house by the ford, one room with a sleeping loft and a hearth.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The watchman the greymaws took lived in the watch cottage; it has been empty since midwinter.",
