@@ -31,8 +31,8 @@ export const overwhereIi00027 = {
     "Garth: \"You're done in. You've been pulling rot out of folk since morning.\"",
     'Garth: "Let me bind it, and then you eat. Wren, fetch the clean linen from the chest."',
   ],
-  lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-undertow"],
+  lore: ["lore/overwhere-ii-garth-marsh", "lore/overwhere-ii-nala", "lore/overwhere-ii-undertow"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-29T18:22:00.000Z",
 } as const satisfies StoryTurnPlayed
