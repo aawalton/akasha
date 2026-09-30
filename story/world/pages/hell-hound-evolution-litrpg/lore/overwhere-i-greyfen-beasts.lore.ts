@@ -111,6 +111,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "A charging Grubboar is fast for a short burst but blows within a minute; wind-speed outruns it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "When a sounder's old boar falls, the sows break and scatter into the carr instead of fighting on.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
