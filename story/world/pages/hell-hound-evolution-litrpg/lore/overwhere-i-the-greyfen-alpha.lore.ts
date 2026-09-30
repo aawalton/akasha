@@ -183,6 +183,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "The eight grown wolves under Ghost-Eye are Levels 10, 11, 12, 12, 13, 14, 15 and 16.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The pups tumble together some sixty yards into the pines, behind the lying pack.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
