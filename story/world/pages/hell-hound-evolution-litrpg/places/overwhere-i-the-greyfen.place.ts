@@ -111,6 +111,10 @@ export const overwhereITheGreyfen = {
       fact: "Jory calls the trap even: one dead reedlurker is worth far more to him than a wicker trap.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Jory has eight traps along sixty yards of this channel; three are still whole.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
