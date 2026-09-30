@@ -178,7 +178,7 @@ export const overwhereIiiWrenwood = {
     },
     {
       fact: "The split beech is a quarter hour's walk from the old beech along that current.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",
