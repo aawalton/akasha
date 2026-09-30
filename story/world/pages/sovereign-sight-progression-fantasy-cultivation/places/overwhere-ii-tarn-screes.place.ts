@@ -34,7 +34,7 @@ export const overwhereIiTarnScrees = {
     },
     {
       fact: "The five greymaws left are together in the den through the day; one limps from the fight.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Place
