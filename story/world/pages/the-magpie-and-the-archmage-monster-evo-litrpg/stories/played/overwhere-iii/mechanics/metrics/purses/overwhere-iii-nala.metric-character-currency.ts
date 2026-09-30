@@ -6,7 +6,7 @@ export const overwhereIiiNala = {
   slug: "overwhere-iii-nala",
   character: "character-player/overwhere-iii-nala",
   currency: "world-currency/overwhere-iii-coin",
-  value: 22,
+  value: 92,
   minValue: 0,
   history: "jsonl",
   displayOrder: 6,
