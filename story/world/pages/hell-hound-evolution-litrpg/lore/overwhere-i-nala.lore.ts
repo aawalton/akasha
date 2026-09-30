@@ -113,5 +113,25 @@ export const overwhereINala = {
       fact: "The pressure in her chest stirs when she looks at her Legacy line; pushing at it shows nothing.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Her first draw on the pressure opens the status line to read [Legacy: Starfall].",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "With that first draw the System shows [New active skill obtained: Starfall Surge].",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "The System names Starfall Surge as raw element loosed as a blast, a ward or a burst of speed.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "The legacy answers when she reaches for that pressure with intent: to strike, shield or move.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The pressure behind her breastbone is the Starfall Legacy, waiting to be drawn on.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
