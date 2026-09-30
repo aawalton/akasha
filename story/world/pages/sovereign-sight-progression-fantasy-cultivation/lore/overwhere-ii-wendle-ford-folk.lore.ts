@@ -55,5 +55,9 @@ export const overwhereIiWendleFordFolk = {
       fact: "Garth says the miller's girl at the Ford, Tansy Horne, was bitten ten days back and is bad.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Garth says Tansy is worse than Wren was, and Horne's silver has not helped her.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore

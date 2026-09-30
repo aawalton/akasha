@@ -44,5 +44,6 @@ export const overwhereIi00010 = {
     "place/overwhere-ii-marsh-croft",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-29T07:55:00.000Z",
 } as const satisfies StoryTurnPlayed

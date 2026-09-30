@@ -71,6 +71,10 @@ export const overwhereIiWrenMarsh = {
       fact: "With the rot drawn, Wren's leg stopped hurting, though she was still warm with fever.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Wren asked Nala to come back and to tell her what Talent she has.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
