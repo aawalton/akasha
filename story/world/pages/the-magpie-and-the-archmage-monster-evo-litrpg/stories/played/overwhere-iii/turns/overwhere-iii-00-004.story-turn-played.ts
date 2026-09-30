@@ -4,13 +4,14 @@ export const overwhereIii00004 = {
   id: "01a0f165-5494-7b28-8e7f-0f0d4099ac8a",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-004",
+  cover: "image/image-f71bbb4836993521",
   ownLength: 310,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 4,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-tobin-wick"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“I’m not sure.” I say, and nothing more, still watching the mana currents. I reach out with my intent to see if I can move them around.",
   beats: [
@@ -38,6 +39,6 @@ export const overwhereIii00004 = {
     "place/overwhere-iii-merrowgate",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T17:16:00.000Z",
 } as const satisfies StoryTurnPlayed
