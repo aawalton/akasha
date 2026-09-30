@@ -18,7 +18,7 @@ export const overwhereIiiDunstanHarrow = {
     },
     {
       fact: "He works out of the inn's back kitchen, reached through the yard by the stable.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "He pays 5 copper for a whole jackalope, big or small, and wants it gutted within the day.",
