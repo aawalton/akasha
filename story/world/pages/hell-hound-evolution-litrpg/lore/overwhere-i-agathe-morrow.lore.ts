@@ -177,7 +177,7 @@ export const overwhereIAgatheMorrow = {
     },
     {
       fact: "Hearing it, Agathe lifts her oath against Sedge and grants Rowan winter shelter in the palisade.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
