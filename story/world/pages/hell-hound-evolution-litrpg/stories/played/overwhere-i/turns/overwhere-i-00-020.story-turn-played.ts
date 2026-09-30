@@ -42,5 +42,6 @@ export const overwhereI00020 = {
   issues: ['"The old boar lies on his side in the mud, huge and grey and still." - Leave It Open'],
   lore: ["lore/overwhere-i-greyfen-beasts", "lore/overwhere-i-nala", "place/overwhere-i-fenwatch"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-09-30T07:40:00.000Z",
 } as const satisfies StoryTurnPlayed
