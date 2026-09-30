@@ -219,6 +219,14 @@ export const overwhereIiKeeperAnselm = {
       fact: "Anselm will leave out whatever Nala asks, save that a great Talent is in his charge.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Anselm judges Nala's Undertow the greatest new Talent he has seen, and told her so.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Anselm's letter will name Nala, her Undertow, what he has felt and what he saw on day two.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
