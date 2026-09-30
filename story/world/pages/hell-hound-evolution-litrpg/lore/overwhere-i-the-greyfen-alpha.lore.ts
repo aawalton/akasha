@@ -165,7 +165,7 @@ export const overwhereITheGreyfenAlpha = {
     },
     {
       fact: "Through day 3's midday no wolf comes toward the Greystakes; the watcher changes once, about 12:30.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "The pack rises to hunt about an hour before dusk, drinking first at the island's edge.",
