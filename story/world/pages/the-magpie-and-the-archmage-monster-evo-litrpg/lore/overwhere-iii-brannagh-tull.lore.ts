@@ -347,7 +347,7 @@ export const overwhereIiiBrannaghTull = {
     },
     {
       fact: "The receipt book's salves: goose-grease and yarrow for wounds, marigold for burns.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",
