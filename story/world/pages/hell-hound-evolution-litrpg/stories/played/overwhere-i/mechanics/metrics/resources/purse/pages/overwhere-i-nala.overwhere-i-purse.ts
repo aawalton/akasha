@@ -5,7 +5,7 @@ export const overwhereINala = {
   type: "page-type/overwhere-i-purse",
   slug: "overwhere-i-nala",
   character: "character-player/overwhere-i-nala",
-  value: 98,
+  value: 33,
   minValue: 0,
   history: "jsonl",
   displayOrder: 9,
