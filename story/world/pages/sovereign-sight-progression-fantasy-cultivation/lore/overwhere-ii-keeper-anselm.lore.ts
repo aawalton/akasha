@@ -105,7 +105,7 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "Anselm felt the drawing at Marsh Croft at dusk on day one, and set off up the valley at a run.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Nearing the dark fell at nightfall, Anselm lost heart for the pack and turned back to the shrine.",
