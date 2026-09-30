@@ -11,4 +11,5 @@ export const overwhereIii00037 = {
   action:
     "“Fine by me. Cob should be coming by at noon, he’ll be next. What should I do with these seed stones you keep giving me?” I ask, picking up and looking into the cup.",
   lore: ["lore/overwhere-iii-brannagh-tull", "lore/overwhere-iii-cleansing-weave"],
+  endsAt: "2026-10-01T11:08:00.000Z",
 } as const satisfies StoryTurnPlayed
