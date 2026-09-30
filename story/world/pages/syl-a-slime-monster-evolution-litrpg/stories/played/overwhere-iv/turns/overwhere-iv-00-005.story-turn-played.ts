@@ -10,7 +10,7 @@ export const overwhereIv00005 = {
   position: 5,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-garrett-pell"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“I’m afraid all a really remember is the glint of light off a blade. My mind focused in on that and seems to have forgotten to pay attention to anything more. I’m not local, so Mr. Pell can give the location better than I. I’m sorry I can’t be of more help.” I pause, then ask “If you’ll pardon the question though, I find I’m feeling a great desire to get stronger now, say strong enough to fight off a group of bandits. Any suggestions for where I should start?”",
   beats: [
@@ -32,8 +32,8 @@ export const overwhereIv00005 = {
     "He steps back into the gatehouse and pulls the door to behind him.",
     'Wat lets out a breath and steps back from the cart. "He likes you. You can tell. Sort of."',
     "Garrett turns the horses aside from the arch, into the mill yard beside the gate.",
-    'He reins in by the lean-to of sacks. "Got to unload. Where\'ll you go, Nala?"',
-    '"The hall, Marta\'s at the Brook & Barrel, or sit here and watch me sweat. Your pick."',
+    "He reins in by the lean-to of sacks, swings down, and heaves the first sack onto his shoulder.",
+    "Inside the mill the wheel turns and turns, and the stones stay silent.",
   ],
   issues: ["\"Where'll you go, Nala? The hall, Marta's ... Your pick.\" - No Prompt"],
   lore: [
