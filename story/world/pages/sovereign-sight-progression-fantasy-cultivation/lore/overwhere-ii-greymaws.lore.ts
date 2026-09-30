@@ -223,5 +223,9 @@ export const overwhereIiGreymaws = {
       fact: "The limping greymaw hangs back, and if the fight turns it bolts up the scree for the tarn.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala speared four greymaws dead in the den; the limping one fled up the scree toward the tarn.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
