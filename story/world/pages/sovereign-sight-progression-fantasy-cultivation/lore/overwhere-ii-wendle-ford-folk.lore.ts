@@ -259,5 +259,9 @@ export const overwhereIiWendleFordFolk = {
       fact: "Seeing the white-eye's carcass, even the Cray brothers go quiet and respectful toward Nala.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Col Ashby, up and walking with a stick, is at the Reeve's when Nala comes, and vouches for her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
