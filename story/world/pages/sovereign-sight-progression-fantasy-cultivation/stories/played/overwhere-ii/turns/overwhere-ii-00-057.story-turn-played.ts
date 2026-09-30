@@ -11,4 +11,5 @@ export const overwhereIi00057 = {
   action:
     "“I’m fine, just working on refining while we can. Is he Talented himself? If so, what depth?”",
   lore: ["lore/overwhere-ii-reeve-corwin-dray-2"],
+  endsAt: "2026-10-02T19:50:00.000Z",
 } as const satisfies StoryTurnPlayed
