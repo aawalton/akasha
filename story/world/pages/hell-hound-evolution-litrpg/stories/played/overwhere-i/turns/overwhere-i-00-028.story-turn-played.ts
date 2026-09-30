@@ -10,7 +10,7 @@ export const overwhereI00028 = {
   position: 28,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Hmm, could you show me the holes? I’d like to try killing them in the daylight first. I think I can get them even where they are hiding if I know where they are. I’d don’t really want to wait until nighttime, that feels like forever away.” I say with a grin.",
   beats: [
@@ -36,6 +36,6 @@ export const overwhereI00028 = {
     "place/overwhere-i-greyback-and-east-road",
     "place/overwhere-i-the-greyfen",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T10:41:00.000Z",
 } as const satisfies StoryTurnPlayed
