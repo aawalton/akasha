@@ -28,15 +28,15 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "Temporary registration is free: a form, and a mana signature card to light.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "The form asks name, age, race, class, skills and traits, and reason for joining.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "A temporary registrant may take Copper quests; one quest done earns the Guild ring.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Board: rats in the Carrow wool store, 30 copper.",

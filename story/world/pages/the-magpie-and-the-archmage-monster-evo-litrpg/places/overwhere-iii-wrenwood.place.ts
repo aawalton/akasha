@@ -70,19 +70,19 @@ export const overwhereIiiWrenwood = {
     },
     {
       fact: "Frostcaps grow only in frost, on the north side of old beech roots along the wood's edge.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "A careful picker finds twenty frostcaps in two or three hours on the paths near the crossroads.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Gravecap looks like frostcap but is grayer and smells of wet ash; eaten, it sickens for days.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "A frostcap pulled by the stem bruises gray and is worthless; it must be cut at the root.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Brannagh Tull buys frostcaps for her fever tea and chilblain salve, a copper apiece.",
