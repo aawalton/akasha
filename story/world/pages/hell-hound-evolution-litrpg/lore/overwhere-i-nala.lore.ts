@@ -175,15 +175,31 @@ export const overwhereINala = {
     },
     {
       fact: "A Surge working held past its minute costs its mana and element again for each minute more.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "At legacy rank 1 she can keep two workings going at once; a third makes all of them slip.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Her reserves refill faster than held workings drain them, so her mana runs low first.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Holding earth and wind at once, she feels two pulls behind her breastbone, one heavy, one cool.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Stone armour with wind speed let her dash, turn and jump yards, faster than her feet expected.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "While she held workings, her mana once jumped up on its own, then went on falling.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Her water working took the form of a thin disc of water spinning fast above her palm.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Lore
