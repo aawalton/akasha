@@ -4,13 +4,14 @@ export const overwhereIii00021 = {
   id: "01a0f248-e592-71a4-9f98-e1cc90cbc788",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-021",
+  cover: "image/image-179560752f605045",
   ownLength: 213,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 21,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I go back out to gather another 20 frostcaps, since I have the afternoon still free.",
   beats: [
     "Nala heads back out for another twenty frostcaps; she still has the afternoon.",
@@ -39,6 +40,11 @@ export const overwhereIii00021 = {
     "place/overwhere-iii-wrenwood",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T15:08:00.000Z",
 } as const satisfies StoryTurnPlayed
