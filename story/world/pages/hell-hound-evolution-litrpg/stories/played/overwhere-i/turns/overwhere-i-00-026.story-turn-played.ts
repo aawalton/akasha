@@ -4,13 +4,14 @@ export const overwhereI00026 = {
   id: "01a0f259-117a-77f8-82be-5cc45c9c99a7",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-026",
+  cover: "image/image-7fadab9cc4d92be9",
   ownLength: 226,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 26,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I clean out the clothes in the tub as well, then try a working of water, air, and fire to steam clean them, then another of air and fire to dry them, then put them on and god looking for information about the other silver bounty.",
   beats: [
@@ -38,6 +39,11 @@ export const overwhereI00026 = {
     "place/overwhere-i-fenwatch",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T09:34:00.000Z",
 } as const satisfies StoryTurnPlayed
