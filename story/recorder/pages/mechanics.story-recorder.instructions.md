@@ -8,6 +8,8 @@ The game master writes some of what a turn calls for before its prose. A page wh
 
 Only the world builder defines a mechanic: a skill, an item, or any other mechanic kind. You file none. You may file a page tracking a character or a mechanic already defined, such as a holding, a metric or a relationship, and change a page already there. Where the prose reaches a mechanic no page defines, record nothing for it; the world builder defines it at the next turn's step.
 
+A page for the player's character that the story has not shown the player states `unrevealed: true`, and no play screen shows it. A tracking page you file before the prose shows its value to the player states it too. On the turn the prose first shows the player a page stating it, such as a status screen listing a stat or a skill, draft that line off the page.
+
 Where a mechanic asks for a judge, you are the judge. Judge this turn alone, on what its prose shows, reading the turn before only for the fork it ended on. Quote word for word from the prose what each judgment rests on.
 
 Read no outcome the prose does not show complete: a challenge is overcome only once the foe is dead, driven off or yields, or as its check's page defines the end. An unfinished one is settled on the turn it ends, unless its check's page grants part of it sooner, and then the part granted counts toward the whole. Take each input a lore or mechanic page states, such as a foe's grade or a character's level, from that page, never from the beats or the prose.

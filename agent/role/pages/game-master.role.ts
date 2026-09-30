@@ -201,6 +201,7 @@ export const gameMaster = {
         "Add a history line with the `append-lines` change; a history is never written over.",
         "A skill the turn advanced takes its new rank, level and demonstrations on its holding page.",
         "Define no mechanic; ask the world builder for one the turn needs, and hold only what is defined.",
+        "A page for his character the prose has not shown him states `unrevealed: true` until it does.",
       ],
     },
     {
