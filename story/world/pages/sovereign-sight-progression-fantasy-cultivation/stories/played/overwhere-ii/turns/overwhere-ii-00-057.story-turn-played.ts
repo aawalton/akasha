@@ -4,13 +4,14 @@ export const overwhereIi00057 = {
   id: "01a0f495-1fd9-789e-b098-22b930fd5465",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-057",
+  cover: "image/image-1ef5ef84c2994855",
   ownLength: 124,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 57,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“I’m fine, just working on refining while we can. Is he Talented himself? If so, what depth?”",
   beats: [
@@ -31,6 +32,11 @@ export const overwhereIi00057 = {
     "lore/overwhere-ii-reeve-corwin-dray-2",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-02T19:50:00.000Z",
 } as const satisfies StoryTurnPlayed
