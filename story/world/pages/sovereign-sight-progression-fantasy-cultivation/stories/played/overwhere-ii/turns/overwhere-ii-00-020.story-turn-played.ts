@@ -4,13 +4,14 @@ export const overwhereIi00020 = {
   id: "01a0f204-4538-738e-bc57-10e7274cd55e",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-020",
+  cover: "image/image-5758674c8dab81d2",
   ownLength: 339,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 20,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“I’m not sure what you’re talking about, but we can talk as we go. Goody, I’m ready for the next patient, could you lead the way? Garth, you can go home to Wren, I’ll stop by soon to see to the ewes.”",
   beats: [
@@ -43,6 +44,11 @@ export const overwhereIi00020 = {
     "lore/overwhere-ii-wendle-ford-folk",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-29T12:07:00.000Z",
 } as const satisfies StoryTurnPlayed
