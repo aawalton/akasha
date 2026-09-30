@@ -11,7 +11,7 @@ export const overwhereIv00012 = {
   position: 12,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Yeah, it was the strangest thing. Any idea why they would do that? I know I’m pretty, but I’ve never had men throw their lives at my feet like that.” I say with a laugh.",
   beats: [
@@ -39,6 +39,11 @@ export const overwhereIv00012 = {
     "place/overwhere-iv-millbrook-gatehouse",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-09-29T18:25:00.000Z",
 } as const satisfies StoryTurnPlayed
