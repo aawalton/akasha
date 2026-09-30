@@ -4,13 +4,14 @@ export const overwhereI00007 = {
   id: "01a0f15f-b2b6-7dd3-bf75-eacc47e121c5",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-007",
+  cover: "image/image-e689b65f356f8fb8",
   ownLength: 211,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 7,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Okay, I guess three is my limit, for now.” I watch my mana recharge for a few minutes, measuring the rate it heartbeats, then sit and do some meditative box breathing to see if I can get it to recharge any faster.",
   beats: [
@@ -32,6 +33,6 @@ export const overwhereI00007 = {
   ],
   lore: ["lore/overwhere-i-nala", "place/overwhere-i-greyfen-ford"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T10:40:00.000Z",
 } as const satisfies StoryTurnPlayed
