@@ -199,6 +199,10 @@ export const overwhereIFenwatch = {
       fact: "Brack has packs and belts ready; boots he makes to the foot, ready the morning of day three.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Until boots are made, Brack sells soft hide foot-wraps tied with thongs for two copper.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
