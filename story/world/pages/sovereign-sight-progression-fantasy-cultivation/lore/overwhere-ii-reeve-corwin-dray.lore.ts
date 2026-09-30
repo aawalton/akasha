@@ -167,5 +167,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "When Dray lets his Talent go, the grey stone fades from his hands back to flesh.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Wary now of her pull, Dray braces against it, and a sudden push then overbalances him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
