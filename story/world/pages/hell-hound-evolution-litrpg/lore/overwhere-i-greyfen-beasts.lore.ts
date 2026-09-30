@@ -179,6 +179,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "A grown reedlurker is as long as a man, brown and sleek, with webbed claws and small yellow eyes.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "By day reedlurkers lie up in holts dug into channel banks, the holt mouths under water.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
