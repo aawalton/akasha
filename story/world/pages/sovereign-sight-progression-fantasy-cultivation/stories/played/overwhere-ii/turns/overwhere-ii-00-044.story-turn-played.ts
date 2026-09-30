@@ -28,8 +28,14 @@ export const overwhereIi00044 = {
     "He rolls back one orange sleeve and holds out a thin forearm, pale and smooth.",
     'Anselm: "Will you try it with me now? Your left arm first."',
   ],
-  lore: ["lore/overwhere-ii-keeper-anselm", "lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2"],
+  lore: [
+    "lore/overwhere-ii-depths-and-descent",
+    "lore/overwhere-ii-keeper-anselm",
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "place/overwhere-ii-wendle-ford",
+  ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-30T15:58:00.000Z",
 } as const satisfies StoryTurnPlayed
