@@ -5,7 +5,7 @@ export const overwhereINalaLuck = {
   type: "page-type/overwhere-i-stat",
   slug: "overwhere-i-nala-luck",
   character: "character-player/overwhere-i-nala",
-  value: 12,
+  value: 13,
   minValue: 0,
   history: "jsonl",
 } as const satisfies OverwhereIStat

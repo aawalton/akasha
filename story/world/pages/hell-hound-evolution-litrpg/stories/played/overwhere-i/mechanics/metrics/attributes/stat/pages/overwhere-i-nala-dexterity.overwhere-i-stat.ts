@@ -5,7 +5,7 @@ export const overwhereINalaDexterity = {
   type: "page-type/overwhere-i-stat",
   slug: "overwhere-i-nala-dexterity",
   character: "character-player/overwhere-i-nala",
-  value: 10,
+  value: 12,
   minValue: 0,
   history: "jsonl",
 } as const satisfies OverwhereIStat

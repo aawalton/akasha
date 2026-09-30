@@ -5,7 +5,7 @@ export const overwhereINala = {
   type: "page-type/overwhere-i-level",
   slug: "overwhere-i-nala",
   character: "character-player/overwhere-i-nala",
-  value: 1,
+  value: 2,
   minValue: 1,
   history: "jsonl",
 } as const satisfies OverwhereILevel
