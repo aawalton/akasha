@@ -4,10 +4,13 @@ export const overwhereIv00004 = {
   id: "01a0f17e-44af-7df2-ab72-61b24cd42d14",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-004",
+  ownLength: 283,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 4,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-garrett-pell"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Nala, suppose my business is not getting robbed again for now, not that I have anything left to be robbed",
   beats: [
@@ -26,6 +29,10 @@ export const overwhereIv00004 = {
     "Hale looks at Nala's bare feet, the coat in her lap, her face, and takes his time over each.",
     '"Robbed," he says. "Where on the road, miss? How many of them? Which way did they go?"',
   ],
-  lore: ["lore/overwhere-iv-rennick-hale", "lore/overwhere-iv-wat-barrow"],
+  lore: [
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-rennick-hale",
+    "lore/overwhere-iv-wat-barrow",
+  ],
   endsAt: "2026-09-29T12:27:00.000Z",
 } as const satisfies StoryTurnPlayed
