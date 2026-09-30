@@ -4,10 +4,13 @@ export const overwhereI00016 = {
   id: "01a0f1bf-7847-7acc-b335-6ec3d26192de",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-016",
+  ownLength: 389,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 16,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I see if I can take care of any of my errands before the feast, otherwise I’ll do them in the morning.",
   beats: [
@@ -37,6 +40,7 @@ export const overwhereI00016 = {
   ],
   lore: [
     "lore/overwhere-i-garrick-pell",
+    "lore/overwhere-i-nala",
     "lore/overwhere-i-tobin-ashdown",
     "place/overwhere-i-fenwatch",
   ],
