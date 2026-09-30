@@ -8,5 +8,4 @@ export const otherwhereIxNalaConstitution = {
   value: 36,
   minValue: 0,
   history: "jsonl",
-  unrevealed: true,
 } as const satisfies OtherwhereIxAttribute
