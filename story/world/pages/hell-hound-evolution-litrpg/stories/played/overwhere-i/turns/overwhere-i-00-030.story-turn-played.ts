@@ -4,13 +4,14 @@ export const overwhereI00030 = {
   id: "01a0f356-3e35-7f08-853b-0cd6f79c5d50",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-030",
+  cover: "image/image-3cd1c65c30e9382e",
   ownLength: 113,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 30,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I attune the same combination again, but this time to manipulate and pull the corpse out from the ground, then do the same process for the second known hole, then start systematically working out from there, trying to find and finish the third one.",
   beats: [
@@ -30,6 +31,11 @@ export const overwhereI00030 = {
     "place/overwhere-i-the-greyfen",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T10:49:00.000Z",
 } as const satisfies StoryTurnPlayed
