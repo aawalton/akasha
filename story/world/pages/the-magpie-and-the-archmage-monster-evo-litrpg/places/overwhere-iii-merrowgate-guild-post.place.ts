@@ -180,7 +180,11 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "The post buys only what a posted job asks; Marda sends spare goods on to the buyer.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
   secrets: "jsonl",
