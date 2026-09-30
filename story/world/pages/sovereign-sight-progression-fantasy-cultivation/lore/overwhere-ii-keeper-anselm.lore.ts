@@ -225,7 +225,7 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "Anselm expects the Keepers to urge Nala to take the Chartermark and go south to the Spires.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Anselm expects a full letter to reach the Spires in a month, and a Talent like hers to draw them.",
