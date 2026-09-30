@@ -23,6 +23,7 @@
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/designs/overwhere-iv.story-design.ts","id":"01a0ed09-3953-70bd-802c-c775d6719585"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-adventurers.lore.ts","id":"01a0ed23-2f7d-725a-a4e3-07d806bbe714"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-aldous-crane.lore.ts","id":"01a0ed2e-0f6b-794e-9f32-0a50c01fb2c2"}
+{"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-brenna-holt.lore.ts","id":"01a0f195-67e1-79e1-a379-b85b9043834a"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-brookside-four.lore.ts","id":"01a0ed2e-0f6c-7f00-ab6f-6011bb59154c"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-cedric-tarrow.lore.ts","id":"01a0ed2e-5593-7a66-97e2-070ce9555af5"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/lore/overwhere-iv-classes.lore.ts","id":"01a0ed29-30ec-7d06-b60f-742109655472"}
@@ -104,7 +105,11 @@
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/items/overwhere-iv-garretts-coat.world-item.ts","id":"01a0f16f-ed05-7997-9188-d6aabd363dba"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/items/overwhere-iv-guild-tag.world-item.ts","id":"01a0ed31-f1da-7282-a341-9f9cf49c11b4"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/items/overwhere-iv-monster-core.world-item.ts","id":"01a0ed31-f1da-720e-91dd-fc1d2b3d302d"}
+{"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/items/overwhere-iv-padded-jerkin.world-item.ts","id":"01a0f195-67e2-70d2-8fb2-113c2ef8aee1"}
+{"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/items/overwhere-iv-practice-spear.world-item.ts","id":"01a0f195-67e2-7ef0-b317-4d7cf0b12004"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/items/overwhere-iv-slime-jelly.world-item.ts","id":"01a0ed31-f1da-75b5-86ea-6207b55d058d"}
+{"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/items/overwhere-iv-store-boots.world-item.ts","id":"01a0f195-67e2-70e3-ae51-dc6370131172"}
+{"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/items/overwhere-iv-watch-tunic.world-item.ts","id":"01a0f195-67e2-7ece-9a6b-41e919bf2930"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/organizations/overwhere-iv-adventurers-guild.world-organization.ts","id":"01a0ed31-9af3-79f3-8e8d-2b722c7f532f"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/ranks/overwhere-iv-bronze-rank.world-rank.ts","id":"01a0ed31-9af3-74ae-b3d5-1594951ef8c2"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/ranks/overwhere-iv-diamond-rank.world-rank.ts","id":"01a0ed31-9af4-79a3-8d84-dc73ab314178"}
@@ -123,6 +128,7 @@
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/skills/overwhere-iv-rift-gate.world-skill.ts","id":"01a0ed2b-3868-7a8c-9655-aa67ab988c0b"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/skills/overwhere-iv-rift-rend.world-skill.ts","id":"01a0ed1c-03da-7f48-8373-9cbaaa852558"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/skills/overwhere-iv-spatial-sense.world-skill.ts","id":"01a0ed2b-3868-7e94-951a-5882cfbc397d"}
+{"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/skills/overwhere-iv-spearmanship.world-skill.ts","id":"01a0f195-67e2-7de0-8e9e-d09aebd920fe"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/skills/overwhere-iv-tracking.world-skill.ts","id":"01a0ed30-cadd-7c80-a212-21fd2aebe46d"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/skills/overwhere-iv-water-magic.world-skill.ts","id":"01a0ed30-cadd-70ae-a77e-2eb156ccf2f0"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/species/overwhere-iv-blue-slime.world-species.ts","id":"01a0ed2f-df53-7d25-aa66-1dba51a587fd"}
@@ -151,6 +157,7 @@
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/places/overwhere-iv-labyrinth-of-the-abyss.place.ts","id":"01a0ed2f-b91d-7848-86d9-b6be093fc677"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/places/overwhere-iv-millbrook-adventurers-hall.place.ts","id":"01a0ed2b-a212-7024-b3fe-3508c04dd277"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/places/overwhere-iv-millbrook-common.place.ts","id":"01a0ed12-cfce-7250-bb26-1bf70d4a7606"}
+{"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/places/overwhere-iv-millbrook-gatehouse.place.ts","id":"01a0f195-67e2-79ce-96d3-227300d3ea75"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/places/overwhere-iv-millbrook-mill.place.ts","id":"01a0ed2c-931c-719a-a649-9a37d07c1a16"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/places/overwhere-iv-millbrook.place.ts","id":"01a0ed2a-a573-79ff-92ef-3f390bb8f982"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/places/overwhere-iv-moonscar.place.ts","id":"01a0ed30-c230-7ead-bed3-21d4c2e7a4d7"}

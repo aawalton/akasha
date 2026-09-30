@@ -1,0 +1,56 @@
+import type { Place } from "akasha/story/lore/place/place.page-type.types.ts"
+
+export const overwhereIvMillbrookGatehouse = {
+  id: "01a0f195-67e2-79ce-96d3-227300d3ea75",
+  type: "page-type/place",
+  slug: "overwhere-iv-millbrook-gatehouse",
+  title: "The Millbrook Gatehouse",
+  world: "world/syl-a-slime-monster-evolution-litrpg",
+  within: "place/overwhere-iv-millbrook",
+  facts: [
+    {
+      fact: "The gatehouse is built into the wall beside the gate: a guardroom, stores, mess and bunk room.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Behind it lies the gate yard, a packed-earth square with a well, a rack of spears and straw men.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Captain Hale works from a cramped office off the guardroom, the watch roll on his desk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A recruit signs the watch roll, or makes a mark, and swears to keep the town's peace.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A recruit is issued boots, a wool tunic, a padded jerkin and a practice spear from stores.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Store boots are old and made for men; small feet need rags stuffed into the toes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The bunk room holds twelve cots; four have been empty since the goblin trouble began.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A curtained corner of the bunk room is kept for the watch's women, of whom there is one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Supper in the mess is barley stew and bread at dusk; breakfast is porridge after drill.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Drill runs at dawn: laps of the wall walk, spear forms, shield work, then paired sparring.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Recruits are paid at week's end, and a recruit who quits before then is paid nothing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
+} as const satisfies Place
