@@ -170,5 +170,14 @@ export const overwhereIiiNala2 = {
       fact: "At Adept, Mana Weaver reaches currents three times as far off, and lends three times the Basic mana.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "On her second drill Nala stepped aside and cracked Tam across the ribs; the watch whooped.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-maud-ferrow",
+        "character-other/overwhere-iii-tam-rowe",
+      ],
+    },
   ],
 } as const satisfies Lore
