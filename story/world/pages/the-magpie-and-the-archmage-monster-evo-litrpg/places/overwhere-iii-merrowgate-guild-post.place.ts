@@ -114,6 +114,10 @@ export const overwhereIiiMerrowgateGuildPost = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "The post's box of old gear holds a pair of worn boots near Nala's size.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
