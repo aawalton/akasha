@@ -161,11 +161,11 @@ export const overwhereIFenwatch = {
     },
     {
       fact: "Bet Ashdown, Tobin's mother, sells homespun tunics, leggings and cloaks from her house.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Aldo Brack, the tanner, cures hides in pits by Otter Brook and makes boots, belts and packs.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Brack charges a silver to cure a pelt into a rug or blanket, and it takes him three weeks.",
@@ -174,6 +174,10 @@ export const overwhereIFenwatch = {
     {
       fact: "Brack's boots cost three silver and take two days; a leather pack costs two silver.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Fenwatch has no shop; folk sell what they make from their own doors.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",

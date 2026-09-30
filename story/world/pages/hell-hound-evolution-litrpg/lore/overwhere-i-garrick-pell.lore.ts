@@ -9,7 +9,7 @@ export const overwhereIGarrickPell = {
   facts: [
     {
       fact: "Garrick Pell keeps the Tarred Stag, Fenwatch's longhall inn on the green.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Analyze shows him as Human - Level 6; his Class is Brewer.",
@@ -57,15 +57,15 @@ export const overwhereIGarrickPell = {
     },
     {
       fact: "He heats water for a wooden tub in the back room; a hot bath costs two copper.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "He can break a gold coin into silver and copper from the inn's takings.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "He stews the Brute for a feast on the green on the evening of day one.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",

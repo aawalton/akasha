@@ -89,7 +89,7 @@ export const overwhereIAgatheMorrow = {
     },
     {
       fact: "If Nala stays to hunt, she'd put her up at the Stag on the village purse for a week.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
