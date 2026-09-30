@@ -271,6 +271,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "A reedlurker's bite is a heavy blow; once it bites, it rolls to drag its prey under.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Breaking a reedlurker's drag-in is a moderate act; failing it pulls her into the channel.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
