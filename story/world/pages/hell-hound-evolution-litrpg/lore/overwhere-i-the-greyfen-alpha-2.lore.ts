@@ -151,15 +151,42 @@ export const overwhereITheGreyfenAlpha2 = {
     },
     {
       fact: "After her second miss Ghost-Eye fixed calmly on her hummock and growled low.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-ghost-eye",
+        "character-other/overwhere-i-pine-isle-drakewolf-six",
+        "character-other/overwhere-i-pine-isle-drakewolf-seven",
+        "character-other/overwhere-i-pine-isle-drakewolf-eight",
+      ],
     },
     {
       fact: "At 13:32 on day 3 the two biggest slipped north and south off the shore into reeds, out of sight.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-ghost-eye",
+        "character-other/overwhere-i-pine-isle-drakewolf-six",
+        "character-other/overwhere-i-pine-isle-drakewolf-seven",
+        "character-other/overwhere-i-pine-isle-drakewolf-eight",
+      ],
     },
     {
       fact: "After her second miss Ghost-Eye and Six stayed on the shore, watching her.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-ghost-eye",
+        "character-other/overwhere-i-pine-isle-drakewolf-six",
+      ],
+    },
+    {
+      fact: "At 13:32 on day 3 Nala's second slug fell spent in the channel, a few yards short of Ghost-Eye.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-ghost-eye",
+      ],
     },
   ],
 } as const satisfies Lore
