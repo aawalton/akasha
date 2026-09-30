@@ -38,7 +38,7 @@ export const overwhereIiiAdventurersGuild = {
     },
     {
       fact: "Ranks run from Copper, the lowest, through Bronze, Silver and Gold up to Adamantite.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Quests are graded by rank, but a member may accept a quest of any rank.",
