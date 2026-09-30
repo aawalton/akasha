@@ -33,10 +33,12 @@ export const overwhereIi00021 = {
     '"A Keeper must write to Carrowmouth of any great new Talent in his charge. I\'m bound to."',
     '"I write by the carrier every week. I\'d rather hear it from you first, whatever it is."',
   ],
+  issues: ['"and none of Col comes with it" - Nobody Acts'],
   lore: [
     "lore/overwhere-ii-keeper-anselm",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-wendle-ford-folk",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T12:47:00.000Z",
 } as const satisfies StoryTurnPlayed
