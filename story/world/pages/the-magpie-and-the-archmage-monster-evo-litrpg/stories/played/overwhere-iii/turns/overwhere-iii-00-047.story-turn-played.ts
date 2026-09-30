@@ -7,9 +7,22 @@ export const overwhereIii00047 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 47,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Does it give back more mana than it costs? If not, I don’t know that it would help me much quite yet.”",
+  beats: [
+    "Nala asks whether the draught gives back more mana than it costs to brew.",
+    "If not, she says, she doesn't know it would help her much yet.",
+    "Brannagh scratches the cat behind its one ear, thinking.",
+    '"One jackalope\'s antlers, ground, make two draughts. Each fills a small store of mana."',
+    '"What the pot takes out of you while it steeps, I can\'t tell you. Mother never wrote that down."',
+    '"She just poured, and it took, or it didn\'t. I never had enough in me to find out."',
+    "\"Two flasks for one night's pouring. Whether that's a bargain, only you'll know.\"",
+    "She pushes the loaf and cheese across the counter toward Nala.",
+    '"If it\'s getting it back faster you want," she says, "Mother had a saying."',
+    '"The old shrine at the crossroads gives back what a day took, to them as rest there."',
+    '"Old wives\' talk, maybe. I never had the mana to test it."',
+  ],
   lore: [
     "lore/overwhere-iii-brannagh-tull",
     "lore/overwhere-iii-brannagh-tull-2",
