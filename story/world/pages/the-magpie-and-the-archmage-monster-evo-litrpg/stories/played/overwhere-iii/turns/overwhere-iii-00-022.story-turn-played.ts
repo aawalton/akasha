@@ -11,4 +11,5 @@ export const overwhereIii00022 = {
   action:
     "I approach the rabbits from an angle where they’ll have to leave the roots to get to me, then when they are safely clear, I lash at them, aiming across their throats.",
   lore: ["lore/overwhere-iii-wrenmark-beasts", "place/overwhere-iii-wrenwood"],
+  endsAt: "2026-09-30T15:14:00.000Z",
 } as const satisfies StoryTurnPlayed
