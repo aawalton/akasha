@@ -85,7 +85,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Dray lets no one hunt alone for him till they best him in a bout: her spear against his Stonehand.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "For the hunt Dray pays a silver bar beyond the head bounty, and will put it toward a spear.",
