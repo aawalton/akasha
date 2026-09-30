@@ -10,7 +10,7 @@ export const overwhereIi00047 = {
   position: 47,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“A bit, nothing some food, drink, and sleep won’t fix.”",
   beats: [
     'Nala: "A bit. Nothing some food, drink and sleep won\'t fix."',
@@ -32,6 +32,6 @@ export const overwhereIi00047 = {
     "lore/overwhere-ii-nala-2",
     "place/overwhere-ii-watch-cottage",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-30T16:52:00.000Z",
 } as const satisfies StoryTurnPlayed
