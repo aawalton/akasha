@@ -100,7 +100,7 @@ export const overwhereIiWhitecombs = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "A Warped goat is as heavy as a big ewe; Nala can drag one down the goat track, not two at once.",
+      fact: "A Warped goat is as heavy as a big ewe; Nala drags one by hand, or both with Undertow's pull.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
