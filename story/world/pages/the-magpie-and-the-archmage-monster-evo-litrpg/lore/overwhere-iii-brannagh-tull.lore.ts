@@ -158,7 +158,11 @@ export const overwhereIiiBrannaghTull = {
     },
     {
       fact: "She would give that draught free against the work, sooner than let her two wait a night.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "She would let a healer see her two tonight without casting, and wants her back at first light.",
