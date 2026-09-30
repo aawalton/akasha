@@ -111,5 +111,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Dray challenged Nala to the bout at once, on the green: a watch spear against his hands.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Dray holds to his test: killing the white-eye proves she can kill, not how she fights a man.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
