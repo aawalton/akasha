@@ -11,7 +11,7 @@ export const overwhereIii00022 = {
   position: 22,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I approach the rabbits from an angle where they’ll have to leave the roots to get to me, then when they are safely clear, I lash at them, aiming across their throats.",
   beats: [
@@ -34,6 +34,11 @@ export const overwhereIii00022 = {
     "place/overwhere-iii-wrenwood",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+  ],
   endsAt: "2026-09-30T15:14:00.000Z",
 } as const satisfies StoryTurnPlayed
