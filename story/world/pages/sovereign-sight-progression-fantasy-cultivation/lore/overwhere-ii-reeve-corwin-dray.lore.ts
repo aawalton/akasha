@@ -299,5 +299,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Nala told Dray she will scout the Whitecombs on day three, and talk of Oswy Crake after.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "On day three's night Dray paid Nala half a silver bar in coin for word of the Callow pool.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
