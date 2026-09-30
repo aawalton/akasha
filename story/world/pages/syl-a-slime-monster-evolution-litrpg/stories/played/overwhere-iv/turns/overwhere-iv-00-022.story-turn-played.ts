@@ -11,4 +11,5 @@ export const overwhereIv00022 = {
   action:
     "“Perfect, I’ll work on that today.” I go and check if I’m needed for any more of the guard training first and complete that if so, then go clear slimes at the Hobb farm.",
   lore: ["place/overwhere-iv-hobb-farm", "place/overwhere-iv-millbrook-gatehouse"],
+  endsAt: "2026-09-30T18:10:00.000Z",
 } as const satisfies StoryTurnPlayed
