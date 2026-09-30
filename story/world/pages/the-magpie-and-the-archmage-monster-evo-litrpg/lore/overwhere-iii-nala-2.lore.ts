@@ -52,5 +52,21 @@ export const overwhereIiiNala2 = {
         "character-other/overwhere-iii-bet-harrow",
       ],
     },
+    {
+      fact: "Nala told Bet she harvested for the Post and can now pay her own way.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-bet-harrow",
+      ],
+    },
+    {
+      fact: "Nala's face has gone gray with hunger.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-bet-harrow",
+      ],
+    },
   ],
 } as const satisfies Lore

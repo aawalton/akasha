@@ -10,7 +10,11 @@ export const overwhereIiiBetHarrow = {
   facts: [
     {
       fact: "Bet Harrow is about fifty, big, red-armed and loud, with a laugh that fills a room.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-bet-harrow",
+      ],
     },
     {
       fact: "She is a Common, a Hostess of Level 12, and hears everything in town by morning.",

@@ -16,7 +16,7 @@ export const overwhereIii00031 = {
     "character-other/overwhere-iii-brannagh-tull",
     "character-other/overwhere-iii-tobin-wick",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Did some harvesting for the Post, so I can pay my own way now. I’d happily buy some more clothes if you’re willing to sell cheap.”",
   beats: [
@@ -39,6 +39,11 @@ export const overwhereIii00031 = {
     "place/overwhere-iii-crook-and-candle",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+    "story-recorder/memory",
+  ],
   endsAt: "2026-09-30T18:35:00.000Z",
 } as const satisfies StoryTurnPlayed
