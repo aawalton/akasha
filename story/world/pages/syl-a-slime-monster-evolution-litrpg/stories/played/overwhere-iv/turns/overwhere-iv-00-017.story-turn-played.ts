@@ -11,4 +11,5 @@ export const overwhereIv00017 = {
   action:
     "I go to sleep, troubled, then in the morning show up for laps and give it my full effort.",
   lore: ["place/overwhere-iv-millbrook-gatehouse"],
+  endsAt: "2026-09-30T07:15:00.000Z",
 } as const satisfies StoryTurnPlayed
