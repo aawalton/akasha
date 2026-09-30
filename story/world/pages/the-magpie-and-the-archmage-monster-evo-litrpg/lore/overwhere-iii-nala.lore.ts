@@ -338,6 +338,10 @@ export const overwhereIiiNala = {
       fact: "Nala's own mana runs white-gold; pushed into a working, it serves as a holy thread.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Her first holy thread through blight earns: [New skill acquired – Cleansing Weave.]",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
