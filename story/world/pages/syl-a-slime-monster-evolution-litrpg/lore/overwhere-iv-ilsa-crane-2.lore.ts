@@ -136,5 +136,33 @@ export const overwhereIvIlsaCrane2 = {
         "character-other/overwhere-iv-ilsa-crane",
       ],
     },
+    {
+      fact: "Ilsa has never heard of a reading skill, and files it with the other things she doesn't ask.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aubrin's hall makes a bronze silver on a branch clerk's letter naming ten jobs done well.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "A single major job, such as a goblin camp cleared, can stand in for the ten on such a letter.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "Ilsa counts three of Nala's jobs done well: the Hobb slimes, the goblin lookout and the oak.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "Ilsa would steer Nala from a demonstration in Aubrin; it would show the line to the very city.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ilsa would gladly write the letter; a silver from Millbrook's board would raise the hall's name.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aubrin's hall ranks a letter's bearer in person, and she must go there to take the silver tag.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
   ],
 } as const satisfies Lore
