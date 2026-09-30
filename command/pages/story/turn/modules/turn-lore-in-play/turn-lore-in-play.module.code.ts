@@ -10,7 +10,7 @@ export type LoreLooking = {
   readonly withheld: readonly string[]
 }
 
-export type LoreAtHand = {
+type LoreAtHand = {
   readonly stated: readonly string[]
   readonly characters: readonly string[]
   readonly changed: readonly string[]
