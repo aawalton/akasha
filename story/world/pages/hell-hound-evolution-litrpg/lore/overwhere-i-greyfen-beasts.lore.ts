@@ -267,6 +267,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "A reedlurker strikes anyone within a yard of the water; turning its unseen strike is a hard act.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A reedlurker's bite is a heavy blow; once it bites, it rolls to drag its prey under.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
