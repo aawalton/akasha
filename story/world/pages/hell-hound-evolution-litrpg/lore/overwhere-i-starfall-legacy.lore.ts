@@ -48,5 +48,9 @@ export const overwhereIStarfallLegacy = {
       fact: "A sensing ripple reaches about fifty yards through wet ground and water, and blurs past that.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Reading a ripple is a moderate act; known holts to calibrate on add 2.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
