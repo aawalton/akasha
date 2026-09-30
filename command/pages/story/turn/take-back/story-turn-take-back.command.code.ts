@@ -76,9 +76,9 @@ function draftedBeside(root: string, game: string, action: string): string | nul
   }
 }
 
-export const TAKEN: TakingBack = { ...REWOUND, ...TURN_UNDOING, draft: draftedBeside }
+const TAKEN: TakingBack = { ...REWOUND, ...TURN_UNDOING, draft: draftedBeside }
 
-export function takeBackNoticeOf(turn: string, latest: string | null): string {
+function takeBackNoticeOf(turn: string, latest: string | null): string {
   const after =
     latest === null ? "the story has no turn now" : `the story's latest turn is \`${latest}\``
   return `The turn \`${turn}\` was taken back; ${after}.`

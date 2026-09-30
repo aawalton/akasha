@@ -12,9 +12,9 @@ import type { TurnStep } from "akasha/story/world/stories/played/turns/modules/t
 
 export const SLUG = "the-saga-00-003"
 
-export const WORLD = "worlds/saga/"
+const WORLD = "worlds/saga/"
 
-export const STORY = `${WORLD}stories/played/the-saga/`
+const STORY = `${WORLD}stories/played/the-saga/`
 
 export const AT = `${STORY}turns/${SLUG}.story-turn-played.ts`
 
@@ -42,13 +42,13 @@ export const OTHER_AT = `${WORLD}stories/played/another/turns/another-00-009.sto
 
 export const MADE = "c1"
 
-export const MOVED = "c9"
+const MOVED = "c9"
 
 const MOVED_SAID = `${SLUG} moves from recorders to player`
 
 const MADE_SAID = `${SLUG} is made from the player's action`
 
-export const HISTORY: readonly Commit[] = [
+const HISTORY: readonly Commit[] = [
   { commit: MOVED, subject: MOVED_SAID, paths: [AT] },
   { commit: "c5", subject: `${SLUG} moves from game-master to writer`, paths: [AT] },
   { commit: MADE, subject: MADE_SAID, paths: [AT] },
@@ -68,7 +68,7 @@ export const OWN_RUN: readonly Commit[] = [
   { commit: MADE, subject: MADE_SAID, paths: [AT] },
 ]
 
-export const BEFORE: Readonly<Record<string, string>> = {
+const BEFORE: Readonly<Record<string, string>> = {
   [HALL_AT]: "the hall, before\n",
   [HER_AT]: "her, before\n",
   [HER_REFERENCES_AT]: "references, before\n",
@@ -117,7 +117,7 @@ export const RECORDED_NOW: Readonly<Record<string, string>> = {
   [GATE_AT]: GATE_RECORDED,
 }
 
-export const RECORDED_RUN: readonly Commit[] = [
+const RECORDED_RUN: readonly Commit[] = [
   { commit: MOVED, subject: MOVED_SAID, paths: [AT] },
   {
     commit: "c8",
@@ -135,7 +135,7 @@ export const RECORDED: Story = {
   before: RECORDED_BEFORE,
 }
 
-export type Story = {
+type Story = {
   readonly latest?: string
   readonly run?: readonly Commit[]
   readonly now?: Readonly<Record<string, string>>
