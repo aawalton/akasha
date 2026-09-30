@@ -4,10 +4,13 @@ export const overwhereI00013 = {
   id: "01a0f19d-6c1e-7bbc-a22d-3ccc9e12a600",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-013",
+  ownLength: 173,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 13,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Ooh, those both sound fun! Maybe I’ll try one of them tomorrow. How far to Fenwatch? I’d like to pick up that reward for some pocket money. I always seem to run out so fast, though it’s never hard to get more.”",
   beats: [
@@ -26,6 +29,7 @@ export const overwhereI00013 = {
   lore: [
     "lore/overwhere-i-agathe-morrow",
     "lore/overwhere-i-hessa-vane",
+    "lore/overwhere-i-nala",
     "lore/overwhere-i-sootjaw",
     "place/overwhere-i-fenwatch",
   ],
