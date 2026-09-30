@@ -4,10 +4,13 @@ export const overwhereIi00057 = {
   id: "01a0f495-1fd9-789e-b098-22b930fd5465",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-057",
+  ownLength: 124,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 57,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“I’m fine, just working on refining while we can. Is he Talented himself? If so, what depth?”",
   beats: [
@@ -22,6 +25,10 @@ export const overwhereIi00057 = {
     'Dray: "A First Depth thief with four men, manacles and venom. That\'s a match for any lone Talent."',
     'Dray: "Including you, I\'d say. Maybe especially you, with a well as deep as yours."',
   ],
-  lore: ["lore/overwhere-ii-reeve-corwin-dray-2"],
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-reeve-corwin-dray-2",
+  ],
   endsAt: "2026-10-02T19:50:00.000Z",
 } as const satisfies StoryTurnPlayed
