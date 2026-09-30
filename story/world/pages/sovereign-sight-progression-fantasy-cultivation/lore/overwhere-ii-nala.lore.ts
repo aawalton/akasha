@@ -308,6 +308,10 @@ export const overwhereIiNala = {
       fact: "Giving Water and drawing rot in turn, like surf, is Undertow's own rhythm, and eases fine work.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "After Tansy and Col, Nala's Water runs low; a third working today would leave her faint.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
