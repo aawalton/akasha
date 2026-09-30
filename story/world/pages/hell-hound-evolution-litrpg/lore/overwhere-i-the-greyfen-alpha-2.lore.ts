@@ -20,5 +20,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "The next thing she must answer: at the hummocks' end, 200 yards off, she sees the pups leaving.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Pine Isle Drakewolves Seven and Eight are the two biggest, Levels 15 and 16.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
