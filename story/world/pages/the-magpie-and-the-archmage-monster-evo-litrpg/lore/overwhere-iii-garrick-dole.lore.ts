@@ -90,7 +90,12 @@ export const overwhereIiiGarrickDole = {
     },
     {
       fact: "Once clean, Garrick means to give his healer a fleece-lined sheepskin coat off his farm.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-garrick-dole",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
     },
     {
       fact: "A third pull clears Garrick's bite, and a Mending Weave closes it to a long pink seam.",
