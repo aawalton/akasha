@@ -84,7 +84,12 @@ export const overwhereIiiHildWendle = {
     },
     {
       fact: "Joss, gruff, says a free wagon ride anywhere on the north road is Nala's for the asking.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-hild-wendle",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
     },
   ],
 } as const satisfies Lore
