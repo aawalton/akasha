@@ -9,7 +9,7 @@ const HEX = "hex"
 
 export type Reading = (path: string) => string | null
 
-export type Chained = { readonly position: number; readonly outcomes: string | null }
+type Chained = { readonly position: number; readonly outcomes: string | null }
 
 export function linesIn(read: Reading, outcomes: string | null): readonly string[] {
   const kept = outcomes === null ? null : read(outcomes)
