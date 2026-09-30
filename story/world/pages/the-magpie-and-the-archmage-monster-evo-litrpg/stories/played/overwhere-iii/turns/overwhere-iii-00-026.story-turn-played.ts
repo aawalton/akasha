@@ -15,7 +15,7 @@ export const overwhereIii00026 = {
     "character-other/overwhere-iii-garrick-dole",
     "character-other/overwhere-iii-ivy-marsh",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "“I did, but I’m still learning. Did I do something wrong?”",
   beats: [
     '"I did," Nala says, "but I\'m still learning. Did I do something wrong?"',
@@ -25,7 +25,7 @@ export const overwhereIii00026 = {
     '"Garrick, the wolf got his calf three weeks back. Ivy, the boar had her hand a fortnight since."',
     "\"Both bites weep black and won't close. There's purple creeping out from them.\"",
     '"They ache and scratch and get weaker every day. Heads still clear, for now."',
-    '"Nothing I do touches it." She jerks her chin at the curtain behind the counter.',
+    '"I\'ve tried every salve I know on them." She jerks her chin at the curtain behind the counter.',
     '"Look at them for me. Now, tonight. A potion each for your trouble, whatever comes of it."',
   ],
   issues: ['"Nothing I do touches it." - Nobody Acts'],
