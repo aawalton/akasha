@@ -196,5 +196,9 @@ export const overwhereIStarfallLegacy = {
       fact: "A fire-and-air burst fans flame in a half-circle ten yards out; each thing in it takes half a blast.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The beam is a Surge use; the moves, bullet and burst are Weave uses; none is a new way.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
