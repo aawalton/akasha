@@ -15,7 +15,7 @@ export const overwhereIii00035 = {
     "character-other/overwhere-iii-maud-ferrow",
     "character-other/overwhere-iii-ivy-marsh",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Awesome, thanks!” I go and join them for the end of their workout, then find an affordable hearty meal.",
   beats: [
@@ -42,6 +42,11 @@ export const overwhereIii00035 = {
     "place/overwhere-iii-merrowgate",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-01T10:32:00.000Z",
 } as const satisfies StoryTurnPlayed
