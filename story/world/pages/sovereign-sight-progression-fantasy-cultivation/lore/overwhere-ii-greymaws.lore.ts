@@ -219,5 +219,9 @@ export const overwhereIiGreymaws = {
       fact: "A spear thrust driven by Undertow pierces greymaw scale; reaching the bone chamber, it kills.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The limping greymaw hangs back, and if the fight turns it bolts up the scree for the tarn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
