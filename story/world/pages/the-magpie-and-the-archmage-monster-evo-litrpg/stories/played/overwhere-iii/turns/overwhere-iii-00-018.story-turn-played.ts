@@ -7,6 +7,12 @@ export const overwhereIii00018 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 18,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action: "I go and sit, happy for a rest after hauling everything back.",
+  lore: [
+    "lore/overwhere-iii-corruption",
+    "lore/overwhere-iii-marda-hesk",
+    "lore/overwhere-iii-wrenmark-beasts",
+    "place/overwhere-iii-merrowgate-guild-post",
+  ],
 } as const satisfies StoryTurnPlayed
