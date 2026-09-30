@@ -41,6 +41,8 @@ export const storyPlayed = {
     "text-property/cover-reroll-refused",
     "service-workstation/cover-rerolling",
     "text-property/action-draft",
+    "relation-property/turn-undo",
+    "text-property/turn-undo-refused",
   ],
   decisions: [
     {
@@ -106,6 +108,18 @@ export const storyPlayed = {
     },
     {
       pageProperty: "text-property/action-draft",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    {
+      pageProperty: "relation-property/turn-undo",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    {
+      pageProperty: "text-property/turn-undo-refused",
       required: false,
       many: false,
       uncommitted: true,

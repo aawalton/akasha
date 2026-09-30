@@ -482,6 +482,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/played/chapters/properties/last-turn.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/played/properties/action-draft.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/played/properties/cover-reroll-refused.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/played/properties/turn-undo-refused.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/played/turns/properties/turn-action.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/stories/read/properties/external-tags.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/champion-point/temper-champion-star/properties/champion-constellation.text-property.ts","typed":true,"deferred":false}

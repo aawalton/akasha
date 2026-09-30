@@ -4,6 +4,8 @@ import type { ActionDraft } from "akasha/story/world/stories/played/properties/a
 import type { CoverReroll } from "akasha/story/world/stories/played/properties/cover-reroll.relation-property.types.ts"
 import type { CoverRerollRefused } from "akasha/story/world/stories/played/properties/cover-reroll-refused.text-property.types.ts"
 import type { StoryOpensAt } from "akasha/story/world/stories/played/properties/story-opens-at.instant-property.types.ts"
+import type { TurnUndo } from "akasha/story/world/stories/played/properties/turn-undo.relation-property.types.ts"
+import type { TurnUndoRefused } from "akasha/story/world/stories/played/properties/turn-undo-refused.text-property.types.ts"
 
 export type StoryPlayed = Story & {
   externalId?: ExternalId
@@ -11,4 +13,6 @@ export type StoryPlayed = Story & {
   coverReroll?: CoverReroll
   coverRerollRefused?: CoverRerollRefused
   actionDraft?: ActionDraft
+  turnUndo?: TurnUndo
+  turnUndoRefused?: TurnUndoRefused
 }

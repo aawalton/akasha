@@ -4114,6 +4114,8 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/cover-reroll.relation-property.ts","id":"01a0e84e-3f8e-74cf-b543-8711abba573e"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/prose.file-property.ts","id":"01a06424-329c-73d2-a881-67d728085a28"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/story-opens-at.instant-property.ts","id":"01a0e7f1-002b-75c8-9a58-6c3cc0e9ca4a"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/properties/turn-undo-refused.text-property.ts","id":"01a0f1c7-4de9-799d-b9f0-dc0f6cc64803"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/properties/turn-undo.relation-property.ts","id":"01a0f1c7-4de9-7d53-acd4-24af9e2aa93c"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/service-workstations/cover-rerolling/cover-rerolling.service-workstation.ts","id":"01a0e853-50d7-72fe-a224-748adb47cde2"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-cast/turn-cast.module.ts","id":"01a0ea6e-4e6c-7af1-9a9e-477f55abd52a"}
