@@ -167,6 +167,10 @@ export const overwhereIiWhitecombs = {
       fact: "Each Warped goat has a small hard knot of Water behind its breastbone.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Walking down from the split crag, the pull on Nala's well fades, and her well lies quiet again.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

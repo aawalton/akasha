@@ -40,6 +40,6 @@ export const overwhereIi00055 = {
     "place/overwhere-ii-wendle-ford",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-10-02T19:00:00.000Z",
 } as const satisfies StoryTurnPlayed
