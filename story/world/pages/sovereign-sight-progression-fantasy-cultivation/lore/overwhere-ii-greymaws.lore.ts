@@ -83,5 +83,9 @@ export const overwhereIiGreymaws = {
       fact: "The she-wolf's reservoir is deep; draining her takes a full minute of hard pull.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Greymaw Water drawn into Nala tastes brackish; its rot gathers on her palm as thick grey salt.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
