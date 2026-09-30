@@ -161,7 +161,7 @@ export const overwhereITheGreyfenAlpha = {
     },
     {
       fact: "Bare-eyed at six hundred yards the pack is grey specks; she sees movement, not which wolf.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Through day 3's midday no wolf comes toward the Greystakes; the watcher changes once, about 12:30.",
