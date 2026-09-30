@@ -72,5 +72,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "Steam in a den vents from its air hole as a white plume among the roots.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A scalded reedlurker bolts down its tunnel into the channel and lunges at the nearest leg ashore.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
