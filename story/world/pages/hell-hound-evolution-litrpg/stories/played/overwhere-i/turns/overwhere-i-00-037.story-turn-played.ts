@@ -29,5 +29,6 @@ export const overwhereI00037 = {
   ],
   lore: ["lore/overwhere-i-greyfen-beasts-2", "lore/overwhere-i-nala"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-09-30T11:02:00.000Z",
 } as const satisfies StoryTurnPlayed
