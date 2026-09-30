@@ -18,7 +18,7 @@ export const overwhereI00048 = {
     "character-other/overwhere-i-pine-isle-drakewolf-five",
     "character-other/overwhere-i-pine-isle-drakewolf-six",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I stay low and let them come, opening my pack for easy access to the bullets, then when they cross 100 meters for accuracy, I start firing aimed shots with full force, rotating across the three closest targets, so I don’t waste shots on downed enemies. I aim for where they are going to be when the rock lands, not where they are.",
   beats: [
@@ -41,12 +41,16 @@ export const overwhereI00048 = {
     "On the island shore Ghost-Eye stands with the two biggest wolves, between her and the pups.",
     "The three survivors plunge into the channel and swim for the island, toward Ghost-Eye.",
   ],
+  issues: [
+    '"Nala has reached Level 6." - the settled growth outcome keeps her at Level 5, 4 marks left',
+    '"Strength +2. Dexterity +2. Vigor +2. Attunement +4. Luck +1." - growth outcome gives no stat gains',
+  ],
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
     "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-the-greyfen-alpha",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-01T13:04:00.000Z",
 } as const satisfies StoryTurnPlayed
