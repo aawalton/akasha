@@ -41,5 +41,14 @@ export const overwhereIiiCobFerrow = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
+    {
+      fact: "A rat in the tannery yard left Cob a thin scratch across his forearm, gone gray with blight.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-cob-ferrow",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
   ],
 } as const satisfies Lore
