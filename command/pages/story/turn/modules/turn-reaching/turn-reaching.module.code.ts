@@ -6,6 +6,10 @@ import { SEAT_MODE_HEADLESS } from "akasha/agent/seat/launching/modules/seat-mod
 import { startSeat } from "akasha/agent/seat/launching/modules/seat-start/seat-start.module.code.ts"
 import { akashaSeatPathForCaller } from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { akashaSeatsStated } from "akasha/agent/seat/modules/akasha-read/seat-akasha-read.module.code.ts"
+import {
+  ALAN_PERSON,
+  notify,
+} from "akasha/alan/harness/notification-feed/modules/notifying/notifying.module.code.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { sweptAll } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
@@ -90,6 +94,8 @@ const UNNAMED: readonly string[] = ["AGENT_ID", "CLAUDE_CODE_SESSION_ID"]
 
 const ANNOUNCE = "announce" as const
 
+const ALERT = "alert"
+
 const ROLE = "role"
 
 const ASSIGNMENT = "assignmentSlug"
@@ -153,6 +159,7 @@ export type Reach = {
   readonly start: (starting: Starting, done: string[]) => Promise<string>
   readonly stop: (root: string, seat: string) => undefined
   readonly notify: (to: string, body: string) => Promise<string | null>
+  readonly alerted?: (title: string, body: string) => Promise<string | null>
   readonly loreGathered: (
     root: string,
     turn: Turn,
@@ -321,6 +328,15 @@ async function noticeSent(to: string, body: string): Promise<string | null> {
   return wrote.kind === "refused" ? wrote.detail : null
 }
 
+async function alanAlerted(title: string, body: string): Promise<string | null> {
+  try {
+    await notify(ALAN_PERSON, { title, body, kind: ALERT, source: STEP_SENDER })
+    return null
+  } catch (thrown) {
+    return thrown instanceof Error ? thrown.message : String(thrown)
+  }
+}
+
 async function heldApart<T>(root: string, turn: string, act: () => Promise<T>): Promise<T> {
   return await exclusively(join(root, turn), act, HOLD_MS)
 }
@@ -343,6 +359,7 @@ export const REACHED: Reach = {
   start: seatStarted,
   stop: stoppedApart,
   notify: noticeSent,
+  alerted: alanAlerted,
   loreGathered,
   changedLore: changedLoreOfSeat,
   writtenOn: writtenIndexed,

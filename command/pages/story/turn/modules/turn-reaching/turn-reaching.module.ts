@@ -42,6 +42,10 @@ export const turnReaching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An alert reaches Alan through his notification feed, as an alert.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A turn is held by a lock beside its page, which one process holds at a time.",
     },
     {

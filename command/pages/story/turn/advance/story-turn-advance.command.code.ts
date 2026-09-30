@@ -1,6 +1,4 @@
 import { readOwnTranscriptsSince } from "akasha/agent/modules/io-probe/io-probe.module.code.ts"
-import { reviewer as reviewerRole } from "akasha/agent/role/pages/reviewer.role.ts"
-import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { renamePage } from "akasha/change/mechanical/page/rename/rename-page/rename-page.change-mechanical.ts"
 import {
@@ -21,7 +19,6 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { repointed } from "akasha/command/modules/edits-repointing/edits-repointing.module.code.ts"
-import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import { describedIndexed } from "akasha/command/pages/story/turn/advance/modules/turn-described/turn-described.module.code.ts"
 import {
   movedTo,
@@ -36,21 +33,16 @@ import {
 } from "akasha/command/pages/story/turn/advance/modules/turn-timing/turn-timing.module.code.ts"
 import { liftedFrom } from "akasha/command/pages/story/turn/modules/turn-keeping/turn-keeping.module.code.ts"
 import {
-  type Prompting,
-  type Recorder,
-  type Reviewer,
-  recorderPrompt,
-  reviewerPrompt,
-} from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
-import {
   noticesSent,
   REACHED,
   type Reach,
-  type Starting,
-  type Story,
   type Told,
   type Turn,
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
+import {
+  type Context,
+  seatsStarted,
+} from "akasha/command/pages/story/turn/modules/turn-starting/turn-starting.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import {
@@ -71,14 +63,9 @@ import {
   CHAPTER,
   GAME_MASTER,
   type Held,
-  type Start,
   stepIn,
   type TurnStep,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
-import {
-  flexOf,
-  personaOf,
-} from "akasha/story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 import { storyChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.ts"
 import { storyWritten } from "akasha/story/world/stories/written/story-written.page-type.ts"
@@ -178,73 +165,11 @@ function untimedOn(reach: Reaching, root: string, read: Taken, held: Held, turn:
   return untimedRefused(reach.timeCheckOf(root, held.game), held.game, turn.slug, turn.value)
 }
 
-export type Context = {
-  readonly game: string
-  readonly story: Story | null
-  readonly reviewers: readonly Reviewer[]
-  readonly recorders: readonly Recorder[]
-  readonly prompting: Prompting
-}
-
-function recorderStarting(recorder: string, persona: string, at: Context): Starting | string {
-  const found = at.recorders.find((one) => one.slug === recorder)
-  if (found === undefined) return `\`${recorder}\` is no story recorder page`
-  const flex = flexOf(
-    at.recorders.map((one) => one.slug),
-    found.slug
-  )
-  const prompt = recorderPrompt(at.prompting, found)
-  return { persona, role: storyRecorderRole.slug, game: at.game, flex, prompt }
-}
-
-function startingOf(start: Start, persona: string, over: Context): Starting | string {
-  const at = { ...over, prompting: { ...over.prompting, master: over.story?.master ?? null } }
-  if (start.kind === "recorder") return recorderStarting(start.recorder, persona, at)
-  const found = at.reviewers.find((one) => one.slug === start.reviewer)
-  if (found === undefined) return `\`${start.reviewer}\` is no story reviewer page`
-  const flex = flexOf(
-    at.reviewers.map((one) => one.slug),
-    found.slug
-  )
-  const prompt = reviewerPrompt(at.prompting, found)
-  return { persona, role: reviewerRole.slug, game: at.game, flex, prompt }
-}
-
 async function noticesOver(reach: Reach, root: string, at: Context, status: TurnStep, after: Told) {
   const master = at.story?.master ?? null
   const turn = at.prompting.turnAt
   const noun = at.prompting.noun
   await noticesSent(reach, root, at.game, master, turn, status, after, at.prompting.lore, noun)
-}
-
-export async function seatsStarted(
-  reach: Reach,
-  at: Context,
-  starts: readonly Start[],
-  done: string[],
-  after: Told
-) {
-  if (starts.length === 0) return
-  const master = at.story?.master ?? null
-  const persona = master === null ? null : personaOf(master, at.game)
-  if (persona === null) {
-    after.faults.push(
-      `\`${at.game}\` names no game master seat spelling a persona, so no seat was started`
-    )
-    return
-  }
-  for (const start of starts) {
-    const starting = startingOf(start, persona, at)
-    if (typeof starting === "string") {
-      after.faults.push(starting)
-      continue
-    }
-    try {
-      after.report.push(`started\t${await reach.start(starting, done)}`)
-    } catch (thrown) {
-      after.faults.push(`no ${starting.role} seat was started: ${whyOf(thrown)}`)
-    }
-  }
 }
 
 async function advancedOn(

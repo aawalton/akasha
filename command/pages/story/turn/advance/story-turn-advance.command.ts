@@ -67,10 +67,7 @@ export const storyTurnAdvance = {
       statement:
         "An advance that refuses gives the caller back its drafts and leaves the turn as it was.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A seat started here sits as the persona of the game's game master.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A reviewer's or a recorder's seat is stopped once its advance lands.",
@@ -82,6 +79,10 @@ export const storyTurnAdvance = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A notice or a start that fails after the landing is told, and undoes nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat that does not start is told to the game's game master and to Alan.",
     },
     {
       decisionKind: "decision-kind/departure",
