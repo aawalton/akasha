@@ -4,10 +4,13 @@ export const overwhereIi00032 = {
   id: "01a0f377-9497-7c06-9b83-5c77a7c208bc",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-032",
+  ownLength: 231,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 32,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action: "“Sounds good”",
   beats: [
     'Nala: "Sounds good."',
@@ -24,6 +27,6 @@ export const overwhereIi00032 = {
     'Reeve Dray: "My watch lost a man to that beast. And you, a slip of a lass, put her down?"',
     'Reeve Dray: "Where are the carcasses, and who saw it done?"',
   ],
-  lore: ["lore/overwhere-ii-wendle-ford-folk"],
+  lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-wendle-ford-folk"],
   endsAt: "2026-09-30T08:05:00.000Z",
 } as const satisfies StoryTurnPlayed
