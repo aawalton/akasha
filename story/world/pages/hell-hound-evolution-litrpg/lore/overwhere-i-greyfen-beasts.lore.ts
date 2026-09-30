@@ -311,6 +311,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "At 10:52 on day 2 the Level 10 reedlurker lies scorched a yard from the channel, at 3 of 20 health.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's searing hot-wind blast blistered the reedlurker's wet hide; it lived, dragging toward water.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
