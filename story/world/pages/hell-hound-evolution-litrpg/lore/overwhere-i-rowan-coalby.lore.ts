@@ -155,6 +155,10 @@ export const overwhereIRowanCoalby = {
       fact: "Rowan says Sedge will come and lead them over the firmest ground.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "In the Stag Rowan tells the hall, stammering, that Nala killed Ghost-Eye and Sedge never took stock.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
