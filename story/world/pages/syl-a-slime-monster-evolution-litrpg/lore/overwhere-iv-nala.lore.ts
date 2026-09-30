@@ -117,7 +117,7 @@ export const overwhereIvNala = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "She has no Identify skill yet, so she sees no one's name or level but her own.",
+      fact: "She has no Identify yet, so she sees no living one's name or level but her own.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
