@@ -30,7 +30,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "A limb refined whole shows a faint pearly sheen for an hour, then looks like her own skin again.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Beside a refined limb, Nala's unrefined skin feels thin and raw, as if asking to be matched.",
