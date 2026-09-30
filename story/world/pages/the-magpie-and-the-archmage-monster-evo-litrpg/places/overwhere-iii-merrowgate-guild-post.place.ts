@@ -224,7 +224,11 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "The beast guide lists Wrenmark beasts by level, with weak spots, bounties and which parts sell.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "The rules book covers Guild ranks, quest terms, the bounty table, and what a ring does.",
