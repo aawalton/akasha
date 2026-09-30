@@ -80,5 +80,9 @@ export const overwhereIStarfallLegacy = {
       fact: "An earth-and-water weave moves wet ground and mud as a slow, heavy grip that can haul a body.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Holding a living, thrashing beast in a mud grip is a hard act; a dead one is easy.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
