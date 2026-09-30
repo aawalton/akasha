@@ -173,5 +173,17 @@ export const overwhereINala = {
       fact: "Loosing earth answers slow and heavy and leaves a small heavy hollow that fills back in on its own.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "A Surge working held past its minute costs its mana and element again for each minute more.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At legacy rank 1 she can keep two workings going at once; a third makes all of them slip.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her reserves refill faster than held workings drain them, so her mana runs low first.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
