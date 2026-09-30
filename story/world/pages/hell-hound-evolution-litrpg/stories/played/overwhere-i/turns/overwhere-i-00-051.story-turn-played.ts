@@ -9,4 +9,5 @@ export const overwhereI00051 = {
   position: 51,
   stepStatus: "step-status/game-master",
   action: "I fire an artillery shot again, seeing if I can hit Ghost-Eye this time",
+  endsAt: "2026-10-01T13:32:00.000Z",
 } as const satisfies StoryTurnPlayed
