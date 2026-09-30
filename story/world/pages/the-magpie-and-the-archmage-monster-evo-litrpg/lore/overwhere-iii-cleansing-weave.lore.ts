@@ -24,5 +24,9 @@ export const overwhereIiiCleansingWeave = {
       fact: "A holy thread shaped as a pull is Cleansing Weave by another road, and costs its 3 mana.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Pulling blight out whole is quicker than unpicking it: two pulls clear a weeks-old bite.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
