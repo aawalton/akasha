@@ -10,7 +10,7 @@ export const overwhereIii00009 = {
   position: 9,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I go in. “Do I need to register to take on a task from the board or can I just return when it is complete? I’m looking at gathering frostcap mushrooms. Also, anything you could tell me about them or the area where they are found would be appreciated.”",
   beats: [
@@ -32,11 +32,15 @@ export const overwhereIii00009 = {
     '"Fill that in. Then hold the card and push your mana into it. It shows what you\'ve got."',
     "Marda sits back and waits, watching her.",
   ],
+  issues: [
+    '"She sits back in her chair, watching you." - No Prompt',
+    '"She sits back in her chair, watching you." - Leave It Open',
+  ],
   lore: [
     "lore/overwhere-iii-marda-hesk",
     "lore/overwhere-iii-nala",
     "place/overwhere-iii-wrenwood",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-30T07:07:00.000Z",
 } as const satisfies StoryTurnPlayed
