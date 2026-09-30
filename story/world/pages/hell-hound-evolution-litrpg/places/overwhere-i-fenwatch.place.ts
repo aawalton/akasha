@@ -317,6 +317,10 @@ export const overwhereIFenwatch = {
       fact: "The eel traps are wicker, sunk in the channels at the fen's edge a half hour north of the ford.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Reedlurkers have torn up half Jory's traps this month, and last week bit his grandson's leg.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
