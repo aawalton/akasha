@@ -27,5 +27,6 @@ export const overwhereIv00026 = {
     "One grey-green foot scrabbles for purchase an arm's length from her boot.",
   ],
   lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-hobb-farm"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T18:30:00.000Z",
 } as const satisfies StoryTurnPlayed
