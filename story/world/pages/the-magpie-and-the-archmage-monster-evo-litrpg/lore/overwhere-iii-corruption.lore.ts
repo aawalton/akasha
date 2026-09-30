@@ -18,7 +18,7 @@ export const overwhereIiiCorruption = {
     },
     {
       fact: "A beast's first signs: black smoke from the mouth, sclera turning black, then hollow eye pits.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Corrupted flesh rots to black sludge, muscles bulge, and a dark aura and stench hang about it.",
