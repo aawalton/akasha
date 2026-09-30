@@ -83,6 +83,10 @@ export const overwhereITheGreyfen = {
       fact: "The channels by Jory's traps run tea-dark and chest-deep, three or four yards wide.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "After the thump Jory stands five yards back from the channel, out of a reedlurker's reach.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
