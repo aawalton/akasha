@@ -11,4 +11,5 @@ export const overwhereIii00030 = {
   action:
     "“I’m dry, but I’ll check in morning and night until you’re both clear. Ivy in the morning, Garrick at night. For now, I’m going to sleep.”",
   lore: ["lore/overwhere-iii-brannagh-tull", "lore/overwhere-iii-cleansing-weave"],
+  endsAt: "2026-09-30T18:30:00.000Z",
 } as const satisfies StoryTurnPlayed
