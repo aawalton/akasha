@@ -4,13 +4,14 @@ export const overwhereIi00014 = {
   id: "01a0f1c1-d714-7cf9-a977-264e545ba0ea",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-014",
+  cover: "image/image-2df62c7b869b8ab1",
   ownLength: 328,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 14,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Who? I’m Nala, just a Talented passing through. Garth here asked if I could help his Wren,",
   beats: [
@@ -42,6 +43,6 @@ export const overwhereIi00014 = {
     "lore/overwhere-ii-wendle-ford-folk",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T09:50:00.000Z",
 } as const satisfies StoryTurnPlayed
