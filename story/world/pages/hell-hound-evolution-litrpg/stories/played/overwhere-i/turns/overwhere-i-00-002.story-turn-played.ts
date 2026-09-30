@@ -4,13 +4,13 @@ export const overwhereI00002 = {
   id: "01a0ed3c-a86d-7f9b-8d7b-1872063e7eef",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-002",
-  ownLength: 327,
+  ownLength: 320,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 2,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "“Okay, Isekai protocol” I say quietly. “Status? System?” I focus on the words to see if I can get more information.",
   beats: [

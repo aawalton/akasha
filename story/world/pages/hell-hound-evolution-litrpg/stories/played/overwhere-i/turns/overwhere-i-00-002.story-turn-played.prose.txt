@@ -24,7 +24,7 @@ A second, smaller line opens under the screen.
 
 [Unrecognized request. Please see the help menu for available functions.]
 
-You read the whole screen in one pass, then go back. Attunement sits at three times your Strength, three times your Vigor, well past everything else on the list. Your Mana is triple your Health.
+You read the whole screen in one pass, then go back. Attunement stands out, more than double anything else on the list. Your Mana is triple your Health.
 
 Your eyes come to rest on the last line. Behind your breastbone, the pressure stirs, as if it heard its name.
 
