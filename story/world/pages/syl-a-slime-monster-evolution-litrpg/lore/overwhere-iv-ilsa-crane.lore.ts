@@ -136,6 +136,18 @@ export const overwhereIvIlsaCrane = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Ilsa has never seen a clear flare, and cannot name it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The guild handbook Ilsa keeps says rare legacy affinities may show lights no card holds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The handbook names no legacy affinity by its light, and bids such lights reported at once.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Ilsa Crane keeps the Millbrook Adventurers' Hall.",
       knowers: [
         "lore-disclosure/game-master",
