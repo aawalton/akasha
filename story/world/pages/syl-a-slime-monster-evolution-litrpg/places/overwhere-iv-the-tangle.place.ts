@@ -104,6 +104,26 @@ export const overwhereIvTheTangle = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The slinger atop the oak is twenty paces from Nala, and aims at her chest.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The slinger's arm snaps just before the stone flies; a drop timed to the snap lets it pass.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The slinger takes three breaths to load and whirl again between stones.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The ground by the hollow's rim is wet leaf mould over yew roots, soft to drop on.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dace reaches the fallen oak's foot as the slinger throws at Nala, and swings up at it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Hobb's gap's blood trail runs most of a mile in, toward a hollow walled by a fallen oak.",
       knowers: [
         "lore-disclosure/game-master",
