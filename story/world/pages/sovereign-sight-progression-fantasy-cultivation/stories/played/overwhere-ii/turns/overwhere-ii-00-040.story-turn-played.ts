@@ -11,7 +11,7 @@ export const overwhereIi00040 = {
   position: 40,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I pursue the final wolf and finish it off, then cut off the right ears for the five and report back to Dray, so he knows where to send a card for the carcasses.",
   beats: [
@@ -40,6 +40,11 @@ export const overwhereIi00040 = {
     "place/overwhere-ii-hollow-tarn",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-09-30T11:43:00.000Z",
 } as const satisfies StoryTurnPlayed
