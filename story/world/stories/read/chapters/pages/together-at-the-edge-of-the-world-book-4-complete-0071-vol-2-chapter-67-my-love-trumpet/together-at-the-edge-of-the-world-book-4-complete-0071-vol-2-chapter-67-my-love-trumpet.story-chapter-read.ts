@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0071Vol2Chapter67MyLoveTrum
   id: "01a0f12a-b851-75c8-a9ec-ec8d4e054a24",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0071-vol-2-chapter-67-my-love-trumpet",
+  ownProgress: 2346,
   position: 71,
   publishedAt: "2025-10-23",
   unit: "unit/words",

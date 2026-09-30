@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0070Vol2Chapter66TheLuceAnd
   id: "01a0f12a-b851-7122-989c-1d494da3e7f8",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0070-vol-2-chapter-66-the-luce-and-its-throne",
+  ownProgress: 2420,
   position: 70,
   publishedAt: "2025-10-22",
   unit: "unit/words",

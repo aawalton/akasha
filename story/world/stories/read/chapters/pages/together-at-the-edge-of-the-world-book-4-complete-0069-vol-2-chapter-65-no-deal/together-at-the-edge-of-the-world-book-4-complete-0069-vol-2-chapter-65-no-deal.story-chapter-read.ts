@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0069Vol2Chapter65NoDeal = {
   id: "01a0f12a-b851-71b3-b283-12aa75e41ae9",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0069-vol-2-chapter-65-no-deal",
+  ownProgress: 2688,
   position: 69,
   publishedAt: "2025-10-21",
   unit: "unit/words",
