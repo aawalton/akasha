@@ -196,6 +196,14 @@ export const overwhereIiiBrannaghTull = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "Her back room is narrow, lit by one lamp, with two cots in it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
