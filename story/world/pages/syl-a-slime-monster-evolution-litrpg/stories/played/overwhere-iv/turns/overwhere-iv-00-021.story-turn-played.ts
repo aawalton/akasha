@@ -10,7 +10,7 @@ export const overwhereIv00021 = {
   position: 21,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "“Deal. I have a lot of growing to do. Rather do it with someone I can trust anyways.”",
   beats: [
     '"Deal," Nala says. "I have a lot of growing to do. Rather do it with someone I can trust anyways."',
@@ -28,7 +28,10 @@ export const overwhereIv00021 = {
     "She reaches under the counter and sets down a pair of old leather gloves, worn soft, a little big.",
     '"From the hall\'s box of things left behind. Wear them, the jelly stings. And mind the wolves."',
   ],
+  issues: [
+    '"a crack a little grown" - soft report says only a faint odd light from an old cracked crystal',
+  ],
   lore: ["lore/overwhere-iv-ilsa-crane", "lore/overwhere-iv-nala", "place/overwhere-iv-hobb-farm"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T09:40:00.000Z",
 } as const satisfies StoryTurnPlayed
