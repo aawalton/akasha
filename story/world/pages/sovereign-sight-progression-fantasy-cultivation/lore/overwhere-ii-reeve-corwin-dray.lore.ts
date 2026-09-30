@@ -97,7 +97,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Besides Hob's forge, no spear better than the watch's plain iron is to be had short of Carrowmouth.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
