@@ -16,6 +16,12 @@ export const LIVE_VERSION_POLL_MS = 60_000
 
 const ASK_CEILING_MS = 5_000
 
+const NARROW = "(max-width: 600px)"
+
+function positionHere(): { position?: "top-center" } {
+  return window.matchMedia(NARROW).matches ? { position: "top-center" } : {}
+}
+
 const BUILD_SHA = parseBuildSha(import.meta.env.VITE_BUILD_SHA)
 
 const DEFAULT_CLASSNAMES = {
@@ -68,6 +74,7 @@ export function useAppVersionCheck(options?: {
         id: "version-update",
         duration: Number.POSITIVE_INFINITY,
         closeButton: false,
+        ...positionHere(),
         classNames: classNamesRef.current,
         action: {
           label: "Reload",

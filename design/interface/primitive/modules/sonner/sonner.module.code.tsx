@@ -9,6 +9,7 @@ const Toaster = ({ ...props }: ToasterProps) => {
       theme={"dark"}
       className="toaster group"
       closeButton
+      mobileOffset={{ top: "calc(env(safe-area-inset-top) + 16px)" }}
       toastOptions={{
         classNames: {
           toast: `${surfaceClass(2)} border-none text-primary`,
