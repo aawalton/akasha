@@ -292,5 +292,9 @@ export const overwhereIStarfallLegacy = {
       fact: "Starfall Weave rose to level 4 at about 09:30 on day 3, adding +3 Attunement.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "A slug is a Surge strike for harm and bands; its bands are before the easing, which still applies.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
