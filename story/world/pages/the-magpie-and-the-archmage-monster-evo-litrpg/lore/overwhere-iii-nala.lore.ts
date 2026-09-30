@@ -250,26 +250,12 @@ export const overwhereIiiNala = {
       fact: "Nala cut fourteen good frostcaps in well under an hour and wraps them in her shirt front.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
-    {
-      fact: "Her first shaping of raw current into force earns the skill Current Lash from the System.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
-    },
-    {
-      fact: "Earning it shows: [New skill acquired – Current Lash.]",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
-    },
-    {
-      fact: "[Current Lash – At [Basic] level, loose raw current as a lash, a shove or a ward.]",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
-    },
+
     {
       fact: "Cleared: [Mana Weaver – At [Basic] level, you see currents and auras. They lend your workings mana.]",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
-    {
-      fact: "Her first Current Lash loosed far more force than she meant to put in it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
-    },
+
     {
       fact: "An antlered rabbit's bite opened her forearm deep enough to bleed down her wrist.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
@@ -282,22 +268,7 @@ export const overwhereIiiNala = {
       fact: "A white-gold thread is slow and warm; stitched into a wound, it closes it over a few minutes.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
-    {
-      fact: "Her first mending with a holy thread earns Mending Weave: [New skill acquired – Mending Weave.]",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
-    },
-    {
-      fact: "[Mending Weave – At [Basic] level, stitch holy current into a wound to close it slowly.]",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
-    },
-    {
-      fact: "At Basic, one Mending Weave gives back about 5 health and closes one small wound.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Her first Mending Weave took near half an hour of restitching a slipping thread before it held.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
-    },
+
     {
       fact: "The antlered rabbit's bite on her forearm has closed to a raw pink seam and no longer bleeds.",
       knowers: [
