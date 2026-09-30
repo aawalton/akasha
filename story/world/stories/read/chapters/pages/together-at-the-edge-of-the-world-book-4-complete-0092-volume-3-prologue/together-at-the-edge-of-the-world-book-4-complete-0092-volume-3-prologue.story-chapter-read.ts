@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0092Volume3Prologue = {
   id: "01a0f12a-b852-72ae-a698-3efee98ba77b",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0092-volume-3-prologue",
+  ownProgress: 790,
   position: 92,
   publishedAt: "2025-11-17",
   unit: "unit/words",

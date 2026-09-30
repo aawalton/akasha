@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0095Vol3Chapter87ReturnToTh
   id: "01a0f12a-b852-7cc6-99bb-baf8841c37f1",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0095-vol-3-chapter-87-return-to-the-vault",
+  ownProgress: 2551,
   position: 95,
   publishedAt: "2025-11-20",
   unit: "unit/words",

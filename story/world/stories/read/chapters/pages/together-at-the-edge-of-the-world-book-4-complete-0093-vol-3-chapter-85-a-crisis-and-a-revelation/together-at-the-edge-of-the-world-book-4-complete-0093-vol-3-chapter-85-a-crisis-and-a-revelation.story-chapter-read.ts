@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0093Vol3Chapter85ACrisisAnd
   id: "01a0f12a-b852-7a00-9aa1-afe02f8a3f2e",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0093-vol-3-chapter-85-a-crisis-and-a-revelation",
+  ownProgress: 2037,
   position: 93,
   publishedAt: "2025-11-18",
   unit: "unit/words",

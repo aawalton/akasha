@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0091AddressingTheOldWomanIn
   id: "01a0f12a-b852-70b8-92ba-ecf03a00feba",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0091-addressing-the-old-woman-in-the-room",
+  ownProgress: 1068,
   position: 91,
   publishedAt: "2026-01-17",
   unit: "unit/words",
