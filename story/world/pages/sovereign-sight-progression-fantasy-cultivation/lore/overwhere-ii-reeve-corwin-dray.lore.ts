@@ -173,7 +173,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Dray leans his weight into every swing; at the end of one his flank is open for a heartbeat.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "For Dray a spear point touched to his body anywhere below the stone counts as struck true.",
