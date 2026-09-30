@@ -319,7 +319,7 @@ export const overwhereIiSpiritualRotAndHealing = {
     },
     {
       fact: "Plain iron neither holds nor kills rot salt; within hours it seeps through, as damp through clay.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "In a hot fire rot salt spits, stinks and burns away to clean white ash.",
