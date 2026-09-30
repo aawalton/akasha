@@ -65,11 +65,11 @@ export const overwhereIvNala2 = {
     },
     {
       fact: "At Dimension Magic LV 3, a fold shifts a thing about a foot and a half, toward her or away.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "A goblin folded toward her lurches off its feet, straight at whatever she holds out.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Until she holds Spellstrike, a spell through her spear costs its full mana.",
@@ -77,6 +77,30 @@ export const overwhereIvNala2 = {
     },
     {
       fact: "A foe Nala fells is named with its kind and level in a window, though she has no Identify.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Nala folded the club goblin onto her spear too early; the point skidded shallow off its hide.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "The club goblin's club struck Nala's shoulder through her jerkin; it hurt, but she kept her feet.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "A fold Nala lays along her spear's edge as it thrusts cuts clean; the window named it Rift Rend.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Nala's Rift Rend cut the LV 5 club goblin clean through and killed it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Killing the club goblin raised Nala's Spearmanship to LV 3 and her Rift Rend to LV 2.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "A Rift Rend costs Nala a good handful of her warmth.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],

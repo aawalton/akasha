@@ -57,7 +57,11 @@ export const overwhereIvTheTangle = {
     },
     {
       fact: "Three of Hobb's sheep are penned alive at the lookout behind a rope of plaited bark.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "If a fight turns against it, the lookout sends its fastest goblin running deeper in.",
@@ -102,6 +106,30 @@ export const overwhereIvTheTangle = {
     {
       fact: "Near the fallen-oak hollow, Nala's sense felt a body crouched behind a yew on her left.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "A goblin slinger throws stones at the Four from atop the fallen oak by the hollow.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
+    {
+      fact: "Merrit's fireball burst against the fallen oak, and the slinger atop it yelped and ducked.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
+    {
+      fact: "Mid-fight one goblin ran from the hollow deeper in; Wren shouted it was going for the rest.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
   ],
   secrets: "jsonl",
