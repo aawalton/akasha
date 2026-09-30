@@ -17,7 +17,7 @@ export const overwhereIii00041 = {
     "character-other/overwhere-iii-hild-wendle",
     "character-other/overwhere-iii-ivy-marsh",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Thanks, for letting me know, I’ll be there. As for the magic, I’m not entirely sure how it works, but if you figure it out, please let me know.” I say with a smile, then keep reading until it’s time to go to Brannagh’s.",
   beats: [
@@ -44,6 +44,7 @@ export const overwhereIii00041 = {
     "The carter pays Brannagh ten copper, and she hands it straight on to Nala.",
     "She spoons the seed stone into Nala's clay cup. Outside the window, the lane has gone dark.",
   ],
+  issues: ['"Outside the window, the lane has gone dark." - Leave It Open'],
   lore: [
     "lore/overwhere-iii-brannagh-tull",
     "lore/overwhere-iii-hild-wendle",
@@ -54,6 +55,6 @@ export const overwhereIii00041 = {
     "lore/overwhere-iii-pip-carrow",
     "lore/overwhere-iii-wrenmark-beast-guide",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-01T17:45:00.000Z",
 } as const satisfies StoryTurnPlayed
