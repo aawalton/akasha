@@ -14,7 +14,7 @@ export const overwhereIii00023 = {
     "character-other/overwhere-iii-marda-hesk",
     "character-other/overwhere-iii-dunstan-harrow",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I gather the rest of the good frostcaps, including a few extras of any are there, then pick up the two carcasses and drag them back to the Post, then pick up the third carcass I left there and drag all three to the place I was told would buy them",
   beats: [
@@ -41,6 +41,6 @@ export const overwhereIii00023 = {
     "place/overwhere-iii-merrowgate-guild-post",
     "place/overwhere-iii-wrenwood",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T17:09:00.000Z",
 } as const satisfies StoryTurnPlayed
