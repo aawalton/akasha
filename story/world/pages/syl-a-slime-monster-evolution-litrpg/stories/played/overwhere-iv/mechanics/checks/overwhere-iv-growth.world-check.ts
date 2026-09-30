@@ -70,6 +70,19 @@ export const overwhereIvGrowth = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A real fight puts her in danger; culling harmless pests like common slimes is none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A skill she lacks is gained after three earnest uses of it, at LV 1.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A skill gained shows as: <New skill acquired: [Spearmanship LV 1].>",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The offer lists basic classes that fit her deeds, such as Mage, Scout or Warrior.",
     },
     {
