@@ -30,7 +30,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "The beck at Callow Beck has run faintly salt since midwinter.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Ebba sizes up a stranger in silence, then talks freely to anyone the Reeve sends.",
