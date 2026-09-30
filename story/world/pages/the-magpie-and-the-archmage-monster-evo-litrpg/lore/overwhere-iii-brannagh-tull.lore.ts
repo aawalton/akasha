@@ -205,7 +205,7 @@ export const overwhereIiiBrannaghTull = {
       ],
     },
     {
-      fact: "Filling Nala took half the mana draught; the flask still holds about 5 mana's worth.",
+      fact: "Filling Nala took nearly all the mana draught; the flask holds about 1 mana's worth.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
