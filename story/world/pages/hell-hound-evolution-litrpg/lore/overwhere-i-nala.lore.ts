@@ -201,5 +201,9 @@ export const overwhereINala = {
       fact: "Her water working took the form of a thin disc of water spinning fast above her palm.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Her mana comes back 13 at a time, in one jump every ten minutes.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
