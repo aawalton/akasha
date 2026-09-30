@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0082Vol2Chapter78TheBrutesW
   id: "01a0f12a-b852-7d8a-9e15-965ef70471ad",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0082-vol-2-chapter-78-the-brutes-way",
+  ownProgress: 1913,
   position: 82,
   publishedAt: "2025-11-09",
   unit: "unit/words",

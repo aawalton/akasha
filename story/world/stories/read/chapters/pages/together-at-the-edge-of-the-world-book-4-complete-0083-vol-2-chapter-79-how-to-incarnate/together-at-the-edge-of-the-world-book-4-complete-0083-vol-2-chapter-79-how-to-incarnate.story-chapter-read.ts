@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0083Vol2Chapter79HowToIncar
   id: "01a0f12a-b852-798e-82b1-0cc6490bd91e",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0083-vol-2-chapter-79-how-to-incarnate",
+  ownProgress: 2811,
   position: 83,
   publishedAt: "2025-11-10",
   unit: "unit/words",
