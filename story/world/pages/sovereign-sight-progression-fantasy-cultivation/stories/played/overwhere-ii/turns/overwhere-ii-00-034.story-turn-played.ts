@@ -4,13 +4,14 @@ export const overwhereIi00034 = {
   id: "01a0f38c-a299-7ed5-87bc-7cc92ab9e4c8",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-034",
+  cover: "image/image-e29b34277d55f7cc",
   ownLength: 246,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 34,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Sure, but I’ll hunt alone. For pay, I’d like the best spear you can get me to hunt them with. I’ll contribute up to two silver bars to pay for it if the hunt itself is not enough. I’d also like a pack if you have a spare, getting tired of carrying these in my hands “",
   beats: [
@@ -41,6 +42,11 @@ export const overwhereIi00034 = {
     "lore/overwhere-ii-wendle-ford-folk",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T08:20:00.000Z",
 } as const satisfies StoryTurnPlayed
