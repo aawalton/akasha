@@ -8,7 +8,7 @@ On the marsh the same weave sinks into the soft ground and slows you to a fast r
 
 You will air and water. You skim over the wet marsh like a skater, gallop-fast again.
 
-On the dry heath the skim finds nothing to ride and doesn't speed you at all.
+On the dry heath the skim drags and stalls you to a walk.
 
 You try fire and air at your back. It pushes you no faster than plain wind, and scorches the heather behind you.
 
@@ -26,6 +26,6 @@ Last, you weave fire and air and push it out wide. Flame fans in a half-circle t
 
 [Attunement +3.]
 
-[Mana: 96/232]
+Half the afternoon is left when you check your mana.
 
-The afternoon is still young. You stand on the scorched heath. Fenwatch is a mile back, Rowan Coalby with it, and the marsh stretches on beside you.
+[Mana: 96/232]
