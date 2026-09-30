@@ -125,7 +125,11 @@ export const overwhereIHessaVane = {
     },
     {
       fact: "Asked for challenges, she names Ghost-Eye and Voss's crew, and says neither is for one alone.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Hessa let Nala's 'here and there' pass and did not ask again where she is from.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",

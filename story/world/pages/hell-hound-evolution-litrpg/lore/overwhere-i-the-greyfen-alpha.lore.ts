@@ -56,6 +56,14 @@ export const overwhereITheGreyfenAlpha = {
       fact: "Ghost-Eye, a big Drakewolf alpha with a milky left eye, leads a pack that holds the middle fen.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Ghost-Eye is half again a common Drakewolf's size, and its pack herds its prey into the water.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "The Hunters' Board bounty on Ghost-Eye's head is still uncollected.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

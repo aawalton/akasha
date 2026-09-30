@@ -37,7 +37,7 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "Ghost-Eye's Drakewolf pack holds the middle fen and hunts it at dawn and dusk.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Small goblin bands live on dry islands deep in the fen and keep away from humans.",

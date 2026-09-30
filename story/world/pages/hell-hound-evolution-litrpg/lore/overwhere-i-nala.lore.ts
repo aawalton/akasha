@@ -225,5 +225,9 @@ export const overwhereINala = {
       fact: "Nala claimed the Brute's kill and offered it for a village feast in return for help moving it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Nala told Hessa she is a rolling stone, always looking for a change and a challenge.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
