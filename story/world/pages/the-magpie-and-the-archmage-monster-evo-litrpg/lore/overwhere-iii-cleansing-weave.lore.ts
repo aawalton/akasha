@@ -29,7 +29,7 @@ export const overwhereIiiCleansingWeave = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Blight pulled from living flesh clots at the wound's lip into a blightstone the size of a seed.",
+      fact: "Blight pulled from living flesh clots at the wound's lip into a seed stone, black and seed-sized.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/overwhere-iii-nala",
@@ -41,7 +41,7 @@ export const overwhereIiiCleansingWeave = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
-      fact: "A seed-sized blightstone from a bite cracks with one Cleansing Weave into a speck of a glimmerstone.",
+      fact: "A seed stone from a bite cracks with one Cleansing Weave into a glimmer speck.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
