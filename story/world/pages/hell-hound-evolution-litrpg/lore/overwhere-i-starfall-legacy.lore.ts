@@ -104,5 +104,9 @@ export const overwhereIStarfallLegacy = {
       fact: "Reaching for water in a living body finds nothing to grip, like a locked door; a few seconds go.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A hot-wind blast is a Surge strike for harm and bands; a lurker on land makes it an easy act.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
