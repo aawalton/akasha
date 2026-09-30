@@ -292,6 +292,10 @@ export const overwhereIFenwatch = {
       fact: "After she ended the Grubboar boar on day 2, Fenwatch's regard for Nala stands at 4.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "With ropes, a mule and four men, Fenwatch hauls the sunk boar out of the wallow by noon.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
