@@ -81,7 +81,8 @@ export function struck(strike: Strike, roll: Rolled): Resolved {
   }
 }
 
-export function settled(reading: unknown, roll: Rolled): Settled {
+export function settled(reading: unknown, roll: Rolled | null): Settled {
+  if (roll === null) return { refused: "a strike is rolled, so settle it with --dice" }
   const held = STRIKE.safeParse(reading)
   if (!held.success) return { refused: `a strike reads so: ${z.prettifyError(held.error)}` }
   return { answered: struck(held.data, roll) }

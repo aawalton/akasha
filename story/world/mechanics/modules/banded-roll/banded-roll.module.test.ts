@@ -81,3 +81,9 @@ test("a bonus naming no source is refused", () => {
 test("a band the game does not have is refused", () => {
   expect(settled({ band: "heroic" }, rolled(12))).toHaveProperty("refused")
 })
+
+test("an act handed no roll is refused, naming the dice to settle it with", () => {
+  expect(settled({ band: "standard" }, null)).toEqual({
+    refused: "an act is rolled, so settle it with --dice 1d20",
+  })
+})

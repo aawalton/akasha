@@ -5,6 +5,7 @@ import { changeMechanicalFileContent } from "akasha/change/mechanical/file-conte
 import { editsIn, foldedIn } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
+import { dice as diceArgument } from "akasha/command/argument/pages/dice.argument.ts"
 import { worldFor } from "akasha/command/modules/change-running/change-running.module.code.ts"
 import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 
@@ -65,6 +66,17 @@ type Answered = { readonly answered: unknown; readonly added: readonly Added[] }
 
 type Settle = (given: unknown, thrown: unknown) => unknown
 
+function settledOrUnrolled(settle: Settle, path: string, reading: unknown, roll: unknown): unknown {
+  try {
+    return settle(reading, roll)
+  } catch (error) {
+    if (roll !== null || !(error instanceof TypeError)) throw error
+    return {
+      refused: `\`${path}\` reads a roll and was handed none, so settle it with \`${diceArgument.said}\``,
+    }
+  }
+}
+
 export async function settledAt(
   path: string,
   reading: unknown,
@@ -75,7 +87,7 @@ export async function settledAt(
   if (typeof settle !== "function") {
     return { refused: `\`${path}\` exports no \`${SETTLED}\`, so nothing settles the roll` }
   }
-  const said = (settle as Settle)(reading, roll)
+  const said = settledOrUnrolled(settle as Settle, path, reading, roll)
   if (!isRecord(said)) return { refused: `\`${path}\` answered no roll` }
   const why = said["refused"]
   if (typeof why === "string") return { refused: why }

@@ -179,6 +179,16 @@ test("a check reading dice and handed none appends nothing", async () => {
   expect(await settledBy("answering", reachOver([LATEST]), argv)).toEqual([])
 })
 
+test("a check whose code breaks on no roll is refused, naming the dice to settle it with", async () => {
+  const answer = await storySettle(
+    argvFor("answering").slice(0, 6),
+    GIVEN,
+    async () => await Promise.reject(new Error("a refused settle lands nothing")),
+    reachOver([LATEST])
+  )
+  expect(answer.refusals.join("\n")).toContain("`--dice`")
+})
+
 test("the first roll on the open turns is seeded by the turn it is settled on", async () => {
   const roll = rollIn((await settledBy("answering", reachOver([FIRST, LATEST])))[0] as Appended)
   expect(roll.seed).toBe(LATEST.slug)

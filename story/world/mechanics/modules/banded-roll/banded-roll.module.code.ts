@@ -41,7 +41,8 @@ function outcomeOf(margin: number, roll: Rolled): Outcome {
   return "failure"
 }
 
-export function bandedSettled(reading: unknown, roll: Rolled): Settled {
+export function bandedSettled(reading: unknown, roll: Rolled | null): Settled {
+  if (roll === null) return { refused: "an act is rolled, so settle it with --dice 1d20" }
   const held = ACT.safeParse(reading)
   if (!held.success) return { refused: `an act reads so: ${z.prettifyError(held.error)}` }
   const added = held.data.bonuses.reduce((sum, one) => sum + one.by, 0)
