@@ -67,6 +67,42 @@ export const overwhereIvMillbrookCommon = {
       fact: "A slime with a red stone followed Nala across the common as far as the water's edge.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "This afternoon some thirty small slimes and five melon-sized ones dot the common.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Near Nala the slimes grow calm and drift toward her; none flees her spear.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A thrust that misses the core only splashes jelly; the slime lurches and clings to the foot.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A clinging slime stings through cloth a little, and cannot truly harm a grown adult.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Small slimes are LV 1 or 2; the melon-sized are LV 3 or 4 and need a deeper thrust.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A killed slime slumps to a puddle of jelly around its core, which dulls from red to grey.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Three jelly children work the common with jars, led by Tam Brewer, a boy of ten.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tam claims the fattest slimes as his own, and yells at anyone who spears one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "An old shepherd, Dunny Carrow, minds the sheep from a stile and watches strangers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
