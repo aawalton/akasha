@@ -87,6 +87,10 @@ export const overwhereIRowanCoalby = {
       fact: "At 16:30 on day 3 Rowan and Sedge met Nala at the fen edge by the Greyback.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Rowan, stammering, asked Nala about the howl he heard from the fen after noon.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
