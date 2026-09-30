@@ -18,7 +18,14 @@ export const overwhereIFenwatch2 = {
     },
     {
       fact: "News that Ghost-Eye is dead fills the Stag by nightfall of day 3; the hall toasts Nala.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-rowan-coalby",
+        "lore/overwhere-i-agathe-morrow",
+        "lore/overwhere-i-garrick-pell",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
     {
       fact: "Next morning Hessa Vane rides in from the ford, having heard of Ghost-Eye, to see Nala for herself.",
@@ -26,7 +33,11 @@ export const overwhereIFenwatch2 = {
     },
     {
       fact: "At the gate near 17:40 on day 3, the watch bristles at Sedge until Rowan speaks up for it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-rowan-coalby",
+      ],
     },
     {
       fact: "At 17:45 on day 3 the Stag holds Garrick, Agathe, Osric and a score of villagers at supper.",

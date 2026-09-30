@@ -157,7 +157,14 @@ export const overwhereIRowanCoalby = {
     },
     {
       fact: "In the Stag Rowan tells the hall, stammering, that Nala killed Ghost-Eye and Sedge never took stock.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-rowan-coalby",
+        "lore/overwhere-i-agathe-morrow",
+        "lore/overwhere-i-garrick-pell",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
   ],
   secrets: "jsonl",
