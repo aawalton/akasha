@@ -210,5 +210,9 @@ export const overwhereIEverydayLife = {
       fact: "Steam cleans wool well in a minute; held much longer, it felts and shrinks it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A minute of held steam cleans a washed set of clothes; three minutes of hot wind dries them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
