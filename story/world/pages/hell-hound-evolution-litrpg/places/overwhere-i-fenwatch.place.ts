@@ -183,6 +183,10 @@ export const overwhereIFenwatch = {
       fact: "Bet Ashdown is a thin, quick woman of forty, with reed-cut fingers and her son's sunburn.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Bet has a few tunics, leggings and cloaks made up, and can take them in to fit by dusk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
