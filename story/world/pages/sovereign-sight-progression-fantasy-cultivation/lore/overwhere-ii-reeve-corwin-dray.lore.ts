@@ -189,7 +189,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Dray lends Nala the watch spear for the hunt, to be brought back after.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
