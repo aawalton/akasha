@@ -96,5 +96,9 @@ export const overwhereIiiWrenmarkBeasts = {
       fact: "A Level 2 jackalope's glimmerstone is the size of a small pea, fainter than a Level 3's.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Digging a glimmerstone from a jackalope's antler base is plain knife work, a minute or two.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-dunstan-harrow"],
+    },
   ],
 } as const satisfies Lore
