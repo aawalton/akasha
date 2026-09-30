@@ -309,6 +309,10 @@ export const overwhereIiiBrannaghTull = {
       fact: "Brannagh owns one book: her mother's hand-written receipts for salves, potions and draughts.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Brannagh lets Nala read the receipt book at her counter, but it never leaves the shop.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
