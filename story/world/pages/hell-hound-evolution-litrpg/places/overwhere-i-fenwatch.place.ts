@@ -29,7 +29,7 @@ export const overwhereIFenwatch = {
     },
     {
       fact: "A palisade of sharpened pine stakes rings the village, with a west gate and an east gate.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "The west gate opens on the ridge track to the ford; the east gate opens on the road to Wendlow.",
