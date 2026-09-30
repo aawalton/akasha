@@ -11,4 +11,5 @@ export const overwhereI00005 = {
   action:
     "“Nice! Okay, time to try the ward.” This time I focus on attuning to Earth and imaging the stones from the riverbed forming a set of flowing stone armor around me.",
   lore: ["lore/overwhere-i-nala", "place/overwhere-i-greyfen-ford"],
+  endsAt: "2026-09-29T10:17:00.000Z",
 } as const satisfies StoryTurnPlayed
