@@ -4,10 +4,19 @@ export const overwhereIv00013 = {
   id: "01a0f209-8e1d-769a-ae9a-c90b815115b1",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-013",
+  ownLength: 384,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 13,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iv-nala",
+    "character-other/overwhere-iv-brenna-holt",
+    "character-other/overwhere-iv-wat",
+    "character-other/overwhere-iv-dell",
+    "character-other/overwhere-iv-ilsa-crane",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "“Should we go try the crystal? I don’t mind being tonight’s entertainment. Don’t expect it’ll be too interesting, but at least it’s new. I know how small towns can be.”",
   beats: [
@@ -34,6 +43,10 @@ export const overwhereIv00013 = {
     "Ilsa looks at the card of colours on its nail, then at the crystal, then at Nala.",
     '"That\'s not on the card," she says quietly, and reaches for her pen.',
   ],
-  lore: ["lore/overwhere-iv-brookside-four", "place/overwhere-iv-millbrook-adventurers-hall"],
+  lore: [
+    "lore/overwhere-iv-brookside-four",
+    "lore/overwhere-iv-nala",
+    "place/overwhere-iv-millbrook-adventurers-hall",
+  ],
   endsAt: "2026-09-29T18:40:00.000Z",
 } as const satisfies StoryTurnPlayed
