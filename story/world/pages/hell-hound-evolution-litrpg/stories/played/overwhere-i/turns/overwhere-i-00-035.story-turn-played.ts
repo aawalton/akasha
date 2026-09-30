@@ -7,7 +7,8 @@ export const overwhereI00035 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 35,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Sorry about that, you can call it even against the reedlurker. Any other traps I should avoid pulling before I try again?”",
+  lore: ["place/overwhere-i-the-greyfen"],
 } as const satisfies StoryTurnPlayed
