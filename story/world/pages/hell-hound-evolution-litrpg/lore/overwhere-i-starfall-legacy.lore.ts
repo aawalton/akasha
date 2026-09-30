@@ -32,5 +32,9 @@ export const overwhereIStarfallLegacy = {
       fact: "A weave counts as one working, so with a third working held beside it she can still hold three.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Steam and drying wind are uses of Starfall Weave, not new ways; either is an easy act.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
