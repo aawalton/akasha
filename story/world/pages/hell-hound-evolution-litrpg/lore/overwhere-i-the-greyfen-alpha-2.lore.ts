@@ -16,5 +16,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Ghost-Eye gives one long howl as the pups leave; it carries far across the fen.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The next thing she must answer: at the hummocks' end, 200 yards off, she sees the pups leaving.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
