@@ -228,6 +228,10 @@ export const overwhereIiiAdventurersGuild = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "A failed quest costs only the Guild's regard; an abandoned one must be told at the desk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
