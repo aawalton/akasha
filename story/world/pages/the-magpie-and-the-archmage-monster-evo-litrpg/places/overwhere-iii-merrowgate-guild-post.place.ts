@@ -88,7 +88,7 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "Marda keeps unclaimed Copper Guild rings in a tin in the desk drawer.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "The post buys no carcasses; Marda sends hunters to Dunstan, the Crook and Candle's cook.",
