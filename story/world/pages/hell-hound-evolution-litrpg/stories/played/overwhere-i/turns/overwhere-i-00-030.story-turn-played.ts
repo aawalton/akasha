@@ -7,9 +7,19 @@ export const overwhereI00030 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 30,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I attune the same combination again, but this time to manipulate and pull the corpse out from the ground, then do the same process for the second known hole, then start systematically working out from there, trying to find and finish the third one.",
+  beats: [
+    "Nala reaches for earth and water again and binds them: the same heavy, wet pull.",
+    "This time she wills it down as a grip, not out as a ripple, into the bank by the first slide.",
+    "The mud gives to her will, slow and heavy, and closes on the den to take hold of the body.",
+    "There is nothing to take hold of.",
+    "The grip closes on a hollow of trodden mud. The den is empty.",
+    "Whatever scrabbled under the bank was leaving it.",
+    "She lets the grip go. The mud settles.",
+    "Out in the channel, where the bubbles stopped, a thin thread of bubbles rises through dark water.",
+  ],
   lore: [
     "lore/overwhere-i-greyfen-beasts",
     "lore/overwhere-i-starfall-legacy",
