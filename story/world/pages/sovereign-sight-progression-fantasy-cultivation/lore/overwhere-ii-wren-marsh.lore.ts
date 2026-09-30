@@ -45,7 +45,7 @@ export const overwhereIiWrenMarsh = {
     },
     {
       fact: "Taking only the rot and none of Wren's own Water is a feat of care, not of strength.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Pulled carelessly, Undertow would take Wren's own Water too, leaving her faint, cold and grey.",
@@ -53,7 +53,7 @@ export const overwhereIiWrenMarsh = {
     },
     {
       fact: "Wren's rot comes out over a few minutes, the black veins ebbing back into the bite.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Drawn clean, Wren's fever breaks by nightfall and the bite heals to a pink scar in days.",
@@ -61,7 +61,7 @@ export const overwhereIiWrenMarsh = {
     },
     {
       fact: "Under the rot, Wren holds a small, deep, sleeping pool, like Nala's own well in little.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
   secrets: "jsonl",

@@ -119,6 +119,10 @@ export const overwhereIiGarthMarsh = {
       fact: "Garth knows a Charterstone only as where Aspirants take their marks, not as any help for rot.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "When Nala drew Wren's rot, Garth and Wren both came up in cold, prickling gooseflesh.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

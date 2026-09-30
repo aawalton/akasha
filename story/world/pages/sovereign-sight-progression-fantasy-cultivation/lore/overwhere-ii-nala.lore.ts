@@ -254,7 +254,7 @@ export const overwhereIiNala = {
     },
     {
       fact: "Rot and salt she draws never enter her; they gather on her palm as grey, stinking salt.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "A Knack or a sleeping Talent feels the gooseflesh of her deep drawing too.",
