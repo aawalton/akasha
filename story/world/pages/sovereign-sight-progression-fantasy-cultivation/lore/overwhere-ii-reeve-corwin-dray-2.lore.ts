@@ -51,5 +51,17 @@ export const overwhereIiReeveCorwinDray2 = {
       fact: "Dray does not know where Crake camps, only that the drover was robbed near Grey Shaw.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "The Carrowmouth notices name Crake's Talent Siphon, and say he is First Depth, like Dray.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The notices warn never to let Crake lay a hand on bare skin; his touch is what drinks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray judges a First Depth thief with four men and venom a match for any lone Talent.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
