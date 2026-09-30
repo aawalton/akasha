@@ -307,6 +307,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "On land a reedlurker covers three yards in about six seconds.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At 10:52 on day 2 the Level 10 reedlurker lies scorched a yard from the channel, at 3 of 20 health.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
