@@ -199,5 +199,13 @@ export const overwhereIiiNala2 = {
       fact: "Nala hasn't eaten since last night; by dark on her fourth day her stomach growls.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala has read two-thirds of Brannagh's receipt book, as far as the healing potion.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
   ],
 } as const satisfies Lore
