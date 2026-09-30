@@ -10,4 +10,5 @@ export const overwhereI00036 = {
   stepStatus: "step-status/game-master",
   action: "I attune water and earth again, trying to find more lurkers like I did the first one.",
   lore: ["lore/overwhere-i-greyfen-beasts", "lore/overwhere-i-starfall-legacy"],
+  endsAt: "2026-09-30T10:59:00.000Z",
 } as const satisfies StoryTurnPlayed
