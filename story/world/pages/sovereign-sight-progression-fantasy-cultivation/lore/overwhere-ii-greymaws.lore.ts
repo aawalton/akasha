@@ -177,7 +177,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "The she-wolf's cracked chamber splits in two if torn out roughly; eased out, it holds together.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Leaderless, the pack does not come down to Marsh Croft at dawn on day two.",
