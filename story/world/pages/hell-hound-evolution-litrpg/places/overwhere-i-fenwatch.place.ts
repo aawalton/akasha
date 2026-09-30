@@ -147,6 +147,10 @@ export const overwhereIFenwatch = {
       fact: "Fenwatch has a reeve, who pays the bounty on Sootjaw.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Fenwatch's regard for Nala stands at 2, welcome, since Hessa Vane owned the Brute's kill as hers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
