@@ -8,5 +8,6 @@ export const overwhereIiNalaAnnisCloak = {
   story: "story-played/overwhere-ii",
   character: "character-player/overwhere-ii-nala",
   slot: "item-slot/shoulders",
-  description: "A hooded cloak of heavy brown wool, patched at the hem and smelling of peat smoke.",
+  description:
+    "A hooded cloak of heavy brown wool, patched at the hem and smelling faintly of cedar.",
 } as const satisfies StoryItem

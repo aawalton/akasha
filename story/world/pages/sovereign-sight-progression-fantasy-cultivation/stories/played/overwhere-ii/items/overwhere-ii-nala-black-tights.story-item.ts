@@ -8,5 +8,5 @@ export const overwhereIiNalaBlackTights = {
   story: "story-played/overwhere-ii",
   character: "character-player/overwhere-ii-nala",
   slot: "item-slot/legs",
-  description: "Snug black tights of a smooth, stretching weave no loom in Teyr makes.",
+  description: "Snug black compression tights of a smooth, stretching weave.",
 } as const satisfies StoryItem

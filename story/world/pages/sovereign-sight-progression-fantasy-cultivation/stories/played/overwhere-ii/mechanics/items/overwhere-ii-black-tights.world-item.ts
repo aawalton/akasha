@@ -6,5 +6,5 @@ export const overwhereIiBlackTights = {
   slug: "overwhere-ii-black-tights",
   title: "Black Tights",
   world: "world/sovereign-sight-progression-fantasy-cultivation",
-  description: "Snug black tights of a smooth, stretching weave no loom in Teyr makes.",
+  description: "Snug black compression tights of a smooth, stretching weave.",
 } as const satisfies WorldItem

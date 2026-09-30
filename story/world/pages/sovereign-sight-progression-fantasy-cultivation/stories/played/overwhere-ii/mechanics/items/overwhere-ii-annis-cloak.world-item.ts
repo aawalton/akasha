@@ -6,5 +6,6 @@ export const overwhereIiAnnisCloak = {
   slug: "overwhere-ii-annis-cloak",
   title: "Anni's Cloak",
   world: "world/sovereign-sight-progression-fantasy-cultivation",
-  description: "A hooded cloak of heavy brown wool, patched at the hem and smelling of peat smoke.",
+  description:
+    "A hooded cloak of heavy brown wool, patched at the hem and smelling faintly of cedar.",
 } as const satisfies WorldItem
