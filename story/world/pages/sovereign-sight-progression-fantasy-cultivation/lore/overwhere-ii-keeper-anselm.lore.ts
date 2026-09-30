@@ -155,6 +155,30 @@ export const overwhereIiKeeperAnselm = {
       fact: "On day two Anselm came to the watch cottage for Nala, to take her on to the shrine.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "The Keepers' practice: slow the Current and press Water out into the skin, one limb at a time.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Keepers refine skin whole before any muscle, an hour at dawn and an hour at dusk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Skin taking the practice prickles like nettles, then burns like a scald, then goes numb.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Anselm has refined his own skin over three years, and nothing deeper.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Anselm teaches that each Descent brings a Tribulation, a trial in the Sea no one can face for you.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Anselm has never heard of anyone refining as fast as Nala does.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
