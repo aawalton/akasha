@@ -337,6 +337,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "Ghost-Eye has 70 health and scaled hide warding 3; its bite is a savage blow that tears and holds.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The two biggest are Levels 15 and 16; at Nala's Level 6 both are still within the Surge easing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
