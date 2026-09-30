@@ -106,7 +106,7 @@ export const overwhereIiUndertow = {
     },
     {
       fact: "A wound Nala closes with her own Water leaves a pink scar that fades within a few days.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Pushed unsteadily, her well's brine rides in with her Water: it stings, and half-closes the wound.",
