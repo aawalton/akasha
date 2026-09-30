@@ -158,7 +158,7 @@ function put(path: string, body: string): Put {
   return { at: PUT, given: { at: path, body } }
 }
 
-export interface Created {
+interface Created {
   readonly named: string
   readonly changes: readonly Put[]
   readonly story: Story
