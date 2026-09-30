@@ -112,5 +112,65 @@ export const overwhereIGrowth = {
       statement:
         "A skill gain names skill, level, uses and novel; a legacy gain rank, level, featLevel.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stat page's slug ends in the stat it keeps.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every being has Strength, Dexterity, Vigor and Attunement, and one racial stat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A human's racial stat is Luck.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An untrained adult sits from 8 to 12 in each stat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stat rises only as this check answers, or as an achievement grants.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The System shows a rise as a line such as +3 Attunement as it happens.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No stat shows as a number save where her status or the System shows it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every being the System has woven has a level, starting at one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Analyze shows a being as Human - Level N, or ?? where it is far stronger.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Ordinary beasts and people of this region are level 15 and under.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Marks are an experience page titled Marks; those left after a level carry over.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "The System never shows marks as a number; it shows only Experience Gained!",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A species held names the character and the species the System shows her as.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A species changes only by evolution.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every change in a stat, level or marks is written with a line of its history.",
+    },
   ],
 } as const satisfies WorldCheck

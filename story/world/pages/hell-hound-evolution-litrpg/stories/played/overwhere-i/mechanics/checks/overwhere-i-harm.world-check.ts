@@ -111,5 +111,43 @@ export const overwhereIHarm = {
       decisionKind: "decision-kind/absence",
       statement: "No number of harm or health appears in the prose.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Nala's most health is forty at level one, and rises by five each level.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An ordinary beast has 10 to 40 health; an ordinary fighter 30 to 60.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A foe is filed as a character with a health page of its own before it is hurt.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Anyone else at nought is down and dying, and dies within the hour untended.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A third of most health lost to one blow leaves a wound that lasts until healed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An hour of rest gives back a tenth of most health; a night's sleep gives back half.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A healer's care or a potion gives back what its own page says.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every change in health is written on its page and a line of its history before the turn moves on.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No health shows as a number save where her status shows it.",
+    },
   ],
 } as const satisfies WorldCheck

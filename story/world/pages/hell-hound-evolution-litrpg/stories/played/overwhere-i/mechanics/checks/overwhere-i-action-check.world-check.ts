@@ -181,5 +181,49 @@ export const overwhereIActionCheck = {
       decisionKind: "decision-kind/absence",
       statement: "No die, band, bonus or margin appears in the prose.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A skill spends the mana its own page names each time it is used.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Most mana is four for each point of Attunement.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Mana comes back at a tenth of most mana every ten minutes, resting or not.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A skill with too little mana left for it cannot be used.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Most stamina is three for each point of Vigor, and three more.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rise in most health, mana or stamina fills the new share at once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sprint, a climb, a fight or a heavy lift spends stamina: one to five a scene.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "At nought stamina every bodily act is a band harder until she rests.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A few minutes' rest gives back five stamina; a night's sleep all of it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every change in mana or stamina is written with a line of its history.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No mana or stamina shows as a number save where her status shows it.",
+    },
   ],
 } as const satisfies WorldCheck

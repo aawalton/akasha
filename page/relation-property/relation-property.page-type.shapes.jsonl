@@ -163,8 +163,6 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"overwhere-i-legacy","unique":null,"uniquePropertySlug":null,"slug":"overwhere-i-legacy-held-legacy","propertySlug":"legacy","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"overwhere-i-skill-character","propertySlug":"character","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-skill","unique":null,"uniquePropertySlug":null,"slug":"overwhere-i-skill-skill","propertySlug":"skill","fileName":null,"folderName":null}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"overwhere-i-species-character","propertySlug":"character","fileName":null,"folderName":null}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-species","unique":null,"uniquePropertySlug":null,"slug":"overwhere-i-species-species","propertySlug":"species","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"overwhere-ii-talent-character","propertySlug":"character","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-skill","unique":null,"uniquePropertySlug":null,"slug":"overwhere-ii-talent-talent","propertySlug":"talent","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"overwhere-iii-reputation-character","propertySlug":"character","fileName":null,"folderName":null}

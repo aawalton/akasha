@@ -81,5 +81,26 @@ export const overwhereINotice = {
       decisionKind: "decision-kind/absence",
       statement: "No notice shows as a number; only who comes looking shows it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A notice page's slug ends in the circle it measures.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The circles are village, march, kingdom, verdant-empire, umarii and iron-march.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every circle's page is filed from her first day, at nought.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Notice is not favour: those who come looking may come for their own ends.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every change in notice is written on its page and a line of its history before the turn moves on.",
+    },
   ],
 } as const satisfies WorldCheck

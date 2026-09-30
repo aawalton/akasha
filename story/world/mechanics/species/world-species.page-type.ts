@@ -9,7 +9,6 @@ export const worldSpecies = {
   extends: ["page-type/world-mechanic"],
   parts: [
     "page-type/character-species",
-    "page-type/overwhere-i-species",
     "page-type/overwhere-iii-species-held",
     "page-type/overwhere-iv-species-held",
   ],
