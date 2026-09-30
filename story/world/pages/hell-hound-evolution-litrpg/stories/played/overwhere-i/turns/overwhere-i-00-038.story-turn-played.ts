@@ -11,7 +11,7 @@ export const overwhereI00038 = {
   position: 38,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I start a spiral search pattern using my water and earth detection technique, searching for the third hole.",
   beats: [
@@ -30,6 +30,11 @@ export const overwhereI00038 = {
   ],
   lore: ["lore/overwhere-i-greyfen-beasts-2", "lore/overwhere-i-nala", "lore/overwhere-i-nala-2"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-09-30T11:06:00.000Z",
 } as const satisfies StoryTurnPlayed
