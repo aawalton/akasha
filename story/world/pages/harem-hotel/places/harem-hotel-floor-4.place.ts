@@ -14,6 +14,7 @@ export const haremHotelFloor4 = {
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-tamsin",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -23,6 +24,7 @@ export const haremHotelFloor4 = {
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-tamsin",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -32,6 +34,7 @@ export const haremHotelFloor4 = {
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-tamsin",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -41,6 +44,7 @@ export const haremHotelFloor4 = {
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-tamsin",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -50,6 +54,7 @@ export const haremHotelFloor4 = {
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-tamsin",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -59,6 +64,7 @@ export const haremHotelFloor4 = {
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-tamsin",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -68,6 +74,7 @@ export const haremHotelFloor4 = {
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-tamsin",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -77,6 +84,7 @@ export const haremHotelFloor4 = {
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-tamsin",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -86,6 +94,7 @@ export const haremHotelFloor4 = {
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-tamsin",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -95,6 +104,7 @@ export const haremHotelFloor4 = {
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-tamsin",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -104,6 +114,7 @@ export const haremHotelFloor4 = {
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-tamsin",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -113,6 +124,7 @@ export const haremHotelFloor4 = {
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-tamsin",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -122,6 +134,7 @@ export const haremHotelFloor4 = {
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-tamsin",
+        "character-player/harem-hotel-alan",
       ],
     },
     {
@@ -131,6 +144,7 @@ export const haremHotelFloor4 = {
         "character-other/harem-hotel-odile",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-tamsin",
+        "character-player/harem-hotel-alan",
       ],
     },
   ],

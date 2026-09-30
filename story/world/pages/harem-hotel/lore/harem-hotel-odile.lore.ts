@@ -14,11 +14,21 @@ export const haremHotelOdile = {
     },
     {
       fact: "Odile is tall and long-legged, pale, with cool grey eyes and a red-painted mouth.",
-      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-tamsin",
+      ],
     },
     {
       fact: "Odile wears her black hair pinned in a sleek chignon.",
-      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-tamsin",
+      ],
     },
     {
       fact: "Odile has small high tits with dark nipples and a trimmed black bush over her cunt.",
@@ -26,6 +36,7 @@ export const haremHotelOdile = {
         "lore-disclosure/game-master",
         "character-player/harem-hotel-alan",
         "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-tamsin",
       ],
     },
     {
@@ -35,6 +46,7 @@ export const haremHotelOdile = {
         "character-player/harem-hotel-alan",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-tamsin",
+        "character-other/harem-hotel-odile",
       ],
     },
     {
@@ -54,6 +66,7 @@ export const haremHotelOdile = {
         "character-player/harem-hotel-alan",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-tamsin",
+        "character-other/harem-hotel-odile",
       ],
     },
     {
@@ -90,7 +103,23 @@ export const haremHotelOdile = {
     },
     {
       fact: "On floor 4 Odile is Queen, and orders the others with relish until her orders fall apart.",
-      knowers: ["lore-disclosure/game-master", "character-other/harem-hotel-odile"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/harem-hotel-odile",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-tamsin",
+      ],
+    },
+    {
+      fact: "Once Odile's orders fall apart she begs, swearing and begging at once.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-odile",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-tamsin",
+      ],
     },
   ],
   secrets: "jsonl",

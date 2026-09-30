@@ -115,6 +115,18 @@ export const haremHotelWren = {
         "lore-disclosure/game-master",
         "character-other/harem-hotel-wren",
         "character-other/harem-hotel-tamsin",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-odile",
+      ],
+    },
+    {
+      fact: "Wren rarely blushes, but Tamsin politely asking her for filth makes her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-wren",
+        "character-other/harem-hotel-tamsin",
+        "character-other/harem-hotel-odile",
       ],
     },
   ],

@@ -101,6 +101,8 @@ export const haremHotelTamsin = {
         "lore-disclosure/game-master",
         "character-other/harem-hotel-tamsin",
         "character-other/harem-hotel-wren",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-odile",
       ],
     },
   ],
