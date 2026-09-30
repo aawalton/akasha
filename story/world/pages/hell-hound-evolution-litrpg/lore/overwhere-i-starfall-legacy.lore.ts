@@ -324,9 +324,5 @@ export const overwhereIStarfallLegacy = {
       fact: "Standing knee-deep, she looses slugs with no penalty.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "An earth-and-air ripple feels hollows and moving air sharply, but living bodies only faintly.",
-      knowers: ["lore-disclosure/game-master"],
-    },
   ],
 } as const satisfies Lore
