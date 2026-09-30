@@ -51,7 +51,7 @@ const ENGINE: readonly RegExp[] = [
   /\/mechanics\/checks\//,
 ]
 
-export type Folders = { readonly story: string; readonly world: string }
+type Folders = { readonly story: string; readonly world: string }
 
 export type TurnUndoing = {
   readonly foldersOf: (root: string, game: string) => Folders | null
@@ -101,11 +101,11 @@ export const TURN_UNDOING: TurnUndoing = {
   appendsOnly: appendOnlyAt,
 }
 
-export type Refused = { readonly refused: string }
+type Refused = { readonly refused: string }
 
 type Making = { readonly made: string; readonly moved: string }
 
-export function makingOf(
+function makingOf(
   turn: Turn,
   made: string | null,
   history: readonly Commit[],
