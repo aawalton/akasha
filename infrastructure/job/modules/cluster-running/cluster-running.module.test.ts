@@ -67,6 +67,16 @@ test("a kept checkout whose origin held a token has that origin named again with
   expect(named).toBeLessThan(fetched)
 })
 
+test("a job holding a kept checkout clears every lock git left there before git runs", () => {
+  const said = keptCheckout(COMMIT)
+  const held = said.findIndex((one) => one.startsWith("flock"))
+  const cleared = said.findIndex((one) => one.includes("-name '*.lock' -delete"))
+  const first = said.findIndex((one) => /(^|\s)git\s/.test(one))
+  expect(held).toBeGreaterThan(-1)
+  expect(cleared).toBeGreaterThan(held)
+  expect(cleared).toBeLessThan(first)
+})
+
 test("every git call in a job reads the token from the job's environment when asked", () => {
   const said = jobYamlFor(NAME, SCRIPT)
   expect(said).toContain("GIT_CONFIG_KEY_0")

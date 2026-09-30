@@ -13,6 +13,7 @@ import {
   GIT_TRANSPORT_ASKING,
   GIT_TRANSPORT_ORIGIN,
   GIT_TRANSPORT_TOKEN,
+  LEFT_LOCKS_CLEARED,
   ORCHESTRATOR_CACHE_MOUNT_PATH,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
@@ -138,6 +139,7 @@ export function keptCheckout(commit: string): readonly string[] {
     `mkdir -p ${ORCHESTRATOR_CACHE_MOUNT_PATH}`,
     `exec ${HELD_ALONE}>${KEPT_LOCK}`,
     `flock ${HELD_ALONE}`,
+    LEFT_LOCKS_CLEARED,
     `[ -d ${ORCHESTRATOR_CACHE_REPO_PATH}/.git ] || git init -q ${ORCHESTRATOR_CACHE_REPO_PATH}`,
     `cd ${ORCHESTRATOR_CACHE_REPO_PATH}`,
     `${named} 2>/dev/null || git remote add origin ${GIT_TRANSPORT_ORIGIN}`,

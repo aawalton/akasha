@@ -78,6 +78,16 @@ export const orchestratorCache = {
       statement: "Every checkout and every build on a cache is made holding the cache's one lock.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every lock git left in the checkout goes once that lock is held, before git runs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A git killed mid-write leaves a lock that the next pod clears rather than trips on.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No token is written into the checkout a pod makes or keeps.",
     },

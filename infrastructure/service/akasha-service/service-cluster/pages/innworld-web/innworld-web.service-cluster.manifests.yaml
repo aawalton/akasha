@@ -184,7 +184,7 @@ spec:
                   fi
                   sleep 1
                 done
-                rm -f /app/repo/.git/index.lock
+                find /app/repo/.git -name '*.lock' -delete 2>/dev/null || true
                 if git -C /app/repo rev-parse HEAD >/dev/null 2>&1; then
                   WANT=$(printf %s "http://git-transport.git.svc.cluster.local:3000/alan/akasha.git" | sed "s|^.*@||")
                   HAVE=$(git -C /app/repo config --get remote.origin.url 2>/dev/null | sed "s|^.*@||")

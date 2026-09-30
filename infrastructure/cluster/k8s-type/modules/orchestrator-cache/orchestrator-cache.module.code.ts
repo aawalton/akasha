@@ -10,6 +10,7 @@ import {
   CONTAINER_TMP_PATH,
   GIT_TRANSPORT_ASKING,
   GIT_TRANSPORT_TOKEN,
+  LEFT_LOCKS_CLEARED,
   ORCHESTRATOR_CACHE_MOUNT_PATH,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
@@ -73,9 +74,8 @@ function holdingCacheLock(who: string, body: readonly string[]): readonly string
 
 function checkoutSteps(sha: string): readonly string[] {
   return [
-    `rm -f ${ORCHESTRATOR_CACHE_REPO_PATH}/.git/index.lock`,
-    `find ${ORCHESTRATOR_CACHE_REPO_PATH}/.git/refs ${ORCHESTRATOR_CACHE_REPO_PATH}/.git/logs/refs -name '*.lock' -delete 2>/dev/null || true`,
-    `trap 'rm -f ${ORCHESTRATOR_CACHE_REPO_PATH}/.git/index.lock' EXIT INT TERM`,
+    LEFT_LOCKS_CLEARED,
+    `trap "${LEFT_LOCKS_CLEARED}" EXIT INT TERM`,
     `cd ${ORCHESTRATOR_CACHE_REPO_PATH}`,
     "git fetch origin main",
     `git reset --hard ${sha}`,
@@ -114,7 +114,7 @@ export function orchestratorCacheInitContainer(opts: {
     "set -e",
     `mkdir -p ${ORCHESTRATOR_CACHE_MOUNT_PATH}`,
     ...holdingCacheLock("init-code", [
-      `rm -f ${ORCHESTRATOR_CACHE_REPO_PATH}/.git/index.lock`,
+      LEFT_LOCKS_CLEARED,
       `if git -C ${ORCHESTRATOR_CACHE_REPO_PATH} rev-parse HEAD >/dev/null 2>&1; then`,
       `  WANT=$(printf %s "${opts.location.cloneOriginUrl}" | sed "s|^.*@||")`,
       `  HAVE=$(git -C ${ORCHESTRATOR_CACHE_REPO_PATH} config --get remote.origin.url 2>/dev/null | sed "s|^.*@||")`,

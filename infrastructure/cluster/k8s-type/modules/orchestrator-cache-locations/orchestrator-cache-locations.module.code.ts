@@ -29,6 +29,8 @@ export const ORCHESTRATOR_CACHE_MOUNT_PATH = "/app"
 
 export const ORCHESTRATOR_CACHE_REPO_PATH = "/app/repo"
 
+export const LEFT_LOCKS_CLEARED = `find ${ORCHESTRATOR_CACHE_REPO_PATH}/.git -name '*.lock' -delete 2>/dev/null || true`
+
 export const CONTAINER_TMP_VOLUME = "tmp"
 
 export const CONTAINER_TMP_PATH = `/${CONTAINER_TMP_VOLUME}`

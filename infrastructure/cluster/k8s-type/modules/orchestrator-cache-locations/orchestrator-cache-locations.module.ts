@@ -16,5 +16,14 @@ export const orchestratorCacheLocations = {
       statement:
         "The git service's origin and the settings handing git the token are named here once.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Clearing every lock git left in a checkout is named here once.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "Only a writer holding the checkout alone clears a lock, so no git it is for still runs.",
+    },
   ],
 } as const satisfies Module

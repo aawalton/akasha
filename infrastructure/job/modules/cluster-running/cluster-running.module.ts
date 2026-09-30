@@ -283,6 +283,14 @@ export const clusterRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A job holding that checkout clears every lock git left there before git runs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job killed mid-write leaves a lock the next job clears rather than trips on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A held checkout keeps the commit and what an install left, and nothing a run wrote.",
     },

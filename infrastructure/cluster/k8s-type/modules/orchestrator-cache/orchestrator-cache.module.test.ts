@@ -190,6 +190,21 @@ test("a deploy's checkout and build are one hold of the lock init-build holds", 
   )
 })
 
+function locksLeft(cache: Cache): readonly string[] {
+  const left = ["HEAD.lock", "index.lock"].map((one) => join(cache.repo, ".git", one))
+  for (const one of left) writeFileSync(one, "", "utf8")
+  return left
+}
+
+test("a deploy's checkout clears the locks a git killed mid-write left behind", () => {
+  const cache = cacheSeeded()
+  const ahead = originAhead(cache)
+  const left = locksLeft(cache)
+  runIn(cache, webCheckoutAndBuild(PACKAGE, ahead))
+  expect(said(["git", "-C", cache.repo, "rev-parse", "HEAD"]).trim()).toBe(ahead)
+  expect(left.filter((one) => existsSync(one))).toEqual([])
+})
+
 const TOKEN_REF = { secretName: "held", secretKey: "GIT_ACCESS_TOKEN" }
 
 const AT_ORIGIN: CacheLocation = {
@@ -225,6 +240,19 @@ test("a checkout whose origin held a token has that origin named again without o
   expect(git("config", "--get", "remote.origin.url")).toBe(GIT_TRANSPORT_ORIGIN)
   expect(git("rev-parse", "HEAD")).toBe(ahead)
   expect(answered).not.toContain("planted")
+})
+
+test("a pod starting clears the locks a git killed mid-write left behind", () => {
+  const cache = cacheSeeded()
+  const ahead = originAhead(cache)
+  const left = locksLeft(cache)
+  runIn(cache, initCodeOf(ahead).command[2] as string, {
+    GIT_CONFIG_COUNT: "1",
+    GIT_CONFIG_KEY_0: `url.${join(cache.root, "origin")}.insteadOf`,
+    GIT_CONFIG_VALUE_0: GIT_TRANSPORT_ORIGIN,
+  })
+  expect(said(["git", "-C", cache.repo, "rev-parse", "HEAD"]).trim()).toBe(ahead)
+  expect(left.filter((one) => existsSync(one))).toEqual([])
 })
 
 test("every git call a pod makes reads the token from the pod's environment when asked", () => {

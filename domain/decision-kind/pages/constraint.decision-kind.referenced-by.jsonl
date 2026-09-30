@@ -353,6 +353,7 @@
 {"propertySlug":"decision-kind","path":"git/modules/pathspec/git-pathspec.module.ts","id":"01a068ae-fd9c-7001-ba59-e2b9fc02888f"}
 {"propertySlug":"decision-kind","path":"graph/graph.domain.ts","id":"01a04fcf-588c-7772-afed-357ed2e459d4"}
 {"propertySlug":"decision-kind","path":"infrastructure/auth/auth.domain.ts","id":"01a07392-d13f-7657-b149-543047125f73"}
+{"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.ts","id":"01a06735-dd9c-700a-8ad6-ed91c294657a"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/manifest/app-namespaces-synth/app-namespaces-synth.manifest.ts","id":"01a06810-1262-75ee-aa84-9009c06798cf"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/manifest/cluster-reach-synth/cluster-reach-synth.manifest.ts","id":"01a091dd-3f89-71f8-8712-76e7c7de9a53"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/provisioning/talos/modules/sops/sops.module.ts","id":"01a06813-7b0f-715d-8205-05e5a2b14b85"}
