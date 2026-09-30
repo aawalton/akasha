@@ -178,6 +178,10 @@ export const overwhereIiiMerrowgateGuildPost = {
       fact: "Nala took her first dead rabbit back from the floor by the gear box; it is no longer there.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "The post buys only what a posted job asks; Marda sends spare goods on to the buyer.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
