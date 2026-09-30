@@ -11,4 +11,5 @@ export const overwhereIi00054 = {
   action:
     "I get supplies for my scouting this time, food and water, then work my way up to where I need to be",
   lore: ["place/overwhere-ii-wendle-ford", "place/overwhere-ii-whitecombs"],
+  endsAt: "2026-10-02T13:30:00.000Z",
 } as const satisfies StoryTurnPlayed
