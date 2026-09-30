@@ -7,7 +7,12 @@ export const overwhereIi00007 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 7,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“I’m not certain. I would gladly do so if I can, but I would need to visit one of the stones first. Do you know how far it is to the nearest?”",
+  lore: [
+    "lore/overwhere-ii-garth-marsh",
+    "place/overwhere-ii-carrowmouth",
+    "place/overwhere-ii-wendlemere",
+  ],
 } as const satisfies StoryTurnPlayed
