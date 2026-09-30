@@ -17,6 +17,14 @@ export const overwhereIvBrooksideFour = {
       fact: "Merrit is their fire mage, and he is jealous of any better caster.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Merrit's touch lit the hall crystal a strong red, the brightest in Millbrook till now.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Merrit tells every newcomer about his red, and watches their touch to be sure of it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
     { fact: "Orla is their healer, and she is gentle.", knowers: ["lore-disclosure/game-master"] },
     {
       fact: "They take most of the wolf, boar and goblin work posted at the hall.",
