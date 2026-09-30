@@ -38,5 +38,6 @@ export const overwhereIv00025 = {
     "The goblin bares its teeth at her, and hisses something in its own tongue.",
   ],
   lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-hobb-farm"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T18:29:00.000Z",
 } as const satisfies StoryTurnPlayed
