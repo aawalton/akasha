@@ -4,10 +4,13 @@ export const overwhereIv00007 = {
   id: "01a0f1ac-2e9c-7182-ba15-d79d53235238",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-007",
+  ownLength: 406,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 7,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action: "I get changed and then wander over to check out the adventures guild",
   beats: [
     "Behind the curtain Nala changes: the wool tunic, the padded jerkin over it, the rag-stuffed boots.",
@@ -32,6 +35,10 @@ export const overwhereIv00007 = {
     "\"Watch pays at week's end. I'll let you owe it against your first cores.\" She opens the ledger.",
     'She turns the ledger to face Nala and holds out the pen. "Shall I put you down?"',
   ],
-  lore: ["lore/overwhere-iv-ilsa-crane", "place/overwhere-iv-millbrook-adventurers-hall"],
+  lore: [
+    "lore/overwhere-iv-ilsa-crane",
+    "lore/overwhere-iv-nala",
+    "place/overwhere-iv-millbrook-adventurers-hall",
+  ],
   endsAt: "2026-09-29T13:42:00.000Z",
 } as const satisfies StoryTurnPlayed
