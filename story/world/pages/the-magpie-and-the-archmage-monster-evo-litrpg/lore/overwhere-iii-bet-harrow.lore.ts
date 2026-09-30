@@ -115,7 +115,11 @@ export const overwhereIiiBetHarrow = {
     },
     {
       fact: "Bet won't take the healer's coin for her third night's supper: 'Ivy's my cousin. Eat.'",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-bet-harrow",
+      ],
     },
   ],
   secrets: "jsonl",
