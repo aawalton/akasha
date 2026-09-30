@@ -104,5 +104,9 @@ export const overwhereIiUndertow = {
       fact: "Nala's own Water pushed gently into her wound closes it in minutes rather than hours.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A wound Nala closes with her own Water leaves a pink scar that fades within a few days.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
