@@ -10,7 +10,7 @@ export const overwhereIv00036 = {
   position: 36,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“Sure, what’s up?”",
   beats: [
     '"Sure," Nala says, turning back to the counter. "What\'s up?"',
@@ -19,6 +19,6 @@ export const overwhereIv00036 = {
     'She sets the pencil down and meets Nala\'s eyes. "Is that the same thing that lit my crystal clear?"',
   ],
   lore: ["lore/overwhere-iv-ilsa-crane", "lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-01T15:49:00.000Z",
 } as const satisfies StoryTurnPlayed
