@@ -21,7 +21,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "The pack is led by a Sea-Maddened she-wolf twice the size of the rest, with a white eye.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "A greymaw's reservoir sits in a bone chamber behind its breastbone, and piercing it kills.",
