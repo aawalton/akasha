@@ -7,6 +7,7 @@ export const overwhereIi00023 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 23,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action: "“Give me the spear, you take Burr and Wren inside and I’ll take care of the Greymaws”",
+  lore: ["lore/overwhere-ii-garth-marsh", "lore/overwhere-ii-greymaws"],
 } as const satisfies StoryTurnPlayed
