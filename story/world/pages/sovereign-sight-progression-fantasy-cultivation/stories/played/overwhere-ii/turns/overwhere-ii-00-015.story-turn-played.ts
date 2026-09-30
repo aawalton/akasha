@@ -10,7 +10,7 @@ export const overwhereIi00015 = {
   position: 15,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "“Yes, if you’ll take me.”",
   beats: [
     '"Yes, if you\'ll take me."',
@@ -34,11 +34,15 @@ export const overwhereIi00015 = {
     "Behind her, Horne's voice is low and hard. \"If you hurt her, Talented, I'll see you hang for it.\"",
     'The woman by the bed looks up at last, eyes red and raw. "Please," she whispers. "Please."',
   ],
+  issues: [
+    '"he says flatly, the way Garth did" - Garth never called her Talented; only Nala said it',
+    "\"same bitter poultice you smelled at Garth's\" - no poultice was smelled at Garth's before",
+  ],
   lore: [
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-wendle-ford-folk",
     "place/overwhere-ii-wendle-ford",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T09:58:00.000Z",
 } as const satisfies StoryTurnPlayed
