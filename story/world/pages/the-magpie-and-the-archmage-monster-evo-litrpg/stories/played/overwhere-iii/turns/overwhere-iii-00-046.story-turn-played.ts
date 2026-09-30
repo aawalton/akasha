@@ -44,5 +44,6 @@ export const overwhereIii00046 = {
     "lore/overwhere-iii-pip-carrow",
     "place/overwhere-iii-wrenwood-crossroads",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-03T13:15:00.000Z",
 } as const satisfies StoryTurnPlayed
