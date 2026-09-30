@@ -4,6 +4,7 @@ export const overwhereI00037 = {
   id: "01a0f395-c492-7671-9d08-016e43dc6c5e",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-037",
+  cover: "image/image-185fdcaa17cbdae0",
   ownLength: 163,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -29,6 +30,6 @@ export const overwhereI00037 = {
   ],
   lore: ["lore/overwhere-i-greyfen-beasts-2", "lore/overwhere-i-nala"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-30T11:02:00.000Z",
 } as const satisfies StoryTurnPlayed
