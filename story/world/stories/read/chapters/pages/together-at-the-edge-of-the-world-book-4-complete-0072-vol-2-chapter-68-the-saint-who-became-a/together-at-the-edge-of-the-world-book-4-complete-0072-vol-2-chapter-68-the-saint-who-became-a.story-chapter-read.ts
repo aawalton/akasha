@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0072Vol2Chapter68TheSaintWh
   id: "01a0f12a-b851-789b-91ef-dc6d9db53bd2",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0072-vol-2-chapter-68-the-saint-who-became-a",
+  ownProgress: 1902,
   position: 72,
   publishedAt: "2025-10-26",
   unit: "unit/words",
