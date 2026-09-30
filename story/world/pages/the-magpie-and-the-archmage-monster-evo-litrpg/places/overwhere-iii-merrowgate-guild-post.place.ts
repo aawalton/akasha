@@ -91,7 +91,7 @@ export const overwhereIiiMerrowgateGuildPost = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The post buys no carcasses; Marda sends hunters to Hal Dunmore at the Crook and Candle.",
+      fact: "The post buys no carcasses; Marda sends hunters to Dunstan, the Crook and Candle's cook.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
