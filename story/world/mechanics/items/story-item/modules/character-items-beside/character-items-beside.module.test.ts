@@ -5,6 +5,7 @@ import { chest } from "akasha/story/world/mechanics/items/story-item/item-slot/p
 import { mainHand } from "akasha/story/world/mechanics/items/story-item/item-slot/pages/main-hand.item-slot.ts"
 import { offHand } from "akasha/story/world/mechanics/items/story-item/item-slot/pages/off-hand.item-slot.ts"
 import {
+  countedAs,
   type Filed,
   hadIn,
   slotNamesIn,
@@ -90,6 +91,21 @@ test("the worn slots come back in the order their titles sort", () => {
 test("the carried items come back in the order their names sort", () => {
   const rows = [rowOf({ title: HIDE }), rowOf({ title: CLOAK }), rowOf({ title: MAUL })]
   expect(hadIn(rows, SLOTS).carried.map((one) => one.name)).toEqual([MAUL, HIDE, CLOAK])
+})
+
+test("an item stating more than one is named with how many", () => {
+  const had = hadIn([rowOf({ title: HIDE, quantity: 7 })], SLOTS)
+  expect(had.carried).toEqual([{ name: `${HIDE} ×7` }])
+})
+
+test("an item stating one or no quantity is named alone", () => {
+  expect(countedAs(HIDE, 1)).toBe(HIDE)
+  expect(countedAs(HIDE, undefined)).toBe(HIDE)
+})
+
+test("an item the story has not shown is left out", () => {
+  const rows = [rowOf({ title: HIDE, unrevealed: true }), rowOf({ title: CLOAK })]
+  expect(hadIn(rows, SLOTS).carried).toEqual([{ name: CLOAK }])
 })
 
 test("no row at all answers nothing worn and nothing carried", () => {

@@ -15,6 +15,10 @@ const SLOT_AT = "slot"
 
 const DESCRIPTION_AT = "description"
 
+const QUANTITY_AT = "quantity"
+
+const UNREVEALED_AT = "unrevealed"
+
 const NO_SLOT_NAMES: Record<string, string> = {}
 
 export type Filed = { readonly values: Record<string, unknown> }
@@ -44,12 +48,21 @@ function slotNameOf(named: unknown, slots: Record<string, string>): string | nul
   return at === null || at === "" ? null : (slots[at] ?? null)
 }
 
+export function countedAs(title: string, quantity: unknown): string {
+  return typeof quantity === "number" && quantity > 1 ? `${title} ×${String(quantity)}` : title
+}
+
 function ownedIn(row: Filed, slots: Record<string, string>): Owned | null {
   const title = row.values[TITLE_AT]
   if (typeof title !== "string" || title === "") return null
+  if (row.values[UNREVEALED_AT] === true) return null
   const said = row.values[DESCRIPTION_AT]
   const note = typeof said === "string" && said !== "" ? said : null
-  return { title, note, slot: slotNameOf(row.values[SLOT_AT], slots) }
+  return {
+    title: countedAs(title, row.values[QUANTITY_AT]),
+    note,
+    slot: slotNameOf(row.values[SLOT_AT], slots),
+  }
 }
 
 export function hadIn(rows: readonly Filed[], slots: Record<string, string>): Had {
@@ -83,7 +96,7 @@ async function hadBy(slug: string): Promise<Had | null> {
     askedLoudly({
       "page-type": ITEM_TYPE,
       where: { character: { "ends-with": `/${slug}` } },
-      keys: [CHARACTER_AT, TITLE_AT, SLOT_AT, DESCRIPTION_AT],
+      keys: [CHARACTER_AT, TITLE_AT, SLOT_AT, DESCRIPTION_AT, QUANTITY_AT, UNREVEALED_AT],
     }),
     slotNames(),
   ])

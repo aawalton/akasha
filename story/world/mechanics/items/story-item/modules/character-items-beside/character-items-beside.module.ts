@@ -44,6 +44,14 @@ export const characterItemsBeside = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An item stating more than one is named with how many.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An item the story has not shown the player is left out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The worn slots are answered in the order their titles sort.",
     },
     {
