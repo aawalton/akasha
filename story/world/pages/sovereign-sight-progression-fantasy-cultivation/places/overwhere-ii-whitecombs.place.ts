@@ -65,7 +65,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "The black pool in the Callow cwm is thirty paces across, free of ice, ringed with grey salt crust.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Near the Callow pool Nala's well leans toward it, as at Hollow Tarn but weaker.",
