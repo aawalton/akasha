@@ -10,7 +10,7 @@ export const overwhereIi00033 = {
   position: 33,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Up by Garth’s place. You’ll need to send a cart for the carcasses. I got the alpha and thinned the pack, but a few of them got away.”",
   beats: [
@@ -32,6 +32,6 @@ export const overwhereIi00033 = {
     "lore/overwhere-ii-reeve-corwin-dray",
     "lore/overwhere-ii-wendle-ford-folk",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-30T08:15:00.000Z",
 } as const satisfies StoryTurnPlayed
