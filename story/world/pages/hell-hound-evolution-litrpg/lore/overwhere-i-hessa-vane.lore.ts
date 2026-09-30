@@ -135,6 +135,10 @@ export const overwhereIHessaVane = {
       fact: "She'd have Nala wait for the cart and walk to Fenwatch with it, so she can vouch for the kill.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's easy talk of money and the fen reads to her as gentry bravado, and it worries her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
