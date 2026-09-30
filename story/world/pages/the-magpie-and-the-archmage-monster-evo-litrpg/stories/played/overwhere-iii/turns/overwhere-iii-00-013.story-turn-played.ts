@@ -33,8 +33,12 @@ export const overwhereIii00013 = {
     "Backed into the roots again, the rabbit's glow begins to gather at its antlers once more.",
   ],
   issues: ['"The current still runs past the beech, close enough to reach." - No Prompt'],
-  lore: ["lore/overwhere-iii-nala", "lore/overwhere-iii-wrenmark-beasts"],
+  lore: [
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-wrenmark-beasts",
+    "place/overwhere-iii-wrenwood",
+  ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-30T09:01:00.000Z",
 } as const satisfies StoryTurnPlayed
