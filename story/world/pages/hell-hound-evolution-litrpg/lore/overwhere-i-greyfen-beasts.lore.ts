@@ -247,6 +247,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "A bolted reedlurker lies still on the channel bed a few minutes, then strikes at the nearest leg.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A lurker lying still on the bed shows only a thread of bubbles rising through the dark water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
