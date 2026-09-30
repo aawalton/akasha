@@ -35,6 +35,11 @@ export const overwhereIv00019 = {
     'Holt stops by the well on her way in. "Porridge first. Then take that knee to the hall."',
     '"Orla heals the watch for a copper or two. Go today, or you\'ll run laps on it tomorrow."',
   ],
-  lore: ["lore/overwhere-iv-brenna-holt", "lore/overwhere-iv-nala"],
+  lore: [
+    "lore/overwhere-iv-brenna-holt",
+    "lore/overwhere-iv-brookside-four",
+    "lore/overwhere-iv-nala",
+  ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-30T08:05:00.000Z",
 } as const satisfies StoryTurnPlayed
