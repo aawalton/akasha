@@ -20,5 +20,9 @@ export const overwhereIFenwatch2 = {
       fact: "News that Ghost-Eye is dead fills the Stag by nightfall of day 3; the hall toasts Nala.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Next morning Hessa Vane rides in from the ford, having heard of Ghost-Eye, to see Nala for herself.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
