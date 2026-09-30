@@ -32,5 +32,9 @@ export const overwhereIiiGarrickDole = {
       fact: "Garrick lets anyone Brannagh brings tend him, and thanks them slowly and gravely.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The wolf's bite, a week older and deeper, takes three pulls to clear where Ivy's takes two.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
