@@ -4,10 +4,19 @@ export const overwhereIv00018 = {
   id: "01a0f33c-d29d-7c91-95f2-c1fab4348024",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-018",
+  ownLength: 266,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 18,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iv-nala",
+    "character-other/overwhere-iv-brenna-holt",
+    "character-other/overwhere-iv-wat",
+    "character-other/overwhere-iv-dell",
+    "character-other/overwhere-iv-oswin-pike",
+  ],
+  stepStatus: "step-status/reviewers",
   action: "I focus on the work, doing my best to follow instructions and learn.",
   beats: [
     "Nala squares up to Dell in the packed-earth yard, blunt spear low, wicker shield up. Knee throbbing.",
@@ -25,6 +34,6 @@ export const overwhereIv00018 = {
     'Holt looks at her a long moment. Then: "You saw it. His left, after the lunge."',
     'Holt jerks her chin at the line. "Saw it and were late. Again, Farrow. Same as before."',
   ],
-  lore: ["place/overwhere-iv-millbrook-gatehouse"],
+  lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-millbrook-gatehouse"],
   endsAt: "2026-09-30T07:45:00.000Z",
 } as const satisfies StoryTurnPlayed
