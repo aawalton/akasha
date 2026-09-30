@@ -14,7 +14,7 @@ export const overwhereIii00042 = {
     "character-other/overwhere-iii-hild-wendle",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“I’m sorry for the scar, but that’s the best I can do with the mana I have. If you catch me tomorrow, I may be able to do a bit better, free of charge.”",
   beats: [
@@ -33,6 +33,6 @@ export const overwhereIii00042 = {
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-nala-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-01T17:48:00.000Z",
 } as const satisfies StoryTurnPlayed
