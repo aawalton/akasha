@@ -115,5 +115,17 @@ export const overwhereIvHobbFarm = {
       fact: "Pim's two small figures went on two legs, and ran into the Tangle's trees when he shouted.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Small bare-toed tracks, not paws, and a torn fleece lie in the mud by the far wall's gap.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "At dusk on day two, two child-sized grey-green figures in hide scraps crept from the Tangle.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Of the two figures, one carries a flint-tipped spear and one a rusty knife; both eye the sheep.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Place
