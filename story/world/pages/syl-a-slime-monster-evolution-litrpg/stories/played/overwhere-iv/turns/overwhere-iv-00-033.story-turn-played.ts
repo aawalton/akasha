@@ -10,7 +10,7 @@ export const overwhereIv00033 = {
   position: 33,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "This time, I cast Rift Rend, aiming to cut the slinger in half",
   beats: [
     "Nala stays down in the leaf mould. Her shoulder throbs. She looks up at the oak.",
@@ -31,6 +31,6 @@ export const overwhereIv00033 = {
     '"Neither moves" - lore: if the slinger falls, the hurt scouts throw down weapons and grovel',
   ],
   lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2", "place/overwhere-iv-the-tangle"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-01T13:15:00.000Z",
 } as const satisfies StoryTurnPlayed
