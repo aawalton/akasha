@@ -200,22 +200,6 @@ export const overwhereIiiMardaHesk = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
-    {
-      fact: "Marda's lead box holds Nala's six seed stones and two whole blightstones, for the Thornmere rider.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Watching a seed stone crack to a glowing speck, Marda sits very still, then reaches for her pen.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Asked to crack the Guild's stones, Marda says unmaking them is the point; the healer keeps the rest.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
-    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

@@ -48,21 +48,5 @@ export const overwhereIiiCleansingWeave = {
       fact: "To Nala's sight a seed stone is a tight knot of black current, a pinprick of pale light at its core.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
-    {
-      fact: "Ten glimmer specks pressed together in a bare palm fuse into one whole glimmerstone.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "A whole blightstone left half-cracked knits itself back overnight.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "A whole blightstone takes ten Cleansing Weaves in one sitting to crack, and leaves a glimmerstone.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Each seed stone cracked with a Cleansing Weave counts as a telling use of the skill.",
-      knowers: ["lore-disclosure/game-master"],
-    },
   ],
 } as const satisfies Lore
