@@ -239,5 +239,9 @@ export const overwhereIiGreymaws = {
       fact: "Nala killed the last greymaw by the tarn's steps; the whole pack of nine is dead.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Flies crawl on a greymaw carcass, drawn by the reek, but feed on none of it and lay no eggs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
