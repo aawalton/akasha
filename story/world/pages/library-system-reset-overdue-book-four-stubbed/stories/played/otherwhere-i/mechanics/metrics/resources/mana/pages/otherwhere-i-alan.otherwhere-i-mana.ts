@@ -9,4 +9,5 @@ export const otherwhereIAlan = {
   minValue: 0,
   maxValue: 18,
   history: "jsonl",
+  displayOrder: 2,
 } as const satisfies OtherwhereIMana

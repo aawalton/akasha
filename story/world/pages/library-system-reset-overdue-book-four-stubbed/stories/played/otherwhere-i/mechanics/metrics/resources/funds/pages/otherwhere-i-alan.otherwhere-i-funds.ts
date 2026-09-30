@@ -8,4 +8,5 @@ export const otherwhereIAlan = {
   value: 0,
   minValue: 0,
   history: "jsonl",
+  displayOrder: 3,
 } as const satisfies OtherwhereIFunds
