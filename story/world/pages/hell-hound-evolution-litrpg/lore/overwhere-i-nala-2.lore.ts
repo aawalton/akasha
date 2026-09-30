@@ -52,5 +52,9 @@ export const overwhereINala2 = {
       fact: "At Level 7 Nala gained Strength 2, Dexterity 2, Vigor 2, Attunement 4 and Luck 1.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "On day 3 Nala took Ghost-Eye's milky eye and both its ears, and carries them in her pack.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore

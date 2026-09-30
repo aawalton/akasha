@@ -219,6 +219,14 @@ export const overwhereITheGreyfen = {
       fact: "At about 13:50 on day 3 the pine island held no wolves.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "The pack's den mouth gapes under the roots of a great drowned pine in the pine island's middle.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Under the pines on the island's east shore lie the pack's flattened beds and a reek of wolf.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

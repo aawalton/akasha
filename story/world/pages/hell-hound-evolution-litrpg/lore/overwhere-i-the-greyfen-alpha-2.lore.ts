@@ -291,7 +291,7 @@ export const overwhereITheGreyfenAlpha2 = {
     },
     {
       fact: "In a dead body the water answers again, slow and heavy; plucking an eye or ears with it is easy.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Ghost-Eye's milky eye is a hard pearl of clouded crystal, mana-grown; alchemists would pay well.",
@@ -315,6 +315,10 @@ export const overwhereITheGreyfenAlpha2 = {
     },
     {
       fact: "Ghost-Eye's milky eye, plucked, is a hard pearl of clouded crystal.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Up close Ghost-Eye is huge, its grey-green scales scarred pale along the flank.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
