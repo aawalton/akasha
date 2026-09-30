@@ -236,5 +236,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "While Seven and Eight fight her out in the marsh, Ghost-Eye and Six hold the shore.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "With five of its wolves dead, Ghost-Eye sends Six west after the pups and comes for her alone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
