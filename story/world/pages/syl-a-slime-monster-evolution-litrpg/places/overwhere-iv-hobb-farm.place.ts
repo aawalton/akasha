@@ -9,11 +9,11 @@ export const overwhereIvHobbFarm = {
   facts: [
     {
       fact: "Hobb Farm lies a mile west of Millbrook, across the footbridge, hard against the Tangle.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "It is a stone farmhouse, a barn, an orchard and three sheep fields walled in dry stone.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Farmer Jory Hobb is a widower of sixty, stooped and sour, with a sheepdog called Bran.",
@@ -25,7 +25,7 @@ export const overwhereIvHobbFarm = {
     },
     {
       fact: "Some forty blue slimes crowd the orchard and the ditches, eating the windfall apples.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The slimes here are LV 1 to 3, fatter than the common's for the apples.",
@@ -33,7 +33,7 @@ export const overwhereIvHobbFarm = {
     },
     {
       fact: "Two of Hobb's sheep went missing this week from the field nearest the trees.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Goblin tracks and a torn fleece lie in the mud at the far wall, by a gap onto the Tangle.",
@@ -49,7 +49,7 @@ export const overwhereIvHobbFarm = {
     },
     {
       fact: "As at the common, the orchard slimes still and drift to Nala; they come to her in a crowd.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Hobb has never seen slimes come to anyone, and would call it witchery, half-pleased.",
@@ -78,6 +78,22 @@ export const overwhereIvHobbFarm = {
         "character-player/overwhere-iv-nala",
         "character-other/overwhere-iv-ilsa-crane",
       ],
+    },
+    {
+      fact: "Pim, a boy of about fourteen, is the farmer's grandson; the farm's sheepdog is Bran.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Hobb blames wolves for his two lost sheep.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Hobb called the slimes coming to Nala witchery, half-pleased.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "At dusk on day two Bran stiffened and barked hard toward the orchard's far field wall.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Place
