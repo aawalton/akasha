@@ -40,5 +40,9 @@ export const overwhereIiMarshCroft = {
       fact: "Marsh Croft is three miles from Wendle Ford.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Garth's porridge pot is plain black iron from Carrowmouth, not cold iron; the tide feels it fine.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place

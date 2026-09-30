@@ -252,6 +252,14 @@ export const overwhereIiNala = {
       fact: "Reaching inward for Undertow, eyes shut, she shows watchers nothing they can see.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Rot and salt she draws never enter her; they gather on her palm as grey, stinking salt.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A Knack or a sleeping Talent feels the gooseflesh of her deep drawing too.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

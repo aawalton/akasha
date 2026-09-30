@@ -207,10 +207,7 @@ export const overwhereIiSpiritualRotAndHealing = {
       fact: "Kaffa has a metallic tang and an earthy smell.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Shaved heronbane stalk aids digestion.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+    { fact: "Shaved heronbane stalk aids digestion.", knowers: ["lore-disclosure/game-master"] },
     {
       fact: "Coralsnout scale powder mixed with Water makes a poultice that draws most venoms.",
       knowers: ["lore-disclosure/game-master"],
@@ -227,10 +224,7 @@ export const overwhereIiSpiritualRotAndHealing = {
       fact: "A sensing Talent that sees through skin makes setting bones far easier.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Coralsnout horns treat muscle fatigue.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+    { fact: "Coralsnout horns treat muscle fatigue.", knowers: ["lore-disclosure/game-master"] },
     {
       fact: "Scourge stones: Varen's Collapse caps boiled down with base herbs, rynwart among them.",
       knowers: ["lore-disclosure/game-master"],
@@ -313,6 +307,10 @@ export const overwhereIiSpiritualRotAndHealing = {
     },
     {
       fact: "Soulsage is a legendary refinement pill; thaumist pills also promote Talent.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Rot salt left in the open seeps back into living things; fire or cold iron kills it.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
