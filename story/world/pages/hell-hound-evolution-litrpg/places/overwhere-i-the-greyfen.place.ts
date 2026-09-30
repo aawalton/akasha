@@ -249,7 +249,7 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "The earth-and-air ripple feels two small hard, cold knots in the drowned pine roots beside the den.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
