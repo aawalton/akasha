@@ -86,15 +86,27 @@ export const overwhereIvIlsaCrane2 = {
     },
     {
       fact: "Millbrook has no bookseller; its few books are dear, and most sit on the shrine's shelf.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
     },
     {
       fact: "Ilsa lends the guild handbook to read at the hall's hearth table, never out the door.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
     },
     {
       fact: "The guild handbook covers ranks, bounty rules, the kingdom's known monsters and affinity lights.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
     },
     {
       fact: "The handbook says a new dungeon shows by monsters too strong for their ground, out by night.",
@@ -106,7 +118,11 @@ export const overwhereIvIlsaCrane2 = {
     },
     {
       fact: "Ilsa would point Nala to Sister Anwen, who keeps the shrine's books.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
     },
   ],
 } as const satisfies Lore

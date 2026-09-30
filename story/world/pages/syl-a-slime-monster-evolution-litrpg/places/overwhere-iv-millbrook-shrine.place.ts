@@ -40,5 +40,13 @@ export const overwhereIvMillbrookShrine = {
       fact: "The herbal names moonleaf, frostcap and a hundred other plants of the vale, with drawings.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Sister Anwen lets a sober reader sit with one of the shrine's books by daylight.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
+    },
   ],
 } as const satisfies Place
