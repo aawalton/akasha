@@ -4,6 +4,7 @@ export const overwhereIv00022 = {
   id: "01a0f36b-bec3-743b-8d2a-1ce4a52af1a5",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-022",
+  cover: "image/image-ff4655fe7d4f25f9",
   ownLength: 506,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
@@ -14,7 +15,7 @@ export const overwhereIv00022 = {
     "character-other/overwhere-iv-ilsa-crane",
     "character-other/overwhere-iv-brenna-holt",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Perfect, I’ll work on that today.” I go and check if I’m needed for any more of the guard training first and complete that if so, then go clear slimes at the Hobb farm.",
   beats: [
@@ -52,6 +53,11 @@ export const overwhereIv00022 = {
     "place/overwhere-iv-millbrook-gatehouse",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T18:10:00.000Z",
 } as const satisfies StoryTurnPlayed
