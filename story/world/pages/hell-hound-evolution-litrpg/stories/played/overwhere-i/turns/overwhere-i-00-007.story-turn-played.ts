@@ -10,7 +10,7 @@ export const overwhereI00007 = {
   position: 7,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Okay, I guess three is my limit, for now.” I watch my mana recharge for a few minutes, measuring the rate it heartbeats, then sit and do some meditative box breathing to see if I can get it to recharge any faster.",
   beats: [
@@ -28,7 +28,10 @@ export const overwhereI00007 = {
     "Thirteen again, at about ten minutes again. The breathing calmed her; it did not hurry it.",
     "The small white sun has climbed well up the pale red sky while she sat.",
   ],
+  issues: [
+    '"The small white sun has climbed well up the pale red sky while you sat." - Leave It Open',
+  ],
   lore: ["lore/overwhere-i-nala", "place/overwhere-i-greyfen-ford"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T10:40:00.000Z",
 } as const satisfies StoryTurnPlayed
