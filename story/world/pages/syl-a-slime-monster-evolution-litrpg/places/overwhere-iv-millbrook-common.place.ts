@@ -24,7 +24,7 @@ export const overwhereIvMillbrookCommon = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
-      fact: "Millbrook lies in a quiet region far from where the canon's people are.",
+      fact: "Millbrook lies in a quiet corner of the kingdom, far from great cities and famed adventurers.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
