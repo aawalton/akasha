@@ -57,7 +57,7 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Hearing of a drake-pearl, Osric is first to Nala, offering two gold for it on sight.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Osric's two gold is a pedlar's price; a Wendlow alchemist pays about four for the drake-pearl.",
