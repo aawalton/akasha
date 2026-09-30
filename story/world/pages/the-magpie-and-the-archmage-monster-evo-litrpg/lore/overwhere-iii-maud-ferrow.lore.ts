@@ -40,5 +40,9 @@ export const overwhereIiiMaudFerrow = {
       fact: "The drill-mistress is broad, past fifty, gray hair cropped short, with a Guild ring on her hand.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Maud's drill ends at the half-past-ten bell of the watch change, with staff bouts in pairs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
