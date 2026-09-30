@@ -119,6 +119,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "Nala drowned the Fenwatch sounder's old boar in its wallow; the four sows fled into the carr.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "An old Grubboar weighs as much as four grown men.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
