@@ -4,13 +4,14 @@ export const overwhereIv00041 = {
   id: "01a0f45e-d715-7b49-b4a2-52138bd79241",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-041",
+  cover: "image/image-c7a4e76f8a4c99fa",
   ownLength: 134,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 41,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“I’ve been working hard on a spear skill. It’s specialized for armor piercing, but turns out that works great on hardwood. What is hardwood but the armor of a tree?” I sat with a smirk. Anything else you need from me? Need the branches trimmed or the trunk chopped up",
   beats: [
@@ -25,6 +26,11 @@ export const overwhereIv00041 = {
   ],
   lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2", "place/overwhere-iv-reeves-pasture"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-02T09:37:00.000Z",
 } as const satisfies StoryTurnPlayed
