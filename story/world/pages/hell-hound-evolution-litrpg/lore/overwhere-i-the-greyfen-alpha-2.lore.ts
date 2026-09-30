@@ -96,7 +96,14 @@ export const overwhereITheGreyfenAlpha2 = {
     },
     {
       fact: "Missed, Ghost-Eye stands its ground snarling; the shore wolves hold until the pups are clear.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-ghost-eye",
+        "character-other/overwhere-i-pine-isle-drakewolf-six",
+        "character-other/overwhere-i-pine-isle-drakewolf-seven",
+        "character-other/overwhere-i-pine-isle-drakewolf-eight",
+      ],
     },
     {
       fact: "A hit at a cost only grazes it, for half harm, and it still comes at her with the three.",
@@ -112,7 +119,11 @@ export const overwhereITheGreyfenAlpha2 = {
     },
     {
       fact: "At 13:31 on day 3 Nala's slug fell spent into the channel; Ghost-Eye held the shore, snarling.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-ghost-eye",
+      ],
     },
   ],
 } as const satisfies Lore
