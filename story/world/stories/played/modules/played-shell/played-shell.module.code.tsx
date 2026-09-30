@@ -105,6 +105,19 @@ function lastTurnOf(rows: readonly Page[]): number | null {
   return last
 }
 
+const LAST_TURN_POSITION = "lastTurnPosition"
+
+export function sheetTurnOf(ready: readonly Page[], chapters: readonly Page[]): number | null {
+  const open = lastTurnOf(ready)
+  if (open !== null) return open
+  let last: number | null = null
+  for (const row of chapters) {
+    const position = asNumber(row[LAST_TURN_POSITION])
+    if (position !== null && (last === null || position > last)) last = position
+  }
+  return last
+}
+
 type PlayedShellProps = {
   readonly pageTypeSlug: PageTypeSlug
   readonly id: string
@@ -203,12 +216,13 @@ function PlayedStory({
     () => playedUpcomingOf(appointments.rows, ready, opensAt, chapters.rows),
     [appointments.rows, ready, opensAt, chapters.rows]
   )
-  const filed = usePlayedState(characterAddress, lastTurn)
+  const sheetTurn = useMemo(() => sheetTurnOf(ready, chapters.rows), [ready, chapters.rows])
+  const filed = usePlayedState(characterAddress, sheetTurn)
   const characterName = textIn(characters.rows[0]?.title)
   const state = useMemo(() => {
-    if (filed === null || lastTurn === null) return null
-    return stateOf(filed, lastTurn, characterName === "" ? undefined : characterName)
-  }, [filed, lastTurn, characterName])
+    if (filed === null || sheetTurn === null) return null
+    return stateOf(filed, sheetTurn, characterName === "" ? undefined : characterName)
+  }, [filed, sheetTurn, characterName])
   const externalId = beside.kind === "read" ? beside.beside.externalId : undefined
   const coordinatorAgent = beside.kind === "read" ? beside.beside.coordinatorAgent : undefined
   const shown = usePanelsDrawn(stringsIn(data.panels))

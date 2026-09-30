@@ -97,6 +97,11 @@ export const playedShell = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Where no turn is at player, the sheet is drawn as of the last turn a chapter closed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The panels are handed the story's character player, whether or not a turn is open.",
     },
 
