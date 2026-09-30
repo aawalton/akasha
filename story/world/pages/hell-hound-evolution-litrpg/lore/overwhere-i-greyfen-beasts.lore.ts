@@ -199,6 +199,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "A reedlurker disturbed in its holt by day bolts out underwater into the channel to fight or flee.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Finding the third holt is a moderate act; fresh claw marks and bubbles give it away.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
