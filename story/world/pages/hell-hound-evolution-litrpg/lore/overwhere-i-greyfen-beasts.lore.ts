@@ -255,6 +255,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "After Nala's thump, something scrabbled under the first slide; bubbles ran mid-channel and stopped.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Mud worked into a holt squeezes the den and forces its sleeper out through the water mouth.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
