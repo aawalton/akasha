@@ -327,6 +327,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "The fight's noise woke the Level 9; it lies awake and still in its dry den, not in the channel.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Level 12 still sleeps in its den under the alder root, a hundred yards up from the first slide.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
