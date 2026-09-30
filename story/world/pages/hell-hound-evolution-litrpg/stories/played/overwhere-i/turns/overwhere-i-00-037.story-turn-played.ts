@@ -4,10 +4,13 @@ export const overwhereI00037 = {
   id: "01a0f395-c492-7671-9d08-016e43dc6c5e",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-037",
+  ownLength: 163,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 37,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I attune water and earth targeting the second one, pull it out, and burn it with fire and air",
   beats: [
@@ -24,6 +27,6 @@ export const overwhereI00037 = {
     "[Experience Gained!]",
     'Jory lets out a low whistle behind her. "Two," he says. "And the third\'s hole I\'ve never found."',
   ],
-  lore: ["lore/overwhere-i-greyfen-beasts-2"],
+  lore: ["lore/overwhere-i-greyfen-beasts-2", "lore/overwhere-i-nala"],
   endsAt: "2026-09-30T11:02:00.000Z",
 } as const satisfies StoryTurnPlayed
