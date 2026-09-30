@@ -232,5 +232,9 @@ export const overwhereIStarfallLegacy = {
       fact: "The spun slug is a Weave use and a refined bullet, not a new skill or legacy way.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Getting shape and spin right takes about a dozen practice shots; the first few wobble short.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
