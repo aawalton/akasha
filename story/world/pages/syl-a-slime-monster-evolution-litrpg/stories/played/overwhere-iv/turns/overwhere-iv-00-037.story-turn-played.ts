@@ -24,6 +24,8 @@ export const overwhereIv00037 = {
     '"If that reaches Aubrin, no report of mine will hide it."',
     'She leans in. "So keep that line out of sight in town. Use it only out in the Tangle. Can you?"',
   ],
+  issues: ['"no report of mine will hide it" - Nobody Acts'],
   lore: ["lore/overwhere-iv-ilsa-crane", "lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-01T15:51:00.000Z",
 } as const satisfies StoryTurnPlayed
