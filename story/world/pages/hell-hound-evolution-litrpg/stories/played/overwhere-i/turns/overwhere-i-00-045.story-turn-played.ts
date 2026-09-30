@@ -4,13 +4,14 @@ export const overwhereI00045 = {
   id: "01a0f3f3-9c71-720c-aed3-82a0b6a6fb6b",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-045",
+  cover: "image/image-068e5c8d00a75436",
   ownLength: 142,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 45,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I drop my working and stay still while my mana recharges to full, keeping a watch with natural vision for any of the wolves to come in my direction.",
   beats: [
@@ -26,6 +27,11 @@ export const overwhereI00045 = {
   ],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-the-greyfen-alpha"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-01T12:30:00.000Z",
 } as const satisfies StoryTurnPlayed
