@@ -1,0 +1,12 @@
+import type { StoryItem } from "akasha/story/world/mechanics/items/story-item/story-item.page-type.types.ts"
+
+export const overwhereIHoodedCloak = {
+  id: "01a0f1c0-467e-78d0-9eef-2c710a26aefb",
+  type: "page-type/story-item",
+  slug: "overwhere-i-hooded-cloak",
+  title: "Hooded Cloak",
+  story: "story-played/overwhere-i",
+  place: "place/overwhere-i-fenwatch",
+  slot: "item-slot/shoulders",
+  description: "A hooded cloak of heavy grey-green wool, fastened with a wooden toggle.",
+} as const satisfies StoryItem
