@@ -10,4 +10,5 @@ export const overwhereIv00016 = {
   stepStatus: "step-status/game-master",
   action: "“Why? What is the threat? I can’t guard against an unknown.”",
   lore: ["lore/overwhere-iv-oswin-pike"],
+  endsAt: "2026-09-29T19:35:00.000Z",
 } as const satisfies StoryTurnPlayed
