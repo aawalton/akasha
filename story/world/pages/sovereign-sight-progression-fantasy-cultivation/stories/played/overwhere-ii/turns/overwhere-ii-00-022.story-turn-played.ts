@@ -10,7 +10,7 @@ export const overwhereIi00022 = {
   position: 22,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“It’s called Undertow, but I’m still learning what it does. You could help me with that once I’m done with the urgent needs.” I turn to Goody. “One more person, right? Then a nap, then the ewes.”",
   beats: [
@@ -42,6 +42,7 @@ export const overwhereIi00022 = {
     "Far above, from the screes, comes a long howl, and then another answering it, closer.",
     'Garth\'s face goes grey. He reaches for the old boar spear over the door. "Greymaws," he says.',
   ],
+  issues: ['"No canticle I know names that Talent." - Nobody Acts'],
   lore: [
     "lore/overwhere-ii-garth-marsh",
     "lore/overwhere-ii-greymaws",
@@ -49,6 +50,6 @@ export const overwhereIi00022 = {
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-wendle-ford-folk",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T17:20:00.000Z",
 } as const satisfies StoryTurnPlayed
