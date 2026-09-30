@@ -33,6 +33,11 @@ export const overwhereI00042 = {
     "Mana 96 of 232, and the afternoon is still young; she stands on the scorched heath.",
     "Fenwatch is a mile back, Rowan Coalby with it, and the marsh stretches on beside her.",
   ],
+  issues: [
+    '"the skim finds nothing to ride" - Plain Negation',
+    '"Fenwatch is a mile back, Rowan Coalby with it, and the marsh stretches on" - Leave It Open',
+  ],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-starfall-legacy"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T13:48:00.000Z",
 } as const satisfies StoryTurnPlayed
