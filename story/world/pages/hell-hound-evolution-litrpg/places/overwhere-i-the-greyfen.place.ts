@@ -227,6 +227,10 @@ export const overwhereITheGreyfen = {
       fact: "Under the pines on the island's east shore lie the pack's flattened beds and a reek of wolf.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "The pine den is three linked hollows under the roots, empty of any living thing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
