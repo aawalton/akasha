@@ -50,7 +50,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "Ebba has Warped carcasses burned on the midden with peat, and keeps her grandsons from them.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Ebba has no coin to spare, and thanks a helper with hot oatcakes and goat's butter.",
