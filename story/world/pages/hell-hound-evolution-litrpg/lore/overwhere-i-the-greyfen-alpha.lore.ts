@@ -299,11 +299,23 @@ export const overwhereITheGreyfenAlpha = {
     { fact: "A Drakewolf at 0 health is dead.", knowers: ["lore-disclosure/game-master"] },
     {
       fact: "At 13:04 on day 3 six slugs from Nala killed three wolves in the marsh, 30 to 40 yards from her.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-pine-isle-drakewolf-four",
+        "character-other/overwhere-i-pine-isle-drakewolf-five",
+        "character-other/overwhere-i-pine-isle-drakewolf-six",
+      ],
     },
     {
       fact: "With three down, the other three wolves broke and swam back to Ghost-Eye on the island.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-pine-isle-drakewolf-four",
+        "character-other/overwhere-i-pine-isle-drakewolf-five",
+        "character-other/overwhere-i-pine-isle-drakewolf-six",
+      ],
     },
     {
       fact: "A Drakewolf running at her through the marsh goes down to about three spun slugs.",
