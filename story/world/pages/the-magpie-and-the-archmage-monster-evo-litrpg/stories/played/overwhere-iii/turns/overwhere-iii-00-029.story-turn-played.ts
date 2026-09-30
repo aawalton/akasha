@@ -4,6 +4,7 @@ export const overwhereIii00029 = {
   id: "01a0f380-1d91-7f00-beb6-663d12e6329b",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-029",
+  cover: "image/image-a7cac8a185f127f9",
   ownLength: 219,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -15,7 +16,7 @@ export const overwhereIii00029 = {
     "character-other/overwhere-iii-garrick-dole",
     "character-other/overwhere-iii-ivy-marsh",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Okay, this works, so it’s just a matter of time” I repeat the process, sipping from the mana draught until I can try again, switching to Garrick this time.",
   beats: [
@@ -44,6 +45,11 @@ export const overwhereIii00029 = {
     "lore/overwhere-iii-nala-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T18:14:00.000Z",
 } as const satisfies StoryTurnPlayed
