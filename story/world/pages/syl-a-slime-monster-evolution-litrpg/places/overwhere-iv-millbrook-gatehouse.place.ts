@@ -195,6 +195,18 @@ export const overwhereIvMillbrookGatehouse = {
       ],
     },
     {
+      fact: "A recruit's first week is dawn drill only; gate shifts begin in the second week.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Afternoons in the first week are a recruit's own, and Hale likes them spent levelling.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A recruit must be back through the gate by the night bell, when it is barred.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Breakfast after drill is porridge with a spoon of honey, and small beer.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
