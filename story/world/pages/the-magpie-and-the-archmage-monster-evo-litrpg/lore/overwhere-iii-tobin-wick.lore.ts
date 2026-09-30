@@ -127,6 +127,22 @@ export const overwhereIiiTobinWick = {
         "character-other/overwhere-iii-bet-harrow",
       ],
     },
+    {
+      fact: "He knows no spells; his one skill, Sure Load, keeps a cart's load from shifting.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He knows spells are bought in the System's skill shop with glimmerstones, and good ones cost dozens.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He sells every glimmerstone he finds for twenty copper, and thinks magic is for Order folk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He would send anyone wanting magic to the Guild post, where adventurers buy and trade spells.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

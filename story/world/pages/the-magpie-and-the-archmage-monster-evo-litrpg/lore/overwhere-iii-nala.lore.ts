@@ -166,6 +166,10 @@ export const overwhereIiiNala = {
       fact: "Nala has not eaten since before she woke in this world.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Her skill shop lists Spark 3, Mana Bolt 5, Gust 6, Minor Ward 8 and Mend 10 glimmerstones.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
