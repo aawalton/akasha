@@ -71,6 +71,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "On the third day the road meets the river Wend and follows its bank down to Wendlow.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "With a laden mule cart, ford to Fenwatch takes about an hour and a half.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
