@@ -321,6 +321,14 @@ export const overwhereIvNala = {
       fact: "Practicing folded thrusts is practice of both Dimension Magic and Spearmanship.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Her Spatial Sense is always on within five paces, free, and shows shape, never level.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Reached for, her Spatial Sense spreads to her Dimension Magic's reach for 2 mana a minute.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
