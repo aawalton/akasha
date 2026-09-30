@@ -140,8 +140,18 @@ function StatsTab({
   const attributes = sheet.attributes
   const resources = sheet.resources
   const derived = useDerived(game, workings) ?? {}
+  const profile: Record<string, string> = {
+    ...(sheet.kind != null ? { Species: sheet.kind } : {}),
+    ...(sheet.class != null ? { Class: sheet.class } : {}),
+    ...(sheet.status != null ? { Status: sheet.status } : {}),
+  }
   return (
     <div className="flex flex-col gap-3">
+      {Object.keys(profile).length > 0 ? (
+        <Section title="Profile">
+          <ScalarRows record={profile} single />
+        </Section>
+      ) : null}
       {resources !== undefined ? (
         <Section title="Resources">
           <ScalarRows record={resources} single />
@@ -152,14 +162,7 @@ function StatsTab({
           <ScalarRows record={attributes} />
         </Section>
       ) : null}
-      {sheet.class != null ? (
-        <Section title="Class">
-          <div className="flex justify-between font-mono text-[12.5px]">
-            <span className="text-tertiary">Class</span>
-            <b className="font-bold text-accent">{sheet.class}</b>
-          </div>
-        </Section>
-      ) : null}
+
       {Object.keys(derived).length > 0 ? (
         <Section title="Derived">
           <ScalarRows record={derived} />
@@ -222,6 +225,14 @@ function SkillsTab({ sheet, showsBonds }: { sheet: ClientSheet; showsBonds: bool
           </Rows>
         </Section>
       ) : null}
+      <CountedRows
+        title="Legacies"
+        held={(sheet.legacies ?? []).map((one) => ({
+          ...(one.name != null ? { name: one.name } : {}),
+          ...(one.score != null ? { value: one.score } : {}),
+          ...(one.note != null ? { note: one.note } : {}),
+        }))}
+      />
       {titles.length > 0 ? (
         <Section title="Titles">
           <div className="flex flex-wrap gap-1.5">

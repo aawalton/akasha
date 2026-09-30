@@ -14,7 +14,7 @@ export const otherwhereTheLibraryPlayerCharacter = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The sheet shows stats once the story has shown the character a stat or a resource.",
+        "The sheet shows stats once the story has shown a stat, resource, species, class or status.",
     },
   ],
 } as const satisfies PlayedPanel

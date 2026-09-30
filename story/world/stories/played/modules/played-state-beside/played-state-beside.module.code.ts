@@ -13,15 +13,19 @@ import type { Quest } from "akasha/story/engine/core/modules/quest-schema/quest-
 import type { RevealedSheet } from "akasha/story/engine/core/modules/revealed/revealed.module.code.ts"
 import type { GameState } from "akasha/story/engine/core/modules/state-schema/state-schema.module.code.ts"
 import { worldAttunement } from "akasha/story/world/mechanics/attunements/world-attunement.page-type.ts"
+import { worldClass } from "akasha/story/world/mechanics/classes/world-class.page-type.ts"
+import { worldCondition } from "akasha/story/world/mechanics/conditions/world-condition.page-type.ts"
 import {
   type Had,
   itemsOf,
 } from "akasha/story/world/mechanics/items/story-item/modules/character-items-beside/character-items-beside.module.code.ts"
+import { worldLegacy } from "akasha/story/world/mechanics/legacies/world-legacy.page-type.ts"
 import { metricCharacterAttribute } from "akasha/story/world/mechanics/metrics/metric-character/attribute/metric-character-attribute.page-type.ts"
 import { metricCharacterResource } from "akasha/story/world/mechanics/metrics/metric-character/resource/metric-character-resource.page-type.ts"
 import { worldQuest } from "akasha/story/world/mechanics/quests/world-quest.page-type.ts"
 import { worldRelationship } from "akasha/story/world/mechanics/relationships/world-relationship.page-type.ts"
 import { worldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.ts"
+import { worldSpecies } from "akasha/story/world/mechanics/species/world-species.page-type.ts"
 import { characterTrait } from "akasha/story/world/mechanics/traits/character-trait/character-trait.page-type.ts"
 import {
   askedLoudly,
@@ -31,6 +35,7 @@ import {
   attunementsIn,
   bondsIn,
   type Counted,
+  heldIn,
   namedIn,
   questsIn,
   resourcesIn,
@@ -99,6 +104,10 @@ export type Filed = {
   readonly resources?: Readonly<Record<string, string | number>>
   readonly skills: readonly Skill[]
   readonly traits: readonly Skill[]
+  readonly legacies: readonly Skill[]
+  readonly species?: string
+  readonly calling?: string
+  readonly status?: string
   readonly quests: readonly Quest[]
   readonly bonds: readonly Counted[]
   readonly attunements: readonly Counted[]
@@ -111,6 +120,7 @@ const NOTHING_FILED: Filed = {
   attributes: {},
   skills: [],
   traits: [],
+  legacies: [],
   quests: [],
   bonds: [],
   attunements: [],
@@ -205,6 +215,31 @@ function rowsOf(asked: Asked): readonly QueryRow[] {
   return asked.ok ? revealedRows(asked.answer.rows) : []
 }
 
+const SPECIES_KEY = "species"
+
+const CLASS_KEY = "class"
+
+const CONDITION_KEY = "condition"
+
+const LEGACY_KEY = "legacy"
+
+const LISTED = ", "
+
+const HELD_KINDS: readonly (readonly [string, string])[] = [
+  [worldSpecies.slug, SPECIES_KEY],
+  [worldClass.slug, CLASS_KEY],
+  [worldCondition.slug, CONDITION_KEY],
+  [worldLegacy.slug, LEGACY_KEY],
+]
+
+async function askedHeld(type: string, key: string, character: string): Promise<Asked> {
+  return await askedLoudly({
+    "page-type": type,
+    where: { character: { is: character } },
+    keys: [CHARACTER_KEY, SLUG_KEY, TITLE_KEY, DESCRIPTION_KEY, RANK_KEY, key, UNREVEALED_KEY],
+  })
+}
+
 async function readFiled(character: string, turn: number): Promise<Filed> {
   const [resources, scores, holdings, quests, bonds, attunements, traits, had] = await Promise.all([
     askedLoudly({
@@ -231,7 +266,17 @@ async function readFiled(character: string, turn: number): Promise<Filed> {
     askedLoudly({
       "page-type": worldSkill.slug,
       where: { character: { is: character } },
-      keys: [CHARACTER_KEY, SKILL_KEY, RANK_KEY, LEVEL_KEY, AXIS_KEY, UNREVEALED_KEY],
+      keys: [
+        CHARACTER_KEY,
+        SLUG_KEY,
+        TITLE_KEY,
+        DESCRIPTION_KEY,
+        SKILL_KEY,
+        RANK_KEY,
+        LEVEL_KEY,
+        AXIS_KEY,
+        UNREVEALED_KEY,
+      ],
     }),
     askedLoudly({
       "page-type": worldQuest.slug,
@@ -263,16 +308,36 @@ async function readFiled(character: string, turn: number): Promise<Filed> {
     }),
     itemsOf(character),
   ])
+  const heldAsked = await Promise.all(
+    HELD_KINDS.map(async ([type, key]) => rowsOf(await askedHeld(type, key, character)))
+  )
+  const [speciesRows = [], classRows = [], conditionRows = [], legacyRows = []] = heldAsked
   const skillRows = rowsOf(holdings)
   const bondRows = rowsOf(bonds)
   const attunementRows = rowsOf(attunements)
   const traitRows = rowsOf(traits)
   const { titles, descriptions } = await titlesOf(
     namedIn(
-      [...skillRows, ...bondRows, ...attunementRows, ...traitRows],
-      [SKILL_KEY, RANK_KEY, CHARACTERS_KEY, ELEMENT_KEY, TRAIT_KEY]
+      [
+        ...skillRows,
+        ...bondRows,
+        ...attunementRows,
+        ...traitRows,
+        ...speciesRows,
+        ...classRows,
+        ...conditionRows,
+        ...legacyRows,
+      ],
+      [SKILL_KEY, RANK_KEY, CHARACTERS_KEY, ELEMENT_KEY, TRAIT_KEY, ...HELD_KINDS.map(([, k]) => k)]
     )
   )
+  const namesOf = (rows: readonly QueryRow[], key: string): string | undefined => {
+    const names = heldIn(rows, key, titles).map((one) => one.name)
+    return names.length === 0 ? undefined : names.join(LISTED)
+  }
+  const species = namesOf(speciesRows, SPECIES_KEY)
+  const calling = namesOf(classRows, CLASS_KEY)
+  const status = namesOf(conditionRows, CONDITION_KEY)
   const resourceRows = rowsOf(resources)
   const pools = poolsIn(resourceRows, turn)
   const scored = scoresIn(rowsOf(scores))
@@ -285,6 +350,10 @@ async function readFiled(character: string, turn: number): Promise<Filed> {
     ...(Object.keys(held).length === 0 ? {} : { resources: held }),
     skills: skillsIn(skillRows, titles, descriptions),
     traits: traitsIn(traitRows, titles, descriptions),
+    legacies: heldIn(legacyRows, LEGACY_KEY, titles, descriptions),
+    ...(species === undefined ? {} : { species }),
+    ...(calling === undefined ? {} : { calling }),
+    ...(status === undefined ? {} : { status }),
     quests: questsIn(rowsOf(quests)),
     bonds: bondsIn(bondRows, character, titles),
     attunements: attunementsIn(attunementRows, titles),
@@ -299,6 +368,10 @@ function filedNothing(filed: Filed): boolean {
     Object.keys(filed.attributes).length === 0 &&
     filed.skills.length === 0 &&
     filed.traits.length === 0 &&
+    filed.legacies.length === 0 &&
+    filed.species === undefined &&
+    filed.calling === undefined &&
+    filed.status === undefined &&
     filed.quests.length === 0 &&
     filed.bonds.length === 0 &&
     filed.attunements.length === 0 &&
@@ -313,6 +386,10 @@ function sheetOf(filed: Filed): RevealedSheet {
     ...(filed.resources === undefined ? {} : { resources: { ...filed.resources } }),
     ...(filed.skills.length === 0 ? {} : { skills: [...filed.skills] }),
     ...(filed.traits.length === 0 ? {} : { traits: [...filed.traits] }),
+    ...(filed.legacies.length === 0 ? {} : { legacies: [...filed.legacies] }),
+    ...(filed.species === undefined ? {} : { kind: filed.species }),
+    ...(filed.calling === undefined ? {} : { class: filed.calling }),
+    ...(filed.status === undefined ? {} : { status: filed.status }),
     ...(filed.bonds.length === 0 ? {} : { bonds: [...filed.bonds] }),
     ...(filed.attunements.length === 0 ? {} : { affinities: [...filed.attunements] }),
     ...(filed.had === null

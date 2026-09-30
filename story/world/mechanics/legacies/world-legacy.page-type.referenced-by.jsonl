@@ -1,5 +1,6 @@
 {"propertySlug":"extends-type","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/legacies/held/overwhere-i-legacy-held.page-type.ts","id":"01a0ed17-2f4e-73a6-940e-85672d8c9fb8"}
 {"propertySlug":"extends-type","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/legacies/overwhere-i-legacy.page-type.ts","id":"01a0ed17-2f4f-7e6b-803f-da64697e2bcf"}
+{"propertySlug":"import","fileName":"world-legacy.page-type.ts","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-legacy.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/legacies/held/overwhere-i-legacy-held.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-legacy.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/legacies/overwhere-i-legacy.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-legacy.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/legacies/super-supportive-gorgons-gift.world-legacy.ts","typed":true,"deferred":false}

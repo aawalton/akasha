@@ -47,7 +47,16 @@ export const sheetPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The stats tab opens on the character's resources, above its attributes.",
+      statement: "The stats tab opens on the character's species, class and status, where shown.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The character's resources come next, above its attributes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The skills tab lists the character's legacies below its traits, once one is held.",
     },
     {
       decisionKind: "decision-kind/departure",

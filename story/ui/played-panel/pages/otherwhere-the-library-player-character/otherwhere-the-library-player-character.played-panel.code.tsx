@@ -9,7 +9,12 @@ export const Panel = panelBy(PlayerCharacterPanel, ({ envelope, run }) => ({
   sheet: {
     sheet: envelope.sheet ?? null,
     game: run.gameExternalId,
-    showsStats: envelope.sheet?.attributes !== undefined || envelope.sheet?.resources !== undefined,
+    showsStats:
+      envelope.sheet?.attributes !== undefined ||
+      envelope.sheet?.resources !== undefined ||
+      envelope.sheet?.kind !== undefined ||
+      envelope.sheet?.class !== undefined ||
+      envelope.sheet?.status !== undefined,
     showsBonds: false,
   },
 }))

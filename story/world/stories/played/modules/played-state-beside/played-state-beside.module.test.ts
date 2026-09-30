@@ -21,6 +21,7 @@ const NOTHING: Filed = {
   attributes: {},
   skills: [],
   traits: [],
+  legacies: [],
   quests: [],
   bonds: [],
   attunements: [],
@@ -108,6 +109,28 @@ test("a level, attributes, traits, bonds, attunements and items filed are drawn 
     affinities: [{ name: "Ember Affinity", value: 9 }],
     equipment: { Weapon: { name: "Knife" } },
     inventory: [{ name: "Coin" }],
+  })
+  expect(GameStateSchema.safeParse(state).success).toBe(true)
+})
+
+test("a species, class, status and legacies filed are drawn on the sheet", () => {
+  const state = stateOf(
+    {
+      ...NOTHING,
+      species: "Human",
+      calling: "Ranger",
+      status: "Healthy",
+      legacies: [{ name: "Starfall", score: 1 }],
+    },
+    88,
+    "Alan"
+  )
+  expect(state?.revealed).toEqual({
+    name: "Alan",
+    kind: "Human",
+    class: "Ranger",
+    status: "Healthy",
+    legacies: [{ name: "Starfall", score: 1 }],
   })
   expect(GameStateSchema.safeParse(state).success).toBe(true)
 })
