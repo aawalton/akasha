@@ -135,6 +135,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "A Drakewolf scents a person three hundred yards upwind of it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The pack keeps three half-grown pups on the island this summer.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
