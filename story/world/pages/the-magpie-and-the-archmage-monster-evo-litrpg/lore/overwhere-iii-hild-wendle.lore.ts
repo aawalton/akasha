@@ -31,7 +31,12 @@ export const overwhereIiiHildWendle = {
     },
     {
       fact: "One pull clears Hild's fresh bite, but it is torn and needs a Mending Weave to close.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-hild-wendle",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
     },
     {
       fact: "Arriving, Hild says, 'They say you drew it out of Ivy Marsh. Draw it out of me, love, please.'",
