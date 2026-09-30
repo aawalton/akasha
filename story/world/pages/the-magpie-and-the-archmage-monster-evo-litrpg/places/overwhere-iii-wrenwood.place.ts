@@ -240,6 +240,10 @@ export const overwhereIiiWrenwood = {
       fact: "Nala cut all eight good frostcaps off the brookside roots; none good are left there.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Snowroot is a white finger-thick root under frost-browned leaves on the Wren Brook banks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
