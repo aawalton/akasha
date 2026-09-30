@@ -209,5 +209,9 @@ export const overwhereINala = {
       fact: "Slow box breathing calms her, but does not speed her mana's return.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Stone shaped and held by a working falls apart the moment the working ends.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
