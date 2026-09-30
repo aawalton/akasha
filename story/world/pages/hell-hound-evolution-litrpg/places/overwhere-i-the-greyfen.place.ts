@@ -239,6 +239,10 @@ export const overwhereITheGreyfen = {
       fact: "Ewan Dell was one of the two Sallow Hythe reed-cutters Ghost-Eye's pack killed this summer.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ewan Dell's widow Marta still lives at Sallow Hythe, a fen village a day south of Fenwatch.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
