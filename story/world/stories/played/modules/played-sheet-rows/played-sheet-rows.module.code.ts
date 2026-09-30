@@ -168,6 +168,13 @@ function byOrder(one: Resource, other: Resource): number {
   return one.name.localeCompare(other.name)
 }
 
+const REVEALED_AS_KEY = "revealedAs"
+
+export function wordsIn(row: QueryRow): string | null {
+  const words = textIn(row.values[REVEALED_AS_KEY])
+  return words === null || words.trim() === "" ? null : words
+}
+
 export function resourcesIn(rows: readonly QueryRow[]): Readonly<Record<string, string | number>> {
   const held: Resource[] = []
   for (const row of rows) {
@@ -175,9 +182,10 @@ export function resourcesIn(rows: readonly QueryRow[]): Readonly<Record<string, 
     const value = parseNumber(row.values[VALUE_KEY])
     if (type === null || value === undefined) continue
     const most = parseNumber(row.values[MAX_VALUE_KEY])
+    const numbers = most === undefined ? value : `${String(value)}${OUT_OF}${String(most)}`
     held.push({
       name: resourceNameOf(row, type),
-      shown: most === undefined ? value : `${String(value)}${OUT_OF}${String(most)}`,
+      shown: wordsIn(row) ?? numbers,
       order: parseNumber(row.values[DISPLAY_ORDER_KEY]),
     })
   }

@@ -58,6 +58,10 @@ export const playedStateBeside = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A resource stating the words the story gave for it is in no pool.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The species, class, conditions and legacies drawn are the pages naming the character.",
     },

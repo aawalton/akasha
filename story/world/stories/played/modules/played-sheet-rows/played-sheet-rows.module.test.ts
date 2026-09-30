@@ -89,6 +89,23 @@ test("a resource is named by its kind, by what its slug adds, or by its title, a
   expect(resourcesIn(rows)).toEqual({ COIN: 3, HEALTH: "40 / 45", "WIND RESERVE": 19 })
 })
 
+test("a resource the story gave only in words is shown as those words, never its numbers", () => {
+  const holder = "character-player/some-nala"
+  const rows = [
+    {
+      values: {
+        type: "some-health",
+        value: 40,
+        maxValue: 45,
+        revealedAs: "hale",
+        character: holder,
+      },
+    },
+    { values: { type: "some-mana", value: 7, maxValue: 9, revealedAs: " ", character: holder } },
+  ]
+  expect(resourcesIn(rows)).toEqual({ HEALTH: "hale", MANA: "7 / 9" })
+})
+
 test("resources stating a display order come first in that order, and the rest by name", () => {
   const holder = "character-player/some-nala"
   const rows = [

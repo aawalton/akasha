@@ -43,6 +43,7 @@ import {
   scoresIn,
   skillsIn,
   traitsIn,
+  wordsIn,
 } from "akasha/story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.code.ts"
 import { useEffect, useState } from "react"
 
@@ -164,7 +165,7 @@ export function poolsIn(rows: readonly QueryRow[], turn: number): Pick<Filed, "p
   for (const row of rows) {
     const type = textIn(row.values[TYPE_KEY])
     const value = parseNumber(row.values[VALUE_KEY])
-    if (type === null || value === undefined) continue
+    if (type === null || value === undefined || wordsIn(row) !== null) continue
     pools[type] = value
     const most = parseNumber(row.values[MAX_VALUE_KEY])
     if (most !== undefined) pools[`${type}${MAX}`] = most
@@ -206,6 +207,8 @@ async function titlesOf(named: ReadonlyMap<string, readonly string[]>): Promise<
 const UNREVEALED_KEY = "unrevealed"
 
 const DISPLAY_ORDER_KEY = "displayOrder"
+
+const REVEALED_AS_KEY = "revealedAs"
 
 export function revealedRows(rows: readonly QueryRow[]): readonly QueryRow[] {
   return rows.filter((row) => row.values[UNREVEALED_KEY] !== true)
@@ -272,6 +275,7 @@ async function readFiled(character: string, turn: number): Promise<Filed> {
         SLUG_KEY,
         TITLE_KEY,
         DISPLAY_ORDER_KEY,
+        REVEALED_AS_KEY,
         UNREVEALED_KEY,
       ],
       files: [HISTORY_KEY],

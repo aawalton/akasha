@@ -46,6 +46,11 @@ export const playedSheetRows = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A resource stating the words the story gave for it is shown as those words, never its numbers.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "Resources stating a display order come first, in that order, and the rest follow by name.",
     },
     {
