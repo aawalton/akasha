@@ -48,6 +48,22 @@ export const overwhereIvBrooksideFour = {
       ],
     },
     {
+      fact: "Merrit would call the clear flare a fault of the cracked crystal, not her gift.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Wren, their scout, saw the room bend through the flare, and trusts her own eyes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Orla, their healer, would be kind to Nala and ask if the crystal hurt her hand.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dace, their leader, would want a caster who lit the crystal like that in his party.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Merrit wears a scorched red coat and names his magic as fire.",
       knowers: [
         "lore-disclosure/game-master",
