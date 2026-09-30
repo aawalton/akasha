@@ -10,7 +10,7 @@ export const overwhereIi00058 = {
   position: 58,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Yeah, I’ll need to prepare a but before I’m ready for that. Sounds like you’ll get to keep me a while longer after all.” Once the conversation is done, I get a good meal and go to sleep.",
   beats: [
@@ -34,6 +34,6 @@ export const overwhereIi00058 = {
     "lore/overwhere-ii-reeve-corwin-dray-2",
     "place/overwhere-ii-tarrant-smithy",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-03T06:00:00.000Z",
 } as const satisfies StoryTurnPlayed
