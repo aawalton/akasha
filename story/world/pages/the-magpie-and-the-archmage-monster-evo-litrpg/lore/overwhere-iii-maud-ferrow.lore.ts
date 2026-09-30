@@ -62,7 +62,11 @@ export const overwhereIiiMaudFerrow = {
     },
     {
       fact: "Maud has heard Bet's tale, and asks the red-haired healer to look at Cob's arm after the drill.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-maud-ferrow",
+      ],
     },
     {
       fact: "A newcomer drilling with the watch runs, hauls fieldstones and takes staff knocks; nobody's gentle.",
