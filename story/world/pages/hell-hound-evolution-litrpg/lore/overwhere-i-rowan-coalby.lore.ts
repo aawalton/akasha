@@ -71,6 +71,10 @@ export const overwhereIRowanCoalby = {
       fact: "Hearing Ghost-Eye's howl, Rowan comes out with Sedge and meets Nala at the fen edge near dusk.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Sedge bristles and whines at Ghost-Eye's scent on Nala's pack, and will not come near her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
