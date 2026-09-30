@@ -254,6 +254,10 @@ export const overwhereIiiBrannaghTull = {
       fact: "With Garrick clean, Brannagh offers to send Nala every blight case she hears of, for 10 copper each.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Seeing Garrick's leg closed, Brannagh sits down hard on her stool and laughs aloud.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
