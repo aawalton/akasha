@@ -296,6 +296,10 @@ export const overwhereIiNala = {
       fact: "On the morning of day two Nala carries the four greymaw chambers down the river lane to the Reeve.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Nala carries the four greymaw chambers in the dead watchman's knapsack, the white-eye's on top.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

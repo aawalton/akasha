@@ -103,5 +103,13 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Dray's Talent turns his forearms grey and hard as stone; they grate like millstones.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Nala told Dray she will hunt the greymaws alone, and put up to two silver bars toward a spear.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Dray challenged Nala to the bout at once, on the green: a watch spear against his hands.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
