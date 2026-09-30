@@ -71,5 +71,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Dray wants the five greymaws left hunted down before lambing, and would pay Nala to lead the hunt.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Dray overlooks Nala's lack of papers, but must write her name into Lady Varrow's rolls.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
