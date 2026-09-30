@@ -143,6 +143,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "Nala sawed off the old boar's head and dragged it a few hundred yards into the alder carr.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "An old boar's tusks are yellow and forearm-long; a fast water disc takes each off in under a minute.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
