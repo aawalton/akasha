@@ -108,5 +108,9 @@ export const overwhereIiNala2 = {
       fact: "On day four a fall on icy scree scraped the unrefined skin over Nala's ribs raw and bruised it deep.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Nala's refined arms and legs came through a thirty-foot slide on the scree unmarked.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
