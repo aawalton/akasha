@@ -10,7 +10,7 @@ export const overwhereI00055 = {
   position: 55,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "I use an earth attunement to pull out the hard knots, curious to see what they might be.",
   beats: [
