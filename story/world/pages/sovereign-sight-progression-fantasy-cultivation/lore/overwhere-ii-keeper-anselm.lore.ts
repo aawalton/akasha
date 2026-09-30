@@ -221,7 +221,7 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "Anselm expects Carrowmouth's Keepers to send a senior Keeper up the valley once the road dries.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Anselm expects the Keepers to urge Nala to take the Chartermark and go south to the Spires.",
