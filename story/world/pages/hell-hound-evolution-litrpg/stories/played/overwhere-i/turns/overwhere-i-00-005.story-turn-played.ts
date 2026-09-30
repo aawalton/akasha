@@ -10,7 +10,7 @@ export const overwhereI00005 = {
   position: 5,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Nice! Okay, time to try the ward.” This time I focus on attuning to Earth and imaging the stones from the riverbed forming a set of flowing stone armor around me.",
   beats: [
@@ -32,6 +32,6 @@ export const overwhereI00005 = {
     "Behind her breastbone, a small heavy hollow where the earth came from, already filling in.",
   ],
   lore: ["lore/overwhere-i-nala", "place/overwhere-i-greyfen-ford"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T10:17:00.000Z",
 } as const satisfies StoryTurnPlayed
