@@ -7,7 +7,8 @@ export const overwhereIv00022 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 22,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Perfect, I’ll work on that today.” I go and check if I’m needed for any more of the guard training first and complete that if so, then go clear slimes at the Hobb farm.",
+  lore: ["place/overwhere-iv-hobb-farm", "place/overwhere-iv-millbrook-gatehouse"],
 } as const satisfies StoryTurnPlayed
