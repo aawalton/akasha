@@ -26,7 +26,11 @@ export const overwhereIiiDunstanHarrow = {
     },
     {
       fact: "He pays the same with its glimmerstone in or out, and tells hunters to dig the stone out first.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-dunstan-harrow"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-dunstan-harrow",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "He thinks a glimmerstone left in a carcass is coin thrown in the pot.",
