@@ -77,7 +77,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "Under a hard pull a common greymaw staggers in a few heartbeats and drops dead within ten.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The she-wolf's reservoir is deep; draining her takes a full minute of hard pull.",
