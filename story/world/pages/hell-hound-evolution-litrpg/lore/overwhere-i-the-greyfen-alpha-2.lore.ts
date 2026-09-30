@@ -90,5 +90,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Struck, Ghost-Eye roars and comes across at her with Six, Seven and Eight, to buy the pups time.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ghost-Eye leads, swimming the channel and bounding the marsh; it reaches her in about fifty seconds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
