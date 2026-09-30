@@ -141,5 +141,21 @@ export const overwhereIvNala2 = {
         "lore/overwhere-iv-brookside-four",
       ],
     },
+    {
+      fact: "Nala told Ilsa the black line is the same gift as her clear flare, used to finish the goblins.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
+    },
+    {
+      fact: "Nala told Ilsa she chose Spellblade as her starting class.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
+    },
   ],
 } as const satisfies Lore

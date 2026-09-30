@@ -344,7 +344,11 @@ export const overwhereIvIlsaCrane = {
     },
     {
       fact: "Ilsa fears carters will carry talk of a black line east, where her soft report can't hide it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Ilsa would ask Dace to keep the black line within the Four; she can't vouch for Merrit.",
@@ -352,11 +356,19 @@ export const overwhereIvIlsaCrane = {
     },
     {
       fact: "Ilsa would urge Nala to keep the line out of sight in town, and use it only in the Tangle.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Ilsa has never heard of anyone starting as a Spellblade; most begin as Mage or Warrior.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Ilsa knows Spellblade as an intermediate hybrid that most adventurers look down on.",
@@ -364,11 +376,39 @@ export const overwhereIvIlsaCrane = {
     },
     {
       fact: "To Ilsa the gift is no problem for Millbrook's hall, only if talk of it reaches Aubrin.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Ilsa would write Nala in the ledger as Spellblade and nothing more, and tell no one else.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ilsa says folk look down on Spellblades as a half-and-half class.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
+    },
+    {
+      fact: "Ilsa writes Nala in the hall's ledger as Spellblade, and nothing more.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
+    },
+    {
+      fact: "Ilsa's soft report goes east with the carter at dawn.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
   ],
 } as const satisfies Lore
