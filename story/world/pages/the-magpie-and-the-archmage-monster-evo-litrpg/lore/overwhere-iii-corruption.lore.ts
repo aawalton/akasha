@@ -272,6 +272,10 @@ export const overwhereIiiCorruption = {
       fact: "A blight wound must be cleansed before it will mend: Cleansing Weave first, then Mending Weave.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A weeks-old blight bite takes about three Basic Cleansing Weaves to clear.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
