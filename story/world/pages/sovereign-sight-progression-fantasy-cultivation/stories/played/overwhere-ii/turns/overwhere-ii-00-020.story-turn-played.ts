@@ -10,7 +10,7 @@ export const overwhereIi00020 = {
   position: 20,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“I’m not sure what you’re talking about, but we can talk as we go. Goody, I’m ready for the next patient, could you lead the way? Garth, you can go home to Wren, I’ll stop by soon to see to the ewes.”",
   beats: [
@@ -42,6 +42,6 @@ export const overwhereIi00020 = {
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-wendle-ford-folk",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T12:07:00.000Z",
 } as const satisfies StoryTurnPlayed
