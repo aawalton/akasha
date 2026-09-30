@@ -2,7 +2,7 @@
 
 Marda looks at you a long moment. "Never heard of anyone doing that." She pauses. "Doesn't mean it can't be."
 
-She reaches under the desk and unlocks a box lined with lead. With a pair of iron tongs she lifts something out and sets it on the bare desk between you.
+She reaches under the desk and unlocks a box lined with lead. With a pair of iron tongs she lifts something out and sets it on the desk beside her cider jug.
 
 It is a stone the size of a walnut, black as pitch.
 
@@ -30,5 +30,3 @@ A blue box opens.
 
 [New skill acquired – Cleansing Weave.]
 [Cleansing Weave – At [Basic] level, draw holy current through blight to unpick it.]
-
-It isn't Purify. It's something else. Something of your own.
