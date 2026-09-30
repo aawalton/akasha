@@ -10,7 +10,7 @@ export const overwhereIii00012 = {
   position: 12,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-tobin-wick"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I take the knife and follow the instructions to the right area, then see if I can follow the mana currents to the frostcaps to speed up the collection process.",
   beats: [
@@ -39,6 +39,6 @@ export const overwhereIii00012 = {
     "lore/overwhere-iii-tobin-wick",
     "place/overwhere-iii-wrenwood",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-30T08:58:00.000Z",
 } as const satisfies StoryTurnPlayed
