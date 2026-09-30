@@ -291,6 +291,14 @@ export const overwhereIGreyfenBeasts = {
       fact: "A reedlurker slipping a grip dives at once and strikes the nearest leg at the water's edge.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala heaved a reedlurker out of the channel in held water and dropped it on the mud.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "On land a reedlurker is clumsy; its webbed claws skid, and it drags itself back toward water.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
