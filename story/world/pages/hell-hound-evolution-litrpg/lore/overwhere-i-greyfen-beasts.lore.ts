@@ -155,6 +155,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "Cutting off both tusks with a fast water disc is an easy act, held one minute.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "An old boar's two tusks together weigh a few pounds, easily carried.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
