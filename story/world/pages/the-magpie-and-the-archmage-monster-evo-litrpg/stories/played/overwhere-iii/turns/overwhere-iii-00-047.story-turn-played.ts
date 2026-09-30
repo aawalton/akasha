@@ -4,10 +4,17 @@ export const overwhereIii00047 = {
   id: "01a0f49f-738e-74c2-8c61-f2b00a0851aa",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-047",
+  ownLength: 152,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 47,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-brannagh-tull",
+    "character-other/overwhere-iii-mother-sallow",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "“Does it give back more mana than it costs? If not, I don’t know that it would help me much quite yet.”",
   beats: [
@@ -27,6 +34,9 @@ export const overwhereIii00047 = {
     "lore/overwhere-iii-brannagh-tull",
     "lore/overwhere-iii-brannagh-tull-2",
     "lore/overwhere-iii-magic",
+    "lore/overwhere-iii-mother-sallow",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
   ],
   endsAt: "2026-10-03T13:25:00.000Z",
 } as const satisfies StoryTurnPlayed
