@@ -320,5 +320,9 @@ export const overwhereIStarfallLegacy = {
       fact: "Treading water too deep to stand, she cannot loose a slug true; each shot is two bands harder.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Standing knee-deep, she looses slugs with no penalty.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
