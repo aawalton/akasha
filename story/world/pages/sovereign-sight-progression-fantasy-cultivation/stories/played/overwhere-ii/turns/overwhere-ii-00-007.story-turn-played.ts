@@ -4,10 +4,13 @@ export const overwhereIi00007 = {
   id: "01a0f178-4c56-71ea-8f13-5a38f5a434c8",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-007",
+  ownLength: 236,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 7,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“I’m not certain. I would gladly do so if I can, but I would need to visit one of the stones first. Do you know how far it is to the nearest?”",
   beats: [
@@ -29,6 +32,7 @@ export const overwhereIi00007 = {
   ],
   lore: [
     "lore/overwhere-ii-garth-marsh",
+    "lore/overwhere-ii-nala",
     "place/overwhere-ii-carrowmouth",
     "place/overwhere-ii-wendlemere",
   ],
