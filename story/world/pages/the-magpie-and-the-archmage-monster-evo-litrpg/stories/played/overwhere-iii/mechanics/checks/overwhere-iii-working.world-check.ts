@@ -84,7 +84,8 @@ export const overwhereIiiWorking = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Mana comes back two an hour at rest, and all of it after a night's sleep.",
+      statement:
+        "Mana comes back two an hour while she casts nothing, running or resting, and all after sleep.",
     },
     {
       decisionKind: "decision-kind/departure",
