@@ -121,7 +121,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "Pierced to the bone chamber, the she-wolf's Water bursts out as a cold gush of brine, and she dies.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "With the she-wolf dead, the five greymaws left in the screes lose heart and scatter.",
