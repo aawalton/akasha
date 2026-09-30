@@ -7,9 +7,19 @@ export const overwhereIii00020 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 20,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Not quite Purify yet, but part way there. If you don’t mind a few steps, I think I can finish that off after a rest or two.”",
+  beats: [
+    '"Not quite Purify yet," Nala says, "but part way there."',
+    '"If you don\'t mind a few steps, I think I can finish it off after a rest or two."',
+    "Marda sinks back into her chair slowly, still looking at the paler stone.",
+    "She takes up the tongs and lays the stone back in the lead box, in a corner apart from the others.",
+    "\"That one's yours to come back to, then. I'll not send it to Thornmere.\"",
+    'She locks the box and sits back. "Crack it clean, and the glimmerstone that comes out is yours."',
+    '"Same for any bounty stone you clean after that."',
+    '"Post opens at the dawn bell, shuts at the dusk bell. I\'m at this desk the whole of it."',
+  ],
   lore: ["lore/overwhere-iii-marda-hesk", "place/overwhere-iii-merrowgate-guild-post"],
   endsAt: "2026-09-30T12:23:00.000Z",
 } as const satisfies StoryTurnPlayed
