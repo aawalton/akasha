@@ -260,6 +260,30 @@ export const overwhereIiReeveCorwinDray = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
+      fact: "Dray knows a black pool smelling of the sea for a tidepool; he saw one on the coast as militia.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray knows tidepools draw Aberrants in, and turn beasts that linger by them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray thinks greymaws fleeing downhill fits a thing driving them, not a pool drawing them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray pays half a bar for word of the Callow pool, and the rest for what drove the greymaws.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Told Nala's well leans at both, Dray fears Hollow Tarn is a tidepool too, and a bigger one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "In the evening of day three Dray sits by the fire in the Reeve's house, the watch back from the den.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Dray paid Nala eighteen silver for nine greymaws, the watch's silver bar and a bar for the hunt.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
