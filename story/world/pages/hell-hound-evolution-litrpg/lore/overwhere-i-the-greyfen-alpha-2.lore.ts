@@ -204,5 +204,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Ghost-Eye's bite does 18 harm and holds on; breaking its hold is a hard act.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Once she is within 100 yards of the island, Ghost-Eye and Six swim across at her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
