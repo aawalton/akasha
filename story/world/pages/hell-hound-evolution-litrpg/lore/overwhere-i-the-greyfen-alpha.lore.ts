@@ -201,7 +201,7 @@ export const overwhereITheGreyfenAlpha = {
     },
     {
       fact: "The grown wolves lie spread along forty yards of shade, a few yards in from the island's east edge.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
