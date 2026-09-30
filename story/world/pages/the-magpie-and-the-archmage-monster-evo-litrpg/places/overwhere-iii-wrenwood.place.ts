@@ -172,6 +172,10 @@ export const overwhereIiiWrenwood = {
       fact: "The currents under the old beech hold blue, green and dull yellow threads, but no white-gold.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "A blue current runs on west to a lightning-split beech with three frostcaps and one gravecap.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
