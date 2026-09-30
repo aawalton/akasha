@@ -131,6 +131,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "Sawing through an old Grubboar's neck with a water disc takes about two minutes held.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "An old Grubboar's head alone weighs about as much as a grown man.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
