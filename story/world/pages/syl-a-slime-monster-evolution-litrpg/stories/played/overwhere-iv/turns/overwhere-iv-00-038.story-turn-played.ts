@@ -4,10 +4,13 @@ export const overwhereIv00038 = {
   id: "01a0f435-c384-77bb-9f3d-6e520ee654ee",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-038",
+  ownLength: 154,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 38,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Yes, I won’t cast it in town. I could even take solo missions from now on if that would be best. I could have easily taken all five goblins on my own with the new spell.”",
   beats: [
@@ -21,6 +24,6 @@ export const overwhereIv00038 = {
     '"This first. It grows in his back pasture, where the town can\'t see what cuts it."',
     'She slides it toward Nala. "Want it?"',
   ],
-  lore: ["lore/overwhere-iv-ilsa-crane-2"],
+  lore: ["lore/overwhere-iv-ilsa-crane-2", "lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2"],
   endsAt: "2026-10-01T15:54:00.000Z",
 } as const satisfies StoryTurnPlayed
