@@ -219,5 +219,23 @@ export const overwhereIiiNala2 = {
       fact: "On day five the stag stone's blight bit cold to Nala's wrist, harder than the day before.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala will mend scars free as goodwill, after fresh hurts and blight: in a week or two, or booked.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-other/overwhere-iii-pip-carrow",
+      ],
+    },
+    {
+      fact: "Nala told the scar folk she ran dry cleansing blightstones, and asked for ways to raise her mana.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-other/overwhere-iii-pip-carrow",
+      ],
+    },
   ],
 } as const satisfies Lore
