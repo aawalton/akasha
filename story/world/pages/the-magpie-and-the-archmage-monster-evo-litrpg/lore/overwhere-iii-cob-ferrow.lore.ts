@@ -10,7 +10,11 @@ export const overwhereIiiCobFerrow = {
   facts: [
     {
       fact: "Cob Ferrow is sixteen, gangly and freckled, and smells of the tannery's lime pits.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
     },
     {
       fact: "He is a Common, a Tanner's apprentice of Level 3, cocky with other lads and shy with women.",
