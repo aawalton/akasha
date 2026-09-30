@@ -171,6 +171,10 @@ export const overwhereIiGarthMarsh = {
       fact: "Garth's mother told him of Liss Aske, the red-haired Aske girl the tarn took.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Garth went home to Wren and will have the fold ready for Nala to see his ewes.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
