@@ -25,5 +25,6 @@ export const overwhereI00045 = {
     "The watching speck stands, and another rises out of the pack to take its place.",
   ],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-the-greyfen-alpha"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-01T12:30:00.000Z",
 } as const satisfies StoryTurnPlayed
