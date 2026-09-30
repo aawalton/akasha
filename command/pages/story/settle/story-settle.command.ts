@@ -37,7 +37,11 @@ export const storySettle = {
 
     {
       decisionKind: "decision-kind/absence",
-      statement: "No call says the seed a roll is rolled from.",
+      statement: "No call hands in the seed a roll is rolled from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A settled roll is told with the seed it was rolled from, as its line records it.",
     },
     {
       decisionKind: "decision-kind/departure",
