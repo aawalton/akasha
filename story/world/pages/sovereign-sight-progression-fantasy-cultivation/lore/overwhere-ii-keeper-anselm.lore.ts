@@ -33,7 +33,7 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "He would report any great new Talent in the valley, as a Keeper must, to Carrowmouth.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Word from Carrowmouth's Keepers reaches the Spires in a month.",
