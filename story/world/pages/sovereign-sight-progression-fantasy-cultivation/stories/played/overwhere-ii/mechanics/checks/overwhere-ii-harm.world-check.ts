@@ -83,6 +83,11 @@ export const overwhereIiHarm = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A wound closed with Water gives back the vigour it took; closed at a cost, half, rounded up.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "At one vigour she is downed: conscious, hurting, and unable to fight on.",
     },
     {
