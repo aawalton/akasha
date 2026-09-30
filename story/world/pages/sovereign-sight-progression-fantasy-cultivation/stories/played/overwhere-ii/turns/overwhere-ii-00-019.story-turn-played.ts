@@ -7,7 +7,12 @@ export const overwhereIi00019 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 19,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“I’ll put no price on a girl’s life. Anyone I can heal will be healed. Whatever you wish to contribute, I will accept, as it will allow me to help more.” I turn back to Goody. “I understand Tansy was the worst case, but are there others? I think I need a meal and a nap first, but then I should be able to help the rest. I’m happy to help animals as well, Garth has some ewes that need healing once the humans are healed.”",
+  lore: [
+    "lore/overwhere-ii-goody-brannoc",
+    "lore/overwhere-ii-keeper-anselm",
+    "lore/overwhere-ii-wendle-ford-folk",
+  ],
 } as const satisfies StoryTurnPlayed
