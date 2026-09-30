@@ -34,12 +34,13 @@ export const overwhereIv00039 = {
   ],
   issues: ['"Cut straight through, it will come down where it leans." - No Prompt'],
   lore: [
+    "lore/overwhere-iv-garrett-pell",
     "lore/overwhere-iv-ilsa-crane-2",
     "lore/overwhere-iv-nala",
     "lore/overwhere-iv-nala-2",
     "place/overwhere-iv-reeves-pasture",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-10-02T09:15:00.000Z",
 } as const satisfies StoryTurnPlayed
