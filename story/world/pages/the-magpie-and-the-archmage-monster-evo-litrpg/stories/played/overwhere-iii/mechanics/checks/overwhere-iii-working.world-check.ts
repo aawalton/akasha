@@ -61,5 +61,38 @@ export const overwhereIiiWorking = {
       decisionKind: "decision-kind/departure",
       statement: 'The reading is `{"own":2,"pull":0,"nearNode":false}`.',
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Nala's own mana is 10 at Level 1, and two more for each level after.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What Mana Weaver lends a working is the currents' mana, never kept on her page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A working spends the mana of her own its skill costs, whether it comes off or not.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Casting past her own mana is backlash: each point short costs two health.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A trained village mage has 15 to 30 mana; an Order mage far more.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Mana comes back two an hour at rest, and all of it after a night's sleep.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The System names mana as Surging, Steady, Trickling or Drained, from full down.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every change in mana is written with a line of its history.",
+    },
   ],
 } as const satisfies WorldCheck

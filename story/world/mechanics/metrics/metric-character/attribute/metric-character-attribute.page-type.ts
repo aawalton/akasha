@@ -30,7 +30,6 @@ export const metricCharacterAttribute = {
     "page-type/otherwhere-x-tier",
     "page-type/otherwhere-x-practice",
     "page-type/otherwhere-xi-attunement-level",
-    "page-type/overwhere-iii-level",
     "page-type/overwhere-ii-attribute",
   ],
 

@@ -86,5 +86,45 @@ export const overwhereIiiGrowth = {
       decisionKind: "decision-kind/departure",
       statement: "It adds `foes` as `{level, assisted}`, `deeds`, and `telling` uses this turn.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Nala starts at Level 1, as a Human with no class.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "At Level 10 a human may take a class at a Guild's advancement stone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Village folk run Level 5 to 15, city guards 30 to 55, Order mages 35 to 45.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A Pillar is past Level 100, and a very few old mages past 150.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each level raises her most health by three and her own mana by two.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The System shows a level up as `[You've reached Level N.]`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An experience page's most is a hundred times the holder's level.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Experience never shows as a number; the System says only that it was gained.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An evolution or a change of body writes the new species held.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every change in level or experience is written with a line of its history.",
+    },
   ],
 } as const satisfies WorldCheck
