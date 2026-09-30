@@ -9,4 +9,5 @@ export const otherwhereIxNala = {
   minValue: 0,
   maxValue: 410,
   history: "jsonl",
+  displayOrder: 1,
 } as const satisfies OtherwhereIxHealth

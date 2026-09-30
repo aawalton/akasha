@@ -9,4 +9,5 @@ export const otherwhereIxNala = {
   minValue: 0,
   maxValue: 392,
   history: "jsonl",
+  displayOrder: 2,
 } as const satisfies OtherwhereIxMana
