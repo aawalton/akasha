@@ -81,7 +81,7 @@ export const overwhereIGarrickPell = {
     },
     {
       fact: "For Ghost-Eye's killer Garrick stands the bath, supper and bed that night free.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
