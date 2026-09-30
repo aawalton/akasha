@@ -92,6 +92,10 @@ export const overwhereIiiTobinWick = {
         "character-other/overwhere-iii-tobin-wick",
       ],
     },
+    {
+      fact: "At the gate he vouches for Nala unasked, and says she was robbed on the road.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

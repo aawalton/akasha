@@ -14,7 +14,7 @@ export const overwhereIiiHalDunmore = {
     },
     {
       fact: "He is about forty, lean and weathered, with a drooping brown mustache and a green town tabard.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "He is a Common, a Watchman of Level 14, and has known Tobin Wick for twenty years.",
@@ -35,6 +35,10 @@ export const overwhereIiiHalDunmore = {
     {
       fact: "The gate book goes to the reeve each morning, and the reeve reads every stranger's line.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The gate guard's aura is faint, a shade brighter than Tobin's candle.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",
