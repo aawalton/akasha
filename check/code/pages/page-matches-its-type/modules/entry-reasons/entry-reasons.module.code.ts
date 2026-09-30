@@ -154,7 +154,7 @@ export function noMemberIn(slug: string): string {
   )
 }
 
-export function fieldsReading(paged: Paged, pageFor: (one: Carried) => Value | null): Fielding {
+function fieldsReading(paged: Paged, pageFor: (one: Carried) => Value | null): Fielding {
   const entried = entriedIn(paged)
   const held = new WeakMap<Carried, Opened>()
   const opened = (one: Carried): Opened => {
