@@ -40,5 +40,9 @@ export const overwhereIiiCleansingWeave = {
       fact: "Each pull sends a cold ache up the thread into her arm, and costs her 1 health.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "A seed-sized blightstone from a bite cracks with one Cleansing Weave into a speck of a glimmerstone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
