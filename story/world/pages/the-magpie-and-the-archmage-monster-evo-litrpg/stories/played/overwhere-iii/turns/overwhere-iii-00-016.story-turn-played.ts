@@ -4,10 +4,13 @@ export const overwhereIii00016 = {
   id: "01a0f1ef-3a42-715d-8311-cd4705080ce1",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-016",
+  ownLength: 151,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 16,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I finish harvesting the four in this cluster, then follow the currents to find two more to finish off.",
   beats: [
@@ -22,6 +25,6 @@ export const overwhereIii00016 = {
     "She cuts two of the glowing ones at the root and leaves the rest.",
     "Twenty frostcaps, all whole, wrapped in her shirt against the cold.",
   ],
-  lore: ["place/overwhere-iii-wrenwood"],
+  lore: ["lore/overwhere-iii-nala", "place/overwhere-iii-wrenwood"],
   endsAt: "2026-09-30T10:23:00.000Z",
 } as const satisfies StoryTurnPlayed
