@@ -120,10 +120,10 @@ spec:
           name: code-sync
           resources:
             limits:
-              memory: 1Gi
+              memory: 2Gi
             requests:
               cpu: 10m
-              memory: 64Mi
+              memory: 256Mi
           securityContext:
             allowPrivilegeEscalation: false
             capabilities:

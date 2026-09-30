@@ -17,7 +17,7 @@ export const smilingjennyWeb = {
   maxCpuMillicores: 500,
   minMemoryMb: 512,
   killMemoryMb: 512,
-  codeSync: { cachePath: "/var/smilingjenny-web-cache", minMemoryMb: 64, killMemoryMb: 1024 },
+  codeSync: { cachePath: "/var/smilingjenny-web-cache", minMemoryMb: 256, killMemoryMb: 2048 },
   manifests: "yaml",
   secrets: [
     "secret/alanwalton-secrets-handover-public-key",
