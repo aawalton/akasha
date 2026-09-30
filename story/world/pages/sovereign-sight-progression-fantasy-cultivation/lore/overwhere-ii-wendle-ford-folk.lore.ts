@@ -241,7 +241,7 @@ export const overwhereIiWendleFordFolk = {
     },
     {
       fact: "The watch swore a silver bar from its chest to whoever killed the white-eye; Dray will honour it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Reeve Dray will ask Nala to stay in the valley, and offer her the empty watch cottage by the ford.",
