@@ -91,6 +91,10 @@ export const overwhereIiGarthMarsh = {
       fact: "Seeing Nala leap from the loft unhurt, Burr's man named her Talented and gripped his crook.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Garth takes a lost, barefoot Talented stranger for a runaway, or an Aspirant who lost her road.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
