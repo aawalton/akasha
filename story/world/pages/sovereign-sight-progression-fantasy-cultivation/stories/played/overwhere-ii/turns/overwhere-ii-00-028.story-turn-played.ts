@@ -10,7 +10,7 @@ export const overwhereIi00028 = {
   position: 28,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Thank you, guess I’m more tired than I thought. We should also check the wolves for reservoirs while we can, those could be worth quite a bit if they have them.”",
   beats: [
@@ -33,12 +33,13 @@ export const overwhereIi00028 = {
     "Up the fell, the she-wolf's carcass lies dark against the heather.",
     'Garth: "The rest ran, but they hunt dusk and dawn both. Now, by lantern, or in the morning?"',
   ],
+  issues: ['"cut from behind a greymaw\'s breastbone" - What It Is'],
   lore: [
     "lore/overwhere-ii-garth-marsh",
     "lore/overwhere-ii-greymaws",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-wendle-ford-folk",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T18:42:00.000Z",
 } as const satisfies StoryTurnPlayed
