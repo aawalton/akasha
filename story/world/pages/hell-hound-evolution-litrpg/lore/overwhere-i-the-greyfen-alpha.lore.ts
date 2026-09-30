@@ -227,6 +227,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "Through the early afternoon the pack dozes, the pups play, and the watcher faces east, not south.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "With the west wind in her face the pack can't smell her anyway; muck matters once the wind turns.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
