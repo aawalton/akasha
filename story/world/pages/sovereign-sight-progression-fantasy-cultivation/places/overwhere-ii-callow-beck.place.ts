@@ -38,7 +38,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "Ebba points out the goat track to the high cwm, but has not climbed above the beck since midwinter.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Ebba gives walkers a round of goat's cheese and warns them to be down off the mountain by dusk.",
