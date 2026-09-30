@@ -1,2 +1,0 @@
-{"check":"world-check/overwhere-i-action-check","reading":{"band":"hard","bonuses":[{"from":"Dexterity 20","by":1},{"from":"unfamiliar body, day 3","by":-1}]},"dice":{"said":"1d20","sides":20,"faces":[14]},"seed":"ed0c009236efce22755e1e51a4d417e727a5c93d9c49b0e12d6f2c9c8389e418","answered":{"succeeded":true,"outcome":"cost","total":14,"target":16,"margin":-2}}
-{"check":"world-check/overwhere-i-time-passing","reading":{"from":"2026-10-01T13:04:00.000Z","minutes":26},"answered":{"endsAt":"2026-10-01T13:30:00.000Z","day":3,"light":"day"}}

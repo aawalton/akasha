@@ -1,2 +1,0 @@
-{"check":"world-check/overwhere-i-action-check","reading":{"band":"standard","bonuses":[{"from":"unfamiliar body, day 3","by":-1},{"from":"circling out of the east-facing watcher line","by":1}]},"dice":{"said":"1d20","sides":20,"faces":[3]},"seed":"be22b20721c687c4143180e7df373d12e4365acba28de0624169b78e75ffee4e","answered":{"succeeded":false,"outcome":"failure","total":3,"target":12,"margin":-9}}
-{"check":"world-check/overwhere-i-time-passing","reading":{"from":"2026-10-01T12:36:00.000Z","minutes":26},"answered":{"endsAt":"2026-10-01T13:02:00.000Z","day":3,"light":"day"}}
