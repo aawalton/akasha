@@ -30,6 +30,11 @@ export const sheetPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The skills tab lists the character's traits below its skills, once a trait is held.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "What a gain felt like belongs to the prose rather than to this sheet.",
     },
     {

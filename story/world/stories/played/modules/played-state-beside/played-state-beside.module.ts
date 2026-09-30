@@ -46,7 +46,7 @@ export const playedStateBeside = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The skills, quests, bonds, attunements and items drawn are the pages naming the character.",
+        "The skills, traits, quests, bonds, attunements and items drawn are the pages naming the character.",
     },
     {
       decisionKind: "decision-kind/departure",

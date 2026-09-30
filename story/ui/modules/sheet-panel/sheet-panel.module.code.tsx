@@ -171,6 +171,7 @@ function StatsTab({
 
 function SkillsTab({ sheet, showsBonds }: { sheet: ClientSheet; showsBonds: boolean }) {
   const skills = sheet.skills ?? []
+  const traits = sheet.traits ?? []
   const titles = sheet.titles ?? []
   return (
     <div className="flex flex-col gap-3">
@@ -201,6 +202,26 @@ function SkillsTab({ sheet, showsBonds }: { sheet: ClientSheet; showsBonds: bool
           </Rows>
         )}
       </Section>
+      {traits.length > 0 ? (
+        <Section title="Traits">
+          <Rows>
+            {[...traits]
+              .sort((a, b) => (a.name ?? "").localeCompare(b.name ?? ""))
+              .map((t, i) => (
+                <LadderRow
+                  key={t.name != null ? t.name : `trait-${i}`}
+                  name={t.name ?? ""}
+                  note={t.note}
+                  right={
+                    t.score != null ? (
+                      <span className="text-accent tabular-nums">{t.score}</span>
+                    ) : null
+                  }
+                />
+              ))}
+          </Rows>
+        </Section>
+      ) : null}
       {titles.length > 0 ? (
         <Section title="Titles">
           <div className="flex flex-wrap gap-1.5">

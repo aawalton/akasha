@@ -20,6 +20,7 @@ const NOTHING: Filed = {
   delta: {},
   attributes: {},
   skills: [],
+  traits: [],
   quests: [],
   bonds: [],
   attunements: [],
@@ -80,13 +81,14 @@ test("the pools filed are the hud, and the name heads the sheet", () => {
   })
 })
 
-test("a level, attributes, bonds, attunements and items filed are drawn on the sheet", () => {
+test("a level, attributes, traits, bonds, attunements and items filed are drawn on the sheet", () => {
   const state = stateOf(
     {
       ...NOTHING,
       level: 2,
       attributes: { MIGHT: 12 },
       skills: [{ name: "Smithing" }],
+      traits: [{ name: "Keen Nose", score: 1, note: "smells far" }],
       bonds: [{ name: "Amy", value: 130 }],
       attunements: [{ name: "Ember Affinity", value: 9 }],
       had: { worn: { Weapon: { name: "Knife" } }, carried: [{ name: "Coin" }] },
@@ -101,6 +103,7 @@ test("a level, attributes, bonds, attunements and items filed are drawn on the s
     level: 2,
     attributes: { MIGHT: 12 },
     skills: [{ name: "Smithing" }],
+    traits: [{ name: "Keen Nose", score: 1, note: "smells far" }],
     bonds: [{ name: "Amy", value: 130 }],
     affinities: [{ name: "Ember Affinity", value: 9 }],
     equipment: { Weapon: { name: "Knife" } },

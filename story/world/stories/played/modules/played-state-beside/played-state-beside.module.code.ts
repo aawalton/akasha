@@ -22,6 +22,7 @@ import { metricCharacterResource } from "akasha/story/world/mechanics/metrics/me
 import { worldQuest } from "akasha/story/world/mechanics/quests/world-quest.page-type.ts"
 import { worldRelationship } from "akasha/story/world/mechanics/relationships/world-relationship.page-type.ts"
 import { worldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.ts"
+import { characterTrait } from "akasha/story/world/mechanics/traits/character-trait/character-trait.page-type.ts"
 import {
   askedLoudly,
   reportThrown,
@@ -36,6 +37,7 @@ import {
   type Skill,
   scoresIn,
   skillsIn,
+  traitsIn,
 } from "akasha/story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.code.ts"
 import { useEffect, useState } from "react"
 
@@ -75,6 +77,8 @@ const ELEMENT_KEY = "element"
 
 const COUNTER_KEY = "counter"
 
+const TRAIT_KEY = "trait"
+
 const TURN_KEY = "turn"
 
 const MAX = "Max"
@@ -94,6 +98,7 @@ export type Filed = {
   readonly attributes: Readonly<Record<string, number>>
   readonly resources?: Readonly<Record<string, string | number>>
   readonly skills: readonly Skill[]
+  readonly traits: readonly Skill[]
   readonly quests: readonly Quest[]
   readonly bonds: readonly Counted[]
   readonly attunements: readonly Counted[]
@@ -105,6 +110,7 @@ const NOTHING_FILED: Filed = {
   delta: {},
   attributes: {},
   skills: [],
+  traits: [],
   quests: [],
   bonds: [],
   attunements: [],
@@ -200,7 +206,7 @@ function rowsOf(asked: Asked): readonly QueryRow[] {
 }
 
 async function readFiled(character: string, turn: number): Promise<Filed> {
-  const [resources, scores, holdings, quests, bonds, attunements, had] = await Promise.all([
+  const [resources, scores, holdings, quests, bonds, attunements, traits, had] = await Promise.all([
     askedLoudly({
       "page-type": metricCharacterResource.slug,
       where: { character: { is: character } },
@@ -242,15 +248,29 @@ async function readFiled(character: string, turn: number): Promise<Filed> {
       where: { character: { is: character } },
       keys: [CHARACTER_KEY, ELEMENT_KEY, RANK_KEY, COUNTER_KEY, UNREVEALED_KEY],
     }),
+    askedLoudly({
+      "page-type": characterTrait.slug,
+      where: { character: { is: character } },
+      keys: [
+        CHARACTER_KEY,
+        SLUG_KEY,
+        TITLE_KEY,
+        DESCRIPTION_KEY,
+        TRAIT_KEY,
+        RANK_KEY,
+        UNREVEALED_KEY,
+      ],
+    }),
     itemsOf(character),
   ])
   const skillRows = rowsOf(holdings)
   const bondRows = rowsOf(bonds)
   const attunementRows = rowsOf(attunements)
+  const traitRows = rowsOf(traits)
   const { titles, descriptions } = await titlesOf(
     namedIn(
-      [...skillRows, ...bondRows, ...attunementRows],
-      [SKILL_KEY, RANK_KEY, CHARACTERS_KEY, ELEMENT_KEY]
+      [...skillRows, ...bondRows, ...attunementRows, ...traitRows],
+      [SKILL_KEY, RANK_KEY, CHARACTERS_KEY, ELEMENT_KEY, TRAIT_KEY]
     )
   )
   const resourceRows = rowsOf(resources)
@@ -264,6 +284,7 @@ async function readFiled(character: string, turn: number): Promise<Filed> {
     attributes: scored.attributes,
     ...(Object.keys(held).length === 0 ? {} : { resources: held }),
     skills: skillsIn(skillRows, titles, descriptions),
+    traits: traitsIn(traitRows, titles, descriptions),
     quests: questsIn(rowsOf(quests)),
     bonds: bondsIn(bondRows, character, titles),
     attunements: attunementsIn(attunementRows, titles),
@@ -277,6 +298,7 @@ function filedNothing(filed: Filed): boolean {
     filed.level === undefined &&
     Object.keys(filed.attributes).length === 0 &&
     filed.skills.length === 0 &&
+    filed.traits.length === 0 &&
     filed.quests.length === 0 &&
     filed.bonds.length === 0 &&
     filed.attunements.length === 0 &&
@@ -290,6 +312,7 @@ function sheetOf(filed: Filed): RevealedSheet {
     ...(Object.keys(filed.attributes).length === 0 ? {} : { attributes: { ...filed.attributes } }),
     ...(filed.resources === undefined ? {} : { resources: { ...filed.resources } }),
     ...(filed.skills.length === 0 ? {} : { skills: [...filed.skills] }),
+    ...(filed.traits.length === 0 ? {} : { traits: [...filed.traits] }),
     ...(filed.bonds.length === 0 ? {} : { bonds: [...filed.bonds] }),
     ...(filed.attunements.length === 0 ? {} : { affinities: [...filed.attunements] }),
     ...(filed.had === null
