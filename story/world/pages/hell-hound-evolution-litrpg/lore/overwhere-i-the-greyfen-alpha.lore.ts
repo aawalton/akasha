@@ -187,6 +187,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "The pups tumble together some sixty yards into the pines, behind the lying pack.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Each fresh spell of spyglass watching is another easy act against the watcher catching the glint.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
