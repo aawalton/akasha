@@ -4,10 +4,13 @@ export const overwhereI00017 = {
   id: "01a0f1cb-572d-704b-b62e-d0f5a1d3a925",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-017",
+  ownLength: 386,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 17,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I go and enjoy the party and chat casually with people, listening and absorbing what they say, but not sharing much about myself.",
   beats: [
@@ -39,6 +42,7 @@ export const overwhereI00017 = {
     "lore/overwhere-i-agathe-morrow",
     "lore/overwhere-i-garrick-pell",
     "lore/overwhere-i-hessa-vane",
+    "lore/overwhere-i-nala",
     "lore/overwhere-i-rowan-coalby",
     "lore/overwhere-i-the-greyfen-alpha",
     "lore/overwhere-i-tobin-ashdown",
