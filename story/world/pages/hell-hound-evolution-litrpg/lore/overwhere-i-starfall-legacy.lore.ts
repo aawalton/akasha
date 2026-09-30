@@ -150,7 +150,7 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "An air-and-earth weave kicks the ground back under each stride: a horse's gallop on firm ground.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "On marsh the air-and-earth stride sinks and slows to a fast run.",
