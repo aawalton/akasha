@@ -32,5 +32,17 @@ export const overwhereIiCallowBeck = {
       fact: "The beck at Callow Beck has run faintly salt since midwinter.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ebba sizes up a stranger in silence, then talks freely to anyone the Reeve sends.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ebba points out the goat track to the high cwm, but has not climbed above the beck since midwinter.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ebba gives walkers a round of goat's cheese and warns them to be down off the mountain by dusk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
