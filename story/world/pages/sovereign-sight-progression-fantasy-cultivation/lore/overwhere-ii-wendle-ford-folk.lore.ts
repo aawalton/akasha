@@ -223,5 +223,9 @@ export const overwhereIiWendleFordFolk = {
       fact: "Pim Sallow, sixty and sharp-tongued, lives alone by the carters' yard at the Ford's south end.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Pim's rot is small but old, a grey swelling in her palm; it takes a quarter hour to draw.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
