@@ -258,7 +258,7 @@ export const overwhereIiiCorruption = {
     },
     {
       fact: "[Cleansing Weave – At [Basic] level, draw holy current through blight to unpick it.]",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",
