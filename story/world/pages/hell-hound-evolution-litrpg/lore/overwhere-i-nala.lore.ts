@@ -213,5 +213,9 @@ export const overwhereINala = {
       fact: "Stone shaped and held by a working falls apart the moment the working ends.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Stones she sets to rest on one another stay put after the working ends, as dry-stone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
