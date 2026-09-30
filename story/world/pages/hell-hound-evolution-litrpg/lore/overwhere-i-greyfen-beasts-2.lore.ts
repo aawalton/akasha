@@ -60,5 +60,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "Alder roots wrap the third den on every side; its only open way is the tunnel down to the water.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "The third den is dry; water fills only its tunnel, from the channel mouth up to the den's lip.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
