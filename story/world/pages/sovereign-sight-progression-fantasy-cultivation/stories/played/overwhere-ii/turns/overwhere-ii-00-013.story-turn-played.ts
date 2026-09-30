@@ -4,13 +4,14 @@ export const overwhereIi00013 = {
   id: "01a0f1b6-1978-7077-b7fa-2667a00a61b6",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-013",
+  cover: "image/image-3847897f9934cd33",
   ownLength: 384,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 13,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Hmm, I don’t think the iron is stopping it, let’s try burning. If that doesn’t do it, I’ll pull it back into the pot, and we’ll bring it with us.”",
   beats: [
@@ -51,6 +52,6 @@ export const overwhereIi00013 = {
     "place/overwhere-ii-whitecombs",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T09:44:00.000Z",
 } as const satisfies StoryTurnPlayed
