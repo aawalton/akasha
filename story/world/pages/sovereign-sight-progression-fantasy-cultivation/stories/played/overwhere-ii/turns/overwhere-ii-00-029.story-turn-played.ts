@@ -10,7 +10,7 @@ export const overwhereIi00029 = {
   position: 29,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "“Leave it for morning, I have some things to try then.” In the morning, I check on the wolves and if the bodies are still there, I first see if I can use my Talent to pull the reservoir and push the rest of the wolf to separate them. If that doesn’t work, use it as an exercise, working on it while I saw them free with a knife.",
   beats: [
