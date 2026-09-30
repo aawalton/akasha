@@ -4,13 +4,14 @@ export const overwhereIii00010 = {
   id: "01a0f1a8-9b77-7481-a296-3a9b3593dd58",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-010",
+  cover: "image/image-4f009dffabb2e36e",
   ownLength: 209,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 10,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I fill out the card honestly and watch for her reaction.",
   beats: [
     "Nala takes the pen and fills in the form honestly, line by line.",
@@ -35,6 +36,6 @@ export const overwhereIii00010 = {
     "place/overwhere-iii-merrowgate-guild-post",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-30T07:12:00.000Z",
 } as const satisfies StoryTurnPlayed
