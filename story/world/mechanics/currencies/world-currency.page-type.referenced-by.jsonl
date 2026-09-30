@@ -1,8 +1,12 @@
 {"propertySlug":"import","fileName":"world-currency.page-type.ts","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/beware-of-chicken/mechanics/currencies/otherwhere-iv-coin.world-currency.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/breaker-of-horizons/mechanics/currencies/otherwhere-viii-coin.world-currency.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/currencies/otherwhere-v-coin.world-currency.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/god-of-trash/mechanics/currencies/otherwhere-vii-coin.world-currency.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/mechanics/currencies/overwhere-i-coin.world-currency.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/currencies/otherwhere-ix-coin.world-currency.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/mechanics/currencies/otherwhere-xi-coin.world-currency.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/twelve-steps-to-transcendence-a-skill-grinding-litrpg/mechanics/currencies/otherwhere-x-coin.world-currency.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/wolf-girl-evolution-tails-teeth-and-too-much-food/mechanics/currencies/otherwhere-vi-coin.world-currency.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
 {"propertySlug":"target-page-type","path":"story/world/mechanics/metrics/metric-character/currency/properties/purse-currency.relation-property.ts","id":"01a0f1da-0622-7f28-8b3f-115df94a9eeb"}
