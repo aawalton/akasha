@@ -255,6 +255,10 @@ export const overwhereITheGreyfen = {
       fact: "An earth working draws the two knots out of the root-bound soil in about a minute; an easy act.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Drawing the knots out is one earth working at the Surge cost.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
