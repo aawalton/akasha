@@ -4,10 +4,13 @@ export const overwhereIv00041 = {
   id: "01a0f45e-d715-7b49-b4a2-52138bd79241",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-041",
+  ownLength: 134,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 41,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“I’ve been working hard on a spear skill. It’s specialized for armor piercing, but turns out that works great on hardwood. What is hardwood but the armor of a tree?” I sat with a smirk. Anything else you need from me? Need the branches trimmed or the trunk chopped up",
   beats: [
@@ -20,6 +23,6 @@ export const overwhereIv00041 = {
     'He stops at the first of four thick limbs, each a foot through. "And these off, clean, all four."',
     "\"There's my axe on the sledge, if your spear wants a rest. My back's past oak limbs, girl.\"",
   ],
-  lore: ["place/overwhere-iv-reeves-pasture"],
+  lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2", "place/overwhere-iv-reeves-pasture"],
   endsAt: "2026-10-02T09:37:00.000Z",
 } as const satisfies StoryTurnPlayed
