@@ -1,1 +1,2 @@
 {"check":"world-check/overwhere-iv-needs","reading":{"hoursSinceMeal":1,"hoursSinceDrink":1,"hoursAwake":2.5,"cold":false},"answered":{"hunger":"fed","thirst":"quenched","fatigue":"rested","chilled":false,"penalty":0}}
+{"check":"world-check/overwhere-iv-action-check","reading":{"band":"standard","bonuses":[{"from":"an honest reason with a dead mage behind it","by":1}]},"dice":{"said":"1d20","sides":20,"faces":[10]},"seed":"77deebf969487f97846db002d718ad05d32da27d0474af9879eeb2391d0e76b4","answered":{"succeeded":true,"outcome":"cost","total":11,"target":12,"margin":-1}}
