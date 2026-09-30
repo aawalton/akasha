@@ -10,7 +10,7 @@ export const overwhereIi00046 = {
   position: 46,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“It just fit” I shrug. I check my Water level to see if I could do the other arm now. If so, I do.",
   beats: [
@@ -32,6 +32,6 @@ export const overwhereIi00046 = {
     'Anselm: "You bled. Were you pushing too hard?"',
   ],
   lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2", "lore/overwhere-ii-undertow"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T16:32:00.000Z",
 } as const satisfies StoryTurnPlayed
