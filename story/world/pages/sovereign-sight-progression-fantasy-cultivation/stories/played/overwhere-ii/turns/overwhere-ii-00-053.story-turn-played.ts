@@ -32,6 +32,10 @@ export const overwhereIi00053 = {
     "She wakes at dawn on day four, rested and whole, her mouth a little dry.",
     "Out on the green, stalls are going up for market day, and a carrier's cart stands by the Lantern.",
   ],
+  issues: [
+    '"Both legs shine faintly pearly" - sheen fades in an hour; left leg was done an hour before',
+  ],
   lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2", "place/overwhere-ii-wendle-ford"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-02T06:00:00.000Z",
 } as const satisfies StoryTurnPlayed
