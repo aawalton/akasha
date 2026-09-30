@@ -81,7 +81,7 @@ export const overwhereISootjaw = {
     },
     {
       fact: "Fenwatch pays a bounty of one gold and the pelt to whoever kills it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "It is an ordinary danger of the march; loosed raw element at full strength would end it.",
