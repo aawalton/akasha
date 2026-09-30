@@ -121,7 +121,7 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Osric leaves Fenwatch for Wendlow on the morning of day 5.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
