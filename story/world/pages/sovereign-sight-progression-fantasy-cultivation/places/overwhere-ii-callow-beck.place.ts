@@ -10,7 +10,7 @@ export const overwhereIiCallowBeck = {
   facts: [
     {
       fact: "Callow Beck is the highest farm on the Whitecombs side, a longhouse where a beck leaves the snow.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Ebba Callow, sixty and hard as a gatepost, keeps Callow Beck's goats with her two grandsons.",
