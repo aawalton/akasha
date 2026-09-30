@@ -60,7 +60,7 @@ export const overwhereIiGreymaws = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
-      fact: "At sundown on day two, greymaws howled from the screes above Marsh Croft, one answering closer.",
+      fact: "At sundown on day one, greymaws howled from the screes above Marsh Croft, one answering closer.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
