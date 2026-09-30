@@ -86,7 +86,7 @@ export const overwhereIiUndertow = {
     },
     {
       fact: "Pushing one thing while pulling another at once drives Undertow to its limit; she holds it moments.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Holding push and pull at once through a fight widens her Scope: Undertow can then do both at will.",
