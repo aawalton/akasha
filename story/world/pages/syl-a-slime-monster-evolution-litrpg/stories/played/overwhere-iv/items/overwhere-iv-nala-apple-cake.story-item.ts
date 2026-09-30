@@ -1,12 +1,12 @@
 import type { StoryItem } from "akasha/story/world/mechanics/items/story-item/story-item.page-type.types.ts"
 
-export const overwhereIvNalaSlimeCores = {
-  id: "01a0f1ce-3788-7a23-ad6a-bc76196a6d01",
+export const overwhereIvNalaAppleCake = {
+  id: "01a0f3ac-54f8-7301-aa4b-c9324b45d66f",
   type: "page-type/story-item",
-  slug: "overwhere-iv-nala-slime-cores",
-  title: "Slime Cores",
+  slug: "overwhere-iv-nala-apple-cake",
+  title: "Apple Cake",
   story: "story-played/overwhere-iv",
   character: "character-player/overwhere-iv-nala",
-  quantity: 47,
-  description: "Dull grey slime cores clinking in her pockets, 3 copper each at the hall.",
+  quantity: 1,
+  description: "A slab of Hobb's apple cake wrapped in a cloth.",
 } as const satisfies StoryItem
