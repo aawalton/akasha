@@ -7,7 +7,13 @@ export const overwhereIii00034 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 34,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "Since I have enough money for another night or two, I decide to focus on physical exercise, running laps around the village and doing body weight exercises until my mana refills, then go to heal Garrick again.",
+  lore: [
+    "lore/overwhere-iii-garrick-dole",
+    "lore/overwhere-iii-maud-ferrow",
+    "lore/overwhere-iii-the-system",
+    "place/overwhere-iii-merrowgate",
+  ],
 } as const satisfies StoryTurnPlayed
