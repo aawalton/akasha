@@ -9,5 +9,6 @@ export const overwhereIiNala = {
   minValue: 0,
   maxValue: 30,
   history: "jsonl",
+  displayOrder: 1,
   unrevealed: true,
 } as const satisfies OverwhereIiVigour

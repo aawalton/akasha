@@ -9,5 +9,6 @@ export const overwhereIiNala = {
   minValue: 0,
   maxValue: 1000,
   history: "jsonl",
+  displayOrder: 2,
   unrevealed: true,
 } as const satisfies OverwhereIiReservoir
