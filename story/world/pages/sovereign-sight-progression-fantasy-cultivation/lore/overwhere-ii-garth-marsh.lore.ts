@@ -37,7 +37,7 @@ export const overwhereIiGarthMarsh = {
     },
     {
       fact: "Garth sent to Varrow Keep for help for Wren and has had no answer.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "He would give anything he has, and bind himself to anyone, to save Wren.",
