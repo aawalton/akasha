@@ -4,13 +4,14 @@ export const overwhereIi00054 = {
   id: "01a0f46a-7af9-7a05-b4fa-ee8c034d5c4b",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-054",
+  cover: "image/image-63db49cd07ab9d76",
   ownLength: 430,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 54,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I get supplies for my scouting this time, food and water, then work my way up to where I need to be",
   beats: [
@@ -50,6 +51,11 @@ export const overwhereIi00054 = {
     "place/overwhere-ii-whitecombs",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-02T13:30:00.000Z",
 } as const satisfies StoryTurnPlayed
