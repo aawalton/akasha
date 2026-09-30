@@ -28,5 +28,9 @@ export const overwhereIiWatchCottage = {
       fact: "The watch cottage has a rope bed, a table, a cold hearth and the dead watchman's few pots.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Dray lets Nala sleep in the watch cottage while she works for him, and asks nothing for it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
