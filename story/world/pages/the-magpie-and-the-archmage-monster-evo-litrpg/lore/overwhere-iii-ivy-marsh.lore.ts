@@ -26,7 +26,11 @@ export const overwhereIiiIvyMarsh = {
     },
     {
       fact: "Purple patches have crept from her hand halfway to her elbow.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-ivy-marsh"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-ivy-marsh",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "She is proud and hates being tended, and jokes through the pain.",
