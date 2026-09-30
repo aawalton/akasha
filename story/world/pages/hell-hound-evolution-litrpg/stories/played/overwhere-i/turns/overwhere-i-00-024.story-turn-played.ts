@@ -11,7 +11,7 @@ export const overwhereI00024 = {
   position: 24,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I pick up the tusks and bring them back to town for the bounty.",
   beats: [
     "Nala picks up the tusks, one in each hand, and sets off north through the alder carr.",
@@ -36,6 +36,11 @@ export const overwhereI00024 = {
     "place/overwhere-i-fenwatch",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+  ],
   endsAt: "2026-09-30T08:29:00.000Z",
 } as const satisfies StoryTurnPlayed
