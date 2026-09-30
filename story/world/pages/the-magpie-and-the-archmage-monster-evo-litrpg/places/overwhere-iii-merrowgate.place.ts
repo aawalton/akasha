@@ -217,7 +217,7 @@ export const overwhereIiiMerrowgate = {
     },
     {
       fact: "Folk stare at a woman running the wall in a cloak; children trail her a lap, laughing.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Townsfolk who heard Bet's tale nod to the red-haired healer, and some ask after sick kin.",
