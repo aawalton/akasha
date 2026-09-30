@@ -40,5 +40,13 @@ export const overwhereIiiDunstanHarrow = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "The cook offered Nala five copper apiece for her three dead antlered rabbits.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-dunstan-harrow",
+      ],
+    },
   ],
 } as const satisfies Lore
