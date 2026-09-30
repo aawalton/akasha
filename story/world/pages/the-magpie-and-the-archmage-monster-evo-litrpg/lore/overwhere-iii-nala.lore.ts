@@ -338,6 +338,14 @@ export const overwhereIiiNala = {
         "character-other/overwhere-iii-dunstan-harrow",
       ],
     },
+    {
+      fact: "Nala dug the stones from her two fresh rabbits, then sold Dunstan all three for fifteen copper.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-dunstan-harrow",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

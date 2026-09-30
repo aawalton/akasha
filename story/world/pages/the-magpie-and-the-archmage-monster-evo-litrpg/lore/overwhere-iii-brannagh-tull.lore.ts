@@ -32,6 +32,14 @@ export const overwhereIiiBrannaghTull = {
       fact: "She trades in old stories and will tell them for honest help in her garden.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Brannagh will buy up to forty more frostcaps this week at her shop, a copper each.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
