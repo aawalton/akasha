@@ -40,5 +40,9 @@ export const overwhereIiTarnScrees = {
       fact: "The den cleft is narrow; no more than two greymaws can come at anyone in it at once.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "The four greymaws killed in the den lie where they fell, already stiffening in the cold cleft.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
