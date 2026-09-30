@@ -385,7 +385,11 @@ export const overwhereIiiBrannaghTull = {
     },
     {
       fact: "She offers to brew the mana draught with Nala: her honey and pot; Nala's antler, frostcap and mana.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Her mother held the crossroads shrine gives back what a day took, to those who rest there.",
