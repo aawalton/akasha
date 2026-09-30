@@ -243,5 +243,9 @@ export const overwhereIiGreymaws = {
       fact: "Flies crawl on a greymaw carcass, drawn by the reek, but feed on none of it and lay no eggs.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "All five greymaws Nala speared in the den and by the tarn have chambers cracked through.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
