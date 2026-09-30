@@ -272,6 +272,7 @@ export const overwhereIiiNala = {
         "lore-disclosure/game-master",
         "character-player/overwhere-iii-nala",
         "character-other/overwhere-iii-marda-hesk",
+        "character-other/overwhere-iii-brannagh-tull",
       ],
     },
     {
