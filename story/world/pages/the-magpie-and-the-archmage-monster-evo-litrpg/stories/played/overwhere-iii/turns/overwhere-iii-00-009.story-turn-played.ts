@@ -4,13 +4,14 @@ export const overwhereIii00009 = {
   id: "01a0f1a0-608f-78f4-928c-c5454d926ad6",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-009",
+  cover: "image/image-8846175f37ecf39b",
   ownLength: 296,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 9,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I go in. “Do I need to register to take on a task from the board or can I just return when it is complete? I’m looking at gathering frostcap mushrooms. Also, anything you could tell me about them or the area where they are found would be appreciated.”",
   beats: [
@@ -43,6 +44,6 @@ export const overwhereIii00009 = {
     "place/overwhere-iii-wrenwood",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-30T07:07:00.000Z",
 } as const satisfies StoryTurnPlayed
