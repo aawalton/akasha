@@ -10,7 +10,7 @@ export const overwhereIv00016 = {
   position: 16,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“Why? What is the threat? I can’t guard against an unknown.”",
   beats: [
     '"Why?" Nala whispers back. "What is the threat? I can\'t guard against an unknown."',
@@ -28,6 +28,6 @@ export const overwhereIv00016 = {
     '"I know he\'s dead."',
   ],
   lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-oswin-pike"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T19:35:00.000Z",
 } as const satisfies StoryTurnPlayed
