@@ -78,7 +78,11 @@ export const overwhereIvIlsaCrane2 = {
     },
     {
       fact: "No raid came overnight; the board holds slimes, wolves, Selby's herbs and east-road guards.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
     },
     {
       fact: "Millbrook has no bookseller; its few books are dear, and most sit on the shrine's shelf.",
@@ -102,11 +106,7 @@ export const overwhereIvIlsaCrane2 = {
     },
     {
       fact: "Ilsa would point Nala to Sister Anwen, who keeps the shrine's books.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iv-ilsa-crane",
-        "character-player/overwhere-iv-nala",
-      ],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
     },
   ],
 } as const satisfies Lore
