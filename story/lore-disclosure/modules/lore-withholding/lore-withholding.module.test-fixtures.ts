@@ -53,7 +53,7 @@ export const WORLD_ABOUT = "world/held"
 
 export const TOLD_AT = "story/world/pages/held/lore/told.lore.ts"
 
-export const STORY_AT = "story/world/pages/held/stories/played/held/held.story-played.ts"
+const STORY_AT = "story/world/pages/held/stories/played/held/held.story-played.ts"
 
 const STORY_TYPE = "story-played"
 
