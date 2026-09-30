@@ -100,5 +100,9 @@ export const overwhereIStarfallLegacy = {
       fact: "A blast of fire-and-air weave is a starfall blow at the legacy's full force, as fire.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Reaching for water in a living body finds nothing to grip, like a locked door; a few seconds go.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
