@@ -10,7 +10,7 @@ export const overwhereIi00030 = {
   position: 30,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I was with Garth and then go present the results to the Reeve",
   beats: [
     "Nala eats porridge with Garth and Wren at the table and drinks two cups of water straight off.",
@@ -34,6 +34,6 @@ export const overwhereIi00030 = {
     "lore/overwhere-ii-wendle-ford-folk",
     "place/overwhere-ii-wendle-ford",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T07:25:00.000Z",
 } as const satisfies StoryTurnPlayed
