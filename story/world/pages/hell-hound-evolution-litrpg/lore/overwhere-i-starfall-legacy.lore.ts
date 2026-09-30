@@ -224,5 +224,9 @@ export const overwhereIStarfallLegacy = {
       fact: "A grooved slug flung with spinning air flies true to about 100 yards and carries about 200.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A spun slug is easy within 50 yards, moderate to 100, hard past that; it pierces 1 point of ward.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
