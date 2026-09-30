@@ -308,5 +308,9 @@ export const overwhereIiTalentsAndScope = {
       fact: "Shadow figures with whirlpool chests have been seen within a Vestige.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Folk here call someone whose body does more than a body should Talented, and some are wary of it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
