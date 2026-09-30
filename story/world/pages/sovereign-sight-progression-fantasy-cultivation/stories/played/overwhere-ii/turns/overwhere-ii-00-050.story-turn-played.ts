@@ -10,7 +10,7 @@ export const overwhereIi00050 = {
   position: 50,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Either is fine, I’ll learn what anyone can teach me. And now I think I need an early night’s sleep. I have a hunt in the morning.” I take my leave and go sleep in the empty cabin, then gear up in the morning and start scouting.",
   beats: [
@@ -38,7 +38,7 @@ export const overwhereIi00050 = {
     "Once the rock trembles underfoot, a long low shudder, like thunder felt rather than heard.",
     "By noon she tops the notch into the Callow cwm, a bowl of rock just under the snow line.",
     "A black pool lies in the bowl, thirty paces across, free of ice, ringed with grey salt crust.",
-    "The wind off it smells of the sea, a thousand miles from any sea.",
+    "The wind off it smells of the sea, two days from any sea.",
     "Her well stirs and leans toward the pool, the way it leaned toward Hollow Tarn, but weaker.",
     "Nala spots them before they spot her: two goats grazing on the salt by the water's edge.",
     "They are grey-scaled like fish, and their horns are rough and branching like coral.",
