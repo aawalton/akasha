@@ -303,6 +303,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "Wet, a reedlurker's hide wards 3 against fire and heat, against 1 for blows.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "On land a reedlurker covers three yards in about six seconds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
