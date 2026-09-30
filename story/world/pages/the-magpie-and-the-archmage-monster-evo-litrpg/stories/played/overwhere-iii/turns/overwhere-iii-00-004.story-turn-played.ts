@@ -32,5 +32,6 @@ export const overwhereIii00004 = {
     '"No papers, I\'d guess. Name, lass, and your business in Merrowgate. It goes in the book."',
   ],
   lore: ["lore/overwhere-iii-nala", "lore/overwhere-iii-tobin-wick"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T17:16:00.000Z",
 } as const satisfies StoryTurnPlayed
