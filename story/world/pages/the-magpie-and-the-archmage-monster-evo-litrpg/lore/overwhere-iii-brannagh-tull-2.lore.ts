@@ -55,7 +55,11 @@ export const overwhereIiiBrannaghTull2 = {
     },
     {
       fact: "Her mother said a pot of mana draught gives back about three times the mana poured into it.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Her mother poured into the pot at day's end, from mana a night's sleep would have filled anyway.",
