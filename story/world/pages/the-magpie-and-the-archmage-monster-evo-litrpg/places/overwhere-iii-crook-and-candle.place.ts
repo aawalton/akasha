@@ -72,6 +72,10 @@ export const overwhereIiiCrookAndCandle = {
       fact: "Bet gives Nala the same room under the eaves; the night passes quiet but for the wind.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
     },
+    {
+      fact: "Frost comes hard tonight, and by morning it lies thick and white on every roof in town.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
