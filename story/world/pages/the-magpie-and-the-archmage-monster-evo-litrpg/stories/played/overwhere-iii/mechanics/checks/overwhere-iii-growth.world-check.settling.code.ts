@@ -54,13 +54,21 @@ export function settled(reading: unknown): Settled {
   const turn = held.data
   const topRank = overwhereIiiManaWeaver.ranks.length
   if (turn.rank > topRank) return { refused: `a rank past ${topRank} is no rank of the trait` }
-  const fromFoes = turn.foes.reduce((sum, foe) => sum + foeExperience(foe, turn.level), 0)
-  const gained = fromFoes + turn.deeds * PER_DEED * turn.level
-  let experience = turn.experience + gained
+  const earnings = [
+    ...turn.foes.map((foe) => (at: number) => foeExperience(foe, at)),
+    ...Array.from({ length: turn.deeds }, () => (at: number) => PER_DEED * at),
+  ]
+  let gained = 0
+  let experience = turn.experience
   let level = turn.level
-  while (experience >= PER_LEVEL * level) {
-    experience -= PER_LEVEL * level
-    level += 1
+  for (const earning of earnings) {
+    const earned = earning(level)
+    gained += earned
+    experience += earned
+    while (experience >= PER_LEVEL * level) {
+      experience -= PER_LEVEL * level
+      level += 1
+    }
   }
   const perRank = overwhereIiiManaWeaver.rankUses ?? 1
   let uses = turn.uses + turn.telling

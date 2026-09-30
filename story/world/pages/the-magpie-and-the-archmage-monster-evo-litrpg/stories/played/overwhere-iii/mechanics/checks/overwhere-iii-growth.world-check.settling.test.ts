@@ -42,6 +42,34 @@ test("a deed gives twenty times her level", () => {
   expect(settled({ ...FRESH, level: 3, deeds: 1 })).toHaveProperty("answered.gained", 60)
 })
 
+test("a deed after a foe lifts her gives twenty times the level the foe lifted her to", () => {
+  expect(settled({ ...FRESH, foes: [{ level: 12 }], deeds: 1 })).toHaveProperty("answered", {
+    gained: 160,
+    experience: 60,
+    level: 2,
+    levelsGained: 1,
+    rank: 1,
+    uses: 0,
+    ranked: false,
+    fullPotential: false,
+  })
+})
+
+test("a foe after a level gained is weighed against the level she reached", () => {
+  expect(
+    settled({ ...FRESH, level: 9, experience: 880, foes: [{ level: 5 }, { level: 5 }] })
+  ).toHaveProperty("answered", {
+    gained: 60,
+    experience: 40,
+    level: 10,
+    levelsGained: 1,
+    rank: 1,
+    uses: 0,
+    ranked: false,
+    fullPotential: false,
+  })
+})
+
 test("enough telling uses raise the trait a rank", () => {
   expect(settled({ ...FRESH, telling: PER_RANK })).toHaveProperty("answered.rank", 2)
 })

@@ -37,6 +37,11 @@ export const overwhereIiiGrowth = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Foes in order, then deeds, each settle at the level what came before them in the turn left.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A slain monster of Level 1 to 9 yields one glimmerstone, 10 to 19 two, 20 to 39 three, 40 up five.",
     },
     {
