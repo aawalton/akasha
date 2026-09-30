@@ -133,7 +133,7 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "Anselm knows Carrowmouth thaumists buy Aberrant chambers; none in the valley would.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The carrier who takes Anselm's letters comes on market day, in two days, and could carry chambers.",
