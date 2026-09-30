@@ -230,7 +230,7 @@ export const overwhereIiiAdventurersGuild = {
     },
     {
       fact: "A failed quest costs only the Guild's regard; an abandoned one must be told at the desk.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "A Copper ring shows its wearer's Guild Profile and quest windows, and nothing of beasts.",
