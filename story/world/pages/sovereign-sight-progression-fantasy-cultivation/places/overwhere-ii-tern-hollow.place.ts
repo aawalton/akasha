@@ -91,5 +91,9 @@ export const overwhereIiTernHollow = {
       fact: "The loft floor is about ten feet above the barn's flagstones, reached by a ladder.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The man with Burr calls the barn where Nala woke Aske's barn.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place
