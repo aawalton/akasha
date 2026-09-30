@@ -11,4 +11,5 @@ export const overwhereIv00031 = {
   action:
     "I cast my new spell at the runner, aiming for where its neck will be when the spell hits.",
   lore: ["place/overwhere-iv-the-tangle"],
+  endsAt: "2026-10-01T13:13:00.000Z",
 } as const satisfies StoryTurnPlayed
