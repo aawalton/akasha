@@ -324,6 +324,10 @@ export const overwhereIiNala = {
       fact: "Pushing one thing while pulling another at once drives Undertow to its limit; she holds it moments.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Holding push and pull at once through a fight widens her Scope: Undertow can then do both at will.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
