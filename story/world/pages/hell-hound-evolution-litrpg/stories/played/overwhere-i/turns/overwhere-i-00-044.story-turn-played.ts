@@ -4,10 +4,13 @@ export const overwhereI00044 = {
   id: "01a0f3e4-5e9e-706d-b669-94eb9bc3bf2c",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-044",
+  ownLength: 419,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 44,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I gather appropriate sized stones and spend the afternoon creating as many rifled bullets as my mana will allow and as I can conveniently carry and store them in my pack. Then I can back to the inn for the night. In the morning I pick up my boots then start heading toward the wolves. On the way, I use my mana regen to practice scouting techniques, focusing on combinations of air, fire, and water to create lensing effects to see much longer distances. When I get close enough to have a chance of seeing the wolves, I use my best lensing effects to watch for them from a distance, only slowly moving forward until I see them.",
   beats: [
@@ -42,6 +45,8 @@ export const overwhereI00044 = {
     "Sixty slugs in her pack, 160 mana of 268, and the pack six hundred yards off, unaware of her.",
   ],
   lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
     "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-the-greyfen-alpha",
     "place/overwhere-i-the-greyfen",
