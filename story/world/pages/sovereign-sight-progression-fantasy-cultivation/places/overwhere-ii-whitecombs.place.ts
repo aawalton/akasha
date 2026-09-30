@@ -113,7 +113,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "The split cliff and fled den are sure word: the midwinter quakes shook the greymaws out.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "At the split crag Nala's well feels a slow, vast pull from far below, a tide under the mountain.",
