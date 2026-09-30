@@ -87,6 +87,10 @@ export const overwhereIiGoodyBrannoc = {
       fact: "Goody has asked Nala, whoever she is, to come to the mill now to Tansy Horne.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Goody's Knack feels Nala's drawing as gooseflesh and a cold sea-smell filling the room.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

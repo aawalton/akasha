@@ -272,6 +272,18 @@ export const overwhereIiNala = {
       fact: "Goody Brannoc vouched for Nala to Sedge Horne as the one who drew the rot out of Wren.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Threading Tansy's rot for an hour drives Undertow's finesse to its limit for the first time.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "An hour of fine drawing leaves Nala clear-headed but ravenous, as after a long day's work.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Undertow's first widening lets her draw from anything in its reach, no longer only what she touches.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

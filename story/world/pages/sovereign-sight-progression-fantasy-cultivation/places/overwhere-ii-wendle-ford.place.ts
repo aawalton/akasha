@@ -88,5 +88,9 @@ export const overwhereIiWendleFord = {
       fact: "Horne's mill is a big stone mill with a slate-hung house joined on, the finest in the valley.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "The Horne kitchen keeps a hot iron range lit all day, below Tansy's room.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
