@@ -190,7 +190,11 @@ export const overwhereIiiBrannaghTull = {
     },
     {
       fact: "The currents in her back room are thin and green, drawn to her herbs, with no white-gold.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
   secrets: "jsonl",
