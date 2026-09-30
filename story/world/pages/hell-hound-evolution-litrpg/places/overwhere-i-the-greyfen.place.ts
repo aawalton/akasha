@@ -263,6 +263,10 @@ export const overwhereITheGreyfen = {
       fact: "The two knots are thumb-joint crystals, pale blue, cold, faintly aglow in shade.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Held, the two pale blue crystals hum faintly against Nala's mana.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
