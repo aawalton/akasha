@@ -4,6 +4,7 @@ export const overwhereIi00045 = {
   id: "01a0f40d-e1db-7b81-a129-cc345d98ce22",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-045",
+  cover: "image/image-f0533e7bebd0acfa",
   ownLength: 291,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
@@ -45,6 +46,6 @@ export const overwhereIi00045 = {
     "lore/overwhere-ii-undertow",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-30T16:15:00.000Z",
 } as const satisfies StoryTurnPlayed
