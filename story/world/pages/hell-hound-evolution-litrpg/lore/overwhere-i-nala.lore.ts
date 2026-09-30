@@ -245,5 +245,9 @@ export const overwhereINala = {
       fact: "She reads the common script as easily as she speaks the tongue, without knowing how.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Nala spent the night of day one in a small guest room at the Tarred Stag, on the village purse.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore

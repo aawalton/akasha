@@ -83,5 +83,9 @@ export const overwhereIWendlow = {
       fact: "A stranger with no lord, papers or kin would be noticed in Wendlow and asked about.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Wendlow, three days east of Fenwatch, has the bounty Board the Fenwatch slate copies from.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Place
