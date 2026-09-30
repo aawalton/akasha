@@ -7,6 +7,5 @@ export const overwhereIvNalaStoreBoots = {
   title: "Store Boots",
   story: "story-played/overwhere-iv",
   character: "character-player/overwhere-iv-nala",
-  slot: "item-slot/feet",
   description: "Old leather boots made for a man's feet, rags stuffed in the toes to fit her.",
 } as const satisfies StoryItem
