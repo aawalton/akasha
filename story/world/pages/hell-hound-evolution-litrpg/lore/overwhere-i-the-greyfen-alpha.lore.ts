@@ -76,6 +76,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "Its bounty is paid only at Antler Hall in Wendlow, on its head, after Grete Holm's Analyze.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At Level 21 Ghost-Eye is a foe far beyond Nala at Level 5; the Surge easing does not reach it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
