@@ -7,6 +7,7 @@ export const overwhereIii00002 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 2,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action: "“Okay, isekai protocol. Status? System?”",
+  lore: ["lore/overwhere-iii-nala"],
 } as const satisfies StoryTurnPlayed
