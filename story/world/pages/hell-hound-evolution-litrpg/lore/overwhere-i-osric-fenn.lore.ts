@@ -77,19 +77,35 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Osric takes Nala's two silver gladly; he never turns down coin for talk.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
     {
       fact: "Osric says Wendlow alchemists grind drake-pearls into night-sight draughts.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
     {
       fact: "Osric says a mage can drain a drake-pearl like a fat crystal, and calls that burning gold.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
     {
       fact: "Osric won't say what an alchemist pays, and lifts his offer to two gold and five silver.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
   ],
   secrets: "jsonl",
