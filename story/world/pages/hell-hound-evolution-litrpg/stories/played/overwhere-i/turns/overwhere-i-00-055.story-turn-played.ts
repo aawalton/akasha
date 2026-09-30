@@ -20,6 +20,7 @@ export const overwhereI00055 = {
     "They are cold to hold, and in the shade of the roots they glow faintly.",
     "Held in her palm, each one hums faintly against the mana inside her.",
   ],
+  issues: ['"from drowned pine roots" - What It Is'],
   lore: [
     "lore/overwhere-i-fenwatch-2",
     "lore/overwhere-i-nala",
@@ -30,5 +31,6 @@ export const overwhereI00055 = {
     "place/overwhere-i-fenwatch",
     "place/overwhere-i-the-greyfen",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-01T13:57:00.000Z",
 } as const satisfies StoryTurnPlayed
