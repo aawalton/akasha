@@ -4,13 +4,14 @@ export const overwhereIi00035 = {
   id: "01a0f397-39c7-7d23-8672-3721e5275243",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-035",
+  cover: "image/image-56e9707fe655f831",
   ownLength: 210,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 35,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“You sure? I already bested the alpha with her pack. The stragglers are no threat to me on their own. I would hate to injure you without need.”",
   beats: [
@@ -34,6 +35,11 @@ export const overwhereIi00035 = {
     "lore/overwhere-ii-undertow",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T08:24:00.000Z",
 } as const satisfies StoryTurnPlayed
