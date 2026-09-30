@@ -31,11 +31,13 @@ export const overwhereIii00017 = {
     'She points her cane at the bench. "Sit. We\'re talking about the blight."',
   ],
   lore: [
+    "lore/overwhere-iii-adventurers-guild",
     "lore/overwhere-iii-marda-hesk",
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-wrenmark-beasts",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-09-30T11:58:00.000Z",
 } as const satisfies StoryTurnPlayed
