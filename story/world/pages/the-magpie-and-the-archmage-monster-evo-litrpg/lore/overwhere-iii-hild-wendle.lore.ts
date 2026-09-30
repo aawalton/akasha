@@ -51,5 +51,14 @@ export const overwhereIiiHildWendle = {
       fact: "Joss pays Brannagh the 10 copper fee for Hild, and Brannagh hands it on to the healer.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Hild's shin closed puckered and uneven under a dragging Mending Weave; it will scar, but it's clean.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-hild-wendle",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
   ],
 } as const satisfies Lore
