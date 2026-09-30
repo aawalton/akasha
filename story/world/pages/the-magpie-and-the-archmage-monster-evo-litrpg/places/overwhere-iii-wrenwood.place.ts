@@ -230,7 +230,7 @@ export const overwhereIiiWrenwood = {
     },
     {
       fact: "Eight good frostcaps stand on the brookside roots after the three bruised: her five and three spare.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",
