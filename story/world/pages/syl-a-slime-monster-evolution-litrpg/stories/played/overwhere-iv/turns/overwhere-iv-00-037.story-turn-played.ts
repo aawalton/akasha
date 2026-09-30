@@ -4,13 +4,13 @@ export const overwhereIv00037 = {
   id: "01a0f42a-91ed-7671-a295-5238d1e94225",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-037",
-  ownLength: 149,
+  ownLength: 147,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 37,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "“Yes, I didn’t see a way for us to finish the goblins without risking casualties without it. Is that going to be a problem? I chose Spellblade for my starting class.”",
   beats: [
