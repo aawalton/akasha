@@ -121,6 +121,7 @@ export const agentHook = {
       ],
     },
   ],
+  loadedExport: ["judgedFor"],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType
