@@ -4,13 +4,14 @@ export const overwhereIi00012 = {
   id: "01a0f1ae-2c2c-7ae5-9549-eebf5333b623",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-012",
+  cover: "image/image-337b68b02efb4e6f",
   ownLength: 200,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 12,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Wait, we need to dispose of the rot first, but I’m not certain how. Maybe put an iron lid on it and bring it with us? Goody might know what to do with it. Otherwise, we’ll have to test things carefully.”",
   beats: [
@@ -33,6 +34,6 @@ export const overwhereIi00012 = {
     "lore/overwhere-ii-spiritual-rot-and-healing",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T08:04:00.000Z",
 } as const satisfies StoryTurnPlayed
