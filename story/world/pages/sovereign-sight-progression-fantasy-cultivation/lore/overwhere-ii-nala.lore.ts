@@ -248,6 +248,10 @@ export const overwhereIiNala = {
       fact: "The iron nails over the door are a dead band in its reach; the tide will not touch them.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Reaching inward for Undertow, eyes shut, she shows watchers nothing they can see.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
