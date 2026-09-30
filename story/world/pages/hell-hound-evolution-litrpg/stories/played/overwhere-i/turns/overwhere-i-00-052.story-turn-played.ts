@@ -4,10 +4,19 @@ export const overwhereI00052 = {
   id: "01a0f43f-71fc-738b-84a9-83a765d24445",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-052",
+  ownLength: 318,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 52,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-i-nala",
+    "character-other/overwhere-i-ghost-eye",
+    "character-other/overwhere-i-pine-isle-drakewolf-six",
+    "character-other/overwhere-i-pine-isle-drakewolf-seven",
+    "character-other/overwhere-i-pine-isle-drakewolf-eight",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I start swimming forward into the middle of the open channel, until I get within 100 meters of one if the wolves, or one of them gets with 100 meters of me, then. Start firing bullets at them.",
   beats: [
@@ -32,6 +41,11 @@ export const overwhereI00052 = {
     "[Strength +2. Dexterity +2. Vigor +2. Attunement +4. Luck +1.]",
     "Ghost-Eye's body turns slowly in the dark water, some seventy yards from her.",
   ],
-  lore: ["lore/overwhere-i-starfall-legacy", "lore/overwhere-i-the-greyfen-alpha-2"],
+  lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
+    "lore/overwhere-i-starfall-legacy",
+    "lore/overwhere-i-the-greyfen-alpha-2",
+  ],
   endsAt: "2026-10-01T13:36:00.000Z",
 } as const satisfies StoryTurnPlayed
