@@ -56,6 +56,14 @@ export const overwhereIiiBrannaghTull = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "A one-eared gray cat sits by her elbow at the counter, and she mutters to it as she works.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
