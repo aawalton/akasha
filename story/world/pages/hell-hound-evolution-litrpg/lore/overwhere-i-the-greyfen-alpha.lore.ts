@@ -329,6 +329,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "Creeping along the hummocks under those eyes is a hard act; past the hummocks she is seen at once.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "If she comes within 100 yards of the island, Ghost-Eye leads the shore wolves across at her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
