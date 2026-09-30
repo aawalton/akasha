@@ -9,12 +9,9 @@ export const overwhereIvBrookAndBarrel = {
   facts: [
     {
       fact: "The Brook and Barrel is the inn on Millbrook's market square.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
-    {
-      fact: "The inn is run by the widow Marta Hesk.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+    { fact: "The inn is run by the widow Marta Hesk.", knowers: ["lore-disclosure/game-master"] },
     {
       fact: "The inn is warm and cheap, with a big hearth, long tables and a smell of stew and ale.",
       knowers: ["lore-disclosure/game-master"],
@@ -49,11 +46,31 @@ export const overwhereIvBrookAndBarrel = {
     },
     {
       fact: "At noon the taproom talks of the goblin lookout, and of the watch girl with the spear.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Marta would sit a moment with the watch girl, fishing for how she cut a goblin in two.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-marta-hesk",
+      ],
+    },
+    {
+      fact: "Marta keeps the Brook and Barrel; she told Nala so herself.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-marta-hesk",
+      ],
+    },
+    {
+      fact: "The inn's taproom is warm and loud, with long tables and a smell of stew and ale.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "A midday pottage, bread and cheese with a small ale costs 3 copper at the inn.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Place
