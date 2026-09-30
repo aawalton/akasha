@@ -11,4 +11,5 @@ export const overwhereIv00025 = {
   action:
     "I walk toward them acting scared and uncertain, and then when the first gets close enough, I use my dimensional stab, aiming for center mass, then turn and chase down the second.",
   lore: ["place/overwhere-iv-hobb-farm"],
+  endsAt: "2026-09-30T18:29:00.000Z",
 } as const satisfies StoryTurnPlayed
