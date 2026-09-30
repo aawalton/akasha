@@ -10,4 +10,5 @@ export const overwhereIii00005 = {
   stepStatus: "step-status/game-master",
   action: "“I’m…Nala.” I say, and then just keep watching the man’s",
   lore: ["lore/overwhere-iii-hal-dunmore", "lore/overwhere-iii-tobin-wick"],
+  endsAt: "2026-09-29T17:25:00.000Z",
 } as const satisfies StoryTurnPlayed
