@@ -333,6 +333,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "If she comes within 100 yards of the island, Ghost-Eye leads the shore wolves across at her.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ghost-Eye has 70 health and scaled hide warding 3; its bite is a savage blow that tears and holds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
