@@ -4,13 +4,14 @@ export const overwhereI00012 = {
   id: "01a0f18e-6b55-7ca6-a1ca-414828bd1335",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-012",
+  cover: "image/image-943ac3167912dce2",
   ownLength: 203,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 12,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Oh, here and there. A bit of a rolling stone, always looking for a change and a challenge. Any good challenges near here?”",
   beats: [
@@ -37,6 +38,6 @@ export const overwhereI00012 = {
     "place/overwhere-i-the-greyfen",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-29T11:26:00.000Z",
 } as const satisfies StoryTurnPlayed
