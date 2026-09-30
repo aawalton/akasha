@@ -119,5 +119,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Dray, at First Depth, doubts a Surface stranger could hurt him, and says so with a grim smile.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Dray's stone forearms turn a plain iron spear point, but the rest of him is only refined flesh.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
