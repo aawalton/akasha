@@ -14,7 +14,7 @@ export const overwhereIv00039 = {
     "character-other/overwhere-iv-ilsa-crane",
     "character-other/overwhere-iv-garrett-pell",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Sure, it can wait for tomorrow, right?” Assuming so, I then get dinner, sleep, train, and then set out for the new quest.",
   beats: [
@@ -30,6 +30,7 @@ export const overwhereIv00039 = {
     "The oak fills the middle of the field: eighty feet tall, four feet thick, centuries old.",
     "It leans, plainly, toward a stone byre at the pasture's edge.",
     "Cut straight through, it will come down where it leans. Right across the byre roof.",
+    'The herdsman shouts across, too loud. "You the one Ilsa sent? Mind the byre, girl. Reeve\'s byre!"',
   ],
   issues: ['"Cut straight through, it will come down where it leans." - No Prompt'],
   lore: [
