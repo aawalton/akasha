@@ -10,4 +10,5 @@ export const overwhereIi00044 = {
   stepStatus: "step-status/game-master",
   action: "“Sorry, I’ve been a bit busy. We can talk now, I’m free for a few hours at least.”",
   lore: ["lore/overwhere-ii-keeper-anselm", "lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2"],
+  endsAt: "2026-09-30T15:58:00.000Z",
 } as const satisfies StoryTurnPlayed
