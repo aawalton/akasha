@@ -59,6 +59,7 @@ export type Query = {
   readonly limit?: number
   readonly offset?: number
   readonly files?: readonly string[]
+  readonly undeclaredMatchesNone?: boolean
 }
 
 export type Row = Readonly<Record<string, unknown>>
@@ -108,6 +109,13 @@ function unkeyed(query: Query, reading: Reading, carried: readonly Carried[]): s
     return `\`${at}\` names \`${key}\`, and neither the \`${query.pageTypeSlug}\` page type nor any page type extending it declares such a key. the keys are ${[...keys].sort().join(", ")}`
   }
   return null
+}
+
+function unheldWhere(query: Query, reading: Reading, carried: readonly Carried[]): boolean {
+  const where = query.where
+  if (query.undeclaredMatchesNone !== true || where === undefined) return false
+  const keys = keysUnder(reading, query.pageTypeSlug, carried)
+  return Object.keys(where).some((key) => !keys.has(key))
 }
 
 function unlit(query: Query, dark: ReadonlyMap<string, string>): string | null {
@@ -296,6 +304,7 @@ export function asking(root: string, query: Query, withheld: Withheld = []): Fau
   }
   const reading = readingIn(root)
   const carried = carriedFor(reading, query.pageTypeSlug)
+  if (unheldWhere(query, reading, carried)) return { rows: [], n: 0 }
   const unnamed = unkeyed(query, reading, carried)
   if (unnamed !== null) return { refused: unnamed, fault: "caller" }
   const named = new Set(askedFor(query).map(([key]) => key))

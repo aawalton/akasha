@@ -8,6 +8,8 @@ import {
   askingAt,
 } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import {
+  COLLECTIONS,
+  GAP_AT,
   kinds,
   levels,
   modelTests,
@@ -85,14 +87,6 @@ test("a key no page carries is tested as a page carrying nothing there", () => {
 test("a page type nothing extends and no page is filed under is answered empty", () => {
   expect(rowsOf(asking(root, { pageTypeSlug: "tracking-field" }))).toEqual([])
 })
-
-const COLLECTIONS = rowsOf(
-  asking(root, {
-    pageTypeSlug: "collection",
-    where: { slug: { in: ["a-thousand-li-the-first-step", "ariana-grande-7-rings"] } },
-    keys: ["slug", "type", "ownLength", "ownProgress", "ownRemaining"],
-  })
-)
 
 test("a page type extending the one named is answered too", () => {
   const said = new Set(COLLECTIONS.map((one) => one.type))
@@ -256,6 +250,12 @@ test("a where naming a key the page type declares nothing for is refused", () =>
   expect("refused" in asked && asked.refused).toContain("`where` names `not-a-key`")
 })
 
+test("an undeclared where key matches nothing where the question says so", () => {
+  const none = { pageTypeSlug: "decision-kind", undeclaredMatchesNone: true } as const
+  expect(asking(root, { ...none, where: { x: { is: "gap" } } })).toEqual({ rows: [], n: 0 })
+  expect(slugsOf(asking(root, { ...none, where: { slug: { is: "gap" } } }))).toEqual(["gap"])
+})
+
 test("a sortBy naming a key the page type declares nothing for is refused", () => {
   const asked = asking(root, { pageTypeSlug: "decision-kind", sortBy: "not-a-key" })
   expect("refused" in asked && asked.refused).toContain("`sortBy` names `not-a-key`")
@@ -369,8 +369,6 @@ test("a question refused answers no commit", () => {
   const asked = askingAt(root, { pageTypeSlug: "no-such-page-type-anywhere" })
   expect("refused" in asked && !("at" in asked)).toBe(true)
 })
-
-const GAP_AT = "domain/decision-kind/pages/gap.decision-kind.ts"
 
 test("a question matching a page withheld from the asker is refused whole", () => {
   const asked = asking(root, { pageTypeSlug: "decision-kind", limit: 0 }, [GAP_AT])

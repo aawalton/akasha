@@ -84,7 +84,14 @@ export function queryIn(given: unknown): Read {
     limit?: number
     offset?: number
     files?: readonly string[]
+    undeclaredMatchesNone?: boolean
   } = { pageTypeSlug }
+  if (held.undeclaredMatchesNone !== undefined) {
+    if (typeof held.undeclaredMatchesNone !== "boolean") {
+      return { refused: "`undeclaredMatchesNone` is true or false" }
+    }
+    query.undeclaredMatchesNone = held.undeclaredMatchesNone
+  }
   if (held.where !== undefined) {
     const where = objectIn(held.where)
     if (where === null) return { refused: "`where` is a JSON object" }

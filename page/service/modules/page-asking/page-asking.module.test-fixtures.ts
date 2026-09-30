@@ -7,6 +7,8 @@ import {
 
 export const root = rootOf(import.meta.dir)
 
+export const GAP_AT = "domain/decision-kind/pages/gap.decision-kind.ts"
+
 export function rowsOf(asked: Asked): readonly Record<string, unknown>[] {
   if ("refused" in asked) throw new Error(`refused: ${asked.refused}`)
   return asked.rows
@@ -35,6 +37,14 @@ export function levels(where: Query["where"]): readonly unknown[] {
 export function kinds(where?: Query["where"]): readonly unknown[] {
   return slugsOf(asking(root, { pageTypeSlug: "decision-kind", where, keys: ["slug"] }))
 }
+
+export const COLLECTIONS = rowsOf(
+  asking(root, {
+    pageTypeSlug: "collection",
+    where: { slug: { in: ["a-thousand-li-the-first-step", "ariana-grande-7-rings"] } },
+    keys: ["slug", "type", "ownLength", "ownProgress", "ownRemaining"],
+  })
+)
 
 export function modelTests(query: Omit<Query, "pageTypeSlug">): readonly Record<string, unknown>[] {
   return rowsOf(asking(root, { pageTypeSlug: "model-test", ...query }))

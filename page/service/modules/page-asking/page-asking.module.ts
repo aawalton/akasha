@@ -70,6 +70,11 @@ export const pageAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A question saying an undeclared key matches none is answered empty where its `where` names one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A refusal names the keys the page type does declare.",
     },
     {
