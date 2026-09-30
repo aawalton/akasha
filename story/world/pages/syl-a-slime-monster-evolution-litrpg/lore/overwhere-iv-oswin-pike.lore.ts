@@ -17,15 +17,27 @@ export const overwhereIvOswinPike = {
     },
     {
       fact: "Oswin Pike once saw slimes trail a travelling mage along the Aubrin road, years ago.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-oswin-pike",
+      ],
     },
     {
       fact: "That mage could make a thrown stone vanish in the air and drop behind the thrower.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-oswin-pike",
+      ],
     },
     {
       fact: "A month on, word came the mage had died of poison at an Aubrin inn; no one was taken for it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-oswin-pike",
+      ],
     },
     {
       fact: "Oswin reckons the mage was killed for his strange magic, and has told no one so.",
@@ -57,15 +69,27 @@ export const overwhereIvOswinPike = {
     },
     {
       fact: "Oswin has heard Aubrin's great houses buy rare gifts, and a gift that won't be bought is buried.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-oswin-pike",
+      ],
     },
     {
       fact: "He knows guild letters in Aubrin pass many hands, and some clerks there are paid by the houses.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-oswin-pike",
+      ],
     },
     {
       fact: "Oswin does not know which house, nor what the mage's magic was called.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-oswin-pike",
+      ],
     },
     {
       fact: "After the clear flare the grey watchman caught Nala's eye, nodded to the dark square, went out.",
@@ -85,6 +109,14 @@ export const overwhereIvOswinPike = {
     },
     {
       fact: "Oswin told Nala he has seen slimes follow someone once before, years back.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-oswin-pike",
+      ],
+    },
+    {
+      fact: "Oswin told Nala he reckons the mage was killed for his magic, the first he has said so.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/overwhere-iv-nala",
