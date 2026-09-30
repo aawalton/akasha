@@ -261,6 +261,26 @@ export const overwhereIvNala = {
         "character-other/overwhere-iv-brenna-holt",
       ],
     },
+    {
+      fact: "Orla healed Nala's knee, shin and ribs for two copper on the hall's slate, which the watch pays.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Nala told Ilsa of a mage whose gift drew slimes, poisoned at an Aubrin inn for not being bought.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
+    },
+    {
+      fact: "Nala told Ilsa that clerks in the guild are paid to pass names to Aubrin's great houses.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

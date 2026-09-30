@@ -196,7 +196,7 @@ export const overwhereIvMillbrookGatehouse = {
     },
     {
       fact: "Breakfast after drill is porridge with a spoon of honey, and small beer.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Holt respects a recruit who gives drill her all, and says nothing of it aloud.",

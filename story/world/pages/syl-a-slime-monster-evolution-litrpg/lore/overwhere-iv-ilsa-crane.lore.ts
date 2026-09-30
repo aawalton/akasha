@@ -12,7 +12,11 @@ export const overwhereIvIlsaCrane = {
     { fact: "Ilsa is clever, bored and ambitious.", knowers: ["lore-disclosure/game-master"] },
     {
       fact: "She notices talent quickly and wants the Millbrook hall to matter.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     { fact: "Ilsa is the niece of Reeve Aldous Crane.", knowers: ["lore-disclosure/game-master"] },
     {
@@ -137,11 +141,19 @@ export const overwhereIvIlsaCrane = {
     },
     {
       fact: "Ilsa would soften the report if Nala swore to work the Millbrook board and raise its name.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "A softened report would say only a faint, odd light from an old cracked crystal, no name.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Ilsa would want to be the first told, if Nala ever learns what her light was.",
@@ -157,7 +169,11 @@ export const overwhereIvIlsaCrane = {
     },
     {
       fact: "Asked well, Ilsa could be talked into writing the report vaguely, or holding it a while.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Ilsa has never seen a clear flare, and cannot name it.",

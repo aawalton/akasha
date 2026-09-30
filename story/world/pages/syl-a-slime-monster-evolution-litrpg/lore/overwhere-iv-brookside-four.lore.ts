@@ -45,11 +45,11 @@ export const overwhereIvBrooksideFour = {
     },
     {
       fact: "Orla's healing closes scrapes and takes swelling down in a few minutes, glowing soft rose.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Orla would put a watch hurt on the hall's slate if the one hurt has no coin.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "They take most of the wolf, boar and goblin work posted at the hall.",
@@ -98,6 +98,7 @@ export const overwhereIvBrooksideFour = {
         "character-other/overwhere-iv-ilsa-crane",
         "lore/overwhere-iv-oswin-pike",
         "lore/overwhere-iv-brookside-four",
+        "character-player/overwhere-iv-nala",
       ],
     },
     {
@@ -154,6 +155,10 @@ export const overwhereIvBrooksideFour = {
         "lore/overwhere-iv-oswin-pike",
         "lore/overwhere-iv-brookside-four",
       ],
+    },
+    {
+      fact: "The round-faced girl who heals at the hall hearth is Orla.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Lore
