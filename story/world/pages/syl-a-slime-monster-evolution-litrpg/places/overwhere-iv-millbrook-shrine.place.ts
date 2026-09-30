@@ -10,15 +10,15 @@ export const overwhereIvMillbrookShrine = {
   facts: [
     {
       fact: "The shrine is one whitewashed room off the square, cool and dim, with benches and an altar.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Seven books sit chained on a shelf behind the altar; Sister Anwen keeps the key.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The books: two of scripture, a herbal, a vale chronicle, a primer, a road book and hero tales.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Anwen lets a sober reader sit with a book by daylight, for a copper in the poor box.",
@@ -71,6 +71,14 @@ export const overwhereIvMillbrookShrine = {
     {
       fact: "The hero tales call the Wayfarer long dead, and give no place, date or true name.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Sister Anwen asks a copper in the poor box for a sitting with the shrine's books.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Sister Anwen is an old woman, stout and grey, with sharp eyes, who mends in the shrine.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Place

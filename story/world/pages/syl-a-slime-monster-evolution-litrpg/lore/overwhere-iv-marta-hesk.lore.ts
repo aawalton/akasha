@@ -14,7 +14,11 @@ export const overwhereIvMartaHesk = {
     },
     {
       fact: "She lost her son to what the town believes were wolves in the Tangle.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-marta-hesk",
+      ],
     },
     {
       fact: "Marta hears all the gossip in Millbrook and passes most of it on.",
@@ -42,7 +46,11 @@ export const overwhereIvMartaHesk = {
     },
     {
       fact: "Marta would press Nala's three copper back: a goblin-killer's first meal is on the house.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-marta-hesk",
+      ],
     },
   ],
   secrets: "jsonl",

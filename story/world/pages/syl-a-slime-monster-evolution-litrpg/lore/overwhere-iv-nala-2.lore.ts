@@ -245,5 +245,13 @@ export const overwhereIvNala2 = {
         "character-other/overwhere-iv-ilsa-crane",
       ],
     },
+    {
+      fact: "Nala told Marta her strike from a distance is a long-practised armor-piercing spear skill.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-marta-hesk",
+      ],
+    },
   ],
 } as const satisfies Lore

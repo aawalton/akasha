@@ -10,8 +10,8 @@ export const overwhereIv00047 = {
   partOfCollections: ["story-played/overwhere-iv"],
   position: 47,
   prose: "txt",
-  characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-marta-hesk"],
+  stepStatus: "step-status/player",
   action:
     "“I’ve been working on a specialized armor piercing spear skill for a long time and I guess it’s finally paying off. Practicing pushing past armor turned out to be just what I needed to learn to strike from a distance. Useless without a spear though.”",
   beats: [
@@ -34,6 +34,11 @@ export const overwhereIv00047 = {
   ],
   lore: ["lore/overwhere-iv-marta-hesk", "lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/picture", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+  ],
   endsAt: "2026-10-02T12:16:00.000Z",
 } as const satisfies StoryTurnPlayed
