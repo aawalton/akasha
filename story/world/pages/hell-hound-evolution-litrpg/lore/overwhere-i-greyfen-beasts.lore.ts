@@ -195,6 +195,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "The Level 12 reedlurker holts alone under an alder root a hundred yards up the channel.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A reedlurker disturbed in its holt by day bolts out underwater into the channel to fight or flee.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
