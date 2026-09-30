@@ -256,6 +256,10 @@ export const overwhereIiNala = {
       fact: "The she-wolf's cold brine churns in Nala's well, but it does not hurt her.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Rid of its sourness, the crescent bite on Nala's left forearm is clean but still open and bleeding.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
