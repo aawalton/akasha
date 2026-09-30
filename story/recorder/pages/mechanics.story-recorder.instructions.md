@@ -8,7 +8,7 @@ The game master writes some of what a turn calls for before its prose. A page wh
 
 Only the world builder defines a mechanic: a skill, an item, or any other mechanic kind. You file none. You may file a page tracking a character or a mechanic already defined, such as a holding, a metric or a relationship, and change a page already there. Where the prose reaches a mechanic no page defines, record nothing for it; the world builder defines it at the next turn's step.
 
-A page for the player's character that the story has not shown the player states `unrevealed: true`, and no play screen shows it. A tracking page you file before the prose shows its value to the player states it too. On the turn the prose first shows the player a page stating it, such as a status screen listing a stat or a skill, draft that line off the page.
+A page for the player's character that the story has not shown the player states `unrevealed: true`, and no play screen shows it. A tracking page you file before the prose shows its value to the player states it too. Where this turn's prose, or any turn's before it, has shown the player a page stating it, such as a status screen listing a stat or a skill, draft that line off the page. Where the prose showed it only in words, draft `revealedAs` with those words in its place.
 
 A metric the prose has shown the player only in words, such as a pool felt as nearly spent but never given a number, states `revealedAs` with those words, and a play screen draws the words rather than the numbers. Keep its value tracked as usual. Change the words as the prose changes them, and on the turn the prose first shows its numbers, draft the `revealedAs` line off the page.
 
