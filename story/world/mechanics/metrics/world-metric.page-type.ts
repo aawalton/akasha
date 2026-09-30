@@ -14,6 +14,7 @@ export const worldMetric = {
     "number-property/metric-value",
     "page-type/metric-character",
     "page-type/metric-item",
+    "text-property/revealed-as",
   ],
   properties: [
     { pageProperty: "number-property/metric-value", required: true, many: false },
@@ -21,6 +22,7 @@ export const worldMetric = {
     { pageProperty: "number-property/metric-max-value", required: false, many: false },
     { pageProperty: "file-property/history", required: false, many: false },
     { pageProperty: "number-property/display-order", required: false, many: false },
+    { pageProperty: "text-property/revealed-as", required: false, many: false },
   ],
   decisions: [
     {
