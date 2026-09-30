@@ -253,6 +253,14 @@ export const overwhereIvNala = {
         "character-other/overwhere-iv-brenna-holt",
       ],
     },
+    {
+      fact: "Nala's fall left her knee swollen and purpling, her shin scraped raw; Holt says it is not broken.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

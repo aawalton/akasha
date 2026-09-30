@@ -123,6 +123,16 @@ export const overwhereIvOswinPike = {
         "lore/overwhere-iv-oswin-pike",
       ],
     },
+    {
+      fact: "Sparring Dell, Oswin twice sidestepped his big lunge and tapped Dell's open left ribs.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-oswin-pike",
+        "character-other/overwhere-iv-dell",
+        "character-other/overwhere-iv-wat",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

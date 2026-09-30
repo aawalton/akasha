@@ -63,15 +63,27 @@ export const overwhereIvBrennaHolt = {
     },
     {
       fact: "Holt lets a recruit with a real hurt sit out sparring, but not without asking to see it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
+      ],
     },
     {
       fact: "Holt would send a hurt knee to Orla at the hall, who heals the watch for a copper or two.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
+      ],
     },
     {
       fact: "Holt thinks less of a recruit who hides a hurt and makes it worse.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
+      ],
     },
   ],
 } as const satisfies Lore
