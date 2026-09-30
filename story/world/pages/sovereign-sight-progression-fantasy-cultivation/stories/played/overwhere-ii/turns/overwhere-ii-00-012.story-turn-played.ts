@@ -32,5 +32,6 @@ export const overwhereIi00012 = {
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-spiritual-rot-and-healing",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-29T08:04:00.000Z",
 } as const satisfies StoryTurnPlayed
