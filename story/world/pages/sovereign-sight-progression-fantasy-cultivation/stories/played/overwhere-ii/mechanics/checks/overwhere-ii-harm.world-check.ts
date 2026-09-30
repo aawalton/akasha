@@ -32,6 +32,11 @@ export const overwhereIiHarm = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Skin refined whole wards four at the Surface; skin refined in part wards no more than two.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Might above six shrugs off one for every three.",
     },
     {
