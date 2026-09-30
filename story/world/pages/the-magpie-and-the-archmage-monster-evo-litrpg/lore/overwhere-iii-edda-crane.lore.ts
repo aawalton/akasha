@@ -60,5 +60,14 @@ export const overwhereIiiEddaCrane = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
+    {
+      fact: "Healed, the charcoal-burner flexed her fingers, grunted, and dropped 10 copper in Nala's hand.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-edda-crane",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
   ],
 } as const satisfies Lore
