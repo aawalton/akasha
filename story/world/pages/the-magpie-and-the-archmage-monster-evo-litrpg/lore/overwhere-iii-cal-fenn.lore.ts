@@ -16,6 +16,14 @@ export const overwhereIiiCalFenn = {
       fact: "He went into the deep Wrenwood at midwinter after a blighted stag and did not come home.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "He has been gone some seven weeks; he was last seen crossing the Wren Brook ford after the stag.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The town searched ten days and gave him up for dead; only his brother Jory still looks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

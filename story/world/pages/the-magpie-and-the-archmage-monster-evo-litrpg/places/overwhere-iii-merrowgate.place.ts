@@ -159,6 +159,10 @@ export const overwhereIiiMerrowgate = {
         "character-other/overwhere-iii-tobin-wick",
       ],
     },
+    {
+      fact: "Folk call the blight bounty 'a silver a stone'.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
