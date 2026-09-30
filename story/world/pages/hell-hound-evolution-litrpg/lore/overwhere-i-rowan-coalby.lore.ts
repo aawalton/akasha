@@ -83,6 +83,10 @@ export const overwhereIRowanCoalby = {
       fact: "Told Ghost-Eye is dead, Rowan goes quiet, then laughs; Sedge's name is cleared for good.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At 16:30 on day 3 Rowan and Sedge met Nala at the fen edge by the Greyback.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
