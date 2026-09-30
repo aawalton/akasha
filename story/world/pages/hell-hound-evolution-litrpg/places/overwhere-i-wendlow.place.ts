@@ -91,5 +91,9 @@ export const overwhereIWendlow = {
       fact: "In Wendlow the enchanter Ilse Varrow sets mana-grown stones into rings and rods for mages.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ilse Varrow sets a drake-pearl into a focus ring for three gold, taking three days.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
