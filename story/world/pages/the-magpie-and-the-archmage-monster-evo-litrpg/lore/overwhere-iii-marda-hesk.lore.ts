@@ -204,6 +204,10 @@ export const overwhereIiiMardaHesk = {
       fact: "Beside the four blightstones, Marda's lead box holds the six seed stones Nala brought in.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Asked to crack the Guild's stones, Marda says unmaking them is the point; the healer keeps the rest.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
