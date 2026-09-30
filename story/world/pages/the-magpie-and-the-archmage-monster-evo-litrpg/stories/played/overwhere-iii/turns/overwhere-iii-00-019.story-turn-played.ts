@@ -4,10 +4,13 @@ export const overwhereIii00019 = {
   id: "01a0f210-6da0-743c-8847-be1f86add357",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-019",
+  ownLength: 303,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 19,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Yes. Is there something blighted around I could test with? I’d like to see if I can unlock Purify without buying it from the skill store.”",
   beats: [
@@ -34,6 +37,7 @@ export const overwhereIii00019 = {
   ],
   lore: [
     "lore/overwhere-iii-corruption",
+    "lore/overwhere-iii-marda-hesk",
     "lore/overwhere-iii-nala",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
