@@ -4,6 +4,7 @@ export const overwhereIi00040 = {
   id: "01a0f3cc-6e06-7321-b4e9-05a9d20f3123",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-040",
+  cover: "image/image-67030a0fdbf5549c",
   ownLength: 244,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
@@ -39,6 +40,6 @@ export const overwhereIi00040 = {
     "place/overwhere-ii-hollow-tarn",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-30T11:43:00.000Z",
 } as const satisfies StoryTurnPlayed
