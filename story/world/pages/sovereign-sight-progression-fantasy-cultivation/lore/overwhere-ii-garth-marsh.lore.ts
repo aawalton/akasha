@@ -95,6 +95,10 @@ export const overwhereIiGarthMarsh = {
       fact: "Garth takes a lost, barefoot Talented stranger for a runaway, or an Aspirant who lost her road.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Once he trusts a Talented stranger even a little, Garth asks whether she can do aught for Wren.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
