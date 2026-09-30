@@ -219,6 +219,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "Earth packed into a holt's mouth and air hole traps a reedlurker; it digs out in ten minutes.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Fire or hot wind down an air hole fills the holt with smoke and drives the reedlurker out.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
