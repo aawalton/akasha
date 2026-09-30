@@ -90,7 +90,11 @@ export const overwhereIiiBrannaghTull = {
     },
     {
       fact: "To her eye the seam is clean and knit true, cleaner than her own needle leaves.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Her two blight-bitten patients lie in the back room of her shop, where she can tend them.",
