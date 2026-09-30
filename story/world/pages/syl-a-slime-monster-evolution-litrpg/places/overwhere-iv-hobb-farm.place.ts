@@ -180,6 +180,18 @@ export const overwhereIvHobbFarm = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Told goblins took his sheep and were driven off hurt, Hobb pays Nala a silver of his own.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hobb fears the goblins will be back with more, and wants the hall told tonight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hobb presses her to take stew first, and sends Pim with a lantern to the footbridge.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The spear goblin dropped its flint spear in the grass of the far field as it fled.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },

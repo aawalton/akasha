@@ -108,6 +108,10 @@ export const overwhereIvMillbrook = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Millbrook has no alchemist; cores and jelly are sold at the adventurers' hall counter.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Clothes can be had from Nettie Lowe's stall on market day, or made to order at her house.",
       knowers: ["lore-disclosure/game-master"],
     },
