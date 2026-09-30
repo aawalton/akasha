@@ -181,7 +181,7 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "The channel ringing the pine island runs dark and over head height.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "A line of reed hummocks runs south-west from the Greystakes, giving cover to 200 yards of the isle.",
