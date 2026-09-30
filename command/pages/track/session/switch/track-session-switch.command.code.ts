@@ -52,7 +52,7 @@ export async function trackSessionSwitch(argv: readonly string[], given: Given):
   }
   found.stretch.endedAt = ended
   const stretch = found.stretch
-  const opened = sleeping(stretch.title) ? opensInto(stretch.startedAt, ended) : found.held.day
+  const opened = sleeping(stretch.title) ? opensInto(stretch.startedAt) : found.held.day
   const home =
     opened === found.held.day ? found : movedInto(given.root, found, opened, mintedAt(now))
   if (typeof home === "string") return mistaking([home])

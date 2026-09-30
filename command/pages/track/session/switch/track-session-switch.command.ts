@@ -59,7 +59,8 @@ export const trackSessionSwitch = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A sleep a `switch` ends before the midnight after it began keeps its own day.",
+      statement:
+        "A sleep a `switch` ends before the midnight after it began still opens the day after.",
     },
     {
       decisionKind: "decision-kind/departure",
