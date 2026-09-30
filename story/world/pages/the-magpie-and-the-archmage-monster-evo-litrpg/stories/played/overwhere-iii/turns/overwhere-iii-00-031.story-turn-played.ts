@@ -4,6 +4,7 @@ export const overwhereIii00031 = {
   id: "01a0f392-e321-70da-bdfe-a39eefee1669",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-031",
+  cover: "image/image-240ef556bed23f4f",
   ownLength: 129,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -38,6 +39,6 @@ export const overwhereIii00031 = {
     "place/overwhere-iii-crook-and-candle",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-30T18:35:00.000Z",
 } as const satisfies StoryTurnPlayed
