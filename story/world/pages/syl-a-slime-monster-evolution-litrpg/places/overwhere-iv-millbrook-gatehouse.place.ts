@@ -127,6 +127,30 @@ export const overwhereIvMillbrookGatehouse = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "One lap of Millbrook's wall walk is about half a mile, with steep stone steps at each tower.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Drill is four laps; a new recruit is expected to finish them, not to keep up.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Spear forms are thrust, guard, sweep and recover, shouted by Holt and repeated fifty times.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Sparring is with blunted practice spears and wicker shields, until one yields or Holt calls it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dell spars loud and wild, and leaves his left side open after every lunge.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Holt respects a recruit who gives drill her all, and says nothing of it aloud.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Dell Farrow holds slimes follow whoever smells of jelly, and would say so loudly.",
       knowers: [
         "lore-disclosure/game-master",
