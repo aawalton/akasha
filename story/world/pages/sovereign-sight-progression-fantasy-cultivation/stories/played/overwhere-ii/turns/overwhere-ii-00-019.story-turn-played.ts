@@ -10,7 +10,7 @@ export const overwhereIi00019 = {
   position: 19,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“I’ll put no price on a girl’s life. Anyone I can heal will be healed. Whatever you wish to contribute, I will accept, as it will allow me to help more.” I turn back to Goody. “I understand Tansy was the worst case, but are there others? I think I need a meal and a nap first, but then I should be able to help the rest. I’m happy to help animals as well, Garth has some ewes that need healing once the humans are healed.”",
   beats: [
@@ -41,6 +41,6 @@ export const overwhereIi00019 = {
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-wendle-ford-folk",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T11:59:00.000Z",
 } as const satisfies StoryTurnPlayed
