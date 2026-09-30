@@ -10,7 +10,7 @@ export const overwhereIi00044 = {
   position: 44,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“Sorry, I’ve been a bit busy. We can talk now, I’m free for a few hours at least.”",
   beats: [
     "Nala: \"Sorry, I've been a bit busy. We can talk now. I'm free for a few hours at least.\"",
@@ -29,6 +29,6 @@ export const overwhereIi00044 = {
     'Anselm: "Will you try it with me now? Your left arm first."',
   ],
   lore: ["lore/overwhere-ii-keeper-anselm", "lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T15:58:00.000Z",
 } as const satisfies StoryTurnPlayed
