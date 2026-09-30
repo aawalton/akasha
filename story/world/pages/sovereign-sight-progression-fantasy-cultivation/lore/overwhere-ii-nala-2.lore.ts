@@ -50,7 +50,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "Each limb Nala refines with Undertow leaves her hungrier, as after hard work.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Nala's left arm is refined whole, fingertip to shoulder; the bite scar is sealed under the new skin.",
