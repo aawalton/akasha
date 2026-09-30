@@ -4,6 +4,7 @@ export const overwhereIi00022 = {
   id: "01a0f219-d38d-74c2-9229-bd31b0220aa5",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-022",
+  cover: "image/image-33a6428c4f1894ab",
   ownLength: 470,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
@@ -51,6 +52,6 @@ export const overwhereIi00022 = {
     "lore/overwhere-ii-wendle-ford-folk",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-29T17:20:00.000Z",
 } as const satisfies StoryTurnPlayed
