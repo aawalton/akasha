@@ -18,7 +18,7 @@ export const overwhereI00049 = {
     "character-other/overwhere-i-pine-isle-drakewolf-seven",
     "character-other/overwhere-i-pine-isle-drakewolf-eight",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I keep low in the cover and start slowly making my way toward the island, watching in case the wolves come back my way.",
   beats: [
@@ -34,6 +34,9 @@ export const overwhereI00049 = {
     "Sixty yards ahead a half-sunk pine log lies in the open marsh, 140 yards off the shore.",
     "On the shore Ghost-Eye stands with the two biggest wolves and one more, all four watching her way.",
   ],
+  issues: [
+    '"Halfway along, she sees" the pups go - they leave at 13:30, seen from the hummocks\' end',
+  ],
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
@@ -41,6 +44,6 @@ export const overwhereI00049 = {
     "lore/overwhere-i-the-greyfen-alpha-2",
     "place/overwhere-i-the-greyfen",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-01T13:30:00.000Z",
 } as const satisfies StoryTurnPlayed
