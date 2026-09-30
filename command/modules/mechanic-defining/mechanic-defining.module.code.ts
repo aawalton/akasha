@@ -33,7 +33,7 @@ const SUBAGENT = "subagent"
 
 const PAGE_HELD = "ts"
 
-export const BARRED: ReadonlySet<string> = new Set([
+const BARRED: ReadonlySet<string> = new Set([
   gameMaster.slug,
   recorder.slug,
   reviewer.slug,
