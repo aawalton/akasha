@@ -61,7 +61,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "The Callow cwm lies three hours' climb above Callow Beck, just under the snow line.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The black pool in the Callow cwm is thirty paces across, free of ice, ringed with grey salt crust.",
