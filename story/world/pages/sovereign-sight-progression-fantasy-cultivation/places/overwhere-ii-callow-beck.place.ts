@@ -46,7 +46,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "Ebba notches her goats' left ears; the two Warped goats still bear her notch.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Ebba has Warped carcasses burned on the midden with peat, and keeps her grandsons from them.",
