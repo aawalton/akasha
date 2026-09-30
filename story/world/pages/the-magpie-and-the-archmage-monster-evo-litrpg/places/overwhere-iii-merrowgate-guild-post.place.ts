@@ -226,6 +226,10 @@ export const overwhereIiiMerrowgateGuildPost = {
       fact: "The beast guide opens on small game: jackalope, snow hare, frost toad, ridge fox, each sketched.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The guide's blight page, new-inked by Marda, says corrupted beasts drop blightstones; burn the dead.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
