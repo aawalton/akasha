@@ -293,5 +293,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "In a dead body the water answers again, slow and heavy; plucking an eye or ears with it is easy.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ghost-Eye's milky eye is a hard pearl of clouded crystal, mana-grown; alchemists would pay well.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
