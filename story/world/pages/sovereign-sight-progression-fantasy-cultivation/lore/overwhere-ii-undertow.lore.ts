@@ -94,7 +94,7 @@ export const overwhereIiUndertow = {
     },
     {
       fact: "Undertow draws rot from Nala's own flesh as easily as from another's.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Rot pushed out of her into a carcass soaks into it and greys the dead flesh; it does not come back.",
