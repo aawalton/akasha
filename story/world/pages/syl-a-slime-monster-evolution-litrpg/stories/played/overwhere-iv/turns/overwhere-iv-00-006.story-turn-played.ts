@@ -10,7 +10,7 @@ export const overwhereIv00006 = {
   position: 6,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-garrett-pell"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Thank you for the ride, Garrett, I’m sure I’ll see you around for a while.” Then I go back to the guard house to sign up for drills and see if I can bunk there for the night.",
   beats: [
@@ -46,6 +46,6 @@ export const overwhereIv00006 = {
     "lore/overwhere-iv-rennick-hale",
     "place/overwhere-iv-millbrook-gatehouse",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T13:17:00.000Z",
 } as const satisfies StoryTurnPlayed
