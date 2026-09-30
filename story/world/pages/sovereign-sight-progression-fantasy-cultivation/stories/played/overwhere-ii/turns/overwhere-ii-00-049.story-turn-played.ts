@@ -4,10 +4,13 @@ export const overwhereIi00049 = {
   id: "01a0f433-06d1-7b5c-a54d-f9f546bfd785",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-049",
+  ownLength: 115,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 49,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Share it all. I expect to take the Chartermark sooner or later anyways. No reason to slow that down.”",
   beats: [
@@ -21,6 +24,6 @@ export const overwhereIi00049 = {
     'Anselm: "If you keep near, I\'d expect the Keepers to teach you through the year until then."',
     'Anselm: "If you go wandering far, they\'ll only have to find you first."',
   ],
-  lore: ["lore/overwhere-ii-keeper-anselm"],
+  lore: ["lore/overwhere-ii-keeper-anselm", "lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2"],
   endsAt: "2026-09-30T17:02:00.000Z",
 } as const satisfies StoryTurnPlayed
