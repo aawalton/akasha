@@ -212,5 +212,9 @@ export const overwhereIStarfallLegacy = {
       fact: "Starfall Weave rose to level 2 from practice at about 13:45 on day 2, adding +3 Attunement.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Earth can shape a bullet's stone into a sleek, grooved slug; shaped stone keeps its shape after.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
