@@ -12,5 +12,9 @@ export const overwhereIStarfallLegacy = {
       fact: "The water saw is a blast shape of Starfall Surge, not a new skill or legacy way.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Willed thinner and faster, a water disc cuts in about half the time, at the same cost.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
