@@ -55,5 +55,9 @@ export const overwhereIiCarrowmouth = {
       fact: "Mother Sabeth, stern and shrewd, leads the Carrowmouth Keepers and answers to the Spires.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Two Carrowmouth lads took the Chartermark this year.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place
