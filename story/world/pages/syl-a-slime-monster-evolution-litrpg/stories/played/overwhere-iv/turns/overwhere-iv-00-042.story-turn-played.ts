@@ -4,6 +4,7 @@ export const overwhereIv00042 = {
   id: "01a0f466-a656-7e12-96ab-989fe00a80de",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-042",
+  cover: "image/image-6d17140383c9725c",
   ownLength: 241,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
@@ -30,8 +31,13 @@ export const overwhereIv00042 = {
     'She smiles, slow, and counts two silver onto the counter. "I\'ll take your word for it."',
     'She pushes the coins across. "So. What would you like next?"',
   ],
-  lore: ["lore/overwhere-iv-ilsa-crane-2", "lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2"],
+  lore: [
+    "lore/overwhere-iv-ilsa-crane-2",
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "place/overwhere-iv-reeves-pasture",
+  ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-02T10:07:00.000Z",
 } as const satisfies StoryTurnPlayed
