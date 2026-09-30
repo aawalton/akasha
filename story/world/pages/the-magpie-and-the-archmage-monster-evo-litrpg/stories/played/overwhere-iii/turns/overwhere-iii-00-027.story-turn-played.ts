@@ -4,10 +4,16 @@ export const overwhereIii00027 = {
   id: "01a0f369-82b3-70b9-8190-6d93be0ce51b",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-027",
+  ownLength: 107,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 27,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-brannagh-tull",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "“I’d like to, but my mana is running on empty already. I don’t have a big supply. Unless you have something to solve that, I might have to wait until morning…”",
   beats: [
@@ -19,6 +25,6 @@ export const overwhereIii00027 = {
     "\"Worth a silver. It's yours against the work, if you'll do it tonight.\"",
     '"If not, come see them now anyhow, and be back here at first light."',
   ],
-  lore: ["lore/overwhere-iii-brannagh-tull"],
+  lore: ["lore/overwhere-iii-brannagh-tull", "lore/overwhere-iii-nala"],
   endsAt: "2026-09-30T17:49:00.000Z",
 } as const satisfies StoryTurnPlayed
