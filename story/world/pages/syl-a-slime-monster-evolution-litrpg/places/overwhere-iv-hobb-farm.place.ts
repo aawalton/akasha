@@ -48,6 +48,30 @@ export const overwhereIvHobbFarm = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "As at the common, the orchard slimes still and drift to Nala; they come to her in a crowd.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hobb has never seen slimes come to anyone, and would call it witchery, half-pleased.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At dusk two goblin scouts creep from the Tangle to the gap in the far wall for another sheep.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The goblins are LV 3 and LV 4, with a flint-tipped spear and a rusty knife, in hide scraps.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The goblins are cowards alone and bold in pairs; one hurt badly makes both run.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Bran the sheepdog smells goblins before anyone sees them, and barks toward the far wall.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Hobb Farm, on the Tangle's edge, is overrun with pest slimes, and Hobb wants every one gone.",
       knowers: [
         "lore-disclosure/game-master",
