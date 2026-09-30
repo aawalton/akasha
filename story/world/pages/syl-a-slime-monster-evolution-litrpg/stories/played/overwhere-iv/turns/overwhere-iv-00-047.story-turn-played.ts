@@ -4,10 +4,13 @@ export const overwhereIv00047 = {
   id: "01a0f49b-751a-7ff2-b5db-722b14f00242",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-047",
+  ownLength: 197,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 47,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“I’ve been working on a specialized armor piercing spear skill for a long time and I guess it’s finally paying off. Practicing pushing past armor turned out to be just what I needed to learn to strike from a distance. Useless without a spear though.”",
   beats: [
@@ -24,6 +27,6 @@ export const overwhereIv00047 = {
     '"Two of scripture, a herbal, a vale chronicle, a primer, a road book, and the hero tales."',
     'She takes a key from her belt and waits. "Which will you sit with, child?"',
   ],
-  lore: ["lore/overwhere-iv-marta-hesk"],
+  lore: ["lore/overwhere-iv-marta-hesk", "lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2"],
   endsAt: "2026-10-02T12:16:00.000Z",
 } as const satisfies StoryTurnPlayed
