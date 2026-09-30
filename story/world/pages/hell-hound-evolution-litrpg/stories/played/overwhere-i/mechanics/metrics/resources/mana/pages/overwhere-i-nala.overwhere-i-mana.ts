@@ -7,7 +7,7 @@ export const overwhereINala = {
   character: "character-player/overwhere-i-nala",
   value: 116,
   minValue: 0,
-  maxValue: 136,
+  maxValue: 148,
   history: "jsonl",
   displayOrder: 2,
 } as const satisfies OverwhereIMana
