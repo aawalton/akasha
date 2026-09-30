@@ -7,7 +7,8 @@ export const overwhereI00052 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 52,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I start swimming forward into the middle of the open channel, until I get within 100 meters of one if the wolves, or one of them gets with 100 meters of me, then. Start firing bullets at them.",
+  lore: ["lore/overwhere-i-starfall-legacy", "lore/overwhere-i-the-greyfen-alpha-2"],
 } as const satisfies StoryTurnPlayed
