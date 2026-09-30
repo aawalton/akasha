@@ -60,7 +60,7 @@ export const HEALTH_HISTORY = `${HEALTH_KEPT}{"turn":56,"value":9}\n{"turn":56,"
 
 export const CANCEL_NOTICE = `The turn \`${AT}\` is cancelled.`
 
-export const LANDED = {
+const LANDED = {
   base: "",
   landed: [],
   formatted: [],
