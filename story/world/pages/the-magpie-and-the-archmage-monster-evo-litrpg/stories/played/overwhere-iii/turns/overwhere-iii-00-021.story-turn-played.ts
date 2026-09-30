@@ -10,7 +10,7 @@ export const overwhereIii00021 = {
   position: 21,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I go back out to gather another 20 frostcaps, since I have the afternoon still free.",
   beats: [
     "Nala heads back out for another twenty frostcaps; she still has the afternoon.",
@@ -29,13 +29,16 @@ export const overwhereIii00021 = {
     "Two antlered rabbits graze among those roots, each with a small glow.",
     "They haven't seen her yet.",
   ],
-  issues: ['"They haven\'t seen you yet." - No Prompt'],
+  issues: [
+    '"They haven\'t seen you yet." - No Prompt',
+    '"her feet are still raw from yesterday" - her soles went raw on this morning\'s walk back, day 2',
+  ],
   lore: [
     "lore/overwhere-iii-marda-hesk",
     "lore/overwhere-iii-nala",
     "place/overwhere-iii-merrowgate-guild-post",
     "place/overwhere-iii-wrenwood",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T15:08:00.000Z",
 } as const satisfies StoryTurnPlayed
