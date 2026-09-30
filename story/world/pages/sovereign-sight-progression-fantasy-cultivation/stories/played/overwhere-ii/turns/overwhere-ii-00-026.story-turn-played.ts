@@ -29,8 +29,14 @@ export const overwhereIi00026 = {
     "Garth fills a basin from the kettle and sets a clean rag beside it.",
     'Garth: "Let me wash that before you try anything more. There\'s wolf spit and salt in it yet."',
   ],
-  lore: ["lore/overwhere-ii-keeper-anselm", "lore/overwhere-ii-nala", "lore/overwhere-ii-undertow"],
+  lore: [
+    "lore/overwhere-ii-garth-marsh",
+    "lore/overwhere-ii-keeper-anselm",
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-undertow",
+    "lore/overwhere-ii-wren-marsh",
+  ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-29T18:12:00.000Z",
 } as const satisfies StoryTurnPlayed
