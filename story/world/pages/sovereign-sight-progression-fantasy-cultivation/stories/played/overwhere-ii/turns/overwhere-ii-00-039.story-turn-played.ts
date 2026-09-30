@@ -10,7 +10,7 @@ export const overwhereIi00039 = {
   position: 39,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I speak as close as I can get with careful and quiet movements, then I attack them in the cleft, throwing them off by pushing when they attack me and by pulling them and pushing my spear when I attack them, cycling all the while.",
   beats: [
@@ -34,6 +34,6 @@ export const overwhereIi00039 = {
     "It lurches away up the scree on three legs, toward the corrie lip and Hollow Tarn beyond.",
   ],
   lore: ["lore/overwhere-ii-greymaws", "lore/overwhere-ii-nala", "place/overwhere-ii-tarn-screes"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T11:23:00.000Z",
 } as const satisfies StoryTurnPlayed
