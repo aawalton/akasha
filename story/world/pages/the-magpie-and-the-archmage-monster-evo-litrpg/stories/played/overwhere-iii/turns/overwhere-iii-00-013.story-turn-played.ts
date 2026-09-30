@@ -35,5 +35,6 @@ export const overwhereIii00013 = {
   issues: ['"The current still runs past the beech, close enough to reach." - No Prompt'],
   lore: ["lore/overwhere-iii-nala", "lore/overwhere-iii-wrenmark-beasts"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-30T09:01:00.000Z",
 } as const satisfies StoryTurnPlayed

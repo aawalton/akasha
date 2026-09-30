@@ -140,6 +140,18 @@ export const overwhereIiiWrenwood = {
       fact: "An antlered gray-brown rabbit with a small glow feeds under a huge old beech west of the shrine.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala's Current Lash tore most of the big frostcap cluster under the huge old beech bruised gray.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "Cornered in the old beech's roots, the antlered rabbit fights rather than runs.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "The antlered rabbit under the old beech is hurt, with a shallow knife cut along its jaw.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

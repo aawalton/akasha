@@ -266,6 +266,14 @@ export const overwhereIiiNala = {
       fact: "Cleared: [Mana Weaver – At [Basic] level, you see currents and auras. They lend your workings mana.]",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Her first Current Lash loosed far more force than she meant to put in it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "An antlered rabbit's bite opened her forearm deep enough to bleed down her wrist.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
