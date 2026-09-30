@@ -193,5 +193,13 @@ export const overwhereIvNala2 = {
       fact: "Nala told the old herdsman she cut the oak with an armor-piercing spear skill.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Below a quarter of her mana, Nala's head aches dully and her limbs feel heavy.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Awake, Nala regains about six mana an hour; a night's sleep fills her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
