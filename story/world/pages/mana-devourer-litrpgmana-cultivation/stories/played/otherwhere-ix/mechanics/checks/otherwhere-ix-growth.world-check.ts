@@ -57,6 +57,11 @@ export const otherwhereIxGrowth = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Challenges in order, then training, each settle at the grade and pace the ones before left.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "Each level gives eight unspent points, which she spends on attributes as she says.",
     },
     {

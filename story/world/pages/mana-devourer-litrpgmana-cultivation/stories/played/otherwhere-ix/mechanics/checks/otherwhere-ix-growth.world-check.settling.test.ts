@@ -54,6 +54,33 @@ test("levels come half as fast past twenty-five, but a real gain gives at least 
   ).toHaveProperty("answered.levelsGained", 1)
 })
 
+test("a second challenge is weighed against the grade the first lifted her to", () => {
+  expect(
+    settled({
+      ...NALA,
+      level: 4,
+      challenges: [
+        { grade: "G", outcome: "overcome" },
+        { grade: "F", outcome: "overcome" },
+      ],
+    })
+  ).toHaveProperty("answered", {
+    levelsGained: 2,
+    level: 6,
+    grade: "F",
+    pointsGained: 16,
+    maxHealth: 170,
+    maxMana: 344,
+  })
+})
+
+test("levels past twenty-four come at half pace even within one turn", () => {
+  expect(settled({ ...NALA, level: 24, trainingHours: 8 })).toHaveProperty(
+    "answered.levelsGained",
+    1
+  )
+})
+
 test("a person is G Grade to level four and F Grade from five", () => {
   expect([gradeOfLevel(4), gradeOfLevel(5), gradeOfLevel(100)]).toEqual(["G", "F", "E"])
 })

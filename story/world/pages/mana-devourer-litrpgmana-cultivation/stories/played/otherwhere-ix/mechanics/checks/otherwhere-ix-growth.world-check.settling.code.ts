@@ -77,12 +77,20 @@ export function settled(reading: unknown): Settled {
   const held = TURN.safeParse(reading)
   if (!held.success) return { refused: `a turn of growth reads so: ${z.prettifyError(held.error)}` }
   const { level, challenges, trainingHours, constitution, spirit } = held.data
-  const own = gradeOfLevel(level)
-  const raw =
-    challenges.reduce((sum, one) => sum + rawLevels(own, one), 0) +
-    Math.floor(trainingHours / TRAINING_HOURS_PER_LEVEL)
-  const share = PACE.find((one) => level < one.below)?.share ?? 1 / 8
-  const levelsGained = raw === 0 ? 0 : Math.max(1, Math.floor(raw * share))
+  let raw = 0
+  let paced = 0
+  const take = (worth: number): undefined => {
+    raw += worth
+    for (let one = 0; one < worth; one += 1) {
+      const at = level + Math.floor(paced)
+      paced += PACE.find((pace) => at < pace.below)?.share ?? 1 / 8
+    }
+  }
+  for (const challenge of challenges) {
+    take(rawLevels(gradeOfLevel(level + Math.floor(paced)), challenge))
+  }
+  take(Math.floor(trainingHours / TRAINING_HOURS_PER_LEVEL))
+  const levelsGained = raw === 0 ? 0 : Math.max(1, Math.floor(paced))
   const reached = level + levelsGained
   return {
     answered: {
