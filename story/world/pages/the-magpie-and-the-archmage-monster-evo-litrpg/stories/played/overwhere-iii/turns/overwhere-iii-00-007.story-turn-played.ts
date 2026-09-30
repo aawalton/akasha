@@ -10,4 +10,5 @@ export const overwhereIii00007 = {
   stepStatus: "step-status/game-master",
   action: "“Thank you” I tell Tobin again after eating. “Do you know any spells?”",
   lore: ["lore/overwhere-iii-nala", "lore/overwhere-iii-tobin-wick"],
+  endsAt: "2026-09-29T18:00:00.000Z",
 } as const satisfies StoryTurnPlayed
