@@ -149,7 +149,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Pulled by Undertow, Dray feels a tide drag at him, and knows at once her Talent is no small one.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
