@@ -232,6 +232,10 @@ export const overwhereIiiAdventurersGuild = {
       fact: "A failed quest costs only the Guild's regard; an abandoned one must be told at the desk.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A Copper ring shows its wearer's Guild Profile and quest windows, and nothing of beasts.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
