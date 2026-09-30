@@ -83,6 +83,10 @@ export const overwhereIGreyfenFord = {
       fact: "The streambed at the ford is laid with flat grey stones.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Above the waterline stands a knee-high, gapped ring of stone round a heap of fallen stone.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

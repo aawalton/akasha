@@ -21,7 +21,7 @@ export const overwhereIHessaVane = {
     },
     {
       fact: "She is lean and weathered, with a grey-streaked black braid and the tip of her left ear missing.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "She carries a yew longbow, a heavy boar spear and a skinning knife, in patched green leathers.",
@@ -70,6 +70,10 @@ export const overwhereIHessaVane = {
     {
       fact: "She and Tobin reach Greyfen Ford on Sootjaw's trail a little after eleven on day one.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She came to the ford in patched green leathers, a longbow in hand and a spear across her back.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",

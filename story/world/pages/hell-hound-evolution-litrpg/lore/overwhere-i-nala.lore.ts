@@ -211,15 +211,15 @@ export const overwhereINala = {
     },
     {
       fact: "Stone shaped and held by a working falls apart the moment the working ends.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Stones she sets to rest on one another stay put after the working ends, as dry-stone.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "At legacy rank 1 one earth draw moves about a barrow-load of stone.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Lore
