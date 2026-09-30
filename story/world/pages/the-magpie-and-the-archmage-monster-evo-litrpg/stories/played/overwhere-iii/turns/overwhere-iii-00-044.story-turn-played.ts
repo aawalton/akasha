@@ -15,7 +15,7 @@ export const overwhereIii00044 = {
     "character-other/overwhere-iii-hild-wendle",
     "character-other/overwhere-iii-marda-hesk",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I spend the day reading Brannagh’s book, going back to the post again to drain my mana whenever it gets close to full, but only after the healing touchup. If I finish the book, I go back to the Post to read more in the bestiary. If I finish cleansing any blightstones, I collect the resulting glimmerstones.",
   beats: [
@@ -44,6 +44,7 @@ export const overwhereIii00044 = {
     "She's two-thirds through it, and her inside has filled back to a little over half.",
     "Brannagh comes round with the lamp. \"Shop's shutting. Book's here at first light.\"",
   ],
+  issues: ['"Bet\'s old", "bought for four copper", "with Brannagh\'s clay cup" - What It Is'],
   lore: [
     "lore/overwhere-iii-brannagh-tull",
     "lore/overwhere-iii-cleansing-weave",
@@ -55,6 +56,6 @@ export const overwhereIii00044 = {
     "lore/overwhere-iii-nala-2",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-02T18:00:00.000Z",
 } as const satisfies StoryTurnPlayed
