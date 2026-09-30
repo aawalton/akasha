@@ -162,23 +162,23 @@ export const overwhereIiNala = {
     },
     {
       fact: "The flow runs itself in loops she never chose, like a thing long practised, even as she sleeps.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Eyes shut and turned inward, she sees a blue-green light in her chest and five bright threads.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The threads run to each palm, each sole and her throat, and loop back into the well.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Willing the flow faster warms her limbs, sharpens her senses and makes her feel light and strong.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Pushed to her palms, the flow presses to get out like a held breath, and she can hold it back.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Cycling, however hard, is quiet to others; only drawing deeply raises gooseflesh nearby.",
