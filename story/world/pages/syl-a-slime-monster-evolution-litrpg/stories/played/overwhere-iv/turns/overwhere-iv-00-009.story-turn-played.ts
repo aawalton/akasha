@@ -4,10 +4,13 @@ export const overwhereIv00009 = {
   id: "01a0f1c8-3bff-711b-a224-55d2373c4931",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-009",
+  ownLength: 537,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 9,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Thanks!” I go back and get my spear, then start carefully clearing slimes in the commons, focusing on practicing my spear thrusts.",
   beats: [
@@ -37,6 +40,6 @@ export const overwhereIv00009 = {
     "He plants himself between her and the slime, fists on his hips, jelly to the elbows.",
     "\"That's the fattest on the whole common. I saw it first. You spear it and I'll tell.\"",
   ],
-  lore: ["place/overwhere-iv-millbrook-common"],
+  lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-millbrook-common"],
   endsAt: "2026-09-29T15:07:00.000Z",
 } as const satisfies StoryTurnPlayed
