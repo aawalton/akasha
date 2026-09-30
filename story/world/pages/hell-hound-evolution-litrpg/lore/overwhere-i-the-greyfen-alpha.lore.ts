@@ -38,7 +38,7 @@ export const overwhereITheGreyfenAlpha = {
     },
     {
       fact: "Its howl carries to Fenwatch on still nights, and Rowan Coalby's Drakewolf answers.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Wendlow's Hunters' Board offers twenty-five gold for its head.",
