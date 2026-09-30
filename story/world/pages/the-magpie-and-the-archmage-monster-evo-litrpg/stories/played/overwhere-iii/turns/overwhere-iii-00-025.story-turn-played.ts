@@ -28,6 +28,9 @@ export const overwhereIii00025 = {
     "The old woman's hand shoots out and turns Nala's wrist to the lamp.",
     'She studies the seam, close. Then she looks up, sharp as a thorn. "Who closed this?"',
   ],
+  issues: [
+    '"into Nala\'s hand" - she then reaches for the coins, and the prose puts them on the counter',
+  ],
   lore: [
     "lore/overwhere-iii-bet-harrow",
     "lore/overwhere-iii-brannagh-tull",
@@ -37,5 +40,6 @@ export const overwhereIii00025 = {
     "place/overwhere-iii-crook-and-candle",
     "place/overwhere-iii-merrowgate",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-30T17:44:00.000Z",
 } as const satisfies StoryTurnPlayed
