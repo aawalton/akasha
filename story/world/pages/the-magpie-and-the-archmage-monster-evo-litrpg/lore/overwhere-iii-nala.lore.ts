@@ -310,6 +310,10 @@ export const overwhereIiiNala = {
       fact: "Nala's bare soles are raw and sore from the long walk back to Merrowgate.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala finished her first Guild job, twenty frostcaps, and now holds a Copper Guild ring.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
