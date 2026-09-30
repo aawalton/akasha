@@ -17,8 +17,6 @@ export const metricCharacterResource = {
     "page-type/tower-stamina",
     "page-type/tower-attribute-point",
     "page-type/tower-of-nimue-free-point",
-    "page-type/otherwhere-i-health",
-    "page-type/otherwhere-i-mana",
     "page-type/otherwhere-i-power",
     "page-type/otherwhere-ix-stat-points",
     "page-type/overwhere-iv-health",

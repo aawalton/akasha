@@ -18,7 +18,6 @@ export const metricCharacterAttribute = {
     "page-type/tower-of-nimue-attribute",
     "page-type/tower-of-nimue-level",
     "page-type/the-beholder-attribute",
-    "page-type/otherwhere-i-strength",
     "page-type/otherwhere-i-connection",
     "page-type/otherwhere-ii-skill",
     "page-type/otherwhere-ii-ability",
