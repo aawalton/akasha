@@ -7,7 +7,8 @@ export const overwhereIi00039 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 39,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I speak as close as I can get with careful and quiet movements, then I attack them in the cleft, throwing them off by pushing when they attack me and by pulling them and pushing my spear when I attack them, cycling all the while.",
+  lore: ["lore/overwhere-ii-greymaws", "place/overwhere-ii-tarn-screes"],
 } as const satisfies StoryTurnPlayed
