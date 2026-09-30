@@ -259,6 +259,10 @@ export const overwhereITheGreyfen = {
       fact: "Drawing the knots out is one earth working at the Surge cost.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The two knots are thumb-joint crystals, pale blue, cold, faintly aglow in shade.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
