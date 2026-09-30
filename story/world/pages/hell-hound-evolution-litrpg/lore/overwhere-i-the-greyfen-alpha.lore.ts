@@ -276,6 +276,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "Through knee-deep marsh a Drakewolf covers a hundred yards in about twenty-five seconds.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The crescent's wings run wider, so the nearest three reach her some seconds before the outer three.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
