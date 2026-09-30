@@ -45,7 +45,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "From Wendle Ford the Whitecombs' lower slopes are two hours' walk south, by Callow Beck farm.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Above Callow Beck the snow line is half a day's climb; the goat tracks beyond it are buried.",
@@ -53,7 +53,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "Since midwinter a black pool smelling of the sea has opened in a high cwm above Callow Beck.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "High on the Whitecombs the thunder is felt more than heard, a tremor in the rock underfoot.",

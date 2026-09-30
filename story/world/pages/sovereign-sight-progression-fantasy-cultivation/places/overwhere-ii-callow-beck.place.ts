@@ -18,7 +18,7 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "Ebba knows every goat track on the Whitecombs, and has climbed them since she could walk.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "At midwinter Ebba saw the snow in the high cwm above her farm melt black in one night.",
@@ -42,6 +42,10 @@ export const overwhereIiCallowBeck = {
     },
     {
       fact: "Ebba gives walkers a round of goat's cheese and warns them to be down off the mountain by dusk.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Ebba Callow knew Nala's watch spear for one of Dray's, and Nala for the greymaws' killer.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
