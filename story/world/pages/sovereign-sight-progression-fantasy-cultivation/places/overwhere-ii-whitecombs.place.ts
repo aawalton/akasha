@@ -117,7 +117,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "At the split crag Nala's well feels a slow, vast pull from far below, a tide under the mountain.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The split in the crag breathes cold air that smells of the sea.",
