@@ -5,7 +5,7 @@ export const overwhereIiiNala = {
   type: "page-type/overwhere-iii-blightstones",
   slug: "overwhere-iii-nala",
   character: "character-player/overwhere-iii-nala",
-  value: 0,
+  value: 1,
   minValue: 0,
   history: "jsonl",
   displayOrder: 5,
