@@ -7,7 +7,8 @@ export const overwhereI00038 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 38,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I start a spiral search pattern using my water and earth detection technique, searching for the third hole.",
+  lore: ["lore/overwhere-i-greyfen-beasts-2"],
 } as const satisfies StoryTurnPlayed
