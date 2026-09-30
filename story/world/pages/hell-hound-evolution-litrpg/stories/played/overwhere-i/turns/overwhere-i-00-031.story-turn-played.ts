@@ -7,6 +7,11 @@ export const overwhereI00031 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 31,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action: "I attune water where the bubbles are and see I can grab the creature and pull it free.",
+  lore: [
+    "lore/overwhere-i-greyfen-beasts",
+    "lore/overwhere-i-starfall-legacy",
+    "place/overwhere-i-the-greyfen",
+  ],
 } as const satisfies StoryTurnPlayed
