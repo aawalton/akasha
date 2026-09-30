@@ -218,6 +218,10 @@ export const overwhereIiiNala = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "Her holy aptitude adds Purify to her skill shop, at 15 glimmerstones.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

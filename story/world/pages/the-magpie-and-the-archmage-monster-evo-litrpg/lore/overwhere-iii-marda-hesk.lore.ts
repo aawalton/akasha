@@ -84,6 +84,14 @@ export const overwhereIiiMardaHesk = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "Marda has sent three letters to the Thornmere Guild hall for a holy mage; each was set aside.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She would tell a white-gold stranger plainly: that light is holy, and holy magic purifies blight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

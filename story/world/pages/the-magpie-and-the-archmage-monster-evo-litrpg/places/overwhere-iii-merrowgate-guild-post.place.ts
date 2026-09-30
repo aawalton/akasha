@@ -70,6 +70,10 @@ export const overwhereIiiMerrowgateGuildPost = {
       fact: "A Guild mana signature card is light, smooth and cool, like polished wood.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Bounty blightstones sit in a lead-lined box under the desk until the Thornmere wagon takes them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
