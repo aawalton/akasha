@@ -178,6 +178,18 @@ export const overwhereIiiNala = {
       fact: "On a Guild form, Mana Weaver is a name no clerk or adventurer in the Wrenmark has heard.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala slept her first night in Merrowgate in a room under the eaves at the Crook and Candle.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-bet-harrow",
+      ],
+    },
+    {
+      fact: "Nala ate stew for supper at the Crook and Candle, and woke hungry again.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

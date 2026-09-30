@@ -167,6 +167,14 @@ export const overwhereIiiMerrowgate = {
         "character-other/overwhere-iii-tobin-wick",
       ],
     },
+    {
+      fact: "A slow, deep bell rings out over Merrowgate at first light.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "At first light market carts come into the town square to set up.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

@@ -167,6 +167,14 @@ export const overwhereIiiTobinWick = {
         "character-other/overwhere-iii-tobin-wick",
       ],
     },
+    {
+      fact: "Tobin let Nala keep his coat for now, and said he would be on the square.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tobin-wick",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

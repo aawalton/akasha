@@ -48,6 +48,14 @@ export const overwhereIiiMardaHesk = {
       fact: "A mana card that lit white-gold for a stranger would make Marda write to Thornmere at once.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Marda looked Nala over without expression and asked bluntly what she was after.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
