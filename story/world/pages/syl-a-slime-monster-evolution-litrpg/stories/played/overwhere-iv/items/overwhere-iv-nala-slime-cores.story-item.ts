@@ -7,7 +7,6 @@ export const overwhereIvNalaSlimeCores = {
   title: "Slime Cores",
   story: "story-played/overwhere-iv",
   character: "character-player/overwhere-iv-nala",
-  quantity: 7,
-  description:
-    "Dull grey slime cores clinking in her jerkin's inside pocket, 3 copper each at the hall.",
+  quantity: 47,
+  description: "Dull grey slime cores clinking in her pockets, 3 copper each at the hall.",
 } as const satisfies StoryItem

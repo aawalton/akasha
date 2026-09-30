@@ -7,6 +7,7 @@ export const overwhereIvNalaLeatherGloves = {
   title: "Leather Gloves",
   story: "story-played/overwhere-iv",
   character: "character-player/overwhere-iv-nala",
+  slot: "item-slot/hands",
   description:
     "Old leather work gloves, worn soft and a little big, lent from the hall's lost box.",
 } as const satisfies StoryItem
