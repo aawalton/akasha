@@ -81,7 +81,12 @@ export const overwhereIiiGarrickDole = {
     },
     {
       fact: "Clear-headed now, Garrick asks his healer's name, and says slowly that he owes her.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-garrick-dole",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
     },
     {
       fact: "Once clean, Garrick means to give his healer a fleece-lined sheepskin coat off his farm.",
