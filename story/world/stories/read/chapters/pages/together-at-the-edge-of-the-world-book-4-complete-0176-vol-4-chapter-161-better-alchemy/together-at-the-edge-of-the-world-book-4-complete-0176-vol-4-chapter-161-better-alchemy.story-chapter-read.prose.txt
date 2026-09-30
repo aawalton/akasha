@@ -1,0 +1,167 @@
+They got up early the next day, had a hearty breakfast, leaving a portion for Linzy for when she woke up, along with a note letting her know they didn't want to be bothered, and disappeared into the brewing room.
+
+While David retrieved the tools and set up the workstation as best he could, and Lychee slept in an old potion crate in a corner, Niala pored over her notes and tried to order her swirling thoughts while her tail swished around fast enough to create a soft breeze.
+
+From what she had gathered, the Reign had moved on from alchemy at an earlier stage than Amberfallians, who were just starting to make headway into compound alchemy, a rough equivalent to molecular chemistry.
+
+Thanks to the cross-reference lists she had found, she could transpose most of the advanced science to her current practice, and there were quite a few angles she could try to use to improve her alchemy.
+
+Firstly, the compounds themselves. The book had confirmed something she had long suspected; the four levels of concentration that compound alchemy used were inaccurate: Tenuis, Medius, Fortis and Furens, or fancy ways to say Weak, Average, Strong and Powerful, which she equated to a half unit, one, two, or three units of compound.
+
+But there were variances, which partly explained why her best potions were sometimes Royal-grade and sometimes Saints-grade. The variable amount of each compound unbalanced the formulas and worked against each other.
+
+The problem is that she had no clear and precise way to measure the amount of each compound in her ingredients. The books said that it could be weighted, and indeed that is how the reign machines did it for molecular chemistry, but that was done using a concept called “aetheric mass”. Something about how the different compounds reacted differently when exposed to other compounds.
+
+She could replicate that process, but it would be extremely long and tedious. What she needed was a way to just get a more accurate measure of the compounds. Little steps first, push the boundaries of compound alchemy later!
+
+But... she wasn't sure how to even do that. Yet.
+
+The second path of improvement was a more profound understanding of the compounds' interactions with each other. She already knew that they reacted to one another in their natural form, but also when combined together. This is why the order in which you introduced compounds was so important; you wanted them to “bind” together in a way that did not create effects you didn't want. If you put life essence first, followed by fire essence, you had the start of a healing potion, but if you put in water essence second, you went the route of an antidote.
+
+However, the books also described a third layer of interaction. She still had to wrap her head around it, but put simply, when two or more compounds bonded together, they also released surplus elements. Those came in small amounts, but they could nudge a potion one way or another, as the surplus would bind with other elements themselves.
+
+She also suspected that this surplus played a role in the “ghost effects”, but she would have to test this.
+
+For now, this meant that she had to redo her entire list of compound interactions, one by one, and determine the kind of surplus they created. If she could master this process, then it meant she could be creating formulas that worked in three ways! The compound, the ghost effect, and the surplus!
+
+Just thinking about being able to create complex formulas that took all of those into account to create effects in tandem made her ears wiggle enough to tickle! She giggled both at the thought and the sensation, giving David a happy smile when he glanced her way.
+
+And then, there was the final way to improve her potions: better temperature control. It was already one of the most important parts of alchemy in general, as the application or removal of heat was the primary way a non-compound alchemist had to control how active the compounds were in their ingredients. For compound alchemy, it was both less and more important at the same time. Less, because she had more tools to control the various compounds, and more, because she knew how to target individual compounds instead of the brew as a whole.
+
+Molecular chemistry took this one step further and introduced a new concept, as well as adding nuance to an existing one. First, there was the idea of temperature zones, which was known, if not verbalized, by current alchemy; a potion was always warmer near the burner, so the brew could react differently if the brewing vessel was too large.
+
+Modern alchemists simply attempted to keep the entire vessel at the same, or close enough, temperature. Reign chemistry made use of those temperature zones, once again allowing multiple reactions within the same vessel.
+
+The second, new concept, was that heat was not the only tool, but so too was cold. Reign chemistry had found that, at lower temperatures than ambient, compounds could react differently and create stronger or weaker bonds. The possibilities made her wiggle her haunches as she suppressed a squeal.
+
+David gave her another glance, and she gave him another smile, with a bit of a blush this time.
+
+She went back to her notes and ran through them once more. First, precise compound measurement. That was out, for now.
+
+Second, figuring out the surpluses from compound interactions and using them. She could work on that. It would be a simple, if extensive, series of tests and measures.
+
+Third, temperature zones and refrigeration. She tapped her pencil on her pursed lips, as a form took shape in her head. She lowered her hand to begin sketching it.
+
+An alchemy vessel, but with two, or maybe three, chambers, insulated from each other, but with valves she could operate to move the liquids between chambers. Each chamber would have a way to either heat or cool its contents.
+
+Hmm... a mana burner was the preferred method, but it wasn't the only method. Her father used heat-conducting enchantments on his larger vats to distribute the heat evenly. A mana burner at the bottom could generate the heat, to be transported to each chamber, with a series of resistances along the way to control how much of it went through.
+
+And, beside that, a cooling box system, with the same kind of enchantments to sap heat away from the chambers, cooling them down.
+
+Yes, that would work! She finished her sketch and analyzed it. It looked really complicated... maybe a prototype, made from disparate pieces, instead of a full-assembled model? Yes! A good first step!
+
+She quickly jotted down a list of tools and supplies they'd need and ripped off the page, turning to David with a triumphant grin while holding out the piece of paper.
+
+David quirked a brow. “What's that?”
+
+“A shopping list!”
+
+“Shopping list? I thought we were brewing today?”
+
+Her ears wiggled. “We are! But! First, we need to set up my new multi-chambered temperature-controlled brewing vessel! My... MCTC!”
+
+“That sounds made up, and it's a terrible name. Can't even pronounce it.”
+
+She stuck her tongue out. “That's because it is made up! Just now! It's a new invention, and it's going to revolutionize the alchemical world! And! If you're so smart, why don't you come up with a name for it?”
+
+He scratched his cheek. “Sure. Describe it to me?”
+
+She grinned and showed him her sketch, pointing at its various parts. “I need something with multiple vessels that can transfer their contents from one another, and heat or cool themselves independently!”
+
+David tilted his head as he looked at the sketch. He looked up at Niala. “How about the Multi-Brewer?”
+
+She frowned. “But... that doesn't even hint at the temperature control?”
+
+He grabbed his chin. “Hmmm... that just makes the name complicated. Multi-Brewer is simple. If you don't like it, then the Niala Brewer.”
+
+Her ears twitched as she narrowed her eyes. “...Why my name?” She asked, suspicious.
+
+He shrugged. “In honour of your bubbling personality and how quickly your cheeks heat up!”
+
+She kept staring at him through slitted eyes, unsure if she should be honoured or offended.
+
+He blinked. “What? I think it's a fitting name. And, besides, once it catches on, everyone will know it was you who invented it.”
+
+She pulled her head back. “Once it catches on? Don't you mean if it catches on?”
+
+He shook his head. “Nah. If it's about alchemy and you invent it, I know it'll become famous.”
+
+She felt her cheeks warm up a bit.
+
+He grinned and pointed at her. “See? Instant heat. It's the perfect name!”
+
+Right.
+
+She humphed and spun on the spot, heading for the door. “Lychee, come, girl. We have some shopping to do.”
+
+“What about me? I thought we were going shopping.” David called after her.
+
+She stopped and looked him up and down over her shoulder. “I suppose I'll need someone to lug my stuff around.” She dropped before stepping through the door.
+
+David shrugged and stepped after his wife.
+
+He knew she was trying to act offended, but her tail kept swishing around, and her blush was still there. He couldn't help but smile.
+
+And, if he needed any more confirmation that she really wasn't mad, when he caught up to her and brushed his hand against hers, she grabbed his hand and didn't let go, even while she kept pouting.
+
+Adorable.
+
+They returned home near lunch, taking a break to make some quick sandwiches and have a bite before returning to the brewing room.
+
+There, they spend a few bells setting up and testing a prototype Niala Brewer.
+
+It was a hack job, with small pumps, a partially disassembled cooling box, metal strips with heat transfer enchantments bent and clamped together at odd angles, and tubes and valves connecting three basic beakers together. It looked, and was, haphazard, but it sort of worked, after a fashion.
+
+It was enough for a proof of concept, at the very least.
+
+She decided to go for a simple digestive, and adding to it the effects of an energizer and hydration potion. Normally, these could not be brewed together, and if someone drank the individual potions in a short period of time, they ended up interfering with each other.
+
+But her apparatus should technically allow her to bind the compounds in the correct order.
+
+The first order of business was to figure out the order of operations. She had David prepare and bring her the ingredients while she began testing out the process.
+
+It was touch-and-go, with several false starts and many dead ends, where the compounds would get “stuck” in a phase she couldn't use.
+
+But, little by little, like a puzzle slowly revealing itself, they made headway.
+
+They went through dozens of iterations, feeding a happy Lychee with the failed potions, and kept going, getting a bit farther each time.
+
+By the end of the day, they hadn't yet managed it, but Niala felt they were close. She had most of the process down and just needed to figure out the remaining few steps.
+
+For now, however, it was getting late, so they cleaned up everything and broke for dinner.
+
+The new brewing process kept running around in Niala's head, to the point where David had to snap his finger at her a few times to bring her back to the present and not mess up the dinner.
+
+But the process kept coming back to her. Something was nagging at her mind, like she had a key in her hand but didn't know which door it was meant for.
+
+Eventually, dinner was done and eaten, and David and Niala retreated to their living room to relax.
+
+Or rather, David forced Niala to come relax. She had wanted to return to the brewing room right away, to finish figuring it out.
+
+He won her over by placing one of his warm hands on her neck and gently massaging muscles that she hadn't realized were tense. As she felt the day's worth of neck strain from looking down at her work table, she reluctantly admitted that, maybe, some snuggling time was acceptable.
+
+It wasn't long before she was a happy squiggle lying on top of him on the couch, one of her ears twitching lazily whenever his hand moved nearby as he gently stroked her head.
+
+He looked at her, her eyes closed and a smile on her face, and felt his lips curl upward. “You looked like you were having fun today.”
+
+She smudged her cheek up and down his chest. “It was the best. Brewing is fun and all, but inventing and discovering new ways to brew... It's been too long.”
+
+Her ears shot erect as her eyes opened wide and she lifted he head to look at him. “And we're so close! Tomorrow, we'll finish figuring out this new potion, and we'll have created a whole new kind of potion! Something that mixes three different potions into one, that even regular alchemists can do, as long as they have an MCTC vessel!”
+
+“You mean a Niala Brewer, and you will have created it. I just passed you herbs and cleaned the glassware.”
+
+She shook her head. “You're my super important, super hunky assistant. No good genius alchemist can do without a super hunky assistant. It's in the rule book.” She said as she lowered her head back to him.
+
+“Which rule book? The guild's?”
+
+“Mmmh, no. Niala's rule book of genius alchemy.”
+
+“Sounds made up.”
+
+“That's because it is. I made it up, just now, but since I made it up, now it exists, so it's real. Don't question the genius alchemist, hunk assistant.” She said, nuzzling his neck.
+
+“Ah, so humble, too.” He countered, while his hand found her neck and his fingers began kneading her muscles there.
+
+“Hmmm, very humble, and you're very hunky. Don't stop...” She added with a little moan.
+
+He had no intention of stopping.

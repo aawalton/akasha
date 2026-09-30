@@ -1,0 +1,167 @@
+It had been a few weeks since David had floated up the idea of trying his hand at enchanting, and yesterday, the final piece he needed had arrived: an engraver.
+
+He and Niala had spent that afternoon setting up a workstation for David in the basement; the work was slow and meticulous, and a calm and quiet environment was recommended in the manuals that they had read.
+
+They, because Niala wouldn't be left out of partaking in her husband's potential new hobby. She wanted to, at the very least, be able to understand what he would talk about.
+
+She really was too good for him, and at the same time, made him feel inadequate because he hadn't really tried to understand her craft beyond the basics.
+
+He'd fix that, somehow.
+
+For now, he had this whole enchanting thing to try, and he was more excited at the prospect than he let on. Maybe it was just for trying something new, or maybe the craft just appealed to him; he didn't know yet.
+
+All he knew was that the engraver his brother Luke had found was not an ordinary piece; it was not new, but he hadn't expected to get one within a few weeks of asking, and it didn't make sense to splurge for something new when he was just exploring the idea, anyway.
+
+Still, it had been well-cared for and was not a basic model; the engraving pen was modular, with different heads and bodies to be swapped according to the material being worked on, or the type of enchantments needed.
+
+It was, however, only the engraving module; the other part that most enchanters used, the dedicated mana heart, was missing. This was just fine for David, who would be providing the mana directly, but he guessed that was why Luke had managed to get it for so cheap.
+
+Now, this morning, after reading up on the most basic of enchantment as his first project, he sat down at the worktable, got one of the thin metal strips he would be working on, selected what the manual said were the right body and head, and got started.
+
+Niala, sitting next to him, ears twitching and tail swaying, observed David's manipulation.
+
+His chosen tool was a basic light-emitting enchantment, similar to what his courier plaque had.
+
+There were three parts to it: a mana-collecting array of runes, a mana-concentrating rune, and a mana-to-light converting rune, all linked with artificial mana pathways.
+
+The runes themselves were a mildly understood part of the process; exactly why they worked was mostly a mystery, covered in hypothesis and little else, though the how was well understood.
+
+They were usually described as the mana's natural language to the uninitiated, though the correct technical term was mana-tuning. The shapes made the mana resonate in certain ways, trimming it down to certain wavelengths, frequencies, and amplitudes. At the convergence of all three, according to well-established charts, certain effects were generated.
+
+The basic enchantments were called uni-runes; they had a single effect. In David's current project, these were: attract mana, compress mana, and release mana as light.
+
+Uni-runes were the building block, but the poly-runes were what enabled modern magitech by combining runes to form intricate effects. A strum cannon, for example, was a mix of different mana releases, transforming the mana from diffuse energy into a short-lived but coherent beam of energy, feeding that to a mix of compressing and directional runes, before finally reaching a gate rune that activated upon the press of the cannon's trigger.
+
+Finding and refining poly-rune arrangements was the spearhead of magitechnology; the field where dedicated souls spent untold hours of experimentation and calculations.
+
+Even more advanced were echo-runes, a process in which poly-runes would not only combine to create a new effect, but also interact with secondary runes to create superimposing ones. The process allowed multiple combined effects to happen at once, instead of having to layer them one after the other.
+
+Airship's contra-lift plates came from echo-runes, and figuring new echo-runes was either the work of entire teams or of true geniuses. Usually, a mix of both.
+
+David didn't have any aspirations of ever getting to that point; for now, he just wanted to see if he could find the process fun and interesting.
+
+It was with this thought that he willed his mana to his hand, recalled the process with which he had regulated his output back at the fairy institute, and used the engraving tool's integrated mana metre to set his output to a rock-steady 10,000 manawatts.
+
+And then he began engraving.
+
+SANCTUARY ISLAND
+
+Koltos watched David on the viewing pane like a hawk. “I don't like this.” He said to nobody in particular.
+
+Almeniris, lounging on the summoned couch, raised her head to look at him. “What? Him scribbling on a piece of metal?”
+
+He shot her an exasperated glare, returning his attention to the scene before him. “He's engraving runes.”
+
+She turned her head toward the pane. “Oh, yeah, he is. Boring.”
+
+He rolled his eyes. “Of course mental pursuits are boring. Why would anyone do anything not related to muscles and violence?”
+
+She smirked. “Aaaah, you're starting to understand!”
+
+“The only thing I understand is that you have no idea why this man, doing this thing, is worrisome,” Koltos said, waiving a hand at David's image.
+
+Almeniris sighed and sat properly on the couch. “Ok, mental-guy, why is it worrisome?”
+
+“Hmm, how to explain this to someone with the mind of a 12-year-old...”
+
+She narrowed her eyes at him, but didn't immediately throw him into the distance. Not yet. He'd get there, eventually. He always crossed the line.
+
+One of the reasons she actually kind of liked him.
+
+As throwing practice.
+
+He rubbed his chin, then pointed at the rune slowly being forced on the piece of metal in David's hand. “He's using runes, which is a lower form of Godscript, which itself is a lesser form of the Writ. Godscript can, when enough power is supplied, be used to temporarily supplant the Writ.”
+
+She waved her hand. “Yeah, and? What's the problem? Are you scared David might be able to make super-runes able to supplant Godscript?”
+
+He shook his head. “I'm afraid he'll be able to supplant the Writ.”
+
+She blinked, then narrowed her eyes. “There's no way the crude tools he's using would stand up to the amount of mana he would need.”
+
+“True... but he might be the only living transient who doesn't need those crude engraving tools. If he ever finds out that he can do the same by simply refining his mana output to a single point of sufficient density...”
+
+She slowly moved her head up and down. “...Then he might be able to use runes to...” Her head turned toward Koltos. “You really think he might be able to overwrite a Writ-written Fundamental?”
+
+His brows knotted. “He already did, when he blew up his inner world. The Fundamental that said it was impossible is changed now.”
+
+Her mouth formed a circle. “Oh.”
+
+“Yes, oh... why are you smiling, you maniac!? This transient might be on the path to re-writing reality!”
+
+She was, indeed, smiling. “Can't you imagine all the fun stuff that's going to happen when he does?!”
+
+Koltos recoiled. “When?!”
+
+She firmly nodded. “I have faith in my David being able to break anything!”
+
+“It could break us!” He lamented.
+
+She shook her head and waved her hand. “Nah, he's a sweet boy, he wouldn't do that! It'll just be a lot of fun to watch, and maybe all the other codgers will finally allow us to go back!”
+
+He stared at her. “That's what you really want, isn't it? To be allowed to go fornicate with transient ag-”
+
+She threw him. A loud bang indicated he'd broken the sound barrier.
+
+Almeniris judged her throwing performance quite acceptable.
+
+Niala watched as David continued engraving runes on the small metal plate. Neither of them spoke; he too focused on his task, and she too focused on him.
+
+For all the ribbing she gave him about his rather direct approach to problem-solving, she fully knew that her husband was a very smart man. A good head, a strong heart, and even stronger arms. Whatever had she done to deserve him?
+
+But now, with him putting all of those qualities into this delicate task, it was as if she was seeing a new facet of the man she loved. One where he was refining himself to a single point, and demonstrating that he could be as dedicated to a single task as she was when performing alchemy.
+
+She lapped up every moment of it. It reminded her of the time she would spend with her father, both of them entirely engrossed in a single task. She loved observing her father, his manipulations done with intent, his entire being committed to the task. The silence was broken only by the sound of his tools clinking on the metal plate.
+
+The scene before her warmed her heart with a mix of nostalgia and adoration.
+
+She blinked in surprise when he leaned back from the worktable and spoke. “Done, I think.”
+
+He turned toward her with a grin on his face. She smiled back, as proud of him as he was of himself. “Want to try it out right now?”
+
+A dribble of worry crossed his face. “Hmm, it's a first try, so it probably won't work, or it might even overload.”
+
+Her tail swished. “But it's a basic, low-power enchantment, right? Any overload wouldn't be that powerful.”
+
+He stared at the engraved metal plate in his hand, the runes' lines etched in relief on it. “No, it shouldn't... but let's go outside anyway. A bang in an enclosed space isn't good for the ears.”
+
+She agreed, and they went to their backyard.
+
+They found a spot in the shade of the tree, where the light enchantment would be more visible, should it work.
+
+David, with a heavy leather glove, held the metal plate at arm's length and pulsed his mana, triggering the mana-gathering rune.
+
+They held their sight on the plate. For a few seconds, nothing happened, and then a little spark flew up, then a second, smaller one. David was about to throw his failure away when, after a puff of smoke, a tiny, strobing light made itself known.
+
+It was, in the grand scheme of things, a pathetic light, but to David, it was a realization. It was something he could use his mana to do that didn't involve violence.
+
+He turned his head to look at Niala, a smile he couldn't control on his face. She returned it to him two-fold.
+
+And then the plate fizzled, puffed, sparkled, the light struck out like a lightning bolt, and the metal plate flash-burned itself in half.
+
+David yelped and let go; even through the heavy leather, the heat had stung his fingertips. He pulled his hand out and fanned it to cool off.
+
+The metal plate was in two halves, one end of it still sizzling. He tore his gaze from it and looked back at Niala, who had concern oozing off of her.
+
+With a sheepish smile, he rubbed the back of his head. “I guess I can't help but break things.”
+
+Niala shook her head and walked up to him, putting her arms around his back and pressing her body into her beloved. “You did good! It almost worked on your first try. Do you know how many potions I tried to make before I got one right?”
+
+When he didn't answer, she looked up, puzzled, only to find him staring at her with round eyes.
+
+“What?” She asked.
+
+“Weren't you, like, six, when you started learning alchemy?”
+
+She quirked a brow. “Yes? Why?”
+
+He kept his gaze on her a while longer, sighed, and just accepted that she was trying to cheer him up.
+
+He put his arms around his wife and rested his cheek on top of her head. “No reason. Love you, kitten, thanks for cheering me up.”
+
+She almost purred as she rubbed her face on him. “Love you too, trumpet. You'll be doing enchantments like a pro before the week is over, I'm sure of it!”
+
+After four days of incrementally more spectacular failures, Niala finally suggested that maybe, just maybe, he should try lowering his mana output, instead of increasing it, during his engraving.
+
+He did.
+
+His next attempt worked flawlessly.
