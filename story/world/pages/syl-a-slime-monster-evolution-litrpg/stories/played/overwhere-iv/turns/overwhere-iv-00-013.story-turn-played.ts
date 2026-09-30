@@ -11,4 +11,5 @@ export const overwhereIv00013 = {
   action:
     "“Should we go try the crystal? I don’t mind being tonight’s entertainment. Don’t expect it’ll be too interesting, but at least it’s new. I know how small towns can be.”",
   lore: ["lore/overwhere-iv-brookside-four", "place/overwhere-iv-millbrook-adventurers-hall"],
+  endsAt: "2026-09-29T18:40:00.000Z",
 } as const satisfies StoryTurnPlayed
