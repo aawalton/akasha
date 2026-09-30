@@ -9,8 +9,10 @@ import {
   DropdownMenuTrigger,
 } from "akasha/design/interface/primitive/modules/dropdown-menu/dropdown-menu.module.code.tsx"
 import { EllipsisVertical } from "lucide-react"
+import type { ReactNode } from "react"
 
 interface PageActionsMenuProps {
+  extra?: ReactNode
   href?: string
   viewPropertiesHref?: string
   isFavorite?: boolean
@@ -21,6 +23,7 @@ interface PageActionsMenuProps {
 }
 
 export function PageActionsMenu({
+  extra = null,
   href,
   viewPropertiesHref,
   isFavorite = false,
@@ -29,9 +32,9 @@ export function PageActionsMenu({
   align = "end",
   size = "row",
 }: PageActionsMenuProps) {
-  const showMenu =
+  const hasOwn =
     href != null || viewPropertiesHref != null || onToggleFavorite != null || onDelete != null
-  if (!showMenu) return null
+  if (!hasOwn && extra == null) return null
 
   const hasAboveDelete = href != null || viewPropertiesHref != null || onToggleFavorite != null
 
@@ -53,6 +56,8 @@ export function PageActionsMenu({
         )}
       </DropdownMenuTrigger>
       <DropdownMenuContent align={align}>
+        {extra}
+        {extra != null && hasOwn && <DropdownMenuSeparator />}
         {href != null && (
           <DropdownMenuItem asChild>
             <a href={href}>View Page</a>

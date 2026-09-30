@@ -40,7 +40,6 @@ import {
   turnReadySaid,
 } from "akasha/story/world/stories/played/modules/action-bar-state/action-bar-state.module.code.ts"
 import type { Making } from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
-import { TurnUndo } from "akasha/story/world/stories/played/modules/turn-undo-control/turn-undo-control.module.code.tsx"
 import { type FormEvent, useCallback, useEffect, useRef, useState } from "react"
 
 const POLL_MS = 5000
@@ -104,15 +103,17 @@ export function ActionBar({
   storyTitle,
   turnsSeen,
   lastTurn,
-  latestTurn = null,
   making,
+  undoneAt = 0,
+  onWaiting,
 }: {
   gameExternalId: string
   storyTitle: string
   turnsSeen: number
   lastTurn: number | null
-  latestTurn?: string | null
   making: Making | null
+  undoneAt?: number
+  onWaiting?: (waiting: boolean) => void
 }) {
   const userId = useUserId()
   const [pending, setPending] = useState<readonly PendingAction[]>([])
@@ -171,6 +172,11 @@ export function ActionBar({
     void turnsSeen
     settle(false, lastAskedAt.current)
   }, [turnsSeen, settle])
+
+  useEffect(() => {
+    if (undoneAt === 0) return
+    void refresh()
+  }, [undoneAt, refresh])
 
   useEffect(() => {
     if (turnReadyNews(toldAt.current, turnsSeen)) {
@@ -243,15 +249,20 @@ export function ActionBar({
     setSending(false)
   }
 
-  if (userId === null) return <SignedOutNotice />
-
   const listed: readonly PendingAction[] =
     making === null ? pending : [...pending, { id: making.slug, text: making.action, kind: ACTION }]
   const shown = echoesShown(echoes, listed)
+  const anyWaiting = listed.length + shown.length > 0
+
+  useEffect(() => {
+    onWaiting?.(anyWaiting)
+  }, [anyWaiting, onWaiting])
+
+  if (userId === null) return <SignedOutNotice />
 
   return (
     <div className="flex flex-col gap-3">
-      {listed.length + shown.length === 0 ? null : (
+      {!anyWaiting ? null : (
         <div className="flex flex-col gap-1">
           {listed.map((one) => (
             <ActionRow key={one.id} text={one.text} kind={one.kind} />
@@ -262,23 +273,6 @@ export function ActionBar({
         </div>
       )}
       {making === null || making.said === null ? null : <p className={NOTE_LINE}>{making.said}</p>}
-      {making !== null ? (
-        <TurnUndo
-          key={making.slug}
-          gameExternalId={gameExternalId}
-          turn={making.slug}
-          kind="cancel"
-          onUndone={() => void refresh()}
-        />
-      ) : latestTurn !== null && listed.length + shown.length === 0 ? (
-        <TurnUndo
-          key={latestTurn}
-          gameExternalId={gameExternalId}
-          turn={latestTurn}
-          kind="take-back"
-          onUndone={() => void refresh()}
-        />
-      ) : null}
       <form ref={formAt} onSubmit={onSubmit} className="flex flex-col gap-2">
         {armed === null ? null : <p className={NOTE_LINE}>{ALREADY_SENT}</p>}
         {signedOut ? (

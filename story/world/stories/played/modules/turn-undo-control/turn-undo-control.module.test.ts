@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   UNDO_WORDS,
   undoHeardIn,
+  undoOffered,
   undoPatchOf,
 } from "akasha/story/world/stories/played/modules/turn-undo-control/turn-undo-control.module.code.tsx"
 
@@ -39,4 +40,20 @@ test("a cancel and a take-back are each offered, asked and confirmed in their ow
   expect(UNDO_WORDS.cancel.offer).toBe("Cancel this turn")
   expect(UNDO_WORDS["take-back"].offer).toBe("Take back the last turn")
   expect(UNDO_WORDS.cancel.ask).toContain("your action comes back to the box")
+})
+
+test("a turn being made is offered to be cancelled, whatever waits", () => {
+  expect(undoOffered("the-saga-00-013", "the-saga-00-012", true)).toEqual({
+    turn: "the-saga-00-013",
+    kind: "cancel",
+  })
+})
+
+test("the latest turn at player is offered to be taken back only where nothing waits", () => {
+  expect(undoOffered(null, "the-saga-00-012", false)).toEqual({
+    turn: "the-saga-00-012",
+    kind: "take-back",
+  })
+  expect(undoOffered(null, "the-saga-00-012", true)).toBeNull()
+  expect(undoOffered(null, null, false)).toBeNull()
 })

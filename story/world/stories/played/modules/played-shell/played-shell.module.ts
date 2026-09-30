@@ -80,6 +80,10 @@ export const playedShell = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A signed-in player of a game is offered the latest turn's undo in the page menu.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A turn arrives as the store pushes the story's turns.",
     },
     {

@@ -47,12 +47,12 @@ export const actionBar = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn being made is offered to be cancelled under the step making it.",
+      statement:
+        "The line says whether any action waits, so an undo is offered only where none does.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The latest turn at player, with nothing waiting after it, is offered to be taken back.",
+      statement: "An undo the page menu made has the line read the story's draft again at once.",
     },
     {
       decisionKind: "decision-kind/departure",

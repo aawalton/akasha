@@ -8,8 +8,10 @@ import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.m
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { PageTitleRow } from "akasha/page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx"
 import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
+import { usePageMenuExtra } from "akasha/page/ui/component/modules/page-detail-header-menu/page-detail-header-menu.module.code.tsx"
 import { titleColorClass } from "akasha/page/ui/component/modules/title-color/title-color.module.code.ts"
 
+import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { usePageTypeNamed } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
 import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import {
@@ -72,7 +74,11 @@ import {
   usePlayedState,
 } from "akasha/story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts"
 import { usePlayedProse } from "akasha/story/world/stories/played/modules/prose-beside/prose-beside.module.code.ts"
-import { useEffect, useMemo, useState } from "react"
+import {
+  undoOffered,
+  useTurnUndo,
+} from "akasha/story/world/stories/played/modules/turn-undo-control/turn-undo-control.module.code.tsx"
+import { useCallback, useEffect, useMemo, useState } from "react"
 
 const QUIET_TICK_MS = 15_000
 
@@ -268,6 +274,14 @@ function PlayedStory({
   const externalId = beside.kind === "read" ? beside.beside.externalId : undefined
   const coordinatorAgent = beside.kind === "read" ? beside.beside.coordinatorAgent : undefined
   const shown = usePanelsDrawn(stringsIn(data.panels))
+  const userId = useUserId()
+  const [waiting, setWaiting] = useState(false)
+  const [undoneAt, setUndoneAt] = useState(0)
+  const onUndone = useCallback(() => setUndoneAt(Date.now()), [])
+  const playable = externalId !== undefined && coordinatorAgent !== undefined && userId !== null
+  const offer = playable ? undoOffered(making?.slug ?? null, latestTurn, waiting) : null
+  const undo = useTurnUndo({ gameExternalId: externalId ?? null, offer, onUndone })
+  usePageMenuExtra(undo.item)
 
   const runTurns = useMemo(
     () =>
@@ -319,14 +333,18 @@ function PlayedStory({
 
   const bar =
     externalId === undefined || coordinatorAgent === undefined ? null : (
-      <ActionBar
-        gameExternalId={externalId}
-        storyTitle={title}
-        turnsSeen={ready.length}
-        lastTurn={lastTurn}
-        latestTurn={latestTurn}
-        making={making}
-      />
+      <>
+        {undo.dialog}
+        <ActionBar
+          gameExternalId={externalId}
+          storyTitle={title}
+          turnsSeen={ready.length}
+          lastTurn={lastTurn}
+          making={making}
+          undoneAt={undoneAt}
+          onWaiting={setWaiting}
+        />
+      </>
     )
 
   if (tail.drawn.length === 0) {

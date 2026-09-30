@@ -4,7 +4,7 @@ export const turnUndoControl = {
   id: "01a0f1cc-0384-7697-8ba3-b8c1f839cdad",
   type: "page-type/module",
   slug: "turn-undo-control",
-  definition: "the control asking a story played to undo its latest turn",
+  definition: "the page-menu item asking a story played to undo its latest turn",
   code: "tsx",
   test: "ts",
   decisions: [
@@ -19,7 +19,19 @@ export const turnUndoControl = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Nothing is undone until the player confirms it a second time.",
+      statement: "The offer is an item in the page's own menu rather than a button always shown.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page menu offers at most one undo, the one the latest turn allows.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Nothing is undone until the player confirms it in a dialog.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The dialog stays open while the ask is out, and shows a refusal in place.",
     },
     {
       decisionKind: "decision-kind/departure",

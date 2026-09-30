@@ -6,4 +6,14 @@ export const pageDetailHeaderMenu = {
   slug: "page-detail-header-menu",
   definition: "The menu in a page detail header, offering the actions that page allows.",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page's own body may add items to the top of its header menu.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Items a body adds go when that body goes.",
+    },
+  ],
 } as const satisfies Module
