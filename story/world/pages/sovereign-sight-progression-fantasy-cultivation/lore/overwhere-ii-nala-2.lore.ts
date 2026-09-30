@@ -146,7 +146,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "The tide closed the scrape over Nala's ribs before it slipped; the deep bruise under it remains.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
