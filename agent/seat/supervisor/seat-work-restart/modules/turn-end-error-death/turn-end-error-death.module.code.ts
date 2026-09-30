@@ -1,15 +1,15 @@
 import { z } from "zod"
 
-const OVERLOAD_STATUS = 529
+export const OVERLOAD_STATUS = 529
 
 export const CONNECTION_STATUS = 502
 
-const RESUME_STATUSES: readonly number[] = [OVERLOAD_STATUS, CONNECTION_STATUS]
+const SERVER_ERROR = "server_error"
 
 interface DeathReading {
   readonly detected: boolean
   readonly consecutive: number
-  readonly statuses: readonly number[]
+  readonly statuses: readonly (number | null)[]
 }
 
 const ASSISTANT_RECORD = z.looseObject({ type: z.literal("assistant") })
@@ -29,24 +29,21 @@ function assistantRecords(text: string): Record<string, unknown>[] {
   return held
 }
 
-function deathStatus(record: Record<string, unknown>): number | null {
-  if (record.isApiErrorMessage !== true) return null
+function deathOf(record: Record<string, unknown>): { readonly status: number | null } | null {
+  if (record.isApiErrorMessage !== true || record.error !== SERVER_ERROR) return null
   const status = record.apiErrorStatus
-  return typeof status === "number" ? status : null
+  return { status: typeof status === "number" ? status : null }
 }
 
-export function classifyTurnEndErrorDeath(
-  text: string,
-  statuses: readonly number[] = RESUME_STATUSES
-): DeathReading {
+export function classifyTurnEndErrorDeath(text: string): DeathReading {
   const assistants = assistantRecords(text)
-  const trailing: number[] = []
+  const trailing: (number | null)[] = []
   for (let at = assistants.length - 1; at >= 0; at--) {
     const one = assistants[at]
     if (one === undefined) break
-    const status = deathStatus(one)
-    if (status === null || !statuses.includes(status)) break
-    trailing.unshift(status)
+    const death = deathOf(one)
+    if (death === null) break
+    trailing.unshift(death.status)
   }
   return { detected: trailing.length > 0, consecutive: trailing.length, statuses: trailing }
 }

@@ -17,6 +17,7 @@ import {
 import {
   CONNECTION_STATUS,
   classifyTurnEndErrorDeath,
+  OVERLOAD_STATUS,
 } from "akasha/agent/seat/supervisor/seat-work-restart/modules/turn-end-error-death/turn-end-error-death.module.code.ts"
 import { tickSaying } from "akasha/agent/seat/supervisor/supervisor-timer/modules/supervisor-tick-saying/supervisor-tick-saying.module.code.ts"
 import { alan } from "akasha/person/pages/alan/alan.person.ts"
@@ -25,10 +26,14 @@ const WAIT_RESUME_INTERVAL_MS = 30_000
 
 type TickKind = WaitResumeVerdict["kind"] | "none"
 
-function kindsOf(statuses: readonly number[]): string {
-  const seen = [...new Set(statuses)].map((one) =>
-    one === CONNECTION_STATUS ? "connection" : "overload"
-  )
+function kindOf(status: number | null): string {
+  if (status === CONNECTION_STATUS) return "connection"
+  if (status === OVERLOAD_STATUS) return "overload"
+  return status === null ? "mid-response server" : `${String(status)} server`
+}
+
+function kindsOf(statuses: readonly (number | null)[]): string {
+  const seen = [...new Set(statuses.map(kindOf))]
   return seen.length === 0 ? "none" : seen.join(" and ")
 }
 
