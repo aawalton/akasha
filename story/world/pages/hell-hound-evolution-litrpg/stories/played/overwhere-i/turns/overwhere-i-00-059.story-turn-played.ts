@@ -10,7 +10,7 @@ export const overwhereI00059 = {
   position: 59,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“Sure thing! I wanted a bath tonight anyway.”",
   beats: [
     "Nala and Rowan walk in along the Greyback as the light goes long and gold, Sedge ranging ahead.",
@@ -39,6 +39,6 @@ export const overwhereI00059 = {
     "lore/overwhere-i-rowan-coalby",
     "place/overwhere-i-greyback-and-east-road",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-01T17:50:00.000Z",
 } as const satisfies StoryTurnPlayed
