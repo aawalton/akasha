@@ -325,5 +325,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Left in the channel, Ghost-Eye's body is torn by fen scavengers; by day 5 the head is gone.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ghost-Eye's clouded eye is called a drake-pearl; an alchemist in Wendlow pays about four gold.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
