@@ -155,5 +155,9 @@ export const overwhereIiGreymaws = {
       fact: "A greymaw's chamber is a fist-sized knot of polished grey bone, layered like a shell.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "An empty greymaw chamber sells for about a silver bar in Carrowmouth; none buy them in the valley.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
