@@ -10,7 +10,7 @@ export const overwhereIv00012 = {
   position: 12,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Yeah, it was the strangest thing. Any idea why they would do that? I know I’m pretty, but I’ve never had men throw their lives at my feet like that.” I say with a laugh.",
   beats: [
@@ -27,7 +27,6 @@ export const overwhereIv00012 = {
     '"Tells you colour, not much else. For a proper testing it\'s Aubrin, four days east."',
     "The grey watchman has stopped eating. He sets his spoon down in the bowl, very carefully.",
     "He looks at Nala for a long moment, as if weighing something, and then down at his stew again.",
-    "Nobody else seems to notice.",
   ],
   issues: ['"Wat and Dell go on eating, and Holt reaches for more bread." - Leave It Open'],
   lore: [
