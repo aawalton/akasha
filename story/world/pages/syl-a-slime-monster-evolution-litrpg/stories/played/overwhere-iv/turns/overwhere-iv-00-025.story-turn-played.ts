@@ -4,10 +4,13 @@ export const overwhereIv00025 = {
   id: "01a0f391-29f4-7b0b-b080-e2fba5208610",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-025",
+  ownLength: 402,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 25,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I walk toward them acting scared and uncertain, and then when the first gets close enough, I use my dimensional stab, aiming for center mass, then turn and chase down the second.",
   beats: [
@@ -34,6 +37,6 @@ export const overwhereIv00025 = {
     "Past five paces or so the feeling fades, like lamplight. But she thinks she could push it out.",
     "The goblin bares its teeth at her, and hisses something in its own tongue.",
   ],
-  lore: ["place/overwhere-iv-hobb-farm"],
+  lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-hobb-farm"],
   endsAt: "2026-09-30T18:29:00.000Z",
 } as const satisfies StoryTurnPlayed
