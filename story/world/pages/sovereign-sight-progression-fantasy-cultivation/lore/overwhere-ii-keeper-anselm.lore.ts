@@ -63,6 +63,10 @@ export const overwhereIiKeeperAnselm = {
       fact: "Anselm has kept the shrine to Threll at the Ford since last autumn.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Anselm's small Talent, Tidesense, feels it when Water is drawn nearby.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
