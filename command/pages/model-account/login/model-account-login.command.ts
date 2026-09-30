@@ -20,6 +20,15 @@ export const modelAccountLogin = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A waiting sign-in runs in a scope of its own, so it outlives the call starting it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sign-in nobody finishes is ended half an hour after it opened.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A first call finding a sign-in already waiting answers that sign-in's address.",
     },
     {

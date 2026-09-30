@@ -41,6 +41,10 @@ const ANSWER_WAIT_MS = 60_000
 
 const LINGER_SECONDS = 900
 
+export const SIGN_IN_MAX_SECONDS = 1800
+
+const SCOPE_PREFIX = "model-account-login-"
+
 const PANE_WIDTH = 1000
 
 const PANE_HEIGHT = 50
@@ -61,6 +65,7 @@ type Ran = { readonly code: number; readonly out: string }
 
 export type Doors = {
   readonly tmux: (args: readonly string[]) => Promise<Ran>
+  readonly opened: (slug: string, args: readonly string[]) => Promise<Ran>
   readonly waited: (ms: number) => Promise<void>
   readonly now: () => number
   readonly known: (slug: string) => boolean
@@ -83,12 +88,29 @@ async function ran(argv: readonly string[], env?: Record<string, string>): Promi
   return { code, out: `${out}${err}` }
 }
 
+function tmuxOf(args: readonly string[]): readonly string[] {
+  mkdirSync(SOCKET_DIR, { recursive: true, mode: SOCKET_DIR_MODE })
+  return ["tmux", "-S", join(SOCKET_DIR, "tmux.sock"), ...args]
+}
+
+export function scopedOf(slug: string, at: number, args: readonly string[]): readonly string[] {
+  return [
+    "systemd-run",
+    "--user",
+    "--scope",
+    "--collect",
+    "--quiet",
+    `--unit=${SCOPE_PREFIX}${slug}-${String(at)}`,
+    "-p",
+    `RuntimeMaxSec=${String(SIGN_IN_MAX_SECONDS)}`,
+    ...args,
+  ]
+}
+
 function doorsIn(root: string): Doors {
   return {
-    tmux: async (args) => {
-      mkdirSync(SOCKET_DIR, { recursive: true, mode: SOCKET_DIR_MODE })
-      return await ran(["tmux", "-S", join(SOCKET_DIR, "tmux.sock"), ...args])
-    },
+    tmux: async (args) => await ran(tmuxOf(args)),
+    opened: async (slug, args) => await ran(scopedOf(slug, Date.now(), tmuxOf(args))),
     waited: async (ms) => {
       await Bun.sleep(ms)
     },
@@ -159,7 +181,7 @@ export async function started(slug: string, dir: string, doors: Doors): Promise<
     else if (address !== null) return waiting(slug, session, address)
   }
   if (!(await held(session, doors))) {
-    const opened = await doors.tmux([
+    const opened = await doors.opened(slug, [
       "new-session",
       "-d",
       "-s",

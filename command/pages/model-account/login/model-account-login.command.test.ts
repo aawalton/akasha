@@ -13,7 +13,9 @@ import {
   modelAccountLogin,
   POLL_MS,
   SIGN_IN,
+  SIGN_IN_MAX_SECONDS,
   saidIn,
+  scopedOf,
   sessionOf,
   started,
 } from "akasha/command/pages/model-account/login/model-account-login.command.code.ts"
@@ -38,6 +40,7 @@ type Held = {
   afterStart: string
   afterCode: string
   calls: string[][]
+  opened: string[]
   pushed: number
   pushRefused: boolean
 }
@@ -49,6 +52,7 @@ function heldWith(over: Partial<Held>): Held {
     afterStart: ASKING,
     afterCode: `${ASKING} ${CODE}\nLogin successful.\nakasha-login-ended 0`,
     calls: [],
+    opened: [],
     pushed: 0,
     pushRefused: false,
     ...over,
@@ -57,19 +61,24 @@ function heldWith(over: Partial<Held>): Held {
 
 function doorsOver(held: Held): Doors {
   let clock = 0
+  const tmux = (args: readonly string[]) => {
+    held.calls.push([...args])
+    const act = args[0]
+    if (act === "has-session") return Promise.resolve({ code: held.live ? 0 : 1, out: "" })
+    if (act === "new-session") {
+      held.live = true
+      held.pane = held.afterStart
+    }
+    if (act === "capture-pane") return Promise.resolve({ code: 0, out: held.pane })
+    if (act === "send-keys" && args.includes("Enter")) held.pane = held.afterCode
+    if (act === "kill-session") held.live = false
+    return Promise.resolve({ code: 0, out: "" })
+  }
   return {
-    tmux: (args) => {
-      held.calls.push([...args])
-      const act = args[0]
-      if (act === "has-session") return Promise.resolve({ code: held.live ? 0 : 1, out: "" })
-      if (act === "new-session") {
-        held.live = true
-        held.pane = held.afterStart
-      }
-      if (act === "capture-pane") return Promise.resolve({ code: 0, out: held.pane })
-      if (act === "send-keys" && args.includes("Enter")) held.pane = held.afterCode
-      if (act === "kill-session") held.live = false
-      return Promise.resolve({ code: 0, out: "" })
+    tmux,
+    opened: (slug, args) => {
+      held.opened.push(slug)
+      return tmux(args)
     },
     waited: () => Promise.resolve(),
     now: () => {
@@ -114,9 +123,18 @@ test("a first call opens a session running the sign-in against the account's fol
   expect(opened).toContain(sessionOf("an-account"))
   expect(opened).toContain(SIGN_IN)
   expect(opened[opened.length - 1]).toBe("/accounts/an-account")
+  expect(held.opened).toEqual(["an-account"])
   expect(said.code).toBe(0)
   expect(said.report).toContain(ADDRESS)
   expect(held.live).toBe(true)
+})
+
+test("a sign-in runs in a scope of its own, ended at its ceiling", () => {
+  const argv = scopedOf("an-account", 7, ["tmux", "new-session"])
+  expect(argv.slice(0, 3)).toEqual(["systemd-run", "--user", "--scope"])
+  expect(argv).toContain("--unit=model-account-login-an-account-7")
+  expect(argv).toContain(`RuntimeMaxSec=${String(SIGN_IN_MAX_SECONDS)}`)
+  expect(argv.slice(-2)).toEqual(["tmux", "new-session"])
 })
 
 test("a first call finding a sign-in waiting answers its address and opens none", async () => {
