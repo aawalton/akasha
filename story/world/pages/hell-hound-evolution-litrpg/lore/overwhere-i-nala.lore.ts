@@ -217,5 +217,9 @@ export const overwhereINala = {
       fact: "Stones she sets to rest on one another stay put after the working ends, as dry-stone.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At legacy rank 1 one earth draw moves about a barrow-load of stone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
