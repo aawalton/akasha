@@ -11,7 +11,7 @@ export const overwhereI00040 = {
   position: 40,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I attune water and pull the beast through its entrance hole, into the water, and then back onto the shore. “Three renders accounted for.”",
   beats: [
@@ -32,6 +32,11 @@ export const overwhereI00040 = {
     "place/overwhere-i-the-greyfen",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-09-30T11:12:00.000Z",
 } as const satisfies StoryTurnPlayed
