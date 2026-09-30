@@ -35,5 +35,6 @@ export const overwhereIv00018 = {
     'Holt jerks her chin at the line. "Saw it and were late. Again, Farrow. Same as before."',
   ],
   lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-millbrook-gatehouse"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-30T07:45:00.000Z",
 } as const satisfies StoryTurnPlayed
