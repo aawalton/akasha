@@ -45,7 +45,7 @@ export const overwhereIiGarthMarsh = {
     },
     {
       fact: "Garth would take a barefoot stranger in the Aske barn for a runaway, and still feed her.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "He is honest to a fault, wary of the Talented, and never forgets a kindness.",
@@ -93,7 +93,7 @@ export const overwhereIiGarthMarsh = {
     },
     {
       fact: "Garth takes a lost, barefoot Talented stranger for a runaway, or an Aspirant who lost her road.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Once he trusts a Talented stranger even a little, Garth asks whether she can do aught for Wren.",

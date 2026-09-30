@@ -69,7 +69,7 @@ export const overwhereIiTernHollow = {
     },
     {
       fact: "Marsh Croft, Garth Marsh's place, is a quarter mile down the lane from the barn.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Wendle Ford, the nearest village, is three miles down the lane and along the river.",
