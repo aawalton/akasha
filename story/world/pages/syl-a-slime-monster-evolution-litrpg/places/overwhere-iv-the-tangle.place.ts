@@ -88,6 +88,22 @@ export const overwhereIvTheTangle = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The runner is the LV 2 club goblin, 6 health, twenty-five paces off and weaving through yews.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A thrown Rift Rend is a thin black-purple line, laid at the very spot she fixes her eye on.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A thrown rend parts yew boughs in its line as easily as flesh, and they fall.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A runner that gets away brings a dozen goblins back to the hollow within the hour.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Hobb's gap's blood trail runs most of a mile in, toward a hollow walled by a fallen oak.",
       knowers: [
         "lore-disclosure/game-master",
