@@ -225,7 +225,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Dray lets the killer keep anything cut from a greymaw; he wants only the carcasses burned.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray's two men and pony fetch the den carcasses at first light on day three, back by mid-afternoon.",
