@@ -116,6 +116,14 @@ export const overwhereIiWhitecombs = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "At the split crag Nala's well feels a slow, vast pull from far below, a tide under the mountain.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The split in the crag breathes cold air that smells of the sea.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The Warped goats by the Callow pool have not caught Nala's scent; the wind blows from them to her.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
