@@ -39,5 +39,6 @@ export const overwhereIi00011 = {
     "lore/overwhere-ii-spiritual-rot-and-healing",
     "place/overwhere-ii-wendle-ford",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-29T08:01:00.000Z",
 } as const satisfies StoryTurnPlayed
