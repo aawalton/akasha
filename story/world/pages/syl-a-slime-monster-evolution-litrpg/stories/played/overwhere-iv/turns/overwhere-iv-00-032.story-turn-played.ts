@@ -26,5 +26,6 @@ export const overwhereIv00032 = {
     "The sling starts to turn again, slow, then faster.",
   ],
   lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2", "place/overwhere-iv-the-tangle"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-01T13:14:00.000Z",
 } as const satisfies StoryTurnPlayed
