@@ -4,10 +4,13 @@ export const overwhereI00014 = {
   id: "01a0f1a6-f5c4-7441-ac27-b3cd47b78143",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-014",
+  ownLength: 373,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 14,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I watch her with a bored expression and walk back with the cart, then go with her to get the reward money.",
   beats: [
@@ -39,6 +42,7 @@ export const overwhereI00014 = {
     "lore/overwhere-i-agathe-morrow",
     "lore/overwhere-i-garrick-pell",
     "lore/overwhere-i-hessa-vane",
+    "lore/overwhere-i-nala",
     "lore/overwhere-i-rowan-coalby",
     "lore/overwhere-i-sootjaw",
     "lore/overwhere-i-tobin-ashdown",
