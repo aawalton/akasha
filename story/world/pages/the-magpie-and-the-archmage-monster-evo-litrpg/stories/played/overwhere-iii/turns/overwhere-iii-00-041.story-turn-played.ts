@@ -18,7 +18,7 @@ export const overwhereIii00041 = {
     "character-other/overwhere-iii-hild-wendle",
     "character-other/overwhere-iii-ivy-marsh",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Thanks, for letting me know, I’ll be there. As for the magic, I’m not entirely sure how it works, but if you figure it out, please let me know.” I say with a smile, then keep reading until it’s time to go to Brannagh’s.",
   beats: [
@@ -58,6 +58,11 @@ export const overwhereIii00041 = {
     "place/overwhere-iii-merrowgate-guild-post",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-01T17:45:00.000Z",
 } as const satisfies StoryTurnPlayed
