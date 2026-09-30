@@ -195,5 +195,29 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Dray takes right ears as tally for the bounty, once his cart has found the carcasses.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Dray's cart came back by noon on day two with the four Marsh Croft greymaws; he has seen them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "On the afternoon of day two Dray is at the Reeve's house by the green, the carcasses in its yard.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "No cart climbs to the Tarn Screes; for kills up there Dray pays on the right ears alone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "After the white-eye, Dray takes Nala's word on the den kills without question.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray will send two watchmen with a pony to fetch the den carcasses down and burn them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray has never gone past the cairn to Hollow Tarn; he knows it only as a place shepherds shun.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
