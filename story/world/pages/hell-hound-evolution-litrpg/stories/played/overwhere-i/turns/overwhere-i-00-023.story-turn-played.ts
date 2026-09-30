@@ -4,13 +4,14 @@ export const overwhereI00023 = {
   id: "01a0f215-976a-71ac-9b5d-11384c99b2b4",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-023",
+  cover: "image/image-bcaaaf12aa1116e4",
   ownLength: 105,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 23,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I make the water blade again and use it to just cut off the tusks, focusing on making it spin even faster and thinner.",
   beats: [
@@ -29,6 +30,11 @@ export const overwhereI00023 = {
     "place/overwhere-i-fenwatch",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T07:59:00.000Z",
 } as const satisfies StoryTurnPlayed
