@@ -175,5 +175,9 @@ export const overwhereIiGreymaws = {
       fact: "Nothing living will eat greymaw flesh; the carcasses lie untouched through the night.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The she-wolf's cracked chamber splits in two if torn out roughly; eased out, it holds together.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
