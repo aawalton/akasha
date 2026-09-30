@@ -10,7 +10,7 @@ export const overwhereIiiGarrickDole = {
   facts: [
     {
       fact: "Garrick Dole is about sixty, big and white-bearded, a hill shepherd gone gaunt in bed.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "He is a Common, a Herder of Level 14, slow of speech and patient as his sheep.",
