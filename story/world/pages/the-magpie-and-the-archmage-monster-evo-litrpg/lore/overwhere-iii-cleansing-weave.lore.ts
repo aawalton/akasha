@@ -60,5 +60,9 @@ export const overwhereIiiCleansingWeave = {
       fact: "A whole blightstone takes ten Cleansing Weaves in one sitting to crack, and leaves a glimmerstone.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Each seed stone cracked with a Cleansing Weave counts as a telling use of the skill.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
