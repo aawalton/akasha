@@ -9,7 +9,7 @@ import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
 
-export type Read = (path: string) => string | null
+type Read = (path: string) => string | null
 
 export type Judge = (paths: readonly string[], read: Read) => readonly Judged[]
 
