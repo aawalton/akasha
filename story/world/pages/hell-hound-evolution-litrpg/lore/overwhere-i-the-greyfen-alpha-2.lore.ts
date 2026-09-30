@@ -133,5 +133,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "The flankers keep low in the reeds, out of sight, and strike together at about 13:38.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Eight's southern swing cuts across the hummock line behind her, between her and the Greystakes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
