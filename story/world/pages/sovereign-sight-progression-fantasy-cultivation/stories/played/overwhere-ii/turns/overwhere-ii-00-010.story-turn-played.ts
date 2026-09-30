@@ -4,10 +4,13 @@ export const overwhereIi00010 = {
   id: "01a0f197-b14a-7306-a769-c40b2de5c868",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-010",
+  ownLength: 258,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 10,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Just a Talented, hadn't tried to use my Talent quite like that before, I’m glad it worked. Anyone else get bitten you know of? Wouldn’t mind some more practice with my new technique.”",
   beats: [
@@ -32,6 +35,7 @@ export const overwhereIi00010 = {
   lore: [
     "lore/overwhere-ii-garth-marsh",
     "lore/overwhere-ii-goody-brannoc",
+    "lore/overwhere-ii-nala",
     "lore/overwhere-ii-wendle-ford-folk",
     "place/overwhere-ii-marsh-croft",
   ],
