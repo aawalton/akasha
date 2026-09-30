@@ -15,7 +15,7 @@ export const overwhereIii00028 = {
     "character-other/overwhere-iii-ivy-marsh",
     "character-other/overwhere-iii-garrick-dole",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Okay, I’ll try. I open the potion and take small sips until I have mana to work with again, then go back and use my mending weave on Ivy, this time focusing on a suction mental model instead of stitching, to pull the corruption out of her.”",
   beats: [
@@ -49,6 +49,6 @@ export const overwhereIii00028 = {
     "lore/overwhere-iii-ivy-marsh",
     "lore/overwhere-iii-nala",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T18:04:00.000Z",
 } as const satisfies StoryTurnPlayed
