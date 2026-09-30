@@ -229,7 +229,7 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "The pine den is three linked hollows under the roots, empty of any living thing.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "The den holds one tin token, stamped with a reed sheaf and the name Ewan Dell.",
