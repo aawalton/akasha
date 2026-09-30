@@ -4,6 +4,7 @@ export const overwhereIv00017 = {
   id: "01a0f253-d6cc-7e81-9f94-fb66455153ba",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-017",
+  cover: "image/image-8051bad0096de64c",
   ownLength: 362,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
@@ -40,8 +41,12 @@ export const overwhereIv00017 = {
     '"Wat, you\'re with Oswin." She points her spear at Dell, then at Nala. "Farrow. You\'re with her."',
     'Dell swings his spear round and grins. "Go gentle on me, lamb-girl."',
   ],
-  lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-millbrook-gatehouse"],
+  lore: [
+    "lore/overwhere-iv-nala",
+    "place/overwhere-iv-millbrook",
+    "place/overwhere-iv-millbrook-gatehouse",
+  ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-30T07:15:00.000Z",
 } as const satisfies StoryTurnPlayed
