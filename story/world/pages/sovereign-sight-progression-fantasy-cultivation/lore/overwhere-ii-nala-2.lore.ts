@@ -100,5 +100,9 @@ export const overwhereIiNala2 = {
       fact: "Nala expects to take the Chartermark sooner or later, and told Anselm to share it all.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Nala's arms and legs are all refined whole by the night of day three.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
