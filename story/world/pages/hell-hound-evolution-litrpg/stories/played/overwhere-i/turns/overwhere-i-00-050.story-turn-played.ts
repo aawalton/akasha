@@ -16,12 +16,12 @@ export const overwhereI00050 = {
     "character-other/overwhere-i-pine-isle-drakewolf-seven",
     "character-other/overwhere-i-pine-isle-drakewolf-eight",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I launch a bullet at Ghost Eye from where I am, as accurate as I can make it, but with as much power as I can give it, to see if he will approach or retreat.",
   beats: [
     "Nala draws a slug from her pack and rises to one knee behind the last hummock.",
-    "She weaves air and earth, then pours a second weave into the same slug, doubling its charge.",
+    "She weaves air and earth, then pours a second weave into the same slug, half again its force.",
     "The weight of it drags hard on her mana; she sights on the big wolf on the shore.",
     "About two hundred and ten yards; she lifts her aim for the drop and looses.",
     "The slug cracks away spinning, and she knows at once the arc is off.",
