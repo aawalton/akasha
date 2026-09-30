@@ -272,6 +272,10 @@ export const overwhereIiNala = {
       fact: "Garth bound Nala's bitten left forearm in Wren's clean linen, snug from wrist to elbow.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "As the way to First Depth opens, the floor of Nala's well gives, like a step down into colder water.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
