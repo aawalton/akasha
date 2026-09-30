@@ -26,7 +26,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "With Undertow, the skin of one of Nala's limbs refines whole in about a quarter hour.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "A limb refined whole shows a faint pearly sheen for an hour, then looks like her own skin again.",
