@@ -42,5 +42,6 @@ export const overwhereIi00020 = {
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-wendle-ford-folk",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-29T12:07:00.000Z",
 } as const satisfies StoryTurnPlayed
