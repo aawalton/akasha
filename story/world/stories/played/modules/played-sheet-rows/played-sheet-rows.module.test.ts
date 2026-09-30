@@ -127,6 +127,29 @@ test("resources stating a display order come first in that order, and the rest b
   ])
 })
 
+test("a generic kind is named by what its slug adds past the generic opening, or by a title", () => {
+  const holder = "character-player/some-nala"
+  const resources = [
+    { values: { type: "metric-character-health", value: 9, maxValue: 10, character: holder } },
+    { values: { type: "metric-character-mana", value: 3, title: "MP", character: holder } },
+  ]
+  expect(resourcesIn(resources)).toEqual({ HEALTH: "9 / 10", MP: 3 })
+  const scores = [
+    { values: { type: "metric-character-level", value: 4, slug: "some-nala", character: holder } },
+    {
+      values: {
+        type: "metric-character-stat",
+        value: 8,
+        slug: "some-nala-grit",
+        character: holder,
+      },
+    },
+    { values: { type: "metric-character-notice", value: 1, slug: "some-nala", character: holder } },
+    { values: { type: "some-tier", value: 2, slug: "some-nala", character: holder } },
+  ]
+  expect(scoresIn(scores)).toEqual({ level: 4, attributes: { GRIT: 8, NOTICE: 1, TIER: 2 } })
+})
+
 test("a currency's denominations are read largest first, and a malformed one is dropped", () => {
   const held = [
     { name: "copper", worth: 1 },

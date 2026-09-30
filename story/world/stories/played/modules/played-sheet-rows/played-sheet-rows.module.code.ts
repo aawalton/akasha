@@ -105,10 +105,16 @@ function ownNameOf(row: QueryRow): string | null {
   return slug.startsWith(holder) && slug.length > holder.length ? slug.slice(holder.length) : null
 }
 
+const GENERIC_OPENING = "metric-character-"
+
+function genericKindOf(type: string): string | null {
+  return type.startsWith(GENERIC_OPENING) ? type.slice(GENERIC_OPENING.length) : null
+}
+
 export function scoresIn(rows: readonly QueryRow[]): Scores {
   let level: number | undefined
   let opening = ""
-  const held: [string, number, string | null][] = []
+  const held: [string, number, string | null, string | null][] = []
   for (const row of rows) {
     const type = textIn(row.values[TYPE_KEY])
     const value = parseNumber(row.values[VALUE_KEY])
@@ -118,11 +124,17 @@ export function scoresIn(rows: readonly QueryRow[]): Scores {
       opening = type.slice(0, type.length - LEVEL.length)
       continue
     }
-    held.push([type, value, ownNameOf(row)])
+    held.push([type, value, ownNameOf(row), textIn(row.values[CHARACTER_KEY])])
   }
   const attributes = held
-    .map(([type, value, own]): [string, number] => [
-      (own ?? (type.startsWith(opening) ? type.slice(opening.length) : type)).toUpperCase(),
+    .map(([type, value, own, character]): [string, number] => [
+      (
+        own ??
+        genericKindOf(type) ??
+        (opening !== "" && type.startsWith(opening)
+          ? type.slice(opening.length)
+          : kindOf(type, character))
+      ).toUpperCase(),
       value,
     ])
     .toSorted((one, other) => one[0].localeCompare(other[0]))
@@ -147,7 +159,7 @@ function kindOf(type: string, character: string | null): string {
 function resourceNameOf(row: QueryRow, type: string): string {
   const title = textIn(row.values[TITLE_KEY])
   if (title !== null && title !== "") return title.toUpperCase()
-  const kind = kindOf(type, textIn(row.values[CHARACTER_KEY]))
+  const kind = genericKindOf(type) ?? kindOf(type, textIn(row.values[CHARACTER_KEY]))
   const own = ownNameOf(row)
   return (own === null ? kind : `${own}${JOIN}${kind}`).replaceAll(JOIN, SPACE).toUpperCase()
 }

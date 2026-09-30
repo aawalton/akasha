@@ -41,6 +41,16 @@ export const playedSheetRows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A metric of a generic kind is named by its page type's slug less the generic opening.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An attribute no level's opening names is named by its page type's slug less its story's opening.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A resource with a most is shown as its value out of that most.",
     },
     {
