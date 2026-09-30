@@ -10,7 +10,7 @@ export const overwhereI00045 = {
   position: 45,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I drop my working and stay still while my mana recharges to full, keeping a watch with natural vision for any of the wolves to come in my direction.",
   beats: [
@@ -25,6 +25,6 @@ export const overwhereI00045 = {
     "The watching speck stands, and another rises out of the pack to take its place.",
   ],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-the-greyfen-alpha"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-01T12:30:00.000Z",
 } as const satisfies StoryTurnPlayed
