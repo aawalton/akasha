@@ -171,6 +171,10 @@ export const overwhereIAgatheMorrow = {
         "lore/overwhere-i-garrick-pell",
       ],
     },
+    {
+      fact: "Shown the eye and ears, she believes Ghost-Eye dead, but says Antler Hall pays only on the head.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
