@@ -10,7 +10,7 @@ export const overwhereIv00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "lore/overwhere-iv-garrett-pell"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "“Hello! I seem to have gotten lost. Could you tell me where I am?”",
   beats: [
     'Nala calls to the cart driver: "Hello! I seem to have gotten lost. Could you tell me where I am?"',
@@ -22,12 +22,11 @@ export const overwhereIv00002 = {
     '"Brigands on that road all month, stripping folk to their smallclothes. Look at your feet."',
     "\"You're in Millbrook, love. Wendmere Vale, barony of Tarrow. That's the town, up past the bridge.\"",
     "He says it slowly, as if to someone far from home; he hears the lilt and takes her for a southerner.",
+    "Behind Nala in the grass, the melon-sized slime with the red stone bobs back toward her ankle.",
     '"Garrett Pell. I carter for the vale." He is already twisting to dig under the seat.',
     "He hauls out a patched brown wool coat smelling of horse, and holds it out at arm's length.",
-    "\"Take it, go on. I'm hauling this grain to my sister's mill by the gate. Ride in with me?\"",
     "\"Marta at the Brook & Barrel's kind to strays. She'll see you fed, and nobody'll gawk at you.\"",
-    "Behind Nala in the grass, the melon-sized slime with the red stone bobs back toward her ankle.",
-    "Garrett waits on the road, coat held out, one eye on the gate and the sun near straight overhead.",
+    "\"Take it, go on. I'm hauling this grain to my sister's mill by the gate. Ride in with me?\"",
   ],
   issues: [
     '"Garrett keeps the coat held out over the wheel, one eye on the town gate" - No Prompt',
