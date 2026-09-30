@@ -51,8 +51,10 @@ export const overwhereIii00008 = {
     "lore/overwhere-iii-marda-hesk",
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-tobin-wick",
+    "place/overwhere-iii-crook-and-candle",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2026-09-30T07:00:00.000Z",
 } as const satisfies StoryTurnPlayed
