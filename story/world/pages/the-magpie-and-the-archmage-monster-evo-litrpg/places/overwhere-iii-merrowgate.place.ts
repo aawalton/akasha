@@ -211,6 +211,10 @@ export const overwhereIiiMerrowgate = {
       fact: "By mid-morning Bet has told half the town the red-haired stranger drew the blight from Ivy's hand.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
     },
+    {
+      fact: "A packed path runs inside the whole wall, about a mile round, walked by the watch.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
