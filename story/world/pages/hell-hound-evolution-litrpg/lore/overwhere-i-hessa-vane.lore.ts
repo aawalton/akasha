@@ -91,6 +91,10 @@ export const overwhereIHessaVane = {
       fact: "Seeing the burn through Sootjaw's chest, she believes Nala killed it, though not how.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "To move the Brute she would skin and quarter it at the ford, and send Tobin for a cart.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
