@@ -321,5 +321,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Up close Ghost-Eye is huge, its grey-green scales scarred pale along the flank.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Left in the channel, Ghost-Eye's body is torn by fen scavengers; by day 5 the head is gone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
