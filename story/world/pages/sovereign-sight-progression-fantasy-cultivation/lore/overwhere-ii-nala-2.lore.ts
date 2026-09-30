@@ -64,5 +64,9 @@ export const overwhereIiNala2 = {
       fact: "Refined with Undertow, Nala's whole left arm shows a faint pearly sheen and feels tight and cool.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Both of Nala's arms are refined whole now; her mind is worn thin, as after Tansy.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
