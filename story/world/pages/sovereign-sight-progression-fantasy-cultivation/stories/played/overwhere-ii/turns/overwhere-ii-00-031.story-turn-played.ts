@@ -10,7 +10,7 @@ export const overwhereIi00031 = {
   position: 31,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“I’m fine. Took out the alpha and thinned the pack, though some of them escaped. I was just going to report to the Reeve. Know if there is anyone here who would be interested in buying the reservoirs? Or a way I could use them in my training?”",
   beats: [
@@ -36,6 +36,6 @@ export const overwhereIi00031 = {
     "lore/overwhere-ii-undertow",
     "place/overwhere-ii-wendle-ford",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-30T07:30:00.000Z",
 } as const satisfies StoryTurnPlayed
