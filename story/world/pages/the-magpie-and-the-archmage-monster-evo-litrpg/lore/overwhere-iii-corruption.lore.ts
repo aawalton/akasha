@@ -126,7 +126,11 @@ export const overwhereIiiCorruption = {
     },
     {
       fact: "When a corrupted creature dies, its ooze gathers into a blightstone, a corrupted glimmerstone.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Blightstones are black and menacing; touching one brings revulsion and despair.",
