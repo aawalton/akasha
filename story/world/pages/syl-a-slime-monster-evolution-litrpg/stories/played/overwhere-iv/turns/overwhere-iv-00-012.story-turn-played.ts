@@ -10,7 +10,7 @@ export const overwhereIv00012 = {
   position: 12,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Yeah, it was the strangest thing. Any idea why they would do that? I know I’m pretty, but I’ve never had men throw their lives at my feet like that.” I say with a laugh.",
   beats: [
@@ -29,12 +29,13 @@ export const overwhereIv00012 = {
     "He looks at Nala for a long moment, as if weighing something, and then down at his stew again.",
     "Nobody else seems to notice.",
   ],
+  issues: ['"Wat and Dell go on eating, and Holt reaches for more bread." - Leave It Open'],
   lore: [
     "lore/overwhere-iv-brenna-holt",
     "lore/overwhere-iv-nala",
     "lore/overwhere-iv-slimes-and-cores",
     "place/overwhere-iv-millbrook-gatehouse",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T18:25:00.000Z",
 } as const satisfies StoryTurnPlayed
