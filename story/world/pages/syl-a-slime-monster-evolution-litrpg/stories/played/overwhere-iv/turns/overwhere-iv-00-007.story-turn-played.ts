@@ -10,7 +10,7 @@ export const overwhereIv00007 = {
   position: 7,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I get changed and then wander over to check out the adventures guild",
   beats: [
     "Behind the curtain Nala changes: the wool tunic, the padded jerkin over it, the rag-stuffed boots.",
@@ -40,6 +40,6 @@ export const overwhereIv00007 = {
     "lore/overwhere-iv-nala",
     "place/overwhere-iv-millbrook-adventurers-hall",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T13:42:00.000Z",
 } as const satisfies StoryTurnPlayed
