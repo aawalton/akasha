@@ -63,6 +63,14 @@ export const overwhereIiGarthMarsh = {
       fact: "A man down the lane from the barn where Nala woke hushes a dog called Burr in a slow, deep voice.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Burr, the dog of the man down the lane, is a rough grey collie.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "The man down the lane walks unevenly, one foot landing heavier than the other.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

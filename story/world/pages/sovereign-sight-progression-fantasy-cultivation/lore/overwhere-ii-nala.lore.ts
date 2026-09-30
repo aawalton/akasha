@@ -192,6 +192,10 @@ export const overwhereIiNala = {
       fact: "Calling for a System or a Status brings nothing here: no screen, no voice, no answer.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Her voice is higher and lighter than Alan's was, a woman's voice, a little husky.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
