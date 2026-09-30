@@ -100,6 +100,10 @@ export const overwhereIiiCrookAndCandle = {
         "character-other/overwhere-iii-bet-harrow",
       ],
     },
+    {
+      fact: "The fourth night's supper at the Crook and Candle is ham-hock and barley stew with brown bread.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
