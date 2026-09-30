@@ -89,7 +89,11 @@ export const overwhereIWendlow = {
     },
     {
       fact: "In Wendlow the enchanter Ilse Varrow sets mana-grown stones into rings and rods for mages.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
     {
       fact: "Ilse Varrow sets a drake-pearl into a focus ring for three gold, taking three days.",
