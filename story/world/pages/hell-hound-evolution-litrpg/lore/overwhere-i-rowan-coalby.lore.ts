@@ -93,7 +93,7 @@ export const overwhereIRowanCoalby = {
     },
     {
       fact: "Rowan knows an old alpha's clouded eye as a drake-pearl, grown of mana, that alchemists prize.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Rowan reckons a drake-pearl fetches several gold from an alchemist in Wendlow.",
