@@ -12,8 +12,14 @@ export const overwhereILegacyHeld = {
     "relation-property/overwhere-i-legacy-held-legacy",
     "number-property/overwhere-i-legacy-held-rank",
     "number-property/overwhere-i-legacy-held-reserve",
+    "number-property/overwhere-i-legacy-held-workings",
   ],
   properties: [
+    {
+      pageProperty: "number-property/overwhere-i-legacy-held-workings",
+      required: false,
+      many: false,
+    },
     {
       pageProperty: "relation-property/overwhere-i-legacy-held-character",
       required: true,

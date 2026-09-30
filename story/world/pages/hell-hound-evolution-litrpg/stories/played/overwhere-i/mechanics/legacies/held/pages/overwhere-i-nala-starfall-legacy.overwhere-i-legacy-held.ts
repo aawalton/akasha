@@ -8,4 +8,5 @@ export const overwhereINalaStarfallLegacy = {
   legacy: "overwhere-i-legacy/overwhere-i-starfall-legacy",
   rank: 1,
   reserve: 20,
+  workings: 2,
 } as const satisfies OverwhereILegacyHeld

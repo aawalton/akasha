@@ -3,8 +3,10 @@ import type { OverwhereILegacyHeldCharacter } from "akasha/story/world/pages/hel
 import type { OverwhereILegacyHeldLegacy } from "akasha/story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/legacies/held/properties/overwhere-i-legacy-held-legacy.relation-property.types.ts"
 import type { OverwhereILegacyHeldRank } from "akasha/story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/legacies/held/properties/overwhere-i-legacy-held-rank.number-property.types.ts"
 import type { OverwhereILegacyHeldReserve } from "akasha/story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/legacies/held/properties/overwhere-i-legacy-held-reserve.number-property.types.ts"
+import type { OverwhereILegacyHeldWorkings } from "akasha/story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/legacies/held/properties/overwhere-i-legacy-held-workings.number-property.types.ts"
 
 export type OverwhereILegacyHeld = WorldLegacy & {
+  workings?: OverwhereILegacyHeldWorkings
   character: OverwhereILegacyHeldCharacter
   legacy: OverwhereILegacyHeldLegacy
   rank: OverwhereILegacyHeldRank
