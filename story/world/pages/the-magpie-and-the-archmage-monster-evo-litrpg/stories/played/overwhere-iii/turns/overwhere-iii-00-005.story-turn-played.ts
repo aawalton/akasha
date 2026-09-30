@@ -14,7 +14,7 @@ export const overwhereIii00005 = {
     "character-other/overwhere-iii-tobin-wick",
     "character-other/overwhere-iii-hal-dunmore",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“I’m…Nala.” I say, and then just keep watching the man’s",
   beats: [
     '"I\'m... Nala," she says, and then goes back to watching the mana currents.',
@@ -40,6 +40,6 @@ export const overwhereIii00005 = {
     "lore/overwhere-iii-tobin-wick",
     "place/overwhere-iii-merrowgate",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T17:25:00.000Z",
 } as const satisfies StoryTurnPlayed
