@@ -10,7 +10,7 @@ export const overwhereI00040 = {
   position: 40,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I attune water and pull the beast through its entrance hole, into the water, and then back onto the shore. “Three renders accounted for.”",
   beats: [
@@ -30,6 +30,6 @@ export const overwhereI00040 = {
     "lore/overwhere-i-starfall-legacy",
     "place/overwhere-i-the-greyfen",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-30T11:12:00.000Z",
 } as const satisfies StoryTurnPlayed
