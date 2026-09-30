@@ -4,13 +4,14 @@ export const overwhereI00035 = {
   id: "01a0f386-d49f-7597-abd5-22f5e4877b33",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-035",
+  cover: "image/image-a192b2a49e40921e",
   ownLength: 147,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 35,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Sorry about that, you can call it even against the reedlurker. Any other traps I should avoid pulling before I try again?”",
   beats: [
@@ -26,6 +27,11 @@ export const overwhereI00035 = {
   ],
   lore: ["lore/overwhere-i-nala", "place/overwhere-i-the-greyfen"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T10:57:00.000Z",
 } as const satisfies StoryTurnPlayed
