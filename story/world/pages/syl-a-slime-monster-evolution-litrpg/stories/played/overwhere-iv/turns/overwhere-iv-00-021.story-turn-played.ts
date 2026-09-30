@@ -4,10 +4,13 @@ export const overwhereIv00021 = {
   id: "01a0f35c-3453-776a-b2f1-18afd2e61573",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-021",
+  ownLength: 281,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 21,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
+  stepStatus: "step-status/reviewers",
   action: "“Deal. I have a lot of growing to do. Rather do it with someone I can trust anyways.”",
   beats: [
     '"Deal," Nala says. "I have a lot of growing to do. Rather do it with someone I can trust anyways."',
@@ -25,6 +28,6 @@ export const overwhereIv00021 = {
     "She reaches under the counter and sets down a pair of old leather gloves, worn soft, a little big.",
     '"From the hall\'s box of things left behind. Wear them, the jelly stings. And mind the wolves."',
   ],
-  lore: ["lore/overwhere-iv-ilsa-crane"],
+  lore: ["lore/overwhere-iv-ilsa-crane", "lore/overwhere-iv-nala"],
   endsAt: "2026-09-30T09:40:00.000Z",
 } as const satisfies StoryTurnPlayed
