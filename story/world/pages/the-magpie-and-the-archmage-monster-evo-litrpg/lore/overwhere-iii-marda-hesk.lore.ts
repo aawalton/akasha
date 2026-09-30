@@ -138,7 +138,11 @@ export const overwhereIiiMardaHesk = {
     },
     {
       fact: "Marda will write Thornmere a fourth letter, naming a white-gold card this time.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
   secrets: "jsonl",
