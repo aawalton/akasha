@@ -10,7 +10,7 @@ export const overwhereIi00053 = {
   position: 53,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I drink and get a meal, then retire to my room and imbue my legs with Water to match my arms, then go to sleep.",
   beats: [
@@ -26,7 +26,7 @@ export const overwhereIi00053 = {
     "The Sea fills it back to the brim, slow and steady, while she sits in the dark.",
     "She begins the right leg, ready this time for the jolt at the sole.",
     "When it comes she rides it like a wave, and the refining runs smooth and swift, root to toe.",
-    "Both legs shine faintly pearly in the candlelight, tight and cool, matched to her arms.",
+    "Her right leg shines faintly pearly in the candlelight; both feel tight and cool, like her arms.",
     "Now only the skin of her trunk, neck and head feels thin and raw, asking to be matched.",
     "She lies down, and sleep takes her at once.",
     "She wakes at dawn on day four, rested and whole, her mouth a little dry.",
