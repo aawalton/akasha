@@ -229,5 +229,9 @@ export const overwhereINala = {
       fact: "Nala told Hessa she is a rolling stone, always looking for a change and a challenge.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Nala told Hessa she may take on Ghost-Eye or Voss tomorrow, and never finds money hard to get.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore

@@ -133,11 +133,19 @@ export const overwhereIHessaVane = {
     },
     {
       fact: "She'd have Nala wait for the cart and walk to Fenwatch with it, so she can vouch for the kill.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Nala's easy talk of money and the fen reads to her as gentry bravado, and it worries her.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hessa warned that putting off Ghost-Eye or Voss till tomorrow is how people end up in the fen.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Hessa told Nala that money is not easy come here, and nor are second chances.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",

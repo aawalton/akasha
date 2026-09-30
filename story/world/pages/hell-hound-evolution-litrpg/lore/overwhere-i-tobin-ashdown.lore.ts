@@ -67,6 +67,10 @@ export const overwhereITobinAshdown = {
       fact: "He comes back to the ford with the reeve's mule cart a little before half past one.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Hessa said Tobin will be back at the ford with a cart early in the afternoon.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

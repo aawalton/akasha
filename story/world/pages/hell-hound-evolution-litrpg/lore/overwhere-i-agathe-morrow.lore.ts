@@ -67,6 +67,10 @@ export const overwhereIAgatheMorrow = {
       fact: "She pays the Sootjaw bounty from the village chest on Hessa's word that the kill was Nala's.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Agathe Morrow, Fenwatch's reeve, will pay the Sootjaw bounty on Hessa's word the kill was Nala's.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
