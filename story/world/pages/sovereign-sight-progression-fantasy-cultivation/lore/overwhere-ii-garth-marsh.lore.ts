@@ -79,6 +79,10 @@ export const overwhereIiGarthMarsh = {
       fact: "Nala's face means nothing to Garth; he has never seen her before.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Burr's man is big and bearded, forty-odd, in a sheepskin coat, leaning on a shepherd's crook.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
