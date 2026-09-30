@@ -39,6 +39,14 @@ export const overwhereIvOswinPike = {
       fact: "Oswin would warn Nala quietly, alone, and never in front of others.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Oswin waits for Nala in the dark porch of the shrine on the square, out of the lamplight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "He would tell her to keep that light to herself, and to stop Ilsa's letter if she can.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
