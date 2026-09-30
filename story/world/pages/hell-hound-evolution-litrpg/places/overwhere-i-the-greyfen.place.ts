@@ -103,6 +103,10 @@ export const overwhereITheGreyfen = {
       fact: "At 10:55 on day 2 Nala's water grab tore one of Jory's eel traps out and burst it; it's ruined.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "The eel trap Nala burst was one of Jory's good ones, and one of the few he has left.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
