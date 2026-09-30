@@ -349,7 +349,7 @@ export const overwhereITheSystem = {
     },
     {
       fact: 'Odd requests get "[Unrecognized request. Please see the help menu for available functions.]"',
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Elemental reserves hold five elements: Fire, Electricity, Water, Wind and Earth.",

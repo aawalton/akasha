@@ -17,7 +17,7 @@ export const overwhereISootjaw = {
     },
     {
       fact: "It is a shaggy black four-legged beast the size of a small bear, thick-necked and heavy-boned.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Its short snout is crowded with pointed teeth, and it hisses like a cat before it charges.",
@@ -86,6 +86,18 @@ export const overwhereISootjaw = {
     {
       fact: "It is an ordinary danger of the march; loosed raw element at full strength would end it.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Its muzzle is soot-black, and its short snout is crowded with pointed teeth.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Its forepaws are as wide as the big paw prints in the mud at Greyfen Ford.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "On day one it came down the ridge track to the ford, saw Nala across it, and hissed like a cat.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",

@@ -109,5 +109,9 @@ export const overwhereINala = {
       fact: "Her legacy line and its skill stay ??? until she first draws on the pressure in her chest.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The pressure in her chest stirs when she looks at her Legacy line; pushing at it shows nothing.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
