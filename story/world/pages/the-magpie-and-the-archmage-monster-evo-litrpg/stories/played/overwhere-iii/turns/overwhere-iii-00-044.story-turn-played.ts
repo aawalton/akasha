@@ -4,6 +4,7 @@ export const overwhereIii00044 = {
   id: "01a0f42f-44d2-7301-bd0d-3883768f7760",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-044",
+  cover: "image/image-fea1bf56814be8b4",
   ownLength: 277,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -15,7 +16,7 @@ export const overwhereIii00044 = {
     "character-other/overwhere-iii-brannagh-tull",
     "character-other/overwhere-iii-hild-wendle",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I pause to go to the Post to spend my mana on cleansing blight stones, then I spend the day reading Brannagh’s book, going back to the post again to drain my mana whenever it gets close to full. If I finish the book, I go back to the Post to read more in the bestiary.",
   beats: [
@@ -48,6 +49,11 @@ export const overwhereIii00044 = {
     "place/overwhere-iii-merrowgate-guild-post",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-02T12:00:00.000Z",
 } as const satisfies StoryTurnPlayed
