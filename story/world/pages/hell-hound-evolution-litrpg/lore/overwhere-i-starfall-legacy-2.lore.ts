@@ -16,5 +16,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "The earth-and-air ripple works in dry ground and wet alike.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "An earth-and-air ripple feels hollows and moving air sharply, but living bodies only faintly.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
