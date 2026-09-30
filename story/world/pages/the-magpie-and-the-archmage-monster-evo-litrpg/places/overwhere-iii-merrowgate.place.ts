@@ -191,6 +191,10 @@ export const overwhereIiiMerrowgate = {
       fact: "In midwinter the dusk bell rings at a quarter to six; the gates and the post shut then.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
+    {
+      fact: "Brannagh's shop is low and dim, hung with drying herbs, and smells of mint and woodsmoke.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
