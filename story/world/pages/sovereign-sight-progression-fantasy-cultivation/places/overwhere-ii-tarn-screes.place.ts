@@ -28,5 +28,9 @@ export const overwhereIiTarnScrees = {
       fact: "From the den mouth the cairn hung with cold iron shows on the skyline above.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "On the way up lie a half-eaten ewe from last night's flight and tufts of scaled fur on the heather.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
