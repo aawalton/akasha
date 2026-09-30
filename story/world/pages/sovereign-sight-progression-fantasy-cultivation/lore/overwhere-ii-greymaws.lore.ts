@@ -171,5 +171,9 @@ export const overwhereIiGreymaws = {
       fact: "The dead she-wolf lies up the fell from Marsh Croft, dark against the heather.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Nothing living will eat greymaw flesh; the carcasses lie untouched through the night.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
