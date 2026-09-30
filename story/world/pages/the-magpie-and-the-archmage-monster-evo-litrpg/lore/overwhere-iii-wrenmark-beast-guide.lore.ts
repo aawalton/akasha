@@ -18,7 +18,7 @@ export const overwhereIiiWrenmarkBeastGuide = {
     },
     {
       fact: "Frost toad, Level 2-5: spits a numbing cold; strike the pale belly. Skin 3 copper to herbalists.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Ridge fox, Level 3-6: clever, raids coops; farmers pay 5 copper a tail. Winter pelt 8 copper.",
