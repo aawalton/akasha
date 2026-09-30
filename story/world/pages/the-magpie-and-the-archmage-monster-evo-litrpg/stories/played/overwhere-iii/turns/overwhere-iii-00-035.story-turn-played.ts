@@ -11,4 +11,5 @@ export const overwhereIii00035 = {
   action:
     "“Awesome, thanks!” I go and join them for the end of their workout, then find an affordable hearty meal.",
   lore: ["lore/overwhere-iii-maud-ferrow", "place/overwhere-iii-merrowgate"],
+  endsAt: "2026-10-01T10:32:00.000Z",
 } as const satisfies StoryTurnPlayed

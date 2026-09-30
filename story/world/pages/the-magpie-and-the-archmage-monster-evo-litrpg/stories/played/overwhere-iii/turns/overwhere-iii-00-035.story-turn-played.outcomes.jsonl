@@ -1,1 +1,2 @@
 {"check":"world-check/overwhere-iii-action-check","reading":{"band":"standard","bonuses":[{"from":"Hungry","by":-1},{"from":"new to the staff","by":-1}]},"dice":{"said":"1d20","sides":20,"faces":[2]},"seed":"22dd80ec82ee2a699aeaa57e6e874baca44e83b2f3d05ff3b36514b3be7821b8","answered":{"succeeded":false,"outcome":"failure","total":0,"target":12,"margin":-12}}
+{"check":"world-check/overwhere-iii-time-passing","reading":{"from":"2026-10-01T08:40:00.000Z","minutes":112},"answered":{"endsAt":"2026-10-01T10:32:00.000Z","day":3,"light":"day"}}
