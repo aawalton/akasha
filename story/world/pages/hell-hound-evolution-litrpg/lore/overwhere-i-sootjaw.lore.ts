@@ -143,6 +143,10 @@ export const overwhereISootjaw = {
       fact: "Skinned, the hide is slit belly to throat and down each leg, then worked off with a knife.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Skinning and quartering it takes Hessa most of an hour at the water's edge.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
