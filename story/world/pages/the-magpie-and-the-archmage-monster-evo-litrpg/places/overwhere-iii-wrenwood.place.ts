@@ -204,6 +204,10 @@ export const overwhereIiiWrenwood = {
       fact: "This afternoon two Level 2 jackalopes graze the frosted roots near the Wren Brook, 6 health each.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Two antlered rabbits, each with a small glow, graze the frosted roots by the brook this afternoon.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
