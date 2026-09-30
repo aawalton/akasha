@@ -46,7 +46,11 @@ export const overwhereIvMillbrookGatehouse = {
     },
     {
       fact: "Drill runs at dawn: laps of the wall walk, spear forms, shield work, then paired sparring.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
+      ],
     },
     {
       fact: "Recruits are paid at week's end, and a recruit who quits before then is paid nothing.",
@@ -102,7 +106,6 @@ export const overwhereIvMillbrookGatehouse = {
         "lore/overwhere-iv-brenna-holt",
       ],
     },
-
     {
       fact: "Oswin Pike bunks in the gatehouse; Wat, Dell and Holt do too, and the captain lives in town.",
       knowers: ["lore-disclosure/game-master"],

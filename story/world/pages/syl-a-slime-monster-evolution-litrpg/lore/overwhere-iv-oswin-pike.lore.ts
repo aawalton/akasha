@@ -45,7 +45,11 @@ export const overwhereIvOswinPike = {
     },
     {
       fact: "He would tell her to keep that light to herself, and to stop Ilsa's letter if she can.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-oswin-pike",
+      ],
     },
     {
       fact: "If she does not come to him, Oswin speaks low through her bunk curtain before the night bell.",
@@ -53,6 +57,22 @@ export const overwhereIvOswinPike = {
     },
     {
       fact: "After the clear flare the grey watchman caught Nala's eye, nodded to the dark square, went out.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-oswin-pike",
+      ],
+    },
+    {
+      fact: "The grey watchman, Oswin Pike, spoke low to Nala through her bunk curtain on her first night.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-oswin-pike",
+      ],
+    },
+    {
+      fact: "Oswin told Nala he has seen slimes follow someone once before, years back.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/overwhere-iv-nala",

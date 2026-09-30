@@ -143,5 +143,9 @@ export const overwhereIvMillbrook = {
         "lore/overwhere-iv-garrett-pell",
       ],
     },
+    {
+      fact: "At night a still figure stood in the dark shrine porch as Nala crossed the square, then was gone.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Place
