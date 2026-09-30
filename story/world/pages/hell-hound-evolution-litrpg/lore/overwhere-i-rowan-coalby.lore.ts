@@ -73,7 +73,7 @@ export const overwhereIRowanCoalby = {
     },
     {
       fact: "Sedge bristles and whines at Ghost-Eye's scent on Nala's pack, and will not come near her.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Rowan and Sedge wait at the fen edge by the Greyback from mid-afternoon of day 3 till dusk.",
