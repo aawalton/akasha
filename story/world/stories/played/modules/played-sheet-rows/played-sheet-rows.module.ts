@@ -54,6 +54,15 @@ export const playedSheetRows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A skill holding naming no skill page is named and noted by itself.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A held kind is named by the page its relation of that kind names, or by the holding itself.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A skill's score is its level, or its rank where the rank is a number.",
     },
     {

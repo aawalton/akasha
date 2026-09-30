@@ -12,6 +12,7 @@ import { towerSkillRank } from "akasha/story/world/pages/personas/stories/played
 import {
   attunementsIn,
   bondsIn,
+  heldIn,
   namedIn,
   questsIn,
   resourcesIn,
@@ -143,6 +144,27 @@ test("a skill whose rank is a number is scored by that rank", () => {
   const titles = new Map([[SMITHING, theTowerSmithing.title]])
   expect(skillsIn([{ values: { skill: SMITHING, rank: 2 } }], titles)).toEqual([
     { name: theTowerSmithing.title, score: 2 },
+  ])
+})
+
+test("a skill holding naming no skill page is named and noted by itself", () => {
+  const rows = [{ values: { title: "Undertow", description: "a pull on water", talent: "x/y" } }]
+  expect(skillsIn(rows, new Map())).toEqual([{ name: "Undertow", note: "a pull on water" }])
+})
+
+test("a held kind is named and noted by the page its relation names, or by the holding itself", () => {
+  const named = "some-legacy/some-starfall"
+  const titles = new Map([[named, "Starfall"]])
+  const descriptions = new Map([[named, "a fallen star"]])
+  const holder = "character-player/some-nala"
+  const rows = [
+    { values: { legacy: named, rank: 1, character: holder, slug: "some-nala-starfall" } },
+    { values: { title: "Human", character: holder } },
+    { values: { legacy: "some-legacy/unknown" } },
+  ]
+  expect(heldIn(rows, "legacy", titles, descriptions)).toEqual([
+    { name: "Human" },
+    { name: "Starfall", score: 1, note: "a fallen star" },
   ])
 })
 

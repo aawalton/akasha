@@ -191,11 +191,14 @@ export function skillsIn(
 ): readonly Skill[] {
   const skills: Skill[] = []
   for (const row of rows) {
-    const name = titleAt(row.values[SKILL_KEY], titles)
+    const name = titleAt(row.values[SKILL_KEY], titles) ?? ownNameOf(row) ?? undefined
     if (name === undefined) continue
     const rank = titleAt(row.values[RANK_KEY], titles)
     const score = parseNumber(row.values[LEVEL_KEY]) ?? parseNumber(row.values[RANK_KEY])
-    const note = titleAt(row.values[SKILL_KEY], descriptions) ?? textIn(row.values[AXIS_KEY])
+    const note =
+      titleAt(row.values[SKILL_KEY], descriptions) ??
+      textIn(row.values[DESCRIPTION_KEY]) ??
+      textIn(row.values[AXIS_KEY])
     skills.push({
       name,
       ...(rank === undefined ? {} : { rank }),
@@ -229,6 +232,28 @@ export function traitsIn(
     })
   }
   return traits.toSorted(byName)
+}
+
+export function heldIn(
+  rows: readonly QueryRow[],
+  key: string,
+  titles: Titles,
+  descriptions: Titles = new Map()
+): readonly Skill[] {
+  const held: Skill[] = []
+  for (const row of rows) {
+    const named = row.values[key]
+    const name = titleAt(named, titles) ?? ownNameOf(row) ?? undefined
+    if (name === undefined) continue
+    const score = parseNumber(row.values[RANK_KEY])
+    const note = titleAt(named, descriptions) ?? textIn(row.values[DESCRIPTION_KEY])
+    held.push({
+      name,
+      ...(score === undefined ? {} : { score }),
+      ...(note === null ? {} : { note }),
+    })
+  }
+  return held.toSorted(byName)
 }
 
 export function questsIn(rows: readonly QueryRow[]): readonly Quest[] {
