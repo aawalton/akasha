@@ -60,5 +60,14 @@ export const overwhereIiiHildWendle = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
+    {
+      fact: "Hild's burly carter husband paid Brannagh 10 copper, and Brannagh handed it straight to Nala.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-hild-wendle",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
   ],
 } as const satisfies Lore
