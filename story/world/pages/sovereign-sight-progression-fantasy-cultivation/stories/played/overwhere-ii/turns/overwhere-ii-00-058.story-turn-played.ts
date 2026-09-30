@@ -7,7 +7,13 @@ export const overwhereIi00058 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 58,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Yeah, I’ll need to prepare a but before I’m ready for that. Sounds like you’ll get to keep me a while longer after all.” Once the conversation is done, I get a good meal and go to sleep.",
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-reeve-corwin-dray-2",
+    "place/overwhere-ii-tarrant-smithy",
+  ],
 } as const satisfies StoryTurnPlayed
