@@ -227,6 +227,14 @@ export const overwhereIvTheTangle = {
         "lore/overwhere-iv-brookside-four",
       ],
     },
+    {
+      fact: "A goblin's core sits under the breastbone; Wren cuts them out quickly with a skinning knife.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The walk back from the lookout to Millbrook, driving three sheep, takes some two hours.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
