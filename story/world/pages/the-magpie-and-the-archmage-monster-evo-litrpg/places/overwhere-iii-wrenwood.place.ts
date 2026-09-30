@@ -228,6 +228,10 @@ export const overwhereIiiWrenwood = {
       fact: "Two dead antlered rabbits lie by the Wren Brook, each with a faint glow at the base of its antlers.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Eight good frostcaps stand on the brookside roots after the three bruised: her five and three spare.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
