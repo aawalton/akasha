@@ -10,5 +10,4 @@ export const overwhereIiNala = {
   minValue: 0,
   history: "jsonl",
   displayOrder: 3,
-  unrevealed: true,
 } as const satisfies MetricCharacterCurrency
