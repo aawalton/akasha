@@ -119,6 +119,10 @@ export const overwhereIiWhitecombs = {
       fact: "The Warped goats by the Callow pool have not caught Nala's scent; the wind blows from them to her.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Each Warped goat has a small hard knot of Water behind its breastbone.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
