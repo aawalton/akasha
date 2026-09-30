@@ -23,6 +23,8 @@ export const overwhereI00038 = {
     "Around the den the wet earth is laced with something hard and knotted, like a net: roots.",
     "The alder's roots wrap the den on every side. The only open way is the tunnel down to the water.",
   ],
+  issues: ['"it finds no warm, heavy weight" - Plain Negation'],
   lore: ["lore/overwhere-i-greyfen-beasts-2", "lore/overwhere-i-nala"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T11:06:00.000Z",
 } as const satisfies StoryTurnPlayed
