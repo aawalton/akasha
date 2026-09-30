@@ -4,6 +4,7 @@ export const overwhereIi00023 = {
   id: "01a0f246-752f-7e48-a9e0-2c77da459423",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-023",
+  cover: "image/image-464d21b68fc7bd30",
   ownLength: 445,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
@@ -44,6 +45,6 @@ export const overwhereIi00023 = {
   ],
   lore: ["lore/overwhere-ii-garth-marsh", "lore/overwhere-ii-greymaws", "lore/overwhere-ii-nala"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-29T18:00:00.000Z",
 } as const satisfies StoryTurnPlayed
