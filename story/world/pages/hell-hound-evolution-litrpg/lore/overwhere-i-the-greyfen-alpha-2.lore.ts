@@ -276,5 +276,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Killing Ghost-Eye, 15 levels above her, does not raise her legacy rank; that needs 20 above.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Six, sent west, does not come back; it rejoins the pups in the deep fen.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
