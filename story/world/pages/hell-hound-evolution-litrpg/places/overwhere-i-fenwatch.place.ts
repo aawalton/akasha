@@ -195,6 +195,10 @@ export const overwhereIFenwatch = {
       fact: "Aldo Brack is a stooped, sour man of fifty with stained brown hands, who smells of his pits.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Brack has packs and belts ready; boots he makes to the foot, ready the morning of day three.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
