@@ -4,13 +4,14 @@ export const overwhereIi00027 = {
   id: "01a0f343-d1a5-7aa1-856c-017d2e5907cb",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-027",
+  cover: "image/image-8414278544e59f11",
   ownLength: 260,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 27,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "While he works, I focus on settling and cleaning the restless brine first, then try again to push water into the wound.",
   beats: [
@@ -33,6 +34,11 @@ export const overwhereIi00027 = {
   ],
   lore: ["lore/overwhere-ii-garth-marsh", "lore/overwhere-ii-nala", "lore/overwhere-ii-undertow"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-29T18:22:00.000Z",
 } as const satisfies StoryTurnPlayed
