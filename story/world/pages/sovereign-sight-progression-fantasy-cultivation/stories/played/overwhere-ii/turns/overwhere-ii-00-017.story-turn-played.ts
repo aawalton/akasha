@@ -37,5 +37,6 @@ export const overwhereIi00017 = {
   issues: ['"And now you know how fine those deep threads are" - Leave It Open'],
   lore: ["lore/overwhere-ii-nala"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-29T10:29:00.000Z",
 } as const satisfies StoryTurnPlayed

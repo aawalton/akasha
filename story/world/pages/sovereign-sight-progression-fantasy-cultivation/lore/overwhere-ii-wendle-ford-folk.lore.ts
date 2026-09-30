@@ -119,5 +119,21 @@ export const overwhereIiWendleFordFolk = {
       fact: "Sedge Horne hauled Nala off Tansy's bed by the collar, pinned her to the wall, and roared at her.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Nala pushed Tansy's warmth back into her with a little of her own Water; Tansy's blue lips faded.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Nala's Water holds Tansy's rot still and sluggish, but nearly all of it is still in her arm.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Tansy woke from her swoon, cold, and asked for her mam, who held her and wept.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "At Goody's word Sedge Horne let Nala go, then asked if she could get the rest of the rot out.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
