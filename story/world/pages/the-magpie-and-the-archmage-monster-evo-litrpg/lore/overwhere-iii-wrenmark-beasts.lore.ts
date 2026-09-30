@@ -68,5 +68,9 @@ export const overwhereIiiWrenmarkBeasts = {
       fact: "A Level 3 jackalope has 9 health and no ward; its soft fur turns nothing.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "In Merrowgate a whole jackalope fetches 5 copper for meat, pelt and antlers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
