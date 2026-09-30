@@ -5,10 +5,10 @@ export const overwhereIiNala = {
   type: "page-type/overwhere-ii-reservoir",
   slug: "overwhere-ii-nala",
   character: "character-player/overwhere-ii-nala",
-  value: 1000,
+  value: 990,
   minValue: 0,
   maxValue: 1000,
   history: "jsonl",
   displayOrder: 2,
-  revealedAs: "A bottomless well, brimming, cold, clear and still",
+  revealedAs: "A well sloshing brackish and restless, its floor given way",
 } as const satisfies OverwhereIiReservoir
