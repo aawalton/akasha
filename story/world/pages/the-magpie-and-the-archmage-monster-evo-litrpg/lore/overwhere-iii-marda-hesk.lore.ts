@@ -70,7 +70,19 @@ export const overwhereIiiMardaHesk = {
     },
     {
       fact: "Seeing a white-gold card, she goes still, then asks if the holder has ever healed or purified.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
+    {
+      fact: "Marda has never heard of Mana Weaver, and she has heard of most traits.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
   ],
   secrets: "jsonl",

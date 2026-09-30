@@ -172,7 +172,11 @@ export const overwhereIiiNala = {
     },
     {
       fact: "Her mana signature card lights white-gold, threaded through with every other color.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "On a Guild form, Mana Weaver is a name no clerk or adventurer in the Wrenmark has heard.",
@@ -193,6 +197,26 @@ export const overwhereIiiNala = {
     {
       fact: "To Mana Weaver's sight a frostcap holds a faint cold glow, and a gravecap holds none.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her Guild form reads: about twenty-five, Human, no class, no skills, trait Mana Weaver.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
+    {
+      fact: "Reaching inward as she did for the threads, she can push a trickle of her own mana into a thing.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "Her mana signature card gives only a small glow, which fades slowly once her trickle runs out.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
   ],
   secrets: "jsonl",
