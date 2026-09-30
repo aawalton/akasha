@@ -10,7 +10,7 @@ export const overwhereIv00005 = {
   position: 5,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-garrett-pell"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“I’m afraid all a really remember is the glint of light off a blade. My mind focused in on that and seems to have forgotten to pay attention to anything more. I’m not local, so Mr. Pell can give the location better than I. I’m sorry I can’t be of more help.” I pause, then ask “If you’ll pardon the question though, I find I’m feeling a great desire to get stronger now, say strong enough to fight off a group of bandits. Any suggestions for where I should start?”",
   beats: [
@@ -35,12 +35,13 @@ export const overwhereIv00005 = {
     'He reins in by the lean-to of sacks. "Got to unload. Where\'ll you go, Nala?"',
     '"The hall, Marta\'s at the Brook & Barrel, or sit here and watch me sweat. Your pick."',
   ],
+  issues: ["\"Where'll you go, Nala? The hall, Marta's ... Your pick.\" - No Prompt"],
   lore: [
     "lore/overwhere-iv-nala",
     "lore/overwhere-iv-rennick-hale",
     "place/overwhere-iv-east-road",
     "place/overwhere-iv-millbrook-adventurers-hall",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T12:32:00.000Z",
 } as const satisfies StoryTurnPlayed
