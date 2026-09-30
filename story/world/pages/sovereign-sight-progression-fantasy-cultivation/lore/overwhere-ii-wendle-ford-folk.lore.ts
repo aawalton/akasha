@@ -197,7 +197,7 @@ export const overwhereIiWendleFordFolk = {
     },
     {
       fact: "To Undertow, Col's rot is a coarse grey knot in his calf, easier to find than Tansy's.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Drawn clean, Col is gruff and grateful, and swears the watch owes Nala a debt.",
