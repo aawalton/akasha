@@ -268,6 +268,10 @@ export const overwhereIiiCorruption = {
       fact: "To Mana Weaver's sight a blightstone holds no glow, only a dark smear turned in on itself.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "A blight wound must be cleansed before it will mend: Cleansing Weave first, then Mending Weave.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
