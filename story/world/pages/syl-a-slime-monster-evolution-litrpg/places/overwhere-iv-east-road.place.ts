@@ -28,6 +28,22 @@ export const overwhereIvEastRoad = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The Red Hand strike in Hollin Wood, past the second bridge, a day's walk east of town.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "They come eight to ten strong, faces masked in red-dyed cloth, with bows and clubs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "After a robbery they melt away north across the moor, where the watch cannot follow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "They take coin, boots, cloaks and goods, and leave their victims alive to walk home.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Brigands have worked the east road all month, stripping folk to their smallclothes.",
       knowers: [
         "lore-disclosure/game-master",
