@@ -244,5 +244,9 @@ export const overwhereIStarfallLegacy = {
       fact: "A spun slug flies a third faster than a plain bullet, with the same force behind it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Practice shots at still marks need no check; the dozen, with mana's return, fill about two hours.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
