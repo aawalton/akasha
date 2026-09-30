@@ -46,7 +46,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "After one limb on day two, Nala's well is near brim-full and her mind clear for another.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Each limb Nala refines with Undertow leaves her hungrier, as after hard work.",
