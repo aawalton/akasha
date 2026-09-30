@@ -327,7 +327,11 @@ export const overwhereIiiBrannaghTull = {
     },
     {
       fact: "For wounds and bones Brannagh sends a reader to Sister Wenna's herbal at the chapel.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
     },
   ],
   secrets: "jsonl",
