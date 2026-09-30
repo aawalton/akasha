@@ -4,10 +4,13 @@ export const overwhereIi00038 = {
   id: "01a0f3b7-5ad8-73e1-8336-f24ebe1f962b",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-038",
+  ownLength: 376,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 38,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Great. All right if I use this guard spear for the hunt? I’d rather not wait three days for them to scatter. I’ll go start a commission with Hob and then start tracking.”",
   beats: [
@@ -34,6 +37,7 @@ export const overwhereIi00038 = {
   ],
   lore: [
     "lore/overwhere-ii-greymaws",
+    "lore/overwhere-ii-nala",
     "lore/overwhere-ii-reeve-corwin-dray",
     "place/overwhere-ii-hollow-tarn",
     "place/overwhere-ii-tarn-screes",
