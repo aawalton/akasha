@@ -51,7 +51,11 @@ export const overwhereIiiBetHarrow = {
     },
     {
       fact: "Bet is pleased when a stray pays her own way, and asks what work she found.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-bet-harrow",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Seeing Nala still in a man's shirt, Bet offers her a wool tunic from the left-behind box.",
