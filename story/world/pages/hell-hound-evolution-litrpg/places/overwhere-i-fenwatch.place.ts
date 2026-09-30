@@ -171,6 +171,10 @@ export const overwhereIFenwatch = {
       fact: "Brack charges a silver to cure a pelt into a rug or blanket, and it takes him three weeks.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Brack's boots cost three silver and take two days; a leather pack costs two silver.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
