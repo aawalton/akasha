@@ -4,10 +4,13 @@ export const overwhereI00039 = {
   id: "01a0f3a9-590a-7a12-8d96-73743a299f90",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-039",
+  ownLength: 181,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 39,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I attune water and fire, boiling the water in the underground den to superheated temperatures directly.",
   beats: [
@@ -30,6 +33,7 @@ export const overwhereI00039 = {
   ],
   lore: [
     "lore/overwhere-i-greyfen-beasts-2",
+    "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
     "lore/overwhere-i-starfall-legacy",
     "place/overwhere-i-the-greyfen",
