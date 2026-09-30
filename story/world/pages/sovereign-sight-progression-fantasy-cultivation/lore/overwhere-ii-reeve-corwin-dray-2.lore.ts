@@ -49,7 +49,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray does not know where Crake camps, only that the drover was robbed near Grey Shaw.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
