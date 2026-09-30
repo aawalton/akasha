@@ -4,6 +4,7 @@ export const overwhereIii00006 = {
   id: "01a0f175-c4b4-780f-9bd1-82b0d8585b79",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-006",
+  cover: "image/image-dfe24accac9f2500",
   ownLength: 317,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -16,7 +17,7 @@ export const overwhereIii00006 = {
     "character-other/overwhere-iii-cal-fenn",
     "character-other/overwhere-iii-jory-fenn",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I follow him in",
   beats: [
     "Nala follows Tobin in out of the cold.",
@@ -49,6 +50,6 @@ export const overwhereIii00006 = {
     "place/overwhere-iii-merrowgate",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-29T17:50:00.000Z",
 } as const satisfies StoryTurnPlayed
