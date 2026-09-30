@@ -4,10 +4,19 @@ export const overwhereIv00019 = {
   id: "01a0f348-0b83-70c2-b2ed-2d49f74e7f33",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-019",
+  ownLength: 282,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 19,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iv-nala",
+    "character-other/overwhere-iv-brenna-holt",
+    "character-other/overwhere-iv-wat",
+    "character-other/overwhere-iv-dell",
+    "character-other/overwhere-iv-oswin-pike",
+  ],
+  stepStatus: "step-status/reviewers",
   action: "I rest while I can, elevating the leg with the hurt knee.",
   beats: [
     "Nala doesn't go back to the line. She limps to the well and sits on its low stone rim.",
@@ -26,6 +35,6 @@ export const overwhereIv00019 = {
     'Holt stops by the well on her way in. "Porridge first. Then take that knee to the hall."',
     '"Orla heals the watch for a copper or two. Go today, or you\'ll run laps on it tomorrow."',
   ],
-  lore: ["lore/overwhere-iv-brenna-holt"],
+  lore: ["lore/overwhere-iv-brenna-holt", "lore/overwhere-iv-nala"],
   endsAt: "2026-09-30T08:05:00.000Z",
 } as const satisfies StoryTurnPlayed
