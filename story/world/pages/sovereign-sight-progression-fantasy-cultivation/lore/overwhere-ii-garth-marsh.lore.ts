@@ -203,6 +203,10 @@ export const overwhereIiGarthMarsh = {
       fact: "Garth would wash wolf spit and salt from Nala's half-healed bite before she tries more.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Garth means to bind Nala's bite and then have her eat; he sent Wren for clean linen.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
