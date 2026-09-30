@@ -4,6 +4,7 @@ export const overwhereIi00038 = {
   id: "01a0f3b7-5ad8-73e1-8336-f24ebe1f962b",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-038",
+  cover: "image/image-8a645237ae020fc1",
   ownLength: 376,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
@@ -44,6 +45,6 @@ export const overwhereIi00038 = {
     "place/overwhere-ii-tarrant-smithy",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-30T11:15:00.000Z",
 } as const satisfies StoryTurnPlayed
