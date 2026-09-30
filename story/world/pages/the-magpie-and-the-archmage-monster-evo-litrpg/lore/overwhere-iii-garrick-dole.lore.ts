@@ -24,5 +24,9 @@ export const overwhereIiiGarrickDole = {
       fact: "He sleeps most of the day now, and wakes muddled for a breath before his head clears.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The wolf's blight sits deeper than the boar's, and the first pull on it bites hardest.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
