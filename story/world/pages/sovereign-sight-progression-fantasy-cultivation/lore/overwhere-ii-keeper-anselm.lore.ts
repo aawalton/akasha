@@ -109,7 +109,7 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "Nearing the dark fell at nightfall, Anselm lost heart for the pack and turned back to the shrine.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Anselm sets out for Marsh Croft again at first light on day two.",
