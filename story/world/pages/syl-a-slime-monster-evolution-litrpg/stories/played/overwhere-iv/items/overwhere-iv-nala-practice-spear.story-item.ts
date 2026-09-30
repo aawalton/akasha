@@ -6,6 +6,8 @@ export const overwhereIvNalaPracticeSpear = {
   slug: "overwhere-iv-nala-practice-spear",
   title: "Practice Spear",
   story: "story-played/overwhere-iv",
-  place: "place/overwhere-iv-millbrook-gatehouse",
-  description: "An ash shaft with a blunted iron head, for drill, left on her cot.",
+  character: "character-player/overwhere-iv-nala",
+  slot: "item-slot/main-hand",
+  description:
+    "An ash shaft worn smooth by other hands, with a blunted iron head heavier than it looks.",
 } as const satisfies StoryItem
