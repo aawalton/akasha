@@ -345,6 +345,10 @@ export const overwhereIiiBrannaghTull = {
       fact: "The receipt book takes a slow reader most of a day; it's cramped, with salves, teas and poultices.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The receipt book's salves: goose-grease and yarrow for wounds, marigold for burns.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
