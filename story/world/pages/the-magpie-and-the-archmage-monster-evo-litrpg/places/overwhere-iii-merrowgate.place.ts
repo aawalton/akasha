@@ -207,6 +207,10 @@ export const overwhereIiiMerrowgate = {
       fact: "In midwinter the dawn bell rings at a quarter past seven, and the gates open then.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "By mid-morning Bet has told half the town the red-haired stranger drew the blight from Ivy's hand.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
