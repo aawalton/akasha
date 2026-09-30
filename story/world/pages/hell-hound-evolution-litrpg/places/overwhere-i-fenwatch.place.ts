@@ -284,6 +284,10 @@ export const overwhereIFenwatch = {
       fact: "From the south palisade to the Stag on the green is a five-minute walk.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "After she ended the Grubboar boar on day 2, Fenwatch's regard for Nala stands at 4.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
