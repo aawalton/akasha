@@ -21,7 +21,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Crake's men robbed a drover on the Carrowmouth road ten days ago, a day's walk below the Ford.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
