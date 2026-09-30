@@ -4,13 +4,13 @@ export const overwhereI00038 = {
   id: "01a0f39f-587d-7edf-8538-539734c5d512",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-038",
-  ownLength: 143,
+  ownLength: 149,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 38,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "I start a spiral search pattern using my water and earth detection technique, searching for the third hole.",
   beats: [
