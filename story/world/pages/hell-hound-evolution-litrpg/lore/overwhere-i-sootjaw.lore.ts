@@ -99,6 +99,18 @@ export const overwhereISootjaw = {
       fact: "On day one it came down the ridge track to the ford, saw Nala across it, and hissed like a cat.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Sootjaw has 16 health at most, and all 16 left this morning.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Its matted hide wards 1 against blows; Bristlehide raises that to 3, but only against blades.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Its hide gives no ward against fire, and its dry, matted fur catches and burns.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
