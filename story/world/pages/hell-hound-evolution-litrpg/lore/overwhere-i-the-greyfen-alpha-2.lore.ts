@@ -86,5 +86,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Against a slug Ghost-Eye's hide wards 2, the slug piercing one of its 3.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Struck, Ghost-Eye roars and comes across at her with Six, Seven and Eight, to buy the pups time.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
