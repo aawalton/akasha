@@ -240,6 +240,10 @@ export const overwhereIiiCorruption = {
       fact: "Undead are not corrupted; zombies are corpses raised by necromancers.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Touching a blightstone bare-handed brings a wash of revulsion and despair, and nothing worse.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
