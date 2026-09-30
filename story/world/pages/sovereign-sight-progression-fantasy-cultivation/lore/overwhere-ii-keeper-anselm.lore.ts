@@ -115,6 +115,10 @@ export const overwhereIiKeeperAnselm = {
       fact: "Anselm reached Marsh Croft at nightfall on day one, and slept by Garth's fire rather than walk back.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Anselm can teach Nala the Keepers' daily practice of refining skin and muscle.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
