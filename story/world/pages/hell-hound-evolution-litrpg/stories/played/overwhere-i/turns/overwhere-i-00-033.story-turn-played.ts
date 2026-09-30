@@ -4,10 +4,16 @@ export const overwhereI00033 = {
   id: "01a0f371-0d60-7371-84be-50bfcc54a66c",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-033",
+  ownLength: 171,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 33,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-i-nala",
+    "character-other/overwhere-i-reedlurker-of-the-first-holt",
+  ],
+  stepStatus: "step-status/reviewers",
   action: "I hit it again with fire and air, blowing it away from the water.",
   beats: [
     "Nala binds fire and wind again and throws the blast low, between the reedlurker and the water.",
@@ -27,6 +33,7 @@ export const overwhereI00033 = {
   lore: [
     "lore/overwhere-i-agathe-morrow",
     "lore/overwhere-i-greyfen-beasts",
+    "lore/overwhere-i-nala",
     "lore/overwhere-i-starfall-legacy",
     "place/overwhere-i-the-greyfen",
   ],
