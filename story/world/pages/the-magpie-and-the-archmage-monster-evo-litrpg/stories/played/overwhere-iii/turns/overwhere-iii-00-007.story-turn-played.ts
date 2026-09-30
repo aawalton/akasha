@@ -10,7 +10,7 @@ export const overwhereIii00007 = {
   position: 7,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-tobin-wick"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“Thank you” I tell Tobin again after eating. “Do you know any spells?”",
   beats: [
     'Nala finishes her stew and bread, and turns to Tobin. "Thank you," she tells him again.',
@@ -27,6 +27,6 @@ export const overwhereIii00007 = {
     '"I\'m for bed. I sell at the square in the morning." He looks at her. "You\'ll be all right tonight?"',
   ],
   lore: ["lore/overwhere-iii-nala", "lore/overwhere-iii-tobin-wick"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T18:00:00.000Z",
 } as const satisfies StoryTurnPlayed
