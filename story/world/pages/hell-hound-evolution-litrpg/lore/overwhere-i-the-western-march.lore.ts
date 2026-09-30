@@ -111,5 +111,9 @@ export const overwhereITheWesternMarch = {
       fact: "The ford is in the Western March of the Kingdom of Aubrevine, which its folk call the Vinelands.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "A small mana crystal is a thumb-joint of pale blue crystal, cold to hold and faintly aglow in shade.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
