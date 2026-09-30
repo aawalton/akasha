@@ -165,7 +165,7 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "Skin taking the practice prickles like nettles, then burns like a scald, then goes numb.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Anselm has refined his own skin over three years, and nothing deeper.",
