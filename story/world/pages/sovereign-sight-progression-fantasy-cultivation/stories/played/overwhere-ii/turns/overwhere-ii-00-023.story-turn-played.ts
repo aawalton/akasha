@@ -11,7 +11,7 @@ export const overwhereIi00023 = {
   position: 23,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“Give me the spear, you take Burr and Wren inside and I’ll take care of the Greymaws”",
   beats: [
     '"Give me the spear," Nala says. "You take Burr and Wren inside. I\'ll take care of the greymaws."',
@@ -45,6 +45,11 @@ export const overwhereIi00023 = {
   ],
   lore: ["lore/overwhere-ii-garth-marsh", "lore/overwhere-ii-greymaws", "lore/overwhere-ii-nala"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-09-29T18:00:00.000Z",
 } as const satisfies StoryTurnPlayed
