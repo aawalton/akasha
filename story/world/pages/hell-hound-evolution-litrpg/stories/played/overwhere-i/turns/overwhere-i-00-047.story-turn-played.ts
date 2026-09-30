@@ -4,6 +4,7 @@ export const overwhereI00047 = {
   id: "01a0f405-2654-7b12-9052-82e3c55274f7",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-047",
+  cover: "image/image-20e2eb71e53d8a79",
   ownLength: 219,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -18,7 +19,7 @@ export const overwhereI00047 = {
     "character-other/overwhere-i-pine-isle-drakewolf-five",
     "character-other/overwhere-i-pine-isle-drakewolf-six",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I get out of sight and cover myself in the muck to mask my scent, then careful circle around to the closest cover and get as close as I can without being detected.",
   beats: [
@@ -44,6 +45,11 @@ export const overwhereI00047 = {
     "place/overwhere-i-the-greyfen",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-01T13:02:00.000Z",
 } as const satisfies StoryTurnPlayed
