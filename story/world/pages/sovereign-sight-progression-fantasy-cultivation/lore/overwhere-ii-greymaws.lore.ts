@@ -113,7 +113,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "Pushed back while drained, the she-wolf's charge slows and her legs go heavy.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The she-wolf's scale turns a glancing spear, but a braced point met head-on sinks into her chest.",
