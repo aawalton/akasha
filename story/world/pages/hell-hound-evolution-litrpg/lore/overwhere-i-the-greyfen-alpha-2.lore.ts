@@ -82,5 +82,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Ghost-Eye stands still on the shore about 210 yards from her; a slug at it there is a hard act.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Against a slug Ghost-Eye's hide wards 2, the slug piercing one of its 3.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
