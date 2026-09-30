@@ -29,7 +29,15 @@ export const appendLines = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here reads the body the path holds.",
+      statement: "Nothing here reads what the body the path holds says.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file beside a page that is not there is refused rather than begun.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A first line beside a page that is there begins the file.",
     },
   ],
   changeKind: "change-kind/change-authored",

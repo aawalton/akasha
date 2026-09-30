@@ -270,6 +270,8 @@
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/file-carrying/file-carrying.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/import-repointing/import-repointing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/key-requiring/key-requiring.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/orphan-refusing/orphan-refusing.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/orphan-refusing/orphan-refusing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/page-claiming/page-claiming.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/page-claiming/page-claiming.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/page-knowing/page-knowing.module.code.ts","typed":true,"deferred":false}

@@ -911,6 +911,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/literal-splicing/literal-splicing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/load-order/load-order.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/name-binding/name-binding.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/orphan-refusing/orphan-refusing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/package-naming/package-naming.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/page-claiming/page-claiming.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/page-editing/page-editing.module.ts","typed":true,"deferred":false}

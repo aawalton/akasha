@@ -22,7 +22,12 @@ const appending: Reaching = (_world, at, given) => {
 function worldOf(held: Readonly<Record<string, string>>): World {
   return {
     root: "/nowhere",
-    index: Object.assign({} as World["index"], { pageTypesIn: () => new Set<string>() }),
+    index: Object.assign({} as World["index"], {
+      pageTypesIn: () => new Set<string>(),
+      filePropertiesAt: () => new Map(),
+      listedAt: () => [],
+      listedById: () => null,
+    }),
     textOf: (path) => held[path] ?? null,
     bodyOf: (path) => held[path] ?? null,
     under: () => [],
@@ -37,6 +42,23 @@ test("the arguments naming a path and content are answered as one append", async
 
   expect(said.refused).toBeNull()
   expect(said.edits).toEqual([{ kind: "append", path: AT, content: "one\n" }])
+})
+
+test("a file beside a page that is not there is refused rather than begun", async () => {
+  const at = "akasha/one/gone.one-kind.history.jsonl"
+  const said = await appendLinesCommand(worldOf({}), { at, content: "one\n" })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain("`akasha/one/gone.one-kind.ts`")
+})
+
+test("a first line beside a page that is there begins the file", async () => {
+  const at = "akasha/one/held.one-kind.history.jsonl"
+  const world = worldOf({ "akasha/one/held.one-kind.ts": "" })
+  const said = await appendLinesCommand(world, { at, content: "one\n" })
+
+  expect(said.refused).toBeNull()
+  expect(said.edits).toEqual([{ kind: "append", path: at, content: "one\n" }])
 })
 
 test("arguments holding no path are refused by the name of the argument", async () => {

@@ -5,6 +5,7 @@ import {
   missing,
   refusing,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import { orphanAt } from "akasha/change/modules/orphan-refusing/orphan-refusing.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
 const AT = "at"
@@ -20,6 +21,8 @@ export async function appendLinesCommand(world: World, given: Asked): Promise<An
   if (at === undefined) return refusing(missing(AT))
   const content = given[CONTENT]
   if (content === undefined) return refusing(missing(CONTENT))
+  const orphan = orphanAt(world, at)
+  if (orphan !== null) return refusing(orphan)
   return (await reach(world, APPEND_LINES, { at, content })).said
 }
 

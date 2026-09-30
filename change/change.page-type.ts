@@ -70,6 +70,7 @@ export const change = {
     "test-fixture/shadow-world",
     "module/load-order",
     "module/ambient-reaching",
+    "module/orphan-refusing",
   ],
   properties: [
     { pageProperty: "relation-property/change-kind", required: true, many: false },
