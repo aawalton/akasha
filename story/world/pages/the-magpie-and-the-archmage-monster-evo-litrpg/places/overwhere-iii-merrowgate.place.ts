@@ -36,7 +36,7 @@ export const overwhereIiiMerrowgate = {
     },
     {
       fact: "A traveler without papers is written in the gate book with a description and a reason.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "The town bell rings at dawn, noon and dusk from the tower over the Wool Square.",
@@ -93,6 +93,10 @@ export const overwhereIiiMerrowgate = {
     {
       fact: "Talk in Merrowgate this winter is of the blight in the Wrenwood and the boy lost in it.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Crook and Candle is Merrowgate's one inn.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",
