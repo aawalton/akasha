@@ -139,6 +139,14 @@ export const overwhereIiGarthMarsh = {
       fact: "Anni's boots are a little large for Nala, but serve well with the laces pulled tight.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At Garth's limping pace the three miles to the Ford take about an hour and a half.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Goody Brannoc brought Wren into the world, and Garth's word carries weight with her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

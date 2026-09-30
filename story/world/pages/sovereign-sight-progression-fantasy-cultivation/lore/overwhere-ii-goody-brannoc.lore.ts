@@ -43,6 +43,14 @@ export const overwhereIiGoodyBrannoc = {
       fact: "Garth says Goody Brannoc at the Ford tends all the rot-sick, and would know who else.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Goody Brannoc smells the Sea on Nala, clean and deep, as she has smelled it on no living thing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala's face stops Goody's breath: it is the face of her girlhood friend Liss Aske, unchanged.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

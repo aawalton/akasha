@@ -30,7 +30,7 @@ export const overwhereIiWendleFord = {
     },
     {
       fact: "Goody Brannoc, herbwife and the valley's only healer, lives by the mill race.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Hob Tarrant the smith forges cold iron charms and nails as well as plough irons.",
@@ -70,6 +70,10 @@ export const overwhereIiWendleFord = {
     },
     {
       fact: "The village watch is six men with boar spears, led by the Reeve.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Horne's mill stands on the Wendle at the village's east end, a stone's throw from Goody's cottage.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
