@@ -330,5 +330,25 @@ export const overwhereIvIlsaCrane = {
         "character-other/overwhere-iv-ilsa-crane",
       ],
     },
+    {
+      fact: "Ilsa asks low whether the black line and the clear flare are the same gift.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Garrett's cart leaves for Aubrin at dawn tomorrow, with Ilsa's soft report aboard.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ilsa fears carters will carry talk of a black line east, where her soft report can't hide it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ilsa would ask Dace to keep the black line within the Four; she can't vouch for Merrit.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ilsa would urge Nala to keep the line out of sight in town, and use it only in the Tangle.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
