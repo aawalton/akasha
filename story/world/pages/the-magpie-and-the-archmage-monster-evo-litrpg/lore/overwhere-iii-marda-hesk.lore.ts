@@ -190,7 +190,11 @@ export const overwhereIiiMardaHesk = {
     },
     {
       fact: "Marda posts a Guild quest: cleanse five blighted Wrenmark folk, 1 silver; she counts three done.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
   ],
   secrets: "jsonl",
