@@ -29,7 +29,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray knows Crake from Carrowmouth watch notices: a Mendicant, who steals Talents' Water.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray knows Crake drinks a Talent's Water at a touch, and sells it bottled in Carrowmouth.",
