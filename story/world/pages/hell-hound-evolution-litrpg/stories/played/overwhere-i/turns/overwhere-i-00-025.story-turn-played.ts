@@ -4,13 +4,14 @@ export const overwhereI00025 = {
   id: "01a0f24e-f3ef-769a-b6de-659c9856e093",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-025",
+  cover: "image/image-ec1d7139589b042b",
   ownLength: 192,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 25,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“You’re welcome to the hide and meat for free if you can find it. I killed him in the swamp and he sank in deep. Barely managed to get the tusks out of the muck. If you manage it, it’s yours. I’m taking a bath!”",
   beats: [
@@ -33,6 +34,11 @@ export const overwhereI00025 = {
     "place/overwhere-i-fenwatch",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/memory",
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T09:09:00.000Z",
 } as const satisfies StoryTurnPlayed
