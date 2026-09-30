@@ -61,7 +61,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray judges a First Depth thief with four men and venom a match for any lone Talent.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
