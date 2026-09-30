@@ -4,13 +4,13 @@ export const overwhereIi00049 = {
   id: "01a0f433-06d1-7b5c-a54d-f9f546bfd785",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-049",
-  ownLength: 115,
+  ownLength: 111,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 49,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "“Share it all. I expect to take the Chartermark sooner or later anyways. No reason to slow that down.”",
   beats: [
