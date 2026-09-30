@@ -100,5 +100,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "A drake-pearl holds about 150 mana; drawn on once, it restores that and goes dull and worthless.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A beast that swallows a drake-pearl gains 30 greatest mana for good; Nala's hound nature counts.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
