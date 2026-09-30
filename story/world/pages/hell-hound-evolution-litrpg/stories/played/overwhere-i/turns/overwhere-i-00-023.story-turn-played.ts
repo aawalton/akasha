@@ -4,10 +4,13 @@ export const overwhereI00023 = {
   id: "01a0f215-976a-71ac-9b5d-11384c99b2b4",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-023",
+  ownLength: 105,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 23,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I make the water blade again and use it to just cut off the tusks, focusing on making it spin even faster and thinner.",
   beats: [
@@ -21,6 +24,7 @@ export const overwhereI00023 = {
   lore: [
     "lore/overwhere-i-agathe-morrow",
     "lore/overwhere-i-greyfen-beasts",
+    "lore/overwhere-i-nala",
     "lore/overwhere-i-starfall-legacy",
     "place/overwhere-i-fenwatch",
   ],
