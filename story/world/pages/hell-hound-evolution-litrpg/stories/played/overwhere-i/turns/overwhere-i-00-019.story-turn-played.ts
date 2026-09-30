@@ -31,5 +31,6 @@ export const overwhereI00019 = {
     "They lower their heads and charge her together, mud flying from their hooves.",
   ],
   lore: ["lore/overwhere-i-greyfen-beasts", "lore/overwhere-i-nala", "place/overwhere-i-fenwatch"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-30T07:30:00.000Z",
 } as const satisfies StoryTurnPlayed
