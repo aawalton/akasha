@@ -183,5 +183,9 @@ export const overwhereIiWendleFordFolk = {
       fact: "Drawn clean, Col limps a week, then walks as well as ever.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Reeve Oakes, stout and fussy, keeps Col Ashby in his slate-roofed house by the green.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
