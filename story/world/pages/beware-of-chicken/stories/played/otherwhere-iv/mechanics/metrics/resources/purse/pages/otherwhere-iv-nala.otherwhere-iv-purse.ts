@@ -8,5 +8,6 @@ export const otherwhereIvNala = {
   value: 0,
   minValue: 0,
   history: "jsonl",
+  displayOrder: 2,
   unrevealed: true,
 } as const satisfies OtherwhereIvPurse

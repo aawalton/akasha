@@ -9,5 +9,6 @@ export const otherwhereIvNala = {
   minValue: 0,
   maxValue: 20,
   history: "jsonl",
+  displayOrder: 1,
   unrevealed: true,
 } as const satisfies OtherwhereIvHealth
