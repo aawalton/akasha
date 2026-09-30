@@ -44,5 +44,9 @@ export const overwhereIiiCleansingWeave = {
       fact: "A seed-sized blightstone from a bite cracks with one Cleansing Weave into a speck of a glimmerstone.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "To Nala's sight a seed stone is a tight knot of black current, a pinprick of pale light at its core.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
