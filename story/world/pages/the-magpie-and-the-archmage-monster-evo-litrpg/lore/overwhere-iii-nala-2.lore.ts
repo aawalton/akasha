@@ -179,5 +179,9 @@ export const overwhereIiiNala2 = {
         "character-other/overwhere-iii-tam-rowe",
       ],
     },
+    {
+      fact: "At Adept the currents came too heavy for Nala's first pull; easing the thread down, it worked.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
