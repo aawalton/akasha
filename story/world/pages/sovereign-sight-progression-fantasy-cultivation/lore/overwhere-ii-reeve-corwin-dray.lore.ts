@@ -99,5 +99,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Besides Hob's forge, no spear better than the watch's plain iron is to be had short of Carrowmouth.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Dray's Talent turns his forearms grey and hard as stone; they grate like millstones.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
