@@ -45,5 +45,6 @@ export const overwhereIi00018 = {
     '"Name your price," he says hoarsely. "A silver bar. More. Anything I have. It\'s yours."',
   ],
   lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-wendle-ford-folk"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T11:34:00.000Z",
 } as const satisfies StoryTurnPlayed
