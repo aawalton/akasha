@@ -10,7 +10,7 @@ export const overwhereIii00018 = {
   position: 18,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "I go and sit, happy for a rest after hauling everything back.",
   beats: [
     "Nala sits on the bench, glad of it; the weight comes off her raw feet, and she lets out a breath.",
@@ -20,7 +20,7 @@ export const overwhereIii00018 = {
     "She sits again, heavily, and pours herself one cup of cider from a jug on the desk.",
     '"Three corrupted beasts reached the fields this winter. Used to be one a year, if that."',
     '"A boar, Level 14. A stag, 17. A wolf, 15." She lets that sit.',
-    "\"You're Level 1. Any one of them would kill you. Don't think otherwise.\"",
+    "\"Whatever your level is, it isn't that. Any one of them would kill you. Don't think otherwise.\"",
     '"First you see black smoke at the mouth. Then the whites of the eyes go black. Then the eyes go."',
     '"Arrows and blades barely slow them. They dodge magic. But holy magic kills them fast."',
     '"A bite from one festers. Oozes black. Lays a curse on you that won\'t lift."',
