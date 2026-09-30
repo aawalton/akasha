@@ -131,6 +131,10 @@ export const overwhereIAgatheMorrow = {
         "lore/overwhere-i-garrick-pell",
       ],
     },
+    {
+      fact: "She takes Nala's gift of the boar gladly; its meat and hide go to the village purse and pots.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
