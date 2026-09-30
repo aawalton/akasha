@@ -227,6 +227,10 @@ export const overwhereIFenwatch = {
       fact: "The slate also copies Wendlow's Board: Ghost-Eye, 25 gold; Harl Voss, 30; his men, 2 each.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Three reedlurkers work the eel traps; the Grubboar sounder is an old boar of Level 12 and four sows.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
