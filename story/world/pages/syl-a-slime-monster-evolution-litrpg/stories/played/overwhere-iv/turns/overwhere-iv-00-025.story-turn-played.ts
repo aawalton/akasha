@@ -10,7 +10,7 @@ export const overwhereIv00025 = {
   position: 25,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I walk toward them acting scared and uncertain, and then when the first gets close enough, I use my dimensional stab, aiming for center mass, then turn and chase down the second.",
   beats: [
