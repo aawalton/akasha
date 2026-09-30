@@ -126,6 +126,38 @@ export const overwhereIvGrowth = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A class taken shows as: <Class acquired: [Spellblade LV 1].> and earns a Skill Point.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A class taken writes her class held, and class level and experience pages, at 1 and 0.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Spellblade LV 1 reveals [Spellstrike] and [Blade Ward], each bought for a Skill Point.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reveal shows as: <Your class has revealed the following skill: [Spellstrike].>",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Spellstrike takes two off a spell worked through a weapon's blow, to no less than one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Blade Ward turns one blow a cast, taking half its harm, for 3 mana.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A class of any tier levels at the rate this check states for every class.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A skill rises by earnest uses: one scene where it bore on an outcome that mattered.",
     },
     {
