@@ -67,5 +67,25 @@ export const overwhereIiWendleFordFolk = {
       fact: "Garth says the ten days are since Tansy was bitten, and nobody knows how long she has left.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Sedge Horne is heavy, grey and hard-faced, and trusts no Talented stranger, but trusts Goody.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tansy's mother, Aud Horne, has not left her daughter's bedside in three days.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tansy's rot runs far deeper than Wren's; drawing it clean takes near an hour of steady care.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Drawn clean, Tansy keeps her arm, but it hangs weak for a month while it mends.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tansy's rot comes out as a double handful of grey salt, too much to hold in one palm.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

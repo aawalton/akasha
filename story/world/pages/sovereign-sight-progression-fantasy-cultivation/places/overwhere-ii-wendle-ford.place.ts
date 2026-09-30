@@ -84,5 +84,9 @@ export const overwhereIiWendleFord = {
       fact: "The lane from Marsh Croft meets the river and runs along beside it to Wendle Ford.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Horne's mill is a big stone mill with a slate-hung house joined on, the finest in the valley.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
