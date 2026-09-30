@@ -16,7 +16,7 @@ export const overwhereIii00037 = {
     "character-other/overwhere-iii-marda-hesk",
     "character-other/overwhere-iii-garrick-dole",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Fine by me. Cob should be coming by at noon, he’ll be next. What should I do with these seed stones you keep giving me?” I ask, picking up and looking into the cup.",
   beats: [
@@ -39,6 +39,11 @@ export const overwhereIii00037 = {
     "lore/overwhere-iii-nala-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-01T11:08:00.000Z",
 } as const satisfies StoryTurnPlayed
