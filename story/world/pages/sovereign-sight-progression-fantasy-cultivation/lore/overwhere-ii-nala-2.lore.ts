@@ -148,5 +148,13 @@ export const overwhereIiNala2 = {
       fact: "The tide closed the scrape over Nala's ribs before it slipped; the deep bruise under it remains.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "By the morning of day five the bruise over Nala's ribs has faded to a dull yellow ache.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A night's sleep restores Nala's mind whole after a lost refining, as after a finished one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
