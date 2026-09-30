@@ -77,7 +77,7 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Osric takes Nala's two silver gladly; he never turns down coin for talk.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Osric says Wendlow alchemists grind drake-pearls into night-sight draughts.",
