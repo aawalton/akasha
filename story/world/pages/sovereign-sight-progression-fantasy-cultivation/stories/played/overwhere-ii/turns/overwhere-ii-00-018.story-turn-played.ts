@@ -47,5 +47,6 @@ export const overwhereIi00018 = {
   issues: ['"down from her shoulder" - lore has the veins only crawling toward her shoulder'],
   lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-wendle-ford-folk"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-09-29T11:34:00.000Z",
 } as const satisfies StoryTurnPlayed
