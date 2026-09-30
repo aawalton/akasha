@@ -45,7 +45,7 @@ const PARTED = "/"
 
 const SPACE = " "
 
-export function advancingAs(calledAs: string): string {
+function advancingAs(calledAs: string): string {
   return `${calledAs.slice(0, calledAs.lastIndexOf(SPACE) + SPACE.length)}${storyTurnAdvance.name}`
 }
 
