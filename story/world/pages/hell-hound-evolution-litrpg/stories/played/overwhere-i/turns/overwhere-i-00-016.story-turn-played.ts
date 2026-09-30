@@ -10,7 +10,7 @@ export const overwhereI00016 = {
   position: 16,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I see if I can take care of any of my errands before the feast, otherwise I’ll do them in the morning.",
   beats: [
@@ -38,12 +38,13 @@ export const overwhereI00016 = {
     "Outside, the smell of stewing meat is drifting across the whole village from the green.",
     "Firelight glows at the end of the lane, and she can hear voices gathering and someone laughing.",
   ],
+  issues: ['"a silver and eight copper" - Fenwatch lore sets a leather pack at two silver'],
   lore: [
     "lore/overwhere-i-garrick-pell",
     "lore/overwhere-i-nala",
     "lore/overwhere-i-tobin-ashdown",
     "place/overwhere-i-fenwatch",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T18:50:00.000Z",
 } as const satisfies StoryTurnPlayed
