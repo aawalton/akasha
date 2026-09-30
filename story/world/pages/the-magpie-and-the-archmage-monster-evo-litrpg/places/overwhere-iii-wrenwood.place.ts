@@ -54,7 +54,7 @@ export const overwhereIiiWrenwood = {
     },
     {
       fact: "This winter three corrupted beasts reached the fields, where a year used to see one.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "A treant the townsfolk call Old Greyhand lives in the deep wood, and they leave it be.",
