@@ -160,5 +160,17 @@ export const overwhereIvBrooksideFour = {
       fact: "The round-faced girl who heals at the hall hearth is Orla.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Evenings the Four sup at the hall hearth till the night bell; Orla heals there for 2 copper.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dace would want goblins at Hobb's for the Four, and ask Nala how many and how big.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Merrit would scoff that a watch recruit with a practice spear drove off two goblins.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
