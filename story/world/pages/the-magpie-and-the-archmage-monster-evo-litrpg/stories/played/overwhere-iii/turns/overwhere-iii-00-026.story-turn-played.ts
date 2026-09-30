@@ -4,10 +4,18 @@ export const overwhereIii00026 = {
   id: "01a0f35c-fa55-7dff-9534-edecda39c524",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-026",
+  ownLength: 139,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 26,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-brannagh-tull",
+    "character-other/overwhere-iii-garrick-dole",
+    "character-other/overwhere-iii-ivy-marsh",
+  ],
+  stepStatus: "step-status/reviewers",
   action: "“I did, but I’m still learning. Did I do something wrong?”",
   beats: [
     '"I did," Nala says, "but I\'m still learning. Did I do something wrong?"',
@@ -20,6 +28,10 @@ export const overwhereIii00026 = {
     '"Nothing I do touches it." She jerks her chin at the curtain behind the counter.',
     '"Look at them for me. Now, tonight. A potion each for your trouble, whatever comes of it."',
   ],
-  lore: ["lore/overwhere-iii-brannagh-tull", "lore/overwhere-iii-corruption"],
+  lore: [
+    "lore/overwhere-iii-brannagh-tull",
+    "lore/overwhere-iii-corruption",
+    "lore/overwhere-iii-nala",
+  ],
   endsAt: "2026-09-30T17:47:00.000Z",
 } as const satisfies StoryTurnPlayed
