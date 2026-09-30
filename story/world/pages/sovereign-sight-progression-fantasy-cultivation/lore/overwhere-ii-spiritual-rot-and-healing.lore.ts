@@ -313,5 +313,9 @@ export const overwhereIiSpiritualRotAndHealing = {
       fact: "Rot salt left in the open seeps back into living things; fire or cold iron kills it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The rot salt in Garth's plain iron pot is not dead; it crawls slowly toward the nearest warm life.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore

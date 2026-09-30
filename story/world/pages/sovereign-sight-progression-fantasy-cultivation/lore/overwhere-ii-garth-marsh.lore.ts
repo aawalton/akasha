@@ -141,11 +141,11 @@ export const overwhereIiGarthMarsh = {
     },
     {
       fact: "At Garth's limping pace the three miles to the Ford take about an hour and a half.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Goody Brannoc brought Wren into the world, and Garth's word carries weight with her.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
   secrets: "jsonl",
