@@ -157,5 +157,21 @@ export const overwhereINala = {
       fact: "A Starfall Surge ward gives ward 4 against blows at legacy rank 1, and holds about a minute.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Loosed as earth, Starfall Surge drew riverbed stones onto Nala as flowing, scaled stone armour.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Her stone armour weighs almost nothing, its weight resting on the pressure, and moves like skin.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Her stone armour held about a minute, then fell away all at once into a ring of wet stones.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Loosing earth answers slow and heavy and leaves a small heavy hollow that fills back in on its own.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
