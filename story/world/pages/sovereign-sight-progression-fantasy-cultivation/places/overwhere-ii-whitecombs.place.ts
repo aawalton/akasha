@@ -140,6 +140,26 @@ export const overwhereIiWhitecombs = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
+      fact: "The split runs some fifty paces into the crag, narrowing, to a shaft that drops into black.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A stone dropped down the split's shaft falls for many heartbeats, then splashes in deep water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At the shaft's lip the pull from below is strong enough to make Nala's well ache toward it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The shaft's walls are sheer, wet and salt-crusted; no one climbs down them without ropes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The split's rock is warm to the touch, in snow, and hums faintly under the palm.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The Warped goats by the Callow pool have not caught Nala's scent; the wind blows from them to her.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
