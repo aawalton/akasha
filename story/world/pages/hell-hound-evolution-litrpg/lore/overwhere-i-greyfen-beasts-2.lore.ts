@@ -64,5 +64,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "The third den is dry; water fills only its tunnel, from the channel mouth up to the den's lip.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A reedlurker's damp hide wards 3 against steam; steam from its own tunnel wets it as it scalds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
