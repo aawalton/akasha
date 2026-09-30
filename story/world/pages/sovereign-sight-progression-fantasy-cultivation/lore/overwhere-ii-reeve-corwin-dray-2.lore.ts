@@ -33,7 +33,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray knows Crake drinks a Talent's Water at a touch, and sells it bottled in Carrowmouth.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray knows three Talented have gone missing on the Carrowmouth road this past year.",
