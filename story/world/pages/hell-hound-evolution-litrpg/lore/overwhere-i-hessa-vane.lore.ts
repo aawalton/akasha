@@ -119,6 +119,10 @@ export const overwhereIHessaVane = {
       fact: "At the skinning, Hessa asked Nala where she is from, and said she is not from the march.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "She takes 'here and there' as a lady not wanting to say, and does not press.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
