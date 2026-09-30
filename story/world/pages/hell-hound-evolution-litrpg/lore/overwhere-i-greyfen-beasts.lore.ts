@@ -223,6 +223,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "Fire or hot wind down an air hole fills the holt with smoke and drives the reedlurker out.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Plain wind forced down an air hole drives a reedlurker out too, but more slowly than smoke.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
