@@ -10,7 +10,7 @@ export const overwhereIi00008 = {
   position: 8,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I try to feel for my Talent to understand what it can do.",
   beats: [
     "Nala sets down her bowl, shuts her eyes, and reaches past the loops for whatever lies beneath.",
@@ -30,6 +30,6 @@ export const overwhereIi00008 = {
     '"What are you doing?" Wren whispers. "Was that magic? It didn\'t look like anything."',
   ],
   lore: ["lore/overwhere-ii-nala"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T07:40:00.000Z",
 } as const satisfies StoryTurnPlayed
