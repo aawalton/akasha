@@ -12,5 +12,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Ghost-Eye, the two biggest and one returned wolf hold the east shore, facing her, till the pups go.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ghost-Eye gives one long howl as the pups leave; it carries far across the fen.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
