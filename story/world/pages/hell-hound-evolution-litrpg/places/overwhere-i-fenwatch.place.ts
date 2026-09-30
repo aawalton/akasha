@@ -313,6 +313,10 @@ export const overwhereIFenwatch = {
       fact: "Jory Weir, a gap-toothed old eel-man, runs the eel traps and the smoking shed by the east gate.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The eel traps are wicker, sunk in the channels at the fen's edge a half hour north of the ford.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
