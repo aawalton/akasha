@@ -19,7 +19,12 @@ export const overwhereIiiBrannaghTull2 = {
     },
     {
       fact: "Most scar folk leave thanks on Brannagh's counter for the healer: eggs, a loaf, a wedge of cheese.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-pip-carrow",
+      ],
     },
     {
       fact: "A carter's wife on the bench says Thornmere sells mana draughts at a silver a flask.",
