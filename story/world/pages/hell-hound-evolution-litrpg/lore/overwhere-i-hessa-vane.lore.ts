@@ -67,6 +67,10 @@ export const overwhereIHessaVane = {
       fact: "She would think a Level 1 grown woman at the ford either lost gentry or the work of some skill.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She and Tobin reach Greyfen Ford on Sootjaw's trail a little after eleven on day one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
