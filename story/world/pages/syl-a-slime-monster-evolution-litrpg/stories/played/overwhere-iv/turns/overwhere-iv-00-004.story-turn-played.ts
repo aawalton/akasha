@@ -4,13 +4,14 @@ export const overwhereIv00004 = {
   id: "01a0f17e-44af-7df2-ab72-61b24cd42d14",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-004",
+  cover: "image/image-07466fdf4400221a",
   ownLength: 283,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 4,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-garrett-pell"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Nala, suppose my business is not getting robbed again for now, not that I have anything left to be robbed",
   beats: [
@@ -30,11 +31,12 @@ export const overwhereIv00004 = {
     '"Robbed," he says. "Where on the road, miss? How many of them? Which way did they go?"',
   ],
   lore: [
+    "lore/overwhere-iv-garrett-pell",
     "lore/overwhere-iv-nala",
     "lore/overwhere-iv-rennick-hale",
     "lore/overwhere-iv-wat-barrow",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-29T12:27:00.000Z",
 } as const satisfies StoryTurnPlayed
