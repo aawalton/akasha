@@ -7,7 +7,8 @@ export const overwhereIv00029 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 29,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“I’ll go with the Four.” I pause for a moment and assign Spellblade as my class, then go and meet up with the Four. “Ready to go. I’ll fight with you as well if you’ll have me. I’m inexperienced, but I can still guard a flank.  Since we don’t know exactly how many there are, could be good to have an extra spear along.”",
+  lore: ["lore/overwhere-iv-brookside-four", "place/overwhere-iv-the-tangle"],
 } as const satisfies StoryTurnPlayed
