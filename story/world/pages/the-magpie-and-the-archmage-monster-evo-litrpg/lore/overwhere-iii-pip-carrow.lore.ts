@@ -75,7 +75,12 @@ export const overwhereIiiPipCarrow = {
     },
     {
       fact: "Pip stays at the healer's elbow reading along until Marda sends her home at half past four.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-pip-carrow",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
   ],
   secrets: "jsonl",
