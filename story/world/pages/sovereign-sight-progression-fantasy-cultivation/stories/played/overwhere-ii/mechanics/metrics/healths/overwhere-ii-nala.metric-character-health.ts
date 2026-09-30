@@ -6,7 +6,7 @@ export const overwhereIiNala = {
   slug: "overwhere-ii-nala",
   title: "Vigour",
   character: "character-player/overwhere-ii-nala",
-  value: 30,
+  value: 28,
   minValue: 0,
   maxValue: 30,
   history: "jsonl",
