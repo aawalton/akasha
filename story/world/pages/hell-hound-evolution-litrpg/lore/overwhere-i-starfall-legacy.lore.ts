@@ -176,5 +176,9 @@ export const overwhereIStarfallLegacy = {
       fact: "The 30-yard limit binds held workings only; a thrown or loosed working flies on alone and fades.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A Surge fire beam holds whole to about 30 yards, then spreads and cools to nothing by 50.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
