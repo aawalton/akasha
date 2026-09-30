@@ -218,6 +218,10 @@ export const overwhereIiiMerrowgateGuildPost = {
       fact: "The beast guide lists Wrenmark beasts by level, with weak spots, bounties and which parts sell.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The rules book covers Guild ranks, quest terms, the bounty table, and what a ring does.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
