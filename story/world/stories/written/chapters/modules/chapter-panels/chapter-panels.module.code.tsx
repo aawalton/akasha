@@ -53,11 +53,11 @@ function textIn(value: unknown): string {
   return stringIn(value) ?? ""
 }
 
-export function chapterDisclosed(stepStatus: unknown): boolean {
+function chapterDisclosed(stepStatus: unknown): boolean {
   return (stepIn(stepStatus) ?? PLAYER) === PLAYER
 }
 
-export type ChapterShown = {
+type ChapterShown = {
   readonly id: string
   readonly title: string
   readonly position: number | null
@@ -65,7 +65,7 @@ export type ChapterShown = {
   readonly disclosed: boolean
 }
 
-export function chapterTurnsOf(chapter: ChapterShown): readonly ClientStoryTurn[] {
+function chapterTurnsOf(chapter: ChapterShown): readonly ClientStoryTurn[] {
   if (!chapter.disclosed) return []
   return [
     {
@@ -77,7 +77,7 @@ export function chapterTurnsOf(chapter: ChapterShown): readonly ClientStoryTurn[
   ]
 }
 
-export function chapterCoversOf(chapter: ChapterShown): readonly PlayedTurnCover[] {
+function chapterCoversOf(chapter: ChapterShown): readonly PlayedTurnCover[] {
   if (!chapter.disclosed || chapter.cover === "") return []
   return [{ id: chapter.id, number: chapter.position ?? ONE, cover: chapter.cover }]
 }
