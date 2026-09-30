@@ -34,5 +34,6 @@ export const overwhereIv00004 = {
     "lore/overwhere-iv-rennick-hale",
     "lore/overwhere-iv-wat-barrow",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-29T12:27:00.000Z",
 } as const satisfies StoryTurnPlayed
