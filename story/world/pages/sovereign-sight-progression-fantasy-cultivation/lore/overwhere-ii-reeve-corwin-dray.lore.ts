@@ -177,10 +177,14 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "For Dray a spear point touched to his body anywhere below the stone counts as struck true.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Nala struck Dray true in the second bout, and he lets her hunt the greymaws alone.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Dray will pay Nala when his cart is back by noon, and sent her to see Hob about a spear.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
