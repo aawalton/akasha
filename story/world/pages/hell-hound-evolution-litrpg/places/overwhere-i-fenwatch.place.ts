@@ -163,6 +163,10 @@ export const overwhereIFenwatch = {
       fact: "Bet Ashdown, Tobin's mother, sells homespun tunics, leggings and cloaks from her house.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Aldo Brack, the tanner, cures hides in pits by Otter Brook and makes boots, belts and packs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
