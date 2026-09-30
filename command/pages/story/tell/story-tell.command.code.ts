@@ -293,7 +293,7 @@ export const REPLACE = `${changeMechanicalFileContent.slug}/${changeFileContent.
 
 export const REMOVE_FILE = `${changeMechanicalFile.slug}/${removeFile.slug}` as const
 
-export function replacing(at: string, was: string, now: string): Asking {
+function replacing(at: string, was: string, now: string): Asking {
   const one = splicedEdits(at, was, splicedTo(was, now))[0]
   if (one?.kind !== "replace") return { at: REPLACE, given: { at, old: was, new: now } }
   return { at: REPLACE, given: { at, old: one.contentFrom, new: one.contentTo } }
