@@ -209,6 +209,20 @@ export const overwhereIvNala = {
       fact: "Just before a fold catches, Nala feels a small click behind her ribs, like a latch dropping.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "At her first dawn drill Nala slipped on a tower step and fell hard on her shin and knee.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Nala finished her first drill's laps walking and limping, a long way behind everyone.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
+        "character-other/overwhere-iv-dell",
+        "character-other/overwhere-iv-wat",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

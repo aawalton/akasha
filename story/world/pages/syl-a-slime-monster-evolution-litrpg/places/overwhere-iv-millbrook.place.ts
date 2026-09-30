@@ -147,5 +147,16 @@ export const overwhereIvMillbrook = {
       fact: "At night a still figure stood in the dark shrine porch as Nala crossed the square, then was gone.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Millbrook's wall walk rings the whole town, with steep stone steps at every tower.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
+        "character-other/overwhere-iv-dell",
+        "character-other/overwhere-iv-wat",
+        "character-other/overwhere-iv-oswin-pike",
+      ],
+    },
   ],
 } as const satisfies Place

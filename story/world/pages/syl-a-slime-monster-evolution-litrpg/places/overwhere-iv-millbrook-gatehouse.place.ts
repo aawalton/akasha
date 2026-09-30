@@ -50,6 +50,9 @@ export const overwhereIvMillbrookGatehouse = {
         "lore-disclosure/game-master",
         "character-player/overwhere-iv-nala",
         "character-other/overwhere-iv-brenna-holt",
+        "character-other/overwhere-iv-dell",
+        "character-other/overwhere-iv-wat",
+        "character-other/overwhere-iv-oswin-pike",
       ],
     },
     {
@@ -116,15 +119,30 @@ export const overwhereIvMillbrookGatehouse = {
     },
     {
       fact: "Overnight, slimes creep up from the common and heap against the wall below the bunk room.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-dell",
+      ],
     },
     {
       fact: "At dawn there are a dozen slimes piled at the wall's foot, quiet, as if waiting.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-dell",
+      ],
     },
     {
       fact: "At dawn drill Holt pairs the newest recruit with Dell Farrow for sparring.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
+        "character-other/overwhere-iv-dell",
+        "character-other/overwhere-iv-wat",
+        "character-other/overwhere-iv-oswin-pike",
+      ],
     },
     {
       fact: "One lap of Millbrook's wall walk is about half a mile, with steep stone steps at each tower.",
@@ -136,7 +154,11 @@ export const overwhereIvMillbrookGatehouse = {
     },
     {
       fact: "Spear forms are thrust, guard, sweep and recover, shouted by Holt and repeated fifty times.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
+      ],
     },
     {
       fact: "Sparring is with blunted practice spears and wicker shields, until one yields or Holt calls it.",
@@ -166,6 +188,14 @@ export const overwhereIvMillbrookGatehouse = {
         "character-player/overwhere-iv-nala",
         "lore/overwhere-iv-brenna-holt",
         "lore/overwhere-iv-wat-barrow",
+      ],
+    },
+    {
+      fact: "Breakfast at the gatehouse comes after dawn drill, never before.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-brenna-holt",
       ],
     },
   ],
