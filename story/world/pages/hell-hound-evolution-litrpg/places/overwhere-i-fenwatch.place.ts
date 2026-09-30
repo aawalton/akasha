@@ -264,6 +264,10 @@ export const overwhereIFenwatch = {
       fact: "Hauling the boar's head to the palisade is hard unaided and easy with fire-strength held.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Hauling the head to the palisade takes some twenty-five minutes and costs her 2 stamina.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
