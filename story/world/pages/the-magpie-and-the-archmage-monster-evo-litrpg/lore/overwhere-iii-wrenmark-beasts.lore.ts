@@ -50,7 +50,7 @@ export const overwhereIiiWrenmarkBeasts = {
     },
     {
       fact: "Corrupted beasts seen this winter: a boar of Level 14, a stag of Level 17, a wolf of Level 15.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Bandits are rare in the Wrenmark; the hill passes see a gang or two each summer.",
