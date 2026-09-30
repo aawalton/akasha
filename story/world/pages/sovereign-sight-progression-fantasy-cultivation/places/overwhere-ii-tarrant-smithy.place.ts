@@ -22,7 +22,7 @@ export const overwhereIiTarrantSmithy = {
     },
     {
       fact: "Hob takes half his price down on a commission, and the rest when the work is handed over.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Place
