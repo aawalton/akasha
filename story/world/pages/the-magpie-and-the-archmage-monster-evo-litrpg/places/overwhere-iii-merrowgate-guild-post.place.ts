@@ -214,6 +214,10 @@ export const overwhereIiiMerrowgateGuildPost = {
       fact: "Marda lends the post's books to ringed adventurers to read at the side bench, never to take away.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The beast guide lists Wrenmark beasts by level, with weak spots, bounties and which parts sell.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
