@@ -147,6 +147,10 @@ export const overwhereIRowanCoalby = {
       fact: "He will bring a hatchet, rope and the reed drag-sled he hauls charcoal on.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Sedge will come, uneasy near the carcass, but leads them by the firmest ground.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
