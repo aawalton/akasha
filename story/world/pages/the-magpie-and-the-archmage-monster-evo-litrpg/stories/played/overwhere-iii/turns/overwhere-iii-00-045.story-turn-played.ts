@@ -18,7 +18,7 @@ export const overwhereIii00045 = {
     "character-other/overwhere-iii-pip-carrow",
     "character-other/overwhere-iii-hild-wendle",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Thank Brannagh.” I go and drain my mana again if the Post is still open, then get a hearty meal and sleep, then start it all over again the next day.",
   beats: [
@@ -63,6 +63,11 @@ export const overwhereIii00045 = {
     "place/overwhere-iii-merrowgate-guild-post",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-03T12:30:00.000Z",
 } as const satisfies StoryTurnPlayed
