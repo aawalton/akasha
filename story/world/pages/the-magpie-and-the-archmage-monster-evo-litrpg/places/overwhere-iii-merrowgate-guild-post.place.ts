@@ -190,6 +190,10 @@ export const overwhereIiiMerrowgateGuildPost = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "Board, new this morning: a basket of snowroot from the Wren Brook banks, for Brannagh, 15 copper.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
