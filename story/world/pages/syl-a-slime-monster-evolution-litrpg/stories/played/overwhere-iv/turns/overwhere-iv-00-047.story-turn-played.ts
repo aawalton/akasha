@@ -10,7 +10,7 @@ export const overwhereIv00047 = {
   position: 47,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“I’ve been working on a specialized armor piercing spear skill for a long time and I guess it’s finally paying off. Practicing pushing past armor turned out to be just what I needed to learn to strike from a distance. Useless without a spear though.”",
   beats: [
@@ -25,7 +25,7 @@ export const overwhereIv00047 = {
     "An old woman sits mending on a bench, stout and grey, with sharp eyes. She looks Nala over.",
     '"Sister Anwen," she says slowly. "You\'ll be wanting the books. A copper in the poor box, then."',
     '"Two of scripture, a herbal, a vale chronicle, a primer, a road book, and the hero tales."',
-    'She takes a key from her belt and waits. "Which will you sit with, child?"',
+    'She takes a key from her belt. "Which will you sit with, child?"',
   ],
   issues: [
     '"She takes a key from her belt and waits." - No Prompt',
