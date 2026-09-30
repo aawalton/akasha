@@ -4,13 +4,14 @@ export const overwhereI00021 = {
   id: "01a0f1ff-2439-7a0c-babe-4c8841a9344b",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-021",
+  cover: "image/image-9799ee9f31e2c686",
   ownLength: 241,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 21,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I weave fire into my muscles for strength, grab the boar by the tusks, and drag him back to the village.",
   beats: [
@@ -34,6 +35,11 @@ export const overwhereI00021 = {
   ],
   lore: ["lore/overwhere-i-greyfen-beasts", "lore/overwhere-i-nala", "place/overwhere-i-fenwatch"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T07:44:00.000Z",
 } as const satisfies StoryTurnPlayed
