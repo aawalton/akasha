@@ -15,7 +15,7 @@ export const overwhereIii00029 = {
     "character-other/overwhere-iii-garrick-dole",
     "character-other/overwhere-iii-ivy-marsh",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Okay, this works, so it’s just a matter of time” I repeat the process, sipping from the mana draught until I can try again, switching to Garrick this time.",
   beats: [
@@ -43,6 +43,6 @@ export const overwhereIii00029 = {
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-nala-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-30T18:14:00.000Z",
 } as const satisfies StoryTurnPlayed
