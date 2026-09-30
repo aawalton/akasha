@@ -39,5 +39,14 @@ export const overwhereIiiBrannaghTull2 = {
       fact: "A drover with an old forearm burn has waited ten years for it, and says he'll wait a fortnight more.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
+    {
+      fact: "On the slate: a drover's burned forearm, a girl's crooked-healed lip, and six or seven more.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-other/overwhere-iii-pip-carrow",
+      ],
+    },
   ],
 } as const satisfies Lore
