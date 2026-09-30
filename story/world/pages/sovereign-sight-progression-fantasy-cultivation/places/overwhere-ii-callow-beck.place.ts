@@ -57,6 +57,10 @@ export const overwhereIiCallowBeck = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
+      fact: "Ebba knows greymaws once denned under the crag above the cwm, and heard it split at midwinter.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Ebba Callow knew Nala's watch spear for one of Dray's, and Nala for the greymaws' killer.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
