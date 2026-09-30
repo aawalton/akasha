@@ -5,7 +5,7 @@ export const overwhereIvNalaSkill = {
   type: "page-type/overwhere-iv-points",
   slug: "overwhere-iv-nala-skill",
   character: "character-player/overwhere-iv-nala",
-  value: 1,
+  value: 2,
   minValue: 0,
   history: "jsonl",
   unrevealed: true,
