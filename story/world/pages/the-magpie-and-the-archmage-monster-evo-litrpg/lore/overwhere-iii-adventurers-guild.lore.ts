@@ -234,7 +234,7 @@ export const overwhereIiiAdventurersGuild = {
     },
     {
       fact: "A Copper ring shows its wearer's Guild Profile and quest windows, and nothing of beasts.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",
