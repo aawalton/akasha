@@ -149,6 +149,10 @@ export const overwhereIAgatheMorrow = {
         "lore/overwhere-i-garrick-pell",
       ],
     },
+    {
+      fact: "For the reedlurker bounty she pays on a reedlurker's head, or on Jory Weir's word.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
