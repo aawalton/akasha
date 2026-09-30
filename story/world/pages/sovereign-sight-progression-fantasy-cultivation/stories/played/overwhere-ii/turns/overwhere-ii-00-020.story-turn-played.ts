@@ -4,10 +4,13 @@ export const overwhereIi00020 = {
   id: "01a0f204-4538-738e-bc57-10e7274cd55e",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-020",
+  ownLength: 339,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 20,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“I’m not sure what you’re talking about, but we can talk as we go. Goody, I’m ready for the next patient, could you lead the way? Garth, you can go home to Wren, I’ll stop by soon to see to the ewes.”",
   beats: [
@@ -33,6 +36,11 @@ export const overwhereIi00020 = {
     '"Don\'t need a stranger," Col growls, "I need my leg." But he doesn\'t send them away.',
     "Anselm touches Nala's sleeve. \"May I watch? I'll hold him steady if you need it.\"",
   ],
-  lore: ["lore/overwhere-ii-keeper-anselm", "lore/overwhere-ii-wendle-ford-folk"],
+  lore: [
+    "lore/overwhere-ii-garth-marsh",
+    "lore/overwhere-ii-keeper-anselm",
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-wendle-ford-folk",
+  ],
   endsAt: "2026-09-29T12:07:00.000Z",
 } as const satisfies StoryTurnPlayed
