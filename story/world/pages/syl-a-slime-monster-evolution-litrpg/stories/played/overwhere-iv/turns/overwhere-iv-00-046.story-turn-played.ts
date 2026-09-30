@@ -31,5 +31,6 @@ export const overwhereIv00046 = {
     "place/overwhere-iv-millbrook-shrine",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-10-02T12:01:00.000Z",
 } as const satisfies StoryTurnPlayed
