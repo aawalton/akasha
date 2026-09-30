@@ -55,5 +55,13 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Dray is Reeve of Wendlemere; Tam Oakes, the Ford's village reeve, keeps his house by the green.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Anselm named Nala to Reeve Dray as the one who drew the rot from Tansy Horne and from Col.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Dray knew the white-eye's chamber on sight, and asked Nala where the carcasses are and who saw.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore

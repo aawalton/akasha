@@ -199,5 +199,9 @@ export const overwhereIiGreymaws = {
       fact: "The white-eye's cracked chamber would leak away any Water put into it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Nothing on the fells but the white-eye grows a chamber the size of hers.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
