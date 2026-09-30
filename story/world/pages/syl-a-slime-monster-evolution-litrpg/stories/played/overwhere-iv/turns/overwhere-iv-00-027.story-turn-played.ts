@@ -10,7 +10,7 @@ export const overwhereIv00027 = {
   position: 27,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I let the goblin escape and report back to the farmer, then to the alchemist to trade my cores for coins, then to the healer to heal the arm, then to the guild to report on the slimes and the goblines",
   beats: [
@@ -23,7 +23,8 @@ export const overwhereIv00027 = {
     'Hobb goes grey. He sits on the orchard wall. "Goblins. At my sheep." He looks at the dark trees.',
     'He digs in his coat and presses a silver into her hand. "Mine. Not the hall\'s. For the sheep."',
     "\"They'll be back, with more. The hall has to know tonight.\" He won't hear otherwise.",
-    'He sends Pim back for a cloth of apple cake and pushes it at her. "Stew\'s for next time."',
+    'But first he pushes a bowl of mutton stew into her hands at his door. "Eat. The hall can wait."',
+    "She eats it standing, hot and rich, with a wedge of apple cake Pim brings out after it.",
     "Pim walks her to the footbridge with the lantern, full of questions, glowing with it.",
     "The gate is shut for the night, but the guard knows her and lets her in. The hall is lamplit.",
     "At the counter Nala tips out her cores. Forty-seven. Ilsa counts them twice, eyebrows climbing.",
