@@ -128,6 +128,10 @@ export const overwhereIiiMardaHesk = {
       fact: "Until then she wants Nala growing on clean beasts at the edge and clear of corrupted ones.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
+    {
+      fact: "Marda will write Thornmere a fourth letter, naming a white-gold card this time.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
