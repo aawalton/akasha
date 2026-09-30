@@ -218,6 +218,16 @@ export const overwhereIvGrowth = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Laying a cut of space along a blow's edge is folding part of a thing, and finds Rift Rend.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A revealed class skill is also gained unbought, by three earnest uses after its reveal.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "At LV 3 she finds Spatial Sense, and at LV 5 Rift Beacon.",
     },
     {

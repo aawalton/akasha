@@ -37,6 +37,15 @@ export const overwhereIvHarm = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A foe folded onto a braced point takes the blow as heavy.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A Rift Rend laid along her own weapon and landed at a cost shears the weapon too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A blow landed strongly adds three, and one landed at a cost deals half.",
     },
     {

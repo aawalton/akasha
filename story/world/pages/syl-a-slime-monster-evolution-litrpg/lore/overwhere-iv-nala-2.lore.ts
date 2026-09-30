@@ -63,5 +63,17 @@ export const overwhereIvNala2 = {
         "lore/overwhere-iv-brookside-four",
       ],
     },
+    {
+      fact: "At Dimension Magic LV 3, a fold shifts a thing about a foot and a half, toward her or away.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A goblin folded toward her lurches off its feet, straight at whatever she holds out.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Until she holds Spellstrike, a spell through her spear costs its full mana.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
