@@ -69,7 +69,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "Near the Callow pool Nala's well leans toward it, as at Hollow Tarn but weaker.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Ebba's two lost goats graze by the Callow pool, Wave-Warped: grey-scaled, with coral-rough horns.",
