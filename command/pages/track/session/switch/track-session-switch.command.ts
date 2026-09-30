@@ -24,7 +24,22 @@ export const trackSessionSwitch = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The stretch a `switch` takes from the day before is a sleep.",
+      statement:
+        "The stretch a `switch` takes from the day before is whatever stretch is open there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A `switch` naming a day with no page reads that day as a new page holding no row.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That page lands only where a row goes on it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A stretch running past midnight can be ended on the day after before that day has a page.",
     },
     {
       decisionKind: "decision-kind/departure",

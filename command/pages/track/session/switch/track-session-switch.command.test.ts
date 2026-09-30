@@ -1,15 +1,25 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { writeFileSync } from "node:fs"
+import { join } from "node:path"
+import { dayAfter } from "akasha/alan/harness/day-boundary/modules/day-string/day-string.module.code.ts"
 import type { Argument } from "akasha/command/argument/argument.page-type.types.ts"
 import { saidForPart } from "akasha/command/argument/modules/taking/argument-taking.module.test-fixtures.ts"
 import { at } from "akasha/command/argument/pages/at.argument.ts"
 import { day } from "akasha/command/argument/pages/day.argument.ts"
 import { difficulty } from "akasha/command/argument/pages/difficulty.argument.ts"
-
 import { relationship } from "akasha/command/argument/pages/relationship.argument.ts"
 import { safety } from "akasha/command/argument/pages/safety.argument.ts"
 import { title } from "akasha/command/argument/pages/title.argument.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { scratch } from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import type { Held } from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
+import {
+  DAY,
+  dayRepo,
+  ROWS_AT,
+} from "akasha/command/pages/track/modules/session-rows/session-rows.module.test-fixtures.ts"
+import { endingIn } from "akasha/command/pages/track/session/modules/session-acting/session-acting.module.code.ts"
 import { trackSessionSwitch } from "akasha/command/pages/track/session/switch/track-session-switch.command.code.ts"
 import { trackSessionSwitch as page } from "akasha/command/pages/track/session/switch/track-session-switch.command.ts"
 
@@ -36,6 +46,35 @@ const REPEATING: readonly string[] = page.arguments
 const VALUELESS: readonly string[] = SPELLED.filter((one) => BY_SAID.get(one)?.value === "none")
 
 const CALLED = [title.said, "what the next stretch is"]
+
+afterAll(scratch.sweep)
+
+const PAGE_ID = "01a06818-339b-7fc2-8cd9-caea195150b2"
+
+const READ = `{"id":"01a06818-339b-7fc2-8cd9-caea195150b6","title":"Read","startedAt":"2026-09-02T05:05:00.000Z","dailyTracking":"${PAGE_ID}"}\n`
+
+function unmade(named: string): Held {
+  return { day: named, path: "", page: "", pageAt: "", pageSaid: "", rows: [] }
+}
+
+test("a switch on a day with no stretch open takes the day before's open stretch of any kind", () => {
+  const root = dayRepo()
+  writeFileSync(join(root, ROWS_AT), READ)
+  const next = dayAfter(DAY)
+  const found = endingIn(root, next, unmade(next), [], true)
+  if (typeof found === "string") throw new Error(found)
+  expect(found.stretch.title).toBe("Read")
+  expect(found.held.day).toBe(DAY)
+})
+
+test("a close on a day with no stretch open takes nothing from the day before", () => {
+  const root = dayRepo()
+  writeFileSync(join(root, ROWS_AT), READ)
+  const next = dayAfter(DAY)
+  expect(endingIn(root, next, unmade(next), [], false)).toBe(
+    "this day carries no open stretch to end"
+  )
+})
 
 async function refusalsOf(argv: readonly string[]): Promise<readonly string[]> {
   const answer = await trackSessionSwitch(argv, GIVEN)

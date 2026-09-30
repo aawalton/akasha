@@ -16,10 +16,7 @@ import {
   openIn,
   type Row,
 } from "akasha/command/pages/track/modules/session-rows/session-rows.module.code.ts"
-import {
-  dayBefore,
-  sleeping,
-} from "akasha/command/pages/track/modules/waking/waking.module.code.ts"
+import { dayBefore } from "akasha/command/pages/track/modules/waking/waking.module.code.ts"
 import {
   besideArgv,
   type Landing,
@@ -57,9 +54,14 @@ type Taking = Anchoring & {
   readonly mend?: boolean
 }
 
-export function standingFor(taken: Taking, root: string, now: Date): Standing | string {
+export function standingFor(
+  taken: Taking,
+  root: string,
+  now: Date,
+  made: string | null = null
+): Standing | string {
   const day = taken.day ?? dayNow(now)
-  const held = heldFor(root, day)
+  const held = made === null ? heldFor(root, day) : heldOrMadeFor(root, day, made)
   if (typeof held === "string") return held
   return {
     day,
@@ -123,9 +125,7 @@ export function endingIn(
     if (typeof before !== "string") {
       const beforeRows = before.rows.map((one) => ({ ...one }))
       const found = openIn(beforeRows)
-      if (found !== null && sleeping(found.title)) {
-        return { held: before, rows: beforeRows, stretch: found }
-      }
+      if (found !== null) return { held: before, rows: beforeRows, stretch: found }
     }
   }
   return "this day carries no open stretch to end"

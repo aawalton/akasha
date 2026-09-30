@@ -39,7 +39,7 @@ export async function trackSessionSwitch(argv: readonly string[], given: Given):
   const read = takenFor(argv, given.calledAs, page, NAMED)
   if ("refused" in read) return mistaking(read.refused)
   const taken = read.taken
-  const standing = standingFor(taken, given.root, now)
+  const standing = standingFor(taken, given.root, now, mintedAt(now))
   if (typeof standing === "string") return mistaking([standing])
   const tagging = taggingFor(taken, given.root)
   if (tagging.read === "refused") return mistaking(tagging.refusals)

@@ -8,4 +8,5 @@
 {"propertySlug":"import","fileName":"session-acting.module.code.ts","path":"command/pages/track/session/open/track-session-open.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"session-acting.module.code.ts","path":"command/pages/track/session/split/track-session-split.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"session-acting.module.code.ts","path":"command/pages/track/session/switch/track-session-switch.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"session-acting.module.code.ts","path":"command/pages/track/session/switch/track-session-switch.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/track/session/track-session.namespace.ts","id":"01a07979-7d78-7cc9-b390-00151a274e16"}

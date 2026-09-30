@@ -13,7 +13,9 @@
 {"propertySlug":"import","fileName":"session-rows.module.code.ts","path":"command/pages/track/session/open/track-session-open.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"session-rows.module.code.ts","path":"command/pages/track/session/split/track-session-split.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"session-rows.module.code.ts","path":"command/pages/track/session/switch/track-session-switch.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"session-rows.module.code.ts","path":"command/pages/track/session/switch/track-session-switch.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"session-rows.module.code.ts","path":"command/pages/track/weight/track-weight.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"session-rows.module.test-fixtures.ts","path":"command/pages/track/session/drop/track-session-drop.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"session-rows.module.test-fixtures.ts","path":"command/pages/track/session/log/track-session-log.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"session-rows.module.test-fixtures.ts","path":"command/pages/track/session/switch/track-session-switch.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/track/track.namespace.ts","id":"01a07979-7d2b-70bb-babc-f9bd625aca32"}
