@@ -10,7 +10,7 @@ export const overwhereI00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Okay, Isekai protocol” I say quietly. “Status? System?” I focus on the words to see if I can get more information.",
   beats: [
@@ -23,7 +23,7 @@ export const overwhereI00002 = {
     "Skills: none listed.",
     "At the bottom, one line on its own: Legacy: ???",
     'A second, smaller line answers "System?": [Unrecognized request. Please see the help menu...]',
-    "Attunement 30 stands out, three times anything else; Mana 120 is triple her Health.",
+    "Attunement 30 stands out, more than double anything else; Mana 120 is triple her Health.",
     "Her eyes rest on Legacy: ??? and the pressure behind her breastbone stirs, as if it heard its name.",
     "Focusing harder on the ??? gives nothing more; the letters stay steady and blank.",
     "Overhead the morning sky is a pale red, and the sun in it is small and white.",
