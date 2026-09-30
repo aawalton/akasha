@@ -100,5 +100,9 @@ export const overwhereIiWendleFord = {
       fact: "For a greymaw bounty the Reeve sends a cart to fetch the carcasses, and pays once he has seen them.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "The shrine's tithe vessel is an old Aberrant chamber the faithful fill with their Water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
