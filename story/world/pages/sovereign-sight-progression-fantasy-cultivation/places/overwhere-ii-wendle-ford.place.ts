@@ -76,5 +76,13 @@ export const overwhereIiWendleFord = {
       fact: "Horne's mill stands on the Wendle at the village's east end, a stone's throw from Goody's cottage.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Wendle Ford has stone houses, a ford with a stone footbridge, and a mill wheel at its east end.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "The lane from Marsh Croft meets the river and runs along beside it to Wendle Ford.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place

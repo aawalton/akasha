@@ -54,7 +54,11 @@ export const overwhereIiMarshCroft = {
     },
     {
       fact: "Garth keeps a basket of dry gorse and split ash by the hearth to build the fire up fast.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "The rot salt from Wren burned to white ash in Garth's hearth fire; no rot is left at Marsh Croft.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Place
