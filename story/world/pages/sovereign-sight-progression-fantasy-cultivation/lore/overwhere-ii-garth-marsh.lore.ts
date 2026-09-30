@@ -115,6 +115,10 @@ export const overwhereIiGarthMarsh = {
       fact: "Garth, who doesn't hold with the Talented, has asked Nala whether she can do aught for Wren.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Garth knows a Charterstone only as where Aspirants take their marks, not as any help for rot.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
