@@ -14,7 +14,7 @@ export const overwhereIiWatchCottage = {
     },
     {
       fact: "The watchman the greymaws took lived in the watch cottage; it has been empty since midwinter.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The watch cottage belongs to the Reeve's office, and whoever keeps it pays no rent.",
@@ -30,6 +30,10 @@ export const overwhereIiWatchCottage = {
     },
     {
       fact: "Dray lets Nala sleep in the watch cottage while she works for him, and asks nothing for it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "The river runs loud a stone's throw from the watch cottage's door.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
