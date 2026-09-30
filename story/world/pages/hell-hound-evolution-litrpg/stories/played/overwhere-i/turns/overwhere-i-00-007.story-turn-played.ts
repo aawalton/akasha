@@ -29,5 +29,6 @@ export const overwhereI00007 = {
     "The small white sun has climbed well up the pale red sky while she sat.",
   ],
   lore: ["lore/overwhere-i-nala", "place/overwhere-i-greyfen-ford"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-29T10:40:00.000Z",
 } as const satisfies StoryTurnPlayed
