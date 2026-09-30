@@ -209,7 +209,7 @@ export const overwhereIiGreymaws = {
     },
     {
       fact: "Within ten paces Undertow feels a greymaw's rot as a sour knot, even through rock.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
