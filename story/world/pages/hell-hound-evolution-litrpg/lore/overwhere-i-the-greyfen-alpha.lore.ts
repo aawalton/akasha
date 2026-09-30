@@ -143,6 +143,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "Spotting the pack from the Greystakes by spyglass is easy; bare-eyed at that range it is hard.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A failed spotting act means the pack's watcher catches her lens glint and stands, staring east.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
