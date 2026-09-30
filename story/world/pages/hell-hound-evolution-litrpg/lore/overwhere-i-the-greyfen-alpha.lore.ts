@@ -341,6 +341,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "The two biggest are Levels 15 and 16; at Nala's Level 6 both are still within the Surge easing.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "If the pups get clear, the shore wolves follow them west an hour later, leaving the island empty.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
