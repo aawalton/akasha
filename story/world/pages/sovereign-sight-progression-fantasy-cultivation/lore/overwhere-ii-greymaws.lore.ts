@@ -203,5 +203,9 @@ export const overwhereIiGreymaws = {
       fact: "Nothing on the fells but the white-eye grows a chamber the size of hers.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "A cold-iron blade bites greymaw scale like fire; a greymaw struck by one flinches off.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
