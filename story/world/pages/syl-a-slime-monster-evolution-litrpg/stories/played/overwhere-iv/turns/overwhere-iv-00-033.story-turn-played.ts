@@ -4,13 +4,14 @@ export const overwhereIv00033 = {
   id: "01a0f400-cf26-7981-a501-c1fda0332e56",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-033",
+  cover: "image/image-74c44ffa0fcaea05",
   ownLength: 196,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 33,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "This time, I cast Rift Rend, aiming to cut the slinger in half",
   beats: [
     "Nala stays down in the leaf mould. Her shoulder throbs. She looks up at the oak.",
@@ -32,6 +33,11 @@ export const overwhereIv00033 = {
   ],
   lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2", "place/overwhere-iv-the-tangle"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-01T13:15:00.000Z",
 } as const satisfies StoryTurnPlayed
