@@ -60,6 +60,10 @@ export const overwhereIiHollowTarn = {
       fact: "Hollow Tarn is a black lake in grey crags; no bird calls there, and the air smells of the sea.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "As Nala walks away from the tarn its pull on her well fades, and is gone once it is out of sight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
