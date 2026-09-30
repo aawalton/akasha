@@ -155,7 +155,21 @@ export const overwhereIAgatheMorrow = {
     },
     {
       fact: "On Jory's word she pays the three reedlurker bounties as nine silver, counted out at the Stag.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-agathe-morrow",
+        "lore/overwhere-i-garrick-pell",
+      ],
+    },
+    {
+      fact: "Agathe would not have Nala go against Ghost-Eye alone.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-agathe-morrow",
+        "lore/overwhere-i-garrick-pell",
+      ],
     },
   ],
   secrets: "jsonl",

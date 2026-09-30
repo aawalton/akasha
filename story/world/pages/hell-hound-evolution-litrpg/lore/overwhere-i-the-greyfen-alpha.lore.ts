@@ -34,7 +34,12 @@ export const overwhereITheGreyfenAlpha = {
     },
     {
       fact: "It killed two reed-cutters from Sallow Hythe this summer.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-agathe-morrow",
+        "lore/overwhere-i-garrick-pell",
+      ],
     },
     {
       fact: "Its howl carries to Fenwatch on still nights, and Rowan Coalby's Drakewolf answers.",
@@ -58,7 +63,12 @@ export const overwhereITheGreyfenAlpha = {
     },
     {
       fact: "Ghost-Eye is half again a common Drakewolf's size, and its pack herds its prey into the water.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-agathe-morrow",
+        "lore/overwhere-i-garrick-pell",
+      ],
     },
     {
       fact: "The Hunters' Board bounty on Ghost-Eye's head is still uncollected.",
@@ -66,11 +76,21 @@ export const overwhereITheGreyfenAlpha = {
     },
     {
       fact: "Its pack lairs on a dry island of drowned pines, half a day's wading into the middle fen.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-agathe-morrow",
+        "lore/overwhere-i-garrick-pell",
+      ],
     },
     {
       fact: "In Fenwatch, Rowan Coalby knows the pack's ground best; his Sedge can follow its scent.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-agathe-morrow",
+        "lore/overwhere-i-garrick-pell",
+      ],
     },
     {
       fact: "Its bounty is paid only at Antler Hall in Wendlow, on its head, after Grete Holm's Analyze.",
@@ -79,6 +99,33 @@ export const overwhereITheGreyfenAlpha = {
     {
       fact: "Ghost-Eye, 16 above Nala, is no foe far beyond her, but past the ten the Surge easing reaches.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ghost-Eye leads eight more Drakewolves, which hunt the middle fen at dawn and dusk.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-agathe-morrow",
+        "lore/overwhere-i-garrick-pell",
+      ],
+    },
+    {
+      fact: "Ghost-Eye's twenty-five gold bounty is paid only at Antler Hall in Wendlow, on its head.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-agathe-morrow",
+        "lore/overwhere-i-garrick-pell",
+      ],
+    },
+    {
+      fact: "Ghost-Eye grows stronger every week, and it is past anyone in Fenwatch to stand against.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-agathe-morrow",
+        "lore/overwhere-i-garrick-pell",
+      ],
     },
   ],
   secrets: "jsonl",
