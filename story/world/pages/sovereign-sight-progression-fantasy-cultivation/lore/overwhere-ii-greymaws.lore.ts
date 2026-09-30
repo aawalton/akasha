@@ -147,5 +147,9 @@ export const overwhereIiGreymaws = {
       fact: "Garth knows the dead she-wolf as the white-eye herself, the one that leads the pack.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "The three greymaws Nala drained keep their bone chambers whole but empty of Water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
