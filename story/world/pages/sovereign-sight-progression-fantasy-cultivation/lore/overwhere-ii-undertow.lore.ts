@@ -156,5 +156,21 @@ export const overwhereIiUndertow = {
       fact: "Undertow can drive a plain iron spear faster than her arm alone; only cold iron it cannot move.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Undertow can move Nala's own Water within her, pushing it out along her threads and into her flesh.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Pushing and pulling her Water into her skin at once refines it four times faster than the practice.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Refining with Undertow, the nettles, scald and numbness come together in one hard, searing wave.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Driven too hard into her skin, Undertow's push beads blood at her pores; held steady, it does not.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
