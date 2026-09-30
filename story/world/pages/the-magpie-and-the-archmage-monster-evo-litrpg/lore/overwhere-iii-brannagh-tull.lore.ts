@@ -250,6 +250,10 @@ export const overwhereIiiBrannaghTull = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "With Garrick clean, Brannagh offers to send Nala every blight case she hears of, for 10 copper each.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
