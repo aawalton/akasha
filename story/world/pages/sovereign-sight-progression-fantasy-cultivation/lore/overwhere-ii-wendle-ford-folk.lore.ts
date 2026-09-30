@@ -195,5 +195,9 @@ export const overwhereIiWendleFordFolk = {
       fact: "Col Ashby growled that he needs his leg, not a stranger, but did not send Nala away.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "To Undertow, Col's rot is a coarse grey knot in his calf, easier to find than Tansy's.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
