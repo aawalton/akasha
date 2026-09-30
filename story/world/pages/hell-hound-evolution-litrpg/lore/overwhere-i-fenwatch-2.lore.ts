@@ -12,5 +12,9 @@ export const overwhereIFenwatch2 = {
       fact: "Clearing the eel traps of reedlurkers leaves Fenwatch's regard for Nala at its top, 5.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Anyone in Fenwatch knows a mana crystal on sight; Osric the pedlar pays seven silver for a small.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
