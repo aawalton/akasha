@@ -10,4 +10,5 @@ export const overwhereIi00032 = {
   stepStatus: "step-status/game-master",
   action: "“Sounds good”",
   lore: ["lore/overwhere-ii-wendle-ford-folk"],
+  endsAt: "2026-09-30T08:05:00.000Z",
 } as const satisfies StoryTurnPlayed
