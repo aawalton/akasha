@@ -34,5 +34,6 @@ export const overwhereIi00039 = {
     "It lurches away up the scree on three legs, toward the corrie lip and Hollow Tarn beyond.",
   ],
   lore: ["lore/overwhere-ii-greymaws", "lore/overwhere-ii-nala", "place/overwhere-ii-tarn-screes"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T11:23:00.000Z",
 } as const satisfies StoryTurnPlayed
