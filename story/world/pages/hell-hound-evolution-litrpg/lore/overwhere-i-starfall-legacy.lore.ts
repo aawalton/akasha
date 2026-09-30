@@ -264,5 +264,9 @@ export const overwhereIStarfallLegacy = {
       fact: "Past about a hundred slugs, some twelve pounds, the pack drags on her when she runs.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A three-element lens slips; a Surge water lens held in air magnifies about three times.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
