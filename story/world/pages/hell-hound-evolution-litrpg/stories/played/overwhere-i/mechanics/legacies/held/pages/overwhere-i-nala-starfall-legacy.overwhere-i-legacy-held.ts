@@ -6,7 +6,7 @@ export const overwhereINalaStarfallLegacy = {
   slug: "overwhere-i-nala-starfall-legacy",
   character: "character-player/overwhere-i-nala",
   legacy: "overwhere-i-legacy/overwhere-i-starfall-legacy",
-  rank: 1,
-  reserve: 20,
-  workings: 2,
+  rank: 2,
+  reserve: 30,
+  workings: 3,
 } as const satisfies OverwhereILegacyHeld

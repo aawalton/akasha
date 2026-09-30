@@ -5,9 +5,9 @@ export const overwhereINala = {
   type: "page-type/overwhere-i-stamina",
   slug: "overwhere-i-nala",
   character: "character-player/overwhere-i-nala",
-  value: 36,
+  value: 42,
   minValue: 0,
-  maxValue: 36,
+  maxValue: 42,
   history: "jsonl",
   displayOrder: 3,
 } as const satisfies OverwhereIStamina
