@@ -67,6 +67,10 @@ export const overwhereIRowanCoalby = {
       fact: "Sootjaw took Rowan's goats, and Fenwatch blamed his beast Sedge until the Brute was killed.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Hearing Ghost-Eye's howl, Rowan comes out with Sedge and meets Nala at the fen edge near dusk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
