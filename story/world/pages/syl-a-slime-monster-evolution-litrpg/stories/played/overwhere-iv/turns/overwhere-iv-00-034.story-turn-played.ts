@@ -10,7 +10,7 @@ export const overwhereIv00034 = {
   position: 34,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“I’ll do it if you don’t mind. I could definitely use the levels.” I finish the slinger with my spear, then check with Dace for the two scouts, finishing them as well if he approves.",
   beats: [
@@ -33,6 +33,6 @@ export const overwhereIv00034 = {
     'Merrit snorts, wiping soot from his hands. "Five ways. For the recruit."',
   ],
   lore: ["lore/overwhere-iv-brookside-four", "lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-01T13:18:00.000Z",
 } as const satisfies StoryTurnPlayed
