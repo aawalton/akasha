@@ -2,8 +2,10 @@ import type { WorldSkill } from "akasha/story/world/mechanics/skills/world-skill
 import type { OverwhereIiTalentCharacter } from "akasha/story/world/pages/sovereign-sight-progression-fantasy-cultivation/stories/played/overwhere-ii/mechanics/talents/properties/overwhere-ii-talent-character.relation-property.types.ts"
 import type { OverwhereIiTalentDepth } from "akasha/story/world/pages/sovereign-sight-progression-fantasy-cultivation/stories/played/overwhere-ii/mechanics/talents/properties/overwhere-ii-talent-depth.text-property.types.ts"
 import type { OverwhereIiTalentDraw } from "akasha/story/world/pages/sovereign-sight-progression-fantasy-cultivation/stories/played/overwhere-ii/mechanics/talents/properties/overwhere-ii-talent-draw.number-property.types.ts"
+import type { OverwhereIiTalentHardWorkings } from "akasha/story/world/pages/sovereign-sight-progression-fantasy-cultivation/stories/played/overwhere-ii/mechanics/talents/properties/overwhere-ii-talent-hard-workings.number-property.types.ts"
 import type { OverwhereIiTalentReachFeet } from "akasha/story/world/pages/sovereign-sight-progression-fantasy-cultivation/stories/played/overwhere-ii/mechanics/talents/properties/overwhere-ii-talent-reach-feet.number-property.types.ts"
 import type { OverwhereIiTalentTalent } from "akasha/story/world/pages/sovereign-sight-progression-fantasy-cultivation/stories/played/overwhere-ii/mechanics/talents/properties/overwhere-ii-talent-talent.relation-property.types.ts"
+import type { OverwhereIiTalentWidening } from "akasha/story/world/pages/sovereign-sight-progression-fantasy-cultivation/stories/played/overwhere-ii/mechanics/talents/properties/overwhere-ii-talent-widening.text-property.types.ts"
 
 export type OverwhereIiTalent = WorldSkill & {
   character: OverwhereIiTalentCharacter
@@ -11,4 +13,6 @@ export type OverwhereIiTalent = WorldSkill & {
   depth: OverwhereIiTalentDepth
   reachFeet: OverwhereIiTalentReachFeet
   draw: OverwhereIiTalentDraw
+  hardWorkings?: OverwhereIiTalentHardWorkings
+  widenings?: OverwhereIiTalentWidening
 }

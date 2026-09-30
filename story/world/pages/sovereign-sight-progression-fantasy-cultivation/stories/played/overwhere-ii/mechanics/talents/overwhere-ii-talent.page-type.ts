@@ -13,6 +13,8 @@ export const overwhereIiTalent = {
     "text-property/overwhere-ii-talent-depth",
     "number-property/overwhere-ii-talent-reach-feet",
     "number-property/overwhere-ii-talent-draw",
+    "number-property/overwhere-ii-talent-hard-workings",
+    "text-property/overwhere-ii-talent-widening",
   ],
   properties: [
     {
@@ -28,6 +30,17 @@ export const overwhereIiTalent = {
       many: false,
     },
     { pageProperty: "number-property/overwhere-ii-talent-draw", required: true, many: false },
+    {
+      pageProperty: "number-property/overwhere-ii-talent-hard-workings",
+      required: false,
+      many: false,
+    },
+    {
+      pageProperty: "text-property/overwhere-ii-talent-widening",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   decisions: [
     {
@@ -47,6 +60,16 @@ export const overwhereIiTalent = {
     {
       decisionKind: "decision-kind/departure",
       statement: "Every change is written on its page before the turn moves on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Hard workings count the hard-band workings done since the Talent last reached a Depth.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each widening names one new thing the Talent can do, and widenings are never taken away.",
     },
     {
       decisionKind: "decision-kind/absence",
