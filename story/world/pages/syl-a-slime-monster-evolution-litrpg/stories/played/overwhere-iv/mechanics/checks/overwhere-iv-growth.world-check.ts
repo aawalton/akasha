@@ -137,6 +137,20 @@ export const overwhereIvGrowth = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "She finds Blink the first time she tries to fold herself rather than a thing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "She finds Rift Rend the first time she tries to fold one part of a thing from the rest.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Folding things toward her or away finds neither spell, however long she practises.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "At LV 3 she finds Spatial Sense, and at LV 5 Rift Beacon.",
     },
     {
