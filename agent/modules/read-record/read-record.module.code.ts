@@ -1,8 +1,8 @@
 import { createHash } from "node:crypto"
-import { appendFileSync, existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { appendFileSync, existsSync, mkdirSync, readFileSync, rmSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { reads } from "akasha/agent/properties/reads.file-property.ts"
-import { exclusively } from "akasha/file/modules/exclusive/exclusive.module.code.ts"
+import { exclusively, writtenOver } from "akasha/file/modules/exclusive/exclusive.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { uncommittedBesideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
@@ -193,6 +193,10 @@ function readingsAt(at: string | null): readonly Reading[] {
   return found
 }
 
+function bodyOf(left: readonly Reading[]): string {
+  return left.map((one) => `${JSON.stringify(one)}\n`).join("")
+}
+
 export function lastOf(every: readonly Reading[], path: string): Reading | null {
   let found: Reading | null = null
   for (const one of every) {
@@ -242,19 +246,27 @@ export function recordSightings(
   return undefined
 }
 
-function keptIn(at: string, kept: (one: Reading) => boolean): number {
-  const every = linesAt(at)
-  if (every.length === 0) return 0
+type Left = {
+  readonly left: readonly Reading[]
+  readonly went: number
+}
+
+function leftOf(every: readonly string[], kept: (one: Reading) => boolean): Left {
   const left: Reading[] = []
   for (const line of every) {
     const held = lineOf(line)
     if (held !== null && kept(held)) left.push(held)
   }
-  const went = every.length - left.length
-  if (went === 0) return 0
-  exclusively(at, (): undefined => {
-    writeFileSync(at, left.map((one) => `${JSON.stringify(one)}\n`).join(""))
-    return undefined
+  return { left, went: every.length - left.length }
+}
+
+function keptIn(at: string, kept: (one: Reading) => boolean): number {
+  if (leftOf(linesAt(at), kept).went === 0) return 0
+  let went = 0
+  writtenOver(at, () => {
+    const held = leftOf(linesAt(at), kept)
+    went = held.went
+    return went === 0 ? null : bodyOf(held.left)
   })
   return went
 }
@@ -301,16 +313,24 @@ export function dropReadings(root: string, paths: readonly string[]): undefined 
   }
 }
 
-function markedIn(at: string, changed: ReadonlySet<string>, when: number): undefined {
-  const every = readingsAt(at)
-  if (!every.some((one) => changed.has(one.path))) return undefined
+function markedOf(
+  every: readonly Reading[],
+  changed: ReadonlySet<string>,
+  when: number
+): readonly Reading[] | null {
+  if (!every.some((one) => changed.has(one.path))) return null
   const last = new Map<string, Reading>()
   for (const one of every) if (changed.has(one.path) && !sighted(one)) last.set(one.path, one)
   const left = every.filter((one) => !changed.has(one.path))
   for (const one of last.values()) left.push(markedChanged(one) ? one : { ...one, changedAt: when })
-  exclusively(at, (): undefined => {
-    writeFileSync(at, left.map((one) => `${JSON.stringify(one)}\n`).join(""))
-    return undefined
+  return left
+}
+
+function markedIn(at: string, changed: ReadonlySet<string>, when: number): undefined {
+  if (markedOf(readingsAt(at), changed, when) === null) return undefined
+  writtenOver(at, () => {
+    const left = markedOf(readingsAt(at), changed, when)
+    return left === null ? null : bodyOf(left)
   })
   return undefined
 }

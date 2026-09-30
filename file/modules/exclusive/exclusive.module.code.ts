@@ -1,4 +1,4 @@
-import { mkdirSync, rmSync, statSync, writeFileSync } from "node:fs"
+import { mkdirSync, readFileSync, rmSync, statSync, writeFileSync } from "node:fs"
 import { pause } from "akasha/code/modules/thread-pause/thread-pause.module.code.ts"
 import { errnoCodeOf } from "akasha/code/process/modules/pid-signal/pid-signal.module.code.ts"
 import {
@@ -7,6 +7,7 @@ import {
   markIn,
   startedAt,
 } from "akasha/file/modules/lock-holder/lock-holder.module.code.ts"
+import { writeFileAtomicSync } from "akasha/file/system/modules/atomic-write/atomic-write.module.code.ts"
 
 const SPIN_MS = 5
 
@@ -92,4 +93,32 @@ export function exclusively<T>(path: string, act: () => T, waitMs: number = WAIT
   if (held instanceof Promise) return held.finally(give) as T
   give()
   return held
+}
+
+const NO_FILE = "ENOENT"
+
+function textAt(path: string): string {
+  try {
+    return readFileSync(path, "utf8")
+  } catch (failed) {
+    if (errnoCodeOf(failed) === NO_FILE) return ""
+    throw failed
+  }
+}
+
+export function writtenOver(
+  path: string,
+  over: (text: string) => string | null,
+  waitMs: number = WAIT_MS
+): boolean {
+  return exclusively(
+    path,
+    (): boolean => {
+      const next = over(textAt(path))
+      if (next === null) return false
+      writeFileAtomicSync(path, next)
+      return true
+    },
+    waitMs
+  )
 }

@@ -37,5 +37,15 @@ export const exclusive = {
       decisionKind: "decision-kind/departure",
       statement: "A caller that waited too long is refused rather than acting anyway.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A file written over is read inside the turn, so no line appended in a turn is lost.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A file written over is replaced whole, so a reader taking no turn never finds it torn.",
+    },
   ],
 } as const satisfies Module

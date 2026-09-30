@@ -226,6 +226,14 @@ export const readRecord = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A landing writing a record over keeps every reading appended while it waited.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A record is never seen part-written, so a reading in it is never missed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A read whose output would not reach the agent is refused and leaves no reading.",
     },
     {

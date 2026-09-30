@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"atomic-write.module.code.ts","path":"check/modules/cache/check-cache.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"atomic-write.module.code.ts","path":"code/reading/modules/typing-keeping/typing-keeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"atomic-write.module.code.ts","path":"command/modules/landing/landing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"atomic-write.module.code.ts","path":"file/modules/exclusive/exclusive.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"atomic-write.module.code.ts","path":"file/system/modules/atomic-write/atomic-write.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"atomic-write.module.code.ts","path":"page/index/modules/generator-turning/generator-turning.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"atomic-write.module.code.ts","path":"page/service/modules/page-following/page-following.module.code.ts","typed":false,"deferred":false}
