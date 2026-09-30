@@ -273,7 +273,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Dray pays half a bar for word of the Callow pool, and the rest for what drove the greymaws.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Told Nala's well leans at both, Dray fears Hollow Tarn is a tidepool too, and a bigger one.",
