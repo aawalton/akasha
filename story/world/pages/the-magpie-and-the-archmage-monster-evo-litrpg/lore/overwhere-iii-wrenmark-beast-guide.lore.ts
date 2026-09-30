@@ -14,7 +14,7 @@ export const overwhereIiiWrenmarkBeastGuide = {
     },
     {
       fact: "Snow hare, Level 1-2: flees at a footfall; snare it. Pelt 1 copper.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Frost toad, Level 2-5: spits a numbing cold; strike the pale belly. Skin 3 copper to herbalists.",
