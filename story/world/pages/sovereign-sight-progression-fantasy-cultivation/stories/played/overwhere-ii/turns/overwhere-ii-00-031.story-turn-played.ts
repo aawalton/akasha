@@ -4,13 +4,14 @@ export const overwhereIi00031 = {
   id: "01a0f370-2594-7956-94f8-168fc1edf3c3",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-031",
+  cover: "image/image-ef9b5ce037646982",
   ownLength: 228,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 31,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“I’m fine. Took out the alpha and thinned the pack, though some of them escaped. I was just going to report to the Reeve. Know if there is anyone here who would be interested in buying the reservoirs? Or a way I could use them in my training?”",
   beats: [
@@ -37,6 +38,11 @@ export const overwhereIi00031 = {
     "place/overwhere-ii-wendle-ford",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T07:30:00.000Z",
 } as const satisfies StoryTurnPlayed
