@@ -65,7 +65,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray is glad Nala stays to prepare, and keeps the watch cottage hers for as long as she likes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray judges Nala an especially rich mark for Crake, with a well as deep as hers.",
