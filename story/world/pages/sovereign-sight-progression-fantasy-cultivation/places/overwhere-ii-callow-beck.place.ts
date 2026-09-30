@@ -60,5 +60,9 @@ export const overwhereIiCallowBeck = {
       fact: "Ebba Callow knew Nala's watch spear for one of Dray's, and Nala for the greymaws' killer.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "The Warped goats were Bramble and Sorrel, raised by Ebba from kids; Nala killed them at the pool.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place
