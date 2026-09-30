@@ -7,7 +7,8 @@ export const overwhereIii00003 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 3,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Thank you” I say simply, and climb up into the cart, quietly focusing on the man’s weaving trait, seeing if I can feel the man’s inside it around me.",
+  lore: ["lore/overwhere-iii-nala"],
 } as const satisfies StoryTurnPlayed
