@@ -10,7 +10,7 @@ export const overwhereI00021 = {
   position: 21,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I weave fire into my muscles for strength, grab the boar by the tusks, and drag him back to the village.",
   beats: [
@@ -34,6 +34,6 @@ export const overwhereI00021 = {
     '"The palisade is a quarter hour\'s walk away, and the boar lies deeper" - Leave It Open',
   ],
   lore: ["lore/overwhere-i-greyfen-beasts", "lore/overwhere-i-nala", "place/overwhere-i-fenwatch"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T07:44:00.000Z",
 } as const satisfies StoryTurnPlayed
