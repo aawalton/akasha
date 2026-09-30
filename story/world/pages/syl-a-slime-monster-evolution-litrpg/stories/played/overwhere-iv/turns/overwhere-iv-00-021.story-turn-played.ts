@@ -10,4 +10,5 @@ export const overwhereIv00021 = {
   stepStatus: "step-status/game-master",
   action: "“Deal. I have a lot of growing to do. Rather do it with someone I can trust anyways.”",
   lore: ["lore/overwhere-iv-ilsa-crane"],
+  endsAt: "2026-09-30T09:40:00.000Z",
 } as const satisfies StoryTurnPlayed
