@@ -46,7 +46,7 @@ export const overwhereIiiWrenmarkBeastGuide = {
     },
     {
       fact: "Hill boar, Level 4-8: charges head-down; step aside and strike the flank. Meat and tusks 12 copper.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
 } as const satisfies Lore
