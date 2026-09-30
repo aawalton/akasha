@@ -253,7 +253,7 @@ export const overwhereIiiMerrowgate = {
     },
     {
       fact: "Nala's third night in Merrowgate passes quiet: hard frost, a clear sky, no alarm at the gates.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",
