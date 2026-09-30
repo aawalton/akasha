@@ -10,7 +10,7 @@ export const overwhereIi00029 = {
   position: 29,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Leave it for morning, I have some things to try then.” In the morning, I check on the wolves and if the bodies are still there, I first see if I can use my Talent to pull the reservoir and push the rest of the wolf to separate them. If that doesn’t work, use it as an exercise, working on it while I saw them free with a knife.",
   beats: [
@@ -39,12 +39,13 @@ export const overwhereIi00029 = {
     "Down at the croft Garth leans on the gate and shades his eyes at her.",
     'Garth: "Four! The Reeve\'ll not believe it. Come down, the porridge is on."',
   ],
+  issues: ['"A greymaw\'s reservoir" - What It Is', '"The pack leader\'s reservoir" - What It Is'],
   lore: [
     "lore/overwhere-ii-greymaws",
     "lore/overwhere-ii-keeper-anselm",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-undertow",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T06:45:00.000Z",
 } as const satisfies StoryTurnPlayed
