@@ -88,6 +88,22 @@ export const overwhereIvHobbFarm = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
+      fact: "Hobb has never seen the thief; he guesses a wolf or two from the sheep taken.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Pim once glimpsed two small figures at the far wall at dusk, and took them for village boys.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The two goblins have about nine and twelve health, and wear hide scraps worth a ward of one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The goblins make for the gap in the far wall as the sun touches the Tangle.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Hobb called the slimes coming to Nala witchery, half-pleased.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
