@@ -296,5 +296,9 @@ export const overwhereIStarfallLegacy = {
       fact: "A slug is a Surge strike for harm and bands; its bands are before the easing, which still applies.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A mark running at her is one band harder; leading it right is what the act already covers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
