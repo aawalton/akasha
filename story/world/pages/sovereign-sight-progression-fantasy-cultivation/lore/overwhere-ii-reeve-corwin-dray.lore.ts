@@ -269,7 +269,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Dray thinks greymaws fleeing downhill fits a thing driving them, not a pool drawing them.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray pays half a bar for word of the Callow pool, and the rest for what drove the greymaws.",
