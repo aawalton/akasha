@@ -30,5 +30,6 @@ export const overwhereI00040 = {
     "lore/overwhere-i-starfall-legacy",
     "place/overwhere-i-the-greyfen",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-30T11:12:00.000Z",
 } as const satisfies StoryTurnPlayed
