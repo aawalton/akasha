@@ -96,5 +96,9 @@ export const overwhereIStarfallLegacy = {
       fact: "Starfall workings move free water only; the water bound in a living body will not answer them.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A blast of fire-and-air weave is a starfall blow at the legacy's full force, as fire.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
