@@ -180,6 +180,10 @@ export const overwhereIiiMardaHesk = {
       fact: "Hearing Ivy, Garrick and Cob are clean, Marda says the blight work is Nala's now, Purify or no.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Marda posts a Guild quest: cleanse five blighted Wrenmark folk, 1 silver; she counts three done.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
