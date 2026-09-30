@@ -95,6 +95,10 @@ export const overwhereITheGreyfen = {
       fact: "The second known reedlurker holt's slide lies forty yards up the channel from the first.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "A wicker eel trap costs Jory two days' weaving; he'd take five copper for one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
