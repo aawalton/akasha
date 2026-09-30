@@ -4,13 +4,14 @@ export const overwhereIi00008 = {
   id: "01a0f182-96d7-7f75-8ed8-1c29d8e95e82",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-008",
+  cover: "image/image-7a6628c75062a4fb",
   ownLength: 285,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 8,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I try to feel for my Talent to understand what it can do.",
   beats: [
     "Nala sets down her bowl, shuts her eyes, and reaches past the loops for whatever lies beneath.",
@@ -31,6 +32,6 @@ export const overwhereIi00008 = {
   ],
   lore: ["lore/overwhere-ii-nala"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T07:40:00.000Z",
 } as const satisfies StoryTurnPlayed
