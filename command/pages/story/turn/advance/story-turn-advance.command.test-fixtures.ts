@@ -4,6 +4,7 @@ import type { FileChange } from "akasha/change/modules/answer/change-answer.modu
 import type { Landing } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { DATA } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import type { Crossing } from "akasha/command/pages/story/turn/advance/modules/turn-crossed/turn-crossed.module.code.ts"
 import {
   type Admitting,
   type Casting,
@@ -310,7 +311,8 @@ export async function advancedBy(
   timed: Timed = () => undefined,
   timing: Timing = () => null,
   casting: Casting = () => [],
-  admitting: Admitting = () => ADMITTED
+  admitting: Admitting = () => ADMITTED,
+  crossing: Crossing = () => null
 ) {
   return await storyTurnAdvance(
     ["--turn", `story-turn-played/${SLUG}`, ...argv],
@@ -320,7 +322,8 @@ export async function advancedBy(
     timed,
     timing,
     casting,
-    admitting
+    admitting,
+    crossing
   )
 }
 

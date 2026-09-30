@@ -196,7 +196,8 @@ export async function noticesSent(
   status: TurnStep,
   after: Told,
   toRead: readonly string[] = [],
-  noun: Noun = TURN
+  noun: Noun = TURN,
+  toMaster = ""
 ): Promise<undefined> {
   if (status === PLAYER && noun === TURN) {
     await readyTold(reach.readyPushed, root, game, turn, after.report)
@@ -210,7 +211,8 @@ export async function noticesSent(
   const cast = status === WRITER && toRead.length > 0 ? `\n\n${loreLine(toRead, noun)}` : ""
   for (const to of noticedOf(master, game)) {
     const said = noticeOf(turn, status, reach.changedLore(root, to), noun)
-    const why = await reach.notify(to, `${said}${cast}`)
+    const more = to === master ? toMaster : ""
+    const why = await reach.notify(to, `${said}${cast}${more}`)
     if (why === null) after.report.push(`told\t${to}`)
     else after.faults.push(`\`${to}\` was not told the ${noun} moved: ${why}`)
   }

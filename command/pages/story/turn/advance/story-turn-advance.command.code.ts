@@ -19,6 +19,11 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { repointed } from "akasha/command/modules/edits-repointing/edits-repointing.module.code.ts"
+import {
+  type Crossing,
+  crossedIndexed,
+  crossedSaid,
+} from "akasha/command/pages/story/turn/advance/modules/turn-crossed/turn-crossed.module.code.ts"
 import { describedIndexed } from "akasha/command/pages/story/turn/advance/modules/turn-described/turn-described.module.code.ts"
 import {
   movedTo,
@@ -67,6 +72,7 @@ import {
   type Held,
   stepIn,
   type TurnStep,
+  WORLD_BUILDER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 import { storyChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.ts"
@@ -166,6 +172,12 @@ type Reaching = Reach & {
   readonly timeCheckOf: Timing
   readonly castOf: Casting
   readonly admittedOf: Admitting
+  readonly crossedOf: Crossing
+}
+
+function crossedOn(reach: Reaching, root: string, read: Taken, held: Held, turn: Turn): string {
+  if (read.chapter || held.status !== WORLD_BUILDER) return ""
+  return crossedSaid(reach.crossedOf(root, held.game, turn))
 }
 
 function untimedOn(reach: Reaching, root: string, read: Taken, held: Held, turn: Turn) {
@@ -173,11 +185,18 @@ function untimedOn(reach: Reaching, root: string, read: Taken, held: Held, turn:
   return untimedRefused(reach.timeCheckOf(root, held.game), held.game, turn.slug, turn.value)
 }
 
-async function noticesOver(reach: Reach, root: string, at: Context, status: TurnStep, after: Told) {
+async function noticesOver(
+  reach: Reach,
+  root: string,
+  at: Context,
+  status: TurnStep,
+  after: Told,
+  crossed: string
+) {
   const master = at.story?.master ?? null
   const turn = at.prompting.turnAt
-  const noun = at.prompting.noun
-  await noticesSent(reach, root, at.game, master, turn, status, after, at.prompting.lore, noun)
+  const { lore, noun } = at.prompting
+  await noticesSent(reach, root, at.game, master, turn, status, after, lore, noun, crossed)
 }
 
 async function advancedOn(
@@ -295,7 +314,10 @@ async function heldOn(
   if (renamed !== null) report.push(`renamed\t${now.at}`)
   const after: Told = { report, faults: [] }
   if (unkept !== null) after.faults.push(`the folded edits stay beside the turn: ${unkept}`)
-  if (said.status !== held.status) await noticesOver(reach, given.root, at, said.status, after)
+  if (said.status !== held.status) {
+    const crossed = crossedOn(reach, given.root, read, held, turn)
+    await noticesOver(reach, given.root, at, said.status, after, crossed)
+  }
   await seatsStarted(reach, at, said.starts, done, after)
   if (said.stopsCaller && seat !== null) {
     reach.stop(given.root, seat.name)
@@ -313,13 +335,15 @@ export async function storyTurnAdvance(
   timed: Timed = phaseTimed,
   timing: Timing = timeCheckIndexed,
   casting: Casting = castIndexed,
-  admitting: Admitting = admittedIndexed
+  admitting: Admitting = admittedIndexed,
+  crossing: Crossing = crossedIndexed
 ): Promise<Answer> {
   const reaching: Reaching = {
     ...reach,
     timeCheckOf: timing,
     castOf: casting,
     admittedOf: admitting,
+    crossedOf: crossing,
   }
   return await answering(
     async (done) => await advancedOn(done, argv, given, landing, reaching, timed)

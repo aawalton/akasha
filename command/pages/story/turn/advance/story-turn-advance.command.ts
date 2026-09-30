@@ -9,7 +9,12 @@ export const storyTurnAdvance = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  parts: ["module/turn-described", "module/turn-handing", "module/turn-timing"],
+  parts: [
+    "module/turn-described",
+    "module/turn-handing",
+    "module/turn-timing",
+    "module/turn-crossed",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -127,6 +132,11 @@ export const storyTurnAdvance = {
       decisionKind: "decision-kind/departure",
       statement:
         "A reviewer of a played turn is named the mechanic descriptions the turn made new or changed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A played turn reaching its game master names every level or rank the turn before crossed.",
     },
   ],
   name: "advance",
