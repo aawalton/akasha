@@ -183,6 +183,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "By day reedlurkers lie up in holts dug into channel banks, the holt mouths under water.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Reedlurkers come to Jory's traps after full dark, drawn by the eels caught in them.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
