@@ -10,7 +10,7 @@ export const overwhereI00020 = {
   position: 20,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I drop the water orb for the sow, since I know I can reliably do two at once, and use the second as Air to speed up my movements, then kite the sows until the boar is dead, then repeat until either the sows give up, or all five are done.",
   beats: [
@@ -37,7 +37,7 @@ export const overwhereI00020 = {
     "A warm rush pours through her, bigger than the last; the pressure in her chest seems to deepen.",
     "The four sows stop dead, stare at the fallen boar, and break, squealing, into the alder carr.",
     "In moments they are gone. The wallow is quiet but for dripping water and her own breath.",
-    "She lets the wind go. The old boar lies on his side in the mud, huge, grey and still.",
+    "She lets the wind go, alone in the wallow beside the dead boar.",
   ],
   issues: ['"The old boar lies on his side in the mud, huge and grey and still." - Leave It Open'],
   lore: ["lore/overwhere-i-greyfen-beasts", "lore/overwhere-i-nala", "place/overwhere-i-fenwatch"],
