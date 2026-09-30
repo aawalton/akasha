@@ -91,5 +91,13 @@ export const overwhereIiWendleFordFolk = {
       fact: "Sedge Horne swore he would see Nala hang if she hurt Tansy.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Tansy's rot is in her right arm; black veins crawl past her elbow toward her shoulder.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "To Undertow, Tansy's rot is a sour tangle soaked through her arm, threaded deep into her life.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore

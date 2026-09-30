@@ -268,6 +268,10 @@ export const overwhereIiNala = {
       fact: "Cold iron does not burn Nala; against her skin it only feels cold, dead and numbing.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Goody Brannoc vouched for Nala to Sedge Horne as the one who drew the rot out of Wren.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
