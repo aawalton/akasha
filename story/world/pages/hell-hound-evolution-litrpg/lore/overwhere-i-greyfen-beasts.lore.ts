@@ -41,7 +41,7 @@ export const overwhereIGreyfenBeasts = {
     },
     {
       fact: "Reedlurkers of Level 8 to 12 are long otter-bodied ambushers with crocodile jaws in the channels.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "A reedlurker skin makes waterproof boots and sells for five silver.",
