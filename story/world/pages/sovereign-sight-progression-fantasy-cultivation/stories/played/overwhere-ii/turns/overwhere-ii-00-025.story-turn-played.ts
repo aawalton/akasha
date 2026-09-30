@@ -11,4 +11,5 @@ export const overwhereIi00025 = {
   action:
     "I push the sourness out of my arm into the wolf and try to pull its fading clean life force, if any, into the wound on my arm.",
   lore: ["lore/overwhere-ii-greymaws", "lore/overwhere-ii-undertow"],
+  endsAt: "2026-09-29T18:07:00.000Z",
 } as const satisfies StoryTurnPlayed
