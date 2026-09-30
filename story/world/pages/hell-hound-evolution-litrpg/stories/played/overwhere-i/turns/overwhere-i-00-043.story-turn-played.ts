@@ -30,6 +30,8 @@ export const overwhereI00043 = {
     "[Attunement +3.]",
     "Two hours have gone; the sun is past mid-afternoon, and her mana is back to 224 of 244.",
   ],
+  issues: ['"A pouchful made ahead would be ready to fling." - No Prompt'],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "lore/overwhere-i-starfall-legacy"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T15:48:00.000Z",
 } as const satisfies StoryTurnPlayed
