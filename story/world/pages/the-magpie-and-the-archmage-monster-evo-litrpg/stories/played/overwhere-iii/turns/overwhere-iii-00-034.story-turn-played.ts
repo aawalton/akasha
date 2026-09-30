@@ -4,13 +4,14 @@ export const overwhereIii00034 = {
   id: "01a0f3af-e2cf-7052-80d1-df4d741bcd1f",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-034",
+  cover: "image/image-42e6c1f04326f362",
   ownLength: 197,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 34,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-maud-ferrow"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "Since I have enough money for another night or two, I decide to focus on physical exercise, running laps around the village and doing body weight exercises until my mana refills, then go to heal Garrick again.",
   beats: [
@@ -37,6 +38,11 @@ export const overwhereIii00034 = {
     "place/overwhere-iii-merrowgate",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-01T08:40:00.000Z",
 } as const satisfies StoryTurnPlayed
