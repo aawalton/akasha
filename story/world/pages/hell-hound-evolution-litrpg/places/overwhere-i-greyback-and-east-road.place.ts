@@ -75,6 +75,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "With a laden mule cart, ford to Fenwatch takes about an hour and a half.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "On foot, the fen edge by the ford to Fenwatch's gate is about an hour's walk over the Greyback.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
