@@ -29,11 +29,13 @@ export const overwhereIii00021 = {
     "Two antlered rabbits graze among those roots, each with a small glow.",
     "They haven't seen her yet.",
   ],
+  issues: ['"They haven\'t seen you yet." - No Prompt'],
   lore: [
     "lore/overwhere-iii-marda-hesk",
     "lore/overwhere-iii-nala",
     "place/overwhere-iii-merrowgate-guild-post",
     "place/overwhere-iii-wrenwood",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-30T15:08:00.000Z",
 } as const satisfies StoryTurnPlayed
