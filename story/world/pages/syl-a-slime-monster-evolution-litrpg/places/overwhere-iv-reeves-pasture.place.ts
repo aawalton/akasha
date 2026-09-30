@@ -119,5 +119,9 @@ export const overwhereIvReevesPasture = {
       fact: "Col drinks at the Brook and Barrel of an evening, and will tell of the girl who felled the oak.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala cut the oak twenty feet from the butt and limbed it with five rends of her spear.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Place

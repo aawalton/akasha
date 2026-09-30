@@ -74,11 +74,15 @@ export const overwhereIvIlsaCrane2 = {
     },
     {
       fact: "A two-day felling done before mid-morning tells Ilsa plainly what did it, and she smiles.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
     },
     {
       fact: "No raid came overnight; the board holds slimes, wolves, Selby's herbs and east-road guards.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
     },
   ],
 } as const satisfies Lore
