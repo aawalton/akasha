@@ -155,5 +155,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Dray rode Undertow's pull instead of fighting it, and it carried him inside Nala's spear.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Dray's stone fist threw Nala flat in the first bout; her ribs are bruised but whole.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
