@@ -30,5 +30,6 @@ export const overwhereIi00008 = {
     '"What are you doing?" Wren whispers. "Was that magic? It didn\'t look like anything."',
   ],
   lore: ["lore/overwhere-ii-nala"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T07:40:00.000Z",
 } as const satisfies StoryTurnPlayed
