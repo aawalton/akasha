@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0084Vol2Chapter80HistoryLes
   id: "01a0f12a-b852-77a2-98eb-e83a3d9fa917",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0084-vol-2-chapter-80-history-lesson",
+  ownProgress: 2567,
   position: 84,
   publishedAt: "2025-11-11",
   unit: "unit/words",
