@@ -249,7 +249,7 @@ export const overwhereIiWendleFordFolk = {
     },
     {
       fact: "Dray sends Dunn and Aldo Cray with the watch cart to Marsh Croft; they are back by noon.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Once the cart is back, Dray pays eight silver for the four greymaws and the watch's silver bar.",
