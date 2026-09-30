@@ -10,7 +10,12 @@ export const overwhereIiiBrannaghTull2 = {
   facts: [
     {
       fact: "The scar folk take waiting well; Brannagh chalks their names on a slate by her door.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-pip-carrow",
+      ],
     },
     {
       fact: "Most scar folk leave thanks on Brannagh's counter for the healer: eggs, a loaf, a wedge of cheese.",
