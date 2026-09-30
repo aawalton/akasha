@@ -18,7 +18,7 @@ export const overwhereIiiBetHarrow = {
     },
     {
       fact: "She is fond of Tobin Wick and scolds him for his singing every time he comes in.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "She sizes up anyone new sharply, and is kind once she has decided they are honest.",
@@ -31,6 +31,10 @@ export const overwhereIiiBetHarrow = {
     {
       fact: "She keeps a box of clothes left by guests who never came back, and lends from it.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The innkeeper, Bet, is about fifty, big, red-armed and loud.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",

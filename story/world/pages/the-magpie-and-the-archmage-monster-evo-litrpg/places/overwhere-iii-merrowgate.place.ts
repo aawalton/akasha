@@ -161,7 +161,7 @@ export const overwhereIiiMerrowgate = {
     },
     {
       fact: "Folk call the blight bounty 'a silver a stone'.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",

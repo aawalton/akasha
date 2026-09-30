@@ -18,11 +18,11 @@ export const overwhereIiiCalFenn = {
     },
     {
       fact: "He has been gone some seven weeks; he was last seen crossing the Wren Brook ford after the stag.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "The town searched ten days and gave him up for dead; only his brother Jory still looks.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",
