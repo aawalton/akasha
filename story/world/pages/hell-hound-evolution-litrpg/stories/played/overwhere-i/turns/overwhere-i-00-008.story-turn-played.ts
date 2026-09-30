@@ -7,7 +7,8 @@ export const overwhereI00008 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 8,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Okay, 10% every 10 minutes, or just under two hours to full. Not too bad. I have water, let’s see what we can do about shelter.” I attune to Earth again and this time I focus on constructing small but solid dome of stone around me, with the",
+  lore: ["lore/overwhere-i-hessa-vane", "lore/overwhere-i-nala", "place/overwhere-i-greyfen-ford"],
 } as const satisfies StoryTurnPlayed
