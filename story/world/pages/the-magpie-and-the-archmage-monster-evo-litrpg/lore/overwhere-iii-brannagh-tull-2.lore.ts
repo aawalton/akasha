@@ -85,5 +85,13 @@ export const overwhereIiiBrannaghTull2 = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "Brannagh pushed the loaf and cheese left for the healer across her counter to Nala.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
+    },
   ],
 } as const satisfies Lore
