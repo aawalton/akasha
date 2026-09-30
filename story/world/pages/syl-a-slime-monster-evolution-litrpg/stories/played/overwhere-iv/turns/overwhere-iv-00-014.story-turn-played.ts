@@ -4,10 +4,19 @@ export const overwhereIv00014 = {
   id: "01a0f212-f1c6-70c3-bfb8-d6bfb05ae774",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-014",
+  ownLength: 263,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 14,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iv-nala",
+    "character-other/overwhere-iv-brenna-holt",
+    "character-other/overwhere-iv-wat",
+    "character-other/overwhere-iv-dell",
+    "character-other/overwhere-iv-ilsa-crane",
+  ],
+  stepStatus: "step-status/reviewers",
   action: "“What…what was that?”",
   beats: [
     '"What... what was that?" Nala\'s hand is still flat on the crystal. She lifts it away slowly.',
@@ -28,6 +37,7 @@ export const overwhereIv00014 = {
   lore: [
     "lore/overwhere-iv-brookside-four",
     "lore/overwhere-iv-ilsa-crane",
+    "lore/overwhere-iv-nala",
     "lore/overwhere-iv-oswin-pike",
   ],
   endsAt: "2026-09-29T18:45:00.000Z",
