@@ -253,7 +253,7 @@ export const overwhereITheGreyfenAlpha = {
     },
     {
       fact: "Mid-creep, 350 yards off the island, Nala flushed a heron; its clatter drew the watcher's eye.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Pine Isle Drakewolves One to Six are Levels 10, 11, 12, 12, 13 and 14, in that order.",
