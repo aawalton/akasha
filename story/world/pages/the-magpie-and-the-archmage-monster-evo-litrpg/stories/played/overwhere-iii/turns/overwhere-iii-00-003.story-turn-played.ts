@@ -10,7 +10,7 @@ export const overwhereIii00003 = {
   position: 3,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-tobin-wick"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Thank you” I say simply, and climb up into the cart, quietly focusing on the man’s weaving trait, seeing if I can feel the man’s inside it around me.",
   beats: [
@@ -25,11 +25,10 @@ export const overwhereIii00003 = {
     "A blue box opens without her asking.",
     "[Mana Weaver – At [Basic] level, you see mana currents and auras. ???]",
     "The last line still reads ???. Whatever else the trait does, it has not shown her yet.",
-    "The cart rolls on between bare winter fields; the shrine and the beeches fall behind.",
+    "The cart rolls on between bare winter fields toward the town wall; the shrine falls behind.",
     "The carter glances at her, and at her feet, and his jaw works.",
     '"Tobin Wick," he says, tapping his chest. "Cider and salt, Applegarth to Merrowgate."',
     '"So who was it did this to you, lass? Bandits? Out of the wood? Where are your people?"',
-    "He waits for her answer, reins slack in his big hands, the town wall growing ahead.",
   ],
   issues: ['"Ahead, the town wall rises over the fields." - Leave It Open'],
   lore: ["lore/overwhere-iii-nala", "lore/overwhere-iii-tobin-wick"],
