@@ -61,5 +61,17 @@ export const overwhereIvBrennaHolt = {
       fact: "Holt thinks a recruit with real magic is wasted on gate duty, and would say so to Hale.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Holt lets a recruit with a real hurt sit out sparring, but not without asking to see it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Holt would send a hurt knee to Orla at the hall, who heals the watch for a copper or two.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Holt thinks less of a recruit who hides a hurt and makes it worse.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
