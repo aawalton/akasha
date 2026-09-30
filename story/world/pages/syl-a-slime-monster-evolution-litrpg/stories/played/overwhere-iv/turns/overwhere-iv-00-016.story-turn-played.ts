@@ -4,13 +4,14 @@ export const overwhereIv00016 = {
   id: "01a0f24a-1899-7f9c-bcaa-23c79c550164",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-016",
+  cover: "image/image-58d17d1cb3c6250d",
   ownLength: 197,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 16,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“Why? What is the threat? I can’t guard against an unknown.”",
   beats: [
     '"Why?" Nala whispers back. "What is the threat? I can\'t guard against an unknown."',
@@ -29,6 +30,11 @@ export const overwhereIv00016 = {
   ],
   lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-oswin-pike"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-29T19:35:00.000Z",
 } as const satisfies StoryTurnPlayed
