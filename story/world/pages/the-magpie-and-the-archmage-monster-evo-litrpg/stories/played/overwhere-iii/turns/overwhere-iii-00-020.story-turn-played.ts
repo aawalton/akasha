@@ -11,4 +11,5 @@ export const overwhereIii00020 = {
   action:
     "“Not quite Purify yet, but part way there. If you don’t mind a few steps, I think I can finish that off after a rest or two.”",
   lore: ["lore/overwhere-iii-marda-hesk", "place/overwhere-iii-merrowgate-guild-post"],
+  endsAt: "2026-09-30T12:23:00.000Z",
 } as const satisfies StoryTurnPlayed
