@@ -297,5 +297,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Ghost-Eye's milky eye is a hard pearl of clouded crystal, mana-grown; alchemists would pay well.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Antler Hall pays Ghost-Eye's bounty on the whole head; an eye and ears alone it will not take.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
