@@ -178,12 +178,21 @@ export function refusalSaid(thrown: unknown): string {
   return CLOSED.test(why) ? NOT_ANSWERING : why
 }
 
-export function answered(beside: Value | null, refused: string | null): Value {
+export function askAnswered(
+  beside: Value | null,
+  asked: string,
+  refusedKey: string,
+  refused: string | null
+): Value {
   const kept: Record<string, unknown> = { ...(beside ?? {}) }
-  delete kept[ASKED]
-  delete kept[REFUSED]
-  if (refused !== null) kept[REFUSED] = refused
+  delete kept[asked]
+  delete kept[refusedKey]
+  if (refused !== null) kept[refusedKey] = refused
   return kept as Value
+}
+
+export function answered(beside: Value | null, refused: string | null): Value {
+  return askAnswered(beside, ASKED, REFUSED, refused)
 }
 
 export type Rerolling = {
