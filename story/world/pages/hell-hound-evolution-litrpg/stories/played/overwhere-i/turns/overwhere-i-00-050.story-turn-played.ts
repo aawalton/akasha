@@ -16,7 +16,7 @@ export const overwhereI00050 = {
     "character-other/overwhere-i-pine-isle-drakewolf-seven",
     "character-other/overwhere-i-pine-isle-drakewolf-eight",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I launch a bullet at Ghost Eye from where I am, as accurate as I can make it, but with as much power as I can give it, to see if he will approach or retreat.",
   beats: [
@@ -38,6 +38,6 @@ export const overwhereI00050 = {
     "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-the-greyfen-alpha-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-01T13:31:00.000Z",
 } as const satisfies StoryTurnPlayed
