@@ -10,7 +10,7 @@ export const overwhereIi00027 = {
   position: 27,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "While he works, I focus on settling and cleaning the restless brine first, then try again to push water into the wound.",
   beats: [
@@ -32,6 +32,6 @@ export const overwhereIi00027 = {
     'Garth: "Let me bind it, and then you eat. Wren, fetch the clean linen from the chest."',
   ],
   lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-undertow"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T18:22:00.000Z",
 } as const satisfies StoryTurnPlayed
