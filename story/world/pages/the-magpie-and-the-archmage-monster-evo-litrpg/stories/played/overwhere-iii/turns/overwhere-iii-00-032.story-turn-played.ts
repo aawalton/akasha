@@ -4,10 +4,13 @@ export const overwhereIii00032 = {
   id: "01a0f39a-9881-732a-9269-1a620428ea39",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-032",
+  ownLength: 160,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 32,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-bet-harrow"],
+  stepStatus: "step-status/reviewers",
   action: "“Deal, I’ll take it all. Know where I could get a pack?”",
   beats: [
     '"Deal," Nala says. "I\'ll take it all."',
@@ -24,6 +27,8 @@ export const overwhereIii00032 = {
   ],
   lore: [
     "lore/overwhere-iii-bet-harrow",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
     "place/overwhere-iii-crook-and-candle",
     "place/overwhere-iii-merrowgate",
   ],
