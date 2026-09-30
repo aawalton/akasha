@@ -25,6 +25,8 @@ export const overwhereIii00016 = {
     "She cuts two of the glowing ones at the root and leaves the rest.",
     "Twenty frostcaps, all whole, wrapped in her shirt against the cold.",
   ],
+  issues: ['"wrapped in the front of her shirt" - What It Is'],
   lore: ["lore/overwhere-iii-nala", "place/overwhere-iii-wrenwood"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-30T10:23:00.000Z",
 } as const satisfies StoryTurnPlayed
