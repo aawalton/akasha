@@ -295,11 +295,19 @@ export const overwhereITheGreyfenAlpha2 = {
     },
     {
       fact: "Ghost-Eye's milky eye is a hard pearl of clouded crystal, mana-grown; alchemists would pay well.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-rowan-coalby",
+      ],
     },
     {
       fact: "Antler Hall pays Ghost-Eye's bounty on the whole head; an eye and ears alone it will not take.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-rowan-coalby",
+      ],
     },
     {
       fact: "Ghost-Eye's head weighs about thirty pounds; its whole body as much as three grown men.",
@@ -315,7 +323,11 @@ export const overwhereITheGreyfenAlpha2 = {
     },
     {
       fact: "Ghost-Eye's milky eye, plucked, is a hard pearl of clouded crystal.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-rowan-coalby",
+      ],
     },
     {
       fact: "Up close Ghost-Eye is huge, its grey-green scales scarred pale along the flank.",
@@ -328,6 +340,14 @@ export const overwhereITheGreyfenAlpha2 = {
     {
       fact: "Ghost-Eye's clouded eye is called a drake-pearl; an alchemist in Wendlow pays about four gold.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala killed Ghost-Eye and its pack's highest-level wolves on day 3; the rest of the pack lives.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-rowan-coalby",
+      ],
     },
   ],
 } as const satisfies Lore

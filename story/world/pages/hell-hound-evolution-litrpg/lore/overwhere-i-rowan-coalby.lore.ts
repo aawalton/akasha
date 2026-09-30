@@ -93,15 +93,27 @@ export const overwhereIRowanCoalby = {
     },
     {
       fact: "Rowan knows an old alpha's clouded eye as a drake-pearl, grown of mana, that alchemists prize.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-rowan-coalby",
+      ],
     },
     {
       fact: "Rowan reckons a drake-pearl fetches several gold from an alchemist in Wendlow.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-rowan-coalby",
+      ],
     },
     {
       fact: "Rowan warns the Hall pays on the head alone, and fen scavengers will have the body in two days.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-rowan-coalby",
+      ],
     },
     {
       fact: "Rowan says a wild pup taken young can be bonded, as Sedge was, and would fetch a fortune alive.",

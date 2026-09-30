@@ -31,6 +31,6 @@ export const overwhereI00057 = {
     "lore/overwhere-i-the-greyfen-alpha-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/memory"],
   endsAt: "2026-10-01T16:33:00.000Z",
 } as const satisfies StoryTurnPlayed
