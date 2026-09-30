@@ -29,5 +29,6 @@ export const overwhereIi00003 = {
     "Uneven footsteps crunch up the lane toward the barn, one foot heavier than the other.",
   ],
   lore: ["lore/overwhere-ii-nala"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T06:49:00.000Z",
 } as const satisfies StoryTurnPlayed
