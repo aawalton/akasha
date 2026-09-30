@@ -90,6 +90,15 @@ export const overwhereIvGrowth = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A fight is won once every foe has fallen, yielded or fled, and she holds the field.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A foe that flees gives no experience; a deed the fight saved still counts.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A skill she lacks is gained after three earnest uses of it, at LV 1.",
     },
     {
