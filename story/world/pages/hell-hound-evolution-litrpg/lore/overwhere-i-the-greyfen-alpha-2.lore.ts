@@ -78,5 +78,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "At 13:30 on day 3, from the hummocks' end, Nala saw two wolves lead the pups west off the island.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Ghost-Eye stands still on the shore about 210 yards from her; a slug at it there is a hard act.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
