@@ -10,7 +10,7 @@ export const overwhereIi00007 = {
   position: 7,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“I’m not certain. I would gladly do so if I can, but I would need to visit one of the stones first. Do you know how far it is to the nearest?”",
   beats: [
@@ -36,6 +36,6 @@ export const overwhereIi00007 = {
     "place/overwhere-ii-carrowmouth",
     "place/overwhere-ii-wendlemere",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T07:37:00.000Z",
 } as const satisfies StoryTurnPlayed
