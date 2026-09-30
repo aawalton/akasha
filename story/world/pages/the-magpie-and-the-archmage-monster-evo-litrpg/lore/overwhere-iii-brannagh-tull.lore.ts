@@ -10,7 +10,7 @@ export const overwhereIiiBrannaghTull = {
   facts: [
     {
       fact: "Brannagh Tull is Merrowgate's herbwife and hedge-healer, seventy and bent, sharp as a thorn.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Her shop under a crooked green sign sells salves, teas and low potions at 30 copper a flask.",
