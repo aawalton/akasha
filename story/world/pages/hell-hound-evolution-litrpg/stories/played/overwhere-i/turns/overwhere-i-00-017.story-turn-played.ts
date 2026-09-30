@@ -10,7 +10,7 @@ export const overwhereI00017 = {
   position: 17,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I go and enjoy the party and chat casually with people, listening and absorbing what they say, but not sharing much about myself.",
   beats: [
@@ -50,6 +50,6 @@ export const overwhereI00017 = {
     "place/overwhere-i-fenwatch",
     "place/overwhere-i-the-greyfen",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-29T21:20:00.000Z",
 } as const satisfies StoryTurnPlayed
