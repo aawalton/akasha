@@ -10,7 +10,7 @@ export const overwhereIii00014 = {
   position: 14,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I keep me distance and hit it with mana lash against and try to dodge whatever attack it is making, since I can see it coming.",
   beats: [
@@ -29,6 +29,6 @@ export const overwhereIii00014 = {
     "All but one spot: at the base of its antlers, something small still holds a faint glow of its own.",
   ],
   lore: ["lore/overwhere-iii-nala"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-30T09:03:00.000Z",
 } as const satisfies StoryTurnPlayed
