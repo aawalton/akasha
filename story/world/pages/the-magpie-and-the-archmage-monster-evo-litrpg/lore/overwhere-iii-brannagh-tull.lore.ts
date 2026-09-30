@@ -40,6 +40,10 @@ export const overwhereIiiBrannaghTull = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "She checks every root cut, and pays a copper for each clean frostcap.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
