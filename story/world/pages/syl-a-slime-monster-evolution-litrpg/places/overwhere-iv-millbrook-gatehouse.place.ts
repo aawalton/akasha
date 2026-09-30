@@ -68,5 +68,29 @@ export const overwhereIvMillbrookGatehouse = {
       fact: "A recruit late to drill once runs it twice.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "At supper on Nala's first day: Sergeant Holt, Wat Barrow off the gate, Dell Farrow, Oswin Pike.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dell Farrow is a lanky watchman of thirty who talks too much; Oswin Pike is grey and quiet.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Captain Hale eats at home; the night watch eats early, at the gate.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The mess has one long table, a cauldron on the hearth, and bread in a basket under a cloth.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The shepherd Dunny Carrow told Wat the new redhead speared seven slimes like a born hand.",
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-wat-barrow"],
+    },
+    {
+      fact: "Dunny also told Wat the slimes went to her like lambs; Wat means to tease her about it.",
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-wat-barrow"],
+    },
   ],
 } as const satisfies Place
