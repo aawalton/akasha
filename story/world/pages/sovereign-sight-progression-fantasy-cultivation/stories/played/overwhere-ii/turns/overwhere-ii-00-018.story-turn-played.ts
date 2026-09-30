@@ -7,7 +7,8 @@ export const overwhereIi00018 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 18,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“I’m making progress, but this will take time.” I continue working at the rot, this time leaning into the natural cycle of the talent, pushing a small amount of my strength to the girl, pulling back the rot with as little life force as I can, separating it out, and repeating, being sure never to drop the girl’s life force down again.",
+  lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-wendle-ford-folk"],
 } as const satisfies StoryTurnPlayed
