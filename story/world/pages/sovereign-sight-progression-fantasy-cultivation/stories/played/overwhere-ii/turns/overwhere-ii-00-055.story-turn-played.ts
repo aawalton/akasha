@@ -4,10 +4,13 @@ export const overwhereIi00055 = {
   id: "01a0f47b-181a-7710-a9b3-7a7927287f98",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-055",
+  ownLength: 372,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 55,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action: "I ignore the pull for now and work my way back down to report back on what I found.",
   beats: [
     "Nala turns her back on the split and starts down, and the pull fades behind her with every step.",
@@ -30,6 +33,11 @@ export const overwhereIi00055 = {
     'Dray: "And Crake. His men robbed a drover on the Carrowmouth road ten days ago."',
     "Dray: \"A day's walk below the Ford. That's the nearest he's been.\"",
   ],
-  lore: ["lore/overwhere-ii-reeve-corwin-dray-2", "place/overwhere-ii-wendle-ford"],
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-reeve-corwin-dray-2",
+    "place/overwhere-ii-wendle-ford",
+  ],
   endsAt: "2026-10-02T19:00:00.000Z",
 } as const satisfies StoryTurnPlayed
