@@ -103,6 +103,15 @@ export const overwhereIvGrowth = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A first fight won by a spell folded into a weapon's blow adds Spellblade to the offer.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The offer shows as: <Class options available: [Warrior] [Mage] [Spellblade].>",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Riftmancer is offered once she holds a class and Dimension Magic reaches LV 5.",
     },
     {
