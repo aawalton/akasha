@@ -103,6 +103,10 @@ export const overwhereIRowanCoalby = {
       fact: "Rowan warns the Hall pays on the head alone, and fen scavengers will have the body in two days.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Rowan says a wild pup taken young can be bonded, as Sedge was, and would fetch a fortune alive.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
