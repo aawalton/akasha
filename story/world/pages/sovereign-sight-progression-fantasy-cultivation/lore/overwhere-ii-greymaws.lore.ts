@@ -139,5 +139,9 @@ export const overwhereIiGreymaws = {
       fact: "The she-wolf's reservoir is far deeper than a common greymaw's, and fights a pull like a rope.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "A dead greymaw holds no clean life to take, only cold brine that stings a wound it is pulled into.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
