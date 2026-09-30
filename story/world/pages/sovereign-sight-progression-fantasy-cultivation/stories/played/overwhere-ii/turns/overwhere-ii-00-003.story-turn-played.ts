@@ -28,8 +28,8 @@ export const overwhereIi00003 = {
     'From down the lane the man\'s voice calls, nearer now and puffing: "Burr! Burr, come by!"',
     "Uneven footsteps crunch up the lane toward the barn, one foot heavier than the other.",
   ],
-  lore: ["lore/overwhere-ii-nala"],
+  lore: ["lore/overwhere-ii-garth-marsh", "lore/overwhere-ii-nala"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-09-29T06:49:00.000Z",
 } as const satisfies StoryTurnPlayed
