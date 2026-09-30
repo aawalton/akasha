@@ -52,6 +52,10 @@ export const overwhereIiiPipCarrow = {
       fact: "Brannagh's messenger is a quick girl of about twelve with a gap-toothed grin.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Told the healer doesn't know how her magic works, Pip swears to find out first and tell only her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
