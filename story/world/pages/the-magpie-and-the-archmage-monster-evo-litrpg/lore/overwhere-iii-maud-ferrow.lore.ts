@@ -48,5 +48,9 @@ export const overwhereIiiMaudFerrow = {
       fact: "Maud names herself only once a newcomer finishes a drill, then says, 'Maud. Tomorrow, dawn bell.'",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Maud has heard Bet's tale, and asks the red-haired healer to look at Cob's arm after the drill.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
