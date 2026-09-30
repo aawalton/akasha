@@ -4,10 +4,13 @@ export const overwhereIii00039 = {
   id: "01a0f3eb-6291-73ca-8e92-4a97c46c5816",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-039",
+  ownLength: 132,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 39,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Are there any books in town? I’d like to spend the afternoon learning, and I’d hate to pester people with questions if I don’t need to.”",
   beats: [
@@ -20,6 +23,12 @@ export const overwhereIii00039 = {
     '"Past these, the Hearth chapel at the top of the square keeps a herbal and a primer."',
     '"Old Sister Wenna lends them to anyone who\'ll sit and read them there."',
   ],
-  lore: ["place/overwhere-iii-merrowgate", "place/overwhere-iii-merrowgate-guild-post"],
+  lore: [
+    "lore/overwhere-iii-marda-hesk",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
+    "place/overwhere-iii-merrowgate",
+    "place/overwhere-iii-merrowgate-guild-post",
+  ],
   endsAt: "2026-10-01T12:27:00.000Z",
 } as const satisfies StoryTurnPlayed
