@@ -11,4 +11,5 @@ export const overwhereIii00015 = {
   action:
     "I go and retrieve the glimmerstone front the rabbit, then I sit and focus on the mana currents, seeing if I can manipulate ones that look like the holy mana I saw on the card and use them to stitch together the cut.",
   lore: ["lore/overwhere-iii-nala", "place/overwhere-iii-wrenwood-crossroads"],
+  endsAt: "2026-09-30T09:48:00.000Z",
 } as const satisfies StoryTurnPlayed
