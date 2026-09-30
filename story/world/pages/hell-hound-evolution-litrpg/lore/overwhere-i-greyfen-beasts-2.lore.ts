@@ -96,5 +96,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "A scalded or blistered reedlurker skin sells for two silver, not five.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A drake-pearl holds about 150 mana; drawn on once, it restores that and goes dull and worthless.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
