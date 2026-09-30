@@ -48,5 +48,6 @@ export const overwhereIii00030 = {
     "lore/overwhere-iii-tobin-wick",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-09-30T18:30:00.000Z",
 } as const satisfies StoryTurnPlayed
