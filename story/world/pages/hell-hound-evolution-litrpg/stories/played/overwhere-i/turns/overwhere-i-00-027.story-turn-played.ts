@@ -23,5 +23,6 @@ export const overwhereI00027 = {
     '"But I\'ll not stay out there after dark. Not for three silver a head, nor thirty."',
   ],
   lore: ["lore/overwhere-i-greyfen-beasts", "lore/overwhere-i-nala", "place/overwhere-i-fenwatch"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-30T09:39:00.000Z",
 } as const satisfies StoryTurnPlayed
