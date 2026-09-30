@@ -16,7 +16,7 @@ export const overwhereIii00044 = {
     "character-other/overwhere-iii-hild-wendle",
     "character-other/overwhere-iii-marda-hesk",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I spend the day reading Brannagh’s book, going back to the post again to drain my mana whenever it gets close to full, but only after the healing touchup. If I finish the book, I go back to the Post to read more in the bestiary. If I finish cleansing any blightstones, I collect the resulting glimmerstones.",
   beats: [
@@ -58,6 +58,11 @@ export const overwhereIii00044 = {
     "place/overwhere-iii-merrowgate-guild-post",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-02T18:00:00.000Z",
 } as const satisfies StoryTurnPlayed
