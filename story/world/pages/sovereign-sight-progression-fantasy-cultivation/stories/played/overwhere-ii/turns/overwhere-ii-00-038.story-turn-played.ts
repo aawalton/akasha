@@ -10,7 +10,7 @@ export const overwhereIi00038 = {
   position: 38,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Great. All right if I use this guard spear for the hunt? I’d rather not wait three days for them to scatter. I’ll go start a commission with Hob and then start tracking.”",
   beats: [
@@ -43,6 +43,6 @@ export const overwhereIi00038 = {
     "place/overwhere-ii-tarn-screes",
     "place/overwhere-ii-tarrant-smithy",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T11:15:00.000Z",
 } as const satisfies StoryTurnPlayed
