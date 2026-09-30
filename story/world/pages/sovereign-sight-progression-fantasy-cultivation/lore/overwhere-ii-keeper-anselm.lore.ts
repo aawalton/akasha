@@ -249,7 +249,7 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "Anselm knows the Carrowmouth Charterstone gives marks only at Threllsnacht, nearly a year off.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Anselm expects the Keepers would teach Nala through the year until Threllsnacht, if she keeps near.",
