@@ -32,5 +32,9 @@ export const overwhereIiTarnScrees = {
       fact: "On the way up lie a half-eaten ewe from last night's flight and tufts of scaled fur on the heather.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The five greymaws left are together in the den through the day; one limps from the fight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
