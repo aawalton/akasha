@@ -14,14 +14,22 @@ export const overwhereIiTarrantSmithy = {
     },
     {
       fact: "Cold-iron nails and charms hang in rows along the smithy's back wall.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Hob is deaf in his left ear; folk step to his right to be heard over the forge.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Hob takes half his price down on a commission, and the rest when the work is handed over.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Nala paid Hob half a silver bar down on a cold-iron boar spear, ready in three days.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Hob's smithy is an open-fronted stone shed on the ford road, its forge glowing at the back.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],

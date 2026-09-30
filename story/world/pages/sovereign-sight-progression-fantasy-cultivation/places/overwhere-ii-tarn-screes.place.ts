@@ -22,15 +22,15 @@ export const overwhereIiTarnScrees = {
     },
     {
       fact: "Greymaw tracks are plain: webbed prints and smears of grey slime on the stones.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "From the den mouth the cairn hung with cold iron shows on the skyline above.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "On the way up lie a half-eaten ewe from last night's flight and tufts of scaled fur on the heather.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The five greymaws left are together in the den through the day; one limps from the fight.",

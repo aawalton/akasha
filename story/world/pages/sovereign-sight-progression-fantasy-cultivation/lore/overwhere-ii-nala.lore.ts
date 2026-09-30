@@ -300,6 +300,10 @@ export const overwhereIiNala = {
       fact: "Nala carries the four greymaw chambers in the dead watchman's knapsack, the white-eye's on top.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "The rows of cold iron in Hob's smithy sit in her sense as a flat, numb dead patch.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
