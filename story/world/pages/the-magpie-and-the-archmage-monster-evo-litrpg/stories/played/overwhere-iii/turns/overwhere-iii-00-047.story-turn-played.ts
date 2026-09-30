@@ -14,7 +14,7 @@ export const overwhereIii00047 = {
     "character-other/overwhere-iii-brannagh-tull",
     "character-other/overwhere-iii-mother-sallow",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Does it give back more mana than it costs? If not, I don’t know that it would help me much quite yet.”",
   beats: [
@@ -22,9 +22,9 @@ export const overwhereIii00047 = {
     "If not, she says, she doesn't know it would help her much yet.",
     "Brannagh scratches the cat behind its one ear, thinking.",
     '"One jackalope\'s antlers, ground, make two draughts. Each fills a small store of mana."',
-    '"What the pot takes out of you while it steeps, I can\'t tell you. Mother never wrote that down."',
-    '"She just poured, and it took, or it didn\'t. I never had enough in me to find out."',
-    "\"Two flasks for one night's pouring. Whether that's a bargain, only you'll know.\"",
+    '"Mother said a pot gives back about three times what you pour into it."',
+    "\"And she poured at day's end, from what a night's sleep would fill anyway.\"",
+    "\"I never had enough in me to try it. Whether it's a bargain for you, only you'll know.\"",
     "She pushes the loaf and cheese across the counter toward Nala.",
     '"If it\'s getting it back faster you want," she says, "Mother had a saying."',
     '"The old shrine at the crossroads gives back what a day took, to them as rest there."',
