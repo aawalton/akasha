@@ -54,7 +54,11 @@ export const overwhereIiiMaudFerrow = {
     },
     {
       fact: "A newcomer drilling with the watch runs, hauls fieldstones and takes staff knocks; nobody's gentle.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-maud-ferrow",
+      ],
     },
   ],
 } as const satisfies Lore
