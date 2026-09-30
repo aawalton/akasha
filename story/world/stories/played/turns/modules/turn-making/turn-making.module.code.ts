@@ -83,7 +83,7 @@ function latestIn(row: Row | undefined): Latest | null {
   }
 }
 
-export function afterChapterIn(row: Row | undefined, game: string): Latest | null {
+function afterChapterIn(row: Row | undefined, game: string): Latest | null {
   if (row === undefined) return null
   const slug = textIn(row[LAST_TURN])
   const position = row[LAST_TURN_POSITION]
@@ -122,7 +122,7 @@ export function latestAsked(game: string): Query {
   }
 }
 
-export function lastChapterAsked(game: string): Query {
+function lastChapterAsked(game: string): Query {
   return {
     pageTypeSlug: storyChapterPlayed.slug,
     where: { [STORY]: { is: storyOf(game) } },
