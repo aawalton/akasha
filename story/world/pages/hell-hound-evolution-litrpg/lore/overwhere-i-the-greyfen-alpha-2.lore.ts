@@ -305,5 +305,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Ghost-Eye's head weighs about thirty pounds; its whole body as much as three grown men.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "No wolf is left on the island; Four, Five and Six are gone west with the pups into the deep fen.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
