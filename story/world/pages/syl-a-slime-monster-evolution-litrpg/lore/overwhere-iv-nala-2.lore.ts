@@ -50,5 +50,18 @@ export const overwhereIvNala2 = {
       fact: "Nala's legs are stronger now; on the third dawn she ran her laps mid-pack, not last.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Nala took the class Spellblade, which revealed the skills Spellstrike and Blade Ward.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Nala joined the Brookside Four's goblin job, and Ilsa wrote her name to it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
   ],
 } as const satisfies Lore

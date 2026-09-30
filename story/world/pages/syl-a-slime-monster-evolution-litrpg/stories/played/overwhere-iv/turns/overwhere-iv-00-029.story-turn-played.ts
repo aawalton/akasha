@@ -42,6 +42,6 @@ export const overwhereIv00029 = {
     "place/overwhere-iv-the-tangle",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
   endsAt: "2026-10-01T13:10:00.000Z",
 } as const satisfies StoryTurnPlayed

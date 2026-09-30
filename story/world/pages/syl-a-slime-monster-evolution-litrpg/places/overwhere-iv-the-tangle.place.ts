@@ -13,7 +13,11 @@ export const overwhereIvTheTangle = {
     },
     {
       fact: "Its oaks and yews grow close and dark, with thick undergrowth and few paths.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
     {
       fact: "Greyback wolves of LV 5 to 9 hunt in packs in the Tangle.",
@@ -62,6 +66,26 @@ export const overwhereIvTheTangle = {
     {
       fact: "The goblins hear a party of five coming through brush at fifty paces, and set an ambush.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hobb's gap's blood trail runs most of a mile in, toward a hollow walled by a fallen oak.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
+    {
+      fact: "At the fallen-oak hollow, a stone whirred out of the hollow and cracked off Dace's shield.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
+    {
+      fact: "Near the fallen-oak hollow, Nala's sense felt a body crouched behind a yew on her left.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
   secrets: "jsonl",
