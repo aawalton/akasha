@@ -265,7 +265,7 @@ export const overwhereIiWendleFordFolk = {
     },
     {
       fact: "Hob Tarrant can forge a boar spear with a cold-iron head in three days, for a silver bar.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
