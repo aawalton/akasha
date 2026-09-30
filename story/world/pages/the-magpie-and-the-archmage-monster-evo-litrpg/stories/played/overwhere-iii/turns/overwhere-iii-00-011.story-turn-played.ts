@@ -10,7 +10,7 @@ export const overwhereIii00011 = {
   position: 11,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“I don’t think so. Why do you ask?”",
   beats: [
     '"I don\'t think so," Nala says. "Why do you ask?"',
@@ -32,6 +32,6 @@ export const overwhereIii00011 = {
     "lore/overwhere-iii-nala",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T07:18:00.000Z",
 } as const satisfies StoryTurnPlayed
