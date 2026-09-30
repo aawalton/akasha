@@ -99,6 +99,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "The four sows of the Fenwatch sounder are Level 8 to 10.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "When one of a sounder is hurt, the rest charge whoever did it; the boar kicks back like a mule.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
