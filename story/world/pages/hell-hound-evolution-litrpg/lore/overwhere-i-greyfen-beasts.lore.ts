@@ -121,7 +121,11 @@ export const overwhereIGreyfenBeasts = {
     },
     {
       fact: "An old Grubboar weighs as much as four grown men.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "The old boar's carcass sank to its shoulders in the wallow, its tusks under water and out of reach.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",

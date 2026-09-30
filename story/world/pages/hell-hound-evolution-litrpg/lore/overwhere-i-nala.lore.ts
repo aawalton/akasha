@@ -287,11 +287,11 @@ export const overwhereINala = {
     },
     {
       fact: "Fire worked into her body is a Surge working that lends strength; at Flare she hauls like two men.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Fire-strength runs hot through her like fever sweat, but never burns her.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Held fire-strength adds 8 to her Strength; it costs only the Surge's 10 mana and 1 fire a minute.",
@@ -300,6 +300,14 @@ export const overwhereINala = {
     {
       fact: "Fire-strength is a burst of Starfall Surge, like wind-speed, not a new skill or legacy way.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Holding fire-strength, she feels a hot pull behind her breastbone each minute she renews it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "When she lets fire-strength go, the heat drains away and leaves her arms trembling.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Lore
