@@ -92,5 +92,9 @@ export const overwhereIiiWrenmarkBeasts = {
       fact: "Out in the open, off its roots, a jackalope has no cover to dart behind.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A Level 2 jackalope's glimmerstone is the size of a small pea, fainter than a Level 3's.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
