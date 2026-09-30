@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0098Vol3Chapter90TheGraveya
   id: "01a0f12a-cfef-7a0e-8c50-31b431a8b712",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0098-vol-3-chapter-90-the-graveyard-of-ash",
+  ownProgress: 2127,
   position: 98,
   publishedAt: "2025-11-25",
   unit: "unit/words",

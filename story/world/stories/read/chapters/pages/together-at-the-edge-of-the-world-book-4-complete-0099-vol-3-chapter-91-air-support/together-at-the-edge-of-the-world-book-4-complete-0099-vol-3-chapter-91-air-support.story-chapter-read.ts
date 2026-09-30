@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0099Vol3Chapter91AirSupport
   id: "01a0f12a-cfef-786c-8ab0-573aeeb6c22a",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0099-vol-3-chapter-91-air-support",
+  ownProgress: 2303,
   position: 99,
   publishedAt: "2025-11-26",
   unit: "unit/words",

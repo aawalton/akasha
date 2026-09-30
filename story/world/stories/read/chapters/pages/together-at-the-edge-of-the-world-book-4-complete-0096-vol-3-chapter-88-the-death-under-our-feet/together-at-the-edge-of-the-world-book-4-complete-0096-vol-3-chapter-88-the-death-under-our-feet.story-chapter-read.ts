@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0096Vol3Chapter88TheDeathUn
   id: "01a0f12a-b852-7b42-a477-052ba38ef7b6",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0096-vol-3-chapter-88-the-death-under-our-feet",
+  ownProgress: 2083,
   position: 96,
   publishedAt: "2025-11-23",
   unit: "unit/words",
