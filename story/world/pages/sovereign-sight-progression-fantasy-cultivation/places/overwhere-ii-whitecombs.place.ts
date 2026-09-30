@@ -43,6 +43,22 @@ export const overwhereIiWhitecombs = {
       fact: "From the Reeve's house the Whitecombs' white peaks stand south, across the valley.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "From Wendle Ford the Whitecombs' lower slopes are two hours' walk south, by Callow Beck farm.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Above Callow Beck the snow line is half a day's climb; the goat tracks beyond it are buried.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Since midwinter a black pool smelling of the sea has opened in a high cwm above Callow Beck.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "High on the Whitecombs the thunder is felt more than heard, a tremor in the rock underfoot.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
