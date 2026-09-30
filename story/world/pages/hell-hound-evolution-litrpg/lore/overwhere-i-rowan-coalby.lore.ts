@@ -55,6 +55,10 @@ export const overwhereIRowanCoalby = {
       fact: "With Sootjaw dead and Hessa's word on it, his Drakewolf Sedge is cleared of the stock kills.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At the feast he thanks Nala, stammering, with Sedge at his heel, and offers her any help he has.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
