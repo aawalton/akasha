@@ -13,7 +13,7 @@ export const overwhereIiDepthsAndDescent = {
     },
     {
       fact: "Depths run from the Surface through First Depth, Second Depth and deeper.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The Ninth Depth appears to be the deepest.",

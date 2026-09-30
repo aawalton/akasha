@@ -26,7 +26,7 @@ export const overwhereIiWendleFord = {
     },
     {
       fact: "The shrine to Threll holds a tithe vessel of glowing Water, kept by Keeper Anselm.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Goody Brannoc, herbwife and the valley's only healer, lives by the mill race.",
@@ -103,6 +103,10 @@ export const overwhereIiWendleFord = {
     {
       fact: "The shrine's tithe vessel is an old Aberrant chamber the faithful fill with their Water.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Threll's shrine lies across the green; inside it is cool and dim, a bench beside the altar vessel.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Place

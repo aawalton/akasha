@@ -117,7 +117,7 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "Anselm can teach Nala the Keepers' daily practice of refining skin and muscle.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Coming up the river lane on day two, Anselm meets Nala on her way to the Ford.",
@@ -181,6 +181,18 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "The Keepers teach that no one Descends until the body is refined enough to bear it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "The Keepers teach every Talent draws from the Sea and grows by Depths, each reached by a Descent.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "At the shrine Anselm asked Nala to try the skin practice with him then, her left arm first.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "On day two Nala told Anselm she was free for a few hours, and he took her to the shrine to teach.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
