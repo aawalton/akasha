@@ -4,6 +4,7 @@ export const overwhereI00024 = {
   id: "01a0f221-99c5-7fd4-867f-3bc81de52393",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-024",
+  cover: "image/image-9f07c3deba31147e",
   ownLength: 189,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -35,6 +36,6 @@ export const overwhereI00024 = {
     "place/overwhere-i-fenwatch",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-30T08:29:00.000Z",
 } as const satisfies StoryTurnPlayed
