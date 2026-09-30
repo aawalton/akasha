@@ -166,7 +166,7 @@ export const overwhereIiUndertow = {
     },
     {
       fact: "Refining with Undertow, the nettles, scald and numbness come together in one hard, searing wave.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Driven too hard into her skin, Undertow's push beads blood at her pores; held steady, it does not.",
