@@ -41,7 +41,7 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "Anselm felt a vast drawing of Water in the hills at dawn on day one, and it frightened him.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Anselm felt Nala's hour at the mill as a slow tide in the village, and goes to find its source.",
