@@ -120,5 +120,9 @@ export const overwhereIStarfallLegacy = {
       fact: "A wide water hold feels what moves in its free water as pushes against the hold, not as shapes.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Telling a lurker from eels by feel in a wide water hold is a moderate act, not Surge-eased.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
