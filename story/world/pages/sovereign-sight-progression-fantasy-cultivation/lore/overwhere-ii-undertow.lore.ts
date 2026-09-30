@@ -158,7 +158,7 @@ export const overwhereIiUndertow = {
     },
     {
       fact: "Undertow can move Nala's own Water within her, pushing it out along her threads and into her flesh.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Pushing and pulling her Water into her skin at once refines it four times faster than the practice.",
