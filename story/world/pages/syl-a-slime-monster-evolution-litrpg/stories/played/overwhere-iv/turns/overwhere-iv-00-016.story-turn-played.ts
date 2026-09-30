@@ -28,5 +28,6 @@ export const overwhereIv00016 = {
     '"I know he\'s dead."',
   ],
   lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-oswin-pike"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T19:35:00.000Z",
 } as const satisfies StoryTurnPlayed
