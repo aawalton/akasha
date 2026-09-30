@@ -142,7 +142,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "A refining lost partway wears Nala's mind as much as a finished one.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The tide closed the scrape over Nala's ribs before it slipped; the deep bruise under it remains.",
