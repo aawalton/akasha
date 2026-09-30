@@ -36,5 +36,6 @@ export const overwhereIv00010 = {
     "Out past the willows, the mill wheel creaks on. Nobody has come. The three slimes wait at her feet.",
   ],
   lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-millbrook-common"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-29T15:33:00.000Z",
 } as const satisfies StoryTurnPlayed
