@@ -38,7 +38,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "Refining a limb with Undertow spends a sliver of Nala's well; the Sea refills it within the hour.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Nala's mind, not her Water, limits her refining: two limbs a day before the tide wavers.",
