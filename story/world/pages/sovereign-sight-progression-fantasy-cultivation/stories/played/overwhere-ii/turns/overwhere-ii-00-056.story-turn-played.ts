@@ -7,7 +7,12 @@ export const overwhereIi00056 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 56,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“What can you tell me about Crake? What are his crimes? How does he target victims? What is known about his abilities? Does he work alone?” While we talk, I start reinforcing the skin on my torso, working from my legs upwards.",
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-reeve-corwin-dray-2",
+  ],
 } as const satisfies StoryTurnPlayed
