@@ -4,10 +4,13 @@ export const overwhereIi00037 = {
   id: "01a0f3aa-bfed-72cb-a553-14342755b47b",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-037",
+  ownLength: 260,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 37,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Sure.” This time, I fight more carefully, waiting for an opening to pull or push him off balance when he’s not expecting it, so I can at least tap him somewhere unarmored.",
   beats: [
@@ -30,6 +33,6 @@ export const overwhereIi00037 = {
     'Reeve Dray: "You learn fast. Hunt alone, then, and bring me heads."',
     "Reeve Dray: \"The cart's back by noon, and I'll pay you then. See Hob about that spear meanwhile.\"",
   ],
-  lore: ["lore/overwhere-ii-reeve-corwin-dray"],
+  lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-reeve-corwin-dray"],
   endsAt: "2026-09-30T08:30:00.000Z",
 } as const satisfies StoryTurnPlayed
