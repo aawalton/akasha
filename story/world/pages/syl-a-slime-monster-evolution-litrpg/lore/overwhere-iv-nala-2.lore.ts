@@ -115,5 +115,13 @@ export const overwhereIvNala2 = {
         "lore/overwhere-iv-brookside-four",
       ],
     },
+    {
+      fact: "Nala finished the LV 6 goblin slinger and the LV 4 and LV 3 scouts with her spear.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
   ],
 } as const satisfies Lore
