@@ -191,6 +191,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "Each fresh spell of spyglass watching is another easy act against the watcher catching the glint.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Through a spyglass she can rank the wolves by size, but not read their levels.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
