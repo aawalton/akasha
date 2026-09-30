@@ -7,7 +7,8 @@ export const overwhereIv00034 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 34,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“I’ll do it if you don’t mind. I could definitely use the levels.” I finish the slinger with my spear, then check with Dace for the two scouts, finishing them as well if he approves.",
+  lore: ["lore/overwhere-iv-brookside-four"],
 } as const satisfies StoryTurnPlayed
