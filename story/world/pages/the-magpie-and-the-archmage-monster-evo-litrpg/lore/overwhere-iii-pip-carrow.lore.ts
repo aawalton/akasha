@@ -71,7 +71,7 @@ export const overwhereIiiPipCarrow = {
     },
     {
       fact: "To Nala's sight, the post's thin currents lean toward Pip, as if she drew them without knowing.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Pip stays at the healer's elbow reading along until Marda sends her home at half past four.",
