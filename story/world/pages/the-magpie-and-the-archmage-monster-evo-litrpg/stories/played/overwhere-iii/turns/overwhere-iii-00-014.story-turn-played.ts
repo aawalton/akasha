@@ -29,5 +29,6 @@ export const overwhereIii00014 = {
     "All but one spot: at the base of its antlers, something small still holds a faint glow of its own.",
   ],
   lore: ["lore/overwhere-iii-nala"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-30T09:03:00.000Z",
 } as const satisfies StoryTurnPlayed
