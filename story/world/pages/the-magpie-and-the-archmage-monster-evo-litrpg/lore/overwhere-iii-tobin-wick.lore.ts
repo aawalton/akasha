@@ -56,6 +56,18 @@ export const overwhereIiiTobinWick = {
       fact: "Today he is bound from Applegarth up the north road to Merrowgate, to sell cider and sleep in town.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Tobin Wick is broad and bald, with a sunburnt scalp and a gray beard.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "He drives a two-mule cart loaded with casks and sacks.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "He offered Nala his own coat off his back and a ride to Merrowgate.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

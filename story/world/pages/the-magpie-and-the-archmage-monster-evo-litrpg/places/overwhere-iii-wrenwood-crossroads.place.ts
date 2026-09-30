@@ -80,6 +80,18 @@ export const overwhereIiiWrenwoodCrossroads = {
       fact: "The crossroads is thick with mana: faint currents run along both roads and meet at the shrine.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "The beeches' gold is dry dead leaves, and the air at the crossroads is winter-cold.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "The crossroads shrine has a slate roof.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tobin-wick",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

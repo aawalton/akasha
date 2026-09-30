@@ -104,6 +104,14 @@ export const overwhereIiiNala = {
       fact: "Her profile also reads Glimmerstones: 0, Skills (0/10), Traits (1/10), Class at Level 10.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala is barefoot, in a man's shirt that hangs off her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-tobin-wick",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
