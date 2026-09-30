@@ -75,6 +75,10 @@ export const overwhereIiGarthMarsh = {
       fact: "A leap from a loft landed unhurt tells Garth at once that the stranger is Talented.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's face means nothing to Garth; he has never seen her before.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
