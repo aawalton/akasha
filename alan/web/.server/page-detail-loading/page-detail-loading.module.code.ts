@@ -49,7 +49,7 @@ const NAV_SLUG = "nav"
 const READING_STORY_SLUG = "reading-story"
 const PAGE_TYPE_SLUG = "page-type"
 
-export type Seeds = Readonly<Record<string, unknown>>
+type Seeds = Readonly<Record<string, unknown>>
 
 const NO_SEEDS: Seeds = {}
 
