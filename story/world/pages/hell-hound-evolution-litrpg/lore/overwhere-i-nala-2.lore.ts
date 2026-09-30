@@ -36,5 +36,9 @@ export const overwhereINala2 = {
       fact: "Nala carries sixty grooved slugs in her pack, shaped on the heath's edge on day 2.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "On day 3 Nala smeared black fen muck over her skin and clothes to mask her scent.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore

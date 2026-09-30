@@ -261,7 +261,16 @@ export const overwhereITheGreyfenAlpha = {
     },
     {
       fact: "At 13:02 on day 3 six wolves swam the channel and came at Nala in a wide crescent, 90 seconds out.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-pine-isle-drakewolf-one",
+        "character-other/overwhere-i-pine-isle-drakewolf-two",
+        "character-other/overwhere-i-pine-isle-drakewolf-three",
+        "character-other/overwhere-i-pine-isle-drakewolf-four",
+        "character-other/overwhere-i-pine-isle-drakewolf-five",
+        "character-other/overwhere-i-pine-isle-drakewolf-six",
+      ],
     },
   ],
   secrets: "jsonl",
