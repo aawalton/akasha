@@ -10,11 +10,27 @@ export const overwhereITheGreyfenAlpha2 = {
   facts: [
     {
       fact: "Ghost-Eye, the two biggest and one returned wolf hold the east shore, facing her, till the pups go.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-ghost-eye",
+        "character-other/overwhere-i-pine-isle-drakewolf-six",
+        "character-other/overwhere-i-pine-isle-drakewolf-seven",
+        "character-other/overwhere-i-pine-isle-drakewolf-eight",
+      ],
     },
     {
       fact: "Ghost-Eye gives one long howl as the pups leave; it carries far across the fen.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-ghost-eye",
+        "character-other/overwhere-i-pine-isle-drakewolf-four",
+        "character-other/overwhere-i-pine-isle-drakewolf-five",
+        "character-other/overwhere-i-pine-isle-drakewolf-six",
+        "character-other/overwhere-i-pine-isle-drakewolf-seven",
+        "character-other/overwhere-i-pine-isle-drakewolf-eight",
+      ],
     },
     {
       fact: "The next thing she must answer: at the hummocks' end, 200 yards off, she sees the pups leaving.",
@@ -34,6 +50,32 @@ export const overwhereITheGreyfenAlpha2 = {
     },
     {
       fact: "Within minutes two of the returned wolves lead the pups off the island's west side into deep fen.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-ghost-eye",
+        "character-other/overwhere-i-pine-isle-drakewolf-four",
+        "character-other/overwhere-i-pine-isle-drakewolf-five",
+        "character-other/overwhere-i-pine-isle-drakewolf-six",
+        "character-other/overwhere-i-pine-isle-drakewolf-seven",
+        "character-other/overwhere-i-pine-isle-drakewolf-eight",
+      ],
+    },
+    {
+      fact: "Through day 3's early afternoon every wolf on the island faces the south-east marsh where Nala lies.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-ghost-eye",
+        "character-other/overwhere-i-pine-isle-drakewolf-four",
+        "character-other/overwhere-i-pine-isle-drakewolf-five",
+        "character-other/overwhere-i-pine-isle-drakewolf-six",
+        "character-other/overwhere-i-pine-isle-drakewolf-seven",
+        "character-other/overwhere-i-pine-isle-drakewolf-eight",
+      ],
+    },
+    {
+      fact: "At 13:30 on day 3, from the hummocks' end, Nala saw two wolves lead the pups west off the island.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
