@@ -139,6 +139,10 @@ export const overwhereITheGreyfen = {
       fact: "Jory will vouch for all three reedlurker kills to Agathe once he has seen the third body.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Seeing the third body, Jory whoops, vouches for all three, and promises her a string of smoked eels.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
