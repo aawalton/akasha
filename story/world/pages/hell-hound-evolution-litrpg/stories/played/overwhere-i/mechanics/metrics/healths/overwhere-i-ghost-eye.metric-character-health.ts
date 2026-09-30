@@ -5,7 +5,7 @@ export const overwhereIGhostEye = {
   type: "page-type/metric-character-health",
   slug: "overwhere-i-ghost-eye",
   character: "character-other/overwhere-i-ghost-eye",
-  value: 70,
+  value: 0,
   minValue: 0,
   maxValue: 70,
   displayOrder: 1,
