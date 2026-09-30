@@ -127,6 +127,18 @@ export const overwhereISootjaw = {
       fact: "Its carcass weighs as much as three grown men; two people can only drag it slowly.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's beam burned a neat round hole clean through Sootjaw, chest to back.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Sootjaw's carcass weighs as much as three grown men.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Stewed long, Sootjaw's tough meat would feed half of Fenwatch.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

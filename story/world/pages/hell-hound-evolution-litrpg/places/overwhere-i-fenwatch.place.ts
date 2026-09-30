@@ -143,6 +143,10 @@ export const overwhereIFenwatch = {
       fact: "The dead Brute at the ford is the beast that has been taking Fenwatch's goats.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Fenwatch has a reeve, who pays the bounty on Sootjaw.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

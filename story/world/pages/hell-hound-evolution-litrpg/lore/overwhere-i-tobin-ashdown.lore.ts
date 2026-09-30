@@ -55,6 +55,14 @@ export const overwhereITobinAshdown = {
       fact: "His leather jerkin is too big for him.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Hessa's young companion is named Tobin.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Hessa sent Tobin back to Fenwatch to borrow a cart and tell the reeve the Brute is dead.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

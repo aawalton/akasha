@@ -95,6 +95,18 @@ export const overwhereIHessaVane = {
       fact: "To move the Brute she would skin and quarter it at the ford, and send Tobin for a cart.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Hessa judged Sootjaw Nala's kill after looking over the burn through its chest and back.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Hessa is skinning and quartering Sootjaw at the ford, to be carted to Fenwatch.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "While she skinned the Brute, Hessa asked Nala her name.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

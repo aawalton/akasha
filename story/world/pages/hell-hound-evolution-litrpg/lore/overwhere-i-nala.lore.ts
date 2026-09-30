@@ -221,5 +221,9 @@ export const overwhereINala = {
       fact: "At legacy rank 1 one earth draw moves about a barrow-load of stone.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Nala claimed the Brute's kill and offered it for a village feast in return for help moving it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
