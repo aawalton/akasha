@@ -4,13 +4,14 @@ export const overwhereIi00029 = {
   id: "01a0f359-9edb-7e91-9b7d-be3d2541f8e5",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-029",
+  cover: "image/image-2697bfe06b1870b0",
   ownLength: 407,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 29,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Leave it for morning, I have some things to try then.” In the morning, I check on the wolves and if the bodies are still there, I first see if I can use my Talent to pull the reservoir and push the rest of the wolf to separate them. If that doesn’t work, use it as an exercise, working on it while I saw them free with a knife.",
   beats: [
@@ -47,6 +48,11 @@ export const overwhereIi00029 = {
     "lore/overwhere-ii-undertow",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T06:45:00.000Z",
 } as const satisfies StoryTurnPlayed
