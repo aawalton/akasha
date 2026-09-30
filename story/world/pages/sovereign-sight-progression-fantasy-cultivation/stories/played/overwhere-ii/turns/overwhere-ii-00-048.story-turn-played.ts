@@ -10,7 +10,7 @@ export const overwhereIi00048 = {
   position: 48,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“What do you expect the consequences to be, either way?”",
   beats: [
     'Nala: "What do you expect the consequences to be, either way?"',
@@ -28,6 +28,6 @@ export const overwhereIi00048 = {
     'Anselm: "So: all of it, or the bare bones. Which would you have?"',
   ],
   lore: ["lore/overwhere-ii-keeper-anselm", "lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-30T16:57:00.000Z",
 } as const satisfies StoryTurnPlayed
