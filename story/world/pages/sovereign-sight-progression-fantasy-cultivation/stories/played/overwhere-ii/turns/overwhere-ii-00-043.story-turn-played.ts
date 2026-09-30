@@ -10,7 +10,7 @@ export const overwhereIi00043 = {
   position: 43,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Great, I’ll scout the Whitecombs tomorrow, then we can talk about Oswy Crake after if I’m successful solving the first. Could I borrow a bunk until I leave though? I’d like to stay close while I’m working on these.”",
   beats: [
@@ -29,7 +29,10 @@ export const overwhereIi00043 = {
     "A knock sounds at the open door; Anselm stands there, his orange robes still muddy at the hem.",
     'Anselm: "They told me at the green you\'d be here. You said the shrine, once the Reeve was done?"',
   ],
-  issues: ['"I\'ll ask nothing for it" - Plain Negation'],
+  issues: [
+    '"I\'ll ask nothing for it" - Plain Negation',
+    '"He picks up his mug again." - prose tells an event the beats do not hold',
+  ],
   lore: [
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-reeve-corwin-dray",
@@ -37,6 +40,6 @@ export const overwhereIi00043 = {
     "place/overwhere-ii-watch-cottage",
     "place/overwhere-ii-whitecombs",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T15:28:00.000Z",
 } as const satisfies StoryTurnPlayed
