@@ -267,6 +267,15 @@ function actionIn(body: unknown): { readonly game: string; readonly text: string
   return { game, text }
 }
 
+const SENT_BY_LOG = "[action-bar-sent]"
+
+function sentBySaid(game: string, text: string, body: unknown): string {
+  const said = typeof body === "object" && body !== null ? body : {}
+  const sentBy = (said as { readonly sentBy?: unknown }).sentBy ?? null
+  const at = new Date().toISOString()
+  return JSON.stringify({ at, game, length: text.length, tail: text.slice(-12), sentBy })
+}
+
 async function writtenBy(effects: ActionBarEffects, stated: Stated): Promise<Written> {
   try {
     return await effects.write(stated)
@@ -339,10 +348,12 @@ export async function answerActionBar(
   effects: ActionBarEffects = defaultEffects()
 ): Promise<Response> {
   const answer = answerFor(request)
-  const asked = actionIn(await request.json().catch(() => null))
+  const body: unknown = await request.json().catch(() => null)
+  const asked = actionIn(body)
   if (asked === null) return answer({ ok: false, error: NO_ACTION }, 400)
   const gate = await gateFor(effects, request, asked.game, answer)
   if (!gate.ok) return gate.answered
+  console.info(SENT_BY_LOG, sentBySaid(gate.game, asked.text, body))
   const sent =
     classifyActionBarMessage(asked.text) === FEEDBACK
       ? await fedBack(effects, gate.seat, asked.text, answer)

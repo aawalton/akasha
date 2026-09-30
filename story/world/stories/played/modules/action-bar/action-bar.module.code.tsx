@@ -3,6 +3,7 @@
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import {
+  type SendCause,
   sendsNow,
   Textarea,
   useReturnSends,
@@ -76,6 +77,17 @@ function ActionRow({ text, kind }: { text: string; kind: ActionBarMessageKind })
   )
 }
 
+const SEND_BUTTON: SendCause = { trigger: "button", inputType: null, isComposing: false }
+
+const SENT_UNSEEN: SendCause = { trigger: "unknown", inputType: null, isComposing: false }
+
+function causeOfSubmit(held: SendCause | null, event: FormEvent): SendCause {
+  if (held !== null) return held
+  const submitted = event.nativeEvent
+  const pressed = submitted instanceof SubmitEvent && submitted.submitter !== null
+  return pressed ? SEND_BUTTON : SENT_UNSEEN
+}
+
 function SignedOutNotice() {
   return (
     <p className={NOTE_LINE}>
@@ -116,7 +128,11 @@ export function ActionBar({
   turns.current = turnsSeen
   const toldAt = useRef(turnsSeen)
   const formAt = useRef<HTMLFormElement | null>(null)
-  const returnSends = useReturnSends(() => formAt.current?.requestSubmit())
+  const sentBy = useRef<SendCause | null>(null)
+  const returnSends = useReturnSends((cause) => {
+    sentBy.current = cause
+    formAt.current?.requestSubmit()
+  })
 
   const settle = useCallback((waiting: boolean, askedAt: number) => {
     awaited.current = turnAwaited(awaited.current, turns.current, Date.now(), waiting)
@@ -164,6 +180,9 @@ export function ActionBar({
 
   async function onSubmit(event: FormEvent) {
     event.preventDefault()
+    const cause = causeOfSubmit(sentBy.current, event)
+    sentBy.current = null
+    const boxLength = formAt.current?.querySelector("textarea")?.value.length ?? null
     if (sending) return
     const next = sendingFor(text, pending, echoes, armed)
     if (next === "none") return
@@ -186,7 +205,11 @@ export function ActionBar({
     setText("")
     const echo = echoOf(key, typed, Date.now())
     setEchoes((held) => [...held, echo])
-    const sent = await sendAction({ gameExternalId, text: typed })
+    const sent = await sendAction({
+      gameExternalId,
+      text: typed,
+      sentBy: { ...cause, length: typed.length, boxLength },
+    })
     if (sent.ok) {
       setEchoes((held) => echoWritten(held, key, sent.id, Date.now()))
       if (awaitsTurn([echo])) {
@@ -236,6 +259,11 @@ export function ActionBar({
             onKeyDown={(event) => {
               if (!sendsNow(event)) return
               event.preventDefault()
+              sentBy.current = {
+                trigger: "enter-keydown",
+                inputType: null,
+                isComposing: event.nativeEvent.isComposing,
+              }
               event.currentTarget.form?.requestSubmit()
             }}
             rows={1}

@@ -1,5 +1,6 @@
 import { apiFetch } from "akasha/alan/web/modules/api-fetch/api-fetch.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
+import type { SendCause } from "akasha/design/interface/primitive/modules/textarea/textarea.module.code.tsx"
 import { ACTION_BAR_MESSAGE_KINDS } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 import type { PlayerActionInput } from "akasha/story/ui/modules/system-choice-card/system-choice-card.module.code.tsx"
 import type { PendingAction } from "akasha/story/world/stories/played/modules/action-bar-state/action-bar-state.module.code.ts"
@@ -29,10 +30,14 @@ async function bodyOf(answered: Response): Promise<Readonly<Record<string, unkno
   }
 }
 
-export async function sendAction(
-  input: PlayerActionInput,
-  fetching: Fetching = apiFetch
-): Promise<Sent> {
+type SentBy = SendCause & {
+  readonly length: number
+  readonly boxLength: number | null
+}
+
+type ActionSent = PlayerActionInput & { readonly sentBy?: SentBy }
+
+export async function sendAction(input: ActionSent, fetching: Fetching = apiFetch): Promise<Sent> {
   try {
     const answered = await fetching(ACTION_BAR_AT, {
       method: "POST",
