@@ -199,6 +199,10 @@ export const overwhereIiGarthMarsh = {
       fact: "When the she-wolf fell, Garth opened Marsh Croft's door with a lantern and stood staring.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Garth would wash wolf spit and salt from Nala's half-healed bite before she tries more.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

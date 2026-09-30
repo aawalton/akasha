@@ -260,6 +260,14 @@ export const overwhereIiNala = {
       fact: "Rid of its sourness, the crescent bite on Nala's left forearm is clean but still open and bleeding.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Nala's crescent bite is sealed pink at its ends, its middle still open, raw and weeping.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Half-healed, Nala's bite no longer throbs deep; it aches only like a scraped knee.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
