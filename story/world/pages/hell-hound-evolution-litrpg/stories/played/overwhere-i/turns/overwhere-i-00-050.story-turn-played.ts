@@ -4,7 +4,7 @@ export const overwhereI00050 = {
   id: "01a0f42c-cae4-7f18-b1ce-9207300ff6d7",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-050",
-  ownLength: 169,
+  ownLength: 173,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 50,
@@ -16,7 +16,7 @@ export const overwhereI00050 = {
     "character-other/overwhere-i-pine-isle-drakewolf-seven",
     "character-other/overwhere-i-pine-isle-drakewolf-eight",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "I launch a bullet at Ghost Eye from where I am, as accurate as I can make it, but with as much power as I can give it, to see if he will approach or retreat.",
   beats: [
