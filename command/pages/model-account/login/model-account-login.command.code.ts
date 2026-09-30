@@ -6,6 +6,7 @@ import {
   filePushedTo,
 } from "akasha/agent/model/account/modules/credential-file/model-account-credential-file.module.code.ts"
 import { everyAccountSlugIn } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
+import { ACTING_NAMED } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { configDirForAccount } from "akasha/agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { account } from "akasha/command/argument/pages/account.argument.ts"
@@ -103,6 +104,9 @@ export function scopedOf(slug: string, at: number, args: readonly string[]): rea
     `--unit=${SCOPE_PREFIX}${slug}-${String(at)}`,
     "-p",
     `RuntimeMaxSec=${String(SIGN_IN_MAX_SECONDS)}`,
+    "env",
+    "-u",
+    ACTING_NAMED,
     ...args,
   ]
 }
