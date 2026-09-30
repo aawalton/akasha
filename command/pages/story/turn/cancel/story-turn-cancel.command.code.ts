@@ -35,6 +35,11 @@ import {
   seatsStopped,
   undoneOf,
 } from "akasha/command/pages/story/turn/rewind/story-turn-rewind.command.code.ts"
+import {
+  type Drafting,
+  draftedBeside,
+  draftedFor,
+} from "akasha/command/pages/story/turn/take-back/story-turn-take-back.command.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
@@ -75,12 +80,14 @@ const HISTORY_HELD = "jsonl"
 
 const BREAK = "\n"
 
-export type Cancelling = Rewinding & {
-  readonly valueAt: (root: string, path: string) => Value | null
-}
+export type Cancelling = Rewinding &
+  Drafting & {
+    readonly valueAt: (root: string, path: string) => Value | null
+  }
 
 const CANCELS: Cancelling = {
   ...REWOUND,
+  draft: draftedBeside,
   valueAt: (root, path) => valueAt(path, root),
 }
 
@@ -346,6 +353,7 @@ async function heldOn(
     ],
     faults: [],
   }
+  draftedFor(reach, given.root, held.game, turn, after)
   seatsStopped(reach, given.root, held.game, after)
   if (reach.release(given.root, turn.at)) after.report.push(`discarded\tthe recorders' kept edits`)
   await noticesOf(reach, given.root, held.game, turn.at, after)

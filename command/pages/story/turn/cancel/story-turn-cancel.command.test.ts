@@ -56,7 +56,16 @@ function nothingDone(into: Seen) {
   expect(into.stops).toEqual([])
   expect(into.releases).toEqual([])
   expect(into.notices).toEqual([])
+  expect(into.drafts).toEqual([])
 }
+
+test("a cancel puts the turn's action back in its story's action draft, as typed", async () => {
+  const into = seen()
+  const answer = await cancelledBy([], turnAt("world-builder"), into)
+  expect(answer.refusals).toEqual([])
+  expect(into.drafts).toEqual(["the-saga: I open the gate"])
+  expect(answer.report).toContain("drafted\tthe-saga\tthe action, back in the action bar")
+})
 
 test("a cancel at game-master takes the turn's page and every file beside it away in one landing", async () => {
   const into = seen()

@@ -90,10 +90,11 @@ export type Seen = {
   readonly notices: string[]
   readonly releases: string[]
   readonly steps: string[]
+  readonly drafts: string[]
 }
 
 export function seen(): Seen {
-  return { folded: [], asked: [], stops: [], notices: [], releases: [], steps: [] }
+  return { folded: [], asked: [], stops: [], notices: [], releases: [], steps: [], drafts: [] }
 }
 
 export type Story = {
@@ -157,6 +158,10 @@ export function reachOver(turn: Turn, into: Seen, story: Story = {}): Cancelling
     addingOf: async () => () => [],
     pageAt: () => null,
     valueAt: (_root, path) => (path === HEALTH_AT ? HEALTH : null),
+    draft: (_root, game, action) => {
+      into.drafts.push(`${game}: ${action}`)
+      return null
+    },
   }
 }
 

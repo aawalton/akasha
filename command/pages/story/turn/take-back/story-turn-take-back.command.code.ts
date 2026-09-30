@@ -65,7 +65,7 @@ export type TakingBack = Rewinding &
     readonly draft: (root: string, game: string, action: string) => string | null
   }
 
-function draftedBeside(root: string, game: string, action: string): string | null {
+export function draftedBeside(root: string, game: string, action: string): string | null {
   const story = listedAt(root, storyPlayed.slug, game)[0]
   if (story === undefined) return `\`${game}\` names no played story here`
   try {
@@ -124,7 +124,9 @@ async function noticesOf(
   return undefined
 }
 
-function draftedFor(reach: TakingBack, root: string, game: string, turn: Turn, after: Told) {
+export type Drafting = { readonly draft: TakingBack["draft"] }
+
+export function draftedFor(reach: Drafting, root: string, game: string, turn: Turn, after: Told) {
   const action = textAt(turn.value, ACTION)
   if (action === null || action.trim() === "") return
   const why = reach.draft(root, game, action)

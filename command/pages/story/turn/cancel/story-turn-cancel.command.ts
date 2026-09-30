@@ -87,6 +87,10 @@ export const storyTurnCancel = {
       statement: "A notice that fails after the landing is told, and undoes nothing.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A cancel puts the turn's action in its story's action draft once it lands.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement:
         "A story states no current turn, so nothing but the turn's own page is changed for it.",
