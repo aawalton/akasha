@@ -10,4 +10,5 @@ export const overwhereIii00014 = {
   stepStatus: "step-status/game-master",
   action:
     "I keep me distance and hit it with mana lash against and try to dodge whatever attack it is making, since I can see it coming.",
+  endsAt: "2026-09-30T09:03:00.000Z",
 } as const satisfies StoryTurnPlayed
