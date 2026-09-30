@@ -95,5 +95,9 @@ export const overwhereIiGreymaws = {
       fact: "Greymaw jaws can tear Nala's tough skin; she can draw any rot from such a wound herself.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala drained three greymaws dead in the lane at Marsh Croft at dusk on day one.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
