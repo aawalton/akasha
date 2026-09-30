@@ -103,6 +103,10 @@ export const overwhereIAgatheMorrow = {
       fact: "The boar's hide and meat are Nala's; she'd buy the meat for the village at two silver.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Mornings she keeps the tallies at the Stag's long table while the village is out at work.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
