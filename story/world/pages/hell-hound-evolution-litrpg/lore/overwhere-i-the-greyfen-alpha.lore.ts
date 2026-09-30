@@ -11,10 +11,7 @@ export const overwhereITheGreyfenAlpha = {
       fact: "Ghost-Eye is the wild Drakewolf alpha of the Greyfen, named by Fenwatch for its milky left eye.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Analyze shows it as Drakewolf - Level 21.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+    { fact: "Analyze shows it as Drakewolf - Level 21.", knowers: ["lore-disclosure/game-master"] },
     {
       fact: "It is half again the size of a common Drakewolf, scarred grey-green, with a lizard muzzle and crest.",
       knowers: ["lore-disclosure/game-master"],
@@ -54,6 +51,10 @@ export const overwhereITheGreyfenAlpha = {
     {
       fact: "It is a serious danger, beyond any fighter in Fenwatch, and its pack keeps growing.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ghost-Eye, a big Drakewolf alpha with a milky left eye, leads a pack that holds the middle fen.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
