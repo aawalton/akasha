@@ -26,7 +26,12 @@ export const overwhereIiiCobFerrow = {
     },
     {
       fact: "Cob brings his aunt Maud's 10 copper knotted in a rag, to hand over once the arm is clean.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-cob-ferrow"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-cob-ferrow",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
     },
     {
       fact: "One pull clears Cob's scratch; it is shallow enough to close by itself without a Mending Weave.",
