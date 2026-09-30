@@ -222,6 +222,10 @@ export const overwhereIiiMerrowgateGuildPost = {
       fact: "The rules book covers Guild ranks, quest terms, the bounty table, and what a ring does.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The beast guide opens on small game: jackalope, snow hare, frost toad, ridge fox, each sketched.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
