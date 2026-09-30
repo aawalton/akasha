@@ -93,11 +93,11 @@ export const overwhereIvTheTangle = {
     },
     {
       fact: "A thrown Rift Rend is a thin black-purple line, laid at the very spot she fixes her eye on.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "A thrown rend parts yew boughs in its line as easily as flesh, and they fall.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "A runner that gets away brings a dozen goblins back to the hollow within the hour.",
@@ -146,6 +146,18 @@ export const overwhereIvTheTangle = {
         "character-player/overwhere-iv-nala",
         "lore/overwhere-iv-brookside-four",
       ],
+    },
+    {
+      fact: "Nala's thrown Rift Rend cut the fleeing LV 2 goblin runner in two among the yews.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Seeing the runner fall, the two hurt goblin scouts shrank back behind the penned sheep.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "The singed slinger rose atop the fallen oak and whirled its sling at Nala, not at Dace.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
   secrets: "jsonl",

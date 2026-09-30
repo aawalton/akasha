@@ -259,5 +259,13 @@ export const overwhereIvBrooksideFour = {
       fact: "Merrit, busy with the slinger, saw only a bough fall, and thinks the recruit got lucky.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Wren reached the hollow's edge, stared at the bough Nala's rend cut, and said \"Gods above.\"",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
+    },
   ],
 } as const satisfies Lore
