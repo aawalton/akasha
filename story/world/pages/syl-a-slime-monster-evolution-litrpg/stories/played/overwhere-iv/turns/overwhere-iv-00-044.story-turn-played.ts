@@ -10,4 +10,5 @@ export const overwhereIv00044 = {
   stepStatus: "step-status/game-master",
   action: "“Great! I’ll read the handbook first.”",
   lore: ["lore/overwhere-iv-guild-handbook", "lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2"],
+  endsAt: "2026-10-02T10:38:00.000Z",
 } as const satisfies StoryTurnPlayed
