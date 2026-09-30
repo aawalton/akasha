@@ -167,6 +167,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "A reedlurker has 20 health and slick hide warding 1; it strikes from under water and drags prey in.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The three reedlurkers at Jory's traps are Level 9, 10 and 12.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
