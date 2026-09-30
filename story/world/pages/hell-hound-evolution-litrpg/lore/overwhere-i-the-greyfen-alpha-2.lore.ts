@@ -96,7 +96,7 @@ export const overwhereITheGreyfenAlpha2 = {
     },
     {
       fact: "Missed, Ghost-Eye stands its ground snarling; the shore wolves hold until the pups are clear.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "A hit at a cost only grazes it, for half harm, and it still comes at her with the three.",
