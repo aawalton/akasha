@@ -4,6 +4,7 @@ export const overwhereIii00027 = {
   id: "01a0f369-82b3-70b9-8190-6d93be0ce51b",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-027",
+  cover: "image/image-beb0e824af3e2d0f",
   ownLength: 100,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -13,7 +14,7 @@ export const overwhereIii00027 = {
     "character-player/overwhere-iii-nala",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“I’d like to, but my mana is running on empty already. I don’t have a big supply. Unless you have something to solve that, I might have to wait until morning…”",
   beats: [
@@ -28,6 +29,11 @@ export const overwhereIii00027 = {
   issues: ['"She pushes it an inch toward you" - prose tells an event the beats do not hold'],
   lore: ["lore/overwhere-iii-brannagh-tull", "lore/overwhere-iii-nala"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T17:49:00.000Z",
 } as const satisfies StoryTurnPlayed
