@@ -4,6 +4,7 @@ export const overwhereI00032 = {
   id: "01a0f367-861c-70cb-af9e-37195d6ba31c",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-032",
+  cover: "image/image-2412a5a169cb1309",
   ownLength: 143,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -13,7 +14,7 @@ export const overwhereI00032 = {
     "character-player/overwhere-i-nala",
     "character-other/overwhere-i-reedlurker-of-the-first-holt",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I attune water and try to pull the water out of the creature itself to dehydrate it. If that doesn’t work, I attune air and fire and rapidly heat it up instead.",
   beats: [
@@ -34,6 +35,11 @@ export const overwhereI00032 = {
     "place/overwhere-i-the-greyfen",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T10:52:00.000Z",
 } as const satisfies StoryTurnPlayed
