@@ -58,7 +58,7 @@ export const overwhereIiiWrenmarkBeasts = {
     },
     {
       fact: "A jackalope's glow gathers at its antlers a breath before it lunges to butt and bite.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "A jackalope's one glimmerstone sits at the base of its antlers.",

@@ -252,19 +252,19 @@ export const overwhereIiiNala = {
     },
     {
       fact: "Her first shaping of raw current into force earns the skill Current Lash from the System.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Earning it shows: [New skill acquired – Current Lash.]",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "[Current Lash – At [Basic] level, loose raw current as a lash, a shove or a ward.]",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Cleared: [Mana Weaver – At [Basic] level, you see currents and auras. They lend your workings mana.]",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",
