@@ -113,6 +113,10 @@ export const overwhereIiiBetHarrow = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "Bet won't take the healer's coin for her third night's supper: 'Ivy's my cousin. Eat.'",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
