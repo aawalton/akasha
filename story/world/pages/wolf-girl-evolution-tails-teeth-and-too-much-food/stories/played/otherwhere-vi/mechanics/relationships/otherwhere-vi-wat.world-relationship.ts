@@ -7,5 +7,5 @@ export const otherwhereViWat = {
   title: "Nala and Old Wat",
   world: "world/wolf-girl-evolution-tails-teeth-and-too-much-food",
   characters: ["character-player/otherwhere-vi-nala", "character-other/otherwhere-vi-wat"],
-  relationshipPoints: 6,
+  relationshipPoints: 4,
 } as const satisfies WorldRelationship
