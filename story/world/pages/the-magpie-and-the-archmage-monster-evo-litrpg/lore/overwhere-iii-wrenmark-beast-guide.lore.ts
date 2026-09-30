@@ -30,7 +30,7 @@ export const overwhereIiiWrenmarkBeastGuide = {
     },
     {
       fact: "Thornwing owl, Level 6-10: hunts by night and throws quills. Fletchers pay 1 copper a quill.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Wolf, Level 6-12: runs in packs of four to eight. Pelt 15 copper; this winter's bounty 20 a head.",
