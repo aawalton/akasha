@@ -357,7 +357,6 @@ export const overwhereIiiBrannaghTull = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
-
     {
       fact: "The receipt book's last third is draughts: mana draught, a sleeping draught, a fever tonic.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
@@ -374,7 +373,11 @@ export const overwhereIiiBrannaghTull = {
     },
     {
       fact: "Brannagh never brewed a mana draught: her own mana is too little to make one take.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "One jackalope's antlers, ground, make two mana draughts, each filling a small store of mana.",
