@@ -220,6 +220,10 @@ export const overwhereIiiWrenwood = {
       fact: "Nala's one Current Lash by the brook killed both antlered rabbits in the open.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "The lash's end bruised three brookside frostcaps gray; enough good ones stand for five more.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
