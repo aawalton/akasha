@@ -325,6 +325,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "After the three die, every wolf on the island watches the south-east marsh where she lies.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Creeping along the hummocks under those eyes is a hard act; past the hummocks she is seen at once.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
