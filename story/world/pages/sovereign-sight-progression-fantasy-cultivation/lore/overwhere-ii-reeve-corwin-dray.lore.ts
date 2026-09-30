@@ -261,7 +261,7 @@ export const overwhereIiReeveCorwinDray = {
     },
     {
       fact: "Dray knows a black pool smelling of the sea for a tidepool; he saw one on the coast as militia.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray knows tidepools draw Aberrants in, and turn beasts that linger by them.",
