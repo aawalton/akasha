@@ -7,5 +7,6 @@ export const overwhereIiiGuildLoanBoots = {
   title: "Worn Boots",
   story: "story-played/overwhere-iii",
   character: "character-player/overwhere-iii-nala",
+  slot: "item-slot/feet",
   description: "Old leather boots from the Guild post's gear box, lent by Marda like the knife.",
 } as const satisfies StoryItem
