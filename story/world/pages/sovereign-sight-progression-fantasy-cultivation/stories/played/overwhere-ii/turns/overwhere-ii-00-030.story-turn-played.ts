@@ -4,13 +4,14 @@ export const overwhereIi00030 = {
   id: "01a0f366-6de0-7702-9b15-7ab0857da320",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-030",
+  cover: "image/image-742a662a11fd869b",
   ownLength: 262,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 30,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I was with Garth and then go present the results to the Reeve",
   beats: [
     "Nala eats porridge with Garth and Wren at the table and drinks two cups of water straight off.",
@@ -36,6 +37,11 @@ export const overwhereIi00030 = {
     "place/overwhere-ii-wendle-ford",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T07:25:00.000Z",
 } as const satisfies StoryTurnPlayed
