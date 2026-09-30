@@ -10,7 +10,7 @@ export const overwhereIii00013 = {
   position: 13,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I go to harvest the frostcaps. If the beast attacks, I put the knife through the top of its mouth. If the mana glow starts moving, I use my mana weaving to disrupt it.",
   beats: [
@@ -30,7 +30,6 @@ export const overwhereIii00013 = {
     "The antlers hit her forearm and teeth close on it; the bite goes deep enough to bleed.",
     "She wrenches free. The rabbit tumbles back into the roots, blood on its gray-brown jaw.",
     "Her forearm throbs and bleeds down her wrist; her mana feels a little lower.",
-    "The current still runs past the beech, close enough to reach.",
     "Backed into the roots again, the rabbit's glow begins to gather at its antlers once more.",
   ],
   issues: ['"The current still runs past the beech, close enough to reach." - No Prompt'],
