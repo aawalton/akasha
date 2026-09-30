@@ -4,10 +4,17 @@ export const overwhereIii00046 = {
   id: "01a0f482-fe27-78bf-a02c-afbd02fa07f5",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-046",
+  ownLength: 269,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 46,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-pip-carrow",
+    "character-other/overwhere-iii-brannagh-tull",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I go over to Brannagh’s and explain that I’d be happy to fix the scars for free as an act of goodwill, but they come last after injuries and blightstones, and I don’t have much mana to work with. If they have any suggestions for increasing my mana supply or recovery rate, I’m all ears, but otherwise they might have to wait a week or two or schedule with me in advance. I didn’t know they’d be coming today, so I’m already dry from cleansing blightstones.",
   beats: [
@@ -34,6 +41,7 @@ export const overwhereIii00046 = {
     "lore/overwhere-iii-magic",
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-nala-2",
+    "lore/overwhere-iii-pip-carrow",
     "place/overwhere-iii-wrenwood-crossroads",
   ],
   endsAt: "2026-10-03T13:15:00.000Z",
