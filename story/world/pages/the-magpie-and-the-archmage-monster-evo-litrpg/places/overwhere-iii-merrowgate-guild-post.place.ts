@@ -250,6 +250,10 @@ export const overwhereIiiMerrowgateGuildPost = {
       fact: "Reading both Guild books through at the side bench takes an afternoon, till about half past four.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Guild bounty table: a blightstone 1 silver, a seed stone 10 copper, a Wrenmark wolf 20 copper.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
