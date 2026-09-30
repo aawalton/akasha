@@ -138,7 +138,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "If Nala's hold breaks partway, the unfinished refining runs back out of her skin, lost.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "A refining lost partway wears Nala's mind as much as a finished one.",
