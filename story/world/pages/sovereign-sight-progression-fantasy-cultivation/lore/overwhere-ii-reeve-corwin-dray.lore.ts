@@ -171,5 +171,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Wary now of her pull, Dray braces against it, and a sudden push then overbalances him.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Dray leans his weight into every swing; at the end of one his flank is open for a heartbeat.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
