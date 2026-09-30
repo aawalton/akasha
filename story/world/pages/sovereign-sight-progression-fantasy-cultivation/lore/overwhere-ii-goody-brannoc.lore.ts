@@ -101,7 +101,7 @@ export const overwhereIiGoodyBrannoc = {
     },
     {
       fact: "Goody knows of three more rot-sick: Col Ashby, Pim Sallow, and Garth's two ewes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
   secrets: "jsonl",

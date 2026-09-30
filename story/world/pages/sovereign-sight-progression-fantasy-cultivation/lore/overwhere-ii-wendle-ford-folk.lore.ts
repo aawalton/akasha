@@ -49,7 +49,7 @@ export const overwhereIiWendleFordFolk = {
     },
     {
       fact: "Col Ashby of the watch lies at the Reeve's house with a greymaw gash gone grey with rot.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Garth says the miller's girl at the Ford, Tansy Horne, was bitten ten days back and is bad.",
@@ -145,11 +145,11 @@ export const overwhereIiWendleFordFolk = {
     },
     {
       fact: "Horne pays his debts to the copper, and would be shamed to give less than a silver bar.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Pim Sallow, a carter's widow at the Ford, has a slow grey rot in her hand from an eel spine.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore

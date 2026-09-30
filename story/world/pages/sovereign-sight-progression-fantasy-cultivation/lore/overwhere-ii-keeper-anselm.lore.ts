@@ -47,6 +47,10 @@ export const overwhereIiKeeperAnselm = {
       fact: "Anselm felt Nala's hour at the mill as a slow tide in the village, and goes to find its source.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A young man in orange robes felt Nala's working from the shrine, like the whole river turning over.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
