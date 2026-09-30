@@ -69,13 +69,13 @@ export type Calls = {
   readonly send: Sending
 }
 
-export type Chapter = {
+type Chapter = {
   readonly slug: string
   readonly position: number
   readonly status: TurnStep | null
 }
 
-export type Started =
+type Started =
   | {
       readonly slug: string
       readonly position: number
@@ -129,7 +129,7 @@ export function chapterAfter(story: string, chapters: readonly Chapter[]): Start
   }
 }
 
-export function chaptersAsked(story: string): Query {
+function chaptersAsked(story: string): Query {
   return {
     pageTypeSlug: storyChapterWritten.slug,
     where: { [STORY]: { is: storyOf(story) } },
@@ -137,7 +137,7 @@ export function chaptersAsked(story: string): Query {
   }
 }
 
-export function storyAsked(story: string): Query {
+function storyAsked(story: string): Query {
   return {
     pageTypeSlug: storyWritten.slug,
     where: { [SLUG]: { is: story } },
