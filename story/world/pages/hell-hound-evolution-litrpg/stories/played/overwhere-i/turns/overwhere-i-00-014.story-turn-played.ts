@@ -7,7 +7,17 @@ export const overwhereI00014 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 14,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I watch her with a bored expression and walk back with the cart, then go with her to get the reward money.",
+  lore: [
+    "lore/overwhere-i-agathe-morrow",
+    "lore/overwhere-i-garrick-pell",
+    "lore/overwhere-i-hessa-vane",
+    "lore/overwhere-i-rowan-coalby",
+    "lore/overwhere-i-sootjaw",
+    "lore/overwhere-i-tobin-ashdown",
+    "place/overwhere-i-fenwatch",
+    "place/overwhere-i-greyback-and-east-road",
+  ],
 } as const satisfies StoryTurnPlayed
