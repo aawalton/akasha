@@ -7,7 +7,13 @@ export const overwhereIi00038 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 38,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Great. All right if I use this guard spear for the hunt? I’d rather not wait three days for them to scatter. I’ll go start a commission with Hob and then start tracking.”",
+  lore: [
+    "lore/overwhere-ii-greymaws",
+    "lore/overwhere-ii-reeve-corwin-dray",
+    "place/overwhere-ii-tarn-screes",
+    "place/overwhere-ii-tarrant-smithy",
+  ],
 } as const satisfies StoryTurnPlayed
