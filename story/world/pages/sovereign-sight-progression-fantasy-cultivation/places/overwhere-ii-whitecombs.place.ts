@@ -125,7 +125,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "Day four is grey and still, low cloud hanging just above the Whitecombs' snow line.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The greymaws' flight from the crag shows as big webbed prints frozen into old ice on the scree.",
