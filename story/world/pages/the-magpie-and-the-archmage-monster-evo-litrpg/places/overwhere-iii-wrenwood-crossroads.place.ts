@@ -108,6 +108,10 @@ export const overwhereIiiWrenwoodCrossroads = {
       fact: "The crossroads shrine's stone is warm to sit against, even in the winter cold.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Resting within a hundred paces of the shrine, a holy mage's mana comes back twice as fast.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
