@@ -306,6 +306,10 @@ export const overwhereIiiNala = {
       fact: "Nala now has twenty whole frostcaps: four more from the old beech, two from the split beech.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala's bare soles are raw and sore from the long walk back to Merrowgate.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
