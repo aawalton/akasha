@@ -151,5 +151,21 @@ export const overwhereIiWendleFordFolk = {
       fact: "Pim Sallow, a carter's widow at the Ford, has a slow grey rot in her hand from an eel spine.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Sedge Horne pressed on Nala a finger-long silver bar in a leather pouch for saving Tansy.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Aud Horne asked Nala to eat at the mill and sleep in its spare bed.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Col Ashby's greymaw gash is in his leg; the Reeve's house where he lies is by the green.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Pim Sallow took the eel spine in her hand at Threllsnacht.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
