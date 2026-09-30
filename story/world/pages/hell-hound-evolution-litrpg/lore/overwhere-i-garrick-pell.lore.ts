@@ -59,6 +59,10 @@ export const overwhereIGarrickPell = {
       fact: "He heats water for a wooden tub in the back room; a hot bath costs two copper.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "He can break a gold coin into silver and copper from the inn's takings.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
