@@ -8,4 +8,5 @@
 {"propertySlug":"import","fileName":"reviewer.role.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-overwhere-ii-flex-1/iris-reviewer-overwhere-ii-flex-1.seat.ts","id":"01a0f49f-0111-7000-93f3-225889bdd62d"}
+{"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-overwhere-ii-flex-2/iris-reviewer-overwhere-ii-flex-2.seat.ts","id":"01a0f49f-1d3e-7000-8a2e-90703e93c944"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-overwhere-iv-flex-1/iris-reviewer-overwhere-iv-flex-1.seat.ts","id":"01a0f49d-9f57-7000-9d6d-f59d1edfe94b"}
