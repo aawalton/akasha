@@ -4,13 +4,14 @@ export const overwhereI00041 = {
   id: "01a0f3bc-2624-7e89-8a50-0928197b10dc",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-041",
+  cover: "image/image-324651440c1769b2",
   ownLength: 246,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 41,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Thanks for the challenge! That was fun!” I go back to town for another bath and collect my pay for the lurkers, then ask around about the ghost wolves or some such with the larger bounty.",
   beats: [
@@ -40,6 +41,11 @@ export const overwhereI00041 = {
     "place/overwhere-i-fenwatch",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-09-30T13:02:00.000Z",
 } as const satisfies StoryTurnPlayed
