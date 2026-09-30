@@ -4,10 +4,13 @@ export const overwhereIii00022 = {
   id: "01a0f252-9bee-7ebc-8774-9dc01cbe15eb",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-022",
+  ownLength: 179,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 22,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I approach the rabbits from an angle where they’ll have to leave the roots to get to me, then when they are safely clear, I lash at them, aiming across their throats.",
   beats: [
@@ -24,6 +27,10 @@ export const overwhereIii00022 = {
     "She's nearly empty now; the reach inward finds only a thin trickle left.",
     "Two dead rabbits lie on the frosted ground, a faint glow at the base of each one's antlers.",
   ],
-  lore: ["lore/overwhere-iii-wrenmark-beasts", "place/overwhere-iii-wrenwood"],
+  lore: [
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-wrenmark-beasts",
+    "place/overwhere-iii-wrenwood",
+  ],
   endsAt: "2026-09-30T15:14:00.000Z",
 } as const satisfies StoryTurnPlayed
