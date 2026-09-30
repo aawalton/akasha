@@ -16,7 +16,7 @@ export const overwhereI00051 = {
     "character-other/overwhere-i-pine-isle-drakewolf-seven",
     "character-other/overwhere-i-pine-isle-drakewolf-eight",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I fire an artillery shot again, seeing if I can hit Ghost-Eye this time",
   beats: [
     "Nala draws another slug and pours two weaves into it, the cost dragging hard on her mana.",
@@ -29,11 +29,12 @@ export const overwhereI00051 = {
     "She loses sight of both at once; the reeds along the channel stand still.",
     "On the shore Ghost-Eye and the last wolf stand watching her, and stay where they are.",
   ],
+  issues: ['"stand watching you, and stay where they are" - No Prompt'],
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
     "lore/overwhere-i-the-greyfen-alpha-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-01T13:32:00.000Z",
 } as const satisfies StoryTurnPlayed
