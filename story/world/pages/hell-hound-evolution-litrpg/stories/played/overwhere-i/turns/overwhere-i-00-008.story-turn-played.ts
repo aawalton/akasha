@@ -4,13 +4,14 @@ export const overwhereI00008 = {
   id: "01a0f169-4989-7910-b66c-c4459b7fd1fb",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-008",
+  cover: "image/image-8a5aa7fbfcce80cb",
   ownLength: 456,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 8,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Okay, 10% every 10 minutes, or just under two hours to full. Not too bad. I have water, let’s see what we can do about shelter.” I attune to Earth again and this time I focus on constructing small but solid dome of stone around me, with the",
   beats: [
@@ -44,6 +45,6 @@ export const overwhereI00008 = {
   ],
   lore: ["lore/overwhere-i-hessa-vane", "lore/overwhere-i-nala", "place/overwhere-i-greyfen-ford"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-29T11:05:00.000Z",
 } as const satisfies StoryTurnPlayed
