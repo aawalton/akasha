@@ -196,6 +196,10 @@ export const overwhereIiNala = {
       fact: "Her voice is higher and lighter than Alan's was, a woman's voice, a little husky.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "A drop of ten or twelve feet is nothing to her; she lands light and sure, with no jar.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
