@@ -127,5 +127,9 @@ export const overwhereIiGreymaws = {
       fact: "With the she-wolf dead, the five greymaws left in the screes lose heart and scatter.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The rest of the pack fled howling up the screes toward the tarn, and did not come back.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
