@@ -27,8 +27,6 @@ export const metricCharacterResource = {
     "page-type/otherwhere-iv-health",
     "page-type/otherwhere-v-health",
     "page-type/otherwhere-vii-health",
-    "page-type/otherwhere-viii-health",
-    "page-type/otherwhere-viii-arcana",
     "page-type/otherwhere-vii-mana",
     "page-type/otherwhere-ix-stat-points",
     "page-type/overwhere-iv-health",
