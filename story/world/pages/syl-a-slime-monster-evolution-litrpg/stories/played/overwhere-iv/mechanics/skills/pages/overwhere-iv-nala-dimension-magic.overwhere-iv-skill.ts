@@ -9,8 +9,8 @@ export const overwhereIvNalaDimensionMagic = {
   description: "Magic that folds space, shifting a thing straight toward her or away from her.",
   character: "character-player/overwhere-iv-nala",
   skill: "world-skill/overwhere-iv-dimension-magic",
-  level: 2,
-  reachPaces: 30,
+  level: 3,
+  reachPaces: 40,
   manaCost: 5,
   durationMinutes: 0,
 } as const satisfies OverwhereIvSkill

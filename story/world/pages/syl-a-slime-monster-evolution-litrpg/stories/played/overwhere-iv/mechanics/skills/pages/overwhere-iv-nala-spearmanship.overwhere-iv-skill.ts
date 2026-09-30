@@ -9,5 +9,5 @@ export const overwhereIvNalaSpearmanship = {
   description: "Skill with the spear: thrust, guard and reach.",
   character: "character-player/overwhere-iv-nala",
   skill: "world-skill/overwhere-iv-spearmanship",
-  level: 1,
+  level: 2,
 } as const satisfies OverwhereIvSkill
