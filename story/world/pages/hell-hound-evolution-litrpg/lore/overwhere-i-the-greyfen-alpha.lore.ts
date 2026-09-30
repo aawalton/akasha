@@ -159,6 +159,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "On day 3 the pack's watcher gazed toward Nala in the dead alders and did not stir.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Bare-eyed at six hundred yards the pack is grey specks; she sees movement, not which wolf.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
