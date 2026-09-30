@@ -59,6 +59,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Wendlow's Hunters' Board offers thirty gold for Voss and two gold for each of his crew.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Harl Voss and a dozen-odd deserters hold Cutter's Quarry, a day east, and toll the road.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
