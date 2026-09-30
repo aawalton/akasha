@@ -10,4 +10,5 @@ export const overwhereIi00015 = {
   stepStatus: "step-status/game-master",
   action: "“Yes, if you’ll take me.”",
   lore: ["lore/overwhere-ii-wendle-ford-folk", "place/overwhere-ii-wendle-ford"],
+  endsAt: "2026-09-29T09:58:00.000Z",
 } as const satisfies StoryTurnPlayed
