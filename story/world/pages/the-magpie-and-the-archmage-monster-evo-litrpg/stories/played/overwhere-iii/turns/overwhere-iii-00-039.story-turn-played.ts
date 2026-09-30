@@ -10,7 +10,7 @@ export const overwhereIii00039 = {
   position: 39,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Are there any books in town? I’d like to spend the afternoon learning, and I’d hate to pester people with questions if I don’t need to.”",
   beats: [
@@ -30,6 +30,6 @@ export const overwhereIii00039 = {
     "place/overwhere-iii-merrowgate",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-01T12:27:00.000Z",
 } as const satisfies StoryTurnPlayed
