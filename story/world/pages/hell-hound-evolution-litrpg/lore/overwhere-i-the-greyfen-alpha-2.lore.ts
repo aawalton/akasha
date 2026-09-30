@@ -264,5 +264,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "About 13:33 on day 3 four slugs killed the two biggest wolves as they burst from the reeds at her.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "About 13:36 on day 3 five of Nala's slugs killed Ghost-Eye as it swam the channel, 70 yards off.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
