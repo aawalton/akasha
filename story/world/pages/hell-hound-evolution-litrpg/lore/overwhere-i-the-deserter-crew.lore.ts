@@ -57,7 +57,7 @@ export const overwhereITheDeserterCrew = {
     },
     {
       fact: "Wendlow's Hunters' Board offers thirty gold for Voss and two gold for each of his crew.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Harl Voss and a dozen-odd deserters hold Cutter's Quarry, a day east, and toll the road.",
