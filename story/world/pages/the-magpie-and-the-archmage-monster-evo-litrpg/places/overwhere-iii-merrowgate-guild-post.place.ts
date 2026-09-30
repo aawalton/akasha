@@ -80,7 +80,7 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "Bounty blightstones sit in a lead-lined box under the desk until the Thornmere wagon takes them.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "At turn-in Marda counts the goods, pays from the desk's strongbox, and lights the card to log it.",
