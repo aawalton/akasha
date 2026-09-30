@@ -4,10 +4,13 @@ export const overwhereIv00002 = {
   id: "01a0f165-dfc9-799d-9eff-9ba2e1aa89a0",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-002",
+  ownLength: 363,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 2,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala", "lore/overwhere-iv-garrett-pell"],
+  stepStatus: "step-status/reviewers",
   action: "“Hello! I seem to have gotten lost. Could you tell me where I am?”",
   beats: [
     'Nala calls to the cart driver: "Hello! I seem to have gotten lost. Could you tell me where I am?"',
@@ -26,6 +29,10 @@ export const overwhereIv00002 = {
     "Behind Nala in the grass, the melon-sized slime with the red stone bobs back toward her ankle.",
     "Garrett waits on the road, coat held out, one eye on the gate and the sun near straight overhead.",
   ],
-  lore: ["lore/overwhere-iv-garrett-pell", "place/overwhere-iv-millbrook"],
+  lore: [
+    "lore/overwhere-iv-garrett-pell",
+    "lore/overwhere-iv-nala",
+    "place/overwhere-iv-millbrook",
+  ],
   endsAt: "2026-09-29T12:04:00.000Z",
 } as const satisfies StoryTurnPlayed
