@@ -231,5 +231,9 @@ export const overwhereIiGreymaws = {
       fact: "A chamber pierced by a spear is cracked through and sells for half a whole one's price.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "On three legs the last greymaw is slow; Nala runs it down at the tarn's east shore by the old steps.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
