@@ -33,6 +33,10 @@ export const overwhereIiGrowth = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A hard working holds a Talent steady on one task for a quarter hour or more.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Each Depth past Surface takes five more hard workings than the one before.",
     },
     {
