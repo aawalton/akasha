@@ -179,6 +179,10 @@ export const overwhereIiiTobinWick = {
       fact: "Tobin sold out by noon and drinks cider in the Crook and Candle's common room tonight.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-tobin-wick"],
     },
+    {
+      fact: "He leaves for Applegarth at first light tomorrow.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-tobin-wick"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
