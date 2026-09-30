@@ -77,6 +77,10 @@ export const overwhereIiiBetHarrow = {
       fact: "Her box holds no skirt or trousers near Nala's size; the tights under the tunic will serve.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
     },
+    {
+      fact: "Seeing a stray gone gray with hunger, Bet offers supper before she's asked, 3 copper.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
