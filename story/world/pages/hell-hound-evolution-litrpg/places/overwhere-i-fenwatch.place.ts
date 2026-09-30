@@ -311,19 +311,23 @@ export const overwhereIFenwatch = {
     },
     {
       fact: "Jory Weir, a gap-toothed old eel-man, runs the eel traps and the smoking shed by the east gate.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-garrick-pell",
+      ],
     },
     {
       fact: "The eel traps are wicker, sunk in the channels at the fen's edge a half hour north of the ford.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Reedlurkers have torn up half Jory's traps this month, and last week bit his grandson's leg.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Mid-morning Jory Weir is at his smoking shed by the east gate, hanging the night's few eels.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",

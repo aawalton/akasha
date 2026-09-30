@@ -171,6 +171,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "The three reedlurkers at Jory's traps are Level 9, 10 and 12.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Three reedlurkers raid Jory Weir's eel traps by night and tear them up.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

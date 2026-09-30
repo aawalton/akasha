@@ -22,7 +22,7 @@ export const overwhereIStarfallLegacy = {
     },
     {
       fact: "A Weave binds two elements only; a third bound into it makes the whole working slip.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Water and fire woven make steam; air and fire woven make a hot, drying wind.",
@@ -35,6 +35,10 @@ export const overwhereIStarfallLegacy = {
     {
       fact: "Steam and drying wind are uses of Starfall Weave, not new ways; either is an easy act.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala wove fire and wind into a hot, dry wind and dried her washed clothes in about three minutes.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Lore

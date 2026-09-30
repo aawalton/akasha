@@ -38,6 +38,6 @@ export const overwhereI00026 = {
     "place/overwhere-i-fenwatch",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
   endsAt: "2026-09-30T09:34:00.000Z",
 } as const satisfies StoryTurnPlayed
