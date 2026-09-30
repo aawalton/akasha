@@ -195,5 +195,9 @@ export const overwhereIiGreymaws = {
       fact: "A whole Aberrant chamber can be filled with a Talent's own Water, and holds it for years.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The white-eye's cracked chamber would leak away any Water put into it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
