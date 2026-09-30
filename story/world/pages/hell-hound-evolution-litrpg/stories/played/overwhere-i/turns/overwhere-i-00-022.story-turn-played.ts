@@ -7,7 +7,14 @@ export const overwhereI00022 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 22,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I switch to a thin spinning disk of water and use it as a saw blade to cut off just the head, then haul that back to the village.",
+  lore: [
+    "lore/overwhere-i-agathe-morrow",
+    "lore/overwhere-i-greyfen-beasts",
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-starfall-legacy",
+    "place/overwhere-i-fenwatch",
+  ],
 } as const satisfies StoryTurnPlayed
