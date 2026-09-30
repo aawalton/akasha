@@ -176,6 +176,10 @@ export const overwhereIiiWrenwood = {
       fact: "A blue current runs on west to a lightning-split beech with three frostcaps and one gravecap.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The split beech is a quarter hour's walk from the old beech along that current.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
