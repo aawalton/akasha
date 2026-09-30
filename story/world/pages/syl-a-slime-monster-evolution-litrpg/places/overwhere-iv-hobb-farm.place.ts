@@ -133,7 +133,7 @@ export const overwhereIvHobbFarm = {
     },
     {
       fact: "A lone woman who seems afraid draws both goblins on, jabbering and grinning, spear levelled.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The spear goblin stops to jab from its spear's length; it has never met a longer reach.",
@@ -141,11 +141,11 @@ export const overwhereIvHobbFarm = {
     },
     {
       fact: "A goblin that breaks runs for the gap and the Tangle, quick on bare feet over wet grass.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "In the Tangle's dark past the gap, a fleeing goblin is lost within a few strides.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The goblins jabber in their own tongue; spoken to in the common tongue, they only sneer.",
@@ -158,6 +158,14 @@ export const overwhereIvHobbFarm = {
     {
       fact: "Cornered, a hurt goblin fights like a rat; with a way open, it runs deeper in.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The spear goblin dropped its flint spear in the grass of the far field as it fled.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Nala cornered the bleeding knife goblin against a bramble at the Tangle's edge, a low gap behind it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Place

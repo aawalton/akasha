@@ -329,6 +329,26 @@ export const overwhereIvNala = {
       fact: "Reached for, her Spatial Sense spreads to her Dimension Magic's reach for 2 mana a minute.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's folded thrust took the spear goblin in the chest; bleeding hard, it fled into the Tangle.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "The knife goblin's rusty knife opened Nala's forearm above the glove; her reply scored its shoulder.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Fighting the goblins raised Nala's Spearmanship to LV 2 and her Dimension Magic to LV 3.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "At Dimension Magic LV 3 Nala learned the spell Spatial Sense.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Spatial Sense lets Nala feel every shape and hollow within about five paces, without looking.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
