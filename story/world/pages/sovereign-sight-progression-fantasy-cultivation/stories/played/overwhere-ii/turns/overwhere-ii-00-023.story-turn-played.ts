@@ -43,5 +43,6 @@ export const overwhereIi00023 = {
     "She lifts her muzzle and scents the air, as if smelling the sea, and starts down toward her.",
   ],
   lore: ["lore/overwhere-ii-garth-marsh", "lore/overwhere-ii-greymaws", "lore/overwhere-ii-nala"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T18:00:00.000Z",
 } as const satisfies StoryTurnPlayed
