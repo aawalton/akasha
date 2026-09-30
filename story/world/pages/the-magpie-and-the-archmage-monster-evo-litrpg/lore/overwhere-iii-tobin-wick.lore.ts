@@ -189,7 +189,11 @@ export const overwhereIiiTobinWick = {
     },
     {
       fact: "Offered double, Tobin takes back his coat and his eleven copper, and not a copper more.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-tobin-wick"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-tobin-wick",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
   secrets: "jsonl",
