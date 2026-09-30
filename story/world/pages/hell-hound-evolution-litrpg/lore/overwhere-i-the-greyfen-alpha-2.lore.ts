@@ -272,5 +272,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Ghost-Eye's body floats low in the channel and drifts slowly north round the island.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Killing Ghost-Eye, 15 levels above her, does not raise her legacy rank; that needs 20 above.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
