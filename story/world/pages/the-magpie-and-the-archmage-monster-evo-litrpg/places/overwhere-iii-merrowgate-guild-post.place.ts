@@ -198,6 +198,10 @@ export const overwhereIiiMerrowgateGuildPost = {
       fact: "The bounty counts a seed-sized blightstone from a wound as a tenth of a stone: 10 copper.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
+    {
+      fact: "A ringed adventurer may lodge in the post's upstairs rooms at 4 copper a night; one room is free.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
