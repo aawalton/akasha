@@ -179,6 +179,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "At 12:30 on day 3 all nine grown wolves and the three pups are on the island.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The eight grown wolves under Ghost-Eye are Levels 10, 11, 12, 12, 13, 14, 15 and 16.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
