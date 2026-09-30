@@ -108,5 +108,9 @@ export const overwhereIStarfallLegacy = {
       fact: "A hot-wind blast is a Surge strike for harm and bands; a lurker on land makes it an easy act.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A hot-wind blast can shove a beast the size of a man a few yards as it strikes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
