@@ -92,5 +92,9 @@ export const overwhereIStarfallLegacy = {
       fact: "A water working can close round a beast in water and heave it up; holding a live one is hard.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Starfall workings move free water only; the water bound in a living body will not answer them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
