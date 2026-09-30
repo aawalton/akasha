@@ -1,1 +1,2 @@
 {"check":"world-check/overwhere-iii-needs","reading":{"character":"character-player/overwhere-iii-nala","hoursFed":12.8,"hoursAwake":0.3,"cold":"warm","barefootMiles":0},"answered":{"wants":["Hungry"],"penalty":1}}
+{"check":"world-check/overwhere-iii-working","reading":{"own":3,"pull":0,"nearNode":false},"dice":{"said":"1d6","sides":6,"faces":[3]},"seed":"4a7e0aa001bad02eabad0410f8391b58fc4ff623cc821b8dc1069ea465061f7b","answered":{"lent":48,"total":54,"force":"crushing","strain":0}}
