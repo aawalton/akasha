@@ -97,19 +97,19 @@ export const overwhereIvReevesPasture = {
     },
     {
       fact: "Col wants the trunk cut twenty feet from the butt and its limbs taken off along that length.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Four limbs, each a foot thick, grow from the trunk's first twenty feet; the rest are above.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The crown and upper limbs are left for the reeve's men to saw for firewood.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Col keeps a felling axe on the sledge, but his back is too old for oak limbs.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Chained to the sledge, the trimmed trunk takes Col's oxen an hour to drag to the mill yard.",

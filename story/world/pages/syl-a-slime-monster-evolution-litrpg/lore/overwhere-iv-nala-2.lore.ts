@@ -189,5 +189,9 @@ export const overwhereIvNala2 = {
       fact: "A notch is two rends meeting at an angle; the wedge between them drops free.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala told the old herdsman she cut the oak with an armor-piercing spear skill.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore
