@@ -207,6 +207,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "A holt shows as a smooth mud slide into the water, with a small air hole in the reeds above.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "A holt tunnels up from under water into a dry chamber in the bank, below its air hole.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
