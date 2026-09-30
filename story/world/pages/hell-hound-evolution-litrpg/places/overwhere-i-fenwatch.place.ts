@@ -276,6 +276,10 @@ export const overwhereIFenwatch = {
       fact: "Mornings the green is quiet: folk are at the reed beds, charcoal mounds and oat strips.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ending the Grubboar boar a day after Sootjaw raises Fenwatch's regard for Nala.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
