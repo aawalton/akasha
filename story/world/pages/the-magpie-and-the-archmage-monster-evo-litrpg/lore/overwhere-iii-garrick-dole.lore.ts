@@ -73,5 +73,9 @@ export const overwhereIiiGarrickDole = {
       fact: "Clear-headed now, Garrick asks his healer's name, and says slowly that he owes her.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Once clean, Garrick means to give his healer a fleece-lined sheepskin coat off his farm.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
