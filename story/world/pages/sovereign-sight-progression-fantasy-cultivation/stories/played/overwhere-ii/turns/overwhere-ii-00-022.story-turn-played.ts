@@ -7,7 +7,8 @@ export const overwhereIi00022 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 22,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“It’s called Undertow, but I’m still learning what it does. You could help me with that once I’m done with the urgent needs.” I turn to Goody. “One more person, right? Then a nap, then the ewes.”",
+  lore: ["lore/overwhere-ii-keeper-anselm", "lore/overwhere-ii-wendle-ford-folk"],
 } as const satisfies StoryTurnPlayed
