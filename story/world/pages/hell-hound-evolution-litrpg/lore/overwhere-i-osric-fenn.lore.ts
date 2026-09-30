@@ -81,7 +81,7 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Osric says Wendlow alchemists grind drake-pearls into night-sight draughts.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Osric says a mage can drain a drake-pearl like a fat crystal, and calls that burning gold.",
