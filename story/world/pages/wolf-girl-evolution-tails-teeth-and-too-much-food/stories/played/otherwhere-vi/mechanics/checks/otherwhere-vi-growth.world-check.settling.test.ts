@@ -9,6 +9,18 @@ test("a first rabbit lifts a new woman one level", () => {
   ).toEqual({ answered: { gained: 5, levels: 1, level: 2, progress: 0, capped: false } })
 })
 
+test("a second kill is weighed against the level the first lifted her to", () => {
+  expect(
+    settled({
+      ...START,
+      gains: [
+        { kind: "kill", from: "a rabbit", tier: 0, level: 1 },
+        { kind: "kill", from: "a second rabbit", tier: 0, level: 1 },
+      ],
+    })
+  ).toEqual({ answered: { gained: 9, levels: 1, level: 2, progress: 4, capped: false } })
+})
+
 test("prey far below her gives nothing", () => {
   expect(
     settled({

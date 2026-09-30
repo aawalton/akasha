@@ -21,6 +21,11 @@ export const otherwhereViGrowth = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Gains in one reading settle in order, each from the level and progress the one before left.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "Power is a creature's level, plus 10 at Tier 1, 35 at Tier 2, 85 at 3 and 185 at 4.",
     },
     {

@@ -71,24 +71,30 @@ function costOf(tier: number, level: number): number {
   return (FIRST_LEVEL_COST + level) * (tier + 1)
 }
 
+function pointsOf(gain: z.infer<typeof GROWING>["gains"][number], own: number): number {
+  if (gain.kind === "feat") return gain.points
+  const points = killPoints(own, gain.tier, gain.level)
+  if (gain.kind === "meal") return Math.floor(points / MEAL_SHARE)
+  const whole = points * (gain.named ? NAMED_TIMES : 1)
+  return Math.floor(whole / gain.shared)
+}
+
 export function settled(reading: unknown): Settled {
   const held = GROWING.safeParse(reading)
   if (!held.success) return { refused: `growth reads so: ${z.prettifyError(held.error)}` }
   const growing = held.data
   if (growing.level > growing.cap) return { refused: "a level is never past its cap" }
-  const own = power(growing.tier, growing.level)
-  const gained = growing.gains.reduce((sum, gain) => {
-    if (gain.kind === "feat") return sum + gain.points
-    const points = killPoints(own, gain.tier, gain.level)
-    if (gain.kind === "meal") return sum + Math.floor(points / MEAL_SHARE)
-    const whole = points * (gain.named ? NAMED_TIMES : 1)
-    return sum + Math.floor(whole / gain.shared)
-  }, 0)
+  let gained = 0
   let level = growing.level
-  let progress = growing.progress + gained
-  while (level < growing.cap && progress >= costOf(growing.tier, level)) {
-    progress -= costOf(growing.tier, level)
-    level += 1
+  let progress = growing.progress
+  for (const gain of growing.gains) {
+    const points = pointsOf(gain, power(growing.tier, level))
+    gained += points
+    progress += points
+    while (level < growing.cap && progress >= costOf(growing.tier, level)) {
+      progress -= costOf(growing.tier, level)
+      level += 1
+    }
   }
   const capped = level >= growing.cap
   return {
