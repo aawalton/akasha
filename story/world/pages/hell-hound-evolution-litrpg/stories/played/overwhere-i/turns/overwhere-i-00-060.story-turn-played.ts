@@ -29,6 +29,6 @@ export const overwhereI00060 = {
     "lore/overwhere-i-osric-fenn",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-10-01T18:00:00.000Z",
 } as const satisfies StoryTurnPlayed
