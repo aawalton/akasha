@@ -199,6 +199,10 @@ export const overwhereITheGreyfenAlpha = {
       fact: "Ghost-Eye lies apart on a raised root mound; the watcher sits on a fallen trunk at the NE point.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The grown wolves lie spread along forty yards of shade, a few yards in from the island's east edge.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
