@@ -212,5 +212,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "If she breaks cover early, Seven and Eight turn in on her at once, not waiting for 13:38.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At 13:32 Seven is 150 yards north of her and Eight 150 yards south-east, behind her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
