@@ -37,5 +37,6 @@ export const overwhereIv00030 = {
     'Wren sees it too. "Runner!" she shouts. "It\'s going for the rest of them!"',
   ],
   lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2", "place/overwhere-iv-the-tangle"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-01T13:12:00.000Z",
 } as const satisfies StoryTurnPlayed
