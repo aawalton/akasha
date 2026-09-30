@@ -196,6 +196,10 @@ export const overwhereIiiWrenwood = {
       fact: "Past the split beech the blue current brushes a dozen more beech roots on its way to the Wren Brook.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Along that stretch a picker who sees currents finds twenty good frostcaps in about two hours.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
