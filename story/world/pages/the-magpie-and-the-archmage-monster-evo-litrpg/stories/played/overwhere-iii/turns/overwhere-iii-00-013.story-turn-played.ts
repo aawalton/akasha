@@ -4,13 +4,14 @@ export const overwhereIii00013 = {
   id: "01a0f1cd-f205-7bae-b73b-70ae4c40aef5",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-013",
+  cover: "image/image-1548217b114b1af9",
   ownLength: 274,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 13,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I go to harvest the frostcaps. If the beast attacks, I put the knife through the top of its mouth. If the mana glow starts moving, I use my mana weaving to disrupt it.",
   beats: [
@@ -39,6 +40,6 @@ export const overwhereIii00013 = {
     "place/overwhere-iii-wrenwood",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-30T09:01:00.000Z",
 } as const satisfies StoryTurnPlayed
