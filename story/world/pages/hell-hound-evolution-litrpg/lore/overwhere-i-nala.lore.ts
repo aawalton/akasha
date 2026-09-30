@@ -251,11 +251,11 @@ export const overwhereINala = {
     },
     {
       fact: "Water held over a beast's head wounds it not; it drops senseless in two minutes and dies in three.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "A water sphere is a working like any other: two at once at rank 1, renewed each minute at full cost.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Killing the Level 12 old boar while she is Level 2 lifts her legacy to rank 2, Flare.",
@@ -263,7 +263,7 @@ export const overwhereINala = {
     },
     {
       fact: "At Flare the System grants her Starfall Weave, and she can hold three workings at once.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Her water working can lift water from a wallow into a sphere held round a beast's head.",
@@ -276,6 +276,14 @@ export const overwhereINala = {
     {
       fact: "A held working slips if she goes more than about thirty yards from it.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Killing the old boar raised Starfall Surge to level 2 and her legacy to rank 2, Flare.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Her second level-up rush was bigger than the first, and the pressure in her chest seemed to deepen.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Lore

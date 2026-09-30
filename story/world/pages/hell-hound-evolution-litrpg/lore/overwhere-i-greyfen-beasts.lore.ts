@@ -109,11 +109,15 @@ export const overwhereIGreyfenBeasts = {
     },
     {
       fact: "A charging Grubboar is fast for a short burst but blows within a minute; wind-speed outruns it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "When a sounder's old boar falls, the sows break and scatter into the carr instead of fighting on.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Nala drowned the Fenwatch sounder's old boar in its wallow; the four sows fled into the carr.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
