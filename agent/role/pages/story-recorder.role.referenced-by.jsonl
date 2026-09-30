@@ -8,5 +8,6 @@
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-overwhere-i-flex-1/iris-story-recorder-overwhere-i-flex-1.seat.ts","id":"01a0f347-fa54-7000-968a-3dc2835e3311"}
+{"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-overwhere-ii-flex-1/iris-story-recorder-overwhere-ii-flex-1.seat.ts","id":"01a0f348-0104-7000-9183-b651325cf645"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-overwhere-iii-flex-2/iris-story-recorder-overwhere-iii-flex-2.seat.ts","id":"01a0f345-abae-7000-8fb3-6a2de2e16303"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-overwhere-iii-flex-4/iris-story-recorder-overwhere-iii-flex-4.seat.ts","id":"01a0f345-e285-7000-a3ff-79e19a5e68eb"}
