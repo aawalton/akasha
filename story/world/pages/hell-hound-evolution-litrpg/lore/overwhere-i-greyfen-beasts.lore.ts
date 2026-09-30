@@ -315,6 +315,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "Nala's searing hot-wind blast blistered the reedlurker's wet hide; it lived, dragging toward water.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "The Level 10 reedlurker died on the bank to Nala's hot-wind blast at 10:53 on day 2.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
