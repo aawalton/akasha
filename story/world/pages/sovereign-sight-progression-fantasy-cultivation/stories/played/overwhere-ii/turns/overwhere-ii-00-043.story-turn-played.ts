@@ -41,5 +41,6 @@ export const overwhereIi00043 = {
     "place/overwhere-ii-whitecombs",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-09-30T15:28:00.000Z",
 } as const satisfies StoryTurnPlayed
