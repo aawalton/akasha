@@ -36,5 +36,9 @@ export const overwhereIiiMaudFerrow = {
       fact: "Maud's nephew Wat has a blight scratch on his forearm, and she'd pay 10 copper to see it clean.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The drill-mistress is broad, past fifty, gray hair cropped short, with a Guild ring on her hand.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
