@@ -168,6 +168,10 @@ export const overwhereIiiMardaHesk = {
       fact: "By mid-morning Marda has heard about Ivy's hand, and greets Nala with one slow nod.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
+    {
+      fact: "Marda's fourth letter to Thornmere went out with last night's post rider.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
