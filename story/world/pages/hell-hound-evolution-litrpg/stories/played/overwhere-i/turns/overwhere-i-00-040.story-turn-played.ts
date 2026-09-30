@@ -7,9 +7,19 @@ export const overwhereI00040 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 40,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I attune water and pull the beast through its entrance hole, into the water, and then back onto the shore. “Three renders accounted for.”",
+  beats: [
+    "Nala reaches for water and wills it into the flooded tunnel, closing round the heavy weight within.",
+    "It comes easily. She draws it down the tunnel and out through the mouth into the channel.",
+    "The water bulges, and she heaves the body up and swings it onto the bank.",
+    "It lands with a wet thump by Jory: half again the size of the others, scalded pink in patches.",
+    'She lets the water go. "Three lurkers accounted for," she says.',
+    "Jory whoops, loud enough to send birds up out of the reeds.",
+    '"Three! All three, and not a scratch on you." He claps his hands. "I\'ll tell the reeve myself."',
+    '"And you\'ll have a string of my smoked eels for it, and welcome."',
+  ],
   lore: [
     "lore/overwhere-i-greyfen-beasts-2",
     "lore/overwhere-i-starfall-legacy",
