@@ -9,4 +9,5 @@ export const overwhereIiiNala = {
   minValue: 0,
   maxValue: 30,
   history: "jsonl",
+  unrevealed: true,
 } as const satisfies OverwhereIiiHealth
