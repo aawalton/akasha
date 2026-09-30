@@ -75,7 +75,11 @@ export const overwhereIiiBetHarrow = {
     },
     {
       fact: "To a stray paying her way, Bet sells from the box: tunic 3 copper, cloak 5, stockings 1 a pair.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-bet-harrow",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Her box holds no skirt or trousers near Nala's size; the tights under the tunic will serve.",
