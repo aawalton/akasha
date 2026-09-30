@@ -11,4 +11,5 @@ export const overwhereIv00029 = {
   action:
     "“I’ll go with the Four.” I pause for a moment and assign Spellblade as my class, then go and meet up with the Four. “Ready to go. I’ll fight with you as well if you’ll have me. I’m inexperienced, but I can still guard a flank.  Since we don’t know exactly how many there are, could be good to have an extra spear along.”",
   lore: ["lore/overwhere-iv-brookside-four", "place/overwhere-iv-the-tangle"],
+  endsAt: "2026-10-01T13:10:00.000Z",
 } as const satisfies StoryTurnPlayed
