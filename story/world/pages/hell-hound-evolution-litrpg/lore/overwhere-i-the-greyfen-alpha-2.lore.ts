@@ -252,5 +252,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "Ghost-Eye fights to the death once it closes; it does not break as its pack did.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ghost-Eye starts when she is 100 yards off the island: 15 seconds swimming, 25 across the marsh.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
