@@ -24,6 +24,10 @@ export const overwhereIi00049 = {
     'Anselm: "If you keep near, I\'d expect the Keepers to teach you through the year until then."',
     'Anselm: "If you go wandering far, they\'ll only have to find you first."',
   ],
+  issues: [
+    '"he smiles for the first time today" - he gave a small, rueful smile at the shrine in turn 44',
+  ],
   lore: ["lore/overwhere-ii-keeper-anselm", "lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-30T17:02:00.000Z",
 } as const satisfies StoryTurnPlayed
