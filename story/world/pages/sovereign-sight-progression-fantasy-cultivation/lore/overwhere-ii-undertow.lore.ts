@@ -130,7 +130,7 @@ export const overwhereIiUndertow = {
     },
     {
       fact: "Pulling a chamber while pushing the flesh round it tears it free in a few minutes, with a wet crack.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "An empty chamber gives the pull little to hold; she must grip it by the flesh's Water around it.",
