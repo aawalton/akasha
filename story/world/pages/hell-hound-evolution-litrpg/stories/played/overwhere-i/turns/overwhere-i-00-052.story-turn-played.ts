@@ -4,6 +4,7 @@ export const overwhereI00052 = {
   id: "01a0f43f-71fc-738b-84a9-83a765d24445",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-052",
+  cover: "image/image-9bdd986de83563c9",
   ownLength: 318,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -48,6 +49,6 @@ export const overwhereI00052 = {
     "lore/overwhere-i-the-greyfen-alpha-2",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-01T13:36:00.000Z",
 } as const satisfies StoryTurnPlayed
