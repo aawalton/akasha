@@ -4,10 +4,13 @@ export const overwhereI00054 = {
   id: "01a0f458-dfba-7666-aca0-4caff5ea25a2",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-054",
+  ownLength: 123,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 54,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I take the tokens for additional proof and then attune earth and air to scan the content of the den for any remaining wolves.",
   beats: [
@@ -21,6 +24,8 @@ export const overwhereI00054 = {
     "They come back hard and cold, colder than the wet earth around them.",
   ],
   lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
     "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-starfall-legacy-2",
     "place/overwhere-i-the-greyfen",
