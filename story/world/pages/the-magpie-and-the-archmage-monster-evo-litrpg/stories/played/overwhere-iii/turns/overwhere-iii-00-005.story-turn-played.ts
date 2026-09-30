@@ -40,5 +40,6 @@ export const overwhereIii00005 = {
     "lore/overwhere-iii-tobin-wick",
     "place/overwhere-iii-merrowgate",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-29T17:25:00.000Z",
 } as const satisfies StoryTurnPlayed
