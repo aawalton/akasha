@@ -33,5 +33,6 @@ export const overwhereIv00034 = {
     'Merrit snorts, wiping soot from his hands. "Five ways. For the recruit."',
   ],
   lore: ["lore/overwhere-iv-brookside-four", "lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-01T13:18:00.000Z",
 } as const satisfies StoryTurnPlayed
