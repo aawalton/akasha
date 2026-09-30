@@ -131,6 +131,14 @@ export const overwhereIiGarthMarsh = {
       fact: "Once Garth or Wren speaks of it, word of a rot-drawer reaches the Ford in a day, Varrow Keep in two.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Garth offers Nala the worn boots and brown wool cloak of Anni, Wren's mother, three winters dead.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Anni's boots are a little large for Nala, but serve well with the laces pulled tight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
