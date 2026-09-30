@@ -7,6 +7,6 @@ export const overwhereINalaGroovedSlugs = {
   title: "Grooved Slugs",
   story: "story-played/overwhere-i",
   character: "character-player/overwhere-i-nala",
-  quantity: 60,
+  quantity: 54,
   description: "Pointed stones shaped with spiralling grooves, each about two ounces.",
 } as const satisfies StoryItem
