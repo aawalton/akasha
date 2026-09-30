@@ -79,5 +79,9 @@ export const overwhereIiGreymaws = {
       fact: "Under a hard pull a common greymaw staggers in a few heartbeats and drops dead within ten.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The she-wolf's reservoir is deep; draining her takes a full minute of hard pull.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
