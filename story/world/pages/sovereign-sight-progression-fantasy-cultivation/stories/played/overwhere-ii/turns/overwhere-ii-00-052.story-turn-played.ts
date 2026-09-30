@@ -4,10 +4,13 @@ export const overwhereIi00052 = {
   id: "01a0f455-dd7a-7705-9438-bba68f4fdf61",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-052",
+  ownLength: 366,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 52,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "Once that’s done, I report back and talk about what I saw and try to understand what it means.",
   beats: [
@@ -33,6 +36,11 @@ export const overwhereIi00052 = {
     'Dray: "For the pool. The rest of the bar when you bring me what drove them off that crag."',
     "He takes a long look at her cracked lips, then pushes a jug of water across the table to her.",
   ],
-  lore: ["lore/overwhere-ii-reeve-corwin-dray", "place/overwhere-ii-callow-beck"],
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-reeve-corwin-dray",
+    "place/overwhere-ii-callow-beck",
+  ],
   endsAt: "2026-10-01T19:20:00.000Z",
 } as const satisfies StoryTurnPlayed
