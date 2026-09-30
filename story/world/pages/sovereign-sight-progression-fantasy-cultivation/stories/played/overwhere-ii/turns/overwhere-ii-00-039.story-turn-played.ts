@@ -35,5 +35,6 @@ export const overwhereIi00039 = {
   ],
   lore: ["lore/overwhere-ii-greymaws", "lore/overwhere-ii-nala", "place/overwhere-ii-tarn-screes"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-09-30T11:23:00.000Z",
 } as const satisfies StoryTurnPlayed
