@@ -189,7 +189,7 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "Anselm keeps bread, hard cheese and small beer at the shrine, and shares them gladly.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Anselm means to write of Nala in his letter for market day, and will tell her before he does.",
