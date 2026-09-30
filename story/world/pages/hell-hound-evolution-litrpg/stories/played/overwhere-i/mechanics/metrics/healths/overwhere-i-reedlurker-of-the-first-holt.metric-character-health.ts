@@ -5,7 +5,7 @@ export const overwhereIReedlurkerOfTheFirstHolt = {
   type: "page-type/metric-character-health",
   slug: "overwhere-i-reedlurker-of-the-first-holt",
   character: "character-other/overwhere-i-reedlurker-of-the-first-holt",
-  value: 3,
+  value: 0,
   minValue: 0,
   maxValue: 20,
   displayOrder: 1,
