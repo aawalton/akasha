@@ -189,7 +189,7 @@ export const overwhereIGreyfenBeasts = {
     },
     {
       fact: "Jory knows two reedlurker holts by their mud slides in the bank near his traps.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "The Level 12 reedlurker holts alone under an alder root a hundred yards up the channel.",

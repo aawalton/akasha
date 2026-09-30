@@ -335,7 +335,7 @@ export const overwhereIFenwatch = {
     },
     {
       fact: "Jory's own path to his traps crosses the Greyback north of the track, an hour's walk.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
