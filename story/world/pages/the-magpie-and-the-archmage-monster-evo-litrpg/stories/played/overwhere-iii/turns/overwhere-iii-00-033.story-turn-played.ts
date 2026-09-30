@@ -7,7 +7,17 @@ export const overwhereIii00033 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 33,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“I’ll take the patched one, that’s perfect.” Then thank her and retire for the night. In the morning I go and heal Ivy again, then check for work at the Post.",
+  lore: [
+    "lore/overwhere-iii-brannagh-tull",
+    "lore/overwhere-iii-corruption",
+    "lore/overwhere-iii-ivy-marsh",
+    "lore/overwhere-iii-marda-hesk",
+    "place/overwhere-iii-crook-and-candle",
+    "place/overwhere-iii-merrowgate",
+    "place/overwhere-iii-merrowgate-guild-post",
+    "place/overwhere-iii-wrenwood",
+  ],
 } as const satisfies StoryTurnPlayed
