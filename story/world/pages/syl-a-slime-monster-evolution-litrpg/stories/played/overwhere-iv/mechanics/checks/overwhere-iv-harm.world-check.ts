@@ -114,6 +114,15 @@ export const overwhereIvHarm = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "One healing gives back up to twice its healer's Healer level in health, never past most.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A healing also ends Bruised and closes cuts and scrapes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "At nought a character is down: dead if the foe meant it, else out of the fight.",
     },
     {
