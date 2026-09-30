@@ -188,6 +188,10 @@ export const overwhereIiNala = {
       fact: "To her inward sense the barn's iron hooks feel flat and numb, a dead patch where all else is alive.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Calling for a System or a Status brings nothing here: no screen, no voice, no answer.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
