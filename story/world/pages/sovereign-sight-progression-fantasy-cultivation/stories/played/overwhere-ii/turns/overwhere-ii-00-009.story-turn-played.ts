@@ -4,13 +4,14 @@ export const overwhereIi00009 = {
   id: "01a0f18b-3d46-76f3-8e9f-6520e4f8588f",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-009",
+  cover: "image/image-f7910d769a837503",
   ownLength: 464,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 9,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Do you have an iron pot or bowl of some sort? I think I can help after all. If not, any container will do.” Once I have one, I try to pull the wrongness out of the girl’s leg and into the container.",
   beats: [
@@ -51,6 +52,6 @@ export const overwhereIi00009 = {
     "place/overwhere-ii-marsh-croft",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-29T07:50:00.000Z",
 } as const satisfies StoryTurnPlayed
