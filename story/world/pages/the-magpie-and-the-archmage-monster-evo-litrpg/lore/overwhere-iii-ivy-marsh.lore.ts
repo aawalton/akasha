@@ -48,5 +48,14 @@ export const overwhereIiiIvyMarsh = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "Nala's first pull at Ivy's bite slipped; her second drew half the blight out.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-ivy-marsh",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
   ],
 } as const satisfies Lore
