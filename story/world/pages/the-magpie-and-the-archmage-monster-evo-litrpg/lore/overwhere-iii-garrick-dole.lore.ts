@@ -81,5 +81,9 @@ export const overwhereIiiGarrickDole = {
       fact: "A third pull clears Garrick's bite, and a Mending Weave closes it to a long pink seam.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Garrick's son Aled comes down from the farm on market day, and will bring the sheepskin coat.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
