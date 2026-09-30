@@ -107,7 +107,11 @@ export const overwhereIiiBetHarrow = {
     },
     {
       fact: "At the bottom of her box is an old patched canvas knapsack; she'd let it go for 4 copper.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-bet-harrow",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
   secrets: "jsonl",
