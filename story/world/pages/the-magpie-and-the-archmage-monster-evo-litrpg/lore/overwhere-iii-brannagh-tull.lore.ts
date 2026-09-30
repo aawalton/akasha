@@ -286,7 +286,11 @@ export const overwhereIiiBrannaghTull = {
     },
     {
       fact: "Brannagh knows no way to unmake a blightstone, and has never heard of one being cracked.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
     },
   ],
   secrets: "jsonl",
