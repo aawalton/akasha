@@ -167,6 +167,10 @@ export const overwhereIFenwatch = {
       fact: "Aldo Brack, the tanner, cures hides in pits by Otter Brook and makes boots, belts and packs.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Brack charges a silver to cure a pelt into a rug or blanket, and it takes him three weeks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
