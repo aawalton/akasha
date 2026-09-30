@@ -91,5 +91,14 @@ export const overwhereIiiHildWendle = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
+    {
+      fact: "Hild has a worse scar than the bite's, got off the wagon brake.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-hild-wendle",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
   ],
 } as const satisfies Lore
