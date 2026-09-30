@@ -7,7 +7,12 @@ export const overwhereI00053 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 53,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "Now that it’s dead, I try using a combination of water and earth to pluck its ghost eye from its skull and add it to my pack along with its ears, then continue through the island, finishing off any remaining wolves I find on my way back to the village.",
+  lore: [
+    "lore/overwhere-i-rowan-coalby",
+    "lore/overwhere-i-the-greyfen-alpha-2",
+    "place/overwhere-i-the-greyfen",
+  ],
 } as const satisfies StoryTurnPlayed
