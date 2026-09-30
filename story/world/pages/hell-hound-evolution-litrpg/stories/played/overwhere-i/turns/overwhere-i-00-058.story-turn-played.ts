@@ -4,13 +4,14 @@ export const overwhereI00058 = {
   id: "01a0f47d-cc5c-7cee-b434-1e89d1765849",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-058",
+  cover: "image/image-0f5b71b5d7787739",
   ownLength: 163,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 58,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Oh drat. I left it on the island. If you come back with me to get it, I’ll cut you in for a gold. That thing looked annoyingly heavy.”",
   beats: [
@@ -34,6 +35,11 @@ export const overwhereI00058 = {
     "place/overwhere-i-the-greyfen",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-01T16:35:00.000Z",
 } as const satisfies StoryTurnPlayed
