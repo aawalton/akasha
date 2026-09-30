@@ -57,7 +57,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "High on the Whitecombs the thunder is felt more than heard, a tremor in the rock underfoot.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The Callow cwm lies three hours' climb above Callow Beck, just under the snow line.",
