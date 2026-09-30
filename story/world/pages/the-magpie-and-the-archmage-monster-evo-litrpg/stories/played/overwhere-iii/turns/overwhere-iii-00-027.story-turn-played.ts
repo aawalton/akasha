@@ -4,7 +4,7 @@ export const overwhereIii00027 = {
   id: "01a0f369-82b3-70b9-8190-6d93be0ce51b",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-027",
-  ownLength: 107,
+  ownLength: 100,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 27,
@@ -13,7 +13,7 @@ export const overwhereIii00027 = {
     "character-player/overwhere-iii-nala",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "“I’d like to, but my mana is running on empty already. I don’t have a big supply. Unless you have something to solve that, I might have to wait until morning…”",
   beats: [
