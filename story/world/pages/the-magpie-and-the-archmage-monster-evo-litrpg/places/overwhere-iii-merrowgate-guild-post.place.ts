@@ -128,7 +128,11 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "Marda would let Nala try on one bounty stone, lifted out with tongs, at the desk under her eye.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Marda would let Nala keep the glimmerstone from any bounty stone she cleans.",

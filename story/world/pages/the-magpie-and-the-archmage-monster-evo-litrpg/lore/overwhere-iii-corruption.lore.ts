@@ -264,6 +264,10 @@ export const overwhereIiiCorruption = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "To Mana Weaver's sight a blightstone holds no glow, only a dark smear turned in on itself.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

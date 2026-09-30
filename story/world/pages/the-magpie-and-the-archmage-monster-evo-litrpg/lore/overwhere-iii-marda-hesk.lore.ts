@@ -144,6 +144,14 @@ export const overwhereIiiMardaHesk = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "Marda has never heard of anyone earning Purify without buying it, but thinks it may be done.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
