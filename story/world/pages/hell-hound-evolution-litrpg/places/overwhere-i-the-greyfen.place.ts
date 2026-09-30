@@ -167,6 +167,10 @@ export const overwhereITheGreyfen = {
       fact: "Toward midday on day 3 the wind blew steady from the west, off the pine island.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "From the Greystakes, 570 yards of wet marsh run west to a 30-yard channel ringing the pine island.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
