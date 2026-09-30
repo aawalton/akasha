@@ -7,7 +7,8 @@ export const overwhereIv00045 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 45,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“I have a skill to help me with reading. Most people think it’s a waste, but comes in handy now and then.” I reply. “Could I get to silver rank here, or do I need a larger city for that? I feel like I’m getting close there.”",
+  lore: ["lore/overwhere-iv-ilsa-crane-2"],
 } as const satisfies StoryTurnPlayed
