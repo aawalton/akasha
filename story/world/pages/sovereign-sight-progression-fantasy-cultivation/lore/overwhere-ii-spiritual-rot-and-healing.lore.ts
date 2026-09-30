@@ -333,5 +333,9 @@ export const overwhereIiSpiritualRotAndHealing = {
       fact: "A plain iron lid does not stop the pot's rot salt; its faint reach still leans toward Wren.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "A low peat fire only warms rot salt and sets it reeking; it takes a fire built up hot to end it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
