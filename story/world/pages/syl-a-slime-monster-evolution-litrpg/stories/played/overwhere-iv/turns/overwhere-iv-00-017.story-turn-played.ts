@@ -41,5 +41,6 @@ export const overwhereIv00017 = {
     'Dell swings his spear round and grins. "Go gentle on me, lamb-girl."',
   ],
   lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-millbrook-gatehouse"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-09-30T07:15:00.000Z",
 } as const satisfies StoryTurnPlayed
