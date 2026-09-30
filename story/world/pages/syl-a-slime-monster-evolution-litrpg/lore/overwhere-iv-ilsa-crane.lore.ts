@@ -164,6 +164,26 @@ export const overwhereIvIlsaCrane = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Given Nala's oath, Ilsa rewrites the report soft before her and burns the first in the hearth.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ilsa keeps her word once given, and expects the same; a broken oath she would never forgive.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ilsa would steer Nala first to the Hobb farm on the Tangle's edge, overrun with pest slimes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Hobb job pays 3 copper a core and a hot dinner, and farmer Hobb wants them all gone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ilsa would lend Nala a pair of old leather gloves from the hall's box of things left behind.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Ilsa sees a strange color as the making of the Millbrook hall, and wants Nala kept on here.",
       knowers: ["lore-disclosure/game-master"],
     },
