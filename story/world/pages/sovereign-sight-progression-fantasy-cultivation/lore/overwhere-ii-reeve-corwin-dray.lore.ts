@@ -139,5 +139,9 @@ export const overwhereIiReeveCorwinDray = {
       fact: "Dray fights close, catching points on his stone forearms and hitting like a falling wall.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Dray's skin turns an ordinary thrust, but one driven by Nala's strength and Undertow breaks it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
