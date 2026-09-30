@@ -235,6 +235,10 @@ export const overwhereIFenwatch = {
       fact: "The Grubboars root the oat strips at dawn and dusk; the reedlurkers raid the traps by night.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "By day the Grubboar sounder beds in a wallow in alder carr, a quarter hour south of the oat strips.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
