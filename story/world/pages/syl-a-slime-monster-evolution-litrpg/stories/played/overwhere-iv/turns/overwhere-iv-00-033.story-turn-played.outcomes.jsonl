@@ -3,3 +3,4 @@
 {"check":"world-check/overwhere-iv-growth","reading":{"character":"nala","gains":[{"kind":"skill","skill":"Rift Rend","level":2,"uses":4}]},"answered":{"grown":[{"kind":"skill","skill":"Rift Rend","from":2,"to":3,"usesCarried":1,"maxed":false}]}}
 {"check":"world-check/overwhere-iv-time-passing","reading":{"from":"2026-10-01T13:14:00.000Z","minutes":1},"answered":{"endsAt":"2026-10-01T13:15:00.000Z","day":3,"light":"day"}}
 {"check":"world-check/overwhere-iv-standing","reading":{"character":"dace","kept":0,"heard":0,"shared":0,"helped":1,"crossed":0,"quotes":{"helped":"I cast Rift Rend, aiming to cut the slinger in half"}},"answered":{"earned":1,"lost":0,"change":1}}
+{"check":"world-check/overwhere-iv-standing","reading":{"character":"wren","kept":0,"heard":0,"shared":0,"helped":0,"crossed":0,"quotes":{}},"answered":{"earned":0,"lost":0,"change":0}}
