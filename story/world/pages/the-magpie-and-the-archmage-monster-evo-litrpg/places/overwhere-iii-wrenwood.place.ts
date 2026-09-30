@@ -68,6 +68,26 @@ export const overwhereIiiWrenwood = {
       fact: "Cal Fenn, a young hunter, went into the deep wood at midwinter and has not come back.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Frostcaps grow only in frost, on the north side of old beech roots along the wood's edge.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A careful picker finds twenty frostcaps in two or three hours on the paths near the crossroads.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Gravecap looks like frostcap but is grayer and smells of wet ash; eaten, it sickens for days.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A frostcap pulled by the stem bruises gray and is worthless; it must be cut at the root.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Brannagh Tull buys frostcaps for her fever tea and chilblain salve, a copper apiece.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

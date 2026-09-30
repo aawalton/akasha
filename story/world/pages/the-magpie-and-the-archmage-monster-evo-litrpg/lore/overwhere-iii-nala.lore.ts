@@ -190,6 +190,10 @@ export const overwhereIiiNala = {
       fact: "Nala ate stew for supper at the Crook and Candle, and woke hungry again.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "To Mana Weaver's sight a frostcap holds a faint cold glow, and a gravecap holds none.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
