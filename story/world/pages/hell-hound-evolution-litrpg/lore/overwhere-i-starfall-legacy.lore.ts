@@ -268,5 +268,9 @@ export const overwhereIStarfallLegacy = {
       fact: "A three-element lens slips; a Surge water lens held in air magnifies about three times.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "An air-and-water weave holds two water lenses in line, a spyglass seeing about ten times closer.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
