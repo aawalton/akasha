@@ -11,4 +11,5 @@ export const overwhereI00037 = {
   action:
     "I attune water and earth targeting the second one, pull it out, and burn it with fire and air",
   lore: ["lore/overwhere-i-greyfen-beasts-2"],
+  endsAt: "2026-09-30T11:02:00.000Z",
 } as const satisfies StoryTurnPlayed
