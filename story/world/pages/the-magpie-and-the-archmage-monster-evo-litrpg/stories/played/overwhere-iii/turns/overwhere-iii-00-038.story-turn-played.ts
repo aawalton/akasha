@@ -4,6 +4,7 @@ export const overwhereIii00038 = {
   id: "01a0f3d8-d4cb-7e14-9393-0ccbdff1bbef",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-038",
+  cover: "image/image-f8f8bc8cb27b5cd6",
   ownLength: 288,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -17,7 +18,7 @@ export const overwhereIii00038 = {
     "character-other/overwhere-iii-ivy-marsh",
     "character-other/overwhere-iii-garrick-dole",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I wait for Cob and heal him, then take all the seeds to Marda",
   beats: [
     "Nala sits on Brannagh's bench to wait. Slowly, her mana trickles back.",
@@ -52,6 +53,11 @@ export const overwhereIii00038 = {
     "lore/overwhere-iii-nala-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-01T12:25:00.000Z",
 } as const satisfies StoryTurnPlayed
