@@ -4,10 +4,13 @@ export const overwhereIi00013 = {
   id: "01a0f1b6-1978-7077-b7fa-2667a00a61b6",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-013",
+  ownLength: 384,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 13,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Hmm, I don’t think the iron is stopping it, let’s try burning. If that doesn’t do it, I’ll pull it back into the pot, and we’ll bring it with us.”",
   beats: [
@@ -35,6 +38,12 @@ export const overwhereIi00013 = {
     "The rag falls from her hands. The colour drains out of her lined face.",
     '"Liss?" she whispers. "Liss Aske?"',
   ],
-  lore: ["lore/overwhere-ii-spiritual-rot-and-healing", "place/overwhere-ii-marsh-croft"],
+  lore: [
+    "lore/overwhere-ii-goody-brannoc",
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-spiritual-rot-and-healing",
+    "place/overwhere-ii-marsh-croft",
+    "place/overwhere-ii-whitecombs",
+  ],
   endsAt: "2026-09-29T09:44:00.000Z",
 } as const satisfies StoryTurnPlayed
