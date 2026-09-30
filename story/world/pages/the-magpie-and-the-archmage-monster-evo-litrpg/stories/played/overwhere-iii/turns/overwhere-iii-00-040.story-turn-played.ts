@@ -17,7 +17,7 @@ export const overwhereIii00040 = {
     "character-other/overwhere-iii-brannagh-tull",
     "character-other/overwhere-iii-dunstan-harrow",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“Perfect, thanks!” I start with the guild and then the bestiary.",
   beats: [
     '"Perfect, thanks!" Nala takes both books to the side bench and opens the rules first.',
@@ -47,6 +47,11 @@ export const overwhereIii00040 = {
     "place/overwhere-iii-merrowgate-guild-post",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-01T14:30:00.000Z",
 } as const satisfies StoryTurnPlayed
