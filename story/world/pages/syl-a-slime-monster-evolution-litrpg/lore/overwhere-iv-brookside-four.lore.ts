@@ -219,5 +219,21 @@ export const overwhereIvBrooksideFour = {
         "lore/overwhere-iv-brookside-four",
       ],
     },
+    {
+      fact: "Dace takes Nala along gladly, and puts her on the left flank beside Wren.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Four's order in the trees: Wren scouting ahead, Dace with shield, Merrit and Orla behind.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Merrit mutters that the recruit will get someone killed, just loud enough to be heard.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Identify shows Wren as Human LV 16, Scout LV 12; Merrit as Human LV 15, Mage LV 13.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
