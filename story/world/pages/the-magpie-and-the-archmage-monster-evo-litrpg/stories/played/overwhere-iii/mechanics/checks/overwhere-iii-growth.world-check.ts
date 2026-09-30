@@ -36,6 +36,23 @@ export const overwhereIiiGrowth = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A slain monster of Level 1 to 9 yields one glimmerstone, 10 to 19 two, 20 to 39 three, 40 up five.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A corrupted beast yields blightstones in place of glimmerstones.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Glimmerstones taken up go on her glimmerstone purse; the skill shop spends them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A trait or skill at its full potential goes to Rank 2 for 100 glimmerstones.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A telling use of Mana Weaver counts toward its next rank.",
     },
     {

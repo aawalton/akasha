@@ -43,7 +43,6 @@ export const metricCharacterResource = {
     "page-type/overwhere-iv-points",
     "page-type/overwhere-iii-health",
     "page-type/overwhere-iii-mana",
-    "page-type/overwhere-iii-glimmerstones",
     "page-type/overwhere-iii-blightstones",
     "page-type/overwhere-iii-experience",
     "page-type/overwhere-i-marks",
