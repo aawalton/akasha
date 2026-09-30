@@ -161,7 +161,7 @@ export const overwhereIiKeeperAnselm = {
     },
     {
       fact: "The Keepers refine skin whole before any muscle, an hour at dawn and an hour at dusk.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Skin taking the practice prickles like nettles, then burns like a scald, then goes numb.",
