@@ -22,7 +22,7 @@ export const overwhereIiiHalDunmore = {
     },
     {
       fact: "He writes each paperless traveler in the gate book: name, looks, business, and who vouches.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "A stranger a townsman vouches for goes in; one with no voucher waits in the gatehouse till dawn.",
@@ -30,7 +30,7 @@ export const overwhereIiiHalDunmore = {
     },
     {
       fact: "He is tired, fair and dry, and tells any stranger short of work to try the Guild post.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "The gate book goes to the reeve each morning, and the reeve reads every stranger's line.",
@@ -38,6 +38,10 @@ export const overwhereIiiHalDunmore = {
     },
     {
       fact: "The gate guard's aura is faint, a shade brighter than Tobin's candle.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "The south gate guard is called Hal.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],

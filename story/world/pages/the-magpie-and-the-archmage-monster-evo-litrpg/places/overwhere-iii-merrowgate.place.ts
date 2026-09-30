@@ -60,7 +60,7 @@ export const overwhereIiiMerrowgate = {
     },
     {
       fact: "The Adventurers Guild keeps a small post in the old tollhouse inside the south gate.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "The Guild post has a quest board, one desk, and three rooms upstairs for ringed adventurers.",

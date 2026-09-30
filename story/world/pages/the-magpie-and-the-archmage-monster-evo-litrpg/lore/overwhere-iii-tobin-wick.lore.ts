@@ -94,7 +94,7 @@ export const overwhereIiiTobinWick = {
     },
     {
       fact: "At the gate he vouches for Nala unasked, and says she was robbed on the road.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",
