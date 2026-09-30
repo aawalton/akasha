@@ -89,6 +89,26 @@ export const overwhereIvNala = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Nala's words and silent commands reach no slime; blue slimes have no mind to hear them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "When Nala stirs the warmth behind her ribs, nearby slimes shiver and press toward her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Pushed at a slime with intent, her warmth folds space round it and jerks it a hand's width.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "That fold is her first working of Dimension Magic, and drains a sip of her mana.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The fold moves the slime only toward her or away; she cannot yet steer it anywhere else.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "She speaks the common tongue with a faint lilt no one in the vale can place.",
       knowers: ["lore-disclosure/game-master"],
     },
