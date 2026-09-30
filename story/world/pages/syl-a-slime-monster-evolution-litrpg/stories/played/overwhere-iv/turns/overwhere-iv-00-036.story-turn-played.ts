@@ -19,5 +19,6 @@ export const overwhereIv00036 = {
     'She sets the pencil down and meets Nala\'s eyes. "Is that the same thing that lit my crystal clear?"',
   ],
   lore: ["lore/overwhere-iv-ilsa-crane", "lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-01T15:49:00.000Z",
 } as const satisfies StoryTurnPlayed
