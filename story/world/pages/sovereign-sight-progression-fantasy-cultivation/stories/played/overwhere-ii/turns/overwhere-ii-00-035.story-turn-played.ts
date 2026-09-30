@@ -11,4 +11,5 @@ export const overwhereIi00035 = {
   action:
     "“You sure? I already bested the alpha with her pack. The stragglers are no threat to me on their own. I would hate to injure you without need.”",
   lore: ["lore/overwhere-ii-reeve-corwin-dray", "lore/overwhere-ii-undertow"],
+  endsAt: "2026-09-30T08:24:00.000Z",
 } as const satisfies StoryTurnPlayed
