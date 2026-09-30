@@ -73,7 +73,7 @@ export const overwhereIvMillbrookCommon = {
     },
     {
       fact: "Near Nala the slimes grow calm and drift toward her; none flees her spear.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "A thrust that misses the core only splashes jelly; the slime lurches and clings to the foot.",
@@ -89,7 +89,7 @@ export const overwhereIvMillbrookCommon = {
     },
     {
       fact: "A killed slime slumps to a puddle of jelly around its core, which dulls from red to grey.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Three jelly children work the common with jars, led by Tam Brewer, a boy of ten.",
@@ -102,6 +102,14 @@ export const overwhereIvMillbrookCommon = {
     {
       fact: "An old shepherd, Dunny Carrow, minds the sheep from a stile and watches strangers.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Slime jelly nettles bare skin at once with a hot prickle.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "A boy of about ten claims a melon-sized slime with a red stone as his, and warned Nala off it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
   secrets: "jsonl",
