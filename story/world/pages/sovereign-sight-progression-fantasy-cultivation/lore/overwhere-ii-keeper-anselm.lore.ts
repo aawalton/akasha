@@ -220,6 +220,30 @@ export const overwhereIiKeeperAnselm = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Anselm expects Carrowmouth's Keepers to send a senior Keeper up the valley once the road dries.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Anselm expects the Keepers to urge Nala to take the Chartermark and go south to the Spires.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Anselm expects a full letter to reach the Spires in a month, and a Talent like hers to draw them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Anselm knows letters pass many hands in Carrowmouth, and a great Talent's name draws ill notice too.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Anselm thinks a bare letter would slow the Keepers, but they would still come to see for themselves.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Were Anselm to hide a great Talent and be found out, the Keepers would take his charge from him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Anselm judges Nala's Undertow the greatest new Talent he has seen, and told her so.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
