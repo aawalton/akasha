@@ -163,6 +163,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "Nala cut both tusks off the old boar's head with a thin, fast water disc.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "A reedlurker has 20 health and slick hide warding 1; it strikes from under water and drags prey in.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
