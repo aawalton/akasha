@@ -10,7 +10,7 @@ export const overwhereIii00019 = {
   position: 19,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Yes. Is there something blighted around I could test with? I’d like to see if I can unlock Purify without buying it from the skill store.”",
   beats: [
@@ -35,13 +35,16 @@ export const overwhereIii00019 = {
     "[Cleansing Weave – At [Basic] level, draw holy current through blight to unpick it.]",
     "Not Purify. Something else, her own.",
   ],
-  issues: ["\"It isn't Purify. It's something else. Something of your own.\" - Leave It Open"],
+  issues: [
+    "\"It isn't Purify. It's something else. Something of your own.\" - Leave It Open",
+    '"sets it on the bare desk" - her cider jug and cup were set on the desk last turn',
+  ],
   lore: [
     "lore/overwhere-iii-corruption",
     "lore/overwhere-iii-marda-hesk",
     "lore/overwhere-iii-nala",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T12:18:00.000Z",
 } as const satisfies StoryTurnPlayed
