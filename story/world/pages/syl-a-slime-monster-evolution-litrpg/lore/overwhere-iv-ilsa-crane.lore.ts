@@ -354,5 +354,21 @@ export const overwhereIvIlsaCrane = {
       fact: "Ilsa would urge Nala to keep the line out of sight in town, and use it only in the Tangle.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ilsa has never heard of anyone starting as a Spellblade; most begin as Mage or Warrior.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ilsa knows Spellblade as an intermediate hybrid that most adventurers look down on.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "To Ilsa the gift is no problem for Millbrook's hall, only if talk of it reaches Aubrin.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ilsa would write Nala in the ledger as Spellblade and nothing more, and tell no one else.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
