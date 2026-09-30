@@ -92,6 +92,10 @@ export const overwhereIiiWrenwoodCrossroads = {
         "character-other/overwhere-iii-tobin-wick",
       ],
     },
+    {
+      fact: "Two mana currents run along the roads and meet at the shrine.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

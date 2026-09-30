@@ -10,11 +10,11 @@ export const overwhereIiiTobinWick = {
   facts: [
     {
       fact: "Tobin Wick is a carter of about fifty-five, broad, bald and sunburnt, with a gray beard.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "He drives a two-mule cart of cider casks and salt between Applegarth and Merrowgate.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "He sings as he drives, loudly and off key, and knows the words to three songs.",
