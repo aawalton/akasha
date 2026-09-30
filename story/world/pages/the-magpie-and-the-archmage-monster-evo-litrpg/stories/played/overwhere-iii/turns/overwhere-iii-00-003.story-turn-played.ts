@@ -11,4 +11,5 @@ export const overwhereIii00003 = {
   action:
     "“Thank you” I say simply, and climb up into the cart, quietly focusing on the man’s weaving trait, seeing if I can feel the man’s inside it around me.",
   lore: ["lore/overwhere-iii-nala"],
+  endsAt: "2026-09-29T16:44:00.000Z",
 } as const satisfies StoryTurnPlayed
