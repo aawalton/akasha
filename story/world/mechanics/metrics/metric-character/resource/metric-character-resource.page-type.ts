@@ -8,6 +8,10 @@ export const metricCharacterResource = {
   pluralSlug: "resources",
   extends: ["page-type/metric-character"],
   parts: [
+    "page-type/metric-character-health",
+    "page-type/metric-character-mana",
+    "page-type/metric-character-stamina",
+    "page-type/metric-character-experience",
     "page-type/tower-health",
     "page-type/tower-mana",
     "page-type/tower-stamina",

@@ -8,6 +8,10 @@ export const metricCharacterAttribute = {
   pluralSlug: "attributes",
   extends: ["page-type/metric-character"],
   parts: [
+    "page-type/metric-character-level",
+    "page-type/metric-character-stat",
+    "page-type/metric-character-fluency",
+    "page-type/metric-character-notice",
     "page-type/tower-attribute",
     "page-type/tower-level",
     "page-type/cornerstone-faculty",
