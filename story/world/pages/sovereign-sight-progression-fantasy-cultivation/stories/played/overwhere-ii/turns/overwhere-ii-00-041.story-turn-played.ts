@@ -45,6 +45,6 @@ export const overwhereIi00041 = {
     "place/overwhere-ii-watch-cottage",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/inventory"],
   endsAt: "2026-09-30T15:03:00.000Z",
 } as const satisfies StoryTurnPlayed
