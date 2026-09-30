@@ -50,7 +50,11 @@ export const overwhereIiiMaudFerrow = {
     },
     {
       fact: "Maud names herself only once a newcomer finishes a drill, then says, 'Maud. Tomorrow, dawn bell.'",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-maud-ferrow",
+      ],
     },
     {
       fact: "Maud has heard Bet's tale, and asks the red-haired healer to look at Cob's arm after the drill.",
