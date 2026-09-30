@@ -7,7 +7,14 @@ export const overwhereI00026 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 26,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I clean out the clothes in the tub as well, then try a working of water, air, and fire to steam clean them, then another of air and fire to dry them, then put them on and god looking for information about the other silver bounty.",
+  lore: [
+    "lore/overwhere-i-everyday-life",
+    "lore/overwhere-i-garrick-pell",
+    "lore/overwhere-i-greyfen-beasts",
+    "lore/overwhere-i-starfall-legacy",
+    "place/overwhere-i-fenwatch",
+  ],
 } as const satisfies StoryTurnPlayed
