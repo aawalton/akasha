@@ -10,7 +10,7 @@ export const overwhereIi00018 = {
   position: 18,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“I’m making progress, but this will take time.” I continue working at the rot, this time leaning into the natural cycle of the talent, pushing a small amount of my strength to the girl, pulling back the rot with as little life force as I can, separating it out, and repeating, being sure never to drop the girl’s life force down again.",
   beats: [
@@ -44,7 +44,8 @@ export const overwhereIi00018 = {
     "Horne comes back up the stairs and stops in the doorway, big hands empty, eyes wet.",
     '"Name your price," he says hoarsely. "A silver bar. More. Anything I have. It\'s yours."',
   ],
+  issues: ['"down from her shoulder" - lore has the veins only crawling toward her shoulder'],
   lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-wendle-ford-folk"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T11:34:00.000Z",
 } as const satisfies StoryTurnPlayed
