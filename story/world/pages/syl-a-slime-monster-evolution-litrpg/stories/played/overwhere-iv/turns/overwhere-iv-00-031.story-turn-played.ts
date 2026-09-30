@@ -4,10 +4,13 @@ export const overwhereIv00031 = {
   id: "01a0f3ed-0d8e-7a20-a627-fc2a7a7c4abb",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-031",
+  ownLength: 208,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 31,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I cast my new spell at the runner, aiming for where its neck will be when the spell hits.",
   beats: [
@@ -26,6 +29,6 @@ export const overwhereIv00031 = {
     "Atop the fallen oak, the slinger rises out of its crouch. Smoke curls off its singed hide.",
     "It isn't looking at Dace. It's looking at her. The sling starts to whirl.",
   ],
-  lore: ["place/overwhere-iv-the-tangle"],
+  lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2", "place/overwhere-iv-the-tangle"],
   endsAt: "2026-10-01T13:13:00.000Z",
 } as const satisfies StoryTurnPlayed
