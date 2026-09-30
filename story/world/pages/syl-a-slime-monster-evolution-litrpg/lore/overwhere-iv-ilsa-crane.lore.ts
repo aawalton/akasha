@@ -124,7 +124,31 @@ export const overwhereIvIlsaCrane = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Garrett Pell's cart is the next bound for Aubrin, leaving in three days.",
+      fact: "Garrett Pell's cart is the next bound for Aubrin, leaving the fourth morning after Nala came.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ilsa wrote the report in full that night: clear light, the room bent, the crack grown, her name.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The report sits unsealed in Ilsa's drawer until Garrett's cart goes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ilsa would soften the report if Nala swore to work the Millbrook board and raise its name.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A softened report would say only a faint, odd light from an old cracked crystal, no name.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ilsa would want to be the first told, if Nala ever learns what her light was.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ilsa would buy Nala's seven cores at 3 copper each and take the silver owed out of it.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
