@@ -149,5 +149,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "It sends Seven north and Eight south through the reeds, wide of her, to close from both flanks.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "After her second miss Ghost-Eye fixed calmly on her hummock and growled low.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
