@@ -275,6 +275,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "Breaking a reedlurker's drag-in is a moderate act; failing it pulls her into the channel.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A Level 9 to 12 reedlurker is an ordinary foe for Nala, not a foe far beyond her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
