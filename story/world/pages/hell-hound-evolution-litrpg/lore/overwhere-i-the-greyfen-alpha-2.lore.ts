@@ -110,5 +110,9 @@ export const overwhereITheGreyfenAlpha2 = {
       fact: "An overcharged slug costs 40 mana; a plain spun slug at that range does Ghost-Eye 6.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At 13:31 on day 3 Nala's slug fell spent into the channel; Ghost-Eye held the shore, snarling.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
