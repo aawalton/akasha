@@ -9,7 +9,7 @@ export const overwhereIiWendlemere = {
   facts: [
     {
       fact: "Wendlemere is a river valley on the north side of Carrow, one of Teyr's many isles.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Carrow lies far to the south and west of the Vale's isle, weeks away by ship.",
