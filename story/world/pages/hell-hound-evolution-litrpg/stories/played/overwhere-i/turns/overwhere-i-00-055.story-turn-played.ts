@@ -11,7 +11,7 @@ export const overwhereI00055 = {
   position: 55,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I use an earth attunement to pull out the hard knots, curious to see what they might be.",
   beats: [
@@ -33,6 +33,11 @@ export const overwhereI00055 = {
     "place/overwhere-i-the-greyfen",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-01T13:57:00.000Z",
 } as const satisfies StoryTurnPlayed
