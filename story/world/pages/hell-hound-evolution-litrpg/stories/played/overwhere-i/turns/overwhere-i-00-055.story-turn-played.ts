@@ -4,6 +4,7 @@ export const overwhereI00055 = {
   id: "01a0f461-9c03-7f53-8367-a325a4321807",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-055",
+  cover: "image/image-4173de970dd2b689",
   ownLength: 78,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -32,6 +33,6 @@ export const overwhereI00055 = {
     "place/overwhere-i-the-greyfen",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-01T13:57:00.000Z",
 } as const satisfies StoryTurnPlayed
