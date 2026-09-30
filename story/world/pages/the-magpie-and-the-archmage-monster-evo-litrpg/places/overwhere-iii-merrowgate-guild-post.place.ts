@@ -84,7 +84,7 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "At turn-in Marda counts the goods, pays from the desk's strongbox, and lights the card to log it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Marda keeps unclaimed Copper Guild rings in a tin in the desk drawer.",
