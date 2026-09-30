@@ -44,5 +44,9 @@ export const overwhereIiiMaudFerrow = {
       fact: "Maud's drill ends at the half-past-ten bell of the watch change, with staff bouts in pairs.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Maud names herself only once a newcomer finishes a drill, then says, 'Maud. Tomorrow, dawn bell.'",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
