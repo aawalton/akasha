@@ -137,7 +137,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "From the Ford to the split crag is six hours on foot; the way down takes five.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The Warped goats by the Callow pool have not caught Nala's scent; the wind blows from them to her.",
