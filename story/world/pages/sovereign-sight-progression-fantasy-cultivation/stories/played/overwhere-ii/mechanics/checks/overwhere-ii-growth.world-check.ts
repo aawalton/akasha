@@ -45,6 +45,10 @@ export const overwhereIiGrowth = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Each Depth raises most vigour as the harm check works it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Nala's Scope widens each time she drives Undertow to its limit.",
     },
     {
