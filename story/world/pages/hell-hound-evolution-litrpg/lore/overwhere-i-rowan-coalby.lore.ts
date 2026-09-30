@@ -113,7 +113,7 @@ export const overwhereIRowanCoalby = {
     },
     {
       fact: "Rowan wants to see the eye; at the sight of it Sedge flattens its crest and backs off, growling low.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Rowan offers to walk back with her and tell the Stag himself that Sedge was never the stock-killer.",
