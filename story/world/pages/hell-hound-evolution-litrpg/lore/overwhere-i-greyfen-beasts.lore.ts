@@ -187,6 +187,10 @@ export const overwhereIGreyfenBeasts = {
       fact: "Reedlurkers come to Jory's traps after full dark, drawn by the eels caught in them.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Jory knows two reedlurker holts by their mud slides in the bank near his traps.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
