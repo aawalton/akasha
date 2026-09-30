@@ -10,7 +10,7 @@ export const overwhereI00008 = {
   position: 8,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Okay, 10% every 10 minutes, or just under two hours to full. Not too bad. I have water, let’s see what we can do about shelter.” I attune to Earth again and this time I focus on constructing small but solid dome of stone around me, with the",
   beats: [
@@ -43,6 +43,6 @@ export const overwhereI00008 = {
     "Then she looks up and across the water, straight at the ring of fallen stone, and at Nala in it.",
   ],
   lore: ["lore/overwhere-i-hessa-vane", "lore/overwhere-i-nala", "place/overwhere-i-greyfen-ford"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-29T11:05:00.000Z",
 } as const satisfies StoryTurnPlayed
