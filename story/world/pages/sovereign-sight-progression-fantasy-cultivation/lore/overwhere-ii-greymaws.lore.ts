@@ -183,5 +183,13 @@ export const overwhereIiGreymaws = {
       fact: "Leaderless, the pack does not come down to Marsh Croft at dawn on day two.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "At dawn on day two Nala pulled three whole chambers from the lane greymaws with Undertow.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Nala eased the she-wolf's chamber out whole; twice a common one's size, cracked by the spear.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore

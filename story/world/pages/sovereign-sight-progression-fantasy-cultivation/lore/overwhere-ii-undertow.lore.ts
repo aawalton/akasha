@@ -136,5 +136,9 @@ export const overwhereIiUndertow = {
       fact: "An empty chamber gives the pull little to hold; she must grip it by the flesh's Water around it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Gripping a chamber by the flesh's Water pours the carcass's cold brine up her arm into her well.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore

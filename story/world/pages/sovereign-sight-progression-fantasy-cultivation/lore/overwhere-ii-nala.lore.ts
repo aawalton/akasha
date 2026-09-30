@@ -288,6 +288,10 @@ export const overwhereIiNala = {
       fact: "When she is ready, Descent calls in a dream: the tarn, and a stair of black water going down.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "By dawn on day two Nala's crescent bite has closed in the night to pink new skin.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
