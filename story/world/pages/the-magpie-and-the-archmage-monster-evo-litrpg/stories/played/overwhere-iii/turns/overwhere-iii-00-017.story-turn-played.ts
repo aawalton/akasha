@@ -4,10 +4,13 @@ export const overwhereIii00017 = {
   id: "01a0f1fa-c011-7ec8-a92a-8bfd6e7777d3",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-017",
+  ownLength: 264,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 17,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
+  stepStatus: "step-status/reviewers",
   action: "I go back and pick up rabbit as well, then bring my haul back to town to turn it in.",
   beats: [
     "Nala walks back along the blue current to the old beech, and the dead rabbit under it.",
@@ -27,6 +30,11 @@ export const overwhereIii00017 = {
     '"That\'s a bite," she says. "A fresh one. Closed."',
     'She points her cane at the bench. "Sit. We\'re talking about the blight."',
   ],
-  lore: ["lore/overwhere-iii-wrenmark-beasts", "place/overwhere-iii-merrowgate-guild-post"],
+  lore: [
+    "lore/overwhere-iii-marda-hesk",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-wrenmark-beasts",
+    "place/overwhere-iii-merrowgate-guild-post",
+  ],
   endsAt: "2026-09-30T11:58:00.000Z",
 } as const satisfies StoryTurnPlayed
