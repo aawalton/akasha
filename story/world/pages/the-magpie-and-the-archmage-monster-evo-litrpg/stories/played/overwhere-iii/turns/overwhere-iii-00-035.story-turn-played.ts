@@ -4,6 +4,7 @@ export const overwhereIii00035 = {
   id: "01a0f3ba-6e06-7da2-96b7-7cdd7af27309",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-035",
+  cover: "image/image-5a691a6a71ba31f0",
   ownLength: 208,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -41,6 +42,6 @@ export const overwhereIii00035 = {
     "place/overwhere-iii-merrowgate",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-01T10:32:00.000Z",
 } as const satisfies StoryTurnPlayed
