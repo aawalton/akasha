@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0076Vol2Chapter72Experiment
   id: "01a0f12a-b852-753a-97cc-8c931d5b7698",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0076-vol-2-chapter-72-experiments",
+  ownProgress: 2499,
   position: 76,
   publishedAt: "2025-10-30",
   unit: "unit/words",

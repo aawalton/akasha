@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0075Vol2Chapter71TheSuperRi
   id: "01a0f12a-b851-7656-8f9b-359dac1da9f2",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0075-vol-2-chapter-71-the-super-rich",
+  ownProgress: 2434,
   position: 75,
   publishedAt: "2025-10-29",
   unit: "unit/words",
