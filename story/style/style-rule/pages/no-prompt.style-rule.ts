@@ -13,6 +13,7 @@ export const noPrompt = {
     "Never address the player in the narrator's voice.",
     "One character may invite another in her own words.",
     "Every turn ending poised on his move is a prompt by pattern.",
+    "Remove the prompt, never the fact the prompt carries.",
   ],
   examples: [
     {
