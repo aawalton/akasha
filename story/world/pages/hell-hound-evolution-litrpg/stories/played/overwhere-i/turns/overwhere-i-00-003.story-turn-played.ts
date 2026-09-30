@@ -4,10 +4,13 @@ export const overwhereI00003 = {
   id: "01a0f12e-73bf-737d-a1a8-653cc876e073",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-003",
+  ownLength: 279,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 3,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Oh, perfect! A test subject!” I point a finger at the creature and focus on attuning to fire, imaging a narrow beam of intense flame extending from my finger through the creature.",
   beats: [
