@@ -244,7 +244,7 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "The guide's blight page, new-inked by Marda, says corrupted beasts drop blightstones; burn the dead.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Reading both Guild books through at the side bench takes an afternoon, till about half past four.",
