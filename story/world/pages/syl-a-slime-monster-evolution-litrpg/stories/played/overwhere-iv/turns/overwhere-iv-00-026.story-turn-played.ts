@@ -10,7 +10,7 @@ export const overwhereIv00026 = {
   position: 26,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I stab it again with the folded thrust, this time aiming for the neck.",
   beats: [
     "Nala grips hard and thrusts for the goblin's neck. The warmth rises for the fold.",
@@ -27,6 +27,6 @@ export const overwhereIv00026 = {
     "One grey-green foot scrabbles for purchase an arm's length from her boot.",
   ],
   lore: ["lore/overwhere-iv-nala", "place/overwhere-iv-hobb-farm"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-30T18:30:00.000Z",
 } as const satisfies StoryTurnPlayed
