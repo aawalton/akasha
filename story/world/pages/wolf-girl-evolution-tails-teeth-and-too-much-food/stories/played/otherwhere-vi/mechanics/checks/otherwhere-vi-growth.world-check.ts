@@ -128,5 +128,98 @@ export const otherwhereViGrowth = {
       decisionKind: "decision-kind/departure",
       statement: "Advancing lifts her Tier and cap, resets her level to one, and keeps her race.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A stat page's slug ends in the number it keeps: level, growth, or one of the seven stats.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The seven stats are Strength, Dexterity, Vitality, Intelligence, Willpower, Charisma, Luck.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Growth is her progress toward the next level, as this check answers it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A level page's maximum is the cap of her Tier: 10, 25, 50, then 100.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stat rises one for each level point given it, as this check says.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A stat also rises one for a week's hard training at what it measures, or a hard insight.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Surviving a poison that took a fifth of her HP raises Vitality one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Charisma rises only from kindness truly returned; Luck only from a near death survived.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The System shows a stat's rise as a line such as 【Vitality +1】 as it happens.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every change in a stat is written on its page and a line of its history before the turn moves on.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No stat shows as a number save where her status or the System shows it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fluency page's slug ends in the tongue it measures, from nought to ten.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Nala speaks and reads the common tongue as one born to it, and needs no page for it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Nought is no word; three is single words and gestures; six is plain talk; ten is native.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A day spent among speakers who talk with her raises fluency one, up to six.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Past six, a week among speakers raises it one; a patient teacher halves the time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Her Intelligence of nine or more lets her keep what she hears the first time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Speech in a tongue below six is an act whose band rises as the fluency falls.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tongue's page is filed at nought when she first hears it spoken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every change in fluency is written on its page and a line of its history before the turn moves on.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No fluency shows as a number; it shows as what she understands.",
+    },
   ],
 } as const satisfies WorldCheck

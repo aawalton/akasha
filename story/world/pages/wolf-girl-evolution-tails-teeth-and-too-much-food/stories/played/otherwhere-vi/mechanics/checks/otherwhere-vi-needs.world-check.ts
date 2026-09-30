@@ -155,5 +155,73 @@ export const otherwhereViNeeds = {
       decisionKind: "decision-kind/departure",
       statement: "The prose shows a need as the body feels it, never as a stage or a number.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "SP is a stamina page titled SP.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A person's SP maximum is fourteen, two for each Strength and Vitality, and two each level.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each Tier a person's Class advances adds half again to the SP maximum.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An hour's steady walking spends two SP, three barefoot, in the dark or uphill.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sprint, a climb, a struggle or an exchange of blows spends one to three SP.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each cold hour spends one SP in shivering.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An active skill spends the SP its world-skill page states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A quarter hour sitting still gives back two SP, halved when hungry or cold.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A night's sleep warm gives back all her SP, and a stamina potion twenty at once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A night's sleep chilled, shivering or hungry gives back half the SP she is missing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A night's sleep freezing gives back no SP.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Asleep, cold hours spend no SP; what the night gives back is all that is counted.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Below a quarter of her SP every bodily act costs her one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "At nought SP she can only stagger, crawl or rest.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every change in SP is written on its page and a line of its history before the turn moves on.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "SP shows as a number only where the System shows it; otherwise as tiredness.",
+    },
   ],
 } as const satisfies WorldCheck

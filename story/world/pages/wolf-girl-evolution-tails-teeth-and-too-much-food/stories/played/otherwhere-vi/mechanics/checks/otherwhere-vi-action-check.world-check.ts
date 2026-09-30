@@ -117,5 +117,45 @@ export const otherwhereViActionCheck = {
       decisionKind: "decision-kind/absence",
       statement: "No die, band, bonus or margin shows in the prose.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "MP is a mana page titled MP.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A person's MP maximum is a third of Intelligence and Willpower, and one each level past the first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each Tier a person's Class advances adds half again to the MP maximum.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "MP is spent only by skills and spells, as each one's world-skill page states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "She cannot spend MP she lacks; pushing past nought costs two HP for each point short.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An hour gives back one MP, and standing on a leyline or in moonlight two.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A night's sleep gives back all her MP, and a mana potion fifteen at once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every change in MP is written on its page and a line of its history before the turn moves on.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement:
+        "MP shows as a number only where the System shows it; otherwise as a buzz or a hollow.",
+    },
   ],
 } as const satisfies WorldCheck
