@@ -10,7 +10,7 @@ export const climb0002TheMasquerade = {
   story: "story-written/climb",
   ownLength: 2622,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   beats: [
     "The middle stair climbs and turns, and somewhere on it the air grows cool and smells of wax.",
     "Near the top you find you are dressed: black evening clothes, fitted, and a mask over your eyes.",
@@ -103,7 +103,7 @@ export const climb0002TheMasquerade = {
     "She stops at the dais and touches the cello's neck once, lightly, then lets it be.",
     "She kisses you, slow and precise, and tells you good luck in Korean, then in English.",
     "She takes the left stair without looking back, her back very straight.",
-    "You take the right one alone, your evening clothes still on, and climb.",
+    "You dress again in the black evening clothes, take the right stair alone, and climb.",
   ],
   issues: [
     '"your evening clothes still on" - he undressed fully on the chaise and no beat dresses him',
