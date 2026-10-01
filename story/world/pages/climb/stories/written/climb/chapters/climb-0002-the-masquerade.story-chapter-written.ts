@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const climb0002 = {
+export const climb0002TheMasquerade = {
   id: "01a0f967-938d-7cba-8728-a9ee1f63f84b",
   type: "page-type/story-chapter-written",
-  slug: "climb-0002",
+  slug: "climb-0002-the-masquerade",
   position: 2,
   unit: "unit/words",
-  title: "Chapter 2",
+  title: "The Masquerade",
   story: "story-written/climb",
-  ownLength: 0,
+  ownLength: 2622,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "The middle stair climbs and turns, and somewhere on it the air grows cool and smells of wax.",
     "Near the top you find you are dressed: black evening clothes, fitted, and a mask over your eyes.",
@@ -105,5 +105,11 @@ export const climb0002 = {
     "She takes the left stair without looking back, her back very straight.",
     "You take the right one alone, your evening clothes still on, and climb.",
   ],
-  lore: ["lore/climb-mina", "place/climb-floor-2"],
+  lore: ["lore/climb-clara", "lore/climb-ines", "lore/climb-mina", "place/climb-floor-2"],
+  characters: [
+    "character-player/climb-alan",
+    "character-other/climb-mina",
+    "character-other/climb-clara",
+    "character-other/climb-ines",
+  ],
 } as const satisfies StoryChapterWritten
