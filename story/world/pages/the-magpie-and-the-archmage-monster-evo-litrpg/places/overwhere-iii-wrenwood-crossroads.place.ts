@@ -114,7 +114,7 @@ export const overwhereIiiWrenwoodCrossroads = {
     },
     {
       fact: "Resting against the shrine, white-gold threads drift to a holy mage and seep in, warm as sun.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",
