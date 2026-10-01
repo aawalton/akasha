@@ -136,7 +136,7 @@ function lastTurnOf(rows: readonly Page[]): number | null {
   return last
 }
 
-export function latestSlugOf(rows: readonly Page[]): string | null {
+function latestSlugOf(rows: readonly Page[]): string | null {
   let latest: { readonly slug: string; readonly position: number } | null = null
   for (const row of rows) {
     const position = asNumber(row.position)
@@ -149,7 +149,7 @@ export function latestSlugOf(rows: readonly Page[]): string | null {
 
 const LAST_TURN_POSITION = "lastTurnPosition"
 
-export function sheetTurnOf(ready: readonly Page[], chapters: readonly Page[]): number | null {
+function sheetTurnOf(ready: readonly Page[], chapters: readonly Page[]): number | null {
   const open = lastTurnOf(ready)
   if (open !== null) return open
   let last: number | null = null
