@@ -89,7 +89,7 @@ export const overwhereIGarrickPell = {
     },
     {
       fact: "Garrick's free supper on day 3 is eel pie and dark ale, and the night at the Stag passes quiet.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
