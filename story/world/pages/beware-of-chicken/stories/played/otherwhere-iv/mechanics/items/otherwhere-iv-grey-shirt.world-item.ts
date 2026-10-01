@@ -7,5 +7,4 @@ export const otherwhereIvGreyShirt = {
   title: "Grey Shirt",
   world: "world/beware-of-chicken",
   description: "A loose dark grey shirt of soft, fine-knit cloth.",
-  unrevealed: true,
 } as const satisfies WorldItem

@@ -8,5 +8,4 @@ export const otherwhereIvBlueHempClothes = {
   world: "world/beware-of-chicken",
   description:
     "A village woman's blue hemp jacket and trousers, with a cloth sash and cloth shoes.",
-  unrevealed: true,
 } as const satisfies WorldItem
