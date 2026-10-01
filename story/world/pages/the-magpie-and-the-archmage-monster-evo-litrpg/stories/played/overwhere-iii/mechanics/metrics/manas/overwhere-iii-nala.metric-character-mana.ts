@@ -5,7 +5,7 @@ export const overwhereIiiNala = {
   type: "page-type/metric-character-mana",
   slug: "overwhere-iii-nala",
   character: "character-player/overwhere-iii-nala",
-  value: 3,
+  value: 10,
   minValue: 0,
   maxValue: 10,
   history: "jsonl",
