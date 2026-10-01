@@ -162,7 +162,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "When the last of her skin is refined, it settles over her whole as one tight, cool shell.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "With her skin refined whole, Nala's Water starts seeping into her muscles on its own, aching.",
