@@ -156,5 +156,21 @@ export const overwhereIiNala2 = {
       fact: "A night's sleep restores Nala's mind whole after a lost refining, as after a finished one.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Refining in silence, Nala can ride the throat's jolt; trunk, neck and head take her an hour.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "When the last of her skin is refined, it settles over her whole as one tight, cool shell.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "With her skin refined whole, Nala's Water starts seeping into her muscles on its own, aching.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Refining muscle with Undertow takes Nala an hour a day per limb for about a week.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
