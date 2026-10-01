@@ -7,7 +7,16 @@ export const overwhereI00062 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 62,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I take my leave, get a bath and a meal, then go to bed. The go the next day with the other guy to retrieve the head.",
+  lore: [
+    "lore/overwhere-i-fenwatch-2",
+    "lore/overwhere-i-garrick-pell",
+    "lore/overwhere-i-greyfen-beasts-2",
+    "lore/overwhere-i-rowan-coalby",
+    "lore/overwhere-i-the-greyfen-alpha-2",
+    "lore/overwhere-i-the-greyfen-alpha-2-2",
+    "place/overwhere-i-the-greyfen",
+  ],
 } as const satisfies StoryTurnPlayed
