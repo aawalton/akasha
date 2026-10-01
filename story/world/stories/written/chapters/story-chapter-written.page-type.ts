@@ -16,8 +16,14 @@ export const storyChapterWritten = {
       uncommitted: true,
       default: "jsonl",
     },
+    {
+      pageProperty: "multi-relation-property/scene-images",
+      required: false,
+      many: true,
+      maxCount: 10,
+    },
   ],
-  parts: ["module/chapter-making", "module/chapter-panels"],
+  parts: ["module/chapter-making", "module/chapter-panels", "multi-relation-property/scene-images"],
   detailConfig: {
     frame: {
       edgeToEdge: true,
