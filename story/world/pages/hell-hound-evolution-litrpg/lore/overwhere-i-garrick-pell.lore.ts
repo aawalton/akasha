@@ -87,6 +87,10 @@ export const overwhereIGarrickPell = {
         "lore/overwhere-i-garrick-pell",
       ],
     },
+    {
+      fact: "Garrick's free supper on day 3 is eel pie and dark ale, and the night at the Stag passes quiet.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
