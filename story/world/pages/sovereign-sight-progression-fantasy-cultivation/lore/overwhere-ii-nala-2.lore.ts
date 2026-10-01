@@ -158,7 +158,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "Refining in silence, Nala can ride the throat's jolt; trunk, neck and head take her an hour.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "When the last of her skin is refined, it settles over her whole as one tight, cool shell.",
