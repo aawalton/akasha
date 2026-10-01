@@ -62,15 +62,15 @@ export const overwhereIvMillbrookShrine = {
     },
     {
       fact: "One hero tale tells of the Wayfarer, who stepped between cities in a breath.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The tale's Wayfarer cut a castle gate with a black blade no one else could see.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The hero tales call the Wayfarer long dead, and give no place, date or true name.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Sister Anwen asks a copper in the poor box for a sitting with the shrine's books.",
@@ -82,11 +82,11 @@ export const overwhereIvMillbrookShrine = {
     },
     {
       fact: "Anwen takes three copper as a gift past the price, and blesses the giver for it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The hero tales are a hand-copied book of some two hundred pages, a dozen tales in all.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "At Nala's pace the hero tales take some fifteen minutes to read through.",
@@ -94,19 +94,19 @@ export const overwhereIvMillbrookShrine = {
     },
     {
       fact: "Among the tales: the Wayfarer, the first sealing of the demon labyrinth, the guild's founding.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The labyrinth tale says it must be sealed again at each deadline, by rising heroes or a diamond.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The Wayfarer tale says the gods marked him at birth, and no one ever taught him his art.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The Wayfarer tale ends with him stepping through a door of his own making, never to return.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Place
