@@ -12,7 +12,7 @@ export const climb0001TheBathhouse = {
   story: "story-written/climb",
   ownLength: 3115,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "You wake on warm wet marble at the edge of a pool, wrapped in a white linen bath sheet.",
     "Your clothes are gone, and you cannot say how you came here.",
@@ -122,5 +122,10 @@ export const climb0001TheBathhouse = {
     "character-other/climb-ines",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+    "story-recorder/memory",
+  ],
 } as const satisfies StoryChapterWritten

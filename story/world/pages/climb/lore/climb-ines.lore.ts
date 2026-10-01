@@ -14,23 +14,47 @@ export const climbInes = {
     },
     {
       fact: "Ines is slim and slight, with sun-warmed olive skin and a dusting of freckles over her nose.",
-      knowers: ["lore-disclosure/game-master", "character-other/climb-ines"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/climb-ines",
+        "character-player/climb-alan",
+        "character-other/climb-clara",
+      ],
     },
     {
       fact: "Ines has dark brown eyes, a wide laughing mouth, and dark brown hair in loose salt-tousled waves.",
-      knowers: ["lore-disclosure/game-master", "character-other/climb-ines"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/climb-ines",
+        "character-player/climb-alan",
+        "character-other/climb-clara",
+      ],
     },
     {
       fact: "Ines has small soft tits with brown nipples, and her cunt is shaved smooth.",
-      knowers: ["lore-disclosure/game-master", "character-other/climb-ines"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/climb-ines",
+        "character-player/climb-alan",
+        "character-other/climb-clara",
+      ],
     },
     {
       fact: "Ines is a marine biologist who studies octopuses from a research boat out of Porto.",
-      knowers: ["lore-disclosure/game-master", "character-other/climb-ines"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/climb-ines",
+        "character-player/climb-alan",
+      ],
     },
     {
       fact: "Ines wants out because the boat sails in eleven days, on a season she fought three years to win.",
-      knowers: ["lore-disclosure/game-master", "character-other/climb-ines"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/climb-ines",
+        "character-player/climb-alan",
+        "character-other/climb-clara",
+      ],
     },
     {
       fact: "The wish Ines would make is her father's sight back; he went blind the year she left home.",
@@ -38,7 +62,12 @@ export const climbInes = {
     },
     {
       fact: "Ines is frank, quick to laugh and quick to decide, and swears in Portuguese when surprised.",
-      knowers: ["lore-disclosure/game-master", "character-other/climb-ines"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/climb-ines",
+        "character-player/climb-alan",
+        "character-other/climb-clara",
+      ],
     },
     {
       fact: "Ines has been with men and women both, and loves going down on a woman more than anything.",
@@ -46,11 +75,38 @@ export const climbInes = {
     },
     {
       fact: "Ines is loud in sex, likes being watched, and comes with her thighs clamped and her back arched.",
-      knowers: ["lore-disclosure/game-master", "character-other/climb-ines"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/climb-ines",
+        "character-player/climb-alan",
+        "character-other/climb-clara",
+      ],
     },
     {
       fact: "Ines's last memory before the tower is falling asleep in her bunk on the boat.",
-      knowers: ["lore-disclosure/game-master", "character-other/climb-ines"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/climb-ines",
+        "character-player/climb-alan",
+      ],
+    },
+    {
+      fact: "Ines's full name is Ines Carvalho, and she studies octopuses as a marine biologist.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/climb-alan",
+        "character-other/climb-clara",
+        "character-other/climb-ines",
+      ],
+    },
+    {
+      fact: "Ines says going down on a woman is her favourite thing in the world.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/climb-alan",
+        "character-other/climb-clara",
+        "character-other/climb-ines",
+      ],
     },
   ],
 } as const satisfies Lore

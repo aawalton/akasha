@@ -14,23 +14,48 @@ export const climbClara = {
     },
     {
       fact: "Clara is very slender and narrow-shouldered, pale, with light freckles across her shoulders.",
-      knowers: ["lore-disclosure/game-master", "character-other/climb-clara"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/climb-clara",
+        "character-player/climb-alan",
+        "character-other/climb-ines",
+      ],
     },
     {
       fact: "Clara has clear green eyes, fine features, and long red-gold hair she keeps in one thick plait.",
-      knowers: ["lore-disclosure/game-master", "character-other/climb-clara"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/climb-clara",
+        "character-player/climb-alan",
+        "character-other/climb-ines",
+      ],
     },
     {
       fact: "Clara has small high tits with pink nipples, and a neat strip of copper hair over her cunt.",
-      knowers: ["lore-disclosure/game-master", "character-other/climb-clara"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/climb-clara",
+        "character-player/climb-alan",
+        "character-other/climb-ines",
+      ],
     },
     {
       fact: "Clara is a trainee solicitor at an Edinburgh firm, and good at it.",
-      knowers: ["lore-disclosure/game-master", "character-other/climb-clara"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/climb-clara",
+        "character-player/climb-alan",
+        "character-other/climb-ines",
+      ],
     },
     {
       fact: "Clara wants out for her sister Ailsa's wedding in nine days, where she is maid of honour.",
-      knowers: ["lore-disclosure/game-master", "character-other/climb-clara"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/climb-clara",
+        "character-player/climb-alan",
+        "character-other/climb-ines",
+      ],
     },
     {
       fact: "The wish Clara would make is her mother free of the multiple sclerosis slowly taking her.",
@@ -38,19 +63,48 @@ export const climbClara = {
     },
     {
       fact: "Clara is careful, dry-witted and anxious, and blushes from her face down to her chest.",
-      knowers: ["lore-disclosure/game-master", "character-other/climb-clara"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/climb-clara",
+        "character-player/climb-alan",
+        "character-other/climb-ines",
+      ],
     },
     {
       fact: "Clara has only ever been with men, two of them, and has wondered about women for years.",
-      knowers: ["lore-disclosure/game-master", "character-other/climb-clara"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/climb-clara",
+        "character-player/climb-alan",
+        "character-other/climb-ines",
+      ],
     },
     {
       fact: "Once Clara decides she is wholly focused, and she comes quiet, then shaking and gasping.",
-      knowers: ["lore-disclosure/game-master", "character-other/climb-clara"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/climb-clara",
+        "character-player/climb-alan",
+        "character-other/climb-ines",
+      ],
     },
     {
       fact: "Clara's last memory before the tower is locking her flat door after a late night at the firm.",
-      knowers: ["lore-disclosure/game-master", "character-other/climb-clara"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/climb-clara",
+        "character-player/climb-alan",
+        "character-other/climb-ines",
+      ],
+    },
+    {
+      fact: "Clara's first kiss from a woman was Ines, in the bathhouse pool on floor 1.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/climb-alan",
+        "character-other/climb-ines",
+        "character-other/climb-clara",
+      ],
     },
   ],
 } as const satisfies Lore
