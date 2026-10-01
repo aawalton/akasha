@@ -9,7 +9,7 @@ Change only what the prose shows complete. A thing is hers once the prose shows 
 - Many of one thing are one page stating `quantity`. She gains or spends some: set `quantity` to how many the prose leaves her with, never to the page's number plus or minus the turn's, since the game master may have written the turn's change already. None are left: remove the page.
 - A thing she puts on or takes in hand: set its `slot` to that item-slot page. She takes it off: drop its `slot`.
 - A thing broken but kept stays, and its `description` says so.
-- A thing of hers stating `unrevealed: true` that the prose now shows her having: draft that line off.
+- A thing or purse of hers stating `unrevealed: true` that the prose now shows her having: draft that line off.
 
 Her money is a purse for each currency she carries. Set its `value` in the currency's smallest coin, converting any larger coins through the currency's denominations, and append the turn's line to its history, `{"turn":<this turn's number>,"value":<the new value>}`. A purse whose history has a line for this turn is written already, so change it no further. Where the prose gives her money and no purse names her, file one naming her and the story's currency. Where the prose shows her money only in words, such as a purse felt as heavy, set `revealedAs` to those words; draft that line off on the turn the prose first counts it.
 
