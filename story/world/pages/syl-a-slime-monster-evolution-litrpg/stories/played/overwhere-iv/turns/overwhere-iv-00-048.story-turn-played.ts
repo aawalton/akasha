@@ -4,13 +4,14 @@ export const overwhereIv00048 = {
   id: "01a0f7db-8630-7012-a446-18d5afdf9516",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-048",
+  cover: "image/image-da28538aea86a728",
   ownLength: 179,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 48,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“I’d like to read them all in time, lets start with the hero tales.” I put three copper in the poor box.",
   beats: [
@@ -33,6 +34,11 @@ export const overwhereIv00048 = {
     "place/overwhere-iv-millbrook-shrine",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-02T12:36:00.000Z",
 } as const satisfies StoryTurnPlayed
