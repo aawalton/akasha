@@ -36,9 +36,9 @@ const UNSENT = "The ask to undo the turn did not reach the game."
 
 const ERROR_LINE = "font-mono text-[12px] text-red"
 
-export type UndoKind = "cancel" | "take-back"
+type UndoKind = "cancel" | "take-back"
 
-export type UndoOffer = { readonly turn: string; readonly kind: UndoKind }
+type UndoOffer = { readonly turn: string; readonly kind: UndoKind }
 
 export const UNDO_WORDS: Readonly<
   Record<UndoKind, { readonly offer: string; readonly ask: string; readonly yes: string }>
@@ -73,7 +73,7 @@ export function undoPatchOf(gameExternalId: string, turn: string) {
   }
 }
 
-export type UndoHeard =
+type UndoHeard =
   | { readonly heard: false }
   | { readonly heard: true; readonly refused: string | null }
 
@@ -85,7 +85,7 @@ export function undoHeardIn(row: Row | undefined, turn: string): UndoHeard {
 
 type Step = "closed" | "confirming" | "asking"
 
-export type TurnUndo = { readonly item: ReactNode; readonly dialog: ReactNode }
+type TurnUndo = { readonly item: ReactNode; readonly dialog: ReactNode }
 
 export function useTurnUndo({
   gameExternalId,
