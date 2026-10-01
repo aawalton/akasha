@@ -172,5 +172,9 @@ export const overwhereIiNala2 = {
       fact: "Refining muscle with Undertow takes Nala an hour a day per limb for about a week.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "On the morning of day five Nala's skin is refined whole, scalp to sole.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
