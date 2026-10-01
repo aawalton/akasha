@@ -5,7 +5,7 @@ export const climb0001TheBathhouse = {
   type: "page-type/story-chapter-written",
   slug: "climb-0001-the-bathhouse",
   cover: "image/image-1955073830fbe597",
-  ownProgress: 172,
+  ownProgress: 280,
   position: 1,
   unit: "unit/words",
   title: "The Bathhouse",
