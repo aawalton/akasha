@@ -10,7 +10,7 @@ export const overwhereITheGreyfenAlpha22 = {
   facts: [
     {
       fact: "Near 10:00 on day 4 two Mire Snappers are tearing at Ghost-Eye's haunches.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "With Rowan's hatchet, taking Ghost-Eye's head off takes about ten minutes.",
