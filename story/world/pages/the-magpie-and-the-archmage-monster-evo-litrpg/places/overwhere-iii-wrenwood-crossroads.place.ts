@@ -112,6 +112,10 @@ export const overwhereIiiWrenwoodCrossroads = {
       fact: "Resting within a hundred paces of the shrine, a holy mage's mana comes back twice as fast.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Resting against the shrine, white-gold threads drift to a holy mage and seep in, warm as sun.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
