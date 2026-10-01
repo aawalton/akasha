@@ -1,2 +1,2 @@
-{"id":"01a0f508-3baf-7c70-8fb1-57b2209d09f2","title":"Sleep","startedAt":"2026-10-01T01:15:00.000Z","dailyTracking":"01a0f6e8-1ca6-7000-a3cd-6d20642dedcb","safetyLevel":"1","difficultyLevel":"0","endedAt":"2026-10-01T12:05:00.000Z"}
-{"id":"01a0f75a-9681-7d65-987f-26a662c7108d","title":"Read","startedAt":"2026-10-01T12:05:00.000Z","dailyTracking":"01a0f6e8-1ca6-7000-a3cd-6d20642dedcb","safetyLevel":"1","difficultyLevel":"1"}
+{"id":"01a0f508-3baf-7c70-8fb1-57b2209d09f2","title":"Sleep","startedAt":"2026-10-01T01:15:00.000Z","dailyTracking":"01a0f6e8-1ca6-7000-a3cd-6d20642dedcb","endedAt":"2026-10-01T12:05:00.000Z","safetyLevel":"1","difficultyLevel":"0"}
+{"id":"01a0f75a-9681-7d65-987f-26a662c7108d","title":"Read","startedAt":"2026-10-01T12:05:00.000Z","dailyTracking":"01a0f6e8-1ca6-7000-a3cd-6d20642dedcb","safetyLevel":"2","difficultyLevel":"1"}
