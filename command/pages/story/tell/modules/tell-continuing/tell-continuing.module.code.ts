@@ -39,7 +39,7 @@ export type Laid = {
   readonly fresh: boolean
 }
 
-export type Continuing = {
+type Continuing = {
   readonly listedAt: (pageTypeSlug: string, slug: string) => readonly { readonly path: string }[]
   readonly valueAt: (path: string) => Value | null
   readonly shaped: (path: string, text: string) => string
@@ -65,11 +65,11 @@ function pathOf(look: Continuing, named: string): string | null {
   return look.listedAt(address.pageTypeSlug, address.slug)[0]?.path ?? null
 }
 
-export function targetOf(named: string, value: Value | null): string {
+function targetOf(named: string, value: Value | null): string {
   return (value === null ? null : textAt(value, loreAbout.propertySlug)) ?? named
 }
 
-export function familyOf(look: Continuing, slug: string, target: string): Family {
+function familyOf(look: Continuing, slug: string, target: string): Family {
   const held: string[] = []
   let count = FIRST
   let path = look.listedAt(lore.slug, `${slug}-${count}`)[0]?.path
