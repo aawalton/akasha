@@ -128,5 +128,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "Mire Snappers are slow ashore and quick in water; hurt or burned, they slide off and leave a meal.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A Mire Snapper's shell sells for six silver to Wendlow's armourers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
