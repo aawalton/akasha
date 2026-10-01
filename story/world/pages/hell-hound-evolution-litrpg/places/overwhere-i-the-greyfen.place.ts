@@ -280,7 +280,7 @@ export const overwhereITheGreyfen = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The wade out to the pine island on day 4 holds nothing that calls for a check.",
+      fact: "Under Sedge's lead, the wade out on day 4 keeps to firm going and is uneventful.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
