@@ -4,6 +4,7 @@ export const climb0001TheBathhouse = {
   id: "01a0f958-d437-7342-adfa-13c292f020a1",
   type: "page-type/story-chapter-written",
   slug: "climb-0001-the-bathhouse",
+  cover: "image/image-1955073830fbe597",
   ownProgress: 0,
   position: 1,
   unit: "unit/words",
@@ -121,5 +122,5 @@ export const climb0001TheBathhouse = {
     "character-other/climb-ines",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/picture"],
 } as const satisfies StoryChapterWritten
