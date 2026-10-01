@@ -349,13 +349,5 @@ export const overwhereITheGreyfenAlpha2 = {
         "lore/overwhere-i-rowan-coalby",
       ],
     },
-    {
-      fact: "By dawn of day 4 scavengers have fed on Ghost-Eye's body, but its head is still whole.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "On day 4 Ghost-Eye's body lies snagged in reeds on the pine island's north bank, half out of water.",
-      knowers: ["lore-disclosure/game-master"],
-    },
   ],
 } as const satisfies Lore
