@@ -116,5 +116,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "A drake-pearl set as a focus can no longer be drawn on, sold to alchemists or swallowed.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A Mire Snapper is a fen turtle as broad as a cart wheel; Analyze shows Level 9.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
