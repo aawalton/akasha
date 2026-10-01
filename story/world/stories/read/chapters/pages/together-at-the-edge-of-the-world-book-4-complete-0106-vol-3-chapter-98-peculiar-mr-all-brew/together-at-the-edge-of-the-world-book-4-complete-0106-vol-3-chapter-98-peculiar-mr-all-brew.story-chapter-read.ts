@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0106Vol3Chapter98PeculiarMr
   id: "01a0f12a-cfef-7081-ac70-f236ebc7d6b2",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0106-vol-3-chapter-98-peculiar-mr-all-brew",
+  ownProgress: 2639,
   position: 106,
   publishedAt: "2025-12-07",
   unit: "unit/words",

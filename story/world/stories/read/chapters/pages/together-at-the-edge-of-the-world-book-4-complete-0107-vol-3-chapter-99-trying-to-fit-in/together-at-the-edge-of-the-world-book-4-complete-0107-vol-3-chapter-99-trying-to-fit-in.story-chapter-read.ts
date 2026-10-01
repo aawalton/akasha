@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0107Vol3Chapter99TryingToFi
   id: "01a0f12a-cfef-75a3-a600-106b248b96ac",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0107-vol-3-chapter-99-trying-to-fit-in",
+  ownProgress: 2208,
   position: 107,
   publishedAt: "2025-12-08",
   unit: "unit/words",
