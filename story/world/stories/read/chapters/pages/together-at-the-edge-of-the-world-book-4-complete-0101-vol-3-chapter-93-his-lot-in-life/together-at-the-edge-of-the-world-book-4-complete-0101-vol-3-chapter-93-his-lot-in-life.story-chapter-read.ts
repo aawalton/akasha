@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0101Vol3Chapter93HisLotInLi
   id: "01a0f12a-cfef-78ca-bc5a-e3e0508a18b2",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0101-vol-3-chapter-93-his-lot-in-life",
+  ownProgress: 2312,
   position: 101,
   publishedAt: "2025-11-30",
   unit: "unit/words",

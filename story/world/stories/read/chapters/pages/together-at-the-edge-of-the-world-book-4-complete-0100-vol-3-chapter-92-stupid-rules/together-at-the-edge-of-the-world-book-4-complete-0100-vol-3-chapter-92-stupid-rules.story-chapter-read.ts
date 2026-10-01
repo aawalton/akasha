@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0100Vol3Chapter92StupidRule
   id: "01a0f12a-cfef-7731-8a84-1643cfd11f28",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0100-vol-3-chapter-92-stupid-rules",
+  ownProgress: 2844,
   position: 100,
   publishedAt: "2025-11-27",
   unit: "unit/words",

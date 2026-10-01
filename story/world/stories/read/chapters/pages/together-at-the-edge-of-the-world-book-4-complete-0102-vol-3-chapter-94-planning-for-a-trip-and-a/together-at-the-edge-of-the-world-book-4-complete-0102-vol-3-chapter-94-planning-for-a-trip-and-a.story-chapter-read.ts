@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0102Vol3Chapter94PlanningFo
   id: "01a0f12a-cfef-7d95-bc5e-4fa84f1b9fff",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0102-vol-3-chapter-94-planning-for-a-trip-and-a",
+  ownProgress: 2260,
   position: 102,
   publishedAt: "2025-12-01",
   unit: "unit/words",
