@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0103Vol3Chapter95TheDayOfRe
   id: "01a0f12a-cfef-7e19-a6d4-c878c92c9041",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0103-vol-3-chapter-95-the-day-of-renewal",
+  ownProgress: 2104,
   position: 103,
   publishedAt: "2025-12-02",
   unit: "unit/words",

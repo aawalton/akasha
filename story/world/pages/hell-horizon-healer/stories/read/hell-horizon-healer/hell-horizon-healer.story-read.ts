@@ -14,7 +14,7 @@ export const hellHorizonHealer = {
     },
   ],
   author: "Freeid",
-  publicationStatus: "ongoing",
+  publicationStatus: "hiatus",
   externalTags: [
     "LitRPG",
     "Portal Fantasy / Isekai",
