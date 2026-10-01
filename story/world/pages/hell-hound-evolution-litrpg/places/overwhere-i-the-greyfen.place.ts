@@ -275,6 +275,10 @@ export const overwhereITheGreyfen = {
       fact: "Wading with Rowan and a sled, the pine island is five hours from the fen edge.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "No wolf crosses them wading out on day 4; the pack's fresh tracks run west, away from the island.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
