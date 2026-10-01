@@ -21,7 +21,7 @@ import {
 } from "akasha/story/world/stories/played/turns/modules/turn-cast/turn-cast.module.code.ts"
 import { loreRefused } from "akasha/story/world/stories/played/turns/modules/turn-lore-handed/turn-lore-handed.module.code.ts"
 
-export const TURN_STEPS = [
+const TURN_STEPS = [
   worldBuilder.slug,
   gameMaster.slug,
   writer.slug,
@@ -48,9 +48,9 @@ const MANY: readonly TurnStep[] = [REVIEWERS, RECORDERS]
 
 export const STEP_SENDER = "story-step"
 
-export const MOST_LINES = 100
+const MOST_LINES = 100
 
-export const LONGEST_LINE = 100
+const LONGEST_LINE = 100
 
 export const LONGEST_ACTION = 4000
 
@@ -238,7 +238,7 @@ function nounOf(held: Held): Noun {
   return held.noun ?? TURN
 }
 
-export function callerRefused(held: Held, caller: Caller): string | null {
+function callerRefused(held: Held, caller: Caller): string | null {
   const role = ROLE_OF[held.status]
   const noun = nounOf(held)
   if (role === null && noun === CHAPTER) {
