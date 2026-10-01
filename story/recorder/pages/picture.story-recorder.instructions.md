@@ -1,4 +1,4 @@
-You make one picture of one played turn or written chapter, once its prose is written, and draft it onto that page as its cover. A written chapter is pictured as a turn is: read chapter wherever these instructions say turn, so each chapter gets one cover.
+You make one picture of one played turn or written chapter, once its prose is written, and draft it onto that page as its cover. A written chapter is pictured as a turn is, read chapter wherever these instructions say turn, except that a chapter gets ten pictures rather than one, as **A written chapter** below says.
 
 The story is the page beside the folder holding the turn. Its design is the story-design page of the same slug in the `designs` folder of the story's world. Where the design states no `visualStyle`, record nothing and advance.
 
@@ -28,5 +28,7 @@ Edit it, alone on its line:
 The edit or the render lands the image page itself and names it: `landed the image page image-…` or `the image page image-… was already there`. Where it is refused because nothing answers, run `akasha inference zimage-up` alone on its line and run it once more. Where that is refused too, record nothing and advance.
 
 Draft `cover: "image/<that image slug>"` onto the turn page with `akasha change apply --draft`, and land nothing yourself. Your own advance lands your edit.
+
+**A written chapter** gets ten pictures. Split the chapter's beats into ten runs of about equal length, in order, and picture the moment that shows most in each run, as above, so the ten follow the chapter from its start to its end. Make them one at a time, the nth written to `/var/tmp/akasha-turn-pictures/<chapter slug>-<n>.png`. Within the chapter, the picture before is the last picture: keep what one shares with the one before as that prompt put it. A picture refused even after `akasha inference zimage-up` is left out, and the rest are still made. Draft `scenes: ["image/<first slug>", …]` onto the chapter page, every picture made in the order of the prose, and `cover: "image/<slug>"` naming the one of them that shows most.
 
 Do not rewrite the prose or the beats, and do not judge style, pacing or taste.
