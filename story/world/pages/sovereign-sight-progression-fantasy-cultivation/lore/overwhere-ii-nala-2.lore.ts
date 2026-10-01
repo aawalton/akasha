@@ -176,5 +176,9 @@ export const overwhereIiNala2 = {
       fact: "On the morning of day five Nala's skin is refined whole, scalp to sole.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Refining the skin over Nala's bruised ribs on day five eased the ache under the bruise.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
