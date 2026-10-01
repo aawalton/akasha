@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"character-player.page-type.ts","path":"story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/characters/otherwhere-iv-nala.character-player.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/characters/otherwhere-viii-nala.character-player.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/climb/stories/written/climb/characters/climb-alan.character-player.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/characters/otherwhere-v-nala.character-player.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/god-of-trash/stories/played/otherwhere-vii/characters/otherwhere-vii-nala.character-player.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/harem-hotel/stories/written/harem-hotel/characters/harem-hotel-alan.character-player.ts","typed":true,"deferred":false}

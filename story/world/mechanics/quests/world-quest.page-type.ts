@@ -7,7 +7,7 @@ export const worldQuest = {
   definition: "a piece of work the world sets a character",
   pluralSlug: "quests",
   extends: ["page-type/world-mechanic"],
-  parts: ["page-type/harem-hotel-floor"],
+  parts: ["page-type/harem-hotel-floor", "page-type/climb-floor"],
   runsTabooCheck: false,
   types: "ts",
   schema: "jsonl",

@@ -603,6 +603,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/mechanics/metrics/attributes/skill/otherwhere-iv-skill.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/arts/otherwhere-viii-art.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/metrics/attributes/control/otherwhere-viii-control.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/climb/stories/written/climb/mechanics/floors/climb-floor.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/cornerstone/mechanics/ranks/depth/cornerstone-depth.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/cornerstone/mechanics/ranks/wakefulness-tier/cornerstone-wakefulness-tier.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/cornerstone/stories/written/cornerstone/mechanics/metrics/attributes/cornerstone-faculty.page-type.ts","typed":true,"deferred":false}

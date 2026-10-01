@@ -78,6 +78,8 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/mechanics/otherwhere-viii-standing.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/mechanics/otherwhere-viii-survival.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/breaker-of-horizons/stories/played/otherwhere-viii/mechanics/mechanics/otherwhere-viii-time.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/climb/stories/written/climb/mechanics/mechanics/climb-cast.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/climb/stories/written/climb/mechanics/mechanics/climb-floors.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/cornerstone/mechanics/mechanics/cornerstone-decision-contract.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/cornerstone/mechanics/mechanics/cornerstone-faculties.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/cornerstone/mechanics/mechanics/cornerstone-fused-powers.world-mechanic.ts","typed":true,"deferred":false}

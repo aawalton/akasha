@@ -472,6 +472,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/named-events/properties/event-aliases.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/named-events/properties/evidence-chapter.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/named-events/properties/evidence-note.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/pages/climb/stories/written/climb/mechanics/floors/properties/climb-floor-task.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/pages/harem-hotel/stories/written/harem-hotel/mechanics/floors/properties/harem-hotel-floor-task.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/stories/played/overwhere-i/mechanics/legacies/properties/overwhere-i-legacy-ranks.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/properties/tower-skill-axis.text-property.ts","typed":true,"deferred":false}
