@@ -10,7 +10,7 @@ export const climb0002TheMasquerade = {
   story: "story-written/climb",
   ownLength: 2622,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "The middle stair climbs and turns, and somewhere on it the air grows cool and smells of wax.",
     "Near the top you find you are dressed: black evening clothes, fitted, and a mask over your eyes.",
@@ -105,6 +105,9 @@ export const climb0002TheMasquerade = {
     "She takes the left stair without looking back, her back very straight.",
     "You take the right one alone, your evening clothes still on, and climb.",
   ],
+  issues: [
+    '"your evening clothes still on" - he undressed fully on the chaise and no beat dresses him',
+  ],
   lore: ["lore/climb-clara", "lore/climb-ines", "lore/climb-mina", "place/climb-floor-2"],
   characters: [
     "character-player/climb-alan",
@@ -112,5 +115,5 @@ export const climb0002TheMasquerade = {
     "character-other/climb-clara",
     "character-other/climb-ines",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
