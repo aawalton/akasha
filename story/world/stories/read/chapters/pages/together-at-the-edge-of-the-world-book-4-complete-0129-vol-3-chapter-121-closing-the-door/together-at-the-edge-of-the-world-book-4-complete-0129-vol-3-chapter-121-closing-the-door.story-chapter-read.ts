@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0129Vol3Chapter121ClosingTh
   id: "01a0f12a-cff0-79fc-ae40-86a65f1bf18f",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0129-vol-3-chapter-121-closing-the-door",
+  ownProgress: 2452,
   position: 129,
   publishedAt: "2026-01-07",
   unit: "unit/words",

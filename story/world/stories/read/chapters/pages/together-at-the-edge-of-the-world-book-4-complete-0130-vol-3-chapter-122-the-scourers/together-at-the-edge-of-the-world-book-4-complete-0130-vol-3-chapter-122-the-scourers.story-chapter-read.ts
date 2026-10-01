@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0130Vol3Chapter122TheScoure
   id: "01a0f12a-cff0-7d0d-91bd-d149621a17db",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0130-vol-3-chapter-122-the-scourers",
+  ownProgress: 2224,
   position: 130,
   publishedAt: "2026-01-08",
   unit: "unit/words",

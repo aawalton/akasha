@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0131Vol3Chapter123WouldYour
   id: "01a0f12a-cff0-7207-82b3-61fbf8699b46",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0131-vol-3-chapter-123-would-your-dad-adopt-an",
+  ownProgress: 2691,
   position: 131,
   publishedAt: "2026-01-11",
   unit: "unit/words",

@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0132Vol3Chapter124ComingBac
   id: "01a0f12a-cff0-7257-bb74-559dcc0193fb",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0132-vol-3-chapter-124-coming-back-home",
+  ownProgress: 2392,
   position: 132,
   publishedAt: "2026-01-12",
   unit: "unit/words",
