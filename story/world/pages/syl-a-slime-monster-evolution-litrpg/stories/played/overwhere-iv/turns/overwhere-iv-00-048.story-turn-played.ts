@@ -4,10 +4,13 @@ export const overwhereIv00048 = {
   id: "01a0f7db-8630-7012-a446-18d5afdf9516",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-048",
+  ownLength: 179,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 48,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“I’d like to read them all in time, lets start with the hero tales.” I put three copper in the poor box.",
   beats: [
@@ -24,6 +27,10 @@ export const overwhereIv00048 = {
     "Long dead, the book says. No place, no date, no true name.",
     'Nala closes the book. Anwen looks up from her mending. "Quick. Was it worth the copper?"',
   ],
-  lore: ["place/overwhere-iv-millbrook-shrine"],
+  lore: [
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "place/overwhere-iv-millbrook-shrine",
+  ],
   endsAt: "2026-10-02T12:36:00.000Z",
 } as const satisfies StoryTurnPlayed
