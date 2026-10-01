@@ -24,7 +24,7 @@ const BEFORE_LAST = -2
 
 type Line = { readonly turn: number; readonly value: number }
 
-export type Pools = {
+type Pools = {
   readonly pools: Record<string, number>
   readonly delta: Record<string, number>
 }
