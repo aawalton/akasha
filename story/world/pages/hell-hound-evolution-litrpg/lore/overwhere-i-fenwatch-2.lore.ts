@@ -43,5 +43,9 @@ export const overwhereIFenwatch2 = {
       fact: "At 17:45 on day 3 the Stag holds Garrick, Agathe, Osric and a score of villagers at supper.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Hessa Vane rides into Fenwatch about 9:00 on day 4, after Nala and Rowan have gone into the fen.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
