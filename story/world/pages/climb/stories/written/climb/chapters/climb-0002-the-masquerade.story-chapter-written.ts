@@ -8,9 +8,9 @@ export const climb0002TheMasquerade = {
   unit: "unit/words",
   title: "The Masquerade",
   story: "story-written/climb",
-  ownLength: 2622,
+  ownLength: 2638,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "The middle stair climbs and turns, and somewhere on it the air grows cool and smells of wax.",
     "Near the top you find you are dressed: black evening clothes, fitted, and a mask over your eyes.",
