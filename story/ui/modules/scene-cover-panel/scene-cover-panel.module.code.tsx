@@ -158,9 +158,16 @@ export function pickedFor(paged: Paged | null, latest: string): string | null {
   return paged !== null && paged.from === latest ? paged.to : null
 }
 
-export function pagedAt(covers: readonly TurnCover[], picked: string | null): number {
+type Opening = "first" | "last"
+
+export function pagedAt(
+  covers: readonly TurnCover[],
+  picked: string | null,
+  opening: Opening = "last"
+): number {
   const at = picked === null ? -1 : covers.findIndex((one) => one.id === picked)
-  return at === -1 ? covers.length - 1 : at
+  if (at !== -1) return at
+  return opening === "first" ? 0 : covers.length - 1
 }
 
 type Step = "first" | "earlier" | "later" | "last"
@@ -184,23 +191,35 @@ export function keyStep(key: string): Step | null {
 
 type StepButton = { readonly step: Step; readonly label: string; readonly icon: ReactNode }
 
-const BEFORE: readonly StepButton[] = [
-  { step: "first", label: "First turn", icon: <ChevronsLeft aria-hidden /> },
-  { step: "earlier", label: "Earlier turn", icon: <ChevronLeft aria-hidden /> },
-]
+type Noun = { readonly one: string; readonly title: string; readonly last: string }
 
-const AFTER: readonly StepButton[] = [
-  { step: "later", label: "Later turn", icon: <ChevronRight aria-hidden /> },
-  { step: "last", label: "Latest turn", icon: <ChevronsRight aria-hidden /> },
-]
+const TURN: Noun = { one: "turn", title: "Turn", last: "Latest" }
+
+const SCENE: Noun = { one: "scene", title: "Scene", last: "Last" }
+
+function beforeOf(noun: Noun): readonly StepButton[] {
+  return [
+    { step: "first", label: `First ${noun.one}`, icon: <ChevronsLeft aria-hidden /> },
+    { step: "earlier", label: `Earlier ${noun.one}`, icon: <ChevronLeft aria-hidden /> },
+  ]
+}
+
+function afterOf(noun: Noun): readonly StepButton[] {
+  return [
+    { step: "later", label: `Later ${noun.one}`, icon: <ChevronRight aria-hidden /> },
+    { step: "last", label: `${noun.last} ${noun.one}`, icon: <ChevronsRight aria-hidden /> },
+  ]
+}
 
 type ScenePanelProps = {
   readonly turns: readonly ClientStoryTurn[]
   readonly turnCovers: readonly PlayedTurnCover[]
+  readonly areScenes?: boolean | undefined
   readonly gameExternalId?: string | undefined
 }
 
-export function SceneCoverPanel({ turns, turnCovers, gameExternalId }: ScenePanelProps) {
+export function SceneCoverPanel({ turns, turnCovers, areScenes, gameExternalId }: ScenePanelProps) {
+  const noun = areScenes === true ? SCENE : TURN
   const turnId = latestTurnId(turns)
   const [paged, setPaged] = useState<Paged | null>(null)
   const [viewing, setViewing] = useState(false)
@@ -219,7 +238,7 @@ export function SceneCoverPanel({ turns, turnCovers, gameExternalId }: ScenePane
   }, [viewing])
   const covers = turnCoversOf(turnCovers)
   if (turnId === null || covers.length === 0) return null
-  const at = pagedAt(covers, pickedFor(paged, turnId))
+  const at = pagedAt(covers, pickedFor(paged, turnId), areScenes === true ? "first" : "last")
   const shown = covers[at]
   if (shown === undefined) return null
   const rerollable = gameExternalId !== undefined
@@ -250,7 +269,7 @@ export function SceneCoverPanel({ turns, turnCovers, gameExternalId }: ScenePane
       <CoverDialog
         open={viewing}
         onOpenChange={setViewing}
-        name={`Turn ${shown.number}`}
+        name={`${noun.title} ${shown.number}`}
         whole={shown.whole}
       >
         {rerollable ? <RerollButton rerolling={rerolling} cover={shown.cover} /> : null}
@@ -259,7 +278,7 @@ export function SceneCoverPanel({ turns, turnCovers, gameExternalId }: ScenePane
         <div className="relative">
           <button
             type="button"
-            aria-label={`View turn ${shown.number} full size`}
+            aria-label={`View ${noun.one} ${shown.number} full size`}
             className="block w-full cursor-zoom-in rounded-md"
             onClick={() => setViewing(true)}
           >
@@ -269,9 +288,11 @@ export function SceneCoverPanel({ turns, turnCovers, gameExternalId }: ScenePane
         </div>
         {covers.length > ONE ? (
           <figcaption className="flex items-center justify-between">
-            <span className="flex gap-1">{BEFORE.map(stepped)}</span>
-            <span className="font-mono text-[12px] text-secondary">Turn {shown.number}</span>
-            <span className="flex gap-1">{AFTER.map(stepped)}</span>
+            <span className="flex gap-1">{beforeOf(noun).map(stepped)}</span>
+            <span className="font-mono text-[12px] text-secondary">
+              {noun.title} {shown.number}
+            </span>
+            <span className="flex gap-1">{afterOf(noun).map(stepped)}</span>
           </figcaption>
         ) : null}
         {rerolling.refused === null ? null : (
