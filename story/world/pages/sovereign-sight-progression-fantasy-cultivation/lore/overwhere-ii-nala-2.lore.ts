@@ -166,7 +166,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "With her skin refined whole, Nala's Water starts seeping into her muscles on its own, aching.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Refining muscle with Undertow takes Nala an hour a day per limb for about a week.",
