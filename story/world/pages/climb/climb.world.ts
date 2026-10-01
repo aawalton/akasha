@@ -6,5 +6,5 @@ export const climb = {
   slug: "climb",
   title: "The Climb",
   description:
-    "A sealed tower with no top, and strangers waking inside it. Every floor is a staged world, a bathhouse, a masquerade, a throne room, empty of anyone but the climbers who reach it and set with one sexual task those climbers meet together; the stairs up open when it is met, and up is the only way out. The women climbing it are real people from the world outside, each with a life of her own she wants back.",
+    "A sealed tower with no known top, strangers waking inside it, and a rumor that whoever passes the 100th floor is granted a wish. Every floor is a staged world, a bathhouse, a masquerade, a throne room, empty of anyone but the climbers who reach it and set with one sexual task those climbers meet together; the stairs up open when it is met, and up is the only way out. The women climbing it are real people from the world outside, each with a life of her own she wants back.",
 } as const satisfies World
