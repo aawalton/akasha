@@ -4,13 +4,14 @@ export const climb0002TheMasquerade = {
   id: "01a0f967-938d-7cba-8728-a9ee1f63f84b",
   type: "page-type/story-chapter-written",
   slug: "climb-0002-the-masquerade",
+  cover: "image/image-f80991c95c71c058",
   position: 2,
   unit: "unit/words",
   title: "The Masquerade",
   story: "story-written/climb",
   ownLength: 2638,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "The middle stair climbs and turns, and somewhere on it the air grows cool and smells of wax.",
     "Near the top you find you are dressed: black evening clothes, fitted, and a mask over your eyes.",
@@ -116,5 +117,10 @@ export const climb0002TheMasquerade = {
     "character-other/climb-ines",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
 } as const satisfies StoryChapterWritten
