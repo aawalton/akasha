@@ -12,7 +12,7 @@ export const climb0001TheBathhouse = {
   story: "story-written/climb",
   ownLength: 3115,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   beats: [
     "You wake on warm wet marble at the edge of a pool, wrapped in a white linen bath sheet.",
     "Your clothes are gone, and you cannot say how you came here.",
@@ -121,5 +121,5 @@ export const climb0001TheBathhouse = {
     "character-other/climb-clara",
     "character-other/climb-ines",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryChapterWritten
