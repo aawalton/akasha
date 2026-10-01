@@ -20,5 +20,9 @@ export const overwhereITheGreyfenAlpha22 = {
       fact: "By dawn of day 4 scavengers have fed on Ghost-Eye's body, but its head is still whole.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "On day 4 Ghost-Eye's body lies snagged in reeds on the pine island's north bank, half out of water.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
