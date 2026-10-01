@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0134Vol3Chapter126TheOldWom
   id: "01a0f12a-cff0-7e02-9b2e-e071dcd9c2d5",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0134-vol-3-chapter-126-the-old-woman-spreads",
+  ownProgress: 2257,
   position: 134,
   publishedAt: "2026-01-14",
   unit: "unit/words",

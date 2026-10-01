@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0136Vol3Chapter128NotASimpl
   id: "01a0f12a-cff0-76b6-95dc-af2bcb3c3f32",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0136-vol-3-chapter-128-not-a-simple-mayor",
+  ownProgress: 2953,
   position: 136,
   publishedAt: "2026-01-18",
   unit: "unit/words",

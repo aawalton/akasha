@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0138Vol3Chapter130Invitatio
   id: "01a0f12a-cff1-7494-b731-4a3d3ef3894b",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0138-vol-3-chapter-130-invitations-preparations",
+  ownProgress: 2090,
   position: 138,
   publishedAt: "2026-01-20",
   unit: "unit/words",

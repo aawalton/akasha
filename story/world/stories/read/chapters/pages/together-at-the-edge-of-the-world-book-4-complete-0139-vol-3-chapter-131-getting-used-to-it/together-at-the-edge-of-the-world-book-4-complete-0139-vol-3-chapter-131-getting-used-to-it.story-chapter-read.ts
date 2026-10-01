@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0139Vol3Chapter131GettingUs
   id: "01a0f12a-cff1-723f-8af7-b7dd4e164e2a",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0139-vol-3-chapter-131-getting-used-to-it",
+  ownProgress: 2436,
   position: 139,
   publishedAt: "2026-01-21",
   unit: "unit/words",

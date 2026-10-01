@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0135Vol3Chapter127NialasGre
   id: "01a0f12a-cff0-740c-94a5-2ae0d576710a",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0135-vol-3-chapter-127-nialas-greatest-creation",
+  ownProgress: 2815,
   position: 135,
   publishedAt: "2026-01-15",
   unit: "unit/words",

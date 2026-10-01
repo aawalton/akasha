@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0137Vol3Chapter129PrincessK
   id: "01a0f12a-cff1-7aae-800e-8eee7d11d70e",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0137-vol-3-chapter-129-princess-kitten",
+  ownProgress: 2239,
   position: 137,
   publishedAt: "2026-01-19",
   unit: "unit/words",
