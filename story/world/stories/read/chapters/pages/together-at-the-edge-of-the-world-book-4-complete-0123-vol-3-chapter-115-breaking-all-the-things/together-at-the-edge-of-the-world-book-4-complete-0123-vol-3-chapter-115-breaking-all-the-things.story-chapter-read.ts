@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0123Vol3Chapter115BreakingA
   id: "01a0f12a-cff0-73d8-8f75-46349d63d1b9",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0123-vol-3-chapter-115-breaking-all-the-things",
+  ownProgress: 3748,
   position: 123,
   publishedAt: "2025-12-30",
   unit: "unit/words",

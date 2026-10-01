@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0126Vol3Chapter118TheBetray
   id: "01a0f12a-cff0-7e1c-a86d-cfd4d6a7a8c8",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0126-vol-3-chapter-118-the-betrayal",
+  ownProgress: 2103,
   position: 126,
   publishedAt: "2026-01-04",
   unit: "unit/words",

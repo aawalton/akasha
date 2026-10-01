@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0121Vol3Chapter113TheDoor =
   id: "01a0f12a-cff0-7cd8-833c-095a7e8849f3",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0121-vol-3-chapter-113-the-door",
+  ownProgress: 3013,
   position: 121,
   publishedAt: "2025-12-28",
   unit: "unit/words",

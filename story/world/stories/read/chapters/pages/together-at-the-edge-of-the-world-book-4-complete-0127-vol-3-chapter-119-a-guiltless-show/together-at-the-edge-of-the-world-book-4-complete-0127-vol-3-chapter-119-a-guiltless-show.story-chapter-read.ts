@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0127Vol3Chapter119AGuiltles
   id: "01a0f12a-cff0-7a47-ab6f-380470be19fe",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0127-vol-3-chapter-119-a-guiltless-show",
+  ownProgress: 2593,
   position: 127,
   publishedAt: "2026-01-05",
   unit: "unit/words",

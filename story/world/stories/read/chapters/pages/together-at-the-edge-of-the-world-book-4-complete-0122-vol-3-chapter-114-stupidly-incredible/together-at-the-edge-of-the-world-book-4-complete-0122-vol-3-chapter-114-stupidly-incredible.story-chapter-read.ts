@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0122Vol3Chapter114StupidlyI
   id: "01a0f12a-cff0-7ab2-a86c-16003a665cb2",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0122-vol-3-chapter-114-stupidly-incredible",
+  ownProgress: 3075,
   position: 122,
   publishedAt: "2025-12-29",
   unit: "unit/words",

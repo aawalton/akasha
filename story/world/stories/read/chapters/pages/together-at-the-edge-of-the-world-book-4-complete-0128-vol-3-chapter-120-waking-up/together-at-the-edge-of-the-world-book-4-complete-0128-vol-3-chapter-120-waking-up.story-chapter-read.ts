@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0128Vol3Chapter120WakingUp 
   id: "01a0f12a-cff0-743d-b5d4-069f1de9018d",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0128-vol-3-chapter-120-waking-up",
+  ownProgress: 2771,
   position: 128,
   publishedAt: "2026-01-06",
   unit: "unit/words",

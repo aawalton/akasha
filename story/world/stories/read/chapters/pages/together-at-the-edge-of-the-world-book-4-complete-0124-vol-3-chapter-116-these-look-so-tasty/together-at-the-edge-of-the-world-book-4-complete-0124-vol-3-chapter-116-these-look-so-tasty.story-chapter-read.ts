@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0124Vol3Chapter116TheseLook
   id: "01a0f12a-cff0-7625-b682-226b79d471dd",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0124-vol-3-chapter-116-these-look-so-tasty",
+  ownProgress: 2008,
   position: 124,
   publishedAt: "2025-12-31",
   unit: "unit/words",

@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0125Vol3Chapter117MuscleBra
   id: "01a0f12a-cff0-7960-adc2-f828e6e1d9d7",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0125-vol-3-chapter-117-muscle-brain",
+  ownProgress: 2846,
   position: 125,
   publishedAt: "2026-01-01",
   unit: "unit/words",
