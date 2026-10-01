@@ -13,7 +13,7 @@ export const overwhereIii00048 = {
     "character-player/overwhere-iii-nala",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I go out to the shrine and try resting there for a while",
   beats: [
     "Nala walks out the south gate and down the north road, two miles between the winter fields.",
@@ -34,6 +34,6 @@ export const overwhereIii00048 = {
     "lore/overwhere-iii-nala-2",
     "place/overwhere-iii-wrenwood-crossroads",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-03T15:35:00.000Z",
 } as const satisfies StoryTurnPlayed
