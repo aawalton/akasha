@@ -7,7 +7,7 @@ export const cleanToilet = {
   title: "Clean toilet",
   toDoCategory: "health",
   difficulty: "hard",
-  toDoDueDate: "2026-09-30",
+  toDoDueDate: "2026-10-01",
   priority: "p3",
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=4MO",
   toDoSortOrder: 30,
