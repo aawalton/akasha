@@ -126,7 +126,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "The skin round Nala's eyes and lips burns worst of all to refine, and her eyes stream.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Trunk, neck and head together wear Nala's mind as much as two limbs, the day's whole share.",
