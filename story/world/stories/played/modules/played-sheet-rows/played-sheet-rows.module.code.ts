@@ -215,7 +215,7 @@ const COUNTED_APART = ", "
 
 const PURSE = "Purse"
 
-export type Denomination = { readonly name: string; readonly worth: number }
+type Denomination = { readonly name: string; readonly worth: number }
 
 export type Currency = { readonly title: string; readonly denominations: readonly Denomination[] }
 
