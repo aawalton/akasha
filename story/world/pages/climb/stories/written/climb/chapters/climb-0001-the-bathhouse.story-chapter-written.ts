@@ -122,4 +122,5 @@ export const climb0001TheBathhouse = {
     "character-other/climb-ines",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/inventory"],
 } as const satisfies StoryChapterWritten
