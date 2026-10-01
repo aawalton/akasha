@@ -124,5 +124,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "A Mire Snapper has 40 health and shell ward 4 (3 against a slug); its bite does 12 and holds.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Mire Snappers are slow ashore and quick in water; hurt or burned, they slide off and leave a meal.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
