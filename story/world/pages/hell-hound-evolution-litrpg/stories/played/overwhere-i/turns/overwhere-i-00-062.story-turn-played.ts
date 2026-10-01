@@ -4,10 +4,13 @@ export const overwhereI00062 = {
   id: "01a0f7d8-4252-7853-8f44-20aa2eb652b8",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-062",
+  ownLength: 166,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 62,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
+  stepStatus: "step-status/reviewers",
   action:
     "I take my leave, get a bath and a meal, then go to bed. The go the next day with the other guy to retrieve the head.",
   beats: [
@@ -28,6 +31,8 @@ export const overwhereI00062 = {
     "lore/overwhere-i-fenwatch-2",
     "lore/overwhere-i-garrick-pell",
     "lore/overwhere-i-greyfen-beasts-2",
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
     "lore/overwhere-i-rowan-coalby",
     "lore/overwhere-i-the-greyfen-alpha-2",
     "lore/overwhere-i-the-greyfen-alpha-2-2",
