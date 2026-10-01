@@ -65,43 +65,63 @@ test("an act that settles later keeps the turn until it settles, then gives it u
 })
 
 const APPENDING = `
-const { appendFileSync, readFileSync } = require("node:fs")
+const { appendFileSync, existsSync, readFileSync } = require("node:fs")
 const { exclusively } = require(process.env.CODE_AT)
 let torn = 0
-for (let turn = 0; turn < Number(process.env.TURNS); turn += 1) {
+let turn = 0
+for (; turn < Number(process.env.TURNS) || !existsSync(process.env.STOP); turn += 1) {
   exclusively(process.env.AT, () => appendFileSync(process.env.AT, "read " + turn + "\\n"))
   if (!readFileSync(process.env.AT, "utf8").startsWith("held\\n")) torn += 1
 }
-console.log(JSON.stringify(torn))
+console.log(JSON.stringify({ torn, turns: turn }))
 `
 
 const TURNS = 300
 
+const WRITES = 50
+
+const FIRST_LINE = "read 0"
+
+async function firstAppended(at: string, other: Bun.Subprocess): Promise<undefined> {
+  while (other.exitCode === null && !readFileSync(at, "utf8").includes(FIRST_LINE)) {
+    await Bun.sleep(1)
+  }
+}
+
 test("a line another process appends while a file is written over is kept, and never seen torn", async () => {
-  const at = join(scratch.rootFor("akasha-exclusive-"), PAGE)
+  const root = scratch.rootFor("akasha-exclusive-")
+  const at = join(root, PAGE)
+  const stop = join(root, "stop")
   writeFileSync(at, "held\n")
   const other = Bun.spawn([process.execPath, "-e", APPENDING], {
     env: {
       ...process.env,
       CODE_AT: join(import.meta.dir, "exclusive.module.code.ts"),
       AT: at,
+      STOP: stop,
       TURNS: String(TURNS),
     },
     stdout: "pipe",
   })
-  let writes = 0
-  while (other.exitCode === null) {
+  await firstAppended(at, other)
+  for (let write = 0; write < WRITES; write += 1) {
     writtenOver(at, (text) => `${text}landed\n`)
     writtenOver(at, (text) => text.replace("landed\n", ""))
-    writes += 1
     await Bun.sleep(1)
   }
-  const torn = JSON.parse(await new Response(other.stdout).text()) as number
-  const lines = readFileSync(at, "utf8").split("\n")
-  expect(writes).toBeGreaterThan(10)
-  expect(torn).toBe(0)
-  for (let turn = 0; turn < TURNS; turn += 1) expect(lines).toContain(`read ${turn}`)
-  expect(lines).not.toContain("landed")
+  writeFileSync(stop, "")
+  await other.exited
+  const said = JSON.parse(await new Response(other.stdout).text()) as {
+    readonly torn: number
+    readonly turns: number
+  }
+  const lines = new Set(readFileSync(at, "utf8").split("\n"))
+  const lost: number[] = []
+  for (let turn = 0; turn < said.turns; turn += 1) if (!lines.has(`read ${turn}`)) lost.push(turn)
+  expect(said.torn).toBe(0)
+  expect(said.turns).toBeGreaterThanOrEqual(TURNS)
+  expect(lost).toEqual([])
+  expect(lines.has("landed")).toBe(false)
 })
 
 test("a write over that answers nothing leaves the file as it was", () => {
