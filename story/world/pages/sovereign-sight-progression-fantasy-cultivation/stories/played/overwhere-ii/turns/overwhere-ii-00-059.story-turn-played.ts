@@ -11,7 +11,7 @@ export const overwhereIi00059 = {
   position: 59,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I get some food and drink, then retire and focus on finishing refining my skin, then take a nap",
   beats: [
@@ -32,6 +32,11 @@ export const overwhereIi00059 = {
   ],
   lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-03T09:15:00.000Z",
 } as const satisfies StoryTurnPlayed
