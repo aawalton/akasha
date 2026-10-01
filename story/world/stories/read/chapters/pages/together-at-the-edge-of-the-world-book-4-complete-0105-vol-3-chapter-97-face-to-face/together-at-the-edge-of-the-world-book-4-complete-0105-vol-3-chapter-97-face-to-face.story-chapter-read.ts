@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0105Vol3Chapter97FaceToFace
   id: "01a0f12a-cfef-7415-b846-fc3db4b59048",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0105-vol-3-chapter-97-face-to-face",
+  ownProgress: 2428,
   position: 105,
   publishedAt: "2025-12-04",
   unit: "unit/words",
