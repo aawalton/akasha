@@ -10,5 +10,6 @@ export const climb0002 = {
   story: "story-written/climb",
   ownLength: 0,
   prose: "txt",
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
+  lore: ["lore/climb-mina", "place/climb-floor-2"],
 } as const satisfies StoryChapterWritten
