@@ -132,5 +132,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "A Mire Snapper's shell sells for six silver to Wendlow's armourers.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Mire Snappers are fen turtles as broad as cart wheels.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
