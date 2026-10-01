@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0110Vol3Chapter102TheBlueDe
   id: "01a0f12a-cfef-7cc7-9b07-7640f26bc02c",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0110-vol-3-chapter-102-the-blue-demon",
+  ownProgress: 2423,
   position: 110,
   publishedAt: "2025-12-11",
   unit: "unit/words",

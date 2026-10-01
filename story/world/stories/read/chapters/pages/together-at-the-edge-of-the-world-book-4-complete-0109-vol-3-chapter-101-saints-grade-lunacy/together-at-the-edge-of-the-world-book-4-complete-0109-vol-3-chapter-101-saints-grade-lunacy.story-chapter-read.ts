@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0109Vol3Chapter101SaintsGra
   id: "01a0f12a-cfef-709a-86c2-2a1df71d796f",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0109-vol-3-chapter-101-saints-grade-lunacy",
+  ownProgress: 2138,
   position: 109,
   publishedAt: "2025-12-10",
   unit: "unit/words",

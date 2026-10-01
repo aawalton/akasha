@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0108Vol3Chapter100DatingAMo
   id: "01a0f12a-cfef-7a12-9ce0-e714f4195c2b",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0108-vol-3-chapter-100-dating-a-monster",
+  ownProgress: 2453,
   position: 108,
   publishedAt: "2025-12-09",
   unit: "unit/words",
