@@ -11,4 +11,5 @@ export const overwhereIv00048 = {
   action:
     "“I’d like to read them all in time, lets start with the hero tales.” I put three copper in the poor box.",
   lore: ["place/overwhere-iv-millbrook-shrine"],
+  endsAt: "2026-10-02T12:36:00.000Z",
 } as const satisfies StoryTurnPlayed
