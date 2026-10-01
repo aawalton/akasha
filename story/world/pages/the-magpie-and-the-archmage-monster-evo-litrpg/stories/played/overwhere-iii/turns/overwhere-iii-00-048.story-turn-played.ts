@@ -4,6 +4,7 @@ export const overwhereIii00048 = {
   id: "01a0f7da-50fe-76e4-a168-8883fecfa965",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-048",
+  cover: "image/image-9b2d335b0fa82877",
   ownLength: 141,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -13,7 +14,7 @@ export const overwhereIii00048 = {
     "character-player/overwhere-iii-nala",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I go out to the shrine and try resting there for a while",
   beats: [
     "Nala walks out the south gate and down the north road, two miles between the winter fields.",
@@ -35,6 +36,11 @@ export const overwhereIii00048 = {
     "place/overwhere-iii-wrenwood-crossroads",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-03T15:35:00.000Z",
 } as const satisfies StoryTurnPlayed
