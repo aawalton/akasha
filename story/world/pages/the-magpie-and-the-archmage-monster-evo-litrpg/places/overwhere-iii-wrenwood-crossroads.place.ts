@@ -110,7 +110,7 @@ export const overwhereIiiWrenwoodCrossroads = {
     },
     {
       fact: "Resting within a hundred paces of the shrine, a holy mage's mana comes back twice as fast.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Resting against the shrine, white-gold threads drift to a holy mage and seep in, warm as sun.",
