@@ -30,5 +30,6 @@ export const overwhereIi00059 = {
     "She has not done anything to cause it. She can feel her Water seeping into her muscles, on its own.",
   ],
   lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-03T09:15:00.000Z",
 } as const satisfies StoryTurnPlayed
