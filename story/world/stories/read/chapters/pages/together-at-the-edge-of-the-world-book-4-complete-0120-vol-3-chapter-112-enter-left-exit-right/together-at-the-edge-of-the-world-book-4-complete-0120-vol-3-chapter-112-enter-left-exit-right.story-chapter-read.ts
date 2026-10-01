@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0120Vol3Chapter112EnterLeft
   id: "01a0f12a-cff0-7996-9fb1-86dba6ed66b9",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0120-vol-3-chapter-112-enter-left-exit-right",
+  ownProgress: 2817,
   position: 120,
   publishedAt: "2025-12-25",
   unit: "unit/words",

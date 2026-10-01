@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0118Vol3Chapter110BeginingT
   id: "01a0f12a-cff0-7987-8651-4b5ad7714d03",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0118-vol-3-chapter-110-begining-the-thaw",
+  ownProgress: 2562,
   position: 118,
   publishedAt: "2025-12-23",
   unit: "unit/words",

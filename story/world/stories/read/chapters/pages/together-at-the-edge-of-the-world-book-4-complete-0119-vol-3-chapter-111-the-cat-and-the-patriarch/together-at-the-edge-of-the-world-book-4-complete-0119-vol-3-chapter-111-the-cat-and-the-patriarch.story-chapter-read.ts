@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0119Vol3Chapter111TheCatAnd
   id: "01a0f12a-cff0-70fa-828d-a772465fa717",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0119-vol-3-chapter-111-the-cat-and-the-patriarch",
+  ownProgress: 3546,
   position: 119,
   publishedAt: "2025-12-24",
   unit: "unit/words",
