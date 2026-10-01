@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const climb0001 = {
+export const climb0001TheBathhouse = {
   id: "01a0f958-d437-7342-adfa-13c292f020a1",
   type: "page-type/story-chapter-written",
-  slug: "climb-0001",
+  slug: "climb-0001-the-bathhouse",
   position: 1,
   unit: "unit/words",
-  title: "Chapter 1",
+  title: "The Bathhouse",
   story: "story-written/climb",
-  ownLength: 0,
+  ownLength: 3115,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "You wake on warm wet marble at the edge of a pool, wrapped in a white linen bath sheet.",
     "Your clothes are gone, and you cannot say how you came here.",
@@ -114,4 +114,9 @@ export const climb0001 = {
     "You take the middle stair alone, and the bathhouse falls quiet below you as you climb.",
   ],
   lore: ["lore/climb-clara", "lore/climb-ines", "place/climb-floor-1"],
+  characters: [
+    "character-player/climb-alan",
+    "character-other/climb-clara",
+    "character-other/climb-ines",
+  ],
 } as const satisfies StoryChapterWritten
