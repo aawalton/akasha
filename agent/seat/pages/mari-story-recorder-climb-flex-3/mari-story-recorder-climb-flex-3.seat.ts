@@ -11,4 +11,5 @@ export const mariStoryRecorderClimbFlex3 = {
   startMode: "seat-mode/headless",
   onCall: false,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "df736739-b81c-4b26-b7df-2b537f63d188",
 } as const satisfies Seat
