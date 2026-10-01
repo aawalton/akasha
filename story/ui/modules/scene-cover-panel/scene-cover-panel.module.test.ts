@@ -90,6 +90,13 @@ test("the paging opens on the latest turn with a cover", () => {
   expect(pagedAt(two, "gone")).toBe(1)
 })
 
+test("a chapter's scenes open on the first scene", () => {
+  const two = covers(2)
+  expect(pagedAt(two, null, "first")).toBe(0)
+  expect(pagedAt(two, "b", "first")).toBe(1)
+  expect(pagedAt(two, "gone", "first")).toBe(0)
+})
+
 test("first and last jump to the ends, and a step stops at each end", () => {
   const three = covers(3)
   expect(steppedTo(three, 1, "first")?.id).toBe("a")

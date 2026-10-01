@@ -19,6 +19,11 @@ export const sceneCoverPanel = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A chapter's scenes are paged as turns are, named as scenes and opening on the first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "Arrows under the turn cover page through every turn at player that has a cover, drawn or not.",
     },
     {

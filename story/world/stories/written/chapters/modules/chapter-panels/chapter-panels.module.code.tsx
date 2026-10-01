@@ -62,6 +62,7 @@ type ChapterShown = {
   readonly title: string
   readonly position: number | null
   readonly cover: string
+  readonly scenes: readonly string[]
   readonly disclosed: boolean
 }
 
@@ -78,7 +79,15 @@ function chapterTurnsOf(chapter: ChapterShown): readonly ClientStoryTurn[] {
 }
 
 function chapterCoversOf(chapter: ChapterShown): readonly PlayedTurnCover[] {
-  if (!chapter.disclosed || chapter.cover === "") return []
+  if (!chapter.disclosed) return []
+  if (chapter.scenes.length > 0) {
+    return chapter.scenes.map((cover, at) => ({
+      id: `${chapter.id}#${at + ONE}`,
+      number: at + ONE,
+      cover,
+    }))
+  }
+  if (chapter.cover === "") return []
   return [{ id: chapter.id, number: chapter.position ?? ONE, cover: chapter.cover }]
 }
 
@@ -106,6 +115,7 @@ function chapterShownOf(id: string, data: Readonly<Record<string, unknown>>): Ch
     title: textIn(data.title),
     position: asNumber(data.position),
     cover: textIn(data.cover),
+    scenes: stringsIn(data.scenes),
     disclosed: chapterDisclosed(data.stepStatus),
   }
 }
@@ -257,6 +267,7 @@ function StoryAside({
       turns,
       turnsPageTypeSlug: pageTypeSlug,
       turnCovers: chapterCoversOf(chapter),
+      coversAreScenes: chapter.scenes.length > 0,
       player,
       beats: undefined,
       earlier: 0,

@@ -29,6 +29,10 @@ export const chapterPanels = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A chapter with scenes hands its panels those scenes in place of its cover.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A written story's page draws its panels over its latest chapter at player.",
     },
   ],
