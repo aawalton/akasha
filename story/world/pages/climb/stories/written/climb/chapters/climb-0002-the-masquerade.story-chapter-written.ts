@@ -116,4 +116,5 @@ export const climb0002TheMasquerade = {
     "character-other/climb-ines",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryChapterWritten
