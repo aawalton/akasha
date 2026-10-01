@@ -11,4 +11,5 @@ export const overwhereIi00059 = {
   action:
     "I get some food and drink, then retire and focus on finishing refining my skin, then take a nap",
   lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2"],
+  endsAt: "2026-10-03T09:15:00.000Z",
 } as const satisfies StoryTurnPlayed
