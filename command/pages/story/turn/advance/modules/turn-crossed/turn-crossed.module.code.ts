@@ -34,7 +34,7 @@ const UTF8 = "utf8"
 
 type Said = string | number
 
-export type Crossed = { readonly turn: string; readonly crossings: readonly string[] }
+type Crossed = { readonly turn: string; readonly crossings: readonly string[] }
 
 export type Crossing = (root: string, game: string, turn: Turn) => Crossed | null
 
