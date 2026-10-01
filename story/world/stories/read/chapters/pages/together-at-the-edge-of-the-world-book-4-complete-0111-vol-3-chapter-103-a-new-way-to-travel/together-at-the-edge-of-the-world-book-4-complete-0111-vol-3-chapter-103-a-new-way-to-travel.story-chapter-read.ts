@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0111Vol3Chapter103ANewWayTo
   id: "01a0f12a-cfef-74d6-96b7-bddc9d797365",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0111-vol-3-chapter-103-a-new-way-to-travel",
+  ownProgress: 2651,
   position: 111,
   publishedAt: "2025-12-14",
   unit: "unit/words",

@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0116Vol3Chapter108Weighting
   id: "01a0f12a-cff0-723f-8fcb-665c38cba601",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0116-vol-3-chapter-108-weighting-the-scale",
+  ownProgress: 2388,
   position: 116,
   publishedAt: "2025-12-21",
   unit: "unit/words",

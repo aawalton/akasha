@@ -4,6 +4,7 @@ export const togetherAtTheEdgeOfTheWorldBook4Complete0115Vol3Chapter107ADealWort
   id: "01a0f12a-cff0-7097-99d6-11266b14dd81",
   type: "page-type/story-chapter-read",
   slug: "together-at-the-edge-of-the-world-book-4-complete-0115-vol-3-chapter-107-a-deal-worth-making",
+  ownProgress: 1966,
   position: 115,
   publishedAt: "2025-12-18",
   unit: "unit/words",
