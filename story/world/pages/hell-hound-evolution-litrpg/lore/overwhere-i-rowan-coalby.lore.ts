@@ -168,7 +168,7 @@ export const overwhereIRowanCoalby = {
     },
     {
       fact: "At first light, about 5:00 on day 4, Rowan waits by his charcoal mounds with sled, rope and Sedge.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
