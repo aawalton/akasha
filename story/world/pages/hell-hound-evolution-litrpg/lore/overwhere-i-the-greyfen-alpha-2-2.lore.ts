@@ -10,7 +10,11 @@ export const overwhereITheGreyfenAlpha22 = {
   facts: [
     {
       fact: "Near 10:00 on day 4 two Mire Snappers are tearing at Ghost-Eye's haunches.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-rowan-coalby",
+      ],
     },
     {
       fact: "With Rowan's hatchet, taking Ghost-Eye's head off takes about ten minutes.",
@@ -18,11 +22,19 @@ export const overwhereITheGreyfenAlpha22 = {
     },
     {
       fact: "By dawn of day 4 scavengers have fed on Ghost-Eye's body, but its head is still whole.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-rowan-coalby",
+      ],
     },
     {
       fact: "On day 4 Ghost-Eye's body lies snagged in reeds on the pine island's north bank, half out of water.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-rowan-coalby",
+      ],
     },
   ],
 } as const satisfies Lore
