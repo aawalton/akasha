@@ -112,4 +112,5 @@ export const climb0002TheMasquerade = {
     "character-other/climb-clara",
     "character-other/climb-ines",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
