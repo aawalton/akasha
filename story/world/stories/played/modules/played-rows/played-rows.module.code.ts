@@ -31,7 +31,7 @@ export const PLAYED_TURN_COLLECTIONS_KEY = "partOfCollections"
 
 export const PLAYED_POSITION_KEY = "position"
 
-export const PLAYED_CHARACTER_PAGE_TYPE_SLUG = "character-player"
+const PLAYED_CHARACTER_PAGE_TYPE_SLUG = "character-player"
 
 const PLAYED_CHARACTER_STORY_KEY = "story"
 
@@ -43,7 +43,7 @@ const SEAT_STATE_KEY = "turnState"
 
 export type PlayedList = { readonly pageTypeSlug: string; readonly named: NamedPages }
 
-export type PlayedLists = {
+type PlayedLists = {
   readonly chapters: PlayedList
   readonly turns: PlayedList
   readonly character: PlayedList
@@ -181,7 +181,7 @@ export const PLAYED_APPOINTMENT_AT_KEY = "appointmentAt"
 
 const PLAYED_APPOINTMENT_CHARACTERS_KEY = "characters"
 
-export type PlayedAppointment = {
+type PlayedAppointment = {
   readonly id: string
   readonly when: string
   readonly title: string
