@@ -16,5 +16,9 @@ export const overwhereITheGreyfenAlpha22 = {
       fact: "With Rowan's hatchet, taking Ghost-Eye's head off takes about ten minutes.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "By dawn of day 4 scavengers have fed on Ghost-Eye's body, but its head is still whole.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
