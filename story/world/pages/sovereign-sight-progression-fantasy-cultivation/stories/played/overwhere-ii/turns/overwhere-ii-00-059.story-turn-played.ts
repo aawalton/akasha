@@ -4,10 +4,13 @@ export const overwhereIi00059 = {
   id: "01a0f7d9-251b-74be-a755-f9df00e13f47",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-059",
+  ownLength: 251,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 59,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I get some food and drink, then retire and focus on finishing refining my skin, then take a nap",
   beats: [
