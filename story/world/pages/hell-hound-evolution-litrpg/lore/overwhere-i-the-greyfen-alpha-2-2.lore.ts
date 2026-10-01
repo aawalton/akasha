@@ -12,5 +12,9 @@ export const overwhereITheGreyfenAlpha22 = {
       fact: "Near 10:00 on day 4 two Mire Snappers are tearing at Ghost-Eye's haunches.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "With Rowan's hatchet, taking Ghost-Eye's head off takes about ten minutes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
