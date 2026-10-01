@@ -11,4 +11,5 @@ export const mariWriterClimb = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "613be97a-c44b-4b23-a064-b5ac93627444",
 } as const satisfies Seat
