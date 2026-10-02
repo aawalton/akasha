@@ -177,6 +177,27 @@ export const hollowmereLin = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Lin's line: the hook turns in because the light has to come back to you; Penhallow called it nice.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Lin signed for life drawing very small at the bottom of the sheet, and went pink when Nala saw.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

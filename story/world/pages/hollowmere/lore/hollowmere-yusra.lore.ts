@@ -137,6 +137,54 @@ export const hollowmereYusra = {
       fact: "Yusra works night shifts in the infirmary on Tuesdays and Thursdays, ten till six.",
       knowers: ["lore-disclosure/game-master", "character-other/hollowmere-yusra"],
     },
+    {
+      fact: "A Thornfield girl told Nala Yusra does night shifts at the infirmary on Tuesdays and Thursdays.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "Yusra checked Nala's eyes with a light, gave her a mint draught, and let her rest an hour.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "Yusra said Nala pushes like one with something to prove; Nala said maybe to whoever she was before.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "Yusra told Nala her dad is a Leeds GP, her mum a midwife; she wants hands that make things better.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "Yusra told Nala she is her warden and keeps lines; Nala said I know; they held each other's eyes.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "At the infirmary door Yusra said Goodnight, Nala: the first time she has called her Nala.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

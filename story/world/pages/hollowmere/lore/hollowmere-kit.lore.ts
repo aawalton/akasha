@@ -282,6 +282,22 @@ export const hollowmereKit = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Kit said For a friend at the poetry table; Nala signed first, and Kit signed under her, ears pink.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "Kit gave Nala a black handkerchief stitched K, and sat silent against her till the bleeding stopped.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

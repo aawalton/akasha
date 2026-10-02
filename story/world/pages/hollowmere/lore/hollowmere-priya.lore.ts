@@ -115,5 +115,26 @@ export const hollowmerePriya = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Priya's line for Penhallow: intent can be measured by what it costs the caster.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "At the societies fair Priya quizzed charmcraft's secretary on how its keyless clockwork mouse runs.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-priya",
+      ],
+    },
   ],
 } as const satisfies Lore

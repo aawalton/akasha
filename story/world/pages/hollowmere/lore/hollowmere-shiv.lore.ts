@@ -194,6 +194,27 @@ export const hollowmereShiv = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Told of Bea and the rock, Shiv grinned: good, she's lovely, that one. Then she kissed Nala.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+      ],
+    },
+    {
+      fact: "Shiv told Penhallow her line: a rule everyone breaks isn't a rule, it's a hope.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

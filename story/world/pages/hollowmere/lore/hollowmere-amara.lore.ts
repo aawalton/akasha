@@ -157,6 +157,14 @@ export const hollowmereAmara = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Amara signed for debating at the societies fair without seeming to stop walking.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-amara",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

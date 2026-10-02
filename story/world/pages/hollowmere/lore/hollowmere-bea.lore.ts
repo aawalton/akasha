@@ -244,6 +244,22 @@ export const hollowmereBea = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "Bea signed for rowing at the societies fair before the captain had finished her sentence.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "The day after the rock, Bea sat close to Nala at breakfast, shy and bright, bumping her shoulder.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

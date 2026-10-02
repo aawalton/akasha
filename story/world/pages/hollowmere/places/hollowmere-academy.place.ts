@@ -343,6 +343,7 @@ export const hollowmereAcademy = {
         "character-other/hollowmere-priya",
         "character-other/hollowmere-shiv",
         "character-other/hollowmere-penhallow",
+        "character-player/hollowmere-nala",
       ],
     },
     {
@@ -351,6 +352,7 @@ export const hollowmereAcademy = {
         "lore-disclosure/game-master",
         "character-other/hollowmere-yusra",
         "character-other/hollowmere-penhallow",
+        "character-player/hollowmere-nala",
       ],
     },
     {
@@ -359,6 +361,8 @@ export const hollowmereAcademy = {
         "lore-disclosure/game-master",
         "character-other/hollowmere-yusra",
         "character-other/hollowmere-penhallow",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
       ],
     },
     {
@@ -367,6 +371,14 @@ export const hollowmereAcademy = {
         "lore-disclosure/game-master",
         "character-other/hollowmere-yusra",
         "character-other/hollowmere-penhallow",
+      ],
+    },
+    {
+      fact: "The infirmary is a long white room in the west range, with six white beds and a dispensary.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
       ],
     },
   ],
