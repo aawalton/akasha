@@ -181,6 +181,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "Ketter's Well is a stone well and trough with a drovers' lean-to, three miles east of the quarry.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The cart ruts run plain along the road to Ketter's Well; following them by flamelight is easy.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
