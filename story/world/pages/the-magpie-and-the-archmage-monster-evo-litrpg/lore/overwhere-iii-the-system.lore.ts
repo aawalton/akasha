@@ -332,6 +332,10 @@ export const overwhereIiiTheSystem = {
       fact: "At Basic an Inventory holds about a full knapsack's worth; each rank holds more.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
+    {
+      fact: "Buying Inventory shows: [New trait acquired – Inventory.]",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
