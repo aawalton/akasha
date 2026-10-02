@@ -10,7 +10,7 @@ export const overwhereI00094 = {
   position: 94,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I spend the afternoon carefully experimenting with casting spells on the remaining wounds on my arms, single elements and pairs trying to find a combination and visualization to accelerate healing",
   beats: [
@@ -27,6 +27,9 @@ export const overwhereI00094 = {
     "Smells of mutton stew drift in from the common room, and the drover's laugh at the hearth.",
     "The innkeeper puts her head in: \"Stew's two copper, bed's eight, the tub three. What'll it be?\"",
   ],
+  issues: [
+    '"the deeper wounds will take more time and mana" - the mending weave works on shallow wounds only',
+  ],
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
@@ -34,6 +37,6 @@ export const overwhereI00094 = {
     "lore/overwhere-i-starfall-legacy-2",
     "place/overwhere-i-greyback-and-east-road",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-04T18:15:00.000Z",
 } as const satisfies StoryTurnPlayed
