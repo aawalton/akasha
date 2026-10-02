@@ -23,7 +23,7 @@ export const otherwhereIi0001TheBlackShore = {
     },
     {
       position: 3,
-      cover: "image/image-2b786787d679a280",
+      cover: "image/image-6b66de204ceab6b3",
       coverAfter: "One ape has stayed. It is a half-grown one, smaller than the",
     },
     {
