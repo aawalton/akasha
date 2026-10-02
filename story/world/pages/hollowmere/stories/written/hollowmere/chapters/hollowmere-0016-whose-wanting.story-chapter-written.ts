@@ -98,4 +98,5 @@ export const hollowmere0016WhoseWanting = {
     "character-other/hollowmere-yusra",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryChapterWritten
