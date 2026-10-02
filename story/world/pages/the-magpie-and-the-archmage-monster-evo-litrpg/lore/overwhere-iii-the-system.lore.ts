@@ -98,7 +98,11 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "Support classes gain less from kills they aided; healers and crafters gain by their own work.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Much-seen beings wear a nameplate such as [Kobold – Level 5]; humans show by class, [Human Warrior].",
