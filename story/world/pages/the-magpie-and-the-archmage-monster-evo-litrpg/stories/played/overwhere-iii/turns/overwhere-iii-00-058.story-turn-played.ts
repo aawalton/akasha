@@ -14,7 +14,7 @@ export const overwhereIii00058 = {
     "character-other/overwhere-iii-bet-harrow",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I go for lunch, the back to the shrine to recover, then check in at Brannagh’s again",
   beats: [
     "As Nala steps out of the Post into the noon light, a blue box opens.",
@@ -41,6 +41,6 @@ export const overwhereIii00058 = {
     "place/overwhere-iii-crook-and-candle",
     "place/overwhere-iii-wrenwood-crossroads",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-05T17:00:00.000Z",
 } as const satisfies StoryTurnPlayed
