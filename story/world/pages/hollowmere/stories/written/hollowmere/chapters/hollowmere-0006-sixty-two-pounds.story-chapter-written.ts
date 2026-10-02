@@ -5,7 +5,7 @@ export const hollowmere0006SixtyTwoPounds = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0006-sixty-two-pounds",
   cover: "image/image-4898630145bcfb65",
-  ownProgress: 1400,
+  ownProgress: 1633,
   position: 6,
   unit: "unit/words",
   title: "Sixty-Two Pounds",
