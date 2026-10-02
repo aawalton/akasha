@@ -10,7 +10,7 @@ export const overwhereIv00052 = {
   position: 52,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“I’ll be careful.” I follow the directions and start tracking the goblins, focused on stealth and my spacial sense as well as my eyes, so I can spot them even in hiding. As soon as I detect them, I start slicing, prioritizing the ones that can threaten me first, range attacks, close threats, and the hobgoblin.",
   beats: [
@@ -18,7 +18,7 @@ export const overwhereIv00052 = {
     "Two miles south-west to Tull's ford. From there the trail is plain: churned mud, wool on thorns.",
     "She follows it into the Tangle slowly, stepping on moss where she can, eyes ahead.",
     "Three miles in, the trees thin toward a clearing of alders. She stops, and reaches for her sense.",
-    "It spreads out to forty paces. Bodies. Seven, small and squat. Five more, woolly. Sheep.",
+    "It spreads out to forty paces. Seven bodies: six small and squat, one far bigger. Five sheep.",
     "She creeps forward to where gaps in the alders show the clearing.",
     "A shallow stream. Two goblins with short bows sit on the far bank, watching the back trail.",
     "Three squat by a fire on the near bank, gnawing a sheep. A big one dozes against a log mid-clearing.",
