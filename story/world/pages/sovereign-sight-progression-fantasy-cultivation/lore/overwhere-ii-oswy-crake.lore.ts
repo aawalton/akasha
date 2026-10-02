@@ -59,6 +59,18 @@ export const overwhereIiOswyCrake = {
       fact: "Oswy Crake is a Water thief on the Carrowmouth road, with ten silver bars on his head.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "While Nala keeps to the Ford, Crake waits at Grey Shaw, patient, and robs no one near the valley.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "In the second week, Crake sends Pip into Wendle Ford on market day to look Nala over.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Pip is a thin, freckled boy of thirteen in a too-big coat, who sells whittled whistles.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
