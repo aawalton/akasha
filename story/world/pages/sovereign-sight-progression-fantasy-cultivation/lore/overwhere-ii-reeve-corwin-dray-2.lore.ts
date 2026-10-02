@@ -153,7 +153,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray would have the Loddon brothers serve Varrow Keep's quarry three years, under guard, not hang.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray judges Bet no robber; she may go home to Carrowmouth once she has spoken before Lady Varrow.",
