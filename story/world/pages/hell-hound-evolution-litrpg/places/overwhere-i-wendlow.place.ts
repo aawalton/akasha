@@ -107,5 +107,9 @@ export const overwhereIWendlow = {
       fact: "Voss and eight crewmen in proof come to 46 gold at the Board; Ghost-Eye's head, 25 more.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Wendlow's gates shut at sunset, about 19:00, and open again at dawn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
