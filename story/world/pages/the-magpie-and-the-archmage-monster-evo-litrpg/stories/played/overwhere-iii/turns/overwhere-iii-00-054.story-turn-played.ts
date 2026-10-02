@@ -5,6 +5,7 @@ export const overwhereIii00054 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-054",
   cover: "image/image-e1b224249f32a40d",
+  coverAfter: "The white-gold threads seep in. By late afternoon you're full to the",
   ownLength: 138,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],

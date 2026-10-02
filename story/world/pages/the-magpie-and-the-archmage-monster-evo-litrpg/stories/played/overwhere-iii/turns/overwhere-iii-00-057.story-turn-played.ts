@@ -5,6 +5,7 @@ export const overwhereIii00057 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-057",
   cover: "image/image-d09bddc2d4b1262f",
+  coverAfter: "The last thread tears loose. The stag's stone cracks and bursts into",
   ownLength: 211,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],

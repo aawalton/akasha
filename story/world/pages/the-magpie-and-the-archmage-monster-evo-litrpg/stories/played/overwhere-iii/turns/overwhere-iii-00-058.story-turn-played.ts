@@ -5,6 +5,7 @@ export const overwhereIii00058 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-058",
   cover: "image/image-007f0d069f6e6a9a",
+  coverAfter: "There's a bite on his calf, a day old. The skin around",
   ownLength: 162,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],

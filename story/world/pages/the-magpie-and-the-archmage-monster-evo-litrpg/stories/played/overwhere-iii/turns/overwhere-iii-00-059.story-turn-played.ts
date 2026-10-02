@@ -5,6 +5,7 @@ export const overwhereIii00059 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-059",
   cover: "image/image-30538b792b6c494c",
+  coverAfter: "The currents come to you from far off, past the lane and",
   ownLength: 212,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],

@@ -5,6 +5,7 @@ export const overwhereIii00062 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-062",
   cover: "image/image-5dc8f0f208339057",
+  coverAfter: "An old badger sett. The ground around its mouth has gone gray",
   ownLength: 187,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],

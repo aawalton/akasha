@@ -5,6 +5,7 @@ export const overwhereIii00061 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-061",
   cover: "image/image-59fad04b617909bf",
+  coverAfter: "You walk to Brannagh's lane as the shutters come up. Two people",
   ownLength: 124,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],

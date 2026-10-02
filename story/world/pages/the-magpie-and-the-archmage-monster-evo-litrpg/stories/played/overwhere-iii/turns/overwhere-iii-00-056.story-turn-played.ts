@@ -5,6 +5,7 @@ export const overwhereIii00056 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-056",
   cover: "image/image-c54c4552e2343196",
+  coverAfter: "Only a thin dark thread is left in the stone. One more",
   ownLength: 251,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],

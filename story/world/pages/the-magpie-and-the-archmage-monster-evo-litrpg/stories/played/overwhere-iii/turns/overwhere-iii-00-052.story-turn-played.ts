@@ -5,6 +5,7 @@ export const overwhereIii00052 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-052",
   cover: "image/image-be64b8d34aee949d",
+  coverAfter: "Inside, you fill steady and fast. A little past noon you're full",
   ownLength: 123,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],

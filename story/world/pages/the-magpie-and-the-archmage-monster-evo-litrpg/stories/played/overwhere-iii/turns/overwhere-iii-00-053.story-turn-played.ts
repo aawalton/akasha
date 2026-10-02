@@ -5,6 +5,7 @@ export const overwhereIii00053 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-053",
   cover: "image/image-c56e3b314535789b",
+  coverAfter: "The drover sets down his goad and comes over, wiping his left",
   ownLength: 234,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],

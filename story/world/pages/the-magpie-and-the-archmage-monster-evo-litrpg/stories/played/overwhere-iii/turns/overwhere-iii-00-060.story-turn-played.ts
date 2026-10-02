@@ -5,6 +5,7 @@ export const overwhereIii00060 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-060",
   cover: "image/image-1972c1c2c7ffddd0",
+  coverAfter: "You sit against the shrine's warm stone in the dark. The white-gold",
   ownLength: 155,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],

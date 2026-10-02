@@ -5,6 +5,7 @@ export const overwhereIii00051 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-051",
   cover: "image/image-39caf7be0dc3039e",
+  coverAfter: 'Maud looks you over, sweat-soaked and grass-stained. "Three days. You\'ll do," she',
   ownLength: 262,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],

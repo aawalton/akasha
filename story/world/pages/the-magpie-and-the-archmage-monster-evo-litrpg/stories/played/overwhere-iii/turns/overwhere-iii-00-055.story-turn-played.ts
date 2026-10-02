@@ -5,6 +5,7 @@ export const overwhereIii00055 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-055",
   cover: "image/image-14ead051dd804e5e",
+  coverAfter: "The stone sits half pale on the desk. Four more weaves, maybe,",
   ownLength: 180,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
