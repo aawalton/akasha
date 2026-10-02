@@ -111,6 +111,10 @@ export const overwhereIGarrickPell = {
       fact: "Packed in salt in a tarred cask, Ghost-Eye's head is ready by about 18:15 on day 4.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Garrick charges two silver for a bed and supper at the Stag on day 4; his free night was day 3.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
