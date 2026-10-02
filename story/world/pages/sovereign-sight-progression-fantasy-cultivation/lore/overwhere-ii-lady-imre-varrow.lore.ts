@@ -149,7 +149,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "Lady Varrow has Descended twice, and offers Nala her own counsel on Descent and Tribulation.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "She tells Nala every Tribulation differs, but hers came as cold that tried to stop her heart.",
