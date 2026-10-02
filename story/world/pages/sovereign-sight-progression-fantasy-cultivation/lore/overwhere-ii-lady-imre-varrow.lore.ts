@@ -125,7 +125,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "The glass also shows a Talented one's well as a glow; Nala's burns deep sea-green, bright as a lamp.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Asked, Lady Varrow reads Nala's words aloud, and says her well shines like a Second Depth's.",
