@@ -4,10 +4,22 @@ export const overwhereI00086 = {
   id: "01a0fe58-89cb-76dd-a089-e31491d780eb",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-086",
+  ownLength: 264,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 86,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-i-nala",
+    "character-other/overwhere-i-harl-voss",
+    "character-other/overwhere-i-quarry-crewman-three",
+    "character-other/overwhere-i-mirren-dask",
+    "character-other/overwhere-i-quarry-crewman-five",
+    "character-other/overwhere-i-quarry-crewman-one",
+    "character-other/overwhere-i-quarry-crewman-two",
+    "character-other/overwhere-i-voss-drakewolf",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I use a spinning water blade to cut off his head, search his person for anything of value, put it in the sack and start retracing my steps back to each of the places I killed his men, collecting their valuables in the sack as well and cutting off their ears for proof of the kills.",
   beats: [
@@ -28,6 +40,7 @@ export const overwhereI00086 = {
   ],
   lore: [
     "lore/overwhere-i-ivo-tessaly",
+    "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
     "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-starfall-legacy-2",
