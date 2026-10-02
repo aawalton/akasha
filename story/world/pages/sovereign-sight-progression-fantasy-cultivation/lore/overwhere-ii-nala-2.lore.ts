@@ -180,5 +180,29 @@ export const overwhereIiNala2 = {
       fact: "Refining the skin over Nala's bruised ribs on day five eased the ache under the bruise.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Guided by her Earth anatomy, Nala refines one muscle whole at a time, cleaner and faster.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Muscle by muscle, Nala refines all her muscle and tendon whole in four days, days five to eight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Each refined muscle cramps hard for a minute, then loosens, denser and stronger than before.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Refining muscle leaves Nala eating twice what she used to, and thirsty all day.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her heart, a muscle too, she cannot refine yet; it waits on her organs, after bone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "On the night of day eight, with skin and muscle whole, Descent first calls Nala in a dream.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
