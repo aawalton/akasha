@@ -7,7 +7,14 @@ export const overwhereI00087 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 87,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I channel two fire beams, aimed from my eyes this time and finish off the drakewolf, then continue.",
+  lore: [
+    "lore/overwhere-i-starfall-legacy",
+    "lore/overwhere-i-starfall-legacy-2",
+    "lore/overwhere-i-the-deserter-crew-2",
+    "lore/overwhere-i-the-deserter-crew-2-2",
+    "lore/overwhere-i-the-deserter-crew-2-2-2",
+  ],
 } as const satisfies StoryTurnPlayed
