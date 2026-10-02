@@ -5,7 +5,7 @@ export const hollowmere0002InNotOut = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0002-in-not-out",
   cover: "image/image-7cd8b1d310c7513c",
-  ownProgress: 6553,
+  ownProgress: 6740,
   position: 2,
   unit: "unit/words",
   title: "In, Not Out",
