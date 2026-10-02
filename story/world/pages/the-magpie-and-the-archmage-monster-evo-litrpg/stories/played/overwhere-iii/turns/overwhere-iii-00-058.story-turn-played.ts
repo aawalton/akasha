@@ -4,6 +4,7 @@ export const overwhereIii00058 = {
   id: "01a0fda1-a1d6-7a42-8b6d-6a3d5bab8055",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-058",
+  cover: "image/image-007f0d069f6e6a9a",
   ownLength: 162,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -14,7 +15,7 @@ export const overwhereIii00058 = {
     "character-other/overwhere-iii-bet-harrow",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I go for lunch, the back to the shrine to recover, then check in at Brannagh’s again",
   beats: [
     "As Nala steps out of the Post into the noon light, a blue box opens.",
@@ -42,6 +43,11 @@ export const overwhereIii00058 = {
     "place/overwhere-iii-wrenwood-crossroads",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-05T17:00:00.000Z",
 } as const satisfies StoryTurnPlayed
