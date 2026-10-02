@@ -80,5 +80,5 @@ export const hollowmere0006SixtyTwoPounds = {
     "character-other/hollowmere-amara",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/memory"],
 } as const satisfies StoryChapterWritten

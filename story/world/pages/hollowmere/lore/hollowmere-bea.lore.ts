@@ -144,6 +144,24 @@ export const hollowmereBea = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Nala bought Bea hot chocolate and a scone in Kendal, the first of the scones she owes her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-priya",
+      ],
+    },
+    {
+      fact: "Bea laid her head on Nala's shoulder at the film's sad part in Kendal, and cried.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

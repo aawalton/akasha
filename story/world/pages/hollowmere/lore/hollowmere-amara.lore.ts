@@ -128,6 +128,16 @@ export const hollowmereAmara = {
         "character-other/hollowmere-priya",
       ],
     },
+    {
+      fact: "Amara kept buying Priya cider on Friday night, Priya says.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

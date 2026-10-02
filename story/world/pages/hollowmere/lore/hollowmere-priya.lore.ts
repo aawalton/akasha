@@ -62,7 +62,13 @@ export const hollowmerePriya = {
     },
     {
       fact: "Priya has only ever dated boys and never thought hard about girls; she minds no one's likings.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-priya"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-priya",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-lin",
+      ],
     },
     {
       fact: "Priya's boyfriend Dev is home in Leicester, doing a PhD in fluid dynamics.",
@@ -91,6 +97,14 @@ export const hollowmerePriya = {
         "lore-disclosure/game-master",
         "character-other/hollowmere-priya",
         "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "At a case of charmed clockwork in Kendal, Priya whispered to Nala that that is what she wants to do.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-priya",
       ],
     },
   ],

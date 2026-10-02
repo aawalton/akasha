@@ -55,7 +55,14 @@ export const hollowmereKit = {
     },
     {
       fact: "Kit lives in Ashcombe House, across the quad from Thornfield.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-kit"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-priya",
+      ],
     },
     {
       fact: "Kit is in first-year tutorial group F, and sits at its end of the table at the Welcome Dinner.",
@@ -195,6 +202,41 @@ export const hollowmereKit = {
         "lore-disclosure/game-master",
         "character-other/hollowmere-kit",
         "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Seen reading poems in the Kendal bookshop café, Kit snapped the book shut: it's for a friend.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "Asked by Nala and Bea, Kit said Fine and came to the Kendal cinema with the four of them.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-priya",
+      ],
+    },
+    {
+      fact: "Kit told Nala it's years since she saw a film with anyone; Nala said it won't be years again.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "On a Kendal bridge Kit pointed Nala to a gargoyle and said, deadpan, Penhallow.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
       ],
     },
   ],

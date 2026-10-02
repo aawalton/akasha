@@ -300,6 +300,24 @@ export const hollowmereNala = {
       fact: "Nala's bursary pays her a living allowance of eighty pounds a week, every Monday.",
       knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
     },
+    {
+      fact: "Nala told Priya she never had to find out she liked girls; it was always just there.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Nala bought a cheap black fountain pen at Kendal market for £4.50, her first purchase.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
+    {
+      fact: "Nala's essay's first paragraph says intent may come from wherever the wanting lives.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

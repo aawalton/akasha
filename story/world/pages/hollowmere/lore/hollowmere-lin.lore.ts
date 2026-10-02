@@ -153,6 +153,14 @@ export const hollowmereLin = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "In the dark of the Kendal cinema Lin took Nala's hand on the armrest, and held it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
