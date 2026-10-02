@@ -107,5 +107,9 @@ export const hollowmereAcademy2 = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "The bursar's office is a panelled room off the porters' lodge, kept by a brisk elderly clerk.",
+      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-yusra"],
+    },
   ],
 } as const satisfies Lore

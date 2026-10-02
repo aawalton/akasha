@@ -132,8 +132,20 @@ export const hollowmereNala2 = {
       knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
     },
     {
+      fact: "The Nala whose life this was grew up in care, and has no family who will come looking for her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Breathing out longer, Nala mended her cracked cup to the base, a faint line left; the tutor: Yes.",
       knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
+    {
+      fact: "A note in Nala's pigeonhole calls her to the bursar's office at two on Wednesday, to sign papers.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
+    {
+      fact: "Nala's bursary file lists no next of kin, and says she was in the care of Calderdale council.",
+      knowers: ["lore-disclosure/game-master"],
     },
   ],
 } as const satisfies Lore
