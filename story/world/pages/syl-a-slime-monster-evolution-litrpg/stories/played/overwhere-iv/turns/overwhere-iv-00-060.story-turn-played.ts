@@ -10,7 +10,7 @@ export const overwhereIv00060 = {
   position: 60,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“I’ll hunt the wolf today” I get directions to the old quarry and follow them, then close my eyes and focus on navigating by spacial sense. If I find any wolves, I use Rend on their throats with my eyes still closed.",
   beats: [
@@ -37,7 +37,6 @@ export const overwhereIv00060 = {
     "The line won't form. Nothing opens, and no warmth is spent.",
     "From the track the gorse stands between her and the overhang. She'd not see it with eyes open.",
     "Her sense holds the shape of the gully: above the overhang, a lip of loose stone, steep and high.",
-    "The beast sleeps on, thirty paces away.",
   ],
   issues: ['"The beast sleeps on, thirty paces away." - Leave It Open'],
   lore: [
