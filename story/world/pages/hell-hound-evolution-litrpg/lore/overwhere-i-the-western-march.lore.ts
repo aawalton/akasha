@@ -123,5 +123,9 @@ export const overwhereITheWesternMarch = {
       fact: "Held in hand, a mana crystal hums faintly against anyone with a mana reserve.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Drawing a small mana crystal dry takes about half a minute, held in a bare hand.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
