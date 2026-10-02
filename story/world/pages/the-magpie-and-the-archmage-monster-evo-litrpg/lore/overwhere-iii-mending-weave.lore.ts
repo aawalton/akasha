@@ -40,5 +40,9 @@ export const overwhereIiiMendingWeave = {
       fact: "Each Mending Weave laid on a scar counts as a use of the skill.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Watching the currents as she rests, a Legend Mana Weaver may see how a mending would ride them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
