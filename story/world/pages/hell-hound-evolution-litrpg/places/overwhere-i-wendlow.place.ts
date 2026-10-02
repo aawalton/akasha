@@ -205,7 +205,7 @@ export const overwhereIWendlow = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Ghost-Eye's milky eye socket and white blaze satisfy Grete at a glance; she pays its 25 gold.",
+      fact: "Ghost-Eye's size, scarred crest and empty left socket satisfy Grete; she pays its 25 gold.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
