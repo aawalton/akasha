@@ -212,7 +212,7 @@ export const overwhereIiReeveCorwinDray2 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
-      fact: "On the road back Dray carries the coin box and, when Pip flags, the boy on his back.",
+      fact: "On the road back Dray carries the bottles and ledger, Nala the coin box, and Pip walks between.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
