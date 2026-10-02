@@ -7,9 +7,19 @@ export const overwhereI00091 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 91,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Sure, got makes sense to preserve this head and the ears. I’ll take the salt for that.”",
-  lore: ["lore/overwhere-i-osric-fenn"],
+  beats: [
+    '"Sure, makes sense to preserve this head and the ears. I\'ll take the salt for that," Nala says.',
+    "She pays Osric 4 copper, and he hauls a sack of coarse salt down from the cart.",
+    "One sack is enough; she packs Voss's head and the eight ears in salt inside Voss's own sack.",
+    "It takes a quarter hour by the embers, Tobin holding the flame and looking anywhere else.",
+    '"Three weeks that\'ll keep," Osric says, and then counts 5 silver into her palm.',
+    '"For the road. The east carts owe you, every one of them, and I\'ll say so in Wendlow."',
+    "He rubs the back of his neck, sheepish, and glances at the sack of coin.",
+    '"Only... the silver toll Voss took off me at the quarry. One silver. Might I have it back?"',
+  ],
+  lore: ["lore/overwhere-i-osric-fenn", "lore/overwhere-i-the-deserter-crew-2-2-2"],
   endsAt: "2026-10-04T00:55:00.000Z",
 } as const satisfies StoryTurnPlayed
