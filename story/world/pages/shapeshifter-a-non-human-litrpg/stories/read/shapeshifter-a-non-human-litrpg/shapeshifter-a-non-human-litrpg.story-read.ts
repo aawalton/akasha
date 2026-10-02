@@ -36,5 +36,5 @@ export const shapeshifterANonHumanLitrpg = {
     "Strong Lead",
     "Survival",
   ],
-  publicationStatus: "completed",
+  publicationStatus: "ongoing",
 } as const satisfies StoryRead
