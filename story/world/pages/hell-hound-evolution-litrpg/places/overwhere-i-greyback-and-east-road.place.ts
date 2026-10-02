@@ -185,6 +185,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "The cart ruts run plain along the road to Ketter's Well; following them by flamelight is easy.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Striding while her mana allows and walking the rest, Nala reaches Ketter's Well about 00:20.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
