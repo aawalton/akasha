@@ -122,5 +122,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "If Nala stands on the open lip, both crossbowmen loose from the galleries and Crow from the trees.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's working reached for Voss's cap and stopped at 30 yards, short of him; he felt nothing.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
