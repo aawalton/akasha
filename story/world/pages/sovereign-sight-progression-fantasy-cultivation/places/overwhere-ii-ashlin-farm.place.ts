@@ -48,5 +48,17 @@ export const overwhereIiAshlinFarm = {
       fact: "At dusk a lamp burns in the farmhouse window, the sign Crake's men are ready.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "The yard is some twenty paces across from the lane's end to the barn's wide doorway.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Inside, the barn is dim, floored with old straw, with a ladder up to the loft by the doorway.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The loft's floor boards run over the barn's front half; the back half is open to the rafters.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
