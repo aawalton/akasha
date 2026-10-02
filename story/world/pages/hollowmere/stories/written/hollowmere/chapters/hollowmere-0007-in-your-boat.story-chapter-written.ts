@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0007 = {
+export const hollowmere0007InYourBoat = {
   id: "01a0fe19-eaef-775a-a42c-eca7ab0bc466",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0007",
+  slug: "hollowmere-0007-in-your-boat",
   position: 7,
   unit: "unit/words",
-  title: "Chapter 7",
+  title: "In Your Boat",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 4721,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Sunday: you wake at six on your own, and you know where you're going before you're up.",
     "The fisherman's jumper over knickers and bra again; the shore grey and silent.",
@@ -59,5 +59,26 @@ export const hollowmere0007 = {
     "In bed, your mouth still remembering the mere, you think: one kiss, five girls, and Monday.",
     "A day at Hollowmere ends.",
   ],
-  lore: ["place/hollowmere-academy", "place/hollowmere-thornfield-house"],
+  lore: [
+    "lore/hollowmere-amara",
+    "lore/hollowmere-bea",
+    "lore/hollowmere-kit",
+    "lore/hollowmere-lin",
+    "lore/hollowmere-nala",
+    "lore/hollowmere-penhallow",
+    "lore/hollowmere-priya",
+    "lore/hollowmere-shiv",
+    "place/hollowmere-academy",
+    "place/hollowmere-thornfield-house",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-shiv",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-amara",
+    "character-other/hollowmere-kit",
+    "character-other/hollowmere-priya",
+    "character-other/hollowmere-lin",
+    "character-other/hollowmere-penhallow",
+  ],
 } as const satisfies StoryChapterWritten
