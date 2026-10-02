@@ -72,5 +72,9 @@ export const overwhereIvRaidersStream = {
       fact: "The sheep-watcher is LV 2, with a knife and no ward.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The LV 9 hobgoblin's boiled-hide armor gives him a ward of 2.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
