@@ -833,4 +833,5 @@
 {"propertySlug":"chapter-story","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/chapters/the-wandering-inn-0832-10-75-h-pt-1.story-chapter-read.ts","id":"01a065a0-4098-7941-8dd1-5d640d1b0ad1"}
 {"propertySlug":"chapter-story","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/chapters/the-wandering-inn-0833-10-75-h-pt-2.story-chapter-read.ts","id":"01a07c1a-0b17-77bd-b83a-362049464b52"}
 {"propertySlug":"chapter-story","path":"story/world/stories/read/chapters/pages/the-wandering-inn-0834-tales-of-innworld-8/the-wandering-inn-0834-tales-of-innworld-8.story-chapter-read.ts","id":"01a0e318-9054-768a-9a5d-509dc1e5fa08"}
+{"propertySlug":"chapter-story","path":"story/world/stories/read/chapters/pages/the-wandering-inn-0835-tales-of-innworld-9/the-wandering-inn-0835-tales-of-innworld-9.story-chapter-read.ts","id":"01a0fcdb-acef-7d13-b929-9320a6a795ca"}
 {"propertySlug":"import","fileName":"the-wandering-inn.story-read.ts","path":"story/world/characters/modules/character-filing/character-filing.module.code.ts","typed":false,"deferred":false}
