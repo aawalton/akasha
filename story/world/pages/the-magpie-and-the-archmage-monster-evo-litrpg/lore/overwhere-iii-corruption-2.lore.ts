@@ -21,7 +21,7 @@ export const overwhereIiiCorruption2 = {
       ],
     },
     {
-      fact: "The bite's dark thread leads straight to the fox's sett; to Nala's sight the fox is a dark smear.",
+      fact: "Walking east as the thread had pointed, Nala saw the fox's dark smear under the hedgebank sett.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
