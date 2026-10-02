@@ -4,13 +4,14 @@ export const hollowmere0010EveryWindowLitButOne = {
   id: "01a0fe5e-f4eb-77c5-91e0-c673b0283c82",
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0010-every-window-lit-but-one",
+  cover: "image/image-317da1036acb52a0",
   position: 10,
   unit: "unit/words",
   title: "Every Window Lit but One",
   story: "story-written/hollowmere",
   ownLength: 3813,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "Wednesday: you wake clear-headed, the headache gone, Kit's handkerchief still in your hand.",
     "Dawn at the boathouse: the cold-water swimmers' first morning, a register, a safety boat, a whistle.",
@@ -73,6 +74,7 @@ export const hollowmere0010EveryWindowLitButOne = {
     "lore/hollowmere-shiv",
     "lore/hollowmere-yusra",
     "place/hollowmere-academy",
+    "place/hollowmere-thornfield-house",
   ],
   characters: [
     "character-player/hollowmere-nala",
@@ -83,5 +85,52 @@ export const hollowmere0010EveryWindowLitButOne = {
     "character-other/hollowmere-kit",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
+  scenes: [
+    "image/image-e7c856270fb8b7b6",
+    "image/image-f6333c0ef1107391",
+    "image/image-e487ed27aec76b86",
+    "image/image-b3c5aec86340d821",
+    "image/image-7a2d2ac535e3e235",
+    "image/image-317da1036acb52a0",
+  ],
+  pictured: [
+    {
+      cover: "image/image-e7c856270fb8b7b6",
+      coverAfter: "In the Thornfield corridor, back upstairs, Yusra is going door to door",
+      setting: "the Thornfield corridor",
+    },
+    {
+      cover: "image/image-f6333c0ef1107391",
+      coverAfter: "She's in her biggest jumper, the cream one that comes down past",
+      character: "character-other/hollowmere-bea",
+      outfit: "cream knitted jumper down past her knees",
+    },
+    {
+      cover: "image/image-e487ed27aec76b86",
+      coverAfter: "The village shop smells of bread. There's a tray just out of",
+      setting: "the village shop",
+    },
+    {
+      cover: "image/image-b3c5aec86340d821",
+      coverAfter: "You eat them on the low wall by the jetty.",
+      setting: "the low wall by the jetty",
+    },
+    {
+      cover: "image/image-7a2d2ac535e3e235",
+      coverAfter: "The Snug is a small room at the end of a corridor in",
+      setting: "the Snug",
+    },
+    {
+      cover: "image/image-317da1036acb52a0",
+      coverAfter: "It's frozen again tonight. The grass crunches silver under your feet, and",
+      character: "character-other/hollowmere-kit",
+      outfit: "black coat over a high-necked black jumper and long black skirt",
+    },
+  ],
 } as const satisfies StoryChapterWritten
