@@ -190,7 +190,7 @@ export const overwhereIHessaVane = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Hessa warns Nala that Voss's men work the woods where the road nears the river Wend.",
+      fact: "Hessa warns Nala that Voss's men toll the road at Cutter's Quarry, a day out, by afternoon.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
