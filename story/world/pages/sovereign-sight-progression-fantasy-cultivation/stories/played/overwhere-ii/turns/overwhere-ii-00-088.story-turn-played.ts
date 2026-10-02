@@ -11,4 +11,5 @@ export const overwhereIi00088 = {
   action:
     "“Garth Marsh was the first I encountered, I think I got the name right. Names seem to slip from me. I don’t remember anything really before that. His daughter had the rot and I used my Talent to pull it out of her.”",
   lore: ["lore/overwhere-ii-lady-imre-varrow"],
+  endsAt: "2026-10-21T08:28:00.000Z",
 } as const satisfies StoryTurnPlayed
