@@ -4,13 +4,14 @@ export const emberdeep0003NalasPassage = {
   id: "01a0fe30-3a18-7155-8655-39e5b7c8d7ed",
   type: "page-type/story-chapter-written",
   slug: "emberdeep-0003-nalas-passage",
+  cover: "image/image-4d2c65868fdd198d",
   position: 3,
   unit: "unit/words",
   title: "Nala's Passage",
   story: "story-written/emberdeep",
   ownLength: 4063,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "It is Sixthday; Nala wakes stiff in every muscle from yesterday's sifting and climbing.",
     "At porridge the widow tells her rent for the week ahead is two marks, taken tomorrow morning.",
@@ -99,5 +100,23 @@ export const emberdeep0003NalasPassage = {
     "character-other/emberdeep-elowen",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
+  scenes: ["image/image-4d2c65868fdd198d", "image/image-bb359ad90313988b"],
+  pictured: [
+    {
+      cover: "image/image-4d2c65868fdd198d",
+      coverAfter: "It ends in a heap of broken stone. A great slope of it, where the ceiling",
+      setting: "the shifted passage and its fresh rubble heap",
+    },
+    {
+      cover: "image/image-bb359ad90313988b",
+      coverAfter: "It's tiny. The ceiling slopes down so low on both sides that there's only",
+      setting: "Elowen's room under the eaves, the Brass Kettle",
+    },
+  ],
 } as const satisfies StoryChapterWritten
