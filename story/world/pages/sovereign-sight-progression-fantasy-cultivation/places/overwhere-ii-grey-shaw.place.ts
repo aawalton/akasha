@@ -82,7 +82,7 @@ export const overwhereIiGreyShaw = {
     },
     {
       fact: "Bottled Water only fills a reservoir; it deepens no one, and leaves no lasting gain.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Thaumists brew bottled Water into elixirs that ease refining, which is why it sells so dear.",
