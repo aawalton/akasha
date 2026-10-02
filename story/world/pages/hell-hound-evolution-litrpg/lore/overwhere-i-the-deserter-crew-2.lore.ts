@@ -24,5 +24,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "A bolt from someone unseen in the trees struck Nala's shoulder; she turned the next.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Voss and all five reached the quarry pit and are behind stone, out of her line from the road.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
