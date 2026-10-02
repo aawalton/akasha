@@ -8,9 +8,9 @@ export const saltAndLamplight0001TheTideLeavesThings = {
   unit: "unit/words",
   title: "The Tide Leaves Things",
   story: "story-written/salt-and-lamplight",
-  ownLength: 2825,
+  ownLength: 2871,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Nala wakes at dusk on cold wet shingle, barefoot, in a thin soaked linen shift and nothing else.",
     "Her last memory is Alan dozing over a book at his back window one evening.",
