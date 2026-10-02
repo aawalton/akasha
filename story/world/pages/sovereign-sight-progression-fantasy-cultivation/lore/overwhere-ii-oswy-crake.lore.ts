@@ -119,6 +119,30 @@ export const overwhereIiOswyCrake = {
       fact: "Crake will not come out to the yard until his crossbows have the mark pinned or down.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Pip sees Nala and Bet on the road at mid-afternoon and runs ahead; the lamp is lit by dusk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Crake's orders: once the mark is in the yard, the Loddons shoot for her legs, to pin, not kill.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A spear in a lone traveller's hand alarms no one; Crake's men expect one on a road with wolves.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Coralsnout venom in a wound chokes a Talent's Locks within a minute, and holds them shut for hours.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "In that minute, Undertow can pull the venom from Nala's own wound as grey salt, as it pulls rot.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Loddons' bolts barely bite Nala's refined skin: the venom needs a bolt that breaks it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
