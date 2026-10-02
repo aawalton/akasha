@@ -4,6 +4,7 @@ export const overwhereI00079 = {
   id: "01a0fdb8-f38e-7379-a1f0-91c7b13d2841",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-079",
+  cover: "image/image-a7917d9484433b6c",
   ownLength: 166,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -16,7 +17,7 @@ export const overwhereI00079 = {
     "character-other/overwhere-i-quarry-crewman-five",
     "character-other/overwhere-i-mirren-dask",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I find high ground and use my lenses to search for clues for where the bandits went.",
   beats: [
     "Four hundred yards west, a granite knoll rises bare above the pines.",
@@ -39,6 +40,11 @@ export const overwhereI00079 = {
     "place/overwhere-i-greyback-and-east-road",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-03T16:06:00.000Z",
 } as const satisfies StoryTurnPlayed
