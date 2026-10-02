@@ -4,13 +4,14 @@ export const emberdeep0005TheDrownedHall = {
   id: "01a0fe83-368b-7d7b-abaf-f7b736c5b5f2",
   type: "page-type/story-chapter-written",
   slug: "emberdeep-0005-the-drowned-hall",
+  cover: "image/image-a4bfeb8fcee8d3d8",
   position: 5,
   unit: "unit/words",
   title: "The Drowned Hall",
   story: "story-written/emberdeep",
   ownLength: 3914,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "It is Firstday; Nala wakes with Elowen asleep on her arm, her arm numb, and stays still anyway.",
     "Elowen wakes, remembers the kiss, and goes pink, and then kisses Nala again, quickly.",
@@ -100,5 +101,32 @@ export const emberdeep0005TheDrownedHall = {
     "character-other/emberdeep-elowen",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
+  scenes: [
+    "image/image-4700d328cb4b6c76",
+    "image/image-a4bfeb8fcee8d3d8",
+    "image/image-e2d847515039eb0e",
+  ],
+  pictured: [
+    {
+      cover: "image/image-4700d328cb4b6c76",
+      coverAfter: "It turns damp. Wet. It smells of stone and water and something green.",
+      setting: "the wet passage at the foot of the Dry Stair, second level",
+    },
+    {
+      cover: "image/image-a4bfeb8fcee8d3d8",
+      coverAfter: "It's wide. Wider than the Long Hall, wide enough that the far wall is",
+      setting: "the Drowned Hall",
+    },
+    {
+      cover: "image/image-e2d847515039eb0e",
+      coverAfter: "Then Elowen takes you both across Coppergate to an apothecary's shop, a narrow",
+      setting: "the apothecary's shop on Coppergate",
+    },
+  ],
 } as const satisfies StoryChapterWritten
