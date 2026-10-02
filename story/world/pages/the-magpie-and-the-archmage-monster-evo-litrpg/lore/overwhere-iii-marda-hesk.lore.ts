@@ -262,7 +262,11 @@ export const overwhereIiiMardaHesk = {
     },
     {
       fact: "Marda takes a blightstone as its own proof; the post pays no bounty on a fox beyond the stone.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Until Nala has mana to crack it, the fox stone waits in the lead box, apart from the rest.",
