@@ -152,5 +152,9 @@ export const overwhereIiWendleFord = {
       fact: "Day eleven is market day; the carrier's cart comes up the valley road to the green.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "On day sixteen a stranger begs Nala at the Lantern to heal her fevered son at Ashlin Farm.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place
