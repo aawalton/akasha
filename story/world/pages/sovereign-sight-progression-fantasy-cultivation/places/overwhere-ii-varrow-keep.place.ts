@@ -24,5 +24,13 @@ export const overwhereIiVarrowKeep = {
       fact: "The Keep's gate is barred at dusk, and the Lady receives no one after dark.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The road from the Ford to the Keep runs east up the valley, past scattered farms.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A guest who reaches the Keep after noon is fed and lodged, and the Lady receives them next morning.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
