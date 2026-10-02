@@ -57,6 +57,37 @@ export const NO_SITE_NAMED =
 
 export type WatchLogger = (level: "INFO" | "ERROR", message: string) => void
 
+export const FIRST_WAIT_MS = 2_000
+
+export const LONGEST_WAIT_MS = 30_000
+
+export const WAITED_AT_MOST_MS = 5 * 60_000
+
+const TIMED_OUT = "TimeoutError"
+
+const NOT_CONNECTED: ReadonlySet<string> = new Set(["ConnectionRefused", "ECONNREFUSED"])
+
+export function unanswered(thrown: unknown): boolean {
+  if (thrown === null || typeof thrown !== "object") return false
+  const { name, code } = thrown as { readonly name?: unknown; readonly code?: unknown }
+  if (name === TIMED_OUT) return true
+  return typeof code === "string" && NOT_CONNECTED.has(code)
+}
+
+export function waitAfter(thrown: unknown, tried: number, waitedMs: number): number | null {
+  if (!unanswered(thrown) || waitedMs >= WAITED_AT_MOST_MS) return null
+  return Math.min(FIRST_WAIT_MS * 2 ** Math.max(0, tried - 1), LONGEST_WAIT_MS)
+}
+
+export function waitingSaid(thrown: unknown): string {
+  return `waiting on the page service, which has not answered yet: ${saidBy(thrown)}`
+}
+
+export function outwaitedSaid(thrown: unknown, waitedMs: number): string {
+  const waited = Math.round(waitedMs / 1000)
+  return `the page service went unanswered for ${waited} s, past any warm-up: ${saidBy(thrown)}`
+}
+
 export function countsSaid(day: string, counts: TaskCounts): string {
   return (
     `day=${day} tasks=${counts.tasks} temperTasks=${counts.temperTasks} ` +
@@ -117,10 +148,10 @@ export function watchInboxCounts(to: string, log: WatchLogger): () => undefined 
   let taking = false
   let owed = false
 
-  const take = async (): Promise<undefined> => {
+  const take = async (): Promise<boolean> => {
     if (taking) {
       owed = true
-      return undefined
+      return false
     }
     taking = true
     try {
@@ -139,6 +170,37 @@ export function watchInboxCounts(to: string, log: WatchLogger): () => undefined 
     } finally {
       taking = false
     }
+    return true
+  }
+
+  let waiting: { readonly since: number; readonly tried: number } | null = null
+  let again: ReturnType<typeof setTimeout> | null = null
+
+  const failed = (thrown: unknown): undefined => {
+    const since = waiting?.since ?? Date.now()
+    const tried = (waiting?.tried ?? 0) + 1
+    const waited = Date.now() - since
+    const wait = waitAfter(thrown, tried, waited)
+    if (wait === null) {
+      log("ERROR", unanswered(thrown) ? outwaitedSaid(thrown, waited) : saidBy(thrown))
+      process.exit(1)
+    }
+    if (waiting === null) log("INFO", waitingSaid(thrown))
+    waiting = { since, tried }
+    again = setTimeout((): undefined => {
+      again = null
+      takeOrWait()
+      return undefined
+    }, wait)
+    return undefined
+  }
+
+  const takeOrWait = (): undefined => {
+    if (again !== null) return undefined
+    take().then((ran): undefined => {
+      if (ran) waiting = null
+      return undefined
+    }, failed)
     return undefined
   }
 
@@ -154,10 +216,7 @@ export function watchInboxCounts(to: string, log: WatchLogger): () => undefined 
     following = followFolders(
       folders,
       (): undefined => {
-        take().catch((thrown: unknown) => {
-          log("ERROR", saidBy(thrown))
-          process.exit(1)
-        })
+        takeOrWait()
         refollow()
         return undefined
       },
@@ -168,6 +227,8 @@ export function watchInboxCounts(to: string, log: WatchLogger): () => undefined 
 
   refollow()
   return (): undefined => {
+    if (again !== null) clearTimeout(again)
+    again = null
     following?.stop()
     following = null
     return undefined

@@ -6,6 +6,7 @@ export const inboxCountWatch = {
   slug: "inbox-count-watch",
   definition: "the task, finding and gap counts kept current as pages land",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -66,7 +67,34 @@ export const inboxCountWatch = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A throw says its reason and ends the run rather than being passed over.",
+      statement:
+        "A throw that is no wait says its reason and ends the run rather than being passed over.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A take that timed out or could not connect is a wait rather than a throw.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A wait is known by the error's name or code rather than by what its message says.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A take waited on is taken again after a wait doubling from 2 s up to 30 s.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run of waits is said once rather than once a take.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Pages unanswered past 5 minutes end the run, so an outage still raises an alarm.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A page service warming up times out the carry to the site, which waits on that service.",
     },
     {
       decisionKind: "decision-kind/constraint",
