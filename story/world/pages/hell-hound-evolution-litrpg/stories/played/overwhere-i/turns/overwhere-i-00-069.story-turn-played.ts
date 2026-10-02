@@ -7,7 +7,13 @@ export const overwhereI00069 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 69,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I attune Earth and Air and start hitting Voss and his men with precision bullet shots to the forehead, guiding each shot all the way to landing to ensure it hits. I keep a second air attunement ready to pull any projectiles of course so they don’t injure us.",
+  lore: [
+    "lore/overwhere-i-starfall-legacy",
+    "lore/overwhere-i-starfall-legacy-2",
+    "lore/overwhere-i-the-deserter-crew",
+    "lore/overwhere-i-the-system-2",
+  ],
 } as const satisfies StoryTurnPlayed
