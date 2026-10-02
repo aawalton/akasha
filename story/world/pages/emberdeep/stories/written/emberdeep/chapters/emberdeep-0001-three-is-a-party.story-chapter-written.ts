@@ -10,7 +10,7 @@ export const emberdeep0001ThreeIsAParty = {
   story: "story-written/emberdeep",
   ownLength: 5233,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Nala wakes in a narrow bed under a slanted ceiling, orange light seeping round a shutter.",
     "Her last memory is being Alan, dozing over a book at his back window in the evening.",
@@ -111,6 +111,14 @@ export const emberdeep0001ThreeIsAParty = {
     "She falls asleep wondering what the Deep will be like, and not how she will get home.",
     "A day in Emberdeep ends.",
   ],
+  issues: [
+    '"No chimney anywhere smokes" - Nobody Acts',
+    '"She remembers nothing of this Nala\'s life" - Plain Negation',
+    '"finds nothing in the room that answers" - Plain Negation',
+    '"writes Nala Marsh of Fennick in a ledger and asks nothing else" - Plain Negation',
+    '"Your small soft tits sit high on your chest" - Emberdeep Explicitness',
+    '"look at this body properly for the first time: small soft tits" - Emberdeep Explicitness',
+  ],
   lore: [
     "lore/emberdeep-elowen",
     "lore/emberdeep-nala",
@@ -125,5 +133,5 @@ export const emberdeep0001ThreeIsAParty = {
     "character-other/emberdeep-wren",
     "character-other/emberdeep-elowen",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryChapterWritten
