@@ -10,19 +10,39 @@ export const emberdeepDeep = {
   facts: [
     {
       fact: "Past the Mouth a broad worn ramp runs down into the dark to the guild's gate.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+      ],
     },
     {
       fact: "A guild warden at the gate signs every party in and out in the Mouth book.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+      ],
     },
     {
       fact: "A party not signed out of the Mouth book by the next morning is searched for.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+      ],
     },
     {
       fact: "The Deep has no light of its own; delvers carry lamps, and the air is cold and still.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+      ],
     },
   ],
 } as const satisfies Place

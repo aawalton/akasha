@@ -58,6 +58,7 @@ export const emberdeepGuildHall = {
         "lore-disclosure/game-master",
         "character-other/emberdeep-wren",
         "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
       ],
     },
     {
@@ -74,11 +75,21 @@ export const emberdeepGuildHall = {
     },
     {
       fact: "The guild takes a tenth of what a party's finds sell for at the finds market.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+      ],
     },
     {
       fact: "A finds-market buyer holds back the guild's tenth of each sale, rounded down, for the guild.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+      ],
     },
   ],
 } as const satisfies Place

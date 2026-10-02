@@ -47,11 +47,19 @@ export const emberdeepWren = {
     },
     {
       fact: "Wren grew up in Saltby, a fishing village on the coast, the second of eight children.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+      ],
     },
     {
       fact: "Wren sends half of every coin she earns home to her family in Saltby.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+      ],
     },
     {
       fact: "Wren has delved two years, holds iron rank, and can open most locks with a bent pin.",
@@ -72,6 +80,23 @@ export const emberdeepWren = {
     {
       fact: "Wren likes girls, has had a few tumbles, and has never kept one long.",
       knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+    },
+    {
+      fact: "Wren has a cave-rat bite on her forearm, dressed with Elowen's herbs.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+      ],
+    },
+    {
+      fact: "No one had fussed over Wren since she left Saltby, until Nala rebound her bite in room 7.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+      ],
     },
   ],
   secrets: "jsonl",

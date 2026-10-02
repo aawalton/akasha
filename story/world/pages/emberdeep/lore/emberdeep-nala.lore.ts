@@ -98,6 +98,53 @@ export const emberdeepNala = {
       fact: "Nala likes looking at Wren and Elowen both, and doesn't want to stop.",
       knowers: ["lore-disclosure/game-master", "character-player/emberdeep-nala"],
     },
+    {
+      fact: "Nala, Wren and Elowen are a party, chalked on the guild party board as TOLLEY, MARSH, FAIRWEATHER.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-wren",
+        "character-other/emberdeep-elowen",
+      ],
+    },
+    {
+      fact: "The party splits finds even, Wren scouts first, and nobody plays hero.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-wren",
+        "character-other/emberdeep-elowen",
+      ],
+    },
+    {
+      fact: "Nala can read a map, and spotted a shifted passage on the first level before Wren did.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-wren",
+        "character-other/emberdeep-elowen",
+      ],
+    },
+    {
+      fact: "Nala has told no one in Emberdeep that she was Alan.",
+      knowers: ["lore-disclosure/game-master", "character-player/emberdeep-nala"],
+    },
+    {
+      fact: "Nala is glad to still be Nala, more glad than sorry.",
+      knowers: ["lore-disclosure/game-master", "character-player/emberdeep-nala"],
+    },
+    {
+      fact: "After the first delve and supper, Nala's purse holds four pennies.",
+      knowers: ["lore-disclosure/game-master", "character-player/emberdeep-nala"],
+    },
+    {
+      fact: "Nala and Elowen held hands in the Deep, and kept their knees touching under the table at supper.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

@@ -58,6 +58,7 @@ export const emberdeepElowen = {
         "lore-disclosure/game-master",
         "character-other/emberdeep-elowen",
         "character-player/emberdeep-nala",
+        "character-other/emberdeep-wren",
       ],
     },
     {
@@ -66,6 +67,7 @@ export const emberdeepElowen = {
         "lore-disclosure/game-master",
         "character-other/emberdeep-elowen",
         "character-player/emberdeep-nala",
+        "character-other/emberdeep-wren",
       ],
     },
     {
@@ -78,6 +80,24 @@ export const emberdeepElowen = {
         "lore-disclosure/game-master",
         "character-player/emberdeep-nala",
         "character-other/emberdeep-elowen",
+      ],
+    },
+    {
+      fact: "Elowen can make her light blaze white as noon, and did not know it until the crawlers came.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-wren",
+      ],
+    },
+    {
+      fact: "After her second night at the Brass Kettle, Elowen has one paid night left.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-wren",
       ],
     },
   ],
