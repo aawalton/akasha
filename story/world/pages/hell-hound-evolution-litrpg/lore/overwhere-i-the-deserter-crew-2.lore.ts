@@ -142,5 +142,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "A face or armour gap is a band harder to hit than a head.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Within two minutes Voss, Crow, both crossbowmen and Blademan Three slip out by the goat path.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
