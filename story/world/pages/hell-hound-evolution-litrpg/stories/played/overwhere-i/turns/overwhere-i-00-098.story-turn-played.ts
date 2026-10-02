@@ -30,5 +30,6 @@ export const overwhereI00098 = {
     '"Your level says ten. Harl Voss was twenty-four. Who else was in it with you?"',
   ],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "place/overwhere-i-wendlow"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-05T12:17:00.000Z",
 } as const satisfies StoryTurnPlayed
