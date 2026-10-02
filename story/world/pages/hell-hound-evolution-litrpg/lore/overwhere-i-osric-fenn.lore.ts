@@ -212,6 +212,10 @@ export const overwhereIOsricFenn = {
       fact: "Of the toll silver Osric asks back only the one silver he paid; the rest, he says, is spoils.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Osric whistles at the head, names the Board's thirty gold for it, and offers salt from his stock.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
