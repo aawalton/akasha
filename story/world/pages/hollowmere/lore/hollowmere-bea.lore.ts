@@ -377,6 +377,30 @@ export const hollowmereBea = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "Bea made Nala eat toast before the essays came back: you can't get one back on an empty stomach.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Bea's second mending charm warmed her cup again, and she laughed until she sat on the floor.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Asked to watch Kit cast tomorrow, Bea beamed and promised to be the stillest person in the world.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

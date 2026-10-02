@@ -130,5 +130,13 @@ export const hollowmerePenhallow = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Kit's grandmother said Penhallow always asks the one question you can't answer yet.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
 } as const satisfies Lore

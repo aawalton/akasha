@@ -79,5 +79,41 @@ export const hollowmereKit2 = {
       fact: "Kit's magic freezes whenever anyone watches her cast, and has since a failed exam at sixteen.",
       knowers: ["lore-disclosure/game-master", "character-other/hollowmere-kit"],
     },
+    {
+      fact: "Kit's and Amara's essays both came back beta plus; each saw the other's, and both looked away.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
+    {
+      fact: "Watched by Nala in the dusk hall, Kit breathed out at her word and held a glim to five, then eight.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Kit asked for two pairs of eyes tomorrow, Nala's and Bea's; Bea is decent, Kit said: she said so.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Kit kissed Nala slowly on Ashcombe's step after the hall, her cold hands on Nala's face.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
 } as const satisfies Lore

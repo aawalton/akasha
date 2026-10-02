@@ -184,5 +184,14 @@ export const hollowmerePriya = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "Priya's essay came back from Penhallow beta plus, and she hugged it, delighted.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-priya",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
   ],
 } as const satisfies Lore

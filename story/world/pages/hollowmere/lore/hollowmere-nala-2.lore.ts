@@ -97,5 +97,43 @@ export const hollowmereNala2 = {
       fact: "On her timetable's back Nala wrote: Tuesday, Wednesday, Thursday. Kit. Hall. Friday. breathe out.",
       knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
     },
+    {
+      fact: "Nala swam to the buoy and back in five minutes on a frosty dawn; Shiv said: I've created a monster.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+      ],
+    },
+    {
+      fact: "Nala's essay came back from Dr Penhallow marked alpha minus, in green ink.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Under Nala's essay's last line Penhallow wrote one question, Whose wanting?, to think on by Friday.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "Nala can't say whether her wanting is Alan's or this new body's, and leaves the question open.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
+    {
+      fact: "Breathing out longer, Nala mended her cracked cup to the base, a faint line left; the tutor: Yes.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
   ],
 } as const satisfies Lore

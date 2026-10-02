@@ -287,6 +287,23 @@ export const hollowmereLin = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Lin's essay came back from Penhallow beta plus, and she went pink.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
+    {
+      fact: "Lin mended her cup on the second try, its line so fine it looked drawn in pencil.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

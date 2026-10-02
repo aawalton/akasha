@@ -204,7 +204,35 @@ export const hollowmereAmara = {
     },
     {
       fact: "Amara's confidence is practised; she cries in a bathroom after every test, however well she did.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-amara"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-amara",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Nala found Amara crying in a bathroom after her beta plus, and sat on the floor outside the cubicle.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-amara",
+      ],
+    },
+    {
+      fact: "Told Nala swims a freezing mere when frightened, Amara called it utterly mad, and laughed properly.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-amara",
+      ],
+    },
+    {
+      fact: "Amara asked Nala to keep her crying to herself; Nala said she's good at that; Amara kissed her cheek",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-amara",
+      ],
     },
   ],
 } as const satisfies Lore

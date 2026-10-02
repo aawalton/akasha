@@ -279,6 +279,28 @@ export const hollowmereShiv = {
         "character-other/hollowmere-shiv",
       ],
     },
+    {
+      fact: "Shiv's essay came back from Penhallow a beta; she shrugged and folded it into her pocket.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
+    {
+      fact: "Is a mended cup the same cup? Shiv said: a new cup with an old cup's habits; Penhallow laughed.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-penhallow",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
