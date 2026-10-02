@@ -20,7 +20,12 @@ export const partsLengthInWords = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The parts are the collections naming this one under `part-of-collections`.",
+      statement:
+        "The parts are the collections naming this one under `part-of-collections` or as their story.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A part at a step status other than player is unpublished and counts nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
