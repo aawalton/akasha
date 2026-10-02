@@ -14,7 +14,7 @@ export const overwhereIii00060 = {
     "character-other/overwhere-iii-marda-hesk",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I go back to the post to finish draining my mana, then to the shrine to recover, then back to Brannagh’s.",
   beats: [
@@ -29,6 +29,9 @@ export const overwhereIii00060 = {
     "She walks back up through the wicket and along the dark streets to Brannagh's lane.",
     "Brannagh's shutters are closed. No light shows under the door. The bench outside is empty.",
   ],
+  issues: [
+    '"In two hours her well is brimming" - plus 4 miles walked, overruns 5:45 dusk to 8:20 arrival',
+  ],
   lore: [
     "lore/overwhere-iii-brannagh-tull",
     "lore/overwhere-iii-brannagh-tull-2",
@@ -41,6 +44,6 @@ export const overwhereIii00060 = {
     "place/overwhere-iii-merrowgate-guild-post",
     "place/overwhere-iii-wrenwood-crossroads",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-05T20:20:00.000Z",
 } as const satisfies StoryTurnPlayed
