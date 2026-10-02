@@ -13,7 +13,7 @@ export const overwhereIiOswyCrake = {
     },
     {
       fact: "Crake is lean, soft-spoken and smiling, and a ring of keys jangles at his belt.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "His Talent is Siphon, Minor, at First Depth: at a touch he drinks another's Water.",
