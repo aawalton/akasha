@@ -284,7 +284,7 @@ export const overwhereIMonsters = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "A Wastewalker's charge can cost a fighter around 150 health; its meat tastes good.",
+      fact: "A Wastewalker's charge is a great beast's charge; its meat tastes good.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

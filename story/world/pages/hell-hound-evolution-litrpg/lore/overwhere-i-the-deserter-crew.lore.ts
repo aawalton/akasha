@@ -136,7 +136,7 @@ export const overwhereITheDeserterCrew = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "A slug to a bare head does a man 30 harm; a helm wards 2 against it.",
+      fact: "A bare head has no ward against a slug; a helm wards 2 against it.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -148,10 +148,6 @@ export const overwhereITheDeserterCrew = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The crew's crossbow bolts do 15 harm and their blades 10.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
       fact: "Her first slug takes them off guard: a guided shot at a still head within 12 yards is easy.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -160,7 +156,7 @@ export const overwhereITheDeserterCrew = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Voss has 90 health; his steel cap wards 2 against a slug; his axe does 22 harm.",
+      fact: "Voss has 90 health, and his steel cap wards 2 against a slug.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -176,7 +172,7 @@ export const overwhereITheDeserterCrew = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The crew's Drakewolf is Level 15: 35 health, hide ward 2 (1 to a slug), bite 12.",
+      fact: "The crew's Drakewolf is Level 15: 35 health, hide ward 2 (1 to a slug).",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -192,7 +188,7 @@ export const overwhereITheDeserterCrew = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "A man Tobin hits turns on him; Tobin's arrows do 8 harm.",
+      fact: "A man Tobin hits turns on him.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -228,11 +224,11 @@ export const overwhereITheDeserterCrew = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "While its jaws hold her, the crew Drakewolf does 6 harm each 3 seconds.",
+      fact: "While its jaws hold her, the crew Drakewolf worries her arm again each 3 seconds.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "A slug to the crew Drakewolf's head does it 30 harm, its skull warding 1.",
+      fact: "The crew Drakewolf's skull wards 1 against a slug to its head.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],

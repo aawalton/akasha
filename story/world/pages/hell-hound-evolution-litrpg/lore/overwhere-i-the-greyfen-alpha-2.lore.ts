@@ -110,11 +110,7 @@ export const overwhereITheGreyfenAlpha2 = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "An overcharged slug at 210 yards does Ghost-Eye 10 harm: 24 halved by range, less ward 2.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "An overcharged slug costs 40 mana; a plain spun slug at that range does Ghost-Eye 6.",
+      fact: "An overcharged slug costs 40 mana.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -197,11 +193,7 @@ export const overwhereITheGreyfenAlpha2 = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Within 150 yards a plain slug does Ghost-Eye 14 harm, an overcharged one 22.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Ghost-Eye's bite does 18 harm and holds on; breaking its hold is a hard act.",
+      fact: "Ghost-Eye's bite holds on; breaking its hold is a hard act.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -242,10 +234,6 @@ export const overwhereITheGreyfenAlpha2 = {
     },
     {
       fact: "She gets about five slugs while it swims, 100 to 70 yards, and about eight as it crosses the marsh.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Within 100 yards a plain slug does Ghost-Eye 14 harm; its 70 health takes five such hits.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

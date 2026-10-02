@@ -121,7 +121,7 @@ export const overwhereIGreyfenBeasts2 = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "A Mire Snapper has 40 health and shell ward 4 (3 against a slug); its bite does 12 and holds.",
+      fact: "A Mire Snapper has 40 health and shell ward 4 (3 against a slug); its bite holds.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -138,10 +138,6 @@ export const overwhereIGreyfenBeasts2 = {
     },
     {
       fact: "A Mire Snapper's head, out and tearing at meat, wards 1; a slug pierces that to nothing.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "A slug does a Mire Snapper's head 16 harm and its shell 13; overcharged, its shell 21.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
