@@ -10,7 +10,7 @@ export const overwhereIv00069 = {
   position: 69,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "“Perfect, thanks!” I go to the guild to check in with Ilsa on quest options.",
   beats: [
     '"Perfect, thanks!" Nala shoulders the new spear and crosses the square to the hall.',
@@ -23,6 +23,7 @@ export const overwhereIv00069 = {
     '"And the Four are back. Came in last night with four wolf pelts, and heard about your hobgoblin."',
     'She goes back to her ledger, then adds without looking up: "Dace was asking after you."',
   ],
+  issues: ['"it left this morning" - the wool cart notice said it leaves at noon, a day earlier'],
   lore: [
     "lore/overwhere-iv-ilsa-crane-2",
     "lore/overwhere-iv-millbrook-adventurers-hall-2",
@@ -31,6 +32,6 @@ export const overwhereIv00069 = {
     "lore/overwhere-iv-nala-3",
     "place/overwhere-iv-the-tangle",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-05T11:13:00.000Z",
 } as const satisfies StoryTurnPlayed
