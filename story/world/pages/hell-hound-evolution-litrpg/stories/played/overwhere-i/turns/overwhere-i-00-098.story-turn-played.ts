@@ -31,5 +31,6 @@ export const overwhereI00098 = {
   ],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "place/overwhere-i-wendlow"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-10-05T12:17:00.000Z",
 } as const satisfies StoryTurnPlayed
