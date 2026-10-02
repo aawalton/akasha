@@ -7,7 +7,15 @@ export const overwhereIii00069 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 69,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I go back to the post and work on cleansing blightstones, experimenting with ways to do it more efficiently",
+  lore: [
+    "lore/overwhere-iii-braid-weaving",
+    "lore/overwhere-iii-cleansing-weave",
+    "lore/overwhere-iii-corruption",
+    "lore/overwhere-iii-corruption-2",
+    "lore/overwhere-iii-marda-hesk",
+    "place/overwhere-iii-merrowgate-guild-post",
+  ],
 } as const satisfies StoryTurnPlayed
