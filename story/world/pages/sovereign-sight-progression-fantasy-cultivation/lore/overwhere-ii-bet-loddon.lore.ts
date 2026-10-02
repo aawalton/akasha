@@ -45,7 +45,7 @@ export const overwhereIiBetLoddon = {
     },
     {
       fact: "Bet is to bring Nala alone up the front lane before dusk; a lamp in the window means all is ready.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "If Bet is not back at Ashlin Farm by nightfall, Crake will judge it gone wrong and break camp.",
