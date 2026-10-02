@@ -213,7 +213,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "On the road back Dray carries the bottles and ledger, Nala the coin box, and Pip walks between.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "At Ashlin Dray takes the keys from Crake's belt and opens the coin box by lamplight.",
