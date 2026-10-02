@@ -65,7 +65,7 @@ export const overwhereIiSirEdricHale = {
     },
     {
       fact: "Sir Edric speaks low and unhurried, with the clipped vowels of the Keep's end of the valley.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Sir Edric judges a Talent by eyes and breathing; Nala's calm, deep breath tells him she is strong.",
