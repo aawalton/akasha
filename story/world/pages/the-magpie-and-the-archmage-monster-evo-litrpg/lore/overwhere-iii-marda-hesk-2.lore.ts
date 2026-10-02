@@ -40,5 +40,13 @@ export const overwhereIiiMardaHesk2 = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "Marda's ledger: 'Six seed stones and the wolf's. Since noon.'",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
 } as const satisfies Lore
