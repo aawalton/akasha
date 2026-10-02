@@ -10,7 +10,7 @@ export const overwhereI00085 = {
   position: 85,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-harl-voss"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I walk slowly towards him. “Your time has come, Voss. And you want to know why? Is simple. You are worth quite a lot to me dead and nothing to me alive.” When I get in range, I do my double fire beam and burn through his shield, through his armor, and through his body.",
   beats: [
@@ -24,7 +24,7 @@ export const overwhereI00085 = {
     "Her second pair meets on the charred shield; it bursts through, and through him.",
     "Ten yards short of her, Voss pitches forward onto the stones and lies still.",
     "His burned shield rolls a little way down the bank and falls flat.",
-    "Under the overhang his sack sits where he left it, the dusk thickening around it.",
+    "Under the overhang his sack slumps over, and silver coins spill chinking across the rock.",
   ],
   issues: [
     '"Under the overhang the sack sits where he left it, the dusk thickening" - Leave It Open',
