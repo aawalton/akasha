@@ -10,7 +10,7 @@ export const emberdeep0003NalasPassage = {
   story: "story-written/emberdeep",
   ownLength: 4065,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "It is Sixthday; Nala wakes stiff in every muscle from yesterday's sifting and climbing.",
     "At porridge the widow tells her rent for the week ahead is two marks, taken tomorrow morning.",
@@ -98,5 +98,5 @@ export const emberdeep0003NalasPassage = {
     "character-other/emberdeep-wren",
     "character-other/emberdeep-elowen",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
