@@ -17,7 +17,7 @@ export const overwhereI00087 = {
     "character-other/overwhere-i-quarry-crewman-four",
     "character-other/overwhere-i-harl-voss",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I channel two fire beams, aimed from my eyes this time and finish off the drakewolf, then continue.",
   beats: [
@@ -25,7 +25,7 @@ export const overwhereI00087 = {
     "Two beams leap from her eyes and meet on its burned chest; it drops in the gallery mouth, dead.",
     "Her sight swims with dazzle for a moment, then clears.",
     "She steps past it to the blademen; from them she takes 10 copper, two right ears, two tags.",
-    "In the next gallery mouth lies the crewman with the helm; she takes his ear, tag and 6 copper.",
+    "In the next gallery mouth lies the bareheaded crewman she shot; she takes his ear, tag and 6 copper.",
     "Every man of Voss's crew is now an ear and a tag in her sack, and Voss's head besides.",
     "She climbs out of the pit to the road, the sack and Crow's crossbow on her shoulders.",
     "Below the quarry the road runs east in the dark toward Wendlow.",
