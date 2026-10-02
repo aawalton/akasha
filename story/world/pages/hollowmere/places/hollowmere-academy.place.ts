@@ -381,5 +381,22 @@ export const hollowmereAcademy = {
         "character-other/hollowmere-yusra",
       ],
     },
+    {
+      fact: "The poetry society meets Wednesdays at eight in the Snug, a panelled room with a fire.",
+      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-kit"],
+    },
+    {
+      fact: "At poetry meetings each member reads one poem aloud, her own or another's, and nobody claps.",
+      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-kit"],
+    },
+    {
+      fact: "Life drawing meets Thursday evenings, rowing Saturday mornings, and charmcraft on Mondays.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-priya",
+      ],
+    },
   ],
 } as const satisfies Place
