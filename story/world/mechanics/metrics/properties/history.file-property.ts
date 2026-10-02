@@ -24,7 +24,11 @@ export const history = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "No line is written for a turn that left the number alone.",
+      statement: "No line is written for a turn that never moved the number.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn that moved the number and moved it back writes a line all the same.",
     },
     {
       decisionKind: "decision-kind/departure",
