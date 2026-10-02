@@ -8,9 +8,9 @@ export const hollowmere0017EmergencyContact = {
   unit: "unit/words",
   title: "Emergency Contact",
   story: "story-written/hollowmere",
-  ownLength: 2840,
+  ownLength: 2857,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Wednesday: grey and still at dawn, the fells hidden; you and Shiv swim the buoy in thick mist.",
     "At the buoy you tell Shiv Penhallow's green question, whose wanting?; you're still thinking.",
