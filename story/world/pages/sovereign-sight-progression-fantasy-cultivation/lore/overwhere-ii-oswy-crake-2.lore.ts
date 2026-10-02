@@ -9,7 +9,7 @@ export const overwhereIiOswyCrake2 = {
   facts: [
     {
       fact: "Crake fights bare-handed, with a long knife at his hip he seldom draws; his touch is the weapon.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Crake wears a short coat of saltsteel rings under his jerkin, over chest and belly.",
