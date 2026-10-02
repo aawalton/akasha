@@ -244,5 +244,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "A fire-and-earth strength working is fire-strength by another road: same Strength, same cost.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Holding fire-strength for a ten-minute walk needs no roll.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
