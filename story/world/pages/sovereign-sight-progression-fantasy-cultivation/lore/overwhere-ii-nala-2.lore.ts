@@ -204,5 +204,9 @@ export const overwhereIiNala2 = {
       fact: "On the night of day eight, with skin and muscle whole, Descent first calls Nala in a dream.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The tide slides off Nala's heart, and she cannot refine it yet.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
