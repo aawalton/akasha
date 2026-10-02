@@ -294,5 +294,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Nala's beams killed Blademan Three as he knelt, yielding.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Nala lies hidden in thick pines at a stream bend, a hundred yards short of Voss's overhang.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
