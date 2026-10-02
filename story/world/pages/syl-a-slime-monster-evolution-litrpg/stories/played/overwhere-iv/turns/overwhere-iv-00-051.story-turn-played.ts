@@ -4,13 +4,14 @@ export const overwhereIv00051 = {
   id: "01a0fd43-9ad3-7d5c-a04e-f37296d8d574",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-051",
+  cover: "image/image-21101f02f21d4766",
   ownLength: 188,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 51,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“It’s a Skill” I say, I had a lot of books around when I was younger. I rest for the afternoon and think about what I learned, then go through my nighttime and morning routine and then check at the guild for where I could be useful.",
   beats: [
@@ -35,6 +36,11 @@ export const overwhereIv00051 = {
     "place/overwhere-iv-tull-farm",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-03T08:45:00.000Z",
 } as const satisfies StoryTurnPlayed
