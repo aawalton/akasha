@@ -134,5 +134,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Two of the four, Voss among them, are still ahead on the track toward the smoke.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Crow lies dead among the roots at the bend; the helmed crossbowman lies on the track ten yards on.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
