@@ -34,7 +34,7 @@ export const overwhereI0003Flare = {
     },
     {
       position: 19,
-      cover: "image/image-e1b2e08ba28eb347",
+      cover: "image/image-50d88076c814e481",
       coverAfter: "The boar heaves up out of the mud, shaking his head, bubbles",
     },
     {
