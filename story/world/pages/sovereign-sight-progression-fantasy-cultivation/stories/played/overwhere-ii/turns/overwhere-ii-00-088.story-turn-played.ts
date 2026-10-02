@@ -10,7 +10,7 @@ export const overwhereIi00088 = {
   position: 88,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Garth Marsh was the first I encountered, I think I got the name right. Names seem to slip from me. I don’t remember anything really before that. His daughter had the rot and I used my Talent to pull it out of her.”",
   beats: [
@@ -39,6 +39,6 @@ export const overwhereIi00088 = {
     "lore/overwhere-ii-nala-2",
     "lore/overwhere-ii-nala-3",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-21T08:28:00.000Z",
 } as const satisfies StoryTurnPlayed
