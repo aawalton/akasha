@@ -127,5 +127,9 @@ export const overwhereITheWesternMarch = {
       fact: "Drawing a small mana crystal dry takes about half a minute, held in a bare hand.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Drawing on a mana crystal needs no skill and no check; anyone with a mana reserve can do it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
