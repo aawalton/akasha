@@ -246,6 +246,10 @@ export const overwhereIOsricFenn = {
       fact: "Salting and packing the head and ears in Voss's sack takes about a quarter hour.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "One 4-copper sack of salt packs Voss's head and all the ears together; salted, they keep 3 weeks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
