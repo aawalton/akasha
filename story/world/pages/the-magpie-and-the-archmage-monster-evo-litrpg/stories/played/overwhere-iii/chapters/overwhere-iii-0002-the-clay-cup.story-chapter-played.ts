@@ -23,7 +23,7 @@ export const overwhereIii0002TheClayCup = {
     },
     {
       position: 20,
-      cover: "image/image-0c0a9669d4afbae7",
+      cover: "image/image-92b53bb863d871aa",
       coverAfter: "She takes up the tongs and lays the stone back in the",
     },
     {
