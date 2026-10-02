@@ -10,7 +10,7 @@ export const overwhereIii00078 = {
   position: 78,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“I didn’t either, good to know. Could I buy glimmershards? How much do they run? I’m one short of appraise.”",
   beats: [
@@ -19,10 +19,10 @@ export const overwhereIii00078 = {
     '"I didn\'t either, good to know. Could I buy glimmershards?"',
     '"How much do they run? I\'m one short of appraise."',
     '"Glimmerstones, you mean." Marda shakes her head. "The Post doesn\'t trade them. I\'ve none to sell."',
-    '"Town price is about twenty-five copper, when anyone will part with one."',
+    '"Town price is about twenty copper, when anyone will part with one."',
     '"Hunters drinking at the Crook and Candle have one to sell now and then."',
     "Nala reaches into her Inventory to count. Her three. The one she pressed at the shrine. The wolf's.",
-    "Five glimmerstones. Appraise costs five.",
+    "Five glimmerstones.",
   ],
   issues: [
     '"Five glimmerstones. Enough for Appraise." - No Prompt',
