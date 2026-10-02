@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   anchorKey,
   coversOf,
+  FRAME,
   placedAfter,
 } from "akasha/story/ui/modules/inline-cover/inline-cover.module.code.tsx"
 
@@ -44,6 +45,11 @@ test("words found only before the last cover placed are still placed", () => {
     { id: "b", after: "The door" },
   ])
   expect(placed.after.get(0)?.map((one) => one.id)).toEqual(["b"])
+})
+
+test("a cover's box is portrait and held to the small viewport before the picture loads", () => {
+  expect(FRAME.aspectRatio).toBe("832 / 1216")
+  expect(FRAME.width).toBe("min(100%, calc(70svh * 832 / 1216))")
 })
 
 test("a page's prose is handed only the covers of that page", () => {

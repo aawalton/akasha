@@ -31,7 +31,17 @@ export const inlineCover = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A cover is drawn whole within the column, never taller than most of the window.",
+      statement: "A cover's box is set before it loads, so the prose under it never moves.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The box is portrait, as every picture is now drawn, and an older one sits inside.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The box is held to most of the small viewport, which a browser's bars never resize.",
     },
     {
       decisionKind: "decision-kind/departure",

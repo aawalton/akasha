@@ -64,6 +64,17 @@ export function coversOf<T extends { readonly of?: string | undefined }>(
   return covers.filter((one) => one.of === of)
 }
 
+const FRAME_WIDTH = 832
+
+const FRAME_HEIGHT = 1216
+
+const FRAME_TALLEST = "70svh"
+
+export const FRAME = {
+  aspectRatio: `${FRAME_WIDTH} / ${FRAME_HEIGHT}`,
+  width: `min(100%, calc(${FRAME_TALLEST} * ${FRAME_WIDTH} / ${FRAME_HEIGHT}))`,
+} as const
+
 type InlineCoverProps = {
   readonly shown: InlineCover
   readonly gameExternalId?: string | undefined
@@ -83,17 +94,17 @@ export function InlineCoverFigure({ shown, gameExternalId }: InlineCoverProps) {
       <CoverDialog open={viewing} onOpenChange={setViewing} name={name} whole={whole}>
         {reroll}
       </CoverDialog>
-      <div className="relative w-fit max-w-full">
+      <div className="relative" style={FRAME}>
         <button
           type="button"
           aria-label={`View the picture of turn ${shown.number} full size`}
-          className="block max-w-full cursor-zoom-in rounded-md"
+          className="absolute inset-0 block cursor-zoom-in overflow-hidden rounded-md bg-black/20"
           onClick={() => setViewing(true)}
         >
           <DegradingImage
             src={source}
             alt={name}
-            className="block h-auto max-h-[70vh] w-auto max-w-full rounded-md"
+            className="block h-full w-full object-contain"
             fallback={null}
           />
         </button>
