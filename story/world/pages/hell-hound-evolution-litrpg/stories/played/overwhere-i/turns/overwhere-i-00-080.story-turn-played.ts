@@ -15,7 +15,7 @@ export const overwhereI00080 = {
     "character-other/overwhere-i-mirren-dask",
     "character-other/overwhere-i-quarry-crewman-five",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I start chasing them at full enhanced speed. When I get in crossbow range, I put on my air ward to deflect bolts. When I get in beam range, I use my fire beam again.",
   beats: [
@@ -41,6 +41,11 @@ export const overwhereI00080 = {
     "lore/overwhere-i-the-deserter-crew-2-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-03T16:18:00.000Z",
 } as const satisfies StoryTurnPlayed
