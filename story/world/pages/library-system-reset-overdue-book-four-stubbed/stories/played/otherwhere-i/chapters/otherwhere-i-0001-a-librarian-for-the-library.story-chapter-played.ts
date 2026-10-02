@@ -163,7 +163,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 31,
-      cover: "image/image-3378160475a57d7e",
+      cover: "image/image-82b5d820fb443cc8",
       coverAfter: "Around you, the hall's gold light brightens another shade.",
     },
     {
