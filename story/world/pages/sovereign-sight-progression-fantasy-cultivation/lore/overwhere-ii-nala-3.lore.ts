@@ -114,7 +114,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "By noon of day seventeen Nala's skull is well along; it, her hips and long bones remain.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Once her Locks open, the dream of the black stair returns in her last hour of sleep, louder.",
