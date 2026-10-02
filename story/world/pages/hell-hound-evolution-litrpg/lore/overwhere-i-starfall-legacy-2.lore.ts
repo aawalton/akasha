@@ -116,5 +116,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "On a dry track the air-and-earth stride covers about a quarter mile a minute, at 15 mana a minute.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Loosing a beam or slug while running the stride is a band harder.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
