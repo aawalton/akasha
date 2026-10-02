@@ -4,10 +4,13 @@ export const overwhereIi00082 = {
   id: "01a0fe70-3fc1-7ade-b477-542d3a7ea186",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-082",
+  ownLength: 298,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 82,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action: "“Gladly, Sir.”",
   beats: [
     'Nala: "Gladly, Sir."',
@@ -30,6 +33,11 @@ export const overwhereIi00082 = {
     "He stands a long moment, very still. His jaw tightens.",
     'Sir Edric, without opening his eyes: "Tell me of the pull. What you feel, here, now."',
   ],
-  lore: ["lore/overwhere-ii-sir-edric-hale"],
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-nala-3",
+    "lore/overwhere-ii-sir-edric-hale",
+  ],
   endsAt: "2026-10-19T11:00:00.000Z",
 } as const satisfies StoryTurnPlayed
