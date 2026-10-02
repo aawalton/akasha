@@ -4,6 +4,7 @@ export const overwhereIi00068 = {
   id: "01a0fd93-c6d0-739b-9f76-a7e01a697bde",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-068",
+  cover: "image/image-cc28ba230b4eb294",
   ownLength: 282,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
@@ -33,8 +34,13 @@ export const overwhereIi00068 = {
     "She can still feel her Water answering her, but only just. Seconds, not a minute.",
     "The venom creeps on, the way the rot crept through Wren.",
   ],
-  lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2", "lore/overwhere-ii-oswy-crake-2"],
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-oswy-crake-2",
+    "place/overwhere-ii-ashlin-farm",
+  ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-14T18:31:00.000Z",
 } as const satisfies StoryTurnPlayed
