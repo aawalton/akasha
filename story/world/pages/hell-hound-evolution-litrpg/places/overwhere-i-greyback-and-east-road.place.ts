@@ -219,7 +219,7 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "Day 6's road leaves the pines for farmland by noon; it passes quiet.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "With Nala's help on day 6, the cart reaches Brennock Ford by about 15:00.",
