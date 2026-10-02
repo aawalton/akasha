@@ -168,5 +168,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "Nala's spun bullets are slugs: against a snapper's shell they meet ward 3, not 4.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "About 10:02 on day 4 Nala's three slugs killed one Mire Snapper; it sank in the channel.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
