@@ -13,6 +13,7 @@ export const storiesWritten = {
   visibleProperties: ["total-length-in-words", "parts-length-in-words"],
   alwaysShowProperties: ["total-length-in-words", "parts-length-in-words"],
   hiddenPropertiesOrder: [
+    "own-length-in-words",
     "author",
     "chapter-break",
     "collection-type",
@@ -25,7 +26,6 @@ export const storiesWritten = {
     "following",
     "grade",
     "own-length",
-    "own-length-in-words",
     "own-progress",
     "own-progress-in-words",
     "own-remaining",
