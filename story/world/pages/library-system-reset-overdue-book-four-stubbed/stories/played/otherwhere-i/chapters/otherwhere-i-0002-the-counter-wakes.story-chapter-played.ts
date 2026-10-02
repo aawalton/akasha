@@ -48,7 +48,7 @@ export const otherwhereI0002TheCounterWakes = {
     },
     {
       position: 57,
-      cover: "image/image-c493896f9492043c",
+      cover: "image/image-a88b3c29b37de104",
       coverAfter: "Deep in the Library something grinds, slow and heavy, and begins to",
     },
     {
