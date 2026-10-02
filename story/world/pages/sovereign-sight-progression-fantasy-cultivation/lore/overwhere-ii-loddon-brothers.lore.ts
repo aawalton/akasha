@@ -25,7 +25,7 @@ export const overwhereIiLoddonBrothers = {
     },
     {
       fact: "Wil knows the dart in Nala's neck: the venom shuts a Talent's Locks till about dawn, no longer.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Wil reckons Pip runs for Grey Shaw, to grab what he can of Crake's stash and vanish.",
