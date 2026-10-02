@@ -97,7 +97,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "She values a Talent that draws rot above any sword, since the valley has no healer of that kind.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "She knows Marsh Croft lies under the fells below Hollow Tarn, and the frost on her chair thickens.",
