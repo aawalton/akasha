@@ -77,15 +77,30 @@ export const overwhereITheDeserterCrew22 = {
     },
     {
       fact: "Crow and the helmed crossbowman lay in ambush in the pines, 25 yards off the track at the bend.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-mirren-dask",
+        "character-other/overwhere-i-quarry-crewman-five",
+      ],
     },
     {
       fact: "At the bend her ward turned Crow's bolt; the helmed man's bolt grazed her ribs.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-mirren-dask",
+        "character-other/overwhere-i-quarry-crewman-five",
+      ],
     },
     {
       fact: "Her striding beam burned Crow's shoulder; he stays up, and both men crank for another volley.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-mirren-dask",
+        "character-other/overwhere-i-quarry-crewman-five",
+      ],
     },
   ],
 } as const satisfies Lore
