@@ -4,13 +4,14 @@ export const overwhereIv00071 = {
   id: "01a0fe78-65be-74e3-aa19-88e35a098c77",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-071",
+  cover: "image/image-d4335d35d53ea0d2",
   ownLength: 207,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 71,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Sorry, but no. You’re a good group, but I’d like to work on my own for now. Thank you for the offer.” I go over to Ilsa. “I can do a night watch tonight.”",
   beats: [
@@ -38,6 +39,12 @@ export const overwhereIv00071 = {
     "place/overwhere-iv-tull-farm",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-05T21:03:00.000Z",
+  coverAfter: "Two torches, there at the Tangle's edge. They hold still, side by side,",
 } as const satisfies StoryTurnPlayed
