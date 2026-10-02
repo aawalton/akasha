@@ -254,6 +254,14 @@ export const overwhereIiiMerrowgateGuildPost = {
       fact: "The Guild bounty table: a blightstone 1 silver, a seed stone 10 copper, a Wrenmark wolf 20 copper.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "The Thornmere wagon calls for the lead box at each new moon; the next is twelve days off.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
+    {
+      fact: "The lead box's stones are the only blightstones in Merrowgate; more come only from new kills.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
