@@ -6,7 +6,7 @@ export const climb0002TheMasquerade = {
   slug: "climb-0002-the-masquerade",
   cover: "image/image-a8949fc4122a5997",
   scenes: [
-    "image/image-e670c71bba28b831",
+    "image/image-cdca08634e3a03b1",
     "image/image-9d40b6ffd0d47327",
     "image/image-3bd2cbe6df8ae366",
     "image/image-dc8b952d045cfcf4",
