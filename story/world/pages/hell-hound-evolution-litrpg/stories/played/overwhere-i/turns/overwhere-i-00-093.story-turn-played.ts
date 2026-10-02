@@ -10,7 +10,7 @@ export const overwhereI00093 = {
   position: 93,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "Sleep and then accelerate the journey the next day, lightening and accelerating the cart and mule",
   beats: [
@@ -18,7 +18,7 @@ export const overwhereI00093 = {
     "Osric shakes her at first light; the mule is fed and back in the shafts, and they roll at six.",
     "She warns Osric, then holds a steady breath of air at the cart's back, gentle on axle and mule.",
     "The cart rolls faster, the mule stepping easy, while Tobin rides the tailboard grinning.",
-    "When her well sinks low she lets the push go and rides, then takes it up again as it fills.",
+    "Whenever her well dips below four-fifths full she lets the push go, then takes it up as it fills.",
     "By noon the pines give way to farmland, and Osric halts an hour to rest the mule.",
     "The afternoon road runs quiet between hedges and stubble fields, with no one on it to fear.",
     "About three, they come down to Brennock Ford: five farms by a stone-paved ford, and an inn.",
