@@ -197,6 +197,18 @@ export const overwhereIiNala3 = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Training mornings and refining afternoons, Nala begins on her organs on day twenty-four.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Refining afternoons only, Nala's organs and heart are all refined whole by about day forty-five.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her lungs refine first, then gut, liver and kidneys, and the rest; her heart last of all.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Nala took Lady Varrow's lesser bond; Sir Edric witnessed it, naming her free blade of Varrow Keep.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
