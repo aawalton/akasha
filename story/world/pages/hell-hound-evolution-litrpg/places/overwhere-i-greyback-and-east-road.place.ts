@@ -129,6 +129,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "Dry grass on the quarry road's verge catches at once; the pines catch if a burst is fed three steps.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Osric's bolting mule slows and stops about half a mile on down the road, cart and cask unharmed.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
