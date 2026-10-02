@@ -1,3 +1,5 @@
 {"check":"world-check/overwhere-iv-growth","reading":{"character":"nala","gains":[{"kind":"skill","skill":"Spatial Sense","level":3,"uses":3}]},"answered":{"grown":[{"kind":"skill","skill":"Spatial Sense","from":3,"to":4,"usesCarried":0,"maxed":false}]}}
 {"check":"world-check/overwhere-iv-time-passing","reading":{"from":"2026-10-05T11:13:00.000Z","minutes":240},"answered":{"endsAt":"2026-10-05T15:13:00.000Z","day":7,"light":"day"}}
 {"check":"world-check/overwhere-iv-time-passing","reading":{"from":"2026-10-05T11:13:00.000Z","minutes":290},"answered":{"endsAt":"2026-10-05T16:03:00.000Z","day":7,"light":"day"}}
+{"check":"world-check/overwhere-iv-needs","reading":{"hoursSinceMeal":8,"hoursSinceDrink":8,"hoursAwake":10,"cold":false,"sheltered":true},"answered":{"hunger":"peckish","thirst":"thirsty","fatigue":"rested","chilled":false,"penalty":0}}
+{"check":"world-check/overwhere-iv-standing","reading":{"character":"Ilsa Crane","kept":0,"heard":1,"shared":0,"helped":0,"crossed":0,"quotes":{"heard":"\"I might be good for a night watch,\" you tell Ilsa. \"Let me do some training today, and I'll let you know.\""}},"answered":{"earned":1,"lost":0,"change":1}}
