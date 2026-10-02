@@ -226,7 +226,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "The three tiny bones of each ear refine first, in minutes; after, sounds ring a shade clearer.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Small bones go many to a day; a long bone like the thigh takes Nala an hour or more alone.",
