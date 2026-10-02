@@ -83,5 +83,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "At the bend her ward turned Crow's bolt; the helmed man's bolt grazed her ribs.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Her striding beam burned Crow's shoulder; he stays up, and both men crank for another volley.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
