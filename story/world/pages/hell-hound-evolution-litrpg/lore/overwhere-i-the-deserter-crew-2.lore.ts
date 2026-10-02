@@ -296,5 +296,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Slowed by burned Blademan Three, the four are about a mile ahead; Nala closes in an hour.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Crow walks rearguard, stopping in cover to watch the back trail; spotting him first is hard.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
