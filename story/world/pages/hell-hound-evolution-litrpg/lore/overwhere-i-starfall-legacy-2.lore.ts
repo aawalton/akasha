@@ -202,7 +202,7 @@ export const overwhereIStarfallLegacy2 = {
     },
     {
       fact: "Fire on a wound sears it shut with pain; air, water or earth alone do nothing for it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "A water-and-earth weave held on a wound, meant as flesh knitting, mends it: a Weave use, no new way.",
