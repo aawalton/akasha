@@ -33,7 +33,7 @@ export const otherwhereXi0001TheWomanWhoCameOffTheHill = {
     },
     {
       position: 5,
-      cover: "image/image-8c1da97f8de5972f",
+      cover: "image/image-22e2561a6b4dd239",
       coverAfter: "The blue door opens. A tall, rawboned woman steps out with a",
     },
     {
