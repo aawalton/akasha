@@ -4,10 +4,13 @@ export const overwhereIi00084 = {
   id: "01a0fe85-4967-7f1f-89d6-4390e550729f",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-084",
+  ownLength: 272,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 84,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action: "“I can do that.”",
   beats: [
     'Nala: "I can do that."',
@@ -29,6 +32,12 @@ export const overwhereIi00084 = {
     "He leads her up a winding stair to a long, draughty hall, a fire smoking at one end.",
     "Sir Edric stands beside a high-backed chair. In it sits a woman in grey, very upright, watching her.",
   ],
-  lore: ["lore/overwhere-ii-sir-edric-hale", "place/overwhere-ii-varrow-keep"],
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-nala-3",
+    "lore/overwhere-ii-sir-edric-hale",
+    "place/overwhere-ii-varrow-keep",
+  ],
   endsAt: "2026-10-21T08:00:00.000Z",
 } as const satisfies StoryTurnPlayed
