@@ -37,6 +37,7 @@ export const overwhereIv00073 = {
     '"The sun is sinking toward the moor. Behind your ribs, the warmth is down" - Leave It Open',
   ],
   lore: [
+    "lore/overwhere-iv-brookside-four-2",
     "lore/overwhere-iv-ilsa-crane-2",
     "lore/overwhere-iv-millbrook-adventurers-hall-2",
     "lore/overwhere-iv-nala",
@@ -46,5 +47,6 @@ export const overwhereIv00073 = {
     "place/overwhere-iv-tull-farm",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-10-06T18:00:00.000Z",
 } as const satisfies StoryTurnPlayed
