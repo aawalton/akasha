@@ -123,5 +123,9 @@ export const overwhereIiOswyCrake2 = {
       fact: "Dying, Crake's hands found nothing to drink from on Nala's spear: only wood and cold iron.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "When Crake fell, someone small ran from the farmhouse for the hedges.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
