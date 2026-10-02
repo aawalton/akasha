@@ -10,7 +10,7 @@ export const overwhereIi00074 = {
   position: 74,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Aren’t you and me the watch in this case? So we could decide what to do with it anyways. If the chained Talents need it, I don’t mind passing it to them, what’s it good for?”",
   beats: [
@@ -37,12 +37,16 @@ export const overwhereIi00074 = {
     'Dray: "We can sleep here till first light, or carry it all back to Ashlin tonight."',
     'Dray: "Your legs, your call."',
   ],
+  issues: [
+    '"It deepens no one, leaves nothing lasting." - Plain Negation',
+    '"Your legs, your call." - No Prompt',
+  ],
   lore: [
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",
     "lore/overwhere-ii-nala-3",
     "place/overwhere-ii-grey-shaw",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-14T22:25:00.000Z",
 } as const satisfies StoryTurnPlayed
