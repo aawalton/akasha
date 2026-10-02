@@ -145,7 +145,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "She offers Nala a place sworn to House Varrow: a bar a month, a room at the Keep, a knight's rank.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Sworn to her, Nala would help hold the valley against whatever is under the Whitecombs.",
