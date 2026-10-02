@@ -81,7 +81,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "Told Nala remembers nothing past a few weeks, she asks where Nala first woke, and who saw her first.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "If Nala names Hollow Tarn, the frost on Lady Varrow's chair cracks, and she says nothing of why.",
