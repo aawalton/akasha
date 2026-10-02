@@ -6,4 +6,11 @@ export const positionFraction = {
   slug: "position-fraction",
   definition: "Converts scroll positions to clamped 0-1 fractions and back.",
   code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The prose is set aside while the panels are shown in its place.",
+    },
+  ],
 } as const satisfies Module

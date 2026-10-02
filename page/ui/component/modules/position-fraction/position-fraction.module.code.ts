@@ -16,6 +16,10 @@ export function decideReadRestore(fraction: number | undefined): number | undefi
   return clamped > POSITION_RESUME_MIN_FRACTION ? clamped : undefined
 }
 
+export function proseSetAside(dataset: Readonly<Record<string, string | undefined>>): boolean {
+  return dataset.panelsShown !== undefined
+}
+
 export function decideRestoreReady(args: {
   readonly pagePresent: boolean
   readonly isLoading: boolean

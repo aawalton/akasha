@@ -1,6 +1,9 @@
 "use client"
 
-import { clampFraction } from "akasha/page/ui/component/modules/position-fraction/position-fraction.module.code.ts"
+import {
+  clampFraction,
+  proseSetAside,
+} from "akasha/page/ui/component/modules/position-fraction/position-fraction.module.code.ts"
 import { computeReadProgress } from "akasha/page/ui/component/modules/read-progress/read-progress.module.code.ts"
 import type { ReaderPositionAnchor } from "akasha/page/ui/component/modules/reader-prose-body/reader-prose-body.module.code.tsx"
 import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
@@ -71,6 +74,7 @@ export function useReaderProgressWriter(args: ReaderProgressWriterArgs): {
       debounceRef.current = setTimeout(() => {
         if (restoringRef.current) return
         const doc = document.documentElement
+        if (proseSetAside(doc.dataset)) return
         const scrollable = doc.scrollHeight - doc.clientHeight
         const pixelFraction = scrollable > 0 ? doc.scrollTop / scrollable : 0
         const contentFraction =

@@ -1,6 +1,9 @@
 "use client"
 
-import { clampFraction } from "akasha/page/ui/component/modules/position-fraction/position-fraction.module.code.ts"
+import {
+  clampFraction,
+  proseSetAside,
+} from "akasha/page/ui/component/modules/position-fraction/position-fraction.module.code.ts"
 import type { ReaderPositionAnchor } from "akasha/page/ui/component/modules/reader-prose-body/reader-prose-body.module.code.tsx"
 import { type RefObject, useEffect, useRef } from "react"
 
@@ -42,6 +45,7 @@ export function useReadEndOnScroll(args: {
     const check = () => {
       if (firedRef.current) return
       const doc = document.documentElement
+      if (proseSetAside(doc.dataset)) return
       const scrollable = doc.scrollHeight - doc.clientHeight
       const fraction = readEndContentFraction({
         scrollTop: doc.scrollTop,
