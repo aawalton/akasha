@@ -68,5 +68,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Lying prone, Nala shoots from a steady rest: it cancels the running-mark penalty.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Prone, Nala is a hard mark for a crossbow; standing, a moderate one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
