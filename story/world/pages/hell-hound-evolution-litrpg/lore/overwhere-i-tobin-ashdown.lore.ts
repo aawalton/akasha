@@ -129,7 +129,7 @@ export const overwhereITobinAshdown = {
     },
     {
       fact: "At the gate at dawn on day 5 Hessa gives Tobin a full quiver and one curt nod.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "At the quarry Tobin's hand creeps to his bow; he will loose if a blade is drawn.",
