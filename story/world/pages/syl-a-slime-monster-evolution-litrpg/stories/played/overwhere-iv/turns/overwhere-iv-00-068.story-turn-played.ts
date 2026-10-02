@@ -7,9 +7,20 @@ export const overwhereIv00068 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 68,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Yes, please. I have a feeling a crossbar will save my life someday. Can you get it done today?”",
+  beats: [
+    '"Yes, please. I have a feeling a crossbar will save my life someday. Can you get it done today?"',
+    '"Within the hour," Tobin says. "Simple work. Wait, if you like."',
+    "Nala sets twenty copper on the bench. This time he counts it at once.",
+    "He cuts a short iron bar, heats it, and draws its ends round on the anvil.",
+    "A collar goes on behind the socket, hammered snug. The bar slides through it, and he peens it fast.",
+    "Two hands wide, ends rounded, set crosswise just behind the leaf blade.",
+    "He quenches it in the trough with a hiss and a gout of steam, and wipes it down.",
+    "Then he holds the spear out to her, butt first.",
+    '"There. Nothing\'ll climb that."',
+  ],
   lore: ["place/overwhere-iv-millbrook-smithy"],
   endsAt: "2026-10-05T10:58:00.000Z",
 } as const satisfies StoryTurnPlayed
