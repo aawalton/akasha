@@ -8,9 +8,9 @@ export const emberdeep0003NalasPassage = {
   unit: "unit/words",
   title: "Nala's Passage",
   story: "story-written/emberdeep",
-  ownLength: 4065,
+  ownLength: 4063,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "It is Sixthday; Nala wakes stiff in every muscle from yesterday's sifting and climbing.",
     "At porridge the widow tells her rent for the week ahead is two marks, taken tomorrow morning.",
