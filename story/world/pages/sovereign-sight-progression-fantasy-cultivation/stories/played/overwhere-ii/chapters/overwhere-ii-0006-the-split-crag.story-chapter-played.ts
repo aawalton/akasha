@@ -53,7 +53,7 @@ export const overwhereIi0006TheSplitCrag = {
     },
     {
       position: 50,
-      cover: "image/image-052def82157c3851",
+      cover: "image/image-69b4ef30449aa413",
       coverAfter: "A black pool lies in the bowl, thirty paces across, free of",
     },
     {
