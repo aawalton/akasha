@@ -16,5 +16,9 @@ export const overwhereIiiNala22 = {
       fact: "Nala walked the fox stone back to the post in Oswin's pouch, held away from her side.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala watched the currents a whole afternoon at Brannagh's on day eight, and saw nothing new.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
