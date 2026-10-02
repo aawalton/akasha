@@ -83,6 +83,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Voss reads Nala as Level 8 and laughs at Osric hiring so small a guard.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Voss's eye falls on the tarred cask, and he asks what it holds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
