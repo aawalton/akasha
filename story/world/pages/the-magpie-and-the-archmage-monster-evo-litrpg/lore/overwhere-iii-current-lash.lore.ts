@@ -24,5 +24,9 @@ export const overwhereIiiCurrentLash = {
       fact: "Her first Current Lash loosed far more force than she meant to put in it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "A Current Lash thrown with all a Legend Mana Weaver's lending can kill a small beast outright.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
