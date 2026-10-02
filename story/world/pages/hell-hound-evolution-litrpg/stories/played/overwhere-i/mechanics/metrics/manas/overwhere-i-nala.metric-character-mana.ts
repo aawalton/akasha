@@ -7,7 +7,7 @@ export const overwhereINala = {
   character: "character-player/overwhere-i-nala",
   value: 174,
   minValue: 0,
-  maxValue: 328,
+  maxValue: 344,
   history: "jsonl",
   displayOrder: 2,
 } as const satisfies MetricCharacterMana

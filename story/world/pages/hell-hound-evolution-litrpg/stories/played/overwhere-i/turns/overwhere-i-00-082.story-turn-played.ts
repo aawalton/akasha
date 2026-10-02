@@ -17,7 +17,7 @@ export const overwhereI00082 = {
     "character-other/overwhere-i-harl-voss",
     "character-other/overwhere-i-quarry-crewman-three",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I take a blade from one of the downed men and stab both through the neck to make sure they are fully down, then quietly fall back a bit and start quietly circling, giving my mana some time to recharge.",
   beats: [
@@ -48,7 +48,12 @@ export const overwhereI00082 = {
     "lore/overwhere-i-the-system-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-03T17:04:00.000Z",
   coverAfter: "You lie flat in the pines on the rim as Voss knots",
 } as const satisfies StoryTurnPlayed
