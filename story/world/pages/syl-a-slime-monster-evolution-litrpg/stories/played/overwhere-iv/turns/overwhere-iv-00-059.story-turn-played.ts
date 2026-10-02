@@ -14,7 +14,7 @@ export const overwhereIv00059 = {
     "character-other/overwhere-iv-ilsa-crane",
     "character-other/overwhere-iv-marta-hesk",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“In working on my senses. Anything can see things, but how many people can understand what they hear and smell?” I go for dinner, sleep, training, and then check in at the guild",
   beats: [
@@ -48,6 +48,6 @@ export const overwhereIv00059 = {
     "lore/overwhere-iv-nala-2",
     "place/overwhere-iv-brook-and-barrel",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-04T10:00:00.000Z",
 } as const satisfies StoryTurnPlayed
