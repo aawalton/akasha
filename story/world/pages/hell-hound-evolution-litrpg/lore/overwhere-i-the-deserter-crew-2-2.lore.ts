@@ -196,7 +196,7 @@ export const overwhereITheDeserterCrew22 = {
     },
     {
       fact: "At the first beam Voss snatches the sack and runs east out of the fold, shield on his back.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Voss's shield on his back wards 3 from behind; his head is bare since he tore off the cap.",
