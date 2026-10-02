@@ -18,7 +18,7 @@ export const overwhereI0006ThreeLurkersByNoon = {
     },
     {
       position: 27,
-      cover: "image/image-c1eea0794f247ab1",
+      cover: "image/image-5926f3781ddc4c42",
       coverAfter: 'Jory holds his arms out as wide as they go. "Long as',
     },
     {
