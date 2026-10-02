@@ -17,7 +17,7 @@ export const overwhereIiKeeperAnselm2 = {
     },
     {
       fact: "Anselm says most Talented Descend once skin and muscle are whole, and refine bone after.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Anselm says each part refined before a Descent makes its Tribulation easier to bear.",
