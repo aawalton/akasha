@@ -195,7 +195,11 @@ export const overwhereIiiBrannaghTull2 = {
     },
     {
       fact: "The lad carries his father's 10 copper fee knotted in a rag; Brannagh hands it on to the healer.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
 } as const satisfies Lore
