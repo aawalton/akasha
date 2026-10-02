@@ -98,6 +98,7 @@ export const overwhereIiiIvyMarsh = {
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-ivy-marsh",
         "character-other/overwhere-iii-huw-tarrant",
+        "character-player/overwhere-iii-nala",
       ],
     },
   ],
