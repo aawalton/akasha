@@ -10,7 +10,7 @@ export const hollowmere0011ClothedToStart = {
   story: "story-written/hollowmere",
   ownLength: 3103,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   beats: [
     "Thursday: dawn at the boathouse, the register, the whistle; fewer shriekers on the shingle today.",
     'Shiv signs "Doyle (reluctant, again)"; you two swim out to the buoy and hang there, breathing.',
