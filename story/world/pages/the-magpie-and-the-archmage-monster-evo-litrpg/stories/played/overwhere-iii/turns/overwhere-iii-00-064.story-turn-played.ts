@@ -13,7 +13,7 @@ export const overwhereIii00064 = {
     "character-player/overwhere-iii-nala",
     "character-other/overwhere-iii-oswin-fairley",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I hit it with a Current Lash and Cleansing Weave together, braided, as hard as I can manage",
   beats: [
@@ -26,7 +26,7 @@ export const overwhereIii00064 = {
     "The dark smear is gone from it. Where it lay curled, a small black stone sits on the gray earth.",
     "Nala sways. Her well is bone dry, and her hands are shaking.",
     'Oswin lowers his stick slowly. He looks at the fox, then at her. "Gods," he breathes.',
-    "The small blightstone lies in the dirt between them, dark and dull.",
+    'Oswin nods at the small black stone in the dirt. "What\'s to be done with that, then?"',
   ],
   issues: ['"The small blightstone lies in the dirt between you, dark and dull." - Leave It Open'],
   lore: [
