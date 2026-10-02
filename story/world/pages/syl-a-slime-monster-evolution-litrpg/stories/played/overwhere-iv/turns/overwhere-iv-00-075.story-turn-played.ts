@@ -11,4 +11,5 @@ export const overwhereIv00075 = {
   action:
     "I quietly hide myself at a distance of half my range from where they will pass, then when they come into range, I start slicing necks, one after another, using my spatial sense to see them without moving and focusing on efficiency. I choose targets at random so they can’t tell where they attack is coming from.",
   lore: ["lore/overwhere-iv-the-tangle-2", "place/overwhere-iv-the-tangle"],
+  endsAt: "2026-10-06T21:16:00.000Z",
 } as const satisfies StoryTurnPlayed
