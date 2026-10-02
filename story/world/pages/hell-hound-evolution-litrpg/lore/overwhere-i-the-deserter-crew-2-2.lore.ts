@@ -250,5 +250,9 @@ export const overwhereITheDeserterCrew22 = {
         "character-other/overwhere-i-harl-voss",
       ],
     },
+    {
+      fact: "A beam at kneeling Blademan Three is easy.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
