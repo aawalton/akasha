@@ -67,5 +67,21 @@ export const overwhereIiVarrowTalented = {
       fact: "Corra Venn is small and sharp-eyed, and snaps tiny blue sparks between her fingertips.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "The court's rack holds wooden swords, mauls, short blades, and ash practice spears, blunt-capped.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Osric fights in overhead and sweeping blows, fast for their weight, and leaves his flank open after.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Osric has never fought anyone with a spear's reach who could keep him at its end.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A practice bout ends at a clean touch to head or body, or when Hawise calls it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
