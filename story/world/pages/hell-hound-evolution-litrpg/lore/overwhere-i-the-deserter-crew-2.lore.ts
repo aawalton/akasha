@@ -94,5 +94,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Crossing to the scrub, an unseen bowman's bolt struck Nala's thigh.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "To parley, Voss steps into a gallery mouth, shield up, about 60 yards from Nala's cover.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
