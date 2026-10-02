@@ -31,10 +31,12 @@ export const overwhereIi00091 = {
     'Lady Varrow: "Will you start with them tomorrow, or refine first?"',
   ],
   lore: [
+    "lore/overwhere-ii-lady-imre-varrow",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",
     "lore/overwhere-ii-nala-3",
     "place/overwhere-ii-varrow-keep",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-21T08:48:00.000Z",
 } as const satisfies StoryTurnPlayed
