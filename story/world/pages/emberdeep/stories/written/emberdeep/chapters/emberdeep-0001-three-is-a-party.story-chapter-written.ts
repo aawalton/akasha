@@ -134,4 +134,5 @@ export const emberdeep0001ThreeIsAParty = {
     "character-other/emberdeep-elowen",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryChapterWritten
