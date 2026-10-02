@@ -58,7 +58,7 @@ export const overwhereIiiCleansingWeave = {
     },
     {
       fact: "The turned snap-back bites the blight too: a looped weave pales a blightstone half again as much.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Closing a weave in a loop is fiddly; a first try may lose the loop and run plain.",
