@@ -4,7 +4,7 @@ export const theDatingGame00032 = {
   id: "01a0e56e-65e9-718d-b709-e594b2990d4f",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-032",
-  cover: "image/image-7c9715af5a3fd0da",
+  cover: "image/image-302c8518e100c28d",
   coverAfter: "She walks a few steps in silence, the lantern light sliding over",
   ownLength: 106,
   unit: "unit/words",
