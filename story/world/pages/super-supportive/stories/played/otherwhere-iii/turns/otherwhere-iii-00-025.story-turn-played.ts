@@ -5,6 +5,7 @@ export const otherwhereIii00025 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-025",
   cover: "image/image-98f41d78035ee117",
+  coverAfter: "Across the lobby, at the desk, the golden ropes flicker once, a",
   ownLength: 209,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
