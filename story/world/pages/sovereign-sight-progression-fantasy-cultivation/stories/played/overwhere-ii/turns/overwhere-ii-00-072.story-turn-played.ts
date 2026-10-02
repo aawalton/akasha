@@ -10,7 +10,7 @@ export const overwhereIi00072 = {
   position: 72,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Can we catch him? I’m sure I can make it at a run, but I’d need a guide who could keep up with me.”",
   beats: [
@@ -22,7 +22,7 @@ export const overwhereIi00072 = {
     "Wil: \"He won't think anyone's coming.\"",
     "Nala and Dray leave the barn and the lamplit yard, and run.",
     "Down the black lane, out onto the valley road, and away downhill.",
-    "Her Locks are shut tight; no Water runs in her. Only refined muscle, and it is enough.",
+    "Her Locks are shut; her penned Water presses at them. She runs on refined muscle alone.",
     "She runs faster than any man could, long and easy, and Dray's stone-heavy stride keeps pace.",
     "An hour after dark the half moon rises, and the road shows pale between the hedges.",
     "They run on. Her breath comes steady, and the miles fall away behind them.",
