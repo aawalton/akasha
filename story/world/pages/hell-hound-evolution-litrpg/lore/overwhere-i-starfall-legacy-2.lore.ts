@@ -40,5 +40,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Turning a missile she sees coming is a moderate act; one she has not seen is hard.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Her air ward turns one missile at a time; two arriving together, the second is a hard act.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
