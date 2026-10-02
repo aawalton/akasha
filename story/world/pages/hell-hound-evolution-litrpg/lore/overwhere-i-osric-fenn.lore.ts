@@ -161,7 +161,7 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Osric's mule cart leaves the Stag at 5:00 on day 5; guards walk beside or sit the tailboard.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Osric's terms: Nala and Tobin ride free and eat from his stores; any bounty on robbers is theirs.",
