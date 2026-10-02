@@ -14,11 +14,19 @@ export const hollowmerePenhallow = {
     },
     {
       fact: "Dr Penhallow is lean and upright, with weathered fair skin, kind blue eyes and short silver hair.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-penhallow"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-penhallow",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Dr Penhallow wears round glasses on a chain, green tweed and a long wool skirt.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-penhallow"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-penhallow",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Dr Penhallow teaches the theory of magic, and has taught Hollowmere's first-years for thirty years.",
@@ -38,15 +46,34 @@ export const hollowmerePenhallow = {
         "character-other/hollowmere-amara",
         "character-other/hollowmere-priya",
         "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
       ],
     },
     {
       fact: "Dr Penhallow's study is crammed with books, with a round window looking down on the mere.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-penhallow"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-penhallow",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+      ],
     },
     {
       fact: "Dr Penhallow keeps a tin of shortbread on her desk and offers it to whoever answers well.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-penhallow"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-penhallow",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+      ],
     },
   ],
 } as const satisfies Lore

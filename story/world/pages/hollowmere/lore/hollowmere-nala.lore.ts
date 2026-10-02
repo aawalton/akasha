@@ -101,6 +101,42 @@ export const hollowmereNala = {
       fact: "Nala's Tuesday: tutorial at nine, Foundations lecture at eleven, practical casting at two.",
       knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
     },
+    {
+      fact: "Nala alone in group F had never cast a spell, said so, and Dr Penhallow gave her shortbread.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Nala's body runs light and fast, but has no stamina and gives out within minutes.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "On her first day of casting Nala made only a brief spark over her palm, and a headache.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Nala keeps what she saw of Kit through the Practice Hall window to herself, telling no one.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

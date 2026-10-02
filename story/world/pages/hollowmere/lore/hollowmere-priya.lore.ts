@@ -18,7 +18,11 @@ export const hollowmerePriya = {
     },
     {
       fact: "Priya has warm brown skin, big dark eyes behind round tortoiseshell glasses, and a gold nose stud.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-priya"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-priya",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Priya's thick curly black hair is shoulder-length, often knotted up with a pencil through it.",
@@ -30,15 +34,27 @@ export const hollowmerePriya = {
     },
     {
       fact: "Priya wears bright corduroy pinafores over striped tops, and carries a tote full of notebooks.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-priya"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-priya",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Priya talks fast and asks questions constantly, and is kind to everyone without trying.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-priya"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-priya",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Priya grew up in Leicester, and took a physics degree before deciding magic was more interesting.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-priya"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-priya",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Priya wants to build charmed machines, and takes notes on everything in three colours.",
@@ -47,6 +63,14 @@ export const hollowmerePriya = {
     {
       fact: "Priya likes boys, has a boyfriend at home in Leicester, and is unbothered by who anyone else likes.",
       knowers: ["lore-disclosure/game-master", "character-other/hollowmere-priya"],
+    },
+    {
+      fact: "Priya's boyfriend Dev is home in Leicester, doing a PhD in fluid dynamics.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-priya",
+        "character-player/hollowmere-nala",
+      ],
     },
   ],
 } as const satisfies Lore

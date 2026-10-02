@@ -18,11 +18,19 @@ export const hollowmereLin = {
     },
     {
       fact: "Lin has smooth light skin, soft dark brown eyes, gentle straight brows and a small mouth.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-lin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Lin's straight black hair is long, with a soft fringe, worn in a low ponytail over one shoulder.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-lin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Lin has small soft tits with light brown nipples, and a fine dark tuft over her cunt.",
@@ -30,11 +38,20 @@ export const hollowmereLin = {
     },
     {
       fact: "Lin wears soft knits and long pleated skirts, and always has ink on her fingertips.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-lin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Lin is shy and quiet, slow to speak and then exactly right, and notices everything.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-lin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
     },
     {
       fact: "Lin grew up in Manchester above her parents' Cantonese restaurant, the younger of two daughters.",
@@ -42,15 +59,42 @@ export const hollowmereLin = {
     },
     {
       fact: "Lin draws constantly, and her sigils are cleaner and more beautiful than anyone's in group F.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-lin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Lin lives in Thornfield House, on the floor below Nala's.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-lin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
     },
     {
       fact: "Lin has only ever liked girls, and has never once said so out loud.",
       knowers: ["lore-disclosure/game-master", "character-other/hollowmere-lin"],
+    },
+    {
+      fact: "Lin comes from Manchester.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Lin showed Nala the glim's hook turns in, not out, and gave her a page drawn to show it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
     },
   ],
   secrets: "jsonl",

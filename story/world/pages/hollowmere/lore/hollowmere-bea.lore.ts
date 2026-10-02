@@ -106,6 +106,15 @@ export const hollowmereBea = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "Bea managed half a glim on her first day, and the demonstrator told her good.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

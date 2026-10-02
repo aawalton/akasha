@@ -14,23 +14,46 @@ export const hollowmereShiv = {
     },
     {
       fact: "Shiv is slim and wiry like a swimmer, with lean shoulders and a small flat chest.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-shiv"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
     },
     {
       fact: "Shiv has very fair skin, sea-green eyes, sandy brows, a dusting of freckles and a crooked grin.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-shiv"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Shiv's strawberry-blonde hair is chin-length, tousled, and usually damp.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-shiv"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
     },
     {
       fact: "Shiv has small tits with pink nipples, and a sandy tuft of hair over her cunt.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-shiv"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
     },
     {
       fact: "Shiv lives in a grey hoodie, running tights and a big navy parka.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-shiv"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Shiv is easygoing, dry and fearless, and treats rules as suggestions.",
@@ -47,6 +70,28 @@ export const hollowmereShiv = {
     {
       fact: "Shiv likes girls, and has had more girlfriends than she can easily count.",
       knowers: ["lore-disclosure/game-master", "character-other/hollowmere-shiv"],
+    },
+    {
+      fact: "Shiv introduced herself to group F as Siobhan Doyle, from Galway.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
+    {
+      fact: "Shiv walked naked out of the forbidden mere at dawn on Tuesday, saw Nala staring, and grinned.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
     },
   ],
   secrets: "jsonl",

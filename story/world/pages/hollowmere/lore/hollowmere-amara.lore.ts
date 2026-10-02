@@ -18,11 +18,19 @@ export const hollowmereAmara = {
     },
     {
       fact: "Amara has deep brown skin, bright dark eyes, high cheekbones, shaped brows and a full mouth.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-amara"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-amara",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Amara wears her black hair in long box braids, often gathered into a high ponytail.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-amara"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-amara",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Amara has small high tits with dark nipples, and keeps her cunt waxed bare.",
@@ -30,7 +38,11 @@ export const hollowmereAmara = {
     },
     {
       fact: "Amara dresses sharply in fitted knits and tailored trousers, with small gold hoops and a gold watch.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-amara"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-amara",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Amara is confident, quick and competitive, and means to come top of the year.",
@@ -50,11 +62,42 @@ export const hollowmereAmara = {
         "lore-disclosure/game-master",
         "character-other/hollowmere-amara",
         "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-bea",
       ],
     },
     {
       fact: "Amara likes women and men both, and flirts with everyone as easily as breathing.",
       knowers: ["lore-disclosure/game-master", "character-other/hollowmere-amara"],
+    },
+    {
+      fact: "Amara flirted openly with Nala at lunch, and called her freckles criminal.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-amara",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Amara cast a bright, steady glim on her first try in the Practice Hall.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-amara",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-bea",
+      ],
     },
   ],
   secrets: "jsonl",

@@ -35,7 +35,11 @@ export const hollowmereKit = {
     },
     {
       fact: "Kit dresses in black, in high-necked jumpers and long slim skirts, with a silver ring on one hand.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-kit"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Kit is guarded, dry and sharp-tongued, and says the cutting thing before anyone can say it to her.",
@@ -77,6 +81,31 @@ export const hollowmereKit = {
     {
       fact: "Kit cannot cast while anyone watches her; under eyes her magic simply freezes.",
       knowers: ["lore-disclosure/game-master", "character-other/hollowmere-kit"],
+    },
+    {
+      fact: "Kit froze mid-sigil on her first glim in the Practice Hall, before forty watching girls.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "After freezing, Kit's hand shook at her side, and only Nala saw it.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
+    {
+      fact: "Alone in the Practice Hall at dusk, Kit cast a ring of perfect glims, until Nala saw her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
     },
   ],
   secrets: "jsonl",
