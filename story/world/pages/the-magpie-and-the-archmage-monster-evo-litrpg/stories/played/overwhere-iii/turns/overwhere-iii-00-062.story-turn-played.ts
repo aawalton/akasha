@@ -20,4 +20,5 @@ export const overwhereIii00062 = {
     "lore/overwhere-iii-wrenmark-beast-guide",
     "place/overwhere-iii-fairley-farm",
   ],
+  endsAt: "2026-10-06T08:30:00.000Z",
 } as const satisfies StoryTurnPlayed
