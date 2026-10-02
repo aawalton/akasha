@@ -49,7 +49,7 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "The Talented have heard Nala killed Crake; Osric wants to test her, Hawise to watch her first.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Corra is curious about Nala, and a little jealous of the Lady's notice.",
