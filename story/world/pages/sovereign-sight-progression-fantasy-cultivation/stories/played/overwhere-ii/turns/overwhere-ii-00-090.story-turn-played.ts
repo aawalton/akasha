@@ -7,7 +7,8 @@ export const overwhereIi00090 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 90,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“I will not swear, but I will help if I can. I have refined my skin, muscles, and bones since meeting Garth and I still have room to grow, but I am lacking in guidance. I have a feeling I will need all the strength I can get to face whatever lies under that mountain. If you can help me grow my strength, I will stay to face it.”",
+  lore: ["lore/overwhere-ii-lady-imre-varrow"],
 } as const satisfies StoryTurnPlayed
