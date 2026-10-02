@@ -4,10 +4,13 @@ export const overwhereI00068 = {
   id: "01a0fd2a-f6f8-765d-9c9a-54f1057e60a6",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-068",
+  ownLength: 291,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 68,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“He’ll be safe enough as long as he’s with me. If he runs off in his own though, that’s on him.” I tell Bet, then take a bath before bed.",
   beats: [
@@ -28,8 +31,12 @@ export const overwhereI00068 = {
     'Then his eye falls on the tarred cask. "And what\'s in that?"',
   ],
   lore: [
+    "lore/overwhere-i-fenwatch-2",
     "lore/overwhere-i-garrick-pell",
     "lore/overwhere-i-hessa-vane",
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
+    "lore/overwhere-i-rowan-coalby",
     "lore/overwhere-i-the-deserter-crew",
     "lore/overwhere-i-tobin-ashdown",
     "place/overwhere-i-greyback-and-east-road",
