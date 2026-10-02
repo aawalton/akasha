@@ -76,4 +76,5 @@ export const hollowmere0006SixtyTwoPounds = {
     "character-other/hollowmere-kit",
     "character-other/hollowmere-amara",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
