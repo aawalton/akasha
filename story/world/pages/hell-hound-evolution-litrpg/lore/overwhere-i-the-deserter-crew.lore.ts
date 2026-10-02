@@ -346,6 +346,10 @@ export const overwhereITheDeserterCrew = {
       fact: "The two crossbowmen and Voss reach the pit about 8 seconds after the whistles.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Running, Voss carries his shield slung over his back.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
