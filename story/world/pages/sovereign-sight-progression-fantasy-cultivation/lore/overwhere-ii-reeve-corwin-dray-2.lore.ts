@@ -129,7 +129,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray's signal that he is at the barn's back wall is a single crow's caw from the gully.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
