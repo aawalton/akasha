@@ -5,6 +5,7 @@ export const overwhereI00054 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-054",
   cover: "image/image-bb1a99f6d78e51b0",
+  coverAfter: "Beside the den, down in the drowned pine's roots, the ripple finds",
   ownLength: 123,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

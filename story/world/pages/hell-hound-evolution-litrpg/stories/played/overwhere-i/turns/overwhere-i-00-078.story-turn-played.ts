@@ -5,6 +5,7 @@ export const overwhereI00078 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-078",
   cover: "image/image-64ac8fb6c296c2b5",
+  coverAfter: "You stand on the game trail at twenty to four, the deer",
   ownLength: 192,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

@@ -5,6 +5,7 @@ export const overwhereI00057 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-057",
   cover: "image/image-418b804f9b0f2bee",
+  coverAfter: "You fish the milky eye out of your pack and hold it",
   ownLength: 141,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

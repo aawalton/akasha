@@ -5,6 +5,7 @@ export const overwhereI00063 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-063",
   cover: "image/image-a43083e7a00473de",
+  coverAfter: "Your third strikes as it reaches the deep water, and the snapper",
   ownLength: 133,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

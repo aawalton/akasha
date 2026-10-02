@@ -5,6 +5,7 @@ export const overwhereI00059 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-059",
   cover: "image/image-dd8a5b7e8b25c182",
+  coverAfter: "The Tarred Stag is full for supper: Garrick at the hearth, Agathe",
   ownLength: 253,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

@@ -5,6 +5,7 @@ export const overwhereI00069 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-069",
   cover: "image/image-944fb8ad573cf64c",
+  coverAfter: "It cracks into the steel cap above his brow and snaps his",
   ownLength: 180,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

@@ -5,6 +5,7 @@ export const overwhereI00053 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-053",
   cover: "image/image-e222419bf64d563e",
+  coverAfter: "In the middle of the island, under the roots of a great",
   ownLength: 183,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

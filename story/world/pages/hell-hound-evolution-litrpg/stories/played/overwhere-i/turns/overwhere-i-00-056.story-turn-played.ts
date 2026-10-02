@@ -5,6 +5,7 @@ export const overwhereI00056 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-056",
   cover: "image/image-50e2fd6ce1b79002",
+  coverAfter: "At half past four you come up out of the reeds at",
   ownLength: 140,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

@@ -5,6 +5,7 @@ export const overwhereI00068 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-068",
   cover: "image/image-a9b0f8f03a685497",
+  coverAfter: "A big man bars the road with five others at his back:",
   ownLength: 291,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

@@ -5,6 +5,7 @@ export const overwhereI00081 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-081",
   cover: "image/image-e323bc0efb34aae2",
+  coverAfter: "Up the track, toward the smoke in the hill fold, the other",
   ownLength: 170,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

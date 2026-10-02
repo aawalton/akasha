@@ -5,6 +5,7 @@ export const overwhereI00072 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-072",
   cover: "image/image-53582ea42d3fe521",
+  coverAfter: "You hold the working and push. The stone glows brighter, red to",
   ownLength: 208,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

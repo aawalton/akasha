@@ -5,6 +5,7 @@ export const overwhereI00077 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-077",
   cover: "image/image-c2d459ef80c43559",
+  coverAfter: "The sitting man stares at the pit floor, sword in hand, his",
   ownLength: 143,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

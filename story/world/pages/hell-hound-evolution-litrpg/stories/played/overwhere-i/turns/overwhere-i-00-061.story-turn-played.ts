@@ -5,6 +5,7 @@ export const overwhereI00061 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-061",
   cover: "image/image-6ea8c389636e2c0f",
+  coverAfter: "Osric laughs, loud enough to turn heads at the next table, and",
   ownLength: 112,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

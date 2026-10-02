@@ -5,6 +5,7 @@ export const overwhereI00073 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-073",
   cover: "image/image-bb9dcbf3cf6bcfa2",
+  coverAfter: "And out on the lip you'd be in the open, under the",
   ownLength: 133,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

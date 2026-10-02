@@ -5,6 +5,7 @@ export const overwhereI00064 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-064",
   cover: "image/image-a51e0e3426f8aefa",
+  coverAfter: "The water stays flat. The reeds on both banks and the marsh",
   ownLength: 185,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

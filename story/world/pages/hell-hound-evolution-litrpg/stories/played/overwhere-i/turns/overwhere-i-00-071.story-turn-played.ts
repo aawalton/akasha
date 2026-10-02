@@ -5,6 +5,7 @@ export const overwhereI00071 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-071",
   cover: "image/image-5ea82b627e7acb96",
+  coverAfter: "A bolt hisses out of the trees from the shooter you still",
   ownLength: 215,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

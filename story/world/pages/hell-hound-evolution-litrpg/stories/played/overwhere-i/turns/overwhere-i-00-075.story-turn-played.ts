@@ -5,6 +5,7 @@ export const overwhereI00075 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-075",
   cover: "image/image-2d25e854b7871a67",
+  coverAfter: "Behind your boulders you hold two water lenses in the air, one",
   ownLength: 123,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

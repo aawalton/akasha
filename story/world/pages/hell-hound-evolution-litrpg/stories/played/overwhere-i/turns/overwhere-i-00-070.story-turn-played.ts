@@ -5,6 +5,7 @@ export const overwhereI00070 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-070",
   cover: "image/image-eec2ea0e870d253d",
+  coverAfter: "You bend it off your own arm. It licks past and spares",
   ownLength: 229,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

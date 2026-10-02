@@ -5,6 +5,7 @@ export const overwhereI00062 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-062",
   cover: "image/image-1c213d7a918568a4",
+  coverAfter: "Ghost-Eye's body lies snagged in the reeds on the north bank, half",
   ownLength: 166,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

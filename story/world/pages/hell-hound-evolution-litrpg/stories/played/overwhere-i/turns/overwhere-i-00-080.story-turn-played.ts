@@ -5,6 +5,7 @@ export const overwhereI00080 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-080",
   cover: "image/image-eeae1b531de1d958",
+  coverAfter: "Still striding, ward still up, you loose a fire beam at the",
   ownLength: 199,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

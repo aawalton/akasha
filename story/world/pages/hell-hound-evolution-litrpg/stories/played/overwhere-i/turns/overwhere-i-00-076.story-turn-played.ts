@@ -5,6 +5,7 @@ export const overwhereI00076 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-076",
   cover: "image/image-36fe67fdbd05d1b5",
+  coverAfter: "Behind your boulders you dig the two pale blue crystals out of",
   ownLength: 106,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

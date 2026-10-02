@@ -5,6 +5,7 @@ export const overwhereI00079 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-079",
   cover: "image/image-a7917d9484433b6c",
+  coverAfter: "The afternoon sun beats full on the granite. You draw water out",
   ownLength: 166,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

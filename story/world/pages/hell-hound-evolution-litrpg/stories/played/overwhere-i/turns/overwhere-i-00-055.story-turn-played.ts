@@ -5,6 +5,7 @@ export const overwhereI00055 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-055",
   cover: "image/image-e39d09b275fe8019",
+  coverAfter: "You brush the dirt away: two pieces of pale blue crystal, each",
   ownLength: 78,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

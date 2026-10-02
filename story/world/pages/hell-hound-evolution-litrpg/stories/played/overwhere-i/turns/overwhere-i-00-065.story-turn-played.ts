@@ -5,6 +5,7 @@ export const overwhereI00065 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-065",
   cover: "image/image-dc86350d7a9c5d1c",
+  coverAfter: "You turn the sled for the village. Rowan takes the rope first,",
   ownLength: 203,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

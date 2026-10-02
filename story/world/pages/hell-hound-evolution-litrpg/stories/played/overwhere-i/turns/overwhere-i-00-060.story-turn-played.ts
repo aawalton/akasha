@@ -5,6 +5,7 @@ export const overwhereI00060 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-060",
   cover: "image/image-a2e6419519da0b66",
+  coverAfter: "He keeps whatever the alchemists pay behind a smile, and leans in",
   ownLength: 109,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

@@ -5,6 +5,7 @@ export const overwhereI00074 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-074",
   cover: "image/image-10eca735f03d2a80",
+  coverAfter: "Another catches the second crossbowman full in the face. He drops back,",
   ownLength: 207,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

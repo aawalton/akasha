@@ -5,6 +5,7 @@ export const overwhereI00067 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-067",
   cover: "image/image-83d4afa378920955",
+  coverAfter: "In the Stag's back room the two of you pack Ghost-Eye's head",
   ownLength: 232,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

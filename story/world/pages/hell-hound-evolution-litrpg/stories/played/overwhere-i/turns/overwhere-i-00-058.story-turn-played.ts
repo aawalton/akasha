@@ -5,6 +5,7 @@ export const overwhereI00058 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-058",
   cover: "image/image-0f5b71b5d7787739",
+  coverAfter: "He glances west, where the light is going gold over the reeds.",
   ownLength: 163,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],

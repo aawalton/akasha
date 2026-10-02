@@ -5,6 +5,7 @@ export const overwhereI00066 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-066",
   cover: "image/image-43df7dbf1e9a3631",
+  coverAfter: 'Osric sweeps off his wide-brimmed hat with a flourish. "I leave for',
   ownLength: 148,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
