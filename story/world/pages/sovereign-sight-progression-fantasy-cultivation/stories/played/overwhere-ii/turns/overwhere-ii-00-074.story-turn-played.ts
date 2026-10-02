@@ -10,7 +10,7 @@ export const overwhereIi00074 = {
   position: 74,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Aren’t you and me the watch in this case? So we could decide what to do with it anyways. If the chained Talents need it, I don’t mind passing it to them, what’s it good for?”",
   beats: [
@@ -21,7 +21,7 @@ export const overwhereIi00074 = {
     'Dray: "But by custom, whoever takes them has a third. That\'s you."',
     "He counts the bottles by moonlight, lifting each. Twenty-two, each a single draught, cold and dense.",
     'Dray: "A Talent drained dry drinks one of these and fills back up in an hour, not days."',
-    'Dray: "Mends faster, too. It only fills a well, mind. It deepens no one, leaves nothing lasting."',
+    'Dray: "Mends faster, too. It only fills a well, mind. Depth you still earn yourself."',
     'Dray: "Thaumists in Carrowmouth brew it into elixirs that ease refining. A silver bar a bottle."',
     'Dray: "That\'s why Crake drained people. Twenty-two bars, sitting in a hole."',
     "Dray: \"Some of this is the captives' own Water. Drunk back, it'll speed their healing.\"",
@@ -35,7 +35,7 @@ export const overwhereIi00074 = {
     "Pip, sitting against the cold hearth, flinches at the name.",
     "Dray shuts the book and looks at Nala, then the boy, then the road back.",
     'Dray: "We can sleep here till first light, or carry it all back to Ashlin tonight."',
-    'Dray: "Your legs, your call."',
+    "Outside, the half moon hangs over the birches, and the road back to Ashlin runs pale and empty.",
   ],
   issues: [
     '"It deepens no one, leaves nothing lasting." - Plain Negation',
