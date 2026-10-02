@@ -10,10 +10,10 @@ export const hollowmere0017EmergencyContact = {
   story: "story-written/hollowmere",
   ownLength: 2840,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   beats: [
     "Wednesday: grey and still at dawn, the fells hidden; you and Shiv swim the buoy in thick mist.",
-    "Out at the buoy Shiv asks what Penhallow's question meant; you say you're still thinking.",
+    "At the buoy you tell Shiv Penhallow's green question, whose wanting?; you're still thinking.",
     '"Whose wanting," Shiv repeats, treading water. "Yours, eejit. Whose else would it be?"',
     "You laugh, and swallow mere, and choke; Shiv thumps your back, grinning, all the way to shore.",
     "At breakfast there's a slip in your pigeonhole: bursar's office, two o'clock today, to sign papers.",
