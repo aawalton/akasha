@@ -10,7 +10,7 @@ export const overwhereIv00074 = {
   position: 74,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Great! I give him the horn. I’m hunting the Tangle tonight. If there are enough goblins to be bothering them tonight, I’m going to make sure there aren’t tomorrow. I should be okay on my own, but I’ll be glad to know you’re nearby so I can fall back in your direction if I get overwhelmed. Is that okay?@",
   beats: [
@@ -38,6 +38,6 @@ export const overwhereIv00074 = {
     "lore/overwhere-iv-nala-3",
     "place/overwhere-iv-the-tangle",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-06T21:10:00.000Z",
 } as const satisfies StoryTurnPlayed
