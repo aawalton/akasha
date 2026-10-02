@@ -10,7 +10,7 @@ export const overwhereIi00070 = {
   position: 70,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Come on down. If there are any others and you help us subdue them, that will count in your favor.”",
   beats: [
@@ -39,6 +39,6 @@ export const overwhereIi00070 = {
     "lore/overwhere-ii-nala-3",
     "lore/overwhere-ii-reeve-corwin-dray-2",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-14T18:42:00.000Z",
 } as const satisfies StoryTurnPlayed
