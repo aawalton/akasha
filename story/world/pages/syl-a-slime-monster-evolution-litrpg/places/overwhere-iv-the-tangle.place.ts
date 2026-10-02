@@ -295,6 +295,10 @@ export const overwhereIvTheTangle = {
       fact: "Until then the goblins watch the edge farms from the trees by torchlight, and choose.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Grakk's watchers report one guard with a horn at Tull's; he keeps to his strike there.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
