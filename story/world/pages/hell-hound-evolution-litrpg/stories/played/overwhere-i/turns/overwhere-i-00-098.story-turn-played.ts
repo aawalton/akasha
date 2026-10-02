@@ -11,4 +11,5 @@ export const overwhereI00098 = {
   action:
     "I sit and tell her about the wolves and the bandits, presenting the ears, the tags, and the heads as proof.",
   lore: ["place/overwhere-i-wendlow"],
+  endsAt: "2026-10-05T12:17:00.000Z",
 } as const satisfies StoryTurnPlayed
