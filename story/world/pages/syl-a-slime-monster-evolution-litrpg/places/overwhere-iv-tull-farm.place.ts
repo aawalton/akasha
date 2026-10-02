@@ -151,5 +151,9 @@ export const overwhereIvTullFarm = {
       fact: "Tull takes back his lantern at dawn and says only that she'll be welcome again.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Merrit, jumpy on watch, shouts once at a sound in the trees before he throws fire at it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place

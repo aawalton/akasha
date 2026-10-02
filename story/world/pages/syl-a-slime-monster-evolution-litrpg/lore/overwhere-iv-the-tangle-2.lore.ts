@@ -220,5 +220,25 @@ export const overwhereIvTheTangle2 = {
       fact: "A goblin's overhand club swing, once missed, leaves it off balance for a breath.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala outran her pursuers down the deer trail, lost them in the dark, and came out by Tull's ford.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Having lost her, the pursuers go back up the trail to the band; none comes on toward the ford.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The strike is now some fourteen goblins, the wounded LV 6 among them, and both hobgoblins.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Unbroken, the hobgoblins regather the band and come on, warier, to the edge near midnight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At the edge they light torches, rush the ford, and go for the fold and the cottage thatch.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
