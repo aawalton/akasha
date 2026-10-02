@@ -61,5 +61,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Voss holds about four gold in toll silver in the galleries.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A goat path climbs the pit's north wall into the forest; the crew can slip out by it unseen.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
