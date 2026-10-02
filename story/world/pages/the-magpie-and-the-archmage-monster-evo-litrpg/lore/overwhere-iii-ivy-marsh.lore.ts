@@ -90,7 +90,12 @@ export const overwhereIiiIvyMarsh = {
     },
     {
       fact: "Afternoons Ivy works her herd at the east gate pens, her hand mended, with Huw Tarrant as her hand.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-ivy-marsh"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-ivy-marsh",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-huw-tarrant",
+      ],
     },
     {
       fact: "Ivy says of Huw: 'Whatever you want to know, ask him. He owes you, and so do I.'",

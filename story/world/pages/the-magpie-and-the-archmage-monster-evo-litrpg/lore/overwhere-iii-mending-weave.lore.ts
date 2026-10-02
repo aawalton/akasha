@@ -34,7 +34,7 @@ export const overwhereIiiMendingWeave = {
     },
     {
       fact: "An old, years-set scar takes three Mending Weaves to smooth; each flattens and pales it a little.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Each Mending Weave laid on a scar counts as a use of the skill.",
