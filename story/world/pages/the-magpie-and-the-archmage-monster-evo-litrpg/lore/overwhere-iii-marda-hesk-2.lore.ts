@@ -28,5 +28,9 @@ export const overwhereIiiMardaHesk2 = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "Marda wants no coin for cracked seed stones: the bounty buys blight unmade; the cleanser keeps it.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
 } as const satisfies Lore
