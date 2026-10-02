@@ -175,6 +175,10 @@ export const overwhereIiOswyCrake = {
       fact: "Someone with jangling keys waits in the dark of the barn under the loft, not by the house hearth.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Crake robbed Lady Varrow's road for a year, and took three Talented off it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
