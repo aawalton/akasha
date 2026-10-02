@@ -130,5 +130,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Nala's working reached for Voss's cap and stopped at 30 yards, short of him; he felt nothing.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "At her answer Voss laughs once, says his head comes dearer than that, and steps back out of sight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
