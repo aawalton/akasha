@@ -10,7 +10,7 @@ export const overwhereIv00055 = {
   position: 55,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I go and tell a heroic tale, sure to attribute each kill to a careful cut with my spear skill, then go back to the guild to turn in the quest and the ears and ask about where I could get a better spear.",
   beats: [
@@ -42,6 +42,6 @@ export const overwhereIv00055 = {
     "place/overwhere-iv-millbrook-smithy",
     "place/overwhere-iv-tull-farm",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-03T14:35:00.000Z",
 } as const satisfies StoryTurnPlayed
