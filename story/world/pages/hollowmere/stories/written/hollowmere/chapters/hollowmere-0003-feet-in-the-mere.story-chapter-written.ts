@@ -10,7 +10,7 @@ export const hollowmere0003FeetInTheMere = {
   story: "story-written/hollowmere",
   ownLength: 6115,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   beats: [
     "Half six, Wednesday: Bea bangs on your door; you groan, and go, legs still stiff from yesterday.",
     "Bea makes you run slow this time; you last ten minutes before your lungs give, double yesterday.",
@@ -44,7 +44,7 @@ export const hollowmere0003FeetInTheMere = {
     "In the charity shop Bea dresses you like a doll: an old fisherman's jumper, a wool hat.",
     "Lin finds a battered book of sigils from the fifties and holds it like treasure.",
     "Bea pays for your jumper and waves it off: you can buy the scones next week.",
-    "The tearoom by the jetty is packed with students; the scones are the size of fists.",
+    "Kit stops walking and turns to you, and looks at you straight on, in daylight, for a long moment.",
     "You split one with Bea, cream and jam; Shiv eats two; Lin eats half of hers very slowly.",
     'Amara sweeps past your table with second-years, touches your shoulder, says, "Freckles."',
     "You go red; Shiv laughs so hard she has to put her head on the table.",
