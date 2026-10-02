@@ -1,5 +1,6 @@
 {"propertySlug":"assignment-slug","path":"agent/seat/pages/iris/iris.seat.ts","id":"01a0e348-87c3-7000-92ae-99d2bafd763b"}
 {"propertySlug":"assignment-slug","path":"agent/subagent/pages/iris-a32c2a9138cab7531/iris-a32c2a9138cab7531.subagent.ts","id":"01a0fd7f-89b1-747b-8d0c-173d63e3de0d"}
+{"propertySlug":"assignment-slug","path":"agent/subagent/pages/iris-a9de54c459e430f83/iris-a9de54c459e430f83.subagent.ts","id":"01a0fd69-e22e-7325-a1d0-0b844dc636e1"}
 {"propertySlug":"championed-domain","path":"persona/pages/akasha/akasha.persona.ts","id":"01a04978-48a1-79c8-8ea9-840a19c247da"}
 {"propertySlug":"import","fileName":"akasha.domain.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"akasha.domain.ts","path":"agent/subagent/modules/census/subagent-census.module.test-fixtures.ts","typed":false,"deferred":false}
