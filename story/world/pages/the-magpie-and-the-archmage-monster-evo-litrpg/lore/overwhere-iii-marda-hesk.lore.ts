@@ -360,6 +360,14 @@ export const overwhereIiiMardaHesk = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "Marda let Nala's 'just curious' lie, but kept watching her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
