@@ -30,6 +30,8 @@ const MADE = {
   height: 832,
 }
 
+const DRAWN = { ...MADE, width: 832, height: 1216 }
+
 function turn(slug: string, cover: string): Row {
   return {
     path: `story/world/pages/w/stories/played/s/turns/${slug}.story-turn-played.ts`,
@@ -90,8 +92,8 @@ test("an ask names an image, and anything else asks nothing", () => {
   expect(askedIn(null)).toBeNull()
 })
 
-test("a cover is drawn again from what its image page records", () => {
-  expect(drawingOf(MADE)).toEqual(MADE)
+test("a cover is drawn again from what its image page records, at the one portrait size", () => {
+  expect(drawingOf(MADE)).toEqual(DRAWN)
   expect(drawingOf({ ...MADE, prompt: " " })).toHaveProperty("refused")
   expect(drawingOf({ ...MADE, model: "flux" })).toHaveProperty("refused")
   expect(drawingOf(null)).toHaveProperty("refused")
@@ -125,10 +127,10 @@ test("every turn and chapter entry naming the old cover is pointed at the new on
   ])
 })
 
-test("a reroll draws at the recorded size, points the story at the new cover and grades the old one F", async () => {
+test("a reroll draws portrait, points the story at the new cover and grades the old one F", async () => {
   const held = faked({ "story-turn-played": [turn("t-1", OLD)] })
   expect(await rerollOf(STORY, held.effects)).toBe(true)
-  expect(held.drawn).toEqual([MADE])
+  expect(held.drawn).toEqual([DRAWN])
   expect(held.written).toHaveLength(1)
   expect(held.written[0]?.pages).toEqual([
     {

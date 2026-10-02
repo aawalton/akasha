@@ -10,7 +10,12 @@ export const coverRerolling = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A cover is drawn again from the prompt, model and size its image page records.",
+      statement: "A cover is drawn again from the prompt and model its image page records.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A cover is drawn again at 832 by 1216, the one portrait size every story picture takes.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -62,9 +62,9 @@ const REJECTED = "F"
 
 const DRAWN_WITHIN_MS = 15 * 60_000
 
-const WIDTH = 1216
+const WIDTH = 832
 
-const HEIGHT = 832
+const HEIGHT = 1216
 
 const WRITER = "cover reroller <cover-reroller@alanwalton.com>"
 
@@ -111,8 +111,8 @@ export function drawingOf(image: Value | null): Drawing | Refused {
     prompt,
     steps: numberIn(image, "steps", spec.defaultSteps),
     guidance: numberIn(image, "guidance", spec.defaultGuidance),
-    width: numberIn(image, "width", WIDTH),
-    height: numberIn(image, "height", HEIGHT),
+    width: WIDTH,
+    height: HEIGHT,
   }
 }
 
