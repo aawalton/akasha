@@ -57,5 +57,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Voss offers free road for Osric and all Fenwatch carts for good, and the toll silver he holds.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Voss holds about four gold in toll silver in the galleries.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
