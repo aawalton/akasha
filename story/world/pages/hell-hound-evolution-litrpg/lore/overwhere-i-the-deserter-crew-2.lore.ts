@@ -214,5 +214,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "A spyglass sweep of the treeline from her boulders takes about a minute.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Through the lens the pit's north wall shows a goat path to the forest, its dust freshly scuffed.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
