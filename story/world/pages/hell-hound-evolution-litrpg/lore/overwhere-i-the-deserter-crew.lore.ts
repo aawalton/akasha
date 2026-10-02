@@ -276,6 +276,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Both crossbowmen loose at Nala as the fire blooms; Crow's unseen bolt comes a moment after.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At the fire Osric's mule rears and starts to bolt down the road, cart, cask and all.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
