@@ -4,10 +4,13 @@ export const overwhereIv00078 = {
   id: "01a0feff-fe5e-7a68-a473-214cb420bc83",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-078",
+  ownLength: 115,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 78,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I turn and use my momentum to slash across its neck with the spear, then get up and run again, weaving a bit to dodge the slings.",
   beats: [
@@ -19,6 +22,11 @@ export const overwhereIv00078 = {
     "Up the trail behind it, the two knives come on at a run, and a sling whirrs.",
     "Too late to run. The club goblin bursts past the spear, panting, and swings wide at her head.",
   ],
-  lore: ["lore/overwhere-iv-the-tangle-2"],
+  lore: [
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "lore/overwhere-iv-nala-3",
+    "lore/overwhere-iv-the-tangle-2",
+  ],
   endsAt: "2026-10-06T21:22:00.000Z",
 } as const satisfies StoryTurnPlayed
