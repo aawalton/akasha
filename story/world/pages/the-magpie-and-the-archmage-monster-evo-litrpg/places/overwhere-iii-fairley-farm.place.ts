@@ -26,7 +26,11 @@ export const overwhereIiiFairleyFarm = {
     },
     {
       fact: "It is a low stone farmhouse, a cow byre, a wattle hen-house, and barley fields gone to stubble.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-oswin-fairley"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-oswin-fairley",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "The hen-house's wattle is torn open at one corner, the ground thick with feathers and blood.",
