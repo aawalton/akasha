@@ -82,7 +82,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "The first loops of cycling after the venom grate through her Locks like a rusted hinge.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Each loop eases the next; cycling on the march, her Locks run free by mid-morning, not noon.",
