@@ -10,7 +10,7 @@ export const overwhereIi00092 = {
   position: 92,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "“I’ll train with them in the mornings, refine after, until my refining is done.”",
   beats: [
     'Nala: "I\'ll train with them in the mornings, refine after, until my refining is done."',
@@ -35,12 +35,16 @@ export const overwhereIi00092 = {
     "Hawise folds her arms at the court's edge. \"I'll watch first. Go on.\"",
     'Osric sets his feet across the frosted court, maul raised. "Pick a weapon, free blade."',
   ],
+  issues: [
+    '"No Talent harms what it can\'t heal" - Nobody Acts',
+    '"None draws on another\'s Water" - Nobody Acts',
+  ],
   lore: [
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",
     "lore/overwhere-ii-nala-3",
     "lore/overwhere-ii-varrow-talented",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-22T06:48:00.000Z",
 } as const satisfies StoryTurnPlayed
