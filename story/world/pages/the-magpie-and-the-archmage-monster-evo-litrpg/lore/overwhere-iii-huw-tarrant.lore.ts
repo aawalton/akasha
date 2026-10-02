@@ -30,7 +30,11 @@ export const overwhereIiiHuwTarrant = {
     },
     {
       fact: "Huw knows the Thornmere road and every farm along it, and hears all the drovers' talk.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-huw-tarrant"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-huw-tarrant",
+        "character-other/overwhere-iii-ivy-marsh",
+      ],
     },
     {
       fact: "Three Mending Weaves smoothed Huw's burn scar flat and pale; his right hand opens and grips again.",
