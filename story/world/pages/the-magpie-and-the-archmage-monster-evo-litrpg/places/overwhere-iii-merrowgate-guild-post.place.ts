@@ -290,6 +290,10 @@ export const overwhereIiiMerrowgateGuildPost = {
       fact: "Day 10 word at the post: the blighted boar's track crossed the south road by Edda Crane's clearing.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
+    {
+      fact: "Day 10 word at the post: a woodcutter found a deer by the Wren Brook, hide rotted to black sludge.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
