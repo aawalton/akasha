@@ -73,7 +73,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "She asks where Nala comes from, since Dray wrote that she came to the Ford with no papers.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "She asks to look at Nala through her glass from the Spires, and does not say what she hopes to see.",
