@@ -99,4 +99,5 @@ export const hollowmere0001Thornfield14 = {
     "character-other/hollowmere-yusra",
     "character-other/hollowmere-kit",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
