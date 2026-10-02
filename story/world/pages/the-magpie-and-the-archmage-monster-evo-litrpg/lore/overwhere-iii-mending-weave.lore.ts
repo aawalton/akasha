@@ -44,5 +44,9 @@ export const overwhereIiiMendingWeave = {
       fact: "Watching the currents as she rests, a Legend Mana Weaver may see how a mending would ride them.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A Mending Weave braided onto a lent current runs deeper: an old scar smooths in two weaves.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
