@@ -39,7 +39,7 @@ export const saltAndLamplight0003TheBoatSong = {
     '"Get in," she says, and turns her back, and stays standing there.',
     "Nala strips off the wet dress and shift and steps into the hot water.",
     "She sinks to her chin, knees drawn up; the heat stings, then soaks into her.",
-    "She washes this body slowly, learning it: small breasts, soft belly, the red hair over her vulva.",
+    "She washes this body slowly, learning it: small breasts, soft belly, the red hair over her pussy.",
     "Watching Morwenna's straight back and braid, she feels a warm ache in her pussy, and goes still.",
     "She doesn't know what to do with wanting a woman from inside a woman's body.",
     "To say something, anything, she says she's sorry she frightened her.",
