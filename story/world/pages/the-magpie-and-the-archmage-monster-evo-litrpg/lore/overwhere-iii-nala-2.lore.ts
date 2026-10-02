@@ -188,7 +188,7 @@ export const overwhereIiiNala2 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
-      fact: "Nala last ate at supper on her sixth night; by mid-morning on day seven she is hungry again.",
+      fact: "Nala last ate at the Crook and Candle's noon plate on day seven, and is fed.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
@@ -295,10 +295,6 @@ export const overwhereIiiNala2 = {
     },
     {
       fact: "Four weaves at the post past noon on day seven, one lost, left Nala's mana empty again.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
-    },
-    {
-      fact: "Past noon on day seven Nala still has not eaten that day, and her stomach growls.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
