@@ -37,6 +37,18 @@ export const overwhereIvHarm = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A rend laid clean through a neck or a heart is vital, and deals twice its harm.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: 'A vital rend adds `"vital":true` to the reading; any other blow leaves it out.',
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rend through the throat silences its foe at once, whatever harm it deals.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A foe folded onto a braced point takes the blow as heavy.",
     },
     {

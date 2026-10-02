@@ -19,6 +19,20 @@ test("a rending cut passes through any ward", () => {
   })
 })
 
+test("a rend laid through a neck or heart deals twice its harm", () => {
+  expect(
+    settled({ force: "rending", landed: "success", ward: 2, health: 27, vital: true }, FOUR)
+  ).toEqual({
+    answered: { harm: 32, left: 0, down: true, beaten: false },
+  })
+})
+
+test("a blade through a neck deals no more than any blow", () => {
+  expect(
+    settled({ force: "solid", landed: "success", health: 20, vital: true }, FOUR)
+  ).toHaveProperty("answered.harm", 6)
+})
+
 test("a strong blow deals three more", () => {
   expect(settled({ force: "light", landed: "strong", health: 10 }, FOUR)).toHaveProperty(
     "answered.harm",
