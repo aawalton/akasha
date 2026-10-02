@@ -55,7 +55,7 @@ export const overwhereIGrowth = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Its levels and stats raise most health, mana and stamina as the harm and action checks work them.",
+        "A level or stat it gives raises most health, mana and stamina, as the action check says.",
     },
     {
       decisionKind: "decision-kind/departure",

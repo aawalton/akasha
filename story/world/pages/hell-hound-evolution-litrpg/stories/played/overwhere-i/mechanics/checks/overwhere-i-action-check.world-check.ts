@@ -187,7 +187,24 @@ export const overwhereIActionCheck = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Nala's most health is thirty-five, and five more for each level she has.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Most mana is four for each point of Attunement.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Most stamina is three for each point of Vigor, and three more.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A rise in most health, mana or stamina adds the same amount at once to what is left.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing else a level gives fills health, mana or stamina.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -196,14 +213,6 @@ export const overwhereIActionCheck = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A skill with too little mana left for it cannot be used.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Most stamina is three for each point of Vigor, and three more.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A rise in most health, mana or stamina fills the new share at once.",
     },
     {
       decisionKind: "decision-kind/departure",

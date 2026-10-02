@@ -113,7 +113,7 @@ export const overwhereIHarm = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Nala's most health is forty at level one, and rises by five each level.",
+      statement: "Nala's most health, and what a rise in it adds, is as the action check states.",
     },
     {
       decisionKind: "decision-kind/departure",
