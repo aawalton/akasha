@@ -19,7 +19,7 @@ export const overwhereI00072 = {
     "character-other/overwhere-i-quarry-crewman-four",
     "character-other/overwhere-i-quarry-crewman-five",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "Now that they’ve helpfully put themselves in an enclosed area, I attune Fire and Earth and start superheating the surface stone of the quarry until it starts exploding or melting into lava, slowly working my way closer.",
   beats: [
@@ -45,6 +45,11 @@ export const overwhereI00072 = {
     "place/overwhere-i-greyback-and-east-road",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-03T15:05:00.000Z",
 } as const satisfies StoryTurnPlayed
