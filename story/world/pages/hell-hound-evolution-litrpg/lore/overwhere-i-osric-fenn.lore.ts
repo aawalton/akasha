@@ -147,6 +147,10 @@ export const overwhereIOsricFenn = {
       fact: "Osric wants a guard because Harl Voss's men have robbed carts on the east road this summer.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Hearing her ask, Osric steps up at once with his offer of passage as his cart's guard.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
