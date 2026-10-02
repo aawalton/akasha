@@ -98,5 +98,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "To parley, Voss steps into a gallery mouth, shield up, about 60 yards from Nala's cover.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Even from the open lip the gallery mouth is 40 yards off, past a held working's 30-yard reach.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
