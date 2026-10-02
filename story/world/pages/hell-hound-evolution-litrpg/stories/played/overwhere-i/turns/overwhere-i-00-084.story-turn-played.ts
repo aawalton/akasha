@@ -14,7 +14,7 @@ export const overwhereI00084 = {
     "character-other/overwhere-i-harl-voss",
     "character-other/overwhere-i-quarry-crewman-three",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I finish burning the blademan, then start carefully trailing Voss, letting my mana recover",
   beats: [
@@ -29,12 +29,13 @@ export const overwhereI00084 = {
     "In its shadow Harl Voss sits with the sack at his side, his sword drawn, watching the trail.",
     "Hidden in the pines, she watches him as the dusk deepens, his eyes on the trail she walked.",
   ],
+  issues: ['"From your cover in the pines you watch him. The dusk deepens" - Leave It Open'],
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
     "lore/overwhere-i-the-deserter-crew-2",
     "lore/overwhere-i-the-deserter-crew-2-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-03T19:00:00.000Z",
 } as const satisfies StoryTurnPlayed
