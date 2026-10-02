@@ -33,6 +33,10 @@ export const turnCrossed = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A line a later line replaces crosses nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Only the game master is told, and not at player, since that notice goes once a next turn is made.",
     },

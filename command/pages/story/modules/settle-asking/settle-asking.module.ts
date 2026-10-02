@@ -33,5 +33,14 @@ export const settleAsking = {
       decisionKind: "decision-kind/departure",
       statement: "A page stating no such number gains what is added as that key.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A later line of a check rolling nothing replaces its earlier line for the same `character`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A line another replaces counts for nothing to any reader of the outcomes.",
+    },
   ],
 } as const satisfies Module

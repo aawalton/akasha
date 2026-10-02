@@ -55,6 +55,15 @@ test("a number climbing in an entry naming no kind, or a check holding still, cr
   expect(crossingsIn(outcomes)).toEqual([])
 })
 
+test("a line a later line of its check and character replaces crosses nothing", () => {
+  const reading = { character: "character-player/mara", rank: 2 }
+  const outcomes = [
+    lineOf("overwhere-iii-growth", reading, { rank: 3 }),
+    lineOf("overwhere-iii-growth", reading, { rank: 2 }),
+  ].join("\n")
+  expect(crossingsIn(outcomes)).toEqual([])
+})
+
 test("the game master is told nothing where the turn before crossed nothing", () => {
   expect(crossedSaid(null)).toBe("")
   expect(crossedSaid({ turn: "the-saga-00-002", crossings: [] })).toBe("")

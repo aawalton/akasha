@@ -1,123 +1,32 @@
 import { afterAll, expect, test } from "bun:test"
 import { createHash } from "node:crypto"
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { settledBefore } from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
 import {
   outcomesAt,
-  type Reach,
   type Roll,
   storySettle,
   type Turn,
   taken,
 } from "akasha/command/pages/story/settle/story-settle.command.code.ts"
+import {
+  type Appended,
+  answeredBy,
+  argvFor,
+  CALLED,
+  FIRST,
+  GIVEN,
+  HER_AT,
+  LATEST,
+  ROOT,
+  reachOver,
+  rollIn,
+  settledBy,
+} from "akasha/command/pages/story/settle/story-settle.command.test-fixtures.ts"
 import { facesFrom } from "akasha/story/world/mechanics/modules/dice-rolling/dice-rolling.module.code.ts"
 
-const CALLED = "akasha story settle"
-
-const ROOT = mkdtempSync(join("/var/tmp", "story-settle-test-"))
-
 afterAll(() => rmSync(ROOT, { recursive: true, force: true }))
-
-const FIRST: Turn = {
-  at: "turns/the-saga-00-001.story-turn-played.ts",
-  slug: "the-saga-00-001",
-  position: 1,
-}
-
-const LATEST: Turn = {
-  at: "turns/the-saga-00-002.story-turn-played.ts",
-  slug: "the-saga-00-002",
-  position: 2,
-}
-
-const ANSWERING =
-  "export function settled(reading, roll) {\n  return { answered: { total: roll.total, asked: reading.asked } }\n}\n"
-
-const REFUSING =
-  'export function settled() {\n  return { refused: "this check reads no such thing" }\n}\n'
-
-const DICELESS =
-  "export function settled(reading, roll) {\n  return { answered: { rolled: roll !== null, asked: reading.asked } }\n}\n"
-
-mkdirSync(join(ROOT, "turns"), { recursive: true })
-mkdirSync(join(ROOT, "checks"), { recursive: true })
-writeFileSync(join(ROOT, "checks", "answering.code.ts"), ANSWERING)
-writeFileSync(join(ROOT, "checks", "refusing.code.ts"), REFUSING)
-writeFileSync(join(ROOT, "checks", "diceless.code.ts"), DICELESS)
-writeFileSync(
-  join(ROOT, "checks", "timed.code.ts"),
-  'export function settled() {\n  return { answered: { endsAt: "2026-09-28T11:27:00.000Z" } }\n}\n'
-)
-
-writeFileSync(
-  join(ROOT, "checks", "scoring.code.ts"),
-  'export function settled() {\n  return { answered: { change: 3 } }\n}\nexport function added(reading, answered) {\n  return [{ page: `world-relationship/${reading.character}`, key: "relationshipPoints", by: answered.change }]\n}\n'
-)
-
-const HER_AT = "pages/her.world-relationship.ts"
-
-function reachOver(turns: readonly Turn[], unmade = 0): Reach {
-  return {
-    turnsOf: (_root, story) => (story === "the-saga" ? turns : []),
-    settlingAt: (_root, check) => (check === "nothing" ? null : `checks/${check}.code.ts`),
-    pageAt: (_root, page) => (page === "world-relationship/her" ? HER_AT : null),
-    keptPageAt: (_root, _agentId, page) => (page === "world-relationship/kept" ? KEPT_AT : null),
-    unmadeOf: () => unmade,
-  }
-}
-
-const KEPT_AT = "pages/kept.world-relationship.ts"
-
-const GIVEN: Given = { root: ROOT, calledAs: CALLED, from: "", writer: null, agentId: null }
-
-const APPLIED = {
-  base: "",
-  landed: [],
-  formatted: [],
-  said: [],
-  wrong: [],
-  commit: "a-commit",
-}
-
-function argvFor(check: string): readonly string[] {
-  return [
-    "--story",
-    "the-saga",
-    "--check",
-    check,
-    "--reading",
-    '{"asked":"a leap"}',
-    "--dice",
-    "2d10",
-  ]
-}
-
-type Appended = { readonly at: string; readonly content: string }
-
-async function settledBy(
-  check: string,
-  reach: Reach,
-  argv: readonly string[] = argvFor(check)
-): Promise<readonly Appended[]> {
-  const asked: Asking[] = []
-  await storySettle(
-    argv,
-    GIVEN,
-    async (_root, held) => {
-      asked.push(...held)
-      return APPLIED
-    },
-    reach
-  )
-  return asked.map((one) => one.given as Appended)
-}
-
-function rollIn(appended: Appended): Roll {
-  return JSON.parse(appended.content) as Roll
-}
 
 test("a call names the story, the check, what the check reads and the dice", () => {
   expect(taken(argvFor("answering"), CALLED)).toEqual({
@@ -338,6 +247,57 @@ test("a roll with dice is never refused as settled before", () => {
     answered: {},
   }
   const kept = `${JSON.stringify({ check: "world-check/answering", reading: {} })}\n`
-  expect(settledBefore(kept, roll)).toBe(false)
-  expect(settledBefore(kept, { check: roll.check, reading: {} })).toBe(true)
+  expect(settledBefore(kept, roll)).toBeNull()
+  expect(settledBefore(kept, { check: roll.check, reading: {} })?.place).toBe(0)
+})
+
+const WRONG = JSON.stringify({
+  check: "world-check/timed",
+  reading: {},
+  answered: { endsAt: "2026-09-28T11:15:00.000Z" },
+})
+
+test("a check that rolls nothing settles again only at game-master, appending a line replacing the earlier", async () => {
+  const at = outcomesAt(LATEST.at) ?? "no outcomes"
+  writeFileSync(join(ROOT, at), `${WRONG}\n`)
+  writeFileSync(join(ROOT, LATEST.at), `  endsAt: "2026-09-28T11:15:00.000Z",\n`)
+  const argv = argvFor("timed").slice(0, 6)
+  const later = await answeredBy(argv, reachOver([LATEST]))
+  const corrected = await answeredBy(argv, reachOver([LATEST], 0, "game-master"))
+  rmSync(join(ROOT, at))
+  rmSync(join(ROOT, LATEST.at))
+  expect(later.answer.refusals.join("\n")).toContain("again only at game-master")
+  expect(later.appended).toEqual([])
+  expect(corrected.answer.report).toContain("replaced\tline 1")
+  expect(corrected.appended.filter((one) => one.at === at)).toHaveLength(1)
+  const ends = "2026-09-28T11:27:00.000Z"
+  expect(rollIn(corrected.appended[0] as Appended).answered).toEqual({ endsAt: ends })
+  expect(corrected.appended[1] as unknown).toEqual({ at: LATEST.at, key: "endsAt", to: ends })
+})
+
+test("a line replacing another takes back what the earlier line added", async () => {
+  const at = outcomesAt(LATEST.at) ?? "no outcomes"
+  const was = {
+    check: "world-check/scoring",
+    reading: { character: "her" },
+    answered: { change: 1 },
+  }
+  writeFileSync(join(ROOT, at), `${JSON.stringify(was)}\n`)
+  mkdirSync(join(ROOT, "pages"), { recursive: true })
+  writeFileSync(join(ROOT, HER_AT), "  relationshipPoints: 4,\n")
+  const { appended } = await answeredBy(scoringArgv("her"), reachOver([LATEST], 0, "game-master"))
+  rmSync(join(ROOT, at))
+  rmSync(join(ROOT, HER_AT))
+  const summed = { at: HER_AT, key: "relationshipPoints", to: "6", holds: "number" }
+  expect(appended[1] as unknown).toEqual(summed)
+})
+
+test("a roll after a replacing line is chained from that line and its place", async () => {
+  const at = outcomesAt(LATEST.at) ?? "no outcomes"
+  const replacing = WRONG.replace("11:15", "11:27")
+  writeFileSync(join(ROOT, at), `${WRONG}\n${replacing}\n`)
+  const roll = rollIn((await settledBy("answering", reachOver([LATEST])))[0] as Appended)
+  rmSync(join(ROOT, at))
+  const hashed = createHash("sha256").update(`${replacing}\n${LATEST.slug}\n2`)
+  expect(roll.seed).toBe(hashed.digest("hex"))
 })

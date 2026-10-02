@@ -213,10 +213,10 @@ test("a turn that is not the latest of its story lands nothing", async () => {
   expect(into.notices).toEqual([])
 })
 
-test("a rewind of a scored turn takes back what its landed outcomes added, in the same landing", async () => {
+test("a rewind of a scored turn takes back what its landed outcomes added, a line replaced taking back nothing", async () => {
   const into = seen()
   const turn = turnAt({ action: "I open the gate" })
-  const reach = scoredOver(turn, into, [scoredLine(3), scoredLine(-1)])
+  const reach = scoredOver(turn, into, [scoredLine(5), scoredLine(2)])
   const answer = await rewoundBy([], reach, into)
   expect(answer.refusals).toEqual([])
   expect(into.folded).toHaveLength(2)

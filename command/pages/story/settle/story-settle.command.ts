@@ -7,6 +7,7 @@ export const storySettle = {
   definition: "the command settling a declared action of a played story by a check",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   parts: ["module/settle-seeding"],
   decisions: [
     {
@@ -79,7 +80,24 @@ export const storySettle = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A second such settling is refused and appends nothing.",
+      statement: "A second such settling is refused and appends nothing, unless at game-master.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A second such settling on a turn at game-master appends a line replacing the line before.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A line replacing another takes back what the line it replaces added.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A settling replacing a line is told which line it replaces.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A roll after a replacing line is chained from that line, as from any line.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -21,6 +21,11 @@ export const outcomes = {
       decisionKind: "decision-kind/departure",
       statement: "An outcome is kept on the turn the outcome settled.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A later line of a check rolling nothing replaces its earlier line for the same `character`.",
+    },
   ],
   types: "ts",
 } as const satisfies FileProperty

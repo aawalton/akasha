@@ -3,6 +3,7 @@ import { bodyIn, foldedIn } from "akasha/change/modules/edits-keeping/edits-keep
 import { addedTo, ledgerAt } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {
   askedFor,
+  countedLines,
   pageIn,
   summedFor,
 } from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
@@ -87,4 +88,16 @@ test("a page only in kept edits is found, and its number read, as those edits le
 
 test("nothing added asks nothing", () => {
   expect(summedFor([{ at: HERS, key: POINTS, by: 0 }], () => "")).toEqual([])
+})
+
+function lineOf(answered: number, more: Record<string, unknown> = {}): string {
+  const reading = { character: "her" }
+  return JSON.stringify({ check: "world-check/timed", reading, answered, ...more })
+}
+
+test("a later line of a check rolling nothing replaces its earlier line, and a roll replaces none", () => {
+  const rolled = lineOf(9, { dice: { said: "1d6" } })
+  const other = JSON.stringify({ check: "world-check/timed", reading: { character: "him" } })
+  const kept = [lineOf(1), rolled, other, lineOf(2), rolled, ""].join("\n")
+  expect(countedLines(kept)).toEqual([rolled, other, lineOf(2), rolled])
 })

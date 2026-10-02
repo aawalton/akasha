@@ -52,6 +52,10 @@ export const storyTurnRewind = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A line a later line replaces has nothing left to take back.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "An outcome only drafted is discarded with the recorders' edits and takes nothing back.",
     },

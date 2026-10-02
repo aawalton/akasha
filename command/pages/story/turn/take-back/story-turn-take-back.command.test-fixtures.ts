@@ -237,5 +237,6 @@ export function reachOver(turn: Turn, into: Seen, story: Story = {}): TakingBack
 }
 
 export function scoredLine(page: string): string {
-  return JSON.stringify({ check: "world-check/the-saga-scoring", reading: { page }, answered: {} })
+  const reading = { page, character: page }
+  return JSON.stringify({ check: "world-check/the-saga-scoring", reading, answered: {} })
 }

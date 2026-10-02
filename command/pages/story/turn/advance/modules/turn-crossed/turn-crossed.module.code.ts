@@ -1,6 +1,7 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
+import { countedLines } from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
 import {
   outcomesAt,
   turnsIndexed,
@@ -27,8 +28,6 @@ const FROM = "from"
 const TO = "to"
 
 const POSITION = "position"
-
-const LINES = /\r?\n/
 
 const UTF8 = "utf8"
 
@@ -87,10 +86,7 @@ function lineCrossed(line: string): readonly string[] {
 }
 
 export function crossingsIn(outcomes: string): readonly string[] {
-  return outcomes
-    .split(LINES)
-    .filter((one) => one.trim() !== "")
-    .flatMap(lineCrossed)
+  return countedLines(outcomes).flatMap(lineCrossed)
 }
 
 export function crossedSaid(crossed: Crossed | null): string {

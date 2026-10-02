@@ -416,7 +416,7 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/story/character-file/story-character-file.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/story/join-unread/story-join-unread.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/story/settle/story-settle.command.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/story/settle/story-settle.command.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/story/tell/story-tell.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/story/turn/advance/story-turn-advance.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/story/turn/advance/story-turn-advance.command.test-fixtures.ts","typed":true,"deferred":false}

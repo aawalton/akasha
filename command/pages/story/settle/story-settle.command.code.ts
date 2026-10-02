@@ -40,6 +40,7 @@ import {
   settledBefore,
   summedFor,
   sumsOf,
+  takenBackOf,
 } from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
 import {
   lineBefore,
@@ -52,6 +53,7 @@ import { storySettle as page } from "akasha/command/pages/story/settle/story-set
 import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import {
   listedAt,
+  valueByPath,
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
@@ -62,6 +64,11 @@ import type { Rolled } from "akasha/story/world/mechanics/modules/dice-reading/d
 import type { Dice } from "akasha/story/world/mechanics/modules/dice-rolling/dice-rolling.module.code.ts"
 import { thrownFrom } from "akasha/story/world/mechanics/modules/dice-throwing/dice-throwing.module.code.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
+import {
+  GAME_MASTER,
+  stepIn,
+  type TurnStep,
+} from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { outcomes } from "akasha/story/world/stories/played/turns/properties/outcomes.file-property.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 import { z } from "zod"
@@ -85,6 +92,7 @@ const POSITION = "position"
 const SLUG = "slug"
 const PARTED = "/"
 const CHARACTER = "character"
+const STEP_STATUS = "stepStatus"
 
 const READING_SAID = z.record(z.string(), z.unknown())
 
@@ -107,6 +115,7 @@ export type Reach = {
   readonly pageAt: (root: string, page: string) => string | null
   readonly keptPageAt: (root: string, agentId: string | null, page: string) => string | null
   readonly unmadeOf: (root: string, turn: string) => number
+  readonly stepOf: (root: string, turn: string) => TurnStep | null
 }
 
 export type Roll = {
@@ -182,6 +191,7 @@ const INDEXED: Reach = {
   pageAt: pathOf,
   keptPageAt: keptPageOf,
   unmadeOf: (root, turn) => unmadeLogged(root, [turn, outcomesAt(turn) ?? turn]),
+  stepOf: (root, turn) => stepIn(valueByPath(root, turn)?.[STEP_STATUS]),
 }
 
 export function outcomesAt(turn: string): string | null {
@@ -200,8 +210,10 @@ function castFor(read: Reading, placed: Placed, dice: string | null): Held<Cast 
   return { answered: { ...thrown.answered, seed } }
 }
 
-function rowsOf({ roll, sums }: Made, turn: string, commit: string | null): readonly string[] {
+function rowsOf(made: Made, turn: string, commit: string | null): readonly string[] {
+  const { roll, sums, replaced } = made
   const rows = [`check${TAB}${roll.check}`, `turn${TAB}${turn}`]
+  if (replaced !== null) rows.push(`replaced${TAB}line ${replaced + 1}`)
   if (roll.dice !== undefined) {
     rows.push(`dice${TAB}${roll.dice.said}${TAB}${roll.dice.faces.join(" ")}`)
   }
@@ -228,9 +240,14 @@ type Placed = {
   readonly at: string
   readonly code: string
   readonly unmade: number
+  readonly step: TurnStep | null
 }
 
-type Made = { readonly roll: Roll; readonly sums: readonly Summed[] }
+type Made = {
+  readonly roll: Roll
+  readonly sums: readonly Summed[]
+  readonly replaced: number | null
+}
 
 function placedFor(root: string, held: Taken, reach: Reach): Placed | Refusing {
   const turns = reach.turnsOf(root, held.story)
@@ -252,7 +269,7 @@ function placedFor(root: string, held: Taken, reach: Reach): Placed | Refusing {
     return { refused: `\`${on.at}\` is no page file, so no outcomes sit beside it`, by: DATA }
   }
   const unmade = held.dice === null ? 0 : reach.unmadeOf(root, on.at)
-  return { turns, on, at, code, unmade }
+  return { turns, on, at, code, unmade, step: reach.stepOf(root, on.at) }
 }
 
 async function rollMade(
@@ -273,12 +290,15 @@ async function rollMade(
     ...(thrown === null ? {} : { dice: thrown.dice, seed: thrown.seed }),
     answered: said.answered.answered,
   }
-  if (settledBefore(keptAt(placed.at), roll)) {
-    const why = `\`${held.check}\` is settled on \`${placed.on.slug}\` already for this reading's \`${CHARACTER}\`, and a check that rolls nothing settles there once`
+  const before = settledBefore(keptAt(placed.at), roll)
+  if (before !== null && placed.step !== GAME_MASTER) {
+    const why = `\`${held.check}\` is settled on \`${placed.on.slug}\` already for this reading's \`${CHARACTER}\`, and a check that rolls nothing settles there again only at ${GAME_MASTER}, replacing that line`
     return { refused: why, by: DATA }
   }
-  const sums = sumsOf(said.answered.added, pageAt)
-  return "refused" in sums ? { ...sums, by: DATA } : { roll, sums }
+  const back = before === null ? [] : await takenBackOf(join(root, placed.code), before.was)
+  const sums = sumsOf([...said.answered.added, ...back], pageAt)
+  if ("refused" in sums) return { ...sums, by: DATA }
+  return { roll, sums, replaced: before?.place ?? null }
 }
 
 function onDisk(root: string): (path: string) => string | null {

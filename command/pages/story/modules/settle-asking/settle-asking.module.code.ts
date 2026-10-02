@@ -36,6 +36,8 @@ const CHECK = "check"
 
 const READING = "reading"
 
+const ANSWERED = "answered"
+
 const DICE = "dice"
 
 const NUMBER = "number"
@@ -113,18 +115,51 @@ type Made = {
   readonly dice?: unknown
 }
 
-export function settledBefore(kept: string | null, roll: Made): boolean {
-  if (kept === null || roll.dice !== undefined) return false
-  const whose = roll.reading[CHARACTER]
-  return kept
-    .split(BREAK)
-    .filter((one) => one.trim() !== "")
-    .some((one) => {
-      const was: unknown = JSON.parse(one)
-      if (!isRecord(was) || was[CHECK] !== roll.check || was[DICE] !== undefined) return false
-      const read = was[READING]
-      return isRecord(read) && read[CHARACTER] === whose
-    })
+type SettledLine = {
+  readonly place: number
+  readonly was: Readonly<Record<string, unknown>>
+}
+
+function replacingKey(was: unknown): string | null {
+  if (!isRecord(was) || typeof was[CHECK] !== "string" || was[DICE] !== undefined) return null
+  const read = was[READING]
+  if (!isRecord(read)) return null
+  return JSON.stringify([was[CHECK], read[CHARACTER] ?? null])
+}
+
+function outcomeLines(kept: string): readonly string[] {
+  return kept.split(BREAK).filter((one) => one.trim() !== "")
+}
+
+export function settledBefore(kept: string | null, roll: Made): SettledLine | null {
+  if (kept === null || roll.dice !== undefined) return null
+  const key = replacingKey(roll)
+  const lines = outcomeLines(kept)
+  for (let place = lines.length - 1; place >= 0; place -= 1) {
+    const was: unknown = JSON.parse(lines[place] ?? "")
+    if (isRecord(was) && replacingKey(was) === key) return { place, was }
+  }
+  return null
+}
+
+export function countedLines(kept: string): readonly string[] {
+  const replaced = new Set<string>()
+  const counted: string[] = []
+  for (const line of outcomeLines(kept).toReversed()) {
+    const key = replacingKey(JSON.parse(line))
+    if (key !== null && replaced.has(key)) continue
+    if (key !== null) replaced.add(key)
+    counted.push(line)
+  }
+  return counted.toReversed()
+}
+
+export async function takenBackOf(
+  path: string,
+  was: Readonly<Record<string, unknown>>
+): Promise<readonly Added[]> {
+  const adding = await addingAt(path)
+  return adding(was[READING], was[ANSWERED]).map((one) => ({ ...one, by: -one.by }))
 }
 
 type Unfound = { readonly refused: string; readonly unfound: string }

@@ -22,7 +22,10 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { heldAt } from "akasha/command/modules/filling/command-filling.module.code.ts"
-import type { Added } from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
+import {
+  type Added,
+  countedLines,
+} from "akasha/command/pages/story/modules/settle-asking/settle-asking.module.code.ts"
 import { outcomesAt } from "akasha/command/pages/story/settle/story-settle.command.code.ts"
 import { heldOf } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.code.ts"
 import {
@@ -70,8 +73,6 @@ const PROSE = "prose"
 const PROSE_HELD = "txt"
 
 const TRAILING_LINES = /(?:\r?\n)+$/
-
-const BREAK = "\n"
 
 const CHECK = "check"
 
@@ -148,8 +149,7 @@ async function addedIn(
   at: string
 ): Promise<readonly Added[] | { readonly refused: string }> {
   const added: Added[] = []
-  for (const line of reach.textIn(root, at).split(BREAK)) {
-    if (line.trim() === "") continue
+  for (const line of countedLines(reach.textIn(root, at))) {
     const roll: unknown = JSON.parse(line)
     const check = isRecord(roll) ? roll[CHECK] : null
     if (!isRecord(roll) || typeof check !== "string") {
