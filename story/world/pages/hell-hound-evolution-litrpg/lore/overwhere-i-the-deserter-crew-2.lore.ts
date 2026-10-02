@@ -138,5 +138,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "After that the crossbowmen show at gallery mouths only a heartbeat to loose; a slug at one is hard.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A face or armour gap is a band harder to hit than a head.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
