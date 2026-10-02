@@ -38,7 +38,7 @@ export const overwhereIii0003FiveClean = {
     },
     {
       position: 39,
-      cover: "image/image-f03c3202d7e011c6",
+      cover: "image/image-8d1e891e51a3c3ee",
       coverAfter: 'Marda snorts. "Books are dear up here." She reaches behind the desk',
     },
     {
