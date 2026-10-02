@@ -160,5 +160,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "A water blade through a still body's neck is easy.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A beam can be loosed from her eyes, aimed where she looks; untried, that is a band harder.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
