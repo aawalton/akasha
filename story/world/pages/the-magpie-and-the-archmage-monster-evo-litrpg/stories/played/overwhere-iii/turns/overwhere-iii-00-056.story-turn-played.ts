@@ -14,7 +14,7 @@ export const overwhereIii00056 = {
     "character-other/overwhere-iii-brannagh-tull",
     "character-other/overwhere-iii-marda-hesk",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I sleep, then in the morning I check in at Brannagh’s first thing, heal anyone waiting, then work on the blightstone again, this time, I try to focus the weave into a loop, so it doesn’t snap back into my arm.",
   beats: [
