@@ -14,7 +14,7 @@ export const overwhereIii00066 = {
     "character-other/overwhere-iii-marda-hesk",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“Thanks Marda” I go out to the shrine to recover, then check for patients again",
   beats: [
     '"Thanks, Marda." Marda grunts and goes back to her ledger.',
@@ -39,6 +39,6 @@ export const overwhereIii00066 = {
     "lore/overwhere-iii-nala-2-2",
     "place/overwhere-iii-wrenwood-crossroads",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-06T14:50:00.000Z",
 } as const satisfies StoryTurnPlayed
