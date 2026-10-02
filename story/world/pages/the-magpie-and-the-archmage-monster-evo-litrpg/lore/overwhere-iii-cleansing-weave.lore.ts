@@ -88,5 +88,9 @@ export const overwhereIiiCleansingWeave = {
       fact: "A beast pulled clean lives, a plain beast again and dazed; its blight clots into a small blightstone",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A corrupted beast killed mid-cleansing leaves a blightstone of only the blight not yet drawn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
