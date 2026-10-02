@@ -18,7 +18,7 @@ export const overwhereIiGreyShaw = {
     },
     {
       fact: "The ruined tollhouse sits at the wood's near edge, roofless at one end, by an old toll bar.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Crake's stash lies under the tollhouse hearthstone: bottled Water, a coin box, and his ledger.",
