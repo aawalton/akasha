@@ -24,5 +24,13 @@ export const overwhereIiiOswinFairley = {
       fact: "Oswin carries a hay fork when he walks his hedges, and has never fought anything bigger than a rat.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-oswin-fairley"],
     },
+    {
+      fact: "Seeing the fox die a stride short of him, Oswin said only, 'Gods.'",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-oswin-fairley",
+      ],
+    },
   ],
 } as const satisfies Lore
