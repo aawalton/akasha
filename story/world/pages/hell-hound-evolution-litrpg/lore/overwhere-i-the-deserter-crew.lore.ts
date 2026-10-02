@@ -155,6 +155,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Her first slug takes them off guard: a guided shot at a still head within 12 yards is easy.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Once they move, a guided slug at a man's head within 12 yards is moderate.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
