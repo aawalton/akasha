@@ -78,7 +78,7 @@ export const overwhereIiAshlinFarm = {
     },
     {
       fact: "Carrying the stash uphill at Pip's pace, Nala and Dray reach Ashlin a little past two at night.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Place
