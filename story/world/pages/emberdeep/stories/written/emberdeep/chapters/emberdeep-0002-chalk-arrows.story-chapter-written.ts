@@ -100,6 +100,9 @@ export const emberdeep0002ChalkArrows = {
     "She falls asleep tired all through, in a good way she does not remember from being Alan.",
     "A day in Emberdeep ends.",
   ],
+  issues: [
+    '"falling asleep, that waking up still here might be the worst" - ch1: slept on the Deep, not home',
+  ],
   lore: [
     "lore/emberdeep-elowen",
     "lore/emberdeep-nala",
@@ -113,4 +116,5 @@ export const emberdeep0002ChalkArrows = {
     "character-other/emberdeep-wren",
     "character-other/emberdeep-elowen",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
