@@ -4,13 +4,13 @@ export const overwhereIv00078 = {
   id: "01a0feff-fe5e-7a68-a473-214cb420bc83",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-078",
-  ownLength: 115,
+  ownLength: 113,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 78,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "I turn and use my momentum to slash across its neck with the spear, then get up and run again, weaving a bit to dodge the slings.",
   beats: [
