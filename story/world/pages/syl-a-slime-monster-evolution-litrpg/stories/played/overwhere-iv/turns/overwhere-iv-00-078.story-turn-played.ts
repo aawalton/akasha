@@ -7,9 +7,18 @@ export const overwhereIv00078 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 78,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I turn and use my momentum to slash across its neck with the spear, then get up and run again, weaving a bit to dodge the slings.",
+  beats: [
+    "Nala twists onto her side and swings the spear across, low, for the goblin's neck.",
+    "Her back seizes as she turns. The blade goes wide, a hand short, and slices only air.",
+    "The goblin's spear comes down. She jerks aside, and the point tears a shallow gash in her side.",
+    "She rolls, gets a knee under her, and shoves up onto her feet, spear crosswise.",
+    "The spear goblin wrenches its point free of the dirt and squares up to her.",
+    "Up the trail behind it, the two knives come on at a run, and a sling whirrs.",
+    "Too late to run. The club goblin bursts past the spear, panting, and swings wide at her head.",
+  ],
   lore: ["lore/overwhere-iv-the-tangle-2"],
   endsAt: "2026-10-06T21:22:00.000Z",
 } as const satisfies StoryTurnPlayed
