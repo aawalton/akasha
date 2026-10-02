@@ -1,1 +1,4 @@
 {"check":"world-check/overwhere-iv-time-passing","reading":{"from":"2026-10-06T18:00:00.000Z","minutes":190},"answered":{"endsAt":"2026-10-06T21:10:00.000Z","day":8,"light":"night"}}
+{"check":"world-check/overwhere-iv-needs","reading":{"hoursSinceMeal":12.67,"hoursSinceDrink":12.67,"hoursAwake":8.17,"cold":false,"sheltered":false},"answered":{"hunger":"hungry","thirst":"parched","fatigue":"rested","chilled":false,"penalty":2}}
+{"check":"world-check/overwhere-iv-standing","reading":{"character":"Dace","kept":0,"heard":0,"shared":1,"helped":0,"crossed":0,"quotes":{"shared":"\"Great! I'm hunting the Tangle tonight.\""}},"answered":{"earned":1,"lost":0,"change":1}}
+{"check":"world-check/overwhere-iv-growth","reading":{"character":"nala","gains":[{"kind":"skill","skill":"Spatial Sense","level":4,"uses":1}]},"answered":{"grown":[{"kind":"skill","skill":"Spatial Sense","from":4,"to":4,"usesCarried":1,"maxed":false}]}}

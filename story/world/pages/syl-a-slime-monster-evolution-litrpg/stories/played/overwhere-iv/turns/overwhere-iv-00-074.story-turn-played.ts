@@ -36,9 +36,10 @@ export const overwhereIv00074 = {
     "lore/overwhere-iv-nala",
     "lore/overwhere-iv-nala-2",
     "lore/overwhere-iv-nala-3",
+    "lore/overwhere-iv-the-tangle-2",
     "place/overwhere-iv-the-tangle",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-10-06T21:10:00.000Z",
 } as const satisfies StoryTurnPlayed
