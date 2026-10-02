@@ -67,5 +67,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Crow wears a leather jack and hood that ward 1; a beam burns through it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Crossbowman Five's helm wards 2; a beam burns through it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
