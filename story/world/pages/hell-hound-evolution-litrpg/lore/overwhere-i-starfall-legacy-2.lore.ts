@@ -200,5 +200,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Keeping the cart lift gentle is moderate, as with the push.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Fire on a wound sears it shut with pain; air, water or earth alone do nothing for it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
