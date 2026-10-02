@@ -118,7 +118,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 22,
-      cover: "image/image-e914fffd448ff13f",
+      cover: "image/image-d687398a168a43c4",
       coverAfter: "It rears over you and lunges at your face. You jerk your",
     },
     {
