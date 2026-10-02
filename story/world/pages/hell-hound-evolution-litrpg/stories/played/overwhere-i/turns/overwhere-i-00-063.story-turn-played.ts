@@ -4,10 +4,13 @@ export const overwhereI00063 = {
   id: "01a0fcf9-465b-7271-95fd-80fb3ed91461",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-063",
+  ownLength: 148,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 63,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
+  stepStatus: "step-status/reviewers",
   action: "I fire some bullets at the turtle heads until they die.",
   beats: [
     "From the marsh across the channel, the snappers on Ghost-Eye's body are about 35 yards off.",
@@ -23,6 +26,8 @@ export const overwhereI00063 = {
   ],
   lore: [
     "lore/overwhere-i-greyfen-beasts-2",
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
     "lore/overwhere-i-rowan-coalby",
     "lore/overwhere-i-the-greyfen-alpha-2",
     "lore/overwhere-i-the-greyfen-alpha-2-2",
