@@ -56,5 +56,13 @@ export const overwhereIiiNala22 = {
       fact: "Her shop's skills: Spark 3, Mana Bolt 5, Appraise 5, Gust 6, Minor Ward 8, Mend 10, Purify 15.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "After feeding weaves from raw current at the shrine, Nala's palms are pink and raw.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "At the shrine Nala fed eight seed stones from current; the seventh slipped and stayed dark.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
