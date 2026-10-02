@@ -174,5 +174,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Voss, by the hut door, packs a sack, glancing often at the track.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The camp heard Five's scream from the bend; no one comes down the track to look.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
