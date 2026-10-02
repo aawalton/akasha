@@ -4,6 +4,7 @@ export const overwhereIii00064 = {
   id: "01a0fdeb-f359-7f97-ae93-5c06bc3253e7",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-064",
+  cover: "image/image-49c7dbe2b83689cc",
   ownLength: 159,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -41,6 +42,7 @@ export const overwhereIii00064 = {
     "place/overwhere-iii-fairley-farm",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-06T08:40:00.000Z",
+  coverAfter: "You twist a Current Lash and a Cleansing Weave into one braid",
 } as const satisfies StoryTurnPlayed
