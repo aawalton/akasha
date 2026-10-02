@@ -7,7 +7,15 @@ export const overwhereI00071 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 71,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I get down on the ground to be less of a target and spin up bullets to max speed, pointed and rifled and spinning like a drill to pierce through armor or shields, then start picking off Voss’s men, starting with the crossbows.",
+  lore: [
+    "lore/overwhere-i-osric-fenn",
+    "lore/overwhere-i-starfall-legacy",
+    "lore/overwhere-i-starfall-legacy-2",
+    "lore/overwhere-i-the-deserter-crew",
+    "lore/overwhere-i-the-deserter-crew-2",
+    "place/overwhere-i-greyback-and-east-road",
+  ],
 } as const satisfies StoryTurnPlayed
