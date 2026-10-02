@@ -4,10 +4,16 @@ export const overwhereI00075 = {
   id: "01a0fd88-0594-7500-bf01-b5f55ea54120",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-075",
+  ownLength: 121,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 75,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-i-nala",
+    "character-other/overwhere-i-quarry-crewman-four",
+  ],
+  stepStatus: "step-status/reviewers",
   action: "I use my lens working to find the crossbowman in the trees, then snipe him out",
   beats: [
     "Behind her boulders Nala bends air into a lens and sweeps the treeline, slow and careful.",
@@ -19,6 +25,10 @@ export const overwhereI00075 = {
     "On the pit's north wall the lens finds a goat path climbing to the forest.",
     "Its dust is freshly scuffed.",
   ],
-  lore: ["lore/overwhere-i-the-deserter-crew-2"],
+  lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
+    "lore/overwhere-i-the-deserter-crew-2",
+  ],
   endsAt: "2026-10-03T15:10:00.000Z",
 } as const satisfies StoryTurnPlayed
