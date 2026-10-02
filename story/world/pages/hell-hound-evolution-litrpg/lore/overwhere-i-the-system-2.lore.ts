@@ -21,7 +21,7 @@ export const overwhereITheSystem2 = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Slaying Voss, 16 above her, takes Nala straight to Level 9 and halfway on to 10.",
+      fact: "Slaying Voss, 15 above her, takes Nala straight to Level 10 and halfway on to 11.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
