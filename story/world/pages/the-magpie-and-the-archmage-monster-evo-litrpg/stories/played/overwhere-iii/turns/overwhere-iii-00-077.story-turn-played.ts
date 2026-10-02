@@ -7,8 +7,17 @@ export const overwhereIii00077 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 77,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "I try casting a mending weave on my palms.",
+  beats: [
+    "Nala turns her left palm up and draws a Mending Weave from her own well.",
+    "The thread knits into the pink skin. The tightness eases, and the palm goes smooth and pale.",
+    "She turns up the right palm and weaves again. This one drags, and a dull throb wakes in her temples.",
+    "But it holds. The second palm smooths over like the first. Both hands are whole again.",
+    "Her well is down to a quarter.",
+    "Across the desk, Marda's pen has stopped.",
+    '"Huh," Marda says. "Didn\'t know you could do that on yourself."',
+  ],
   lore: ["lore/overwhere-iii-mending-weave"],
   endsAt: "2026-10-07T16:08:00.000Z",
 } as const satisfies StoryTurnPlayed
