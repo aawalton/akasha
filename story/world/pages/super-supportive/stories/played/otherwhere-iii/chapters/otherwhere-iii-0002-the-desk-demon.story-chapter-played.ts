@@ -23,7 +23,7 @@ export const otherwhereIii0002TheDeskDemon = {
     },
     {
       position: 17,
-      cover: "image/image-7fda10684ebecdd5",
+      cover: "image/image-b8e91770946b1d46",
       coverAfter: "It is not the stillness of someone listening. It is total. The",
     },
     {
