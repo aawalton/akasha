@@ -1,1 +1,2 @@
 {"check":"world-check/overwhere-i-action-check","reading":{"band":"standard","bonuses":[{"from":"Dexterity 26","by":1}]},"dice":{"said":"1d20","sides":20,"faces":[12]},"seed":"6fb028e7047e6328759758ee7517aabf42515a150648ab6f9877101246502190","answered":{"succeeded":true,"outcome":"success","total":13,"target":12,"margin":1}}
+{"check":"world-check/overwhere-i-time-passing","reading":{"from":"2026-10-03T16:19:00.000Z","minutes":45},"answered":{"endsAt":"2026-10-03T17:04:00.000Z","day":5,"light":"day"}}
