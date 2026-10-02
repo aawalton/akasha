@@ -62,7 +62,11 @@ export const hollowmereNala = {
     },
     {
       fact: "Nala's timetable puts her in Thornfield House, room 14, and in first-year tutorial group F.",
-      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
     },
     {
       fact: "Nala's timetable has the Welcome Dinner tonight, and her first classes tomorrow morning.",
@@ -75,6 +79,23 @@ export const hollowmereNala = {
     {
       fact: "A cheap phone in Nala's trunk holds no messages, no photographs and no contacts at all.",
       knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
+    {
+      fact: "Nala warmed a kettle faintly by tracing Bea's kettle sigil, and was left with a small headache.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
+    {
+      fact: "Nala wants Bea, Yusra and Kit, all three at once, and it feels like who she is.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
+    {
+      fact: "Nala tells Bea and Kit she knows nothing about magic, and has never seen any done before.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-kit",
+      ],
     },
   ],
   secrets: "jsonl",

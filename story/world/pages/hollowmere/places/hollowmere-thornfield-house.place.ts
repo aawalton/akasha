@@ -26,7 +26,11 @@ export const hollowmereThornfieldHouse = {
     },
     {
       fact: "Room 14 on Thornfield's top floor is narrow: a bed, a desk, a wardrobe and a window on the mere.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-yusra"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Room 15 is across the corridor from room 14, and room 1 is at the head of the stairs.",
@@ -34,11 +38,17 @@ export const hollowmereThornfieldHouse = {
         "lore-disclosure/game-master",
         "character-other/hollowmere-bea",
         "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
       ],
     },
     {
       fact: "Thornfield's radiators knock all night, and the hot water runs out by eight in the morning.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-yusra"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
     },
   ],
 } as const satisfies Place

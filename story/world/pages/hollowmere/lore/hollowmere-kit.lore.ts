@@ -22,7 +22,12 @@ export const hollowmereKit = {
     },
     {
       fact: "Kit's glossy black hair is cut in a blunt chin-length bob with a straight fringe.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-kit"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
     },
     {
       fact: "Kit has tiny tits with pale pink nipples, and a small dark tuft over her cunt.",
@@ -50,7 +55,12 @@ export const hollowmereKit = {
     },
     {
       fact: "Kit is in first-year tutorial group F, and sits at its end of the table at the Welcome Dinner.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-kit"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
     },
     {
       fact: "Kit has known she wants girls since she was fifteen, and has told no one in her family.",
@@ -59,6 +69,10 @@ export const hollowmereKit = {
     {
       fact: "Kit reads poetry she would deny reading, and is quietly very funny once she trusts someone.",
       knowers: ["lore-disclosure/game-master", "character-other/hollowmere-kit"],
+    },
+    {
+      fact: "Kit is tiny and very pale, with cool grey-green eyes, sharp cheekbones and a silver ring.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
     },
   ],
   secrets: "jsonl",

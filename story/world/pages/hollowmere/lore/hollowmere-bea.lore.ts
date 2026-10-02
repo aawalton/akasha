@@ -10,19 +10,36 @@ export const hollowmereBea = {
   facts: [
     {
       fact: "Beatrix Lindqvist, called Bea, is twenty-one, a first-year, and gorgeous in a sunny, open way.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-bea"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
     },
     {
       fact: "Bea is slim and athletic, a little taller than Nala, with narrow shoulders and a small flat chest.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-bea"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Bea has fair skin flushed rosy across the cheeks, warm brown eyes, light brows and deep dimples.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-bea"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Bea's honey-blonde hair is long and nearly always piled in a messy bun with strands falling loose.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-bea"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Bea has small pert tits with pale pink nipples, and keeps her cunt shaved bare.",
@@ -38,11 +55,16 @@ export const hollowmereBea = {
         "lore-disclosure/game-master",
         "character-other/hollowmere-bea",
         "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
       ],
     },
     {
       fact: "Bea is loud, warm and quick to laugh, makes friends in minutes, and talks when she is nervous.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-bea"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Bea grew up in Bristol, the eldest of four, her mother Swedish and her father a bus driver.",
@@ -50,19 +72,39 @@ export const hollowmereBea = {
     },
     {
       fact: "Bea rowed at school and still runs along the shore before breakfast.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-bea"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Bea's family have no magic to speak of, and she is the first of them at a college of it.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-bea"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Bea came to Hollowmere a year late, after a year in a café saving the money for it.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-bea"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Bea has kissed girls and boys both, likes girls best, and has never been in love.",
       knowers: ["lore-disclosure/game-master", "character-other/hollowmere-bea"],
+    },
+    {
+      fact: "Bea is from Bristol, the eldest of four, with two younger sisters and a brother of nine.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
     },
   ],
   secrets: "jsonl",

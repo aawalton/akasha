@@ -23,6 +23,7 @@ export const hollowmereAcademy = {
         "character-other/hollowmere-bea",
         "character-other/hollowmere-yusra",
         "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
       ],
     },
     {
@@ -32,6 +33,7 @@ export const hollowmereAcademy = {
         "character-other/hollowmere-bea",
         "character-other/hollowmere-yusra",
         "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
       ],
     },
     {
@@ -41,6 +43,7 @@ export const hollowmereAcademy = {
         "character-other/hollowmere-bea",
         "character-other/hollowmere-yusra",
         "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
       ],
     },
     {
@@ -68,6 +71,7 @@ export const hollowmereAcademy = {
         "character-other/hollowmere-bea",
         "character-other/hollowmere-yusra",
         "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
       ],
     },
     {
@@ -77,6 +81,7 @@ export const hollowmereAcademy = {
         "character-other/hollowmere-bea",
         "character-other/hollowmere-yusra",
         "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
       ],
     },
     {
@@ -93,6 +98,24 @@ export const hollowmereAcademy = {
       knowers: [
         "lore-disclosure/game-master",
         "character-other/hollowmere-yusra",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "Candles float over the Great Hall's tables, and brighten together when the hall applauds.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "Hollowmere's Principal is a tall white-haired woman whose voice carries without trying.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
         "character-other/hollowmere-kit",
       ],
     },

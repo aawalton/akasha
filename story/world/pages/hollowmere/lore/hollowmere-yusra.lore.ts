@@ -18,6 +18,7 @@ export const hollowmereYusra = {
         "lore-disclosure/game-master",
         "character-other/hollowmere-yusra",
         "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
       ],
     },
     {
@@ -26,11 +27,21 @@ export const hollowmereYusra = {
     },
     {
       fact: "Yusra has warm olive-brown skin, very dark brown eyes, thick straight black brows and full lips.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-yusra"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
     },
     {
       fact: "Yusra's black hair is long and wavy, pushed back off her face and falling past her shoulders.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-yusra"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
     },
     {
       fact: "Yusra has small tits with dark brown nipples, and a neat trimmed patch of black hair over her cunt.",
@@ -38,7 +49,12 @@ export const hollowmereYusra = {
     },
     {
       fact: "Yusra dresses neatly in fine knits and wool trousers, with her brass warden's badge at her collar.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-yusra"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
     },
     {
       fact: "Yusra is calm, dry and exacting, kinder than she lets on, and remembers everything she is told.",
@@ -59,6 +75,14 @@ export const hollowmereYusra = {
     {
       fact: "Yusra has only ever wanted women, and her family know it and are easy about it.",
       knowers: ["lore-disclosure/game-master", "character-other/hollowmere-yusra"],
+    },
+    {
+      fact: "Yusra speaks low and level, faintly Yorkshire, and is kinder in her face than in her voice.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
     },
   ],
   secrets: "jsonl",

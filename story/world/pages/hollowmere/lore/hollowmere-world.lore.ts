@@ -33,6 +33,7 @@ export const hollowmereWorld = {
         "character-other/hollowmere-bea",
         "character-other/hollowmere-yusra",
         "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
       ],
     },
     {
@@ -73,6 +74,7 @@ export const hollowmereWorld = {
         "character-other/hollowmere-bea",
         "character-other/hollowmere-yusra",
         "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
       ],
     },
     {
@@ -81,6 +83,23 @@ export const hollowmereWorld = {
         "lore-disclosure/game-master",
         "character-other/hollowmere-bea",
         "character-other/hollowmere-yusra",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "The kettle charm, a looped sigil drawn over a kettle, is the first charm anyone learns.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "Working magic is called casting.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
         "character-other/hollowmere-kit",
       ],
     },
