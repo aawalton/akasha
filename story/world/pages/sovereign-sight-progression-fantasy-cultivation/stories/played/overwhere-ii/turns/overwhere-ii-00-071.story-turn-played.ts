@@ -4,13 +4,14 @@ export const overwhereIi00071 = {
   id: "01a0fdb8-015e-7216-a4c4-79d117566458",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-071",
+  cover: "image/image-960424e640152b3d",
   ownLength: 353,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 71,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I tell Dray how the fight went down and speak in favor of supervised clemency for the three siblings.",
   beats: [
@@ -48,6 +49,11 @@ export const overwhereIi00071 = {
     "lore/overwhere-ii-reeve-corwin-dray-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-14T19:02:00.000Z",
 } as const satisfies StoryTurnPlayed
