@@ -38,7 +38,7 @@ export const overwhereI0006ThreeLurkersByNoon = {
     },
     {
       position: 31,
-      cover: "image/image-04c5762b07cedf35",
+      cover: "image/image-983637b800966bda",
       coverAfter: "You heave. The channel bulges, and a mass of brown water lifts",
     },
     {
