@@ -98,4 +98,5 @@ export const hollowmere0003FeetInTheMere = {
     "character-other/hollowmere-yusra",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryChapterWritten
