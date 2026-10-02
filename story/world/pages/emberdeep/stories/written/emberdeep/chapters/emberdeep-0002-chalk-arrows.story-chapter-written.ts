@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const emberdeep0002 = {
+export const emberdeep0002ChalkArrows = {
   id: "01a0fdf3-631b-769b-9a51-0e5ce453352c",
   type: "page-type/story-chapter-written",
-  slug: "emberdeep-0002",
+  slug: "emberdeep-0002-chalk-arrows",
   position: 2,
   unit: "unit/words",
-  title: "Chapter 2",
+  title: "Chalk Arrows",
   story: "story-written/emberdeep",
-  ownLength: 0,
+  ownLength: 4716,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Nala wakes in room 7 and checks her hands first; they are still small, pale and freckled.",
     "She is still Nala, and she finds she is more relieved than sorry.",
@@ -100,5 +100,17 @@ export const emberdeep0002 = {
     "She falls asleep tired all through, in a good way she does not remember from being Alan.",
     "A day in Emberdeep ends.",
   ],
-  lore: ["place/emberdeep-deep", "place/emberdeep-first-level", "place/emberdeep-guild-hall"],
+  lore: [
+    "lore/emberdeep-elowen",
+    "lore/emberdeep-nala",
+    "lore/emberdeep-wren",
+    "place/emberdeep-deep",
+    "place/emberdeep-first-level",
+    "place/emberdeep-guild-hall",
+  ],
+  characters: [
+    "character-player/emberdeep-nala",
+    "character-other/emberdeep-wren",
+    "character-other/emberdeep-elowen",
+  ],
 } as const satisfies StoryChapterWritten
