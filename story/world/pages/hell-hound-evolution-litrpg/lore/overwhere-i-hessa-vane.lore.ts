@@ -153,7 +153,7 @@ export const overwhereIHessaVane = {
     },
     {
       fact: "Hessa looks the head over a long while, then tells Nala plainly she had not thought to see her back.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Hessa tells Nala to salt the head tonight, or it will be past the Hall's taking within a week.",
