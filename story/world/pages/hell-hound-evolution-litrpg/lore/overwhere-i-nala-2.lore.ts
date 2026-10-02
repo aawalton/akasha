@@ -84,5 +84,9 @@ export const overwhereINala2 = {
       fact: "Nala has no tracking skill; she reads plain sign as anyone sharp-eyed does.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At Level 9 Nala gains Strength 2, Dexterity 2, Vigor 2, Attunement 4 and Luck 1.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
