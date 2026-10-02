@@ -37,7 +37,7 @@ export const overwhereIiBetLoddon = {
     },
     {
       fact: "Bet tells that Big Harl waits inside the farmhouse, and Crake with him, by the hearth.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Bet tells that Pip watches the valley road, to run ahead and warn Crake who comes.",
