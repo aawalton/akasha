@@ -4,6 +4,7 @@ export const overwhereIii00062 = {
   id: "01a0fdd1-b121-7894-9f2f-e1a514e50658",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-062",
+  cover: "image/image-5dc8f0f208339057",
   ownLength: 187,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -46,6 +47,6 @@ export const overwhereIii00062 = {
     "place/overwhere-iii-fairley-farm",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-06T08:30:00.000Z",
 } as const satisfies StoryTurnPlayed
