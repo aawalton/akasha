@@ -48,5 +48,13 @@ export const emberdeepCorbelHouse = {
         "character-other/emberdeep-wren",
       ],
     },
+    {
+      fact: "On Restday morning the widow takes the next week's rent: two marks for room 7, paid in advance.",
+      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+    },
+    {
+      fact: "Every room at Corbel House is let; a second lodger sharing a room pays the widow half a mark a week.",
+      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+    },
   ],
 } as const satisfies Place

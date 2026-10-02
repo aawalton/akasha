@@ -98,6 +98,10 @@ export const emberdeepWren = {
         "character-player/emberdeep-nala",
       ],
     },
+    {
+      fact: "Wren's rat bite is clean and healing under Elowen's herbs, though it aches when she grips.",
+      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

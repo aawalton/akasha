@@ -100,6 +100,10 @@ export const emberdeepElowen = {
         "character-other/emberdeep-wren",
       ],
     },
+    {
+      fact: "Elowen has eleven pennies left, and nowhere to sleep once her third night at the Kettle is over.",
+      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-elowen"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

@@ -145,6 +145,10 @@ export const emberdeepNala = {
         "character-other/emberdeep-elowen",
       ],
     },
+    {
+      fact: "Nala woke in Emberdeep on a Fourthday, and went down the Deep first on the Fifthday after.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

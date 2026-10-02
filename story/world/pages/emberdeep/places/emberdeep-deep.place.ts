@@ -44,5 +44,9 @@ export const emberdeepDeep = {
         "character-other/emberdeep-elowen",
       ],
     },
+    {
+      fact: "The guild's gate in the Deep is kept open and warded every day, Restday too.",
+      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+    },
   ],
 } as const satisfies Place

@@ -143,5 +143,13 @@ export const emberdeepWorld = {
         "character-other/emberdeep-wren",
       ],
     },
+    {
+      fact: "The six working days are Firstday to Sixthday, and Restday follows Sixthday.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-other/emberdeep-elowen",
+      ],
+    },
   ],
 } as const satisfies Lore
