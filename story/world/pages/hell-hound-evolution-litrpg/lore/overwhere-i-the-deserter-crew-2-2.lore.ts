@@ -162,5 +162,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "The camp fold lies north-east; circling north, Nala comes to its rim from the north-west.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Below the rim lie a turf hut, a smoky fire and four charcoal mounds facing the track.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
