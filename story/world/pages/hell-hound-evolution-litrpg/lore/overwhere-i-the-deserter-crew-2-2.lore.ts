@@ -190,5 +190,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Nala lies flat in the pines on the fold's rim, 30 yards above the camp, sword in hand.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Once one falls, the rest turn and loose up at the rim; a beam at a man shooting back is hard.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
