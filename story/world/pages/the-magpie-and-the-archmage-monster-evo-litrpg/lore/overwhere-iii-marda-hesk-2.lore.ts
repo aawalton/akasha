@@ -64,5 +64,13 @@ export const overwhereIiiMardaHesk2 = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "Watching Nala mend her own palms, Marda said, 'Huh. Didn't know you could do that on yourself.'",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
 } as const satisfies Lore
