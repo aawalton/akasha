@@ -149,7 +149,7 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Hearing her ask, Osric steps up at once with his offer of passage as his cart's guard.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
