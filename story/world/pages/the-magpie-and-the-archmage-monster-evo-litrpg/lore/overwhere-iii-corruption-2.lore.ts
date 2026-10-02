@@ -56,5 +56,13 @@ export const overwhereIiiCorruption2 = {
         "character-other/overwhere-iii-oswin-fairley",
       ],
     },
+    {
+      fact: "The fox's small blightstone lies in the gray dirt by the sett mouth, untouched.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-oswin-fairley",
+      ],
+    },
   ],
 } as const satisfies Lore
