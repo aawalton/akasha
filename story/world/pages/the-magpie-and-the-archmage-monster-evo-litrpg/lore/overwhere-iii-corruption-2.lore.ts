@@ -30,7 +30,11 @@ export const overwhereIiiCorruption2 = {
     },
     {
       fact: "Pulled in its sett, the fox wakes in pain and bolts out, straight at the nearest warm body.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-oswin-fairley",
+      ],
     },
     {
       fact: "Nala's first braided pull, down through the earth, drew the fox's blight one of about four.",
