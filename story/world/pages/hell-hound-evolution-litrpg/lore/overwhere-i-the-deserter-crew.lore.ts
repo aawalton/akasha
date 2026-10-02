@@ -171,6 +171,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Voss charges at the first slug and reaches her in about 3 seconds, one shot's time.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The crew's Drakewolf is loosed at the first slug and reaches her in about 2 seconds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
