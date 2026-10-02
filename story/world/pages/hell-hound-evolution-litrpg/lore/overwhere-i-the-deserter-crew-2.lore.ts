@@ -118,5 +118,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Word that Nala struck under parley reaches Wendlow's Board within a tenday; the bounty still pays.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "If Nala stands on the open lip, both crossbowmen loose from the galleries and Crow from the trees.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
