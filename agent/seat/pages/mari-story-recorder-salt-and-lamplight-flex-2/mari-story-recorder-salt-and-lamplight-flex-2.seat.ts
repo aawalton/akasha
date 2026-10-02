@@ -11,4 +11,5 @@ export const mariStoryRecorderSaltAndLamplightFlex2 = {
   startMode: "seat-mode/headless",
   onCall: false,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "3fc3d57b-887e-4700-8d7d-5d8d056f2b59",
 } as const satisfies Seat
