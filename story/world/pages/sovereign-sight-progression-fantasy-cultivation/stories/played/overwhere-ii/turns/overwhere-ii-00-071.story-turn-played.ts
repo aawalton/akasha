@@ -40,10 +40,12 @@ export const overwhereIi00071 = {
     'Wil: "He\'ll be there near midnight."',
   ],
   lore: [
+    "lore/overwhere-ii-loddon-brothers",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",
     "lore/overwhere-ii-nala-3",
     "lore/overwhere-ii-reeve-corwin-dray-2",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-14T19:02:00.000Z",
 } as const satisfies StoryTurnPlayed
