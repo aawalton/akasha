@@ -286,6 +286,22 @@ export const overwhereIvNala2 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
+      fact: "Spatial Sense feels shapes and hollows only: no color, no writing, no warmth of a body.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Through a wall or a closed box, Spatial Sense still feels what's inside as shapes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "In a crowd, Spatial Sense blurs the bodies together until she learns to pick one out.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Each reach of Spatial Sense spends a little warmth, and held at length it drains her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Nala told Aldo, Tull listening, that every raider fell to a careful cut of her spear skill.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
