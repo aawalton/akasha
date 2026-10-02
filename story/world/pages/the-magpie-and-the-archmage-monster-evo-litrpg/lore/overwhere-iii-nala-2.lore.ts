@@ -313,5 +313,17 @@ export const overwhereIiiNala2 = {
       fact: "Leaving the Post at noon on day seven, Nala saw Mana Weaver advance from Expert to Legend.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala paid Bet 2 copper for the Crook and Candle's noon plate on day seven, and ate every bit.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-bet-harrow",
+      ],
+    },
+    {
+      fact: "Resting at the crossroads shrine all afternoon on day seven had Nala's mana brimming by near five.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
