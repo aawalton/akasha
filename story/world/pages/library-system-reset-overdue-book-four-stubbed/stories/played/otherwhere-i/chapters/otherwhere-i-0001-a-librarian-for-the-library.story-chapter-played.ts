@@ -48,7 +48,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 8,
-      cover: "image/image-2f0d59ed49c874d2",
+      cover: "image/image-678efecc8c371d37",
       coverAfter: "It's a hall, vast and dim, lit a soft old gold from",
     },
     {
