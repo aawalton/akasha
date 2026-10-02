@@ -292,6 +292,14 @@ export const hollowmereNala = {
         "character-other/hollowmere-shiv",
       ],
     },
+    {
+      fact: "Nala's purse holds a bank card in her name, sixty-two pounds in notes and her library card.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
+    {
+      fact: "Nala's bursary pays her a living allowance of eighty pounds a week, every Monday.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

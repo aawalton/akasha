@@ -254,5 +254,19 @@ export const hollowmereAcademy = {
         "character-other/hollowmere-amara",
       ],
     },
+    {
+      fact: "First-years have no classes at weekends, and on Saturdays the Great Hall serves brunch until eleven.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
   ],
 } as const satisfies Place
