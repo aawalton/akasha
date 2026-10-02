@@ -178,7 +178,7 @@ export const overwhereIHessaVane = {
     },
     {
       fact: "Hessa takes 'I don't care who comes' as plain enough, and lets Tobin go to Wendlow with Nala.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Hessa tells Tobin to do as Nala says on the road and to come back with Osric's cart.",
