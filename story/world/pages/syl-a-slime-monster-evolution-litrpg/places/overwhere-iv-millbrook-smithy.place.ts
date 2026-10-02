@@ -53,6 +53,14 @@ export const overwhereIvMillbrookSmithy = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Pointing and edging a blunt spearhead takes Tobin most of an hour at the forge and wheel.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Sharpened, the practice head is soft iron: it bites like a real spear but dulls quickly.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Tobin Ash's smithy sits on Millbrook's square.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
