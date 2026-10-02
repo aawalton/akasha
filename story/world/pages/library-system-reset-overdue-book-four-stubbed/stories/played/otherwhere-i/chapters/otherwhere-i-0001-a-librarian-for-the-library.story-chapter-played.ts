@@ -108,7 +108,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 20,
-      cover: "image/image-87cfac68fd15a05c",
+      cover: "image/image-4222456ff642cbed",
       coverAfter: "They circle along the edge, blind heads swinging. Each one stretches its",
     },
     {
