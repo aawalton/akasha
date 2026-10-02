@@ -70,7 +70,7 @@ export const overwhereIiiNala22 = {
     },
     {
       fact: "The current burn on Nala's palms is shallow, like a mild scald, and fades as her health comes back.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
   ],
 } as const satisfies Lore
