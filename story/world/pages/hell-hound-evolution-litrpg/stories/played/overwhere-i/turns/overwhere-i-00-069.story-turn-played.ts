@@ -35,13 +35,18 @@ export const overwhereI00069 = {
     "Voss is two strides away, axe high, with the Drakewolf's teeth locked in her arm.",
   ],
   lore: [
+    "lore/overwhere-i-greyfen-beasts-2",
+    "lore/overwhere-i-monsters",
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
     "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-starfall-legacy-2",
     "lore/overwhere-i-the-deserter-crew",
+    "lore/overwhere-i-the-greyfen-alpha",
+    "lore/overwhere-i-the-greyfen-alpha-2",
     "lore/overwhere-i-the-system-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-10-03T15:01:00.000Z",
 } as const satisfies StoryTurnPlayed
