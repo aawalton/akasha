@@ -45,7 +45,7 @@ export const overwhereIiiBrannaghTull2 = {
       ],
     },
     {
-      fact: "Six or seven scar folk are left on the slate; Huw's burn and the girl's lip are wiped off it.",
+      fact: "Three or four scar folk are left on the slate, the drover's burn among them.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/overwhere-iii-nala",
