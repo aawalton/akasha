@@ -129,7 +129,7 @@ export const overwhereIiOswyCrake = {
     },
     {
       fact: "A spear in a lone traveller's hand alarms no one; Crake's men expect one on a road with wolves.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Coralsnout venom in a wound chokes a Talent's Locks within a minute, and holds them shut for hours.",
