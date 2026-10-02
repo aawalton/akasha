@@ -93,7 +93,7 @@ export const saltAndLamplight0001TheTideLeavesThings = {
   ],
   scenes: [
     "image/image-2757828f143c1114",
-    "image/image-6c1a49e5a2e92bf6",
+    "image/image-d1ba4a43837e61e5",
     "image/image-a9222c9f79b20e1f",
     "image/image-10edd90e7d99f702",
     "image/image-f1b08b06b323c438",
