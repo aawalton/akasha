@@ -4,6 +4,7 @@ export const overwhereIv00055 = {
   id: "01a0fd79-72f7-7c0e-a3cd-635d0f057956",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-055",
+  cover: "image/image-746d63889062e374",
   ownLength: 326,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
@@ -43,6 +44,6 @@ export const overwhereIv00055 = {
     "place/overwhere-iv-tull-farm",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-03T14:35:00.000Z",
 } as const satisfies StoryTurnPlayed
