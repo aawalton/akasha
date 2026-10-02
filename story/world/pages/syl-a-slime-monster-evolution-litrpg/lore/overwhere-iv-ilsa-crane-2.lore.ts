@@ -256,5 +256,13 @@ export const overwhereIvIlsaCrane2 = {
       fact: "Ilsa enters the Tull job in her ledger plainly, as goblins slain, and tells no one more.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
     },
+    {
+      fact: "Asked where to get a better spear, Ilsa sends Nala to Tobin Ash's smithy on the square.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "Ilsa says a spear fit for a silver tag is bought in Aubrin, not Millbrook.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
   ],
 } as const satisfies Lore
