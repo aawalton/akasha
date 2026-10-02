@@ -242,7 +242,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "Refining bone gives Nala a craving for salt, milk and bone broth, and she runs hot at night.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "A refined bone feels heavy and still, like stone under water; she weighs a little more.",
