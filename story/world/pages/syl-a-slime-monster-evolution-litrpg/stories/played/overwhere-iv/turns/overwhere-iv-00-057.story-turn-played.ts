@@ -4,10 +4,13 @@ export const overwhereIv00057 = {
   id: "01a0fd91-87c3-775b-ae0b-a305f2d14c88",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-057",
+  ownLength: 126,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 57,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action: "“Sure, might as well have an edge while I’m waiting. Thanks!”",
   beats: [
     '"Sure, might as well have an edge while I\'m waiting. Thanks!" Nala sets ten copper on the bench.',
@@ -19,6 +22,10 @@ export const overwhereIv00057 = {
     '"Soft iron," he says. "It\'ll bite like a real spear. Dulls quick, though."',
     '"Come back for the good one day after tomorrow."',
   ],
-  lore: ["place/overwhere-iv-millbrook-smithy"],
+  lore: [
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "place/overwhere-iv-millbrook-smithy",
+  ],
   endsAt: "2026-10-03T15:45:00.000Z",
 } as const satisfies StoryTurnPlayed
