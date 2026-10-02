@@ -10,7 +10,7 @@ export const emberdeep0004TheWarmPools = {
   story: "story-written/emberdeep",
   ownLength: 4036,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "It is Restday; Nala wakes to bells somewhere below in the town and a house without porridge.",
     "The widow knocks on door 7 at eight for the rent.",
@@ -85,6 +85,7 @@ export const emberdeep0004TheWarmPools = {
   issues: [
     '"a dark soft shadow between her thighs" - Emberdeep Explicitness',
     '"your belly, between your legs" - Emberdeep Explicitness',
+    '"Twelve copper pennies, the whole of yesterday" - only eight were earned Sixthday; four were older',
   ],
   lore: [
     "lore/emberdeep-elowen",
@@ -98,5 +99,5 @@ export const emberdeep0004TheWarmPools = {
     "character-other/emberdeep-wren",
     "character-other/emberdeep-elowen",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
