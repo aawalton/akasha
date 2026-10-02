@@ -35,5 +35,13 @@ export const overwhereIvCorrChildren = {
       fact: "Lissy loves hide-and-seek, and hides well; Bram is always the one sent to find her.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Told it's training the senses, Lissy dares the sitter to find her blindfold, and runs to hide.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Bram calls Lissy in for stable chores at dusk, and she always comes, grumbling.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
