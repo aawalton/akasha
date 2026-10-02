@@ -32,5 +32,9 @@ export const overwhereITheDeserterCrew222 = {
       fact: "Walking back by night, overhang to camp, bend and quarry, is ten miles: about four hours.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "By night foxes have been at the bodies at the bend; ears and tags are still there to take.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
