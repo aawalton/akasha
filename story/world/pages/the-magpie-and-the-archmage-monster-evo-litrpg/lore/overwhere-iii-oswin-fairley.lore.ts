@@ -50,7 +50,11 @@ export const overwhereIiiOswinFairley = {
     },
     {
       fact: "Oswin tells Nala she'll never pay for an egg or a bed at Fairley Farm, and means it.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-oswin-fairley"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-oswin-fairley",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
 } as const satisfies Lore
