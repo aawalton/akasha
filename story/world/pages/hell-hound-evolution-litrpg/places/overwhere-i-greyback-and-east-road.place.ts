@@ -171,7 +171,12 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "At Ketter's Well, Osric and Tobin sleep by the cart with the cask; they roll on east at 6:00.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+        "lore/overwhere-i-tobin-ashdown",
+      ],
     },
     {
       fact: "Fresh mule hoofprints and cart ruts run east in the road's dust below Cutter's Quarry.",
@@ -219,15 +224,29 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "Day 6's road leaves the pines for farmland by noon; it passes quiet.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+        "lore/overwhere-i-tobin-ashdown",
+      ],
     },
     {
       fact: "With Nala's help on day 6, the cart reaches Brennock Ford by about 15:00.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+        "lore/overwhere-i-tobin-ashdown",
+      ],
     },
     {
       fact: "Pushing on from Brennock Ford, the last 20 miles bring the cart to Wendlow's gate after it shuts.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
     {
       fact: "At Brennock Ford a westbound drover grumbles that Wendlow's guild sold dark, empty crystals as full.",
@@ -235,7 +254,11 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "Brennock Ford is a hamlet of five farms by a stone-paved ford, with the two-storey Ford Inn.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
     {
       fact: "The Ford Inn charges 8 copper a bed and 3 copper for a hot bath in its back-room tub.",

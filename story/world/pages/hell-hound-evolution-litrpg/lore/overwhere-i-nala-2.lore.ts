@@ -137,5 +137,14 @@ export const overwhereINala2 = {
         "lore/overwhere-i-osric-fenn",
       ],
     },
+    {
+      fact: "On day 6 Nala's steady air push at the cart's back sped Osric's mule cart toward Wendlow.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+        "lore/overwhere-i-tobin-ashdown",
+      ],
+    },
   ],
 } as const satisfies Lore
