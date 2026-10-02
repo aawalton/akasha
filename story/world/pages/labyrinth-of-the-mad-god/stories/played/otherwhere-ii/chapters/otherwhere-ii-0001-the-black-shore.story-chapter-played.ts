@@ -48,7 +48,7 @@ export const otherwhereIi0001TheBlackShore = {
     },
     {
       position: 8,
-      cover: "image/image-4911a0a405c43429",
+      cover: "image/image-c1c7747816b684aa",
       coverAfter: "Twenty paces upstream, the nearer lizard's head lifts off the mud and",
     },
     {
