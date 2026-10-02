@@ -74,7 +74,7 @@ export const overwhereIiGreyShaw = {
     },
     {
       fact: "Dray means Nala's third to be a third of the coin, on top of the five bars for Crake.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "A drained Talent who drinks bottled Water refills in an hour, not days, and mends faster.",
