@@ -23,7 +23,7 @@ export const otherwhereI0002TheCounterWakes = {
     },
     {
       position: 52,
-      cover: "image/image-f597e89402c5519f",
+      cover: "image/image-2aabf2519c8a9bf9",
       coverAfter: "The quarters are quiet. The only sound is the tap, dripping into",
     },
     {
