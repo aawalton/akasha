@@ -41,8 +41,7 @@ export const hollowmereExplicitness = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement:
-        "No clinical word such as vulva or penis stands in for the word a person would say.",
+      statement: "No clinical word such as vulva or penis replaces the word a person would say.",
     },
     {
       decisionKind: "decision-kind/departure",
