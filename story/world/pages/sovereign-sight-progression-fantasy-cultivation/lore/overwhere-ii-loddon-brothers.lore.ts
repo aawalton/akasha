@@ -21,7 +21,7 @@ export const overwhereIiLoddonBrothers = {
     },
     {
       fact: "Wil says no one else is at Ashlin but Big Harl in the gully and the boy Pip, who ran.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Wil knows the dart in Nala's neck: the venom shuts a Talent's Locks till about dawn, no longer.",
