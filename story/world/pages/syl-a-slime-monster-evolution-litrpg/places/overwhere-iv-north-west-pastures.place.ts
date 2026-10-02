@@ -63,5 +63,9 @@ export const overwhereIvNorthWestPastures = {
       fact: "Fen told Nala his lost ewes were dragged off whole, up the track.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Between the north gate and the pastures, the downs are empty, grazed short and dotted with boulders.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place

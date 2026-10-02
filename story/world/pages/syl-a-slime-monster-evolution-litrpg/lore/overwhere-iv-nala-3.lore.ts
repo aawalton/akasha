@@ -52,13 +52,5 @@ export const overwhereIvNala3 = {
       fact: "The flicker steadies when she holds the spot in her sense alone, not pictured as if seen.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "A day's practice at it counts as one earnest use toward Sense Casting, however many tries.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Below the town's north wall, past the common, are empty sheep downs dotted with boulders.",
-      knowers: ["lore-disclosure/game-master"],
-    },
   ],
 } as const satisfies Lore
