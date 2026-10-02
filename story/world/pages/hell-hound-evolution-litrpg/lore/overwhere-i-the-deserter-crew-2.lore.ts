@@ -340,5 +340,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Jays scold along the cart track where the four pass, marking them even unseen.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Holding the lens in shadow or shading it by hand is easy, and then it throws no glint.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
