@@ -56,5 +56,9 @@ export const overwhereIiGreyShaw = {
       fact: "The coin box holds eleven silver bars and a scatter of silver pieces: Crake's year of sales.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Crake's ledger names every Talent he drained, every bottle sold, and Oriel Vance as his buyer.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
