@@ -50,7 +50,7 @@ export const overwhereIiGreyShaw = {
     },
     {
       fact: "A Carrowmouth thaumist pays about a silver bar a bottle; a drained Talent drinks it back to heal.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The coin box holds eleven silver bars and a scatter of silver pieces: Crake's year of sales.",
