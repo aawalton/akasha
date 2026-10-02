@@ -173,7 +173,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 33,
-      cover: "image/image-51acfc9a8fddf533",
+      cover: "image/image-eecce3ed17e29fb9",
       coverAfter: "In the break room you empty out the dead cooler, a knee-high",
     },
     {
