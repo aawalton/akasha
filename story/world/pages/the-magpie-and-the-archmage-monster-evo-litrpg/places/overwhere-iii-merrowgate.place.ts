@@ -264,7 +264,7 @@ export const overwhereIiiMerrowgate = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
-      fact: "In Merrowgate a glimmerstone changes hands for about 25 copper, when anyone will part with one.",
+      fact: "In Merrowgate a glimmerstone changes hands for about 20 copper, when anyone will part with one.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-marda-hesk",
