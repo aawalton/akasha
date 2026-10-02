@@ -7,7 +7,12 @@ export const overwhereIii00078 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 78,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“I didn’t either, good to know. Could I buy glimmershards? How much do they run? I’m one short of appraise.”",
+  lore: [
+    "place/overwhere-iii-crook-and-candle",
+    "place/overwhere-iii-merrowgate",
+    "place/overwhere-iii-merrowgate-guild-post",
+  ],
 } as const satisfies StoryTurnPlayed
