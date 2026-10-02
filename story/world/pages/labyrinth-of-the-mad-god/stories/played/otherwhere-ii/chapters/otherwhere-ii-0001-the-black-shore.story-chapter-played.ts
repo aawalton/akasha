@@ -38,7 +38,7 @@ export const otherwhereIi0001TheBlackShore = {
     },
     {
       position: 6,
-      cover: "image/image-43189b76c3af152d",
+      cover: "image/image-d81094a8eb8a0fc4",
       coverAfter: "It leans in. One long arm stretches out toward you, the fingers",
     },
     {
