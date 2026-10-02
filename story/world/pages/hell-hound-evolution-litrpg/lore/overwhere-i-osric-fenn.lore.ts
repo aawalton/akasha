@@ -218,7 +218,7 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Osric sells salt at 4 copper a sack, as Garrick does; one sack keeps a head three weeks.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Osric says the Board pays only at Wendlow, two more days east by cart from Ketter's Well.",
