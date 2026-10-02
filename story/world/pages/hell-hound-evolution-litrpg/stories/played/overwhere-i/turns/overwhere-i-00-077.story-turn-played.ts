@@ -4,10 +4,17 @@ export const overwhereI00077 = {
   id: "01a0fd9f-4a47-73e7-b01e-289822865179",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-077",
+  ownLength: 141,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 77,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-i-nala",
+    "character-other/overwhere-i-quarry-crewman-one",
+    "character-other/overwhere-i-quarry-crewman-two",
+  ],
+  stepStatus: "step-status/reviewers",
   action: "I circle around, as quietly as I can, trying to get eyes on any of the bandits.",
   beats: [
     "Nala slips back from her boulders and circles east through the pines, light on her hurt leg.",
@@ -20,6 +27,11 @@ export const overwhereI00077 = {
     "Beside him the other burned blademan lies moaning.",
     "Neither has heard her; the sitting man keeps his sword in hand, his eyes on the pit floor.",
   ],
-  lore: ["lore/overwhere-i-the-deserter-crew-2", "place/overwhere-i-greyback-and-east-road"],
+  lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
+    "lore/overwhere-i-the-deserter-crew-2",
+    "place/overwhere-i-greyback-and-east-road",
+  ],
   endsAt: "2026-10-03T15:14:00.000Z",
 } as const satisfies StoryTurnPlayed
