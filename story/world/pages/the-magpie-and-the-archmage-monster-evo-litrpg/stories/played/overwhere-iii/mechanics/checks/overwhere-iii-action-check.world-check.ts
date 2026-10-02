@@ -99,7 +99,7 @@ export const overwhereIiiActionCheck = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        'The reading is `{"band":"easy","bonuses":[{"from":"Mana Weaver","by":3}]}`, by her rank now.',
+        'The reading is `{"band":"easy","bonuses":[{"from":"Mana Weaver","by":4}]}`, by her rank now.',
     },
   ],
 } as const satisfies WorldCheck
