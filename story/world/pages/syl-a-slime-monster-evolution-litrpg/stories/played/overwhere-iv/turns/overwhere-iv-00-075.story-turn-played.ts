@@ -44,5 +44,6 @@ export const overwhereIv00075 = {
     "lore/overwhere-iv-the-tangle-2",
     "place/overwhere-iv-the-tangle",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-06T21:16:00.000Z",
 } as const satisfies StoryTurnPlayed
