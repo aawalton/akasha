@@ -153,6 +153,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "Osric's cart stays stopped half a mile east of the quarry; nothing stirs on the road meanwhile.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A granite knoll rises above the pines 300 yards north of the quarry; the climb takes ten minutes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
