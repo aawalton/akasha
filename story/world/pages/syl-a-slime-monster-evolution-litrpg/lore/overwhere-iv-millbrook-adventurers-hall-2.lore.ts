@@ -128,5 +128,33 @@ export const overwhereIvMillbrookAdventurersHall2 = {
         "character-player/overwhere-iv-nala",
       ],
     },
+    {
+      fact: "Ilsa counts the great wolf as Nala's fifth job done well; five more, or the dungeon, for the letter.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "By Nala's seventh morning Tangle-edge farmers have seen goblin torches watching from the trees.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "A new notice reads: NIGHT WATCH, TANGLE-EDGE FARMS. 3 SILVER A NIGHT, TAGGED HANDS ONLY.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "The farms wanting watchers are Hobb's, Tull's and the Wren place, nearest the Tangle.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "The wool cart left for Tarrow Hall with a carter's nephew for its guard; its notice is down.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "The Brookside Four came back last night with four wolf pelts, and heard of the hobgoblin.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "Dace has asked Ilsa whether Nala would join the Four for good; Ilsa said to ask her himself.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
   ],
 } as const satisfies Lore
