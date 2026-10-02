@@ -92,5 +92,9 @@ export const overwhereIiAshlinFarm = {
       fact: "At first light the Pells lift Crake onto a hurdle, and Dray ropes the prisoners in a line.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "From Ashlin back to Wendle Ford is half a day's march at the prisoners' pace.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place
