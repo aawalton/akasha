@@ -122,11 +122,11 @@ export const overwhereIvTheTangle2 = {
     },
     {
       fact: "A line held across the bramble is unseen by the climbers, who push into it without slowing.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Rising from the brambles, Nala is seen by every goblin on the bank, and they shriek it to the band.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "On the open trail goblins run no faster than she does; in the dark off it they keep pace better.",
@@ -163,6 +163,10 @@ export const overwhereIvTheTangle2 = {
     {
       fact: "Nothing of the fight in the cleft carries to Tull's, two miles off; nor did the strike's horn.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "As Nala fled for the ford, the maul-bearer roared; the four climbers and a slinger ran after her.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Lore

@@ -96,5 +96,17 @@ export const overwhereIvNala3 = {
       fact: "A rend laid by sense alone costs the same handful of warmth as any rend.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "At Rift Rend LV 5, the widest line Nala can lay is four paces.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Holding a four-pace rend open on the bank drained Nala's warmth to a last ember.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "The sling stone between Nala's shoulders knocked her breath out and left her back burning.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore
