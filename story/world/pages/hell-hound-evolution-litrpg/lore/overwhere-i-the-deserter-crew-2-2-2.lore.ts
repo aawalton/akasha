@@ -18,7 +18,7 @@ export const overwhereITheDeserterCrew222 = {
     },
     {
       fact: "The camp dead carry 8, 15 and 22 copper; the hut purse holds 30 more.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "At the bend Crow carries 9 silver and a fine crossbow; Five carries 12 copper.",
