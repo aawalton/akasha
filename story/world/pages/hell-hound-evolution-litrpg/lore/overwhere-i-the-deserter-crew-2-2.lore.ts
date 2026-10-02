@@ -278,5 +278,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "When Nala sets out after him, Voss has about a quarter mile on her.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Voss's trail runs east along a stream through the pines, with no fork, to his overhang.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
