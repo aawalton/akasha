@@ -130,7 +130,11 @@ export const overwhereIiiCrookAndCandle = {
     },
     {
       fact: "At midday the Crook and Candle serves pease pottage with bread and a slab of ham, 2 copper.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-bet-harrow",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
   secrets: "jsonl",
