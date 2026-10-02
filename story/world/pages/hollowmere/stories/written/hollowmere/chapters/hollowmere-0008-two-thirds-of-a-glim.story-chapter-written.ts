@@ -72,4 +72,5 @@ export const hollowmere0008TwoThirdsOfAGlim = {
     "character-other/hollowmere-lin",
     "character-other/hollowmere-yusra",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
