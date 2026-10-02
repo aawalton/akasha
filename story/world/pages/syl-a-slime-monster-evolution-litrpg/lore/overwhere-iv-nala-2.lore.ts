@@ -195,7 +195,7 @@ export const overwhereIvNala2 = {
     },
     {
       fact: "Below a quarter of her mana, Nala's head aches dully and her limbs feel heavy.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Awake, Nala regains about six mana an hour; a night's sleep fills her.",

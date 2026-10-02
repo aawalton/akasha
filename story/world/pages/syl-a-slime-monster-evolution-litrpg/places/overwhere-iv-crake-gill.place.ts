@@ -125,11 +125,19 @@ export const overwhereIvCrakeGill = {
     },
     {
       fact: "Up the fifteen-pace scramble the wolf comes in bounds, head low and neck leading, in sight.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The scramble gives her two heartbeats, no more, between its foot and the rim.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Throat cut, the beast ran onto Nala's braced spear and hangs on it, silent but still alive.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "The speared beast shoves up the shaft, snapping; the soft-iron head grinds and the ash shaft bows.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Place
