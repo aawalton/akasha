@@ -210,5 +210,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "The camp keepers are Level 11 with 32 health and Level 13 with 36, bareheaded, leather warding 1.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Blademan Three, bareheaded in leather warding 1, holds a crossbow from the camp's store.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
