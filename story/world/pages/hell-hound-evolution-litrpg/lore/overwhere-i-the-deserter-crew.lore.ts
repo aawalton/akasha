@@ -77,7 +77,7 @@ export const overwhereITheDeserterCrew = {
     },
     {
       fact: "Osric pays Voss the silver toll without fuss, as he always has.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Voss reads Nala as Level 8 and laughs at Osric hiring so small a guard.",
