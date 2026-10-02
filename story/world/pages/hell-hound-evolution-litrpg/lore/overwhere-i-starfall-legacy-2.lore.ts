@@ -80,5 +80,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "A drill slug punches through a wooden shield, keeping half its force for what is behind.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A fire-and-earth weave heats stone within a held working's 30 yards, a yard-wide patch at a time.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
