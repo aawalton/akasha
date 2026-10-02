@@ -171,7 +171,11 @@ export const overwhereIiiBrannaghTull2 = {
     },
     {
       fact: "The lad's bite is a day old and blighted: a fox with wrong eyes got into his family's hen-house.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
 } as const satisfies Lore
