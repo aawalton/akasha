@@ -28,6 +28,7 @@ export const overwhereIii00064 = {
     'Oswin lowers his stick slowly. He looks at the fox, then at her. "Gods," he breathes.',
     "The small blightstone lies in the dirt between them, dark and dull.",
   ],
+  issues: ['"The small blightstone lies in the dirt between you, dark and dull." - Leave It Open'],
   lore: [
     "lore/overwhere-iii-braid-weaving",
     "lore/overwhere-iii-cleansing-weave",
@@ -39,5 +40,6 @@ export const overwhereIii00064 = {
     "lore/overwhere-iii-oswin-fairley",
     "place/overwhere-iii-fairley-farm",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-06T08:40:00.000Z",
 } as const satisfies StoryTurnPlayed
