@@ -9,7 +9,7 @@ export const overwhereIiLoddonBrothers = {
   facts: [
     {
       fact: "Wil Loddon, about twenty-eight, is broad and bearded, slow-spoken and steady.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Kit Loddon, about nineteen, is thin and wild-eyed, and shakes as he comes down the ladder.",
