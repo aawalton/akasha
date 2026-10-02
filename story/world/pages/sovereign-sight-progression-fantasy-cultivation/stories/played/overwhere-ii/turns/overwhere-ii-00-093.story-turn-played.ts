@@ -10,4 +10,5 @@ export const overwhereIi00093 = {
   stepStatus: "step-status/game-master",
   action: "I choose a spear, since that’s what I’m used to",
   lore: ["lore/overwhere-ii-varrow-talented"],
+  endsAt: "2026-10-22T07:00:00.000Z",
 } as const satisfies StoryTurnPlayed
