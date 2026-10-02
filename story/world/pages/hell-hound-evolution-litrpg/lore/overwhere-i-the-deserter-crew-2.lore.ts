@@ -102,5 +102,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Even from the open lip the gallery mouth is 40 yards off, past a held working's 30-yard reach.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Feeling his cap warm, Voss tears it off and steps back into the gallery out of sight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
