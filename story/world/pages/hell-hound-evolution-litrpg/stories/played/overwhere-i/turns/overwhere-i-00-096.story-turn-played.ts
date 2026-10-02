@@ -10,7 +10,7 @@ export const overwhereI00096 = {
   position: 96,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-harl-voss"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“I’m a bounty hunter, here to turn in some bounties.”",
   beats: [
     '"I\'m a bounty hunter, here to turn in some bounties," Nala says, and pays her copper.',
@@ -23,6 +23,6 @@ export const overwhereI00096 = {
     '"Antler Hall, up the high street on the left, sign of the stag\'s antlers. Ask for Grete Holm."',
   ],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "place/overwhere-i-wendlow"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-05T11:45:00.000Z",
 } as const satisfies StoryTurnPlayed
