@@ -34,6 +34,7 @@ export const overwhereIv00070 = {
   ],
   issues: ['"get up, shoulder your spear, and start back for town" - Leave It Open'],
   lore: [
+    "lore/overwhere-iv-brookside-four-2",
     "lore/overwhere-iv-ilsa-crane-2",
     "lore/overwhere-iv-nala",
     "lore/overwhere-iv-nala-2",
@@ -41,5 +42,6 @@ export const overwhereIv00070 = {
     "place/overwhere-iv-north-west-pastures",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-10-05T16:03:00.000Z",
 } as const satisfies StoryTurnPlayed
