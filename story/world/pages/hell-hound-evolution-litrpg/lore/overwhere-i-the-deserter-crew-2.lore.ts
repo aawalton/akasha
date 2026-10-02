@@ -332,5 +332,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Lensing the four crossing the track's one clearing, two miles off, is moderate; one man limps.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Crow watches the back trail; a lens glint on the knoll catches his eye unless she shades it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
