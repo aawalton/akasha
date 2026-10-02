@@ -75,4 +75,5 @@ export const hollowmere0014Pressure = {
     "character-other/hollowmere-priya",
     "character-other/hollowmere-yusra",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
