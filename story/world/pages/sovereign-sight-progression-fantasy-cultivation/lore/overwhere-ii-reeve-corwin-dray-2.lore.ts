@@ -197,7 +197,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray would run with Nala himself, leaving Col Ashby and the Pells to hold the prisoners.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
