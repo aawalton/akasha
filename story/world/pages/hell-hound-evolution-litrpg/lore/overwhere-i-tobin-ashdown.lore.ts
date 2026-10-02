@@ -152,6 +152,10 @@ export const overwhereITobinAshdown = {
         "lore/overwhere-i-tobin-ashdown",
       ],
     },
+    {
+      fact: "After the fight Tobin stays crouched by Osric in the ditch, bow strung, until Nala calls him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
