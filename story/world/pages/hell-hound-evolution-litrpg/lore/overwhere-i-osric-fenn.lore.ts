@@ -274,7 +274,7 @@ export const overwhereIOsricFenn = {
       ],
     },
     {
-      fact: "Osric's mule is spent from its bolt; he will not roll before first light, about 5:30.",
+      fact: "Osric's mule is spent from its bolt; he will not roll before 6:00.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
