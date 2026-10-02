@@ -5,10 +5,10 @@ export const overwhereIiNala = {
   type: "page-type/overwhere-ii-reservoir",
   slug: "overwhere-ii-nala",
   character: "character-player/overwhere-ii-nala",
-  value: 996,
+  value: 994,
   minValue: 0,
   maxValue: 1000,
   history: "jsonl",
   displayOrder: 2,
-  revealedAs: "Still there, but answering only just through the venom",
+  revealedAs: "Deep and full, but penned in her well; she can't reach it",
 } as const satisfies OverwhereIiReservoir
