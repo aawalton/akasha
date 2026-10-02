@@ -103,6 +103,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Voss laughed at Osric for hiring so small a guard.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "At the quarry a big grey-bearded, scar-lipped man with axe and shield, hailed Voss, bars the road.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
