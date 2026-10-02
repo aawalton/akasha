@@ -6,7 +6,7 @@ export const overwhereIiNalaColdIronBoarSpear = {
   slug: "overwhere-ii-nala-cold-iron-boar-spear",
   title: "Cold-Iron Boar Spear",
   story: "story-played/overwhere-ii",
-  place: "place/overwhere-ii-tarrant-smithy",
+  character: "character-player/overwhere-ii-nala",
   description:
     "A long ash boar spear whose dark, dull cold-iron head has a crossbar below the blade.",
 } as const satisfies StoryItem
