@@ -79,4 +79,5 @@ export const hollowmere0013FromMemory = {
     "character-other/hollowmere-yusra",
     "character-other/hollowmere-kit",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
