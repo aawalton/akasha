@@ -25,7 +25,7 @@ export const overwhereIiSirEdricHale = {
     },
     {
       fact: "His hand on the Reeve's doorpost felt a faint hum in the stone, leaning toward the Whitecombs.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Sir Edric is courteous and dry, an old soldier who says little and listens hard.",
