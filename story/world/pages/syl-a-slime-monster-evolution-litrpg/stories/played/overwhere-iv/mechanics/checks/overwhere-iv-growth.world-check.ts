@@ -273,6 +273,11 @@ export const overwhereIvGrowth = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A Rift Rend's line runs up to its level less one in paces: two at LV 3, four at LV 5.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "Lacking Sense Casting, a deliberate try to lay a spell where she only feels is a use of it.",
     },
     {
