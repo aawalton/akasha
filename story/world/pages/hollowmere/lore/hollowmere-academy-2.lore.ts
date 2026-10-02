@@ -66,5 +66,27 @@ export const hollowmereAcademy2 = {
         "character-other/hollowmere-morwenna",
       ],
     },
+    {
+      fact: "In week three practical casting adds the mending charm: a cracked cup drawn whole again.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
+    {
+      fact: "Charmcraft meets Mondays at seven in a basement workshop under the east range, full of clockwork.",
+      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-priya"],
+    },
+    {
+      fact: "On week three's Friday each first-year casts a glim and warms a stone before the hall, as a test.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
   ],
 } as const satisfies Lore
