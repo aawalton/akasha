@@ -10,7 +10,7 @@ export const overwhereI00065 = {
   position: 65,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action: "We take the head back to the village.",
   beats: [
     "They haul the sled back through the Greyfen, Nala and Rowan taking turns on the rope.",
