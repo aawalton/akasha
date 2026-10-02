@@ -33,7 +33,7 @@ export const otherwhereIv0001TheSpiritOfKnowledge = {
     },
     {
       position: 5,
-      cover: "image/image-06a86de239241b9d",
+      cover: "image/image-7ab0f1deca47a086",
       coverAfter: "Xu Hong has come up the terrace wall onto the track while",
     },
     {
