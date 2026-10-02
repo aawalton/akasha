@@ -284,6 +284,10 @@ export const overwhereIiiMardaHesk = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "Marda: most folk hold skills at Basic or Novice; Adept is a master's, Expert a veteran's.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
