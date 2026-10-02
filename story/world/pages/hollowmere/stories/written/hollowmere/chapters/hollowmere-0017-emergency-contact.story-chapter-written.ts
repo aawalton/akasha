@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0017 = {
+export const hollowmere0017EmergencyContact = {
   id: "01a0ff04-8a52-7a81-ab6c-369c74644134",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0017",
+  slug: "hollowmere-0017-emergency-contact",
   position: 17,
   unit: "unit/words",
-  title: "Chapter 17",
+  title: "Emergency Contact",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 2840,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Wednesday: grey and still at dawn, the fells hidden; you and Shiv swim the buoy in thick mist.",
     "Out at the buoy Shiv asks what Penhallow's question meant; you say you're still thinking.",
@@ -66,5 +66,21 @@ export const hollowmere0017 = {
     "You put the phone under your pillow beside Kit's handkerchief, and turn out the lamp.",
     "A day at Hollowmere ends.",
   ],
-  lore: ["lore/hollowmere-academy-2", "lore/hollowmere-nala", "lore/hollowmere-nala-2"],
+  lore: [
+    "lore/hollowmere-academy-2",
+    "lore/hollowmere-bea",
+    "lore/hollowmere-kit",
+    "lore/hollowmere-kit-2",
+    "lore/hollowmere-lin",
+    "lore/hollowmere-nala",
+    "lore/hollowmere-nala-2",
+    "lore/hollowmere-shiv",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-shiv",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-lin",
+    "character-other/hollowmere-kit",
+  ],
 } as const satisfies StoryChapterWritten
