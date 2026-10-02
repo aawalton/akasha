@@ -45,7 +45,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "She is lean, in a fine grey gown worn thin, dark hair pinned tight, one streak of white, pale eyes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The air near Lady Varrow is cold, and a skin of frost lies on the arms of her chair.",
