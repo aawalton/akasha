@@ -264,6 +264,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Burned, the crew Drakewolf lets go her arm and bolts; fire breaks its hold.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A crewman caught alight drops his blade and reels back, beating at the flames.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
