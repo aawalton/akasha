@@ -10,7 +10,7 @@ export const overwhereIv00056 = {
   position: 56,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "I go to Tobin to buy the best spear I can get.",
   beats: [
     "Tobin Ash's smithy sits on the square, its forge glowing, the air thick with coal smoke.",
@@ -22,7 +22,7 @@ export const overwhereIv00056 = {
     '"Holds its edge far past that one. Hundred and fifty copper. Half before I light the fire."',
     "He hands her the wall spear to hold, eyes her height against it, and grunts.",
     '"I\'ll cut the shaft to you." He glances at the practice spear on her back. "Guard\'s stores, that."',
-    '"Heard of a redhead\'s spear trick down at the Brook and Barrel." He grunts again, and no more.',
+    '"Heard of a redhead\'s spear trick down at the Brook and Barrel." He grunts again.',
     "Nala counts out seventy-five copper onto his bench. He sweeps it into a tin without counting.",
     '"Day after tomorrow." He nods at the practice spear. "That one\'s blunt as a fence post."',
     '"Ten copper, and I\'ll put an edge and a point back on it while you wait."',
