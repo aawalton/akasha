@@ -44,5 +44,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Her air ward turns one missile at a time; two arriving together, the second is a hard act.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Holding the air ward while guiding slugs makes each slug a band harder.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
