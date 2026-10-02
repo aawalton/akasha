@@ -222,5 +222,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "When two have fallen, the last crossbowman throws his bow down and yields.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's twin beams killed both camp keepers; their bolts struck her shoulder and forearm.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
