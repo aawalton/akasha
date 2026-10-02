@@ -334,5 +334,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Close in, Voss fights with sword and shield bash; hitting her with the sword is moderate for him.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Voss answers that he comes dearer than that, holds till she is 30 yards off, then charges.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
