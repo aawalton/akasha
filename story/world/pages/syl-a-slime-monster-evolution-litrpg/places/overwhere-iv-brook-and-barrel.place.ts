@@ -72,5 +72,21 @@ export const overwhereIvBrookAndBarrel = {
       fact: "A midday pottage, bread and cheese with a small ale costs 3 copper at the inn.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Supper is mutton stew, bread and small ale for 3 copper.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The hall's old trapper saw seven ears paid out, and by supper the whole taproom knows it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "That night the taproom tells it as the redhead's spear trick: seven goblins and a hobgoblin.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "For the goblins' killer Marta won't take coin for supper, and sets down a second bowl.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
