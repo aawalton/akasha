@@ -499,6 +499,7 @@
 {"propertySlug":"decision-kind","path":"alan/requests-web/routes/requests-api-requests/requests-api-requests.route.ts","id":"01a0c54b-6eaf-7e6f-9ed5-6b1d7145650a"}
 {"propertySlug":"decision-kind","path":"alan/self-care/arousal/climb-explicitness/climb-explicitness.domain.ts","id":"01a0f951-d07a-708e-a36f-29809961baf5"}
 {"propertySlug":"decision-kind","path":"alan/self-care/arousal/harem-hotel-explicitness/harem-hotel-explicitness.domain.ts","id":"01a0e829-efaf-736e-a3de-51fc350aaff4"}
+{"propertySlug":"decision-kind","path":"alan/self-care/arousal/salt-and-lamplight-explicitness/salt-and-lamplight-explicitness.domain.ts","id":"01a0fd03-a991-7bdd-aac6-a6171fc11abb"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/listens/listens.page-property-entry.ts","id":"01a06240-340f-7001-ad7b-818302ce884a"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/location-traces/location-traces.page-property-entry.ts","id":"01a0c566-954d-7c03-a37c-2c767ffdffd7"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/messages-sent.number-property.ts","id":"01a082db-9816-7ab2-b6ed-8a897a78de90"}

@@ -6,7 +6,11 @@ export const arousal = {
   slug: "arousal",
   definition: "how Alan uses arousal",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "arousal" }],
-  parts: ["domain/harem-hotel-explicitness", "domain/climb-explicitness"],
+  parts: [
+    "domain/harem-hotel-explicitness",
+    "domain/climb-explicitness",
+    "domain/salt-and-lamplight-explicitness",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
