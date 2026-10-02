@@ -171,6 +171,22 @@ export const overwhereIiWhitecombs = {
       fact: "Walking down from the split crag, the pull on Nala's well fades, and her well lies quiet again.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "On day twenty-one the crag's pull is stronger than on day four, and comes in slow swells.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "With her bones refined, Nala feels the crag's pull in her frame too, a deep tug through her heels.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The crag's pull is unlike the stair's call: the call invites, the pull drags, cold and heavy.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Undertow reaching down toward the crag's pull finds no bottom, only more water, deeper.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
