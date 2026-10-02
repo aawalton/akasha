@@ -177,7 +177,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "With her bones refined, Nala feels the crag's pull in her frame too, a deep tug through her heels.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The crag's pull is unlike the stair's call: the call invites, the pull drags, cold and heavy.",
