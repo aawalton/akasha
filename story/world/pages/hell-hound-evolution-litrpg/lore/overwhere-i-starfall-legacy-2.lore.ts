@@ -220,5 +220,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Fire with any partner on a wound burns it worse; lightning, if she reaches for it, jolts and numbs.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Trying pairs till the mending weave comes needs no roll; it costs only the hours and some stings.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
