@@ -11,7 +11,7 @@ export const overwhereI00085 = {
   position: 85,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-harl-voss"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I walk slowly towards him. “Your time has come, Voss. And you want to know why? Is simple. You are worth quite a lot to me dead and nothing to me alive.” When I get in range, I do my double fire beam and burn through his shield, through his armor, and through his body.",
   beats: [
@@ -40,7 +40,12 @@ export const overwhereI00085 = {
     "lore/overwhere-i-the-system-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-03T19:03:00.000Z",
   coverAfter: "Your second pair meets on the charred shield. It bursts through, and through",
 } as const satisfies StoryTurnPlayed
