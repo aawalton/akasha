@@ -53,7 +53,7 @@ export const overwhereI0002TheBruteSBounty = {
     },
     {
       position: 12,
-      cover: "image/image-943ac3167912dce2",
+      cover: "image/image-e906d940b25a93df",
       coverAfter: "She starts on the second foreleg. \"Then there's Harl Voss, east. Deserters",
     },
     {
