@@ -5,6 +5,7 @@ export const otherwhereIv00016 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-016",
   cover: "image/image-be020dec3f263978",
+  coverAfter: "She stops in the middle of it, where the light is strongest,",
   ownLength: 263,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],

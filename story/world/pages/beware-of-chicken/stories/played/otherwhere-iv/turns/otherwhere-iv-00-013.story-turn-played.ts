@@ -5,6 +5,7 @@ export const otherwhereIv00013 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-013",
   cover: "image/image-6d39a08dde0a6649",
+  coverAfter: "The hand comes down. For a moment he stands quiet, looking at",
   ownLength: 437,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],

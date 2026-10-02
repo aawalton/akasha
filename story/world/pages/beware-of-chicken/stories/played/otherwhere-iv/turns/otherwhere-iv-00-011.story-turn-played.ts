@@ -5,6 +5,7 @@ export const otherwhereIv00011 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-011",
   cover: "image/image-42aa0937c5bbd582",
+  coverAfter: "You hold the three sticks to the little flame until their tips",
   ownLength: 328,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],

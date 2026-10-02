@@ -5,6 +5,7 @@ export const otherwhereIv00014 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-014",
   cover: "image/image-b57e2592d4205ca0",
+  coverAfter: '"A white stag lived on the mountain, and three hunters went up',
   ownLength: 744,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],

@@ -5,6 +5,7 @@ export const otherwhereIv00017 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-017",
   cover: "image/image-ec8eec91ed9ce395",
+  coverAfter: "Beneath the leaves, all along the stem, are clusters of tiny black",
   ownLength: 394,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],

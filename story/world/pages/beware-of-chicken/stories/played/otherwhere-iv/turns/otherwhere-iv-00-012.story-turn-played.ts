@@ -5,6 +5,7 @@ export const otherwhereIv00012 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-012",
   cover: "image/image-f51c0908cdcb557c",
+  coverAfter: "Gu takes the three smoking sticks out of your hand, gently, with",
   ownLength: 444,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],

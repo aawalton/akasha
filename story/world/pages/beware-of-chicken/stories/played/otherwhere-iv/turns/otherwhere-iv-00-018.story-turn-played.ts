@@ -5,6 +5,7 @@ export const otherwhereIv00018 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-018",
   cover: "image/image-f766507a3be04aa6",
+  coverAfter: "She points with her chin at the base of the stems by",
   ownLength: 400,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],

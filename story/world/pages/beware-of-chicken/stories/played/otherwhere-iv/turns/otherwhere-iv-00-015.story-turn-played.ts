@@ -5,6 +5,7 @@ export const otherwhereIv00015 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-015",
   cover: "image/image-e452498798382b1a",
+  coverAfter: "Granny Hua's place is the last in the west lane. A hut,",
   ownLength: 622,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],
