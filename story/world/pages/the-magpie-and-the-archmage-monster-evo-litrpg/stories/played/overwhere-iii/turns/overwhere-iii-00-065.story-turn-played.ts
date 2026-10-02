@@ -4,10 +4,17 @@ export const overwhereIii00065 = {
   id: "01a0fe2b-e5d8-7f0c-ab14-1ed093afc80f",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-065",
+  ownLength: 205,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 65,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-oswin-fairley",
+    "character-other/overwhere-iii-marda-hesk",
+  ],
+  stepStatus: "step-status/reviewers",
   action: "“I’ll take is back to the post.”",
   beats: [
     '"I\'ll take it back to the Post," Nala says.',
@@ -27,6 +34,9 @@ export const overwhereIii00065 = {
   lore: [
     "lore/overwhere-iii-corruption-2",
     "lore/overwhere-iii-marda-hesk",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
+    "lore/overwhere-iii-nala-2-2",
     "lore/overwhere-iii-oswin-fairley",
     "place/overwhere-iii-fairley-farm",
     "place/overwhere-iii-merrowgate-guild-post",
