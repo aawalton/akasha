@@ -4,13 +4,14 @@ export const overwhereIv00064 = {
   id: "01a0fde3-f5f8-76b5-bd87-e74701acf927",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-064",
+  cover: "image/image-bd730a9668e6e235",
   ownLength: 137,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 64,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I repeat the rend, from the back this time, again and again until the head is separated from the neck",
   beats: [
@@ -32,6 +33,12 @@ export const overwhereIv00064 = {
     "place/overwhere-iv-crake-gill",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-04T14:43:00.000Z",
+  coverAfter: "With a crack, the ash splits a hand below the spearhead, and",
 } as const satisfies StoryTurnPlayed
