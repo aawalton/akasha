@@ -10,4 +10,5 @@ export const overwhereIv00079 = {
   stepStatus: "step-status/game-master",
   action: "I dodge out of the way and run again for the farm.",
   lore: ["lore/overwhere-iv-the-tangle-2"],
+  endsAt: "2026-10-06T21:47:00.000Z",
 } as const satisfies StoryTurnPlayed
