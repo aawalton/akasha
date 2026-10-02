@@ -168,7 +168,7 @@ export const overwhereITheDeserterCrew22 = {
     },
     {
       fact: "From the rim, 30 yards above, three men show crouched behind the mounds, watching the track.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Voss, by the hut door, packs a sack, glancing often at the track.",
