@@ -109,6 +109,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "Day 5's road climbs out of the fen country into pine forest; the twenty miles pass quiet.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ketter's Well, a stone well and lean-to clearing, lies by the road twenty miles east of Fenwatch.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
