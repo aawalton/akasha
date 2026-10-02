@@ -10,7 +10,7 @@ export const overwhereIv00067 = {
   position: 67,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Hah! I’m sure the sharpening helped, it kept the beast from me just long enough for it to die, but the shaft splintered at the head”",
   beats: [
@@ -29,6 +29,6 @@ export const overwhereIv00067 = {
     "lore/overwhere-iv-nala-3",
     "place/overwhere-iv-millbrook-smithy",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-05T10:03:00.000Z",
 } as const satisfies StoryTurnPlayed
