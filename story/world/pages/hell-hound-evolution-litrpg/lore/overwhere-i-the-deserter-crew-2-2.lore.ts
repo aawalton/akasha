@@ -286,5 +286,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Voss keeps the sack with him; he does not hide it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The camp hut holds bedrolls, a cask of salt pork, a spare crossbow and a purse of 30 copper.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
