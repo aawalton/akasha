@@ -4,6 +4,7 @@ export const overwhereIii00052 = {
   id: "01a0fd54-d8e1-707c-9925-7da98670de02",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-052",
+  cover: "image/image-be64b8d34aee949d",
   ownLength: 123,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -13,7 +14,7 @@ export const overwhereIii00052 = {
     "character-player/overwhere-iii-nala",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I go and rest at the shrine until my mana is full again, then go back to Brannagh’s and heal the burn if he’s still there, then check at the Post again",
   beats: [
@@ -40,6 +41,11 @@ export const overwhereIii00052 = {
     "place/overwhere-iii-wrenwood-crossroads",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-04T13:25:00.000Z",
 } as const satisfies StoryTurnPlayed
