@@ -4,10 +4,13 @@ export const overwhereIi00066 = {
   id: "01a0fd76-f7bc-7755-a38f-691de67dd9c6",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-066",
+  ownLength: 391,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 66,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“I don’t know, but this way, you’ll at least have a chance to plead their case and a bit of goodwill to spend on them. If you can get them to surrender quietly, all the better, but don’t give away the trap, that would backfire and end with all of you dead.”",
   beats: [
@@ -38,6 +41,12 @@ export const overwhereIi00066 = {
     "From the dark of the barn door, a soft, pleasant voice, almost smiling.",
     'The voice: "Nimble. They said you were. Put the spear down, healer, and nobody bleeds tonight."',
   ],
-  lore: ["lore/overwhere-ii-bet-loddon", "lore/overwhere-ii-reeve-corwin-dray-2"],
+  lore: [
+    "lore/overwhere-ii-bet-loddon",
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-reeve-corwin-dray-2",
+    "place/overwhere-ii-ashlin-farm",
+  ],
   endsAt: "2026-10-14T18:30:00.000Z",
 } as const satisfies StoryTurnPlayed
