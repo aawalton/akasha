@@ -4,10 +4,13 @@ export const overwhereIi00064 = {
   id: "01a0fd59-d64c-7321-aca4-cb8e21397f78",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-064",
+  ownLength: 358,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 64,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Come with me.” I take her arm I go and find Dray then tell him “I’m more certain than not that this woman is trying to lead me to the bandits, whether by intent or coercion I don’t know. Could wet turn this to our advantage?” I tell him, watching for the woman’s response with my heightened senses.",
   beats: [
@@ -39,6 +42,8 @@ export const overwhereIi00064 = {
   ],
   lore: [
     "lore/overwhere-ii-bet-loddon",
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
     "lore/overwhere-ii-oswy-crake",
     "lore/overwhere-ii-reeve-corwin-dray-2",
     "place/overwhere-ii-ashlin-farm",
