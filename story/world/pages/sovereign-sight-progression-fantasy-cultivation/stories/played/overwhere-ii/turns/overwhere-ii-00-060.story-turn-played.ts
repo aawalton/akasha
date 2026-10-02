@@ -11,7 +11,7 @@ export const overwhereIi00060 = {
   position: 60,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I get some more food and drink then use my anatomy knowledge from Earth to start infusing my muscles, precisely targeting one specific muscle at a time. I continue with this process, keeping rested and healthy, working through all of my muscles.",
   beats: [
@@ -38,6 +38,11 @@ export const overwhereIi00060 = {
   ],
   lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2", "place/overwhere-ii-tarrant-smithy"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-06T23:30:00.000Z",
 } as const satisfies StoryTurnPlayed

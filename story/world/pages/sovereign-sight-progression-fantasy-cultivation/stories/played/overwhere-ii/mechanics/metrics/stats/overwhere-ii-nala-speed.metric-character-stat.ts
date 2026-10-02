@@ -5,7 +5,7 @@ export const overwhereIiNalaSpeed = {
   type: "page-type/metric-character-stat",
   slug: "overwhere-ii-nala-speed",
   character: "character-player/overwhere-ii-nala",
-  value: 14,
+  value: 15,
   minValue: 0,
   history: "jsonl",
   unrevealed: true,
