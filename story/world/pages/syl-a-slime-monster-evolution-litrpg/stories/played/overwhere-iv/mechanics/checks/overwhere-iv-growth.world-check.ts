@@ -252,6 +252,14 @@ export const overwhereIvGrowth = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Spatial Sense's always-on reach is twice its level plus one, in paces.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Reached for, Spatial Sense costs 2 mana a minute, and 1 from its LV 5.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Personal Rift comes with the Riftmancer class, and to no one without it.",
     },
     {
