@@ -260,7 +260,11 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "The Thornmere wagon calls for the lead box at each new moon; the next is twelve days off.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "The lead box's stones are the only blightstones in Merrowgate; more come only from new kills.",
