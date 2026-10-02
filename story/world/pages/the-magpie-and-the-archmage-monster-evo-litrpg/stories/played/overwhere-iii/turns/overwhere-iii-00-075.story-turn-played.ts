@@ -10,4 +10,5 @@ export const overwhereIii00075 = {
   stepStatus: "step-status/game-master",
   action: "“Cleansed and merged into a glimmer. Can I give you the value in coin instead?”",
   lore: ["lore/overwhere-iii-marda-hesk", "lore/overwhere-iii-marda-hesk-2"],
+  endsAt: "2026-10-07T15:55:00.000Z",
 } as const satisfies StoryTurnPlayed
