@@ -88,5 +88,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Her legacy cannot yet melt stone to lava; heated stone only glows, cracks and bursts.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Held 30 seconds, a heated patch bursts, flinging hot chips 3 yards; it costs 20 mana a half-minute.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
