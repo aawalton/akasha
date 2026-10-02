@@ -88,6 +88,18 @@ function causeOfSubmit(held: SendCause | null, event: FormEvent): SendCause {
   return pressed ? SEND_BUTTON : SENT_UNSEEN
 }
 
+const FIRST_READ_GIVEN_MS = 3000
+
+export function useFirstRead(): readonly [boolean, () => void] {
+  const [read, setRead] = useState(false)
+  const onRead = useCallback(() => setRead(true), [])
+  useEffect(() => {
+    const given = window.setTimeout(onRead, FIRST_READ_GIVEN_MS)
+    return () => window.clearTimeout(given)
+  }, [onRead])
+  return [read, onRead]
+}
+
 function SignedOutNotice() {
   return (
     <p className={NOTE_LINE}>
@@ -106,6 +118,7 @@ export function ActionBar({
   making,
   undoneAt = 0,
   onWaiting,
+  onRead,
 }: {
   gameExternalId: string
   storyTitle: string
@@ -114,6 +127,7 @@ export function ActionBar({
   making: Making | null
   undoneAt?: number
   onWaiting?: (waiting: boolean) => void
+  onRead?: () => void
 }) {
   const userId = useUserId()
   const [pending, setPending] = useState<readonly PendingAction[]>([])
@@ -160,13 +174,16 @@ export function ActionBar({
   }, [gameExternalId, settle])
 
   useEffect(() => {
-    if (userId === null) return
-    void refresh()
+    if (userId === null) {
+      onRead?.()
+      return
+    }
+    void refresh().finally(() => onRead?.())
     const every = window.setInterval(() => {
       void refresh()
     }, POLL_MS)
     return () => window.clearInterval(every)
-  }, [userId, refresh])
+  }, [userId, refresh, onRead])
 
   useEffect(() => {
     void turnsSeen

@@ -74,5 +74,9 @@ export const actionBar = {
       decisionKind: "decision-kind/departure",
       statement: "Permission to notify is asked on a send rather than when the page opens.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The line says when its first read of the actions waiting has come back.",
+    },
   ],
 } as const satisfies Module

@@ -26,8 +26,9 @@ import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-t
 
 import type { PanelRun } from "akasha/story/ui/played-panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import {
+  type Shown,
   shownIn,
-  usePanelsDrawn,
+  usePanelsHeld,
 } from "akasha/story/ui/played-panel/modules/panel-loading/panel-loading.module.code.ts"
 import { above } from "akasha/story/ui/played-panel/panel-place/pages/above.panel-place.ts"
 import { aside } from "akasha/story/ui/played-panel/panel-place/pages/aside.panel-place.ts"
@@ -35,7 +36,10 @@ import { run } from "akasha/story/ui/played-panel/panel-place/pages/run.panel-pl
 import { panelPlace } from "akasha/story/ui/played-panel/panel-place/panel-place.page-type.ts"
 import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
 
-import { ActionBar } from "akasha/story/world/stories/played/modules/action-bar/action-bar.module.code.tsx"
+import {
+  ActionBar,
+  useFirstRead,
+} from "akasha/story/world/stories/played/modules/action-bar/action-bar.module.code.tsx"
 import { sendAction } from "akasha/story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts"
 import { usePlayedBeside } from "akasha/story/world/stories/played/modules/played-beside/played-beside.module.code.ts"
 import { PlayedChannel } from "akasha/story/world/stories/played/modules/played-channel/played-channel.module.code.tsx"
@@ -118,6 +122,10 @@ const RUN = namedAs(panelPlace.slug, run.slug, null)
 const STORY_KEY = "story"
 
 const ONE = 1
+
+const NO_PANELS: readonly Shown[] = []
+
+const UNSETTLED = "invisible"
 
 function shapeOf(list: PlayedList): ShapeDescriptor {
   return namedShapeDescriptor(list.pageTypeSlug, list.named)
@@ -273,7 +281,9 @@ function PlayedStory({
   }, [filed, sheetTurn, characterName])
   const externalId = beside.kind === "read" ? beside.beside.externalId : undefined
   const coordinatorAgent = beside.kind === "read" ? beside.beside.coordinatorAgent : undefined
-  const shown = usePanelsDrawn(stringsIn(data.panels))
+  const panelsHeld = usePanelsHeld(stringsIn(data.panels))
+  const shown = panelsHeld ?? NO_PANELS
+  const [barRead, onBarRead] = useFirstRead()
   const userId = useUserId()
   const [waiting, setWaiting] = useState(false)
   const [undoneAt, setUndoneAt] = useState(0)
@@ -343,6 +353,7 @@ function PlayedStory({
           making={making}
           undoneAt={undoneAt}
           onWaiting={setWaiting}
+          onRead={onBarRead}
         />
       </>
     )
@@ -358,31 +369,34 @@ function PlayedStory({
 
   const drawnAside = shownIn(shown, ASIDE)
   const drawnRun = shownIn(shown, RUN)
+  const settled = panelsHeld !== null && (barRead || bar === null)
 
   return (
-    <PlayedLayout
-      head={
-        <>
-          {titleRow}
-          {beside.kind === "unread" ? <p className={NOTE_LINE}>{GAME_UNREAD}</p> : null}
-        </>
-      }
-      panelsAbove={
-        <PlayedPanels shown={shownIn(shown, ABOVE)} envelope={envelope} run={panelRun} />
-      }
-      runDrawn={
-        drawnRun.length === 0 ? (
-          <PlayedChannel {...panelRun} />
-        ) : (
-          <PlayedPanels shown={drawnRun} envelope={envelope} run={panelRun} />
-        )
-      }
-      bar={bar}
-      panelsAside={
-        drawnAside.length === 0 ? null : (
-          <PlayedPanels shown={drawnAside} envelope={envelope} run={panelRun} />
-        )
-      }
-    />
+    <div className={settled ? undefined : UNSETTLED}>
+      <PlayedLayout
+        head={
+          <>
+            {titleRow}
+            {beside.kind === "unread" ? <p className={NOTE_LINE}>{GAME_UNREAD}</p> : null}
+          </>
+        }
+        panelsAbove={
+          <PlayedPanels shown={shownIn(shown, ABOVE)} envelope={envelope} run={panelRun} />
+        }
+        runDrawn={
+          drawnRun.length === 0 ? (
+            <PlayedChannel {...panelRun} />
+          ) : (
+            <PlayedPanels shown={drawnRun} envelope={envelope} run={panelRun} />
+          )
+        }
+        bar={bar}
+        panelsAside={
+          drawnAside.length === 0 ? null : (
+            <PlayedPanels shown={drawnAside} envelope={envelope} run={panelRun} />
+          )
+        }
+      />
+    </div>
   )
 }

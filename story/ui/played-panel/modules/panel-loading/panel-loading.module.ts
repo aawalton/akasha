@@ -47,5 +47,9 @@ export const panelLoading = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here is bundled with the app, so a new panel needs no deploy.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A screen can tell panels not loaded yet from panels loaded as none.",
+    },
   ],
 } as const satisfies Module

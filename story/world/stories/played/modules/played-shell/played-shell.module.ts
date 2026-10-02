@@ -49,6 +49,19 @@ export const playedShell = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The page shows once its panels are loaded and the bar's first read is back.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Until then it is laid out unseen, so where a reader lands never moves under them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A bar whose first read takes over three seconds is waited on no longer.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A story with no turn and no chapter of its own draws its title alone.",
     },
     {
