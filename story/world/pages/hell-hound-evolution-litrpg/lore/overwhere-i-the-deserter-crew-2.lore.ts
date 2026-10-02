@@ -146,5 +146,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Within two minutes Voss, Crow, both crossbowmen and Blademan Three slip out by the goat path.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Voss takes the toll silver with him up the goat path.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
