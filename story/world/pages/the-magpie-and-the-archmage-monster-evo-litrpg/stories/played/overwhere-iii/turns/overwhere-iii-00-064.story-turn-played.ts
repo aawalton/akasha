@@ -13,7 +13,7 @@ export const overwhereIii00064 = {
     "character-player/overwhere-iii-nala",
     "character-other/overwhere-iii-oswin-fairley",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I hit it with a Current Lash and Cleansing Weave together, braided, as hard as I can manage",
   beats: [
@@ -40,6 +40,6 @@ export const overwhereIii00064 = {
     "lore/overwhere-iii-oswin-fairley",
     "place/overwhere-iii-fairley-farm",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-06T08:40:00.000Z",
 } as const satisfies StoryTurnPlayed
