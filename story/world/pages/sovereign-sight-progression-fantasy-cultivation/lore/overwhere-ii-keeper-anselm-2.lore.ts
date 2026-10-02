@@ -21,7 +21,7 @@ export const overwhereIiKeeperAnselm2 = {
     },
     {
       fact: "Anselm says each part refined before a Descent makes its Tribulation easier to bear.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Anselm knows no Keeper practice for bone; he has heard it aches deep and goes slow.",
