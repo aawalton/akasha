@@ -83,7 +83,7 @@ export const overwhereIv0003TheBlackLine = {
     },
     {
       position: 36,
-      cover: "image/image-fd394ce1d3a2a2b3",
+      cover: "image/image-08e2629a454f5f6f",
       coverAfter: 'She sets the pencil down and meets your eyes. "Is that the',
     },
     {
