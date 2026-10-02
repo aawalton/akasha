@@ -4,6 +4,7 @@ export const overwhereIii00061 = {
   id: "01a0fdc7-0aa1-7001-b06b-e802e1c5d412",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-061",
+  cover: "image/image-59fad04b617909bf",
   ownLength: 124,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -14,7 +15,7 @@ export const overwhereIii00061 = {
     "character-other/overwhere-iii-bet-harrow",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I get dinner and sleep, then stop by Brannagh’s again in the morning",
   beats: [
     "At the Crook and Candle it's beef and onion stew with black bread. Nala eats it all.",
@@ -37,6 +38,11 @@ export const overwhereIii00061 = {
     "place/overwhere-iii-crook-and-candle",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-06T07:00:00.000Z",
 } as const satisfies StoryTurnPlayed
