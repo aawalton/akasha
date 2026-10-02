@@ -96,5 +96,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Heating stone is a Weave use; holding it is easy, and a man within 3 yards of a burst is struck.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Heating stone with the air ward held is two workings; neither is made harder.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
