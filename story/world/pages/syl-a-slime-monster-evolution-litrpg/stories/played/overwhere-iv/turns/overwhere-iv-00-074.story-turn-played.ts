@@ -7,7 +7,8 @@ export const overwhereIv00074 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 74,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Great! I give him the horn. I’m hunting the Tangle tonight. If there are enough goblins to be bothering them tonight, I’m going to make sure there aren’t tomorrow. I should be okay on my own, but I’ll be glad to know you’re nearby so I can fall back in your direction if I get overwhelmed. Is that okay?@",
+  lore: ["lore/overwhere-iv-brookside-four-2"],
 } as const satisfies StoryTurnPlayed
