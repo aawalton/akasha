@@ -66,7 +66,11 @@ export const overwhereIiiCorruption2 = {
     },
     {
       fact: "Three of the fox's four parts of blight were drawn before it died; one weave cracks its stone.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "The fox's blightstone is hazelnut-sized; bare skin on it brings a wash of revulsion.",
