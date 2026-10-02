@@ -108,5 +108,29 @@ export const overwhereIvMillbrookShrine = {
       fact: "The Wayfarer tale ends with him stepping through a door of his own making, never to return.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Asked for any book, Anwen hands over the vale chronicle, the one she loves best.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The chronicle keeps three hundred years of the Wendmere Vale: floods, plagues, reeves, harvests.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "It says goblins in the Tangle rise and ebb in waves; the last great wave was forty years ago.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "It says a cave-in killed four men at Crowstone the year the quarry shut; folk called it unlucky.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Its newest entries are in Anwen's hand; the last notes the mill shaft cracking this summer.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At Nala's pace the vale chronicle takes some twenty minutes to read through.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
