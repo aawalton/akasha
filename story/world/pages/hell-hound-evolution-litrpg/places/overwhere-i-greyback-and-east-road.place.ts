@@ -125,6 +125,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "Past the quarry, Osric's cart camps at Ketter's Well about 18:00 on day 5.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Dry grass on the quarry road's verge catches at once; the pines catch if a burst is fed three steps.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
