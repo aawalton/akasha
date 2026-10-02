@@ -38,7 +38,7 @@ export const overwhereIiTarrantSmithy = {
     },
     {
       fact: "When Nala does not come for it, Hob sends his boy to her cottage on day six to say it is ready.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Place
