@@ -8,9 +8,9 @@ export const hollowmere0013FromMemory = {
   unit: "unit/words",
   title: "From Memory",
   story: "story-written/hollowmere",
-  ownLength: 2803,
+  ownLength: 2796,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Saturday: you skip the swimmers and go down to the boathouse at seven, wrapped in Bea's jumper.",
     "Novice rowing: coxed fours on the grey water, mist on the mere, the captain bawling from a launch.",
