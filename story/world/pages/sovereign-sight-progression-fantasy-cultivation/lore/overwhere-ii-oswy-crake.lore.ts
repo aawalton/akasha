@@ -79,6 +79,10 @@ export const overwhereIiOswyCrake = {
       fact: "Pip reaches Grey Shaw by dusk on day eleven and tells Crake that Nala saw him watching her.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The boy who watched Nala on market day was hawking whittled whistles among the stalls.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

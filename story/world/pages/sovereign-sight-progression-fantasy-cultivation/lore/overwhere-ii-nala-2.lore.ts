@@ -272,5 +272,9 @@ export const overwhereIiNala2 = {
       fact: "By noon on day eleven Nala's ear bones, fingers, toes and other small bones are refined whole.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Each bone Nala refines aches deep in the marrow, like a fever, before it goes heavy and still.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
