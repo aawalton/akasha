@@ -124,5 +124,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "The stride carries her weight; a hurt leg does not slow it, and it draws mana, not stamina.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Stride, air ward and a beam together are three workings, her most.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
