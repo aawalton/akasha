@@ -96,5 +96,9 @@ export const overwhereIiAshlinFarm = {
       fact: "From Ashlin back to Wendle Ford is half a day's march at the prisoners' pace.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "At grey light the Pells lift the hurdle, and Big Harl stands roped between Col and Rob.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place
