@@ -75,6 +75,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Their Drakewolf sits leashed at Voss's side at the roadblock.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Osric pays Voss the silver toll without fuss, as he always has.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
