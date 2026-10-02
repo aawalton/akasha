@@ -14,7 +14,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "The venom choked all Nala's Locks, throat, palms and soles; the dart stayed in her neck.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "With her Locks choked, Nala cannot sense water around her, nor cycle, nor refine.",
