@@ -11,4 +11,5 @@ export const mariStoryRecorderEmberdeepFlex4 = {
   startMode: "seat-mode/headless",
   onCall: false,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "f71c4dc5-f84f-4f34-bc28-60504a0d8de2",
 } as const satisfies Seat
