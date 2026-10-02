@@ -39,5 +39,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Jays scolded along the cart track two miles off, where the four then crossed the clearing.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Crow and Five lie in the pines 25 yards off the track at a bend, a mile short of the camp.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
