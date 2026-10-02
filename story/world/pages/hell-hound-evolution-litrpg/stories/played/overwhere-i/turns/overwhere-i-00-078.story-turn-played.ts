@@ -4,7 +4,7 @@ export const overwhereI00078 = {
   id: "01a0fdab-3196-7da1-a4fa-b26b501ef619",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-078",
-  ownLength: 196,
+  ownLength: 192,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 78,
@@ -14,7 +14,7 @@ export const overwhereI00078 = {
     "character-other/overwhere-i-quarry-crewman-one",
     "character-other/overwhere-i-quarry-crewman-two",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "I use my concentrated beam of fire to finish the two men, aiming for the heads, then quietly start tracking the four that got away",
   beats: [
