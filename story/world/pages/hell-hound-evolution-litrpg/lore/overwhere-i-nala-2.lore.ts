@@ -92,5 +92,17 @@ export const overwhereINala2 = {
       fact: "At Level 10 Nala gains Strength 2, Dexterity 2, Vigor 2, Attunement 4 and Luck 1.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Nala carries Voss's sack, knotted over the toll and his head, purse, letter and tag.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Near midnight Nala climbed down into the quarry's easternmost gallery, a flame over her palm.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Nala took Crow's fine crossbow from his body at the bend.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore

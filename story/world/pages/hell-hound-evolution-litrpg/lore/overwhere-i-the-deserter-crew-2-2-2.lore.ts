@@ -68,5 +68,13 @@ export const overwhereITheDeserterCrew222 = {
       fact: "Near midnight the burned crew Drakewolf rose growling from among the gallery dead.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Nala cut off Voss's head with a spun blade of water and took it with his purse, letter and tag.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Nala cut the right ear and took the tag from the three camp dead, Crow and the helmed crossbowman.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
