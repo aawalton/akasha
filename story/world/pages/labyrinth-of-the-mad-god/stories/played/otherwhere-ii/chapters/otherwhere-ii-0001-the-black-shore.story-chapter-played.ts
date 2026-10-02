@@ -18,7 +18,7 @@ export const otherwhereIi0001TheBlackShore = {
     },
     {
       position: 2,
-      cover: "image/image-2a38b74c97352627",
+      cover: "image/image-bd89eaa0adef9d86",
       coverAfter: "They come down into a gap just ahead where the sun gets",
     },
     {
