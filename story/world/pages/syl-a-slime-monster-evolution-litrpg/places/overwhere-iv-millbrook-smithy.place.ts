@@ -14,11 +14,11 @@ export const overwhereIvMillbrookSmithy = {
     },
     {
       fact: "On Tobin's wall hangs one spear: a plain iron-headed hunting spear on ash, asking 80 copper.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Tobin can forge a leaf-bladed spearhead to order in two days, fitted to a new shaft, for 150 copper.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Steel spears worth a silver rank aren't made in Millbrook; they're bought in Aubrin.",
@@ -30,11 +30,11 @@ export const overwhereIvMillbrookSmithy = {
     },
     {
       fact: "Tobin can put an edge and point back on a blunted practice spear for 10 copper while she waits.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Tobin's best is the forged leaf blade: hardened iron that holds its edge far past the wall spear.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Tobin takes half a forging's price before he lights the fire, and the rest on collection.",
@@ -42,15 +42,19 @@ export const overwhereIvMillbrookSmithy = {
     },
     {
       fact: "Tobin sizes a shaft to its wielder; he has her hold a spear, and cuts the new one to her height.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Tobin has heard of the redhead's spear trick at the Brook and Barrel, and only grunts at it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The practice spear is the guard's stores; Tobin won't buy it or take it in trade.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin Ash's smithy sits on Millbrook's square.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Place
