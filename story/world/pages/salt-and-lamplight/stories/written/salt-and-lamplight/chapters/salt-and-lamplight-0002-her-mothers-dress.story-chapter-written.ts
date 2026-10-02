@@ -16,7 +16,7 @@ export const saltAndLamplight0002HerMothersDress = {
   stepStatus: "step-status/player",
   beats: [
     "Nala wakes in the loft at grey dawn, still in this small body, still Nala.",
-    "She lies a while with a hand on her tits under the shift; it doesn't feel like a dream.",
+    "She lies a while with a hand on her breasts under the shift; it doesn't feel like a dream.",
     "Below, the fire is made up and Morwenna's bed already straightened, the cottage empty.",
     "She has to piss, finds the privy behind the goat shed, and works out how to do it sitting.",
     "Morwenna's voice calls from the tower door: if she wants to see the lamp put out, it's now.",
