@@ -79,5 +79,13 @@ export const overwhereIiOswyCrake2 = {
       fact: "A needle dart from Crake's left cuff broke the skin of Nala's neck; cold creeps toward her Locks.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Crake's cuff dart is the one Dray warned of; its venom chokes a Talent's Locks.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Nala's spear thrust lifted Crake off his feet and slammed him against a barn post.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore

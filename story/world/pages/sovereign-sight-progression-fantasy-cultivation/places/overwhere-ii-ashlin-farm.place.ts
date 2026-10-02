@@ -60,5 +60,9 @@ export const overwhereIiAshlinFarm = {
       fact: "The loft's floor boards run over the barn's front half; the back half is open to the rafters.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The barn is dim inside, its floor strewn with straw.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place
