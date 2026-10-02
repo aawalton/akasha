@@ -24,11 +24,16 @@ export const overwhereIv00068 = {
     "Then he holds the spear out to her, butt first.",
     '"There. Nothing\'ll climb that."',
   ],
+  issues: [
+    '"Simple work." - prose leaves out the beat\'s "Wait, if you like."',
+    '"A beast won\'t climb past that." - the beat has Tobin say "Nothing\'ll climb that."',
+  ],
   lore: [
     "lore/overwhere-iv-nala",
     "lore/overwhere-iv-nala-2",
     "lore/overwhere-iv-nala-3",
     "place/overwhere-iv-millbrook-smithy",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-05T10:58:00.000Z",
 } as const satisfies StoryTurnPlayed
