@@ -8,9 +8,9 @@ export const hollowmere0011ClothedToStart = {
   unit: "unit/words",
   title: "Clothed, to Start",
   story: "story-written/hollowmere",
-  ownLength: 3103,
+  ownLength: 3111,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Thursday: dawn at the boathouse, the register, the whistle; fewer shriekers on the shingle today.",
     'Shiv signs "Doyle (reluctant, again)"; you two swim out to the buoy and hang there, breathing.',
