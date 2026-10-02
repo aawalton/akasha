@@ -10,5 +10,14 @@ export const emberdeep0001 = {
   story: "story-written/emberdeep",
   ownLength: 0,
   prose: "txt",
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
+  lore: [
+    "lore/emberdeep-elowen",
+    "lore/emberdeep-nala",
+    "lore/emberdeep-world",
+    "lore/emberdeep-wren",
+    "place/emberdeep-corbel-house",
+    "place/emberdeep-guild-hall",
+    "place/emberdeep-town",
+  ],
 } as const satisfies StoryChapterWritten
