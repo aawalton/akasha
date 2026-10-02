@@ -14,7 +14,7 @@ export const overwhereIii00055 = {
     "character-other/overwhere-iii-marda-hesk",
     "character-other/overwhere-iii-bet-harrow",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I work on the next blightstone while my mana lasts, then wind down for the night.",
   beats: [
     "Marda lifts the stag's second stone out with her tongs and sets it on the desk.",
@@ -41,6 +41,6 @@ export const overwhereIii00055 = {
     "place/overwhere-iii-crook-and-candle",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-04T18:00:00.000Z",
 } as const satisfies StoryTurnPlayed
