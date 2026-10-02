@@ -102,7 +102,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "Nala can refine bone as she walks, if left in silence; her mind, not her feet, holds the tide.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Refining a hip or leg bone as she walks, its marrow ache turns Nala's stride to a limp.",
