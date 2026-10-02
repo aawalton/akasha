@@ -163,6 +163,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Voss has 90 health; his steel cap wards 2 against a slug; his axe does 22 harm.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "After the first slug Voss's shield is up; curving a guided slug round it is a hard act.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
