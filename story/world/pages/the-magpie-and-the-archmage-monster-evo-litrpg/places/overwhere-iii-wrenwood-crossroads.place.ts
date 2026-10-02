@@ -132,6 +132,10 @@ export const overwhereIiiWrenwoodCrossroads = {
       fact: "A weave fed wholly from white-gold current costs no mana of her own, but burns her hands: 1 health.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Feeding a weave from current alone is fiddly at first; a slip costs only the try. The knack stays.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
