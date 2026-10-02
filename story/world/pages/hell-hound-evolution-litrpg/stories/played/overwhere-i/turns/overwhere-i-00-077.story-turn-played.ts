@@ -14,7 +14,7 @@ export const overwhereI00077 = {
     "character-other/overwhere-i-quarry-crewman-one",
     "character-other/overwhere-i-quarry-crewman-two",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "I circle around, as quietly as I can, trying to get eyes on any of the bandits.",
   beats: [
     "Nala slips back from her boulders and circles east through the pines, light on her hurt leg.",
@@ -25,7 +25,7 @@ export const overwhereI00077 = {
     "From the rim, fifteen yards off and above, she can see into the easternmost gallery.",
     "Behind a heap of spoil, a burned blademan sits against the wall, his sword across his knees.",
     "Beside him the other burned blademan lies moaning.",
-    "Neither has heard her; the sitting man keeps his sword in hand, his eyes on the pit floor.",
+    "The sitting man stares at the pit floor, sword in hand, unaware of the woman above him.",
   ],
   issues: ['"Neither of them looks up." - Nobody Acts'],
   lore: [
