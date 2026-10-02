@@ -372,6 +372,10 @@ export const overwhereIiiCorruption = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "A corrupted ridge fox of about Level 5 roams the hedges by the Thornmere road farms.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
