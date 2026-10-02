@@ -157,7 +157,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray judges Bet no robber; she may go home to Carrowmouth once she has spoken before Lady Varrow.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Big Harl gets no clemency from Dray; he will hang, unless he too names something worth his neck.",
