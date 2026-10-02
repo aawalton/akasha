@@ -106,7 +106,7 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "Yellow and orange nameplates are stronger foes; light pink, a higher tier; red, deadly.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Black nameplates belong only to dungeon masters and the guardians of regions.",
