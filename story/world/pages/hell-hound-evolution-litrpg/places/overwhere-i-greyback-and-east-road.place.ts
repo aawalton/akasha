@@ -231,7 +231,7 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "At Brennock Ford a westbound drover grumbles that Wendlow's guild sold dark, empty crystals as full.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Brennock Ford is a hamlet of five farms by a stone-paved ford, with the two-storey Ford Inn.",
