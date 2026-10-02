@@ -32,5 +32,9 @@ export const overwhereIiiOswinFairley = {
         "character-other/overwhere-iii-oswin-fairley",
       ],
     },
+    {
+      fact: "Oswin presses 5 copper on Nala for the fox's tail, the farmers' due, and a dozen eggs in a cloth.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-oswin-fairley"],
+    },
   ],
 } as const satisfies Lore
