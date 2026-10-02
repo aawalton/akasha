@@ -74,6 +74,10 @@ export const hollowmereKit = {
       fact: "Kit is tiny and very pale, with cool grey-green eyes, sharp cheekbones and a silver ring.",
       knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
     },
+    {
+      fact: "Kit cannot cast while anyone watches her; under eyes her magic simply freezes.",
+      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-kit"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
