@@ -37,5 +37,6 @@ export const overwhereIi00060 = {
   ],
   lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2", "place/overwhere-ii-tarrant-smithy"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-10-06T23:30:00.000Z",
 } as const satisfies StoryTurnPlayed
