@@ -219,5 +219,9 @@ export const overwhereIiReeveCorwinDray2 = {
       fact: "At Ashlin Dray takes the keys from Crake's belt and opens the coin box by lamplight.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "At Ashlin Dray counts Crake's coin and holds out four silver bars to Nala as her third.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore

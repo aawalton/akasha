@@ -30,7 +30,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "Penned, Nala's Water presses at her choked Locks; by night it spills out as cold salt sweat.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Nothing in the valley clears the venom faster; it must wear off on its own.",
