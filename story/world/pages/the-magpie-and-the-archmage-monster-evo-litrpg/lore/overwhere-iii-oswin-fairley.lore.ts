@@ -34,7 +34,11 @@ export const overwhereIiiOswinFairley = {
     },
     {
       fact: "Oswin presses 5 copper on Nala for the fox's tail, the farmers' due, and a dozen eggs in a cloth.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-oswin-fairley"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-oswin-fairley",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Oswin flicks the fox's stone with his stick into an old leather pouch, and gives Nala the pouch.",
