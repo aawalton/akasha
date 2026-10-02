@@ -11,5 +11,5 @@ export const overwhereIiNala = {
   maxValue: 30,
   history: "jsonl",
   displayOrder: 1,
-  revealedAs: "A dart's sting in the neck; cold creeping toward the Locks",
+  revealedAs: "The venom's cold heavy in the neck, nearly at the Locks",
 } as const satisfies MetricCharacterHealth

@@ -11,7 +11,7 @@ export const overwhereIi00068 = {
   position: 68,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I burst out with my Talent, pull down and forward on his head and pushing up on the spear as I pull it back then thrust it forward, faster than it should be able to move, straight into his neck.",
   beats: [
@@ -41,6 +41,11 @@ export const overwhereIi00068 = {
     "place/overwhere-ii-ashlin-farm",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-14T18:31:00.000Z",
 } as const satisfies StoryTurnPlayed
