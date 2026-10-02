@@ -318,5 +318,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Voss's shield, held up before him, wards 4; under it his mail shirt wards 1.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Seeing her walk out and hearing her, Voss charges with shield high to close before she can burn him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
