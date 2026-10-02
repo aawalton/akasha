@@ -322,5 +322,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Seeing her walk out and hearing her, Voss charges with shield high to close before she can burn him.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Charging over rough ground, Voss crosses 30 yards in about 5 seconds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
