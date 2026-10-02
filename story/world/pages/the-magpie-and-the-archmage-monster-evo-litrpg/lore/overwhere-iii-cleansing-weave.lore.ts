@@ -56,5 +56,9 @@ export const overwhereIiiCleansingWeave = {
       fact: "Each seed stone cracked with a Cleansing Weave counts as a use of the skill.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The turned snap-back bites the blight too: a looped weave pales a blightstone half again as much.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
