@@ -52,5 +52,9 @@ export const overwhereIiiMendingWeave = {
       fact: "A Mending Weave works on her own body as on anyone's; laid on her own burn, it closes it the same.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A shallow burn like a current scald is a small wound; one Mending Weave closes it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
