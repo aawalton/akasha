@@ -4,13 +4,14 @@ export const overwhereIi00062 = {
   id: "01a0fd3f-55e5-7b88-a262-bde3a7b68ffb",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-062",
+  cover: "image/image-b9cbbffcf0a862d0",
   ownLength: 366,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 62,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“I’ve heard the call a few times, ignored it for now. I’ll answer when I’m ready and not before.” I go back to my preparation routine, working on my bones. Similar to me muscles, I use my knowledge of anatomy to work through the bones, one at a time, working from smallest to largest.",
   beats: [
@@ -50,6 +51,11 @@ export const overwhereIi00062 = {
     "place/overwhere-ii-wendle-ford",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-09T12:00:00.000Z",
 } as const satisfies StoryTurnPlayed
