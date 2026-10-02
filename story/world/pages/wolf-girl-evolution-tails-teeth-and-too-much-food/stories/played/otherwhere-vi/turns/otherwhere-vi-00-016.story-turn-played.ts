@@ -5,6 +5,7 @@ export const otherwhereVi00016 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-vi-00-016",
   cover: "image/image-88058eefc0f86d2a",
+  coverAfter: "A red glow shows through the turf, low down, the size of",
   ownLength: 373,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],

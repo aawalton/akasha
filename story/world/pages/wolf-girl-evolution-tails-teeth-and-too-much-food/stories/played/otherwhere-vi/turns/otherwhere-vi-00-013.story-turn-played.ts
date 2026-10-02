@@ -5,6 +5,7 @@ export const otherwhereVi00013 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-vi-00-013",
   cover: "image/image-f1405c64a761f82b",
+  coverAfter: "The old man spits into the fire and looks at you across",
   ownLength: 369,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],

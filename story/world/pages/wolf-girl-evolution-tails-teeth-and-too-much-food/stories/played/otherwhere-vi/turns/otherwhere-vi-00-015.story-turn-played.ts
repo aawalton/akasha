@@ -5,6 +5,7 @@ export const otherwhereVi00015 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-vi-00-015",
   cover: "image/image-9ef01adc6c4e4eb7",
+  coverAfter: "The great moon comes up over the river, huge and round and",
   ownLength: 361,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],

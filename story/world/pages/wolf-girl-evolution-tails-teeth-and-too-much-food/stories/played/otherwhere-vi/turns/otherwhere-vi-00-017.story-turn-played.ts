@@ -5,6 +5,7 @@ export const otherwhereVi00017 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-vi-00-017",
   cover: "image/image-493ea53c312c87b6",
+  coverAfter: "You hand the shovel to Jory, lift the door-hide, and go in",
   ownLength: 193,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],

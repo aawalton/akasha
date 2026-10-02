@@ -5,6 +5,7 @@ export const otherwhereVi00014 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-vi-00-014",
   cover: "image/image-23df81eb0cfaadc8",
+  coverAfter: 'Wat looks at you across the fire. "Can you sit awake in',
   ownLength: 323,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],
