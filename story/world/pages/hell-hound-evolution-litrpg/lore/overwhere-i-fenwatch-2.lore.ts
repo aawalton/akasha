@@ -47,5 +47,9 @@ export const overwhereIFenwatch2 = {
       fact: "Hessa Vane rides into Fenwatch about 9:00 on day 4, after Nala and Rowan have gone into the fen.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At 17:00 on day 4 half the village crowds the green to see Ghost-Eye's head on Rowan's sled.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
