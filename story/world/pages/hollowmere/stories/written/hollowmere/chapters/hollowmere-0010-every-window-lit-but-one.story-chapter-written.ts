@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0010 = {
+export const hollowmere0010EveryWindowLitButOne = {
   id: "01a0fe5e-f4eb-77c5-91e0-c673b0283c82",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0010",
+  slug: "hollowmere-0010-every-window-lit-but-one",
   position: 10,
   unit: "unit/words",
-  title: "Chapter 10",
+  title: "Every Window Lit but One",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 3796,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Wednesday: you wake clear-headed, the headache gone, Kit's handkerchief still in your hand.",
     "Dawn at the boathouse: the cold-water swimmers' first morning, a register, a safety boat, a whistle.",
@@ -58,5 +58,23 @@ export const hollowmere0010 = {
     "You fall asleep with Kit's handkerchief under your pillow and the taste of sugar on your lips.",
     "A day at Hollowmere ends.",
   ],
-  lore: ["lore/hollowmere-academy-2", "place/hollowmere-academy"],
+  lore: [
+    "lore/hollowmere-academy-2",
+    "lore/hollowmere-bea",
+    "lore/hollowmere-kit",
+    "lore/hollowmere-lin",
+    "lore/hollowmere-nala",
+    "lore/hollowmere-nala-2",
+    "lore/hollowmere-shiv",
+    "lore/hollowmere-yusra",
+    "place/hollowmere-academy",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-shiv",
+    "character-other/hollowmere-yusra",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-lin",
+    "character-other/hollowmere-kit",
+  ],
 } as const satisfies StoryChapterWritten
