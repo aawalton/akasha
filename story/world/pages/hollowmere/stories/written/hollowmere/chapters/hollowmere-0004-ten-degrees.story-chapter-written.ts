@@ -91,4 +91,5 @@ export const hollowmere0004TenDegrees = {
     "character-other/hollowmere-yusra",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryChapterWritten
