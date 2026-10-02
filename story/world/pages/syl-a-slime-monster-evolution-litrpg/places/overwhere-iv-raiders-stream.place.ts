@@ -116,5 +116,49 @@ export const overwhereIvRaidersStream = {
       fact: "Nala's rend cut the hobgoblin's throat before he blew; his horn lies silent in the mud.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "The cowering sheep-watcher won't fight or flee; it only shakes, its knife slack in its fist.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Every raider carries an iron knife, rusty and notched, good enough to take an ear.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The hobgoblin's cleaver is heavy, notched iron; a smith would give a few copper for it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The horn is a cracked ox horn on a greasy cord; it is worth nothing but as proof.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The hobgoblin's belt pouch holds 6 copper and a brass ring cut from some farmer's hand.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The bowmen's two short bows are crude, warped things; their few arrows are bone-tipped.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The rest of the raiders carry clubs, rags and nothing worth taking; goblins hold no cores.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The five living sheep are tied neck to neck on one rope; led by it, they follow, slowly.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Leading tired sheep back down the deer trail out of the Tangle takes about two hours.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The raiders were due at Grakk's camp by dusk; when none come, he sends scouts at dawn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Grakk's scouts will find the raiders cut clean, with no tracks of a band, and ears gone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
