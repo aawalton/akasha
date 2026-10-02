@@ -265,5 +265,13 @@ export const overwhereIiiNala2 = {
         "character-other/overwhere-iii-bet-harrow",
       ],
     },
+    {
+      fact: "The first weave into the stag's second stone snapped back and stung Nala's hand to the wrist.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
 } as const satisfies Lore
