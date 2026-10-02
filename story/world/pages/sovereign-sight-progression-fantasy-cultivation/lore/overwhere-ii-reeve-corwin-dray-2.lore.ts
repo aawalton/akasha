@@ -227,5 +227,9 @@ export const overwhereIiReeveCorwinDray2 = {
       fact: "Thanked, Dray says Nala earned every bar, and Crake's five besides, and bids her drink and sleep.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "The Carrowmouth watch pays Crake's five bars once they have seen his body, some days yet.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
