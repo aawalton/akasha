@@ -53,7 +53,7 @@ export const otherwhereIv0001TheSpiritOfKnowledge = {
     },
     {
       position: 9,
-      cover: "image/image-ecfdebf8a7fc84d9",
+      cover: "image/image-173abe95d1a19fad",
       coverAfter: "Gu is silent. His eyes go up past you, to the pale",
     },
     {
