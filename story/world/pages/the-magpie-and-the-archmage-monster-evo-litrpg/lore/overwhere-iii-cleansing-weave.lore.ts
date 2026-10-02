@@ -50,7 +50,11 @@ export const overwhereIiiCleansingWeave = {
     },
     {
       fact: "Ten glimmer specks pressed together in a bare palm fuse into one whole glimmerstone.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "Each seed stone cracked with a Cleansing Weave counts as a use of the skill.",
