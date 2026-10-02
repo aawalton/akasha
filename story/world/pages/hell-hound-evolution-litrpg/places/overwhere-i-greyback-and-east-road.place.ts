@@ -105,6 +105,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "Harl Voss's band strikes carts in the woods where the east road nears the river Wend, on day three.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Day 5's road climbs out of the fen country into pine forest; the twenty miles pass quiet.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
