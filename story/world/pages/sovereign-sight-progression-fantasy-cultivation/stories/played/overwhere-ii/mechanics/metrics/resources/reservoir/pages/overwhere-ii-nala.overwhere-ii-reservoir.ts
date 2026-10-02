@@ -5,10 +5,10 @@ export const overwhereIiNala = {
   type: "page-type/overwhere-ii-reservoir",
   slug: "overwhere-ii-nala",
   character: "character-player/overwhere-ii-nala",
-  value: 994,
+  value: 1000,
   minValue: 0,
   maxValue: 1000,
   history: "jsonl",
   displayOrder: 2,
-  revealedAs: "Full and penned, leaking as cold sweat dried to grey salt",
+  revealedAs: "Deep and full again, but moving stiff and slow",
 } as const satisfies OverwhereIiReservoir
