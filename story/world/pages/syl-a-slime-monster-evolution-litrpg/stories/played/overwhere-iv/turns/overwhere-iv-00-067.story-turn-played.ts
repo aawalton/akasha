@@ -11,4 +11,5 @@ export const overwhereIv00067 = {
   action:
     "“Hah! I’m sure the sharpening helped, it kept the beast from me just long enough for it to die, but the shaft splintered at the head”",
   lore: ["place/overwhere-iv-millbrook-smithy"],
+  endsAt: "2026-10-05T10:03:00.000Z",
 } as const satisfies StoryTurnPlayed
