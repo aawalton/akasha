@@ -10,4 +10,5 @@ export const overwhereI00096 = {
   stepStatus: "step-status/game-master",
   action: "“I’m a bounty hunter, here to turn in some bounties.”",
   lore: ["place/overwhere-i-wendlow"],
+  endsAt: "2026-10-05T11:45:00.000Z",
 } as const satisfies StoryTurnPlayed
