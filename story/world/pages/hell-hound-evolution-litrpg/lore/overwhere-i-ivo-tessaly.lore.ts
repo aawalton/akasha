@@ -35,6 +35,10 @@ export const overwhereIIvoTessaly = {
       fact: "He would try to buy a capable hunter's whole take at a fixed low price.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ivo Tessaly's seal is on the letter Voss carried; Ivo wrote it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
