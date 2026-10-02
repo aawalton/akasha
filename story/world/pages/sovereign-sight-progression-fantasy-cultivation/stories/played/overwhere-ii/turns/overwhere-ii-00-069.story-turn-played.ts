@@ -10,7 +10,7 @@ export const overwhereIi00069 = {
   position: 69,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "I use my Talent and Push the venom and the dart out of me as hard as I can.",
   beats: [
     "Nala reaches for her Water and Pushes, hard, out through the prick in her neck.",
@@ -20,7 +20,7 @@ export const overwhereIi00069 = {
     "One after another they clench shut: throat, palms, soles. The Push dies in her.",
     "Her Water is still there, deep and full, but penned in her well. She cannot reach it.",
     "No Undertow. Not a ripple, not even the soft sense of the water around her.",
-    "Her body is still her own: refined skin, muscle and bone, and her legs steady under her.",
+    "Her body is still her own: refined skin and muscle, and her legs steady under her.",
     "The needle dart still hangs in the side of her neck.",
     "Crake lies still in the straw at her feet, the brine soaking out around him.",
     "Overhead, boards creak. A man's voice from the loft, steady but hoarse.",
