@@ -314,5 +314,9 @@ export const overwhereITheDeserterCrew22 = {
         "character-other/overwhere-i-harl-voss",
       ],
     },
+    {
+      fact: "Voss's shield, held up before him, wards 4; under it his mail shirt wards 1.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
