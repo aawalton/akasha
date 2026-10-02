@@ -22,7 +22,7 @@ export const overwhereIiVarrowKeep = {
     },
     {
       fact: "The Keep's gate is barred at dusk, and the Lady receives no one after dark.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The road from the Ford to the Keep runs east up the valley, past scattered farms.",
