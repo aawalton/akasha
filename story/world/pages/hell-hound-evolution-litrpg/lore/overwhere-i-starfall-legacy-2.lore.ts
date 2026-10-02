@@ -136,5 +136,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Nala's mana returns about 3 a minute while she rests or walks.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Twin beams that both strike land as two beam hits at once.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
