@@ -117,7 +117,7 @@ export const overwhereIiSirEdricHale = {
     },
     {
       fact: "Sir Edric means to ride for Varrow Keep at dawn tomorrow, to tell Lady Varrow himself.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Having heard Nala, Sir Edric asks her to Varrow Keep in Lady Varrow's name, to tell it there.",
