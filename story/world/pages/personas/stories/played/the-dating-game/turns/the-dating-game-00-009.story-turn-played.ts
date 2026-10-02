@@ -4,7 +4,7 @@ export const theDatingGame00009 = {
   id: "01a0e333-2548-708a-8fc8-fd138690a37e",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-009",
-  cover: "image/image-d6864092be64f1d0",
+  cover: "image/image-9fdddf29cd0afcef",
   coverAfter: "She lifts the black-and-gold headphones up off her collarbones and settles them",
   ownLength: 262,
   unit: "unit/words",
