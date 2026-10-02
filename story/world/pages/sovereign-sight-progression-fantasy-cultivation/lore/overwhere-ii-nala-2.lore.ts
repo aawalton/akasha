@@ -225,6 +225,38 @@ export const overwhereIiNala2 = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The three tiny bones of each ear refine first, in minutes; after, sounds ring a shade clearer.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Small bones go many to a day; a long bone like the thigh takes Nala an hour or more alone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Refining her spine, each vertebra sends a cold shock down her limbs that she must sit through.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Refining her skull gives Nala a pounding headache that lasts till she sleeps.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Refining bone gives Nala a craving for salt, milk and bone broth, and she runs hot at night.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A refined bone feels heavy and still, like stone under water; she weighs a little more.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Begun on day nine, smallest to largest, Nala's bones are all refined whole by day twenty-two.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ignored, the dream grows: by the second week Nala wakes from it each night, cold and salt-damp.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "On the night of day eight Nala dreams of the tarn, and a stair of black water going down.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
