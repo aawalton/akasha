@@ -37,7 +37,7 @@ export const overwhereIiLoddonBrothers = {
     },
     {
       fact: "Wil knows Crake keeps three Talented chained in a cellar in Carrowmouth's Salt Lanes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Wil will tell which cellar in the Salt Lanes, if it buys his and Kit's lives.",
