@@ -48,5 +48,9 @@ export const overwhereIiNala3 = {
       fact: "Running choked, Nala could cover the twelve miles to Grey Shaw in about two hours.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "With her Locks choked, Nala's penned Water presses at them from within.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
