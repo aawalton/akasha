@@ -261,7 +261,7 @@ export const overwhereIiiMerrowgate = {
     },
     {
       fact: "The pens smell of dung and wet straw; drovers lean on the rails trading prices and road news.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",
