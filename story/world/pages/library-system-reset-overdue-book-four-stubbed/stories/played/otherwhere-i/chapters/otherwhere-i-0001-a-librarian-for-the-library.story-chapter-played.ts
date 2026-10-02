@@ -93,7 +93,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 17,
-      cover: "image/image-a8a037af1e753c37",
+      cover: "image/image-d607784812f0a7a9",
       coverAfter: "Links's ears go back flat.",
     },
     {
