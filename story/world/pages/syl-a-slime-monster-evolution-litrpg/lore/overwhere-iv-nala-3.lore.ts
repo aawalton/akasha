@@ -20,10 +20,7 @@ export const overwhereIvNala3 = {
       fact: "Dimension magic's spells share one root; a sense of space can learn to guide a fold.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Nala has one earnest use toward Sense Casting, from Crake Gill.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "Rending by sense feels learnable to Nala, not a wall; six tries taught her all they can today.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
