@@ -17,7 +17,7 @@ export const overwhereIii00049 = {
     "character-other/overwhere-iii-hild-wendle",
     "character-other/overwhere-iii-edda-crane",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I go and check at the clinic, then at the post, using up my mana, then go back to reading",
   beats: [
@@ -50,6 +50,11 @@ export const overwhereIii00049 = {
     "place/overwhere-iii-merrowgate-guild-post",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/inventory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/memory",
+    "story-recorder/inventory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-03T18:00:00.000Z",
 } as const satisfies StoryTurnPlayed

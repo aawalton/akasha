@@ -7,7 +7,7 @@ export const overwhereIiiNala = {
   character: "character-player/overwhere-iii-nala",
   value: 30,
   minValue: 0,
-  maxValue: 30,
+  maxValue: 33,
   history: "jsonl",
   displayOrder: 1,
   revealedAs: "Sore to the bone, and glad of it",
