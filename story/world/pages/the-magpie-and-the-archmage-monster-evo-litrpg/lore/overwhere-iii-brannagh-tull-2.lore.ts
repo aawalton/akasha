@@ -317,5 +317,9 @@ export const overwhereIiiBrannaghTull2 = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
+    {
+      fact: "His cheek smoothed, the cooper's boy grinned, felt his face and ran off down the lane wordless.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore

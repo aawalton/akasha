@@ -46,6 +46,6 @@ export const overwhereIii00068 = {
     "place/overwhere-iii-crook-and-candle",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
   endsAt: "2026-10-07T10:30:00.000Z",
 } as const satisfies StoryTurnPlayed

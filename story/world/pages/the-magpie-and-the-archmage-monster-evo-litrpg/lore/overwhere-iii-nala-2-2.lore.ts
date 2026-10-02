@@ -32,5 +32,13 @@ export const overwhereIiiNala22 = {
         "character-other/overwhere-iii-bet-harrow",
       ],
     },
+    {
+      fact: "After day nine's drill Nala is sweating and sore but still on her feet; her staff work comes easier.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-maud-ferrow",
+      ],
+    },
   ],
 } as const satisfies Lore
