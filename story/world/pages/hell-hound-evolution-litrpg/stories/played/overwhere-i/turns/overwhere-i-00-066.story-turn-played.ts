@@ -4,10 +4,13 @@ export const overwhereI00066 = {
   id: "01a0fd18-f41b-7fc8-b3dd-f4e716627a82",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-066",
+  ownLength: 148,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 66,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
+  stepStatus: "step-status/reviewers",
   action:
     "“How far to Wendlow again? I’d love to get this turned in and paid for before it stinks too much.”",
   beats: [
@@ -24,6 +27,8 @@ export const overwhereI00066 = {
     "lore/overwhere-i-fenwatch-2",
     "lore/overwhere-i-garrick-pell",
     "lore/overwhere-i-hessa-vane",
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
     "lore/overwhere-i-osric-fenn",
     "lore/overwhere-i-tobin-ashdown",
     "place/overwhere-i-greyback-and-east-road",
