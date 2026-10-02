@@ -201,7 +201,7 @@ export const overwhereIiiMardaHesk = {
       ],
     },
     {
-      fact: "Beside the wolf's second blightstone, Marda's lead box holds the six seed stones Nala brought in.",
+      fact: "Marda's lead box holds the wolf's second blightstone alone; the seed stones went out with Nala.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/overwhere-iii-nala",
