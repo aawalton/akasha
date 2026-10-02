@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0003 = {
+export const hollowmere0003FeetInTheMere = {
   id: "01a0fd72-23f1-7054-a0d9-816c0e11a6dd",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0003",
+  slug: "hollowmere-0003-feet-in-the-mere",
   position: 3,
   unit: "unit/words",
-  title: "Chapter 3",
+  title: "Feet in the Mere",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 6115,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Half six, Wednesday: Bea bangs on your door; you groan, and go, legs still stiff from yesterday.",
     "Bea makes you run slow this time; you last ten minutes before your lungs give, double yesterday.",
@@ -70,5 +70,24 @@ export const hollowmere0003 = {
     'At the door her hand rests on your shoulder a moment: "Sleep, Ashby." You do, almost at once.',
     "A day at Hollowmere ends.",
   ],
-  lore: ["lore/hollowmere-nala", "place/hollowmere-academy", "place/hollowmere-village"],
+  lore: [
+    "lore/hollowmere-amara",
+    "lore/hollowmere-bea",
+    "lore/hollowmere-kit",
+    "lore/hollowmere-lin",
+    "lore/hollowmere-nala",
+    "lore/hollowmere-shiv",
+    "lore/hollowmere-yusra",
+    "place/hollowmere-academy",
+    "place/hollowmere-village",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-shiv",
+    "character-other/hollowmere-lin",
+    "character-other/hollowmere-kit",
+    "character-other/hollowmere-amara",
+    "character-other/hollowmere-yusra",
+  ],
 } as const satisfies StoryChapterWritten
