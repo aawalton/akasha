@@ -338,7 +338,7 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "[Inventory – At [Basic] level, keep a knapsack's worth in a pocket bound to you.]",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Appraise sells in the skill shop for 5 glimmerstones.",
