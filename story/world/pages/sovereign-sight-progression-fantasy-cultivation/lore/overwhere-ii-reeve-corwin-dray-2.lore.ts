@@ -223,5 +223,9 @@ export const overwhereIiReeveCorwinDray2 = {
       fact: "At Ashlin Dray counts Crake's coin and holds out four silver bars to Nala as her third.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Thanked, Dray says it is the valley that owes her, and bids her drink, eat, and sleep till dawn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
