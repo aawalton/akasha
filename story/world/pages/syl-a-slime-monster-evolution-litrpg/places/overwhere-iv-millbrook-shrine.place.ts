@@ -38,7 +38,7 @@ export const overwhereIvMillbrookShrine = {
     },
     {
       fact: "The herbal names moonleaf, frostcap and a hundred other plants of the vale, with drawings.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Sister Anwen lets a sober reader sit with one of the shrine's books by daylight.",
@@ -130,35 +130,35 @@ export const overwhereIvMillbrookShrine = {
     },
     {
       fact: "At Nala's pace the five books left take some two hours together.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "One scripture holds the gods' sayings; the other, the lives of folk the gods blessed.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The scripture says an oath sworn before the gods binds, and the world asks the other to accept it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The herbal says moonleaf eases headaches and frostcap breaks fevers.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The herbal warns of nightcap, a black mushroom of the Tangle that kills within a day.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The road book shows Crowstone Quarry two days north-west, at the end of a disused cart track.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The road book shows Tarrow Hall a day north, and Aubrin four days east along the east road.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The primer teaches letters and sums, with a child's drawings in its margins.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "At Nala's pace the vale chronicle takes some twenty minutes to read through.",
