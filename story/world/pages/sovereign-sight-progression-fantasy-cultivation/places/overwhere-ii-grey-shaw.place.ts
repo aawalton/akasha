@@ -86,7 +86,7 @@ export const overwhereIiGreyShaw = {
     },
     {
       fact: "Thaumists brew bottled Water into elixirs that ease refining, which is why it sells so dear.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "To Nala, with a well that refills from the Sea within the hour, a bottle is worth nothing.",
