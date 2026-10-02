@@ -132,5 +132,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "A beam loosed while holding the air ward is a band harder, as a slug is.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's mana returns about 3 a minute while she rests or walks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
