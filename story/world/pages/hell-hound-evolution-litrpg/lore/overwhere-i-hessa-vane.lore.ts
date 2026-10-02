@@ -157,7 +157,7 @@ export const overwhereIHessaVane = {
     },
     {
       fact: "Hessa tells Nala to salt the head tonight, or it will be past the Hall's taking within a week.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
