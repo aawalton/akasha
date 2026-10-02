@@ -10,7 +10,7 @@ export const hollowmere0011ClothedToStart = {
   story: "story-written/hollowmere",
   ownLength: 3103,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Thursday: dawn at the boathouse, the register, the whistle; fewer shriekers on the shingle today.",
     'Shiv signs "Doyle (reluctant, again)"; you two swim out to the buoy and hang there, breathing.',
@@ -53,6 +53,11 @@ export const hollowmere0011ClothedToStart = {
     "You put the finished essay on your desk under Kit's handkerchief, and sleep at once.",
     "A day at Hollowmere ends.",
   ],
+  issues: [
+    '"Last time it went faintly warm... and that was all" - Tuesday\'s stone went hot and she bled',
+    '"It\'s Thursday. Ten till six." - Nala was told only Tuesdays and Thursdays, never the hours',
+    '"a voice like a creaking gate" - the History lecturer\'s voice is like a dry leaf (chapter 4)',
+  ],
   lore: [
     "lore/hollowmere-academy-2",
     "lore/hollowmere-amara",
@@ -75,5 +80,5 @@ export const hollowmere0011ClothedToStart = {
     "character-other/hollowmere-lin",
     "character-other/hollowmere-yusra",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
