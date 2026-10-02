@@ -75,6 +75,10 @@ export const overwhereIiOswyCrake = {
       fact: "On market day a thin, freckled boy of thirteen in a too-big coat watched Nala, then fled downvalley.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Pip reaches Grey Shaw by dusk on day eleven and tells Crake that Nala saw him watching her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
