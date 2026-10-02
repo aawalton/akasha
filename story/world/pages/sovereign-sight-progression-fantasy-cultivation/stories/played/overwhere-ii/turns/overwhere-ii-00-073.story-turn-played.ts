@@ -53,6 +53,6 @@ export const overwhereIi00073 = {
     "place/overwhere-ii-grey-shaw",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
   endsAt: "2026-10-14T22:15:00.000Z",
 } as const satisfies StoryTurnPlayed
