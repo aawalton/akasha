@@ -39,5 +39,6 @@ export const overwhereIi00077 = {
     "place/overwhere-ii-ashlin-farm",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-10-15T06:00:00.000Z",
 } as const satisfies StoryTurnPlayed
