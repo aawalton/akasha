@@ -68,5 +68,9 @@ export const overwhereIiiCorruption2 = {
       fact: "Three of the fox's four parts of blight were drawn before it died; one weave cracks its stone.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The fox's blightstone is hazelnut-sized; bare skin on it brings a wash of revulsion.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
