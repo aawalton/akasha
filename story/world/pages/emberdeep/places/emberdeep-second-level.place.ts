@@ -10,15 +10,30 @@ export const emberdeepSecondLevel = {
   facts: [
     {
       fact: "The second level, below the Dry Stair, is damp: water seeps down its walls and pools on the floors.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+      ],
     },
     {
       fact: "The Drowned Hall, the second level's widest chamber, lies under knee-deep cold clear water.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+      ],
     },
     {
       fact: "Ember-stones on the second level run the size of a walnut, and the market pays four pennies apiece.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+      ],
     },
     {
       fact: "Gloomcaps, pale mushrooms that glow faintly, grow on the second level's wet walls.",
@@ -26,6 +41,7 @@ export const emberdeepSecondLevel = {
         "lore-disclosure/game-master",
         "character-other/emberdeep-wren",
         "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
       ],
     },
     {
@@ -34,15 +50,26 @@ export const emberdeepSecondLevel = {
         "lore-disclosure/game-master",
         "character-other/emberdeep-wren",
         "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
       ],
     },
     {
       fact: "Blind white lizards as long as an arm hunt the second level's water, and their bite festers.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+      ],
     },
     {
       fact: "The guild's map of the second level costs three pennies.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+      ],
     },
   ],
 } as const satisfies Place

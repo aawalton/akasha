@@ -64,6 +64,7 @@ export const emberdeepWren = {
         "lore-disclosure/game-master",
         "character-other/emberdeep-wren",
         "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
       ],
     },
     {
@@ -138,6 +139,14 @@ export const emberdeepWren = {
         "character-other/emberdeep-wren",
         "character-player/emberdeep-nala",
         "character-other/emberdeep-elowen",
+      ],
+    },
+    {
+      fact: "Wren told Nala to be good to Elowen, and her voice caught once as she said it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
       ],
     },
   ],

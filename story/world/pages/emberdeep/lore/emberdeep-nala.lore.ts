@@ -14,7 +14,12 @@ export const emberdeepNala = {
     },
     {
       fact: "Nala woke in a narrow bed in room 7 of Corbel House on the morning she is to register as a delver.",
-      knowers: ["lore-disclosure/game-master", "character-player/emberdeep-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-wren",
+        "character-other/emberdeep-elowen",
+      ],
     },
     {
       fact: "Nala has none of the memories of the Nala whose life this was; she remembers only being Alan.",
@@ -147,7 +152,12 @@ export const emberdeepNala = {
     },
     {
       fact: "Nala woke in Emberdeep on a Fourthday, and went down the Deep first on the Fifthday after.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-wren",
+        "character-other/emberdeep-elowen",
+      ],
     },
     {
       fact: "After the Sixthday sale, Nala's purse holds twelve pennies, all owed for Restday rent.",
@@ -202,6 +212,61 @@ export const emberdeepNala = {
         "lore-disclosure/game-master",
         "character-player/emberdeep-nala",
         "character-other/emberdeep-elowen",
+      ],
+    },
+    {
+      fact: "Nala told Wren and Elowen that Fennick is a blank to her; her memory begins in room 7.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-wren",
+        "character-other/emberdeep-elowen",
+      ],
+    },
+    {
+      fact: "Nala is the party's cartographer, drawing the second level in chalk on the back of her map.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-wren",
+        "character-other/emberdeep-elowen",
+      ],
+    },
+    {
+      fact: "In the Drowned Hall Nala hauled Elowen back from a white lizard and cut it with her knife.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-wren",
+        "character-other/emberdeep-elowen",
+      ],
+    },
+    {
+      fact: "After the Firstday delve and supper, Nala's purse holds three pennies.",
+      knowers: ["lore-disclosure/game-master", "character-player/emberdeep-nala"],
+    },
+    {
+      fact: "Nala told Wren on the landing that it is Nala and Elowen now.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-wren",
+      ],
+    },
+    {
+      fact: "On Firstday night Nala and Elowen kissed again in room 7's bed, longer and slower.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+      ],
+    },
+    {
+      fact: "Wren called Nala's map of the second level, lizard marked on it, clearer than the guild's.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-wren",
       ],
     },
   ],

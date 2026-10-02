@@ -158,6 +158,15 @@ export const emberdeepElowen = {
         "character-player/emberdeep-nala",
       ],
     },
+    {
+      fact: "Elowen sold eighteen gloomcaps on Coppergate for three pennies, and shared them with the party.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-wren",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

@@ -23,5 +23,14 @@ export const emberdeepFennick = {
       fact: "No one from Fennick is in Emberdeep, and few people up here have heard of it.",
       knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
     },
+    {
+      fact: "Hardly anyone in Emberdeep could say where Fennick is.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+      ],
+    },
   ],
 } as const satisfies Place

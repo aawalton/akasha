@@ -100,5 +100,5 @@ export const emberdeep0005TheDrownedHall = {
     "character-other/emberdeep-elowen",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/memory"],
 } as const satisfies StoryChapterWritten
