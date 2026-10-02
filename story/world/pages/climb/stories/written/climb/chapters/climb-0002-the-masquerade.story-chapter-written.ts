@@ -10,7 +10,7 @@ export const climb0002TheMasquerade = {
     "image/image-9d40b6ffd0d47327",
     "image/image-3bd2cbe6df8ae366",
     "image/image-86edd79749e7d305",
-    "image/image-d9b990587237cac8",
+    "image/image-e2e5202edffc574f",
     "image/image-cc5683deffc216bf",
     "image/image-93a0148ffec9ee99",
     "image/image-9e4bc591d550fabf",
