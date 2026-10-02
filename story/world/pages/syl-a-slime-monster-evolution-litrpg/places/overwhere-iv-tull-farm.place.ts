@@ -51,5 +51,29 @@ export const overwhereIvTullFarm = {
         "character-other/overwhere-iv-ilsa-crane",
       ],
     },
+    {
+      fact: "The deer trail leaves the Tangle a short walk above Tull's fold, by the ford.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Through the afternoon Tull mends the broken fold fence, a cudgel near his hand.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tull counts sheep brought home twice, then grips the bringer's hand hard and says little.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tull has no coin to spare; for his sheep he would give a half wheel of hard cheese.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tull knows the brass ring at once: his late wife's, taken from the shelf in the raid.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldo lies abed with his head bound and wants to hear how the raiders died.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
