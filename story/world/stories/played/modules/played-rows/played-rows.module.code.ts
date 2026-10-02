@@ -285,6 +285,12 @@ const PLAYED_COVER_KEY = "cover"
 
 const PLAYED_TURN_COVERS_KEY = "turnCovers"
 
+const PLAYED_COVER_AFTER_KEY = "coverAfter"
+
+function afterIn(value: unknown): { readonly after?: string } {
+  return typeof value === "string" && value !== "" ? { after: value } : {}
+}
+
 function chapterCoversOf(row: Page): readonly PlayedTurnCover[] {
   const listed = row[PLAYED_TURN_COVERS_KEY]
   if (!Array.isArray(listed)) return []
@@ -294,7 +300,13 @@ function chapterCoversOf(row: Page): readonly PlayedTurnCover[] {
     const number = asNumber(entry[PLAYED_POSITION_KEY])
     const cover = entry[PLAYED_COVER_KEY]
     if (number === null || typeof cover !== "string" || cover === "") continue
-    held.push({ id: `${row.id}:${number}`, number, cover })
+    held.push({
+      id: `${row.id}:${number}`,
+      number,
+      cover,
+      of: row.id,
+      ...afterIn(entry[PLAYED_COVER_AFTER_KEY]),
+    })
   }
   return held
 }
@@ -307,7 +319,13 @@ export function playedCoversOf(
   for (const [index, row] of playedOrder(rows).entries()) {
     const cover = row[PLAYED_COVER_KEY]
     if (typeof cover !== "string" || cover === "") continue
-    held.push({ id: row.id, number: asNumber(row.position) ?? index + 1, cover })
+    held.push({
+      id: row.id,
+      number: asNumber(row.position) ?? index + 1,
+      cover,
+      of: row.id,
+      ...afterIn(row[PLAYED_COVER_AFTER_KEY]),
+    })
   }
   return held
 }

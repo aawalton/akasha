@@ -4,7 +4,7 @@ export const sceneCover = {
   id: "01a0e7ff-1168-797c-8a26-c0ae6e03e8e5",
   type: "page-type/played-panel",
   slug: "scene-cover",
-  definition: "the cover of the latest turn of play, paged back through earlier turns",
+  definition: "the scenes pictured in a written chapter, paged through in order",
   code: "tsx",
   drawn: "js",
   place: "panel-place/aside",
@@ -13,6 +13,10 @@ export const sceneCover = {
     {
       decisionKind: "decision-kind/departure",
       statement: "Clicking the picture opens it whole, with its reroll over it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A played turn's cover is drawn in its prose rather than here.",
     },
   ],
 } as const satisfies PlayedPanel

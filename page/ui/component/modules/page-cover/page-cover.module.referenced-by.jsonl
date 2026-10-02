@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"page-cover.module.code.tsx","path":"page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-cover.module.code.tsx","path":"story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-cover.module.code.tsx","path":"story/ui/modules/cover-viewing/cover-viewing.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-cover.module.code.tsx","path":"story/ui/modules/inline-cover/inline-cover.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-cover.module.code.tsx","path":"story/ui/modules/player-character-panel/player-character-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-cover.module.code.tsx","path":"story/ui/modules/scene-cover-panel/scene-cover-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/ui/component/page-ui-component.domain.ts","id":"01a0613d-bbb1-7000-a299-964eee1c712c"}

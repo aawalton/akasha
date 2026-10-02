@@ -8,6 +8,8 @@ export type PlayedTurnCover = {
   readonly id: string
   readonly number: number
   readonly cover: string
+  readonly of?: string | undefined
+  readonly after?: string | undefined
 }
 
 export type PanelAppointment = {

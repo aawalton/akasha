@@ -35,6 +35,11 @@ export const panelDrawing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Each cover names the turn or chapter whose prose holds it and the words it is drawn after.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A panel is handed the page type of the turns it is handed where those are not turns played.",
     },
     {

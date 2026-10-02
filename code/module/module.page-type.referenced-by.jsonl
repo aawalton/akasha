@@ -2642,6 +2642,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/content-frontier/content-frontier.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/cover-viewing/cover-viewing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/hud-panel/hud-panel.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/inline-cover/inline-cover.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/narrative-log/narrative-log.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/newest-divider/newest-divider.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/pending-actions/pending-actions.module.ts","typed":true,"deferred":false}

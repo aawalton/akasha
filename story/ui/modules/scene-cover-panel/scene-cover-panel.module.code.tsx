@@ -82,13 +82,13 @@ export function rerollSettled(row: Row | undefined, cover: string): Settled {
   return { settled: true, refused: typeof refused === "string" && refused !== "" ? refused : null }
 }
 
-type Rerolling = {
+export type Rerolling = {
   readonly asking: string | null
   readonly refused: string | null
   readonly ask: (cover: string) => undefined
 }
 
-function useReroll(gameExternalId: string | undefined): Rerolling {
+export function useReroll(gameExternalId: string | undefined): Rerolling {
   const [asking, setAsking] = useState<string | null>(null)
   const [refused, setRefused] = useState<string | null>(null)
   useEffect(() => {
@@ -126,7 +126,7 @@ function useReroll(gameExternalId: string | undefined): Rerolling {
   return { asking, refused, ask }
 }
 
-function RerollButton({
+export function RerollButton({
   rerolling,
   cover,
 }: {

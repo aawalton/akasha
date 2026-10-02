@@ -1,6 +1,7 @@
 "use client"
 
 import { ChapterProse } from "akasha/story/ui/modules/chapter-prose/chapter-prose.module.code.tsx"
+import { coversOf } from "akasha/story/ui/modules/inline-cover/inline-cover.module.code.tsx"
 import { NarrativeLog } from "akasha/story/ui/modules/narrative-log/narrative-log.module.code.tsx"
 import { NewestDivider } from "akasha/story/ui/modules/newest-divider/newest-divider.module.code.tsx"
 import {
@@ -18,6 +19,7 @@ const refusePlayerAction: SubmitPlayerAction = () =>
 
 export function PlayedChannel({
   turns,
+  turnCovers,
   beats,
   pastTurns,
   gameExternalId,
@@ -52,6 +54,7 @@ export function PlayedChannel({
           <ChapterProse
             text={row.turn.text}
             segments={row.turn.segments}
+            covers={coversOf(turnCovers, row.turn.id)}
             muted={row.muted}
             gameExternalId={gameExternalId}
             submitPlayerAction={submit}

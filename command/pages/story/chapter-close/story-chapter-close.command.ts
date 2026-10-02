@@ -43,6 +43,11 @@ export const storyChapterClose = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A cover its turn states no words for is drawn after the first words of that turn's last paragraph.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A chapter keeps the end time of the last turn it takes as its own.",
     },
   ],

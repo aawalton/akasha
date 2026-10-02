@@ -3,6 +3,12 @@ import { splitInlineEmphasis } from "akasha/page/ui/component/modules/reader-pro
 import { READER_PROSE_TYPOGRAPHY } from "akasha/page/ui/component/modules/reader-typography/reader-typography.module.code.ts"
 import type { ClientProseSegment } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import {
+  type InlineCover,
+  InlineCoverFigure,
+  type Placed,
+  placedAfter,
+} from "akasha/story/ui/modules/inline-cover/inline-cover.module.code.tsx"
+import {
   SystemCard,
   UnavailableSystemCard,
 } from "akasha/story/ui/modules/system-card/system-card.module.code.tsx"
@@ -12,47 +18,90 @@ import { Fragment, type ReactNode } from "react"
 
 const HEADING_RE = /^#{1,6}\s+/
 
-function ProseBlocks({ text, muted }: { text: string; muted: boolean }) {
-  const blocks = text
-    .split(/\n\n+/)
+const PARAGRAPH_BREAK = /\n\n+/
+
+const NO_COVERS: readonly InlineCover[] = []
+
+function blocksOf(text: string): readonly string[] {
+  return text
+    .split(PARAGRAPH_BREAK)
     .map((b) => b.trim())
     .filter((b) => b !== "")
+}
+
+type Drawing = {
+  readonly placed: Placed<InlineCover>
+  readonly gameExternalId?: string | undefined
+}
+
+function CoversAfter({ covers, drawing }: { covers: readonly InlineCover[]; drawing: Drawing }) {
   return (
     <>
-      {blocks.map((block, i) =>
-        HEADING_RE.test(block) ? (
-          <h3
-            key={i}
-            className={`font-mono font-semibold text-[13px] ${
-              muted ? "text-tertiary" : "text-accent"
-            } uppercase tracking-[0.18em]`}
-          >
-            {block.replace(HEADING_RE, "")}
-          </h3>
-        ) : (
-          <p key={i} className={`whitespace-pre-line ${muted ? "text-tertiary" : "text-primary"}`}>
-            {splitInlineEmphasis(block).map((run, at) =>
-              run.kind === "em" ? (
-                <em key={at}>{run.text}</em>
-              ) : (
-                <Fragment key={at}>{run.text}</Fragment>
-              )
-            )}
-          </p>
-        )
-      )}
+      {covers.map((one) => (
+        <InlineCoverFigure key={one.id} shown={one} gameExternalId={drawing.gameExternalId} />
+      ))}
+    </>
+  )
+}
+
+function ProseBlocks({
+  blocks,
+  start,
+  muted,
+  drawing,
+}: {
+  blocks: readonly string[]
+  start: number
+  muted: boolean
+  drawing: Drawing
+}) {
+  return (
+    <>
+      {blocks.map((block, i) => (
+        <Fragment key={i}>
+          {HEADING_RE.test(block) ? (
+            <h3
+              className={`font-mono font-semibold text-[13px] ${
+                muted ? "text-tertiary" : "text-accent"
+              } uppercase tracking-[0.18em]`}
+            >
+              {block.replace(HEADING_RE, "")}
+            </h3>
+          ) : (
+            <p className={`whitespace-pre-line ${muted ? "text-tertiary" : "text-primary"}`}>
+              {splitInlineEmphasis(block).map((run, at) =>
+                run.kind === "em" ? (
+                  <em key={at}>{run.text}</em>
+                ) : (
+                  <Fragment key={at}>{run.text}</Fragment>
+                )
+              )}
+            </p>
+          )}
+          <CoversAfter
+            covers={drawing.placed.after.get(start + i) ?? NO_COVERS}
+            drawing={drawing}
+          />
+        </Fragment>
+      ))}
     </>
   )
 }
 
 function SegmentView({
   segment,
+  blocks,
+  start,
+  drawing,
   muted,
   gameExternalId,
   submitPlayerAction,
   signedOutNotice,
 }: {
   segment: ClientProseSegment
+  blocks: readonly string[]
+  start: number
+  drawing: Drawing
   muted: boolean
   gameExternalId?: string
   submitPlayerAction: SubmitPlayerAction
@@ -60,7 +109,7 @@ function SegmentView({
 }) {
   switch (segment.kind) {
     case "prose":
-      return <ProseBlocks text={segment.text} muted={muted} />
+      return <ProseBlocks blocks={blocks} start={start} muted={muted} drawing={drawing} />
     case "system":
       return segment.window !== undefined ? (
         <SystemWindowCard
@@ -80,9 +129,20 @@ function SegmentView({
   }
 }
 
+function startsOf(blocks: readonly (readonly string[])[]): readonly number[] {
+  const starts: number[] = []
+  let at = 0
+  for (const one of blocks) {
+    starts.push(at)
+    at += one.length
+  }
+  return starts
+}
+
 export function ChapterProse({
   text,
   segments,
+  covers,
   muted,
   gameExternalId,
   submitPlayerAction,
@@ -90,11 +150,21 @@ export function ChapterProse({
 }: {
   text: string
   segments?: readonly ClientProseSegment[]
+  covers?: readonly InlineCover[]
   muted: boolean
   gameExternalId?: string
   submitPlayerAction: SubmitPlayerAction
   signedOutNotice: ReactNode
 }) {
+  const blocks =
+    segments === undefined
+      ? [blocksOf(text)]
+      : segments.map((one) => (one.kind === "prose" ? blocksOf(one.text) : []))
+  const starts = startsOf(blocks)
+  const drawing: Drawing = {
+    placed: placedAfter(blocks.flat(), covers ?? NO_COVERS),
+    gameExternalId,
+  }
   return (
     <section className="flex flex-col gap-3">
       <div className={`flex flex-col gap-[0.8em] ${READER_PROSE_TYPOGRAPHY}`}>
@@ -103,6 +173,9 @@ export function ChapterProse({
             <SegmentView
               key={i}
               segment={segment}
+              blocks={blocks[i] ?? []}
+              start={starts[i] ?? 0}
+              drawing={drawing}
               muted={muted}
               gameExternalId={gameExternalId}
               submitPlayerAction={submitPlayerAction}
@@ -110,8 +183,9 @@ export function ChapterProse({
             />
           ))
         ) : (
-          <ProseBlocks text={text} muted={muted} />
+          <ProseBlocks blocks={blocks[0] ?? []} start={0} muted={muted} drawing={drawing} />
         )}
+        <CoversAfter covers={drawing.placed.rest} drawing={drawing} />
       </div>
     </section>
   )

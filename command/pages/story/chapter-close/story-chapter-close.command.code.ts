@@ -115,6 +115,29 @@ export function openThrough(turns: readonly Turn[], through: number): readonly T
     .toSorted((one, other) => one.position - other.position)
 }
 
+const PARAGRAPH_BREAK = /\n\s*\n/
+const WINDOW_OPENS = ":::"
+const OPENING_WORDS = 12
+const WHITESPACE = /\s+/
+
+export function lastOpeningOf(prose: string): string | undefined {
+  const paragraphs = prose
+    .split(PARAGRAPH_BREAK)
+    .map((one) => one.trim())
+    .filter((one) => one !== "" && !one.startsWith(WINDOW_OPENS))
+  const last = paragraphs.at(-1)
+  if (last === undefined) return undefined
+  return last.split(WHITESPACE).slice(0, OPENING_WORDS).join(" ")
+}
+
+export function anchoredOf(turns: readonly Turn[], texts: readonly string[]): readonly Turn[] {
+  return turns.map((one, at) => {
+    if (one.cover === undefined || one.coverAfter !== undefined) return one
+    const coverAfter = lastOpeningOf(texts[at] ?? "")
+    return coverAfter === undefined ? one : { ...one, coverAfter }
+  })
+}
+
 export function turnCoversOf(turns: readonly Turn[]): readonly TurnCover[] {
   const held: TurnCover[] = []
   for (const one of turns) {
@@ -211,7 +234,7 @@ async function closed(
   const position = lastChapterOf(given.root, named) + 1
   const chapterSlug = chapterSlugOf(slug, position, held.title)
   const prose = proseOf(texts)
-  const turnCovers = turnCoversOf(turns)
+  const turnCovers = turnCoversOf(anchoredOf(turns, texts))
   const folder = `${listed.path.slice(0, listed.path.lastIndexOf(PARTED))}${PARTED}${storyChapterPlayed.pluralSlug}`
   const naming: Naming = {
     pageTypeSlug: storyChapterPlayed.slug,

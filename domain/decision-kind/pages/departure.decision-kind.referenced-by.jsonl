@@ -3815,8 +3815,10 @@
 {"propertySlug":"decision-kind","path":"story/style/style-rule/style-rule.page-type.ts","id":"01a0de9c-aef3-72c2-8506-f0ac609c48ea"}
 {"propertySlug":"decision-kind","path":"story/turn/turn.page-type.ts","id":"01a0c9fc-87b4-75fb-b8af-e42e6f1986d0"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/alert-notification/alert-notification.module.ts","id":"01a0628e-a5da-7ee0-a6fa-62cfbb59efac"}
+{"propertySlug":"decision-kind","path":"story/ui/modules/chapter-prose/chapter-prose.module.ts","id":"01a06327-e488-7a03-bb37-e36a0d56a4ec"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/character-cover-panel/character-cover-panel.module.ts","id":"01a0de7e-118e-760a-aace-b82f91d94001"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/cover-viewing/cover-viewing.module.ts","id":"01a0e85f-32b6-77c9-b863-bd97e3b7310f"}
+{"propertySlug":"decision-kind","path":"story/ui/modules/inline-cover/inline-cover.module.ts","id":"01a0fda5-e07b-7d50-aaa7-880c4bc48733"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/newest-divider/newest-divider.module.ts","id":"01a0629b-682c-7208-a65c-1d5fdba6f831"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/player-character-panel/player-character-panel.module.ts","id":"01a0e817-d6c0-7d98-bdd1-fc786451c663"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/scene-cover-panel/scene-cover-panel.module.ts","id":"01a0e7ff-1168-7fa8-b0c7-08190825f11d"}

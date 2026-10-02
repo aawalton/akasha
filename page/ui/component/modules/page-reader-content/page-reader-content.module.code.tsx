@@ -74,7 +74,7 @@ interface PageReaderContentProps {
   readerNext?: ReaderNeighborLink | null
   storyHref?: string | null
   onReadToEnd?: () => void
-  drawProse?: (body: string) => ReactNode
+  drawProse?: (body: string, data: Readonly<Record<string, unknown>>) => ReactNode
   around?: (column: ReactNode) => ReactNode
 }
 
@@ -226,7 +226,7 @@ export function PageReaderContent({
                 {bodyWaiting ? null : body.trim() === "" ? (
                   <p className="text-secondary italic">This page has no text yet.</p>
                 ) : drawProse !== undefined ? (
-                  drawProse(body)
+                  drawProse(body, data)
                 ) : isVirtualizedBody ? (
                   <ReaderProseBody
                     content={body}

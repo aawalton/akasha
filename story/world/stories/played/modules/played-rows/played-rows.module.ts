@@ -40,6 +40,11 @@ export const playedRows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A cover names the turn or chapter whose prose holds it, and the words it is drawn after.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A turn not yet at player is kept from the reader.",
     },
     {

@@ -14,6 +14,10 @@ export const playedChannel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A turn's cover is drawn inside its prose, after the paragraph it shows.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A ruled line marks the last turn play reached.",
     },
     {

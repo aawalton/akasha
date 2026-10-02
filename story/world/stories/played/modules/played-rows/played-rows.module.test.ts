@@ -92,7 +92,7 @@ describe("playedCoversOf", () => {
     )
     const covers = playedCoversOf([], rows)
     expect(covers).toHaveLength(PLAYED_ROWS_DRAWN + 2)
-    expect(covers[0]).toEqual({ id: "id-0", number: 1, cover: "image/id-0" })
+    expect(covers[0]).toEqual({ id: "id-0", number: 1, cover: "image/id-0", of: "id-0" })
   })
 
   test("passes over a turn stating no cover, and numbers a turn stating no position by its place", () => {
@@ -102,8 +102,24 @@ describe("playedCoversOf", () => {
       turnPage({ id: "a", position: 1, cover: "image/a" }),
     ]
     expect(playedCoversOf([], rows)).toEqual([
-      { id: "a", number: 1, cover: "image/a" },
-      { id: "loose", number: 3, cover: "image/loose" },
+      { id: "a", number: 1, cover: "image/a", of: "a" },
+      { id: "loose", number: 3, cover: "image/loose", of: "loose" },
+    ])
+  })
+
+  test("carries the words a cover is drawn after, from a turn and from a chapter's cover", () => {
+    const chapters = [
+      asPage({
+        pageTypeSlug: "story-chapter-played",
+        id: "c1",
+        position: 1,
+        turnCovers: [{ position: 1, cover: "image/one", coverAfter: "She ran" }],
+      }),
+    ]
+    const open = [turnPage({ id: "t2", position: 2, cover: "image/two", coverAfter: "Rain fell" })]
+    expect(playedCoversOf(chapters, open)).toEqual([
+      { id: "c1:1", number: 1, cover: "image/one", of: "c1", after: "She ran" },
+      { id: "t2", number: 2, cover: "image/two", of: "t2", after: "Rain fell" },
     ])
   })
 
@@ -116,9 +132,9 @@ describe("playedCoversOf", () => {
     ]
     const open = [turnPage({ id: "t4", position: 4, cover: "image/four" })]
     expect(playedCoversOf(chapters, open)).toEqual([
-      { id: "c1:1", number: 1, cover: "image/one" },
-      { id: "c2:3", number: 3, cover: "image/three" },
-      { id: "t4", number: 4, cover: "image/four" },
+      { id: "c1:1", number: 1, cover: "image/one", of: "c1" },
+      { id: "c2:3", number: 3, cover: "image/three", of: "c2" },
+      { id: "t4", number: 4, cover: "image/four", of: "t4" },
     ])
   })
 })

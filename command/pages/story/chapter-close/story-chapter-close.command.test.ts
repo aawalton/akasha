@@ -1,7 +1,9 @@
 import { expect, test } from "bun:test"
 import {
+  anchoredOf,
   chapterSlugOf,
   endsAtOf,
+  lastOpeningOf,
   lastTurnOf,
   openThrough,
   proseOf,
@@ -70,6 +72,26 @@ test("a chapter keeps the cover of each turn it takes that has one, under the tu
   expect(turnCoversOf(turns)).toEqual([
     { position: 1, cover: "image/image-one" },
     { position: 3, cover: "image/image-three" },
+  ])
+})
+
+test("a turn's last paragraph is opened by its first words, passing over window blocks", () => {
+  const prose =
+    "First.\n\nShe ran for the gate as the bell rang out over the town and kept ringing.\n\n:::level-up\nlevel: 5\n:::\n"
+  expect(lastOpeningOf(prose)).toBe("She ran for the gate as the bell rang out over the")
+  expect(lastOpeningOf("")).toBeUndefined()
+})
+
+test("a cover its turn states no words for is drawn after that turn's last paragraph", () => {
+  const turns = [
+    { at: "a", slug: "t-00-001", position: 1, cover: "image/one" },
+    { at: "b", slug: "t-00-002", position: 2, cover: "image/two", coverAfter: "Rain fell" },
+    { at: "c", slug: "t-00-003", position: 3 },
+  ]
+  expect(anchoredOf(turns, ["One.\n\nTwo ends it.", "Rain fell.", "Three."])).toEqual([
+    { at: "a", slug: "t-00-001", position: 1, cover: "image/one", coverAfter: "Two ends it." },
+    { at: "b", slug: "t-00-002", position: 2, cover: "image/two", coverAfter: "Rain fell" },
+    { at: "c", slug: "t-00-003", position: 3 },
   ])
 })
 
