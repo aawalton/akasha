@@ -23,5 +23,6 @@ export const overwhereI00096 = {
     '"Antler Hall, up the high street on the left, sign of the stag\'s antlers. Ask for Grete Holm."',
   ],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "place/overwhere-i-wendlow"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-05T11:45:00.000Z",
 } as const satisfies StoryTurnPlayed
