@@ -73,7 +73,7 @@ export const overwhereIiKeeperAnselm2 = {
     },
     {
       fact: "The Carrow road is expected dry enough for Keeper Ashby by the end of the month.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
