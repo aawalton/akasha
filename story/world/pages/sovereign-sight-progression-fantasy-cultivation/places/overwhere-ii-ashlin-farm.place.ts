@@ -77,7 +77,7 @@ export const overwhereIiAshlinFarm = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Carrying the stash uphill, with Pip flagging, Nala and Dray reach Ashlin near three in the morning.",
+      fact: "Carrying the stash uphill at Pip's pace, Nala and Dray reach Ashlin a little past two at night.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
