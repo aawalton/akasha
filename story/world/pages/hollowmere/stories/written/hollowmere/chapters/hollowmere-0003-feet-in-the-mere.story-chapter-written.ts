@@ -70,6 +70,10 @@ export const hollowmere0003FeetInTheMere = {
     'At the door her hand rests on your shoulder a moment: "Sleep, Ashby." You do, almost at once.',
     "A day at Hollowmere ends.",
   ],
+  issues: [
+    '"You\'ve been here a week," Bea says - Bea never learned Shiv came a week early',
+    "\"For the first time since the Welcome Dinner\" - Kit's eyes fixed on Nala's at the window last night",
+  ],
   lore: [
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",
@@ -90,4 +94,5 @@ export const hollowmere0003FeetInTheMere = {
     "character-other/hollowmere-amara",
     "character-other/hollowmere-yusra",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
