@@ -33,7 +33,7 @@ export const overwhereITheSystem2 = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "A level-up refills neither health nor mana; no skill or legacy changes at Level 9.",
+      fact: "No skill or legacy changes at Level 9.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
