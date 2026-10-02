@@ -78,7 +78,7 @@ export const overwhereIii0003FiveClean = {
     },
     {
       position: 47,
-      cover: "image/image-9debf584f3346b05",
+      cover: "image/image-a2355b1a01060b24",
       coverAfter: "She pushes the loaf and cheese across the counter toward you.",
     },
     {
