@@ -219,6 +219,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Osric dove under his cart at Nala's first slug.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Breaking the crew Drakewolf's jaw-hold on her arm is a hard act.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
