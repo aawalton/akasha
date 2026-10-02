@@ -53,7 +53,7 @@ export const otherwhereI0002TheCounterWakes = {
     },
     {
       position: 58,
-      cover: "image/image-91a86c58ffa8682d",
+      cover: "image/image-201b264db1b4614c",
       coverAfter: "Book after book slides home, and the hall's gold light edges brighter",
     },
     {
