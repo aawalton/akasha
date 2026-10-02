@@ -4,10 +4,22 @@ export const overwhereI00069 = {
   id: "01a0fd39-b9ca-7a27-95cd-f451bfe9812a",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-069",
+  ownLength: 180,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 69,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-i-nala",
+    "character-other/overwhere-i-harl-voss",
+    "character-other/overwhere-i-voss-drakewolf",
+    "character-other/overwhere-i-quarry-crewman-one",
+    "character-other/overwhere-i-quarry-crewman-two",
+    "character-other/overwhere-i-quarry-crewman-three",
+    "character-other/overwhere-i-quarry-crewman-four",
+    "character-other/overwhere-i-quarry-crewman-five",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I attune Earth and Air and start hitting Voss and his men with precision bullet shots to the forehead, guiding each shot all the way to landing to ensure it hits. I keep a second air attunement ready to pull any projectiles of course so they don’t injure us.",
   beats: [
@@ -23,6 +35,8 @@ export const overwhereI00069 = {
     "Voss is two strides away, axe high, with the Drakewolf's teeth locked in her arm.",
   ],
   lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
     "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-starfall-legacy-2",
     "lore/overwhere-i-the-deserter-crew",
