@@ -85,15 +85,19 @@ export const overwhereIvTullFarm = {
     },
     {
       fact: "Aldo is nineteen, mad for tales of adventurers, and believes whatever a hero tells him.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Tull asks no questions of whoever brings his sheep home, and hears a tale out in silence.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Whatever tale Aldo hears of the raiders' end, he'll retell at the Brook and Barrel, grown.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aldo means to tell Nala's tale of seven spear-skill kills at the Brook and Barrel.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Place

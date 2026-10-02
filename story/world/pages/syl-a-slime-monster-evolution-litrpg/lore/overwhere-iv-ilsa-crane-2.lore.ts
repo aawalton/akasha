@@ -238,19 +238,35 @@ export const overwhereIvIlsaCrane2 = {
     },
     {
       fact: "For the Tull job Ilsa pays 1 silver a goblin ear, 5 for the hobgoblin's, 3 copper a sheep.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
     },
     {
       fact: "Ilsa takes the hobgoblin's horn as proof enough of him, along with his ear.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
     },
     {
       fact: "A whole raiding band with a hobgoblin, taken alone and unhurt, is Nala's fourth job done well.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
     },
     {
       fact: "Ilsa thinks Grakk will answer the loss of a hobgoblin, and not with a small raid.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
     },
     {
       fact: "Ilsa enters the Tull job in her ledger plainly, as goblins slain, and tells no one more.",
@@ -258,11 +274,27 @@ export const overwhereIvIlsaCrane2 = {
     },
     {
       fact: "Asked where to get a better spear, Ilsa sends Nala to Tobin Ash's smithy on the square.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
     },
     {
       fact: "Ilsa says a spear fit for a silver tag is bought in Aubrin, not Millbrook.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
+    },
+    {
+      fact: "Ilsa wrote the Tull job in her ledger plainly, as goblins slain, before Nala's eyes.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
   ],
 } as const satisfies Lore

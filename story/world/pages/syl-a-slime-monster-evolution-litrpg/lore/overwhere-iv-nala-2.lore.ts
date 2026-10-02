@@ -285,5 +285,17 @@ export const overwhereIvNala2 = {
       fact: "Nala carries no knife of her own; her only weapon is the blunt practice spear.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Nala told Aldo, Tull listening, that every raider fell to a careful cut of her spear skill.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Ilsa paid Nala twelve silver and five copper for the Tull job: seven ears, horn and five sheep.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
+    },
   ],
 } as const satisfies Lore
