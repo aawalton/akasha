@@ -43,7 +43,7 @@ export const otherwhereIii0002TheDeskDemon = {
     },
     {
       position: 21,
-      cover: "image/image-392292ced781e334",
+      cover: "image/image-458c3bf863a4bcdb",
       coverAfter: "A woman steps out. She is tall and lean, with grey hair,",
     },
     {
