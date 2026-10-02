@@ -28,7 +28,7 @@ export const overwhereI0006ThreeLurkersByNoon = {
     },
     {
       position: 29,
-      cover: "image/image-4d0b75c4d81c321e",
+      cover: "image/image-1f3b19e0edfadf1e",
       coverAfter: "A swirl rises in the dark water below the slide, and a",
     },
     {
