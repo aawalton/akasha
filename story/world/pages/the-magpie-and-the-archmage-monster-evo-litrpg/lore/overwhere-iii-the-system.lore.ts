@@ -266,7 +266,11 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "Nearly all humanoid adventurers have an Inventory; monsters are not meant to.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Food never spoils in an Inventory, and no one can steal from another's.",
