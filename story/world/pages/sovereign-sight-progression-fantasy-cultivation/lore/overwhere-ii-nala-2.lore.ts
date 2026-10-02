@@ -210,7 +210,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "With Undertow, Nala can refine bone one bone at a time, but bone drinks the tide slowly.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Refining bone aches deep in the marrow, like a fever, and wears her mind like refining a limb.",
