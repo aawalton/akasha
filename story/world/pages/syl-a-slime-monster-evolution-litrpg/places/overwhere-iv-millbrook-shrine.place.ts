@@ -30,7 +30,7 @@ export const overwhereIvMillbrookShrine = {
     },
     {
       fact: "The vale chronicle says Crowstone Quarry was worked out and shut some thirty years ago.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The road book maps the vale, the east road to Aubrin, and the barony's villages.",
@@ -110,23 +110,23 @@ export const overwhereIvMillbrookShrine = {
     },
     {
       fact: "Asked for any book, Anwen hands over the vale chronicle, the one she loves best.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The chronicle keeps three hundred years of the Wendmere Vale: floods, plagues, reeves, harvests.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "It says goblins in the Tangle rise and ebb in waves; the last great wave was forty years ago.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "It says a cave-in killed four men at Crowstone the year the quarry shut; folk called it unlucky.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Its newest entries are in Anwen's hand; the last notes the mill shaft cracking this summer.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "At Nala's pace the vale chronicle takes some twenty minutes to read through.",
