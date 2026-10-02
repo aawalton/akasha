@@ -7,7 +7,8 @@ export const overwhereI00068 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 68,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“He’ll be safe enough as long as he’s with me. If he runs off in his own though, that’s on him.” I tell Bet, then take a bath before bed.",
+  lore: ["lore/overwhere-i-garrick-pell", "lore/overwhere-i-tobin-ashdown"],
 } as const satisfies StoryTurnPlayed
