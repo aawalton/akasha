@@ -146,7 +146,11 @@ export const overwhereITobinAshdown = {
     },
     {
       fact: "At the quarry Tobin loosed at a running crewman and missed.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-tobin-ashdown",
+      ],
     },
   ],
   secrets: "jsonl",

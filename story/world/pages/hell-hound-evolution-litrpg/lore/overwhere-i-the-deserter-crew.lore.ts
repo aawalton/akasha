@@ -298,19 +298,45 @@ export const overwhereITheDeserterCrew = {
     },
     {
       fact: "Nala's fire burst set three blademen alight; they dropped their blades and ran.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-harl-voss",
+        "character-other/overwhere-i-quarry-crewman-one",
+        "character-other/overwhere-i-quarry-crewman-two",
+        "character-other/overwhere-i-quarry-crewman-three",
+        "character-other/overwhere-i-quarry-crewman-four",
+        "character-other/overwhere-i-quarry-crewman-five",
+      ],
     },
     {
       fact: "Burned, the crew Drakewolf let go Nala's arm and bolted, smoking.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-voss-drakewolf",
+      ],
     },
     {
       fact: "Voss came on through the fire behind his shield, then at three sharp whistles broke for the pit.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-harl-voss",
+      ],
     },
     {
       fact: "At three sharp whistles the whole crew broke and ran for the quarry pit.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-harl-voss",
+        "character-other/overwhere-i-quarry-crewman-one",
+        "character-other/overwhere-i-quarry-crewman-two",
+        "character-other/overwhere-i-quarry-crewman-three",
+        "character-other/overwhere-i-quarry-crewman-four",
+        "character-other/overwhere-i-quarry-crewman-five",
+      ],
     },
     {
       fact: "Nala's air ward turned two crossbow bolts and a third from someone unseen in the trees.",

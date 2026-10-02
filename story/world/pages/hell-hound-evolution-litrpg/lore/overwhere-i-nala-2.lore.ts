@@ -64,5 +64,13 @@ export const overwhereINala2 = {
       fact: "Nala reached Level 8 on day 4 at the pine island.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Flat on the road, Nala bent her fire burst off her own arm, and it licked past and spared her.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "At the quarry a crossbow bolt her ward slapped aside skipped off the road and gashed Nala's hip.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
