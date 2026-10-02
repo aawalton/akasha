@@ -277,5 +277,13 @@ export const overwhereIiiBrannaghTull2 = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "Three Mending Weaves smoothed the washerwoman's old scald flat and pale on day eight's dusk.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
   ],
 } as const satisfies Lore
