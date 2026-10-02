@@ -138,7 +138,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 26,
-      cover: "image/image-664bf5c8588e658f",
+      cover: "image/image-521e26cd51b2c84a",
       coverAfter: "Links pads up to the edge of the broken oval. The runes",
     },
     {
