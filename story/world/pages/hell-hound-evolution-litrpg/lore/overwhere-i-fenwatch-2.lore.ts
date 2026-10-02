@@ -76,7 +76,7 @@ export const overwhereIFenwatch2 = {
     },
     {
       fact: "The night of day 4 at Fenwatch passes quiet, and the cart leaves on time with no hitch.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Lore
