@@ -6,6 +6,7 @@ import type { StepReviewedBy } from "akasha/story/chapter/properties/step-review
 import type { StepStatus } from "akasha/story/chapter/properties/step-status.relation-property.types.ts"
 import type { Turn } from "akasha/story/turn/turn.page-type.types.ts"
 import type { Characters } from "akasha/story/world/characters/properties/characters.multi-relation-property.types.ts"
+import type { CoverAfter } from "akasha/story/world/stories/played/turns/properties/cover-after.text-property.types.ts"
 import type { Outcomes } from "akasha/story/world/stories/played/turns/properties/outcomes.file-property.types.ts"
 import type { TurnAction } from "akasha/story/world/stories/played/turns/properties/turn-action.text-property.types.ts"
 import type { TurnEndsAt } from "akasha/story/world/stories/played/turns/properties/turn-ends-at.instant-property.types.ts"
@@ -21,4 +22,5 @@ export type StoryTurnPlayed = Turn & {
   reviewedBy?: StepReviewedBy
   recordedBy?: StepRecordedBy
   endsAt?: TurnEndsAt
+  coverAfter?: CoverAfter
 }

@@ -4064,7 +4064,6 @@
 {"propertySlug":"decision-kind","path":"story/world/properties/reading-slug.text-property.ts","id":"01a063ce-6216-7003-82e9-30fd6cf9ebfc"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/chapters/properties/chapter-ends-at.instant-property.ts","id":"01a0e7f2-5cad-7cc4-a9a1-e2277ecfaf2e"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/chapters/properties/chapter-turn-covers.record-property.ts","id":"01a0e5cc-d3bc-7308-be9d-19011bb2e2f4"}
-{"propertySlug":"decision-kind","path":"story/world/stories/played/chapters/properties/cover-after.text-property.ts","id":"01a0fd9f-af7d-7831-acab-f94772b0ab69"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/chapters/properties/last-turn-position.number-property.ts","id":"01a0e5d3-d337-7dbd-bb65-0131d5ddf66a"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/chapters/properties/last-turn.text-property.ts","id":"01a0e5d3-d337-7946-9983-82bda3d41a93"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/chapters/story-chapter-played.page-type.ts","id":"01a064b4-46c9-7489-9817-d9dae65e7936"}
@@ -4105,6 +4104,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-making/turn-making.module.ts","id":"01a0decc-a86e-79d7-b3b5-327c056ef9a5"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-notice/turn-notice.module.ts","id":"01a0e3ab-3602-7b99-b42d-d5909d6fd17a"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-seats/turn-seats.module.ts","id":"01a0e30b-7f83-7984-9180-2a2282b3cf3d"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/turns/properties/cover-after.text-property.ts","id":"01a0fd9f-af7d-7831-acab-f94772b0ab69"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/properties/outcomes.file-property.ts","id":"01a0de23-015c-7892-8e17-ce5f54c5a9bc"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/properties/turn-action.text-property.ts","id":"01a0deae-42b1-76ed-84f7-2a78c60194f3"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/properties/turn-ends-at.instant-property.ts","id":"01a0e3a6-ba36-7c2b-a54c-7c264d49c80f"}

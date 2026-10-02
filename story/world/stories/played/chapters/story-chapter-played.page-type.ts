@@ -10,7 +10,7 @@ export const storyChapterPlayed = {
   runsTabooCheck: false,
   parts: [
     "record-property/chapter-turn-covers",
-    "text-property/cover-after",
+
     "text-property/last-turn",
     "number-property/last-turn-position",
     "instant-property/chapter-ends-at",

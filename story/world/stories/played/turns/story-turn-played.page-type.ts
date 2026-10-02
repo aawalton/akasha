@@ -20,6 +20,7 @@ export const storyTurnPlayed = {
     "text-property/turn-action",
 
     "instant-property/turn-ends-at",
+    "text-property/cover-after",
   ],
   properties: [
     { pageProperty: "file-property/outcomes", required: false, many: false, default: "jsonl" },
@@ -52,6 +53,7 @@ export const storyTurnPlayed = {
       maxCount: null,
     },
     { pageProperty: "instant-property/turn-ends-at", required: false, many: false },
+    { pageProperty: "text-property/cover-after", required: false, many: false },
   ],
   decisions: [
     {
