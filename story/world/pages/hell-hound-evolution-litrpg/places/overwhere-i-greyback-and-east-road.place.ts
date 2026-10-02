@@ -117,6 +117,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "Osric's cart makes Ketter's Well about 18:00 on day 5 and camps there.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Past the quarry, Osric's cart camps at Ketter's Well about 18:00 on day 5.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
