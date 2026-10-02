@@ -100,5 +100,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Heating stone with the air ward held is two workings; neither is made harder.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Earth workings take iron and steel too; a steel cap held in one scorches its wearer in 10 seconds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
