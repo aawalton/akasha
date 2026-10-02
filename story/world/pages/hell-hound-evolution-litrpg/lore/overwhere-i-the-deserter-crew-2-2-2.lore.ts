@@ -48,5 +48,9 @@ export const overwhereITheDeserterCrew222 = {
       fact: "With Voss's head, the coin and the purses, the sack weighs about fifteen pounds.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "No one else is on the track or at the quarry tonight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
