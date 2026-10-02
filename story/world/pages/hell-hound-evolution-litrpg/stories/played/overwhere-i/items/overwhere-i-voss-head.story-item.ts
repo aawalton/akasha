@@ -7,5 +7,6 @@ export const overwhereIVossHead = {
   title: "Harl Voss's Head",
   story: "story-played/overwhere-i",
   character: "character-player/overwhere-i-nala",
-  description: "The unsalted head of Harl Voss, the deserter captain, carried in his own sack.",
+  description:
+    "The head of Harl Voss, the deserter captain, packed in coarse salt inside his own sack with the eight crew ears, good to keep three weeks.",
 } as const satisfies StoryItem
