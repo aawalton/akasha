@@ -107,6 +107,10 @@ export const overwhereIGarrickPell = {
         "lore/overwhere-i-garrick-pell",
       ],
     },
+    {
+      fact: "Packed in salt in a tarred cask, Ghost-Eye's head is ready by about 18:15 on day 4.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
