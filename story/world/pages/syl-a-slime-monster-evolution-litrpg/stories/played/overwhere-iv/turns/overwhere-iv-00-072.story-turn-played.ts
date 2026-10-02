@@ -4,13 +4,14 @@ export const overwhereIv00072 = {
   id: "01a0fe86-ce05-77fd-aaf9-ec784282797c",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-072",
+  cover: "image/image-4551fbaf01caa211",
   ownLength: 162,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 72,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I blow the horn, then watch to see what the torches do, ready to slice goblins if they approach",
   beats: [
@@ -33,6 +34,12 @@ export const overwhereIv00072 = {
     "place/overwhere-iv-tull-farm",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-06T06:30:00.000Z",
+  coverAfter: "Grey light comes up behind the town. The Tangle's edge stands dark and quiet",
 } as const satisfies StoryTurnPlayed
