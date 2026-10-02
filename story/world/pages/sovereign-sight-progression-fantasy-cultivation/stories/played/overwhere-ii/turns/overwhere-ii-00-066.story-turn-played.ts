@@ -10,7 +10,7 @@ export const overwhereIi00066 = {
   position: 66,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“I don’t know, but this way, you’ll at least have a chance to plead their case and a bit of goodwill to spend on them. If you can get them to surrender quietly, all the better, but don’t give away the trap, that would backfire and end with all of you dead.”",
   beats: [
@@ -41,6 +41,7 @@ export const overwhereIi00066 = {
     "From the dark of the barn door, a soft, pleasant voice, almost smiling.",
     'The voice: "Nimble. They said you were. Put the spear down, healer, and nobody bleeds tonight."',
   ],
+  issues: ['"everyone walks away whole tonight" - the beat has him say "nobody bleeds tonight"'],
   lore: [
     "lore/overwhere-ii-bet-loddon",
     "lore/overwhere-ii-nala",
@@ -49,6 +50,6 @@ export const overwhereIi00066 = {
     "lore/overwhere-ii-reeve-corwin-dray-2",
     "place/overwhere-ii-ashlin-farm",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-14T18:30:00.000Z",
 } as const satisfies StoryTurnPlayed
