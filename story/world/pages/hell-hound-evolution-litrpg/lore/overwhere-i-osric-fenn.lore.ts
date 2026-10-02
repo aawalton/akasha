@@ -195,6 +195,10 @@ export const overwhereIOsricFenn = {
       fact: "The mule ran half a mile before Osric got it stopped; cart, cask and goods came through whole.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Told Voss is dead, Osric presses 5 silver on Nala for the road, and swears the east carts owe her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
