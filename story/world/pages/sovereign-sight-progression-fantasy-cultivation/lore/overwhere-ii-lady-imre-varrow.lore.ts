@@ -69,7 +69,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "She bids Nala tell the crag again, and listens without a word, her eyes on Sir Edric now and then.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "She asks where Nala comes from, since Dray wrote that she came to the Ford with no papers.",
