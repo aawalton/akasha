@@ -100,7 +100,7 @@ export const overwhereITobinAshdown = {
     },
     {
       fact: "That evening Tobin's mother Bet packs him a bag and asks Nala to bring him home whole.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
