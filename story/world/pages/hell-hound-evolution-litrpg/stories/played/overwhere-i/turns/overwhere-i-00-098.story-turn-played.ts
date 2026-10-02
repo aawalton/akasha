@@ -4,10 +4,17 @@ export const overwhereI00098 = {
   id: "01a0ff08-6610-7452-a7d9-71a525968fb0",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-098",
+  ownLength: 438,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 98,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-i-nala",
+    "character-other/overwhere-i-harl-voss",
+    "character-other/overwhere-i-ghost-eye",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I sit and tell her about the wolves and the bandits, presenting the ears, the tags, and the heads as proof.",
   beats: [
@@ -22,6 +29,6 @@ export const overwhereI00098 = {
     "Then she looks back at Nala, slow and careful, her scarred hands flat on the counter.",
     '"Your level says ten. Harl Voss was twenty-four. Who else was in it with you?"',
   ],
-  lore: ["place/overwhere-i-wendlow"],
+  lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "place/overwhere-i-wendlow"],
   endsAt: "2026-10-05T12:17:00.000Z",
 } as const satisfies StoryTurnPlayed
