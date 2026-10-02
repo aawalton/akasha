@@ -4,10 +4,13 @@ export const overwhereIi00088 = {
   id: "01a0febb-0f11-7f1d-99ff-cb4d66a0ad24",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-088",
+  ownLength: 203,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 88,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Garth Marsh was the first I encountered, I think I got the name right. Names seem to slip from me. I don’t remember anything really before that. His daughter had the rot and I used my Talent to pull it out of her.”",
   beats: [
@@ -30,6 +33,11 @@ export const overwhereIi00088 = {
     'Lady Varrow: "This came from the Spires. It shows a Talent for what it is."',
     'Lady Varrow: "Will you let me look at you?"',
   ],
-  lore: ["lore/overwhere-ii-lady-imre-varrow"],
+  lore: [
+    "lore/overwhere-ii-lady-imre-varrow",
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-nala-3",
+  ],
   endsAt: "2026-10-21T08:28:00.000Z",
 } as const satisfies StoryTurnPlayed
