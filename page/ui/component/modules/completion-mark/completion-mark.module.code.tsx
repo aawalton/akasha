@@ -35,7 +35,7 @@ export function CompletionMark({
         cx={12}
         cy={12}
         r={RADIUS}
-        className="text-success"
+        className="text-accent"
         stroke="currentColor"
         strokeWidth={3}
         strokeDasharray={`${String(shown * CIRCUMFERENCE)} ${String(CIRCUMFERENCE)}`}
