@@ -1,1 +1,2 @@
 {"check":"world-check/overwhere-iii-time-passing","reading":{"from":"2026-10-07T16:08:00.000Z","minutes":3},"answered":{"endsAt":"2026-10-07T16:11:00.000Z","day":9,"light":"day"}}
+{"check":"world-check/overwhere-iii-needs","reading":{"character":"character-player/overwhere-iii-nala","hoursFed":21.9,"hoursAwake":9.7,"cold":"warm","barefootMiles":0},"answered":{"wants":["Hungry"],"penalty":1}}
