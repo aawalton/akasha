@@ -10,7 +10,7 @@ export const hollowmere0010EveryWindowLitButOne = {
   story: "story-written/hollowmere",
   ownLength: 3796,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Wednesday: you wake clear-headed, the headache gone, Kit's handkerchief still in your hand.",
     "Dawn at the boathouse: the cold-water swimmers' first morning, a register, a safety boat, a whistle.",
@@ -58,7 +58,11 @@ export const hollowmere0010EveryWindowLitButOne = {
     "You fall asleep with Kit's handkerchief under your pillow and the taste of sugar on your lips.",
     "A day at Hollowmere ends.",
   ],
-  issues: ['"astonished at herself, all at once, waiting to see what you\'ll do" - No Prompt'],
+  issues: [
+    '"astonished at herself, all at once, waiting to see what you\'ll do" - No Prompt',
+    '"you had a nosebleed. In practical." - Bea shares Nala\'s practical, so saw the nosebleed',
+    "\"She's heard about the nosebleed too\" - Lin shares Nala's practical, so saw the nosebleed",
+  ],
   lore: [
     "lore/hollowmere-academy-2",
     "lore/hollowmere-bea",
@@ -78,5 +82,5 @@ export const hollowmere0010EveryWindowLitButOne = {
     "character-other/hollowmere-lin",
     "character-other/hollowmere-kit",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
