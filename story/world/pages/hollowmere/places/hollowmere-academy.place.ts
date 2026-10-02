@@ -331,5 +331,43 @@ export const hollowmereAcademy = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "The societies fair fills the Great Hall at lunchtime on the Tuesday of week two.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
+    {
+      fact: "Societies include rowing, cold-water swimming, poetry, life drawing, debating and charmcraft.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
+    {
+      fact: "The cold-water swimmers swim the mere legally, at dawn, with a safety boat and a register.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
+    {
+      fact: "The infirmary in the west range has six beds, a dispensary, and a healer on duty day and night.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
   ],
 } as const satisfies Place

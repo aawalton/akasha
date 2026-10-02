@@ -133,6 +133,10 @@ export const hollowmereYusra = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Yusra works night shifts in the infirmary on Tuesdays and Thursdays, ten till six.",
+      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-yusra"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
