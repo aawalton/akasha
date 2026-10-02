@@ -46,5 +46,13 @@ export const hollowmereAcademy2 = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Ashcombe's cook, Mrs Hale, keeps a forbidden hen in the scullery and gives polite girls toast.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
   ],
 } as const satisfies Lore

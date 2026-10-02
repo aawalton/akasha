@@ -56,5 +56,30 @@ export const hollowmereNala2 = {
       fact: "Nala finished her essay near midnight; its last line: intent comes from wherever the wanting lives.",
       knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
     },
+    {
+      fact: "Nala handed Penhallow her essay herself; Penhallow read its last line, said Hm, put it on top.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Nala's warming spirals go loose and all the way in now, nearly like Lin's beside them.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Nala keeps Kit's black handkerchief under her pillow.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
   ],
 } as const satisfies Lore

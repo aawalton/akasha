@@ -75,7 +75,11 @@ export const hollowmereKit = {
     },
     {
       fact: "Kit has known she wants girls since she was fifteen, and has told no one in her family.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-kit"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Kit reads poetry she would deny reading, and is quietly very funny once she trusts someone.",
@@ -340,6 +344,47 @@ export const hollowmereKit = {
     },
     {
       fact: "Kit folded Nala's answer into a small hard square and kept it in her skirt pocket.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "At the Friday film in Kendal, Kit held Nala's hand in the dark, and they kissed, twice.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Kit paid for both cinema tickets: she chose the film, so she pays, by a rule she just made.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "After the film Kit said she'd never done that with anyone watching; Nala was, she said.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "On the last bus Kit told Nala her secret, aloud for the first time; Nala said she'd keep it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "Kit's grandmother used to mouth the History lecturer's wrong date along, to annoy the girl in front.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/hollowmere-nala",

@@ -316,6 +316,22 @@ export const hollowmereBea = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "Told first of Nala's date with Kit, Bea said it stings a bit, less than she thought.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Bea sent Nala off in the soft green jumper, waited up, and said she was glad of the kiss. Mostly.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

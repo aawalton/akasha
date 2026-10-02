@@ -106,7 +106,29 @@ export const hollowmerePenhallow = {
     },
     {
       fact: "Dr Penhallow returns essays at the next tutorial, marked in green ink, each with one question.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-penhallow"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-penhallow",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Penhallow told Kit and Amara both are half right on the focus question, and gave each shortbread.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-penhallow",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+      ],
     },
   ],
 } as const satisfies Lore
