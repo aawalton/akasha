@@ -212,5 +212,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "The mending weave restores 1 health every 2 minutes at 10 mana a minute, on shallow wounds only.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Finding the mending weave by trial takes about three hours; other pairs sting, chill or do nothing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
