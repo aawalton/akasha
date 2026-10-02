@@ -75,5 +75,9 @@ export const overwhereIiOswyCrake2 = {
       fact: "A coat of rings under Crake's jerkin armours his chest and belly; Nala's spear point grinds on it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "A needle dart from Crake's left cuff broke the skin of Nala's neck; cold creeps toward her Locks.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
