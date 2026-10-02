@@ -4,6 +4,7 @@ export const overwhereIii00059 = {
   id: "01a0fdad-4785-7529-bf21-d5bf40a692e3",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-059",
+  cover: "image/image-30538b792b6c494c",
   ownLength: 212,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -13,7 +14,7 @@ export const overwhereIii00059 = {
     "character-player/overwhere-iii-nala",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I pull out the blight and heal the injury, paying attention and trying to figure out what is different with the increase in rarity.",
   beats: [
@@ -42,6 +43,11 @@ export const overwhereIii00059 = {
     "lore/overwhere-iii-nala-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-05T17:30:00.000Z",
 } as const satisfies StoryTurnPlayed
