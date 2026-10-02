@@ -63,7 +63,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 11,
-      cover: "image/image-d4075bbb0f83ccf1",
+      cover: "image/image-e9a7d74dd8f2779f",
       coverAfter: "Inside, a cooler stands dark in one corner, tall and silver-edged and",
     },
     {
