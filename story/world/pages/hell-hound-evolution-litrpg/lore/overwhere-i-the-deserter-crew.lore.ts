@@ -135,6 +135,10 @@ export const overwhereITheDeserterCrew = {
       fact: "At the roadblock Voss stands 8 yards from Nala, his five men 6 to 12 yards, Crow 35 in the trees.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A slug to a bare head does a man 30 harm; a helm wards 2 against it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
