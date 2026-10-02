@@ -106,5 +106,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Feeling his cap warm, Voss tears it off and steps back into the gallery out of sight.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A slug at Voss's head standing in parley at 60 yards is hard; moving or past the shield, harder.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
