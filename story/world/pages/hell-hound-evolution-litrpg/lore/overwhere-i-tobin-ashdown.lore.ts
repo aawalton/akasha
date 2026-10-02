@@ -168,6 +168,10 @@ export const overwhereITobinAshdown = {
         "lore/overwhere-i-tobin-ashdown",
       ],
     },
+    {
+      fact: "Knowing Nala's voice, Tobin lowers his bow with a shaky laugh; he and Osric are unhurt.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
