@@ -10,7 +10,7 @@ export const emberdeep0002ChalkArrows = {
   story: "story-written/emberdeep",
   ownLength: 4716,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Nala wakes in room 7 and checks her hands first; they are still small, pale and freckled.",
     "She is still Nala, and she finds she is more relieved than sorry.",
@@ -102,6 +102,7 @@ export const emberdeep0002ChalkArrows = {
   ],
   issues: [
     '"falling asleep, that waking up still here might be the worst" - ch1: slept on the Deep, not home',
+    '"Nobody says what happens after the third" - Nobody Acts',
   ],
   lore: [
     "lore/emberdeep-elowen",
@@ -116,5 +117,5 @@ export const emberdeep0002ChalkArrows = {
     "character-other/emberdeep-wren",
     "character-other/emberdeep-elowen",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryChapterWritten
