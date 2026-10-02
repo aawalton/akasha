@@ -216,5 +216,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Finding the mending weave by trial takes about three hours; other pairs sting, chill or do nothing.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Fire with any partner on a wound burns it worse; lightning, if she reaches for it, jolts and numbs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
