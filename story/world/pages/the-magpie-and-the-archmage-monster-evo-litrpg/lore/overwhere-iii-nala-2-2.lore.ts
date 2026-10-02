@@ -52,5 +52,9 @@ export const overwhereIiiNala22 = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "Her shop's skills: Spark 3, Mana Bolt 5, Appraise 5, Gust 6, Minor Ward 8, Mend 10, Purify 15.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore

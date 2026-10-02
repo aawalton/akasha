@@ -330,7 +330,11 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "At Basic an Inventory holds about a full knapsack's worth; each rank holds more.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Buying Inventory shows: [New trait acquired – Inventory.]",
@@ -342,7 +346,11 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "Appraise sells in the skill shop for 5 glimmerstones.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
   secrets: "jsonl",
