@@ -238,7 +238,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 46,
-      cover: "image/image-296039a4ce6761c8",
+      cover: "image/image-68a046eaa7110a39",
       coverAfter: "You close your eyes where you lie, in the scatter of salt",
     },
     {
