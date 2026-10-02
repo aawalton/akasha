@@ -4,10 +4,17 @@ export const overwhereIv00065 = {
   id: "01a0fe2e-fe2f-7448-9d54-fde6b7e7d3d6",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-065",
+  ownLength: 283,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 65,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iv-nala",
+    "character-other/overwhere-iv-ilsa-crane",
+    "character-other/overwhere-iv-brenna-holt",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I leave the broken spear and carry just the head back to town, I’ll reimburse the guard for the spear, my replacement is already being made, and report back to the guild.",
   beats: [
@@ -31,7 +38,11 @@ export const overwhereIv00065 = {
     'She taps the counter. "Till then no bronze goes up that track. That means you too."',
   ],
   lore: [
+    "lore/overwhere-iv-ilsa-crane-2",
     "lore/overwhere-iv-millbrook-adventurers-hall-2",
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "lore/overwhere-iv-nala-3",
     "place/overwhere-iv-crake-gill",
     "place/overwhere-iv-crowstone-quarry",
     "place/overwhere-iv-millbrook-gatehouse",
