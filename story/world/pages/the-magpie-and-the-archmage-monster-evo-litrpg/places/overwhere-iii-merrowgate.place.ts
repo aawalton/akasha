@@ -259,6 +259,10 @@ export const overwhereIiiMerrowgate = {
       fact: "The east gate opens on the Thornmere road; the cattle pens and a drovers' trough lie inside it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The pens smell of dung and wet straw; drovers lean on the rails trading prices and road news.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
