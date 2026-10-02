@@ -15,7 +15,7 @@ export const overwhereI00078 = {
     "character-other/overwhere-i-quarry-crewman-one",
     "character-other/overwhere-i-quarry-crewman-two",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I use my concentrated beam of fire to finish the two men, aiming for the heads, then quietly start tracking the four that got away",
   beats: [
@@ -40,6 +40,11 @@ export const overwhereI00078 = {
     "lore/overwhere-i-the-deserter-crew-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-03T15:40:00.000Z",
 } as const satisfies StoryTurnPlayed
