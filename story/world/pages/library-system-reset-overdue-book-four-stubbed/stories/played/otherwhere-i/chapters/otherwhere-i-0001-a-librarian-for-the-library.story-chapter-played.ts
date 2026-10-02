@@ -183,7 +183,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 35,
-      cover: "image/image-cebf924892e9d932",
+      cover: "image/image-9321de0a35cbb2e0",
       coverAfter: "You look down at your left arm. It's still torn, crusted with",
     },
     {
