@@ -33,5 +33,6 @@ export const overwhereIii00071 = {
     "lore/overwhere-iii-the-system",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-07T11:40:00.000Z",
 } as const satisfies StoryTurnPlayed
