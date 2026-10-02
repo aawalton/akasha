@@ -48,5 +48,13 @@ export const overwhereIiiCorruption2 = {
         "character-other/overwhere-iii-oswin-fairley",
       ],
     },
+    {
+      fact: "Nala's braided lash-pull caught the fox mid-leap a stride short of Oswin and killed it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-oswin-fairley",
+      ],
+    },
   ],
 } as const satisfies Lore
