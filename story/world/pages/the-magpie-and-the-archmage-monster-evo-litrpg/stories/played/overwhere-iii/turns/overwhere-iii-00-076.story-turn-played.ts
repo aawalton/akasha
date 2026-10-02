@@ -11,7 +11,7 @@ export const overwhereIii00076 = {
   position: 76,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“I’m not sure”, I hold them out. “I feel like they’ll heal fine though.",
   beats: [
     '"I\'m not sure." Nala holds her hands out, palms up. "I feel like they\'ll heal fine though."',
@@ -31,7 +31,12 @@ export const overwhereIii00076 = {
     "lore/overwhere-iii-nala-2-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-07T15:58:00.000Z",
   coverAfter: "The skin is pink and tight, like a scald off a hot pan,",
 } as const satisfies StoryTurnPlayed

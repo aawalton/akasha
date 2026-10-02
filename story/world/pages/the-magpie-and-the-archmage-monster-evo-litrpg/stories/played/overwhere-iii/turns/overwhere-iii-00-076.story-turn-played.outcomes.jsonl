@@ -1,2 +1,3 @@
 {"check":"world-check/overwhere-iii-time-passing","reading":{"from":"2026-10-07T15:55:00.000Z","minutes":3},"answered":{"endsAt":"2026-10-07T15:58:00.000Z","day":9,"light":"day"}}
 {"check":"world-check/overwhere-iii-needs","reading":{"character":"character-player/overwhere-iii-nala","hoursFed":21.7,"hoursAwake":9.5,"cold":"warm","barefootMiles":0},"answered":{"wants":["Hungry"],"penalty":1}}
+{"check":"world-check/overwhere-iii-standing","reading":{"character":"character-other/overwhere-iii-marda-hesk","kept":0,"heard":0,"shared":1,"shielded":0,"crossed":0,"quotes":{"shared":"You hold your hands out, palms up."}},"answered":{"earned":1,"lost":0,"change":1}}
