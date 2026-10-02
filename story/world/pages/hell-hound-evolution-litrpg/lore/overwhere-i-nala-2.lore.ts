@@ -72,5 +72,13 @@ export const overwhereINala2 = {
       fact: "At the quarry a crossbow bolt her ward slapped aside skipped off the road and gashed Nala's hip.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Behind her boulders Nala drew both pale blue crystals dry; both crumbled to dust.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Drawing a crystal, Nala feels mana seep in as a slow, steady filling behind her breastbone.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore

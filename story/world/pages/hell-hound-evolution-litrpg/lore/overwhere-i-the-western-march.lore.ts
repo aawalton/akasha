@@ -121,7 +121,7 @@ export const overwhereITheWesternMarch = {
     },
     {
       fact: "Held in hand, a mana crystal hums faintly against anyone with a mana reserve.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Drawing a small mana crystal dry takes about half a minute, held in a bare hand.",
