@@ -4,6 +4,7 @@ export const overwhereI00074 = {
   id: "01a0fd7b-8d41-7939-b418-8caab09bd0d2",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-074",
+  cover: "image/image-10eca735f03d2a80",
   ownLength: 207,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -18,7 +19,7 @@ export const overwhereI00074 = {
     "character-other/overwhere-i-quarry-crewman-four",
     "character-other/overwhere-i-quarry-crewman-five",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Sure, we’ve paid your toll, so now you can pay mine. Your head should just about cover it.” I stay behind cover and keep firing careful aimed shots with the stone bullets, targeting faces and gaps in their armor.",
   beats: [
@@ -41,6 +42,11 @@ export const overwhereI00074 = {
     "lore/overwhere-i-the-deserter-crew-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-03T15:09:00.000Z",
 } as const satisfies StoryTurnPlayed
