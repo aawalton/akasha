@@ -16,5 +16,37 @@ export const hollowmereNala2 = {
         "character-other/hollowmere-shiv",
       ],
     },
+    {
+      fact: "Nala swam to the swimmers' buoy beside Shiv; four minutes, Shiv said, impressed: with a nanny.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+      ],
+    },
+    {
+      fact: "Drawn breathing, Nala's looser warming sigil got Better from the Sigils tutor.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Nala bought Bea two cheese scones and two fruit ones, warm, at the village shop for £3.20.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "At poetry society Nala read a borrowed poem about the sea, badly, and Kit's mouth twitched.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
   ],
 } as const satisfies Lore

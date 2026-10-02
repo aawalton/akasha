@@ -16,5 +16,13 @@ export const hollowmereAcademy2 = {
         "character-other/hollowmere-shiv",
       ],
     },
+    {
+      fact: "The Snug is up a short stair in the old library: oak panels, an iron grate, sagging green sofas.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
   ],
 } as const satisfies Lore

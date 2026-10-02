@@ -151,6 +151,7 @@ export const hollowmereYusra = {
         "lore-disclosure/game-master",
         "character-player/hollowmere-nala",
         "character-other/hollowmere-yusra",
+        "character-other/hollowmere-bea",
       ],
     },
     {
@@ -167,6 +168,7 @@ export const hollowmereYusra = {
         "lore-disclosure/game-master",
         "character-player/hollowmere-nala",
         "character-other/hollowmere-yusra",
+        "character-other/hollowmere-bea",
       ],
     },
     {
@@ -175,10 +177,20 @@ export const hollowmereYusra = {
         "lore-disclosure/game-master",
         "character-player/hollowmere-nala",
         "character-other/hollowmere-yusra",
+        "character-other/hollowmere-bea",
       ],
     },
     {
       fact: "At the infirmary door Yusra said Goodnight, Nala: the first time she has called her Nala.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Passing Nala in the corridor, Yusra asked Headache?; Nala said gone, and Yusra's eyes stayed on her.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/hollowmere-nala",

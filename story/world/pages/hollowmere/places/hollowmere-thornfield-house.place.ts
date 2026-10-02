@@ -68,5 +68,13 @@ export const hollowmereThornfieldHouse = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "The boiler man comes to Thornfield on Friday, and Yusra is listing hot-water trouble for him.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
   ],
 } as const satisfies Place

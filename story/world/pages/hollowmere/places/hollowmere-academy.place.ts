@@ -383,11 +383,19 @@ export const hollowmereAcademy = {
     },
     {
       fact: "The poetry society meets Wednesdays at eight in the Snug, a panelled room with a fire.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-kit"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "At poetry meetings each member reads one poem aloud, her own or another's, and nobody claps.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-kit"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Life drawing meets Thursday evenings, rowing Saturday mornings, and charmcraft on Mondays.",

@@ -298,6 +298,30 @@ export const hollowmereKit = {
         "character-other/hollowmere-kit",
       ],
     },
+    {
+      fact: "Kit froze at poetry till Nala looked away; then she read of a house with every window lit but one.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "Nala held out Kit's washed handkerchief after poetry, and Kit told her to keep it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "On Thornfield's step Kit asked Nala to the cinema on Saturday, if she meant it; Nala said she did.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

@@ -215,6 +215,14 @@ export const hollowmereShiv = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Shiv signed the swimmers' register under Nala's name: Doyle (still reluctant).",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
