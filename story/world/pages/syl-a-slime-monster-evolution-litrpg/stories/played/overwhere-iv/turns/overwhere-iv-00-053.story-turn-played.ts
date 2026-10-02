@@ -36,6 +36,6 @@ export const overwhereIv00053 = {
   ],
   lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2", "place/overwhere-iv-raiders-stream"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
   endsAt: "2026-10-03T11:05:00.000Z",
 } as const satisfies StoryTurnPlayed
