@@ -4,13 +4,14 @@ export const overwhereI00088 = {
   id: "01a0fe74-93da-7ac6-b373-9e93f1c926ec",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-088",
+  cover: "image/image-ef373eb5a7971928",
   ownLength: 152,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 88,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I start tracking the mile and cart, keeping my mana around 80% full and using my mobility enhancements wherever it is higher.",
   beats: [
@@ -31,6 +32,12 @@ export const overwhereI00088 = {
     "place/overwhere-i-greyback-and-east-road",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-04T00:28:00.000Z",
+  coverAfter: "As your flame comes on toward the cart, a bowstring creaks in the dark beside it.",
 } as const satisfies StoryTurnPlayed
