@@ -125,7 +125,7 @@ export const overwhereITheWesternMarch = {
     },
     {
       fact: "Drawing a small mana crystal dry takes about half a minute, held in a bare hand.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Drawing on a mana crystal needs no skill and no check; anyone with a mana reserve can do it.",
