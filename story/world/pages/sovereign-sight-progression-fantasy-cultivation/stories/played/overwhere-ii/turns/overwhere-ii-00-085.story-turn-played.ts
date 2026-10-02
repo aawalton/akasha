@@ -10,7 +10,7 @@ export const overwhereIi00085 = {
   position: 85,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I bow and wait to be spoken to.",
   beats: [
     "Nala bows, and waits to be spoken to.",
@@ -25,12 +25,13 @@ export const overwhereIi00085 = {
     "She lifts a hand. A servant steps forward with a silver bar on a square of grey cloth.",
     'Lady Varrow: "From the House. Take it."',
   ],
+  issues: ['"She offers no more courtesy than that" - Plain Negation'],
   lore: [
     "lore/overwhere-ii-lady-imre-varrow",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",
     "lore/overwhere-ii-nala-3",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-21T08:03:00.000Z",
 } as const satisfies StoryTurnPlayed
