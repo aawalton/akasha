@@ -9,7 +9,7 @@ export const overwhereIiLadyImreVarrow = {
   facts: [
     {
       fact: "Lady Imre Varrow, thirty-eight, rules House Varrow and Wendlemere from Varrow Keep.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Her Talent is Rime, Major, at Second Depth: she lays frost that cracks stone.",
