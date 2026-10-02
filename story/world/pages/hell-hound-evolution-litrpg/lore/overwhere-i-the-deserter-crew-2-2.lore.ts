@@ -138,5 +138,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Crow lies dead among the roots at the bend; the helmed crossbowman lies on the track ten yards on.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Crow carries a long knife at his belt; Five a short sword.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
