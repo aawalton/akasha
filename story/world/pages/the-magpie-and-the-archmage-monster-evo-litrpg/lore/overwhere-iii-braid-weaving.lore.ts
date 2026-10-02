@@ -60,5 +60,9 @@ export const overwhereIiiBraidWeaving = {
       fact: "The lash strand pins what it strikes, so a braided lash-pull draws blight like two pulls.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Braided onto a lent current, a looped weave pales a blightstone twice what a plain weave does.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
