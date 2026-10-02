@@ -123,7 +123,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 23,
-      cover: "image/image-5ce161763d376e33",
+      cover: "image/image-c59a06d7a3eceb37",
       coverAfter: "You scoop two fistfuls of salt off the oval's edge beside the",
     },
     {
