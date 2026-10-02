@@ -267,6 +267,10 @@ export const overwhereIiiMerrowgate = {
       fact: "In Merrowgate a glimmerstone changes hands for about 25 copper, when anyone will part with one.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
+    {
+      fact: "Glimmer specks are not bought or sold in Merrowgate; few folk have ever seen one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
