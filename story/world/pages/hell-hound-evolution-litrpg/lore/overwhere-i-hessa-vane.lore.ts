@@ -167,6 +167,10 @@ export const overwhereIHessaVane = {
         "lore/overwhere-i-rowan-coalby",
       ],
     },
+    {
+      fact: "Hessa tells Nala Wendlow is three days east by cart on the east road, two by a good horse.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
