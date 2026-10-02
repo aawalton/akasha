@@ -10,7 +10,7 @@ export const overwhereIi00061 = {
   position: 61,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I pick up my commissioned spear from Hob and check with Anselm on the next steps for my refining",
   beats: [
@@ -40,6 +40,6 @@ export const overwhereIi00061 = {
     "lore/overwhere-ii-nala-2",
     "place/overwhere-ii-tarrant-smithy",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-07T07:50:00.000Z",
 } as const satisfies StoryTurnPlayed
