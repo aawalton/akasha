@@ -11,7 +11,7 @@ export const overwhereIi00079 = {
   position: 79,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I eat and drink. “Anything else you need from me, Dray? Otherwise, I’m back to refining.”",
   beats: [
@@ -42,7 +42,12 @@ export const overwhereIi00079 = {
     "place/overwhere-ii-ashlin-farm",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-15T12:30:00.000Z",
   coverAfter: "Dray halts the column in front of his house and turns to you.",
 } as const satisfies StoryTurnPlayed
