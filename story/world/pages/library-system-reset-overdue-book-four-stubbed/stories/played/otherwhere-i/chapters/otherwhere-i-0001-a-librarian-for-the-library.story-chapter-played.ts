@@ -243,7 +243,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 47,
-      cover: "image/image-3c56e8c70d4fad6b",
+      cover: "image/image-00743074990fe962",
       coverAfter: "The sack glances off its teeth and thumps down whole on the",
     },
     {
