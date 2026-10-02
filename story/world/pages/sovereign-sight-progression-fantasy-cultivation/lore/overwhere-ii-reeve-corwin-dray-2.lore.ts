@@ -91,5 +91,29 @@ export const overwhereIiReeveCorwinDray2 = {
       fact: "Told of the boy who watched Nala, Dray names him a likely scout for Crake and warns her.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Dray's watch is four untalented spearmen: Col Ashby, Tam Reed, and the Pell twins.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray believes Nala at once, and wants Crake for the ten-bar price and the three lost Talented.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray would turn the trap: Nala walks in as bait while he and the watch come up the beck behind.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray means to strike before nightfall, before Crake guesses Bet has failed and moves camp.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray reckons Crake's touch cannot drink through Stonehand, since stone has no skin.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray knows Ashlin Farm: empty since autumn, with a beck gully behind its barn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
