@@ -4,7 +4,7 @@ export const overwhereIv00045 = {
   id: "01a0f485-1134-73de-ba95-df93aa22db5b",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-045",
-  cover: "image/image-d06176b43883e6f6",
+  cover: "image/image-12ade7233a70be32",
   ownLength: 178,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
