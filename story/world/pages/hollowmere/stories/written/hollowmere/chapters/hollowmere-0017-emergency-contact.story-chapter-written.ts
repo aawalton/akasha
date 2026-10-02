@@ -10,7 +10,7 @@ export const hollowmere0017EmergencyContact = {
   story: "story-written/hollowmere",
   ownLength: 2840,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Wednesday: grey and still at dawn, the fells hidden; you and Shiv swim the buoy in thick mist.",
     "Out at the buoy Shiv asks what Penhallow's question meant; you say you're still thinking.",
@@ -66,6 +66,9 @@ export const hollowmere0017EmergencyContact = {
     "You put the phone under your pillow beside Kit's handkerchief, and turn out the lamp.",
     "A day at Hollowmere ends.",
   ],
+  issues: [
+    '"Whose wanting," Shiv repeats - only Kit saw or was told Penhallow\'s question; Shiv never learned it',
+  ],
   lore: [
     "lore/hollowmere-academy-2",
     "lore/hollowmere-bea",
@@ -83,5 +86,5 @@ export const hollowmere0017EmergencyContact = {
     "character-other/hollowmere-lin",
     "character-other/hollowmere-kit",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
