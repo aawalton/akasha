@@ -262,5 +262,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "The east rim passes the goat path's top; Crow's stand lies off the west side, away from it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Unheard, the blademen stay hidden and still; Two keeps his sword in hand.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
