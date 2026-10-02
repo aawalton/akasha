@@ -10,7 +10,7 @@ export const saltAndLamplight0002HerMothersDress = {
   story: "story-written/salt-and-lamplight",
   ownLength: 3285,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Nala wakes in the loft at grey dawn, still in this small body, still Nala.",
     "She lies a while with a hand on her tits under the shift; it doesn't feel like a dream.",
@@ -71,6 +71,8 @@ export const saltAndLamplight0002HerMothersDress = {
   ],
   issues: [
     '"her boots ringing on the iron stair" - the tower stair has stone treads earlier in the chapter',
+    '"neither of you moves to close it or to widen it" - Nobody Acts',
+    '"You fall asleep to the sound, on your second night as Nala." - Leave It Open',
   ],
   lore: [
     "lore/salt-and-lamplight-agnes",
@@ -85,5 +87,5 @@ export const saltAndLamplight0002HerMothersDress = {
     "character-other/salt-and-lamplight-dilys",
     "character-other/salt-and-lamplight-agnes",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryChapterWritten
