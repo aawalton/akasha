@@ -4,13 +4,14 @@ export const overwhereIv00057 = {
   id: "01a0fd91-87c3-775b-ae0b-a305f2d14c88",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-057",
+  cover: "image/image-0e3599f0d786188b",
   ownLength: 126,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 57,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“Sure, might as well have an edge while I’m waiting. Thanks!”",
   beats: [
     '"Sure, might as well have an edge while I\'m waiting. Thanks!" Nala sets ten copper on the bench.',
@@ -28,6 +29,11 @@ export const overwhereIv00057 = {
     "place/overwhere-iv-millbrook-smithy",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/inventory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/memory",
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-03T15:45:00.000Z",
 } as const satisfies StoryTurnPlayed
