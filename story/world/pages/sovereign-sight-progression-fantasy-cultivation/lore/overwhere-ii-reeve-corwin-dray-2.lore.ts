@@ -105,7 +105,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray means to strike before nightfall, before Crake guesses Bet has failed and moves camp.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray reckons Crake's touch cannot drink through Stonehand, since stone has no skin.",
