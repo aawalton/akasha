@@ -8,5 +8,5 @@ export const emberdeepPlainClothes = {
   story: "story-written/emberdeep",
   character: "character-player/emberdeep-nala",
   description:
-    "A plain shirt, a bodice laced up the front, a pair of breeches and boots, with a thin linen nightshirt.",
+    "A plain shirt, a bodice laced up the front, a pair of breeches and boots, with a thin linen nightshirt. A strip is torn from the hem of the shirt and another from the hem of the nightshirt, both used to bind Wren's arm.",
 } as const satisfies StoryItem
