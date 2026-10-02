@@ -110,5 +110,5 @@ export const hollowmere0001Thornfield14 = {
     "character-other/hollowmere-kit",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory"],
 } as const satisfies StoryChapterWritten
