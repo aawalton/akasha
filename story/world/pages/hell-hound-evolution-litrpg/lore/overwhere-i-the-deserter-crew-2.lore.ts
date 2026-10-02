@@ -37,5 +37,9 @@ export const overwhereITheDeserterCrew2 = {
         "character-other/overwhere-i-quarry-crewman-five",
       ],
     },
+    {
+      fact: "Heat on the open pit floor drives the crew back into the galleries, beyond 30 yards of the lip.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
