@@ -134,7 +134,11 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "Skills and traits each fill slots shown as (x/10); higher evolutions raise the cap to 12 or 14.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "With slots full a new skill must replace an old one, and a removed skill can never be relearned.",
