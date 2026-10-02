@@ -313,7 +313,7 @@ export const overwhereIvTheTangle = {
     },
     {
       fact: "The deer trail can be kept in the dark by Spatial Sense alone, its edges felt within her reach.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Grakk's strike moves dark, and lights torches only at the meadow's edge, to fire the farm.",

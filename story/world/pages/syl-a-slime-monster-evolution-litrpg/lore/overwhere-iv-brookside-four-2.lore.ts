@@ -77,15 +77,27 @@ export const overwhereIvBrooksideFour2 = {
     },
     {
       fact: "Told Nala hunts the Tangle tonight, Dace thinks it mad, but agrees to be her fallback.",
-      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "lore/overwhere-iv-brookside-four",
+        "character-player/overwhere-iv-nala",
+      ],
     },
     {
       fact: "Dace bids her come out at Tull's ford calling his name, so Merrit won't fire on her.",
-      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "lore/overwhere-iv-brookside-four",
+        "character-player/overwhere-iv-nala",
+      ],
     },
     {
       fact: "Dace and Merrit will keep a lantern lit in Tull's fold all night, to steer her by.",
-      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "lore/overwhere-iv-brookside-four",
+        "character-player/overwhere-iv-nala",
+      ],
     },
   ],
 } as const satisfies Lore
