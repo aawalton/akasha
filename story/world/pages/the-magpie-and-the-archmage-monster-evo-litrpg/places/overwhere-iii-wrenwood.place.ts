@@ -246,7 +246,11 @@ export const overwhereIiiWrenwood = {
     },
     {
       fact: "The blighted boar, Level 14, roams the wood's edge between the south road and the Wren Brook ford.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
   ],
   secrets: "jsonl",
