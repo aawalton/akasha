@@ -193,7 +193,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray can keep pace with Nala; at First Depth he runs for hours like a horse at a hard trot.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray would run with Nala himself, leaving Col Ashby and the Pells to hold the prisoners.",
