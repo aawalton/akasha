@@ -34,5 +34,6 @@ export const overwhereI00063 = {
     "lore/overwhere-i-the-system",
     "lore/overwhere-i-the-system-2",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-02T10:02:00.000Z",
 } as const satisfies StoryTurnPlayed
