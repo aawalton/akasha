@@ -249,5 +249,9 @@ export const overwhereIiiNala2 = {
       fact: "At Level 2 Nala's most health rises by three and her own mana by two, to 12 mana.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala reached Level 2 taking Marda's quest silver, and woke with more room inside her for mana.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
