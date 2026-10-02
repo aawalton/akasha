@@ -4,6 +4,7 @@ export const overwhereI00069 = {
   id: "01a0fd39-b9ca-7a27-95cd-f451bfe9812a",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-069",
+  cover: "image/image-eecb696444015fa7",
   ownLength: 180,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -19,7 +20,7 @@ export const overwhereI00069 = {
     "character-other/overwhere-i-quarry-crewman-four",
     "character-other/overwhere-i-quarry-crewman-five",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I attune Earth and Air and start hitting Voss and his men with precision bullet shots to the forehead, guiding each shot all the way to landing to ensure it hits. I keep a second air attunement ready to pull any projectiles of course so they don’t injure us.",
   beats: [
@@ -48,6 +49,11 @@ export const overwhereI00069 = {
     "lore/overwhere-i-the-system-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-03T15:01:00.000Z",
 } as const satisfies StoryTurnPlayed
