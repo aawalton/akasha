@@ -141,7 +141,11 @@ export const overwhereIvRaidersStream = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
-      fact: "The rest of the raiders carry clubs, rags and nothing worth taking; goblins hold no cores.",
+      fact: "The rest of the raiders carry clubs, rags and nothing worth taking.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Each raider still holds a small core in its chest, left in the bodies Nala didn't open.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
