@@ -14,7 +14,7 @@ export const overwhereI00081 = {
     "character-other/overwhere-i-mirren-dask",
     "character-other/overwhere-i-quarry-crewman-five",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I finish off the two crossbow men with the beam through their heads or necks, then turn to find the others",
   beats: [
@@ -35,6 +35,6 @@ export const overwhereI00081 = {
     "lore/overwhere-i-the-deserter-crew-2",
     "lore/overwhere-i-the-deserter-crew-2-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-03T16:19:00.000Z",
 } as const satisfies StoryTurnPlayed
