@@ -59,5 +59,9 @@ export const overwhereIiLoddonBrothers = {
       fact: "An hour down the road from Ashlin, Pip hears runners behind him and hides in the hedge bottom.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Wil reckons Pip won't think anyone is coming after him.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
