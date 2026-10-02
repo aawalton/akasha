@@ -4,13 +4,14 @@ export const overwhereIv00053 = {
   id: "01a0fd5e-3ff8-7c89-a6fe-fe5c0434f39c",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-053",
+  cover: "image/image-d9011e6fbb80a105",
   ownLength: 242,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 53,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I slice the hobgoblin’s throat next, then use my spacial sense to finish the remainder, even if i can’t see them.",
   beats: [
@@ -36,6 +37,11 @@ export const overwhereIv00053 = {
   ],
   lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2", "place/overwhere-iv-raiders-stream"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-03T11:05:00.000Z",
 } as const satisfies StoryTurnPlayed
