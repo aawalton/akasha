@@ -4,10 +4,13 @@ export const overwhereIi00074 = {
   id: "01a0fdde-8c0f-720c-8670-4602bac71d8e",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-074",
+  ownLength: 315,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 74,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Aren’t you and me the watch in this case? So we could decide what to do with it anyways. If the chained Talents need it, I don’t mind passing it to them, what’s it good for?”",
   beats: [
@@ -34,6 +37,11 @@ export const overwhereIi00074 = {
     'Dray: "We can sleep here till first light, or carry it all back to Ashlin tonight."',
     'Dray: "Your legs, your call."',
   ],
-  lore: ["place/overwhere-ii-grey-shaw"],
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-nala-3",
+    "place/overwhere-ii-grey-shaw",
+  ],
   endsAt: "2026-10-14T22:25:00.000Z",
 } as const satisfies StoryTurnPlayed
