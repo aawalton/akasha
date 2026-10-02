@@ -175,6 +175,10 @@ export const overwhereITheDeserterCrew = {
       fact: "The crew's Drakewolf is loosed at the first slug and reaches her in about 2 seconds.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The crew's Drakewolf is Level 15: 35 health, hide ward 2 (1 to a slug), bite 12.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
