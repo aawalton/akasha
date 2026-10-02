@@ -202,5 +202,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Voss's shield on his back wards 3 from behind; his head is bare since he tore off the cap.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "From the north-west rim the mounds hide nothing; a beam at an unaware body is easy, a head moderate.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
