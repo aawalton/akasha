@@ -53,7 +53,7 @@ export const overwhereIFenwatch2 = {
     },
     {
       fact: "Hessa, Tobin, Agathe, Garrick and Osric are all on the green when the head comes in.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Lore
