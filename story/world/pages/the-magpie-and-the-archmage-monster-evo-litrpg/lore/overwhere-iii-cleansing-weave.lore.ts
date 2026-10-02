@@ -96,5 +96,9 @@ export const overwhereIiiCleansingWeave = {
       fact: "One braided Cleansing Weave spread over seed stones heaped together cracks them all at once.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Spreading a weave over a heap is fiddly the first time; a slip spends the mana and cracks nothing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
