@@ -144,6 +144,10 @@ export const overwhereIiiCrookAndCandle = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "Hunters drinking at the Crook and Candle now and then have a glimmerstone to sell.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
