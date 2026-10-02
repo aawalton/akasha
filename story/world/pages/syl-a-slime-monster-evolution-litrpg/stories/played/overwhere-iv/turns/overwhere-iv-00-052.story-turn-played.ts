@@ -42,5 +42,6 @@ export const overwhereIv00052 = {
     "lore/overwhere-iv-nala-2",
     "place/overwhere-iv-raiders-stream",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-03T11:01:00.000Z",
 } as const satisfies StoryTurnPlayed
