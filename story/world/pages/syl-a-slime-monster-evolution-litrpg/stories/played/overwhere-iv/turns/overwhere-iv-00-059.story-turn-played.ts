@@ -7,7 +7,12 @@ export const overwhereIv00059 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 59,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“In working on my senses. Anything can see things, but how many people can understand what they hear and smell?” I go for dinner, sleep, training, and then check in at the guild",
+  lore: [
+    "lore/overwhere-iv-corr-children",
+    "lore/overwhere-iv-millbrook-adventurers-hall-2",
+    "place/overwhere-iv-brook-and-barrel",
+  ],
 } as const satisfies StoryTurnPlayed
