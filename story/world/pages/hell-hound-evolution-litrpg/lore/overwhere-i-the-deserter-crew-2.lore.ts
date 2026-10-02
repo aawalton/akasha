@@ -16,5 +16,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "In the pit Voss rallies the rest behind stone, crossbows on the lip, and waits.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's slugs struck both crossbowmen and two burned blademen as they ran; all kept moving.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
