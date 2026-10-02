@@ -5,7 +5,7 @@ export const hollowmere0013FromMemory = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0013-from-memory",
   cover: "image/image-e4b5d7a2c76387ab",
-  ownProgress: 458,
+  ownProgress: 536,
   position: 13,
   unit: "unit/words",
   title: "From Memory",
