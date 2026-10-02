@@ -209,6 +209,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "From Ketter's Well to Wendlow is forty miles of road through pine and farmland.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The night at Ketter's Well passes quiet; nothing comes to the well before dawn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
