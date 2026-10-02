@@ -76,5 +76,13 @@ export const overwhereIvNala3 = {
         "character-other/overwhere-iv-ilsa-crane",
       ],
     },
+    {
+      fact: "Held in sense alone as she learned, a rend on a mark she cannot see at last holds and lands.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A rend laid by sense alone lands near its mark, not as finely as one laid by sight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
