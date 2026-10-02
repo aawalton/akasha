@@ -196,5 +196,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Air lifting a cart's bed gives the push's gain at its cost; lift and push together make 5 an hour.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Keeping the cart lift gentle is moderate, as with the push.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
