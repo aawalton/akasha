@@ -145,7 +145,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "Skin, muscle and bone refined in three weeks astonishes her; most Talented take years.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Lady Varrow has Descended twice, and offers Nala her own counsel on Descent and Tribulation.",
