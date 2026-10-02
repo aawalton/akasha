@@ -4,10 +4,17 @@ export const overwhereIii00050 = {
   id: "01a0fd3b-608e-72c9-a0df-13cf841e0ebf",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-050",
+  ownLength: 158,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 50,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-marda-hesk",
+    "character-other/overwhere-iii-bet-harrow",
+  ],
+  stepStatus: "step-status/reviewers",
   action: "“Thanks!” I take the silver and get dinner and go to bed.",
   beats: [
     "\"Thanks!\" Nala picks up the silver. It's heavier than any coin she's held here.",
@@ -24,7 +31,9 @@ export const overwhereIii00050 = {
     "It's full to the brim, all of it.",
   ],
   lore: [
+    "lore/overwhere-iii-bet-harrow",
     "lore/overwhere-iii-marda-hesk",
+    "lore/overwhere-iii-nala",
     "lore/overwhere-iii-nala-2",
     "place/overwhere-iii-crook-and-candle",
   ],
