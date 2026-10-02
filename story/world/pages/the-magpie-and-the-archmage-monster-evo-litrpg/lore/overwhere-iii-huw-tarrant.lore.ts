@@ -18,7 +18,11 @@ export const overwhereIiiHuwTarrant = {
     },
     {
       fact: "His burn came from a barn fire ten years ago, pulling calves out; the scar is ridged and tight.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-huw-tarrant"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-huw-tarrant",
+        "character-other/overwhere-iii-ivy-marsh",
+      ],
     },
     {
       fact: "The scar draws his right hand half-shut, so his grip on a rope or a goad is weak.",
