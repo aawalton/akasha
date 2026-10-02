@@ -4,6 +4,7 @@ export const overwhereIii00065 = {
   id: "01a0fe2b-e5d8-7f0c-ab14-1ed093afc80f",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-065",
+  cover: "image/image-16edec5cc3796b9b",
   ownLength: 205,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -42,6 +43,7 @@ export const overwhereIii00065 = {
     "place/overwhere-iii-merrowgate-guild-post",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-06T10:00:00.000Z",
+  coverAfter: "At the post, Marda tongs the stone out of the pouch and turns it",
 } as const satisfies StoryTurnPlayed
