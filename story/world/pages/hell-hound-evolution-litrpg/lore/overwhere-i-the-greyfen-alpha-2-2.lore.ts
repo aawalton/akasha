@@ -40,5 +40,9 @@ export const overwhereITheGreyfenAlpha22 = {
       fact: "From the marsh across the channel, the snappers on Ghost-Eye's body are about 35 yards off.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "By 10:02 on day 4 Ghost-Eye's body lies free of scavengers in the reeds, its head whole.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
