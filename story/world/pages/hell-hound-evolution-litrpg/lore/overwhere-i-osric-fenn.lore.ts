@@ -299,7 +299,7 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Osric always nights at the Ford Inn; he says the mule's done and Wendlow's gate would be shut.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "From Brennock Ford, Osric means to reach Wendlow about noon on day 7.",
