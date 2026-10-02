@@ -41,5 +41,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Heat on the open pit floor drives the crew back into the galleries, beyond 30 yards of the lip.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Scrub and boulders give cover from the road to 25 yards of the pit's lip; the last 25 are open.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
