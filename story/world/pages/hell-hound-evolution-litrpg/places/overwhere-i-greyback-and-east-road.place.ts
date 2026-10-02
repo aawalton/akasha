@@ -149,6 +149,10 @@ export const overwhereIGreybackAndEastRoad = {
         "character-other/overwhere-i-harl-voss",
       ],
     },
+    {
+      fact: "Osric's cart stays stopped half a mile east of the quarry; nothing stirs on the road meanwhile.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
