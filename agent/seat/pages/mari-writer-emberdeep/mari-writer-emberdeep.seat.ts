@@ -11,4 +11,5 @@ export const mariWriterEmberdeep = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "0044ba0f-167a-486f-9991-0ca57ab393ce",
 } as const satisfies Seat
