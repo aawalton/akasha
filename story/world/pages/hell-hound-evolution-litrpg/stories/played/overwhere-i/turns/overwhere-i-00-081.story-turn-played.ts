@@ -7,7 +7,8 @@ export const overwhereI00081 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 81,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I finish off the two crossbow men with the beam through their heads or necks, then turn to find the others",
+  lore: ["lore/overwhere-i-the-deserter-crew-2", "lore/overwhere-i-the-deserter-crew-2-2"],
 } as const satisfies StoryTurnPlayed
