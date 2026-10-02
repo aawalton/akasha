@@ -224,5 +224,9 @@ export const overwhereIWendlow = {
       fact: "The two dicing hunters fall silent at Voss's head; by evening the tale is all over Wendlow.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Grete Holm, Board-master, named herself to Nala and Analyzed her before counting the proof.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Place
