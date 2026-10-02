@@ -124,6 +124,18 @@ export const overwhereIiSirEdricHale = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
+      fact: "Sir Edric is glad Nala will come; they leave the Ford together at dawn, he riding, she on foot.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Sir Edric reckons they reach the Keep before the gate is barred at dusk, keeping a steady pace.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Sir Edric warns Nala that Lady Varrow is cold of manner, but never forgets a debt.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Dray wrote Sir Edric that Nala found a crag split open, with something pulling under it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
