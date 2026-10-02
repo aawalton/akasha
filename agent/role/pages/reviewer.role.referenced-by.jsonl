@@ -7,7 +7,6 @@
 {"propertySlug":"import","fileName":"reviewer.role.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"reviewer.role.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
-{"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-overwhere-i-flex-1/iris-reviewer-overwhere-i-flex-1.seat.ts","id":"01a0fe77-570f-7000-aab8-0c2a038251c9"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-overwhere-i-flex-2/iris-reviewer-overwhere-i-flex-2.seat.ts","id":"01a0fe77-7ee2-7000-ba4c-06b0dbdcb7e1"}
 {"propertySlug":"role","path":"agent/seat/pages/mari-reviewer-emberdeep-flex-1/mari-reviewer-emberdeep-flex-1.seat.ts","id":"01a0fe77-75f0-7000-8109-02175e1796cb"}
 {"propertySlug":"role","path":"agent/seat/pages/mari-reviewer-emberdeep-flex-2/mari-reviewer-emberdeep-flex-2.seat.ts","id":"01a0fe77-9dcb-7000-8afc-7e45a099b615"}
