@@ -13,7 +13,7 @@ export const overwhereIii00059 = {
     "character-player/overwhere-iii-nala",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I pull out the blight and heal the injury, paying attention and trying to figure out what is different with the increase in rarity.",
   beats: [
@@ -31,6 +31,7 @@ export const overwhereIii00059 = {
     '"Da\'s," he says. Brannagh takes it and hands it straight to Nala.',
     "The thread still hangs in her sight, thin and dark, pointing east toward the farms.",
   ],
+  issues: ['"The thread still hangs in your sight, thin and dark, pointing east" - Leave It Open'],
   lore: [
     "lore/overwhere-iii-brannagh-tull",
     "lore/overwhere-iii-brannagh-tull-2",
@@ -40,6 +41,6 @@ export const overwhereIii00059 = {
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-nala-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-05T17:30:00.000Z",
 } as const satisfies StoryTurnPlayed
