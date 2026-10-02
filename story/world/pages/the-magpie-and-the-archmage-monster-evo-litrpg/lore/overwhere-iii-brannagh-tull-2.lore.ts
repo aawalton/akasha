@@ -217,5 +217,9 @@ export const overwhereIiiBrannaghTull2 = {
       fact: "The bitten lad's father waits too: the fox came back in the night and killed three hens.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
+    {
+      fact: "The father asks if the healer can do aught about the fox; the post's bounty is beyond him.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+    },
   ],
 } as const satisfies Lore
