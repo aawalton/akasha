@@ -10,7 +10,7 @@ export const overwhereIi00064 = {
   position: 64,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Come with me.” I take her arm I go and find Dray then tell him “I’m more certain than not that this woman is trying to lead me to the bandits, whether by intent or coercion I don’t know. Could wet turn this to our advantage?” I tell him, watching for the woman’s response with my heightened senses.",
   beats: [
@@ -48,6 +48,6 @@ export const overwhereIi00064 = {
     "lore/overwhere-ii-reeve-corwin-dray-2",
     "place/overwhere-ii-ashlin-farm",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-14T09:40:00.000Z",
 } as const satisfies StoryTurnPlayed
