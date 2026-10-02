@@ -16,5 +16,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Through the lens, four men crossed the track's clearing two miles off, the third limping.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "The last of the four, crossbow in hand, stopped at the clearing's edge and looked back at the knoll.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
