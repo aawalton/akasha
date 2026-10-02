@@ -72,5 +72,9 @@ export const overwhereIiiCleansingWeave = {
       fact: "Once a loop has held cleanly, the knack stays; later looped weaves close as easily as plain ones.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala closed her Cleansing Weave in a loop on her first try, and has the knack now.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
