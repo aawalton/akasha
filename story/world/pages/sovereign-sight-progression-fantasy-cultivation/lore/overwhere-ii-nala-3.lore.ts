@@ -130,7 +130,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "Refining her hips, Nala limps for a day, slow as an old woman.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "On day nineteen the long bones of Nala's arms and her shins refine sweetly, barely aching.",
