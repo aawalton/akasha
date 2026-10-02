@@ -8,7 +8,9 @@ export const storyWrittenChapters = {
   pageType: "page-type/story-chapter-written",
   embeddedBy: "page-type/story-written",
   layout: "list",
+  narrows: [],
   viewSorts: [{ key: "position", descending: false }],
+  groupSorts: [],
   visibleProperties: ["own-length-in-words"],
   alwaysShowProperties: ["own-length-in-words"],
   hiddenPropertiesOrder: [
@@ -57,4 +59,7 @@ export const storyWrittenChapters = {
     "unit",
     "unit-words",
   ],
+  pageSize: 50,
+  itemPageSize: 12,
+  groupPageSize: 6,
 } as const satisfies View
