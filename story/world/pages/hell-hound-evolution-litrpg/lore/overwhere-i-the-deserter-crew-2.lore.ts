@@ -232,7 +232,7 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "The pit's back wall holds four gallery mouths, each cut about ten yards into the rock.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Blademen One and Two lie in the easternmost gallery, behind a heap of spoil.",
