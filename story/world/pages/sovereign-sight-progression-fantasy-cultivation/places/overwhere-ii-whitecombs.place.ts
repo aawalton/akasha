@@ -173,7 +173,7 @@ export const overwhereIiWhitecombs = {
     },
     {
       fact: "On day twenty-one the crag's pull is stronger than on day four, and comes in slow swells.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "With her bones refined, Nala feels the crag's pull in her frame too, a deep tug through her heels.",
