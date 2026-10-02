@@ -202,7 +202,7 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Grete checks each tag against the Board's levy list and finds every one of Voss's crew there.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Ghost-Eye's size, scarred crest and empty left socket satisfy Grete; she pays its 25 gold.",
