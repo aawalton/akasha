@@ -229,6 +229,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "Pushing on from Brennock Ford, the last 20 miles bring the cart to Wendlow's gate after it shuts.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At Brennock Ford a westbound drover grumbles that Wendlow's guild sold dark, empty crystals as full.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
