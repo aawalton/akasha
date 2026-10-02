@@ -107,6 +107,7 @@
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"persona/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"persona/modules/reading/persona-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"story/world/stories/played/modules/cover-rerolling/cover-rerolling.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"story/world/stories/played/modules/portrait-redrawing/portrait-redrawing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"story/world/stories/played/modules/turn-undo-answering/turn-undo-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.test-fixtures.ts","path":"change/mechanical/file/divide/divide-file-page-property/divide-file-page-property.change-mechanical.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.test-fixtures.ts","path":"page/index/modules/package-reaching/package-reaching.module.test.ts","typed":false,"deferred":false}

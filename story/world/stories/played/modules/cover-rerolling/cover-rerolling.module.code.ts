@@ -62,6 +62,8 @@ const REJECTED = "F"
 
 const DRAWN_WITHIN_MS = 15 * 60_000
 
+const QUIET_TICK_MS = 30_000
+
 const WIDTH = 832
 
 const HEIGHT = 1216
@@ -241,8 +243,11 @@ export async function rerollOf(story: string, effects: Rerolling): Promise<boole
 }
 
 async function drawnAs(drawing: Drawing): Promise<string> {
+  return await drawnAt(drawing, drawSeed())
+}
+
+export async function drawnAt(drawing: Drawing, seed: number): Promise<string> {
   const spec = MODELS[drawing.model as keyof typeof MODELS]
-  const seed = drawSeed()
   const base = baseOf()
   const run = await runComfyGraph({
     baseUrl: base,
@@ -277,7 +282,7 @@ async function drawnAs(drawing: Drawing): Promise<string> {
   return landed.slug
 }
 
-async function writtenBy(writing: Writing): Promise<string | null> {
+export async function writtenBy(writing: Writing): Promise<string | null> {
   const wrote = await writingFor(writing)
   return "refused" in wrote
     ? `The new picture was made but not put in place: ${wrote.refused}`
@@ -313,12 +318,27 @@ export function holdsStory(at: string): boolean {
   return at.endsWith(BESIDE_TAIL)
 }
 
-export function watchCoverRerolls(): () => undefined {
+export function watchCoverRerolls(whenQuiet?: () => Promise<undefined>): () => undefined {
   const root = akashaRoot()
   const stories = storiesIn(root)
   const effects = rerollingAt(root)
   const busy = new Set<string>()
   let lane: Promise<unknown> = Promise.resolve()
+  let quietOnLane = false
+  const tick = (): undefined => {
+    if (whenQuiet === undefined || quietOnLane || busy.size > 0) return undefined
+    quietOnLane = true
+    lane = lane
+      .then(whenQuiet)
+      .catch((thrown: unknown) => {
+        process.stderr.write(`quiet work: ${refusalSaid(thrown)}\n`)
+      })
+      .finally(() => {
+        quietOnLane = false
+      })
+    return undefined
+  }
+  const ticking = setInterval(tick, QUIET_TICK_MS)
   const round = (): undefined => {
     for (const story of stories) {
       if (busy.has(story) || askedIn(effects.beside(story)) === null) continue
@@ -338,6 +358,7 @@ export function watchCoverRerolls(): () => undefined {
   round()
   return () => {
     following.stop()
+    clearInterval(ticking)
     return undefined
   }
 }

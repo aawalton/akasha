@@ -32,6 +32,7 @@ export const storyPlayed = {
     "module/played-purses",
     "module/played-rows",
     "module/played-sheet-rows",
+    "module/portrait-redrawing",
     "module/played-shell",
     "module/played-state-beside",
     "module/prose-beside",

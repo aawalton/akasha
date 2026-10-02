@@ -34,11 +34,13 @@ test("the run is the only way into this file, so the service has one entry", () 
   expect(Object.keys(running)).toEqual(["runService"])
 })
 
-test("a run starts the watch the rerolling module holds rather than one written again here", () => {
+test("a run starts the watch the rerolling module holds, handed the quiet redrawing", () => {
   STARTED.length = 0
   THROWS = false
   void running.runService()
-  expect(STARTED).toEqual([[]])
+  expect(STARTED).toHaveLength(1)
+  expect(STARTED[0]).toHaveLength(1)
+  expect(typeof STARTED[0]?.[0]).toBe("function")
 })
 
 test("a run that started the watch does not end, so systemd is left with a service running", async () => {

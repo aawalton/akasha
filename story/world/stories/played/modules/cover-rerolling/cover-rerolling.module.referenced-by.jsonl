@@ -1,4 +1,6 @@
 {"propertySlug":"import","fileName":"cover-rerolling.module.code.ts","path":"story/world/stories/played/modules/cover-rerolling/cover-rerolling.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cover-rerolling.module.code.ts","path":"story/world/stories/played/modules/portrait-redrawing/portrait-redrawing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cover-rerolling.module.code.ts","path":"story/world/stories/played/modules/portrait-redrawing/portrait-redrawing.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"cover-rerolling.module.code.ts","path":"story/world/stories/played/modules/turn-undo-answering/turn-undo-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cover-rerolling.module.code.ts","path":"story/world/stories/played/service-workstations/cover-rerolling/cover-rerolling.service-workstation.running.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cover-rerolling.module.code.ts","path":"story/world/stories/played/service-workstations/cover-rerolling/cover-rerolling.service-workstation.running.test.ts","typed":false,"deferred":true}

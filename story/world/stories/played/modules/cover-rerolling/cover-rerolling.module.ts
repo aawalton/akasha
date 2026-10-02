@@ -61,5 +61,10 @@ export const coverRerolling = {
       decisionKind: "decision-kind/departure",
       statement: "The stories watched are the ones there when the watch starts.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Quiet work the watch is handed runs on its lane every 30 seconds while no reroll is asked.",
+    },
   ],
 } as const satisfies Module

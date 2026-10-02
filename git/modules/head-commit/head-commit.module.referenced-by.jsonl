@@ -11,4 +11,5 @@
 {"propertySlug":"import","fileName":"head-commit.module.code.ts","path":"page/service/modules/page-asking/page-asking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"head-commit.module.code.ts","path":"page/service/modules/page-reading/page-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"head-commit.module.code.ts","path":"story/world/stories/played/modules/cover-rerolling/cover-rerolling.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"head-commit.module.code.ts","path":"story/world/stories/played/modules/portrait-redrawing/portrait-redrawing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"git/git.domain.ts","id":"01a05d7f-23fc-7000-b2b7-266f4611121a"}
