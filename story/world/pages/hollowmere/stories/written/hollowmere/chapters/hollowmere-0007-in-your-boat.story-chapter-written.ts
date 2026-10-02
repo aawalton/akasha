@@ -8,9 +8,9 @@ export const hollowmere0007InYourBoat = {
   unit: "unit/words",
   title: "In Your Boat",
   story: "story-written/hollowmere",
-  ownLength: 4721,
+  ownLength: 4736,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Sunday: you wake at six on your own, and you know where you're going before you're up.",
     "The fisherman's jumper over knickers and bra again; the shore grey and silent.",
