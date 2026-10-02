@@ -208,5 +208,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "A water-and-earth weave held on a wound, seen as flesh knitting, mends it: a Weave use, no new way.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The mending weave restores 1 health every 2 minutes at 10 mana a minute, on shallow wounds only.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
