@@ -12,5 +12,9 @@ export const overwhereIiiNala22 = {
       fact: "Pouring her whole well into the lash-pull left Nala shaky and dry by the sett.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala walked the fox stone back to the post in Oswin's pouch, held away from her side.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore

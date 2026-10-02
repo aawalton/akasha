@@ -84,5 +84,14 @@ export const overwhereIiiCorruption2 = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "The fox's blightstone is the size of a hazelnut.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-oswin-fairley",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
 } as const satisfies Lore

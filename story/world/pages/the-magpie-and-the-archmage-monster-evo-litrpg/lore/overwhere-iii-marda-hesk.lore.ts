@@ -276,6 +276,14 @@ export const overwhereIiiMardaHesk = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "Marda tells Nala to hunt small blight where she finds it and bring her the stones.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
