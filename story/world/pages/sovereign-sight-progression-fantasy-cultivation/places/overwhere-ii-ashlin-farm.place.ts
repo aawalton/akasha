@@ -84,5 +84,9 @@ export const overwhereIiAshlinFarm = {
       fact: "Crake's body lies under a sheet by the barn wall; Rob Reed dozes there, his arm bound clean.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "The watch's packs hold bread, cheese and a skin of small beer, enough for Nala's hollow belly.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
