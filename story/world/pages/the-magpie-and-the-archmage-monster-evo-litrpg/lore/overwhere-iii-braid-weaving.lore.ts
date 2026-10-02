@@ -44,5 +44,9 @@ export const overwhereIiiBraidWeaving = {
       fact: "A braid that holds and lands counts as holding cleanly, even if its snap-back stings her.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "An unlooped braided pull snaps back down the lent current into her, as a plain weave does.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
