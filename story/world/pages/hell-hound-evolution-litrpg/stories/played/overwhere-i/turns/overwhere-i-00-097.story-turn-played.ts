@@ -10,7 +10,7 @@ export const overwhereI00097 = {
   position: 97,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I go over and pick up Ghost-Eye’s head from the cart, using a working of fire and earth to increase my strength, then follow the directions up",
   beats: [
@@ -33,6 +33,6 @@ export const overwhereI00097 = {
     "lore/overwhere-i-the-greyfen-alpha-2-2",
     "place/overwhere-i-wendlow",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-05T11:57:00.000Z",
 } as const satisfies StoryTurnPlayed
