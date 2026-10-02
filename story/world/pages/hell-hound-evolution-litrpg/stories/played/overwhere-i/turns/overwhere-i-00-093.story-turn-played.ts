@@ -27,6 +27,9 @@ export const overwhereI00093 = {
     "Osric pulls up in the inn yard. \"We night here. I always do. The mule's done, Tobin's done.\"",
     '"Push on and we reach Wendlow after the gate shuts. From here, it\'s noon tomorrow."',
   ],
+  issues: [
+    '"when you feel the bottom of it" - in turn 92 she said she would keep her mana at 80% all along',
+  ],
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
@@ -36,5 +39,6 @@ export const overwhereI00093 = {
     "place/overwhere-i-greyback-and-east-road",
     "place/overwhere-i-wendlow",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-04T15:00:00.000Z",
 } as const satisfies StoryTurnPlayed
