@@ -7,4 +7,5 @@
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-recorder.role.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
+{"propertySlug":"role","path":"agent/seat/pages/iris-story-recorder-overwhere-i-flex-1/iris-story-recorder-overwhere-i-flex-1.seat.ts","id":"01a0fd1c-1d5d-7000-b4d6-069b15ca832a"}
 {"propertySlug":"role","path":"agent/seat/pages/mari-story-recorder-salt-and-lamplight-flex-4/mari-story-recorder-salt-and-lamplight-flex-4.seat.ts","id":"01a0fd13-64b6-7000-ad36-5d1956f618a2"}
