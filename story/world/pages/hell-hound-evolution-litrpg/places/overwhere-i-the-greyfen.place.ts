@@ -297,7 +297,7 @@ export const overwhereITheGreyfen = {
     },
     {
       fact: "Hauling the head back on the sled, they reach the fen edge about 16:00 on day 4.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "No beast troubles the haul home on day 4.",
