@@ -102,7 +102,7 @@ export const overwhereIiAshlinFarm = {
     },
     {
       fact: "On the march Dray shares out the watch's bread, cheese and small beer as they go.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Leaving Ashlin soon after dawn, the column reaches Wendle Ford a little after noon.",
