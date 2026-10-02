@@ -7,7 +7,16 @@ export const overwhereIii00051 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 51,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I check in at Brannagh’s and the Post to drain my mana, then train my body with the guards.",
+  lore: [
+    "lore/overwhere-iii-brannagh-tull",
+    "lore/overwhere-iii-brannagh-tull-2",
+    "lore/overwhere-iii-corruption",
+    "lore/overwhere-iii-maud-ferrow",
+    "lore/overwhere-iii-mending-weave",
+    "lore/overwhere-iii-the-system",
+    "place/overwhere-iii-merrowgate-guild-post",
+  ],
 } as const satisfies StoryTurnPlayed
