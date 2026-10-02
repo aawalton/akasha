@@ -158,5 +158,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Left behind, Blademen One and Two yield if called to, begging to live.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Wendlow's Board pays two gold a crewman, whether his head comes in or the man comes in alive.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
