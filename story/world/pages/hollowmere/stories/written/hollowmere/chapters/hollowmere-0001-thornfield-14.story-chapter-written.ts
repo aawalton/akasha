@@ -118,7 +118,7 @@ export const hollowmere0001Thornfield14 = {
     "story-recorder/picture",
   ],
   scenes: [
-    "image/image-cb9410a4893a9db7",
+    "image/image-53ba719b27b5405d",
     "image/image-220f4f497e59334d",
     "image/image-c0dd8e15f886d933",
     "image/image-d76ee098554c5427",
