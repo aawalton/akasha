@@ -11,4 +11,5 @@ export const overwhereI00074 = {
   action:
     "“Sure, we’ve paid your toll, so now you can pay mine. Your head should just about cover it.” I stay behind cover and keep firing careful aimed shots with the stone bullets, targeting faces and gaps in their armor.",
   lore: ["lore/overwhere-i-the-deserter-crew-2"],
+  endsAt: "2026-10-03T15:09:00.000Z",
 } as const satisfies StoryTurnPlayed
