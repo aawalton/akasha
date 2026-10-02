@@ -12,5 +12,13 @@ export const overwhereIiiMardaHesk2 = {
       fact: "Nala pressed the specks from Marda's seed stones into her own glimmerstone.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Marda: 'Yours. As I said. The specks too. I wanted them cracked, not back.'",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
 } as const satisfies Lore
