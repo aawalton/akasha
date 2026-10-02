@@ -4,13 +4,14 @@ export const overwhereI00091 = {
   id: "01a0fe9b-d05a-7af1-a75c-0b62e0d10e8e",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-091",
+  cover: "image/image-f388b7b9412b6f2b",
   ownLength: 143,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 91,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-harl-voss"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Sure, got makes sense to preserve this head and the ears. I’ll take the salt for that.”",
   beats: [
@@ -35,6 +36,12 @@ export const overwhereI00091 = {
     "lore/overwhere-i-the-deserter-crew-2-2-2",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-04T00:55:00.000Z",
+  coverAfter: '"Only... the silver toll Voss took off me at the quarry. One silver.',
 } as const satisfies StoryTurnPlayed
