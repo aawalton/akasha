@@ -5,7 +5,7 @@ export const saltAndLamplight0001TheTideLeavesThings = {
   type: "page-type/story-chapter-written",
   slug: "salt-and-lamplight-0001-the-tide-leaves-things",
   cover: "image/image-2757828f143c1114",
-  ownProgress: 134,
+  ownProgress: 1649,
   position: 1,
   unit: "unit/words",
   title: "The Tide Leaves Things",
