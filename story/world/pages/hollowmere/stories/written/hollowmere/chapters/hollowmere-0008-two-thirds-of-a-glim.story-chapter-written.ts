@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0008 = {
+export const hollowmere0008TwoThirdsOfAGlim = {
   id: "01a0fe3d-a392-7fa7-834c-d55d592d09a3",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0008",
+  slug: "hollowmere-0008-two-thirds-of-a-glim",
   position: 8,
   unit: "unit/words",
-  title: "Chapter 8",
+  title: "Two-Thirds of a Glim",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 3701,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Monday, week two: at half six it's Bea's knock, and you're already up and dressed to run.",
     "You choose the shore with Bea this morning; out on the mere a white cap waves, and you wave back.",
@@ -51,5 +51,25 @@ export const hollowmere0008 = {
     "In bed you lie awake, your cheek still warm where Bea's mouth was.",
     "A day at Hollowmere ends.",
   ],
-  lore: ["lore/hollowmere-bea", "lore/hollowmere-nala", "place/hollowmere-academy"],
+  lore: [
+    "lore/hollowmere-amara",
+    "lore/hollowmere-bea",
+    "lore/hollowmere-kit",
+    "lore/hollowmere-lin",
+    "lore/hollowmere-nala",
+    "lore/hollowmere-priya",
+    "lore/hollowmere-shiv",
+    "lore/hollowmere-yusra",
+    "place/hollowmere-academy",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-shiv",
+    "character-other/hollowmere-priya",
+    "character-other/hollowmere-amara",
+    "character-other/hollowmere-kit",
+    "character-other/hollowmere-lin",
+    "character-other/hollowmere-yusra",
+  ],
 } as const satisfies StoryChapterWritten
