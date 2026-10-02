@@ -4,7 +4,7 @@ export const overwhereI00075 = {
   id: "01a0fd88-0594-7500-bf01-b5f55ea54120",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-075",
-  ownLength: 121,
+  ownLength: 123,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 75,
@@ -13,7 +13,7 @@ export const overwhereI00075 = {
     "character-player/overwhere-i-nala",
     "character-other/overwhere-i-quarry-crewman-four",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action: "I use my lens working to find the crossbowman in the trees, then snipe him out",
   beats: [
     "Behind her boulders Nala holds two water lenses in air as her spyglass and sweeps the treeline.",
