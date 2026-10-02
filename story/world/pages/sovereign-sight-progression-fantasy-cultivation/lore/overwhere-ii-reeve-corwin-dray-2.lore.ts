@@ -169,7 +169,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "With Crake dead, the Carrowmouth watch pays five bars on proof; Dray says the price is all Nala's.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Crake's body goes back to the Ford on a hurdle, for the Carrowmouth watch to see.",
