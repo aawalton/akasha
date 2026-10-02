@@ -218,7 +218,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 42,
-      cover: "image/image-3b269478f1854821",
+      cover: "image/image-48266dd46e423773",
       coverAfter: "The worm convulses, the salt burning deep in its gullet. Its grey",
     },
     {
