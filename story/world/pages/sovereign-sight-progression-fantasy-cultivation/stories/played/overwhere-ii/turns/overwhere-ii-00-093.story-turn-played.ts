@@ -4,10 +4,13 @@ export const overwhereIi00093 = {
   id: "01a0ff09-9736-7029-b1ee-efa78250d393",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-093",
+  ownLength: 204,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 93,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action: "I choose a spear, since that’s what I’m used to",
   beats: [
     "Nala takes an ash practice spear from the rack, its head capped in blunt leather.",
@@ -27,6 +30,11 @@ export const overwhereIi00093 = {
     "Hawise takes two wooden short blades from the rack and steps into the court.",
     'Hawise: "My turn. Talents now, held light."',
   ],
-  lore: ["lore/overwhere-ii-varrow-talented"],
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-nala-3",
+    "lore/overwhere-ii-varrow-talented",
+  ],
   endsAt: "2026-10-22T07:00:00.000Z",
 } as const satisfies StoryTurnPlayed
