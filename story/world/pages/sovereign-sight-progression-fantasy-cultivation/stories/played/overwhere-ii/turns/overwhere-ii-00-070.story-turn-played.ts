@@ -11,4 +11,5 @@ export const overwhereIi00070 = {
   action:
     "“Come on down. If there are any others and you help us subdue them, that will count in your favor.”",
   lore: ["lore/overwhere-ii-loddon-brothers", "lore/overwhere-ii-reeve-corwin-dray-2"],
+  endsAt: "2026-10-14T18:42:00.000Z",
 } as const satisfies StoryTurnPlayed
