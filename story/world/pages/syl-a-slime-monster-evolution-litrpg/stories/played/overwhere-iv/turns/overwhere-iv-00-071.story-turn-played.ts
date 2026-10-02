@@ -10,7 +10,7 @@ export const overwhereIv00071 = {
   position: 71,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Sorry, but no. You’re a good group, but I’d like to work on my own for now. Thank you for the offer.” I go over to Ilsa. “I can do a night watch tonight.”",
   beats: [
@@ -27,6 +27,7 @@ export const overwhereIv00071 = {
     "Hours pass. Then, among the trees across the ford, a light. Then a second.",
     "Two torches, there at the Tangle's edge. They hold still, side by side, facing the farm.",
   ],
+  issues: ['"Nobody follows goblins in by night." - Nobody Acts'],
   lore: [
     "lore/overwhere-iv-brookside-four-2",
     "lore/overwhere-iv-ilsa-crane-2",
@@ -36,6 +37,6 @@ export const overwhereIv00071 = {
     "lore/overwhere-iv-nala-3",
     "place/overwhere-iv-tull-farm",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-05T21:03:00.000Z",
 } as const satisfies StoryTurnPlayed
