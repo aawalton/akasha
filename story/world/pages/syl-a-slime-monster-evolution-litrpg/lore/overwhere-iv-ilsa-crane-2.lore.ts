@@ -236,5 +236,25 @@ export const overwhereIvIlsaCrane2 = {
         "character-player/overwhere-iv-nala",
       ],
     },
+    {
+      fact: "For the Tull job Ilsa pays 1 silver a goblin ear, 5 for the hobgoblin's, 3 copper a sheep.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "Ilsa takes the hobgoblin's horn as proof enough of him, along with his ear.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "A whole raiding band with a hobgoblin, taken alone and unhurt, is Nala's fourth job done well.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "Ilsa thinks Grakk will answer the loss of a hobgoblin, and not with a small raid.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "Ilsa enters the Tull job in her ledger plainly, as goblins slain, and tells no one more.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
   ],
 } as const satisfies Lore
