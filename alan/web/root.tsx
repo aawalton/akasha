@@ -1,4 +1,5 @@
 import geistSansWoff2 from "@fontsource-variable/geist/files/geist-latin-wght-normal.woff2?url"
+import literataWoff2 from "@fontsource-variable/literata/files/literata-latin-wght-normal.woff2?url"
 import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/modules/error-capture-installer/error-capture-installer.module.code.tsx"
 import { reportError } from "akasha/alan/harness/errors-client/modules/error-reporting/error-reporting.module.code.ts"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/modules/use-report-render-error/use-report-render-error.module.code.ts"
@@ -79,7 +80,10 @@ const AUTH_CONFIG: RouteAccessConfig = {
   openAt: openAt(WEB_APP),
 }
 
-export const links: Route.LinksFunction = () => [...fontPreloading(geistSansWoff2)]
+export const links: Route.LinksFunction = () => [
+  ...fontPreloading(geistSansWoff2),
+  ...fontPreloading(literataWoff2),
+]
 
 export const meta = metaFor(null)
 
