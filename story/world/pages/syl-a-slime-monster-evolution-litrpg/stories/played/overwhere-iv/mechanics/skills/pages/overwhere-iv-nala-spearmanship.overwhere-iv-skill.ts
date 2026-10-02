@@ -10,5 +10,5 @@ export const overwhereIvNalaSpearmanship = {
   character: "character-player/overwhere-iv-nala",
   skill: "world-skill/overwhere-iv-spearmanship",
   level: 4,
-  uses: 2,
+  uses: 3,
 } as const satisfies OverwhereIvSkill
