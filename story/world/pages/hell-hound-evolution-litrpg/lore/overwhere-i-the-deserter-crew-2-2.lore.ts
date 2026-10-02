@@ -146,5 +146,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "At the camp Voss sets Three and both keepers behind charcoal mounds, crossbows on the track.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At full dark, about 19:30, Voss means to slip away east alone with the silver.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
