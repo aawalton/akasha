@@ -30,6 +30,7 @@ export const overwhereIii00055 = {
     "Bet sets down a bowl of stew and bread, and the hollow in Nala's middle finally fills.",
     "Up under the eaves, she lies down. Morning brings a full well and a half-pale stone.",
   ],
+  issues: ['"Morning brings a full well and a half-pale stone." - Leave It Open'],
   lore: [
     "lore/overwhere-iii-bet-harrow",
     "lore/overwhere-iii-cleansing-weave",
@@ -37,7 +38,9 @@ export const overwhereIii00055 = {
     "lore/overwhere-iii-marda-hesk",
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-nala-2",
+    "place/overwhere-iii-crook-and-candle",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-04T18:00:00.000Z",
 } as const satisfies StoryTurnPlayed
