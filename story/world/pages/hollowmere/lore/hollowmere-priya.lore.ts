@@ -61,7 +61,7 @@ export const hollowmerePriya = {
       knowers: ["lore-disclosure/game-master", "character-other/hollowmere-priya"],
     },
     {
-      fact: "Priya likes boys, has a boyfriend at home in Leicester, and is unbothered by who anyone else likes.",
+      fact: "Priya has only ever dated boys and never thought hard about girls; she minds no one's likings.",
       knowers: ["lore-disclosure/game-master", "character-other/hollowmere-priya"],
     },
     {
