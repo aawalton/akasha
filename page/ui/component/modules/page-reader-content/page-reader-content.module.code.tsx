@@ -244,7 +244,7 @@ export function PageReaderContent({
                     anchorRef={anchorRef}
                   />
                 )}
-                {(readerPrev != null || readerNext != null) && (
+                {!bodyWaiting && (readerPrev != null || readerNext != null) && (
                   <ReaderPager
                     prev={readerPrev ?? null}
                     next={readerNext ?? null}

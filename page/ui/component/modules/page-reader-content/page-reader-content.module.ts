@@ -6,4 +6,11 @@ export const pageReaderContent = {
   slug: "page-reader-content",
   definition: "The reader shown for a page: its prose, its progress and its source.",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The pager under the prose is drawn once the prose is in, never above where it lands.",
+    },
+  ],
 } as const satisfies Module
