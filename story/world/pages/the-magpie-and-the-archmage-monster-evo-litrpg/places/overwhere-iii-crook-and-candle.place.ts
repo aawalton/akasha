@@ -108,6 +108,10 @@ export const overwhereIiiCrookAndCandle = {
         "character-other/overwhere-iii-bet-harrow",
       ],
     },
+    {
+      fact: "The fifth night's supper at the Crook and Candle is roast pork with apples and black bread.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
