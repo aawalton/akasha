@@ -10,7 +10,7 @@ export const overwhereI00066 = {
   position: 66,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“How far to Wendlow again? I’d love to get this turned in and paid for before it stinks too much.”",
   beats: [
@@ -33,6 +33,6 @@ export const overwhereI00066 = {
     "lore/overwhere-i-tobin-ashdown",
     "place/overwhere-i-greyback-and-east-road",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-02T17:05:00.000Z",
 } as const satisfies StoryTurnPlayed
