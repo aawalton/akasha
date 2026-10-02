@@ -123,6 +123,10 @@ export const overwhereITobinAshdown = {
         "lore/overwhere-i-hessa-vane",
       ],
     },
+    {
+      fact: "Bet nods, tight-lipped, and says Tobin never ran from anything but chores; Tobin goes red.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
