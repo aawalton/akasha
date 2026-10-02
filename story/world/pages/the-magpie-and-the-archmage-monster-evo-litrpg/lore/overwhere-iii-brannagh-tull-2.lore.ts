@@ -189,5 +189,9 @@ export const overwhereIiiBrannaghTull2 = {
       fact: "One pull clears the lad's day-old bite; it is a clean puncture and one Mending Weave closes it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The lad carries his father's 10 copper fee knotted in a rag; Brannagh hands it on to the healer.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+    },
   ],
 } as const satisfies Lore
