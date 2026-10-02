@@ -32,5 +32,6 @@ export const overwhereIi00076 = {
     "lore/overwhere-ii-reeve-corwin-dray-2",
     "place/overwhere-ii-ashlin-farm",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-15T02:30:00.000Z",
 } as const satisfies StoryTurnPlayed
