@@ -4,10 +4,17 @@ export const overwhereI00081 = {
   id: "01a0fdd4-2be4-7830-a254-30c35e768bb4",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-081",
+  ownLength: 170,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 81,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-i-nala",
+    "character-other/overwhere-i-mirren-dask",
+    "character-other/overwhere-i-quarry-crewman-five",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I finish off the two crossbow men with the beam through their heads or necks, then turn to find the others",
   beats: [
@@ -22,6 +29,11 @@ export const overwhereI00081 = {
     "She turns north-east, and the pull behind her breastbone is thin, near the bottom of her well.",
     "Two of the four are still ahead somewhere, up the track toward the smoke in the hill fold.",
   ],
-  lore: ["lore/overwhere-i-the-deserter-crew-2", "lore/overwhere-i-the-deserter-crew-2-2"],
+  lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
+    "lore/overwhere-i-the-deserter-crew-2",
+    "lore/overwhere-i-the-deserter-crew-2-2",
+  ],
   endsAt: "2026-10-03T16:19:00.000Z",
 } as const satisfies StoryTurnPlayed
