@@ -28,5 +28,9 @@ export const overwhereITheDeserterCrew222 = {
       fact: "At the quarry Four carries 6 copper; Blademen One and Two, 10 copper between them.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Walking back by night, overhang to camp, bend and quarry, is ten miles: about four hours.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
