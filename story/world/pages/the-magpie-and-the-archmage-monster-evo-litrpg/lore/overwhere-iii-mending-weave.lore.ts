@@ -48,5 +48,9 @@ export const overwhereIiiMendingWeave = {
       fact: "A Mending Weave braided onto a lent current runs deeper: an old scar smooths in two weaves.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A Mending Weave works on her own body as on anyone's; laid on her own burn, it closes it the same.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
