@@ -97,6 +97,10 @@ export const emberdeepFirstLevel = {
         "character-other/emberdeep-elowen",
       ],
     },
+    {
+      fact: "The passage that shifted this spring on the Well Room path ends in fresh rubble no one has sifted.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
