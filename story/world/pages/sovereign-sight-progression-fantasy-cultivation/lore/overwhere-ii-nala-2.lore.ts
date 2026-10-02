@@ -276,5 +276,17 @@ export const overwhereIiNala2 = {
       fact: "Each bone Nala refines aches deep in the marrow, like a fever, before it goes heavy and still.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "By day sixteen Nala's hands, feet, ribs and spine are refined; skull, hips and long bones remain.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The last bones Nala refines are her thighs, the longest; each takes her a whole morning.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "With all her bone refined, Nala's step sounds heavier on boards, though she moves as lightly.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
