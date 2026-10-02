@@ -169,6 +169,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "Osric's cart, the cask aboard, camps at Ketter's Well tonight; the quarry is three miles back.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At Ketter's Well, Osric and Tobin sleep by the cart with the cask; they roll on east at 6:00.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
