@@ -13,7 +13,7 @@ export const otherwhereI0002TheCounterWakes = {
   turnCovers: [
     {
       position: 50,
-      cover: "image/image-0c57af9bd5f32ee7",
+      cover: "image/image-b4c00b54971fef11",
       coverAfter: "You crouch to lift the big worm. Dried, it's a hard grey",
     },
     {
