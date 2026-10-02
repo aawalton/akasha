@@ -167,6 +167,43 @@ export const emberdeepNala = {
         "character-other/emberdeep-elowen",
       ],
     },
+    {
+      fact: "On Restday Nala paid all twelve of her pennies in rent, and her purse is empty.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+      ],
+    },
+    {
+      fact: "Nala would not talk about Fennick when Wren asked, and the landing went quiet.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-wren",
+        "character-other/emberdeep-elowen",
+      ],
+    },
+    {
+      fact: "Nala cannot sew; Elowen picked out her stitches and mended her shirt hem properly.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+      ],
+    },
+    {
+      fact: "Nala knows she wants both Elowen and Wren, and it frightens her less than she expected.",
+      knowers: ["lore-disclosure/game-master", "character-player/emberdeep-nala"],
+    },
+    {
+      fact: "On Restday night Nala and Elowen kissed in room 7's bed, the first kiss for Nala as Nala.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

@@ -26,7 +26,11 @@ export const emberdeepElowen = {
     },
     {
       fact: "Elowen has small round tits with pale pink nipples, and a soft tuft of brown hair over her cunt.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-elowen"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
+      ],
     },
     {
       fact: "Elowen can call a small light to her fingertips, and it is the only magic she has.",
@@ -129,6 +133,30 @@ export const emberdeepElowen = {
     {
       fact: "Elowen is falling for Nala, and is frightened and glad of sharing her bed in equal measure.",
       knowers: ["lore-disclosure/game-master", "character-other/emberdeep-elowen"],
+    },
+    {
+      fact: "On Restday Elowen paid her eighteen pennies in rent, and her purse is empty.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
+      ],
+    },
+    {
+      fact: "Elowen has wanted to kiss Nala since the market, when Nala said her light was wonderful.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
+      ],
+    },
+    {
+      fact: "Elowen's first kiss was with Nala, in room 7's bed on Restday night.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
+      ],
     },
   ],
   secrets: "jsonl",

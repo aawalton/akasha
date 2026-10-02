@@ -26,11 +26,16 @@ export const emberdeepCorbelHouse = {
         "lore-disclosure/game-master",
         "character-other/emberdeep-wren",
         "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
       ],
     },
     {
       fact: "Room 7 is narrow: a bed, a washstand, a chest, a row of pegs and a window over the rooftops.",
-      knowers: ["lore-disclosure/game-master", "character-player/emberdeep-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+      ],
     },
     {
       fact: "Hot water at Corbel House is carried up in cans from the ember-stove in the kitchen.",
@@ -54,6 +59,7 @@ export const emberdeepCorbelHouse = {
         "lore-disclosure/game-master",
         "character-other/emberdeep-wren",
         "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
       ],
     },
     {
@@ -62,6 +68,7 @@ export const emberdeepCorbelHouse = {
         "lore-disclosure/game-master",
         "character-other/emberdeep-wren",
         "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
       ],
     },
     {
@@ -84,7 +91,12 @@ export const emberdeepCorbelHouse = {
     },
     {
       fact: "There is no porridge on Restday; at noon the widow serves her lodgers a pie, paid for in the rent.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+      ],
     },
   ],
 } as const satisfies Place
