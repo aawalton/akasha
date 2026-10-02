@@ -14,7 +14,7 @@ export const overwhereI00078 = {
     "character-other/overwhere-i-quarry-crewman-one",
     "character-other/overwhere-i-quarry-crewman-two",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I use my concentrated beam of fire to finish the two men, aiming for the heads, then quietly start tracking the four that got away",
   beats: [
@@ -29,6 +29,7 @@ export const overwhereI00078 = {
     "The marks she has been following are deer slots, small and split; the boot prints are gone.",
     "It is near twenty to four, the four men somewhere ahead, Crow among them, and their trail lost.",
   ],
+  issues: ['"Somewhere ahead are the four men ... and you\'ve lost their trail." - Leave It Open'],
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
@@ -37,6 +38,6 @@ export const overwhereI00078 = {
     "lore/overwhere-i-starfall-legacy-2",
     "lore/overwhere-i-the-deserter-crew-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-03T15:40:00.000Z",
 } as const satisfies StoryTurnPlayed
