@@ -4,6 +4,7 @@ export const thePrimalHunter0191Chapter1394ABuzzlingAbundantPalace = {
   id: "01a0f839-b8f6-78c5-b725-c424d063767a",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0191-chapter-1394-a-buzzling-abundant-palace",
+  ownProgress: 2581,
   position: 191,
   publishedAt: "2026-10-01",
   unit: "unit/words",

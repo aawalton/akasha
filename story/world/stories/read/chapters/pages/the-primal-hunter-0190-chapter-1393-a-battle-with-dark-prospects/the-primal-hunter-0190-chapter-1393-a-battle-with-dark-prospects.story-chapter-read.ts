@@ -4,6 +4,7 @@ export const thePrimalHunter0190Chapter1393ABattleWithDarkProspects = {
   id: "01a0f313-1e68-79dc-a1b7-33ff584e78bd",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0190-chapter-1393-a-battle-with-dark-prospects",
+  ownProgress: 2851,
   position: 190,
   publishedAt: "2026-09-30",
   unit: "unit/words",

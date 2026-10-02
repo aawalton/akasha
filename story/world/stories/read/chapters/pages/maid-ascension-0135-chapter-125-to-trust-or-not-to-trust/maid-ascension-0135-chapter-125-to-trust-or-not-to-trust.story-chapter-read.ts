@@ -4,6 +4,7 @@ export const maidAscension0135Chapter125ToTrustOrNotToTrust = {
   id: "01a0f913-86f3-7b92-adf6-fa1d25231c45",
   type: "page-type/story-chapter-read",
   slug: "maid-ascension-0135-chapter-125-to-trust-or-not-to-trust",
+  ownProgress: 1418,
   position: 135,
   publishedAt: "2026-10-01",
   unit: "unit/words",
