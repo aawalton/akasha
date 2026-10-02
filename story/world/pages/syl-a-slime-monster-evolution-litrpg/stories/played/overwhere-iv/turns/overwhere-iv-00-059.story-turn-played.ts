@@ -4,6 +4,7 @@ export const overwhereIv00059 = {
   id: "01a0fda6-e51f-7428-b2e9-6b73e533442d",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-059",
+  cover: "image/image-2766bd4f6a77e39a",
   ownLength: 331,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
@@ -14,7 +15,7 @@ export const overwhereIv00059 = {
     "character-other/overwhere-iv-ilsa-crane",
     "character-other/overwhere-iv-marta-hesk",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“In working on my senses. Anything can see things, but how many people can understand what they hear and smell?” I go for dinner, sleep, training, and then check in at the guild",
   beats: [
@@ -49,6 +50,11 @@ export const overwhereIv00059 = {
     "place/overwhere-iv-brook-and-barrel",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-04T10:00:00.000Z",
 } as const satisfies StoryTurnPlayed
