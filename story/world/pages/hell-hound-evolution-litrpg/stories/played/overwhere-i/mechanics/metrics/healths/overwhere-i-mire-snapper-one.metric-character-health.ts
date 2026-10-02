@@ -5,7 +5,7 @@ export const overwhereIMireSnapperOne = {
   type: "page-type/metric-character-health",
   slug: "overwhere-i-mire-snapper-one",
   character: "character-other/overwhere-i-mire-snapper-one",
-  value: 40,
+  value: 0,
   minValue: 0,
   maxValue: 40,
   displayOrder: 1,
