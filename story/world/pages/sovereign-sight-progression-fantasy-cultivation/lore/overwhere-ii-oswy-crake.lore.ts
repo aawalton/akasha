@@ -83,6 +83,34 @@ export const overwhereIiOswyCrake = {
       fact: "The boy who watched Nala on market day was hawking whittled whistles among the stalls.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Knowing she is wary now, Crake means to draw Nala out of the Ford with a plea she will answer.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Crake has heard Nala drew rot out of a child, and builds his lure on her healing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "On day sixteen a weeping woman comes to the Ford begging a healer for her son at Ashlin Farm.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The woman is Bet Loddon, the Loddon brothers' sister, and her son's fever is a story Crake paid for.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Ashlin Farm lies empty half a day down the valley road, its folk gone to Carrowmouth last autumn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At Ashlin Farm Crake waits with all four men, crossbows on the yard and manacles ready.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Bet Loddon is a poor liar: she does not know the boy's age, and no one in the Ford knows her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
