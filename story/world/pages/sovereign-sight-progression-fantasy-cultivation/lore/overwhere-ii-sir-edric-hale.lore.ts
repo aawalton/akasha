@@ -89,7 +89,7 @@ export const overwhereIiSirEdricHale = {
     },
     {
       fact: "Through the split stone Sir Edric feels the mountain's root bowed upward, like a dam under flood.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The crag's crack runs down past where his sense can follow, deeper than any fault he has felt.",
