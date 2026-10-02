@@ -85,7 +85,7 @@ export const overwhereITheDeserterCrew = {
     },
     {
       fact: "Voss's eye falls on the tarred cask, and he asks what it holds.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "If Voss learns the cask holds Ghost-Eye's head, he claims it as the cart's toll.",
