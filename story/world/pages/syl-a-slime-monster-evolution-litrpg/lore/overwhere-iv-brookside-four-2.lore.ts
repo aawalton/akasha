@@ -59,5 +59,17 @@ export const overwhereIvBrooksideFour2 = {
         "lore/overwhere-iv-brookside-four",
       ],
     },
+    {
+      fact: "At dusk of day 8 Dace, told at the north gate where she went, finds Nala on the downs.",
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
+    },
+    {
+      fact: "Ilsa sent Dace for her horn; he'll carry it back to the hall on his way to Tull's.",
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
+    },
+    {
+      fact: "Dace sees boulders on the downs split clean, and guesses whose work it is.",
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
+    },
   ],
 } as const satisfies Lore
