@@ -40,5 +40,9 @@ export const overwhereIiiOswinFairley = {
       fact: "Oswin flicks the fox's stone with his stick into an old leather pouch, and gives Nala the pouch.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-oswin-fairley"],
     },
+    {
+      fact: "Oswin tells Nala she'll never pay for an egg or a bed at Fairley Farm, and means it.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-oswin-fairley"],
+    },
   ],
 } as const satisfies Lore
