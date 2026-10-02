@@ -10,7 +10,7 @@ export const overwhereI00063 = {
   position: 63,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I fire some bullets at the turtle heads until they die.",
   beats: [
     "From the marsh across the channel, the snappers on Ghost-Eye's body are about 35 yards off.",
@@ -24,6 +24,7 @@ export const overwhereI00063 = {
     "The dead snapper sinks out of sight in the channel, too deep to reach by hand.",
     "The other snapper is gone under; Ghost-Eye lies free in the reeds, its head still whole.",
   ],
+  issues: ['"Ghost-Eye lies free in the reeds, its head still whole." - Leave It Open'],
   lore: [
     "lore/overwhere-i-greyfen-beasts-2",
     "lore/overwhere-i-nala",
@@ -34,6 +35,6 @@ export const overwhereI00063 = {
     "lore/overwhere-i-the-system",
     "lore/overwhere-i-the-system-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-02T10:02:00.000Z",
 } as const satisfies StoryTurnPlayed
