@@ -93,7 +93,7 @@ export const overwhereIiOswyCrake2 = {
     },
     {
       fact: "Undertow cannot touch the cold-iron head, but driving Nala's own arms it speeds her thrust.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "A cold-iron point driven hard into Crake's bare neck breaks his First Depth skin.",
