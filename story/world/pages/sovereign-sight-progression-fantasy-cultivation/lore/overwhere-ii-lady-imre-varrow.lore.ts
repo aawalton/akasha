@@ -56,6 +56,14 @@ export const overwhereIiLadyImreVarrow = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "A guest who bows and waits to be spoken to pleases her; she notes it, and lets nothing show.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She opens with the guest's name and her own, and no more courtesy than that.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "She thanks Nala for Crake, and gives her a silver bar from the House: the road was hers to keep.",
       knowers: ["lore-disclosure/game-master"],
     },
