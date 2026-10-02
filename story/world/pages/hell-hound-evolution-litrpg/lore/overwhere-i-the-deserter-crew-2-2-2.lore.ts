@@ -16,5 +16,9 @@ export const overwhereITheDeserterCrew222 = {
       fact: "On Voss: a purse of 1 gold 2 silver, his sword, and a sealed letter folded in his jerkin.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The camp dead carry 8, 15 and 22 copper; the hut purse holds 30 more.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
