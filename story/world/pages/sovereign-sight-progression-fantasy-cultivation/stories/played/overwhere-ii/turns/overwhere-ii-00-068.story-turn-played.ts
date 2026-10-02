@@ -11,4 +11,5 @@ export const overwhereIi00068 = {
   action:
     "I burst out with my Talent, pull down and forward on his head and pushing up on the spear as I pull it back then thrust it forward, faster than it should be able to move, straight into his neck.",
   lore: ["lore/overwhere-ii-oswy-crake-2"],
+  endsAt: "2026-10-14T18:31:00.000Z",
 } as const satisfies StoryTurnPlayed
