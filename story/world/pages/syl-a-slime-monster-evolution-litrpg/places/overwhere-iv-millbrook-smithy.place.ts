@@ -61,6 +61,26 @@ export const overwhereIvMillbrookSmithy = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
+      fact: "Nala's forged spear is done by mid-morning of her seventh day, fitted, oiled and on the bench.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The leaf blade is a hand and a half long, dark grey, with a bright edge and a socket riveted on.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The shaft is new seasoned ash, cut to her height, with an iron butt cap.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin wants his last 75 copper on collection, counted, this time.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin has heard of the wolf's head, and asks whether the old spear held.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Tobin Ash's smithy sits on Millbrook's square.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
