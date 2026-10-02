@@ -325,5 +325,9 @@ export const overwhereIiiNala2 = {
       fact: "Resting at the crossroads shrine all afternoon on day seven had Nala's mana brimming by near five.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "At Legend, lent current carries a pull's cold off, so pulling blight no longer aches up her arm.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
