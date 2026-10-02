@@ -78,7 +78,7 @@ export const overwhereIiGreyShaw = {
     },
     {
       fact: "A drained Talent who drinks bottled Water refills in an hour, not days, and mends faster.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Bottled Water only fills a reservoir; it deepens no one, and leaves no lasting gain.",
