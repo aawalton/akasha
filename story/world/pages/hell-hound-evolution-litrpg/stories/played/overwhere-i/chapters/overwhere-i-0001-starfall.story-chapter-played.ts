@@ -18,7 +18,7 @@ export const overwhereI0001Starfall = {
     },
     {
       position: 2,
-      cover: "image/image-683564d2c8f5b20e",
+      cover: "image/image-96d43189f2d1bdb3",
       coverAfter: "A shaggy black beast the size of a small bear shoulders out",
     },
     {
