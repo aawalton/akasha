@@ -52,5 +52,9 @@ export const overwhereITheGreyfenAlpha22 = {
       fact: "Ghost-Eye's four great fangs are whole; a Wendlow carver pays a silver apiece.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ghost-Eye's hide is torn past use by the scavengers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
