@@ -7,6 +7,13 @@ export const overwhereIii00066 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 66,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action: "“Thanks Marda” I go out to the shrine to recover, then check for patients again",
+  lore: [
+    "lore/overwhere-iii-brannagh-tull",
+    "lore/overwhere-iii-brannagh-tull-2",
+    "lore/overwhere-iii-marda-hesk",
+    "lore/overwhere-iii-mending-weave",
+    "place/overwhere-iii-wrenwood-crossroads",
+  ],
 } as const satisfies StoryTurnPlayed
