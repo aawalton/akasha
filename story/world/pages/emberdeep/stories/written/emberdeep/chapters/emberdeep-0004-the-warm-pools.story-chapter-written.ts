@@ -82,6 +82,10 @@ export const emberdeep0004TheWarmPools = {
     "She falls asleep with Elowen in her arms and an empty purse on the peg.",
     "A day in Emberdeep ends.",
   ],
+  issues: [
+    '"a dark soft shadow between her thighs" - Emberdeep Explicitness',
+    '"your belly, between your legs" - Emberdeep Explicitness',
+  ],
   lore: [
     "lore/emberdeep-elowen",
     "lore/emberdeep-nala",
@@ -94,4 +98,5 @@ export const emberdeep0004TheWarmPools = {
     "character-other/emberdeep-wren",
     "character-other/emberdeep-elowen",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
