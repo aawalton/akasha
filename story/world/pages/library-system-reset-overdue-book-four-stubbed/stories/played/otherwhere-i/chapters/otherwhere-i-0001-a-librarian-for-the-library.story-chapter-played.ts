@@ -198,7 +198,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 38,
-      cover: "image/image-a7473556b6bd5a3a",
+      cover: "image/image-c92df9a7e403aa99",
       coverAfter: "Inside hang three robes of deep blue wool. They're whole, without a",
     },
     {
