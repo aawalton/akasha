@@ -5,6 +5,7 @@ export const overwhereIi00074 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-074",
   cover: "image/image-6b1da96dd7792083",
+  coverAfter: "Outside, the half moon hangs over the birches, and the road back",
   ownLength: 327,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],

@@ -5,6 +5,7 @@ export const overwhereIi00073 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-073",
   cover: "image/image-2c135a3e5e75da8e",
+  coverAfter: "One end of its roof is gone. Inside are cold ashes, and",
   ownLength: 361,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],

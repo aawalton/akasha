@@ -5,6 +5,7 @@ export const overwhereIi00072 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-072",
   cover: "image/image-a2de08d7859e43fd",
+  coverAfter: "An hour after dark the half moon rises, and the road shows",
   ownLength: 280,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
