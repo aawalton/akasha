@@ -28,7 +28,7 @@ export const otherwhereI0002TheCounterWakes = {
     },
     {
       position: 53,
-      cover: "image/image-89a688f921f2122f",
+      cover: "image/image-eb78959c2057a07f",
       coverAfter: "You cross the hall's dim gold to the arched door and follow",
     },
     {
