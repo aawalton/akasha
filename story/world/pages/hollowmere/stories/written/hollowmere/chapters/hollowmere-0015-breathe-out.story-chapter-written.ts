@@ -5,7 +5,7 @@ export const hollowmere0015BreatheOut = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0015-breathe-out",
   cover: "image/image-6f4617409fad911e",
-  ownProgress: 959,
+  ownProgress: 1100,
   position: 15,
   unit: "unit/words",
   title: "Breathe Out",
