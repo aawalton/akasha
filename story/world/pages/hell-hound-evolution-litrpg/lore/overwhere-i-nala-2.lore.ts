@@ -80,5 +80,9 @@ export const overwhereINala2 = {
       fact: "Drawing a crystal, Nala feels mana seep in as a slow, steady filling behind her breastbone.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Nala has no tracking skill; she reads plain sign as anyone sharp-eyed does.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
