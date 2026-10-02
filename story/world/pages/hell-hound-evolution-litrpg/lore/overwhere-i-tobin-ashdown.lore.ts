@@ -79,6 +79,10 @@ export const overwhereITobinAshdown = {
       fact: "Tobin can't get anyone in Fenwatch to believe his tale of the Brute and the burn.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Seeing the head, Tobin begs Nala to take him to Wendlow; Hessa says nothing either way.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
