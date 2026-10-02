@@ -188,7 +188,7 @@ export const overwhereIiiNala2 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
-      fact: "Nala last ate at supper on her sixth night, and went to bed fed.",
+      fact: "Nala last ate at supper on her sixth night; by mid-morning on day seven she is hungry again.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
