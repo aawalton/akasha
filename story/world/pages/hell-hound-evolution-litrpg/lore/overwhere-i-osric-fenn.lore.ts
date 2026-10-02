@@ -215,7 +215,7 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Of the toll silver Osric asks back only the one silver he paid; the rest, he says, is spoils.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Osric whistles at the head, names the Board's thirty gold for it, and offers salt from his stock.",
