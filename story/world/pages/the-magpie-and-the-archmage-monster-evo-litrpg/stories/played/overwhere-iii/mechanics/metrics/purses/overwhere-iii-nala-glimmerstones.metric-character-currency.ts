@@ -6,7 +6,7 @@ export const overwhereIiiNalaGlimmerstones = {
   slug: "overwhere-iii-nala-glimmerstones",
   character: "character-player/overwhere-iii-nala",
   currency: "world-currency/overwhere-iii-glimmerstone",
-  value: 5,
+  value: 6,
   minValue: 0,
   history: "jsonl",
   displayOrder: 4,
