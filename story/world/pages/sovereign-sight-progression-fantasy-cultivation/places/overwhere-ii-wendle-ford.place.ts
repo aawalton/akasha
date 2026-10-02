@@ -144,5 +144,9 @@ export const overwhereIiWendleFord = {
       fact: "Day four is market day: stalls go up on the green at dawn, and the carrier's cart is by the Lantern.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Maddy at the Lantern keeps a pot of bone broth on for Nala while she refines her bones.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place
