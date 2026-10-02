@@ -49,7 +49,7 @@ export const overwhereIiBetLoddon = {
     },
     {
       fact: "If Bet is not back at Ashlin Farm by nightfall, Crake will judge it gone wrong and break camp.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Bet knows nothing of where Crake keeps his captives, only that he has some.",
