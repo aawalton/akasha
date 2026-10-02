@@ -25,10 +25,14 @@ export const overwhereI00075 = {
     "On the pit's north wall the lens finds a goat path climbing to the forest.",
     "Its dust is freshly scuffed.",
   ],
+  issues: [
+    '"bends air into a lens" - her lens is water held in air; the spyglass is two water lenses',
+  ],
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
     "lore/overwhere-i-the-deserter-crew-2",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-03T15:10:00.000Z",
 } as const satisfies StoryTurnPlayed
