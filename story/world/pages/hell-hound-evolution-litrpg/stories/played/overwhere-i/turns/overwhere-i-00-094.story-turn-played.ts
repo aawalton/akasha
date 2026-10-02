@@ -11,4 +11,5 @@ export const overwhereI00094 = {
   action:
     "I spend the afternoon carefully experimenting with casting spells on the remaining wounds on my arms, single elements and pairs trying to find a combination and visualization to accelerate healing",
   lore: ["lore/overwhere-i-starfall-legacy", "lore/overwhere-i-starfall-legacy-2"],
+  endsAt: "2026-10-04T18:15:00.000Z",
 } as const satisfies StoryTurnPlayed
