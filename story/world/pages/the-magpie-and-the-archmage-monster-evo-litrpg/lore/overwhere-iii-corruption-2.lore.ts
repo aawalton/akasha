@@ -40,5 +40,13 @@ export const overwhereIiiCorruption2 = {
       fact: "Nala's first braided pull, down through the earth, drew the fox's blight one of about four.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "On day eight the blighted fox burst from its sett and went for Oswin, three strides off.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-oswin-fairley",
+      ],
+    },
   ],
 } as const satisfies Lore
