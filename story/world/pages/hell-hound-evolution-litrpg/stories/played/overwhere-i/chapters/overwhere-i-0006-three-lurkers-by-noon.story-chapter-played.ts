@@ -48,7 +48,7 @@ export const overwhereI0006ThreeLurkersByNoon = {
     },
     {
       position: 33,
-      cover: "image/image-ee041354b8ef8356",
+      cover: "image/image-f15c020092e5ef14",
       coverAfter: "It takes the beast full in the flank. The reedlurker lifts off",
     },
     {
