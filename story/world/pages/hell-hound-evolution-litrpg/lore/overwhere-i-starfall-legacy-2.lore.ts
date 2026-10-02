@@ -192,5 +192,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "A push too hard, failed badly, cracks a cart's axle or bolts the mule.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Air lifting a cart's bed gives the push's gain at its cost; lift and push together make 5 an hour.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
