@@ -14,7 +14,7 @@ export const overwhereIii00065 = {
     "character-other/overwhere-iii-oswin-fairley",
     "character-other/overwhere-iii-marda-hesk",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“I’ll take is back to the post.”",
   beats: [
     '"I\'ll take it back to the Post," Nala says.',
@@ -41,6 +41,6 @@ export const overwhereIii00065 = {
     "place/overwhere-iii-fairley-farm",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-06T10:00:00.000Z",
 } as const satisfies StoryTurnPlayed
