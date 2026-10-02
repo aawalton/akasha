@@ -10,7 +10,7 @@ export const overwhereIii00075 = {
   position: 75,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "“Cleansed and merged into a glimmer. Can I give you the value in coin instead?”",
   beats: [
     '"Cleansed and merged into a glimmer. Can I give you the value in coin instead?"',
@@ -20,6 +20,9 @@ export const overwhereIii00075 = {
     "She sets down the pen. Her eyes go to Nala's hands, pink and raw across both palms.",
     '"And what did that to your palms?"',
   ],
+  issues: [
+    '"I wanted them cracked, not back" - in 73 Marda said "Bring those back" and in 74 asked for them',
+  ],
   lore: [
     "lore/overwhere-iii-marda-hesk",
     "lore/overwhere-iii-marda-hesk-2",
@@ -27,6 +30,6 @@ export const overwhereIii00075 = {
     "lore/overwhere-iii-nala-2",
     "lore/overwhere-iii-nala-2-2",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-07T15:55:00.000Z",
 } as const satisfies StoryTurnPlayed
