@@ -68,5 +68,9 @@ export const overwhereIiAshlinFarm = {
       fact: "As Crake died, the fight in the beck gully had gone to shouting and a man's howl of pain.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Ashlin is quiet on their return: Col kept watch, and Bet sleeps against her brothers in the straw.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
