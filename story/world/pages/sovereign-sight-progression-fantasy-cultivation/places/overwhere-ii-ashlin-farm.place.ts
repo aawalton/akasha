@@ -26,7 +26,7 @@ export const overwhereIiAshlinFarm = {
     },
     {
       fact: "Behind the farm, Ashlin Beck runs in a wooded gully that reaches the back of the barn unseen.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "From the beck gully a man can reach the barn's back wall without crossing open ground.",
