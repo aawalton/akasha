@@ -141,7 +141,7 @@ export const overwhereIvMillbrookAdventurersHall2 = {
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
     },
     {
-      fact: "The farms wanting watchers are Hobb's, Tull's and the Wren place, nearest the Tangle.",
+      fact: "The farms wanting watchers are Hobb's, Tull's and the Ashby place, nearest the Tangle.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
     },
     {
