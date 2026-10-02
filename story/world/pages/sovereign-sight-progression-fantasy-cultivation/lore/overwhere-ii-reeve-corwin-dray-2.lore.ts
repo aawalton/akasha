@@ -191,5 +191,9 @@ export const overwhereIiReeveCorwinDray2 = {
       fact: "As Dray hears out Nala's tale of the fight, the grey fades from his fists back to flesh.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Dray can keep pace with Nala; at First Depth he runs for hours like a horse at a hard trot.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
