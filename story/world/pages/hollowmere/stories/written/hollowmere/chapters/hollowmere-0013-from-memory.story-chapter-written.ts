@@ -10,7 +10,7 @@ export const hollowmere0013FromMemory = {
   story: "story-written/hollowmere",
   ownLength: 2803,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   beats: [
     "Saturday: you skip the swimmers and go down to the boathouse at seven, wrapped in Bea's jumper.",
     "Novice rowing: coxed fours on the grey water, mist on the mere, the captain bawling from a launch.",
@@ -35,7 +35,7 @@ export const hollowmere0013FromMemory = {
     "After an hour she turns the board round: it's you, in the window, and it's more you than a mirror.",
     '"There are two others," she says, and takes them off the wall: you at the Welcome Dinner, twice.',
     '"From memory," she says, scarlet. "I noticed you. The first night. I\'m sorry. It\'s odd."',
-    "\"It's lovely,\" you say, and mean it; in one you're laughing at something Bea said.",
+    "\"It's lovely,\" you say, and mean it; in one you're laughing, head tipped back under the candles.",
     "Lin sits beside you on the window seat with charcoal on her fingers, close, her shoulder to yours.",
     '"May I," she says, very quietly, and stops, and can\'t finish it.',
     "You say yes before she has to; Lin leans in and kisses you, light and brief, tasting of tea.",
