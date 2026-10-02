@@ -5,6 +5,7 @@ export const otherwhereI00064 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-i-00-064",
   cover: "image/image-bcad9d972511466f",
+  coverAfter: "Overhead, the hall's gold light begins to sink toward evening amber.",
   ownLength: 197,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-i"],

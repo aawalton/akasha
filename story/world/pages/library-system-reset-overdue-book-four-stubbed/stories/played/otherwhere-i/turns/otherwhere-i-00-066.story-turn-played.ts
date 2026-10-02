@@ -5,6 +5,7 @@ export const otherwhereI00066 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-i-00-066",
   cover: "image/image-67d88ac10565c5cc",
+  coverAfter: "Morning finds you rested and whole, the old fullness humming back in",
   ownLength: 118,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-i"],

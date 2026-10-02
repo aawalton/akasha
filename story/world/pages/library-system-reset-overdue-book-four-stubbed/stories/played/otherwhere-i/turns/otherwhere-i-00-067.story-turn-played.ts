@@ -5,6 +5,7 @@ export const otherwhereI00067 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-i-00-067",
   cover: "image/image-a4e7645d2850848a",
+  coverAfter: "They are thin and faceless, pale oak and brass, their long jointed",
   ownLength: 112,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-i"],

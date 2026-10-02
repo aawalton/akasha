@@ -5,6 +5,7 @@ export const otherwhereI00071 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-i-00-071",
   cover: "image/image-7de060c86d9588e0",
+  coverAfter: "Then you roll one of the hall's tall ladders along its brass",
   ownLength: 382,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-i"],

@@ -5,6 +5,7 @@ export const otherwhereI00070 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-i-00-070",
   cover: "image/image-c09e51f2aea27d0a",
+  coverAfter: "A pause, the kind he takes when his eyes flicker blue and",
   ownLength: 170,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-i"],

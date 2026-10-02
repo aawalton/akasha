@@ -5,6 +5,7 @@ export const otherwhereI00065 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-i-00-065",
   cover: "image/image-2a762fb9a86487ee",
+  coverAfter: "You wind down the spiral staircase into the round chamber, the amber",
   ownLength: 152,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-i"],

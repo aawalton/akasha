@@ -5,6 +5,7 @@ export const otherwhereI00069 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-i-00-069",
   cover: "image/image-f7e64c8a81fd7597",
+  coverAfter: "By the Counter, the first golem's arm folds back down, empty, and",
   ownLength: 89,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-i"],

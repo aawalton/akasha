@@ -5,6 +5,7 @@ export const otherwhereI00068 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-i-00-068",
   cover: "image/image-309f503f6f066d96",
+  coverAfter: "Its arm unfolds, and unfolds again, up past the reach of the",
   ownLength: 112,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-i"],
