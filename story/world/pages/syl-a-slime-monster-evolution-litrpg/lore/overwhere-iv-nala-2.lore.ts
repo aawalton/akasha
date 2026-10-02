@@ -301,5 +301,9 @@ export const overwhereIvNala2 = {
       fact: "Nala paid Tobin 75 copper, half, for a forged leaf-bladed spear due the day after tomorrow.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Nala paid Tobin 10 copper to sharpen her practice spear; its point is sharp, its edges bright.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore
