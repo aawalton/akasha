@@ -268,6 +268,10 @@ export const overwhereITheDeserterCrew = {
       fact: "A crewman caught alight drops his blade and reels back, beating at the flames.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Voss comes on through the fire behind his shield; the shield halves what a burst does to him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
