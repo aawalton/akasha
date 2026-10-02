@@ -354,6 +354,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Crow keeps loosing at Nala from the trees every 6 seconds to cover the crew's run.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A crewman struck down short of the pit is left where he falls; the rest do not turn back.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
