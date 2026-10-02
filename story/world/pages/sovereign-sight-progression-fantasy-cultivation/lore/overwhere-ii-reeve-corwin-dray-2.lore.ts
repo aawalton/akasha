@@ -109,7 +109,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray reckons Crake's touch cannot drink through Stonehand, since stone has no skin.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray knows Ashlin Farm: empty since autumn, with a beck gully behind its barn.",
