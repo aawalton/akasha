@@ -72,5 +72,9 @@ export const overwhereIiiCorruption2 = {
       fact: "The fox's blightstone is hazelnut-sized; bare skin on it brings a wash of revulsion.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A small blightstone from a Level 5 beast cracks into three glimmer specks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
