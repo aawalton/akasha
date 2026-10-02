@@ -205,6 +205,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "Osric's mule stands hobbled close by his cart at Ketter's Well.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "From Ketter's Well to Wendlow is forty miles of road through pine and farmland.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
