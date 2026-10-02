@@ -44,5 +44,9 @@ export const overwhereIiAshlinFarm = {
       fact: "The farmhouse well sits in the middle of the yard, under a slate cap, deep and full.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At dusk a lamp burns in the farmhouse window, the sign Crake's men are ready.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place

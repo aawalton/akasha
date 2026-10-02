@@ -296,5 +296,9 @@ export const overwhereIiNala2 = {
       fact: "On the road to Ashlin Farm, Nala watches the hedges and the road ahead and sees no one.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "As two crossbows thrummed from the loft, Nala threw herself sideways, and both bolts missed her.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
