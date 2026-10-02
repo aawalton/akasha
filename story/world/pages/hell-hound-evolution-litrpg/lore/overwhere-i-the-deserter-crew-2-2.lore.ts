@@ -71,5 +71,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Crossbowman Five's helm wards 2; a beam burns through it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Once they loose, Crow and Five show in the pines 25 to 30 yards from her on the track.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
