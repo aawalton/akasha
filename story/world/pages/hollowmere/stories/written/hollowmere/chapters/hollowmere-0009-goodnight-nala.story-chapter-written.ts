@@ -55,6 +55,9 @@ export const hollowmere0009GoodnightNala = {
     "You cross the dark quad back to Thornfield with your own name ringing in your ears.",
     "A day at Hollowmere ends.",
   ],
+  issues: [
+    '"the girl in Penhallow\'s study writing down your one line" - Dr Penhallow, 58, wrote it',
+  ],
   lore: [
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",
@@ -78,4 +81,5 @@ export const hollowmere0009GoodnightNala = {
     "character-other/hollowmere-lin",
     "character-other/hollowmere-yusra",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
