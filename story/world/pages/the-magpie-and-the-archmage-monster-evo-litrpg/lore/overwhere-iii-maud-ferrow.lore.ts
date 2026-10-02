@@ -132,7 +132,11 @@ export const overwhereIiiMaudFerrow = {
     },
     {
       fact: "Day nine's drill on the south green has Maud, Tam Rowe and five more of the watch.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-maud-ferrow"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-maud-ferrow",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
 } as const satisfies Lore
