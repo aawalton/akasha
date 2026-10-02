@@ -10,7 +10,7 @@ export const overwhereIii00069 = {
   position: 69,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I go back to the post and work on cleansing blightstones, experimenting with ways to do it more efficiently",
   beats: [
@@ -24,7 +24,7 @@ export const overwhereIii00069 = {
     "Nala turns to the fox stone. She loops and braids again, easy this time.",
     "The last scrap of blight tears free. The little stone cracks into three bright specks.",
     'Marda sweeps them across the desk to her. "Yours. Ten of those make a glimmerstone."',
-    "Nala's well is empty again. In the lead box, the six seed stones sit in their corner.",
+    "Nala's well is empty again. Marda locks the wolf's stone away. \"Near done, that one.\"",
   ],
   issues: [
     '"In the lead box, the six seed stones sit in their corner." - Leave It Open',
