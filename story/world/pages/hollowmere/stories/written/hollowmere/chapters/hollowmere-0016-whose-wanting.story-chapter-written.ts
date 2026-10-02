@@ -8,9 +8,9 @@ export const hollowmere0016WhoseWanting = {
   unit: "unit/words",
   title: "Whose Wanting?",
   story: "story-written/hollowmere",
-  ownLength: 2975,
+  ownLength: 2974,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Tuesday: frost on the shingle at dawn; you and Shiv swim to the buoy and back through the steam.",
     "The red-cheeked second-year reads out your time: five minutes. Shiv whistles, impressed.",
