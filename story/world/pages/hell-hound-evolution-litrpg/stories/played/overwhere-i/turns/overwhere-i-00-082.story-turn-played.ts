@@ -4,10 +4,19 @@ export const overwhereI00082 = {
   id: "01a0fde2-59b9-7e3d-a6a5-0a8c3566251b",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-082",
+  ownLength: 185,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 82,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-i-nala",
+    "character-other/overwhere-i-mirren-dask",
+    "character-other/overwhere-i-quarry-crewman-five",
+    "character-other/overwhere-i-harl-voss",
+    "character-other/overwhere-i-quarry-crewman-three",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I take a blade from one of the downed men and stab both through the neck to make sure they are fully down, then quietly fall back a bit and start quietly circling, giving my mana some time to recharge.",
   beats: [
@@ -25,6 +34,7 @@ export const overwhereI00082 = {
     "Their eyes stay on the track; she lies in the pines on the rim, her well half refilled.",
   ],
   lore: [
+    "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
     "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-starfall-legacy-2",
