@@ -10,7 +10,7 @@ export const overwhereI00095 = {
   position: 95,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“I’ll take all three”",
   beats: [
     "\"I'll take all three,\" Nala says, and counts out 13 copper into the innkeeper's broad palm.",
@@ -31,6 +31,6 @@ export const overwhereI00095 = {
     "place/overwhere-i-greyback-and-east-road",
     "place/overwhere-i-wendlow",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-05T11:30:00.000Z",
 } as const satisfies StoryTurnPlayed
