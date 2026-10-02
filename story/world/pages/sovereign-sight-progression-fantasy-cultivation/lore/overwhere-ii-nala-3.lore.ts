@@ -164,5 +164,9 @@ export const overwhereIiNala3 = {
       fact: "Once her Locks run free after the venom, Nala is parched and starving, unfed since the day before.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Nala told Lady Varrow that Garth Marsh was the first she met, and that names slip from her.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
