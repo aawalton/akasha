@@ -42,7 +42,7 @@ export const overwhereIiTarrantSmithy = {
     },
     {
       fact: "Nala's spear: a seven-foot ash shaft, a dark leaf-shaped cold-iron head, a crossbar below.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Hob asks the other half silver bar when he hands Nala the spear, and not a copper more.",
