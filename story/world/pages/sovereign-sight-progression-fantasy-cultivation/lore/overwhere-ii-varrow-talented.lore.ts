@@ -81,7 +81,7 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "A practice bout ends at a clean touch to head or body, or when Hawise calls it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
