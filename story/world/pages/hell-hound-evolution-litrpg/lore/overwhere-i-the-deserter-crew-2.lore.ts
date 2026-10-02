@@ -114,5 +114,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Struck at under parley, the crew will yield on no terms and slips out by the goat path at once.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Word that Nala struck under parley reaches Wendlow's Board within a tenday; the bounty still pays.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
