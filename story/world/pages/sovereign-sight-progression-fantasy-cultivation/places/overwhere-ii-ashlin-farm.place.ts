@@ -76,5 +76,9 @@ export const overwhereIiAshlinFarm = {
       fact: "Big Harl tried once to slip his bonds near midnight; Col knocked him down, and he has sulked since.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Carrying the stash uphill, with Pip flagging, Nala and Dray reach Ashlin near three in the morning.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
