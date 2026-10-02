@@ -304,6 +304,10 @@ export const overwhereIiiTheSystem = {
       fact: "Hard bodily training on three separate days wins a body skill at Basic; one morning wins none.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Traits come at birth, from long hard use of a sense or the body, or from the skill shop.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
