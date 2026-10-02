@@ -5,6 +5,8 @@ export const hollowmere0010EveryWindowLitButOne = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0010-every-window-lit-but-one",
   cover: "image/image-317da1036acb52a0",
+  completedAt: "2026-10-02T21:11:01.539Z",
+  ownProgress: 3813,
   position: 10,
   unit: "unit/words",
   title: "Every Window Lit but One",
