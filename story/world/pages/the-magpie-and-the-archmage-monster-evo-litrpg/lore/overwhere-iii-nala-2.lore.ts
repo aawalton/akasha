@@ -237,5 +237,9 @@ export const overwhereIiiNala2 = {
         "character-other/overwhere-iii-pip-carrow",
       ],
     },
+    {
+      fact: "At Expert, Mana Weaver reaches currents four times as far off, and lends four times the Basic mana.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
