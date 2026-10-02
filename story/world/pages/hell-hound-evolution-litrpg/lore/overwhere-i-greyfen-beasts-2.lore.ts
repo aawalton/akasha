@@ -148,5 +148,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "A slug at a feeding snapper's bobbing head is a moderate act within 50 yards; at its shell, easy.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Hurt, a snapper pulls in its head and reaches deep water in about six seconds: two more slugs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
