@@ -109,7 +109,11 @@ export const overwhereIiNala3 = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Her skull's refining headache would make the march hard; on foot, her hips and shins go easier.",
+      fact: "Refining her skull on the march, Nala's headache stays a dull pressure, easier than she feared.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "By noon of day seventeen Nala's skull is well along; it, her hips and long bones remain.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
