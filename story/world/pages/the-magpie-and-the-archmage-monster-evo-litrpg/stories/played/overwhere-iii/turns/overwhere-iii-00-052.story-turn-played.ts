@@ -7,9 +7,20 @@ export const overwhereIii00052 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 52,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I go and rest at the shrine until my mana is full again, then go back to Brannagh’s and heal the burn if he’s still there, then check at the Post again",
+  beats: [
+    "Nala walks out the south gate and down to the crossroads, sore from the drill.",
+    "She sits with her back to the shrine's warm stone. The magpies chatter at her, then settle.",
+    "The white-gold threads drift to her and seep in, warm as sun.",
+    "Her inside fills steady and fast. A little past noon she's full to the brim again.",
+    "Her sore arms ease as she sits. By the time she stands, the drill's knocks are gone.",
+    "She walks back to town and up to Brannagh's.",
+    "The bench is empty. Brannagh looks up from her mortar.",
+    '"Your drover\'s gone back to the cattle pens by the east gate. Comes by mornings, works afternoons."',
+    '"I can send for him, if you want him now."',
+  ],
   lore: [
     "lore/overwhere-iii-brannagh-tull",
     "lore/overwhere-iii-brannagh-tull-2",
