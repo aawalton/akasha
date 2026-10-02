@@ -39,5 +39,13 @@ export const saltAndLamplightPenmorrow = {
         "character-player/salt-and-lamplight-nala",
       ],
     },
+    {
+      fact: "The Anchor's rooms are full of hired salting crews until the herring season closes.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/salt-and-lamplight-dilys",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
+    },
   ],
 } as const satisfies Place
