@@ -113,7 +113,7 @@ export const overwhereIiOswyCrake2 = {
     },
     {
       fact: "Locks choked, Nala's Water stays penned in her well: no Undertow, but her refined body holds.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "If Crake falls, Bet cries out to Wil from the lane, and Wil lowers his crossbow; Kit follows.",
