@@ -4,10 +4,13 @@ export const overwhereIi00070 = {
   id: "01a0fdac-2d5c-7161-b844-89acb0968056",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-070",
+  ownLength: 248,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 70,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Come on down. If there are any others and you help us subdue them, that will count in your favor.”",
   beats: [
@@ -29,6 +32,12 @@ export const overwhereIi00070 = {
     'Wil: "Crake has three Talented chained in a cellar in Carrowmouth. In the Salt Lanes."',
     "Wil: \"I know which cellar. I'll tell it, Reeve, if it buys my brother's life and mine.\"",
   ],
-  lore: ["lore/overwhere-ii-loddon-brothers", "lore/overwhere-ii-reeve-corwin-dray-2"],
+  lore: [
+    "lore/overwhere-ii-loddon-brothers",
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-nala-3",
+    "lore/overwhere-ii-reeve-corwin-dray-2",
+  ],
   endsAt: "2026-10-14T18:42:00.000Z",
 } as const satisfies StoryTurnPlayed
