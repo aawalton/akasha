@@ -45,7 +45,7 @@ export const overwhereIiiBrannaghTull2 = {
       ],
     },
     {
-      fact: "On the slate: a drover's burned forearm, a girl's crooked-healed lip, and six or seven more.",
+      fact: "Six or seven scar folk are left on the slate; Huw's burn and the girl's lip are wiped off it.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/overwhere-iii-nala",
@@ -106,7 +106,7 @@ export const overwhereIiiBrannaghTull2 = {
       ],
     },
     {
-      fact: "The drover with the burned forearm is first on Brannagh's slate, and comes by each morning.",
+      fact: "Huw's burn was mended on day six, so he is off the slate and no longer comes by mornings.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-brannagh-tull",
@@ -150,7 +150,7 @@ export const overwhereIiiBrannaghTull2 = {
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
     {
-      fact: "Three Mending Weaves set the girl's crooked lip even; she grinned at Nala.",
+      fact: "Three Mending Weaves set the girl's crooked lip even on day seven; she grinned at Nala.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-brannagh-tull",
