@@ -374,6 +374,10 @@ export const overwhereITheDeserterCrew = {
       fact: "A slug at a running man's back within 50 yards, prone and drill-spun, is moderate.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Inside the pit the crew is behind stone and out of her line from the road.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
