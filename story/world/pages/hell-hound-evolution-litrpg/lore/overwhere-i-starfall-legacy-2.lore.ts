@@ -156,5 +156,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "A spinning water blade, an air-and-water weave, cuts flesh and bone at arm's reach for 10 mana.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A water blade through a still body's neck is easy.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
