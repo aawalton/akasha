@@ -73,7 +73,31 @@ export const overwhereIiNala3 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
-      fact: "Until noon of day seventeen her Locks open stiff, and Undertow answers slow and weak.",
+      fact: "Left alone, her Locks stay stiff until noon of day seventeen, and Undertow answers slow and weak.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Cycling needs no stillness; Nala can cycle her Water as she marches, as she breathes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The first loops of cycling after the venom grate through her Locks like a rusted hinge.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Each loop eases the next; cycling on the march, her Locks run free by mid-morning, not noon.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "With her Locks running free, Undertow answers full again and her sense of water comes clear.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The needle dart is a finger-long iron needle, its grooved tip dark with dried venom.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The dried venom on a spent dart is too little to choke anyone's Locks.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
