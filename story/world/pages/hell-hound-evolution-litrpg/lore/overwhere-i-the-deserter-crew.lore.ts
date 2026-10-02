@@ -350,6 +350,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Running, Voss carries his shield slung over his back.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Crow keeps loosing at Nala from the trees every 6 seconds to cover the crew's run.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
