@@ -1,17 +1,17 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0015 = {
+export const hollowmere0015BreatheOut = {
   id: "01a0feb8-60fb-7b2f-8e9b-8e876a2e051c",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0015",
+  slug: "hollowmere-0015-breathe-out",
   ownProgress: 0,
   position: 15,
   unit: "unit/words",
-  title: "Chapter 15",
+  title: "Breathe Out",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 2766,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Monday of week three: the morning after the storm is washed clean, blue and cold and very still.",
     "The mere is flat again, littered with branches; the fells are back, sharp, snow on the tops.",
@@ -54,5 +54,27 @@ export const hollowmere0015 = {
     "Under it, smaller: Friday. Then, smallest, for yourself: breathe out.",
     "A day at Hollowmere ends.",
   ],
-  lore: ["lore/hollowmere-academy-2", "place/hollowmere-thornfield-house"],
+  lore: [
+    "lore/hollowmere-academy-2",
+    "lore/hollowmere-amara",
+    "lore/hollowmere-bea",
+    "lore/hollowmere-kit",
+    "lore/hollowmere-lin",
+    "lore/hollowmere-nala",
+    "lore/hollowmere-nala-2",
+    "lore/hollowmere-priya",
+    "lore/hollowmere-shiv",
+    "lore/hollowmere-yusra",
+    "place/hollowmere-thornfield-house",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-shiv",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-kit",
+    "character-other/hollowmere-amara",
+    "character-other/hollowmere-yusra",
+    "character-other/hollowmere-lin",
+    "character-other/hollowmere-priya",
+  ],
 } as const satisfies StoryChapterWritten
