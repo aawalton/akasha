@@ -15,7 +15,7 @@ export const overwhereIii00056 = {
     "character-other/overwhere-iii-brannagh-tull",
     "character-other/overwhere-iii-marda-hesk",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I sleep, then in the morning I check in at Brannagh’s first thing, heal anyone waiting, then work on the blightstone again, this time, I try to focus the weave into a loop, so it doesn’t snap back into my arm.",
   beats: [
@@ -52,6 +52,11 @@ export const overwhereIii00056 = {
     "place/overwhere-iii-merrowgate-guild-post",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-05T08:30:00.000Z",
 } as const satisfies StoryTurnPlayed
