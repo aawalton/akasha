@@ -11,4 +11,5 @@ export const overwhereIv00053 = {
   action:
     "I slice the hobgoblin’s throat next, then use my spacial sense to finish the remainder, even if i can’t see them.",
   lore: ["place/overwhere-iv-raiders-stream"],
+  endsAt: "2026-10-03T11:05:00.000Z",
 } as const satisfies StoryTurnPlayed
