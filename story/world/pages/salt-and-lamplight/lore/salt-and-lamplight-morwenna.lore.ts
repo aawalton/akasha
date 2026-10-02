@@ -50,7 +50,11 @@ export const saltAndLamplightMorwenna = {
     },
     {
       fact: "Morwenna talks to the lamp when she thinks she is alone, and reads late by its spare oil.",
-      knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-morwenna"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/salt-and-lamplight-morwenna",
+        "character-player/salt-and-lamplight-nala",
+      ],
     },
     {
       fact: "Morwenna's mother Ysella kept the light before her, and taught her every part of the work.",
@@ -147,6 +151,38 @@ export const saltAndLamplightMorwenna = {
     {
       fact: "Morwenna keeps her mother Ysella's clothes folded in the chest at the foot of her bed.",
       knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-morwenna"],
+    },
+    {
+      fact: "Morwenna keeps her mother's clothes folded in the chest at the foot of her bed.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
+    },
+    {
+      fact: "Morwenna's mother wore her brown wool dress to do the goats, the garden and the lamp.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
+    },
+    {
+      fact: "Morwenna says keeping Nala is what a keeper does, and nothing more.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
+    },
+    {
+      fact: "Morwenna calls Granny Bray's cove stranger likely an old woman's tale.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
     },
   ],
   secrets: "jsonl",

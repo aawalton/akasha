@@ -34,7 +34,11 @@ export const saltAndLamplightMorrowHead = {
     },
     {
       fact: "The lamp is lit at dusk and put out at dawn, and its wick is trimmed and its lens polished daily.",
-      knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-morwenna"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/salt-and-lamplight-morwenna",
+        "character-player/salt-and-lamplight-nala",
+      ],
     },
     {
       fact: "The keeper's cottage of granite and slate sits at the tower's foot, with one hearth and one bed.",
@@ -74,6 +78,14 @@ export const saltAndLamplightMorrowHead = {
     },
     {
       fact: "The Teeth are a reef of jagged black rocks off Morrow Head.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
+    },
+    {
+      fact: "A small stone privy stands behind the goat shed at the keeper's cottage.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/salt-and-lamplight-nala",

@@ -9,7 +9,11 @@ export const saltAndLamplightPenmorrow = {
   facts: [
     {
       fact: "Penmorrow is a small harbour town of grey stone and slate roofs, built steep round a walled harbour.",
-      knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-morwenna"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/salt-and-lamplight-morwenna",
+        "character-player/salt-and-lamplight-nala",
+      ],
     },
     {
       fact: "Some three hundred people live in Penmorrow, most of them by the boats, the nets or the salting.",
@@ -45,11 +49,17 @@ export const saltAndLamplightPenmorrow = {
         "lore-disclosure/game-master",
         "character-other/salt-and-lamplight-dilys",
         "character-other/salt-and-lamplight-morwenna",
+        "character-player/salt-and-lamplight-nala",
       ],
     },
     {
       fact: "No boat on the coast has lost anyone this season, and no one in Penmorrow is missing a woman.",
-      knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-dilys"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/salt-and-lamplight-dilys",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
     },
   ],
 } as const satisfies Place

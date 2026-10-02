@@ -22,6 +22,7 @@ export const saltAndLamplightDilys = {
         "lore-disclosure/game-master",
         "character-other/salt-and-lamplight-dilys",
         "character-other/salt-and-lamplight-morwenna",
+        "character-player/salt-and-lamplight-nala",
       ],
     },
     {
@@ -54,6 +55,23 @@ export const saltAndLamplightDilys = {
         "lore-disclosure/game-master",
         "character-other/salt-and-lamplight-dilys",
         "character-other/salt-and-lamplight-morwenna",
+      ],
+    },
+    {
+      fact: "Dilys keeps the Anchor, the inn at the end of Penmorrow's harbour front.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-dilys",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
+    },
+    {
+      fact: "Dilys told Nala that Morwenna is kinder than she lets on, and to mind that.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-dilys",
       ],
     },
   ],

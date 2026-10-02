@@ -24,6 +24,7 @@ export const saltAndLamplightAgnes = {
         "character-other/salt-and-lamplight-agnes",
         "character-other/salt-and-lamplight-dilys",
         "character-other/salt-and-lamplight-morwenna",
+        "character-player/salt-and-lamplight-nala",
       ],
     },
     {
@@ -33,6 +34,7 @@ export const saltAndLamplightAgnes = {
         "character-other/salt-and-lamplight-agnes",
         "character-other/salt-and-lamplight-dilys",
         "character-other/salt-and-lamplight-morwenna",
+        "character-player/salt-and-lamplight-nala",
       ],
     },
     {
@@ -60,6 +62,7 @@ export const saltAndLamplightAgnes = {
         "character-other/salt-and-lamplight-agnes",
         "character-other/salt-and-lamplight-dilys",
         "character-other/salt-and-lamplight-morwenna",
+        "character-player/salt-and-lamplight-nala",
       ],
     },
     {
@@ -69,6 +72,7 @@ export const saltAndLamplightAgnes = {
         "character-other/salt-and-lamplight-agnes",
         "character-other/salt-and-lamplight-dilys",
         "character-other/salt-and-lamplight-morwenna",
+        "character-player/salt-and-lamplight-nala",
       ],
     },
   ],

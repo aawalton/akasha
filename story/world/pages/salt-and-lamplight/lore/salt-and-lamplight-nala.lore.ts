@@ -80,5 +80,44 @@ export const saltAndLamplightNala = {
         "character-other/salt-and-lamplight-morwenna",
       ],
     },
+    {
+      fact: "Nala wears Morwenna's mother's shift, brown wool dress, stockings, shawl and boots.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+        "character-other/salt-and-lamplight-dilys",
+      ],
+    },
+    {
+      fact: "Nala is to stay at the Morrow Head light until something is known of her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+        "character-other/salt-and-lamplight-dilys",
+      ],
+    },
+    {
+      fact: "Nala has promised Morwenna she will work for her keep at the light.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
+    },
+    {
+      fact: "Nala has not a penny in this world.",
+      knowers: ["lore-disclosure/game-master", "character-player/salt-and-lamplight-nala"],
+    },
+    {
+      fact: "Morwenna told Dilys she found Nala in the cove, from far away and unable to say how she came.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+        "character-other/salt-and-lamplight-dilys",
+      ],
+    },
   ],
 } as const satisfies Lore
