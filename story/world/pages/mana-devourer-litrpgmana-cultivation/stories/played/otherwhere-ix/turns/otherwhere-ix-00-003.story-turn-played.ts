@@ -5,6 +5,7 @@ export const otherwhereIx00003 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-ix-00-003",
   cover: "image/image-7963bfafa4aae4cb",
+  coverAfter: "Low and fast, the grass splitting ahead of it, and silent now.",
   ownLength: 194,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],

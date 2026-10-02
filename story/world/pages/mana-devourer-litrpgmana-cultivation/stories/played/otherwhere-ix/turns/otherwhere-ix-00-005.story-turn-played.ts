@@ -5,6 +5,7 @@ export const otherwhereIx00005 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-ix-00-005",
   cover: "image/image-0bb69d259549550b",
+  coverAfter: "Glass drives into your forearms and the soft insides of your arms.",
   ownLength: 201,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],

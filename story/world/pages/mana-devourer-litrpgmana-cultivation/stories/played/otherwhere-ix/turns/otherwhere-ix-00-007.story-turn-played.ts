@@ -5,6 +5,7 @@ export const otherwhereIx00007 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-ix-00-007",
   cover: "image/image-349d284a60f56ea9",
+  coverAfter: "The wound is shallow. Blood runs from it, but the beast is",
   ownLength: 167,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],

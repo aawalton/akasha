@@ -5,6 +5,7 @@ export const otherwhereIx00013 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-ix-00-013",
   cover: "image/image-bd9c7ec4e090a1a1",
+  coverAfter: "Something low and broad is coming through it, straight toward the kill,",
   ownLength: 237,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],

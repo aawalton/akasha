@@ -5,6 +5,7 @@ export const otherwhereIx00006 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-ix-00-006",
   cover: "image/image-f3930ab6578b3213",
+  coverAfter: "Blood soaks dark through your tights, all down the length of your",
   ownLength: 183,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],

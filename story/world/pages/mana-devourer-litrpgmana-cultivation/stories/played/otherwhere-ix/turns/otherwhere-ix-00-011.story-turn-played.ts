@@ -5,6 +5,7 @@ export const otherwhereIx00011 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-ix-00-011",
   cover: "image/image-80867173a7dd3a38",
+  coverAfter: "The sun is well past its height, and the afternoon is still",
   ownLength: 183,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],

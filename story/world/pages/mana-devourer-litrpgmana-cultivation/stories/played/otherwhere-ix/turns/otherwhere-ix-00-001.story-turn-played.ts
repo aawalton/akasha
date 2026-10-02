@@ -5,6 +5,7 @@ export const otherwhereIx00001 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-ix-00-001",
   cover: "image/image-21199dc084f1fdbe",
+  coverAfter: "Your shirt is still on you, the dark grey one, but it",
   partOfCollections: ["story-played/otherwhere-ix"],
   position: 1,
   ownLength: 450,

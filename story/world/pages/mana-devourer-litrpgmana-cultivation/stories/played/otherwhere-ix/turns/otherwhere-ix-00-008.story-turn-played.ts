@@ -5,6 +5,7 @@ export const otherwhereIx00008 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-ix-00-008",
   cover: "image/image-ee4aa03f64c3806b",
+  coverAfter: "When your sight clears, your hands are shaking badly, and your leg",
   ownLength: 120,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],

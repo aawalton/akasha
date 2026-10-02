@@ -5,6 +5,7 @@ export const otherwhereIx00015 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-ix-00-015",
   cover: "image/image-0a2e93ed391c72b3",
+  coverAfter: "You end up on your side in the glassgrass, your palms full",
   ownLength: 186,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],

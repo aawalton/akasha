@@ -5,6 +5,7 @@ export const otherwhereIx00004 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-ix-00-004",
   cover: "image/image-c094ed137260a69f",
+  coverAfter: "The teeth sink through the tights and into you, and it hangs",
   ownLength: 262,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],

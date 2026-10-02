@@ -5,6 +5,7 @@ export const otherwhereIx00009 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-ix-00-009",
   cover: "image/image-d038d8f9ea0cd091",
+  coverAfter: "You stay down on it, your whole weight on your arms, and",
   ownLength: 168,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],

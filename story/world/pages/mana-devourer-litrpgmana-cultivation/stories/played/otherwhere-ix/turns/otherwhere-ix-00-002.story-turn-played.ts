@@ -5,6 +5,7 @@ export const otherwhereIx00002 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-ix-00-002",
   cover: "image/image-fb0baac8d9c58e8d",
+  coverAfter: "It is low and broad, about as high as your knee, with",
   ownLength: 302,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],

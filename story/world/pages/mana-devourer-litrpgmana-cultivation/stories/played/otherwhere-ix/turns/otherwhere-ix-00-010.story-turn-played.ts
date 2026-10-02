@@ -5,6 +5,7 @@ export const otherwhereIx00010 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-ix-00-010",
   cover: "image/image-5da1d2ae39c6677f",
+  coverAfter: "Under you, the dead beast's blood is soaking into the tights at",
   ownLength: 211,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],

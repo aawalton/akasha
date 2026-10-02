@@ -5,6 +5,7 @@ export const otherwhereIx00012 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-ix-00-012",
   cover: "image/image-7c5012e43d7d85dc",
+  coverAfter: "The blood has already gone thick. It barely comes, a slow dark",
   ownLength: 189,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],

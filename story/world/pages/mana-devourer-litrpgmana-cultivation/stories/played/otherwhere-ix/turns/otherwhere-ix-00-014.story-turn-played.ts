@@ -5,6 +5,7 @@ export const otherwhereIx00014 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-ix-00-014",
   cover: "image/image-3dd8dd08935a3b69",
+  coverAfter: "As it reaches you, you drive the right-hand quill at its face,",
   ownLength: 230,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-ix"],
