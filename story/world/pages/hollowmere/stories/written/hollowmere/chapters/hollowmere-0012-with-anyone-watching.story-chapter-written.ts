@@ -5,6 +5,8 @@ export const hollowmere0012WithAnyoneWatching = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0012-with-anyone-watching",
   cover: "image/image-109fac87f9b6a1f7",
+  completedAt: "2026-10-02T21:51:28.940Z",
+  ownProgress: 3192,
   position: 12,
   unit: "unit/words",
   title: "With Anyone Watching",
