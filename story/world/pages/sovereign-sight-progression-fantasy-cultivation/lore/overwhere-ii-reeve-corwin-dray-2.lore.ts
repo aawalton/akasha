@@ -261,7 +261,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray reads the account back aloud before Nala sets her mark to it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray holds the prisoners in his house's cellar, with a watchman at its hatch day and night.",
