@@ -129,7 +129,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "Asked, Lady Varrow reads Nala's words aloud, and says her well shines like a Second Depth's.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "None of the four Talented sworn to Lady Varrow is Major, nor shines half so bright in her glass.",
