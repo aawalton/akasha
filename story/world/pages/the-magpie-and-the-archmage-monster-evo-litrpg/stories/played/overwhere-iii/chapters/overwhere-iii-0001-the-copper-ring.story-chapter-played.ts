@@ -73,7 +73,7 @@ export const overwhereIii0001TheCopperRing = {
     },
     {
       position: 13,
-      cover: "image/image-1548217b114b1af9",
+      cover: "image/image-4c2dd3b1631ee089",
       coverAfter: "Its small glow shifts. It drains out of the body and gathers,",
     },
     {
