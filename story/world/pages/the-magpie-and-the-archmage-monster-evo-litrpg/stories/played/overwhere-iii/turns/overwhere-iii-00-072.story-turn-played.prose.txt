@@ -1,0 +1,21 @@
+"Oh! Inventory sounds useful!"
+
+You call up the skill shop. A blue window opens before you.
+
+[Skills: Spark 3, Mana Bolt 5, Appraise 5, Gust 6, Minor Ward 8, Mend 10, Purify 15.]
+
+[Traits: Inventory 3.]
+
+You pick Inventory. Its price in glimmerstones fades from your pack.
+
+[New trait acquired – Inventory.]
+
+[Inventory – At [Basic] level, keep a knapsack's worth in a pocket bound to you.]
+
+"Done!" you say. "Any other basics I might have missed?"
+
+Marda snorts. "Appraise, from that same shop."
+
+"A staff of your own. The cooper by the market sells plain ash ones, fifteen copper."
+
+"And never go out with your well dry." She eyes you. "Which you are."

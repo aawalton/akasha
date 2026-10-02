@@ -4,10 +4,13 @@ export const overwhereIii00072 = {
   id: "01a0fe7c-cc6e-7ed5-be42-826747130573",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-072",
+  ownLength: 114,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 72,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Oh! Inventory sounds useful!” I pull open the skill shop and buy it. “Done! Any other basics I might have missed?”",
   beats: [
