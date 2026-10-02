@@ -4,6 +4,7 @@ export const overwhereI00084 = {
   id: "01a0fe37-8b3d-76e3-bebf-47274af5033a",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-084",
+  cover: "image/image-1f12a82703851b88",
   ownLength: 175,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -37,6 +38,7 @@ export const overwhereI00084 = {
     "lore/overwhere-i-the-deserter-crew-2-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-03T19:00:00.000Z",
+  coverAfter: "He unslings his shield, props it upright before him, and settles the sword",
 } as const satisfies StoryTurnPlayed
