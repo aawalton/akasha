@@ -34,7 +34,7 @@ export const overwhereIiAshlinFarm = {
     },
     {
       fact: "The lane runs a long bowshot between hedges and opens on the yard with no cover at its end.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "A rain butt sits by the barn's corner, brim-full of standing rainwater.",
