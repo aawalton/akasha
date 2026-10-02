@@ -10,7 +10,7 @@ export const overwhereIi00065 = {
   position: 65,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Gladly. I’ll bring me new spear, can’t be too safe with the wolves around.” I say with an eager grin.",
   beats: [
@@ -37,6 +37,6 @@ export const overwhereIi00065 = {
     "lore/overwhere-ii-reeve-corwin-dray-2",
     "place/overwhere-ii-ashlin-farm",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-14T15:00:00.000Z",
 } as const satisfies StoryTurnPlayed
