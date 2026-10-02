@@ -4,10 +4,13 @@ export const overwhereIi00090 = {
   id: "01a0fee3-1c6f-7f0a-8648-21dbf5d21140",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-090",
+  ownLength: 192,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 90,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“I will not swear, but I will help if I can. I have refined my skin, muscles, and bones since meeting Garth and I still have room to grow, but I am lacking in guidance. I have a feeling I will need all the strength I can get to face whatever lies under that mountain. If you can help me grow my strength, I will stay to face it.”",
   beats: [
@@ -31,6 +34,11 @@ export const overwhereIi00090 = {
     "She holds Nala's eyes, level and cold.",
     'Lady Varrow: "Will you take that bond?"',
   ],
-  lore: ["lore/overwhere-ii-lady-imre-varrow"],
+  lore: [
+    "lore/overwhere-ii-lady-imre-varrow",
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-nala-3",
+  ],
   endsAt: "2026-10-21T08:38:00.000Z",
 } as const satisfies StoryTurnPlayed
