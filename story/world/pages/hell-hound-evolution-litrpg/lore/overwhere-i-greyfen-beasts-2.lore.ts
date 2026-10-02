@@ -140,5 +140,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "A Mire Snapper's head, out and tearing at meat, wards 1; a slug pierces that to nothing.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A slug does a Mire Snapper's head 16 harm and its shell 13; overcharged, its shell 21.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
