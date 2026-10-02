@@ -32,5 +32,9 @@ export const overwhereITheSystem2 = {
       fact: "The System opens no window for a drawn mana crystal; only the mana it gives shows.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A level-up refills neither health nor mana; no skill or legacy changes at Level 9.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
