@@ -255,5 +255,17 @@ export const overwhereIiReeveCorwinDray2 = {
       fact: "Dray wants Nala at the Ford when Sir Edric comes, to tell him of the crag and the pull herself.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Dray writes the fight down in an hour, asking Nala each step of it, and writes it plain.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray reads the account back aloud before Nala sets her mark to it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray holds the prisoners in his house's cellar, with a watchman at its hatch day and night.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
