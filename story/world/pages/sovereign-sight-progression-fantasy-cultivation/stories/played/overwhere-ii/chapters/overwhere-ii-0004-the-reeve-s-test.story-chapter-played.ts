@@ -28,7 +28,7 @@ export const overwhereIi0004TheReeveSTest = {
     },
     {
       position: 28,
-      cover: "image/image-749d3339747016be",
+      cover: "image/image-1a382ba6ce514b7b",
       coverAfter: "In the lantern light you see it: a fist-sized knot of polished",
     },
     {
