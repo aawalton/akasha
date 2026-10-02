@@ -242,5 +242,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "From the east rim by the back wall, 15 yards off and above, the easternmost gallery shows inside.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Blademan Two sits burned against the wall, sword on his knees; One lies beside him, moaning.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
