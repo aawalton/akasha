@@ -52,7 +52,7 @@ export const overwhereITheDeserterCrew22 = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Voss and Blademan Three reach the charcoal burners' camp about 16:40.",
+      fact: "Voss and Blademan Three reach the charcoal burners' camp about 16:30.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
