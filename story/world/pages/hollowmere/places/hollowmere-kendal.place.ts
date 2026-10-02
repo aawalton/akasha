@@ -70,5 +70,9 @@ export const hollowmereKendal = {
         "character-other/hollowmere-kit",
       ],
     },
+    {
+      fact: "On Friday nights the Kendal cinema shows an old foreign film, subtitled, to a near-empty house.",
+      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-kit"],
+    },
   ],
 } as const satisfies Place

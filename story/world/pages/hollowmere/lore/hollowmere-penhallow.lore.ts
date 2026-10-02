@@ -104,5 +104,9 @@ export const hollowmerePenhallow = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Dr Penhallow returns essays at the next tutorial, marked in green ink, each with one question.",
+      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-penhallow"],
+    },
   ],
 } as const satisfies Lore
