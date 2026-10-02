@@ -13,7 +13,7 @@ export const overwhereIiBetLoddon = {
     },
     {
       fact: "Bet has no son; she came for her brothers' sake, and for two silver Crake paid her.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Bet is afraid of Crake, and more afraid of what he would do to her brothers if she failed.",
