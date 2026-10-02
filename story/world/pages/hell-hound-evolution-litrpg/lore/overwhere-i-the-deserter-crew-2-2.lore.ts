@@ -218,5 +218,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Their crossbows reach her on the rim; lying prone there, she is a hard mark.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "When two have fallen, the last crossbowman throws his bow down and yields.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
