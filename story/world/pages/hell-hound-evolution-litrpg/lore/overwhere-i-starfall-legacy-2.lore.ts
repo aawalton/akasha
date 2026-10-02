@@ -36,5 +36,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Her Weave can hold an air ward against missiles beside guided slugs; each missile turned costs 10.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Turning a missile she sees coming is a moderate act; one she has not seen is hard.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
