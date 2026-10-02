@@ -93,7 +93,7 @@ export const overwhereIiSirEdricHale = {
     },
     {
       fact: "The crag's crack runs down past where his sense can follow, deeper than any fault he has felt.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Under the strain he feels a slow swell and ease in the rock, like the breath of something asleep.",
