@@ -44,5 +44,9 @@ export const overwhereITheGreyfenAlpha22 = {
       fact: "By 10:02 on day 4 Ghost-Eye's body lies free of scavengers in the reeds, its head whole.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "On day 4's late morning nothing else dangerous is within a quarter mile of Ghost-Eye's body.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
