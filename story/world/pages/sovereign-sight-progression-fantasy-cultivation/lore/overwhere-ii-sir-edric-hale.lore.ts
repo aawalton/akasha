@@ -77,7 +77,7 @@ export const overwhereIiSirEdricHale = {
     },
     {
       fact: "Sir Edric lodges at the Lantern tonight, and asks Nala to meet him at the ford at first light.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Sir Edric climbs steadily for his years, but slower than Nala; he will not be hurried on rock.",
