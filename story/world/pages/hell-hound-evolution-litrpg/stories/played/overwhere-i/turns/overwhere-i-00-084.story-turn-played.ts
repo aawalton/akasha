@@ -11,4 +11,5 @@ export const overwhereI00084 = {
   action:
     "I finish burning the blademan, then start carefully trailing Voss, letting my mana recover",
   lore: ["lore/overwhere-i-the-deserter-crew-2", "lore/overwhere-i-the-deserter-crew-2-2"],
+  endsAt: "2026-10-03T19:00:00.000Z",
 } as const satisfies StoryTurnPlayed
