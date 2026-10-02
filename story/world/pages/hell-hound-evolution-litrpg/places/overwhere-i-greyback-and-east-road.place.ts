@@ -280,6 +280,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "The Ford Inn's tub takes a quarter hour to fill with kettle water; it comes with a cake of lye soap.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Ford Inn's beds are narrow straw ticks in small upstairs rooms, each with a door that bars.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
