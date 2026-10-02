@@ -5,7 +5,7 @@ export const hollowmere0007InYourBoat = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0007-in-your-boat",
   cover: "image/image-61e5008b567d0f8a",
-  ownProgress: 53,
+  ownProgress: 100,
   position: 7,
   unit: "unit/words",
   title: "In Your Boat",
