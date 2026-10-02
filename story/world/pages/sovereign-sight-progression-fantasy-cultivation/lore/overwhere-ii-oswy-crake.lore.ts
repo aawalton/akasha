@@ -111,6 +111,14 @@ export const overwhereIiOswyCrake = {
       fact: "Bet Loddon is a poor liar: she does not know the boy's age, and no one in the Ford knows her.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Siphon drinks only through bare skin; cloth, leather, stone and cold iron give Crake nothing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Crake will not come out to the yard until his crossbows have the mark pinned or down.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
