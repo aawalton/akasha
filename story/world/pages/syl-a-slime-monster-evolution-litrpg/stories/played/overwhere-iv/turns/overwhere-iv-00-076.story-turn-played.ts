@@ -11,4 +11,5 @@ export const overwhereIv00076 = {
   action:
     "I mix in targeting the ones most likely to find me, the two quiet ones first, then hiding then in the rest",
   lore: ["lore/overwhere-iv-the-tangle-2"],
+  endsAt: "2026-10-06T21:18:00.000Z",
 } as const satisfies StoryTurnPlayed
