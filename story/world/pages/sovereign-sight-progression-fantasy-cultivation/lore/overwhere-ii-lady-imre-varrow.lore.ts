@@ -113,7 +113,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "Lady Varrow says the glass came from the Spires and shows a Talent for what it is.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Lady Varrow asks Nala's leave before looking at her through the glass.",
