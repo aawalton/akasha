@@ -143,7 +143,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 27,
-      cover: "image/image-97baed4d1b4be6ee",
+      cover: "image/image-321862b4604eca0d",
       coverAfter: '"I keep roots and vegetables a human can eat," he adds, grudging,',
     },
     {
