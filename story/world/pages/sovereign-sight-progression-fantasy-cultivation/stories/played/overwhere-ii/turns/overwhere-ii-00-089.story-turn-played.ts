@@ -4,6 +4,7 @@ export const overwhereIi00089 = {
   id: "01a0fed2-b34a-738d-8217-956f612bee03",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-089",
+  cover: "image/image-db7fdcab7dc818e3",
   ownLength: 191,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
@@ -37,6 +38,7 @@ export const overwhereIi00089 = {
     "lore/overwhere-ii-nala-3",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-21T08:33:00.000Z",
+  coverAfter: '"Whatever is under the Whitecombs, my valley has to be held against it.',
 } as const satisfies StoryTurnPlayed
