@@ -18,7 +18,7 @@ export const otherwhereIii0002TheDeskDemon = {
     },
     {
       position: 16,
-      cover: "image/image-ace7b1bd97071d85",
+      cover: "image/image-e843c9a230d3e4ff",
       coverAfter: "You cross the terrazzo to the desk. Your boots squeak on it,",
     },
     {
