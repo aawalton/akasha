@@ -149,7 +149,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "Sworn to her, Nala would help hold the valley against whatever is under the Whitecombs.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "If Nala will not swear, she offers a lesser bond: paid as a free blade, called on at need.",
