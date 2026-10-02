@@ -4,7 +4,7 @@ export const theDatingGame00005 = {
   id: "01a0e30b-67a0-7a43-ae8b-2ab914c8b99b",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-005",
-  cover: "image/image-bbf6d7f90fee6747",
+  cover: "image/image-1fa6a7b5db412a12",
   coverAfter: "She stops dead on the trail and turns to face you, and",
   ownLength: 229,
   unit: "unit/words",
