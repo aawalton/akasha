@@ -19,7 +19,7 @@ export const overwhereI00086 = {
     "character-other/overwhere-i-quarry-crewman-two",
     "character-other/overwhere-i-voss-drakewolf",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I use a spinning water blade to cut off his head, search his person for anything of value, put it in the sack and start retracing my steps back to each of the places I killed his men, collecting their valuables in the sack as well and cutting off their ears for proof of the kills.",
   beats: [
@@ -51,6 +51,6 @@ export const overwhereI00086 = {
     "place/overwhere-i-greyback-and-east-road",
     "place/overwhere-i-wendlow",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-03T23:23:00.000Z",
 } as const satisfies StoryTurnPlayed
