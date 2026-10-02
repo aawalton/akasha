@@ -58,7 +58,7 @@ export const otherwhereI0002TheCounterWakes = {
     },
     {
       position: 59,
-      cover: "image/image-c67355baae367d42",
+      cover: "image/image-e90c11e5108c314b",
       coverAfter: "Before he can answer, a low hum rises up through the hall",
     },
     {
