@@ -53,7 +53,7 @@ export const overwhereI0007GhostEye = {
     },
     {
       position: 50,
-      cover: "image/image-feaa9afd11650b3e",
+      cover: "image/image-8c863dc61816d546",
       coverAfter: "Ghost-Eye's head snaps round to the splash, then to you, its crest",
     },
     {
