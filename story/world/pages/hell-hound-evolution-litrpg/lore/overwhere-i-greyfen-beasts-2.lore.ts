@@ -184,5 +184,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "A ripple feels the dead snapper on the channel bed and the live one lying still in the deep mud.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The unhurt snapper, frightened, keeps to the deep mud while anyone is near the body.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
