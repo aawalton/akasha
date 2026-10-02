@@ -5,6 +5,7 @@ export const otherwhereVii00011 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-vii-00-011",
   cover: "image/image-832e74551c3e255c",
+  coverAfter: "Hild comes in with a basket on her arm, a bundle of",
   ownLength: 596,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vii"],

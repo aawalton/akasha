@@ -5,6 +5,7 @@ export const otherwhereVii00014 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-vii-00-014",
   cover: "image/image-602508bfdce472a2",
+  coverAfter: "Hild looks you over once more, from the clogs up to the",
   ownLength: 115,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vii"],

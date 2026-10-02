@@ -5,6 +5,7 @@ export const otherwhereVii00013 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-vii-00-013",
   cover: "image/image-db961055b93869f5",
+  coverAfter: "\"Pot's on the shelf. Work it in tonight, mind, or it's wasted.",
   ownLength: 176,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vii"],

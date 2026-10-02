@@ -5,6 +5,7 @@ export const otherwhereVii00012 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-vii-00-012",
   cover: "image/image-c12ac7ab1b34d6bf",
+  coverAfter: "She reaches into her basket and sets a small pot of grease",
   ownLength: 314,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vii"],
