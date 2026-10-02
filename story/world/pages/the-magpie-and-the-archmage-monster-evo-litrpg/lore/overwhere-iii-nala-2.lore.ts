@@ -243,7 +243,7 @@ export const overwhereIiiNala2 = {
     },
     {
       fact: "[Mana Weaver – At [Expert] level, you see currents from very far off. They lend you far more.]",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "At Level 2 Nala's most health rises by three and her own mana by two, to 12 mana.",
