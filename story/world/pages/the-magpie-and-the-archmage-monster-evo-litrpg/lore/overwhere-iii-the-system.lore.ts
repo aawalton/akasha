@@ -90,7 +90,7 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "Party members share quests and experience; a Party Profile lists each one's health and mana.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Support classes gain less from kills they aided; healers and crafters gain by their own work.",
