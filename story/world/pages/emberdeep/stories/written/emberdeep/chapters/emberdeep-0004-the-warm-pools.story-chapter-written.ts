@@ -8,9 +8,9 @@ export const emberdeep0004TheWarmPools = {
   unit: "unit/words",
   title: "The Warm Pools",
   story: "story-written/emberdeep",
-  ownLength: 4036,
+  ownLength: 4081,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "It is Restday; Nala wakes to bells somewhere below in the town and a house without porridge.",
     "The widow knocks on door 7 at eight for the rent.",
