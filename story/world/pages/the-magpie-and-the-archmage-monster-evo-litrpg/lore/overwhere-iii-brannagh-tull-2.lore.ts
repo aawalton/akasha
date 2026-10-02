@@ -245,5 +245,9 @@ export const overwhereIiiBrannaghTull2 = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "On day eight's afternoon a carter waits, his palm gashed on an axle bolt that morning, no blight.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+    },
   ],
 } as const satisfies Lore
