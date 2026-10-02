@@ -51,5 +51,14 @@ export const overwhereIiiHuwTarrant = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "The drover is called Huw: near fifty, lean and weathered, a man of few words.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-huw-tarrant",
+        "character-other/overwhere-iii-ivy-marsh",
+        "character-player/overwhere-iii-nala",
+      ],
+    },
   ],
 } as const satisfies Lore
