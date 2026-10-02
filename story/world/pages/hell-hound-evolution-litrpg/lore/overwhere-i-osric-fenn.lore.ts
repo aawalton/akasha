@@ -167,6 +167,10 @@ export const overwhereIOsricFenn = {
       fact: "Osric's terms: Nala and Tobin ride free and eat from his stores; any bounty on robbers is theirs.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Osric shakes on it, pleased, and says a mage on the tailboard is worth ten spears.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
