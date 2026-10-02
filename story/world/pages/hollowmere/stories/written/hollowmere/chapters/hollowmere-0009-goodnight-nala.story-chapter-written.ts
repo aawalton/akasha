@@ -10,7 +10,7 @@ export const hollowmere0009GoodnightNala = {
   story: "story-written/hollowmere",
   ownLength: 3506,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Tuesday: dawn on Shiv's rock; three minutes in the mere now, and you only gasp once.",
     "Wrapped in her parka, you tell Shiv about Bea and the rock and the kiss on your cheek.",
@@ -81,5 +81,5 @@ export const hollowmere0009GoodnightNala = {
     "character-other/hollowmere-lin",
     "character-other/hollowmere-yusra",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryChapterWritten
