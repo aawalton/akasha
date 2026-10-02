@@ -16,6 +16,18 @@ export const overwhereIiOswyCrake2 = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "To Undertow's sense, Crake's chest under the saltsteel is a blank, as if nothing were there.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Undertow aimed at Crake's chest soaks into the saltsteel; driven hard, it blackens and snaps.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Crake's bare head, neck, hands and legs lie open to Undertow; only the saltsteel shields him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Crake's First Depth skin turns a plain blade; only a hard, true thrust breaks it.",
       knowers: ["lore-disclosure/game-master"],
     },
