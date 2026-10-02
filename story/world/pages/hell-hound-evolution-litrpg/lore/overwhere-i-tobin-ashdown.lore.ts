@@ -195,6 +195,10 @@ export const overwhereITobinAshdown = {
         "lore/overwhere-i-osric-fenn",
       ],
     },
+    {
+      fact: "Hessa's yarrow salve stops the bleeding of Nala's bolt wounds; it heals nothing by itself.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
