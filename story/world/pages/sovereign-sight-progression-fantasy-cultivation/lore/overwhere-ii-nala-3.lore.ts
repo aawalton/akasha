@@ -42,7 +42,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "Locks choked, Nala cannot cycle; she runs on refined muscle alone, faster than any man, not a hound.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Running choked, Nala could cover the twelve miles to Grey Shaw in about two hours.",
