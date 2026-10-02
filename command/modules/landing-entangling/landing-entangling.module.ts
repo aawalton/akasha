@@ -47,6 +47,15 @@ export const landingEntangling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A types file the change only adds optional members and type imports to is not followed.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A body that satisfied a type still satisfies it with an optional member added.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Nothing is followed where HEAD did not move.",
     },
     {

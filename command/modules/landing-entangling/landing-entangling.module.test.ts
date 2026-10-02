@@ -24,6 +24,7 @@ import {
 import {
   AGAIN_JUDGED,
   judgedOnly,
+  widenedOnly,
 } from "akasha/command/modules/landing-entangling/landing-entangling.module.code.ts"
 import { reworked } from "akasha/command/modules/landing-reworking/landing-reworking.module.code.ts"
 import { listedFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
@@ -222,6 +223,57 @@ test("a change judged again against HEAD that still holds lands", async () => {
   expect(held.seen()).toBe(2)
   expect(saidIn(said)).toBe("")
   expect(usageOn(root)).toBe(IMPORTING_KEPT)
+})
+
+const TYPES_AT = "akasha/thing.types.ts"
+
+const PAGE_AT = "akasha/thing-page.module.ts"
+
+const TYPED = "export type Thing = {\n  name: string\n}\n"
+
+const WIDENED =
+  'import type { Size } from "./size.types.ts"\n\nexport type Thing = {\n  name: string\n  size?: Size\n}\n'
+
+const NARROWED = "export type Thing = {\n  name: string\n  size: number\n}\n"
+
+const pageOf = (name: string): string =>
+  `import type { Thing } from "./thing.types.ts"\n\nexport const page = { name: "${name}" } satisfies Thing\n`
+
+test("a types file the change only adds optional members or type imports to is widened only", () => {
+  expect(widenedOnly(TYPES_AT, TYPED, WIDENED)).toBe(true)
+  expect(widenedOnly(TYPES_AT, TYPED, NARROWED)).toBe(false)
+  expect(widenedOnly(TYPES_AT, WIDENED, TYPED)).toBe(false)
+  expect(widenedOnly(TYPES_AT, TYPED, TYPED)).toBe(false)
+  expect(widenedOnly(TYPES_AT, null, WIDENED)).toBe(false)
+  expect(widenedOnly("akasha/thing.module.ts", TYPED, WIDENED)).toBe(false)
+})
+
+async function withTypes(): Promise<string> {
+  const root = await served()
+  const said = await landing(
+    root,
+    rowsIn(root, [
+      { path: TYPES_AT, body: bytes(TYPED) },
+      { path: PAGE_AT, body: bytes(pageOf("one")) },
+    ]),
+    "typed",
+    ADMITS
+  )
+  if ("refusals" in said) throw new Error(said.refusals.join("; "))
+  return root
+}
+
+test("a page landed meanwhile that reaches the change only through a widened type is not judged again", async () => {
+  const root = await withTypes()
+  const held = meanwhile(root, [{ path: PAGE_AT, body: bytes(pageOf("two")) }])
+  const said = await landing(
+    root,
+    rowsIn(root, [{ path: TYPES_AT, body: bytes(WIDENED) }]),
+    "widened",
+    held.judging
+  )
+  expect(saidIn(said)).toBe("")
+  expect(readFileSync(join(root, TYPES_AT), "utf8")).toBe(WIDENED)
 })
 
 test("only a refusal over nothing but a HEAD that moved under the checks is judged again", () => {

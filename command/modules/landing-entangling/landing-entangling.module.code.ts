@@ -26,6 +26,33 @@ function movedBetween(root: string, judged: string, base: string): readonly stri
   return said.split(APART).filter((one) => one !== "" && compiled(one))
 }
 
+const TYPES_TAIL = ".types.ts"
+
+const LINE = "\n"
+
+const OPTIONAL_MEMBER = /^\s*(readonly\s+)?[\w$]+\?: [^;{}]+$/
+
+const TYPE_IMPORT = /^import type \{ [\w$, ]+ \} from "[^"]+"$/
+
+function addedOnlyOptional(before: string, after: string): boolean {
+  const was = before.split(LINE)
+  const is = after.split(LINE)
+  let at = 0
+  for (const line of is) {
+    if (at < was.length && line === was[at]) {
+      at += 1
+      continue
+    }
+    if (line !== "" && !OPTIONAL_MEMBER.test(line) && !TYPE_IMPORT.test(line)) return false
+  }
+  return at === was.length
+}
+
+export function widenedOnly(path: string, before: string | null, after: string | null): boolean {
+  if (!path.endsWith(TYPES_TAIL) || before === null || after === null) return false
+  return before !== after && addedOnlyOptional(before, after)
+}
+
 function importersReached(index: Answering, seeds: readonly string[]): ReadonlySet<string> {
   const found = new Set<string>()
   const waiting = [...seeds]
@@ -61,7 +88,10 @@ export function entangledSince(change: Change, judged: string, base: string): re
   const reached = importersReached(index, moved)
   const found = new Set(touched.filter((one) => reached.has(one)))
   for (const one of namingReached(change, index, touched, reached)) found.add(one)
-  const reaching = importersReached(index, touched)
+  const narrowing = touched.filter(
+    (one) => !widenedOnly(one, textOf(change.before(one)), textOf(change.after(one)))
+  )
+  const reaching = importersReached(index, narrowing)
   for (const one of moved) if (reaching.has(one)) found.add(one)
   return [...found].sort()
 }
