@@ -67,6 +67,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Harl Voss's crew deserted from the king's levy, and toll every cart that passes Cutter's Quarry.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "About 15:00 on day 5 Voss and five men bar the road at Cutter's Quarry; Crow waits in the trees.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
