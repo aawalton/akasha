@@ -1,4 +1,13 @@
 {"propertySlug":"characters","path":"story/world/pages/emberdeep/stories/written/emberdeep/chapters/emberdeep-0001-three-is-a-party.story-chapter-written.ts","id":"01a0fdaf-d41a-7d81-bed4-00a6f159b266"}
+{"propertySlug":"item-character","path":"story/world/pages/emberdeep/stories/written/emberdeep/items/emberdeep-canvas-pack.story-item.ts","id":"01a0fde6-9f89-7da3-8756-1eef80defdf2"}
+{"propertySlug":"item-character","path":"story/world/pages/emberdeep/stories/written/emberdeep/items/emberdeep-copper-token.story-item.ts","id":"01a0fde6-9f89-7e15-ae80-1da63153e8f6"}
+{"propertySlug":"item-character","path":"story/world/pages/emberdeep/stories/written/emberdeep/items/emberdeep-first-level-map.story-item.ts","id":"01a0fde6-9f89-712f-842f-4e9ae6aeeaff"}
+{"propertySlug":"item-character","path":"story/world/pages/emberdeep/stories/written/emberdeep/items/emberdeep-knife.story-item.ts","id":"01a0fde6-9f89-7b42-9dce-7dae4f4fe927"}
+{"propertySlug":"item-character","path":"story/world/pages/emberdeep/stories/written/emberdeep/items/emberdeep-plain-clothes.story-item.ts","id":"01a0fde6-9f89-7718-8b98-f691047d6185"}
+{"propertySlug":"item-character","path":"story/world/pages/emberdeep/stories/written/emberdeep/items/emberdeep-room-key.story-item.ts","id":"01a0fde6-9f8a-784b-9bb2-2120bbc4ddf1"}
+{"propertySlug":"item-character","path":"story/world/pages/emberdeep/stories/written/emberdeep/items/emberdeep-rope.story-item.ts","id":"01a0fde6-9f8a-7504-92a5-76fa88d762f8"}
+{"propertySlug":"item-character","path":"story/world/pages/emberdeep/stories/written/emberdeep/items/emberdeep-tin-lamp.story-item.ts","id":"01a0fde6-9f8a-7dfc-8446-f37edaa2eb31"}
 {"propertySlug":"lore-about","path":"story/world/pages/emberdeep/lore/emberdeep-nala.lore.ts","id":"01a0fdc6-e78f-7abc-a06f-6829cc195f28"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/emberdeep/lore/emberdeep-nala.lore.ts","id":"01a0fdc6-e78f-7abc-a06f-6829cc195f28"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/emberdeep/places/emberdeep-corbel-house.place.ts","id":"01a0fdc6-e790-720d-8514-3033f5d0b8d3"}
+{"propertySlug":"metric-of-character","path":"story/world/pages/emberdeep/stories/written/emberdeep/mechanics/metrics/purses/emberdeep-nala.metric-character-currency.ts","id":"01a0fde6-9f8a-7f0b-a8ae-89073795e3a7"}

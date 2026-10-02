@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"world-currency.page-type.ts","path":"story/world/stories/played/modules/played-purses/played-purses.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/beware-of-chicken/mechanics/currencies/otherwhere-iv-coin.world-currency.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/breaker-of-horizons/mechanics/currencies/otherwhere-viii-coin.world-currency.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/emberdeep/mechanics/currencies/emberdeep-coin.world-currency.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/ends-of-magic/mechanics/currencies/otherwhere-v-coin.world-currency.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/god-of-trash/mechanics/currencies/otherwhere-vii-coin.world-currency.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-currency.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/mechanics/currencies/overwhere-i-coin.world-currency.ts","typed":true,"deferred":false}
