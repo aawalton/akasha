@@ -4,10 +4,13 @@ export const overwhereIi00071 = {
   id: "01a0fdb8-015e-7216-a4c4-79d117566458",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-071",
+  ownLength: 353,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 71,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I tell Dray how the fight went down and speak in favor of supervised clemency for the three siblings.",
   beats: [
@@ -36,6 +39,11 @@ export const overwhereIi00071 = {
     'Wil: "Pip\'ll grab what he can and vanish."',
     'Wil: "He\'ll be there near midnight."',
   ],
-  lore: ["lore/overwhere-ii-reeve-corwin-dray-2"],
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-nala-3",
+    "lore/overwhere-ii-reeve-corwin-dray-2",
+  ],
   endsAt: "2026-10-14T19:02:00.000Z",
 } as const satisfies StoryTurnPlayed
