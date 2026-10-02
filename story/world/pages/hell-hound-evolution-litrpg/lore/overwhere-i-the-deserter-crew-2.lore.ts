@@ -65,5 +65,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "A goat path climbs the pit's north wall into the forest; the crew can slip out by it unseen.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "If she keeps heating after the parley call, the crew slips out by the goat path within two minutes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
