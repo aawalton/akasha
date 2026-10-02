@@ -17,7 +17,7 @@ export const overwhereIiLoddonBrothers = {
     },
     {
       fact: "The brothers come down with empty hands held open, Wil first, and kneel in the straw unbidden.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Wil says no one else is at Ashlin but Big Harl in the gully and the boy Pip, who ran.",
