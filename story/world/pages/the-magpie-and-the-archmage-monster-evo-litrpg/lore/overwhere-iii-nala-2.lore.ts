@@ -337,5 +337,9 @@ export const overwhereIiiNala2 = {
       fact: "Pulling the lad's fox bite left a dull throb in Nala's temples.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala went out and back by the south gate's night wicket after the dusk bell on day seven.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
