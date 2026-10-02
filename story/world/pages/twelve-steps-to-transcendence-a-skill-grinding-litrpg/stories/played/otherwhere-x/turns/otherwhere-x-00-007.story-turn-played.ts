@@ -5,6 +5,7 @@ export const otherwhereX00007 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-x-00-007",
   cover: "image/image-d3c49f72ba7b9a8a",
+  coverAfter: "Inside is one long smoky room: trestles, a hearth at the far",
   ownLength: 511,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-x"],

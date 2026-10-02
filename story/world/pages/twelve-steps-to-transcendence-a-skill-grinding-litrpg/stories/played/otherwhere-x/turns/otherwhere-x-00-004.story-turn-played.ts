@@ -5,6 +5,7 @@ export const otherwhereX00004 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-x-00-004",
   cover: "image/image-43006ec8cd75c05d",
+  coverAfter: "Behind you, across the green, doors are opening. Faces show in them,",
   ownLength: 218,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-x"],

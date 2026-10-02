@@ -5,6 +5,7 @@ export const otherwhereX00005 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-x-00-005",
   cover: "image/image-b4fb826c20d0488f",
+  coverAfter: "Beside the door, on its post, the bell starts to ring. Slow",
   ownLength: 220,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-x"],

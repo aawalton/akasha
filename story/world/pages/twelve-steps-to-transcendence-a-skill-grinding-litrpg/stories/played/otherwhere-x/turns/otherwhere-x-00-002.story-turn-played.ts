@@ -5,6 +5,7 @@ export const otherwhereX00002 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-x-00-002",
   cover: "image/image-7c82a216f92528cd",
+  coverAfter: "On the far side, below you, is a village. Thatched roofs around",
   ownLength: 476,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-x"],

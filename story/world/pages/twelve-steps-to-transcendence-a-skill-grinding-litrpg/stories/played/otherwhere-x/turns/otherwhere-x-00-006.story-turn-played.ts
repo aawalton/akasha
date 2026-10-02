@@ -5,6 +5,7 @@ export const otherwhereX00006 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-x-00-006",
   cover: "image/image-fec305e524218254",
+  coverAfter: 'He shifts his hand on the door. "Now one of mine, since',
   ownLength: 220,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-x"],

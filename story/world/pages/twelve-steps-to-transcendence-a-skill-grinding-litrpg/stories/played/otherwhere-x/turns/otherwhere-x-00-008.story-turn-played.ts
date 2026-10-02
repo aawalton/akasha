@@ -5,6 +5,7 @@ export const otherwhereX00008 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-x-00-008",
   cover: "image/image-8820be32a2308ad3",
+  coverAfter: "It's a stranger's song, about a stranger far from home. Standing here",
   ownLength: 353,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-x"],

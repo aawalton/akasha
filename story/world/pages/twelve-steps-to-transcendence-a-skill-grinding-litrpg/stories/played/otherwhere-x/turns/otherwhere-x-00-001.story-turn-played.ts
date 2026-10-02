@@ -5,6 +5,7 @@ export const otherwhereX00001 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-x-00-001",
   cover: "image/image-9d2afb45777aa7ea",
+  coverAfter: "Your shirt is your shirt. The old dark grey one, but it",
   partOfCollections: ["story-played/otherwhere-x"],
   position: 1,
   ownLength: 423,

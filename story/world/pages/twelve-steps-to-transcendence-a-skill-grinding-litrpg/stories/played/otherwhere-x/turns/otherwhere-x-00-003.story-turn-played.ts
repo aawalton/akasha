@@ -5,6 +5,7 @@ export const otherwhereX00003 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-x-00-003",
   cover: "image/image-1dc796e2082dbf32",
+  coverAfter: "The door opens. A lean man of about fifty, grey at the",
   ownLength: 435,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-x"],
