@@ -4,13 +4,14 @@ export const hollowmere0012WithAnyoneWatching = {
   id: "01a0fe85-7bb9-7110-ae6b-c7ba4f14d6f0",
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0012-with-anyone-watching",
+  cover: "image/image-109fac87f9b6a1f7",
   position: 12,
   unit: "unit/words",
   title: "With Anyone Watching",
   story: "story-written/hollowmere",
   ownLength: 3192,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "Friday: you wake before the alarm with the essay on your desk and Kit's handkerchief on top of it.",
     "You read your last line once more in the grey light, and put the essay in a card folder.",
@@ -63,6 +64,7 @@ export const hollowmere0012WithAnyoneWatching = {
     "A day at Hollowmere ends.",
   ],
   lore: [
+    "lore/hollowmere-academy-2",
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",
     "lore/hollowmere-kit",
@@ -85,5 +87,40 @@ export const hollowmere0012WithAnyoneWatching = {
     "character-other/hollowmere-bea",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
+  scenes: [
+    "image/image-6946c5f16c70b599",
+    "image/image-109fac87f9b6a1f7",
+    "image/image-f1fe344228a79604",
+    "image/image-39d5d1b60ef9e07f",
+  ],
+  pictured: [
+    {
+      cover: "image/image-6946c5f16c70b599",
+      coverAfter: "The grey one is too big; it hangs off you like a sack.",
+      character: "character-player/hollowmere-nala",
+      outfit: "white cotton vest and dark grey wool skirt, bare legs",
+    },
+    {
+      cover: "image/image-109fac87f9b6a1f7",
+      coverAfter: "The grey one is too big; it hangs off you like a sack.",
+      character: "character-player/hollowmere-nala",
+      outfit: "soft moss-green jumper and dark grey wool skirt",
+    },
+    {
+      cover: "image/image-f1fe344228a79604",
+      coverAfter: "At six the bus comes into the village, out of the dusk, its windows",
+      setting: "the village bus stop",
+    },
+    {
+      cover: "image/image-39d5d1b60ef9e07f",
+      coverAfter: "Her lamp is on. The light falls out across the corridor in a long",
+      setting: "Bea's room",
+    },
+  ],
 } as const satisfies StoryChapterWritten
