@@ -349,5 +349,13 @@ export const overwhereIiiNala2 = {
         "character-other/overwhere-iii-bet-harrow",
       ],
     },
+    {
+      fact: "Nala said yes to Oswin Fairley, and walked out with him on day eight to find the blighted fox.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-oswin-fairley",
+      ],
+    },
   ],
 } as const satisfies Lore
