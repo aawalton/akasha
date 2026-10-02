@@ -183,6 +183,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Two of the five raise crossbows and loose about 3 seconds in; the other three draw blades and close.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Crow, Level 17 with 44 health, looses at Nala unseen 4 seconds in, then every 6 seconds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
