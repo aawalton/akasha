@@ -10,7 +10,7 @@ export const overwhereI00067 = {
   position: 67,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Sure, I don’t care who comes. Let’s pack it now and we can go with Osric in the morning.”",
   beats: [
@@ -36,6 +36,6 @@ export const overwhereI00067 = {
     "lore/overwhere-i-tobin-ashdown",
     "place/overwhere-i-greyback-and-east-road",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-02T18:30:00.000Z",
 } as const satisfies StoryTurnPlayed
