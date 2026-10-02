@@ -8,9 +8,9 @@ export const saltAndLamplight0003TheBoatSong = {
   unit: "unit/words",
   title: "The Boat Song",
   story: "story-written/salt-and-lamplight",
-  ownLength: 3147,
+  ownLength: 3184,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Nala wakes to the slates rattling; the wind has swung round to the north in the night.",
     "Below, Morwenna is already dressed, at the window, watching a sky gone yellow-grey.",
