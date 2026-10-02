@@ -5,6 +5,8 @@ export const hollowmere0008TwoThirdsOfAGlim = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0008-two-thirds-of-a-glim",
   cover: "image/image-db6e601b317eb3d1",
+  completedAt: "2026-10-02T20:36:30.019Z",
+  ownProgress: 3734,
   position: 8,
   unit: "unit/words",
   title: "Two-Thirds of a Glim",
