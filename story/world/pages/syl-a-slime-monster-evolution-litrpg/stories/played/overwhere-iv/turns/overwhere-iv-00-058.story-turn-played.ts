@@ -4,13 +4,14 @@ export const overwhereIv00058 = {
   id: "01a0fd99-7c23-786a-9619-4b52f594e8e0",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-058",
+  cover: "image/image-c4f74b71ab93f342",
   ownLength: 272,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 58,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I spend the afternoon training my spatial sense, then dinner, sleep, training, and back to the guild.",
   beats: [
@@ -39,6 +40,11 @@ export const overwhereIv00058 = {
     "place/overwhere-iv-raiders-stream",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-03T18:00:00.000Z",
 } as const satisfies StoryTurnPlayed
