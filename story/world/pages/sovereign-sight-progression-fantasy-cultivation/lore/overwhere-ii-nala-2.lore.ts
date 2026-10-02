@@ -278,7 +278,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "By day sixteen Nala's hands, feet, ribs and spine are refined; skull, hips and long bones remain.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The last bones Nala refines are her thighs, the longest; each takes her a whole morning.",
