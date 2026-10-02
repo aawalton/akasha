@@ -48,7 +48,7 @@ export const otherwhereVii0001ASackAndAHalf = {
     },
     {
       position: 8,
-      cover: "image/image-6e049f24e5022d79",
+      cover: "image/image-01265e155fa0a4cd",
       coverAfter: "You take the stick and turn it over in your hands. The",
     },
     {
