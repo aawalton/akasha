@@ -55,5 +55,9 @@ export const overwhereIvCrakeGill = {
       fact: "Anyone who knows wolves sees at once its pelt is no Tangle wolf's: it is from somewhere else.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The blade wolf's thick pelt is a ward of 2; its bite lands heavy, as a great beast's.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
