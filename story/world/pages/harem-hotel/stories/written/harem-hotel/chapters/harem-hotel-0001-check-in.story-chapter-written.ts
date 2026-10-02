@@ -97,6 +97,7 @@ export const haremHotel0001CheckIn = {
   pictured: [
     {
       cover: "image/image-ccfd9cd65571a64c",
+      coverAfter: "The voice comes from across the lobby, cool and level, and it",
       character: "character-other/harem-hotel-odile",
       outfit: "open black tailcoat, black waistcoat buttoned over her bare breasts",
       setting: "the hotel lobby",

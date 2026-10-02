@@ -92,6 +92,7 @@ export const haremHotel0002TheBathhouse = {
   pictured: [
     {
       cover: "image/image-a756bb5371e1c852",
+      coverAfter: "She lies along it on her back with one knee up and",
       character: "character-other/harem-hotel-wren",
       outfit: "naked",
       setting: "the bathhouse",

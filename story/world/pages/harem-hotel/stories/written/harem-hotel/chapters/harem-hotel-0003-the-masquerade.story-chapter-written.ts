@@ -113,6 +113,7 @@ export const haremHotel0003TheMasquerade = {
   pictured: [
     {
       cover: "image/image-2b06350a92ab3ebf",
+      coverAfter: "She wears a half-mask of gold filigree, fine gold lacework over her",
       character: "character-other/harem-hotel-tamsin",
       outfit: "naked",
       setting: "the ballroom",
