@@ -52,5 +52,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "A fed burst burns all in it again each 3 seconds, a step hotter each time, at its cost again.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Each step hotter adds a quarter of a blast to what the fed burst does to each thing in it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
