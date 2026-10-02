@@ -284,6 +284,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "The Ford Inn's beds are narrow straw ticks in small upstairs rooms, each with a door that bars.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The night of day 6 at the Ford Inn passes quiet.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
