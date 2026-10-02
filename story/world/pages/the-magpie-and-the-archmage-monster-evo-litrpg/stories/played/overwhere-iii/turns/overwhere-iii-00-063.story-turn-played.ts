@@ -14,7 +14,7 @@ export const overwhereIii00063 = {
     "character-player/overwhere-iii-nala",
     "character-other/overwhere-iii-oswin-fairley",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I try to braid my cleansing weave and current weave together, threading the result down into the den where I can see the smear.",
   beats: [
@@ -41,7 +41,12 @@ export const overwhereIii00063 = {
     "place/overwhere-iii-fairley-farm",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-06T08:35:00.000Z",
   coverAfter: "The fox bursts from the sett mouth in a spray of gray dirt,",
 } as const satisfies StoryTurnPlayed
