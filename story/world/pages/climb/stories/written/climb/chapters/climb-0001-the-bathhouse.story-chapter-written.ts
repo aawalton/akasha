@@ -17,6 +17,59 @@ export const climb0001TheBathhouse = {
     "image/image-106cf0bd40f8f566",
     "image/image-af97fb49c32f9ae7",
   ],
+  pictured: [
+    {
+      cover: "image/image-2183ce62e6acda4c",
+      character: "character-other/climb-ines",
+      outfit: "white linen bath sheet",
+      setting: "the bathhouse",
+    },
+    {
+      cover: "image/image-81be87e676bea1bd",
+      character: "character-other/climb-clara",
+      outfit: "white linen bath sheet",
+    },
+    {
+      cover: "image/image-285348dd980cc2d5",
+      character: "character-other/climb-ines",
+      outfit: "white linen bath sheet",
+    },
+    {
+      cover: "image/image-c2bd3bf4578ff086",
+      character: "character-other/climb-ines",
+      outfit: "naked",
+    },
+    {
+      cover: "image/image-e420084cb526ddf4",
+      character: "character-other/climb-clara",
+      outfit: "naked",
+    },
+    {
+      cover: "image/image-efdf7390d790937e",
+      character: "character-other/climb-clara",
+      outfit: "naked",
+    },
+    {
+      cover: "image/image-9658a066f8b34c65",
+      character: "character-other/climb-clara",
+      outfit: "naked",
+    },
+    {
+      cover: "image/image-48a375e144f6d753",
+      character: "character-other/climb-clara",
+      outfit: "naked",
+    },
+    {
+      cover: "image/image-106cf0bd40f8f566",
+      character: "character-other/climb-ines",
+      outfit: "naked",
+    },
+    {
+      cover: "image/image-af97fb49c32f9ae7",
+      character: "character-other/climb-clara",
+      outfit: "naked",
+    },
+  ],
   completedAt: "2026-10-01T21:39:38.540Z",
   ownProgress: 3115,
   position: 1,

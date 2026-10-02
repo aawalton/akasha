@@ -17,6 +17,54 @@ export const climb0002TheMasquerade = {
     "image/image-a8949fc4122a5997",
     "image/image-1142a0f432536f35",
   ],
+  pictured: [
+    { cover: "image/image-e670c71bba28b831", setting: "the ballroom" },
+    {
+      cover: "image/image-9d40b6ffd0d47327",
+      character: "character-other/climb-mina",
+      outfit: "dark red silk halter gown, gold filigree half-mask",
+    },
+    {
+      cover: "image/image-3bd2cbe6df8ae366",
+      character: "character-other/climb-mina",
+      outfit: "dark red silk halter gown, gold filigree half-mask",
+    },
+    {
+      cover: "image/image-dc8b952d045cfcf4",
+      character: "character-other/climb-mina",
+      outfit: "topless, the red gown slipped to her waist, gold filigree half-mask",
+    },
+    {
+      cover: "image/image-d9b990587237cac8",
+      character: "character-other/climb-mina",
+      outfit: "naked but for a gold filigree half-mask",
+    },
+    {
+      cover: "image/image-cc5683deffc216bf",
+      character: "character-other/climb-mina",
+      outfit: "naked but for a gold filigree half-mask",
+    },
+    {
+      cover: "image/image-93a0148ffec9ee99",
+      character: "character-other/climb-mina",
+      outfit: "naked but for a gold filigree half-mask",
+    },
+    {
+      cover: "image/image-9e4bc591d550fabf",
+      character: "character-other/climb-mina",
+      outfit: "naked but for a gold filigree half-mask",
+    },
+    {
+      cover: "image/image-a8949fc4122a5997",
+      character: "character-other/climb-mina",
+      outfit: "naked but for a gold filigree half-mask",
+    },
+    {
+      cover: "image/image-1142a0f432536f35",
+      character: "character-other/climb-mina",
+      outfit: "naked",
+    },
+  ],
   position: 2,
   unit: "unit/words",
   title: "The Masquerade",
