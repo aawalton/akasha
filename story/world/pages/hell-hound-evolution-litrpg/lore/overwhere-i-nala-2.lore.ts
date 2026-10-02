@@ -121,5 +121,21 @@ export const overwhereINala2 = {
       fact: "Riding the cart, Nala can doze and count it as sleep, but not while she holds a working.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At Ketter's Well Nala handed Osric back his one toll silver from Voss's sack.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+      ],
+    },
+    {
+      fact: "Nala warned Osric she means to speed his cart with her magic once rolling, gently.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+      ],
+    },
   ],
 } as const satisfies Lore

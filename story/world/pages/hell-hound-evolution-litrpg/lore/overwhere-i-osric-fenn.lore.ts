@@ -215,7 +215,11 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Of the toll silver Osric asks back only the one silver he paid; the rest, he says, is spoils.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
     {
       fact: "Osric whistles at the head, names the Board's thirty gold for it, and offers salt from his stock.",
@@ -275,11 +279,19 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Osric's mule is spent from its bolt; he will not roll before 6:00.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
     {
       fact: "Osric laughs that the mule would drop in the shafts; they roll at six, and she should sleep first.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
   ],
   secrets: "jsonl",
