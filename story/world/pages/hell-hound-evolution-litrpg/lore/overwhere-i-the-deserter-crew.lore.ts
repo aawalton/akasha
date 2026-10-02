@@ -227,6 +227,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Held down, Nala can still work with her free hand; a slug at the wolf's head, touching, is easy.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "While its jaws hold her, the crew Drakewolf does 6 harm each 3 seconds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
