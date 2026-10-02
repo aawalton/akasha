@@ -117,5 +117,9 @@ export const overwhereINala2 = {
         "lore/overwhere-i-osric-fenn",
       ],
     },
+    {
+      fact: "Riding the cart, Nala can doze and count it as sleep, but not while she holds a working.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
