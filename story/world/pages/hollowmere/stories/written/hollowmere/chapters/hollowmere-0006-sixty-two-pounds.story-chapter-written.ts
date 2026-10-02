@@ -10,7 +10,7 @@ export const hollowmere0006SixtyTwoPounds = {
   story: "story-written/hollowmere",
   ownLength: 4402,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Saturday: you sleep through half six; Bea, cidered too, sleeps through it as well.",
     "You wake at ten with a dry mouth and a soft head, and the sun full on the mere.",
@@ -58,6 +58,9 @@ export const hollowmere0006SixtyTwoPounds = {
     "It's about the thread, and the mere, and wanting light; this time you keep every word.",
     "A day at Hollowmere ends.",
   ],
+  issues: [
+    '"A twenty, two tens, a five... another twenty" - sums to £65 plus coins, not sixty-two pounds',
+  ],
   lore: [
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",
@@ -76,5 +79,5 @@ export const hollowmere0006SixtyTwoPounds = {
     "character-other/hollowmere-kit",
     "character-other/hollowmere-amara",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
