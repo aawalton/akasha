@@ -5,7 +5,7 @@ export const overwhereICampKeeperOne = {
   type: "page-type/metric-character-health",
   slug: "overwhere-i-camp-keeper-one",
   character: "character-other/overwhere-i-camp-keeper-one",
-  value: 32,
+  value: 0,
   minValue: 0,
   maxValue: 32,
   displayOrder: 1,
