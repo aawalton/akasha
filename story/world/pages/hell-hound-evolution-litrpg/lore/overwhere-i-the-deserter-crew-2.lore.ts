@@ -316,5 +316,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Nala's fire beams killed Blademen Two and One in the easternmost gallery, both through the head.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "A quarter mile north-east, Nala lost the four's trail on bare rock and strayed onto a game trail.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
