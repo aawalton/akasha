@@ -282,6 +282,10 @@ export const overwhereIiiMerrowgateGuildPost = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "The wolf's stones were paid their bounty when brought in; cracking a stone earns no bounty.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
