@@ -152,5 +152,9 @@ export const overwhereIWendlow = {
       fact: "Antler Hall stands up the high street under a sign of stag's antlers; Grete Holm is asked for there.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "From the gate to Antler Hall up the high street is about ten minutes on foot.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
