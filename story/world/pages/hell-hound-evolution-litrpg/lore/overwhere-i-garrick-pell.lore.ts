@@ -91,6 +91,10 @@ export const overwhereIGarrickPell = {
       fact: "Garrick's free supper on day 3 is eel pie and dark ale, and the night at the Stag passes quiet.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Garrick sells a sack of salt for four copper; packing the head in it takes about an hour.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
