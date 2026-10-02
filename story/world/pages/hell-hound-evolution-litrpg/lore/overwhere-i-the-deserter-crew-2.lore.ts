@@ -312,5 +312,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "In the next hour the cart track passes no one; the four are the only people on it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's fire beams killed Blademen Two and One in the easternmost gallery, both through the head.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
