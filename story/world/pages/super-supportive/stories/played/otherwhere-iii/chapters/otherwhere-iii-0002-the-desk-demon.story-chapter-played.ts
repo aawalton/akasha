@@ -13,7 +13,7 @@ export const otherwhereIii0002TheDeskDemon = {
   turnCovers: [
     {
       position: 15,
-      cover: "image/image-6a2f9e8b9a5e3e19",
+      cover: "image/image-4419d5b74bd094e4",
       coverAfter: "Behind the desk sits someone about five feet tall. His skin is",
     },
     {
