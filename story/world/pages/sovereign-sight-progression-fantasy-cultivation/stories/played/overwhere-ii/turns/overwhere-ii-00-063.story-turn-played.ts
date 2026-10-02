@@ -4,13 +4,14 @@ export const overwhereIi00063 = {
   id: "01a0fd4e-5072-759b-b27d-452177afd479",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-063",
+  cover: "image/image-853bc429a7cc43d3",
   ownLength: 286,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 63,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I keep going with my routine, working through refining my bones",
   beats: [
     "Nala keeps to her routine: broth and bread at the Lantern, then hours on the bunk refining bone.",
@@ -41,6 +42,11 @@ export const overwhereIi00063 = {
     "place/overwhere-ii-wendle-ford",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-14T09:00:00.000Z",
 } as const satisfies StoryTurnPlayed
