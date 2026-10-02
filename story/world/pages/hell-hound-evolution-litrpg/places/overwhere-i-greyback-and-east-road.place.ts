@@ -101,6 +101,10 @@ export const overwhereIGreybackAndEastRoad = {
         "lore/overwhere-i-tobin-ashdown",
       ],
     },
+    {
+      fact: "Harl Voss's band strikes carts in the woods where the east road nears the river Wend, on day three.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
