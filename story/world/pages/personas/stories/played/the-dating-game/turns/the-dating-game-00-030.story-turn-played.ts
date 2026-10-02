@@ -4,7 +4,7 @@ export const theDatingGame00030 = {
   id: "01a0e55f-01e4-7306-8930-a4b3cc04b57c",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-030",
-  cover: "image/image-2ab73caaad45c0c5",
+  cover: "image/image-5503c8d47b3415f8",
   coverAfter: "When you finish, she is quiet for a long moment, the lantern",
   ownLength: 243,
   unit: "unit/words",
