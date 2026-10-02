@@ -4,13 +4,14 @@ export const overwhereI00093 = {
   id: "01a0feb9-8675-7524-b23c-e66b52c39dd3",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-093",
+  cover: "image/image-1116590644313822",
   ownLength: 564,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 93,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "Sleep and then accelerate the journey the next day, lightening and accelerating the cart and mule",
   beats: [
@@ -40,6 +41,12 @@ export const overwhereI00093 = {
     "place/overwhere-i-wendlow",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-04T15:00:00.000Z",
+  coverAfter: "You keep a watch on your well as it drains, steady as a cup tipped slow,",
 } as const satisfies StoryTurnPlayed
