@@ -179,5 +179,17 @@ export const overwhereIiReeveCorwinDray2 = {
       fact: "Dray means to spend the night at Ashlin Farm and march his prisoners up the valley at dawn.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Wil murmured to Dray where in the Salt Lanes Crake's cellar lies.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "The Pell twins carry Crake's body home from Ashlin Farm on a hurdle at dawn.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "As Dray hears out Nala's tale of the fight, the grey fades from his fists back to flesh.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
