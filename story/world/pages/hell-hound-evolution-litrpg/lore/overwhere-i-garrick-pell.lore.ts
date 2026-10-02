@@ -135,6 +135,10 @@ export const overwhereIGarrickPell = {
         "lore/overwhere-i-garrick-pell",
       ],
     },
+    {
+      fact: "On day 4 Nala's bath is not free; Garrick takes his usual two copper for it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
