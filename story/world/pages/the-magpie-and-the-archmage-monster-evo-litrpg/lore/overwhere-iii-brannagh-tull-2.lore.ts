@@ -255,7 +255,11 @@ export const overwhereIiiBrannaghTull2 = {
     },
     {
       fact: "The carter's gash is deep but clean; two Mending Weaves close it, and he pays Brannagh's 10 copper.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
 } as const satisfies Lore
