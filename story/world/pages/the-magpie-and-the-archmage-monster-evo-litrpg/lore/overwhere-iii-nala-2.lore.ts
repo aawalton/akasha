@@ -245,5 +245,9 @@ export const overwhereIiiNala2 = {
       fact: "[Mana Weaver – At [Expert] level, you see currents from very far off. They lend you far more.]",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At Level 2 Nala's most health rises by three and her own mana by two, to 12 mana.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
