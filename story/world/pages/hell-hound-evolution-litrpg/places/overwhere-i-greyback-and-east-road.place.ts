@@ -137,6 +137,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "By 15:03 on day 5 Osric's mule, cart and cask had gone out of sight down the road east.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "The quarry's bare stone does not burn; the pines at its rim catch only from open flame.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
