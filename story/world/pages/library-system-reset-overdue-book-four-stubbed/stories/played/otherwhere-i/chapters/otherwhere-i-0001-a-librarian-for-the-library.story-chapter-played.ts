@@ -98,7 +98,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 18,
-      cover: "image/image-cc356cd534a354b5",
+      cover: "image/image-2aefa0fb390a7863",
       coverAfter: "You walk back up the hall between the columns to the platform",
     },
     {
