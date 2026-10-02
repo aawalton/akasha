@@ -43,7 +43,7 @@ export const overwhereI0002TheBruteSBounty = {
     },
     {
       position: 10,
-      cover: "image/image-460104bbca83a967",
+      cover: "image/image-bc26e572c8911324",
       coverAfter: "She wades down into the shallows to the carcass, the spear still",
     },
     {
