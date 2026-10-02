@@ -226,5 +226,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Crossbowman Four lies dead on his face in the gallery mouth, his crossbow under him.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "As Nala draws the crystals, a man groans in a gallery and another voice hisses him quiet.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
