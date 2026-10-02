@@ -102,7 +102,7 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "Nameplate colors: green is far weaker and worth no experience; white is near one's own level.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "Yellow and orange nameplates are stronger foes; light pink, a higher tier; red, deadly.",
