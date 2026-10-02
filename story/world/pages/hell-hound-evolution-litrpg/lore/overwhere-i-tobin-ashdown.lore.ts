@@ -172,6 +172,10 @@ export const overwhereITobinAshdown = {
       fact: "Knowing Nala's voice, Tobin lowers his bow with a shaky laugh; he and Osric are unhurt.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Tobin carries Hessa's pot of yarrow salve, which slows bleeding; he offers it for her wounds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
