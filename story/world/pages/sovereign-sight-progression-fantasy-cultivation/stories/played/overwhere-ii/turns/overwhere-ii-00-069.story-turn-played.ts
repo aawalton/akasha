@@ -10,7 +10,7 @@ export const overwhereIi00069 = {
   position: 69,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I use my Talent and Push the venom and the dart out of me as hard as I can.",
   beats: [
     "Nala reaches for her Water and Pushes, hard, out through the prick in her neck.",
@@ -37,6 +37,6 @@ export const overwhereIi00069 = {
     "lore/overwhere-ii-nala-3",
     "lore/overwhere-ii-oswy-crake-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-14T18:32:00.000Z",
 } as const satisfies StoryTurnPlayed
