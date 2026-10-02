@@ -10,7 +10,7 @@ export const emberdeep0001ThreeIsAParty = {
   story: "story-written/emberdeep",
   ownLength: 5233,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Nala wakes in a narrow bed under a slanted ceiling, orange light seeping round a shutter.",
     "Her last memory is being Alan, dozing over a book at his back window in the evening.",
