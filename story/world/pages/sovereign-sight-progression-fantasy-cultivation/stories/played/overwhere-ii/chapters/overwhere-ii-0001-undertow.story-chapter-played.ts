@@ -23,7 +23,7 @@ export const overwhereIi0001Undertow = {
     },
     {
       position: 3,
-      cover: "image/image-72e8f4ec1a335c6c",
+      cover: "image/image-46e26bcae1f91c59",
       coverAfter: "Through the loft hole, you see a rough grey collie standing on",
     },
     {
