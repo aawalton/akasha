@@ -39,5 +39,6 @@ export const overwhereI00078 = {
     "lore/overwhere-i-the-deserter-crew-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-10-03T15:40:00.000Z",
 } as const satisfies StoryTurnPlayed
