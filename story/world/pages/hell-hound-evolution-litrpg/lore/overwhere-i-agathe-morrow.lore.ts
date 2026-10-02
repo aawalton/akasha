@@ -194,6 +194,10 @@ export const overwhereIAgatheMorrow = {
         "lore/overwhere-i-agathe-morrow",
       ],
     },
+    {
+      fact: "Agathe says Fenwatch's chest cannot pay Ghost-Eye's bounty; only Antler Hall in Wendlow does.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
