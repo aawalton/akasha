@@ -291,6 +291,15 @@ export const overwhereIvGrowth = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "At Sense Casting LV 2 a spell aimed by sense lands within two fingers' width.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "From Sense Casting LV 3 a spell aimed by sense lands as true as one aimed by sight.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Personal Rift comes with the Riftmancer class, and to no one without it.",
     },
     {
