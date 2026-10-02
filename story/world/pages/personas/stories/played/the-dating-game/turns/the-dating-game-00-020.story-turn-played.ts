@@ -4,7 +4,7 @@ export const theDatingGame00020 = {
   id: "01a0e3a1-f6b6-7332-b7d6-8e14285f822b",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-020",
-  cover: "image/image-1aa0bc71f1bc7bd9",
+  cover: "image/image-0fd5069de34d5b3e",
   coverAfter: "You go back down the quiet hall toward the door, the carpet",
   ownLength: 121,
   unit: "unit/words",
