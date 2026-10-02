@@ -256,6 +256,10 @@ export const overwhereITheDeserterCrew = {
         "character-other/overwhere-i-harl-voss",
       ],
     },
+    {
+      fact: "Four seconds in, Voss, the wolf and the three blademen are inside ten yards; both crossbowmen at 12.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
