@@ -14,7 +14,7 @@ export const overwhereI00098 = {
     "character-other/overwhere-i-harl-voss",
     "character-other/overwhere-i-ghost-eye",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I sit and tell her about the wolves and the bandits, presenting the ears, the tags, and the heads as proof.",
   beats: [
@@ -30,6 +30,6 @@ export const overwhereI00098 = {
     '"Your level says ten. Harl Voss was twenty-four. Who else was in it with you?"',
   ],
   lore: ["lore/overwhere-i-nala", "lore/overwhere-i-nala-2", "place/overwhere-i-wendlow"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-05T12:17:00.000Z",
 } as const satisfies StoryTurnPlayed
