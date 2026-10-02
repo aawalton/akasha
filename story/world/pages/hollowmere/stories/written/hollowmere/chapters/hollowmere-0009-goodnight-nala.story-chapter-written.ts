@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0009 = {
+export const hollowmere0009GoodnightNala = {
   id: "01a0fe4e-d2e8-73dc-996c-7cfe9fe2ca75",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0009",
+  slug: "hollowmere-0009-goodnight-nala",
   position: 9,
   unit: "unit/words",
-  title: "Chapter 9",
+  title: "Goodnight, Nala",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 3506,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Tuesday: dawn on Shiv's rock; three minutes in the mere now, and you only gasp once.",
     "Wrapped in her parka, you tell Shiv about Bea and the rock and the kiss on your cheek.",
@@ -55,5 +55,27 @@ export const hollowmere0009 = {
     "You cross the dark quad back to Thornfield with your own name ringing in your ears.",
     "A day at Hollowmere ends.",
   ],
-  lore: ["lore/hollowmere-yusra", "place/hollowmere-academy"],
+  lore: [
+    "lore/hollowmere-amara",
+    "lore/hollowmere-bea",
+    "lore/hollowmere-kit",
+    "lore/hollowmere-lin",
+    "lore/hollowmere-nala",
+    "lore/hollowmere-penhallow",
+    "lore/hollowmere-priya",
+    "lore/hollowmere-shiv",
+    "lore/hollowmere-yusra",
+    "place/hollowmere-academy",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-shiv",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-penhallow",
+    "character-other/hollowmere-priya",
+    "character-other/hollowmere-amara",
+    "character-other/hollowmere-kit",
+    "character-other/hollowmere-lin",
+    "character-other/hollowmere-yusra",
+  ],
 } as const satisfies StoryChapterWritten
