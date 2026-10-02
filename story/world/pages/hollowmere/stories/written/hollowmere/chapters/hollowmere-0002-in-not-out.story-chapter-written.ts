@@ -10,7 +10,7 @@ export const hollowmere0002InNotOut = {
   story: "story-written/hollowmere",
   ownLength: 7311,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Half six, Tuesday: Bea bangs on your door in running kit, as she threatened.",
     "You say absolutely not through the door; she says hot water; you go.",
@@ -78,6 +78,7 @@ export const hollowmere0002InNotOut = {
     "You think of Kit's stricken face at the window, and decide it stays between you and her.",
     "A day at Hollowmere ends.",
   ],
+  issues: ['"I haven\'t seen you since breakfast" - Bea waved at you in the Practice Hall at two'],
   lore: [
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",
@@ -101,5 +102,5 @@ export const hollowmere0002InNotOut = {
     "character-other/hollowmere-lin",
     "character-other/hollowmere-yusra",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
