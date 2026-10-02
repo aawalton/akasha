@@ -194,6 +194,10 @@ export const hollowmereBea = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Bea is frightened she was let in by mistake, and that Hollowmere will find her out within a term.",
+      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-bea"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

@@ -305,5 +305,25 @@ export const hollowmereAcademy = {
         "character-other/hollowmere-penhallow",
       ],
     },
+    {
+      fact: "In week two, first-years with a glim move on to the warming charm: heat called into a held stone.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
+    {
+      fact: "First-years without a glim yet keep at it in week two, in a corner of the Practice Hall.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
   ],
 } as const satisfies Place

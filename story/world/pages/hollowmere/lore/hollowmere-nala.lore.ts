@@ -347,6 +347,10 @@ export const hollowmereNala = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "Nala's Monday: Foundations lecture at ten in the Long Room, and practical casting at two.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
