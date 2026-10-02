@@ -160,5 +160,9 @@ export const overwhereIWendlow = {
       fact: "Antler Hall is a timbered hall hung with antlers and old bounty slips; a long counter runs its back.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Grete Holm is a lean grey woman with a hunter's scarred hands; she keeps the Board's strongbox.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
