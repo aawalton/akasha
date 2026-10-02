@@ -88,5 +88,9 @@ export const overwhereIiAshlinFarm = {
       fact: "The watch's packs hold bread, cheese and a skin of small beer, enough for Nala's hollow belly.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At first light the Pells lift Crake onto a hurdle, and Dray ropes the prisoners in a line.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
