@@ -32,5 +32,9 @@ export const overwhereIiiMendingWeave = {
         "character-other/overwhere-iii-hild-wendle",
       ],
     },
+    {
+      fact: "An old, years-set scar takes three Mending Weaves to smooth; each flattens and pales it a little.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
