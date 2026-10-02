@@ -228,7 +228,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 44,
-      cover: "image/image-597293ff1018cf74",
+      cover: "image/image-5cee9e8723f81214",
       coverAfter: "He looks back into the gloom, where the worm still rolls and",
     },
     {
