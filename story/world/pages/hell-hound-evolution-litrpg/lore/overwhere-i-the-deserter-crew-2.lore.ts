@@ -204,7 +204,7 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "By the time her lens sweeps the pines, Crow has gone; nothing in the trees moves or looses.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Crow's stand in the pines shows trampled needles and a dropped bolt; scuffed needles lead north.",
