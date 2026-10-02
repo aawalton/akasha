@@ -36,6 +36,7 @@ export const writer = {
       aids: [
         "The story design is the story-design page of the story's world.",
         "A chapter opens a scene of its own, so nothing continues mid-sentence.",
+        "Each beat takes 50 to 200 words of prose, whatever length the chapter before it had.",
         "Name the chapter with `--title` on the advance handing in its prose.",
       ],
     },

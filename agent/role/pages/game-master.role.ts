@@ -39,6 +39,7 @@ export const gameMaster = {
         "The premise is the file beside the story's story-design page.",
         "The chapter ends where the story's `chapterBreak` is met.",
         "Pick up what the chapters before it left open.",
+        "A chapter has 50 to 100 beats, whatever length the chapter before it had.",
       ],
     },
     {
