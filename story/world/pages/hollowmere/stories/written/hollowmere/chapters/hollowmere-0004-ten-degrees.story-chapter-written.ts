@@ -5,7 +5,7 @@ export const hollowmere0004TenDegrees = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0004-ten-degrees",
   cover: "image/image-1cd418b2447fcc3f",
-  ownProgress: 104,
+  ownProgress: 134,
   position: 4,
   unit: "unit/words",
   title: "Ten Degrees",
