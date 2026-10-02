@@ -27,6 +27,16 @@ export const overwhereIi00069 = {
     "The loft voice: \"We're unarmed. Both bows are down. We're coming down the ladder, if you'll let us.\"",
     "Out in the lane Bet is sobbing, and behind the barn the gully has gone quiet.",
   ],
-  lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2", "lore/overwhere-ii-nala-3"],
+  issues: [
+    '"refined skin, muscle and bone" - on day 16 her skull, hips and long bones are not yet refined',
+  ],
+  lore: [
+    "lore/overwhere-ii-bet-loddon",
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-nala-3",
+    "lore/overwhere-ii-oswy-crake-2",
+  ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-14T18:32:00.000Z",
 } as const satisfies StoryTurnPlayed
