@@ -318,6 +318,35 @@ export const hollowmereNala = {
       fact: "Nala's essay's first paragraph says intent may come from wherever the wanting lives.",
       knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
     },
+    {
+      fact: "On Sunday at dawn Nala swam with Shiv again for two minutes, breathing out through the cold.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Shiv's kiss on the rock was Nala's first kiss in her new body.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
+    {
+      fact: "Nala told Bea that wanting Shiv takes nothing from wanting to be near her, and never would.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Trying to row, Nala only went in circles, and Bea laughed until the boat rocked.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

@@ -280,6 +280,7 @@ export const hollowmereAcademy = {
         "character-other/hollowmere-priya",
         "character-other/hollowmere-shiv",
         "character-other/hollowmere-penhallow",
+        "character-player/hollowmere-nala",
       ],
     },
     {
@@ -290,6 +291,7 @@ export const hollowmereAcademy = {
         "character-other/hollowmere-yusra",
         "character-other/hollowmere-shiv",
         "character-other/hollowmere-penhallow",
+        "character-player/hollowmere-nala",
       ],
     },
     {

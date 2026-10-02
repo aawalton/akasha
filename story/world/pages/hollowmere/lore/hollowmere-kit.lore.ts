@@ -239,6 +239,41 @@ export const hollowmereKit = {
         "character-other/hollowmere-kit",
       ],
     },
+    {
+      fact: "Kit and Amara agree on their essay but for one point: whether a focus remembers, or is worn.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Kit made room for Nala at her library table on Sunday night, and they worked an hour in silence.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Kit read Nala's paragraph twice and called it good, annoyingly; Penhallow will like it, she said.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Kit asked Nala, very offhand, to go to the cinema again sometime, and Nala said yes.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

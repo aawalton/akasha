@@ -168,6 +168,32 @@ export const hollowmereShiv = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "On the rock on Sunday, Shiv said still might, Nala said then do, and Shiv kissed her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Told again that Nala wants others too, Shiv said she remembers, and kissed her again.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "At Sunday roast Shiv sat by Nala and rested her knee against Nala's under the table; Lin saw.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

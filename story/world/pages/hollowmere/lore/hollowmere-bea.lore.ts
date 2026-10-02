@@ -162,6 +162,38 @@ export const hollowmereBea = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "Bea taught Nala to sort her laundry: wool and bras never go in the dryer.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Told of Shiv's kiss, Bea said she was glad, too brightly, then blinked back tears at the washer.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Rowing Nala out on the mere, Bea told her Shiv's kiss went in her like a splinter.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Bea said she doesn't know yet what she wants with Nala, but wants to be in her boat; Nala: you are.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

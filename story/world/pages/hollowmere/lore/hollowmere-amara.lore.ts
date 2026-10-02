@@ -138,6 +138,17 @@ export const hollowmereAmara = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Amara says her grandmother's ring, a held focus, remembers every spell it has helped make.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

@@ -96,5 +96,13 @@ export const hollowmerePenhallow = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Kit's grandmother said Dr Penhallow always wants what happened to you, not what books said.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
 } as const satisfies Lore
