@@ -4,13 +4,14 @@ export const overwhereI00064 = {
   id: "01a0fd05-5818-703f-9768-c4e89621c76c",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-064",
+  cover: "image/image-a51e0e3426f8aefa",
   ownLength: 185,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 64,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I go with Rowan and Sedge to get the head, keeping an eye out for any more dangers.",
   beats: [
     "As the snapper sinks, a window opens before Nala.",
@@ -41,6 +42,11 @@ export const overwhereI00064 = {
     "place/overwhere-i-the-greyfen",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-02T10:25:00.000Z",
 } as const satisfies StoryTurnPlayed
