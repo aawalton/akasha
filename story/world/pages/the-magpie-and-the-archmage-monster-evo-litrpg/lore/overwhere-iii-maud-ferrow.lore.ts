@@ -124,7 +124,11 @@ export const overwhereIiiMaudFerrow = {
     },
     {
       fact: "After a newcomer's third drill Maud says, 'Three days. You'll do.'",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-maud-ferrow"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-maud-ferrow",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
 } as const satisfies Lore
