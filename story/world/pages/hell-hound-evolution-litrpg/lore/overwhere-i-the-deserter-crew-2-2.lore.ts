@@ -20,5 +20,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "The last of the four, crossbow in hand, stopped at the clearing's edge and looked back at the knoll.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Warned by the glint, Voss sets Crow and Crossbowman Five in ambush on the cart track's last mile.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
