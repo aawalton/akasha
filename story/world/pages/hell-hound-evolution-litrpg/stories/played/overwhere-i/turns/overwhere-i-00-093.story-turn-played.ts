@@ -7,7 +7,12 @@ export const overwhereI00093 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 93,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "Sleep and then accelerate the journey the next day, lightening and accelerating the cart and mule",
+  lore: [
+    "lore/overwhere-i-osric-fenn",
+    "lore/overwhere-i-starfall-legacy-2",
+    "place/overwhere-i-greyback-and-east-road",
+  ],
 } as const satisfies StoryTurnPlayed
