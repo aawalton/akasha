@@ -20,5 +20,9 @@ export const overwhereIiiCorruption2 = {
       fact: "The bite's dark thread leads straight to the fox's sett; to Nala's sight the fox is a dark smear.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A corrupted beast of about Level 5, killed, leaves a small blightstone that three weaves crack.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
