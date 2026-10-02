@@ -50,7 +50,7 @@ export const overwhereIiAshlinFarm = {
     },
     {
       fact: "The yard is some twenty paces across from the lane's end to the barn's wide doorway.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Inside, the barn is dim, floored with old straw, with a ladder up to the loft by the doorway.",
