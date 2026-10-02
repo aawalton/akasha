@@ -279,7 +279,7 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Osric laughs that the mule would drop in the shafts; they roll at six, and she should sleep first.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
