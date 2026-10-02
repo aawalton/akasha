@@ -58,7 +58,11 @@ export const overwhereIiiMendingWeave = {
     },
     {
       fact: "A shallow burn like a current scald is a small wound; one Mending Weave closes it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "Her fifth telling use past Basic shows: [Mending Weave has advanced: Basic → Novice]",

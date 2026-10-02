@@ -92,5 +92,17 @@ export const overwhereIiiNala22 = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "Nala mended each burned palm with one Mending Weave; both are smooth, pale and whole again.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
+    {
+      fact: "Nala's second Mending Weave on her palms dragged and woke a dull throb in her temples.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
