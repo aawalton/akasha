@@ -18,7 +18,7 @@ export const overwhereI00073 = {
     "character-other/overwhere-i-quarry-crewman-four",
     "character-other/overwhere-i-quarry-crewman-five",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "Now that I can see him, I focus Earth and Fire on his helmet directly, and if he takes it off, I put a bullet in his brain.",
   beats: [
@@ -30,6 +30,7 @@ export const overwhereI00073 = {
     "Out on the lip she would be in the open, under the crossbows and the unseen shooter.",
     "Voss waits at the gallery mouth, shield up, cap on, for her answer to his offer.",
   ],
+  issues: ['"Voss stays in the gallery mouth, shield up, cap on." - No Prompt'],
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
@@ -37,6 +38,6 @@ export const overwhereI00073 = {
     "lore/overwhere-i-starfall-legacy-2",
     "lore/overwhere-i-the-deserter-crew-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-03T15:06:00.000Z",
 } as const satisfies StoryTurnPlayed
