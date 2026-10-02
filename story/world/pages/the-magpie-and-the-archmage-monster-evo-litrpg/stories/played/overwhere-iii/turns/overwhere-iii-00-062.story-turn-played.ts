@@ -15,7 +15,7 @@ export const overwhereIii00062 = {
     "character-other/overwhere-iii-oswin-fairley",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Yes.” I turn to the washerwoman. “I’ll need to take care of the fox first and can’t risk running out of my mana, but I could help you in the evening if you’d like to come back then. Then I go with the father to find the fox.",
   beats: [
@@ -47,6 +47,11 @@ export const overwhereIii00062 = {
     "place/overwhere-iii-fairley-farm",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-06T08:30:00.000Z",
 } as const satisfies StoryTurnPlayed
