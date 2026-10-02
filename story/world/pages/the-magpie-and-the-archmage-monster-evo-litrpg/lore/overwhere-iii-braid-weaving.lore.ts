@@ -56,5 +56,9 @@ export const overwhereIiiBraidWeaving = {
       fact: "A braid of two weaves costs both weaves' mana.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The lash strand pins what it strikes, so a braided lash-pull draws blight like two pulls.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
