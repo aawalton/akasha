@@ -4,10 +4,13 @@ export const overwhereIi00068 = {
   id: "01a0fd93-c6d0-739b-9f76-a7e01a697bde",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-068",
+  ownLength: 282,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 68,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I burst out with my Talent, pull down and forward on his head and pushing up on the spear as I pull it back then thrust it forward, faster than it should be able to move, straight into his neck.",
   beats: [
@@ -30,6 +33,6 @@ export const overwhereIi00068 = {
     "She can still feel her Water answering her, but only just. Seconds, not a minute.",
     "The venom creeps on, the way the rot crept through Wren.",
   ],
-  lore: ["lore/overwhere-ii-oswy-crake-2"],
+  lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2", "lore/overwhere-ii-oswy-crake-2"],
   endsAt: "2026-10-14T18:31:00.000Z",
 } as const satisfies StoryTurnPlayed
