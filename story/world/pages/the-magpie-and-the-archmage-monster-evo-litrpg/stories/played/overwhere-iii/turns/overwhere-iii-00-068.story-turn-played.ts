@@ -7,7 +7,17 @@ export const overwhereIii00068 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 68,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I enjoy the oatcakes and ask Brannagh to spread the word that I’ll be healing in the morning only, other than emergencies. Then go to bed and check in in the morning before going to train with the guard.",
+  lore: [
+    "lore/overwhere-iii-brannagh-tull",
+    "lore/overwhere-iii-brannagh-tull-2",
+    "lore/overwhere-iii-maud-ferrow",
+    "lore/overwhere-iii-mending-weave",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
+    "lore/overwhere-iii-nala-2-2",
+    "place/overwhere-iii-crook-and-candle",
+  ],
 } as const satisfies StoryTurnPlayed
