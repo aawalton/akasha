@@ -194,7 +194,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "Refining muscle leaves Nala eating twice what she used to, and thirsty all day.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Her heart, a muscle too, she cannot refine yet; it waits on her organs, after bone.",
