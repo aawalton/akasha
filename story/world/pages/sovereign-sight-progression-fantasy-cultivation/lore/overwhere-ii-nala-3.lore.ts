@@ -70,7 +70,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "As each Lock opens, penned Water rushes through it like a held breath let go, and the ache eases.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Until noon of day seventeen her Locks open stiff, and Undertow answers slow and weak.",
