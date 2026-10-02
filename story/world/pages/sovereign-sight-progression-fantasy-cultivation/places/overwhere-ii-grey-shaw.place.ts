@@ -44,5 +44,9 @@ export const overwhereIiGreyShaw = {
       fact: "By law Crake's stash goes to the watch, but Dray asks Nala what she would have done with it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "The pit holds twenty-two small bottles of stolen Water, each a draught's worth, cold and dense.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
