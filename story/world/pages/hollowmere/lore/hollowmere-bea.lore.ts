@@ -130,7 +130,11 @@ export const hollowmereBea = {
     },
     {
       fact: "Bea fell asleep mid-sentence on Nala's bed on Thursday night, her head on Nala's shoulder.",
-      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
     },
     {
       fact: "By Thursday Bea's half-glim had become two-thirds of a glim, by her own estimate.",

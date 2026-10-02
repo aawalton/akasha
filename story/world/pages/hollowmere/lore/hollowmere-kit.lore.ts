@@ -155,6 +155,48 @@ export const hollowmereKit = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Dr Penhallow told group F its first-week glims were three: Osei, Ashworth and Ashby.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-penhallow",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Kit and Amara share one essay question: is a spell the caster's, or the focus's?",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-penhallow",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Kit mimicked the Sigils tutor perfectly for Nala, and faced front before the tutor looked.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Kit sat alone at the Drowned Bell with a book and lemonade, and raised her glass to Nala.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

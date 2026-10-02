@@ -77,7 +77,24 @@ export const hollowmerePenhallow = {
     },
     {
       fact: "At the first Friday tutorial Dr Penhallow sets each first-year a short essay, due in a week.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-penhallow"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-penhallow",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Dr Penhallow told Nala her questions are worth more than a glim, and to bring her essay herself.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-penhallow",
+        "character-player/hollowmere-nala",
+      ],
     },
   ],
 } as const satisfies Lore

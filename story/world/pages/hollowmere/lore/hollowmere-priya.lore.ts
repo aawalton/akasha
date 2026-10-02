@@ -72,5 +72,26 @@ export const hollowmerePriya = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Priya's essay for Dr Penhallow asks whether intent can be measured.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-penhallow",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Priya found Nala three books on intent in the library, reading faster than anyone.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-priya",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
 } as const satisfies Lore

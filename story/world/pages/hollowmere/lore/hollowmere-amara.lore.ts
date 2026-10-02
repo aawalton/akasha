@@ -119,6 +119,15 @@ export const hollowmereAmara = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Told Nala found Kit funny, Amara laughed and said she likes Nala more every day.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-amara",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-priya",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

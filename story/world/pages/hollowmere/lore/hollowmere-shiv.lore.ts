@@ -147,6 +147,27 @@ export const hollowmereShiv = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Shiv's essay for Dr Penhallow asks whether a rule is still a rule if everyone breaks it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-penhallow",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Shiv told Nala she nearly kissed her on the rock; Nala said she nearly let her; Shiv: still might.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
