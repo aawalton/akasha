@@ -289,5 +289,17 @@ export const overwhereIiiNala2 = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "Resting at the crossroads shrine till near noon on day seven filled Nala's mana and eased her eyes.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "Four weaves at the post past noon on day seven, one lost, left Nala's mana empty again.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "Past noon on day seven Nala still has not eaten that day, and her stomach growls.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
