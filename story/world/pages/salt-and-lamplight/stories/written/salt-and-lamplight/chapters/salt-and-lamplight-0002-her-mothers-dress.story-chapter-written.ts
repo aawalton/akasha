@@ -69,6 +69,9 @@ export const saltAndLamplight0002HerMothersDress = {
     "In the loft that night Nala hears Morwenna below, awake, turning pages by the spare oil.",
     "Nala falls asleep to the sound, her second night as Nala.",
   ],
+  issues: [
+    '"her boots ringing on the iron stair" - the tower stair has stone treads earlier in the chapter',
+  ],
   lore: [
     "lore/salt-and-lamplight-agnes",
     "lore/salt-and-lamplight-dilys",
@@ -82,4 +85,5 @@ export const saltAndLamplight0002HerMothersDress = {
     "character-other/salt-and-lamplight-dilys",
     "character-other/salt-and-lamplight-agnes",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
