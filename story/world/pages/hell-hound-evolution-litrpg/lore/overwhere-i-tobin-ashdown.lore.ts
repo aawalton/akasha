@@ -174,7 +174,7 @@ export const overwhereITobinAshdown = {
     },
     {
       fact: "Tobin carries Hessa's pot of yarrow salve, which slows bleeding; he offers it for her wounds.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Tobin asks how many there were, and if it's true Voss is dead.",
