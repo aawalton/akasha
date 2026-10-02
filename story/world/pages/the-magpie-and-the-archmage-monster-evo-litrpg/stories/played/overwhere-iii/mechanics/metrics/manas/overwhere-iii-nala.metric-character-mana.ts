@@ -5,10 +5,10 @@ export const overwhereIiiNala = {
   type: "page-type/metric-character-mana",
   slug: "overwhere-iii-nala",
   character: "character-player/overwhere-iii-nala",
-  value: 8,
+  value: 6,
   minValue: 0,
   maxValue: 12,
   history: "jsonl",
   displayOrder: 2,
-  revealedAs: "Two-thirds full after the carter's palm",
+  revealedAs: "Half full after the washerwoman's scar",
 } as const satisfies MetricCharacterMana
