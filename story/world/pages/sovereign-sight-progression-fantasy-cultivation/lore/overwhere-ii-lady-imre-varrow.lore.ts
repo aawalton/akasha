@@ -61,7 +61,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "She opens with the guest's name and her own, and no more courtesy than that.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "She thanks Nala for Crake, and gives her a silver bar from the House: the road was hers to keep.",
