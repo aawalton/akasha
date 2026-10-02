@@ -234,7 +234,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "Refining her spine, each vertebra sends a cold shock down her limbs that she must sit through.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Refining her skull gives Nala a pounding headache that lasts till she sleeps.",
