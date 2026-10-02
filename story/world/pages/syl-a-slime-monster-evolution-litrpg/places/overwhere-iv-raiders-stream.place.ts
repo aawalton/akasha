@@ -133,7 +133,7 @@ export const overwhereIvRaidersStream = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The hobgoblin's belt pouch holds 6 copper and a brass ring cut from some farmer's hand.",
+      fact: "The hobgoblin's belt pouch holds 6 copper and a woman's plain brass ring.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
