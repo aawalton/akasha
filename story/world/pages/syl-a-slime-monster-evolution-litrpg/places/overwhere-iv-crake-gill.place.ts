@@ -59,5 +59,9 @@ export const overwhereIvCrakeGill = {
       fact: "The blade wolf's thick pelt is a ward of 2; its bite lands heavy, as a great beast's.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Its spine ridge cuts as a blade, solid, only on what grapples it or strikes its back.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
