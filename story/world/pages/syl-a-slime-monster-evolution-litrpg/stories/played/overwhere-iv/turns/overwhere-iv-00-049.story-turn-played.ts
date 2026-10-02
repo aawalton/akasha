@@ -10,7 +10,7 @@ export const overwhereIv00049 = {
   position: 49,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "“Definitely. Next one? Any will do.”",
   beats: [
     '"Definitely," Nala says. "Next one? Any will do."',
@@ -21,7 +21,7 @@ export const overwhereIv00049 = {
     "That same year, a cave-in there killed four men. Folk called the place unlucky after.",
     "The newest pages are in one careful hand. The last entry notes the mill shaft cracking this summer.",
     'Nala looks up. Anwen is watching her over the mending. "Those last pages are mine," she says.',
-    '"Five books left," she says. "Another, child, or will you rest your eyes?"',
+    '"Five books left on the chain," she says, and bends back to her mending.',
   ],
   issues: ['"Another, child, or will you rest your eyes?" - No Prompt'],
   lore: [
