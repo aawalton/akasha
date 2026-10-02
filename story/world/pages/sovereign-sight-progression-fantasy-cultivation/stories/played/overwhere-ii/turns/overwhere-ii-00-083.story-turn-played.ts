@@ -10,7 +10,7 @@ export const overwhereIi00083 = {
   position: 83,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I describe what I feel.",
   beats: [
     "Nala stands still beside him and lets herself feel it, and tells him plainly.",
@@ -34,6 +34,6 @@ export const overwhereIi00083 = {
     "lore/overwhere-ii-sir-edric-hale",
     "place/overwhere-ii-whitecombs",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-19T11:20:00.000Z",
 } as const satisfies StoryTurnPlayed
