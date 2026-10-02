@@ -225,6 +225,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "With Nala's help on day 6, the cart reaches Brennock Ford by about 15:00.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Pushing on from Brennock Ford, the last 20 miles bring the cart to Wendlow's gate after it shuts.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
