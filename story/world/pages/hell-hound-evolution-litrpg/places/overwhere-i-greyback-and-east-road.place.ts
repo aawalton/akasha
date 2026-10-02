@@ -81,7 +81,7 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "Hauling the sled on from the fen edge, they reach Fenwatch's gate about 17:00 on day 4.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
