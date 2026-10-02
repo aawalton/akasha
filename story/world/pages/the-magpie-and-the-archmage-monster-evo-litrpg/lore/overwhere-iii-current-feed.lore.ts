@@ -10,7 +10,7 @@ export const overwhereIiiCurrentFeed = {
   facts: [
     {
       fact: "Her first holy weave fed cleanly from white-gold alone earns: [New skill acquired – Current Feed.]",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "[Current Feed – At [Basic] level, feed a holy weave from white-gold current, not your own well.]",
