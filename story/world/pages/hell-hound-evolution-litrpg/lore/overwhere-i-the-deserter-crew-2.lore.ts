@@ -276,5 +276,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Unheard, the blademen stay hidden and still; Two keeps his sword in hand.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "A beam at an unaware blademan's head from the east rim is moderate.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
