@@ -117,7 +117,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "Lady Varrow asks Nala's leave before looking at her through the glass.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "She asks to look at Nala through her glass from the Spires, and does not say what she hopes to see.",
