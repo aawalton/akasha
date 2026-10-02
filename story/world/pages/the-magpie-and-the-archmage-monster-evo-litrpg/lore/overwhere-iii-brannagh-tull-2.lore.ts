@@ -333,5 +333,9 @@ export const overwhereIiiBrannaghTull2 = {
       fact: "Also on day ten's bench: the woodcutter who found the rotted deer, his shin axe-gashed yesterday.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
+    {
+      fact: "The woodcutter's gash is clean, no blight; one Mending Weave closes it, and he pays 10 copper.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+    },
   ],
 } as const satisfies Lore
