@@ -136,5 +136,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "Mire Snappers are fen turtles as broad as cart wheels.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "A Mire Snapper's head, out and tearing at meat, wards 1; a slug pierces that to nothing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
