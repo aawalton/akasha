@@ -28,6 +28,7 @@ export const overwhereIii00057 = {
     "The wolf's stone is a little pale now, a long way from cracking. Nala's well is empty again.",
     "Her stomach growls. It's past noon, and she still hasn't eaten today.",
   ],
+  issues: ['"Nala\'s well is empty again" - three 3-mana weaves spend 9 of her 12 mana, leaving 3'],
   lore: [
     "lore/overwhere-iii-cleansing-weave",
     "lore/overwhere-iii-corruption",
@@ -37,5 +38,6 @@ export const overwhereIii00057 = {
     "place/overwhere-iii-merrowgate-guild-post",
     "place/overwhere-iii-wrenwood-crossroads",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-05T13:00:00.000Z",
 } as const satisfies StoryTurnPlayed
