@@ -115,5 +115,9 @@ export const overwhereIWendlow = {
       fact: "Wendlow's gate takes a copper a head and asks each stranger's business.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A head in a sack at the gate fetches the gate sergeant, who sends bounty business to the Board.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
