@@ -11,4 +11,5 @@ export const overwhereIii00074 = {
   action:
     "I merge them into a glimmerstone and keep going until I’ve finished cleansing the remainder.",
   lore: ["lore/overwhere-iii-cleansing-weave", "lore/overwhere-iii-current-feed"],
+  endsAt: "2026-10-07T15:50:00.000Z",
 } as const satisfies StoryTurnPlayed
