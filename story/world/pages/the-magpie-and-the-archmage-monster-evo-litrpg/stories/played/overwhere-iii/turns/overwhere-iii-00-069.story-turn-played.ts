@@ -10,7 +10,7 @@ export const overwhereIii00069 = {
   position: 69,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I go back to the post and work on cleansing blightstones, experimenting with ways to do it more efficiently",
   beats: [
@@ -41,6 +41,6 @@ export const overwhereIii00069 = {
     "lore/overwhere-iii-nala-2-2",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-07T11:15:00.000Z",
 } as const satisfies StoryTurnPlayed
