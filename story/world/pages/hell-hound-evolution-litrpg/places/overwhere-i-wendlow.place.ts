@@ -172,5 +172,9 @@ export const overwhereIWendlow = {
       fact: "Grete Analyzes each hunter who brings proof, then counts it on the counter before she pays.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Analyze shows Grete only Nala's species and level: Human, Level 10.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
