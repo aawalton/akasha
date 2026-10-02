@@ -176,7 +176,7 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "Voss ducks back as he speaks; her first slug after the answer finds only stone.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Crossbows from the galleries have no line on her behind the boulders; they loose to keep her down.",
