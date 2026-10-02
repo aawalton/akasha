@@ -228,7 +228,7 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "As Nala draws the crystals, a man groans in a gallery and another voice hisses him quiet.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Lore
