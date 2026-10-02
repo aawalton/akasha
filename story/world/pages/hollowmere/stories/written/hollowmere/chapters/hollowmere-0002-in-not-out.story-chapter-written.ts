@@ -10,7 +10,7 @@ export const hollowmere0002InNotOut = {
   story: "story-written/hollowmere",
   ownLength: 7311,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   beats: [
     "Half six, Tuesday: Bea bangs on your door in running kit, as she threatened.",
     "You say absolutely not through the door; she says hot water; you go.",
