@@ -71,5 +71,9 @@ export const overwhereIiOswyCrake2 = {
       fact: "In the gully Big Harl's axe lays open Rob Reed's arm before Dray's stone fists break Harl's arm.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A coat of rings under Crake's jerkin armours his chest and belly; Nala's spear point grinds on it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
