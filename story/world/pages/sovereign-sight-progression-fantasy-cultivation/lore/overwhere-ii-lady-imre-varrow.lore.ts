@@ -120,6 +120,22 @@ export const overwhereIiLadyImreVarrow = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
+      fact: "Through the Spires glass, a Talented one's Talent, Scope and Depth show as words of pale light.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The glass also shows a Talented one's well as a glow; Nala's burns deep sea-green, bright as a lamp.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Asked, Lady Varrow reads Nala's words aloud, and says her well shines like a Second Depth's.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "None of the four Talented sworn to Lady Varrow is Major, nor shines half so bright in her glass.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "She asks to look at Nala through her glass from the Spires, and does not say what she hopes to see.",
       knowers: ["lore-disclosure/game-master"],
     },
