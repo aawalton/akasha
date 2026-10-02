@@ -45,7 +45,7 @@ export const overwhereIiKeeperAnselm2 = {
     },
     {
       fact: "Anselm thinks the senior Keeper from Carrowmouth could guide Nala's Descent, if she waits.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Anselm is relieved Nala waits; the canticles praise one who answers the call only when ready.",
