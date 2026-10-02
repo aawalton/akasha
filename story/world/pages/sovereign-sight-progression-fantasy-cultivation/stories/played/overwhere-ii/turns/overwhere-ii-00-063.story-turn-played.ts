@@ -10,7 +10,7 @@ export const overwhereIi00063 = {
   position: 63,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I keep going with my routine, working through refining my bones",
   beats: [
     "Nala keeps to her routine: broth and bread at the Lantern, then hours on the bunk refining bone.",
@@ -40,6 +40,6 @@ export const overwhereIi00063 = {
     "lore/overwhere-ii-reeve-corwin-dray-2",
     "place/overwhere-ii-wendle-ford",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-14T09:00:00.000Z",
 } as const satisfies StoryTurnPlayed
