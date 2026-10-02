@@ -102,11 +102,11 @@ export const overwhereIGreybackAndEastRoad = {
       ],
     },
     {
-      fact: "Harl Voss's band strikes carts in the woods where the east road nears the river Wend, on day three.",
+      fact: "Day 5's road climbs out of the fen country into pine forest, quiet until the quarry.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Day 5's road climbs out of the fen country into pine forest; the twenty miles pass quiet.",
+      fact: "Cutter's Quarry lies by the road seventeen miles east of Fenwatch; the cart reaches it about 15:00.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
@@ -115,10 +115,6 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "Osric's cart makes Ketter's Well about 18:00 on day 5 and camps there.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "The tinker asks to walk with the cart to Wendlow, for safety from Voss's men.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
