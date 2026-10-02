@@ -22,7 +22,7 @@ export const overwhereIiGreyShaw = {
     },
     {
       fact: "Crake's stash lies under the tollhouse hearthstone: bottled Water, a coin box, and his ledger.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The tollhouse is empty tonight; all of Crake's band went to Ashlin Farm.",
