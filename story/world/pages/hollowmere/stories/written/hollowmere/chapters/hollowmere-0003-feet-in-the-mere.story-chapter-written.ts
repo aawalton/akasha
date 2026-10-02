@@ -5,7 +5,7 @@ export const hollowmere0003FeetInTheMere = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0003-feet-in-the-mere",
   cover: "image/image-562b500e61ed7a7c",
-  ownProgress: 3287,
+  ownProgress: 3320,
   position: 3,
   unit: "unit/words",
   title: "Feet in the Mere",
