@@ -49,5 +49,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "The two crossbowmen on the lip loose at her once she is out of cover; Crow keeps on from the trees.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "When stone first bursts in the pit, Voss shouts for parley from behind the stone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
