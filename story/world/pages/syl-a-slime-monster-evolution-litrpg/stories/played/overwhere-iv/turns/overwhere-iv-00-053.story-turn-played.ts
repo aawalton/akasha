@@ -10,7 +10,7 @@ export const overwhereIv00053 = {
   position: 53,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I slice the hobgoblin’s throat next, then use my spacial sense to finish the remainder, even if i can’t see them.",
   beats: [
@@ -35,6 +35,6 @@ export const overwhereIv00053 = {
     "It does not run. It does not even look up.",
   ],
   lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2", "place/overwhere-iv-raiders-stream"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-03T11:05:00.000Z",
 } as const satisfies StoryTurnPlayed
