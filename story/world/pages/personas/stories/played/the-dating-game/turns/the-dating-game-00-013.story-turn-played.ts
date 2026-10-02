@@ -4,7 +4,7 @@ export const theDatingGame00013 = {
   id: "01a0e359-c3c0-7e44-b134-fe170c2c085d",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-013",
-  cover: "image/image-c6288e38948b46bd",
+  cover: "image/image-fad64d651d728531",
   coverAfter: "Then she shows you. She runs through a handful of them, one",
   ownLength: 252,
   unit: "unit/words",
