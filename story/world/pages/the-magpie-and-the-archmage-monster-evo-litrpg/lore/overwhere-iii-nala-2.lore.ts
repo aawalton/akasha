@@ -307,7 +307,7 @@ export const overwhereIiiNala2 = {
     },
     {
       fact: "At Legend, Mana Weaver reaches currents five times as far off, and lends five times the Basic mana.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Leaving the Post at noon on day seven, Nala saw Mana Weaver advance from Expert to Legend.",
