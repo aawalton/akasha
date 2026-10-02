@@ -117,6 +117,8 @@ const STARTED_AT = Date.now()
 
 const GOODBYE_MS = 500
 
+const SLOW_RUN_MS = 1000
+
 const IDLE_OVER_LEASE = 2
 
 interface Ask {
@@ -224,6 +226,9 @@ async function serve(ask: Ask): Promise<undefined> {
   }
   const askedAt = ageMs()
   const answer = await ran(found, ask, root)
+  const tookMs = ageMs() - askedAt
+  if (tookMs >= SLOW_RUN_MS)
+    note(`ran ${asked(ask)} for ask ${String(ask.id)} in ${String(tookMs)}ms`)
   if (answer.failure !== null) {
     return refuse(ask, "threw", `${asked(ask)} threw: ${answer.failure}`)
   }
@@ -234,7 +239,7 @@ async function serve(ask: Ask): Promise<undefined> {
     stdout: answer.stdout,
     stderr: answer.stderr,
     ageMs: askedAt,
-    tookMs: ageMs() - askedAt,
+    tookMs,
     pid: process.pid,
   })
 }

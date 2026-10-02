@@ -174,7 +174,6 @@ describe("the command server when its lease turns over under a caller", () => {
   test("a disposed client starts nothing and refuses", async () => {
     const root = rootWith("chartreuse")
     const client = clientAt(root)
-    await colorSaid(client)
     client.dispose()
     const thrown = await client
       .ask("agent-turn-color-list", "agentTurnColorList", ["--state", "working"], ASK_MS)

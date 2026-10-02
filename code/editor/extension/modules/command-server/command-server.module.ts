@@ -163,6 +163,10 @@ export const commandServer = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A run taking a second or more is said on fd 2 with how long it took.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A command whose imports throw refuses only the asks for that command.",
     },
     {
