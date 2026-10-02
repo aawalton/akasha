@@ -4,6 +4,7 @@ export const imageEfdf7390d790937e = {
   id: "01a0f99d-bde3-72d6-bfcb-c9ed15c47ad3",
   type: "page-type/image",
   slug: "image-efdf7390d790937e",
+  grade: "F",
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
