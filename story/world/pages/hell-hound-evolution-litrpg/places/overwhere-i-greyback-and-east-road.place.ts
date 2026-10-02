@@ -193,6 +193,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "No one and nothing else is on the road between the quarry and Ketter's Well tonight.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Osric's mule cart stands at Ketter's Well by the embers of a fire.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
