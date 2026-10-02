@@ -111,5 +111,13 @@ export const overwhereIiSirEdricHale = {
       fact: "Dray wrote Sir Edric that Nala found a crag split open, with something pulling under it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "At the split crag Sir Edric lays a bare hand on the split stone, eyes half shut; his jaw tightens.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Hand on the split stone, Sir Edric asks Nala to tell him of the pull, what she feels there and then.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore

@@ -43,6 +43,6 @@ export const overwhereIi00082 = {
     "lore/overwhere-ii-sir-edric-hale",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
   endsAt: "2026-10-19T11:00:00.000Z",
 } as const satisfies StoryTurnPlayed
