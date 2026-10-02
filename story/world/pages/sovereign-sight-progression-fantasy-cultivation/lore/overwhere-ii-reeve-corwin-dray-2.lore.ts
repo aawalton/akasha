@@ -173,7 +173,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Crake's body goes back to the Ford on a hurdle, for the Carrowmouth watch to see.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray means to spend the night at Ashlin Farm and march his prisoners up the valley at dawn.",
