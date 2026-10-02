@@ -10,7 +10,7 @@ export const overwhereIvNalaSpatialSense = {
     "A sense of space: the shape of every body and hollow a few paces around her, felt without looking.",
   character: "character-player/overwhere-iv-nala",
   skill: "world-skill/overwhere-iv-spatial-sense",
-  level: 1,
+  level: 2,
   reachPaces: 5,
   manaCost: 2,
   durationMinutes: 1,
