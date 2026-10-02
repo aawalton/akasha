@@ -25,7 +25,7 @@ export const overwhereIiiCorruption2 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
-      fact: "A corrupted beast of about Level 5, killed, leaves a small blightstone that three weaves crack.",
+      fact: "A corrupted beast of about Level 5, killed whole, leaves a blightstone that three weaves crack.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
