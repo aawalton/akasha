@@ -20,5 +20,9 @@ export const overwhereIiiNala22 = {
       fact: "Nala watched the currents a whole afternoon at Brannagh's on day eight, and saw nothing new.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala supped on the washerwoman's oatcakes her eighth night; by mid-morning day nine she's hungry.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
