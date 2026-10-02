@@ -14,7 +14,7 @@ export const overwhereI00083 = {
     "character-other/overwhere-i-harl-voss",
     "character-other/overwhere-i-quarry-crewman-three",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "30 yards is in range. I focus two separate beams of fire, one from each hand, and have then intersect at each target, focusing each man in turn until they drop.",
   beats: [
@@ -38,6 +38,6 @@ export const overwhereI00083 = {
     "lore/overwhere-i-the-deserter-crew-2",
     "lore/overwhere-i-the-deserter-crew-2-2",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-03T17:05:00.000Z",
 } as const satisfies StoryTurnPlayed
