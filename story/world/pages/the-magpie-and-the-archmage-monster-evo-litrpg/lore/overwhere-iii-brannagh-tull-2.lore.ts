@@ -213,5 +213,9 @@ export const overwhereIiiBrannaghTull2 = {
       fact: "At twenty past eight on day seven Brannagh's shop is shuttered and dark, her bench empty.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "The bitten lad's father waits too: the fox came back in the night and killed three hens.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+    },
   ],
 } as const satisfies Lore
