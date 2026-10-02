@@ -123,5 +123,19 @@ export const hollowmereWorld = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "The Licensing Act of 1858 made working magic for pay in Britain a licensed trade, like medicine.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
   ],
 } as const satisfies Lore

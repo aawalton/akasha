@@ -169,6 +169,10 @@ export const hollowmereNala = {
       fact: "Nala typed Alan's old number into the empty phone, then deleted it unsent.",
       knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
     },
+    {
+      fact: "Nala's Thursday: History of Magic at ten in the Long Room, and practical casting at two.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

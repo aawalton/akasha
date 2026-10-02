@@ -50,5 +50,9 @@ export const hollowmereThornfieldHouse = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "On Thursday evenings the top-floor warden makes cocoa in the kitchen for all, a Thornfield custom.",
+      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-yusra"],
+    },
   ],
 } as const satisfies Place

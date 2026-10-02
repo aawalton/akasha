@@ -212,5 +212,19 @@ export const hollowmereAcademy = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "First-year History of Magic runs from the old guilds through the 1858 Act to the colleges' founding.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
+    {
+      fact: "In late September the mere is about ten degrees, cold enough to take a swimmer's breath away.",
+      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-shiv"],
+    },
   ],
 } as const satisfies Place
