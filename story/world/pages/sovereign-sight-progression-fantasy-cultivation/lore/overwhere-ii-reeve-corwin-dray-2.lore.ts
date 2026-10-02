@@ -125,7 +125,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray tells Nala to stop at the lane's end and talk, to hold the crossbows' eyes while he closes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray's signal that he is at the barn's back wall is a single crow's caw from the gully.",
