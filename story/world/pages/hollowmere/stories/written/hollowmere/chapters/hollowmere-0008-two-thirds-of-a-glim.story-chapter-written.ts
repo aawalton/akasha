@@ -4,13 +4,14 @@ export const hollowmere0008TwoThirdsOfAGlim = {
   id: "01a0fe3d-a392-7fa7-834c-d55d592d09a3",
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0008-two-thirds-of-a-glim",
+  cover: "image/image-db6e601b317eb3d1",
   position: 8,
   unit: "unit/words",
   title: "Two-Thirds of a Glim",
   story: "story-written/hollowmere",
   ownLength: 3734,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "Monday, week two: at half six it's Bea's knock, and you're already up and dressed to run.",
     "You choose the shore with Bea this morning; out on the mere a white cap waves, and you wave back.",
@@ -76,5 +77,26 @@ export const hollowmere0008TwoThirdsOfAGlim = {
     "character-other/hollowmere-yusra",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
+  scenes: ["image/image-50683a9088eeb1db", "image/image-db6e601b317eb3d1"],
+  pictured: [
+    {
+      cover: "image/image-50683a9088eeb1db",
+      coverAfter: "You're already up. You've been up ten minutes, sitting on the edge of the bed",
+      character: "character-player/hollowmere-nala",
+      outfit: "grey jumper, leggings and trainers, hair in a band",
+    },
+    {
+      cover: "image/image-db6e601b317eb3d1",
+      coverAfter:
+        "At ten o'clock the Foundations lecture fills the Long Room again. You find a place",
+      character: "character-other/hollowmere-priya",
+      outfit: "bottle-green corduroy pinafore over a striped long-sleeved top",
+    },
+  ],
 } as const satisfies StoryChapterWritten
