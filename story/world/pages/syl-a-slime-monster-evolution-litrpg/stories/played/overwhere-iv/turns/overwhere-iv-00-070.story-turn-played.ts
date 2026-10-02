@@ -10,7 +10,7 @@ export const overwhereIv00070 = {
   position: 70,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“I might be good for a night watch, let me do some training today and I’ll let you know.” I go out from town a ways, close my eyes, and practice my spatial sight, trying to combine it with rift rend, so I can strike without seeing with my eyes.",
   beats: [
@@ -27,7 +27,10 @@ export const overwhereIv00070 = {
     "She works at it through the afternoon, boulder after boulder, until the sun swings west.",
     "<Proficiency gained. [Spatial Sense LV 3] improved to [Spatial Sense LV 4].>",
     "The shapes around her reach a little wider again, even when she isn't reaching for them.",
-    "She opens her eyes, gets up, shoulders her spear, and starts back for town.",
+    "She opens her eyes, shoulders her spear, and walks back to town in the late sun.",
+    "At the hall, Dace of the Brookside Four is waiting by the board.",
+    'He straightens when he sees her. "Heard about the hobgoblin. And the wolf\'s head, after."',
+    '"Asked Ilsa if you\'d join us. She said ask you myself." He grins. "So. Join the Four? For good?"',
   ],
   issues: ['"get up, shoulder your spear, and start back for town" - Leave It Open'],
   lore: [
