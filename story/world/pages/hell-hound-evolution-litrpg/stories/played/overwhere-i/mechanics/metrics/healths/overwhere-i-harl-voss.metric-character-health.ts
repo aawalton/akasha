@@ -5,7 +5,7 @@ export const overwhereIHarlVoss = {
   type: "page-type/metric-character-health",
   slug: "overwhere-i-harl-voss",
   character: "character-other/overwhere-i-harl-voss",
-  value: 59,
+  value: 0,
   minValue: 0,
   maxValue: 90,
   displayOrder: 1,
