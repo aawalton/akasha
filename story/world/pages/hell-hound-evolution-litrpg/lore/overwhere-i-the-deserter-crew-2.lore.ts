@@ -110,5 +110,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "A slug at Voss's head standing in parley at 60 yards is hard; moving or past the shield, harder.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Struck at under parley, the crew will yield on no terms and slips out by the goat path at once.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
