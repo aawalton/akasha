@@ -292,6 +292,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "Day 7's last twenty miles to Wendlow run through farmland and pass quiet.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At supper the drover, Hob Tanner, tells all who'll listen that factor Ivo Tessaly sold him duds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
