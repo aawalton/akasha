@@ -11,4 +11,5 @@ export const overwhereIv00077 = {
   action:
     "I put one more slice in front of the line, as wide as I can make it, right where they will move into the slice, then get up and race for the farm.",
   lore: ["lore/overwhere-iv-the-tangle-2"],
+  endsAt: "2026-10-06T21:21:00.000Z",
 } as const satisfies StoryTurnPlayed
