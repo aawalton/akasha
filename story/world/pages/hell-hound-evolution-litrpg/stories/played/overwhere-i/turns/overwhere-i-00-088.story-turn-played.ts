@@ -10,7 +10,7 @@ export const overwhereI00088 = {
   position: 88,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I start tracking the mile and cart, keeping my mana around 80% full and using my mobility enhancements wherever it is higher.",
   beats: [
@@ -30,6 +30,6 @@ export const overwhereI00088 = {
     "lore/overwhere-i-tobin-ashdown",
     "place/overwhere-i-greyback-and-east-road",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-04T00:28:00.000Z",
 } as const satisfies StoryTurnPlayed
