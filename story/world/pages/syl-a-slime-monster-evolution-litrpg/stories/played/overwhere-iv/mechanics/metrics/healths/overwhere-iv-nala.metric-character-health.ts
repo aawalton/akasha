@@ -7,7 +7,7 @@ export const overwhereIvNala = {
   character: "character-player/overwhere-iv-nala",
   value: 50,
   minValue: 0,
-  maxValue: 50,
+  maxValue: 55,
   history: "jsonl",
   displayOrder: 1,
   revealedAs: "Rested and whole, nothing aching.",
