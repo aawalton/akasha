@@ -7,6 +7,15 @@ export const overwhereIii00067 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 67,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action: "I rest and watch the weaves until dusk, then heal the washer woman",
+  lore: [
+    "lore/overwhere-iii-braid-weaving",
+    "lore/overwhere-iii-brannagh-tull",
+    "lore/overwhere-iii-brannagh-tull-2",
+    "lore/overwhere-iii-mending-weave",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
+    "lore/overwhere-iii-nala-2-2",
+  ],
 } as const satisfies StoryTurnPlayed
