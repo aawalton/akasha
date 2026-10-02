@@ -44,5 +44,13 @@ export const overwhereIiiNala22 = {
       fact: "Her skill shop's trait page lists Inventory at 3 glimmerstones; its skills add Appraise at 5.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala bought Inventory from her skill shop on day nine for 3 glimmerstones.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
 } as const satisfies Lore
