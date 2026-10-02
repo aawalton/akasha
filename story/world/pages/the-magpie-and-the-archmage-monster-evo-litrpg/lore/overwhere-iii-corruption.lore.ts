@@ -332,6 +332,10 @@ export const overwhereIiiCorruption = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "Four more Cleansing Weaves cracked the wolf's blightstone into one clean glimmerstone.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
