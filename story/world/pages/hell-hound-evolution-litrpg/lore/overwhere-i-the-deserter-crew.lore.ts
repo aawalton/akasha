@@ -207,6 +207,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Nala's first slug struck Voss in the head; bleeding, shield up, he charges her with axe high.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "The crew's Drakewolf dragged Nala down on the road, jaws locked on her forearm.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
