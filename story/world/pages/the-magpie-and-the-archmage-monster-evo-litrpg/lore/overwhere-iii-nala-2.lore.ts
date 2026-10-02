@@ -327,7 +327,7 @@ export const overwhereIiiNala2 = {
     },
     {
       fact: "At Legend, lent current carries a pull's cold off, so pulling blight no longer aches up her arm.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "At Legend, blight in a fresh wound shows Nala a faint dark thread running to the beast that gave it.",
