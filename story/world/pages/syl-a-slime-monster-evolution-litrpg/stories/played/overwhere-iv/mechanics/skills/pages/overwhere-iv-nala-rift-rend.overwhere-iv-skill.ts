@@ -10,7 +10,7 @@ export const overwhereIvNalaRiftRend = {
     "A spell of Dimension Magic: a thin cut in space itself, parting whatever lies along it.",
   character: "character-player/overwhere-iv-nala",
   skill: "world-skill/overwhere-iv-rift-rend",
-  level: 4,
+  level: 5,
   reachPaces: 40,
   manaCost: 8,
   durationMinutes: 0,
