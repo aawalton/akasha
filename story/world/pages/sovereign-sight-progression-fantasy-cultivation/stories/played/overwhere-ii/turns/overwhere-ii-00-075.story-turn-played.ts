@@ -38,6 +38,7 @@ export const overwhereIi00075 = {
     "Nala's mouth is dry, her belly hollow, and her legs heavy after twenty-four miles.",
     "In the middle of the yard, under its slate cap, the farm well waits, deep and full.",
   ],
+  issues: ['"Your mouth is dry" ... "the farm well stands, deep and full." - No Prompt'],
   lore: [
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",
@@ -46,5 +47,6 @@ export const overwhereIi00075 = {
     "place/overwhere-ii-ashlin-farm",
     "place/overwhere-ii-grey-shaw",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-15T02:25:00.000Z",
 } as const satisfies StoryTurnPlayed
