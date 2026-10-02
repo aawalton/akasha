@@ -104,5 +104,9 @@ export const overwhereINala2 = {
       fact: "Nala took Crow's fine crossbow from his body at the bend.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Unslept since day 4 and hurt, Nala's careful acts are a band harder past midnight until she sleeps.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
