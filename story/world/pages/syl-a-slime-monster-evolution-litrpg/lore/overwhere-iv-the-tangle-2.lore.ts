@@ -40,5 +40,17 @@ export const overwhereIvTheTangle2 = {
       fact: "When the band breaks, most goblins flee back up toward the camp; a few bolt on down toward the ford.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The two scouts are LV 3 and LV 4, with knives and no ward.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The scouts run back up the trail to the band, eyes ahead, and pass the bank without looking up.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Lying still in the bank, she is no more to a passing goblin than bramble in the dark.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
