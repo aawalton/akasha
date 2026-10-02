@@ -276,6 +276,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "The Ford Inn's innkeeper is a broad woman whose daughter, about ten, helps about the inn.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "The Ford Inn's tub takes a quarter hour to fill with kettle water; it comes with a cake of lye soap.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
