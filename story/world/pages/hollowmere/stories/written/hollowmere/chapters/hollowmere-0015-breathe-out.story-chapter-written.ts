@@ -11,7 +11,7 @@ export const hollowmere0015BreatheOut = {
   story: "story-written/hollowmere",
   ownLength: 2766,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   beats: [
     "Monday of week three: the morning after the storm is washed clean, blue and cold and very still.",
     "The mere is flat again, littered with branches; the fells are back, sharp, snow on the tops.",
@@ -77,5 +77,5 @@ export const hollowmere0015BreatheOut = {
     "character-other/hollowmere-lin",
     "character-other/hollowmere-priya",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryChapterWritten
