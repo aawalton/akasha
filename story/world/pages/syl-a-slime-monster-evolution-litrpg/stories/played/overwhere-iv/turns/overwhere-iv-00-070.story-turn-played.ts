@@ -10,7 +10,7 @@ export const overwhereIv00070 = {
   position: 70,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“I might be good for a night watch, let me do some training today and I’ll let you know.” I go out from town a ways, close my eyes, and practice my spatial sight, trying to combine it with rift rend, so I can strike without seeing with my eyes.",
   beats: [
@@ -37,6 +37,6 @@ export const overwhereIv00070 = {
     "lore/overwhere-iv-nala-3",
     "place/overwhere-iv-north-west-pastures",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-05T15:13:00.000Z",
 } as const satisfies StoryTurnPlayed
