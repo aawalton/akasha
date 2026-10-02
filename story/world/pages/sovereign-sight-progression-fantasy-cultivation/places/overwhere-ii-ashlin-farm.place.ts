@@ -70,7 +70,7 @@ export const overwhereIiAshlinFarm = {
     },
     {
       fact: "Ashlin is quiet on their return: Col kept watch, and Bet sleeps against her brothers in the straw.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Big Harl tried once to slip his bonds near midnight; Col knocked him down, and he has sulked since.",
