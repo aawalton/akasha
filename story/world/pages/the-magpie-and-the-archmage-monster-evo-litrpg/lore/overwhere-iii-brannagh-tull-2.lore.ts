@@ -285,5 +285,9 @@ export const overwhereIiiBrannaghTull2 = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
+    {
+      fact: "The washerwoman told Nala she had hidden her scalded forearm for years.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
