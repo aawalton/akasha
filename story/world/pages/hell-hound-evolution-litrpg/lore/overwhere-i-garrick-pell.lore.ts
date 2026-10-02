@@ -113,7 +113,7 @@ export const overwhereIGarrickPell = {
     },
     {
       fact: "Garrick charges two silver for a bed and supper at the Stag on day 4; his free night was day 3.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "One sack of salt packs Ghost-Eye's head.",
