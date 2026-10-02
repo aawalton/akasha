@@ -4,10 +4,21 @@ export const overwhereI00073 = {
   id: "01a0fd6f-a437-726f-b109-d435e2555ada",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-073",
+  ownLength: 127,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 73,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-i-nala",
+    "character-other/overwhere-i-harl-voss",
+    "character-other/overwhere-i-quarry-crewman-one",
+    "character-other/overwhere-i-quarry-crewman-two",
+    "character-other/overwhere-i-quarry-crewman-three",
+    "character-other/overwhere-i-quarry-crewman-four",
+    "character-other/overwhere-i-quarry-crewman-five",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "Now that I can see him, I focus Earth and Fire on his helmet directly, and if he takes it off, I put a bullet in his brain.",
   beats: [
@@ -20,6 +31,8 @@ export const overwhereI00073 = {
     "Voss waits at the gallery mouth, shield up, cap on, for her answer to his offer.",
   ],
   lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
     "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-starfall-legacy-2",
     "lore/overwhere-i-the-deserter-crew-2",
