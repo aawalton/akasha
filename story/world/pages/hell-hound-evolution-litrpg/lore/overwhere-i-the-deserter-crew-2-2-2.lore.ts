@@ -60,5 +60,9 @@ export const overwhereITheDeserterCrew222 = {
       fact: "Night does not slow her; a held flame lights the track, and no beast but the foxes troubles her.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "With each tag, an ear serves as proof in Wendlow; without its tag, the Board pays nothing on it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
