@@ -110,4 +110,12 @@ export const haremHotel0003TheMasquerade = {
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
+  pictured: [
+    {
+      cover: "image/image-2b06350a92ab3ebf",
+      character: "character-other/harem-hotel-tamsin",
+      outfit: "naked",
+      setting: "the ballroom",
+    },
+  ],
 } as const satisfies StoryChapterWritten

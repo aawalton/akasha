@@ -94,4 +94,12 @@ export const haremHotel0001CheckIn = {
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
+  pictured: [
+    {
+      cover: "image/image-ccfd9cd65571a64c",
+      character: "character-other/harem-hotel-odile",
+      outfit: "open black tailcoat, black waistcoat buttoned over her bare breasts",
+      setting: "the hotel lobby",
+    },
+  ],
 } as const satisfies StoryChapterWritten
