@@ -88,7 +88,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 16,
-      cover: "image/image-1a8cf981326fa824",
+      cover: "image/image-a671ed1005d80897",
       coverAfter: "It goes still. What's left is a hard grey coil, dried right",
     },
     {
