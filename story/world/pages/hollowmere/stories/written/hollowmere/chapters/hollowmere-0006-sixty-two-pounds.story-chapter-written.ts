@@ -10,7 +10,7 @@ export const hollowmere0006SixtyTwoPounds = {
   story: "story-written/hollowmere",
   ownLength: 4402,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   beats: [
     "Saturday: you sleep through half six; Bea, cidered too, sleeps through it as well.",
     "You wake at ten with a dry mouth and a soft head, and the sun full on the mere.",
