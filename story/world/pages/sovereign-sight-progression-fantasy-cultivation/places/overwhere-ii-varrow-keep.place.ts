@@ -10,7 +10,7 @@ export const overwhereIiVarrowKeep = {
   facts: [
     {
       fact: "Varrow Keep is an old grey tower-house on a crag at the valley's east end, a day from the Ford.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Thirty men-at-arms and a dozen servants live in the Keep, and its roofs leak.",
