@@ -90,7 +90,7 @@ export const saltAndLamplight0003TheBoatSong = {
     "image/image-d2092ebdaec6ba83",
     "image/image-19858c9cee80f2d0",
     "image/image-36046ed5ab80536b",
-    "image/image-9ec258dd2cd885c4",
+    "image/image-334a7960c0e8ab06",
     "image/image-9f7ee007137889fe",
     "image/image-5359741c52bdf650",
     "image/image-1d60a060b39b22e2",
