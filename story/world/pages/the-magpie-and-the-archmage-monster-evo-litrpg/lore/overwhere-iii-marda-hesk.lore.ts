@@ -286,7 +286,11 @@ export const overwhereIiiMardaHesk = {
     },
     {
       fact: "Marda: most folk hold skills at Basic or Novice; Adept is a master's, Expert a veteran's.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Marda took thirty hard years to reach Level 47; most Merrowgate folk stand under Level 15.",
