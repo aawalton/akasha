@@ -4,6 +4,7 @@ export const overwhereI00073 = {
   id: "01a0fd6f-a437-726f-b109-d435e2555ada",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-073",
+  cover: "image/image-bb9dcbf3cf6bcfa2",
   ownLength: 133,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -18,7 +19,7 @@ export const overwhereI00073 = {
     "character-other/overwhere-i-quarry-crewman-four",
     "character-other/overwhere-i-quarry-crewman-five",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "Now that I can see him, I focus Earth and Fire on his helmet directly, and if he takes it off, I put a bullet in his brain.",
   beats: [
@@ -39,6 +40,11 @@ export const overwhereI00073 = {
     "lore/overwhere-i-the-deserter-crew-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-03T15:06:00.000Z",
 } as const satisfies StoryTurnPlayed
