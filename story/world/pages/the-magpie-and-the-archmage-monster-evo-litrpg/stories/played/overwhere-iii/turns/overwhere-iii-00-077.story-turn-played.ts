@@ -10,4 +10,5 @@ export const overwhereIii00077 = {
   stepStatus: "step-status/game-master",
   action: "I try casting a mending weave on my palms.",
   lore: ["lore/overwhere-iii-mending-weave"],
+  endsAt: "2026-10-07T16:08:00.000Z",
 } as const satisfies StoryTurnPlayed
