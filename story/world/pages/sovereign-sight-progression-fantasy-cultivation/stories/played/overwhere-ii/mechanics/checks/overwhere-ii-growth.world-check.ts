@@ -89,6 +89,10 @@ export const overwhereIiGrowth = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Muscle refined whole raises Might by two and Speed by one, once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every change in an attribute is written with a line of its history.",
     },
   ],
