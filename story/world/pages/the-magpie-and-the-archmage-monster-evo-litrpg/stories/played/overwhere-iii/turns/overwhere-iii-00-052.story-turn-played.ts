@@ -13,7 +13,7 @@ export const overwhereIii00052 = {
     "character-player/overwhere-iii-nala",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I go and rest at the shrine until my mana is full again, then go back to Brannagh’s and heal the burn if he’s still there, then check at the Post again",
   beats: [
@@ -39,6 +39,6 @@ export const overwhereIii00052 = {
     "place/overwhere-iii-merrowgate-guild-post",
     "place/overwhere-iii-wrenwood-crossroads",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-04T13:25:00.000Z",
 } as const satisfies StoryTurnPlayed
