@@ -7,7 +7,12 @@ export const overwhereIii00071 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 71,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Just curious, was thinking through things I read. What about traits? How are those different than skills?”",
+  lore: [
+    "lore/overwhere-iii-marda-hesk",
+    "lore/overwhere-iii-the-system",
+    "place/overwhere-iii-merrowgate-guild-post",
+  ],
 } as const satisfies StoryTurnPlayed
