@@ -340,6 +340,10 @@ export const overwhereIiiTheSystem = {
       fact: "[Inventory – At [Basic] level, keep a knapsack's worth in a pocket bound to you.]",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Appraise sells in the skill shop for 5 glimmerstones.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
