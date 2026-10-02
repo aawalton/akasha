@@ -139,6 +139,10 @@ export const overwhereIOsricFenn = {
         "lore/overwhere-i-osric-fenn",
       ],
     },
+    {
+      fact: "Osric offers Nala free passage to Wendlow on his cart at dawn on day 5, if she rides as its guard.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
