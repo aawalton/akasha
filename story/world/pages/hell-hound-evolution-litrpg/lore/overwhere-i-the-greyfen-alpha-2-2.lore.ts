@@ -36,5 +36,9 @@ export const overwhereITheGreyfenAlpha22 = {
         "lore/overwhere-i-rowan-coalby",
       ],
     },
+    {
+      fact: "From the marsh across the channel, the snappers on Ghost-Eye's body are about 35 yards off.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
