@@ -11,7 +11,7 @@ export const overwhereIii00071 = {
   position: 71,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Just curious, was thinking through things I read. What about traits? How are those different than skills?”",
   beats: [
@@ -35,7 +35,12 @@ export const overwhereIii00071 = {
     "place/overwhere-iii-merrowgate-guild-post",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-07T11:40:00.000Z",
   coverAfter: '"Never heard of one rising in days." She taps her cane once on the floor,',
 } as const satisfies StoryTurnPlayed
