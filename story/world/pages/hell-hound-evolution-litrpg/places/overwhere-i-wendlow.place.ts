@@ -220,5 +220,9 @@ export const overwhereIWendlow = {
       fact: "Hearing her tale, Grete offers to enter Nala on the hunters' roll, which brings Board contracts.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The two dicing hunters fall silent at Voss's head; by evening the tale is all over Wendlow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
