@@ -41,7 +41,7 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "Training runs two hours from first light: wooden weapons first, then Talents, held light.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Lady Varrow's sparring rule: no Talent may harm what it cannot heal, nor draw on another's Water.",
