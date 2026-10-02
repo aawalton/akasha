@@ -10,7 +10,7 @@ export const hollowmere0004TenDegrees = {
   story: "story-written/hollowmere",
   ownLength: 5673,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   beats: [
     "Thursday: you wake at six, before Bea's knock, with Shiv's \"some morning\" in your head.",
     "You pull on the fisherman's jumper over your knickers and bra and creep down to the shore.",
