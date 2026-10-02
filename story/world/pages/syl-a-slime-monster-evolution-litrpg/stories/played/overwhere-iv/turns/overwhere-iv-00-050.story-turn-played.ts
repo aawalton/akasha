@@ -4,10 +4,13 @@ export const overwhereIv00050 = {
   id: "01a0fd3a-6d16-768a-b761-ff08bea4f753",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-050",
+  ownLength: 159,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 50,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action: "I read through the rest in rapid succession before dinner.",
   beats: [
     "Nala reads through the rest, one after another, as the light moves across the floor.",
@@ -22,6 +25,10 @@ export const overwhereIv00050 = {
     "Anwen has stopped mending. She looks at the chained shelf, then at Nala.",
     '"All seven in one day," the old woman says slowly. "I\'ve not seen the like."',
   ],
-  lore: ["place/overwhere-iv-millbrook-shrine"],
+  lore: [
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "place/overwhere-iv-millbrook-shrine",
+  ],
   endsAt: "2026-10-02T14:58:00.000Z",
 } as const satisfies StoryTurnPlayed
