@@ -198,7 +198,7 @@ export const gameMaster = {
       aids: [
         "Leave each number a check you did not settle changes, as growth does, to the mechanics recorder.",
         "A counter two seats write counts one deed twice.",
-        "A metric page takes its new value, and its history a line of the turn's number and that value.",
+        "A metric a turn moved, even back, takes its end value and a history line of the turn and that value.",
         "Write the new value with the `change-page-page-property` change, the number bare.",
         "Add a history line with the `append-lines` change; a history is never written over.",
         "A skill the turn advanced takes its new rank, level and demonstrations on its holding page.",
