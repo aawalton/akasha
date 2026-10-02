@@ -33,7 +33,7 @@ export const overwhereIiOswyCrake2 = {
     },
     {
       fact: "Charged, Crake slips aside and reaches along the spear shaft for the hands that hold it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Crake keeps two venom darts in his left cuff and flicks one at bare skin when he can.",
