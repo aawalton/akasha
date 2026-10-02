@@ -298,8 +298,12 @@ export const overwhereIiiNala2 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
-      fact: "[Mana Weaver – At [Legend] level, you see currents to the sky's edge. They lend you all they hold.]",
+      fact: "[Mana Weaver has advanced: Expert → Legend]",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "[Mana Weaver – At [Legend] level, you see currents to the sky's edge. They lend you all they hold.]",
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "At Legend, Mana Weaver reaches currents five times as far off, and lends five times the Basic mana.",
