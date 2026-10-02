@@ -95,6 +95,10 @@ export const overwhereIGarrickPell = {
       fact: "Garrick sells a sack of salt for four copper; packing the head in it takes about an hour.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Garrick offers his salt and a hand packing the head in the Stag's back room tonight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
