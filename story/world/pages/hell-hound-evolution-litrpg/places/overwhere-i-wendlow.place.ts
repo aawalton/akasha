@@ -228,5 +228,9 @@ export const overwhereIWendlow = {
       fact: "Grete Holm, Board-master, named herself to Nala and Analyzed her before counting the proof.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Grete accepted Ghost-Eye's head as proof; the dicing hunters fell silent at Voss's face.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Place
