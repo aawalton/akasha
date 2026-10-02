@@ -39,6 +39,54 @@ export const overwhereIiLadyImreVarrow = {
       fact: "She would want any great Talent in her valley sworn to her house, whatever it cost.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Lady Varrow has a Talent-reading glass from the Spires that shows a Talent, Scope and Depth.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She is lean, in a fine grey gown worn thin, dark hair pinned tight, one streak of white, pale eyes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The air near Lady Varrow is cold, and a skin of frost lies on the arms of her chair.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She speaks briefly and never smiles, and watches a guest's hands and eyes as they talk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She thanks Nala for Crake, and gives her a silver bar from the House: the road was hers to keep.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She bids Nala tell the crag again, and listens without a word, her eyes on Sir Edric now and then.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She asks where Nala comes from, since Dray wrote that she came to the Ford with no papers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She asks to look at Nala through her glass from the Spires, and does not say what she hopes to see.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Through her glass, Nala reads as Undertow, Major, Surface, a greater Talent than any she holds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She offers Nala a place sworn to House Varrow: a bar a month, a room at the Keep, a knight's rank.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Sworn to her, Nala would help hold the valley against whatever is under the Whitecombs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "If Nala will not swear, she offers a lesser bond: paid as a free blade, called on at need.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
