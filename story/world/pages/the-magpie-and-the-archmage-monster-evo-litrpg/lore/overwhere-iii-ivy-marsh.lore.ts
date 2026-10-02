@@ -88,5 +88,9 @@ export const overwhereIiiIvyMarsh = {
       fact: "The morning her bite was closed, the purple on Ivy's arm paled at its edges to a yellow bruise.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Afternoons Ivy works her herd at the east gate pens, her hand mended, with Huw Tarrant as her hand.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-ivy-marsh"],
+    },
   ],
 } as const satisfies Lore
