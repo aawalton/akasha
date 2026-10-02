@@ -4,13 +4,14 @@ export const overwhereIv00068 = {
   id: "01a0fe51-65b8-77f1-9e4d-7c3f44f59b64",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-068",
+  cover: "image/image-a7325ad69dcac1d8",
   ownLength: 123,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 68,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Yes, please. I have a feeling a crossbar will save my life someday. Can you get it done today?”",
   beats: [
@@ -35,6 +36,12 @@ export const overwhereIv00068 = {
     "place/overwhere-iv-millbrook-smithy",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-05T10:58:00.000Z",
+  coverAfter: '"There. Nothing\'ll climb that."',
 } as const satisfies StoryTurnPlayed
