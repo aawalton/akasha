@@ -4,13 +4,13 @@ export const overwhereIii00073 = {
   id: "01a0fe89-76b1-7564-bd6e-116532df2ba9",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-073",
-  ownLength: 218,
+  ownLength: 217,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 73,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "“Yeah, I’ll rest before going out again and work on the rest.” I walk out to the shrine and then practice using the gold currents directly to cleanse the blightstones, instead of my own mana.",
   beats: [
