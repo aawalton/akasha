@@ -61,7 +61,7 @@ export const overwhereIiKeeperAnselm2 = {
     },
     {
       fact: "On day eleven the carrier brings Anselm the Keepers' reply to his letter about Nala.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The Keepers write that Senior Keeper Maud Ashby will come up the valley once the road dries.",
