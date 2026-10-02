@@ -154,5 +154,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Blademen One and Two, too badly burned to climb, are left behind in the galleries.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Left behind, Blademen One and Two yield if called to, begging to live.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
