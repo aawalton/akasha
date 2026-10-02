@@ -183,6 +183,10 @@ export const overwhereIOsricFenn = {
       fact: "Left on the road as his cart bolted, Osric is bruised but whole, and crawls to the ditch.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Osric waits at his stopped cart till about 17:00, then drives on east, the cask still aboard.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
