@@ -4,6 +4,7 @@ export const overwhereI00083 = {
   id: "01a0fe29-b768-7148-bc01-fe7d956b271b",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-083",
+  cover: "image/image-536218dd736b994e",
   ownLength: 186,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -39,6 +40,7 @@ export const overwhereI00083 = {
     "lore/overwhere-i-the-deserter-crew-2-2",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-03T17:05:00.000Z",
+  coverAfter: "Your third pair of beams meets on the cranking man's chest, and he",
 } as const satisfies StoryTurnPlayed
