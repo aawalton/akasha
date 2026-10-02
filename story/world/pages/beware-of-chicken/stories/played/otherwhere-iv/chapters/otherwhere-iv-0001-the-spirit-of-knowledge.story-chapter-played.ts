@@ -48,7 +48,7 @@ export const otherwhereIv0001TheSpiritOfKnowledge = {
     },
     {
       position: 8,
-      cover: "image/image-1dd95ade8cbde8ea",
+      cover: "image/image-16ba59eb8f1c9293",
       coverAfter: "He sets both hands flat on his ledgers.",
     },
     {
