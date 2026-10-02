@@ -14,7 +14,7 @@ export const overwhereIv00066 = {
     "character-other/overwhere-iv-marta-hesk",
     "character-other/overwhere-iv-ilsa-crane",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I take a bath after the long day, get dinner, and sleep, then train with the guard in the morning and check in on my new spear.",
   beats: [
@@ -43,6 +43,6 @@ export const overwhereIv00066 = {
     "place/overwhere-iv-millbrook-gatehouse",
     "place/overwhere-iv-millbrook-smithy",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-05T10:00:00.000Z",
 } as const satisfies StoryTurnPlayed
