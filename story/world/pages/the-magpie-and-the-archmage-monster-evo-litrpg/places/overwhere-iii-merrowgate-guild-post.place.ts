@@ -280,7 +280,11 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "The Guild post buys and sells no glimmerstones; Marda holds none to sell.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
   secrets: "jsonl",
