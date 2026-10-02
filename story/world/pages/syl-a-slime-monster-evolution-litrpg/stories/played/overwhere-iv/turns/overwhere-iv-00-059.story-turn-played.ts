@@ -49,5 +49,6 @@ export const overwhereIv00059 = {
     "place/overwhere-iv-brook-and-barrel",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-10-04T10:00:00.000Z",
 } as const satisfies StoryTurnPlayed
