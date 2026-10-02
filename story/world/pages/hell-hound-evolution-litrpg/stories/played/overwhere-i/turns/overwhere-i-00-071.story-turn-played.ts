@@ -4,10 +4,21 @@ export const overwhereI00071 = {
   id: "01a0fd57-3ba9-73dd-8aba-3cdb05c05dad",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-071",
+  ownLength: 215,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 71,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-i-nala",
+    "character-other/overwhere-i-harl-voss",
+    "character-other/overwhere-i-quarry-crewman-one",
+    "character-other/overwhere-i-quarry-crewman-two",
+    "character-other/overwhere-i-quarry-crewman-three",
+    "character-other/overwhere-i-quarry-crewman-four",
+    "character-other/overwhere-i-quarry-crewman-five",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I get down on the ground to be less of a target and spin up bullets to max speed, pointed and rifled and spinning like a drill to pierce through armor or shields, then start picking off Voss’s men, starting with the crossbows.",
   beats: [
@@ -26,6 +37,8 @@ export const overwhereI00071 = {
     "Down the road behind her, the mule, the cart and the cask have gone out of sight.",
   ],
   lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
     "lore/overwhere-i-osric-fenn",
     "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-starfall-legacy-2",
