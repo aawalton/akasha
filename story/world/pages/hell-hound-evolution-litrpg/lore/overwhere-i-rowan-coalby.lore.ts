@@ -180,7 +180,7 @@ export const overwhereIRowanCoalby = {
     },
     {
       fact: "Rowan swims the 30-yard channel slowly, hatchet in his belt; Sedge swims it strongly.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Rowan leaves the sled on the marsh side and ropes the head back across the channel to it.",
