@@ -249,7 +249,7 @@ export const overwhereIiNala2 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
-      fact: "Begun on day nine, smallest to largest, Nala's bones are all refined whole by day twenty-one.",
+      fact: "Begun on day nine, smallest to largest, Nala's bones are all refined whole on day twenty.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
