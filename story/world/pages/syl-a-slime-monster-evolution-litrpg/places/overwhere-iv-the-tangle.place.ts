@@ -279,6 +279,22 @@ export const overwhereIvTheTangle = {
       fact: "The hobgoblin's horn, blown, carries to the camp; a dozen goblins come in about an hour.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Grakk's scouts found the Tull raiders cut down at the stream, and the camp is afraid.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Grakk answers fear with force: on the third night after the scouts' find he strikes Tull's farm.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Grakk's strike is a score of goblins and two hobgoblins, to burn the farm and take all its flock.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Until then the goblins watch the edge farms from the trees by torchlight, and choose.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
