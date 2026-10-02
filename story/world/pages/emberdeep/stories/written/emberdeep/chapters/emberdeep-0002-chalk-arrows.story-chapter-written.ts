@@ -118,4 +118,5 @@ export const emberdeep0002ChalkArrows = {
     "character-other/emberdeep-elowen",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryChapterWritten
