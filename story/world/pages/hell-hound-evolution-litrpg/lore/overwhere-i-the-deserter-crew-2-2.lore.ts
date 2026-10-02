@@ -290,5 +290,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "The camp hut holds bedrolls, a cask of salt pork, a spare crossbow and a purse of 30 copper.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's beams killed Blademan Three as he knelt, yielding.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
