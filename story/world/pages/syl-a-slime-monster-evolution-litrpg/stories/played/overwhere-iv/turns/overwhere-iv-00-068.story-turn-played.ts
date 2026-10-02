@@ -4,10 +4,13 @@ export const overwhereIv00068 = {
   id: "01a0fe51-65b8-77f1-9e4d-7c3f44f59b64",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-068",
+  ownLength: 122,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 68,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Yes, please. I have a feeling a crossbar will save my life someday. Can you get it done today?”",
   beats: [
@@ -21,6 +24,11 @@ export const overwhereIv00068 = {
     "Then he holds the spear out to her, butt first.",
     '"There. Nothing\'ll climb that."',
   ],
-  lore: ["place/overwhere-iv-millbrook-smithy"],
+  lore: [
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "lore/overwhere-iv-nala-3",
+    "place/overwhere-iv-millbrook-smithy",
+  ],
   endsAt: "2026-10-05T10:58:00.000Z",
 } as const satisfies StoryTurnPlayed
