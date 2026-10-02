@@ -266,7 +266,11 @@ export const overwhereIiiMardaHesk = {
     },
     {
       fact: "Until Nala has mana to crack it, the fox stone waits in the lead box, apart from the rest.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
   secrets: "jsonl",
