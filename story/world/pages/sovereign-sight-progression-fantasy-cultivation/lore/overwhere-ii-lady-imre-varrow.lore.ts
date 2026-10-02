@@ -25,7 +25,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "She gathers Talented folk to the Keep, trading them rank and silver for sworn service.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Her only son Aurel failed the Ordeals two years ago, and never came home.",
