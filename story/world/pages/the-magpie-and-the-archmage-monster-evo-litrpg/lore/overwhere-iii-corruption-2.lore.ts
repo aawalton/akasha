@@ -64,5 +64,9 @@ export const overwhereIiiCorruption2 = {
         "character-other/overwhere-iii-oswin-fairley",
       ],
     },
+    {
+      fact: "Three of the fox's four parts of blight were drawn before it died; one weave cracks its stone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
