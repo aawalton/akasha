@@ -8,9 +8,9 @@ export const hollowmere0010EveryWindowLitButOne = {
   unit: "unit/words",
   title: "Every Window Lit but One",
   story: "story-written/hollowmere",
-  ownLength: 3796,
+  ownLength: 3813,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Wednesday: you wake clear-headed, the headache gone, Kit's handkerchief still in your hand.",
     "Dawn at the boathouse: the cold-water swimmers' first morning, a register, a safety boat, a whistle.",
