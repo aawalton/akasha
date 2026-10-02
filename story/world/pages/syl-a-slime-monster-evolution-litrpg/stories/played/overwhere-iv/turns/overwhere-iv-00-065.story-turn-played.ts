@@ -14,7 +14,7 @@ export const overwhereIv00065 = {
     "character-other/overwhere-iv-ilsa-crane",
     "character-other/overwhere-iv-brenna-holt",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I leave the broken spear and carry just the head back to town, I’ll reimburse the guard for the spear, my replacement is already being made, and report back to the guild.",
   beats: [
@@ -47,6 +47,6 @@ export const overwhereIv00065 = {
     "place/overwhere-iv-crowstone-quarry",
     "place/overwhere-iv-millbrook-gatehouse",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-04T18:33:00.000Z",
 } as const satisfies StoryTurnPlayed
