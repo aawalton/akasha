@@ -101,7 +101,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray would turn the trap: Nala walks in as bait while he and the watch come up the beck behind.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray means to strike before nightfall, before Crake guesses Bet has failed and moves camp.",
