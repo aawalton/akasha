@@ -204,5 +204,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Fire on a wound sears it shut with pain; air, water or earth alone do nothing for it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A water-and-earth weave held on a wound, seen as flesh knitting, mends it: a Weave use, no new way.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
