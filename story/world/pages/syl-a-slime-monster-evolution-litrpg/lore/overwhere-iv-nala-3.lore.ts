@@ -44,5 +44,21 @@ export const overwhereIvNala3 = {
       fact: "Nala paid Tobin 20 copper, counted at once, to fit a crossbar behind her forged spear's blade.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "On a still target, a rend tried by sense flickers a little longer each time before it slips.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The flicker steadies when she holds the spot in her sense alone, not pictured as if seen.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A day's practice at it counts as one earnest use toward Sense Casting, however many tries.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Below the town's north wall, past the common, are empty sheep downs dotted with boulders.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
