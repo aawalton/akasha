@@ -176,6 +176,10 @@ export const overwhereITobinAshdown = {
       fact: "Tobin carries Hessa's pot of yarrow salve, which slows bleeding; he offers it for her wounds.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Tobin asks how many there were, and if it's true Voss is dead.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
