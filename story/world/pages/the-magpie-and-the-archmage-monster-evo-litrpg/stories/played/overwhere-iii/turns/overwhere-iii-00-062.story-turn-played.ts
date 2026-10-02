@@ -14,7 +14,7 @@ export const overwhereIii00062 = {
     "character-other/overwhere-iii-oswin-fairley",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Yes.” I turn to the washerwoman. “I’ll need to take care of the fox first and can’t risk running out of my mana, but I could help you in the evening if you’d like to come back then. Then I go with the father to find the fox.",
   beats: [
@@ -30,6 +30,9 @@ export const overwhereIii00062 = {
     "Down in the dark, under the earth, she sees it: a dark smear, curled and still. The fox.",
     'Oswin grips his stick. "That\'s where it lies up by day, then."',
   ],
+  issues: [
+    '"The dark thread from his son\'s bite still runs ahead" - bite pulled clean on day 7; lad not here',
+  ],
   lore: [
     "lore/overwhere-iii-brannagh-tull",
     "lore/overwhere-iii-brannagh-tull-2",
@@ -42,6 +45,6 @@ export const overwhereIii00062 = {
     "lore/overwhere-iii-wrenmark-beast-guide",
     "place/overwhere-iii-fairley-farm",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-06T08:30:00.000Z",
 } as const satisfies StoryTurnPlayed
