@@ -194,7 +194,11 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "Skills come from repeated deeds, from teaching, from the skill shop, and in times of great need.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "A skill won by use reads [New skill acquired – Peck.] or [You've unlocked a new skill <Rend>.]",
