@@ -18,7 +18,7 @@ export const overwhereI00073 = {
     "character-other/overwhere-i-quarry-crewman-four",
     "character-other/overwhere-i-quarry-crewman-five",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "Now that I can see him, I focus Earth and Fire on his helmet directly, and if he takes it off, I put a bullet in his brain.",
   beats: [
@@ -28,7 +28,7 @@ export const overwhereI00073 = {
     "Her working reaches 30 yards and stops there, well short of the gallery mouth.",
     "She judges it: even from the open lip, the gallery mouth would be 40 yards off.",
     "Out on the lip she would be in the open, under the crossbows and the unseen shooter.",
-    "Voss waits at the gallery mouth, shield up, cap on, for her answer to his offer.",
+    'Voss calls across the pit: "Free road and the silver. Do we have a bargain, woman?"',
   ],
   issues: ['"Voss stays in the gallery mouth, shield up, cap on." - No Prompt'],
   lore: [
