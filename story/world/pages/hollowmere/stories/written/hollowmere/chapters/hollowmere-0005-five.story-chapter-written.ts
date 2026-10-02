@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0005 = {
+export const hollowmere0005Five = {
   id: "01a0fdae-0105-7ab8-a049-e1db832d716f",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0005",
+  slug: "hollowmere-0005-five",
   position: 5,
   unit: "unit/words",
-  title: "Chapter 5",
+  title: "Five",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 5205,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Friday: you wake in grey light with Bea still asleep on your shoulder, drooling a little.",
     'She wakes, sees where she is, and goes scarlet; "Did I fall asleep mid-herring?" You nod.',
@@ -62,9 +62,27 @@ export const hollowmere0005 = {
     "A day at Hollowmere ends.",
   ],
   lore: [
+    "lore/hollowmere-amara",
+    "lore/hollowmere-bea",
+    "lore/hollowmere-kit",
+    "lore/hollowmere-lin",
     "lore/hollowmere-nala",
     "lore/hollowmere-penhallow",
+    "lore/hollowmere-priya",
+    "lore/hollowmere-shiv",
+    "lore/hollowmere-yusra",
     "place/hollowmere-academy",
     "place/hollowmere-village",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-shiv",
+    "character-other/hollowmere-penhallow",
+    "character-other/hollowmere-kit",
+    "character-other/hollowmere-amara",
+    "character-other/hollowmere-priya",
+    "character-other/hollowmere-lin",
+    "character-other/hollowmere-yusra",
   ],
 } as const satisfies StoryChapterWritten
