@@ -178,7 +178,7 @@ export const overwhereITobinAshdown = {
     },
     {
       fact: "Tobin asks how many there were, and if it's true Voss is dead.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
