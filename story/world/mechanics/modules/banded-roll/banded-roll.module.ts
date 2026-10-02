@@ -23,6 +23,10 @@ export const bandedRoll = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A check settling this way may let each bonus run wider than four.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An act's bonuses add to at most six either way.",
     },
     {

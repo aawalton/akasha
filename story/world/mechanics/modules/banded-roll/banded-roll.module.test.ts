@@ -72,6 +72,12 @@ test("a single bonus past four is refused", () => {
   )
 })
 
+test("a check setting a wider bound takes a bonus up to that bound", () => {
+  expect(settled({ band: "hard", bonuses: [{ from: "a", by: 5 }] }, rolled(10), 5)).toMatchObject({
+    answered: { total: 15 },
+  })
+})
+
 test("a bonus naming no source is refused", () => {
   expect(settled({ band: "hard", bonuses: [{ from: " ", by: 1 }] }, rolled(10))).toHaveProperty(
     "refused"

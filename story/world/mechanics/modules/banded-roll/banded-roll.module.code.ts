@@ -11,15 +11,16 @@ const STRONG = 5
 
 const AT_A_COST = -4
 
-const BONUS = z.object({
-  from: z.string().trim().min(1),
-  by: z.number().int().min(-MOST_BONUS).max(MOST_BONUS),
-})
-
-const ACT = z.object({
-  band: z.enum(["easy", "standard", "hard", "extreme"]),
-  bonuses: z.array(BONUS).default([]),
-})
+function actOf(mostBonus: number) {
+  const bonus = z.object({
+    from: z.string().trim().min(1),
+    by: z.number().int().min(-mostBonus).max(mostBonus),
+  })
+  return z.object({
+    band: z.enum(["easy", "standard", "hard", "extreme"]),
+    bonuses: z.array(bonus).default([]),
+  })
+}
 
 type Outcome = "strong" | "success" | "cost" | "failure"
 
@@ -41,9 +42,13 @@ function outcomeOf(margin: number, roll: Rolled): Outcome {
   return "failure"
 }
 
-export function bandedSettled(reading: unknown, roll: Rolled | null): Settled {
+export function bandedSettled(
+  reading: unknown,
+  roll: Rolled | null,
+  mostBonus: number = MOST_BONUS
+): Settled {
   if (roll === null) return { refused: "an act is rolled, so settle it with --dice 1d20" }
-  const held = ACT.safeParse(reading)
+  const held = actOf(mostBonus).safeParse(reading)
   if (!held.success) return { refused: `an act reads so: ${z.prettifyError(held.error)}` }
   const added = held.data.bonuses.reduce((sum, one) => sum + one.by, 0)
   if (Math.abs(added) > MOST_BONUSES) {
