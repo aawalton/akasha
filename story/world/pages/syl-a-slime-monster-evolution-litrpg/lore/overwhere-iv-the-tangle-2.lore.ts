@@ -116,5 +116,29 @@ export const overwhereIvTheTangle2 = {
       fact: "Nala's rends killed both scouts, LV 4 and LV 3, silently at the foot of her bank.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "The six climb spread across some six paces of bank, in twos and threes, not in one line.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A line held across the bramble is unseen by the climbers, who push into it without slowing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Rising from the brambles, Nala is seen by every goblin on the bank, and they shriek it to the band.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "On the open trail goblins run no faster than she does; in the dark off it they keep pace better.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Short of seven dead, the maul-bearer sends the climbers and a slinger after a fleeing foe.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tull's fold lantern shows from the Tangle's edge, across the last two hundred paces of meadow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
