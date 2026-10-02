@@ -174,6 +174,10 @@ export const overwhereIRowanCoalby = {
         "lore/overwhere-i-rowan-coalby",
       ],
     },
+    {
+      fact: "While Nala shoots the snappers, Rowan holds Sedge back on the marsh, barking at them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
