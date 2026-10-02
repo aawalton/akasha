@@ -348,6 +348,14 @@ export const overwhereIiiCorruption = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "Two looped weaves took the stag's second stone to seven of eight; one thin dark thread is left.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
