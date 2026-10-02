@@ -184,5 +184,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Keeping the push gentle enough to spare the axle and the mule's nerves is moderate.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A day's practice of the cart push brings Starfall Surge nearer its next level, but not to it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
