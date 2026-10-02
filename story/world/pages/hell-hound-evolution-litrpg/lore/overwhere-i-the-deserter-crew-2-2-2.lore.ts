@@ -92,5 +92,9 @@ export const overwhereITheDeserterCrew222 = {
       fact: "The Drakewolf's hide wards 2, which a beam burns through; its bite is moderate for it to land.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Drakewolf only growls until she moves closer or strikes; it does not lunge first.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
