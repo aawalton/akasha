@@ -163,7 +163,7 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "From her deer trail the granite knoll is 400 yards west; on her hurt leg she tops it in 15 minutes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",

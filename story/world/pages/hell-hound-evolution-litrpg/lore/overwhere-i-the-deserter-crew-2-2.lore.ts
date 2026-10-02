@@ -14,15 +14,30 @@ export const overwhereITheDeserterCrew22 = {
     },
     {
       fact: "Through the lens, four men crossed the track's clearing two miles off, the third limping.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-harl-voss",
+        "character-other/overwhere-i-quarry-crewman-three",
+        "character-other/overwhere-i-quarry-crewman-five",
+        "character-other/overwhere-i-mirren-dask",
+      ],
     },
     {
       fact: "The last of the four, crossbow in hand, stopped at the clearing's edge and looked back at the knoll.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-mirren-dask",
+      ],
     },
     {
       fact: "Warned by the glint, Voss sets Crow and Crossbowman Five in ambush on the cart track's last mile.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Jays scolded along the cart track two miles off, where the four then crossed the clearing.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Lore
