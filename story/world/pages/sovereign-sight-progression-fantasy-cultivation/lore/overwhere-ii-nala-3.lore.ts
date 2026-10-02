@@ -44,5 +44,9 @@ export const overwhereIiNala3 = {
       fact: "Locks choked, Nala cannot cycle; she runs on refined muscle alone, faster than any man, not a hound.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Running choked, Nala could cover the twelve miles to Grey Shaw in about two hours.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
