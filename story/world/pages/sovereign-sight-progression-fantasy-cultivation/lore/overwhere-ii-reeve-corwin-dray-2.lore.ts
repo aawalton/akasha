@@ -211,5 +211,9 @@ export const overwhereIiReeveCorwinDray2 = {
       fact: "With Pip in hand, Dray still means to go on to Grey Shaw tonight and take the stash.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "On the road back Dray carries the coin box and, when Pip flags, the boy on his back.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
