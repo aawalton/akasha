@@ -24,6 +24,7 @@ export const overwhereIii00078 = {
     "Nala reaches into her Inventory to count. Her three. The one she pressed at the shrine. The wolf's.",
     "Five glimmerstones. Appraise costs five.",
   ],
+  issues: ['"Five glimmerstones. Enough for Appraise." - No Prompt'],
   lore: [
     "lore/overwhere-iii-marda-hesk",
     "lore/overwhere-iii-marda-hesk-2",
@@ -35,5 +36,6 @@ export const overwhereIii00078 = {
     "place/overwhere-iii-merrowgate",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-07T16:11:00.000Z",
 } as const satisfies StoryTurnPlayed
