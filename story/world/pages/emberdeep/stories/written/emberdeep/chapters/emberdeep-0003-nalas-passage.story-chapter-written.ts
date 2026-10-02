@@ -83,6 +83,7 @@ export const emberdeep0003NalasPassage = {
     "She falls asleep with twelve pennies in her purse and her new passage drawn on her map.",
     "A day in Emberdeep ends.",
   ],
+  issues: ['"turns and looks up at you, and waits" - No Prompt'],
   lore: [
     "lore/emberdeep-elowen",
     "lore/emberdeep-nala",
@@ -97,4 +98,5 @@ export const emberdeep0003NalasPassage = {
     "character-other/emberdeep-wren",
     "character-other/emberdeep-elowen",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
