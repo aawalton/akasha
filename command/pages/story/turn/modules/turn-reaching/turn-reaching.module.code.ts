@@ -199,9 +199,7 @@ export async function noticesSent(
   noun: Noun = TURN,
   toMaster = ""
 ): Promise<undefined> {
-  if (status === PLAYER && noun === TURN) {
-    await readyTold(reach.readyPushed, root, game, turn, after.report)
-  }
+  if (status === PLAYER) await readyTold(reach.readyPushed, root, game, turn, after.report, noun)
   if (master === null) {
     after.faults.push(
       `\`${game}\` names no game master seat, so no seat was told the ${noun} moved`

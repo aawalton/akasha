@@ -46,6 +46,10 @@ export const turnReaching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A move to player pushes Alan for a written chapter as for a played turn.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A turn is held by a lock beside its page, which one process holds at a time.",
     },
     {

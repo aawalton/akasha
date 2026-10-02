@@ -4,7 +4,7 @@ export const turnReadyPushing = {
   id: "01a0e3eb-c9e7-75fd-af32-1f1ab36836f3",
   type: "page-type/module",
   slug: "turn-ready-pushing",
-  definition: "the push telling Alan a played turn is ready for him",
+  definition: "the push telling Alan the next part of a story is ready for him",
   code: "ts",
   test: "ts",
   decisions: [
@@ -19,6 +19,15 @@ export const turnReadyPushing = {
     {
       decisionKind: "decision-kind/departure",
       statement: "That notification links to the played story's page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A written chapter at player is a notification too, titled with its story's title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chapter's notification names the chapter and links to the chapter's own page.",
     },
     {
       decisionKind: "decision-kind/departure",

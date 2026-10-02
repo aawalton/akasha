@@ -108,7 +108,7 @@ export const storyTurnAdvance = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A written chapter reaching player pushes Alan nothing.",
+      statement: "A written chapter reaching player pushes Alan that the chapter is ready.",
     },
     {
       decisionKind: "decision-kind/departure",

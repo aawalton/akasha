@@ -1,8 +1,40 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { rmSync } from "node:fs"
+import {
+  AT,
+  CHAPTER_AT,
+  MASTER,
+  pushingReach,
+  ROOT,
+  seen,
+} from "akasha/command/pages/story/turn/advance/story-turn-advance.command.test-fixtures.ts"
 import {
   type LoreLooking,
   loreNamed,
 } from "akasha/command/pages/story/turn/modules/turn-lore-in-play/turn-lore-in-play.module.code.ts"
+import {
+  noticesSent,
+  type Told,
+} from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
+
+afterAll(() => rmSync(ROOT, { recursive: true, force: true }))
+
+const GAME = "the-saga"
+
+test("a move to player pushes Alan for a written chapter as for a played turn, and no other move does", async () => {
+  const pushed: string[] = []
+  const reach = pushingReach(seen(), pushed)
+  const after: Told = { report: [], faults: [] }
+  await noticesSent(reach, ROOT, GAME, MASTER, CHAPTER_AT, "player", after, [], "chapter")
+  await noticesSent(reach, ROOT, GAME, MASTER, AT, "player", after)
+  await noticesSent(reach, ROOT, GAME, MASTER, CHAPTER_AT, "recorders", after, [], "chapter")
+  expect(pushed).toEqual([`chapter ${GAME} ${CHAPTER_AT}`, `turn ${GAME} ${AT}`])
+  expect(after.report.filter((one) => one.startsWith("pushed"))).toEqual([
+    `pushed\t${GAME}`,
+    `pushed\t${GAME}`,
+  ])
+  expect(after.faults).toEqual([])
+})
 
 const GRACE = "character-other/grace"
 

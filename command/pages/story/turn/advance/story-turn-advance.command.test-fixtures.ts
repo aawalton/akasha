@@ -283,6 +283,16 @@ export function chapterReach(
   }
 }
 
+export function pushingReach(into: Seen, pushed: string[]): Reach {
+  return {
+    ...reachOver(turnAt("player"), seatOf("game-master", MASTER), into),
+    readyPushed: async (_root, game, at, noun) => {
+      pushed.push(`${noun} ${game} ${at}`)
+      return null
+    },
+  }
+}
+
 export const CALLED = "akasha story turn advance"
 
 export const ROOT = mkdtempSync(join("/var/tmp", "story-turn-advance-test-"))
