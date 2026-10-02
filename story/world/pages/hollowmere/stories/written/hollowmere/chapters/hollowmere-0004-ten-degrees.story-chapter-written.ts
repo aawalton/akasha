@@ -10,7 +10,7 @@ export const hollowmere0004TenDegrees = {
   story: "story-written/hollowmere",
   ownLength: 5673,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Thursday: you wake at six, before Bea's knock, with Shiv's \"some morning\" in your head.",
     "You pull on the fisherman's jumper over your knickers and bra and creep down to the shore.",
@@ -65,6 +65,7 @@ export const hollowmere0004TenDegrees = {
   issues: [
     '"her small tits tight-nippled, the sandy tuft over her cunt" - Hollowmere Explicitness',
     '"between her small tits. You watch it go." - Hollowmere Explicitness',
+    '"Thornfield custom. Since forever." - Bea is not among those who know the Thursday cocoa custom',
   ],
   lore: [
     "lore/hollowmere-amara",
@@ -89,5 +90,5 @@ export const hollowmere0004TenDegrees = {
     "character-other/hollowmere-lin",
     "character-other/hollowmere-yusra",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
