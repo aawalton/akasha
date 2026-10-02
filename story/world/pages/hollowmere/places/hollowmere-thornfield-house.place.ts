@@ -60,5 +60,13 @@ export const hollowmereThornfieldHouse = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Thornfield's laundry room is in the cellar: three washers, two dryers, and a queue every Sunday.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
 } as const satisfies Place

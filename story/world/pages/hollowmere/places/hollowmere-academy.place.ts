@@ -268,5 +268,40 @@ export const hollowmereAcademy = {
         "character-other/hollowmere-penhallow",
       ],
     },
+    {
+      fact: "On Sundays the Great Hall serves a roast at one, and nothing else hot until breakfast.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
+    {
+      fact: "The boathouse on the academy shore lends rowing boats to students on Sunday afternoons.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
+    {
+      fact: "The library opens at noon on Sundays and stays open until midnight.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
   ],
 } as const satisfies Place
