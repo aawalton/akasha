@@ -10,7 +10,7 @@ export const overwhereITheDeserterCrew222 = {
   facts: [
     {
       fact: "Voss's sack holds the toll: 36 silver and 40 copper.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "On Voss: a purse of 1 gold 2 silver, his sword, and a sealed letter folded in his jerkin.",
