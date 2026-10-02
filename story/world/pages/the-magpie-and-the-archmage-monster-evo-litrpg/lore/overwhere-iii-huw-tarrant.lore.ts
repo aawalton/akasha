@@ -27,7 +27,11 @@ export const overwhereIiiHuwTarrant = {
     },
     {
       fact: "The scar draws his right hand half-shut, so his grip on a rope or a goad is weak.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-huw-tarrant"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-huw-tarrant",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Huw knows the Thornmere road and every farm along it, and hears all the drovers' talk.",
