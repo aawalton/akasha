@@ -7,7 +7,13 @@ export const overwhereI00083 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 83,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "30 yards is in range. I focus two separate beams of fire, one from each hand, and have then intersect at each target, focusing each man in turn until they drop.",
+  lore: [
+    "lore/overwhere-i-starfall-legacy",
+    "lore/overwhere-i-starfall-legacy-2",
+    "lore/overwhere-i-the-deserter-crew-2",
+    "lore/overwhere-i-the-deserter-crew-2-2",
+  ],
 } as const satisfies StoryTurnPlayed
