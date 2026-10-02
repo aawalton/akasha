@@ -4,10 +4,13 @@ export const overwhereIv00072 = {
   id: "01a0fe86-ce05-77fd-aaf9-ec784282797c",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-072",
+  ownLength: 162,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 72,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I blow the horn, then watch to see what the torches do, ready to slice goblins if they approach",
   beats: [
@@ -22,6 +25,12 @@ export const overwhereIv00072 = {
     "Grey light comes up behind the town. The Tangle's edge stands dark and quiet across the meadow.",
     'Aldo wakes, blinking. He looks at the trees, then at her. "Will you watch again tonight?"',
   ],
-  lore: ["place/overwhere-iv-the-tangle", "place/overwhere-iv-tull-farm"],
+  lore: [
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "lore/overwhere-iv-nala-3",
+    "place/overwhere-iv-the-tangle",
+    "place/overwhere-iv-tull-farm",
+  ],
   endsAt: "2026-10-06T06:30:00.000Z",
 } as const satisfies StoryTurnPlayed
