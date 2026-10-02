@@ -213,7 +213,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 41,
-      cover: "image/image-5ffdd2923a2d4e8b",
+      cover: "image/image-78787d9a347413cf",
       coverAfter: "About forty feet out, the big bookworm lifts its head. It's waist",
     },
     {
