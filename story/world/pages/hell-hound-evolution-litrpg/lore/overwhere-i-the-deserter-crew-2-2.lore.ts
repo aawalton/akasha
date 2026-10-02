@@ -194,5 +194,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Once one falls, the rest turn and loose up at the rim; a beam at a man shooting back is hard.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At the first beam Voss snatches the sack and runs east out of the fold, shield on his back.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
