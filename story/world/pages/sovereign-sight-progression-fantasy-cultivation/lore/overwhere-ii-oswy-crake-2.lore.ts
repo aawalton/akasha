@@ -135,5 +135,9 @@ export const overwhereIiOswyCrake2 = {
       fact: "After Crake fell and Bet called to Wil, both crossbows in the loft clattered down.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "After Crake fell, the beck gully behind Ashlin Farm's barn went quiet.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore

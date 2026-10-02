@@ -91,5 +91,9 @@ export const overwhereIiBetLoddon = {
       fact: "From the loft Wil calls that both bows are down, and asks leave to come down the ladder unarmed.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "After Crake fell, Bet stood sobbing out in Ashlin Farm's lane.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore

@@ -36,5 +36,9 @@ export const overwhereIiNala3 = {
       fact: "Nothing in the valley clears the venom faster; it must wear off on its own.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's Push beaded dark, bitter fluid at the prick and shifted the dart, but did not free it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
