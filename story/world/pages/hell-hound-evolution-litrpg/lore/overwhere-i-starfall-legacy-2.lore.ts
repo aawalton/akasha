@@ -180,5 +180,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "A held air push behind a cart lifts its pace from 3 to 4 miles an hour, at 10 mana a minute.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Keeping the push gentle enough to spare the axle and the mule's nerves is moderate.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
