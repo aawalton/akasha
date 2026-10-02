@@ -108,5 +108,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Heating a worn steel cap is an easy act within reach, at the stone-heating cost.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A Surge fire beam costs 20 mana a shot and burns through 2 points of ward.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
