@@ -25,7 +25,7 @@ export const overwhereIiBetLoddon = {
     },
     {
       fact: "When Dray names Crake to her face, Bet breaks and weeps, and begs them not to kill her brothers.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Pressed, Bet tells that Crake and all four of his men wait at Ashlin Farm, which is empty.",
