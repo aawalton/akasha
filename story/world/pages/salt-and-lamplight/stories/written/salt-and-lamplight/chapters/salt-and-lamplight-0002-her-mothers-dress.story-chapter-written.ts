@@ -10,7 +10,7 @@ export const saltAndLamplight0002HerMothersDress = {
   story: "story-written/salt-and-lamplight",
   ownLength: 3285,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   beats: [
     "Nala wakes in the loft at grey dawn, still in this small body, still Nala.",
     "She lies a while with a hand on her tits under the shift; it doesn't feel like a dream.",
@@ -67,7 +67,7 @@ export const saltAndLamplight0002HerMothersDress = {
     "Looking out to sea, Morwenna says Granny's stranger is likely an old woman's tale.",
     "Nala asks what if it isn't; Morwenna doesn't answer, and goes down first.",
     "In the loft that night Nala hears Morwenna below, awake, turning pages by the spare oil.",
-    "Nala falls asleep to the sound, her second night as Nala.",
+    "Below, the pages stop turning for a long while, and the lamp's glow comes round on the slates.",
   ],
   issues: [
     '"her boots ringing on the iron stair" - the tower stair has stone treads earlier in the chapter',
