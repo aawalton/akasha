@@ -10,7 +10,7 @@ export const overwhereIi00081 = {
   position: 81,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "I come over and give a guard salute. “Sir.”",
   beats: [
     "Nala comes down the lane to the Reeve's door and gives the knight a crisp guard's salute.",
@@ -21,7 +21,7 @@ export const overwhereIi00081 = {
     'Sir Edric, low and unhurried, the vowels clipped: "Nala. Sir Edric Hale, of House Varrow."',
     'Sir Edric: "I heard on the road in that Oswy Crake is dead, and by your hand."',
     "Sir Edric: \"In Lady Varrow's name, I thank you. He's been a blight on that road a long year.\"",
-    "He glances up the valley, toward the white heads of the Whitecombs.",
+    "He glances south, across the valley, toward the white heads of the Whitecombs.",
     'Sir Edric: "The stone here hums. Faintly. Even the Reeve\'s doorpost leans toward those peaks."',
     'Sir Edric: "Dray writes that you found a crag split open up there, and something pulling under it."',
     'Sir Edric: "I\'d have you lead me up to it tomorrow, and tell me of the pull, there, on the spot."',
