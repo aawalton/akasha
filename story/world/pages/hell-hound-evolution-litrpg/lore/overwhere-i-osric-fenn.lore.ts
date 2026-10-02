@@ -273,6 +273,10 @@ export const overwhereIOsricFenn = {
         "lore/overwhere-i-tobin-ashdown",
       ],
     },
+    {
+      fact: "Osric's mule is spent from its bolt; he will not roll before first light, about 5:30.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
