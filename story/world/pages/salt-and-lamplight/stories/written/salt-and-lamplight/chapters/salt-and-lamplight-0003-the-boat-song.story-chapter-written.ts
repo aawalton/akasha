@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const saltAndLamplight0003 = {
+export const saltAndLamplight0003TheBoatSong = {
   id: "01a0fd3b-b750-7e6e-93d6-4356d7c91151",
   type: "page-type/story-chapter-written",
-  slug: "salt-and-lamplight-0003",
+  slug: "salt-and-lamplight-0003-the-boat-song",
   position: 3,
   unit: "unit/words",
-  title: "Chapter 3",
+  title: "The Boat Song",
   story: "story-written/salt-and-lamplight",
-  ownLength: 0,
+  ownLength: 3147,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Nala wakes to the slates rattling; the wind has swung round to the north in the night.",
     "Below, Morwenna is already dressed, at the window, watching a sky gone yellow-grey.",
@@ -64,7 +64,12 @@ export const saltAndLamplight0003 = {
   ],
   lore: [
     "lore/salt-and-lamplight-morwenna",
+    "lore/salt-and-lamplight-nala",
     "lore/salt-and-lamplight-world",
     "place/salt-and-lamplight-morrow-head",
+  ],
+  characters: [
+    "character-player/salt-and-lamplight-nala",
+    "character-other/salt-and-lamplight-morwenna",
   ],
 } as const satisfies StoryChapterWritten
