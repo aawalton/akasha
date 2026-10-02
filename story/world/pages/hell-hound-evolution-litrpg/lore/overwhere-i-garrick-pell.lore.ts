@@ -97,7 +97,7 @@ export const overwhereIGarrickPell = {
     },
     {
       fact: "Garrick offers his salt and a hand packing the head in the Stag's back room tonight.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
