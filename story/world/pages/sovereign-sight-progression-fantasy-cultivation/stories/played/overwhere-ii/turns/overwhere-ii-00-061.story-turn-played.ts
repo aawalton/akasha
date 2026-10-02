@@ -4,13 +4,14 @@ export const overwhereIi00061 = {
   id: "01a0fd32-6e6b-7f39-84d8-c9f2af125d16",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-061",
+  cover: "image/image-f713671bbd1c3517",
   ownLength: 288,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 61,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I pick up my commissioned spear from Hob and check with Anselm on the next steps for my refining",
   beats: [
@@ -41,6 +42,11 @@ export const overwhereIi00061 = {
     "place/overwhere-ii-tarrant-smithy",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-07T07:50:00.000Z",
 } as const satisfies StoryTurnPlayed
