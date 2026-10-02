@@ -4,13 +4,14 @@ export const hollowmere0014Pressure = {
   id: "01a0fea2-c0c7-74d3-b7b8-1eb8473d3ee6",
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0014-pressure",
+  cover: "image/image-2e12ba71b8c5002a",
   position: 14,
   unit: "unit/words",
   title: "Pressure",
   story: "story-written/hollowmere",
   ownLength: 2685,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "Sunday: the storm wakes you before dawn, rain hurled at the window, the old frame rattling.",
     "From the window the mere is white, waves running at the shore, the fells gone in grey cloud.",
@@ -65,6 +66,7 @@ export const hollowmere0014Pressure = {
     "lore/hollowmere-shiv",
     "lore/hollowmere-world",
     "lore/hollowmere-yusra",
+    "place/hollowmere-thornfield-house",
   ],
   characters: [
     "character-player/hollowmere-nala",
@@ -76,5 +78,35 @@ export const hollowmere0014Pressure = {
     "character-other/hollowmere-yusra",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
+  scenes: [
+    "image/image-5044081892ae020b",
+    "image/image-2e12ba71b8c5002a",
+    "image/image-a3b56ed848fa9107",
+  ],
+  pictured: [
+    {
+      cover: "image/image-5044081892ae020b",
+      coverAfter: "You sit on your bed together with your backs against the wall,",
+      character: "character-other/hollowmere-shiv",
+      outfit: "white T-shirt under Nala's grey wool jumper, bare feet",
+    },
+    {
+      cover: "image/image-2e12ba71b8c5002a",
+      coverAfter: "She's there already, from nowhere, in a jumper and jeans, her hair down loose,",
+      character: "character-other/hollowmere-yusra",
+      outfit: "dark jumper and jeans, hair down loose",
+    },
+    {
+      cover: "image/image-a3b56ed848fa9107",
+      coverAfter: "Kit is sleeping on Bea's floor tonight. You saw her on your way",
+      character: "character-other/hollowmere-kit",
+      outfit: "Bea's pyjamas, far too long, rolled up at the ankles",
+    },
+  ],
 } as const satisfies StoryChapterWritten
