@@ -32,5 +32,6 @@ export const overwhereIv00062 = {
     "place/overwhere-iv-crake-gill",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-10-04T14:40:00.000Z",
 } as const satisfies StoryTurnPlayed
