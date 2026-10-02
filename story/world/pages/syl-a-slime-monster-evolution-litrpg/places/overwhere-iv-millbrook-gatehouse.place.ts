@@ -298,6 +298,14 @@ export const overwhereIvMillbrookGatehouse = {
       ],
     },
     {
+      fact: "Paid for, Holt issues a fresh blunted practice spear from stores at the next drill.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At drill after the wolf, Dell says nothing scoffing at all, and Wat wants the whole tale.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The gate guard who sees a blade wolf's head carried in will have it round the gatehouse by dusk.",
       knowers: ["lore-disclosure/game-master"],
     },
