@@ -10,7 +10,11 @@ export const overwhereIiiMardaHesk2 = {
   facts: [
     {
       fact: "Nala pressed the specks from Marda's seed stones into her own glimmerstone.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "Of the wolf's glimmerstone, Marda said: 'Yours. As I said. That's the last of what I was holding.'",
