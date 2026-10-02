@@ -10,7 +10,7 @@ export const hollowmere0016WhoseWanting = {
   story: "story-written/hollowmere",
   ownLength: 2975,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Tuesday: frost on the shingle at dawn; you and Shiv swim to the buoy and back through the steam.",
     "The red-cheeked second-year reads out your time: five minutes. Shiv whistles, impressed.",
@@ -68,7 +68,10 @@ export const hollowmere0016WhoseWanting = {
     "You fall asleep with the essay on your chest and the question still open.",
     "A day at Hollowmere ends.",
   ],
-  issues: ['"Tell no one," Amara says. - Plain Negation'],
+  issues: [
+    '"Tell no one," Amara says. - Plain Negation',
+    '"Yusra is at the infirmary until six" - Nala was told only Tuesdays and Thursdays, never the hours',
+  ],
   lore: [
     "lore/hollowmere-academy-2",
     "lore/hollowmere-amara",
@@ -94,5 +97,5 @@ export const hollowmere0016WhoseWanting = {
     "character-other/hollowmere-amara",
     "character-other/hollowmere-yusra",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
