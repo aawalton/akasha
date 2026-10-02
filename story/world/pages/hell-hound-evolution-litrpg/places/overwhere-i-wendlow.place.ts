@@ -156,5 +156,9 @@ export const overwhereIWendlow = {
       fact: "From the gate to Antler Hall up the high street is about ten minutes on foot.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Antler Hall is a timbered hall hung with antlers and old bounty slips; a long counter runs its back.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
