@@ -176,7 +176,7 @@ export const overwhereIRowanCoalby = {
     },
     {
       fact: "While Nala shoots the snappers, Rowan holds Sedge back on the marsh, barking at them.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
