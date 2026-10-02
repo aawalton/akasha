@@ -143,5 +143,13 @@ export const overwhereIvTullFarm = {
       fact: "At dawn of day 8, Aldo asked Nala whether she would watch again that night.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Told Nala won't watch again, Aldo says he and his da will sit up themselves.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tull takes back his lantern at dawn and says only that she'll be welcome again.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
