@@ -164,7 +164,7 @@ export const overwhereITheDeserterCrew22 = {
     },
     {
       fact: "Below the rim lie a turf hut, a smoky fire and four charcoal mounds facing the track.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "From the rim, 30 yards above, three men show crouched behind the mounds, watching the track.",
