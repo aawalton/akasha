@@ -18,7 +18,7 @@ export const overwhereIiiCorruption2 = {
     },
     {
       fact: "The bite's dark thread leads straight to the fox's sett; to Nala's sight the fox is a dark smear.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "A corrupted beast of about Level 5, killed, leaves a small blightstone that three weaves crack.",
