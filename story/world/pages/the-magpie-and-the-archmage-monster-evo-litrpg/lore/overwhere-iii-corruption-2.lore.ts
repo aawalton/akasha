@@ -12,5 +12,9 @@ export const overwhereIiiCorruption2 = {
       fact: "The corrupted fox fights in quick darting bites at the legs, and bolts for its sett when hurt.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The fox's bite lays blight; by day it lies up in its sett, and it raids the coops at night.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
