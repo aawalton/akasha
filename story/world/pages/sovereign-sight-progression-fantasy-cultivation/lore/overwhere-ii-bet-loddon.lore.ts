@@ -55,5 +55,13 @@ export const overwhereIiBetLoddon = {
       fact: "Bet knows nothing of where Crake keeps his captives, only that he has some.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Bet walks down the road beside Nala, too frightened to give Crake's men a sign either way.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "On the road Bet asks Nala, low, whether her brothers will hang.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
