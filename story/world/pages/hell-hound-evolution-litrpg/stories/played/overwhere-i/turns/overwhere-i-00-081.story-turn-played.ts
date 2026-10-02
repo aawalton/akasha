@@ -11,4 +11,5 @@ export const overwhereI00081 = {
   action:
     "I finish off the two crossbow men with the beam through their heads or necks, then turn to find the others",
   lore: ["lore/overwhere-i-the-deserter-crew-2", "lore/overwhere-i-the-deserter-crew-2-2"],
+  endsAt: "2026-10-03T16:19:00.000Z",
 } as const satisfies StoryTurnPlayed
