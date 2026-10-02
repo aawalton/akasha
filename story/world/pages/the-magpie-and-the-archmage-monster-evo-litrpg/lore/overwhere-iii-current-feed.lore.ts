@@ -14,7 +14,7 @@ export const overwhereIiiCurrentFeed = {
     },
     {
       fact: "[Current Feed – At [Basic] level, feed a holy weave from white-gold current, not your own well.]",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "A fed weave reads own 0 and spends none of her mana; the raw current's burn costs her 1 health.",
