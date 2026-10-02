@@ -4,13 +4,14 @@ export const overwhereI00068 = {
   id: "01a0fd2a-f6f8-765d-9c9a-54f1057e60a6",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-068",
+  cover: "image/image-8571239ba03b77f6",
   ownLength: 291,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 68,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“He’ll be safe enough as long as he’s with me. If he runs off in his own though, that’s on him.” I tell Bet, then take a bath before bed.",
   beats: [
@@ -42,6 +43,11 @@ export const overwhereI00068 = {
     "place/overwhere-i-greyback-and-east-road",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-03T15:00:00.000Z",
 } as const satisfies StoryTurnPlayed
