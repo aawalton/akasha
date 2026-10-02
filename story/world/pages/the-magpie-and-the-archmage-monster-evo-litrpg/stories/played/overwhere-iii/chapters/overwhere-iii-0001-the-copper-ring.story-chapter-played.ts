@@ -68,7 +68,7 @@ export const overwhereIii0001TheCopperRing = {
     },
     {
       position: 12,
-      cover: "image/image-6dbf0a84736941de",
+      cover: "image/image-5581b58cf814289c",
       coverAfter: "Something is already there, feeding. It is a big gray-brown rabbit with",
     },
     {
