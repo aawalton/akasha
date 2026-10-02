@@ -97,7 +97,7 @@ export const overwhereIiOswyCrake = {
     },
     {
       fact: "The woman is Bet Loddon, the Loddon brothers' sister, and her son's fever is a story Crake paid for.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Ashlin Farm lies empty half a day down the valley road, its folk gone to Carrowmouth last autumn.",
