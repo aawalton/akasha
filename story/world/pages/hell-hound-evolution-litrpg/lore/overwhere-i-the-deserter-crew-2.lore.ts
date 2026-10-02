@@ -234,5 +234,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "The pit's back wall holds four gallery mouths, each cut about ten yards into the rock.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Blademen One and Two lie in the easternmost gallery, behind a heap of spoil.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
