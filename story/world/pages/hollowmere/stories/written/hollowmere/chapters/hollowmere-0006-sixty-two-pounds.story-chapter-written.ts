@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0006 = {
+export const hollowmere0006SixtyTwoPounds = {
   id: "01a0fdf3-2a3b-70df-85ff-abe7cbd20b6b",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0006",
+  slug: "hollowmere-0006-sixty-two-pounds",
   position: 6,
   unit: "unit/words",
-  title: "Chapter 6",
+  title: "Sixty-Two Pounds",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 4402,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Saturday: you sleep through half six; Bea, cidered too, sleeps through it as well.",
     "You wake at ten with a dry mouth and a soft head, and the sun full on the mere.",
@@ -58,5 +58,22 @@ export const hollowmere0006 = {
     "It's about the thread, and the mere, and wanting light; this time you keep every word.",
     "A day at Hollowmere ends.",
   ],
-  lore: ["lore/hollowmere-nala", "place/hollowmere-academy", "place/hollowmere-kendal"],
+  lore: [
+    "lore/hollowmere-amara",
+    "lore/hollowmere-bea",
+    "lore/hollowmere-kit",
+    "lore/hollowmere-lin",
+    "lore/hollowmere-nala",
+    "lore/hollowmere-priya",
+    "place/hollowmere-academy",
+    "place/hollowmere-kendal",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-lin",
+    "character-other/hollowmere-priya",
+    "character-other/hollowmere-kit",
+    "character-other/hollowmere-amara",
+  ],
 } as const satisfies StoryChapterWritten
