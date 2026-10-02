@@ -16,4 +16,5 @@ export const overwhereIii00061 = {
     "lore/overwhere-iii-mending-weave",
     "place/overwhere-iii-crook-and-candle",
   ],
+  endsAt: "2026-10-06T07:00:00.000Z",
 } as const satisfies StoryTurnPlayed
