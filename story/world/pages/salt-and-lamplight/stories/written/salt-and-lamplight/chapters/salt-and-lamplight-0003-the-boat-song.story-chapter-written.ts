@@ -10,7 +10,7 @@ export const saltAndLamplight0003TheBoatSong = {
   story: "story-written/salt-and-lamplight",
   ownLength: 3147,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Nala wakes to the slates rattling; the wind has swung round to the north in the night.",
     "Below, Morwenna is already dressed, at the window, watching a sky gone yellow-grey.",
@@ -62,6 +62,9 @@ export const saltAndLamplight0003TheBoatSong = {
     "Nala's head drops onto Morwenna's shoulder, and Morwenna lets it lie there.",
     "Morwenna goes on singing, the next song and the next, and the beam goes round over them.",
   ],
+  issues: [
+    '"You stand at the cottage window" - Morwenna swung every cottage shutter closed that morning',
+  ],
   lore: [
     "lore/salt-and-lamplight-morwenna",
     "lore/salt-and-lamplight-nala",
@@ -72,5 +75,5 @@ export const saltAndLamplight0003TheBoatSong = {
     "character-player/salt-and-lamplight-nala",
     "character-other/salt-and-lamplight-morwenna",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
