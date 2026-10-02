@@ -10,7 +10,7 @@ export const overwhereIv00071 = {
   position: 71,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "“Sorry, but no. You’re a good group, but I’d like to work on my own for now. Thank you for the offer.” I go over to Ilsa. “I can do a night watch tonight.”",
   beats: [
