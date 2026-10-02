@@ -8,9 +8,9 @@ export const hollowmere0001Thornfield14 = {
   unit: "unit/words",
   title: "Thornfield 14",
   story: "story-written/hollowmere",
-  ownLength: 7036,
+  ownLength: 6979,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "You remember dozing over a book at your back window, as Alan, one evening.",
     "You wake in a narrow bed under a window on grey water, in cold bright light.",
