@@ -7,9 +7,21 @@ export const overwhereIv00062 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 62,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I count that as progress for today, then quietly move around until I can get sight on the wolf and finish it.",
+  beats: [
+    "That's progress for today. Nala opens her eyes and backs away from the gully's edge, slow and quiet.",
+    "She circles north, up onto the gully's rim. Soft heather underfoot, the wind still in her face.",
+    "She creeps along the rim toward the gully's head, feeling ahead for each step.",
+    "Fifty paces. The heather muffles her. Below and ahead, the gorse hides the hollow under the rock.",
+    "She edges closer, looking for a gap to see through.",
+    "Under the heather, a stone she took for solid turns beneath her foot.",
+    "It rolls, and goes clattering down the gully side, knocking others loose.",
+    "Below, the great shape under the rock is on its feet before the last stone stops.",
+    "It bursts out from under the shelf: grey-black, tall as a pony, the ridge on its back raised.",
+    "Silent, it makes straight for the scramble below her, at a dead run.",
+  ],
   lore: ["place/overwhere-iv-crake-gill"],
   endsAt: "2026-10-04T14:40:00.000Z",
 } as const satisfies StoryTurnPlayed
