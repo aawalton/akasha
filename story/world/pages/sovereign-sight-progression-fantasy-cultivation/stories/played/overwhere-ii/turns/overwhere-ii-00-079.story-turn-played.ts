@@ -10,7 +10,7 @@ export const overwhereIi00079 = {
   position: 79,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I eat and drink. “Anything else you need from me, Dray? Otherwise, I’m back to refining.”",
   beats: [
@@ -40,6 +40,6 @@ export const overwhereIi00079 = {
     "lore/overwhere-ii-reeve-corwin-dray-2",
     "place/overwhere-ii-ashlin-farm",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-15T12:30:00.000Z",
 } as const satisfies StoryTurnPlayed
