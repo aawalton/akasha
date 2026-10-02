@@ -340,6 +340,10 @@ export const overwhereIiiMardaHesk = {
       fact: "Marda's own traits: Inventory, a stone-hard grip, and a nose for danger, all at Novice.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
+    {
+      fact: "Marda lets Nala's 'just curious' lie, but marks it; she reckons the girl is more than she says.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
