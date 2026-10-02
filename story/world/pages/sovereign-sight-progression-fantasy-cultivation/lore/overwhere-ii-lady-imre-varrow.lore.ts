@@ -88,6 +88,26 @@ export const overwhereIiLadyImreVarrow = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Lady Varrow heard weeks ago of a stranger who drew greymaw rot from Garth Marsh's girl.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Garth's plea reached her, and she had no Talent to spare; Wren's life is a debt she owes Nala.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She values a Talent that draws rot above any sword, since the valley has no healer of that kind.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She knows Marsh Croft lies under the fells below Hollow Tarn, and the frost on her chair thickens.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She notes Nala gave a name, not a place, and lets it lie for now.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "She asks to look at Nala through her glass from the Spires, and does not say what she hopes to see.",
       knowers: ["lore-disclosure/game-master"],
     },
