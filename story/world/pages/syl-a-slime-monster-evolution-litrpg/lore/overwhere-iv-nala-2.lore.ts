@@ -333,5 +333,17 @@ export const overwhereIvNala2 = {
       fact: "Dawn drill with her sharpened spear raised Nala's Spearmanship to LV 4.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Eyes shut, a rend has no spot for her eye to fix on, and won't form; nothing is spent.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Eyes shut, her always-on sense lets her walk firm ground slowly, but not run or judge mud.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Spatial Sense feels shapes, not tracks: prints and drag marks in mud are only faint dents.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
