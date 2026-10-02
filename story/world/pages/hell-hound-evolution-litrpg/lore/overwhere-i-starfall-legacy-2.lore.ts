@@ -32,5 +32,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "A guided slug is held on its path within 30 yards: one band easier, for 10 more mana.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Her Weave can hold an air ward against missiles beside guided slugs; each missile turned costs 10.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
