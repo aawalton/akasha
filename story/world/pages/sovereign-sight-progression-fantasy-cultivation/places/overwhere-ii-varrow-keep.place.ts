@@ -30,10 +30,14 @@ export const overwhereIiVarrowKeep = {
     },
     {
       fact: "A guest who reaches the Keep after noon is fed and lodged, and the Lady receives them next morning.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The Keep's roofs are patched, its walls stained dark with old rain.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "The Lady receives guests in a long, draughty hall up a winding stair, a fire smoking at one end.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
