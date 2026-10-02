@@ -17,6 +17,8 @@ export const hollowmereVillage = {
         "character-other/hollowmere-amara",
         "character-other/hollowmere-shiv",
         "character-other/hollowmere-penhallow",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
       ],
     },
     {
@@ -26,6 +28,9 @@ export const hollowmereVillage = {
         "character-other/hollowmere-yusra",
         "character-other/hollowmere-shiv",
         "character-other/hollowmere-penhallow",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-lin",
       ],
     },
     {
@@ -55,6 +60,35 @@ export const hollowmereVillage = {
         "lore-disclosure/game-master",
         "character-other/hollowmere-yusra",
         "character-other/hollowmere-penhallow",
+      ],
+    },
+    {
+      fact: "The village shop sells bread, milk, stamps, postcards, charms in paper packets, ink and paper.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "The tearoom by the village jetty does warm scones the size of fists, with cream and jam.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "The village charity shop sells second-hand black gowns, old jumpers and books.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-lin",
       ],
     },
   ],

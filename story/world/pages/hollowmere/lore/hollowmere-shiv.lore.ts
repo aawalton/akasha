@@ -65,7 +65,13 @@ export const hollowmereShiv = {
     },
     {
       fact: "Shiv swims in the mere every dawn, forbidden or not, and has since arriving a week early.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-shiv"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-lin",
+      ],
     },
     {
       fact: "Shiv likes girls, and has had more girlfriends than she can easily count.",
@@ -91,6 +97,46 @@ export const hollowmereShiv = {
         "character-other/hollowmere-shiv",
         "character-player/hollowmere-nala",
         "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Shiv goes into the mere off a flat slab of rock near Thornfield, where it is deep straight off.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "Shiv plays the Drowned Bell jukebox's one Pogues record every night.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Shiv dared Nala to put her feet in the mere off her rock; Nala did, and shrieked at the cold.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "Shiv asked Nala to swim in the mere with her some morning, and Nala said maybe.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
       ],
     },
   ],

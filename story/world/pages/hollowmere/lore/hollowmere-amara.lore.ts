@@ -99,6 +99,18 @@ export const hollowmereAmara = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "Amara touched Nala's shoulder in the village tearoom in passing, and called her Freckles.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-amara",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-yusra",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

@@ -135,10 +135,38 @@ export const hollowmereNala = {
     },
     {
       fact: "Nala keeps what she saw of Kit through the Practice Hall window to herself, telling no one.",
-      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
     },
     {
       fact: "Nala's Wednesday: Sigils at ten in the Drawing Room, and the afternoon free.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
+    {
+      fact: "On Wednesday Nala ran ten minutes along the shore at Bea's slow pace, double Tuesday's.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Nala drew a clean glim sigil in ink in her first Sigils class, and the tutor said good.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
+    {
+      fact: "On Wednesday evening Nala's glim spark rose an inch off her palm and lasted two heartbeats.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Nala typed Alan's old number into the empty phone, then deleted it unsent.",
       knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
     },
   ],

@@ -63,6 +63,7 @@ export const hollowmereLin = {
         "lore-disclosure/game-master",
         "character-other/hollowmere-lin",
         "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
       ],
     },
     {
@@ -94,6 +95,41 @@ export const hollowmereLin = {
         "character-other/hollowmere-lin",
         "character-player/hollowmere-nala",
         "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: 'In Sigils the tutor held Lin\'s page of glims up to the whole Drawing Room: "This is a sigil."',
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "Lin gave Nala a softer nib, and showed her how to hold the pen loose and load less ink.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Lin bought black ink at the village shop, and a 1953 book of sigils at the charity shop.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-shiv",
+      ],
+    },
+    {
+      fact: "Nala took Lin's hand when her glim rose; Lin let her, then took it back gently, pink.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
       ],
     },
   ],

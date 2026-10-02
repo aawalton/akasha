@@ -107,6 +107,22 @@ export const hollowmereKit = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Nala told Kit she saw the best glims in the year, Kit's, and has told no one and will not.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Kit thanked Nala stiffly, and laughed once, surprised, when Nala told her to stop thanking her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

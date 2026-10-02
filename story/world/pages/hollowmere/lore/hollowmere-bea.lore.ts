@@ -115,6 +115,15 @@ export const hollowmereBea = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Bea bought Nala an old fisherman's jumper at the charity shop, and Nala owes her scones for it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

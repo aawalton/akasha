@@ -84,6 +84,30 @@ export const hollowmereYusra = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "Yusra wears reading glasses at night, and keeps her room neat as a hospital ward.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Yusra took Nala's pulse, gave her paracetamol for a lighter headache, and heard about her day.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Yusra knows Shiv swims off the rock, and will pretend not to know if Nala swims too.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
