@@ -4,7 +4,7 @@ Read the turn's prose. Then read the story's own mechanics: every world-mechanic
 
 Do what those mechanics call for on each turn once its prose is written, and nothing more. A mechanic that is the game master's, or that this turn's prose does not reach, calls for nothing here.
 
-The game master writes some of what a turn calls for before its prose. A value whose page's history has a line for this turn is written already, so write that value onto no page again. That page's `revealedAs` words are still yours to change as this turn's prose changes them. Match the thing the prose names against every page already filed, by what each page states rather than by its title.
+The game master writes some of what a turn calls for before its prose. A value whose page's history has a line for this turn is written already, so write that value onto no page again; any other number on that page a settling changes, such as its `maxValue`, is still yours to write. That page's `revealedAs` words are still yours to change as this turn's prose changes them. Match the thing the prose names against every page already filed, by what each page states rather than by its title.
 
 Only the world builder defines a mechanic: a skill, an item, or any other mechanic kind. You file none. You may file a page tracking a character or a mechanic already defined, such as a holding, a metric or a relationship, and change a page already there. Where the prose reaches a mechanic no page defines, record nothing for it; the world builder defines it at the next turn's step.
 
