@@ -215,5 +215,9 @@ export const overwhereIiReeveCorwinDray2 = {
       fact: "On the road back Dray carries the coin box and, when Pip flags, the boy on his back.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At Ashlin Dray takes the keys from Crake's belt and opens the coin box by lamplight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
