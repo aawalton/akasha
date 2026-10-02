@@ -88,5 +88,5 @@ export const saltAndLamplight0002HerMothersDress = {
     "character-other/salt-and-lamplight-agnes",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory"],
 } as const satisfies StoryChapterWritten
