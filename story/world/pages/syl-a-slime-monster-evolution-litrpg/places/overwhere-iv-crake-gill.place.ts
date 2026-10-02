@@ -111,5 +111,17 @@ export const overwhereIvCrakeGill = {
       fact: "From the gill's head the only way up to the rim is a steep scramble of fifteen paces.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The gully's north rim is soft heather, with loose stones hidden under it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Stones clattering down the gully side woke the sleeping beast at once.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Awake, the grey-black beast raises the ridge on its back and charges in silence.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Place
