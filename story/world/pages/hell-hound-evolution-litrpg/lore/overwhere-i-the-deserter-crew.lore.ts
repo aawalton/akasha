@@ -284,6 +284,10 @@ export const overwhereITheDeserterCrew = {
       fact: "With blades out, Tobin looses at the nearest blademan.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Burning the wolf on her arm scorches her arm too, unless she shapes flame off it: a moderate act.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
