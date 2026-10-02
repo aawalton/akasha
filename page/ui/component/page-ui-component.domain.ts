@@ -155,5 +155,6 @@ export const pageUiComponent = {
     "module/reading-progress-bar",
     "module/embedded-view-content",
     "module/completion-mark",
+    "module/use-reader-moved",
   ],
 } as const satisfies Domain

@@ -2478,6 +2478,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/use-pages-filtered-query/use-pages-filtered-query.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/use-property-change-perf-handler/use-property-change-perf-handler.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/use-read-end-on-scroll/use-read-end-on-scroll.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/use-reader-moved/use-reader-moved.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/use-reader-progress-writer/use-reader-progress-writer.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/use-reorder-view-wiring/use-reorder-view-wiring.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/use-restore-read-position/use-restore-read-position.module.ts","typed":true,"deferred":false}

@@ -12,5 +12,9 @@ export const pageReaderContent = {
       statement:
         "The pager under the prose is drawn once the prose is in, never above where it lands.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Opening a page never moves its progress, and only the reader's own scroll does.",
+    },
   ],
 } as const satisfies Module

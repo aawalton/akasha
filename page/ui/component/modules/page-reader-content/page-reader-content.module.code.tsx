@@ -29,6 +29,7 @@ import {
 import { READER_PROSE_TYPOGRAPHY } from "akasha/page/ui/component/modules/reader-typography/reader-typography.module.code.ts"
 import { ReadingProgressBar } from "akasha/page/ui/component/modules/reading-progress-bar/reading-progress-bar.module.code.tsx"
 import { useReadEndOnScroll } from "akasha/page/ui/component/modules/use-read-end-on-scroll/use-read-end-on-scroll.module.code.ts"
+import { useReaderMoved } from "akasha/page/ui/component/modules/use-reader-moved/use-reader-moved.module.code.ts"
 import { useReaderProgressWriter } from "akasha/page/ui/component/modules/use-reader-progress-writer/use-reader-progress-writer.module.code.ts"
 import { useRestoreReadPosition } from "akasha/page/ui/component/modules/use-restore-read-position/use-restore-read-position.module.code.ts"
 import { DisplayFrame } from "akasha/page/ui/frame/modules/display-frame/display-frame.module.code.tsx"
@@ -138,8 +139,10 @@ export function PageReaderContent({
   const userId = source.useReaderUserId()
   const setProperty = source.useReaderSetProperty()
   const ReaderHeaderMenu = source.ReaderHeaderMenu
+  const movedRef = useReaderMoved(id)
 
   const { anchorRef, restoringRef } = useReaderProgressWriter({
+    movedRef,
     progressPropertyId,
     lengthPropertyId,
     wordCount,
@@ -161,10 +164,11 @@ export function PageReaderContent({
 
   const markReadOnEnd = detailConfig?.markReadOnEnd === true
   useReadEndOnScroll({
-    enabled: markReadOnEnd && page != null && !isLoading,
+    enabled: markReadOnEnd && page != null && !isLoading && !bodyWaiting && body.trim() !== "",
     onReadToEnd,
     resetKey: id,
     anchorRef,
+    movedRef,
   })
 
   const resolveScrollTop = useCallback((fraction: number): number => {

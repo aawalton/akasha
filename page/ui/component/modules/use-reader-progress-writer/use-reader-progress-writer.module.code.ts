@@ -18,6 +18,7 @@ interface ReaderProgressWriterArgs {
   readonly pageTypeSlug: string
   readonly userId: string | null | undefined
   readonly page: PageWithProperties | null
+  readonly movedRef: RefObject<boolean>
   readonly setProperty: (args: {
     pageTypeSlug: string
     pageId: string
@@ -40,6 +41,7 @@ export function useReaderProgressWriter(args: ReaderProgressWriterArgs): {
     userId,
     page,
     setProperty,
+    movedRef,
   } = args
 
   const currentProgressRef = useRef<number | undefined>(currentProgress)
@@ -75,6 +77,7 @@ export function useReaderProgressWriter(args: ReaderProgressWriterArgs): {
         if (restoringRef.current) return
         const doc = document.documentElement
         if (proseSetAside(doc.dataset)) return
+        if (!movedRef.current) return
         const scrollable = doc.scrollHeight - doc.clientHeight
         const pixelFraction = scrollable > 0 ? doc.scrollTop / scrollable : 0
         const contentFraction =
@@ -104,7 +107,7 @@ export function useReaderProgressWriter(args: ReaderProgressWriterArgs): {
       window.removeEventListener("resize", onScroll)
       if (debounceRef.current !== undefined) clearTimeout(debounceRef.current)
     }
-  }, [writerArmed, progressPropertyId, setProperty])
+  }, [writerArmed, progressPropertyId, setProperty, movedRef])
 
   return { anchorRef, restoringRef }
 }

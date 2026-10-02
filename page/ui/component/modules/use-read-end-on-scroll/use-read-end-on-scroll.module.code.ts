@@ -27,8 +27,9 @@ export function useReadEndOnScroll(args: {
   onReadToEnd: (() => void) | undefined
   resetKey: string
   anchorRef: RefObject<ReaderPositionAnchor | null>
+  movedRef: RefObject<boolean>
 }): undefined {
-  const { enabled, onReadToEnd, resetKey, anchorRef } = args
+  const { enabled, onReadToEnd, resetKey, anchorRef, movedRef } = args
   const firedRef = useRef(false)
   const onReadToEndRef = useRef(onReadToEnd)
 
@@ -46,6 +47,7 @@ export function useReadEndOnScroll(args: {
       if (firedRef.current) return
       const doc = document.documentElement
       if (proseSetAside(doc.dataset)) return
+      if (!movedRef.current) return
       const scrollable = doc.scrollHeight - doc.clientHeight
       const fraction = readEndContentFraction({
         scrollTop: doc.scrollTop,
@@ -65,5 +67,5 @@ export function useReadEndOnScroll(args: {
       window.removeEventListener("scroll", check)
       window.removeEventListener("resize", check)
     }
-  }, [enabled, onReadToEnd, resetKey, anchorRef])
+  }, [enabled, onReadToEnd, resetKey, anchorRef, movedRef])
 }
