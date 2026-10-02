@@ -320,5 +320,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "A quarter mile north-east, Nala lost the four's trail on bare rock and strayed onto a game trail.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "The crew holds an old charcoal burners' camp in a hill fold four miles north-east of the quarry.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
