@@ -32,5 +32,9 @@ export const overwhereIiGreyShaw = {
       fact: "Anyone on the road reaches the tollhouse without a guide; the road runs past its door.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A half moon rises an hour after dark, enough to see the pale road by.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
