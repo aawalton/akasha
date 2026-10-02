@@ -4,10 +4,13 @@ export const overwhereIii00075 = {
   id: "01a0feb0-d51a-7fed-b813-a04e83c0e1d6",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-075",
+  ownLength: 87,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 75,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
+  stepStatus: "step-status/reviewers",
   action: "“Cleansed and merged into a glimmer. Can I give you the value in coin instead?”",
   beats: [
     '"Cleansed and merged into a glimmer. Can I give you the value in coin instead?"',
@@ -17,6 +20,12 @@ export const overwhereIii00075 = {
     "She sets down the pen. Her eyes go to Nala's hands, pink and raw across both palms.",
     '"And what did that to your palms?"',
   ],
-  lore: ["lore/overwhere-iii-marda-hesk", "lore/overwhere-iii-marda-hesk-2"],
+  lore: [
+    "lore/overwhere-iii-marda-hesk",
+    "lore/overwhere-iii-marda-hesk-2",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
+    "lore/overwhere-iii-nala-2-2",
+  ],
   endsAt: "2026-10-07T15:55:00.000Z",
 } as const satisfies StoryTurnPlayed
