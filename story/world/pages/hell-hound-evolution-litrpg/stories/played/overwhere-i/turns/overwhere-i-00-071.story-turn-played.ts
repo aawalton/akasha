@@ -4,6 +4,7 @@ export const overwhereI00071 = {
   id: "01a0fd57-3ba9-73dd-8aba-3cdb05c05dad",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-071",
+  cover: "image/image-5ea82b627e7acb96",
   ownLength: 215,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -48,6 +49,6 @@ export const overwhereI00071 = {
     "place/overwhere-i-greyback-and-east-road",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-03T15:03:00.000Z",
 } as const satisfies StoryTurnPlayed
