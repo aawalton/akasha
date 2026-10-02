@@ -72,5 +72,17 @@ export const overwhereIvTheTangle2 = {
       fact: "The spear-bearer blew his horn; the blast rolled up the cleft and away through the trees.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Goblins dying unseen at the foot of the bank turn the hobgoblins' eyes to that side of the cleft.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The maul-bearer drives goblins up a bank to beat the brambles with spears, a few paces at a time.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Once seven of the strike lie dead, the rest break and run, hobgoblins or no.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
