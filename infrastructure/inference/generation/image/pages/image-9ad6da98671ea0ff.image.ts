@@ -1,0 +1,19 @@
+import type { Image } from "akasha/infrastructure/inference/generation/image/image.page-type.types.ts"
+
+export const image9ad6da98671ea0ff = {
+  id: "01a0fe71-6a27-766e-bb65-b1dad1f2d105",
+  type: "page-type/image",
+  slug: "image-9ad6da98671ea0ff",
+  service: "image-edit-qwen",
+  operation: "edit",
+  model: "qwen-image-edit-2511-lightning+beyond-reality-3",
+  inputImage: "image/image-17f59c7233925455",
+  serviceVersions: [
+    "torch 2.9.1",
+    "torch-vision 0.24.1",
+    "torch-audio 2.9.1",
+    "comfyui 28a40fb2b2b30a6fcd45ff824cc6f1093e26ee90",
+  ],
+  prompt:
+    "Keep this exact woman: same face, freckles, eyes, lips, skin and hair. Change the scene around her. High-budget CGI fantasy feature film still, blockbuster studio VFX: physically based materials, subsurface-scattered skin, strand-level hair and simulated cloth; cinematic key light with strong rim light and warm practical sources, volumetric haze and light shafts; filmic teal-and-amber grade with deep blacks and soft rolled-off highlights; anamorphic lens, oval bokeh, faint flare, shallow depth of field; grand, meticulously detailed production design and epic composed framing. She is a slim young woman of about twenty-five with pale fair skin, a light dusting of freckles across her nose and cheeks, clear blue-grey eyes, straight dark auburn brows, a small straight nose, soft full rose-pink lips, a heart-shaped face narrowing to a small chin, and long straight dark auburn-red hair worn loose with a side part. She wears a loose dark grey shirt hanging to mid-thigh and gaping at the collar, streaked with dried black mud, over snug black compression tights, with laced brown leather boots. A knotted canvas sack and a fine wooden crossbow hang slung across her shoulders. She stands square and still, chin level, staring straight ahead past the right edge of the frame with a hard, focused expression, and two bright beams of orange-white fire stream straight out of both her eyes and run off the edge of the frame, lighting her face hot amber, her hair lifting in the heat. Behind her the rough cut granite walls of a dark quarry gallery at midnight fall into blackness, sparks and smoke in the air, cold blue night beyond. Medium close shot from the waist up, 50mm anamorphic lens, she fills the frame, the gallery dissolving into soft oval bokeh.",
+} as const satisfies Image
