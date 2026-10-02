@@ -127,7 +127,7 @@ export const overwhereIiiMerrowgateGuildPost = {
       ],
     },
     {
-      fact: "The lead box holds three bounty blightstones: one from the corrupted stag, two from the wolf.",
+      fact: "The lead box holds two bounty blightstones: one from the corrupted stag, one from the wolf.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
@@ -151,7 +151,7 @@ export const overwhereIiiMerrowgateGuildPost = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
-      fact: "Marda keeps the stag's paled blightstone apart in the lead box, for Nala to return to between rests.",
+      fact: "Marda keeps any blightstone Nala has paled apart in the lead box, for her to come back to.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-marda-hesk",
@@ -159,7 +159,7 @@ export const overwhereIiiMerrowgateGuildPost = {
       ],
     },
     {
-      fact: "Marda will not send the stag's paled blightstone to Thornmere.",
+      fact: "Marda will not send a blightstone Nala has paled to Thornmere.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/overwhere-iii-nala",
