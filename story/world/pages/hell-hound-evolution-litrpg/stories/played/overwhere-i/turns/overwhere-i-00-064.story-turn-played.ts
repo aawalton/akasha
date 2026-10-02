@@ -10,7 +10,7 @@ export const overwhereI00064 = {
   position: 64,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "I go with Rowan and Sedge to get the head, keeping an eye out for any more dangers.",
   beats: [
     "As the snapper sinks, a window opens before Nala.",
@@ -20,12 +20,12 @@ export const overwhereI00064 = {
     "Rowan tucks his hatchet in his belt and swims the 30-yard channel slowly; Sedge swims it strongly.",
     "Nala crosses with them, eyes on the dark water where the live snapper went under.",
     "The water stays flat; the reeds and the marsh stay empty of anything moving.",
-    "On the north bank Rowan hacks at Ghost-Eye's neck while Sedge noses the reeds and Nala keeps watch.",
+    "Sedge hangs back, ten yards off the body, hackles up, and will come no closer.",
+    "On the north bank Rowan hacks at Ghost-Eye's neck while Nala keeps watch.",
     "In about ten minutes the great grey head comes free, the empty socket staring.",
     "Rowan ropes it, and they swim it back across to the sled left on the marsh side.",
     "He lashes the head onto the sled and wipes his hands on the grass.",
     "Behind them, the dead snapper lies on the channel bed, its shell out of reach.",
-    "Rowan takes up the sled's rope and looks to Nala, waiting on her word to start home.",
   ],
   issues: [
     '"Rowan takes up the sled\'s rope and looks to you." - No Prompt',
