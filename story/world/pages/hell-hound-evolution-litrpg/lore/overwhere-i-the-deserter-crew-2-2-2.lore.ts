@@ -34,7 +34,7 @@ export const overwhereITheDeserterCrew222 = {
     },
     {
       fact: "By night foxes have been at the bodies at the bend; ears and tags are still there to take.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Voss's head adds about twelve pounds to the sack; unsalted it rots past taking in a week.",
