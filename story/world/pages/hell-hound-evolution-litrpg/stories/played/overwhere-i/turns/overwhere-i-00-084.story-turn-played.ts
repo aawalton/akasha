@@ -14,7 +14,7 @@ export const overwhereI00084 = {
     "character-other/overwhere-i-harl-voss",
     "character-other/overwhere-i-quarry-crewman-three",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I finish burning the blademan, then start carefully trailing Voss, letting my mana recover",
   beats: [
@@ -27,7 +27,7 @@ export const overwhereI00084 = {
     "At dusk she stops in thick pines at a bend, where the prints climb the bank ahead.",
     "Up the bank, a hundred yards on, a rock overhang sits above the stream, its mouth toward her.",
     "In its shadow Harl Voss sits with the sack at his side, his sword drawn, watching the trail.",
-    "Hidden in the pines, she watches him as the dusk deepens, his eyes on the trail she walked.",
+    "Voss unslings his shield, props it upright before him, and settles the sword across his knees.",
   ],
   issues: ['"From your cover in the pines you watch him. The dusk deepens" - Leave It Open'],
   lore: [
