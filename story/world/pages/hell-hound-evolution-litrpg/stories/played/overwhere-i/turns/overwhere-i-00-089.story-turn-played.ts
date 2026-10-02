@@ -10,7 +10,7 @@ export const overwhereI00089 = {
   position: 89,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“It’s me, Nala. I took care of Voss and his men, are you all all right?”",
   beats: [
     '"It\'s me, Nala. I took care of Voss and his men. Are you all all right?" she calls.',
@@ -26,6 +26,6 @@ export const overwhereI00089 = {
     "lore/overwhere-i-osric-fenn",
     "lore/overwhere-i-tobin-ashdown",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-04T00:30:00.000Z",
 } as const satisfies StoryTurnPlayed
