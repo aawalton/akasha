@@ -87,6 +87,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Voss's eye falls on the tarred cask, and he asks what it holds.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "If Voss learns the cask holds Ghost-Eye's head, he claims it as the cart's toll.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
