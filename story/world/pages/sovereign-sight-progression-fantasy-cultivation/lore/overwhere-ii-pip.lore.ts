@@ -13,7 +13,7 @@ export const overwhereIiPip = {
     },
     {
       fact: "Pip carries a little clasp knife, and holds it out shaking when he is found, not to use it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Told Crake is dead, Pip does not believe it until Dray shows him the stone of his fists.",
