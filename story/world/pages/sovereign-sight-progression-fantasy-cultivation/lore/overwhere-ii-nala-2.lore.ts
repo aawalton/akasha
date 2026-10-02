@@ -254,7 +254,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "Ignored, the dream grows: by the second week Nala wakes from it each night, cold and salt-damp.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "On the night of day eight Nala dreams of the tarn, and a stair of black water going down.",
