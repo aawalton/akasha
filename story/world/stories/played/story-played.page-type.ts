@@ -34,6 +34,7 @@ export const storyPlayed = {
     "module/played-shell",
     "module/played-state-beside",
     "module/prose-beside",
+    "module/purse-ledger",
     "page-type/story-chapter-played",
     "page-type/story-turn-played",
     "relation-property/world",

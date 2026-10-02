@@ -1937,6 +1937,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-shell/played-shell.module.ts","id":"01a0a164-5a91-7e83-b7f5-92c604ad817e"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.ts","id":"01a0de4c-3554-7639-96b1-340c959aae40"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/player-beside/player-beside.module.ts","id":"01a0ca9e-ea64-779b-b65f-7f138ba63302"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/modules/purse-ledger/purse-ledger.module.ts","id":"01a0fd32-7227-7ce7-b19b-4560c294eb53"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-notice/turn-notice.module.ts","id":"01a0e3ab-3602-7b99-b42d-d5909d6fd17a"}
 {"propertySlug":"decision-kind","path":"story/world/stories/read/modules/chapter-channel/chapter-channel.module.ts","id":"01a0a114-877c-70bd-a3d0-f5d9ac5fe26e"}

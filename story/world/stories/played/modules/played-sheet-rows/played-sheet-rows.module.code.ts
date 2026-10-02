@@ -246,6 +246,19 @@ export function countedIn(value: number, denominations: readonly Denomination[])
   return parts.length === 0 ? `0 ${smallest.name}` : parts.join(COUNTED_APART)
 }
 
+export function currencyOf(
+  row: QueryRow,
+  currencies: ReadonlyMap<string, Currency>
+): Currency | undefined {
+  const address = textIn(row.values[CURRENCY_KEY])
+  return address === null ? undefined : currencies.get(address)
+}
+
+export function purseNameOf(row: QueryRow, currencies: ReadonlyMap<string, Currency>): string {
+  const title = textIn(row.values[TITLE_KEY])
+  return currencyOf(row, currencies)?.title ?? (title === null || title === "" ? PURSE : title)
+}
+
 export function pursesIn(
   rows: readonly QueryRow[],
   currencies: ReadonlyMap<string, Currency>
@@ -254,12 +267,9 @@ export function pursesIn(
   for (const row of rows) {
     const value = parseNumber(row.values[VALUE_KEY])
     if (value === undefined) continue
-    const address = textIn(row.values[CURRENCY_KEY])
-    const currency = address === null ? undefined : currencies.get(address)
-    const title = textIn(row.values[TITLE_KEY])
     held.push({
-      name: currency?.title ?? (title === null || title === "" ? PURSE : title),
-      shown: wordsIn(row) ?? countedIn(value, currency?.denominations ?? []),
+      name: purseNameOf(row, currencies),
+      shown: wordsIn(row) ?? countedIn(value, currencyOf(row, currencies)?.denominations ?? []),
       order: parseNumber(row.values[DISPLAY_ORDER_KEY]),
     })
   }
