@@ -4,13 +4,14 @@ export const overwhereIv00049 = {
   id: "01a0fd30-71d7-7f90-898c-f3d803330fe6",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-049",
+  cover: "image/image-2f6a17485f202a33",
   ownLength: 132,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 49,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“Definitely. Next one? Any will do.”",
   beats: [
     '"Definitely," Nala says. "Next one? Any will do."',
@@ -30,6 +31,11 @@ export const overwhereIv00049 = {
     "place/overwhere-iv-millbrook-shrine",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-02T12:58:00.000Z",
 } as const satisfies StoryTurnPlayed
