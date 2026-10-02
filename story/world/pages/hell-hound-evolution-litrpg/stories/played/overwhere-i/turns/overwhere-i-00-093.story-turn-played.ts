@@ -4,10 +4,13 @@ export const overwhereI00093 = {
   id: "01a0feb9-8675-7524-b23c-e66b52c39dd3",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-093",
+  ownLength: 536,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 93,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "Sleep and then accelerate the journey the next day, lightening and accelerating the cart and mule",
   beats: [
@@ -25,6 +28,8 @@ export const overwhereI00093 = {
     '"Push on and we reach Wendlow after the gate shuts. From here, it\'s noon tomorrow."',
   ],
   lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
     "lore/overwhere-i-osric-fenn",
     "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-starfall-legacy-2",
