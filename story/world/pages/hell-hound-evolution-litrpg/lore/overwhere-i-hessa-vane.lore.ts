@@ -169,7 +169,12 @@ export const overwhereIHessaVane = {
     },
     {
       fact: "Hessa tells Nala Wendlow is three days east by cart on the east road, two by a good horse.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-hessa-vane",
+        "lore/overwhere-i-tobin-ashdown",
+      ],
     },
   ],
   secrets: "jsonl",

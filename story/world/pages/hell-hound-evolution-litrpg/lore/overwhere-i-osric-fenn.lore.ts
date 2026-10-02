@@ -141,7 +141,11 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Osric offers Nala free passage to Wendlow on his cart at dawn on day 5, if she rides as its guard.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
     {
       fact: "Osric wants a guard because Harl Voss's men have robbed carts on the east road this summer.",
@@ -149,7 +153,11 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Hearing her ask, Osric steps up at once with his offer of passage as his cart's guard.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
   ],
   secrets: "jsonl",

@@ -91,7 +91,12 @@ export const overwhereITobinAshdown = {
     },
     {
       fact: "Tobin takes her question as a yes and grins; Hessa says he goes only if Nala says so plainly.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-tobin-ashdown",
+        "lore/overwhere-i-hessa-vane",
+      ],
     },
   ],
   secrets: "jsonl",

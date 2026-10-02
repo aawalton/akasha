@@ -45,7 +45,12 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "Beyond Fenwatch the track becomes the east road, which runs to Wendlow in about three days by cart.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-hessa-vane",
+        "lore/overwhere-i-tobin-ashdown",
+      ],
     },
     {
       fact: "The east road is a rutted dirt road one cart wide, with passing places, through pine and oak forest.",
@@ -89,7 +94,12 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "On foot the east road to Wendlow is also about three days, much as the cart.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-hessa-vane",
+        "lore/overwhere-i-tobin-ashdown",
+      ],
     },
   ],
   secrets: "jsonl",
