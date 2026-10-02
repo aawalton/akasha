@@ -78,5 +78,5 @@ export const hollowmere0015BreatheOut = {
     "character-other/hollowmere-priya",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/memory"],
 } as const satisfies StoryChapterWritten

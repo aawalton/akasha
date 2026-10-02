@@ -175,5 +175,14 @@ export const hollowmerePriya = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Telling of Amara at charmcraft, Priya went quiet over her cocoa; Bea patted her hand and kept it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
 } as const satisfies Lore

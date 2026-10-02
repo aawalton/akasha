@@ -192,6 +192,16 @@ export const hollowmereAmara = {
         "character-other/hollowmere-priya",
       ],
     },
+    {
+      fact: "Amara went to charmcraft with Priya, said twice she hates clockwork, and stayed the two hours.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

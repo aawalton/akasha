@@ -89,5 +89,13 @@ export const hollowmereNala2 = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Nala's first mending charm closed her cup's crack only halfway, leaving a pale seam like a scar.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
+    {
+      fact: "On her timetable's back Nala wrote: Tuesday, Wednesday, Thursday. Kit. Hall. Friday. breathe out.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
   ],
 } as const satisfies Lore

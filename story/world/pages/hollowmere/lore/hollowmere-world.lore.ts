@@ -141,5 +141,22 @@ export const hollowmereWorld = {
       fact: "On the second Sunday of term the first autumn storm comes over the fells: gale, rain, a white mere.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Mending is easier than making: a cracked cup remembers being whole, and the charm reminds it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "The morning after the first storm the sky was clear, and the first snow lay on the fell tops.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
 } as const satisfies Lore

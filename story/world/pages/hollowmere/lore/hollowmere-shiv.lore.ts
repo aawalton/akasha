@@ -263,6 +263,22 @@ export const hollowmereShiv = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Shiv signed the swimmers' register under Nala after the storm: Doyle, and a drawn lightning cloud.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+      ],
+    },
+    {
+      fact: "At the buoy after the storm Shiv said: better than a storm, worse than a rock, and splashed Nala.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

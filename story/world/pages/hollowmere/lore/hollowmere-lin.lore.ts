@@ -279,6 +279,14 @@ export const hollowmereLin = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "In the mending lecture Lin drew the lecturer's hands in pencil in the margin of Nala's page.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

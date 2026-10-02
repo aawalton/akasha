@@ -369,6 +369,14 @@ export const hollowmereBea = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Bea's first mending charm warmed her cracked cup instead; That's the wrong spell, she whispered.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

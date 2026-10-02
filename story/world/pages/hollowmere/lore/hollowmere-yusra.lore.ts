@@ -221,6 +221,14 @@ export const hollowmereYusra = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Yusra's cut palm is bandaged and healing clean; she showed Nala and told her: You did right.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-yusra",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

@@ -95,7 +95,11 @@ export const hollowmereThornfieldHouse = {
     },
     {
       fact: "A glazier from Kendal mends Thornfield's storm-broken window on the Monday after the gale.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-yusra"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+      ],
     },
   ],
 } as const satisfies Place
