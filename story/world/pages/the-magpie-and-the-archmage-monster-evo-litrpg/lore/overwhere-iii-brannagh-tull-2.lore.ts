@@ -343,7 +343,11 @@ export const overwhereIiiBrannaghTull2 = {
     },
     {
       fact: "The woodcutter's gash is clean, no blight; one Mending Weave closes it, and he pays 10 copper.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "The woodcutter found the rotted deer at the brook two days back, and big wolf prints round it.",
