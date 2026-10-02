@@ -186,6 +186,10 @@ export const overwhereIRowanCoalby = {
       fact: "Rowan leaves the sled on the marsh side and ropes the head back across the channel to it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Sedge will not go within ten yards of Ghost-Eye's body, and whines on the bank.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
