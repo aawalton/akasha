@@ -105,5 +105,9 @@ export const overwhereITheDeserterCrew222 = {
       fact: "Nala took the ear and tag of Four and Blademen One and Two; every crewman's is now in her sack.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Counted, Nala's proof is eight ears with their tags, and Voss's head with his tag.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
