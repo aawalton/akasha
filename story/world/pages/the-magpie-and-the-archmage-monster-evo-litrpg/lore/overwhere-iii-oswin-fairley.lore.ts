@@ -10,7 +10,11 @@ export const overwhereIiiOswinFairley = {
   facts: [
     {
       fact: "The bitten lad's father is Oswin Fairley, forty, stocky and red-faced, slow to speak.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-oswin-fairley"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-oswin-fairley",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Oswin is a Common, a Farmer of Level 8, and keeps hens, two cows and barley on his farm.",
