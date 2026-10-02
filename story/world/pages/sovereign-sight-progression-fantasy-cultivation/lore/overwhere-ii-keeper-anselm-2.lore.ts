@@ -49,7 +49,7 @@ export const overwhereIiKeeperAnselm2 = {
     },
     {
       fact: "Anselm is relieved Nala waits; the canticles praise one who answers the call only when ready.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Anselm asks Nala to tell him before she answers the call, so someone knows where she went.",
