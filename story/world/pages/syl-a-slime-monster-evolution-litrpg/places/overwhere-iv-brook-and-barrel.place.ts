@@ -82,11 +82,19 @@ export const overwhereIvBrookAndBarrel = {
     },
     {
       fact: "That night the taproom tells it as the redhead's spear trick: seven goblins and a hobgoblin.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-marta-hesk",
+      ],
     },
     {
       fact: "For the goblins' killer Marta won't take coin for supper, and sets down a second bowl.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-marta-hesk",
+      ],
     },
   ],
 } as const satisfies Place

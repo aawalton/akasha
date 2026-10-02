@@ -329,5 +329,9 @@ export const overwhereIvNala2 = {
       fact: "At Spatial Sense LV 3, her always-on sense reaches a little wider than before.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Dawn drill with her sharpened spear raised Nala's Spearmanship to LV 4.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore
