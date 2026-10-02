@@ -133,7 +133,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "None of the four Talented sworn to Lady Varrow is Major, nor shines half so bright in her glass.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "She asks to look at Nala through her glass from the Spires, and does not say what she hopes to see.",
