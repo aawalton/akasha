@@ -324,5 +324,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "The crew holds an old charcoal burners' camp in a hill fold four miles north-east of the quarry.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "From the knoll, thin smoke shows rising from a hill fold at the cart track's far end.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
