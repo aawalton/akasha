@@ -209,5 +209,9 @@ export const overwhereIiiBrannaghTull2 = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
+    {
+      fact: "At twenty past eight on day seven Brannagh's shop is shuttered and dark, her bench empty.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
