@@ -4,13 +4,14 @@ export const overwhereIi00069 = {
   id: "01a0fda0-ba73-72bd-acb3-1ea1eaafd464",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-069",
+  cover: "image/image-709292a9295e33e9",
   ownLength: 193,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 69,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I use my Talent and Push the venom and the dart out of me as hard as I can.",
   beats: [
     "Nala reaches for her Water and Pushes, hard, out through the prick in her neck.",
@@ -38,6 +39,11 @@ export const overwhereIi00069 = {
     "lore/overwhere-ii-oswy-crake-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-14T18:32:00.000Z",
 } as const satisfies StoryTurnPlayed
