@@ -277,5 +277,13 @@ export const overwhereIvNala2 = {
       fact: "Nala's Rift Rend killed the LV 9 hobgoblin and three raiders, LV 5, 3 and 2, at the stream.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "A rend reached for with less warmth than it costs won't form; nothing opens, nothing is spent.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala carries no knife of her own; her only weapon is the blunt practice spear.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore
