@@ -4,10 +4,13 @@ export const overwhereIv00063 = {
   id: "01a0fdd6-3190-7070-82e7-b35e042a3248",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-063",
+  ownLength: 208,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 63,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I slice it at the neck, careful to lead it correctly so it runs into to the slice and not past it. I hold the slice longer than normal so it’s momentum cuts it deep. I also brace my spear in its direction",
   beats: [
