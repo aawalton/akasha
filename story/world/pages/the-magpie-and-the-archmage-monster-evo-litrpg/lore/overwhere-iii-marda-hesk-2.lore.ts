@@ -13,7 +13,7 @@ export const overwhereIiiMardaHesk2 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
-      fact: "Marda: 'Yours. As I said. The specks too. I wanted them cracked, not back.'",
+      fact: "Of the wolf's glimmerstone, Marda said: 'Yours. As I said. That's the last of what I was holding.'",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/overwhere-iii-nala",
@@ -21,7 +21,7 @@ export const overwhereIiiMardaHesk2 = {
       ],
     },
     {
-      fact: "Marda asked Nala, 'Now. Mind telling me how you crack them that fast?'",
+      fact: "Marda held out her palm to Nala: 'And my six seed stones?'",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/overwhere-iii-nala",
