@@ -10,7 +10,7 @@ export const overwhereIi00090 = {
   position: 90,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“I will not swear, but I will help if I can. I have refined my skin, muscles, and bones since meeting Garth and I still have room to grow, but I am lacking in guidance. I have a feeling I will need all the strength I can get to face whatever lies under that mountain. If you can help me grow my strength, I will stay to face it.”",
   beats: [
@@ -34,12 +34,15 @@ export const overwhereIi00090 = {
     "She holds Nala's eyes, level and cold.",
     'Lady Varrow: "Will you take that bond?"',
   ],
+  issues: [
+    '"fought beasts and a thief. Learn to fight a Talent" - Crake, the thief, was a First Depth Talent',
+  ],
   lore: [
     "lore/overwhere-ii-lady-imre-varrow",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",
     "lore/overwhere-ii-nala-3",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-21T08:38:00.000Z",
 } as const satisfies StoryTurnPlayed
