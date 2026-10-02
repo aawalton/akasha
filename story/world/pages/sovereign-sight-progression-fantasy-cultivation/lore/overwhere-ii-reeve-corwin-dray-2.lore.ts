@@ -92,7 +92,7 @@ export const overwhereIiReeveCorwinDray2 = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Dray's watch is four untalented spearmen: Col Ashby, Tam Reed, and the Pell twins.",
+      fact: "Dray's watch is four untalented spearmen: Col Ashby, Rob Reed, and the Pell twins.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
