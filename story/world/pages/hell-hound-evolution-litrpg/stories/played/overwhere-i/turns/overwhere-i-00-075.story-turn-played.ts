@@ -13,10 +13,10 @@ export const overwhereI00075 = {
     "character-player/overwhere-i-nala",
     "character-other/overwhere-i-quarry-crewman-four",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "I use my lens working to find the crossbowman in the trees, then snipe him out",
   beats: [
-    "Behind her boulders Nala bends air into a lens and sweeps the treeline, slow and careful.",
+    "Behind her boulders Nala holds two water lenses in air as her spyglass and sweeps the treeline.",
     "The sweep takes about a minute; nothing in the pines moves or looses.",
     "She finds the shooter's stand: trampled needles, a dropped bolt, and scuffed needles leading north.",
     "The shooter is gone.",
