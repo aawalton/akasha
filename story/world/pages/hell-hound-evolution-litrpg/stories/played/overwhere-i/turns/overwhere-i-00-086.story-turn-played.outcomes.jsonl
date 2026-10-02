@@ -1,1 +1,2 @@
 {"check":"world-check/overwhere-i-action-check","reading":{"band":"easy","bonuses":[{"from":"Attunement 86","by":4},{"from":"Starfall Weave level 5","by":2}]},"dice":{"said":"1d20","sides":20,"faces":[17]},"seed":"overwhere-i-00-086","answered":{"succeeded":true,"outcome":"strong","total":23,"target":8,"margin":15}}
+{"check":"world-check/overwhere-i-time-passing","reading":{"from":"2026-10-03T19:03:00.000Z","minutes":260},"answered":{"endsAt":"2026-10-03T23:23:00.000Z","day":5,"light":"night"}}
