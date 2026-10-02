@@ -4,10 +4,16 @@ export const overwhereIii00064 = {
   id: "01a0fdeb-f359-7f97-ae93-5c06bc3253e7",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-064",
+  ownLength: 154,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 64,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-oswin-fairley",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I hit it with a Current Lash and Cleansing Weave together, braided, as hard as I can manage",
   beats: [
@@ -27,6 +33,9 @@ export const overwhereIii00064 = {
     "lore/overwhere-iii-cleansing-weave",
     "lore/overwhere-iii-corruption-2",
     "lore/overwhere-iii-current-lash",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
+    "lore/overwhere-iii-nala-2-2",
     "lore/overwhere-iii-oswin-fairley",
     "place/overwhere-iii-fairley-farm",
   ],
