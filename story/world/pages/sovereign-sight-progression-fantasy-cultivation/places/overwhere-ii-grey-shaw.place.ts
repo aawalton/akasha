@@ -53,7 +53,7 @@ export const overwhereIiGreyShaw = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
-      fact: "The coin box holds eleven silver bars and a scatter of silver pieces: Crake's year of sales.",
+      fact: "The coin box holds eleven silver bars and fifty silver pieces: Crake's year of sales.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
