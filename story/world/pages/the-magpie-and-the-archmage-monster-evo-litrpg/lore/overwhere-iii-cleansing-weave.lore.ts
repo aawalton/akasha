@@ -66,7 +66,7 @@ export const overwhereIiiCleansingWeave = {
     },
     {
       fact: "A Cleansing Weave closed in a loop turns its snap-back into the stone, not up the arm.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Once a loop has held cleanly, the knack stays; later looped weaves close as easily as plain ones.",
