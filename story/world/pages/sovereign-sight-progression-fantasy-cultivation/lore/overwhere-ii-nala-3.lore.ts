@@ -122,7 +122,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "With her skull refined whole, Nala's thoughts feel steadier, the tide easier to hold.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Nala's hips refine hard, a deep grinding ache, from day eighteen into the next morning.",
