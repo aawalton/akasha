@@ -168,5 +168,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Loosing beams from her eyes leaves her dazzled a moment after, her next look a band harder.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Eye beams cost what hand beams cost; they harm neither her eyes nor her held flame.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
