@@ -203,6 +203,10 @@ export const overwhereITobinAshdown = {
       fact: "Seeing Voss's head, Tobin goes white and turns away, then grins: Fenwatch will sing of it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Dressing all Nala's wounds uses about half of Hessa's pot of salve.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
