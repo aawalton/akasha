@@ -11,4 +11,5 @@ export const irisReviewerOverwhereIiiFlex2 = {
   startMode: "seat-mode/headless",
   onCall: false,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "87e7d4f4-7a35-4574-80c4-7623630b49a3",
 } as const satisfies Seat
