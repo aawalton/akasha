@@ -38,6 +38,6 @@ export const overwhereIi00091 = {
     "place/overwhere-ii-varrow-keep",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics"],
   endsAt: "2026-10-21T08:48:00.000Z",
 } as const satisfies StoryTurnPlayed
