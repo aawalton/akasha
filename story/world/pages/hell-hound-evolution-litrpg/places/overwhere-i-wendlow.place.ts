@@ -111,5 +111,9 @@ export const overwhereIWendlow = {
       fact: "Wendlow's gates shut at sunset, about 19:00, and open again at dawn.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Wendlow's gate takes a copper a head and asks each stranger's business.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
