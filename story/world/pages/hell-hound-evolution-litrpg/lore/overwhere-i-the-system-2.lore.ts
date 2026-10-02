@@ -37,5 +37,9 @@ export const overwhereITheSystem2 = {
       fact: "No skill, legacy rank or path changes at Level 10.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Wounds dressed, health returns about 2 an hour awake and 5 an hour asleep.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
