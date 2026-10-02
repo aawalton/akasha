@@ -10,7 +10,7 @@ export const overwhereIv00073 = {
   position: 73,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“No, you need someone else to watch. Tonight I’m going hunting.” I go back and train with the guards then get some sleep, then do some more training, working to Rift Rend something I can only see with Spatial Sense.",
   beats: [
@@ -31,6 +31,9 @@ export const overwhereIv00073 = {
     "And again, on a third. Each line costs her the same handful of warmth as any rend.",
     "The sun is sinking toward the moor. Behind her ribs, the warmth is down to two-thirds.",
   ],
+  issues: [
+    '"The sun is sinking toward the moor. Behind your ribs, the warmth is down" - Leave It Open',
+  ],
   lore: [
     "lore/overwhere-iv-millbrook-adventurers-hall-2",
     "lore/overwhere-iv-nala",
@@ -39,6 +42,6 @@ export const overwhereIv00073 = {
     "place/overwhere-iv-the-tangle",
     "place/overwhere-iv-tull-farm",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-06T18:00:00.000Z",
 } as const satisfies StoryTurnPlayed
