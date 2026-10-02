@@ -73,7 +73,7 @@ export const otherwhereI0002TheCounterWakes = {
     },
     {
       position: 62,
-      cover: "image/image-058f2901daf79336",
+      cover: "image/image-977e19ebdcde9c74",
       coverAfter: '"Covered and neat offends almost nobody. Your robe\'s both. Mostly."',
     },
     {
