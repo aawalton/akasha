@@ -14,7 +14,7 @@ export const overwhereI00077 = {
     "character-other/overwhere-i-quarry-crewman-one",
     "character-other/overwhere-i-quarry-crewman-two",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I circle around, as quietly as I can, trying to get eyes on any of the bandits.",
   beats: [
     "Nala slips back from her boulders and circles east through the pines, light on her hurt leg.",
@@ -27,12 +27,13 @@ export const overwhereI00077 = {
     "Beside him the other burned blademan lies moaning.",
     "Neither has heard her; the sitting man keeps his sword in hand, his eyes on the pit floor.",
   ],
+  issues: ['"Neither of them looks up." - Nobody Acts'],
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
     "lore/overwhere-i-the-deserter-crew-2",
     "place/overwhere-i-greyback-and-east-road",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-03T15:14:00.000Z",
 } as const satisfies StoryTurnPlayed
