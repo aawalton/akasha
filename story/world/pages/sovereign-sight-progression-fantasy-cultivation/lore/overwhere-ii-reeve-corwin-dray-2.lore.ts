@@ -195,5 +195,9 @@ export const overwhereIiReeveCorwinDray2 = {
       fact: "Dray can keep pace with Nala; at First Depth he runs for hours like a horse at a hard trot.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Dray would run with Nala himself, leaving Col Ashby and the Pells to hold the prisoners.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
