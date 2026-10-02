@@ -103,7 +103,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 19,
-      cover: "image/image-50ea436841402a5f",
+      cover: "image/image-3ecff3cba5fd31e6",
       coverAfter: "You tip salt out beside the box, a white drift of it",
     },
     {
