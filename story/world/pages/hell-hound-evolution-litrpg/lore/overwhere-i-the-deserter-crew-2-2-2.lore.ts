@@ -76,5 +76,9 @@ export const overwhereITheDeserterCrew222 = {
       fact: "Nala cut the right ear and took the tag from the three camp dead, Crow and the helmed crossbowman.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "The Drakewolf stands 10 yards off in the gallery mouth; a beam at it there is moderate.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
