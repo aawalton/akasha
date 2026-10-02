@@ -10,7 +10,7 @@ export const overwhereIi00078 = {
   position: 78,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I take the needle dart out, then match with the rest on the way back, cycling my water to loosen it up again.",
   beats: [
@@ -36,6 +36,6 @@ export const overwhereIi00078 = {
     "lore/overwhere-ii-nala-3",
     "place/overwhere-ii-ashlin-farm",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-15T09:30:00.000Z",
 } as const satisfies StoryTurnPlayed
