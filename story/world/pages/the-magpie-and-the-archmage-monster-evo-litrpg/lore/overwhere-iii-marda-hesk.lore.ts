@@ -202,7 +202,11 @@ export const overwhereIiiMardaHesk = {
     },
     {
       fact: "Beside two blightstones, Marda's lead box holds the six seed stones Nala brought in.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "Asked to crack the Guild's stones, Marda says unmaking them is the point; the healer keeps the rest.",
