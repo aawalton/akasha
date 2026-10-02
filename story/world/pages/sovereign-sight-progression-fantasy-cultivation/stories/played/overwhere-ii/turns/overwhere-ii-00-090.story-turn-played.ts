@@ -10,7 +10,7 @@ export const overwhereIi00090 = {
   position: 90,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“I will not swear, but I will help if I can. I have refined my skin, muscles, and bones since meeting Garth and I still have room to grow, but I am lacking in guidance. I have a feeling I will need all the strength I can get to face whatever lies under that mountain. If you can help me grow my strength, I will stay to face it.”",
   beats: [
@@ -29,8 +29,8 @@ export const overwhereIi00090 = {
     'Lady Varrow: "And in return, the guidance you ask for. Mine, and this house\'s."',
     'Lady Varrow: "I have Descended twice. Refine your organs before you go down."',
     'Lady Varrow: "Few ever have the time, or the Water."',
-    'Lady Varrow: "And spar with my Talented here. You\'ve fought beasts and a thief."',
-    'Lady Varrow: "Learn to fight a Talent."',
+    'Lady Varrow: "And spar with my Talented here. You have fought one Talent, and nearly died of it."',
+    'Lady Varrow: "Learn to fight them well."',
     "She holds Nala's eyes, level and cold.",
     'Lady Varrow: "Will you take that bond?"',
   ],
