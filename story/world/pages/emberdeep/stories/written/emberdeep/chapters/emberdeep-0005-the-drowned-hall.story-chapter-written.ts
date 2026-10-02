@@ -8,9 +8,9 @@ export const emberdeep0005TheDrownedHall = {
   unit: "unit/words",
   title: "The Drowned Hall",
   story: "story-written/emberdeep",
-  ownLength: 3916,
+  ownLength: 3914,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "It is Firstday; Nala wakes with Elowen asleep on her arm, her arm numb, and stays still anyway.",
     "Elowen wakes, remembers the kiss, and goes pink, and then kisses Nala again, quickly.",
