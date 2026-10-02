@@ -314,7 +314,11 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "Traits come at birth, from long hard use of a sense or the body, or from the skill shop.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "The Inventory trait sells in the skill shop for 3 glimmerstones; most adventurers buy it first.",
