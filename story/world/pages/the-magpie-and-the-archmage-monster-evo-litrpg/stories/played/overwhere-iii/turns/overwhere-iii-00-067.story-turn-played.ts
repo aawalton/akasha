@@ -4,10 +4,16 @@ export const overwhereIii00067 = {
   id: "01a0fe42-8f77-71a5-9f94-fbabe30798fb",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-067",
+  ownLength: 164,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 67,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-brannagh-tull",
+  ],
+  stepStatus: "step-status/reviewers",
   action: "I rest and watch the weaves until dusk, then heal the washer woman",
   beats: [
     "Nala settles on the bench outside Brannagh's door and lets the afternoon go by.",
