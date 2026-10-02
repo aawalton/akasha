@@ -10,7 +10,7 @@ export const overwhereIi00075 = {
   position: 75,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Let’s go back and meet up with the rest tonight, just to prevent any issues with the prisoners.”",
   beats: [
@@ -21,6 +21,7 @@ export const overwhereIi00075 = {
     "Pip walks between them, quiet, his hands empty, his too-big coat flapping.",
     "The road climbs back up the valley under the half moon, twelve long miles of it.",
     "The boy's pace is slow. The hours stretch. The moon swings west over the hedges.",
+    "Nala's mouth goes dry, her belly hollow, her legs heavy with the miles.",
     "Somewhere past midnight, the night chill on her skin turns clammy.",
     "A cold sweat breaks out on her arms and neck, and dries to a fine grey salt.",
     "Her penned Water, pushing at her choked Locks, finds its way out where it can.",
@@ -35,8 +36,6 @@ export const overwhereIi00075 = {
     "Dray: \"Eleven bars and fifty pieces. Crake's year of selling folk's Water.\"",
     "He slides four bars out of the heap and holds them out to Nala.",
     'Dray: "Your third. Four bars, near enough to the coin."',
-    "Nala's mouth is dry, her belly hollow, and her legs heavy after twenty-four miles.",
-    "In the middle of the yard, under its slate cap, the farm well waits, deep and full.",
   ],
   issues: ['"Your mouth is dry" ... "the farm well stands, deep and full." - No Prompt'],
   lore: [
