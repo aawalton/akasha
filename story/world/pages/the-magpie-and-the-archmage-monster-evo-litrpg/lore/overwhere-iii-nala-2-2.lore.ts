@@ -40,5 +40,9 @@ export const overwhereIiiNala22 = {
         "character-other/overwhere-iii-maud-ferrow",
       ],
     },
+    {
+      fact: "Her skill shop's trait page lists Inventory at 3 glimmerstones; its skills add Appraise at 5.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
