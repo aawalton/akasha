@@ -326,5 +326,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Charging over rough ground, Voss crosses 30 yards in about 5 seconds.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Twin beams meeting on Voss's shield as he charges are hard; at his head over the rim, a band harder.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
