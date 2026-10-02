@@ -42,11 +42,14 @@ export const overwhereIi00062 = {
     "A moment later she glimpses the too-big coat at the end of the green, heading down the valley road.",
     "She thinks of Crake, who hunts Talents alone, and of how far a boy could carry word in a day.",
   ],
+  issues: ['"You think of Crake, who hunts Talents alone" - Leave It Open'],
   lore: [
     "lore/overwhere-ii-keeper-anselm-2",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",
     "lore/overwhere-ii-oswy-crake",
+    "place/overwhere-ii-wendle-ford",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-09T12:00:00.000Z",
 } as const satisfies StoryTurnPlayed
