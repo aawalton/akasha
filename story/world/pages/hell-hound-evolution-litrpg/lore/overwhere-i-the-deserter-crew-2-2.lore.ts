@@ -206,5 +206,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "From the north-west rim the mounds hide nothing; a beam at an unaware body is easy, a head moderate.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The camp keepers are Level 11 with 32 health and Level 13 with 36, bareheaded, leather warding 1.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
