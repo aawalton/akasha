@@ -301,5 +301,9 @@ export const overwhereIiiNala2 = {
       fact: "Past noon on day seven Nala still has not eaten that day, and her stomach growls.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "[Mana Weaver – At [Legend] level, you see currents to the sky's edge. They lend you all they hold.]",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
