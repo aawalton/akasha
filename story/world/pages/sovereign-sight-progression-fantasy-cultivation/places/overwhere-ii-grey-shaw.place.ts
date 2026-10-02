@@ -60,5 +60,9 @@ export const overwhereIiGreyShaw = {
       fact: "Crake's ledger names every Talent he drained, every bottle sold, and Oriel Vance as his buyer.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Water from Crake's three captives is in the bottles; drunk back, it would speed their healing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
