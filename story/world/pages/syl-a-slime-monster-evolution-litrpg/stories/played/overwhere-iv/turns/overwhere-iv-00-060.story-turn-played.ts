@@ -4,13 +4,14 @@ export const overwhereIv00060 = {
   id: "01a0fdb3-1333-72d3-b649-a70fc3332c1d",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-060",
+  cover: "image/image-8828c02d226e920a",
   ownLength: 385,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 60,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“I’ll hunt the wolf today” I get directions to the old quarry and follow them, then close my eyes and focus on navigating by spacial sense. If I find any wolves, I use Rend on their throats with my eyes still closed.",
   beats: [
@@ -48,6 +49,11 @@ export const overwhereIv00060 = {
     "place/overwhere-iv-north-west-pastures",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-04T14:20:00.000Z",
 } as const satisfies StoryTurnPlayed
