@@ -223,7 +223,11 @@ export const overwhereIiiBrannaghTull2 = {
     },
     {
       fact: "On day eight's morning a washerwoman off the slate waits, her forearm scalded and scarred years ago.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
 } as const satisfies Lore
