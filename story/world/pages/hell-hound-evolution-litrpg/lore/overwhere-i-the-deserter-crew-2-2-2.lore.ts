@@ -109,5 +109,9 @@ export const overwhereITheDeserterCrew222 = {
       fact: "Counted, Nala's proof is eight ears with their tags, and Voss's head with his tag.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The ears are eight in all, one for each slain crewman; Voss's head stands for him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
