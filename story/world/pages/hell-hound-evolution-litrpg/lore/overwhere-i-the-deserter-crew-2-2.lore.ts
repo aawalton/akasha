@@ -346,5 +346,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Landing his Shield Rush is moderate for Voss; knocked flat, Nala's next act is a band harder.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's twin beams burned through Voss's shield and mail; he died ten yards short of her.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
