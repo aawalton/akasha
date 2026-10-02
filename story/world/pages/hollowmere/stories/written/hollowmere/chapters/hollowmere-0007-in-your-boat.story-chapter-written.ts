@@ -10,7 +10,7 @@ export const hollowmere0007InYourBoat = {
   story: "story-written/hollowmere",
   ownLength: 4721,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   beats: [
     "Sunday: you wake at six on your own, and you know where you're going before you're up.",
     "The fisherman's jumper over knickers and bra again; the shore grey and silent.",
@@ -54,8 +54,8 @@ export const hollowmere0007InYourBoat = {
     "You say yes; she nods once, sharply, and leaves for Ashcombe before you can see her face.",
     "Thornfield kitchen: cold supper, toast and cheese; Bea's there, and Lin up from downstairs.",
     "Lin gives you a small twist of paper: one of the old nibs from Kendal, cleaned and polished.",
+    '"It\'s soft," she says. "Like the one I lent you. It\'s yours now." You hold it like treasure.',
     "Bea makes three teas without asking anyone, bumps your shoulder, and her smile is real again.",
-    "Bea makes three teas without asking anyone; Bea bumps your shoulder, and her smile is real again.",
     "In bed, your mouth still remembering the mere, you think: one kiss, five girls, and Monday.",
     "A day at Hollowmere ends.",
   ],
