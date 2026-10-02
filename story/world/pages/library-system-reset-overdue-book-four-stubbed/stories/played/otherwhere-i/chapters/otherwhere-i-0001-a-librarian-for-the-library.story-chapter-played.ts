@@ -43,7 +43,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 7,
-      cover: "image/image-9a50f17de1c5dfa4",
+      cover: "image/image-59a1a8a30a1f6ea7",
       coverAfter: "Where the wall meets the floor, there's a dark gap in the",
     },
     {
