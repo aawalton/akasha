@@ -12,5 +12,33 @@ export const overwhereIvTheTangle2 = {
       fact: "Two hours into the Tangle by night, Nala heard a big band coming down the deer trail to Tull's ford.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Where the cleft starts, a bramble-grown bank rises beside the trail, good to lie hidden in.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "In the dark a rend's black line can't be seen, and gives no sign of where it came from.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Strung out single file in the cleft, the band does not mark a goblin dropping silent at its tail.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Once goblins see their own fall, the band halts and bunches about the hobgoblins, shrieking.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Bunched, the LV 10 hobgoblin blows his horn, and the slingers throw blind into the brambles.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The two scouts ahead turn back at the shrieking, and come up the trail toward the band.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "When the band breaks, most goblins flee back up toward the camp; a few bolt on down toward the ford.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
