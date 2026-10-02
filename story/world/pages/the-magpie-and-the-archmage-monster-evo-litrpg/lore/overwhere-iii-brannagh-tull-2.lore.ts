@@ -131,7 +131,11 @@ export const overwhereIiiBrannaghTull2 = {
     },
     {
       fact: "On day seven's morning the girl with the crooked-healed lip waits on the bench with her mother.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "The girl is about nine; a fall on a stone step split her lip two years ago, and it knit crooked.",
