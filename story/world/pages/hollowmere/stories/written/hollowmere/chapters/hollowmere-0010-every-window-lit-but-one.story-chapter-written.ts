@@ -58,6 +58,7 @@ export const hollowmere0010EveryWindowLitButOne = {
     "You fall asleep with Kit's handkerchief under your pillow and the taste of sugar on your lips.",
     "A day at Hollowmere ends.",
   ],
+  issues: ['"astonished at herself, all at once, waiting to see what you\'ll do" - No Prompt'],
   lore: [
     "lore/hollowmere-academy-2",
     "lore/hollowmere-bea",
@@ -77,4 +78,5 @@ export const hollowmere0010EveryWindowLitButOne = {
     "character-other/hollowmere-lin",
     "character-other/hollowmere-kit",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
