@@ -40,5 +40,9 @@ export const overwhereITheDeserterCrew222 = {
       fact: "Voss's head adds about twelve pounds to the sack; unsalted it rots past taking in a week.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The letter, unsigned, under a merchant's seal, pays silver when Fenwatch's crystals reach Wendlow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
