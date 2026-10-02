@@ -184,5 +184,17 @@ export const overwhereIvTheTangle2 = {
       fact: "Broken, the strike flees up the trail to camp, hobgoblins too; none comes on to Tull's that night.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's slash from the ground missed; the spear goblin's stab tore a shallow gash in her side.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Nala got to her feet, spear in hand, as the club goblin burst past the spear and swung at her head.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "A club goblin swinging overhand at a head leaves its own body open beneath the arm.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
