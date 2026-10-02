@@ -4,13 +4,13 @@ export const overwhereIv00068 = {
   id: "01a0fe51-65b8-77f1-9e4d-7c3f44f59b64",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-068",
-  ownLength: 122,
+  ownLength: 123,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 68,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "“Yes, please. I have a feeling a crossbar will save my life someday. Can you get it done today?”",
   beats: [
