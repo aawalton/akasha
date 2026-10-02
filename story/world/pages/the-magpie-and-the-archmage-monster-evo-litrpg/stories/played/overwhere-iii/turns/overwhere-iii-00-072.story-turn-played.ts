@@ -10,7 +10,7 @@ export const overwhereIii00072 = {
   position: 72,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Oh! Inventory sounds useful!” I pull open the skill shop and buy it. “Done! Any other basics I might have missed?”",
   beats: [
@@ -33,6 +33,6 @@ export const overwhereIii00072 = {
     "lore/overwhere-iii-the-system",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-07T11:50:00.000Z",
 } as const satisfies StoryTurnPlayed
