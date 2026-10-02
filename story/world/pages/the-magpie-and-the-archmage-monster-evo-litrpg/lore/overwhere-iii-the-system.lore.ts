@@ -138,7 +138,11 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "Skills are active powers; traits are passive: senses, resistances, body, Inventory.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Skills and traits each fill slots shown as (x/10); higher evolutions raise the cap to 12 or 14.",
