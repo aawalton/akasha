@@ -247,6 +247,38 @@ export const overwhereIvTheTangle = {
         "lore/overwhere-iv-brookside-four",
       ],
     },
+    {
+      fact: "Grakk's camp lies some five miles into the Tangle, in a ring of old stones on a rise.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The camp holds about forty goblins and three hobgoblins besides Grakk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Tull raiders are six goblins of LV 2 to 5, led by a horn-blowing hobgoblin of LV 9.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The hobgoblin wears boiled-hide armor and swings a notched iron cleaver.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Driving six sheep, the raiders make about a mile an hour along a deer trail toward the camp.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The raiders rest at a stream three miles in through mid-morning, the sheep watered and tied.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The raiders' trail from Tull's ford is plain: churned mud, wool on thorns, sheep dung.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The hobgoblin's horn, blown, carries to the camp; a dozen goblins come in about an hour.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
