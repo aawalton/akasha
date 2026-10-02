@@ -153,7 +153,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "She tells Nala every Tribulation differs, but hers came as cold that tried to stop her heart.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "She advises Nala to refine her organs before Descending, as few have the time or Water to.",
