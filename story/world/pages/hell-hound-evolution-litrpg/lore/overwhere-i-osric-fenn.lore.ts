@@ -214,15 +214,29 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Osric whistles at the head, names the Board's thirty gold for it, and offers salt from his stock.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+        "lore/overwhere-i-tobin-ashdown",
+      ],
     },
     {
       fact: "Osric sells salt at 4 copper a sack, as Garrick does; one sack keeps a head three weeks.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
     {
       fact: "Osric says the Board pays only at Wendlow, two more days east by cart from Ketter's Well.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+        "lore/overwhere-i-tobin-ashdown",
+      ],
     },
     {
       fact: "Osric knows nothing of Voss's letter unless Nala shows it.",
