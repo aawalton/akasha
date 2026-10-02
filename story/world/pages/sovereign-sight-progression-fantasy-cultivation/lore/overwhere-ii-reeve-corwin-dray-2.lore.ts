@@ -257,7 +257,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray writes the fight down in an hour, asking Nala each step of it, and writes it plain.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray reads the account back aloud before Nala sets her mark to it.",
