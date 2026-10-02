@@ -5,7 +5,7 @@ export const overwhereIVossDrakewolf = {
   type: "page-type/metric-character-health",
   slug: "overwhere-i-voss-drakewolf",
   character: "character-other/overwhere-i-voss-drakewolf",
-  value: 35,
+  value: 24,
   minValue: 0,
   maxValue: 35,
   displayOrder: 1,

@@ -5,7 +5,7 @@ export const overwhereIQuarryCrewmanThree = {
   type: "page-type/metric-character-health",
   slug: "overwhere-i-quarry-crewman-three",
   character: "character-other/overwhere-i-quarry-crewman-three",
-  value: 36,
+  value: 26,
   minValue: 0,
   maxValue: 36,
   displayOrder: 1,
