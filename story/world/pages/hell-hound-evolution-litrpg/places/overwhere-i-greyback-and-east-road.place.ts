@@ -165,6 +165,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "From her deer trail the granite knoll is 400 yards west; on her hurt leg she tops it in 15 minutes.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Osric's cart, the cask aboard, camps at Ketter's Well tonight; the quarry is three miles back.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
