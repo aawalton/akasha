@@ -7,9 +7,22 @@ export const overwhereIv00061 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 61,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I keep trying. Rift Rend and Spatial Sense must be related, both coming from my Dimensional Magic. I should be able to hit things I can’t see with my eyes. I can see the wolf clearly with my Spatial Sense, I should be able to target it there.",
+  beats: [
+    "Nala keeps her eyes shut. The rend and the sense come from the same place. They must fit together.",
+    "She holds her sense wide on the hollow under the rock. The shape there is clear as anything seen.",
+    "She fixes on the throat, felt rather than seen, and reaches for a line.",
+    "For an instant something catches: a flicker of the fold, laid right where she feels it.",
+    "Then it's gone. Nothing opens. No warmth is spent on the line.",
+    "She tries again, and again. Each time the flicker comes, nearly whole, and slips away.",
+    "It isn't a wall. It's like a word on the tip of her tongue. Something she can learn.",
+    "By the sixth try it's the same lesson over. More tries here won't teach her more today.",
+    "All the while, holding her sense out to thirty paces drains her steadily.",
+    "Ten minutes gone. The beast hasn't stirred. The wind still blows from it to her.",
+    "Behind her ribs, the warmth has thinned to a little over half.",
+  ],
   lore: [
     "lore/overwhere-iv-nala",
     "lore/overwhere-iv-nala-2",
