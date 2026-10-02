@@ -36,5 +36,9 @@ export const overwhereIiGreyShaw = {
       fact: "A half moon rises an hour after dark, enough to see the pale road by.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Crake's iron coin box is locked; its keys are on the ring at Crake's belt, back at Ashlin.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place
