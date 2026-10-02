@@ -32,5 +32,17 @@ export const overwhereIiAshlinFarm = {
       fact: "From the beck gully a man can reach the barn's back wall without crossing open ground.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "The lane runs a long bowshot between hedges and opens on the yard with no cover at its end.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A rain butt sits by the barn's corner, brim-full of standing rainwater.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The farmhouse well sits in the middle of the yard, under a slate cap, deep and full.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
