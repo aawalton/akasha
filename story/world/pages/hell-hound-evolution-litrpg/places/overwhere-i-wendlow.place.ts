@@ -143,5 +143,9 @@ export const overwhereIWendlow = {
       fact: "Gate sergeant Bram Coyle is thickset and grey-bearded.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Antler Hall stands up the high street under a sign of stag's antlers; Grete Holm is asked for there.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Place
