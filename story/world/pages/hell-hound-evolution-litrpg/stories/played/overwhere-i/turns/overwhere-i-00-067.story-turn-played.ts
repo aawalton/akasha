@@ -7,9 +7,21 @@ export const overwhereI00067 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 67,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Sure, I don’t care who comes. Let’s pack it now and we can go with Osric in the morning.”",
+  beats: [
+    'Hessa takes "I don\'t care who comes" as plain enough; Tobin may go to Wendlow with Nala.',
+    "Tobin whoops and runs off to tell his mother.",
+    "Osric: his cart leaves the Stag at five tomorrow; a guard walks beside it or sits the tailboard.",
+    "He wants a guard, he says, since Harl Voss's men have robbed carts on the east road this summer.",
+    "Nala pays Garrick four copper for a sack of salt.",
+    "In the Stag's back room she and Garrick pack Ghost-Eye's head in it; one sack does it.",
+    "It takes about an hour, and the head is salted and wrapped by a little after six.",
+    "Tobin's mother, Bet Ashdown, a reed-weaver, comes to the Stag with a packed bag for him.",
+    "Bet asks Nala to bring her boy home whole.",
+    "Garrick wipes his hands: bed and supper tonight is two silver; the free night was last night.",
+  ],
   lore: [
     "lore/overwhere-i-fenwatch-2",
     "lore/overwhere-i-garrick-pell",
