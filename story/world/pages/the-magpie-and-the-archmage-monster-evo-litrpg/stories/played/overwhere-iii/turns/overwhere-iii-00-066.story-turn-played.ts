@@ -4,6 +4,7 @@ export const overwhereIii00066 = {
   id: "01a0fe36-99ec-7902-bdb0-ca3133c9e110",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-066",
+  cover: "image/image-5d3e072157b3c47b",
   ownLength: 149,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -14,7 +15,7 @@ export const overwhereIii00066 = {
     "character-other/overwhere-iii-marda-hesk",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“Thanks Marda” I go out to the shrine to recover, then check for patients again",
   beats: [
     '"Thanks, Marda." Marda grunts and goes back to her ledger.',
@@ -40,6 +41,12 @@ export const overwhereIii00066 = {
     "place/overwhere-iii-wrenwood-crossroads",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-06T14:50:00.000Z",
+  coverAfter: "You sit against the shrine's warm stone. The white-gold threads seep in",
 } as const satisfies StoryTurnPlayed
