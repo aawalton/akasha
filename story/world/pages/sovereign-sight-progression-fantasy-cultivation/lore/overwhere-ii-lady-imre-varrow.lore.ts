@@ -109,7 +109,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "Her Spires glass is a disc of dark glass in a silver ring, kept in a chest by the hall wall.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Lady Varrow says the glass came from the Spires and shows a Talent for what it is.",
