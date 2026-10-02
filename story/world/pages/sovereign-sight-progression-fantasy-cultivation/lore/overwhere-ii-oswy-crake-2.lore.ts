@@ -117,7 +117,7 @@ export const overwhereIiOswyCrake2 = {
     },
     {
       fact: "If Crake falls, Bet cries out to Wil from the lane, and Wil lowers his crossbow; Kit follows.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
