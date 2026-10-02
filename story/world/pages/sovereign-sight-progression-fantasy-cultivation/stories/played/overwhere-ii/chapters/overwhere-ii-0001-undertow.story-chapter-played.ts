@@ -43,7 +43,7 @@ export const overwhereIi0001Undertow = {
     },
     {
       position: 7,
-      cover: "image/image-39f53e2c65af71bf",
+      cover: "image/image-9076a3d11b381c1a",
       coverAfter: "In the box bed, Wren pushes herself up on one elbow. Her",
     },
     {
