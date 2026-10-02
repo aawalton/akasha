@@ -16,13 +16,13 @@ export const overwhereI00082 = {
     "character-other/overwhere-i-harl-voss",
     "character-other/overwhere-i-quarry-crewman-three",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I take a blade from one of the downed men and stab both through the neck to make sure they are fully down, then quietly fall back a bit and start quietly circling, giving my mana some time to recharge.",
   beats: [
     "The warm rush floods through her, and a blue System window opens: Level 9.",
     "The window lists Strength +2, Dexterity +2, Vigor +2, Attunement +4, Luck +1.",
-    "The pressure behind her breastbone deepens, and a little fresh mana settles there.",
+    "The pressure behind her breastbone deepens, as it did at every level before.",
     "She takes the short sword from the helmed crossbowman's belt.",
     "She drives it through his neck, then through Crow's among the roots; both are dead already.",
     "Sword in hand, she slips back off the track into the pines and turns north.",
@@ -31,7 +31,7 @@ export const overwhereI00082 = {
     "Thirty yards below lie a turf hut, a smoky fire and four charcoal mounds facing the track.",
     "Three men crouch behind the mounds with crossbows, watching the cart track.",
     "By the hut door Harl Voss packs a sack, glancing again and again at the track.",
-    "Their eyes stay on the track; she lies in the pines on the rim, her well half refilled.",
+    "She lies flat in the pines on the rim as Voss knots the sack shut and looks up the track again.",
   ],
   issues: [
     '"a little fresh mana settles there" - lore: a level-up refills neither health nor mana',
