@@ -162,5 +162,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Wendlow's Board pays two gold a crewman, whether his head comes in or the man comes in alive.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Crow covers the withdrawal with two more bolts at her boulders; neither has a line on her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
