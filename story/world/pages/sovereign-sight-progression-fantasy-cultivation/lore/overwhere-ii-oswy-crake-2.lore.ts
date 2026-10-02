@@ -97,7 +97,7 @@ export const overwhereIiOswyCrake2 = {
     },
     {
       fact: "A cold-iron point driven hard into Crake's bare neck breaks his First Depth skin.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Speared through the neck, Crake dies in moments, and his reservoir spills out as cold brine.",
