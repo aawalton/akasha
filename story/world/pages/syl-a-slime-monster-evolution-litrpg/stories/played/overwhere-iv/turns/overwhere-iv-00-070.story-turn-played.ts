@@ -4,6 +4,7 @@ export const overwhereIv00070 = {
   id: "01a0fe69-edba-713e-8516-5d047e44cee2",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-070",
+  cover: "image/image-7239b4f71293ba90",
   ownLength: 276,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
@@ -42,6 +43,7 @@ export const overwhereIv00070 = {
     "place/overwhere-iv-north-west-pastures",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-05T16:03:00.000Z",
+  coverAfter: "The flicker steadies. For one long heartbeat the line almost holds,",
 } as const satisfies StoryTurnPlayed
