@@ -240,5 +240,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "On a deep wound the mending weave takes no hold at all, its mana draining for nothing.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "A fire-and-earth strength working is fire-strength by another road: same Strength, same cost.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
