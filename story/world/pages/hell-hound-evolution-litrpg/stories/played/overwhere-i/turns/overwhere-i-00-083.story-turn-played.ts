@@ -4,10 +4,17 @@ export const overwhereI00083 = {
   id: "01a0fe29-b768-7148-bc01-fe7d956b271b",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-083",
+  ownLength: 186,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 83,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-i-nala",
+    "character-other/overwhere-i-harl-voss",
+    "character-other/overwhere-i-quarry-crewman-three",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "30 yards is in range. I focus two separate beams of fire, one from each hand, and have then intersect at each target, focusing each man in turn until they drop.",
   beats: [
@@ -24,6 +31,8 @@ export const overwhereI00083 = {
     "Out past the fold's east lip, Voss's back and shield are vanishing into the pines with the sack.",
   ],
   lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
     "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-starfall-legacy-2",
     "lore/overwhere-i-the-deserter-crew-2",
