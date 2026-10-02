@@ -140,5 +140,29 @@ export const overwhereIvTheTangle2 = {
       fact: "Tull's fold lantern shows from the Tangle's edge, across the last two hundred paces of meadow.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's held line across the bank killed two climbers; then, rising, she was seen and ran.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "A sling stone took Nala between the shoulders and threw her down on the trail below the bank.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "As she falls, the LV 3 club is eight paces behind the spear, the two LV 2 knives fifteen.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The slinger stands twenty-five paces back up the trail, loading again, three breaths from a throw.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The pursuers are part of the strike; a seventh death anywhere breaks them as it breaks the band.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nothing of the fight in the cleft carries to Tull's, two miles off; nor did the strike's horn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
