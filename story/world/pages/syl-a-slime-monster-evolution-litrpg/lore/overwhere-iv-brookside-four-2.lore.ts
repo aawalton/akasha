@@ -35,5 +35,17 @@ export const overwhereIvBrooksideFour2 = {
       fact: "With a fifth member the Four would ask Ilsa for the farm night watch, one of them each farm.",
       knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
+    {
+      fact: "Told no, Dace takes it well, and says the Four's door stays open to her.",
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
+    },
+    {
+      fact: "Merrit, told Nala said no, does not hide that he is glad of it.",
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
+    },
+    {
+      fact: "Without Nala, the Four take the night watch at Hobb's and the Ashby place, two at each.",
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
+    },
   ],
 } as const satisfies Lore
