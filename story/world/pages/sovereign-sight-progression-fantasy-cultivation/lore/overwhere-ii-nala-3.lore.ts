@@ -54,7 +54,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "On the night road back, Nala's penned Water seeps out of her skin as cold salt sweat.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
