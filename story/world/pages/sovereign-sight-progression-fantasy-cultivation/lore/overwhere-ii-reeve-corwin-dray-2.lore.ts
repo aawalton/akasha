@@ -245,7 +245,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "At the Ford Dray will write the fight down for the Carrowmouth watch, and wants Nala's mark on it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray tells Nala Lady Varrow's man, Sir Edric Hale, comes within days to see the crag.",
