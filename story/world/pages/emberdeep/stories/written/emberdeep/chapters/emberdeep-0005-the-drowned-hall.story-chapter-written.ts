@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const emberdeep0005 = {
+export const emberdeep0005TheDrownedHall = {
   id: "01a0fe83-368b-7d7b-abaf-f7b736c5b5f2",
   type: "page-type/story-chapter-written",
-  slug: "emberdeep-0005",
+  slug: "emberdeep-0005-the-drowned-hall",
   position: 5,
   unit: "unit/words",
-  title: "Chapter 5",
+  title: "The Drowned Hall",
   story: "story-written/emberdeep",
-  ownLength: 0,
+  ownLength: 3916,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "It is Firstday; Nala wakes with Elowen asleep on her arm, her arm numb, and stays still anyway.",
     "Elowen wakes, remembers the kiss, and goes pink, and then kisses Nala again, quickly.",
@@ -86,5 +86,16 @@ export const emberdeep0005 = {
     "Nala falls asleep with Elowen against her, thinking of Wren's voice catching on the landing.",
     "A day in Emberdeep ends.",
   ],
-  lore: ["place/emberdeep-fennick", "place/emberdeep-second-level"],
+  lore: [
+    "lore/emberdeep-elowen",
+    "lore/emberdeep-nala",
+    "lore/emberdeep-wren",
+    "place/emberdeep-fennick",
+    "place/emberdeep-second-level",
+  ],
+  characters: [
+    "character-player/emberdeep-nala",
+    "character-other/emberdeep-wren",
+    "character-other/emberdeep-elowen",
+  ],
 } as const satisfies StoryChapterWritten
