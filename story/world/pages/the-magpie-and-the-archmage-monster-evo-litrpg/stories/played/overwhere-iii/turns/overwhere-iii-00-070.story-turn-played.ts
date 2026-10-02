@@ -7,7 +7,12 @@ export const overwhereIii00070 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 70,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Could you help me understand a few things, Marda? How do I level up faster and what do skill rarities mean?”",
+  lore: [
+    "lore/overwhere-iii-marda-hesk",
+    "lore/overwhere-iii-the-system",
+    "place/overwhere-iii-merrowgate-guild-post",
+  ],
 } as const satisfies StoryTurnPlayed
