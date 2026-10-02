@@ -4,6 +4,7 @@ export const hollowmere0015BreatheOut = {
   id: "01a0feb8-60fb-7b2f-8e9b-8e876a2e051c",
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0015-breathe-out",
+  cover: "image/image-6f4617409fad911e",
   ownProgress: 0,
   position: 15,
   unit: "unit/words",
@@ -11,7 +12,7 @@ export const hollowmere0015BreatheOut = {
   story: "story-written/hollowmere",
   ownLength: 2766,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "Monday of week three: the morning after the storm is washed clean, blue and cold and very still.",
     "The mere is flat again, littered with branches; the fells are back, sharp, snow on the tops.",
@@ -59,11 +60,13 @@ export const hollowmere0015BreatheOut = {
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",
     "lore/hollowmere-kit",
+    "lore/hollowmere-kit-2",
     "lore/hollowmere-lin",
     "lore/hollowmere-nala",
     "lore/hollowmere-nala-2",
     "lore/hollowmere-priya",
     "lore/hollowmere-shiv",
+    "lore/hollowmere-world",
     "lore/hollowmere-yusra",
     "place/hollowmere-thornfield-house",
   ],
@@ -78,5 +81,27 @@ export const hollowmere0015BreatheOut = {
     "character-other/hollowmere-priya",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
+  scenes: ["image/image-6f4617409fad911e", "image/image-d092948cf5bc3249"],
+  pictured: [
+    {
+      cover: "image/image-6f4617409fad911e",
+      coverAfter: "She's in Bea's jumper. A big soft cream one, cable-knit, much too large,",
+      character: "character-other/hollowmere-kit",
+      outfit: "Bea's big cream cable-knit jumper over her own long black skirt",
+    },
+    {
+      cover: "image/image-d092948cf5bc3249",
+      coverAfter:
+        "She's waiting for someone, or pretending to, leaning on the doorframe in a camel coat",
+      character: "character-other/hollowmere-amara",
+      outfit:
+        "camel coat over a fitted black knit and black tailored trousers, braids up, gold hoops",
+    },
+  ],
 } as const satisfies StoryChapterWritten
