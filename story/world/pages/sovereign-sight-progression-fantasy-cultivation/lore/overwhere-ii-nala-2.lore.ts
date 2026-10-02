@@ -212,5 +212,13 @@ export const overwhereIiNala2 = {
       fact: "On the night of day eight Nala dreams of the tarn, and a stair of black water going down.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "With all her muscle refined whole, Nala's body feels like a drawn bow.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Nala wakes from the tarn dream in the dark, heart pounding, the pull still in her chest.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
