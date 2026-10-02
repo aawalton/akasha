@@ -326,7 +326,7 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "From the knoll, thin smoke shows rising from a hill fold at the cart track's far end.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Lensing the four crossing the track's one clearing, two miles off, is moderate; one man limps.",
