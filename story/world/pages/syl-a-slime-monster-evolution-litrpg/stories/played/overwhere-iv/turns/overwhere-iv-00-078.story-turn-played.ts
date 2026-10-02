@@ -11,4 +11,5 @@ export const overwhereIv00078 = {
   action:
     "I turn and use my momentum to slash across its neck with the spear, then get up and run again, weaving a bit to dodge the slings.",
   lore: ["lore/overwhere-iv-the-tangle-2"],
+  endsAt: "2026-10-06T21:22:00.000Z",
 } as const satisfies StoryTurnPlayed
