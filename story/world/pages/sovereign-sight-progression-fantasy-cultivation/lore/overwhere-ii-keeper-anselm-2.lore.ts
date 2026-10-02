@@ -41,7 +41,7 @@ export const overwhereIiKeeperAnselm2 = {
     },
     {
       fact: "Anselm begs Nala not to Descend in haste; a botched Descent can maim or kill.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Anselm thinks the senior Keeper from Carrowmouth could guide Nala's Descent, if she waits.",
