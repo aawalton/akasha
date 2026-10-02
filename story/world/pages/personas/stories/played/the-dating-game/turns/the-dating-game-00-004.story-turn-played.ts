@@ -5,6 +5,7 @@ export const theDatingGame00004 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-004",
   cover: "image/image-bf1c87f7fd4f5385",
+  coverAfter: "So it goes, on up the canyon. Now and then you knock",
   ownLength: 238,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

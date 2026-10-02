@@ -5,6 +5,7 @@ export const theDatingGame00022 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-022",
   cover: "image/image-b7593890b3b6c7c1",
+  coverAfter: "A breeze comes through and stirs the willows, and a few early",
   ownLength: 119,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

@@ -5,6 +5,7 @@ export const theDatingGame00001 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-001",
   cover: "image/image-aa5338cf01cb6d60",
+  coverAfter: "You cook breakfast in bare feet, the tile cold, butter hissing in",
   partOfCollections: ["story-played/the-dating-game"],
   position: 1,
   ownLength: 259,

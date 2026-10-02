@@ -5,6 +5,7 @@ export const theDatingGame00039 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-039",
   cover: "image/image-7314651607e1bc43",
+  coverAfter: "Her hair is long and loose, auburn-chestnut, red only where the light",
   ownLength: 242,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

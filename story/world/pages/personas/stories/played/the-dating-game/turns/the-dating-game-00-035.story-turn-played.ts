@@ -5,6 +5,7 @@ export const theDatingGame00035 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-035",
   cover: "image/image-3678a02f2d0d14dc",
+  coverAfter: "She walks a few paces in silence, the lantern light moving over",
   ownLength: 153,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

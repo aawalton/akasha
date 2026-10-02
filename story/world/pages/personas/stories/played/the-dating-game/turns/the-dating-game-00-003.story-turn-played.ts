@@ -5,6 +5,7 @@ export const theDatingGame00003 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-003",
   cover: "image/image-3a49b7a3bd9b524d",
+  coverAfter: "She swings her legs over the edge of the boulder and slides",
   ownLength: 215,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

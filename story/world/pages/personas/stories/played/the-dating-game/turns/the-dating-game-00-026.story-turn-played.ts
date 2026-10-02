@@ -5,6 +5,7 @@ export const theDatingGame00026 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-026",
   cover: "image/image-42f1a522d1061cc5",
+  coverAfter: "She turns the unlit lantern a quarter turn on the step, idly,",
   ownLength: 118,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

@@ -5,6 +5,7 @@ export const theDatingGame00017 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-017",
   cover: "image/image-cc190224a71b8e38",
+  coverAfter: "She leads you down a quiet hall, carpet hushing your steps, past",
   ownLength: 367,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

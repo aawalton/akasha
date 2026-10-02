@@ -5,6 +5,7 @@ export const theDatingGame00034 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-034",
   cover: "image/image-d2adf6587d8cc91e",
+  coverAfter: "Grace listens all the way through, walking slowly beside you, the lantern",
   ownLength: 175,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

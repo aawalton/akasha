@@ -5,6 +5,7 @@ export const theDatingGame00023 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-023",
   cover: "image/image-c1dd353f2d5c0c39",
+  coverAfter: "Above the rooftops Y Mountain holds the late light, the white letter",
   ownLength: 90,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

@@ -5,6 +5,7 @@ export const theDatingGame00046 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-046",
   cover: "image/image-afedbf58a83c4c00",
+  coverAfter: "A little before noon you come out at the trailhead, the park's",
   ownLength: 179,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

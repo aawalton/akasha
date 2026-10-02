@@ -5,6 +5,7 @@ export const theDatingGame00009 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-009",
   cover: "image/image-d6864092be64f1d0",
+  coverAfter: "She lifts the black-and-gold headphones up off her collarbones and settles them",
   ownLength: 262,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

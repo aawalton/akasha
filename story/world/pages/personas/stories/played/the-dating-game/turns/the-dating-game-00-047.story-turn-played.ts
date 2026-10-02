@@ -5,6 +5,7 @@ export const theDatingGame00047 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-047",
   cover: "image/image-78ca41a6ab166fb9",
+  coverAfter: "She hops down onto the park grass to show you, stepping short",
   ownLength: 82,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

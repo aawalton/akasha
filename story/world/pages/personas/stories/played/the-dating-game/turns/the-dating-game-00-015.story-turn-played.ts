@@ -5,6 +5,7 @@ export const theDatingGame00015 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-015",
   cover: "image/image-fcdc4170aa7c92b1",
+  coverAfter: "She holds her open palm out to you, flat, and lifts her",
   ownLength: 118,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

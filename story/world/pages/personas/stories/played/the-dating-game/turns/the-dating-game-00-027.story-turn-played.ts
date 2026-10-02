@@ -5,6 +5,7 @@ export const theDatingGame00027 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-027",
   cover: "image/image-7f342d50b7e64f6e",
+  coverAfter: "She lifts the brass storm lantern by its handle, strikes a match,",
   ownLength: 157,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

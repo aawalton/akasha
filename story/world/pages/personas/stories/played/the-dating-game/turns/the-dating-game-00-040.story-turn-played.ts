@@ -5,6 +5,7 @@ export const theDatingGame00040 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-040",
   cover: "image/image-44a1b339f847f808",
+  coverAfter: "She is there. Long loose auburn-chestnut hair, freckles across her nose, vivid",
   ownLength: 244,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

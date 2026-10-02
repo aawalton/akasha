@@ -5,6 +5,7 @@ export const theDatingGame00019 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-019",
   cover: "image/image-fe3cfbd3ee4f7930",
+  coverAfter: "In the booth Echo goes pink all the way to the ears",
   ownLength: 218,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

@@ -5,6 +5,7 @@ export const theDatingGame00037 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-037",
   cover: "image/image-e977d2e1543a6e39",
+  coverAfter: "Grace stops beneath a tall pine, and the lantern light pools gold",
   ownLength: 102,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

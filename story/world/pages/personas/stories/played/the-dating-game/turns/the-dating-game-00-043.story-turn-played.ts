@@ -5,6 +5,7 @@ export const theDatingGame00043 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-043",
   cover: "image/image-c0f8367b71a7f551",
+  coverAfter: "Afterward she flops back in the grass with her arms flung out,",
   ownLength: 137,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

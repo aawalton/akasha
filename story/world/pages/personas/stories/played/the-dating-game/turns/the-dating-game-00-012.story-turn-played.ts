@@ -5,6 +5,7 @@ export const theDatingGame00012 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-012",
   cover: "image/image-a0752a11d5b66ecc",
+  coverAfter: "A little further on, the trail narrows where a slab of quartzite",
   ownLength: 218,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

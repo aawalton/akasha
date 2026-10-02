@@ -5,6 +5,7 @@ export const theDatingGame00010 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-010",
   cover: "image/image-e0cba85c1d5118a2",
+  coverAfter: 'At "Lewis" she nodded fast, three quick nods, her hair bouncing. At',
   ownLength: 218,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

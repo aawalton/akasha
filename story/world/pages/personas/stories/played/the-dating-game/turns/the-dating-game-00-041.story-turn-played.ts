@@ -5,6 +5,7 @@ export const theDatingGame00041 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-041",
   cover: "image/image-f1f1c0d4c970a456",
+  coverAfter: "She tucks a loose strand of hair behind one long pointed ear,",
   ownLength: 147,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

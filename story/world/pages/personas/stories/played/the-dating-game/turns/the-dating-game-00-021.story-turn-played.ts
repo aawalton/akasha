@@ -5,6 +5,7 @@ export const theDatingGame00021 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-021",
   cover: "image/image-062c515a3f0b8301",
+  coverAfter: "The stream circles the whole campus, and the trail keeps to its",
   ownLength: 155,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

@@ -5,6 +5,7 @@ export const theDatingGame00007 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-007",
   cover: "image/image-da9e0b5916135ec2",
+  coverAfter: "The cold feels great after the climb, cool on your face and",
   ownLength: 295,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

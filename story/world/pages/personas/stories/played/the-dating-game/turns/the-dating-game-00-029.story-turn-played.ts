@@ -5,6 +5,7 @@ export const theDatingGame00029 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-029",
   cover: "image/image-ce8376b4d33e759e",
+  coverAfter: "Grace slows beside an old headstone, its carved name worn soft by",
   ownLength: 137,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

@@ -5,6 +5,7 @@ export const theDatingGame00008 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-008",
   cover: "image/image-c11f1ab90a21faf6",
+  coverAfter: "She taps her own chest, just below the headphones, and a crooked",
   ownLength: 244,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

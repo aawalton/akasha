@@ -5,6 +5,7 @@ export const theDatingGame00049 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-049",
   cover: "image/image-dd9bc700e0b23203",
+  coverAfter: "She heads for the bike rack at the edge of the lot,",
   ownLength: 80,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

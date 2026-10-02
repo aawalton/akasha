@@ -5,6 +5,7 @@ export const theDatingGame00036 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-036",
   cover: "image/image-77cbff0d2f165a70",
+  coverAfter: "The corner of her red mouth lifts. \"Nothing's ever far away, for",
   ownLength: 137,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

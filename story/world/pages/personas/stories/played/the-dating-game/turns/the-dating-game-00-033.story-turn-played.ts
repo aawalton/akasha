@@ -5,6 +5,7 @@ export const theDatingGame00033 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-033",
   cover: "image/image-edc201c13dbc0e48",
+  coverAfter: "Grace stops on the path and turns to face you fully, the",
   ownLength: 141,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

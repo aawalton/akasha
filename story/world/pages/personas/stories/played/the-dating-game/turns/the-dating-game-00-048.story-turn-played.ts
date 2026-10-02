@@ -5,6 +5,7 @@ export const theDatingGame00048 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-048",
   cover: "image/image-25566025b1e61610",
+  coverAfter: "She throws both hands up in a V, loud enough that a",
   ownLength: 128,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

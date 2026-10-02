@@ -5,6 +5,7 @@ export const theDatingGame00050 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-050",
   cover: "image/image-9e5a2e846ae3a817",
+  coverAfter: "Where the street crests, the whole valley opens out below, Utah Lake",
   ownLength: 90,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

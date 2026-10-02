@@ -5,6 +5,7 @@ export const theDatingGame00038 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-038",
   cover: "image/image-d944162d17ee3c25",
+  coverAfter: "She lifts the lantern a little in farewell, and its light falls",
   ownLength: 64,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

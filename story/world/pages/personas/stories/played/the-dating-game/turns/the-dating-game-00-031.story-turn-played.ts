@@ -5,6 +5,7 @@ export const theDatingGame00031 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-031",
   cover: "image/image-d20f4256226060fd",
+  coverAfter: "She turns down the next row, holding the lantern low so its",
   ownLength: 139,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

@@ -5,6 +5,7 @@ export const theDatingGame00011 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-011",
   cover: "image/image-002ac2e171c34b24",
+  coverAfter: "Then she smiles and slowly shakes her head. It's a gentle shake,",
   ownLength: 133,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

@@ -5,6 +5,7 @@ export const theDatingGame00006 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-006",
   cover: "image/image-96601d98270b5689",
+  coverAfter: "Echo gets there first. She bends and drinks, long and grateful, her",
   ownLength: 266,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

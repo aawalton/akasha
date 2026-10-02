@@ -5,6 +5,7 @@ export const theDatingGame00014 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-014",
   cover: "image/image-968027e506f4cade",
+  coverAfter: "She looks at you with a squint, narrow and professional and entirely",
   ownLength: 211,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],

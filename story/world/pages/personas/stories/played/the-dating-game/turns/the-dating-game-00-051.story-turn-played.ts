@@ -5,6 +5,7 @@ export const theDatingGame00051 = {
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-051",
   cover: "image/image-7882332d52412fa2",
+  coverAfter: "She looks about twenty-five, with dark hair, warm olive skin and thick,",
   ownLength: 145,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
