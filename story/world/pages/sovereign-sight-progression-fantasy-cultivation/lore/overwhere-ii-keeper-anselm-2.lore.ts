@@ -33,7 +33,7 @@ export const overwhereIiKeeperAnselm2 = {
     },
     {
       fact: "Anselm says the call does not compel; it comes again, stronger, until it is answered.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The canticles say one answers the call where the dream shows, or in still, quiet water.",
