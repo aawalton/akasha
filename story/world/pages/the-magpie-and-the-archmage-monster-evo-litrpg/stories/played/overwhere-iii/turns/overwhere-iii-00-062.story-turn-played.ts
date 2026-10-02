@@ -4,10 +4,17 @@ export const overwhereIii00062 = {
   id: "01a0fdd1-b121-7894-9f2f-e1a514e50658",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-062",
+  ownLength: 189,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 62,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-oswin-fairley",
+    "character-other/overwhere-iii-brannagh-tull",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "“Yes.” I turn to the washerwoman. “I’ll need to take care of the fox first and can’t risk running out of my mana, but I could help you in the evening if you’d like to come back then. Then I go with the father to find the fox.",
   beats: [
@@ -29,6 +36,8 @@ export const overwhereIii00062 = {
     "lore/overwhere-iii-cleansing-weave",
     "lore/overwhere-iii-corruption",
     "lore/overwhere-iii-corruption-2",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
     "lore/overwhere-iii-oswin-fairley",
     "lore/overwhere-iii-wrenmark-beast-guide",
     "place/overwhere-iii-fairley-farm",
