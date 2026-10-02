@@ -126,5 +126,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Two more of Voss's men keep the charcoal camp, Levels 11 and 13, with crossbows.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's beams killed Crow in the pines at the bend, and the helmed crossbowman as he ran.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
