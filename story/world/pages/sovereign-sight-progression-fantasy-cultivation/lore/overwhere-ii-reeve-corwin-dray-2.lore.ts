@@ -209,7 +209,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "With Pip in hand, Dray still means to go on to Grey Shaw tonight and take the stash.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
