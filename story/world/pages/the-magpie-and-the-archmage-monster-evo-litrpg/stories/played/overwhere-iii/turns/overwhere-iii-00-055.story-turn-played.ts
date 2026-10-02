@@ -14,7 +14,7 @@ export const overwhereIii00055 = {
     "character-other/overwhere-iii-marda-hesk",
     "character-other/overwhere-iii-bet-harrow",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "I work on the next blightstone while my mana lasts, then wind down for the night.",
   beats: [
     "Marda lifts the stag's second stone out with her tongs and sets it on the desk.",
@@ -28,7 +28,7 @@ export const overwhereIii00055 = {
     "Nala walks up through the dark to the Crook and Candle, warm and loud inside.",
     "She pays Bet three copper for supper and eight for the bed under the eaves.",
     "Bet sets down a bowl of stew and bread, and the hollow in Nala's middle finally fills.",
-    "Up under the eaves, she lies down. Morning brings a full well and a half-pale stone.",
+    "Up under the eaves, she lies down in the dark, her stung hand resting on the blanket.",
   ],
   issues: ['"Morning brings a full well and a half-pale stone." - Leave It Open'],
   lore: [
