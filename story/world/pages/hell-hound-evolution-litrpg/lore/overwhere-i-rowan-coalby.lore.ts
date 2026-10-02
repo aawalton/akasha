@@ -184,7 +184,7 @@ export const overwhereIRowanCoalby = {
     },
     {
       fact: "Rowan leaves the sled on the marsh side and ropes the head back across the channel to it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Sedge will not go within ten yards of Ghost-Eye's body, and whines on the bank.",
