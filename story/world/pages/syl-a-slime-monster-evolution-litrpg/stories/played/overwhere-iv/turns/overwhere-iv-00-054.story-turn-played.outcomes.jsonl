@@ -1,1 +1,2 @@
 {"check":"world-check/overwhere-iv-growth","reading":{"character":"nala","gains":[{"kind":"experience","track":"race","level":5,"experience":20,"deeds":1}]},"answered":{"grown":[{"kind":"experience","track":"race","from":5,"to":5,"experience":21,"next":50,"points":0}]}}
+{"check":"world-check/overwhere-iv-time-passing","reading":{"from":"2026-10-03T11:05:00.000Z","minutes":150},"answered":{"endsAt":"2026-10-03T13:35:00.000Z","day":5,"light":"day"}}
