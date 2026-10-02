@@ -150,7 +150,11 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "At Legend a skill reaches maximum potential and may be upgraded to Rank 2 for 100 glimmerstones.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "A Rank 2 upgrade offers three or four variants, of which one is chosen.",
