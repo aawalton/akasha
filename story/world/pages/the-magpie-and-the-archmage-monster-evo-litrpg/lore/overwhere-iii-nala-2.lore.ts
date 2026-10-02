@@ -241,5 +241,9 @@ export const overwhereIiiNala2 = {
       fact: "At Expert, Mana Weaver reaches currents four times as far off, and lends four times the Basic mana.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "[Mana Weaver – At [Expert] level, you see currents from very far off. They lend you far more.]",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
