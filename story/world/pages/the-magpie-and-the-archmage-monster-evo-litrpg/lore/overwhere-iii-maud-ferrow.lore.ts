@@ -119,6 +119,7 @@ export const overwhereIiiMaudFerrow = {
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-maud-ferrow",
         "character-other/overwhere-iii-tam-rowe",
+        "character-player/overwhere-iii-nala",
       ],
     },
     {
