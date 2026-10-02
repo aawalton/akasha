@@ -86,7 +86,11 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "Foes at or above one's level give the most experience; far weaker foes give little or none.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Party members share quests and experience; a Party Profile lists each one's health and mana.",
