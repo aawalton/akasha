@@ -4,10 +4,13 @@ export const overwhereI00076 = {
   id: "01a0fd94-8679-7a8e-9160-938e14f7dad2",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-076",
+  ownLength: 106,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 76,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I pull out the pale blue crystals and pull on them, to see if I can use them to refill my mana.",
   beats: [
@@ -20,6 +23,8 @@ export const overwhereI00076 = {
     "Another voice hisses him quiet.",
   ],
   lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
     "lore/overwhere-i-the-deserter-crew-2",
     "lore/overwhere-i-the-system-2",
     "lore/overwhere-i-the-western-march",
