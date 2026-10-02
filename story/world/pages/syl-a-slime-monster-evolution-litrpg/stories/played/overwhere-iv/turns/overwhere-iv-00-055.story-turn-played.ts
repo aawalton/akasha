@@ -5,6 +5,7 @@ export const overwhereIv00055 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-055",
   cover: "image/image-746d63889062e374",
+  coverAfter: "The hall is quiet. Ilsa looks up from her ledger as you",
   ownLength: 326,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],

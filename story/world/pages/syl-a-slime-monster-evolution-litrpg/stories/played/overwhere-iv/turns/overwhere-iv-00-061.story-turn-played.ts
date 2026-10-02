@@ -5,6 +5,7 @@ export const overwhereIv00061 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-061",
   cover: "image/image-da9db5566f87e917",
+  coverAfter: "Ten minutes gone. The beast hasn't stirred. The wind still blows from",
   ownLength: 172,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],

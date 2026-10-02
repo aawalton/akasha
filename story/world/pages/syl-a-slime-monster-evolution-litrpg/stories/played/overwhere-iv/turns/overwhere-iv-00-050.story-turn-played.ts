@@ -5,6 +5,7 @@ export const overwhereIv00050 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-050",
   cover: "image/image-cd0e8ab5d00ba404",
+  coverAfter: "Last, the primer. Letters and sums, a child's drawings crowding its margins.",
   ownLength: 159,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],

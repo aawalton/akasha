@@ -5,6 +5,7 @@ export const overwhereIv00044 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-044",
   cover: "image/image-f6df136964461d5a",
+  coverAfter: "A strong newcomer who shows what she can do at a city",
   ownLength: 255,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],

@@ -5,6 +5,7 @@ export const overwhereIv00057 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-057",
   cover: "image/image-0e3599f0d786188b",
+  coverAfter: "Sparks fly from the grindstone in long orange threads. Outside, the square's",
   ownLength: 126,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],

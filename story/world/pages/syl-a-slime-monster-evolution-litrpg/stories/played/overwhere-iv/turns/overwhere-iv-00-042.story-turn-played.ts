@@ -5,6 +5,7 @@ export const overwhereIv00042 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-042",
   cover: "image/image-6d17140383c9725c",
+  coverAfter: "Then limb by limb, down the shaft. A sweep of the spear,",
   ownLength: 241,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],

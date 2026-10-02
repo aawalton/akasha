@@ -5,6 +5,7 @@ export const overwhereIv00045 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-045",
   cover: "image/image-12ade7233a70be32",
+  coverAfter: "She counts on her inky fingers. \"Hobb's slimes. The lookout. The oak.",
   ownLength: 178,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],

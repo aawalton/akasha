@@ -5,6 +5,7 @@ export const overwhereIv00047 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-047",
   cover: "image/image-a7d6e2c85256192e",
+  coverAfter: "One whitewashed room, cool and dim, with benches and an altar. Behind",
   ownLength: 195,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],

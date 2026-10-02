@@ -5,6 +5,7 @@ export const overwhereIv00040 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-040",
   cover: "image/image-9046a4dd60e5d8bd",
+  coverAfter: "The ground jumps. Leaves shower down. The crown lies on the grass,",
   ownLength: 222,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],

@@ -5,6 +5,7 @@ export const overwhereIv00053 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-053",
   cover: "image/image-f92cfdfed1f2853c",
+  coverAfter: "Except one small body, which your sense finds pressed flat among the",
   ownLength: 242,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],

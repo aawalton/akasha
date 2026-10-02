@@ -5,6 +5,7 @@ export const overwhereIv00049 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-049",
   cover: "image/image-2f6a17485f202a33",
+  coverAfter: 'Anwen smiles, and unlocks a heavy volume with a cracked spine. "My',
   ownLength: 132,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],

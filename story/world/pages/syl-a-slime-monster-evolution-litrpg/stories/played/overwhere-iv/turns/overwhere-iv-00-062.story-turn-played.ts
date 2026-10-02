@@ -5,6 +5,7 @@ export const overwhereIv00062 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-062",
   cover: "image/image-5ec94df819e7dee5",
+  coverAfter: "It bursts out from under the shelf: grey-black, tall as a pony,",
   ownLength: 148,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],

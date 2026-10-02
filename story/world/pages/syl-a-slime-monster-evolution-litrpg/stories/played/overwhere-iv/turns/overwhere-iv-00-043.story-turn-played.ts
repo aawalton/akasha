@@ -5,6 +5,7 @@ export const overwhereIv00043 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-043",
   cover: "image/image-e6e45d9102148048",
+  coverAfter: "She reaches under the counter and sets a thick, worn volume on",
   ownLength: 129,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],

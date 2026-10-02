@@ -5,6 +5,7 @@ export const overwhereIv00063 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-063",
   cover: "image/image-ddbb18002ea20b54",
+  coverAfter: "The beast hangs on the spear, a pace from your face. Blood",
   ownLength: 208,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],

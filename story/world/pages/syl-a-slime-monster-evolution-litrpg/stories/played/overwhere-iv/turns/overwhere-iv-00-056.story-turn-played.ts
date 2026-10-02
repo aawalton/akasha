@@ -5,6 +5,7 @@ export const overwhereIv00056 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-056",
   cover: "image/image-778860a67a0fb348",
+  coverAfter: "He jerks his chin at the wall: one plain iron-headed hunting spear",
   ownLength: 198,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],

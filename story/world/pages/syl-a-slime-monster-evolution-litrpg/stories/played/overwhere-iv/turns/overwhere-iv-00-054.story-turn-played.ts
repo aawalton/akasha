@@ -5,6 +5,7 @@ export const overwhereIv00054 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-054",
   cover: "image/image-1a27834a6b8ab86c",
+  coverAfter: "On the hobgoblin: a cracked ox horn on a greasy cord, and",
   ownLength: 336,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],

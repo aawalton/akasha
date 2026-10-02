@@ -5,6 +5,7 @@ export const overwhereIv00039 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-039",
   cover: "image/image-354db36b1b44a401",
+  coverAfter: "The oak fills the middle of the field. Eighty feet tall, four",
   ownLength: 214,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],

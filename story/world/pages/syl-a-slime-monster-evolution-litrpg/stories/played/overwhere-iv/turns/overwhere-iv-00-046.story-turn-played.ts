@@ -5,6 +5,7 @@ export const overwhereIv00046 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-046",
   cover: "image/image-5f2caa0dc2434e7f",
+  coverAfter: "You take a place at a long table and pay three copper:",
   ownLength: 155,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],

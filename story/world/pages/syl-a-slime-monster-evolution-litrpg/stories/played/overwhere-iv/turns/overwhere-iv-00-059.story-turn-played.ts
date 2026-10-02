@@ -5,6 +5,7 @@ export const overwhereIv00059 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-059",
   cover: "image/image-2766bd4f6a77e39a",
+  coverAfter: "The board holds the old notices, slimes, wolves, herbs, east-road guards, and",
   ownLength: 331,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],

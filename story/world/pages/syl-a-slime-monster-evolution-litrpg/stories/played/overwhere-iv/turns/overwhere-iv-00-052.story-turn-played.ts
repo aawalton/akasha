@@ -5,6 +5,7 @@ export const overwhereIv00052 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-052",
   cover: "image/image-d98f65af2111bcab",
+  coverAfter: "Three squat by a fire on the near bank, gnawing a sheep.",
   ownLength: 299,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],

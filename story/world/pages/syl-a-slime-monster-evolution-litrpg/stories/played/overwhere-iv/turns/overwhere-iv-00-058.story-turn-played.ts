@@ -5,6 +5,7 @@ export const overwhereIv00058 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-058",
   cover: "image/image-c4f74b71ab93f342",
+  coverAfter: "Two hours of it. The yard's shadows run long, and the sky",
   ownLength: 272,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],

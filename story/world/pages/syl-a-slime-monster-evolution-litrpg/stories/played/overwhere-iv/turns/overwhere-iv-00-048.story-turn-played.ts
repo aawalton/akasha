@@ -5,6 +5,7 @@ export const overwhereIv00048 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-048",
   cover: "image/image-da28538aea86a728",
+  coverAfter: "She unlocks a fat hand-copied book from its chain and sets it",
   ownLength: 179,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],

@@ -5,6 +5,7 @@ export const overwhereIv00051 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-051",
   cover: "image/image-1ccd5953596a77f7",
+  coverAfter: "At the hall, Ilsa is pinning a fresh notice by the counter.",
   ownLength: 188,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],

@@ -5,6 +5,7 @@ export const overwhereIv00041 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-041",
   cover: "image/image-c7a4e76f8a4c99fa",
+  coverAfter: "He brightens, and stumps along the fallen trunk, slapping the bark as",
   ownLength: 134,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],

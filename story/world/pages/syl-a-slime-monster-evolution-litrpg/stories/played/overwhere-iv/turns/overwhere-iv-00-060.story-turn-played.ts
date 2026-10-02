@@ -5,6 +5,7 @@ export const overwhereIv00060 = {
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-060",
   cover: "image/image-8828c02d226e920a",
+  coverAfter: "Shapes thick and spiny choke its sides. Gorse. A beck runs in",
   ownLength: 385,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
