@@ -4,6 +4,7 @@ export const overwhereI00085 = {
   id: "01a0fe47-42d8-70da-89d9-597cf2336fbf",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-085",
+  cover: "image/image-ded211d7bfe7f959",
   ownLength: 171,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -39,6 +40,7 @@ export const overwhereI00085 = {
     "lore/overwhere-i-the-system-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-03T19:03:00.000Z",
+  coverAfter: "Your second pair meets on the charred shield. It bursts through, and through",
 } as const satisfies StoryTurnPlayed
