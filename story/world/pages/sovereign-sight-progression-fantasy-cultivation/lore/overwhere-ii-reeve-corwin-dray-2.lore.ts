@@ -165,7 +165,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray sends a rider to the Carrowmouth watch at first light with Wil's cellar, to free the captives.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "With Crake dead, the Carrowmouth watch pays five bars on proof; Dray says the price is all Nala's.",
