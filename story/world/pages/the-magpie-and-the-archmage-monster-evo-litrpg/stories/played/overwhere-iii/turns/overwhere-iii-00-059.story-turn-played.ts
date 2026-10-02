@@ -4,7 +4,7 @@ export const overwhereIii00059 = {
   id: "01a0fdad-4785-7529-bf21-d5bf40a692e3",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-059",
-  ownLength: 210,
+  ownLength: 212,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 59,
@@ -13,7 +13,7 @@ export const overwhereIii00059 = {
     "character-player/overwhere-iii-nala",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "I pull out the blight and heal the injury, paying attention and trying to figure out what is different with the increase in rarity.",
   beats: [
