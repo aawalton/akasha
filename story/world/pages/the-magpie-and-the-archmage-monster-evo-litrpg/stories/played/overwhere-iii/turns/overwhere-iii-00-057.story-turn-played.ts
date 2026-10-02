@@ -4,10 +4,13 @@ export const overwhereIii00057 = {
   id: "01a0fd92-6460-7ae5-9e52-d66c1ec6aa37",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-057",
+  ownLength: 210,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 57,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
+  stepStatus: "step-status/reviewers",
   action: "I go refill at the shrine then come back to continue.",
   beats: [
     "Nala walks out the south gate and down to the crossroads, and sits against the shrine's warm stone.",
@@ -28,6 +31,7 @@ export const overwhereIii00057 = {
   lore: [
     "lore/overwhere-iii-cleansing-weave",
     "lore/overwhere-iii-corruption",
+    "lore/overwhere-iii-marda-hesk",
     "lore/overwhere-iii-nala",
     "lore/overwhere-iii-nala-2",
     "place/overwhere-iii-merrowgate-guild-post",
