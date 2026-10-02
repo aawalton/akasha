@@ -68,7 +68,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 12,
-      cover: "image/image-a7f556b48a7d9a5b",
+      cover: "image/image-6954afbf1f02ddf2",
       coverAfter: "The thing rears up off the books. It's as long as a",
     },
     {
