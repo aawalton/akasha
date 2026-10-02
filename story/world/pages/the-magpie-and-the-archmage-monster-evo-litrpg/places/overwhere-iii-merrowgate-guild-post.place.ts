@@ -274,10 +274,13 @@ export const overwhereIiiMerrowgateGuildPost = {
         "character-player/overwhere-iii-nala",
       ],
     },
-
     {
       fact: "The wolf's stones were paid their bounty when brought in; cracking a stone earns no bounty.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Guild post buys and sells no glimmerstones; Marda holds none to sell.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
   ],
   secrets: "jsonl",
