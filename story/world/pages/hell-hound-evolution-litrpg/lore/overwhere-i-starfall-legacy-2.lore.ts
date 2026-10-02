@@ -152,5 +152,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Nala can loose a beam, or twin beams, about every 2 seconds.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A spinning water blade, an air-and-water weave, cuts flesh and bone at arm's reach for 10 mana.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
