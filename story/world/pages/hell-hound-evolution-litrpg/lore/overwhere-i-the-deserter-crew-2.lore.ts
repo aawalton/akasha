@@ -174,5 +174,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Shooting after a spoken refusal is open war, not striking under parley.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Voss ducks back as he speaks; her first slug after the answer finds only stone.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
