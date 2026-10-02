@@ -37,7 +37,12 @@ export const hollowmereExplicitness = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A tender moment says breasts and making love; a heated one may say tits, cunt and fuck.",
+        "A tender moment says breasts, pussy and making love; a heated one may say tits, cunt and fuck.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement:
+        "No clinical word such as vulva or penis stands in for the word a person would say.",
     },
     {
       decisionKind: "decision-kind/departure",
