@@ -4,13 +4,13 @@ export const overwhereIi00075 = {
   id: "01a0fdea-2eff-73ae-bf33-4c99304d258d",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-075",
-  ownLength: 326,
+  ownLength: 308,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 75,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "“Let’s go back and meet up with the rest tonight, just to prevent any issues with the prisoners.”",
   beats: [
