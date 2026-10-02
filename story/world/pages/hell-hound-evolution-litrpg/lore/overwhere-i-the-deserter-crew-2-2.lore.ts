@@ -360,7 +360,7 @@ export const overwhereITheDeserterCrew22 = {
     },
     {
       fact: "Each of Voss's men, Voss too, still wears his stamped tin levy tag on a cord at the neck.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Lore
