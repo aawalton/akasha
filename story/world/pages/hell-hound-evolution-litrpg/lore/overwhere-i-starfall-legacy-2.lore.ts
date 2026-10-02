@@ -205,7 +205,7 @@ export const overwhereIStarfallLegacy2 = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "A water-and-earth weave held on a wound, seen as flesh knitting, mends it: a Weave use, no new way.",
+      fact: "A water-and-earth weave held on a wound, meant as flesh knitting, mends it: a Weave use, no new way.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
