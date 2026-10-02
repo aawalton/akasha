@@ -143,6 +143,10 @@ export const overwhereIiOswyCrake = {
       fact: "The Loddons' bolts barely bite Nala's refined skin: the venom needs a bolt that breaks it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "From the hedge Pip sees Bet's tear-swollen face and her stiff walk, and tells Crake she looks wrong.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
