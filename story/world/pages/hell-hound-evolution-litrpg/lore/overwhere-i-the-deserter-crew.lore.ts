@@ -95,6 +95,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Told salt meat, Voss shrugs; a calm lie passes, a nervous one has him look inside.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Five men and a leashed Drakewolf in a spiked collar stand with Voss at the quarry.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
