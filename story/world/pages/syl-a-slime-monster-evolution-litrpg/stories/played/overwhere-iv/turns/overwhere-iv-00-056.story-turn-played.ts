@@ -4,13 +4,14 @@ export const overwhereIv00056 = {
   id: "01a0fd85-9790-7ce0-be5f-aa66c4c7dd56",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-056",
+  cover: "image/image-778860a67a0fb348",
   ownLength: 198,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 56,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I go to Tobin to buy the best spear I can get.",
   beats: [
     "Tobin Ash's smithy sits on the square, its forge glowing, the air thick with coal smoke.",
@@ -34,6 +35,11 @@ export const overwhereIv00056 = {
     "place/overwhere-iv-millbrook-smithy",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-03T14:55:00.000Z",
 } as const satisfies StoryTurnPlayed
