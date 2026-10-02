@@ -103,3 +103,50 @@ test("a skill stops at LV MAX", () => {
 test("a gain the game does not have is refused", () => {
   expect(settled({ character: "nala", gains: [{ kind: "stat" }] })).toHaveProperty("refused")
 })
+
+test("uses toward a skill she lacks are carried at LV 0", () => {
+  expect(
+    settled({
+      character: "nala",
+      gains: [{ kind: "skill", skill: "Sense Casting", level: 0, uses: 2 }],
+    })
+  ).toEqual({
+    answered: {
+      grown: [
+        { kind: "skill", skill: "Sense Casting", from: 0, to: 0, usesCarried: 2, maxed: false },
+      ],
+    },
+  })
+})
+
+test("a third use gains a skill she lacks at LV 1", () => {
+  expect(
+    settled({
+      character: "nala",
+      gains: [{ kind: "skill", skill: "Sense Casting", level: 0, uses: 3 }],
+    })
+  ).toHaveProperty("answered.grown.0", {
+    kind: "skill",
+    skill: "Sense Casting",
+    from: 0,
+    to: 1,
+    usesCarried: 0,
+    maxed: false,
+  })
+})
+
+test("uses past the third carry on toward LV 2", () => {
+  expect(
+    settled({
+      character: "nala",
+      gains: [{ kind: "skill", skill: "Sense Casting", level: 0, uses: 6 }],
+    })
+  ).toHaveProperty("answered.grown.0", {
+    kind: "skill",
+    skill: "Sense Casting",
+    from: 0,
+    to: 2,
+    usesCarried: 1,
+    maxed: false,
+  })
+})

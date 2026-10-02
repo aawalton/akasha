@@ -117,6 +117,10 @@ export const overwhereIvGrowth = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A skill she lacks is read at LV 0, and its uses carried as a held skill's are.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A skill gained shows as: <New skill acquired: [Spearmanship LV 1].>",
     },
     {

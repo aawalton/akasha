@@ -6,7 +6,7 @@ const POINTS_PER_LEVEL = 1
 
 const EXTRA_POINT_EVERY = 10
 
-const USES_TO_NEXT = [2, 3, 3, 4, 4, 5, 6, 8, 10] as const
+const USES_TO_NEXT = [3, 2, 3, 3, 4, 4, 5, 6, 8, 10] as const
 
 const MAX_LEVEL = 10
 
@@ -23,7 +23,7 @@ const EXPERIENCE = z.object({
 const SKILL = z.object({
   kind: z.literal("skill"),
   skill: z.string().trim().min(1),
-  level: z.number().int().min(1).max(MAX_LEVEL),
+  level: z.number().int().min(0).max(MAX_LEVEL),
   uses: z.number().int().min(0),
 })
 
@@ -96,7 +96,7 @@ function grownSkill(gain: z.infer<typeof SKILL>): SkillGrown {
   let level = gain.level
   let uses = gain.uses
   while (level < MAX_LEVEL) {
-    const need = USES_TO_NEXT[level - 1] ?? Number.POSITIVE_INFINITY
+    const need = USES_TO_NEXT[level] ?? Number.POSITIVE_INFINITY
     if (uses < need) break
     uses -= need
     level += 1
