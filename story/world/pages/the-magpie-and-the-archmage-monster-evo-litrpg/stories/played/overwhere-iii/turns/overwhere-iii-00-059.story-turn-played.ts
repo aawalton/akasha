@@ -13,7 +13,7 @@ export const overwhereIii00059 = {
     "character-player/overwhere-iii-nala",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I pull out the blight and heal the injury, paying attention and trying to figure out what is different with the increase in rarity.",
   beats: [
@@ -29,7 +29,7 @@ export const overwhereIii00059 = {
     "And they lend her five times as much as they did then.",
     "The lad flexes his calf and stares. He holds out a rag knotted around ten copper.",
     '"Da\'s," he says. Brannagh takes it and hands it straight to Nala.',
-    "The thread still hangs in her sight, thin and dark, pointing east toward the farms.",
+    'The dark thread runs east. "Our farm\'s out that way," the lad says. "On the Thornmere road."',
   ],
   issues: ['"The thread still hangs in your sight, thin and dark, pointing east" - Leave It Open'],
   lore: [
