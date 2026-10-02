@@ -280,5 +280,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "A beam at an unaware blademan's head from the east rim is moderate.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Once one blademan falls, Two scrambles for the spoil heap; a beam at his head is then hard.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
