@@ -10,7 +10,7 @@ export const hollowmere0013FromMemory = {
   story: "story-written/hollowmere",
   ownLength: 2803,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Saturday: you skip the swimmers and go down to the boathouse at seven, wrapped in Bea's jumper.",
     "Novice rowing: coxed fours on the grey water, mist on the mere, the captain bawling from a launch.",
@@ -53,6 +53,9 @@ export const hollowmere0013FromMemory = {
     "In 14 you lie awake counting: Shiv, Bea, Kit, Lin; and a name said once in the kitchen doorway.",
     "A day at Hollowmere ends.",
   ],
+  issues: [
+    '"beside you ... is a blonde bun" - at the Welcome Dinner Bea sat at another table across the hall',
+  ],
   lore: [
     "lore/hollowmere-academy-2",
     "lore/hollowmere-amara",
@@ -79,5 +82,5 @@ export const hollowmere0013FromMemory = {
     "character-other/hollowmere-yusra",
     "character-other/hollowmere-kit",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
