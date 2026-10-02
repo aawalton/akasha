@@ -150,5 +150,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "At full dark, about 19:30, Voss means to slip away east alone with the silver.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The camp's hill fold can be circled through pines to its rim above; quietly, that is moderate.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
