@@ -13,7 +13,7 @@ export const overwhereI00075 = {
     "character-player/overwhere-i-nala",
     "character-other/overwhere-i-quarry-crewman-four",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I use my lens working to find the crossbowman in the trees, then snipe him out",
   beats: [
     "Behind her boulders Nala bends air into a lens and sweeps the treeline, slow and careful.",
@@ -33,6 +33,6 @@ export const overwhereI00075 = {
     "lore/overwhere-i-nala-2",
     "lore/overwhere-i-the-deserter-crew-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-03T15:10:00.000Z",
 } as const satisfies StoryTurnPlayed
