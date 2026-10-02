@@ -357,5 +357,9 @@ export const overwhereIiiNala2 = {
         "character-other/overwhere-iii-oswin-fairley",
       ],
     },
+    {
+      fact: "Nala put off the washerwoman's scar till evening, to save her mana for the fox.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
