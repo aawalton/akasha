@@ -4,10 +4,13 @@ export const overwhereIv00079 = {
   id: "01a0ff0a-ed06-7393-a8a7-aedff64ad485",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-079",
+  ownLength: 158,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 79,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action: "I dodge out of the way and run again for the farm.",
   beats: [
     "Nala feels the club coming in her close sense and throws herself aside.",
@@ -21,6 +24,11 @@ export const overwhereIv00079 = {
     "The Tangle's edge. Across two hundred paces of meadow, a lantern glows in Tull's fold.",
     "In the fold, a little flame blooms in a raised hand, and turns toward the trees where she stands.",
   ],
-  lore: ["lore/overwhere-iv-the-tangle-2"],
+  lore: [
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "lore/overwhere-iv-nala-3",
+    "lore/overwhere-iv-the-tangle-2",
+  ],
   endsAt: "2026-10-06T21:47:00.000Z",
 } as const satisfies StoryTurnPlayed
