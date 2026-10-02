@@ -4,10 +4,13 @@ export const overwhereIv00052 = {
   id: "01a0fd50-6a76-7bfc-a959-0f9fb0aec39d",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-052",
+  ownLength: 300,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 52,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
+  stepStatus: "step-status/reviewers",
   action:
     "“I’ll be careful.” I follow the directions and start tracking the goblins, focused on stealth and my spacial sense as well as my eyes, so I can spot them even in hiding. As soon as I detect them, I start slicing, prioritizing the ones that can threaten me first, range attacks, close threats, and the hobgoblin.",
   beats: [
@@ -33,6 +36,11 @@ export const overwhereIv00052 = {
     "The hobgoblin is on his feet. His hand goes not to the cleaver but to the horn at his chest.",
     "He lifts it to his lips.",
   ],
-  lore: ["place/overwhere-iv-raiders-stream"],
+  lore: [
+    "lore/overwhere-iv-ilsa-crane-2",
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "place/overwhere-iv-raiders-stream",
+  ],
   endsAt: "2026-10-03T11:01:00.000Z",
 } as const satisfies StoryTurnPlayed
