@@ -46,7 +46,7 @@ export const overwhereIiTarrantSmithy = {
     },
     {
       fact: "Hob asks the other half silver bar when he hands Nala the spear, and not a copper more.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The spear is heavier at the head than the watch spear, balanced for bracing against a charge.",
