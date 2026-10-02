@@ -39,5 +39,6 @@ export const overwhereIii00052 = {
     "place/overwhere-iii-merrowgate-guild-post",
     "place/overwhere-iii-wrenwood-crossroads",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-04T13:25:00.000Z",
 } as const satisfies StoryTurnPlayed
