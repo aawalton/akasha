@@ -1,2 +1,3 @@
 {"id":"01a0fa30-a649-73d7-b59c-fc99cb35c622","title":"Sleep","startedAt":"2026-10-02T01:15:00.000Z","dailyTracking":"01a0fc0e-7852-7000-a4e5-c69dd4032d04","endedAt":"2026-10-02T11:35:00.000Z","safetyLevel":"2","difficultyLevel":"0"}
-{"id":"01a0fc66-99ba-71ff-a3d0-9e5b7df038a3","title":"Jen","startedAt":"2026-10-02T11:35:00.000Z","dailyTracking":"01a0fc0e-7852-7000-a4e5-c69dd4032d04","safetyLevel":"3","difficultyLevel":"4","relationships":["019db533-f382-757e-93d6-8b217ef99d58"]}
+{"id":"01a0fc66-99ba-71ff-a3d0-9e5b7df038a3","title":"Jen","startedAt":"2026-10-02T11:35:00.000Z","dailyTracking":"01a0fc0e-7852-7000-a4e5-c69dd4032d04","safetyLevel":"3","difficultyLevel":"4","relationships":["019db533-f382-757e-93d6-8b217ef99d58"],"endedAt":"2026-10-02T12:15:00.000Z"}
+{"id":"01a0fc6f-1f2a-7f02-a7d8-8800b0464661","title":"Read","startedAt":"2026-10-02T12:15:00.000Z","dailyTracking":"01a0fc0e-7852-7000-a4e5-c69dd4032d04","safetyLevel":"3","difficultyLevel":"2"}
