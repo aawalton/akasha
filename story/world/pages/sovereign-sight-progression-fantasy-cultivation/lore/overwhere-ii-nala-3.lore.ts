@@ -18,7 +18,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "With her Locks choked, Nala cannot sense water around her, nor cycle, nor refine.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Nala's Locks stay choked until near dawn of day seventeen, then open one by one, aching.",
