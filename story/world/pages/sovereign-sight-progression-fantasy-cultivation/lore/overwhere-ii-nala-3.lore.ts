@@ -40,5 +40,9 @@ export const overwhereIiNala3 = {
       fact: "Nala's Push beaded dark, bitter fluid at the prick and shifted the dart, but did not free it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Locks choked, Nala cannot cycle; she runs on refined muscle alone, faster than any man, not a hound.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
