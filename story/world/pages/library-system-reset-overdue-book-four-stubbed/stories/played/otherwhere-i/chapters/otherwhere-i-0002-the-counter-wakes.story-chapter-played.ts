@@ -33,7 +33,7 @@ export const otherwhereI0002TheCounterWakes = {
     },
     {
       position: 54,
-      cover: "image/image-7f9f7f8877a8d75a",
+      cover: "image/image-e90625be82485bf8",
       coverAfter: "You buckle on the belt and pouch and step into the felt",
     },
     {
