@@ -284,5 +284,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Once one blademan falls, Two scrambles for the spoil heap; a beam at his head is then hard.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Blademan One, lying half-senseless, cannot move clear; a beam at his head stays moderate.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
