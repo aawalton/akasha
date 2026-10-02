@@ -354,5 +354,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Voss lies dead on the stream bank below his overhang; his sack sits under the overhang.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Under the overhang Voss's sack slumped over, spilling silver coins across the rock.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
