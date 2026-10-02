@@ -143,5 +143,41 @@ export const overwhereIiReeveCorwinDray2 = {
       fact: "Dray comes round the barn soon after, Big Harl bound and limping, Rob Reed's arm bleeding.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Hearing how Nala took Crake, Dray says he has seen First Depth fighters do less.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray will write Lady Varrow for clemency for the Loddons, if Wil's cellar proves true.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray would have the Loddon brothers serve Varrow Keep's quarry three years, under guard, not hang.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray judges Bet no robber; she may go home to Carrowmouth once she has spoken before Lady Varrow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Big Harl gets no clemency from Dray; he will hang, unless he too names something worth his neck.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray sends a rider to the Carrowmouth watch at first light with Wil's cellar, to free the captives.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "With Crake dead, the Carrowmouth watch pays five bars on proof; Dray says the price is all Nala's.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Crake's body goes back to the Ford on a hurdle, for the Carrowmouth watch to see.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray means to spend the night at Ashlin Farm and march his prisoners up the valley at dawn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
