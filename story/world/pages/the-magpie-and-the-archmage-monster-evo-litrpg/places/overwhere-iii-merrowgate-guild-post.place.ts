@@ -296,7 +296,11 @@ export const overwhereIiiMerrowgateGuildPost = {
     },
     {
       fact: "Day 10 word at the post: a woodcutter found a deer by the Wren Brook, hide rotted to black sludge.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
   secrets: "jsonl",
