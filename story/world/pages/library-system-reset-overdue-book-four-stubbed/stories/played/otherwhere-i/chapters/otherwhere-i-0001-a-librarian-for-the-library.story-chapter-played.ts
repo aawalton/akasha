@@ -18,7 +18,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 2,
-      cover: "image/image-e516c5f9ac402d2f",
+      cover: "image/image-b29bd55fbf45f8d2",
       coverAfter: "They steady first, then brighten, then hold. The lit lines run down",
     },
     {
