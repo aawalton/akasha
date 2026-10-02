@@ -9,7 +9,7 @@ export const overwhereIiKeeperAnselm2 = {
   facts: [
     {
       fact: "Anselm is stunned Nala's muscle is whole in four days; his skin alone took him three years.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Anselm teaches that refining goes outside in: skin, then muscle, bone, organs, and last blood.",
