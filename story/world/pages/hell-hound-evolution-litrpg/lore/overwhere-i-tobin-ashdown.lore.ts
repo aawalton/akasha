@@ -98,6 +98,10 @@ export const overwhereITobinAshdown = {
         "lore/overwhere-i-hessa-vane",
       ],
     },
+    {
+      fact: "That evening Tobin's mother Bet packs him a bag and asks Nala to bring him home whole.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
