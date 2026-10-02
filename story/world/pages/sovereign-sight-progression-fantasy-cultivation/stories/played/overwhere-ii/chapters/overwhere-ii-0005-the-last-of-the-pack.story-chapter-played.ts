@@ -11,10 +11,26 @@ export const overwhereIi0005TheLastOfThePack = {
   ownLength: 1249,
   prose: "txt",
   turnCovers: [
-    { position: 38, cover: "image/image-8a645237ae020fc1" },
-    { position: 39, cover: "image/image-d9e4731a621a8788" },
-    { position: 40, cover: "image/image-67030a0fdbf5549c" },
-    { position: 41, cover: "image/image-0ff096d999f623e1" },
+    {
+      position: 38,
+      cover: "image/image-8a645237ae020fc1",
+      coverAfter: "Toward noon you reach the screes, grey rockfalls piled below the corrie's",
+    },
+    {
+      position: 39,
+      cover: "image/image-d9e4731a621a8788",
+      coverAfter: "In the gloom inside, five grey shapes lie heaped among the sheep",
+    },
+    {
+      position: 40,
+      cover: "image/image-67030a0fdbf5549c",
+      coverAfter: "Below you lies the tarn, a black lake cupped in grey crags,",
+    },
+    {
+      position: 41,
+      cover: "image/image-0ff096d999f623e1",
+      coverAfter: "He presses the cloth bag on top of the purse. The silver",
+    },
   ],
   lastTurn: "overwhere-ii-00-041",
   lastTurnPosition: 41,
