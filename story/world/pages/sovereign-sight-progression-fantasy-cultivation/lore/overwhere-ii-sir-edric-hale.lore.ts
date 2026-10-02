@@ -61,7 +61,7 @@ export const overwhereIiSirEdricHale = {
     },
     {
       fact: "Sir Edric answers a salute with a short bow from the neck, as knights greet a sworn equal.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Sir Edric speaks low and unhurried, with the clipped vowels of the Keep's end of the valley.",
