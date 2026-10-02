@@ -7,6 +7,13 @@ export const overwhereI00064 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 64,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action: "I go with Rowan and Sedge to get the head, keeping an eye out for any more dangers.",
+  lore: [
+    "lore/overwhere-i-greyfen-beasts-2",
+    "lore/overwhere-i-rowan-coalby",
+    "lore/overwhere-i-the-greyfen-alpha-2",
+    "lore/overwhere-i-the-greyfen-alpha-2-2",
+    "place/overwhere-i-the-greyfen",
+  ],
 } as const satisfies StoryTurnPlayed
