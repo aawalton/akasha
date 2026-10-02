@@ -48,7 +48,7 @@ export const overwhereI0007GhostEye = {
     },
     {
       position: 49,
-      cover: "image/image-913b774718c32ba6",
+      cover: "image/image-7ff910791213e2e5",
       coverAfter: "Beyond it the marsh runs open, sedge and knee-deep water all the",
     },
     {
