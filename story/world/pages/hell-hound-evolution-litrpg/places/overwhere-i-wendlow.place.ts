@@ -208,5 +208,9 @@ export const overwhereIWendlow = {
       fact: "Ghost-Eye's milky eye socket and white blaze satisfy Grete at a glance; she pays its 25 gold.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Board's strongbox holds 60 gold; Grete pays that and writes a chit for 11, good in two days.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
