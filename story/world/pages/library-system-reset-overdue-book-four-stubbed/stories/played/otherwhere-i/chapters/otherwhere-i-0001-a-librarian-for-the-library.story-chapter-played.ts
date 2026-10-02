@@ -158,7 +158,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 30,
-      cover: "image/image-47ccf18ab2a7eb8e",
+      cover: "image/image-b5c953a0f8a0f603",
       coverAfter: "The last small bookworm is feeding about thirty feet short of the",
     },
     {
