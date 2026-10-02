@@ -14,7 +14,7 @@ const PUBLISHED = `${stepStatus.slug}${PARTED}${player.slug}`
 export const work: Work<Collection, PartsLengthInWords> = (_page, reach) => {
   const parts = new Set([
     ...reach.naming<Held>(partOfCollections.propertySlug),
-    ...reach.naming<Held>(chapterStory.propertySlug),
+    ...reach.naming<Held>(chapterStory.slug),
   ])
   let total = 0
   for (const one of parts) {
