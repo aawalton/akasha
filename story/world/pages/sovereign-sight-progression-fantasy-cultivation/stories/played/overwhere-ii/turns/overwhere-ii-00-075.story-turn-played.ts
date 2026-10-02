@@ -10,7 +10,7 @@ export const overwhereIi00075 = {
   position: 75,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Let’s go back and meet up with the rest tonight, just to prevent any issues with the prisoners.”",
   beats: [
@@ -47,6 +47,6 @@ export const overwhereIi00075 = {
     "place/overwhere-ii-ashlin-farm",
     "place/overwhere-ii-grey-shaw",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-15T02:25:00.000Z",
 } as const satisfies StoryTurnPlayed
