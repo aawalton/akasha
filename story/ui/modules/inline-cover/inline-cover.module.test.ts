@@ -47,9 +47,10 @@ test("words found only before the last cover placed are still placed", () => {
   expect(placed.after.get(0)?.map((one) => one.id)).toEqual(["b"])
 })
 
-test("a cover's box is portrait and held to the small viewport before the picture loads", () => {
+test("a cover's box is portrait and sized by the column alone, never by the viewport or the picture", () => {
   expect(FRAME.aspectRatio).toBe("832 / 1216")
-  expect(FRAME.width).toBe("min(100%, calc(70svh * 832 / 1216))")
+  expect(FRAME.width).toBe("100%")
+  expect(FRAME.maxWidth).toBe("480px")
 })
 
 test("a page's prose is handed only the covers of that page", () => {

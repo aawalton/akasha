@@ -68,11 +68,12 @@ const FRAME_WIDTH = 832
 
 const FRAME_HEIGHT = 1216
 
-const FRAME_TALLEST = "70svh"
+const FRAME_WIDEST = "480px"
 
 export const FRAME = {
   aspectRatio: `${FRAME_WIDTH} / ${FRAME_HEIGHT}`,
-  width: `min(100%, calc(${FRAME_TALLEST} * ${FRAME_WIDTH} / ${FRAME_HEIGHT}))`,
+  width: "100%",
+  maxWidth: FRAME_WIDEST,
 } as const
 
 type InlineCoverProps = {

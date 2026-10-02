@@ -40,8 +40,7 @@ export const inlineCover = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The box is held to most of the small viewport, which a browser's bars never resize.",
+      statement: "The box is sized by the column and a fixed widest width, never by the viewport.",
     },
     {
       decisionKind: "decision-kind/departure",
