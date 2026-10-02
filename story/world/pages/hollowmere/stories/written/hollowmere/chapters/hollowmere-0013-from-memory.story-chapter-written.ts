@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0013 = {
+export const hollowmere0013FromMemory = {
   id: "01a0fe93-93da-7460-97bd-75a80f30dc6f",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0013",
+  slug: "hollowmere-0013-from-memory",
   position: 13,
   unit: "unit/words",
-  title: "Chapter 13",
+  title: "From Memory",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 2803,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Saturday: you skip the swimmers and go down to the boathouse at seven, wrapped in Bea's jumper.",
     "Novice rowing: coxed fours on the grey water, mist on the mere, the captain bawling from a launch.",
@@ -53,5 +53,30 @@ export const hollowmere0013 = {
     "In 14 you lie awake counting: Shiv, Bea, Kit, Lin; and a name said once in the kitchen doorway.",
     "A day at Hollowmere ends.",
   ],
-  lore: ["lore/hollowmere-academy-2", "lore/hollowmere-lin"],
+  lore: [
+    "lore/hollowmere-academy-2",
+    "lore/hollowmere-amara",
+    "lore/hollowmere-bea",
+    "lore/hollowmere-dev",
+    "lore/hollowmere-kit",
+    "lore/hollowmere-lin",
+    "lore/hollowmere-morwenna",
+    "lore/hollowmere-nala",
+    "lore/hollowmere-nala-2",
+    "lore/hollowmere-priya",
+    "lore/hollowmere-shiv",
+    "lore/hollowmere-yusra",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-shiv",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-morwenna",
+    "character-other/hollowmere-priya",
+    "character-other/hollowmere-dev",
+    "character-other/hollowmere-amara",
+    "character-other/hollowmere-lin",
+    "character-other/hollowmere-yusra",
+    "character-other/hollowmere-kit",
+  ],
 } as const satisfies StoryChapterWritten
