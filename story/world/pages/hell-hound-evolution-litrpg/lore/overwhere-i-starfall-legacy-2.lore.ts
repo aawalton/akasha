@@ -56,5 +56,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Each step hotter adds a quarter of a blast to what the fed burst does to each thing in it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Feeding the burst beside her held air ward is three workings: her most, each act a band harder.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
