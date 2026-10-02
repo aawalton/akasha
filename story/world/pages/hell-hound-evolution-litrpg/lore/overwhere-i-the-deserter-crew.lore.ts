@@ -195,6 +195,10 @@ export const overwhereITheDeserterCrew = {
       fact: "A man Tobin hits turns on him; Tobin's arrows do 8 harm.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "When Voss falls or three of the five are down, the rest whistle three times and break for the pit.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
