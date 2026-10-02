@@ -41,7 +41,7 @@ export const overwhereIiLoddonBrothers = {
     },
     {
       fact: "Wil will tell which cellar in the Salt Lanes, if it buys his and Kit's lives.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "One hired man, a drunk named Gorry, feeds and guards the captives while Crake is away.",
