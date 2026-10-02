@@ -101,15 +101,15 @@ export const overwhereIvTullFarm = {
     },
     {
       fact: "Tull is glad of a watcher he knows; he gives her the fold's corner and a lantern, unlit.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "From the fold to the Tangle's edge across the ford is some two hundred paces of open meadow.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "On the night of day 7, two torches show among the trees across the ford, and stay there.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The torch-bearers that night only watch and count Tull's guards; they withdraw before dawn.",

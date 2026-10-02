@@ -68,5 +68,13 @@ export const overwhereIvNala3 = {
         "character-other/overwhere-iv-ilsa-crane",
       ],
     },
+    {
+      fact: "Nala took the night watch at Tull's farm on her seventh night, dusk to dawn, for 3 silver.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
+    },
   ],
 } as const satisfies Lore

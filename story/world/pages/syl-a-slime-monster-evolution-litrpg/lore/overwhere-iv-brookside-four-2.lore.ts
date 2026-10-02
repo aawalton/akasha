@@ -37,7 +37,11 @@ export const overwhereIvBrooksideFour2 = {
     },
     {
       fact: "Told no, Dace takes it well, and says the Four's door stays open to her.",
-      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "lore/overwhere-iv-brookside-four",
+        "character-player/overwhere-iv-nala",
+      ],
     },
     {
       fact: "Merrit, told Nala said no, does not hide that he is glad of it.",
@@ -46,6 +50,14 @@ export const overwhereIvBrooksideFour2 = {
     {
       fact: "Without Nala, the Four take the night watch at Hobb's and the Ashby place, two at each.",
       knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
+    },
+    {
+      fact: "Nala turned down Dace's offer to join the Four; she'd rather work on her own for now.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "lore/overwhere-iv-brookside-four",
+      ],
     },
   ],
 } as const satisfies Lore
