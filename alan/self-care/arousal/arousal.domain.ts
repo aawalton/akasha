@@ -11,6 +11,7 @@ export const arousal = {
     "domain/climb-explicitness",
     "domain/salt-and-lamplight-explicitness",
     "domain/hollowmere-explicitness",
+    "domain/emberdeep-explicitness",
   ],
   decisions: [
     {
