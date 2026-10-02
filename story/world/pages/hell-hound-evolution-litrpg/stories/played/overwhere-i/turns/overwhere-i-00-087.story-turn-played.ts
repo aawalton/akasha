@@ -4,10 +4,20 @@ export const overwhereI00087 = {
   id: "01a0fe66-8ee0-7269-b318-c9fe234419e1",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-087",
+  ownLength: 160,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 87,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-i-nala",
+    "character-other/overwhere-i-voss-drakewolf",
+    "character-other/overwhere-i-quarry-crewman-one",
+    "character-other/overwhere-i-quarry-crewman-two",
+    "character-other/overwhere-i-quarry-crewman-four",
+    "character-other/overwhere-i-harl-voss",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I channel two fire beams, aimed from my eyes this time and finish off the drakewolf, then continue.",
   beats: [
@@ -22,6 +32,8 @@ export const overwhereI00087 = {
     "Fresh in the dust, the mule's hoofprints and the cart's ruts run off east ahead of her.",
   ],
   lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
     "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-starfall-legacy-2",
     "lore/overwhere-i-the-deserter-crew-2",
