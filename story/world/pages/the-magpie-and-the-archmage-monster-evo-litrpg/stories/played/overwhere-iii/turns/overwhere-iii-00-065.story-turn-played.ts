@@ -15,7 +15,7 @@ export const overwhereIii00065 = {
     "character-other/overwhere-iii-oswin-fairley",
     "character-other/overwhere-iii-marda-hesk",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“I’ll take is back to the post.”",
   beats: [
     '"I\'ll take it back to the Post," Nala says.',
@@ -43,7 +43,12 @@ export const overwhereIii00065 = {
     "place/overwhere-iii-merrowgate-guild-post",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-06T10:00:00.000Z",
   coverAfter: "At the post, Marda tongs the stone out of the pouch and turns it",
 } as const satisfies StoryTurnPlayed
