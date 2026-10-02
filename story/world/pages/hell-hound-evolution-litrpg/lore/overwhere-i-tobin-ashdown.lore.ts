@@ -89,6 +89,10 @@ export const overwhereITobinAshdown = {
         "lore/overwhere-i-hessa-vane",
       ],
     },
+    {
+      fact: "Tobin takes her question as a yes and grins; Hessa says he goes only if Nala says so plainly.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
