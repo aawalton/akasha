@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0012 = {
+export const hollowmere0012WithAnyoneWatching = {
   id: "01a0fe85-7bb9-7110-ae6b-c7ba4f14d6f0",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0012",
+  slug: "hollowmere-0012-with-anyone-watching",
   position: 12,
   unit: "unit/words",
-  title: "Chapter 12",
+  title: "With Anyone Watching",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 3192,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Friday: you wake before the alarm with the essay on your desk and Kit's handkerchief on top of it.",
     "You read your last line once more in the grey light, and put the essay in a card folder.",
@@ -62,5 +62,26 @@ export const hollowmere0012 = {
     "You fall asleep in 14 with two different mouths remembered and the green jumper still on.",
     "A day at Hollowmere ends.",
   ],
-  lore: ["lore/hollowmere-penhallow", "place/hollowmere-kendal"],
+  lore: [
+    "lore/hollowmere-amara",
+    "lore/hollowmere-bea",
+    "lore/hollowmere-kit",
+    "lore/hollowmere-lin",
+    "lore/hollowmere-nala",
+    "lore/hollowmere-nala-2",
+    "lore/hollowmere-penhallow",
+    "lore/hollowmere-priya",
+    "lore/hollowmere-shiv",
+    "place/hollowmere-kendal",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-penhallow",
+    "character-other/hollowmere-kit",
+    "character-other/hollowmere-amara",
+    "character-other/hollowmere-priya",
+    "character-other/hollowmere-shiv",
+    "character-other/hollowmere-lin",
+    "character-other/hollowmere-bea",
+  ],
 } as const satisfies StoryChapterWritten
