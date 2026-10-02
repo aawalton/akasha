@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"reviewer.role.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"reviewer.role.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
+{"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-overwhere-i-flex-1/iris-reviewer-overwhere-i-flex-1.seat.ts","id":"01a0ff0a-d4fe-7000-bbe0-2f0a5bf23adf"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-overwhere-iii-flex-1/iris-reviewer-overwhere-iii-flex-1.seat.ts","id":"01a0ff0a-1aef-7000-b79a-74849ae1c765"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-reviewer-overwhere-iii-flex-2/iris-reviewer-overwhere-iii-flex-2.seat.ts","id":"01a0ff0a-4068-7000-9888-2293d59debe5"}
 {"propertySlug":"role","path":"agent/seat/pages/mari-reviewer-hollowmere-flex-1/mari-reviewer-hollowmere-flex-1.seat.ts","id":"01a0ff08-4eb5-7000-b2a9-1f78827143ce"}
