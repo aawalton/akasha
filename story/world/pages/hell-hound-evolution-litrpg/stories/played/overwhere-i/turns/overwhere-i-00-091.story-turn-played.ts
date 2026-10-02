@@ -10,7 +10,7 @@ export const overwhereI00091 = {
   position: 91,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-harl-voss"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Sure, got makes sense to preserve this head and the ears. I’ll take the salt for that.”",
   beats: [
@@ -23,6 +23,9 @@ export const overwhereI00091 = {
     "He rubs the back of his neck, sheepish, and glances at the sack of coin.",
     '"Only... the silver toll Voss took off me at the quarry. One silver. Might I have it back?"',
   ],
+  issues: [
+    '"Tobin holding the flame" - the flame is Nala\'s palm working; Tobin, a bowman, has no magic',
+  ],
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
@@ -31,6 +34,6 @@ export const overwhereI00091 = {
     "lore/overwhere-i-the-deserter-crew-2-2",
     "lore/overwhere-i-the-deserter-crew-2-2-2",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-04T00:55:00.000Z",
 } as const satisfies StoryTurnPlayed
