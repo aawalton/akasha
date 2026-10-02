@@ -10,7 +10,7 @@ export const overwhereIii00074 = {
   position: 74,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I merge them into a glimmerstone and keep going until I’ve finished cleansing the remainder.",
   beats: [
@@ -21,13 +21,13 @@ export const overwhereIii00074 = {
     "[Cleansing Weave has advanced: Basic → Novice]",
     "[Current Feed has advanced: Basic → Novice]",
     "She walks the two miles back, through the south gate, to the Post. Its door still stands open.",
-    "Marda looks up from the ledger. She lifts the lead box onto the counter without a word.",
+    "Marda looks up from the ledger. She lifts the lead box from under the desk and sets it on top.",
     "The wolf's second stone lies inside, pale gray now, with only a dark core left.",
     "Nala braids a loop around it from her own well. It closes on the first try.",
     "The core goes white. The stone cracks with a clean ring into one whole glimmerstone.",
-    'Marda pushes it across. "Yours. As I said. The specks too. I wanted them cracked, not back."',
+    'Marda pushes it across the desk. "Yours. As I said."',
     'She shuts the empty lead box. "That\'s the last of what I was holding."',
-    'Marda dips her pen and looks at Nala. "Now. Mind telling me how you crack them that fast?"',
+    'Marda holds out her hand, palm up. "And my six seed stones?"',
   ],
   issues: [
     '"[Current Feed has advanced: Basic → Novice]" - her fifth fed weave came in turn 73, not now',
