@@ -65,7 +65,7 @@ export const overwhereIiKeeperAnselm2 = {
     },
     {
       fact: "The Keepers write that Senior Keeper Maud Ashby will come up the valley once the road dries.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The Keepers bid Anselm keep Nala near, and keep her from Descending until Keeper Ashby comes.",
