@@ -136,5 +136,13 @@ export const hollowmerePriya = {
         "character-other/hollowmere-priya",
       ],
     },
+    {
+      fact: "Priya took Nala from lunch to watch Amara debate; Amara had practised on Priya all week.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-priya",
+      ],
+    },
   ],
 } as const satisfies Lore

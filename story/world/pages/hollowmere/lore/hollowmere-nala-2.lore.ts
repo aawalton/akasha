@@ -48,5 +48,13 @@ export const hollowmereNala2 = {
         "character-other/hollowmere-kit",
       ],
     },
+    {
+      fact: "Drawing on the out-breath, Nala warmed her stone bathwater-warm and steady, with no nosebleed.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
+    {
+      fact: "Nala finished her essay near midnight; its last line: intent comes from wherever the wanting lives.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
   ],
 } as const satisfies Lore

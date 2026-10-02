@@ -223,6 +223,30 @@ export const hollowmereShiv = {
         "character-other/hollowmere-shiv",
       ],
     },
+    {
+      fact: "Shiv signed the swimmers' register under Nala again: Doyle (reluctant, again).",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+      ],
+    },
+    {
+      fact: "At the buoy Shiv said the swimming's fine, but the register feels like being counted.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+      ],
+    },
+    {
+      fact: "Nala said they can still go to Shiv's rock on Sundays, and Shiv grinned: Sundays.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-shiv",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

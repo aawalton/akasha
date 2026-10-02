@@ -26,7 +26,11 @@ export const hollowmereAcademy2 = {
     },
     {
       fact: "Life drawing meets Thursdays at seven in the Drawing Room, under lamps in place of the skylights.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-lin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "A student volunteers as life drawing's model each week, and sits clothed or nude as she chooses.",
@@ -39,6 +43,7 @@ export const hollowmereAcademy2 = {
         "character-other/hollowmere-kit",
         "character-other/hollowmere-amara",
         "character-other/hollowmere-penhallow",
+        "character-player/hollowmere-nala",
       ],
     },
   ],

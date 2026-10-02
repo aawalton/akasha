@@ -206,6 +206,39 @@ export const hollowmereLin = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Nala walked Lin to her first life drawing; at the door Lin breathed out slowly, and went in.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "At life drawing a second-year sat nude for two hours, and Lin drew her eleven times.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "Lin's life drawings are quick, fluid and alive; Kit looked a long while and called them very good.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "Lin asked to draw Nala sometime, and Nala said yes; clothed, Lin said, to start.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

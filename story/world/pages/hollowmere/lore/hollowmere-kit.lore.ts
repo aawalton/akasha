@@ -322,6 +322,30 @@ export const hollowmereKit = {
         "character-other/hollowmere-kit",
       ],
     },
+    {
+      fact: "When the History lecturer said 1763, Kit wrote 1736 in Nala's margin and underlined it twice.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "Kit's note to Nala: Bus at 6. Film at 7. I'll choose. You'll hate it. Nala wrote: I'll love it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
+    {
+      fact: "Kit folded Nala's answer into a small hard square and kept it in her skirt pocket.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-kit",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

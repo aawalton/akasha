@@ -165,6 +165,33 @@ export const hollowmereAmara = {
         "character-other/hollowmere-amara",
       ],
     },
+    {
+      fact: "Amara won her first debate, that a spell belongs to its focus, in four minutes; it wasn't close.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+      ],
+    },
+    {
+      fact: "After debating Amara tucked Nala's hair behind her ear: you came to watch me; but you stayed.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+      ],
+    },
+    {
+      fact: "Amara saw Nala and Kit pass notes in History; told Kit's her friend, she said: Lucky Ashworth.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
