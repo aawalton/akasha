@@ -12,6 +12,6 @@ export const overwhereIvNalaRiftRend = {
   skill: "world-skill/overwhere-iv-rift-rend",
   level: 5,
   reachPaces: 40,
-  manaCost: 8,
+  manaCost: 7,
   durationMinutes: 0,
 } as const satisfies OverwhereIvSkill
