@@ -85,4 +85,5 @@ export const hollowmere0012WithAnyoneWatching = {
     "character-other/hollowmere-bea",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryChapterWritten
