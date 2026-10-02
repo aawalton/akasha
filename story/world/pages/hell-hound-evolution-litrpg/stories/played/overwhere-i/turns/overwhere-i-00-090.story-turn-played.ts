@@ -10,7 +10,7 @@ export const overwhereI00090 = {
   position: 90,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-harl-voss"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I apply the salve. “I forget how many, we can count ears and tags if you want. For Voss, I’ve got his head in his sack here.” I open the sack and pull it out so they can see. “Guess we have two bounties to turn in now.”",
   beats: [
@@ -24,6 +24,9 @@ export const overwhereI00090 = {
     '"Mind, the Board pays only in Wendlow; that\'s two more days east by cart from here."',
     "He eyes the head. \"It'll turn before then. I've salt in the cart, four copper a sack, if you want.\"",
   ],
+  issues: [
+    '"bolt wounds at her shoulder, ribs and forearm" - drops her thigh bolt; half a pot dresses all',
+  ],
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
@@ -35,6 +38,6 @@ export const overwhereI00090 = {
     "lore/overwhere-i-tobin-ashdown",
     "place/overwhere-i-wendlow",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-04T00:40:00.000Z",
 } as const satisfies StoryTurnPlayed
