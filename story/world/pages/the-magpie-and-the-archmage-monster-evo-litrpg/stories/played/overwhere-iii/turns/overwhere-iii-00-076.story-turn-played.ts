@@ -4,6 +4,7 @@ export const overwhereIii00076 = {
   id: "01a0febc-198c-7a56-9bc8-5ed3f7069a07",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-076",
+  cover: "image/image-cc2212363f557e11",
   ownLength: 75,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -30,6 +31,7 @@ export const overwhereIii00076 = {
     "lore/overwhere-iii-nala-2-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-07T15:58:00.000Z",
+  coverAfter: "The skin is pink and tight, like a scald off a hot pan,",
 } as const satisfies StoryTurnPlayed
