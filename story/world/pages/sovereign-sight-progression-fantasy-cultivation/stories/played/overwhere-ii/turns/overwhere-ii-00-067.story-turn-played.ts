@@ -7,7 +7,8 @@ export const overwhereIi00067 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 67,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I charge the voice with my spear, ready to Push an crossbow bolts coming for me and trusting to my reinforced skin and muscles, then use my tricks to get Cray through the chest with the spear, aiming for the heart and keeping him at a distance.",
+  lore: ["lore/overwhere-ii-oswy-crake-2", "place/overwhere-ii-ashlin-farm"],
 } as const satisfies StoryTurnPlayed
