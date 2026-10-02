@@ -266,5 +266,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "At dusk, about 19:00, Voss lies up under a rock overhang, sword drawn, watching his back trail.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Voss's overhang lies six miles east of the camp, above a stream; its mouth faces his back trail.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
