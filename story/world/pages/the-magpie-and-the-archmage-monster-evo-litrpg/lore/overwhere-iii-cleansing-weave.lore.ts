@@ -84,5 +84,9 @@ export const overwhereIiiCleansingWeave = {
       fact: "A Level 5 beast's blight is deep: about four pulls, each the weave's 3 mana, to draw it all.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A beast pulled clean lives, a plain beast again and dazed; its blight clots into a small blightstone",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
