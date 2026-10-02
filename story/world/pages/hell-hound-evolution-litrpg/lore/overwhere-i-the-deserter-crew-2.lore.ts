@@ -290,7 +290,7 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "The four's trail runs north-east through the pines, hurried and plain; following it is easy.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Slowed by burned Blademan Three, the four are about a mile ahead; Nala closes in an hour.",
