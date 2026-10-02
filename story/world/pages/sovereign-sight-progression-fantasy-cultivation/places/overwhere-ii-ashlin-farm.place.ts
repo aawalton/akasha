@@ -106,7 +106,7 @@ export const overwhereIiAshlinFarm = {
     },
     {
       fact: "Leaving Ashlin soon after dawn, the column reaches Wendle Ford a little after noon.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Place
