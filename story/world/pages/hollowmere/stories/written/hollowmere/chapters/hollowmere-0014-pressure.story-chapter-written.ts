@@ -10,7 +10,7 @@ export const hollowmere0014Pressure = {
   story: "story-written/hollowmere",
   ownLength: 2685,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   beats: [
     "Sunday: the storm wakes you before dawn, rain hurled at the window, the old frame rattling.",
     "From the window the mere is white, waves running at the shore, the fells gone in grey cloud.",
@@ -75,5 +75,5 @@ export const hollowmere0014Pressure = {
     "character-other/hollowmere-priya",
     "character-other/hollowmere-yusra",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
