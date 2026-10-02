@@ -1,1 +1,2 @@
 {"check":"world-check/overwhere-iv-growth","reading":{"character":"nala","gains":[{"kind":"skill","skill":"Spearmanship","level":4,"uses":3}]},"answered":{"grown":[{"kind":"skill","skill":"Spearmanship","from":4,"to":4,"usesCarried":3,"maxed":false}]}}
+{"check":"world-check/overwhere-iv-time-passing","reading":{"from":"2026-10-04T18:33:00.000Z","minutes":927},"answered":{"endsAt":"2026-10-05T10:00:00.000Z","day":7,"light":"day"}}
