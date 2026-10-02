@@ -4,10 +4,13 @@ export const overwhereIv00075 = {
   id: "01a0febf-6b2a-77f2-b544-c9699c60881b",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-075",
+  ownLength: 321,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 75,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I quietly hide myself at a distance of half my range from where they will pass, then when they come into range, I start slicing necks, one after another, using my spatial sense to see them without moving and focusing on efficiency. I choose targets at random so they can’t tell where they attack is coming from.",
   beats: [
@@ -34,6 +37,12 @@ export const overwhereIv00075 = {
     "<Proficiency gained. [Sense Casting LV 1] improved to [Sense Casting LV 2].>",
     "The two quiet ones come back up the trail from the ford, fast, along the foot of her bank.",
   ],
-  lore: ["lore/overwhere-iv-the-tangle-2", "place/overwhere-iv-the-tangle"],
+  lore: [
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "lore/overwhere-iv-nala-3",
+    "lore/overwhere-iv-the-tangle-2",
+    "place/overwhere-iv-the-tangle",
+  ],
   endsAt: "2026-10-06T21:16:00.000Z",
 } as const satisfies StoryTurnPlayed
