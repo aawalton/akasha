@@ -40,5 +40,6 @@ export const overwhereIi00070 = {
     "lore/overwhere-ii-reeve-corwin-dray-2",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-10-14T18:42:00.000Z",
 } as const satisfies StoryTurnPlayed
