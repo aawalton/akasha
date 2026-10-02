@@ -19,7 +19,7 @@ export const overwhereI00071 = {
     "character-other/overwhere-i-quarry-crewman-four",
     "character-other/overwhere-i-quarry-crewman-five",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I get down on the ground to be less of a target and spin up bullets to max speed, pointed and rifled and spinning like a drill to pierce through armor or shields, then start picking off Voss’s men, starting with the crossbows.",
   beats: [
@@ -49,6 +49,11 @@ export const overwhereI00071 = {
     "place/overwhere-i-greyback-and-east-road",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-03T15:03:00.000Z",
 } as const satisfies StoryTurnPlayed
