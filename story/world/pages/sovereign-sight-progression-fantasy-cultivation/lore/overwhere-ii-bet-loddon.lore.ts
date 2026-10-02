@@ -60,6 +60,22 @@ export const overwhereIiBetLoddon = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
+      fact: "Bet's brothers are Wil Loddon, the elder and steadier, and Kit, younger and quick to shoot.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Kit follows whatever Wil does; Wil would lower his crossbow for Bet if he saw Crake losing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Given hope, Bet steadies, and means to call her brothers by name once the fight turns.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Bet swears to Nala she will not give the trap away; her hands still shake.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "On the road Bet asks Nala, low, whether her brothers will hang.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
