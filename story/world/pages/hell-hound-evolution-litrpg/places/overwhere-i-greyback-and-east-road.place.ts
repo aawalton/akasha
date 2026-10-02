@@ -113,6 +113,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "Ketter's Well, a stone well and lean-to clearing, lies by the road twenty miles east of Fenwatch.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Osric's cart makes Ketter's Well about 18:00 on day 5 and camps there.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
