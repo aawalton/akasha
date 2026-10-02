@@ -109,5 +109,9 @@ export const overwhereIiiMaudFerrow = {
       fact: "Joining late, a drill counts as a hard day if she runs, hauls and bouts until the watch changes.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "[Staff Fighting – At [Basic] level, guard, step aside and strike with a staff.]",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
