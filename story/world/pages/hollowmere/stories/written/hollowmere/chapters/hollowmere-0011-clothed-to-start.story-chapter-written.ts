@@ -5,7 +5,7 @@ export const hollowmere0011ClothedToStart = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0011-clothed-to-start",
   cover: "image/image-e787d80ba9930441",
-  ownProgress: 1609,
+  ownProgress: 1610,
   position: 11,
   unit: "unit/words",
   title: "Clothed, to Start",
