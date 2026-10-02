@@ -193,7 +193,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 37,
-      cover: "image/image-1103d7bbe065a680",
+      cover: "image/image-49775b401fba6bec",
       coverAfter: "You drag the dust sheet off the bed. Underneath, the bed is",
     },
     {
