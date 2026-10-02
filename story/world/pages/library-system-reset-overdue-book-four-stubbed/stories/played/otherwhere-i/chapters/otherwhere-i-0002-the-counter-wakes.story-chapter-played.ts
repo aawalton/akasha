@@ -18,7 +18,7 @@ export const otherwhereI0002TheCounterWakes = {
     },
     {
       position: 51,
-      cover: "image/image-8bb8d601fc17bf6a",
+      cover: "image/image-b14eff476c0e3235",
       coverAfter: "The water stirs. Warmth spreads out from the bottom of the tub,",
     },
     {
