@@ -7,7 +7,15 @@ export const overwhereIii00053 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 53,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“I'll go find him, since he was first in line, don’t mind some exploring today.” I go find the drover to heal the burn.",
+  lore: [
+    "lore/overwhere-iii-brannagh-tull",
+    "lore/overwhere-iii-brannagh-tull-2",
+    "lore/overwhere-iii-huw-tarrant",
+    "lore/overwhere-iii-ivy-marsh",
+    "lore/overwhere-iii-mending-weave",
+    "place/overwhere-iii-merrowgate",
+  ],
 } as const satisfies StoryTurnPlayed
