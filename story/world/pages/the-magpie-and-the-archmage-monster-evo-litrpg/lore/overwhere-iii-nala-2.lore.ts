@@ -331,7 +331,7 @@ export const overwhereIiiNala2 = {
     },
     {
       fact: "At Legend, blight in a fresh wound shows Nala a faint dark thread running to the beast that gave it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
 } as const satisfies Lore
