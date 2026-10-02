@@ -88,5 +88,9 @@ export const overwhereITheDeserterCrew222 = {
       fact: "Twin eye beams meeting on the Drakewolf are hard: moderate, a band for twin, a band for untried.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Drakewolf's hide wards 2, which a beam burns through; its bite is moderate for it to land.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
