@@ -8,9 +8,9 @@ export const hollowmere0008TwoThirdsOfAGlim = {
   unit: "unit/words",
   title: "Two-Thirds of a Glim",
   story: "story-written/hollowmere",
-  ownLength: 3701,
+  ownLength: 3734,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Monday, week two: at half six it's Bea's knock, and you're already up and dressed to run.",
     "You choose the shore with Bea this morning; out on the mere a white cap waves, and you wave back.",
