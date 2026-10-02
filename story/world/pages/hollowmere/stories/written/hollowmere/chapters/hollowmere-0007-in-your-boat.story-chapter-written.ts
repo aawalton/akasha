@@ -81,4 +81,5 @@ export const hollowmere0007InYourBoat = {
     "character-other/hollowmere-lin",
     "character-other/hollowmere-penhallow",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
