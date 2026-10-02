@@ -98,7 +98,7 @@ export const overwhereIvBrookAndBarrel = {
     },
     {
       fact: "Behind the kitchen a wooden tub can be filled from the copper for 2 copper, with soap and a towel.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Pip heats and carries the bathwater, and bars the washhouse door for a woman bathing.",
@@ -106,11 +106,23 @@ export const overwhereIvBrookAndBarrel = {
     },
     {
       fact: "On the night of the wolf, the taproom talks of nothing but the head on Ilsa's counter.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-marta-hesk",
+      ],
     },
     {
       fact: "Talk of the head runs from a wolf the size of a horse to a demon out of the old quarry.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-marta-hesk",
+      ],
+    },
+    {
+      fact: "The inn's serving girl heats the bathwater and bars the washhouse door for a woman bathing.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Place
