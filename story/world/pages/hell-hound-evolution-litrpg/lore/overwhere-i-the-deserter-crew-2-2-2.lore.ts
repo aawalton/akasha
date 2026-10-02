@@ -26,7 +26,7 @@ export const overwhereITheDeserterCrew222 = {
     },
     {
       fact: "At the quarry Four carries 6 copper; Blademen One and Two, 10 copper between them.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Walking back by night, overhang to camp, bend and quarry, is ten miles: about four hours.",
