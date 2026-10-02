@@ -149,7 +149,7 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Osric wants a guard because Harl Voss's men have robbed carts on the east road this summer.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Hearing her ask, Osric steps up at once with his offer of passage as his cart's guard.",
