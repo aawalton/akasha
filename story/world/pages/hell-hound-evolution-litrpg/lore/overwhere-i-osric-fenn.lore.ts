@@ -297,6 +297,10 @@ export const overwhereIOsricFenn = {
       fact: "Osric stops an hour at noon to rest the mule, push or no push.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Osric always nights at the Ford Inn; he says the mule's done and Wendlow's gate would be shut.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
