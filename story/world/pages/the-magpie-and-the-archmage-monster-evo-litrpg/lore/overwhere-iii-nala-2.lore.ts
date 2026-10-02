@@ -341,5 +341,13 @@ export const overwhereIiiNala2 = {
       fact: "Nala went out and back by the south gate's night wicket after the dusk bell on day seven.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "On her seventh night Nala paid Bet 3 copper for supper and 8 for the bed under the eaves.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-bet-harrow",
+      ],
+    },
   ],
 } as const satisfies Lore
