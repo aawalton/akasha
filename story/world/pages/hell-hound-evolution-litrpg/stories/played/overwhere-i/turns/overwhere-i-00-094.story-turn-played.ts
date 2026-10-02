@@ -4,10 +4,13 @@ export const overwhereI00094 = {
   id: "01a0fed1-bc21-737d-8736-ca4c92e4ab97",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-094",
+  ownLength: 584,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 94,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I spend the afternoon carefully experimenting with casting spells on the remaining wounds on my arms, single elements and pairs trying to find a combination and visualization to accelerate healing",
   beats: [
@@ -25,6 +28,8 @@ export const overwhereI00094 = {
     "The innkeeper puts her head in: \"Stew's two copper, bed's eight, the tub three. What'll it be?\"",
   ],
   lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
     "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-starfall-legacy-2",
     "place/overwhere-i-greyback-and-east-road",
