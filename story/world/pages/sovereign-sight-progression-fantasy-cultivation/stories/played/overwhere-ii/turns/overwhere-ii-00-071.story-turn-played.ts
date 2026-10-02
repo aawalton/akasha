@@ -11,4 +11,5 @@ export const overwhereIi00071 = {
   action:
     "I tell Dray how the fight went down and speak in favor of supervised clemency for the three siblings.",
   lore: ["lore/overwhere-ii-reeve-corwin-dray-2"],
+  endsAt: "2026-10-14T19:02:00.000Z",
 } as const satisfies StoryTurnPlayed
