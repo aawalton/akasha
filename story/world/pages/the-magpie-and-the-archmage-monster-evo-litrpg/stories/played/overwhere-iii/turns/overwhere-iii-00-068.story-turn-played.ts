@@ -16,7 +16,7 @@ export const overwhereIii00068 = {
     "character-other/overwhere-iii-maud-ferrow",
     "character-other/overwhere-iii-tam-rowe",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I enjoy the oatcakes and ask Brannagh to spread the word that I’ll be healing in the morning only, other than emergencies. Then go to bed and check in in the morning before going to train with the guard.",
   beats: [
@@ -45,6 +45,6 @@ export const overwhereIii00068 = {
     "lore/overwhere-iii-nala-2-2",
     "place/overwhere-iii-crook-and-candle",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-07T10:30:00.000Z",
 } as const satisfies StoryTurnPlayed
