@@ -295,6 +295,10 @@ export const overwhereITheGreyfen = {
         "lore/overwhere-i-rowan-coalby",
       ],
     },
+    {
+      fact: "Hauling the head back on the sled, they reach the fen edge about 16:00 on day 4.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
