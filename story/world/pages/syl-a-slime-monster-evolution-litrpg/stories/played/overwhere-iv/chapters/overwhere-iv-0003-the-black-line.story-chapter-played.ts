@@ -58,7 +58,7 @@ export const overwhereIv0003TheBlackLine = {
     },
     {
       position: 31,
-      cover: "image/image-bb195a046b35fbe9",
+      cover: "image/image-446727ac9466bf89",
       coverAfter: "Atop the fallen oak, the slinger rises out of its crouch. Smoke",
     },
     {
