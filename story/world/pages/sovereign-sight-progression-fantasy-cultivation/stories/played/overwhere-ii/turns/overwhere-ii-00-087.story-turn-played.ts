@@ -7,8 +7,17 @@ export const overwhereIi00087 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 87,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "“I’m not quite sure, can’t remember anything past a few weeks ago.”",
+  beats: [
+    "Nala: \"I'm not quite sure. I can't remember anything past a few weeks ago.\"",
+    "Lady Varrow's pale eyes stay on her face, then drop to her hands, then rise again.",
+    "She goes very still, and takes the answer seriously.",
+    'Lady Varrow: "I have heard of that. Folk the Sea has touched, who lose what came before."',
+    "Sir Edric shifts his weight beside the chair, and says nothing.",
+    'Lady Varrow: "Then tell me what you do remember. Where did you first wake?"',
+    'Lady Varrow: "And who saw you first?"',
+  ],
   lore: ["lore/overwhere-ii-lady-imre-varrow"],
   endsAt: "2026-10-21T08:25:00.000Z",
 } as const satisfies StoryTurnPlayed
