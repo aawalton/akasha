@@ -11,4 +11,5 @@ export const overwhereI00068 = {
   action:
     "“He’ll be safe enough as long as he’s with me. If he runs off in his own though, that’s on him.” I tell Bet, then take a bath before bed.",
   lore: ["lore/overwhere-i-garrick-pell", "lore/overwhere-i-tobin-ashdown"],
+  endsAt: "2026-10-03T15:00:00.000Z",
 } as const satisfies StoryTurnPlayed
