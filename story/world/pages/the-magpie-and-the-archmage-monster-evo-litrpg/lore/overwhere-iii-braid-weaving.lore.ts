@@ -40,5 +40,9 @@ export const overwhereIiiBraidWeaving = {
       fact: "Once a braid has held cleanly, the knack stays; later braids close as easily as plain weaves.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A braid that holds and lands counts as holding cleanly, even if its snap-back stings her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
