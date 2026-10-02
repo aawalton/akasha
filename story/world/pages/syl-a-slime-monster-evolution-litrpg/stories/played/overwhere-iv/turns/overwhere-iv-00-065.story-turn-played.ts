@@ -4,6 +4,7 @@ export const overwhereIv00065 = {
   id: "01a0fe2e-fe2f-7448-9d54-fde6b7e7d3d6",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-065",
+  cover: "image/image-76350893d5c88206",
   ownLength: 283,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
@@ -14,7 +15,7 @@ export const overwhereIv00065 = {
     "character-other/overwhere-iv-ilsa-crane",
     "character-other/overwhere-iv-brenna-holt",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I leave the broken spear and carry just the head back to town, I’ll reimburse the guard for the spear, my replacement is already being made, and report back to the guild.",
   beats: [
@@ -48,6 +49,12 @@ export const overwhereIv00065 = {
     "place/overwhere-iv-millbrook-gatehouse",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/inventory"],
+  recordedBy: [
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-04T18:33:00.000Z",
+  coverAfter: "The hall's lamps are lit. You set the head on Ilsa's counter.",
 } as const satisfies StoryTurnPlayed
