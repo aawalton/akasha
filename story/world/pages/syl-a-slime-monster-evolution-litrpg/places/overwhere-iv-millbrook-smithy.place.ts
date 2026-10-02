@@ -1,0 +1,36 @@
+import type { Place } from "akasha/story/lore/place/place.page-type.types.ts"
+
+export const overwhereIvMillbrookSmithy = {
+  id: "01a0fd7a-1cc9-75fb-b05e-b6a3c090fe56",
+  type: "page-type/place",
+  slug: "overwhere-iv-millbrook-smithy",
+  title: "Tobin Ash's Smithy",
+  world: "world/syl-a-slime-monster-evolution-litrpg",
+  within: "place/overwhere-iv-millbrook",
+  facts: [
+    {
+      fact: "Tobin Ash is a broad, soot-grey man of few words who prices by eye and won't be hurried.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "On Tobin's wall hangs one spear: a plain iron-headed hunting spear on ash, asking 80 copper.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin can forge a leaf-bladed spearhead to order in two days, fitted to a new shaft, for 150 copper.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Steel spears worth a silver rank aren't made in Millbrook; they're bought in Aubrin.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin buys old iron by weight; a heavy notched cleaver fetches 4 copper.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin can put an edge and point back on a blunted practice spear for 10 copper while she waits.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
+} as const satisfies Place
