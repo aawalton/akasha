@@ -143,7 +143,7 @@ export const overwhereITheDeserterCrew2 = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Within two minutes Voss, Crow, both crossbowmen and Blademan Three slip out by the goat path.",
+      fact: "Within two minutes Voss, Crow, Crossbowman Five and Blademan Three slip out by the goat path.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
