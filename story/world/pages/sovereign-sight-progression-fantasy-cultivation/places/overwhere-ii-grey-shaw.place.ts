@@ -102,7 +102,7 @@ export const overwhereIiGreyShaw = {
     },
     {
       fact: "Nala's third of Crake's coin is four silver bars, of six hundred silver in all.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Place
