@@ -24,7 +24,7 @@ export const overwhereI0003Flare = {
     },
     {
       position: 17,
-      cover: "image/image-bafaafe15859cb0c",
+      cover: "image/image-baf9304e933fc6af",
       coverAfter: "Late in the evening a broad, soot-dark man comes up to you",
     },
     {
