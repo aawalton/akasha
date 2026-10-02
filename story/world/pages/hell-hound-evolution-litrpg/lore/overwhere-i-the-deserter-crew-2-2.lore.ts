@@ -142,5 +142,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Crow carries a long knife at his belt; Five a short sword.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At the camp Voss sets Three and both keepers behind charcoal mounds, crossbows on the track.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
