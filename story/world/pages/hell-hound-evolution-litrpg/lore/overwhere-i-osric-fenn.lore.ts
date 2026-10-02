@@ -252,7 +252,7 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Salt paid, Osric counts 5 silver into her hand for the road, then sheepishly asks his toll back.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
