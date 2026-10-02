@@ -4,13 +4,14 @@ export const overwhereIv00076 = {
   id: "01a0fed5-e95d-71d0-a9ef-773f747ad587",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-076",
+  cover: "image/image-464dfcf13565c219",
   ownLength: 188,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 76,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I mix in targeting the ones most likely to find me, the two quiet ones first, then hiding then in the rest",
   beats: [
@@ -37,6 +38,12 @@ export const overwhereIv00076 = {
     "lore/overwhere-iv-the-tangle-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-06T21:18:00.000Z",
+  coverAfter: "Six goblins break from the knot and come at the brambles, clubs and spears",
 } as const satisfies StoryTurnPlayed
