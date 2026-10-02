@@ -33,7 +33,7 @@ export const overwhereIiLoddonBrothers = {
     },
     {
       fact: "Crake's stash at the Grey Shaw tollhouse holds bottled stolen Water, coin, and his ledger.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Wil knows Crake keeps three Talented chained in a cellar in Carrowmouth's Salt Lanes.",
