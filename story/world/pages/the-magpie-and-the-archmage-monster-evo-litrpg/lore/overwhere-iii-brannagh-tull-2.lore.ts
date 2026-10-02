@@ -222,7 +222,7 @@ export const overwhereIiiBrannaghTull2 = {
       ],
     },
     {
-      fact: "The father asks if the healer can do aught about the fox; the post's bounty is beyond him.",
+      fact: "The father asks if the healer can do aught about the fox; posting a Guild job is past his purse.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-brannagh-tull",
