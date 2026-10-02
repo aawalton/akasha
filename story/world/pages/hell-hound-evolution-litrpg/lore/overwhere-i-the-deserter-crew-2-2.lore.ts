@@ -79,5 +79,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Crow and the helmed crossbowman lay in ambush in the pines, 25 yards off the track at the bend.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "At the bend her ward turned Crow's bolt; the helmed man's bolt grazed her ribs.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
