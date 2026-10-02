@@ -361,5 +361,9 @@ export const overwhereIiiNala2 = {
       fact: "Nala put off the washerwoman's scar till evening, to save her mana for the fox.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala's first braided pull, unlooped, snapped back down the current and stung her.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
