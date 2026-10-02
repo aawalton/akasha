@@ -10,4 +10,5 @@ export const overwhereI00077 = {
   stepStatus: "step-status/game-master",
   action: "I circle around, as quietly as I can, trying to get eyes on any of the bandits.",
   lore: ["lore/overwhere-i-the-deserter-crew-2", "place/overwhere-i-greyback-and-east-road"],
+  endsAt: "2026-10-03T15:14:00.000Z",
 } as const satisfies StoryTurnPlayed
