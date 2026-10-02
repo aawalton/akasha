@@ -98,4 +98,5 @@ export const emberdeep0005TheDrownedHall = {
     "character-other/emberdeep-wren",
     "character-other/emberdeep-elowen",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
