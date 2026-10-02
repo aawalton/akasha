@@ -13,7 +13,7 @@ export const overwhereIiKeeperAnselm2 = {
     },
     {
       fact: "Anselm teaches that refining goes outside in: skin, then muscle, bone, organs, and last blood.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Anselm says most Talented Descend once skin and muscle are whole, and refine bone after.",
