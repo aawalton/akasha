@@ -29,7 +29,7 @@ export const overwhereIiKeeperAnselm2 = {
     },
     {
       fact: "The canticles say Descent first calls in a dream of water going down, once the body is ready.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Anselm says the call does not compel; it comes again, stronger, until it is answered.",
