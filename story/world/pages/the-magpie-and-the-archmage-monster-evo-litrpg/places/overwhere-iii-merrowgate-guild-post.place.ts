@@ -127,7 +127,7 @@ export const overwhereIiiMerrowgateGuildPost = {
       ],
     },
     {
-      fact: "The lead box holds one blightstone, the wolf's second, part paled by Nala.",
+      fact: "The lead box is empty; Nala has cracked every stone it held.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-marda-hesk",
@@ -267,21 +267,14 @@ export const overwhereIiiMerrowgateGuildPost = {
       ],
     },
     {
-      fact: "The lead box's stones are the only blightstones in Merrowgate; more come only from new kills.",
+      fact: "No blightstones are left in Merrowgate; more come only from new kills.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-marda-hesk",
         "character-player/overwhere-iii-nala",
       ],
     },
-    {
-      fact: "The wolf's second blightstone, back in the lead box, is now over half paled by Nala.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-marda-hesk",
-      ],
-    },
+
     {
       fact: "The wolf's stones were paid their bounty when brought in; cracking a stone earns no bounty.",
       knowers: ["lore-disclosure/game-master"],
