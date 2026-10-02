@@ -10,7 +10,7 @@ export const hollowmere0008TwoThirdsOfAGlim = {
   story: "story-written/hollowmere",
   ownLength: 3701,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Monday, week two: at half six it's Bea's knock, and you're already up and dressed to run.",
     "You choose the shore with Bea this morning; out on the mere a white cap waves, and you wave back.",
@@ -51,6 +51,9 @@ export const hollowmere0008TwoThirdsOfAGlim = {
     "In bed you lie awake, your cheek still warm where Bea's mouth was.",
     "A day at Hollowmere ends.",
   ],
+  issues: [
+    '"go to the benches with Amara, Kit and Lin" - group F\'s only glims were Osei, Ashworth, Ashby',
+  ],
   lore: [
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",
@@ -72,5 +75,5 @@ export const hollowmere0008TwoThirdsOfAGlim = {
     "character-other/hollowmere-lin",
     "character-other/hollowmere-yusra",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
