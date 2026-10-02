@@ -38,7 +38,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 6,
-      cover: "image/image-ed43c970d3e95ec1",
+      cover: "image/image-3584b12f7e315935",
       coverAfter: "Then his eyes flicker. Blue light runs through them in fine quick",
     },
     {
