@@ -169,7 +169,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "She would have Nala spar with her Talented at the Keep, to learn to fight other Talents.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "She knows the Keepers send Senior Keeper Maud Ashby up the valley, and bids Nala hear her too.",
