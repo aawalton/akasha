@@ -250,5 +250,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Heard on the rim, Blademan Two calls out that they yield, and begs her not to burn them.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At the goat path's top, boot prints of four men run north into the pines.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
