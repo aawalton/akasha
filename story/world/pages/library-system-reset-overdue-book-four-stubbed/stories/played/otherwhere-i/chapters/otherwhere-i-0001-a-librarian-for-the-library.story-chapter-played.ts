@@ -33,7 +33,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 5,
-      cover: "image/image-fa9debb89c762e3a",
+      cover: "image/image-49bb811cbd00a5d8",
       coverAfter: "It's a lynx. A big one, bigger than any cat has a",
     },
     {
