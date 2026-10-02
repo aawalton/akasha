@@ -100,4 +100,5 @@ export const emberdeep0004TheWarmPools = {
     "character-other/emberdeep-elowen",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryChapterWritten
