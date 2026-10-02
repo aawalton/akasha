@@ -299,6 +299,14 @@ export const overwhereIvTheTangle = {
       fact: "Grakk's watchers report one guard with a horn at Tull's; he keeps to his strike there.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Grakk's strike leaves the camp at dusk of day 8 and reaches the Tangle's edge by Tull's at midnight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The strike comes down the deer trail, the same way the Tull raiders went.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
