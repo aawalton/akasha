@@ -63,7 +63,7 @@ export const overwhereIii0002TheClayCup = {
     },
     {
       position: 28,
-      cover: "image/image-834c16885769f1f0",
+      cover: "image/image-e09c7f1de1c206e9",
       coverAfter: "On the near cot sits a thin, wiry woman of about forty,",
     },
     {
