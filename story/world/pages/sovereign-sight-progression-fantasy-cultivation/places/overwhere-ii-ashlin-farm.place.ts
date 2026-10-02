@@ -22,7 +22,7 @@ export const overwhereIiAshlinFarm = {
     },
     {
       fact: "The barn's hayloft door looks straight down on the yard and the end of the lane.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Behind the farm, Ashlin Beck runs in a wooded gully that reaches the back of the barn unseen.",
