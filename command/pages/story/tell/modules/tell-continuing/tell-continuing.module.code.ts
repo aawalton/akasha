@@ -1,8 +1,22 @@
 import { dirname, join } from "node:path"
 import { addFile } from "akasha/change/mechanical/file/add/add-file/add-file.change-mechanical-file.ts"
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
+import { changeFileContent } from "akasha/change/mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.ts"
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
+import {
+  type Splice,
+  spliced as splicedEdits,
+  splicedTo,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
+import { without } from "akasha/change/modules/literal-splicing/literal-splicing.module.code.ts"
+import {
+  assignedIn,
+  literalIn,
+} from "akasha/change/modules/page-literal/page-literal.module.code.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { CEILING } from "akasha/check/code/pages/file-length/modules/length-ceiling/length-ceiling.module.code.ts"
+import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import {
@@ -15,9 +29,14 @@ import { loreAbout } from "akasha/story/lore/properties/lore-about.relation-prop
 import { loreFact } from "akasha/story/lore/properties/lore-fact.text-property.ts"
 import { loreFacts } from "akasha/story/lore/properties/lore-facts.record-property.ts"
 import { loreKnowers } from "akasha/story/lore/properties/lore-knowers.multi-relation-property.ts"
+import { loreSecrets } from "akasha/story/lore/properties/lore-secrets.file-property.ts"
 import { world } from "akasha/story/world/stories/played/properties/world.relation-property.ts"
 
 export const ADD_FILE = `${changeMechanicalFile.slug}/${addFile.slug}` as const
+
+export const REPLACE = `${changeMechanicalFileContent.slug}/${changeFileContent.slug}` as const
+
+export const REMOVE_FILE = `${changeMechanicalFile.slug}/${removeFile.slug}` as const
 
 const HELD = "ts"
 
@@ -49,6 +68,35 @@ type Family = { readonly held: readonly string[]; readonly next: string }
 
 export function fits(body: string): boolean {
   return BYTES.encode(body).length <= CEILING
+}
+
+export function replacing(at: string, was: string, now: string): Asking {
+  const one = splicedEdits(at, was, splicedTo(was, now))[0]
+  if (one?.kind !== "replace") return { at: REPLACE, given: { at, old: was, new: now } }
+  return { at: REPLACE, given: { at, old: one.contentFrom, new: one.contentTo } }
+}
+
+export function spliced(text: string, spots: readonly Splice[]): string {
+  let held = text
+  for (const one of spots.toSorted((here, there) => there.from - here.from)) {
+    held = `${held.slice(0, one.from)}${one.put}${held.slice(one.to)}`
+  }
+  return held
+}
+
+export function secretsLeft(file: string, was: string, secrets: readonly string[]): Asking {
+  if (secrets.length === 0) return { at: REMOVE_FILE, given: { at: file } }
+  return replacing(file, was, secrets.map((one) => `${JSON.stringify(one)}\n`).join(""))
+}
+
+export function withoutSecrets(at: string, text: string): readonly Asking[] {
+  const source = parsedAs(at, text)
+  const owner = literalIn(source)
+  const secrets = owner === null ? null : assignedIn(owner, loreSecrets.propertySlug)
+  if (owner === null || secrets === null) return []
+  const index = owner.properties.indexOf(secrets)
+  const now = spliced(text, [without(text, source, owner, owner.properties, index)])
+  return [replacing(at, text, now)]
 }
 
 export function factsSpelled(facts: readonly Told[]): string {

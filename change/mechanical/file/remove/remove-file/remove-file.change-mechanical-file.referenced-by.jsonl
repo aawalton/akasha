@@ -14,7 +14,7 @@
 {"propertySlug":"import","fileName":"remove-file.change-mechanical-file.ts","path":"change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"remove-file.change-mechanical-file.ts","path":"command/modules/mechanical-filing/mechanical-filing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"remove-file.change-mechanical-file.ts","path":"command/modules/mechanical-filing/mechanical-filing.module.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"remove-file.change-mechanical-file.ts","path":"command/pages/story/tell/story-tell.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"remove-file.change-mechanical-file.ts","path":"command/pages/story/tell/modules/tell-continuing/tell-continuing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"remove-file.change-mechanical-file.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"remove-file.change-mechanical-file.ts","path":"page/service/modules/page-writing/page-writing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"remove-file.change-mechanical-file.ts","path":"page/service/modules/page-writing/page-writing.module.test.ts","typed":false,"deferred":false}

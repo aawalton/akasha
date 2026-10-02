@@ -123,6 +123,7 @@
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"code/reading/modules/value-inserting/value-inserting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"command/modules/draft-parsing/draft-parsing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"command/modules/restating/restating.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-source.module.code.ts","path":"command/pages/story/tell/modules/tell-continuing/tell-continuing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"command/pages/story/tell/story-tell.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"page/modules/body-editing/page-body-editing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"page/modules/export-name/modules/export-spelling/export-spelling.module.code.ts","typed":false,"deferred":false}

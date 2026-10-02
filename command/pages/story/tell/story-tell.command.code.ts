@@ -1,14 +1,6 @@
 import { readFileSync, statSync } from "node:fs"
 import { join } from "node:path"
-import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
-import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
-import { changeFileContent } from "akasha/change/mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.ts"
-import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
-import {
-  type Splice,
-  spliced as splicedEdits,
-  splicedTo,
-} from "akasha/change/modules/answer/change-answer.module.code.ts"
+import type { Splice } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { editsAt } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
   without,
@@ -54,7 +46,11 @@ import {
   factsSpelled,
   fits,
   type Laid,
+  replacing,
+  secretsLeft,
+  spliced,
   type Told,
+  withoutSecrets,
 } from "akasha/command/pages/story/tell/modules/tell-continuing/tell-continuing.module.code.ts"
 import { storyTell as page } from "akasha/command/pages/story/tell/story-tell.command.ts"
 import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
@@ -187,14 +183,6 @@ export function toldIn(
   }
 }
 
-function spliced(text: string, spots: readonly Splice[]): string {
-  let held = text
-  for (const one of spots.toSorted((here, there) => there.from - here.from)) {
-    held = `${held.slice(0, one.from)}${one.put}${held.slice(one.to)}`
-  }
-  return held
-}
-
 export function bodyTelling(path: string, text: string, telling: Telling): string | null {
   const source = parsedAs(path, text)
   const owner = literalIn(source)
@@ -264,10 +252,14 @@ export function askedFor(held: Taken, reading: Reading): readonly Asking[] | str
   if (typeof here === "string") return here
   if (!here.fresh || fits(here.laid)) return here.asked
   const known = { fact: held.fact, knowers: knowersFor(held.knowers) }
-  return continued(held.page, known, reading, (path) => tellingAt(held, reading, path))
+  const added = { ...held, adds: true }
+  const moved = continued(held.page, known, reading, (path) => tellingAt(added, reading, path))
+  return typeof moved === "string" ? moved : [...moved, ...here.kept]
 }
 
-function tellingAt(held: Taken, reading: Reading, at: string): Laid | string {
+type Here = Laid & { readonly kept: readonly Asking[] }
+
+function tellingAt(held: Taken, reading: Reading, at: string): Here | string {
   const secretsFile = besideAt(at, loreSecrets.propertySlug, HELD)
   if (secretsFile === null) return `\`${at}\` can hold no secrets beside it`
   const value = reading.valueAt(at)
@@ -284,26 +276,12 @@ function tellingAt(held: Taken, reading: Reading, at: string): Laid | string {
   const laid = reading.shaped(at, body)
   const asked: Asking[] = [replacing(at, text, laid)]
   const fresh = now.told.length > was.told.length
-  if (now.secrets.length === was.secrets.length) return { asked, laid, fresh }
+  if (now.secrets.length === was.secrets.length) return { asked, laid, fresh, kept: [] }
   const kept = reading.textOf(secretsFile)
   if (kept === null) return `\`${secretsFile}\` holds no secrets to tell from`
-  if (now.secrets.length === 0) {
-    asked.push({ at: REMOVE_FILE, given: { at: secretsFile } })
-  } else {
-    const content = now.secrets.map((one) => `${JSON.stringify(one)}${LINE}`).join("")
-    asked.push(replacing(secretsFile, kept, content))
-  }
-  return { asked, laid, fresh: false }
-}
-
-export const REPLACE = `${changeMechanicalFileContent.slug}/${changeFileContent.slug}` as const
-
-export const REMOVE_FILE = `${changeMechanicalFile.slug}/${removeFile.slug}` as const
-
-function replacing(at: string, was: string, now: string): Asking {
-  const one = splicedEdits(at, was, splicedTo(was, now))[0]
-  if (one?.kind !== "replace") return { at: REPLACE, given: { at, old: was, new: now } }
-  return { at: REPLACE, given: { at, old: one.contentFrom, new: one.contentTo } }
+  const left = secretsLeft(secretsFile, kept, now.secrets)
+  const bare = now.secrets.length === 0 ? withoutSecrets(at, text) : []
+  return { asked: [...asked, left], laid, fresh, kept: [left, ...bare] }
 }
 
 function toldLines(held: Taken): readonly string[] {

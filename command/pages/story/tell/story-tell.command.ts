@@ -42,7 +42,7 @@ export const storyTell = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A new fact the page named has no room for is told on a continuation rather than refused.",
+        "A new fact or a secret the page named has no room for is told on a continuation, not refused.",
     },
     {
       decisionKind: "decision-kind/departure",

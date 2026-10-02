@@ -4,14 +4,18 @@ export const tellContinuing = {
   id: "01a0f379-63a6-7346-9559-d04cd3c9abec",
   type: "page-type/module",
   slug: "tell-continuing",
-  definition: "where a new fact is told when the lore page named is full",
+  definition: "where a new fact or a secret is told when the lore page named is full",
   code: "ts",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A new fact taking its page past the length ceiling is told on a continuation of that page.",
+        "A new fact or a secret taking its page past the length ceiling is told on a continuation.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A secret told on a continuation leaves its page's secrets file all the same.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -42,7 +46,7 @@ export const tellContinuing = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "A fact already on the page, told or secret, is never moved to a continuation.",
+      statement: "A fact already told on the page is never moved to a continuation.",
     },
     {
       decisionKind: "decision-kind/absence",

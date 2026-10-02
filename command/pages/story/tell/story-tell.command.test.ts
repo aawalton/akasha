@@ -1,11 +1,13 @@
 import { expect, test } from "bun:test"
 import {
+  REMOVE_FILE,
+  REPLACE,
+} from "akasha/command/pages/story/tell/modules/tell-continuing/tell-continuing.module.code.ts"
+import {
   askedFor,
   bodyTelling,
   GAME_MASTER,
   knowersFor,
-  REMOVE_FILE,
-  REPLACE,
   type Reading,
   type Taken,
   taken,

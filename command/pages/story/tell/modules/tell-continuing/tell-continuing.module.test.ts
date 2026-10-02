@@ -4,11 +4,12 @@ import {
   ADD_FILE,
   continuationBody,
   fits,
+  REMOVE_FILE,
+  REPLACE,
 } from "akasha/command/pages/story/tell/modules/tell-continuing/tell-continuing.module.code.ts"
 import {
   askedFor,
   GAME_MASTER,
-  REPLACE,
   type Reading,
   type Taken,
 } from "akasha/command/pages/story/tell/story-tell.command.code.ts"
@@ -144,6 +145,46 @@ test("a fact already told on a full page gains its knower there rather than movi
   if (typeof asked === "string") throw new Error(asked)
   expect(asked.map((one) => one.at)).toEqual([REPLACE])
   expect(Reflect.get(asked[0]?.given ?? {}, "at")).toBe(AT)
+})
+
+const SECRETS_AT = `${LORE_AT}/grove.lore.secrets.jsonl`
+
+function keepingSecrets(pages: Record<string, Held>, secrets: string): Reading {
+  const reading = readingOver(pages, [AT])
+  const body = bodyOf(AT).replace(`  world: "${WORLD}",\n`, `$&  secrets: "jsonl",\n`)
+  const held = new Map([
+    [AT, body],
+    [SECRETS_AT, secrets],
+  ])
+  return { ...reading, textOf: (path) => held.get(path) ?? reading.textOf(path) }
+}
+
+test("the last secret told on a full page leaves its secrets for a continuation", () => {
+  const asked = askedFor(tellOf("lore/grove", "one", false), keepingSecrets(PAGES, '"one"\n'))
+  if (typeof asked === "string") throw new Error(asked)
+  const added = addedIn(asked)
+  expect(added.at).toBe(SECOND_AT)
+  expect(added.body).toContain(`{ fact: "one", knowers: ["${GAME_MASTER}", "${HER}"] }`)
+  expect(asked.slice(1).map((one) => [one.at, Reflect.get(one.given, "at")])).toEqual([
+    [REMOVE_FILE, SECRETS_AT],
+    [REPLACE, AT],
+  ])
+  expect(String(Reflect.get(asked[2]?.given ?? {}, "old"))).toContain("secrets:")
+  expect(String(Reflect.get(asked[2]?.given ?? {}, "new"))).not.toContain("secrets:")
+})
+
+test("a secret told on a full page goes onto the continuation that has room", () => {
+  const pages = { ...PAGES, "lore/grove-2": { path: SECOND_AT, value: GROVE } }
+  const asked = askedFor(
+    tellOf("lore/grove", "one", false),
+    keepingSecrets(pages, '"one"\n"two"\n')
+  )
+  if (typeof asked === "string") throw new Error(asked)
+  expect(asked.map((one) => [one.at, Reflect.get(one.given, "at")])).toEqual([
+    [REPLACE, SECOND_AT],
+    [REPLACE, SECRETS_AT],
+  ])
+  expect(JSON.stringify(asked[0])).toContain('fact: \\"one\\"')
 })
 
 test("a continuation's body states no id, so the landing gives it one", () => {
