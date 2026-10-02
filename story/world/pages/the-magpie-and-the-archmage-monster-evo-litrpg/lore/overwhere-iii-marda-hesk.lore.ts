@@ -374,7 +374,11 @@ export const overwhereIiiMardaHesk = {
     },
     {
       fact: "Marda's other basics: Appraise from the shop, a staff of your own, never go out with your well dry.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
   secrets: "jsonl",
