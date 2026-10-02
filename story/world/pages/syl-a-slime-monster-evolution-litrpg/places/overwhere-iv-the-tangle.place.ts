@@ -307,6 +307,50 @@ export const overwhereIvTheTangle = {
       fact: "The strike comes down the deer trail, the same way the Tull raiders went.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "On the night of day 8 a half moon sets near midnight; under the Tangle's trees it is near dark.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The deer trail can be kept in the dark by Spatial Sense alone, its edges felt within her reach.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Grakk's strike moves dark, and lights torches only at the meadow's edge, to fire the farm.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Two goblin scouts go quietly fifty paces ahead of the strike; the main band follows them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The main band is loud in the brush; on a still night it is heard a hundred paces off.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The strike's goblins are LV 2 to 6, with clubs, knives and short spears; three carry slings.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "One strike hobgoblin is LV 12, in boiled hide, with a maul; the other LV 10, with spear and horn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Grakk stays at the camp; he sends the strike rather than leading it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Goblins see in the dark as men see at dusk; their noses are no better than a man's.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A still, quiet watcher hears the band coming before any goblin knows she is there.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A goblin scout notices someone moving in the dark at about twenty paces.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
