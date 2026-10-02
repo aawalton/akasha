@@ -11,4 +11,5 @@ export const mariStoryRecorderHollowmereFlex4 = {
   startMode: "seat-mode/headless",
   onCall: false,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "c8de030b-31f9-42e8-ba7a-f87036303ff1",
 } as const satisfies Seat
