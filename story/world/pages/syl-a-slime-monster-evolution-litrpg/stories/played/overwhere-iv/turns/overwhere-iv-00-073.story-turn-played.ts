@@ -10,7 +10,7 @@ export const overwhereIv00073 = {
   position: 73,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“No, you need someone else to watch. Tonight I’m going hunting.” I go back and train with the guards then get some sleep, then do some more training, working to Rift Rend something I can only see with Spatial Sense.",
   beats: [
@@ -30,6 +30,8 @@ export const overwhereIv00073 = {
     "She tries again, eyes shut, on a second boulder. It holds. The cut lands a hand's width off.",
     "And again, on a third. Each line costs her the same handful of warmth as any rend.",
     "The sun is sinking toward the moor. Behind her ribs, the warmth is down to two-thirds.",
+    "Dace comes up the slope at a jog, breathing hard, and stops short at the split boulders.",
+    '"Ilsa wants her horn back," he says. "Merrit and I have Tull\'s tonight. Where are you hunting?"',
   ],
   issues: [
     '"The sun is sinking toward the moor. Behind your ribs, the warmth is down" - Leave It Open',
