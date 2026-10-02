@@ -358,5 +358,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Under the overhang Voss's sack slumped over, spilling silver coins across the rock.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Each of Voss's men, Voss too, still wears his stamped tin levy tag on a cord at the neck.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
