@@ -78,7 +78,7 @@ export const overwhereIii0001TheCopperRing = {
     },
     {
       position: 14,
-      cover: "image/image-796e1f83094a8aa5",
+      cover: "image/image-0bc04b70faaa9a55",
       coverAfter: "The rabbit's glow drains out of its body. It seeps away into",
     },
     {
