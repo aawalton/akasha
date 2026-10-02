@@ -38,7 +38,11 @@ export const saltAndLamplightNala = {
     },
     {
       fact: "Nala woke in a thin wet linen shift and nothing else, barefoot, her skin numb with cold.",
-      knowers: ["lore-disclosure/game-master", "character-player/salt-and-lamplight-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
     },
     {
       fact: "Nala speaks and understands the tongue of the coast as easily as if she had always spoken it.",
@@ -51,6 +55,30 @@ export const saltAndLamplightNala = {
     {
       fact: "Nala's body is lighter, smaller and colder than Alan's, and every sense in it is new to her.",
       knowers: ["lore-disclosure/game-master", "character-player/salt-and-lamplight-nala"],
+    },
+    {
+      fact: "Morwenna found Nala at dusk in the shingle cove below Morrow Head, soaked and frozen.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
+    },
+    {
+      fact: "Nala told Morwenna her name, and that she came from far away and does not know how.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
+    },
+    {
+      fact: "Nala sleeps on the straw mattress in the loft of the keeper's cottage.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
     },
   ],
 } as const satisfies Lore

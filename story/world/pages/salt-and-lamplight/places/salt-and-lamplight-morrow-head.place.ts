@@ -18,11 +18,19 @@ export const saltAndLamplightMorrowHead = {
     },
     {
       fact: "The lighthouse is a white stone tower with a red iron lantern cap, ninety-six steps to the lamp.",
-      knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-morwenna"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/salt-and-lamplight-morwenna",
+        "character-player/salt-and-lamplight-nala",
+      ],
     },
     {
       fact: "The lamp burns oil behind a great glass lens, turned by a clockwork wound every four hours.",
-      knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-morwenna"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/salt-and-lamplight-morwenna",
+        "character-player/salt-and-lamplight-nala",
+      ],
     },
     {
       fact: "The lamp is lit at dusk and put out at dawn, and its wick is trimmed and its lens polished daily.",
@@ -30,11 +38,19 @@ export const saltAndLamplightMorrowHead = {
     },
     {
       fact: "The keeper's cottage of granite and slate sits at the tower's foot, with one hearth and one bed.",
-      knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-morwenna"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/salt-and-lamplight-morwenna",
+        "character-player/salt-and-lamplight-nala",
+      ],
     },
     {
       fact: "A narrow loft over the cottage kitchen holds sail canvas, spare blankets and a straw mattress.",
-      knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-morwenna"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/salt-and-lamplight-morwenna",
+        "character-player/salt-and-lamplight-nala",
+      ],
     },
     {
       fact: "A walled kitchen garden and a goat shed sit in the lee of the cottage.",
@@ -42,11 +58,27 @@ export const saltAndLamplightMorrowHead = {
     },
     {
       fact: "Steep steps hewn into the rock lead down from the point to a small shingle cove.",
-      knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-morwenna"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/salt-and-lamplight-morwenna",
+        "character-player/salt-and-lamplight-nala",
+      ],
     },
     {
       fact: "The tide leaves in the shingle cove below Morrow Head whatever the sea gives up.",
-      knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-morwenna"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/salt-and-lamplight-morwenna",
+        "character-player/salt-and-lamplight-nala",
+      ],
+    },
+    {
+      fact: "The Teeth are a reef of jagged black rocks off Morrow Head.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
     },
   ],
 } as const satisfies Place

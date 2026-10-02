@@ -33,7 +33,11 @@ export const saltAndLamplightPenmorrow = {
     },
     {
       fact: "A cliff path runs a mile north from Penmorrow to Morrow Head.",
-      knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-morwenna"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/salt-and-lamplight-morwenna",
+        "character-player/salt-and-lamplight-nala",
+      ],
     },
   ],
 } as const satisfies Place

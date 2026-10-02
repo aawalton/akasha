@@ -18,7 +18,11 @@ export const saltAndLamplightMorwenna = {
     },
     {
       fact: "Morwenna has fair, windburned skin, sea-grey eyes, straight dark brows and a wide, serious mouth.",
-      knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-morwenna"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/salt-and-lamplight-morwenna",
+        "character-player/salt-and-lamplight-nala",
+      ],
     },
     {
       fact: "A thin pale scar runs through the end of Morwenna's left eyebrow, from a snapped halyard at fifteen.",
@@ -70,7 +74,75 @@ export const saltAndLamplightMorwenna = {
     },
     {
       fact: "Morwenna keeps two goats, Bramble and Sorrow, and talks to them more kindly than to most people.",
-      knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-morwenna"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/salt-and-lamplight-morwenna",
+        "character-player/salt-and-lamplight-nala",
+      ],
+    },
+    {
+      fact: "Morwenna keeps the Morrow Head light.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
+    },
+    {
+      fact: "Morwenna is tall, and Nala's head comes only to her chin.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
+    },
+    {
+      fact: "A thin pale scar runs through the end of Morwenna's left eyebrow.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
+    },
+    {
+      fact: "Morwenna wears her dark hair in one thick braid, a heavy navy jumper and sea boots.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
+    },
+    {
+      fact: "Morwenna's hands are hard, calloused and cold, still cold after a long while by the fire.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
+    },
+    {
+      fact: "Morwenna talks to the lamp when she thinks no one hears her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
+    },
+    {
+      fact: "Morwenna says she believes in oil and clockwork rather than the old lamp story.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
+    },
+    {
+      fact: "Morwenna has said she will walk Nala to Penmorrow in the morning.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/salt-and-lamplight-nala",
+        "character-other/salt-and-lamplight-morwenna",
+      ],
     },
   ],
   secrets: "jsonl",

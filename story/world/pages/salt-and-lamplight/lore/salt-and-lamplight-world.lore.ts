@@ -30,7 +30,11 @@ export const saltAndLamplightWorld = {
     },
     {
       fact: "An old coast story says the Morrow Head lamp calls home what the sea has lost.",
-      knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-morwenna"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/salt-and-lamplight-morwenna",
+        "character-player/salt-and-lamplight-nala",
+      ],
     },
   ],
   secrets: "jsonl",
