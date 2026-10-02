@@ -10,7 +10,7 @@ export const overwhereIv00061 = {
   position: 61,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I keep trying. Rift Rend and Spatial Sense must be related, both coming from my Dimensional Magic. I should be able to hit things I can’t see with my eyes. I can see the wolf clearly with my Spatial Sense, I should be able to target it there.",
   beats: [
@@ -32,6 +32,6 @@ export const overwhereIv00061 = {
     "lore/overwhere-iv-nala-3",
     "place/overwhere-iv-crake-gill",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-04T14:30:00.000Z",
 } as const satisfies StoryTurnPlayed
