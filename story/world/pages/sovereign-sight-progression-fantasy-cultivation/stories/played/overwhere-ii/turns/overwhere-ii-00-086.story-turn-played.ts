@@ -4,10 +4,13 @@ export const overwhereIi00086 = {
   id: "01a0fe9c-bf93-7749-a4ef-134db29a4702",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-086",
+  ownLength: 165,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 86,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action: "“Thank you Lady Varrow” I say as I take the silver bar.",
   beats: [
     'Nala: "Thank you, Lady Varrow." She takes the silver bar from the grey cloth.',
@@ -22,6 +25,12 @@ export const overwhereIi00086 = {
     "When Nala finishes, the hall is quiet but for the fire. The frost on the chair arms has thickened.",
     'Lady Varrow: "Reeve Dray writes that you came to the Ford with no papers."',
     'Lady Varrow: "Where do you come from, Nala?"',
+  ],
+  lore: [
+    "lore/overwhere-ii-lady-imre-varrow",
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-nala-3",
   ],
   endsAt: "2026-10-21T08:23:00.000Z",
 } as const satisfies StoryTurnPlayed
