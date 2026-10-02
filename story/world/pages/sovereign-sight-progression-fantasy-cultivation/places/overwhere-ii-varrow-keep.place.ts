@@ -54,7 +54,7 @@ export const overwhereIiVarrowKeep = {
     },
     {
       fact: "A free blade at the Keep eats in the hall with the Talented, at the second table.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The Keep's well is in its lower court, deep and cold, fed from the crag's spring.",
