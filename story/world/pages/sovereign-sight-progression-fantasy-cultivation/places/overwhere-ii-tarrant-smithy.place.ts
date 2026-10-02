@@ -40,5 +40,29 @@ export const overwhereIiTarrantSmithy = {
       fact: "When Nala does not come for it, Hob sends his boy to her cottage on day six to say it is ready.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Nala's spear: a seven-foot ash shaft, a dark leaf-shaped cold-iron head, a crossbar below.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hob asks the other half silver bar when he hands Nala the spear, and not a copper more.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The spear is heavier at the head than the watch spear, balanced for bracing against a charge.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Held, the spear's head sits in Nala's sense as a dead, numb patch at the end of the shaft.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Undertow cannot touch the cold-iron head, but it still drives Nala's arms behind a thrust.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hob says cold iron bites the Sea-twisted where plain iron only cuts, and bids her keep it oiled.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
