@@ -10,11 +10,11 @@ export const overwhereI00090 = {
   position: 90,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-harl-voss"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I apply the salve. “I forget how many, we can count ears and tags if you want. For Voss, I’ve got his head in his sack here.” I open the sack and pull it out so they can see. “Guess we have two bounties to turn in now.”",
   beats: [
-    "Nala takes the pot and smears the salve into the bolt wounds at her shoulder, ribs and forearm.",
+    "Nala takes the pot and smears salve into her wounds: thigh, hip, shoulder, ribs and forearm.",
     "It stings, then the seeping stops; the pot is half gone by the time she is done.",
     '"I forget how many. We can count ears and tags if you want."',
     '"For Voss, I\'ve got his head in his sack here." She opens the sack and lifts it out by the hair.',
