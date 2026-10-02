@@ -16,5 +16,9 @@ export const overwhereIiiCorruption2 = {
       fact: "The fox's bite lays blight; by day it lies up in its sett, and it raids the coops at night.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The bite's dark thread leads straight to the fox's sett; to Nala's sight the fox is a dark smear.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
