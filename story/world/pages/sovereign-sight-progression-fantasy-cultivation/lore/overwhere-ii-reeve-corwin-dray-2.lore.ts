@@ -149,7 +149,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray will write Lady Varrow for clemency for the Loddons, if Wil's cellar proves true.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray would have the Loddon brothers serve Varrow Keep's quarry three years, under guard, not hang.",
