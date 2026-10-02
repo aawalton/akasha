@@ -186,5 +186,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "From her cover only the gallery mouths show, 60 yards off; no man shows longer than a heartbeat.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's aimed slugs struck both crossbowmen in the face; one fell in a gallery mouth and lies there.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
