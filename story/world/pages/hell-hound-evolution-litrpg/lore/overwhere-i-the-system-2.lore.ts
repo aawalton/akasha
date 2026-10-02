@@ -24,5 +24,9 @@ export const overwhereITheSystem2 = {
       fact: "Slaying Voss, 16 above her, takes Nala straight to Level 9 and halfway on to 10.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The crew's Drakewolf slain brings Nala about a fifth of the way to her next level.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
