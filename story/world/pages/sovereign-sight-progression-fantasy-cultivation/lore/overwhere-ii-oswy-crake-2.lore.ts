@@ -139,5 +139,9 @@ export const overwhereIiOswyCrake2 = {
       fact: "After Crake fell, the beck gully behind Ashlin Farm's barn went quiet.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Sir Edric says Crake had been a blight on the Carrowmouth road a long year.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore

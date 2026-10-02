@@ -71,5 +71,9 @@ export const overwhereIiSirEdricHale = {
       fact: "Sir Edric judges a Talent by eyes and breathing; Nala's calm, deep breath tells him she is strong.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Dray wrote Sir Edric that Nala found a crag split open, with something pulling under it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
