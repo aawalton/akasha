@@ -62,7 +62,7 @@ export const overwhereIiiBraidWeaving = {
     },
     {
       fact: "Braided onto a lent current, a looped weave pales a blightstone twice what a plain weave does.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
 } as const satisfies Lore
