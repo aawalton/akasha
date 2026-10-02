@@ -44,5 +44,9 @@ export const overwhereITheDeserterCrew222 = {
       fact: "The letter, unsigned, under a merchant's seal, pays silver when Fenwatch's crystals reach Wendlow.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "With Voss's head, the coin and the purses, the sack weighs about fifteen pounds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
