@@ -7,7 +7,13 @@ export const overwhereIv00063 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 63,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I slice it at the neck, careful to lead it correctly so it runs into to the slice and not past it. I hold the slice longer than normal so it’s momentum cuts it deep. I also brace my spear in its direction",
+  lore: [
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "lore/overwhere-iv-nala-3",
+    "place/overwhere-iv-crake-gill",
+  ],
 } as const satisfies StoryTurnPlayed
