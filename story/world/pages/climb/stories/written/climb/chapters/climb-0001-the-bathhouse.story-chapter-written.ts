@@ -20,52 +20,62 @@ export const climb0001TheBathhouse = {
   pictured: [
     {
       cover: "image/image-2183ce62e6acda4c",
+      coverAfter: "You roll onto your back. Above you a dome climbs high and",
       character: "character-other/climb-ines",
       outfit: "white linen bath sheet",
       setting: "the bathhouse",
     },
     {
       cover: "image/image-81be87e676bea1bd",
+      coverAfter: "You both turn. A second woman is coming toward you from the",
       character: "character-other/climb-clara",
       outfit: "white linen bath sheet",
     },
     {
       cover: "image/image-285348dd980cc2d5",
+      coverAfter: "Ines is already on her feet. You get up, holding your sheet",
       character: "character-other/climb-ines",
       outfit: "white linen bath sheet",
     },
     {
       cover: "image/image-c2bd3bf4578ff086",
+      coverAfter: "Ines lets her sheet go. It drops to the marble around her",
       character: "character-other/climb-ines",
       outfit: "naked",
     },
     {
       cover: "image/image-e420084cb526ddf4",
+      coverAfter: "You move in close behind Clara. She feels you and leans back,",
       character: "character-other/climb-clara",
       outfit: "naked",
     },
     {
       cover: "image/image-efdf7390d790937e",
+      coverAfter: "You dip your fingers in the oil and bring your hands down",
       character: "character-other/climb-clara",
       outfit: "naked",
     },
     {
       cover: "image/image-9658a066f8b34c65",
+      coverAfter: "Clara comes on Ines's mouth. It starts silent, her whole body locking,",
       character: "character-other/climb-clara",
       outfit: "naked",
     },
     {
       cover: "image/image-48a375e144f6d753",
+      coverAfter: "At your hips, Clara takes your cock in her hand. She holds",
       character: "character-other/climb-clara",
       outfit: "naked",
     },
     {
       cover: "image/image-106cf0bd40f8f566",
+      coverAfter: "She comes on your mouth, loud, crying out, her cunt pulsing around",
       character: "character-other/climb-ines",
       outfit: "naked",
     },
     {
       cover: "image/image-af97fb49c32f9ae7",
+      coverAfter: "Clara takes you deep, fast, her hand pumping the base in time",
       character: "character-other/climb-clara",
       outfit: "naked",
     },

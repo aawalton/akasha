@@ -18,49 +18,62 @@ export const climb0002TheMasquerade = {
     "image/image-1142a0f432536f35",
   ],
   pictured: [
-    { cover: "image/image-e670c71bba28b831", setting: "the ballroom" },
+    {
+      cover: "image/image-e670c71bba28b831",
+      coverAfter: "It's all mirrors and gilt and deep red velvet. Crystal chandeliers hang",
+      setting: "the ballroom",
+    },
     {
       cover: "image/image-9d40b6ffd0d47327",
+      coverAfter: "She's slender and willowy, her skin a smooth pale gold, her arms",
       character: "character-other/climb-mina",
       outfit: "dark red silk halter gown, gold filigree half-mask",
     },
     {
       cover: "image/image-3bd2cbe6df8ae366",
+      coverAfter: "In the mirrors two masked strangers turn and turn among the candles,",
       character: "character-other/climb-mina",
       outfit: "dark red silk halter gown, gold filigree half-mask",
     },
     {
       cover: "image/image-dc8b952d045cfcf4",
+      coverAfter: "She takes your hand and draws you across the floor to a",
       character: "character-other/climb-mina",
       outfit: "topless, the red gown slipped to her waist, gold filigree half-mask",
     },
     {
       cover: "image/image-d9b990587237cac8",
+      coverAfter: "She steps back from you, hooks her thumbs in the silk at",
       character: "character-other/climb-mina",
       outfit: "naked but for a gold filigree half-mask",
     },
     {
       cover: "image/image-cc5683deffc216bf",
+      coverAfter: "She breathes. Her eyes are shut behind the mask, her head tipped",
       character: "character-other/climb-mina",
       outfit: "naked but for a gold filigree half-mask",
     },
     {
       cover: "image/image-93a0148ffec9ee99",
+      coverAfter: "In the mirror over her head you see yourself fucking her: a",
       character: "character-other/climb-mina",
       outfit: "naked but for a gold filigree half-mask",
     },
     {
       cover: "image/image-9e4bc591d550fabf",
+      coverAfter: "You fuck her harder now, her wrists pinned, and her hips come",
       character: "character-other/climb-mina",
       outfit: "naked but for a gold filigree half-mask",
     },
     {
       cover: "image/image-a8949fc4122a5997",
+      coverAfter: "She comes in long rolling waves, crying out high and helpless, her",
       character: "character-other/climb-mina",
       outfit: "naked but for a gold filigree half-mask",
     },
     {
       cover: "image/image-1142a0f432536f35",
+      coverAfter: "She gets up and dresses in the red silk again, ties the",
       character: "character-other/climb-mina",
       outfit: "naked",
     },
