@@ -12,6 +12,7 @@ export const overwhereIvSkill = {
     "relation-property/overwhere-iv-skill-skill",
     "number-property/overwhere-iv-skill-level",
     "number-property/overwhere-iv-skill-reach-paces",
+    "number-property/overwhere-iv-skill-uses",
   ],
   properties: [
     { pageProperty: "relation-property/overwhere-iv-skill-character", required: true, many: false },
@@ -22,6 +23,7 @@ export const overwhereIvSkill = {
       required: false,
       many: false,
     },
+    { pageProperty: "number-property/overwhere-iv-skill-uses", required: false, many: false },
   ],
   decisions: [
     {
@@ -35,7 +37,19 @@ export const overwhereIvSkill = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A skill starts at level one and reaches LV MAX at ten; the growth check raises it.",
+        "A skill held starts at level one and reaches LV MAX at ten; the growth check raises it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A holding at level zero is a skill she lacks, carrying uses toward level one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A holding at level zero is unrevealed while she has not been shown the skill.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A holding's uses are the earnest uses carried toward its next level.",
     },
     {
       decisionKind: "decision-kind/departure",
