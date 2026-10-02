@@ -4,6 +4,7 @@ export const overwhereIi00082 = {
   id: "01a0fe70-3fc1-7ade-b477-542d3a7ea186",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-082",
+  cover: "image/image-e347cad290eb3530",
   ownLength: 296,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
@@ -43,6 +44,7 @@ export const overwhereIi00082 = {
     "lore/overwhere-ii-sir-edric-hale",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-19T11:00:00.000Z",
+  coverAfter: "And under your feet, under the whole mountain, the vast slow pull, deep",
 } as const satisfies StoryTurnPlayed
