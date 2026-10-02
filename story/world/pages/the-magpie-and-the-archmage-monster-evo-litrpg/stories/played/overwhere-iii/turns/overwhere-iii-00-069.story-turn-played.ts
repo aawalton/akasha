@@ -4,13 +4,13 @@ export const overwhereIii00069 = {
   id: "01a0fe5a-7a7c-7d2f-910a-d19c6e6e0fea",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-069",
-  ownLength: 163,
+  ownLength: 161,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 69,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "I go back to the post and work on cleansing blightstones, experimenting with ways to do it more efficiently",
   beats: [
