@@ -158,5 +158,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "From the bend, circling to the fold's rim above the camp takes about forty minutes.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The camp fold lies north-east; circling north, Nala comes to its rim from the north-west.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
