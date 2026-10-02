@@ -351,6 +351,34 @@ export const overwhereIvTheTangle = {
       fact: "A goblin scout notices someone moving in the dark at about twenty paces.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Most strike goblins wear hide scraps, a ward of 1; the slingers and the youngest wear none.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Both strike hobgoblins wear boiled hide, a ward of 2.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The LV 12 hobgoblin's maul lands heavy; the LV 10's spear lands solid.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Goblin clubs, knives and short spears land light; a sling stone lands solid.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Over two miles in, the deer trail runs single file down a cleft walled with bramble.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Struck hard by a foe they cannot see, goblins panic; if both hobgoblins fall, the band breaks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The strike's horn, blown that far in, brings a dozen more goblins from the camp in about two hours.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
