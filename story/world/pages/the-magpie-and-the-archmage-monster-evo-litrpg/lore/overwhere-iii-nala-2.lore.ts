@@ -188,7 +188,7 @@ export const overwhereIiiNala2 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
-      fact: "Nala last ate at the Crook and Candle's noon plate on day seven, and is fed.",
+      fact: "Nala last ate at supper on her seventh night; by first light on day eight she is hungry.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
