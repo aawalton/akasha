@@ -10,7 +10,7 @@ export const overwhereIi00077 = {
   position: 77,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I sleep, giving my Locks time to recover",
   beats: [
     "Nala lies down in the straw, the bars in her coat, and lets sleep take her.",
@@ -29,12 +29,15 @@ export const overwhereIi00077 = {
     "Outside, Dray is already on his feet, Harl roped between Col and Rob.",
     'Dray: "Morning. We march in a quarter hour. Half a day to the Ford, at the prisoners\' pace."',
   ],
+  issues: [
+    '"the bars in her coat" - Nala has no coat; she wears Anni\'s cloak and carries a leather purse',
+  ],
   lore: [
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",
     "lore/overwhere-ii-nala-3",
     "place/overwhere-ii-ashlin-farm",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-15T06:00:00.000Z",
 } as const satisfies StoryTurnPlayed
