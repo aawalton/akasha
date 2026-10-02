@@ -208,7 +208,7 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "Crow's stand in the pines shows trampled needles and a dropped bolt; scuffed needles lead north.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "A spyglass sweep of the treeline from her boulders takes about a minute.",
