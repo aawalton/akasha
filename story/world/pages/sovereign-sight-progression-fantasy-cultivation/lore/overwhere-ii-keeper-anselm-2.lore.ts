@@ -25,7 +25,7 @@ export const overwhereIiKeeperAnselm2 = {
     },
     {
       fact: "Anselm knows no Keeper practice for bone; he has heard it aches deep and goes slow.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The canticles say Descent first calls in a dream of water going down, once the body is ready.",
