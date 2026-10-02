@@ -10,7 +10,7 @@ export const overwhereIi00085 = {
   position: 85,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "I bow and wait to be spoken to.",
   beats: [
     "Nala bows, and waits to be spoken to.",
@@ -19,7 +19,7 @@ export const overwhereIi00085 = {
     "Dark hair pinned tight, one streak of white in it. Pale eyes that go to Nala's hands, then her face.",
     "The air around the chair is cold. A thin skin of frost lies on its carved arms.",
     'Lady Varrow: "Nala. I am Imre Varrow."',
-    "No more courtesy than that. Her voice is low and even.",
+    "Her name, and straight on. Her voice is low and even.",
     'Lady Varrow: "Oswy Crake robbed my road for a year, and took three Talented off it."',
     'Lady Varrow: "That road was mine to keep. You kept it for me. I don\'t forget that."',
     "She lifts a hand. A servant steps forward with a silver bar on a square of grey cloth.",
