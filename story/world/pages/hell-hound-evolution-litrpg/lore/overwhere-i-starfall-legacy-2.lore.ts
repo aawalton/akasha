@@ -140,5 +140,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Twin beams that both strike land as two beam hits at once.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Twin beams from both hands are two workings at 40 mana; making them meet on a mark is a band harder.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
