@@ -376,6 +376,10 @@ export const overwhereIiiCorruption = {
       fact: "A corrupted ridge fox of about Level 5 roams the hedges by the Thornmere road farms.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The fox bite's thread runs east out the east gate, along the Thornmere road toward the farms.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
