@@ -298,5 +298,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Nala lies hidden in thick pines at a stream bend, a hundred yards short of Voss's overhang.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "At dusk Voss sits under a rock overhang above the stream, sack by him, sword drawn, facing back.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
