@@ -7,9 +7,21 @@ export const overwhereI00072 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 72,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "Now that they’ve helpfully put themselves in an enclosed area, I attune Fire and Earth and start superheating the surface stone of the quarry until it starts exploding or melting into lava, slowly working my way closer.",
+  beats: [
+    "Nala rolls off the road and scrambles for the scrub and boulders toward the pit.",
+    "A bolt from the unseen shooter beats her ward and punches into her thigh as she goes.",
+    "Limping, she crawls boulder to boulder until the lip is 25 yards off; the last stretch is open.",
+    "The pit is an old cut, forty yards across and fifteen feet deep, its back wall cut in galleries.",
+    "From cover she wills fire into earth, and a yard-wide patch of the pit floor starts to glow.",
+    "The heat drives the crew back off the floor and into the galleries, out of her sight.",
+    "She holds the working; the stone glows and cracks, as far as her working can take it.",
+    "After half a minute the patch bursts, flinging hot chips across the empty pit floor.",
+    'At the burst, Voss\'s voice booms from behind the stone: "Parley! Hold your fire, woman!"',
+    "He offers free road for Osric and every Fenwatch cart, for good, and the toll silver he holds.",
+  ],
   lore: [
     "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-starfall-legacy-2",
