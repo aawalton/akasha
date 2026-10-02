@@ -173,7 +173,7 @@ export const overwhereIWendlow = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Analyze shows Grete only Nala's species and level: Human, Level 10.",
+      fact: "Grete's Analyze shows name, species and level; for Nala it reads Name ???, Human, Level 10.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
