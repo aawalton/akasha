@@ -109,5 +109,13 @@ export const overwhereIiiCorruption2 = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "One braided loop cracked the wolf's second stone into a whole glimmerstone; Marda said it is Nala's.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
 } as const satisfies Lore
