@@ -138,5 +138,14 @@ export const overwhereIiiMaudFerrow = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "On day nine Nala blocked Tam twice; Maud said, 'Better. Tomorrow at the dawn bell, if you want it.'",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-maud-ferrow",
+        "character-other/overwhere-iii-tam-rowe",
+      ],
+    },
   ],
 } as const satisfies Lore
