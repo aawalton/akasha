@@ -253,5 +253,17 @@ export const overwhereIiiNala2 = {
       fact: "Nala reached Level 2 taking Marda's quest silver, and woke with more room inside her for mana.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "At Expert, Nala sees the currents along Merrowgate's streets sharper, clear to the far end of town.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
+    {
+      fact: "On her fifth night Nala ate a 3-copper hot supper to the last crumb and paid Bet 8 copper for a bed.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-bet-harrow",
+      ],
+    },
   ],
 } as const satisfies Lore
