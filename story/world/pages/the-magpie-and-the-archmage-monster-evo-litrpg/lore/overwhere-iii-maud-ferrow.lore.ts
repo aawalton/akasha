@@ -113,5 +113,13 @@ export const overwhereIiiMaudFerrow = {
       fact: "[Staff Fighting – At [Basic] level, guard, step aside and strike with a staff.]",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "On Nala's third drill Tam swept her feet from under her in the staff bout.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-maud-ferrow",
+        "character-other/overwhere-iii-tam-rowe",
+      ],
+    },
   ],
 } as const satisfies Lore
