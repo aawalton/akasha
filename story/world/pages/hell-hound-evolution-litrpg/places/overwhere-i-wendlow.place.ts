@@ -127,5 +127,9 @@ export const overwhereIWendlow = {
       fact: "Told she brings bounties, the watchman sends a boy for the gate sergeant, Bram Coyle.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Weapons may be carried in Wendlow, but a crossbow must go in unstrung.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
