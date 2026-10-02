@@ -209,6 +209,22 @@ export const overwhereIiNala2 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
+      fact: "With Undertow, Nala can refine bone one bone at a time, but bone drinks the tide slowly.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Refining bone aches deep in the marrow, like a fever, and wears her mind like refining a limb.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "With Undertow and her anatomy, all Nala's bones would take some two weeks to refine whole.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The dream of the tarn's black stair comes again each night, stronger, until Nala answers it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "On the night of day eight Nala dreams of the tarn, and a stair of black water going down.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
