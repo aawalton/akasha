@@ -1,0 +1,47 @@
+import type { Place } from "akasha/story/lore/place/place.page-type.types.ts"
+
+export const emberdeepTown = {
+  id: "01a0fdc6-e790-723b-9972-a23f195ffd66",
+  type: "page-type/place",
+  slug: "emberdeep-town",
+  title: "Emberdeep",
+  world: "world/emberdeep",
+  facts: [
+    {
+      fact: "Emberdeep climbs a mountainside in steep stone streets around the Mouth, the Deep's arched cave.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-other/emberdeep-elowen",
+      ],
+    },
+    {
+      fact: "Coppergate is the square below the Mouth, where the guild hall faces the finds market.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-other/emberdeep-elowen",
+      ],
+    },
+    {
+      fact: "The finds market fills Coppergate every day but Restday, and delvers sell what they bring up there.",
+      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+    },
+    {
+      fact: "The Lantern House, where the healers mend delvers, is beside the Mouth, its lamps lit night and day.",
+      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+    },
+    {
+      fact: "The Brass Kettle on Coppergate is the delvers' tavern: cheap, loud and warm until late.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-other/emberdeep-elowen",
+      ],
+    },
+    {
+      fact: "Ladder Lane climbs from Coppergate in long flights of stone steps, lined with rooming houses.",
+      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+    },
+  ],
+} as const satisfies Place
