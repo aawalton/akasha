@@ -53,19 +53,19 @@ export const overwhereIvTullFarm = {
     },
     {
       fact: "The deer trail leaves the Tangle a short walk above Tull's fold, by the ford.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Through the afternoon Tull mends the broken fold fence, a cudgel near his hand.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Tull counts sheep brought home twice, then grips the bringer's hand hard and says little.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Tull has no coin to spare; for his sheep he would give a half wheel of hard cheese.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Tull knows the brass ring at once: his late wife's, taken from the shelf in the raid.",
@@ -73,7 +73,15 @@ export const overwhereIvTullFarm = {
     },
     {
       fact: "Aldo lies abed with his head bound and wants to hear how the raiders died.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Farmer Tull is a lean, grim man in his fifties.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Nala brought five of Tull's stolen sheep home past noon; he'd not hoped for one.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Place

@@ -118,7 +118,7 @@ export const overwhereIvRaidersStream = {
     },
     {
       fact: "The cowering sheep-watcher won't fight or flee; it only shakes, its knife slack in its fist.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Every raider carries an iron knife, rusty and notched, good enough to take an ear.",
@@ -134,11 +134,11 @@ export const overwhereIvRaidersStream = {
     },
     {
       fact: "The hobgoblin's belt pouch holds 6 copper and a woman's plain brass ring.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The bowmen's two short bows are crude, warped things; their few arrows are bone-tipped.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The rest of the raiders carry clubs, rags and nothing worth taking; goblins hold no cores.",
@@ -146,11 +146,11 @@ export const overwhereIvRaidersStream = {
     },
     {
       fact: "The five living sheep are tied neck to neck on one rope; led by it, they follow, slowly.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Leading tired sheep back down the deer trail out of the Tangle takes about two hours.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The raiders were due at Grakk's camp by dusk; when none come, he sends scouts at dawn.",
@@ -159,6 +159,10 @@ export const overwhereIvRaidersStream = {
     {
       fact: "Grakk's scouts will find the raiders cut clean, with no tracks of a band, and ears gone.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala killed all seven Tull raiders and took an ear from each with a goblin's notched knife.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Place
