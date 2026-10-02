@@ -38,5 +38,6 @@ export const overwhereIi00069 = {
     "lore/overwhere-ii-oswy-crake-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-10-14T18:32:00.000Z",
 } as const satisfies StoryTurnPlayed
