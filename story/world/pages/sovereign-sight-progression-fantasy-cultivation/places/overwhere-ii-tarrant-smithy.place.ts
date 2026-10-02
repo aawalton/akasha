@@ -50,7 +50,7 @@ export const overwhereIiTarrantSmithy = {
     },
     {
       fact: "The spear is heavier at the head than the watch spear, balanced for bracing against a charge.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Held, the spear's head sits in Nala's sense as a dead, numb patch at the end of the shaft.",
