@@ -133,6 +133,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "Osric's bolting mule slows and stops about half a mile on down the road, cart and cask unharmed.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "By 15:03 on day 5 Osric's mule, cart and cask had gone out of sight down the road east.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
