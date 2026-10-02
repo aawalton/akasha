@@ -11,4 +11,5 @@ export const overwhereIv00074 = {
   action:
     "“Great! I give him the horn. I’m hunting the Tangle tonight. If there are enough goblins to be bothering them tonight, I’m going to make sure there aren’t tomorrow. I should be okay on my own, but I’ll be glad to know you’re nearby so I can fall back in your direction if I get overwhelmed. Is that okay?@",
   lore: ["lore/overwhere-iv-brookside-four-2"],
+  endsAt: "2026-10-06T21:10:00.000Z",
 } as const satisfies StoryTurnPlayed
