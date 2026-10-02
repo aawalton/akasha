@@ -168,5 +168,21 @@ export const overwhereIvTheTangle2 = {
       fact: "As Nala fled for the ford, the maul-bearer roared; the four climbers and a slinger ran after her.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "The spear goblin's hide stops at its chest; its throat is bare.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Weaving on the dark trail costs her pace; the knives close on her while she does.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Stabbing down, the spear goblin leans its throat low, in reach of a sweep from the ground.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Broken, the strike flees up the trail to camp, hobgoblins too; none comes on to Tull's that night.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
