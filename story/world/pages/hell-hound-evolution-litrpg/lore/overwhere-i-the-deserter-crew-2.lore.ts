@@ -308,5 +308,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Half a mile in, the four's trail joins an old cart track running north-east; there is no fork.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "In the next hour the cart track passes no one; the four are the only people on it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
