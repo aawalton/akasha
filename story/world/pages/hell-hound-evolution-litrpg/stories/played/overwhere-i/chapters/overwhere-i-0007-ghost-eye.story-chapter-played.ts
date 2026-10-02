@@ -58,7 +58,7 @@ export const overwhereI0007GhostEye = {
     },
     {
       position: 51,
-      cover: "image/image-420b841594453d43",
+      cover: "image/image-11fc341021d75203",
       coverAfter: "Its snarl drops away. It stands easy at the water's edge, unhurried.",
     },
     {
