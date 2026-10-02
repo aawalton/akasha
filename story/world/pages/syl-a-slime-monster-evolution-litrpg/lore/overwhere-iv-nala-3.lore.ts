@@ -46,11 +46,11 @@ export const overwhereIvNala3 = {
     },
     {
       fact: "On a still target, a rend tried by sense flickers a little longer each time before it slips.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The flicker steadies when she holds the spot in her sense alone, not pictured as if seen.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Lore
