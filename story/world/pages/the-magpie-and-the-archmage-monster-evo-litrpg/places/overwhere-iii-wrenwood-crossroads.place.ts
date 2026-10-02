@@ -140,6 +140,10 @@ export const overwhereIiiWrenwoodCrossroads = {
       fact: "Currents of other colors will not carry a holy weave alone; only white-gold will.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The crossroads shrine, where the two roads' currents meet, is a mana node.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
