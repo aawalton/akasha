@@ -4,13 +4,13 @@ export const overwhereIii00074 = {
   id: "01a0fe9e-70f0-70bf-8d01-459047637dd0",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-074",
-  ownLength: 210,
+  ownLength: 200,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 74,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "I merge them into a glimmerstone and keep going until I’ve finished cleansing the remainder.",
   beats: [
