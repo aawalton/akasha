@@ -4,6 +4,7 @@ export const overwhereI00070 = {
   id: "01a0fd49-057f-72b6-9ffa-b76aab86e7a4",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-070",
+  cover: "image/image-1f63ec15a8109afb",
   ownLength: 229,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -19,7 +20,7 @@ export const overwhereI00070 = {
     "character-other/overwhere-i-quarry-crewman-four",
     "character-other/overwhere-i-quarry-crewman-five",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I use the burst of air and fire I prescribed previously to engulf all five and the wolf in an inferno, ramping up the heat continuously.",
   beats: [
@@ -47,6 +48,11 @@ export const overwhereI00070 = {
     "place/overwhere-i-greyback-and-east-road",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-03T15:02:00.000Z",
 } as const satisfies StoryTurnPlayed
