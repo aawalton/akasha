@@ -72,6 +72,22 @@ export const overwhereIiSirEdricHale = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Sir Edric would set out at first light, and leave his horse at Callow Beck, where the tracks begin.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Sir Edric lodges at the Lantern tonight, and asks Nala to meet him at the ford at first light.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Sir Edric climbs steadily for his years, but slower than Nala; he will not be hurried on rock.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Sir Edric means to lay his hand on the crag's split stone and feel how deep the strain runs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Dray wrote Sir Edric that Nala found a crag split open, with something pulling under it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
