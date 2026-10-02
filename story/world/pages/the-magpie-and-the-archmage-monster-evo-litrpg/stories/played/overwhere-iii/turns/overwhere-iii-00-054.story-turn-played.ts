@@ -7,7 +7,14 @@ export const overwhereIii00054 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 54,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Thanks Ivy” I go rest at the shrine, then back to the Post. “How many blightstones left to cleanse here?”",
+  lore: [
+    "lore/overwhere-iii-corruption",
+    "lore/overwhere-iii-ivy-marsh",
+    "lore/overwhere-iii-marda-hesk",
+    "place/overwhere-iii-merrowgate-guild-post",
+    "place/overwhere-iii-wrenwood-crossroads",
+  ],
 } as const satisfies StoryTurnPlayed
