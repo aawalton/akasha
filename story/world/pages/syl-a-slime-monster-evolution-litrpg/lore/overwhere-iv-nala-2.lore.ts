@@ -287,19 +287,19 @@ export const overwhereIvNala2 = {
     },
     {
       fact: "Spatial Sense feels shapes and hollows only: no color, no writing, no warmth of a body.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Through a wall or a closed box, Spatial Sense still feels what's inside as shapes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "In a crowd, Spatial Sense blurs the bodies together until she learns to pick one out.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Each reach of Spatial Sense spends a little warmth, and held at length it drains her.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Nala told Aldo, Tull listening, that every raider fell to a careful cut of her spear skill.",
@@ -319,6 +319,14 @@ export const overwhereIvNala2 = {
     },
     {
       fact: "Nala paid Tobin 10 copper to sharpen her practice spear; its point is sharp, its edges bright.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Two hours' practice in the Brook and Barrel's yard raised Nala's Spatial Sense to LV 3.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "At Spatial Sense LV 3, her always-on sense reaches a little wider than before.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
