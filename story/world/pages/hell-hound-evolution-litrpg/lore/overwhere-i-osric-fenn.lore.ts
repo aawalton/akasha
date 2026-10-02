@@ -159,6 +159,10 @@ export const overwhereIOsricFenn = {
         "lore/overwhere-i-osric-fenn",
       ],
     },
+    {
+      fact: "Osric's mule cart leaves the Stag at 5:00 on day 5; guards walk beside or sit the tailboard.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
