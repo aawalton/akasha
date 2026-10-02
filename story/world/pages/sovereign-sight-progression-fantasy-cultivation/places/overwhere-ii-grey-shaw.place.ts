@@ -54,7 +54,7 @@ export const overwhereIiGreyShaw = {
     },
     {
       fact: "The coin box holds eleven silver bars and fifty silver pieces: Crake's year of sales.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Crake's ledger names every Talent he drained, every bottle sold, and Oriel Vance as his buyer.",
