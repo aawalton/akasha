@@ -101,6 +101,18 @@ export const overwhereIiNala3 = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Nala can refine bone as she walks, if left in silence; her mind, not her feet, holds the tide.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Refining a hip or leg bone as she walks, its marrow ache turns Nala's stride to a limp.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her skull's refining headache would make the march hard; on foot, her hips and shins go easier.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Once her Locks open, the dream of the black stair returns in her last hour of sleep, louder.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
