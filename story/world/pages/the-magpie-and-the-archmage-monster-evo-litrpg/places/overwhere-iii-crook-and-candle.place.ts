@@ -138,7 +138,11 @@ export const overwhereIiiCrookAndCandle = {
     },
     {
       fact: "The seventh night's supper at the Crook and Candle is beef and onion stew with black bread.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-bet-harrow",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
   secrets: "jsonl",
