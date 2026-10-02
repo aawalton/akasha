@@ -4,10 +4,13 @@ export const overwhereIi00061 = {
   id: "01a0fd32-6e6b-7f39-84d8-c9f2af125d16",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-061",
+  ownLength: 288,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 61,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I pick up my commissioned spear from Hob and check with Anselm on the next steps for my refining",
   beats: [
