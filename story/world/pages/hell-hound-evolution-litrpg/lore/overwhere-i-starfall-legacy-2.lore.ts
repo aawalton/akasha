@@ -72,5 +72,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Prone, Nala is a hard mark for a crossbow; standing, a moderate one.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "An overcharged drill slug pierces 2 points of ward, not 1, at 40 mana.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
