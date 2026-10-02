@@ -4,7 +4,7 @@ export const climb0002TheMasquerade = {
   id: "01a0f967-938d-7cba-8728-a9ee1f63f84b",
   type: "page-type/story-chapter-written",
   slug: "climb-0002-the-masquerade",
-  cover: "image/image-a8949fc4122a5997",
+  cover: "image/image-b35428ee72353d13",
   scenes: [
     "image/image-cdca08634e3a03b1",
     "image/image-9d40b6ffd0d47327",
@@ -14,7 +14,7 @@ export const climb0002TheMasquerade = {
     "image/image-d372db714e4fd19c",
     "image/image-660cd345308bd270",
     "image/image-c3e0bab9fa44cbdf",
-    "image/image-a8949fc4122a5997",
+    "image/image-b35428ee72353d13",
     "image/image-1142a0f432536f35",
   ],
   pictured: [
