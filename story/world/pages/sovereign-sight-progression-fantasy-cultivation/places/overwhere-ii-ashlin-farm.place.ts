@@ -14,7 +14,7 @@ export const overwhereIiAshlinFarm = {
     },
     {
       fact: "Its folk left for Carrowmouth last autumn, and the farm has been empty all winter.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "A long, low stone farmhouse faces a stone barn across an open yard of trodden mud.",
