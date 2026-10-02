@@ -45,7 +45,7 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "Lady Varrow's sparring rule: no Talent may harm what it cannot heal, nor draw on another's Water.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The Talented have heard Nala killed Crake; Osric wants to test her, Hawise to watch her first.",
