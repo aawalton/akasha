@@ -18,7 +18,7 @@ export const overwhereI00071 = {
     "character-other/overwhere-i-quarry-crewman-four",
     "character-other/overwhere-i-quarry-crewman-five",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I get down on the ground to be less of a target and spin up bullets to max speed, pointed and rifled and spinning like a drill to pierce through armor or shields, then start picking off Voss’s men, starting with the crossbows.",
   beats: [
@@ -36,6 +36,7 @@ export const overwhereI00071 = {
     "The crew are in the pit, behind stone and out of her line.",
     "Down the road behind her, the mule, the cart and the cask have gone out of sight.",
   ],
+  issues: ['"the helmed crossbowman" - both crossbowmen, Levels 14 and 16, wear helms'],
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
@@ -46,6 +47,6 @@ export const overwhereI00071 = {
     "lore/overwhere-i-the-deserter-crew-2",
     "place/overwhere-i-greyback-and-east-road",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-03T15:03:00.000Z",
 } as const satisfies StoryTurnPlayed
