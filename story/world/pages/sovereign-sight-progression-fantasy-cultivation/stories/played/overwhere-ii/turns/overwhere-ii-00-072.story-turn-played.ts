@@ -10,7 +10,7 @@ export const overwhereIi00072 = {
   position: 72,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Can we catch him? I’m sure I can make it at a run, but I’d need a guide who could keep up with me.”",
   beats: [
@@ -32,6 +32,7 @@ export const overwhereIi00072 = {
     "Nala slows, and Dray slows with her, both of them breathing hard in the moonlight.",
     "In the black of the hedge, the pale glint of a too-big coat, and a boy holding his breath.",
   ],
+  issues: ['"Your Water lies penned and still" - penned, her Water presses at her choked Locks'],
   lore: [
     "lore/overwhere-ii-loddon-brothers",
     "lore/overwhere-ii-nala",
@@ -40,6 +41,6 @@ export const overwhereIi00072 = {
     "lore/overwhere-ii-reeve-corwin-dray-2",
     "place/overwhere-ii-grey-shaw",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-14T20:05:00.000Z",
 } as const satisfies StoryTurnPlayed
