@@ -10,5 +10,5 @@ export const overwhereIvNala = {
   maxValue: 69,
   history: "jsonl",
   displayOrder: 2,
-  revealedAs: "The warmth behind your ribs: all but gone, a last ember.",
+  revealedAs: "The ember gutters: not enough warmth left for a rend.",
 } as const satisfies MetricCharacterMana

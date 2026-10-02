@@ -11,7 +11,7 @@ export const overwhereIv00054 = {
   position: 54,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I slice it as well, the go through and collect the ears, checking for any other loot as well, then guide the sheep back and report back to the guild.",
   beats: [
@@ -44,6 +44,11 @@ export const overwhereIv00054 = {
     "place/overwhere-iv-tull-farm",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-03T13:35:00.000Z",
 } as const satisfies StoryTurnPlayed
