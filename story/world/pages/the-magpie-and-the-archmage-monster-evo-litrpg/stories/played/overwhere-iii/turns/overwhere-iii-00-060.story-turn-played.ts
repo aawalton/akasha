@@ -4,6 +4,7 @@ export const overwhereIii00060 = {
   id: "01a0fdba-fd20-739e-ab88-f5a06fb59b46",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-060",
+  cover: "image/image-1972c1c2c7ffddd0",
   ownLength: 155,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -14,7 +15,7 @@ export const overwhereIii00060 = {
     "character-other/overwhere-iii-marda-hesk",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I go back to the post to finish draining my mana, then to the shrine to recover, then back to Brannagh’s.",
   beats: [
@@ -45,6 +46,11 @@ export const overwhereIii00060 = {
     "place/overwhere-iii-wrenwood-crossroads",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-05T20:20:00.000Z",
 } as const satisfies StoryTurnPlayed
