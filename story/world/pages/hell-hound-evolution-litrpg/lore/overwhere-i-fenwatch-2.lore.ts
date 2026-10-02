@@ -70,5 +70,9 @@ export const overwhereIFenwatch2 = {
         "lore/overwhere-i-tobin-ashdown",
       ],
     },
+    {
+      fact: "Fenwatch has no horse to sell or hire; Hessa's is her own.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
