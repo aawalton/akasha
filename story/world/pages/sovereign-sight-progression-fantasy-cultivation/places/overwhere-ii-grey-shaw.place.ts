@@ -92,5 +92,13 @@ export const overwhereIiGreyShaw = {
       fact: "To Nala, with a well that refills from the Sea within the hour, a bottle is worth nothing.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Dray says Lady Varrow will want Crake's ledger badly.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Dray offers to sleep at the tollhouse till first light, or carry the stash back to Ashlin tonight.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place

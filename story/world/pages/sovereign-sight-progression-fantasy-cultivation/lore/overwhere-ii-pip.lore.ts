@@ -39,5 +39,9 @@ export const overwhereIiPip = {
       fact: "Once Pip believes Crake is dead, he cries hard, as a child does, then all at once goes quiet.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Pip flinched when Dray read the name Oriel Vance from Crake's ledger.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
