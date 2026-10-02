@@ -17,7 +17,7 @@ export const overwhereIii00079 = {
     "character-other/overwhere-iii-tam-rowe",
     "character-other/overwhere-iii-edda-crane",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Okay, might just hunt my own then.” Dinner, bed, healing, training, then back to the Post for leads on where blighted beasts have been seem.",
   beats: [
@@ -59,6 +59,6 @@ export const overwhereIii00079 = {
     "place/overwhere-iii-merrowgate-guild-post",
     "place/overwhere-iii-wrenwood",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-08T10:45:00.000Z",
 } as const satisfies StoryTurnPlayed
