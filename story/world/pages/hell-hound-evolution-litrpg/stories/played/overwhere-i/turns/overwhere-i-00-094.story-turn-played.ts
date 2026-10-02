@@ -34,5 +34,6 @@ export const overwhereI00094 = {
     "lore/overwhere-i-starfall-legacy-2",
     "place/overwhere-i-greyback-and-east-road",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-04T18:15:00.000Z",
 } as const satisfies StoryTurnPlayed
