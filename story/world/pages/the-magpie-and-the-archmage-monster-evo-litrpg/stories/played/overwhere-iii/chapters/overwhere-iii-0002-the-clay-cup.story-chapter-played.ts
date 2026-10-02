@@ -58,7 +58,7 @@ export const overwhereIii0002TheClayCup = {
     },
     {
       position: 27,
-      cover: "image/image-beb0e824af3e2d0f",
+      cover: "image/image-85432d7ad73839b1",
       coverAfter: "Brannagh grunts. She bends stiffly and rummages under the counter, and sets",
     },
     {
