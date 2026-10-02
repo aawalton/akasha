@@ -10,7 +10,7 @@ export const overwhereIii00074 = {
   position: 74,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I merge them into a glimmerstone and keep going until I’ve finished cleansing the remainder.",
   beats: [
@@ -29,6 +29,11 @@ export const overwhereIii00074 = {
     'She shuts the empty lead box. "That\'s the last of what I was holding."',
     'Marda dips her pen and looks at Nala. "Now. Mind telling me how you crack them that fast?"',
   ],
+  issues: [
+    '"[Current Feed has advanced: Basic → Novice]" - her fifth fed weave came in turn 73, not now',
+    '"lifts the lead box onto the counter" - the post has a desk, no counter; the box sits under the desk',
+    '"Mind telling me how you crack them that fast?" - Nala never told or showed Marda the seeds cracked',
+  ],
   lore: [
     "lore/overwhere-iii-cleansing-weave",
     "lore/overwhere-iii-corruption-2",
@@ -40,6 +45,6 @@ export const overwhereIii00074 = {
     "lore/overwhere-iii-nala-2-2",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-07T15:50:00.000Z",
 } as const satisfies StoryTurnPlayed
