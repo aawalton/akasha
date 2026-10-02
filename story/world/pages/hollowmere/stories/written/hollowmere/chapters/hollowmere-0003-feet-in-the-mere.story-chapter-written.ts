@@ -10,7 +10,7 @@ export const hollowmere0003FeetInTheMere = {
   story: "story-written/hollowmere",
   ownLength: 6115,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Half six, Wednesday: Bea bangs on your door; you groan, and go, legs still stiff from yesterday.",
     "Bea makes you run slow this time; you last ten minutes before your lungs give, double yesterday.",
@@ -73,6 +73,9 @@ export const hollowmere0003FeetInTheMere = {
   issues: [
     '"You\'ve been here a week," Bea says - Bea never learned Shiv came a week early',
     "\"For the first time since the Welcome Dinner\" - Kit's eyes fixed on Nala's at the window last night",
+    '"Your small tits bounce too, under the jumper" - Hollowmere Explicitness',
+    '"warm on your small tits, running off your nipples" - Hollowmere Explicitness',
+    '"through the tuft of red hair over your cunt" - Hollowmere Explicitness',
   ],
   lore: [
     "lore/hollowmere-amara",
@@ -94,5 +97,5 @@ export const hollowmere0003FeetInTheMere = {
     "character-other/hollowmere-amara",
     "character-other/hollowmere-yusra",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryChapterWritten
