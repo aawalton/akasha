@@ -125,6 +125,22 @@ export const overwhereIiNala3 = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Nala's hips refine hard, a deep grinding ache, from day eighteen into the next morning.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Refining her hips, Nala limps for a day, slow as an old woman.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "On day nineteen the long bones of Nala's arms and her shins refine sweetly, barely aching.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "By the morning of day twenty only Nala's thighs are left to refine.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Once her Locks open, the dream of the black stair returns in her last hour of sleep, louder.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
