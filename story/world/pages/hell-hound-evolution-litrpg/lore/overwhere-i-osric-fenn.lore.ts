@@ -319,7 +319,7 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Osric and Tobin roll from the Ford Inn at 6:00 on day 7.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
