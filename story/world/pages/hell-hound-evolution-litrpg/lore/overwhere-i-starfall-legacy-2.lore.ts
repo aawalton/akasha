@@ -64,5 +64,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "A fire-and-air burst costs 30 mana to loose; it needs no aim, so it is easy against all in reach.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Lying prone, Nala shoots from a steady rest: it cancels the running-mark penalty.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
