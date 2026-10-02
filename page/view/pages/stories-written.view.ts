@@ -10,10 +10,9 @@ export const storiesWritten = {
   viewPlace: 1,
   layout: "cards",
   viewSorts: [{ key: "title", descending: false }],
-  visibleProperties: ["total-length-in-words", "parts-length-in-words"],
-  alwaysShowProperties: ["total-length-in-words", "parts-length-in-words"],
+  visibleProperties: ["own-length-in-words", "total-length-in-words", "parts-length-in-words"],
+  alwaysShowProperties: ["own-length-in-words", "total-length-in-words", "parts-length-in-words"],
   hiddenPropertiesOrder: [
-    "own-length-in-words",
     "author",
     "chapter-break",
     "collection-type",
