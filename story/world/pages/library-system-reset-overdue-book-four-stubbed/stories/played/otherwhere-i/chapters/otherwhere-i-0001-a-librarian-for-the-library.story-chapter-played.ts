@@ -28,7 +28,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 4,
-      cover: "image/image-3e0400949aaa2c05",
+      cover: "image/image-e501e15fa057978b",
       coverAfter: "You're kneeling at the foot of the trunk. Your hands have slid",
     },
     {
