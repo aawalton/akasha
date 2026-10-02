@@ -136,6 +136,46 @@ export const overwhereIiLadyImreVarrow = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
+      fact: "Refused an oath, Lady Varrow lets nothing show; she takes the lesser bond, and remembers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "As a free blade, Nala is paid a silver bar for each summons from the Keep she answers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Skin, muscle and bone refined in three weeks astonishes her; most Talented take years.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Lady Varrow has Descended twice, and offers Nala her own counsel on Descent and Tribulation.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She tells Nala every Tribulation differs, but hers came as cold that tried to stop her heart.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She advises Nala to refine her organs before Descending, as few have the time or Water to.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She keeps a dried, Sea-touched Ghostflower Root, saved for her son Aurel, who never came home.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She will give Nala the Ghostflower Root when Nala is ready to Descend, if Nala holds to the bond.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She would have Nala spar with her Talented at the Keep, to learn to fight other Talents.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She knows the Keepers send Senior Keeper Maud Ashby up the valley, and bids Nala hear her too.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "She asks to look at Nala through her glass from the Spires, and does not say what she hopes to see.",
       knowers: ["lore-disclosure/game-master"],
     },
