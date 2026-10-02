@@ -92,5 +92,9 @@ export const overwhereIiiCleansingWeave = {
       fact: "A corrupted beast killed mid-cleansing leaves a blightstone of only the blight not yet drawn.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "One braided Cleansing Weave spread over seed stones heaped together cracks them all at once.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
