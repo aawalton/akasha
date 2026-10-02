@@ -264,6 +264,14 @@ export const overwhereIvGrowth = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Rift Rend reaches as far as her Dimension Magic does, whatever its own level.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Rift Rend costs 8 mana, 7 from its LV 5 and 6 from its LV 8.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Lacking Sense Casting, a deliberate try to lay a spell where she only feels is a use of it.",
     },
