@@ -151,6 +151,10 @@ export const overwhereITheDeserterCrew = {
       fact: "The crew's crossbow bolts do 15 harm and their blades 10.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Her first slug takes them off guard: a guided shot at a still head within 12 yards is easy.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
