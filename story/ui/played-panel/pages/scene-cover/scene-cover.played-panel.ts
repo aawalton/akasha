@@ -16,7 +16,8 @@ export const sceneCover = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A played turn's cover is drawn in its prose rather than here.",
+      statement:
+        "Every turn's cover and every chapter's scene is drawn in its prose rather than here.",
     },
   ],
 } as const satisfies PlayedPanel

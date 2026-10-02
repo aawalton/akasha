@@ -5,7 +5,7 @@ import { panelBy } from "akasha/story/ui/played-panel/modules/panel-showing/pane
 
 export const Panel = panelBy(SceneCoverPanel, ({ run }) => ({
   turns: run.turns,
-  turnCovers: run.coversAreScenes === true ? run.turnCovers : [],
+  turnCovers: [],
   areScenes: true,
   gameExternalId: run.gameExternalId,
 }))
