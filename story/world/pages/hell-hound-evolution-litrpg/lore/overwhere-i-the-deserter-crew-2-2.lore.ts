@@ -336,7 +336,7 @@ export const overwhereITheDeserterCrew22 = {
     },
     {
       fact: "Voss answers that he comes dearer than that, holds till she is 30 yards off, then charges.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Besides Analyze, Voss has Shield Rush: his charge ends in a bash that knocks a smaller foe flat.",
