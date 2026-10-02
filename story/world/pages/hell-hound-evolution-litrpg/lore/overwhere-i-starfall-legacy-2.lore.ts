@@ -104,5 +104,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Earth workings take iron and steel too; a steel cap held in one scorches its wearer in 10 seconds.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Heating a worn steel cap is an easy act within reach, at the stone-heating cost.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
