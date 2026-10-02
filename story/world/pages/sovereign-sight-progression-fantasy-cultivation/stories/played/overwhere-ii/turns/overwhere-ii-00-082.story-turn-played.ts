@@ -10,7 +10,7 @@ export const overwhereIi00082 = {
   position: 82,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "“Gladly, Sir.”",
   beats: [
     'Nala: "Gladly, Sir."',
@@ -23,7 +23,7 @@ export const overwhereIi00082 = {
     "She lies in the dark and feels it: a frame like oak, like iron, from skull to heel.",
     "In the last hour of sleep, the black stair. The call from below is louder still.",
     "At first light Sir Edric waits at the ford on a tall grey horse, cloak beaded with mist.",
-    "She walks at his stirrup up the valley to Callow Beck, and he tethers the grey at the farm gate.",
+    "She walks at his stirrup two hours south across the valley to Callow Beck. He tethers the grey.",
     "They climb the goat tracks into the Whitecombs. He climbs steadily for his years, but slower.",
     "He will not be hurried on rock; he tests each hold. She waits for him at each bend.",
     "Near the top, the cold salt air comes down to meet them, out of nowhere, from the stone.",
