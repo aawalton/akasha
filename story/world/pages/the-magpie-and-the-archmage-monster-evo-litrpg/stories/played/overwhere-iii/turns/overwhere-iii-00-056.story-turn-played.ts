@@ -14,7 +14,7 @@ export const overwhereIii00056 = {
     "character-other/overwhere-iii-brannagh-tull",
     "character-other/overwhere-iii-marda-hesk",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I sleep, then in the morning I check in at Brannagh’s first thing, heal anyone waiting, then work on the blightstone again, this time, I try to focus the weave into a loop, so it doesn’t snap back into my arm.",
   beats: [
@@ -35,6 +35,10 @@ export const overwhereIii00056 = {
     "Only a thin dark thread is left in the stone. One more weave should crack it.",
     "Nala's well is dry, and her stomach growls loud in the quiet Post.",
   ],
+  issues: [
+    '"First on the slate. Go on." - the drover with the burned forearm is first on the slate',
+    '"One pair waits on the bench." - the drover on the slate comes by Brannagh\'s each morning',
+  ],
   lore: [
     "lore/overwhere-iii-brannagh-tull",
     "lore/overwhere-iii-brannagh-tull-2",
@@ -46,6 +50,6 @@ export const overwhereIii00056 = {
     "lore/overwhere-iii-nala-2",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-05T08:30:00.000Z",
 } as const satisfies StoryTurnPlayed
