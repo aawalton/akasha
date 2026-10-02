@@ -253,7 +253,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 49,
-      cover: "image/image-a3d8748a0635fb83",
+      cover: "image/image-fdfba330130282db",
       coverAfter: "Its grey hide puckers and tightens as it dries, until the huge",
     },
   ],
