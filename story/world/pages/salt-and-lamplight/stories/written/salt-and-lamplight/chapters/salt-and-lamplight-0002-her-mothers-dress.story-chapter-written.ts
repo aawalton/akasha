@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const saltAndLamplight0002 = {
+export const saltAndLamplight0002HerMothersDress = {
   id: "01a0fd20-a44a-76a5-b117-9d64d5474d7d",
   type: "page-type/story-chapter-written",
-  slug: "salt-and-lamplight-0002",
+  slug: "salt-and-lamplight-0002-her-mothers-dress",
   position: 2,
   unit: "unit/words",
-  title: "Chapter 2",
+  title: "Her Mother's Dress",
   story: "story-written/salt-and-lamplight",
-  ownLength: 0,
+  ownLength: 3285,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Nala wakes in the loft at grey dawn, still in this small body, still Nala.",
     "She lies a while with a hand on her tits under the shift; it doesn't feel like a dream.",
@@ -73,6 +73,13 @@ export const saltAndLamplight0002 = {
     "lore/salt-and-lamplight-agnes",
     "lore/salt-and-lamplight-dilys",
     "lore/salt-and-lamplight-morwenna",
+    "lore/salt-and-lamplight-nala",
     "place/salt-and-lamplight-penmorrow",
+  ],
+  characters: [
+    "character-player/salt-and-lamplight-nala",
+    "character-other/salt-and-lamplight-morwenna",
+    "character-other/salt-and-lamplight-dilys",
+    "character-other/salt-and-lamplight-agnes",
   ],
 } as const satisfies StoryChapterWritten
