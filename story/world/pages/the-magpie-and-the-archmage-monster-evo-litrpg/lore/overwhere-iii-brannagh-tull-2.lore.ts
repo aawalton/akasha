@@ -353,5 +353,13 @@ export const overwhereIiiBrannaghTull2 = {
       fact: "The woodcutter found the rotted deer at the brook two days back, and big wolf prints round it.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
+    {
+      fact: "Four Mending Weaves smoothed the shepherd's shin scar on day ten; the first slid off the old tissue.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-brannagh-tull",
+      ],
+    },
   ],
 } as const satisfies Lore
