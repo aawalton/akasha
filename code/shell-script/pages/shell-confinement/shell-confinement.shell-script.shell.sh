@@ -12,7 +12,8 @@
 # AN AKASHA CALL ALONE ON THE LINE RUNS OUTSIDE, so akasha writes the checkout, and a plain
 # `cd <path> &&` before it leaves it alone, since a seat's shell is often led there. And
 # `shell-confining` says what is alone. Only a judge that ends well printing `out` lets a call out;
-# a judge that fails, prints nothing or prints anything else leaves the call confined.
+# a judge that fails, prints nothing or prints anything else leaves the call confined. A call kept
+# in that runs akasha anywhere on it is told why, since akasha there fails on the read-only checkout.
 #
 # NO CALL INSIDE REACHES THE USER'S SESSION. The runtime folder is emptied but for the
 # supervisors' logs, read-only, and the ssh agent's socket, and the system bus's folder is emptied,
@@ -33,6 +34,7 @@ judge=$here/../../../../agent/modules/shell-confining/shell-confining.module.cod
 hider=$here/../../../../agent/modules/withheld-hiding/withheld-hiding.module.code.ts
 bun=$(command -v bun || echo "$HOME/.bun/bin/bun")
 runtime=${XDG_RUNTIME_DIR:-/run/user/$UID}
+called=$'(^|[\n;&|(`])[ \t]*akasha([ \t\n]|$)'
 
 if [[ $handed != *'&& pwd -P >| '* ]]; then
   exec bash -c "$handed"
@@ -44,6 +46,8 @@ if [[ $handed == *"&& eval 'akasha"* || $handed == *"&& eval 'cd "* ||
   if [[ $verdict == out ]]; then
     exec bash -c "$handed"
   fi
+  echo "shell-confinement: the checkout is read-only in this call; an akasha call writes it only alone on the line" >&2
+elif [[ ${handed#*"&& eval '"} =~ $called ]]; then
   echo "shell-confinement: the checkout is read-only in this call; an akasha call writes it only alone on the line" >&2
 fi
 

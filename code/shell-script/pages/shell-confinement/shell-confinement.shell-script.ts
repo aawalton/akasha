@@ -49,6 +49,10 @@ export const shellConfinement = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A confined call that runs akasha anywhere on it is told why akasha cannot write.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A machine with no bwrap confines nothing.",
     },
     {

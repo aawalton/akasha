@@ -271,7 +271,7 @@ test("the script keeps a lone akasha call with a substitution in double quotes i
 test("the script keeps an akasha call with more on the line inside, and says so", () => {
   const held = heldAnew()
 
-  const said = confining(held, agentsLine(held, "akasha | cat"))
+  const said = confining(held, agentsLine(held, "touch a.ts\nakasha | cat"))
 
   expect(bwrapHanded(held) ?? "").toContain(`--ro-bind\n${held.root}\n${held.root}\n`)
   expect(said.err).toContain("shell-confinement:")
