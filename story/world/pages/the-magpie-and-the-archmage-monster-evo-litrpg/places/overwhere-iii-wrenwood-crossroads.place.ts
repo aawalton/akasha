@@ -128,6 +128,10 @@ export const overwhereIiiWrenwoodCrossroads = {
       fact: "Within a hundred paces of the shrine, a holy weave can be fed wholly from white-gold current.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A weave fed wholly from white-gold current costs no mana of her own, but burns her hands: 1 health.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
