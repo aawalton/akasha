@@ -4,10 +4,13 @@ export const overwhereIi00083 = {
   id: "01a0fe7a-fb37-7751-b5ab-4e5b137b5b1a",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-083",
+  ownLength: 219,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 83,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action: "I describe what I feel.",
   beats: [
     "Nala stands still beside him and lets herself feel it, and tells him plainly.",
@@ -24,6 +27,12 @@ export const overwhereIi00083 = {
     'Sir Edric: "I ride for Varrow Keep at dawn, to tell Lady Varrow this myself."',
     'Sir Edric: "In her name, I\'d ask you to come to the Keep, and tell her what you told me."',
   ],
-  lore: ["lore/overwhere-ii-sir-edric-hale", "place/overwhere-ii-whitecombs"],
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-nala-3",
+    "lore/overwhere-ii-sir-edric-hale",
+    "place/overwhere-ii-whitecombs",
+  ],
   endsAt: "2026-10-19T11:20:00.000Z",
 } as const satisfies StoryTurnPlayed
