@@ -10,4 +10,5 @@ export const overwhereIv00069 = {
   stepStatus: "step-status/game-master",
   action: "“Perfect, thanks!” I go to the guild to check in with Ilsa on quest options.",
   lore: ["lore/overwhere-iv-millbrook-adventurers-hall-2", "place/overwhere-iv-the-tangle"],
+  endsAt: "2026-10-05T11:13:00.000Z",
 } as const satisfies StoryTurnPlayed
