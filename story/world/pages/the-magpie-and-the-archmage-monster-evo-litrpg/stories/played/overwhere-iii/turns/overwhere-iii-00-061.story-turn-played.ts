@@ -14,7 +14,7 @@ export const overwhereIii00061 = {
     "character-other/overwhere-iii-bet-harrow",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I get dinner and sleep, then stop by Brannagh’s again in the morning",
   beats: [
     "At the Crook and Candle it's beef and onion stew with black bread. Nala eats it all.",
@@ -36,6 +36,6 @@ export const overwhereIii00061 = {
     "lore/overwhere-iii-nala-2",
     "place/overwhere-iii-crook-and-candle",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-06T07:00:00.000Z",
 } as const satisfies StoryTurnPlayed
