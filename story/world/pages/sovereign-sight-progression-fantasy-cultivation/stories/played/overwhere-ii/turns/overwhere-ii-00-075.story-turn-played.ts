@@ -4,13 +4,14 @@ export const overwhereIi00075 = {
   id: "01a0fdea-2eff-73ae-bf33-4c99304d258d",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-075",
+  cover: "image/image-3dedfe6616a65bbf",
   ownLength: 308,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 75,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Let’s go back and meet up with the rest tonight, just to prevent any issues with the prisoners.”",
   beats: [
@@ -47,6 +48,12 @@ export const overwhereIi00075 = {
     "place/overwhere-ii-grey-shaw",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-15T02:25:00.000Z",
+  coverAfter: "He tips it out on the straw by lamplight: silver bars, eleven of them,",
 } as const satisfies StoryTurnPlayed
