@@ -68,5 +68,9 @@ export const overwhereIiNala3 = {
       fact: "Near dawn Nala's Locks open one by one, soles first, then palms, and her throat last of all.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "As each Lock opens, penned Water rushes through it like a held breath let go, and the ache eases.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
