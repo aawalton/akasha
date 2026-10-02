@@ -14,7 +14,7 @@ export const overwhereIvNala3 = {
     },
     {
       fact: "Each earnest try to rend by sense alone, the line nearly catches: a flicker, then gone.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Dimension magic's spells share one root; a sense of space can learn to guide a fold.",
@@ -23,6 +23,10 @@ export const overwhereIvNala3 = {
     {
       fact: "Nala has one earnest use toward Sense Casting, from Crake Gill.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Rending by sense feels learnable to Nala, not a wall; six tries taught her all they can today.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Lore

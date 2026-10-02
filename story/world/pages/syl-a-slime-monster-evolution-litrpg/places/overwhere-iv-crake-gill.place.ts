@@ -83,5 +83,9 @@ export const overwhereIvCrakeGill = {
       fact: "Above the overhang at the gully's head is a lip of loose stone, steep and high.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Ten minutes of Nala's tries from the gully never stirred the sleeping beast.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Place
