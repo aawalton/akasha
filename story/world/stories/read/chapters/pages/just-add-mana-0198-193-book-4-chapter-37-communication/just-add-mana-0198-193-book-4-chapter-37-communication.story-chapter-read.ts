@@ -4,6 +4,7 @@ export const justAddMana0198193Book4Chapter37Communication = {
   id: "01a0f7ca-149b-7c46-8ef8-bd7523377e97",
   type: "page-type/story-chapter-read",
   slug: "just-add-mana-0198-193-book-4-chapter-37-communication",
+  ownProgress: 2847,
   position: 198,
   publishedAt: "2026-10-01",
   unit: "unit/words",

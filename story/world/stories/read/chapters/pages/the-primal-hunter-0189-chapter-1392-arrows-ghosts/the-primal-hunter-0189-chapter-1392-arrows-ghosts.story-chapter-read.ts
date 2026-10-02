@@ -4,6 +4,7 @@ export const thePrimalHunter0189Chapter1392ArrowsGhosts = {
   id: "01a0edeb-7317-7b2a-a85d-689fceffdb8e",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0189-chapter-1392-arrows-ghosts",
+  ownProgress: 2896,
   position: 189,
   publishedAt: "2026-09-29",
   unit: "unit/words",
