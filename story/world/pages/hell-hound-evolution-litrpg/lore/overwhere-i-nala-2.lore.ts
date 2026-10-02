@@ -88,5 +88,9 @@ export const overwhereINala2 = {
       fact: "At Level 9 Nala gains Strength 2, Dexterity 2, Vigor 2, Attunement 4 and Luck 1.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "At Level 10 Nala gains Strength 2, Dexterity 2, Vigor 2, Attunement 4 and Luck 1.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
