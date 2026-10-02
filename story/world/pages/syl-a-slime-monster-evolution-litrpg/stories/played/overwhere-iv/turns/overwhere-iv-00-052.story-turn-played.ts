@@ -4,6 +4,7 @@ export const overwhereIv00052 = {
   id: "01a0fd50-6a76-7bfc-a959-0f9fb0aec39d",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-052",
+  cover: "image/image-9277f868986ff9f8",
   ownLength: 299,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
@@ -46,6 +47,6 @@ export const overwhereIv00052 = {
     "place/overwhere-iv-raiders-stream",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/picture"],
   endsAt: "2026-10-03T11:01:00.000Z",
 } as const satisfies StoryTurnPlayed
