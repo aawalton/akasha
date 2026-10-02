@@ -152,5 +152,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "Hurt, a snapper pulls in its head and reaches deep water in about six seconds: two more slugs.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At the first slug, the other snapper pulls in its head and slides at once for deep water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
