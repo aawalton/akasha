@@ -151,6 +151,10 @@ export const overwhereIiOswyCrake = {
       fact: "Warier, Crake posts Big Harl in the beck gully behind the barn, to watch the back way.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Crake still means to take Nala; a well as deep as hers is worth the risk that Bet has turned.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
