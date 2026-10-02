@@ -10,5 +10,11 @@ export const saltAndLamplight0002 = {
   story: "story-written/salt-and-lamplight",
   ownLength: 0,
   prose: "txt",
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
+  lore: [
+    "lore/salt-and-lamplight-agnes",
+    "lore/salt-and-lamplight-dilys",
+    "lore/salt-and-lamplight-morwenna",
+    "place/salt-and-lamplight-penmorrow",
+  ],
 } as const satisfies StoryChapterWritten
