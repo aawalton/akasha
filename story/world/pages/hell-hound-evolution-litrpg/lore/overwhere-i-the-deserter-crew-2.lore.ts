@@ -252,7 +252,7 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "At the goat path's top, boot prints of four men run north into the pines.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Circling the rim through pines and loose stone takes 3 minutes; quietly, thigh and all, is moderate.",
