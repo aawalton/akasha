@@ -304,6 +304,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Burned, the crew Drakewolf let go Nala's arm and bolted, smoking.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Voss came on through the fire behind his shield, then at three sharp whistles broke for the pit.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
