@@ -4,13 +4,14 @@ export const overwhereIv00062 = {
   id: "01a0fdcc-e350-77e5-a109-6b8636f6fa3b",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-062",
+  cover: "image/image-5ec94df819e7dee5",
   ownLength: 148,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 62,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I count that as progress for today, then quietly move around until I can get sight on the wolf and finish it.",
   beats: [
@@ -32,6 +33,11 @@ export const overwhereIv00062 = {
     "place/overwhere-iv-crake-gill",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-04T14:40:00.000Z",
 } as const satisfies StoryTurnPlayed
