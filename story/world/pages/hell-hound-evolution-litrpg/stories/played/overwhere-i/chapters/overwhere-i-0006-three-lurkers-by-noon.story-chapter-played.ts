@@ -43,7 +43,7 @@ export const overwhereI0006ThreeLurkersByNoon = {
     },
     {
       position: 32,
-      cover: "image/image-2412a5a169cb1309",
+      cover: "image/image-23568a40b6046511",
       coverAfter: "It hits the reedlurker full on. Its wet hide hisses and steams,",
     },
     {
