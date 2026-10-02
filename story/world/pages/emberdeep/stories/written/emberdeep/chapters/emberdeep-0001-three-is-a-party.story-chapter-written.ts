@@ -5,7 +5,7 @@ export const emberdeep0001ThreeIsAParty = {
   type: "page-type/story-chapter-written",
   slug: "emberdeep-0001-three-is-a-party",
   cover: "image/image-f89dfda7f408a202",
-  ownProgress: 359,
+  ownProgress: 508,
   position: 1,
   unit: "unit/words",
   title: "Three Is a Party",
