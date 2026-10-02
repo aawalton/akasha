@@ -108,6 +108,18 @@ export const overwhereIiLadyImreVarrow = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Her Spires glass is a disc of dark glass in a silver ring, kept in a chest by the hall wall.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Lady Varrow says the glass came from the Spires and shows a Talent for what it is.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Lady Varrow asks Nala's leave before looking at her through the glass.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "She asks to look at Nala through her glass from the Spires, and does not say what she hopes to see.",
       knowers: ["lore-disclosure/game-master"],
     },
