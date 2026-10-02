@@ -148,5 +148,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Twin beams aimed to meet on one mark are one act, settled by one roll.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala can loose a beam, or twin beams, about every 2 seconds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
