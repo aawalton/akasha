@@ -178,7 +178,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 34,
-      cover: "image/image-1ef20b6c01400cca",
+      cover: "image/image-57a6c46df9f64e68",
       coverAfter: "You see the Library's own halls. A kitchen, stirring awake. Wings sealed",
     },
     {
