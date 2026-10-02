@@ -86,5 +86,5 @@ export const hollowmere0005Five = {
     "character-other/hollowmere-yusra",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory"],
 } as const satisfies StoryChapterWritten
