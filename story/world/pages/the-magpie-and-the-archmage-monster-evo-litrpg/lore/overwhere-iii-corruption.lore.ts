@@ -380,6 +380,14 @@ export const overwhereIiiCorruption = {
       fact: "The fox bite's thread runs east out the east gate, along the Thornmere road toward the farms.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "One more looped weave left the wolf's second stone over half pale, about four and a half of eight.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
