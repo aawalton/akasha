@@ -64,5 +64,33 @@ export const overwhereIiGreyShaw = {
       fact: "Water from Crake's three captives is in the bottles; drunk back, it would speed their healing.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Dray says a Reeve holds recovered goods for Lady Varrow's court; by custom the taker has a third.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray agrees the bottles go first to the freed captives, and the coin to those the ledger robbed.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray means Nala's third to be a third of the coin, on top of the five bars for Crake.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A drained Talent who drinks bottled Water refills in an hour, not days, and mends faster.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Bottled Water only fills a reservoir; it deepens no one, and leaves no lasting gain.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Thaumists brew bottled Water into elixirs that ease refining, which is why it sells so dear.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "To Nala, with a well that refills from the Sea within the hour, a bottle is worth nothing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
