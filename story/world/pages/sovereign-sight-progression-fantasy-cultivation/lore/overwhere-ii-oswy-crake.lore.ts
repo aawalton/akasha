@@ -71,6 +71,10 @@ export const overwhereIiOswyCrake = {
       fact: "Pip is a thin, freckled boy of thirteen in a too-big coat, who sells whittled whistles.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "On market day a thin, freckled boy of thirteen in a too-big coat watched Nala, then fled downvalley.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
