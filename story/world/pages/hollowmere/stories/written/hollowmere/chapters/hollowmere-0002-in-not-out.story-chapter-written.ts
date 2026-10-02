@@ -114,7 +114,7 @@ export const hollowmere0002InNotOut = {
     "story-recorder/picture",
   ],
   scenes: [
-    "image/image-1179e4ffc548e625",
+    "image/image-7ebde942103a976e",
     "image/image-c0d84046e307f702",
     "image/image-7f6201c857ea19df",
     "image/image-5040139d4d52fcde",
