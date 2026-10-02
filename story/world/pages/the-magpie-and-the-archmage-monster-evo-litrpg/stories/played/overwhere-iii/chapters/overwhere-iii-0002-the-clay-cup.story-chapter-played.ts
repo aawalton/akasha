@@ -48,7 +48,7 @@ export const overwhereIii0002TheClayCup = {
     },
     {
       position: 25,
-      cover: "image/image-acec46f982666a60",
+      cover: "image/image-63a781da1cd55340",
       coverAfter: "Inside it's dim and low-ceilinged, hung with bunches of drying herbs, and",
     },
     {
