@@ -10,7 +10,7 @@ export const overwhereIi00062 = {
   position: 62,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“I’ve heard the call a few times, ignored it for now. I’ll answer when I’m ready and not before.” I go back to my preparation routine, working on my bones. Similar to me muscles, I use my knowledge of anatomy to work through the bones, one at a time, working from smallest to largest.",
   beats: [
@@ -40,7 +40,6 @@ export const overwhereIi00062 = {
     "She turns to look straight at him, and he sees her see him.",
     "In a blink he is gone into the market crowd, whistles and all.",
     "A moment later she glimpses the too-big coat at the end of the green, heading down the valley road.",
-    "She thinks of Crake, who hunts Talents alone, and of how far a boy could carry word in a day.",
   ],
   issues: ['"You think of Crake, who hunts Talents alone" - Leave It Open'],
   lore: [
