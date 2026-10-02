@@ -55,5 +55,21 @@ export const overwhereIiSirEdricHale = {
       fact: "On arriving at the Ford, Sir Edric asks Dray for Nala, and Dray calls her down from the lane.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "No soldier in the valley salutes as Nala does; Sir Edric reads it as some far land's custom.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Sir Edric answers a salute with a short bow from the neck, as knights greet a sworn equal.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Sir Edric speaks low and unhurried, with the clipped vowels of the Keep's end of the valley.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Sir Edric judges a Talent by eyes and breathing; Nala's calm, deep breath tells him she is strong.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
