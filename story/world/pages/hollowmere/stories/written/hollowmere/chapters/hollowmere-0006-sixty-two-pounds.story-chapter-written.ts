@@ -8,9 +8,9 @@ export const hollowmere0006SixtyTwoPounds = {
   unit: "unit/words",
   title: "Sixty-Two Pounds",
   story: "story-written/hollowmere",
-  ownLength: 4402,
+  ownLength: 4401,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Saturday: you sleep through half six; Bea, cidered too, sleeps through it as well.",
     "You wake at ten with a dry mouth and a soft head, and the sun full on the mere.",
