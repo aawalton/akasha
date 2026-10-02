@@ -16,7 +16,7 @@ export const overwhereI00082 = {
     "character-other/overwhere-i-harl-voss",
     "character-other/overwhere-i-quarry-crewman-three",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I take a blade from one of the downed men and stab both through the neck to make sure they are fully down, then quietly fall back a bit and start quietly circling, giving my mana some time to recharge.",
   beats: [
@@ -35,6 +35,7 @@ export const overwhereI00082 = {
   ],
   issues: [
     '"a little fresh mana settles there" - lore: a level-up refills neither health nor mana',
+    '"You lie in the pines on the rim, your well half refilled." - Leave It Open',
   ],
   lore: [
     "lore/overwhere-i-nala",
@@ -45,6 +46,6 @@ export const overwhereI00082 = {
     "lore/overwhere-i-the-deserter-crew-2-2",
     "lore/overwhere-i-the-system-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-03T17:04:00.000Z",
 } as const satisfies StoryTurnPlayed
