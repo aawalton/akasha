@@ -5,6 +5,8 @@ export const hollowmere0005Five = {
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0005-five",
   cover: "image/image-8d2d55abf86d7ad7",
+  completedAt: "2026-10-02T18:52:02.113Z",
+  ownProgress: 5205,
   position: 5,
   unit: "unit/words",
   title: "Five",
