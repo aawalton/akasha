@@ -293,5 +293,9 @@ export const overwhereIiiBrannaghTull2 = {
       fact: "Brannagh will spread word: the healer sees folk mornings only, and any hour for an emergency.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
+    {
+      fact: "Day nine's first light brings nothing fresh to the bench but the cooper's boy.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+    },
   ],
 } as const satisfies Lore
