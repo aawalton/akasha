@@ -88,7 +88,7 @@ export const overwhereIv0003TheBlackLine = {
     },
     {
       position: 37,
-      cover: "image/image-2d0d2fdbf5a11c82",
+      cover: "image/image-e3689ed4f8dc6df9",
       coverAfter: 'She taps the drawer under the counter. "My report goes east with',
     },
     {
