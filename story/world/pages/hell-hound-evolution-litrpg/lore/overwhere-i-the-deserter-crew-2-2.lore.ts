@@ -172,7 +172,7 @@ export const overwhereITheDeserterCrew22 = {
     },
     {
       fact: "Voss, by the hut door, packs a sack, glancing often at the track.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "The camp heard Five's scream from the bend; no one comes down the track to look.",
