@@ -394,7 +394,7 @@ export const overwhereIiiMardaHesk = {
       ],
     },
     {
-      fact: "Marda told Nala to bring the seed stones back to the post once cracked.",
+      fact: "Marda asked for the seed stones back only to see them done; what comes out of them is the healer's.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/overwhere-iii-nala",
