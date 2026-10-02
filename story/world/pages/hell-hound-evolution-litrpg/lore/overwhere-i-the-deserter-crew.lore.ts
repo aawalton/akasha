@@ -131,6 +131,10 @@ export const overwhereITheDeserterCrew = {
         "lore/overwhere-i-osric-fenn",
       ],
     },
+    {
+      fact: "At the roadblock Voss stands 8 yards from Nala, his five men 6 to 12 yards, Crow 35 in the trees.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
