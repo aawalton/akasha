@@ -68,5 +68,13 @@ export const emberdeepGuildHall = {
         "character-player/emberdeep-nala",
       ],
     },
+    {
+      fact: "A party is entered in the guild ledger under a name, with a leader of iron rank or better.",
+      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+    },
+    {
+      fact: "The guild takes a tenth of what a party's finds sell for at the finds market.",
+      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+    },
   ],
 } as const satisfies Place
