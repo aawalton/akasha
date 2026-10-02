@@ -113,7 +113,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 21,
-      cover: "image/image-4ff5411ea09bb44e",
+      cover: "image/image-6068984d66fc530a",
       coverAfter: "The bookworm twists. Its round jagged mouth clamps down on the worn",
     },
     {
