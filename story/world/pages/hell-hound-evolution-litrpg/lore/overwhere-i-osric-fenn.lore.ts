@@ -222,7 +222,7 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Osric says the Board pays only at Wendlow, two more days east by cart from Ketter's Well.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Osric knows nothing of Voss's letter unless Nala shows it.",
