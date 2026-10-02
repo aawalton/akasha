@@ -223,6 +223,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Breaking the crew Drakewolf's jaw-hold on her arm is a hard act.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Held down, Nala can still work with her free hand; a slug at the wolf's head, touching, is easy.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
