@@ -40,5 +40,9 @@ export const overwhereIvNala3 = {
       fact: "Nala left the blade wolf's carcass and broken spear, and carried its head seven miles home.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Nala paid Tobin 20 copper, counted at once, to fit a crossbar behind her forged spear's blade.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore
