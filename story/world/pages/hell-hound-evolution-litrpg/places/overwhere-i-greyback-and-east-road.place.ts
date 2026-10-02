@@ -159,7 +159,7 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "From the knoll an old cart track shows cutting north-east through the pines toward low hills.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "From her deer trail the granite knoll is 400 yards west; on her hurt leg she tops it in 15 minutes.",
