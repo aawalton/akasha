@@ -216,6 +216,10 @@ export const overwhereIOsricFenn = {
       fact: "Osric whistles at the head, names the Board's thirty gold for it, and offers salt from his stock.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Osric sells salt at 4 copper a sack, as Garrick does; one sack keeps a head three weeks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
