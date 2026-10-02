@@ -40,5 +40,25 @@ export const overwhereIiVarrowKeep = {
       fact: "The Lady receives guests in a long, draughty hall up a winding stair, a fire smoking at one end.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Lady Varrow seals a free blade's bond with a clasp of hands before a witness, written in the rolls.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Keep gives Nala a room at the top of its old north stair: bare, quiet, with a shuttered window.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The north stair room looks over the valley to the Whitecombs, and no one else sleeps on that stair.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A free blade at the Keep eats in the hall with the Talented, at the second table.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Keep's well is in its lower court, deep and cold, fed from the crag's spring.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
