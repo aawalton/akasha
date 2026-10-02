@@ -275,7 +275,7 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Osric's mule is spent from its bolt; he will not roll before 6:00.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Osric laughs that the mule would drop in the shafts; they roll at six, and she should sleep first.",
