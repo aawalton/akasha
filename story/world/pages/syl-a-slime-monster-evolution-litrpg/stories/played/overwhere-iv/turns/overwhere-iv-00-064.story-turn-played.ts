@@ -11,4 +11,5 @@ export const overwhereIv00064 = {
   action:
     "I repeat the rend, from the back this time, again and again until the head is separated from the neck",
   lore: ["place/overwhere-iv-crake-gill"],
+  endsAt: "2026-10-04T14:43:00.000Z",
 } as const satisfies StoryTurnPlayed
