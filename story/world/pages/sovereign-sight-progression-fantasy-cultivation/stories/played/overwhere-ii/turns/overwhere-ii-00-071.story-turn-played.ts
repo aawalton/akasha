@@ -40,6 +40,7 @@ export const overwhereIi00071 = {
     'Wil: "He\'ll be there near midnight."',
   ],
   lore: [
+    "lore/overwhere-ii-bet-loddon",
     "lore/overwhere-ii-loddon-brothers",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",
@@ -47,6 +48,6 @@ export const overwhereIi00071 = {
     "lore/overwhere-ii-reeve-corwin-dray-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-10-14T19:02:00.000Z",
 } as const satisfies StoryTurnPlayed
