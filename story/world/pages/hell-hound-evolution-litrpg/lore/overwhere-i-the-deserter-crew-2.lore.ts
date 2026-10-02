@@ -132,7 +132,7 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "At her answer Voss laughs once, says his head comes dearer than that, and steps back out of sight.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "After that the crossbowmen show at gallery mouths only a heartbeat to loose; a slug at one is hard.",
