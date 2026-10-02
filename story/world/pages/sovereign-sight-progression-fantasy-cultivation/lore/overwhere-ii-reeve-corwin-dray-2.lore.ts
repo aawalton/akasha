@@ -97,7 +97,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray believes Nala at once, and wants Crake for the ten-bar price and the three lost Talented.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray would turn the trap: Nala walks in as bait while he and the watch come up the beck behind.",
