@@ -10,7 +10,7 @@ export const overwhereIi00066 = {
   position: 66,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“I don’t know, but this way, you’ll at least have a chance to plead their case and a bit of goodwill to spend on them. If you can get them to surrender quietly, all the better, but don’t give away the trap, that would backfire and end with all of you dead.”",
   beats: [
