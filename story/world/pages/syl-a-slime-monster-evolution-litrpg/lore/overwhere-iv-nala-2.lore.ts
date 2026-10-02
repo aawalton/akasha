@@ -335,15 +335,15 @@ export const overwhereIvNala2 = {
     },
     {
       fact: "Eyes shut, a rend has no spot for her eye to fix on, and won't form; nothing is spent.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Eyes shut, her always-on sense lets her walk firm ground slowly, but not run or judge mud.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Spatial Sense feels shapes, not tracks: prints and drag marks in mud are only faint dents.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Lore

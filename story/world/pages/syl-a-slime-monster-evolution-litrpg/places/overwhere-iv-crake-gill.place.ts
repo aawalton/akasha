@@ -63,5 +63,25 @@ export const overwhereIvCrakeGill = {
       fact: "Its spine ridge cuts as a blade, solid, only on what grapples it or strikes its back.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Five miles up the Crowstone track a steep gully crosses it, its sides choked with gorse.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "A beast tall as a pony sleeps among bones in a hollow under a rock shelf at the gully's head.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "The sleeping beast has a ridge down its spine, hard and thin as a row of blades.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "From the track, gorse hides the overhang at the gully's head from sight.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Above the overhang at the gully's head is a lip of loose stone, steep and high.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Place

@@ -9,7 +9,11 @@ export const overwhereIvCrowstoneQuarry = {
   facts: [
     {
       fact: "Crowstone Quarry is an abandoned stone quarry two days' walk north-west of Millbrook.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
     },
     {
       fact: "Three weeks ago the quarry became a young dungeon.",
@@ -19,10 +23,7 @@ export const overwhereIvCrowstoneQuarry = {
       fact: "Monsters of LV 10 to 25 leak out of the quarry at night.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "The dungeon's master is LV 35.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+    { fact: "The dungeon's master is LV 35.", knowers: ["lore-disclosure/game-master"] },
     {
       fact: "Few in Millbrook yet know the quarry has become a dungeon.",
       knowers: ["lore-disclosure/game-master"],
