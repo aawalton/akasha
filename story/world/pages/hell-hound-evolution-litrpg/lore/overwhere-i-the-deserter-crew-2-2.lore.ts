@@ -330,5 +330,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Twin beams meeting on Voss's shield as he charges are hard; at his head over the rim, a band harder.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Close in, Voss fights with sword and shield bash; hitting her with the sword is moderate for him.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
