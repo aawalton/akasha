@@ -270,5 +270,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Voss's overhang lies six miles east of the camp, above a stream; its mouth faces his back trail.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Voss fights with sword and shield; he carries no bow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
