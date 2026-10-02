@@ -48,5 +48,9 @@ export const overwhereIiiBraidWeaving = {
       fact: "An unlooped braided pull snaps back down the lent current into her, as a plain weave does.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Two of her own weaves braid into one: a Current Lash braided with a pull strikes and draws at once.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
