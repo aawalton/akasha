@@ -352,6 +352,14 @@ export const overwhereIiiMardaHesk = {
       fact: "Marda lets Nala's 'just curious' lie, but marks it; she reckons the girl is more than she says.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
+    {
+      fact: "Marda told Nala traits fill their own ten slots, apart from skills, and like-level traits can fuse.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
