@@ -186,7 +186,7 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Grete's first words: 'That's a Drakewolf cask or I'm a goose. Set it down, and tell me whose head.'",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "At noon Antler Hall holds only Grete and two idle hunters dicing by the hearth.",
