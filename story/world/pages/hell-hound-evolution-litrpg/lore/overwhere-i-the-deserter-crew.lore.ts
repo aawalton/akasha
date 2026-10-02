@@ -312,6 +312,10 @@ export const overwhereITheDeserterCrew = {
       fact: "At three sharp whistles the whole crew broke and ran for the quarry pit.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Nala's air ward turned two crossbow bolts and a third from someone unseen in the trees.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
