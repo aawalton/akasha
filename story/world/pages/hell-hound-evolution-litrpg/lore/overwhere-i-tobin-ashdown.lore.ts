@@ -201,7 +201,7 @@ export const overwhereITobinAshdown = {
     },
     {
       fact: "Seeing Voss's head, Tobin goes white and turns away, then grins: Fenwatch will sing of it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Dressing all Nala's wounds uses about half of Hessa's pot of salve.",
