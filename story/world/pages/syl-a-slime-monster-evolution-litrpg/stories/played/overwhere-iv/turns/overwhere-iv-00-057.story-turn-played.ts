@@ -10,7 +10,7 @@ export const overwhereIv00057 = {
   position: 57,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“Sure, might as well have an edge while I’m waiting. Thanks!”",
   beats: [
     '"Sure, might as well have an edge while I\'m waiting. Thanks!" Nala sets ten copper on the bench.',
@@ -27,6 +27,6 @@ export const overwhereIv00057 = {
     "lore/overwhere-iv-nala-2",
     "place/overwhere-iv-millbrook-smithy",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-03T15:45:00.000Z",
 } as const satisfies StoryTurnPlayed
