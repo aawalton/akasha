@@ -4,6 +4,7 @@ export const overwhereIi00079 = {
   id: "01a0fe4c-7384-7981-9054-c2fe3eb48d45",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-079",
+  cover: "image/image-297374588438e5e7",
   ownLength: 264,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
@@ -41,6 +42,7 @@ export const overwhereIi00079 = {
     "place/overwhere-ii-ashlin-farm",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-15T12:30:00.000Z",
+  coverAfter: "Dray halts the column in front of his house and turns to you.",
 } as const satisfies StoryTurnPlayed
