@@ -4,10 +4,13 @@ export const overwhereIi00063 = {
   id: "01a0fd4e-5072-759b-b27d-452177afd479",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-063",
+  ownLength: 286,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 63,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action: "I keep going with my routine, working through refining my bones",
   beats: [
     "Nala keeps to her routine: broth and bread at the Lantern, then hours on the bunk refining bone.",
@@ -35,6 +38,7 @@ export const overwhereIi00063 = {
     "lore/overwhere-ii-nala-2",
     "lore/overwhere-ii-oswy-crake",
     "lore/overwhere-ii-reeve-corwin-dray-2",
+    "place/overwhere-ii-wendle-ford",
   ],
   endsAt: "2026-10-14T09:00:00.000Z",
 } as const satisfies StoryTurnPlayed
