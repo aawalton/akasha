@@ -73,7 +73,7 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "Osric fights in overhead and sweeping blows, fast for their weight, and leaves his flank open after.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Osric has never fought anyone with a spear's reach who could keep him at its end.",
