@@ -246,7 +246,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "A refined bone feels heavy and still, like stone under water; she weighs a little more.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Begun on day nine, smallest to largest, Nala's bones are all refined whole by day twenty-two.",
