@@ -41,7 +41,7 @@ export const overwhereIiBetLoddon = {
     },
     {
       fact: "Bet tells that Pip watches the valley road, to run ahead and warn Crake who comes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Bet is to bring Nala alone up the front lane before dusk; a lamp in the window means all is ready.",
