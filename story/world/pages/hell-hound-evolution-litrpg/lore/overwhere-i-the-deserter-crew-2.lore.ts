@@ -190,5 +190,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Nala's aimed slugs struck both crossbowmen in the face; one fell in a gallery mouth and lies there.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Bolts from the galleries and two from the trees struck her boulders; none had a line on her.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
