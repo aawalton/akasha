@@ -90,7 +90,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "With her Locks running free, Undertow answers full again and her sense of water comes clear.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The needle dart is a finger-long iron needle, its grooved tip dark with dried venom.",
