@@ -172,5 +172,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Eye beams cost what hand beams cost; they harm neither her eyes nor her held flame.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Having loosed eye beams once, Nala no longer finds them a band harder than hand beams.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
