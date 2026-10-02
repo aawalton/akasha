@@ -11,4 +11,5 @@ export const overwhereIi00060 = {
   action:
     "I get some more food and drink then use my anatomy knowledge from Earth to start infusing my muscles, precisely targeting one specific muscle at a time. I continue with this process, keeping rested and healthy, working through all of my muscles.",
   lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2", "place/overwhere-ii-tarrant-smithy"],
+  endsAt: "2026-10-06T23:30:00.000Z",
 } as const satisfies StoryTurnPlayed
