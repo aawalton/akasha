@@ -4,13 +4,14 @@ export const overwhereIv00073 = {
   id: "01a0fe92-3304-70cf-bf7e-0faf92295f37",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-073",
+  cover: "image/image-dc1de774770b7905",
   ownLength: 273,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 73,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“No, you need someone else to watch. Tonight I’m going hunting.” I go back and train with the guards then get some sleep, then do some more training, working to Rift Rend something I can only see with Spatial Sense.",
   beats: [
@@ -47,6 +48,12 @@ export const overwhereIv00073 = {
     "place/overwhere-iv-tull-farm",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-06T18:00:00.000Z",
+  coverAfter: "The sun is sinking toward the moor. Behind your ribs, the warmth is down",
 } as const satisfies StoryTurnPlayed
