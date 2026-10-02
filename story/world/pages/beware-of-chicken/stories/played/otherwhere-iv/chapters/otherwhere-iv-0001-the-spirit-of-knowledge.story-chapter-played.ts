@@ -43,7 +43,7 @@ export const otherwhereIv0001TheSpiritOfKnowledge = {
     },
     {
       position: 7,
-      cover: "image/image-43ce32baa5f53748",
+      cover: "image/image-8b45bd7f02ad991c",
       coverAfter: "Gu folds his hands on the ledgers and looks up at you,",
     },
     {
