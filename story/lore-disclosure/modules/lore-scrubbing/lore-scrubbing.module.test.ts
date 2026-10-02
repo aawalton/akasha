@@ -34,6 +34,7 @@ import { gameMaster } from "akasha/story/lore-disclosure/pages/game-master.lore-
 import { prose } from "akasha/story/world/stories/played/properties/prose.file-property.ts"
 import { turnAction } from "akasha/story/world/stories/played/turns/properties/turn-action.text-property.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
+import { storyChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.ts"
 
 const scratch = scratchWorld()
 
@@ -225,6 +226,45 @@ test("a beat the game master wrote is kept, and the withheld fact it echoes is s
   const scrubber = scrubberOf(playedWorld())
   expect(heldIn(`    ${JSON.stringify(OWN)},`, scrubber)).toBe(false)
   expect(heldIn(`"${SECOND}"`, scrubber)).toBe(true)
+})
+
+const CHAPTER_AT =
+  "story/world/pages/held/stories/written/held/chapters/held-0001.story-chapter-written.ts"
+
+const CHAPTER_BEAT = "Seven lanterns burn beneath the eaves of the inn tonight."
+
+const CHAPTER_PROSE = "The ferryman remembers every crossing he ever rowed for her."
+
+function writtenWorld(): string {
+  const root = sealedWorld()
+  valueAlsoFiled(root, storyChapterWritten.slug, [
+    {
+      path: CHAPTER_AT,
+      value: {
+        id: "01a0d600-0000-7000-8000-00000000000c",
+        type: `page-type/${storyChapterWritten.slug}`,
+        slug: "held-0001",
+        [stepBeats.propertySlug]: [CHAPTER_BEAT],
+        [prose.propertySlug]: "txt",
+      },
+    },
+  ])
+  const written = join(root, CHAPTER_AT.replace(/\.ts$/, ".prose.txt"))
+  mkdirSync(dirname(written), { recursive: true })
+  writeFileSync(written, `${CHAPTER_PROSE}\n`)
+  return root
+}
+
+test("a written chapter's beat is kept, and the withheld fact it echoes is still held", () => {
+  const scrubber = scrubberOf(writtenWorld())
+  expect(heldIn(`    ${JSON.stringify(CHAPTER_BEAT)},`, scrubber)).toBe(false)
+  expect(heldIn(`"${SECOND}"`, scrubber)).toBe(true)
+})
+
+test("a written chapter's prose is kept, and the withheld fact it echoes is still held", () => {
+  const scrubber = scrubberOf(writtenWorld())
+  expect(heldIn(`1\t${CHAPTER_PROSE}`, scrubber)).toBe(false)
+  expect(heldIn(`"${FACT}"`, scrubber)).toBe(true)
 })
 
 test("a fact told to no game master lends no withheld words back", () => {

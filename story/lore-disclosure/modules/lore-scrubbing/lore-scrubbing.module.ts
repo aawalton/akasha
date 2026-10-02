@@ -60,6 +60,11 @@ export const loreScrubbing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Words a written chapter's beats or prose state are never left out, as a played turn's are not.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "Words are compared without case or punctuation, so an escaped copy is left out too.",
     },
     {

@@ -25,6 +25,7 @@ import { gameMaster } from "akasha/story/lore-disclosure/pages/game-master.lore-
 import { prose } from "akasha/story/world/stories/played/properties/prose.file-property.ts"
 import { turnAction } from "akasha/story/world/stories/played/turns/properties/turn-action.text-property.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
+import { storyChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.ts"
 
 export const LEFT_OUT = "[a line of lore the world builder holds was left out here]"
 
@@ -116,14 +117,16 @@ function proseOf(root: string, path: string, value: Value): string | null {
 
 function playedIn(root: string): readonly string[] {
   const found: string[] = []
-  for (const [path, value] of valuesByPath(root, storyTurnPlayed.slug)) {
-    const action = value[turnAction.propertySlug]
-    if (typeof action === "string") found.push(action)
-    const written = proseOf(root, path, value)
-    if (written !== null) found.push(written)
-    const beats = value[stepBeats.propertySlug]
-    if (!Array.isArray(beats)) continue
-    for (const one of beats) if (typeof one === "string") found.push(one)
+  for (const kind of [storyTurnPlayed.slug, storyChapterWritten.slug]) {
+    for (const [path, value] of valuesByPath(root, kind)) {
+      const action = value[turnAction.propertySlug]
+      if (typeof action === "string") found.push(action)
+      const written = proseOf(root, path, value)
+      if (written !== null) found.push(written)
+      const beats = value[stepBeats.propertySlug]
+      if (!Array.isArray(beats)) continue
+      for (const one of beats) if (typeof one === "string") found.push(one)
+    }
   }
   return found
 }
