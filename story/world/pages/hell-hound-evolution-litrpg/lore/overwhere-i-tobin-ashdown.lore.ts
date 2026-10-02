@@ -197,7 +197,7 @@ export const overwhereITobinAshdown = {
     },
     {
       fact: "Hessa's yarrow salve stops the bleeding of Nala's bolt wounds; it heals nothing by itself.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Seeing Voss's head, Tobin goes white and turns away, then grins: Fenwatch will sing of it.",
