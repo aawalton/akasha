@@ -10,7 +10,7 @@ export const overwhereIi00068 = {
   position: 68,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I burst out with my Talent, pull down and forward on his head and pushing up on the spear as I pull it back then thrust it forward, faster than it should be able to move, straight into his neck.",
   beats: [
@@ -34,6 +34,6 @@ export const overwhereIi00068 = {
     "The venom creeps on, the way the rot crept through Wren.",
   ],
   lore: ["lore/overwhere-ii-nala", "lore/overwhere-ii-nala-2", "lore/overwhere-ii-oswy-crake-2"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-14T18:31:00.000Z",
 } as const satisfies StoryTurnPlayed
