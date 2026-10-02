@@ -60,5 +60,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Feeding the burst beside her held air ward is three workings: her most, each act a band harder.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A fire-and-air burst costs 30 mana to loose; it needs no aim, so it is easy against all in reach.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
