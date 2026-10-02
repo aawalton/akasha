@@ -237,6 +237,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "Brennock Ford is a hamlet of five farms by a stone-paved ford, with the two-storey Ford Inn.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Ford Inn charges 8 copper a bed and 3 copper for a hot bath in its back-room tub.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
