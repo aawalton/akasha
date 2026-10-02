@@ -146,7 +146,11 @@ export const overwhereIiiCrookAndCandle = {
     },
     {
       fact: "Hunters drinking at the Crook and Candle now and then have a glimmerstone to sell.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
   secrets: "jsonl",
