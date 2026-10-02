@@ -4,13 +4,14 @@ export const overwhereI00076 = {
   id: "01a0fd94-8679-7a8e-9160-938e14f7dad2",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-076",
+  cover: "image/image-36fe67fdbd05d1b5",
   ownLength: 106,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 76,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I pull out the pale blue crystals and pull on them, to see if I can use them to refill my mana.",
   beats: [
@@ -30,6 +31,11 @@ export const overwhereI00076 = {
     "lore/overwhere-i-the-western-march",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-03T15:11:00.000Z",
 } as const satisfies StoryTurnPlayed
