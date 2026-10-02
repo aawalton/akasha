@@ -342,5 +342,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Besides Analyze, Voss has Shield Rush: his charge ends in a bash that knocks a smaller foe flat.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Landing his Shield Rush is moderate for Voss; knocked flat, Nala's next act is a band harder.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
