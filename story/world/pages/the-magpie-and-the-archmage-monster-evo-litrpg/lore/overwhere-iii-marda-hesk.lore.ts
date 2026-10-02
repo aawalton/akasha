@@ -252,6 +252,10 @@ export const overwhereIiiMardaHesk = {
       fact: "Hearing how Nala took the fox, Marda says she's past needing leave to hunt small blight.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
+    {
+      fact: "Marda takes a blightstone as its own proof; the post pays no bounty on a fox beyond the stone.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
