@@ -4,10 +4,13 @@ export const overwhereIv00062 = {
   id: "01a0fdcc-e350-77e5-a109-6b8636f6fa3b",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-062",
+  ownLength: 148,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 62,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I count that as progress for today, then quietly move around until I can get sight on the wolf and finish it.",
   beats: [
@@ -22,6 +25,11 @@ export const overwhereIv00062 = {
     "It bursts out from under the shelf: grey-black, tall as a pony, the ridge on its back raised.",
     "Silent, it makes straight for the scramble below her, at a dead run.",
   ],
-  lore: ["place/overwhere-iv-crake-gill"],
+  lore: [
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "lore/overwhere-iv-nala-3",
+    "place/overwhere-iv-crake-gill",
+  ],
   endsAt: "2026-10-04T14:40:00.000Z",
 } as const satisfies StoryTurnPlayed
