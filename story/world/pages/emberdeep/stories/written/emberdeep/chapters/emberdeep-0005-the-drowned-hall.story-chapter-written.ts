@@ -10,7 +10,7 @@ export const emberdeep0005TheDrownedHall = {
   story: "story-written/emberdeep",
   ownLength: 3916,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   beats: [
     "It is Firstday; Nala wakes with Elowen asleep on her arm, her arm numb, and stays still anyway.",
     "Elowen wakes, remembers the kiss, and goes pink, and then kisses Nala again, quickly.",
@@ -71,7 +71,7 @@ export const emberdeep0005TheDrownedHall = {
     "She says she woke there on Fourthday with a pack, a letter and a name stitched in the flap.",
     "Elowen takes her hand under the table and holds it hard.",
     "Wren says that explains a lot: not knowing ember-stones, not knowing the Deep.",
-    "Wren says few people up here have even heard of Fennick, so it will rarely come up.",
+    "Wren admits she could not say where Fennick even is; few up here could, so it will rarely come up.",
     "Nala keeps the rest to herself: Alan, the window, the book open on his chest.",
     "Wren says the party knows now, and that is enough.",
     "Wren walks them up Ladder Lane, between them, an arm through each of theirs.",
