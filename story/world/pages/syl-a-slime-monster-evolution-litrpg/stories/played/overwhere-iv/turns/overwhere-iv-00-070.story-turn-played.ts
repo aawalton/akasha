@@ -4,10 +4,13 @@ export const overwhereIv00070 = {
   id: "01a0fe69-edba-713e-8516-5d047e44cee2",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-070",
+  ownLength: 228,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 70,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
+  stepStatus: "step-status/reviewers",
   action:
     "“I might be good for a night watch, let me do some training today and I’ll let you know.” I go out from town a ways, close my eyes, and practice my spatial sight, trying to combine it with rift rend, so I can strike without seeing with my eyes.",
   beats: [
@@ -27,6 +30,7 @@ export const overwhereIv00070 = {
     "She opens her eyes, gets up, shoulders her spear, and starts back for town.",
   ],
   lore: [
+    "lore/overwhere-iv-ilsa-crane-2",
     "lore/overwhere-iv-nala",
     "lore/overwhere-iv-nala-2",
     "lore/overwhere-iv-nala-3",
