@@ -60,5 +60,9 @@ export const overwhereINala2 = {
       fact: "Nala carries the two pale blue crystals and Ewan Dell's tin token in her pack.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Nala reached Level 8 on day 4 at the pine island.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
