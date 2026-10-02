@@ -121,7 +121,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray and his four watchmen leave an hour ahead, by the fields east of the road, out of Pip's sight.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray tells Nala to stop at the lane's end and talk, to hold the crossbows' eyes while he closes.",
