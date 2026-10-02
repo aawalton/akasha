@@ -27,6 +27,7 @@ export const overwhereI00064 = {
     "Behind them, the dead snapper lies on the channel bed, its shell out of reach.",
     "Rowan takes up the sled's rope and looks to Nala, waiting on her word to start home.",
   ],
+  issues: ['"Rowan takes up the sled\'s rope and looks to you." - No Prompt'],
   lore: [
     "lore/overwhere-i-greyfen-beasts-2",
     "lore/overwhere-i-nala",
@@ -36,5 +37,6 @@ export const overwhereI00064 = {
     "lore/overwhere-i-the-greyfen-alpha-2-2",
     "place/overwhere-i-the-greyfen",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-02T10:25:00.000Z",
 } as const satisfies StoryTurnPlayed
