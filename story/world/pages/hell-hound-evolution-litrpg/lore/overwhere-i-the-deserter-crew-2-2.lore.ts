@@ -280,7 +280,7 @@ export const overwhereITheDeserterCrew22 = {
     },
     {
       fact: "Voss's trail runs east along a stream through the pines, with no fork, to his overhang.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Voss keeps the sack with him; he does not hide it.",
