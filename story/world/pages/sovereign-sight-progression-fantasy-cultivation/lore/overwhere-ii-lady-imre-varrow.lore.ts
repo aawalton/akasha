@@ -89,7 +89,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "Lady Varrow heard weeks ago of a stranger who drew greymaw rot from Garth Marsh's girl.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Garth's plea reached her, and she had no Talent to spare; Wren's life is a debt she owes Nala.",
