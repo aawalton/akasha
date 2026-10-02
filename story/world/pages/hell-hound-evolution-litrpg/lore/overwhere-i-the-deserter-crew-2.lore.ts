@@ -202,5 +202,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Then the galleries fell silent; the fallen crossbowman is the only man in sight.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "By the time her lens sweeps the pines, Crow has gone; nothing in the trees moves or looses.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
