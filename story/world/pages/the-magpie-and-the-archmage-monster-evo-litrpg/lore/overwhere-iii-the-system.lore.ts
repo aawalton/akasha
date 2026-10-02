@@ -142,7 +142,11 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "With slots full a new skill must replace an old one, and a removed skill can never be relearned.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Skill and trait levels rise Basic, Novice, Adept, Expert, Legend; Innate marks a natural peak.",
