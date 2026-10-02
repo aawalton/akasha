@@ -193,7 +193,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "If Nala will not swear, she offers a lesser bond: paid as a free blade, called on at need.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "At Garth Marsh's name, the frost on Lady Varrow's chair arms creeps thicker, white and crisp.",
