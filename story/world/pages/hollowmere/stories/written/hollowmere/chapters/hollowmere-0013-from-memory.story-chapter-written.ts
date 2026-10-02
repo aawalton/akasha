@@ -4,13 +4,14 @@ export const hollowmere0013FromMemory = {
   id: "01a0fe93-93da-7460-97bd-75a80f30dc6f",
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0013-from-memory",
+  cover: "image/image-e4b5d7a2c76387ab",
   position: 13,
   unit: "unit/words",
   title: "From Memory",
   story: "story-written/hollowmere",
   ownLength: 2796,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "Saturday: you skip the swimmers and go down to the boathouse at seven, wrapped in Bea's jumper.",
     "Novice rowing: coxed fours on the grey water, mist on the mere, the captain bawling from a launch.",
@@ -83,5 +84,41 @@ export const hollowmere0013FromMemory = {
     "character-other/hollowmere-kit",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
+  scenes: [
+    "image/image-5acf231ca2c4ec8d",
+    "image/image-06cbcf2fb0cc2c07",
+    "image/image-e4b5d7a2c76387ab",
+    "image/image-d22789bdc2065199",
+  ],
+  pictured: [
+    {
+      cover: "image/image-5acf231ca2c4ec8d",
+      coverAfter: "Out on the water, a small motor launch is idling, and standing up in",
+      character: "character-other/hollowmere-morwenna",
+      outfit: "sleeveless navy club fleece, navy wool headband",
+    },
+    {
+      cover: "image/image-06cbcf2fb0cc2c07",
+      coverAfter: "She's frowning. She's in a red corduroy pinafore with her hair knotted up",
+      character: "character-other/hollowmere-priya",
+      outfit: "red corduroy pinafore over a striped long-sleeved top",
+    },
+    {
+      cover: "image/image-e4b5d7a2c76387ab",
+      coverAfter: "The door opens at once. Lin is standing there in a canvas apron",
+      character: "character-other/hollowmere-lin",
+      outfit: "paint-spotted canvas apron over a grey knit jumper, long pleated skirt",
+    },
+    {
+      cover: "image/image-d22789bdc2065199",
+      coverAfter: "The walls are drawings. Every inch of them, pinned up edge to edge from",
+      setting: "Lin's room",
+    },
+  ],
 } as const satisfies StoryChapterWritten
