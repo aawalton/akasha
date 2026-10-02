@@ -47,5 +47,9 @@ export const saltAndLamplightPenmorrow = {
         "character-other/salt-and-lamplight-morwenna",
       ],
     },
+    {
+      fact: "No boat on the coast has lost anyone this season, and no one in Penmorrow is missing a woman.",
+      knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-dilys"],
+    },
   ],
 } as const satisfies Place
