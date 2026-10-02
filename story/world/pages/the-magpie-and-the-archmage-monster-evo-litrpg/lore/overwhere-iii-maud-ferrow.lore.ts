@@ -147,5 +147,9 @@ export const overwhereIiiMaudFerrow = {
         "character-other/overwhere-iii-tam-rowe",
       ],
     },
+    {
+      fact: "Day ten's drill runs dawn bell to the watch change near half past ten, as before.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
