@@ -42,6 +42,9 @@ export const overwhereIii00079 = {
     '"And a woodcutter found a deer by the Wren Brook, its hide rotted to black sludge."',
     '"Small blight first, I\'d say." Marda taps the board. "But it\'s your hunt."',
   ],
+  issues: [
+    '"She reaches the yard late" - Maud drills the watch on the south green, as turn 68 has it',
+  ],
   lore: [
     "lore/overwhere-iii-brannagh-tull",
     "lore/overwhere-iii-brannagh-tull-2",
@@ -56,5 +59,6 @@ export const overwhereIii00079 = {
     "place/overwhere-iii-merrowgate-guild-post",
     "place/overwhere-iii-wrenwood",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-08T10:45:00.000Z",
 } as const satisfies StoryTurnPlayed
