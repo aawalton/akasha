@@ -84,5 +84,9 @@ export const overwhereITheDeserterCrew222 = {
       fact: "If it is still up after her first beams, the Drakewolf lunges, closing 10 yards in a second.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Twin eye beams meeting on the Drakewolf are hard: moderate, a band for twin, a band for untried.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
