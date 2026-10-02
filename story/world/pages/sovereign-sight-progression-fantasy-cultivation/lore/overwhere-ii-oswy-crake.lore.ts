@@ -171,6 +171,10 @@ export const overwhereIiOswyCrake = {
       fact: "A soft voice from the barn bids Nala put the spear down, and promises nobody bleeds tonight.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Someone with jangling keys waits in the dark of the barn under the loft, not by the house hearth.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
