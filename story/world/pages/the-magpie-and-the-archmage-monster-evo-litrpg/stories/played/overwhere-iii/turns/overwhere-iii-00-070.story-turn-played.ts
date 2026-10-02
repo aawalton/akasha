@@ -4,10 +4,13 @@ export const overwhereIii00070 = {
   id: "01a0fe68-1b6a-7736-b5e7-483b126b8f4a",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-070",
+  ownLength: 237,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 70,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Could you help me understand a few things, Marda? How do I level up faster and what do skill rarities mean?”",
   beats: [
@@ -30,6 +33,9 @@ export const overwhereIii00070 = {
   ],
   lore: [
     "lore/overwhere-iii-marda-hesk",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
+    "lore/overwhere-iii-nala-2-2",
     "lore/overwhere-iii-the-system",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
