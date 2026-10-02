@@ -5,6 +5,7 @@ import {
   completedOnTheDayOf,
   completionShapeAlong,
   completionValues,
+  readFraction,
   readsAsDone,
   type TaskShape,
   uncompletionValues,
@@ -66,6 +67,18 @@ test("a checked collection reads as done and an unchecked one reads as not done"
   expect(readsAsDone(COLLECTION_SHAPE, checked)).toBe(true)
   const unchecked = { ...checked, ...uncompletionValues(COLLECTION_SHAPE) }
   expect(readsAsDone(COLLECTION_SHAPE, unchecked)).toBe(false)
+})
+
+test("a collection read partway reads as the share of its own length read", () => {
+  expect(readFraction(COLLECTION_SHAPE, { ownLength: 4000, ownProgress: 1000 })).toBe(0.25)
+  expect(readFraction(COLLECTION_SHAPE, { ownLength: 4000 })).toBe(0)
+  expect(readFraction(COLLECTION_SHAPE, { ownLength: 4000, ownProgress: 9000 })).toBe(1)
+})
+
+test("a collection with no length of its own, and a task, read as no share at all", () => {
+  expect(readFraction(COLLECTION_SHAPE, { ownProgress: 3 })).toBeNull()
+  expect(readFraction(COLLECTION_SHAPE, { ownLength: 0, ownProgress: 0 })).toBeNull()
+  expect(readFraction(shapeFor("to-do"), { toDoDueDate: "2026-09-06" })).toBeNull()
 })
 
 test("a to-do holding no rule reads as done from the instant it was marked", () => {

@@ -102,6 +102,7 @@
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"page/page.page-type.page-row-component.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"page/ui/block-editor/modules/block-accessory-bar/block-accessory-bar.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"page/ui/block-editor/modules/block-row/block-row.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cn.module.code.ts","path":"page/ui/component/modules/completion-mark/completion-mark.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"page/ui/component/modules/editable-title/editable-title.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"page/ui/component/modules/markdown-property-badge/markdown-property-badge.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"page/ui/component/modules/page-card-cover/page-card-cover.module.code.tsx","typed":false,"deferred":false}

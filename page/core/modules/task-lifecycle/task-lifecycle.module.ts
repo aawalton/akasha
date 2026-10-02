@@ -70,6 +70,10 @@ export const taskLifecycle = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A collection read partway reads as the share of its own length its progress is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Marking a collection done carries its own progress to its own length.",
     },
     {

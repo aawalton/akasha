@@ -154,5 +154,6 @@ export const pageUiComponent = {
     "module/app-editing",
     "module/reading-progress-bar",
     "module/embedded-view-content",
+    "module/completion-mark",
   ],
 } as const satisfies Domain

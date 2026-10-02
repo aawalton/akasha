@@ -143,3 +143,11 @@ export function readsAsDone(shape: CompletionShape, values: TaskValues): boolean
   if (length === null) return textAt(values, shape.doneKey) !== null
   return (asNumber(values[shape.progressKey]) ?? 0) >= length
 }
+
+export function readFraction(shape: CompletionShape, values: TaskValues): number | null {
+  if (shape.kind === "task") return null
+  const length = asNumber(values[shape.lengthKey])
+  if (length === null || length <= 0) return null
+  const progress = asNumber(values[shape.progressKey]) ?? 0
+  return Math.min(1, Math.max(0, progress / length))
+}

@@ -3537,6 +3537,7 @@
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/auth-provider/auth-provider.module.ts","id":"01a06582-2737-7f5c-8019-8dd5e784db92"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/badge-keying/badge-keying.module.ts","id":"01a0ca57-6b79-7ed9-8595-bf983f190063"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/bare-listing-card/bare-listing-card.module.ts","id":"01a06257-46e5-7df0-9b5d-3c4b6f7e8246"}
+{"propertySlug":"decision-kind","path":"page/ui/component/modules/completion-mark/completion-mark.module.ts","id":"01a0fd30-312f-71cc-87ce-d7aef8502213"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/create-override/create-override.module.ts","id":"01a0c539-b9c3-7a0e-a228-f58993cf903e"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/drawings-found/drawings-found.module.ts","id":"01a0a065-7b7d-75b8-95b0-3acd9a5dcade"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/embedded-view-content/embedded-view-content.module.ts","id":"01a0e9cb-1042-7fd6-ab8e-029d3c46b2bc"}

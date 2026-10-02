@@ -13,8 +13,12 @@ import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { pageName } from "akasha/page/core/modules/page-name/page-name.module.code.ts"
-import { readsAsDone } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
+import {
+  readFraction,
+  readsAsDone,
+} from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
 import { expandDateMentions } from "akasha/page/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
+import { CompletionMark } from "akasha/page/ui/component/modules/completion-mark/completion-mark.module.code.tsx"
 import { PageActionsMenu } from "akasha/page/ui/component/modules/page-actions-menu/page-actions-menu.module.code.tsx"
 import type { PageCardProps } from "akasha/page/ui/component/modules/page-card/page-card.module.code.tsx"
 import { PageCardCover } from "akasha/page/ui/component/modules/page-card-cover/page-card-cover.module.code.tsx"
@@ -22,7 +26,6 @@ import { PageCardProperties } from "akasha/page/ui/component/modules/page-card-p
 import { titleColorClass } from "akasha/page/ui/component/modules/title-color/title-color.module.code.ts"
 import { useOverflowFade } from "akasha/page/ui/component/modules/use-overflow-fade/use-overflow-fade.module.code.ts"
 import { PagesUILink } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
-import { CheckCircle2, Circle } from "lucide-react"
 import { useMemo } from "react"
 
 export function Drawing({
@@ -63,6 +66,7 @@ export function Drawing({
     () => (completion == null || data == null ? false : readsAsDone(completion, data)),
     [completion, data]
   )
+  const fraction = completion == null || data == null ? null : readFraction(completion, data)
   const showCompletionToggle = Boolean(onComplete) && completion != null
   const isFavorite = data?.favoritedAt != null
   const titleColor = titleColorClass(definitions ?? [], data)
@@ -93,11 +97,11 @@ export function Drawing({
                   onComplete?.(isCompleted ? null : Date.now())
                 }}
               >
-                {isCompleted ? (
-                  <CheckCircle2 className="size-4.5 text-success" />
-                ) : (
-                  <Circle className="size-4.5" />
-                )}
+                <CompletionMark
+                  isCompleted={isCompleted}
+                  fraction={fraction}
+                  className="size-4.5"
+                />
               </button>
             )}
             <CardTitle

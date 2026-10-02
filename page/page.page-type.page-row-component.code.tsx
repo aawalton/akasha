@@ -4,14 +4,17 @@ import { Icon } from "akasha/design/interface/pattern/modules/lucide-icon/lucide
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { TableCell } from "akasha/design/interface/primitive/modules/table/table.module.code.tsx"
 import { pageName } from "akasha/page/core/modules/page-name/page-name.module.code.ts"
-import { readsAsDone } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
+import {
+  readFraction,
+  readsAsDone,
+} from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
 import { expandDateMentions } from "akasha/page/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
 import { orderTableColumns } from "akasha/page/ui/component/modules/card-property-columns/card-property-columns.module.code.ts"
+import { CompletionMark } from "akasha/page/ui/component/modules/completion-mark/completion-mark.module.code.tsx"
 import { PageActionsMenu } from "akasha/page/ui/component/modules/page-actions-menu/page-actions-menu.module.code.tsx"
 import type { PageRowCellsProps } from "akasha/page/ui/component/modules/page-row-cells/page-row-cells.module.code.tsx"
 import { PropertyBadge } from "akasha/page/ui/component/modules/property-badge/property-badge.module.code.tsx"
 import { titleColorClass } from "akasha/page/ui/component/modules/title-color/title-color.module.code.ts"
-import { CheckCircle2, Circle } from "lucide-react"
 
 export function Drawing({
   data,
@@ -31,6 +34,7 @@ export function Drawing({
   const displayTitle = expandDateMentions(pageName(data))
   const iconName = data.icon != null ? String(data.icon) : null
   const isCompleted = completion != null && readsAsDone(completion, data)
+  const fraction = completion == null ? null : readFraction(completion, data)
   const showCompletionToggle = Boolean(onComplete) && completion != null
   const showActions = onToggleFavorite != null || onDelete != null
   const titleColor = titleColorClass(definitions, data) ?? "text-primary"
@@ -56,11 +60,11 @@ export function Drawing({
                     onComplete?.(isCompleted ? null : Date.now())
                   }}
                 >
-                  {isCompleted ? (
-                    <CheckCircle2 className="size-4 text-success" />
-                  ) : (
-                    <Circle className="size-4" />
-                  )}
+                  <CompletionMark
+                    isCompleted={isCompleted}
+                    fraction={fraction}
+                    className="size-4"
+                  />
                 </button>
               )}
               <a
