@@ -102,5 +102,9 @@ export const overwhereITheDeserterCrew22 = {
         "character-other/overwhere-i-quarry-crewman-five",
       ],
     },
+    {
+      fact: "Cranking, Crow and Five crouch half-hidden in the pines; a beam at a head or neck is hard.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
