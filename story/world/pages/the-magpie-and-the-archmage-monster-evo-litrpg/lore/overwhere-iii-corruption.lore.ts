@@ -356,6 +356,14 @@ export const overwhereIiiCorruption = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "One looped weave cracked the stag's second stone into a clean glimmerstone; Marda said 'Yours.'",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
