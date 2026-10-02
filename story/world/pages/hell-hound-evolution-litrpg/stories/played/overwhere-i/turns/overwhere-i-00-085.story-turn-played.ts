@@ -7,7 +7,14 @@ export const overwhereI00085 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 85,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I walk slowly towards him. “Your time has come, Voss. And you want to know why? Is simple. You are worth quite a lot to me dead and nothing to me alive.” When I get in range, I do my double fire beam and burn through his shield, through his armor, and through his body.",
+  lore: [
+    "lore/overwhere-i-starfall-legacy",
+    "lore/overwhere-i-starfall-legacy-2",
+    "lore/overwhere-i-the-deserter-crew-2",
+    "lore/overwhere-i-the-deserter-crew-2-2",
+    "lore/overwhere-i-the-system-2",
+  ],
 } as const satisfies StoryTurnPlayed
