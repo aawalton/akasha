@@ -23,7 +23,7 @@ Edit it, alone on its line:
 
 **A subject with no cover** is rendered from words. Write a prompt of 200 to 300 words, one paragraph of plain description, opening with the design's visual style, then the subject and what it is doing, the place, the light and time of day, and the camera. Render it at the design's `imageSeed`, alone on its line:
 
-`akasha inference zimage --model beyond-reality-3 --seed <imageSeed> --steps 8 --guidance 1.0 --width 1216 --height 832 --output /var/tmp/akasha-turn-pictures/<turn slug>.png --prompt "<the prompt>"`
+`akasha inference zimage --model beyond-reality-3 --seed <imageSeed> --steps 8 --guidance 1.0 --width 832 --height 1216 --output /var/tmp/akasha-turn-pictures/<turn slug>.png --prompt "<the prompt>"`
 
 The edit or the render lands the image page itself and names it: `landed the image page image-…` or `the image page image-… was already there`. Where it is refused because nothing answers, run `akasha inference zimage-up` alone on its line and run it once more. Where that is refused too, record nothing and advance.
 
