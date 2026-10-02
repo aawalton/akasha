@@ -4,6 +4,7 @@ export const overwhereI00087 = {
   id: "01a0fe66-8ee0-7269-b318-c9fe234419e1",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-087",
+  cover: "image/image-b3ac080f4303d66d",
   ownLength: 160,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -17,7 +18,7 @@ export const overwhereI00087 = {
     "character-other/overwhere-i-quarry-crewman-four",
     "character-other/overwhere-i-harl-voss",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I channel two fire beams, aimed from my eyes this time and finish off the drakewolf, then continue.",
   beats: [
@@ -46,6 +47,12 @@ export const overwhereI00087 = {
     "place/overwhere-i-greyback-and-east-road",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-03T23:38:00.000Z",
+  coverAfter: "Two beams leap from them and meet on its burned chest.",
 } as const satisfies StoryTurnPlayed
