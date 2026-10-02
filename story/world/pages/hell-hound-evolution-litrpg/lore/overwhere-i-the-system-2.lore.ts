@@ -12,5 +12,9 @@ export const overwhereITheSystem2 = {
       fact: "Two Level 9 snappers slain with Rowan near bring Nala about a third of the way to Level 8.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "One Level 9 snapper slain with Rowan near brings Nala about a sixth of the way to Level 8.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
