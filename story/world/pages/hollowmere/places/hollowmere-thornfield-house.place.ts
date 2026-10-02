@@ -76,5 +76,22 @@ export const hollowmereThornfieldHouse = {
         "character-other/hollowmere-yusra",
       ],
     },
+    {
+      fact: "In the storm the top corridor's end window blew in; Yusra nailed a board over it, Nala holding it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Yusra's gale notice on the Thornfield board: boathouse shut, swimmers stood down, paths flooded.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
 } as const satisfies Place

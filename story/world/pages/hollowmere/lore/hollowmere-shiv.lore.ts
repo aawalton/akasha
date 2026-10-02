@@ -247,6 +247,22 @@ export const hollowmereShiv = {
         "character-other/hollowmere-shiv",
       ],
     },
+    {
+      fact: "Shiv's da took her out in his boat in a storm at eleven; her mam wept on the quay, then hit him.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "In the storm Shiv slept an hour on Nala's shoulder, the two wrapped in one blanket on Nala's bed.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-shiv",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

@@ -271,6 +271,14 @@ export const hollowmereLin = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Lin sketched Bea and Kit laughing across the Thornfield kitchen table, and showed Nala.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

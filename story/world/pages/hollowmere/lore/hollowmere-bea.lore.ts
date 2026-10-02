@@ -358,6 +358,17 @@ export const hollowmereBea = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Bea told Kit she knows about Friday and is in it with Nala too; Kit said that's very decent.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

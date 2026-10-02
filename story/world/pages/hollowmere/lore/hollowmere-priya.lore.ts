@@ -153,5 +153,27 @@ export const hollowmerePriya = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "Priya taught a card game from Leicester that her nani taught her, and none of the others knew it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-priya",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-lin",
+      ],
+    },
+    {
+      fact: "When the storm made the lights flicker, Priya drew a warming sigil on the Thornfield teapot.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-priya",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
 } as const satisfies Lore
