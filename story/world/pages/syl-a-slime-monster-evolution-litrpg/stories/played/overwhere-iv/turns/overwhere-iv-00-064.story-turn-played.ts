@@ -4,10 +4,13 @@ export const overwhereIv00064 = {
   id: "01a0fde3-f5f8-76b5-bd87-e74701acf927",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-064",
+  ownLength: 163,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 64,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I repeat the rend, from the back this time, again and again until the head is separated from the neck",
   beats: [
@@ -23,6 +26,11 @@ export const overwhereIv00064 = {
     "The wind blows down the moor. The gill is still.",
     "The body lies at her feet, pony-sized. Along its spine the ridge of fur still gleams like knives.",
   ],
-  lore: ["place/overwhere-iv-crake-gill"],
+  lore: [
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "lore/overwhere-iv-nala-3",
+    "place/overwhere-iv-crake-gill",
+  ],
   endsAt: "2026-10-04T14:43:00.000Z",
 } as const satisfies StoryTurnPlayed
