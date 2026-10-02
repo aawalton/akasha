@@ -238,5 +238,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Blademen One and Two lie in the easternmost gallery, behind a heap of spoil.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "From the east rim by the back wall, 15 yards off and above, the easternmost gallery shows inside.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
