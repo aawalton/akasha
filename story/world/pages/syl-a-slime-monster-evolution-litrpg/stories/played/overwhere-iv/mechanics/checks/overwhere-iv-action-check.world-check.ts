@@ -116,6 +116,15 @@ export const overwhereIvActionCheck = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A rend held open a few heartbeats past its instant spends its cost once more.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A rend laid ahead of a running foe waits only if held open; else it closes before it arrives.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An hour of rest gives back a fifth of her most mana; a night's sleep all of it.",
     },
     {
