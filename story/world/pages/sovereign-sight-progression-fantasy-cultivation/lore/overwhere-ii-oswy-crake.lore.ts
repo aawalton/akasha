@@ -155,6 +155,10 @@ export const overwhereIiOswyCrake = {
       fact: "Crake still means to take Nala; a well as deep as hers is worth the risk that Bet has turned.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Crake now waits in the barn under the loft, and the Loddons shoot as soon as she clears the lane.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
