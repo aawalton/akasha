@@ -201,7 +201,7 @@ export const overwhereIiiMardaHesk = {
       ],
     },
     {
-      fact: "Marda's lead box holds the wolf's second blightstone alone; the seed stones went out with Nala.",
+      fact: "Marda's lead box is empty; Nala cracked the last stone it held, the wolf's second.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/overwhere-iii-nala",
@@ -268,14 +268,7 @@ export const overwhereIiiMardaHesk = {
         "character-player/overwhere-iii-nala",
       ],
     },
-    {
-      fact: "Until Nala has mana to crack it, the fox stone waits in the lead box, apart from the rest.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-other/overwhere-iii-marda-hesk",
-        "character-player/overwhere-iii-nala",
-      ],
-    },
+
     {
       fact: "Marda tells Nala to hunt small blight where she finds it and bring her the stones.",
       knowers: [
@@ -401,7 +394,7 @@ export const overwhereIiiMardaHesk = {
       ],
     },
     {
-      fact: "Marda told Nala to bring the seed stones back to the post once cracked.",
+      fact: "Marda told Nala to bring the seed stones back; she meant only that they be cracked.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/overwhere-iii-nala",
