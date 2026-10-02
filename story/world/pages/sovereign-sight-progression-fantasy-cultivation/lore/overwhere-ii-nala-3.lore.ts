@@ -86,7 +86,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "Each loop eases the next; cycling on the march, her Locks run free by mid-morning, not noon.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "With her Locks running free, Undertow answers full again and her sense of water comes clear.",
