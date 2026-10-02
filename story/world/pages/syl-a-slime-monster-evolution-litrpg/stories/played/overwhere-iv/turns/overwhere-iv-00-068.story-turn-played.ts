@@ -10,7 +10,7 @@ export const overwhereIv00068 = {
   position: 68,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Yes, please. I have a feeling a crossbar will save my life someday. Can you get it done today?”",
   beats: [
