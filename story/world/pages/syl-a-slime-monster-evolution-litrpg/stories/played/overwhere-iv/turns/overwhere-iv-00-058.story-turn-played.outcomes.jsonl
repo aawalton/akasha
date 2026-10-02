@@ -1,3 +1,0 @@
-{"check":"world-check/overwhere-iv-growth","reading":{"character":"nala","gains":[{"kind":"skill","skill":"Spatial Sense","level":2,"uses":3}]},"answered":{"grown":[{"kind":"skill","skill":"Spatial Sense","from":2,"to":3,"usesCarried":0,"maxed":false}]}}
-{"check":"world-check/overwhere-iv-time-passing","reading":{"from":"2026-10-03T15:45:00.000Z","minutes":135},"answered":{"endsAt":"2026-10-03T18:00:00.000Z","day":5,"light":"dusk"}}
-{"check":"world-check/overwhere-iv-needs","reading":{"hoursSinceMeal":9.75,"hoursSinceDrink":9.75,"hoursAwake":12.5,"cold":false},"answered":{"hunger":"peckish","thirst":"thirsty","fatigue":"rested","chilled":false,"penalty":0}}

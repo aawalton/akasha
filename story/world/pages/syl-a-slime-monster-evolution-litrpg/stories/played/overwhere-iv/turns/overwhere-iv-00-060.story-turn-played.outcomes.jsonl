@@ -1,4 +1,0 @@
-{"check":"world-check/overwhere-iv-growth","reading":{"character":"nala","gains":[{"kind":"skill","skill":"Spatial Sense","level":3,"uses":2}]},"answered":{"grown":[{"kind":"skill","skill":"Spatial Sense","from":3,"to":3,"usesCarried":2,"maxed":false}]}}
-{"check":"world-check/overwhere-iv-time-passing","reading":{"from":"2026-10-04T10:00:00.000Z","minutes":260},"answered":{"endsAt":"2026-10-04T14:20:00.000Z","day":6,"light":"day"}}
-{"check":"world-check/overwhere-iv-needs","reading":{"hoursSinceMeal":6.8,"hoursSinceDrink":6.8,"hoursAwake":7.8,"cold":false},"answered":{"hunger":"peckish","thirst":"thirsty","fatigue":"rested","chilled":false,"penalty":0}}
-{"check":"world-check/overwhere-iv-standing","reading":{"character":"ilsa-crane","kept":0,"heard":0,"shared":1,"helped":0,"crossed":0,"quotes":{"shared":"\"I'll hunt the wolf today,\" you tell Ilsa, and ask her the way to the old quarry."}},"answered":{"earned":1,"lost":0,"change":1}}
