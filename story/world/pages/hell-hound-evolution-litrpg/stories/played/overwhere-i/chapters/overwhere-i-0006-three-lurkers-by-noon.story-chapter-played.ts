@@ -23,7 +23,7 @@ export const overwhereI0006ThreeLurkersByNoon = {
     },
     {
       position: 28,
-      cover: "image/image-c87f5f4c589b5912",
+      cover: "image/image-448d44ffa7bba1db",
       coverAfter: "You come down to the fen's edge an hour after setting out.",
     },
     {
