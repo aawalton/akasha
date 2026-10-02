@@ -182,7 +182,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "Guided by her Earth anatomy, Nala refines one muscle whole at a time, cleaner and faster.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Muscle by muscle, Nala refines all her muscle and tendon whole in four days, days five to eight.",
