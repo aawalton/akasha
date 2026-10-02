@@ -163,6 +163,10 @@ export const overwhereIiOswyCrake = {
       fact: "The loft's first two bolts were aimed low, at Nala's legs, not at her heart.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Someone was waiting on Dray's path in the beck gully; iron rang there instead of a crow's caw.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
