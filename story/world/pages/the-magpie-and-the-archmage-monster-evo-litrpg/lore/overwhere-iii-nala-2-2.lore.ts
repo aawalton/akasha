@@ -58,7 +58,11 @@ export const overwhereIiiNala22 = {
     },
     {
       fact: "After feeding weaves from raw current at the shrine, Nala's palms are pink and raw.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "At the shrine Nala fed eight seed stones from current; the seventh slipped and stayed dark.",
@@ -71,6 +75,22 @@ export const overwhereIiiNala22 = {
     {
       fact: "The current burn on Nala's palms is shallow, like a mild scald, and fades as her health comes back.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
+    {
+      fact: "Nala's burned palms are pink and tight like a scald, but nowhere blistered or broken.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
+    {
+      fact: "Asked what burned her palms, Nala told Marda she isn't sure, but thinks they'll heal fine.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
   ],
 } as const satisfies Lore
