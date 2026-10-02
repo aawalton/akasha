@@ -7,7 +7,16 @@ export const overwhereIii00059 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 59,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I pull out the blight and heal the injury, paying attention and trying to figure out what is different with the increase in rarity.",
+  lore: [
+    "lore/overwhere-iii-brannagh-tull",
+    "lore/overwhere-iii-brannagh-tull-2",
+    "lore/overwhere-iii-cleansing-weave",
+    "lore/overwhere-iii-corruption",
+    "lore/overwhere-iii-mending-weave",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
+  ],
 } as const satisfies StoryTurnPlayed
