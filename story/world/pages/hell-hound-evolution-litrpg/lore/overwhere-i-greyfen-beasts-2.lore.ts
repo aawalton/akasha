@@ -154,7 +154,7 @@ export const overwhereIGreyfenBeasts2 = {
     },
     {
       fact: "At the first slug, the other snapper pulls in its head and slides at once for deep water.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "A snapper dead in deep water sinks; a water working draws it up, slow and heavy, in a minute.",
