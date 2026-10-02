@@ -7,9 +7,22 @@ export const overwhereI00085 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 85,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I walk slowly towards him. “Your time has come, Voss. And you want to know why? Is simple. You are worth quite a lot to me dead and nothing to me alive.” When I get in range, I do my double fire beam and burn through his shield, through his armor, and through his body.",
+  beats: [
+    "Nala steps out of the pines and walks slowly up the stream bank toward the overhang.",
+    '"Your time has come, Voss. And you want to know why? Is simple."',
+    '"You are worth quite a lot to me dead and nothing to me alive."',
+    'Voss rises behind his shield. "I come dearer than that, woman," he calls down.',
+    "He waits, sword low, until she is thirty yards off, then charges down the slope, shield high.",
+    "She lifts both hands and crosses two fire beams on the face of his shield.",
+    "They burn through the wood and the mail beneath; he roars, smoking, and keeps coming.",
+    "Her second pair meets on the charred shield; it bursts through, and through him.",
+    "Ten yards short of her, Voss pitches forward onto the stones and lies still.",
+    "His burned shield rolls a little way down the bank and falls flat.",
+    "Under the overhang his sack sits where he left it, the dusk thickening around it.",
+  ],
   lore: [
     "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-starfall-legacy-2",
