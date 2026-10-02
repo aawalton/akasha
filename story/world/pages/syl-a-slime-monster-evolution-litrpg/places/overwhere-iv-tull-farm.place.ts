@@ -115,5 +115,25 @@ export const overwhereIvTullFarm = {
       fact: "The torch-bearers that night only watch and count Tull's guards; they withdraw before dawn.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At the horn's blast both torches go out at once, and nothing comes across the meadow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The two torch-bearers are goblin watchers; doused, they slip back into the Tangle.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At the horn Tull comes out with his cudgel, and Aldo, head bound, with a hayfork.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A horn carries about a mile on a still night; Hobb's, further off, does not hear it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nothing else stirs at Tull's the rest of that night.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
