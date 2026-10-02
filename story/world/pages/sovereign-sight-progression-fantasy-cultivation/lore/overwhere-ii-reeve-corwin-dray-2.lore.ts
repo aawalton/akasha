@@ -239,5 +239,21 @@ export const overwhereIiReeveCorwinDray2 = {
       fact: "On the march to the Ford, Dray shares the watch's bread, cheese and small beer with Nala.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Dray needs nothing more of Nala on the road, and bids her refine; the watch holds the prisoners.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At the Ford Dray will write the fight down for the Carrowmouth watch, and wants Nala's mark on it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray tells Nala Lady Varrow's man, Sir Edric Hale, comes within days to see the crag.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray wants Nala at the Ford when Sir Edric comes, to tell him of the crag and the pull herself.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
