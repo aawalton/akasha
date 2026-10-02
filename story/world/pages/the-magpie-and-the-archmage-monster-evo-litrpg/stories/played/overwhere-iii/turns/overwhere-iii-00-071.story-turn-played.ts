@@ -4,6 +4,7 @@ export const overwhereIii00071 = {
   id: "01a0fe73-0c08-76c4-b6ae-284039bb6f82",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-071",
+  cover: "image/image-92e69baf09ca3a28",
   ownLength: 139,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -34,6 +35,7 @@ export const overwhereIii00071 = {
     "place/overwhere-iii-merrowgate-guild-post",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-07T11:40:00.000Z",
+  coverAfter: '"Never heard of one rising in days." She taps her cane once on the floor,',
 } as const satisfies StoryTurnPlayed
