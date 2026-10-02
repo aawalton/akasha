@@ -76,5 +76,9 @@ export const overwhereIiiCleansingWeave = {
       fact: "Nala closed her Cleansing Weave in a loop on her first try, and has the knack now.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "A Cleansing Weave can pull blight from a living corrupted beast, as from a bite, while it fights.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
