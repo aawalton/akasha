@@ -73,5 +73,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Cutter's Quarry pit is an old cut 40 yards across and 15 feet deep, its back wall cut in galleries.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Crossing to the scrub, an unseen bowman's bolt struck Nala's thigh.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
