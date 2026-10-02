@@ -57,8 +57,12 @@ export const overwhereIiiMardaHesk2 = {
       ],
     },
     {
-      fact: "Marda reads Nala's palms as a plain burn, no blight in it, and names Brannagh's marigold salve.",
-      knowers: ["lore-disclosure/game-master"],
+      fact: "Turning Nala's palm to the light, Marda said, 'Hm. Burned clean, at least.' and 'Suit yourself.'",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
   ],
 } as const satisfies Lore
