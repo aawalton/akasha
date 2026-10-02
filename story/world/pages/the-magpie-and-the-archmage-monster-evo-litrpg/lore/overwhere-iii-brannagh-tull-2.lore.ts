@@ -223,7 +223,11 @@ export const overwhereIiiBrannaghTull2 = {
     },
     {
       fact: "The father asks if the healer can do aught about the fox; the post's bounty is beyond him.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "On day eight's morning a washerwoman off the slate waits, her forearm scalded and scarred years ago.",
