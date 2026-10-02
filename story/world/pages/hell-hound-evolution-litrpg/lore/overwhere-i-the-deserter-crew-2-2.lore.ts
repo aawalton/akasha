@@ -274,5 +274,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Voss fights with sword and shield; he carries no bow.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "When Nala sets out after him, Voss has about a quarter mile on her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
