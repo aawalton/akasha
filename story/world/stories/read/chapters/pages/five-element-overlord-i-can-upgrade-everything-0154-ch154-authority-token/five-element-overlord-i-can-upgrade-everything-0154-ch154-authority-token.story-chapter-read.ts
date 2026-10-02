@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0154Ch154AuthorityToken = {
   id: "01a0f9b7-98a6-746c-9ad4-556d02fdf7df",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0154-ch154-authority-token",
+  ownProgress: 1766,
   position: 154,
   publishedAt: "2026-10-01",
   unit: "unit/words",

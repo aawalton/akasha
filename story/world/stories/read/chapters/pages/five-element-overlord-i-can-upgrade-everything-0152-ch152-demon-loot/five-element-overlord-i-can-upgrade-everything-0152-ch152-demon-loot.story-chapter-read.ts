@@ -4,6 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0152Ch152DemonLoot = {
   id: "01a0ef69-aa7f-79fb-8a22-cfe0f6981f43",
   type: "page-type/story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0152-ch152-demon-loot",
+  ownProgress: 2180,
   position: 152,
   publishedAt: "2026-09-29",
   unit: "unit/words",

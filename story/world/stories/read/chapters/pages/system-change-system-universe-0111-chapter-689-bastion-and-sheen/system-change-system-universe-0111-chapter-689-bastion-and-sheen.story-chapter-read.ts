@@ -4,6 +4,7 @@ export const systemChangeSystemUniverse0111Chapter689BastionAndSheen = {
   id: "01a0efa2-77da-75be-bdb1-aab013729655",
   type: "page-type/story-chapter-read",
   slug: "system-change-system-universe-0111-chapter-689-bastion-and-sheen",
+  ownProgress: 2095,
   position: 111,
   publishedAt: "2026-09-29",
   unit: "unit/words",

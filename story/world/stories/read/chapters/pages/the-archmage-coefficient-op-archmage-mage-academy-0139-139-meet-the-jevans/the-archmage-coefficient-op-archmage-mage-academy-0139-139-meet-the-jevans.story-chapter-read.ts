@@ -4,6 +4,7 @@ export const theArchmageCoefficientOpArchmageMageAcademy0139139MeetTheJevans = {
   id: "01a0f981-6015-7e50-9915-6fca09f1f640",
   type: "page-type/story-chapter-read",
   slug: "the-archmage-coefficient-op-archmage-mage-academy-0139-139-meet-the-jevans",
+  ownProgress: 3391,
   position: 139,
   publishedAt: "2026-10-01",
   unit: "unit/words",
