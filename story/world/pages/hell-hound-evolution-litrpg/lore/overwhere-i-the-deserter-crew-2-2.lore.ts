@@ -300,7 +300,19 @@ export const overwhereITheDeserterCrew22 = {
     },
     {
       fact: "At dusk Voss sits under a rock overhang above the stream, sack by him, sword drawn, facing back.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-harl-voss",
+      ],
+    },
+    {
+      fact: "Under the overhang Voss props his shield upright before him, sword across his knees.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-harl-voss",
+      ],
     },
   ],
 } as const satisfies Lore
