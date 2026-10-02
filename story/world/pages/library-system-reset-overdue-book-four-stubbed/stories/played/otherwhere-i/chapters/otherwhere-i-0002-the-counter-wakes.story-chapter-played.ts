@@ -43,7 +43,7 @@ export const otherwhereI0002TheCounterWakes = {
     },
     {
       position: 56,
-      cover: "image/image-3e21cb376ed45729",
+      cover: "image/image-ea07a15e523ee8b3",
       coverAfter: "You squint at the faint mark on each cracked spine and start",
     },
     {
