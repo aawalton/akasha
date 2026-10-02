@@ -45,8 +45,10 @@ export const overwhereIi00066 = {
     "lore/overwhere-ii-bet-loddon",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-oswy-crake",
     "lore/overwhere-ii-reeve-corwin-dray-2",
     "place/overwhere-ii-ashlin-farm",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-14T18:30:00.000Z",
 } as const satisfies StoryTurnPlayed
