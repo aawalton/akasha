@@ -358,6 +358,10 @@ export const overwhereITheDeserterCrew = {
       fact: "A crewman struck down short of the pit is left where he falls; the rest do not turn back.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The quarry pit's lip is 60 yards off the road; the crew runs to it at about 7 yards a second.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
