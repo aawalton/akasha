@@ -154,5 +154,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "The camp's hill fold can be circled through pines to its rim above; quietly, that is moderate.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "From the bend, circling to the fold's rim above the camp takes about forty minutes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
