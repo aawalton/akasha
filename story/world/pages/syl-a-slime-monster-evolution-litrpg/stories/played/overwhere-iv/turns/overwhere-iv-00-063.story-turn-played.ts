@@ -10,7 +10,7 @@ export const overwhereIv00063 = {
   position: 63,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I slice it at the neck, careful to lead it correctly so it runs into to the slice and not past it. I hold the slice longer than normal so it’s momentum cuts it deep. I also brace my spear in its direction",
   beats: [
@@ -35,6 +35,6 @@ export const overwhereIv00063 = {
     "lore/overwhere-iv-nala-3",
     "place/overwhere-iv-crake-gill",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-04T14:41:00.000Z",
 } as const satisfies StoryTurnPlayed
