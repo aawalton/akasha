@@ -133,7 +133,7 @@ export const overwhereIiSirEdricHale = {
     },
     {
       fact: "Sir Edric warns Nala that Lady Varrow is cold of manner, but never forgets a debt.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray wrote Sir Edric that Nala found a crag split open, with something pulling under it.",
