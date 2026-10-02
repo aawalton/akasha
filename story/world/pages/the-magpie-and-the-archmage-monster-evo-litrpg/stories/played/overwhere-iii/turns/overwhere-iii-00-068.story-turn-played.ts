@@ -45,5 +45,6 @@ export const overwhereIii00068 = {
     "lore/overwhere-iii-nala-2-2",
     "place/overwhere-iii-crook-and-candle",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-07T10:30:00.000Z",
 } as const satisfies StoryTurnPlayed
