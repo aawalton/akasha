@@ -288,5 +288,13 @@ export const overwhereIiNala2 = {
       fact: "With all her bone refined, Nala's step sounds heavier on boards, though she moves as lightly.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At noon Nala sets off down the valley road with Bet, the cold-iron spear on her shoulder.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "On the road to Ashlin Farm, Nala watches the hedges and the road ahead and sees no one.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
