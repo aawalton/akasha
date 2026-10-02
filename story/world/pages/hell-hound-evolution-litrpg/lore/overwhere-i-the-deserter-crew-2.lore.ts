@@ -258,5 +258,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Circling the rim through pines and loose stone takes 3 minutes; quietly, thigh and all, is moderate.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The east rim passes the goat path's top; Crow's stand lies off the west side, away from it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
