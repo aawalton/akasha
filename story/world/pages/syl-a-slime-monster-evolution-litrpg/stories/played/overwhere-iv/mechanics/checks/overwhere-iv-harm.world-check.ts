@@ -53,6 +53,14 @@ export const overwhereIvHarm = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A foe charging onto a braced point takes the blow as heavy too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A held rend a foe runs into neck first is vital, as a rend laid clean through.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A Rift Rend laid along her own weapon and landed at a cost shears the weapon too.",
     },
