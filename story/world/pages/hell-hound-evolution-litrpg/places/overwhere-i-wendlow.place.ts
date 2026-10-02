@@ -20,7 +20,7 @@ export const overwhereIWendlow = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Travellers pay a gate toll of two copper each, and a copper more for each cart wheel.",
+      fact: "Travellers pay a gate toll of a copper each, and a copper more for each cart wheel.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
