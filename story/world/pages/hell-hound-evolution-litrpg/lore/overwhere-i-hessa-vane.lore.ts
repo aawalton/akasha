@@ -176,6 +176,10 @@ export const overwhereIHessaVane = {
         "lore/overwhere-i-tobin-ashdown",
       ],
     },
+    {
+      fact: "Hessa takes 'I don't care who comes' as plain enough, and lets Tobin go to Wendlow with Nala.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
