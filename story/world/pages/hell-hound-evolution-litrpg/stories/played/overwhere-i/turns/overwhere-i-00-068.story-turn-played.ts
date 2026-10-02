@@ -10,7 +10,7 @@ export const overwhereI00068 = {
   position: 68,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“He’ll be safe enough as long as he’s with me. If he runs off in his own though, that’s on him.” I tell Bet, then take a bath before bed.",
   beats: [
@@ -41,6 +41,6 @@ export const overwhereI00068 = {
     "lore/overwhere-i-tobin-ashdown",
     "place/overwhere-i-greyback-and-east-road",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-03T15:00:00.000Z",
 } as const satisfies StoryTurnPlayed
