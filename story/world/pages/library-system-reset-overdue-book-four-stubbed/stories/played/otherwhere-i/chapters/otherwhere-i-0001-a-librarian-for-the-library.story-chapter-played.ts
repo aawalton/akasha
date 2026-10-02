@@ -203,7 +203,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 39,
-      cover: "image/image-2256843dc3e4b115",
+      cover: "image/image-f81d8f9a62e6134d",
       coverAfter: "The corridor opens on a long, warm kitchen. Copper pots hang overhead.",
     },
     {
