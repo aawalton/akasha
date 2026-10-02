@@ -173,6 +173,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "At Ketter's Well, Osric and Tobin sleep by the cart with the cask; they roll on east at 6:00.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Fresh mule hoofprints and cart ruts run east in the road's dust below Cutter's Quarry.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

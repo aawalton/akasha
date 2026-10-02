@@ -101,5 +101,9 @@ export const overwhereITheDeserterCrew222 = {
       fact: "Nala's twin eye beams killed the crew Drakewolf in the gallery mouth; they dazzled her a moment.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Nala took the ear and tag of Four and Blademen One and Two; every crewman's is now in her sack.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
