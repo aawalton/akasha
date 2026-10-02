@@ -292,6 +292,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Tobin, Osric, the cart, the mule and the cask are behind Nala, outside her burst's half-circle.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "If two of the blademen burn, the rest whistle three times and break for the pit, Voss with them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
