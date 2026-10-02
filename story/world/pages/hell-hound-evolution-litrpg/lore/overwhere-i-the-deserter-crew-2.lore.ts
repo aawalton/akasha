@@ -150,5 +150,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Voss takes the toll silver with him up the goat path.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Blademen One and Two, too badly burned to climb, are left behind in the galleries.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
