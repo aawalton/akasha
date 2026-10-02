@@ -104,5 +104,9 @@ export const overwhereIiiNala22 = {
       fact: "Nala's second Mending Weave on her palms dragged and woke a dull throb in her temples.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Nala holds five glimmerstones in her Inventory: her three, the shrine-pressed one, the wolf's.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
+    },
   ],
 } as const satisfies Lore
