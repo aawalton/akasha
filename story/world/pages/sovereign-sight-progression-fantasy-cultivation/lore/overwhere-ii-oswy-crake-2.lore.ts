@@ -101,7 +101,7 @@ export const overwhereIiOswyCrake2 = {
     },
     {
       fact: "Speared through the neck, Crake dies in moments, and his reservoir spills out as cold brine.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Crake keeps his chin tucked to his ring coat in a fight; the neck is a narrow mark.",
