@@ -34,7 +34,7 @@ export const overwhereIiiBraidWeaving = {
     },
     {
       fact: "[Braid Weaving – At [Basic] level, ride a weave out along a lent current.]",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Once a braid has held cleanly, the knack stays; later braids close as easily as plain weaves.",
