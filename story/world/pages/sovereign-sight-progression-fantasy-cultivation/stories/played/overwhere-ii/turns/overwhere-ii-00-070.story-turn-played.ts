@@ -4,6 +4,7 @@ export const overwhereIi00070 = {
   id: "01a0fdac-2d5c-7161-b844-89acb0968056",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-070",
+  cover: "image/image-bf01d5ff74c2ae3f",
   ownLength: 248,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
@@ -33,6 +34,7 @@ export const overwhereIi00070 = {
     "Wil: \"I know which cellar. I'll tell it, Reeve, if it buys my brother's life and mine.\"",
   ],
   lore: [
+    "lore/overwhere-ii-bet-loddon",
     "lore/overwhere-ii-loddon-brothers",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",
@@ -40,6 +42,6 @@ export const overwhereIi00070 = {
     "lore/overwhere-ii-reeve-corwin-dray-2",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-14T18:42:00.000Z",
 } as const satisfies StoryTurnPlayed
