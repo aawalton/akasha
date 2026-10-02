@@ -90,19 +90,19 @@ export const overwhereIvRaidersStream = {
     },
     {
       fact: "The LV 5 crouches behind an alder fifteen paces from her, hidden, clutching a club.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The LV 3 and LV 2 from the fire flee downstream toward the camp, out of sight in the alders.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The sheep-watcher hides flat among the tied sheep, too scared to run.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "A step or two to one side clears the alders off any hidden raider, and she sees it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The fleeing pair pass out of her forty paces within a few breaths unless she follows.",
@@ -111,6 +111,10 @@ export const overwhereIvRaidersStream = {
     {
       fact: "A raider that reaches the camp brings Grakk word of a black line that kills unseen.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala's rend cut the hobgoblin's throat before he blew; his horn lies silent in the mud.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Place

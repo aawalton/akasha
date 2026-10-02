@@ -273,5 +273,9 @@ export const overwhereIvNala2 = {
       fact: "Reached for at the raiders' stream, Nala's Spatial Sense spread out to forty paces.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Nala's Rift Rend killed the LV 9 hobgoblin and three raiders, LV 5, 3 and 2, at the stream.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore
