@@ -81,4 +81,5 @@ export const hollowmere0011ClothedToStart = {
     "character-other/hollowmere-yusra",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/inventory"],
 } as const satisfies StoryChapterWritten
