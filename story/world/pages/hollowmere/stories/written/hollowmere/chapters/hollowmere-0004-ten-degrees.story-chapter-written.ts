@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0004 = {
+export const hollowmere0004TenDegrees = {
   id: "01a0fd96-b034-7b7c-8a05-416f56e7e0d3",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0004",
+  slug: "hollowmere-0004-ten-degrees",
   position: 4,
   unit: "unit/words",
-  title: "Chapter 4",
+  title: "Ten Degrees",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 5673,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Thursday: you wake at six, before Bea's knock, with Shiv's \"some morning\" in your head.",
     "You pull on the fisherman's jumper over your knickers and bra and creep down to the shore.",
@@ -63,9 +63,26 @@ export const hollowmere0004 = {
     "A day at Hollowmere ends.",
   ],
   lore: [
+    "lore/hollowmere-amara",
+    "lore/hollowmere-bea",
+    "lore/hollowmere-kit",
+    "lore/hollowmere-lin",
     "lore/hollowmere-nala",
+    "lore/hollowmere-priya",
+    "lore/hollowmere-shiv",
     "lore/hollowmere-world",
+    "lore/hollowmere-yusra",
     "place/hollowmere-academy",
     "place/hollowmere-thornfield-house",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-shiv",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-kit",
+    "character-other/hollowmere-amara",
+    "character-other/hollowmere-priya",
+    "character-other/hollowmere-lin",
+    "character-other/hollowmere-yusra",
   ],
 } as const satisfies StoryChapterWritten
