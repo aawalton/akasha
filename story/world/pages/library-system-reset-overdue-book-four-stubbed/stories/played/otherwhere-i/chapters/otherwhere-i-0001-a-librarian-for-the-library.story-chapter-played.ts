@@ -83,7 +83,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 15,
-      cover: "image/image-5bfb5f6205e40ba9",
+      cover: "image/image-5922c354e6b2ffef",
       coverAfter: "It's easy to hold. The skin there is like coarse sandpaper under",
     },
     {
