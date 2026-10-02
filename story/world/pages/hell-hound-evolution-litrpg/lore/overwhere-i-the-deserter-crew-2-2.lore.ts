@@ -75,5 +75,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Once they loose, Crow and Five show in the pines 25 to 30 yards from her on the track.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Crow and the helmed crossbowman lay in ambush in the pines, 25 yards off the track at the bend.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
