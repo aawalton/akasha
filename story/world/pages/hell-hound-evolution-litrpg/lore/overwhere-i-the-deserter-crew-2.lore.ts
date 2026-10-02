@@ -300,5 +300,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Crow walks rearguard, stopping in cover to watch the back trail; spotting him first is hard.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Blademen One and Two, Levels 10 and 12, are bareheaded; their heads have no ward.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
