@@ -96,5 +96,6 @@ export const overwhereITheDeserterCrew222 = {
       fact: "The Drakewolf only growls until she moves closer or strikes; it does not lunge first.",
       knowers: ["lore-disclosure/game-master"],
     },
+    { fact: "Nothing else stirs at the quarry tonight.", knowers: ["lore-disclosure/game-master"] },
   ],
 } as const satisfies Lore
