@@ -1005,6 +1005,9 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/personas/lore/the-tower-the-welcomer-01.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/personas/lore/the-tower-the-welcomers-pair-01.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/personas/lore/the-violet-hour-natalie.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/salt-and-lamplight/lore/salt-and-lamplight-morwenna.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/salt-and-lamplight/lore/salt-and-lamplight-nala.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/salt-and-lamplight/lore/salt-and-lamplight-world.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/sovereign-sight-progression-fantasy-cultivation/lore/overwhere-ii-aberrants.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/sovereign-sight-progression-fantasy-cultivation/lore/overwhere-ii-adhira.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/sovereign-sight-progression-fantasy-cultivation/lore/overwhere-ii-anita-kell.lore.ts","typed":true,"deferred":false}
