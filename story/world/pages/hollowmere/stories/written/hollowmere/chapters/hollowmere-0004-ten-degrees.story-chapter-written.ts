@@ -62,6 +62,10 @@ export const hollowmere0004TenDegrees = {
     "You lie still, the radiator knocking, her warmth all down your side, and let her stay.",
     "A day at Hollowmere ends.",
   ],
+  issues: [
+    '"her small tits tight-nippled, the sandy tuft over her cunt" - Hollowmere Explicitness',
+    '"between her small tits. You watch it go." - Hollowmere Explicitness',
+  ],
   lore: [
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",
@@ -85,4 +89,5 @@ export const hollowmere0004TenDegrees = {
     "character-other/hollowmere-lin",
     "character-other/hollowmere-yusra",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
