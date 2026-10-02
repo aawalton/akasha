@@ -51,7 +51,7 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "When stone first bursts in the pit, Voss shouts for parley from behind the stone.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Voss offers free road for Osric and all Fenwatch carts for good, and the toll silver he holds.",
