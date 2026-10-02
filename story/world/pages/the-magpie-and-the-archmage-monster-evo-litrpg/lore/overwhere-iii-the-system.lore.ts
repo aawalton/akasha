@@ -178,7 +178,11 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "Two skills or two traits of like level may be fused for good; skills never fuse with traits.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "A fusion is irreversible and shows its success rate; using the pair together in battle raises it.",
