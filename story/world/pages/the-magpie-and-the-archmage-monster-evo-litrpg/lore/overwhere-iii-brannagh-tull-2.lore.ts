@@ -109,5 +109,9 @@ export const overwhereIiiBrannaghTull2 = {
       fact: "The drover with the burned forearm is first on Brannagh's slate, and comes by each morning.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
+    {
+      fact: "On day six's morning Brannagh's bench had nothing fresh; the drover waited and nodded.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+    },
   ],
 } as const satisfies Lore
