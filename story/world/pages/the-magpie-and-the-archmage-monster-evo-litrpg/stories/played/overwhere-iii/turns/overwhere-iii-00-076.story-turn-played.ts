@@ -7,8 +7,16 @@ export const overwhereIii00076 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 76,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "“I’m not sure”, I hold them out. “I feel like they’ll heal fine though.",
+  beats: [
+    '"I\'m not sure." Nala holds her hands out, palms up. "I feel like they\'ll heal fine though."',
+    "Marda takes one wrist and turns the palm to the window light. Her grip is dry and careful.",
+    "The skin is pink and tight, like a scald off a hot pan, but nowhere blistered or broken.",
+    '"Hm." She lets go. "Burned clean, at least."',
+    'She looks at Nala a moment longer, then back down at her ledger. "Suit yourself."',
+    "Her pen scratches. Outside, the afternoon light lies long and gold across the Post's step.",
+  ],
   lore: [
     "lore/overwhere-iii-marda-hesk",
     "lore/overwhere-iii-marda-hesk-2",
