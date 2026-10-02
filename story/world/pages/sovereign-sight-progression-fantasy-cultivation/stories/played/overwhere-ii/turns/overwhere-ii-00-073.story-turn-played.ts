@@ -10,7 +10,7 @@ export const overwhereIi00073 = {
   position: 73,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I let Dray take the lead here.",
   beats: [
     "Nala steps back and lets Dray take the lead.",
@@ -39,6 +39,11 @@ export const overwhereIi00073 = {
     'Dray: "By law this goes to the watch. But this came out of Talents like you and me."',
     'Dray: "You\'ve earned a say in it. What would you have done with it?"',
   ],
+  issues: [
+    '"Nobody hangs a boy of thirteen." - Nobody Acts',
+    '"Nobody kills him." - Nobody Acts',
+    '"Nobody\'s hanging you," - Nobody Acts',
+  ],
   lore: [
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",
@@ -47,6 +52,6 @@ export const overwhereIi00073 = {
     "lore/overwhere-ii-reeve-corwin-dray-2",
     "place/overwhere-ii-grey-shaw",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-14T22:15:00.000Z",
 } as const satisfies StoryTurnPlayed
