@@ -68,6 +68,7 @@ export const hollowmere0016WhoseWanting = {
     "You fall asleep with the essay on your chest and the question still open.",
     "A day at Hollowmere ends.",
   ],
+  issues: ['"Tell no one," Amara says. - Plain Negation'],
   lore: [
     "lore/hollowmere-academy-2",
     "lore/hollowmere-amara",
@@ -93,4 +94,5 @@ export const hollowmere0016WhoseWanting = {
     "character-other/hollowmere-amara",
     "character-other/hollowmere-yusra",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
