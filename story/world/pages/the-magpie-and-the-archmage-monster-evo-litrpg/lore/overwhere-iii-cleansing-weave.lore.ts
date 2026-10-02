@@ -80,5 +80,9 @@ export const overwhereIiiCleansingWeave = {
       fact: "A Cleansing Weave can pull blight from a living corrupted beast, as from a bite, while it fights.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A Level 5 beast's blight is deep: about four pulls, each the weave's 3 mana, to draw it all.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
