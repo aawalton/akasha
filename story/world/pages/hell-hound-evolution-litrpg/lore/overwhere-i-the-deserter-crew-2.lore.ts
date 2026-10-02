@@ -43,7 +43,7 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "Scrub and boulders give cover from the road to 25 yards of the pit's lip; the last 25 are open.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "The two crossbowmen on the lip loose at her once she is out of cover; Crow keeps on from the trees.",
