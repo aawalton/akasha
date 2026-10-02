@@ -156,11 +156,11 @@ export const overwhereITheDeserterCrew22 = {
     },
     {
       fact: "From the bend, circling to the fold's rim above the camp takes about forty minutes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "The camp fold lies north-east; circling north, Nala comes to its rim from the north-west.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Below the rim lie a turf hut, a smoky fire and four charcoal mounds facing the track.",
@@ -180,6 +180,14 @@ export const overwhereITheDeserterCrew22 = {
     },
     {
       fact: "Nala took Five's short sword at the bend.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Nala drove Five's short sword through the dead necks of Five and Crow at the bend.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Nala lies flat in the pines on the fold's rim, 30 yards above the camp, sword in hand.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
