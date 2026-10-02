@@ -11,4 +11,5 @@ export const overwhereIv00052 = {
   action:
     "“I’ll be careful.” I follow the directions and start tracking the goblins, focused on stealth and my spacial sense as well as my eyes, so I can spot them even in hiding. As soon as I detect them, I start slicing, prioritizing the ones that can threaten me first, range attacks, close threats, and the hobgoblin.",
   lore: ["place/overwhere-iv-raiders-stream"],
+  endsAt: "2026-10-03T11:01:00.000Z",
 } as const satisfies StoryTurnPlayed
