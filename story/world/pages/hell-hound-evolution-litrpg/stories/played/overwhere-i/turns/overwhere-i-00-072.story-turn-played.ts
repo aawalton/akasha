@@ -4,10 +4,21 @@ export const overwhereI00072 = {
   id: "01a0fd64-2985-798d-8eb2-ff8de9ffacbd",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-072",
+  ownLength: 208,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 72,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-i-nala",
+    "character-other/overwhere-i-harl-voss",
+    "character-other/overwhere-i-quarry-crewman-one",
+    "character-other/overwhere-i-quarry-crewman-two",
+    "character-other/overwhere-i-quarry-crewman-three",
+    "character-other/overwhere-i-quarry-crewman-four",
+    "character-other/overwhere-i-quarry-crewman-five",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "Now that they’ve helpfully put themselves in an enclosed area, I attune Fire and Earth and start superheating the surface stone of the quarry until it starts exploding or melting into lava, slowly working my way closer.",
   beats: [
@@ -23,6 +34,8 @@ export const overwhereI00072 = {
     "He offers free road for Osric and every Fenwatch cart, for good, and the toll silver he holds.",
   ],
   lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
     "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-starfall-legacy-2",
     "lore/overwhere-i-the-deserter-crew",
