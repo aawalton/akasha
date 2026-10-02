@@ -4,10 +4,13 @@ export const overwhereIi00065 = {
   id: "01a0fd6d-23fe-7978-80c5-e7551acadcbe",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-065",
+  ownLength: 204,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 65,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "“Gladly. I’ll bring me new spear, can’t be too safe with the wolves around.” I say with an eager grin.",
   beats: [
@@ -28,6 +31,8 @@ export const overwhereIi00065 = {
   ],
   lore: [
     "lore/overwhere-ii-bet-loddon",
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
     "lore/overwhere-ii-oswy-crake",
     "lore/overwhere-ii-reeve-corwin-dray-2",
     "place/overwhere-ii-ashlin-farm",
