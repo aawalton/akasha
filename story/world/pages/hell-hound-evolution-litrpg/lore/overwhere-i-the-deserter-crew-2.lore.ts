@@ -182,5 +182,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Crossbows from the galleries have no line on her behind the boulders; they loose to keep her down.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "From her cover only the gallery mouths show, 60 yards off; no man shows longer than a heartbeat.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
