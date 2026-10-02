@@ -27,6 +27,7 @@ interface DisplayFrameProps {
     readonly ref: RefObject<HTMLElement | null>
     readonly renderTrigger: unknown
     readonly forcePinSignal?: unknown
+    readonly once?: boolean
   } | null
   readonly children: ReactNode
 }
@@ -48,6 +49,7 @@ export function DisplayFrame({
     renderTrigger: followAnchor?.renderTrigger,
     forcePinSignal: followAnchor?.forcePinSignal,
     mode: followMode,
+    once: followAnchor?.once === true,
   })
 
   const handleCanvasClick = useCallback(

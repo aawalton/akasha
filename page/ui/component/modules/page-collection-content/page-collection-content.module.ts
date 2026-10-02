@@ -19,5 +19,9 @@ export const pageCollectionContent = {
       decisionKind: "decision-kind/departure",
       statement: "A page type stating a detail frame has its collection page drawn in that frame.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A collection page opened at its end lets go of the end once the reader moves.",
+    },
   ],
 } as const satisfies Module

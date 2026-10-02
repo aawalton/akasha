@@ -14,7 +14,10 @@ interface UseFollowAnchorArgs {
   readonly renderTrigger: unknown
   readonly forcePinSignal?: unknown
   readonly mode: FrameFollowMode | null
+  readonly once?: boolean
 }
+
+const READER_MOVES = ["wheel", "touchstart", "keydown"] as const
 
 interface UseFollowAnchorResult {
   readonly showJumpToLatest: boolean
@@ -26,9 +29,22 @@ export function useFollowAnchor({
   renderTrigger,
   forcePinSignal,
   mode,
+  once = false,
 }: UseFollowAnchorArgs): UseFollowAnchorResult {
   const enabled = mode !== null
   const pinnedRef = useRef(true)
+  const releasedRef = useRef(false)
+
+  useEffect(() => {
+    if (!once) return
+    const release = () => {
+      releasedRef.current = true
+    }
+    for (const one of READER_MOVES) window.addEventListener(one, release, { passive: true })
+    return () => {
+      for (const one of READER_MOVES) window.removeEventListener(one, release)
+    }
+  }, [once])
   const [showJumpToLatest, setShowJumpToLatest] = useState(false)
   const mountedRef = useRef(false)
 
@@ -89,13 +105,13 @@ export function useFollowAnchor({
       scrollToAnchor()
       return
     }
-    if (pinnedRef.current) scrollToAnchor()
+    if (pinnedRef.current && !releasedRef.current) scrollToAnchor()
   }, [renderTrigger, enabled, mode, scrollToAnchor])
 
   useEffect(() => {
     if (!enabled || mode === "top") return
     const grown = new ResizeObserver(() => {
-      if (pinnedRef.current) scrollToAnchor()
+      if (pinnedRef.current && !releasedRef.current) scrollToAnchor()
     })
     grown.observe(document.body)
     return () => grown.disconnect()

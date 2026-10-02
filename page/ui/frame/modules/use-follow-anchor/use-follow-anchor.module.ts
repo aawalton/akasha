@@ -15,5 +15,10 @@ export const useFollowAnchor = {
       decisionKind: "decision-kind/departure",
       statement: "A scroll held at the end stays there as what is above it grows.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page held only once lets go for good at the reader's first scroll, touch or key.",
+    },
   ],
 } as const satisfies Module

@@ -197,7 +197,7 @@ export function PageCollectionContent({
     <DisplayFrame
       config={frame}
       header={frameHeader}
-      followAnchor={{ ref: endRef, renderTrigger: page }}
+      followAnchor={{ ref: endRef, renderTrigger: page, once: true }}
     >
       {drawn}
       <div ref={endRef} />
