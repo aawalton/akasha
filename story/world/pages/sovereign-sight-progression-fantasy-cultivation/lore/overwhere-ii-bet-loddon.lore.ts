@@ -73,7 +73,7 @@ export const overwhereIiBetLoddon = {
     },
     {
       fact: "Bet swears to Nala she will not give the trap away; her hands still shake.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "On the road Bet asks Nala, low, whether her brothers will hang.",
