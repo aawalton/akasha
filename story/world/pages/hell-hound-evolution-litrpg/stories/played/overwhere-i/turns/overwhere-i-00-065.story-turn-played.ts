@@ -4,13 +4,14 @@ export const overwhereI00065 = {
   id: "01a0fd0f-37a9-74a8-b167-c89cd85875d3",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-065",
+  cover: "image/image-dc86350d7a9c5d1c",
   ownLength: 203,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 65,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "We take the head back to the village.",
   beats: [
     "They haul the sled back through the Greyfen, Nala and Rowan taking turns on the rope.",
@@ -43,6 +44,11 @@ export const overwhereI00065 = {
     "place/overwhere-i-the-greyfen",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-02T17:00:00.000Z",
 } as const satisfies StoryTurnPlayed
