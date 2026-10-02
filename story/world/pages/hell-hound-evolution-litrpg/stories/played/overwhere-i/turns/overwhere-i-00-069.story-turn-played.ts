@@ -7,9 +7,21 @@ export const overwhereI00069 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 69,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I attune Earth and Air and start hitting Voss and his men with precision bullet shots to the forehead, guiding each shot all the way to landing to ensure it hits. I keep a second air attunement ready to pull any projectiles of course so they don’t injure us.",
+  beats: [
+    "Nala wills earth and air together and spins a grooved slug, a second air working held ready.",
+    "Voss stands eight yards off, still, his eyes on the cask; his men stand six to twelve yards out.",
+    "She sends the slug at Voss's forehead and holds it on its path the whole way.",
+    "It cracks into his steel cap above the brow and snaps his head back; blood runs down his face.",
+    "Voss stays on his feet; his shield comes up and he roars and charges.",
+    "At the crack, Osric dives under his cart.",
+    "Someone slips the Drakewolf's leash, and it streaks at Nala.",
+    "She twists aside too late; its jaws close on her forearm and it drags her down onto the road.",
+    "Two of the five raise crossbows; the other three draw blades and come on.",
+    "Voss is two strides away, axe high, with the Drakewolf's teeth locked in her arm.",
+  ],
   lore: [
     "lore/overwhere-i-starfall-legacy",
     "lore/overwhere-i-starfall-legacy-2",
