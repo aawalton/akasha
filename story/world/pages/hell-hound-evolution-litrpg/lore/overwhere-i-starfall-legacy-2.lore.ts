@@ -28,5 +28,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Nala's air-and-water skim carries only herself; it cannot bear another person.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A guided slug is held on its path within 30 yards: one band easier, for 10 more mana.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
