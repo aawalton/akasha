@@ -125,7 +125,7 @@ export const overwhereIiSirEdricHale = {
     },
     {
       fact: "Sir Edric is glad Nala will come; they leave the Ford together at dawn, he riding, she on foot.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Sir Edric reckons they reach the Keep before the gate is barred at dusk, keeping a steady pace.",
