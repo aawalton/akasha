@@ -244,6 +244,10 @@ export const overwhereIiiWrenwood = {
       fact: "Snowroot is a white finger-thick root under frost-browned leaves on the Wren Brook banks.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The blighted boar, Level 14, roams the wood's edge between the south road and the Wren Brook ford.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
