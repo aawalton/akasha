@@ -10,4 +10,5 @@ export const overwhereI00095 = {
   stepStatus: "step-status/game-master",
   action: "“I’ll take all three”",
   lore: ["place/overwhere-i-greyback-and-east-road"],
+  endsAt: "2026-10-05T11:30:00.000Z",
 } as const satisfies StoryTurnPlayed
