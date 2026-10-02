@@ -4,10 +4,18 @@ export const overwhereIii00054 = {
   id: "01a0fd67-c171-7702-a42c-0ea9e0bee01d",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-054",
+  ownLength: 126,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 54,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iii-nala",
+    "character-other/overwhere-iii-ivy-marsh",
+    "character-other/overwhere-iii-huw-tarrant",
+    "character-other/overwhere-iii-marda-hesk",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "“Thanks Ivy” I go rest at the shrine, then back to the Post. “How many blightstones left to cleanse here?”",
   beats: [
@@ -22,8 +30,11 @@ export const overwhereIii00054 = {
   ],
   lore: [
     "lore/overwhere-iii-corruption",
+    "lore/overwhere-iii-huw-tarrant",
     "lore/overwhere-iii-ivy-marsh",
     "lore/overwhere-iii-marda-hesk",
+    "lore/overwhere-iii-nala",
+    "lore/overwhere-iii-nala-2",
     "place/overwhere-iii-merrowgate-guild-post",
     "place/overwhere-iii-wrenwood-crossroads",
   ],
