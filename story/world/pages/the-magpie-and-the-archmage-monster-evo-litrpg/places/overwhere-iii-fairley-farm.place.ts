@@ -18,7 +18,11 @@ export const overwhereIiiFairleyFarm = {
   facts: [
     {
       fact: "Fairley Farm lies three miles east of Merrowgate on the Thornmere road, an hour's walk.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-oswin-fairley"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-oswin-fairley",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "It is a low stone farmhouse, a cow byre, a wattle hen-house, and barley fields gone to stubble.",
