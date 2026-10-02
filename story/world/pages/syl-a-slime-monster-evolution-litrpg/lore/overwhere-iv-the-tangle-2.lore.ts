@@ -112,5 +112,9 @@ export const overwhereIvTheTangle2 = {
       fact: "The slingers stop throwing once their own six are in the brambles, for fear of hitting them.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's rends killed both scouts, LV 4 and LV 3, silently at the foot of her bank.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore
