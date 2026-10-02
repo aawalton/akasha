@@ -4,13 +4,14 @@ export const hollowmere0016WhoseWanting = {
   id: "01a0fef5-86f3-7edc-97c4-f6439ff07560",
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0016-whose-wanting",
+  cover: "image/image-b22c5fa022c5091b",
   position: 16,
   unit: "unit/words",
   title: "Whose Wanting?",
   story: "story-written/hollowmere",
   ownLength: 2974,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "Tuesday: frost on the shingle at dawn; you and Shiv swim to the buoy and back through the steam.",
     "The red-cheeked second-year reads out your time: five minutes. Shiv whistles, impressed.",
@@ -98,5 +99,19 @@ export const hollowmere0016WhoseWanting = {
     "character-other/hollowmere-yusra",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
+  scenes: ["image/image-b22c5fa022c5091b"],
+  pictured: [
+    {
+      cover: "image/image-b22c5fa022c5091b",
+      coverAfter:
+        "At the break you slip out to the bathroom along the corridor from the Long Room.",
+      setting: "the bathroom by the Long Room",
+    },
+  ],
 } as const satisfies StoryChapterWritten
