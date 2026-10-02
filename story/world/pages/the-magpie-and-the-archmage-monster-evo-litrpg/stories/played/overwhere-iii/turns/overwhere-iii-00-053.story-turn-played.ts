@@ -15,7 +15,7 @@ export const overwhereIii00053 = {
     "character-other/overwhere-iii-ivy-marsh",
     "character-other/overwhere-iii-huw-tarrant",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“I'll go find him, since he was first in line, don’t mind some exploring today.” I go find the drover to heal the burn.",
   beats: [
@@ -45,6 +45,6 @@ export const overwhereIii00053 = {
     "lore/overwhere-iii-nala-2",
     "place/overwhere-iii-merrowgate",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-04T14:10:00.000Z",
 } as const satisfies StoryTurnPlayed
