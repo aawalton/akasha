@@ -164,5 +164,9 @@ export const overwhereIWendlow = {
       fact: "Grete Holm is a lean grey woman with a hunter's scarred hands; she keeps the Board's strongbox.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A woman carrying a cask on her shoulder up the high street draws stares and a following of boys.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
