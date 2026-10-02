@@ -10,5 +10,14 @@ export const hollowmere0001 = {
   story: "story-written/hollowmere",
   ownLength: 0,
   prose: "txt",
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
+  lore: [
+    "lore/hollowmere-bea",
+    "lore/hollowmere-kit",
+    "lore/hollowmere-nala",
+    "lore/hollowmere-world",
+    "lore/hollowmere-yusra",
+    "place/hollowmere-academy",
+    "place/hollowmere-thornfield-house",
+  ],
 } as const satisfies StoryChapterWritten
