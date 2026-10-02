@@ -10,7 +10,7 @@ export const overwhereIv00071 = {
   position: 71,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Sorry, but no. You’re a good group, but I’d like to work on my own for now. Thank you for the offer.” I go over to Ilsa. “I can do a night watch tonight.”",
   beats: [
@@ -19,7 +19,7 @@ export const overwhereIv00071 = {
     'Nala goes to the counter. "I can do a night watch tonight."',
     'Ilsa writes it in. "Tull\'s, then. He knows you, and he was raided last."',
     '"Dusk to dawn. Three silver, paid in the morning." She sets a cow horn on the counter.',
-    '"If they come, blow it, so the farm wakes. You guard the farm. Nobody follows goblins in by night."',
+    '"If they come, blow it, so the farm wakes. Guard the farm, and don\'t follow goblins in by night."',
     "Nala walks the two miles south-west as the sun sinks. Tull is at the fold gate, cudgel in hand.",
     "He looks glad to see a face he knows. He gives her the corner of the fold, and a lantern, unlit.",
     "Dusk settles. Across the ford, two hundred paces of open meadow run to the black edge of the Tangle.",
