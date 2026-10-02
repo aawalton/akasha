@@ -128,6 +128,14 @@ export const overwhereIiReeveCorwinDray2 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
+      fact: "Under the Reeve's law robbers hang; one who yields and names his master may go to the mines.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray would speak for a Loddon who yields, for Nala's sake, but the choice is Lady Varrow's.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Dray's signal that he is at the barn's back wall is a single crow's caw from the gully.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
