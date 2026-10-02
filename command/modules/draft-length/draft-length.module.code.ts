@@ -8,6 +8,7 @@ import {
   exemptIn,
   reasonsIn,
 } from "akasha/check/code/pages/file-length/file-length.check-code.decision.code.ts"
+import { unanchoredAfter } from "akasha/command/modules/cover-anchoring/cover-anchoring.module.code.ts"
 import { unparsedAfter } from "akasha/command/modules/draft-parsing/draft-parsing.module.code.ts"
 import {
   type Judge,
@@ -74,5 +75,6 @@ export function draftFaults(
   return [
     ...bodyFaults(bodyOf, rows, asked, judgesOver(root, index)),
     ...definingRefused(index, bodyOf, page, asked),
+    ...unanchoredAfter(bodyOf, rows, asked),
   ]
 }

@@ -27,7 +27,7 @@ Edit it, alone on its line:
 
 The edit or the render lands the image page itself and names it: `landed the image page image-…` or `the image page image-… was already there`. Where it is refused because nothing answers, run `akasha inference zimage-up` alone on its line and run it once more. Where that is refused too, record nothing and advance.
 
-Draft `cover: "image/<that image slug>"` onto the turn page with `akasha change apply --draft`, and land nothing yourself. Your own advance lands your edit.
+Draft `cover: "image/<that image slug>"` and `coverAfter: "<opening words>"` onto the turn page with `akasha change apply --draft`, and land nothing yourself. `coverAfter` is the first twelve or so words of the prose paragraph your moment ends on, quoted exactly, so the picture is drawn right after it. Your own advance lands your edit.
 
 **A written chapter** gets one picture for each thing its story shows there for the first time: each character, each outfit a character is seen in, and each setting a scene is set in. What the story has pictured already is every `pictured` record the earlier chapters in the chapter's folder state; read them all first. Then go through the chapter's prose in order and picture, at the passage that first shows it:
 

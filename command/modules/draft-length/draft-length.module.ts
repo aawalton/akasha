@@ -37,6 +37,10 @@ export const draftLength = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A drafting run asks here whether a new turn cover it drafts states its words.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A drafting run asks here whether each page it changes still matches its type.",
     },
     {

@@ -275,6 +275,7 @@
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/change-running/change-running.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/change-running/change-running.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/change-running/change-running.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/cover-anchoring/cover-anchoring.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/draft-keeping/draft-keeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/draft-length/draft-length.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/draft-length/draft-length.module.test.ts","typed":true,"deferred":false}

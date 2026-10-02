@@ -43,6 +43,7 @@ export const command = {
     "module/commit-attribution",
     "module/commit-author",
     "module/complexity-rowing",
+    "module/cover-anchoring",
     "module/draft-keeping",
     "module/draft-length",
     "module/draft-parsing",
