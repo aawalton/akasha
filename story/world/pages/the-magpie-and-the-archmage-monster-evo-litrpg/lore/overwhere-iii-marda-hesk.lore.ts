@@ -394,7 +394,11 @@ export const overwhereIiiMardaHesk = {
     },
     {
       fact: "Marda lets Nala carry the six seed stones out in her pouch to crack; the wolf's stone stays in lead.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
   secrets: "jsonl",
