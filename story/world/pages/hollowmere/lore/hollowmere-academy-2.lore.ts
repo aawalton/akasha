@@ -54,5 +54,9 @@ export const hollowmereAcademy2 = {
         "character-other/hollowmere-kit",
       ],
     },
+    {
+      fact: "Novice rowing trains at seven on Saturday mornings, in coxed fours out of the boathouse.",
+      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-bea"],
+    },
   ],
 } as const satisfies Lore

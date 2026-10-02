@@ -239,6 +239,14 @@ export const hollowmereLin = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Lin has room 8 on Thornfield's middle floor, its walls pinned with drawings, its window on the quad.",
+      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-lin"],
+    },
+    {
+      fact: "Lin noticed Nala at the Welcome Dinner, and has drawn her twice since from memory.",
+      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-lin"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
