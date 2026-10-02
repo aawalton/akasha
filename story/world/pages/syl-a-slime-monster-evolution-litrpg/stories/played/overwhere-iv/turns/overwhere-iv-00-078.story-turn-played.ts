@@ -10,7 +10,7 @@ export const overwhereIv00078 = {
   position: 78,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I turn and use my momentum to slash across its neck with the spear, then get up and run again, weaving a bit to dodge the slings.",
   beats: [
@@ -22,12 +22,13 @@ export const overwhereIv00078 = {
     "Up the trail behind it, the two knives come on at a run, and a sling whirrs.",
     "Too late to run. The club goblin bursts past the spear, panting, and swings wide at her head.",
   ],
+  issues: ['"Too late to run." - No Prompt'],
   lore: [
     "lore/overwhere-iv-nala",
     "lore/overwhere-iv-nala-2",
     "lore/overwhere-iv-nala-3",
     "lore/overwhere-iv-the-tangle-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-06T21:22:00.000Z",
 } as const satisfies StoryTurnPlayed
