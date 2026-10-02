@@ -200,5 +200,9 @@ export const overwhereIWendlow = {
       fact: "Wendlow's high street leans timber and plaster over the road and smells of bread, dung and river.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Grete checks each tag against the Board's levy list and finds every one of Voss's crew there.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
