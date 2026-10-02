@@ -29,7 +29,7 @@ export const overwhereIiLoddonBrothers = {
     },
     {
       fact: "Wil reckons Pip runs for Grey Shaw, to grab what he can of Crake's stash and vanish.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Crake's stash at the Grey Shaw tollhouse holds bottled stolen Water, coin, and his ledger.",
