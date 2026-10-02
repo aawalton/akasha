@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const emberdeep0004 = {
+export const emberdeep0004TheWarmPools = {
   id: "01a0fe70-ebea-7333-a55e-a8f950c9bda6",
   type: "page-type/story-chapter-written",
-  slug: "emberdeep-0004",
+  slug: "emberdeep-0004-the-warm-pools",
   position: 4,
   unit: "unit/words",
-  title: "Chapter 4",
+  title: "The Warm Pools",
   story: "story-written/emberdeep",
-  ownLength: 0,
+  ownLength: 4036,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "It is Restday; Nala wakes to bells somewhere below in the town and a house without porridge.",
     "The widow knocks on door 7 at eight for the rent.",
@@ -84,8 +84,14 @@ export const emberdeep0004 = {
   ],
   lore: [
     "lore/emberdeep-elowen",
+    "lore/emberdeep-nala",
     "lore/emberdeep-wren",
     "place/emberdeep-corbel-house",
     "place/emberdeep-town",
+  ],
+  characters: [
+    "character-player/emberdeep-nala",
+    "character-other/emberdeep-wren",
+    "character-other/emberdeep-elowen",
   ],
 } as const satisfies StoryChapterWritten
