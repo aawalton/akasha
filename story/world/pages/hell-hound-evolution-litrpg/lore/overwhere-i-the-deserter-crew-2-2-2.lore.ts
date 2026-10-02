@@ -97,5 +97,9 @@ export const overwhereITheDeserterCrew222 = {
       knowers: ["lore-disclosure/game-master"],
     },
     { fact: "Nothing else stirs at the quarry tonight.", knowers: ["lore-disclosure/game-master"] },
+    {
+      fact: "Nala's twin eye beams killed the crew Drakewolf in the gallery mouth; they dazzled her a moment.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
