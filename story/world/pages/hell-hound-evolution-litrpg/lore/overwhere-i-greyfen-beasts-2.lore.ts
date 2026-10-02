@@ -144,5 +144,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "A slug does a Mire Snapper's head 16 harm and its shell 13; overcharged, its shell 21.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A slug at a feeding snapper's bobbing head is a moderate act within 50 yards; at its shell, easy.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
