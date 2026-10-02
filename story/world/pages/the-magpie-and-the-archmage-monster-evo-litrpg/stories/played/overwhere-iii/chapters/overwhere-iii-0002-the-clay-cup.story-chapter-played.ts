@@ -28,7 +28,7 @@ export const overwhereIii0002TheClayCup = {
     },
     {
       position: 21,
-      cover: "image/image-179560752f605045",
+      cover: "image/image-dee17a10f80ba87f",
       coverAfter: "The current bends down toward a brook, where frost still lies thick",
     },
     {
