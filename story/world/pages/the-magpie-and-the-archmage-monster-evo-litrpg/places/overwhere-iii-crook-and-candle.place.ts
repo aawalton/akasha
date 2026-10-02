@@ -128,6 +128,10 @@ export const overwhereIiiCrookAndCandle = {
         "character-other/overwhere-iii-bet-harrow",
       ],
     },
+    {
+      fact: "At midday the Crook and Candle serves pease pottage with bread and a slab of ham, 2 copper.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-bet-harrow"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
