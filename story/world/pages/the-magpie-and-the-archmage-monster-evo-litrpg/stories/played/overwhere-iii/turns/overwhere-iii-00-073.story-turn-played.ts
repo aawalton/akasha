@@ -10,7 +10,7 @@ export const overwhereIii00073 = {
   position: 73,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Yeah, I’ll rest before going out again and work on the rest.” I walk out to the shrine and then practice using the gold currents directly to cleanse the blightstones, instead of my own mana.",
   beats: [
@@ -24,7 +24,7 @@ export const overwhereIii00073 = {
     "[New skill acquired – Current Feed.]",
     "[Current Feed – At [Basic] level, feed a holy weave from white-gold current, not your own well.]",
     "She does it again, and again. Each one burns her hands a little, and each one cracks clean.",
-    "The seventh slips. The raw current scorches her palms, and the stone stays dark.",
+    "The seventh slips. The current slides off it, and the stone stays dark.",
     "The eighth goes clean. Seven bright specks lie on the stone. One seed stone is left dark.",
     "Between weaves her own well fills slowly from the shrine. Her palms are pink and raw.",
     "She sweeps the specks together. With the fox stone's three, that's ten. Enough for a glimmerstone.",
