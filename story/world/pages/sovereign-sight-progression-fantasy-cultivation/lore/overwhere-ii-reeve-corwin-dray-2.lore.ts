@@ -249,7 +249,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray tells Nala Lady Varrow's man, Sir Edric Hale, comes within days to see the crag.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray wants Nala at the Ford when Sir Edric comes, to tell him of the crag and the pull herself.",
