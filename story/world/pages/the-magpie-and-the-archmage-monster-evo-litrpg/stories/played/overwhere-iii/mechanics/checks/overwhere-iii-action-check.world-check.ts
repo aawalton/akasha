@@ -41,11 +41,18 @@ export const overwhereIiiActionCheck = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A bonus names what it comes from and runs from minus four to four.",
+      statement:
+        "A bonus names what it comes from and runs from minus four to four, save Mana Weaver's.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A working powered by Mana Weaver adds one per rank the trait has reached.",
+      statement:
+        "A working powered by Mana Weaver adds one per rank the trait has reached, so five at Legend.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The check reads Mana Weaver's rank off her holding and refuses a `by` other than that rank.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -99,7 +106,7 @@ export const overwhereIiiActionCheck = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        'The reading is `{"band":"easy","bonuses":[{"from":"Mana Weaver","by":4}]}`, by her rank now.',
+        'The reading is `{"band":"easy","bonuses":[{"from":"Mana Weaver"}]}`; the check adds her rank.',
     },
   ],
 } as const satisfies WorldCheck
