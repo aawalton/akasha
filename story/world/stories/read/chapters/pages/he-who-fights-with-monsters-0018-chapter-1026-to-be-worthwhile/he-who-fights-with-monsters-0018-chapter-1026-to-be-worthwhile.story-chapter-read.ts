@@ -4,6 +4,7 @@ export const heWhoFightsWithMonsters0018Chapter1026ToBeWorthwhile = {
   id: "01a0f490-6bac-7268-bf3e-991a1ee3d059",
   type: "page-type/story-chapter-read",
   slug: "he-who-fights-with-monsters-0018-chapter-1026-to-be-worthwhile",
+  ownProgress: 2176,
   position: 18,
   publishedAt: "2026-09-30",
   unit: "unit/words",
