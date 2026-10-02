@@ -4,13 +4,14 @@ export const overwhereIi00072 = {
   id: "01a0fdc4-573d-706e-aa4f-e5968663f3cb",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-072",
+  cover: "image/image-a2de08d7859e43fd",
   ownLength: 280,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 72,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Can we catch him? I’m sure I can make it at a run, but I’d need a guide who could keep up with me.”",
   beats: [
@@ -42,6 +43,11 @@ export const overwhereIi00072 = {
     "place/overwhere-ii-grey-shaw",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-14T20:05:00.000Z",
 } as const satisfies StoryTurnPlayed
