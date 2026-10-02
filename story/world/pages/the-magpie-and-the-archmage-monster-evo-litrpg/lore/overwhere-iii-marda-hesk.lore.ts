@@ -226,7 +226,11 @@ export const overwhereIiiMardaHesk = {
     },
     {
       fact: "Marda has heard Hild Wendle's leg and Edda Crane's hand are clean; she counts five blighted cured.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "At the dusk bell on day five Marda sets the five-folk quest's 1 silver on the desk for Nala.",
