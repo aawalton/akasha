@@ -87,5 +87,9 @@ export const overwhereIiBetLoddon = {
       fact: "When the loft shot at Nala, Bet pressed flat against the hedge at the lane's mouth, untouched.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "From the loft Wil calls that both bows are down, and asks leave to come down the ladder unarmed.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
