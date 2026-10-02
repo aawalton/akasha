@@ -10,7 +10,7 @@ export const saltAndLamplight0003TheBoatSong = {
   story: "story-written/salt-and-lamplight",
   ownLength: 3147,
   prose: "txt",
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   beats: [
     "Nala wakes to the slates rattling; the wind has swung round to the north in the night.",
     "Below, Morwenna is already dressed, at the window, watching a sky gone yellow-grey.",
@@ -24,7 +24,7 @@ export const saltAndLamplight0003TheBoatSong = {
     "Nala stands still to listen; a board creaks under her, and Morwenna stops mid-line.",
     "Nala asks her to go on; Morwenna says it was nothing, her mother's, and lashes the door harder.",
     "By noon the sea is white to the horizon and the Teeth are lost in spray.",
-    "Rain comes in sideways off the sea, hard as gravel against the windows.",
+    "Rain comes in sideways off the sea, hard as gravel against the shutters.",
     "In the afternoon the goat shed door rips loose and bangs, and the goats scream.",
     "Morwenna is up the tower; Nala, without asking, goes out into the gale to shut it.",
     "The wind knocks her flat on the yard stones and drags her a yard toward the edge.",
