@@ -17,7 +17,7 @@ export const overwhereIii00079 = {
     "character-other/overwhere-iii-tam-rowe",
     "character-other/overwhere-iii-edda-crane",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Okay, might just hunt my own then.” Dinner, bed, healing, training, then back to the Post for leads on where blighted beasts have been seem.",
   beats: [
@@ -32,7 +32,7 @@ export const overwhereIii00079 = {
     "The shepherd runs his thumb down his shin. He says nothing and leaves a wedge of hill cheese.",
     "The second is a woodcutter with yesterday's axe gash in his shin. It's clean, with no blight in it.",
     "One weave closes it. He counts 10 copper into her hand.",
-    "She reaches the yard late. The watch is already on laps, and Maud jerks her chin at the line.",
+    "She reaches the south green late. The watch is already on laps, and Maud jerks her chin at the line.",
     "Laps, then hauling fieldstone until her arms shake.",
     "Then staff bouts with Tam. She slips his swing and raps his knuckles. He swears, then grins.",
     "She stays until the watch changes, near half past ten.",
