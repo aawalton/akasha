@@ -13,7 +13,7 @@ export const overwhereIiLoddonBrothers = {
     },
     {
       fact: "Kit Loddon, about nineteen, is thin and wild-eyed, and shakes as he comes down the ladder.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The brothers come down with empty hands held open, Wil first, and kneel in the straw unbidden.",
