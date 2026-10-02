@@ -9,4 +9,5 @@ export const overwhereIi00086 = {
   position: 86,
   stepStatus: "step-status/game-master",
   action: "“Thank you Lady Varrow” I say as I take the silver bar.",
+  endsAt: "2026-10-21T08:23:00.000Z",
 } as const satisfies StoryTurnPlayed
