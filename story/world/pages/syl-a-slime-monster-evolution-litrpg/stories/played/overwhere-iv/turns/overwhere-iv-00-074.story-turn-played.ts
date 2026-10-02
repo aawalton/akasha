@@ -4,13 +4,14 @@ export const overwhereIv00074 = {
   id: "01a0fea2-5871-74c7-99b0-46a9b04713b3",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-074",
+  cover: "image/image-081eeae6ca6c1097",
   ownLength: 236,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 74,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Great! I give him the horn. I’m hunting the Tangle tonight. If there are enough goblins to be bothering them tonight, I’m going to make sure there aren’t tomorrow. I should be okay on my own, but I’ll be glad to know you’re nearby so I can fall back in your direction if I get overwhelmed. Is that okay?@",
   beats: [
@@ -40,6 +41,12 @@ export const overwhereIv00074 = {
     "place/overwhere-iv-the-tangle",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-06T21:10:00.000Z",
+  coverAfter: "Then, far up the trail and coming toward you: many feet, the knock",
 } as const satisfies StoryTurnPlayed
