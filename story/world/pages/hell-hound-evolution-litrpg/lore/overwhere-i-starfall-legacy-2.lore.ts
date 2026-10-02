@@ -128,5 +128,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Stride, air ward and a beam together are three workings, her most.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A beam loosed while holding the air ward is a band harder, as a slug is.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
