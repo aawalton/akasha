@@ -286,7 +286,7 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "The night of day 6 at the Ford Inn passes quiet.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Day 7's last twenty miles to Wendlow run through farmland and pass quiet.",
