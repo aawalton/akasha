@@ -128,7 +128,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 24,
-      cover: "image/image-88e370b565ccc986",
+      cover: "image/image-a9272efc8ce39b5e",
       coverAfter: "Blood runs down your left arm and drips onto the white salt",
     },
     {
