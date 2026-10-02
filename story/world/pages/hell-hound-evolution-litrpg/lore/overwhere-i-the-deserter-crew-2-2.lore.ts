@@ -47,5 +47,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Spotting the ambush at the bend while striding is hard; at a walk it is moderate.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Unspotted, Crow looses first as she rounds the bend; Five looses a heartbeat later.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
