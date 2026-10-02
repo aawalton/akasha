@@ -271,7 +271,11 @@ export const overwhereIiiBrannaghTull2 = {
     },
     {
       fact: "At the dusk bell on day eight the washerwoman brings three hot oatcakes in a cloth for the healer.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
 } as const satisfies Lore
