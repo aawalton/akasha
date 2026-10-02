@@ -190,7 +190,7 @@ export const overwhereIWendlow = {
     },
     {
       fact: "At noon Antler Hall holds only Grete and two idle hunters dicing by the hearth.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
 } as const satisfies Place
