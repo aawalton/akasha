@@ -78,7 +78,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 14,
-      cover: "image/image-f3fe10ce579554e6",
+      cover: "image/image-8226ce216bce4ff9",
       coverAfter: "It stings, sharp and hot. A line of blood beads up through",
     },
     {
