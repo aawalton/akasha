@@ -257,5 +257,13 @@ export const overwhereIiiNala2 = {
         "character-other/overwhere-iii-bet-harrow",
       ],
     },
+    {
+      fact: "On her sixth night Nala paid Bet 3 copper for supper and 8 for the bed under the eaves.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-bet-harrow",
+      ],
+    },
   ],
 } as const satisfies Lore
