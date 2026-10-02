@@ -1,0 +1,14 @@
+import type { Seat } from "akasha/agent/seat/seat.page-type.types.ts"
+
+export const mariReviewerHollowmereFlex1 = {
+  id: "01a0fdb2-33c1-7000-8260-bf2317a9c9be",
+  type: "page-type/seat",
+  slug: "mari-reviewer-hollowmere-flex-1",
+  persona: "persona/mari",
+  assignmentSlug: "story-written/hollowmere",
+  role: "role/reviewer",
+  person: "person/alan",
+  startMode: "seat-mode/headless",
+  onCall: false,
+  registrationAccount: "model-account/aawalton",
+} as const satisfies Seat
