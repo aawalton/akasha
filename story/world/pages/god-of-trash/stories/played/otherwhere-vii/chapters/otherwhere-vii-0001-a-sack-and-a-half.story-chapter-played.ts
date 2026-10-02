@@ -18,7 +18,7 @@ export const otherwhereVii0001ASackAndAHalf = {
     },
     {
       position: 2,
-      cover: "image/image-9fc00e9e344cb41c",
+      cover: "image/image-49cea91336d891fc",
       coverAfter: "A man sits hunched on the front board, the reins loose in",
     },
     {
