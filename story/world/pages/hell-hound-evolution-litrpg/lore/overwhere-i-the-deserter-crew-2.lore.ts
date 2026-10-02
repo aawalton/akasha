@@ -216,7 +216,7 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "Through the lens the pit's north wall shows a goat path to the forest, its dust freshly scuffed.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "The lens shows the gallery mouths dark and still; nothing within them shows from her boulders.",
