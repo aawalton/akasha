@@ -4,7 +4,7 @@ export const overwhereIii00079 = {
   id: "01a0ff04-4a58-7ed9-b3bd-2b19b8f415c7",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-079",
-  ownLength: 281,
+  ownLength: 282,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 79,
@@ -17,7 +17,7 @@ export const overwhereIii00079 = {
     "character-other/overwhere-iii-tam-rowe",
     "character-other/overwhere-iii-edda-crane",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "“Okay, might just hunt my own then.” Dinner, bed, healing, training, then back to the Post for leads on where blighted beasts have been seem.",
   beats: [
