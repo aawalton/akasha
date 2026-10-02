@@ -170,5 +170,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Voss marks Nala as his to settle with, and will ask after her along the east road.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Shooting after a spoken refusal is open war, not striking under parley.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
