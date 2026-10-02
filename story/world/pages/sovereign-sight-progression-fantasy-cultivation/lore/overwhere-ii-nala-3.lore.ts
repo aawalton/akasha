@@ -138,7 +138,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "By the morning of day twenty only Nala's thighs are left to refine.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Once her Locks open, the dream of the black stair returns in her last hour of sleep, louder.",
