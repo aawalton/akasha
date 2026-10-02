@@ -8,9 +8,9 @@ export const emberdeep0002ChalkArrows = {
   unit: "unit/words",
   title: "Chalk Arrows",
   story: "story-written/emberdeep",
-  ownLength: 4716,
+  ownLength: 4729,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Nala wakes in room 7 and checks her hands first; they are still small, pale and freckled.",
     "She fell asleep thinking of the Deep, and wakes glad to still be Nala, more glad than sorry.",
