@@ -250,6 +250,10 @@ export const overwhereIOsricFenn = {
       fact: "One 4-copper sack of salt packs Voss's head and all the ears together; salted, they keep 3 weeks.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Salt paid, Osric counts 5 silver into her hand for the road, then sheepishly asks his toll back.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
