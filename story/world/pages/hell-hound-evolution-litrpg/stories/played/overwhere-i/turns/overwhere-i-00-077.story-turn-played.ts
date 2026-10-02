@@ -33,5 +33,6 @@ export const overwhereI00077 = {
     "lore/overwhere-i-the-deserter-crew-2",
     "place/overwhere-i-greyback-and-east-road",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-03T15:14:00.000Z",
 } as const satisfies StoryTurnPlayed
