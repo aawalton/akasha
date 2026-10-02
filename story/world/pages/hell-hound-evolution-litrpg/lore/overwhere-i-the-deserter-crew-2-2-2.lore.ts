@@ -64,5 +64,9 @@ export const overwhereITheDeserterCrew222 = {
       fact: "With each tag, an ear serves as proof in Wendlow; without its tag, the Board pays nothing on it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Near midnight the burned crew Drakewolf rose growling from among the gallery dead.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
