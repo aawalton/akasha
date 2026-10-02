@@ -234,7 +234,11 @@ export const overwhereIiiMardaHesk = {
     },
     {
       fact: "At the dusk bell on day five Marda sets the five-folk quest's 1 silver on the desk for Nala.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
   secrets: "jsonl",
