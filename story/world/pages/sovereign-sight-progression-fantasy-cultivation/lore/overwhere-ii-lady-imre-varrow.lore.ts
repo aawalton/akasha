@@ -141,7 +141,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "Through her glass, Nala reads as Undertow, Major, Surface, a greater Talent than any she holds.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "She offers Nala a place sworn to House Varrow: a bar a month, a room at the Keep, a knight's rank.",
