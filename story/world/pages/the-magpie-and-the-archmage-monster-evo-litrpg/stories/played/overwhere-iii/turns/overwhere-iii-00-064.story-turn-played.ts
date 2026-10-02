@@ -41,5 +41,6 @@ export const overwhereIii00064 = {
     "place/overwhere-iii-fairley-farm",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/inventory"],
   endsAt: "2026-10-06T08:40:00.000Z",
 } as const satisfies StoryTurnPlayed
