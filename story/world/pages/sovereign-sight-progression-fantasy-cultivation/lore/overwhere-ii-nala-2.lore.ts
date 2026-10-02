@@ -190,7 +190,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "Each refined muscle cramps hard for a minute, then loosens, denser and stronger than before.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Refining muscle leaves Nala eating twice what she used to, and thirsty all day.",
