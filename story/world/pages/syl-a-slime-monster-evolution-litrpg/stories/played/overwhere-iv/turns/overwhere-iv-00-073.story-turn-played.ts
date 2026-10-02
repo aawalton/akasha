@@ -4,13 +4,13 @@ export const overwhereIv00073 = {
   id: "01a0fe92-3304-70cf-bf7e-0faf92295f37",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-073",
-  ownLength: 239,
+  ownLength: 273,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 73,
   prose: "txt",
-  characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/writer",
+  characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
+  stepStatus: "step-status/recorders",
   action:
     "“No, you need someone else to watch. Tonight I’m going hunting.” I go back and train with the guards then get some sleep, then do some more training, working to Rift Rend something I can only see with Spatial Sense.",
   beats: [
@@ -37,6 +37,7 @@ export const overwhereIv00073 = {
     '"The sun is sinking toward the moor. Behind your ribs, the warmth is down" - Leave It Open',
   ],
   lore: [
+    "lore/overwhere-iv-ilsa-crane-2",
     "lore/overwhere-iv-millbrook-adventurers-hall-2",
     "lore/overwhere-iv-nala",
     "lore/overwhere-iv-nala-2",
