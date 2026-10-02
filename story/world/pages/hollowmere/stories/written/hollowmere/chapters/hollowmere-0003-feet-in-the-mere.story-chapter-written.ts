@@ -8,9 +8,9 @@ export const hollowmere0003FeetInTheMere = {
   unit: "unit/words",
   title: "Feet in the Mere",
   story: "story-written/hollowmere",
-  ownLength: 6115,
+  ownLength: 6212,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Half six, Wednesday: Bea bangs on your door; you groan, and go, legs still stiff from yesterday.",
     "Bea makes you run slow this time; you last ten minutes before your lungs give, double yesterday.",
