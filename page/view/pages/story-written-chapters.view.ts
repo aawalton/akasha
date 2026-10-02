@@ -9,7 +9,7 @@ export const storyWrittenChapters = {
   embeddedBy: "page-type/story-written",
   layout: "list",
   narrows: [],
-  viewSorts: [{ key: "position", descending: false }],
+  viewSorts: [{ key: "position", descending: true }],
   groupSorts: [],
   visibleProperties: ["own-length-in-words"],
   alwaysShowProperties: ["own-length-in-words"],
