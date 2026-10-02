@@ -62,7 +62,7 @@ export const overwhereIiTarrantSmithy = {
     },
     {
       fact: "Hob says cold iron bites the Sea-twisted where plain iron only cuts, and bids her keep it oiled.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Place
