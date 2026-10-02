@@ -89,7 +89,7 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "On foot the east road to Wendlow is also about three days, much as the cart.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
