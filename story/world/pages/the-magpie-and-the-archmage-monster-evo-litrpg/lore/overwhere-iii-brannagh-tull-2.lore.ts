@@ -161,5 +161,9 @@ export const overwhereIiiBrannaghTull2 = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "Near five on day seven a farm lad from the Thornmere road waits on the bench, bitten on the calf.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+    },
   ],
 } as const satisfies Lore
