@@ -62,7 +62,7 @@ export const overwhereIiGreyShaw = {
     },
     {
       fact: "Water from Crake's three captives is in the bottles; drunk back, it would speed their healing.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray says a Reeve holds recovered goods for Lady Varrow's court; by custom the taker has a third.",
