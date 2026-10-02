@@ -11,4 +11,5 @@ export const overwhereI00076 = {
   action:
     "I pull out the pale blue crystals and pull on them, to see if I can use them to refill my mana.",
   lore: ["lore/overwhere-i-the-western-march"],
+  endsAt: "2026-10-03T15:11:00.000Z",
 } as const satisfies StoryTurnPlayed
