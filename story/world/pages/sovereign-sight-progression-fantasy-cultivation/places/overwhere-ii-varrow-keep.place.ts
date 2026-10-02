@@ -26,7 +26,7 @@ export const overwhereIiVarrowKeep = {
     },
     {
       fact: "The road from the Ford to the Keep runs east up the valley, past scattered farms.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "A guest who reaches the Keep after noon is fed and lodged, and the Lady receives them next morning.",
