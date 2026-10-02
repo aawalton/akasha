@@ -17,7 +17,7 @@ export const overwhereI00087 = {
     "character-other/overwhere-i-quarry-crewman-four",
     "character-other/overwhere-i-harl-voss",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I channel two fire beams, aimed from my eyes this time and finish off the drakewolf, then continue.",
   beats: [
@@ -31,6 +31,10 @@ export const overwhereI00087 = {
     "Below the quarry the road runs east in the dark toward Wendlow.",
     "Fresh in the dust, the mule's hoofprints and the cart's ruts run off east ahead of her.",
   ],
+  issues: [
+    '"the helmed crewman you shot between the eyes" - the helmed crossbowman is Five, taken at the bend',
+    '"the crewman with the helm" - the helmed man is Five, at the bend; Four in the gallery has no helm',
+  ],
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
@@ -41,6 +45,6 @@ export const overwhereI00087 = {
     "lore/overwhere-i-the-deserter-crew-2-2-2",
     "place/overwhere-i-greyback-and-east-road",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-03T23:38:00.000Z",
 } as const satisfies StoryTurnPlayed
