@@ -139,5 +139,29 @@ export const overwhereIvCrakeGill = {
       fact: "The speared beast shoves up the shaft, snapping; the soft-iron head grinds and the ash shaft bows.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "The wolf's weight on the practice spear has split the ash shaft a hand below the head.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A dead blade wolf's spine ridge keeps its edge; grabbed or rolled carelessly, it cuts.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The blade wolf's head alone is as heavy as a full water pail; its whole pelt, a sack of grain.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Skinning a blade wolf with a small knife takes most of two hours; the ridge must be worked round.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Its grey core lies behind the heart, in a hard sac, and comes out with a hand's work.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "From Crake Gill back to Millbrook is seven miles: about three hours, more under a load.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
