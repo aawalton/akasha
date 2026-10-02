@@ -7,7 +7,8 @@ export const overwhereIv00075 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 75,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I quietly hide myself at a distance of half my range from where they will pass, then when they come into range, I start slicing necks, one after another, using my spatial sense to see them without moving and focusing on efficiency. I choose targets at random so they can’t tell where they attack is coming from.",
+  lore: ["lore/overwhere-iv-the-tangle-2", "place/overwhere-iv-the-tangle"],
 } as const satisfies StoryTurnPlayed
