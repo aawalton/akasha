@@ -214,5 +214,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Blademan Three, bareheaded in leather warding 1, holds a crossbow from the camp's store.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Their crossbows reach her on the rim; lying prone there, she is a hard mark.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
