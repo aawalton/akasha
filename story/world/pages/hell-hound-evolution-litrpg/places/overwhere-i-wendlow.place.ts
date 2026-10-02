@@ -204,5 +204,9 @@ export const overwhereIWendlow = {
       fact: "Grete checks each tag against the Board's levy list and finds every one of Voss's crew there.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Ghost-Eye's milky eye socket and white blaze satisfy Grete at a glance; she pays its 25 gold.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
