@@ -58,7 +58,7 @@ export const overwhereIiVarrowKeep = {
     },
     {
       fact: "The Keep's well is in its lower court, deep and cold, fed from the crag's spring.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Place
