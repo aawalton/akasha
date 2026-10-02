@@ -145,7 +145,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Hearing how Nala took Crake, Dray says he has seen First Depth fighters do less.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray will write Lady Varrow for clemency for the Loddons, if Wil's cellar proves true.",
