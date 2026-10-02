@@ -58,7 +58,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 10,
-      cover: "image/image-5a21f87c5da57a4e",
+      cover: "image/image-a8e0f7edc7857ae7",
       coverAfter: "His eyes flicker blue, text scrolling through them. \"There's a book. Should",
     },
     {
