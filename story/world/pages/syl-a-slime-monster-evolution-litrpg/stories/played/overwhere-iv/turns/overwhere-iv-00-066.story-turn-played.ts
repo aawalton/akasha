@@ -4,6 +4,7 @@ export const overwhereIv00066 = {
   id: "01a0fe3a-24b1-7313-b93b-ec5ed7eddb51",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-066",
+  cover: "image/image-ad26f3ba7055a345",
   ownLength: 229,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
@@ -14,7 +15,7 @@ export const overwhereIv00066 = {
     "character-other/overwhere-iv-marta-hesk",
     "character-other/overwhere-iv-ilsa-crane",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I take a bath after the long day, get dinner, and sleep, then train with the guard in the morning and check in on my new spear.",
   beats: [
@@ -44,6 +45,12 @@ export const overwhereIv00066 = {
     "place/overwhere-iv-millbrook-smithy",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-05T10:00:00.000Z",
+  coverAfter: '"Heard about the wolf\'s head." He hands you the spear. "That old',
 } as const satisfies StoryTurnPlayed
