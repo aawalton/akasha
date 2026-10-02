@@ -130,5 +130,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Nala's beams killed Crow in the pines at the bend, and the helmed crossbowman as he ran.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Two of the four, Voss among them, are still ahead on the track toward the smoke.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
