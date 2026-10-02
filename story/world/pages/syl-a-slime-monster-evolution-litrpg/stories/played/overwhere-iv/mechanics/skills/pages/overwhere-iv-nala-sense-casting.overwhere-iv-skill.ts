@@ -10,6 +10,6 @@ export const overwhereIvNalaSenseCasting = {
   character: "character-player/overwhere-iv-nala",
   skill: "world-skill/overwhere-iv-sense-casting",
   level: 0,
-  uses: 1,
+  uses: 2,
   unrevealed: true,
 } as const satisfies OverwhereIvSkill
