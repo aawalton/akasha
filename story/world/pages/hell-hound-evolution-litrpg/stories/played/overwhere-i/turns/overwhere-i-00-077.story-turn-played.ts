@@ -4,7 +4,7 @@ export const overwhereI00077 = {
   id: "01a0fd9f-4a47-73e7-b01e-289822865179",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-077",
-  ownLength: 141,
+  ownLength: 143,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 77,
@@ -14,7 +14,7 @@ export const overwhereI00077 = {
     "character-other/overwhere-i-quarry-crewman-one",
     "character-other/overwhere-i-quarry-crewman-two",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action: "I circle around, as quietly as I can, trying to get eyes on any of the bandits.",
   beats: [
     "Nala slips back from her boulders and circles east through the pines, light on her hurt leg.",
