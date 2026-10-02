@@ -9,11 +9,16 @@ export const chapterTurnCovers = {
   properties: [
     { pageProperty: "number-property/position", required: true, many: false },
     { pageProperty: "relation-property/cover", required: true, many: false },
+    { pageProperty: "text-property/cover-after", required: false, many: false },
   ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement: "A chapter keeps the cover of every turn it takes, under that turn's number.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chapter keeps where in its prose each cover is drawn, as the turn stated it.",
     },
   ],
   types: "ts",

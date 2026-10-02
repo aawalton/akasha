@@ -72,3 +72,14 @@ test("a chapter keeps the cover of each turn it takes that has one, under the tu
     { position: 3, cover: "image/image-three" },
   ])
 })
+
+test("a chapter keeps the words each turn's cover is drawn after, where the turn states them", () => {
+  const turns = [
+    { at: "a", slug: "t-00-001", position: 1, cover: "image/image-one", coverAfter: "She ran" },
+    { at: "b", slug: "t-00-002", position: 2, cover: "image/image-two" },
+  ]
+  expect(turnCoversOf(turns)).toEqual([
+    { position: 1, cover: "image/image-one", coverAfter: "She ran" },
+    { position: 2, cover: "image/image-two" },
+  ])
+})

@@ -54,6 +54,7 @@ const COLLECTIONS = "partOfCollections"
 const STORY = "story"
 const POSITION = "position"
 const COVER = "cover"
+const COVER_AFTER = "coverAfter"
 const ENDS_AT = "endsAt"
 const SLUG = "slug"
 
@@ -69,10 +70,15 @@ type Turn = {
   readonly slug: string
   readonly position: number
   readonly cover?: string
+  readonly coverAfter?: string
   readonly endsAt?: string
 }
 
-type TurnCover = { readonly position: number; readonly cover: string }
+type TurnCover = {
+  readonly position: number
+  readonly cover: string
+  readonly coverAfter?: string
+}
 
 type LastTurn = { readonly lastTurn: string; readonly lastTurnPosition: number }
 
@@ -112,7 +118,12 @@ export function openThrough(turns: readonly Turn[], through: number): readonly T
 export function turnCoversOf(turns: readonly Turn[]): readonly TurnCover[] {
   const held: TurnCover[] = []
   for (const one of turns) {
-    if (one.cover !== undefined) held.push({ position: one.position, cover: one.cover })
+    if (one.cover === undefined) continue
+    held.push({
+      position: one.position,
+      cover: one.cover,
+      ...(one.coverAfter === undefined ? {} : { coverAfter: one.coverAfter }),
+    })
   }
   return held
 }
@@ -143,12 +154,14 @@ function turnsOf(root: string, named: string): readonly Turn[] {
     if (!Array.isArray(within) || !within.includes(named)) continue
     if (typeof position !== "number" || typeof slug !== "string") continue
     const cover = one.value[COVER]
+    const coverAfter = one.value[COVER_AFTER]
     const endsAt = one.value[ENDS_AT]
     found.push({
       at: one.path,
       slug,
       position,
       ...(typeof cover === "string" && cover !== "" ? { cover } : {}),
+      ...(typeof coverAfter === "string" && coverAfter !== "" ? { coverAfter } : {}),
       ...(typeof endsAt === "string" && endsAt !== "" ? { endsAt } : {}),
     })
   }
