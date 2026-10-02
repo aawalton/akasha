@@ -7,7 +7,8 @@ export const overwhereIii00074 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 74,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I merge them into a glimmerstone and keep going until I’ve finished cleansing the remainder.",
+  lore: ["lore/overwhere-iii-cleansing-weave", "lore/overwhere-iii-current-feed"],
 } as const satisfies StoryTurnPlayed
