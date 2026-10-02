@@ -162,7 +162,7 @@ export const overwhereIStarfallLegacy2 = {
     },
     {
       fact: "A beam can be loosed from her eyes, aimed where she looks; untried, that is a band harder.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Loosing beams from her eyes leaves her dazzled a moment after, her next look a band harder.",
