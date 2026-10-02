@@ -4,10 +4,13 @@ export const overwhereIi00085 = {
   id: "01a0fe8f-0bc8-76fd-b065-e0585dde1a9c",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-085",
+  ownLength: 148,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 85,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action: "I bow and wait to be spoken to.",
   beats: [
     "Nala bows, and waits to be spoken to.",
@@ -22,6 +25,11 @@ export const overwhereIi00085 = {
     "She lifts a hand. A servant steps forward with a silver bar on a square of grey cloth.",
     'Lady Varrow: "From the House. Take it."',
   ],
-  lore: ["lore/overwhere-ii-lady-imre-varrow"],
+  lore: [
+    "lore/overwhere-ii-lady-imre-varrow",
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-nala-3",
+  ],
   endsAt: "2026-10-21T08:03:00.000Z",
 } as const satisfies StoryTurnPlayed
