@@ -11,4 +11,5 @@ export const overwhereIv00068 = {
   action:
     "“Yes, please. I have a feeling a crossbar will save my life someday. Can you get it done today?”",
   lore: ["place/overwhere-iv-millbrook-smithy"],
+  endsAt: "2026-10-05T10:58:00.000Z",
 } as const satisfies StoryTurnPlayed
