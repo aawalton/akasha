@@ -63,7 +63,7 @@ export const overwhereIv0003TheBlackLine = {
     },
     {
       position: 32,
-      cover: "image/image-117b200e5da8f1ae",
+      cover: "image/image-1845758b3012dbad",
       coverAfter: "Dace's swing bites bark where the slinger's feet were a heartbeat ago.",
     },
     {
