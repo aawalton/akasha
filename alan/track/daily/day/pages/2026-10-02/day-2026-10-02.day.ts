@@ -18,6 +18,6 @@ export const day20261002 = {
   inboxFindings: 0,
   inboxFindingsClearedToday: true,
   inboxGaps: 0,
-  inboxRefusals: 11948,
+  inboxRefusals: 11949,
   sessions: "jsonl",
 } as const satisfies Day
