@@ -272,6 +272,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "At dusk the Ford Inn serves mutton stew at 2 copper; the westbound drover drinks by its hearth.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "The Ford Inn's innkeeper is a broad woman whose daughter, about ten, helps about the inn.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

@@ -232,5 +232,13 @@ export const overwhereIStarfallLegacy2 = {
       fact: "The mending weave closes shallow wounds slowly, at a steady cost in mana.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Fire bound with air on a wound burns it worse, flaring like a hot stove.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "On a deep wound the mending weave takes no hold at all, its mana draining for nothing.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
