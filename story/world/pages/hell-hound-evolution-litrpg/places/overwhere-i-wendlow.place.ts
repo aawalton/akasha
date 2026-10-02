@@ -184,5 +184,9 @@ export const overwhereIWendlow = {
       fact: "Grete has never seen Name ??? on a living soul; it makes her careful, not hostile.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Grete's first words: 'That's a Drakewolf cask or I'm a goose. Set it down, and tell me whose head.'",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
