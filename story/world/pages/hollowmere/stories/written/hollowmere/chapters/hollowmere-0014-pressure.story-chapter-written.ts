@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0014 = {
+export const hollowmere0014Pressure = {
   id: "01a0fea2-c0c7-74d3-b7b8-1eb8473d3ee6",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0014",
+  slug: "hollowmere-0014-pressure",
   position: 14,
   unit: "unit/words",
-  title: "Chapter 14",
+  title: "Pressure",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 2685,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Sunday: the storm wakes you before dawn, rain hurled at the window, the old frame rattling.",
     "From the window the mere is white, waves running at the shore, the fells gone in grey cloud.",
@@ -54,5 +54,25 @@ export const hollowmere0014 = {
     "At midnight the wind falls; the rain softens; the mere goes dark and quiet under the cloud.",
     "A day at Hollowmere ends.",
   ],
-  lore: ["lore/hollowmere-academy-2", "lore/hollowmere-world"],
+  lore: [
+    "lore/hollowmere-academy-2",
+    "lore/hollowmere-bea",
+    "lore/hollowmere-kit",
+    "lore/hollowmere-lin",
+    "lore/hollowmere-nala",
+    "lore/hollowmere-nala-2",
+    "lore/hollowmere-priya",
+    "lore/hollowmere-shiv",
+    "lore/hollowmere-world",
+    "lore/hollowmere-yusra",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-shiv",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-kit",
+    "character-other/hollowmere-lin",
+    "character-other/hollowmere-priya",
+    "character-other/hollowmere-yusra",
+  ],
 } as const satisfies StoryChapterWritten
