@@ -32,5 +32,25 @@ export const overwhereIvMillbrookSmithy = {
       fact: "Tobin can put an edge and point back on a blunted practice spear for 10 copper while she waits.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Tobin's best is the forged leaf blade: hardened iron that holds its edge far past the wall spear.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin takes half a forging's price before he lights the fire, and the rest on collection.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin sizes a shaft to its wielder; he has her hold a spear, and cuts the new one to her height.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Tobin has heard of the redhead's spear trick at the Brook and Barrel, and only grunts at it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The practice spear is the guard's stores; Tobin won't buy it or take it in trade.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
