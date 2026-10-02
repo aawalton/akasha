@@ -281,5 +281,13 @@ export const overwhereIiiNala2 = {
       fact: "Two looped weaves into the stag's second stone on day seven left Nala's mana dry.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "On day seven a looped weave of Nala's came apart in her hands, its mana lost, the stone unchanged.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
 } as const satisfies Lore
