@@ -100,5 +100,9 @@ export const overwhereIiGreyShaw = {
       fact: "Dray offers to sleep at the tollhouse till first light, or carry the stash back to Ashlin tonight.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Nala's third of Crake's coin is four silver bars, of six hundred silver in all.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
