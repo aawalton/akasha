@@ -11,7 +11,7 @@ export const overwhereIi00089 = {
   position: 89,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“Yes. I would appreciate it if you tell ne what you see.”",
   beats: [
     "Nala: \"Yes. I'd appreciate it if you'd tell me what you see.\"",
@@ -38,7 +38,12 @@ export const overwhereIi00089 = {
     "lore/overwhere-ii-nala-3",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-21T08:33:00.000Z",
   coverAfter: '"Whatever is under the Whitecombs, my valley has to be held against it.',
 } as const satisfies StoryTurnPlayed
