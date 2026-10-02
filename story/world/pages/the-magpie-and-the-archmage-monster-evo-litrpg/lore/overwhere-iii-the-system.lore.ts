@@ -336,6 +336,10 @@ export const overwhereIiiTheSystem = {
       fact: "Buying Inventory shows: [New trait acquired – Inventory.]",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "[Inventory – At [Basic] level, keep a knapsack's worth in a pocket bound to you.]",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
