@@ -4,10 +4,13 @@ export const overwhereI00064 = {
   id: "01a0fd05-5818-703f-9768-c4e89621c76c",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-064",
+  ownLength: 184,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 64,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
+  stepStatus: "step-status/reviewers",
   action: "I go with Rowan and Sedge to get the head, keeping an eye out for any more dangers.",
   beats: [
     "As the snapper sinks, a window opens before Nala.",
@@ -26,6 +29,8 @@ export const overwhereI00064 = {
   ],
   lore: [
     "lore/overwhere-i-greyfen-beasts-2",
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
     "lore/overwhere-i-rowan-coalby",
     "lore/overwhere-i-the-greyfen-alpha-2",
     "lore/overwhere-i-the-greyfen-alpha-2-2",
