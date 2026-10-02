@@ -10,7 +10,7 @@ export const overwhereIv00064 = {
   position: 64,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I repeat the rend, from the back this time, again and again until the head is separated from the neck",
   beats: [
@@ -26,12 +26,13 @@ export const overwhereIv00064 = {
     "The wind blows down the moor. The gill is still.",
     "The body lies at her feet, pony-sized. Along its spine the ridge of fur still gleams like knives.",
   ],
+  issues: ['"The gill is still." / "The body lies at your feet, pony-sized." - Leave It Open'],
   lore: [
     "lore/overwhere-iv-nala",
     "lore/overwhere-iv-nala-2",
     "lore/overwhere-iv-nala-3",
     "place/overwhere-iv-crake-gill",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-04T14:43:00.000Z",
 } as const satisfies StoryTurnPlayed
