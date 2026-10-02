@@ -4,7 +4,7 @@ export const overwhereI00084 = {
   id: "01a0fe37-8b3d-76e3-bebf-47274af5033a",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-084",
-  ownLength: 181,
+  ownLength: 175,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 84,
@@ -14,7 +14,7 @@ export const overwhereI00084 = {
     "character-other/overwhere-i-harl-voss",
     "character-other/overwhere-i-quarry-crewman-three",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "I finish burning the blademan, then start carefully trailing Voss, letting my mana recover",
   beats: [
