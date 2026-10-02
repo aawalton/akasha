@@ -32,8 +32,9 @@ export const overwhereITheSystem2 = {
       fact: "The System opens no window for a drawn mana crystal; only the mana it gives shows.",
       knowers: ["lore-disclosure/game-master"],
     },
+    { fact: "No skill or legacy changes at Level 9.", knowers: ["lore-disclosure/game-master"] },
     {
-      fact: "No skill or legacy changes at Level 9.",
+      fact: "No skill, legacy rank or path changes at Level 10.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
