@@ -100,5 +100,13 @@ export const overwhereIiAshlinFarm = {
       fact: "At grey light the Pells lift the hurdle, and Big Harl stands roped between Col and Rob.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "On the march Dray shares out the watch's bread, cheese and small beer as they go.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Leaving Ashlin soon after dawn, the column reaches Wendle Ford a little after noon.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
