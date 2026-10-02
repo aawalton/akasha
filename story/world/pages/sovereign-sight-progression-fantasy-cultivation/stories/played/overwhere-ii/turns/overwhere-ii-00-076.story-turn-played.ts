@@ -10,7 +10,7 @@ export const overwhereIi00076 = {
   position: 76,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“Thank you”",
   beats: [
     "Nala takes the four bars. They're cold and heavy in her palm.",
@@ -32,6 +32,6 @@ export const overwhereIi00076 = {
     "lore/overwhere-ii-reeve-corwin-dray-2",
     "place/overwhere-ii-ashlin-farm",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-15T02:30:00.000Z",
 } as const satisfies StoryTurnPlayed
