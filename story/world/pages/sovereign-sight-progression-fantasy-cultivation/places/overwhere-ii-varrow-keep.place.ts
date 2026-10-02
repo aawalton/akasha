@@ -42,7 +42,7 @@ export const overwhereIiVarrowKeep = {
     },
     {
       fact: "Lady Varrow seals a free blade's bond with a clasp of hands before a witness, written in the rolls.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The Keep gives Nala a room at the top of its old north stair: bare, quiet, with a shuttered window.",
