@@ -81,7 +81,13 @@ export const overwhereITobinAshdown = {
     },
     {
       fact: "Seeing the head, Tobin begs Nala to take him to Wendlow; Hessa says nothing either way.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-tobin-ashdown",
+        "lore/overwhere-i-rowan-coalby",
+        "lore/overwhere-i-hessa-vane",
+      ],
     },
   ],
   secrets: "jsonl",

@@ -49,11 +49,26 @@ export const overwhereIFenwatch2 = {
     },
     {
       fact: "At 17:00 on day 4 half the village crowds the green to see Ghost-Eye's head on Rowan's sled.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-rowan-coalby",
+        "lore/overwhere-i-hessa-vane",
+        "lore/overwhere-i-tobin-ashdown",
+        "lore/overwhere-i-agathe-morrow",
+        "lore/overwhere-i-garrick-pell",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
     {
       fact: "Hessa, Tobin, Agathe, Garrick and Osric are all on the green when the head comes in.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-rowan-coalby",
+        "lore/overwhere-i-hessa-vane",
+        "lore/overwhere-i-tobin-ashdown",
+      ],
     },
   ],
 } as const satisfies Lore

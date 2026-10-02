@@ -76,5 +76,13 @@ export const overwhereITheGreyfenAlpha22 = {
       fact: "Salted, Ghost-Eye's head keeps three weeks; unsalted, it rots past the Hall's taking in a week.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "On day 4 Nala and Rowan hauled Ghost-Eye's head out of the Greyfen unharmed by about 16:00.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-rowan-coalby",
+      ],
+    },
   ],
 } as const satisfies Lore
