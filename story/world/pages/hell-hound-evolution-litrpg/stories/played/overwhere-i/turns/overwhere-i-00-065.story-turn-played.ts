@@ -10,7 +10,7 @@ export const overwhereI00065 = {
   position: 65,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "We take the head back to the village.",
   beats: [
     "They haul the sled back through the Greyfen, Nala and Rowan taking turns on the rope.",
@@ -24,6 +24,9 @@ export const overwhereI00065 = {
     '"Salt it tonight," Hessa says, "or it\'s past the Hall\'s taking within a week."',
     "Hessa stands back, holding her peace, her eyes on Nala.",
     "Tobin pushes through, eyes on the head, and begs Nala to take him with her to Wendlow.",
+  ],
+  issues: [
+    '"onto the east road" - the east road begins beyond Fenwatch; a track runs to its west gate',
   ],
   lore: [
     "lore/overwhere-i-agathe-morrow",
@@ -39,6 +42,6 @@ export const overwhereI00065 = {
     "place/overwhere-i-greyback-and-east-road",
     "place/overwhere-i-the-greyfen",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-02T17:00:00.000Z",
 } as const satisfies StoryTurnPlayed
