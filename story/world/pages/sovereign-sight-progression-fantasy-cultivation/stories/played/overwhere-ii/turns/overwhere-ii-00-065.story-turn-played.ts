@@ -7,7 +7,13 @@ export const overwhereIi00065 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 65,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Gladly. I’ll bring me new spear, can’t be too safe with the wolves around.” I say with an eager grin.",
+  lore: [
+    "lore/overwhere-ii-bet-loddon",
+    "lore/overwhere-ii-oswy-crake",
+    "lore/overwhere-ii-reeve-corwin-dray-2",
+    "place/overwhere-ii-ashlin-farm",
+  ],
 } as const satisfies StoryTurnPlayed
