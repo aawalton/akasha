@@ -25,6 +25,7 @@ export const overwhereI00095 = {
     'He eyes Nala, the bulging sack on her shoulder and the crossbow. "And yours, woman?"',
   ],
   lore: [
+    "lore/overwhere-i-ivo-tessaly",
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
     "lore/overwhere-i-osric-fenn",
@@ -32,6 +33,6 @@ export const overwhereI00095 = {
     "place/overwhere-i-wendlow",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
   endsAt: "2026-10-05T11:30:00.000Z",
 } as const satisfies StoryTurnPlayed
