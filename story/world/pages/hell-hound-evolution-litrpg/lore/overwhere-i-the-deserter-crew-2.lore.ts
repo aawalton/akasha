@@ -220,7 +220,7 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "The lens shows the gallery mouths dark and still; nothing within them shows from her boulders.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Crossbowman Four lies dead on his face in the gallery mouth, his crossbow under him.",
