@@ -22,7 +22,7 @@ export const overwhereIiiCurrentFeed = {
     },
     {
       fact: "Her fifth fed weave shows: [Current Feed has advanced: Basic → Novice]",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
 } as const satisfies Lore
