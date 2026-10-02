@@ -11,4 +11,5 @@ export const mariGameMasterSaltAndLamplight = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "5bedc2cf-9452-464e-93b0-ea8e3658a61a",
 } as const satisfies Seat
