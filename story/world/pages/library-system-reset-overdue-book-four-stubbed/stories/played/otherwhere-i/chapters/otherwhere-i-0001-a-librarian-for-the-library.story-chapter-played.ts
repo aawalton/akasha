@@ -248,7 +248,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 48,
-      cover: "image/image-05f7d8947a67f3ac",
+      cover: "image/image-f87fdffe0909b622",
       coverAfter: "The worm reels, spitting salt, burned but not dry, its body still",
     },
     {
