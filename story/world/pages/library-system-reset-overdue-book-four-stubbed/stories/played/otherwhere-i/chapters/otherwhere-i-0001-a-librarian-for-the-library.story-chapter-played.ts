@@ -133,7 +133,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 25,
-      cover: "image/image-8c9d8f571d135373",
+      cover: "image/image-f3a67dce030af3be",
       coverAfter: "In the ruined oval, one coil lies under you and the other",
     },
     {
