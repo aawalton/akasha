@@ -11,7 +11,7 @@ export const overwhereIii00057 = {
   position: 57,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I go refill at the shrine then come back to continue.",
   beats: [
     "Nala walks out the south gate and down to the crossroads, and sits against the shrine's warm stone.",
@@ -40,6 +40,11 @@ export const overwhereIii00057 = {
     "place/overwhere-iii-wrenwood-crossroads",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-05T13:00:00.000Z",
 } as const satisfies StoryTurnPlayed
