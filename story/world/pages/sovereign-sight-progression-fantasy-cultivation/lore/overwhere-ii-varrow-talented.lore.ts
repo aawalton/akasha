@@ -21,7 +21,7 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "Hawise fights with two short blades, and speaks little, and that little blunt.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Osric Penn, twenty-four, is huge and loud, with a Talent called Heft, Minor, at the Surface.",
