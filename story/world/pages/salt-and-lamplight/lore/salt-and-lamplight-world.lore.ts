@@ -36,6 +36,10 @@ export const saltAndLamplightWorld = {
         "character-player/salt-and-lamplight-nala",
       ],
     },
+    {
+      fact: "A northerly gale comes in on Nala's third day, the worst of the autumn so far.",
+      knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-morwenna"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

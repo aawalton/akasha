@@ -184,6 +184,18 @@ export const saltAndLamplightMorwenna = {
         "character-other/salt-and-lamplight-morwenna",
       ],
     },
+    {
+      fact: "Morwenna sings old coast songs of her mother's under her breath while she works, and stops if heard.",
+      knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-morwenna"],
+    },
+    {
+      fact: "Ysella lies in Penmorrow's chapel yard, and Morwenna has not been to her grave since the burying.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/salt-and-lamplight-morwenna",
+        "character-other/salt-and-lamplight-dilys",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

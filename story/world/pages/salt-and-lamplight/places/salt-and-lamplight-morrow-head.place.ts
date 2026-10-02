@@ -92,5 +92,13 @@ export const saltAndLamplightMorrowHead = {
         "character-other/salt-and-lamplight-morwenna",
       ],
     },
+    {
+      fact: "In a gale the keeper stays up in the lantern room all night, wiping salt from the glass.",
+      knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-morwenna"],
+    },
+    {
+      fact: "A tin bath hangs on the cottage wall, and is filled before the hearth from the kettle and the pot.",
+      knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-morwenna"],
+    },
   ],
 } as const satisfies Place
