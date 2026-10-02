@@ -117,7 +117,7 @@ export const overwhereITheWesternMarch = {
     },
     {
       fact: "One who draws on a small mana crystal regains 30 mana, and the crystal crumbles to dust.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Held in hand, a mana crystal hums faintly against anyone with a mana reserve.",
