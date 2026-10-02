@@ -6,7 +6,7 @@ export const pray = {
   slug: "pray",
   title: "Pray",
   toDoCategory: "faith",
-  toDoDueDate: "2026-10-01",
+  toDoDueDate: "2026-10-02",
   priority: "p2",
   toDoRecurrence: "FREQ=DAILY",
   toDoSortOrder: 0,
