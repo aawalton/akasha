@@ -22,7 +22,7 @@ export const overwhereITheDeserterCrew222 = {
     },
     {
       fact: "At the bend Crow carries 9 silver and a fine crossbow; Five carries 12 copper.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "At the quarry Four carries 6 copper; Blademen One and Two, 10 copper between them.",
