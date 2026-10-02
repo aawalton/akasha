@@ -7,7 +7,16 @@ export const overwhereIii00060 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 60,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I go back to the post to finish draining my mana, then to the shrine to recover, then back to Brannagh’s.",
+  lore: [
+    "lore/overwhere-iii-brannagh-tull",
+    "lore/overwhere-iii-brannagh-tull-2",
+    "lore/overwhere-iii-cleansing-weave",
+    "lore/overwhere-iii-corruption",
+    "place/overwhere-iii-merrowgate",
+    "place/overwhere-iii-merrowgate-guild-post",
+    "place/overwhere-iii-wrenwood-crossroads",
+  ],
 } as const satisfies StoryTurnPlayed
