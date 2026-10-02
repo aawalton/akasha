@@ -164,5 +164,9 @@ export const overwhereIiWendleFord = {
       fact: "Maddy knows most faces in the valley, and has never seen the begging woman before.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Pleading, the woman's tears look real, but her eyes keep going to the Lantern's door.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place
