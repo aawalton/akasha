@@ -52,6 +52,7 @@ interface Session {
   readonly waiting: Map<number, Waiting>
   lost: boolean
   went: string | null
+  wrote: string
 }
 
 function refusalOf(refusal: string, saying: string): CommandServerRefusal {
@@ -93,7 +94,7 @@ export function servingFrom(at: CommandServerAt): Serving {
         refuse(
           refusalOf(
             REFUSAL_HUNG,
-            `${slug}#${exported} was not answered within ${timeoutMs}ms, so the server was killed`
+            `${slug}#${exported} was not answered within ${timeoutMs}ms, so the server was killed${voiced(asking.wrote)}`
           )
         )
       }, timeoutMs)
@@ -164,7 +165,14 @@ export function servingFrom(at: CommandServerAt): Serving {
         )
         return
       }
-      const fresh: Session = { child, protocol, waiting: new Map(), lost: false, went: null }
+      const fresh: Session = {
+        child,
+        protocol,
+        waiting: new Map(),
+        lost: false,
+        went: null,
+        wrote: "",
+      }
       let settled = false
       const timer = setTimeout(() => {
         if (settled) {
@@ -172,7 +180,7 @@ export function servingFrom(at: CommandServerAt): Serving {
         }
         settled = true
         retire(fresh, "SIGKILL")
-        const why = `no hello arrived within ${at.startTimeoutMs}ms${voiced(wrote)}`
+        const why = `no hello arrived within ${at.startTimeoutMs}ms${voiced(fresh.wrote)}`
         refuse(refusalOf(REFUSAL_START, why))
       }, at.startTimeoutMs)
 
@@ -180,9 +188,8 @@ export function servingFrom(at: CommandServerAt): Serving {
         at.onNoise?.(text)
         return undefined
       }
-      let wrote = ""
       const keep = (chunk: string): undefined => {
-        wrote = `${wrote}${chunk}`.slice(-VOICE_KEPT)
+        fresh.wrote = `${fresh.wrote}${chunk}`.slice(-VOICE_KEPT)
         return undefined
       }
       child.stdout?.setEncoding("utf8")
@@ -204,7 +211,7 @@ export function servingFrom(at: CommandServerAt): Serving {
         }
       })
       child.on("exit", (code, signal) => {
-        const went = `the command server exited (code ${String(code)}, signal ${String(signal)})${voiced(wrote)}`
+        const went = `the command server exited (code ${String(code)}, signal ${String(signal)})${voiced(fresh.wrote)}`
         fresh.went = went
         dropped(fresh)
         setImmediate(() => lose(fresh, went))
@@ -215,7 +222,7 @@ export function servingFrom(at: CommandServerAt): Serving {
         }
         settled = true
         clearTimeout(timer)
-        const why = `it exited before saying hello (code ${String(code)})${voiced(wrote)}`
+        const why = `it exited before saying hello (code ${String(code)})${voiced(fresh.wrote)}`
         refuse(refusalOf(REFUSAL_START, why))
       })
 

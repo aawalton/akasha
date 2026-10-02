@@ -85,6 +85,14 @@ async function ranFor(root: string, ask: Ask): Promise<Loaded | string> {
   const key = asked(ask)
   const held = loaded.get(key)
   if (held !== undefined) return held
+  const began = ageMs()
+  note(`loading ${key} for ask ${String(ask.id)}`)
+  const made = await loadedFor(root, ask, key)
+  note(`loaded ${key} in ${String(ageMs() - began)}ms`)
+  return made
+}
+
+async function loadedFor(root: string, ask: Ask, key: string): Promise<Loaded | string> {
   const every = await codeFilesIn(root, ask.module)
   if (every.length === 0) {
     return `no module and no command carries the slug \`${ask.module}\`, so ${key} is answered by nothing`

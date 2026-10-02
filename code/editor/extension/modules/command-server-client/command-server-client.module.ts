@@ -81,6 +81,10 @@ export const commandServerClient = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A server killed for not answering is refused with the bytes it wrote as well.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A server that says no hello is refused with the bytes that server wrote instead.",
     },
     {
