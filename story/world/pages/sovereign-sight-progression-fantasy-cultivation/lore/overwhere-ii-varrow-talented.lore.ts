@@ -63,5 +63,9 @@ export const overwhereIiVarrowTalented = {
       fact: "Osric Penn is huge and loud, and swings a wooden maul one-handed, light as a switch.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Corra Venn is small and sharp-eyed, and snaps tiny blue sparks between her fingertips.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
