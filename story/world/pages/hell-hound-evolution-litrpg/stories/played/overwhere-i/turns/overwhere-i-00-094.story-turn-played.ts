@@ -10,7 +10,7 @@ export const overwhereI00094 = {
   position: 94,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I spend the afternoon carefully experimenting with casting spells on the remaining wounds on my arms, single elements and pairs trying to find a combination and visualization to accelerate healing",
   beats: [
@@ -23,7 +23,7 @@ export const overwhereI00094 = {
     "Near six she binds water and earth together, meaning flesh to knit, and holds it on the graze.",
     "A heavy, wet pull settles behind her breastbone, and the graze begins slowly to close.",
     "She works it over the shallowest of her wounds until her well sinks to four-fifths, then stops.",
-    "The forearm graze is a pink seam; the deeper wounds will take more time and mana.",
+    "The forearm graze is a pink seam; on the deep bolt wounds the weave takes no hold at all.",
     "Smells of mutton stew drift in from the common room, and the drover's laugh at the hearth.",
     "The innkeeper puts her head in: \"Stew's two copper, bed's eight, the tub three. What'll it be?\"",
   ],
