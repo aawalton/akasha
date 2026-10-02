@@ -4,6 +4,7 @@ export const metaworldHopecore0188Chapter106HoundDog2 = {
   id: "01a0f0ec-e4ec-7a64-a30f-b62a77e43f87",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0188-chapter-106-hound-dog-2",
+  ownProgress: 3712,
   position: 188,
   publishedAt: "2026-09-30",
   unit: "unit/words",

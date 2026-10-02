@@ -4,6 +4,7 @@ export const rebornAsADemonicTree0099Chapter624SufferingInSilence = {
   id: "01a0f3ed-511a-7531-b53a-b6612cd74653",
   type: "page-type/story-chapter-read",
   slug: "reborn-as-a-demonic-tree-0099-chapter-624-suffering-in-silence",
+  ownProgress: 2807,
   position: 99,
   publishedAt: "2026-09-30",
   unit: "unit/words",

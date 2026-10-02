@@ -4,6 +4,7 @@ export const catGirlEvolution0172169SheHulk = {
   id: "01a0f15a-00d6-7a22-89b9-0a9016624f54",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0172-169-she-hulk",
+  ownProgress: 2721,
   position: 172,
   publishedAt: "2026-09-30",
   unit: "unit/words",

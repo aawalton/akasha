@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0199Chapter757BoonsAndB
   id: "01a0f237-64f9-7f6e-abfa-66a49e21ef87",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0199-chapter-757-boons-and-blades",
+  ownProgress: 2700,
   position: 199,
   publishedAt: "2026-09-30",
   unit: "unit/words",
