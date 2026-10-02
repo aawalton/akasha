@@ -106,5 +106,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Cranking, Crow and Five crouch half-hidden in the pines; a beam at a head or neck is hard.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A beam at a crouching man's body is moderate.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
