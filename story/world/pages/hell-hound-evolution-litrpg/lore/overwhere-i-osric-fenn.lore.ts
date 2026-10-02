@@ -197,7 +197,12 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Told Voss is dead, Osric presses 5 silver on Nala for the road, and swears the east carts owe her.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+        "lore/overwhere-i-tobin-ashdown",
+      ],
     },
     {
       fact: "Osric scrambles out from under the cart, bruised from the run, and stares at Nala as if at a ghost.",
@@ -244,15 +249,29 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Salting and packing the head and ears in Voss's sack takes about a quarter hour.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-tobin-ashdown",
+      ],
     },
     {
       fact: "One 4-copper sack of salt packs Voss's head and all the ears together; salted, they keep 3 weeks.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+        "lore/overwhere-i-tobin-ashdown",
+      ],
     },
     {
       fact: "Salt paid, Osric counts 5 silver into her hand for the road, then sheepishly asks his toll back.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+        "lore/overwhere-i-tobin-ashdown",
+      ],
     },
   ],
   secrets: "jsonl",
