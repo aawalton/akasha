@@ -55,5 +55,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Voss and Blademan Three reach the charcoal burners' camp about 16:40.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The ambush bend lies three miles from the knoll by the cart track: twelve minutes at the stride.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
