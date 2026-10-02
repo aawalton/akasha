@@ -4,13 +4,14 @@ export const overwhereIv00061 = {
   id: "01a0fdc2-7560-7d4e-977d-e46cec924dc6",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-061",
+  cover: "image/image-da9db5566f87e917",
   ownLength: 172,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 61,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I keep trying. Rift Rend and Spatial Sense must be related, both coming from my Dimensional Magic. I should be able to hit things I can’t see with my eyes. I can see the wolf clearly with my Spatial Sense, I should be able to target it there.",
   beats: [
@@ -33,6 +34,11 @@ export const overwhereIv00061 = {
     "place/overwhere-iv-crake-gill",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-04T14:30:00.000Z",
 } as const satisfies StoryTurnPlayed
