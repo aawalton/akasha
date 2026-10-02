@@ -17,7 +17,7 @@ export const overwhereI00087 = {
     "character-other/overwhere-i-quarry-crewman-four",
     "character-other/overwhere-i-harl-voss",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "I channel two fire beams, aimed from my eyes this time and finish off the drakewolf, then continue.",
   beats: [
