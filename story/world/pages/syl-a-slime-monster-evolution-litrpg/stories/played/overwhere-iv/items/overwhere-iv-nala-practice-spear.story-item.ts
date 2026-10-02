@@ -9,5 +9,5 @@ export const overwhereIvNalaPracticeSpear = {
   character: "character-player/overwhere-iv-nala",
   slot: "item-slot/main-hand",
   description:
-    "An ash shaft worn smooth by other hands, with a blunted iron head heavier than it looks.",
+    "An ash shaft worn smooth by other hands, with a soft iron head, newly pointed and edged.",
 } as const satisfies StoryItem
