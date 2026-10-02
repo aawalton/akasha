@@ -120,6 +120,14 @@ export const overwhereIiiCrookAndCandle = {
         "character-other/overwhere-iii-bet-harrow",
       ],
     },
+    {
+      fact: "At the Crook and Candle, supper is 3 copper and a bed under the eaves 8 a night.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-bet-harrow",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
