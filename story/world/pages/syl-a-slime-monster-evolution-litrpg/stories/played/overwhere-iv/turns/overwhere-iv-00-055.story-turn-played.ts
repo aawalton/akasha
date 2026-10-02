@@ -7,7 +7,12 @@ export const overwhereIv00055 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 55,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I go and tell a heroic tale, sure to attribute each kill to a careful cut with my spear skill, then go back to the guild to turn in the quest and the ears and ask about where I could get a better spear.",
+  lore: [
+    "lore/overwhere-iv-ilsa-crane-2",
+    "place/overwhere-iv-millbrook-smithy",
+    "place/overwhere-iv-tull-farm",
+  ],
 } as const satisfies StoryTurnPlayed
