@@ -14,7 +14,7 @@ export const overwhereIii00060 = {
     "character-other/overwhere-iii-marda-hesk",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I go back to the post to finish draining my mana, then to the shrine to recover, then back to Brannagh’s.",
   beats: [
@@ -23,10 +23,10 @@ export const overwhereIii00060 = {
     "Nala loops the weave tight. It sinks in deep and clean, and a thick dark vein tears away.",
     "The wolf's stone is over half pale now.",
     "The dusk bell rings. Marda tongs it back into the lead box and locks it. Nala still has mana left.",
-    "She walks out through the south gate's night wicket, past the guard, down to the crossroads.",
+    "She walks out the night wicket, past the guard, and two miles down the dark road to the crossroads.",
     "She sits against the shrine's warm stone in the dark. The white-gold threads seep in.",
-    "In two hours her well is brimming, and the throb in her temples is gone.",
-    "She walks back up through the wicket and along the dark streets to Brannagh's lane.",
+    "She rests a bit over an hour. Her well is two-thirds full, and the throb in her temples is gone.",
+    "She walks the two miles back, in through the wicket, and along the dark streets to Brannagh's lane.",
     "Brannagh's shutters are closed. No light shows under the door. The bench outside is empty.",
   ],
   issues: [
