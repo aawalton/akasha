@@ -325,5 +325,9 @@ export const overwhereIiiBrannaghTull2 = {
       fact: "At first light on day ten an old shepherd off the slate waits, a ram's-horn scar down his shin.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
+    {
+      fact: "The shepherd's scar is years old; he leaves a wedge of hill cheese on the counter for the healer.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+    },
   ],
 } as const satisfies Lore
