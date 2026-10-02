@@ -53,7 +53,7 @@ export const overwhereIii0002TheClayCup = {
     },
     {
       position: 26,
-      cover: "image/image-baf819ed04ea8b53",
+      cover: "image/image-0d036d4d198fef01",
       coverAfter: "She jerks her chin at the curtain behind the counter.",
     },
     {
