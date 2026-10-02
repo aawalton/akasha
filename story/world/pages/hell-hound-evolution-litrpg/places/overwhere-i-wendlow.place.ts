@@ -180,5 +180,9 @@ export const overwhereIWendlow = {
       fact: "Grete doubts a Level 10 alone took a Level 24 sergeant, and asks who else was in it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Grete has never seen Name ??? on a living soul; it makes her careful, not hostile.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
