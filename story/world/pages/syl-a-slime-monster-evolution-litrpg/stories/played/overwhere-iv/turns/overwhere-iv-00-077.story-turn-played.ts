@@ -4,13 +4,14 @@ export const overwhereIv00077 = {
   id: "01a0fef5-032c-7168-b29c-da641dc7ade0",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-077",
+  cover: "image/image-84b0e9878e992791",
   ownLength: 206,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 77,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I put one more slice in front of the line, as wide as I can make it, right where they will move into the slice, then get up and race for the farm.",
   beats: [
@@ -36,6 +37,12 @@ export const overwhereIv00077 = {
     "lore/overwhere-iv-the-tangle-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-06T21:21:00.000Z",
+  coverAfter: "The breath is knocked out of you. Your back burns. The warmth",
 } as const satisfies StoryTurnPlayed
