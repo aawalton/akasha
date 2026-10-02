@@ -280,6 +280,10 @@ export const overwhereITheDeserterCrew = {
       fact: "At the fire Osric's mule rears and starts to bolt down the road, cart, cask and all.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "With blades out, Tobin looses at the nearest blademan.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
