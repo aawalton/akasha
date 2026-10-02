@@ -10,7 +10,7 @@ export const overwhereIi00086 = {
   position: 86,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "“Thank you Lady Varrow” I say as I take the silver bar.",
   beats: [
     'Nala: "Thank you, Lady Varrow." She takes the silver bar from the grey cloth.',
@@ -32,6 +32,6 @@ export const overwhereIi00086 = {
     "lore/overwhere-ii-nala-2",
     "lore/overwhere-ii-nala-3",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-21T08:23:00.000Z",
 } as const satisfies StoryTurnPlayed
