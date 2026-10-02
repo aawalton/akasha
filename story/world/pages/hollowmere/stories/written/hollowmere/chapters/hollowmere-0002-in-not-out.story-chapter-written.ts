@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0002 = {
+export const hollowmere0002InNotOut = {
   id: "01a0fd30-8cbe-7e69-972a-88f5a076a074",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0002",
+  slug: "hollowmere-0002-in-not-out",
   position: 2,
   unit: "unit/words",
-  title: "Chapter 2",
+  title: "In, Not Out",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 7311,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Half six, Tuesday: Bea bangs on your door in running kit, as she threatened.",
     "You say absolutely not through the door; she says hot water; you go.",
@@ -80,12 +80,25 @@ export const hollowmere0002 = {
   ],
   lore: [
     "lore/hollowmere-amara",
+    "lore/hollowmere-bea",
     "lore/hollowmere-kit",
     "lore/hollowmere-lin",
     "lore/hollowmere-nala",
     "lore/hollowmere-penhallow",
     "lore/hollowmere-priya",
     "lore/hollowmere-shiv",
+    "lore/hollowmere-yusra",
     "place/hollowmere-academy",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-shiv",
+    "character-other/hollowmere-penhallow",
+    "character-other/hollowmere-kit",
+    "character-other/hollowmere-amara",
+    "character-other/hollowmere-priya",
+    "character-other/hollowmere-lin",
+    "character-other/hollowmere-yusra",
   ],
 } as const satisfies StoryChapterWritten
