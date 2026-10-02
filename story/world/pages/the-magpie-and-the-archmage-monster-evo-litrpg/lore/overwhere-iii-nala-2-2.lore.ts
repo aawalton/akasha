@@ -24,5 +24,13 @@ export const overwhereIiiNala22 = {
       fact: "Nala supped on the washerwoman's oatcakes her eighth night; by mid-morning day nine she's hungry.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "On her eighth night Nala paid Bet 8 copper for the bed under the eaves.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-bet-harrow",
+      ],
+    },
   ],
 } as const satisfies Lore
