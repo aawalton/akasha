@@ -49,7 +49,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "The air near Lady Varrow is cold, and a skin of frost lies on the arms of her chair.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "She speaks briefly and never smiles, and watches a guest's hands and eyes as they talk.",
