@@ -88,6 +88,26 @@ export const overwhereIiSirEdricHale = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
+      fact: "Through the split stone Sir Edric feels the mountain's root bowed upward, like a dam under flood.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The crag's crack runs down past where his sense can follow, deeper than any fault he has felt.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Under the strain he feels a slow swell and ease in the rock, like the breath of something asleep.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Sir Edric feels fresh hairline cracks fanning out east and west along the range from the crag.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "In thirty years Sir Edric has felt nothing like it, and it frightens him, though he hides it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Dray wrote Sir Edric that Nala found a crag split open, with something pulling under it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
