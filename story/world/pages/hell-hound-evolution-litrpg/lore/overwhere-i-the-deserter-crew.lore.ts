@@ -159,6 +159,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Once they move, a guided slug at a man's head within 12 yards is moderate.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Voss has 90 health; his steel cap wards 2 against a slug; his axe does 22 harm.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
