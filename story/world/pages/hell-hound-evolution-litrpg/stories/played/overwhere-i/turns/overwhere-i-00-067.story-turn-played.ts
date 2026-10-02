@@ -4,13 +4,14 @@ export const overwhereI00067 = {
   id: "01a0fd20-7052-7a22-a86c-d84e27266528",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-067",
+  cover: "image/image-83d4afa378920955",
   ownLength: 232,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 67,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Sure, I don’t care who comes. Let’s pack it now and we can go with Osric in the morning.”",
   beats: [
@@ -37,6 +38,11 @@ export const overwhereI00067 = {
     "place/overwhere-i-greyback-and-east-road",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-02T18:30:00.000Z",
 } as const satisfies StoryTurnPlayed
