@@ -26,6 +26,10 @@ export const overwhereIii00069 = {
     'Marda sweeps them across the desk to her. "Yours. Ten of those make a glimmerstone."',
     "Nala's well is empty again. In the lead box, the six seed stones sit in their corner.",
   ],
+  issues: [
+    '"In the lead box, the six seed stones sit in their corner." - Leave It Open',
+    '"the six seed stones sit in their corner" - No Prompt',
+  ],
   lore: [
     "lore/overwhere-iii-braid-weaving",
     "lore/overwhere-iii-cleansing-weave",
@@ -37,5 +41,6 @@ export const overwhereIii00069 = {
     "lore/overwhere-iii-nala-2-2",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-07T11:15:00.000Z",
 } as const satisfies StoryTurnPlayed
