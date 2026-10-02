@@ -139,5 +139,9 @@ export const overwhereIWendlow = {
       fact: "Sergeant Coyle peers in the sack, whistles at Voss's face, and sends her to Antler Hall.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Gate sergeant Bram Coyle is thickset and grey-bearded.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Place
