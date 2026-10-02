@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0011 = {
+export const hollowmere0011ClothedToStart = {
   id: "01a0fe74-bd9e-7a13-b6ef-f7649bece8f3",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0011",
+  slug: "hollowmere-0011-clothed-to-start",
   position: 11,
   unit: "unit/words",
-  title: "Chapter 11",
+  title: "Clothed, to Start",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 3103,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Thursday: dawn at the boathouse, the register, the whistle; fewer shriekers on the shingle today.",
     'Shiv signs "Doyle (reluctant, again)"; you two swim out to the buoy and hang there, breathing.',
@@ -53,5 +53,26 @@ export const hollowmere0011 = {
     "You put the finished essay on your desk under Kit's handkerchief, and sleep at once.",
     "A day at Hollowmere ends.",
   ],
-  lore: ["lore/hollowmere-academy-2"],
+  lore: [
+    "lore/hollowmere-academy-2",
+    "lore/hollowmere-amara",
+    "lore/hollowmere-bea",
+    "lore/hollowmere-kit",
+    "lore/hollowmere-lin",
+    "lore/hollowmere-nala",
+    "lore/hollowmere-nala-2",
+    "lore/hollowmere-priya",
+    "lore/hollowmere-shiv",
+    "lore/hollowmere-yusra",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-shiv",
+    "character-other/hollowmere-kit",
+    "character-other/hollowmere-amara",
+    "character-other/hollowmere-priya",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-lin",
+    "character-other/hollowmere-yusra",
+  ],
 } as const satisfies StoryChapterWritten
