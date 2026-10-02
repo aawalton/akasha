@@ -68,5 +68,9 @@ export const overwhereIiiNala22 = {
       fact: "Back at the shrine, Nala fed the last dark seed stone from current; it held and cracked to a speck.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "The current burn on Nala's palms is shallow, like a mild scald, and fades as her health comes back.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
