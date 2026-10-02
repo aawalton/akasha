@@ -231,6 +231,10 @@ export const overwhereITheDeserterCrew = {
       fact: "While its jaws hold her, the crew Drakewolf does 6 harm each 3 seconds.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A slug to the crew Drakewolf's head does it 30 harm, its skull warding 1.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
