@@ -7,7 +7,14 @@ export const overwhereIv00054 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 54,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I slice it as well, the go through and collect the ears, checking for any other loot as well, then guide the sheep back and report back to the guild.",
+  lore: [
+    "lore/overwhere-iv-ilsa-crane-2",
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "place/overwhere-iv-raiders-stream",
+    "place/overwhere-iv-tull-farm",
+  ],
 } as const satisfies StoryTurnPlayed
