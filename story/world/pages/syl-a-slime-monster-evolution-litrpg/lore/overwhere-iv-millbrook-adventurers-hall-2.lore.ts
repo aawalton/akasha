@@ -58,39 +58,75 @@ export const overwhereIvMillbrookAdventurersHall2 = {
     },
     {
       fact: "Ilsa pays the great wolf's silver on its head as gladly as on its pelt.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
     },
     {
       fact: "Ilsa knows the blade wolf's head at once for no Tangle beast, and goes pale.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
     },
     {
       fact: "She reads its signs by the handbook: a monster too strong for its ground, out by night.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
     },
     {
       fact: "Ilsa reckons a new dungeon has opened up the Crowstone track, and says so plainly.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
     },
     {
       fact: "Ilsa writes to Aubrin's hall that night, sending it east with the morning carter.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
     },
     {
       fact: "A new dungeon, once Aubrin confirms it, pays its finder 2 gold from the guild.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
     },
     {
       fact: "A dungeon found and confirmed counts as a major job on a clerk's silver letter.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
     },
     {
       fact: "Aubrin will take some ten days to send anyone to look at the quarry.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
     },
     {
       fact: "Ilsa bars every bronze from the Crowstone track until Aubrin has looked.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
     },
   ],
 } as const satisfies Lore

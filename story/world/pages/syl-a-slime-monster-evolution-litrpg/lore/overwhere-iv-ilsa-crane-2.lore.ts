@@ -114,7 +114,11 @@ export const overwhereIvIlsaCrane2 = {
     },
     {
       fact: "The handbook says a new dungeon shows by monsters too strong for their ground, out by night.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
     },
     {
       fact: "The handbook lists Spellblade among the intermediate classes, and says little else of it.",

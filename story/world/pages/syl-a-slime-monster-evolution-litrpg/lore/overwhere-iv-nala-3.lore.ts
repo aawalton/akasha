@@ -36,5 +36,9 @@ export const overwhereIvNala3 = {
       fact: "Nala's second rend, from the back, met her first and parted the LV 14 blade wolf's neck.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Nala left the blade wolf's carcass and broken spear, and carried its head seven miles home.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore
