@@ -84,5 +84,33 @@ export const overwhereIvTheTangle2 = {
       fact: "Once seven of the strike lie dead, the rest break and run, hobgoblins or no.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A rend gone wide sheared a yew bough over Nala's bank; it crashed into the brambles near her.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "At the bough's crash the maul hobgoblin pointed at her bank, and six goblins came at the brambles.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "The six are LV 2, 2, 3, 3, 4 and 5; the LV 4 and 5 wear hide, a ward of 1, and carry short spears.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Of the six, the LV 3s carry clubs and the LV 2s knives; none of the four wears a ward.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Bramble slows goblins climbing the bank; the six reach where she lies in about half a minute.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The slingers throw at the bank where the bough fell, not at her; a stone finds her only by ill luck.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The slingers stop throwing once their own six are in the brambles, for fear of hitting them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
