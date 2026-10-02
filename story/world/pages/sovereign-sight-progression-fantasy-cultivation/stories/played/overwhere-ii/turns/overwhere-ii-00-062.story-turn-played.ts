@@ -10,7 +10,7 @@ export const overwhereIi00062 = {
   position: 62,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“I’ve heard the call a few times, ignored it for now. I’ll answer when I’m ready and not before.” I go back to my preparation routine, working on my bones. Similar to me muscles, I use my knowledge of anatomy to work through the bones, one at a time, working from smallest to largest.",
   beats: [
@@ -50,6 +50,6 @@ export const overwhereIi00062 = {
     "lore/overwhere-ii-oswy-crake",
     "place/overwhere-ii-wendle-ford",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-09T12:00:00.000Z",
 } as const satisfies StoryTurnPlayed
