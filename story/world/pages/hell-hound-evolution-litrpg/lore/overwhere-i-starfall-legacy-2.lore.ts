@@ -76,5 +76,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "An overcharged drill slug pierces 2 points of ward, not 1, at 40 mana.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A drill slug punches through a wooden shield, keeping half its force for what is behind.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
