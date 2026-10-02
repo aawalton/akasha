@@ -160,6 +160,10 @@ export const overwhereITobinAshdown = {
       fact: "Unanswered, Tobin looses at a figure coming on in the dark; a flame held high, he knows her.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At Ketter's Well Tobin keeps watch, bow strung; he challenges anyone who comes out of the dark.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
