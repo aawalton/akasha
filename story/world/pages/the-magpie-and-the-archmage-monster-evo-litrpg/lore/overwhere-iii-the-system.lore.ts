@@ -334,7 +334,7 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "Buying Inventory shows: [New trait acquired – Inventory.]",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "[Inventory – At [Basic] level, keep a knapsack's worth in a pocket bound to you.]",
