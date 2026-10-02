@@ -38,5 +38,6 @@ export const overwhereI00083 = {
     "lore/overwhere-i-the-deserter-crew-2",
     "lore/overwhere-i-the-deserter-crew-2-2",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-03T17:05:00.000Z",
 } as const satisfies StoryTurnPlayed
