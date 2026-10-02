@@ -7,6 +7,14 @@ export const overwhereIii00058 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 58,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action: "I go for lunch, the back to the shrine to recover, then check in at Brannagh’s again",
+  lore: [
+    "lore/overwhere-iii-brannagh-tull",
+    "lore/overwhere-iii-brannagh-tull-2",
+    "lore/overwhere-iii-cleansing-weave",
+    "lore/overwhere-iii-corruption",
+    "place/overwhere-iii-crook-and-candle",
+    "place/overwhere-iii-wrenwood-crossroads",
+  ],
 } as const satisfies StoryTurnPlayed
