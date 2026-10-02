@@ -4,10 +4,13 @@ export const overwhereIv00056 = {
   id: "01a0fd85-9790-7ce0-be5f-aa66c4c7dd56",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-056",
+  ownLength: 202,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 56,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action: "I go to Tobin to buy the best spear I can get.",
   beats: [
     "Tobin Ash's smithy sits on the square, its forge glowing, the air thick with coal smoke.",
@@ -24,6 +27,10 @@ export const overwhereIv00056 = {
     '"Day after tomorrow." He nods at the practice spear. "That one\'s blunt as a fence post."',
     '"Ten copper, and I\'ll put an edge and a point back on it while you wait."',
   ],
-  lore: ["place/overwhere-iv-millbrook-smithy"],
+  lore: [
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "place/overwhere-iv-millbrook-smithy",
+  ],
   endsAt: "2026-10-03T14:55:00.000Z",
 } as const satisfies StoryTurnPlayed
