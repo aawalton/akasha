@@ -5,6 +5,7 @@ export const otherwhereViii00012 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-viii-00-012",
   cover: "image/image-e6fa13811221b83c",
+  coverAfter: "You hang Maddox's coat on the peg in their place. The apron",
   ownLength: 495,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-viii"],
