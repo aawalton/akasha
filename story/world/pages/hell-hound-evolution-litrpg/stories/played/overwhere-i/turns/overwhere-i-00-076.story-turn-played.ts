@@ -7,9 +7,22 @@ export const overwhereI00076 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 76,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I pull out the pale blue crystals and pull on them, to see if I can use them to refill my mana.",
-  lore: ["lore/overwhere-i-the-western-march"],
+  beats: [
+    "Behind her boulders Nala takes the two pale blue crystals from her pack, cold in her bare hand.",
+    "They hum faintly against her; she wills herself to draw on the first.",
+    "Mana seeps into her, a steady filling she knows without seeing; in half a minute it is dry.",
+    "The crystal crumbles to dust between her fingers.",
+    "She draws the second the same way, and it too crumbles; her reserve is the fuller for both.",
+    "As she draws, a man groans somewhere in the galleries.",
+    "Another voice hisses him quiet.",
+  ],
+  lore: [
+    "lore/overwhere-i-the-deserter-crew-2",
+    "lore/overwhere-i-the-system-2",
+    "lore/overwhere-i-the-western-march",
+  ],
   endsAt: "2026-10-03T15:11:00.000Z",
 } as const satisfies StoryTurnPlayed
