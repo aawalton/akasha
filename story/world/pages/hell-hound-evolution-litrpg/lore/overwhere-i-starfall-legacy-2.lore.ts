@@ -176,5 +176,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Having loosed eye beams once, Nala no longer finds them a band harder than hand beams.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A held air push behind a cart lifts its pace from 3 to 4 miles an hour, at 10 mana a minute.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
