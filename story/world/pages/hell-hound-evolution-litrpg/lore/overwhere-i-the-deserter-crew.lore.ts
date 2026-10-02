@@ -272,6 +272,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Voss comes on through the fire behind his shield; the shield halves what a burst does to him.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Both crossbowmen loose at Nala as the fire blooms; Crow's unseen bolt comes a moment after.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
