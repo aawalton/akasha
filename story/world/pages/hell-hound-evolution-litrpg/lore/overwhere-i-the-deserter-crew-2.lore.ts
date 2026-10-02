@@ -206,5 +206,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "By the time her lens sweeps the pines, Crow has gone; nothing in the trees moves or looses.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Crow's stand in the pines shows trampled needles and a dropped bolt; scuffed needles lead north.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
