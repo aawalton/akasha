@@ -10,7 +10,7 @@ export const overwhereI00064 = {
   position: 64,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I go with Rowan and Sedge to get the head, keeping an eye out for any more dangers.",
   beats: [
     "As the snapper sinks, a window opens before Nala.",
@@ -27,7 +27,10 @@ export const overwhereI00064 = {
     "Behind them, the dead snapper lies on the channel bed, its shell out of reach.",
     "Rowan takes up the sled's rope and looks to Nala, waiting on her word to start home.",
   ],
-  issues: ['"Rowan takes up the sled\'s rope and looks to you." - No Prompt'],
+  issues: [
+    '"Rowan takes up the sled\'s rope and looks to you." - No Prompt',
+    '"Sedge noses through the reeds" - Sedge will not go within ten yards of Ghost-Eye\'s body',
+  ],
   lore: [
     "lore/overwhere-i-greyfen-beasts-2",
     "lore/overwhere-i-nala",
@@ -37,6 +40,6 @@ export const overwhereI00064 = {
     "lore/overwhere-i-the-greyfen-alpha-2-2",
     "place/overwhere-i-the-greyfen",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-02T10:25:00.000Z",
 } as const satisfies StoryTurnPlayed
