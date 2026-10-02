@@ -217,6 +217,10 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "Twenty miles past Ketter's Well, carts night at the Brennock Ford inn, a day short of Wendlow.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Day 6's road leaves the pines for farmland by noon; it passes quiet.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
