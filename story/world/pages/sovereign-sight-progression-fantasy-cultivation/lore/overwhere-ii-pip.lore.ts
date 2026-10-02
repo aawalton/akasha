@@ -17,7 +17,7 @@ export const overwhereIiPip = {
     },
     {
       fact: "Told Crake is dead, Pip does not believe it until Dray shows him the stone of his fists.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Pip feared Crake more than he loved him; when he believes it, he cries, then goes quiet.",
