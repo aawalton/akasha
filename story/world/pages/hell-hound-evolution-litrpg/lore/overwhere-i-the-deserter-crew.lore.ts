@@ -199,6 +199,10 @@ export const overwhereITheDeserterCrew = {
       fact: "When Voss falls or three of the five are down, the rest whistle three times and break for the pit.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Crewmen One to Five are the Levels 10, 12, 13, 14 and 16 at the roadblock, in that order.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
