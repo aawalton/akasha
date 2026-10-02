@@ -191,6 +191,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Osric dives under his cart at the first slug; Tobin looses at the nearest man once blades are out.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A man Tobin hits turns on him; Tobin's arrows do 8 harm.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
