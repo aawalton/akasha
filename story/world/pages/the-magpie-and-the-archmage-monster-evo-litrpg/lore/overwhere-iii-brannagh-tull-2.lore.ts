@@ -185,5 +185,9 @@ export const overwhereIiiBrannaghTull2 = {
         "character-other/overwhere-iii-brannagh-tull",
       ],
     },
+    {
+      fact: "One pull clears the lad's day-old bite; it is a clean puncture and one Mending Weave closes it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
