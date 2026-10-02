@@ -4,7 +4,7 @@ export const climb0001TheBathhouse = {
   id: "01a0f958-d437-7342-adfa-13c292f020a1",
   type: "page-type/story-chapter-written",
   slug: "climb-0001-the-bathhouse",
-  cover: "image/image-af97fb49c32f9ae7",
+  cover: "image/image-b6eafd17c88f4fee",
   scenes: [
     "image/image-2183ce62e6acda4c",
     "image/image-81be87e676bea1bd",
@@ -15,7 +15,7 @@ export const climb0001TheBathhouse = {
     "image/image-d63791c06b8a83b5",
     "image/image-63a328a410386cf4",
     "image/image-d73fcff2fea11e0c",
-    "image/image-af97fb49c32f9ae7",
+    "image/image-b6eafd17c88f4fee",
   ],
   pictured: [
     {
