@@ -29,5 +29,6 @@ export const overwhereI00076 = {
     "lore/overwhere-i-the-system-2",
     "lore/overwhere-i-the-western-march",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-03T15:11:00.000Z",
 } as const satisfies StoryTurnPlayed
