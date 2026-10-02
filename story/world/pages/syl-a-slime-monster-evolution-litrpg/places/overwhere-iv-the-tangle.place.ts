@@ -321,7 +321,7 @@ export const overwhereIvTheTangle = {
     },
     {
       fact: "Two goblin scouts go quietly fifty paces ahead of the strike; the main band follows them.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The main band is loud in the brush; on a still night it is heard a hundred paces off.",
@@ -369,7 +369,7 @@ export const overwhereIvTheTangle = {
     },
     {
       fact: "Over two miles in, the deer trail runs single file down a cleft walled with bramble.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Struck hard by a foe they cannot see, goblins panic; if both hobgoblins fall, the band breaks.",

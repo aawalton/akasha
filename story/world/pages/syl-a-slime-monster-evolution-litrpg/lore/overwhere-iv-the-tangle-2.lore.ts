@@ -14,7 +14,7 @@ export const overwhereIvTheTangle2 = {
     },
     {
       fact: "Where the cleft starts, a bramble-grown bank rises beside the trail, good to lie hidden in.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "In the dark a rend's black line can't be seen, and gives no sign of where it came from.",
@@ -26,7 +26,7 @@ export const overwhereIvTheTangle2 = {
     },
     {
       fact: "Once goblins see their own fall, the band halts and bunches about the hobgoblins, shrieking.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Bunched, the LV 10 hobgoblin blows his horn, and the slingers throw blind into the brambles.",
@@ -34,7 +34,7 @@ export const overwhereIvTheTangle2 = {
     },
     {
       fact: "The two scouts ahead turn back at the shrieking, and come up the trail toward the band.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "When the band breaks, most goblins flee back up toward the camp; a few bolt on down toward the ford.",
@@ -51,6 +51,26 @@ export const overwhereIvTheTangle2 = {
     {
       fact: "Lying still in the bank, she is no more to a passing goblin than bramble in the dark.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The band down the cleft is twenty and more goblins, with two far bigger ones mid-line.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Of the band's two big ones, one shoulders a great maul and one bears a spear and a horn.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "From the bramble bank Nala killed a LV 4 and a LV 5 goblin, and cut a third's shoulder.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "The band's slingers threw blind into the brambles, and none of their stones came near Nala.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "The spear-bearer blew his horn; the blast rolled up the cleft and away through the trees.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Lore
