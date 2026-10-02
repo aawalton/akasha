@@ -14,7 +14,7 @@ export const overwhereIiGreyShaw = {
     },
     {
       fact: "From Ashlin Farm to Grey Shaw is some twelve miles of road, running gently downhill.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The ruined tollhouse sits at the wood's near edge, roofless at one end, by an old toll bar.",
