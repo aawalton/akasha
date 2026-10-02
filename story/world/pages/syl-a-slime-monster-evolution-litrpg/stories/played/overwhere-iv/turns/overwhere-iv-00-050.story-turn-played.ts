@@ -4,13 +4,14 @@ export const overwhereIv00050 = {
   id: "01a0fd3a-6d16-768a-b761-ff08bea4f753",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-050",
+  cover: "image/image-cd0e8ab5d00ba404",
   ownLength: 159,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 50,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I read through the rest in rapid succession before dinner.",
   beats: [
     "Nala reads through the rest, one after another, as the light moves across the floor.",
@@ -31,6 +32,11 @@ export const overwhereIv00050 = {
     "place/overwhere-iv-millbrook-shrine",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-02T14:58:00.000Z",
 } as const satisfies StoryTurnPlayed
