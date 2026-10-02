@@ -162,7 +162,11 @@ export const overwhereITobinAshdown = {
     },
     {
       fact: "At Ketter's Well Tobin keeps watch, bow strung; he challenges anyone who comes out of the dark.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-tobin-ashdown",
+      ],
     },
   ],
   secrets: "jsonl",

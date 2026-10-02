@@ -187,7 +187,7 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "Striding while her mana allows and walking the rest, Nala reaches Ketter's Well about 00:20.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "No one and nothing else is on the road between the quarry and Ketter's Well tonight.",
@@ -195,6 +195,14 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "Osric's mule cart stands at Ketter's Well by the embers of a fire.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "At a passing place past the quarry, the cart ruts tangle with older tracks.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
+    {
+      fact: "Osric's mule stands hobbled close by his cart at Ketter's Well.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
