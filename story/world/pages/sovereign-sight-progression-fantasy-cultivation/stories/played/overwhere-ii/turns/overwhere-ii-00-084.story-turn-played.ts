@@ -33,11 +33,13 @@ export const overwhereIi00084 = {
     "Sir Edric stands beside a high-backed chair. In it sits a woman in grey, very upright, watching her.",
   ],
   lore: [
+    "lore/overwhere-ii-lady-imre-varrow",
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",
     "lore/overwhere-ii-nala-3",
     "lore/overwhere-ii-sir-edric-hale",
     "place/overwhere-ii-varrow-keep",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-21T08:00:00.000Z",
 } as const satisfies StoryTurnPlayed
