@@ -100,7 +100,28 @@ export const overwhereITobinAshdown = {
     },
     {
       fact: "That evening Tobin's mother Bet packs him a bag and asks Nala to bring him home whole.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-garrick-pell",
+      ],
+    },
+    {
+      fact: "Tobin's mother is Bet Ashdown, a reed-weaver.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-garrick-pell",
+      ],
+    },
+    {
+      fact: "Let go to Wendlow, Tobin whoops and runs off across the green shouting for his mother.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-tobin-ashdown",
+        "lore/overwhere-i-hessa-vane",
+      ],
     },
   ],
   secrets: "jsonl",

@@ -149,7 +149,11 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Osric wants a guard because Harl Voss's men have robbed carts on the east road this summer.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
     {
       fact: "Hearing her ask, Osric steps up at once with his offer of passage as his cart's guard.",
@@ -161,7 +165,11 @@ export const overwhereIOsricFenn = {
     },
     {
       fact: "Osric's mule cart leaves the Stag at 5:00 on day 5; guards walk beside or sit the tailboard.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
     {
       fact: "Osric's terms: Nala and Tobin ride free and eat from his stores; any bounty on robbers is theirs.",
