@@ -310,7 +310,11 @@ export const overwhereIiiMardaHesk = {
     },
     {
       fact: "Marda's advice to level: fight foes near your level, finish Guild quests, and heal hard cases.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
   secrets: "jsonl",
