@@ -19,7 +19,7 @@ export const overwhereI00070 = {
     "character-other/overwhere-i-quarry-crewman-four",
     "character-other/overwhere-i-quarry-crewman-five",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I use the burst of air and fire I prescribed previously to engulf all five and the wolf in an inferno, ramping up the heat continuously.",
   beats: [
@@ -46,6 +46,6 @@ export const overwhereI00070 = {
     "lore/overwhere-i-tobin-ashdown",
     "place/overwhere-i-greyback-and-east-road",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-03T15:02:00.000Z",
 } as const satisfies StoryTurnPlayed
