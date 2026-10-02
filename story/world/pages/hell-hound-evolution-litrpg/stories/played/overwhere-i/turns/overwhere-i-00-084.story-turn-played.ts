@@ -15,7 +15,7 @@ export const overwhereI00084 = {
     "character-other/overwhere-i-harl-voss",
     "character-other/overwhere-i-quarry-crewman-three",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I finish burning the blademan, then start carefully trailing Voss, letting my mana recover",
   beats: [
@@ -38,7 +38,12 @@ export const overwhereI00084 = {
     "lore/overwhere-i-the-deserter-crew-2-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-03T19:00:00.000Z",
   coverAfter: "He unslings his shield, props it upright before him, and settles the sword",
 } as const satisfies StoryTurnPlayed
