@@ -99,7 +99,11 @@ export const overwhereIiiBrannaghTull2 = {
     },
     {
       fact: "Nala mended the tanner's lad's palm, gashed clean on a fleshing knife, with no blight in it.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
 } as const satisfies Lore
