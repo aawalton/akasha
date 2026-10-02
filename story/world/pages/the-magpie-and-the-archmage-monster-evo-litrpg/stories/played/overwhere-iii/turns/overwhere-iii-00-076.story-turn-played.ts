@@ -10,7 +10,7 @@ export const overwhereIii00076 = {
   position: 76,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "“I’m not sure”, I hold them out. “I feel like they’ll heal fine though.",
   beats: [
     '"I\'m not sure." Nala holds her hands out, palms up. "I feel like they\'ll heal fine though."',
@@ -20,6 +20,9 @@ export const overwhereIii00076 = {
     'She looks at Nala a moment longer, then back down at her ledger. "Suit yourself."',
     "Her pen scratches. Outside, the afternoon light lies long and gold across the Post's step.",
   ],
+  issues: [
+    '"Outside, the afternoon light lies long and gold across the post\'s step." - Leave It Open',
+  ],
   lore: [
     "lore/overwhere-iii-marda-hesk",
     "lore/overwhere-iii-marda-hesk-2",
@@ -27,6 +30,6 @@ export const overwhereIii00076 = {
     "lore/overwhere-iii-nala-2",
     "lore/overwhere-iii-nala-2-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-07T15:58:00.000Z",
 } as const satisfies StoryTurnPlayed
