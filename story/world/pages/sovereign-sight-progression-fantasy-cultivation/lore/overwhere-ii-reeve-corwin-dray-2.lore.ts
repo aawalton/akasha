@@ -139,5 +139,9 @@ export const overwhereIiReeveCorwinDray2 = {
       fact: "Dray's signal that he is at the barn's back wall is a single crow's caw from the gully.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Dray comes round the barn soon after, Big Harl bound and limping, Rob Reed's arm bleeding.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
