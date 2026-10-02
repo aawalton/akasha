@@ -8,6 +8,7 @@ export const chapterPictured = {
   definition: "what one of a written chapter's pictures shows for the first time in its story",
   properties: [
     { pageProperty: "relation-property/cover", required: true, many: false },
+    { pageProperty: "text-property/cover-after", required: false, many: false },
     { pageProperty: "relation-property/pictured-character", required: false, many: false },
     { pageProperty: "text-property/pictured-outfit", required: false, many: false },
     { pageProperty: "text-property/pictured-setting", required: false, many: false },
