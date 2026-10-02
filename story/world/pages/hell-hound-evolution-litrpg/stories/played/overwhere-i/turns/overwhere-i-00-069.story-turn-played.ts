@@ -19,7 +19,7 @@ export const overwhereI00069 = {
     "character-other/overwhere-i-quarry-crewman-four",
     "character-other/overwhere-i-quarry-crewman-five",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I attune Earth and Air and start hitting Voss and his men with precision bullet shots to the forehead, guiding each shot all the way to landing to ensure it hits. I keep a second air attunement ready to pull any projectiles of course so they don’t injure us.",
   beats: [
@@ -42,6 +42,6 @@ export const overwhereI00069 = {
     "lore/overwhere-i-the-deserter-crew",
     "lore/overwhere-i-the-system-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-03T15:01:00.000Z",
 } as const satisfies StoryTurnPlayed
