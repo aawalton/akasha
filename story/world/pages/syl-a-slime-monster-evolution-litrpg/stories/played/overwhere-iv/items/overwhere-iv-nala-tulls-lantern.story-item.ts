@@ -6,6 +6,6 @@ export const overwhereIvNalaTullsLantern = {
   slug: "overwhere-iv-nala-tulls-lantern",
   title: "Tull's Lantern",
   story: "story-played/overwhere-iv",
-  character: "character-player/overwhere-iv-nala",
-  description: "A farm lantern of tin and horn panes, unlit, lent by Tull for the night.",
+  place: "place/overwhere-iv-tull-farm",
+  description: "A farm lantern of tin and horn panes, back with Tull after the night watch.",
 } as const satisfies StoryItem
