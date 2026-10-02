@@ -10,7 +10,7 @@ export const overwhereIv00078 = {
   position: 78,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I turn and use my momentum to slash across its neck with the spear, then get up and run again, weaving a bit to dodge the slings.",
   beats: [
@@ -20,7 +20,7 @@ export const overwhereIv00078 = {
     "She rolls, gets a knee under her, and shoves up onto her feet, spear crosswise.",
     "The spear goblin wrenches its point free of the dirt and squares up to her.",
     "Up the trail behind it, the two knives come on at a run, and a sling whirrs.",
-    "Too late to run. The club goblin bursts past the spear, panting, and swings wide at her head.",
+    "The club goblin bursts past the spear, panting, and swings its club overhand at her head.",
   ],
   issues: ['"Too late to run." - No Prompt'],
   lore: [
