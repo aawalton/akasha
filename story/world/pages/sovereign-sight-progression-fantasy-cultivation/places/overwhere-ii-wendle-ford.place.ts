@@ -168,5 +168,9 @@ export const overwhereIiWendleFord = {
       fact: "Pleading, the woman's tears look real, but her eyes keep going to the Lantern's door.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Asked, the woman says her son is eight, nine come summer.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place
