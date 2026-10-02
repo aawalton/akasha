@@ -25,7 +25,7 @@ export const overwhereIiPip = {
     },
     {
       fact: "Pip offers the stash under the tollhouse hearthstone, if they will not hang him.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Pip ran Crake's bottles to the thaumist Oriel Vance in Carrowmouth, by her back gate.",
