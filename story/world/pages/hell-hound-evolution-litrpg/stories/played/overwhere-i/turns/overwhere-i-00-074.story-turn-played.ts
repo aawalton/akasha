@@ -7,7 +7,8 @@ export const overwhereI00074 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 74,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Sure, we’ve paid your toll, so now you can pay mine. Your head should just about cover it.” I stay behind cover and keep firing careful aimed shots with the stone bullets, targeting faces and gaps in their armor.",
+  lore: ["lore/overwhere-i-the-deserter-crew-2"],
 } as const satisfies StoryTurnPlayed
