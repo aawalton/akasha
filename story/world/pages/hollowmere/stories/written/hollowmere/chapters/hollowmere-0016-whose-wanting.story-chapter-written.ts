@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0016 = {
+export const hollowmere0016WhoseWanting = {
   id: "01a0fef5-86f3-7edc-97c4-f6439ff07560",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0016",
+  slug: "hollowmere-0016-whose-wanting",
   position: 16,
   unit: "unit/words",
-  title: "Chapter 16",
+  title: "Whose Wanting?",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 2975,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "Tuesday: frost on the shingle at dawn; you and Shiv swim to the buoy and back through the steam.",
     "The red-cheeked second-year reads out your time: five minutes. Shiv whistles, impressed.",
@@ -71,7 +71,26 @@ export const hollowmere0016 = {
   lore: [
     "lore/hollowmere-academy-2",
     "lore/hollowmere-amara",
+    "lore/hollowmere-bea",
     "lore/hollowmere-kit",
     "lore/hollowmere-kit-2",
+    "lore/hollowmere-lin",
+    "lore/hollowmere-nala",
+    "lore/hollowmere-nala-2",
+    "lore/hollowmere-penhallow",
+    "lore/hollowmere-priya",
+    "lore/hollowmere-shiv",
+    "lore/hollowmere-yusra",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-shiv",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-penhallow",
+    "character-other/hollowmere-priya",
+    "character-other/hollowmere-lin",
+    "character-other/hollowmere-kit",
+    "character-other/hollowmere-amara",
+    "character-other/hollowmere-yusra",
   ],
 } as const satisfies StoryChapterWritten
