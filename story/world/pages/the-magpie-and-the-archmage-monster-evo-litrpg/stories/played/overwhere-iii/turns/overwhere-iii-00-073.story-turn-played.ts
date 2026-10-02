@@ -10,7 +10,7 @@ export const overwhereIii00073 = {
   position: 73,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Yeah, I’ll rest before going out again and work on the rest.” I walk out to the shrine and then practice using the gold currents directly to cleanse the blightstones, instead of my own mana.",
   beats: [
@@ -29,6 +29,9 @@ export const overwhereIii00073 = {
     "Between weaves her own well fills slowly from the shrine. Her palms are pink and raw.",
     "She sweeps the specks together. With the fox stone's three, that's ten. Enough for a glimmerstone.",
   ],
+  issues: [
+    '"The raw current scorches your palms" - a slip at feeding from current costs only the try',
+  ],
   lore: [
     "lore/overwhere-iii-braid-weaving",
     "lore/overwhere-iii-cleansing-weave",
@@ -39,6 +42,6 @@ export const overwhereIii00073 = {
     "lore/overwhere-iii-nala-2-2",
     "place/overwhere-iii-wrenwood-crossroads",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-07T14:30:00.000Z",
 } as const satisfies StoryTurnPlayed
