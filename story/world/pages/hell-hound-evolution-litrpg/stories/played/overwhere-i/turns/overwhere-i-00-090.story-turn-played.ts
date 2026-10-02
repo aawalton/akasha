@@ -4,10 +4,13 @@ export const overwhereI00090 = {
   id: "01a0fe8d-1485-7c6e-a76e-8bdad23356a7",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-090",
+  ownLength: 154,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 90,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-harl-voss"],
+  stepStatus: "step-status/reviewers",
   action:
     "I apply the salve. “I forget how many, we can count ears and tags if you want. For Voss, I’ve got his head in his sack here.” I open the sack and pull it out so they can see. “Guess we have two bounties to turn in now.”",
   beats: [
@@ -22,7 +25,11 @@ export const overwhereI00090 = {
     "He eyes the head. \"It'll turn before then. I've salt in the cart, four copper a sack, if you want.\"",
   ],
   lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
     "lore/overwhere-i-osric-fenn",
+    "lore/overwhere-i-the-deserter-crew-2",
+    "lore/overwhere-i-the-deserter-crew-2-2",
     "lore/overwhere-i-the-deserter-crew-2-2-2",
     "lore/overwhere-i-the-system-2",
     "lore/overwhere-i-tobin-ashdown",
