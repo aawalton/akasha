@@ -224,6 +224,10 @@ export const overwhereIOsricFenn = {
       fact: "Osric says the Board pays only at Wendlow, two more days east by cart from Ketter's Well.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Osric knows nothing of Voss's letter unless Nala shows it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
