@@ -281,5 +281,17 @@ export const overwhereIvMillbrookGatehouse = {
         "character-other/overwhere-iv-dell",
       ],
     },
+    {
+      fact: "A practice spear from stores costs 30 copper to replace; Holt keeps the stores' tally.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A spear broken on a beast that size, Holt counts well spent; she takes 15 copper, for the head.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The gate guard who sees a blade wolf's head carried in will have it round the gatehouse by dusk.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
