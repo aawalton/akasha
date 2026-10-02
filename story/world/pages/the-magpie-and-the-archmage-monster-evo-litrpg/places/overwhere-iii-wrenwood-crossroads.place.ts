@@ -130,7 +130,7 @@ export const overwhereIiiWrenwoodCrossroads = {
     },
     {
       fact: "A weave fed wholly from white-gold current costs no mana of her own, but burns her hands: 1 health.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Feeding a weave from current alone is fiddly at first; a slip costs only the try. The knack stays.",
