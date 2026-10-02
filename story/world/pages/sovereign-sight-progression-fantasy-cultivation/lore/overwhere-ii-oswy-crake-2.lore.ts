@@ -109,7 +109,7 @@ export const overwhereIiOswyCrake2 = {
     },
     {
       fact: "The venom chokes Nala's Locks within the minute; she has that long to use Undertow at all.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Locks choked, Nala's Water stays penned in her well: no Undertow, but her refined body holds.",
