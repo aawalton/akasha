@@ -194,5 +194,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Bolts from the galleries and two from the trees struck her boulders; none had a line on her.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Then the galleries fell silent; the fallen crossbowman is the only man in sight.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
