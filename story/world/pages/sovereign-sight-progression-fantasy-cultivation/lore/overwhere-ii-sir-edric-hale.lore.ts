@@ -73,7 +73,7 @@ export const overwhereIiSirEdricHale = {
     },
     {
       fact: "Sir Edric would set out at first light, and leave his horse at Callow Beck, where the tracks begin.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Sir Edric lodges at the Lantern tonight, and asks Nala to meet him at the ford at first light.",
