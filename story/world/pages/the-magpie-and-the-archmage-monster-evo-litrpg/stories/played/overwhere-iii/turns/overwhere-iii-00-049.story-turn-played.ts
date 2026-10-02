@@ -16,7 +16,7 @@ export const overwhereIii00049 = {
     "character-other/overwhere-iii-hild-wendle",
     "character-other/overwhere-iii-edda-crane",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I go and check at the clinic, then at the post, using up my mana, then go back to reading",
   beats: [
@@ -48,6 +48,6 @@ export const overwhereIii00049 = {
     "lore/overwhere-iii-wrenmark-beast-guide",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-03T18:00:00.000Z",
 } as const satisfies StoryTurnPlayed
