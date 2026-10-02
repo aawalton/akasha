@@ -11,10 +11,26 @@ export const overwhereI0004TusksForTheReeve = {
   ownLength: 768,
   prose: "txt",
   turnCovers: [
-    { position: 21, cover: "image/image-9799ee9f31e2c686" },
-    { position: 22, cover: "image/image-e55b6e55b6b0aae8" },
-    { position: 23, cover: "image/image-bcaaaf12aa1116e4" },
-    { position: 24, cover: "image/image-9f07c3deba31147e" },
+    {
+      position: 21,
+      cover: "image/image-9799ee9f31e2c686",
+      coverAfter: "The boar slumps back, rolls, and settles deeper, sunk in the wallow",
+    },
+    {
+      position: 22,
+      cover: "image/image-e55b6e55b6b0aae8",
+      coverAfter: "Roots catch it. You heave it free, again and again, your feet",
+    },
+    {
+      position: 23,
+      cover: "image/image-bcaaaf12aa1116e4",
+      coverAfter: "You sit back on your heels and call the water disc up",
+    },
+    {
+      position: 24,
+      cover: "image/image-9f07c3deba31147e",
+      coverAfter: "Some twenty minutes on you reach the south palisade, muddy and bloodied",
+    },
   ],
   lastTurn: "overwhere-i-00-024",
   lastTurnPosition: 24,

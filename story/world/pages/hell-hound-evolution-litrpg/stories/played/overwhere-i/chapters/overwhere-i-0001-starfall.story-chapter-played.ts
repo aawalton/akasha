@@ -11,9 +11,21 @@ export const overwhereI0001Starfall = {
   ownLength: 909,
   prose: "txt",
   turnCovers: [
-    { position: 1, cover: "image/image-9f67aa201a67ff7d" },
-    { position: 2, cover: "image/image-683564d2c8f5b20e" },
-    { position: 3, cover: "image/image-a4b45c127147a806" },
+    {
+      position: 1,
+      cover: "image/image-9f67aa201a67ff7d",
+      coverAfter: "Your arms are thin, the wrists narrow, the hands small and pale",
+    },
+    {
+      position: 2,
+      cover: "image/image-683564d2c8f5b20e",
+      coverAfter: "A shaggy black beast the size of a small bear shoulders out",
+    },
+    {
+      position: 3,
+      cover: "image/image-a4b45c127147a806",
+      coverAfter: "Heat pours up your arm. A thin line of white-gold fire leaps",
+    },
   ],
   lastTurn: "overwhere-i-00-003",
   lastTurnPosition: 3,

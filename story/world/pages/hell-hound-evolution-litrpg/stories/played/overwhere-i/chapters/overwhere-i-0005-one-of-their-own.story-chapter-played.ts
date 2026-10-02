@@ -10,7 +10,13 @@ export const overwhereI0005OneOfTheirOwn = {
   story: "story-played/overwhere-i",
   ownLength: 192,
   prose: "txt",
-  turnCovers: [{ position: 25, cover: "image/image-ec1d7139589b042b" }],
+  turnCovers: [
+    {
+      position: 25,
+      cover: "image/image-ec1d7139589b042b",
+      coverAfter: "In the back room the wooden tub steams. You peel off your",
+    },
+  ],
   lastTurn: "overwhere-i-00-025",
   lastTurnPosition: 25,
   endsAt: "2026-09-30T09:09:00.000Z",
