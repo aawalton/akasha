@@ -133,7 +133,12 @@ export const overwhereIWendlow = {
     },
     {
       fact: "Osric's cart pays three copper at the gate: one for him, two for its wheels; Tobin pays his own.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+        "lore/overwhere-i-tobin-ashdown",
+      ],
     },
     {
       fact: "Sergeant Coyle peers in the sack, whistles at Voss's face, and sends her to Antler Hall.",
