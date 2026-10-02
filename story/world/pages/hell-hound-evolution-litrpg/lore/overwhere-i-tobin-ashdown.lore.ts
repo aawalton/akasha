@@ -131,6 +131,10 @@ export const overwhereITobinAshdown = {
       fact: "At the gate at dawn on day 5 Hessa gives Tobin a full quiver and one curt nod.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At the quarry Tobin's hand creeps to his bow; he will loose if a blade is drawn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
