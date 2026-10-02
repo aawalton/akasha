@@ -170,5 +170,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "From the rim, 30 yards above, three men show crouched behind the mounds, watching the track.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Voss, by the hut door, packs a sack, glancing often at the track.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
