@@ -199,6 +199,10 @@ export const overwhereIiLadyImreVarrow = {
       fact: "At Garth Marsh's name, the frost on Lady Varrow's chair arms creeps thicker, white and crisp.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "For the lesser bond, Lady Varrow offers Nala guidance, her own and her house's.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
