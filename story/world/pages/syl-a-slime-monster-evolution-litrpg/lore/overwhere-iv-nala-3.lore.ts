@@ -20,5 +20,9 @@ export const overwhereIvNala3 = {
       fact: "Dimension magic's spells share one root; a sense of space can learn to guide a fold.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala has one earnest use toward Sense Casting, from Crake Gill.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
