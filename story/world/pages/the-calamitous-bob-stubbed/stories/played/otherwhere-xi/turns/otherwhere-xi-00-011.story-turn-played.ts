@@ -5,6 +5,7 @@ export const otherwhereXi00011 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-xi-00-011",
   cover: "image/image-f5afe2546d989854",
+  coverAfter: "You eat on the floor mat by the hearth: bread and hard",
   ownLength: 316,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-xi"],

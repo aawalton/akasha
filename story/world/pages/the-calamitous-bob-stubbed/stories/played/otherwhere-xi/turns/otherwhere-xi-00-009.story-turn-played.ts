@@ -5,6 +5,7 @@ export const otherwhereXi00009 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-xi-00-009",
   cover: "image/image-7206b29361de76d7",
+  coverAfter: "Then she looks at your hands, holding the ewe's head. Small. Pale.",
   ownLength: 295,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-xi"],

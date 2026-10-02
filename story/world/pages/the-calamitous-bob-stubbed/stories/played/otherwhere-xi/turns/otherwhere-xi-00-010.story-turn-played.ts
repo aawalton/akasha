@@ -5,6 +5,7 @@ export const otherwhereXi00010 = {
   type: "page-type/story-turn-played",
   slug: "otherwhere-xi-00-010",
   cover: "image/image-c6b21a478ef674c5",
+  coverAfter: "The woman sits back on her heels. She looks at your arm,",
   ownLength: 381,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-xi"],
