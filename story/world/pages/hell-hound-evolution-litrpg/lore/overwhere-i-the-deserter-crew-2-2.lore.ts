@@ -262,5 +262,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Voss makes about three miles an hour east; a careful follower keeps pace but does not close.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At dusk, about 19:00, Voss lies up under a rock overhang, sword drawn, watching his back trail.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
