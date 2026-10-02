@@ -10,7 +10,7 @@ export const overwhereIi00080 = {
   position: 80,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I do as instructed, then go back to my regular routine of refining.",
   beats: [
     "Nala follows Dray into his house. He lays out ink and paper on the kitchen table.",
@@ -43,6 +43,6 @@ export const overwhereIi00080 = {
     "lore/overwhere-ii-reeve-corwin-dray-2",
     "lore/overwhere-ii-sir-edric-hale",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-18T09:00:00.000Z",
 } as const satisfies StoryTurnPlayed
