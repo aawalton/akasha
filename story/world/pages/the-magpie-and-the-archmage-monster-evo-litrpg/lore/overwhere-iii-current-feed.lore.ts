@@ -18,7 +18,7 @@ export const overwhereIiiCurrentFeed = {
     },
     {
       fact: "A fed weave reads own 0 and spends none of her mana; the raw current's burn costs her 1 health.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
 } as const satisfies Lore
