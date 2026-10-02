@@ -231,5 +231,9 @@ export const overwhereIiReeveCorwinDray2 = {
       fact: "The Carrowmouth watch pays Crake's five bars once they have seen his body, some days yet.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Dray keeps Crake's keys and the rest of the coin, and takes the next watch at the barn door himself.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
