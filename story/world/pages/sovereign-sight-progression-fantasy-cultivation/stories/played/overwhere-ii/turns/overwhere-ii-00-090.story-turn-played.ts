@@ -4,13 +4,14 @@ export const overwhereIi00090 = {
   id: "01a0fee3-1c6f-7f0a-8648-21dbf5d21140",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-090",
+  cover: "image/image-88d1550a2bb4c922",
   ownLength: 196,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 90,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“I will not swear, but I will help if I can. I have refined my skin, muscles, and bones since meeting Garth and I still have room to grow, but I am lacking in guidance. I have a feeling I will need all the strength I can get to face whatever lies under that mountain. If you can help me grow my strength, I will stay to face it.”",
   beats: [
@@ -44,6 +45,12 @@ export const overwhereIi00090 = {
     "lore/overwhere-ii-nala-3",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-21T08:38:00.000Z",
+  coverAfter: "She holds your eyes, level and cold.",
 } as const satisfies StoryTurnPlayed
