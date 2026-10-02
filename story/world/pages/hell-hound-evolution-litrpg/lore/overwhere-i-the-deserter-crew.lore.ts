@@ -167,6 +167,10 @@ export const overwhereITheDeserterCrew = {
       fact: "After the first slug Voss's shield is up; curving a guided slug round it is a hard act.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Voss charges at the first slug and reaches her in about 3 seconds, one shot's time.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
