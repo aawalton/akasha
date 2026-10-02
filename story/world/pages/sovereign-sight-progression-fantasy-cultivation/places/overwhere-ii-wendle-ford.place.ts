@@ -156,5 +156,9 @@ export const overwhereIiWendleFord = {
       fact: "On day sixteen a stranger begs Nala at the Lantern to heal her fevered son at Ashlin Farm.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "The begging woman says Ashlin Farm is half a day down the road; she paused over her son's age.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place
