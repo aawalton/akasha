@@ -58,7 +58,7 @@ export const overwhereIiTarrantSmithy = {
     },
     {
       fact: "Undertow cannot touch the cold-iron head, but it still drives Nala's arms behind a thrust.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Hob says cold iron bites the Sea-twisted where plain iron only cuts, and bids her keep it oiled.",
