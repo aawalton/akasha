@@ -78,7 +78,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "Once her Locks open, the dream of the black stair returns in her last hour of sleep, louder.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
