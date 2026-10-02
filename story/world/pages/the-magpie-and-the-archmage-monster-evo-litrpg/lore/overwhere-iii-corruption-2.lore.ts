@@ -28,5 +28,9 @@ export const overwhereIiiCorruption2 = {
       fact: "A corrupted beast of about Level 5, killed, leaves a small blightstone that three weaves crack.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Pulled in its sett, the fox wakes in pain and bolts out, straight at the nearest warm body.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
