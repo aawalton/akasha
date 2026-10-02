@@ -30,7 +30,7 @@ export const overwhereIiiBraidWeaving = {
     },
     {
       fact: "Her first braid that holds cleanly earns: [New skill acquired – Braid Weaving.]",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "[Braid Weaving – At [Basic] level, ride a weave out along a lent current.]",
