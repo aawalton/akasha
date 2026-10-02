@@ -179,6 +179,10 @@ export const overwhereITheDeserterCrew = {
       fact: "The crew's Drakewolf is Level 15: 35 health, hide ward 2 (1 to a slug), bite 12.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Two of the five raise crossbows and loose about 3 seconds in; the other three draw blades and close.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
