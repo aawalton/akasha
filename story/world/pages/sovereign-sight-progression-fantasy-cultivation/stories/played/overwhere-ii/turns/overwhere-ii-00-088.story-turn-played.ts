@@ -7,7 +7,8 @@ export const overwhereIi00088 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 88,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "“Garth Marsh was the first I encountered, I think I got the name right. Names seem to slip from me. I don’t remember anything really before that. His daughter had the rot and I used my Talent to pull it out of her.”",
+  lore: ["lore/overwhere-ii-lady-imre-varrow"],
 } as const satisfies StoryTurnPlayed
