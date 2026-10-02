@@ -118,5 +118,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "If Crow falls, Five drops his crossbow and runs up the track for the camp.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At 16:18 Voss and Blademan Three are half a mile up the track, hurrying for the camp.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
