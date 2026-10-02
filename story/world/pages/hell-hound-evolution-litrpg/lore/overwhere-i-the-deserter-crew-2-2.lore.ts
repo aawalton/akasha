@@ -43,5 +43,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Crow and Five lie in the pines 25 yards off the track at a bend, a mile short of the camp.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Spotting the ambush at the bend while striding is hard; at a walk it is moderate.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
