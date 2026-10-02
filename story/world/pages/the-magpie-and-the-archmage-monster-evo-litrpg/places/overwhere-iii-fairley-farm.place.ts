@@ -50,7 +50,11 @@ export const overwhereIiiFairleyFarm = {
     },
     {
       fact: "The blighted fox lairs in the badger sett in the hazel copse; the ground at its mouth is gray.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-oswin-fairley",
+      ],
     },
   ],
 } as const satisfies Place
