@@ -296,6 +296,10 @@ export const overwhereIiiMardaHesk = {
       fact: "Marda doesn't know how a trait climbs; hers came slow, and she never heard of one rising in days.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
+    {
+      fact: "Marda has met a Legend skill twice in forty years, both in Thornmere's high ranks, none here.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
