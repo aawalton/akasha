@@ -14,7 +14,7 @@ export const overwhereI00078 = {
     "character-other/overwhere-i-quarry-crewman-one",
     "character-other/overwhere-i-quarry-crewman-two",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I use my concentrated beam of fire to finish the two men, aiming for the heads, then quietly start tracking the four that got away",
   beats: [
@@ -27,7 +27,7 @@ export const overwhereI00078 = {
     "A quarter mile on, the ground turns to bare rock and deep needle beds between the trunks.",
     "She follows scuffs across the rock for long minutes until they meet a game trail.",
     "The marks she has been following are deer slots, small and split; the boot prints are gone.",
-    "It is near twenty to four, the four men somewhere ahead, Crow among them, and their trail lost.",
+    "She stands on the game trail at twenty to four, deer slots running on ahead into the pines.",
   ],
   issues: ['"Somewhere ahead are the four men ... and you\'ve lost their trail." - Leave It Open'],
   lore: [
