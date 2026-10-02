@@ -188,10 +188,6 @@ export const overwhereIiiNala2 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
-      fact: "Nala last ate at supper on her seventh night; by first light on day eight she is hungry.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
-    },
-    {
       fact: "Nala has read Brannagh's receipt book through, cover to cover.",
       knowers: [
         "lore-disclosure/game-master",
