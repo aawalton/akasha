@@ -29,6 +29,7 @@ export const overwhereIv00070 = {
     "The shapes around her reach a little wider again, even when she isn't reaching for them.",
     "She opens her eyes, gets up, shoulders her spear, and starts back for town.",
   ],
+  issues: ['"get up, shoulder your spear, and start back for town" - Leave It Open'],
   lore: [
     "lore/overwhere-iv-ilsa-crane-2",
     "lore/overwhere-iv-nala",
@@ -36,5 +37,6 @@ export const overwhereIv00070 = {
     "lore/overwhere-iv-nala-3",
     "place/overwhere-iv-north-west-pastures",
   ],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-05T15:13:00.000Z",
 } as const satisfies StoryTurnPlayed
