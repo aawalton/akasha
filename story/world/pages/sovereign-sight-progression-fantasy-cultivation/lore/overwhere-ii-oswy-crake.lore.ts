@@ -64,7 +64,7 @@ export const overwhereIiOswyCrake = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "In the second week, Crake sends Pip into Wendle Ford on market day to look Nala over.",
+      fact: "On day eleven, market day, Crake sends Pip into Wendle Ford to look Nala over.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
