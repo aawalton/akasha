@@ -72,4 +72,5 @@ export const saltAndLamplight0003TheBoatSong = {
     "character-player/salt-and-lamplight-nala",
     "character-other/salt-and-lamplight-morwenna",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryChapterWritten
