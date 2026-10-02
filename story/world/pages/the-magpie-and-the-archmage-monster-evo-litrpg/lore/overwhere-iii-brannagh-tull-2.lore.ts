@@ -121,5 +121,9 @@ export const overwhereIiiBrannaghTull2 = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "By afternoon the drover is back at the cattle pens by the east gate; Brannagh can send for him.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+    },
   ],
 } as const satisfies Lore
