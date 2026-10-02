@@ -10,7 +10,7 @@ export const overwhereIv00058 = {
   position: 58,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I spend the afternoon training my spatial sense, then dinner, sleep, training, and back to the guild.",
   beats: [
@@ -38,6 +38,6 @@ export const overwhereIv00058 = {
     "lore/overwhere-iv-nala-2",
     "place/overwhere-iv-raiders-stream",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-03T18:00:00.000Z",
 } as const satisfies StoryTurnPlayed
