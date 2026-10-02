@@ -93,6 +93,14 @@ export const overwhereIvMillbrookSmithy = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
+      fact: "Tobin can forge and fit a crossbar within the hour, while she waits; it's simple work.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "His crossbar is a short iron bar through a collar behind the socket, two hands wide, ends rounded.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Tobin Ash's smithy sits on Millbrook's square.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
