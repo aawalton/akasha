@@ -54,7 +54,7 @@ export const overwhereIiTarrantSmithy = {
     },
     {
       fact: "Held, the spear's head sits in Nala's sense as a dead, numb patch at the end of the shaft.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Undertow cannot touch the cold-iron head, but it still drives Nala's arms behind a thrust.",
