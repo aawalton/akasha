@@ -89,7 +89,7 @@ export const overwhereIiOswyCrake2 = {
     },
     {
       fact: "Crake's bare head is open to Undertow: a hard pull can yank it down and forward like a rope.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Undertow cannot touch the cold-iron head, but driving Nala's own arms it speeds her thrust.",
