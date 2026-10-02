@@ -103,7 +103,7 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "Day 5's road climbs out of the fen country into pine forest, quiet until the quarry.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Cutter's Quarry lies by the road seventeen miles east of Fenwatch; the cart reaches it about 15:00.",
@@ -113,7 +113,6 @@ export const overwhereIGreybackAndEastRoad = {
       fact: "Ketter's Well, a stone well and lean-to clearing, lies by the road twenty miles east of Fenwatch.",
       knowers: ["lore-disclosure/game-master"],
     },
-
     {
       fact: "Past the quarry, Osric's cart camps at Ketter's Well about 18:00 on day 5.",
       knowers: ["lore-disclosure/game-master"],
