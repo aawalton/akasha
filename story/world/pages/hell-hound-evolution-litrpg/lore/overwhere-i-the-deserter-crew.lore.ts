@@ -13,7 +13,11 @@ export const overwhereITheDeserterCrew = {
     },
     {
       fact: "Cutter's Quarry is an old stone pit beside the east road, a day east of Fenwatch.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
     {
       fact: "Eight of them deserted the king's levy in the northern passes; two are Iron March men.",
@@ -77,7 +81,11 @@ export const overwhereITheDeserterCrew = {
     },
     {
       fact: "Osric pays Voss the silver toll without fuss, as he always has.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
     {
       fact: "Voss reads Nala as Level 8 and laughs at Osric hiring so small a guard.",
@@ -85,7 +93,11 @@ export const overwhereITheDeserterCrew = {
     },
     {
       fact: "Voss's eye falls on the tarred cask, and he asks what it holds.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
     {
       fact: "If Voss learns the cask holds Ghost-Eye's head, he claims it as the cart's toll.",
@@ -97,15 +109,27 @@ export const overwhereITheDeserterCrew = {
     },
     {
       fact: "Five men and a leashed Drakewolf in a spiked collar stand with Voss at the quarry.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
     {
       fact: "Voss laughed at Osric for hiring so small a guard.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
     {
       fact: "At the quarry a big grey-bearded, scar-lipped man with axe and shield, hailed Voss, bars the road.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
   ],
   secrets: "jsonl",

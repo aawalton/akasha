@@ -137,7 +137,11 @@ export const overwhereIGarrickPell = {
     },
     {
       fact: "On day 4 Nala's bath is not free; Garrick takes his usual two copper for it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-garrick-pell",
+      ],
     },
   ],
   secrets: "jsonl",

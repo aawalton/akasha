@@ -125,11 +125,20 @@ export const overwhereITobinAshdown = {
     },
     {
       fact: "Bet nods, tight-lipped, and says Tobin never ran from anything but chores; Tobin goes red.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-tobin-ashdown",
+      ],
     },
     {
       fact: "At the gate at dawn on day 5 Hessa gives Tobin a full quiver and one curt nod.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-tobin-ashdown",
+        "lore/overwhere-i-hessa-vane",
+      ],
     },
     {
       fact: "At the quarry Tobin's hand creeps to his bow; he will loose if a blade is drawn.",
