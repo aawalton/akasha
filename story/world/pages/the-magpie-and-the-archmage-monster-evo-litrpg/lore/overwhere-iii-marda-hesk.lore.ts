@@ -372,6 +372,10 @@ export const overwhereIiiMardaHesk = {
       fact: "Marda says the cooper by the market sells plain ash staffs, 15 copper.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
+    {
+      fact: "Marda's other basics: Appraise from the shop, a staff of your own, never go out with your well dry.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
