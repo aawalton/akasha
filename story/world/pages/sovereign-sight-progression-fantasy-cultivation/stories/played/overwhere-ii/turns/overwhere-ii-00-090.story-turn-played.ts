@@ -11,4 +11,5 @@ export const overwhereIi00090 = {
   action:
     "“I will not swear, but I will help if I can. I have refined my skin, muscles, and bones since meeting Garth and I still have room to grow, but I am lacking in guidance. I have a feeling I will need all the strength I can get to face whatever lies under that mountain. If you can help me grow my strength, I will stay to face it.”",
   lore: ["lore/overwhere-ii-lady-imre-varrow"],
+  endsAt: "2026-10-21T08:38:00.000Z",
 } as const satisfies StoryTurnPlayed
