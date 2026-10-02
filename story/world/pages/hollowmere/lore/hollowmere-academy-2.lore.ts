@@ -93,5 +93,15 @@ export const hollowmereAcademy2 = {
         "character-other/hollowmere-kit",
       ],
     },
+    {
+      fact: "Hollowmere marks essays alpha, beta or gamma, with plus and minus, and an early alpha is rare.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-penhallow",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-amara",
+      ],
+    },
   ],
 } as const satisfies Lore

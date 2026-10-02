@@ -75,5 +75,9 @@ export const hollowmereKit2 = {
         "character-other/hollowmere-kit",
       ],
     },
+    {
+      fact: "Kit's magic freezes whenever anyone watches her cast, and has since a failed exam at sixteen.",
+      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-kit"],
+    },
   ],
 } as const satisfies Lore

@@ -202,6 +202,9 @@ export const hollowmereAmara = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "Amara's confidence is practised; she cries in a bathroom after every test, however well she did.",
+      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-amara"],
+    },
   ],
-  secrets: "jsonl",
 } as const satisfies Lore
