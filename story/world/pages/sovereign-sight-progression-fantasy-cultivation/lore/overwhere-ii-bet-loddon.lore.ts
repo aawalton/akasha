@@ -29,7 +29,7 @@ export const overwhereIiBetLoddon = {
     },
     {
       fact: "Pressed, Bet tells that Crake and all four of his men wait at Ashlin Farm, which is empty.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Bet tells that her brothers lie in the barn's hayloft with crossbows on the yard below.",
