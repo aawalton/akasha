@@ -4,7 +4,7 @@ export const theDatingGame00024 = {
   id: "01a0e3de-dd9d-730f-86df-2d5887b069f4",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-024",
-  cover: "image/image-26627b6a382271c9",
+  cover: "image/image-e78a78c6b1bb2ba9",
   coverAfter: "She looks twenty-two. Her hair is long and straight and near-black, parted",
   ownLength: 178,
   unit: "unit/words",
