@@ -205,7 +205,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray means to set Pip to work for Tam Oakes at the Ford, under watch, rather than in a cell.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "With Pip in hand, Dray still means to go on to Grey Shaw tonight and take the stash.",
