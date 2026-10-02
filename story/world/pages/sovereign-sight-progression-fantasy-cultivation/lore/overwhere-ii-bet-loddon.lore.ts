@@ -57,7 +57,7 @@ export const overwhereIiBetLoddon = {
     },
     {
       fact: "Bet walks down the road beside Nala, too frightened to give Crake's men a sign either way.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "On the road Bet asks Nala, low, whether her brothers will hang.",
