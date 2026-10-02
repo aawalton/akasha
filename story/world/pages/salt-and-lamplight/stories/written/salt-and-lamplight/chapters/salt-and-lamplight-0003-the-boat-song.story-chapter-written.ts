@@ -76,5 +76,5 @@ export const saltAndLamplight0003TheBoatSong = {
     "character-other/salt-and-lamplight-morwenna",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory"],
 } as const satisfies StoryChapterWritten
