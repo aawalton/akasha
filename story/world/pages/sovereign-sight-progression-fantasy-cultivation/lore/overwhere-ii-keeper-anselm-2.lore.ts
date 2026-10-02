@@ -69,7 +69,7 @@ export const overwhereIiKeeperAnselm2 = {
     },
     {
       fact: "The Keepers bid Anselm keep Nala near, and keep her from Descending until Keeper Ashby comes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The Carrow road is expected dry enough for Keeper Ashby by the end of the month.",
