@@ -4,10 +4,17 @@ export const overwhereIv00059 = {
   id: "01a0fda6-e51f-7428-b2e9-6b73e533442d",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-059",
+  ownLength: 331,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 59,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iv-nala",
+    "character-other/overwhere-iv-ilsa-crane",
+    "character-other/overwhere-iv-marta-hesk",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "“In working on my senses. Anything can see things, but how many people can understand what they hear and smell?” I go for dinner, sleep, training, and then check in at the guild",
   beats: [
@@ -35,7 +42,10 @@ export const overwhereIv00059 = {
   ],
   lore: [
     "lore/overwhere-iv-corr-children",
+    "lore/overwhere-iv-ilsa-crane-2",
     "lore/overwhere-iv-millbrook-adventurers-hall-2",
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
     "place/overwhere-iv-brook-and-barrel",
   ],
   endsAt: "2026-10-04T10:00:00.000Z",
