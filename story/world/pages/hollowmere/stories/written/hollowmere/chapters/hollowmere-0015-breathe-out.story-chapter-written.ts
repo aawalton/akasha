@@ -77,4 +77,5 @@ export const hollowmere0015BreatheOut = {
     "character-other/hollowmere-lin",
     "character-other/hollowmere-priya",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
