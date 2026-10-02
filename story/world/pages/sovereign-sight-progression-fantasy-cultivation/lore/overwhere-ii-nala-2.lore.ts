@@ -268,5 +268,9 @@ export const overwhereIiNala2 = {
       fact: "Nala wakes from the tarn dream in the dark, heart pounding, the pull still in her chest.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "By noon on day eleven Nala's ear bones, fingers, toes and other small bones are refined whole.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
