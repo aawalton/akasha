@@ -124,6 +124,10 @@ export const overwhereIiiWrenwoodCrossroads = {
       fact: "After dark the crossroads is empty and still, and the shrine's stone stays warm all night.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "Within a hundred paces of the shrine, a holy weave can be fed wholly from white-gold current.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
