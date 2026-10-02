@@ -4,10 +4,13 @@ export const overwhereIv00055 = {
   id: "01a0fd79-72f7-7c0e-a3cd-635d0f057956",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-055",
+  ownLength: 326,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 55,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
+  stepStatus: "step-status/reviewers",
   action:
     "I go and tell a heroic tale, sure to attribute each kill to a careful cut with my spear skill, then go back to the guild to turn in the quest and the ears and ask about where I could get a better spear.",
   beats: [
@@ -34,6 +37,8 @@ export const overwhereIv00055 = {
   ],
   lore: [
     "lore/overwhere-iv-ilsa-crane-2",
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
     "place/overwhere-iv-millbrook-smithy",
     "place/overwhere-iv-tull-farm",
   ],
