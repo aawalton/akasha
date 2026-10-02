@@ -191,6 +191,10 @@ export const overwhereIOsricFenn = {
       fact: "Osric thought Nala dead; at Ketter's Well he sleeps badly under the cart, the cask still aboard.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The mule ran half a mile before Osric got it stopped; cart, cask and goods came through whole.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
