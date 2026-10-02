@@ -75,5 +75,17 @@ export const overwhereIvBrooksideFour2 = {
       fact: "Dace sees boulders on the downs split clean, and guesses whose work it is.",
       knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
     },
+    {
+      fact: "Told Nala hunts the Tangle tonight, Dace thinks it mad, but agrees to be her fallback.",
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
+    },
+    {
+      fact: "Dace bids her come out at Tull's ford calling his name, so Merrit won't fire on her.",
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
+    },
+    {
+      fact: "Dace and Merrit will keep a lantern lit in Tull's fold all night, to steer her by.",
+      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
+    },
   ],
 } as const satisfies Lore
