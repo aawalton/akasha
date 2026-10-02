@@ -4,10 +4,17 @@ export const overwhereI00084 = {
   id: "01a0fe37-8b3d-76e3-bebf-47274af5033a",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-084",
+  ownLength: 181,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 84,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-i-nala",
+    "character-other/overwhere-i-harl-voss",
+    "character-other/overwhere-i-quarry-crewman-three",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I finish burning the blademan, then start carefully trailing Voss, letting my mana recover",
   beats: [
@@ -22,6 +29,11 @@ export const overwhereI00084 = {
     "In its shadow Harl Voss sits with the sack at his side, his sword drawn, watching the trail.",
     "Hidden in the pines, she watches him as the dusk deepens, his eyes on the trail she walked.",
   ],
-  lore: ["lore/overwhere-i-the-deserter-crew-2", "lore/overwhere-i-the-deserter-crew-2-2"],
+  lore: [
+    "lore/overwhere-i-nala",
+    "lore/overwhere-i-nala-2",
+    "lore/overwhere-i-the-deserter-crew-2",
+    "lore/overwhere-i-the-deserter-crew-2-2",
+  ],
   endsAt: "2026-10-03T19:00:00.000Z",
 } as const satisfies StoryTurnPlayed
