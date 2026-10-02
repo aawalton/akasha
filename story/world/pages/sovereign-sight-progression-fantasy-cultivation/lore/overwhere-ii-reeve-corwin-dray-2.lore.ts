@@ -71,5 +71,25 @@ export const overwhereIiReeveCorwinDray2 = {
       fact: "Dray judges Nala an especially rich mark for Crake, with a well as deep as hers.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "On day eleven the carrier brings Dray replies from Lady Varrow and the Carrowmouth garrison.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Lady Varrow writes she will send one of her Talented to see the Whitecombs' split crag.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Lady Varrow's Talented is Sir Edric Hale, a Surface Stonesense, due at the Ford by day twenty.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The garrison writes it has no men to spare for quakes, nor for Crake, before midsummer.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Told of the boy who watched Nala, Dray names him a likely scout for Crake and warns her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
