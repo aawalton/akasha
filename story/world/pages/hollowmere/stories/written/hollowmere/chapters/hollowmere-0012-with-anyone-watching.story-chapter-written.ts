@@ -10,7 +10,7 @@ export const hollowmere0012WithAnyoneWatching = {
   story: "story-written/hollowmere",
   ownLength: 3192,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   beats: [
     "Friday: you wake before the alarm with the essay on your desk and Kit's handkerchief on top of it.",
     "You read your last line once more in the grey light, and put the essay in a card folder.",
@@ -84,5 +84,5 @@ export const hollowmere0012WithAnyoneWatching = {
     "character-other/hollowmere-lin",
     "character-other/hollowmere-bea",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
