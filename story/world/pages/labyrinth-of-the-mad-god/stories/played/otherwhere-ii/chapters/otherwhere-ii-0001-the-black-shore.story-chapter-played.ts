@@ -43,7 +43,7 @@ export const otherwhereIi0001TheBlackShore = {
     },
     {
       position: 7,
-      cover: "image/image-51d01810941da535",
+      cover: "image/image-c7e506e57d35ef81",
       coverAfter: "A lizard. Longer than you are tall, seven feet of it, mud-brown,",
     },
     {
