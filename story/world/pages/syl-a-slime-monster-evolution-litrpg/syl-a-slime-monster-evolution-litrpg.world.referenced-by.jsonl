@@ -98,6 +98,8 @@
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/classes/overwhere-iv-spellblade.world-class.ts","id":"01a0ed30-4be7-7ec6-b811-a7133b07b6cb"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/classes/overwhere-iv-warrior.world-class.ts","id":"01a0ed30-4be7-701e-9c22-2e6a668de0a2"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/conditions/overwhere-iv-bruised.world-condition.ts","id":"01a0f258-b8ff-7bbe-aee1-98ac82959b11"}
+{"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/conditions/overwhere-iv-cut.world-condition.ts","id":"01a0ff03-c2c5-7de4-9f35-d0f5231e1a33"}
+{"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/conditions/overwhere-iv-drained.world-condition.ts","id":"01a0ff03-c2c6-7310-9732-26978a593ef1"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/conditions/overwhere-iv-healthy.world-condition.ts","id":"01a0f1b9-dc56-7888-834b-8945a70d07a6"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/currencies/overwhere-iv-coin.world-currency.ts","id":"01a0f1e9-e51d-7210-b244-772efbe96c2e"}
 {"propertySlug":"world","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/mechanics/elements/overwhere-iv-air.world-element.ts","id":"01a0ed32-a71f-722e-b155-90784341e744"}
