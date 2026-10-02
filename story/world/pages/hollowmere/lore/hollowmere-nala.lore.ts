@@ -137,6 +137,10 @@ export const hollowmereNala = {
       fact: "Nala keeps what she saw of Kit through the Practice Hall window to herself, telling no one.",
       knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
     },
+    {
+      fact: "Nala's Wednesday: Sigils at ten in the Drawing Room, and the afternoon free.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

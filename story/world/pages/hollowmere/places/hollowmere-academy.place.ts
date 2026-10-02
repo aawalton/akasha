@@ -182,5 +182,33 @@ export const hollowmereAcademy = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "Sigils are taught in the Drawing Room, a long room of slanted desks under skylights, in ink.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
+    {
+      fact: "By old custom Wednesday afternoons are free at Hollowmere, and most students walk to the village.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-kit",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-amara",
+        "character-other/hollowmere-priya",
+        "character-other/hollowmere-shiv",
+        "character-other/hollowmere-penhallow",
+      ],
+    },
   ],
 } as const satisfies Place
