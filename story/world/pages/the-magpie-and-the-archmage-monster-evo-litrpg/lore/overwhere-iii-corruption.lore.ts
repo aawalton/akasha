@@ -326,7 +326,11 @@ export const overwhereIiiCorruption = {
     },
     {
       fact: "Two more Cleansing Weaves left the wolf's blightstone near half gray, four of about eight.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
   secrets: "jsonl",
