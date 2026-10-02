@@ -4,10 +4,13 @@ export const overwhereIi00067 = {
   id: "01a0fd84-862f-77bd-9a9c-933ea3062d90",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-067",
+  ownLength: 287,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 67,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I charge the voice with my spear, ready to Push an crossbow bolts coming for me and trusting to my reinforced skin and muscles, then use my tricks to get Cray through the chest with the spear, aiming for the heart and keeping him at a distance.",
   beats: [
@@ -31,6 +34,12 @@ export const overwhereIi00067 = {
     'Crake: "There. Now we wait a minute, you and I."',
     "Overhead, two crossbow strings click home.",
   ],
-  lore: ["lore/overwhere-ii-oswy-crake-2", "place/overwhere-ii-ashlin-farm"],
+  lore: [
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-oswy-crake",
+    "lore/overwhere-ii-oswy-crake-2",
+    "place/overwhere-ii-ashlin-farm",
+  ],
   endsAt: "2026-10-14T18:31:00.000Z",
 } as const satisfies StoryTurnPlayed
