@@ -4,6 +4,7 @@ export const overwhereI00077 = {
   id: "01a0fd9f-4a47-73e7-b01e-289822865179",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-077",
+  cover: "image/image-c2d459ef80c43559",
   ownLength: 143,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -14,7 +15,7 @@ export const overwhereI00077 = {
     "character-other/overwhere-i-quarry-crewman-one",
     "character-other/overwhere-i-quarry-crewman-two",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I circle around, as quietly as I can, trying to get eyes on any of the bandits.",
   beats: [
     "Nala slips back from her boulders and circles east through the pines, light on her hurt leg.",
@@ -35,6 +36,11 @@ export const overwhereI00077 = {
     "place/overwhere-i-greyback-and-east-road",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-03T15:14:00.000Z",
 } as const satisfies StoryTurnPlayed
