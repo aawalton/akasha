@@ -4,6 +4,7 @@ export const overwhereIii00054 = {
   id: "01a0fd67-c171-7702-a42c-0ea9e0bee01d",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-054",
+  cover: "image/image-e1b224249f32a40d",
   ownLength: 138,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -15,7 +16,7 @@ export const overwhereIii00054 = {
     "character-other/overwhere-iii-huw-tarrant",
     "character-other/overwhere-iii-marda-hesk",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Thanks Ivy” I go rest at the shrine, then back to the Post. “How many blightstones left to cleanse here?”",
   beats: [
@@ -43,6 +44,11 @@ export const overwhereIii00054 = {
     "place/overwhere-iii-wrenwood-crossroads",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-04T16:50:00.000Z",
 } as const satisfies StoryTurnPlayed
