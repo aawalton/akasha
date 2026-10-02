@@ -4,13 +4,14 @@ export const hollowmere0009GoodnightNala = {
   id: "01a0fe4e-d2e8-73dc-996c-7cfe9fe2ca75",
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0009-goodnight-nala",
+  cover: "image/image-1ae1d72d9abae353",
   position: 9,
   unit: "unit/words",
   title: "Goodnight, Nala",
   story: "story-written/hollowmere",
   ownLength: 3505,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "Tuesday: dawn on Shiv's rock; three minutes in the mere now, and you only gasp once.",
     "Wrapped in her parka, you tell Shiv about Bea and the rock and the kiss on your cheek.",
@@ -64,6 +65,7 @@ export const hollowmere0009GoodnightNala = {
     "lore/hollowmere-kit",
     "lore/hollowmere-lin",
     "lore/hollowmere-nala",
+    "lore/hollowmere-nala-2",
     "lore/hollowmere-penhallow",
     "lore/hollowmere-priya",
     "lore/hollowmere-shiv",
@@ -82,5 +84,35 @@ export const hollowmere0009GoodnightNala = {
     "character-other/hollowmere-yusra",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
+  scenes: [
+    "image/image-e68ea34e0c29d660",
+    "image/image-cdf11fa6b384f60c",
+    "image/image-1ae1d72d9abae353",
+  ],
+  pictured: [
+    {
+      cover: "image/image-e68ea34e0c29d660",
+      coverAfter: "You go in your coat over your nightshirt and the fisherman's jumper",
+      character: "character-player/hollowmere-nala",
+      outfit:
+        "navy wool coat over a cream fisherman's jumper over the long white nightshirt, trainers",
+    },
+    {
+      cover: "image/image-cdf11fa6b384f60c",
+      coverAfter: "It's a long white room. Six beds, three down each side, with",
+      setting: "the infirmary",
+    },
+    {
+      cover: "image/image-1ae1d72d9abae353",
+      coverAfter: "She's in a white tunic, short-sleeved, buttoned at the shoulder, like a",
+      character: "character-other/hollowmere-yusra",
+      outfit: "white short-sleeved healer's tunic, reading glasses, hair tied back",
+    },
+  ],
 } as const satisfies StoryChapterWritten
