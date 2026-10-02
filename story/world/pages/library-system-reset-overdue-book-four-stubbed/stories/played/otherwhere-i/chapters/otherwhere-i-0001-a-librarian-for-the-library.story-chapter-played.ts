@@ -23,7 +23,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 3,
-      cover: "image/image-3508fa5a721bede2",
+      cover: "image/image-7dc7dd914d30280f",
       coverAfter: "The hum comes up into your palm and on into your arm,",
     },
     {
