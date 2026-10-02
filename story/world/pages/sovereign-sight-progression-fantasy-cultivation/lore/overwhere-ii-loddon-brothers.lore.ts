@@ -51,5 +51,9 @@ export const overwhereIiLoddonBrothers = {
       fact: "Pip reaches the Grey Shaw tollhouse near midnight, a full day's walk on the road.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Pip keeps to the road at a jog and a walk; he has about half an hour's start on anyone at Ashlin.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
