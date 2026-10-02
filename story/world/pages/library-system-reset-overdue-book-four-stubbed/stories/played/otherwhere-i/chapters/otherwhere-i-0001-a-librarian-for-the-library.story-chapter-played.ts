@@ -188,7 +188,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 36,
-      cover: "image/image-9595483bf96c2262",
+      cover: "image/image-cdb2bdd199eb15c3",
       coverAfter: "Links's ears twitch. \"You're synced. The Librarian's quarters are yours now.\"",
     },
     {
