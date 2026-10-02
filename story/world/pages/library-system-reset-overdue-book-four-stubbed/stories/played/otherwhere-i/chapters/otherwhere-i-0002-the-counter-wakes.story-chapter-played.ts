@@ -63,7 +63,7 @@ export const otherwhereI0002TheCounterWakes = {
     },
     {
       position: 60,
-      cover: "image/image-56c03dde3ecb0116",
+      cover: "image/image-03f79a6330ac27eb",
       coverAfter: "You see the Check-in Counter long ago, bright and busy, with patrons",
     },
     {
