@@ -147,6 +147,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Of the five, the Level 14 and Level 16 wear helms; the rest are bareheaded.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The crew's crossbow bolts do 15 harm and their blades 10.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
