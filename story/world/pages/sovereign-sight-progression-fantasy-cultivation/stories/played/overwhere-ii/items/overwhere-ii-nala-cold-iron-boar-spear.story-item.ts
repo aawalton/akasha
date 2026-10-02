@@ -7,6 +7,7 @@ export const overwhereIiNalaColdIronBoarSpear = {
   title: "Cold-Iron Boar Spear",
   story: "story-played/overwhere-ii",
   character: "character-player/overwhere-ii-nala",
+  slot: "item-slot/main-hand",
   description:
     "A long ash boar spear whose dark, dull cold-iron head has a crossbar below the blade.",
 } as const satisfies StoryItem
