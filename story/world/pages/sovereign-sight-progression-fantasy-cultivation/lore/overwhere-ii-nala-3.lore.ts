@@ -78,7 +78,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "Cycling needs no stillness; Nala can cycle her Water as she marches, as she breathes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The first loops of cycling after the venom grate through her Locks like a rusted hinge.",
