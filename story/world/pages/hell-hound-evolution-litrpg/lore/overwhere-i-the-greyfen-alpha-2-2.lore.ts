@@ -62,7 +62,11 @@ export const overwhereITheGreyfenAlpha22 = {
     },
     {
       fact: "On day 4 Rowan took Ghost-Eye's head off in about ten minutes and lashed it to his sled.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-rowan-coalby",
+      ],
     },
     {
       fact: "Nothing dangerous showed while they took Ghost-Eye's head on day 4.",

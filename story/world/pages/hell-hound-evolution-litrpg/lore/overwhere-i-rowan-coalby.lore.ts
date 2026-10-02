@@ -180,15 +180,31 @@ export const overwhereIRowanCoalby = {
     },
     {
       fact: "Rowan swims the 30-yard channel slowly, hatchet in his belt; Sedge swims it strongly.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-rowan-coalby",
+      ],
     },
     {
       fact: "Rowan leaves the sled on the marsh side and ropes the head back across the channel to it.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-rowan-coalby",
+      ],
     },
     {
       fact: "Sedge will not go within ten yards of Ghost-Eye's body, and whines on the bank.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "On day 4 Sedge hung back ten yards from Ghost-Eye's body, hackles up, and came no closer.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-rowan-coalby",
+      ],
     },
   ],
   secrets: "jsonl",
