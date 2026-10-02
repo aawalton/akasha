@@ -320,6 +320,14 @@ export const overwhereIiiMardaHesk = {
         "character-player/overwhere-iii-nala",
       ],
     },
+    {
+      fact: "Marda told Nala skill levels run Basic, Novice, Adept, Expert, then Legend.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
