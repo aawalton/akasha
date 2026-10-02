@@ -10,7 +10,7 @@ export const hollowmere0007InYourBoat = {
   story: "story-written/hollowmere",
   ownLength: 4721,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Sunday: you wake at six on your own, and you know where you're going before you're up.",
     "The fisherman's jumper over knickers and bra again; the shore grey and silent.",
@@ -59,6 +59,7 @@ export const hollowmere0007InYourBoat = {
     "In bed, your mouth still remembering the mere, you think: one kiss, five girls, and Monday.",
     "A day at Hollowmere ends.",
   ],
+  issues: ['"Bea makes three teas without asking anyone; Bea bumps" - doubles the beat before it'],
   lore: [
     "lore/hollowmere-amara",
     "lore/hollowmere-bea",
@@ -81,5 +82,5 @@ export const hollowmere0007InYourBoat = {
     "character-other/hollowmere-lin",
     "character-other/hollowmere-penhallow",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryChapterWritten
