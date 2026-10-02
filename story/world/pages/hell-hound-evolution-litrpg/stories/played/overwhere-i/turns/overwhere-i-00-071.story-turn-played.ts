@@ -18,13 +18,13 @@ export const overwhereI00071 = {
     "character-other/overwhere-i-quarry-crewman-four",
     "character-other/overwhere-i-quarry-crewman-five",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I get down on the ground to be less of a target and spin up bullets to max speed, pointed and rifled and spinning like a drill to pierce through armor or shields, then start picking off Voss’s men, starting with the crossbows.",
   beats: [
     "Nala stays flat on the road and spins her slugs to a drill's whine, pointed and grooved.",
     "The crew run for the quarry pit, sixty yards off the road; the runners are 15 to 30 yards out.",
-    "Her first slug takes the helmed crossbowman between the shoulders; he staggers and runs on.",
+    "Her first slug takes the first crossbowman between the shoulders; he staggers and runs on.",
     "A bolt from the unseen shooter in the trees slips past her air ward and bites into her shoulder.",
     "Her next slug clips the second crossbowman; he lurches but keeps going.",
     "Voss and both crossbowmen drop over the lip into the pit.",
