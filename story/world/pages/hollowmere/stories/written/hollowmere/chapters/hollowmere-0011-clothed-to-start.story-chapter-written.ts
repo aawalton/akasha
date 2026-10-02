@@ -4,13 +4,14 @@ export const hollowmere0011ClothedToStart = {
   id: "01a0fe74-bd9e-7a13-b6ef-f7649bece8f3",
   type: "page-type/story-chapter-written",
   slug: "hollowmere-0011-clothed-to-start",
+  cover: "image/image-e787d80ba9930441",
   position: 11,
   unit: "unit/words",
   title: "Clothed, to Start",
   story: "story-written/hollowmere",
   ownLength: 3111,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "Thursday: dawn at the boathouse, the register, the whistle; fewer shriekers on the shingle today.",
     'Shiv signs "Doyle (reluctant, again)"; you two swim out to the buoy and hang there, breathing.',
@@ -81,5 +82,24 @@ export const hollowmere0011ClothedToStart = {
     "character-other/hollowmere-yusra",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
+  scenes: ["image/image-200ac1272e61525c", "image/image-e787d80ba9930441"],
+  pictured: [
+    {
+      cover: "image/image-200ac1272e61525c",
+      coverAfter: "The annexe is a long panelled room off the Great Hall, with",
+      setting: "the Great Hall annexe",
+    },
+    {
+      cover: "image/image-e787d80ba9930441",
+      coverAfter: "It's Lin. She's in a long pleated skirt and a soft grey",
+      character: "character-other/hollowmere-lin",
+      outfit: "soft grey cardigan, long pleated skirt, ponytail over one shoulder",
+    },
+  ],
 } as const satisfies StoryChapterWritten
