@@ -7,9 +7,21 @@ export const overwhereIii00064 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 64,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I hit it with a Current Lash and Cleansing Weave together, braided, as hard as I can manage",
+  beats: [
+    "Nala grabs at every current in reach and pours her whole well into them.",
+    "She twists a Current Lash and a Cleansing Weave into one braid and flings it at the fox.",
+    "It catches the fox mid-leap, a stride short of Oswin's legs.",
+    "The lash cracks like a whip, and the cleansing pull rips the blight out of it in the same instant.",
+    "The fox tumbles through the air and slams into the hedgebank. It doesn't get up.",
+    "Its wrong eyes go dull. It lies still in the gray dirt by the sett mouth.",
+    "The dark smear is gone from it. Where it lay curled, a small black stone sits on the gray earth.",
+    "Nala sways. Her well is bone dry, and her hands are shaking.",
+    'Oswin lowers his stick slowly. He looks at the fox, then at her. "Gods," he breathes.',
+    "The small blightstone lies in the dirt between them, dark and dull.",
+  ],
   lore: [
     "lore/overwhere-iii-braid-weaving",
     "lore/overwhere-iii-cleansing-weave",
