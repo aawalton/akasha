@@ -4,6 +4,7 @@ export const overwhereI00082 = {
   id: "01a0fde2-59b9-7e3d-a6a5-0a8c3566251b",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-082",
+  cover: "image/image-2ba9fdd8b8882c95",
   ownLength: 186,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -47,6 +48,7 @@ export const overwhereI00082 = {
     "lore/overwhere-i-the-system-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-03T17:04:00.000Z",
+  coverAfter: "You lie flat in the pines on the rim as Voss knots",
 } as const satisfies StoryTurnPlayed
