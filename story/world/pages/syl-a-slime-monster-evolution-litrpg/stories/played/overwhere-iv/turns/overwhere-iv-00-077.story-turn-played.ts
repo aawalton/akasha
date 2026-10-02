@@ -4,10 +4,13 @@ export const overwhereIv00077 = {
   id: "01a0fef5-032c-7168-b29c-da641dc7ade0",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-077",
+  ownLength: 206,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 77,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-iv-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I put one more slice in front of the line, as wide as I can make it, right where they will move into the slice, then get up and race for the farm.",
   beats: [
@@ -26,6 +29,11 @@ export const overwhereIv00077 = {
     "Feet pound down the trail behind her. In her close sense, the spear goblin is three paces off.",
     "It draws back its spear to stab down at her.",
   ],
-  lore: ["lore/overwhere-iv-the-tangle-2"],
+  lore: [
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "lore/overwhere-iv-nala-3",
+    "lore/overwhere-iv-the-tangle-2",
+  ],
   endsAt: "2026-10-06T21:21:00.000Z",
 } as const satisfies StoryTurnPlayed
