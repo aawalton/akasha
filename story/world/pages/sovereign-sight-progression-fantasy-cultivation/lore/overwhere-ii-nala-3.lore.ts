@@ -9,31 +9,31 @@ export const overwhereIiNala3 = {
   about: "character-player/overwhere-ii-nala",
   facts: [
     {
-      fact: "Undertow pushed hard out through the dart's prick throws the dart free of Nala's neck.",
+      fact: "Nala's push against the venom came slow, like pushing through cold mud, and too late.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The push spurts dark, bitter-smelling venom and brine from the prick; it crusts grey on her skin.",
+      fact: "The venom choked all Nala's Locks, throat, palms and soles; the dart stayed in her neck.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "A hard push clears most of the venom before it reaches her Locks; a thread may linger.",
+      fact: "With her Locks choked, Nala cannot sense water around her, nor cycle, nor refine.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Venom a push leaves behind numbs only the Lock nearest the wound, her throat, till morning.",
+      fact: "Nala's Locks stay choked until near dawn of day seventeen, then open one by one, aching.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "With her throat Lock numb, Nala's voice is hoarse, but her palms and soles still answer.",
+      fact: "Pulled out by hand, the needle dart leaves a prick that closes within the hour.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Pushing that hard beads blood at the prick and leaves Nala light-headed for a few breaths.",
+      fact: "Penned, Nala's Water presses at her choked Locks; by night it spills out as cold salt sweat.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The dart's prick on Nala's neck closes within the hour, leaving a small pink mark.",
+      fact: "Nothing in the valley clears the venom faster; it must wear off on its own.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
