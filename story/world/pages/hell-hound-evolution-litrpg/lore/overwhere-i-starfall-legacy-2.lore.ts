@@ -188,5 +188,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "A day's practice of the cart push brings Starfall Surge nearer its next level, but not to it.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A push too hard, failed badly, cracks a cart's axle or bolts the mule.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
