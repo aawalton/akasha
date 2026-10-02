@@ -136,6 +136,10 @@ export const overwhereIiiWrenwoodCrossroads = {
       fact: "Feeding a weave from current alone is fiddly at first; a slip costs only the try. The knack stays.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Currents of other colors will not carry a holy weave alone; only white-gold will.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
