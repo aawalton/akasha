@@ -186,7 +186,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "Muscle by muscle, Nala refines all her muscle and tendon whole in four days, days five to eight.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Each refined muscle cramps hard for a minute, then loosens, denser and stronger than before.",
