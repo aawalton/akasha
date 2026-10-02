@@ -37,7 +37,7 @@ export const overwhereIiKeeperAnselm2 = {
     },
     {
       fact: "The canticles say one answers the call where the dream shows, or in still, quiet water.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Anselm begs Nala not to Descend in haste; a botched Descent can maim or kill.",
