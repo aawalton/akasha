@@ -10,4 +10,5 @@ export const overwhereI00089 = {
   stepStatus: "step-status/game-master",
   action: "“It’s me, Nala. I took care of Voss and his men, are you all all right?”",
   lore: ["lore/overwhere-i-osric-fenn", "lore/overwhere-i-tobin-ashdown"],
+  endsAt: "2026-10-04T00:30:00.000Z",
 } as const satisfies StoryTurnPlayed
