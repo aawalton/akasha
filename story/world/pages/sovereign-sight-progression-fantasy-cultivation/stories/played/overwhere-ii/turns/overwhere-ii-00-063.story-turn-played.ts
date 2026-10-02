@@ -40,5 +40,6 @@ export const overwhereIi00063 = {
     "lore/overwhere-ii-reeve-corwin-dray-2",
     "place/overwhere-ii-wendle-ford",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-14T09:00:00.000Z",
 } as const satisfies StoryTurnPlayed
