@@ -35,5 +35,6 @@ export const overwhereIv00053 = {
     "It does not run. It does not even look up.",
   ],
   lore: ["lore/overwhere-iv-nala", "lore/overwhere-iv-nala-2", "place/overwhere-iv-raiders-stream"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-10-03T11:05:00.000Z",
 } as const satisfies StoryTurnPlayed
