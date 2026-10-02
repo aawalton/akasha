@@ -85,7 +85,7 @@ export const overwhereIiSirEdricHale = {
     },
     {
       fact: "Sir Edric means to lay his hand on the crag's split stone and feel how deep the strain runs.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray wrote Sir Edric that Nala found a crag split open, with something pulling under it.",
