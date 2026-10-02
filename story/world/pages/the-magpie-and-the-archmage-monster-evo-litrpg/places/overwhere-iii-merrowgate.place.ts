@@ -255,6 +255,10 @@ export const overwhereIiiMerrowgate = {
       fact: "Nala's third night in Merrowgate passes quiet: hard frost, a clear sky, no alarm at the gates.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "The east gate opens on the Thornmere road; the cattle pens and a drovers' trough lie inside it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
