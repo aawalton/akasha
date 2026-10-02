@@ -65,7 +65,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "She thanks Nala for Crake, and gives her a silver bar from the House: the road was hers to keep.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "She bids Nala tell the crag again, and listens without a word, her eyes on Sir Edric now and then.",
