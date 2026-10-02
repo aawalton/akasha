@@ -274,6 +274,14 @@ export const hollowmereKit = {
         "character-player/hollowmere-nala",
       ],
     },
+    {
+      fact: "Kit took the end bench, back to the room, and warmed her stone unwatched until the air shimmered.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-kit",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

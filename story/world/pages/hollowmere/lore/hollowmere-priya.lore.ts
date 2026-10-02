@@ -107,5 +107,13 @@ export const hollowmerePriya = {
         "character-other/hollowmere-priya",
       ],
     },
+    {
+      fact: "Priya wrote asking if Nala had kissed a girl; Nala wrote: Yesterday. Cold, then warm.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-priya",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
 } as const satisfies Lore

@@ -149,6 +149,14 @@ export const hollowmereAmara = {
         "character-other/hollowmere-lin",
       ],
     },
+    {
+      fact: "Amara's warming-charm stone was hot within a minute, steaming in the hall's cold air.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-amara",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

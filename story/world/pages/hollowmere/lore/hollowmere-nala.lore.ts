@@ -351,6 +351,22 @@ export const hollowmereNala = {
       fact: "Nala's Monday: Foundations lecture at ten in the Long Room, and practical casting at two.",
       knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
     },
+    {
+      fact: "On Monday of week two Nala ran fifteen minutes along the shore at Bea's slow pace.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Nala's first warming charm left her stone only faintly warm, like a stone in the sun.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
+    {
+      fact: "Nala nearly told Bea she had been Alan, and held it back: not yet.",
+      knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

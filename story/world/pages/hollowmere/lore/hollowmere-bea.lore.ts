@@ -196,7 +196,53 @@ export const hollowmereBea = {
     },
     {
       fact: "Bea is frightened she was let in by mistake, and that Hollowmere will find her out within a term.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-bea"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Bea cast her first glim on Shiv's rock, once Nala guided her hook to turn in.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Bea's glim is small and gold-tinged, like a candle flame, warmer than Nala's.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+        "character-other/hollowmere-lin",
+        "character-other/hollowmere-yusra",
+      ],
+    },
+    {
+      fact: "When her glim held, Bea kissed Nala's cheek slowly and said she's finding out what she wants.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Bea told Lin the story of the rock twice, and left out the kiss both times.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
+    {
+      fact: "Under the Thornfield kitchen table, Bea held Nala's hand for a long time.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
     },
   ],
   secrets: "jsonl",
