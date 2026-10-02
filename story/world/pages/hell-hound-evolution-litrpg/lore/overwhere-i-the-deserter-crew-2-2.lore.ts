@@ -110,5 +110,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "A beam at a crouching man's body is moderate.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Crow cranks and looses every 6 seconds; Five, his face burned, takes about 8.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
