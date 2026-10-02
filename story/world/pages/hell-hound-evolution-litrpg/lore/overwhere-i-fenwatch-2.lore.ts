@@ -74,5 +74,9 @@ export const overwhereIFenwatch2 = {
       fact: "Fenwatch has no horse to sell or hire; Hessa's is her own.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The night of day 4 at Fenwatch passes quiet, and the cart leaves on time with no hitch.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
