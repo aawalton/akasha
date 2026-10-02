@@ -222,7 +222,7 @@ export const overwhereIiNala2 = {
     },
     {
       fact: "The dream of the tarn's black stair comes again each night, stronger, until Nala answers it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The three tiny bones of each ear refine first, in minutes; after, sounds ring a shade clearer.",
