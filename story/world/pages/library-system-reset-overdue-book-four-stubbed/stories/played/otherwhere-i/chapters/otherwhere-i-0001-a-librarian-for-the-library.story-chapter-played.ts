@@ -223,7 +223,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 43,
-      cover: "image/image-fdf84f03927b4dd2",
+      cover: "image/image-417aa9ae154fa9d1",
       coverAfter: "You come round at the edge of the gloom, beside the honey",
     },
     {
