@@ -4,10 +4,17 @@ export const overwhereIv00066 = {
   id: "01a0fe3a-24b1-7313-b93b-ec5ed7eddb51",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-066",
+  ownLength: 229,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 66,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/overwhere-iv-nala",
+    "character-other/overwhere-iv-marta-hesk",
+    "character-other/overwhere-iv-ilsa-crane",
+  ],
+  stepStatus: "step-status/reviewers",
   action:
     "I take a bath after the long day, get dinner, and sleep, then train with the guard in the morning and check in on my new spear.",
   beats: [
@@ -28,6 +35,10 @@ export const overwhereIv00066 = {
     '"Heard about the wolf\'s head." He hands her the spear. "That old practice spear. Did it hold?"',
   ],
   lore: [
+    "lore/overwhere-iv-ilsa-crane-2",
+    "lore/overwhere-iv-nala",
+    "lore/overwhere-iv-nala-2",
+    "lore/overwhere-iv-nala-3",
     "place/overwhere-iv-brook-and-barrel",
     "place/overwhere-iv-millbrook-gatehouse",
     "place/overwhere-iv-millbrook-smithy",
