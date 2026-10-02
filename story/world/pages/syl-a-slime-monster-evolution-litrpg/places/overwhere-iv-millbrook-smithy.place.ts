@@ -82,7 +82,7 @@ export const overwhereIvMillbrookSmithy = {
     },
     {
       fact: "Old ash splits at the socket under a big beast's weight; Tobin's new shaft is riveted twice there.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Told the soft head held long enough, Tobin is quietly pleased, and won't show it.",
@@ -90,7 +90,7 @@ export const overwhereIvMillbrookSmithy = {
     },
     {
       fact: "Tobin would put a crossbar behind a spearhead for 20 copper, to stop a beast running up the shaft.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Tobin Ash's smithy sits on Millbrook's square.",
