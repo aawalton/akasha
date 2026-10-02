@@ -81,7 +81,7 @@ export const overwhereIiSirEdricHale = {
     },
     {
       fact: "Sir Edric climbs steadily for his years, but slower than Nala; he will not be hurried on rock.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Sir Edric means to lay his hand on the crag's split stone and feel how deep the strain runs.",
