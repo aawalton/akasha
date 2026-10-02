@@ -53,7 +53,7 @@ export const overwhereIiKeeperAnselm2 = {
     },
     {
       fact: "Anselm asks Nala to tell him before she answers the call, so someone knows where she went.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Anselm's Tidesense feels Nala refining bone as a slow, deep tide, heavier than before.",
