@@ -127,5 +127,13 @@ export const overwhereIiOswyCrake2 = {
       fact: "When Crake fell, someone small ran from the farmhouse for the hedges.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Nala killed Crake in Ashlin Farm's barn, her Undertow-driven spear through his bare neck.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "After Crake fell and Bet called to Wil, both crossbows in the loft clattered down.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore

@@ -64,5 +64,9 @@ export const overwhereIiAshlinFarm = {
       fact: "The barn is dim inside, its floor strewn with straw.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "As Crake died, the fight in the beck gully had gone to shouting and a man's howl of pain.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place

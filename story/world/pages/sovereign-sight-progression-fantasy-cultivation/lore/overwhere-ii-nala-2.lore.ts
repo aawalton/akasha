@@ -300,5 +300,9 @@ export const overwhereIiNala2 = {
       fact: "As two crossbows thrummed from the loft, Nala threw herself sideways, and both bolts missed her.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "As Crake died, the venom's cold lay heavy in Nala's neck, seconds from choking her Locks.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
