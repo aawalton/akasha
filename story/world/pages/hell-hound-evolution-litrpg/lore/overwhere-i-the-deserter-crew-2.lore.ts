@@ -166,5 +166,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Crow covers the withdrawal with two more bolts at her boulders; neither has a line on her.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Voss marks Nala as his to settle with, and will ask after her along the east road.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
