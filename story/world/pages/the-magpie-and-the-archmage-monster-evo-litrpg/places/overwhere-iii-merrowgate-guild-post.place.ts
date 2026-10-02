@@ -127,7 +127,7 @@ export const overwhereIiiMerrowgateGuildPost = {
       ],
     },
     {
-      fact: "The lead box holds two whole, dark blightstones: the stag's second stone and the wolf's second.",
+      fact: "The lead box holds one blightstone, the wolf's second, part paled by Nala.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-marda-hesk",
