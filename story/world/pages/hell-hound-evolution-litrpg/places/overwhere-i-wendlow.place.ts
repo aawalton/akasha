@@ -131,5 +131,9 @@ export const overwhereIWendlow = {
       fact: "Weapons may be carried in Wendlow, but a crossbow must go in unstrung.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Osric's cart pays three copper at the gate: one for him, two for its wheels; Tobin pays his own.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
