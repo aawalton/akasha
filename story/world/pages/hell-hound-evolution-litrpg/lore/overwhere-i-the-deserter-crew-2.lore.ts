@@ -26,7 +26,16 @@ export const overwhereITheDeserterCrew2 = {
     },
     {
       fact: "Voss and all five reached the quarry pit and are behind stone, out of her line from the road.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-harl-voss",
+        "character-other/overwhere-i-quarry-crewman-one",
+        "character-other/overwhere-i-quarry-crewman-two",
+        "character-other/overwhere-i-quarry-crewman-three",
+        "character-other/overwhere-i-quarry-crewman-four",
+        "character-other/overwhere-i-quarry-crewman-five",
+      ],
     },
   ],
 } as const satisfies Lore
