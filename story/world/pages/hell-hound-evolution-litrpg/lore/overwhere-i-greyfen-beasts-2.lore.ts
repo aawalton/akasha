@@ -176,5 +176,9 @@ export const overwhereIGreyfenBeasts2 = {
       fact: "The second Mire Snapper went under unhurt and stays down.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "The dead Mire Snapper lies sunk in the channel by Ghost-Eye's reeds, too deep to reach by hand.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
