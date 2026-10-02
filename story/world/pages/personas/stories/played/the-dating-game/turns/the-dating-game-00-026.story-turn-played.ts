@@ -4,7 +4,7 @@ export const theDatingGame00026 = {
   id: "01a0e53f-8538-7ac0-a34a-c358f4eb6aa0",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-026",
-  cover: "image/image-42f1a522d1061cc5",
+  cover: "image/image-fc99bf13a3df5b54",
   coverAfter: "She turns the unlit lantern a quarter turn on the step, idly,",
   ownLength: 118,
   unit: "unit/words",
