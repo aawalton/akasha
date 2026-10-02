@@ -304,5 +304,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Blademen One and Two, Levels 10 and 12, are bareheaded; their heads have no ward.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Half a mile in, the four's trail joins an old cart track running north-east; there is no fork.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
