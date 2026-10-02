@@ -16,7 +16,7 @@ export const overwhereI00079 = {
     "character-other/overwhere-i-quarry-crewman-five",
     "character-other/overwhere-i-mirren-dask",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I find high ground and use my lenses to search for clues for where the bandits went.",
   beats: [
     "Four hundred yards west, a granite knoll rises bare above the pines.",
@@ -38,6 +38,6 @@ export const overwhereI00079 = {
     "lore/overwhere-i-the-deserter-crew-2-2",
     "place/overwhere-i-greyback-and-east-road",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-03T16:06:00.000Z",
 } as const satisfies StoryTurnPlayed
