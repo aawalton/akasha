@@ -4,13 +4,14 @@ export const overwhereI00092 = {
   id: "01a0fea8-2960-7733-b4cd-9fc9882af1a3",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-092",
+  cover: "image/image-eac67b210b96b153",
   ownLength: 133,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 92,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Of course” I give him one back. “Let’s get on our way, I’m anxious to get to Wendlow and get a nice hot bath!” While we travel, I keep my mana at 80%, practicing magic to speed up the cart along the way, careful not to break anything. I warn Osric in advance.",
   beats: [
@@ -31,6 +32,12 @@ export const overwhereI00092 = {
     "place/overwhere-i-greyback-and-east-road",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-04T00:57:00.000Z",
+  coverAfter: "\"We roll at six. Sleep first. You've earned it twice over,",
 } as const satisfies StoryTurnPlayed
