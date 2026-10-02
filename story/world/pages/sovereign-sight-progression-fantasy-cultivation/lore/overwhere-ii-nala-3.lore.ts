@@ -134,7 +134,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "On day nineteen the long bones of Nala's arms and her shins refine sweetly, barely aching.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "By the morning of day twenty only Nala's thighs are left to refine.",
