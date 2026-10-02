@@ -4,6 +4,7 @@ export const overwhereIii00063 = {
   id: "01a0fddf-968d-75d9-8da1-630f8492e761",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-063",
+  cover: "image/image-088d226fe5ed467f",
   ownLength: 177,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -40,6 +41,7 @@ export const overwhereIii00063 = {
     "place/overwhere-iii-fairley-farm",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-06T08:35:00.000Z",
+  coverAfter: "The fox bursts from the sett mouth in a spray of gray dirt,",
 } as const satisfies StoryTurnPlayed
