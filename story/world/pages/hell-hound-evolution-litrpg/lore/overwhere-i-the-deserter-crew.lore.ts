@@ -362,6 +362,10 @@ export const overwhereITheDeserterCrew = {
       fact: "The quarry pit's lip is 60 yards off the road; the crew runs to it at about 7 yards a second.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The three burned blademen stagger at half pace, reaching the pit about 14 seconds after the whistle.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
