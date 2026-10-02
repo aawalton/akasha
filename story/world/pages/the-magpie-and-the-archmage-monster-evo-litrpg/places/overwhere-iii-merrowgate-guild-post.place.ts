@@ -127,7 +127,7 @@ export const overwhereIiiMerrowgateGuildPost = {
       ],
     },
     {
-      fact: "The lead box holds two bounty blightstones: one from the corrupted stag, one from the wolf.",
+      fact: "The lead box holds two whole, dark blightstones: the stag's second stone and the wolf's second.",
       knowers: [
         "lore-disclosure/game-master",
         "character-other/overwhere-iii-marda-hesk",
