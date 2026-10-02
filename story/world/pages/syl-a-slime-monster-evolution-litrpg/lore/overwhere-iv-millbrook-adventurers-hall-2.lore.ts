@@ -188,5 +188,21 @@ export const overwhereIvMillbrookAdventurersHall2 = {
         "character-other/overwhere-iv-ilsa-crane",
       ],
     },
+    {
+      fact: "Ilsa posts Nala's night watch at Tull's farm, since Tull knows her and was raided last.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "A night watch runs dusk to dawn; the hall pays its 3 silver the next morning.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "Ilsa gives each watcher a cow horn, to blow if goblins come, so the farm wakes.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "A watcher guards the farm; Ilsa wants no one following goblins into the Tangle by night.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
   ],
 } as const satisfies Lore
