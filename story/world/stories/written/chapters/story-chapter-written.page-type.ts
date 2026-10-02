@@ -20,10 +20,24 @@ export const storyChapterWritten = {
       pageProperty: "multi-relation-property/scene-images",
       required: false,
       many: true,
-      maxCount: 10,
+      maxCount: null,
+    },
+    {
+      pageProperty: "record-property/chapter-pictured",
+      required: false,
+      many: true,
+      maxCount: null,
     },
   ],
-  parts: ["module/chapter-making", "module/chapter-panels", "multi-relation-property/scene-images"],
+  parts: [
+    "module/chapter-making",
+    "module/chapter-panels",
+    "multi-relation-property/scene-images",
+    "record-property/chapter-pictured",
+    "relation-property/pictured-character",
+    "text-property/pictured-outfit",
+    "text-property/pictured-setting",
+  ],
   detailConfig: {
     frame: {
       edgeToEdge: true,

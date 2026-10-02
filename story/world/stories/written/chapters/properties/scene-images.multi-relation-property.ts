@@ -10,7 +10,8 @@ export const sceneImages = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A written chapter is pictured by ten scenes spread through its prose.",
+      statement:
+        "A written chapter's scenes are the pictures of what its story shows for the first time there.",
     },
     {
       decisionKind: "decision-kind/departure",
