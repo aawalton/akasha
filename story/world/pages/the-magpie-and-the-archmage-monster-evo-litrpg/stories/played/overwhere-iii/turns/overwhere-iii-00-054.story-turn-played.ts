@@ -15,7 +15,7 @@ export const overwhereIii00054 = {
     "character-other/overwhere-iii-huw-tarrant",
     "character-other/overwhere-iii-marda-hesk",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Thanks Ivy” I go rest at the shrine, then back to the Post. “How many blightstones left to cleanse here?”",
   beats: [
@@ -24,7 +24,8 @@ export const overwhereIii00054 = {
     "The white-gold threads seep in. By late afternoon she's full to the brim again.",
     "She walks back up to town and into the Post before the dusk bell.",
     '"How many blightstones are left to cleanse here?" she asks Marda.',
-    'Marda taps the lead box with her cane. "Two whole ones. One stag, one wolf."',
+    'Marda taps the lead box with her cane. "Two whole ones, not the two you cracked."',
+    "\"The stag's second stone and the wolf's second. Both still dark.\"",
     '"And the six seed stones you brought in off folk. That\'s all there is in Merrowgate."',
     '"More only come from new kills. The Thornmere wagon takes the box at the new moon, twelve days off."',
   ],
