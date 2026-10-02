@@ -144,6 +144,10 @@ export const saltAndLamplightMorwenna = {
         "character-other/salt-and-lamplight-morwenna",
       ],
     },
+    {
+      fact: "Morwenna keeps her mother Ysella's clothes folded in the chest at the foot of her bed.",
+      knowers: ["lore-disclosure/game-master", "character-other/salt-and-lamplight-morwenna"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
