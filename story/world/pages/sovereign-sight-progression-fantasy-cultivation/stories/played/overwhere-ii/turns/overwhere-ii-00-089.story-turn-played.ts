@@ -4,10 +4,13 @@ export const overwhereIi00089 = {
   id: "01a0fed2-b34a-738d-8217-956f612bee03",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-089",
+  ownLength: 191,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 89,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-ii-nala"],
+  stepStatus: "step-status/reviewers",
   action: "“Yes. I would appreciate it if you tell ne what you see.”",
   beats: [
     "Nala: \"Yes. I'd appreciate it if you'd tell me what you see.\"",
@@ -27,6 +30,11 @@ export const overwhereIi00089 = {
     'Lady Varrow: "And a knight\'s rank."',
     'Lady Varrow: "Stand with us when it comes."',
   ],
-  lore: ["lore/overwhere-ii-lady-imre-varrow"],
+  lore: [
+    "lore/overwhere-ii-lady-imre-varrow",
+    "lore/overwhere-ii-nala",
+    "lore/overwhere-ii-nala-2",
+    "lore/overwhere-ii-nala-3",
+  ],
   endsAt: "2026-10-21T08:33:00.000Z",
 } as const satisfies StoryTurnPlayed
