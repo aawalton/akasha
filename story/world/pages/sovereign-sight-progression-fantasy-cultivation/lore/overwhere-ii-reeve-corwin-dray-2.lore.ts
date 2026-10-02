@@ -119,5 +119,17 @@ export const overwhereIiReeveCorwinDray2 = {
       fact: "Dray says they must leave the Ford by noon to reach Ashlin Farm before dusk.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Dray and his four watchmen leave an hour ahead, by the fields east of the road, out of Pip's sight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray tells Nala to stop at the lane's end and talk, to hold the crossbows' eyes while he closes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dray's signal that he is at the barn's back wall is a single crow's caw from the gully.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
