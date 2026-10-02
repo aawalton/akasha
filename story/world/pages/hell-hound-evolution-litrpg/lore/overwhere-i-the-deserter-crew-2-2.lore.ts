@@ -350,5 +350,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Nala's twin beams burned through Voss's shield and mail; he died ten yards short of her.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Voss lies dead on the stream bank below his overhang; his sack sits under the overhang.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
