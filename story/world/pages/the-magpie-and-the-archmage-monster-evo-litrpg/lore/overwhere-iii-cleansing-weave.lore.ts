@@ -104,5 +104,9 @@ export const overwhereIiiCleansingWeave = {
       fact: "Spreading a weave over a heap is fiddly the first time; a slip spends the mana and cracks nothing.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Her fifth telling use past Basic shows: [Cleansing Weave has advanced: Basic → Novice]",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
