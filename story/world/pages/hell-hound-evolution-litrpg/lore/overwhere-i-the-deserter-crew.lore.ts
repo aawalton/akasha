@@ -203,6 +203,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Crewmen One to Five are the Levels 10, 12, 13, 14 and 16 at the roadblock, in that order.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's first slug struck Voss in the head; bleeding, shield up, he charges her with axe high.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
