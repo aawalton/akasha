@@ -160,5 +160,9 @@ export const overwhereIiWendleFord = {
       fact: "The begging woman says Ashlin Farm is half a day down the road; she paused over her son's age.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Maddy knows most faces in the valley, and has never seen the begging woman before.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place
