@@ -66,7 +66,7 @@ export const overwhereIiGreyShaw = {
     },
     {
       fact: "Dray says a Reeve holds recovered goods for Lady Varrow's court; by custom the taker has a third.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Dray agrees the bottles go first to the freed captives, and the coin to those the ledger robbed.",
