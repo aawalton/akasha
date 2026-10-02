@@ -7,7 +7,15 @@ export const overwhereIii00056 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 56,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I sleep, then in the morning I check in at Brannagh’s first thing, heal anyone waiting, then work on the blightstone again, this time, I try to focus the weave into a loop, so it doesn’t snap back into my arm.",
+  lore: [
+    "lore/overwhere-iii-brannagh-tull",
+    "lore/overwhere-iii-brannagh-tull-2",
+    "lore/overwhere-iii-cleansing-weave",
+    "lore/overwhere-iii-corruption",
+    "lore/overwhere-iii-mending-weave",
+    "place/overwhere-iii-merrowgate-guild-post",
+  ],
 } as const satisfies StoryTurnPlayed
