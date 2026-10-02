@@ -288,6 +288,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Burning the wolf on her arm scorches her arm too, unless she shapes flame off it: a moderate act.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Tobin, Osric, the cart, the mule and the cask are behind Nala, outside her burst's half-circle.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
