@@ -93,7 +93,7 @@ export const overwhereIiLadyImreVarrow = {
     },
     {
       fact: "Garth's plea reached her, and she had no Talent to spare; Wren's life is a debt she owes Nala.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "She values a Talent that draws rot above any sword, since the valley has no healer of that kind.",
