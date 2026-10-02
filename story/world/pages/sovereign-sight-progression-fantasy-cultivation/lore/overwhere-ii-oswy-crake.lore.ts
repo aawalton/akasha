@@ -159,6 +159,10 @@ export const overwhereIiOswyCrake = {
       fact: "Crake now waits in the barn under the loft, and the Loddons shoot as soon as she clears the lane.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The loft's first two bolts were aimed low, at Nala's legs, not at her heart.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
