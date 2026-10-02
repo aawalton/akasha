@@ -269,7 +269,7 @@ export const overwhereIvTheTangle = {
     },
     {
       fact: "The raiders rest at a stream three miles in through mid-morning, the sheep watered and tied.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The raiders' trail from Tull's ford is plain: churned mud, wool on thorns, sheep dung.",

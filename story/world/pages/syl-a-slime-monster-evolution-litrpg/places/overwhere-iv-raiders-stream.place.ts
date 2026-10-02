@@ -10,7 +10,7 @@ export const overwhereIvRaidersStream = {
   facts: [
     {
       fact: "Three miles into the Tangle the deer trail fords a shallow stream in a clearing of alders.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Tired sheep keep the Tull raiders at the stream till near noon; Grakk's camp is two miles on.",
@@ -18,11 +18,11 @@ export const overwhereIvRaidersStream = {
     },
     {
       fact: "Two raiders carry short bows and sit on the far bank, watching the back trail.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Three raiders squat by a small fire on the near bank, gnawing a sheep they killed.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "The sixth raider watches the five living sheep, tied to an alder at the clearing's edge.",
@@ -30,7 +30,7 @@ export const overwhereIvRaidersStream = {
     },
     {
       fact: "The hobgoblin dozes against a log mid-clearing, horn on a cord at his chest, cleaver by his hand.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "A lone walker going slow and careful is heard by goblins at twenty paces, less on moss.",
@@ -42,7 +42,7 @@ export const overwhereIvRaidersStream = {
     },
     {
       fact: "From forty paces down the trail, gaps in the alders show every raider but the sheep-watcher.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "A rend falls only where she can see; her Spatial Sense finds a body but can't aim one.",
@@ -50,7 +50,7 @@ export const overwhereIvRaidersStream = {
     },
     {
       fact: "Goblins who see one of their own fall to nothing they can see freeze a breath, then scatter.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Woken by alarm, the hobgoblin reaches for his horn first and his cleaver second.",
@@ -75,6 +75,14 @@ export const overwhereIvRaidersStream = {
     {
       fact: "The LV 9 hobgoblin's boiled-hide armor gives him a ward of 2.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala's sense found a seventh raider she couldn't see, at the clearing's edge by the tied sheep.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Alarmed, the hobgoblin reached not for his cleaver but his horn, and lifted it to his lips.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Place

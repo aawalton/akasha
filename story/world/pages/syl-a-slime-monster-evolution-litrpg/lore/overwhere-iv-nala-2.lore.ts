@@ -261,5 +261,17 @@ export const overwhereIvNala2 = {
       fact: "Nala told Sister Anwen her fast reading is a skill, from having many books when younger.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Nala's Rift Rend killed the Tull raiders' two goblin bowmen, a LV 4 and a LV 3.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Killing the bowmen raised Nala's Rift Rend to LV 4 and her Spatial Sense to LV 2.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Reached for at the raiders' stream, Nala's Spatial Sense spread out to forty paces.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore

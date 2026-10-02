@@ -47,6 +47,6 @@ export const overwhereIv00052 = {
     "place/overwhere-iv-raiders-stream",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/picture", "story-recorder/memory"],
   endsAt: "2026-10-03T11:01:00.000Z",
 } as const satisfies StoryTurnPlayed
