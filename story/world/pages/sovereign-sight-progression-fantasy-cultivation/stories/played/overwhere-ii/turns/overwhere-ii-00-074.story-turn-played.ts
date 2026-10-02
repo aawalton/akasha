@@ -4,13 +4,14 @@ export const overwhereIi00074 = {
   id: "01a0fdde-8c0f-720c-8670-4602bac71d8e",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-074",
+  cover: "image/image-6b1da96dd7792083",
   ownLength: 327,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 74,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Aren’t you and me the watch in this case? So we could decide what to do with it anyways. If the chained Talents need it, I don’t mind passing it to them, what’s it good for?”",
   beats: [
@@ -49,6 +50,11 @@ export const overwhereIi00074 = {
     "place/overwhere-ii-grey-shaw",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-14T22:25:00.000Z",
 } as const satisfies StoryTurnPlayed
