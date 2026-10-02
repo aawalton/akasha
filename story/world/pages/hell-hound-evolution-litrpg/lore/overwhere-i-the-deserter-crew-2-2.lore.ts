@@ -12,5 +12,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Crow walks well behind the others in the pines; through the lens he is hard to pick out.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Through the lens, four men crossed the track's clearing two miles off, the third limping.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
 } as const satisfies Lore
