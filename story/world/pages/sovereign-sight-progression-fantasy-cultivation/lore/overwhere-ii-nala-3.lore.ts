@@ -212,5 +212,13 @@ export const overwhereIiNala3 = {
       fact: "Nala took Lady Varrow's lesser bond; Sir Edric witnessed it, naming her free blade of Varrow Keep.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Nala told Lady Varrow she will train mornings and refine after, until her refining is done.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
+    {
+      fact: "Undertow is a draw, so the Lady's sparring rule bars Nala from using it against the Talented.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
