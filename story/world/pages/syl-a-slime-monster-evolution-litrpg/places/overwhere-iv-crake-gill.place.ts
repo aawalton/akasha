@@ -87,5 +87,29 @@ export const overwhereIvCrakeGill = {
       fact: "Ten minutes of Nala's tries from the gully never stirred the sleeping beast.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Along the gill's north rim, sixty paces of soft heather reach the lip; only its last are loose.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "From the rim, five paces short of the loose stone, the overhang shows through a gap in the gorse.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "That gap looks down on the wolf's head and neck from about twenty paces.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A rend through the throat leaves a blade wolf silenced but, being so big, not always dead.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A blade wolf, wounded, goes for whatever it can smell or see, and never runs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "From the gill's head the only way up to the rim is a steep scramble of fifteen paces.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
