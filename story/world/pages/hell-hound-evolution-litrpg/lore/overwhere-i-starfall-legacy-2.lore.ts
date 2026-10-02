@@ -84,5 +84,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "A fire-and-earth weave heats stone within a held working's 30 yards, a yard-wide patch at a time.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Her legacy cannot yet melt stone to lava; heated stone only glows, cracks and bursts.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
