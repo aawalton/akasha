@@ -53,7 +53,7 @@ export const overwhereIii0001TheCopperRing = {
     },
     {
       position: 9,
-      cover: "image/image-8846175f37ecf39b",
+      cover: "image/image-32ff09a5f4d07b87",
       coverAfter: "She opens a drawer and takes out a sheet of paper and",
     },
     {
