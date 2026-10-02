@@ -10,7 +10,7 @@ export const overwhereIiNala3 = {
   facts: [
     {
       fact: "Nala's push against the venom came slow, like pushing through cold mud, and too late.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The venom choked all Nala's Locks, throat, palms and soles; the dart stayed in her neck.",
