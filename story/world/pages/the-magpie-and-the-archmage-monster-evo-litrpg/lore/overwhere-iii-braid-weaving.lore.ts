@@ -18,7 +18,7 @@ export const overwhereIiiBraidWeaving = {
     },
     {
       fact: "A braided weave costs only the weave's own mana; the lent current carries it for nothing.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "A first braid is fiddly like a first loop; a slip unravels it and its mana is spent.",
@@ -26,7 +26,7 @@ export const overwhereIiiBraidWeaving = {
     },
     {
       fact: "A loop closes inside a braid as it does by hand, and works the same.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "Her first braid that holds cleanly earns: [New skill acquired – Braid Weaving.]",
@@ -38,7 +38,7 @@ export const overwhereIiiBraidWeaving = {
     },
     {
       fact: "Once a braid has held cleanly, the knack stays; later braids close as easily as plain weaves.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
       fact: "A braid that holds and lands counts as holding cleanly, even if its snap-back stings her.",
