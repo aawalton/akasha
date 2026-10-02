@@ -111,7 +111,11 @@ export const overwhereIiiBrannaghTull2 = {
     },
     {
       fact: "On day six's morning Brannagh's bench had nothing fresh; the drover waited and nodded.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
 } as const satisfies Lore
