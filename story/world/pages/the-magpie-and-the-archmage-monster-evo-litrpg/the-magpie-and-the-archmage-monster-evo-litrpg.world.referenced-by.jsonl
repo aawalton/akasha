@@ -66,6 +66,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/lore/overwhere-iii-noira.lore.ts","id":"01a0ed30-60cc-7477-804c-762e3cfdb4a8"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/lore/overwhere-iii-old-greyhand.lore.ts","id":"01a0ed31-66ee-7f9f-adf6-c9448a208401"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/lore/overwhere-iii-oswin-carrow.lore.ts","id":"01a0ed30-5d26-7d4f-9772-e73848b8d04e"}
+{"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/lore/overwhere-iii-oswin-fairley.lore.ts","id":"01a0fdd2-f70e-7982-a50a-583de05b9790"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/lore/overwhere-iii-peoples.lore.ts","id":"01a0ed2b-c8de-7aab-9b18-2bd166c3710b"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/lore/overwhere-iii-pip-carrow.lore.ts","id":"01a0ed30-5d26-746d-86bf-513681186a8a"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/lore/overwhere-iii-reius.lore.ts","id":"01a0ed2d-dbfe-7e75-b165-e8791ca55b2c"}
@@ -185,6 +186,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/characters/overwhere-iii-noira.character-other.ts","id":"01a0ed30-60cc-78c4-bbe4-b2a3fdf3d726"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/characters/overwhere-iii-old-greyhand.character-other.ts","id":"01a0ed31-66ee-70ef-8c32-ebf271a84c52"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/characters/overwhere-iii-oswin-carrow.character-other.ts","id":"01a0ed30-5d27-7b7e-8993-c94c4debe290"}
+{"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/characters/overwhere-iii-oswin-fairley.character-other.ts","id":"01a0fdd2-f70f-7ab3-8c51-f0113d15e1e1"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/characters/overwhere-iii-pip-carrow.character-other.ts","id":"01a0ed30-5d27-726c-8591-8f6206b2268a"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/characters/overwhere-iii-reius.character-other.ts","id":"01a0ed2d-dbff-71fa-adb4-7f0b7f7ad135"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/characters/overwhere-iii-renir.character-other.ts","id":"01a0ed28-efdb-7407-b0fe-e880e9bc47d8"}
@@ -222,6 +224,7 @@
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/mechanics/relationships/overwhere-iii-marda-hesk.world-relationship.ts","id":"01a0f192-46df-79cf-adbc-8c38f3213807"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/mechanics/relationships/overwhere-iii-maud-ferrow.world-relationship.ts","id":"01a0f3b2-49a6-716c-acf3-5b16575842fe"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/mechanics/relationships/overwhere-iii-mother-sallow.world-relationship.ts","id":"01a0f4a4-ca20-73cc-8cd2-d9c8b4b7b388"}
+{"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/mechanics/relationships/overwhere-iii-oswin-fairley.world-relationship.ts","id":"01a0fdd2-f70f-7892-98c4-54dbb68691c2"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/mechanics/relationships/overwhere-iii-pip-carrow.world-relationship.ts","id":"01a0f3fa-8790-7f54-8db6-6646ce753809"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/mechanics/relationships/overwhere-iii-tam-rowe.world-relationship.ts","id":"01a0f41f-2c1b-70d0-b646-4d7e7882786d"}
 {"propertySlug":"world","path":"story/world/pages/the-magpie-and-the-archmage-monster-evo-litrpg/stories/played/overwhere-iii/mechanics/relationships/overwhere-iii-tobin-wick.world-relationship.ts","id":"01a0f177-8423-7a64-8ef1-819217863047"}
