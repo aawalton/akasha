@@ -4,10 +4,13 @@ export const overwhereI00088 = {
   id: "01a0fe74-93da-7ac6-b373-9e93f1c926ec",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-088",
+  ownLength: 152,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 88,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/overwhere-i-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I start tracking the mile and cart, keeping my mana around 80% full and using my mobility enhancements wherever it is higher.",
   beats: [
@@ -21,6 +24,7 @@ export const overwhereI00088 = {
     '"Who\'s there? Stand and say, or I loose!" Tobin calls, his voice high and shaking.',
   ],
   lore: [
+    "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
     "lore/overwhere-i-osric-fenn",
     "lore/overwhere-i-tobin-ashdown",
