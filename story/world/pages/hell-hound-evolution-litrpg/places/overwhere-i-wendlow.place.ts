@@ -123,5 +123,9 @@ export const overwhereIWendlow = {
       fact: "Wendlow's long grey stone wall stands by a broad brown river, roofs crowding up behind it.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Told she brings bounties, the watchman sends a boy for the gate sergeant, Bram Coyle.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
