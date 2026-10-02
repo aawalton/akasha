@@ -103,5 +103,9 @@ export const overwhereIWendlow = {
       fact: "The Board pays a crewman's bounty on his right ear with his levy tag; Voss's 30 gold wants his head.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Voss and eight crewmen in proof come to 46 gold at the Board; Ghost-Eye's head, 25 more.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
