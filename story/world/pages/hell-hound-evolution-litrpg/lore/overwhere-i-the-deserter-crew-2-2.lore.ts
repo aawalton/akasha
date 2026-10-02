@@ -114,5 +114,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Crow cranks and looses every 6 seconds; Five, his face burned, takes about 8.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "If Crow falls, Five drops his crossbow and runs up the track for the camp.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
