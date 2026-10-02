@@ -147,6 +147,10 @@ export const overwhereIiOswyCrake = {
       fact: "From the hedge Pip sees Bet's tear-swollen face and her stiff walk, and tells Crake she looks wrong.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Warier, Crake posts Big Harl in the beck gully behind the barn, to watch the back way.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
