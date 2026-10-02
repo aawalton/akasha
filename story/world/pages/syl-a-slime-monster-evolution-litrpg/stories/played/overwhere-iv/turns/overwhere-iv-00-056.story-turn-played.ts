@@ -32,5 +32,6 @@ export const overwhereIv00056 = {
     "lore/overwhere-iv-nala-2",
     "place/overwhere-iv-millbrook-smithy",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2026-10-03T14:55:00.000Z",
 } as const satisfies StoryTurnPlayed
