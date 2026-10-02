@@ -206,6 +206,10 @@ export const overwhereIRowanCoalby = {
         "lore/overwhere-i-rowan-coalby",
       ],
     },
+    {
+      fact: "At dawn on day 5 Rowan and Sedge come to the gate to see Nala off; Sedge, for once, sniffs her hand.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
