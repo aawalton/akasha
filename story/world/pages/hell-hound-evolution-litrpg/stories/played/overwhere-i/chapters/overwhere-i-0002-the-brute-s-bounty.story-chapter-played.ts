@@ -48,7 +48,7 @@ export const overwhereI0002TheBruteSBounty = {
     },
     {
       position: 11,
-      cover: "image/image-aaf0e2a9c93c1cc7",
+      cover: "image/image-9c024b3e49293021",
       coverAfter: "At the chest she stops and holds the pelt open round the",
     },
     {
