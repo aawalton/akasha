@@ -241,7 +241,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray needs nothing more of Nala on the road, and bids her refine; the watch holds the prisoners.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "At the Ford Dray will write the fight down for the Carrowmouth watch, and wants Nala's mark on it.",
