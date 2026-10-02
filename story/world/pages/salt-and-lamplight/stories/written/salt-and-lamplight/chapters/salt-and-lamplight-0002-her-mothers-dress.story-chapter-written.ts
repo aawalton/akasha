@@ -5,6 +5,7 @@ export const saltAndLamplight0002HerMothersDress = {
   type: "page-type/story-chapter-written",
   slug: "salt-and-lamplight-0002-her-mothers-dress",
   cover: "image/image-a9468cb1dc383b4e",
+  ownProgress: 52,
   position: 2,
   unit: "unit/words",
   title: "Her Mother's Dress",
