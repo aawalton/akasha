@@ -4,6 +4,7 @@ export const overwhereI00081 = {
   id: "01a0fdd4-2be4-7830-a254-30c35e768bb4",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-081",
+  cover: "image/image-e323bc0efb34aae2",
   ownLength: 170,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -36,6 +37,6 @@ export const overwhereI00081 = {
     "lore/overwhere-i-the-deserter-crew-2-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-03T16:19:00.000Z",
 } as const satisfies StoryTurnPlayed
