@@ -14,7 +14,11 @@ export const overwhereIiiCorruption2 = {
     },
     {
       fact: "The fox's bite lays blight; by day it lies up in its sett, and it raids the coops at night.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-oswin-fairley",
+      ],
     },
     {
       fact: "The bite's dark thread leads straight to the fox's sett; to Nala's sight the fox is a dark smear.",
