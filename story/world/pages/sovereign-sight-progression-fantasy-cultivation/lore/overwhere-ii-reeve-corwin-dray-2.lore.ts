@@ -113,7 +113,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray knows Ashlin Farm: empty since autumn, with a beck gully behind its barn.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
