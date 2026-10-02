@@ -10,7 +10,7 @@ export const hollowmere0001Thornfield14 = {
   story: "story-written/hollowmere",
   ownLength: 7036,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "You remember dozing over a book at your back window, as Alan, one evening.",
     "You wake in a narrow bed under a window on grey water, in cold bright light.",
@@ -84,6 +84,14 @@ export const hollowmere0001Thornfield14 = {
     "You don't know how you came here or if you can go back. You sleep anyway.",
     "A day at Hollowmere ends.",
   ],
+  issues: [
+    '"and nobody looks twice" (beat) - Nobody Acts',
+    '"and nobody looks twice at that either" (beat) - Nobody Acts',
+    '"tracing it carefully. Nothing happens." (beat) - Nobody Acts',
+    '"You remember nothing of this Nala\'s life" (beat) - Plain Negation',
+    '"a small sensitive point at the top of them" - Hollowmere Explicitness',
+    '"the place between your legs that is warm and closed and new" - Hollowmere Explicitness',
+  ],
   lore: [
     "lore/hollowmere-bea",
     "lore/hollowmere-kit",
@@ -99,5 +107,5 @@ export const hollowmere0001Thornfield14 = {
     "character-other/hollowmere-yusra",
     "character-other/hollowmere-kit",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryChapterWritten
