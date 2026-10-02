@@ -18,7 +18,7 @@ export const overwhereI00074 = {
     "character-other/overwhere-i-quarry-crewman-four",
     "character-other/overwhere-i-quarry-crewman-five",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "“Sure, we’ve paid your toll, so now you can pay mine. Your head should just about cover it.” I stay behind cover and keep firing careful aimed shots with the stone bullets, targeting faces and gaps in their armor.",
   beats: [
@@ -40,6 +40,6 @@ export const overwhereI00074 = {
     "lore/overwhere-i-nala-2",
     "lore/overwhere-i-the-deserter-crew-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-03T15:09:00.000Z",
 } as const satisfies StoryTurnPlayed
