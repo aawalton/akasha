@@ -101,7 +101,7 @@ export const overwhereIiSirEdricHale = {
     },
     {
       fact: "Sir Edric feels fresh hairline cracks fanning out east and west along the range from the crag.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "In thirty years Sir Edric has felt nothing like it, and it frightens him, though he hides it.",
