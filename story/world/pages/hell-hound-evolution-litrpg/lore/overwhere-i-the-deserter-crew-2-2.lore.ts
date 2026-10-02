@@ -122,5 +122,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "At 16:18 Voss and Blademan Three are half a mile up the track, hurrying for the camp.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Two more of Voss's men keep the charcoal camp, Levels 11 and 13, with crossbows.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
