@@ -7,7 +7,14 @@ export const overwhereI00097 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 97,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I go over and pick up Ghost-Eye’s head from the cart, using a working of fire and earth to increase my strength, then follow the directions up",
+  lore: [
+    "lore/overwhere-i-starfall-legacy",
+    "lore/overwhere-i-starfall-legacy-2",
+    "lore/overwhere-i-the-greyfen-alpha-2",
+    "lore/overwhere-i-the-greyfen-alpha-2-2",
+    "place/overwhere-i-wendlow",
+  ],
 } as const satisfies StoryTurnPlayed
