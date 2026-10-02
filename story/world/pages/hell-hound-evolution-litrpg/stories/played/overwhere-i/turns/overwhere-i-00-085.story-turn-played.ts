@@ -10,7 +10,7 @@ export const overwhereI00085 = {
   position: 85,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-harl-voss"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I walk slowly towards him. “Your time has come, Voss. And you want to know why? Is simple. You are worth quite a lot to me dead and nothing to me alive.” When I get in range, I do my double fire beam and burn through his shield, through his armor, and through his body.",
   beats: [
@@ -26,6 +26,9 @@ export const overwhereI00085 = {
     "His burned shield rolls a little way down the bank and falls flat.",
     "Under the overhang his sack sits where he left it, the dusk thickening around it.",
   ],
+  issues: [
+    '"Under the overhang the sack sits where he left it, the dusk thickening" - Leave It Open',
+  ],
   lore: [
     "lore/overwhere-i-nala",
     "lore/overwhere-i-nala-2",
@@ -35,6 +38,6 @@ export const overwhereI00085 = {
     "lore/overwhere-i-the-deserter-crew-2-2",
     "lore/overwhere-i-the-system-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-03T19:03:00.000Z",
 } as const satisfies StoryTurnPlayed
