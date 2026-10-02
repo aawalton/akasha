@@ -258,5 +258,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Laden with the sack, Voss leaves deep prints east; his trail is easy by daylight, hard after dark.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Voss makes about three miles an hour east; a careful follower keeps pace but does not close.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
