@@ -8,9 +8,9 @@ export const hollowmere0009GoodnightNala = {
   unit: "unit/words",
   title: "Goodnight, Nala",
   story: "story-written/hollowmere",
-  ownLength: 3506,
+  ownLength: 3505,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Tuesday: dawn on Shiv's rock; three minutes in the mere now, and you only gasp once.",
     "Wrapped in her parka, you tell Shiv about Bea and the rock and the kiss on your cheek.",
