@@ -18,12 +18,14 @@ import type {
   PlayedTurnCover,
 } from "akasha/story/ui/played-panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import {
+  type Shown,
   shownIn,
-  usePanelsDrawn,
+  usePanelsHeld,
 } from "akasha/story/ui/played-panel/modules/panel-loading/panel-loading.module.code.ts"
 import { aside } from "akasha/story/ui/played-panel/panel-place/pages/aside.panel-place.ts"
 import { panelPlace } from "akasha/story/ui/played-panel/panel-place/panel-place.page-type.ts"
 import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
+import { useFirstRead } from "akasha/story/world/stories/played/modules/action-bar/action-bar.module.code.tsx"
 import { PlayedLayout } from "akasha/story/world/stories/played/modules/played-layout/played-layout.module.code.tsx"
 import { PlayedPanels } from "akasha/story/world/stories/played/modules/played-panels/played-panels.module.code.tsx"
 import { playedEnvelope } from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
@@ -35,9 +37,13 @@ import {
   PLAYER,
   stepIn,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
-import { type ReactNode, useMemo } from "react"
+import { type ReactNode, useEffect, useMemo } from "react"
 
 const ASIDE = namedAs(panelPlace.slug, aside.slug, null)
+
+const NO_PANELS: readonly Shown[] = []
+
+const UNSETTLED = "invisible"
 
 const PROSE_COLUMN = "mx-auto w-full min-w-0 max-w-[68ch]"
 
@@ -98,14 +104,17 @@ type ChapterPanelsProps = {
 }
 
 export function ChapterPanels({ pageTypeSlug, id, children }: ChapterPanelsProps) {
+  const [settled, onSettled] = useFirstRead()
   return (
-    <PlayedLayout
-      head={null}
-      panelsAbove={null}
-      runDrawn={<div className={PROSE_COLUMN}>{children}</div>}
-      underHeader
-      panelsAside={<ChapterAside pageTypeSlug={pageTypeSlug} id={id} />}
-    />
+    <div className={settled ? undefined : UNSETTLED}>
+      <PlayedLayout
+        head={null}
+        panelsAbove={null}
+        runDrawn={<div className={PROSE_COLUMN}>{children}</div>}
+        underHeader
+        panelsAside={<ChapterAside pageTypeSlug={pageTypeSlug} id={id} onSettled={onSettled} />}
+      />
+    </div>
   )
 }
 
@@ -184,7 +193,11 @@ function LatestChapterAside({
   )
 }
 
-function ChapterAside({ pageTypeSlug, id }: Omit<ChapterPanelsProps, "children">) {
+function ChapterAside({
+  pageTypeSlug,
+  id,
+  onSettled,
+}: Omit<ChapterPanelsProps, "children"> & { readonly onSettled: () => void }) {
   const { page } = usePage({ pageTypeSlug, id })
   const data = toPageDataJSON(page?.properties)
   const storyAddress = textIn(data.story)
@@ -198,6 +211,7 @@ function ChapterAside({ pageTypeSlug, id }: Omit<ChapterPanelsProps, "children">
       storyAddress={storyAddress}
       storyPageTypeSlug={story.pageTypeSlug}
       storySlug={story.slug}
+      onSettled={onSettled}
     />
   )
 }
@@ -208,6 +222,7 @@ type StoryAsideProps = {
   readonly storyAddress: string
   readonly storyPageTypeSlug: string
   readonly storySlug: string
+  readonly onSettled?: () => void
 }
 
 function StoryAside({
@@ -216,6 +231,7 @@ function StoryAside({
   storyAddress,
   storyPageTypeSlug,
   storySlug,
+  onSettled,
 }: StoryAsideProps) {
   const storyOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
@@ -228,7 +244,8 @@ function StoryAside({
   )
   const stories = usePages(storyOptions)
   const storyRow = stories.rows[0]
-  const shown = usePanelsDrawn(stringsIn(storyRow?.panels))
+  const held = usePanelsHeld(stringsIn(storyRow?.panels))
+  const shown = held ?? NO_PANELS
 
   const characterOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
@@ -277,6 +294,10 @@ function StoryAside({
     }),
     [turns, pageTypeSlug, chapter, player]
   )
+  const ready = held !== null && !stories.isLoading && !characters.isLoading
+  useEffect(() => {
+    if (ready) onSettled?.()
+  }, [ready, onSettled])
   const drawn = shownIn(shown, ASIDE)
   if (drawn.length === 0) return null
   return <PlayedPanels shown={drawn} envelope={envelope} run={run} />

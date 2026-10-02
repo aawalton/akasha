@@ -35,5 +35,9 @@ export const chapterPanels = {
       decisionKind: "decision-kind/departure",
       statement: "A written story's page draws its panels over its latest chapter at player.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chapter shows once its panels have settled, or after three seconds at most.",
+    },
   ],
 } as const satisfies Module

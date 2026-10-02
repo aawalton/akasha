@@ -128,10 +128,6 @@ export async function panelsSettled(
   }
 }
 
-export function usePanelsDrawn(named: readonly string[]): readonly Shown[] {
-  return usePanelsHeld(named) ?? NONE
-}
-
 export function usePanelsHeld(named: readonly string[]): readonly Shown[] | null {
   const [held, setHeld] = useState<readonly Shown[] | null>(null)
   const keyed = named.join(" ")
