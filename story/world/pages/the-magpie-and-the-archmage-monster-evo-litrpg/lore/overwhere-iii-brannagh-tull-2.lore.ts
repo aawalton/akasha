@@ -239,7 +239,11 @@ export const overwhereIiiBrannaghTull2 = {
     },
     {
       fact: "The washerwoman says she'll come back at the dusk bell: 'Years I've waited. An evening's nothing.'",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
 } as const satisfies Lore
