@@ -33,7 +33,7 @@ export const overwhereIiSirEdricHale = {
     },
     {
       fact: "Sir Edric wants Nala to lead him up to the split crag tomorrow, and tell him of the pull there.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Lady Varrow bade Sir Edric take the measure of the Talent Dray wrote of, and tell her.",
