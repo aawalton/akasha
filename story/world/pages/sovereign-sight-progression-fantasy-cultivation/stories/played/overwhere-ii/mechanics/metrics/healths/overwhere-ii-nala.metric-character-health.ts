@@ -6,10 +6,10 @@ export const overwhereIiNala = {
   slug: "overwhere-ii-nala",
   title: "Vigour",
   character: "character-player/overwhere-ii-nala",
-  value: 30,
+  value: 35,
   minValue: 0,
-  maxValue: 30,
+  maxValue: 35,
   history: "jsonl",
   displayOrder: 1,
-  revealedAs: "Fed and watered; a dull ache behind brow and jaw",
+  revealedAs: "Fed and rested; a frame like oak, like iron",
 } as const satisfies MetricCharacterHealth

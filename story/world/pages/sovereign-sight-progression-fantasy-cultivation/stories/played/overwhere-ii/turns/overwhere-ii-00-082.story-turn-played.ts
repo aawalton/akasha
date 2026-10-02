@@ -11,7 +11,7 @@ export const overwhereIi00082 = {
   position: 82,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "“Gladly, Sir.”",
   beats: [
     'Nala: "Gladly, Sir."',
@@ -44,7 +44,12 @@ export const overwhereIi00082 = {
     "lore/overwhere-ii-sir-edric-hale",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/picture",
+    "story-recorder/mechanics",
+  ],
   endsAt: "2026-10-19T11:00:00.000Z",
   coverAfter: "And under your feet, under the whole mountain, the vast slow pull, deep",
 } as const satisfies StoryTurnPlayed
