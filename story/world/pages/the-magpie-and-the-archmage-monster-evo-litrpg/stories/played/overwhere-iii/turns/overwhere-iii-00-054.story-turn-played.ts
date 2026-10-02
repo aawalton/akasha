@@ -15,7 +15,7 @@ export const overwhereIii00054 = {
     "character-other/overwhere-iii-huw-tarrant",
     "character-other/overwhere-iii-marda-hesk",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Thanks Ivy” I go rest at the shrine, then back to the Post. “How many blightstones left to cleanse here?”",
   beats: [
@@ -28,6 +28,9 @@ export const overwhereIii00054 = {
     '"And the six seed stones you brought in off folk. That\'s all there is in Merrowgate."',
     '"More only come from new kills. The Thornmere wagon takes the box at the new moon, twelve days off."',
   ],
+  issues: [
+    '"Two whole ones. One stag, one wolf." - Nala cracked both the stag and wolf stones already',
+  ],
   lore: [
     "lore/overwhere-iii-corruption",
     "lore/overwhere-iii-huw-tarrant",
@@ -38,6 +41,6 @@ export const overwhereIii00054 = {
     "place/overwhere-iii-merrowgate-guild-post",
     "place/overwhere-iii-wrenwood-crossroads",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-04T16:50:00.000Z",
 } as const satisfies StoryTurnPlayed
