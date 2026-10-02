@@ -1,16 +1,16 @@
 import type { StoryChapterWritten } from "akasha/story/world/stories/written/chapters/story-chapter-written.page-type.types.ts"
 
-export const hollowmere0001 = {
+export const hollowmere0001Thornfield14 = {
   id: "01a0fd10-48e5-7ba5-86f5-dd3b87362612",
   type: "page-type/story-chapter-written",
-  slug: "hollowmere-0001",
+  slug: "hollowmere-0001-thornfield-14",
   position: 1,
   unit: "unit/words",
-  title: "Chapter 1",
+  title: "Thornfield 14",
   story: "story-written/hollowmere",
-  ownLength: 0,
+  ownLength: 7036,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/reviewers",
   beats: [
     "You remember dozing over a book at your back window, as Alan, one evening.",
     "You wake in a narrow bed under a window on grey water, in cold bright light.",
@@ -92,5 +92,11 @@ export const hollowmere0001 = {
     "lore/hollowmere-yusra",
     "place/hollowmere-academy",
     "place/hollowmere-thornfield-house",
+  ],
+  characters: [
+    "character-player/hollowmere-nala",
+    "character-other/hollowmere-bea",
+    "character-other/hollowmere-yusra",
+    "character-other/hollowmere-kit",
   ],
 } as const satisfies StoryChapterWritten
