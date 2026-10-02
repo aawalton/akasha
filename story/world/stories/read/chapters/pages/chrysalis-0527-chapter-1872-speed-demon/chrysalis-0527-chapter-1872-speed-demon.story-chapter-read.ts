@@ -4,6 +4,7 @@ export const chrysalis0527Chapter1872SpeedDemon = {
   id: "01a0f011-275b-7182-87f4-abd9df250362",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0527-chapter-1872-speed-demon",
+  ownProgress: 905,
   position: 527,
   publishedAt: "2026-09-30",
   unit: "unit/words",
