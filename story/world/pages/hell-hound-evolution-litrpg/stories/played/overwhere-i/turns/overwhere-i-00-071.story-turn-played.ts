@@ -18,7 +18,7 @@ export const overwhereI00071 = {
     "character-other/overwhere-i-quarry-crewman-four",
     "character-other/overwhere-i-quarry-crewman-five",
   ],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "I get down on the ground to be less of a target and spin up bullets to max speed, pointed and rifled and spinning like a drill to pierce through armor or shields, then start picking off Voss’s men, starting with the crossbows.",
   beats: [
