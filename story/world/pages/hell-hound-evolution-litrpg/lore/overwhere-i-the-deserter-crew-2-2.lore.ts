@@ -282,5 +282,9 @@ export const overwhereITheDeserterCrew22 = {
       fact: "Voss's trail runs east along a stream through the pines, with no fork, to his overhang.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Voss keeps the sack with him; he does not hide it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
