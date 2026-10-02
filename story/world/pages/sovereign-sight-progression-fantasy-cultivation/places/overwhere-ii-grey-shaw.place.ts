@@ -40,5 +40,9 @@ export const overwhereIiGreyShaw = {
       fact: "Crake's iron coin box is locked; its keys are on the ring at Crake's belt, back at Ashlin.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "By law Crake's stash goes to the watch, but Dray asks Nala what she would have done with it.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place
