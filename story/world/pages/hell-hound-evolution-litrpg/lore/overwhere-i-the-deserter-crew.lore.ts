@@ -143,6 +143,10 @@ export const overwhereITheDeserterCrew = {
       fact: "The five at the roadblock are Levels 10, 12, 13, 14 and 16, with 30, 34, 36, 38 and 42 health.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Of the five, the Level 14 and Level 16 wear helms; the rest are bareheaded.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
