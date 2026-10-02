@@ -218,5 +218,9 @@ export const overwhereITheDeserterCrew2 = {
       fact: "Through the lens the pit's north wall shows a goat path to the forest, its dust freshly scuffed.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The lens shows the gallery mouths dark and still; nothing within them shows from her boulders.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
