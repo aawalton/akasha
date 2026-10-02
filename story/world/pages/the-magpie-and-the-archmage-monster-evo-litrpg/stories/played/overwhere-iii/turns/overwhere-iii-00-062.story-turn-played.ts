@@ -14,7 +14,7 @@ export const overwhereIii00062 = {
     "character-other/overwhere-iii-oswin-fairley",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Yes.” I turn to the washerwoman. “I’ll need to take care of the fox first and can’t risk running out of my mana, but I could help you in the evening if you’d like to come back then. Then I go with the father to find the fox.",
   beats: [
@@ -22,12 +22,12 @@ export const overwhereIii00062 = {
     "She turns to the washerwoman and offers to see her in the evening instead.",
     '"Years I\'ve waited," the washerwoman says. "An evening\'s nothing. I\'ll come at the dusk bell."',
     "Nala walks out the east gate beside the father, Oswin Fairley, along the Thornmere road.",
-    "The dark thread from his son's bite still runs ahead of her, east, thin as hair.",
+    "She keeps to the way the thread from his son's bite pointed yesterday: east.",
     "After an hour the road bends past a stone farmhouse and a coop with feathers on the ground.",
-    "The thread doesn't stop at the coop. It runs on across the barley stubble.",
-    "It leads to a hazel copse on a hedgebank and dives into a hole under the roots.",
+    "Past the coop, across the barley stubble, a dark smear shows to her sight, low under a hedgebank.",
+    "She crosses toward it. It sits in a hazel copse on the bank, under a hole in the roots.",
     "An old badger sett. The ground around its mouth has gone gray, and nothing grows there.",
-    "Down in the dark, under the earth, she sees it: a dark smear, curled and still. The fox.",
+    "Down under the earth the smear is curled and still. The fox.",
     'Oswin grips his stick. "That\'s where it lies up by day, then."',
   ],
   issues: [
