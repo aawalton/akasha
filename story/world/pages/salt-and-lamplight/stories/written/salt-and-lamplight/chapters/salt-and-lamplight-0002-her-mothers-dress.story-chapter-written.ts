@@ -8,9 +8,9 @@ export const saltAndLamplight0002HerMothersDress = {
   unit: "unit/words",
   title: "Her Mother's Dress",
   story: "story-written/salt-and-lamplight",
-  ownLength: 3285,
+  ownLength: 3308,
   prose: "txt",
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   beats: [
     "Nala wakes in the loft at grey dawn, still in this small body, still Nala.",
     "She lies a while with a hand on her tits under the shift; it doesn't feel like a dream.",
