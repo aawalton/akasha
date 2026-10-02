@@ -147,7 +147,11 @@ export const overwhereIiiBrannaghTull2 = {
     },
     {
       fact: "Day seven's morning brings no fresh hurt or blight to Brannagh's bench.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "Three Mending Weaves set the girl's crooked lip even on day seven; she grinned at Nala.",
