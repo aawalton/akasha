@@ -294,7 +294,7 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "At supper the drover, Hob Tanner, tells all who'll listen that factor Ivo Tessaly sold him duds.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
