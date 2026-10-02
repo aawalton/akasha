@@ -4,6 +4,7 @@ export const overwhereI00086 = {
   id: "01a0fe58-89cb-76dd-a089-e31491d780eb",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-086",
+  cover: "image/image-af99a95b874359ee",
   ownLength: 264,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
@@ -19,7 +20,7 @@ export const overwhereI00086 = {
     "character-other/overwhere-i-quarry-crewman-two",
     "character-other/overwhere-i-voss-drakewolf",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I use a spinning water blade to cut off his head, search his person for anything of value, put it in the sack and start retracing my steps back to each of the places I killed his men, collecting their valuables in the sack as well and cutting off their ears for proof of the kills.",
   beats: [
@@ -52,6 +53,12 @@ export const overwhereI00086 = {
     "place/overwhere-i-wendlow",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/inventory"],
+  recordedBy: [
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/inventory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-03T23:23:00.000Z",
+  coverAfter: "Among the blademen's bodies, the burned Drakewolf rises out of the dark,",
 } as const satisfies StoryTurnPlayed
