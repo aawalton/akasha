@@ -4,13 +4,13 @@ export const overwhereIv00052 = {
   id: "01a0fd50-6a76-7bfc-a959-0f9fb0aec39d",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-052",
-  ownLength: 300,
+  ownLength: 299,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 52,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/writer",
+  stepStatus: "step-status/recorders",
   action:
     "“I’ll be careful.” I follow the directions and start tracking the goblins, focused on stealth and my spacial sense as well as my eyes, so I can spot them even in hiding. As soon as I detect them, I start slicing, prioritizing the ones that can threaten me first, range attacks, close threats, and the hobgoblin.",
   beats: [
