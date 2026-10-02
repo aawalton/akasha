@@ -196,7 +196,11 @@ export const overwhereITheDeserterCrew22 = {
     },
     {
       fact: "At the first beam Voss snatches the sack and runs east out of the fold, shield on his back.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-harl-voss",
+      ],
     },
     {
       fact: "Voss's shield on his back wards 3 from behind; his head is bare since he tore off the cap.",
@@ -224,11 +228,27 @@ export const overwhereITheDeserterCrew22 = {
     },
     {
       fact: "Nala's twin beams killed both camp keepers; their bolts struck her shoulder and forearm.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-quarry-crewman-three",
+      ],
     },
     {
       fact: "Blademan Three flung down his crossbow, knelt with hands high, and begs not to be burned.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-quarry-crewman-three",
+      ],
+    },
+    {
+      fact: "Voss vanished into the pines past the fold's east lip, shield on his back and the sack with him.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "character-other/overwhere-i-harl-voss",
+      ],
     },
   ],
 } as const satisfies Lore
