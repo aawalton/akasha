@@ -196,5 +196,29 @@ export const overwhereIvTheTangle2 = {
       fact: "A club goblin swinging overhand at a head leaves its own body open beneath the arm.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "From where Nala fell, Tull's ford lies some two miles down the deer trail.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hurt and drained, Nala can keep a hard run on the trail for about a mile before she flags.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The goblins chase while she's in sight; the spear and club tire before the light knives do.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "So few goblins won't cross open meadow toward a lit fold; they turn back at the Tangle's edge.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Shouting at the Tangle's edge by the ford carries plainly to Tull's fold across the meadow.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A goblin's overhand club swing, once missed, leaves it off balance for a breath.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
