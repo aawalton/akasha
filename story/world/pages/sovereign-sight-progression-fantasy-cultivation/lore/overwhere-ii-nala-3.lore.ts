@@ -64,5 +64,9 @@ export const overwhereIiNala3 = {
       fact: "Penned behind her shut Locks, Nala's Water aches dully at her throat and palms.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Near dawn Nala's Locks open one by one, soles first, then palms, and her throat last of all.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
