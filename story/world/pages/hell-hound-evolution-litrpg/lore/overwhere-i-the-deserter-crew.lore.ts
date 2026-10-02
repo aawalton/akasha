@@ -215,6 +215,10 @@ export const overwhereITheDeserterCrew = {
       fact: "At her first slug two of the five raised crossbows and three drew blades and closed.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "Osric dove under his cart at Nala's first slug.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
