@@ -130,7 +130,7 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "Skill and trait levels rise Basic, Novice, Adept, Expert, Legend; Innate marks a natural peak.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
     },
     {
       fact: "A rank-up reads [Your skill <Mimicry> has reached [Novice] level.] with a new description.",
