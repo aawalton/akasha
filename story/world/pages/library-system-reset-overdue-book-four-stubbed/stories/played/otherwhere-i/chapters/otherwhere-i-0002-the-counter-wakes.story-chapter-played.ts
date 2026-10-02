@@ -68,7 +68,7 @@ export const otherwhereI0002TheCounterWakes = {
     },
     {
       position: 61,
-      cover: "image/image-8e7213310ebb9293",
+      cover: "image/image-7165786c16ee9332",
       coverAfter: "\"The translator's in your link, so you'll follow them all. It chokes",
     },
     {
