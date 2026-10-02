@@ -10,7 +10,7 @@ export const overwhereIv00060 = {
   position: 60,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala", "character-other/overwhere-iv-ilsa-crane"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“I’ll hunt the wolf today” I get directions to the old quarry and follow them, then close my eyes and focus on navigating by spacial sense. If I find any wolves, I use Rend on their throats with my eyes still closed.",
   beats: [
@@ -39,6 +39,7 @@ export const overwhereIv00060 = {
     "Her sense holds the shape of the gully: above the overhang, a lip of loose stone, steep and high.",
     "The beast sleeps on, thirty paces away.",
   ],
+  issues: ['"The beast sleeps on, thirty paces away." - Leave It Open'],
   lore: [
     "lore/overwhere-iv-ilsa-crane-2",
     "lore/overwhere-iv-nala",
@@ -47,6 +48,6 @@ export const overwhereIv00060 = {
     "place/overwhere-iv-crowstone-quarry",
     "place/overwhere-iv-north-west-pastures",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-04T14:20:00.000Z",
 } as const satisfies StoryTurnPlayed
