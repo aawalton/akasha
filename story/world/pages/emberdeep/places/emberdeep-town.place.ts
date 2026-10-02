@@ -59,5 +59,17 @@ export const emberdeepTown = {
         "character-other/emberdeep-elowen",
       ],
     },
+    {
+      fact: "Above the town a steep path climbs to the Warm Pools, hot springs in the rock, free to anyone.",
+      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+    },
+    {
+      fact: "On Restday women bathe at the Warm Pools in the morning and men in the afternoon, by old custom.",
+      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+    },
+    {
+      fact: "The Warm Pools steam even in snow, and delvers say they ease every ache the Deep gives.",
+      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+    },
   ],
 } as const satisfies Place

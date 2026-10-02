@@ -82,5 +82,9 @@ export const emberdeepCorbelHouse = {
         "character-other/emberdeep-elowen",
       ],
     },
+    {
+      fact: "There is no porridge on Restday; at noon the widow serves her lodgers a pie, paid for in the rent.",
+      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+    },
   ],
 } as const satisfies Place

@@ -122,6 +122,10 @@ export const emberdeepWren = {
         "character-player/emberdeep-nala",
       ],
     },
+    {
+      fact: "Wren is starting to want Nala, and feels a pang she won't name at Elowen moving into room 7.",
+      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

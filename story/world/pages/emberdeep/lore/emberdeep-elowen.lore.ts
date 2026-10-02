@@ -126,6 +126,10 @@ export const emberdeepElowen = {
         "character-player/emberdeep-nala",
       ],
     },
+    {
+      fact: "Elowen is falling for Nala, and is frightened and glad of sharing her bed in equal measure.",
+      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-elowen"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
