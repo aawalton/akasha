@@ -224,5 +224,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Trying pairs till the mending weave comes needs no roll; it costs only the hours and some stings.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Finding the mending weave opens no System window; it is a Weave use, not a new way or skill.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
