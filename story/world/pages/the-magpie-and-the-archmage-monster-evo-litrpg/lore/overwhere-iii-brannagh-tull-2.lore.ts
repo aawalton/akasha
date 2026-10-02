@@ -163,7 +163,11 @@ export const overwhereIiiBrannaghTull2 = {
     },
     {
       fact: "Near five on day seven a farm lad from the Thornmere road waits on the bench, bitten on the calf.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-brannagh-tull",
+        "character-player/overwhere-iii-nala",
+      ],
     },
     {
       fact: "The lad's bite is a day old and blighted: a fox with wrong eyes got into his family's hen-house.",
