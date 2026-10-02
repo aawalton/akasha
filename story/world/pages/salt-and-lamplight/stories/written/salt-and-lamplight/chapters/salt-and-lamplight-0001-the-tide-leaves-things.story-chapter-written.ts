@@ -103,4 +103,54 @@ export const saltAndLamplight0001TheTideLeavesThings = {
     "image/image-1015b6ccc3799933",
     "image/image-66d2d7a0e81a17db",
   ],
+  pictured: [
+    {
+      cover: "image/image-2757828f143c1114",
+      character: "character-player/salt-and-lamplight-nala",
+      outfit: "thin soaked linen shift",
+      setting: "the cove",
+    },
+    { cover: "image/image-6c1a49e5a2e92bf6", setting: "the Morrow Head light" },
+    {
+      cover: "image/image-a9222c9f79b20e1f",
+      character: "character-other/salt-and-lamplight-morwenna",
+      outfit: "navy fisherman's jumper, canvas trousers, sea boots",
+    },
+    {
+      cover: "image/image-10edd90e7d99f702",
+      character: "character-player/salt-and-lamplight-nala",
+      outfit: "Morwenna's navy fisherman's jumper, far too big for her",
+    },
+    {
+      cover: "image/image-f1b08b06b323c438",
+      character: "character-other/salt-and-lamplight-morwenna",
+      outfit: "off-white linen shirt, canvas trousers, sea boots",
+    },
+    {
+      cover: "image/image-c385779284644e4a",
+      character: "character-player/salt-and-lamplight-nala",
+      outfit: "naked",
+      setting: "the keeper's cottage",
+    },
+    {
+      cover: "image/image-6f98d3bea2c309d4",
+      character: "character-player/salt-and-lamplight-nala",
+      outfit: "dry linen shift under a grey wool blanket",
+    },
+    {
+      cover: "image/image-6dbec137281d41b8",
+      character: "character-other/salt-and-lamplight-morwenna",
+      outfit: "off-white linen shirt, canvas trousers, sea boots",
+    },
+    {
+      cover: "image/image-1015b6ccc3799933",
+      character: "character-other/salt-and-lamplight-morwenna",
+      outfit: "off-white linen shirt, canvas trousers, sea boots",
+    },
+    {
+      cover: "image/image-66d2d7a0e81a17db",
+      character: "character-player/salt-and-lamplight-nala",
+      outfit: "dry linen shift under a grey wool blanket",
+    },
+  ],
 } as const satisfies StoryChapterWritten

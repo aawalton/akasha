@@ -95,4 +95,52 @@ export const saltAndLamplight0003TheBoatSong = {
     "image/image-5359741c52bdf650",
     "image/image-1d60a060b39b22e2",
   ],
+  pictured: [
+    {
+      cover: "image/image-b056a40293e9e9b4",
+      character: "character-other/salt-and-lamplight-morwenna",
+      outfit: "navy fisherman's jumper, canvas trousers, sea boots",
+    },
+    {
+      cover: "image/image-70f4d03842a21dba",
+      character: "character-player/salt-and-lamplight-nala",
+      outfit: "her mother's brown wool dress",
+    },
+    {
+      cover: "image/image-094df81a55931be4",
+      character: "character-other/salt-and-lamplight-morwenna",
+      outfit: "navy fisherman's jumper, canvas trousers, sea boots",
+    },
+    { cover: "image/image-f5585bc3542b5cc6", setting: "the Teeth" },
+    {
+      cover: "image/image-19858c9cee80f2d0",
+      character: "character-player/salt-and-lamplight-nala",
+      outfit: "her mother's brown wool dress",
+    },
+    {
+      cover: "image/image-36046ed5ab80536b",
+      character: "character-other/salt-and-lamplight-morwenna",
+      outfit: "navy fisherman's jumper, canvas trousers, sea boots",
+    },
+    {
+      cover: "image/image-9ec258dd2cd885c4",
+      character: "character-player/salt-and-lamplight-nala",
+      outfit: "naked",
+    },
+    {
+      cover: "image/image-9f7ee007137889fe",
+      character: "character-other/salt-and-lamplight-morwenna",
+      outfit: "navy fisherman's jumper, canvas trousers, sea boots",
+    },
+    {
+      cover: "image/image-5359741c52bdf650",
+      character: "character-other/salt-and-lamplight-morwenna",
+      outfit: "navy fisherman's jumper, canvas trousers, sea boots",
+    },
+    {
+      cover: "image/image-1d60a060b39b22e2",
+      character: "character-player/salt-and-lamplight-nala",
+      outfit: "white linen shift under an oatmeal knitted shawl",
+    },
+  ],
 } as const satisfies StoryChapterWritten

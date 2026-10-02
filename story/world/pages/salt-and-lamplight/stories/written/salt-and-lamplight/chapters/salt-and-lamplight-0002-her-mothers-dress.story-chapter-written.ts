@@ -110,4 +110,62 @@ export const saltAndLamplight0002HerMothersDress = {
     "image/image-a064327f737cebf0",
     "image/image-ded0e0900d66698e",
   ],
+  pictured: [
+    {
+      cover: "image/image-352abe57eec803f2",
+      character: "character-player/salt-and-lamplight-nala",
+      outfit: "dry linen shift under a grey wool blanket",
+      setting: "the tower stair",
+    },
+    {
+      cover: "image/image-fb3782dedab6d778",
+      character: "character-player/salt-and-lamplight-nala",
+      outfit: "dry linen shift under a grey wool blanket",
+      setting: "the lantern room",
+    },
+    {
+      cover: "image/image-a9468cb1dc383b4e",
+      character: "character-player/salt-and-lamplight-nala",
+      outfit: "her mother's brown wool dress",
+    },
+    {
+      cover: "image/image-9a7b7d83858a3d40",
+      character: "character-other/salt-and-lamplight-morwenna",
+      outfit: "navy fisherman's jumper under a long dark wool coat, canvas trousers",
+      setting: "the cliff path",
+    },
+    {
+      cover: "image/image-58fb12b5dbd18a28",
+      character: "character-player/salt-and-lamplight-nala",
+      outfit: "her mother's brown wool dress",
+      setting: "Penmorrow harbour",
+    },
+    {
+      cover: "image/image-e640b5d1a8007be4",
+      character: "character-player/salt-and-lamplight-nala",
+      outfit: "her mother's brown wool dress",
+    },
+    {
+      cover: "image/image-ec084fa8b1ed226e",
+      character: "character-other/salt-and-lamplight-dilys",
+      outfit: "dark green wool dress, white linen apron",
+      setting: "the Anchor",
+    },
+    {
+      cover: "image/image-3c32764b12b6a42a",
+      character: "character-other/salt-and-lamplight-agnes",
+      outfit: "rusty black wool dress, dark red knitted shawl",
+    },
+    {
+      cover: "image/image-a064327f737cebf0",
+      character: "character-player/salt-and-lamplight-nala",
+      outfit: "her mother's brown wool dress",
+      setting: "the goat shed",
+    },
+    {
+      cover: "image/image-ded0e0900d66698e",
+      character: "character-other/salt-and-lamplight-morwenna",
+      outfit: "navy fisherman's jumper, canvas trousers, sea boots",
+    },
+  ],
 } as const satisfies StoryChapterWritten
