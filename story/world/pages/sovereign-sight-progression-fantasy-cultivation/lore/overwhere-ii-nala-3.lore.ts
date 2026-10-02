@@ -94,7 +94,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "The needle dart is a finger-long iron needle, its grooved tip dark with dried venom.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "The dried venom on a spent dart is too little to choke anyone's Locks.",
