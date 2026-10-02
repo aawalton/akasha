@@ -184,6 +184,10 @@ export const overwhereIHessaVane = {
       fact: "Hessa tells Tobin to do as Nala says on the road and to come back with Osric's cart.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Hessa warns Nala that Voss's men work the woods where the road nears the river Wend.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
