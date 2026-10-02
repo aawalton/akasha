@@ -4,13 +4,14 @@ export const overwhereIii00072 = {
   id: "01a0fe7c-cc6e-7ed5-be42-826747130573",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-072",
+  cover: "image/image-9eedb1e984a58071",
   ownLength: 114,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 72,
   prose: "txt",
   characters: ["character-player/overwhere-iii-nala", "character-other/overwhere-iii-marda-hesk"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Oh! Inventory sounds useful!” I pull open the skill shop and buy it. “Done! Any other basics I might have missed?”",
   beats: [
@@ -34,6 +35,12 @@ export const overwhereIii00072 = {
     "place/overwhere-iii-merrowgate-guild-post",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-07T11:50:00.000Z",
+  coverAfter: "You pick Inventory. Its price in glimmerstones fades from your pack.",
 } as const satisfies StoryTurnPlayed
