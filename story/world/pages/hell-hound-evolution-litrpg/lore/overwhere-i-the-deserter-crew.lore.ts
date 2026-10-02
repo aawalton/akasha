@@ -342,6 +342,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Nala's air ward turned two crossbow bolts and a third from someone unseen in the trees.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "The two crossbowmen and Voss reach the pit about 8 seconds after the whistles.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
