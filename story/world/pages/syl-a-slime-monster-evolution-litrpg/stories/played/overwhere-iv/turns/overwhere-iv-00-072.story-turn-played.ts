@@ -11,4 +11,5 @@ export const overwhereIv00072 = {
   action:
     "I blow the horn, then watch to see what the torches do, ready to slice goblins if they approach",
   lore: ["place/overwhere-iv-the-tangle", "place/overwhere-iv-tull-farm"],
+  endsAt: "2026-10-06T06:30:00.000Z",
 } as const satisfies StoryTurnPlayed
