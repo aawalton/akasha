@@ -308,6 +308,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Voss came on through the fire behind his shield, then at three sharp whistles broke for the pit.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
+    {
+      fact: "At three sharp whistles the whole crew broke and ran for the quarry pit.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
