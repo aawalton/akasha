@@ -76,6 +76,18 @@ export const overwhereIiLadyImreVarrow = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
+      fact: "She has heard of folk the Sea touched losing their past, and does not call Nala's lost memory a lie.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Told Nala remembers nothing past a few weeks, she asks where Nala first woke, and who saw her first.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "If Nala names Hollow Tarn, the frost on Lady Varrow's chair cracks, and she says nothing of why.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "She asks to look at Nala through her glass from the Spires, and does not say what she hopes to see.",
       knowers: ["lore-disclosure/game-master"],
     },
