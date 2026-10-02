@@ -168,5 +168,9 @@ export const overwhereIWendlow = {
       fact: "A woman carrying a cask on her shoulder up the high street draws stares and a following of boys.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Grete Analyzes each hunter who brings proof, then counts it on the counter before she pays.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
