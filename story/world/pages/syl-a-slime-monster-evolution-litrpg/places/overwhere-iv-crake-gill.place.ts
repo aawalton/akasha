@@ -123,5 +123,13 @@ export const overwhereIvCrakeGill = {
       fact: "Awake, the grey-black beast raises the ridge on its back and charges in silence.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Up the fifteen-pace scramble the wolf comes in bounds, head low and neck leading, in sight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The scramble gives her two heartbeats, no more, between its foot and the rim.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Place
