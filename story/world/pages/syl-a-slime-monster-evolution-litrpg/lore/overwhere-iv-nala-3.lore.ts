@@ -52,5 +52,21 @@ export const overwhereIvNala3 = {
       fact: "The flicker steadies when she holds the spot in her sense alone, not pictured as if seen.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "A day's practice rending by sense on boulders raised Nala's Spatial Sense to LV 4.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "At Spatial Sense LV 4, her always-on sense reaches a little wider again.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Nala told Ilsa she might be good for a night watch, and would say after a day's training.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iv-nala",
+        "character-other/overwhere-iv-ilsa-crane",
+      ],
+    },
   ],
 } as const satisfies Lore

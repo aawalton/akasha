@@ -42,6 +42,6 @@ export const overwhereIv00070 = {
     "place/overwhere-iv-north-west-pastures",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
   endsAt: "2026-10-05T16:03:00.000Z",
 } as const satisfies StoryTurnPlayed

@@ -65,7 +65,7 @@ export const overwhereIvNorthWestPastures = {
     },
     {
       fact: "Between the north gate and the pastures, the downs are empty, grazed short and dotted with boulders.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Place
