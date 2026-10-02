@@ -4,6 +4,7 @@ export const overwhereIii00057 = {
   id: "01a0fd92-6460-7ae5-9e52-d66c1ec6aa37",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-057",
+  cover: "image/image-d09bddc2d4b1262f",
   ownLength: 211,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -39,6 +40,6 @@ export const overwhereIii00057 = {
     "place/overwhere-iii-wrenwood-crossroads",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory"],
+  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-10-05T13:00:00.000Z",
 } as const satisfies StoryTurnPlayed
