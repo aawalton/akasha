@@ -9,6 +9,7 @@ import { storyTurnAdvance } from "akasha/command/pages/story/turn/advance/story-
 import {
   advancedBy,
   CHAPTER_ARGV,
+  CHAPTER_BEATS,
   chapterReach,
   GIVEN,
   LANDED,
@@ -111,7 +112,7 @@ test("a game master's advance of a turn stating its endsAt lands", async () => {
 
 test("a written chapter's game master advances with no endsAt", async () => {
   const into = seen()
-  const argv = [...CHAPTER_ARGV, ...BEATS]
+  const argv = [...CHAPTER_ARGV, "--beats-file", CHAPTER_BEATS]
   const answer = await storyTurnAdvance(
     argv,
     GIVEN,

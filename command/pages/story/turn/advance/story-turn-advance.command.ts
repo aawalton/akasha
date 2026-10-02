@@ -14,6 +14,7 @@ export const storyTurnAdvance = {
     "module/turn-handing",
     "module/turn-timing",
     "module/turn-crossed",
+    "module/chapter-length",
   ],
   decisions: [
     {
@@ -113,6 +114,19 @@ export const storyTurnAdvance = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A written chapter's writer names the chapter as it hands in the prose.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A written chapter's beats number 50 to 100.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A written chapter's prose runs 50 to 200 words for each of its beats.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An advance handing a written chapter beats or prose of another length is refused.",
     },
     {
       decisionKind: "decision-kind/departure",

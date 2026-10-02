@@ -270,12 +270,17 @@ export const CHAPTER_ARGV = ["--chapter", "story-chapter-written/the-saga-0002"]
 export function chapterReach(
   into: Seen,
   status: TurnStep = "game-master",
-  seat: Seated = seatOf("game-master", MASTER)
+  seat: Seated = seatOf("game-master", MASTER),
+  more: Record<string, unknown> = {}
 ): Reach {
   const chapter = {
     at: CHAPTER_AT,
     slug: "the-saga-0002",
-    value: { story: "story-written/the-saga", stepStatus: `${stepStatus.slug}/${status}` },
+    value: {
+      story: "story-written/the-saga",
+      stepStatus: `${stepStatus.slug}/${status}`,
+      ...more,
+    },
   }
   return {
     ...reachOver(turnAt(status), seat, into),
@@ -308,6 +313,14 @@ export const GIVEN: Given = {
 writeFileSync(join(ROOT, "beats.txt"), "Mara opens the gate\n\nThe hall is dark\n")
 writeFileSync(join(ROOT, "issues.txt"), '"opens" - it was locked\n')
 writeFileSync(join(ROOT, "prose.txt"), "Mara opens the gate.\n")
+
+export const CHAPTER_BEATS = join(ROOT, "chapter-beats.txt")
+
+export function beatsOf(count: number): string[] {
+  return Array.from({ length: count }, (_, at) => `Mara takes step ${at + 1}`)
+}
+
+writeFileSync(CHAPTER_BEATS, `${beatsOf(50).join("\n")}\n`)
 
 const ADMITTED = {
   types: ["world-character", "character-player", "character-other"],

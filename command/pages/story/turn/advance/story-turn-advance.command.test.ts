@@ -11,6 +11,7 @@ import {
   CALLED,
   CHAPTER_ARGV,
   CHAPTER_AT,
+  CHAPTER_BEATS,
   chapterReach,
   DRAFTED,
   ENDED,
@@ -321,7 +322,7 @@ test("an advance from a seat not holding the turn lands nothing", async () => {
 
 test("a written chapter advances as a turn does, folded and told as a chapter", async () => {
   const into = seen()
-  const argv = [...CHAPTER_ARGV, "--beats-file", join(ROOT, "beats.txt")]
+  const argv = [...CHAPTER_ARGV, "--beats-file", CHAPTER_BEATS]
   const reach = chapterReach(into)
   const answer = await storyTurnAdvance(
     argv,

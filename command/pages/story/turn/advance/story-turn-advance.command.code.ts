@@ -19,6 +19,7 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { repointed } from "akasha/command/modules/edits-repointing/edits-repointing.module.code.ts"
+import { lengthRefused } from "akasha/command/pages/story/turn/advance/modules/chapter-length/chapter-length.module.code.ts"
 import {
   type Crossing,
   crossedIndexed,
@@ -185,6 +186,10 @@ function untimedOn(reach: Reaching, root: string, read: Taken, held: Held, turn:
   return untimedRefused(reach.timeCheckOf(root, held.game), held.game, turn.slug, turn.value)
 }
 
+function unsizedOn(read: Taken, turn: Turn): string | null {
+  return read.chapter ? lengthRefused(read.handed, turn.value) : null
+}
+
 async function noticesOver(
   reach: Reach,
   root: string,
@@ -241,6 +246,8 @@ async function heldOn(
   if ("refused" in said) return refused(said.refused, DATA)
   const untimed = untimedOn(reach, given.root, read, held, turn)
   if (untimed !== null) return refused(untimed, DATA)
+  const unsized = unsizedOn(read, turn)
+  if (unsized !== null) return refused(unsized, DATA)
   const recording = read.handed.kind === "record"
   const moved = recording ? reach.keep(given.root, given.agentId, turn.at) : []
   if ("refused" in moved) return refused(moved.refused, DATA)
