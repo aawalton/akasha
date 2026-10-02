@@ -120,5 +120,9 @@ export const overwhereIStarfallLegacy2 = {
       fact: "Loosing a beam or slug while running the stride is a band harder.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The stride carries her weight; a hurt leg does not slow it, and it draws mana, not stamina.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
