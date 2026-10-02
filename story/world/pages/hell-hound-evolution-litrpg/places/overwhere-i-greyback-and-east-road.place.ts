@@ -262,7 +262,7 @@ export const overwhereIGreybackAndEastRoad = {
     },
     {
       fact: "The Ford Inn charges 8 copper a bed and 3 copper for a hot bath in its back-room tub.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
     {
       fact: "Working in the inn's back room, Nala draws no notice but the innkeeper's girl, who peeks once.",
