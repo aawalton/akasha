@@ -78,11 +78,23 @@ export const overwhereIvNala3 = {
     },
     {
       fact: "Held in sense alone as she learned, a rend on a mark she cannot see at last holds and lands.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "A rend laid by sense alone lands near its mark, not as finely as one laid by sight.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Drill with her new crossbarred spear raised Nala's Spearmanship to LV 5.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "Rending a boulder's crack by sense alone, eyes shut, gave Nala Sense Casting LV 1.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
+    {
+      fact: "A rend laid by sense alone costs the same handful of warmth as any rend.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
   ],
 } as const satisfies Lore

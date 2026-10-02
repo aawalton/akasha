@@ -145,7 +145,7 @@ export const overwhereIvTullFarm = {
     },
     {
       fact: "Told Nala won't watch again, Aldo says he and his da will sit up themselves.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
     {
       fact: "Tull takes back his lantern at dawn and says only that she'll be welcome again.",

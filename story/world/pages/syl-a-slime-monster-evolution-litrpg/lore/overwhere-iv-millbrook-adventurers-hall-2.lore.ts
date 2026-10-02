@@ -226,7 +226,11 @@ export const overwhereIvMillbrookAdventurersHall2 = {
     },
     {
       fact: "Lacking Nala for the night of day 8, Ilsa moves Dace and Merrit to Tull's.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iv-ilsa-crane",
+        "character-player/overwhere-iv-nala",
+      ],
     },
     {
       fact: "On the night of day 8 Wren and Orla watch Hobb's, and the Ashby place goes unwatched.",

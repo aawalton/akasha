@@ -65,7 +65,11 @@ export const overwhereIvBrooksideFour2 = {
     },
     {
       fact: "Ilsa sent Dace for her horn; he'll carry it back to the hall on his way to Tull's.",
-      knowers: ["lore-disclosure/game-master", "lore/overwhere-iv-brookside-four"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "lore/overwhere-iv-brookside-four",
+        "character-player/overwhere-iv-nala",
+      ],
     },
     {
       fact: "Dace sees boulders on the downs split clean, and guesses whose work it is.",
