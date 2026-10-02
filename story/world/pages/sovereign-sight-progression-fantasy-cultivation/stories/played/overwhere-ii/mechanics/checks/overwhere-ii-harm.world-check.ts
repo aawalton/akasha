@@ -79,6 +79,10 @@ export const overwhereIiHarm = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Bone refined whole adds five to most vigour, once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A night's sleep gives back a third of her most vigour; Goody Brannoc's care doubles it.",
     },
