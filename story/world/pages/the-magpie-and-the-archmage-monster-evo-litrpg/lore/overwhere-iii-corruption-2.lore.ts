@@ -93,5 +93,13 @@ export const overwhereIiiCorruption2 = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "One braided loop took the wolf's second stone to about six and a half of eight.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
 } as const satisfies Lore
