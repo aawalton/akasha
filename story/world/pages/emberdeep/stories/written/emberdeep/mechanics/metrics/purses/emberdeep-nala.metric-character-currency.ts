@@ -6,7 +6,7 @@ export const emberdeepNala = {
   slug: "emberdeep-nala",
   character: "character-player/emberdeep-nala",
   currency: "world-currency/emberdeep-coin",
-  value: 12,
+  value: 0,
   history: "jsonl",
   minValue: 0,
   displayOrder: 1,
