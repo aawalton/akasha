@@ -170,15 +170,30 @@ export const overwhereITobinAshdown = {
     },
     {
       fact: "Knowing Nala's voice, Tobin lowers his bow with a shaky laugh; he and Osric are unhurt.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-tobin-ashdown",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
     {
       fact: "Tobin carries Hessa's pot of yarrow salve, which slows bleeding; he offers it for her wounds.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-tobin-ashdown",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
     {
       fact: "Tobin asks how many there were, and if it's true Voss is dead.",
-      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-tobin-ashdown",
+        "lore/overwhere-i-osric-fenn",
+      ],
     },
   ],
   secrets: "jsonl",

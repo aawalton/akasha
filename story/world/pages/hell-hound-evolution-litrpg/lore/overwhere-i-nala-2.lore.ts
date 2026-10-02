@@ -108,5 +108,14 @@ export const overwhereINala2 = {
       fact: "Unslept since day 4 and hurt, Nala's careful acts are a band harder past midnight until she sleeps.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At Ketter's Well Nala told Tobin and Osric she took care of Voss and his men.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-i-nala",
+        "lore/overwhere-i-tobin-ashdown",
+        "lore/overwhere-i-osric-fenn",
+      ],
+    },
   ],
 } as const satisfies Lore
