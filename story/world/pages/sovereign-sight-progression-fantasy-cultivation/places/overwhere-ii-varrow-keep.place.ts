@@ -32,5 +32,9 @@ export const overwhereIiVarrowKeep = {
       fact: "A guest who reaches the Keep after noon is fed and lodged, and the Lady receives them next morning.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Keep's roofs are patched, its walls stained dark with old rain.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Place
