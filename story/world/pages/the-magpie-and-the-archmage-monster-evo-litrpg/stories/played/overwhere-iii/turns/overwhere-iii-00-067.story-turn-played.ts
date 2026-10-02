@@ -13,7 +13,7 @@ export const overwhereIii00067 = {
     "character-player/overwhere-iii-nala",
     "character-other/overwhere-iii-brannagh-tull",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I rest and watch the weaves until dusk, then heal the washer woman",
   beats: [
     "Nala settles on the bench outside Brannagh's door and lets the afternoon go by.",
@@ -37,6 +37,6 @@ export const overwhereIii00067 = {
     "lore/overwhere-iii-nala-2",
     "lore/overwhere-iii-nala-2-2",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-06T18:15:00.000Z",
 } as const satisfies StoryTurnPlayed
