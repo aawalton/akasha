@@ -257,5 +257,9 @@ export const overwhereIvNala2 = {
       fact: "Nala read all seven shrine books in one day; Sister Anwen said she'd not seen the like.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
     },
+    {
+      fact: "Nala told Sister Anwen her fast reading is a skill, from having many books when younger.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore
