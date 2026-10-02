@@ -4,13 +4,14 @@ export const overwhereIv00078 = {
   id: "01a0feff-fe5e-7a68-a473-214cb420bc83",
   type: "page-type/story-turn-played",
   slug: "overwhere-iv-00-078",
+  cover: "image/image-c7de7fdaa1d73cc9",
   ownLength: 113,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 78,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I turn and use my momentum to slash across its neck with the spear, then get up and run again, weaving a bit to dodge the slings.",
   beats: [
@@ -30,6 +31,12 @@ export const overwhereIv00078 = {
     "lore/overwhere-iv-the-tangle-2",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-06T21:22:00.000Z",
+  coverAfter: "The club goblin bursts past the spear, panting, and swings its club",
 } as const satisfies StoryTurnPlayed
