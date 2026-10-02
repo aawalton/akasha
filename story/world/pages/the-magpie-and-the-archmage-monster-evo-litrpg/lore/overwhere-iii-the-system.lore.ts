@@ -322,7 +322,11 @@ export const overwhereIiiTheSystem = {
     },
     {
       fact: "The Inventory trait sells in the skill shop for 3 glimmerstones; most adventurers buy it first.",
-      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-marda-hesk"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/overwhere-iii-marda-hesk",
+        "character-player/overwhere-iii-nala",
+      ],
     },
   ],
   secrets: "jsonl",
