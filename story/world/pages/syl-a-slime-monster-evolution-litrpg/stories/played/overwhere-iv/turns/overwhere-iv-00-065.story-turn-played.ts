@@ -7,7 +7,13 @@ export const overwhereIv00065 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iv"],
   position: 65,
-  stepStatus: "step-status/world-builder",
+  stepStatus: "step-status/game-master",
   action:
     "I leave the broken spear and carry just the head back to town, I’ll reimburse the guard for the spear, my replacement is already being made, and report back to the guild.",
+  lore: [
+    "lore/overwhere-iv-millbrook-adventurers-hall-2",
+    "place/overwhere-iv-crake-gill",
+    "place/overwhere-iv-crowstone-quarry",
+    "place/overwhere-iv-millbrook-gatehouse",
+  ],
 } as const satisfies StoryTurnPlayed
