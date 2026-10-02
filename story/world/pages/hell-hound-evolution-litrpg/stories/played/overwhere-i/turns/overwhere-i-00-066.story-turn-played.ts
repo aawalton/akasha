@@ -4,13 +4,14 @@ export const overwhereI00066 = {
   id: "01a0fd18-f41b-7fc8-b3dd-f4e716627a82",
   type: "page-type/story-turn-played",
   slug: "overwhere-i-00-066",
+  cover: "image/image-e7a00804a3f90890",
   ownLength: 148,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-i"],
   position: 66,
   prose: "txt",
   characters: ["character-player/overwhere-i-nala", "character-other/overwhere-i-ghost-eye"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“How far to Wendlow again? I’d love to get this turned in and paid for before it stinks too much.”",
   beats: [
@@ -34,6 +35,11 @@ export const overwhereI00066 = {
     "place/overwhere-i-greyback-and-east-road",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-02T17:05:00.000Z",
 } as const satisfies StoryTurnPlayed
