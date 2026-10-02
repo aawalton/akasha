@@ -208,7 +208,7 @@ export const overwhereIRowanCoalby = {
     },
     {
       fact: "At dawn on day 5 Rowan and Sedge come to the gate to see Nala off; Sedge, for once, sniffs her hand.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
     },
   ],
   secrets: "jsonl",
