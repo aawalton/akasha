@@ -233,7 +233,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
     },
     {
       position: 45,
-      cover: "image/image-c07e94c28655e2a2",
+      cover: "image/image-cf63fa643bf06c81",
       coverAfter: "Links crouches over you, his fur flat, watching the gloom where the",
     },
     {
