@@ -4,6 +4,7 @@ export const image294927a2faf544f8 = {
   id: "01a0e826-251d-711c-a57f-a1b9b50061c3",
   type: "page-type/image",
   slug: "image-294927a2faf544f8",
+  grade: "F",
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",

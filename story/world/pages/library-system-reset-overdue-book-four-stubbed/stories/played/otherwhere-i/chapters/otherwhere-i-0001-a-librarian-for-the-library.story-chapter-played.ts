@@ -13,7 +13,7 @@ export const otherwhereI0001ALibrarianForTheLibrary = {
   turnCovers: [
     {
       position: 1,
-      cover: "image/image-294927a2faf544f8",
+      cover: "image/image-6f8c2e7db488ab71",
       coverAfter: "Your shirt slides off one shoulder. The loose grey shirt you pulled",
     },
     {
