@@ -144,5 +144,14 @@ export const hollowmerePriya = {
         "character-other/hollowmere-priya",
       ],
     },
+    {
+      fact: "Dev rang Priya; she couldn't think what to say, and kept thinking of Amara and the ring.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-priya",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
+    },
   ],
 } as const satisfies Lore

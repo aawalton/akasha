@@ -81,5 +81,13 @@ export const hollowmereNala2 = {
       fact: "Nala keeps Kit's black handkerchief under her pillow.",
       knowers: ["lore-disclosure/game-master", "character-player/hollowmere-nala"],
     },
+    {
+      fact: "Nala told Lin she is new here in ways she can't explain, not yet; Lin didn't ask.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-lin",
+      ],
+    },
   ],
 } as const satisfies Lore

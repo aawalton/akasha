@@ -26,11 +26,21 @@ export const hollowmereMorwenna = {
     },
     {
       fact: "Morwenna wears her dark brown hair in a short ponytail under a navy wool headband.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-morwenna"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-morwenna",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
     },
     {
       fact: "Morwenna coaches from a launch with a megaphone, in a sleeveless navy club fleece.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-morwenna"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-morwenna",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-bea",
+      ],
     },
     {
       fact: "Morwenna is loud, cheerful and exacting, and remembers every novice's name by the second week.",

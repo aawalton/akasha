@@ -241,11 +241,35 @@ export const hollowmereLin = {
     },
     {
       fact: "Lin has room 8 on Thornfield's middle floor, its walls pinned with drawings, its window on the quad.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-lin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+      ],
     },
     {
       fact: "Lin noticed Nala at the Welcome Dinner, and has drawn her twice since from memory.",
-      knowers: ["lore-disclosure/game-master", "character-other/hollowmere-lin"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Lin drew Nala in charcoal in her window for an hour, and it was more Nala than any mirror.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+      ],
+    },
+    {
+      fact: "Lin kissed Nala on her window seat, the first girl she has kissed; she'd wanted to since the dinner.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-lin",
+        "character-player/hollowmere-nala",
+      ],
     },
   ],
   secrets: "jsonl",

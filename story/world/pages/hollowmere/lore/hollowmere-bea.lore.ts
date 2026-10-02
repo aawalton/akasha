@@ -332,6 +332,32 @@ export const hollowmereBea = {
         "character-other/hollowmere-bea",
       ],
     },
+    {
+      fact: "Bea rows at bow in a novice four; Morwenna clapped her shoulder: Bow. You're keeping it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-morwenna",
+      ],
+    },
+    {
+      fact: "Bea's four caught a crab on its sixth stroke; Nala cheered from the jetty, too loud; Bea grinned.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+        "character-other/hollowmere-morwenna",
+      ],
+    },
+    {
+      fact: "Bea wiped Lin's charcoal off Nala's cheek: There's a queue now, is there. Then she held Nala's hand.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-bea",
+        "character-player/hollowmere-nala",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
