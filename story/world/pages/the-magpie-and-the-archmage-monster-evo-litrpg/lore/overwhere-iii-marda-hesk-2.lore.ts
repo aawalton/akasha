@@ -56,5 +56,9 @@ export const overwhereIiiMardaHesk2 = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "Marda reads Nala's palms as a plain burn, no blight in it, and names Brannagh's marigold salve.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
