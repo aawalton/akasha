@@ -7,9 +7,19 @@ export const overwhereIii00054 = {
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
   position: 54,
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Thanks Ivy” I go rest at the shrine, then back to the Post. “How many blightstones left to cleanse here?”",
+  beats: [
+    '"Thanks, Ivy." Ivy waves her off from the rail, and Huw lifts his goad in his good right hand.',
+    "Nala walks out the south gate and down to the crossroads, and sits against the shrine's warm stone.",
+    "The white-gold threads seep in. By late afternoon she's full to the brim again.",
+    "She walks back up to town and into the Post before the dusk bell.",
+    '"How many blightstones are left to cleanse here?" she asks Marda.',
+    'Marda taps the lead box with her cane. "Two whole ones. One stag, one wolf."',
+    '"And the six seed stones you brought in off folk. That\'s all there is in Merrowgate."',
+    '"More only come from new kills. The Thornmere wagon takes the box at the new moon, twelve days off."',
+  ],
   lore: [
     "lore/overwhere-iii-corruption",
     "lore/overwhere-iii-ivy-marsh",
