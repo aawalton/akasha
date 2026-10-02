@@ -72,5 +72,13 @@ export const overwhereIiiMardaHesk2 = {
         "character-other/overwhere-iii-marda-hesk",
       ],
     },
+    {
+      fact: "Giving the day 10 leads, Marda said, 'Small blight first, I'd say. But it's your hunt.'",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
+    },
   ],
 } as const satisfies Lore
