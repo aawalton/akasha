@@ -253,7 +253,7 @@ export const overwhereIiReeveCorwinDray2 = {
     },
     {
       fact: "Dray wants Nala at the Ford when Sir Edric comes, to tell him of the crag and the pull herself.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
