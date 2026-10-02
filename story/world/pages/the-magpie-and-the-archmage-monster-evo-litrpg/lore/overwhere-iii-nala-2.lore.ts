@@ -61,14 +61,6 @@ export const overwhereIiiNala2 = {
       ],
     },
     {
-      fact: "Nala's face has gone gray with hunger.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/overwhere-iii-nala",
-        "character-other/overwhere-iii-bet-harrow",
-      ],
-    },
-    {
       fact: "Nala bought Bet's wool tunic, gray cloak, two pairs of stockings and a supper for 13 copper.",
       knowers: [
         "lore-disclosure/game-master",
@@ -196,7 +188,7 @@ export const overwhereIiiNala2 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
-      fact: "Nala last ate at supper on her fourth night; by noon on day five her stomach growls.",
+      fact: "Nala last ate at supper on her sixth night, and went to bed fed.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
     {
