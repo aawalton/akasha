@@ -9,7 +9,7 @@ export const overwhereIvNalaSenseCasting = {
   description: "Aiming a spell at a spot felt through Spatial Sense rather than seen.",
   character: "character-player/overwhere-iv-nala",
   skill: "world-skill/overwhere-iv-sense-casting",
-  level: 1,
+  level: 2,
   uses: 0,
   unrevealed: false,
 } as const satisfies OverwhereIvSkill
