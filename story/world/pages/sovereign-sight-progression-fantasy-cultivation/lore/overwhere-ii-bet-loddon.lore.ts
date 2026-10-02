@@ -33,7 +33,7 @@ export const overwhereIiBetLoddon = {
     },
     {
       fact: "Bet tells that her brothers lie in the barn's hayloft with crossbows on the yard below.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Bet tells that Big Harl waits inside the farmhouse, and Crake with him, by the hearth.",
