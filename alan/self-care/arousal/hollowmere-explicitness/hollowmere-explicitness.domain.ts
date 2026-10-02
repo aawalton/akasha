@@ -32,7 +32,16 @@ export const hollowmereExplicitness = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Every part and act is named plainly: cunt, clit, tits, ass, mouth, fingers, fuck, lick, come.",
+        "Every part and act is named plainly, in the word the moment and the speaker would use.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A tender moment says breasts and making love; a heated one may say tits, cunt and fuck.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Naming plainly bars a euphemism, never a gentler word that fits the moment.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -52,6 +61,10 @@ export const hollowmereExplicitness = {
       decisionKind: "decision-kind/departure",
       statement:
         "A reviewer records softening, a fade-out, or sex the story has not reached as an issue.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reviewer records a word cruder than its moment as an issue.",
     },
     {
       decisionKind: "decision-kind/departure",
