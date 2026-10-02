@@ -10,7 +10,7 @@ export const saltAndLamplight0001TheTideLeavesThings = {
   story: "story-written/salt-and-lamplight",
   ownLength: 2825,
   prose: "txt",
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   beats: [
     "Nala wakes at dusk on cold wet shingle, barefoot, in a thin soaked linen shift and nothing else.",
     "Her last memory is Alan dozing over a book at his back window one evening.",
@@ -66,6 +66,10 @@ export const saltAndLamplight0001TheTideLeavesThings = {
     "She lays a hand on her own chest, feels her heart small and quick, and thinks of Morwenna's hands.",
     "She falls asleep not knowing whether she will wake as Nala or as Alan.",
   ],
+  issues: [
+    '"The wet linen hides nothing" - Plain Negation',
+    '"Only softness, and a cleft" - Salt and Lamplight Explicitness',
+  ],
   lore: [
     "lore/salt-and-lamplight-morwenna",
     "lore/salt-and-lamplight-nala",
@@ -77,5 +81,5 @@ export const saltAndLamplight0001TheTideLeavesThings = {
     "character-player/salt-and-lamplight-nala",
     "character-other/salt-and-lamplight-morwenna",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryChapterWritten
