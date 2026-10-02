@@ -112,5 +112,9 @@ export const overwhereIiNala3 = {
       fact: "Waking after the venom, Nala's sense of water around her comes faint and slow.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "Once her Locks run free after the venom, Nala is parched and starving, unfed since the day before.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore

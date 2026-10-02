@@ -235,5 +235,9 @@ export const overwhereIiReeveCorwinDray2 = {
       fact: "Dray keeps Crake's keys and the rest of the coin, and takes the next watch at the barn door himself.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
+    {
+      fact: "On the march to the Ford, Dray shares the watch's bread, cheese and small beer with Nala.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
+    },
   ],
 } as const satisfies Lore
