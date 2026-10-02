@@ -50,7 +50,11 @@ export const overwhereIiiMendingWeave = {
     },
     {
       fact: "A Mending Weave works on her own body as on anyone's; laid on her own burn, it closes it the same.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/overwhere-iii-nala",
+        "character-other/overwhere-iii-marda-hesk",
+      ],
     },
     {
       fact: "A shallow burn like a current scald is a small wound; one Mending Weave closes it.",
