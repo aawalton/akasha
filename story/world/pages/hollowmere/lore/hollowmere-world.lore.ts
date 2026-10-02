@@ -137,5 +137,9 @@ export const hollowmereWorld = {
         "character-other/hollowmere-penhallow",
       ],
     },
+    {
+      fact: "On the second Sunday of term the first autumn storm comes over the fells: gale, rain, a white mere.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

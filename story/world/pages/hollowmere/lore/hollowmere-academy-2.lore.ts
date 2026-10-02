@@ -58,5 +58,13 @@ export const hollowmereAcademy2 = {
       fact: "Novice rowing trains at seven on Saturday mornings, in coxed fours out of the boathouse.",
       knowers: ["lore-disclosure/game-master", "character-other/hollowmere-bea"],
     },
+    {
+      fact: "In a gale the boathouse stays shut, the swimmers are stood down, and the quad paths flood.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/hollowmere-yusra",
+        "character-other/hollowmere-morwenna",
+      ],
+    },
   ],
 } as const satisfies Lore
