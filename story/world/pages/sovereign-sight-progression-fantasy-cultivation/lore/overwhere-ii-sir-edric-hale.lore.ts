@@ -109,7 +109,7 @@ export const overwhereIiSirEdricHale = {
     },
     {
       fact: "Hearing Nala, Sir Edric tells her of the bowed root, the bottomless crack and the spreading cracks.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Sir Edric keeps the slow breath in the rock to himself, until he has told Lady Varrow.",
