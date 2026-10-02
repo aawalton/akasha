@@ -26,7 +26,7 @@ export const overwhereIiNala3 = {
     },
     {
       fact: "Pulled out by hand, the needle dart leaves a prick that closes within the hour.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Penned, Nala's Water presses at her choked Locks; by night it spills out as cold salt sweat.",
