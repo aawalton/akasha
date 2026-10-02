@@ -321,5 +321,9 @@ export const overwhereIiiBrannaghTull2 = {
       fact: "His cheek smoothed, the cooper's boy grinned, felt his face and ran off down the lane wordless.",
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
+    {
+      fact: "At first light on day ten an old shepherd off the slate waits, a ram's-horn scar down his shin.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+    },
   ],
 } as const satisfies Lore
