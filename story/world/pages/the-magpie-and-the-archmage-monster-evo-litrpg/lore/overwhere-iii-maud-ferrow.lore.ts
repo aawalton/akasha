@@ -101,5 +101,9 @@ export const overwhereIiiMaudFerrow = {
       fact: "Tam Rowe is the lanky young watchman who dropped Nala; he grins, and goes no easier the second day.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A third hard day of Maud's drill earns: [New skill acquired – Staff Fighting.]",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
