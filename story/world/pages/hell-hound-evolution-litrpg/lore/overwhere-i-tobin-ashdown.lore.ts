@@ -144,6 +144,10 @@ export const overwhereITobinAshdown = {
       fact: "At the quarry Tobin's hand creeps to his bow; he will loose if a blade is drawn.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "At the quarry Tobin loosed at a running crewman and missed.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-i-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
