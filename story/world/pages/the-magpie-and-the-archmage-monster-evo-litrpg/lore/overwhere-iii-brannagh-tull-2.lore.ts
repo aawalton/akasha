@@ -297,5 +297,9 @@ export const overwhereIiiBrannaghTull2 = {
       fact: "Day nine's first light brings nothing fresh to the bench but the cooper's boy.",
       knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
     },
+    {
+      fact: "At first light on day nine a cooper's boy off the slate waits, an old dog-bite scar on his cheek.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iii-brannagh-tull"],
+    },
   ],
 } as const satisfies Lore
