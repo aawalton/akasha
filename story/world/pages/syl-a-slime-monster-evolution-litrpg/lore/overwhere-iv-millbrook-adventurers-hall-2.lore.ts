@@ -220,5 +220,17 @@ export const overwhereIvMillbrookAdventurersHall2 = {
         "character-player/overwhere-iv-nala",
       ],
     },
+    {
+      fact: "Handed back the horn, Ilsa pays the Tull watch and writes the torches in her ledger.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "Lacking Nala for the night of day 8, Ilsa moves Dace and Merrit to Tull's.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
+    {
+      fact: "On the night of day 8 Wren and Orla watch Hobb's, and the Ashby place goes unwatched.",
+      knowers: ["lore-disclosure/game-master", "character-other/overwhere-iv-ilsa-crane"],
+    },
   ],
 } as const satisfies Lore
