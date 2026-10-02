@@ -10,7 +10,7 @@ export const overwhereIi00081 = {
   position: 81,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action: "I come over and give a guard salute. “Sir.”",
   beats: [
     "Nala comes down the lane to the Reeve's door and gives the knight a crisp guard's salute.",
@@ -26,12 +26,15 @@ export const overwhereIi00081 = {
     'Sir Edric: "Dray writes that you found a crag split open up there, and something pulling under it."',
     'Sir Edric: "I\'d have you lead me up to it tomorrow, and tell me of the pull, there, on the spot."',
   ],
+  issues: [
+    '"glances up the valley" - from the Reeve\'s house the Whitecombs stand south, across the valley',
+  ],
   lore: [
     "lore/overwhere-ii-nala",
     "lore/overwhere-ii-nala-2",
     "lore/overwhere-ii-nala-3",
     "lore/overwhere-ii-sir-edric-hale",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-18T09:10:00.000Z",
 } as const satisfies StoryTurnPlayed
