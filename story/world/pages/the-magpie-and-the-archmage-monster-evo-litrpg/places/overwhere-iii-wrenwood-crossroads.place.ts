@@ -122,7 +122,7 @@ export const overwhereIiiWrenwoodCrossroads = {
     },
     {
       fact: "After dark the crossroads is empty and still, and the shrine's stone stays warm all night.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",
