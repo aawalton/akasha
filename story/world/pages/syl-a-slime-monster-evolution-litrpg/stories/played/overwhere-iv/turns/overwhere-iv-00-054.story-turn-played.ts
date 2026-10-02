@@ -10,7 +10,7 @@ export const overwhereIv00054 = {
   position: 54,
   prose: "txt",
   characters: ["character-player/overwhere-iv-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I slice it as well, the go through and collect the ears, checking for any other loot as well, then guide the sheep back and report back to the guild.",
   beats: [
@@ -42,6 +42,6 @@ export const overwhereIv00054 = {
     "place/overwhere-iv-raiders-stream",
     "place/overwhere-iv-tull-farm",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-10-03T13:35:00.000Z",
 } as const satisfies StoryTurnPlayed
