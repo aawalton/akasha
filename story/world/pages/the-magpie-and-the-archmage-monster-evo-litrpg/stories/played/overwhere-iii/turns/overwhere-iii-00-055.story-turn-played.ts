@@ -4,6 +4,7 @@ export const overwhereIii00055 = {
   id: "01a0fd73-1a8b-7203-bb6c-17618a36bc0b",
   type: "page-type/story-turn-played",
   slug: "overwhere-iii-00-055",
+  cover: "image/image-14ead051dd804e5e",
   ownLength: 180,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-iii"],
@@ -14,7 +15,7 @@ export const overwhereIii00055 = {
     "character-other/overwhere-iii-marda-hesk",
     "character-other/overwhere-iii-bet-harrow",
   ],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I work on the next blightstone while my mana lasts, then wind down for the night.",
   beats: [
     "Marda lifts the stag's second stone out with her tongs and sets it on the desk.",
@@ -42,6 +43,11 @@ export const overwhereIii00055 = {
     "place/overwhere-iii-merrowgate-guild-post",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/inventory", "story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: [
+    "story-recorder/inventory",
+    "story-recorder/memory",
+    "story-recorder/mechanics",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-04T18:00:00.000Z",
 } as const satisfies StoryTurnPlayed
