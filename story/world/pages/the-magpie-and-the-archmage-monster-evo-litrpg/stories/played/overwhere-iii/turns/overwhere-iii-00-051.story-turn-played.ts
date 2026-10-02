@@ -16,7 +16,7 @@ export const overwhereIii00051 = {
     "character-other/overwhere-iii-maud-ferrow",
     "character-other/overwhere-iii-tam-rowe",
   ],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     "I check in at Brannagh’s and the Post to drain my mana, then train my body with the guards.",
   beats: [
@@ -50,6 +50,6 @@ export const overwhereIii00051 = {
     "lore/overwhere-iii-the-system",
     "place/overwhere-iii-merrowgate-guild-post",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-10-04T10:30:00.000Z",
 } as const satisfies StoryTurnPlayed
