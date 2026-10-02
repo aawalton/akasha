@@ -78,7 +78,7 @@ export const otherwhereI0002TheCounterWakes = {
     },
     {
       position: 63,
-      cover: "image/image-ea95c7c7aa259a90",
+      cover: "image/image-8de86c2f5713ae89",
       coverAfter: "The carved trees glow gold, branch by branch, until every book-blossom and",
     },
   ],
