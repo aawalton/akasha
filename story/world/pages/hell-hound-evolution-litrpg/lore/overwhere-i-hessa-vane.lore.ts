@@ -155,6 +155,10 @@ export const overwhereIHessaVane = {
       fact: "Hessa looks the head over a long while, then tells Nala plainly she had not thought to see her back.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Hessa tells Nala to salt the head tonight, or it will be past the Hall's taking within a week.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
