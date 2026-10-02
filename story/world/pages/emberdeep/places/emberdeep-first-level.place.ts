@@ -99,7 +99,21 @@ export const emberdeepFirstLevel = {
     },
     {
       fact: "The passage that shifted this spring on the Well Room path ends in fresh rubble no one has sifted.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-wren",
+        "character-other/emberdeep-elowen",
+      ],
+    },
+    {
+      fact: "The party picked twelve ember-stones from the shifted passage's rubble, down to bare floor.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-wren",
+        "character-other/emberdeep-elowen",
+      ],
     },
   ],
   secrets: "jsonl",

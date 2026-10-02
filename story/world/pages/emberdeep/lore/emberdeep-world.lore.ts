@@ -100,6 +100,7 @@ export const emberdeepWorld = {
         "lore-disclosure/game-master",
         "character-other/emberdeep-wren",
         "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
       ],
     },
     {
@@ -149,6 +150,7 @@ export const emberdeepWorld = {
         "lore-disclosure/game-master",
         "character-other/emberdeep-wren",
         "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
       ],
     },
   ],

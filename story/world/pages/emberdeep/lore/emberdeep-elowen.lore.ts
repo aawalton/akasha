@@ -102,7 +102,29 @@ export const emberdeepElowen = {
     },
     {
       fact: "Elowen has eleven pennies left, and nowhere to sleep once her third night at the Kettle is over.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-elowen"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-wren",
+      ],
+    },
+    {
+      fact: "After the Sixthday sale, Elowen's purse holds eighteen pennies, all owed for Restday rent.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-wren",
+      ],
+    },
+    {
+      fact: "Elowen pushed Nala's hair back off her face in the rubble, and stopped laughing as she did.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-elowen",
+        "character-player/emberdeep-nala",
+      ],
     },
   ],
   secrets: "jsonl",

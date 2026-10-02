@@ -50,11 +50,37 @@ export const emberdeepCorbelHouse = {
     },
     {
       fact: "On Restday morning the widow takes the next week's rent: two marks for room 7, paid in advance.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+      ],
     },
     {
       fact: "Every room at Corbel House is let; a second lodger sharing a room pays the widow half a mark a week.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+      ],
+    },
+    {
+      fact: "From Restday Elowen shares room 7 with Nala, and pays the widow half a mark a week.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-elowen",
+        "character-other/emberdeep-wren",
+      ],
+    },
+    {
+      fact: "The bed in room 7 is narrow, barely wide enough for one.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-wren",
+        "character-other/emberdeep-elowen",
+      ],
     },
   ],
 } as const satisfies Place

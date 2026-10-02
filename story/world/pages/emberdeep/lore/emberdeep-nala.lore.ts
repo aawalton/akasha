@@ -149,6 +149,24 @@ export const emberdeepNala = {
       fact: "Nala woke in Emberdeep on a Fourthday, and went down the Deep first on the Fifthday after.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "After the Sixthday sale, Nala's purse holds twelve pennies, all owed for Restday rent.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-wren",
+        "character-other/emberdeep-elowen",
+      ],
+    },
+    {
+      fact: "Wren called Nala's plan to sift the new passage a scout's thought.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/emberdeep-nala",
+        "character-other/emberdeep-wren",
+        "character-other/emberdeep-elowen",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

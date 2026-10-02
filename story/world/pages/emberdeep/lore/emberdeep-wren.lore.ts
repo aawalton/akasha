@@ -100,7 +100,27 @@ export const emberdeepWren = {
     },
     {
       fact: "Wren's rat bite is clean and healing under Elowen's herbs, though it aches when she grips.",
-      knowers: ["lore-disclosure/game-master", "character-other/emberdeep-wren"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+      ],
+    },
+    {
+      fact: "Wren set four of her seven Sixthday pennies aside for Saltby, and spent one on the party's loaf.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+      ],
+    },
+    {
+      fact: "Wren broke off teasing Nala about room 7's bed and gave her a long look Nala could not read.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/emberdeep-wren",
+        "character-player/emberdeep-nala",
+      ],
     },
   ],
   secrets: "jsonl",
