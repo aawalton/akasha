@@ -4,13 +4,14 @@ export const overwhereIi00065 = {
   id: "01a0fd6d-23fe-7978-80c5-e7551acadcbe",
   type: "page-type/story-turn-played",
   slug: "overwhere-ii-00-065",
+  cover: "image/image-3c292fa591ed3aa5",
   ownLength: 204,
   unit: "unit/words",
   partOfCollections: ["story-played/overwhere-ii"],
   position: 65,
   prose: "txt",
   characters: ["character-player/overwhere-ii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“Gladly. I’ll bring me new spear, can’t be too safe with the wolves around.” I say with an eager grin.",
   beats: [
@@ -38,6 +39,11 @@ export const overwhereIi00065 = {
     "place/overwhere-ii-ashlin-farm",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/inventory"],
+  recordedBy: [
+    "story-recorder/mechanics",
+    "story-recorder/memory",
+    "story-recorder/inventory",
+    "story-recorder/picture",
+  ],
   endsAt: "2026-10-14T15:00:00.000Z",
 } as const satisfies StoryTurnPlayed
