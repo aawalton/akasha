@@ -21,7 +21,7 @@ export const overwhereIiBetLoddon = {
     },
     {
       fact: "Led to the Reeve by the arm, Bet goes white and tries to twist free, but Nala's grip holds.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "When Dray names Crake to her face, Bet breaks and weeps, and begs them not to kill her brothers.",
