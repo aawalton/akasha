@@ -4,6 +4,7 @@ export const overwhereI0003Flare = {
   id: "01a0f1fc-24ad-7679-8d17-cd56759c235e",
   type: "page-type/story-chapter-played",
   slug: "overwhere-i-0003-flare",
+  ownProgress: 1273,
   position: 3,
   unit: "unit/words",
   title: "Flare",
