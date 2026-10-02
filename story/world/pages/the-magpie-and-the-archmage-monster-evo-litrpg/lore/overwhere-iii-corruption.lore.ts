@@ -378,7 +378,7 @@ export const overwhereIiiCorruption = {
     },
     {
       fact: "The fox bite's thread runs east out the east gate, along the Thornmere road toward the farms.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-iii-nala"],
     },
   ],
   secrets: "jsonl",
