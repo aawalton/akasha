@@ -187,6 +187,10 @@ export const overwhereITheDeserterCrew = {
       fact: "Crow, Level 17 with 44 health, looses at Nala unseen 4 seconds in, then every 6 seconds.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Osric dives under his cart at the first slug; Tobin looses at the nearest man once blades are out.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
