@@ -224,8 +224,8 @@ export const overwhereIiReeveCorwinDray2 = {
       knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
-      fact: "Thanked, Dray says it is the valley that owes her, and bids her drink, eat, and sleep till dawn.",
-      knowers: ["lore-disclosure/game-master"],
+      fact: "Thanked, Dray says Nala earned every bar, and Crake's five besides, and bids her drink and sleep.",
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
   ],
 } as const satisfies Lore
