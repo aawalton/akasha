@@ -13,7 +13,7 @@ export const overwhereIiVarrowTalented = {
     },
     {
       fact: "Hawise Tull, about thirty, lean and scarred, leads the Talented's training in the lower court.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "Hawise's Talent is Quickstep, Minor, at First Depth: for a few breaths she moves twice as fast.",
