@@ -4,7 +4,7 @@ export const theDatingGame00002 = {
   id: "01a0de91-c157-7f6c-afd3-7ec7f69e7a94",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-002",
-  cover: "image/image-7fec5bc2c573fb74",
+  cover: "image/image-2eb5c8b36dbee5e8",
   coverAfter: "She looks mid-twenties. Her dark brown hair is knotted by the wind,",
   ownLength: 473,
   partOfCollections: ["story-played/the-dating-game"],
