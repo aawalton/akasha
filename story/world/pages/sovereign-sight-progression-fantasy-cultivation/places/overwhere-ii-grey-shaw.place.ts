@@ -46,7 +46,7 @@ export const overwhereIiGreyShaw = {
     },
     {
       fact: "The pit holds twenty-two small bottles of stolen Water, each a draught's worth, cold and dense.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/overwhere-ii-nala"],
     },
     {
       fact: "A Carrowmouth thaumist pays about a silver bar a bottle; a drained Talent drinks it back to heal.",
